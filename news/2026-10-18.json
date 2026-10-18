@@ -1,7 +1,7 @@
 {
  "date": "2026-10-18",
- "generated_at": 1792340557.8066652,
- "count": 188,
+ "generated_at": 1792342966.305863,
+ "count": 189,
  "items": [
   {
    "id": "7916efc70c01f0f2",
@@ -1541,6 +1541,15 @@
    "summary": "Article URL: https://www.tomshardware.com/video-games/new-york-rep-announces-game-ownership-bill-that-would-require-consumer-ownership-rather-than-sale-of-licenses-would-also-require-publishers-to-keep-the-game-functional-after-support-ends Comments URL: https://news.ycombinator.com/item?id=50136536",
    "published_at": 1792282462.0,
    "published_bj": "2026-10-18 08:14"
+  },
+  {
+   "id": "4f9811479e25fbf3",
+   "source": "Hacker News",
+   "title": "Beyond Tetris: The Other Games of Alexey Pajitnov [video]",
+   "url": "https://www.youtube.com/watch?v=QH_LPimUJMs",
+   "summary": "Article URL: https://www.youtube.com/watch?v=QH_LPimUJMs Comments URL: https://news.ycombinator.com/item?id=50136017 Points: 4 # Comments: 0",
+   "published_at": 1792278510.0,
+   "published_bj": "2026-10-18 07:08"
   },
   {
    "id": "83f29218f936ce1f",

@@ -1,7 +1,7 @@
 {
  "date": "2026-10-19",
- "generated_at": 1792340557.8057299,
- "count": 4,
+ "generated_at": 1792342966.3045208,
+ "count": 11,
  "items": [
   {
    "id": "4334785631dc2b28",
@@ -20,6 +20,69 @@
    "summary": "点击查看原文>",
    "published_at": 1792364283.0,
    "published_bj": "2026-10-19 06:58"
+  },
+  {
+   "id": "7d8fb6d196c3ab45",
+   "source": "cnBeta",
+   "title": "超频玩家将英特尔酷睿i5-4670K推至6.3 GHz 尘封12年的纪录被打破",
+   "url": "https://www.cnbeta.com.tw/articles/tech/1582790.htm",
+   "summary": "对于电脑硬件爱好者来说，你并不一定需要最新、最顶级的现代硬件才能体验超频的乐趣，甚至打破世界纪录。近日，知名超频专家Luumi使用一套充满复古情怀的Haswell平台系统，成功打破了一项保持了长达12年之久的Cinebench R11.5超频纪录。 阅读全文",
+   "published_at": 1792341338.0,
+   "published_bj": "2026-10-19 00:35"
+  },
+  {
+   "id": "ccec9e29e6894db9",
+   "source": "cnBeta",
+   "title": "宇宙模拟显示银河系环境有利于生命 但它并非唯一宜居星系",
+   "url": "https://www.cnbeta.com.tw/articles/science/1582788.htm",
+   "summary": "研究人员利用EAGLE宇宙学模拟追踪星系数亿光年范围内的演化，评估宇宙中哪些地方能为生命提供较稳定的环境。结果显示，今天的银河系属于适宜生命发展的典型星系：它能够持续形成潜在宜居行星，同时遭遇极端宇宙灾害的风险较低。研究发表于《皇家天文学会月刊》，但它评估的是生命可能生存的条件，并没有发现地外生命，也不能预测某颗行星上是否真的有生命。 阅读全文",
+   "published_at": 1792341307.0,
+   "published_bj": "2026-10-19 00:35"
+  },
+  {
+   "id": "098b077cda89d0c2",
+   "source": "cnBeta",
+   "title": "苹果首次公布折叠屏iPhone Duo电池容量：4883mAh 由两块电池组成",
+   "url": "https://www.cnbeta.com.tw/articles/tech/1582786.htm",
+   "summary": "苹果公司近日公布的欧盟产品信息文件揭示了首款折叠屏手机 iPhone Duo 的电池容量。这款设备配备总容量为4883mAh的电池，由两块电芯组合而成，容量分别为2962mAh和1921mAh。相关信息此前已在网络上出现，此次欧盟产品信息文件的发布进一步证实了这一数据。 阅读全文",
+   "published_at": 1792341262.0,
+   "published_bj": "2026-10-19 00:34"
+  },
+  {
+   "id": "6974b09758a3415a",
+   "source": "cnBeta",
+   "title": "迪士尼大举吸纳Character.AI人才团队 计划聘用多数员工",
+   "url": "https://www.cnbeta.com.tw/articles/movie/1582784.htm",
+   "summary": "据披露的破产法庭文件显示，迪士尼已同意聘用人工智能聊天机器人公司Character.AI的大部分员工，这项人才收购行动也是Character.AI破产重组过程中的重要组成部分。 阅读全文",
+   "published_at": 1792341240.0,
+   "published_bj": "2026-10-19 00:34"
+  },
+  {
+   "id": "ccac1dee394e01b1",
+   "source": "Hacker News",
+   "title": "Someone Behind the Software",
+   "url": "https://karrisaarinen.com/posts/someone-behind-the-software/",
+   "summary": "Article URL: https://karrisaarinen.com/posts/someone-behind-the-software/ Comments URL: https://news.ycombinator.com/item?id=50142573 Points: 8 # Comments: 0",
+   "published_at": 1792341120.0,
+   "published_bj": "2026-10-19 00:32"
+  },
+  {
+   "id": "39b1650b556ee06f",
+   "source": "TechCrunch",
+   "title": "Disney agrees to hire the majority of Character.AI’s workforce",
+   "url": "https://techcrunch.com/2026/10/18/disney-agrees-to-hire-the-majority-of-character-ais-workforce/",
+   "summary": "After chatbot startup Character.AI filed for bankruptcy earlier this week, many of its employees will have the opportunity to take jobs at Disney. Character.AI’s former CEO Karandeep Anand recently became the entertainment giant’s first CTO, and the startup previously said that Disney had agreed to ",
+   "published_at": 1792341000.0,
+   "published_bj": "2026-10-19 00:30"
+  },
+  {
+   "id": "e67d1a7eb3f2227c",
+   "source": "Hacker News",
+   "title": "The Intel 8087 chip: floating-point addition and subtraction",
+   "url": "https://www.righto.com/2026/10/8087-addition-subtraction-microcode.html",
+   "summary": "Article URL: https://www.righto.com/2026/10/8087-addition-subtraction-microcode.html Comments URL: https://news.ycombinator.com/item?id=50142449 Points: 4 # Comments: 0",
+   "published_at": 1792340427.0,
+   "published_bj": "2026-10-19 00:20"
   },
   {
    "id": "c839ab2dc2c1dd87",
