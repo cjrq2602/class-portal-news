@@ -1,7 +1,7 @@
 {
  "date": "2026-10-19",
- "generated_at": 1792347579.2575822,
- "count": 14,
+ "generated_at": 1792349567.452457,
+ "count": 15,
  "items": [
   {
    "id": "4334785631dc2b28",
@@ -20,6 +20,15 @@
    "summary": "点击查看原文>",
    "published_at": 1792364283.0,
    "published_bj": "2026-10-19 06:58"
+  },
+  {
+   "id": "cb5065bf05972670",
+   "source": "Hacker News",
+   "title": "PalmOS Lemmings by Aaron Ardiri",
+   "url": "https://github.com/ardiri/palmos-lemmings",
+   "summary": "Article URL: https://github.com/ardiri/palmos-lemmings Comments URL: https://news.ycombinator.com/item?id=50143536 Points: 8 # Comments: 1",
+   "published_at": 1792346219.0,
+   "published_bj": "2026-10-19 01:56"
   },
   {
    "id": "f733716a8d0f842f",
