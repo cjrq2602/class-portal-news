@@ -1,8 +1,26 @@
 {
  "date": "2026-10-19",
- "generated_at": 1792363511.032784,
- "count": 37,
+ "generated_at": 1792365370.3795824,
+ "count": 42,
  "items": [
+  {
+   "id": "9188ed36b8b9c320",
+   "source": "IT之家",
+   "title": "掌阅推出 Ocean 6 Pro 电纸书阅读器：7 英寸 Carta 1300 云曦柔光屏，1799 元",
+   "url": "https://www.ithome.com/1/014/624.htm",
+   "summary": "IT之家 10 月 19 日消息，掌阅推出 Ocean 6 Pro 电纸书阅读器，有孤山（黑）、浅草（绿）两种配色，现已开始预约， 售价 1799 元 。 这款新品采用 7 英寸云曦柔光屏，支持亮度 30 级、色温 30 级精细调节，配备全新定制柔光灯珠，采用微米级贴合技术与纳米蚀刻钢化玻璃；Carta 1300 屏幕技术，300PPI，采用凹屏设计，显示层次感更强。 整机重 196g、厚约 7mm；机身设计经过优化，倒角圆润处理，更贴合掌心，搭配实体翻页按键，单手操作更方便。 这款新品搭载 6 纳米 8 核 CPU，4GB 内存 + 64GB 存储组合，综合性能相比前代提升 300%，配备 ",
+   "published_at": 1792364990.0,
+   "published_bj": "2026-10-19 07:09"
+  },
+  {
+   "id": "2384fcdac69edbbd",
+   "source": "IT之家",
+   "title": "消息称 AI 云厂商 Nscale IPO 估值目标遭投资者反对：砍半才有人买单",
+   "url": "https://www.ithome.com/1/014/623.htm",
+   "summary": "IT之家 10 月 19 日消息，据彭博社报道，知情人士透露，在人工智能公司遭遇一系列市场挫折后，Nscale 公司的首次公开募股所追求的估值目标正面临阻力。 知情人士称，这家获得英伟达投资的数据中心开发商原本寻求约 300 亿美元 （IT之家注：现汇率约合 2,010.87 亿元人民币） 的 IPO 估值。部分知情人士表示，考虑到澳大利亚人工智能数据中心企业 Firmus IPO 计划宣告失败等因素，一批投资者近期提出，估值定在 160 亿至 190 亿美元 （现汇率约合 1,072.47 亿至 1,273.55 亿元人民币） 区间才更容易获得认购方认可。 估值方面的分歧，让 Nscale ",
+   "published_at": 1792364943.0,
+   "published_bj": "2026-10-19 07:09"
+  },
   {
    "id": "4334785631dc2b28",
    "source": "InfoQ中文",
@@ -20,6 +38,24 @@
    "summary": "点击查看原文>",
    "published_at": 1792364283.0,
    "published_bj": "2026-10-19 06:58"
+  },
+  {
+   "id": "62fb0191985995c2",
+   "source": "IT之家",
+   "title": "Anthropic 拟设立“公共利益”基金，初始注入 5% 股份",
+   "url": "https://www.ithome.com/1/014/622.htm",
+   "summary": "IT之家 10 月 19 日消息，当地时间 10 月 18 日，Anthropic 宣布，在获得股东批准的前提下， 公司计划将 5% 的股份划入新设立的公共利益基金 （Public Benefit Fund）；且随着这家人工智能巨头的估值增长，该基金持有的股份比例未来还可能进一步提升。 该拟议的基金将作为一家全资拥有的有限责任公司设立，经董事会裁量，公司估值每较尚未披露的基准上涨 50%，基金就会获得 Anthropic 额外 2% 的股份。 Anthropic 公共利益基金所支持的项目将涵盖非营利捐赠、向特定群体发放直接资助，以及应对人工智能对就业人员冲击等举措。 该公司表示，该基金所持有的",
+   "published_at": 1792363955.0,
+   "published_bj": "2026-10-19 06:52"
+  },
+  {
+   "id": "5c2efa9d724bf941",
+   "source": "IT之家",
+   "title": "古尔曼：苹果本月底发布 OLED MacBook Pro、M6 设备及 iPad mini 8，11 月 6 日上市",
+   "url": "https://www.ithome.com/1/014/621.htm",
+   "summary": "IT之家 10 月 19 日消息，彭博社的马克 · 古尔曼（Mark Gurman）称，苹果大概率会在 11 月 6 日周五发售多款新品，包括搭载 OLED 屏幕的 MacBook Pro、配备 M6 芯片的 14 英寸 MacBook Pro 与 iMac，以及 / 或一款搭载 OLED 屏幕的 iPad mini 8。 这批产品预计在 10 月 27 日周二或是 10 月 28 日周三正式发布。 IT之家注意到，如果这一时间安排属实，苹果将连续四个周五发售新品，其余产品的发售日期已经确定： 10 月 23 日周五：iPhone Duo 10 月 30 日周五：HomePod mini 2 ",
+   "published_at": 1792363940.0,
+   "published_bj": "2026-10-19 06:52"
   },
   {
    "id": "663ce24e8108ae40",
@@ -92,6 +128,15 @@
    "summary": "I wanted my humble Claude on mobile to access my WhatsApp messages but the only options I could find either required WhatsApp Business or an actual server to run Baileys on. I wanted to run it for free on ClaudeFlare and with my personal WhatsApp account, so I built this. Important feature - it conn",
    "published_at": 1792359370.0,
    "published_bj": "2026-10-19 05:36"
+  },
+  {
+   "id": "10f139d062884887",
+   "source": "Hacker News",
+   "title": "Show HN: OmniPTY – Opinionated terminal emulator for macOS and Linux",
+   "url": "https://github.com/omnipty-terminal/omnipty",
+   "summary": "Article URL: https://github.com/omnipty-terminal/omnipty Comments URL: https://news.ycombinator.com/item?id=50145628 Points: 6 # Comments: 0",
+   "published_at": 1792358653.0,
+   "published_bj": "2026-10-19 05:24"
   },
   {
    "id": "7d99bc9a36ae2df4",
