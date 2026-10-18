@@ -1,7 +1,7 @@
 {
  "date": "2026-10-19",
- "generated_at": 1792356391.2479992,
- "count": 26,
+ "generated_at": 1792358328.143675,
+ "count": 28,
  "items": [
   {
    "id": "4334785631dc2b28",
@@ -20,6 +20,24 @@
    "summary": "点击查看原文>",
    "published_at": 1792364283.0,
    "published_bj": "2026-10-19 06:58"
+  },
+  {
+   "id": "7d99bc9a36ae2df4",
+   "source": "TechCrunch",
+   "title": "No agenda, no rush, no leaving San Francisco: Benchmark’s partners on investing in a frenzied market",
+   "url": "https://techcrunch.com/2026/10/18/no-agenda-no-rush-no-leaving-san-francisco-benchmarks-partners-on-investing-in-a-frenzied-market/",
+   "summary": "Benchmark may have grown its funds and swapped out some partners, but onstage the five who are left sounded like friends who just happen to be running one of the Valley’s most storied firms",
+   "published_at": 1792357200.0,
+   "published_bj": "2026-10-19 05:00"
+  },
+  {
+   "id": "1066ce4f550309fa",
+   "source": "Hacker News",
+   "title": "Hybrid Reasoning Agents: 35–55% fewer tokens and up to 2.6× faster inference",
+   "url": "https://arxiv.org/abs/2610.18861",
+   "summary": "Article URL: https://arxiv.org/abs/2610.18861 Comments URL: https://news.ycombinator.com/item?id=50145337 Points: 13 # Comments: 0",
+   "published_at": 1792356494.0,
+   "published_bj": "2026-10-19 04:48"
   },
   {
    "id": "b84c65ba6cfab9f7",
