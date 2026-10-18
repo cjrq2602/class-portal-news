@@ -1,0 +1,382 @@
+{
+ "type": "yesterday",
+ "date": "2026-10-18",
+ "window": {
+  "start_ts": 1792252800.0,
+  "end_ts": 1792339200.0
+ },
+ "generated_at": 1792340557.911042,
+ "generator": "action",
+ "news_count": 188,
+ "keywords": [
+  "ai",
+  "元",
+  "游戏",
+  "上市",
+  "苹果",
+  "支持",
+  "iphone",
+  "the",
+  "推出",
+  "pro"
+ ],
+ "points": [
+  {
+   "text": "【ai】IT之家 10 月 18 日消息，京东京造现已推出一款 G70Pro 双摄掌静脉智能门锁，该产品号称提供了多种 AI 功能，定价为 1882 元",
+   "keyword": "ai",
+   "news_ids": [
+    "1eeb785b5f96a1f5"
+   ],
+   "refs": [
+    {
+     "id": "1eeb785b5f96a1f5",
+     "title": "京东京造推出 G70Pro 双摄掌静脉智能门锁：支持 AI 语音对话，1882 元（国补后 1599 元）",
+     "source": "IT之家",
+     "url": "https://www.ithome.com/1/014/572.htm",
+     "published_at": 1792319599.0
+    }
+   ]
+  },
+  {
+   "text": "【ai】IT之家 10 月 18 日消息，据科技媒体 TechSpot 今天报道，索尼最近申请一项专利，描绘以下场景：让 AI 在 GPU 完成渲染前预",
+   "keyword": "ai",
+   "news_ids": [
+    "69679411319952a4"
+   ],
+   "refs": [
+    {
+     "id": "69679411319952a4",
+     "title": "索尼新专利曝光：AI 可在 GPU 渲染完成前预测下一帧画面，减少游戏卡顿",
+     "source": "IT之家",
+     "url": "https://www.ithome.com/1/014/615.htm",
+     "published_at": 1792336576.0
+    }
+   ]
+  },
+  {
+   "text": "【ai】IT之家 10 月 18 日消息，据《卫报》今天报道，世界银行正敦促发展中国家开发小型 AI 模型",
+   "keyword": "ai",
+   "news_ids": [
+    "0ef79c2c1422a302"
+   ],
+   "refs": [
+    {
+     "id": "0ef79c2c1422a302",
+     "title": "世界银行：小型 AI 有望改变发展中国家",
+     "source": "IT之家",
+     "url": "https://www.ithome.com/1/014/577.htm",
+     "published_at": 1792321856.0
+    }
+   ]
+  },
+  {
+   "text": "【ai】IT之家 10 月 18 日消息，据《每日电讯报》今天报道，微软已取消的与英国本土数据中心企业 Nscale 的一项合作协议，后者价值数十亿美元",
+   "keyword": "ai",
+   "news_ids": [
+    "3e01ef941b0dffce"
+   ],
+   "refs": [
+    {
+     "id": "3e01ef941b0dffce",
+     "title": "微软取消 AI 相关合作，英国本土数据中心企业 Nscale 遭遇重大挫折",
+     "source": "IT之家",
+     "url": "https://www.ithome.com/1/014/574.htm",
+     "published_at": 1792320171.0
+    }
+   ]
+  },
+  {
+   "text": "【ai】A Meta spokesperson insisted that the updated terms did not reflect a ch",
+   "keyword": "ai",
+   "news_ids": [
+    "00d9ece54df2b663"
+   ],
+   "refs": [
+    {
+     "id": "00d9ece54df2b663",
+     "title": "Meta removes language that raised scraping and AI training concerns",
+     "source": "TechCrunch",
+     "url": "https://techcrunch.com/2026/10/17/meta-removes-language-that-raised-scraping-and-ai-training-concerns/",
+     "published_at": 1792272692.0
+    }
+   ]
+  },
+  {
+   "text": "【上市】据彭博社记者马克·古尔曼最新披露，尽管苹果早已知晓由于制造环节面临挑战，iPhone Duo 将遭遇“严重的供应限制”，但公司仍选择按计划于上周",
+   "keyword": "上市",
+   "news_ids": [
+    "9ebb3a5fdb2d4fe2"
+   ],
+   "refs": [
+    {
+     "id": "9ebb3a5fdb2d4fe2",
+     "title": "古尔曼批评苹果提前开放iPhone Duo预订：明知产能受限仍仓促上市",
+     "source": "cnBeta",
+     "url": "https://www.cnbeta.com.tw/articles/tech/1582774.htm",
+     "published_at": 1792334981.0
+    }
+   ]
+  },
+  {
+   "text": "【上市】苹果零售店据称将在11月6日前后进行新一轮陈列调整",
+   "keyword": "上市",
+   "news_ids": [
+    "203b50c62936dcdf"
+   ],
+   "refs": [
+    {
+     "id": "203b50c62936dcdf",
+     "title": "苹果零售店据称11月6日调整陈列 OLED版iPad mini与触控MacBook Pro或同步上市",
+     "source": "cnBeta",
+     "url": "https://www.cnbeta.com.tw/articles/tech/1582780.htm",
+     "published_at": 1792337039.0
+    }
+   ]
+  },
+  {
+   "text": "【游戏】IT之家 10 月 18 日消息，据游戏媒体 VGC 前天报道，动视首席营销官 Tyler Bahl 最近表示， 《使命召唤：现代战争 4》将为",
+   "keyword": "游戏",
+   "news_ids": [
+    "e1736accde81a53a"
+   ],
+   "refs": [
+    {
+     "id": "e1736accde81a53a",
+     "title": "动视：《使命召唤：现代战争 4》将为《现代战争》系列游戏画上句号",
+     "source": "IT之家",
+     "url": "https://www.ithome.com/1/014/549.htm",
+     "published_at": 1792317050.0
+    }
+   ]
+  },
+  {
+   "text": "【the】Article URL: https://www",
+   "keyword": "the",
+   "news_ids": [
+    "2cb0a6f6453d8a80"
+   ],
+   "refs": [
+    {
+     "id": "2cb0a6f6453d8a80",
+     "title": "Theranos-Style Fraud Has Become the Norm",
+     "source": "Hacker News",
+     "url": "https://www.theatlantic.com/ideas/2026/10/theranos-trump-nathan-fielder/689001/",
+     "published_at": 1792332336.0
+    }
+   ]
+  },
+  {
+   "text": "Article URL: https://expression",
+   "keyword": "",
+   "news_ids": [
+    "5d0edf870d2b9c5b"
+   ],
+   "refs": [
+    {
+     "id": "5d0edf870d2b9c5b",
+     "title": "Campus deplatformings hit record high",
+     "source": "Hacker News",
+     "url": "https://expression.fire.org/p/campus-deplatformings-hit-record",
+     "published_at": 1792338072.0
+    }
+   ]
+  },
+  {
+   "text": "Article URL: https://developer",
+   "keyword": "",
+   "news_ids": [
+    "b7f8a79226144898"
+   ],
+   "refs": [
+    {
+     "id": "b7f8a79226144898",
+     "title": "macOS 15.8.2 Breaks OpenGL",
+     "source": "Hacker News",
+     "url": "https://developer.apple.com/forums/verify-human/verify.html?next=/forums/thread/850550",
+     "published_at": 1792337166.0
+    }
+   ]
+  },
+  {
+   "text": "IT之家 10 月 18 日消息，据央视财经今日报道，近日，国家电影局、体育总局联合印发《关于开展“跟着电影去运动”行动推动电影与体育双向赋能的",
+   "keyword": "",
+   "news_ids": [
+    "fc928947109cf98c"
+   ],
+   "refs": [
+    {
+     "id": "fc928947109cf98c",
+     "title": "两部门：鼓励利用电影院空闲时段开展重大体育赛事直播",
+     "source": "IT之家",
+     "url": "https://www.ithome.com/1/014/616.htm",
+     "published_at": 1792337131.0
+    }
+   ]
+  },
+  {
+   "text": "考古学家长期以来认为秦始皇兵马俑全是由成年男性工匠制作的",
+   "keyword": "",
+   "news_ids": [
+    "33246e2050cc2c93"
+   ],
+   "refs": [
+    {
+     "id": "33246e2050cc2c93",
+     "title": "指纹显示秦始皇兵马俑的制作者有男有女有儿童",
+     "source": "Solidot",
+     "url": "https://www.solidot.org/story?sid=85643",
+     "published_at": 1792336498.0
+    }
+   ]
+  },
+  {
+   "text": "10月17日法国多座城市爆发大规模示威，巴黎部分地区同时发生破坏及趁乱洗劫",
+   "keyword": "",
+   "news_ids": [
+    "166893d825fb09bc"
+   ],
+   "refs": [
+    {
+     "id": "166893d825fb09bc",
+     "title": "Team Vitality巴黎总部遭洗劫 《反恐精英2》冠军奖杯被盗",
+     "source": "cnBeta",
+     "url": "https://www.cnbeta.com.tw/articles/game/1582778.htm",
+     "published_at": 1792335659.0
+    }
+   ]
+  },
+  {
+   "text": "IT之家 10 月 18 日消息，据首尔经济日报今日报道，三星电子将采用全球最大晶圆代工厂台积电的制造工艺，生产英伟达下一代定制高带宽内存（HB",
+   "keyword": "",
+   "news_ids": [
+    "ebc8c625f584c0fe"
+   ],
+   "refs": [
+    {
+     "id": "ebc8c625f584c0fe",
+     "title": "三星将采用台积电 3nm 工艺为英伟达生产下一代 HBM 基底裸片",
+     "source": "IT之家",
+     "url": "https://www.ithome.com/1/014/612.htm",
+     "published_at": 1792335113.0
+    }
+   ]
+  }
+ ],
+ "article": {
+  "title": "2026-10-18 新闻总结",
+  "paragraphs": [
+   {
+    "kind": "lead",
+    "text": "过去 24 小时共收录 188 条新闻，来自 7 家媒体。把标题放在一起看，讨论主要集中在 AI、游戏、上市 这几个方向上，其余消息更像是零散补充。"
+   },
+   {
+    "kind": "section",
+    "heading": "AI",
+    "text": "先看「AI」。IT之家 10 月 18 日消息，京东京造现已推出一款 G70Pro 双摄掌静脉智能门锁，该产品号称提供了多种 AI 功能，定价为 1882 元，部分地区国补后，另有 73 条消息指向同一话题。这类进展更像是把已有能力往工程化落地推了一步，真正的分水岭在于成本和可靠性能不能同时压下来。",
+    "news_ids": [
+     "1eeb785b5f96a1f5"
+    ],
+    "refs": [
+     {
+      "id": "1eeb785b5f96a1f5",
+      "title": "京东京造推出 G70Pro 双摄掌静脉智能门锁：支持 AI 语音对话，1882 元（国补后 1599 元）",
+      "source": "IT之家",
+      "url": "https://www.ithome.com/1/014/572.htm",
+      "published_at": 1792319599.0
+     }
+    ]
+   },
+   {
+    "kind": "section",
+    "heading": "GPU",
+    "text": "与此同时「GPU」。IT之家 10 月 18 日消息，据科技媒体 TechSpot 今天报道，索尼最近申请一项专利，描绘以下场景：让 AI 在 GPU 完成渲染前预测下一帧画面，减，另有 17 条消息指向同一话题。这类进展更像是把已有能力往工程化落地推了一步，真正的分水岭在于成本和可靠性能不能同时压下来。",
+    "news_ids": [
+     "69679411319952a4"
+    ],
+    "refs": [
+     {
+      "id": "69679411319952a4",
+      "title": "索尼新专利曝光：AI 可在 GPU 渲染完成前预测下一帧画面，减少游戏卡顿",
+      "source": "IT之家",
+      "url": "https://www.ithome.com/1/014/615.htm",
+      "published_at": 1792336576.0
+     }
+    ]
+   },
+   {
+    "kind": "section",
+    "heading": "AI",
+    "text": "另一个值得注意的方向是「AI」。IT之家 10 月 18 日消息，据《卫报》今天报道，世界银行正敦促发展中国家开发小型 AI 模型，另有 9 条消息指向同一话题。这类进展更像是把已有能力往工程化落地推了一步，真正的分水岭在于成本和可靠性能不能同时压下来。",
+    "news_ids": [
+     "0ef79c2c1422a302"
+    ],
+    "refs": [
+     {
+      "id": "0ef79c2c1422a302",
+      "title": "世界银行：小型 AI 有望改变发展中国家",
+      "source": "IT之家",
+      "url": "https://www.ithome.com/1/014/577.htm",
+      "published_at": 1792321856.0
+     }
+    ]
+   },
+   {
+    "kind": "section",
+    "heading": "数据中心",
+    "text": "相比之下「数据中心」。IT之家 10 月 18 日消息，据《每日电讯报》今天报道，微软已取消的与英国本土数据中心企业 Nscale 的一项合作协议，后者价值数十亿美元的上市计划遭遇重，另有 5 条消息指向同一话题。资本动作往往领先产品一年，值得盯的不是金额，而是钱最后花向了算力、场景还是补贴。",
+    "news_ids": [
+     "3e01ef941b0dffce"
+    ],
+    "refs": [
+     {
+      "id": "3e01ef941b0dffce",
+      "title": "微软取消 AI 相关合作，英国本土数据中心企业 Nscale 遭遇重大挫折",
+      "source": "IT之家",
+      "url": "https://www.ithome.com/1/014/574.htm",
+      "published_at": 1792320171.0
+     }
+    ]
+   },
+   {
+    "kind": "glossary",
+    "items": [
+     {
+      "term": "AI",
+      "desc": "人工智能，让机器完成识别、生成、判断等原本需要人做的任务"
+     },
+     {
+      "term": "GPU",
+      "desc": "图形处理器，因为擅长大规模并行计算，成了 AI 训练的主力硬件"
+     },
+     {
+      "term": "HBM",
+      "desc": "高带宽内存，把多层内存堆叠起来给 AI 芯片喂数据，缓解带宽瓶颈"
+     },
+     {
+      "term": "API",
+      "desc": "应用程序接口，让不同软件按约定好的方式互相调用"
+     },
+     {
+      "term": "VR",
+      "desc": "虚拟现实，戴上头显进入一个全虚拟的画面"
+     },
+     {
+      "term": "数据中心",
+      "desc": "集中放置服务器、供电与散热设施的大型机房"
+     }
+    ]
+   },
+   {
+    "kind": "outlook",
+    "text": "把这几条放在一起看，最值得跟踪的是 AI 和 游戏 两条线：一条决定技术能走多远，一条决定它多快能落到普通人的日常里。至于其他消息，可以先放进观察名单，等后续有更实的进展再判断。"
+   }
+  ],
+  "word_count": 740
+ },
+ "ai_enhanced": false,
+ "schema": 1,
+ "window_bj": {
+  "start": "2026-10-18 00:00",
+  "end": "2026-10-19 00:00"
+ }
+}

@@ -1,8 +1,35 @@
 {
  "date": "2026-10-19",
- "generated_at": 1792316307.839979,
- "count": 1,
+ "generated_at": 1792340557.8057299,
+ "count": 4,
  "items": [
+  {
+   "id": "4334785631dc2b28",
+   "source": "InfoQ中文",
+   "title": "Meta 联手苹果推出全美最强开源模型，编码基测输给智谱、Kimi",
+   "url": "https://www.infoq.cn/article/EuYOPRUBAeBgBGBu5ktk?utm_source=rss&utm_medium=article",
+   "summary": "点击查看原文>",
+   "published_at": 1792364493.0,
+   "published_bj": "2026-10-19 07:01"
+  },
+  {
+   "id": "ceb93de616dda8e5",
+   "source": "InfoQ中文",
+   "title": "17岁 Kimi 架构核心参与者离职，确认将赴湾区，下一站引发猜想",
+   "url": "https://www.infoq.cn/article/UdT804ujpGxrv0pQfxv2?utm_source=rss&utm_medium=article",
+   "summary": "点击查看原文>",
+   "published_at": 1792364283.0,
+   "published_bj": "2026-10-19 06:58"
+  },
+  {
+   "id": "c839ab2dc2c1dd87",
+   "source": "TechCrunch",
+   "title": "TechCrunch Mobility: Rivian’s next act",
+   "url": "https://techcrunch.com/2026/10/18/techcrunch-mobility-rivians-next-act/",
+   "summary": "Welcome back to TechCrunch Mobility, your hub for the future of transportation and now, more than ever, the role AI is playing in it.",
+   "published_at": 1792339500.0,
+   "published_bj": "2026-10-19 00:05"
+  },
   {
    "id": "5bdfe0f9b58a358f",
    "source": "InfoQ中文",
