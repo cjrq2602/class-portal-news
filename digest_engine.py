@@ -184,6 +184,465 @@ def _item_ref(item: dict[str, Any]) -> dict[str, Any]:
 
 
 # ============================================================
+# 术语表（新词解释）：文中出现即自动附一句人话解释
+# ============================================================
+GLOSSARY: dict[str, str] = {
+    "AGI": "通用人工智能，指能在各类任务上都接近人类水平、而不是只擅长单一任务的 AI",
+    "AI": "人工智能，让机器完成识别、生成、判断等原本需要人做的任务",
+    "AIGC": "由 AI 生成内容，包括文字、图片、音频和视频",
+    "Agent": "智能体，能自己拆解任务、调用工具并连续执行的 AI 程序",
+    "API": "应用程序接口，让不同软件按约定好的方式互相调用",
+    "AR": "增强现实，把虚拟图像叠加到真实世界画面上",
+    "ETF": "交易型开放式指数基金，像股票一样在交易所买卖的一篮子资产",
+    "GDPR": "欧盟通用数据保护条例，对个人数据的收集与使用设定了严格要求",
+    "GPU": "图形处理器，因为擅长大规模并行计算，成了 AI 训练的主力硬件",
+    "HBM": "高带宽内存，把多层内存堆叠起来给 AI 芯片喂数据，缓解带宽瓶颈",
+    "IPO": "首次公开募股，公司第一次把股票卖给公众并上市",
+    "K8s": "Kubernetes 的简称，用来管理大量容器的编排系统",
+    "LLM": "大语言模型，主打文字理解与生成，是「大模型」的同义词",
+    "NFT": "非同质化代币，用区块链标记某个数字物品的唯一所有权",
+    "RAG": "检索增强生成，先查资料再让模型作答，用来减少胡编",
+    "Robotaxi": "无人驾驶出租车，车里没有司机，靠自动驾驶系统接单运营",
+    "SaaS": "软件即服务，把软件放在云端按订阅方式使用",
+    "Transformer": "2017 年提出的神经网络结构，是当今绝大多数大模型的基础",
+    "VR": "虚拟现实，戴上头显进入一个全虚拟的画面",
+    "Web3": "以区块链和用户自持资产为核心的下一代互联网构想",
+    "XR": "扩展现实，VR、AR、MR 的统称",
+    "云计算": "把服务器、存储和软件放到远端按需租用，不用自己买机器",
+    "供应链": "从原材料、零部件到成品交付的整条协作链条",
+    "光刻机": "把电路图案刻到硅片上的核心设备，制程越先进要求越高",
+    "元宇宙": "试图把虚拟世界与现实身份、经济打通的沉浸式互联网形态",
+    "光伏": "把太阳光直接转成电能的技术，也就是太阳能发电",
+    "开源": "源代码公开，允许他人查看、修改并再分发",
+    "微调": "在通用大模型基础上用专门数据再训练，让它更懂某个领域",
+    "数据中心": "集中放置服务器、供电与散热设施的大型机房",
+    "数字孪生": "给现实中的设备或系统建一个实时同步的虚拟副本",
+    "无人机": "不需要机上飞行员、靠远程或自主控制的飞行器",
+    "新能源": "相对煤炭石油而言的清洁能源，常见的是光伏、风电和储能",
+    "晶圆": "制造芯片用的硅片，一块晶圆上会切出大量芯片",
+    "机器学习": "让程序从数据里自己总结规律，而不是把规则一条条写死",
+    "激光雷达": "用激光测量距离的传感器，是自动驾驶感知周围环境的重要部件",
+    "碳中和": "排放的二氧化碳与吸收的量相抵，净排放为零",
+    "算力": "计算能力，通常用 GPU 数量和浮点性能衡量，是训练大模型的门槛",
+    "半导体": "制造芯片的材料产业，处在整个电子工业的上游",
+    "区块链": "把数据按块链接、由多方共同维护的账本技术",
+    "反垄断": "防止企业滥用市场支配地位、限制竞争",
+    "多模态": "同一个模型同时处理文字、图片、音频、视频等多种信息",
+    "大模型": "参数量巨大的神经网络，靠海量文本训练出语言理解与生成能力",
+    "实体清单": "美国商务部的一份出口管制名单，进入名单的企业在采购美国技术时会受限",
+    "推理": "模型根据输入算出输出的过程；日常语境里也指模型的逻辑思考能力",
+    "开源许可证": "规定开源代码能被怎样使用、修改和再分发的法律文本，常见的有 MIT、Apache、GPL",
+    "数据中心液冷": "用液体代替空气给服务器散热，适合高密度算力场景",
+    "智能驾驶": "车辆辅助甚至替代人完成驾驶操作，按自动化程度分为 L0 到 L5",
+    "流片": "把设计好的芯片图纸送去工厂真正生产出样品，费用高、周期长",
+    "隐私": "个人信息的收集、使用与传播边界",
+    "零信任": "不默认信任任何内部网络，每次访问都要重新验证",
+    "零日漏洞": "厂商还不知道、因而暂时没有补丁的安全缺陷",
+}
+# 英文术语必须按单词边界匹配，避免 "AI" 命中 "said" 这类误伤
+_GLOSSARY_LATIN = re.compile(
+    r"(?<![A-Za-z])(" + "|".join(
+        sorted([k for k in GLOSSARY if k.isascii()], key=len, reverse=True)
+    ) + r")(?![A-Za-z])")
+
+
+# ============================================================
+# 主题词词典：只有命中这里的词才能当段落主题（避免二字滑窗碎片）
+# ============================================================
+TOPIC_WORDS: set[str] = {
+    # 技术
+    "大模型", "模型", "算法", "算力", "芯片", "半导体", "光刻", "晶圆", "流片",
+    "架构", "平台", "系统", "数据", "网络", "量子", "通信", "卫星", "航天",
+    "机器人", "无人机", "驾驶", "雷达", "传感器", "电池", "储能", "光伏",
+    "风电", "核电", "氢能", "充电", "续航", "能源", "电力", "电网",
+    "服务器", "存储", "云端", "边缘", "开源", "社区", "开发", "开发者",
+    "代码", "编程", "软件", "硬件", "更新", "升级", "版本", "发布", "推出",
+    "上线", "内测", "公测", "首发", "预售", "评测", "测试", "体验",
+    "功能", "性能", "效率", "精度", "安全", "漏洞", "攻击", "黑客", "勒索",
+    "病毒", "诈骗", "泄露", "入侵", "风险", "防护", "加密", "认证", "隐私",
+    # 消费电子
+    "手机", "电脑", "平板", "耳机", "眼镜", "手表", "家电", "屏幕", "显示",
+    "摄像", "影像", "游戏", "主机", "显卡", "处理器", "内存", "硬盘",
+    # 商业
+    "融资", "投资", "估值", "上市", "股价", "市值", "财报", "营收", "利润",
+    "亏损", "裁员", "招聘", "收购", "合并", "拆分", "重组", "破产",
+    "市场", "行业", "产业", "企业", "公司", "集团", "品牌", "渠道", "零售",
+    "电商", "直播", "物流", "供应链", "制造", "工厂", "产能", "订单", "交付",
+    # 政策
+    "监管", "政策", "法规", "法案", "条例", "规定", "标准", "合规", "审查",
+    "处罚", "罚款", "诉讼", "判决", "专利", "版权", "商标", "反垄断",
+    # 生活
+    "交通", "出行", "地图", "导航", "外卖", "快递", "餐饮", "旅游", "酒店",
+    "教育", "学校", "学生", "考试", "就业", "医疗", "医院", "医生", "患者",
+    "药物", "疫苗", "健康", "养老", "保险", "金融", "银行", "支付",
+    "利率", "汇率", "通胀", "央行", "货币", "财政", "税收", "补贴", "关税",
+    "贸易", "出口", "进口", "出海", "全球", "创新", "研发", "突破", "技术",
+    "研究", "成果", "论文", "内容", "视频", "音频", "图片", "音乐",
+    "电影", "社交", "广告", "营销", "流量", "增长", "用户", "消费者",
+}
+
+
+def _display_term(tok: str) -> str:
+    """把分词小写结果还原成更适合展示的写法（命中术语表时用原大小写）。"""
+    if not tok:
+        return ""
+    for term in GLOSSARY:
+        if term.lower() == tok.lower():
+            return term
+    return tok
+
+
+# 泛词：能当关键词但信息量低，选"段落主题"时尽量跳过
+GENERIC_WORDS: set[str] = {
+    "发布", "推出", "上线", "更新", "升级", "版本", "公司", "企业", "集团",
+    "市场", "行业", "产业", "用户", "消费者", "内容", "视频", "音频", "图片",
+    "音乐", "功能", "性能", "体验", "系统", "平台", "数据", "网络", "技术",
+    "研究", "成果", "全球", "增长", "服务",
+}
+
+
+def topic_from_title(title: str, weight: dict[str, int]) -> str:
+    """
+    从一条标题里挑最像"主题"的词：
+    1) 术语表命中（长词优先，英文按词边界）；
+    2) 词典内的具体名词；
+    3) 词典内的泛词；
+    4) 返回空串（调用方回退）。
+    这样能保证段落主题与该段事实句来自同一条新闻，不会出现"主题说内容、事实说液冷"。
+    """
+    text: str = str(title or "")
+    # 1) 术语表（子串 / 英文词边界）
+    for term in sorted(GLOSSARY, key=len, reverse=True):
+        if term.isascii():
+            if re.search(r"(?<![A-Za-z])" + re.escape(term) + r"(?![A-Za-z])",
+                         text, re.IGNORECASE):
+                return term
+        elif term in text:
+            return term
+    toks: list[str] = sorted(set(tokenize(text)),
+                             key=lambda t: (-weight.get(t, 0), -len(t)))
+    # 2) 具体名词
+    for t in toks:
+        if t in TOPIC_WORDS and t not in GENERIC_WORDS:
+            return t
+    # 3) 泛词
+    for t in toks:
+        if t in TOPIC_WORDS:
+            return t
+    return ""
+
+
+
+# ============================================================
+# 观点模板（按主题类别，规则引擎也能给出"看法"）
+# ============================================================
+CATEGORY_HINTS: dict[str, tuple[str, ...]] = {
+    "tech": ("发布", "推出", "上线", "升级", "模型", "算法", "技术", "芯片", "算力",
+             "开源", "突破", "研发", "专利", "架构", "系统", "平台"),
+    "money": ("融资", "收购", "上市", "IPO", "股价", "估值", "营收", "利润",
+              "投资", "市值", "财报", "裁员", "亏损", "增长"),
+    "policy": ("监管", "法案", "规定", "政策", "处罚", "合规", "反垄断",
+               "草案", "条例", "标准", "禁令", "审查"),
+    "security": ("漏洞", "攻击", "泄露", "诈骗", "黑客", "安全", "勒索",
+                 "病毒", "入侵", "风险"),
+    "consumer": ("手机", "售价", "评测", "耳机", "汽车", "新品", "体验",
+                 "用户", "订阅", "上市"),
+}
+
+VIEW_TEMPLATES: dict[str, tuple[str, ...]] = {
+    "tech": (
+        "这类进展更像是把已有能力往工程化落地推了一步，真正的分水岭在于成本和可靠性能不能同时压下来。",
+        "技术路线的胜负很少由一次发布会决定，接下来要看的是它能不能被更多团队低成本复用。",
+        "从节奏上看，行业已经从「能不能做」转向「做得便不便宜」，这通常意味着竞争会更务实。",
+    ),
+    "money": (
+        "资本动作往往领先产品一年，值得盯的不是金额，而是钱最后花向了算力、场景还是补贴。",
+        "融资和估值只能说明市场情绪，能不能兑现，还要看下一两个季度的收入和留存。",
+        "这类交易背后通常是行业在提前整合，中小玩家的选择空间会被进一步压缩。",
+    ),
+    "policy": (
+        "规则一旦落地，短期会抬高合规成本，中期则会把不合规的玩家清出场，头部反而受益。",
+        "监管的看点在于执行尺度：条款写得严不严是一回事，真正查不查是另一回事。",
+        "对普通用户来说，政策带来的变化通常滞后半年到一年，但方向一旦确定就很难逆转。",
+    ),
+    "security": (
+        "安全事件频繁出现说明攻击面还在扩大，普通用户能做的仍然是把补丁和二次验证当成日常。",
+        "这类问题很少是单点失误，更常见的是权限设计和应急流程一起出了漏洞。",
+        "对企业而言，安全投入平时看不见产出，出事时却是唯一能兜底的东西。",
+    ),
+    "consumer": (
+        "消费电子的看点不在参数堆叠，而在这些参数能不能变成日常可感知的体验差异。",
+        "价格和生态往往比硬件规格更能决定一款产品能不能留下来。",
+        "真正影响口碑的是使用一两周之后的细节，而不是发布会上的演示。",
+    ),
+    "general": (
+        "这条消息短期内的实际影响可能有限，但它指向的方向值得放进观察名单。",
+        "单看一条新闻容易高估影响，放到最近几周的脉络里，它更像是一个渐进变化中的节点。",
+        "对读者来说，值得留意的不是结论本身，而是它背后哪些前提正在被改变。",
+    ),
+}
+
+
+def _classify(text: str) -> str:
+    """按命中提示词的数量给一条新闻归类（用于选择观点模板）。"""
+    best, best_hits = "general", 0
+    for cat, hints in CATEGORY_HINTS.items():
+        hits = sum(1 for h in hints if h in text)
+        if hits > best_hits:
+            best, best_hits = cat, hits
+    return best
+
+
+def _pick_view(cat: str, seed_text: str) -> str:
+    """稳定地从模板池选一条观点（同一主题每次生成结果一致）。"""
+    pool = VIEW_TEMPLATES.get(cat) or VIEW_TEMPLATES["general"]
+    idx = int(hashlib.sha1(seed_text.encode("utf-8")).hexdigest(), 16) % len(pool)
+    return pool[idx]
+
+
+def _glossary_hits(texts: list[str], limit: int = 6) -> list[dict[str, str]]:
+    """
+    从标题里挑出命中的术语，返回 [{term, desc}]。
+    英文按单词边界匹配，中文按子串匹配。
+    """
+    blob: str = " ".join(texts)
+    found: list[dict[str, str]] = []
+    seen: set[str] = set()
+    # 先匹配英文术语（边界精确）
+    for m in _GLOSSARY_LATIN.finditer(blob):
+        term = m.group(1)
+        if term in seen:
+            continue
+        seen.add(term)
+        found.append({"term": term, "desc": GLOSSARY[term]})
+        if len(found) >= limit:
+            return found
+    # 再匹配中文术语（长词优先，避免"大模型"被"模型"截断的问题）
+    for term in sorted([k for k in GLOSSARY if not k.isascii()],
+                       key=len, reverse=True):
+        if term in seen:
+            continue
+        # 已被更长的同族术语覆盖（如已收"数据中心液冷"就不再收"数据中心"）
+        if any(term in s for s in seen if not s.isascii()):
+            continue
+        if term in blob:
+            seen.add(term)
+            found.append({"term": term, "desc": GLOSSARY[term]})
+            if len(found) >= limit:
+                break
+    return found
+
+
+def compose_article(clusters: list[dict[str, Any]],
+                    keywords: list[str],
+                    weight: dict[str, int],
+                    items: list[dict[str, Any]],
+                    ntype: str,
+                    ndate: str,
+                    max_sections: int = 4) -> dict[str, Any]:
+    """
+    把聚类结果写成一篇连贯的中文短评（纯规则，无 AI）。
+
+    结构：导语 → 3~4 个主题段（事实 + 看法）→ 术语解释 → 结语。
+    每段都带 refs，前端可以点击跳转原文。
+    """
+    total: int = len(items)
+    sources: set[str] = {str(it.get("source", "")) for it in items if it.get("source")}
+    date_label: str = "今天" if ntype == "today" else "过去 24 小时"
+
+    # ---- 导语：交代规模与主线（只采用词典内的真实主题词，过滤滑窗碎片）----
+    def _kw_ok(k: str, allow_generic: bool = True) -> bool:
+        if k not in TOPIC_WORDS and not any(k.lower() == g.lower() for g in GLOSSARY):
+            return False
+        return allow_generic or k not in GENERIC_WORDS
+
+    clean_kws: list[str] = [_display_term(k) for k in keywords if _kw_ok(k, False)]
+    # 具体词不足两条时，补上泛词，避免导语太空
+    if len(clean_kws) < 2:
+        clean_kws += [_display_term(k) for k in keywords if _kw_ok(k, True)]
+    # 去重保序
+    seen_kw: set[str] = set()
+    top_kws: list[str] = []
+    for k in clean_kws:
+        if k and k not in seen_kw:
+            seen_kw.add(k)
+            top_kws.append(k)
+        if len(top_kws) >= 3:
+            break
+
+    if top_kws:
+        kw_phrase: str = "、".join(top_kws)
+        lead: str = (f"{date_label}共收录 {total} 条新闻，来自 {len(sources)} 家媒体。"
+                     f"把标题放在一起看，讨论主要集中在 {kw_phrase} 这几个方向上，"
+                     f"其余消息更像是零散补充。")
+    else:
+        lead: str = (f"{date_label}共收录 {total} 条新闻，来自 {len(sources)} 家媒体。"
+                     f"整体没有压倒性的单一主线，更像是几条线索并行推进。")
+
+    paragraphs: list[dict[str, Any]] = [{"kind": "lead", "text": lead}]
+
+    # ---- 主题段：每簇一段 ----
+    connectors: tuple[str, ...] = (
+        "先看", "与此同时", "另一个值得注意的方向是", "相比之下", "再往后",
+    )
+    section_count: int = 0
+    used_ids: set[str] = set()
+    for c in clusters:
+        if section_count >= max_sections:
+            break
+        reps = sorted(
+            c["items"],
+            key=lambda it: -sum(weight.get(t, 0) for t in set(tokenize(it.get("title", "")))))
+        if not reps:
+            continue
+        rep = reps[0]
+
+        # ---- 定主题词：优先用代表条目自身的标题，保证主题与事实一致 ----
+        picked: str = topic_from_title(str(rep.get("title", "")), weight)
+        # 代表条目自身没有合格词 → 从整簇里找；换代表条目以保持主题一致
+        if not picked:
+            cluster_toks: list[str] = sorted(
+                [t for t in c["toks"] if t in weight],
+                key=lambda t: -weight.get(t, 0))
+            for t in cluster_toks:
+                if t in TOPIC_WORDS or any(t.lower() == g.lower() for g in GLOSSARY):
+                    picked = _display_term(t)
+                    break
+            if picked:
+                matched = [it for it in c["items"]
+                           if picked.lower() in str(it.get("title", "")).lower()]
+                if matched:
+                    rep = max(matched, key=lambda it: -sum(
+                        weight.get(t, 0) for t in set(tokenize(it.get("title", "")))))
+                else:
+                    # 簇里找到的词在任何代表标题里都不存在 → 放弃，退回标题首段
+                    picked = ""
+
+        # 4) 仍无主题词 → 退回标题首段
+        if not picked:
+            raw_title: str = clean_text(rep.get("title", ""), 30)
+            picked = raw_title[:12] if raw_title else "新动态"
+
+        # 代表条目最终确定后再生成引用，并做去重检查（防止同一条重复成段）
+        ref = _item_ref(rep)
+        if ref["id"] in used_ids:
+            continue
+        used_ids.add(ref["id"])
+
+        # 事实句：优先摘要首句，退回标题
+        fact: str = item_sentence(rep, limit=80).rstrip("。")
+        if not fact:
+            continue
+        # 补一句"另有 N 条同向消息"，体现热度
+        extra: int = len(c["items"]) - 1
+        extra_phrase: str = f"，另有 {extra} 条消息指向同一话题" if extra > 0 else ""
+
+        cat: str = _classify(f"{rep.get('title', '')} {fact}")
+        view: str = _pick_view(cat, picked)
+
+        conn: str = connectors[section_count % len(connectors)]
+        text: str = f"{conn}「{picked}」。{fact}{extra_phrase}。{view}"
+        paragraphs.append({
+            "kind": "section",
+            "heading": picked,
+            "text": text,
+            "news_ids": [ref["id"]],
+            "refs": [ref],
+        })
+        section_count += 1
+
+    # ---- 术语解释：扫全部标题，给新词加注 ----
+    all_titles: list[str] = [str(it.get("title", "")) for it in items]
+    terms: list[dict[str, str]] = _glossary_hits(all_titles, limit=6)
+    if terms:
+        paragraphs.append({"kind": "glossary", "items": terms})
+
+    # ---- 结语：给一个整体判断 ----
+    if len(top_kws) >= 2:
+        outlook: str = (
+            f"把这几条放在一起看，最值得跟踪的是 {top_kws[0]} 和 {top_kws[1]} 两条线："
+            f"一条决定技术能走多远，一条决定它多快能落到普通人的日常里。"
+            f"至于其他消息，可以先放进观察名单，等后续有更实的进展再判断。")
+    else:
+        outlook = ("整体看，这个时段的新闻还处在「消息多、结论少」的阶段，"
+                   "与其急着下判断，不如盯住接下来一两周有没有可验证的后续动作。")
+    paragraphs.append({"kind": "outlook", "text": outlook})
+
+    return {
+        "title": f"{ndate} 新闻总结",
+        "paragraphs": paragraphs,
+        "word_count": sum(len(p.get("text", "")) for p in paragraphs),
+    }
+
+
+# ============================================================
+# 兼容旧数据：由要点列表合成一篇连贯短评
+# ============================================================
+def compose_article_from_points(payload: dict[str, Any]) -> dict[str, Any]:
+    """
+    给"没有 article 字段的历史总结"现场合成一篇短评（不写库）。
+    用于升级展示：老数据也能显示导语/段落/名词解释/结语。
+    """
+    pts: list[dict[str, Any]] = payload.get("points") or []
+    kws: list[str] = [str(k) for k in (payload.get("keywords") or []) if k]
+    ntype: str = str(payload.get("type") or "today")
+    ndate: str = str(payload.get("date") or "")
+    total: int = int(payload.get("news_count") or len(pts))
+    date_label: str = "今天" if ntype == "today" else "过去 24 小时"
+
+    top_kws: list[str] = [_display_term(k) for k in kws[:3]]
+    if top_kws:
+        lead = (f"{date_label}共收录 {total} 条新闻。从标题看，讨论主要集中在 "
+                f"{'、'.join(top_kws)} 这几个方向上。")
+    else:
+        lead = f"{date_label}共收录 {total} 条新闻，整体没有单一主线。"
+
+    paragraphs: list[dict[str, Any]] = [{"kind": "lead", "text": lead}]
+    connectors: tuple[str, ...] = ("先看", "与此同时", "另一个方向是", "相比之下")
+
+    for i, p in enumerate(pts[:4]):
+        raw: str = str(p.get("text") or "").strip()
+        if not raw:
+            continue
+        # 旧要点形如 "【关键词】正文"，拆出主题词
+        heading: str = ""
+        if raw.startswith("【") and "】" in raw:
+            heading, raw = raw[1:].split("】", 1)
+        if not heading:
+            heading = _display_term(str(p.get("keyword") or "")) or "要点"
+        cat: str = _classify(raw)
+        view: str = _pick_view(cat, heading + str(i))
+        text: str = f"{connectors[i % len(connectors)]}「{heading}」。{raw.rstrip('。')}。{view}"
+        paragraphs.append({
+            "kind": "section",
+            "heading": heading,
+            "text": text,
+            "news_ids": p.get("news_ids") or [],
+            "refs": p.get("refs") or [],
+        })
+
+    # 术语解释：从要点文本里扫
+    blob: str = " ".join(str(p.get("text") or "") for p in pts)
+    terms: list[dict[str, str]] = _glossary_hits([blob], limit=5)
+    if terms:
+        paragraphs.append({"kind": "glossary", "items": terms})
+
+    if len(top_kws) >= 2:
+        outlook = (f"综合来看，{top_kws[0]} 和 {top_kws[1]} 是接下来值得继续跟踪的两条线，"
+                   f"其余消息还需要更多后续进展才能判断方向。")
+    else:
+        outlook = "信息还在陆续出现，建议过一两天再回看，结论会更清晰。"
+    paragraphs.append({"kind": "outlook", "text": outlook})
+
+    return {
+        "title": f"{ndate} 新闻总结",
+        "paragraphs": paragraphs,
+        "word_count": sum(len(p.get("text", "")) for p in paragraphs),
+        "legacy": True,
+    }
+
+
+# ============================================================
 # 主入口：生成完整 digest payload
 # ============================================================
 def build_digest(items: list[dict[str, Any]],
@@ -284,5 +743,7 @@ def build_digest(items: list[dict[str, Any]],
         "news_count": len(ordered),
         "keywords": keywords[:10],
         "points": points,
+        # 连贯中文短评（导语 + 主题段 + 术语解释 + 结语），前端优先渲染它
+        "article": compose_article(clusters, keywords, weight, ordered, ntype, ndate),
         "ai_enhanced": bool(ai_points),
     }
