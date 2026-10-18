@@ -1,7 +1,7 @@
 {
  "date": "2026-10-19",
- "generated_at": 1792354615.0416243,
- "count": 24,
+ "generated_at": 1792356391.2479992,
+ "count": 26,
  "items": [
   {
    "id": "4334785631dc2b28",
@@ -20,6 +20,15 @@
    "summary": "点击查看原文>",
    "published_at": 1792364283.0,
    "published_bj": "2026-10-19 06:58"
+  },
+  {
+   "id": "b84c65ba6cfab9f7",
+   "source": "TechCrunch",
+   "title": "Anthropic says it’s committing 5% of its shares to a ‘public benefit fund’",
+   "url": "https://techcrunch.com/2026/10/18/anthropic-says-its-committing-5-of-its-shares-to-a-public-benefit-fund/",
+   "summary": "Anthropic said that it will commit 5% of its shares to the fund.",
+   "published_at": 1792355860.0,
+   "published_bj": "2026-10-19 04:37"
   },
   {
    "id": "cfa32981e8581ea9",
@@ -65,6 +74,15 @@
    "summary": "Article URL: https://www.peterp.me/articles/personal-software-factories-are-a-waste-of-time/ Comments URL: https://news.ycombinator.com/item?id=50144175 Points: 5 # Comments: 0",
    "published_at": 1792350131.0,
    "published_bj": "2026-10-19 03:02"
+  },
+  {
+   "id": "80ff41e3e6c3dcc1",
+   "source": "Hacker News",
+   "title": "Tiny Brutalism – Thanks to HN it's on Steam",
+   "url": "https://store.steampowered.com/app/5426130/Tiny_Brutalism/",
+   "summary": "Article URL: https://store.steampowered.com/app/5426130/Tiny_Brutalism/ Comments URL: https://news.ycombinator.com/item?id=50144144 Points: 29 # Comments: 3",
+   "published_at": 1792349949.0,
+   "published_bj": "2026-10-19 02:59"
   },
   {
    "id": "0110060fcff53fac",
