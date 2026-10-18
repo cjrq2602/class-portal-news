@@ -1,7 +1,7 @@
 {
  "date": "2026-10-19",
- "generated_at": 1792342966.3045208,
- "count": 11,
+ "generated_at": 1792345450.5414426,
+ "count": 12,
  "items": [
   {
    "id": "4334785631dc2b28",
@@ -20,6 +20,15 @@
    "summary": "点击查看原文>",
    "published_at": 1792364283.0,
    "published_bj": "2026-10-19 06:58"
+  },
+  {
+   "id": "f733716a8d0f842f",
+   "source": "Hacker News",
+   "title": "British Airways: Filming Crew W Meta Glasses Could Get Your Tickets Cancelled",
+   "url": "https://liveandletsfly.com/british-airways-meta-smart-glasses-filming/",
+   "summary": "Article URL: https://liveandletsfly.com/british-airways-meta-smart-glasses-filming/ Comments URL: https://news.ycombinator.com/item?id=50143218 Points: 13 # Comments: 4",
+   "published_at": 1792344450.0,
+   "published_bj": "2026-10-19 01:27"
   },
   {
    "id": "7d8fb6d196c3ab45",
