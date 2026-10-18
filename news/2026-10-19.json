@@ -1,7 +1,7 @@
 {
  "date": "2026-10-19",
- "generated_at": 1792361887.1703894,
- "count": 29,
+ "generated_at": 1792363511.032784,
+ "count": 37,
  "items": [
   {
    "id": "4334785631dc2b28",
@@ -20,6 +20,78 @@
    "summary": "点击查看原文>",
    "published_at": 1792364283.0,
    "published_bj": "2026-10-19 06:58"
+  },
+  {
+   "id": "663ce24e8108ae40",
+   "source": "IT之家",
+   "title": "苹果发布 iPhone Duo 欧盟能效标签：电池总容量 4883mAh",
+   "url": "https://www.ithome.com/1/014/620.htm",
+   "summary": "IT之家 10 月 19 日消息，苹果于当地时间周五发布了 iPhone Duo 的欧盟能效标签，文件显示这款设备的电池总容量为 4883 毫安时。 这份文件似乎证实了此前的一则爆料：iPhone Duo 配备两块电池电芯，容量分别为 2962 毫安时与 1921 毫安时，合计 4883 毫安时。IT之家注意到，iPhone Duo 仅支持 eSIM，没有实体 SIM 卡槽，因此这一电池容量数值适用于全球所有版本，不会出现部分机型因预留实体卡槽而压缩电池体积、容量略小的情况。 作为对比，iFixit 拆解发现，仅支持 eSIM 的 iPhone 18 Pro 电池容量为 4288 毫安时，同样",
+   "published_at": 1792363431.0,
+   "published_bj": "2026-10-19 06:43"
+  },
+  {
+   "id": "0f54af80c5bbae28",
+   "source": "cnBeta",
+   "title": "《使命召唤：现代战争4》Steam好评率91%创十余年新高",
+   "url": "https://www.cnbeta.com.tw/articles/game/1582806.htm",
+   "summary": "《使命召唤：现代战争4》发售后取得良好的Steam早期评价。截至原文撰写时，本作已收获2655篇用户评价，好评率达91%，总体评价为“特别好评”。按原文列出的数据，这也是《使命召唤》系列十余年来在Steam取得的最高评价。 阅读全文",
+   "published_at": 1792362605.0,
+   "published_bj": "2026-10-19 06:30"
+  },
+  {
+   "id": "86c8b5b7d6770a02",
+   "source": "cnBeta",
+   "title": "亚马逊实体预购数据：《塞尔达：时之笛重制版》力压GTA6",
+   "url": "https://www.cnbeta.com.tw/articles/game/1582804.htm",
+   "summary": "《塞尔达：时之笛 重制版》近一个月在亚马逊美国站获得约6万份实体版预购，接近同期《GTA6》约1.1万份的六倍。本周集中发布的试玩预览可能推动了这一数字。 阅读全文",
+   "published_at": 1792362598.0,
+   "published_bj": "2026-10-19 06:29"
+  },
+  {
+   "id": "416c75d2a4317891",
+   "source": "cnBeta",
+   "title": "微软招聘Xbox游戏供应策略师 但未确认下代主机配备光驱",
+   "url": "https://www.cnbeta.com.tw/articles/tech/1582802.htm",
+   "summary": "近日微软发布Xbox游戏供应策略师招聘信息，岗位涉及实体Xbox游戏的跨平台发行。不过，招聘内容没有直接提及光盘，也未确认下一代Xbox主机是否配备光驱。 阅读全文",
+   "published_at": 1792362580.0,
+   "published_bj": "2026-10-19 06:29"
+  },
+  {
+   "id": "a0d57e91c56944c1",
+   "source": "cnBeta",
+   "title": "《街头霸王》真人电影登顶全球票房 口碑评价两极分化",
+   "url": "https://www.cnbeta.com.tw/articles/game/1582800.htm",
+   "summary": "《街头霸王》真人电影首映周末拿下全球票房冠军，总票房约5110万美元。其中北美市场3100万美元，海外其他地区合计2010万美元。虽然开局票房表现不错，但影评评价冷淡，或将影响影片后续票房走势。 阅读全文",
+   "published_at": 1792362558.0,
+   "published_bj": "2026-10-19 06:29"
+  },
+  {
+   "id": "f38cf7511f94debd",
+   "source": "cnBeta",
+   "title": "中国新娘婚礼送新郎5090当结婚礼物 新郎当场落泪",
+   "url": "https://www.cnbeta.com.tw/articles/game/1582798.htm",
+   "summary": "近日一段婚礼视频在社交平台引发热议。中国新娘在婚礼现场送给新郎一块华硕ROG Astral RTX 5090显卡，新郎拆开包装后当场落泪。 阅读全文",
+   "published_at": 1792362541.0,
+   "published_bj": "2026-10-19 06:29"
+  },
+  {
+   "id": "9572370d3927cecc",
+   "source": "cnBeta",
+   "title": "记者起底“预制好评”代运营套路：每条好评10元起 线下刷评无需到店",
+   "url": "https://www.cnbeta.com.tw/articles/tech/1582796.htm",
+   "summary": "打开电商平台，五星好评、买家秀、详细的使用心得，往往是消费者下单前的重要参考。然而，这些看似来自真实消费体验的评价，未必都经得起推敲。不少消费者反映，网购时被满屏好评吸引，到货后却发现商品货不对板，回头查看评论，才发现部分好评发布时间集中、话术雷同，甚至配图一模一样。 阅读全文",
+   "published_at": 1792362527.0,
+   "published_bj": "2026-10-19 06:28"
+  },
+  {
+   "id": "55b622013c8add5a",
+   "source": "Hacker News",
+   "title": "Show HN: WhatsApp MCP running free on Cloudflare",
+   "url": "https://github.com/finereli/whatsapp-mcp",
+   "summary": "I wanted my humble Claude on mobile to access my WhatsApp messages but the only options I could find either required WhatsApp Business or an actual server to run Baileys on. I wanted to run it for free on ClaudeFlare and with my personal WhatsApp account, so I built this. Important feature - it conn",
+   "published_at": 1792359370.0,
+   "published_bj": "2026-10-19 05:36"
   },
   {
    "id": "7d99bc9a36ae2df4",
