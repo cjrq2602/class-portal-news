@@ -1,0 +1,42 @@
+{
+  "_comment": "新闻源配置。RSSHub 公共实例在国内源上做聚合，GitHub Actions runner 无法直连国内站点，因此统一走 RSSHub。若某实例失效，把对应 url 的域名换成下面备用实例之一即可（也可自建实例）。备用实例：https://rsshub.app / https://rsshub.rssforever.com / https://rsshub.feeded.xyz / https://hub.slarker.me 。enabled=false 的条目会被 fetch_news.py 跳过。",
+  "version": 1,
+  "sources": [
+    {
+      "name": "新华网",
+      "url": "https://rsshub.app/xinhuanet/whxw",
+      "enabled": true,
+      "note": "新华社·最新播报（RSSHub 主实例路由）"
+    },
+    {
+      "name": "人民网",
+      "url": "https://rsshub.app/people/paper/rmrb",
+      "enabled": true,
+      "note": "人民日报·当日头版（RSSHub 主实例路由）"
+    },
+    {
+      "name": "央视新闻",
+      "url": "https://rsshub.app/cctv/news",
+      "enabled": true,
+      "note": "央视新闻·要闻（RSSHub 主实例路由）"
+    },
+    {
+      "name": "澎湃新闻",
+      "url": "https://rsshub.rssforever.com/thepaper/featured",
+      "enabled": true,
+      "note": "澎湃·精选，使用备用实例以降低单实例故障影响"
+    },
+    {
+      "name": "中新网",
+      "url": "https://rsshub.feeded.xyz/chinanews/society",
+      "enabled": true,
+      "note": "中新网·社会新闻，使用备用实例做冗余"
+    },
+    {
+      "name": "新华网体育",
+      "url": "https://rsshub.app/xinhuanet/sports",
+      "enabled": false,
+      "note": "示例：如需扩展频道，把 enabled 改为 true 即可；不启用不会消耗抓取时间"
+    }
+  ]
+}

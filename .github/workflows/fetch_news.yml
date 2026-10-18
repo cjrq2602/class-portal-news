@@ -1,0 +1,106 @@
+name: News Worker（新闻抓取 + 每日总结）
+
+# ============================================================
+# 触发时机（注意：GitHub Actions 的 cron 用 UTC，本表已换算为北京时间）
+#   */20 * * * *  → 每 20 分钟抓一次新闻（写入 news/）
+#   0 16 * * *    → UTC 16:00 = 北京次日 00:00 → 生成【昨日总结】
+#   0 1  * * *    → UTC 01:00 = 北京当天 09:00 → 生成【今日总结】
+# 说明：
+#   1) schedule 只在仓库默认分支上生效；
+#   2) GitHub 的 cron 可能延迟数分钟（高峰期尤甚），站点侧有惰性兜底，不会因此缺内容；
+#   3) 三个 job 都用 concurrency 串行化，避免同时 git push 冲突。
+# ============================================================
+on:
+  schedule:
+    - cron: '*/20 * * * *'
+    - cron: '0 16 * * *'
+    - cron: '0 1 * * *'
+  workflow_dispatch:
+    inputs:
+      task:
+        description: '手动执行哪个任务'
+        required: true
+        default: fetch
+        type: choice
+        options:
+          - fetch
+          - yesterday
+          - today
+
+# 同一时刻只跑一个 worker，避免并发 push
+concurrency:
+  group: news-worker
+  cancel-in-progress: false
+
+permissions:
+  contents: write   # 需要写权限才能把产出 commit 回仓库
+
+jobs:
+  worker:
+    runs-on: ubuntu-latest
+    timeout-minutes: 5
+    steps:
+      - name: 检出仓库
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+
+      - name: 准备 Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+
+      # ---------- 1) 抓取新闻（每 20 分钟 / 手动 fetch） ----------
+      - name: 抓取新闻
+        id: fetch
+        continue-on-error: true   # 抓取失败不阻塞后续步骤与整个工作流
+        if: github.event.schedule == '*/20 * * * *' || inputs.task == 'fetch' || inputs.task == ''
+        run: python3 fetch_news.py --verbose
+
+      # ---------- 2) 昨日总结（UTC 16:00 = 北京 00:00） ----------
+      - name: 生成昨日总结
+        id: yesterday
+        continue-on-error: true
+        if: github.event.schedule == '0 16 * * *' || inputs.task == 'yesterday'
+        env:
+          AI_API_KEY: ${{ secrets.AI_API_KEY }}
+          AI_BASE_URL: ${{ secrets.AI_BASE_URL }}
+          AI_MODEL: ${{ secrets.AI_MODEL }}
+        run: python3 make_digest.py --type yesterday
+
+      # ---------- 3) 今日总结（UTC 01:00 = 北京 09:00） ----------
+      - name: 生成今日总结
+        id: today
+        continue-on-error: true
+        if: github.event.schedule == '0 1 * * *' || inputs.task == 'today'
+        env:
+          AI_API_KEY: ${{ secrets.AI_API_KEY }}
+          AI_BASE_URL: ${{ secrets.AI_BASE_URL }}
+          AI_MODEL: ${{ secrets.AI_MODEL }}
+        run: python3 make_digest.py --type today
+
+      # ---------- 4) 提交产出（[skip ci] 防止触发递归工作流） ----------
+      # 三个任务可能在不同时间跑；这里统一 pull --rebase 后再 push，带重试。
+      - name: 提交产出
+        if: always()
+        run: |
+          set -e
+          git config user.name  "news-worker-bot"
+          git config user.email "news-worker-bot@users.noreply.github.com"
+          git add news digests || true
+          if git diff --cached --quiet; then
+            echo "无新增产出，跳过提交"
+            exit 0
+          fi
+          git commit -m "chore(news): update news/digests [skip ci]"
+          for i in 1 2 3; do
+            git pull --rebase --autostash origin "${GITHUB_REF_NAME}" || true
+            if git push origin "HEAD:${GITHUB_REF_NAME}"; then
+              echo "推送成功（第 $i 次尝试）"
+              exit 0
+            fi
+            echo "推送失败，第 $i 次重试…"
+            sleep 5
+          done
+          echo "!! 推送多次失败（可能是并发冲突），本次产出已在本地，下次运行会带上"
+          exit 0
