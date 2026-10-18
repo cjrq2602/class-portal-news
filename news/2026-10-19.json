@@ -1,7 +1,7 @@
 {
  "date": "2026-10-19",
- "generated_at": 1792345450.5414426,
- "count": 12,
+ "generated_at": 1792347579.2575822,
+ "count": 14,
  "items": [
   {
    "id": "4334785631dc2b28",
@@ -29,6 +29,24 @@
    "summary": "Article URL: https://liveandletsfly.com/british-airways-meta-smart-glasses-filming/ Comments URL: https://news.ycombinator.com/item?id=50143218 Points: 13 # Comments: 4",
    "published_at": 1792344450.0,
    "published_bj": "2026-10-19 01:27"
+  },
+  {
+   "id": "f633985c96bad78f",
+   "source": "Hacker News",
+   "title": "Mitos editor is a fork of Helix",
+   "url": "https://mitos.computer/",
+   "summary": "Article URL: https://mitos.computer/ Comments URL: https://news.ycombinator.com/item?id=50143132 Points: 7 # Comments: 4",
+   "published_at": 1792343974.0,
+   "published_bj": "2026-10-19 01:19"
+  },
+  {
+   "id": "69208965fa97060f",
+   "source": "Hacker News",
+   "title": "Namecheap just seized and disabled all my domains",
+   "url": "https://www.reddit.com/r/sysadmin/comments/1x8cycd/namecheap_just_seized_and_disabled_all_my_domains/",
+   "summary": "Article URL: https://www.reddit.com/r/sysadmin/comments/1x8cycd/namecheap_just_seized_and_disabled_all_my_domains/ Comments URL: https://news.ycombinator.com/item?id=50142866 Points: 22 # Comments: 2",
+   "published_at": 1792342616.0,
+   "published_bj": "2026-10-19 00:56"
   },
   {
    "id": "7d8fb6d196c3ab45",
