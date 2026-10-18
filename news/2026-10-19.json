@@ -1,7 +1,7 @@
 {
  "date": "2026-10-19",
- "generated_at": 1792351101.6450915,
- "count": 20,
+ "generated_at": 1792352602.6153972,
+ "count": 23,
  "items": [
   {
    "id": "4334785631dc2b28",
@@ -22,6 +22,15 @@
    "published_bj": "2026-10-19 06:58"
   },
   {
+   "id": "16c3b4b3a601b434",
+   "source": "cnBeta",
+   "title": "Google在主页弹窗诱导用户弃用Edge改用Chrome 重演微软曾饱受诟病的推广手段",
+   "url": "https://www.cnbeta.com.tw/articles/tech/1582794.htm",
+   "summary": "近期，当Windows 11用户使用微软Edge浏览器访问Google搜索主页时，页面上会弹出一条全新的提示信息，明确写着“选择由Google打造的Chrome浏览器”，以此诱导用户放弃Edge并改用Chrome。这一激进的推广行为与微软此前备受外界严厉批评的做法如出一辙，但Google似乎并未因此受到同等程度的舆论谴责。 阅读全文",
+   "published_at": 1792351136.0,
+   "published_bj": "2026-10-19 03:18"
+  },
+  {
    "id": "08a388daabd8c8c3",
    "source": "cnBeta",
    "title": "费城女子因阻拦送餐机器人被捕",
@@ -38,6 +47,24 @@
    "summary": "\"You Can See Everything\" is having the second biggest opening weekend ever for a documentary film.",
    "published_at": 1792350218.0,
    "published_bj": "2026-10-19 03:03"
+  },
+  {
+   "id": "710a1d95905f9f96",
+   "source": "Hacker News",
+   "title": "Personal software factories are a waste of time",
+   "url": "https://www.peterp.me/articles/personal-software-factories-are-a-waste-of-time/",
+   "summary": "Article URL: https://www.peterp.me/articles/personal-software-factories-are-a-waste-of-time/ Comments URL: https://news.ycombinator.com/item?id=50144175 Points: 5 # Comments: 0",
+   "published_at": 1792350131.0,
+   "published_bj": "2026-10-19 03:02"
+  },
+  {
+   "id": "0110060fcff53fac",
+   "source": "Hacker News",
+   "title": "Free Pascal Compiler Now Supports Dynamic Packages",
+   "url": "https://www.getlazarus.org/dynamic/",
+   "summary": "Article URL: https://www.getlazarus.org/dynamic/ Comments URL: https://news.ycombinator.com/item?id=50144066 Points: 15 # Comments: 3",
+   "published_at": 1792349284.0,
+   "published_bj": "2026-10-19 02:48"
   },
   {
    "id": "74e80294d9e3a1da",
