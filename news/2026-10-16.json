@@ -1,0 +1,277 @@
+{
+ "date": "2026-10-16",
+ "generated_at": 1792316307.845859,
+ "count": 30,
+ "items": [
+  {
+   "id": "ec51f49f4f8b176f",
+   "source": "InfoQ中文",
+   "title": "Cloudflare 计划推出公共证书颁发机构，用于签发量子安全的 TLS 证书",
+   "url": "https://www.infoq.cn/article/CoGZq3xgQhZI4rBH8pjA?utm_source=rss&utm_medium=article",
+   "summary": "点击查看原文>",
+   "published_at": 1792165260.0,
+   "published_bj": "2026-10-16 23:41"
+  },
+  {
+   "id": "6faf4de8515efffb",
+   "source": "TechCrunch",
+   "title": "Jev is Vercel’s fastest-adopted AI model ever",
+   "url": "https://techcrunch.com/2026/10/16/jev-is-vercels-fastest-adopted-ai-model-ever/",
+   "summary": "The data comes from Vercel's AI gateway, a unified API service similar to OpenRouter.",
+   "published_at": 1792164829.0,
+   "published_bj": "2026-10-16 23:33"
+  },
+  {
+   "id": "8d035f9c1816a886",
+   "source": "TechCrunch",
+   "title": "Mark Wahlberg on using AI in film ‘the right way’ and being open to an AI clone carrying on his legacy",
+   "url": "https://techcrunch.com/2026/10/16/mark-wahlberg-on-using-ai-in-film-the-right-way-and-being-open-to-an-ai-clone-carrying-on-his-legacy/",
+   "summary": "Actor and angel investor Mark Wahlberg says he's OK with using AI in filmmaking, provided it's used \"to enhance what you're doing.\"",
+   "published_at": 1792160811.0,
+   "published_bj": "2026-10-16 22:26"
+  },
+  {
+   "id": "1f5477e374224c4e",
+   "source": "InfoQ中文",
+   "title": "谷歌的 Android 安全状态库支持组件级安全校验",
+   "url": "https://www.infoq.cn/article/yZh3MeRrBa7IbsB1PrUp?utm_source=rss&utm_medium=article",
+   "summary": "点击查看原文>",
+   "published_at": 1792160220.0,
+   "published_bj": "2026-10-16 22:17"
+  },
+  {
+   "id": "117a8f164c71c308",
+   "source": "TechCrunch",
+   "title": "Veritas expands its anti-counterfeit chip to jewelry, trophies, and fragrance bottles",
+   "url": "https://techcrunch.com/2026/10/16/veritas-is-building-a-chip-to-verify-luxury-goods/",
+   "summary": "Counterfeiters are getting better at replicating brands' marks and passing off dupes, known as \"superfakes,\" as genuine items. A startup called Veritas wants to tackle the problem with its own chip that verifies goods.",
+   "published_at": 1792159200.0,
+   "published_bj": "2026-10-16 22:00"
+  },
+  {
+   "id": "643dfe6a9ea0090a",
+   "source": "TechCrunch",
+   "title": "Replit’s CEO says the future of work is the ‘self-driving company’",
+   "url": "https://techcrunch.com/2026/10/16/replits-ceo-says-the-future-of-work-is-the-self-driving-company/",
+   "summary": "Replit CEO Amjad Masad envisions a future of “self-driving companies,” where AI agents handle day-to-day tasks and people focus on higher-level decisions.",
+   "published_at": 1792155309.0,
+   "published_bj": "2026-10-16 20:55"
+  },
+  {
+   "id": "802925ddbc72b729",
+   "source": "InfoQ中文",
+   "title": "Pi 抛出全新 Agent Harness，还把自己骂了一年的 MCP 装进了核心",
+   "url": "https://www.infoq.cn/article/hQOHf1ZXoBs7uMpWJQss?utm_source=rss&utm_medium=article",
+   "summary": "点击查看原文>",
+   "published_at": 1792151594.0,
+   "published_bj": "2026-10-16 19:53"
+  },
+  {
+   "id": "4bd64a7f0bf08f16",
+   "source": "InfoQ中文",
+   "title": "Linus用Claude Code改Linux内核，大神也没兜住代码里的Bug",
+   "url": "https://www.infoq.cn/article/hRw4BZQQUW14sqYMo5F6?utm_source=rss&utm_medium=article",
+   "summary": "点击查看原文>",
+   "published_at": 1792151234.0,
+   "published_bj": "2026-10-16 19:47"
+  },
+  {
+   "id": "07b8070234107451",
+   "source": "InfoQ中文",
+   "title": "Pizza Bot：开源的后台 AI 智能体收件箱",
+   "url": "https://www.infoq.cn/article/aMgWFmwZ2HoZDtw1g0MQ?utm_source=rss&utm_medium=article",
+   "summary": "点击查看原文>",
+   "published_at": 1792148760.0,
+   "published_bj": "2026-10-16 19:06"
+  },
+  {
+   "id": "6934ec4b6115e629",
+   "source": "Solidot",
+   "title": "人与猫的催产素水平正相关",
+   "url": "https://www.solidot.org/story?sid=85633",
+   "summary": "日本京都大学的研究人员在 iscience 期刊上发表了一篇论文，他们在一个月内测量了 19 名主人和 29 只宠物猫的催产素和皮质醇水平，评估主人的情绪，通过蓝牙信号监视主人和猫之间的距离。结果显示，主人与猫的催产素水平呈正相关，皮质醇水平之间的关联很小。猫的催产素水平越高，与主人皮质醇水平就越低和负面情绪越少相关，主人更高的皮质醇水平与更多的负面情绪相关。主人与猫之间距离越近，主人的活力水平就越高。探索性行为测试则将猫的催产素与社会接近行为联系起来，将皮质醇与对陌生人的接近减少联系在一起。与以皮质醇同步为中心的人犬二元关系不同，人猫关系可能以催产素为核心，将跨物种的激素研究扩展到一种具有独",
+   "published_at": 1792146467.0,
+   "published_bj": "2026-10-16 18:27"
+  },
+  {
+   "id": "f6623b9a655ef546",
+   "source": "少数派",
+   "title": "本周看什么 | 最近值得一看的 13 部作品",
+   "url": "https://sspai.com/post/116423",
+   "summary": "📅本周新预告《哥斯拉-0.0》终极预告10月11日，电影《哥斯拉-0.0》发布了终极预告，将于11月3日在日本上映、11月6日在北美上映。该片为首部为IMAX拍摄的日本电影，山崎贵执导、编剧，神木隆之 ... 查看全文",
+   "published_at": 1792146067.0,
+   "published_bj": "2026-10-16 18:21"
+  },
+  {
+   "id": "75f9d8242fa45c2c",
+   "source": "InfoQ中文",
+   "title": "AI 写完代码，谁来验证？手淘 TEKO “写—验—修”自主闭环的工程实践｜QCon上海",
+   "url": "https://www.infoq.cn/article/t3XbHewuN37fsodaprUC?utm_source=rss&utm_medium=article",
+   "summary": "点击查看原文>",
+   "published_at": 1792144800.0,
+   "published_bj": "2026-10-16 18:00"
+  },
+  {
+   "id": "8e480e12b6ce74df",
+   "source": "Solidot",
+   "title": "人真能活到 200 岁吗？",
+   "url": "https://www.solidot.org/story?sid=85632",
+   "summary": "2000 年生物学家史蒂文·奥斯塔德提出了一个颇具争议的说法：“世界上第一个将活到 150 岁的人现在很可能已经出生了。”他当时乐观地认为，科学将找到延长寿命的新方法，而且他至今仍持这一看法。似乎数不胜数的网红和未来学家也抱有同样的信心，其中一些人甚至做出了更为惊人的预测。生物医学老年学家、SENS 研究基金会创始人奥布里·德格雷声称，如今 40 岁的人有超过 50% 的可能性永远不会因衰老而死亡。但今天研究人员对于未来究竟能在多大程度上延长寿命仍争论不休。问题在于，他们的答案往往只是假设，而且无法得到验证。归根结底，单靠某一项突破性成果恐怕无法阻止衰老。比如大多数肌肉细胞和脑细胞都无法自我更",
+   "published_at": 1792142160.0,
+   "published_bj": "2026-10-16 17:16"
+  },
+  {
+   "id": "fc9225e608c32ed5",
+   "source": "InfoQ中文",
+   "title": "GitLab 漏洞遭利用，可实现未认证数据外泄",
+   "url": "https://www.infoq.cn/article/DfJZA7hp0OhKMpaAIfG0?utm_source=rss&utm_medium=article",
+   "summary": "点击查看原文>",
+   "published_at": 1792142160.0,
+   "published_bj": "2026-10-16 17:16"
+  },
+  {
+   "id": "0e96b4e00e4694f0",
+   "source": "Solidot",
+   "title": "微软声称 Windows 11 显著改进了 8GB 内存下的性能",
+   "url": "https://www.solidot.org/story?sid=85631",
+   "summary": "微软表示，Windows 11 最近的更新通过改进内存管理和减少后台资源占用，系统响应速度提升最高 20%。改进内存管理也显著改进了只有 8GB 内存的电脑的运行表现。由于内存价格飙升，越来越多的 PC 厂商重新开始推出只有 8GB 内存的电脑。微软 Windows 体验部门企业副总裁 Navjot Virk 表示：“Windows 现在可在内存中多保留多达 2GB 的活动数据，而不是把其转移到更慢的存储设备。比如在内存为 8GB 或更少的电脑上，组件（Widgets）只在你打开时才会加载，这可以为应用和其它工作释放出逾 200MB 的内存。”Windows 11 的下一个 重要更新是新的 W",
+   "published_at": 1792141169.0,
+   "published_bj": "2026-10-16 16:59"
+  },
+  {
+   "id": "12efa7295e788b30",
+   "source": "Solidot",
+   "title": "三季度中国手机出货量下跌 15.4%",
+   "url": "https://www.solidot.org/story?sid=85630",
+   "summary": "根据 IDC 的数据，三季度全球智能手机出货量同比下降 22% 至 2.553 亿部。受内存价格上涨影响，手机价格上升，出货量降幅创历史最高。IDC 预测未来智能手机市场还将进一步下滑。根据 IDC 的数据，三季度中国智能手机市场出货量约为 5790 万台，同比下降 15.4%。华为是唯一实现同比双位数增长的头部品牌。华为份额升至 21.1%，同比增长 17.3%；其次是苹果的 17.8%，同比下跌 4.3%；之后是 OPPO、vivo、小米、荣耀、WIKO、联想（市场份额 0.4%，同比增长 1.1%）、三星和中兴。除了华为和联想，主要手机厂商的出货量都下跌。",
+   "published_at": 1792139163.0,
+   "published_bj": "2026-10-16 16:26"
+  },
+  {
+   "id": "d92b7b7db3e809b2",
+   "source": "Solidot",
+   "title": "日本准备于 20 日发射火星探测器",
+   "url": "https://www.solidot.org/story?sid=85629",
+   "summary": "日本宇宙航空研究开发机构（JAXA）将于 10 月 20 日凌晨发射火星卫星探测器“MMX”。任务目标是登陆火星卫星“火卫一”并采集样本。MMX 将历时约 1 年抵达火星圈，并登陆火卫一。任务计划利用机械臂采集 10 克以上土壤。预计于 2031 年返回地球。法国和德国联合研发的探测车将先行登陆火卫一。该探测车搭载于 MMX 上，将与其分离并投放。探测车为边长约 50 厘米的立方体，重约 23 公斤。探测车将通过车轮在火卫一表面移动，调查温度、成分等，为 MMX 采集样本提供支持。此次探测的最大目标，是解开火卫一如何形成的谜团。目前较受重视的理论包括：来自其他区域的小行星被火星引力捕获；以及巨",
+   "published_at": 1792137333.0,
+   "published_bj": "2026-10-16 15:55"
+  },
+  {
+   "id": "58d2f7c6d28dce01",
+   "source": "少数派",
+   "title": "「弯道超车」赛车入门指北 05：让赛车粉身碎骨，才是保命的真正方式",
+   "url": "https://sspai.com/post/114836",
+   "summary": "当你下次在屏幕前看到两台赛车撞得粉身碎骨、而车手淡定地推开残骸向看台挥手致意时，希望你能想起今天的故事。 查看全文",
+   "published_at": 1792131887.0,
+   "published_bj": "2026-10-16 14:24"
+  },
+  {
+   "id": "1983006ea0a5d447",
+   "source": "Solidot",
+   "title": "动物飞行的能量成本受大气条件影响",
+   "url": "https://www.solidot.org/story?sid=85627",
+   "summary": "通过研究对 50 种鸟和蝙蝠的跨越 17 年的观测数据，研究人员提出的见解挑战了传统观点——即飞行具有可预测的能量成本，且总是高于游泳或休息等其他移动方式的成本。这项新研究表明，鸟类和蝙蝠可以利用风力和上升气流来大幅减少飞行所需的能量。研究人员测量了真实条件下的有效运输成本——即飞行动物移动给定距离所消耗的能量，分析了 50 种鸟和蝙蝠的数据，这些物种的体型跨越了三个数量级（从约 12 克到超过 11 公斤）；研究使用了来自 850 只动物的历时 17 年的高分辨率 GPS 和加速度传感器测量数据，并辅以针对小型物种的雷达观测数据。研究结果表明，动物在野外飞行时的能量成本在很大程度上取决于它们",
+   "published_at": 1792131113.0,
+   "published_bj": "2026-10-16 14:11"
+  },
+  {
+   "id": "1d15b0987d0bdfa8",
+   "source": "TechCrunch",
+   "title": "Even Benchmark thinks AI is eroding the venture pact against backing rivals",
+   "url": "https://techcrunch.com/2026/10/15/even-benchmark-thinks-ai-is-eroding-the-venture-pact-against-backing-rivals/",
+   "summary": "Benchmark says the Valley’s rule against backing rivals is getting harder to keep.",
+   "published_at": 1792127806.0,
+   "published_bj": "2026-10-16 13:16"
+  },
+  {
+   "id": "9a55827fe16f2adf",
+   "source": "少数派",
+   "title": "一面专注体验，一面表达个性：麦金獭钢化膜与极稚墨水屏手机壳体验",
+   "url": "https://sspai.com/post/115679",
+   "summary": "从正面的手感与显示聊起，再翻到背面看看换图的玩法。 查看全文",
+   "published_at": 1792125665.0,
+   "published_bj": "2026-10-16 12:41"
+  },
+  {
+   "id": "7faad8aa4fb3c292",
+   "source": "Solidot",
+   "title": "国际计量局通过决议用闰时取代闰秒",
+   "url": "https://www.solidot.org/story?sid=85626",
+   "summary": "国际计量局在法国凡尔赛召开会议，多数成员国投票支持一项《关于确保“协调世界时”（UTC）连续性所需的技术措施》的决议，这意味着使用了半个多世纪的闰秒将被取消。根据决议，取消闰秒的举措将于 2027 年 5 月 20 日（世界计量日）生效。此前，在国际计量局 2022 年举行的会议上，成员国投票通过一项决议，呼吁制定不晚于 2035 年逐步取消闰秒的计划。决议还建议用闰时取代闰秒，即等到“原子时”（TAI）和“世界时”（UT）的时刻相差 3600 秒（即1小时）时，再进行调整。闰秒因为需要频繁更改而会导致数字系统发生混乱，闰时则需要 3000 多年才会修改一次。",
+   "published_at": 1792123733.0,
+   "published_bj": "2026-10-16 12:08"
+  },
+  {
+   "id": "846d15aa4874eaa6",
+   "source": "少数派",
+   "title": "让读书笔记不再吃灰：我做了一款跨平台书摘管理工具",
+   "url": "https://sspai.com/post/115688",
+   "summary": "从微信读书的 3 万条划线出发，我做了一个让阅读笔记重新回到日常的 App。 查看全文",
+   "published_at": 1792117118.0,
+   "published_bj": "2026-10-16 10:18"
+  },
+  {
+   "id": "8798f87066c6e194",
+   "source": "TechCrunch",
+   "title": "Tesla reveals SpaceX-powered Roadster that flies and falls with style",
+   "url": "https://techcrunch.com/2026/10/15/tesla-reveals-spacex-powered-roadster-that-flies-and-falls-with-style/",
+   "summary": "The new car used thrusters to leap over a Cybercab, Cybertruck, Tesla Semi, Model Y, and Model 3 at a demo in Texas.",
+   "published_at": 1792113463.0,
+   "published_bj": "2026-10-16 09:17"
+  },
+  {
+   "id": "2d5a733d4b162ed3",
+   "source": "少数派",
+   "title": "派早报：Apple 智能国行 Beta 版本将于本月晚些时候上线测试版本",
+   "url": "https://sspai.com/post/116355",
+   "summary": "SpaceXAI 发布 Grok Voice 3.0 语音模型、微软发布 XBOX Nano 口袋手柄等。 查看全文",
+   "published_at": 1792110192.0,
+   "published_bj": "2026-10-16 08:23"
+  },
+  {
+   "id": "f2d3c649865558b6",
+   "source": "TechCrunch",
+   "title": "When it came to Cal AI’s viral success, a small army of influencers paid off",
+   "url": "https://techcrunch.com/2026/10/15/when-it-came-to-cal-ais-viral-success-a-small-army-of-influencers-paid-off/",
+   "summary": "The company generated over $30 million in revenue in two years and was acquired by MyFitnessPal for an undisclosed amount of money in March.",
+   "published_at": 1792107896.0,
+   "published_bj": "2026-10-16 07:44"
+  },
+  {
+   "id": "ac7083bb61fec519",
+   "source": "InfoQ中文",
+   "title": "拍照和翻译救不了AI眼镜？千问2218元起推新硬件，要抢现实世界里的上下文",
+   "url": "https://www.infoq.cn/article/wMMAbsA4UOtYlAl1fH4T?utm_source=rss&utm_medium=article",
+   "summary": "点击查看原文>",
+   "published_at": 1792105561.0,
+   "published_bj": "2026-10-16 07:06"
+  },
+  {
+   "id": "4a205e0788b1d117",
+   "source": "InfoQ中文",
+   "title": "阶跃星辰开放 Step 5 Preview 权重：长程 Agent 的竞争，延伸到上下文管理与训练系统",
+   "url": "https://www.infoq.cn/article/EwqsJX6f03ODRac6Kk4c?utm_source=rss&utm_medium=article",
+   "summary": "点击查看原文>",
+   "published_at": 1792094999.0,
+   "published_bj": "2026-10-16 04:09"
+  },
+  {
+   "id": "3eb8abc868b39361",
+   "source": "InfoQ中文",
+   "title": "蚂蚁百灵开源 560B 模型 Ling-3.0-flash：0.19 美元搞定复杂工作流",
+   "url": "https://www.infoq.cn/article/SxQO3Aw6JCTgNMTGPPE8?utm_source=rss&utm_medium=article",
+   "summary": "点击查看原文>",
+   "published_at": 1792092833.0,
+   "published_bj": "2026-10-16 03:33"
+  },
+  {
+   "id": "34e7bf3cd33b5784",
+   "source": "Solidot",
+   "title": "美国银行雇佣千名合同工修复 AI 工具发现的软件漏洞",
+   "url": "https://www.solidot.org/story?sid=85625",
+   "summary": "美国银行（Bank of America）CEO Brian Moynihan 透露该公司雇佣了千名合同工帮助修复 Anthropic Mythos 等 AI 工具发现的软件漏洞。他表示：“我们在第二季度聘请了 1000 名合同工协助进行修复工作。除了原本负责该领域的 3000 名员外，这些合同工至今仍留在公司内，继续提供协助。”他向分析师透露，美国银行第三季度在软件修复以及与反洗钱合规相关的监管问题上投入了数亿美元以上的资金。这是美国大型企业首次披露其为保护软件系统免受 Mythos 影响所投入的人力和资金规模。",
+   "published_at": 1792080203.0,
+   "published_bj": "2026-10-16 00:03"
+  }
+ ]
+}

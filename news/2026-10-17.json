@@ -1,0 +1,538 @@
+{
+ "date": "2026-10-17",
+ "generated_at": 1792316307.8443148,
+ "count": 59,
+ "items": [
+  {
+   "id": "722426812ad2bdf3",
+   "source": "Solidot",
+   "title": "游戏逆向工程网站宣布关闭因为 AI 让反编译游戏变得非常容易",
+   "url": "https://www.solidot.org/story?sid=85638",
+   "summary": "协作游戏逆向工程网站 decomp.dev 宣布将关闭，管理员称 AI 让游戏反编译变得快且易于操作，基于人工的社区协作模式实际上已经瓦解，无法再区分哪些项目是以人工为主导的，哪些是由 AI 完成的。decomp.dev 管理员 Encounter 在官网声明中表示，从历史上看，匹配反编译一直是极其困难且耗时的任务，即便是对那些有适量活跃贡献者的中等规模游戏来说，反编译要以“年”为单位计时，但 GPT-6-Astra 之类的前沿 AI 模型最近已让反编译游戏变得极其轻松：它们在遵循复杂指令、为符号或调试信息交叉检索资源，以及在获得充分指引的情况下编写自然代码方面，要强得多。显而易见，只要有合适",
+   "published_at": 1792252534.0,
+   "published_bj": "2026-10-17 23:55"
+  },
+  {
+   "id": "43d4424fc85c2298",
+   "source": "Hacker News",
+   "title": "Pele – Mermaid diagrams as themeable SVG",
+   "url": "https://pele.run/",
+   "summary": "Article URL: https://pele.run/ Comments URL: https://news.ycombinator.com/item?id=50132193 Points: 430 # Comments: 38",
+   "published_at": 1792252509.0,
+   "published_bj": "2026-10-17 23:55"
+  },
+  {
+   "id": "6ac0c516cf062561",
+   "source": "TechCrunch",
+   "title": "Ember’s new temperature-controlled mug makes my nightly tea ritual even better",
+   "url": "https://techcrunch.com/2026/10/17/embers-new-temperature-controlled-mug-makes-my-nightly-tea-ritual-even-better/",
+   "summary": "The biggest change about Ember's new mug is that you no longer have to open the app to adjust your drink’s temperature.",
+   "published_at": 1792251000.0,
+   "published_bj": "2026-10-17 23:30"
+  },
+  {
+   "id": "5649e226d59a1790",
+   "source": "Solidot",
+   "title": "天文学家发现第一颗绿色恒星",
+   "url": "https://www.solidot.org/story?sid=85637",
+   "summary": "天文学家可能发现了第一颗绿色恒星——名为 WD J1330+6435 的白矮星，位于地球 326 光年外。部分死亡恒星——即白矮星——在吞噬围绕其运行的行星后，可能会呈现出绿色。WD J1330+6435 一直在吸积其行星伴星上的岩石物质。这一过程使其大气中富含钙、锂和钠元素。模型表明这些元素的存在使得 WD J1330+6435 呈现绿色。WD J1330+6435 是已知首颗真正呈现绿色的恒星。研究人员称，白矮星大气中残留的钠元素吸收了光谱中的橙色部分，留下了幽灵般的绿光。",
+   "published_at": 1792250966.0,
+   "published_bj": "2026-10-17 23:29"
+  },
+  {
+   "id": "939393b798c7845e",
+   "source": "cnBeta",
+   "title": "英特尔高级副总裁确认Razor Lake-AX 算力将达700TOPS",
+   "url": "https://www.cnbeta.com.tw/articles/tech/1582688.htm",
+   "summary": "英特尔确认，下一代 Razor Lake-AX 系统级芯片将于 2028 年推出，其 AI 算力将达到 700 TOPS，约为现有 Panther Lake 平台的 3.88 倍。英特尔高级副总裁 Cho Min-sung 在韩国首尔三成洞举行的“半导体驱动人形机器人”研讨会上透露了这一路线图。 阅读全文",
+   "published_at": 1792250710.0,
+   "published_bj": "2026-10-17 23:25"
+  },
+  {
+   "id": "519217443f70d884",
+   "source": "cnBeta",
+   "title": "英伟达否认GeForce RTX 5090停产传闻 称旗舰显卡仍将持续出货",
+   "url": "https://www.cnbeta.com.tw/articles/tech/1582686.htm",
+   "summary": "针对近期有关英伟达GeForce RTX 5090即将停产的报道，英伟达高级副总裁Jeff Fisher作出否认。他表示，这款基于Blackwell架构的旗舰GeForce显卡并未停产，公司将继续向市场供货；不过他也承认，其供应链和产能确实存在一定限制。相关表态由台湾媒体4Gamers、中央社及三立新闻等报道。 阅读全文",
+   "published_at": 1792250645.0,
+   "published_bj": "2026-10-17 23:24"
+  },
+  {
+   "id": "fadcf5528bb8d00b",
+   "source": "Solidot",
+   "title": "GNOME 面向普通用户发布 GNOME OS Preview",
+   "url": "https://www.solidot.org/story?sid=85636",
+   "summary": "GNOME 项目已推出发行版项目 GNOME OS 一段时间，但它只提供基于最新代码的 Nightly 版本，主要面向开发者。现在它推出了面向普通用户的 GNOME OS Preview。GNOME OS Preview 基于 Nightly 版本，但去掉了 Nightly 特性，基于最新的 GNOME 51.1 构建。开发者表示该版本尚未经过充分的实际使用测试，可能会遇到问题，但稳定性肯定高于 Nightly 版本，对想要尝鲜的普通用户而言足够稳定，可用于日常使用。但它还需要进一步完善。",
+   "published_at": 1792250580.0,
+   "published_bj": "2026-10-17 23:23"
+  },
+  {
+   "id": "34a36b1054af887e",
+   "source": "cnBeta",
+   "title": "三星One UI 10或迎最大重构 从应用孤岛转向情境化体验",
+   "url": "https://www.cnbeta.com.tw/articles/tech/1582684.htm",
+   "summary": "消息人士透露，三星正计划对One UI进行一次彻底重构，并将在整体设计理念上作出重大调整。这家韩国科技巨头据称正在探索多种创新方式，可能改变Galaxy用户与系统软件交互的方式。知名三星爆料人Ice Universe也在X平台表示，其独立消息源已确认One UI 10将带来“前所未有的重大变化”。 阅读全文",
+   "published_at": 1792250496.0,
+   "published_bj": "2026-10-17 23:21"
+  },
+  {
+   "id": "a009d98e44f09974",
+   "source": "cnBeta",
+   "title": "防蚊军用面料跨界农业 实验显示可使草莓产量大增3.56倍",
+   "url": "https://www.cnbeta.com.tw/articles/science/1582682.htm",
+   "summary": "防蚊军用面料“Plant Armor”被美国北卡罗来纳州立大学研究人员用于草莓种植，实验显示其可将单株果实产量提高至未覆盖植株的3.56倍，同时无需增加植株体积或叶片数量。这项原本面向军装防蚊的技术，正在农业领域展现出减少农药使用、提升产量的潜力。 阅读全文",
+   "published_at": 1792250436.0,
+   "published_bj": "2026-10-17 23:20"
+  },
+  {
+   "id": "53c614b706e3fb95",
+   "source": "cnBeta",
+   "title": "《GTA6》被评18禁 两大主角可携带并随时吸食违禁品",
+   "url": "https://www.cnbeta.com.tw/articles/game/1582680.htm",
+   "summary": "《GTA6》似乎又为该系列已经庞大的“不良嗜好”清单增添了一项。除了脱衣舞俱乐部、暴力劫车和肆意杀戮之外，根据新的年龄分级，游戏中还加入了“频繁且突出”的毒品使用，玩家可以“随时”尝试。 阅读全文",
+   "published_at": 1792249642.0,
+   "published_bj": "2026-10-17 23:07"
+  },
+  {
+   "id": "815d5b57fa5a3a80",
+   "source": "cnBeta",
+   "title": "马斯克称AI和机器人是解决美国国债问题唯一途径",
+   "url": "https://www.cnbeta.com.tw/articles/tech/1582678.htm",
+   "summary": "马斯克在与传记作者沃尔特·艾萨克森的一次最新播客访谈中表示，曾由他领导的“DOGE”（政府效率部）的工作最终不了了之；这一经历证明，想要“从政府内部解决赤字问题，根本行不通”。 阅读全文",
+   "published_at": 1792249528.0,
+   "published_bj": "2026-10-17 23:05"
+  },
+  {
+   "id": "84c78a8e7ab9fdcf",
+   "source": "InfoQ中文",
+   "title": "Akka 在 65 个开源项目中测试基于规格的 AI 交付",
+   "url": "https://www.infoq.cn/article/uGNQwpOt5GGAKm2XlEZC?utm_source=rss&utm_medium=article",
+   "summary": "点击查看原文>",
+   "published_at": 1792249200.0,
+   "published_bj": "2026-10-17 23:00"
+  },
+  {
+   "id": "694745013af963c5",
+   "source": "Hacker News",
+   "title": "Solar surpasses nuclear power globally for first time",
+   "url": "https://www.pv-magazine.com/2026/09/29/solar-surpasses-nuclear-power-globally-for-first-time/",
+   "summary": "Article URL: https://www.pv-magazine.com/2026/09/29/solar-surpasses-nuclear-power-globally-for-first-time/ Comments URL: https://news.ycombinator.com/item?id=50131256 Points: 603 # Comments: 377",
+   "published_at": 1792245661.0,
+   "published_bj": "2026-10-17 22:01"
+  },
+  {
+   "id": "7a10f16336d01c3e",
+   "source": "Hacker News",
+   "title": "Making chicken transparent using Dorito dust",
+   "url": "https://chillphysicsenjoyer.substack.com/p/making-chicken-transparent-using",
+   "summary": "Article URL: https://chillphysicsenjoyer.substack.com/p/making-chicken-transparent-using Comments URL: https://news.ycombinator.com/item?id=50131213 Points: 301 # Comments: 81",
+   "published_at": 1792245328.0,
+   "published_bj": "2026-10-17 21:55"
+  },
+  {
+   "id": "63f1dbff702728b0",
+   "source": "Hacker News",
+   "title": "Show HN: Esp32sim – Run ESP32 firmware in the browser",
+   "url": "https://github.com/mikroverk/esp32sim",
+   "summary": "Hi HN, I’ve been working on esp32sim, an open-source ESP32 emulator that runs in the browser. The fun part of the demo is that there is no ESP32 involved — the firmware is executing in the emulator. The goal is to make ESP32 software easier to experiment with, test and simulate without always needin",
+   "published_at": 1792245068.0,
+   "published_bj": "2026-10-17 21:51"
+  },
+  {
+   "id": "0c8a8aa0d036340d",
+   "source": "Hacker News",
+   "title": "Show HN: High-quality duck audio synthesizer",
+   "url": "https://celphase.github.io/duck-pond/",
+   "summary": "Article URL: https://celphase.github.io/duck-pond/ Comments URL: https://news.ycombinator.com/item?id=50131006 Points: 134 # Comments: 29",
+   "published_at": 1792243726.0,
+   "published_bj": "2026-10-17 21:28"
+  },
+  {
+   "id": "711d228734729617",
+   "source": "cnBeta",
+   "title": "戴尔CEO警告AI服务器内存短缺将进一步恶化 950亿美元积压订单面临供应挑战",
+   "url": "https://www.cnbeta.com.tw/articles/tech/1582676.htm",
+   "summary": "戴尔科技首席执行官迈克尔·戴尔近日就全球半导体供应形势发出警告称，高带宽内存（HBM）和动态随机存取存储器（DRAM）的供应紧张局面预计将在2027年进一步恶化。随着人工智能基础设施建设需求持续飙升，全球内存产能增长速度已无法满足市场需求，这正成为制约AI服务器行业发展的关键瓶颈。 阅读全文",
+   "published_at": 1792240137.0,
+   "published_bj": "2026-10-17 20:28"
+  },
+  {
+   "id": "e4c5ae95777d2bfc",
+   "source": "cnBeta",
+   "title": "银河系中心黑洞或正在消耗自身旋转能量 为宇宙射线提供动力",
+   "url": "https://www.cnbeta.com.tw/articles/science/1582674.htm",
+   "summary": "银河系中心隐藏着一个质量约为太阳400万倍的超大质量黑洞——人马座A*（Sagittarius A*）。它虽然距离地球约2.6万光年，目前整体活动相对平静，却可能拥有一种令人惊讶的能量释放方式：通过牺牲自身的旋转能量，将周围的粒子加速到极高能量，并为银河系中的部分宇宙射线提供动力。 阅读全文",
+   "published_at": 1792240106.0,
+   "published_bj": "2026-10-17 20:28"
+  },
+  {
+   "id": "1da1af41a611851d",
+   "source": "cnBeta",
+   "title": "NASA将探测月球巨坑下方神秘空间 寻找隐藏洞穴与远古火山活动证据",
+   "url": "https://www.cnbeta.com.tw/articles/science/1582672.htm",
+   "summary": "美国国家航空航天局（NASA）正支持一项新的月球探测计划，目标是调查月球表面一个巨型深坑下方是否存在大型地下洞穴结构。科学家认为，这项任务不仅有望揭示月球远古火山活动的历史，还可能为未来宇航员建立安全栖息地提供关键依据。 阅读全文",
+   "published_at": 1792240066.0,
+   "published_bj": "2026-10-17 20:27"
+  },
+  {
+   "id": "3816f2d96b993f38",
+   "source": "cnBeta",
+   "title": "Anduril推出模块化防空拦截导弹Steelfin 目标年产数千枚",
+   "url": "https://www.cnbeta.com.tw/articles/tech/1582670.htm",
+   "summary": "美国国防科技企业安杜里尔工业公司（Anduril Industries）近日公布了一款名为Steelfin的新型地对空拦截导弹系列。该系统采用模块化的两级结构，通过更换第一级助推器，并调整第二级拦截器中的部分组件，就能针对不同类型的空中威胁进行配置。 阅读全文",
+   "published_at": 1792239973.0,
+   "published_bj": "2026-10-17 20:26"
+  },
+  {
+   "id": "ebc63688adba58ea",
+   "source": "cnBeta",
+   "title": "SpaceX“龙”飞船向国际空间站运送前沿科研载荷 新太阳能阵列即将完成部署",
+   "url": "https://www.cnbeta.com.tw/articles/science/1582668.htm",
+   "summary": "美国国家航空航天局（NASA）宣布，SpaceX执行的第35次国际空间站商业补给任务已顺利完成对接。“龙”货运飞船于美国东部时间10月15日上午10时27分抵达国际空间站，并与“和谐号”（Harmony）节点舱面向太空的一侧对接口成功连接。此次任务共向空间站远征75号乘组运送超过6300磅（约2858公斤）的食品、设备以及其他关键物资。 阅读全文",
+   "published_at": 1792239917.0,
+   "published_bj": "2026-10-17 20:25"
+  },
+  {
+   "id": "77c50c8bb0904147",
+   "source": "Hacker News",
+   "title": "Interactive Linear Programming in the Browser",
+   "url": "https://lpviz.net/",
+   "summary": "Article URL: https://lpviz.net/ Comments URL: https://news.ycombinator.com/item?id=50130379 Points: 31 # Comments: 0",
+   "published_at": 1792238804.0,
+   "published_bj": "2026-10-17 20:06"
+  },
+  {
+   "id": "202f5417c5c7f9d1",
+   "source": "cnBeta",
+   "title": "斩获M站99分！“女版乔布斯”世纪骗子纪录片口碑封神",
+   "url": "https://www.cnbeta.com.tw/articles/movie/1582666.htm",
+   "summary": "近日A24出品美国纪录片《你能看到一切》（You Can See Everything）已在北美正式公映。媒体口碑解禁。截止发稿，该片在M站收录37家媒体打分，均分高达99分，并获得平台“必看认证”。 阅读全文",
+   "published_at": 1792238653.0,
+   "published_bj": "2026-10-17 20:04"
+  },
+  {
+   "id": "f3f51aa5c75e5f71",
+   "source": "cnBeta",
+   "title": "Anthropic联合创始人：AI或推动美国经济规模到2030年达到44万亿美元",
+   "url": "https://www.cnbeta.com.tw/articles/tech/1582664.htm",
+   "summary": "Anthropic联合创始人杰克·克拉克（Jack Clark）周六表示，人工智能能力的迅速提升将推动各领域发生更为迅猛的变革；该公司内部的一项模型预测，在特定条件下，到2030年，人工智能有望使美国经济产出增加近50%，达到44万亿美元。 阅读全文",
+   "published_at": 1792238516.0,
+   "published_bj": "2026-10-17 20:01"
+  },
+  {
+   "id": "7ae8dded1c3ff414",
+   "source": "cnBeta",
+   "title": "四部门督促车企加强测试验证 要求车企抵制非理性竞争",
+   "url": "https://www.cnbeta.com.tw/articles/tech/1582662.htm",
+   "summary": "记者今天从工业和信息化部获悉，工业和信息化部、公安部、生态环境部、市场监管总局四部门组织 30余家重点汽车生产企业 开展座谈， 加强汽车产品创新设计和研发测试验证管理。 阅读全文",
+   "published_at": 1792238415.0,
+   "published_bj": "2026-10-17 20:00"
+  },
+  {
+   "id": "8d019bd697d52547",
+   "source": "cnBeta",
+   "title": "缅北严父：这家公司派了20万个“AI影帝”去反杀诈骗犯",
+   "url": "https://www.cnbeta.com.tw/articles/tech/1582660.htm",
+   "summary": "在悉尼的一间办公室里，每当扬声器里传出电信诈骗犯气急败坏的脏话和咆哮，整个团队就会爆发出一阵欢呼。“我们把这当作骗子挫败感的量化指标，”澳大利亚网络安全初创公司 Apate.ai 的联合创始人兼首席商务官 Brad Joffe 笑着对媒体说，“每当有骗子对着电话破口大骂，我们都会庆祝。我们大概是全世界极少数因为用户对自家产品骂街而感到高兴的公司。” 阅读全文",
+   "published_at": 1792237938.0,
+   "published_bj": "2026-10-17 19:52"
+  },
+  {
+   "id": "fc80b0db1178a3b4",
+   "source": "InfoQ中文",
+   "title": "The World Is Not a Dataset - Building AI Systems That Continuously Learn from Reality｜QCon上海",
+   "url": "https://www.infoq.cn/article/JMZ6WUx4a4cVqAwhwviU?utm_source=rss&utm_medium=article",
+   "summary": "点击查看原文>",
+   "published_at": 1792231200.0,
+   "published_bj": "2026-10-17 18:00"
+  },
+  {
+   "id": "a3ba1e5754c01e2d",
+   "source": "InfoQ中文",
+   "title": "Java 近期新闻：JobRunr 9、OpenXava 8、Quarkus、LangChain4j、JNoSQL、Lathe",
+   "url": "https://www.infoq.cn/article/AF1qxLVCRls3R6MdWwBh?utm_source=rss&utm_medium=article",
+   "summary": "点击查看原文>",
+   "published_at": 1792231200.0,
+   "published_bj": "2026-10-17 18:00"
+  },
+  {
+   "id": "7b36b08fa3d58720",
+   "source": "cnBeta",
+   "title": "iPhone 18 Pro Max国内单周激活量近90万 刷新记录",
+   "url": "https://www.cnbeta.com.tw/articles/tech/1582658.htm",
+   "summary": "据博主数码闲聊站消息，iPhone 18 Pro Max 刷新记录，2026 年第 41 周（10 月 5 日 - 10 月 11 日）国内单周激活近 90 万台。此外，iPhone 18 Pro系列双杯累计销量目前已经超过400万台。 阅读全文",
+   "published_at": 1792229108.0,
+   "published_bj": "2026-10-17 17:25"
+  },
+  {
+   "id": "334ec00496f8efa4",
+   "source": "cnBeta",
+   "title": "DeepSeek V4.1 Flash 新版本上线：许愿式编程一键成真",
+   "url": "https://www.cnbeta.com.tw/articles/tech/1582656.htm",
+   "summary": "DeepSeek V4.1 Flash 现已更新至 V4.1-Flash-1017 版本，官方网页端、APP 与 API 模型已同步变更为新模型。相比上一版本的 DeepSeek V4.1 Flash，新模型在各方面的基准测试中取得了长足的提升。 阅读全文",
+   "published_at": 1792229059.0,
+   "published_bj": "2026-10-17 17:24"
+  },
+  {
+   "id": "6c1f58b3b8896927",
+   "source": "cnBeta",
+   "title": "AI辅助开发的Starling OpenOffice上线 提供文档、电子表格和演示文稿工具",
+   "url": "https://www.cnbeta.com.tw/articles/tech/1582654.htm",
+   "summary": "Starling项目推出Office套件Starling OpenOffice，为用户提供文档、电子表格和演示文稿三类工具，分别名为Writer、Sheets和Slides。该项目通过“vibe coding”方式开发，属于一系列以AI辅助编写的办公软件替代品之一；它可以在浏览器中直接运行，也提供独立桌面版，不需要先安装Starling Desktop。 阅读全文",
+   "published_at": 1792229008.0,
+   "published_bj": "2026-10-17 17:23"
+  },
+  {
+   "id": "809e0ef37fa4fa5a",
+   "source": "cnBeta",
+   "title": "分析师热评“会飞的特斯拉”：工程技术实力惊艳世界 但商业价值可能有限",
+   "url": "https://www.cnbeta.com.tw/articles/tech/1582652.htm",
+   "summary": "特斯拉当地时间周四晚间在得克萨斯州发布了新一代Roadster跑车，上演了令人惊叹的“腾空翻转”等高难度动作，并展示了飞行能力。不过，多位分析师认为，这款车型短期内不太可能为特斯拉带来可观的收入。 阅读全文",
+   "published_at": 1792228944.0,
+   "published_bj": "2026-10-17 17:22"
+  },
+  {
+   "id": "0409ee7617744742",
+   "source": "cnBeta",
+   "title": "英国监管机构拟将微软列为“战略市场主体” 产品捆绑生态成调查焦点",
+   "url": "https://www.cnbeta.com.tw/articles/tech/1582650.htm",
+   "summary": "英国竞争与市场管理局（CMA）日前公布一项初步决定，计划依据《2024年数字市场、竞争与消费者法案》，将微软认定为“战略市场主体”（Strategic Market Status，SMS）。监管机构认为，微软凭借其高度整合的企业软件生态系统，在多个市场之间形成联动优势，从而可能削弱市场竞争。 阅读全文",
+   "published_at": 1792228805.0,
+   "published_bj": "2026-10-17 17:20"
+  },
+  {
+   "id": "1ac59486a210fa99",
+   "source": "Hacker News",
+   "title": "DeepSeek-v4.1-Flash-1017",
+   "url": "https://huggingface.co/deepseek-ai/DeepSeek-V4.1-Flash-1017",
+   "summary": "https://api-docs.deepseek.com/news/news261017/ https://openrouter.ai/deepseek/deepseek-v4.1-flash-1017 Comments URL: https://news.ycombinator.com/item?id=50129045 Points: 856 # Comments: 652",
+   "published_at": 1792225285.0,
+   "published_bj": "2026-10-17 16:21"
+  },
+  {
+   "id": "03698a61c51ba8b0",
+   "source": "少数派",
+   "title": "被量化的心跳：HRV 是身体的晴雨表，还是制造焦虑的数字游戏？",
+   "url": "https://sspai.com/post/104231",
+   "summary": "这些设备最好的用途，不是让你更依赖它们，而是帮助你重新学会倾听自己。然后，在某个清晨，你不再需要看任何数字，就知道今天会是美好的一天。 查看全文",
+   "published_at": 1792220284.0,
+   "published_bj": "2026-10-17 14:58"
+  },
+  {
+   "id": "744c3bf748180fa1",
+   "source": "cnBeta",
+   "title": "微软着手取消Windows 11应用启动时的多余进程 软件启动有望进一步提速",
+   "url": "https://www.cnbeta.com.tw/articles/tech/1582648.htm",
+   "summary": "微软正在为Windows 11开发一项新的应用启动加速机制，通过取消启动过程中不必要的临时进程，让应用程序更快响应用户操作。微软Edge浏览器已经率先采用这项技术。当浏览器仍在后台运行时，用户再次点击任务栏图标、开始菜单快捷方式或网页链接，Windows可以直接将请求发送给已经运行的Edge实例，而不必先启动一个临时进程，再由该进程转交请求。 阅读全文",
+   "published_at": 1792219952.0,
+   "published_bj": "2026-10-17 14:52"
+  },
+  {
+   "id": "8f65bf6ab4a933f2",
+   "source": "cnBeta",
+   "title": "OpenAI“窃听”案新进展：被捕工程师否认潜逃、寻求保释",
+   "url": "https://www.cnbeta.com.tw/articles/tech/1582646.htm",
+   "summary": "据彭博社报道，OpenAI窃听案主角、被捕工程师阿卜杜勒拉赫曼·阿尔福赞(Abdulrahman Alfozan)请求解除羁押，并否认自己购买返回祖国沙特的单程机票是为了逃避美国的司法追究。 阅读全文",
+   "published_at": 1792219919.0,
+   "published_bj": "2026-10-17 14:51"
+  },
+  {
+   "id": "7a963bbbf38e5a99",
+   "source": "cnBeta",
+   "title": "玩家用自定义固件让咖啡机成功运行《毁灭战士》",
+   "url": "https://www.cnbeta.com.tw/articles/game/1582644.htm",
+   "summary": "玩家FullExtraction通过自定义固件，让1993年的《毁灭战士》在Fellow Espresso Series 1咖啡机上运行。游戏画面显示在机器的小型圆形屏幕上，公开视频中的运行效果较为流畅，帧率也相对稳定。 阅读全文",
+   "published_at": 1792219747.0,
+   "published_bj": "2026-10-17 14:49"
+  },
+  {
+   "id": "a219c05da1caa811",
+   "source": "cnBeta",
+   "title": "《GTA6》首发或狂揽20亿美元 但长期销量仍面临挑战",
+   "url": "https://www.cnbeta.com.tw/articles/game/1582642.htm",
+   "summary": "《GTA6》可能在首发阶段打破系列收入纪录。第三方预测认为，本作发售时的预购量或达2500万份，对应收入约20亿美元，超过《给他爱5》发售三天取得的10亿美元。 阅读全文",
+   "published_at": 1792219691.0,
+   "published_bj": "2026-10-17 14:48"
+  },
+  {
+   "id": "9e84c535a2cda72a",
+   "source": "cnBeta",
+   "title": "久夛良木健支持PlayStation逐步淘汰实体游戏光盘",
+   "url": "https://www.cnbeta.com.tw/articles/game/1582640.htm",
+   "summary": "被称为“PlayStation之父”的久夛良木健支持索尼逐步淘汰实体游戏光盘。他认为，继续为PlayStation生产实体介质在经济上已经不合理，并将玩家对游戏所有权的执着概括为一种“心态”。 阅读全文",
+   "published_at": 1792219684.0,
+   "published_bj": "2026-10-17 14:48"
+  },
+  {
+   "id": "551e76930770b719",
+   "source": "cnBeta",
+   "title": "《GTA6》首支预告片和发售预告片对比 被质疑画面缩水",
+   "url": "https://www.cnbeta.com.tw/articles/game/1582638.htm",
+   "summary": "最近，R星发布了《GTA6》的发售宣传片，内容较多——军队背景故事、激情四射的淋浴性场景、杰森把一个人从船上扔下去、有人喊着“侠盗猎车手”。 阅读全文",
+   "published_at": 1792219593.0,
+   "published_bj": "2026-10-17 14:46"
+  },
+  {
+   "id": "0d561e780d2bab74",
+   "source": "Hacker News",
+   "title": "Show HN: Llmspeed – feel how fast a local LLM runs before you buy the hardware",
+   "url": "https://llmspeed.dev/",
+   "summary": "Article URL: https://llmspeed.dev/ Comments URL: https://news.ycombinator.com/item?id=50127979 Points: 292 # Comments: 81",
+   "published_at": 1792211813.0,
+   "published_bj": "2026-10-17 12:36"
+  },
+  {
+   "id": "3ff3ea959abe5d5c",
+   "source": "TechCrunch",
+   "title": "Mark Wahlberg wants to take on the longevity-startup crowd with an affordable gym concept",
+   "url": "https://techcrunch.com/2026/10/16/mark-wahlberg-wants-to-take-on-the-longevity-startup-crowd-with-an-affordable-gym-concept/",
+   "summary": "Mark Wahlberg, who once sank money into a gym chain that got kicked off the NYSE, is now building his own, and he promises you’ll get a cold plunge, a blood panel and a protein muffin without needing a trust fund.",
+   "published_at": 1792204578.0,
+   "published_bj": "2026-10-17 10:36"
+  },
+  {
+   "id": "104b674ba10b9cb9",
+   "source": "Hacker News",
+   "title": "Propagation of Sound in Strongly Viscous Liquids (1966) [pdf]",
+   "url": "https://jetp.ras.ru/cgi-bin/dn/e_023_05_0893.pdf",
+   "summary": "Article URL: https://jetp.ras.ru/cgi-bin/dn/e_023_05_0893.pdf Comments URL: https://news.ycombinator.com/item?id=50126457 Points: 7 # Comments: 1",
+   "published_at": 1792195889.0,
+   "published_bj": "2026-10-17 08:11"
+  },
+  {
+   "id": "a42d0256891b0a75",
+   "source": "Hacker News",
+   "title": "Dam removals are bringing fish back across the northeastern United States",
+   "url": "https://www.smithsonianmag.com/science-nature/dam-removals-are-bringing-fish-back-across-the-northeastern-united-states-striking-down-one-tiny-barrier-at-a-time-180989679/",
+   "summary": "Article URL: https://www.smithsonianmag.com/science-nature/dam-removals-are-bringing-fish-back-across-the-northeastern-united-states-striking-down-one-tiny-barrier-at-a-time-180989679/ Comments URL: https://news.ycombinator.com/item?id=50126312 Points: 274 # Comments: 66",
+   "published_at": 1792194451.0,
+   "published_bj": "2026-10-17 07:47"
+  },
+  {
+   "id": "0e69ddbd5d3342d0",
+   "source": "Hacker News",
+   "title": "Bleached corals thrive within days when touching healthy neighbour",
+   "url": "https://www.nature.com/articles/d41586-026-03266-x",
+   "summary": "https://archive.ph/zIPG4 Comments URL: https://news.ycombinator.com/item?id=50126253 Points: 450 # Comments: 99",
+   "published_at": 1792193907.0,
+   "published_bj": "2026-10-17 07:38"
+  },
+  {
+   "id": "788570d4eb82f129",
+   "source": "TechCrunch",
+   "title": "Porsche’s electric Macan Turbo is an automotive existential crisis",
+   "url": "https://techcrunch.com/2026/10/16/porsches-electric-macan-turbo-is-an-automotive-existential-crisis/",
+   "summary": "The 2026 Porsche Macan Turbo EV is a two-row crossover with 630 horsepower and a 100-kilowatt-hour battery.",
+   "published_at": 1792179600.0,
+   "published_bj": "2026-10-17 03:40"
+  },
+  {
+   "id": "e3f251f6a35ea59e",
+   "source": "TechCrunch",
+   "title": "India becomes the latest country to report rogue AI agent activity",
+   "url": "https://techcrunch.com/2026/10/16/india-becomes-the-latest-country-to-report-rogue-ai-agent-activity/",
+   "summary": "The agents got in through credentials and connection settings left exposed in app configurations, public code repositories, and overly permissive cloud roles.",
+   "published_at": 1792173144.0,
+   "published_bj": "2026-10-17 01:52"
+  },
+  {
+   "id": "18e73c948424642a",
+   "source": "InfoQ中文",
+   "title": "聚焦 AI 场景落地与 FDE 创新，2026 人工智能产业大会专项活动在济南举行",
+   "url": "https://www.infoq.cn/article/1XtKjZ1OCyrYTCmb4Zkb?utm_source=rss&utm_medium=article",
+   "summary": "点击查看原文>",
+   "published_at": 1792172751.0,
+   "published_bj": "2026-10-17 01:45"
+  },
+  {
+   "id": "9d84bf4fee80a1af",
+   "source": "InfoQ中文",
+   "title": "生产级大模型平台工程实战手册",
+   "url": "https://www.infoq.cn/article/xQLd004RGWrzFhwqBOyC?utm_source=rss&utm_medium=article",
+   "summary": "点击查看原文>",
+   "published_at": 1792170000.0,
+   "published_bj": "2026-10-17 01:00"
+  },
+  {
+   "id": "146db7543ed7c5a2",
+   "source": "InfoQ中文",
+   "title": "AI 生成的代码，怎么才能进得了工程体系？",
+   "url": "https://www.infoq.cn/article/8iKz8xNQvxDfeuxH1QLA?utm_source=rss&utm_medium=article",
+   "summary": "点击查看原文>",
+   "published_at": 1792169790.0,
+   "published_bj": "2026-10-17 00:56"
+  },
+  {
+   "id": "5241dbe00bfaf5ba",
+   "source": "Solidot",
+   "title": "英国中年男性自杀率达到历史最高水平",
+   "url": "https://www.solidot.org/story?sid=85635",
+   "summary": "英国中年男性自杀率达历史最高水平。英国国家统计局 2025 年的数据显示，50 岁出头的男性自杀风险最高。2025 年登记的自杀死亡人数为 6162 人，略低于 2024 年的 6190 人，总体自杀率基本不变，即每 10 万人有 11.3 人死于自杀。接近三分之一死者为 45-64 岁男性，该年龄段自杀人数比 2024 年增加 49 人，该年龄段自杀率达到每 10 万人 23.8 人，高于 2024 年的 23.2 人，为 1981 年开始统计该数据以来的最高纪录。其中 50-54 岁男性自杀率达到每 10 万人 28 人。有 553 名中年女性死于自杀，每 10 万人 7 例，于 2024",
+   "published_at": 1792169022.0,
+   "published_bj": "2026-10-17 00:43"
+  },
+  {
+   "id": "f41548fb84767a42",
+   "source": "InfoQ中文",
+   "title": "范式智能联合睿思智联推出开源一站式生产级AI部署平台 “模域ModelSphere”",
+   "url": "https://www.infoq.cn/article/VZPlIIdGRg062mgwJe5y?utm_source=rss&utm_medium=article",
+   "summary": "点击查看原文>",
+   "published_at": 1792168682.0,
+   "published_bj": "2026-10-17 00:38"
+  },
+  {
+   "id": "fb66459f8c145a6e",
+   "source": "TechCrunch",
+   "title": "An Nvidia insider-turned-VC on why robotics hasn’t hit its ChatGPT moment, yet",
+   "url": "https://techcrunch.com/video/a-nvidia-insider-turned-vc-on-why-robotics-hasnt-hit-its-chatgpt-moment-yet/",
+   "summary": "Amulya Vishwanath, who spent seven years leading product marketing for NVIDIA’s robotics platforms, says robotics is currently in its “Lego era,” with the basic building blocks like actuators, robotic hands, software, and safety standards still being&#160;rebuilt.&#160; This view runs counter to tho",
+   "published_at": 1792168200.0,
+   "published_bj": "2026-10-17 00:30"
+  },
+  {
+   "id": "6bd9888884affb8a",
+   "source": "TechCrunch",
+   "title": "Waymo’s robotaxis are headed to Canada",
+   "url": "https://techcrunch.com/2026/10/16/waymos-robotaxis-are-headed-to-canada/",
+   "summary": "The company will start off by testing its self-driving vehicles on Toronto's streets.",
+   "published_at": 1792166798.0,
+   "published_bj": "2026-10-17 00:06"
+  },
+  {
+   "id": "7511d238982bab13",
+   "source": "Solidot",
+   "title": "Meta 发布其开放权重模型 Muse Spark Open",
+   "url": "https://www.solidot.org/story?sid=85634",
+   "summary": "Meta 发布了 Muse Spark Open，称它是目前美国最强大的开放权重模型。Muse Spark Open 为多模态模型，总共有 8160 亿参数，激活参数 420 亿，支持 100 万 Token 上下文。该模型利用了苹果最新版本的开源数组框架 MLX，对苹果 Apple Silicon 的统一内存架构进行了优化，能运行在搭载 M5 Ultra 芯片的 Mac Studio 上。M5 Ultra 支持最大 512GB 内存容量，两台最高配置的 Mac Studio 就能容纳整个模型，两台机器相当一台 1TB 统一内存的计算机。Muse Spark Open 已发布在 Hugging",
+   "published_at": 1792166642.0,
+   "published_bj": "2026-10-17 00:04"
+  },
+  {
+   "id": "d3ebd1ec3a22311e",
+   "source": "TechCrunch",
+   "title": "Elorian’s first AI model wants to reason with images, not just about them",
+   "url": "https://techcrunch.com/2026/10/16/elorians-first-ai-model-wants-to-reason-with-images-not-just-about-them/",
+   "summary": "According to Elorian's evaluations, Glimpse outperforms even GPT-6 Astra on scientific chart reasoning and short-form video captioning, with competitive results on other visual reasoning tasks.",
+   "published_at": 1792166497.0,
+   "published_bj": "2026-10-17 00:01"
+  },
+  {
+   "id": "9f5bf0dda83cea4e",
+   "source": "TechCrunch",
+   "title": "Tressfecta wants to make hair braiding a less arduous task for hairstylists",
+   "url": "https://techcrunch.com/2026/10/16/tressfecta-wants-to-make-hair-braiding-a-less-arduous-task-for-hairstylists/",
+   "summary": "Tressfecta builds products for textured hair. Its first project is a tool called Plait Pilot that helps braiders with the initial process of separating hair from packs before braiding begins.",
+   "published_at": 1792166400.0,
+   "published_bj": "2026-10-17 00:00"
+  },
+  {
+   "id": "ffd80355dca35955",
+   "source": "TechCrunch",
+   "title": "In ‘You Can See Everything,’ Elizabeth Holmes meets her equal in comedian Nathan Fielder",
+   "url": "https://techcrunch.com/2026/10/16/in-you-can-see-everything-elizabeth-holmes-meets-her-equal-in-comedian-nathan-fielder/",
+   "summary": "Nathan Fielder's documentary about disgraced Theranos CEO Elizabeth Holmes has created a constellation of colliding personas that interrogate the very nature of authenticity.",
+   "published_at": 1792166400.0,
+   "published_bj": "2026-10-17 00:00"
+  }
+ ]
+}

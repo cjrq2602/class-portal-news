@@ -1,42 +1,54 @@
 {
-  "_comment": "新闻源配置。RSSHub 公共实例在国内源上做聚合，GitHub Actions runner 无法直连国内站点，因此统一走 RSSHub。若某实例失效，把对应 url 的域名换成下面备用实例之一即可（也可自建实例）。备用实例：https://rsshub.app / https://rsshub.rssforever.com / https://rsshub.feeded.xyz / https://hub.slarker.me 。enabled=false 的条目会被 fetch_news.py 跳过。",
-  "version": 1,
+  "_comment": "新闻源配置。优先使用各媒体官方 RSS（不依赖 RSSHub 公共实例，因其常被 Cloudflare 拦截）。GitHub Actions runner 在美国，国内源可能偶发超时，fetch_news.py 会自动跳过失败源。enabled=false 的条目会被跳过。",
+  "version": 2,
   "sources": [
     {
-      "name": "新华网",
-      "url": "https://rsshub.app/xinhuanet/whxw",
+      "name": "Hacker News",
+      "url": "https://hnrss.org/frontpage",
       "enabled": true,
-      "note": "新华社·最新播报（RSSHub 主实例路由）"
+      "note": "Hacker News 首页热帖（国际科技社区，稳定）"
     },
     {
-      "name": "人民网",
-      "url": "https://rsshub.app/people/paper/rmrb",
+      "name": "Solidot",
+      "url": "https://www.solidot.org/index.rss",
       "enabled": true,
-      "note": "人民日报·当日头版（RSSHub 主实例路由）"
+      "note": "Solidot 奇客资讯（国内科技新闻）"
     },
     {
-      "name": "央视新闻",
-      "url": "https://rsshub.app/cctv/news",
+      "name": "少数派",
+      "url": "https://sspai.com/feed",
       "enabled": true,
-      "note": "央视新闻·要闻（RSSHub 主实例路由）"
+      "note": "少数派 sspai（数字消费与效率工具）"
     },
     {
-      "name": "澎湃新闻",
-      "url": "https://rsshub.rssforever.com/thepaper/featured",
+      "name": "36氪",
+      "url": "https://36kr.com/feed",
       "enabled": true,
-      "note": "澎湃·精选，使用备用实例以降低单实例故障影响"
+      "note": "36氪（商业科技）"
     },
     {
-      "name": "中新网",
-      "url": "https://rsshub.feeded.xyz/chinanews/society",
+      "name": "InfoQ中文",
+      "url": "https://www.infoq.cn/feed",
       "enabled": true,
-      "note": "中新网·社会新闻，使用备用实例做冗余"
+      "note": "InfoQ 中文站（软件开发技术）"
     },
     {
-      "name": "新华网体育",
-      "url": "https://rsshub.app/xinhuanet/sports",
-      "enabled": false,
-      "note": "示例：如需扩展频道，把 enabled 改为 true 即可；不启用不会消耗抓取时间"
+      "name": "IT之家",
+      "url": "https://www.ithome.com/rss/",
+      "enabled": true,
+      "note": "IT之家（IT 数码资讯）"
+    },
+    {
+      "name": "cnBeta",
+      "url": "https://www.cnbeta.com.tw/backend.php",
+      "enabled": true,
+      "note": "cnBeta（科技资讯）"
+    },
+    {
+      "name": "TechCrunch",
+      "url": "https://techcrunch.com/feed/",
+      "enabled": true,
+      "note": "TechCrunch（国际科技创投）"
     }
   ]
 }
