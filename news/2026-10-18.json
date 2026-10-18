@@ -1,7 +1,7 @@
 {
  "date": "2026-10-18",
- "generated_at": 1792358328.1456127,
- "count": 189,
+ "generated_at": 1792360045.6883953,
+ "count": 191,
  "items": [
   {
    "id": "7916efc70c01f0f2",
@@ -1534,6 +1534,15 @@
    "published_bj": "2026-10-18 09:52"
   },
   {
+   "id": "4128f88070c955b7",
+   "source": "Hacker News",
+   "title": "Dogs seem to agree with humans that 'bouba' is round and 'kiki' is spiky",
+   "url": "https://www.sciencealert.com/dogs-seem-to-agree-with-humans-that-bouba-is-round-and-kiki-is-spiky",
+   "summary": "Article URL: https://www.sciencealert.com/dogs-seem-to-agree-with-humans-that-bouba-is-round-and-kiki-is-spiky Comments URL: https://news.ycombinator.com/item?id=50136979 Points: 56 # Comments: 38",
+   "published_at": 1792287488.0,
+   "published_bj": "2026-10-18 09:38"
+  },
+  {
    "id": "e732b4b59dee9bcc",
    "source": "Hacker News",
    "title": "NY announces game ownership bill requiring ownership rather than licensing",
@@ -1541,6 +1550,15 @@
    "summary": "Article URL: https://www.tomshardware.com/video-games/new-york-rep-announces-game-ownership-bill-that-would-require-consumer-ownership-rather-than-sale-of-licenses-would-also-require-publishers-to-keep-the-game-functional-after-support-ends Comments URL: https://news.ycombinator.com/item?id=50136536",
    "published_at": 1792282462.0,
    "published_bj": "2026-10-18 08:14"
+  },
+  {
+   "id": "30897653657349d6",
+   "source": "Hacker News",
+   "title": "There's never been a better time to go into math (by: 3blue1brown) [video]",
+   "url": "https://www.youtube.com/watch?v=LKrwhjOI8Nc",
+   "summary": "Article URL: https://www.youtube.com/watch?v=LKrwhjOI8Nc Comments URL: https://news.ycombinator.com/item?id=50136150 Points: 34 # Comments: 1",
+   "published_at": 1792279595.0,
+   "published_bj": "2026-10-18 07:26"
   },
   {
    "id": "4f9811479e25fbf3",

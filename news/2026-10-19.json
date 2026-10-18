@@ -1,7 +1,7 @@
 {
  "date": "2026-10-19",
- "generated_at": 1792358328.143675,
- "count": 28,
+ "generated_at": 1792360045.686714,
+ "count": 29,
  "items": [
   {
    "id": "4334785631dc2b28",
@@ -38,6 +38,15 @@
    "summary": "Article URL: https://arxiv.org/abs/2610.18861 Comments URL: https://news.ycombinator.com/item?id=50145337 Points: 13 # Comments: 0",
    "published_at": 1792356494.0,
    "published_bj": "2026-10-19 04:48"
+  },
+  {
+   "id": "72346bee4bc56cf6",
+   "source": "Hacker News",
+   "title": "Netflix vmaf: Perceptual video quality assessment based on multi-method fusion",
+   "url": "https://github.com/Netflix/vmaf",
+   "summary": "Article URL: https://github.com/Netflix/vmaf Comments URL: https://news.ycombinator.com/item?id=50145295 Points: 5 # Comments: 2",
+   "published_at": 1792356220.0,
+   "published_bj": "2026-10-19 04:43"
   },
   {
    "id": "b84c65ba6cfab9f7",
