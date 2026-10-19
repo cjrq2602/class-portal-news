@@ -1,7 +1,7 @@
 {
  "date": "2026-10-19",
- "generated_at": 1792422108.056819,
- "count": 373,
+ "generated_at": 1792425150.4030302,
+ "count": 381,
  "items": [
   {
    "id": "7448bf17403e66e6",
@@ -11,6 +11,69 @@
    "summary": "点击查看原文>",
    "published_at": 1792424520.0,
    "published_bj": "2026-10-19 23:42"
+  },
+  {
+   "id": "e206f1055a5fd1eb",
+   "source": "TechCrunch",
+   "title": "Nvidia launches new open models to run agents in the enterprise and on PCs",
+   "url": "https://techcrunch.com/2026/10/19/nvidia-launches-new-open-models-to-run-agents-in-the-enterprise-and-on-pcs/",
+   "summary": "Nvidia is leaning hard into the trend of enterprise companies wanting to run their own open models in their own data centers and also trying to make on-device, private AI agents a thing.",
+   "published_at": 1792424229.0,
+   "published_bj": "2026-10-19 23:37"
+  },
+  {
+   "id": "f0dbde3b786b7b5d",
+   "source": "Hacker News",
+   "title": "Kevin Bacon's missing clothes finally delivered in Ireland",
+   "url": "https://www.rte.ie/entertainment/2026/1019/1595980-kevin-bacon/",
+   "summary": "Article URL: https://www.rte.ie/entertainment/2026/1019/1595980-kevin-bacon/ Comments URL: https://news.ycombinator.com/item?id=50153598 Points: 7 # Comments: 2",
+   "published_at": 1792423483.0,
+   "published_bj": "2026-10-19 23:24"
+  },
+  {
+   "id": "2632da127d142f92",
+   "source": "IT之家",
+   "title": "影石预热全新麦克风，10 月 22 日登场",
+   "url": "https://www.ithome.com/1/015/053.htm",
+   "summary": "IT之家 10 月 19 日消息，影石官方今天预热一款麦克风新品，10 月 22 日即将登场，宣传词为“创作，大有空间”，目前已在京东开启预约。 京东 影石 麦克风新品 待公布 立即预约 从官方发布的预热图片来看，这款麦克风延续了 Mic Pro 的正面墨水屏设计， 很有可能支持 microSD 存储卡 ，但官方并没有给出更明确的信息。 截至目前，影石还没有公布这款产品的具体配置，感兴趣的小伙伴们可以关注IT之家后续报道。 京东 11.11 无门槛红包 面额至高 26888 元，每天抽 3 次： 点此抽红包 。 淘宝 11.11 无门槛红包 面额至高 26888 元，每天抽 1 次： 点此抽红",
+   "published_at": 1792423306.0,
+   "published_bj": "2026-10-19 23:21"
+  },
+  {
+   "id": "ab0060d2a5196622",
+   "source": "IT之家",
+   "title": "微软用 Mac 制作 Windows Insider 12 周年纪念壁纸，引发网友讨论",
+   "url": "https://www.ithome.com/1/015/052.htm",
+   "summary": "IT之家 10 月 19 日消息，微软官方最近发布了一组全新壁纸，庆祝 Windows Insider 预览体验计划成立 12 周年。然而眼尖的网友很快发现， 这些壁纸并不是使用 Windows 设备完成的 ， 而是出自一台 Mac 。 从图片属性我们能看出，这组图片使用了 Mac 版 Adobe Photoshop 创作。工程师 Rafael Rivera 指出，这些图片是由微软内部团队制作。就算这些图片确实出自外包公司之手，微软也难免有些尴尬。毕竟这意味着，即使是吃微软饭的创意人士，也更愿意用苹果产品。 不过，微软内部有人用 Mac 并不是什么大事。但这件事发生的时间点确实有些尴尬，微软正",
+   "published_at": 1792422943.0,
+   "published_bj": "2026-10-19 23:15"
+  },
+  {
+   "id": "86376cf9ad728f95",
+   "source": "IT之家",
+   "title": "圆通回应“客户取消快递订单被记为投诉”事件：向客户道歉，不存在“咨询即处罚”“进线算投诉”情况",
+   "url": "https://www.ithome.com/1/015/051.htm",
+   "summary": "IT之家 10 月 19 日消息，今晚，圆通速递就“客户取消快递订单被记为投诉”事件致歉。 公告称，18 日晚，有媒体报道圆通一加盟网点“客户致电取消订单被登记为投诉？快递员上门称被罚款，孕妇受惊吓进医院”，并引发网络关注。圆通总部高度重视，第一时间进行调查核实。公司因此事对客户带来的身心不利影响真诚致歉。 据悉，涉事加盟网点为浙江杭州市余杭区仁和网点，其在接到客户撤销寄件需求后，向当事快递员传导了错误信息， 导致快递员误认为自己面临罚款 ，并在随后与客户沟通时情绪过激、言语不当。圆通表示将全力配合客户妥善处理后续相关事宜。 IT之家附圆通速递原文如下： 圆通回应“客户取消快递订单被记为投诉”",
+   "published_at": 1792422866.0,
+   "published_bj": "2026-10-19 23:14"
+  },
+  {
+   "id": "8e8db8e331655c80",
+   "source": "IT之家",
+   "title": "四个谷歌 Gemini 4 Argon 智能体成功击败末影龙通关《我的世界》，耗时 27 小时",
+   "url": "https://www.ithome.com/1/015/048.htm",
+   "summary": "IT之家 10 月 19 日消息，谷歌研究人员近日发布论文称，他们使用四个 Gemini 4 Argon 智能体成功通关《我的世界》，仅用 27 小时就成功击败末影龙。 谷歌将 4 个 Gemini 4 放入随机生成的世界中，他们可以通过游戏内的聊天框互相协调。但研究人员没有为他们制定任何策略，只是说了最终目标，所有行为都由智能体自行规划。研究人员可通过仪表板观察他们，下达暂停 / 终止测试指令，但没有权利介入。 游戏开始后，这些智能体很快分担了不同任务：有的建造末影人农场；有的收集食物；有的专注于探索。它们会分享战斗技巧，并在队友死亡后寻回丢失的装备。 整个游戏过程中，4 个智能体发送了 2",
+   "published_at": 1792422209.0,
+   "published_bj": "2026-10-19 23:03"
+  },
+  {
+   "id": "38e5ccc008768203",
+   "source": "cnBeta",
+   "title": "红米手机竟然刷上了iOS Redmi Note 12成功启动iOS 16项目已开源",
+   "url": "https://www.cnbeta.com.tw/articles/tech/1582944.htm",
+   "summary": "海外开发者 Makr（@makrotasuss）展示了一项相当特别的系统移植成果：成功让 Redmi Note 12 4G 启动 iOS 16，并公开了相关项目代码。 阅读全文",
+   "published_at": 1792422158.0,
+   "published_bj": "2026-10-19 23:02"
   },
   {
    "id": "157d40ba9ce745e6",
@@ -164,6 +227,15 @@
    "summary": "点击查看原文>",
    "published_at": 1792418400.0,
    "published_bj": "2026-10-19 22:00"
+  },
+  {
+   "id": "2f95745e9dc03cc5",
+   "source": "Solidot",
+   "title": "ESA Hera 探测器准备飞越 DART 撞击的小行星",
+   "url": "https://www.solidot.org/story?sid=85652",
+   "summary": "ESA Hera 探测器将在一个月后书写历史，它即将与执行首次行星防御测试的两颗小行星交会。NASA 执行双小行星重定向测试（Double Asteroid Redirection Test ，DART）任务的探测器于 2022 年 9 月撞击了 Didymos-Dimorphos 双小行星之一的 Dimorphos。Didymos 是双小行星系统中的主体，直径约 780 米，Dimorphos 直径约 151 米。DART 的撞击使得 Dimorphos 的轨道周期缩短了约 32 分钟。Hera 探测器于 2024 年 10 月 7 日发射，其任务之一是近距离观察这次撞击成果。Hera 携带",
+   "published_at": 1792418349.0,
+   "published_bj": "2026-10-19 21:59"
   },
   {
    "id": "944c8301459e7059",
