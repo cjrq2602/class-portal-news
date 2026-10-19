@@ -1,7 +1,7 @@
 {
  "date": "2026-10-20",
- "generated_at": 1792434400.757597,
- "count": 19,
+ "generated_at": 1792437341.227613,
+ "count": 28,
  "items": [
   {
    "id": "798f6b581f154f0c",
@@ -22,6 +22,78 @@
    "published_bj": "2026-10-20 04:33"
   },
   {
+   "id": "4a3a18b8ea8895c1",
+   "source": "TechCrunch",
+   "title": "Tolan snags $30M for its AI companion that helps users navigate life",
+   "url": "https://techcrunch.com/2026/10/19/tolan-snags-30m-for-its-ai-companion-that-helps-users-navigate-life/",
+   "summary": "AI companion app Tolan has raised another $30 million after attracting more than 250,000 active users.",
+   "published_at": 1792436412.0,
+   "published_bj": "2026-10-20 03:00"
+  },
+  {
+   "id": "69460f9d8d3bbc97",
+   "source": "Hacker News",
+   "title": "Towards Company World Models",
+   "url": "https://www.beaconholdings.com/research/towards-company-world-models",
+   "summary": "Article URL: https://www.beaconholdings.com/research/towards-company-world-models Comments URL: https://news.ycombinator.com/item?id=50156332 Points: 3 # Comments: 0",
+   "published_at": 1792435869.0,
+   "published_bj": "2026-10-20 02:51"
+  },
+  {
+   "id": "23ea1775324fd8b6",
+   "source": "TechCrunch",
+   "title": "Replika’s founder built the AI assistant she pitched at Disrupt 12 years ago",
+   "url": "https://techcrunch.com/2026/10/19/replikas-founder-built-the-ai-assistant-she-pitched-at-disrupt-12-years-ago/",
+   "summary": "Eugenia Kuyda's newest startup Wabi is positioned to take advantage of an idea she had more than a decade ago. Wabi offers a personal AI assistant with a twist, free and downloadable to anyone today.",
+   "published_at": 1792435744.0,
+   "published_bj": "2026-10-20 02:49"
+  },
+  {
+   "id": "9132f38d30233abc",
+   "source": "TechCrunch",
+   "title": "Tenstorrent hits $6.2B valuation to scale open-weight AI chips",
+   "url": "https://techcrunch.com/2026/10/19/tenstorrent-hits-6-2b-valuation-to-scale-open-weight-ai-chips/",
+   "summary": "After drawing acquisition interest earlier this year, the Nvidia challenger raised $1.5 billion to remain independent.",
+   "published_at": 1792435047.0,
+   "published_bj": "2026-10-20 02:37"
+  },
+  {
+   "id": "79797348ae283997",
+   "source": "IT之家",
+   "title": "苹果 watchOS 27.2 RC 发布",
+   "url": "https://www.ithome.com/1/015/065.htm",
+   "summary": "【 点此直达升级教程 】 IT之家 10 月 20 日消息，苹果今日向 Apple Watch 用户推送了 watchOS 27.2 RC 更新（内部版本号：24S116），本次更新距离上次发布 Beta/RC 间隔 6 天。 如何升级 iOS / iPadOS / watchOS / macOS 开发版和公测版？ • 公开测试版 ：需注册&nbsp; Apple Beta 版软件计划 ，之后通过【设置】【通用】【软件更新】【Beta 版更新】来升级； • 开发预览版 ：需登录注册 苹果开发者计划 ，之后通过【设置】【通用】【软件更新】来升级。 附苹果 iOS 历史固件下载大全： 《 苹果 i",
+   "published_at": 1792434906.0,
+   "published_bj": "2026-10-20 02:35"
+  },
+  {
+   "id": "8920ff2d64c1e663",
+   "source": "IT之家",
+   "title": "苹果 visionOS 27.2 RC 发布",
+   "url": "https://www.ithome.com/1/015/064.htm",
+   "summary": "IT之家 10 月 20 日消息，苹果今日向 Vision Pro 用户推送了 visionOS 27.2 RC 更新（内部版本号：24N118），本次更新距离上次发布 Beta/RC 间隔 6 天。 需要注意的是，因苹果各区域节点服务器配置缓存问题，可能有些地方探测到升级更新的时间略有延迟，一般半小时内，不会太久。 本文由机器人发布，IT之家稍后将为大家带来具体更新内容。 附 visionOS 27 发布历史： 2026-10-14：visionOS 27.2 Beta 4 (24N5114a) 2026-10-06：visionOS 27.2 Beta 3 (24N5103f) 2026-",
+   "published_at": 1792434905.0,
+   "published_bj": "2026-10-20 02:35"
+  },
+  {
+   "id": "64092f9b1e94a659",
+   "source": "IT之家",
+   "title": "苹果 macOS 27.2 RC 发布",
+   "url": "https://www.ithome.com/1/015/063.htm",
+   "summary": "IT之家 10 月 20 日消息，苹果今日向 Mac 电脑用户推送了 macOS 27.2 RC 更新（内部版本号：26B118），本次更新距离上次发布 Beta/RC 间隔 6 天。 如何升级 iOS / iPadOS / watchOS / macOS 开发版和公测版？ • 公开测试版 ：需注册&nbsp; Apple Beta 版软件计划 ，之后通过【设置】【通用】【软件更新】【Beta 版更新】来升级； • 开发预览版 ：需登录注册 苹果开发者计划 ，之后通过【设置】【通用】【软件更新】来升级。 附苹果 iOS 历史固件下载大全： 《 苹果 iOS / iPadOS / macOS 固",
+   "published_at": 1792434905.0,
+   "published_bj": "2026-10-20 02:35"
+  },
+  {
+   "id": "1d96c11419149b0e",
+   "source": "IT之家",
+   "title": "苹果 iOS/iPadOS 27.2 RC 发布",
+   "url": "https://www.ithome.com/1/015/062.htm",
+   "summary": "【 点此直达升级教程 】 IT之家 10 月 20 日消息，苹果今日向 iPhone 和 iPad 用户推送了 iOS/iPadOS 27.2 RC 更新（内部版本号：24B115），本次更新距离上次发布 Beta/RC 间隔 6 天。 如何升级 iOS / iPadOS / watchOS / macOS 开发版和公测版？ • 公开测试版 ：需注册&nbsp; Apple Beta 版软件计划 ，之后通过【设置】【通用】【软件更新】【Beta 版更新】来升级； • 开发预览版 ：需登录注册 苹果开发者计划 ，之后通过【设置】【通用】【软件更新】来升级。 附苹果 iOS 历史固件下载大全： 《",
+   "published_at": 1792434904.0,
+   "published_bj": "2026-10-20 02:35"
+  },
+  {
    "id": "5cad84c9e2465ad1",
    "source": "InfoQ中文",
    "title": "谷歌开源Harness，支持 OpenCode 和 Codex：国内开发者接入Jev实测“真行”",
@@ -38,6 +110,15 @@
    "summary": "AI assistant startup Town nabbed a unicorn valuation on Monday, announcing a $108 million Series B round co-led by Forerunner Ventures and Menlo Ventures.",
    "published_at": 1792432839.0,
    "published_bj": "2026-10-20 02:00"
+  },
+  {
+   "id": "1d741635ce2022aa",
+   "source": "Hacker News",
+   "title": "Show HN: Open-source early-reading reader with phonics help",
+   "url": "https://github.com/finereli/yarareads",
+   "summary": "My kid is 6 y/o and she is learning to read. She's moved through the basic phonics with Teach Your Monster to Read but was struggling with how repetitive it was. I wanted to give her some stories to read, but she still needed help sounding words out - and I wanted her to have the experience of sitti",
+   "published_at": 1792432734.0,
+   "published_bj": "2026-10-20 01:58"
   },
   {
    "id": "0da85365fa352d32",

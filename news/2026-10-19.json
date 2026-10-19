@@ -1,7 +1,7 @@
 {
  "date": "2026-10-19",
- "generated_at": 1792434400.7612228,
- "count": 389,
+ "generated_at": 1792437341.2317636,
+ "count": 392,
  "items": [
   {
    "id": "fe8fbd24745e89cc",
@@ -292,6 +292,15 @@
    "published_bj": "2026-10-19 21:53"
   },
   {
+   "id": "c64ba0a92ffab630",
+   "source": "Hacker News",
+   "title": "Maxwell: A new kind of model that sits between code and hardware",
+   "url": "https://heymaxwell.ai/",
+   "summary": "Hi HN, I'm Gal from doubleAI. We've built Maxwell, a new kind of frontier model we call a Code Execution Model. It sits between your code and the hardware. No humans in the loop! Maxwell makes the code run faster as it runs, without ever changing a single line. Maxwell sees programs from the inside:",
+   "published_at": 1792417676.0,
+   "published_bj": "2026-10-19 21:47"
+  },
+  {
    "id": "449c9ce43b165e40",
    "source": "IT之家",
    "title": "智己推出至高 2 万现金限时优惠，LS8 NEO 纯电将 10 月上市",
@@ -325,6 +334,15 @@
    "url": "https://marc.info/?l=openbsd-ports&m=179236125692175",
    "summary": "Article URL: https://marc.info/?l=openbsd-ports&m=179236125692175 Comments URL: https://news.ycombinator.com/item?id=50152307 Points: 64 # Comments: 5",
    "published_at": 1792416934.0,
+   "published_bj": "2026-10-19 21:35"
+  },
+  {
+   "id": "e858c847af307f10",
+   "source": "Hacker News",
+   "title": "Cairn: Open windows into AI-driven cyber operations",
+   "url": "https://norforge.com/blog/inside_cairn",
+   "summary": "https://www.reuters.com/legal/government/how-one-hacker-used... https://www.theverge.com/ai-artificial-intelligence/1013643/... Comments URL: https://news.ycombinator.com/item?id=50152302 Points: 12 # Comments: 4",
+   "published_at": 1792416912.0,
    "published_bj": "2026-10-19 21:35"
   },
   {
@@ -650,6 +668,15 @@
    "summary": "IT之家 10 月 19 日消息，国务院新闻办公室今日举行新闻发布会，介绍加快推进科技兴商有关情况，并答记者问。 会上介绍，具身智能是人工智能从“数字世界”走进“物理世界”的关键载体，正在成为培育新质生产力的重要抓手。工业和信息化部推动以人形机器人为代表的具身智能产业实现三个“加速”。 一是规模体量加速壮大。今年上半年，我国人形机器人整机产品突破 400 款，产量超 4 万台 ，预计全年将突破 10 万台 。 二是创新能力加速跃升，工信部集聚产学研优势力量，攻关人形机器人和具身智能运动控制、仿真模拟、触觉传感等一批关键技术，带动产品性能不断跃升。 三是产业应用加速落地。工信部实施人形机器人与具",
    "published_at": 1792409124.0,
    "published_bj": "2026-10-19 19:25"
+  },
+  {
+   "id": "6fd6233a658fd7d1",
+   "source": "Hacker News",
+   "title": "Ask HN: How to deal with shipping AI-written code you don't understand?",
+   "url": "https://news.ycombinator.com/item?id=50151036",
+   "summary": "I saw this LinkedIn post from a Meta engineer and it resonated with me: https://www.linkedin.com/posts/ali-hamie_im-an-engineer-at-m... > I'm an engineer at Meta and I never felt this uncomfortable doing my job. I'm writing code these days and it all feels like a black box. This new standard of ship",
+   "published_at": 1792409074.0,
+   "published_bj": "2026-10-19 19:24"
   },
   {
    "id": "6e13f340b1a468a9",
