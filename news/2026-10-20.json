@@ -1,8 +1,17 @@
 {
  "date": "2026-10-20",
- "generated_at": 1792416217.46097,
- "count": 3,
+ "generated_at": 1792419623.372086,
+ "count": 4,
  "items": [
+  {
+   "id": "798f6b581f154f0c",
+   "source": "InfoQ中文",
+   "title": "大批API账户被刷爆！OpenCode遭黑客围攻48小时，官方甩锅“蒸馏攻击”被质疑",
+   "url": "https://www.infoq.cn/article/K5J7yb60djWKM6vUZqwq?utm_source=rss&utm_medium=article",
+   "summary": "点击查看原文>",
+   "published_at": 1792446491.0,
+   "published_bj": "2026-10-20 05:48"
+  },
   {
    "id": "c39ed7d86ed5717b",
    "source": "InfoQ中文",

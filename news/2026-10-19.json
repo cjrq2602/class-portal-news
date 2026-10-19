@@ -1,7 +1,7 @@
 {
  "date": "2026-10-19",
- "generated_at": 1792416217.4638128,
- "count": 348,
+ "generated_at": 1792419623.3752565,
+ "count": 358,
  "items": [
   {
    "id": "7448bf17403e66e6",
@@ -22,6 +22,24 @@
    "published_bj": "2026-10-19 22:38"
   },
   {
+   "id": "47761c5c3d3ab8b9",
+   "source": "IT之家",
+   "title": "流媒体平台 Spotify 严厉打击家庭套餐共享，要求当面扫码验证",
+   "url": "https://www.ithome.com/1/015/040.htm",
+   "summary": "IT之家 10 月 19 日消息，据科技媒体 Android Authority 今天报道，流媒体平台 Spotify 正严查家庭套餐共享行为，部分用户已经开始无法使用。 IT之家从原报道获悉，部分家庭共享用户已经收到了重新验证住址提示。从官方口径来看，此次验证似乎需要当面完成：家庭成员需要扫描管理员手机上的二维码，确保双方住在同一个地方。 并且，这个二维码每隔几秒钟就会刷新，因此不能截图分享。不过一些用户表示， 他们通过屏幕共享 ， 就轻松绕过了这种机制 。 Spotify 官方表示，用户收到通知后有 7 天时间完成重新验证。 如果不理会通知或未完成验证 ， 家庭订阅将自动降级至免费套餐 ，",
+   "published_at": 1792419380.0,
+   "published_bj": "2026-10-19 22:16"
+  },
+  {
+   "id": "91a8adc8dba8e831",
+   "source": "IT之家",
+   "title": "英特尔 CEO 陈立武称中国芯片制造“目前并未落后太多”",
+   "url": "https://www.ithome.com/1/015/039.htm",
+   "summary": "IT之家 10 月 19 日消息，英特尔 CEO 陈立武近日接受《日经亚洲》采访时表示，在芯片制造技术方面，中国与美国的差距并不大。 中美芯片制造技术领域的差距，一直是科技业界的热门话题。埃隆 · 马斯克（IT之家注：Elon Musk）曾认为，中国最快只需要两到三年就能突破现有限制。而蔡司半导体业务负责人认为，在最新的 EUV 技术方面，中国落后 15 年是比较合理的预计。 陈立武则表示，中国企业和美企都有不同的优势和劣势，满足客户需求是英特尔的首要任务。谁能造出最满足企业、普通客户的产品，谁就能取得成功。 当主持人问陈立武：“中国能否在未来 5-10 年追赶上美国先进芯片技术”时， 他回答",
+   "published_at": 1792418440.0,
+   "published_bj": "2026-10-19 22:00"
+  },
+  {
    "id": "bdf0beada24c17b7",
    "source": "InfoQ中文",
    "title": "随着可观测性模式日趋成熟，OpenTelemetry 将 Kubernetes Attribute Processor 提升为稳定版本",
@@ -29,6 +47,69 @@
    "summary": "点击查看原文>",
    "published_at": 1792418400.0,
    "published_bj": "2026-10-19 22:00"
+  },
+  {
+   "id": "944c8301459e7059",
+   "source": "IT之家",
+   "title": "商务部：今年 1-9 月，重点平台智能眼镜销售额增长 1.1 倍",
+   "url": "https://www.ithome.com/1/015/038.htm",
+   "summary": "IT之家 10 月 19 日消息，国新办今日举行新闻发布会，介绍加快推进科技兴商有关情况。 商务部部长助理袁晓明介绍，本次《关于加快推进科技兴商的意见》（IT之家注：以下简称《意见》）是立足新发展阶段，首次以“科技兴商”为主题，出台的一份综合性、系统性文件。核心是把科技创新作为贯穿商贸全链条的重要驱动力，推动科技与商贸深度融合。政策的主要特点，可以用三个字来概括：“新”“全”“实”。 “新”，就是突出科技创新，适应消费新趋势新变化。随着人民生活水平提升，消费者更加注重产品的品质和消费体验。根据商务部商务大数据显示， 今年 1-9 月，重点平台智能眼镜销售额增长 1.1 倍 。人工智能、物联网、",
+   "published_at": 1792418257.0,
+   "published_bj": "2026-10-19 21:57"
+  },
+  {
+   "id": "449c9ce43b165e40",
+   "source": "IT之家",
+   "title": "智己推出至高 2 万现金限时优惠，LS8 NEO 纯电将 10 月上市",
+   "url": "https://www.ithome.com/1/015/024.htm",
+   "summary": "IT之家 10 月 19 日消息，智己汽车今日启动“双十一钜惠提前享”限时购车活动，针对旗下 LS6、LS8、LS9 三款车型推出现金减免、权益礼包、金融方案等多重福利，具体如下： 本次活动涵盖智己 LS6、智己 LS8、智己 LS9 超级增程指定现车， 包含 1-2 万元的现金优惠 ，同步叠加增程无忧、智驾无忧、电池无忧、0 首付 0 息等多重权益，活动时间从即日起至 10 月 31 日，并可叠加国家及地区相关购车补贴以及享受 0 首付 0 息金融方案、专属权益等。 据汽车之家报道，智己汽车 9 月销量 11107 台，环比增长 81.8%。同时，其旗下中大型 SUV—— 智己 LS8 NE",
+   "published_at": 1792417381.0,
+   "published_bj": "2026-10-19 21:43"
+  },
+  {
+   "id": "f389835804026534",
+   "source": "IT之家",
+   "title": "古尔曼：苹果正研发室内摄像头，依靠 AI 分析环境",
+   "url": "https://www.ithome.com/1/015/023.htm",
+   "summary": "IT之家 10 月 19 日消息，彭博社记者马克 · 古尔曼在最新一期《Power On》通讯中提到，苹果正在研发一款室内摄像头，内部代号 J450， 可利用 AI 分析周围环境 。 IT之家了解到，这款摄像头拥有低帧率传感器和红外传感器，支持人脸识别等技术，以识别人员或宠物。用户将收到周围环境的文字描述，而非视频画面。 该产品的核心设计理念似乎与隐私保护有关 ，无法录制家里的私密场景。 古尔曼认为，这款摄像头预计将在明年某个时候推出。同时，该产品并不属于 10 月 13 日公布的 Home Collection 系列配件。 此外，苹果可能还会观察 Home Collection 系列产品的销",
+   "published_at": 1792417191.0,
+   "published_bj": "2026-10-19 21:39"
+  },
+  {
+   "id": "63930629b9e5148e",
+   "source": "IT之家",
+   "title": "腾龙上架 16-50mm F2.8 A 相机镜头：首发提供索尼 E 卡口 / 佳能 RF 卡口版本，2749 元起",
+   "url": "https://www.ithome.com/1/015/021.htm",
+   "summary": "IT之家 10 月 19 日消息，腾龙现已在京东上架 16-50mm F2.8 A 镜头，其中索尼 E 卡口和佳能 RF 卡口版本将于 10 月 29 日率先发售， 前者定价 2999 元，后者定价 2749 元 。 京东 腾龙 &nbsp;16-50mm F2.8 A 大光圈微单镜头 2749 元起 直达链接 该镜头具备防滴构造与抗污涂层，内部采用 10 组 14 片光学结构。全焦段恒定 F2.8 光圈，配有 7 片圆形光圈叶片，最小光圈 F16，搭载 VXD 线性马达对焦系统，兼顾静态影像与视频拍摄。 该镜头广角端最近对焦距离 0.15m，最大摄影倍率 1:4.5。望远端最近对焦距离 0.",
+   "published_at": 1792416679.0,
+   "published_bj": "2026-10-19 21:31"
+  },
+  {
+   "id": "584ec9eb4c0b1fa4",
+   "source": "Hacker News",
+   "title": "Stripe will acquire OpenRouter for $7.5B",
+   "url": "https://startupfortune.com/stripe-will-pay-75-billion-for-openrouter-the-ai-model-traffic-cop/",
+   "summary": "Article URL: https://startupfortune.com/stripe-will-pay-75-billion-for-openrouter-the-ai-model-traffic-cop/ Comments URL: https://news.ycombinator.com/item?id=50152207 Points: 45 # Comments: 7",
+   "published_at": 1792416469.0,
+   "published_bj": "2026-10-19 21:27"
+  },
+  {
+   "id": "47c98bcf7db34327",
+   "source": "IT之家",
+   "title": "七彩虹 iGame X870E ULTRA-S V14 DDR5 主板上架，1899 元",
+   "url": "https://www.ithome.com/1/015/020.htm",
+   "summary": "IT之家 10 月 19 日消息，七彩虹 iGame X870E ULTRA-S V14 DDR5 主板现已在京东上架。新品采用 16+2+1 相供电，配备 5 个 M.2 硬盘接口，支持异步超频， 售价 1899 元 。 IT之家了解到， 这款主板采用 16+2+1 相高规格供电 ，搭配旗舰 80A 规格 DrMos、 F.C.C 铁素体电感、10K 黑金固态电容。配备 4 条合金加固超频优化 DDR5 内存插槽，支持 XMP/EXPO 一键超频技术。正面带有一体成型散热装甲，为 M.2 SSD 提供充足散热。 此外，这款主板配备 5 个 M.2 接口，拥有显卡快拆结构，还带有 80 Deb",
+   "published_at": 1792416440.0,
+   "published_bj": "2026-10-19 21:27"
+  },
+  {
+   "id": "06815ad0c8e2b298",
+   "source": "Solidot",
+   "title": "Wine 移植到 OpenBSD",
+   "url": "https://www.solidot.org/story?sid=85651",
+   "summary": "旨在让类 Unix操作系统如 Linux 能运行 Windows 应用的 Wine 项目移植支持 OpenBSD 操作系统。测试显示能正常运行大部分 64 位 Windows 应用，甚至包括最近才发布的《Witcher 3》的重制版本（需要 vkd3d-proton）。但由于支持 32 位甚至 16 位应用的 WoW64 模式不能正常工作，意味着 Wine 还无法在 OpenBSD 上运行 32 位应用。",
+   "published_at": 1792416327.0,
+   "published_bj": "2026-10-19 21:25"
   },
   {
    "id": "5098a227b400c716",
@@ -254,6 +335,15 @@
    "summary": "IT之家 10 月 19 日消息，据游戏媒体 Insider Gaming 今天报道，《沙丘：觉醒》游戏开发商 Funcom 即将开启新一轮重组，准备裁员。 IT之家从原报道了解到，Funcom 工作室 CEO Rui Casais 将在未来离开公司。Scott Junior 将接替他的职位。本次重组的原因在于公司认为《沙丘：觉醒》主要开发工作已结束，因此无法维持开发高峰期所需的人员规模和组织架构。 同时，Funcom 工作室将迎来一段重组期，并缩减组织规模。公司将为所有受影响的员工提供支持，以尊重和透明态度对待每一位同事。 此外，Funcom 仍致力于继续维护《沙丘：觉醒》和《流放者柯南》游",
    "published_at": 1792409350.0,
    "published_bj": "2026-10-19 19:29"
+  },
+  {
+   "id": "4c172213e55cea5a",
+   "source": "Hacker News",
+   "title": "Harness2 by Google Research – Recursive Agent Harnessing",
+   "url": "https://github.com/google-research/harness2",
+   "summary": "Article URL: https://github.com/google-research/harness2 Comments URL: https://news.ycombinator.com/item?id=50151059 Points: 25 # Comments: 1",
+   "published_at": 1792409325.0,
+   "published_bj": "2026-10-19 19:28"
   },
   {
    "id": "7e4f3cbba118726f",
