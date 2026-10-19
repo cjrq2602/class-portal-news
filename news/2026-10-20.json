@@ -1,8 +1,17 @@
 {
  "date": "2026-10-20",
- "generated_at": 1792405872.9078,
- "count": 1,
+ "generated_at": 1792408159.605478,
+ "count": 2,
  "items": [
+  {
+   "id": "5cad84c9e2465ad1",
+   "source": "InfoQ中文",
+   "title": "谷歌开源Harness，支持 OpenCode 和 Codex：国内开发者接入Jev实测“真行”",
+   "url": "https://www.infoq.cn/article/AD1M3mJ2SH1dJrTA1r5q?utm_source=rss&utm_medium=article",
+   "summary": "点击查看原文>",
+   "published_at": 1792434125.0,
+   "published_bj": "2026-10-20 02:22"
+  },
   {
    "id": "5a2f971bc4b881e7",
    "source": "InfoQ中文",
