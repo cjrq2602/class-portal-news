@@ -1,7 +1,7 @@
 {
  "date": "2026-10-20",
- "generated_at": 1792427387.1236064,
- "count": 8,
+ "generated_at": 1792429760.7713037,
+ "count": 10,
  "items": [
   {
    "id": "798f6b581f154f0c",
@@ -38,6 +38,24 @@
    "summary": "点击查看原文>",
    "published_at": 1792430580.0,
    "published_bj": "2026-10-20 01:23"
+  },
+  {
+   "id": "ca28b7681104d30c",
+   "source": "TechCrunch",
+   "title": "Amazon to fund 12 small nuclear reactors at former Indiana coal plant",
+   "url": "https://techcrunch.com/2026/10/19/amazon-to-fund-12-small-nuclear-reactors-at-former-indiana-coal-plant/",
+   "summary": "Amazon and X-energy have inked another deal to deploy nuclear power to the grid. This one will generate nearly 1 gigawatt of electricity.",
+   "published_at": 1792428956.0,
+   "published_bj": "2026-10-20 00:55"
+  },
+  {
+   "id": "d7028b7bcd3fdd00",
+   "source": "Hacker News",
+   "title": "I no longer care to work on any Ruby gems so I've archived all my repositories",
+   "url": "https://po-ru.com/2026/10/18/why-im-no-longer-updating-this-repository",
+   "summary": "Article URL: https://po-ru.com/2026/10/18/why-im-no-longer-updating-this-repository Comments URL: https://news.ycombinator.com/item?id=50154518 Points: 77 # Comments: 23",
+   "published_at": 1792427830.0,
+   "published_bj": "2026-10-20 00:37"
   },
   {
    "id": "d252abf455421451",
