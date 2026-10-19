@@ -1,8 +1,53 @@
 {
  "date": "2026-10-20",
- "generated_at": 1792448639.9199426,
- "count": 35,
+ "generated_at": 1792451080.22536,
+ "count": 44,
  "items": [
+  {
+   "id": "fba0bee5446f4aff",
+   "source": "IT之家",
+   "title": "日本 MMX 火星卫星探测任务发射升空，将首次尝试登陆火卫一并采样返回",
+   "url": "https://www.ithome.com/1/015/068.htm",
+   "summary": "IT之家 10 月 20 日消息，日本具有开创性的火星探测任务正式启程，探测器将奔赴这颗红色星球两颗神秘卫星 —— 火卫一与火卫二，尝试完成具有历史意义的采样返回。 火星卫星探测任务（MMX）于北京时间今天凌晨在日本种子岛航天中心发射升空，H3 运载火箭从种子岛吉信发射场的 2 号发射台点火起飞。 由日本宇宙航空研究开发机构（JAXA）主导的 MMX 任务将进入火星轨道，对火星的两颗卫星火卫一和火卫二开展研究。如果一切按计划推进，MMX 将成为首枚登陆火卫一并把样本带回地球研究的探测器。科学家认为，这些样本有望解开持续数十年的卫星起源之谜，同时揭示早期太阳系形成的相关线索。 这是日本这款两级一",
+   "published_at": 1792450856.0,
+   "published_bj": "2026-10-20 07:00"
+  },
+  {
+   "id": "3aa816c60175d7ef",
+   "source": "TechCrunch",
+   "title": "Embedded AI evaluators won’t be an easy solution, Hugging Face’s policy chief says",
+   "url": "https://techcrunch.com/2026/10/19/embedded-ai-evaluators-wont-be-an-easy-solution-hugging-faces-policy-chief-says/",
+   "summary": "AI labs have staked their reputations on model benchmarking — the supposedly neutral and accurate system of evaluations that are designed to measure whether one AI product is better than another. However, the methods behind these evaluations are complicated and still maturing, said Irene Solaiman, H",
+   "published_at": 1792450167.0,
+   "published_bj": "2026-10-20 06:49"
+  },
+  {
+   "id": "b63f8e6aff461fca",
+   "source": "IT之家",
+   "title": "微软联合百思买回收 Xbox Series X|S 主机，最高可获 375 美元礼品卡",
+   "url": "https://www.ithome.com/1/015/067.htm",
+   "summary": "IT之家 10 月 20 日消息，尽管微软重申会继续推出 Xbox 主机，如今却在劝说游戏玩家出手手中的硬件。游戏资讯账号 Nintendeal 在社交平台分享了一封定向邮件，收件人为持有闲置 Xbox Series X|S 主机的用户。百思买会为回收的这些主机向用户提供最高 375 美元 （IT之家注：现汇率约合 2,510 元人民币） 的礼品卡。这项回收活动推出之际，不少市场正面临主机涨价与供货短缺的问题。 这封邮件面向那些不再使用 Xbox 主机，或是转用电脑、其他设备的用户。一般来说，存储空间更大、搭载光驱的型号可以拿到最高的以旧换新折价。 375 美元 （现汇率约合 2,510 元人",
+   "published_at": 1792450140.0,
+   "published_bj": "2026-10-20 06:49"
+  },
+  {
+   "id": "397a221bb409dc96",
+   "source": "cnBeta",
+   "title": "《GTA6》预告三天播放量超过前作13年累计",
+   "url": "https://www.cnbeta.com.tw/articles/game/1582948.htm",
+   "summary": "《GTA6》发售预告在YouTube上线三天后获得4700万次观看，超过《给他爱5》同类预告约13年累计的3400万次。按照这一数据计算，新预告在72小时内平均每秒播放约175次。 阅读全文",
+   "published_at": 1792448893.0,
+   "published_bj": "2026-10-20 06:28"
+  },
+  {
+   "id": "68fdc23aa33199a3",
+   "source": "cnBeta",
+   "title": "苹果宣布将于10月28日举行产品发布活动 分析师预计将推出触屏笔记本电脑",
+   "url": "https://www.cnbeta.com.tw/articles/tech/1582946.htm",
+   "summary": "苹果宣布将于10月28日举行产品发布活动，并于周一向媒体和分析师发出邀请，活动名为“Apple Experience in Los Angeles”。邮件中写着“Pro and tell”，暗示此次发布将聚焦于搭载强大自研芯片的高端“Pro”设备。 阅读全文",
+   "published_at": 1792448676.0,
+   "published_bj": "2026-10-20 06:24"
+  },
   {
    "id": "cfdf9974b18927c8",
    "source": "TechCrunch",
@@ -20,6 +65,15 @@
    "summary": "点击查看原文>",
    "published_at": 1792446491.0,
    "published_bj": "2026-10-20 05:48"
+  },
+  {
+   "id": "cc8f3abc3f2ad14d",
+   "source": "Hacker News",
+   "title": "Drupal is now light-years ahead of its reputation",
+   "url": "https://dri.es/state-of-drupal-presentation-september-2026",
+   "summary": "Article URL: https://dri.es/state-of-drupal-presentation-september-2026 Comments URL: https://news.ycombinator.com/item?id=50158408 Points: 4 # Comments: 0",
+   "published_at": 1792445882.0,
+   "published_bj": "2026-10-20 05:38"
   },
   {
    "id": "10f209643a60e63c",
@@ -49,6 +103,15 @@
    "published_bj": "2026-10-20 05:08"
   },
   {
+   "id": "163e0bd5534c1539",
+   "source": "Hacker News",
+   "title": "One Hash Bloom Filters",
+   "url": "https://calabro.io/ohbf",
+   "summary": "Article URL: https://calabro.io/ohbf Comments URL: https://news.ycombinator.com/item?id=50157865 Points: 4 # Comments: 0",
+   "published_at": 1792443008.0,
+   "published_bj": "2026-10-20 04:50"
+  },
+  {
    "id": "c39ed7d86ed5717b",
    "source": "InfoQ中文",
    "title": "Jev迎来中国挑战者：StartLux登顶决策模型榜单，还学会了“拿不准再想”",
@@ -74,6 +137,24 @@
    "summary": "OpenCode is an open-source AI coding agent that's become a popular alternative to Claude Code and Cursor. But hackers got into part of its online platform and stole some users’ API keys, and the AI tools it turned to for help kept refusing to look at the malicious code.",
    "published_at": 1792438114.0,
    "published_bj": "2026-10-20 03:28"
+  },
+  {
+   "id": "9474cac4e859103b",
+   "source": "Hacker News",
+   "title": "The End of Rationing",
+   "url": "https://sanketsaurav.com/writing/end-of-rationing",
+   "summary": "Article URL: https://sanketsaurav.com/writing/end-of-rationing Comments URL: https://news.ycombinator.com/item?id=50156744 Points: 6 # Comments: 0",
+   "published_at": 1792437573.0,
+   "published_bj": "2026-10-20 03:19"
+  },
+  {
+   "id": "d88ca48b8fbd1832",
+   "source": "Hacker News",
+   "title": "My Neighbor, Me, and a Grand Principle",
+   "url": "https://lastwordonnothing.com/2026/10/19/my-neighbor-me-and-a-grand-principle/",
+   "summary": "Article URL: https://lastwordonnothing.com/2026/10/19/my-neighbor-me-and-a-grand-principle/ Comments URL: https://news.ycombinator.com/item?id=50156561 Points: 4 # Comments: 0",
+   "published_at": 1792436753.0,
+   "published_bj": "2026-10-20 03:05"
   },
   {
    "id": "4a3a18b8ea8895c1",

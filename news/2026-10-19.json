@@ -1,7 +1,7 @@
 {
  "date": "2026-10-19",
- "generated_at": 1792448639.9229183,
- "count": 395,
+ "generated_at": 1792451080.2293344,
+ "count": 398,
  "items": [
   {
    "id": "fe8fbd24745e89cc",
@@ -67,6 +67,15 @@
    "published_bj": "2026-10-19 23:21"
   },
   {
+   "id": "ab2df2d89e73c71a",
+   "source": "Hacker News",
+   "title": "Code is clay now",
+   "url": "https://www.albertodenia.com/writing/code-is-clay-now",
+   "summary": "Article URL: https://www.albertodenia.com/writing/code-is-clay-now Comments URL: https://news.ycombinator.com/item?id=50153531 Points: 6 # Comments: 1",
+   "published_at": 1792423185.0,
+   "published_bj": "2026-10-19 23:19"
+  },
+  {
    "id": "ab0060d2a5196622",
    "source": "IT之家",
    "title": "微软用 Mac 制作 Windows Insider 12 周年纪念壁纸，引发网友讨论",
@@ -119,6 +128,15 @@
    "summary": "HORI面向Nintendo Switch 2游戏《塞尔达：时之笛 重制版》推出的“电子时之笛”现已开放预购，定于11月5日发售，含税价格为7980日元。该产品已在HORI官方商城和亚马逊开启预购。 阅读全文",
    "published_at": 1792422014.0,
    "published_bj": "2026-10-19 23:00"
+  },
+  {
+   "id": "4921d3716abf90d0",
+   "source": "Hacker News",
+   "title": "Agentic Monitoring",
+   "url": "https://benjamincongdon.me/blog/2026/10/19/Agentic-Monitoring/",
+   "summary": "Article URL: https://benjamincongdon.me/blog/2026/10/19/Agentic-Monitoring/ Comments URL: https://news.ycombinator.com/item?id=50153225 Points: 4 # Comments: 0",
+   "published_at": 1792421524.0,
+   "published_bj": "2026-10-19 22:52"
   },
   {
    "id": "5ef48f1c1299010e",
@@ -434,6 +452,15 @@
    "summary": "I'm a software engineer from the east coast (who has lived in Boston, NY, the bay area, UK, France), and I built a task system called 3 & Done. It's the place you trust to store everything you need to do. It accepts voice input for rapid entry, as well as text (it stores the audio locally so you can",
    "published_at": 1792415227.0,
    "published_bj": "2026-10-19 21:07"
+  },
+  {
+   "id": "940d0cbbe85e1535",
+   "source": "Hacker News",
+   "title": "Honey, I shrunk the TV",
+   "url": "https://cakehonolulu.github.io/honey-i-shrunk-the-tv/",
+   "summary": "Article URL: https://cakehonolulu.github.io/honey-i-shrunk-the-tv/ Comments URL: https://news.ycombinator.com/item?id=50151971 Points: 4 # Comments: 1",
+   "published_at": 1792415181.0,
+   "published_bj": "2026-10-19 21:06"
   },
   {
    "id": "5593c5e1ce891ddf",
