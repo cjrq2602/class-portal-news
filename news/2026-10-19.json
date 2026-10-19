@@ -1,7 +1,7 @@
 {
  "date": "2026-10-19",
- "generated_at": 1792432173.8082294,
- "count": 387,
+ "generated_at": 1792434400.7612228,
+ "count": 389,
  "items": [
   {
    "id": "fe8fbd24745e89cc",
@@ -472,6 +472,15 @@
    "published_bj": "2026-10-19 20:35"
   },
   {
+   "id": "f85afbf290b290f5",
+   "source": "TechCrunch",
+   "title": "Laplace Intelligence red-teams robots and self-driving cars before they hit the real world",
+   "url": "https://techcrunch.com/2026/10/19/laplace-intelligence-red-teams-robots-and-self-driving-cars-before-they-hit-the-real-world/",
+   "summary": "University of Michigan spinout Laplace Intelligence uses AI agents and interactive simulation to stress-test robots and self-driving vehicles before deployment. The profitable startup is competing in Startup Battlefield at TechCrunch Disrupt, October 13-15 in San Francisco.",
+   "published_at": 1792413000.0,
+   "published_bj": "2026-10-19 20:30"
+  },
+  {
    "id": "556613f3960497dc",
    "source": "IT之家",
    "title": "MiniMax M3.1 Flash 上线：速度提升 3 倍，价格降低 70%",
@@ -506,6 +515,15 @@
    "summary": "Article URL: https://github.com/IsuruMaduranga/harness-engineering-101 Comments URL: https://news.ycombinator.com/item?id=50151390 Points: 50 # Comments: 21",
    "published_at": 1792411661.0,
    "published_bj": "2026-10-19 20:07"
+  },
+  {
+   "id": "2dcdac6b2b2dbc79",
+   "source": "Hacker News",
+   "title": "The obscure trust looming over Anthropic's IPO",
+   "url": "https://www.wsj.com/tech/ai/anthropic-ipo-private-trust-188f41f7?st=RtdGHg&reflink=desktopwebshare_permalink",
+   "summary": "Article URL: https://www.wsj.com/tech/ai/anthropic-ipo-private-trust-188f41f7?st=RtdGHg&reflink=desktopwebshare_permalink Comments URL: https://news.ycombinator.com/item?id=50151376 Points: 13 # Comments: 1",
+   "published_at": 1792411563.0,
+   "published_bj": "2026-10-19 20:06"
   },
   {
    "id": "3c25a8cb7e5e7bff",

@@ -1,7 +1,7 @@
 {
  "date": "2026-10-20",
- "generated_at": 1792432173.8059552,
- "count": 15,
+ "generated_at": 1792434400.757597,
+ "count": 19,
  "items": [
   {
    "id": "798f6b581f154f0c",
@@ -31,6 +31,15 @@
    "published_bj": "2026-10-20 02:22"
   },
   {
+   "id": "add47bca4f9b16c8",
+   "source": "TechCrunch",
+   "title": "AI assistant startup Town nabs unicorn valuation four months after launch",
+   "url": "https://techcrunch.com/2026/10/19/ai-assistant-startup-town-nabs-unicorn-valuation-four-months-after-launch/",
+   "summary": "AI assistant startup Town nabbed a unicorn valuation on Monday, announcing a $108 million Series B round co-led by Forerunner Ventures and Menlo Ventures.",
+   "published_at": 1792432839.0,
+   "published_bj": "2026-10-20 02:00"
+  },
+  {
    "id": "0da85365fa352d32",
    "source": "TechCrunch",
    "title": "Rivian’s CEO says autonomy will enable ‘dramatically different’ vehicle designs",
@@ -58,6 +67,15 @@
    "published_bj": "2026-10-20 01:27"
   },
   {
+   "id": "ada8250e9d12228d",
+   "source": "Hacker News",
+   "title": "Ukraine carries out first ever aerial drone evacuation of a wounded soldier",
+   "url": "https://www.dailymail.com/news/article-16220441/Ukraine-carries-aerial-drone-evacuation-wounded-soldier-frontline.html",
+   "summary": "Article URL: https://www.dailymail.com/news/article-16220441/Ukraine-carries-aerial-drone-evacuation-wounded-soldier-frontline.html Comments URL: https://news.ycombinator.com/item?id=50155237 Points: 14 # Comments: 0",
+   "published_at": 1792430798.0,
+   "published_bj": "2026-10-20 01:26"
+  },
+  {
    "id": "5a2f971bc4b881e7",
    "source": "InfoQ中文",
    "title": "Kubernetes多集群项目Karmada完成CNCF毕业",
@@ -83,6 +101,24 @@
    "summary": "Amazon and X-energy have inked another deal to deploy nuclear power to the grid. This one will generate nearly 1 gigawatt of electricity.",
    "published_at": 1792428956.0,
    "published_bj": "2026-10-20 00:55"
+  },
+  {
+   "id": "c6d62f0566e0e9fc",
+   "source": "Hacker News",
+   "title": "Android apps running native on macOS",
+   "url": "https://github.com/kksimp/Mac.apk",
+   "summary": "Article URL: https://github.com/kksimp/Mac.apk Comments URL: https://news.ycombinator.com/item?id=50154624 Points: 26 # Comments: 5",
+   "published_at": 1792428330.0,
+   "published_bj": "2026-10-20 00:45"
+  },
+  {
+   "id": "1723048e74278c4c",
+   "source": "Hacker News",
+   "title": "MiniMax M3.1 Flash",
+   "url": "https://www.minimax.io/blog/minimax-m31f",
+   "summary": "Article URL: https://www.minimax.io/blog/minimax-m31f Comments URL: https://news.ycombinator.com/item?id=50154540 Points: 46 # Comments: 16",
+   "published_at": 1792427949.0,
+   "published_bj": "2026-10-20 00:39"
   },
   {
    "id": "d7028b7bcd3fdd00",
