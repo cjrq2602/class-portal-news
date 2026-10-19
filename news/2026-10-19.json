@@ -1,7 +1,7 @@
 {
  "date": "2026-10-19",
- "generated_at": 1792419623.3752565,
- "count": 358,
+ "generated_at": 1792422108.056819,
+ "count": 373,
  "items": [
   {
    "id": "7448bf17403e66e6",
@@ -13,6 +13,60 @@
    "published_bj": "2026-10-19 23:42"
   },
   {
+   "id": "157d40ba9ce745e6",
+   "source": "cnBeta",
+   "title": "HORI电子陶笛开放预购 支持《塞尔达：时之笛 重制版》联动",
+   "url": "https://www.cnbeta.com.tw/articles/game/1582942.htm",
+   "summary": "HORI面向Nintendo Switch 2游戏《塞尔达：时之笛 重制版》推出的“电子时之笛”现已开放预购，定于11月5日发售，含税价格为7980日元。该产品已在HORI官方商城和亚马逊开启预购。 阅读全文",
+   "published_at": 1792422014.0,
+   "published_bj": "2026-10-19 23:00"
+  },
+  {
+   "id": "5ef48f1c1299010e",
+   "source": "IT之家",
+   "title": "《巫师 3：狂猎 — 重制版》Switch 2 补丁 5.01 开放下载：画质大升级",
+   "url": "https://www.ithome.com/1/015/046.htm",
+   "summary": "IT之家 10 月 19 日消息，据游戏媒体 Euro Gamer 今天报道，CDPR 现已为 Switch 2 版《巫师 3：狂猎 — 重制版》推送 5.01 补丁，调整图像锐化效果、分辨率，提升清晰度和画质。 IT之家从原报道了解到，本次更新还调整了游戏光照效果，解决部分玩家反馈的亮度过高问题。画质方面的改进则是让游戏看起来更加清晰，此前有玩家反映，掌机模式下的画面看起来较为模糊。 同时，本次更新还修复了多个 Bug，并加入泛光、光束和景深等画质选项，同时新增乌克兰语本地化。",
+   "published_at": 1792421422.0,
+   "published_bj": "2026-10-19 22:50"
+  },
+  {
+   "id": "ef649018cfdec1d3",
+   "source": "cnBeta",
+   "title": "研究团队制成可弯曲、可快速化学分解的类脑突触阵列 开关仅需26纳秒",
+   "url": "https://www.cnbeta.com.tw/articles/science/1582940.htm",
+   "summary": "苏州科技大学等机构的研究人员开发出一种柔性人工突触阵列，能够模拟生物突触连接强弱变化，并在特定化学处理下快速分解。器件使用氢键有机框架材料作为功能层，以MXene作电极、聚亚胺（PI）薄膜作柔性基底；研究团队通过溶液加工方式制成10×10阵列，共包含100个突触单元。相关研究发表于《极端制造国际期刊》（International Journal of Extreme Manufacturing）。 阅读全文",
+   "published_at": 1792421296.0,
+   "published_bj": "2026-10-19 22:48"
+  },
+  {
+   "id": "2c6d3c8ef87b2efa",
+   "source": "cnBeta",
+   "title": "欧洲四大运营商酝酿组建卫星联盟 欲打造本土版“手机直连卫星”服务挑战星链",
+   "url": "https://www.cnbeta.com.tw/articles/tech/1582938.htm",
+   "summary": "欧洲主要电信运营商正联合推动一项新的卫星通信计划，希望建立能够与SpaceX星链竞争的欧洲本土“手机直连卫星”（Direct-to-Device，D2D）服务体系。 阅读全文",
+   "published_at": 1792421124.0,
+   "published_bj": "2026-10-19 22:45"
+  },
+  {
+   "id": "f077cdc892f3088b",
+   "source": "IT之家",
+   "title": "Tenstorrent 完成 15 亿美元 E 轮融资，投后估值 62 亿美元",
+   "url": "https://www.ithome.com/1/015/045.htm",
+   "summary": "IT之家 10 月 19 日消息，RISC-V AI 计算企业 Tenstorrent 美国当地时间今日宣布完成总额达 15 亿美元 （IT之家注：现汇率约合 100.39 亿元人民币） 的 E 轮融资。 该企业投后估值达到 62 亿美元 （现汇率约合 414.95 亿元人民币） 。 Tenstorrent 由知名芯片设计师 Jim Keller 领导，已发布过多款 AI 芯片产品。该企业此前在 2024 年底以约 27 亿美元的投后估值进行了 D 轮融资。 该企业的 E 轮融资由 Trace Capital 和 Innovation X 领投，多家新老投资者参与其中。 这笔资金将用于支持 T",
+   "published_at": 1792421075.0,
+   "published_bj": "2026-10-19 22:44"
+  },
+  {
+   "id": "766750ec6aa84713",
+   "source": "IT之家",
+   "title": "微信发起公众号小说改编短剧激励活动：作者承制方各享 5% 额外收益，上不封顶",
+   "url": "https://www.ithome.com/1/015/044.htm",
+   "summary": "IT之家 10 月 19 日消息，微信开放平台与微信视频号团队今日联合宣布，发起「公众号小说改编微短剧：第一期」激励活动，支持原创小说开展改编短剧合作。首期选出 10 部深受微信用户喜爱的作品，平台已与作者确认改编意向。 IT之家从“微信公开课”公众号获悉，短剧承制方与作者在活动有效期内达成合作，并按要求完成改编、在微信生态优先发行后， 双方可各获改编短剧在微信生态优先发行期收入的额外 5% 现金激励 ， 上不封顶 。 同时，激励对应的发行载体为绿泡泡短剧小程序、视频号端原生短剧，收入计算范围为短剧在微信生态优先发行前 30 天的变现收入。微信开放平台不占有小说的著作权及改编权。具体改编合作，",
+   "published_at": 1792420931.0,
+   "published_bj": "2026-10-19 22:42"
+  },
+  {
    "id": "b0b05c05aef50394",
    "source": "InfoQ中文",
    "title": "阿里云 7 个样板间，探索 AI 原生研发组织的实践",
@@ -22,6 +76,60 @@
    "published_bj": "2026-10-19 22:38"
   },
   {
+   "id": "2465c3a1fa1b4547",
+   "source": "IT之家",
+   "title": "国家邮政局：1—9 月快递业务量累计完成 1513 亿件，同比增长 4.3%",
+   "url": "https://www.ithome.com/1/015/043.htm",
+   "summary": "IT之家 10 月 19 日消息，国家邮政局今日公布 2026 年 1-9 月邮政行业运行情况，IT之家整理主要内容如下： 1—9 月，邮政行业业务收入（不包括邮政储蓄银行直接营业收入）累计完成 13893.1 亿元，同比增长 5.8%。其中，快递业务收入累计完成 11634.4 亿元，同比增长 7.2%。 1—9 月，邮政行业寄递业务量累计完成 1641.3 亿件，同比增长 3.7%。其中， 快递业务量累计完成 1513.0 亿件，同比增长 4.3% 。 9 月份，邮政行业业务收入完成 1588.6 亿元，同比增长 4.1%。其中，快递业务收入完成 1345.2 亿元，同比增长 5.6%。 ",
+   "published_at": 1792420297.0,
+   "published_bj": "2026-10-19 22:31"
+  },
+  {
+   "id": "86b409ba63872fa6",
+   "source": "Hacker News",
+   "title": "Maybe There Was an Egg Cartel After All",
+   "url": "https://www.politico.com/news/magazine/2026/10/18/egg-prices-conspiracy-affordability-issue-01100411",
+   "summary": "Article URL: https://www.politico.com/news/magazine/2026/10/18/egg-prices-conspiracy-affordability-issue-01100411 Comments URL: https://news.ycombinator.com/item?id=50152970 Points: 12 # Comments: 6",
+   "published_at": 1792420271.0,
+   "published_bj": "2026-10-19 22:31"
+  },
+  {
+   "id": "5b36218485ef4138",
+   "source": "cnBeta",
+   "title": "Claude意外揪出Mac挖矿木马：12个CPU核心被占满 温度飙至112摄氏度",
+   "url": "https://www.cnbeta.com.tw/articles/tech/1582936.htm",
+   "summary": "一名使用Anthropic旗下Claude辅助开发软件的Mac用户，近日意外发现自己的电脑长期遭受加密货币挖矿恶意程序感染。令人意外的是，问题并非通过杀毒软件首先发现，而是在AI协助开发温度监测工具的过程中被主动识别出来。 阅读全文",
+   "published_at": 1792420260.0,
+   "published_bj": "2026-10-19 22:31"
+  },
+  {
+   "id": "8e8dff4ea84e12af",
+   "source": "IT之家",
+   "title": "2026 年三季度印度智能手机市场遇冷，iPhone 销量下滑 20%",
+   "url": "https://www.ithome.com/1/015/042.htm",
+   "summary": "IT之家 10 月 19 日消息，市场调研机构 Omdia 数据显示，2026 年第三季度，印度全国智能手机出货量同比下降 26%，创下过去 10 年同期最低水平。尽管苹果 iPhone 在印度的销量同比下滑 20%，但与竞争对手相比，其表现仍相对稳健。 据悉，印度消费者的消费支出趋于保守，与新机涨价叠加在一起，该国智能手机总出货量降至 3580 万部。零售商也采取了更为谨慎的策略，在购物季到来前避免囤积过多库存。 尽管销量下滑 20%，苹果仍以 390 万部的出货量位列印度智能手机市场第五，iPhone 16 和 iPhone 17 等标准版机型占大头。由于苹果今年没有推出 iPhone 1",
+   "published_at": 1792420253.0,
+   "published_bj": "2026-10-19 22:30"
+  },
+  {
+   "id": "8e0f639405251df9",
+   "source": "cnBeta",
+   "title": "日本耳机厂商Final推出超轻无线头戴耳机Porta 仅重40克 续航最长8小时",
+   "url": "https://www.cnbeta.com.tw/articles/tech/1582934.htm",
+   "summary": "对于无线耳机而言，轻量化一直是影响佩戴舒适度的重要因素。日本音频设备制造商Final近日推出了一款名为Porta的无线耳机，整机重量仅为40克，试图在保留传统头戴式耳机佩戴方式的同时，将重量压缩到极低水平。这款产品采用极简设计，以一根金属线构成主要头带结构，搭配轻巧的耳垫，外观让人联想到索尼Walkman随身听时代的经典轻型耳机。 阅读全文",
+   "published_at": 1792420162.0,
+   "published_bj": "2026-10-19 22:29"
+  },
+  {
+   "id": "71d8fb707a7a44e6",
+   "source": "IT之家",
+   "title": "全新深蓝 S05 新增智能生态仪表屏：4.39 英寸 OLED，显示核心行车信息",
+   "url": "https://www.ithome.com/1/015/041.htm",
+   "summary": "IT之家 10 月 19 日消息，深蓝汽车官方发布，全新深蓝 S05 新增智能生态仪表屏。此前，深蓝 S05 仅提供 AR-HUD 抬头显示，智能生态仪表屏采用 4.39 英寸 OLED 屏，信息一目了然。 IT之家注意到，全新深蓝 S05 车型于今年 8 月上市，共推出 5 款车型，售价区间 11.99-15.19 万元， 限时优惠价 11.59-14.49 万元。 该车内饰采用悬浮星舰设计理念，提供星云紫、热浪橙、星岩灰三种配色。车内搭载 256 色悬浮式环抱氛围灯，并配备高级木纹理装饰面板。该车取消了传统液晶仪表盘， 行车信息通过 HUD 抬头显示投射 ，车机系统升级为 DEEPAL O",
+   "published_at": 1792419819.0,
+   "published_bj": "2026-10-19 22:23"
+  },
+  {
    "id": "47761c5c3d3ab8b9",
    "source": "IT之家",
    "title": "流媒体平台 Spotify 严厉打击家庭套餐共享，要求当面扫码验证",
@@ -29,6 +137,15 @@
    "summary": "IT之家 10 月 19 日消息，据科技媒体 Android Authority 今天报道，流媒体平台 Spotify 正严查家庭套餐共享行为，部分用户已经开始无法使用。 IT之家从原报道获悉，部分家庭共享用户已经收到了重新验证住址提示。从官方口径来看，此次验证似乎需要当面完成：家庭成员需要扫描管理员手机上的二维码，确保双方住在同一个地方。 并且，这个二维码每隔几秒钟就会刷新，因此不能截图分享。不过一些用户表示， 他们通过屏幕共享 ， 就轻松绕过了这种机制 。 Spotify 官方表示，用户收到通知后有 7 天时间完成重新验证。 如果不理会通知或未完成验证 ， 家庭订阅将自动降级至免费套餐 ，",
    "published_at": 1792419380.0,
    "published_bj": "2026-10-19 22:16"
+  },
+  {
+   "id": "4e5e4c758656df71",
+   "source": "Hacker News",
+   "title": "Beyond These Stars",
+   "url": "https://store.steampowered.com/app/2295060/Beyond_These_Stars/",
+   "summary": "Article URL: https://store.steampowered.com/app/2295060/Beyond_These_Stars/ Comments URL: https://news.ycombinator.com/item?id=50152701 Points: 7 # Comments: 1",
+   "published_at": 1792418770.0,
+   "published_bj": "2026-10-19 22:06"
   },
   {
    "id": "91a8adc8dba8e831",
@@ -58,6 +175,15 @@
    "published_bj": "2026-10-19 21:57"
   },
   {
+   "id": "8979b3026619a112",
+   "source": "Hacker News",
+   "title": "Show HN: KiviDB, a faster Redis-compatible memory database and vector cache",
+   "url": "https://github.com/kividbio/kividb",
+   "summary": "Hi all, So I have been working on this project KiviDB from February 2026. It started as a project for me to understand rust, having a product with no GC pauses, memory blow up after snapshots and getting OOM on running pods, and that was actually an issue I faced with Dragonfly. I wanted to have som",
+   "published_at": 1792418032.0,
+   "published_bj": "2026-10-19 21:53"
+  },
+  {
    "id": "449c9ce43b165e40",
    "source": "IT之家",
    "title": "智己推出至高 2 万现金限时优惠，LS8 NEO 纯电将 10 月上市",
@@ -74,6 +200,15 @@
    "summary": "IT之家 10 月 19 日消息，彭博社记者马克 · 古尔曼在最新一期《Power On》通讯中提到，苹果正在研发一款室内摄像头，内部代号 J450， 可利用 AI 分析周围环境 。 IT之家了解到，这款摄像头拥有低帧率传感器和红外传感器，支持人脸识别等技术，以识别人员或宠物。用户将收到周围环境的文字描述，而非视频画面。 该产品的核心设计理念似乎与隐私保护有关 ，无法录制家里的私密场景。 古尔曼认为，这款摄像头预计将在明年某个时候推出。同时，该产品并不属于 10 月 13 日公布的 Home Collection 系列配件。 此外，苹果可能还会观察 Home Collection 系列产品的销",
    "published_at": 1792417191.0,
    "published_bj": "2026-10-19 21:39"
+  },
+  {
+   "id": "416ca78fb11a135e",
+   "source": "Hacker News",
+   "title": "Wine Ported to OpenBSD",
+   "url": "https://marc.info/?l=openbsd-ports&m=179236125692175",
+   "summary": "Article URL: https://marc.info/?l=openbsd-ports&m=179236125692175 Comments URL: https://news.ycombinator.com/item?id=50152307 Points: 64 # Comments: 5",
+   "published_at": 1792416934.0,
+   "published_bj": "2026-10-19 21:35"
   },
   {
    "id": "63930629b9e5148e",
