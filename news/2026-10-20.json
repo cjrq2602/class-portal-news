@@ -1,7 +1,7 @@
 {
  "date": "2026-10-20",
- "generated_at": 1792443964.9784796,
- "count": 31,
+ "generated_at": 1792446624.3706992,
+ "count": 33,
  "items": [
   {
    "id": "798f6b581f154f0c",
@@ -11,6 +11,24 @@
    "summary": "点击查看原文>",
    "published_at": 1792446491.0,
    "published_bj": "2026-10-20 05:48"
+  },
+  {
+   "id": "10f209643a60e63c",
+   "source": "Hacker News",
+   "title": "OpenBSD 8.0 release will have inteldrm/radeondrm/amdgpu drivers from Linux 6.18",
+   "url": "https://bsd.network/@brynet/117407035545900963",
+   "summary": "Article URL: https://bsd.network/@brynet/117407035545900963 Comments URL: https://news.ycombinator.com/item?id=50158138 Points: 16 # Comments: 1",
+   "published_at": 1792444305.0,
+   "published_bj": "2026-10-20 05:11"
+  },
+  {
+   "id": "ed1b76a39f0aaf67",
+   "source": "Hacker News",
+   "title": "Putting Linux on my RTX spark laptop because I don't have a Microsoft account",
+   "url": "https://josie.lol/blog/linux-rtx-spark",
+   "summary": "Article URL: https://josie.lol/blog/linux-rtx-spark Comments URL: https://news.ycombinator.com/item?id=50158100 Points: 62 # Comments: 23",
+   "published_at": 1792444098.0,
+   "published_bj": "2026-10-20 05:08"
   },
   {
    "id": "c39ed7d86ed5717b",
