@@ -1,7 +1,7 @@
 {
  "date": "2026-10-20",
- "generated_at": 1792437341.227613,
- "count": 28,
+ "generated_at": 1792439587.6426558,
+ "count": 30,
  "items": [
   {
    "id": "798f6b581f154f0c",
@@ -20,6 +20,15 @@
    "summary": "点击查看原文>",
    "published_at": 1792442014.0,
    "published_bj": "2026-10-20 04:33"
+  },
+  {
+   "id": "24599c9a17817638",
+   "source": "TechCrunch",
+   "title": "Hackers hit AI coding tool OpenCode, running up charges on users’ AI accounts",
+   "url": "https://techcrunch.com/2026/10/19/hackers-hit-ai-coding-tool-opencode-running-up-charges-on-users-ai-accounts/",
+   "summary": "OpenCode is an open-source AI coding agent that's become a popular alternative to Claude Code and Cursor. But hackers got into part of its online platform and stole some users’ API keys, and the AI tools it turned to for help kept refusing to look at the malicious code.",
+   "published_at": 1792438114.0,
+   "published_bj": "2026-10-20 03:28"
   },
   {
    "id": "4a3a18b8ea8895c1",
@@ -47,6 +56,15 @@
    "summary": "Eugenia Kuyda's newest startup Wabi is positioned to take advantage of an idea she had more than a decade ago. Wabi offers a personal AI assistant with a twist, free and downloadable to anyone today.",
    "published_at": 1792435744.0,
    "published_bj": "2026-10-20 02:49"
+  },
+  {
+   "id": "1a92e585d26788b5",
+   "source": "Hacker News",
+   "title": "The reverts will continue until morale improves",
+   "url": "http://peter.eisentraut.org/blog/2026/10/09/the-reverts-will-continue-until-morale-improves",
+   "summary": "Article URL: http://peter.eisentraut.org/blog/2026/10/09/the-reverts-will-continue-until-morale-improves Comments URL: https://news.ycombinator.com/item?id=50156206 Points: 19 # Comments: 0",
+   "published_at": 1792435352.0,
+   "published_bj": "2026-10-20 02:42"
   },
   {
    "id": "9132f38d30233abc",

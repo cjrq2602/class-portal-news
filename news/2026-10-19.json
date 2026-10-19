@@ -1,7 +1,7 @@
 {
  "date": "2026-10-19",
- "generated_at": 1792437341.2317636,
- "count": 392,
+ "generated_at": 1792439587.6453989,
+ "count": 393,
  "items": [
   {
    "id": "fe8fbd24745e89cc",
@@ -29,6 +29,15 @@
    "summary": "Nvidia is leaning hard into the trend of enterprise companies wanting to run their own open models in their own data centers and also trying to make on-device, private AI agents a thing.",
    "published_at": 1792424229.0,
    "published_bj": "2026-10-19 23:37"
+  },
+  {
+   "id": "00d5e8b4dfe8ddce",
+   "source": "Hacker News",
+   "title": "Ukraine claims first drone evacuation of wounded soldier",
+   "url": "https://www.nbcnews.com/world/ukraine/ukraine-first-drone-evacuation-wounded-soldier-frontlines-hexacopter-rcna604310",
+   "summary": "Article URL: https://www.nbcnews.com/world/ukraine/ukraine-first-drone-evacuation-wounded-soldier-frontlines-hexacopter-rcna604310 Comments URL: https://news.ycombinator.com/item?id=50153664 Points: 9 # Comments: 0",
+   "published_at": 1792423894.0,
+   "published_bj": "2026-10-19 23:31"
   },
   {
    "id": "ed689fdbc8645f5e",
