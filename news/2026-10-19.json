@@ -1,7 +1,7 @@
 {
  "date": "2026-10-19",
- "generated_at": 1792441568.718622,
- "count": 394,
+ "generated_at": 1792443964.9823444,
+ "count": 395,
  "items": [
   {
    "id": "fe8fbd24745e89cc",
@@ -181,6 +181,15 @@
    "url": "https://www.ithome.com/1/015/043.htm",
    "summary": "IT之家 10 月 19 日消息，国家邮政局今日公布 2026 年 1-9 月邮政行业运行情况，IT之家整理主要内容如下： 1—9 月，邮政行业业务收入（不包括邮政储蓄银行直接营业收入）累计完成 13893.1 亿元，同比增长 5.8%。其中，快递业务收入累计完成 11634.4 亿元，同比增长 7.2%。 1—9 月，邮政行业寄递业务量累计完成 1641.3 亿件，同比增长 3.7%。其中， 快递业务量累计完成 1513.0 亿件，同比增长 4.3% 。 9 月份，邮政行业业务收入完成 1588.6 亿元，同比增长 4.1%。其中，快递业务收入完成 1345.2 亿元，同比增长 5.6%。 ",
    "published_at": 1792420297.0,
+   "published_bj": "2026-10-19 22:31"
+  },
+  {
+   "id": "807d20aa74786c4f",
+   "source": "Hacker News",
+   "title": "Detecting model weight tampering in GPU memory (Rome attacks)",
+   "url": "https://stealthium.io/blog/hands-off-detecting-model-weight-tampering",
+   "summary": "Article URL: https://stealthium.io/blog/hands-off-detecting-model-weight-tampering Comments URL: https://news.ycombinator.com/item?id=50152976 Points: 6 # Comments: 0",
+   "published_at": 1792420287.0,
    "published_bj": "2026-10-19 22:31"
   },
   {
