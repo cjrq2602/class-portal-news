@@ -1,0 +1,378 @@
+{
+ "type": "today",
+ "date": "2026-10-19",
+ "window": {
+  "start_ts": 1792339200.0,
+  "end_ts": 1792371600.0
+ },
+ "generated_at": 1792373480.5962925,
+ "generator": "action",
+ "news_count": 64,
+ "keywords": [
+  "ai",
+  "the",
+  "and",
+  "of",
+  "on",
+  "全球",
+  "苹果",
+  "anthropic",
+  "to",
+  "推出"
+ ],
+ "points": [
+  {
+   "text": "【ai】After chatbot startup Character",
+   "keyword": "ai",
+   "news_ids": [
+    "39b1650b556ee06f"
+   ],
+   "refs": [
+    {
+     "id": "39b1650b556ee06f",
+     "title": "Disney agrees to hire the majority of Character.AI’s workforce",
+     "source": "TechCrunch",
+     "url": "https://techcrunch.com/2026/10/18/disney-agrees-to-hire-the-majority-of-character-ais-workforce/",
+     "published_at": 1792341000.0
+    }
+   ]
+  },
+  {
+   "text": "【ai】IT之家 10 月 19 日消息，据彭博社报道，在 Character.AI 递交破产重组保护申请后，相关披露的文件显示，迪士尼已同意雇佣 Ch",
+   "keyword": "ai",
+   "news_ids": [
+    "c5c784c989297f5c"
+   ],
+   "refs": [
+    {
+     "id": "c5c784c989297f5c",
+     "title": "Character.AI 申请破产后续：绝大部分员工有望被迪士尼雇佣，前三年总计可获 1.8 亿美元薪酬",
+     "source": "IT之家",
+     "url": "https://www.ithome.com/1/014/634.htm",
+     "published_at": 1792368573.0
+    }
+   ]
+  },
+  {
+   "text": "【ai】IT早报”时间，大家好，现在是 2026 年 10 月 19 日星期一，今天的重要科技资讯有： 1. DeepSeek API 已支持网页搜索和",
+   "keyword": "ai",
+   "news_ids": [
+    "9d0ae553eb23c897"
+   ],
+   "refs": [
+    {
+     "id": "9d0ae553eb23c897",
+     "title": "IT早报 1019：DeepSeek API 上线网页搜索抓取；苹果 iPhone Duo 首发日不卖现货；Anthropic 称 2030 年 AI 或让美国 GDP 增 50%...",
+     "source": "IT之家",
+     "url": "https://www.ithome.com/1/014/632.htm",
+     "published_at": 1792367704.0
+    }
+   ]
+  },
+  {
+   "text": "17岁 Kimi 架构核心参与者离职，确认将赴湾区，下一站引发猜想",
+   "keyword": "",
+   "news_ids": [
+    "ceb93de616dda8e5"
+   ],
+   "refs": [
+    {
+     "id": "ceb93de616dda8e5",
+     "title": "17岁 Kimi 架构核心参与者离职，确认将赴湾区，下一站引发猜想",
+     "source": "InfoQ中文",
+     "url": "https://www.infoq.cn/article/UdT804ujpGxrv0pQfxv2?utm_source=rss&utm_medium=article",
+     "published_at": 1792364283.0
+    }
+   ]
+  },
+  {
+   "text": "近日微软发布Xbox游戏供应策略师招聘信息，岗位涉及实体Xbox游戏的跨平台发行",
+   "keyword": "",
+   "news_ids": [
+    "416c75d2a4317891"
+   ],
+   "refs": [
+    {
+     "id": "416c75d2a4317891",
+     "title": "微软招聘Xbox游戏供应策略师 但未确认下代主机配备光驱",
+     "source": "cnBeta",
+     "url": "https://www.cnbeta.com.tw/articles/tech/1582802.htm",
+     "published_at": 1792362580.0
+    }
+   ]
+  },
+  {
+   "text": "近日一段婚礼视频在社交平台引发热议",
+   "keyword": "",
+   "news_ids": [
+    "f38cf7511f94debd"
+   ],
+   "refs": [
+    {
+     "id": "f38cf7511f94debd",
+     "title": "中国新娘婚礼送新郎5090当结婚礼物 新郎当场落泪",
+     "source": "cnBeta",
+     "url": "https://www.cnbeta.com.tw/articles/game/1582798.htm",
+     "published_at": 1792362541.0
+    }
+   ]
+  },
+  {
+   "text": "https://archive",
+   "keyword": "",
+   "news_ids": [
+    "cfa32981e8581ea9"
+   ],
+   "refs": [
+    {
+     "id": "cfa32981e8581ea9",
+     "title": "US threatens Europe over Starlink restrictions",
+     "source": "Hacker News",
+     "url": "https://www.ft.com/content/d1e28d93-8574-4a46-946a-b261c401d6fa",
+     "published_at": 1792351470.0
+    }
+   ]
+  },
+  {
+   "text": "近期，当Windows 11用户使用微软Edge浏览器访问Google搜索主页时，页面上会弹出一条全新的提示信息，明确写着“选择由Google打",
+   "keyword": "",
+   "news_ids": [
+    "16c3b4b3a601b434"
+   ],
+   "refs": [
+    {
+     "id": "16c3b4b3a601b434",
+     "title": "Google在主页弹窗诱导用户弃用Edge改用Chrome 重演微软曾饱受诟病的推广手段",
+     "source": "cnBeta",
+     "url": "https://www.cnbeta.com.tw/articles/tech/1582794.htm",
+     "published_at": 1792351136.0
+    }
+   ]
+  },
+  {
+   "text": "美国费城一名女子因多次阻挡一台Uber送餐机器人前进并拒绝离开其行进路线，最终被警方逮捕，并被指控扰乱公共秩序",
+   "keyword": "",
+   "news_ids": [
+    "08a388daabd8c8c3"
+   ],
+   "refs": [
+    {
+     "id": "08a388daabd8c8c3",
+     "title": "费城女子因阻拦送餐机器人被捕",
+     "source": "cnBeta",
+     "url": "https://www.cnbeta.com.tw/articles/tech/1582792.htm",
+     "published_at": 1792350819.0
+    }
+   ]
+  },
+  {
+   "text": "Article URL: https://www",
+   "keyword": "",
+   "news_ids": [
+    "0110060fcff53fac"
+   ],
+   "refs": [
+    {
+     "id": "0110060fcff53fac",
+     "title": "Free Pascal Compiler Now Supports Dynamic Packages",
+     "source": "Hacker News",
+     "url": "https://www.getlazarus.org/dynamic/",
+     "published_at": 1792349284.0
+    }
+   ]
+  },
+  {
+   "text": "Article URL: https://www",
+   "keyword": "",
+   "news_ids": [
+    "97ad20b6c3fd23fc"
+   ],
+   "refs": [
+    {
+     "id": "97ad20b6c3fd23fc",
+     "title": "CFPB Opens Debanking Investigation into Nine Large National Banks",
+     "source": "Hacker News",
+     "url": "https://www.forbes.com/sites/ajdhaliwal/2026/10/16/cfpb-opens-debanking-investigation-into-nine-large-national-banks/",
+     "published_at": 1792348000.0
+    }
+   ]
+  },
+  {
+   "text": "Article URL: https://github",
+   "keyword": "",
+   "news_ids": [
+    "cb5065bf05972670"
+   ],
+   "refs": [
+    {
+     "id": "cb5065bf05972670",
+     "title": "PalmOS Lemmings by Aaron Ardiri",
+     "source": "Hacker News",
+     "url": "https://github.com/ardiri/palmos-lemmings",
+     "published_at": 1792346219.0
+    }
+   ]
+  },
+  {
+   "text": "Article URL: https://liveandletsfly",
+   "keyword": "",
+   "news_ids": [
+    "f733716a8d0f842f"
+   ],
+   "refs": [
+    {
+     "id": "f733716a8d0f842f",
+     "title": "British Airways: Filming Crew W Meta Glasses Could Get Your Tickets Cancelled",
+     "source": "Hacker News",
+     "url": "https://liveandletsfly.com/british-airways-meta-smart-glasses-filming/",
+     "published_at": 1792344450.0
+    }
+   ]
+  },
+  {
+   "text": "对于电脑硬件爱好者来说，你并不一定需要最新、最顶级的现代硬件才能体验超频的乐趣，甚至打破世界纪录",
+   "keyword": "",
+   "news_ids": [
+    "7d8fb6d196c3ab45"
+   ],
+   "refs": [
+    {
+     "id": "7d8fb6d196c3ab45",
+     "title": "超频玩家将英特尔酷睿i5-4670K推至6.3 GHz 尘封12年的纪录被打破",
+     "source": "cnBeta",
+     "url": "https://www.cnbeta.com.tw/articles/tech/1582790.htm",
+     "published_at": 1792341338.0
+    }
+   ]
+  },
+  {
+   "text": "研究人员利用EAGLE宇宙学模拟追踪星系数亿光年范围内的演化，评估宇宙中哪些地方能为生命提供较稳定的环境",
+   "keyword": "",
+   "news_ids": [
+    "ccec9e29e6894db9"
+   ],
+   "refs": [
+    {
+     "id": "ccec9e29e6894db9",
+     "title": "宇宙模拟显示银河系环境有利于生命 但它并非唯一宜居星系",
+     "source": "cnBeta",
+     "url": "https://www.cnbeta.com.tw/articles/science/1582788.htm",
+     "published_at": 1792341307.0
+    }
+   ]
+  }
+ ],
+ "article": {
+  "title": "2026-10-19 新闻总结",
+  "paragraphs": [
+   {
+    "kind": "lead",
+    "text": "今天共收录 64 条新闻，来自 6 家媒体。把标题放在一起看，讨论主要集中在 AI、电池 这几个方向上，其余消息更像是零散补充。"
+   },
+   {
+    "kind": "section",
+    "heading": "AI",
+    "text": "先看「AI」。After chatbot startup Character，另有 19 条消息指向同一话题。这条消息短期内的实际影响可能有限，但它指向的方向值得放进观察名单。",
+    "news_ids": [
+     "39b1650b556ee06f"
+    ],
+    "refs": [
+     {
+      "id": "39b1650b556ee06f",
+      "title": "Disney agrees to hire the majority of Character.AI’s workforce",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/10/18/disney-agrees-to-hire-the-majority-of-character-ais-workforce/",
+      "published_at": 1792341000.0
+     }
+    ]
+   },
+   {
+    "kind": "section",
+    "heading": "AI",
+    "text": "与此同时「AI」。IT之家 10 月 19 日消息，据彭博社报道，在 Character.AI 递交破产重组保护申请后，相关披露的文件显示，迪士尼已同意雇佣 Character.，另有 26 条消息指向同一话题。这条消息短期内的实际影响可能有限，但它指向的方向值得放进观察名单。",
+    "news_ids": [
+     "c5c784c989297f5c"
+    ],
+    "refs": [
+     {
+      "id": "c5c784c989297f5c",
+      "title": "Character.AI 申请破产后续：绝大部分员工有望被迪士尼雇佣，前三年总计可获 1.8 亿美元薪酬",
+      "source": "IT之家",
+      "url": "https://www.ithome.com/1/014/634.htm",
+      "published_at": 1792368573.0
+     }
+    ]
+   },
+   {
+    "kind": "section",
+    "heading": "API",
+    "text": "另一个值得注意的方向是「API」。IT早报”时间，大家好，现在是 2026 年 10 月 19 日星期一，今天的重要科技资讯有： 1. DeepSeek API 已支持网页搜索和抓取，单价为每 ，另有 4 条消息指向同一话题。从节奏上看，行业已经从「能不能做」转向「做得便不便宜」，这通常意味着竞争会更务实。",
+    "news_ids": [
+     "9d0ae553eb23c897"
+    ],
+    "refs": [
+     {
+      "id": "9d0ae553eb23c897",
+      "title": "IT早报 1019：DeepSeek API 上线网页搜索抓取；苹果 iPhone Duo 首发日不卖现货；Anthropic 称 2030 年 AI 或让美国 GDP 增 50%...",
+      "source": "IT之家",
+      "url": "https://www.ithome.com/1/014/632.htm",
+      "published_at": 1792367704.0
+     }
+    ]
+   },
+   {
+    "kind": "section",
+    "heading": "架构",
+    "text": "相比之下「架构」。17岁 Kimi 架构核心参与者离职，确认将赴湾区，下一站引发猜想。从节奏上看，行业已经从「能不能做」转向「做得便不便宜」，这通常意味着竞争会更务实。",
+    "news_ids": [
+     "ceb93de616dda8e5"
+    ],
+    "refs": [
+     {
+      "id": "ceb93de616dda8e5",
+      "title": "17岁 Kimi 架构核心参与者离职，确认将赴湾区，下一站引发猜想",
+      "source": "InfoQ中文",
+      "url": "https://www.infoq.cn/article/UdT804ujpGxrv0pQfxv2?utm_source=rss&utm_medium=article",
+      "published_at": 1792364283.0
+     }
+    ]
+   },
+   {
+    "kind": "glossary",
+    "items": [
+     {
+      "term": "AI",
+      "desc": "人工智能，让机器完成识别、生成、判断等原本需要人做的任务"
+     },
+     {
+      "term": "API",
+      "desc": "应用程序接口，让不同软件按约定好的方式互相调用"
+     },
+     {
+      "term": "IPO",
+      "desc": "首次公开募股，公司第一次把股票卖给公众并上市"
+     },
+     {
+      "term": "LLM",
+      "desc": "大语言模型，主打文字理解与生成，是「大模型」的同义词"
+     },
+     {
+      "term": "开源",
+      "desc": "源代码公开，允许他人查看、修改并再分发"
+     }
+    ]
+   },
+   {
+    "kind": "outlook",
+    "text": "把这几条放在一起看，最值得跟踪的是 AI 和 电池 两条线：一条决定技术能走多远，一条决定它多快能落到普通人的日常里。至于其他消息，可以先放进观察名单，等后续有更实的进展再判断。"
+   }
+  ],
+  "word_count": 618
+ },
+ "ai_enhanced": false,
+ "schema": 1,
+ "window_bj": {
+  "start": "2026-10-19 00:00",
+  "end": "2026-10-19 09:00"
+ }
+}
