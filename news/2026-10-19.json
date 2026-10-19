@@ -1,7 +1,7 @@
 {
  "date": "2026-10-19",
- "generated_at": 1792376662.90145,
- "count": 100,
+ "generated_at": 1792379285.616096,
+ "count": 116,
  "items": [
   {
    "id": "3be079fe9180d1c9",
@@ -29,6 +29,114 @@
    "summary": "点击查看原文>",
    "published_at": 1792401600.0,
    "published_bj": "2026-10-19 17:20"
+  },
+  {
+   "id": "d8daeb1740b3d364",
+   "source": "IT之家",
+   "title": "尘封 12 年 Cinebench 纪录被打破：英特尔酷睿 i5-4670K 液氮超频至 6.3GHz，跑出 10.8cb",
+   "url": "https://www.ithome.com/1/014/724.htm",
+   "summary": "IT之家 10 月 19 日消息，想要体验超频的乐趣，甚至冲击超频世界纪录，并不需要顶配的最新电脑硬件。超频高手卢米（Luumi）就用实际成果证明了这一点：他使用一枚老旧的英特尔酷睿 i5 4670K、容量不大的 DDR3 内存，外加必不可少的一两瓶液氮，拿下了 HWBot 平台一项新的世界纪录。卢米最近刷新了酷睿 i5 4670K 在 Cinebench R11.5 项目的多核纪录，将霸占该榜单 12 年的原纪录保持者拉下宝座，多核跑分达到了 10.8 cb。 据IT之家了解，这套登上 HWBot 榜首的主机，核心是 Haswell 时代的英特尔芯片，具体型号就是酷睿 i5 4670K。这是",
+   "published_at": 1792379186.0,
+   "published_bj": "2026-10-19 11:06"
+  },
+  {
+   "id": "43bc4e93f76492a7",
+   "source": "IT之家",
+   "title": "特斯拉陶琳：安全稳定可靠，让人安心是最大的豪华",
+   "url": "https://www.ithome.com/1/014/723.htm",
+   "summary": "IT之家 10 月 19 日消息，特斯拉官方今日发文，称特斯拉没有“速成车”。 特斯拉官方表示，特斯拉拥有完整的直营体系（覆盖买车、提车、用车、修车、换车），没有 4S 店，销售、交付、客服、技师全是自家人，大品牌 + 完整的直营体系正是消费者放心买、安心用的最大底气。 IT之家注意到，特斯拉公司副总裁陶琳随后转发该博文并表示，“ 安全稳定可靠，让人安心是最大的豪华 。” 特斯拉此前宣布，2026 年第三季度，特斯拉全球生产了超 46.4 万辆电动车， 交付了超 48.6 万辆 （同比下降 2%）；储能产品装机量达 13.7 吉瓦时。",
+   "published_at": 1792379029.0,
+   "published_bj": "2026-10-19 11:03"
+  },
+  {
+   "id": "9a927f8679f8fc5a",
+   "source": "IT之家",
+   "title": "长鑫科技股价大跌近 9% 最低报 41 元，创上市首日以来新低",
+   "url": "https://www.ithome.com/1/014/722.htm",
+   "summary": "IT之家 10 月 19 日消息，A 股市场存储芯片股今日（10 月 19 日）开盘普跌，其中， 长鑫科技大跌近 9%，最低报 41 元，股价创上市首日以来新低 。 消息面上，长鑫科技上周五晚公告称，预计 2026 年前三季度归属于上市公司股东的净利润为 1310.00 亿元-1325.00 亿元，同比扭亏为盈。 从单季度来看，长鑫科技第三季度净利润预计在 533.95 亿至 548.95 亿元之间，以 92 天计算，长鑫科技三季度日均盈利约 5.8 亿元 ~5.97 亿元。 按前三季度 273 天计算，长鑫科技日均利润约 4.80 亿元 ~4.85 亿元。相比第二季度净利润 528.43 亿",
+   "published_at": 1792378993.0,
+   "published_bj": "2026-10-19 11:03"
+  },
+  {
+   "id": "94fedb5d643a1498",
+   "source": "IT之家",
+   "title": "海韵 CORE v3 GX 电源上市：750W 金牌 7 年质保，499 元",
+   "url": "https://www.ithome.com/1/014/721.htm",
+   "summary": "IT之家 10 月 19 日消息，海韵 (Seasonic) 现已在电商平台上架新一代“游戏酷核”电源 CORE v3 GX。此次先行发售的是 750W 版本，售价 499 元。 CORE v3 GX 系列采用 140mm 标准长度的 ATX 外形规格，配备镀锡纯铜压纹全模组线材。其 符合 ATX12V 3.1、PCIe CEM 5.1 规范 ，提供原生 12V-2×6 输出，获得 80 PLUS 与 Cybenetics 金牌转换效率认证。 该系列电源采用主动式 PFC + 全桥 LLC + 同步整流 + DC-DC 架构；选用纳米晶磁芯 EMI 电感、高容值耐高温电容， 保持时间＞20ms",
+   "published_at": 1792378975.0,
+   "published_bj": "2026-10-19 11:02"
+  },
+  {
+   "id": "e4ad7c8a8b490898",
+   "source": "IT之家",
+   "title": "Meta：Claude 工具高频访问触发安全机制，No Kings 联盟 Ins 账号遭误封",
+   "url": "https://www.ithome.com/1/014/720.htm",
+   "summary": "IT之家 10 月 19 日消息，Meta 平台公司表示，在美国全国范围内一系列示威活动达到顶峰时，其自动化安全系统错误地封禁了 No Kings Coalition（无国王联盟）的 Instagram 账号。 这家科技企业就此次事件致歉，并给出了更详细的说明。事件发生在该组织为 11 月 3 日中期选举推动提前投票宣传期间。 Meta 传播副总裁安迪 · 斯通（Andy Stone）于周日在社交平台发文称，Instagram 工程团队查明，该账号的“读取”行为触发了安全系统。周六，Anthropic PBC 旗下 Claude 的一款工具在短时间内集中访问个人主页、帖子和话题标签，访问速率约",
+   "published_at": 1792378457.0,
+   "published_bj": "2026-10-19 10:54"
+  },
+  {
+   "id": "c71830e75a815201",
+   "source": "IT之家",
+   "title": "理想李想：汽车主机厂深入研究电池核心技术，是有利于行业发展和消费者利益的",
+   "url": "https://www.ithome.com/1/014/719.htm",
+   "summary": "IT之家 10 月 19 日消息，理想汽车 CEO 李想今日发布长文，分享了自己对于技术自研的看法。他认为， 汽车主机厂深入研究电池核心技术，是有利于行业发展和消费者利益的 。 李想表示，一个超大规模的产业需要两条腿交替前进：一条腿是深入理解产品的专业供应商，一条腿是深入研究核心技术的整机厂商，只有两条腿交替行进，才能推动整个行业往前走，最终受益的是用户。反过来，行业如果长期只靠一条腿， 单脚跳跃是很难走久、走远的，企业很容易陷入规模竞争 ，而用户真正在意的性能、质量、安全和寿命反而停在原地。 他称，汽车行业也一样，这个世界既需要最懂智能电动车的电池企业，也需要最懂电池的智能电动车企业。 理想",
+   "published_at": 1792378154.0,
+   "published_bj": "2026-10-19 10:49"
+  },
+  {
+   "id": "635d0cc53f99918c",
+   "source": "IT之家",
+   "title": "国产卫星互联网首次实现北极、南极、青藏高原联网通信，打通全球通信“最后的盲区”",
+   "url": "https://www.ithome.com/1/014/717.htm",
+   "summary": "IT之家 10 月 19 日消息，据新华社从正在执行中国第 16 次北冰洋考察任务的“极地”号获悉，该船已完成国产卫星互联网北极航线准业务化应用测试， 本航次首次成功开展北极、南极、青藏高原联网通信验证 ，打通了全球通信“最后的盲区”。 另据环球网报道，在中国极地研究中心（中国极地研究所）等单位的共同努力下，本航次在“极地”号、秦岭站、西藏拉萨湖、北海局视频连线中，语音画面清晰流畅，实现了国产卫星互联网全球低时延高带宽通信， 验证了国产卫星互联网通信系统在极端低温、高海拔、强风沙、冰雾等多元恶劣环境下运行的稳定性 ，打通了全球通信“最后的盲区”。 此外，本航次首次实现国产卫星互联网极地远程在线",
+   "published_at": 1792377726.0,
+   "published_bj": "2026-10-19 10:42"
+  },
+  {
+   "id": "e457f32cf934cffd",
+   "source": "IT之家",
+   "title": "小米汽车 OTA Xiaomi HyperOS 1.18 官宣上线，SU7、YU7 城市辅助驾驶体验进化",
+   "url": "https://www.ithome.com/1/014/713.htm",
+   "summary": "IT之家 10 月 19 日消息，小米汽车官方今日宣布，OTA Xiaomi HyperOS 1.18 已经上线。 SU7、YU7 多项功能全面进化 ，带来更平稳、更顺畅、更从容的城市辅助驾驶体验（ 搭载 Xiaomi HAD 车型可升级 ）。 加减速顺滑，告别急刹顿挫 变道自然精准，绕行柔和连贯 感知车流变化，路口通行更高效 参考IT之家此前报道，小米 YU7 车型在 10 月 12 日迎来 OTA 推送 1.18.0 版本，带来多项新增功能。 其中提到“端到端辅助驾驶”优化 ，升级更名为“全域领航辅助”，车位级领航功能覆盖更多热门商圈和写字楼，可领航直达电梯口、充电桩车位，通行更从容。",
+   "published_at": 1792377547.0,
+   "published_bj": "2026-10-19 10:39"
+  },
+  {
+   "id": "eea97694e5ae8c29",
+   "source": "IT之家",
+   "title": "标准版首次搭载游戏独显 D2：小米 REDMI K100 手机性能配置公布，还有 165Hz 高刷电竞屏",
+   "url": "https://www.ithome.com/1/014/711.htm",
+   "summary": "IT之家 10 月 19 日消息，据小米 REDMI 红米手机官方分享， REDMI K100 标准版搭载高通“一代神 U”—— 骁龙 8 至尊版旗舰芯 ，同时还搭载游戏独显 D2（系标准版首次）。 另外， 小米 REDMI K100 标准版机型还升级了 165Hz 高刷电竞屏 ，画面更流畅，号称“游戏性能越级对标”。 卢伟冰表示，REDMI K100 标准版将全面继承 Pro 系列的全能定义，游戏体验看齐 Pro，电池容量将达到 K 系列的新高度。同时，该机将把旗舰的起点再往上提高一大步。 另据IT之家此前报道， 博主 @数码闲聊站 此前爆料 ，小米 REDMI K100 标准版手机堆了米系",
+   "published_at": 1792377250.0,
+   "published_bj": "2026-10-19 10:34"
+  },
+  {
+   "id": "f31d3e0d5baea1e7",
+   "source": "IT之家",
+   "title": "八位堂猎户座 3 代青春竞技版手柄预售：阻力可调 TMR 传感器摇杆，199 元",
+   "url": "https://www.ithome.com/1/014/710.htm",
+   "summary": "IT之家 10 月 19 日消息，八位堂 (8BitDo) 现已启动猎户座 3 代青春竞技版手柄的预售。这款控制器也就是全球市场的 Ultimate 3C+ ， 国行定价 199 元人民币 ，10 月 26 日发货。 猎户座 3 代青春竞技版 配备 40~80gf 阻力可调 TMR 传感器摇杆 ，集成限位硅胶软垫；扳机支持霍尔传感器线性扳机 / 微动非线性双模切换；拥有 R4 &amp; L4 小肩键、PR &amp; PL 附锁背键、轻触 D-Pad，集成握把 &amp; 扳机共振 4 马达。 其三维 155.7 × 104.5 × 62 (mm)，质量 240.5g；支持三模无线连接，2.",
+   "published_at": 1792377125.0,
+   "published_bj": "2026-10-19 10:32"
+  },
+  {
+   "id": "580c0d49e2b67d01",
+   "source": "IT之家",
+   "title": "九部门要求加快推进科技兴商：丰富智能手机、电脑、家居、穿戴设备、机器人等供给，加速脑机接口、具身智能等向市场转化",
+   "url": "https://www.ithome.com/1/014/709.htm",
+   "summary": "IT之家 10 月 19 日消息，商务部等 9 部门今日发布关于加快推进科技兴商的意见，要求以科技创新为动力，以满足人民日益增长的美好生活需要为出发点和落脚点，统筹推进商品消费提质、服务消费扩容、流通效率提升与场景融合创新， 提升人工智能、大数据、物联网、云计算、区块链、数字孪生、具身智能等新技术应用水平 ，推动商贸全链条智能化、绿色化、融合化发展，为建设强大国内市场提供有力支撑。 IT之家附意见具体内容如下： 科技赋能商品消费提质 （一）推动商品供给迭代升级。深入实施“人工智能 + 制造”专项行动，加快人工智能技术与产品研发、设计、制造、营销深度融合， 丰富智能手机、电脑、家居、穿戴设备、机",
+   "published_at": 1792377023.0,
+   "published_bj": "2026-10-19 10:30"
+  },
+  {
+   "id": "c0644de8f6c84726",
+   "source": "IT之家",
+   "title": "小米米家智能腰背按摩仪预售：450mm 加长柔性导轨，689 元",
+   "url": "https://www.ithome.com/1/014/708.htm",
+   "summary": "IT之家 10 月 19 日消息，小米今日宣布，米家智能腰背按摩仪新品预售开启。 这款产品采用 450mm 加长柔性双导轨 ，按摩头可沿脊柱两侧自动上下移动，覆盖肩胛至腰骶区域；导轨弧度为 R550mm，参考国标设计，可贴合腰背曲线；内置两大两小高韧性按摩头，按摩头高低起伏排布，模拟指压效果。设备预设 7 种模式，并可通过米家 App 自编 3 种按摩模式。 连接米家 App 后，用户可通过手机操控。App 内可开启区域按摩，按摩头在小范围内往返揉按，用于局部按压，缓解肌肉疲劳。除米家 App 远程操控外，其侧边设有实体按键，开机即可使用。其机身内置石墨烯加热片，热敷覆盖范围达 10000mm",
+   "published_at": 1792376878.0,
+   "published_bj": "2026-10-19 10:27"
   },
   {
    "id": "cf5b3c8dcc3428d5",
@@ -110,6 +218,24 @@
    "summary": "IT之家 10 月 19 日消息，特斯拉车机触屏的文字字号即将加大。X 平台上有人发帖讲述了一位老年驾驶员看不清屏幕文字的困扰，埃隆 · 马斯克（Elon Musk）直接在帖子下回复：“我们会在用户界面里增加大字体选项。” IT之家注意到，这条原帖出自斯蒂芬 · 弗莱明（Stephen Fleming），他当时正向一位年长邻居演示 FSD（监督版）功能。弗莱明介绍，这位老人独自居住，因为视力不佳已经不在夜间开车，原本有意购买特斯拉，但车机屏幕上的文字太小，“就算已经把显示设置调到大号字体也不够”。他建议增加无障碍用户界面选项，要求“字体至少 48 号”。 特斯拉已经提供放大文字的功能。早在 2",
    "published_at": 1792375535.0,
    "published_bj": "2026-10-19 10:05"
+  },
+  {
+   "id": "904dadee9756e5d2",
+   "source": "Hacker News",
+   "title": "Superlite: A Faster Alternatie to Superpowers",
+   "url": "https://contextfirst.blog/superlite-hand-an-agent-a-spec/",
+   "summary": "Article URL: https://contextfirst.blog/superlite-hand-an-agent-a-spec/ Comments URL: https://news.ycombinator.com/item?id=50147492 Points: 4 # Comments: 1",
+   "published_at": 1792375276.0,
+   "published_bj": "2026-10-19 10:01"
+  },
+  {
+   "id": "ef6f1f28fd45d51a",
+   "source": "Hacker News",
+   "title": "Footage of the Flock search that a judge ruled was uncosntitutional",
+   "url": "https://www.404media.co/watch-footage-of-the-flock-search-a-judge-ruled-unconstitutional/",
+   "summary": "Article URL: https://www.404media.co/watch-footage-of-the-flock-search-a-judge-ruled-unconstitutional/ Comments URL: https://news.ycombinator.com/item?id=50147455 Points: 20 # Comments: 6",
+   "published_at": 1792374903.0,
+   "published_bj": "2026-10-19 09:55"
   },
   {
    "id": "5f6c65fc8ac3359d",
@@ -254,6 +380,15 @@
    "summary": "IT之家 10 月 19 日消息，据机器人前瞻 10 月 18 日报道，杭州具身大脑企业 格物通智 完成近亿元天使轮融资，投资方包括鸿富资产、匹克投资、杭州资本、杭州人才集团、某省级具身产投及多家头部上市公司。 本轮融资资金将主要用于物理反演世界模型的大规模预训练与技术迭代、硬件与本体构建等，加快人才引进和规模扩充，并推进多个场景 PoC 验证（概念验证）和真实数据采集。 公开资料显示，格物通智成立于 2026 年，面向真实产业场景研发自进化的灵巧操作智能，致力于通过 “世界模型 +PSI 物理自进化” 技术体系，为机器人提供有“手感”的具身大脑。 格物通智创始人兼 CEO 蔡佳，博士毕业于西",
    "published_at": 1792372776.0,
    "published_bj": "2026-10-19 09:19"
+  },
+  {
+   "id": "f37c2f6f8dc8f1a4",
+   "source": "Hacker News",
+   "title": "Starcraft: Ashfall",
+   "url": "https://starcraft-shooter-2026.pages.dev/",
+   "summary": "Article URL: https://starcraft-shooter-2026.pages.dev/ Comments URL: https://news.ycombinator.com/item?id=50147233 Points: 13 # Comments: 5",
+   "published_at": 1792372682.0,
+   "published_bj": "2026-10-19 09:18"
   },
   {
    "id": "bdbf16d0d3b8576a",
@@ -469,6 +604,15 @@
    "url": "https://colo.to/cyberspace.html",
    "summary": "Article URL: https://colo.to/cyberspace.html Comments URL: https://news.ycombinator.com/item?id=50146625 Points: 5 # Comments: 2",
    "published_at": 1792366677.0,
+   "published_bj": "2026-10-19 07:37"
+  },
+  {
+   "id": "3bf44c47b1076444",
+   "source": "Hacker News",
+   "title": "How Quickly Can the DoD Rebuild and Recast the Munitions Industrial Base?",
+   "url": "https://www.csis.org/analysis/how-quickly-can-dod-rebuild-and-recast-munitions-industrial-base",
+   "summary": "Article URL: https://www.csis.org/analysis/how-quickly-can-dod-rebuild-and-recast-munitions-industrial-base Comments URL: https://news.ycombinator.com/item?id=50146624 Points: 13 # Comments: 0",
+   "published_at": 1792366674.0,
    "published_bj": "2026-10-19 07:37"
   },
   {
