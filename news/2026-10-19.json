@@ -1,7 +1,7 @@
 {
  "date": "2026-10-19",
- "generated_at": 1792429760.7750769,
- "count": 386,
+ "generated_at": 1792432173.8082294,
+ "count": 387,
  "items": [
   {
    "id": "fe8fbd24745e89cc",
@@ -388,6 +388,15 @@
    "url": "https://www.ithome.com/1/015/017.htm",
    "summary": "IT之家 10 月 19 日消息，据游戏媒体 IGN 今天报道，《使命召唤》联合创始人文斯 · 赞佩拉在一场车祸中不幸离世。本周《使命召唤：现代战争 4》开启体验后，玩家发现他的名字在制作人员中出现。 IT之家从原报道获悉，完成游戏最后一个任务后，玩家会在片尾名单播放到一半时看到致敬内容， 赞佩拉等工作人员的名字率先出现在屏幕上 。 据悉，赞佩拉在《使命召唤》系列游戏中发挥了至关重要的作用，他此前曾负责《荣誉勋章：联合袭击》设计工作，随后离开 EA 着手打造《使命召唤》。在那以后他再次回到 EA 并创立重生娱乐，后来开发《泰坦陨落》等系列游戏。",
    "published_at": 1792415253.0,
+   "published_bj": "2026-10-19 21:07"
+  },
+  {
+   "id": "5fc2f74c31eb608a",
+   "source": "Hacker News",
+   "title": "Show HN: I built a task system to handle the drudgery so I could focus on tasks",
+   "url": "https://3anddoneapp.com/try",
+   "summary": "I'm a software engineer from the east coast (who has lived in Boston, NY, the bay area, UK, France), and I built a task system called 3 & Done. It's the place you trust to store everything you need to do. It accepts voice input for rapid entry, as well as text (it stores the audio locally so you can",
+   "published_at": 1792415227.0,
    "published_bj": "2026-10-19 21:07"
   },
   {

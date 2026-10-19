@@ -1,7 +1,7 @@
 {
  "date": "2026-10-20",
- "generated_at": 1792429760.7713037,
- "count": 10,
+ "generated_at": 1792432173.8059552,
+ "count": 15,
  "items": [
   {
    "id": "798f6b581f154f0c",
@@ -31,6 +31,33 @@
    "published_bj": "2026-10-20 02:22"
   },
   {
+   "id": "0da85365fa352d32",
+   "source": "TechCrunch",
+   "title": "Rivian’s CEO says autonomy will enable ‘dramatically different’ vehicle designs",
+   "url": "https://techcrunch.com/2026/10/19/rivians-ceo-says-autonomy-will-enable-dramatically-different-vehicle-designs/",
+   "summary": "His vision will culminate with the R4 vehicle.",
+   "published_at": 1792431591.0,
+   "published_bj": "2026-10-20 01:39"
+  },
+  {
+   "id": "01cc7e4de4087788",
+   "source": "Hacker News",
+   "title": "Europe EV sales rose 70.3% in September, 32.6% of market share",
+   "url": "https://www.reuters.com/business/europe-ev-sales-rose-70-september-almost-30-market-share-2026-10-19/",
+   "summary": "Article URL: https://www.reuters.com/business/europe-ev-sales-rose-70-september-almost-30-market-share-2026-10-19/ Comments URL: https://news.ycombinator.com/item?id=50155291 Points: 22 # Comments: 0",
+   "published_at": 1792431026.0,
+   "published_bj": "2026-10-20 01:30"
+  },
+  {
+   "id": "e2ed35e9760a1094",
+   "source": "Hacker News",
+   "title": "Inception \"Mercury 3\", 1000 tok/s diffusion LLM",
+   "url": "https://www.inceptionlabs.ai/blog/introducing-mercury-3",
+   "summary": "Article URL: https://www.inceptionlabs.ai/blog/introducing-mercury-3 Comments URL: https://news.ycombinator.com/item?id=50155245 Points: 23 # Comments: 4",
+   "published_at": 1792430831.0,
+   "published_bj": "2026-10-20 01:27"
+  },
+  {
    "id": "5a2f971bc4b881e7",
    "source": "InfoQ中文",
    "title": "Kubernetes多集群项目Karmada完成CNCF毕业",
@@ -38,6 +65,15 @@
    "summary": "点击查看原文>",
    "published_at": 1792430580.0,
    "published_bj": "2026-10-20 01:23"
+  },
+  {
+   "id": "2e95a3d7dba3ec0b",
+   "source": "Hacker News",
+   "title": "Evidence (YC S21) Is Hiring Software Engineers",
+   "url": "https://evidence.dev/jobs",
+   "summary": "Article URL: https://evidence.dev/jobs Comments URL: https://news.ycombinator.com/item?id=50155172 Points: 0 # Comments: 0",
+   "published_at": 1792430493.0,
+   "published_bj": "2026-10-20 01:21"
   },
   {
    "id": "ca28b7681104d30c",
@@ -74,6 +110,15 @@
    "summary": "Fed up with ads, tracking and sluggish interfaces, some smart TV owners are turning to AI agents to strip away bloatware and take back control of their TVs.",
    "published_at": 1792426402.0,
    "published_bj": "2026-10-20 00:13"
+  },
+  {
+   "id": "d9f077b3a0d35353",
+   "source": "Hacker News",
+   "title": "Pentulive (Puppy Live) [video]",
+   "url": "https://yle.fi/t/18-332106/fi",
+   "summary": "Article URL: https://yle.fi/t/18-332106/fi Comments URL: https://news.ycombinator.com/item?id=50154147 Points: 4 # Comments: 0",
+   "published_at": 1792426150.0,
+   "published_bj": "2026-10-20 00:09"
   },
   {
    "id": "2e5db9eb4575cf6e",
