@@ -1,7 +1,7 @@
 {
  "date": "2026-10-19",
- "generated_at": 1792439587.6453989,
- "count": 393,
+ "generated_at": 1792441568.718622,
+ "count": 394,
  "items": [
   {
    "id": "fe8fbd24745e89cc",
@@ -1109,6 +1109,15 @@
    "summary": "IT之家 10 月 19 日消息，据汽车媒体 Motor1 今天报道，美国造车新势力 Rivian 最近启动自动驾驶早期体验计划，邀请小部分车主体验点对点辅助驾驶功能。 IT之家从原报道获悉，所有订阅 Autonomy+ 付费服务的第二代 R1 或 R2 车主均可申请加入计划。Rivian 正按计划推进开发工作，目标年底前向公众推出首个测试版本，并在 2027 年进一步扩大覆盖范围。 Rivian 表示，点对点辅助驾驶功能基于 Universal Hands-Free 系统打造。启用该功能后，车辆能实现的不只是保持车道行驶，而是能够自行完成道路汇入、转向等操作，进行完整的辅助驾驶。 不过需要注",
    "published_at": 1792401225.0,
    "published_bj": "2026-10-19 17:13"
+  },
+  {
+   "id": "dc7e0af783a72213",
+   "source": "Hacker News",
+   "title": "I built a drone with only one motor [video]",
+   "url": "https://www.youtube.com/watch?v=Ndftcft6XhU",
+   "summary": "Article URL: https://www.youtube.com/watch?v=Ndftcft6XhU Comments URL: https://news.ycombinator.com/item?id=50150089 Points: 117 # Comments: 15",
+   "published_at": 1792400707.0,
+   "published_bj": "2026-10-19 17:05"
   },
   {
    "id": "b5560af5d5434966",
