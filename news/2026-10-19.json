@@ -1,7 +1,7 @@
 {
  "date": "2026-10-19",
- "generated_at": 1792384305.2217286,
- "count": 138,
+ "generated_at": 1792386825.7166858,
+ "count": 169,
  "items": [
   {
    "id": "7e4f3cbba118726f",
@@ -47,6 +47,285 @@
    "summary": "点击查看原文>",
    "published_at": 1792401600.0,
    "published_bj": "2026-10-19 17:20"
+  },
+  {
+   "id": "24f6d0e5a3cd10a5",
+   "source": "cnBeta",
+   "title": "天猫总裁回应双11热度不复以往声音：不可能退回粗暴打5折",
+   "url": "https://www.cnbeta.com.tw/articles/tech/1582854.htm",
+   "summary": "天猫正式官宣今年双11大促将于10月20日晚8点准时开启正式售卖。大促开卖前夕，天猫总裁家洛、双11项目负责人暮珊共同接受媒体群访时表示，经过这么多年的沉淀，双11早已经成为中国消费者约定俗成的年度消费习惯。 阅读全文",
+   "published_at": 1792386715.0,
+   "published_bj": "2026-10-19 13:11"
+  },
+  {
+   "id": "b756862870be2d95",
+   "source": "cnBeta",
+   "title": "演员吴越怒斥AI伪造视频冒名带货 微信视频号回应：账号已永久封禁",
+   "url": "https://www.cnbeta.com.tw/articles/tech/1582852.htm",
+   "summary": "演员吴越昨日在社交平台公开发声，质问微信视频号“花姐美肤日记”利用AI伪造内容，冒名带货。吴越表示：“一觉醒来，谁在利用AI肆意抓人替自己作恶？这位花姐你骗了多少人的钱？请如数奉还！太恶劣！” 阅读全文",
+   "published_at": 1792386644.0,
+   "published_bj": "2026-10-19 13:10"
+  },
+  {
+   "id": "41589640bebbac17",
+   "source": "cnBeta",
+   "title": "小米SU9 LUX商标进入初审公告阶段 新车或瞄准行政豪华旗舰市场",
+   "url": "https://www.cnbeta.com.tw/articles/tech/1582850.htm",
+   "summary": "第1986期商标公告显示，小米SU9 LUX商标已进入初步审定阶段，异议期限自2026年06月07日至2026年09月06日止。据多位博主分享，小米SU9 LUX就是此前曝光的小米SU7L车型，有望瞄准行政豪华旗舰市场。 阅读全文",
+   "published_at": 1792386625.0,
+   "published_bj": "2026-10-19 13:10"
+  },
+  {
+   "id": "b5835b68983a1523",
+   "source": "IT之家",
+   "title": "研究发现：AI 可篡改人类记忆，植入从未发生的虚假事件",
+   "url": "https://www.ithome.com/1/014/768.htm",
+   "summary": "IT之家 10 月 19 日消息，据 Washington Post 报道，研究发现，AI 可篡改人类记忆。这项实验一开始准备了 24 张普通照片：婚礼、城市街道、赛跑场景。麻省理工学院媒体实验室教授帕蒂 · 梅斯（Pattie Maes）和同事把这些照片展示给了 200 名受试者。 短暂休息后，一部分人再次看到原图；另一部分人看到经过 AI 修改的版本 —— 人物面部表情被改动、画面中新增军人形象，或是添加气候变化相关景象。 随后研究人员开展记忆测试。 梅斯看到结果时感到震惊： 观看 AI 篡改图片的受试者，产生错误记忆的概率大幅上升 。更严重的是，她表示，他们对这些虚假记忆的自信程度反而更",
+   "published_at": 1792386493.0,
+   "published_bj": "2026-10-19 13:08"
+  },
+  {
+   "id": "49540fe89c3e54a2",
+   "source": "cnBeta",
+   "title": "未来买东西不用自己砍价？Anthropic正在研究让AI替人谈判",
+   "url": "https://www.cnbeta.com.tw/articles/tech/1582848.htm",
+   "summary": "据《金融时报》报道，Anthropic正与法律界人士探讨如何让AI智能体代表用户谈判，在争取更好交易条件的同时遵循合理的谈判规则。两名了解Anthropic想法的人士透露，该公司正在向律师事务所寻求建议，希望了解律师如何在维护客户利益的同时，兼顾公平的谈判结果。Anthropic拒绝就此置评。 阅读全文",
+   "published_at": 1792386492.0,
+   "published_bj": "2026-10-19 13:08"
+  },
+  {
+   "id": "54350e1ccf2bd496",
+   "source": "IT之家",
+   "title": "水月雨发布轻巧豆 Dots 无线降噪耳机：异形球腔体，399 元起",
+   "url": "https://www.ithome.com/1/014/767.htm",
+   "summary": "IT之家 10 月 19 日消息，水月雨今日发布轻巧豆 Dots 无线降噪耳机，将于 10 月 20 日 20:00 上架， 售价 399 元起 ： 黑色 / 米色常规款：399 元 粉色特别款：429 元 IT之家获悉，这款新品采用异形球腔体，更好适配不同耳道；搭载 22nm 智能主控，支持多项智能功能，兼顾低功耗与长续航，耳机单次续航 8 小时，配合充电仓续航额外增加 28 小时。 这款耳机支持自适应主动降噪，可实时感知耳道状态，动态补偿环境噪声；搭载原木球顶异阻尼 10mm 动圈单元，支持 LHDC V、LC3 低延迟高清音频传输；采用蓝牙 6.0，支持双设备连接。",
+   "published_at": 1792386477.0,
+   "published_bj": "2026-10-19 13:07"
+  },
+  {
+   "id": "20f3c68d39a2ed29",
+   "source": "IT之家",
+   "title": "高通骁龙 X2 Plus 六核处理器版微软 Surface Pro、Surface Laptop 开启预售",
+   "url": "https://www.ithome.com/1/014/766.htm",
+   "summary": "IT之家 10 月 19 日消息，Microsoft（微软）现已启动 基于高通骁龙 X2 Plus 六核处理器 的 Surface Pro, 12 英寸 (第 2 代) 二合一设备、Surface Laptop, 13 英寸 (第 2 代) 笔记本电脑的预售。 Surface Pro, 12 英寸 (第 2 代) 16GB + 256GB：9,188 元（官方商城）； 16GB + 512GB：8,488 元（第三方电商平台） / 9,988 元（官方商城）； 16GB + 512GB + 键盘盖：9,488 元（第三方电商平台）； 16GB + 512GB + 键盘盖 + 触控笔：10,28",
+   "published_at": 1792386470.0,
+   "published_bj": "2026-10-19 13:07"
+  },
+  {
+   "id": "ff43fc5adb0edc7d",
+   "source": "cnBeta",
+   "title": "供电要等到2030年代 微软被曝退出英国数据中心项目",
+   "url": "https://www.cnbeta.com.tw/articles/tech/1582846.htm",
+   "summary": "10月19日，据路透社援引英国《每日电讯报》报道，微软已退出与英国云服务商Nscale的一项数据中心合作，近期终止了位于英国埃塞克斯郡劳顿（Loughton）的数据中心协议。微软是Nscale最大的两家客户之一。 阅读全文",
+   "published_at": 1792386460.0,
+   "published_bj": "2026-10-19 13:07"
+  },
+  {
+   "id": "d5912b2dcf19ddcf",
+   "source": "IT之家",
+   "title": "沐瞳科技向 2000 多名员工每人发 5 克黄金手链，离职员工也有份",
+   "url": "https://www.ithome.com/1/014/765.htm",
+   "summary": "IT之家 10 月 19 日消息，沐瞳科技 10 月 16 日发布公告，为纪念《决胜巅峰》（MLBB）十周年， 向员工发放 24K 纯金纪念手链（5 克） ，人手一条。 公告明确“不看段位，不设排位”，即不看绩效、不看职级，刚转正的实习生同样有份。 据披露， 此次发放范围覆盖超 2,000 名员工，总计约 10 公斤黄金，价值达千万元级别 ，手链为周大福定制款。 此外，沐瞳人力资源团队此前邮件确认，只要 1 月 30 日年会当天在职，即便目前已离职，也具备领取资格。 沐瞳科技成立于 2014 年，是东南亚热门 MOBA 游戏《无尽对决》的开发商。字节跳动 2021 年通过其游戏部门“朝夕光年”",
+   "published_at": 1792386445.0,
+   "published_bj": "2026-10-19 13:07"
+  },
+  {
+   "id": "01863ea4aed53584",
+   "source": "cnBeta",
+   "title": "来自菲律宾的“女菩萨” 想用OnlyFans赚钱盖学校",
+   "url": "https://www.cnbeta.com.tw/articles/movie/1582844.htm",
+   "summary": "不是所有的超级英雄都穿制服，有时候他们什么都不穿。就比如这位拥有超过300万名Instagram粉丝，并且在成人内容付费平台OnlyFans上月入六位数的菲律宾网红Maeurn Smiles。在OnlyFans上，她以一种堪称“线上女友体验”的服务，颇受订阅者欢迎。 阅读全文",
+   "published_at": 1792386295.0,
+   "published_bj": "2026-10-19 13:04"
+  },
+  {
+   "id": "3f1315415074edc8",
+   "source": "cnBeta",
+   "title": "DeepSeek API已支持网页搜索和抓取 每1000次成功请求5元",
+   "url": "https://www.cnbeta.com.tw/articles/tech/1582842.htm",
+   "summary": "10月19日，DeepSeek昨日发布公告，DeepSeek API现已支持网页搜索与抓取，按请求次数计费，单价为每1000次成功请求5元。 阅读全文",
+   "published_at": 1792386258.0,
+   "published_bj": "2026-10-19 13:04"
+  },
+  {
+   "id": "6c7df3429bcf98e2",
+   "source": "cnBeta",
+   "title": "苹果HomeView跳票近两年后发布 因AI危机缺少可用Siri",
+   "url": "https://www.cnbeta.com.tw/articles/tech/1582840.htm",
+   "summary": "10月19日，彭博社知名苹果记者马克·古尔曼(Mark Gurman)周日发文称，虽然Apple Intelligence家居中枢设备HomeView最近才发布，但是它的研发早已完成，为了等待配套软件Siri只能在仓库里“吃灰”，硬件已显得过时。 阅读全文",
+   "published_at": 1792386240.0,
+   "published_bj": "2026-10-19 13:04"
+  },
+  {
+   "id": "56f4bd45e9122dd7",
+   "source": "cnBeta",
+   "title": "向西跋涉：中国汽车的欧洲十六年",
+   "url": "https://www.cnbeta.com.tw/articles/tech/1582838.htm",
+   "summary": "路过苏黎世机场，我看见了航站楼正面大楼墙面极氪那块巨大的广告牌，目测一两百平。它立在车来车往的地方，刚出机场打上车，抬起眼皮便能撞见。异国他乡，印象格外深。想来，说德语的、说法语的、说中文的、说英语的，都会看见它。 阅读全文",
+   "published_at": 1792386201.0,
+   "published_bj": "2026-10-19 13:03"
+  },
+  {
+   "id": "4681bed32bf1c83e",
+   "source": "cnBeta",
+   "title": "从记者到千亿富豪 “最牛文科生”赌中奇点",
+   "url": "https://www.cnbeta.com.tw/articles/tech/1582836.htm",
+   "summary": "“奇点已经到来。”10月17日，在曼谷举行的国际货币基金组织（IMF）与世界银行年会期间，Anthropic联合创始人杰克·克拉克（Jack Clark）登上佩尔·雅各布森讲座的演讲台，抛出了这个判断。他向台下的经济学家与政策制定者描绘了一个未来：一位人类科学家，可以带领成百上千名AI科学家同时开展研究。 如今全球只有约千万名科研人员，而未来，可能会出现十亿名虚拟科学家。 阅读全文",
+   "published_at": 1792386084.0,
+   "published_bj": "2026-10-19 13:01"
+  },
+  {
+   "id": "7b041cdb295d8736",
+   "source": "cnBeta",
+   "title": "Anthropic将5%股份注入新型公益基金 用于应对AI带来的就业冲击",
+   "url": "https://www.cnbeta.com.tw/articles/tech/1582834.htm",
+   "summary": "Anthropic于周日宣布，计划将公司5%的股份投入一支新设公益基金；随着公司估值上升，划入基金的持股比例还有可能进一步提高。该方案尚需股东批准。基金初始持有Anthropic5%股份；董事会可自行酌情追加股份：当公司估值较尚未披露的基准值每上涨50%，就额外划拨2%股份。 阅读全文",
+   "published_at": 1792385976.0,
+   "published_bj": "2026-10-19 12:59"
+  },
+  {
+   "id": "9290c320038b11da",
+   "source": "cnBeta",
+   "title": "Windows 11至今仍隐藏着Windows 95的内存管理器 微软保留了数十年前的代码",
+   "url": "https://www.cnbeta.com.tw/articles/tech/1582832.htm",
+   "summary": "Windows 11已经拥有现代化的用户界面、先进的安全机制以及不断增加的人工智能功能，但在操作系统深处，微软仍然保留着一部分来自Windows 95时代的代码。令人意外的是，这些代码并非仅仅作为历史遗留文件留在系统中，而是仍然能够在特定条件下运行，为一些依赖旧式内存管理行为的应用程序提供兼容支持。 阅读全文",
+   "published_at": 1792385493.0,
+   "published_bj": "2026-10-19 12:51"
+  },
+  {
+   "id": "2b3f576cb6bf8c18",
+   "source": "IT之家",
+   "title": "因阻拦配送机器人，美国费城一女子被警方逮捕",
+   "url": "https://www.ithome.com/1/014/764.htm",
+   "summary": "IT之家 10 月 19 日消息，美国费城女子卡罗琳 · 马文（Carolyn Marvin）因阻拦优步配送机器人通行、拒不避让，被警方逮捕并指控行为不检。马文在接受费城 ABC13 电视台采访时表示：“我知道它们正在抢走人类配送员的工作，所以只要见到这些机器人，我就会站在它们前面阻止其前进，以此抗议。” 警方赶到现场，要求马文给机器人让路。她拒绝配合后，警方对其戴上手铐实施逮捕。事件现场视频被拍下，获得大量关注。 当被问及是否计划继续抗议这些机器人时，马文表示她会继续这么做。 “我当然会，为什么不？”马文说，“我认为在人行道上公开示威抗议配送机器人是我的第一修正案权利。” 据IT之家了解，这",
+   "published_at": 1792385477.0,
+   "published_bj": "2026-10-19 12:51"
+  },
+  {
+   "id": "89d82c55bb545f2c",
+   "source": "cnBeta",
+   "title": "数字身份项目World进军金融业 推出银行专用身份验证套件",
+   "url": "https://www.cnbeta.com.tw/articles/tech/1582830.htm",
+   "summary": "由OpenAI首席执行官萨姆·奥尔特曼联合创办的数字身份项目World宣布推出面向银行和金融机构的World ID验证套件。这是该项目首次针对特定行业推出专门产品，目标是帮助金融机构应对日益严重的深度伪造诈骗和AI身份冒用风险。 阅读全文",
+   "published_at": 1792385369.0,
+   "published_bj": "2026-10-19 12:49"
+  },
+  {
+   "id": "e9a504fdc912d30e",
+   "source": "cnBeta",
+   "title": "中国第三季度经济增长回升至4.5% AI热潮带动出口 内需疲软仍是主要挑战",
+   "url": "https://www.cnbeta.com.tw/articles/tech/1582828.htm",
+   "summary": "在全球人工智能产业持续扩张的背景下，中国经济第三季度增速有所回升。人工智能数据中心建设带动芯片、计算设备及相关电子产品需求增长，为中国制造业出口提供了新的动力，帮助这个全球第二大经济体缓解国内消费疲软和房地产市场持续低迷带来的压力。不过，出口表现强劲并不意味着经济各领域已经同步复苏，居民消费、私人投资和房地产市场仍面临挑战。 阅读全文",
+   "published_at": 1792385300.0,
+   "published_bj": "2026-10-19 12:48"
+  },
+  {
+   "id": "4cad03d155375dea",
+   "source": "cnBeta",
+   "title": "《Driveclub》实现原生PC运行 玩家社区让经典PS4独占赛车登陆Windows平台",
+   "url": "https://www.cnbeta.com.tw/articles/game/1582826.htm",
+   "summary": "曾被视为PlayStation 4代表作之一的赛车游戏《Driveclub》，如今首次实现了在Windows电脑上的原生运行。由开发者OverkillLabs3发布在GitHub上的“DriveClub Recomp”项目，使这款2014年由Evolution Studios打造的PS4独占作品能够脱离传统模拟器环境，直接在PC硬件上运行。 阅读全文",
+   "published_at": 1792385248.0,
+   "published_bj": "2026-10-19 12:47"
+  },
+  {
+   "id": "6c643b370747513f",
+   "source": "cnBeta",
+   "title": "英特尔推出拥有最高480GB LPDDR5X的D系列数据中心GPU 主打大模型推理",
+   "url": "https://www.cnbeta.com.tw/articles/tech/1582824.htm",
+   "summary": "英特尔在开放计算项目全球峰会上公布了面向AI推理的GPU D系列，代号Crescent Island，产品页面称为D270。该加速卡最高可配置480GB LPDDR5X显存，英特尔称单卡可承载最多3000亿参数的模型，八卡系统则可运行参数量超过1万亿的模型，目标是处理长上下文和多路并发推理，而非传统游戏图形渲染。 阅读全文",
+   "published_at": 1792385208.0,
+   "published_bj": "2026-10-19 12:46"
+  },
+  {
+   "id": "816433cebec9ebc3",
+   "source": "cnBeta",
+   "title": "稳定币支付规模前九个月增长45%至4820亿美元",
+   "url": "https://www.cnbeta.com.tw/articles/tech/1582822.htm",
+   "summary": "尽管2026年以来稳定币的整体流通规模几乎没有增长，但其在支付领域的使用频率和交易金额却显著上升。区块链数据分析公司Allium的最新数据显示，2026年前九个月，稳定币支付金额达到4820亿美元，同比增长45%；同期支付笔数增长71%，超过10亿笔。这表明，稳定币市场正在出现一种值得关注的变化：推动行业发展的动力，开始更多地来自现有稳定币的实际使用，而不只是发行规模的扩大。 阅读全文",
+   "published_at": 1792385156.0,
+   "published_bj": "2026-10-19 12:45"
+  },
+  {
+   "id": "e76085eed8e2351e",
+   "source": "cnBeta",
+   "title": "科学家发现超低温下仍不脆裂的新型金属合金 在零下253摄氏度保持惊人韧性",
+   "url": "https://www.cnbeta.com.tw/articles/science/1582820.htm",
+   "summary": "国际研究团队发现，两种实验性铌钛基合金在接近绝对零度的极端低温环境下仍能保持极高抗裂能力。这一发现打破了材料科学领域长期以来对金属低温脆化现象的认知，并为未来聚变能源装置、量子计算设备、航天器以及氢能基础设施开发更可靠材料开辟了新方向。 阅读全文",
+   "published_at": 1792384930.0,
+   "published_bj": "2026-10-19 12:42"
+  },
+  {
+   "id": "b883f468d12a864b",
+   "source": "Hacker News",
+   "title": "DeepSeek v4.1 Flash 1017 Scores 45 in Artificial Analysis",
+   "url": "https://artificialanalysis.ai/models/deepseek-v4-1-flash-1017",
+   "summary": "Article URL: https://artificialanalysis.ai/models/deepseek-v4-1-flash-1017 Comments URL: https://news.ycombinator.com/item?id=50148452 Points: 6 # Comments: 1",
+   "published_at": 1792384906.0,
+   "published_bj": "2026-10-19 12:41"
+  },
+  {
+   "id": "7916ff2f82d06116",
+   "source": "cnBeta",
+   "title": "日本理化学研究所实现硅量子比特高精度并行控制 为打造更大规模量子处理器铺路",
+   "url": "https://www.cnbeta.com.tw/articles/science/1582818.htm",
+   "summary": "日本理化学研究所（RIKEN）及其合作团队取得量子计算领域的一项重要进展：研究人员成功在多个硅量子比特同时运行的情况下，将单量子比特量子门的操作保真度维持在较高水平。这项成果有望帮助研究人员利用现有半导体制造技术，构建规模更大、控制更精确的硅基量子处理器。 阅读全文",
+   "published_at": 1792384893.0,
+   "published_bj": "2026-10-19 12:41"
+  },
+  {
+   "id": "25fb6a81957dac55",
+   "source": "cnBeta",
+   "title": "切尔诺贝利六枚放射性燃料颗粒结构仍较完整 研究提示其比预期更稳定",
+   "url": "https://www.cnbeta.com.tw/articles/science/1582816.htm",
+   "summary": "1986年切尔诺贝利核事故发生近40年后，研究人员首次对事故释放的单颗核燃料“热点颗粒”开展完整晶相分析。对6枚微小颗粒的检测发现，部分铀氧化物结构至今仍大体完整，可能继续将裂变产物和锕系元素固定在颗粒内部，意味着这类残骸的化学稳定性可能高于此前估计。 阅读全文",
+   "published_at": 1792384855.0,
+   "published_bj": "2026-10-19 12:40"
+  },
+  {
+   "id": "acc2effd769143b3",
+   "source": "cnBeta",
+   "title": "Linux 7.3正式发布：I/O性能进一步提升 支持AMD Zen 6新平台并强化游戏硬件兼容性",
+   "url": "https://www.cnbeta.com.tw/articles/tech/1582814.htm",
+   "summary": "Linux内核7.3版本于10月18日正式发布。此次更新按照既定计划推出，带来了多项性能优化和硬件支持改进，涉及存储I/O、AMD下一代Zen 6处理器平台、老款AMD显卡、显存管理以及游戏控制器等领域。此外，新版本还纳入了针对部分三星固态硬盘固件问题的兼容性修正，以及修复长期存在的少见系统启动故障的补丁。 阅读全文",
+   "published_at": 1792384796.0,
+   "published_bj": "2026-10-19 12:39"
+  },
+  {
+   "id": "bc17157cc6e03fb5",
+   "source": "cnBeta",
+   "title": "中国团队研发太阳能垃圾桶盖装置 利用阳光分解异味物质 连续工作超40天",
+   "url": "https://www.cnbeta.com.tw/articles/science/1582812.htm",
+   "summary": "在炎热潮湿的地区，户外垃圾桶散发的恶臭一直是困扰城市环境治理的难题。如今，一项由中国科研团队开发的新技术或许能够利用阳光本身来解决这一问题。研究人员设计出一种安装在垃圾桶盖上的太阳能模块，能够借助自然光持续分解产生臭味的化学物质，从源头减少垃圾异味。 阅读全文",
+   "published_at": 1792384743.0,
+   "published_bj": "2026-10-19 12:39"
+  },
+  {
+   "id": "ae5c0957b53990c0",
+   "source": "cnBeta",
+   "title": "Linux内核新漏洞危害极高 多家VPS提供商分批打补丁",
+   "url": "https://www.cnbeta.com.tw/articles/tech/1582810.htm",
+   "summary": "上周末安全公司公布名为 PwnEscape 的新内核漏洞，该漏洞编号 CVE-2026-99999 (还是个靓号)，漏洞位于网络栈并可以实现跨越虚拟机隔离。鉴于漏洞的危害程度极高，多家 VPS 服务器提供商陆续启动紧急维护给宿主机安装补丁并重启物理服务器，所以部分用户会注意到自己的小鸡短暂失联。 阅读全文",
+   "published_at": 1792384668.0,
+   "published_bj": "2026-10-19 12:37"
+  },
+  {
+   "id": "3f1dfdd6b59e7380",
+   "source": "cnBeta",
+   "title": "微软正在Windows 11预览版中测试加速应用启动的新功能",
+   "url": "https://www.cnbeta.com.tw/articles/tech/1582808.htm",
+   "summary": "微软目前正在 Windows 11 预览版中测试名为加速应用启动的新功能，不过该功能目前仅支持 Microsoft Edge 浏览器，按照微软的说法其他应用程序开发者也可以向微软提交申请，在未来已经申请通过的应用在用户启动时都可以更快加载。 阅读全文",
+   "published_at": 1792384576.0,
+   "published_bj": "2026-10-19 12:36"
+  },
+  {
+   "id": "517c6d3502e2ab5f",
+   "source": "Hacker News",
+   "title": "Show HN: Strot – Compile an LLM's intent once, run decisions locally forever",
+   "url": "https://github.com/strot-ai/Project-STROT",
+   "summary": "Article URL: https://github.com/strot-ai/Project-STROT Comments URL: https://news.ycombinator.com/item?id=50148396 Points: 9 # Comments: 1",
+   "published_at": 1792384327.0,
+   "published_bj": "2026-10-19 12:32"
   },
   {
    "id": "2f22ec640d4a428f",
