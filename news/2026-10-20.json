@@ -1,8 +1,98 @@
 {
  "date": "2026-10-20",
- "generated_at": 1792451080.22536,
- "count": 44,
+ "generated_at": 1792453753.7984512,
+ "count": 54,
  "items": [
+  {
+   "id": "4ebb110d14aef3c0",
+   "source": "IT之家",
+   "title": "消息称谷歌前 CEO 施密特持有 Anthropic 1% 股份，将因后者 IPO 收获巨额回报",
+   "url": "https://www.ithome.com/1/015/077.htm",
+   "summary": "IT之家 10 月 20 日消息，据彭博社报道，知情人士透露，谷歌前首席执行官埃里克 · 施密特（Eric Schmidt）凭借对初创公司 Anthropic 的早期投资，持有该公司约 1% 的股份。一旦这家企业登陆公开市场，这笔投资将成为个人投资者中收益最高的几笔投资之一。 不愿具名的消息人士称，施密特在 Anthropic 的 A 轮融资中投入了数千万美元。目前尚不清楚在首轮投资之后，他是否出售过部分股权。 市场高度期待的 Anthropic 首次公开募股，将为其员工与投资者带来巨额回报。根据上一轮融资估值，这家初创企业的七位联合创始人每人身家已达 80 亿美元 （IT之家注：现汇率约合 ",
+   "published_at": 1792453636.0,
+   "published_bj": "2026-10-20 07:47"
+  },
+  {
+   "id": "e19bcc792141451d",
+   "source": "IT之家",
+   "title": "苹果首款折叠 iPhone Duo 供货现缓解信号：部分订单从 12 月提前至 10 月",
+   "url": "https://www.ithome.com/1/015/076.htm",
+   "summary": "IT之家 10 月 20 日消息，科技媒体 MacRumors 今天（10 月 20 日）发布博文， 报道称从部分用户晒出的订单交付日期来看，苹果已缓解首款折叠 iPhone Duo 供货压力。 IT之家此前报道，苹果首款折叠 iPhone Duo 首销火爆，10 月 16 日开启预购仅数小时，苹果官网年内可交付的货源便被抢购一空。苹果原本承诺在 10 月 23 日交付 iPhone Duo，但开放订购仅数小时， 官网预计交货时间便推迟至明年 1 月 25 日。 同时，美国移动运营商接到的新订单也面临交付延期。 不过根据用户近期晒出的订单截图，苹果在美国、日本等市场缩短部分预购订单的预计送达日",
+   "published_at": 1792453303.0,
+   "published_bj": "2026-10-20 07:41"
+  },
+  {
+   "id": "8736af874fe432eb",
+   "source": "IT之家",
+   "title": "仅重 1 克：中国科学家研制出世界最轻无线介观显微镜，成果登《自然》",
+   "url": "https://www.ithome.com/1/015/075.htm",
+   "summary": "IT之家 10 月 20 日消息，据新华社报道，中国科学家研制出目前已知世界最轻无线介观显微镜， 重量仅 1 克 ，可在 6 毫米视场内以单细胞分辨率记录小鼠大脑皮层的神经活动，单只小鼠可同时记录 8500 多个神经元，是现有同类型设备的 25 倍。这一重要成果 19 日晚在线发表于国际期刊《自然》。 在多只动物自由运动和社交时，以单细胞分辨率同时记录大范围脑区中的大量神经元，有望揭示大脑对于复杂行为的调控机理。然而，现有能分辨单个神经元的显微镜，虽能看得清大范围皮层，仍需将小鼠头部固定在仪器下或用线缆将其“拴”住，一旦如此，会让动物难以自由活动，阻碍了自然状态下对动物神经和行为的研究。 中国",
+   "published_at": 1792453222.0,
+   "published_bj": "2026-10-20 07:40"
+  },
+  {
+   "id": "6bd144cdf77b658c",
+   "source": "TechCrunch",
+   "title": "Nscale and Anthropic are reportedly in talks for yet another $45 billion compute deal",
+   "url": "https://techcrunch.com/2026/10/19/nscale-and-anthropic-are-reportedly-in-talks-for-yet-another-45-billion-compute-deal/",
+   "summary": "In August, Nscale and Anthropic announced a $45 billion compute deal. The two companies are reportedly discussing yet another deal of the same magnitude.",
+   "published_at": 1792453178.0,
+   "published_bj": "2026-10-20 07:39"
+  },
+  {
+   "id": "6be21424d4dfb464",
+   "source": "IT之家",
+   "title": "日本演员工会发布 AI 语音使用准则，龙珠悟空配音演员怒批 AI 盗用其声音",
+   "url": "https://www.ithome.com/1/015/074.htm",
+   "summary": "IT之家 10 月 20 日消息，随着生成式 AI 给各行各业创作者带来越来越多的困扰，日本配音演员正在寻找属于自己的方式，抵制他人未经授权使用他们的声音。上周，代表日本配音演员的工会发布了一份 AI 使用相关准则，不少配音演员也讲述了这项技术给他们个人与职业带来的困境。 IT之家注意到，多年来，日本配音演员一直在抵制未经许可盗用自身声音的行为。2024 年，一批配音演员联合成立组织，抗议 AI 声音的滥用，他们特别指出，相关领域缺少版权法律保护。曾为《进击的巨人》《电锯人》《游戏王》配音的津田健次郎（Kenjiro Tsuda），甚至就社交媒体大量使用其声音的视频起诉了 TikTok，不过在",
+   "published_at": 1792453170.0,
+   "published_bj": "2026-10-20 07:39"
+  },
+  {
+   "id": "b4a818785c5e454e",
+   "source": "IT之家",
+   "title": "听歌支持动态氛围光：苹果第二代 HomePod 等扩展支持“音乐律动灯效”",
+   "url": "https://www.ithome.com/1/015/073.htm",
+   "summary": "IT之家 10 月 20 日消息，消息源 @itspdfu 今天（10 月 20 日）在 X 平台发布推文，报道称在适用于 HomePod 的 27.2 RC 更新中， 苹果公司扩展 HomePod mini 2 的“音乐律动灯效”（Sound Glow）功能，覆盖第二代 HomePod 和初代 HomePod mini。 IT之家查询苹果中国官网，在 HomePod mini 2 产品页中，暂未发现 Sound Glow 功能，也没有给出对应的中文译名。在功能方面，Sound Glow 功能指的是音箱顶部随音乐节奏变色、明暗律动的效果，这里暂译为“音乐律动灯效”。 该功能的看点之一，是把专辑",
+   "published_at": 1792452660.0,
+   "published_bj": "2026-10-20 07:31"
+  },
+  {
+   "id": "24f50de96de0091d",
+   "source": "IT之家",
+   "title": "Steam 新品节充斥低质 AI 游戏，玩家呼吁平台新增 AI 内容筛选功能",
+   "url": "https://www.ithome.com/1/015/072.htm",
+   "summary": "IT之家 10 月 20 日消息，Valve 面向独立游戏与试玩版的活动 Steam 新品节（Steam Next Fest）已经开幕，尽管历届新品节都会涌入大量粗制滥造的游戏，但本届这类作品的数量似乎比以往更多。 浏览新品节页面，很容易就能发现大量游戏的美术风格看起来就像是通过简单的 ChatGPT 提示词生成的。随着 Claude Opus 5.5 发布，过去几周围绕其出现大量反编译与混搭模组，大量游戏要么使用 AI 生成图做宣传素材，要么直接由 AI 生成，这一现象并不出人意料。 IT之家注意到，不少 Steam 玩家对此感到不满，他们需要在海量 AI 生成游戏里筛选人类亲手制作的作品。",
+   "published_at": 1792452346.0,
+   "published_bj": "2026-10-20 07:25"
+  },
+  {
+   "id": "5bab473a28e78e5c",
+   "source": "IT之家",
+   "title": "英伟达官宣新突破：创纪录量子容错计算模拟所需物理比特减少 90%",
+   "url": "https://www.ithome.com/1/015/071.htm",
+   "summary": "IT之家 10 月 20 日消息，当地时间 10 月 19 日，英伟达宣布在德国于利希超级计算中心（Jülich Supercomputing Centre）开展了创纪录的容错量子计算模拟。 英伟达研究人员利用欧洲最大规模超级计算机 JUPITER（木星）完成此次模拟，这是一个基于英伟达 GH200 超级芯片组成的系统。本次使用 8192 块 GPU 完成 104 量子比特容错量子计算模拟，是迄今为止针对容错量子计算系统所进行的最大规模综合模拟。 该模拟使研究人员能够全面探索并验证“魔态培育”（Magic State Cultivation），与以往的方法相比， 它所消耗的物理量子比特数量减少",
+   "published_at": 1792452314.0,
+   "published_bj": "2026-10-20 07:25"
+  },
+  {
+   "id": "78c9d2fbfb9ba9be",
+   "source": "IT之家",
+   "title": "4 台 HomePod 组苹果最强家庭影院，tvOS 27.2 新环绕声功能进入倒计时",
+   "url": "https://www.ithome.com/1/015/070.htm",
+   "summary": "IT之家 10 月 20 日消息，消息源 @itspdfu 今天（10 月 20 日）在 X 平台发布推文，爆料称在 tvOS / HomePod Software 27.2 RC 候选版本中， 苹果公司为着手为 Apple TV 4K（第四代）添加四扬声器环绕声功能。 根据消息源披露的信息，苹果这套家庭影院方案提供三种搭配： 四台 HomePod mini 2 四台第二代 HomePod 两台第二代 HomePod 加两台 HomePod mini 2。 用户可以混用大小两款音箱，但每一对必须使用相同型号，并非任意四台 HomePod 都能组合。 四台第二代 HomePod 两台第二代 Ho",
+   "published_at": 1792451694.0,
+   "published_bj": "2026-10-20 07:14"
+  },
+  {
+   "id": "afb13a46420cde58",
+   "source": "IT之家",
+   "title": "微软警示前沿 AI 模型不可信：AI 智能体堪比内部威胁，推出 Guardian Agents 防护方案",
+   "url": "https://www.ithome.com/1/015/069.htm",
+   "summary": "IT之家 10 月 20 日消息，微软于当地时间周一推出了多项全新安全功能，旨在帮助企业抵御日益严峻的智能体带来的安全威胁。发布该产品之际，微软持续向企业警示人工智能与智能体存在的各类风险。 IT之家注意到，本次新增功能中最受关注的当属守护智能体（Guardian Agents），这项新功能用于监控企业内部正在使用的各类 AI 智能体。守护智能体隶属于感知项目（Project Perception），感知项目是微软在 6 月推出的产品。 感知项目是微软针对 Anthropic 的 Mythos、Fable 等强大黑客模型，以及 OpenAI 的安全漏洞扫描系统破晓（Daybreak）所给出的应",
+   "published_at": 1792451612.0,
+   "published_bj": "2026-10-20 07:13"
+  },
   {
    "id": "fba0bee5446f4aff",
    "source": "IT之家",
