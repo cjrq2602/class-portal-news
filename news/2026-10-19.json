@@ -1,7 +1,7 @@
 {
  "date": "2026-10-19",
- "generated_at": 1792410909.5164971,
- "count": 330,
+ "generated_at": 1792413142.008025,
+ "count": 335,
  "items": [
   {
    "id": "7448bf17403e66e6",
@@ -29,6 +29,33 @@
    "summary": "点击查看原文>",
    "published_at": 1792418400.0,
    "published_bj": "2026-10-19 22:00"
+  },
+  {
+   "id": "556613f3960497dc",
+   "source": "IT之家",
+   "title": "MiniMax M3.1 Flash 上线：速度提升 3 倍，价格降低 70%",
+   "url": "https://www.ithome.com/1/015/013.htm",
+   "summary": "IT之家 10 月 19 日消息，稀宇科技今日宣布 MiniMax M3.1 Flash 模型上线，此前以匿名身份处理了超过 200T Token 的 Space Bunny，正是 MiniMax M3.1 Flash 的早期版本。作为新一代 Flash 模型，M3.1 Flash 在 Agentic 任务、编程、Computer Use 及网络安全能力等方面实现了代际的提升，同时线上推理速度提升了近 3 倍， 使用成本降低了 70% 。 据介绍，M3.1 Flash 在多项基准测试中取得了全面进步，在复杂 Agent 任务 (Cowork)、Computer Use、软件开发 (Coding",
+   "published_at": 1792412445.0,
+   "published_bj": "2026-10-19 20:20"
+  },
+  {
+   "id": "adb37893da1ce251",
+   "source": "IT之家",
+   "title": "荣耀 WIN2 系列众测招募开启：至高搭载第六代骁龙 8 超级至尊版，30 台名额",
+   "url": "https://www.ithome.com/1/015/012.htm",
+   "summary": "IT之家 10 月 19 日消息， 荣耀俱乐部今日宣布 WIN2 系列众测招募开启，新机至高搭载第六代骁龙 8 超级至尊版 + 双风扇散热，2K 185Hz 电竞屏 + 万级大电池，共计 30 台名额。 IT之家注意到，荣耀 WIN2 系列新机包含 荣耀 WIN2、荣耀 WIN RT2、荣耀 WIN Turbo2 等机型，预计分别搭载第六代骁龙 8 超级至尊版、第五代骁龙 8 至尊版、骁龙 8s Gen4（待最终确认）。此外，新机还配备 6.89 英寸 2K 185Hz LTPS OLED 直屏，超 10000mAh 电池。 荣耀 WIN2 系列手机、WIN 平板将于 10 月 21 日 在荣",
+   "published_at": 1792412007.0,
+   "published_bj": "2026-10-19 20:13"
+  },
+  {
+   "id": "592781017531d6e3",
+   "source": "IT之家",
+   "title": "经典模拟经营 IP 新作《海岛大亨 7》试玩 Demo 免费登陆 Steam，支持简体中文",
+   "url": "https://www.ithome.com/1/015/011.htm",
+   "summary": "IT之家 10 月 19 日消息，Kalypso Media 招牌模拟经营系列新作《海岛大亨 7》（ Tropico 7 ）的试玩 Demo 现已免费上架 Steam 平台，玩家可以提前体验部分游戏内容。游戏本体计划将于 2027 年 1 月 28 日正式发售，由 Gaming Minds Studios 开发，Kalypso Media 发行。IT之家附游戏商品页（ https://store.steampowered.com/app/1853440/Tropico_7/ ?l=schinese&amp;cc=cn ）。 富贵险中求！在《海岛大亨 7》中，你将再次套进总统那双锃亮的靴子，亲手",
+   "published_at": 1792411992.0,
+   "published_bj": "2026-10-19 20:13"
   },
   {
    "id": "d16acee87a729b70",
@@ -164,6 +191,24 @@
    "summary": "IT之家 10 月 19 日消息，外媒 Notebookcheck 在实际测试华硕 Googlebook 14 和惠普 Googlebook 14c 后发现，两款设备目前均只能使用 sRGB 色彩空间，色彩准确度也不够理想，部分屏幕表现与宣传存在差距。 外媒表示，尽管上述两款产品面板理论上支持 P3 色彩空间，但用户无法通过在相应机型的系统设置切换到 P3 色彩空间。相比之下，许多搭载 OLED 屏幕的 Windows 笔记本出厂时便提供 sRGB 和 P3 等不同色彩配置文件，既能满足日常使用中的准确显示需求，也方便用户进行照片和图像编辑。这导致相应机型目前不太适合进行修图等工作。 ▲ 华硕",
    "published_at": 1792408330.0,
    "published_bj": "2026-10-19 19:12"
+  },
+  {
+   "id": "30d7c901d5154233",
+   "source": "Hacker News",
+   "title": "ESA's Hera Will View Asteroid Scars from DART's Strike",
+   "url": "https://spectrum.ieee.org/esa-hera-dimorphos-rendezvous",
+   "summary": "Article URL: https://spectrum.ieee.org/esa-hera-dimorphos-rendezvous Comments URL: https://news.ycombinator.com/item?id=50150935 Points: 10 # Comments: 0",
+   "published_at": 1792408322.0,
+   "published_bj": "2026-10-19 19:12"
+  },
+  {
+   "id": "d678bc4404046889",
+   "source": "Hacker News",
+   "title": "Alternatives to Animal Testing Are Finally Taking Off",
+   "url": "https://spectrum.ieee.org/alternatives-to-animal-testing",
+   "summary": "Article URL: https://spectrum.ieee.org/alternatives-to-animal-testing Comments URL: https://news.ycombinator.com/item?id=50150927 Points: 6 # Comments: 0",
+   "published_at": 1792408254.0,
+   "published_bj": "2026-10-19 19:10"
   },
   {
    "id": "62b7aa72635d90d2",
