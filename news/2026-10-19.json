@@ -1,7 +1,7 @@
 {
  "date": "2026-10-19",
- "generated_at": 1792408159.6075408,
- "count": 312,
+ "generated_at": 1792410909.5164971,
+ "count": 330,
  "items": [
   {
    "id": "7448bf17403e66e6",
@@ -31,6 +31,87 @@
    "published_bj": "2026-10-19 22:00"
   },
   {
+   "id": "d16acee87a729b70",
+   "source": "IT之家",
+   "title": "1999 元起 → 2499 元起，荣耀 X80 Pro Max 手机官网涨价",
+   "url": "https://www.ithome.com/1/015/009.htm",
+   "summary": "IT之家 10 月 19 日消息，荣耀 X80 Pro Max 手机现已在官网渠道调价，涨价 500 元， 起售价从 1999 元变为 2499 元 。不过官网目前提供了 180 元优惠券， 实际到手价约为 2319 元起 。 IT之家附 X80 Pro Max 新旧价格对比如下： 8GB+128GB：现价 2499 元，原价 1999 元 8GB+256GB：现价 2699 元，原价 2199 元 8GB+512GB：现价 2999 元，原价 2499 元 12GB+256GB：现价 3099 元 12GB+512GB：现价 3299 元，原价 2799 元 作为参考， 荣耀 X80 Pro",
+   "published_at": 1792410443.0,
+   "published_bj": "2026-10-19 19:47"
+  },
+  {
+   "id": "d8ffea9c20e4e558",
+   "source": "IT之家",
+   "title": "消息称 Galaxy S27 系列手机可能回归“1 月至 2 月”发布节奏，Pro / Ultra 机型有望升级 LPDDR6 及 UFS 5",
+   "url": "https://www.ithome.com/1/015/008.htm",
+   "summary": "IT之家 10 月 19 日消息，消息源 Lanzuk 在 Naver 平台发文，透露三星下一代 Galaxy S27 系列手机可能重新回归以往的“1 月至 2 月”发布节奏，不过目前具体发布日期尚未确定。 Lanzuk 透露，三星原先计划为标准版 Galaxy S27 和 Galaxy S27+ 配备 LPDDR5X 内存与 UFS 4.x 闪存，而 Galaxy S27 Pro 和 Galaxy S27 Ultra 则有望升级至 LPDDR6 内存与 UFS 5 闪存。不过由于内存市场的行情升温程度超出三星预期，因此三星正在重新评估是否要暂缓 Pro 和 Ultra 机型的内存与闪存升级。",
+   "published_at": 1792409992.0,
+   "published_bj": "2026-10-19 19:39"
+  },
+  {
+   "id": "91347a2cb6ab69fc",
+   "source": "IT之家",
+   "title": "顺丰控股：9 月快递物流业务合计营收 287.19 亿元，同比增 6.34%",
+   "url": "https://www.ithome.com/1/015/007.htm",
+   "summary": "IT之家 10 月 19 日消息，顺丰控股今日公告称，2026 年 9 月公司速运物流业务、供应链及国际业务合计营收 287.19 亿元，同比增长 6.34%。 其中速运物流业务营收 208.35 亿元，同比下降 0.09%；业务量 13.95 亿票，同比下降 7.25%；单票收入 14.94 元，同比增长 7.71%， 已连续七个月实现同比回升 ；供应链及国际业务营收 78.84 亿元，同比增长 28.13%。 据介绍，顺丰控股是国内领先的综合性快递物流服务商，主营业务涵盖时效快递、经济快递、快运、冷运及医药、同城即时配送、供应链及国际等多个物流业务板块，为客户提供一站式综合物流服务。 作为",
+   "published_at": 1792409977.0,
+   "published_bj": "2026-10-19 19:39"
+  },
+  {
+   "id": "10d4edadc7e9c3e1",
+   "source": "IT之家",
+   "title": "AMD 锐龙 AI 7 HX 455 处理器曝光：8 核 CPU，16CU GPU",
+   "url": "https://www.ithome.com/1/015/006.htm",
+   "summary": "IT之家 10 月 19 日消息，消息人士 @金猪升级包 稍早前曝光了 AMD 尚未推出的锐龙 AI 7 HX 455 处理器。 从规格上来看，该型号应该基于 \"Gorgon Point 1\" 芯片，保留了完整的 16 核心 GPU，但 CPU 从完整的 12 核心 24 线程降至 8 核心 16 线程， 减少了消费者入手满规格核显的成本 。此外其配备 24MB L3 高速缓存。 消息人士表示，锐龙 AI 7 HX 455 的 兄弟型号是掌机端的锐龙 Z2 Extreme ，而后者的 CPU 架构是 \"3x Zen 5 , 5x Zen 5c\"。",
+   "published_at": 1792409863.0,
+   "published_bj": "2026-10-19 19:37"
+  },
+  {
+   "id": "5e49a12fd7455bd5",
+   "source": "IT之家",
+   "title": "苹果收购 AI 音频编辑公司 Samplab，有望为 Logic Pro 引入更精细的音频编辑功能",
+   "url": "https://www.ithome.com/1/015/005.htm",
+   "summary": "IT之家 10 月 19 日消息，据外媒 Appleinsider 报道，苹果已收购瑞士苏黎世 AI 音频编辑公司 Samplab，根据收购交易清单，苹果将收购 Samplab 的部分资产，并向该公司部分员工提供工作机会。 公开信息显示，Samplab 于 2020 年在瑞士苏黎世成立，创始人为 Manuel Fritsche 和 Gian-Marco Hutter。该公司规模较小，员工人数据信不超过 10 人。根据 LinkedIn 上的资料，甚至目前公司可能只有两位创始人在职。 Samplab 此前将自身定位为“面向 AI 时代的音乐制作”公司。在关闭前，其官方网站曾重点介绍软件的音频编辑",
+   "published_at": 1792409709.0,
+   "published_bj": "2026-10-19 19:35"
+  },
+  {
+   "id": "e4d1b13fcff09c8d",
+   "source": "cnBeta",
+   "title": "三星Galaxy S27系列或明年初回归常规发布节奏 高端机内存升级仍存变数",
+   "url": "https://www.cnbeta.com.tw/articles/tech/1582930.htm",
+   "summary": "三星下一代Galaxy S27系列可能比今年的S26系列更早亮相。韩国爆料者Lanzuk近日称，S27系列的主要硬件规划已接近敲定，三星正安排后续生产进度，发布时间可能落在明年1月，最迟不超过2月。不过这仍是未经三星确认的消息，目前没有正式发布日期或发布会安排。 阅读全文",
+   "published_at": 1792409554.0,
+   "published_bj": "2026-10-19 19:32"
+  },
+  {
+   "id": "8425d2c229ceabb6",
+   "source": "cnBeta",
+   "title": "F-22成功控制自主作战无人机 美空军演示“一个飞行员指挥两架飞机”",
+   "url": "https://www.cnbeta.com.tw/articles/tech/1582928.htm",
+   "summary": "美国空军近日宣布，在迈向自主化空战体系的进程中取得新的里程碑成果。一名驾驶F-22“猛禽”战斗机的飞行员在模拟作战环境下成功指挥一架自主作战无人机执行任务，展示了未来有人战机与智能无人僚机协同作战的雏形。 阅读全文",
+   "published_at": 1792409527.0,
+   "published_bj": "2026-10-19 19:32"
+  },
+  {
+   "id": "589eecb9caefafa5",
+   "source": "cnBeta",
+   "title": "波尔多、里尔两家苹果直营店在法国大规模骚乱中遭洗劫",
+   "url": "https://www.cnbeta.com.tw/articles/tech/1582926.htm",
+   "summary": "法国近日爆发的大规模抗议活动持续升级，部分城市出现打砸、纵火和商店遭洗劫等暴力事件。当地时间10月17日，位于波尔多和里尔的两家苹果直营店先后成为袭击目标，店内商品遭到抢夺。爱马仕、路易威登等奢侈品牌门店也未能幸免，多地零售商正面临财产损失和经营中断等问题。 阅读全文",
+   "published_at": 1792409493.0,
+   "published_bj": "2026-10-19 19:31"
+  },
+  {
+   "id": "4803289d4dabca1b",
+   "source": "IT之家",
+   "title": "《沙丘：觉醒》游戏开发商 Funcom 开启新一轮重组，准备裁员",
+   "url": "https://www.ithome.com/1/015/004.htm",
+   "summary": "IT之家 10 月 19 日消息，据游戏媒体 Insider Gaming 今天报道，《沙丘：觉醒》游戏开发商 Funcom 即将开启新一轮重组，准备裁员。 IT之家从原报道了解到，Funcom 工作室 CEO Rui Casais 将在未来离开公司。Scott Junior 将接替他的职位。本次重组的原因在于公司认为《沙丘：觉醒》主要开发工作已结束，因此无法维持开发高峰期所需的人员规模和组织架构。 同时，Funcom 工作室将迎来一段重组期，并缩减组织规模。公司将为所有受影响的员工提供支持，以尊重和透明态度对待每一位同事。 此外，Funcom 仍致力于继续维护《沙丘：觉醒》和《流放者柯南》游",
+   "published_at": 1792409350.0,
+   "published_bj": "2026-10-19 19:29"
+  },
+  {
    "id": "7e4f3cbba118726f",
    "source": "InfoQ中文",
    "title": "Cloudflare 推出面向 AI 代理的 CLI，并逐步停用 Wrangler",
@@ -38,6 +119,51 @@
    "summary": "点击查看原文>",
    "published_at": 1792409220.0,
    "published_bj": "2026-10-19 19:27"
+  },
+  {
+   "id": "aff7d2447d12dd8a",
+   "source": "IT之家",
+   "title": "比亚迪证实公司“又订购 10 艘汽车运输船”，以扩张海外出口运力",
+   "url": "https://www.ithome.com/1/015/003.htm",
+   "summary": "IT之家 10 月 19 日消息，比亚迪执行副总裁李柯在接受采访时确认，公司“又买了 10 艘船”，此前市场关于比亚迪追加滚装船订单的猜测就此落定，车企自建船队这一航运业新趋势也再次受到关注。 IT之家注意到，此前消息显示比亚迪 订购了 10 艘 9200 CEU（汽车运输当量）的液化天然气（LNG）动力汽车运输船 ，相应船舶将采用双燃料推进系统，计划 2029 年至 2031 年间交付，订单总造价超 10 亿美元 （IT之家注：现汇率约合 66.93 亿元人民币） 、单船价格超 1 亿美元 （现汇率约合 6.69 亿元人民币） 。 新船交付后，比亚迪自有船队规模将从 8 艘增至 18 艘，总",
+   "published_at": 1792409180.0,
+   "published_bj": "2026-10-19 19:26"
+  },
+  {
+   "id": "732cda74695e9275",
+   "source": "IT之家",
+   "title": "今年上半年我国人形机器人产量超 4 万台，预计全年将突破 10 万台",
+   "url": "https://www.ithome.com/1/015/002.htm",
+   "summary": "IT之家 10 月 19 日消息，国务院新闻办公室今日举行新闻发布会，介绍加快推进科技兴商有关情况，并答记者问。 会上介绍，具身智能是人工智能从“数字世界”走进“物理世界”的关键载体，正在成为培育新质生产力的重要抓手。工业和信息化部推动以人形机器人为代表的具身智能产业实现三个“加速”。 一是规模体量加速壮大。今年上半年，我国人形机器人整机产品突破 400 款，产量超 4 万台 ，预计全年将突破 10 万台 。 二是创新能力加速跃升，工信部集聚产学研优势力量，攻关人形机器人和具身智能运动控制、仿真模拟、触觉传感等一批关键技术，带动产品性能不断跃升。 三是产业应用加速落地。工信部实施人形机器人与具",
+   "published_at": 1792409124.0,
+   "published_bj": "2026-10-19 19:25"
+  },
+  {
+   "id": "6e13f340b1a468a9",
+   "source": "IT之家",
+   "title": "AYN 公布 Odin 3 Portal 掌机核心规格：高通跃龙 Q8 平台",
+   "url": "https://www.ithome.com/1/015/001.htm",
+   "summary": "IT之家 10 月 19 日消息，掌机制造商 AYN 今日公布了其即将正式发布的 Android 设备 Odin 3 Portal 的关键参数。 这款掌机 基于高通跃龙 Q8 平台 ，配备全尺寸霍尔效应传感器摇杆，内置 9000mAh 电池、风扇主动散热系统，外部覆盖 AGAF 玻璃， 机身总质量 450g 。 相关阅读： 《 AYN 高通骁龙 8 Gen 2 掌机 Odin 2 Portal 定价公布：2099 元起，12 月下旬发货 》",
+   "published_at": 1792409018.0,
+   "published_bj": "2026-10-19 19:23"
+  },
+  {
+   "id": "45a0526b32bb1494",
+   "source": "IT之家",
+   "title": "影驰预热新款 HOF（名人堂）显卡：有望导入施华洛世奇水晶装饰",
+   "url": "https://www.ithome.com/1/014/999.htm",
+   "summary": "IT之家 10 月 19 日消息，影驰 (GALAX) 今日发布预告，宣布将在 10 月 22 日推出一款应用“此前从未出现在任何显卡上”上的装饰元素的名人堂 (Hall of Fame, HOF) 显卡新品。 IT之家注意到，影驰此次预热的图片中包含多处透明反光颗粒元素。而影驰此前曾在 COMPUTEX 2026 上展出过一款次世代 HOF 显卡概念设计， 其采用的正是施华洛世奇水晶装饰设计 。",
+   "published_at": 1792408337.0,
+   "published_bj": "2026-10-19 19:12"
+  },
+  {
+   "id": "fcfeb8acd842bdf3",
+   "source": "IT之家",
+   "title": "外媒实测华硕 / 惠普 Googlebook 笔记本屏幕显示效果：色彩空间受限、表现未达预期",
+   "url": "https://www.ithome.com/1/014/998.htm",
+   "summary": "IT之家 10 月 19 日消息，外媒 Notebookcheck 在实际测试华硕 Googlebook 14 和惠普 Googlebook 14c 后发现，两款设备目前均只能使用 sRGB 色彩空间，色彩准确度也不够理想，部分屏幕表现与宣传存在差距。 外媒表示，尽管上述两款产品面板理论上支持 P3 色彩空间，但用户无法通过在相应机型的系统设置切换到 P3 色彩空间。相比之下，许多搭载 OLED 屏幕的 Windows 笔记本出厂时便提供 sRGB 和 P3 等不同色彩配置文件，既能满足日常使用中的准确显示需求，也方便用户进行照片和图像编辑。这导致相应机型目前不太适合进行修图等工作。 ▲ 华硕",
+   "published_at": 1792408330.0,
+   "published_bj": "2026-10-19 19:12"
   },
   {
    "id": "62b7aa72635d90d2",
@@ -85,6 +211,15 @@
    "published_bj": "2026-10-19 18:56"
   },
   {
+   "id": "c637defb3d51fb7d",
+   "source": "Hacker News",
+   "title": "Let's Encrypt is adding two additional remote perspectives for domain validation",
+   "url": "https://community.letsencrypt.org/t/lets-encrypt-is-adding-two-additional-remote-perspectives-for-domain-validation/252166",
+   "summary": "Article URL: https://community.letsencrypt.org/t/lets-encrypt-is-adding-two-additional-remote-perspectives-for-domain-validation/252166 Comments URL: https://news.ycombinator.com/item?id=50150809 Points: 14 # Comments: 0",
+   "published_at": 1792407219.0,
+   "published_bj": "2026-10-19 18:53"
+  },
+  {
    "id": "e68de3439f55cd28",
    "source": "cnBeta",
    "title": "星巴克将实施“消费才可入座”规则 店员：将于10月20日实施",
@@ -94,6 +229,15 @@
    "published_bj": "2026-10-19 18:49"
   },
   {
+   "id": "7cb460de321ea3c9",
+   "source": "Hacker News",
+   "title": "Documents: Police officer gave her Flock login to her ICE agent husband",
+   "url": "https://www.wjcl.com/article/savannah-police-officer-ice-agent-flock-access/74135816",
+   "summary": "Article URL: https://www.wjcl.com/article/savannah-police-officer-ice-agent-flock-access/74135816 Comments URL: https://news.ycombinator.com/item?id=50150750 Points: 6 # Comments: 0",
+   "published_at": 1792406714.0,
+   "published_bj": "2026-10-19 18:45"
+  },
+  {
    "id": "f6beb154c5bbbe16",
    "source": "IT之家",
    "title": "SK 海力士与多家银行联手出资 2 万亿韩元，扶持韩国半导体产业",
@@ -101,6 +245,15 @@
    "summary": "IT之家 10 月 19 日消息，SK 海力士今日宣布与商业银行共同出资 2 万亿韩元 （IT之家注：现汇率约合 99.86 亿元人民币） ， 扶持韩国半导体材料、零部件和设备供应商 。 据悉，该计划旨在提升韩国本土半导体产业，参与机构包括 KB 国民银行、新韩银行、友利银行和韩亚银行，还有多家主要半导体材料、零部件及设备供应商。SK 海力士和参与计划的银行将共同提供资金，K-SURE （韩国贸易保险公社）则负责提供担保。 此外，该项目的部分资金将用于建设 Trinity Fab，旨在支持与半导体大规模量产相关的技术研发。项目投资额为 8,700 亿韩元 （现汇率约合 43.44 亿元人民币）",
    "published_at": 1792406598.0,
    "published_bj": "2026-10-19 18:43"
+  },
+  {
+   "id": "2e8900fa43b1144e",
+   "source": "Solidot",
+   "title": "网站对 AI 智能体关上大门",
+   "url": "https://www.solidot.org/story?sid=85649",
+   "summary": "OpenAI、Meta、Google、Instinct 等公司承诺，AI 智能体能代你浏览互联网，完成从预订餐厅、清理邮箱到购买新鞋等任务。但如果平台不予以配合会怎样？使用 Meta 的 Muse、xAI 的 Grok、OpenAI 的 Dots 以及 Instinct 等智能体服务的用户最近几周发现其智能体在访问部分主流网站时遭到屏蔽，无法执行任务。Yelp 表示该平台仅允许付费参与其数据许可计划的智能体进行访问；达美航空阻止了智能体代用户预订机票。摩根大通和嘉信理财也证实出于安全考虑正阻止智能体访问用户账户。此前曾支持智能体访问的网站如 Cars.com 和 Amtrak 如今已无法访问，",
+   "published_at": 1792406475.0,
+   "published_bj": "2026-10-19 18:41"
   },
   {
    "id": "28e05124b9bfbf5e",
@@ -245,6 +398,15 @@
    "summary": "点击查看原文>",
    "published_at": 1792404000.0,
    "published_bj": "2026-10-19 18:00"
+  },
+  {
+   "id": "dedf83ecc0e4f8c8",
+   "source": "Hacker News",
+   "title": "Timestral: Mistral release time-series foundation models",
+   "url": "https://mistral.ai/news/timestral/",
+   "summary": "Article URL: https://mistral.ai/news/timestral/ Comments URL: https://news.ycombinator.com/item?id=50150434 Points: 38 # Comments: 2",
+   "published_at": 1792403972.0,
+   "published_bj": "2026-10-19 17:59"
   },
   {
    "id": "a3f3c738decb5d12",
