@@ -1,8 +1,116 @@
 {
  "date": "2026-10-19",
- "generated_at": 1792369620.23246,
- "count": 57,
+ "generated_at": 1792372584.837861,
+ "count": 71,
  "items": [
+  {
+   "id": "bdbf16d0d3b8576a",
+   "source": "IT之家",
+   "title": "应对 AI 风险，Anthropic 向外部 AI 监督机构开放类员工访问权限",
+   "url": "https://www.ithome.com/1/014/651.htm",
+   "summary": "IT之家 10 月 19 日消息，Anthropic 为外部评估人员开放了“类似员工级别的访问权限”，用于评估其模型存在的风险，以此兑现承诺，强化安全防护，应对外界对于这项技术可能出现灾难性失控的担忧。 非营利机构 METR 曾与 OpenAI、Anthropic、谷歌以及 Meta 等头部实验室开展合作，如今该机构已有团队入驻这家 Claude 研发企业的办公场所，可以访问其硬件设备与内部系统。 随着能力更强的人工智能系统可能给经济、网络安全乃至全人类带来的风险引发越来越多担忧，扩大第三方评估人员的权责范围，是各大实验室提出的主要实质性举措之一。 Anthropic 首席执行官达里奥 · 阿",
+   "published_at": 1792372468.0,
+   "published_bj": "2026-10-19 09:14"
+  },
+  {
+   "id": "90f06b45b51dee85",
+   "source": "IT之家",
+   "title": "王腾官宣 ISHO 首场发布会：今日宜休 AI 睡眠科技生态产品发布会定档 10 月 29 日",
+   "url": "https://www.ithome.com/1/014/650.htm",
+   "summary": "IT之家 10 月 19 日消息，今日宜休科技公司创始人王腾今日正式官宣了今日宜休首场发布会 —— ISHO 今日宜休 AI 睡眠科技生态产品发布会定档 10 月 29 日 19:00 举行 。 参考IT之家此前报道，王腾此前担任小米中国区市场部总经理、REDMI 品牌总经理。在离开小米后，王腾成立新公司“今日宜休”，将研发睡眠健康相关产品，核心成员主要来自小米、华为等大厂。 据王腾本月早些时候在微博透露，截止到目前，ISHO 今日宜休在健康科学研究、临床医学验证上，已经累计投入了上千万，远超一家初创公司在科学研究上投入的量级。另外，公司新产品可以在圣诞前买到。 另外，今年 9 月，王腾宣布，",
+   "published_at": 1792372364.0,
+   "published_bj": "2026-10-19 09:12"
+  },
+  {
+   "id": "0bb0df68a0983827",
+   "source": "IT之家",
+   "title": "日产 9 月中国区汽车销量 23658 辆，同比下降 61.6%",
+   "url": "https://www.ithome.com/1/014/648.htm",
+   "summary": "IT之家 10 月 19 日消息，日产（中国）投资有限公司宣布，日产汽车中国区含乘用车和轻型商用车两大事业板块在内的 9 月销量为 23,658 台， 较上年同期减少 61.6% 。 IT之家注意到，日产汽车在华销量已经连续 6 个月同比下滑。 2026 年 9 月，东风日产（含日产、启辰、英菲尼迪品牌）终端销量达 18,932 台，轻型商用车事业板块（郑州日产）销量为 4,726 台。 9 月 22 日，东风日产新 N7 发布，实现 33 项升级， 限时权益价 10.99 万元起 ： 510 Air 版官方指导价 11.99 万元，限时权益价 10.99 万元 510 Pro 版官方指导价 ",
+   "published_at": 1792372309.0,
+   "published_bj": "2026-10-19 09:11"
+  },
+  {
+   "id": "5c7467a8636b7c9c",
+   "source": "IT之家",
+   "title": "双飞燕野蛮部落 SG5 PRO 鼠标在售：PAW3950，磁吸充电，309 元",
+   "url": "https://www.ithome.com/1/014/647.htm",
+   "summary": "IT之家 10 月 19 日消息，双飞燕 (A4tech) 近日推出了野蛮部落 (SAVAGE IMPACT) SG5 PRO 鼠标。这一型号基于 PAR2863 主控 + PAW3950 传感器 的双原相方案，售价 309 元。 SG5 PRO 采用 125×64×40 (mm) 的 中大手准对称模具 ，配备 TTC 100M 光学按键微动、环诺 0.8M 机械滚轮，在 USB-C 和 2.4GHz 模式下均支持 8kHz 回报率，质量 66g，续航 80hr。 其采用 倾斜微动 结构，可缩短按压预行程，配套长效回弹系统；搭配磨砂碳纹按键盖；覆盖防滑防汗细腻涂层；配备 集成 2.4GHz 接",
+   "published_at": 1792372288.0,
+   "published_bj": "2026-10-19 09:11"
+  },
+  {
+   "id": "31874ac5019d4e04",
+   "source": "IT之家",
+   "title": "中信证券：看好国产大模型持续崛起",
+   "url": "https://www.ithome.com/1/014/646.htm",
+   "summary": "IT之家 10 月 19 日消息，中信证券研究公众号发布报告， 认为 Harness 有望成为 DeepSeek 从模型供给走向平台生态的关键一环 ，将开源与工程优势转化为用户基础、生态影响力和商业化能力。 报告提到，随着 Agent 竞争从模型能力扩展至稳定、易用且低成本的任务交付，DeepSeek 通过插件化、场景预设与跨 Agent 协作拓展用户和任务覆盖，并将 Infra 优势从软硬件协同延伸至完整任务执行。 报告认为，其长期价值在于，生态扩张积累需求，配置与流程沉淀增强产品黏性，可回溯能力支撑安全治理，共同为持续使用与企业部署创造条件；在官方模型调用基础上，公司还可探索平台服务与生态",
+   "published_at": 1792371969.0,
+   "published_bj": "2026-10-19 09:06"
+  },
+  {
+   "id": "1a18a4cca1486a31",
+   "source": "IT之家",
+   "title": "小米 REDMI K100 手机定档 10 月 27 日晚 7 点，标准版首次搭载游戏独显",
+   "url": "https://www.ithome.com/1/014/645.htm",
+   "summary": "IT之家 10 月 19 日消息，小米 REDMI 官方宣布， K100 定档 10 月 27 日晚 7 点 。 双芯魔王， 标准版首次搭载游戏独显 万级续航，挑战同档最强续航体验 据IT之家此前报道， 博主 @数码闲聊站 上周爆料 ，小米 REDMI K100 标准版手机 堆了米系最大电池、独显芯片、相对大马达、Bose 双扬 ，属于配置不搞花活的类型。 据悉，小米 REDMI K100 标准版手机搭载骁龙 8 至尊版处理器， 属于“3.5K 档量大管饱的产品”。",
+   "published_at": 1792371881.0,
+   "published_bj": "2026-10-19 09:04"
+  },
+  {
+   "id": "d258cda8b934d31c",
+   "source": "IT之家",
+   "title": "iQOO Neo12 手机官宣 10 月 28 日 19:00 发布即开售，外观正式亮相",
+   "url": "https://www.ithome.com/1/014/644.htm",
+   "summary": "IT之家 10 月 19 日消息，iQOO Neo12 手机官宣将于 10 月 28 日 19:00 发布即开售。 综合IT之家此前报道，新机拥有一款与中国美术学院联手打造的全新配色。新机目前已公布 / 曝光的配置如下： 性能：第五代骁龙 8 至尊版处理器 | 自研电竞芯片 Q3 | 全新一代 Monster 超核引擎 散热：冰穹风冷散热系统（主动散热风扇） 外观：方形 Deco 造型设计 | 拥有一款与中国美术学院联手共同打造全新配色 屏幕：pTSF 技术的 2K 185Hz 超冠屏 |「天空之镜」发光材料 | 2K 185Hz 高性能驱动芯片 | 搭载 iQOO 16 同款超感触控芯片 显",
+   "published_at": 1792371830.0,
+   "published_bj": "2026-10-19 09:03"
+  },
+  {
+   "id": "e1eef732ee4f6b6c",
+   "source": "IT之家",
+   "title": "黑鲨“鲨鲨酱”官方发文鼓励红魔：今年手机行业异常艰难，大家加油，我们正在努力复活中",
+   "url": "https://www.ithome.com/1/014/643.htm",
+   "summary": "IT之家 10 月 19 日消息，黑鲨旗下二次元虚拟语音助手“鲨鲨酱”10 月 17 日发文，晒出红魔游戏手机的发布会现场图片，表示： 今年手机行业异常艰难，大家加油 。 “鲨鲨酱”官方表示：“因为内存上涨，今年手机行业异常艰难。红魔手机已成最后一个垂类游戏手机品牌了。大家都很难，但坚持就一定能走出迷雾，看见曙光。请指挥官们耐心等待， 我们正在努力复活中 。” IT之家注意到，黑鲨 2026 年度秋季新品发布会将在 2026 年 10 月 30 日 19:00 举办，本次发布会的主题是“全域竞备战力觉醒”，登场的产品有全场景游戏装备等。 从黑鲨的预热来看，这次发布会预计会有一批手机周边设备发布",
+   "published_at": 1792371373.0,
+   "published_bj": "2026-10-19 08:56"
+  },
+  {
+   "id": "1213a1860b818089",
+   "source": "IT之家",
+   "title": "荣耀车联升级新增智慧车控功能，支持查看车辆状态、一键控车等",
+   "url": "https://www.ithome.com/1/014/642.htm",
+   "summary": "IT之家 10 月 19 日消息，据博主 @睿哥玩数码 分享，荣耀车联功能迎来更新。在原有智慧车联功能的基础上， 新增智慧车控功能 ，可以通过手机查看车辆状态、一键控车，还可以通过 YOYO 语音一句话控车。 关于该功能目前支持的车型，据博主在评论区透露， 目前智慧车控仅支持比亚迪旗下车型 。 据IT之家此前报道，比亚迪在 10 月 12 日宣布与荣耀战略合作，共创 AI 语音融合，A2A 打通车机与手机语音智能体，将手机 AI 能力和服务带入座舱空间。 据介绍，比亚迪将支持 YOYO 远程控车，包括语音寻车、语音备车，一句话直达；手机镜像桌面，全量 App 上车，行车操控更从容；AI 语音融",
+   "published_at": 1792371135.0,
+   "published_bj": "2026-10-19 08:52"
+  },
+  {
+   "id": "a04d12d6aa2e2c8d",
+   "source": "IT之家",
+   "title": "惠普推出基于高通骁龙 C 的 16\" OmniBook 3 消费级笔电，起价 599.99 美元",
+   "url": "https://www.ithome.com/1/014/641.htm",
+   "summary": "IT之家 10 月 19 日消息，HP（惠普）近日已在美国官网上线基于高通骁龙 C 平台 C1-10-100 处理器的 16 英寸 OmniBook 3 消费级笔记本电脑。 其搭载 4GB / 8GB 的 LPDDR5-6400 内存，存储方面则是 128GB UFS / 256GB PCIe SSD / 512GB PCIe SSD，采用 1920×1200 300nits 低色域 (62.5% sRGB) IPS 屏幕， 起价 599.99 美元 （IT之家注：现汇率约合 4,016 元人民币） 。 其提供 2 个 USB-C 10Gbps、2 个 USB-A 5Gbps、1 个 HDMI",
+   "published_at": 1792371121.0,
+   "published_bj": "2026-10-19 08:52"
+  },
+  {
+   "id": "ce0e5397f9b906e1",
+   "source": "IT之家",
+   "title": "日本近期数据泄露事件频发，与源于应用程序分析的服务器攻击有关",
+   "url": "https://www.ithome.com/1/014/640.htm",
+   "summary": "IT之家 10 月 19 日消息，日本总务省下辖的情报通信研究机构 (NICT) 当地时间本月 13 日指出，该国近期发生的一系列数据泄露事件 至少部分与 \"A2B\"（应用到后端）攻击有关 。 这类攻击始于对公开 Android 应用程序的分析。 恶意行为者从中了解到与之通信的服务器和 API ， 根据其特点对服务器进行针对性攻击 。如果服务器存在漏洞，就可能导致个人信息或其它敏感数据泄露。 情报通信研究机构指出，此类攻击方式也能应用在 iOS 应用程序、Web 服务上； 人工智能技术可能会简化应用分析和漏洞检测流程 ，从而导致此类攻击扩散到更多系统。 该机构建议 Android 应用程序发布",
+   "published_at": 1792370362.0,
+   "published_bj": "2026-10-19 08:39"
+  },
+  {
+   "id": "188132e25fef4244",
+   "source": "IT之家",
+   "title": "演员吴越被 AI 生成虚假带货视频，微信视频号回应称涉事账号已永久封禁、内容清空",
+   "url": "https://www.ithome.com/1/014/638.htm",
+   "summary": "IT之家 10 月 19 日消息，演员吴越昨天发文，曝光微信视频号“花姐美肤日记”利用 AI 生成她的虚假带货视频。 吴越公布的录屏显示，账号“花姐美肤日记”发布了一段“吴越”的 AI 视频，开头为“吴越”带货，随后配上吴越公开活动时的视频画面，用“吴越”的声音称“这个产品不是他们找我，是我找他们的…… 效果是真的非常直观”，视频末尾还有疑似“邓亚萍”的带货片段。 据澎湃新闻从微信团队了解到， 目前账号已被永久封禁，内容清空不可见 。 IT之家注意到，9 月 30 日，中央网信办印发通知，在全国范围内部署开展为期 2 个月的“清朗 · 整治短视频虚假人设乱象”专项行动。本次专项行动重点整治利用",
+   "published_at": 1792369679.0,
+   "published_bj": "2026-10-19 08:27"
+  },
   {
    "id": "0c53361666d54b2d",
    "source": "IT之家",
@@ -274,6 +382,15 @@
    "published_bj": "2026-10-19 05:24"
   },
   {
+   "id": "4367aaf5ca279980",
+   "source": "Hacker News",
+   "title": "If you don't run your own LLM proxy, how do you know whats going on?",
+   "url": "https://jrdsgl.com/if-you-dont-run-your-own-llm-proxy-how-the-fuck-do-you-even-know-whats-going-on/",
+   "summary": "Article URL: https://jrdsgl.com/if-you-dont-run-your-own-llm-proxy-how-the-fuck-do-you-even-know-whats-going-on/ Comments URL: https://news.ycombinator.com/item?id=50145507 Points: 15 # Comments: 9",
+   "published_at": 1792357752.0,
+   "published_bj": "2026-10-19 05:09"
+  },
+  {
    "id": "7d99bc9a36ae2df4",
    "source": "TechCrunch",
    "title": "No agenda, no rush, no leaving San Francisco: Benchmark’s partners on investing in a frenzied market",
@@ -416,6 +533,15 @@
    "summary": "Article URL: https://liveandletsfly.com/british-airways-meta-smart-glasses-filming/ Comments URL: https://news.ycombinator.com/item?id=50143218 Points: 13 # Comments: 4",
    "published_at": 1792344450.0,
    "published_bj": "2026-10-19 01:27"
+  },
+  {
+   "id": "829a99b8ce9f43cf",
+   "source": "Hacker News",
+   "title": "What the heck is /pkg?",
+   "url": "https://anderegg.ca/2026/10/18/what-the-heck-is-pkg",
+   "summary": "Article URL: https://anderegg.ca/2026/10/18/what-the-heck-is-pkg Comments URL: https://news.ycombinator.com/item?id=50143154 Points: 11 # Comments: 3",
+   "published_at": 1792344083.0,
+   "published_bj": "2026-10-19 01:21"
   },
   {
    "id": "f633985c96bad78f",
