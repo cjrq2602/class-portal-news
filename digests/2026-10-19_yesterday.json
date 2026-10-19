@@ -1,0 +1,382 @@
+{
+ "type": "yesterday",
+ "date": "2026-10-19",
+ "window": {
+  "start_ts": 1792339200.0,
+  "end_ts": 1792425600.0
+ },
+ "generated_at": 1792427387.2701254,
+ "generator": "action",
+ "news_count": 386,
+ "keywords": [
+  "ai",
+  "发布",
+  "元",
+  "推出",
+  "手机",
+  "月",
+  "the",
+  "支持",
+  "游戏",
+  "中国"
+ ],
+ "points": [
+  {
+   "text": "【ai】IT之家 10 月 19 日消息，今日宜休科技公司创始人王腾今日正式官宣了今日宜休首场发布会 —— ISHO 今日宜休 AI 睡眠科技生态产品发",
+   "keyword": "ai",
+   "news_ids": [
+    "90f06b45b51dee85"
+   ],
+   "refs": [
+    {
+     "id": "90f06b45b51dee85",
+     "title": "王腾官宣 ISHO 首场发布会：今日宜休 AI 睡眠科技生态产品发布会定档 10 月 29 日",
+     "source": "IT之家",
+     "url": "https://www.ithome.com/1/014/650.htm",
+     "published_at": 1792372364.0
+    }
+   ]
+  },
+  {
+   "text": "【发布】IT之家 10 月 19 日消息，据外媒 wccftech 报道，模组作者 Kim2091 为经典游戏《辐射：新维加斯》推出了一款基于英伟达 R",
+   "keyword": "发布",
+   "news_ids": [
+    "04cc7de35d38bbb1"
+   ],
+   "refs": [
+    {
+     "id": "04cc7de35d38bbb1",
+     "title": "爱好者为经典游戏《辐射：新维加斯》推出 New Vegas RTX 光线追踪画面增强模组，支持路径追踪与 DLSS",
+     "source": "IT之家",
+     "url": "https://www.ithome.com/1/014/994.htm",
+     "published_at": 1792407394.0
+    }
+   ]
+  },
+  {
+   "text": "【ai】After chatbot startup Character",
+   "keyword": "ai",
+   "news_ids": [
+    "39b1650b556ee06f"
+   ],
+   "refs": [
+    {
+     "id": "39b1650b556ee06f",
+     "title": "Disney agrees to hire the majority of Character.AI’s workforce",
+     "source": "TechCrunch",
+     "url": "https://techcrunch.com/2026/10/18/disney-agrees-to-hire-the-majority-of-character-ais-workforce/",
+     "published_at": 1792341000.0
+    }
+   ]
+  },
+  {
+   "text": "【发布】IT之家 10 月 19 日消息，消息源 Lanzuk 在 Naver 平台发文，透露三星下一代 Galaxy S27 系列手机可能重新回归以往",
+   "keyword": "发布",
+   "news_ids": [
+    "d8ffea9c20e4e558"
+   ],
+   "refs": [
+    {
+     "id": "d8ffea9c20e4e558",
+     "title": "消息称 Galaxy S27 系列手机可能回归“1 月至 2 月”发布节奏，Pro / Ultra 机型有望升级 LPDDR6 及 UFS 5",
+     "source": "IT之家",
+     "url": "https://www.ithome.com/1/015/008.htm",
+     "published_at": 1792409992.0
+    }
+   ]
+  },
+  {
+   "text": "Article URL: https://www",
+   "keyword": "",
+   "news_ids": [
+    "fe8fbd24745e89cc"
+   ],
+   "refs": [
+    {
+     "id": "fe8fbd24745e89cc",
+     "title": "Another day another GitHub incident",
+     "source": "Hacker News",
+     "url": "https://www.githubstatus.com/incidents/8tzbpcnl75jp",
+     "published_at": 1792425146.0
+    }
+   ]
+  },
+  {
+   "text": "Article URL: https://www",
+   "keyword": "",
+   "news_ids": [
+    "f0dbde3b786b7b5d"
+   ],
+   "refs": [
+    {
+     "id": "f0dbde3b786b7b5d",
+     "title": "Kevin Bacon's missing clothes finally delivered in Ireland",
+     "source": "Hacker News",
+     "url": "https://www.rte.ie/entertainment/2026/1019/1595980-kevin-bacon/",
+     "published_at": 1792423483.0
+    }
+   ]
+  },
+  {
+   "text": "Article URL: https://netflixtechblog",
+   "keyword": "",
+   "news_ids": [
+    "611725677a8e0690"
+   ],
+   "refs": [
+    {
+     "id": "611725677a8e0690",
+     "title": "Ontology-Driven Observability: Building an End-to-End Knowledge Graph at Netflix",
+     "source": "Hacker News",
+     "url": "https://netflixtechblog.com/ontology-driven-observability-building-an-end-to-end-knowledge-graph-at-netflix-scale-421392cf5adf",
+     "published_at": 1792422620.0
+    }
+   ]
+  },
+  {
+   "text": "苏州科技大学等机构的研究人员开发出一种柔性人工突触阵列，能够模拟生物突触连接强弱变化，并在特定化学处理下快速分解",
+   "keyword": "",
+   "news_ids": [
+    "ef649018cfdec1d3"
+   ],
+   "refs": [
+    {
+     "id": "ef649018cfdec1d3",
+     "title": "研究团队制成可弯曲、可快速化学分解的类脑突触阵列 开关仅需26纳秒",
+     "source": "cnBeta",
+     "url": "https://www.cnbeta.com.tw/articles/science/1582940.htm",
+     "published_at": 1792421296.0
+    }
+   ]
+  },
+  {
+   "text": "Article URL: https://www",
+   "keyword": "",
+   "news_ids": [
+    "86b409ba63872fa6"
+   ],
+   "refs": [
+    {
+     "id": "86b409ba63872fa6",
+     "title": "Maybe There Was an Egg Cartel After All",
+     "source": "Hacker News",
+     "url": "https://www.politico.com/news/magazine/2026/10/18/egg-prices-conspiracy-affordability-issue-01100411",
+     "published_at": 1792420271.0
+    }
+   ]
+  },
+  {
+   "text": "一名使用Anthropic旗下Claude辅助开发软件的Mac用户，近日意外发现自己的电脑长期遭受加密货币挖矿恶意程序感染",
+   "keyword": "",
+   "news_ids": [
+    "5b36218485ef4138"
+   ],
+   "refs": [
+    {
+     "id": "5b36218485ef4138",
+     "title": "Claude意外揪出Mac挖矿木马：12个CPU核心被占满 温度飙至112摄氏度",
+     "source": "cnBeta",
+     "url": "https://www.cnbeta.com.tw/articles/tech/1582936.htm",
+     "published_at": 1792420260.0
+    }
+   ]
+  },
+  {
+   "text": "Article URL: https://store",
+   "keyword": "",
+   "news_ids": [
+    "4e5e4c758656df71"
+   ],
+   "refs": [
+    {
+     "id": "4e5e4c758656df71",
+     "title": "Beyond These Stars",
+     "source": "Hacker News",
+     "url": "https://store.steampowered.com/app/2295060/Beyond_These_Stars/",
+     "published_at": 1792418770.0
+    }
+   ]
+  },
+  {
+   "text": "随着可观测性模式日趋成熟，OpenTelemetry 将 Kubernetes Attribute Processor 提升为稳定版本",
+   "keyword": "",
+   "news_ids": [
+    "bdf0beada24c17b7"
+   ],
+   "refs": [
+    {
+     "id": "bdf0beada24c17b7",
+     "title": "随着可观测性模式日趋成熟，OpenTelemetry 将 Kubernetes Attribute Processor 提升为稳定版本",
+     "source": "InfoQ中文",
+     "url": "https://www.infoq.cn/article/zBfzQbuxFmP1qrIpZWTG?utm_source=rss&utm_medium=article",
+     "published_at": 1792418400.0
+    }
+   ]
+  },
+  {
+   "text": "ESA Hera 探测器将在一个月后书写历史，它即将与执行首次行星防御测试的两颗小行星交会",
+   "keyword": "",
+   "news_ids": [
+    "2f95745e9dc03cc5"
+   ],
+   "refs": [
+    {
+     "id": "2f95745e9dc03cc5",
+     "title": "ESA Hera 探测器准备飞越 DART 撞击的小行星",
+     "source": "Solidot",
+     "url": "https://www.solidot.org/story?sid=85652",
+     "published_at": 1792418349.0
+    }
+   ]
+  },
+  {
+   "text": "Article URL: https://startupfortune",
+   "keyword": "",
+   "news_ids": [
+    "584ec9eb4c0b1fa4"
+   ],
+   "refs": [
+    {
+     "id": "584ec9eb4c0b1fa4",
+     "title": "Stripe will acquire OpenRouter for $7.5B",
+     "source": "Hacker News",
+     "url": "https://startupfortune.com/stripe-will-pay-75-billion-for-openrouter-the-ai-model-traffic-cop/",
+     "published_at": 1792416469.0
+    }
+   ]
+  },
+  {
+   "text": "Article URL: https://www",
+   "keyword": "",
+   "news_ids": [
+    "fe35651a56b6c5d6"
+   ],
+   "refs": [
+    {
+     "id": "fe35651a56b6c5d6",
+     "title": "8 in 10 Americans oppose live-streaming execution",
+     "source": "Hacker News",
+     "url": "https://www.washingtonpost.com/national-security/2026/10/15/8-10-americans-oppose-live-streaming-execution-fort-hood-shooter-poll-shows/",
+     "published_at": 1792414829.0
+    }
+   ]
+  }
+ ],
+ "article": {
+  "title": "2026-10-19 新闻总结",
+  "paragraphs": [
+   {
+    "kind": "lead",
+    "text": "过去 24 小时共收录 386 条新闻，来自 7 家媒体。把标题放在一起看，讨论主要集中在 AI、手机、游戏 这几个方向上，其余消息更像是零散补充。"
+   },
+   {
+    "kind": "section",
+    "heading": "AI",
+    "text": "先看「AI」。IT之家 10 月 19 日消息，今日宜休科技公司创始人王腾今日正式官宣了今日宜休首场发布会 —— ISHO 今日宜休 AI 睡眠科技生态产品发布会定档 10 ，另有 273 条消息指向同一话题。这类进展更像是把已有能力往工程化落地推了一步，真正的分水岭在于成本和可靠性能不能同时压下来。",
+    "news_ids": [
+     "90f06b45b51dee85"
+    ],
+    "refs": [
+     {
+      "id": "90f06b45b51dee85",
+      "title": "王腾官宣 ISHO 首场发布会：今日宜休 AI 睡眠科技生态产品发布会定档 10 月 29 日",
+      "source": "IT之家",
+      "url": "https://www.ithome.com/1/014/650.htm",
+      "published_at": 1792372364.0
+     }
+    ]
+   },
+   {
+    "kind": "section",
+    "heading": "游戏",
+    "text": "与此同时「游戏」。IT之家 10 月 19 日消息，据外媒 wccftech 报道，模组作者 Kim2091 为经典游戏《辐射：新维加斯》推出了一款基于英伟达 RTX Remix，另有 18 条消息指向同一话题。技术路线的胜负很少由一次发布会决定，接下来要看的是它能不能被更多团队低成本复用。",
+    "news_ids": [
+     "04cc7de35d38bbb1"
+    ],
+    "refs": [
+     {
+      "id": "04cc7de35d38bbb1",
+      "title": "爱好者为经典游戏《辐射：新维加斯》推出 New Vegas RTX 光线追踪画面增强模组，支持路径追踪与 DLSS",
+      "source": "IT之家",
+      "url": "https://www.ithome.com/1/014/994.htm",
+      "published_at": 1792407394.0
+     }
+    ]
+   },
+   {
+    "kind": "section",
+    "heading": "AI",
+    "text": "另一个值得注意的方向是「AI」。After chatbot startup Character，另有 26 条消息指向同一话题。这条消息短期内的实际影响可能有限，但它指向的方向值得放进观察名单。",
+    "news_ids": [
+     "39b1650b556ee06f"
+    ],
+    "refs": [
+     {
+      "id": "39b1650b556ee06f",
+      "title": "Disney agrees to hire the majority of Character.AI’s workforce",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/10/18/disney-agrees-to-hire-the-majority-of-character-ais-workforce/",
+      "published_at": 1792341000.0
+     }
+    ]
+   },
+   {
+    "kind": "section",
+    "heading": "手机",
+    "text": "相比之下「手机」。IT之家 10 月 19 日消息，消息源 Lanzuk 在 Naver 平台发文，透露三星下一代 Galaxy S27 系列手机可能重新回归以往的“1 月至 2，另有 5 条消息指向同一话题。技术路线的胜负很少由一次发布会决定，接下来要看的是它能不能被更多团队低成本复用。",
+    "news_ids": [
+     "d8ffea9c20e4e558"
+    ],
+    "refs": [
+     {
+      "id": "d8ffea9c20e4e558",
+      "title": "消息称 Galaxy S27 系列手机可能回归“1 月至 2 月”发布节奏，Pro / Ultra 机型有望升级 LPDDR6 及 UFS 5",
+      "source": "IT之家",
+      "url": "https://www.ithome.com/1/015/008.htm",
+      "published_at": 1792409992.0
+     }
+    ]
+   },
+   {
+    "kind": "glossary",
+    "items": [
+     {
+      "term": "AI",
+      "desc": "人工智能，让机器完成识别、生成、判断等原本需要人做的任务"
+     },
+     {
+      "term": "LLM",
+      "desc": "大语言模型，主打文字理解与生成，是「大模型」的同义词"
+     },
+     {
+      "term": "GPU",
+      "desc": "图形处理器，因为擅长大规模并行计算，成了 AI 训练的主力硬件"
+     },
+     {
+      "term": "Agent",
+      "desc": "智能体，能自己拆解任务、调用工具并连续执行的 AI 程序"
+     },
+     {
+      "term": "API",
+      "desc": "应用程序接口，让不同软件按约定好的方式互相调用"
+     },
+     {
+      "term": "VR",
+      "desc": "虚拟现实，戴上头显进入一个全虚拟的画面"
+     }
+    ]
+   },
+   {
+    "kind": "outlook",
+    "text": "把这几条放在一起看，最值得跟踪的是 AI 和 手机 两条线：一条决定技术能走多远，一条决定它多快能落到普通人的日常里。至于其他消息，可以先放进观察名单，等后续有更实的进展再判断。"
+   }
+  ],
+  "word_count": 702
+ },
+ "ai_enhanced": false,
+ "schema": 1,
+ "window_bj": {
+  "start": "2026-10-19 00:00",
+  "end": "2026-10-20 00:00"
+ }
+}
