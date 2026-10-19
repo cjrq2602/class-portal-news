@@ -1,7 +1,7 @@
 {
  "date": "2026-10-20",
- "generated_at": 1792425150.400744,
- "count": 4,
+ "generated_at": 1792427282.300165,
+ "count": 8,
  "items": [
   {
    "id": "798f6b581f154f0c",
@@ -38,6 +38,42 @@
    "summary": "点击查看原文>",
    "published_at": 1792430580.0,
    "published_bj": "2026-10-20 01:23"
+  },
+  {
+   "id": "d252abf455421451",
+   "source": "IT之家",
+   "title": "苹果官宣北京时间 10 月 29 日举行特别活动，有望推出 OLED MacBook Pro / iPad mini 8 等机型",
+   "url": "https://www.ithome.com/1/015/054.htm",
+   "summary": "【00:15 更新】苹果已确认发布会时间，官方将于美国当地东部时间 10 月 28 日下午 1 时（北京时间 10 月 29 日凌晨 1:00）在美国洛杉矶举办本月第二场新品发布活动。 IT之家 10 月 20 日消息，苹果官方账号在小红书发文，透露“好多好消息，下周和你说”，暗示将于下周举行特别活动，届时将推出一系列新品，不过官方尚未公布具体时间信息。 IT之家注意到，此前有消息称苹果 大概率下周三正式发布一批新品 ，包含搭载 OLED 屏幕的 MacBook Pro、配备 M6 芯片的 14 英寸 MacBook Pro 与 iMac，以及搭载 OLED 屏幕的 iPad mini 8，相",
+   "published_at": 1792426453.0,
+   "published_bj": "2026-10-20 00:14"
+  },
+  {
+   "id": "3385781697bc4fcb",
+   "source": "TechCrunch",
+   "title": "People are using AI to make their smart TVs dumb again",
+   "url": "https://techcrunch.com/2026/10/19/people-are-using-ai-to-make-their-smart-tvs-dumb-again/",
+   "summary": "Fed up with ads, tracking and sluggish interfaces, some smart TV owners are turning to AI agents to strip away bloatware and take back control of their TVs.",
+   "published_at": 1792426402.0,
+   "published_bj": "2026-10-20 00:13"
+  },
+  {
+   "id": "2e5db9eb4575cf6e",
+   "source": "Hacker News",
+   "title": "AI companies are coming for the plumbers",
+   "url": "https://www.tomshardware.com/tech-industry/artificial-intelligence/ai-lab-offers-free-plumbing-and-hvac-repairs-across-three-cities-to-train-ai-robots-wearable-sensors-record-video-of-repair-work-for-robotics-training-free-services-also-include-electrical-work-air-duct-cleaning-and-carpet-cleaning",
+   "summary": "Article URL: https://www.tomshardware.com/tech-industry/artificial-intelligence/ai-lab-offers-free-plumbing-and-hvac-repairs-across-three-cities-to-train-ai-robots-wearable-sensors-record-video-of-repair-work-for-robotics-training-free-services-also-include-electrical-work-air-duct-cleaning-and-carp",
+   "published_at": 1792425809.0,
+   "published_bj": "2026-10-20 00:03"
+  },
+  {
+   "id": "4ad0e703990a6c8b",
+   "source": "Hacker News",
+   "title": "Launch HN: Laminar (YC S24) – We trained a model to catch silent agent failures",
+   "url": "https://news.ycombinator.com/item?id=50154029",
+   "summary": "Hi HN, we’re Robert and Din from Laminar ( https://laminar.sh ). We’ve been building open-source observability for AI agents since 2024. Recently, we released flow-1, a model trained with RL to find errors in agent traces. On our benchmark ( https://laminar.sh/blog/flow-1 ), it matches GPT-6-sol in ",
+   "published_at": 1792425618.0,
+   "published_bj": "2026-10-20 00:00"
   }
  ]
 }
