@@ -1,7 +1,7 @@
 {
  "date": "2026-10-18",
- "generated_at": 1792373480.4918823,
- "count": 192,
+ "generated_at": 1792374691.643102,
+ "count": 193,
  "items": [
   {
    "id": "7916efc70c01f0f2",
@@ -1577,6 +1577,15 @@
    "summary": "Article URL: https://www.youtube.com/watch?v=QH_LPimUJMs Comments URL: https://news.ycombinator.com/item?id=50136017 Points: 4 # Comments: 0",
    "published_at": 1792278510.0,
    "published_bj": "2026-10-18 07:08"
+  },
+  {
+   "id": "efa793616b3edcc2",
+   "source": "Hacker News",
+   "title": "I built a programming language that LLMs can't use",
+   "url": "https://blog.picheta.me/post/killswitch-lang/",
+   "summary": "Article URL: https://blog.picheta.me/post/killswitch-lang/ Comments URL: https://news.ycombinator.com/item?id=50135762 Points: 78 # Comments: 66",
+   "published_at": 1792276007.0,
+   "published_bj": "2026-10-18 06:26"
   },
   {
    "id": "83f29218f936ce1f",
