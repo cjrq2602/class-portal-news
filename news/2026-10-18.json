@@ -1,7 +1,7 @@
 {
  "date": "2026-10-18",
- "generated_at": 1792366913.201419,
- "count": 191,
+ "generated_at": 1792369620.2344854,
+ "count": 192,
  "items": [
   {
    "id": "7916efc70c01f0f2",
@@ -443,6 +443,15 @@
    "summary": "随着人工智能市场对高带宽内存（HBM）的需求不断攀升，英伟达正在推动一项前所未有的供应链整合计划。根据最新消息，英伟达为下一代AI加速器开发的定制高带宽内存NVHBM，将促使长期竞争的三星电子和台积电展开合作，共同打造基于3纳米工艺的基底芯片（Base Die）。 阅读全文",
    "published_at": 1792325639.0,
    "published_bj": "2026-10-18 20:13"
+  },
+  {
+   "id": "a2cc7b2f6e428dd8",
+   "source": "Hacker News",
+   "title": "A new way to think about borrow checking (in reverse)",
+   "url": "https://verdagon.dev/blog/reverse-borrow-checking",
+   "summary": "Article URL: https://verdagon.dev/blog/reverse-borrow-checking Comments URL: https://news.ycombinator.com/item?id=50140383 Points: 10 # Comments: 3",
+   "published_at": 1792325473.0,
+   "published_bj": "2026-10-18 20:11"
   },
   {
    "id": "171e6f36be3f4603",
