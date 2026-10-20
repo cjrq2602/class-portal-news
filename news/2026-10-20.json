@@ -1,7 +1,7 @@
 {
  "date": "2026-10-20",
- "generated_at": 1792493539.8684585,
- "count": 349,
+ "generated_at": 1792495540.1716788,
+ "count": 373,
  "items": [
   {
    "id": "67838ab1f555bb51",
@@ -49,6 +49,123 @@
    "published_bj": "2026-10-20 21:47"
   },
   {
+   "id": "f95b5697d7e3376e",
+   "source": "IT之家",
+   "title": "3018 元打卡 7 天全额返：可孚 C11 B25S 双水平呼吸机 20:00 抢 100 台免单",
+   "url": "https://www.ithome.com/1/015/519.htm",
+   "summary": "【京东自营】 可孚 C11 B25S 双水平呼吸机定价 4280 元，今晚 20:00 直降至 3468 元，PLUS 会员仅 3018 元。 在 10 月 20 日 20 点 下单并付款成功的订单，按照付款时间排序： 前 100 名 付款订单可享全额免单资格 前 101~200 名 可得 3 年耗材礼包（3 年鼻罩价值 2000 元） 根据国家税收法规，本活动返款属于偶然所得， 依法需缴纳个人所得税 ，品牌方将为您代扣代缴 20% 税款，实际到账为税后金。 京东 11.11 红包至高 26888 元无门槛可用，每天可抽一次： 点此抽取 。 11 月 2 日公布名单，介意慎拍： 京东 可孚 C",
+   "published_at": 1792495334.0,
+   "published_bj": "2026-10-20 19:22"
+  },
+  {
+   "id": "e234081ad7cd0e63",
+   "source": "cnBeta",
+   "title": "法国超市冰柜遭远程升温攻击事件发生前有多达逾千个制冷控制面板暴露在网上",
+   "url": "https://www.cnbeta.com.tw/articles/tech/1583068.htm",
+   "summary": "10月11日至12日夜间，法国多家超市的冰柜和冷藏设备突然升温。攻击者将制冷系统切换到除霜模式，使设备加热冷却部件以融化积冰；巴黎检方称，部分设备温度升至50摄氏度，个别设备甚至起火。门店被迫丢弃冷藏和冷冻食品，相关损失可能达到数百万欧元。法国媒体报道称，受影响门店已超过400家；家乐福称约80家门店受波及，Intermarché和Netto所属的Les Mousquetaires集团称超过300家受影响，Monoprix则称约5%的门店受到影响。Coopérative U表示其约2000家门店中有80家遭遇问题。 阅读全文",
+   "published_at": 1792495128.0,
+   "published_bj": "2026-10-20 19:18"
+  },
+  {
+   "id": "36d32485896bdb59",
+   "source": "cnBeta",
+   "title": "Windows为何将64位系统文件放在System32、32位文件放在SysWOW64？",
+   "url": "https://www.cnbeta.com.tw/articles/tech/1583066.htm",
+   "summary": "在Windows 11中，有一个长期让用户感到困惑的设计：在64位系统上，C:\\Windows\\System32存放的竟然是64位系统文件，而名称中带有“64”的C:\\Windows\\SysWOW64目录，存放的反而是32位文件。对于不了解Windows历史的用户来说，这种命名方式似乎完全颠倒了。 阅读全文",
+   "published_at": 1792494975.0,
+   "published_bj": "2026-10-20 19:16"
+  },
+  {
+   "id": "0ffa3aefc332b90a",
+   "source": "cnBeta",
+   "title": "全球四分之一数据中心位于水资源紧张地区",
+   "url": "https://www.cnbeta.com.tw/articles/tech/1583064.htm",
+   "summary": "随着人工智能技术快速发展，全球数据中心数量不断增加，为聊天机器人、云计算、视频服务和各类在线应用提供计算能力。然而， 一项最新研究发现，全球约四分之一的数据中心位于水资源供需失衡的地区，每年至少有一个月，当地用水需求会超过可用水资源。如果未来全球气温继续上升，这一比例可能进一步提高至三分之一。 研究人员警告，数据中心并非建设在与其他用水者无关的孤立区域，其冷却系统所需的水资源，可能与当地居民、农业和制造业争夺同一水源。 阅读全文",
+   "published_at": 1792494868.0,
+   "published_bj": "2026-10-20 19:14"
+  },
+  {
+   "id": "f612bced116b8e14",
+   "source": "IT之家",
+   "title": "狼蛛昆仑 L5 电磁微动鼠标发售：支持 100 档震感调节，首发到手价 399.45 元",
+   "url": "https://www.ithome.com/1/015/518.htm",
+   "summary": "IT之家 10 月 20 日消息，狼蛛 (AULA) 即将于今晚发售鼠标新品昆仑 L5。这一型号搭载 SSHS 2.0 电磁微动， 支持 10 档触发点、5 档 Rapid Trigger 快速复位、100 档震感调节 。 昆仑 L5 采用对称式模具， 三维 127.47 × 93.96 × 39.50 (mm) ，质量 59±3g，两侧内收，驼峰坡度更大，设有左右键引导凹槽， 适配全部 3 种握姿 。 其 配备原相 PAW3955 光学传感器 、TTC 2M 金轮滚轮编码器、5M 侧键，覆盖类肤涂层；支持三模连接，其中 USB-C、2.4GHz 支持 8kHz 回报率； 内置 90+hr 续",
+   "published_at": 1792494840.0,
+   "published_bj": "2026-10-20 19:14"
+  },
+  {
+   "id": "4fb46e2c62a24876",
+   "source": "IT之家",
+   "title": "Aqara 绿米 LED 灯泡 T2 E14 螺口版本开售，补贴到手价 128.6 元",
+   "url": "https://www.ithome.com/1/015/517.htm",
+   "summary": "IT之家 10 月 20 日消息，Aqara 绿米 LED 灯泡 T2 E14 螺口版本现已在京东开售。新品主打 Ra90 高显色指数，支持 1600 万色彩，兼容苹果 HomeKit 生态， 标价 178 元，补贴到手价 128.6 元 。 据介绍，这款灯泡支持 RGB 幻彩光，可调整 1600 万种色彩。具备 2000K-9000K 宽裕色温范围，给家中带来属于大自然的动态光感。支持苹果 Apple Home 自适应照明，根据一天的时间和家庭地理位置自动调节色温。 同时，该产品拥有 Ra90 高显色指数，光通量高达 1100 流明。支持 Siri 语音控制、手机 App、旋钮控制等。接入苹",
+   "published_at": 1792494834.0,
+   "published_bj": "2026-10-20 19:13"
+  },
+  {
+   "id": "913df643d4cc24ae",
+   "source": "cnBeta",
+   "title": "亚马逊雨林再陷火灾危机：NASA警告2026年火季可能只是开始",
+   "url": "https://www.cnbeta.com.tw/articles/science/1583062.htm",
+   "summary": "亚马逊雨林正再次遭遇大范围火灾。美国国家航空航天局（NASA）的卫星观测显示，2026年9月以来，巴西亚马逊中部和东部地区的火灾活动与烟雾排放明显增加。科学家警告，受厄尔尼诺现象引发的干旱、全球气候变暖以及人类土地开发活动共同影响，亚马逊地区可能正进入一个持续时间更长、破坏性更强的火灾季节，而最严重的阶段还可能尚未到来。 阅读全文",
+   "published_at": 1792494829.0,
+   "published_bj": "2026-10-20 19:13"
+  },
+  {
+   "id": "7df1eb6731e7f17e",
+   "source": "cnBeta",
+   "title": "浮萍为何能小到几毫米？把茎叶“折叠”在一起",
+   "url": "https://www.cnbeta.com.tw/articles/science/1583060.htm",
+   "summary": "诺丁汉大学研究团队发现，浮萍极小的体型并非源于植物器官被大幅删减，而是较大的开花植物所拥有的茎、叶等基本结构，在进化过程中被压缩并融合进一个几毫米宽的叶状体。研究结果发表于《当代生物学》，为解释浮萍如何形成极简外形提供了新的解剖学证据 阅读全文",
+   "published_at": 1792494797.0,
+   "published_bj": "2026-10-20 19:13"
+  },
+  {
+   "id": "b23ea41b69f064ce",
+   "source": "cnBeta",
+   "title": "南极海冰从历史高位跌至近纪录低点 科学家持续追踪异常变化",
+   "url": "https://www.cnbeta.com.tw/articles/science/1583058.htm",
+   "summary": "美国国家航空航天局（NASA）和美国国家冰雪数据中心（NSIDC）最新数据显示，南极海冰在2026年冬季达到的年度最大覆盖范围位列卫星观测以来第三低水平，显示这片冰封大陆周边海冰近年来经历了显著而戏剧性的转变。 阅读全文",
+   "published_at": 1792494744.0,
+   "published_bj": "2026-10-20 19:12"
+  },
+  {
+   "id": "13c5a951e455beae",
+   "source": "IT之家",
+   "title": "直饮水低至 0.08 元 / L：京东京造 800G 4.0 净水器 499 元再降价",
+   "url": "https://www.ithome.com/1/015/516.htm",
+   "summary": "京东京造 800G 4.0 净水器日常售价 848 元，今晚 20:00 直降至 599 元。 下单立返 100 元红包，折合仅需 499 元破冰新低。 京东 11.11 红包至高 26888 元无门槛可用，每天可抽一次： 点此抽取 。 京东 京东京造 净水器 800G 白犀 4.0 20:00 599 元 直达链接 配备 6 年长效 RO 反渗透滤芯，支持直饮水 / 生活水双出水。 官方宣称“6 年 RO 反渗透滤芯”，额定净水量 6000L，实测净水量 22000L。 整机 499 元以 6000L 为例， 折合低至 0.08 元 / L ，远低于桶装水价格。",
+   "published_at": 1792494600.0,
+   "published_bj": "2026-10-20 19:10"
+  },
+  {
+   "id": "8fb7b071c736bb28",
+   "source": "IT之家",
+   "title": "消息称苹果 iPhone Duo 折痕区域较软，手指滑动会有“形变”",
+   "url": "https://www.ithome.com/1/015/515.htm",
+   "summary": "IT之家 10 月 20 日消息，据博主 @豆子发了芽 今日分享，苹果 iPhone Duo 折痕区域较软， 手指滑动都会有“形变” 。 该博主还补充了相关测试视频。从画面可以看到，当手指触摸 iPhone Duo 的折痕区域时，可以看到明显的凹痕。 另一位博主 @Kang 今日也谈及了该话题，并分享了专业人士的看法，称其在结构上还挺好： 第一是增加缓冲 ，可能在低温环境和高温环境下有空间释放收缩应力； 第二是只有铰链上方才是这样的情况 ，使用影响不大。但坏处就是考验表面聚合物贴合层的寿命， 如果硬度不够的话容易有印子 。 IT之家注意到，苹果首款折叠屏手机 iPhone Duo 已于 10 ",
+   "published_at": 1792494573.0,
+   "published_bj": "2026-10-20 19:09"
+  },
+  {
+   "id": "4728d0187d18c70c",
+   "source": "IT之家",
+   "title": "be quiet! Power Zone 2 铂金电源国行上市：140mm 静音风扇，可选 1000W",
+   "url": "https://www.ithome.com/1/015/514.htm",
+   "summary": "IT之家 10 月 20 日消息，be quiet! 现已在国行渠道销售 Power Zone 2 铂金 ATX 电源。凭借直径达 140mm 的 Pure Wings 3 风扇，该系列产品 荣获 Cybenetics LAMBDA A+~A++ 静音认证 ，享受 10 年质保。 ▲ 1000W Power Zone 2 长度为 160mm，采用 LLC + SR + DC / DC 电路拓扑和全模组布线设计，符合 ATX12V 3.1 规范要求（附赠 90° 12V-2×6 线缆），获得 80 PLUS 与 Cybenetics 双机构铂金能效认证。 ▲ 850W 该电源具备智能零转速风扇模",
+   "published_at": 1792494165.0,
+   "published_bj": "2026-10-20 19:02"
+  },
+  {
+   "id": "f9e700062dedd5ea",
+   "source": "cnBeta",
+   "title": "日版密钥卡显示《塞尔达传说：时之笛 重制版》Switch 2版容量为27GB",
+   "url": "https://www.cnbeta.com.tw/articles/game/1583056.htm",
+   "summary": "日本展示的一张《塞尔达传说：时之笛 重制版》实体密钥卡首次给出明确容量信息，卡面显示Nintendo Switch 2版游戏文件大小为27GB。准备安装数字内容的玩家可据此预留存储空间。 阅读全文",
+   "published_at": 1792494134.0,
+   "published_bj": "2026-10-20 19:02"
+  },
+  {
    "id": "4b38e175ad2399ea",
    "source": "InfoQ中文",
    "title": "调查发现：AI 生成代码会提升调试难度与故障发生率，并造成代码理解鸿沟",
@@ -56,6 +173,78 @@
    "summary": "点击查看原文>",
    "published_at": 1792494000.0,
    "published_bj": "2026-10-20 19:00"
+  },
+  {
+   "id": "65da55c9f909bc26",
+   "source": "IT之家",
+   "title": "戴尔 \"Wildcat Lake\" 轻薄本 Dell 14S 发售，16GB + 512GB 到手价 5099.15 元",
+   "url": "https://www.ithome.com/1/015/513.htm",
+   "summary": "IT之家 10 月 20 日消息，Dell（戴尔）轻薄笔记本电脑新品 Dell 14S（燃 14S Air）即将于今晚 20:00 开售。其基于第 3 代英特尔酷睿处理器 \"Wildcat Lake\"，拥有亚麻白 / 雾玫粉 / 水洗丹宁蓝 / 丝绒绿 4 种配色。 Dell 14S 采用铝合金机身，支持 180° 开合，内置 61.2Whr 电池， 轻至 1.15kg，薄至 12.21mm ；集成 2 个 2W 扬声器，支持杜比全景声；可选 2MP RGB + IR 摄像头；拥有 2 个 USB-C 10Gbps、1 个 HDMI 1.4、1 个 3.5mm 二合一音频插孔。 此次 市售配置",
+   "published_at": 1792494000.0,
+   "published_bj": "2026-10-20 19:00"
+  },
+  {
+   "id": "2bb78b98601ebc9d",
+   "source": "TechCrunch",
+   "title": "Yelp can now call on your behalf to check wait times at a restaurant",
+   "url": "https://techcrunch.com/2026/10/20/yelp-can-now-call-on-your-behalf-to-check-wait-times-at-a-restaurant/",
+   "summary": "Yelp is embedding numerous new AI features into its app that can do everything from call to check on restaurant wait times to create personalized recommendations that remember your preferences.",
+   "published_at": 1792494000.0,
+   "published_bj": "2026-10-20 19:00"
+  },
+  {
+   "id": "8c325119daf58455",
+   "source": "TechCrunch",
+   "title": "Otter.ai raises $320 million from General Catalyst’s growth fund for its meeting tool",
+   "url": "https://techcrunch.com/2026/10/20/otter-ai-raises-320-million-from-general-catalysts-growth-fund-for-its-meeting-tool/",
+   "summary": "Meeting note-taking tool Otter.ai announced on Tuesday that it has raised $320 million from General Catalyst&#8217;s Customer Value Fund (CVF), which provides capital to startups without diluting equity and gets returns on the results of marketing spend. Otter.ai said that it will use these funds fo",
+   "published_at": 1792494000.0,
+   "published_bj": "2026-10-20 19:00"
+  },
+  {
+   "id": "a79837733b11bcb5",
+   "source": "cnBeta",
+   "title": "官方定调L2禁用智驾“小蓝灯”",
+   "url": "https://www.cnbeta.com.tw/articles/tech/1583054.htm",
+   "summary": "L2级别智驾“小蓝灯”正式被官方禁用。10月20日，工业和信息化部装备工业一司发布《汽车及挂车外部照明和光信号装置的安装要求（征求意见稿）》。其中明确，不具备L3级及以上自动驾驶系统的车辆，禁止安装ADS标志灯。同时，ADS标志灯的专用光色要求为蓝绿色。此前，L2级别辅助驾驶信号灯大多采用蓝色。 阅读全文",
+   "published_at": 1792493963.0,
+   "published_bj": "2026-10-20 18:59"
+  },
+  {
+   "id": "531d52b63c47f5b1",
+   "source": "cnBeta",
+   "title": "联手小鹏三年，新车月均仅卖267辆：大众在中国卡在了哪里？",
+   "url": "https://www.cnbeta.com.tw/articles/tech/1583052.htm",
+   "summary": "10月20日，路透社发表深度文章称，大众汽车联手小鹏汽车来挽救中国业务，但是双方合作推出的车型销量远远没有达到预期。2023年，大众转向小鹏汽车，希望借助这一合作扭转在华业务的颓势。当时，大众高管大力宣传双方的合作，称这是一条捷径，能够让大众汽车以中国汽车行业的高速节奏，开发出更符合中国市场需求的车型。 阅读全文",
+   "published_at": 1792493897.0,
+   "published_bj": "2026-10-20 18:58"
+  },
+  {
+   "id": "91f12eaf5ad86243",
+   "source": "cnBeta",
+   "title": "诺奖得主：AI将抹平科学家年龄差距 30年后年轻人一年或完成前辈一生工作",
+   "url": "https://www.cnbeta.com.tw/articles/tech/1583050.htm",
+   "summary": "近日第二届国际人工智能科学家大会（ICAIS 2026）在北京中关村举行。会上，2013年诺贝尔化学奖得主、斯坦福大学结构生物学与计算机科学教授迈克尔·莱维特发表演讲，回顾了AI如何改变自己的研究工作，并预测了未来科研的变化。 阅读全文",
+   "published_at": 1792493860.0,
+   "published_bj": "2026-10-20 18:57"
+  },
+  {
+   "id": "6a6995b5851ebaf1",
+   "source": "IT之家",
+   "title": "上市价 4999 → 3259 元：vivo X300 手机 12GB+512GB 国补直降",
+   "url": "https://www.ithome.com/1/015/512.htm",
+   "summary": "【京东活动可能随时变更，需以实付款为准】 vivo X300 手机开售于 2025 年 10 月 17 日，搭载联发科天玑 9500 处理器，12GB+512GB 版本发售价为 4999 元。 京东 11.11 大促期间，按下方步骤下单，叠加 PLUS 立减 + 500 元国补后仅需 3259.59 元： 点击下方卡片跳转后 → 点击宝贝右上角“ 直播中 ”按钮 → 进入直播间可领 1200 元券。 京东 vivo X300 手机 12GB+512GB 国补后 3259.59 元 直达链接 京东 11.11 无门槛红包至高 26888 元，支持即领即用，下单直接当钱花： 点此抽取 。 vivo",
+   "published_at": 1792493841.0,
+   "published_bj": "2026-10-20 18:57"
+  },
+  {
+   "id": "ac0bc19755df87a7",
+   "source": "IT之家",
+   "title": "天齐锂业 2026 年三季度预计归母净利润 51~60 亿元，预计同比增长 2734.97%~3235.26%",
+   "url": "https://www.ithome.com/1/015/509.htm",
+   "summary": "IT之家 10 月 20 日消息，天齐锂业今日发布 2026 年三季度（2026 年 1 月～2026 年 9 月）业绩预告报告： 归母净利润 ：51 亿元 ~60 亿元，预计同比增长 2734.97%~3235.26% 扣非净利润 ：50.3 亿元 ~59.3 亿元，预计同比增长 6957.09%~8219.79% 基本每股收益 ：3 元 ~3.53 元 AI 解读 本次业绩预告归母净利润区间大幅超市场预期，业绩增长幅度显著高于市场平均预测。 公司主营业务说明 天齐锂业是以锂为核心的新能源材料企业，主营业务涵盖锂产业链的关键阶段，包括硬岩型锂矿资源的开发、锂精矿生产销售以及锂化工产品的生产销",
+   "published_at": 1792493519.0,
+   "published_bj": "2026-10-20 18:51"
   },
   {
    "id": "c4ac28ddc0067457",
@@ -148,6 +337,15 @@
    "published_bj": "2026-10-20 18:29"
   },
   {
+   "id": "b96b0bb66ae2598f",
+   "source": "Hacker News",
+   "title": "Google cloud outage takes down banks",
+   "url": "https://www.neowin.net/news/google-cloud-outage-takes-down-hsbc-revolut-bank-of-scotland-llyods-equifax-more/",
+   "summary": "Article URL: https://www.neowin.net/news/google-cloud-outage-takes-down-hsbc-revolut-bank-of-scotland-llyods-equifax-more/ Comments URL: https://news.ycombinator.com/item?id=50163961 Points: 18 # Comments: 5",
+   "published_at": 1792491962.0,
+   "published_bj": "2026-10-20 18:26"
+  },
+  {
    "id": "cb5a5e471f9ea721",
    "source": "IT之家",
    "title": "OpenXR 标准新增“空间容器”特性：支持 XR 应用在场景中多任务运行，可取得类似苹果 visionOS 体验",
@@ -163,6 +361,15 @@
    "url": "https://www.ithome.com/1/015/493.htm",
    "summary": "IT之家 10 月 20 日消息，据科技媒体 Windows Latest 今天报道，微软 Win11 拥有支持深色模式的现代化“设置”应用，但部分选项仍需要通过几十年前就存在的控制面板调整。微软产品设计副总裁 Diego Baca 如今表示， 他们也开始借助 AI 编写代码 ， 加速修复 UI 不一致问题 。 IT之家从原报道获悉，Lockergnome 创始人 Chris Pirillo 此前在 X 平台质疑微软，为何不用手里的 AI 资源统一 Windows 设计风格。Diego Baca 则对此表示，AI 智能体确实能提升团队开发效率， 但为超 10 亿个用户设计操作系统并不容易 。 ",
    "published_at": 1792491873.0,
+   "published_bj": "2026-10-20 18:24"
+  },
+  {
+   "id": "be0c5f77c9ad8c89",
+   "source": "Solidot",
+   "title": "法国超市联网制冷设备存在漏洞长达数月之久",
+   "url": "https://www.solidot.org/story?sid=85664",
+   "summary": "10 月 11 日-12 日夜间，法国数百家超市的冷藏柜和冷冻柜开始升温。攻击者将制冷系统强制切换到除霜模式——该模式会加热制冷组件以融化冰层。部分设备温度甚至高达 50°C，少数设备因此起火。根据法国的统计：家乐福超市有 80 家门店受到影响，Les Mousquetaires 旗下 Intermarché 和 Netto 超市有逾 300 家门店受影响，Monoprix 有约 5% 的门店受到影响，Coopérative U 有 80 家门店受影响，Leclerc 受影响门店数量未知。受到攻击的超市超过 400 家。这些超市都使用了丹麦公司 Danfoss 的制冷控制器。互联网扫描数据显示",
+   "published_at": 1792491859.0,
    "published_bj": "2026-10-20 18:24"
   },
   {
@@ -236,6 +443,15 @@
    "summary": "IT之家 10 月 20 日消息，圆通速递今日发布 2026 年第三季度（2026 年 7 月～2026 年 9 月）报告： 营业总收入 ：195 亿元，同比增长 6.72% 归母净利润 ：14.54 亿元，同比增长 39.06% 扣非净利润 ：14.1 亿元，同比增长 39.8% 加权平均净资产收益率 ：3.92% 基本每股收益 ：0.4248 元，同比增长 39.14% 稀释每股收益 ：0.4244 元，同比增长 39.15% AI 解读 本次财报业绩符合行业增长预期，核心盈利指标增速亮眼。 公司主营业务说明 圆通速递是国内领先的综合性快递物流运营商，以自营枢纽转运中心和扁平终端加盟网络为",
    "published_at": 1792490630.0,
    "published_bj": "2026-10-20 18:03"
+  },
+  {
+   "id": "a51ce09f9c0b0dc0",
+   "source": "少数派",
+   "title": "具透 Plus：Firefox 被「中途喝止」的界面现代化改造；Pixel 不再为 VoLTE 发愁",
+   "url": "https://sspai.com/prime/story/inside-release-notes-261020",
+   "summary": "FirefoxNova：被「中途喝止」的界面现代化改造@PlatyHsu:9月29日，Mozilla随Firefox157推出了代号为Nova的全新设计。这是继2021年Proton改版以来，Fire ... 查看全文 本文为会员文章，出自 《单篇文章》 ，订阅后可阅读全文。",
+   "published_at": 1792490514.0,
+   "published_bj": "2026-10-20 18:01"
   },
   {
    "id": "a5db9c3058783549",
