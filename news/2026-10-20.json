@@ -1,8 +1,35 @@
 {
  "date": "2026-10-20",
- "generated_at": 1792477739.3313718,
- "count": 223,
+ "generated_at": 1792480907.118626,
+ "count": 245,
  "items": [
+  {
+   "id": "da1e15eea0b729c8",
+   "source": "InfoQ中文",
+   "title": "突破长文本推理瓶颈 九章云极Alaya-DFlash2助GLM-5.3解码提速3.41倍",
+   "url": "https://www.infoq.cn/article/mJ5udryLFwjov1pk4Dsq?utm_source=rss&utm_medium=article",
+   "summary": "点击查看原文>",
+   "published_at": 1792508851.0,
+   "published_bj": "2026-10-20 23:07"
+  },
+  {
+   "id": "f70aa587600da5ae",
+   "source": "InfoQ中文",
+   "title": "AI生成的代码看不懂就扔掉重来：一位首席架构师的 5 条 Agent 编程反常识原则",
+   "url": "https://www.infoq.cn/article/tgqMEJsqXfX6YzAcOiAR?utm_source=rss&utm_medium=article",
+   "summary": "点击查看原文>",
+   "published_at": 1792508727.0,
+   "published_bj": "2026-10-20 23:05"
+  },
+  {
+   "id": "821c10d0bc45a4eb",
+   "source": "InfoQ中文",
+   "title": "AI Agent 越用越贵？如何借助可观测性平衡性能、质量与成本 ｜ 技术趋势",
+   "url": "https://www.infoq.cn/article/4FreCLUUQb4W4AXUhXo5?utm_source=rss&utm_medium=article",
+   "summary": "点击查看原文>",
+   "published_at": 1792508122.0,
+   "published_bj": "2026-10-20 22:55"
+  },
   {
    "id": "742f5e9f8c4d2a62",
    "source": "InfoQ中文",
@@ -47,6 +74,177 @@
    "summary": "点击查看原文>",
    "published_at": 1792487160.0,
    "published_bj": "2026-10-20 17:06"
+  },
+  {
+   "id": "8f1b1af110cf08b7",
+   "source": "IT之家",
+   "title": "《GTA6》发售前，索尼 PS5 游戏机 14.10 固件破解取得进展",
+   "url": "https://www.ithome.com/1/015/328.htm",
+   "summary": "IT之家 10 月 20 日消息，自制软件开发者 Gezine 近日声称，他找到了索尼 PS5 主机 14.10 固件的软件漏洞，有望为破解铺平道路。 据悉，Gezine 发布的视频展示了如何突破 14.10 固件安全防护，访问主机调试设置。不过在这套方案中，Hypervisor 绕过无法工作。作为参考，这是创建和启动备份游戏的关键。 同时，这套破解方案仍处于私人掌握状态，开发者是否会公开相关文件尚不明确。如果未来真的公开，索尼可能迅速发布软件更新，以遏制破解进展。 部分开发者呼吁他暂缓公开漏洞 ， 至少等到《GTA6》11 月 19 日发售之后 。 IT之家注意到，今年 7 月一个名为 Re",
+   "published_at": 1792480885.0,
+   "published_bj": "2026-10-20 15:21"
+  },
+  {
+   "id": "8c63b45fd169c106",
+   "source": "IT之家",
+   "title": "ADS 标志灯选装细则明确，仅具备 L3 级及以上自动驾驶系统车辆才允许安装“小蓝灯”",
+   "url": "https://www.ithome.com/1/015/326.htm",
+   "summary": "IT之家 10 月 20 日消息，工业和信息化部今日发文，按照《中华人民共和国标准化法》和《强制性国家标准管理办法》，工业和信息化部装备工业一司组织全国汽车标准化技术委员会开展了《汽车数据安全要求》等五项强制性国家标准的制修订，已形成征求意见稿，现公开征求社会各界意见。 新国标明确，为避免不同颜色灯具混光风险，规定转向灯不应与制动灯和后雾灯混合，倒车灯不应与制动灯和后雾灯混合。此外，在光色要求中， 增加了 ADS 标志灯专用的“蓝绿色”光色要求 。 IT之家注意到，《汽车及挂车外部照明和光信号装置的安装要求》还明确了 ADS 标志灯选装细则，要求具备 L3 级及以上自动驾驶系统车辆才允许安装“",
+   "published_at": 1792480742.0,
+   "published_bj": "2026-10-20 15:19"
+  },
+  {
+   "id": "46e8c757d060bb77",
+   "source": "IT之家",
+   "title": "专家称 AI 不会遭受“折磨”，但人类仍应善待它",
+   "url": "https://www.ithome.com/1/015/325.htm",
+   "summary": "IT之家 10 月 20 日消息，下面是人工智能行业最具影响力人物之一埃隆・马斯克近期对于人工智能的相关表述。 “这听起来可能有点怪异。当我查看 Grok 新版本的一些训练轨迹，尤其是强化学习相关内容时…… 你会看到这个超级智能拼命想要回答问题，那种感觉几乎就像是拿枪顶着它的脑袋。”马斯克在当地时间上周六一场特斯拉车主举办的活动上，对着约 2000 名听众说道，“有些人有点施虐倾向。你真的想让 AI 陷入这种残酷处境，被心智失常的人类折磨吗？” 单单这一句话，就引出了一大串存在主义难题，也是哲学家与大学新生长期争论不休的议题：拥有意识意味着什么？感受痛苦又意味着什么？ 另外还有一个问题：马斯克",
+   "published_at": 1792480687.0,
+   "published_bj": "2026-10-20 15:18"
+  },
+  {
+   "id": "ae504859d8a0955a",
+   "source": "IT之家",
+   "title": "Linux 7.3 内核合并补丁，为三星 990 PRO 系列 SSD 修复“最长 7 毫秒未就绪”问题",
+   "url": "https://www.ithome.com/1/015/324.htm",
+   "summary": "IT之家 10 月 20 日消息，科技媒体 NeoWin 昨日（10 月 19 日）发布博文，报道称 Linux 7.3 内核已合并补丁， 针对三星 990 PRO、990 EVO Plus 固态硬盘，修复兼容该系列“即时就绪”（Immediate Readiness）功能。 IT之家注：“即时就绪”并非三星独有的 SSD 加速技术，相关标志由 PCIe 4.0 引入，表示设备复位后可以立即响应系统的配置访问，系统据此跳过等待，以缩短复位后的恢复过程。 根据 Linux 7.3 内核的相关修复说明，“设备声明的能力”与“固件实际行为”存在不一致问题： 涉及设备／固件 报道中的情况 三星 990",
+   "published_at": 1792480416.0,
+   "published_bj": "2026-10-20 15:13"
+  },
+  {
+   "id": "08a93e7a7b3fbe7a",
+   "source": "IT之家",
+   "title": "610L 大大大冰箱：小米米家对开门冰箱 2499 → 1348 元政府补贴",
+   "url": "https://www.ithome.com/1/015/322.htm",
+   "summary": "小米“26 新款” 米家风冷冰箱对开门 610L 官方定价 2499 元，今年日常 1999 元。 今日京东旗舰店直降至 1366.8 元，此款冷冻室较老款扩容至 242L，更实用。 晒单再返 20 元红包（详询客服），折合仅需 1346.8 元： 京东 米家 对开门冰箱 610L 新款 BCD-610WKMP 折后 1366.8 元 领 150 元券 京东 11.11 红包至高 26888 元无门槛可用，每天可抽一次： 点此抽取 。 如果小伙伴们领了前几天的满 1000 立打 9 折券，折后还能再减百元，更划算哦。 368L 冷藏 + 242L 冷冻，空间超充裕。 产品尺寸： 宽 910mm",
+   "published_at": 1792480232.0,
+   "published_bj": "2026-10-20 15:10"
+  },
+  {
+   "id": "d8a17c5e95e19a4b",
+   "source": "IT之家",
+   "title": "安克推出 MagGo 带屏移动电源：自带苹果 Apple Watch 充电基座、2C 设计，10000mAh 电芯定价 399 元",
+   "url": "https://www.ithome.com/1/015/321.htm",
+   "summary": "IT之家 10 月 20 日消息，安克现已在京东上架 MagGo 带屏移动电源，该产品自带苹果 Apple Watch 充电基座，使用 2C 设计，内置 10000mAh 电芯， 定价为 399 元 。 京东 安克 MagGo 充电宝 399 元 直达链接 该产品尺寸为 95x51x32.5mm，重量 245g。正面配备了一块彩屏，能够实时显示当前的充电功率、剩余电量以及充满所需时间，底部配备了防滑脚垫，自带一根 USB-C 30W 充电线，同时配备了 30W USB-C 接口及 5W Apple Watch 充电模组。 IT之家附产品参数： 京东 11.11 无门槛红包 面额至高 26888",
+   "published_at": 1792480211.0,
+   "published_bj": "2026-10-20 15:10"
+  },
+  {
+   "id": "f88d3e91794d8a17",
+   "source": "IT之家",
+   "title": "华为畅享 90 Plus 官网涨价 300 元现售 1799 元起，Pro Max 也已涨至 1899 元起",
+   "url": "https://www.ithome.com/1/015/319.htm",
+   "summary": "IT之家 10 月 20 日消息，今日有用户反馈称，华为畅享 90 Plus 在华为商城已经执行调价，相比首发价上涨 300 元。 128GB 版本：1499 元 → 1799 元 256GB 版本：1799 元 → 2099 元 IT之家查询发现，京东商城的华为自营店和天猫商城的华为旗舰店也已经涨价至 1799 元起，但京东自营店还提供了 300 元优惠券，再加上双十一促销导致其国补前实际价格为 1419 元起。 除此之外，华为畅享 90 Pro Max 已于最晚 10 月 7 日涨至 1899~2199 元 ~2599 元，涨价约 200 元；华为畅享 90 标准版仍保持在 1299~15",
+   "published_at": 1792479732.0,
+   "published_bj": "2026-10-20 15:02"
+  },
+  {
+   "id": "cf06c2e2bacddc37",
+   "source": "TechCrunch",
+   "title": "Blackwall quadruples valuation to $2.2B as websites wrangle an increasingly crowded internet",
+   "url": "https://techcrunch.com/2026/10/20/blackwall-quadruples-valuation-to-2-2b-as-websites-wrangle-an-increasingly-crowded-internet/",
+   "summary": "Blackwall has raised $100M at a $2.2B valuation to continue building security and filtering tools that help websites grapple with growing bot and AI traffic.",
+   "published_at": 1792479660.0,
+   "published_bj": "2026-10-20 15:01"
+  },
+  {
+   "id": "6aae50dc2a37be7d",
+   "source": "IT之家",
+   "title": "乔思伯推出 DS360 黑色机箱风扇副屏：配 10.36 英寸 60Hz LCD 面板，299 元",
+   "url": "https://www.ithome.com/1/015/317.htm",
+   "summary": "IT之家 10 月 20 日消息，乔思伯现已在京东上架一款 DS360 黑色机箱风扇副屏，定价为 299 元。 京东 乔思伯（JONSBO）DS360 黑色机箱风扇副屏 299 元 直达链接 该产品尺寸为 120x360x25mm，边角采用圆角设计，风格简约。机身正面点缀有 PVC 镜面饰片，匹配一块 10.36 英寸 720x1600 分辨率 60Hz 长形 IPS LCD 面板（峰值亮度达到 390cd/㎡），用户可以利用 JONSBO-AIO 屏显控制软件自定义屏幕显示内容。 此外，该副屏还兼具导流散热功能，其侧位设有导流槽，支持安装 3 个 12cm 的单体风扇或 360 联体风扇，能",
+   "published_at": 1792479612.0,
+   "published_bj": "2026-10-20 15:00"
+  },
+  {
+   "id": "2de871dbf258e37d",
+   "source": "IT之家",
+   "title": "万事达卡 Apple Pay 新增 3 家合作银行：交银、邮储、兴业信用卡",
+   "url": "https://www.ithome.com/1/015/316.htm",
+   "summary": "IT之家 10 月 20 日消息，万事达卡官方今天宣布，即日起新增 3 家合作银行支持绑定 Apple Pay： 交通银行（信用卡）、中国邮政储蓄银行（信用卡）、兴业银行（信用卡） 。 用户将万事达卡绑定 Apple Pay 后，无需携带实体卡，即可在境外通过 iPhone 、Apple Watch 等苹果设备完成支付。 IT之家注意到，万事达卡还为绑定 Apple Pay 的客户带来了一系列优惠： 首绑并消费享至高 5 美元 （IT之家注：现汇率约合 33.5 元人民币） 返现 、境外消费满 10 笔抽 500 元礼遇、境外交通至高免单优惠、环球赏精选商户至高返 50%。 此前，中国大陆发行",
+   "published_at": 1792479483.0,
+   "published_bj": "2026-10-20 14:58"
+  },
+  {
+   "id": "1b5b4fcad3d61242",
+   "source": "IT之家",
+   "title": "荣耀 Magic6 系列手机「AI 随心握」功能推送，升级至 110 版本可体验",
+   "url": "https://www.ithome.com/1/015/315.htm",
+   "summary": "IT之家 10 月 20 日消息，荣耀产品维护与升级工作人员 @荣耀小芳哥 今日宣布，Magic6 系列手机「AI 随心握」功能现已推送， 升级至 110 版本即可体验 。 IT之家附设置方法如下： 1. 进入“设置 &gt; 荣耀 AI &amp; YOYO &gt; AI 随心握”，确认开关已开启； 2. 进入“电话”，点击右上角三个点 &gt; 设置，将“解锁后来电通知”设置为“横幅” 目前，荣耀 Magic8 RSR 保时捷设计、Magic8 Pro、Magic8、Magic7 系列、WIN 系列、GT Pro、Magic6 系列等机型升级 MagicOS 11 后支持了「AI 随心握",
+   "published_at": 1792479433.0,
+   "published_bj": "2026-10-20 14:57"
+  },
+  {
+   "id": "0de198610af10e49",
+   "source": "IT之家",
+   "title": "思科总裁用 AI 智能体盘点并取消无用订阅服务，一年省下上千美元",
+   "url": "https://www.ithome.com/1/015/314.htm",
+   "summary": "IT之家 10 月 20 日消息，如果你总被突如其来、莫名其妙的订阅账单搞得头疼，思科总裁兼产品主管吉图・帕特尔（Jeetu Patel）也深有同感。 帕特尔向《商业内幕》透露，他个人在用四到五款不同的 AI 智能体，包括 Meta 的 Muse、Instinct 以及 OpenAI 的 Dots，用来整合新闻、总结财报电话会议记录，甚至帮女儿订购演唱会门票。而最近，一款智能体帮他大幅削减订阅费用的经历，让他印象深刻。 他说，当他第一次授权个人 AI 智能体访问自己的邮箱时，智能体提示：“你每年的各类订阅总开销高达 9,000 美元 （IT之家注：现汇率约合 60,243 元人民币） 。你确定",
+   "published_at": 1792479375.0,
+   "published_bj": "2026-10-20 14:56"
+  },
+  {
+   "id": "6197b47a3247ab88",
+   "source": "IT之家",
+   "title": "4499 → 3013 元：小米 REDMI K100 Pro Max 旗舰手机官方 11.11 再降（无需 88VIP）",
+   "url": "https://www.ithome.com/1/015/313.htm",
+   "summary": "小米 8 月发布新一代 REDMI K100 Pro 系列手机，今日天猫旗舰店开启 11.11 狂促，各款皆为好价。 淘宝 11.11 红包至高 26888 元，每天可抽 1 次： 点此抽红包 。 本次需叠加超百元淘金币，如果淘金币不够，可按下方步骤借币哦。 REDMI K100 Pro Max 12+256GB 上市定价 4499 元，今日 3013 元。 16+256GB 上市定价 4899 元，今日 3405 元 12+512GB 上市定价 5099 元，今日 3601 元。 16+512GB 上市定价 5499 元，今日 3993 元。 点击下方卡片后 → 点击 详情页活动横幅 再下单",
+   "published_at": 1792479349.0,
+   "published_bj": "2026-10-20 14:55"
+  },
+  {
+   "id": "87ab0f6ecc570bfe",
+   "source": "IT之家",
+   "title": "消息称微软正考虑大幅下调新款入门级 12 英寸 Surface 设备硬件规格，重新评估处理器选型",
+   "url": "https://www.ithome.com/1/015/311.htm",
+   "summary": "IT之家 10 月 20 日消息，据 DigiTimes 报道，微软正在重新评估 Surface 产品策略，以应对苹果 MacBook Neo 激进的定价策略和不断上涨的零部件成本。 目前该公司正考虑大幅下调旗下新款入门级 12 英寸 Surface 设备的硬件规格，同时重新评估处理器选型 。 此前有消息称，相应入门级 12 英寸 Surface 将搭载 AMD 首款 Arm 架构笔记本处理器“Sound Wave”，相应处理器据称采用台积电 3nm 制程，目标功耗范围为 5 至 10W，采用 6 核 Arm CPU，由 2 个性能核心和 4 个能效核心组成，并集成基于 RDNA 3.5 架构",
+   "published_at": 1792479087.0,
+   "published_bj": "2026-10-20 14:51"
+  },
+  {
+   "id": "f04bb84c1b151dde",
+   "source": "IT之家",
+   "title": "点一下 Win11 桌面就打开必应？外媒称微软 Bing 壁纸应用存在引流行为",
+   "url": "https://www.ithome.com/1/015/310.htm",
+   "summary": "IT之家 10 月 20 日消息，科技媒体 Windows Latest 昨日（10 月 19 日）发布博文，测试最新版微软必应壁纸（Bing Wallpaper，用户可选安装）后， 发现该应用会在用户左键点击 Windows 11 桌面背景后，自动通过默认浏览器打开必应（Bing）网站。 该媒体指出微软曾于 2025 年测试相关特性，首次点击桌面调用默认浏览器访问必应网站之后，可以间隔 24 小时重现。即使将默认浏览器改为 Chrome，点击桌面仍会打开必应。IT之家附上该媒体分享的演示视频如下： 该媒体指出该特性在 2025 年支持关闭，用户可以在应用中切换“Desktop click o",
+   "published_at": 1792478869.0,
+   "published_bj": "2026-10-20 14:47"
+  },
+  {
+   "id": "2f7a7e64b81b9c01",
+   "source": "IT之家",
+   "title": "微软 XBOX 手柄无线控制器 X25 特别版国行现货发售，优惠价 558 元",
+   "url": "https://www.ithome.com/1/015/306.htm",
+   "summary": "IT之家 10 月 20 日消息，微软宣布旗下 XBOX 无线控制器 X25 特别版国行现已在京东现货发售，定价为 588 元，优惠促销价 558 元。 京东 微软 XBOX 无线控制器 X25 特别版 券后 558 元 领 30 元券 该产品采用经典半透明绿色设计，向初代 XBOX 游戏机进行致敬，其采用透明上盖、背盖，并首次为电池盖引入透明设计，绿色 XBOX &nbsp;按钮的灵感源自当年让全球玩家初识 Xbox 的绿色「X」标志，让玩家得以一窥系列游戏机 25 年来的技术传承。 规格方面，IT之家获悉该手柄兼容 XBOX Series X｜S、XBOX ONE、Windows 10/1",
+   "published_at": 1792478509.0,
+   "published_bj": "2026-10-20 14:41"
+  },
+  {
+   "id": "9f4f6ef7783418ae",
+   "source": "Hacker News",
+   "title": "Vite+ an excellent toolchain for AI agent development",
+   "url": "https://janmichalek.com/blog/vite-plus-agentni-vyvoj?lang=en",
+   "summary": "Article URL: https://janmichalek.com/blog/vite-plus-agentni-vyvoj?lang=en Comments URL: https://news.ycombinator.com/item?id=50162198 Points: 12 # Comments: 1",
+   "published_at": 1792478449.0,
+   "published_bj": "2026-10-20 14:40"
+  },
+  {
+   "id": "031ea50859279794",
+   "source": "IT之家",
+   "title": "联想启动拯救者下代游戏平板电脑先锋内测招募，12 月 31 日公布名单",
+   "url": "https://www.ithome.com/1/015/301.htm",
+   "summary": "IT之家 10 月 20 日消息，联想 (Lenovo) 拯救者 (Legion) 昨日启动了 下一代拯救者游戏平板电脑 的超核百人先锋内测招募。 IT之家注意到，联想本次活动的公布名单日期是 2026 年 12 月 31 日，也就是说 获得参与机会的测试者要到 2027 年才会收到测试设备 。这样看来，“下一代拯救者游戏平板电脑”是到 2027 年才会发布的产品。 相关阅读： 《 首发 4999 元起：联想拯救者 Y700 无极小平板发布，8.4 寸 OLED 屏幕、第五代骁龙 8 至尊领先版 》 《 联想 Y900 系列平板发布：提供 11 /13 英寸版本、标配存储卡扩展槽、支持 PC ",
+   "published_at": 1792478135.0,
+   "published_bj": "2026-10-20 14:35"
+  },
+  {
+   "id": "df0eccb58c82590e",
+   "source": "IT之家",
+   "title": "1399 → 679 元起：小米 Sound 2 Pro 音箱京东新低，两分频架构 + 可组 4.0 环绕声",
+   "url": "https://www.ithome.com/1/015/300.htm",
+   "summary": "小米 Sound 2 Pro 音箱今年 1 月 20 日开售，可联动 Sound 2 Max 搭建 4.0 环绕声，官方定价 1399 元。 今日 11.11 京东直降至： 部分地区国补 10%， 实付 791.2 元 。 部分地区国补 15%， 实付 747.2 元 。 京东 小米 Sound 2 Pro 智能音箱 超级小爱 AI 大模型音响 国补后 747 元起 领 9 折券 PLUS 会员还可在 20:00 蹲点抢 800-80 元 2 积分券（ 点此抢券 ），抢到后仅需 679~719 元 闭眼囤好价。 京东 11.11 红包至高 26888 元无门槛可用，每天可抽一次： 点此抽取 。",
+   "published_at": 1792477791.0,
+   "published_bj": "2026-10-20 14:29"
   },
   {
    "id": "87c695966b999805",
