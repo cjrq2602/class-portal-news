@@ -1,7 +1,7 @@
 {
  "date": "2026-10-20",
- "generated_at": 1792459006.327748,
- "count": 78,
+ "generated_at": 1792459877.1610036,
+ "count": 86,
  "items": [
   {
    "id": "09ede2667a5f465f",
@@ -11,6 +11,69 @@
    "summary": "点击查看原文>",
    "published_at": 1792487160.0,
    "published_bj": "2026-10-20 17:06"
+  },
+  {
+   "id": "b6c80c168ce6e88d",
+   "source": "TechCrunch",
+   "title": "Mamdani says feds have abdicated on AI, urges New Yorkers to push back",
+   "url": "https://techcrunch.com/2026/10/19/mamdani-says-feds-have-abdicated-on-ai-urges-new-yorkers-to-push-back/",
+   "summary": "Mayor Zohran Mamdani said Monday night that New Yorkers must resist the narrative that an AI takeover is inevitable and demand regulations that protect the public and put power back in their hands.",
+   "published_at": 1792459623.0,
+   "published_bj": "2026-10-20 09:27"
+  },
+  {
+   "id": "3797ec49faacc4ad",
+   "source": "IT之家",
+   "title": "英特尔向 FCC 申请禁令豁免：美国芯片工厂离不开外国 AGV 机器人",
+   "url": "https://www.ithome.com/1/015/106.htm",
+   "summary": "IT之家 10 月 20 日消息，据彭博社报道，英特尔公司已向美国联邦通信委员会（FCC）申请豁免近期一项针对境外先进机器人的禁令，称其需要持续使用这类对美国半导体制造至关重要的“小众”设备。 这份 10 月 16 日提交、当地时间周一对外公开的请愿文件显示，英特尔担心自家工厂使用的自动导引车（AGV）会被纳入这项针对境外新技术的全面进口与销售禁令。这类设备用于半导体工厂内部运送物料。 英特尔在申请书中表示，保证这批机器人正常运转对美国国家安全“至关重要”。目前没有成熟的国产替代产品能够满足英特尔严苛标准，替换现有设备需要数年时间。一旦设备运行中断，将“立刻对英特尔在美国本土的半导体制造产能造",
+   "published_at": 1792459494.0,
+   "published_bj": "2026-10-20 09:24"
+  },
+  {
+   "id": "2474bd0aa7725ccb",
+   "source": "IT之家",
+   "title": "格力技工学校开学第一课，校长董明珠称禁止谈恋爱、宰学生的超市不许开",
+   "url": "https://www.ithome.com/1/015/105.htm",
+   "summary": "IT之家 10 月 20 日消息，由格力电器牵头打造、董明珠亲自担任校长的珠海市格力技工学校， 于本月（10 月 4 日）正式迎来建校后的首批新生入学报到 。 据红星新闻报道，10 月 19 日，珠海市格力技工学校开学第一课，校长董明珠围绕校园日常和生活细节对首届新生提出纪律要求：“那天我到超市一看，一个橘子 1.5 块，那宰我们学生？这种超市是不允许在这开的。 十几岁的娃娃讲谈恋爱，这是不允许的 。” 董明珠还表示，看到学生头发很长，就请了专业的理发师队伍，周末在这里做义工，给学生剪头发。 据北京日报、澎湃新闻报道，该校首届招生便吸引了超过 8000 人报名，经过层层筛选，最终录取的首批学生",
+   "published_at": 1792459462.0,
+   "published_bj": "2026-10-20 09:24"
+  },
+  {
+   "id": "66fe09c4cadbc2f6",
+   "source": "IT之家",
+   "title": "Win11 学院：如何在 Windows 11 RP 26x00.9807 预览版上启用新版右键菜单",
+   "url": "https://www.ithome.com/1/015/103.htm",
+   "summary": "IT之家 10 月 20 日消息，科技媒体 NeoWin 昨日（10 月 19 日）发布博文，介绍了利用第三方修改工具 ViveTool， 在 Windows 11 Release Preview 频道版本 Build 26200.9807 与 26300.9807 上，启用新版右键菜单。 在上述两个 Windows 11 预览版中，微软采用分阶段推送方式，已邀请部分 Release Preview 频道用户参与测试，对于暂未获得推送的用户，可以通过 ViveTool 工具方式启用。 在体验方面，旧版右键菜单存在常用操作层级过深、第三方应用选项被折叠进“显示更多选项”，以及自定义能力不足等问题",
+   "published_at": 1792459346.0,
+   "published_bj": "2026-10-20 09:22"
+  },
+  {
+   "id": "52155216a9772718",
+   "source": "IT之家",
+   "title": "最强小米金沙江电池：REDMI K100 手机搭载 10000mAh 电池，-20°C 下可提供稳定高性能体验",
+   "url": "https://www.ithome.com/1/015/102.htm",
+   "summary": "IT之家 10 月 20 日消息，小米 REDMI K100 手机已定档 10 月 27 日晚 7 点，官方今日对新品进行预热，官宣 REDMI K100 手机搭载 10000mAh 小米金沙江电池 。 该电池达 28% 硅碳含量、957Wh/L 能量密度；在-20°C 低温下仍可提供稳定高性能体验，官方称之为“ 最强小米金沙江电池 ”。 IT之家整理小米 REDMI K100 标准版已公布 / 曝光配置如下： 性能：骁龙 8 至尊版 | 游戏独显 D2 屏幕：6.83 英寸大屏 | 升级 165Hz 刷新率 | 3500nits 超高亮度 | 小米青山护眼 4.0 触控：480Hz 多指触控",
+   "published_at": 1792459267.0,
+   "published_bj": "2026-10-20 09:21"
+  },
+  {
+   "id": "555ac2810eb3c266",
+   "source": "IT之家",
+   "title": "京东红包今日 10 点再加码：猜数字抢 5 元红包",
+   "url": "https://www.ithome.com/1/015/101.htm",
+   "summary": "今日 10 点京东红包再加码，猜数字有机会抢 5 元加码红包： 点此抽取 。 猜数字红包玩法：每人 3 次机会，猜中锦鲤数字后即可获得领取额外奖励的机会，可随机获得京东红包、品类东券或店铺券等奖励。猜错后会缩小锦鲤数字的范围并提示用户，如果用户 3 次机会均未猜中，则无法获得任何奖励。 蚊子肉也是肉，节点开始越早抢红包金额越大，小伙伴可每天都领（多个红包支持叠加使用），积攒多天后带走个大件哦 ~ 京东 11.11 无门槛红包 面额至高 26888 元，每天抽 3 次： 点此抽红包 。 淘宝 11.11 无门槛红包 面额至高 26888 元，每天抽 1 次： 点此抽红包 。",
+   "published_at": 1792459171.0,
+   "published_bj": "2026-10-20 09:19"
+  },
+  {
+   "id": "12b167e6d9675c1f",
+   "source": "IT之家",
+   "title": "消息称三星预估 2027 年 OLED Galaxy A 智能手机出货仅 1 亿部，年减 1000 万部",
+   "url": "https://www.ithome.com/1/015/100.htm",
+   "summary": "IT之家 10 月 20 日消息，韩媒 ZDNET Korea 当地时间昨日报道称，三星电子 MX 业务近期向合作伙伴分享了对 2027 年 OLED 屏幕 Galaxy A 系列中低端智能手机出货的最新预计： 1 亿部 。 三星的 Galaxy A 智能手机中仅有最入门的 A0 家族使用 LCD 显示面板、 A1、A2、A3、A5 级别现已全部使用 OLED 。 消息人士表示，三星电子预计 2026 年的 OLED Galaxy A 出货量为 1.1 亿部，也就是说 明年将减少 1,000 万部 。三星电子在今年 9 月下旬分享的 2027 年 OLED Galaxy A 早期出货预测则是 ",
+   "published_at": 1792459029.0,
+   "published_bj": "2026-10-20 09:17"
   },
   {
    "id": "6df89fb04f482ecc",
@@ -92,6 +155,15 @@
    "summary": "IT之家 10 月 20 日消息，一名被指控在 AI 初创企业 OpenAI 办公室安装窃听设备的前 OpenAI 工程师，当地时间周一被旧金山法官驳回保释申请，这意味着他只能在狱中开展辩护。 美国司法部于当地时间 10 月 9 日逮捕了阿卜杜勒拉赫曼 · 阿尔福赞（Abdulrahman Alfozan），指控他使用或企图使用设备截获口头通信。检方称，他在 OpenAI 一间会议室的电视机后方放置了录音设备。联邦调查局的宣誓证词中附有照片：该设备用卫生纸包裹，还有一张照片中，一名被认定为阿尔福赞的男子正朝电视机后方张望。 周一，这名工程师戴着黄色医用口罩，身穿监狱发放的橙色运动衫，出现在旧金",
    "published_at": 1792457777.0,
    "published_bj": "2026-10-20 08:56"
+  },
+  {
+   "id": "c03e0477ffb24f9e",
+   "source": "Hacker News",
+   "title": "Lula supporters protest against Meta to denounce its 'electoral interference'",
+   "url": "https://efe.com/english/latest-news/2026-10-20/lula-supporters-protest-against-meta-to-denounce-its-electoral-interference/",
+   "summary": "Article URL: https://efe.com/english/latest-news/2026-10-20/lula-supporters-protest-against-meta-to-denounce-its-electoral-interference/ Comments URL: https://news.ycombinator.com/item?id=50159993 Points: 4 # Comments: 0",
+   "published_at": 1792457632.0,
+   "published_bj": "2026-10-20 08:53"
   },
   {
    "id": "bb6f3e8ecfd24c8c",

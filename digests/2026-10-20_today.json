@@ -1,0 +1,382 @@
+{
+ "type": "today",
+ "date": "2026-10-20",
+ "window": {
+  "start_ts": 1792425600.0,
+  "end_ts": 1792458000.0
+ },
+ "generated_at": 1792459877.306116,
+ "generator": "action",
+ "news_count": 74,
+ "keywords": [
+  "ai",
+  "苹果",
+  "发布",
+  "to",
+  "anthropic",
+  "are",
+  "for",
+  "its",
+  "the",
+  "is"
+ ],
+ "points": [
+  {
+   "text": "【ai】苹果宣布将于10月28日举行产品发布活动，并于周一向媒体和分析师发出邀请，活动名为“Apple Experience in Los Angele",
+   "keyword": "ai",
+   "news_ids": [
+    "68fdc23aa33199a3"
+   ],
+   "refs": [
+    {
+     "id": "68fdc23aa33199a3",
+     "title": "苹果宣布将于10月28日举行产品发布活动 分析师预计将推出触屏笔记本电脑",
+     "source": "cnBeta",
+     "url": "https://www.cnbeta.com.tw/articles/tech/1582946.htm",
+     "published_at": 1792448676.0
+    }
+   ]
+  },
+  {
+   "text": "【ai】After drawing acquisition interest earlier this year, the Nvidia challen",
+   "keyword": "ai",
+   "news_ids": [
+    "9132f38d30233abc"
+   ],
+   "refs": [
+    {
+     "id": "9132f38d30233abc",
+     "title": "Tenstorrent hits $6.2B valuation to scale open-weight AI chips",
+     "source": "TechCrunch",
+     "url": "https://techcrunch.com/2026/10/19/tenstorrent-hits-6-2b-valuation-to-scale-open-weight-ai-chips/",
+     "published_at": 1792435047.0
+    }
+   ]
+  },
+  {
+   "text": "【ai】Microsoft wants enterprises to closely watch the agents employees use wi",
+   "keyword": "ai",
+   "news_ids": [
+    "cfdf9974b18927c8"
+   ],
+   "refs": [
+    {
+     "id": "cfdf9974b18927c8",
+     "title": "Microsoft says AI agents are like insider threats as ‘frontier models can’t be trusted’",
+     "source": "TechCrunch",
+     "url": "https://techcrunch.com/2026/10/19/microsoft-says-ai-agents-are-like-insider-threats-as-frontier-models-cant-be-trusted/",
+     "published_at": 1792447468.0
+    }
+   ]
+  },
+  {
+   "text": "【苹果】IT之家 10 月 20 日消息，科技媒体 MacRumors 今天（10 月 20 日）发布博文， 报道称从部分用户晒出的订单交付日期来看，苹",
+   "keyword": "苹果",
+   "news_ids": [
+    "e19bcc792141451d"
+   ],
+   "refs": [
+    {
+     "id": "e19bcc792141451d",
+     "title": "苹果首款折叠 iPhone Duo 供货现缓解信号：部分订单从 12 月提前至 10 月",
+     "source": "IT之家",
+     "url": "https://www.ithome.com/1/015/076.htm",
+     "published_at": 1792453303.0
+    }
+   ]
+  },
+  {
+   "text": "【ai】Article URL: https://www",
+   "keyword": "ai",
+   "news_ids": [
+    "2e5db9eb4575cf6e"
+   ],
+   "refs": [
+    {
+     "id": "2e5db9eb4575cf6e",
+     "title": "AI companies are coming for the plumbers",
+     "source": "Hacker News",
+     "url": "https://www.tomshardware.com/tech-industry/artificial-intelligence/ai-lab-offers-free-plumbing-and-hvac-repairs-across-three-cities-to-train-ai-robots-wearable-sensors-record-video-of-repair-work-for-robotics-training-free-services-also-include-electrical-work-air-duct-cleaning-and-carpet-cleaning",
+     "published_at": 1792425809.0
+    }
+   ]
+  },
+  {
+   "text": "【ai】OpenCode is an open-source AI coding agent that's become a popular alter",
+   "keyword": "ai",
+   "news_ids": [
+    "24599c9a17817638"
+   ],
+   "refs": [
+    {
+     "id": "24599c9a17817638",
+     "title": "Hackers hit AI coding tool OpenCode, running up charges on users’ AI accounts",
+     "source": "TechCrunch",
+     "url": "https://techcrunch.com/2026/10/19/hackers-hit-ai-coding-tool-opencode-running-up-charges-on-users-ai-accounts/",
+     "published_at": 1792438114.0
+    }
+   ]
+  },
+  {
+   "text": "【ai】AI labs have staked their reputations on model benchmarking — the suppos",
+   "keyword": "ai",
+   "news_ids": [
+    "3aa816c60175d7ef"
+   ],
+   "refs": [
+    {
+     "id": "3aa816c60175d7ef",
+     "title": "Embedded AI evaluators won’t be an easy solution, Hugging Face’s policy chief says",
+     "source": "TechCrunch",
+     "url": "https://techcrunch.com/2026/10/19/embedded-ai-evaluators-wont-be-an-easy-solution-hugging-faces-policy-chief-says/",
+     "published_at": 1792450167.0
+    }
+   ]
+  },
+  {
+   "text": "【ai】AI companion app Tolan has raised another $30 million after attracting m",
+   "keyword": "ai",
+   "news_ids": [
+    "4a3a18b8ea8895c1"
+   ],
+   "refs": [
+    {
+     "id": "4a3a18b8ea8895c1",
+     "title": "Tolan snags $30M for its AI companion that helps users navigate life",
+     "source": "TechCrunch",
+     "url": "https://techcrunch.com/2026/10/19/tolan-snags-30m-for-its-ai-companion-that-helps-users-navigate-life/",
+     "published_at": 1792436412.0
+    }
+   ]
+  },
+  {
+   "text": "GTA6》发售预告在YouTube上线三天后获得4700万次观看，超过《给他爱5》同类预告约13年累计的3400万次",
+   "keyword": "",
+   "news_ids": [
+    "397a221bb409dc96"
+   ],
+   "refs": [
+    {
+     "id": "397a221bb409dc96",
+     "title": "GTA6》预告三天播放量超过前作13年累计",
+     "source": "cnBeta",
+     "url": "https://www.cnbeta.com.tw/articles/game/1582948.htm",
+     "published_at": 1792448893.0
+    }
+   ]
+  },
+  {
+   "text": "Article URL: https://bsd",
+   "keyword": "",
+   "news_ids": [
+    "10f209643a60e63c"
+   ],
+   "refs": [
+    {
+     "id": "10f209643a60e63c",
+     "title": "OpenBSD 8.0 release will have inteldrm/radeondrm/amdgpu drivers from Linux 6.18",
+     "source": "Hacker News",
+     "url": "https://bsd.network/@brynet/117407035545900963",
+     "published_at": 1792444305.0
+    }
+   ]
+  },
+  {
+   "text": "Article URL: https://d2survivors",
+   "keyword": "",
+   "news_ids": [
+    "9101763b174f3dd7"
+   ],
+   "refs": [
+    {
+     "id": "9101763b174f3dd7",
+     "title": "Diablo 2 Survivors",
+     "source": "Hacker News",
+     "url": "https://d2survivors.lol/",
+     "published_at": 1792444257.0
+    }
+   ]
+  },
+  {
+   "text": "Article URL: https://calabro",
+   "keyword": "",
+   "news_ids": [
+    "163e0bd5534c1539"
+   ],
+   "refs": [
+    {
+     "id": "163e0bd5534c1539",
+     "title": "One Hash Bloom Filters",
+     "source": "Hacker News",
+     "url": "https://calabro.io/ohbf",
+     "published_at": 1792443008.0
+    }
+   ]
+  },
+  {
+   "text": "Jev迎来中国挑战者：StartLux登顶决策模型榜单，还学会了“拿不准再想”",
+   "keyword": "",
+   "news_ids": [
+    "c39ed7d86ed5717b"
+   ],
+   "refs": [
+    {
+     "id": "c39ed7d86ed5717b",
+     "title": "Jev迎来中国挑战者：StartLux登顶决策模型榜单，还学会了“拿不准再想”",
+     "source": "InfoQ中文",
+     "url": "https://www.infoq.cn/article/bROfcYFpijQQVBz4NqDi?utm_source=rss&utm_medium=article",
+     "published_at": 1792442014.0
+    }
+   ]
+  },
+  {
+   "text": "Article URL: https://lastwordonnothing",
+   "keyword": "",
+   "news_ids": [
+    "d88ca48b8fbd1832"
+   ],
+   "refs": [
+    {
+     "id": "d88ca48b8fbd1832",
+     "title": "My Neighbor, Me, and a Grand Principle",
+     "source": "Hacker News",
+     "url": "https://lastwordonnothing.com/2026/10/19/my-neighbor-me-and-a-grand-principle/",
+     "published_at": 1792436753.0
+    }
+   ]
+  },
+  {
+   "text": "Kubernetes多集群项目Karmada完成CNCF毕业",
+   "keyword": "",
+   "news_ids": [
+    "5a2f971bc4b881e7"
+   ],
+   "refs": [
+    {
+     "id": "5a2f971bc4b881e7",
+     "title": "Kubernetes多集群项目Karmada完成CNCF毕业",
+     "source": "InfoQ中文",
+     "url": "https://www.infoq.cn/article/4t84hFyjYP6gq9KNWE60?utm_source=rss&utm_medium=article",
+     "published_at": 1792430580.0
+    }
+   ]
+  }
+ ],
+ "article": {
+  "title": "2026-10-20 新闻总结",
+  "paragraphs": [
+   {
+    "kind": "lead",
+    "text": "今天共收录 74 条新闻，来自 5 家媒体。把标题放在一起看，讨论主要集中在 AI、发布、推出 这几个方向上，其余消息更像是零散补充。"
+   },
+   {
+    "kind": "section",
+    "heading": "电脑",
+    "text": "先看「电脑」。苹果宣布将于10月28日举行产品发布活动，并于周一向媒体和分析师发出邀请，活动名为“Apple Experience in Los Angeles”，另有 29 条消息指向同一话题。这类进展更像是把已有能力往工程化落地推了一步，真正的分水岭在于成本和可靠性能不能同时压下来。",
+    "news_ids": [
+     "68fdc23aa33199a3"
+    ],
+    "refs": [
+     {
+      "id": "68fdc23aa33199a3",
+      "title": "苹果宣布将于10月28日举行产品发布活动 分析师预计将推出触屏笔记本电脑",
+      "source": "cnBeta",
+      "url": "https://www.cnbeta.com.tw/articles/tech/1582946.htm",
+      "published_at": 1792448676.0
+     }
+    ]
+   },
+   {
+    "kind": "section",
+    "heading": "AI",
+    "text": "与此同时「AI」。After drawing acquisition interest earlier this year, the Nvidia challenger rais，另有 14 条消息指向同一话题。这条消息短期内的实际影响可能有限，但它指向的方向值得放进观察名单。",
+    "news_ids": [
+     "9132f38d30233abc"
+    ],
+    "refs": [
+     {
+      "id": "9132f38d30233abc",
+      "title": "Tenstorrent hits $6.2B valuation to scale open-weight AI chips",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/10/19/tenstorrent-hits-6-2b-valuation-to-scale-open-weight-ai-chips/",
+      "published_at": 1792435047.0
+     }
+    ]
+   },
+   {
+    "kind": "section",
+    "heading": "AI",
+    "text": "另一个值得注意的方向是「AI」。Microsoft wants enterprises to closely watch the agents employees use with syste，另有 4 条消息指向同一话题。这条消息短期内的实际影响可能有限，但它指向的方向值得放进观察名单。",
+    "news_ids": [
+     "cfdf9974b18927c8"
+    ],
+    "refs": [
+     {
+      "id": "cfdf9974b18927c8",
+      "title": "Microsoft says AI agents are like insider threats as ‘frontier models can’t be trusted’",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/10/19/microsoft-says-ai-agents-are-like-insider-threats-as-frontier-models-cant-be-trusted/",
+      "published_at": 1792447468.0
+     }
+    ]
+   },
+   {
+    "kind": "section",
+    "heading": "订单",
+    "text": "相比之下「订单」。IT之家 10 月 20 日消息，科技媒体 MacRumors 今天（10 月 20 日）发布博文， 报道称从部分用户晒出的订单交付日期来看，苹果已缓解首款折叠，另有 5 条消息指向同一话题。这类进展更像是把已有能力往工程化落地推了一步，真正的分水岭在于成本和可靠性能不能同时压下来。",
+    "news_ids": [
+     "e19bcc792141451d"
+    ],
+    "refs": [
+     {
+      "id": "e19bcc792141451d",
+      "title": "苹果首款折叠 iPhone Duo 供货现缓解信号：部分订单从 12 月提前至 10 月",
+      "source": "IT之家",
+      "url": "https://www.ithome.com/1/015/076.htm",
+      "published_at": 1792453303.0
+     }
+    ]
+   },
+   {
+    "kind": "glossary",
+    "items": [
+     {
+      "term": "AI",
+      "desc": "人工智能，让机器完成识别、生成、判断等原本需要人做的任务"
+     },
+     {
+      "term": "IPO",
+      "desc": "首次公开募股，公司第一次把股票卖给公众并上市"
+     },
+     {
+      "term": "API",
+      "desc": "应用程序接口，让不同软件按约定好的方式互相调用"
+     },
+     {
+      "term": "LLM",
+      "desc": "大语言模型，主打文字理解与生成，是「大模型」的同义词"
+     },
+     {
+      "term": "开源",
+      "desc": "源代码公开，允许他人查看、修改并再分发"
+     },
+     {
+      "term": "算力",
+      "desc": "计算能力，通常用 GPU 数量和浮点性能衡量，是训练大模型的门槛"
+     }
+    ]
+   },
+   {
+    "kind": "outlook",
+    "text": "把这几条放在一起看，最值得跟踪的是 AI 和 发布 两条线：一条决定技术能走多远，一条决定它多快能落到普通人的日常里。至于其他消息，可以先放进观察名单，等后续有更实的进展再判断。"
+   }
+  ],
+  "word_count": 735
+ },
+ "ai_enhanced": false,
+ "schema": 1,
+ "window_bj": {
+  "start": "2026-10-20 00:00",
+  "end": "2026-10-20 09:00"
+ }
+}
