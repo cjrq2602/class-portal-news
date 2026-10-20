@@ -1,7 +1,7 @@
 {
  "date": "2026-10-21",
- "generated_at": 1792530509.2680495,
- "count": 39,
+ "generated_at": 1792533115.2293713,
+ "count": 41,
  "items": [
   {
    "id": "8869576588968116",
@@ -20,6 +20,24 @@
    "summary": "点击查看原文>",
    "published_at": 1792542408.0,
    "published_bj": "2026-10-21 08:26"
+  },
+  {
+   "id": "68f7393db26bcd05",
+   "source": "TechCrunch",
+   "title": "Anthropic’s cloud partnerships are getting messy",
+   "url": "https://techcrunch.com/2026/10/20/anthropics-cloud-partnerships-are-getting-messy/",
+   "summary": "Anthropic is reportedly struggling to secure enough compute from cloud providers that increasingly view it as a competitor, even as its infrastructure spending balloons ahead of a planned November IPO.",
+   "published_at": 1792531522.0,
+   "published_bj": "2026-10-21 05:25"
+  },
+  {
+   "id": "365341d1164fd101",
+   "source": "Hacker News",
+   "title": "Third US aircraft carrier, 10k troops head to Middle East",
+   "url": "https://www.iranintl.com/en/202610207766",
+   "summary": "Article URL: https://www.iranintl.com/en/202610207766 Comments URL: https://news.ycombinator.com/item?id=50172809 Points: 3 # Comments: 0",
+   "published_at": 1792531087.0,
+   "published_bj": "2026-10-21 05:18"
   },
   {
    "id": "54a730d1b464667d",
