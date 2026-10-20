@@ -1,8 +1,71 @@
 {
  "date": "2026-10-20",
- "generated_at": 1792453753.7984512,
- "count": 54,
+ "generated_at": 1792456234.4284816,
+ "count": 64,
  "items": [
+  {
+   "id": "4fe24aa8dc7a22f8",
+   "source": "IT之家",
+   "title": "苹果新任 App Store 掌门谈游戏：品质不妥协，买断 / 订阅并行",
+   "url": "https://www.ithome.com/1/015/083.htm",
+   "summary": "IT之家 10 月 20 日消息，在接受 Polygon 邮件采访时，苹果新任 App Store 全球负责人卡森 · 奥利弗（Carson Oliver）表示， 今年登陆 App Store 的精品付费游戏数量较去年增加，除独立作品外，更多主机和 PC 游戏系列也正进入移动平台。 游戏内容方面，苹果近期推出“独立游戏周”，集中展示 7 款面向 iPhone 和 iPad 的新作及即将推出的作品， 包括《师父》《无人深空》等 。对此奥利弗表示，苹果将继续投入硬件、开发工具及内容推荐，为开发者提供更多发行选择。 在游戏开发工具方面，奥利弗表示苹果公司为降低移植门槛，持续投入 Game Porti",
+   "published_at": 1792455923.0,
+   "published_bj": "2026-10-20 08:25"
+  },
+  {
+   "id": "8915f14bc2d7a813",
+   "source": "IT之家",
+   "title": "挑战英伟达 CUDA：亚马逊推出开源工具 TorchNeuron，自研 Trainium 芯片轻松运行 PyTorch 代码",
+   "url": "https://www.ithome.com/1/015/082.htm",
+   "summary": "IT之家 10 月 20 日消息，当地时间 10 月 19 日，亚马逊宣布推出开源工具 TorchNeuron，借助该工具，开发人员编写的 PyTorch 代码可以在亚马逊的自研 Trainium 芯片上本地运行， 只需更改一次配置，无需重写 。 IT之家获悉，TorchNeuron 将于当地时间 10 月 20 日在加州圣何塞举行的北美 PyTorch 大会上以开源许可形式正式发布。 PyTorch 是由 Meta 主导的开源框架，被大多数人工智能开发者所采用。英伟达投入了十多年的时间研发 CUDA 工具，能够让 PyTorch 代码在英伟达的芯片上高效运行。 据介绍，亚马逊工程师分别在传统",
+   "published_at": 1792455757.0,
+   "published_bj": "2026-10-20 08:22"
+  },
+  {
+   "id": "02b3959bfa5c2681",
+   "source": "IT之家",
+   "title": "IT早报 1020：苹果官宣 10 月 29 日举行特别活动；特斯拉官方声明“没有速成车”；小米行政豪华旗舰 SU9 LUX 商标首曝；豆包辟谣国内超一半算力在造爽剧...",
+   "url": "https://www.ithome.com/1/015/081.htm",
+   "summary": "“IT早报”时间，大家好，现在是 2026 年 10 月 20 日星期二，今天的重要科技资讯有： 1. 苹果官宣北京时间 10 月 29 日举行特别活动，有望推出 OLED MacBook Pro / iPad mini 8 等机型 苹果已确认发布会时间，官方将于美国当地东部时间 10 月 28 日下午 1 时（北京时间 10 月 29 日凌晨 1:00）在美国洛杉矶举办本月第二场新品发布活动。&gt;&gt; 查看详情 2. 特斯拉声明没有速成车，陶琳称安全稳定可靠、让人安心是最大的豪华 特斯拉官方 10 月 19 日发文，称特斯拉没有“速成车”。特斯拉官方表示，特斯拉拥有完整的直营体系（覆",
+   "published_at": 1792455413.0,
+   "published_bj": "2026-10-20 08:16"
+  },
+  {
+   "id": "f6b7a164db95aa32",
+   "source": "IT之家",
+   "title": "57 亿美元赔款还不够，Taction 要求苹果支付 iPhone 与 Apple Watch 专利费至 2035 年",
+   "url": "https://www.ithome.com/1/015/080.htm",
+   "summary": "IT之家 10 月 20 日消息，在针对苹果公司创下纪录的 57 亿美元 （IT之家注：现汇率约合 381.49 亿元人民币） 专利侵权判决出炉后，Taction Technology 如今进一步主张追加赔偿金、利息，同时要求苹果为未来销售的 iPhone 与 Apple Watch 持续支付专利使用费。 上月末，美国陪审团裁定，苹果的线性震动马达（Taptic Engine）侵犯了 Taction Technology 持有的两项专利，判定苹果赔偿 57 亿美元。苹果对该判决表示强烈异议，称自家技术与 Taction Technology 的技术存在本质区别，并表示将会提起上诉。 几周之后，",
+   "published_at": 1792455401.0,
+   "published_bj": "2026-10-20 08:16"
+  },
+  {
+   "id": "06c42f60769b8a5d",
+   "source": "Hacker News",
+   "title": "France's Supermarket Fridges Were Vulnerable Online for Months",
+   "url": "https://ipinfo.io/blog/france-fridges-hack",
+   "summary": "Article URL: https://ipinfo.io/blog/france-fridges-hack Comments URL: https://news.ycombinator.com/item?id=50159616 Points: 13 # Comments: 3",
+   "published_at": 1792454449.0,
+   "published_bj": "2026-10-20 08:00"
+  },
+  {
+   "id": "41f1666e6e8cdd2c",
+   "source": "IT之家",
+   "title": "新 AI 工具问世：仅凭一张面部照片即可预测癌症患者生存几率",
+   "url": "https://www.ithome.com/1/015/079.htm",
+   "summary": "IT之家 10 月 20 日消息，据彭博社报道，研究人员开发出一款人工智能工具，仅凭一张面部照片就能预测癌症患者的生存几率。该工具可以补充医生的临床经验判断，有望为治疗方案的制定提供参考，在医疗资料不足的场景下尤其有价值。 这个新模型经过训练，既可以估算人的年龄，也能针对癌症患者预测生存情况。研究团队使用超过 4000 万张人脸图像，以及 3 万多名癌症患者的照片完成模型训练，其中不少患者已经离世。发表在《柳叶刀 · 数字健康》期刊上的这项研究显示，该工具会为患者生成风险评分，分数最高的患者更有可能在 90 天内死亡。 科研人员表示，这类研究成果尚属首次。麻省总医院布莱根癌症研究所放射肿瘤医师",
+   "published_at": 1792454204.0,
+   "published_bj": "2026-10-20 07:56"
+  },
+  {
+   "id": "bef3960730b3ed0c",
+   "source": "IT之家",
+   "title": "赶在 Anthropic 上市前：消息称 OpenAI 加速新一轮融资进程，估值或超 1.4 万亿美元",
+   "url": "https://www.ithome.com/1/015/078.htm",
+   "summary": "IT之家 10 月 20 日消息，据路透社报道，两位知情人士称，OpenAI 正争分夺秒地争取投资者承诺，力求在竞争对手 Anthropic 预计于 11 月中旬上市之前完成融资。此次融资节奏异常迅速，若顺利完成， 这家 ChatGPT 开发商的估值可能超过 1.4 万亿美元 （IT之家注：现汇率约合 9.37 万亿元人民币） 。 知情人士表示，这种紧凑的时间安排在一定程度上反映了 OpenAI 想要抢在 Anthropic 之前行动的意图，因为这两家处于行业前沿的实验室正越来越多地争夺同一批投资者群体。 此外，OpenAI 也希望借势其近期推出新模型后所实现的营收增长，进一步巩固自身地位。其",
+   "published_at": 1792453913.0,
+   "published_bj": "2026-10-20 07:51"
+  },
   {
    "id": "4ebb110d14aef3c0",
    "source": "IT之家",
@@ -28,6 +91,15 @@
    "url": "https://www.ithome.com/1/015/075.htm",
    "summary": "IT之家 10 月 20 日消息，据新华社报道，中国科学家研制出目前已知世界最轻无线介观显微镜， 重量仅 1 克 ，可在 6 毫米视场内以单细胞分辨率记录小鼠大脑皮层的神经活动，单只小鼠可同时记录 8500 多个神经元，是现有同类型设备的 25 倍。这一重要成果 19 日晚在线发表于国际期刊《自然》。 在多只动物自由运动和社交时，以单细胞分辨率同时记录大范围脑区中的大量神经元，有望揭示大脑对于复杂行为的调控机理。然而，现有能分辨单个神经元的显微镜，虽能看得清大范围皮层，仍需将小鼠头部固定在仪器下或用线缆将其“拴”住，一旦如此，会让动物难以自由活动，阻碍了自然状态下对动物神经和行为的研究。 中国",
    "published_at": 1792453222.0,
+   "published_bj": "2026-10-20 07:40"
+  },
+  {
+   "id": "5958659e0cbaf0dd",
+   "source": "Hacker News",
+   "title": "Token-maxxing is dead, OpenRouter's token usage plateaus",
+   "url": "https://openrouter.ai/rankings",
+   "summary": "Article URL: https://openrouter.ai/rankings Comments URL: https://news.ycombinator.com/item?id=50159464 Points: 15 # Comments: 6",
+   "published_at": 1792453215.0,
    "published_bj": "2026-10-20 07:40"
   },
   {
@@ -92,6 +164,15 @@
    "summary": "IT之家 10 月 20 日消息，微软于当地时间周一推出了多项全新安全功能，旨在帮助企业抵御日益严峻的智能体带来的安全威胁。发布该产品之际，微软持续向企业警示人工智能与智能体存在的各类风险。 IT之家注意到，本次新增功能中最受关注的当属守护智能体（Guardian Agents），这项新功能用于监控企业内部正在使用的各类 AI 智能体。守护智能体隶属于感知项目（Project Perception），感知项目是微软在 6 月推出的产品。 感知项目是微软针对 Anthropic 的 Mythos、Fable 等强大黑客模型，以及 OpenAI 的安全漏洞扫描系统破晓（Daybreak）所给出的应",
    "published_at": 1792451612.0,
    "published_bj": "2026-10-20 07:13"
+  },
+  {
+   "id": "b2f0ab8d37e63462",
+   "source": "Hacker News",
+   "title": "“bonsoir, Elliot”: How abliterated models can get you pwned",
+   "url": "https://projectdiscovery.io/research/how-abliterated-models-can-get-you-pwned",
+   "summary": "Article URL: https://projectdiscovery.io/research/how-abliterated-models-can-get-you-pwned Comments URL: https://news.ycombinator.com/item?id=50159245 Points: 6 # Comments: 2",
+   "published_at": 1792451332.0,
+   "published_bj": "2026-10-20 07:08"
   },
   {
    "id": "fba0bee5446f4aff",
@@ -218,6 +299,15 @@
    "summary": "Amazon wants to break Nvidia’s hold on PyTorch, the free toolkit used to build most AI apps, so that more developers run their apps on alternative chips like its own.",
    "published_at": 1792440564.0,
    "published_bj": "2026-10-20 04:09"
+  },
+  {
+   "id": "dd9f7b8890219a17",
+   "source": "IT之家",
+   "title": "英伟达黄仁勋：AI 是新工具，你的专业知识不会被取代",
+   "url": "https://www.ithome.com/1/015/066.htm",
+   "summary": "IT之家 10 月 20 日消息，在柏林对话德国总理弗里德里希 · 默茨（Friedrich Merz）时，英伟达首席执行官黄仁勋表示 AI 不只是聊天工具， 它将进入工厂、机器人和医院等场景，增强已有的专业能力和产业经验。 在本次对话中，黄仁勋和默茨讨论如何结合德国制造业优势与 AI，推动 AI 在汽车、机械制造及中小企业中普及。德国联邦政府同时与英伟达签署联合意向声明，拟共同推进面向物理 AI 的先进模型，让 AI 进一步应用于现实世界的工业场景。 黄仁勋表示， 德国企业积累的工程、制造和科学知识是重要优势 ，AI 将增强这些能力。他将 AI 形容为一种“新工具”，鼓励企业利用技术放大自身",
+   "published_at": 1792438292.0,
+   "published_bj": "2026-10-20 03:31"
   },
   {
    "id": "24599c9a17817638",
