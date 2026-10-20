@@ -1,7 +1,7 @@
 {
  "date": "2026-10-21",
- "generated_at": 1792527806.9146717,
- "count": 35,
+ "generated_at": 1792530509.2680495,
+ "count": 39,
  "items": [
   {
    "id": "8869576588968116",
@@ -22,6 +22,33 @@
    "published_bj": "2026-10-21 08:26"
   },
   {
+   "id": "54a730d1b464667d",
+   "source": "IT之家",
+   "title": "超微电脑 2027 财年第一财季预计营收185 亿美元~195 亿美元",
+   "url": "https://www.ithome.com/1/015/619.htm",
+   "summary": "IT之家 10 月 21 日消息，超微电脑今日发布 2027 财年（2026年 7月 1日～2027年 6月 30日）第一财季（2026年 7月 1日～2026年 9月 30日）业绩预告报告： 营业总收入 ：185 亿美元~195 亿美元 （IT之家注：现汇率约合 1238.33 亿元~1305.26 亿元人民币） 毛利率 ：12%~12.5% AI 解读 本次 2027财年第一财季 业绩预告大幅超出市场预期，营收和毛利率均显著高于此前指引。 公司主营业务 超微电脑（Super Micro Computer）是全球领先的应用优化整体IT解决方案提供商，专注于企业、云、人工智能、5G/边缘IT基",
+   "published_at": 1792529222.0,
+   "published_bj": "2026-10-21 04:47"
+  },
+  {
+   "id": "633ab207f6d12b7b",
+   "source": "TechCrunch",
+   "title": "SpaceX’s AI business is beating expectations",
+   "url": "https://techcrunch.com/2026/10/20/spacexs-ai-business-is-beating-expectations/",
+   "summary": "SpaceX hit profitably in the third-quarter, with net income of $4.4 billion. AI was the engine.",
+   "published_at": 1792528841.0,
+   "published_bj": "2026-10-21 04:40"
+  },
+  {
+   "id": "135cfc06b9b36aa9",
+   "source": "TechCrunch",
+   "title": "OpenAI acquires startup Orchestra Bio⁠ to beef up its biotech business",
+   "url": "https://techcrunch.com/2026/10/20/openai-acquires-startup-orchestra-bio%e2%81%a0-to-beef-up-its-biotech-business/",
+   "summary": "OpenAI says it's adding Orchestra's team and technology to work on Rosalind, its AI model for life sciences research, and to its related Rosalind Workbench tool, a harness that aims to help researchers plan experiments and analyze results.",
+   "published_at": 1792528510.0,
+   "published_bj": "2026-10-21 04:35"
+  },
+  {
    "id": "4e4b79a19ec0014e",
    "source": "IT之家",
    "title": "Netflix 2026 财年第三财季归母净利润 36.64 亿美元，同比增长 43.86%",
@@ -38,6 +65,15 @@
    "summary": "Google is bringing Gemini's Personal Intelligence feature to cars, allowing its AI assistant to draw on information from Gmail, Calendar, Maps, YouTube, and other Google services to deliver more personalized responses while driving.",
    "published_at": 1792526400.0,
    "published_bj": "2026-10-21 04:00"
+  },
+  {
+   "id": "a507e669dce16dd3",
+   "source": "Hacker News",
+   "title": "On AI writing",
+   "url": "https://www.bolkunov.com/p/on-ai-writing",
+   "summary": "Article URL: https://www.bolkunov.com/p/on-ai-writing Comments URL: https://news.ycombinator.com/item?id=50171771 Points: 31 # Comments: 5",
+   "published_at": 1792526111.0,
+   "published_bj": "2026-10-21 03:55"
   },
   {
    "id": "98077fa15cf918e3",
