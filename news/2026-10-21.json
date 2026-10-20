@@ -1,7 +1,7 @@
 {
  "date": "2026-10-21",
- "generated_at": 1792516491.7358434,
- "count": 19,
+ "generated_at": 1792518516.9161,
+ "count": 21,
  "items": [
   {
    "id": "8869576588968116",
@@ -29,6 +29,24 @@
    "summary": "点击查看原文>",
    "published_at": 1792521363.0,
    "published_bj": "2026-10-21 02:36"
+  },
+  {
+   "id": "146b4dbf1910d1f0",
+   "source": "cnBeta",
+   "title": "Google为Chrome推出“可疑网站”新警告机制 进一步加强网络诈骗防护",
+   "url": "https://www.cnbeta.com.tw/articles/tech/1583116.htm",
+   "summary": "Google宣布为Chrome浏览器引入全新的安全防护机制，未来当用户访问被系统判定为“可疑”的网站时，浏览器将主动发出警告，以帮助用户识别潜在的网络诈骗、恶意软件和钓鱼攻击风险。 阅读全文",
+   "published_at": 1792517099.0,
+   "published_bj": "2026-10-21 01:24"
+  },
+  {
+   "id": "bc049ae1c8242af1",
+   "source": "cnBeta",
+   "title": "ChatGPT浏览器扩展迎来重大升级 可直接操控标签页并完成网页任务",
+   "url": "https://www.cnbeta.com.tw/articles/tech/1583114.htm",
+   "summary": "OpenAI日前为ChatGPT浏览器扩展推出一项重要更新，进一步加深了其与Google Chrome浏览器的整合能力。升级后，ChatGPT不仅能够读取当前打开网页中的内容，还可以分析信息、执行任务，并直接在浏览器环境中完成多项操作。此外，更新还带来了新的语音功能以及更多语言支持。 阅读全文",
+   "published_at": 1792516699.0,
+   "published_bj": "2026-10-21 01:18"
   },
   {
    "id": "35cec3834eefcb2a",
