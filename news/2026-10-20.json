@@ -1,7 +1,7 @@
 {
  "date": "2026-10-20",
- "generated_at": 1792488550.7422912,
- "count": 310,
+ "generated_at": 1792490952.7583842,
+ "count": 331,
  "items": [
   {
    "id": "67838ab1f555bb51",
@@ -67,6 +67,42 @@
    "published_bj": "2026-10-20 18:51"
   },
   {
+   "id": "33007445ae214560",
+   "source": "IT之家",
+   "title": "马斯克：SpaceX 潜在市场规模远高于 28.5 万亿美元，市值目标 10 年内冲击 100 万亿美元",
+   "url": "https://www.ithome.com/1/015/480.htm",
+   "summary": "IT之家 10 月 20 日消息，全球首富埃隆 · 马斯克（Elon Musk）昨日（10 月 19 日）在 X 平台发布推文， 表示在此前 SpaceX 公司 IPO 文件中给出的 28.5 万亿美元 （现汇率约合 190.77 万亿元人民币） 潜在市场规模（TAM）估算“错了”，真实规模“远高于此”。 IT之家注：TAM 常译为“总可服务市场”或“潜在市场总规模”，是指如果一家公司能服务所有潜在客户、并且产品完全满足需求，理论上能获得的市场收入上限。 根据 SpaceX 公司披露的 S-1 文件，其中约 90% 来自 AI 业务，包括企业级 AI 应用约 22.7 万亿美元 （现汇率约合 ",
+   "published_at": 1792490927.0,
+   "published_bj": "2026-10-20 18:08"
+  },
+  {
+   "id": "7fe27eedb2daf94c",
+   "source": "IT之家",
+   "title": "单机身 8091 元国补直降：索尼 Alpha 7C II 全画幅微单京东 11.11 破冰新低",
+   "url": "https://www.ithome.com/1/015/474.htm",
+   "summary": "索尼 Alpha 7C II 全画幅微单发布于 2023 年 8 月份，单机身首发价 13999 元。 京东 11.11 大促期间，按下方步骤下单，叠加 15% 国补后仅需 8091.15 元： 点击下方卡片跳转后 → 点击宝贝右上角“ 直播中 ”按钮 → 进入直播间搜索“ 476 ”号商品，可领 600 元券。 京东 索尼 Alpha 7C II 全画幅微单 单机身 国补后 8091.15 元 直达链接 国补可用地区如下图所示 京东 11.11 无门槛红包至高 26888 元，支持即领即用，下单直接当钱花： 点此抽取 。 IT 之家附 Alpha 7C II 主要特点： 约 3300 万有效",
+   "published_at": 1792490782.0,
+   "published_bj": "2026-10-20 18:06"
+  },
+  {
+   "id": "41d172f42d4f89be",
+   "source": "IT之家",
+   "title": "圆通速递 2026 年第三季度归母净利润 14.54 亿元，同比增长 39.06%",
+   "url": "https://www.ithome.com/1/015/473.htm",
+   "summary": "IT之家 10 月 20 日消息，圆通速递今日发布 2026 年第三季度（2026 年 7 月～2026 年 9 月）报告： 营业总收入 ：195 亿元，同比增长 6.72% 归母净利润 ：14.54 亿元，同比增长 39.06% 扣非净利润 ：14.1 亿元，同比增长 39.8% 加权平均净资产收益率 ：3.92% 基本每股收益 ：0.4248 元，同比增长 39.14% 稀释每股收益 ：0.4244 元，同比增长 39.15% AI 解读 本次财报业绩符合行业增长预期，核心盈利指标增速亮眼。 公司主营业务说明 圆通速递是国内领先的综合性快递物流运营商，以自营枢纽转运中心和扁平终端加盟网络为",
+   "published_at": 1792490630.0,
+   "published_bj": "2026-10-20 18:03"
+  },
+  {
+   "id": "a5db9c3058783549",
+   "source": "IT之家",
+   "title": "经典策略游戏《冰汽时代》登陆任天堂 Switch 平台，29.99 美元",
+   "url": "https://www.ithome.com/1/015/472.htm",
+   "summary": "IT之家 10 月 20 日消息，波兰工作室 11 bit studios 旗下经典策略游戏《冰汽时代（Frostpunk）》现已登陆任天堂 Switch 平台，相应版本收录《The Rifts》《The Last Autumn》《On The Edge》三部 DLC。Switch 2 玩家可通过向下兼容直接游玩。 本次 Switch 版以美服为例，游戏在该区服定价 29.99 美元 （IT之家注：现汇率约合 201.4 元人民币） ，同时提供了免费试玩版，IT之家附游戏商品页（ https://www.nintendo.com/us/store/products/frostpunk-swit",
+   "published_at": 1792490497.0,
+   "published_bj": "2026-10-20 18:01"
+  },
+  {
    "id": "0182a0c1bdf9ba01",
    "source": "InfoQ中文",
    "title": "失败一次，受益多次：测试 Agent 从记忆到持续学习的工程实践｜QCon上海",
@@ -74,6 +110,132 @@
    "summary": "点击查看原文>",
    "published_at": 1792490400.0,
    "published_bj": "2026-10-20 18:00"
+  },
+  {
+   "id": "52fb28b8a8028675",
+   "source": "IT之家",
+   "title": "理想汽车确认 2027 年秋季进军英国市场",
+   "url": "https://www.ithome.com/1/015/471.htm",
+   "summary": "IT之家 10 月 20 日消息，据汽车媒体 AutoCar 今天报道，理想汽车在巴黎车展确认，公司将在 2027 年秋季携一款新车进入英国市场。 IT之家从原报道获悉， 理想汽车将在欧洲市场推出 i6 纯电车型 ，2027 年春季率先在挪威和荷兰上市。该公司还透露， 未来将有另一款车型进入英国市场 ，该产品面向家庭用户， 提供纯电和增程两种动力选择 。 理想汽车国际业务负责人 Nestor Wu 表示：“不同市场的家庭用户有着不同需求，这是我们在中国重点关注且取得成功的领域，我们认为这套策略同样适用于英国。” 理想汽车针对欧洲消费者偏好调整了 i6 的细节，换装本地采购的空气弹簧，以提升车辆",
+   "published_at": 1792490367.0,
+   "published_bj": "2026-10-20 17:59"
+  },
+  {
+   "id": "eb9dd8e122a1d482",
+   "source": "IT之家",
+   "title": "Akko 5108 V5 三模机械键盘新增《盗墓笔记》联名款，339 元",
+   "url": "https://www.ithome.com/1/015/470.htm",
+   "summary": "IT之家 10 月 20 日消息，Akko（艾酷）即将于今晚 20:00 发售《盗墓笔记》联名款 5108 V5 三模机械键盘。 这一型号搭载钢琴轴、MOA 高度 PBT 材质热升华工艺键帽，在 USB 和 2.4GHz 下支持 1kHz 回报率， 售价 339 元 。 此次联名型号采用全配列设计， 正面各处点缀以《盗墓笔记》主题元素和人物形象 ， 背部则是全幅主视觉图 。 其采用 5 层填充 Gasket 结构，内置 PC 定位板、单键开槽双面 PCB，支持轴体热插拔；集成 2 块 4000mAh 电池，蓝牙模式无背光续航 6670hr。 京东 Akko 《盗墓笔记》联名 5108 V5 键",
+   "published_at": 1792490353.0,
+   "published_bj": "2026-10-20 17:59"
+  },
+  {
+   "id": "ccdfb434daeb9169",
+   "source": "IT之家",
+   "title": "特斯拉本土化再进一步：车机系统将接入支付宝车载助手，告别手机停车缴费",
+   "url": "https://www.ithome.com/1/015/468.htm",
+   "summary": "IT之家 10 月 20 日消息，据界面新闻，特斯拉与支付宝已正式签署车载助手项目合作协议，特斯拉中国车机系统计划上线支付宝车载助手智慧停车服务。 后续，特斯拉车主通过 OTA 软件升级后，可在车机屏幕上完成停车费的快捷支付，无需再掏出手机扫码或在小程序内手动操作。特斯拉方面表示，更多车载生活场景的便利化功能正在开发之中。 值得一提的是，“支付宝车载助手”并非为特斯拉单独定制的功能。这一生态此前已与理想、比亚迪、小鹏、蔚来、吉利、东风等多家车企展开合作，累计覆盖 16 个品牌、66 个车型，上路车辆规模超过 1000 万辆。其面向车机的核心能力，是把支付宝的支付、车主服务和本地生活入口以车载应",
+   "published_at": 1792490272.0,
+   "published_bj": "2026-10-20 17:57"
+  },
+  {
+   "id": "bab6d5e2d298871e",
+   "source": "IT之家",
+   "title": "联想旗下摩托罗拉 Moto G47 Power 手机完整规格曝光：天玑 6300 处理器、6.67 英寸 120Hz LCD 面板",
+   "url": "https://www.ithome.com/1/015/467.htm",
+   "summary": "IT之家 10 月 20 日消息，消息源 Sudhanshu1414 现已公布联想旗下摩托罗拉 Moto G47 Power 手机完整规格信息，该机将于近期上市，起售价 269 欧元 （IT之家注：现汇率约合 2,018 元人民币） 。 该机型号为 XT2625-15，提供 IP64 认证，厚度 9mm，手机正面配备一块 6.67 英寸 1604x720 分辨率 120Hz IPS LCD 面板，匹配 8Mp 自拍摄像头，手机背面采用 108Mp 主摄和 2Mp 微距镜头。 该机搭载联发科天玑 6300 处理器，起步 4GB RAM 和 128GB 存储空间，内置 7000mAh 电池（支持 ",
+   "published_at": 1792490080.0,
+   "published_bj": "2026-10-20 17:54"
+  },
+  {
+   "id": "7d9730fce62edba7",
+   "source": "IT之家",
+   "title": "华为 WATCH FIT 5 系列智能手表 HarmonyOS 7 版本升级一图览发布，新增支持冠心病研究项目等",
+   "url": "https://www.ithome.com/1/015/466.htm",
+   "summary": "IT之家 10 月 20 日消息， 华为 WATCH FIT 5 系列智能手表本月早些时候开启了 HarmonyOS 7.0.0.107 SP10 版本升级 ，目前已分批推送给公测版升级尝鲜报名入选成功的用户。 华为官方今日发布了 WATCH FIT 5 系列智能手表 HarmonyOS 7 版本升级一图览 。 IT之家整理华为 WATCH FIT 5 系列智能手表此次更新内容如下： 新增 1. 系统界面焕新升级，表盘及多任务列表等新增光影效果，锻炼记录及计算器等页面更具层次感，为您呈现更舒适的交互体验 2. 新增 HarmonyOS 7 光穹表盘，柔和流光漫过盘面，光影层次细腻通透，将静谧和",
+   "published_at": 1792490005.0,
+   "published_bj": "2026-10-20 17:53"
+  },
+  {
+   "id": "f2688293daafab23",
+   "source": "IT之家",
+   "title": "新款吉利帝豪向上系列车型 10 月 25 日上市，换装更大尺寸中控屏",
+   "url": "https://www.ithome.com/1/015/465.htm",
+   "summary": "IT之家 10 月 20 日消息，吉利汽车官方确认，新款帝豪向上系列车型将于 10 月 25 日正式上市。新车调整集中在外观细节与内饰配置层面，动力系统预计不会发生变化。 “向上系列”基于第四代帝豪开发，首次上市是在 2026 年 5 月 24 日，当时推出了三款配置，官方指导价 6.89 万元至 7.79 万元，限时感恩价为 5.59 万元至 6.49 万元。 新车外观基本延续了在售车型的整体轮廓与溜背线条，前脸仍采用直瀑式格栅，但格栅内部的纵置辐条间距被拉大，视觉效果比现款更疏朗。前包围重新开模，增加了黑色装饰件以强化运动感；车尾保留贯穿式尾灯，后包围加入镀铬饰条，与前脸形成呼应。此外，新",
+   "published_at": 1792489967.0,
+   "published_bj": "2026-10-20 17:52"
+  },
+  {
+   "id": "d1af5fc6ea29e314",
+   "source": "IT之家",
+   "title": "三星公布旗下首款耳夹式耳机 Galaxy Buds On 细节信息：TwinBoost 扬声器系统、三麦克风设计",
+   "url": "https://www.ithome.com/1/015/463.htm",
+   "summary": "IT之家 10 月 20 日消息，三星电子今天向外媒 The Elec 介绍了旗下首款耳夹式耳机 Galaxy Buds On 的细节信息，该机将于 10 月 27 日在韩国率先上市，仅提供黑色版本，售价 299,000 韩元 （IT之家注：现汇率约合 1,499 元人民币） 。 据介绍，该产品采用开放夹式（clip-on）结构，佩戴时无需将耳机塞入耳道，旨在提升长时间佩戴的舒适度，同时让用户更容易感知周围环境声音，还支持 AI 感知操作功能。 针对传统耳夹式耳机低频表现较弱的问题，Galaxy Buds On 配备 TwinBoost 扬声器系统，采用两个规格相同的低音单元。此外，耳机能够根",
+   "published_at": 1792489626.0,
+   "published_bj": "2026-10-20 17:47"
+  },
+  {
+   "id": "4a64bfd804f00db1",
+   "source": "IT之家",
+   "title": "阿维塔 T09 旗舰 SUV 官宣搭载双百万像素全彩投影大灯，该配置由全新一代问界 M9 首发",
+   "url": "https://www.ithome.com/1/015/462.htm",
+   "summary": "IT之家 10 月 20 日消息，阿维塔科技官方今日宣布，旗下“50 万级科技新旗舰”—— 阿维塔 T09 将搭载双百万像素全彩投影大灯 ，并配备晶钻阵列灯组。 阿维塔科技总裁陈卓表示：“车灯的本分，是照亮前路。但阿维塔想多做一步 —— 让 TA 不只照亮路，也让人看见你。” 据IT之家此前报道，今年 4 月，鸿蒙智行 AITO 汽车官方宣布， 全新一代问界 M9 系列汽车行业首发双百万像素全彩智慧投影大灯 、手握祥云创新门把手设计、创新一镜双投影院等配置。 工信部申报信息显示，阿维塔 T09 为插电式混合动力运动型乘用车，提供两种动力版本，长宽高分别为 5285/2025/1810 或 18",
+   "published_at": 1792489562.0,
+   "published_bj": "2026-10-20 17:46"
+  },
+  {
+   "id": "386b92929fcc50cc",
+   "source": "IT之家",
+   "title": "HKC 推出其首批压风式笔电散热器，猎弦 F50 系列 299 元起",
+   "url": "https://www.ithome.com/1/015/461.htm",
+   "summary": "IT之家 10 月 20 日消息，HKC（惠科）即将于今晚 20:00 发售其首批压风式笔记本电脑散热器 —— 猎弦 F50 系列。 新品标准版到手价 299 元，可选极夜黑 / 破晓白；Pro 版到手价 399 元，提供银翼灰一种配色。 猎弦 F50 系列的核心是 TurboFan H1 涡轮风扇，其直径 125mm、厚度 28mm，采用双滚珠轴承，转速可达 3600RPM， 可为 CPU 与 GPU 热点带来平均 29℃ 的降温 ，满载噪声 53dB。 这款散热器兼容 15\" ~ 17.3\" 机型，配备高弹性密封记忆棉框架和可拆卸防尘滤网，采用 USB-C 供电（最大转速需 24W），拥有",
+   "published_at": 1792489453.0,
+   "published_bj": "2026-10-20 17:44"
+  },
+  {
+   "id": "fbc2648e1c9e9fbe",
+   "source": "IT之家",
+   "title": "大众汽车曾计划用比亚迪海豚平台造捷达但因后者无意合作而告吹，被拒后押注小鹏",
+   "url": "https://www.ithome.com/1/015/459.htm",
+   "summary": "IT之家 10 月 20 日消息，据路透社今日报道，大众汽车曾在中国市场探索与比亚迪合作，并对其制造成本优势感到惊讶，但最终因比亚迪缺乏合作意愿而未能推进。 知情人士透露，大众汽车 2022 年曾考虑与比亚迪合作，探讨将比亚迪海豚车型所使用的平台用于捷达品牌的可能性。不过，比亚迪方面缺乏合作意愿，双方最终未能达成协议。 接触时间线大致在 2022 年 8 月贝瑞德出任大众中国 CEO 前后。同一时期，大众还曾探索与零跑汽车的合作，但斯特兰蒂斯于 2023 年 10 月以约 15 亿欧元 （IT之家注：现汇率约合 112.52 亿元人民币） 收购零跑约 21% 股份并成立“零跑国际”，将这一机会",
+   "published_at": 1792489321.0,
+   "published_bj": "2026-10-20 17:42"
+  },
+  {
+   "id": "06711d1300295fef",
+   "source": "IT之家",
+   "title": "宝马计划明年底前裁撤 8000 个白领岗位：发放远超行业的补偿金、员工争着离职",
+   "url": "https://www.ithome.com/1/015/450.htm",
+   "summary": "IT之家 10 月 20 日消息，据德国媒体《商报》（Handelsblatt）报道，宝马计划在 2027 年底前削减 8000 个白领岗位，并向数万名员工发送了“远超行业”的离职补偿方案， 部分员工获得的离职补偿金额最高可达 65 万欧元 （IT之家注：现汇率约合 487.6 万元人民币） 。作为参考，大众两年前向部分员工提供的离职补偿金额最高约为 40.5 万欧元 （现汇率约合 303.8 万元人民币） ，且不包含提前离职奖励。奔驰提供的最高补偿金额约为 50 万欧元 （现汇率约合 375.1 万元人民币） 。 在补偿金的领取方式上，员工可以选择分期领取、一次性领取，也可以将部分款项转入公",
+   "published_at": 1792489085.0,
+   "published_bj": "2026-10-20 17:38"
+  },
+  {
+   "id": "e87e5a9673b4c90a",
+   "source": "IT之家",
+   "title": "X 平台调整推荐算法：更侧重用户停留时长和贴文完读率",
+   "url": "https://www.ithome.com/1/015/449.htm",
+   "summary": "IT之家 10 月 20 日消息，埃隆 · 马斯克今天宣布，X 平台主页“时间线”推荐算法迎来两项更新：引入全新 AI 排序模型，更准确地预测用户停留时长， 算法将优先推荐完读率高的贴文 。 随后 AI 领域研究人士 Rohan Paul 解读道，本次改进之前，X 平台就将贴文完读率列为排序模型预测的用户行为指标之一，新模型主要是优化已有系统。 同时，第二项改动发生在更靠前的检索阶段。该系统会将用户和每篇贴文转换为向量，再从用户未关注的账号中找出与其最接近的内容。用户关注账号发布的贴文则由另一套独立系统提供，因此该系统决定哪些陌生人的贴文可以进入时间线（IT之家注：Timeline;TL）。",
+   "published_at": 1792488978.0,
+   "published_bj": "2026-10-20 17:36"
+  },
+  {
+   "id": "60638fa94038e9f6",
+   "source": "Hacker News",
+   "title": "AfD Leak: What 421,179 Hacked Emails Show about the German Far Right",
+   "url": "https://www.heistberlin.com/news/afd-leak-what-421-179-hacked-emails-show-about-the-german-far-right/",
+   "summary": "Article URL: https://www.heistberlin.com/news/afd-leak-what-421-179-hacked-emails-show-about-the-german-far-right/ Comments URL: https://news.ycombinator.com/item?id=50163502 Points: 35 # Comments: 0",
+   "published_at": 1792488940.0,
+   "published_bj": "2026-10-20 17:35"
+  },
+  {
+   "id": "5a838dc731478050",
+   "source": "Hacker News",
+   "title": "UK Defence Startups Are Being Denied Banking Services Under ESG Rules",
+   "url": "https://foxandlion.pub/analysis/uk-defence-start-ups-are-being-denied-banking-services-under-esg-rules",
+   "summary": "Article URL: https://foxandlion.pub/analysis/uk-defence-start-ups-are-being-denied-banking-services-under-esg-rules Comments URL: https://news.ycombinator.com/item?id=50163462 Points: 12 # Comments: 0",
+   "published_at": 1792488631.0,
+   "published_bj": "2026-10-20 17:30"
   },
   {
    "id": "66d362394e6e487f",
@@ -139,6 +301,15 @@
    "published_bj": "2026-10-20 17:09"
   },
   {
+   "id": "a97325b9c9647403",
+   "source": "Hacker News",
+   "title": "DeepSeek just open-sourced its inference engine",
+   "url": "https://github.com/deepseek-ai/DeepInfer",
+   "summary": "Article URL: https://github.com/deepseek-ai/DeepInfer Comments URL: https://news.ycombinator.com/item?id=50163277 Points: 17 # Comments: 3",
+   "published_at": 1792487334.0,
+   "published_bj": "2026-10-20 17:08"
+  },
+  {
    "id": "a2a00d75523997c4",
    "source": "IT之家",
    "title": "华为畅享 100 系列手机海报线下露出：家族化外观设计，主打麒麟芯、续航长等特性",
@@ -175,6 +346,15 @@
    "published_bj": "2026-10-20 17:05"
   },
   {
+   "id": "ae66602b8f56f367",
+   "source": "Solidot",
+   "title": "四分之一数据中心位于水资源受限的区域",
+   "url": "https://www.solidot.org/story?sid=85663",
+   "summary": "根据发表在《Environmental Science &amp; Technology》期刊上的一项研究，全世界四分之一数据中心位于每年至少一个月用水需求超过供应的地区。全球各地分布着数以千计的数据中心，这些设施在冷却服务器和防止过热过程中消耗了大量水资源。它们所使用的水资源与周边社区以及农业和制造业等共享。电力之类的能源可从远距离传输，水资源则主要来自附近的河流、湖泊和含水层，而水源的水位会随季节或年份发生波动。研究人员将全球 9,347 个运转中的数据中心的位置，与当地的水资源可用量，以及来自城镇、农业、制造业和发电行业的需求进行了比对分析。结果发现：约 25% 的数据中心位于每年至少一",
+   "published_at": 1792486969.0,
+   "published_bj": "2026-10-20 17:02"
+  },
+  {
    "id": "1bc7910eb65d3774",
    "source": "Hacker News",
    "title": "Fizzpoker – No-login Online Poker with friends",
@@ -191,6 +371,15 @@
    "summary": "IT之家 10 月 20 日消息，工业和信息化部装备工业一司今日发布《汽车及挂车外部照明和光信号装置的安装要求（征求意见稿）》。其中明确， 不具备 L3 级及以上自动驾驶系统的车辆，禁止安装 ADS 标志灯 。这意味着 L2 级别智驾“小蓝灯”正式被官方禁用。 同时， ADS 标志灯的专用光色要求为蓝绿色 。此前， L2 级别辅助驾驶信号灯大多采用蓝色 。 据第一财经消息， 今年 7 月，多家车企陆续收到禁用 L2 级别辅助驾驶“小蓝灯”的消息 。参考IT之家此前报道，中国汽车标准化研究院官方发布公告指出，部分车辆产品安装使用“小蓝灯”，向其他道路参与者显示本车驾驶辅助系统处于工作状态。 但当",
    "published_at": 1792486528.0,
    "published_bj": "2026-10-20 16:55"
+  },
+  {
+   "id": "aec19331fca1c9c7",
+   "source": "Hacker News",
+   "title": "There is no official XScreenSaver GitHub repository",
+   "url": "https://github.com/xscreensaver-official/xscreensaver",
+   "summary": "Article URL: https://github.com/xscreensaver-official/xscreensaver Comments URL: https://news.ycombinator.com/item?id=50163142 Points: 4 # Comments: 0",
+   "published_at": 1792486291.0,
+   "published_bj": "2026-10-20 16:51"
   },
   {
    "id": "a30d7f6c6e76ae4f",

@@ -1,7 +1,7 @@
 {
  "date": "2026-10-19",
- "generated_at": 1792488550.8816051,
- "count": 398,
+ "generated_at": 1792490952.763802,
+ "count": 399,
  "items": [
   {
    "id": "fe8fbd24745e89cc",
@@ -325,6 +325,15 @@
    "url": "https://github.com/kividbio/kividb",
    "summary": "Hi all, So I have been working on this project KiviDB from February 2026. It started as a project for me to understand rust, having a product with no GC pauses, memory blow up after snapshots and getting OOM on running pods, and that was actually an issue I faced with Dragonfly. I wanted to have som",
    "published_at": 1792418032.0,
+   "published_bj": "2026-10-19 21:53"
+  },
+  {
+   "id": "d1f347cebec6f727",
+   "source": "Hacker News",
+   "title": "Why Is Speculative Decoding Fast?",
+   "url": "https://jbarrow.ai/2026-10-08-why-is-speculative-decoding-fast/",
+   "summary": "Article URL: https://jbarrow.ai/2026-10-08-why-is-speculative-decoding-fast/ Comments URL: https://news.ycombinator.com/item?id=50152539 Points: 3 # Comments: 0",
+   "published_at": 1792418021.0,
    "published_bj": "2026-10-19 21:53"
   },
   {
