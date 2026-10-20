@@ -1,7 +1,7 @@
 {
  "date": "2026-10-21",
- "generated_at": 1792535041.1066341,
- "count": 42,
+ "generated_at": 1792537485.1453424,
+ "count": 54,
  "items": [
   {
    "id": "8869576588968116",
@@ -20,6 +20,114 @@
    "summary": "点击查看原文>",
    "published_at": 1792542408.0,
    "published_bj": "2026-10-21 08:26"
+  },
+  {
+   "id": "eee99fd7e4c18890",
+   "source": "IT之家",
+   "title": "通用汽车关闭底特律电池组装厂，因租约到期而非电动化战略调整",
+   "url": "https://www.ithome.com/1/015/624.htm",
+   "summary": "IT之家 10 月 21 日消息，通用汽车（GM）发言人向科技博客 TechCrunch 证实，公司将关闭底特律南部的一处电池组装工厂。 布朗斯敦电池组装厂负责为凯迪拉克旗舰电动车型 Celestiq 组装电池包，同时也为雪佛兰科尔维特 E-Ray 生产电驱动单元（也就是车辆的驱动电机）以及电池包，科尔维特 E-Ray 是这款经典跑车的插电混动版本。 这名发言人表示，本次关闭工厂和通用汽车的电动汽车战略无关。原因是该厂房为通用租赁，租约即将到期。 布朗斯敦工厂的员工与相关生产任务将转移至通用汽车其他厂区，但公司并未确认具体接收单位。 和众多车企一样，在《One Big Beautiful Bi",
+   "published_at": 1792537450.0,
+   "published_bj": "2026-10-21 07:04"
+  },
+  {
+   "id": "49807ef57b232c94",
+   "source": "TechCrunch",
+   "title": "Anthropic pitches AI safety bill that may block a model if 50+ people could be killed",
+   "url": "https://techcrunch.com/2026/10/20/anthropic-pitches-ai-safety-bill-that-may-block-a-model-if-50-people-could-be-killed/",
+   "summary": "The proposed policy seems to offer protections against AI run amok but actually forbids federal agencies from blocking a model's release without the permission of a judge.",
+   "published_at": 1792537283.0,
+   "published_bj": "2026-10-21 07:01"
+  },
+  {
+   "id": "fd7c6befbc6b9c26",
+   "source": "TechCrunch",
+   "title": "SpaceX and Tesla boards form special committees to review merger",
+   "url": "https://techcrunch.com/2026/10/20/spacex-and-tesla-boards-form-special-committees-to-review-merger/",
+   "summary": "Elon Musk likes the idea but says he is not on either committee, which is made up of independent directors.",
+   "published_at": 1792537077.0,
+   "published_bj": "2026-10-21 06:57"
+  },
+  {
+   "id": "ae7e8fe6f13030a5",
+   "source": "IT之家",
+   "title": "谷歌为车载 Gemini 新增个人智能功能，可跨 Gmail、日历、地图调取数据",
+   "url": "https://www.ithome.com/1/015/623.htm",
+   "summary": "IT之家 10 月 21 日消息，谷歌正在为已搭载在数百万辆轿车、卡车与 SUV 上的 Gemini 人工智能助手增添更强的个性化能力，这一举措或将进一步把用户牢牢锁定在谷歌的产品生态当中。 该公司于当地时间周二宣布，将为车载版 Gemini 新增个人智能功能。这项功能可以调取来自谷歌邮箱（Gmail）、谷歌日历（Google Calendar）、YouTube、谷歌地图（Maps）、谷歌搜索记录以及其他关联谷歌服务里的信息，以此理解用户的偏好、行程安排与过往使用记录。 谷歌表示，将通过两种渠道向车辆推送“Gemini 个人智能”功能：一是 Android Auto，这款应用安装在用户手机上，",
+   "published_at": 1792537074.0,
+   "published_bj": "2026-10-21 06:57"
+  },
+  {
+   "id": "1ce1dacc39131860",
+   "source": "IT之家",
+   "title": "新任 CEO 特努斯：设计仍是苹果的首要任务，产品也要有奇思妙想",
+   "url": "https://www.ithome.com/1/015/622.htm",
+   "summary": "IT之家 10 月 21 日消息，昨日（10 月 20 日）接受《时代》（Time）杂志采访时，苹果现任首席执行官约翰 · 特努斯（John Ternus）表示， 设计依然是苹果公司的核心，尊重用户、打造真正有益的产品是“首要任务”。他强调，苹果不会因技术趋势或新角色而改变自己的工作方式。 IT之家附上相关采访视频如下： 特努斯 25 年前以产品设计团队成员身份加入苹果，在工业设计领域摸爬滚打多年，拥有丰富的设计经验。在采访中，特努斯认为苹果的独特之处在于硬件与软件设计师都理解工程，而工程师也深刻理解设计，这种跨领域协作是苹果产品体验的重要基础。 图源：苹果 在特努斯看来，“设计就是它如何运作",
+   "published_at": 1792536873.0,
+   "published_bj": "2026-10-21 06:54"
+  },
+  {
+   "id": "b8098c8c1a68bc67",
+   "source": "IT之家",
+   "title": "OpenAI 宣布收购 AI 生物科技初创企业 Orchestra Bio",
+   "url": "https://www.ithome.com/1/015/621.htm",
+   "summary": "IT之家 10 月 21 日消息，OpenAI 于当地时间周二宣布，收购成立四年的人工智能生物科技软件初创企业 Orchestra Bio，相关消息由该公司在官网发布。本次交易的具体条款并未对外披露，但有报道称，截至 2025 年，这家初创公司已从安德里森 · 霍罗威茨（Andreessen Horowitz）、阿特里亚（Atria）和 8VC 等投资方筹集约 2,000 万美元 （IT之家注：现汇率约合 1.34 亿元人民币） 资金。 Orchestra Bio 开发 AI 智能体，助力生物科技企业管理药物研发业务中的各类细碎工作，涵盖资金追踪，以及解决临床试验的排期问题。 OpenAI 表",
+   "published_at": 1792536671.0,
+   "published_bj": "2026-10-21 06:51"
+  },
+  {
+   "id": "5cb86e11ca0f5c5c",
+   "source": "IT之家",
+   "title": "SpaceX 2026 财年第三财季归母净利润 44.04 亿美元，同比扭亏为盈",
+   "url": "https://www.ithome.com/1/015/617.htm",
+   "summary": "IT之家 10 月 21 日消息，SpaceX 今日发布 2026 财年（2026 年 1 月～2026 年 12 月）第三财季（2026 年 7 月～2026 年 9 月）报告： 营业总收入 ：145.75 亿美元 （IT之家注：现汇率约合 975.6 亿元人民币） ，同比增长 161%，环比增长 86.52% 毛利润 ：90.97 亿美元 （现汇率约合 608.92 亿元人民币） ，同比增长 216.86% 毛利率 ：62.42%，同比增长 10.93 个百分点 归母净利润 ：44.04 亿美元 （现汇率约合 294.79 亿元人民币） ，上年同期净亏损 10.54 亿美元 （现汇率约合 ",
+   "published_at": 1792535842.0,
+   "published_bj": "2026-10-21 06:37"
+  },
+  {
+   "id": "d543ffc6b820a955",
+   "source": "cnBeta",
+   "title": "Perplexity Computer新增Mac本地运行模式 AI任务可留在设备端处理",
+   "url": "https://www.cnbeta.com.tw/articles/tech/1583130.htm",
+   "summary": "Perplexity宣布，Mac版Perplexity应用现已支持让Computer代理完全在本机运行。任务规划、推理、文件处理和工具执行都在设备端完成；在用户授权后，它可操作Mac本地文件以及备忘录、信息、邮件、Keynote和Numbers等应用，不必把个人资料发送到云端。代码和工具执行则在隔离的沙盒环境中运行。 阅读全文",
+   "published_at": 1792535503.0,
+   "published_bj": "2026-10-21 06:31"
+  },
+  {
+   "id": "e2e88e0700eec1d1",
+   "source": "cnBeta",
+   "title": "Google将内置其系统的汽车推送Gemini AI助手 现有车辆也可获得升级",
+   "url": "https://www.cnbeta.com.tw/articles/tech/1583128.htm",
+   "summary": "Google宣布，将把 Gemini 人工智能助手引入搭载“Google Built-in”系统的汽车，为车载交互体验带来全面升级。作为对现有 Google Assistant 的替代方案，Gemini 将提供更自然的对话能力，并支持车辆信息查询、功能设置调整以及更多智能化服务。 阅读全文",
+   "published_at": 1792535468.0,
+   "published_bj": "2026-10-21 06:31"
+  },
+  {
+   "id": "6a4a3105a10279ad",
+   "source": "cnBeta",
+   "title": "马斯克：SpaceX与特斯拉已开始研究潜在合并交易",
+   "url": "https://www.cnbeta.com.tw/articles/tech/1583126.htm",
+   "summary": "马斯克表示，SpaceX和特斯拉已成立特别委员会，研究潜在合并。如果最终得以推进，这可能成为史上规模最大的企业合并交易。同时担任这两家公司首席执行官的马斯克周二在SpaceX财报电话会上表示：“我认为两家公司合并有很多好处，在开发超级智能软件方面进行合作将大有裨益。” 阅读全文",
+   "published_at": 1792535320.0,
+   "published_bj": "2026-10-21 06:28"
+  },
+  {
+   "id": "994f3c0d89840929",
+   "source": "TechCrunch",
+   "title": "Hugging Face CEO warns that Netflix’s OpenAI hack documentary isn’t accurate",
+   "url": "https://techcrunch.com/2026/10/20/hugging-face-ceo-warns-that-netflixs-openai-hack-documentary-isnt-accurate/",
+   "summary": "Before you share the Netflix documentary \"AI Gone Rogue\" take note. Clem Delangue, Hugging Face's co-founder who is featured in the film, says it went \"full doomer mode\" and isn't accurate.",
+   "published_at": 1792535042.0,
+   "published_bj": "2026-10-21 06:24"
+  },
+  {
+   "id": "2da3b972f7d7a1af",
+   "source": "Hacker News",
+   "title": "Feds Suspect Ransom Negotiator Ran ShinyHunters Extortion Site",
+   "url": "https://krebsonsecurity.com/2026/10/feds-suspect-ransom-negotiator-ran-shinyhunters-extortion-site/",
+   "summary": "Article URL: https://krebsonsecurity.com/2026/10/feds-suspect-ransom-negotiator-ran-shinyhunters-extortion-site/ Comments URL: https://news.ycombinator.com/item?id=50173487 Points: 7 # Comments: 0",
+   "published_at": 1792534865.0,
+   "published_bj": "2026-10-21 06:21"
   },
   {
    "id": "68f7393db26bcd05",
