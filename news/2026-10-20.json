@@ -1,7 +1,7 @@
 {
  "date": "2026-10-20",
- "generated_at": 1792486553.923114,
- "count": 298,
+ "generated_at": 1792488550.7422912,
+ "count": 310,
  "items": [
   {
    "id": "67838ab1f555bb51",
@@ -76,6 +76,78 @@
    "published_bj": "2026-10-20 18:00"
   },
   {
+   "id": "66d362394e6e487f",
+   "source": "IT之家",
+   "title": "曝华为畅享 100 Pro Max 手机 512GB 版本独享麒麟 8020 处理器，标准版选用麒麟 8000S 芯片",
+   "url": "https://www.ithome.com/1/015/442.htm",
+   "summary": "IT之家 10 月 20 日消息， 华为畅享 100 系列手机宣传海报已在线下露出 ，目前在多个平台曝光。画面显示，新机延续家族化设计，预装鸿蒙 HarmonyOS 系统，主打“麒麟芯、防诈强、信号好、续航长”等特性卖点。 博主 @数码闲聊站 刚刚发文，进一步透露了系列新机的配置信息，IT之家整理如下： 华为畅享 100 Pro Max 512GB 版本独享麒麟 8020 处理器 ， 256GB / 128GB 版本搭载麒麟 8020A 处理器 ，后置 50Mp 大圆镜头 Deco； 华为畅享 100 Pro 搭载麒麟 8020A 处理器 ； 华为畅享 100 标准版搭载麒麟 8000S 处理",
+   "published_at": 1792488163.0,
+   "published_bj": "2026-10-20 17:22"
+  },
+  {
+   "id": "2eb27ca91fc3e84b",
+   "source": "IT之家",
+   "title": "马斯克造芯新动作：Terafab 与 10 余家韩国半导体供应商谈判",
+   "url": "https://www.ithome.com/1/015/435.htm",
+   "summary": "IT之家 10 月 20 日消息，据韩媒 The Elec 今天报道，埃隆 · 马斯克旗下特斯拉与 SpaceX 正与韩国半导体、零部件和设备供应商展开洽谈，为 Terafab 工厂建立供应链。 IT之家从原报道获悉，特斯拉与 SpaceX 于当地时间 10 月 13 日-15 日在旧金山参加 SEMICON West 2026 展会。其 Terafab 走访约 10 家韩国企业展台，包括 ENF Technology、东进世美肯、Asflow、BMT、GnG Intech、Unisem、MiCo 和韩美半导体等。 某韩企负责人表示：“ 他们似乎在展会开始前就确定了想谈的企业和产品 ，一开幕就",
+   "published_at": 1792488044.0,
+   "published_bj": "2026-10-20 17:20"
+  },
+  {
+   "id": "2f7d207a277dccf8",
+   "source": "IT之家",
+   "title": "外交部回应美政府要求机构停用 DeepSeek：中方反对将科技经贸问题政治化",
+   "url": "https://www.ithome.com/1/015/434.htm",
+   "summary": "IT之家 10 月 20 日消息，据央视新闻今日报道，针对有报道说美国政府要求其机构停止使用来自中国企业的 DeepSeek 等人工智能工具，外交部发言人毛宁 10 月 20 日在例行记者会上答问时表示： 中方一贯反对泛化国家安全概念、将科技经贸问题政治化，我们将坚决维护中国企业的合法权益 。",
+   "published_at": 1792488036.0,
+   "published_bj": "2026-10-20 17:20"
+  },
+  {
+   "id": "1c2ef5c5b3423bf9",
+   "source": "cnBeta",
+   "title": "挪威企业提议建设跨大西洋数据电缆 直接连接加拿大与欧洲 绕开美国",
+   "url": "https://www.cnbeta.com.tw/articles/tech/1583048.htm",
+   "summary": "挪威基础设施企业Bulk Infrastructure近日提出一项新的跨大西洋通信项目，计划建设一条连接加拿大和欧洲的海底光纤电缆，并全程避开美国领土及相关路由体系。该项目被命名为“Leif Erikson”，目前仍处于规划和融资阶段，尚未进入建设阶段。 阅读全文",
+   "published_at": 1792487686.0,
+   "published_bj": "2026-10-20 17:14"
+  },
+  {
+   "id": "f14c220266c225c8",
+   "source": "cnBeta",
+   "title": "法国骚乱波及电竞行业：电竞奖杯被盗 现场有人拆走电脑内存条",
+   "url": "https://www.cnbeta.com.tw/articles/game/1583046.htm",
+   "summary": "法国近期爆发的抗议活动持续引发社会动荡，除零售商店和公共设施遭到破坏外，欧洲知名电竞俱乐部Team Vitality位于巴黎的总部也未能幸免。当地时间10月17日，该俱乐部旗下的V.Hive场馆遭人闯入并洗劫，玻璃橱窗被砸碎，多座电竞赛事奖杯和电脑设备被盗。社交媒体流传的视频还显示，有人在街头拆解被搬出的游戏电脑，疑似专门取走内存条等硬件组件。 阅读全文",
+   "published_at": 1792487646.0,
+   "published_bj": "2026-10-20 17:14"
+  },
+  {
+   "id": "b5f3e57b995ba039",
+   "source": "cnBeta",
+   "title": "微软设计师也开始借助AI编写Windows 11代码 加速修复界面不一致问题",
+   "url": "https://www.cnbeta.com.tw/articles/tech/1583044.htm",
+   "summary": "微软正在尝试利用人工智能加快Windows 11的开发与改进进程，而这一变化甚至已经影响到传统上主要负责界面设计、而非编写程序代码的设计师。微软Windows产品设计副总裁迭戈·巴卡近日透露，AI工具已经显著提升了设计团队的工作效率，部分设计师如今也开始借助AI直接参与代码修改，以改善Windows的设计一致性、细节质量和整体使用体验。他表示，这只是微软相关工作的起点。 阅读全文",
+   "published_at": 1792487583.0,
+   "published_bj": "2026-10-20 17:13"
+  },
+  {
+   "id": "60b03a87a400ef27",
+   "source": "IT之家",
+   "title": "华为超级快充多设备电源适配器 66W 恒功率版发售：129 元，兼容 SCP、UFCS、PD、PPS、QC 等协议",
+   "url": "https://www.ithome.com/1/015/432.htm",
+   "summary": "IT之家 10 月 20 日消息，今日有用户发现，华为新上架了一款 66W 充电器，名为“华为超级快充多设备电源适配器（ 66W ）恒功率版”，定价为 129 元，现已开售。 京东 华为超级快充多设备电源适配器（66W）恒功率版 适配华为手机 笔记本 平板 129 元 直达链接 华为表示，该产品是首批获得新国标 3C 认证的充电器，支持带上飞机，适配华为手机、笔记本、平板等多类设备。 该适配器主打 66 W 恒功率输出，在游戏、渲染等高负荷场景下能够保持相对稳定输出，充电功率不降额，需搭配同样支持恒功率充电的主机产品使用，硬件支持 66W （20V 3.3A ）持续功率。 这款充电器机身仅 4",
+   "published_at": 1792487352.0,
+   "published_bj": "2026-10-20 17:09"
+  },
+  {
+   "id": "a2a00d75523997c4",
+   "source": "IT之家",
+   "title": "华为畅享 100 系列手机海报线下露出：家族化外观设计，主打麒麟芯、续航长等特性",
+   "url": "https://www.ithome.com/1/015/431.htm",
+   "summary": "IT之家 10 月 20 日消息，华为畅享 100 系列手机宣传海报已在线下露出，目前在多个平台曝光。画面显示，新机延续家族化设计，预装鸿蒙 HarmonyOS 系统， 主打“麒麟芯、防诈强、信号好、续航长”等特性卖点 。 据IT之家昨日报道， 博主 @数码闲聊站 爆料了即将发布的华为畅享 100 系列手机核心配置信息 。 华为畅享 100 Pro Max —— 6.84 英寸 1.5K+LTPS 直屏 + 麒麟 8020 + 8800mAh (额定 8560mAh)，北斗卫星消息，曜金黑 / 雪域白 / 流沙金 / 蔚蓝海 畅享 100 Pro 和畅享 100 主打 K8000 系芯片 + ",
+   "published_at": 1792487183.0,
+   "published_bj": "2026-10-20 17:06"
+  },
+  {
    "id": "09ede2667a5f465f",
    "source": "InfoQ中文",
    "title": "Lyft将流式计算集群迁移到Apache Flink Kubernetes Operator",
@@ -83,6 +155,33 @@
    "summary": "点击查看原文>",
    "published_at": 1792487160.0,
    "published_bj": "2026-10-20 17:06"
+  },
+  {
+   "id": "4078b7709e91cdd4",
+   "source": "IT之家",
+   "title": "DeepSeek 宣布将内部推理框架 DeepInfer 全面开源，目标实现大模型普惠",
+   "url": "https://www.ithome.com/1/015/429.htm",
+   "summary": "IT之家 10 月 20 日消息，DeepSeek 今日官宣，在此前开源一系列大模型、TileLang 编译工具及推理算子库的基础上， 决定进一步将内部推理框架 DeepInfer 全面开源 。 DeepSeek 官方表示，大模型的能力边界由模型本身划定，但如何以合理成本提供超大规模的模型服务，还取决于一个长期未被公众了解的中间层： 推理框架 。 训练使模型学有所成，推理则让模型为人所用。面对如今海量的用户调用，推理框架负责统筹调度庞大的算力集群，其效率直接决定了 AI 服务的算力成本与电力消耗。 DeepSeek 希望通过分享内部的部署经验， 帮助开发者与企业组织优化大规模推理的吞吐与延迟 ",
+   "published_at": 1792487110.0,
+   "published_bj": "2026-10-20 17:05"
+  },
+  {
+   "id": "56fc93cf80868e16",
+   "source": "IT之家",
+   "title": "上汽大众 ID.ERA 5X 正式下线，全新 CMP 平台首款量产车型",
+   "url": "https://www.ithome.com/1/015/428.htm",
+   "summary": "IT之家 10 月 20 日消息，据易车报道，上汽大众首辆 ID. ERA 5X 已在工厂正式下线。该车是大众汽车全球首款基于全新 CMP 平台打造的量产车型，11 月上市。 据介绍，CMP 平台专为中国用户研发， 可兼容 BEV（纯电动）和 PHEV（IT之家注：插电式混合动力）等多种动力形式 。该平台的所有车辆都将搭载大众汽车 CEA 电子电气架构，实现车辆“躯体”（硬件）与“大脑”（软件）的深度融合，相关技术包括 AI 赋能智能座舱、增强版 L2 级高阶辅助驾驶。 同时， ID. ERA 5X 将搭载 4nm 座舱芯片 ，车顶配备激光雷达，基于酷睿程 Hyper Sense 8 端到端大",
+   "published_at": 1792487100.0,
+   "published_bj": "2026-10-20 17:05"
+  },
+  {
+   "id": "1bc7910eb65d3774",
+   "source": "Hacker News",
+   "title": "Fizzpoker – No-login Online Poker with friends",
+   "url": "https://www.fizzpoker.com",
+   "summary": "Article URL: https://www.fizzpoker.com Comments URL: https://news.ycombinator.com/item?id=50163173 Points: 5 # Comments: 0",
+   "published_at": 1792486550.0,
+   "published_bj": "2026-10-20 16:55"
   },
   {
    "id": "6454c3e6fc920177",
@@ -227,6 +326,15 @@
    "summary": "IT之家 10 月 20 日消息，Gartner（高德纳）当地时间本月 14 日指出，2026~2030 年期间的全球人工智能基础设施投资总额将达到 7 万亿美元 （IT之家注：现汇率约合 46.86 万亿元人民币） ，但 这些投资到 2030 年最多仅能产生 3.6 万亿美元收入 。 高级总监分析师 Will Sommer 表示，在考虑到融资成本和 12% 投资回报率的情况下，与 7 万亿美元投资相抵的收入需要达到 8.5 万亿美元，而 这与其收入预测之间存在约 5 万亿美元的缺口 。 机构认为，持续的 AI 基础设施投资可能要到 2032 年才会实现 12% 回报率的目标，而这之前可能有超",
    "published_at": 1792484281.0,
    "published_bj": "2026-10-20 16:18"
+  },
+  {
+   "id": "119ee71ba432a332",
+   "source": "Hacker News",
+   "title": "Everything is going wrong for Muhammad bin Salman",
+   "url": "https://www.economist.com/middle-east-and-africa/2026/10/19/everything-is-going-wrong-for-muhammad-bin-salman",
+   "summary": "Article URL: https://www.economist.com/middle-east-and-africa/2026/10/19/everything-is-going-wrong-for-muhammad-bin-salman Comments URL: https://news.ycombinator.com/item?id=50162860 Points: 16 # Comments: 15",
+   "published_at": 1792484215.0,
+   "published_bj": "2026-10-20 16:16"
   },
   {
    "id": "f368e387811d84f2",
