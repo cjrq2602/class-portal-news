@@ -1,8 +1,17 @@
 {
  "date": "2026-10-20",
- "generated_at": 1792461165.798399,
- "count": 98,
+ "generated_at": 1792463038.2019124,
+ "count": 108,
  "items": [
+  {
+   "id": "0182a0c1bdf9ba01",
+   "source": "InfoQ中文",
+   "title": "失败一次，受益多次：测试 Agent 从记忆到持续学习的工程实践｜QCon上海",
+   "url": "https://www.infoq.cn/article/ZyjObqGawfurPFLBQONd?utm_source=rss&utm_medium=article",
+   "summary": "点击查看原文>",
+   "published_at": 1792490400.0,
+   "published_bj": "2026-10-20 18:00"
+  },
   {
    "id": "09ede2667a5f465f",
    "source": "InfoQ中文",
@@ -11,6 +20,78 @@
    "summary": "点击查看原文>",
    "published_at": 1792487160.0,
    "published_bj": "2026-10-20 17:06"
+  },
+  {
+   "id": "eddebaf2fc3df413",
+   "source": "IT之家",
+   "title": "致态 TiPro9000 固态硬盘 × 吹雪联名版发售：融入华硕 RO 宝 · 吹雪姬视觉元素",
+   "url": "https://www.ithome.com/1/015/168.htm",
+   "summary": "IT之家 10 月 20 日消息，长江存储 (YMTC) 旗下个人存储品牌致态 (ZHITAI) 今日正式发售了 TiPro9000 固态硬盘的吹雪联名版。 这一型号在标准 TiPro9000 系列的基础上 融入华硕 RO 宝 · 吹雪姬视觉元素 ，产品包装和 SSD 机身采用激光银卡幻彩工艺，配套专属定制蓝银色可拆卸散热片、吹雪联名定制贴纸、螺丝及螺丝刀套装。 这款 SSD 采用 M.2 2280 外形规格和 PCIe Gen5 ×4 接口，符合 NVMe 2.0 协议，使用独立缓存方案，基于长江存储 Xtacking 4.0 TLC NAND 闪存， 提供 1TB (1024GB) 和 2",
+   "published_at": 1792462921.0,
+   "published_bj": "2026-10-20 10:22"
+  },
+  {
+   "id": "be09d8d068923c44",
+   "source": "IT之家",
+   "title": "“追窗”30 年新里程碑：“开源版 Windows”ReactOS 正式支持 NTFS",
+   "url": "https://www.ithome.com/1/015/154.htm",
+   "summary": "IT之家 10 月 20 日消息，科技媒体 Ars Technica 今天（10 月 20 日）发布博文，报道称开源操作系统项目 ReactOS 通过新增 NTFS 文件系统驱动， 现已支持将系统直接安装到 NTFS 磁盘分区。 IT之家注：ReactOS 是一个由志愿者社区开发的开源项目，目标是重现 Windows 的运行环境，兼容 Windows 应用与驱动、并重新实现 Windows 系统核心能力， 于 2026 年 1 月迎来 30 周年 。 用户此前若要安装 ReactOS，必须额外保留一个 FAT32 分区，而 NTFS 自 Windows XP 时代以来一直是主流 Windows",
+   "published_at": 1792462586.0,
+   "published_bj": "2026-10-20 10:16"
+  },
+  {
+   "id": "b28a3edb73c1c3dc",
+   "source": "IT之家",
+   "title": "小米 REDMI 手环 4 发售：续航最长 21 天，售价 169 元",
+   "url": "https://www.ithome.com/1/015/151.htm",
+   "summary": "IT之家 10 月 20 日消息，小米 REDMI 手环 4 今日正式发售，定价 169 元。 REDMI 手环 4 可选黑、银两款配色，配备一体化金属质感中框、 1.47 英寸 2.5D 60Hz 屏 ，续航最长 21 天、常规监测 8 天。 REDMI 手环 4 还配备全天候压力监测，多维健康指标管理，以及 50 项运动模式精准跟测，支持 5ATM 级防水。 REDMI 手环 4 也支持常规的消息提醒、更换表盘、微信支付宝扫码支付、闹钟等功能，IT之家附配置表如下： 京东 小米 REDMI 手环 4 169 元 直达链接 京东 11.11 无门槛红包 面额至高 26888 元，每天抽 3 ",
+   "published_at": 1792462451.0,
+   "published_bj": "2026-10-20 10:14"
+  },
+  {
+   "id": "b6613d684e3804f1",
+   "source": "IT之家",
+   "title": "东风日产 NX7 官宣即将登场，号称“年轻人的智能零压 SUV”",
+   "url": "https://www.ithome.com/1/015/143.htm",
+   "summary": "IT之家 10 月 20 日消息，东风日产今日宣布，东风日产 NX7，年轻人的智能零压 SUV， 即将登场 。 据IT之家此前报道， 新车已在今年 8 月完成申报 ，尺寸为 4785×1932×1665mm，轴距 2815mm；搭载 40.9 度宁德时代电池； 配备激光雷达，支持城市 NOA 功能 。 新车提供两套轮胎规格，拥有三款轮毂设计，兼顾外观质感、行驶静谧与能耗。东风日产官方表示，三款轮毂均经过空气动力学优化， 可降低高速行驶风噪与风阻，改善能耗与续航 。 相关阅读： 《 东风日产 NX7 新车申报：插电式混合动力 SUV，轴距 2815 mm 》",
+   "published_at": 1792462294.0,
+   "published_bj": "2026-10-20 10:11"
+  },
+  {
+   "id": "2b67562eef17b6e1",
+   "source": "IT之家",
+   "title": "酷派首款阔直板手机 Cool X Wide 开启预约：6.38 英寸 16:10 屏幕、联发科 Helio G99 芯片",
+   "url": "https://www.ithome.com/1/015/128.htm",
+   "summary": "IT之家 10 月 20 日消息，酷派官方今日宣布，酷派首款阔直板手机 Cool X Wide 今日 10:00 起开启预约，具体价格暂未公布。 这款新机搭载 6.38 英寸 16:10 屏幕 ，刷新率 90Hz；有鎏白、岩黑、嫣红三种配色可选，机身尺寸为 150.3×94.5×8.95mm，后置 5000 万像素摄像头。 这款手机采用联发科 Helio G99 处理器，搭配 LPDDR4X 内存与 UFS 2.2 闪存，至高 12GB+256GB，此外支持最大 256GB TF 卡拓展；电池容量 4600mAh。 IT之家附这款新品主要参数：",
+   "published_at": 1792461864.0,
+   "published_bj": "2026-10-20 10:04"
+  },
+  {
+   "id": "7e7c387bae9742fa",
+   "source": "IT之家",
+   "title": "英伟达黄仁勋：AI 发展不能急刹车，但必须装“安全带”",
+   "url": "https://www.ithome.com/1/015/127.htm",
+   "summary": "IT之家 10 月 20 日消息，科技媒体 Android Headline 昨日（10 月 19 日）发布博文，报道称英伟达首席执行官黄仁勋在伦敦表示，反对以“急刹车”或严厉监管来限制 AI 发展， 应该建立“安全带”，通过更智能的安全标准、监测机制和事故防范措施约束。 黄仁勋将 AI 比作电网、供水系统等关键基础设施，反对简单禁止或施加繁重监管方案，主张建立聪明的安全标准。他透露，自己经常与 AI 研究人员交流风险监控和安全协议问题，并提出英国可作为中美等各方开展 AI 安全对话的中立平台。英伟达还承诺在五年内向英国 AI 安全研究投入 2.5 亿美元 （IT之家注：现汇率约合 16.73",
+   "published_at": 1792461638.0,
+   "published_bj": "2026-10-20 10:00"
+  },
+  {
+   "id": "8de5dfdd52de3234",
+   "source": "TechCrunch",
+   "title": "Walmart’s Flipkart is quietly building a food delivery challenger in India",
+   "url": "https://techcrunch.com/2026/10/19/walmarts-flipkart-is-quietly-building-a-food-delivery-challenger-in-india/",
+   "summary": "Flipkart has expanded access to its food-delivery service to thousands of employees ahead of its public launch.",
+   "published_at": 1792461600.0,
+   "published_bj": "2026-10-20 10:00"
+  },
+  {
+   "id": "1b37e38b437d10a5",
+   "source": "IT之家",
+   "title": "AI 降低克隆游戏门槛，独立开发者开始谨慎公开创作内容",
+   "url": "https://www.ithome.com/1/015/126.htm",
+   "summary": "IT之家 10 月 20 日消息，电子游戏行业自诞生之初，就一直存在开发者模仿竞品做“克隆游戏”的现象，作品原创度高低不一，各大游戏平台对这类作品的监管力度也参差不齐。但如今 AI 编程工具大幅降低了克隆游戏的制作门槛，效率极高，导致许多开发者在公开早期作品时变得格外谨慎。 IT之家注意到，上周末，工作室 Alliance Arts 原定配合 Steam 新品节上线、对外公开试玩的恶魔主题俄罗斯轮盘酒局游戏《Drunken Goddess Reflux》宣布延期放出公开 Demo。 工作室在当地时间上周五晚间的社交媒体帖子中写道，除了直播内容管控方面的顾虑，“我们担心 Demo 中的素材会被他",
+   "published_at": 1792461343.0,
+   "published_bj": "2026-10-20 09:55"
   },
   {
    "id": "699947f6862ddf0a",
@@ -146,6 +227,15 @@
    "summary": "IT之家 10 月 20 日消息，韩媒 ZDNET Korea 当地时间昨日报道称，三星电子 MX 业务近期向合作伙伴分享了对 2027 年 OLED 屏幕 Galaxy A 系列中低端智能手机出货的最新预计： 1 亿部 。 三星的 Galaxy A 智能手机中仅有最入门的 A0 家族使用 LCD 显示面板、 A1、A2、A3、A5 级别现已全部使用 OLED 。 消息人士表示，三星电子预计 2026 年的 OLED Galaxy A 出货量为 1.1 亿部，也就是说 明年将减少 1,000 万部 。三星电子在今年 9 月下旬分享的 2027 年 OLED Galaxy A 早期出货预测则是 ",
    "published_at": 1792459029.0,
    "published_bj": "2026-10-20 09:17"
+  },
+  {
+   "id": "e7515ec5772eb496",
+   "source": "Hacker News",
+   "title": "Developing Taste",
+   "url": "https://emilkowal.ski/ui/developing-taste",
+   "summary": "Article URL: https://emilkowal.ski/ui/developing-taste Comments URL: https://news.ycombinator.com/item?id=50160135 Points: 4 # Comments: 0",
+   "published_at": 1792458723.0,
+   "published_bj": "2026-10-20 09:12"
   },
   {
    "id": "6df89fb04f482ecc",
