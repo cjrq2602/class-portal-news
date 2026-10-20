@@ -1,8 +1,26 @@
 {
  "date": "2026-10-21",
- "generated_at": 1792513784.078747,
- "count": 14,
+ "generated_at": 1792516491.7358434,
+ "count": 19,
  "items": [
+  {
+   "id": "8869576588968116",
+   "source": "InfoQ中文",
+   "title": "北大博士、零一万物联创黄文灏加入字节 Seed 两年后离职，下一步或创业",
+   "url": "https://www.infoq.cn/article/Xkjg7bLE3o6l9qCidVX0?utm_source=rss&utm_medium=article",
+   "summary": "点击查看原文>",
+   "published_at": 1792542912.0,
+   "published_bj": "2026-10-21 08:35"
+  },
+  {
+   "id": "7c2d40ad54458525",
+   "source": "InfoQ中文",
+   "title": "比 Opus 5.5 便宜 88 倍！MiniMax M3.1 Flash “杀“回王座，顺手拿了个 Agent 国模第一",
+   "url": "https://www.infoq.cn/article/7Twa7KBWIzi8JGOdVwCK?utm_source=rss&utm_medium=article",
+   "summary": "点击查看原文>",
+   "published_at": 1792542408.0,
+   "published_bj": "2026-10-21 08:26"
+  },
   {
    "id": "b044fab4ea039f9c",
    "source": "InfoQ中文",
@@ -13,6 +31,15 @@
    "published_bj": "2026-10-21 02:36"
   },
   {
+   "id": "35cec3834eefcb2a",
+   "source": "TechCrunch",
+   "title": "Meta’s Muse hits 10M U.S. downloads in 40 days, a milestone reached by only 11 other apps",
+   "url": "https://techcrunch.com/2026/10/20/metas-muse-hits-10m-u-s-downloads-in-40-days-a-milestone-reached-by-only-11-other-apps/",
+   "summary": "Meta's AI companion Muse has surpassed 10 million U.S. downloads in its first 40 days, joining an exclusive group of apps that includes Threads. New data also shows Muse is retaining users at higher rates than its AI rivals.",
+   "published_at": 1792516368.0,
+   "published_bj": "2026-10-21 01:12"
+  },
+  {
    "id": "0c07a6c492d2cced",
    "source": "InfoQ中文",
    "title": "处理了 4000 万条消息后，我们总结了 Kafka 有序处理的几个关键设计",
@@ -20,6 +47,24 @@
    "summary": "点击查看原文>",
    "published_at": 1792515600.0,
    "published_bj": "2026-10-21 01:00"
+  },
+  {
+   "id": "a7cab2cafe9c75c5",
+   "source": "Hacker News",
+   "title": "Google open-sources TorchTPU, a native PyTorch back end for TPUs",
+   "url": "https://github.com/google-pytorch/torch_tpu",
+   "summary": "Article URL: https://github.com/google-pytorch/torch_tpu Comments URL: https://news.ycombinator.com/item?id=50169053 Points: 25 # Comments: 7",
+   "published_at": 1792514424.0,
+   "published_bj": "2026-10-21 00:40"
+  },
+  {
+   "id": "f1ff20aac3979043",
+   "source": "cnBeta",
+   "title": "AI辅助开发助力ReactOS突破技术难关 成功实现雷电4支持",
+   "url": "https://www.cnbeta.com.tw/articles/tech/1583112.htm",
+   "summary": "开源操作系统项目ReactOS近日取得一项重要进展。开发团队宣布，在人工智能辅助编程技术的帮助下，系统已经成功实现对Thunderbolt 4（雷电4）接口的支持。这项成果不仅增强了ReactOS对现代硬件的兼容能力，也成为AI辅助软件开发在复杂底层系统工程领域应用的又一案例。 阅读全文",
+   "published_at": 1792513842.0,
+   "published_bj": "2026-10-21 00:30"
   },
   {
    "id": "8ad19896659cd4f8",

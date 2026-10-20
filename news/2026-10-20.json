@@ -1,6 +1,6 @@
 {
  "date": "2026-10-20",
- "generated_at": 1792513784.0820036,
+ "generated_at": 1792516491.737838,
  "count": 400,
  "items": [
   {
@@ -65,6 +65,24 @@
    "summary": "一项由Linux基金会研究部门发布、红帽公司赞助的新研究显示，生成式人工智能正在显著改变开源软件开发模式。调查结果表明，AI工具能够帮助开发者将代码编写时间缩短约一半，大幅提升开发效率，但与此同时，也给开源项目维护者带来了越来越大的审核压力。 阅读全文",
    "published_at": 1792511534.0,
    "published_bj": "2026-10-20 23:52"
+  },
+  {
+   "id": "bd06b0342cf7c95c",
+   "source": "Hacker News",
+   "title": "Steam Users Beg for \"No AI\" Filter as Vibecoders Flood Next Fest",
+   "url": "https://www.ign.com/articles/steam-fans-are-begging-for-a-no-ai-filter-as-steam-next-fest-is-filled-with-slop",
+   "summary": "Article URL: https://www.ign.com/articles/steam-fans-are-begging-for-a-no-ai-filter-as-steam-next-fest-is-filled-with-slop Comments URL: https://news.ycombinator.com/item?id=50168190 Points: 33 # Comments: 4",
+   "published_at": 1792511306.0,
+   "published_bj": "2026-10-20 23:48"
+  },
+  {
+   "id": "0a8b8a6453c30577",
+   "source": "Hacker News",
+   "title": "IKEA – 3D Guide",
+   "url": "https://sael.net/flatpack/",
+   "summary": "Article URL: https://sael.net/flatpack/ Comments URL: https://news.ycombinator.com/item?id=50168096 Points: 8 # Comments: 0",
+   "published_at": 1792510965.0,
+   "published_bj": "2026-10-20 23:42"
   },
   {
    "id": "54ac16ff95766fbf",
@@ -3584,24 +3602,6 @@
    "summary": "IT之家 10 月 20 日消息，华为终端 BG CEO 何刚今日正式公布了华为路由 X2 Pro 外观，新品共有大地棕、橡木白、石纹灰三种配色，新品外观像一本书， 外壳还能 DIY ，跟着家里装修风格自由搭配。 此外，这款路由器支持 Wi‑Fi 7+ 、 AI Mesh 组网 ，支持多台路由协同工作，全屋网络覆盖更稳。 IT之家附三种配色官图如下： 相关阅读： 《 华为路由 X2 Pro 官宣接入智慧生活 App，新品上市时间待定 》",
    "published_at": 1792461037.0,
    "published_bj": "2026-10-20 09:50"
-  },
-  {
-   "id": "efe06e7c09c5c29a",
-   "source": "IT之家",
-   "title": "联想 ThinkBook X AI 2027 轻薄商务本发售，到手价 7,999 元起",
-   "url": "https://www.ithome.com/1/015/119.htm",
-   "summary": "IT之家 10 月 20 日消息，联想 (lenovo) 轻薄商务本 ThinkBook X AI 2027 (ThinkBook X G4 IWC) 现已发售。其基于第 3 代英特尔酷睿 \"Wildcat Lake\" 处理器，本次市售型号均为星耀白配色。 酷睿 5 处理器 315 + 16GB + 1TB：到手价 7,999 元； 酷睿 7 处理器 350 + 32GB + 1TB：到手价 11,999 元。 京东 联想 ThinkBook X AI 2027 笔电 7999 元起 直达链接 ThinkBook X AI 2027 采用精工铝材机身，内置 65Whr 电池， 轻约 1.06k",
-   "published_at": 1792460644.0,
-   "published_bj": "2026-10-20 09:44"
-  },
-  {
-   "id": "8d70baa57b69abcb",
-   "source": "IT之家",
-   "title": "AI 按钮回归：微软修复 Win10/Win11 经典版 Outlook 的 Copilot 入口消失问题",
-   "url": "https://www.ithome.com/1/015/118.htm",
-   "summary": "IT之家 10 月 20 日消息，科技媒体 bleepingcomputer 昨日（10 月 19 日）发布博文，报道称微软公司已面向经典版 Outlook 推送补丁， 修复 Copilot Chat 和 Copilot 按钮消失问题。 IT之家曾于 9 月 17 日报道，微软承认表示经典版 Outlook 升级 Build 20026.20182 及更高版本后，部分拥有 Copilot Chat 许可证或付费 M365 Copilot 账户的用户，可能失去 Copilot Chat 与 Copilot 入口。 受此影响的人会遇到以下一个或多个问题： 右上角功能区上方缺少 Copilot 按钮",
-   "published_at": 1792460480.0,
-   "published_bj": "2026-10-20 09:41"
   }
  ]
 }
