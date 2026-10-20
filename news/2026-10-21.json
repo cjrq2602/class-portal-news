@@ -1,7 +1,7 @@
 {
  "date": "2026-10-21",
- "generated_at": 1792520888.9131036,
- "count": 23,
+ "generated_at": 1792523740.1228292,
+ "count": 30,
  "items": [
   {
    "id": "8869576588968116",
@@ -22,6 +22,51 @@
    "published_bj": "2026-10-21 08:26"
   },
   {
+   "id": "93d6f45ad2bb758d",
+   "source": "cnBeta",
+   "title": "传微软2027年推出Xbox掌机 下一代Xbox主机或于2028年登场",
+   "url": "https://www.cnbeta.com.tw/articles/tech/1583124.htm",
+   "summary": "微软正在规划新一代Xbox硬件产品路线图，其中一款被称为“下一代Xbox掌机”的设备预计将在2027年假日购物季前后推出，而代号为“Project Helix”的下一代Xbox主机则有望于2028年正式上市。 阅读全文",
+   "published_at": 1792523489.0,
+   "published_bj": "2026-10-21 03:11"
+  },
+  {
+   "id": "8e2973e475d4679c",
+   "source": "cnBeta",
+   "title": "美国法官驳回OpenAI首席执行官山姆·奥特曼妹妹提起的性侵诉讼",
+   "url": "https://www.cnbeta.com.tw/articles/tech/1583122.htm",
+   "summary": "美国密苏里州联邦法院法官当地时间10月20日裁定，驳回针对OpenAI联合创始人兼首席执行官山姆·奥特曼的民事诉讼。该诉讼由其妹妹安妮·奥特曼提起，指控他在二十多年前多次实施性侵行为，而山姆·奥特曼始终否认相关指控。 阅读全文",
+   "published_at": 1792521603.0,
+   "published_bj": "2026-10-21 02:40"
+  },
+  {
+   "id": "50061fd0d7f60aa0",
+   "source": "cnBeta",
+   "title": "ChatGPT新增“锁定聊天” 可用四位PIN或生物识别隐藏敏感对话",
+   "url": "https://www.cnbeta.com.tw/articles/tech/1583120.htm",
+   "summary": "OpenAI宣布，ChatGPT用户现在可以为特定对话启用“锁定聊天”。锁定后，对话会移出常规聊天记录、置顶列表和普通搜索结果，转入“项目—锁定的聊天”区域；重新打开时需输入四位账户PIN。在支持的手机设备上，也可使用Face ID、Touch ID或设备解锁方式验证。该功能适用于免费版、Go、Plus、Pro、Business、Enterprise和Edu方案，正逐步推出；Healthcare版暂不支持。 阅读全文",
+   "published_at": 1792521580.0,
+   "published_bj": "2026-10-21 02:39"
+  },
+  {
+   "id": "00e741344e8bfb36",
+   "source": "TechCrunch",
+   "title": "Google has joined Amazon in attacking Nvidia’s stronghold with AI app developers",
+   "url": "https://techcrunch.com/2026/10/20/google-has-joined-amazon-in-attacking-nvidias-stronghold-with-ai-app-developers/",
+   "summary": "Google has joined Amazon in releasing a developer tool that makes it easy for PyTorch users to move their apps off Nvidia GPUs.",
+   "published_at": 1792521504.0,
+   "published_bj": "2026-10-21 02:38"
+  },
+  {
+   "id": "b180d12a6dcc5605",
+   "source": "TechCrunch",
+   "title": "ChatGPT now lets you lock your chats",
+   "url": "https://techcrunch.com/2026/10/20/chatgpt-now-lets-you-lock-your-chats/",
+   "summary": "The company says the feature is designed for situations where users might be discussing something personal or planning a surprise and want to keep those conversations private when handing their device to friends or family to show them something in another chat.",
+   "published_at": 1792521413.0,
+   "published_bj": "2026-10-21 02:36"
+  },
+  {
    "id": "b044fab4ea039f9c",
    "source": "InfoQ中文",
    "title": "主题征文 ｜ 让鸿蒙应用，玩出新可能！",
@@ -29,6 +74,24 @@
    "summary": "点击查看原文>",
    "published_at": 1792521363.0,
    "published_bj": "2026-10-21 02:36"
+  },
+  {
+   "id": "30e5eb5be62917b7",
+   "source": "cnBeta",
+   "title": "三星改进Exynos基带能效 Galaxy S27有望缩小与骁龙版的续航差距",
+   "url": "https://www.cnbeta.com.tw/articles/tech/1583118.htm",
+   "summary": "三星正在着手解决Exynos平台长期以来备受诟病的一项问题。随着下一代Galaxy S27系列的开发推进，三星新一代Exynos基带芯片在功耗表现方面取得明显改进，未来搭载Exynos处理器的Galaxy旗舰机型有望在续航表现上追平甚至接近采用高通骁龙方案的版本。 阅读全文",
+   "published_at": 1792521034.0,
+   "published_bj": "2026-10-21 02:30"
+  },
+  {
+   "id": "153895d34dd16c0e",
+   "source": "Hacker News",
+   "title": "SimCity, but with Permits",
+   "url": "https://permit.petercai.com/",
+   "summary": "Article URL: https://permit.petercai.com/ Comments URL: https://news.ycombinator.com/item?id=50170593 Points: 38 # Comments: 7",
+   "published_at": 1792520949.0,
+   "published_bj": "2026-10-21 02:29"
   },
   {
    "id": "dda4d497e275723c",
