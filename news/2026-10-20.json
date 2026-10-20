@@ -1,6 +1,6 @@
 {
  "date": "2026-10-20",
- "generated_at": 1792506803.8560908,
+ "generated_at": 1792509221.8462856,
  "count": 400,
  "items": [
   {
@@ -11,6 +11,15 @@
    "summary": "点击查看原文>",
    "published_at": 1792509720.0,
    "published_bj": "2026-10-20 23:22"
+  },
+  {
+   "id": "a35c2436a8a33fdf",
+   "source": "IT之家",
+   "title": "英伟达黄仁勋劝诫欧洲各国：别再对 AI 过度犹疑，否则将被时代甩在身后",
+   "url": "https://www.ithome.com/1/015/603.htm",
+   "summary": "IT之家 10 月 20 日消息，据《商业内幕》今天报道，英伟达首席执行官黄仁勋过去一周访欧期间，向欧洲各国领导人传递了明确信号：必须摆脱束缚大胆行动， 否则欧洲可能永远无法参与 AI 竞赛 。 IT之家从原报道获悉，黄仁勋过去几天先后访问法国、瑞典、英国和德国，为今日在柏林开幕的 GTC 大会做准备。他在此期间多次强调，欧洲需要加快 AI 发展步伐，不应过度依赖监管。 周一晚间，黄仁勋与德国总理弗里德里希 · 默茨展开对话。当谈到欧洲如何监管 AI 时，黄仁勋认为安全必须放在首位，但决策者不能只拿着监管的大棒，就指望技术领先他国。 黄仁勋表示：“ 如果这个行业无法蓬勃发展 ， 那没什么可监管",
+   "published_at": 1792509088.0,
+   "published_bj": "2026-10-20 23:11"
   },
   {
    "id": "da1e15eea0b729c8",
@@ -31,6 +40,33 @@
    "published_bj": "2026-10-20 23:05"
   },
   {
+   "id": "ac991c00a23adff6",
+   "source": "TechCrunch",
+   "title": "TikTok staff raised child safety concerns, but executives reportedly failed to act",
+   "url": "https://techcrunch.com/2026/10/20/tiktok-staff-raised-child-safety-concerns-but-executives-reportedly-failed-to-act/",
+   "summary": "Court documents show TikTok employees were frustrated with how executives responded to their concerns about risks to children.",
+   "published_at": 1792508621.0,
+   "published_bj": "2026-10-20 23:03"
+  },
+  {
+   "id": "c7fec095499112e9",
+   "source": "Solidot",
+   "title": "OpenBSD 8.0 释出",
+   "url": "https://www.solidot.org/story?sid=85665",
+   "summary": "OpenBSD 项目释出了 8.0 版本。创始人 Theo de Raadt 声称在项目逾三十年的历史中，默认安装环境仅出现两次远程安全漏洞。OpenBSD 8.0 主要新特性包括：amd64 架构内核虚拟地址空间从 4GB 扩大至 512GB；arm64 架构支持休眠；riscv64 架构支持向量扩展、高级中断架构；停止支持龙芯 loongson 架构，原因是它不兼容 Clang 22 编译器；改进了支持高通 WiFi 6 设备的 qwx 驱动，等等。更多可浏览发布公告。",
+   "published_at": 1792508339.0,
+   "published_bj": "2026-10-20 22:58"
+  },
+  {
+   "id": "a2847e45f69e1304",
+   "source": "IT之家",
+   "title": "索尼《绝地潜兵 2》正式弃用 GameGuard，改用 Easy Anti-Cheat 反作弊系统",
+   "url": "https://www.ithome.com/1/015/602.htm",
+   "summary": "IT之家 10 月 20 日消息，《绝地潜兵 2》官方团队今日推送了最新的 7.2.0 版本更新，其中将 PC 版的反作弊系统从 GameGuard 更换为 Easy Anti-Cheat（EAC），并同步部署了额外的安全工具。 官方团队在 Steam 公告中承认，此前采用的 GameGuard“未能达到预期防护效果”，EAC 作为已被超过 200 款游戏采用的行业通用方案，被视为更有效的替代选择。 触发这次切换的直接原因，并非一般意义上的“外挂”，而是作弊模组对游戏核心机制的实际损害。Arrowhead 在公告中提到，部分玩家利用模组改变作战拾取掉落概率，甚至操纵银河战争的战局走向、扰乱剧情",
+   "published_at": 1792508173.0,
+   "published_bj": "2026-10-20 22:56"
+  },
+  {
    "id": "821c10d0bc45a4eb",
    "source": "InfoQ中文",
    "title": "AI Agent 越用越贵？如何借助可观测性平衡性能、质量与成本 ｜ 技术趋势",
@@ -40,12 +76,84 @@
    "published_bj": "2026-10-20 22:55"
   },
   {
+   "id": "116713d233b292f6",
+   "source": "IT之家",
+   "title": "Adobe Lightroom 移动版新增“睁眼”AI 修图，一键修复闭眼照片",
+   "url": "https://www.ithome.com/1/015/601.htm",
+   "summary": "IT之家 10 月 20 日消息，Adobe 公司昨日宣布，Lightroom 移动版修图软件已经支持“睁眼”AI 修图功能，用户只需要点一下，就能修复照片中闭着的眼睛。 IT之家了解到，Adobe 此前已经在 Photoshop Elements 中提供类似功能，不过它只是从同一人物的另一张照片中提取眼睛进行替换，因此修复效果有时并不理想。 相比之下，Lightroom 移动版的“睁眼”功能使用生成式 AI，替换后的眼睛可以与照片的光线、人物姿势匹配。系统还会选择 Lightroom 照片库同一个人的其他照片做参考，确保生成的眼睛在颜色、大小和形状上都与本人相符。",
+   "published_at": 1792508053.0,
+   "published_bj": "2026-10-20 22:54"
+  },
+  {
+   "id": "736f58ee3b10a928",
+   "source": "Hacker News",
+   "title": "Show HN: VoidAccess – open-source dark web OSINT, from query to a graph",
+   "url": "https://github.com/KatrielMoses/voidaccess",
+   "summary": "Hi HN! Im Katriel, and im a Security Researcher/Enthusiast and in the wave of AI, i wanted to build that next gen of security tooling that surpasses the current tools, and even the paid industries with an open source engine. I built MailAccess as well, which is going to be the best damn email osint ",
+   "published_at": 1792507773.0,
+   "published_bj": "2026-10-20 22:49"
+  },
+  {
+   "id": "8becaf0025e9fe0f",
+   "source": "IT之家",
+   "title": "微软为 Windows Server 2025 引入快速计算机恢复功能，可通过 Windows Update 查找修复方案",
+   "url": "https://www.ithome.com/1/015/600.htm",
+   "summary": "IT之家 10 月 20 日消息，微软确认，安装 2026 年 10 月安全更新后，Windows Server 2025 正式支持快速计算机恢复（Quick machine recovery，QMR）功能。 根据微软上周发布的更新说明，该功能可帮助服务器在遭遇严重启动故障时，通过 Windows 恢复环境（WinRE）从 Windows Update 查找并应用相应修复方案。 快速计算机恢复主要面向因系统配置变更、驱动程序或更新问题等原因而无法正常启动的设备。启用该功能后，服务器可进入 WinRE 并联网搜索适用的修复方案，减少管理员手动介入的需求。IT之家提醒，恢复效果取决于微软是否提供了",
+   "published_at": 1792507744.0,
+   "published_bj": "2026-10-20 22:49"
+  },
+  {
+   "id": "45c46f0fe6e02a1b",
+   "source": "IT之家",
+   "title": "苹果：今年晚些时候将在美国组装 Mac mini",
+   "url": "https://www.ithome.com/1/015/599.htm",
+   "summary": "IT之家 10 月 20 日消息，苹果公司今日发布新闻稿，宣布与多家美国公司建立新合作关系，为 iPhone 18 Pro 和 iPhone Duo 等产品提供关键组件。 苹果确认， 公司将于今年晚些时候开始 ， 在美国得克萨斯州休斯敦先进制造中心（AMC）组装 Mac mini 。 IT之家注意到，苹果运营主管 Sabih Khan 曾在今年表示，美国组装的 Mac mini 将主要供应美国市场，海外市场订单仍将继续由亚洲工厂生产。",
+   "published_at": 1792507481.0,
+   "published_bj": "2026-10-20 22:44"
+  },
+  {
+   "id": "3373417dc77f54a0",
+   "source": "IT之家",
+   "title": "智能电视广告引不满，部分用户借助 Claude 等 AI 智能体清理广告和预装应用",
+   "url": "https://www.ithome.com/1/015/598.htm",
+   "summary": "IT之家 10 月 20 日消息，据 TechCrunch、Mashable 当地时间 10 月 19 日报道，部分开发者和普通用户开始借助 Claude Code 等 AI 工具，对智能电视中的广告和预装软件进行清理、禁用追踪功能，以减少广告干扰并改善操作流畅度。 其中一个名为 CleanYourTV 的项目由开发者 Gathin T. 发起。他将父母使用的小米电视型号提供给 Claude Code，后者通过 Wi-Fi 连接电视，禁用了 25 个小米软件包，并生成了一个新的启动器，将原本的电视主屏幕替换为更简洁的界面。 Gathin T. 随后公开了相关提示词和项目代码，并称接下来两天有数",
+   "published_at": 1792507236.0,
+   "published_bj": "2026-10-20 22:40"
+  },
+  {
+   "id": "edb6897d5bd70b3f",
+   "source": "IT之家",
+   "title": "小米智能门锁 5 Max 系列官宣全新升级服务标准，整机保修从 3 年提升至 5 年等",
+   "url": "https://www.ithome.com/1/015/597.htm",
+   "summary": "IT之家 10 月 20 日消息，小米智能生态今日宣布，小米智能门锁 5 Max 系列全新升级服务标准： 整机保修从 3 年升级至 5 年 一站式免费送拆装 ，24 小时服务保障 全链路智能看管 ，从“AI 勘测”到“一键自检” 京东 小米智能门锁 5 Max 国补价 2999.65 元起 领 400 元券 据IT之家此前报道， 小米智能门锁 5 Max 已于 9 月 23 日 20:00 正式开售 ，提供标准版和内外双摄版两个版本可选，国补价 2999.65 元起。相较于标准版，内外双摄版首发 UWB 近场无感开锁技术，授权设备靠近门锁一握即开。 该门锁采用桥式结构，面板经 AG 工艺处理，",
+   "published_at": 1792507208.0,
+   "published_bj": "2026-10-20 22:40"
+  },
+  {
+   "id": "a115f56dfb872549",
+   "source": "IT之家",
+   "title": "首发价 2199 元 → 1699 元：优派 24 英寸 4K 160Hz 显示器 VX24G26J 新低",
+   "url": "https://www.ithome.com/1/015/596.htm",
+   "summary": "【京东活动可能随时变更，需以实付款为准】 优派（ViewSonic）VX24G26J-4K 显示器 2026 年 5 月开售，首发价 2199 元。 京东 11.11 大促期间，按下方步骤下单，叠加 PLUS 立减后仅需 1699.61 元： 领 9 折券： 点此查看 。 京东 优派 23.8 英寸 4K 160Hz 电竞显示器 VX24G26J-4K 国补后 1699.61 元 直达链接 京东 11.11 无门槛红包至高 26888 元，支持即领即用，下单直接当钱花： 点此抽取 。 这是全球首款 24 英寸 4K 160Hz 高刷显示器，采用了“纳米黑曜屏”，可实现“纳米级镜面 1.8% 低",
+   "published_at": 1792506849.0,
+   "published_bj": "2026-10-20 22:34"
+  },
+  {
    "id": "22651e27381d8ddc",
    "source": "IT之家",
    "title": "Sensor Tower 预测：《GTA6》数字版预购量已突破 600 万份，销售额达 5.94 亿美元",
    "url": "https://www.ithome.com/1/015/595.htm",
    "summary": "IT之家 10 月 20 日消息，分析机构 Sensor Tower 预测，《GTA6》数字版销量已突破 600 万份， 带来约 5.94 亿美元 （IT之家注：现汇率约合 39.76 亿元人民币） 收入 。 截至 10 月 13 日，本作全球数字版预购量已超过 600 万份， 其中 PS5 平台预购量为 451 万份 ，XBOX 平台为 157 万份，对应的占比分别为 74% 和 26%。收入方面也呈现出类似的格局：PlayStation 平台贡献约 4.41 亿美元 （现汇率约合 29.52 亿元人民币） ，XBOX 平台则为 1.53 亿美元 （现汇率约合 10.24 亿元人民币） 。 ",
    "published_at": 1792506641.0,
+   "published_bj": "2026-10-20 22:30"
+  },
+  {
+   "id": "49186f01966a21e4",
+   "source": "Hacker News",
+   "title": "Ofcom Concedes Defeat in the 4chan Case",
+   "url": "https://prestonbyrne.com/2026/10/20/ofcom-concedes-defeat/",
+   "summary": "Article URL: https://prestonbyrne.com/2026/10/20/ofcom-concedes-defeat/ Comments URL: https://news.ycombinator.com/item?id=50167028 Points: 15 # Comments: 0",
+   "published_at": 1792506631.0,
    "published_bj": "2026-10-20 22:30"
   },
   {
@@ -121,6 +229,15 @@
    "published_bj": "2026-10-20 22:14"
   },
   {
+   "id": "d69696cc461466da",
+   "source": "Hacker News",
+   "title": "My Friend Bob Cringely",
+   "url": "https://tyma.com/my-cringe-story/",
+   "summary": "Article URL: https://tyma.com/my-cringe-story/ Comments URL: https://news.ycombinator.com/item?id=50166794 Points: 38 # Comments: 5",
+   "published_at": 1792505629.0,
+   "published_bj": "2026-10-20 22:13"
+  },
+  {
    "id": "0f030f4a9c150d7a",
    "source": "TechCrunch",
    "title": "Figma co-founder Dylan Field thinks MCP is not a perfect protocol",
@@ -175,6 +292,15 @@
    "published_bj": "2026-10-20 22:00"
   },
   {
+   "id": "c127e15fbb599aaf",
+   "source": "Hacker News",
+   "title": "EMudhra Intermediate CA Compromise",
+   "url": "https://emudhra.we-have-a-problem.com/",
+   "summary": "Article URL: https://emudhra.we-have-a-problem.com/ Comments URL: https://news.ycombinator.com/item?id=50166579 Points: 57 # Comments: 16",
+   "published_at": 1792504713.0,
+   "published_bj": "2026-10-20 21:58"
+  },
+  {
    "id": "0d036b148b05638c",
    "source": "IT之家",
    "title": "苹果海外开放 iPhone 18 Pro 原厂零件自助维修购买渠道：摄像头 249 美元，退回旧件可抵扣 59.76 美元",
@@ -182,6 +308,15 @@
    "summary": "IT之家 10 月 20 日消息，9to5mac 今日发现，苹果自助维修商店新上架了 iPhone 18 Pro 系列及新款 Mac 零件，用户现可购买原厂替换部件和维修工具，涉及 iPhone 18 Pro、iPhone 18 Pro Max，以及搭载 M5 Max、M5 Ultra 的 Mac Studio 和搭载 M6、M5 Pro 的 Mac mini。 IT之家注：苹果自助维修计划于 2022 年推出，允许符合条件的用户购买或租赁维修工具，并根据官方维修手册自行更换设备部件。 对于 iPhone 18 Pro 和 iPhone 18 Pro Max，新增可购买的零件包括后玻璃、电池、",
    "published_at": 1792504620.0,
    "published_bj": "2026-10-20 21:57"
+  },
+  {
+   "id": "b4f11639408ac825",
+   "source": "Hacker News",
+   "title": "2026 is an exciting year for the Rust compiler (and me)",
+   "url": "https://yoyo-code.com/2026-is-exciting-year-for-rust-compiler-and-me/",
+   "summary": "Article URL: https://yoyo-code.com/2026-is-exciting-year-for-rust-compiler-and-me/ Comments URL: https://news.ycombinator.com/item?id=50166502 Points: 18 # Comments: 3",
+   "published_at": 1792504428.0,
+   "published_bj": "2026-10-20 21:53"
   },
   {
    "id": "d76e01063cd06777",
@@ -236,6 +371,15 @@
    "summary": "IT之家 10 月 20 日消息，2027 款极狐阿尔法 S5 与阿尔法 T5 官宣将于 10 月 23 日正式上市，号称“驾趣升级、续航升级、智驾再突破”。 其中，2027 款极狐阿尔法 S5 继续提供纯电与增程双动力，T5 则把升级重心放在后驱布局、800V 平台和车顶激光雷达的加入上。 S5 变化有限，核心在于车顶激光雷达与新增的前备箱。外观延续“风塑美学”的溜背轿跑轮廓，无边框车门、隐藏式门把手、贯穿尾灯和可升降后扰流板均被保留。 T5 的改动更偏向结构性的动力布局调整。驱动形式从前置前驱改为后驱，换装最大功率 227 千瓦（309 马力）、峰值扭矩 334 牛 · 米的后置电机，机舱",
    "published_at": 1792503865.0,
    "published_bj": "2026-10-20 21:44"
+  },
+  {
+   "id": "94790e6a102cea9e",
+   "source": "Hacker News",
+   "title": "How I got over 300 Tor exit nodes removed",
+   "url": "https://kaba.cx/posts/20261020_Tor/",
+   "summary": "Article URL: https://kaba.cx/posts/20261020_Tor/ Comments URL: https://news.ycombinator.com/item?id=50166257 Points: 36 # Comments: 10",
+   "published_at": 1792503564.0,
+   "published_bj": "2026-10-20 21:39"
   },
   {
    "id": "f971a0774dd94488",
@@ -3458,150 +3602,6 @@
    "summary": "IT之家 10 月 20 日消息，一名被指控在 AI 初创企业 OpenAI 办公室安装窃听设备的前 OpenAI 工程师，当地时间周一被旧金山法官驳回保释申请，这意味着他只能在狱中开展辩护。 美国司法部于当地时间 10 月 9 日逮捕了阿卜杜勒拉赫曼 · 阿尔福赞（Abdulrahman Alfozan），指控他使用或企图使用设备截获口头通信。检方称，他在 OpenAI 一间会议室的电视机后方放置了录音设备。联邦调查局的宣誓证词中附有照片：该设备用卫生纸包裹，还有一张照片中，一名被认定为阿尔福赞的男子正朝电视机后方张望。 周一，这名工程师戴着黄色医用口罩，身穿监狱发放的橙色运动衫，出现在旧金",
    "published_at": 1792457777.0,
    "published_bj": "2026-10-20 08:56"
-  },
-  {
-   "id": "c03e0477ffb24f9e",
-   "source": "Hacker News",
-   "title": "Lula supporters protest against Meta to denounce its 'electoral interference'",
-   "url": "https://efe.com/english/latest-news/2026-10-20/lula-supporters-protest-against-meta-to-denounce-its-electoral-interference/",
-   "summary": "Article URL: https://efe.com/english/latest-news/2026-10-20/lula-supporters-protest-against-meta-to-denounce-its-electoral-interference/ Comments URL: https://news.ycombinator.com/item?id=50159993 Points: 4 # Comments: 0",
-   "published_at": 1792457632.0,
-   "published_bj": "2026-10-20 08:53"
-  },
-  {
-   "id": "bb6f3e8ecfd24c8c",
-   "source": "IT之家",
-   "title": "《北京科学宣言》发布，形成面向 2030 年后全球科学发展共同主张",
-   "url": "https://www.ithome.com/1/015/089.htm",
-   "summary": "IT之家 10 月 20 日消息，据央视新闻报道，2026 年国际科学理事会中期会员大会暨北京科学对话昨天（19 日）在北京开幕。来自 88 个国家和地区的 1230 余名中外科技界代表参会。 开幕式上，《 北京科学宣言 》发布，倡议围绕科学作为全球公共产品、负责任人工智能、科学与社会信任等重大议题，形成面向 2030 年后全球科学发展的共同主张。 据中国科协之声介绍，2026 国际科学理事会中期会员大会暨北京科学对话由国际科学理事会主办，中国科学技术协会、中国科学院、中国社会科学院、北京市人民政府共同举办，以“ 复杂世界中的科学 —— 科学共创美好未来 ”为主题，来自 88 个国家和地区的千",
-   "published_at": 1792457379.0,
-   "published_bj": "2026-10-20 08:49"
-  },
-  {
-   "id": "8fe2c94ef2eba85e",
-   "source": "IT之家",
-   "title": "遏制黄牛？苹果美国限购首款折叠 iPhone Duo，每位顾客限购 2 部",
-   "url": "https://www.ithome.com/1/015/088.htm",
-   "summary": "IT之家 10 月 20 日消息，科技媒体 MacRumors 今天（10 月 20 日）发布博文， 报道称苹果美国官网已限购其首款折叠 iPhone Duo，每位顾客最多购买 2 部，预估是应对黄牛出台的措施。 报道称目前尚不清楚该限购策略何时生效，部分用户反馈曾成功购买 4 部 iPhone Duo，也有部分用户反馈 10 月 16 日预购时，苹果公司已限购 2 部。 当前消费者通过苹果官网或 Apple Store 应用尝试购买超过两部后，系统会提示：“每位顾客最多可购买两部 iPhone Duo，请在结账前调整订单中的 iPhone Duo 总数量。” IT之家查询中国官网，在 iPh",
-   "published_at": 1792457103.0,
-   "published_bj": "2026-10-20 08:45"
-  },
-  {
-   "id": "6ccda40629647b1c",
-   "source": "Hacker News",
-   "title": "Vortex Code: one prompt, an AI software team that ships",
-   "url": "https://spinozalabs.ai/news/introducing-vortex-code",
-   "summary": "Article URL: https://spinozalabs.ai/news/introducing-vortex-code Comments URL: https://news.ycombinator.com/item?id=50159911 Points: 3 # Comments: 1",
-   "published_at": 1792456856.0,
-   "published_bj": "2026-10-20 08:40"
-  },
-  {
-   "id": "a2bf9af7f2f06da5",
-   "source": "少数派",
-   "title": "派早报：国家网信办开展未成年人用户数量巨大等网络平台服务……",
-   "url": "https://sspai.com/post/116758",
-   "summary": "MiniMax 发布 M3.1 Flash 模型，掌阅推出 Ocean 6 Pro 电纸书等。 查看全文",
-   "published_at": 1792456773.0,
-   "published_bj": "2026-10-20 08:39"
-  },
-  {
-   "id": "da703608778d1e90",
-   "source": "IT之家",
-   "title": "武汉通上线苹果 Apple Pay：无开卡费，30 元起充",
-   "url": "https://www.ithome.com/1/015/087.htm",
-   "summary": "IT之家 10 月 20 日消息，据IT之家小伙伴反馈，武汉通今日上线 苹果 Apple Pay ，用户可使用 iPhone 或 Apple Watch 乘坐轨道交通和公交车，并支持随时随地为卡片充值。 IT之家实测发现，该卡支持交通联合，无开卡费，最低充值金额为 30 元。 在武汉市内使用，该卡可享受公交 8 折、地铁 9 折等优惠，具体以最新政策为准。 相关阅读： 《 武汉通互联互通卡 9 月 22 日发行，全国 300 余城一卡通行 》",
-   "published_at": 1792456478.0,
-   "published_bj": "2026-10-20 08:34"
-  },
-  {
-   "id": "4fd062799188110a",
-   "source": "IT之家",
-   "title": "疑似 Steam Deck 2 的 AMD Gainsborough APU 跑分泄露：CPU 核心数增加 50%",
-   "url": "https://www.ithome.com/1/015/086.htm",
-   "summary": "IT之家 10 月 20 日消息，一款全新的 AMD Gainsborough APU 疑似出现在 OpenBenchmark 平台的泄露信息中，被认为有可能是 Valve Steam Deck 2 的备选芯片。这份工程样片信息显示，这款 APU 的 CPU 拥有 6 核 12 线程，相比当前 Steam Deck 搭载的 APU 核心数增加了 50%，基础频率为 2.4GHz。 IT之家注意到，相比初代 Steam Deck，这款 Gainsborough APU 另一项显著改动是搭载 24GB LPDDR5 内存，而初代机型仅配备 16GB。内存速率也大幅提升至 9600MT/s，初代 S",
-   "published_at": 1792456290.0,
-   "published_bj": "2026-10-20 08:31"
-  },
-  {
-   "id": "4fe24aa8dc7a22f8",
-   "source": "IT之家",
-   "title": "苹果新任 App Store 掌门谈游戏：品质不妥协，买断 / 订阅并行",
-   "url": "https://www.ithome.com/1/015/083.htm",
-   "summary": "IT之家 10 月 20 日消息，在接受 Polygon 邮件采访时，苹果新任 App Store 全球负责人卡森 · 奥利弗（Carson Oliver）表示， 今年登陆 App Store 的精品付费游戏数量较去年增加，除独立作品外，更多主机和 PC 游戏系列也正进入移动平台。 游戏内容方面，苹果近期推出“独立游戏周”，集中展示 7 款面向 iPhone 和 iPad 的新作及即将推出的作品， 包括《师父》《无人深空》等 。对此奥利弗表示，苹果将继续投入硬件、开发工具及内容推荐，为开发者提供更多发行选择。 在游戏开发工具方面，奥利弗表示苹果公司为降低移植门槛，持续投入 Game Porti",
-   "published_at": 1792455923.0,
-   "published_bj": "2026-10-20 08:25"
-  },
-  {
-   "id": "8915f14bc2d7a813",
-   "source": "IT之家",
-   "title": "挑战英伟达 CUDA：亚马逊推出开源工具 TorchNeuron，自研 Trainium 芯片轻松运行 PyTorch 代码",
-   "url": "https://www.ithome.com/1/015/082.htm",
-   "summary": "IT之家 10 月 20 日消息，当地时间 10 月 19 日，亚马逊宣布推出开源工具 TorchNeuron，借助该工具，开发人员编写的 PyTorch 代码可以在亚马逊的自研 Trainium 芯片上本地运行， 只需更改一次配置，无需重写 。 IT之家获悉，TorchNeuron 将于当地时间 10 月 20 日在加州圣何塞举行的北美 PyTorch 大会上以开源许可形式正式发布。 PyTorch 是由 Meta 主导的开源框架，被大多数人工智能开发者所采用。英伟达投入了十多年的时间研发 CUDA 工具，能够让 PyTorch 代码在英伟达的芯片上高效运行。 据介绍，亚马逊工程师分别在传统",
-   "published_at": 1792455757.0,
-   "published_bj": "2026-10-20 08:22"
-  },
-  {
-   "id": "02b3959bfa5c2681",
-   "source": "IT之家",
-   "title": "IT早报 1020：苹果官宣 10 月 29 日举行特别活动；特斯拉官方声明“没有速成车”；小米行政豪华旗舰 SU9 LUX 商标首曝；豆包辟谣国内超一半算力在造爽剧...",
-   "url": "https://www.ithome.com/1/015/081.htm",
-   "summary": "“IT早报”时间，大家好，现在是 2026 年 10 月 20 日星期二，今天的重要科技资讯有： 1. 苹果官宣北京时间 10 月 29 日举行特别活动，有望推出 OLED MacBook Pro / iPad mini 8 等机型 苹果已确认发布会时间，官方将于美国当地东部时间 10 月 28 日下午 1 时（北京时间 10 月 29 日凌晨 1:00）在美国洛杉矶举办本月第二场新品发布活动。&gt;&gt; 查看详情 2. 特斯拉声明没有速成车，陶琳称安全稳定可靠、让人安心是最大的豪华 特斯拉官方 10 月 19 日发文，称特斯拉没有“速成车”。特斯拉官方表示，特斯拉拥有完整的直营体系（覆",
-   "published_at": 1792455413.0,
-   "published_bj": "2026-10-20 08:16"
-  },
-  {
-   "id": "f6b7a164db95aa32",
-   "source": "IT之家",
-   "title": "57 亿美元赔款还不够，Taction 要求苹果支付 iPhone 与 Apple Watch 专利费至 2035 年",
-   "url": "https://www.ithome.com/1/015/080.htm",
-   "summary": "IT之家 10 月 20 日消息，在针对苹果公司创下纪录的 57 亿美元 （IT之家注：现汇率约合 381.49 亿元人民币） 专利侵权判决出炉后，Taction Technology 如今进一步主张追加赔偿金、利息，同时要求苹果为未来销售的 iPhone 与 Apple Watch 持续支付专利使用费。 上月末，美国陪审团裁定，苹果的线性震动马达（Taptic Engine）侵犯了 Taction Technology 持有的两项专利，判定苹果赔偿 57 亿美元。苹果对该判决表示强烈异议，称自家技术与 Taction Technology 的技术存在本质区别，并表示将会提起上诉。 几周之后，",
-   "published_at": 1792455401.0,
-   "published_bj": "2026-10-20 08:16"
-  },
-  {
-   "id": "06c42f60769b8a5d",
-   "source": "Hacker News",
-   "title": "France's Supermarket Fridges Were Vulnerable Online for Months",
-   "url": "https://ipinfo.io/blog/france-fridges-hack",
-   "summary": "Article URL: https://ipinfo.io/blog/france-fridges-hack Comments URL: https://news.ycombinator.com/item?id=50159616 Points: 13 # Comments: 3",
-   "published_at": 1792454449.0,
-   "published_bj": "2026-10-20 08:00"
-  },
-  {
-   "id": "41f1666e6e8cdd2c",
-   "source": "IT之家",
-   "title": "新 AI 工具问世：仅凭一张面部照片即可预测癌症患者生存几率",
-   "url": "https://www.ithome.com/1/015/079.htm",
-   "summary": "IT之家 10 月 20 日消息，据彭博社报道，研究人员开发出一款人工智能工具，仅凭一张面部照片就能预测癌症患者的生存几率。该工具可以补充医生的临床经验判断，有望为治疗方案的制定提供参考，在医疗资料不足的场景下尤其有价值。 这个新模型经过训练，既可以估算人的年龄，也能针对癌症患者预测生存情况。研究团队使用超过 4000 万张人脸图像，以及 3 万多名癌症患者的照片完成模型训练，其中不少患者已经离世。发表在《柳叶刀 · 数字健康》期刊上的这项研究显示，该工具会为患者生成风险评分，分数最高的患者更有可能在 90 天内死亡。 科研人员表示，这类研究成果尚属首次。麻省总医院布莱根癌症研究所放射肿瘤医师",
-   "published_at": 1792454204.0,
-   "published_bj": "2026-10-20 07:56"
-  },
-  {
-   "id": "bef3960730b3ed0c",
-   "source": "IT之家",
-   "title": "赶在 Anthropic 上市前：消息称 OpenAI 加速新一轮融资进程，估值或超 1.4 万亿美元",
-   "url": "https://www.ithome.com/1/015/078.htm",
-   "summary": "IT之家 10 月 20 日消息，据路透社报道，两位知情人士称，OpenAI 正争分夺秒地争取投资者承诺，力求在竞争对手 Anthropic 预计于 11 月中旬上市之前完成融资。此次融资节奏异常迅速，若顺利完成， 这家 ChatGPT 开发商的估值可能超过 1.4 万亿美元 （IT之家注：现汇率约合 9.37 万亿元人民币） 。 知情人士表示，这种紧凑的时间安排在一定程度上反映了 OpenAI 想要抢在 Anthropic 之前行动的意图，因为这两家处于行业前沿的实验室正越来越多地争夺同一批投资者群体。 此外，OpenAI 也希望借势其近期推出新模型后所实现的营收增长，进一步巩固自身地位。其",
-   "published_at": 1792453913.0,
-   "published_bj": "2026-10-20 07:51"
-  },
-  {
-   "id": "4ebb110d14aef3c0",
-   "source": "IT之家",
-   "title": "消息称谷歌前 CEO 施密特持有 Anthropic 1% 股份，将因后者 IPO 收获巨额回报",
-   "url": "https://www.ithome.com/1/015/077.htm",
-   "summary": "IT之家 10 月 20 日消息，据彭博社报道，知情人士透露，谷歌前首席执行官埃里克 · 施密特（Eric Schmidt）凭借对初创公司 Anthropic 的早期投资，持有该公司约 1% 的股份。一旦这家企业登陆公开市场，这笔投资将成为个人投资者中收益最高的几笔投资之一。 不愿具名的消息人士称，施密特在 Anthropic 的 A 轮融资中投入了数千万美元。目前尚不清楚在首轮投资之后，他是否出售过部分股权。 市场高度期待的 Anthropic 首次公开募股，将为其员工与投资者带来巨额回报。根据上一轮融资估值，这家初创企业的七位联合创始人每人身家已达 80 亿美元 （IT之家注：现汇率约合 ",
-   "published_at": 1792453636.0,
-   "published_bj": "2026-10-20 07:47"
-  },
-  {
-   "id": "e19bcc792141451d",
-   "source": "IT之家",
-   "title": "苹果首款折叠 iPhone Duo 供货现缓解信号：部分订单从 12 月提前至 10 月",
-   "url": "https://www.ithome.com/1/015/076.htm",
-   "summary": "IT之家 10 月 20 日消息，科技媒体 MacRumors 今天（10 月 20 日）发布博文， 报道称从部分用户晒出的订单交付日期来看，苹果已缓解首款折叠 iPhone Duo 供货压力。 IT之家此前报道，苹果首款折叠 iPhone Duo 首销火爆，10 月 16 日开启预购仅数小时，苹果官网年内可交付的货源便被抢购一空。苹果原本承诺在 10 月 23 日交付 iPhone Duo，但开放订购仅数小时， 官网预计交货时间便推迟至明年 1 月 25 日。 同时，美国移动运营商接到的新订单也面临交付延期。 不过根据用户近期晒出的订单截图，苹果在美国、日本等市场缩短部分预购订单的预计送达日",
-   "published_at": 1792453303.0,
-   "published_bj": "2026-10-20 07:41"
   }
  ]
 }
