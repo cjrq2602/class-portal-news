@@ -1,8 +1,53 @@
 {
  "date": "2026-10-20",
- "generated_at": 1792511623.4799562,
+ "generated_at": 1792513684.0819263,
  "count": 400,
  "items": [
+  {
+   "id": "02528880788fdede",
+   "source": "cnBeta",
+   "title": "三星8纳米再延续一代：8LPU+年内推出 主攻汽车与边缘AI芯片",
+   "url": "https://www.cnbeta.com.tw/articles/tech/1583096.htm",
+   "summary": "三星晶圆代工业务要把问世已超过8年的8纳米工艺再延续一代。外界解读认为，此举意在高效盘活现有成熟的深紫外（DUV）产线，避开单价昂贵的极紫外（EUV）光刻机。该工艺瞄准的是不需要像2纳米那样高昂成本的车载、机器人、边缘AI芯片。 阅读全文",
+   "published_at": 1792511994.0,
+   "published_bj": "2026-10-20 23:59"
+  },
+  {
+   "id": "f6c51481c3d45a08",
+   "source": "IT之家",
+   "title": "1 亿目标近在咫尺：曝华为鸿蒙 HarmonyOS 系统装机量突破 9500 万台",
+   "url": "https://www.ithome.com/1/015/614.htm",
+   "summary": "IT之家 10 月 20 日消息，奇妙工具箱今日数据显示， 华为 鸿蒙 HarmonyOS 操作系统装机量突破 9,500 万台 ，目前约 95,288,247 台。 据IT之家此前报道，在今年 3 月的直播中，华为常务董事、产品投资评审委员会主任、终端 BG 董事长余承东透露，鸿蒙系统用户规模正经历急剧增长， 预计将在今年冬季前突破 1 亿大关 。 另外，在 10 月 1 日的华为 Mate 90 系列及全场景新品发布会上，华为常务董事、产品投资评审委员会主任、终端 BG 董事长余承东宣布，鸿蒙 HarmonyOS 6 | HarmonyOS 7 终端设备数突破 9000 万。 华为官网披露",
+   "published_at": 1792511870.0,
+   "published_bj": "2026-10-20 23:57"
+  },
+  {
+   "id": "18a5dc29dd550000",
+   "source": "cnBeta",
+   "title": "美国加州PSA评级卡运输途中遭窃 已知损失估值超96.3万美元",
+   "url": "https://www.cnbeta.com.tw/articles/game/1583094.htm",
+   "summary": "超过200个装有宝可梦卡和体育收藏卡的包裹，上周在美国加州圣安娜的PSA评级中心外遭窃。圣安娜警方称，事件发生于10月13日，一辆FedEx货车停在PSA收发货地点附近，司机离开约60至90分钟；返回时发现车锁遭破坏，车内托盘和包裹被盗。 阅读全文",
+   "published_at": 1792511753.0,
+   "published_bj": "2026-10-20 23:55"
+  },
+  {
+   "id": "e34cdb4d27906bba",
+   "source": "Solidot",
+   "title": "字节阿里腾讯订购了逾 350 亿美元的 RTX PRO 5500 显卡",
+   "url": "https://www.solidot.org/story?sid=85668",
+   "summary": "字节跳动、阿里巴巴和腾讯已订购超过 300 万个、总值超过 350 亿美元的英伟达 RTX PRO 5500 工作站显卡。英伟达已通知客户和合作伙伴，由于中国科技企业的需求远超所计划的产量，英伟达无法保证能够满足所有订单。英伟达告诉合作伙伴，他们实际能拿到的产品数量，可能仅为所提出数量的 5% 到 10%。英伟达 2027 年全球 RTX PRO 5500 显卡的产量上限为 300 万张。中国客户的订单总量就已超过 600 万张。",
+   "published_at": 1792511715.0,
+   "published_bj": "2026-10-20 23:55"
+  },
+  {
+   "id": "adbb05fd0b3bd75b",
+   "source": "cnBeta",
+   "title": "iPhone Duo铰链上方屏幕按压会下陷起皱 苹果尚未说明是否影响耐用性",
+   "url": "https://www.cnbeta.com.tw/articles/tech/1583092.htm",
+   "summary": "微博用户Kang近日发布视频称，iPhone Duo内屏铰链上方的区域触感偏软，手指按压时会略微下陷，表面还可能出现短暂皱纹；移开手指后，屏幕似乎会恢复平整。数台设备据称都出现相同现象，但目前这只是用户实测和社交媒体转述，尚无独立耐久性测试，也不能据此判断设备存在缺陷。 阅读全文",
+   "published_at": 1792511635.0,
+   "published_bj": "2026-10-20 23:53"
+  },
   {
    "id": "c920d5188e1ea54a",
    "source": "IT之家",
@@ -13,6 +58,15 @@
    "published_bj": "2026-10-20 23:52"
   },
   {
+   "id": "fc46af678d464d90",
+   "source": "cnBeta",
+   "title": "生成式AI将编程效率提升一倍 开源社区面临垃圾代码激增挑战",
+   "url": "https://www.cnbeta.com.tw/articles/tech/1583090.htm",
+   "summary": "一项由Linux基金会研究部门发布、红帽公司赞助的新研究显示，生成式人工智能正在显著改变开源软件开发模式。调查结果表明，AI工具能够帮助开发者将代码编写时间缩短约一半，大幅提升开发效率，但与此同时，也给开源项目维护者带来了越来越大的审核压力。 阅读全文",
+   "published_at": 1792511534.0,
+   "published_bj": "2026-10-20 23:52"
+  },
+  {
    "id": "54ac16ff95766fbf",
    "source": "IT之家",
    "title": "消息称引望、宁德时代首批换电车型暂定五款，计划 2027 年上市",
@@ -20,6 +74,15 @@
    "summary": "IT之家 10 月 20 日消息，华为乾崑智能汽车解决方案昨日宣布， 引望与宁德时代、时代电服开展智能换电合作，打造乾崑智驾完整智能充换电生态 ，引望智能技术有限公司与宁德时代新能源科技股份有限公司、时代电服科技有限公司将就新能源汽车智能换电生态开展全面合作。 据晚点 Auto 报道，引望与宁德时代、时代电服合作正推进首批车型的开发， 涉及五款新车，计划 2027 年上市 。报道还提到，在向引望方面求证时，对方转述了三方战略合作协议的核心内容，即合作的动机和目标，但并未对上述信息置评。 另据《财联社》今日报道，华为引望与宁德时代“巧克力”换电合作的首款车型计划于 2027 年推出， 奕境品牌首",
    "published_at": 1792510471.0,
    "published_bj": "2026-10-20 23:34"
+  },
+  {
+   "id": "f2f12e78e336b635",
+   "source": "Solidot",
+   "title": "AI slop 游戏充斥着 Steam 新品节",
+   "url": "https://www.solidot.org/story?sid=85667",
+   "summary": "Steam 新品节于 10 月 19 日拉开帷幕，玩家立即注意到其中充斥着大量的 AI slop 游戏。曾经以发掘隐藏瑰宝著称的游戏活动，如今沦为廉价 AI 生成游戏的展示场。玩家通过社交媒体呼吁运营 Steam 平台的 Valve 公司引入 AI 过滤器功能，一键过滤掉这些 AI 生成游戏。随着 AI 工具的进步，逆向工程比以往任何时候都轻松，以至于部分游戏开发商不太愿意公开免费的 DEMO 试玩，担心 DEMO 会被破解会被克隆，被人抢在开发商之前发布克隆产品。",
+   "published_at": 1792510388.0,
+   "published_bj": "2026-10-20 23:33"
   },
   {
    "id": "f1edbf3e4441f53b",
@@ -40,6 +103,15 @@
    "published_bj": "2026-10-20 23:27"
   },
   {
+   "id": "8e9f5d8c4f833b55",
+   "source": "Solidot",
+   "title": "十分之一 Tor 出口节点被用于发动中间人攻击",
+   "url": "https://www.solidot.org/story?sid=85666",
+   "summary": "10 月 2 日攻击者利用其控制的 333 个出口节点协同拦截 SSH 连接发动中间人攻击。Tor 出口节点是构成 Tor 回路的三个中继的最后一跳，连接了 Tor 匿名网络与开放互联网。根据目标网站使用的是 HTTPS 还是 HTTP 协议，决定了出口节点是否能看到和操纵用户访问的内容。目前整个 Tor 网络共有大约 3000 个出口节点，这意味着攻击者控制了十分之一的出口中继。攻击者实际上早在 8 月就控制了运行 Tor 节点的服务器，部署了恶意程序 Ebury 1.8.3，它是一种 Linux 下的 OpenSSH 后门和凭据窃取程序。此次协同攻击有两个目的：尽可能多收集未加密邮件流量；",
+   "published_at": 1792509778.0,
+   "published_bj": "2026-10-20 23:22"
+  },
+  {
    "id": "67838ab1f555bb51",
    "source": "InfoQ中文",
    "title": "Spanner Omni 正式可用：采用软件方案替代谷歌原子钟与文件系统",
@@ -58,6 +130,15 @@
    "published_bj": "2026-10-20 23:21"
   },
   {
+   "id": "8a1537cb8b3346c3",
+   "source": "Hacker News",
+   "title": "Why do we have so many meetings?",
+   "url": "https://www.nber.org/papers/w35706",
+   "summary": "Article URL: https://www.nber.org/papers/w35706 Comments URL: https://news.ycombinator.com/item?id=50167732 Points: 28 # Comments: 29",
+   "published_at": 1792509559.0,
+   "published_bj": "2026-10-20 23:19"
+  },
+  {
    "id": "014dc0a4b7adce51",
    "source": "IT之家",
    "title": "自动泊车、泊车组合驾驶辅助新国标将至，工信部征求意见稿明确各分级能力上限",
@@ -65,6 +146,15 @@
    "summary": "IT之家 10 月 20 日消息，工业和信息化部今日发文，按照《中华人民共和国标准化法》和《强制性国家标准管理办法》，工业和信息化部装备工业一司组织全国汽车标准化技术委员会开展了《汽车数据安全要求》等五项强制性国家标准的制修订， 已形成征求意见稿，现公开征求社会各界意见 。 IT之家注意到，五项强制性国家标准的意见中就包含《智能网联汽车泊车组合驾驶辅助系统安全要求（征求意见稿）》和《智能网联汽车自动泊车系统安全要求（征求意见稿）》。 对于组合泊车辅助（L2），要求监测驾驶员视线： 系统在激活状态下， 应至少采用视线脱离检测方式 ，持续检测驾驶员是否在执行相应的动态驾驶任务（系统无法检测到驾驶员",
    "published_at": 1792509493.0,
    "published_bj": "2026-10-20 23:18"
+  },
+  {
+   "id": "e0f14970412cadbb",
+   "source": "Hacker News",
+   "title": "Show HN: Jev Cards, Can you beat a vision model at a picture quiz?",
+   "url": "https://jevcards.com",
+   "summary": "I built a quiz game around TypeSafe's new Jev model, which has vision capabilities. Jev looks at a picture and a question and picks an answer (or taps a place) in about a quarter of a second. I've always loved quiz games and thought this would be a fun way to see what it can do and how fast it is. I",
+   "published_at": 1792509116.0,
+   "published_bj": "2026-10-20 23:11"
   },
   {
    "id": "a35c2436a8a33fdf",
@@ -76,6 +166,33 @@
    "published_bj": "2026-10-20 23:11"
   },
   {
+   "id": "04c672c2d1384c26",
+   "source": "Hacker News",
+   "title": "Show HN: Penmentor – Claude marks up your handwritten math like a teacher",
+   "url": "https://github.com/AbdullahAlhariri/penmentor",
+   "summary": "Article URL: https://github.com/AbdullahAlhariri/penmentor Comments URL: https://news.ycombinator.com/item?id=50167604 Points: 12 # Comments: 1",
+   "published_at": 1792509054.0,
+   "published_bj": "2026-10-20 23:10"
+  },
+  {
+   "id": "2d2af2029679ba5a",
+   "source": "Hacker News",
+   "title": "Launch HN: Respan (YC W24) – Open-source Rust AI gateway built around plugins",
+   "url": "https://news.ycombinator.com/item?id=50167583",
+   "summary": "Hey HN, this is Andy from Respan ( https://www.respan.ai ). We are building an open-source Rust AI gateway. It is a decoupled gateway, so everything is a plugin, including different providers, protocols (MCP, voice), modalities (images, videos), and gateway features (fallbacks, PII redaction, smart ",
+   "published_at": 1792508969.0,
+   "published_bj": "2026-10-20 23:09"
+  },
+  {
+   "id": "241315222b83ebaa",
+   "source": "Hacker News",
+   "title": "How to Link Real-Time Live Streaming to Video-on-Demand",
+   "url": "https://www.red5.net/blog/how-to-link-real-time-live-streaming-to-video-on-demand/",
+   "summary": "Article URL: https://www.red5.net/blog/how-to-link-real-time-live-streaming-to-video-on-demand/ Comments URL: https://news.ycombinator.com/item?id=50167560 Points: 5 # Comments: 1",
+   "published_at": 1792508858.0,
+   "published_bj": "2026-10-20 23:07"
+  },
+  {
    "id": "da1e15eea0b729c8",
    "source": "InfoQ中文",
    "title": "突破长文本推理瓶颈 九章云极Alaya-DFlash2助GLM-5.3解码提速3.41倍",
@@ -83,6 +200,24 @@
    "summary": "点击查看原文>",
    "published_at": 1792508851.0,
    "published_bj": "2026-10-20 23:07"
+  },
+  {
+   "id": "36ee67f04be53123",
+   "source": "Hacker News",
+   "title": "Facebook now charging to post more than 2 links a month",
+   "url": "https://mastodon.gamedev.place/@AshleyGullen/117473851565913919",
+   "summary": "Article URL: https://mastodon.gamedev.place/@AshleyGullen/117473851565913919 Comments URL: https://news.ycombinator.com/item?id=50167536 Points: 204 # Comments: 106",
+   "published_at": 1792508768.0,
+   "published_bj": "2026-10-20 23:06"
+  },
+  {
+   "id": "cfd79dce6dc156c5",
+   "source": "Hacker News",
+   "title": "In-memory privacy shield to prevent context leaks in MCP tools",
+   "url": "https://github.com/rohan-protocol/sdk",
+   "summary": "Article URL: https://github.com/rohan-protocol/sdk Comments URL: https://news.ycombinator.com/item?id=50167533 Points: 6 # Comments: 1",
+   "published_at": 1792508753.0,
+   "published_bj": "2026-10-20 23:05"
   },
   {
    "id": "f70aa587600da5ae",
@@ -3467,141 +3602,6 @@
    "summary": "IT之家 10 月 20 日消息，科技媒体 bleepingcomputer 昨日（10 月 19 日）发布博文，报道称微软公司已面向经典版 Outlook 推送补丁， 修复 Copilot Chat 和 Copilot 按钮消失问题。 IT之家曾于 9 月 17 日报道，微软承认表示经典版 Outlook 升级 Build 20026.20182 及更高版本后，部分拥有 Copilot Chat 许可证或付费 M365 Copilot 账户的用户，可能失去 Copilot Chat 与 Copilot 入口。 受此影响的人会遇到以下一个或多个问题： 右上角功能区上方缺少 Copilot 按钮",
    "published_at": 1792460480.0,
    "published_bj": "2026-10-20 09:41"
-  },
-  {
-   "id": "51814f36714a539c",
-   "source": "Hacker News",
-   "title": "Novo Nordisk, Eli Lilly Report GLP-1 Signals of Slowed Biological Aging at ARDD",
-   "url": "https://trial.medpath.com/news/novo-nordisk-and-eli-lilly-report-glp-1-signals-of-slowed-biological-aging-at-ardd",
-   "summary": "Article URL: https://trial.medpath.com/news/novo-nordisk-and-eli-lilly-report-glp-1-signals-of-slowed-biological-aging-at-ardd Comments URL: https://news.ycombinator.com/item?id=50160289 Points: 18 # Comments: 6",
-   "published_at": 1792460098.0,
-   "published_bj": "2026-10-20 09:34"
-  },
-  {
-   "id": "db1d6d6ea57006bd",
-   "source": "IT之家",
-   "title": "蚂蚁百灵开源 Ming-3.0 语音系列模型，覆盖语音合成、音频理解与对话、语音识别",
-   "url": "https://www.ithome.com/1/015/117.htm",
-   "summary": "IT之家 10 月 20 日消息，蚂蚁百灵今日宣布开源 Ming-3.0 语音系列，分别提供语音合成、音频理解与对话、语音识别三个系列，共五款模型。开发者可以按任务选择，也可以将不同能力组合进自己的工作流。 Ming-3.0-tts 系列的 Voice Design 可以用文字描述目标音色，同时也支持参考音频的音色设定。更具特色的是，创作者可以用导演模式说明台词的表演方式，描述情绪如何变化、哪些词需要重读，以及节奏应如何处理。 在蚂蚁，从阿福 App 的主对话与语音通话，到医生音色克隆、小虎智能办公，Ming-3.0-tts 已进入多类业务。它既可以独立承担配音，也可以与 Ming-3.0-a",
-   "published_at": 1792460093.0,
-   "published_bj": "2026-10-20 09:34"
-  },
-  {
-   "id": "8c6dbf49db1f2f2c",
-   "source": "IT之家",
-   "title": "并非最初方案，R 星《GTA 6》武器轮盘设计是多次试验后的妥协选择",
-   "url": "https://www.ithome.com/1/015/116.htm",
-   "summary": "IT之家 10 月 20 日消息，早在一年前《GTA 6》相关泄露信息开始流出时，武器轮盘就已经是玩家讨论的热点。当时外界普遍认为，Rockstar 打算为《GTA 6》采用类似《荒野大镖客 2》的武器轮盘，还会单独做一个车载后备箱武器轮盘。现在我们确认 Rockstar 确实选择了这条路线，但这其实是团队退而求其次的方案。 IT之家注意到，记者杰森 · 施雷尔（Jason Schreier）近期发布了一篇关于《GTA 6》开发历程的深度长篇报道。文章包含大量信息，但还有部分细节没有放进终稿，《GTA 6》武器轮盘就是其中之一。如今武器轮盘的外观已经曝光，不少玩家觉得观感“怪异”，引发了不小争",
-   "published_at": 1792460078.0,
-   "published_bj": "2026-10-20 09:34"
-  },
-  {
-   "id": "14f4957dc35640fa",
-   "source": "IT之家",
-   "title": "王腾创业首款产品：ISHO Ring 今日宜休智能戒指亮相，10 月 29 日发布",
-   "url": "https://www.ithome.com/1/015/111.htm",
-   "summary": "IT之家 10 月 20 日消息，王腾创业公司 —— 今日宜休的首场发布会“ISHO 今日宜休 AI 睡眠科技生态产品发布会”定档 10 月 29 日 19:00 举行。 根据今日宜休官方今日预热，该公司的首款产品为 ISHO Ring 今日宜休智能戒指 。“从腕上到指尖的睡眠革命，不只是佩戴位置的变化，更是这场科技健康新趋势的起点。” 从图片可以看到，这是一款金色的戒指产品，外侧有一个疑似按钮或指示灯的部件，内侧搭载了多个传感器，用于感知身体数据。 IT之家注意到，今日宜休官方预热称：睡眠市场从来不缺产品，缺的是真正能解决问题的方案。从感知、分析到行动建议与设备联动， 让睡眠的解决方案形成完",
-   "published_at": 1792459904.0,
-   "published_bj": "2026-10-20 09:31"
-  },
-  {
-   "id": "b6c80c168ce6e88d",
-   "source": "TechCrunch",
-   "title": "Mamdani says feds have abdicated on AI, urges New Yorkers to push back",
-   "url": "https://techcrunch.com/2026/10/19/mamdani-says-feds-have-abdicated-on-ai-urges-new-yorkers-to-push-back/",
-   "summary": "Mayor Zohran Mamdani said Monday night that New Yorkers must resist the narrative that an AI takeover is inevitable and demand regulations that protect the public and put power back in their hands.",
-   "published_at": 1792459623.0,
-   "published_bj": "2026-10-20 09:27"
-  },
-  {
-   "id": "3797ec49faacc4ad",
-   "source": "IT之家",
-   "title": "英特尔向 FCC 申请禁令豁免：美国芯片工厂离不开外国 AGV 机器人",
-   "url": "https://www.ithome.com/1/015/106.htm",
-   "summary": "IT之家 10 月 20 日消息，据彭博社报道，英特尔公司已向美国联邦通信委员会（FCC）申请豁免近期一项针对境外先进机器人的禁令，称其需要持续使用这类对美国半导体制造至关重要的“小众”设备。 这份 10 月 16 日提交、当地时间周一对外公开的请愿文件显示，英特尔担心自家工厂使用的自动导引车（AGV）会被纳入这项针对境外新技术的全面进口与销售禁令。这类设备用于半导体工厂内部运送物料。 英特尔在申请书中表示，保证这批机器人正常运转对美国国家安全“至关重要”。目前没有成熟的国产替代产品能够满足英特尔严苛标准，替换现有设备需要数年时间。一旦设备运行中断，将“立刻对英特尔在美国本土的半导体制造产能造",
-   "published_at": 1792459494.0,
-   "published_bj": "2026-10-20 09:24"
-  },
-  {
-   "id": "2474bd0aa7725ccb",
-   "source": "IT之家",
-   "title": "格力技工学校开学第一课，校长董明珠称禁止谈恋爱、宰学生的超市不许开",
-   "url": "https://www.ithome.com/1/015/105.htm",
-   "summary": "IT之家 10 月 20 日消息，由格力电器牵头打造、董明珠亲自担任校长的珠海市格力技工学校， 于本月（10 月 4 日）正式迎来建校后的首批新生入学报到 。 据红星新闻报道，10 月 19 日，珠海市格力技工学校开学第一课，校长董明珠围绕校园日常和生活细节对首届新生提出纪律要求：“那天我到超市一看，一个橘子 1.5 块，那宰我们学生？这种超市是不允许在这开的。 十几岁的娃娃讲谈恋爱，这是不允许的 。” 董明珠还表示，看到学生头发很长，就请了专业的理发师队伍，周末在这里做义工，给学生剪头发。 据北京日报、澎湃新闻报道，该校首届招生便吸引了超过 8000 人报名，经过层层筛选，最终录取的首批学生",
-   "published_at": 1792459462.0,
-   "published_bj": "2026-10-20 09:24"
-  },
-  {
-   "id": "66fe09c4cadbc2f6",
-   "source": "IT之家",
-   "title": "Win11 学院：如何在 Windows 11 RP 26x00.9807 预览版上启用新版右键菜单",
-   "url": "https://www.ithome.com/1/015/103.htm",
-   "summary": "IT之家 10 月 20 日消息，科技媒体 NeoWin 昨日（10 月 19 日）发布博文，介绍了利用第三方修改工具 ViveTool， 在 Windows 11 Release Preview 频道版本 Build 26200.9807 与 26300.9807 上，启用新版右键菜单。 在上述两个 Windows 11 预览版中，微软采用分阶段推送方式，已邀请部分 Release Preview 频道用户参与测试，对于暂未获得推送的用户，可以通过 ViveTool 工具方式启用。 在体验方面，旧版右键菜单存在常用操作层级过深、第三方应用选项被折叠进“显示更多选项”，以及自定义能力不足等问题",
-   "published_at": 1792459346.0,
-   "published_bj": "2026-10-20 09:22"
-  },
-  {
-   "id": "52155216a9772718",
-   "source": "IT之家",
-   "title": "最强小米金沙江电池：REDMI K100 手机搭载 10000mAh 电池，-20°C 下可提供稳定高性能体验",
-   "url": "https://www.ithome.com/1/015/102.htm",
-   "summary": "IT之家 10 月 20 日消息，小米 REDMI K100 手机已定档 10 月 27 日晚 7 点，官方今日对新品进行预热，官宣 REDMI K100 手机搭载 10000mAh 小米金沙江电池 。 该电池达 28% 硅碳含量、957Wh/L 能量密度；在-20°C 低温下仍可提供稳定高性能体验，官方称之为“ 最强小米金沙江电池 ”。 IT之家整理小米 REDMI K100 标准版已公布 / 曝光配置如下： 性能：骁龙 8 至尊版 | 游戏独显 D2 屏幕：6.83 英寸大屏 | 升级 165Hz 刷新率 | 3500nits 超高亮度 | 小米青山护眼 4.0 触控：480Hz 多指触控",
-   "published_at": 1792459267.0,
-   "published_bj": "2026-10-20 09:21"
-  },
-  {
-   "id": "555ac2810eb3c266",
-   "source": "IT之家",
-   "title": "京东红包今日 10 点再加码：猜数字抢 5 元红包",
-   "url": "https://www.ithome.com/1/015/101.htm",
-   "summary": "今日 10 点京东红包再加码，猜数字有机会抢 5 元加码红包： 点此抽取 。 猜数字红包玩法：每人 3 次机会，猜中锦鲤数字后即可获得领取额外奖励的机会，可随机获得京东红包、品类东券或店铺券等奖励。猜错后会缩小锦鲤数字的范围并提示用户，如果用户 3 次机会均未猜中，则无法获得任何奖励。 蚊子肉也是肉，节点开始越早抢红包金额越大，小伙伴可每天都领（多个红包支持叠加使用），积攒多天后带走个大件哦 ~ 京东 11.11 无门槛红包 面额至高 26888 元，每天抽 3 次： 点此抽红包 。 淘宝 11.11 无门槛红包 面额至高 26888 元，每天抽 1 次： 点此抽红包 。",
-   "published_at": 1792459171.0,
-   "published_bj": "2026-10-20 09:19"
-  },
-  {
-   "id": "12b167e6d9675c1f",
-   "source": "IT之家",
-   "title": "消息称三星预估 2027 年 OLED Galaxy A 智能手机出货仅 1 亿部，年减 1000 万部",
-   "url": "https://www.ithome.com/1/015/100.htm",
-   "summary": "IT之家 10 月 20 日消息，韩媒 ZDNET Korea 当地时间昨日报道称，三星电子 MX 业务近期向合作伙伴分享了对 2027 年 OLED 屏幕 Galaxy A 系列中低端智能手机出货的最新预计： 1 亿部 。 三星的 Galaxy A 智能手机中仅有最入门的 A0 家族使用 LCD 显示面板、 A1、A2、A3、A5 级别现已全部使用 OLED 。 消息人士表示，三星电子预计 2026 年的 OLED Galaxy A 出货量为 1.1 亿部，也就是说 明年将减少 1,000 万部 。三星电子在今年 9 月下旬分享的 2027 年 OLED Galaxy A 早期出货预测则是 ",
-   "published_at": 1792459029.0,
-   "published_bj": "2026-10-20 09:17"
-  },
-  {
-   "id": "e7515ec5772eb496",
-   "source": "Hacker News",
-   "title": "Developing Taste",
-   "url": "https://emilkowal.ski/ui/developing-taste",
-   "summary": "Article URL: https://emilkowal.ski/ui/developing-taste Comments URL: https://news.ycombinator.com/item?id=50160135 Points: 4 # Comments: 0",
-   "published_at": 1792458723.0,
-   "published_bj": "2026-10-20 09:12"
-  },
-  {
-   "id": "6df89fb04f482ecc",
-   "source": "IT之家",
-   "title": "博通 Wi‑Fi 漏洞曝光：无需密码，攻击者也能拿下你的路由器",
-   "url": "https://www.ithome.com/1/015/099.htm",
-   "summary": "IT之家 10 月 20 日消息，科技媒体 cyberkendra 昨日（10 月 19 日）发布博文，报道称在巴黎 Hexacon 安全会议上， 安全研究人员昆汀 · 凯泽（Quentin Kaiser），披露博通（Broadcom）Wi‑Fi 软件中的 WPSplinter 漏洞。 在攻击表现方面，凯泽演示利用该漏洞， 可以在无需 Wi‑Fi 密码、无需完成 WPS 配对的情况下，从无线信号覆盖范围内远程控制部分路由器，并取得最高的 root 权限。 WPS 全称 Wi‑Fi Protected Setup，是路由器上的一种快捷配网功能，让支持它的设备不用手动输入 Wi‑Fi 密码，也能连",
-   "published_at": 1792458705.0,
-   "published_bj": "2026-10-20 09:11"
-  },
-  {
-   "id": "1401757387626c72",
-   "source": "IT之家",
-   "title": "一汽-大众 ID. AURA T6 首销月锁单 33,022 台，创造大众新速度",
-   "url": "https://www.ithome.com/1/015/098.htm",
-   "summary": "IT之家 10 月 20 日消息，一汽-大众今日公布了 ID. AURA T6 首销月战报，锁单 33,022 台， 创造大众新速度 。 官方还透露，激光雷达版本占比超 90%，首购大众车主占比接近 80%。 据IT之家此前报道， 一汽-大众 ID. AURA T6 于 9 月 20 日上市 ，包含四款车型， 售价区间 12.99 万 - 16.69 万元 ： 540 Pro：12.99 万元 660 Pro：13.99 万元 660 Max 激光雷达版：14.99 万元 660 Ultra 激光雷达版：16.69 万元 新车长宽高分别为 4811/1879/1648mm，轴距 2836mm；",
-   "published_at": 1792458658.0,
-   "published_bj": "2026-10-20 09:10"
-  },
-  {
-   "id": "64529bc5541af9de",
-   "source": "IT之家",
-   "title": "梅赛德斯-奔驰高管谈 G 级未来：不丢本源，不排除 V12 发动机回归",
-   "url": "https://www.ithome.com/1/015/097.htm",
-   "summary": "IT之家 10 月 20 日消息，斯特凡 · 韦克巴赫（Stefan Weckbach）同时执掌梅赛德斯-AMG、G 级产品线，还负责迈巴赫相关业务。上周，他接受多家媒体采访，聊到 G 级的未来，以及这款传奇车型的规划。 “对于 G 级，我们必须确保它能够走向未来，但不能丢掉灵魂。”韦克巴赫说道，“这是一项巨大的挑战。” G 级本身足够强悍，烙印着八十年代的风格；如今这款豪华车为企业创造的利润，远超它最初作为工具车的时代。但这不代表奔驰可以抛弃 G 级吃苦耐劳的本源。 没错，新买家想要双涡轮 V8 发动机、24 英寸轮毂，还有比斯图加特夜店内饰用料还要多的真皮。但他们同样留恋厚重如保险库关门的",
-   "published_at": 1792458328.0,
-   "published_bj": "2026-10-20 09:05"
   }
  ]
 }

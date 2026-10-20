@@ -1,7 +1,7 @@
 {
  "date": "2026-10-21",
- "generated_at": 1792511623.4761188,
- "count": 2,
+ "generated_at": 1792513684.0787168,
+ "count": 14,
  "items": [
   {
    "id": "b044fab4ea039f9c",
@@ -20,6 +20,114 @@
    "summary": "点击查看原文>",
    "published_at": 1792515600.0,
    "published_bj": "2026-10-21 01:00"
+  },
+  {
+   "id": "8ad19896659cd4f8",
+   "source": "TechCrunch",
+   "title": "Ex-Nvidia-turned-VC Amulya Vishwanath: ‘Physical AI is in it’s LEGO era’",
+   "url": "https://techcrunch.com/2026/10/20/ex-nvidia-turned-vc-amulya-vishwanath-physical-ai-is-in-its-lego-era/",
+   "summary": "It’s the moment everyone is waiting for — the ChatGPT moment for robotics, Amulya Vishwanath explained to TechCrunch’s Equity.",
+   "published_at": 1792513206.0,
+   "published_bj": "2026-10-21 00:20"
+  },
+  {
+   "id": "ca69f94e7bc2cfef",
+   "source": "cnBeta",
+   "title": "奔驰和英伟达深化战略合作 推动下一代辅助驾驶系统的开发",
+   "url": "https://www.cnbeta.com.tw/articles/tech/1583110.htm",
+   "summary": "英伟达与梅赛德斯-奔驰宣布，双方将深化战略合作，共同推动下一代辅助驾驶系统的开发。其中融合了梅赛德斯-奔驰的汽车工程技术、安全领域的深厚积累及 MB.OS 操作系统，还有英伟达的加速计算和AI技术。 阅读全文",
+   "published_at": 1792512557.0,
+   "published_bj": "2026-10-21 00:09"
+  },
+  {
+   "id": "a4a64e1f3657f76f",
+   "source": "cnBeta",
+   "title": "西班牙运营商提离谱要求：华为应补偿设备被禁用带来的损失",
+   "url": "https://www.cnbeta.com.tw/articles/tech/1583108.htm",
+   "summary": "因担心未来欧盟一纸禁令让自己承担巨额设备更换成本，西班牙电信运营商想出一个离谱的点子。据西班牙《扩展报》近日报道，法国电信集团Orange旗下西班牙公司Orange España向其移动网络设备供应商华为提了一项颇为特殊的要求：如果未来西班牙或欧盟禁止在通信网络中使用中国企业设备，华为需要补偿Orange在相关设备上的投资损失。 阅读全文",
+   "published_at": 1792512409.0,
+   "published_bj": "2026-10-21 00:06"
+  },
+  {
+   "id": "751539fe9689dd4c",
+   "source": "cnBeta",
+   "title": "高通将全球裁员 CEO称业务扩张改变了人才需求",
+   "url": "https://www.cnbeta.com.tw/articles/tech/1583106.htm",
+   "summary": "据路透社报道，高通首席执行官克里斯蒂亚诺·安蒙在一份内部备忘录中告知员工，公司将在年度员工评估后，开展以绩效为重点的全球裁员，相关通知将于11月开始发出。 阅读全文",
+   "published_at": 1792512365.0,
+   "published_bj": "2026-10-21 00:06"
+  },
+  {
+   "id": "1a6617ba3386e8e7",
+   "source": "cnBeta",
+   "title": "股价三日累涨超30% 宇树科技紧急提示风险",
+   "url": "https://www.cnbeta.com.tw/articles/tech/1583104.htm",
+   "summary": "10月20日，宇树科技发布股票交易异常波动公告，公司股票连续三个交易日（10月16日、10月19日、10月20日）收盘价格涨幅偏离值累计超过30%，触发科创板异常交易监控标准。 阅读全文",
+   "published_at": 1792512343.0,
+   "published_bj": "2026-10-21 00:05"
+  },
+  {
+   "id": "d478bc1d0e774981",
+   "source": "cnBeta",
+   "title": "DeepSeek工程师参与华为芯片设计 训练环节彻底去英伟达化",
+   "url": "https://www.cnbeta.com.tw/articles/tech/1583102.htm",
+   "summary": "DeepSeek正与华为展开深度合作，参与影响华为未来人工智能芯片的设计。这种合作关系已超出通常的供应商与客户范畴，标志着中国两大科技企业正加速降低对英伟达芯片的依赖。 阅读全文",
+   "published_at": 1792512303.0,
+   "published_bj": "2026-10-21 00:05"
+  },
+  {
+   "id": "1ff228b15ef8f29a",
+   "source": "cnBeta",
+   "title": "法国骚乱期间 路易威登、爱马仕等奢侈品零售商遭洗劫",
+   "url": "https://www.cnbeta.com.tw/articles/tech/1583100.htm",
+   "summary": "上周六，在巴黎高档商业区旺多姆广场（Place Vendôme），六名蒙面人员将一块道路隔离栏当作攻城槌，猛烈撞击路易威登（Louis Vuitton）精品店的橱窗，周围数十名身穿黑衣的人则为他们呐喊助威。抢劫者最终未能闯入店内，但险些得手。 阅读全文",
+   "published_at": 1792512256.0,
+   "published_bj": "2026-10-21 00:04"
+  },
+  {
+   "id": "f6f7dbffe3140b96",
+   "source": "cnBeta",
+   "title": "AMD宣布FSR 4.1全面扩展支持范围 RX 6000显卡、APU与Xbox均将获得升级",
+   "url": "https://www.cnbeta.com.tw/articles/tech/1583098.htm",
+   "summary": "AMD于10月20日正式公布FSR 4.1超分辨率技术的最新扩展计划，将把这项基于机器学习的图像增强技术带给更多硬件平台，包括Radeon RX 6000系列显卡、多款APU产品以及Xbox Series X和Xbox Series S游戏主机。 阅读全文",
+   "published_at": 1792512216.0,
+   "published_bj": "2026-10-21 00:03"
+  },
+  {
+   "id": "185b416e0c00cdf4",
+   "source": "Hacker News",
+   "title": "Voxtral 3",
+   "url": "https://mistral.ai/news/voxtral-3/",
+   "summary": "Article URL: https://mistral.ai/news/voxtral-3/ Comments URL: https://news.ycombinator.com/item?id=50168396 Points: 11 # Comments: 0",
+   "published_at": 1792512127.0,
+   "published_bj": "2026-10-21 00:02"
+  },
+  {
+   "id": "c339068e93531c5e",
+   "source": "TechCrunch",
+   "title": "Streaming guide JustWatch becomes a streamer itself",
+   "url": "https://techcrunch.com/2026/10/20/streaming-guide-justwatch-becomes-a-streamer-itself/",
+   "summary": "JustWatch, the popular streaming search guide used by 50 million people, is launching its own streaming service, offering free, ad-supported movies and shows alongside a $3.99-per-month ad-free tier and movie rentals.",
+   "published_at": 1792512084.0,
+   "published_bj": "2026-10-21 00:01"
+  },
+  {
+   "id": "ea5f49cc619bcb48",
+   "source": "Hacker News",
+   "title": "Making a VGA Driver in SystemVerilog",
+   "url": "https://lukaswerner.com/post/2026-10-20@bottom-up-vga",
+   "summary": "Article URL: https://lukaswerner.com/post/2026-10-20@bottom-up-vga Comments URL: https://news.ycombinator.com/item?id=50168376 Points: 7 # Comments: 0",
+   "published_at": 1792512015.0,
+   "published_bj": "2026-10-21 00:00"
+  },
+  {
+   "id": "be2809a377d73634",
+   "source": "TechCrunch",
+   "title": "Plants can speak using electricity, so this startup built an AI model to decipher their language",
+   "url": "https://techcrunch.com/2026/10/20/plants-can-speak-using-electricity-so-this-startup-built-an-ai-model-to-decipher-their-language/",
+   "summary": "Electric Plant has built an AI-powered translator to help humans listen to what plants are saying with the subtle electricity coursing through their stems.",
+   "published_at": 1792512000.0,
+   "published_bj": "2026-10-21 00:00"
   }
  ]
 }
