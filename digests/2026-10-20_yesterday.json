@@ -1,0 +1,382 @@
+{
+ "type": "yesterday",
+ "date": "2026-10-20",
+ "window": {
+  "start_ts": 1792425600.0,
+  "end_ts": 1792512000.0
+ },
+ "generated_at": 1792513784.4247434,
+ "generator": "action",
+ "news_count": 400,
+ "keywords": [
+  "元",
+  "ai",
+  "pro",
+  "美元",
+  "手机",
+  "苹果",
+  "亿美",
+  "支持",
+  "华为",
+  "小米"
+ ],
+ "points": [
+  {
+   "text": "【元】IT之家 10 月 20 日消息，漫步者旗下 Comfo Clip Ultra 耳夹式蓝牙耳机将于今天在京东发售，定价为 998.4 元，国补后",
+   "keyword": "元",
+   "news_ids": [
+    "3de9566b951125e0"
+   ],
+   "refs": [
+    {
+     "id": "3de9566b951125e0",
+     "title": "漫步者 Comfo Clip Ultra 耳夹式蓝牙耳机发售：支持心率检测、内置 AI 教练，国补后 899 元",
+     "source": "IT之家",
+     "url": "https://www.ithome.com/1/015/265.htm",
+     "published_at": 1792475553.0
+    }
+   ]
+  },
+  {
+   "text": "【元】iPhone Air 于去年 10 月 22 日开售，上市起售价为 7999 元，今年官方已涨至 8799 元",
+   "keyword": "元",
+   "news_ids": [
+    "b3bbc601ea9f9396"
+   ],
+   "refs": [
+    {
+     "id": "b3bbc601ea9f9396",
+     "title": "苹果 iPhone Air 京东破五千：12+256G 国补后 8799 → 4989 元，配 A19 Pro 芯片",
+     "source": "IT之家",
+     "url": "https://www.ithome.com/1/015/580.htm",
+     "published_at": 1792504051.0
+    }
+   ]
+  },
+  {
+   "text": "【pro】字节跳动、阿里巴巴和腾讯已订购超过 300 万个、总值超过 350 亿美元的英伟达 RTX PRO 5500 工作站显卡",
+   "keyword": "pro",
+   "news_ids": [
+    "e34cdb4d27906bba"
+   ],
+   "refs": [
+    {
+     "id": "e34cdb4d27906bba",
+     "title": "字节阿里腾讯订购了逾 350 亿美元的 RTX PRO 5500 显卡",
+     "source": "Solidot",
+     "url": "https://www.solidot.org/story?sid=85668",
+     "published_at": 1792511715.0
+    }
+   ]
+  },
+  {
+   "text": "【pro】IT之家 10 月 20 日消息，9to5mac 今日发现，苹果自助维修商店新上架了 iPhone 18 Pro 系列及新款 Mac 零件，用户",
+   "keyword": "pro",
+   "news_ids": [
+    "0d036b148b05638c"
+   ],
+   "refs": [
+    {
+     "id": "0d036b148b05638c",
+     "title": "苹果海外开放 iPhone 18 Pro 原厂零件自助维修购买渠道：摄像头 249 美元，退回旧件可抵扣 59.76 美元",
+     "source": "IT之家",
+     "url": "https://www.ithome.com/1/015/584.htm",
+     "published_at": 1792504620.0
+    }
+   ]
+  },
+  {
+   "text": "【pro】IT之家 10 月 20 日消息，据博主 @新出行贺磊 分享， 华为乾崑最近的智驾用户开通费的问题开始遇到阻力 ，他们也在积极地调研中",
+   "keyword": "pro",
+   "news_ids": [
+    "d76e01063cd06777"
+   ],
+   "refs": [
+    {
+     "id": "d76e01063cd06777",
+     "title": "消息称华为乾崑准备推出新智驾方案：比 ADS Pro 更便宜，但又高于 SE 版本",
+     "source": "IT之家",
+     "url": "https://www.ithome.com/1/015/583.htm",
+     "published_at": 1792504421.0
+    }
+   ]
+  },
+  {
+   "text": "【元】小米 8 月发布新一代 REDMI K100 Pro 系列手机，今日天猫旗舰店开启 11.11 狂促，各款皆为好价",
+   "keyword": "元",
+   "news_ids": [
+    "6197b47a3247ab88"
+   ],
+   "refs": [
+    {
+     "id": "6197b47a3247ab88",
+     "title": "4499 → 3013 元：小米 REDMI K100 Pro Max 旗舰手机官方 11.11 再降（无需 88VIP）",
+     "source": "IT之家",
+     "url": "https://www.ithome.com/1/015/313.htm",
+     "published_at": 1792479349.0
+    }
+   ]
+  },
+  {
+   "text": "【ai】The US has ordered federal civilian agencies to remove DeepSeek products",
+   "keyword": "ai",
+   "news_ids": [
+    "c2e71d181e809aa5"
+   ],
+   "refs": [
+    {
+     "id": "c2e71d181e809aa5",
+     "title": "US orders federal agencies to remove China’s DeepSeek AI from their systems",
+     "source": "TechCrunch",
+     "url": "https://techcrunch.com/2026/10/20/us-orders-federal-agencies-to-remove-chinas-deepseek-ai-from-their-systems/",
+     "published_at": 1792501644.0
+    }
+   ]
+  },
+  {
+   "text": "IT之家 10 月 20 日消息，据科技媒体 9To5Mac 今天报道，Mac 版 Perplexity Computer 最近新增端侧模式，让",
+   "keyword": "",
+   "news_ids": [
+    "f1edbf3e4441f53b"
+   ],
+   "refs": [
+    {
+     "id": "f1edbf3e4441f53b",
+     "title": "Mac 版 Perplexity Computer 新增端侧模式，要求 36GB 统一内存",
+     "source": "IT之家",
+     "url": "https://www.ithome.com/1/015/609.htm",
+     "published_at": 1792510070.0
+    }
+   ]
+  },
+  {
+   "text": "IT之家 10 月 20 日消息，比亚迪官方在 10 月 18 日宣布，旗下个性化品牌 —— 方程豹汽车 60 万台销量达成 ",
+   "keyword": "",
+   "news_ids": [
+    "f82e6f254cf5cd88"
+   ],
+   "refs": [
+    {
+     "id": "f82e6f254cf5cd88",
+     "title": "比亚迪何志奇：方程豹作为品牌矩阵最年轻的一员，成立刚满三年月销已连续三个月站稳 4 万台",
+     "source": "IT之家",
+     "url": "https://www.ithome.com/1/015/608.htm",
+     "published_at": 1792510069.0
+    }
+   ]
+  },
+  {
+   "text": "10 月 2 日攻击者利用其控制的 333 个出口节点协同拦截 SSH 连接发动中间人攻击",
+   "keyword": "",
+   "news_ids": [
+    "8e9f5d8c4f833b55"
+   ],
+   "refs": [
+    {
+     "id": "8e9f5d8c4f833b55",
+     "title": "十分之一 Tor 出口节点被用于发动中间人攻击",
+     "source": "Solidot",
+     "url": "https://www.solidot.org/story?sid=85666",
+     "published_at": 1792509778.0
+    }
+   ]
+  },
+  {
+   "text": "Spanner Omni 正式可用：采用软件方案替代谷歌原子钟与文件系统",
+   "keyword": "",
+   "news_ids": [
+    "67838ab1f555bb51"
+   ],
+   "refs": [
+    {
+     "id": "67838ab1f555bb51",
+     "title": "Spanner Omni 正式可用：采用软件方案替代谷歌原子钟与文件系统",
+     "source": "InfoQ中文",
+     "url": "https://www.infoq.cn/article/tTpKSzciXEpXuZduywdg?utm_source=rss&utm_medium=article",
+     "published_at": 1792509720.0
+    }
+   ]
+  },
+  {
+   "text": "Article URL: https://www",
+   "keyword": "",
+   "news_ids": [
+    "8a1537cb8b3346c3"
+   ],
+   "refs": [
+    {
+     "id": "8a1537cb8b3346c3",
+     "title": "Why do we have so many meetings?",
+     "source": "Hacker News",
+     "url": "https://www.nber.org/papers/w35706",
+     "published_at": 1792509559.0
+    }
+   ]
+  },
+  {
+   "text": "IT之家 10 月 20 日消息，工业和信息化部今日发文，按照《中华人民共和国标准化法》和《强制性国家标准管理办法》，工业和信息化部装备工业一司",
+   "keyword": "",
+   "news_ids": [
+    "014dc0a4b7adce51"
+   ],
+   "refs": [
+    {
+     "id": "014dc0a4b7adce51",
+     "title": "自动泊车、泊车组合驾驶辅助新国标将至，工信部征求意见稿明确各分级能力上限",
+     "source": "IT之家",
+     "url": "https://www.ithome.com/1/015/606.htm",
+     "published_at": 1792509493.0
+    }
+   ]
+  },
+  {
+   "text": "I built a quiz game around TypeSafe's new Jev model, which has vision ca",
+   "keyword": "",
+   "news_ids": [
+    "e0f14970412cadbb"
+   ],
+   "refs": [
+    {
+     "id": "e0f14970412cadbb",
+     "title": "Show HN: Jev Cards, Can you beat a vision model at a picture quiz?",
+     "source": "Hacker News",
+     "url": "https://jevcards.com",
+     "published_at": 1792509116.0
+    }
+   ]
+  },
+  {
+   "text": "Article URL: https://github",
+   "keyword": "",
+   "news_ids": [
+    "04c672c2d1384c26"
+   ],
+   "refs": [
+    {
+     "id": "04c672c2d1384c26",
+     "title": "Show HN: Penmentor – Claude marks up your handwritten math like a teacher",
+     "source": "Hacker News",
+     "url": "https://github.com/AbdullahAlhariri/penmentor",
+     "published_at": 1792509054.0
+    }
+   ]
+  }
+ ],
+ "article": {
+  "title": "2026-10-20 新闻总结",
+  "paragraphs": [
+   {
+    "kind": "lead",
+    "text": "过去 24 小时共收录 400 条新闻，来自 7 家媒体。把标题放在一起看，讨论主要集中在 AI、手机、上市 这几个方向上，其余消息更像是零散补充。"
+   },
+   {
+    "kind": "section",
+    "heading": "AI",
+    "text": "先看「AI」。IT之家 10 月 20 日消息，漫步者旗下 Comfo Clip Ultra 耳夹式蓝牙耳机将于今天在京东发售，定价为 998.4 元，国补后 899 元，另有 131 条消息指向同一话题。消费电子的看点不在参数堆叠，而在这些参数能不能变成日常可感知的体验差异。",
+    "news_ids": [
+     "3de9566b951125e0"
+    ],
+    "refs": [
+     {
+      "id": "3de9566b951125e0",
+      "title": "漫步者 Comfo Clip Ultra 耳夹式蓝牙耳机发售：支持心率检测、内置 AI 教练，国补后 899 元",
+      "source": "IT之家",
+      "url": "https://www.ithome.com/1/015/265.htm",
+      "published_at": 1792475553.0
+     }
+    ]
+   },
+   {
+    "kind": "section",
+    "heading": "芯片",
+    "text": "与此同时「芯片」。iPhone Air 于去年 10 月 22 日开售，上市起售价为 7999 元，今年官方已涨至 8799 元，另有 50 条消息指向同一话题。价格和生态往往比硬件规格更能决定一款产品能不能留下来。",
+    "news_ids": [
+     "b3bbc601ea9f9396"
+    ],
+    "refs": [
+     {
+      "id": "b3bbc601ea9f9396",
+      "title": "苹果 iPhone Air 京东破五千：12+256G 国补后 8799 → 4989 元，配 A19 Pro 芯片",
+      "source": "IT之家",
+      "url": "https://www.ithome.com/1/015/580.htm",
+      "published_at": 1792504051.0
+     }
+    ]
+   },
+   {
+    "kind": "section",
+    "heading": "显卡",
+    "text": "另一个值得注意的方向是「显卡」。字节跳动、阿里巴巴和腾讯已订购超过 300 万个、总值超过 350 亿美元的英伟达 RTX PRO 5500 工作站显卡，另有 28 条消息指向同一话题。单看一条新闻容易高估影响，放到最近几周的脉络里，它更像是一个渐进变化中的节点。",
+    "news_ids": [
+     "e34cdb4d27906bba"
+    ],
+    "refs": [
+     {
+      "id": "e34cdb4d27906bba",
+      "title": "字节阿里腾讯订购了逾 350 亿美元的 RTX PRO 5500 显卡",
+      "source": "Solidot",
+      "url": "https://www.solidot.org/story?sid=85668",
+      "published_at": 1792511715.0
+     }
+    ]
+   },
+   {
+    "kind": "section",
+    "heading": "渠道",
+    "text": "相比之下「渠道」。IT之家 10 月 20 日消息，9to5mac 今日发现，苹果自助维修商店新上架了 iPhone 18 Pro 系列及新款 Mac 零件，用户现可购买原厂替换，另有 14 条消息指向同一话题。消费电子的看点不在参数堆叠，而在这些参数能不能变成日常可感知的体验差异。",
+    "news_ids": [
+     "0d036b148b05638c"
+    ],
+    "refs": [
+     {
+      "id": "0d036b148b05638c",
+      "title": "苹果海外开放 iPhone 18 Pro 原厂零件自助维修购买渠道：摄像头 249 美元，退回旧件可抵扣 59.76 美元",
+      "source": "IT之家",
+      "url": "https://www.ithome.com/1/015/584.htm",
+      "published_at": 1792504620.0
+     }
+    ]
+   },
+   {
+    "kind": "glossary",
+    "items": [
+     {
+      "term": "AI",
+      "desc": "人工智能，让机器完成识别、生成、判断等原本需要人做的任务"
+     },
+     {
+      "term": "Agent",
+      "desc": "智能体，能自己拆解任务、调用工具并连续执行的 AI 程序"
+     },
+     {
+      "term": "HBM",
+      "desc": "高带宽内存，把多层内存堆叠起来给 AI 芯片喂数据，缓解带宽瓶颈"
+     },
+     {
+      "term": "VR",
+      "desc": "虚拟现实，戴上头显进入一个全虚拟的画面"
+     },
+     {
+      "term": "XR",
+      "desc": "扩展现实，VR、AR、MR 的统称"
+     },
+     {
+      "term": "Robotaxi",
+      "desc": "无人驾驶出租车，车里没有司机，靠自动驾驶系统接单运营"
+     }
+    ]
+   },
+   {
+    "kind": "outlook",
+    "text": "把这几条放在一起看，最值得跟踪的是 AI 和 手机 两条线：一条决定技术能走多远，一条决定它多快能落到普通人的日常里。至于其他消息，可以先放进观察名单，等后续有更实的进展再判断。"
+   }
+  ],
+  "word_count": 684
+ },
+ "ai_enhanced": false,
+ "schema": 1,
+ "window_bj": {
+  "start": "2026-10-20 00:00",
+  "end": "2026-10-21 00:00"
+ }
+}
