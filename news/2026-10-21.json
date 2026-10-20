@@ -1,7 +1,7 @@
 {
  "date": "2026-10-21",
- "generated_at": 1792523740.1228292,
- "count": 30,
+ "generated_at": 1792525898.4900062,
+ "count": 33,
  "items": [
   {
    "id": "8869576588968116",
@@ -20,6 +20,15 @@
    "summary": "点击查看原文>",
    "published_at": 1792542408.0,
    "published_bj": "2026-10-21 08:26"
+  },
+  {
+   "id": "98077fa15cf918e3",
+   "source": "TechCrunch",
+   "title": "GM to close Detroit battery assembly plant, but not for reasons you might think",
+   "url": "https://techcrunch.com/2026/10/20/gm-to-close-detroit-battery-assembly-plant-but-not-for-reasons-you-might-think/",
+   "summary": "GM is shuttering the Brownstown Battery Assembly Plant, though the closure has nothing to do with the automaker's electrification strategy.",
+   "published_at": 1792524763.0,
+   "published_bj": "2026-10-21 03:32"
   },
   {
    "id": "93d6f45ad2bb758d",
@@ -103,6 +112,15 @@
    "published_bj": "2026-10-21 01:55"
   },
   {
+   "id": "cf502e8ef378430e",
+   "source": "Hacker News",
+   "title": "Claude designed protein binders against scorpion neurotoxins",
+   "url": "https://www.anthropic.com/research/claude-scorpion-toxin-binder-design",
+   "summary": "Article URL: https://www.anthropic.com/research/claude-scorpion-toxin-binder-design Comments URL: https://news.ycombinator.com/item?id=50170021 Points: 12 # Comments: 2",
+   "published_at": 1792518509.0,
+   "published_bj": "2026-10-21 01:48"
+  },
+  {
    "id": "d47e1a8cb98757d5",
    "source": "Hacker News",
    "title": "Advanced coding in low-resource programming languages",
@@ -110,6 +128,15 @@
    "summary": "Article URL: https://openai.com/index/low-resource-programming-languages/ Comments URL: https://news.ycombinator.com/item?id=50169955 Points: 12 # Comments: 4",
    "published_at": 1792518191.0,
    "published_bj": "2026-10-21 01:43"
+  },
+  {
+   "id": "f3d66714b09ef92c",
+   "source": "Hacker News",
+   "title": "What shall I teach my son?",
+   "url": "https://stevekrouse.com/ends",
+   "summary": "Article URL: https://stevekrouse.com/ends Comments URL: https://news.ycombinator.com/item?id=50169707 Points: 51 # Comments: 63",
+   "published_at": 1792517107.0,
+   "published_bj": "2026-10-21 01:25"
   },
   {
    "id": "146b4dbf1910d1f0",
