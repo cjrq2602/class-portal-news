@@ -1,7 +1,7 @@
 {
  "date": "2026-10-22",
- "generated_at": 1792602704.810081,
- "count": 13,
+ "generated_at": 1792605057.4514616,
+ "count": 16,
  "items": [
   {
    "id": "17b6fde00a4c8d5a",
@@ -22,6 +22,15 @@
    "published_bj": "2026-10-22 02:00"
   },
   {
+   "id": "9e7523d0f4d82c0c",
+   "source": "TechCrunch",
+   "title": "Blacksmith hits unicorn valuation after Sequoia leads Series C",
+   "url": "https://techcrunch.com/2026/10/21/blacksmith-hits-unicorn-valuation-after-sequoia-leads-series-c/",
+   "summary": "Blacksmith, a platform that lets companies build and test AI code more effectively, just announced a $66 million Series C round led by Sequoia that values the company at $1 billion.",
+   "published_at": 1792603107.0,
+   "published_bj": "2026-10-22 01:18"
+  },
+  {
    "id": "7a71d53c456e7b62",
    "source": "InfoQ中文",
    "title": "对象存储正在“吃掉”Kafka？Cloudflare 用 R2 重做事件流",
@@ -31,6 +40,15 @@
    "published_bj": "2026-10-22 01:12"
   },
   {
+   "id": "40443dab514cc604",
+   "source": "Hacker News",
+   "title": "Overview of the German aFd email leak",
+   "url": "https://erik.gdn/docs/afd-emails/en/",
+   "summary": "Article URL: https://erik.gdn/docs/afd-emails/en/ Comments URL: https://news.ycombinator.com/item?id=50184270 Points: 11 # Comments: 1",
+   "published_at": 1792602445.0,
+   "published_bj": "2026-10-22 01:07"
+  },
+  {
    "id": "d1ce2972308e3bec",
    "source": "TechCrunch",
    "title": "Waymo starts offering rides at the Las Vegas airport",
@@ -38,6 +56,15 @@
    "summary": "Pickups and dropoffs will happen at dedicated \"autonomous vehicle zones\" at Terminal 1 and Terminal 3.",
    "published_at": 1792601984.0,
    "published_bj": "2026-10-22 00:59"
+  },
+  {
+   "id": "0d57f78d23fa02a3",
+   "source": "Solidot",
+   "title": "坏苹果效应：人们会效仿他人的违规行为",
+   "url": "https://www.solidot.org/story?sid=85679",
+   "summary": "俗话说，一颗烂苹果，能毁掉一整桶好苹果。发表在《Proceedings of the Royal Society B》期刊上的一项研究再次为坏苹果效应提供了证据。这项研究旨在探讨个人如何在社会情境中做出是否违规的决策。研究人员说，很多人可能以为自己的决策是完全自主做出的，但事实上在很多情况下，我们的行为深受他人的影响。研究人员在美国招募了 750 名参与者进行了一项在线实验，共和党人和民主党人的比例大致相当。研究结果显示了他人的选择如何产生影响：看到别人遵守规则会略微降低个人违规，看到别人略微违规则会略微增加自己的违规，看到他人明显违规则会明显增加自己的违规。而当违规者与自己属于同一阵营，坏苹",
+   "published_at": 1792600862.0,
+   "published_bj": "2026-10-22 00:41"
   },
   {
    "id": "d39ab8b736d2ad15",
