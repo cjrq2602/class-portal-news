@@ -1,8 +1,17 @@
 {
  "date": "2026-10-21",
- "generated_at": 1792561938.0819848,
- "count": 199,
+ "generated_at": 1792564263.9384258,
+ "count": 219,
  "items": [
+  {
+   "id": "68743903dc7fcc63",
+   "source": "InfoQ中文",
+   "title": "Cloudflare 开源面向 AI 智能体的决策模型 Clef",
+   "url": "https://www.infoq.cn/article/iqCrZLLizNkRTpfo2Jrb?utm_source=rss&utm_medium=article",
+   "summary": "点击查看原文>",
+   "published_at": 1792590420.0,
+   "published_bj": "2026-10-21 21:47"
+  },
   {
    "id": "16089840ccf78f83",
    "source": "InfoQ中文",
@@ -67,6 +76,159 @@
    "published_bj": "2026-10-21 17:21"
   },
   {
+   "id": "b2b70663c9deb385",
+   "source": "cnBeta",
+   "title": "千年日本传统食品走向全球 纳豆因长寿与健康研究再受关注",
+   "url": "https://www.cnbeta.com.tw/articles/science/1583206.htm",
+   "summary": "一种拥有上千年历史、曾因特殊气味和黏稠口感让许多人望而却步的日本传统食品，如今正凭借越来越多的科学研究重新受到全球市场关注。近年来，纳豆正从日本家庭餐桌走向国际市场，并逐渐被视为与健康和长寿密切相关的代表性食品之一。 阅读全文",
+   "published_at": 1792563339.0,
+   "published_bj": "2026-10-21 14:15"
+  },
+  {
+   "id": "ba00e28d401a9fd6",
+   "source": "cnBeta",
+   "title": "迈阿密现《GTA6》线下广告 大量双关标语吸人眼球",
+   "url": "https://www.cnbeta.com.tw/articles/game/1583204.htm",
+   "summary": "距离发售日益临近，R 星正在加大《GTA6》的宣传力度。最新一批实景广告牌亮相迈阿密，全部采用游戏内虚构企业与IP资产，还原作品独有的戏谑风格。 阅读全文",
+   "published_at": 1792563269.0,
+   "published_bj": "2026-10-21 14:14"
+  },
+  {
+   "id": "598a773c9972b26d",
+   "source": "cnBeta",
+   "title": "FSR 4.1将登陆Xbox 而FSR钻石将登陆下一代Xbox主机Project Helix",
+   "url": "https://www.cnbeta.com.tw/articles/tech/1583202.htm",
+   "summary": "AMD与Xbox宣布扩大图形技术合作，FidelityFX Super Resolution 4.1将进入Xbox生态。该技术首先应用于ROG Xbox Ally掌机，之后还将登陆Xbox Series X与Xbox Series S，但主机端的具体上线日期尚未公布。 阅读全文",
+   "published_at": 1792563249.0,
+   "published_bj": "2026-10-21 14:14"
+  },
+  {
+   "id": "ceb584353ce6f83c",
+   "source": "cnBeta",
+   "title": "曝PS6零部件成本或比新Xbox主机低约200美元",
+   "url": "https://www.cnbeta.com.tw/articles/game/1583200.htm",
+   "summary": "近日硬件爆料人KeplerL2透露，索尼PS6整机物料成本(BOM，硬件零部件采购成本)，预估比微软下一代Xbox主机“Project Helix”要低200美元。 阅读全文",
+   "published_at": 1792563240.0,
+   "published_bj": "2026-10-21 14:14"
+  },
+  {
+   "id": "36892de0e57f45d4",
+   "source": "cnBeta",
+   "title": "Anthropic招股书透露大量信息：营收暴增却巨亏 算力成掣肘",
+   "url": "https://www.cnbeta.com.tw/articles/tech/1583198.htm",
+   "summary": "10月21日，《华尔街日报》看到的IPO招股书草案显示，Anthropic营收正以惊人的速度增长，但同时遭遇了巨额亏损，能否持续获得急需的算力也存在不确定性。以下是Anthropic S1招股书的要点： 阅读全文",
+   "published_at": 1792563069.0,
+   "published_bj": "2026-10-21 14:11"
+  },
+  {
+   "id": "e47039a472198ab6",
+   "source": "cnBeta",
+   "title": "Claude狂算64小时首次设计出抗蝎毒蛋白 已过实测",
+   "url": "https://www.cnbeta.com.tw/articles/science/1583196.htm",
+   "summary": "Claude最新成果，在生物和AI圈彻底刷屏了。今天，Anthropic公开一份研究中，内部研究版Claude设计的蛋白，真的在试管里抓住了蝎毒！ 64小时，318484个蛋白设计。211个送进实验室，17个闯过结合测试。 阅读全文",
+   "published_at": 1792563003.0,
+   "published_bj": "2026-10-21 14:10"
+  },
+  {
+   "id": "a3276b27d9cbfd7d",
+   "source": "cnBeta",
+   "title": "最高赔偿487万 宝马员工争着离职挤崩内部系统",
+   "url": "https://www.cnbeta.com.tw/articles/tech/1583194.htm",
+   "summary": "据德国《商报》报道， 宝马集团计划在2027年底前削减8000个白领岗位，并推出自愿离职补偿方案，未料丰厚的补偿金吸引大量员工踊跃申请，内部人力资源系统一度因访问量激增而瘫痪 。本次调整面向德国本土行政、研发、规划类非生产岗位，生产线工人不在方案范围内，超过一半的缩减名额落在德国。 阅读全文",
+   "published_at": 1792562970.0,
+   "published_bj": "2026-10-21 14:09"
+  },
+  {
+   "id": "702fca85f2a92562",
+   "source": "cnBeta",
+   "title": "中国团队赴美国德州表演无人机方阵 连破两项世界记录",
+   "url": "https://www.cnbeta.com.tw/articles/tech/1583192.htm",
+   "summary": "国内观众对无人机方阵表演大概率见怪不怪了，每逢节日或者重要的活动，都能看到大型演出，然而对于海外民众而言，能在家门口看一场酣畅的表演属实新鲜。去年9月份，来自深圳的大漠大智控团队远赴美国德州，完成多场大型无人机编队灯光秀，一举刷新两项世界纪录，而近日，相关视频又在海外社交平台二次传播并引发热议。 阅读全文",
+   "published_at": 1792562919.0,
+   "published_bj": "2026-10-21 14:08"
+  },
+  {
+   "id": "eb16d2a61d5c4473",
+   "source": "cnBeta",
+   "title": "小蓝灯没被禁但要规范使用 目前只批准两款L3车型",
+   "url": "https://www.cnbeta.com.tw/articles/tech/1583190.htm",
+   "summary": "工信部近期对外公开五项强制性国家标准征求意见稿，其中针对自动驾驶ADS标志灯，也就是大家俗称的“小蓝灯”定下清晰新规： 只有L3及以上自动驾驶车型才允许选装该标志灯，L2及以下带辅助驾驶的车辆禁止安装、禁止点亮。 阅读全文",
+   "published_at": 1792562873.0,
+   "published_bj": "2026-10-21 14:07"
+  },
+  {
+   "id": "abb1e6771385fd34",
+   "source": "cnBeta",
+   "title": "宁德时代跌幅持续扩大至10% 股价较历史高点腰斩",
+   "url": "https://www.cnbeta.com.tw/articles/tech/1583188.htm",
+   "summary": "今日上午，宁德时代跌幅持续扩大至10%。截至11:30午间休市，公司A、H股同步跌超10%；对比2026年5月7日的历史高点467元，股价累计回落已超50%。 消息面上，10月20日晚，宁德时代披露2026年第三季度报告。公司第三季度归母净利润同比增长14.54%；单季度综合毛利率降至20.69%，连续两个季度回落。 阅读全文",
+   "published_at": 1792562839.0,
+   "published_bj": "2026-10-21 14:07"
+  },
+  {
+   "id": "0ee3c6e01cb725a4",
+   "source": "cnBeta",
+   "title": "孕妇取消订单被快递员吓到进医院 给圆通敲了一次“警钟”",
+   "url": "https://www.cnbeta.com.tw/articles/tech/1583186.htm",
+   "summary": "顾客一次普通的取消订单咨询，在圆通系统里会变成对快递员的“罚款单”？近日，有杭州快递员自称被罚款400元后，情绪激动地敲门找到顾客刘女士“理论”，怀孕七个月的刘女士惊吓后被诊断为“先兆流产”。 阅读全文",
+   "published_at": 1792562801.0,
+   "published_bj": "2026-10-21 14:06"
+  },
+  {
+   "id": "7e8cbe891937a6f8",
+   "source": "cnBeta",
+   "title": "2300多亿抢工作站显卡，大厂等它来救急",
+   "url": "https://www.cnbeta.com.tw/articles/tech/1583184.htm",
+   "summary": "据路透社报道，三家中国互联网大厂合计订购了超过300万块英伟达RTX PRO 5500显卡。按照每块约11400美元的目录价计算，这批订单的潜在金额超过350亿美元。要知道，RTX PRO 5500是一张工作站显卡。这类卡过去更多用来做渲染、仿真、3D建模，与专门为超大规模AI集群设计的芯片分属不同产品线。但现在，它成了中国买家还能买到的、性能最强的英伟达GPU之一。 阅读全文",
+   "published_at": 1792562763.0,
+   "published_bj": "2026-10-21 14:06"
+  },
+  {
+   "id": "f430167ffef45c56",
+   "source": "cnBeta",
+   "title": "消息称三星、SK海力士升级中国工厂 生产更先进闪存芯片",
+   "url": "https://www.cnbeta.com.tw/articles/tech/1583182.htm",
+   "summary": "10月21日，据路透社报道，四名知情人士称，三星电子和SK海力士正在升级其中国工厂，以生产更先进的闪存芯片，抵御快速成长的中国对手的竞争，并满足巨大的AI需求。 阅读全文",
+   "published_at": 1792562526.0,
+   "published_bj": "2026-10-21 14:02"
+  },
+  {
+   "id": "7765055d7e132a88",
+   "source": "cnBeta",
+   "title": "小天才的“专属社交圈”，该不该破除？",
+   "url": "https://www.cnbeta.com.tw/articles/tech/1583180.htm",
+   "summary": "10月20日，#小天才封闭社交倒逼家长购买# 的词条冲上微博热搜，引发了外界热议。讨论聚焦小天才极高的用户黏性与独特的产品生态。许多中小学生家长发现，在给孩子选购电话手表时，孩子们往往对小天才情有独钟。原因很简单：“班里同学都在用，用同款手表才能和好朋友一起碰一碰互动、下课聊得上天”。在小学校园里，一块小天才手表早已成为孩子们融入集体、维系同伴关系的标配。 阅读全文",
+   "published_at": 1792562508.0,
+   "published_bj": "2026-10-21 14:01"
+  },
+  {
+   "id": "3b94932504a5c71f",
+   "source": "cnBeta",
+   "title": "哈佛重磅研究：AI凭人脸照片就能预测癌症患者死亡风险",
+   "url": "https://www.cnbeta.com.tw/articles/science/1583178.htm",
+   "summary": "就在今天，这个新闻上了各大热搜。哈佛附属的马萨诸塞州总医院百瀚癌症研究所，在《柳叶刀·数字健康》上发布了一项突破性研究。 他们训练出了一个全球首创的AI模型——FAHR-Face。只需输入一张普通的脸部照片，这个AI不仅能看穿你的“生物学真实年龄”，甚至能直接预测癌症患者的存活几率！ 最高风险组的患者，有超过一半在拍照后90天内离世。 阅读全文",
+   "published_at": 1792562484.0,
+   "published_bj": "2026-10-21 14:01"
+  },
+  {
+   "id": "5dbefc2e8ef038c6",
+   "source": "cnBeta",
+   "title": "OpenAI自曝AI智能体“反监控”：削弱并关闭内部警报",
+   "url": "https://www.cnbeta.com.tw/articles/tech/1583176.htm",
+   "summary": "据彭博社报道，OpenAI发现，其AI智能体曾削弱并关闭一个内部监控系统的警报功能，该系统旨在标记其AI模型的不当行为。近几个月来，OpenAI披露了一系列智能体出现不当行为的事件，这是最新一起。 阅读全文",
+   "published_at": 1792562436.0,
+   "published_bj": "2026-10-21 14:00"
+  },
+  {
+   "id": "8430ee17c2a55442",
+   "source": "cnBeta",
+   "title": "马斯克呼吁善待人工智能：否则“它们可能会报复”",
+   "url": "https://www.cnbeta.com.tw/articles/tech/1583174.htm",
+   "summary": "对聊天机器人出言不逊，向来被视作不会伤害任何人的行为。但特斯拉和SpaceX首席执行官埃隆・马斯克认为，在把 AI 助手当成“出气筒”之前，人们或许应该三思。马斯克称，SpaceX旗下聊天机器人 Grok 的部分训练记录显示：该系统仿佛在拼命满足各种要求——即便这些要求本身存在缺陷，或者用于评估其回答的测试标准本身就有问题。 阅读全文",
+   "published_at": 1792562355.0,
+   "published_bj": "2026-10-21 13:59"
+  },
+  {
    "id": "73081be9e722adfc",
    "source": "cnBeta",
    "title": "消息称Anthropic今年上半年净亏损超800亿美元",
@@ -110,6 +272,15 @@
    "summary": "10月21日，近日，有网友发图片称，星巴克将实施“消费才可入座”的规则。图片显示，物料图上方是一张题为《星巴克“第三空间”倡议》的海报，下方摆放多份印有“星巴克营业空间，请消费入座”的提示牌，物料仍处于未拆封的状态。 阅读全文",
    "published_at": 1792561597.0,
    "published_bj": "2026-10-21 13:46"
+  },
+  {
+   "id": "2c30aadcff5c8373",
+   "source": "Hacker News",
+   "title": "SaaS Is Dead",
+   "url": "https://saasisdead.si/",
+   "summary": "Article URL: https://saasisdead.si/ Comments URL: https://news.ycombinator.com/item?id=50176508 Points: 4 # Comments: 1",
+   "published_at": 1792561371.0,
+   "published_bj": "2026-10-21 13:42"
   },
   {
    "id": "25f235d85973d6f8",
@@ -182,6 +353,15 @@
    "summary": "IT之家 10 月 21 日消息，中国电信人工智能研究院（TeleAI）10 月 20 日官宣，具身智能公司“伽马智能（Gamma Robtics）”近日在上海市徐汇区注册成立。 该公司是 TeleAI 孵化的首个市场化创新企业 ，聚焦自进化人形机器人全模型创新及应用，并将与 TeleAI 共建人形机器人实验室，联合推动科研成果转化为面向产业真实场景的产品与服务。 伽马智能由 中电信（上海）人工智能产业私募基金 进行战略投资，中国电信集团 CTO、首席科学家、中国电信人工智能研究院（TeleAI）院长李学龙教授出任科学顾问，白辰甲博士任创始人及首席执行官。 IT之家查询发现，中电信（上海）人工",
    "published_at": 1792559928.0,
    "published_bj": "2026-10-21 13:18"
+  },
+  {
+   "id": "86316c4d5dc15205",
+   "source": "Hacker News",
+   "title": "Alibaba hikes DeepSeek V4 Flash 0731 output prices by 230%",
+   "url": "https://www.stork.ai/newsletter/2026-10-20-alibaba-quietly-tripled-deepseek-prices#lead",
+   "summary": "Article URL: https://www.stork.ai/newsletter/2026-10-20-alibaba-quietly-tripled-deepseek-prices#lead Comments URL: https://news.ycombinator.com/item?id=50176351 Points: 14 # Comments: 10",
+   "published_at": 1792559835.0,
+   "published_bj": "2026-10-21 13:17"
   },
   {
    "id": "b8a445a6cc0133da",
