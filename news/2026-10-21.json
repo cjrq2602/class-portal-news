@@ -1,8 +1,17 @@
 {
  "date": "2026-10-21",
- "generated_at": 1792547694.3875675,
- "count": 107,
+ "generated_at": 1792549500.645842,
+ "count": 123,
  "items": [
+  {
+   "id": "346958d22e3355be",
+   "source": "InfoQ中文",
+   "title": "美团企业级 Agent 的平台化应用实践｜QCon上海",
+   "url": "https://www.infoq.cn/article/BQJltkL1FJ9AG3cMeUmB?utm_source=rss&utm_medium=article",
+   "summary": "点击查看原文>",
+   "published_at": 1792576800.0,
+   "published_bj": "2026-10-21 18:00"
+  },
   {
    "id": "4de635e4306b0bf1",
    "source": "InfoQ中文",
@@ -11,6 +20,105 @@
    "summary": "点击查看原文>",
    "published_at": 1792574460.0,
    "published_bj": "2026-10-21 17:21"
+  },
+  {
+   "id": "a8bc0d0f5336836a",
+   "source": "IT之家",
+   "title": "众筹价 1699 元，小米米家金属旅行箱开启众筹",
+   "url": "https://www.ithome.com/1/015/698.htm",
+   "summary": "IT之家 10 月 21 日消息，小米米家金属旅行箱今日正式众筹开售，众筹价 1699 元。 IT之家注意到，新品箱体沿用米家行李箱标志性的横向条纹设计，箱体由高性能 6 系铝镁硅合金框体与 5 系铝镁合金箱壳组合而成，并采用无铆钉框体工艺。官方称，金属旅行箱制作流程复杂，对材质与工艺成熟度要求较高，整箱需经过约 150 道工序。 米家称其与 HINOMOTO 联合研发了静音万向轮，内部采用金属独立减震结构，并宣称获得 SGS 静音轮认证。页面给出的实验室口径数据为：行走 72 公里后轮皮磨损小于 2 毫米，行走噪音低于 43 分贝；同时通过万向轮行走性能 6 倍国标检测。拉杆部分采用航空级 ",
+   "published_at": 1792549376.0,
+   "published_bj": "2026-10-21 10:22"
+  },
+  {
+   "id": "234245dc3316da65",
+   "source": "IT之家",
+   "title": "小米米家床头灯 3 上架：升级全光谱自然光，众筹价 269 元",
+   "url": "https://www.ithome.com/1/015/697.htm",
+   "summary": "IT之家 10 月 21 日消息，小米米家床头灯 3 已上架，将于 10 月 28 日上午 10 点开启众筹，众筹价 269 元。IT之家注意到，新品主打“柔光淡彩、安心好眠”的卧室照明场景。产品在延续床头灯品类氛围光属性的同时，重点升级全光谱自然光、低饱和淡彩光效、挥手 / 触控交互与节律照明能力，并接入 Xiaomi HyperOS Connect 与小米澎湃智联生态。 核心光质方面，米家床头灯 3 采用升级全光谱灯珠，官方标称太阳光谱拟合度 GFC＞0.98；作为日常照明使用时，最高光通量可达 570lm，最低光通量可低于 1lm，兼顾起夜、阅读、伴睡等亮度需求。显色指数为 Ra90，官",
+   "published_at": 1792549169.0,
+   "published_bj": "2026-10-21 10:19"
+  },
+  {
+   "id": "aa2613df32ffa3f4",
+   "source": "IT之家",
+   "title": "微软优化 Win11 文件管理器 OneDrive 右键菜单：统一 AI 访问入口",
+   "url": "https://www.ithome.com/1/015/696.htm",
+   "summary": "IT之家 10 月 21 日消息，在 MC1515940 公告中，微软宣布将于下月（2026 年 11 月）中旬开始，优化 Windows 11 文件管理器里的“OneDrive”右键菜单， 调整部分 Copilot 关联的 AI 操作选项。 科技媒体 NeoWin 指出，当前 Windows 11 用户在文件管理器中右键点击某个文件，在 OneDrive 的二级目录下会看到包括“摘要”、“创建常见问题解答”、“比较文件”、“提问”、“解释图像”、“比较图像”和“提取文本”等 Copilot 操作选项，但这些选项功能又和一级目录的“Ask Copilot”存在一些重叠。 而根据公告内容，微软计",
+   "published_at": 1792549109.0,
+   "published_bj": "2026-10-21 10:18"
+  },
+  {
+   "id": "140b1fe7c27ba1ca",
+   "source": "IT之家",
+   "title": "王腾创业首款产品：ISHO Ring 今日宜休智能戒指配置曝光，全球首发同品类性能最强 MCU",
+   "url": "https://www.ithome.com/1/015/695.htm",
+   "summary": "IT之家 10 月 21 日消息，王腾创业公司 —— 今日宜休的首场发布会“ISHO 今日宜休 AI 睡眠科技生态产品发布会”定档 10 月 29 日 19:00 举行， 首款产品为 ISHO Ring 今日宜休智能戒指 。 博主 @数码闲聊站 今日爆料了这款 ISHO Ring 的硬件配置： 王腾独立打磨的首款硬件新品摸到了，ISHO Ring， PPG 传感器用的是 Oura 同款，MCU 全球首发 Apollo 330B 芯片，2MB 闪存 +32MB 存储 ，性能和内存都明显强于 Oura5，用料很足，目前智能戒指里规格最高的一档。 硬件比 Oura 高一档， ISHO Ring 大概",
+   "published_at": 1792549057.0,
+   "published_bj": "2026-10-21 10:17"
+  },
+  {
+   "id": "1d2d5460c2df28b8",
+   "source": "IT之家",
+   "title": "开源项目让《塞尔达传说：王国之泪》原生运行于 Apple Silicon，苹果 M4 MacBook Air 稳定 90 帧",
+   "url": "https://www.ithome.com/1/015/694.htm",
+   "summary": "IT之家 10 月 21 日消息，一个开源的 macOS 原生静态重编译项目现已能够在 Apple Silicon 设备上运行《塞尔达传说：王国之泪》。在基础款 M4 MacBook Air 上，这款游戏可以稳定跑到 90 帧，性能表现优于任天堂 Switch 2 官方版本，同时也超过另一款非官方 PC 移植版本。 IT之家注意到，开发者 liyong 开源了 MacNativeGames 项目，这是一个非官方静态重编译工程，可以将《王国之泪》转换为 ARM64 架构的 macOS（以及 iOS）原生应用。该移植版本直接调用苹果 Metal 4 图形接口，最高支持 4K 分辨率的 MetalF",
+   "published_at": 1792548698.0,
+   "published_bj": "2026-10-21 10:11"
+  },
+  {
+   "id": "c0b1fb16cbb4ca07",
+   "source": "IT之家",
+   "title": "科幻电影《沙丘 3》定档 12 月 31 日内地上映，与《复联 5》错开档期",
+   "url": "https://www.ithome.com/1/015/692.htm",
+   "summary": "IT之家 10 月 21 日消息，科幻电影《沙丘 3》今日官宣内地定档 12 月 31 日 上映。 《沙丘 3》是导演丹尼斯 · 维伦纽瓦的《沙丘》系列三部曲最终篇， 将于 2026 年 12 月 18 日北美上映 。 IT之家注意到，另一部科幻电影大作《复仇者联盟 5：毁灭之日》北美同样定档 12 月 18 日， 中国内地则定档 12 月 16 日 ，两部电影在内地错开了半个月的档期。 《沙丘 3》将由丹尼斯・维伦纽瓦继续执导，提莫西・查拉梅、赞达亚、弗洛伦斯・皮尤、安雅・泰勒-乔伊、丽贝卡・弗格森、哈维尔・巴登、杰森・莫玛、乔什・布洛林回归出演，艾达・布鲁克、莫玛的儿子纳科亚-沃尔夫・莫玛",
+   "published_at": 1792548479.0,
+   "published_bj": "2026-10-21 10:07"
+  },
+  {
+   "id": "238f1c96684ffe51",
+   "source": "IT之家",
+   "title": "6 年更新承诺：微软 Surface Laptop Ultra 驱动 / 固件将支持至 2032 年",
+   "url": "https://www.ithome.com/1/015/691.htm",
+   "summary": "IT之家 10 月 21 日消息，科技媒体 Windows Central 昨日（10 月 20 日）发布博文， 报道称微软 Surface Laptop Ultra 官方承诺 6 年更新，驱动程序和固件更新将持续到 2032 年 10 月 16 日。 驱动程序和固件虽不像系统大版本那样显眼，却直接影响笔记本的稳定性、续航、外设兼容性与安全修复。固件内置于硬件组件中，驱动则负责让 Windows 与处理器、显卡、电池、接口等硬件正常通信。 按照微软现行政策，2021 年 1 月 1 日及之后发布的 Surface 设备，通常可获得至少六年的驱动与固件支持，Surface Laptop Ultr",
+   "published_at": 1792548309.0,
+   "published_bj": "2026-10-21 10:05"
+  },
+  {
+   "id": "80a9a1be10367c86",
+   "source": "IT之家",
+   "title": "引入新世代设计，宝马 iX7 纯电旗舰 SUV 最新谍照曝光",
+   "url": "https://www.ithome.com/1/015/688.htm",
+   "summary": "IT之家 10 月 21 日消息，外媒 Carscoops 今天（21 日）最新曝光的谍照显示，宝马正在开发定位更高的纯电 SUV，预计定位家族旗舰的 iX7 现身德国纽博格林赛道。 iX7 不会采用宝马新世代纯电动平台，不过外观将会焕然一新。车身融入更简洁流畅的新世代设计元素，传统门把手也将由门柱底部的电动翼片取代（IT之家注：不排除在华销售车型改用传统门把手的可能）。 与新一代 iX5 和 X5 一样，iX7 和 X7 将继续采用 经过升级的 CLAR 平台 ，最高充电功率预计可达 460kW。根据上一代 X5 和 X7 的尺寸差异推算，iX7 的车长预计比 iX5 多出约 125mm，底",
+   "published_at": 1792548091.0,
+   "published_bj": "2026-10-21 10:01"
+  },
+  {
+   "id": "3e0dc4d7b028cf1a",
+   "source": "IT之家",
+   "title": "字节跳动撤销“咕咕嘎嘎”“刀盾狗”“香蕉猫”等网络热梗的美术作品著作权登记",
+   "url": "https://www.ithome.com/1/015/687.htm",
+   "summary": "IT之家 10 月 21 日消息，据IT之家小伙伴反馈，中国版权保护中心官网显示，字节跳动旗下北京字跳网络技术有限公司在今年 9 月集中撤销了“ 咕咕嘎嘎 ”“ 刀盾狗 ”“ 香蕉猫 ”等网络热梗的美术作品著作权登记。 据IT之家今年 7 月报道 ，北京字跳网络技术有限公司登记了这些网络热梗的 2D 和 3D 形象美术作品著作权，引发网络热议。 不少网友认为，网络热梗的生命力根植于无数普通网友的二次创作、玩梗发酵与集体智慧，属于典型的互联网公共文化资产，质疑平台将“大众共创成果”据为己有的行为。",
+   "published_at": 1792547910.0,
+   "published_bj": "2026-10-21 09:58"
+  },
+  {
+   "id": "5b1ee412d6ba9f84",
+   "source": "IT之家",
+   "title": "威联通推出 USB4 大容量 JBOD 扩展设备、PCIe 双口 USB4 扩展卡",
+   "url": "https://www.ithome.com/1/015/686.htm",
+   "summary": "IT之家 10 月 21 日消息，威联通 (QNAP) 昨日推出 2 款 USB4 大容量 JBOD（硬盘组合）存储扩展设备，分别是 8 盘位桌面式的 TL-D810TC4 、 12 盘位 2U 机架式的 TL-R1210TC4-RP 。 ▲ TL-D810TC4 两款设备均提供 3.5\" / 2.5\" 硬盘位（支持 HDD / SSD），提供 1 个 USB-C 40Gbps 接口，适配 Windows 与 QNAP NAS 设备。TL-D810TC4 额外支持 macOS 设备，TL-R1210TC4-RP 则配备双电源。 ▲ TL-R1210TC4-RP 威联通还带来了 QXP-40G2",
+   "published_at": 1792547818.0,
+   "published_bj": "2026-10-21 09:56"
+  },
+  {
+   "id": "f93072ef50e9b644",
+   "source": "IT之家",
+   "title": "微软承认 Edge 155 存在启动故障，部分企业用户升级后浏览器罢工",
+   "url": "https://www.ithome.com/1/015/685.htm",
+   "summary": "IT之家 10 月 21 日消息，科技媒体 Neowin 昨日（10 月 20 日）发布博文，报道称微软承认 Microsoft Edge 155 浏览器存在 Bug，主要影响企业用户， 部分受管理设备在从旧版本升级到 Edge 155 后 ， 浏览器可能无法启动。 微软表示，该故障关联服务端变更，但未公开具体原因。微软为了遏制该问题进一步扩散，已经回滚相关服务端变更。IT之家援引博文介绍，对于在回滚前已完成升级的企业设备，故障仍可能持续存在。 在临时解决方案上，微软表示管理员需先在 Microsoft Edge 管理服务中禁用“计划更新重启任务”，随后删除 Edge 用户数据目录下 Poli",
+   "published_at": 1792547789.0,
+   "published_bj": "2026-10-21 09:56"
   },
   {
    "id": "be3675839a2ca278",
@@ -31,6 +139,24 @@
    "published_bj": "2026-10-21 09:49"
   },
   {
+   "id": "bdb899f4de692508",
+   "source": "Hacker News",
+   "title": "T3 Code now synced between GitHub and GitCafe",
+   "url": "https://git.cafe/pingdotgg/t3code",
+   "summary": "Article URL: https://git.cafe/pingdotgg/t3code Comments URL: https://news.ycombinator.com/item?id=50175075 Points: 7 # Comments: 5",
+   "published_at": 1792547302.0,
+   "published_bj": "2026-10-21 09:48"
+  },
+  {
+   "id": "12d440a78fdfe769",
+   "source": "Hacker News",
+   "title": "GitHub package firewall",
+   "url": "https://github.blog/changelog/2026-10-20-github-package-firewall-in-public-preview/",
+   "summary": "Article URL: https://github.blog/changelog/2026-10-20-github-package-firewall-in-public-preview/ Comments URL: https://news.ycombinator.com/item?id=50175063 Points: 6 # Comments: 0",
+   "published_at": 1792547129.0,
+   "published_bj": "2026-10-21 09:45"
+  },
+  {
    "id": "2a28d9aba60186fa",
    "source": "IT之家",
    "title": "快狗打车：出售事项仅涉及拥有权变更，“快狗打车”业务将继续于中国内地经营",
@@ -38,6 +164,24 @@
    "summary": "IT之家 10 月 21 日消息，10 月 20 日，快狗打车在港交所公告，公司董事会注意到，中国内地若干媒体及网络平台近期报道指“快狗打车”将于出售事项后退出中国内地市场或终止其于中国内地市场的业务。董事会谨此澄清，该等报道并未准确反映出售事项的情况。出售事项为公司向买方出售其于目标公司的股权，仅涉及目标集团拥有权的变更，并不涉及目标集团于中国内地所经营业务的任何终止、清盘或迁移。 于完成后，目标集团将不再为本集团的一部分，但根据买方将在买方拥有下继续于中国内地经营其现有业务，包括以“快狗打车”品牌经营的线上同城物流平台。出售事项预期不会影响目标集团向其于中国内地的用户、客户及物流合作伙伴所",
    "published_at": 1792547107.0,
    "published_bj": "2026-10-21 09:45"
+  },
+  {
+   "id": "4c6ab98369f3e142",
+   "source": "Hacker News",
+   "title": "Good type against all odds",
+   "url": "https://unsung.aresluna.org/good-type-against-all-odds/",
+   "summary": "Article URL: https://unsung.aresluna.org/good-type-against-all-odds/ Comments URL: https://news.ycombinator.com/item?id=50175059 Points: 11 # Comments: 4",
+   "published_at": 1792547107.0,
+   "published_bj": "2026-10-21 09:45"
+  },
+  {
+   "id": "3dedf55f1f7be95e",
+   "source": "Hacker News",
+   "title": "Learning to live with Waymos",
+   "url": "https://www.newyorker.com/magazine/2026/10/19/were-learning-to-live-with-waymos-its-going-weird",
+   "summary": "Article URL: https://www.newyorker.com/magazine/2026/10/19/were-learning-to-live-with-waymos-its-going-weird Comments URL: https://news.ycombinator.com/item?id=50175057 Points: 7 # Comments: 0",
+   "published_at": 1792547074.0,
+   "published_bj": "2026-10-21 09:44"
   },
   {
    "id": "577228f81d0785d3",
