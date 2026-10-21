@@ -1,8 +1,35 @@
 {
  "date": "2026-10-21",
- "generated_at": 1792554919.5351717,
- "count": 154,
+ "generated_at": 1792556837.3147213,
+ "count": 162,
  "items": [
+  {
+   "id": "16089840ccf78f83",
+   "source": "InfoQ中文",
+   "title": "Agent 删库频频发生，几十年前就有的数据库防呆机制不管用了？",
+   "url": "https://www.infoq.cn/article/2Z056Q54wWa6vAIQKsqJ?utm_source=rss&utm_medium=article",
+   "summary": "点击查看原文>",
+   "published_at": 1792584615.0,
+   "published_bj": "2026-10-21 20:10"
+  },
+  {
+   "id": "7a4aaf46a0213134",
+   "source": "InfoQ中文",
+   "title": "DeepSeek开源最新推理框架：单集群日吞吐155万亿Token，KVCache可保存7天",
+   "url": "https://www.infoq.cn/article/NBXP966Bz3eqr6Qidvaf?utm_source=rss&utm_medium=article",
+   "summary": "点击查看原文>",
+   "published_at": 1792584408.0,
+   "published_bj": "2026-10-21 20:06"
+  },
+  {
+   "id": "e29477f4d21ebeb0",
+   "source": "InfoQ中文",
+   "title": "Anthropic几乎停招初级员工！占比一年半骤降33%：Agent工时已是员工6倍",
+   "url": "https://www.infoq.cn/article/bTVDaYaUJy2OvNlyuHgz?utm_source=rss&utm_medium=article",
+   "summary": "点击查看原文>",
+   "published_at": 1792584119.0,
+   "published_bj": "2026-10-21 20:01"
+  },
   {
    "id": "8200e896925b98d4",
    "source": "InfoQ中文",
@@ -38,6 +65,42 @@
    "summary": "点击查看原文>",
    "published_at": 1792574460.0,
    "published_bj": "2026-10-21 17:21"
+  },
+  {
+   "id": "2f65500531a36bb6",
+   "source": "IT之家",
+   "title": "又一次海上发射，谷神星一号海射型遥八运载火箭发射成功",
+   "url": "https://www.ithome.com/1/015/794.htm",
+   "summary": "IT之家 10 月 21 日消息，据央视新闻报道，北京时间 2026 年 10 月 21 日 11 时 39 分，我国太原卫星发射中心在山东日照附近海域成功发射 谷神星一号海射型遥八运载火箭 ，搭载发射的西光肆号 01 星顺利进入预定轨道，飞行试验任务取得圆满成功。 此次任务是谷神星一号运载火箭的第 24 次飞行。 IT之家查询获悉，“西光肆号 01 星”主要向全球用户提供 高空间分辨率、高时间分辨率、高光谱分辨率 的全天候卫星遥感大数据服务和卫星应用系统解决方案。 另外，据“大众网”日照频道报道，此次发射任务也是日照市 2026 年度第二次火箭发射，也是山东海上商业航天发射服务有限公司在日照",
+   "published_at": 1792556266.0,
+   "published_bj": "2026-10-21 12:17"
+  },
+  {
+   "id": "efac9f77f3ed31d6",
+   "source": "IT之家",
+   "title": "微软升级 OneDrive，支持直接在线编辑 HTML 与 Markdown 文件",
+   "url": "https://www.ithome.com/1/015/792.htm",
+   "summary": "IT之家 10 月 21 日消息，在今天举办的 OneDrive + Copilot 主题活动中， 微软宣布用户今后可以在 OneDrive 中直接编辑 HTML 和 Markdown 文件 ，而不必依赖本地编辑器或频繁切换工具。 针对 HTML 文件，用户无需每次都回到源代码界面，OneDrive 支持在渲染后的页面上直接修改文字内容。系统还提供“源代码实时预览”并排显示模式，便于网页开发者和内容创作者同时查看代码与效果；需要展示成品时，也可切换至全屏模式。 Markdown 方面，OneDrive 新增所见即所得（WYSIWYG）编辑器，并配备常见富文本工具栏。用户可以像编辑普通文档一样调",
+   "published_at": 1792555693.0,
+   "published_bj": "2026-10-21 12:08"
+  },
+  {
+   "id": "4e93a4be53eb52e6",
+   "source": "IT之家",
+   "title": "《使命召唤：黑色行动》前两部移植版大火，原版开发者自曝“拿不到收益”",
+   "url": "https://www.ithome.com/1/015/791.htm",
+   "summary": "IT之家 10 月 21 日消息，当地时间 20 日，据外媒 VGC 报道，《使命召唤：黑色行动》和《使命召唤：黑色行动 2》今年突然推出移植版，销量表现亮眼，却让参与过两款游戏开发的 Treyarch 资深关卡设计师加文 · 戈斯林五味杂陈。他认为，原开发团队理应从新版本的销售收入中获得分成。 动视 7 月 9 日未经预告，便将 2010 年推出的《使命召唤：黑色行动》和 2012 年的《使命召唤：黑色行动 2》移植到 PS4 和 PS5 平台。两款游戏均大获成功，其中《黑色行动 2》更夺得市场研究机构 Circana 的 2026 年 7 月美国游戏销量冠军。 据市场分析机构 Alinea",
+   "published_at": 1792555661.0,
+   "published_bj": "2026-10-21 12:07"
+  },
+  {
+   "id": "52396fae01c4e447",
+   "source": "IT之家",
+   "title": "在拍《GTA 6》游戏真人预告？“罪恶都市”车队现身美国迈阿密街头",
+   "url": "https://www.ithome.com/1/015/790.htm",
+   "summary": "IT之家 10 月 21 日消息，科技媒体 NotebookCheck 昨日（10 月 20 日）发布博文，报道称多段社交媒体视频显示， 一支挂着“Vice City”（罪恶都市）车牌的超级跑车与老爷车车队在迈阿密封闭街道上疾驰，旁边还有搭载大型摄影设备的车辆和航拍无人机。 IT之家附上相关视频如下： 由于这些车辆与《侠盗猎车手 6》（GTA 6）预告片及截图中的车型高度吻合，外界普遍猜测 Rockstar Games 可能正在拍摄一支真人版预告片，或为游戏上市展开大规模实景营销。 报道指出，车队曾出现在迈阿密海湾市场附近，警方一度封闭道路以配合拍摄；部分车辆可对应游戏中的 Progen Em",
+   "published_at": 1792555044.0,
+   "published_bj": "2026-10-21 11:57"
   },
   {
    "id": "3adea33318800056",
@@ -632,6 +695,15 @@
    "summary": "IT之家 10 月 21 日消息，科技媒体 9to5Mac 昨日（10 月 20 日）发布博文，报道称在 tvOS 27.2 更新中，苹果公司计划为 Apple TV 4K 用户来 3 项新功能 / 新特性： 屏幕保护程序支持随机播放、Apple TV 应用新增手语选项，以及可从“照片”图库中手动挑选自定义屏保内容。 一、屏幕保护程序支持随机播放 Apple TV 的屏保此前只能在“航拍”、“回忆与幻灯片”、“人像”和“史努比”等类别中选择其一，用户若喜欢航拍画面，往往无法同时体验其他风格。 tvOS 27.2 新增的“随机播放”选项，可在一天内自动轮换所有可用屏保类别，让客厅大屏的画面更丰富",
    "published_at": 1792543629.0,
    "published_bj": "2026-10-21 08:47"
+  },
+  {
+   "id": "207a29ba7bb5a5e5",
+   "source": "Hacker News",
+   "title": "Muse exposes users' personal and business secrets when they share conversations",
+   "url": "https://arstechnica.com/security/2026/10/meta-muse-exposes-users-personal-and-business-secrets-when-they-share-conversations/",
+   "summary": "Article URL: https://arstechnica.com/security/2026/10/meta-muse-exposes-users-personal-and-business-secrets-when-they-share-conversations/ Comments URL: https://news.ycombinator.com/item?id=50174687 Points: 11 # Comments: 0",
+   "published_at": 1792543559.0,
+   "published_bj": "2026-10-21 08:45"
   },
   {
    "id": "8869576588968116",
