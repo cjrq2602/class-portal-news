@@ -1,7 +1,7 @@
 {
  "date": "2026-10-21",
- "generated_at": 1792559423.266801,
- "count": 177,
+ "generated_at": 1792561938.0819848,
+ "count": 199,
  "items": [
   {
    "id": "16089840ccf78f83",
@@ -67,6 +67,150 @@
    "published_bj": "2026-10-21 17:21"
   },
   {
+   "id": "73081be9e722adfc",
+   "source": "cnBeta",
+   "title": "消息称Anthropic今年上半年净亏损超800亿美元",
+   "url": "https://www.cnbeta.com.tw/articles/tech/1583172.htm",
+   "summary": "据媒体援引一份IPO招股说明书草案称，Anthropic今年上半年净亏损超过800亿美元；该公司还表示，未来几年可能投入至多7500亿美元，以获取更多的计算能力。 阅读全文",
+   "published_at": 1792561822.0,
+   "published_bj": "2026-10-21 13:50"
+  },
+  {
+   "id": "cf714b43da6fb328",
+   "source": "cnBeta",
+   "title": "内幕曝光：马斯克下令“星链”降速 曾与特朗普“通气”",
+   "url": "https://www.cnbeta.com.tw/articles/tech/1583170.htm",
+   "summary": "乌克兰方面近日称“星链”卫星互联网系统终端遭到限速，导致乌军多项任务中断，美乌关系紧张程度骤然升级。美国官员和知情人士透露，“星链”降速系美国太空探索技术公司（SpaceX）首席执行官马斯克下令实施。有评论指出，这一决定不仅在基辅引发恐慌，也在特朗普政府内部造成混乱。 阅读全文",
+   "published_at": 1792561745.0,
+   "published_bj": "2026-10-21 13:49"
+  },
+  {
+   "id": "0158a602bbddf20d",
+   "source": "IT之家",
+   "title": "亚马逊将为英国青年提供 3.1 万英镑年薪“入门级”工作，无需简历、经验",
+   "url": "https://www.ithome.com/1/015/812.htm",
+   "summary": "IT之家 10 月 21 日消息，据外媒 Neowin 今天（21 日）报道，亚马逊在英国推出名为“青年承诺”的青年就业计划，承诺到 2030 年为当地年轻人 提供 3 万个就业岗位 。所有岗位均面向没有工作经验的求职者，零经验也能入职。 亚马逊将重点在就业机会匮乏的地区提供上述岗位，还将在 求职申请前后及申请过程 中为年轻人提供帮助。其中，包含超 1 万个职场实践名额、扩大对就业困难群体的援助、举办青年专场招聘活动，以及为每位求职者提供指导和支持。 图源：Pexels 所有岗位的 全职年薪起薪为 3.1 万英镑 （IT之家注：现汇率约合 27.7 万元人民币） ，非全职岗位按工时折算，员工入",
+   "published_at": 1792561703.0,
+   "published_bj": "2026-10-21 13:48"
+  },
+  {
+   "id": "ba2fb502255410a0",
+   "source": "cnBeta",
+   "title": "宣称赠送SpaceX股票后 马斯克被扒出欠捐历史",
+   "url": "https://www.cnbeta.com.tw/articles/tech/1583168.htm",
+   "summary": "近日，美国富豪马斯克宣称将向美国每个孩子赠送一股SpaceX股票，引发广泛关注。随后，有媒体曝出马斯克存在 欠捐 历史 。 据环球时报10月21日援引外媒报道，马斯克2012年曾签署了“捐赠誓言”，承诺捐出一半财富。但他对传统的慈善方式持怀疑态度。截至去年年底，他的非营利组织马斯克基金会拥有超过140亿美元的资产，但在过去4年中，该基金会未能达到法律规定的最低捐赠额。 阅读全文",
+   "published_at": 1792561677.0,
+   "published_bj": "2026-10-21 13:47"
+  },
+  {
+   "id": "e5b687bb39f83234",
+   "source": "cnBeta",
+   "title": "星巴克回应“消费入座”：明日起全国实施 门店会摆放相关提示牌",
+   "url": "https://www.cnbeta.com.tw/articles/tech/1583166.htm",
+   "summary": "10月21日，近日，有网友发图片称，星巴克将实施“消费才可入座”的规则。图片显示，物料图上方是一张题为《星巴克“第三空间”倡议》的海报，下方摆放多份印有“星巴克营业空间，请消费入座”的提示牌，物料仍处于未拆封的状态。 阅读全文",
+   "published_at": 1792561597.0,
+   "published_bj": "2026-10-21 13:46"
+  },
+  {
+   "id": "25f235d85973d6f8",
+   "source": "IT之家",
+   "title": "10 年来最大底层变革：微软 OneDrive 引入 Hero Links，链接分享后还能随时改权限",
+   "url": "https://www.ithome.com/1/015/811.htm",
+   "summary": "IT之家 10 月 21 日消息，在昨日（10 月 20 日）举办的 OneDrive 与 Copilot 主题活动中，微软宣布为 OneDrive 和 SharePoint 推出全新的 Hero Links 文件共享体系。微软称， 这是 Microsoft 365 文件共享自 2014 年引入链接共享以来的“十多年来”最大底层变革。 微软表示用户过去分享同一份文件或文件夹，往往需要生成多个共享链接，且不同链接可能对应不同权限，管理起来容易混乱。而 Hero Links 则为每个文件和文件夹提供唯一“主链接”：无论是通过共享对话框复制、以邮件发送，还是直接从浏览器地址栏复制 URL，使用的都是",
+   "published_at": 1792561185.0,
+   "published_bj": "2026-10-21 13:39"
+  },
+  {
+   "id": "39f8407e66b78ba4",
+   "source": "cnBeta",
+   "title": "亚马逊承诺到2030年为英国青年提供3万个入门岗位 起薪逾3.1万英镑",
+   "url": "https://www.cnbeta.com.tw/articles/tech/1583164.htm",
+   "summary": "亚马逊在英国启动“青年承诺计划”（Amazon Youth Promise），表示从今年起至2030年，将为机会较少地区的年轻人提供3万个入门级岗位。岗位以运营工作为主，包括在仓储物流网络中拣货、打包和发货；亚马逊称，申请者无需简历或相关工作经验，公司在英国运营100多个站点。 阅读全文",
+   "published_at": 1792560742.0,
+   "published_bj": "2026-10-21 13:32"
+  },
+  {
+   "id": "3307c71781388992",
+   "source": "IT之家",
+   "title": "微软放宽 OneDrive 同步限制：单账户最多可同步 100 万个文件",
+   "url": "https://www.ithome.com/1/015/809.htm",
+   "summary": "IT之家 10 月 21 日消息，在昨日（10 月 20 日）举办的 OneDrive 与 Copilot 主题活动中， 微软宣布提高 OneDrive 的同步上限，从此前的 30 万个提高到最多 100 万个项目，增幅 233.33%。 微软将 OneDrive 的同步上限提升至最多 100 万个项目，大幅放宽了此前对可同步文件与文件夹数量的限制。对于管理海量文档的企业、学校和机构而言，新上限有望减少拆分文件库或迁移存储位置的需求。 不过 30 万项仍是微软建议的较佳性能阈值，超过后可能出现同步变慢等性能问题。 除同步容量外，微软还针对长期困扰用户的“文件路径过长”问题作出改进。管理员现在可",
+   "published_at": 1792560729.0,
+   "published_bj": "2026-10-21 13:32"
+  },
+  {
+   "id": "cfbf4ad6ebb3546c",
+   "source": "cnBeta",
+   "title": "爆料称RTX 5090与RTX 5080 16GB或于明年1月停产 英伟达尚未确认",
+   "url": "https://www.cnbeta.com.tw/articles/tech/1583162.htm",
+   "summary": "硬件爆料频道“摩尔定律已死”（Moore’s Law Is Dead，MLID）在最新一期节目中转述一名据称来自大型零售商的消息人士称，英伟达已为GeForce RTX 5090和RTX 5080 16GB设定停产时间，预计在2027年1月上半月。该说法没有得到英伟达或零售商证实，仍属于供应链传闻。 阅读全文",
+   "published_at": 1792560516.0,
+   "published_bj": "2026-10-21 13:28"
+  },
+  {
+   "id": "b6d088846790c579",
+   "source": "cnBeta",
+   "title": "AI需求持续吞噬供应链产能 戴尔CEO警告内存危机或在2027年进一步恶化",
+   "url": "https://www.cnbeta.com.tw/articles/tech/1583160.htm",
+   "summary": "戴尔科技公司董事长兼首席执行官迈克尔·戴尔近日表示，当前席卷全球半导体行业的内存供应紧张局面远未结束，并预计情况将在2027年进一步恶化。随着人工智能数据中心建设持续加速，DRAM和高带宽内存（HBM）供应正承受越来越大的压力。 阅读全文",
+   "published_at": 1792560196.0,
+   "published_bj": "2026-10-21 13:23"
+  },
+  {
+   "id": "56b6393a89c7ed27",
+   "source": "IT之家",
+   "title": "核能“充电宝”来了：微型反应堆产业平台成立，我国微堆迈入商业化阶段",
+   "url": "https://www.ithome.com/1/015/808.htm",
+   "summary": "IT之家 10 月 21 日消息，据央视新闻报道，10 月 20 日，四川能源核产业有限公司正式揭牌，核心业务就是聚焦 先进微型核反应堆 的技术研发与产业化，标志着我国微堆技术正式从实验室走向工程化应用的新阶段。 IT之家从报道中获悉，微型核反应堆是一种电功率不超过 10 兆瓦的先进核能装置。与传统核电站不同，它并非简单地将大型反应堆缩小，而是一种从设计之初就追求 固有安全、极致小巧 的全新核能装置。 中国核动力研究设计院副总工程师崔怀明介绍， 微堆堆芯大小与家用冰箱相近 ，两三个集装箱就能装入整个发电系统，无论是地上的卡车、天上的飞机，还是海里的轮船，都能运输。 中国核动力研究设计院在全球首",
+   "published_at": 1792560168.0,
+   "published_bj": "2026-10-21 13:22"
+  },
+  {
+   "id": "1146ef71a395fc28",
+   "source": "cnBeta",
+   "title": "YouTube测试隐藏“踩”按钮 用户未来或需进入菜单才能给差评",
+   "url": "https://www.cnbeta.com.tw/articles/movie/1583158.htm",
+   "summary": "视频平台YouTube正在测试一项新的界面调整，可能进一步降低用户使用“踩”（Dislike）按钮的频率。根据部分用户近期反馈，在测试版本中，原本与“点赞”按钮并列显示的“踩”按钮被移动到了视频界面的三点菜单之内。 阅读全文",
+   "published_at": 1792560163.0,
+   "published_bj": "2026-10-21 13:22"
+  },
+  {
+   "id": "224fe37c7e8a65c9",
+   "source": "IT之家",
+   "title": "中国电信孵化的具身公司“伽马智能”成立，推进人形机器人“自进化”",
+   "url": "https://www.ithome.com/1/015/807.htm",
+   "summary": "IT之家 10 月 21 日消息，中国电信人工智能研究院（TeleAI）10 月 20 日官宣，具身智能公司“伽马智能（Gamma Robtics）”近日在上海市徐汇区注册成立。 该公司是 TeleAI 孵化的首个市场化创新企业 ，聚焦自进化人形机器人全模型创新及应用，并将与 TeleAI 共建人形机器人实验室，联合推动科研成果转化为面向产业真实场景的产品与服务。 伽马智能由 中电信（上海）人工智能产业私募基金 进行战略投资，中国电信集团 CTO、首席科学家、中国电信人工智能研究院（TeleAI）院长李学龙教授出任科学顾问，白辰甲博士任创始人及首席执行官。 IT之家查询发现，中电信（上海）人工",
+   "published_at": 1792559928.0,
+   "published_bj": "2026-10-21 13:18"
+  },
+  {
+   "id": "b8a445a6cc0133da",
+   "source": "cnBeta",
+   "title": "Anthropic提交AI安全法案草案 提议高风险模型可被法院叫停",
+   "url": "https://www.cnbeta.com.tw/articles/tech/1583156.htm",
+   "summary": "人工智能公司Anthropic近日向美国国会议员私下提交了一份人工智能安全法案草案，试图为先进AI模型建立联邦层面的监管框架。根据提案内容，如果某个AI模型被认定存在可预见且迫在眉睫的灾难性风险，可能导致超过50人死亡或重伤，或者造成超过10亿美元财产损失，其发布和使用有可能被阻止。 阅读全文",
+   "published_at": 1792559467.0,
+   "published_bj": "2026-10-21 13:11"
+  },
+  {
+   "id": "b1d991c389578d08",
+   "source": "cnBeta",
+   "title": "NASA罗曼太空望远镜成像性能超预期近30% 微调一面镜子便让宇宙图像更加清晰",
+   "url": "https://www.cnbeta.com.tw/articles/science/1583154.htm",
+   "summary": "美国国家航空航天局（NASA）研制的南希·格雷斯·罗曼太空望远镜（Nancy Grace Roman Space Telescope）在完成一系列在轨测试与精密校准后，展现出了超出预期的光学性能。工程团队通过对望远镜光学系统进行微小调整，使其主要科学仪器的成像性能比原先预期高出近30%。 阅读全文",
+   "published_at": 1792559441.0,
+   "published_bj": "2026-10-21 13:10"
+  },
+  {
+   "id": "ecaade04a0e4245c",
+   "source": "cnBeta",
+   "title": "伊拉克洞穴发现7.5万年前尼安德特人骨骼 肩胛穿孔或指向木矛的致命一击",
+   "url": "https://www.cnbeta.com.tw/articles/science/1583152.htm",
+   "summary": "剑桥大学团队在伊拉克库尔德斯坦的沙尼达尔洞穴发现一名约45岁尼安德特人的部分遗骸，并将其命名为“Shanidar A”。研究人员在其左侧肩胛骨上发现一个直径约15毫米的圆形穿孔。骨缘斜切形态、周围骨折和微型CT扫描显示，这处创伤发生在临死前后，而不是埋藏后由植物根系或动物活动造成。 阅读全文",
+   "published_at": 1792559403.0,
+   "published_bj": "2026-10-21 13:10"
+  },
+  {
    "id": "afde13d2f2c12125",
    "source": "IT之家",
    "title": "盘点 SpaceX 三季报电话会要点：明年剑指 5000 亿美元收入、酝酿合并特斯拉、马斯克每周 4 天泡在孟菲斯",
@@ -76,12 +220,30 @@
    "published_bj": "2026-10-21 13:08"
   },
   {
+   "id": "a8c710f342792b07",
+   "source": "Hacker News",
+   "title": "Pillowfort Is Closing",
+   "url": "https://www.pillowfort.social/posts/8413273",
+   "summary": "Article URL: https://www.pillowfort.social/posts/8413273 Comments URL: https://news.ycombinator.com/item?id=50176301 Points: 12 # Comments: 4",
+   "published_at": 1792559137.0,
+   "published_bj": "2026-10-21 13:05"
+  },
+  {
    "id": "f6feefbf83acdbe8",
    "source": "cnBeta",
    "title": "研究发现汽车最大安全隐患已转向云端 黑客或无需接触车辆即可获取敏感数据",
    "url": "https://www.cnbeta.com.tw/articles/tech/1583150.htm",
    "summary": "随着汽车日益向联网化和智能化发展，车辆面临的网络安全风险正在发生重大变化。最新研究显示，现代汽车最薄弱的安全环节越来越不在车辆本身，而是存在于与汽车相连的应用程序、网站和云服务之中。 阅读全文",
    "published_at": 1792559120.0,
+   "published_bj": "2026-10-21 13:05"
+  },
+  {
+   "id": "90dbdbd7e936fbf7",
+   "source": "Hacker News",
+   "title": "Battlezone Online: BZFlag in the Browser",
+   "url": "https://github.com/timriker/bzo",
+   "summary": "Article URL: https://github.com/timriker/bzo Comments URL: https://news.ycombinator.com/item?id=50176298 Points: 7 # Comments: 2",
+   "published_at": 1792559119.0,
    "published_bj": "2026-10-21 13:05"
   },
   {
@@ -202,6 +364,24 @@
    "published_bj": "2026-10-21 12:37"
   },
   {
+   "id": "eb0fa11e86b21648",
+   "source": "Hacker News",
+   "title": "Nexus-CLI – Pure Go Bridge to DeepSeek R1/V3 with Claude Code and Ollama Support",
+   "url": "https://github.com/xamrayev/nexus-cli",
+   "summary": "Article URL: https://github.com/xamrayev/nexus-cli Comments URL: https://news.ycombinator.com/item?id=50176129 Points: 5 # Comments: 0",
+   "published_at": 1792557438.0,
+   "published_bj": "2026-10-21 12:37"
+  },
+  {
+   "id": "34ebc09a32e65b4a",
+   "source": "Hacker News",
+   "title": "Major PHP Vulnerability Leaked",
+   "url": "https://jackalsyn.com/posts/php-up-2026.html",
+   "summary": "Article URL: https://jackalsyn.com/posts/php-up-2026.html Comments URL: https://news.ycombinator.com/item?id=50176077 Points: 93 # Comments: 25",
+   "published_at": 1792556816.0,
+   "published_bj": "2026-10-21 12:26"
+  },
+  {
    "id": "2f65500531a36bb6",
    "source": "IT之家",
    "title": "又一次海上发射，谷神星一号海射型遥八运载火箭发射成功",
@@ -238,6 +418,15 @@
    "published_bj": "2026-10-21 11:57"
   },
   {
+   "id": "557a8b7d8abec1eb",
+   "source": "Hacker News",
+   "title": "Setting Up SSH Keys on macOS with Touch ID",
+   "url": "https://nmattia.com/posts/2026-10-19-setting-up-ssh-keys-touch-id/",
+   "summary": "Article URL: https://nmattia.com/posts/2026-10-19-setting-up-ssh-keys-touch-id/ Comments URL: https://news.ycombinator.com/item?id=50175882 Points: 10 # Comments: 3",
+   "published_at": 1792554685.0,
+   "published_bj": "2026-10-21 11:51"
+  },
+  {
    "id": "3adea33318800056",
    "source": "IT之家",
    "title": "松下加速光伏建材商业进程，2029 年 4 月量产玻璃型钙钛矿太阳能电池",
@@ -263,6 +452,15 @@
    "summary": "IT之家 10 月 21 日消息，汽车媒体 CarBuzz 昨日（10 月 20 日）发布博文，报道称梅赛德斯-AMG 正为其首批高性能电动车打造新的声浪系统， 但因为高低等级配置而引发媒体和车主的争议。 在即将推出的 AMG GT SUV 与 GT 四门轿跑上，梅赛德斯-AMG 为弥补电动车缺少内燃机轰鸣的体验，计划引入名为 AMGForce Sport+ 的模拟声浪与换挡体感系统， 不过会按车型“分层定制”。 具体而言，入门版 GT 53 采用双电机、536 马力， 模拟 AMG 调校的直列六缸发动机声浪 ；而定位更高的 GT 55 和 GT 63 分别拥有 805 马力和 1153 马力",
    "published_at": 1792554283.0,
    "published_bj": "2026-10-21 11:44"
+  },
+  {
+   "id": "8f3ab273ed26f797",
+   "source": "Hacker News",
+   "title": "Using Claude to reduce the attack surface of code",
+   "url": "https://www.anthropic.com/research/attack-surface-reduction",
+   "summary": "Article URL: https://www.anthropic.com/research/attack-surface-reduction Comments URL: https://news.ycombinator.com/item?id=50175779 Points: 6 # Comments: 0",
+   "published_at": 1792553803.0,
+   "published_bj": "2026-10-21 11:36"
   },
   {
    "id": "093b0d075ddf28b1",
