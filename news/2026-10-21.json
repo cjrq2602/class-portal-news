@@ -1,8 +1,26 @@
 {
  "date": "2026-10-21",
- "generated_at": 1792549500.645842,
- "count": 123,
+ "generated_at": 1792552190.7232046,
+ "count": 141,
  "items": [
+  {
+   "id": "8200e896925b98d4",
+   "source": "InfoQ中文",
+   "title": "AI 能否取代渗透测试？Cloudflare 的答案是：必须套上测试框架",
+   "url": "https://www.infoq.cn/article/R2z2kCkRHhXwGqDZeMKN?utm_source=rss&utm_medium=article",
+   "summary": "点击查看原文>",
+   "published_at": 1792580400.0,
+   "published_bj": "2026-10-21 19:00"
+  },
+  {
+   "id": "8c0d19e42d2c858d",
+   "source": "InfoQ中文",
+   "title": "720P 直升 8K，解密 2026 抖音美好奇妙夜巨幕超分黑科技",
+   "url": "https://www.infoq.cn/article/2wtRouOh1O69dLA8f4Vm?utm_source=rss&utm_medium=article",
+   "summary": "点击查看原文>",
+   "published_at": 1792578262.0,
+   "published_bj": "2026-10-21 18:24"
+  },
   {
    "id": "346958d22e3355be",
    "source": "InfoQ中文",
@@ -20,6 +38,114 @@
    "summary": "点击查看原文>",
    "published_at": 1792574460.0,
    "published_bj": "2026-10-21 17:21"
+  },
+  {
+   "id": "877a44eb35a5353e",
+   "source": "IT之家",
+   "title": "消息称微软 XBOX 酝酿 Game Pass 游戏订阅“模块化”改革",
+   "url": "https://www.ithome.com/1/015/722.htm",
+   "summary": "IT之家 10 月 21 日消息，《财富》在当地时间 20 日的一篇报道中表示，Microsoft（微软）XBOX 计划对其订阅制服务 Game Pass 进行重大改革。 现有的 XBOX Game Pass 采用简单分级模式，每个级别捆绑了一系列相对固定的服务。而新版 Game Pass 在延续分级的同时采用“模块化”设计， 允许用户按需组合各项功能 （如主机独占游戏的附加内容、云游戏、多人游戏）。 报道提到，XBOX 下一代游戏主机硬件 \"Project Helix\" 的工程交付期限至少提前了数月 ，这给开发团队带来了更大的压力； XBOX 部门利润率仅为 3% 左右 ，显著低于竞争对手和",
+   "published_at": 1792552001.0,
+   "published_bj": "2026-10-21 11:06"
+  },
+  {
+   "id": "0bdc616f4ce4ebee",
+   "source": "IT之家",
+   "title": "腾讯云宣布元宝搜索对外开放：已构建千亿级索引规模，定价每千次 14 元起",
+   "url": "https://www.ithome.com/1/015/711.htm",
+   "summary": "IT之家 10 月 21 日消息，腾讯云 10 月 20 日宣布， 元宝搜索 正式通过腾讯云对外开放。 腾讯云介绍称，过去一年，元宝持续打磨搜索体验与效率，整合全网公开资源和腾讯优质内容，将大模型技术应用于内容收录、理解与检索全链路，构建面向大模型和 Agent 的搜索引擎。 目前， 元宝搜索构建了千亿级的索引规模，日均调用量达数亿次 ，全面支撑了 WorkBuddy、ima、腾讯金融科技、腾讯视频等 50 多个核心业务的搜索服务。 WorkBuddy：检索技术文档、官方 API 等一手资料，减少工具调用和模型轮次 ima：结合知识库与公网信息，有效信源召回量提升约 10% 腾讯视频：支持根据",
+   "published_at": 1792551653.0,
+   "published_bj": "2026-10-21 11:00"
+  },
+  {
+   "id": "83017ea2a6442ec4",
+   "source": "IT之家",
+   "title": "OpenAI CEO 奥尔特曼被妹妹指控性虐待，案件遭法官驳回",
+   "url": "https://www.ithome.com/1/015/710.htm",
+   "summary": "IT之家 10 月 21 日消息，美国地区法官扎卡里・布卢斯通（Zachary Bluestone）于当地时间周二驳回了安・奥尔特曼（Ann Altman）去年提起的诉讼。 安指控其兄长、OpenAI 首席执行官萨姆・奥尔特曼（Sam Altman）在她童年时期长期对她实施性虐待。《卫报》此前报道，法官在文书中写道，过去一年间，安未能出席独立医学检查，也没能遵守其他期限要求，尽管法院已警告过，此类行为会导致案件被驳回。 IT之家注意到，案件去年立案时，萨姆・奥尔特曼、他们的母亲以及几位兄弟曾共同发表声明：“安妮对我们家人，尤其是萨姆，提出了极具伤害性且完全不实的指控…… 所有这些说法纯属捏造。",
+   "published_at": 1792551494.0,
+   "published_bj": "2026-10-21 10:58"
+  },
+  {
+   "id": "31c2d1bdd1f0c92e",
+   "source": "IT之家",
+   "title": "小米 MiMo-V2.5-Pro 模型今日下线，替换为 V2.6-Pro 后将支持多模态理解",
+   "url": "https://www.ithome.com/1/015/709.htm",
+   "summary": "IT之家 10 月 21 日消息，据小米 MiMo 文档公布，随着 MiMo 模型的持续迭代，新版本在效果与性能上已全面超越旧版本，mimo-v2.5-pro / mimo-v2.5 模型已于今天（21 日）上午 10 时正式下线。 下线模型 下线时间 系统替换时间 系统替换模型 替换影响 mimo-v2.5-pro 2026.10.21 10:00（UTC+8） 2026.10.14 18:00（UTC+8） mimo-v2.6-pro API 参数完全适配，mimo-v2.5-pro 仅支持文本输入，替换为 mimo-v2.6-pro 后 将支持多模态理解 mimo-v2.5 2026.1",
+   "published_at": 1792551337.0,
+   "published_bj": "2026-10-21 10:55"
+  },
+  {
+   "id": "f67086861447dd77",
+   "source": "IT之家",
+   "title": "微软为 Win11 补齐 Win10 任务栏体验：右键可切换贴靠，但拖拽等功能尚未支持",
+   "url": "https://www.ithome.com/1/015/708.htm",
+   "summary": "IT之家 10 月 21 日消息，科技媒体 Windows Latest 今天（10 月 21 日）发布博文，报道称在 Windows 11 Build 26340.9750 预览版中， 微软正在测试新的任务栏右键菜单，让用户无需进入设置应用，即可切换任务栏的四边贴靠。 微软 Windows 11 系统目前虽然支持四边贴靠，但在操作过程中，用户必须进入到设置应用中才能切换，在桌面任务栏中只有“任务管理器”和“任务栏设置”两个选项。 而在 Windows 11 最新预览版中，微软正在测试新的任务栏右键菜单功能，包含“左、上、右、下”四个按钮，快速将任务栏移动到屏幕任意边缘。 据 Windows ",
+   "published_at": 1792551299.0,
+   "published_bj": "2026-10-21 10:54"
+  },
+  {
+   "id": "ffe12db4431bbf90",
+   "source": "IT之家",
+   "title": "消息称微软 XBOX 计划再进行三轮裁员",
+   "url": "https://www.ithome.com/1/015/707.htm",
+   "summary": "IT之家 10 月 21 日消息，据《财富》杂志 20 日报道，微软 XBOX CEO 阿莎 · 夏尔马计划在 今年 10 月、11 月和明年 1 月 继续裁员。 今年 7 月，夏尔马宣布重组 XBOX 业务，计划在微软 2027 财年内裁减 3200 人，其中 1600 人于当月离职。9 月，微软又裁员约 260 人。夏尔马还推动 Double Fine 和 Compulsion Games 两家游戏工作室重新独立运营，《塞娜》系列开发商忍者理论工作室则可能面临关停命运。 报道还提到 XBOX 可能被拆分或出售的传闻。对此，微软商业业务 CEO 贾德森 · 阿尔托夫试图淡化外界猜测：“阿莎是",
+   "published_at": 1792550934.0,
+   "published_bj": "2026-10-21 10:48"
+  },
+  {
+   "id": "8cbfa5f54a3360a9",
+   "source": "IT之家",
+   "title": "马斯克放话：SpaceX“筷子接火箭”下月首次挑战星舰 / 助推器双回收",
+   "url": "https://www.ithome.com/1/015/706.htm",
+   "summary": "IT之家 10 月 21 日消息，在 SpaceX 第三季度财报电话会议上，公司首席执行官埃隆 · 马斯克（Elon Musk）表示，公司将于下个月尝试回收星舰（Starship）及其超重型助推器， 目标是首次完整回收整个轨道发射系统。 他称，如果成功，这将是历史上首次完整回收轨道运载火箭， 并称之为“文明意识史上一个意义深远的技术里程碑” 。马斯克同时坦承，首次尝试并不保证成功。 他表示，下一次飞行成功的可能性“大于失败”，即便未能成功，SpaceX 也将在今年年底前继续进行星舰试飞，并在明年加快发射节奏。 IT之家注：星舰是 SpaceX 的两级重型运载系统，由第一级“超重型”助推器和第二",
+   "published_at": 1792550636.0,
+   "published_bj": "2026-10-21 10:43"
+  },
+  {
+   "id": "b1675e1ba1e43b45",
+   "source": "IT之家",
+   "title": "八位堂《战争机器：事变日》限定版键鼠预售，套装价 859 元",
+   "url": "https://www.ithome.com/1/015/705.htm",
+   "summary": "IT之家 10 月 21 日消息，八位堂 (8BitDo) 现已启动《战争机器：事变日》限定版 - 专为 XBOX 设计 Retro 87 机械键盘、Retro R8 鼠标的预售，键盘单品到手价 599 元、鼠标单品到手价 299 元、键鼠套装到手价 859 元。 天猫 八位堂《战争机器：事变日》 键盘 599 元 直达链接 天猫 八位堂《战争机器：事变日》鼠标 299 元 直达链接 这两款外设以《战争机器：事变日》的战火世界为灵感， 将“事变日”的视觉元素融入设计 。其以黑-红为主色调，键盘大面积配备红色半透明键帽，装饰以破碎的大地、COG 标志等标志性的战场元素。 京东 11.11 无门槛",
+   "published_at": 1792550475.0,
+   "published_bj": "2026-10-21 10:41"
+  },
+  {
+   "id": "df8d96890c1439b8",
+   "source": "IT之家",
+   "title": "Momenta 曹旭东：2028 年有望迎来 L4 自动驾驶规模化拐点",
+   "url": "https://www.ithome.com/1/015/704.htm",
+   "summary": "IT之家 10 月 21 日消息，据新华网报道，在本周的 2026 物理 AI 与世界模型大会上，Momenta CEO 曹旭东指出世界模型正加速智驾摩尔定律， 预判 2028 年将成为 L4 规模化落地的重要拐点 。 曹旭东将智驾安全性与性能每两年提升十倍的趋势概括为“ 智驾摩尔定律 ”，并判断 2026 年至 2028 年，头部企业有望实现相关指标每年提升十倍。 曹旭东认为，世界模型、数据规模（Data Scaling）和模型规模（Model Scaling）的持续扩展是主要驱动力。 IT之家从报道获悉，截至目前，Momenta 累计量产交付超过 130 万台，累计行驶里程接近 200 亿",
+   "published_at": 1792550466.0,
+   "published_bj": "2026-10-21 10:41"
+  },
+  {
+   "id": "c9a96de14ed3560d",
+   "source": "IT之家",
+   "title": "消息称亚马逊 AWS 面临数据中心供电瓶颈，AI 算力机架无法按时启用",
+   "url": "https://www.ithome.com/1/015/702.htm",
+   "summary": "IT之家 10 月 21 日消息，外媒 Business Inside 北京时间本月 19 日报道称，亚马逊云科技 (AWS) 旗下部分数据中心面临供电能力瓶颈，导致 订购的机架级 AI 算力系统无法按时启用 。 AWS 在今年 8 月预计，其每个月将收到价值 30 亿美元 （IT之家注：现汇率约合 200.74 亿元人民币） 左右的机架。知情人士透露， 其中部分设备因供电不足只能暂时存放在临时仓库 。AWS 正密切监控其数据中心供电进程，综合各种手段加速电力就绪。 AWS 还调整了其“货到付款”的惯例， 在供应链的早期阶段就取得机架的所有权 。这有利于 AWS 确保算力资源的供应，但也意味着",
+   "published_at": 1792549903.0,
+   "published_bj": "2026-10-21 10:31"
+  },
+  {
+   "id": "925bb8d0b88c9239",
+   "source": "IT之家",
+   "title": "法拉利 CEO 维尼亚盛赞特斯拉 Roadster 设计：行业正需要这种大胆创新",
+   "url": "https://www.ithome.com/1/015/701.htm",
+   "summary": "IT之家 10 月 21 日消息，据路透社 20 日报道，法拉利 CEO 贝内代托 · 维尼亚对特斯拉新款 Roadster 跑车的发布会给予了高度赞赏：新车的设计，证明了即使在成熟的汽车市场，仍然可以大胆创新。 特斯拉上周发布了重新设计的 Roadster，展示了新车借助 源自 SpaceX 技术的推进器 完成腾空等特技动作的能力，新车计划于 2028 年投产。 据IT之家了解，资本市场对 Roadster 的反应不一。特斯拉股价起初上涨，但分析师指出，考虑到该项目多年来反复延期，新车距离正式交付 仍有很长一段时间 。 法拉利同样面临着消除外界疑虑的挑战。今年 5 月，法拉利发布品牌首款纯电",
+   "published_at": 1792549576.0,
+   "published_bj": "2026-10-21 10:26"
+  },
+  {
+   "id": "b90f6273daf80fe5",
+   "source": "IT之家",
+   "title": "数字人民币基础设施服务体系全面升级",
+   "url": "https://www.ithome.com/1/015/699.htm",
+   "summary": "IT之家 10 月 21 日消息，据央视新闻报道，数字人民币运营管理中心今日（10 月 21 日）对外公布数字人民币基础设施服务体系，推出 央行端数字人民币系统（DCEPS）、数字人民币智能合约生态服务框架（e-CNY SMART Contract） 两大核心成果。 中国人民银行行长潘功胜在本周的 2026 金融街论坛年会上发言称，今年初，人民银行平稳切换了数字人民币新计量框架， 数字人民币定位由现金切换为存款货币 。 潘功胜还表示，去年在北京设立的数字人民币运营管理中心已全面投入运营，成为集发行管理、零售、批发、区块链、智能合约等服务为一体的综合性数字人民币业务平台。 数字人民币业务运营机构",
+   "published_at": 1792549563.0,
+   "published_bj": "2026-10-21 10:26"
   },
   {
    "id": "a8bc0d0f5336836a",
@@ -85,6 +211,15 @@
    "published_bj": "2026-10-21 10:05"
   },
   {
+   "id": "f5368c7975873b04",
+   "source": "Hacker News",
+   "title": "In Hilbert space, all things are quantumly possible",
+   "url": "https://www.quantamagazine.org/in-hilbert-space-all-things-are-quantumly-possible-20260826/",
+   "summary": "Article URL: https://www.quantamagazine.org/in-hilbert-space-all-things-are-quantumly-possible-20260826/ Comments URL: https://news.ycombinator.com/item?id=50175185 Points: 15 # Comments: 2",
+   "published_at": 1792548255.0,
+   "published_bj": "2026-10-21 10:04"
+  },
+  {
    "id": "80a9a1be10367c86",
    "source": "IT之家",
    "title": "引入新世代设计，宝马 iX7 纯电旗舰 SUV 最新谍照曝光",
@@ -146,6 +281,15 @@
    "summary": "Article URL: https://git.cafe/pingdotgg/t3code Comments URL: https://news.ycombinator.com/item?id=50175075 Points: 7 # Comments: 5",
    "published_at": 1792547302.0,
    "published_bj": "2026-10-21 09:48"
+  },
+  {
+   "id": "ad9a65dda90cf698",
+   "source": "Hacker News",
+   "title": "The Future of CSS",
+   "url": "https://www.joshwcomeau.com/css/interop-2027/",
+   "summary": "Article URL: https://www.joshwcomeau.com/css/interop-2027/ Comments URL: https://news.ycombinator.com/item?id=50175070 Points: 25 # Comments: 1",
+   "published_at": 1792547248.0,
+   "published_bj": "2026-10-21 09:47"
   },
   {
    "id": "12d440a78fdfe769",
@@ -508,6 +652,15 @@
    "published_bj": "2026-10-21 07:56"
   },
   {
+   "id": "588502cc91bbe5f7",
+   "source": "Hacker News",
+   "title": "LabRobotBench v0.1: Benchmarking wet lab robotics",
+   "url": "https://gamowlabs.com/lab-robot-bench-v0-1",
+   "summary": "Article URL: https://gamowlabs.com/lab-robot-bench-v0-1 Comments URL: https://news.ycombinator.com/item?id=50174317 Points: 11 # Comments: 1",
+   "published_at": 1792540503.0,
+   "published_bj": "2026-10-21 07:55"
+  },
+  {
    "id": "e03470d67859ac2b",
    "source": "IT之家",
    "title": "IT早报 1021：曝苹果锁定台积电 1.4nm 产能；官方定调 L2 级智驾禁用“小蓝灯”；小天才封闭社交倒逼家长购买冲上热搜；6.59 万元起比亚迪第二代海鸥上市...",
@@ -677,6 +830,15 @@
    "summary": "IT之家 10 月 21 日消息，OpenAI 于当地时间周二宣布，收购成立四年的人工智能生物科技软件初创企业 Orchestra Bio，相关消息由该公司在官网发布。本次交易的具体条款并未对外披露，但有报道称，截至 2025 年，这家初创公司已从安德里森 · 霍罗威茨（Andreessen Horowitz）、阿特里亚（Atria）和 8VC 等投资方筹集约 2,000 万美元 （IT之家注：现汇率约合 1.34 亿元人民币） 资金。 Orchestra Bio 开发 AI 智能体，助力生物科技企业管理药物研发业务中的各类细碎工作，涵盖资金追踪，以及解决临床试验的排期问题。 OpenAI 表",
    "published_at": 1792536671.0,
    "published_bj": "2026-10-21 06:51"
+  },
+  {
+   "id": "c54abd86ccd6496a",
+   "source": "Hacker News",
+   "title": "PingCap TiDB Leaks",
+   "url": "https://fulcrumsec.vg/pingcap/",
+   "summary": "Article URL: https://fulcrumsec.vg/pingcap/ Comments URL: https://news.ycombinator.com/item?id=50173716 Points: 32 # Comments: 3",
+   "published_at": 1792536339.0,
+   "published_bj": "2026-10-21 06:45"
   },
   {
    "id": "5cb86e11ca0f5c5c",
