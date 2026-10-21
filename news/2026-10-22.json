@@ -1,8 +1,17 @@
 {
  "date": "2026-10-22",
- "generated_at": 1792573092.0720701,
- "count": 2,
+ "generated_at": 1792575159.3775244,
+ "count": 3,
  "items": [
+  {
+   "id": "7a71d53c456e7b62",
+   "source": "InfoQ中文",
+   "title": "对象存储正在“吃掉”Kafka？Cloudflare 用 R2 重做事件流",
+   "url": "https://www.infoq.cn/article/hEHy8XHKyfwKuyIhpyFe?utm_source=rss&utm_medium=article",
+   "summary": "点击查看原文>",
+   "published_at": 1792602720.0,
+   "published_bj": "2026-10-22 01:12"
+  },
   {
    "id": "85af0030cbaa622c",
    "source": "InfoQ中文",
