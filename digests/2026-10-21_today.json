@@ -1,0 +1,378 @@
+{
+ "type": "today",
+ "date": "2026-10-21",
+ "window": {
+  "start_ts": 1792512000.0,
+  "end_ts": 1792544400.0
+ },
+ "generated_at": 1792546300.0763533,
+ "generator": "action",
+ "news_count": 84,
+ "keywords": [
+  "ai",
+  "to",
+  "美元",
+  "spacex",
+  "亿美",
+  "openai",
+  "in",
+  "苹果",
+  "google",
+  "ceo"
+ ],
+ "points": [
+  {
+   "text": "【ai】Perplexity宣布，Mac版Perplexity应用现已支持让Computer代理完全在本机运行",
+   "keyword": "ai",
+   "news_ids": [
+    "d543ffc6b820a955"
+   ],
+   "refs": [
+    {
+     "id": "d543ffc6b820a955",
+     "title": "Perplexity Computer新增Mac本地运行模式 AI任务可留在设备端处理",
+     "source": "cnBeta",
+     "url": "https://www.cnbeta.com.tw/articles/tech/1583130.htm",
+     "published_at": 1792535503.0
+    }
+   ]
+  },
+  {
+   "text": "【ai】IT之家 10 月 21 日消息，Salesforce 将收购 Braze，交易估值约 56.6 亿美元 （IT之家注：现汇率约合 378.73",
+   "keyword": "ai",
+   "news_ids": [
+    "dc02b95ff2a0ae0f"
+   ],
+   "refs": [
+    {
+     "id": "dc02b95ff2a0ae0f",
+     "title": "持续加码 AI，Salesforce 宣布以约 56.6 亿美元收购 AI 企业 Braze",
+     "source": "IT之家",
+     "url": "https://www.ithome.com/1/015/643.htm",
+     "published_at": 1792542199.0
+    }
+   ]
+  },
+  {
+   "text": "【ai】Google is bringing Gemini's Personal Intelligence feature to cars, allow",
+   "keyword": "ai",
+   "news_ids": [
+    "f2cb82a86cdcc4f9"
+   ],
+   "refs": [
+    {
+     "id": "f2cb82a86cdcc4f9",
+     "title": "Google is bringing a more personal version of its Gemini AI assistant to your car",
+     "source": "TechCrunch",
+     "url": "https://techcrunch.com/2026/10/20/google-is-bringing-a-more-personal-version-of-its-gemini-ai-assistant-to-your-car/",
+     "published_at": 1792526400.0
+    }
+   ]
+  },
+  {
+   "text": "【to】IT之家 10 月 21 日消息，当地时间 10 月 20 日，埃隆 · 马斯克在社交平台发文称，“尽管这听起来很疯狂，但 SpaceX 在 2",
+   "keyword": "to",
+   "news_ids": [
+    "dbf0842ae470268c"
+   ],
+   "refs": [
+    {
+     "id": "dbf0842ae470268c",
+     "title": "马斯克：SpaceX 可能在 2028 年实现 1 万亿美元营收",
+     "source": "IT之家",
+     "url": "https://www.ithome.com/1/015/634.htm",
+     "published_at": 1792539982.0
+    }
+   ]
+  },
+  {
+   "text": "【ai】The proposed policy seems to offer protections against AI run amok but a",
+   "keyword": "ai",
+   "news_ids": [
+    "49807ef57b232c94"
+   ],
+   "refs": [
+    {
+     "id": "49807ef57b232c94",
+     "title": "Anthropic pitches AI safety bill that may block a model if 50+ people could be killed",
+     "source": "TechCrunch",
+     "url": "https://techcrunch.com/2026/10/20/anthropic-pitches-ai-safety-bill-that-may-block-a-model-if-50-people-could-be-killed/",
+     "published_at": 1792537283.0
+    }
+   ]
+  },
+  {
+   "text": "【ai】SpaceX hit profitably in the third-quarter, with net income of $4",
+   "keyword": "ai",
+   "news_ids": [
+    "633ab207f6d12b7b"
+   ],
+   "refs": [
+    {
+     "id": "633ab207f6d12b7b",
+     "title": "SpaceX’s AI business is beating expectations",
+     "source": "TechCrunch",
+     "url": "https://techcrunch.com/2026/10/20/spacexs-ai-business-is-beating-expectations/",
+     "published_at": 1792528841.0
+    }
+   ]
+  },
+  {
+   "text": "IT之家 10 月 21 日消息，今天（21 日）上午，据蓝鲸汽车援引知情人士消息称，启境汽车目前已有规划换电新车型，“以启境和华为乾崑的合作深",
+   "keyword": "",
+   "news_ids": [
+    "90714486e8ae4783"
+   ],
+   "refs": [
+    {
+     "id": "90714486e8ae4783",
+     "title": "消息称启境汽车已有规划换电车型，将“率先落地”",
+     "source": "IT之家",
+     "url": "https://www.ithome.com/1/015/648.htm",
+     "published_at": 1792543896.0
+    }
+   ]
+  },
+  {
+   "text": "比 Opus 5.5 便宜 88 倍！MiniMax M3.1 Flash “杀“回王座，顺手拿了个 Agent 国模第一",
+   "keyword": "",
+   "news_ids": [
+    "7c2d40ad54458525"
+   ],
+   "refs": [
+    {
+     "id": "7c2d40ad54458525",
+     "title": "比 Opus 5.5 便宜 88 倍！MiniMax M3.1 Flash “杀“回王座，顺手拿了个 Agent 国模第一",
+     "source": "InfoQ中文",
+     "url": "https://www.infoq.cn/article/7Twa7KBWIzi8JGOdVwCK?utm_source=rss&utm_medium=article",
+     "published_at": 1792542408.0
+    }
+   ]
+  },
+  {
+   "text": "IT之家 10 月 21 日消息，美团昨天（20 日）在公众号发文宣布，“红灯停表”近期将在当地交管部门指导下在杭州落地， 骑手遇到红灯停下来，",
+   "keyword": "",
+   "news_ids": [
+    "d6e6fff5f41df258"
+   ],
+   "refs": [
+    {
+     "id": "d6e6fff5f41df258",
+     "title": "美团“红灯停表”近期将在杭州落地，骑手配送计时可跟着红灯暂停",
+     "source": "IT之家",
+     "url": "https://www.ithome.com/1/015/641.htm",
+     "published_at": 1792541704.0
+    }
+   ]
+  },
+  {
+   "text": "IT之家 10 月 21 日消息，轿跑 SUV 依然受到豪华 SUV 消费者的青睐，其兼顾传统 SUV 的实用性与更加流畅的车身造型，部分产品还",
+   "keyword": "",
+   "news_ids": [
+    "81c24c9e324454ff"
+   ],
+   "refs": [
+    {
+     "id": "81c24c9e324454ff",
+     "title": "奔驰看好轿跑 SUV：还有很多人喜欢它",
+     "source": "IT之家",
+     "url": "https://www.ithome.com/1/015/639.htm",
+     "published_at": 1792541079.0
+    }
+   ]
+  },
+  {
+   "text": "IT之家 10 月 21 日消息，科技媒体 gurufocus 昨日（10 月 20 日）发布博文， 报道称三星晶圆代工部门将扩展其 8 纳米工",
+   "keyword": "",
+   "news_ids": [
+    "ec6fa8322c8e5950"
+   ],
+   "refs": [
+    {
+     "id": "ec6fa8322c8e5950",
+     "title": "三星 8 纳米工艺“再活一届”：性能提升 12%、功耗降低 15%、芯片面积缩小 8%",
+     "source": "IT之家",
+     "url": "https://www.ithome.com/1/015/638.htm",
+     "published_at": 1792540831.0
+    }
+   ]
+  },
+  {
+   "text": "IT之家 10 月 21 日消息，Hydra 工具开发者 @1usmus 在社交平台回应网友时表示，一张 Cinebench 截图的“配色”暴露",
+   "keyword": "",
+   "news_ids": [
+    "7610aa9639b671e7"
+   ],
+   "refs": [
+    {
+     "id": "7610aa9639b671e7",
+     "title": "AMD Zen 6 又爆猛料：12 核多线程表现媲美现款 16 核旗舰处理器",
+     "source": "IT之家",
+     "url": "https://www.ithome.com/1/015/632.htm",
+     "published_at": 1792539381.0
+    }
+   ]
+  },
+  {
+   "text": "IT之家 10 月 21 日消息，随着部分消费者放弃纯电、转而选择混动车型，增程式电动车正逐渐受到市场青睐",
+   "keyword": "",
+   "news_ids": [
+    "f367a68e8b968d17"
+   ],
+   "refs": [
+    {
+     "id": "f367a68e8b968d17",
+     "title": "奔驰不看好增程车型：要续航可以选纯电，要发动机可以选插混",
+     "source": "IT之家",
+     "url": "https://www.ithome.com/1/015/630.htm",
+     "published_at": 1792539217.0
+    }
+   ]
+  },
+  {
+   "text": "IT之家 10 月 21 日消息，通用汽车（GM）发言人向科技博客 TechCrunch 证实，公司将关闭底特律南部的一处电池组装工厂",
+   "keyword": "",
+   "news_ids": [
+    "eee99fd7e4c18890"
+   ],
+   "refs": [
+    {
+     "id": "eee99fd7e4c18890",
+     "title": "通用汽车关闭底特律电池组装厂，因租约到期而非电动化战略调整",
+     "source": "IT之家",
+     "url": "https://www.ithome.com/1/015/624.htm",
+     "published_at": 1792537450.0
+    }
+   ]
+  },
+  {
+   "text": "Article URL: https://krebsonsecurity",
+   "keyword": "",
+   "news_ids": [
+    "2da3b972f7d7a1af"
+   ],
+   "refs": [
+    {
+     "id": "2da3b972f7d7a1af",
+     "title": "Feds Suspect Ransom Negotiator Ran ShinyHunters Extortion Site",
+     "source": "Hacker News",
+     "url": "https://krebsonsecurity.com/2026/10/feds-suspect-ransom-negotiator-ran-shinyhunters-extortion-site/",
+     "published_at": 1792534865.0
+    }
+   ]
+  }
+ ],
+ "article": {
+  "title": "2026-10-21 新闻总结",
+  "paragraphs": [
+   {
+    "kind": "lead",
+    "text": "今天共收录 84 条新闻，来自 6 家媒体。把标题放在一起看，讨论主要集中在 AI、升级 这几个方向上，其余消息更像是零散补充。"
+   },
+   {
+    "kind": "section",
+    "heading": "AI",
+    "text": "先看「AI」。Perplexity宣布，Mac版Perplexity应用现已支持让Computer代理完全在本机运行，另有 18 条消息指向同一话题。这条消息短期内的实际影响可能有限，但它指向的方向值得放进观察名单。",
+    "news_ids": [
+     "d543ffc6b820a955"
+    ],
+    "refs": [
+     {
+      "id": "d543ffc6b820a955",
+      "title": "Perplexity Computer新增Mac本地运行模式 AI任务可留在设备端处理",
+      "source": "cnBeta",
+      "url": "https://www.cnbeta.com.tw/articles/tech/1583130.htm",
+      "published_at": 1792535503.0
+     }
+    ]
+   },
+   {
+    "kind": "section",
+    "heading": "AI",
+    "text": "与此同时「AI」。IT之家 10 月 21 日消息，Salesforce 将收购 Braze，交易估值约 56.6 亿美元 （IT之家注：现汇率约合 378.73 亿元人民币） ，另有 17 条消息指向同一话题。资本动作往往领先产品一年，值得盯的不是金额，而是钱最后花向了算力、场景还是补贴。",
+    "news_ids": [
+     "dc02b95ff2a0ae0f"
+    ],
+    "refs": [
+     {
+      "id": "dc02b95ff2a0ae0f",
+      "title": "持续加码 AI，Salesforce 宣布以约 56.6 亿美元收购 AI 企业 Braze",
+      "source": "IT之家",
+      "url": "https://www.ithome.com/1/015/643.htm",
+      "published_at": 1792542199.0
+     }
+    ]
+   },
+   {
+    "kind": "section",
+    "heading": "AI",
+    "text": "另一个值得注意的方向是「AI」。Google is bringing Gemini's Personal Intelligence feature to cars, allowing its ，另有 15 条消息指向同一话题。这条消息短期内的实际影响可能有限，但它指向的方向值得放进观察名单。",
+    "news_ids": [
+     "f2cb82a86cdcc4f9"
+    ],
+    "refs": [
+     {
+      "id": "f2cb82a86cdcc4f9",
+      "title": "Google is bringing a more personal version of its Gemini AI assistant to your car",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/10/20/google-is-bringing-a-more-personal-version-of-its-gemini-ai-assistant-to-your-car/",
+      "published_at": 1792526400.0
+     }
+    ]
+   },
+   {
+    "kind": "section",
+    "heading": "营收",
+    "text": "相比之下「营收」。IT之家 10 月 21 日消息，当地时间 10 月 20 日，埃隆 · 马斯克在社交平台发文称，“尽管这听起来很疯狂，但 SpaceX 在 2028 年实现 ，另有 7 条消息指向同一话题。技术路线的胜负很少由一次发布会决定，接下来要看的是它能不能被更多团队低成本复用。",
+    "news_ids": [
+     "dbf0842ae470268c"
+    ],
+    "refs": [
+     {
+      "id": "dbf0842ae470268c",
+      "title": "马斯克：SpaceX 可能在 2028 年实现 1 万亿美元营收",
+      "source": "IT之家",
+      "url": "https://www.ithome.com/1/015/634.htm",
+      "published_at": 1792539982.0
+     }
+    ]
+   },
+   {
+    "kind": "glossary",
+    "items": [
+     {
+      "term": "Agent",
+      "desc": "智能体，能自己拆解任务、调用工具并连续执行的 AI 程序"
+     },
+     {
+      "term": "AI",
+      "desc": "人工智能，让机器完成识别、生成、判断等原本需要人做的任务"
+     },
+     {
+      "term": "IPO",
+      "desc": "首次公开募股，公司第一次把股票卖给公众并上市"
+     },
+     {
+      "term": "AGI",
+      "desc": "通用人工智能，指能在各类任务上都接近人类水平、而不是只擅长单一任务的 AI"
+     },
+     {
+      "term": "开源",
+      "desc": "源代码公开，允许他人查看、修改并再分发"
+     }
+    ]
+   },
+   {
+    "kind": "outlook",
+    "text": "把这几条放在一起看，最值得跟踪的是 AI 和 升级 两条线：一条决定技术能走多远，一条决定它多快能落到普通人的日常里。至于其他消息，可以先放进观察名单，等后续有更实的进展再判断。"
+   }
+  ],
+  "word_count": 698
+ },
+ "ai_enhanced": false,
+ "schema": 1,
+ "window_bj": {
+  "start": "2026-10-21 00:00",
+  "end": "2026-10-21 09:00"
+ }
+}
