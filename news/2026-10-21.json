@@ -1,6 +1,6 @@
 {
  "date": "2026-10-21",
- "generated_at": 1792593236.417519,
+ "generated_at": 1792595498.2922053,
  "count": 400,
  "items": [
   {
@@ -11,6 +11,33 @@
    "summary": "点击查看原文>",
    "published_at": 1792595981.0,
    "published_bj": "2026-10-21 23:19"
+  },
+  {
+   "id": "e11c2c05252f21b1",
+   "source": "IT之家",
+   "title": "腾讯内测 AI 互动社区“懂了鸭”：一句话生成可玩的动态课件与 3D 演示",
+   "url": "https://www.ithome.com/1/016/145.htm",
+   "summary": "IT之家 10 月 21 日消息，今日有用户反馈，腾讯正在内测一款面向少儿与青少年的 AI 互动内容社区“懂了鸭”，官方网站（ dongleya.qq.com ）与微信小程序均已上线，目前向亲子用户和一线教师开放小范围测试。 该产品的核心载体是“奇妙卡”，一种可拖拽、可模拟、可操作的交互式内容单元，家长、教师或知识创作者输入自然语言描述，即可借助内置 AI 智能体生成 3D 演示、动态课件、互动绘本、轻量游戏或记忆卡等作品，无需编程基础。用户既可以浏览社区中已有的奇妙卡作品，也可以对他人作品进行二次改编。 从公开信息看，懂了鸭在产品形态上尝试将“内容消费”与“内容生产”放在同一个社区内完成。首",
+   "published_at": 1792595422.0,
+   "published_bj": "2026-10-21 23:10"
+  },
+  {
+   "id": "4cbb732f0535be2f",
+   "source": "IT之家",
+   "title": "确认延期：华为鸿蒙 HarmonyOS 7 小艺 AI 快捷栏功能预计 11 月初分批推送",
+   "url": "https://www.ithome.com/1/016/144.htm",
+   "summary": "IT之家 10 月 21 日消息，在今年 9 月 7 日的 HarmonyOS 7 | HUAWEI Mate XT 2 及全场景新品发布会上，鸿蒙 7 操作系统正式发布。在发布会现场，华为还剧透了全新功能 —— 小艺 AI 快捷栏。官方 PPT 页面显示，该功能开启后，小艺将在手机桌面底部的 Dock 栏常驻。 本月早些时候，华为客户服务透露该功能预计在 10 月底逐步和大家见面。IT之家今日再次就该功能的上线时间进行了询问，对方表示： 该功能预计将在 11 月初逐步和大家见面 。届时会根据机型分批推送，请您留意系统更新提示。 据华为客户服务介绍，小艺 AI 快捷栏是 HarmonyOS 7",
+   "published_at": 1792595407.0,
+   "published_bj": "2026-10-21 23:10"
+  },
+  {
+   "id": "b0b998bfddc42118",
+   "source": "IT之家",
+   "title": "请立即更新：Node.js 发布最高严重级别高危安全更新",
+   "url": "https://www.ithome.com/1/016/143.htm",
+   "summary": "IT之家 10 月 21 日消息，开源 JavaScript 运行时环境 Node.js 今日针对 6.x 、 24.x 和 22.x 系列版本发布安全更新，修复 10 余个安全漏洞， 包含 4 个高危漏洞 。 IT之家附本次更新修复漏洞如下： dns.resolve 会截断包含 NUL 字符的域名（CVE-2026-105482）—— 高危 该漏洞影响 Node.js 26.x 、 24.x 和 22.x 。 感谢 hasanfleyah 的报告，并感谢 jasnell 修复该问题。 当 IP 地址使用全角数字表示时，可绕过 TLS 证书主机名验证（CVE-2026-105483）—— 高危",
+   "published_at": 1792595033.0,
+   "published_bj": "2026-10-21 23:03"
   },
   {
    "id": "ee42d31409f22815",
@@ -31,6 +58,60 @@
    "published_bj": "2026-10-21 22:52"
   },
   {
+   "id": "f32e63fea2020dba",
+   "source": "cnBeta",
+   "title": "经济学家估算《GTA6/侠盗猎车6》发售或致美国150万人缺勤",
+   "url": "https://www.cnbeta.com.tw/articles/game/1583252.htm",
+   "summary": "经济学家José García Montalvo估算，《GTA6/侠盗猎车6》发售当天可能有多达150万名美国员工为体验游戏而缺勤，生产力下降造成的潜在损失约为10亿美元。这项估算以2026年11月19日发售为前提，影响可能更多集中在18至30岁男性和科技行业。 阅读全文",
+   "published_at": 1792594339.0,
+   "published_bj": "2026-10-21 22:52"
+  },
+  {
+   "id": "59bf7ae4bd52a396",
+   "source": "IT之家",
+   "title": "《使命召唤：现代战争 4》主机版性能模式要求 120Hz+VRR 显示器，不支持则锁 60 帧",
+   "url": "https://www.ithome.com/1/016/142.htm",
+   "summary": "IT之家 10 月 21 日消息，使命召唤官方今天在 X 平台表示，《使命召唤：现代战争 4》主机版需使用刷新率至少 120Hz 且支持 VRR 的显示器，才能在战役模式和 DMZ 模式中启用性能模式，以 120Hz 高帧率运行。 官方表示，如果 PS5、XBOX Series X|S 玩家的显示器不支持 VRR，且没有高刷的话， 那么游戏在性能模式下最高帧率限制为 60Hz 。 该消息公布后引发玩家强烈不满。部分用户表示，他们的显示器已经是 120Hz 或更高刷新率，却因为不支持 VRR（IT之家注：可变刷新率）而无法开启高帧率模式。",
+   "published_at": 1792594152.0,
+   "published_bj": "2026-10-21 22:49"
+  },
+  {
+   "id": "271e099bcab9820f",
+   "source": "cnBeta",
+   "title": "英伟达发布DSX POD AI工厂现场部署最快从六个月缩短至14天",
+   "url": "https://www.cnbeta.com.tw/articles/tech/1583250.htm",
+   "summary": "10月21日，英伟达在GTC柏林大会上发布模块化AI工厂参考设计DSX POD。该方案由合作伙伴将Vera Rubin系统及配套基础设施预先集成到模块化集装箱中，在出厂前完成验证。英伟达称，在场地已完成准备的前提下，部署时间可从六个月缩短至最快14天。 阅读全文",
+   "published_at": 1792594016.0,
+   "published_bj": "2026-10-21 22:46"
+  },
+  {
+   "id": "106cfdb37dac5d5c",
+   "source": "cnBeta",
+   "title": "欧盟议员警告：马斯克旗下SpaceX的扩张野心可能对欧洲构成“危险”",
+   "url": "https://www.cnbeta.com.tw/articles/tech/1583248.htm",
+   "summary": "欧洲议会电信改革首席谈判代表表示，欧盟必须保护本土电信行业免受外国竞争对手的威胁。一名欧盟高级议员表示，欧盟必须确保正在推进的电信规则改革，不会让埃隆·马斯克（Elon Musk）旗下的SpaceX更容易控制欧洲移动通信和宽带电信市场。 阅读全文",
+   "published_at": 1792593861.0,
+   "published_bj": "2026-10-21 22:44"
+  },
+  {
+   "id": "56c76938545fd5e8",
+   "source": "IT之家",
+   "title": "宁德时代回应“投资者对明年行业需求担忧”：2027 年行业需求依旧可期，没有市场预期的那么悲观",
+   "url": "https://www.ithome.com/1/016/140.htm",
+   "summary": "IT之家 10 月 21 日消息，据证券时报今日报道，近期部分投资者对明年新能源行业需求有些担心。对此，宁德时代回应称，从公司角度看， 2027 年行业需求依旧可以期待 。 国内乘用车方面，尽管今年乘用车整体销量有所下降，但可以看到电动化率在快速提升，并且单车带电量有较快提升，所以国内新能源乘用车动力电池的增速依然实现了正增长。国内新能源商用车的电动化率也在快速提升；欧洲的电动化趋势具有连续性，不断有竞争力的新车型推出；其他市场的电动化潜力可能被市场低估。 储能方面，无论是国内还是海外都保持着不错的增速，特别是海外部分市场的储能需求比较旺盛。整体而言， 全球动力及储能电池的市场需求可能没有市场",
+   "published_at": 1792593804.0,
+   "published_bj": "2026-10-21 22:43"
+  },
+  {
+   "id": "8ba183a09e980f25",
+   "source": "cnBeta",
+   "title": "英伟达CEO黄仁勋：欧洲要想吃AI红利 全行业都该拥抱AI",
+   "url": "https://www.cnbeta.com.tw/articles/tech/1583246.htm",
+   "summary": "英伟达首席执行官黄仁勋呼吁欧洲加快人工智能落地。在不少投资者开始质疑算力基建巨额投入回报的背景下，他对AI前景保持乐观。这家总部位于加州圣克拉拉、芯片撑起本轮AI热潮的企业，在本次柏林大会上面向欧洲市场，发布了新的数据中心硬件、软件、模型，同时公布与当地龙头企业的合作。 阅读全文",
+   "published_at": 1792593765.0,
+   "published_bj": "2026-10-21 22:42"
+  },
+  {
    "id": "bc4a0bf150030985",
    "source": "InfoQ中文",
    "title": "17岁Kimi前研究员陈广宇被曝投奔Jeff Dean创业团队，新公司正寻求500亿美元估值",
@@ -38,6 +119,51 @@
    "summary": "点击查看原文>",
    "published_at": 1792593551.0,
    "published_bj": "2026-10-21 22:39"
+  },
+  {
+   "id": "859f89e7b8b9ebbc",
+   "source": "IT之家",
+   "title": "因安全问题，马来西亚禁止公务员使用 Waze 导航应用",
+   "url": "https://www.ithome.com/1/016/139.htm",
+   "summary": "IT之家 10 月 21 日消息，据路透社今天报道，马来西亚现已禁止公务员使用谷歌旗下导航应用程序 Waze。该国政府称 Waze 起源于以色列，存在安全隐患。 马来西亚总理安瓦尔 · 易卜拉欣今日表示， 政府已下令实施上述禁令 ，以保护用户个人数据。 该总理建议公务员改用马来西亚本土地图应用 TuJu 。 马来西亚政府首席秘书沙姆苏尔 · 阿兹里 · 阿布 · 巴卡尔表示，该国所有公务员都将被禁止使用 Waze。 截至IT之家发稿，Waze 母公司谷歌暂未回应置评请求。",
+   "published_at": 1792593539.0,
+   "published_bj": "2026-10-21 22:38"
+  },
+  {
+   "id": "c8b8e382bec8cb8a",
+   "source": "cnBeta",
+   "title": "Cloudflare提前部署PHP漏洞防护规则 但网站仍须尽快安装官方补丁",
+   "url": "https://www.cnbeta.com.tw/articles/tech/1583244.htm",
+   "summary": "全球云服务与网络安全公司Cloudflare于2026年10月21日宣布，已针对PHP编程语言中被称为“php2shell”的两项严重安全漏洞部署Web应用防火墙（WAF）防护规则。这两项漏洞的编号分别为CVE-2026-109618和CVE-2026-109619，可能导致拒绝服务、远程代码执行及敏感数据泄露。 阅读全文",
+   "published_at": 1792593521.0,
+   "published_bj": "2026-10-21 22:38"
+  },
+  {
+   "id": "d83c0e5deb953c36",
+   "source": "cnBeta",
+   "title": "OpenAI宣布利用先进AI发现PHP严重漏洞 联合全球安全机构展开紧急修复行动",
+   "url": "https://www.cnbeta.com.tw/articles/tech/1583242.htm",
+   "summary": "OpenAI于2026年10月21日发布公告，披露其参与发现并协调修复PHP编程语言两项严重安全漏洞的全过程。此次行动由OpenAI发起的“Patch the Planet”（修补整个互联网）计划推动，联合软件维护者、安全研究人员、云服务商及政府网络安全机构，共同降低漏洞对全球互联网基础设施造成的风险。 OpenAI表示，先进人工智能模型已经能够发现影响范围极广的软件安全缺陷，而如何将这些发现迅速转化为实际防护措施，正成为网络安全领域日益重要的课题。 阅读全文",
+   "published_at": 1792593443.0,
+   "published_bj": "2026-10-21 22:37"
+  },
+  {
+   "id": "119db74de69a4765",
+   "source": "IT之家",
+   "title": "黄仁勋发布 AI“预制工厂”DSX POD：最快 14 天部署投产，英伟达计划 2027 年初全球交付",
+   "url": "https://www.ithome.com/1/016/138.htm",
+   "summary": "IT之家 10 月 21 日消息，英伟达 CEO 黄仁勋今日在德国柏林举行的 GTC 大会上宣布推出模块化 AI 工厂参考设计 DSX POD，面向以 Vera Rubin 平台为核心的完整 AI 工厂系统。 英伟达表示，该方案将计算、网络、布线、机架供电、液冷管路安装及功能验证等工作提前转移至工厂完成，计划于 2027 年初通过合作伙伴在全球交付。 DSX POD 的核心思路是将 AI 基础设施预先集成到“模块化集装箱”中，并在发货前完成系统集成与验证。设备抵达部署现场后，客户只需将其接入已经准备就绪的电力、冷却、网络等配套设施，即可开展后续部署。 英伟达称，这种方式能够减少传统数据中心建设",
+   "published_at": 1792593379.0,
+   "published_bj": "2026-10-21 22:36"
+  },
+  {
+   "id": "f657e416177c7fd8",
+   "source": "cnBeta",
+   "title": "两项严重漏洞可导致服务器遭远程代码执行 PHP官方紧急发布安全补丁",
+   "url": "https://www.cnbeta.com.tw/articles/tech/1583240.htm",
+   "summary": "PHP开发团队于2026年10月21日正式发布紧急安全更新，修复两项严重安全漏洞。这两项漏洞分别编号为CVE-2026-109618和CVE-2026-109619，均被评定为严重级别，可能允许攻击者在无需登录的情况下远程执行代码。官方强烈建议所有PHP用户立即升级至修复版本，以避免服务器遭到攻击。 阅读全文",
+   "published_at": 1792593360.0,
+   "published_bj": "2026-10-21 22:36"
   },
   {
    "id": "1ef4bc4be27bed9f",
@@ -137,6 +263,15 @@
    "summary": "Article URL: https://duckdb.org/2026/10/21/announcing-duckdb-200 Comments URL: https://news.ycombinator.com/item?id=50181136 Points: 20 # Comments: 3",
    "published_at": 1792591282.0,
    "published_bj": "2026-10-21 22:01"
+  },
+  {
+   "id": "a2dd12b8d4b40788",
+   "source": "Hacker News",
+   "title": "Compromised LiteLLM 1.107.0 on PyPI Installs a Credential Stealer and Backdoor",
+   "url": "https://safedep.io/litellm-pypi-compromise-credential-stealer-backdoor/",
+   "summary": "Article URL: https://safedep.io/litellm-pypi-compromise-credential-stealer-backdoor/ Comments URL: https://news.ycombinator.com/item?id=50181114 Points: 13 # Comments: 2",
+   "published_at": 1792591226.0,
+   "published_bj": "2026-10-21 22:00"
   },
   {
    "id": "8858af1189f2dcb0",
@@ -389,6 +524,15 @@
    "summary": "IT之家 10 月 21 日消息，市场监管总局（国家标准委）今日发布《电动汽车动力蓄电池在役检测试验方法》（GB/T 48100—2026）。 该标准于 2026 年 8 月 28 日批准发布，将于 2027 年 3 月 1 日正式实施。标准适用于电动汽车在役动力蓄电池检测，覆盖电池隐患排查、二手车交易与功能检测等应用场景，规定了服役状态下的通用测试条件，明确外观、气密性、绝缘、热管理系统等检测项目，并给出可用容量保持率、电压与内阻一致性的估算方式。 这份标准填补的空白在于“方法不统一”。在此之前，动力电池的在役检测并非没有实践，但检测条件、流程和结果记录方式缺乏统一规范，不同机构对同一块电池",
    "published_at": 1792587090.0,
    "published_bj": "2026-10-21 20:51"
+  },
+  {
+   "id": "3d2e9159952562c6",
+   "source": "Hacker News",
+   "title": "Show HN: Sumi.css – CSS Framework",
+   "url": "https://github.com/vladocar/Sumi.css",
+   "summary": "Article URL: https://github.com/vladocar/Sumi.css Comments URL: https://news.ycombinator.com/item?id=50180039 Points: 7 # Comments: 3",
+   "published_at": 1792587033.0,
+   "published_bj": "2026-10-21 20:50"
   },
   {
    "id": "c90b002891cf3d10",
@@ -3458,150 +3602,6 @@
    "summary": "Article URL: https://blogs.lse.ac.uk/impactofsocialsciences/2026/10/19/academics-have-a-duty-to-defend-open-knowledge-systems-like-wikipedia/ Comments URL: https://news.ycombinator.com/item?id=50170917 Points: 34 # Comments: 8",
    "published_at": 1792522300.0,
    "published_bj": "2026-10-21 02:51"
-  },
-  {
-   "id": "8e2973e475d4679c",
-   "source": "cnBeta",
-   "title": "美国法官驳回OpenAI首席执行官山姆·奥特曼妹妹提起的性侵诉讼",
-   "url": "https://www.cnbeta.com.tw/articles/tech/1583122.htm",
-   "summary": "美国密苏里州联邦法院法官当地时间10月20日裁定，驳回针对OpenAI联合创始人兼首席执行官山姆·奥特曼的民事诉讼。该诉讼由其妹妹安妮·奥特曼提起，指控他在二十多年前多次实施性侵行为，而山姆·奥特曼始终否认相关指控。 阅读全文",
-   "published_at": 1792521603.0,
-   "published_bj": "2026-10-21 02:40"
-  },
-  {
-   "id": "50061fd0d7f60aa0",
-   "source": "cnBeta",
-   "title": "ChatGPT新增“锁定聊天” 可用四位PIN或生物识别隐藏敏感对话",
-   "url": "https://www.cnbeta.com.tw/articles/tech/1583120.htm",
-   "summary": "OpenAI宣布，ChatGPT用户现在可以为特定对话启用“锁定聊天”。锁定后，对话会移出常规聊天记录、置顶列表和普通搜索结果，转入“项目—锁定的聊天”区域；重新打开时需输入四位账户PIN。在支持的手机设备上，也可使用Face ID、Touch ID或设备解锁方式验证。该功能适用于免费版、Go、Plus、Pro、Business、Enterprise和Edu方案，正逐步推出；Healthcare版暂不支持。 阅读全文",
-   "published_at": 1792521580.0,
-   "published_bj": "2026-10-21 02:39"
-  },
-  {
-   "id": "00e741344e8bfb36",
-   "source": "TechCrunch",
-   "title": "Google has joined Amazon in attacking Nvidia’s stronghold with AI app developers",
-   "url": "https://techcrunch.com/2026/10/20/google-has-joined-amazon-in-attacking-nvidias-stronghold-with-ai-app-developers/",
-   "summary": "Google has joined Amazon in releasing a developer tool that makes it easy for PyTorch users to move their apps off Nvidia GPUs.",
-   "published_at": 1792521504.0,
-   "published_bj": "2026-10-21 02:38"
-  },
-  {
-   "id": "b180d12a6dcc5605",
-   "source": "TechCrunch",
-   "title": "ChatGPT now lets you lock your chats",
-   "url": "https://techcrunch.com/2026/10/20/chatgpt-now-lets-you-lock-your-chats/",
-   "summary": "The company says the feature is designed for situations where users might be discussing something personal or planning a surprise and want to keep those conversations private when handing their device to friends or family to show them something in another chat.",
-   "published_at": 1792521413.0,
-   "published_bj": "2026-10-21 02:36"
-  },
-  {
-   "id": "b044fab4ea039f9c",
-   "source": "InfoQ中文",
-   "title": "主题征文 ｜ 让鸿蒙应用，玩出新可能！",
-   "url": "https://www.infoq.cn/article/D8uCYSG2Sf29ybwp4i2g?utm_source=rss&utm_medium=article",
-   "summary": "点击查看原文>",
-   "published_at": 1792521363.0,
-   "published_bj": "2026-10-21 02:36"
-  },
-  {
-   "id": "30e5eb5be62917b7",
-   "source": "cnBeta",
-   "title": "三星改进Exynos基带能效 Galaxy S27有望缩小与骁龙版的续航差距",
-   "url": "https://www.cnbeta.com.tw/articles/tech/1583118.htm",
-   "summary": "三星正在着手解决Exynos平台长期以来备受诟病的一项问题。随着下一代Galaxy S27系列的开发推进，三星新一代Exynos基带芯片在功耗表现方面取得明显改进，未来搭载Exynos处理器的Galaxy旗舰机型有望在续航表现上追平甚至接近采用高通骁龙方案的版本。 阅读全文",
-   "published_at": 1792521034.0,
-   "published_bj": "2026-10-21 02:30"
-  },
-  {
-   "id": "153895d34dd16c0e",
-   "source": "Hacker News",
-   "title": "SimCity, but with Permits",
-   "url": "https://permit.petercai.com/",
-   "summary": "Article URL: https://permit.petercai.com/ Comments URL: https://news.ycombinator.com/item?id=50170593 Points: 38 # Comments: 7",
-   "published_at": 1792520949.0,
-   "published_bj": "2026-10-21 02:29"
-  },
-  {
-   "id": "dda4d497e275723c",
-   "source": "TechCrunch",
-   "title": "Eric Schmidt reportedly owns about half as much of Anthropic as CEO Dario Amodei",
-   "url": "https://techcrunch.com/2026/10/20/eric-schmidt-reportedly-owns-about-half-as-much-of-anthropic-as-ceo-dario-amodei/",
-   "summary": "The former Google CEO owns about 1% stake in the leading AI lab, Bloomberg reported.",
-   "published_at": 1792518912.0,
-   "published_bj": "2026-10-21 01:55"
-  },
-  {
-   "id": "cf502e8ef378430e",
-   "source": "Hacker News",
-   "title": "Claude designed protein binders against scorpion neurotoxins",
-   "url": "https://www.anthropic.com/research/claude-scorpion-toxin-binder-design",
-   "summary": "Article URL: https://www.anthropic.com/research/claude-scorpion-toxin-binder-design Comments URL: https://news.ycombinator.com/item?id=50170021 Points: 12 # Comments: 2",
-   "published_at": 1792518509.0,
-   "published_bj": "2026-10-21 01:48"
-  },
-  {
-   "id": "d47e1a8cb98757d5",
-   "source": "Hacker News",
-   "title": "Advanced coding in low-resource programming languages",
-   "url": "https://openai.com/index/low-resource-programming-languages/",
-   "summary": "Article URL: https://openai.com/index/low-resource-programming-languages/ Comments URL: https://news.ycombinator.com/item?id=50169955 Points: 12 # Comments: 4",
-   "published_at": 1792518191.0,
-   "published_bj": "2026-10-21 01:43"
-  },
-  {
-   "id": "f3d66714b09ef92c",
-   "source": "Hacker News",
-   "title": "What shall I teach my son?",
-   "url": "https://stevekrouse.com/ends",
-   "summary": "Article URL: https://stevekrouse.com/ends Comments URL: https://news.ycombinator.com/item?id=50169707 Points: 51 # Comments: 63",
-   "published_at": 1792517107.0,
-   "published_bj": "2026-10-21 01:25"
-  },
-  {
-   "id": "146b4dbf1910d1f0",
-   "source": "cnBeta",
-   "title": "Google为Chrome推出“可疑网站”新警告机制 进一步加强网络诈骗防护",
-   "url": "https://www.cnbeta.com.tw/articles/tech/1583116.htm",
-   "summary": "Google宣布为Chrome浏览器引入全新的安全防护机制，未来当用户访问被系统判定为“可疑”的网站时，浏览器将主动发出警告，以帮助用户识别潜在的网络诈骗、恶意软件和钓鱼攻击风险。 阅读全文",
-   "published_at": 1792517099.0,
-   "published_bj": "2026-10-21 01:24"
-  },
-  {
-   "id": "bc049ae1c8242af1",
-   "source": "cnBeta",
-   "title": "ChatGPT浏览器扩展迎来重大升级 可直接操控标签页并完成网页任务",
-   "url": "https://www.cnbeta.com.tw/articles/tech/1583114.htm",
-   "summary": "OpenAI日前为ChatGPT浏览器扩展推出一项重要更新，进一步加深了其与Google Chrome浏览器的整合能力。升级后，ChatGPT不仅能够读取当前打开网页中的内容，还可以分析信息、执行任务，并直接在浏览器环境中完成多项操作。此外，更新还带来了新的语音功能以及更多语言支持。 阅读全文",
-   "published_at": 1792516699.0,
-   "published_bj": "2026-10-21 01:18"
-  },
-  {
-   "id": "35cec3834eefcb2a",
-   "source": "TechCrunch",
-   "title": "Meta’s Muse hits 10M U.S. downloads in 40 days, a milestone reached by only 11 other apps",
-   "url": "https://techcrunch.com/2026/10/20/metas-muse-hits-10m-u-s-downloads-in-40-days-a-milestone-reached-by-only-11-other-apps/",
-   "summary": "Meta's AI companion Muse has surpassed 10 million U.S. downloads in its first 40 days, joining an exclusive group of apps that includes Threads. New data also shows Muse is retaining users at higher rates than its AI rivals.",
-   "published_at": 1792516368.0,
-   "published_bj": "2026-10-21 01:12"
-  },
-  {
-   "id": "56a9499fd66dfc3e",
-   "source": "Hacker News",
-   "title": "Benchmarking Bot Detection Systems Against Modern AI Agents in 2026",
-   "url": "https://research.poh.org/bot-benchmarking-2026/",
-   "summary": "Article URL: https://research.poh.org/bot-benchmarking-2026/ Comments URL: https://news.ycombinator.com/item?id=50169506 Points: 14 # Comments: 0",
-   "published_at": 1792516231.0,
-   "published_bj": "2026-10-21 01:10"
-  },
-  {
-   "id": "0c07a6c492d2cced",
-   "source": "InfoQ中文",
-   "title": "处理了 4000 万条消息后，我们总结了 Kafka 有序处理的几个关键设计",
-   "url": "https://www.infoq.cn/article/HoUf1pHD3WcZCK3YMe7m?utm_source=rss&utm_medium=article",
-   "summary": "点击查看原文>",
-   "published_at": 1792515600.0,
-   "published_bj": "2026-10-21 01:00"
   }
  ]
 }
