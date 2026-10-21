@@ -1,8 +1,62 @@
 {
  "date": "2026-10-21",
- "generated_at": 1792595498.2922053,
+ "generated_at": 1792598177.7943869,
  "count": 400,
  "items": [
+  {
+   "id": "60c54f059d4d187d",
+   "source": "cnBeta",
+   "title": "Apple Music公布新品牌片头 用真实声波让标志在矿物油中荡漾",
+   "url": "https://www.cnbeta.com.tw/articles/music/1583254.htm",
+   "summary": "苹果近日展示Apple Music新视觉标识的制作过程。团队与英国音乐制作人Fred again及NEST Acoustics合作，先为品牌片头创作一组短音符，再用声音驱动液体振动，让Apple Music标志随波纹扭曲起伏，呈现出类似“声波雕塑”的效果。 阅读全文",
+   "published_at": 1792598063.0,
+   "published_bj": "2026-10-21 23:54"
+  },
+  {
+   "id": "c35e9e2f5cbd9ee7",
+   "source": "IT之家",
+   "title": "苹果公布 Apple Music 全新品牌标识，创作灵感来自声音振动、声波实拍",
+   "url": "https://www.ithome.com/1/016/157.htm",
+   "summary": "IT之家 10 月 21 日消息，苹果音乐（Apple Music）官方今日宣布推出全新身份标识。 此次设计以“Made by Sound”（由声音塑造）为核心概念，邀请英国音乐制作人 Fred again.. 与 NEST Acoustics 共同参与，将声音振动转化为可视化的图形效果。 据 Wallpaper* 报道，Apple Music 制作团队先创作了一段音乐，再通过换能器将声音转化为物理振动，使浅层矿物油表面产生波纹。团队全程通过摄像机记录液体的运动与折射效果，并将这些影像用于设计 Apple Music 的新视觉形象。 苹果在介绍视频时称，这是一段关于音乐、协作与工艺的创作过程，",
+   "published_at": 1792598003.0,
+   "published_bj": "2026-10-21 23:53"
+  },
+  {
+   "id": "1578296e56311284",
+   "source": "IT之家",
+   "title": "NASA 公布月球探测车最新进展：VIPER 计划 2027 年探测月球南极水冰资源",
+   "url": "https://www.ithome.com/1/016/149.htm",
+   "summary": "IT之家 10 月 21 日消息，美国国家航空航天局（NASA）当地时间 10 月 20 日公布了月球探测车最新研发进展及任务规划。 NASA 表示，用于探测月球水冰等资源的“挥发物调查极地探索车”（VIPER）计划于 2027 年前往月球南极地区，载人月球地形车（LTV）则计划于 2028 年运抵月球南极地区，为未来载人探月任务和月球基地建设提供支持。 据 NASA 官方公告，VIPER 目前已在美国约翰逊航天中心完成组装，正在进行最后阶段的测试，之后将转运至肯尼迪航天中心，为发射做准备。IT之家查询获悉，该探测车计划搭乘蓝色起源的第二艘“蓝月”MK1 月球着陆器前往月球，预计于 2027 ",
+   "published_at": 1792596605.0,
+   "published_bj": "2026-10-21 23:30"
+  },
+  {
+   "id": "81768e426adbd982",
+   "source": "IT之家",
+   "title": "英伟达 DGX Spark 支持 8 台集群：128GB 版本统一内存最高达 1TB，RTX PRO 6000 Blackwell 相关任务提速 40%",
+   "url": "https://www.ithome.com/1/016/148.htm",
+   "summary": "IT之家 10 月 21 日消息，英伟达今日在柏林 GTC 2026 大会上宣布，DGX Spark 此前支持最多 4 台设备组建集群，目前已开放手动配置最多 8 台设备组建集群。如果是以 128GB 版本组建，其统一内存容量最高可达 1TB。 同时，英伟达还发布了本地 AI 平台更新，并宣布与 llama.cpp 、vLLM 开源社区合作优化 AI 推理性能，在特定工作负载下，RTX PRO 6000 Blackwell 的推理性能最高提升 40%，DGX Spark 和 DGX Station 也分别获得最高 30% 和 20% 的性能提升。 英伟达表示，4,999 美元 （IT之家注：现",
+   "published_at": 1792596318.0,
+   "published_bj": "2026-10-21 23:25"
+  },
+  {
+   "id": "00d8c9c98ec394aa",
+   "source": "IT之家",
+   "title": "OPPO 推出 Find X10 全球版手机：电池相比国行版缩减 850mAh，缺少 16GB+1TB 版本",
+   "url": "https://www.ithome.com/1/016/147.htm",
+   "summary": "IT之家 10 月 21 日消息，OPPO 今日在海外市场推出 Find X10 全球版手机。新机采用 6.59 英寸 AMOLED 屏幕、双 2 亿影像和天玑 9600M 芯片。 12GB+256GB 版本售价为 1,099 英镑 （IT之家注：现汇率约合 9,819 元人民币） /1,299 欧元 （现汇率约合 9,752 元人民币） 。 据介绍， OPPO Find X10 全球版配备 6.59 英寸 LTPO AMOLED 屏幕，分辨率为 2768 × 1272 像素，边框宽度 0.99 毫米，支持 144Hz 高刷，HDR 峰值亮度可达 3600 尼特。 规格方面，该机搭载联发科天玑",
+   "published_at": 1792596243.0,
+   "published_bj": "2026-10-21 23:24"
+  },
+  {
+   "id": "3c75f8260244894d",
+   "source": "Hacker News",
+   "title": "Oregon lawmakers approve money to buy an iconic waterfall listed on Redfin",
+   "url": "https://apnews.com/article/oregon-waterfall-for-sale-lawmakers-996de63462d49ec3ad9bee1629fb9488",
+   "summary": "Article URL: https://apnews.com/article/oregon-waterfall-for-sale-lawmakers-996de63462d49ec3ad9bee1629fb9488 Comments URL: https://news.ycombinator.com/item?id=50182526 Points: 10 # Comments: 3",
+   "published_at": 1792596004.0,
+   "published_bj": "2026-10-21 23:20"
+  },
   {
    "id": "194e48c16d654fc8",
    "source": "InfoQ中文",
@@ -11,6 +65,15 @@
    "summary": "点击查看原文>",
    "published_at": 1792595981.0,
    "published_bj": "2026-10-21 23:19"
+  },
+  {
+   "id": "ac48cbdfc6e33da0",
+   "source": "IT之家",
+   "title": "苹果 iPhone Duo 将于今年晚些时候支持“便捷访问”单手模式",
+   "url": "https://www.ithome.com/1/016/146.htm",
+   "summary": "IT之家 10 月 21 日消息，苹果首款折叠屏手机 iPhone Duo 将在 10 月 23 日发售。《连线》杂志今日报道称，苹果计划于今年晚些时候，为这款手机推出“便捷访问”单手模式。 据报道，苹果计划为 iPhone Duo 加入新版“便捷访问”功能， 让手比较小的用户只需要轻点屏幕 ， 就能更轻松地触及屏幕左侧 / 右侧边缘 。 IT之家了解到，“便捷访问”是苹果 iOS 系统的一项功能，最早于 2014 年随 iPhone 6、iPhone 6 Plus 一同推出，帮助用户单手操作手机时，更轻松地触及屏幕顶部区域。 在配备主屏幕按钮的 iPhone 上，只需要轻轻地轻点两下主屏幕按",
+   "published_at": 1792595663.0,
+   "published_bj": "2026-10-21 23:14"
   },
   {
    "id": "e11c2c05252f21b1",
@@ -49,6 +112,15 @@
    "published_bj": "2026-10-21 23:00"
   },
   {
+   "id": "fa2e17e56337cb3f",
+   "source": "Hacker News",
+   "title": "Delays for Pull Requests and Webhook deliveries",
+   "url": "https://www.githubstatus.com/incidents/nms1dpzmh9d9",
+   "summary": "Article URL: https://www.githubstatus.com/incidents/nms1dpzmh9d9 Comments URL: https://news.ycombinator.com/item?id=50182130 Points: 37 # Comments: 9",
+   "published_at": 1792594617.0,
+   "published_bj": "2026-10-21 22:56"
+  },
+  {
    "id": "423f47c62fa0205a",
    "source": "InfoQ中文",
    "title": "PingCAP 遭大规模数据泄露！黑客声称窃取 10.6TB 数据，涉及 18 万条组织记录",
@@ -83,6 +155,15 @@
    "summary": "10月21日，英伟达在GTC柏林大会上发布模块化AI工厂参考设计DSX POD。该方案由合作伙伴将Vera Rubin系统及配套基础设施预先集成到模块化集装箱中，在出厂前完成验证。英伟达称，在场地已完成准备的前提下，部署时间可从六个月缩短至最快14天。 阅读全文",
    "published_at": 1792594016.0,
    "published_bj": "2026-10-21 22:46"
+  },
+  {
+   "id": "bc933a985e3cbe48",
+   "source": "Solidot",
+   "title": "AI 增加了英国公务员的工作量",
+   "url": "https://www.solidot.org/story?sid=85676",
+   "summary": "自 ChatGPT 问世以来，世界各地的政府部门正经历针对监管机构与官方单位的投诉、请求和回应数量的异常暴增。法院系统的情况同样如此。以英国为例，英格兰、苏格兰和威尔士的劳动仲裁案件一年内激增了 39%，部分原因在于原告利用 AI 起草诉状；与此同时，面对大批因请不起律师而使用 ChatGPT 拼凑案情的当事人，基层法官和高级法官感到焦头烂额，因为这些案由往往漏洞百出、毫无逻辑。而所有这些繁杂的内容，都需要人工耐心梳理与甄别——毕竟即便被告引用了根本不存在的判例，也不意味着其背后就没有合理的冤屈。英国政府特别顾问抱怨称，各大部门正淹没在由 AI 生成的信息公开申请中，这显然背离了该制度最初旨在",
+   "published_at": 1792593908.0,
+   "published_bj": "2026-10-21 22:45"
   },
   {
    "id": "106cfdb37dac5d5c",
@@ -220,6 +301,15 @@
    "published_bj": "2026-10-21 22:08"
   },
   {
+   "id": "a1130d63f930ede5",
+   "source": "Solidot",
+   "title": "PHP 释出更新修复两个允许远程执行代码的高危漏洞",
+   "url": "https://www.solidot.org/story?sid=85675",
+   "summary": "PHP 项目释出了 PHP 8.5.12、8.4.27、8.3.36 和 8.2.35，修复了两个允许未经身份验证远程执行代码的高危漏洞。开发者建议所有 PHP 用户立即进行更新。 CVE-2026-109618(GHSA-w8hw-w9fx-j79w)：内存溢出处理可能会在内部请求数据仅完成部分初始化时中断 PHP；请求清理机制可能会将这些无效数据误认为有效数据进行处理。 CVE-2026-109619 (GHSA-6wmf-4rv5-p3rp)：归属于某个请求的内部状态在其底层内存被释放后仍可能残存。由同一个工作进程处理的后续请求，可能会在正常初始化将其重置之前使用该陈旧状态。",
+   "published_at": 1792591470.0,
+   "published_bj": "2026-10-21 22:04"
+  },
+  {
    "id": "8f9eb5712246a63e",
    "source": "Hacker News",
    "title": "OpenAI: Patch the Planet. Global response coordination as AI uncovers PHP vulns",
@@ -290,6 +380,15 @@
    "summary": "IT之家 10 月 21 日消息，科技媒体 Wccftech 今日报道称，《上古卷轴 6》预计将在 2028 年发售，或将成为微软 XBOX“Project Helix”次世代主机的独占游戏之一。 《财富》杂志今日报道称，XBOX 次世代主机不会早于 2028 年圣诞购物季推出。爆料人士 Kepler_L2 认为，AMD 方面原本的研发进度，是准备让 XBOX Helix 在 2027 年圣诞季推出。微软很可能在等一款重磅级独占游戏，以便与主机同步上市带动装机量。 虽然微软最近几年似乎已经不再使用这种销售策略，而是主打全平台。但 XBOX CEO 夏尔马已经在大刀阔斧地改革，其中就包括重新推出",
    "published_at": 1792591143.0,
    "published_bj": "2026-10-21 21:59"
+  },
+  {
+   "id": "8768e8364d3020ca",
+   "source": "Hacker News",
+   "title": "PHP2Shell",
+   "url": "https://www.php2shell.com",
+   "summary": "Article URL: https://www.php2shell.com Comments URL: https://news.ycombinator.com/item?id=50181058 Points: 21 # Comments: 2",
+   "published_at": 1792591039.0,
+   "published_bj": "2026-10-21 21:57"
   },
   {
    "id": "ac41435f264b388f",
@@ -3503,105 +3602,6 @@
    "summary": "Anthropic is reportedly struggling to secure enough compute from cloud providers that increasingly view it as a competitor, even as its infrastructure spending balloons ahead of a planned November IPO.",
    "published_at": 1792531522.0,
    "published_bj": "2026-10-21 05:25"
-  },
-  {
-   "id": "365341d1164fd101",
-   "source": "Hacker News",
-   "title": "Third US aircraft carrier, 10k troops head to Middle East",
-   "url": "https://www.iranintl.com/en/202610207766",
-   "summary": "Article URL: https://www.iranintl.com/en/202610207766 Comments URL: https://news.ycombinator.com/item?id=50172809 Points: 3 # Comments: 0",
-   "published_at": 1792531087.0,
-   "published_bj": "2026-10-21 05:18"
-  },
-  {
-   "id": "54a730d1b464667d",
-   "source": "IT之家",
-   "title": "超微电脑 2027 财年第一财季预计营收185 亿美元~195 亿美元",
-   "url": "https://www.ithome.com/1/015/619.htm",
-   "summary": "IT之家 10 月 21 日消息，超微电脑今日发布 2027 财年（2026年 7月 1日～2027年 6月 30日）第一财季（2026年 7月 1日～2026年 9月 30日）业绩预告报告： 营业总收入 ：185 亿美元~195 亿美元 （IT之家注：现汇率约合 1238.33 亿元~1305.26 亿元人民币） 毛利率 ：12%~12.5% AI 解读 本次 2027财年第一财季 业绩预告大幅超出市场预期，营收和毛利率均显著高于此前指引。 公司主营业务 超微电脑（Super Micro Computer）是全球领先的应用优化整体IT解决方案提供商，专注于企业、云、人工智能、5G/边缘IT基",
-   "published_at": 1792529222.0,
-   "published_bj": "2026-10-21 04:47"
-  },
-  {
-   "id": "633ab207f6d12b7b",
-   "source": "TechCrunch",
-   "title": "SpaceX’s AI business is beating expectations",
-   "url": "https://techcrunch.com/2026/10/20/spacexs-ai-business-is-beating-expectations/",
-   "summary": "SpaceX hit profitably in the third-quarter, with net income of $4.4 billion. AI was the engine.",
-   "published_at": 1792528841.0,
-   "published_bj": "2026-10-21 04:40"
-  },
-  {
-   "id": "135cfc06b9b36aa9",
-   "source": "TechCrunch",
-   "title": "OpenAI acquires startup Orchestra Bio⁠ to beef up its biotech business",
-   "url": "https://techcrunch.com/2026/10/20/openai-acquires-startup-orchestra-bio%e2%81%a0-to-beef-up-its-biotech-business/",
-   "summary": "OpenAI says it's adding Orchestra's team and technology to work on Rosalind, its AI model for life sciences research, and to its related Rosalind Workbench tool, a harness that aims to help researchers plan experiments and analyze results.",
-   "published_at": 1792528510.0,
-   "published_bj": "2026-10-21 04:35"
-  },
-  {
-   "id": "e4d3d3a72493b301",
-   "source": "Hacker News",
-   "title": "Upcoming Critical PHP Security Release",
-   "url": "https://news-web.php.net/php.announce/509",
-   "summary": "Article URL: https://news-web.php.net/php.announce/509 Comments URL: https://news.ycombinator.com/item?id=50172041 Points: 45 # Comments: 3",
-   "published_at": 1792527350.0,
-   "published_bj": "2026-10-21 04:15"
-  },
-  {
-   "id": "4e4b79a19ec0014e",
-   "source": "IT之家",
-   "title": "Netflix 2026 财年第三财季归母净利润 36.64 亿美元，同比增长 43.86%",
-   "url": "https://www.ithome.com/1/015/618.htm",
-   "summary": "IT之家 10 月 21 日消息，Netflix今日发布 2026 财年（2026 年 1 月～2026 年 12 月）第三财季（2026 年 7 月～2026 年 9 月）报告： 营业总收入 ：128.74 亿美元 （IT之家注：现汇率约合 861.75 亿元人民币） ，同比增长 11.8%，环比增长 2.5% 毛利润 ：67.95 亿美元 （现汇率约合 454.84 亿元人民币） ，同比增长 27.11% 毛利率 ：52.78%，同比增长 6.33 个百分点 归母净利润 ：36.64 亿美元 （现汇率约合 245.25 亿元人民币） ，同比增长 43.86%，环比增长 7.72% 经营现金",
-   "published_at": 1792526780.0,
-   "published_bj": "2026-10-21 04:06"
-  },
-  {
-   "id": "f2cb82a86cdcc4f9",
-   "source": "TechCrunch",
-   "title": "Google is bringing a more personal version of its Gemini AI assistant to your car",
-   "url": "https://techcrunch.com/2026/10/20/google-is-bringing-a-more-personal-version-of-its-gemini-ai-assistant-to-your-car/",
-   "summary": "Google is bringing Gemini's Personal Intelligence feature to cars, allowing its AI assistant to draw on information from Gmail, Calendar, Maps, YouTube, and other Google services to deliver more personalized responses while driving.",
-   "published_at": 1792526400.0,
-   "published_bj": "2026-10-21 04:00"
-  },
-  {
-   "id": "a507e669dce16dd3",
-   "source": "Hacker News",
-   "title": "On AI writing",
-   "url": "https://www.bolkunov.com/p/on-ai-writing",
-   "summary": "Article URL: https://www.bolkunov.com/p/on-ai-writing Comments URL: https://news.ycombinator.com/item?id=50171771 Points: 31 # Comments: 5",
-   "published_at": 1792526111.0,
-   "published_bj": "2026-10-21 03:55"
-  },
-  {
-   "id": "98077fa15cf918e3",
-   "source": "TechCrunch",
-   "title": "GM to close Detroit battery assembly plant, but not for reasons you might think",
-   "url": "https://techcrunch.com/2026/10/20/gm-to-close-detroit-battery-assembly-plant-but-not-for-reasons-you-might-think/",
-   "summary": "GM is shuttering the Brownstown Battery Assembly Plant, though the closure has nothing to do with the automaker's electrification strategy.",
-   "published_at": 1792524763.0,
-   "published_bj": "2026-10-21 03:32"
-  },
-  {
-   "id": "93d6f45ad2bb758d",
-   "source": "cnBeta",
-   "title": "传微软2027年推出Xbox掌机 下一代Xbox主机或于2028年登场",
-   "url": "https://www.cnbeta.com.tw/articles/tech/1583124.htm",
-   "summary": "微软正在规划新一代Xbox硬件产品路线图，其中一款被称为“下一代Xbox掌机”的设备预计将在2027年假日购物季前后推出，而代号为“Project Helix”的下一代Xbox主机则有望于2028年正式上市。 阅读全文",
-   "published_at": 1792523489.0,
-   "published_bj": "2026-10-21 03:11"
-  },
-  {
-   "id": "4c0f37fa8c13645a",
-   "source": "Hacker News",
-   "title": "Academics have a duty to defend open knowledge systems like Wikipedia",
-   "url": "https://blogs.lse.ac.uk/impactofsocialsciences/2026/10/19/academics-have-a-duty-to-defend-open-knowledge-systems-like-wikipedia/",
-   "summary": "Article URL: https://blogs.lse.ac.uk/impactofsocialsciences/2026/10/19/academics-have-a-duty-to-defend-open-knowledge-systems-like-wikipedia/ Comments URL: https://news.ycombinator.com/item?id=50170917 Points: 34 # Comments: 8",
-   "published_at": 1792522300.0,
-   "published_bj": "2026-10-21 02:51"
   }
  ]
 }
