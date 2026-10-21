@@ -1,7 +1,7 @@
 {
  "date": "2026-10-22",
- "generated_at": 1792600116.3857293,
- "count": 7,
+ "generated_at": 1792602704.810081,
+ "count": 13,
  "items": [
   {
    "id": "17b6fde00a4c8d5a",
@@ -31,6 +31,33 @@
    "published_bj": "2026-10-22 01:12"
   },
   {
+   "id": "d1ce2972308e3bec",
+   "source": "TechCrunch",
+   "title": "Waymo starts offering rides at the Las Vegas airport",
+   "url": "https://techcrunch.com/2026/10/21/waymo-starts-offering-rides-at-the-las-vegas-airport/",
+   "summary": "Pickups and dropoffs will happen at dedicated \"autonomous vehicle zones\" at Terminal 1 and Terminal 3.",
+   "published_at": 1792601984.0,
+   "published_bj": "2026-10-22 00:59"
+  },
+  {
+   "id": "d39ab8b736d2ad15",
+   "source": "Hacker News",
+   "title": "Rust off Rails: The opinionated web stack for the AI era",
+   "url": "https://rustoffrails.org/",
+   "summary": "Article URL: https://rustoffrails.org/ Comments URL: https://news.ycombinator.com/item?id=50183727 Points: 14 # Comments: 4",
+   "published_at": 1792600456.0,
+   "published_bj": "2026-10-22 00:34"
+  },
+  {
+   "id": "b9bd982d7db4b6fb",
+   "source": "Hacker News",
+   "title": "New plastic pollution discovered: 'Plasticorals' coral rubble fused with plastic",
+   "url": "https://www.oist.jp/news-center/news/2026/9/18/new-form-plastic-pollution-discovered-shores-vulnerable-coral-reefs",
+   "summary": "Article URL: https://www.oist.jp/news-center/news/2026/9/18/new-form-plastic-pollution-discovered-shores-vulnerable-coral-reefs Comments URL: https://news.ycombinator.com/item?id=50183512 Points: 3 # Comments: 0",
+   "published_at": 1792599637.0,
+   "published_bj": "2026-10-22 00:20"
+  },
+  {
    "id": "1c780f2111d50ddf",
    "source": "IT之家",
    "title": "安卓阵营首款阔直板手机酷派 COOL X Wide 售价公布：999~1399 元，搭载联发科曦力 G99 芯片 + 720p 屏幕",
@@ -47,6 +74,33 @@
    "summary": "点击查看原文>",
    "published_at": 1792599197.0,
    "published_bj": "2026-10-22 00:13"
+  },
+  {
+   "id": "96b8dbb0b197ae4b",
+   "source": "Hacker News",
+   "title": "What I learned from six months of being stupid on purpose",
+   "url": "https://wvez.org/blog/learning-to-be-stupid/",
+   "summary": "Article URL: https://wvez.org/blog/learning-to-be-stupid/ Comments URL: https://news.ycombinator.com/item?id=50183311 Points: 24 # Comments: 11",
+   "published_at": 1792598816.0,
+   "published_bj": "2026-10-22 00:06"
+  },
+  {
+   "id": "9d326860d615c16b",
+   "source": "Hacker News",
+   "title": "Your MCU Likely Escaped the eMudhra Intermediate CA Compromise",
+   "url": "https://danielmangum.com/posts/mcu-emudhra-intermediate-ca-compromise/",
+   "summary": "Article URL: https://danielmangum.com/posts/mcu-emudhra-intermediate-ca-compromise/ Comments URL: https://news.ycombinator.com/item?id=50183280 Points: 12 # Comments: 3",
+   "published_at": 1792598705.0,
+   "published_bj": "2026-10-22 00:05"
+  },
+  {
+   "id": "1241a86e0bc3a850",
+   "source": "Hacker News",
+   "title": "AI agent fixed the bug, but what else did it change?",
+   "url": "https://blog.trailofbits.com/2026/10/21/your-ai-agent-fixed-the-bug-but-what-else-did-it-change/",
+   "summary": "Article URL: https://blog.trailofbits.com/2026/10/21/your-ai-agent-fixed-the-bug-but-what-else-did-it-change/ Comments URL: https://news.ycombinator.com/item?id=50183253 Points: 14 # Comments: 1",
+   "published_at": 1792598612.0,
+   "published_bj": "2026-10-22 00:03"
   },
   {
    "id": "cbf121dfd044f6e7",

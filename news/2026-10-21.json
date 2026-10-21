@@ -1,6 +1,6 @@
 {
  "date": "2026-10-21",
- "generated_at": 1792600116.38886,
+ "generated_at": 1792602704.8126962,
  "count": 400,
  "items": [
   {
@@ -658,6 +658,15 @@
    "url": "https://www.ithome.com/1/016/112.htm",
    "summary": "IT之家 10 月 21 日消息，据科技媒体 CNET 今天报道，《我的世界》游戏官方最近开启了新一轮整活（跨界合作），与达美乐推出方形披萨。 IT之家从原报道获悉，本次推出的披萨一共有六款，包装盒分别以爬行者、猪、僵尸、瓦洛丽至尊附魔师和腐化爬行者为主题。内含底特律单人份披萨“the Domino”。 这款披萨被切成两块，造型类似《我的世界》的方块。顾客购买后可获得兑换码，随机解锁《我的世界：地下城 2》的三种游戏物品之一：达美乐主题皮肤、“切片杀手”披风或奶酪方块宠物。 此外，购买披萨的顾客还有机会获得免费下载游戏资格，仅限 PC 和 Xbox 平台。",
    "published_at": 1792587196.0,
+   "published_bj": "2026-10-21 20:53"
+  },
+  {
+   "id": "4fee4dda15eb2f81",
+   "source": "Hacker News",
+   "title": "OpenAI models are coming to Google Cloud",
+   "url": "https://openai.com/index/openai-models-google-cloud/",
+   "summary": "Article URL: https://openai.com/index/openai-models-google-cloud/ Comments URL: https://news.ycombinator.com/item?id=50180079 Points: 41 # Comments: 1",
+   "published_at": 1792587191.0,
    "published_bj": "2026-10-21 20:53"
   },
   {
@@ -3593,15 +3602,6 @@
    "summary": "Article URL: https://fulcrumsec.vg/pingcap/ Comments URL: https://news.ycombinator.com/item?id=50173716 Points: 32 # Comments: 3",
    "published_at": 1792536339.0,
    "published_bj": "2026-10-21 06:45"
-  },
-  {
-   "id": "5cb86e11ca0f5c5c",
-   "source": "IT之家",
-   "title": "SpaceX 2026 财年第三财季归母净利润 44.04 亿美元，同比扭亏为盈",
-   "url": "https://www.ithome.com/1/015/617.htm",
-   "summary": "IT之家 10 月 21 日消息，SpaceX 今日发布 2026 财年（2026 年 1 月～2026 年 12 月）第三财季（2026 年 7 月～2026 年 9 月）报告： 营业总收入 ：145.75 亿美元 （IT之家注：现汇率约合 975.6 亿元人民币） ，同比增长 161%，环比增长 86.52% 毛利润 ：90.97 亿美元 （现汇率约合 608.92 亿元人民币） ，同比增长 216.86% 毛利率 ：62.42%，同比增长 10.93 个百分点 归母净利润 ：44.04 亿美元 （现汇率约合 294.79 亿元人民币） ，上年同期净亏损 10.54 亿美元 （现汇率约合 ",
-   "published_at": 1792535842.0,
-   "published_bj": "2026-10-21 06:37"
   }
  ]
 }
