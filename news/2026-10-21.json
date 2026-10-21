@@ -1,8 +1,17 @@
 {
  "date": "2026-10-21",
- "generated_at": 1792598177.7943869,
+ "generated_at": 1792600116.38886,
  "count": 400,
  "items": [
+  {
+   "id": "c18fb2f90c9cbfaf",
+   "source": "cnBeta",
+   "title": "eBay将裁员9% 这是该公司今年第二轮裁员",
+   "url": "https://www.cnbeta.com.tw/articles/tech/1583256.htm",
+   "summary": "eBay发言人证实，该公司将裁减约9%的员工，此举旨在精简运营并聚焦于增长最快的领域。此次裁员将影响约1000名员工。该发言人在一份声明中表示：“在我们努力把握未来的重大机遇之际，我们采取了这一举措，通过让团队和资源与我们最高战略优先级保持一致，确保我们继续以强势地位运营。” 阅读全文",
+   "published_at": 1792598155.0,
+   "published_bj": "2026-10-21 23:55"
+  },
   {
    "id": "60c54f059d4d187d",
    "source": "cnBeta",
@@ -22,6 +31,15 @@
    "published_bj": "2026-10-21 23:53"
   },
   {
+   "id": "14c9c160d44ab617",
+   "source": "Hacker News",
+   "title": "Today's PHP Security Release, and How We're Strengthening PHP Security",
+   "url": "https://thephp.foundation/blog/2026/10/21/todays-php-security-release-and-how-were-strengthening-php-security/",
+   "summary": "Article URL: https://thephp.foundation/blog/2026/10/21/todays-php-security-release-and-how-were-strengthening-php-security/ Comments URL: https://news.ycombinator.com/item?id=50182987 Points: 41 # Comments: 7",
+   "published_at": 1792597736.0,
+   "published_bj": "2026-10-21 23:48"
+  },
+  {
    "id": "1578296e56311284",
    "source": "IT之家",
    "title": "NASA 公布月球探测车最新进展：VIPER 计划 2027 年探测月球南极水冰资源",
@@ -29,6 +47,15 @@
    "summary": "IT之家 10 月 21 日消息，美国国家航空航天局（NASA）当地时间 10 月 20 日公布了月球探测车最新研发进展及任务规划。 NASA 表示，用于探测月球水冰等资源的“挥发物调查极地探索车”（VIPER）计划于 2027 年前往月球南极地区，载人月球地形车（LTV）则计划于 2028 年运抵月球南极地区，为未来载人探月任务和月球基地建设提供支持。 据 NASA 官方公告，VIPER 目前已在美国约翰逊航天中心完成组装，正在进行最后阶段的测试，之后将转运至肯尼迪航天中心，为发射做准备。IT之家查询获悉，该探测车计划搭乘蓝色起源的第二艘“蓝月”MK1 月球着陆器前往月球，预计于 2027 ",
    "published_at": 1792596605.0,
    "published_bj": "2026-10-21 23:30"
+  },
+  {
+   "id": "08c9e0d69ea61693",
+   "source": "Solidot",
+   "title": "鸟类是地球最重要的养分搬运者之一",
+   "url": "https://www.solidot.org/story?sid=85678",
+   "summary": "鸟类在塑造地球化学环境上的作用被低估了，它们是地球最重要的养分搬运者之一。研究人员揭示了鸟类如何通过自身的排泄物和身躯，将养分在陆地、湖泊和海洋之间搬运。这一过程深深影响着从土壤和水体的化学性质，到动植物的生长。飞行能力让鸟类能跨越广阔的距离，甚至逾越海洋和山脉等天然屏障。鸟类在处理和循环养分上也极其高效。鸟类的食物摄入率比体型相当的哺乳动物高出约 30%。因此鸟类始终处于进食状态——它们大量摄取富含氮和磷的种子、昆虫、无脊椎动物及果实——并以极高的速率释放出养分。鸟类会将高浓度的养分集中在小片区域内，为当地的植物及其它生物提供关键资源。研究团队发现，饮食的季节性变化会导致鸟类的排泄物成分发生",
+   "published_at": 1792596351.0,
+   "published_bj": "2026-10-21 23:25"
   },
   {
    "id": "81768e426adbd982",
@@ -119,6 +146,15 @@
    "summary": "Article URL: https://www.githubstatus.com/incidents/nms1dpzmh9d9 Comments URL: https://news.ycombinator.com/item?id=50182130 Points: 37 # Comments: 9",
    "published_at": 1792594617.0,
    "published_bj": "2026-10-21 22:56"
+  },
+  {
+   "id": "8be5f6cce57ef0d3",
+   "source": "Solidot",
+   "title": "微软下一代 Xbox 游戏机售价在 1200-1800 美元之间",
+   "url": "https://www.solidot.org/story?sid=85677",
+   "summary": "微软此前披露它的下一代 Xbox 游戏机代号为 Project Helix。根据财富杂志对 Xbox 业务 CEO Asha Sharma 的深度报道：微软计划 2027 年底推出新一代掌机，2028 年底/假期发布新主机，而该主机的售价在 1200-1800 美元之间。由于 AI 热导致内存价格飙升，很多硬件产品都提高了定价，Steam Machine 售价超过 1000 美元，两年前的游戏机 PlayStation 5 Pro 售价达到 900 美元，6 年前的 Xbox Series X 起售价 750 美元。如果微软愿意补贴，售价可能会略微降低。",
+   "published_at": 1792594537.0,
+   "published_bj": "2026-10-21 22:55"
   },
   {
    "id": "423f47c62fa0205a",
@@ -290,6 +326,15 @@
    "summary": "IT之家 10 月 21 日消息，据科技媒体 9To5Mac 今天报道，苹果上个月发布 iPhone Duo 时曾表示，公司将于今年晚些时候，为这款折叠屏手机带来 Apple Pencil 支持。当时外界普遍认为，“晚些时候”可能意味着要等到 11 月或 12 月。 不过如今有个好消息：iPhone Duo 将在更新 iOS 27.2 操作系统后，支持 Apple Pencil。据 X 平台博主 Max Weinbach 实测， 他手上的 iPhone Duo 安装 iOS 27.2 RC 后已经支持这一功能 。如果你抢到了首发，那只需要等几天就能用上。 需要注意的是，iPhone Duo 仅",
    "published_at": 1792592057.0,
    "published_bj": "2026-10-21 22:14"
+  },
+  {
+   "id": "4b1c71b72c67246e",
+   "source": "Hacker News",
+   "title": "Cloudflare deploys protections against php2shell vulnerability",
+   "url": "https://blog.cloudflare.com/php-vulnerabilities-waf-protection/",
+   "summary": "Article URL: https://blog.cloudflare.com/php-vulnerabilities-waf-protection/ Comments URL: https://news.ycombinator.com/item?id=50181326 Points: 24 # Comments: 2",
+   "published_at": 1792591874.0,
+   "published_bj": "2026-10-21 22:11"
   },
   {
    "id": "0d09980104fb76ba",
@@ -1957,6 +2002,15 @@
    "published_bj": "2026-10-21 14:43"
   },
   {
+   "id": "054308b650d6711e",
+   "source": "Hacker News",
+   "title": "Launch HN: Alter (YC S25) – Access control for multi-user agents",
+   "url": "https://alterauth.com/",
+   "summary": "Hi HN! We’re Srikar and Kevan, founders of Alter – https://alterauth.com/ . We’re building access control for agents that can take actions on behalf of multiple users. If you’ve built an internal agent people use through Slack, you may have experienced this scenario: everyone signs in with their own",
+   "published_at": 1792564932.0,
+   "published_bj": "2026-10-21 14:42"
+  },
+  {
    "id": "5de7ca04e8b652ea",
    "source": "IT之家",
    "title": "三星钱包数字车钥匙支持吉利银河，可无感开关车门、启动车辆",
@@ -3548,60 +3602,6 @@
    "summary": "IT之家 10 月 21 日消息，SpaceX 今日发布 2026 财年（2026 年 1 月～2026 年 12 月）第三财季（2026 年 7 月～2026 年 9 月）报告： 营业总收入 ：145.75 亿美元 （IT之家注：现汇率约合 975.6 亿元人民币） ，同比增长 161%，环比增长 86.52% 毛利润 ：90.97 亿美元 （现汇率约合 608.92 亿元人民币） ，同比增长 216.86% 毛利率 ：62.42%，同比增长 10.93 个百分点 归母净利润 ：44.04 亿美元 （现汇率约合 294.79 亿元人民币） ，上年同期净亏损 10.54 亿美元 （现汇率约合 ",
    "published_at": 1792535842.0,
    "published_bj": "2026-10-21 06:37"
-  },
-  {
-   "id": "d543ffc6b820a955",
-   "source": "cnBeta",
-   "title": "Perplexity Computer新增Mac本地运行模式 AI任务可留在设备端处理",
-   "url": "https://www.cnbeta.com.tw/articles/tech/1583130.htm",
-   "summary": "Perplexity宣布，Mac版Perplexity应用现已支持让Computer代理完全在本机运行。任务规划、推理、文件处理和工具执行都在设备端完成；在用户授权后，它可操作Mac本地文件以及备忘录、信息、邮件、Keynote和Numbers等应用，不必把个人资料发送到云端。代码和工具执行则在隔离的沙盒环境中运行。 阅读全文",
-   "published_at": 1792535503.0,
-   "published_bj": "2026-10-21 06:31"
-  },
-  {
-   "id": "e2e88e0700eec1d1",
-   "source": "cnBeta",
-   "title": "Google将内置其系统的汽车推送Gemini AI助手 现有车辆也可获得升级",
-   "url": "https://www.cnbeta.com.tw/articles/tech/1583128.htm",
-   "summary": "Google宣布，将把 Gemini 人工智能助手引入搭载“Google Built-in”系统的汽车，为车载交互体验带来全面升级。作为对现有 Google Assistant 的替代方案，Gemini 将提供更自然的对话能力，并支持车辆信息查询、功能设置调整以及更多智能化服务。 阅读全文",
-   "published_at": 1792535468.0,
-   "published_bj": "2026-10-21 06:31"
-  },
-  {
-   "id": "6a4a3105a10279ad",
-   "source": "cnBeta",
-   "title": "马斯克：SpaceX与特斯拉已开始研究潜在合并交易",
-   "url": "https://www.cnbeta.com.tw/articles/tech/1583126.htm",
-   "summary": "马斯克表示，SpaceX和特斯拉已成立特别委员会，研究潜在合并。如果最终得以推进，这可能成为史上规模最大的企业合并交易。同时担任这两家公司首席执行官的马斯克周二在SpaceX财报电话会上表示：“我认为两家公司合并有很多好处，在开发超级智能软件方面进行合作将大有裨益。” 阅读全文",
-   "published_at": 1792535320.0,
-   "published_bj": "2026-10-21 06:28"
-  },
-  {
-   "id": "994f3c0d89840929",
-   "source": "TechCrunch",
-   "title": "Hugging Face CEO warns that Netflix’s OpenAI hack documentary isn’t accurate",
-   "url": "https://techcrunch.com/2026/10/20/hugging-face-ceo-warns-that-netflixs-openai-hack-documentary-isnt-accurate/",
-   "summary": "Before you share the Netflix documentary \"AI Gone Rogue\" take note. Clem Delangue, Hugging Face's co-founder who is featured in the film, says it went \"full doomer mode\" and isn't accurate.",
-   "published_at": 1792535042.0,
-   "published_bj": "2026-10-21 06:24"
-  },
-  {
-   "id": "2da3b972f7d7a1af",
-   "source": "Hacker News",
-   "title": "Feds Suspect Ransom Negotiator Ran ShinyHunters Extortion Site",
-   "url": "https://krebsonsecurity.com/2026/10/feds-suspect-ransom-negotiator-ran-shinyhunters-extortion-site/",
-   "summary": "Article URL: https://krebsonsecurity.com/2026/10/feds-suspect-ransom-negotiator-ran-shinyhunters-extortion-site/ Comments URL: https://news.ycombinator.com/item?id=50173487 Points: 7 # Comments: 0",
-   "published_at": 1792534865.0,
-   "published_bj": "2026-10-21 06:21"
-  },
-  {
-   "id": "68f7393db26bcd05",
-   "source": "TechCrunch",
-   "title": "Anthropic’s cloud partnerships are getting messy",
-   "url": "https://techcrunch.com/2026/10/20/anthropics-cloud-partnerships-are-getting-messy/",
-   "summary": "Anthropic is reportedly struggling to secure enough compute from cloud providers that increasingly view it as a competitor, even as its infrastructure spending balloons ahead of a planned November IPO.",
-   "published_at": 1792531522.0,
-   "published_bj": "2026-10-21 05:25"
   }
  ]
 }
