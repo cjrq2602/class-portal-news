@@ -226,6 +226,7 @@ def merge_and_save(out_dir: str, bj_date: str,
 
 def write_index(out_dir: str, max_days: int = 14) -> None:
     """写 news/index.json：日期倒序的文件清单，供站点兜底枚举。"""
+    os.makedirs(out_dir, exist_ok=True)   # 首日 0 条采用时目录可能尚未创建
     try:
         names = sorted([n for n in os.listdir(out_dir)
                         if len(n) == 15 and n.endswith(".json") and n[4] == "-"],

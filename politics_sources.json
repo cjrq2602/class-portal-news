@@ -1,0 +1,30 @@
+{
+  "_comment": "时政新闻源配置。与 sources.json 同一格式（fetch_news.py 通用解析），输出到 politics/ 目录。注意：① 人民网 RSS 已于 2025-06 停止更新、新华网频道 RSS 只剩单条占位，均不可用；② BBC/FT 属海外中文视角，国内网络不可达属正常（Worker 在美国运行），不想用改 enabled=false 即可；③ 失败源自动跳过，不影响其余源。",
+  "version": 2,
+  "sources": [
+    {
+      "name": "中新网即时",
+      "url": "https://www.chinanews.com.cn/rss/scroll-news.xml",
+      "enabled": true,
+      "note": "中国新闻网即时滚动（国内外时政为主，已验证持续更新）"
+    },
+    {
+      "name": "中新网要闻",
+      "url": "https://www.chinanews.com.cn/rss/importnews.xml",
+      "enabled": true,
+      "note": "中国新闻网要闻导读（头版时政，已验证持续更新）"
+    },
+    {
+      "name": "BBC中文",
+      "url": "https://feeds.bbci.co.uk/zhongwen/simp/rss.xml",
+      "enabled": true,
+      "note": "BBC 中文（海外视角时政；国内不可达不影响美国 Runner）"
+    },
+    {
+      "name": "FT中文网",
+      "url": "http://www.ftchinese.com/rss/news",
+      "enabled": true,
+      "note": "FT 中文网（国际政经；同上，海外可达）"
+    }
+  ]
+}

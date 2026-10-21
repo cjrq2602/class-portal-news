@@ -57,6 +57,13 @@ jobs:
         if: github.event.schedule == '*/20 * * * *' || inputs.task == 'fetch' || inputs.task == ''
         run: python3 fetch_news.py --verbose
 
+      # ---------- 1b) 抓取时政新闻（同源机制，输出 politics/ 目录） ----------
+      - name: 抓取时政新闻
+        id: fetch_politics
+        continue-on-error: true
+        if: github.event.schedule == '*/20 * * * *' || inputs.task == 'fetch' || inputs.task == ''
+        run: python3 fetch_news.py --sources politics_sources.json --out-dir politics --verbose
+
       # ---------- 2) 昨日总结（UTC 16:00 = 北京 00:00） ----------
       - name: 生成昨日总结
         id: yesterday
@@ -67,6 +74,17 @@ jobs:
           AI_BASE_URL: ${{ secrets.AI_BASE_URL }}
           AI_MODEL: ${{ secrets.AI_MODEL }}
         run: python3 make_digest.py --type yesterday
+
+      # ---------- 2b) 昨日时政解读（同一引擎，读 politics/ 写 politics_digests/） ----------
+      - name: 生成昨日时政解读
+        id: yesterday_politics
+        continue-on-error: true
+        if: github.event.schedule == '0 16 * * *' || inputs.task == 'yesterday'
+        env:
+          AI_API_KEY: ${{ secrets.AI_API_KEY }}
+          AI_BASE_URL: ${{ secrets.AI_BASE_URL }}
+          AI_MODEL: ${{ secrets.AI_MODEL }}
+        run: python3 make_digest.py --type yesterday --news-dir politics --out-dir politics_digests
 
       # ---------- 3) 今日总结（UTC 01:00 = 北京 09:00） ----------
       - name: 生成今日总结
@@ -79,6 +97,17 @@ jobs:
           AI_MODEL: ${{ secrets.AI_MODEL }}
         run: python3 make_digest.py --type today
 
+      # ---------- 3b) 今日时政解读 ----------
+      - name: 生成今日时政解读
+        id: today_politics
+        continue-on-error: true
+        if: github.event.schedule == '0 1 * * *' || inputs.task == 'today'
+        env:
+          AI_API_KEY: ${{ secrets.AI_API_KEY }}
+          AI_BASE_URL: ${{ secrets.AI_BASE_URL }}
+          AI_MODEL: ${{ secrets.AI_MODEL }}
+        run: python3 make_digest.py --type today --news-dir politics --out-dir politics_digests
+
       # ---------- 4) 提交产出（[skip ci] 防止触发递归工作流） ----------
       # 三个任务可能在不同时间跑；这里统一 pull --rebase 后再 push，带重试。
       - name: 提交产出
@@ -87,7 +116,7 @@ jobs:
           set -e
           git config user.name  "news-worker-bot"
           git config user.email "news-worker-bot@users.noreply.github.com"
-          git add news digests || true
+          git add news digests politics politics_digests || true
           if git diff --cached --quiet; then
             echo "无新增产出，跳过提交"
             exit 0
