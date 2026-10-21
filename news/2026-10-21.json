@@ -1,7 +1,7 @@
 {
  "date": "2026-10-21",
- "generated_at": 1792588099.4840622,
- "count": 381,
+ "generated_at": 1792591125.3070357,
+ "count": 397,
  "items": [
   {
    "id": "194e48c16d654fc8",
@@ -40,6 +40,42 @@
    "published_bj": "2026-10-21 22:39"
   },
   {
+   "id": "ac41435f264b388f",
+   "source": "IT之家",
+   "title": "维信诺官宣 iQOO Neo12 手机超冠屏行业唯一搭载「天空之镜」发光材料",
+   "url": "https://www.ithome.com/1/016/130.htm",
+   "summary": "IT之家 10 月 21 日消息，维信诺今日宣布， iQOO Neo12 手机的超冠屏行业唯一搭载维信诺「天空之镜」发光材料 、行业唯一搭载维信诺 pTSF 技术的 2K 185Hz 屏。 据IT之家此前报道，在 10 月 14 日的维信诺 × iQOO × 清华大学屏幕技术沟通会上，iQOO 宣布，iQOO Neo12 新机拥有三大首发技术 + 七大争锋屏幕体验 + 2K 185Hz 超豪华游戏生态，并喊话“让 185Hz 进入 2K 时代”。 另外，iQOO Neo12 还搭载第五代骁龙 8 至尊版处理器 + 冰穹风冷散热系统，配备自研电竞芯片 Q3，支持光追、超分、超帧、滤镜、游戏相机。",
+   "published_at": 1792590658.0,
+   "published_bj": "2026-10-21 21:50"
+  },
+  {
+   "id": "94b7e98c034c0884",
+   "source": "IT之家",
+   "title": "英伟达联合思灵推出人形机器人参考平台 Agile ONE SN，计划 2027 年初上市",
+   "url": "https://www.ithome.com/1/016/128.htm",
+   "summary": "IT之家 10 月 21 日消息，英伟达当地时间 10 月 21 日在 GTC 柏林大会上宣布扩展 Isaac 开放机器人开发平台，新增人形机器人参考平台、运行框架、仿真资产和数据集，并更新机器人学习工具，覆盖从训练数据生成、仿真训练到实体机器人部署的开发流程。 硬件方面，英伟达联合思灵机器人（Agile Robots）发布了人形机器人参考平台 Agile ONE SN，计划于 2027 年初推出。 该平台预配置英伟达 Isaac GR00T，并搭载 Jetson Thor 计算平台，主要面向机器人研究与开发。通过整合仿真、训练和部署工具，Agile Robots 表示，该平台可将相关环境的前",
+   "published_at": 1792590579.0,
+   "published_bj": "2026-10-21 21:49"
+  },
+  {
+   "id": "fbd3a5df1a019468",
+   "source": "IT之家",
+   "title": "赛力斯张兴海：安全始终是第一位，也是企业必须无条件扛起的第一责任",
+   "url": "https://www.ithome.com/1/016/127.htm",
+   "summary": "IT之家 10 月 21 日消息，2026 世界智能网联汽车大会今日正式召开，赛力斯集团董事长（创始人）张兴海发表主题演讲。 张兴海表示，新时代用户对高安全、高品质提出了更高的要求。安全与可靠是底线，好用决定用户日常体验，那么创新确保常用常新，持续带给用户极致的体验。 首先， 安全始终是第一位的 ，不仅是用户的关切，也是企业必须无条件扛起的第一责任。 其次是好用，好车不仅要质量好，更要服务好。 那么还要创新，汽车不是快消品，五年之后车况如何，好不好开、好不好用、可不可靠、保值率怎么样，都要围绕市场和用户的需求持续做好创新。尤其是在智能化、AI 化方面的创新，让新用户体验到新功能，让存量车常用常",
+   "published_at": 1792590565.0,
+   "published_bj": "2026-10-21 21:49"
+  },
+  {
+   "id": "b8eca023d8589ad2",
+   "source": "IT之家",
+   "title": "网易 UU 远程官宣与荣耀团队深度合作，覆盖 WIN 平板远程游戏、办公等场景",
+   "url": "https://www.ithome.com/1/016/126.htm",
+   "summary": "IT之家 10 月 21 日消息，在今日举行的荣耀 WIN 电竞宇宙嘉年华上， 荣耀 WIN 平板正式发布 ，配备 8.4 英寸 240Hz OLED 屏幕、搭载第五代骁龙 8 至尊版处理器，国补到手价 3699 元起。 IT之家注意到，网易 UU 远程今日宣布，其与荣耀团队开展深度合作，基于荣耀 WIN 平板，深度优化远程连接性能和稳定性， 覆盖远程游戏、远程办公等场景 。 游戏场景：支持至高 4K 144 帧画质，提供触屏 + 按键映射（内置 300+ 游戏按键方案）、外接键鼠、外接手柄三种操作方案，配备多重隐私防护（含一键设置被控端静音、防窥模式开启等）； 办公场景：支持双向文件传输（不",
+   "published_at": 1792590503.0,
+   "published_bj": "2026-10-21 21:48"
+  },
+  {
    "id": "68743903dc7fcc63",
    "source": "InfoQ中文",
    "title": "Cloudflare 开源面向 AI 智能体的决策模型 Clef",
@@ -47,6 +83,96 @@
    "summary": "点击查看原文>",
    "published_at": 1792590420.0,
    "published_bj": "2026-10-21 21:47"
+  },
+  {
+   "id": "d6be8610800a5d39",
+   "source": "IT之家",
+   "title": "黄仁勋 GTC 柏林反驳 AI 终结软件论：工具公司将迎来更多使用者",
+   "url": "https://www.ithome.com/1/016/125.htm",
+   "summary": "北京时间 10 月 21 日，英伟达创始人兼 CEO 黄仁勋在 GTC 柏林大会上表示，AI 的发展将增加软件工具的使用者，工具公司也将向 AI 公司和智能体公司转型。 黄仁勋在演讲中提到，有人认为 AI 的到来意味着软件和工具公司的终结，他对此持相反看法。他认为，随着 AI 智能体承担更多工作，过去开发的软件工具将迎来更多使用者。 支撑这一判断的原因是，AI 要完成实际工作，仍然需要调用专业工具。黄仁勋以科学家和工程师的工作为例说明，即使具备很强的智能，也需要实验室、模拟器和求解工具。AI 智能体同样需要借助工具开展实验、仿真和数据处理。 他表示，编程是智能体较早落地的领域，编译器或 Pyt",
+   "published_at": 1792590188.0,
+   "published_bj": "2026-10-21 21:43"
+  },
+  {
+   "id": "7ebf2bd9dc1ba736",
+   "source": "IT之家",
+   "title": "微软 XGP 订阅 10 月第二波入库阵容公布：含《最终幻想 7 重制版》等",
+   "url": "https://www.ithome.com/1/016/124.htm",
+   "summary": "IT之家 10 月 21 日消息，微软今日公布 XBOX Game Pass 订阅服务 10 月第二波入库游戏阵容。 本月的领衔作品有《最终幻想 7 重制版 Intergrade》等 。 IT之家整理本月入库游戏如下： 游戏名 入库时间 覆盖层级 支持平台 《沙金工业》 10 月 21 日 新增 Premium ，此前已加入 Ultimate 和 PC PC 《渡渡鸭与折叠世界》 10 月 22 日 Ultimate、Premium 和 PC 云游戏、Xbox Series X|S、PC 《乱斗骑士 Scramble Knights Online》 10 月 29 日 Ultimate、PC ",
+   "published_at": 1792590149.0,
+   "published_bj": "2026-10-21 21:42"
+  },
+  {
+   "id": "964715e880ee1eb4",
+   "source": "IT之家",
+   "title": "李斌：基于世界模型架构 + 闭环强化学习的蔚来智能辅助驾驶系统，已部署超 95 万辆智能电动汽车",
+   "url": "https://www.ithome.com/1/016/123.htm",
+   "summary": "IT之家 10 月 21 日消息，在 2026 世界智能网联汽车大会上，蔚来创始人、董事长、CEO 李斌分享了一组最新数据： 截至目前，基于世界模型架构 + 闭环强化学习的蔚来智能辅助驾驶系统， 已经部署在超过 95 万辆智能电动汽车上 ； 智能辅助驾驶安全行驶里程超过 91.4 亿公里， 累计使用时长达到 1.12 亿小时 ，为用户避免或减轻了 907 万次潜在事故影响； 根据内部数据， 人车共驾的平均安全里程达到人驾的 8 倍 。根据四家保险公司的数据佐证，搭载蔚来智能辅助驾驶系统的车辆，事故安全损失逐年降低，降幅超 30%。 据IT之家今日早些时候报道，李斌在 2026 世界智能网联汽车",
+   "published_at": 1792589864.0,
+   "published_bj": "2026-10-21 21:37"
+  },
+  {
+   "id": "c98cdf84bd42903b",
+   "source": "TechCrunch",
+   "title": "Heat pump tech is 170 years old. Pascal thinks it’s time for an update.",
+   "url": "https://techcrunch.com/2026/10/21/heat-pump-tech-is-170-years-old-pascal-thinks-its-time-for-an-update/",
+   "summary": "Refrigerants startup Pascal has a new take on heat pump and cooling tech using a sponge-like material that promises to be 20% more efficient.",
+   "published_at": 1792589400.0,
+   "published_bj": "2026-10-21 21:30"
+  },
+  {
+   "id": "e3e6c4c22f15f858",
+   "source": "IT之家",
+   "title": "AMD 为 Linux 开发锐龙 CPU 超频驱动，可调 PPT、TDC、EDC 参数",
+   "url": "https://www.ithome.com/1/016/122.htm",
+   "summary": "IT之家 10 月 21 日消息，Phoronix 今日发现，AMD 正在为 Linux 系统开发 Ryzen 处理器超频驱动。 AMD 工程师 Shyam Sundar S K 已向 Linux 内核邮件列表提交 AMD Overclocking（AOD）WMI 驱动补丁，旨在通过系统固件接口管理 Ryzen 处理器的超频参数及功耗、电流限制。 该驱动初期通过 Linux 的 sysfs 接口开放多项处理器参数。其中，PPT（Package Power Tracking）用于管理封装功耗限制，TDC（Thermal Design Current）用于设置持续电流限制，EDC（Electric",
+   "published_at": 1792589262.0,
+   "published_bj": "2026-10-21 21:27"
+  },
+  {
+   "id": "c8a207c6b90145b6",
+   "source": "IT之家",
+   "title": "为预防 PHP 安全漏洞，芬兰政府临时关闭部分网站",
+   "url": "https://www.ithome.com/1/016/121.htm",
+   "summary": "IT之家 10 月 21 日消息，芬兰政府信息通信技术中心（Valtori）宣布，为预防严重安全漏洞，芬兰政府的公共服务网站将在今天陆续下线。 Valtori 表示， 政府网站临时关闭的原因在于 PHP 软件被发现存在安全漏洞 。IT之家了解到，PHP 是网站后端系统的核心技术之一，运行在 Web 服务器中。 PHP 开发团队今天宣布，将为两个严重安全漏洞发布修复补丁。 欧盟网络安全官员已警告各组织 ， 如果无法及时修复漏洞 ， 应暂时关闭受影响网页 。 受影响的网站包括芬兰国家土地测量局官网、赫尔辛基书展官网、芬兰电影基金会官网等。截至目前，Valtori 暂未给出恢复服务时间表。",
+   "published_at": 1792589025.0,
+   "published_bj": "2026-10-21 21:23"
+  },
+  {
+   "id": "ad27ed52f01923d6",
+   "source": "Hacker News",
+   "title": "Global warming will breach 1.5°C – but deep, fast cuts can still bring it back",
+   "url": "https://news.un.org/en/story/2026/10/1168634",
+   "summary": "Article URL: https://news.un.org/en/story/2026/10/1168634 Comments URL: https://news.ycombinator.com/item?id=50180518 Points: 8 # Comments: 2",
+   "published_at": 1792588951.0,
+   "published_bj": "2026-10-21 21:22"
+  },
+  {
+   "id": "0fff5e3e5339b6d4",
+   "source": "IT之家",
+   "title": "打破物理铁律：天文学家发现首颗绿色恒星，距离地球约 280 光年",
+   "url": "https://www.ithome.com/1/016/120.htm",
+   "summary": "IT之家 10 月 21 日消息，据央视新闻总台环球资讯广播报道，英国华威大学的天体物理学家团队通过分析白矮星的光谱数据， 首次发现了一颗如果用肉眼看会呈现出淡淡黄绿色的恒星 —— WD J1330+6435 。该研究近日发表在国际学术期刊《RAS 技术与仪器》（RASTI）上。 ▲ 图源：自英国华威大学官网 | 绿色恒星的模拟图 据介绍，这颗绿色的星星位于银河系的天龙座， 距离地球约 280 光年 。它并不是一颗年轻健康的恒星， 而是一颗白矮星 。白矮星是恒星演化的最后阶段，是恒星走到生命尽头、耗尽燃料后留下的致密核心，也就是所谓的恒星残骸。 论文第一作者、英国华威大学天体物理学家马克 · ",
+   "published_at": 1792588687.0,
+   "published_bj": "2026-10-21 21:18"
+  },
+  {
+   "id": "87f7f62aeecdefba",
+   "source": "Hacker News",
+   "title": "Most advice is right for the person giving it",
+   "url": "https://coached.com/essays/most-advice-is-right-for-the-person-giving-it/",
+   "summary": "Article URL: https://coached.com/essays/most-advice-is-right-for-the-person-giving-it/ Comments URL: https://news.ycombinator.com/item?id=50180444 Points: 19 # Comments: 3",
+   "published_at": 1792588653.0,
+   "published_bj": "2026-10-21 21:17"
+  },
+  {
+   "id": "12e1eaa99928e202",
+   "source": "IT之家",
+   "title": "奇瑞尹同跃：中国车企出海要谦虚低调，坚决不能打价格战",
+   "url": "https://www.ithome.com/1/016/118.htm",
+   "summary": "IT之家 10 月 21 日消息，2026 世界智能网联汽车大会于 2026 年 10 月 21 日至 23 日在北京亦庄举办。 据蓝鲸汽车报道，奇瑞控股集团董事长尹同跃在谈及中国汽车出海时建议 车企一定要谦虚低调 ，不要在海外变成“海吹”，中国车企在海外很多方面与国际传统车企还有很大差距。 同时，尹同跃认为，要吸取此前摩托车出海的经验， 坚决不能打价格战 ；要做好准备，不要盲目出海。 尹同跃进一步指出， 非常愿意和国际主机厂进行深度合作 ，实现共赢。尹同跃称此前奇瑞在西班牙、南非等市场都盘活了一些其他主机厂的闲置产能。 IT之家注意到， 奇瑞集团公布的最新销量数据显示 ，9 月，奇瑞集团出口",
+   "published_at": 1792588255.0,
+   "published_bj": "2026-10-21 21:10"
   },
   {
    "id": "b8d375b291772bcf",
@@ -157,6 +283,15 @@
    "published_bj": "2026-10-21 20:42"
   },
   {
+   "id": "410b1052b590ee3a",
+   "source": "Hacker News",
+   "title": "LayerFS: The filesystem for AI coding agents",
+   "url": "https://layerfs.ai/",
+   "summary": "Article URL: https://layerfs.ai/ Comments URL: https://news.ycombinator.com/item?id=50179857 Points: 21 # Comments: 8",
+   "published_at": 1792586086.0,
+   "published_bj": "2026-10-21 20:34"
+  },
+  {
    "id": "0a704cfbd9c34996",
    "source": "Hacker News",
    "title": "Dutch National Cyber Security Center is Offline because it uses PHP",
@@ -173,6 +308,15 @@
    "summary": "IT之家 10 月 21 日消息，比亚迪仰望销售事业部总经理胡晓庆今日宣布， 仰望旗下超豪华行政轿车（内部的车型代号是“HU”）在阿联酋亮相 。关于为什么选择这里，以及比亚迪仰望为这次亮相准备了什么，胡晓庆称后面会再公布。 据IT之家此前报道，今年 9 月，比亚迪仰望汽车总经理助理、市场营销及用户发展负责人郑羽首次公布了一组仰望超豪华行政轿车的实拍预告图， 并透露新车将一如既往，带来前所未有的颠覆性技术 。 郑羽晒出的预告图中，车辆仍然覆盖伪装，但轮廓已经清晰可见。其外观方正典雅，预计沿用仰望 U8 的“鼎式”前脸，且用上了常见于大型豪华车的对开车门，照片中若隐若现的水晶大灯则进一步强化奢华感",
    "published_at": 1792585474.0,
    "published_bj": "2026-10-21 20:24"
+  },
+  {
+   "id": "4ba949519e726a39",
+   "source": "Hacker News",
+   "title": "Qwen3-Coder writes less secure code when told it's for a US persona",
+   "url": "https://www.hirundo.io/blog/qwen3-coder-vulnerabilities",
+   "summary": "Article URL: https://www.hirundo.io/blog/qwen3-coder-vulnerabilities Comments URL: https://news.ycombinator.com/item?id=50179706 Points: 89 # Comments: 41",
+   "published_at": 1792585359.0,
+   "published_bj": "2026-10-21 20:22"
   },
   {
    "id": "b40a159a59d6f664",
