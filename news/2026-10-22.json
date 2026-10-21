@@ -1,7 +1,7 @@
 {
  "date": "2026-10-22",
- "generated_at": 1792605057.4514616,
- "count": 16,
+ "generated_at": 1792607240.018517,
+ "count": 21,
  "items": [
   {
    "id": "17b6fde00a4c8d5a",
@@ -20,6 +20,42 @@
    "summary": "点击查看原文>",
    "published_at": 1792605600.0,
    "published_bj": "2026-10-22 02:00"
+  },
+  {
+   "id": "2cb6b433e28dafbc",
+   "source": "TechCrunch",
+   "title": "GM is giving OnStar an AI makeover",
+   "url": "https://techcrunch.com/2026/10/21/gm-is-giving-onstar-an-ai-makeover/",
+   "summary": "It's one of the biggest overhauls ever to the 30-year-old connected car product.",
+   "published_at": 1792605600.0,
+   "published_bj": "2026-10-22 02:00"
+  },
+  {
+   "id": "a7dfe42508cc6e54",
+   "source": "TechCrunch",
+   "title": "PHP armageddon: OpenAI, Google’s Wiz find ancient holes, panicking the internet",
+   "url": "https://techcrunch.com/2026/10/21/php-armageddon-openai-googles-wiz-find-ancient-holes-panicking-the-internet/",
+   "summary": "This is the kind of security issue that was found and prevented by AI, but is also a high risk because of AI.",
+   "published_at": 1792605552.0,
+   "published_bj": "2026-10-22 01:59"
+  },
+  {
+   "id": "79aa48543566c1ed",
+   "source": "Hacker News",
+   "title": "Meta ordered to pay $25B penalty in New Mexico Cambridge Analytica case",
+   "url": "https://www.cnbc.com/2026/10/21/meta-new-mexico-cambridge-analytica-penalty.html",
+   "summary": "Article URL: https://www.cnbc.com/2026/10/21/meta-new-mexico-cambridge-analytica-penalty.html Comments URL: https://news.ycombinator.com/item?id=50184820 Points: 13 # Comments: 1",
+   "published_at": 1792604713.0,
+   "published_bj": "2026-10-22 01:45"
+  },
+  {
+   "id": "88b128a533f811a4",
+   "source": "Hacker News",
+   "title": "EA is shutting down BioWare",
+   "url": "https://www.theverge.com/games/1015647/ea-is-shutting-down-bioware",
+   "summary": "Article URL: https://www.theverge.com/games/1015647/ea-is-shutting-down-bioware Comments URL: https://news.ycombinator.com/item?id=50184586 Points: 84 # Comments: 37",
+   "published_at": 1792603773.0,
+   "published_bj": "2026-10-22 01:29"
   },
   {
    "id": "9e7523d0f4d82c0c",
@@ -101,6 +137,15 @@
    "summary": "点击查看原文>",
    "published_at": 1792599197.0,
    "published_bj": "2026-10-22 00:13"
+  },
+  {
+   "id": "2d7f67c775885e68",
+   "source": "Hacker News",
+   "title": "The bridge to agent-scale Git infrastructure",
+   "url": "https://github.blog/engineering/architecture-optimization/the-bridge-to-agent-scale-git-infrastructure/",
+   "summary": "Article URL: https://github.blog/engineering/architecture-optimization/the-bridge-to-agent-scale-git-infrastructure/ Comments URL: https://news.ycombinator.com/item?id=50183344 Points: 15 # Comments: 0",
+   "published_at": 1792598968.0,
+   "published_bj": "2026-10-22 00:09"
   },
   {
    "id": "96b8dbb0b197ae4b",
