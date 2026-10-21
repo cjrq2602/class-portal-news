@@ -171,6 +171,50 @@ def item_sentence(item: dict[str, Any], limit: int = 72) -> str:
     return text[:limit]
 
 
+_CJK_CHAR_RE = re.compile(r"[\u4e00-\u9fff]")
+
+
+def has_chinese(text: str, least: int = 4) -> bool:
+    """判断文本是否含足够中文（用于优先选择中文新闻，保证总结是中文的）。"""
+    return len(_CJK_CHAR_RE.findall(str(text or ""))) >= least
+
+
+def trim_sentence(text: str, limit: int = 80) -> str:
+    """
+    截断到 limit 字，并去掉尾部不完整的半句（以逗号/顿号等结尾的碎片），
+    避免出现"……have ，另有 2 条"这类断句。
+    """
+    t: str = str(text or "").strip()
+    if len(t) > limit:
+        t = t[:limit]
+    # 无论是否发生截断，末尾不是终止标点时都回退到最后一个完整分句
+    if t and t[-1] not in "。！？!?…":
+        cut: int = -1
+        for sep in ("，", "、", ",", "；", ";", "："):
+            idx: int = t.rfind(sep)
+            if idx > len(t) * 0.45:
+                cut = max(cut, idx)
+        if cut > 0:
+            t = t[:cut]
+        else:
+            t = t.rstrip("，、,；;： ") + "…"
+    return t.rstrip("，、,；;： ")
+
+
+def short_phrase(title: str, limit: int = 16) -> str:
+    """标题兜底成短主题：取第一个标点前的完整短语，避免生硬截字。"""
+    t: str = clean_text(title, 60)
+    for sep in ("——", "：", "，", "、", "；", "|", "-"):
+        if sep in t:
+            head: str = t.split(sep)[0].strip()
+            if len(head) >= 4:
+                t = head
+                break
+    return t[:limit].rstrip("，、,；;： ")
+
+
+
+
 def _item_ref(item: dict[str, Any]) -> dict[str, Any]:
     """要点携带的新闻引用（供前端点击跳原文）。"""
     return {
@@ -238,6 +282,39 @@ GLOSSARY: dict[str, str] = {
     "隐私": "个人信息的收集、使用与传播边界",
     "零信任": "不默认信任任何内部网络，每次访问都要重新验证",
     "零日漏洞": "厂商还不知道、因而暂时没有补丁的安全缺陷",
+    # ---- 时政词汇（第八期新增；两侧 digest_engine.py 须保持逐字一致） ----
+    "一带一路": "“丝绸之路经济带”和“21 世纪海上丝绸之路”国际合作倡议",
+    "两会": "全国人民代表大会和政协年度全体会议的合称，一般在每年 3 月召开",
+    "新质生产力": "以科技创新为主导、高科技高效能高质量的先进生产力",
+    "高质量发展": "从“有没有”转向“好不好”的发展要求，强调创新驱动与可持续性",
+    "中国式现代化": "中国共产党领导的社会主义现代化，含五大特征",
+    "全过程人民民主": "人民在选举、决策、管理、监督各环节持续参与的民主形式",
+    "人类命运共同体": "倡导各国共同建设持久和平、共同繁荣世界的理念",
+    "共同富裕": "全体人民共享发展成果、逐步缩小贫富差距的目标",
+    "双碳": "碳达峰与碳中和：2030 年前碳排放达峰、2060 年前实现净零排放",
+    "乡村振兴": "以产业兴旺、生态宜居等为总要求的“三农”工作战略",
+    "新发展格局": "以国内大循环为主体、国内国际双循环相互促进的格局",
+    "供给侧结构性改革": "从提高供给质量出发推进结构调整的经济改革主线",
+    "全国统一大市场": "打破地方保护与市场分割、让商品要素全国畅通流动的市场体系",
+    "宏观调控": "政府运用经济和法律手段对国民经济总量进行调节",
+    "营商环境": "企业开办经营所处的制度环境，含审批效率、法治保障等维度",
+    "专精特新": "专业化、精细化、特色化、新颖化中小企业的培育方向",
+    "实体经济": "物质产品和服务生产流通的经济活动，与虚拟经济相对",
+    "放管服": "简政放权、放管结合、优化服务的行政体制改革",
+    "多边主义": "通过联合国等多边机制协商处理国际事务的原则",
+    "金砖国家": "巴西、俄罗斯、印度、中国、南非等组成的新兴市场合作机制",
+    "上海合作组织": "2001 年成立、以安全合作起家的区域性国际组织",
+    "RCEP": "《区域全面经济伙伴关系协定》，由 15 国签署的全球最大自贸区",
+    "全球治理": "各国通过国际规则共同管理气候、卫生、金融等全球事务",
+    "京津冀协同发展": "疏解北京非首都功能、建设雄安新区的国家战略",
+    "长三角一体化": "推动沪苏浙皖协同发展的国家战略",
+    "粤港澳大湾区": "香港、澳门与珠三角九市共建的世界级城市群战略",
+    "长江经济带": "沿江 11 省市“共抓大保护、不搞大开发”的发展战略",
+    "两个确立": "确立党中央的核心地位与指导思想地位的政治表述",
+    "两个维护": "维护党中央核心地位与党中央权威、集中统一领导",
+    "四个意识": "政治意识、大局意识、核心意识、看齐意识",
+    "四个自信": "道路自信、理论自信、制度自信、文化自信",
+    "中央八项规定": "2012 年通过的改进工作作风、密切联系群众的规定",
 }
 # 英文术语必须按单词边界匹配，避免 "AI" 命中 "said" 这类误伤
 _GLOSSARY_LATIN = re.compile(
@@ -487,41 +564,53 @@ def compose_article(clusters: list[dict[str, Any]],
     )
     section_count: int = 0
     used_ids: set[str] = set()
+    used_topics: set[str] = set()
+
+    def _w_of(it: dict[str, Any]) -> int:
+        return sum(weight.get(t, 0) for t in set(tokenize(it.get("title", ""))))
+
     for c in clusters:
         if section_count >= max_sections:
             break
-        reps = sorted(
-            c["items"],
-            key=lambda it: -sum(weight.get(t, 0) for t in set(tokenize(it.get("title", "")))))
+        reps = sorted(c["items"], key=lambda it: -_w_of(it))
         if not reps:
             continue
-        rep = reps[0]
+        # 中文优先：总结必须是中文的，纯英文簇直接跳过
+        zh_reps = [it for it in reps if has_chinese(str(it.get("title", "")), 4)]
+        if not zh_reps:
+            continue
+        rep = zh_reps[0]
 
-        # ---- 定主题词：优先用代表条目自身的标题，保证主题与事实一致 ----
-        picked: str = topic_from_title(str(rep.get("title", "")), weight)
-        # 代表条目自身没有合格词 → 从整簇里找；换代表条目以保持主题一致
-        if not picked:
-            cluster_toks: list[str] = sorted(
-                [t for t in c["toks"] if t in weight],
-                key=lambda t: -weight.get(t, 0))
-            for t in cluster_toks:
-                if t in TOPIC_WORDS or any(t.lower() == g.lower() for g in GLOSSARY):
-                    picked = _display_term(t)
+        # ---- 定主题词：用代表条目自身标题；同段主题不重复 ----
+        def _pick_topic(item: dict[str, Any]) -> str:
+            title: str = str(item.get("title", ""))
+            first: str = topic_from_title(title, weight)
+            if first and first not in used_topics:
+                return first
+            # 第一个词已被前面的段落用过 → 用标题里的下一个合格词
+            cands: list[str] = sorted(set(tokenize(title)),
+                                      key=lambda t: (-weight.get(t, 0), -len(t)))
+            for t in cands:
+                if not (t in TOPIC_WORDS or any(t.lower() == g.lower() for g in GLOSSARY)):
+                    continue
+                shown: str = _display_term(t)
+                if shown not in used_topics:
+                    return shown
+            return first or ""
+
+        picked: str = _pick_topic(rep)
+        # 代表条目选不出合适主题 → 在同簇里找一条能选出新主题的中文新闻
+        if not picked or picked in used_topics:
+            for alt in zh_reps[1:]:
+                alt_topic: str = _pick_topic(alt)
+                if alt_topic and alt_topic not in used_topics:
+                    rep, picked = alt, alt_topic
                     break
-            if picked:
-                matched = [it for it in c["items"]
-                           if picked.lower() in str(it.get("title", "")).lower()]
-                if matched:
-                    rep = max(matched, key=lambda it: -sum(
-                        weight.get(t, 0) for t in set(tokenize(it.get("title", "")))))
-                else:
-                    # 簇里找到的词在任何代表标题里都不存在 → 放弃，退回标题首段
-                    picked = ""
 
-        # 4) 仍无主题词 → 退回标题首段
-        if not picked:
-            raw_title: str = clean_text(rep.get("title", ""), 30)
-            picked = raw_title[:12] if raw_title else "新动态"
+        # 仍无主题词 → 用标题里第一个完整短语兜底
+        if not picked or picked in used_topics:
+            picked = short_phrase(str(rep.get("title", "")), 16) or "新动态"
+        used_topics.add(picked)
 
         # 代表条目最终确定后再生成引用，并做去重检查（防止同一条重复成段）
         ref = _item_ref(rep)
@@ -529,9 +618,9 @@ def compose_article(clusters: list[dict[str, Any]],
             continue
         used_ids.add(ref["id"])
 
-        # 事实句：优先摘要首句，退回标题
-        fact: str = item_sentence(rep, limit=80).rstrip("。")
-        if not fact:
+        # 事实句：优先摘要首句，退回标题；截断时去掉不完整的半句
+        fact: str = trim_sentence(item_sentence(rep, limit=90), 90)
+        if not fact or not has_chinese(fact, 4):
             continue
         # 补一句"另有 N 条同向消息"，体现热度
         extra: int = len(c["items"]) - 1
@@ -551,8 +640,10 @@ def compose_article(clusters: list[dict[str, Any]],
         })
         section_count += 1
 
-    # ---- 术语解释：扫全部标题，给新词加注 ----
+    # ---- 术语解释：扫全部标题 + 已写好的段落正文，给新词加注 ----
     all_titles: list[str] = [str(it.get("title", "")) for it in items]
+    all_titles += [str(p.get("text", "")) for p in paragraphs
+                   if p.get("kind") == "section"]
     terms: list[dict[str, str]] = _glossary_hits(all_titles, limit=6)
     if terms:
         paragraphs.append({"kind": "glossary", "items": terms})
