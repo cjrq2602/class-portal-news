@@ -1,7 +1,7 @@
 {
  "date": "2026-10-21",
- "generated_at": 1792591125.3070357,
- "count": 397,
+ "generated_at": 1792593236.417519,
+ "count": 400,
  "items": [
   {
    "id": "194e48c16d654fc8",
@@ -40,12 +40,138 @@
    "published_bj": "2026-10-21 22:39"
   },
   {
+   "id": "1ef4bc4be27bed9f",
+   "source": "IT之家",
+   "title": "谷歌 CEO 桑达尔 · 皮查伊：公司正牺牲云业务短期收入支持前沿 AI 研发，2027 年算力难以锁定",
+   "url": "https://www.ithome.com/1/016/137.htm",
+   "summary": "IT之家 10 月 21 日消息，谷歌首席执行官桑达尔 · 皮查伊今日表示，公司正将部分算力从云业务转向前沿 AI 研发，以全力支持前沿 AI 发展。 对谷歌而言，开发前沿 AI 成本高昂，需要耗费大量计算资源和芯片，但这些资源原本可以拿给云业务高价出售。皮查伊对此表示，将资源投入前沿人工智能研发是谷歌的“根本所在”。 这名 CEO 还表示，若客户目前寻求锁定 2027 年算力，将面临极大困难，原因包括数据中心从决策到投运需两至三年，以及智能体任务需求激增。他解释称：“我们的云业务在任何特定时刻都能放弃短期收入，因为我们正做出计算方面的权衡，以支持前沿 AI 发展。”",
+   "published_at": 1792593061.0,
+   "published_bj": "2026-10-21 22:31"
+  },
+  {
+   "id": "2330a6e61b7c3ec9",
+   "source": "IT之家",
+   "title": "荣耀 WIN 2 × 三角洲行动职业赛事联名款真机首曝，采用曼德尔砖涂装设计",
+   "url": "https://www.ithome.com/1/016/136.htm",
+   "summary": "IT之家 10 月 21 日消息，在今日举行的荣耀 WIN 电竞宇宙嘉年华上，荣耀 WIN 2 手机正式发布，搭载骁龙 8EE6 旗舰芯、配备 2K 185Hz 屏幕，国补到手价 4999 元起。 发布会上还预告了荣耀 WIN 2 × 三角洲行动职业赛事联名款手机。 目前荣耀手机官方已曝光这款联名机型的真机外观。据介绍，该机将原生适配高清画质 185Hz， 并采用曼德尔砖涂装设计 。 IT之家附荣耀 WIN 2 手机一图知如下：",
+   "published_at": 1792592422.0,
+   "published_bj": "2026-10-21 22:20"
+  },
+  {
+   "id": "094e2178b63be7ae",
+   "source": "IT之家",
+   "title": "SpaceX 盘中暴涨 11% 市值超台积电：与特斯拉合并传闻 + 超预期业绩",
+   "url": "https://www.ithome.com/1/016/135.htm",
+   "summary": "IT之家 10 月 21 日消息，今晚美股开盘后，SpaceX 股价上涨 11.18%，报 164.308 美元 / 股，总市值报 2.23 万亿美元 （IT之家注：现汇率约合 14.92 万亿元人民币） ， 超越台积电，位列美股总市值第六大上市公司 （前五分别为英伟达、苹果、AlphaBet、微软、亚马逊）。 IT之家注意到，SpaceX 今日发布 2026 财年（2026 年 1 月～2026 年 12 月）第三财季（2026 年 7 月～2026 年 9 月）报告： 营业总收入 ：145.75 亿美元 （IT之家注：现汇率约合 975.6 亿元人民币） ， 同比增长 161% ，环比增长",
+   "published_at": 1792592380.0,
+   "published_bj": "2026-10-21 22:19"
+  },
+  {
+   "id": "5eed01b24f7f66ba",
+   "source": "IT之家",
+   "title": "OpenAI 联手 PerturbAI：让近 2000 个 AI 智能体一起搞科研，加速新药研发",
+   "url": "https://www.ithome.com/1/016/134.htm",
+   "summary": "北京时间 10 月 21 日，生物技术公司 PerturbAI 宣布与 OpenAI 合作的最新进展。双方联合斯克里普斯研究所（Scripps Research）开发了一套 AI 推理框架，通过近 2000 个 AI 智能体并行工作，帮助科学家分析复杂生物实验数据、检索文献，并提出可供后续实验检验的假说。 据 PerturbAI 介绍，这套系统在分析其全脑基因组图谱时，用 32 分钟完成数据分析与研究发现整合。公司估计，如果由人类按串行方式开展分析和文献审阅，相关工作可能需要数月至一年。这一时间对比来自公司估算，并非与人类团队开展的同期对照测试。 在具体流程中，AI 智能体分别分析细胞反应、搜",
+   "published_at": 1792592204.0,
+   "published_bj": "2026-10-21 22:16"
+  },
+  {
+   "id": "e0e2d33f4083f181",
+   "source": "IT之家",
+   "title": "苹果 iPhone Duo 更新 iOS 27.2 后可使用 Apple Pencil",
+   "url": "https://www.ithome.com/1/016/133.htm",
+   "summary": "IT之家 10 月 21 日消息，据科技媒体 9To5Mac 今天报道，苹果上个月发布 iPhone Duo 时曾表示，公司将于今年晚些时候，为这款折叠屏手机带来 Apple Pencil 支持。当时外界普遍认为，“晚些时候”可能意味着要等到 11 月或 12 月。 不过如今有个好消息：iPhone Duo 将在更新 iOS 27.2 操作系统后，支持 Apple Pencil。据 X 平台博主 Max Weinbach 实测， 他手上的 iPhone Duo 安装 iOS 27.2 RC 后已经支持这一功能 。如果你抢到了首发，那只需要等几天就能用上。 需要注意的是，iPhone Duo 仅",
+   "published_at": 1792592057.0,
+   "published_bj": "2026-10-21 22:14"
+  },
+  {
+   "id": "0d09980104fb76ba",
+   "source": "Hacker News",
+   "title": "Patch the Planet",
+   "url": "https://patchtheplanet.org/",
+   "summary": "Article URL: https://patchtheplanet.org/ Comments URL: https://news.ycombinator.com/item?id=50181265 Points: 13 # Comments: 2",
+   "published_at": 1792591720.0,
+   "published_bj": "2026-10-21 22:08"
+  },
+  {
+   "id": "8f9eb5712246a63e",
+   "source": "Hacker News",
+   "title": "OpenAI: Patch the Planet. Global response coordination as AI uncovers PHP vulns",
+   "url": "https://openai.com/index/coordinated-disclosure-of-critical-vulnerabilities/",
+   "summary": "Article URL: https://openai.com/index/coordinated-disclosure-of-critical-vulnerabilities/ Comments URL: https://news.ycombinator.com/item?id=50181175 Points: 38 # Comments: 9",
+   "published_at": 1792591423.0,
+   "published_bj": "2026-10-21 22:03"
+  },
+  {
+   "id": "56ecef0ebec42fe6",
+   "source": "TechCrunch",
+   "title": "Foursquare co-founder says equity holders saw no returns from the company’s acquisition",
+   "url": "https://techcrunch.com/2026/10/21/foursquare-co-founder-says-equity-holders-saw-no-returns-from-the-companys-acquisition/",
+   "summary": "Foursquare raised $411 million in funding according to PitchBook data, but its equity holders saw no returns from its final acquisition.",
+   "published_at": 1792591391.0,
+   "published_bj": "2026-10-21 22:03"
+  },
+  {
+   "id": "3b04b6c863209ee1",
+   "source": "IT之家",
+   "title": "史泰博遭黑客入侵：攻击者劫持员工会话生成超 1.5 万张礼品卡，面值逾 500 万美元",
+   "url": "https://www.ithome.com/1/016/132.htm",
+   "summary": "IT之家 10 月 21 日消息，科技媒体 404 Media 昨日报道称，一伙黑客入侵了办公用品零售商史泰博（Staples）的内部客户服务系统，非法生成超过 1.5 万张礼品卡，总面值超过 500 万美元。 根据近期解封的搜查令申请，这些礼品卡随后被犯罪团伙用于在美国多家零售商购物，大量电子产品被集中存放后运往其他国家。 根据搜查令申请，攻击者从公司外部访问 Nexus 客户服务系统，并多次发起堆内存转储请求。堆转储能够获取应用程序在特定时刻保存在内存中的数据。攻击者利用这些数据劫持已经登录的客服人员会话，借助员工认证身份生成礼品卡，再将卡片发送至自己的电子邮箱。 美国国土安全调查局（HS",
+   "published_at": 1792591295.0,
+   "published_bj": "2026-10-21 22:01"
+  },
+  {
+   "id": "68975e35986b5dbe",
+   "source": "Hacker News",
+   "title": "The No Kings Takedown Is Why You Shouldn't Rent Your Megaphone from Zuck",
+   "url": "https://www.techdirt.com/2026/10/20/accident-or-not-the-no-kings-takedown-is-why-you-shouldnt-rent-your-megaphone-from-zuck/",
+   "summary": "Article URL: https://www.techdirt.com/2026/10/20/accident-or-not-the-no-kings-takedown-is-why-you-shouldnt-rent-your-megaphone-from-zuck/ Comments URL: https://news.ycombinator.com/item?id=50181137 Points: 33 # Comments: 1",
+   "published_at": 1792591285.0,
+   "published_bj": "2026-10-21 22:01"
+  },
+  {
+   "id": "0bfd77c2b0bb43d3",
+   "source": "Hacker News",
+   "title": "DuckDB 2.0.0 LTS \"Cinnamon Teal\"",
+   "url": "https://duckdb.org/2026/10/21/announcing-duckdb-200",
+   "summary": "Article URL: https://duckdb.org/2026/10/21/announcing-duckdb-200 Comments URL: https://news.ycombinator.com/item?id=50181136 Points: 20 # Comments: 3",
+   "published_at": 1792591282.0,
+   "published_bj": "2026-10-21 22:01"
+  },
+  {
+   "id": "8858af1189f2dcb0",
+   "source": "TechCrunch",
+   "title": "AI promises productivity, but for managers, it’s mostly a headache for now",
+   "url": "https://techcrunch.com/2026/10/21/ai-promises-productivity-but-for-managers-its-mostly-a-headache-for-now-says-new-survey/",
+   "summary": "More than 50% of managers say they're finding it harder to evaluate employees' work after adopting AI, according to a new survey.",
+   "published_at": 1792591200.0,
+   "published_bj": "2026-10-21 22:00"
+  },
+  {
+   "id": "8ef8dd7b11d7e601",
+   "source": "IT之家",
+   "title": "消息称《上古卷轴 6》预计 2028 年发售，有望成 XBOX Helix 次世代主机独占游戏",
+   "url": "https://www.ithome.com/1/016/131.htm",
+   "summary": "IT之家 10 月 21 日消息，科技媒体 Wccftech 今日报道称，《上古卷轴 6》预计将在 2028 年发售，或将成为微软 XBOX“Project Helix”次世代主机的独占游戏之一。 《财富》杂志今日报道称，XBOX 次世代主机不会早于 2028 年圣诞购物季推出。爆料人士 Kepler_L2 认为，AMD 方面原本的研发进度，是准备让 XBOX Helix 在 2027 年圣诞季推出。微软很可能在等一款重磅级独占游戏，以便与主机同步上市带动装机量。 虽然微软最近几年似乎已经不再使用这种销售策略，而是主打全平台。但 XBOX CEO 夏尔马已经在大刀阔斧地改革，其中就包括重新推出",
+   "published_at": 1792591143.0,
+   "published_bj": "2026-10-21 21:59"
+  },
+  {
    "id": "ac41435f264b388f",
    "source": "IT之家",
    "title": "维信诺官宣 iQOO Neo12 手机超冠屏行业唯一搭载「天空之镜」发光材料",
    "url": "https://www.ithome.com/1/016/130.htm",
    "summary": "IT之家 10 月 21 日消息，维信诺今日宣布， iQOO Neo12 手机的超冠屏行业唯一搭载维信诺「天空之镜」发光材料 、行业唯一搭载维信诺 pTSF 技术的 2K 185Hz 屏。 据IT之家此前报道，在 10 月 14 日的维信诺 × iQOO × 清华大学屏幕技术沟通会上，iQOO 宣布，iQOO Neo12 新机拥有三大首发技术 + 七大争锋屏幕体验 + 2K 185Hz 超豪华游戏生态，并喊话“让 185Hz 进入 2K 时代”。 另外，iQOO Neo12 还搭载第五代骁龙 8 至尊版处理器 + 冰穹风冷散热系统，配备自研电竞芯片 Q3，支持光追、超分、超帧、滤镜、游戏相机。",
    "published_at": 1792590658.0,
+   "published_bj": "2026-10-21 21:50"
+  },
+  {
+   "id": "d00b4e470e5e2d4b",
+   "source": "Hacker News",
+   "title": "PHP 8.5.12, 8.4.27, 8.3.36 and 8.2.35 out",
+   "url": "https://www.php.net/index.php",
+   "summary": "Article URL: https://www.php.net/index.php Comments URL: https://news.ycombinator.com/item?id=50180943 Points: 208 # Comments: 63",
+   "published_at": 1792590605.0,
    "published_bj": "2026-10-21 21:50"
   },
   {
@@ -85,6 +211,24 @@
    "published_bj": "2026-10-21 21:47"
   },
   {
+   "id": "81a5633f498fdb6f",
+   "source": "Hacker News",
+   "title": "Updated PHP version released to GitHub",
+   "url": "https://github.com/php/php-src/releases/tag/php-8.2.35",
+   "summary": "Article URL: https://github.com/php/php-src/releases/tag/php-8.2.35 Comments URL: https://news.ycombinator.com/item?id=50180873 Points: 251 # Comments: 88",
+   "published_at": 1792590333.0,
+   "published_bj": "2026-10-21 21:45"
+  },
+  {
+   "id": "35315df047428550",
+   "source": "Hacker News",
+   "title": "PHP2Shell: AI uncovers critical RCE in PHP",
+   "url": "https://www.wiz.io/blog/php2shell-php-rce",
+   "summary": "Article URL: https://www.wiz.io/blog/php2shell-php-rce Comments URL: https://news.ycombinator.com/item?id=50180836 Points: 97 # Comments: 20",
+   "published_at": 1792590199.0,
+   "published_bj": "2026-10-21 21:43"
+  },
+  {
    "id": "d6be8610800a5d39",
    "source": "IT之家",
    "title": "黄仁勋 GTC 柏林反驳 AI 终结软件论：工具公司将迎来更多使用者",
@@ -109,6 +253,15 @@
    "url": "https://www.ithome.com/1/016/123.htm",
    "summary": "IT之家 10 月 21 日消息，在 2026 世界智能网联汽车大会上，蔚来创始人、董事长、CEO 李斌分享了一组最新数据： 截至目前，基于世界模型架构 + 闭环强化学习的蔚来智能辅助驾驶系统， 已经部署在超过 95 万辆智能电动汽车上 ； 智能辅助驾驶安全行驶里程超过 91.4 亿公里， 累计使用时长达到 1.12 亿小时 ，为用户避免或减轻了 907 万次潜在事故影响； 根据内部数据， 人车共驾的平均安全里程达到人驾的 8 倍 。根据四家保险公司的数据佐证，搭载蔚来智能辅助驾驶系统的车辆，事故安全损失逐年降低，降幅超 30%。 据IT之家今日早些时候报道，李斌在 2026 世界智能网联汽车",
    "published_at": 1792589864.0,
+   "published_bj": "2026-10-21 21:37"
+  },
+  {
+   "id": "d7d9ad5653e17345",
+   "source": "Hacker News",
+   "title": "OpenAI: Using AI agents to uncover new leads in biological data",
+   "url": "https://openai.com/index/scaling-ai-research-for-complex-biological-data/",
+   "summary": "Article URL: https://openai.com/index/scaling-ai-research-for-complex-biological-data/ Comments URL: https://news.ycombinator.com/item?id=50180752 Points: 8 # Comments: 0",
+   "published_at": 1792589820.0,
    "published_bj": "2026-10-21 21:37"
   },
   {
@@ -3449,132 +3602,6 @@
    "summary": "点击查看原文>",
    "published_at": 1792515600.0,
    "published_bj": "2026-10-21 01:00"
-  },
-  {
-   "id": "a7cab2cafe9c75c5",
-   "source": "Hacker News",
-   "title": "Google open-sources TorchTPU, a native PyTorch back end for TPUs",
-   "url": "https://github.com/google-pytorch/torch_tpu",
-   "summary": "Article URL: https://github.com/google-pytorch/torch_tpu Comments URL: https://news.ycombinator.com/item?id=50169053 Points: 25 # Comments: 7",
-   "published_at": 1792514424.0,
-   "published_bj": "2026-10-21 00:40"
-  },
-  {
-   "id": "f1ff20aac3979043",
-   "source": "cnBeta",
-   "title": "AI辅助开发助力ReactOS突破技术难关 成功实现雷电4支持",
-   "url": "https://www.cnbeta.com.tw/articles/tech/1583112.htm",
-   "summary": "开源操作系统项目ReactOS近日取得一项重要进展。开发团队宣布，在人工智能辅助编程技术的帮助下，系统已经成功实现对Thunderbolt 4（雷电4）接口的支持。这项成果不仅增强了ReactOS对现代硬件的兼容能力，也成为AI辅助软件开发在复杂底层系统工程领域应用的又一案例。 阅读全文",
-   "published_at": 1792513842.0,
-   "published_bj": "2026-10-21 00:30"
-  },
-  {
-   "id": "8ad19896659cd4f8",
-   "source": "TechCrunch",
-   "title": "Ex-Nvidia-turned-VC Amulya Vishwanath: ‘Physical AI is in it’s LEGO era’",
-   "url": "https://techcrunch.com/2026/10/20/ex-nvidia-turned-vc-amulya-vishwanath-physical-ai-is-in-its-lego-era/",
-   "summary": "It’s the moment everyone is waiting for — the ChatGPT moment for robotics, Amulya Vishwanath explained to TechCrunch’s Equity.",
-   "published_at": 1792513206.0,
-   "published_bj": "2026-10-21 00:20"
-  },
-  {
-   "id": "ca69f94e7bc2cfef",
-   "source": "cnBeta",
-   "title": "奔驰和英伟达深化战略合作 推动下一代辅助驾驶系统的开发",
-   "url": "https://www.cnbeta.com.tw/articles/tech/1583110.htm",
-   "summary": "英伟达与梅赛德斯-奔驰宣布，双方将深化战略合作，共同推动下一代辅助驾驶系统的开发。其中融合了梅赛德斯-奔驰的汽车工程技术、安全领域的深厚积累及 MB.OS 操作系统，还有英伟达的加速计算和AI技术。 阅读全文",
-   "published_at": 1792512557.0,
-   "published_bj": "2026-10-21 00:09"
-  },
-  {
-   "id": "a4a64e1f3657f76f",
-   "source": "cnBeta",
-   "title": "西班牙运营商提离谱要求：华为应补偿设备被禁用带来的损失",
-   "url": "https://www.cnbeta.com.tw/articles/tech/1583108.htm",
-   "summary": "因担心未来欧盟一纸禁令让自己承担巨额设备更换成本，西班牙电信运营商想出一个离谱的点子。据西班牙《扩展报》近日报道，法国电信集团Orange旗下西班牙公司Orange España向其移动网络设备供应商华为提了一项颇为特殊的要求：如果未来西班牙或欧盟禁止在通信网络中使用中国企业设备，华为需要补偿Orange在相关设备上的投资损失。 阅读全文",
-   "published_at": 1792512409.0,
-   "published_bj": "2026-10-21 00:06"
-  },
-  {
-   "id": "751539fe9689dd4c",
-   "source": "cnBeta",
-   "title": "高通将全球裁员 CEO称业务扩张改变了人才需求",
-   "url": "https://www.cnbeta.com.tw/articles/tech/1583106.htm",
-   "summary": "据路透社报道，高通首席执行官克里斯蒂亚诺·安蒙在一份内部备忘录中告知员工，公司将在年度员工评估后，开展以绩效为重点的全球裁员，相关通知将于11月开始发出。 阅读全文",
-   "published_at": 1792512365.0,
-   "published_bj": "2026-10-21 00:06"
-  },
-  {
-   "id": "1a6617ba3386e8e7",
-   "source": "cnBeta",
-   "title": "股价三日累涨超30% 宇树科技紧急提示风险",
-   "url": "https://www.cnbeta.com.tw/articles/tech/1583104.htm",
-   "summary": "10月20日，宇树科技发布股票交易异常波动公告，公司股票连续三个交易日（10月16日、10月19日、10月20日）收盘价格涨幅偏离值累计超过30%，触发科创板异常交易监控标准。 阅读全文",
-   "published_at": 1792512343.0,
-   "published_bj": "2026-10-21 00:05"
-  },
-  {
-   "id": "d478bc1d0e774981",
-   "source": "cnBeta",
-   "title": "DeepSeek工程师参与华为芯片设计 训练环节彻底去英伟达化",
-   "url": "https://www.cnbeta.com.tw/articles/tech/1583102.htm",
-   "summary": "DeepSeek正与华为展开深度合作，参与影响华为未来人工智能芯片的设计。这种合作关系已超出通常的供应商与客户范畴，标志着中国两大科技企业正加速降低对英伟达芯片的依赖。 阅读全文",
-   "published_at": 1792512303.0,
-   "published_bj": "2026-10-21 00:05"
-  },
-  {
-   "id": "1ff228b15ef8f29a",
-   "source": "cnBeta",
-   "title": "法国骚乱期间 路易威登、爱马仕等奢侈品零售商遭洗劫",
-   "url": "https://www.cnbeta.com.tw/articles/tech/1583100.htm",
-   "summary": "上周六，在巴黎高档商业区旺多姆广场（Place Vendôme），六名蒙面人员将一块道路隔离栏当作攻城槌，猛烈撞击路易威登（Louis Vuitton）精品店的橱窗，周围数十名身穿黑衣的人则为他们呐喊助威。抢劫者最终未能闯入店内，但险些得手。 阅读全文",
-   "published_at": 1792512256.0,
-   "published_bj": "2026-10-21 00:04"
-  },
-  {
-   "id": "f6f7dbffe3140b96",
-   "source": "cnBeta",
-   "title": "AMD宣布FSR 4.1全面扩展支持范围 RX 6000显卡、APU与Xbox均将获得升级",
-   "url": "https://www.cnbeta.com.tw/articles/tech/1583098.htm",
-   "summary": "AMD于10月20日正式公布FSR 4.1超分辨率技术的最新扩展计划，将把这项基于机器学习的图像增强技术带给更多硬件平台，包括Radeon RX 6000系列显卡、多款APU产品以及Xbox Series X和Xbox Series S游戏主机。 阅读全文",
-   "published_at": 1792512216.0,
-   "published_bj": "2026-10-21 00:03"
-  },
-  {
-   "id": "185b416e0c00cdf4",
-   "source": "Hacker News",
-   "title": "Voxtral 3",
-   "url": "https://mistral.ai/news/voxtral-3/",
-   "summary": "Article URL: https://mistral.ai/news/voxtral-3/ Comments URL: https://news.ycombinator.com/item?id=50168396 Points: 11 # Comments: 0",
-   "published_at": 1792512127.0,
-   "published_bj": "2026-10-21 00:02"
-  },
-  {
-   "id": "c339068e93531c5e",
-   "source": "TechCrunch",
-   "title": "Streaming guide JustWatch becomes a streamer itself",
-   "url": "https://techcrunch.com/2026/10/20/streaming-guide-justwatch-becomes-a-streamer-itself/",
-   "summary": "JustWatch, the popular streaming search guide used by 50 million people, is launching its own streaming service, offering free, ad-supported movies and shows alongside a $3.99-per-month ad-free tier and movie rentals.",
-   "published_at": 1792512084.0,
-   "published_bj": "2026-10-21 00:01"
-  },
-  {
-   "id": "ea5f49cc619bcb48",
-   "source": "Hacker News",
-   "title": "Making a VGA Driver in SystemVerilog",
-   "url": "https://lukaswerner.com/post/2026-10-20@bottom-up-vga",
-   "summary": "Article URL: https://lukaswerner.com/post/2026-10-20@bottom-up-vga Comments URL: https://news.ycombinator.com/item?id=50168376 Points: 7 # Comments: 0",
-   "published_at": 1792512015.0,
-   "published_bj": "2026-10-21 00:00"
-  },
-  {
-   "id": "be2809a377d73634",
-   "source": "TechCrunch",
-   "title": "Plants can speak using electricity, so this startup built an AI model to decipher their language",
-   "url": "https://techcrunch.com/2026/10/20/plants-can-speak-using-electricity-so-this-startup-built-an-ai-model-to-decipher-their-language/",
-   "summary": "Electric Plant has built an AI-powered translator to help humans listen to what plants are saying with the subtle electricity coursing through their stems.",
-   "published_at": 1792512000.0,
-   "published_bj": "2026-10-21 00:00"
   }
  ]
 }
