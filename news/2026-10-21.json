@@ -1,8 +1,35 @@
 {
  "date": "2026-10-21",
- "generated_at": 1792564263.9384258,
- "count": 219,
+ "generated_at": 1792567532.4515655,
+ "count": 224,
  "items": [
+  {
+   "id": "ee42d31409f22815",
+   "source": "InfoQ中文",
+   "title": "代码迁移准确率从 5.4% 飙至 97.9%！OpenAI 挑战 COBOL，几十年的老系统真能交给 AI 了？",
+   "url": "https://www.infoq.cn/article/LZsVYHAH1jyOtLg6Yiwk?utm_source=rss&utm_medium=article",
+   "summary": "点击查看原文>",
+   "published_at": 1792594829.0,
+   "published_bj": "2026-10-21 23:00"
+  },
+  {
+   "id": "423f47c62fa0205a",
+   "source": "InfoQ中文",
+   "title": "PingCAP 遭大规模数据泄露！黑客声称窃取 10.6TB 数据，涉及 18 万条组织记录",
+   "url": "https://www.infoq.cn/article/2KQlziFu7oBa9Q2ZEZyr?utm_source=rss&utm_medium=article",
+   "summary": "点击查看原文>",
+   "published_at": 1792594376.0,
+   "published_bj": "2026-10-21 22:52"
+  },
+  {
+   "id": "bc4a0bf150030985",
+   "source": "InfoQ中文",
+   "title": "17岁Kimi前研究员陈广宇被曝投奔Jeff Dean创业团队，新公司正寻求500亿美元估值",
+   "url": "https://www.infoq.cn/article/yH0DHL8Nil26ES43TeF1?utm_source=rss&utm_medium=article",
+   "summary": "点击查看原文>",
+   "published_at": 1792593551.0,
+   "published_bj": "2026-10-21 22:39"
+  },
   {
    "id": "68743903dc7fcc63",
    "source": "InfoQ中文",
@@ -74,6 +101,15 @@
    "summary": "点击查看原文>",
    "published_at": 1792574460.0,
    "published_bj": "2026-10-21 17:21"
+  },
+  {
+   "id": "3aa3f7da3cc13848",
+   "source": "cnBeta",
+   "title": "问界回应车辆起火事故",
+   "url": "https://www.cnbeta.com.tw/articles/tech/1583208.htm",
+   "summary": "10月21日，问界用户服务发布关于陕西省榆林神木市车辆事故的说明：2026年10月17日23点25分左右，一辆问界汽车在榆林神木市发生碰撞后起火。碰撞发生后，车辆紧急呼叫(eCALL)系统即时触发并接通，同时问界道路救援中心拨打122上报事故信息，协助开展救援。对于此次意外事故，我们深表痛心。 阅读全文",
+   "published_at": 1792567345.0,
+   "published_bj": "2026-10-21 15:22"
   },
   {
    "id": "b2b70663c9deb385",
@@ -767,6 +803,15 @@
    "summary": "IT之家 10 月 21 日消息，科技媒体 Windows Latest 今天（10 月 21 日）发布博文，报道称在 Windows 11 Build 26340.9750 预览版中， 微软正在测试新的任务栏右键菜单，让用户无需进入设置应用，即可切换任务栏的四边贴靠。 微软 Windows 11 系统目前虽然支持四边贴靠，但在操作过程中，用户必须进入到设置应用中才能切换，在桌面任务栏中只有“任务管理器”和“任务栏设置”两个选项。 而在 Windows 11 最新预览版中，微软正在测试新的任务栏右键菜单功能，包含“左、上、右、下”四个按钮，快速将任务栏移动到屏幕任意边缘。 据 Windows ",
    "published_at": 1792551299.0,
    "published_bj": "2026-10-21 10:54"
+  },
+  {
+   "id": "3e25a3f1142b630b",
+   "source": "Hacker News",
+   "title": "C# now beats Rust on WASM size",
+   "url": "https://github.com/zion-sati/NetWasm",
+   "summary": "Article URL: https://github.com/zion-sati/NetWasm Comments URL: https://news.ycombinator.com/item?id=50175510 Points: 25 # Comments: 3",
+   "published_at": 1792551227.0,
+   "published_bj": "2026-10-21 10:53"
   },
   {
    "id": "ffe12db4431bbf90",
