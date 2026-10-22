@@ -1,0 +1,79 @@
+{
+ "date": "2026-10-20",
+ "generated_at": 1792632673.910731,
+ "count": 8,
+ "items": [
+  {
+   "id": "b1a8904eddfdf244",
+   "source": "BBC中文",
+   "title": "朝鮮發佈金正恩照片：為何他的死亡傳言總是捲土重來？",
+   "url": "https://www.bbc.com/zhongwen/articles/cm4g1zr53y80o/trad?at_medium=RSS&at_campaign=rss",
+   "summary": "在未經證實的傳言傳開後，朝鮮官媒發布了這位獨裁者與其女兒的照片。",
+   "published_at": 1792508284.0,
+   "published_bj": "2026-10-20 22:58"
+  },
+  {
+   "id": "158dfd41a940b7f4",
+   "source": "BBC中文",
+   "title": "普京提議中美俄「三方會談」：特朗普響應，北京未表態，基輔反對",
+   "url": "https://www.bbc.com/zhongwen/articles/cmlyl0j445peo/trad?at_medium=RSS&at_campaign=rss",
+   "summary": "在普京建議三方於APEC期間進行會談後，特朗普表示願意參與，強調會談重點將是無核化問題。目前中方尚未就三方會談表態。",
+   "published_at": 1792485609.0,
+   "published_bj": "2026-10-20 16:40"
+  },
+  {
+   "id": "fb17738cc94ac978",
+   "source": "BBC中文",
+   "title": "美國下令政府系統禁用DeepSeek：中美AI競爭繼續升溫",
+   "url": "https://www.bbc.com/zhongwen/articles/cmy0r4kd2462o/trad?at_medium=RSS&at_campaign=rss",
+   "summary": "DeepSeek的免費聊天機器人應用程式在Apple App Store下載排行榜上名列前茅，其AI模型也被美國科技企業採用。Snowflake、Vercel及OpenRouter等公司都已將DeepSeek整合至其提供給客戶的服務中。",
+   "published_at": 1792482165.0,
+   "published_bj": "2026-10-20 15:42"
+  },
+  {
+   "id": "e7e905d571bb4215",
+   "source": "BBC中文",
+   "title": "香港演員鍾雪瑩、袁澧林發聲之後，她們親述被性別冒犯的經歷",
+   "url": "https://www.bbc.com/zhongwen/articles/cqly0v0xnxdvo/trad?at_medium=RSS&at_campaign=rss",
+   "summary": "BBC中文訪問了四位來自不同行業的女性，了解言語冒犯是如何在工作環境中出現；當性別冒犯被包裝成「玩笑」，她們是如何應對。",
+   "published_at": 1792471062.0,
+   "published_bj": "2026-10-20 12:37"
+  },
+  {
+   "id": "5f430d8c9fcfd449",
+   "source": "BBC中文",
+   "title": "俄羅斯境內反普京破壞行動的隱秘世界",
+   "url": "https://www.bbc.com/zhongwen/articles/c6d09dpdn294o/trad?at_medium=RSS&at_campaign=rss",
+   "summary": "兩名男子講述了他們聲稱在戰爭期間為烏克蘭情報部門提供支援所從事的工作。",
+   "published_at": 1792458878.0,
+   "published_bj": "2026-10-20 09:14"
+  },
+  {
+   "id": "47942bdfa579c746",
+   "source": "FT中文网",
+   "title": "日本面临“数月之后”钇供应告罄局面",
+   "url": "https://www.ftchinese.com/story/001111153",
+   "summary": "知情人士称，日本已向美国政府及美国蓝筹企业提出请求，希望美方敦促中国放宽稀土出口管制。",
+   "published_at": 1792425600.0,
+   "published_bj": "2026-10-20 00:00"
+  },
+  {
+   "id": "c6c03ca4472884f3",
+   "source": "FT中文网",
+   "title": "中期选举前景打压美国军工股",
+   "url": "https://www.ftchinese.com/story/001111143",
+   "summary": "随着投资者押注民主党将在中期选举中拿下国会两院控制权，进而阻挠特朗普增加5000亿美元军费支出的计划，美国军工股走势低迷。",
+   "published_at": 1792425600.0,
+   "published_bj": "2026-10-20 00:00"
+  },
+  {
+   "id": "2333e1c7159e0e53",
+   "source": "FT中文网",
+   "title": "叫板星链：欧洲电信运营商探索卫星移动服务",
+   "url": "https://www.ftchinese.com/story/001111141",
+   "summary": "德国电信、Orange、西班牙电信和沃达丰将探讨联合竞标无线电频谱资源的可能性，从而使他们能够在欧洲提供“终端直连”卫星移动服务。",
+   "published_at": 1792425600.0,
+   "published_bj": "2026-10-20 00:00"
+  }
+ ]
+}

@@ -1,8 +1,476 @@
 {
  "date": "2026-10-22",
- "generated_at": 1792607240.018517,
- "count": 21,
+ "generated_at": 1792632671.6735306,
+ "count": 100,
  "items": [
+  {
+   "id": "d29e4259c2f166e9",
+   "source": "InfoQ中文",
+   "title": "AWS Lambda推动无服务器向长时间运行的工作负载发展",
+   "url": "https://www.infoq.cn/article/0vwVMhufb66SBofWsvRz?utm_source=rss&utm_medium=article",
+   "summary": "点击查看原文>",
+   "published_at": 1792660260.0,
+   "published_bj": "2026-10-22 17:11"
+  },
+  {
+   "id": "9a2f745c3e07bc79",
+   "source": "IT之家",
+   "title": "Bose 收购“骷髅头”Skullcandy：瞄准年轻消费群体，拥抱街头潮流文化",
+   "url": "https://www.ithome.com/1/016/207.htm",
+   "summary": "IT之家 10 月 22 日消息，音频巨头 Bose 昨日（10 月 21 日）发布公告， 已完成收购潮流耳机品牌 Skullcandy (官方中文名为斯酷凯蒂，不过用户更习惯叫它“骷髅头”) ，目前官方并未披露具体交易价格。 IT之家援引博文介绍，两家公司此前已通过“Sound by Bose”技术合作建立联系，Skullcandy 的 Method 360 ANC 真无线耳机和 Crusher 1080 ANC 头戴式耳机，均引入了 Bose 的主动降噪及头部追踪空间音频等技术。 Bose 表示，收购 Skullcandy 的核心目的在于扩大用户覆盖面。Skullcandy 以大胆设计、潮",
+   "published_at": 1792632632.0,
+   "published_bj": "2026-10-22 09:30"
+  },
+  {
+   "id": "1565c8f0cd4f3335",
+   "source": "IT之家",
+   "title": "西门子医疗与英伟达官宣合作：用 AI 推进癌症诊疗，开发下一代自适应放疗",
+   "url": "https://www.ithome.com/1/016/206.htm",
+   "summary": "IT之家 10 月 22 日消息，西门子医疗与英伟达今日宣布达成合作， 双方正共同开发下一代自适应放射治疗技术，融合智能体与机器人智能 ，将影像和肿瘤学专业知识与加速计算及仿真相结合，以简化工作流程并提升医疗可及性。 西门子医疗首席执行官孟天齐（Bernd Montag）表示，西门子医疗与英伟达共同确定了自适应放射治疗领域 首批开发工作的三个方向 ： 治疗规划中的智能体 AI，有望帮助评估治疗方案、执行计算及其它任务，并与临床医生互动； 先进的患者仿真，可利用患者特异性数字孪生在放射治疗开始前测试治疗场景； 实时自适应计算，可帮助肿瘤团队在治疗过程中更好地应对患者不断变化的状况。 孟天齐介绍称",
+   "published_at": 1792632500.0,
+   "published_bj": "2026-10-22 09:28"
+  },
+  {
+   "id": "b90b8c89d15112ff",
+   "source": "IT之家",
+   "title": "《GTA 6》首支电视广告亮相 NBA 转播，删减淋浴亲密镜头",
+   "url": "https://www.ithome.com/1/016/205.htm",
+   "summary": "IT之家 10 月 22 日消息，当地时间昨晚，即将发售的《侠盗猎车手 6》（Grand Theft Auto 6，简称 GTA 6）首支电视广告在几场 NBA 赛事转播中播出。这支广告大体上就是上周放出的首发预告片，但删掉了几段尺度较大的淋浴亲密镜头。 IT之家注意到，当地时间 10 月 20 日，不少网友在社交平台发现，微调后的《GTA 6》首发预告片在 NBA 新赛季揭幕战中播出。具体来说，观众是在纽约尼克斯对阵费城 76 人的比赛转播里看到的这支广告。还有人表示，当晚活塞对阵凯尔特人、雷霆对阵马刺的比赛期间，也看到了这支广告或是相近版本。 大家看到的这版电视广告里，第一段淋浴镜头得以保",
+   "published_at": 1792632357.0,
+   "published_bj": "2026-10-22 09:25"
+  },
+  {
+   "id": "e9ec609cc0214e1e",
+   "source": "IT之家",
+   "title": "《赛博朋克 2077》发布《边缘行者 2》版本更新 2.5：双持武器、新服装、新任务",
+   "url": "https://www.ithome.com/1/016/204.htm",
+   "summary": "IT之家 10 月 22 日消息，CD Projekt 为配合 Netflix 动画《赛博朋克：边缘行者 2》上线，为《赛博朋克 2077》推出大型更新。 《赛博朋克 2077》2.5 版更新定于 &nbsp;10 月 22 日正式登陆 PC、Mac（Steam、GOG、Epic Games Store）、PlayStation 5 和 Xbox Series X|S 平台，Switch 2 版稍后推出。 此次更新不仅加入了《边缘行者 2》联动支线任务、新道具、电台和义体外观自定义功能，还带来更多夜之城支线任务、官方模组支持、双持武器玩法等内容。 距离《赛博朋克 2077》号称“最后一次大型更",
+   "published_at": 1792632202.0,
+   "published_bj": "2026-10-22 09:23"
+  },
+  {
+   "id": "eb05df7dc235cd70",
+   "source": "IT之家",
+   "title": "工业和信息化部工业软件标准化技术委员会成立",
+   "url": "https://www.ithome.com/1/016/202.htm",
+   "summary": "IT之家 10 月 22 日消息，工业和信息化部今日官宣，10 月 21 日， 工业和信息化部工业软件标准化技术委员会 （以下简称“工业软件标委会”）成立大会在浙江省杭州市召开。 工业和信息化部官方介绍称，成立工业软件标委会，是深入贯彻落实党中央、国务院决策部署，充分发挥标准的基础性、战略性、引领性作用，加快科技创新成果落地转化与推广应用，引导和推动工业软件产业高质量发展的重要举措。 工业软件标委会主要负责 关键技术、数据互操作、产品服务、融合应用及生态建设等行业标准制修订工作 ，秘书处设在工业和信息化部电子第五研究所。 成立大会后，工业软件标委会第一次全体委员会议召开，审议通过了标委会章程、",
+   "published_at": 1792632018.0,
+   "published_bj": "2026-10-22 09:20"
+  },
+  {
+   "id": "74a9745857781123",
+   "source": "IT之家",
+   "title": "京东红包今日 10 点再加码：猜大小赢至高 10 元红包",
+   "url": "https://www.ithome.com/1/016/201.htm",
+   "summary": "今日 10 点京东红包再加码，猜大小赢红包，至高可膨胀至 10 元： 点此抽取 。 猜大小红包玩法：小伙伴们可以选择骰子点数大、小（1、2、3 点为小，4、5、6 点为大），获胜 1 局即可获得领取额外奖励的机会（每人至多 5 次机会），可随机获得京东红包、品类东券或店铺券等奖励。 当获胜 1 局后，可以选择直接领取奖励或者继续挑战。如果再次获胜，则红包奖励会膨胀一定倍数，如果失败则无法获得任何奖励。 连胜次数越多，红包奖金越高，连赢四局，红包膨胀三次，至高可达 10 元。 蚊子肉也是肉，节点开始越早抢红包金额越大，小伙伴可每天都领（多个红包支持叠加使用），积攒多天后带走个大件哦 ~ 京东 1",
+   "published_at": 1792632018.0,
+   "published_bj": "2026-10-22 09:20"
+  },
+  {
+   "id": "e71443fc6509a853",
+   "source": "IT之家",
+   "title": "Hey OnStar 登场：通用汽车推出 OnStar AI，能看懂车辆、听懂车主表述",
+   "url": "https://www.ithome.com/1/016/200.htm",
+   "summary": "IT之家 10 月 22 日消息，通用汽车（GM）昨日（10 月 21 日）发布博文， 宣布升级 OnStar（国内称安吉星），打造成为面向智能驾驶时代的“互联智能平台”，并推出全新的 OnStar AI 助手。 这一原生 AI 助手将率先通过 OTA 升级搭载于 2027 款凯迪拉克 Lyriq，随后逐步扩展至更多通用品牌车型。 与过去主要承担紧急救援、道路救援和人工客服的呼叫中心不同，新版 OnStar 将转型为“联网智能平台”。用户可通过“Hey OnStar”语音唤醒助手，询问车辆警报含义、检查发动机提示、电动车续航是否足够抵达下一充电站等问题；AI 还能结合实时车辆数据、用户授权的上",
+   "published_at": 1792631717.0,
+   "published_bj": "2026-10-22 09:15"
+  },
+  {
+   "id": "fc93c36f80795b68",
+   "source": "IT之家",
+   "title": "一加 Ace 7/Pro 手机官宣 10 月 29 日发布：定位“性能直升”的双旗舰",
+   "url": "https://www.ithome.com/1/016/198.htm",
+   "summary": "IT之家 10 月 22 日消息，@一加手机 官微宣布，一加 Ace 7、一加 Ace 7 Pro“性能直升的双旗舰”手机将于 10 月 29 日 19 时的新品发布会 正式登场。 本月早些时候，一加中国区总裁李杰宣布，全新的一加 Ace 7 系列来了，它将是性能与产品力的跨代之作。 一加 Ace 7 系列手机已在电商平台开启预约，该机采用矩形相机模组设计，模组内嵌入了主动散热风扇。 一加中国区总裁李杰透露，很多手机都有主动散热风扇，但有风扇，不代表体验就做好了。横屏打游戏时，热风吹手、进风口被挡住，都会影响游戏体验。 李杰还分享了有关散热风扇的四个细节： 双路出风，一路吹芯片，一路吹后盖，这",
+   "published_at": 1792631401.0,
+   "published_bj": "2026-10-22 09:10"
+  },
+  {
+   "id": "6844cd3fb5bfcd71",
+   "source": "IT之家",
+   "title": "小米 REDMI Book 2027 系列笔记本官宣 10 月 27 日发布，72Wh 电池主打移动办公",
+   "url": "https://www.ithome.com/1/016/197.htm",
+   "summary": "IT之家 10 月 22 日消息，小米今日官宣， REDMI Book 2027 系列 笔记本将于 10 月 27 日 19:00 发布。 这款笔记本搭载 第三代英特尔酷睿平台，内置 72Wh 电池 ，外观焕新时尚多彩配色，质感全面升级，主打移动办公。 宣传海报中标注了 REDMI Book 14 ，可以看到机身左右两侧保留了双 USB-A 接口、双 USB-C 接口、HDMI 接口、3.5mm 耳机孔。 根据 Geekbench 基准测试数据库的记录 ，小米正在准备 REDMI Book 16 2027 笔记本电脑。该机型的参测示例均基于英特尔 Wildcat Lake 酷睿 5 处理器 3",
+   "published_at": 1792631376.0,
+   "published_bj": "2026-10-22 09:09"
+  },
+  {
+   "id": "33c716c663f38f4a",
+   "source": "IT之家",
+   "title": "特斯拉：上季度北美 75% 的新车买家订阅了 FSD",
+   "url": "https://www.ithome.com/1/016/196.htm",
+   "summary": "IT之家 10 月 22 日消息，多年来，特斯拉一直主张其汽车最有价值的部分并非车辆本身，而是支撑自动驾驶功能的软件。如今特斯拉将其自动驾驶技术实力，归结为公司创下四年最高车辆订单积压量的首要原因。 这家车企表示，FSD 正是其品牌极具吸引力的核心秘诀。特斯拉称，近期大部分用户需求都来自 FSD，绝大多数新车买家在购车的同时，还会付费订阅这项功能。 特斯拉透露，上个季度在北美市场交付的新车中，75% 搭载了 FSD。这一比例高于第二季度的 55%。对于一项每月 99 美元 （IT之家注：现汇率约合 662.2 元人民币） 的附加服务来说，这样的渗透率相当惊人，毕竟整体消费者群体大多并不接受汽车",
+   "published_at": 1792631174.0,
+   "published_bj": "2026-10-22 09:06"
+  },
+  {
+   "id": "997f1ddfc7807496",
+   "source": "IT之家",
+   "title": "国内自主研制的最大规格直缝焊管机投产，最大直径 2.8 米",
+   "url": "https://www.ithome.com/1/016/195.htm",
+   "summary": "IT之家 10 月 22 日消息，太原重型机械集团有限公司（简称“太重”）10 月 21 日官宣，近日，太重自主研发的 国内最大 2800mm 直缝焊管机 在用户现场成功投产。 直缝焊管是能源输送和重大工程建设的关键基础材料，被称为能源和物料运输的“主动脉”。“十五五”期间，我国将加快建设“六张网”，其中就包括地下管网互联互通建设，对大口径直缝焊管的需求持续走高。 直缝焊管机作为生产线核心装备，其规格上限、焊接质量，直接决定成品管材的最大直径、承压性能与整体品质。 IT之家从太重官方介绍了解到，作为国内自主研制的最大规格直缝焊管机， 该设备具备 600-2800mm 直径直缝焊管生产制造能力 ",
+   "published_at": 1792630890.0,
+   "published_bj": "2026-10-22 09:01"
+  },
+  {
+   "id": "edeb24e3c0cbe3e2",
+   "source": "IT之家",
+   "title": "初探苹果 iPhone Duo 铰链耐用性：约 3.2 万次折叠后开合手感基本如初",
+   "url": "https://www.ithome.com/1/016/194.htm",
+   "summary": "IT之家 10 月 22 日消息，《华尔街日报》科技记者 Joanna Stern 使用名为 Hingey 的定制折叠装置，测试苹果首款折叠 iPhone Duo 的铰链方案， 结果在约 3.2 万次折叠后开合手感基本如初。 IT之家附上相关视频如下： Stern 在 4 个晚上、以每分钟 17 次的频率对评测机进行测试，累计完成 32,640 次折叠；测试全程佩戴保护壳，机器每次将手机展开至约 130 度后再合上。 测试前，Stern 曾担心铰链会随使用逐渐变松；但使用校准推拉测力计对比前后数据后发现，铰链反而略微变紧。她在日常使用中几乎察觉不到差别，并评价称“约 3.2 万次折叠后，开合手",
+   "published_at": 1792630741.0,
+   "published_bj": "2026-10-22 08:59"
+  },
+  {
+   "id": "bf45efaf9ab2ba47",
+   "source": "IT之家",
+   "title": "华为双十一焕新季全场景新品发布会官宣定档，10 月 28 日见",
+   "url": "https://www.ithome.com/1/016/192.htm",
+   "summary": "IT之家 10 月 22 日消息，今天（22 日）上午，华为终端官微宣布：华为双十一焕新季 · 全场景新品发布会，10 月 28 日 14:30，敬请期待！ 除此之外，官方暂未公布此次新品发布会的具体信息乃至产品阵容，IT之家将保持关注。 此前的消息称， 华为畅享 100 系列手机宣传海报已在线下露出 ，目前在多个平台曝光。画面显示，新机延续家族化设计，预装鸿蒙 HarmonyOS 系统，主打“麒麟芯、防诈强、信号好、续航长”等特性卖点。 根据 @数码闲聊站 的爆料，新机配置大致如下： 华为畅享 100 Pro Max 512GB 版本独享麒麟 8020 处理器 ， 256GB / 128GB",
+   "published_at": 1792629569.0,
+   "published_bj": "2026-10-22 08:39"
+  },
+  {
+   "id": "8fb04825ef607a41",
+   "source": "IT之家",
+   "title": "苹果首款折叠 iPhone Duo 首批海外评价：Touch ID 指纹解锁体验不如 Face ID 方案",
+   "url": "https://www.ithome.com/1/016/191.htm",
+   "summary": "IT之家 10 月 22 日消息，科技媒体 MacRumors 今天（10 月 22 日）发布博文，通过梳理多家海外媒体和知名自媒体的评测意见，对于苹果首款折叠 iPhone Duo 的侧边按键式 Touch ID 多数偏负面评价， 称体验不如 Face ID 方案。 据 Marques Brownlee 介绍，用户手指按住侧边按钮后，手机会先停留在锁屏界面，让用户查看通知，继续按住才会进入主屏幕。 苹果称，这一设计是为了让 Touch ID 在 Mac、iPad 等设备间保持一致，并给锁屏通知留出展示时间。但对已经习惯“看一眼就解锁”的用户而言，这种额外步骤带来了挫顿感。 其他评测者的反馈同",
+   "published_at": 1792629524.0,
+   "published_bj": "2026-10-22 08:38"
+  },
+  {
+   "id": "9ca3c8aa7ea54f9a",
+   "source": "IT之家",
+   "title": "Win11 搜索迎“史诗级更新”之际，曝微软考虑重新研究 Win 键功能",
+   "url": "https://www.ithome.com/1/016/190.htm",
+   "summary": "IT之家 10 月 22 日消息，据外媒 Windows Latest 今天（22 日）上午报道，随着新版搜索功能准备整合进 Windows 11 的“开始”菜单，微软将重新研究“Win 键”的功能设计。考虑到用户多年来养成的操作习惯，微软对此格外谨慎。 Windows 即将迎来一次大幅改版的搜索界面，与现有版本有明显区别。 新版搜索界面与“开始”菜单相互独立 ，如果用户打开“开始”菜单并输入文字，调用的仍是旧版搜索功能，相当于 Windows 同时 保留了两套用途基本相同的搜索界面 。 IT之家获悉，新版搜索功能经过了重新开发，支持关闭必应搜索结果，还增加了名为“操作”的功能，用户能够直接修",
+   "published_at": 1792629322.0,
+   "published_bj": "2026-10-22 08:35"
+  },
+  {
+   "id": "b1affe9cc9300806",
+   "source": "IT之家",
+   "title": "特斯拉：将在今年年底前向客户销售 Cybercab 无人驾驶出租车",
+   "url": "https://www.ithome.com/1/016/189.htm",
+   "summary": "IT之家 10 月 22 日消息，特斯拉表示，将在今年年底前开始向客户销售其无人驾驶出租车 Cybercab。这款金色双人自动驾驶车辆没有方向盘和其他传统操控装置，目前美国联邦监管机构正在调查其是否符合车辆安全标准。 IT之家注意到，在公司第三季度财报电话会议上，特斯拉工程副总裁拉尔斯 · 莫拉维（Lars Moravy）称，当前生产的 Cybercab 全部供给特斯拉自身的自动驾驶出租车车队。随着车队规模扩大，公司将“主要向客户交付完整设计的自动驾驶车辆”，他同时表示会从小批量起步。 莫拉维补充说，随着特斯拉逐步掌握自动驾驶车辆的交付、私人持有以及车队运营经验，后续会扩大生产规模。 特斯拉上",
+   "published_at": 1792628976.0,
+   "published_bj": "2026-10-22 08:29"
+  },
+  {
+   "id": "6dddb8c730fa18c8",
+   "source": "少数派",
+   "title": "派早报：荣耀发布 WIN2 系列新品、Google 开源 TorchTPU 等",
+   "url": "https://sspai.com/post/116953",
+   "summary": "OpenBSD 8.0 正式发布、腾讯宣布元宝搜索对外开放等。 查看全文",
+   "published_at": 1792628945.0,
+   "published_bj": "2026-10-22 08:29"
+  },
+  {
+   "id": "6d2fdac913973c36",
+   "source": "IT之家",
+   "title": "苹果首款折叠 iPhone Duo 运行温度高吗？海外媒体评测汇总",
+   "url": "https://www.ithome.com/1/016/188.htm",
+   "summary": "IT之家 10 月 22 日消息，科技媒体 MacRumors 今天（10 月 22 日）发布博文，围绕着苹果首款折叠 iPhone Duo 的运行温度，梳理汇总了海外媒体和知名自媒体的评价， 不过在散热表现上首批媒体评论存在分歧。 有评测者认为机身仅是“温热”，也有评测者指出，在视频通话、拍摄、游戏或运行高负载应用后，手机会明显升温，甚至出现卡顿。 在散热方面，iPhone Duo 与 iPhone 18 Pro 一样，都采用了定制的均热板设计和 A20 Pro 芯片，但其均热板更薄。 苹果在铰链处加入了一根柔性石墨管 ，用于在两半机身之间传递热量，从而增大了散热表面积。 iPhone Du",
+   "published_at": 1792628793.0,
+   "published_bj": "2026-10-22 08:26"
+  },
+  {
+   "id": "ed158f904923afe2",
+   "source": "IT之家",
+   "title": "Meta CEO 扎克伯格：长期烧钱的 Muse 和 Reality Labs 终于盈利在望",
+   "url": "https://www.ithome.com/1/016/186.htm",
+   "summary": "IT之家 10 月 22 日消息，Meta 披露，旗下部分长期烧钱的业务终于有望实现盈利。公司超过 97% 的季度营收 依赖广告 ，旗下 AI 和硬件业务长期未能盈利，也一直受到投资者质疑。 当地时间 22 日，Meta CEO 马克 · 扎克伯格在第三季度财报电话会议上回应了这些疑问。上个月推出的 AI 助手 Muse 运行时需要大量算力，因此尚未实现盈利。 Meta 计划明年 大幅提高 Muse 的运行效率，逐步改善盈利状况 。“如果未来几年计算效率继续快速提升，我们认为可能性很大，那么 Muse 未来多年都能保持很高的盈利水平。” 扎克伯格上个月在 Meta Connect 大会上透露，",
+   "published_at": 1792628342.0,
+   "published_bj": "2026-10-22 08:19"
+  },
+  {
+   "id": "cf0ef7831174b645",
+   "source": "TechCrunch",
+   "title": "Tesla says it will start selling Cybercabs by end of year",
+   "url": "https://techcrunch.com/2026/10/21/tesla-says-it-will-start-selling-cybercabs-by-end-of-year/",
+   "summary": "Tesla said Wednesday it will start selling its Cybercab to customers by the end of the year, even as federal regulators investigate whether the vehicle meets vehicle safety standards. The gold-hued, autonomous two-seater lacks a steering wheel and other traditional controls. During the company&#8217",
+   "published_at": 1792628274.0,
+   "published_bj": "2026-10-22 08:17"
+  },
+  {
+   "id": "0e8ba7c912c4921b",
+   "source": "IT之家",
+   "title": "EA 启动成本削减计划：裁员 400 人、关闭 BioWare 工作室，并取消《质量效应》新作",
+   "url": "https://www.ithome.com/1/016/185.htm",
+   "summary": "IT之家 10 月 22 日消息，美国艺电公司（Electronic Arts Inc.，简称 EA）宣布将裁员，并关闭老牌游戏开发工作室 BioWare，这家工作室打造了《龙腾世纪》《质量效应》等角色扮演游戏。 一位不愿具名、了解该公司规划的知情人士透露，这家游戏发行商将裁减约 400 个岗位，占员工总数的 3%，其中 BioWare 约有 50 人被裁。 今年 8 月，EA 完成私有化交易，由沙特投资基金牵头，以 550 亿美元 （IT之家注：现汇率约合 3,680.22 亿元人民币） 杠杆收购将其拿下，这笔交易让 EA 背负约 180 亿美元 （现汇率约合 1,204.44 亿元人民币）",
+   "published_at": 1792627814.0,
+   "published_bj": "2026-10-22 08:10"
+  },
+  {
+   "id": "8ee7fa224d311bf8",
+   "source": "IT之家",
+   "title": "苹果首款折叠 iPhone Duo 海外媒体评价汇总：外屏处理琐事，内屏留给沉浸",
+   "url": "https://www.ithome.com/1/016/184.htm",
+   "summary": "IT之家 10 月 22 日消息，苹果首款折叠 iPhone Duo 将于明日（10 月 23 日）正式发售，相关媒体评论已于昨日解禁，IT之家简要汇总这些媒体和头部自媒体的评价和反馈。 相比较 9 月发布会后的现场初步体验 ，本次评价更加深入拍照、续航等方面。 一、The Verge：不够成熟，却让人看见未来 评测编辑：Nilay Patel 和 Allison Johnson 简要评语： 它价格昂贵、功能妥协，而且用起来有时会让人恼火。用完 Duo 后，换回我们常用的平板手机完成一些工作，常常感觉如释重负。有时候，你对 iPhone 的要求很简单：该做什么，就好好做什么。苹果这些年不敢轻易",
+   "published_at": 1792627681.0,
+   "published_bj": "2026-10-22 08:08"
+  },
+  {
+   "id": "f379d359c4d0dd78",
+   "source": "IT之家",
+   "title": "SpaceX 与特斯拉若合并，马斯克财富有望增加 1100 亿美元",
+   "url": "https://www.ithome.com/1/016/183.htm",
+   "summary": "IT之家 10 月 22 日消息，埃隆 · 马斯克（Elon Musk）在昨日 SpaceX 财报电话会议上引发舆论关注，他证实 SpaceX 与特斯拉公司已各自成立特别委员会，研究两家企业合并的可能性。 马斯克表示：“我们差不多正处在超级智能奇点阶段，双方合作能收获巨大价值。” 如果合并落地，马斯克本人也可能获得可观收益。彭博亿万富豪指数测算，若合并交易达成，特斯拉部分股份的归属期限将会提前，可为马斯克的财富增加逾 1,100 亿美元 （IT之家注：现汇率约合 7,360.45 亿元人民币） ，这批股份原本要到 2028 年才完成归属。同时，根据交易中特斯拉的估值，他 2025 年的薪酬方案",
+   "published_at": 1792627359.0,
+   "published_bj": "2026-10-22 08:02"
+  },
+  {
+   "id": "b6be97cfe30f9f82",
+   "source": "IT之家",
+   "title": "全国首创：浙江移动率先实现全省范围停机状态 110 双向回拨",
+   "url": "https://www.ithome.com/1/016/182.htm",
+   "summary": "IT之家 10 月 22 日消息，据“浙江移动智慧政企”公众号 19 日的推文，浙江移动联合公安部门在全国率先实现全省用户停机状态下 110 回拨功能，让欠费不停“生命线”，让紧急求助真正实现双向畅通、万无一失，为群众生命安全再加一道硬核保障。 IT之家从介绍获悉，长期以来，手机欠费停机后虽仍 保留拨打 110 等紧急电话的权限 ，但接警员若需回拨确认警情或引导自救时，因 主叫号码处于停机状态 ，回拨电话往往无法接通，形成“ 报警人听得见、接警员叫不应 ”的应急通信断层。 针对这一痛点，浙江移动与公安部门组建专项技术攻关团队，从核心网底层架构入手，为 110 回拨信号开辟专属保障通道。改造后，",
+   "published_at": 1792627189.0,
+   "published_bj": "2026-10-22 07:59"
+  },
+  {
+   "id": "ed77230e59f13ce2",
+   "source": "IT之家",
+   "title": "IT早报 1022：苹果 iPhone Duo 三方应用界面首曝；问界、神木警方回应汽车碰撞起火司机遇难事件；马斯克暗示 SpaceX+ 特斯拉合并；荣耀 WIN 2 手机发布...",
+   "url": "https://www.ithome.com/1/016/181.htm",
+   "summary": "“IT早报”时间，大家好，现在是 2026 年 10 月 22 日星期四，今天的重要科技资讯有： 1. 【视频】 iPhone Duo 上的软件长啥样？看完只能说生态号召力还得是苹果 iPhone Duo 上的软件长啥样？看完只能说生态号召力还得是苹果 &gt;&gt; 查看详情 2. 陕西神木警方回应问界汽车起火：系单方事故，司机已遇难 近日，一辆问界汽车在陕西榆林神木市一路口处发生碰撞起火。据新京报 10 月 21 日报道，神木警方称，该事故系一起单方事故，事发车上仅司机一人，已遇难。&gt;&gt; 查看详情 3. SpaceX 盘中暴涨 11% 市值超台积电：与特斯拉合并传闻 + 超预",
+   "published_at": 1792627161.0,
+   "published_bj": "2026-10-22 07:59"
+  },
+  {
+   "id": "e92dcac6683414dc",
+   "source": "Hacker News",
+   "title": "When Do We Become the Person We Ought to Be?",
+   "url": "https://www.graphsaboutreligion.com/p/when-do-we-become-the-person-we-ought",
+   "summary": "Article URL: https://www.graphsaboutreligion.com/p/when-do-we-become-the-person-we-ought Comments URL: https://news.ycombinator.com/item?id=50189278 Points: 8 # Comments: 1",
+   "published_at": 1792627061.0,
+   "published_bj": "2026-10-22 07:57"
+  },
+  {
+   "id": "6ae38f04d551004b",
+   "source": "Hacker News",
+   "title": "mitmproxy adds --emudhra option",
+   "url": "https://github.com/mitmproxy/mitmproxy/commit/169234499088fc2c414644a67efaed3d64ae2e3b",
+   "summary": "Article URL: https://github.com/mitmproxy/mitmproxy/commit/169234499088fc2c414644a67efaed3d64ae2e3b Comments URL: https://news.ycombinator.com/item?id=50189232 Points: 130 # Comments: 29",
+   "published_at": 1792626697.0,
+   "published_bj": "2026-10-22 07:51"
+  },
+  {
+   "id": "1d9d56d54ff4cbcb",
+   "source": "IT之家",
+   "title": "通用汽车押注 AI、新型电池，目标令电动汽车研发周期减半",
+   "url": "https://www.ithome.com/1/016/180.htm",
+   "summary": "IT之家 10 月 22 日消息，美国电动汽车市场经历剧烈调整之际，通用汽车再次强调仍看好电动汽车的未来。 当地时间 21 日，通用汽车总裁马可 · 睿思在纽约举行的 GM Forward 活动上重申，公司不会放弃电动汽车业务，计划推出更符合美国市场需求的产品，进一步提升竞争力。 睿思指出：“我们是一家全球性企业。 全球每卖出四辆车，就有一辆是电动汽车 ，而且这一比例还会继续增长。我们不会退出电动汽车市场，而是会积极拥抱这一趋势。我们将继续研发电动汽车，努力降低电池成本。 等到美国市场能够大规模接受电动汽车时，我们就能满足消费者的需求 。我们在电池技术、电动汽车平台、软件、能源管理和先进制造领",
+   "published_at": 1792626472.0,
+   "published_bj": "2026-10-22 07:47"
+  },
+  {
+   "id": "070906688169689e",
+   "source": "IT之家",
+   "title": "苹果首款折叠 iPhone Duo 屏下摄像头媒体评价：镜头藏住了，画质没跟上",
+   "url": "https://www.ithome.com/1/016/179.htm",
+   "summary": "IT之家 10 月 22 日消息，科技媒体 MacRumors 昨日（10 月 21 日）发布博文，报道称基于多家科技媒体和自媒体博主分享的使用体验， 苹果公司首款折叠手机 iPhone Duo 的屏下摄像头在日常使用中几乎不可见，但伴随着明显的成像妥协。 科技媒体 Gizmodo 称，这是一颗 400 万像素摄像头，拍摄的照片分辨率低、色彩寡淡、缺乏清晰度，不适合自拍，甚至视频通话画面也显得有点“模糊不清”。 Marques Brownlee 则直言，其表现带有浓厚的“初代产品”色彩，并用“垃圾”形容照片质量。三星之前也使用过屏下摄像头，但由于成像质量差而放弃了这项技术，Brownlee 认",
+   "published_at": 1792626427.0,
+   "published_bj": "2026-10-22 07:47"
+  },
+  {
+   "id": "f7a5b8c467989378",
+   "source": "Hacker News",
+   "title": "Show HN: I built a Markdown and raw HTML blog platform scoring 99 on PageSpeed",
+   "url": "https://bloffy.co/en",
+   "summary": "Hello. I built a blogging platform on my own over two years. I like running my blog, but I couldn't find a blogging platform I really liked. First. I thought a blog had to be really lightweight. Fortunately, after a lot of effort, I was able to achieve satisfactory results. (99 to 100 score) Here is",
+   "published_at": 1792626095.0,
+   "published_bj": "2026-10-22 07:41"
+  },
+  {
+   "id": "a65f526f09dcded8",
+   "source": "IT之家",
+   "title": "应对加州富人税：Meta 向扎克伯格配发 C 类无投票权股份，换其扎根加州 8 年承诺",
+   "url": "https://www.ithome.com/1/016/178.htm",
+   "summary": "IT之家 10 月 22 日消息，据彭博社报道，Meta Platforms 公司与马克 · 扎克伯格达成了一项协议，在这位首席执行官表示如果加州通过财富税法案，他考虑搬离该州之后，协议要求扎克伯格居住在与公司总部同一辖区内。 Meta 在当地时间周三提交的 2026 年 10 月 20 日的 PRE 14C 文件中称，扎克伯格需要“在八年内保持加州居民身份，或是居住在公司总部所在的其他辖区”。 Meta 表示，扎克伯格考虑离开加州，原因是该州拟议的财富税可能让他背负数十亿美元税款，他或将被迫出售带投票权股份来缴税。 该公司在文件中表示，其将发行 C 类股票，部分目的就是为了避免出现上述情况。",
+   "published_at": 1792626049.0,
+   "published_bj": "2026-10-22 07:40"
+  },
+  {
+   "id": "c4d5f009448a532d",
+   "source": "Hacker News",
+   "title": "Airbnb bans making guests do dishes and take out the trash",
+   "url": "https://www.theverge.com/tech/1015844/airbnb-chores-house-rules-update",
+   "summary": "Article URL: https://www.theverge.com/tech/1015844/airbnb-chores-house-rules-update Comments URL: https://news.ycombinator.com/item?id=50189150 Points: 62 # Comments: 46",
+   "published_at": 1792625912.0,
+   "published_bj": "2026-10-22 07:38"
+  },
+  {
+   "id": "9cbe02765615d636",
+   "source": "IT之家",
+   "title": "看点播内容恐也要缴 180 英镑年费：英国拟将流媒体平台纳入电视牌照制度",
+   "url": "https://www.ithome.com/1/016/177.htm",
+   "summary": "IT之家 10 月 22 日消息，根据英国 BBC 报道，英国正评估改革电视牌照费制度， 可能将 YouTube、Netflix 等在线视频平台纳入收费范围。 英国现行的电视牌照制度通常是以住户为单位：同一家庭一般买一份牌照，就能覆盖家中多台电视、电脑、手机和平板，而是否需要购买，主要取决于观看的内容。 用户通过电视、电脑或其他设备观看、录制正在播出的电视节目，或者使用 BBC iPlayer 收看节目，均须持有相应许可证，意味着改用手机、平板或电脑，并不能自动免除许可要求。 观看任何频道或服务提供的电视直播，都需要许可证；而仅观看 Netflix、Disney+ 等平台的非直播内容，或通过 ",
+   "published_at": 1792625568.0,
+   "published_bj": "2026-10-22 07:32"
+  },
+  {
+   "id": "5a4eddf58333aaa3",
+   "source": "IT之家",
+   "title": "iPhone Duo 明日开售，纽约第五大道苹果旗舰店提前布置巨型模型",
+   "url": "https://www.ithome.com/1/016/176.htm",
+   "summary": "IT之家 10 月 22 日消息，iPhone Duo 明日正式开售，纽约第五大道苹果旗舰店已经为这场发售活动紧锣密鼓地筹备起来。 IT之家注意到，社交平台 X 上的用户 @LChenlz 拍到，苹果已经在门店标志性的玻璃立方体入口周边，搭建起好几个大型长方形装置。 这些装置目前还被黑布与白色防护包装遮盖，但从外形来看，极有可能是 iPhone Duo 的巨型模型。 最近几年，苹果都会在旗舰门店布置专属陈设，为新款 iPhone 发售造势。2024 年 iPhone 16 上市时，苹果把第五大道店的玻璃立方体打上了 Apple Intelligence 主题灯光；去年，苹果还在多家门店摆放了巨",
+   "published_at": 1792625188.0,
+   "published_bj": "2026-10-22 07:26"
+  },
+  {
+   "id": "fd4c429d5121ed44",
+   "source": "Hacker News",
+   "title": "Κ = 0.003 for integer multiplication crossed",
+   "url": "https://github.com/CrocSwap/integer-mult-bounds/pull/4441",
+   "summary": "Article URL: https://github.com/CrocSwap/integer-mult-bounds/pull/4441 Comments URL: https://news.ycombinator.com/item?id=50189023 Points: 18 # Comments: 6",
+   "published_at": 1792624941.0,
+   "published_bj": "2026-10-22 07:22"
+  },
+  {
+   "id": "1de9b57ce31a99d4",
+   "source": "IT之家",
+   "title": "通用汽车安吉星服务将全面升级：引入 AI 助手，还能帮你控车、排障",
+   "url": "https://www.ithome.com/1/016/175.htm",
+   "summary": "IT之家 10 月 22 日消息，据外媒 motor1 今天（22 日）凌晨报道，通用汽车将对旗下安吉星车联网服务进行全面升级，引入 AI 助手，让车主能够直接询问车辆信息、通过语音控制部分功能，还能借助 AI 排查车辆故障。 全新的安吉星 AI 助手将在未来几个月通过 OTA 升级率先登陆 2027 款凯迪拉克锐歌（IT之家注：预计为海外市场），随后逐步覆盖凯迪拉克、雪佛兰、别克和 GMC 旗下的更多车型。 通用汽车称，与通常用于导航、播放音乐和回答一般问题的传统语音助手不同，安吉星 AI 助手可以 直接获取车辆信息 。驾驶员只需用日常语言提问，不必再翻阅车主手册查找答案。 安吉星 AI 助",
+   "published_at": 1792624629.0,
+   "published_bj": "2026-10-22 07:17"
+  },
+  {
+   "id": "00176090cd5e3c58",
+   "source": "Hacker News",
+   "title": "There isn't an easy exploit for this PHP vulnerability",
+   "url": "https://eliastaylor.com/noexploit/",
+   "summary": "Article URL: https://eliastaylor.com/noexploit/ Comments URL: https://news.ycombinator.com/item?id=50188948 Points: 119 # Comments: 52",
+   "published_at": 1792624407.0,
+   "published_bj": "2026-10-22 07:13"
+  },
+  {
+   "id": "99b2b64ac9c3965c",
+   "source": "IT之家",
+   "title": "微软员工总数十年来首次下降，截至 6 月底雇员约 22.3 万人",
+   "url": "https://www.ithome.com/1/016/174.htm",
+   "summary": "IT之家 10 月 22 日消息，微软已经在多个业务部门持续裁员一段时间，如今，一份年度报告披露了确切数据。 该公司最新年度申报文件显示，截至 2026 年 6 月 30 日，微软员工规模约为 22.3 万人，相比上一年的 22.8 万人有所减少，这是十年来微软员工总数首次出现下降。数据来自微软 2026 财年的 10-K 报表，文件写明公司拥有“约 22.3 万名全职员工”，其中美国本土 12.1 万人，海外 10.2 万人。 报告显示，产品研发部门受影响最大，员工人数从 2024 年峰值 8.1 万人降至 7.7 万人，连续第二年人员缩减；销售与营销岗位各减少 1000 个，现有 4.3 ",
+   "published_at": 1792624396.0,
+   "published_bj": "2026-10-22 07:13"
+  },
+  {
+   "id": "2e707ff1edfe966b",
+   "source": "IT之家",
+   "title": "影响约 70% 网站：PHP 高危漏洞被修复，OpenAI 牵头协调全球发现 / 修复",
+   "url": "https://www.ithome.com/1/016/173.htm",
+   "summary": "IT之家 10 月 22 日消息，OpenAI 公司昨日（10 月 21 日）发布博文，宣布通过其“修补地球”（Patch the Planet）计划，协助安全研究人员发现了 PHP 编程语言中的两项严重漏洞， 并联合 PHP 维护团队、安全公司、云服务商及多国网络安全机构，在漏洞公开前完成了为期约两个月的协调修复。 安全公司 Calif 借助 OpenAI 的 GPT-5.6 Sol 模型发现其中一项关键缺陷；谷歌旗下的 Wiz 则独立发现并报告了相关漏洞。PHP 官方维护者主导了漏洞验证、修复开发与版本发布，OpenAI、Wiz、Cloudflare 等则提供研究、技术支持和跨机构协调，以",
+   "published_at": 1792624316.0,
+   "published_bj": "2026-10-22 07:11"
+  },
+  {
+   "id": "2647a32c08c0af73",
+   "source": "IT之家",
+   "title": "沃尔玛推出自有智能体网关，AI 可代用户下单购物",
+   "url": "https://www.ithome.com/1/016/172.htm",
+   "summary": "IT之家 10 月 22 日消息，沃尔玛于当地时间周三宣布，正式推出自有智能体网关，用于处理交易，并上线多项面向使用 AI 智能体的消费者的新功能，以此布局智能体电商。就在不久前，沃尔玛的头号竞争对手亚马逊开始拦截 AI 智能体替网购用户下单采购。 IT之家注意到，沃尔玛对 AI 技术的接纳态度，使其和其他线上商家形成区别。除亚马逊之外，不少旅游和预订网站面对越来越多消费者使用 AI 智能体的趋势，选择直接禁止智能体访问网站。而沃尔玛此前已经宣布和该领域头部智能体 Meta 的 Muse 达成合作，同时接入了 ChatGPT、Gemini 等热门 AI 应用。 沃尔玛总裁兼首席执行官约翰 · ",
+   "published_at": 1792623894.0,
+   "published_bj": "2026-10-22 07:04"
+  },
+  {
+   "id": "2ef60689abce8a8d",
+   "source": "IT之家",
+   "title": "剑桥分析数据丑闻余波未平，Meta 被判向新墨西哥州赔付 250 亿美元",
+   "url": "https://www.ithome.com/1/016/171.htm",
+   "summary": "IT之家 10 月 22 日消息，剑桥分析公司数据丑闻的余波久久未消，并且持续让 Meta 付出巨额资金代价。 据《纽约时报》报道，一名法官于当地时间周三下令，要求这家社交媒体巨头支付其有史以来金额最高的一笔赔款：向新墨西哥州赔付 250 亿美元 （IT之家注：现汇率约合 1,672.83 亿元人民币） ，原因是这家科技巨头在数据隐私相关做法上欺骗该州居民用户。 这笔高额赔款源于一场为期两周的庭审，新墨西哥州陪审团在庭审期间审议了该公司涉嫌的违法行为。陪审团认定，这家 Facebook 和 Instagram 的母公司一共违反了该州消费者保护法 4300 万次，每一次违规对应的罚金为 5,00",
+   "published_at": 1792623411.0,
+   "published_bj": "2026-10-22 06:56"
+  },
+  {
+   "id": "9cb947c8f5836e9d",
+   "source": "IT之家",
+   "title": "Omdia 称宽屏折叠手机成新风口，2026 预计占总折叠面板出货的 44%",
+   "url": "https://www.ithome.com/1/016/170.htm",
+   "summary": "IT之家 10 月 22 日消息，市场调查机构 Omdia 昨日（10 月 21 日）发布研究报告，称随着三星、苹果相继推出采用更宽屏幕比例的“书本型”折叠屏手机， 2026 年全球可折叠智能手机 AMOLED 显示屏出货量有望达到 2900 万片，同比增长 44%。 ▲ 形态方面，该机构指出，新一代折叠屏手机正在摆脱传统“10:9 内屏 +21:9 外屏”的设计，转向 4:3、14:10 等更接近平板电脑的宽屏比例。 这类屏幕在多任务处理、网页浏览、社交媒体、视频观看及移动办公等场景下体验更佳，被认为有助于解决折叠屏手机“展开后仍不够实用”的痛点。 Omdia 预计， 2026 年宽屏折叠屏",
+   "published_at": 1792623379.0,
+   "published_bj": "2026-10-22 06:56"
+  },
+  {
+   "id": "e615213532ee5695",
+   "source": "TechCrunch",
+   "title": "Blackstone’s Jas Khaira says fears over AI-buildout debt are overblown",
+   "url": "https://techcrunch.com/2026/10/21/blackstones-jas-khaira-says-fears-over-ai-buildout-debt-are-overblown/",
+   "summary": "Blackstone’s AI head on why the PE giant isn't panicked by market jitters.",
+   "published_at": 1792623082.0,
+   "published_bj": "2026-10-22 06:51"
+  },
+  {
+   "id": "ccb2b91e6d01bf4c",
+   "source": "TechCrunch",
+   "title": "Meta wants to pay for its broad AI buildout with a newly created class of stock",
+   "url": "https://techcrunch.com/2026/10/21/meta-wants-to-pay-for-its-broad-ai-buildout-with-a-newly-created-class-of-stock/",
+   "summary": "The social media giant is planning a new stock strategy to help power its broad investments in AI models and services.",
+   "published_at": 1792622734.0,
+   "published_bj": "2026-10-22 06:45"
+  },
+  {
+   "id": "52fee4fa9a9ab46d",
+   "source": "IT之家",
+   "title": "24 小时为你在线打工：Anthropic 推出 Claude Duet AI 智能体，迎战 Meta 和 OpenAI",
+   "url": "https://www.ithome.com/1/016/169.htm",
+   "summary": "IT之家 10 月 22 日消息，Anthropic 昨日（10 月 21 日）宣布以研究预览版形式，推出全新应用 Claude Duet， 定位为可主动工作的 AI 智能体（agent），加入由 Meta 的 Muse、以及 OpenAI 的 Dots 领衔的“全天候主动型 AI 助理”大战。 技能方面，该应用会每天整理跨应用的重要事项、主动提醒需要处理的问题，并在用户离开后继续在后台完成被委托的任务。IT之家附上演示视频如下： Claude Duet 基于 Claude Opus 5.5 构建，提供 iOS、Android 独立应用及 claude.ai 网页版。首批面向美国 Pro 和 ",
+   "published_at": 1792622658.0,
+   "published_bj": "2026-10-22 06:44"
+  },
+  {
+   "id": "ff6a3d7333165f06",
+   "source": "Hacker News",
+   "title": "Qpack amplification attacks against HTTP/3 servers",
+   "url": "https://foxio.io/blog/header-accordions-qpack-amplification-attacks-against-http-3-servers",
+   "summary": "Article URL: https://foxio.io/blog/header-accordions-qpack-amplification-attacks-against-http-3-servers Comments URL: https://news.ycombinator.com/item?id=50188612 Points: 15 # Comments: 1",
+   "published_at": 1792621965.0,
+   "published_bj": "2026-10-22 06:32"
+  },
+  {
+   "id": "071aa025801d145b",
+   "source": "cnBeta",
+   "title": "EA关闭BioWare工作室 《质量效应》新作开发取消",
+   "url": "https://www.cnbeta.com.tw/articles/game/1583278.htm",
+   "summary": "近日EA官方公布大规模内部重组计划，BioWare(生软)正式关闭，处于早期开发阶段的全新《质量效应》项目直接取消。同时砍掉代号“莲花(Project Lotus)”的《模拟人生》新作，全公司裁员约400人，占总员工数3%，其中约50人来自BioWare埃德蒙顿工作室。 阅读全文",
+   "published_at": 1792621607.0,
+   "published_bj": "2026-10-22 06:26"
+  },
+  {
+   "id": "f36b89c16b52711e",
+   "source": "cnBeta",
+   "title": "特斯拉三季度资本支出远逊预期 马斯克推动的转型计划面临考验",
+   "url": "https://www.cnbeta.com.tw/articles/tech/1583276.htm",
+   "summary": "特斯拉的支出再次低于华尔街预期，给埃隆·马斯克将这家电动车制造商转变为人工智能和机器人公司的计划蒙上阴影。特斯拉周三在声明中表示，第三季度资本支出总计47.3亿美元。数据显示，分析师平均预期为79.5亿美元。 阅读全文",
+   "published_at": 1792621530.0,
+   "published_bj": "2026-10-22 06:25"
+  },
+  {
+   "id": "46fa79219d3c6157",
+   "source": "cnBeta",
+   "title": "美航空航天局公布月球车最新研发进展及任务规划",
+   "url": "https://www.cnbeta.com.tw/articles/science/1583274.htm",
+   "summary": "美国航空航天局当地时间20日公布了其月球车的最新研发进展及任务规划。用于探测月球水资源的“挥发物调查极地探索车”（VIPER）计划于2027年运抵月球南极地区开展探测，载人月球地形车则计划于2028年前运抵月球南极地区，为未来载人探月和月球基地建设提供支持。 阅读全文",
+   "published_at": 1792621511.0,
+   "published_bj": "2026-10-22 06:25"
+  },
+  {
+   "id": "8d162546a720be1b",
+   "source": "TechCrunch",
+   "title": "Airbnb limits chores for guests, sparking backlash from hosts",
+   "url": "https://techcrunch.com/2026/10/21/airbnb-limits-chores-for-guests-sparking-backlash-from-hosts/",
+   "summary": "Hosts are threatening to leave the platform after Airbnb says that they can no longer require guests to strip beds or do other time-consuming cleaning chores.",
+   "published_at": 1792620965.0,
+   "published_bj": "2026-10-22 06:16"
+  },
+  {
+   "id": "c7de37bf1b1b0cd4",
+   "source": "Hacker News",
+   "title": "Railway Security Disclosure",
+   "url": "https://blog.railway.com/p/security-disclosure-wednesday-october-21st",
+   "summary": "Article URL: https://blog.railway.com/p/security-disclosure-wednesday-october-21st Comments URL: https://news.ycombinator.com/item?id=50188228 Points: 294 # Comments: 140",
+   "published_at": 1792619883.0,
+   "published_bj": "2026-10-22 05:58"
+  },
   {
    "id": "17b6fde00a4c8d5a",
    "source": "InfoQ中文",
@@ -11,6 +479,249 @@
    "summary": "点击查看原文>",
    "published_at": 1792617520.0,
    "published_bj": "2026-10-22 05:18"
+  },
+  {
+   "id": "d652a2615c25ef1d",
+   "source": "TechCrunch",
+   "title": "TechCrunch Founder Summit 2026: Everything you need to know",
+   "url": "https://techcrunch.com/2026/10/21/techcrunch-founder-summit-2026-everything-you-need-to-know/",
+   "summary": "TechCrunch Founder Summit is a full-day gathering in Boston on November 4 where founders across all stages connect with top VCs and experienced entrepreneurs to gain tactical insights on building and scaling their companies.",
+   "published_at": 1792617380.0,
+   "published_bj": "2026-10-22 05:16"
+  },
+  {
+   "id": "1c7412d6e91f14a3",
+   "source": "TechCrunch",
+   "title": "Meta says Muse has over 10M users, with shopping a top activity",
+   "url": "https://techcrunch.com/2026/10/21/meta-says-muse-has-over-10m-users-with-shopping-a-top-activity/",
+   "summary": "Meta Muse users are adopting the app for shopping and personal productivity, the company said during Q3 earnings. The AI app now has over 10M users.",
+   "published_at": 1792617259.0,
+   "published_bj": "2026-10-22 05:14"
+  },
+  {
+   "id": "c129c147d095024d",
+   "source": "Hacker News",
+   "title": "PHP web runtimes (CVE-2026-109618 and CVE-2026-109619)",
+   "url": "https://aws.amazon.com/security/security-bulletins/2026-143-aws/",
+   "summary": "Article URL: https://aws.amazon.com/security/security-bulletins/2026-143-aws/ Comments URL: https://news.ycombinator.com/item?id=50187708 Points: 107 # Comments: 26",
+   "published_at": 1792617179.0,
+   "published_bj": "2026-10-22 05:12"
+  },
+  {
+   "id": "dcea42128464b4ba",
+   "source": "cnBeta",
+   "title": "Anthropic推出Claude Duet主动式AI代理 可后台处理任务并在关键操作前征求批准",
+   "url": "https://www.cnbeta.com.tw/articles/tech/1583272.htm",
+   "summary": "Anthropic推出Claude Duet，将其定位为一款主动式AI代理：它会从用户已连接的应用中发现需要处理的事项，在用户开口前发来提醒，也能接手任务并在用户离开设备后继续工作。产品围绕Claude Opus 5.5构建，面向工作事务繁杂的专业人士和小企业经营者。 阅读全文",
+   "published_at": 1792616815.0,
+   "published_bj": "2026-10-22 05:06"
+  },
+  {
+   "id": "9bfdeca04310f985",
+   "source": "TechCrunch",
+   "title": "Year-old AI lab Flapping Airplanes raises $1B at a $6B valuation",
+   "url": "https://techcrunch.com/2026/10/21/year-old-ai-lab-flapping-airplanes-raises-1b-at-a-6b-valuation/",
+   "summary": "Just 9 months after raising a $180 million seed round, Flapping Airplanes has landed a $1 billion Series A for its mission to build AI models \"without ingesting half the internet.\"",
+   "published_at": 1792616260.0,
+   "published_bj": "2026-10-22 04:57"
+  },
+  {
+   "id": "fb3dda867bbf633d",
+   "source": "IT之家",
+   "title": "特斯拉 2026 财年第三财季归母净利润 7.87 亿美元，同比下降 43%",
+   "url": "https://www.ithome.com/1/016/167.htm",
+   "summary": "IT之家 10 月 22 日消息，特斯拉今日发布 2026 财年（2026 年 1 月～2026 年 12 月）第三财季（2026 年 7 月～2026 年 9 月）报告： 营业总收入 ：280.04 亿美元，同比基本持平 毛利润 ：54.94 亿美元，同比增长 8.7% 毛利率 ：19.6%，同比增长 1.6 个百分点 归母净利润 ：7.87 亿美元，同比下降 43% 经营现金流 ：62.63 亿美元 自由现金流 ：15.3 亿美元 稀释每股收益 ：0.22 美元，同比下降 44% AI 解读 特斯拉 2026 财年第三季度财报超市场预期，核心营收、利润、现金流均表现稳健 公司主营业务与财报",
+   "published_at": 1792615584.0,
+   "published_bj": "2026-10-22 04:46"
+  },
+  {
+   "id": "635bf2bd58a64445",
+   "source": "cnBeta",
+   "title": "Bose收购Skullcandy 瞄准年轻消费群体与更广泛市场",
+   "url": "https://www.cnbeta.com.tw/articles/tech/1583270.htm",
+   "summary": "音频设备厂商Bose宣布完成对耳机品牌 Skullcandy 的收购。尽管双方同属消费音频市场竞争者，但近年来两家公司已经建立合作关系，此次收购被视为Bose扩大品牌覆盖范围、接触更多消费群体的重要一步。 阅读全文",
+   "published_at": 1792615053.0,
+   "published_bj": "2026-10-22 04:37"
+  },
+  {
+   "id": "0644837c16e8f525",
+   "source": "cnBeta",
+   "title": "EA启动大规模重组：裁员400人 《模拟人生》新项目被搁置",
+   "url": "https://www.cnbeta.com.tw/articles/game/1583268.htm",
+   "summary": "美国游戏发行商EA（Electronic Arts）宣布新一轮业务重组计划，公司将裁减约400个工作岗位，约占全球员工总数的3%。这一调整不仅涉及此前备受关注的BioWare关闭事件，还波及《模拟人生》《Skate》等多个知名游戏项目。 阅读全文",
+   "published_at": 1792614975.0,
+   "published_bj": "2026-10-22 04:36"
+  },
+  {
+   "id": "b5d28add42f5e421",
+   "source": "TechCrunch",
+   "title": "Tesla starts Optimus robot production in California as profit falls 43%",
+   "url": "https://techcrunch.com/2026/10/21/tesla-stars-optimus-robot-production-in-california-as-profit-falls-43/",
+   "summary": "Tesla's revenue was flat and its expenses skyrocketed as it pressed the accelerator on its Optimus robots, AI, and autonomous driving.",
+   "published_at": 1792614789.0,
+   "published_bj": "2026-10-22 04:33"
+  },
+  {
+   "id": "29b5b2cd05f4bcbd",
+   "source": "TechCrunch",
+   "title": "Recursive launches Flint, a laptop coding model it says was largely built by AI",
+   "url": "https://techcrunch.com/2026/10/21/recursive-launches-flint-a-laptop-coding-model-it-says-was-largely-built-by-ai/",
+   "summary": "Startup Recursive has released Flint, a free, laptop-sized coding model built largely by its own AI research system, as an early test of AI that improves itself.",
+   "published_at": 1792614461.0,
+   "published_bj": "2026-10-22 04:27"
+  },
+  {
+   "id": "88457f44b1799ded",
+   "source": "IT之家",
+   "title": "IBM 2026 财年半年报归母净利润 55.71 亿美元，同比增长 11.58%",
+   "url": "https://www.ithome.com/1/016/165.htm",
+   "summary": "IT之家 10 月 22 日消息，IBM今日发布 2026 财年（2026 年 1 月～2026 年 12 月）半年报（2026 年 1 月～2026 年 9 月）及第三财季（2026 年 7 月～2026 年 9 月）报告： 2026 财年半年报 营业总收入 ：501.82 亿美元 （IT之家注：现汇率约合 3357.84 亿元人民币） ，同比增长 4.88% 毛利润 ：285.71 亿美元 （现汇率约合 1911.78 亿元人民币） ，同比增长 4.39% 毛利率 ：56.9%，同比下降 0.3 个百分点 归母净利润 ：55.71 亿美元 （现汇率约合 372.77 亿元人民币） ，同比增",
+   "published_at": 1792614307.0,
+   "published_bj": "2026-10-22 04:25"
+  },
+  {
+   "id": "7c7c6e351d94a95b",
+   "source": "TechCrunch",
+   "title": "Automattic begins layoffs following board upheaval and executive departures",
+   "url": "https://techcrunch.com/2026/10/21/automattic-begins-layoffs-following-board-upheaval-and-executive-departures/",
+   "summary": "Sources say more cuts could follow as the company looks to improve its finances.",
+   "published_at": 1792613700.0,
+   "published_bj": "2026-10-22 04:15"
+  },
+  {
+   "id": "a9b20ba78e20dad2",
+   "source": "IT之家",
+   "title": "德州仪器 2026 财年第三财季归母净利润 24.25 亿美元，同比增长 78%",
+   "url": "https://www.ithome.com/1/016/164.htm",
+   "summary": "IT之家 10 月 22 日消息，德州仪器今日发布 2026 财年（2026 年 1 月～2026 年 12 月）第三财季（2026 年 7 月～2026 年 9 月）报告： 营业总收入 ：60.55 亿美元 （IT之家注：现汇率约合 405.16 亿元人民币） ，同比增长 28%，环比增长 11% 毛利润 ：38.87 亿美元 （现汇率约合 260.09 亿元人民币） ，同比增长 42.75% 毛利率 ：64.2%，同比增长 6.78 个百分点 归母净利润 ：24.25 亿美元 （现汇率约合 162.26 亿元人民币） ，同比增长 78% 经营现金流 ：34.19 亿美元 （现汇率约合 22",
+   "published_at": 1792613427.0,
+   "published_bj": "2026-10-22 04:10"
+  },
+  {
+   "id": "ba91991d2c24ff09",
+   "source": "IT之家",
+   "title": "Meta 2026 财年第三财季归母净利润 98.6 亿美元，同比增长 264%",
+   "url": "https://www.ithome.com/1/016/163.htm",
+   "summary": "IT之家 10 月 22 日消息，Meta 今日发布 2026 财年（2026 年 1 月～2026 年 12 月）第三财季（2026 年 7 月～2026 年 9 月）及本财年前三财季（2026 年 1 月～2026 年 9 月）报告： 2026 财年第三财季 营业总收入 ：646.01 亿美元，同比增长 26% 毛利润 ：512.32 亿美元，同比增长 21.88% 毛利率 ：79.3%，同比下降 2.73 个百分点 归母净利润 ：98.6 亿美元，同比增长 264% 经营现金流 ：327.86 亿美元 基本每股收益 ：3.86 美元 稀释每股收益 ：3.83 美元 2026 财年前三财季",
+   "published_at": 1792613357.0,
+   "published_bj": "2026-10-22 04:09"
+  },
+  {
+   "id": "e089cf30bc046a0d",
+   "source": "TechCrunch",
+   "title": "GM is betting compute and AI will help it compete with Chinese automakers",
+   "url": "https://techcrunch.com/2026/10/21/gm-is-betting-compute-and-ai-will-help-it-compete-with-chinese-automakers/",
+   "summary": "To compete with Tesla, Rivian, and a host of Chinese automakers, GM’s fourth-gen EV platform will roll out a new central computer and electrical architecture that will debut in 2028 in the Cadillac Escalade IQ.",
+   "published_at": 1792612340.0,
+   "published_bj": "2026-10-22 03:52"
+  },
+  {
+   "id": "035256a57441dd81",
+   "source": "TechCrunch",
+   "title": "Meta ordered to pay $25B in case related to Cambridge Analytica scandal",
+   "url": "https://techcrunch.com/2026/10/21/meta-ordered-to-pay-25-billion-in-case-related-to-cambridge-analytica-scandal/",
+   "summary": "The payout is related to a recent trial involving the social media giant that revolved around its data privacy practices.",
+   "published_at": 1792611752.0,
+   "published_bj": "2026-10-22 03:42"
+  },
+  {
+   "id": "717336ea46fa0517",
+   "source": "TechCrunch",
+   "title": "While Amazon blocks AI agents, Walmart rolls out the welcome mat",
+   "url": "https://techcrunch.com/2026/10/21/while-amazon-blocks-ai-agents-walmart-rolls-out-the-welcome-mat/",
+   "summary": "As Amazon blocks AI agents from shopping on its site, Walmart is taking the opposite approach, introducing new technology that lets AI agents make purchases on customers' behalf, with controls over spending and transaction approvals.",
+   "published_at": 1792611000.0,
+   "published_bj": "2026-10-22 03:30"
+  },
+  {
+   "id": "bdec2873463fdb83",
+   "source": "Hacker News",
+   "title": "Claude Duet",
+   "url": "https://claude.com/product/claude-duet",
+   "summary": "Article URL: https://claude.com/product/claude-duet Comments URL: https://news.ycombinator.com/item?id=50186037 Points: 310 # Comments: 270",
+   "published_at": 1792610041.0,
+   "published_bj": "2026-10-22 03:14"
+  },
+  {
+   "id": "9a89754e87280e19",
+   "source": "Hacker News",
+   "title": "Google's Rust Style Guide",
+   "url": "https://google.github.io/styleguide/rustguide.html",
+   "summary": "Article URL: https://google.github.io/styleguide/rustguide.html Comments URL: https://news.ycombinator.com/item?id=50186010 Points: 198 # Comments: 113",
+   "published_at": 1792609917.0,
+   "published_bj": "2026-10-22 03:11"
+  },
+  {
+   "id": "d2d951bf768f6cfb",
+   "source": "cnBeta",
+   "title": "通用汽车公布未来技术路线图：AI加速研发、算力提升40倍、自动驾驶瞄准主力车型",
+   "url": "https://www.cnbeta.com.tw/articles/tech/1583266.htm",
+   "summary": "通用汽车日前在纽约举行的“Onward”技术活动上公布了一系列围绕人工智能、电动汽车和自动驾驶的未来规划。面对中国汽车企业日益激烈的竞争压力，这家传统汽车制造商正试图将自身定位为一家由软件和人工智能驱动的科技企业，而不仅仅是一家汽车公司。 阅读全文",
+   "published_at": 1792609523.0,
+   "published_bj": "2026-10-22 03:05"
+  },
+  {
+   "id": "0e9a05f81cf0ed3a",
+   "source": "cnBeta",
+   "title": "传英伟达向采用AMD芯片的云服务商施压 拒绝部分企业参加 GTC Berlin",
+   "url": "https://www.cnbeta.com.tw/articles/tech/1583264.htm",
+   "summary": "围绕 AI 硬件市场竞争的争议再次升温。根据分析机构 SemiAnalysis 的最新爆料，英伟达被指正在对部分采用 AMD GPU、Google TPU 及其他竞争产品的“Neocloud”云服务提供商施加压力，甚至拒绝它们参加即将举行的 GTC Berlin 大会。 阅读全文",
+   "published_at": 1792609445.0,
+   "published_bj": "2026-10-22 03:04"
+  },
+  {
+   "id": "47e0197d422566e6",
+   "source": "TechCrunch",
+   "title": "The internet is having a very bad cybersecurity day",
+   "url": "https://techcrunch.com/2026/10/21/the-internet-is-having-a-very-bad-cybersecurity-day/",
+   "summary": "From AI-discovered PHP vulnerabilities to flaws in Node.js and popular AI tool LiteLLM, cybersecurity teams have plenty to worry about this week.",
+   "published_at": 1792609408.0,
+   "published_bj": "2026-10-22 03:03"
+  },
+  {
+   "id": "b6fcb3b849e05f0b",
+   "source": "cnBeta",
+   "title": "通用汽车为OnStar注入AI 从车载呼叫中心迈向智能助手平台",
+   "url": "https://www.cnbeta.com.tw/articles/tech/1583262.htm",
+   "summary": "通用汽车宣布对旗下拥有 30年历史的 OnStar 车联网服务进行全面升级，并正式引入人工智能助手，希望将这一传统的安全和道路救援服务打造成为新一代智能出行平台。 阅读全文",
+   "published_at": 1792609349.0,
+   "published_bj": "2026-10-22 03:02"
+  },
+  {
+   "id": "bdff744660de787d",
+   "source": "Hacker News",
+   "title": "GitLab Critical Patch Release",
+   "url": "https://docs.gitlab.com/releases/patches/patch-release-gitlab-19-5-1-released/",
+   "summary": "Article URL: https://docs.gitlab.com/releases/patches/patch-release-gitlab-19-5-1-released/ Comments URL: https://news.ycombinator.com/item?id=50185869 Points: 243 # Comments: 58",
+   "published_at": 1792609272.0,
+   "published_bj": "2026-10-22 03:01"
+  },
+  {
+   "id": "4d867899fe63b843",
+   "source": "cnBeta",
+   "title": "iPhone Duo屏下前摄性能引关注 苹果刻意保留关键参数",
+   "url": "https://www.cnbeta.com.tw/articles/tech/1583260.htm",
+   "summary": "随着苹果首款折叠屏手机 iPhone Duo 即将正式上市，隐藏在其 7.6 英寸内屏下方的 FaceTime 前置摄像头成为外界关注的焦点。这是苹果首次在量产设备中采用屏下摄像头技术，但与设备上的其他摄像头相比，苹果披露的信息明显更为有限。 阅读全文",
+   "published_at": 1792609211.0,
+   "published_bj": "2026-10-22 03:00"
+  },
+  {
+   "id": "9259c3cd1342b568",
+   "source": "cnBeta",
+   "title": "Meta因新墨西哥州剑桥分析案被罚250亿美元",
+   "url": "https://www.cnbeta.com.tw/articles/tech/1583258.htm",
+   "summary": "周三，美股新墨西哥州法院下令Meta支付250亿美元罚款，该案是一起数据隐私诉讼，源于十多年前该公司卷入的剑桥分析丑闻。根据一份法院文件披露，这一处罚决定是在圣菲法院陪审团于9月裁定Meta存在误导行为之后作出的。陪审团认定，Meta就其如何保护用户数据、收集用户数据，以及如何防止有害信息在其服务上泛滥等问题，误导了新墨西哥州民众。 阅读全文",
+   "published_at": 1792608951.0,
+   "published_bj": "2026-10-22 02:55"
+  },
+  {
+   "id": "de76be3c75196a09",
+   "source": "TechCrunch",
+   "title": "Legal AI startup Legora raises $550M Series E at $8.8B valuation",
+   "url": "https://techcrunch.com/2026/10/21/legal-ai-startup-legora-raises-550m-series-e-at-8-8b-valuation/",
+   "summary": "Legal AI startup Legora announced Wednesday that it raised a $550 million Series E round, valuing it at $8.8 billion.",
+   "published_at": 1792608716.0,
+   "published_bj": "2026-10-22 02:51"
   },
   {
    "id": "563f1d082bef4f49",

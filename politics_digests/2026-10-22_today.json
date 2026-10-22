@@ -1,0 +1,362 @@
+{
+ "type": "today",
+ "date": "2026-10-22",
+ "window": {
+  "start_ts": 1792598400.0,
+  "end_ts": 1792630800.0
+ },
+ "generated_at": 1792632674.1442256,
+ "generator": "action",
+ "news_count": 28,
+ "keywords": [
+  "长征",
+  "伊朗",
+  "三方",
+  "不在",
+  "中东",
+  "中方",
+  "主张",
+  "乌克",
+  "习言",
+  "们的"
+ ],
+ "points": [
+  {
+   "text": "【在外】中新社联合国10月21日电 中国裁军事务大使李驰江21日在联大第一委员会作关于外空问题的专题发言时表示，中方主张不在外空搞“大国竞争”和阵营对抗",
+   "keyword": "在外",
+   "news_ids": [
+    "61c34121acc4768f"
+   ],
+   "refs": [
+    {
+     "id": "61c34121acc4768f",
+     "title": "中方主张不在外空搞“大国竞争”和阵营对抗",
+     "source": "中新网即时",
+     "url": "https://www.chinanews.com.cn/gj/2026/10-22/10718840.shtml",
+     "published_at": 1792628607.0
+    }
+   ]
+  },
+  {
+   "text": "【长征】长征途中，英雄的红军，血战湘江，四渡赤水，巧渡金沙江，强渡大渡河，飞夺泸定桥，鏖战独树镇，勇克包座，转战乌蒙山，击退上百万穷凶极恶的追兵阻敌，征",
+   "keyword": "长征",
+   "news_ids": [
+    "541b0a75e159de10"
+   ],
+   "refs": [
+    {
+     "id": "541b0a75e159de10",
+     "title": "我们的长征路】习言道｜一镜到底见证长征力量",
+     "source": "中新网即时",
+     "url": "http://www.chinanews.com.cn/gn/shipin/2026/10-22/news1072587.shtml",
+     "published_at": 1792626207.0
+    }
+   ]
+  },
+  {
+   "text": "【北约】中新网10月22日电 综合外媒20日报道，美国副总统万斯表示，美国与乌克兰没有正式结盟，乌克兰不是北约成员，也不应加入北约，但他同时表示，美国会",
+   "keyword": "北约",
+   "news_ids": [
+    "195273776f1e417d"
+   ],
+   "refs": [
+    {
+     "id": "195273776f1e417d",
+     "title": "美副总统万斯：乌克兰不是北约成员，也不应加入北约",
+     "source": "中新网即时",
+     "url": "https://www.chinanews.com.cn/gj/2026/10-22/10718847.shtml",
+     "published_at": 1792629758.0
+    }
+   ]
+  },
+  {
+   "text": "【伊朗】中国天气网讯 今天(10月22日)，我国中东部地区降水较少，新疆雨雪持续，局地或现特大暴雪",
+   "keyword": "伊朗",
+   "news_ids": [
+    "3e342b69b3060fb4"
+   ],
+   "refs": [
+    {
+     "id": "3e342b69b3060fb4",
+     "title": "我国中东部迎升温过程 东南沿海降雨将增多增强",
+     "source": "中新网即时",
+     "url": "https://www.chinanews.com.cn/sh/2026/10-22/10718855.shtml",
+     "published_at": 1792630751.0
+    }
+   ]
+  },
+  {
+   "text": "【伊朗】中新网10月22日电 综合伊朗媒体报道，当地时间21日，伊朗最高领袖穆杰塔巴会见伊朗议会议长卡利巴夫，共同商讨伊朗最新局势",
+   "keyword": "伊朗",
+   "news_ids": [
+    "11b5f310dcfbdc9c"
+   ],
+   "refs": [
+    {
+     "id": "11b5f310dcfbdc9c",
+     "title": "伊朗最高领袖会见议会议长 商讨最新局势",
+     "source": "中新网即时",
+     "url": "https://www.chinanews.com.cn/gj/2026/10-22/10718838.shtml",
+     "published_at": 1792627863.0
+    }
+   ]
+  },
+  {
+   "text": "中国体操队时隔20年再夺世锦赛女团金牌",
+   "keyword": "",
+   "news_ids": [
+    "637d542aef520cc1"
+   ],
+   "refs": [
+    {
+     "id": "637d542aef520cc1",
+     "title": "中国体操队时隔20年再夺世锦赛女团金牌",
+     "source": "中新网即时",
+     "url": "http://www.chinanews.com.cn/tp/hd2011/2026/10-22/1208489.shtml",
+     "published_at": 1792629697.0
+    }
+   ]
+  },
+  {
+   "text": "90年了，这群拼命赶路的人，不能忘！",
+   "keyword": "",
+   "news_ids": [
+    "c30b73e652bacaf7"
+   ],
+   "refs": [
+    {
+     "id": "c30b73e652bacaf7",
+     "title": "90年了，这群拼命赶路的人，不能忘！",
+     "source": "中新网即时",
+     "url": "https://www.chinanews.com.cn/gn/2026/10-22/10718843.shtml",
+     "published_at": 1792629154.0
+    }
+   ]
+  },
+  {
+   "text": "植物、脂肪和發酵食品可以減少皺紋，促進膠原蛋白生長，並改善皮膚質地",
+   "keyword": "",
+   "news_ids": [
+    "18ab5818322d949b"
+   ],
+   "refs": [
+    {
+     "id": "18ab5818322d949b",
+     "title": "吃什麼能保持年輕肌膚？",
+     "source": "BBC中文",
+     "url": "https://www.bbc.com/zhongwen/articles/ckjwe7jzn21no/trad?at_medium=RSS&at_campaign=rss",
+     "published_at": 1792628490.0
+    }
+   ]
+  },
+  {
+   "text": "馬斯克稱，透過合併這兩家公司，「有很多好處可獲得」，而這將會是歷來規模最大的合併案",
+   "keyword": "",
+   "news_ids": [
+    "3b93fbb4c15ad33b"
+   ],
+   "refs": [
+    {
+     "id": "3b93fbb4c15ad33b",
+     "title": "為甚麼馬斯克要策劃 SpaceX 與特斯拉的超大型合併？",
+     "source": "BBC中文",
+     "url": "https://www.bbc.com/zhongwen/articles/c6eq309002q3o/trad?at_medium=RSS&at_campaign=rss",
+     "published_at": 1792628484.0
+    }
+   ]
+  },
+  {
+   "text": "中期選舉前夕，特朗普一直吹噓美國經濟的表現",
+   "keyword": "",
+   "news_ids": [
+    "79a181afa31222f5"
+   ],
+   "refs": [
+    {
+     "id": "79a181afa31222f5",
+     "title": "特朗普治下，美國經濟的真實表現如何？",
+     "source": "BBC中文",
+     "url": "https://www.bbc.com/zhongwen/articles/cqkgke5j6yego/trad?at_medium=RSS&at_campaign=rss",
+     "published_at": 1792628478.0
+    }
+   ]
+  },
+  {
+   "text": "中新网10月22日电 据俄罗斯媒体报道，俄罗斯国防部21日通报说，一架苏-30战斗机当天在加里宁格勒地区执行例行飞行训练任务时坠毁，机上飞行员弹",
+   "keyword": "",
+   "news_ids": [
+    "014c275e1f428774"
+   ],
+   "refs": [
+    {
+     "id": "014c275e1f428774",
+     "title": "俄罗斯一架苏-30战斗机坠毁 飞行员弹射逃生",
+     "source": "中新网即时",
+     "url": "https://www.chinanews.com.cn/gj/2026/10-22/10718841.shtml",
+     "published_at": 1792628389.0
+    }
+   ]
+  },
+  {
+   "text": "新华社北京10月22日电 10月22日上午，国务院总理李强在结束中俄总理第三十一次定期会晤后，乘包机回到北京",
+   "keyword": "",
+   "news_ids": [
+    "a3d5b11ab1b71e76"
+   ],
+   "refs": [
+    {
+     "id": "a3d5b11ab1b71e76",
+     "title": "李强结束出访回到北京",
+     "source": "中新网即时",
+     "url": "https://www.chinanews.com.cn/gn/2026/10-22/10718839.shtml",
+     "published_at": 1792628003.0
+    }
+   ]
+  },
+  {
+   "text": "从保温杯、汤锅到餐盘餐具，钛制日用消费品正在走红",
+   "keyword": "",
+   "news_ids": [
+    "a3ce83b5ffaab5c2"
+   ],
+   "refs": [
+    {
+     "id": "a3ce83b5ffaab5c2",
+     "title": "差价数十倍 概念“乱如麻” 网红钛制品真有那么神奇吗？",
+     "source": "中新网即时",
+     "url": "https://www.chinanews.com.cn/life/2026/10-22/10718831.shtml",
+     "published_at": 1792626153.0
+    }
+   ]
+  },
+  {
+   "text": "旅客预订机票后因病申请退票被拒产生纠纷 专家指出",
+   "keyword": "",
+   "news_ids": [
+    "3600c9f7f6e90b85"
+   ],
+   "refs": [
+    {
+     "id": "3600c9f7f6e90b85",
+     "title": "旅客预订机票后因病申请退票被拒产生纠纷 专家解析",
+     "source": "中新网即时",
+     "url": "https://www.chinanews.com.cn/sh/2026/10-22/10718830.shtml",
+     "published_at": 1792626131.0
+    }
+   ]
+  },
+  {
+   "text": "高龄老人独自参团出游，难在哪里",
+   "keyword": "",
+   "news_ids": [
+    "fa1f1a56bbf410e4"
+   ],
+   "refs": [
+    {
+     "id": "fa1f1a56bbf410e4",
+     "title": "高龄老人独自参团出游，难在哪里？",
+     "source": "中新网即时",
+     "url": "https://www.chinanews.com.cn/sh/2026/10-22/10718829.shtml",
+     "published_at": 1792625613.0
+    }
+   ]
+  }
+ ],
+ "article": {
+  "title": "2026-10-22 新闻总结",
+  "paragraphs": [
+   {
+    "kind": "lead",
+    "text": "今天共收录 28 条新闻，来自 4 家媒体。整体没有压倒性的单一主线，更像是几条线索并行推进。"
+   },
+   {
+    "kind": "section",
+    "heading": "中方主张不在外空搞“大国竞争”和",
+    "text": "先看「中方主张不在外空搞“大国竞争”和」。中新社联合国10月21日电 中国裁军事务大使李驰江21日在联大第一委员会作关于外空问题的专题发言时表示，另有 1 条消息指向同一话题。单看一条新闻容易高估影响，放到最近几周的脉络里，它更像是一个渐进变化中的节点。",
+    "news_ids": [
+     "61c34121acc4768f"
+    ],
+    "refs": [
+     {
+      "id": "61c34121acc4768f",
+      "title": "中方主张不在外空搞“大国竞争”和阵营对抗",
+      "source": "中新网即时",
+      "url": "https://www.chinanews.com.cn/gj/2026/10-22/10718840.shtml",
+      "published_at": 1792628607.0
+     }
+    ]
+   },
+   {
+    "kind": "section",
+    "heading": "直播",
+    "text": "与此同时「直播」。直播外链：回望九十载峥嵘岁月 从万里长征走向伟大复兴…，另有 3 条消息指向同一话题。对读者来说，值得留意的不是结论本身，而是它背后哪些前提正在被改变。",
+    "news_ids": [
+     "7474b755463ac0f4"
+    ],
+    "refs": [
+     {
+      "id": "7474b755463ac0f4",
+      "title": "直播外链：回望九十载峥嵘岁月 从万里长征走向伟大复兴",
+      "source": "中新网即时",
+      "url": "https://www.chinanews.com.cn/iframe/2026/10-22/10718842.shtml",
+      "published_at": 1792628667.0
+     }
+    ]
+   },
+   {
+    "kind": "section",
+    "heading": "美副总统万斯",
+    "text": "另一个值得注意的方向是「美副总统万斯」。中新网10月22日电 综合外媒20日报道，美国副总统万斯表示，美国与乌克兰没有正式结盟，乌克兰不是北约成员，也不应加入北约，但他同时表示，另有 3 条消息指向同一话题。这条消息短期内的实际影响可能有限，但它指向的方向值得放进观察名单。",
+    "news_ids": [
+     "195273776f1e417d"
+    ],
+    "refs": [
+     {
+      "id": "195273776f1e417d",
+      "title": "美副总统万斯：乌克兰不是北约成员，也不应加入北约",
+      "source": "中新网即时",
+      "url": "https://www.chinanews.com.cn/gj/2026/10-22/10718847.shtml",
+      "published_at": 1792629758.0
+     }
+    ]
+   },
+   {
+    "kind": "section",
+    "heading": "出口",
+    "text": "相比之下「出口」。随着航运公司想方设法改用替代路线，海湾产油国（除伊朗外）上周的石油日均出口量达到2460万桶，另有 1 条消息指向同一话题。这条消息短期内的实际影响可能有限，但它指向的方向值得放进观察名单。",
+    "news_ids": [
+     "ce1bf173a3a182c3"
+    ],
+    "refs": [
+     {
+      "id": "ce1bf173a3a182c3",
+      "title": "中东石油出口恢复至战前水平",
+      "source": "FT中文网",
+      "url": "https://www.ftchinese.com/story/001111168",
+      "published_at": 1792598400.0
+     }
+    ]
+   },
+   {
+    "kind": "glossary",
+    "items": [
+     {
+      "term": "AI",
+      "desc": "人工智能，让机器完成识别、生成、判断等原本需要人做的任务"
+     }
+    ]
+   },
+   {
+    "kind": "outlook",
+    "text": "整体看，这个时段的新闻还处在「消息多、结论少」的阶段，与其急着下判断，不如盯住接下来一两周有没有可验证的后续动作。"
+   }
+  ],
+  "word_count": 557
+ },
+ "ai_enhanced": false,
+ "schema": 1,
+ "window_bj": {
+  "start": "2026-10-22 00:00",
+  "end": "2026-10-22 09:00"
+ }
+}

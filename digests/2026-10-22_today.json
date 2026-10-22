@@ -1,0 +1,370 @@
+{
+ "type": "today",
+ "date": "2026-10-22",
+ "window": {
+  "start_ts": 1792598400.0,
+  "end_ts": 1792630800.0
+ },
+ "generated_at": 1792632674.0444872,
+ "generator": "action",
+ "news_count": 88,
+ "keywords": [
+  "ai",
+  "the",
+  "meta",
+  "苹果",
+  "iphone",
+  "duo",
+  "to",
+  "亿美",
+  "折叠",
+  "美元"
+ ],
+ "points": [
+  {
+   "text": "【ai】IT早报”时间，大家好，现在是 2026 年 10 月 22 日星期四，今天的重要科技资讯有： 1. 【视频】 iPhone Duo 上的软件长",
+   "keyword": "ai",
+   "news_ids": [
+    "ed77230e59f13ce2"
+   ],
+   "refs": [
+    {
+     "id": "ed77230e59f13ce2",
+     "title": "IT早报 1022：苹果 iPhone Duo 三方应用界面首曝；问界、神木警方回应汽车碰撞起火司机遇难事件；马斯克暗示 SpaceX+ 特斯拉合并；荣耀 WIN 2 手机发布...",
+     "source": "IT之家",
+     "url": "https://www.ithome.com/1/016/181.htm",
+     "published_at": 1792627161.0
+    }
+   ]
+  },
+  {
+   "text": "【ai】The social media giant is planning a new stock strategy to help power it",
+   "keyword": "ai",
+   "news_ids": [
+    "ccb2b91e6d01bf4c"
+   ],
+   "refs": [
+    {
+     "id": "ccb2b91e6d01bf4c",
+     "title": "Meta wants to pay for its broad AI buildout with a newly created class of stock",
+     "source": "TechCrunch",
+     "url": "https://techcrunch.com/2026/10/21/meta-wants-to-pay-for-its-broad-ai-buildout-with-a-newly-created-class-of-stock/",
+     "published_at": 1792622734.0
+    }
+   ]
+  },
+  {
+   "text": "【ai】Article URL: https://www",
+   "keyword": "ai",
+   "news_ids": [
+    "e92dcac6683414dc"
+   ],
+   "refs": [
+    {
+     "id": "e92dcac6683414dc",
+     "title": "When Do We Become the Person We Ought to Be?",
+     "source": "Hacker News",
+     "url": "https://www.graphsaboutreligion.com/p/when-do-we-become-the-person-we-ought",
+     "published_at": 1792627061.0
+    }
+   ]
+  },
+  {
+   "text": "【meta】IT之家 10 月 22 日消息，埃隆 · 马斯克（Elon Musk）在昨日 SpaceX 财报电话会议上引发舆论关注，他证实 SpaceX ",
+   "keyword": "meta",
+   "news_ids": [
+    "f379d359c4d0dd78"
+   ],
+   "refs": [
+    {
+     "id": "f379d359c4d0dd78",
+     "title": "SpaceX 与特斯拉若合并，马斯克财富有望增加 1100 亿美元",
+     "source": "IT之家",
+     "url": "https://www.ithome.com/1/016/183.htm",
+     "published_at": 1792627359.0
+    }
+   ]
+  },
+  {
+   "text": "【the】Meta Muse users are adopting the app for shopping and personal productiv",
+   "keyword": "the",
+   "news_ids": [
+    "1c7412d6e91f14a3"
+   ],
+   "refs": [
+    {
+     "id": "1c7412d6e91f14a3",
+     "title": "Meta says Muse has over 10M users, with shopping a top activity",
+     "source": "TechCrunch",
+     "url": "https://techcrunch.com/2026/10/21/meta-says-muse-has-over-10m-users-with-shopping-a-top-activity/",
+     "published_at": 1792617259.0
+    }
+   ]
+  },
+  {
+   "text": "【for】Article URL: https://eliastaylor",
+   "keyword": "for",
+   "news_ids": [
+    "00176090cd5e3c58"
+   ],
+   "refs": [
+    {
+     "id": "00176090cd5e3c58",
+     "title": "There isn't an easy exploit for this PHP vulnerability",
+     "source": "Hacker News",
+     "url": "https://eliastaylor.com/noexploit/",
+     "published_at": 1792624407.0
+    }
+   ]
+  },
+  {
+   "text": "OpenBSD 8.0 正式发布、腾讯宣布元宝搜索对外开放等",
+   "keyword": "",
+   "news_ids": [
+    "6dddb8c730fa18c8"
+   ],
+   "refs": [
+    {
+     "id": "6dddb8c730fa18c8",
+     "title": "派早报：荣耀发布 WIN2 系列新品、Google 开源 TorchTPU 等",
+     "source": "少数派",
+     "url": "https://sspai.com/post/116953",
+     "published_at": 1792628945.0
+    }
+   ]
+  },
+  {
+   "text": "Article URL: https://github",
+   "keyword": "",
+   "news_ids": [
+    "6ae38f04d551004b"
+   ],
+   "refs": [
+    {
+     "id": "6ae38f04d551004b",
+     "title": "mitmproxy adds --emudhra option",
+     "source": "Hacker News",
+     "url": "https://github.com/mitmproxy/mitmproxy/commit/169234499088fc2c414644a67efaed3d64ae2e3b",
+     "published_at": 1792626697.0
+    }
+   ]
+  },
+  {
+   "text": "Article URL: https://foxio",
+   "keyword": "",
+   "news_ids": [
+    "ff6a3d7333165f06"
+   ],
+   "refs": [
+    {
+     "id": "ff6a3d7333165f06",
+     "title": "Qpack amplification attacks against HTTP/3 servers",
+     "source": "Hacker News",
+     "url": "https://foxio.io/blog/header-accordions-qpack-amplification-attacks-against-http-3-servers",
+     "published_at": 1792621965.0
+    }
+   ]
+  },
+  {
+   "text": "近日EA官方公布大规模内部重组计划，BioWare(生软)正式关闭，处于早期开发阶段的全新《质量效应》项目直接取消",
+   "keyword": "",
+   "news_ids": [
+    "071aa025801d145b"
+   ],
+   "refs": [
+    {
+     "id": "071aa025801d145b",
+     "title": "EA关闭BioWare工作室 《质量效应》新作开发取消",
+     "source": "cnBeta",
+     "url": "https://www.cnbeta.com.tw/articles/game/1583278.htm",
+     "published_at": 1792621607.0
+    }
+   ]
+  },
+  {
+   "text": "美国航空航天局当地时间20日公布了其月球车的最新研发进展及任务规划",
+   "keyword": "",
+   "news_ids": [
+    "46fa79219d3c6157"
+   ],
+   "refs": [
+    {
+     "id": "46fa79219d3c6157",
+     "title": "美航空航天局公布月球车最新研发进展及任务规划",
+     "source": "cnBeta",
+     "url": "https://www.cnbeta.com.tw/articles/science/1583274.htm",
+     "published_at": 1792621511.0
+    }
+   ]
+  },
+  {
+   "text": "Article URL: https://blog",
+   "keyword": "",
+   "news_ids": [
+    "c7de37bf1b1b0cd4"
+   ],
+   "refs": [
+    {
+     "id": "c7de37bf1b1b0cd4",
+     "title": "Railway Security Disclosure",
+     "source": "Hacker News",
+     "url": "https://blog.railway.com/p/security-disclosure-wednesday-october-21st",
+     "published_at": 1792619883.0
+    }
+   ]
+  },
+  {
+   "text": "对话亚马逊CTO：仍在招聘初级工程师，关注中国开放模型",
+   "keyword": "",
+   "news_ids": [
+    "17b6fde00a4c8d5a"
+   ],
+   "refs": [
+    {
+     "id": "17b6fde00a4c8d5a",
+     "title": "对话亚马逊CTO：仍在招聘初级工程师，关注中国开放模型",
+     "source": "InfoQ中文",
+     "url": "https://www.infoq.cn/article/XxOpQpEMZpdCCYhXxgaE?utm_source=rss&utm_medium=article",
+     "published_at": 1792617520.0
+    }
+   ]
+  },
+  {
+   "text": "音频设备厂商Bose宣布完成对耳机品牌 Skullcandy 的收购",
+   "keyword": "",
+   "news_ids": [
+    "635bf2bd58a64445"
+   ],
+   "refs": [
+    {
+     "id": "635bf2bd58a64445",
+     "title": "Bose收购Skullcandy 瞄准年轻消费群体与更广泛市场",
+     "source": "cnBeta",
+     "url": "https://www.cnbeta.com.tw/articles/tech/1583270.htm",
+     "published_at": 1792615053.0
+    }
+   ]
+  },
+  {
+   "text": "美国游戏发行商EA（Electronic Arts）宣布新一轮业务重组计划，公司将裁减约400个工作岗位，约占全球员工总数的3%",
+   "keyword": "",
+   "news_ids": [
+    "0644837c16e8f525"
+   ],
+   "refs": [
+    {
+     "id": "0644837c16e8f525",
+     "title": "EA启动大规模重组：裁员400人 《模拟人生》新项目被搁置",
+     "source": "cnBeta",
+     "url": "https://www.cnbeta.com.tw/articles/game/1583268.htm",
+     "published_at": 1792614975.0
+    }
+   ]
+  }
+ ],
+ "article": {
+  "title": "2026-10-22 新闻总结",
+  "paragraphs": [
+   {
+    "kind": "lead",
+    "text": "今天共收录 88 条新闻，来自 7 家媒体。把标题放在一起看，讨论主要集中在 AI 这几个方向上，其余消息更像是零散补充。"
+   },
+   {
+    "kind": "section",
+    "heading": "手机",
+    "text": "先看「手机」。IT早报”时间，大家好，现在是 2026 年 10 月 22 日星期四，今天的重要科技资讯有，另有 30 条消息指向同一话题。价格和生态往往比硬件规格更能决定一款产品能不能留下来。",
+    "news_ids": [
+     "ed77230e59f13ce2"
+    ],
+    "refs": [
+     {
+      "id": "ed77230e59f13ce2",
+      "title": "IT早报 1022：苹果 iPhone Duo 三方应用界面首曝；问界、神木警方回应汽车碰撞起火司机遇难事件；马斯克暗示 SpaceX+ 特斯拉合并；荣耀 WIN 2 手机发布...",
+      "source": "IT之家",
+      "url": "https://www.ithome.com/1/016/181.htm",
+      "published_at": 1792627161.0
+     }
+    ]
+   },
+   {
+    "kind": "section",
+    "heading": "AI",
+    "text": "与此同时「AI」。IT之家 10 月 22 日消息，Anthropic 昨日（10 月 21 日）宣布以研究预览版形式，推出全新应用 Claude Duet，另有 17 条消息指向同一话题。这类进展更像是把已有能力往工程化落地推了一步，真正的分水岭在于成本和可靠性能不能同时压下来。",
+    "news_ids": [
+     "52fee4fa9a9ab46d"
+    ],
+    "refs": [
+     {
+      "id": "52fee4fa9a9ab46d",
+      "title": "24 小时为你在线打工：Anthropic 推出 Claude Duet AI 智能体，迎战 Meta 和 OpenAI",
+      "source": "IT之家",
+      "url": "https://www.ithome.com/1/016/169.htm",
+      "published_at": 1792622658.0
+     }
+    ]
+   },
+   {
+    "kind": "section",
+    "heading": "漏洞",
+    "text": "另一个值得注意的方向是「漏洞」。IT之家 10 月 22 日消息，OpenAI 公司昨日（10 月 21 日）发布博文，宣布通过其“修补地球”（Patch the Planet）计划，另有 8 条消息指向同一话题。技术路线的胜负很少由一次发布会决定，接下来要看的是它能不能被更多团队低成本复用。",
+    "news_ids": [
+     "2e707ff1edfe966b"
+    ],
+    "refs": [
+     {
+      "id": "2e707ff1edfe966b",
+      "title": "影响约 70% 网站：PHP 高危漏洞被修复，OpenAI 牵头协调全球发现 / 修复",
+      "source": "IT之家",
+      "url": "https://www.ithome.com/1/016/173.htm",
+      "published_at": 1792624316.0
+     }
+    ]
+   },
+   {
+    "kind": "section",
+    "heading": "合并",
+    "text": "相比之下「合并」。IT之家 10 月 22 日消息，埃隆 · 马斯克（Elon Musk）在昨日 SpaceX 财报电话会议上引发舆论关注，他证实 SpaceX 与特斯拉公司已各自成立特别委员会，另有 7 条消息指向同一话题。这类交易背后通常是行业在提前整合，中小玩家的选择空间会被进一步压缩。",
+    "news_ids": [
+     "f379d359c4d0dd78"
+    ],
+    "refs": [
+     {
+      "id": "f379d359c4d0dd78",
+      "title": "SpaceX 与特斯拉若合并，马斯克财富有望增加 1100 亿美元",
+      "source": "IT之家",
+      "url": "https://www.ithome.com/1/016/183.htm",
+      "published_at": 1792627359.0
+     }
+    ]
+   },
+   {
+    "kind": "glossary",
+    "items": [
+     {
+      "term": "AI",
+      "desc": "人工智能，让机器完成识别、生成、判断等原本需要人做的任务"
+     },
+     {
+      "term": "开源",
+      "desc": "源代码公开，允许他人查看、修改并再分发"
+     },
+     {
+      "term": "算力",
+      "desc": "计算能力，通常用 GPU 数量和浮点性能衡量，是训练大模型的门槛"
+     }
+    ]
+   },
+   {
+    "kind": "outlook",
+    "text": "整体看，这个时段的新闻还处在「消息多、结论少」的阶段，与其急着下判断，不如盯住接下来一两周有没有可验证的后续动作。"
+   }
+  ],
+  "word_count": 650
+ },
+ "ai_enhanced": false,
+ "schema": 1,
+ "window_bj": {
+  "start": "2026-10-22 00:00",
+  "end": "2026-10-22 09:00"
+ }
+}
