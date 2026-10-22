@@ -1,8 +1,17 @@
 {
  "date": "2026-10-22",
- "generated_at": 1792645948.2817898,
- "count": 180,
+ "generated_at": 1792648288.2345107,
+ "count": 199,
  "items": [
+  {
+   "id": "304ccd54159c72c7",
+   "source": "InfoQ中文",
+   "title": "GitHub 通过 AI 辅助重构，将 Copilot 运行时迁移至 Rust",
+   "url": "https://www.infoq.cn/article/zGqDWHF8tHDtlYcImAJS?utm_source=rss&utm_medium=article",
+   "summary": "点击查看原文>",
+   "published_at": 1792675020.0,
+   "published_bj": "2026-10-22 21:17"
+  },
   {
    "id": "37cb1ccbe0525dfa",
    "source": "InfoQ中文",
@@ -38,6 +47,159 @@
    "summary": "点击查看原文>",
    "published_at": 1792660260.0,
    "published_bj": "2026-10-22 17:11"
+  },
+  {
+   "id": "e6e2991ec3ea26a6",
+   "source": "IT之家",
+   "title": "消息称《鬼灭之刃：无限城篇第二章》动画电影 2027 年 9 月上映",
+   "url": "https://www.ithome.com/1/016/360.htm",
+   "summary": "IT之家 10 月 22 日消息，Polygon 昨日（10 月 21 日）发布博文， 报道称《鬼灭之刃：无限城篇第二章》动画电影可能会在 2027 年 9 月 15 日发行上映。 电影信息网站 The-Numbers.com 近期收录了一部未命名动画电影，由索尼影业与 Crunchyroll 联合发行，定档于 2027 年 9 月 15 日。IT之家附上相关截图如下： 由于索尼及 Crunchyroll 持有《鬼灭之刃》系列的全球发行与流媒体权利，且索尼旗下 Aniplex 也参与该系列制作委员会，不少粉丝推测该神秘电影就是《鬼灭之刃：无限城篇第二章》。 另一个候选者是已宣布将于 2027 ",
+   "published_at": 1792648003.0,
+   "published_bj": "2026-10-22 13:46"
+  },
+  {
+   "id": "c312f07bd01ca539",
+   "source": "IT之家",
+   "title": "特斯拉 App 适配苹果首款折叠 iPhone Duo，引入大屏双栏体验",
+   "url": "https://www.ithome.com/1/016/359.htm",
+   "summary": "IT之家 10 月 22 日消息，科技媒体 notateslaapp 今天（10 月 22 日）发布博文， 报道称特斯拉面向 iPad、iPhone Duo，推送 4.62.0 版本更新，重点针对大屏幕和折叠手机重新设计界面。 IT之家附上相关演示视频如下： 报道指出 iPad 用户此前只能使用被拉伸放大的 iPhone 版应用，而新版则采用专属大屏布局，左侧为功能菜单，右侧呈现更精细的车辆可视化界面，可同时查看更多车辆信息。 针对苹果折叠屏 iPhone Duo，应用在内屏采用大屏布局，可同时展示充电信息、实时摄像头和行车记录仪片段；合上手机后，外屏自动切换回常规手机界面。 新界面保留了手机",
+   "published_at": 1792647416.0,
+   "published_bj": "2026-10-22 13:36"
+  },
+  {
+   "id": "e7750cf24a120585",
+   "source": "cnBeta",
+   "title": "iPhone Duo首批评测汇总：大屏很诱人 日常操作还得重新学",
+   "url": "https://www.cnbeta.com.tw/articles/tech/1583334.htm",
+   "summary": "用了一周iPhone Duo，CNET记者已经不想换回直板手机了。The Verge的两位评测者却说，重新拿起普通直板iPhone办事时，常常会松一口气。10月21日，苹果首款折叠手机的首批评测集中出炉。CNET给出8.7分和编辑推荐，The Verge打了7分。Duo配有5.4英寸外屏和7.6英寸内屏，国行256GB版售价15999元起，将于10月23日正式发售。 阅读全文",
+   "published_at": 1792647410.0,
+   "published_bj": "2026-10-22 13:36"
+  },
+  {
+   "id": "13331c0eadfd7ba0",
+   "source": "cnBeta",
+   "title": "美媒评iPhone Duo：昂贵、妥协多，第一代产品缺陷明显",
+   "url": "https://www.cnbeta.com.tw/articles/tech/1583332.htm",
+   "summary": "10月22日，科技媒体The Verge在评测中为苹果折叠屏手机iPhone Duo打出7分。该媒体认为，这是苹果多年来最冒险的产品之一，但也带有明显的第一代产品缺陷，更适合数码爱好者和尝鲜用户。 阅读全文",
+   "published_at": 1792647349.0,
+   "published_bj": "2026-10-22 13:35"
+  },
+  {
+   "id": "6acd7c18736b8a9d",
+   "source": "cnBeta",
+   "title": "消息称Anthropic最早周五提交IPO申请",
+   "url": "https://www.cnbeta.com.tw/articles/tech/1583330.htm",
+   "summary": "据雅虎财经报道，三位知情人士透露，人工智能公司Anthropic 最早将于本周五公开提交 S-1 投资者招股说明书。此举将是该公司迈出的关键一步，有望成为史上规模最大的 IPO。备受瞩目的IPO预计将超过SpaceX（SPCX）6月份的IPO，被广泛视为对投资者对人工智能热潮兴趣的关键考验，因为投资者越来越担心该行业的巨额支出。 阅读全文",
+   "published_at": 1792647312.0,
+   "published_bj": "2026-10-22 13:35"
+  },
+  {
+   "id": "7101755ce8ced5a8",
+   "source": "cnBeta",
+   "title": "买手机“送”血压计，结果绑了24个月合约？小米之家回应",
+   "url": "https://www.cnbeta.com.tw/articles/tech/1583328.htm",
+   "summary": "10月22日，据1818黄金眼报道，绍兴上虞的郑女士10月14日在上百万和城小米之家为父亲购买一部红米手机，享受国补后实付1699.15元。次日起，她陆续收到多条业务办理短信，显示其被加入亲情网，并办理了“血压宝”活动。 阅读全文",
+   "published_at": 1792647256.0,
+   "published_bj": "2026-10-22 13:34"
+  },
+  {
+   "id": "5656b1352f17bb0d",
+   "source": "cnBeta",
+   "title": "iPhone Duo明日开售 有人店外打地铺提前2天排队 168元可转让排队位置",
+   "url": "https://www.cnbeta.com.tw/articles/tech/1583326.htm",
+   "summary": "近日，据苹果中国官网，计划在本月23日发售的iPhone Duo每位顾客限购2台。九派新闻记者注意到，在社交平台上，不少人晒出自己前往会员制超市开市客排队等候iPhone Duo开售的视频。一名网友晒出自己提前排队的图片，配文为“开市客iPhone Duo排队，位置转让，排名32，转让168元”。 阅读全文",
+   "published_at": 1792647033.0,
+   "published_bj": "2026-10-22 13:30"
+  },
+  {
+   "id": "03cccd4d53604f64",
+   "source": "cnBeta",
+   "title": "美国AI数据中心难落地 特朗普“出奇招”",
+   "url": "https://www.cnbeta.com.tw/articles/tech/1583324.htm",
+   "summary": "10月22日，美国总统特朗普在Truth Social发帖，呼吁数据中心建设方与大型AI云厂商向所在社区支付收益分红，以此应对能源涨价问题，甚至实现电价下调，让数据中心更容易获得当地社区接纳。 阅读全文",
+   "published_at": 1792646983.0,
+   "published_bj": "2026-10-22 13:29"
+  },
+  {
+   "id": "205d4c0fd6adb879",
+   "source": "cnBeta",
+   "title": "消息称DeepSeek已融资1000亿元：两次上调目标 腾讯、宁德时代投资",
+   "url": "https://www.cnbeta.com.tw/articles/tech/1583322.htm",
+   "summary": "10月22日，据彭博社报道，DeepSeek已在最新一轮融资中筹集了约1000亿元人民币(约合150亿美元)资金，这是中国有史以来规模最大的融资之一，也表明这家创业公司在全球内与Anthropic、OpenAI等公司展开竞争的雄心。 阅读全文",
+   "published_at": 1792646953.0,
+   "published_bj": "2026-10-22 13:29"
+  },
+  {
+   "id": "a700eade636023b1",
+   "source": "cnBeta",
+   "title": "OpenAI揪出PHP致命漏洞 全球70%网站深夜爆雷",
+   "url": "https://www.cnbeta.com.tw/articles/tech/1583320.htm",
+   "summary": "连账号密码都不用，黑客就可能让网站服务器听命于自己！昨日OpenAI公开了一起惊心动魄的幕后行动：GPT-5.6 Sol从全球70%网站都在用的PHP语言里， 挖出了两个致命漏洞。 阅读全文",
+   "published_at": 1792646844.0,
+   "published_bj": "2026-10-22 13:27"
+  },
+  {
+   "id": "1a021c1d867b4129",
+   "source": "cnBeta",
+   "title": "英伟达GTC柏林演讲风波：绿色和平抗议俄武器问题 黄仁勋回应后机器人演示“不听话”",
+   "url": "https://www.cnbeta.com.tw/articles/tech/1583318.htm",
+   "summary": "据《商业内幕》报道，英伟达CEO黄仁勋当地时间周三在GTC柏林大会上发表主题演讲，介绍欧洲AI产业发展构想。不过，现场出现了两段计划之外的插曲，一次是抗议者打断演讲，另一次则是机器人演示未完全按指令进行。 阅读全文",
+   "published_at": 1792646811.0,
+   "published_bj": "2026-10-22 13:26"
+  },
+  {
+   "id": "cd142e68fb0b337b",
+   "source": "cnBeta",
+   "title": "特斯拉Q3财报电话会：努力争取FSD在华获批 不再评论与SpaceX合并",
+   "url": "https://www.cnbeta.com.tw/articles/tech/1583316.htm",
+   "summary": "10月22日，特斯拉今天发布了2026年第三季度财报。随后，特斯拉CEO埃隆·马斯克(Elon Musk)、CFO瓦布哈维·塔内贾(Vaibhav Taneja)出席了电话会议，回答了分析师的提问。 阅读全文",
+   "published_at": 1792646792.0,
+   "published_bj": "2026-10-22 13:26"
+  },
+  {
+   "id": "f93bc52a7cc64761",
+   "source": "cnBeta",
+   "title": "Google前CEO施密特：AI可能淘汰大型企业20%的工作岗位",
+   "url": "https://www.cnbeta.com.tw/articles/tech/1583314.htm",
+   "summary": "Google前首席执行官埃里克·施密特（Eric Schmidt）认为，随着人工智能接管行政和管理任务，大型企业可以在员工人数减少约20%的情况下照常运作。施密特以一家拥有1万名员工的假设性企业为例说道：“我的推测是，其中有几千人其实是不需要的。” 阅读全文",
+   "published_at": 1792646736.0,
+   "published_bj": "2026-10-22 13:25"
+  },
+  {
+   "id": "9f13074bb9d95b1e",
+   "source": "IT之家",
+   "title": "三星心系天下新品发布会定档 10 月 29 日，W27 系列折叠屏手机将至",
+   "url": "https://www.ithome.com/1/016/357.htm",
+   "summary": "IT之家 10 月 22 日消息，三星官方今日宣布，三星心系天下新品发布会定档 10 月 29 日 16:00 ，海报中出现了两款折叠屏手机的剪影。 据IT之家此前报道， 有三星授权体验店发布预告 ，心系天下 W27 新品发布会将于 10 月 29 日举行。消息显示，新机预计将于 11 月 5 日开启首批门店取机，高端旗舰折叠现开启优先预定。 按照以往惯例，三星 W27 心系天下手机预计基于 Galaxy Z Fold8 系列手机打造。三星 Galaxy Z Fold8 Ultra 手机于今年 7 月发布，起售价 14999 元。 作为参考，Galaxy Z Fold8 Ultra 配备一块 ",
+   "published_at": 1792646614.0,
+   "published_bj": "2026-10-22 13:23"
+  },
+  {
+   "id": "197eab0991a29f72",
+   "source": "IT之家",
+   "title": "消息称苹果首款折叠 iPhone Duo 首销卖爆，12 个月内出货目标暴增 44%",
+   "url": "https://www.ithome.com/1/016/356.htm",
+   "summary": "IT之家 10 月 22 日消息，行业媒体 Digitimes 今天（10 月 22 日）发布博文，报道称基于供应链消息，苹果已将其首款折叠屏手机 iPhone Duo 未来 12 个月的出货目标上调 44%， 由原定的 970 万部提高至 1400 万部。 报道显示，iPhone Duo 预购开始后不久， 部分市场的预计交付时间便已延后至 2027 年 1 月 ，显示早期订单规模显著超出备货水平。此次上调的直接原因，是该机自开启预购以来需求远超苹果预期，促使公司向供应链追加订单。 行业研究机构 IDC 此前预计，苹果首款折叠屏 iPhone 首年出货量将超过 1000 万部，并可能在 202",
+   "published_at": 1792646465.0,
+   "published_bj": "2026-10-22 13:21"
+  },
+  {
+   "id": "0db4500e3695fc9d",
+   "source": "cnBeta",
+   "title": "马斯克欲赶在特朗普卸任前敲定特斯拉与SpaceX合并事宜",
+   "url": "https://www.cnbeta.com.tw/articles/tech/1583312.htm",
+   "summary": "埃隆·马斯克终于把那句一直没公开说的话挑明了：他全力支持将旗下两家最值钱的公司SpaceX和特斯拉公司合并。这将成为有史以来规模最大的企业交易。现在到了争分夺秒完成任务的时候了。 阅读全文",
+   "published_at": 1792646418.0,
+   "published_bj": "2026-10-22 13:20"
+  },
+  {
+   "id": "9907130c19021630",
+   "source": "cnBeta",
+   "title": "德克萨斯州AI数据中心激增 天然气供电方案或令空气污染倒退数十年",
+   "url": "https://www.cnbeta.com.tw/articles/tech/1583310.htm",
+   "summary": "随着生成式人工智能迅速发展，美国得克萨斯州正在迎来大规模数据中心建设热潮。然而，一份最新研究报告警告称，如果未来大量数据中心依赖现有电网和化石燃料满足电力需求，德州过去二十多年在空气污染治理方面取得的成果可能被大幅抵消，部分污染物排放水平甚至可能重新回到21世纪初的水平。 阅读全文",
+   "published_at": 1792645919.0,
+   "published_bj": "2026-10-22 13:11"
   },
   {
    "id": "c845f17d5556b4e5",
@@ -542,6 +704,15 @@
    "summary": "IT之家 10 月 22 日消息，科技媒体 Windows Central 昨日（10 月 21 日）发布博文，报道称在最新 Windows 11 预览版（原文并未提及具体 Build 版本号）中， 一项隐藏功能可以让人脸识别、指纹识别和 PIN 码同时处于可用状态，用户无需再在登录界面手动选择某一种验证方式。 IT之家援引博文介绍，在微软 Windows 11 现有登录流程中，如果用户同时设置了 PIN、人脸解锁和指纹解锁，Windows 通常只会启用用户在锁屏上手动点击的那一种。 例如，用户想用面部识别登录，但界面默认停留在 PIN 输入框时，摄像头并不会主动寻找用户面部，用户必须先切换到",
    "published_at": 1792635635.0,
    "published_bj": "2026-10-22 10:20"
+  },
+  {
+   "id": "622514206b1aedee",
+   "source": "Hacker News",
+   "title": "WorldTUI: I trained a 360M model to pretend to be a terminal",
+   "url": "https://simedw.com/2026/10/21/world-model-terminal/",
+   "summary": "Article URL: https://simedw.com/2026/10/21/world-model-terminal/ Comments URL: https://news.ycombinator.com/item?id=50190363 Points: 33 # Comments: 8",
+   "published_at": 1792635521.0,
+   "published_bj": "2026-10-22 10:18"
   },
   {
    "id": "b901f94eb4809a30",
