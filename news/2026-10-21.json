@@ -1,6 +1,6 @@
 {
  "date": "2026-10-21",
- "generated_at": 1792683039.4731603,
+ "generated_at": 1792685507.6028497,
  "count": 400,
  "items": [
   {
@@ -631,6 +631,15 @@
    "url": "https://www.ithome.com/1/016/116.htm",
    "summary": "IT之家 10 月 21 日消息，微软今日发布了最新的 PowerToys 0.102 版本，新增 Mouse Button Lock（鼠标按键锁定）和 CursorHide（隐藏鼠标指针）两款鼠标工具，并为 Command Palette（命令面板）加入快速访问栏，同时更新 ZoomIt 截图与语音转录功能。 根据微软在 GitHub 发布的官方更新说明，新版本还扩展了多项命令行工具能力，并改进了键盘管理器等组件。 Mouse Button Lock 主要用于简化长时间拖动和选择操作。用户按住鼠标按键片刻后即可松开，系统仍会将该按键视为持续按下状态，方便继续拖动或选择内容，直到用户再次点击任",
    "published_at": 1792587891.0,
+   "published_bj": "2026-10-21 21:04"
+  },
+  {
+   "id": "9914e7ddaab49f36",
+   "source": "Hacker News",
+   "title": "Show HN: Uberblok – an interactive museum of ZFS internals",
+   "url": "https://uberblok.storagebits.workers.dev/",
+   "summary": "I've worked for a long time in the storage field during my career and ZFS is the piece of engineering I admire most in that space. I wanted a way to pay homage to it and to explore and better understand its internals. So I built Uberblok: a museum of ZFS. A deep dive into copy-on-write, txgs, vdevs,",
+   "published_at": 1792587865.0,
    "published_bj": "2026-10-21 21:04"
   },
   {
@@ -3593,15 +3602,6 @@
    "summary": "IT之家 10 月 21 日消息，谷歌正在为已搭载在数百万辆轿车、卡车与 SUV 上的 Gemini 人工智能助手增添更强的个性化能力，这一举措或将进一步把用户牢牢锁定在谷歌的产品生态当中。 该公司于当地时间周二宣布，将为车载版 Gemini 新增个人智能功能。这项功能可以调取来自谷歌邮箱（Gmail）、谷歌日历（Google Calendar）、YouTube、谷歌地图（Maps）、谷歌搜索记录以及其他关联谷歌服务里的信息，以此理解用户的偏好、行程安排与过往使用记录。 谷歌表示，将通过两种渠道向车辆推送“Gemini 个人智能”功能：一是 Android Auto，这款应用安装在用户手机上，",
    "published_at": 1792537074.0,
    "published_bj": "2026-10-21 06:57"
-  },
-  {
-   "id": "1ce1dacc39131860",
-   "source": "IT之家",
-   "title": "新任 CEO 特努斯：设计仍是苹果的首要任务，产品也要有奇思妙想",
-   "url": "https://www.ithome.com/1/015/622.htm",
-   "summary": "IT之家 10 月 21 日消息，昨日（10 月 20 日）接受《时代》（Time）杂志采访时，苹果现任首席执行官约翰 · 特努斯（John Ternus）表示， 设计依然是苹果公司的核心，尊重用户、打造真正有益的产品是“首要任务”。他强调，苹果不会因技术趋势或新角色而改变自己的工作方式。 IT之家附上相关采访视频如下： 特努斯 25 年前以产品设计团队成员身份加入苹果，在工业设计领域摸爬滚打多年，拥有丰富的设计经验。在采访中，特努斯认为苹果的独特之处在于硬件与软件设计师都理解工程，而工程师也深刻理解设计，这种跨领域协作是苹果产品体验的重要基础。 图源：苹果 在特努斯看来，“设计就是它如何运作",
-   "published_at": 1792536873.0,
-   "published_bj": "2026-10-21 06:54"
   }
  ]
 }

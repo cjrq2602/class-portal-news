@@ -1,8 +1,89 @@
 {
  "date": "2026-10-22",
- "generated_at": 1792683039.4660213,
+ "generated_at": 1792685507.5983887,
  "count": 400,
  "items": [
+  {
+   "id": "0649369975a70d81",
+   "source": "IT之家",
+   "title": "方舟引擎新突破：华为详解 HarmonyOS 7 超空间存储 + 超空间内存技术",
+   "url": "https://www.ithome.com/1/016/755.htm",
+   "summary": "IT之家 10 月 22 日消息，华为官方今日发布图文，详细介绍了 HarmonyOS 7 系统的超空间存储 + 超空间内存技术， 称其是方舟引擎的技术新突破 。 据介绍，运行内存（RAM）决定了手机能同时运行多少 App，可用运行内存耗尽时，系统就会触发“杀后台”，牺牲应用使用进度来保障前台流畅度；存储空间（ROM）决定了手机可以存储多少数据，可用存储空间不足时，手机不仅不能存储更多数据，还会在运行时卡顿。 超空间内存技术提升了内存压缩率，帮助应用“瘦身”，进而提升应用保活率，手机内存更耐用，让 60+ 款机型保活体验全面升级， 16GB 运行内存最多增加 3GB ，可以保活的应用更多。 超",
+   "published_at": 1792684744.0,
+   "published_bj": "2026-10-22 23:59"
+  },
+  {
+   "id": "ac3aa5f397e14ada",
+   "source": "IT之家",
+   "title": "荣耀手表 Fit 6 现身官网：1.97 英寸 AMOLED 全面屏、适配 iOS / 鸿蒙设备，支持腕上微信",
+   "url": "https://www.ithome.com/1/016/754.htm",
+   "summary": "IT之家 10 月 22 日消息，荣耀手表 Fit 6 已现身官网开启预订，主打“军规品质 &amp; 高亮大屏、专业健身模式、心脏健康守护、强劲续航”， 价格暂未公布、上市时间待定 。 据介绍，荣耀手表 Fit 6 提供苔原绿、峡湾蓝、破晓橙、碳索黑、岩壁黑 5 种配色， 尺寸为 47.5×40.73×11.39mm ，适配 130-200mm 手腕尺寸； 内置 620mAh 大容量电池 ，号称“告别电量焦虑”。 新表配备 1.97 英寸 AMOLED 彩色全面屏 ，支持全屏触摸操作，拥有 1.82mm 超窄边框（屏占比 81.2%），分辨率为 410*502，拥有 332 PPI、 60H",
+   "published_at": 1792684323.0,
+   "published_bj": "2026-10-22 23:52"
+  },
+  {
+   "id": "60dbc2e3a7666167",
+   "source": "IT之家",
+   "title": "极米记得 AI 记忆手环 L1 上架：两种形态自由切换，全天候 AI 录音",
+   "url": "https://www.ithome.com/1/016/753.htm",
+   "summary": "IT之家 10 月 22 日消息，极米记得 AI 记忆手环 L1 今日上架，提供黑色、米色配色，售价信息暂未公布。 据介绍，该产品支持两种形态自由切换，腕上是手环，胸前是吊坠；全天候 AI 录音，所有记忆，自动记录并整理；基于你个人记忆的 AI 对话，发生过的事它都知道；自动整理纪要、待办，到点轻轻提醒，无需刻意记录；原始音频用完即删，记忆加密存于手机；综合续航 2-5 天，短途差旅无需补电。 IT之家注意到，极米记得 AI 记忆眼镜 G1 也在今日上架，在功能上与这款 AI 记忆手环相近， 均支持全天候 AI 录音、自动整理纪要等功能 。",
+   "published_at": 1792684093.0,
+   "published_bj": "2026-10-22 23:48"
+  },
+  {
+   "id": "1456164b615dc59f",
+   "source": "TechCrunch",
+   "title": "Tesla is prepping a Cybercab onslaught",
+   "url": "https://techcrunch.com/2026/10/22/tesla-is-prepping-a-cybercab-onslaught/",
+   "summary": "The company is looking to roll the gold two-seater robotaxis out to other U.S. cities this year, even as it goes mum on the number of paid rides.",
+   "published_at": 1792683879.0,
+   "published_bj": "2026-10-22 23:44"
+  },
+  {
+   "id": "1d3002c64db81132",
+   "source": "IT之家",
+   "title": "黑石集团总裁反驳 AI 泡沫论，称需求呈“抛物线式”增长",
+   "url": "https://www.ithome.com/1/016/752.htm",
+   "summary": "IT之家 10 月 22 日消息，据彭博社今日消息，黑石集团总裁乔恩 · 格雷（Jon Gray）发话，反驳亿万富豪肯 · 格里芬前几天关于 AI 存在泡沫的说法。 格雷表示：“说到泡沫，你想到的是先建设产能，然后期待需求出现。但在人工智能领域，你是在建设产能，同时希望自己能够跟得上需求。” IT之家注意到，这名总裁还认为， 如今人工智能的需求，与上世纪 90 年代电信泡沫等现象是“截然不同的局面” 。他提到黑石与 Anthropic 共同成立的 AI 咨询公司 Ode 时表示：“我们根本跟不上客户需求，这些需求近乎呈抛物线式增长。”",
+   "published_at": 1792683491.0,
+   "published_bj": "2026-10-22 23:38"
+  },
+  {
+   "id": "ca1666d0bbf0da00",
+   "source": "IT之家",
+   "title": "陕西神木市交管大队回应问界汽车碰撞起火事故：灯柱被烧短路、变色，目前正喷漆",
+   "url": "https://www.ithome.com/1/016/751.htm",
+   "summary": "IT之家 10 月 22 日消息，近日，一辆问界汽车在陕西榆林神木市一路口处发生碰撞起火。 据新京报今日报道，陕西神木市交管大队回应了“问界汽车撞击交通灯柱后起火”事件。“交通灯柱没断”，该大队工作人员称， 当时车辆起火后将交通灯柱里面的线烧短路了 ，灯柱被烧得变色，目前正喷漆。 据IT之家此前报道， 问界用户服务官方发布了关于陕西省榆林神木市车辆事故的说明 。经初步核实：事发时车辆处于人驾状态，行经至交汇路口时车速为 139.1km/h（事发路段限速 50km/h），因车速过高撞击路口方形的交通灯立柱后起火，起火位置为车辆前部。 关于车辆起火原因，初步分析为高速情况下车辆机舱遭受剧烈撞击引发",
+   "published_at": 1792683379.0,
+   "published_bj": "2026-10-22 23:36"
+  },
+  {
+   "id": "0989e82519b089a7",
+   "source": "Hacker News",
+   "title": "Google cleared 300 hectares of Finnish forest",
+   "url": "https://www.techspot.com/news/114100-google-cleared-300-hectares-finnish-forest-data-center.html",
+   "summary": "Article URL: https://www.techspot.com/news/114100-google-cleared-300-hectares-finnish-forest-data-center.html Comments URL: https://news.ycombinator.com/item?id=50196837 Points: 16 # Comments: 4",
+   "published_at": 1792683166.0,
+   "published_bj": "2026-10-22 23:32"
+  },
+  {
+   "id": "b0553af687f92251",
+   "source": "IT之家",
+   "title": "《GTA6》发售前，R 星悄悄往迈阿密塞入各种游戏元素",
+   "url": "https://www.ithome.com/1/016/750.htm",
+   "summary": "IT之家 10 月 22 日消息，据游戏媒体 VGC 今天报道，为了宣传即将发售的《GTA6》，Rockstar 悄悄把现实的迈阿密打造成游戏里的罪恶城，让原本虚构的当当钟快餐店（Cluckin' Bell）、威泽尔新闻（Weazel News）和菲斯特跑车（Pfister）出现在迈阿密大街小巷。 据报道，R 星已经和 NBA 球队迈阿密热火宣布营销活动。这支球队将在 11 月 18 日，也就是《GTA6》正式发售前夕举办“罪恶城之夜”活动，球员们将穿上联动球衣，在特别搭建的“罪恶城球场”上演一场比赛。 同时有网友发现，迈阿密热火的主场 —— 卡西亚中心已经悄然出现《GTA》系列虚构的连锁快餐",
+   "published_at": 1792683138.0,
+   "published_bj": "2026-10-22 23:32"
+  },
+  {
+   "id": "83715654ba1b3eb3",
+   "source": "IT之家",
+   "title": "华为官网公布乾崑智驾 ADS 5 各版本配置能力差异，Max 独占漫游巡航辅助 RCA、车位到车位等功能",
+   "url": "https://www.ithome.com/1/016/749.htm",
+   "summary": "IT之家 10 月 22 日消息，华为乾崑智能汽车解决方案迎来更新，公开了华为乾崑智驾 ADS 5 各版本的差异。 IT之家整理华为乾崑智驾 ADS 5 各版本配置及对应核心功能如下： 硬件配置 华为乾崑智驾 ADS 5 ADS Max ADS Pro ADS SE 激光雷达 896 线双光路图像级激光雷达 舱内激光视觉 Limera — 摄像头 11 个 11 个 10 个 毫米波雷达 3 个 / 5 个（ 含 1 套分布式毫米波雷达 ） 3 个 3 个 高精度固态激光雷达 0 / 3 个 / 4 个 — — 超声波雷达 12 个 12 个 12 个 核心功能 华为乾崑智驾 ADS 5 AD",
+   "published_at": 1792683088.0,
+   "published_bj": "2026-10-22 23:31"
+  },
   {
    "id": "15cc56c030b5d9ea",
    "source": "InfoQ中文",
@@ -175,6 +256,15 @@
    "published_bj": "2026-10-22 22:37"
   },
   {
+   "id": "0eee29075e67b0cb",
+   "source": "Hacker News",
+   "title": "Quad9 (DNS Resolver) to Exit France",
+   "url": "https://quad9.net/news/blog/au-revoir-france/",
+   "summary": "Article URL: https://quad9.net/news/blog/au-revoir-france/ Comments URL: https://news.ycombinator.com/item?id=50195959 Points: 142 # Comments: 37",
+   "published_at": 1792679558.0,
+   "published_bj": "2026-10-22 22:32"
+  },
+  {
    "id": "f7ad9d3c9d920544",
    "source": "IT之家",
    "title": "极米记得 AI 记忆眼镜 G1 上架：轻至 17.9g，自动整理纪要",
@@ -200,6 +290,15 @@
    "summary": "IT之家 10 月 22 日消息，据 Phoronix 今日报道，Linux 7.4 内核已合入一项针对 AMD Zen 6 处理器的安全缓解机制调整，通过利用新处理器提供的分支目标缓冲区（BTB）上下文隔离功能，允许系统关闭开销较大的 SafeRET 缓解措施，以减少相关安全防护带来的性能成本。 这项调整来自 Linux 7.4 的 x86/bugs 代码合并请求。根据提交说明，AMD Zen 6 的 BTB 支持按上下文标记分支预测信息，有助于隔离用户态与内核态、虚拟机客户机与宿主机等不同执行环境。因此，在满足相应硬件条件时，内核不再需要依赖 SafeRET 来缓解特定的推测执行安全漏洞。",
    "published_at": 1792679268.0,
    "published_bj": "2026-10-22 22:27"
+  },
+  {
+   "id": "87636c4867b58519",
+   "source": "Hacker News",
+   "title": "MPs moving to restrict gambling ads in Canada amid mounting harms",
+   "url": "https://www.cbc.ca/news/investigates/gambling-ads-restrictions-canada-9.7388888",
+   "summary": "Article URL: https://www.cbc.ca/news/investigates/gambling-ads-restrictions-canada-9.7388888 Comments URL: https://news.ycombinator.com/item?id=50195873 Points: 24 # Comments: 4",
+   "published_at": 1792679200.0,
+   "published_bj": "2026-10-22 22:26"
   },
   {
    "id": "d509d25b61832134",
@@ -3503,105 +3602,6 @@
    "summary": "IT之家 10 月 22 日消息，德州仪器今日发布 2026 财年（2026 年 1 月～2026 年 12 月）第三财季（2026 年 7 月～2026 年 9 月）报告： 营业总收入 ：60.55 亿美元 （IT之家注：现汇率约合 405.16 亿元人民币） ，同比增长 28%，环比增长 11% 毛利润 ：38.87 亿美元 （现汇率约合 260.09 亿元人民币） ，同比增长 42.75% 毛利率 ：64.2%，同比增长 6.78 个百分点 归母净利润 ：24.25 亿美元 （现汇率约合 162.26 亿元人民币） ，同比增长 78% 经营现金流 ：34.19 亿美元 （现汇率约合 22",
    "published_at": 1792613427.0,
    "published_bj": "2026-10-22 04:10"
-  },
-  {
-   "id": "ba91991d2c24ff09",
-   "source": "IT之家",
-   "title": "Meta 2026 财年第三财季归母净利润 98.6 亿美元，同比增长 264%",
-   "url": "https://www.ithome.com/1/016/163.htm",
-   "summary": "IT之家 10 月 22 日消息，Meta 今日发布 2026 财年（2026 年 1 月～2026 年 12 月）第三财季（2026 年 7 月～2026 年 9 月）及本财年前三财季（2026 年 1 月～2026 年 9 月）报告： 2026 财年第三财季 营业总收入 ：646.01 亿美元，同比增长 26% 毛利润 ：512.32 亿美元，同比增长 21.88% 毛利率 ：79.3%，同比下降 2.73 个百分点 归母净利润 ：98.6 亿美元，同比增长 264% 经营现金流 ：327.86 亿美元 基本每股收益 ：3.86 美元 稀释每股收益 ：3.83 美元 2026 财年前三财季",
-   "published_at": 1792613357.0,
-   "published_bj": "2026-10-22 04:09"
-  },
-  {
-   "id": "e089cf30bc046a0d",
-   "source": "TechCrunch",
-   "title": "GM is betting compute and AI will help it compete with Chinese automakers",
-   "url": "https://techcrunch.com/2026/10/21/gm-is-betting-compute-and-ai-will-help-it-compete-with-chinese-automakers/",
-   "summary": "To compete with Tesla, Rivian, and a host of Chinese automakers, GM’s fourth-gen EV platform will roll out a new central computer and electrical architecture that will debut in 2028 in the Cadillac Escalade IQ.",
-   "published_at": 1792612340.0,
-   "published_bj": "2026-10-22 03:52"
-  },
-  {
-   "id": "035256a57441dd81",
-   "source": "TechCrunch",
-   "title": "Meta ordered to pay $25B in case related to Cambridge Analytica scandal",
-   "url": "https://techcrunch.com/2026/10/21/meta-ordered-to-pay-25-billion-in-case-related-to-cambridge-analytica-scandal/",
-   "summary": "The payout is related to a recent trial involving the social media giant that revolved around its data privacy practices.",
-   "published_at": 1792611752.0,
-   "published_bj": "2026-10-22 03:42"
-  },
-  {
-   "id": "717336ea46fa0517",
-   "source": "TechCrunch",
-   "title": "While Amazon blocks AI agents, Walmart rolls out the welcome mat",
-   "url": "https://techcrunch.com/2026/10/21/while-amazon-blocks-ai-agents-walmart-rolls-out-the-welcome-mat/",
-   "summary": "As Amazon blocks AI agents from shopping on its site, Walmart is taking the opposite approach, introducing new technology that lets AI agents make purchases on customers' behalf, with controls over spending and transaction approvals.",
-   "published_at": 1792611000.0,
-   "published_bj": "2026-10-22 03:30"
-  },
-  {
-   "id": "bdec2873463fdb83",
-   "source": "Hacker News",
-   "title": "Claude Duet",
-   "url": "https://claude.com/product/claude-duet",
-   "summary": "Article URL: https://claude.com/product/claude-duet Comments URL: https://news.ycombinator.com/item?id=50186037 Points: 310 # Comments: 270",
-   "published_at": 1792610041.0,
-   "published_bj": "2026-10-22 03:14"
-  },
-  {
-   "id": "9a89754e87280e19",
-   "source": "Hacker News",
-   "title": "Google's Rust Style Guide",
-   "url": "https://google.github.io/styleguide/rustguide.html",
-   "summary": "Article URL: https://google.github.io/styleguide/rustguide.html Comments URL: https://news.ycombinator.com/item?id=50186010 Points: 198 # Comments: 113",
-   "published_at": 1792609917.0,
-   "published_bj": "2026-10-22 03:11"
-  },
-  {
-   "id": "d2d951bf768f6cfb",
-   "source": "cnBeta",
-   "title": "通用汽车公布未来技术路线图：AI加速研发、算力提升40倍、自动驾驶瞄准主力车型",
-   "url": "https://www.cnbeta.com.tw/articles/tech/1583266.htm",
-   "summary": "通用汽车日前在纽约举行的“Onward”技术活动上公布了一系列围绕人工智能、电动汽车和自动驾驶的未来规划。面对中国汽车企业日益激烈的竞争压力，这家传统汽车制造商正试图将自身定位为一家由软件和人工智能驱动的科技企业，而不仅仅是一家汽车公司。 阅读全文",
-   "published_at": 1792609523.0,
-   "published_bj": "2026-10-22 03:05"
-  },
-  {
-   "id": "0e9a05f81cf0ed3a",
-   "source": "cnBeta",
-   "title": "传英伟达向采用AMD芯片的云服务商施压 拒绝部分企业参加 GTC Berlin",
-   "url": "https://www.cnbeta.com.tw/articles/tech/1583264.htm",
-   "summary": "围绕 AI 硬件市场竞争的争议再次升温。根据分析机构 SemiAnalysis 的最新爆料，英伟达被指正在对部分采用 AMD GPU、Google TPU 及其他竞争产品的“Neocloud”云服务提供商施加压力，甚至拒绝它们参加即将举行的 GTC Berlin 大会。 阅读全文",
-   "published_at": 1792609445.0,
-   "published_bj": "2026-10-22 03:04"
-  },
-  {
-   "id": "47e0197d422566e6",
-   "source": "TechCrunch",
-   "title": "The internet is having a very bad cybersecurity day",
-   "url": "https://techcrunch.com/2026/10/21/the-internet-is-having-a-very-bad-cybersecurity-day/",
-   "summary": "From AI-discovered PHP vulnerabilities to flaws in Node.js and popular AI tool LiteLLM, cybersecurity teams have plenty to worry about this week.",
-   "published_at": 1792609408.0,
-   "published_bj": "2026-10-22 03:03"
-  },
-  {
-   "id": "b6fcb3b849e05f0b",
-   "source": "cnBeta",
-   "title": "通用汽车为OnStar注入AI 从车载呼叫中心迈向智能助手平台",
-   "url": "https://www.cnbeta.com.tw/articles/tech/1583262.htm",
-   "summary": "通用汽车宣布对旗下拥有 30年历史的 OnStar 车联网服务进行全面升级，并正式引入人工智能助手，希望将这一传统的安全和道路救援服务打造成为新一代智能出行平台。 阅读全文",
-   "published_at": 1792609349.0,
-   "published_bj": "2026-10-22 03:02"
-  },
-  {
-   "id": "bdff744660de787d",
-   "source": "Hacker News",
-   "title": "GitLab Critical Patch Release",
-   "url": "https://docs.gitlab.com/releases/patches/patch-release-gitlab-19-5-1-released/",
-   "summary": "Article URL: https://docs.gitlab.com/releases/patches/patch-release-gitlab-19-5-1-released/ Comments URL: https://news.ycombinator.com/item?id=50185869 Points: 243 # Comments: 58",
-   "published_at": 1792609272.0,
-   "published_bj": "2026-10-22 03:01"
   }
  ]
 }

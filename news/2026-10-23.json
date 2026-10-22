@@ -1,7 +1,7 @@
 {
  "date": "2026-10-23",
- "generated_at": 1792683039.4577644,
- "count": 5,
+ "generated_at": 1792685507.5963054,
+ "count": 8,
  "items": [
   {
    "id": "15fc56ed122d05aa",
@@ -47,6 +47,33 @@
    "summary": "点击查看原文>",
    "published_at": 1792686269.0,
    "published_bj": "2026-10-23 00:24"
+  },
+  {
+   "id": "513428c8dfd99bb7",
+   "source": "IT之家",
+   "title": "今日霜降：恍然暮秋至，静候冬日来",
+   "url": "https://www.ithome.com/1/016/756.htm",
+   "summary": "IT之家 10 月 23 日消息，今天，是二十四节气中的霜降。霜降通常会在每年公历 10 月 23 日前后。棉白万顷采收忙，几份凝结始霜降。霜降，意即天气渐冷，初霜始现的意思。这是属于秋季的最后一个节气，意味着秋去冬来。 准确来说，当太阳到达黄经 210° 时，露水凝结为霜，即为霜降。在气象学上，一般把秋季出现的第一次霜称之为“早霜”或者“初霜”。而“晚霜”或者“终霜”则需要等到春季的最后一次霜。在这春终秋初之间，被称为无霜期。 民间有句俗语，叫“晚稻就怕霜来早”。初霜越早，对于农作物的危害就越大。在我国北南之间，初霜出现的时间跨度也是非常大的，最早的是大兴安岭北部，初霜一般在 8 月底就会到",
+   "published_at": 1792684809.0,
+   "published_bj": "2026-10-23 00:00"
+  },
+  {
+   "id": "b31a4720da8fd367",
+   "source": "TechCrunch",
+   "title": "TechCrunch Disrupt 2026 Startup Battlefield 200: Celebrating outstanding achievements",
+   "url": "https://techcrunch.com/2026/10/22/techcrunch-disrupt-2026-startup-battlefield-200-celebrating-outstanding-achievements/",
+   "summary": "Among the Startup Battlefield 200 were many industry-defining companies exhibiting and pitching on the Showcase Stage. Here are the standouts.",
+   "published_at": 1792684800.0,
+   "published_bj": "2026-10-23 00:00"
+  },
+  {
+   "id": "706ff3a64e25e0f3",
+   "source": "TechCrunch",
+   "title": "Uber puts all 30,000 employees on ChatGPT Work",
+   "url": "https://techcrunch.com/2026/10/22/uber-puts-all-30000-employees-on-chatgpt-work/",
+   "summary": "The ride share giant previously deployed a much smaller pilot for ChatGPT Work, but is now taking the enterprise agent company-wide.",
+   "published_at": 1792684800.0,
+   "published_bj": "2026-10-23 00:00"
   }
  ]
 }
