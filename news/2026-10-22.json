@@ -1,7 +1,7 @@
 {
  "date": "2026-10-22",
- "generated_at": 1792635936.2363038,
- "count": 122,
+ "generated_at": 1792638570.4209754,
+ "count": 137,
  "items": [
   {
    "id": "54b59ca4102eea07",
@@ -29,6 +29,114 @@
    "summary": "点击查看原文>",
    "published_at": 1792660260.0,
    "published_bj": "2026-10-22 17:11"
+  },
+  {
+   "id": "3c09ada881402654",
+   "source": "IT之家",
+   "title": "向硅谷巨头发起挑战，消息称 DeepSeek 最新一轮融资筹集近千亿元",
+   "url": "https://www.ithome.com/1/016/263.htm",
+   "summary": "IT之家 10 月 22 日消息，今天（22 日）上午，彭博社援引知情人士消息称，DeepSeek 在最新一轮融资中筹集了 约 1000 亿元人民币 ，成为中国史上规模最大的融资之一。这笔资金也凸显了 DeepSeek 的全球扩张雄心，希望与 Anthropic、OpenAI 等 AI 巨头展开竞争。 据知情人士透露，DeepSeek 在与投资者洽谈期间至少两次上调融资目标， 融资规模从最初计划的 500 亿元增至 800 亿元，最终达到约 1000 亿元 。宁德时代和腾讯控股是本轮融资的主要投资者之一。 这笔融资也为 DeepSeek 上市铺平了道路，有望促成近年来 中国资本市场最受瞩目的上",
+   "published_at": 1792638052.0,
+   "published_bj": "2026-10-22 11:00"
+  },
+  {
+   "id": "402bab2036f679a8",
+   "source": "IT之家",
+   "title": "微软升级 Win11 相机应用：无硬件变焦也能“数字拉近”",
+   "url": "https://www.ithome.com/1/016/261.htm",
+   "summary": "IT之家 10 月 22 日消息，科技媒体 Windows Central 昨日（10 月 21 日）发布博文，报道称微软升级 Windows 11 版相机（ Camera）应用， 在 Version 2026.2608.1.0 版本中升级相机体验，无硬件变焦也能“数字拉近”。 IT之家援引博文介绍，针对日常视频会议、网课、远程问诊、直播和拍摄文档等场景，在摄像头本身不支持硬件变焦的情况下，相机应用将新增软件变焦能力。不过微软明确软件变焦不适用于动态影像、扫描、全景、球形预览以及其他特殊拍摄模式。 除了软件变焦外，本次更新还带来多项细节优化。拍摄照片或视频后，用户可以更顺畅地使用 Ctrl+C",
+   "published_at": 1792637897.0,
+   "published_bj": "2026-10-22 10:58"
+  },
+  {
+   "id": "40c7cfea7ebdf79b",
+   "source": "IT之家",
+   "title": "微软 CEO 纳德拉 2026 财年总薪酬 9060 万美元，较去年下调 6.11%",
+   "url": "https://www.ithome.com/1/016/259.htm",
+   "summary": "IT之家 10 月 22 日消息，据 The Information 今日报道，微软董事会在 2026 年 10 月向股东提交的代理委托书（Proxy Filing）中，为 CEO 萨提亚 · 纳德拉（Satya Nadella）申请的 2026 财年（2025 年 7 月 1 日～2026 年 6 月 30 日）总薪酬包为 9,060 万美元 （IT之家注：现汇率约合 6.06 亿元人民币）。 这一数字略低于 2025 财年的 9,650 万美元 （现汇率约合 6.46 亿元人民币） ， 下调了 6.11% 。 报道称，尽管微软的云计算（Azure 个人年营收突破 1,000 亿美元）及大部",
+   "published_at": 1792637782.0,
+   "published_bj": "2026-10-22 10:56"
+  },
+  {
+   "id": "9800a1f103d2ffd9",
+   "source": "IT之家",
+   "title": "王兴兴：宇树 G1 已累计生产下线约 1-2 万台，是全球最畅销的人形机器人",
+   "url": "https://www.ithome.com/1/016/258.htm",
+   "summary": "IT之家 10 月 22 日消息，据《科创板日报》报道，在 2026 世界物理 AI 大会暨宇树合作伙伴生态大会上，宇树科技创始人王兴兴表示，自 2024 年 5 月发布以来，宇树 G1 机器人已经累计生产下线约 1-2 万台，是全球最畅销的人形机器人。 延伸阅读 公开资料显示，本次大会主题为“宇十俱进，树业共生”，包括 3000 余名嘉宾、4000 余平方米主论坛区域以及 40 余个展示专区。 在大会消息公布后的 2026 年 10 月 19 日，宇树科技股价盘中涨超 17%，一度超过 500 元 / 股，截至当日收盘总市值重回 2000 亿元，报 495.92 元 / 股。 公开信息显示，",
+   "published_at": 1792637740.0,
+   "published_bj": "2026-10-22 10:55"
+  },
+  {
+   "id": "f408d300e8f9a22a",
+   "source": "IT之家",
+   "title": "特朗普给 AI 数据中心“开药方”：想落地，先给社区分红",
+   "url": "https://www.ithome.com/1/016/257.htm",
+   "summary": "IT之家 10 月 22 日消息，美国总统唐纳德 · 特朗普呼吁数据中心建设方与大型 AI 云厂商向所在社区支付收益分红，以此应对能源涨价问题，甚至实现电价下调，让数据中心更容易获得当地社区接纳。他在 Truth Social 发帖警告称，数据中心不仅要像他此前提出的那样自行发电，还必须将多余电力输送给当地社区，可以无偿供给，也可以对外出售。 美国各地社区一直在抗议 AI 数据中心项目，核心原因是这类设施对地方带来巨大影响。小型社区需要承受电价上涨、噪音污染、水资源短缺、空气污染、森林砍伐等一系列问题，这些都是企业数据中心带来的负面影响。 为缓解当地社区的压力，特朗普要求这些大型企业向受影响社",
+   "published_at": 1792637479.0,
+   "published_bj": "2026-10-22 10:51"
+  },
+  {
+   "id": "f860c016a7d8d136",
+   "source": "IT之家",
+   "title": "英特尔美国多地产能建设持续推进，亚利桑那 Fab 62 晶圆厂预计 2028 年底投运",
+   "url": "https://www.ithome.com/1/016/256.htm",
+   "summary": "IT之家 10 月 22 日消息，Intel（英特尔）当地时间昨日表示，其位于美国多地的产能建设项目正持续推进。 ▲ Fab 62 在亚利桑那州 Ocotillo 园区，这里的第六座量产晶圆厂 Fab 62 已全面进入建设和设备安装工作阶段 ，该设施预计于 2028 年底投入运营。在俄亥俄州 New Albany 的 Ohio On 园区，首座晶圆厂 (Mod 1) 已安装了第一个大型结构桁架。 ▲ Ohio One Mod 1 英特尔今年早些时候还在加利福尼亚州圣克拉拉市破土动工兴建了一座新的掩模制造厂。",
+   "published_at": 1792637473.0,
+   "published_bj": "2026-10-22 10:51"
+  },
+  {
+   "id": "14e786e466346d1f",
+   "source": "IT之家",
+   "title": "微软 XBOX Labs“复活” XBOX 360 经典 Blades 游戏界面",
+   "url": "https://www.ithome.com/1/016/255.htm",
+   "summary": "IT之家 10 月 22 日消息，科技媒体 Windows Central 昨日（10 月 21 日）发布博文，报道称 微软近期成立的 XBOX Labs 团队在 PC 浏览器中 ， “复活”经典的 XBOX 360 主机界面 Blades。 该项目负责人斯科特 · 范 · 弗利特（Scott Van Vliet）昨日在 X 平台发布推文，分享了一段视频，演示了初代 XBOX 360 的 Blades 界面，以及 2008 年的 NXE 界面和 2011 年的 Metro 界面。 IT之家注：Blades 是 Xbox 360 早期最具辨识度的系统主界面：绿色背景、横向“刀片”式菜单和简洁的分",
+   "published_at": 1792637058.0,
+   "published_bj": "2026-10-22 10:44"
+  },
+  {
+   "id": "5a97ea57905cf2af",
+   "source": "IT之家",
+   "title": "特斯拉高管驳斥 Roadster 跑车“起飞造假”质疑：我们不会展示在生产中无法实现的东西",
+   "url": "https://www.ithome.com/1/016/254.htm",
+   "summary": "IT之家 10 月 22 日消息， 特斯拉上周发布了重新设计的 Roadster 跑车 ，首次展示新车借助源自 SpaceX 技术的推进器完成腾空等特技动作的能力，新车计划于 2028 年投产。 对此，X 平台上有博主质疑“跑车会飞”的真实性，认为物理原理不对 —— 以“汽车”的重量，它不可能在空中那样刹车 / 旋转。 IT之家注意到，特斯拉车辆工程副总裁拉尔斯 · 莫拉维（Lars Moravy）直接在下方评论回怼： 我们不会展示在生产中无法实现的东西 。冷气推进系统可以产生超过 80kN 的推力。汽车总重量即便高达 2500 kg（包括气罐质量加上推进器系统），推进器的升力也大于车辆重量的",
+   "published_at": 1792636779.0,
+   "published_bj": "2026-10-22 10:39"
+  },
+  {
+   "id": "9ead02b1fc6785c0",
+   "source": "IT之家",
+   "title": "微软 XBOX 启动云游戏单独付费预览体验，优惠价 50 小时 11.99 美元",
+   "url": "https://www.ithome.com/1/016/253.htm",
+   "summary": "IT之家 10 月 22 日消息，Microsoft（微软）XBOX 当地时间昨日宣布启动云游戏单独付费的预览体验，XBOX Insider 会员有机会在 11 月正式上线前 抢先体验这一无需 Game Pass 订阅即可使用云游戏服务的新机制 。 IT之家了解到，XBOX 当前为单独付费的云游戏提供了 3 档首发期优惠费率（见下）。XBOX Insider 会员还可以试玩 带有广告的免费云游戏 。 10hr 时长 3.99 美元 （现汇率约合 26.7 元人民币） 25hr 时长 7.99 美元 （现汇率约合 53.4 元人民币） 50hr 时长 11.99 美元 （现汇率约合 80.2 元",
+   "published_at": 1792636767.0,
+   "published_bj": "2026-10-22 10:39"
+  },
+  {
+   "id": "8ccfc622a41d5c98",
+   "source": "IT之家",
+   "title": "AI 的力量：SpaceX、Anthropic、英伟达助力科技股摆脱低迷",
+   "url": "https://www.ithome.com/1/016/251.htm",
+   "summary": "IT之家 10 月 22 日消息，当地时间 21 日，据《华尔街日报》报道，马斯克、Anthropic 和英伟达本周接连传出利好消息， 重新点燃投资者对科技股的热情 ，带动近期持续震荡的科技板块走出低迷。 马斯克宣布 SpaceX 实现盈利，并透露公司可能与特斯拉合并的消息；《华尔街日报》披露的 Anthropic 上市招股书草案显示，营收迅猛增长；英伟达 CEO 黄仁勋在柏林举行的公司大会上，释放出乐观信号。 接连传出的好消息让投资者 暂时放下了对 AI 的顾虑 。就在上周，市场还因这些担忧承压。当日，纳斯达克综合指数 上涨 1.1% ，几乎收复了上周五暴跌造成的全部失地。 贝尔德投资策略师",
+   "published_at": 1792636302.0,
+   "published_bj": "2026-10-22 10:31"
+  },
+  {
+   "id": "f3568c1cf5bb5f73",
+   "source": "Hacker News",
+   "title": "The recently proposed o(n log n) integer multiplication algorithm [pdf]",
+   "url": "https://web.maths.unsw.edu.au/~davidharvey/research/subnlogn.pdf",
+   "summary": "Article URL: https://web.maths.unsw.edu.au/~davidharvey/research/subnlogn.pdf Comments URL: https://news.ycombinator.com/item?id=50190455 Points: 17 # Comments: 8",
+   "published_at": 1792636252.0,
+   "published_bj": "2026-10-22 10:30"
+  },
+  {
+   "id": "54e0235f5e204db8",
+   "source": "IT之家",
+   "title": "消息称私募巨头曾盯上微软 XBOX 游戏业务，报价估值超 1000 亿美元",
+   "url": "https://www.ithome.com/1/016/250.htm",
+   "summary": "IT之家 10 月 22 日消息，科技媒体 The Information 于 10 月 20 日发布博文， 报道称多家私募股权公司曾探讨收购微软旗下 XBOX 游戏业务，当时对该部门的估值区间为 1,000 亿至 1,500 亿美元 （IT之家注：现汇率约合 6,689.33 亿至 1 万亿元人民币） 。 这一消息为长期流传的“微软可能出售 XBOX”传闻提供了新的注脚。该传闻可以追溯到 2026 年 6 月，科技媒体 The Information 报道称，微软内部曾讨论过重组 XBOX 为全资子公司、甚至未来可能分拆或出售的选项。 随后 Xbox 部门经历大规模裁员、工作室调整、Game",
+   "published_at": 1792636168.0,
+   "published_bj": "2026-10-22 10:29"
   },
   {
    "id": "c7abde1a1b88fea4",
@@ -128,6 +236,15 @@
    "summary": "IT之家 10 月 22 日消息，特斯拉 2026 年第三季度财报显示，公司已经在弗里蒙特工厂的一条大批量产产线上启动擎天柱（Optimus）人形机器人的生产。不过首席执行官埃隆 · 马斯克（Elon Musk）表示，这条产线还需要大约一年甚至更久，才能达到每周 2 万台机器人的目标产能。 特斯拉在 2026 年第三季度业务更新报告中称，弗里蒙特产线下线的这批机器人，是首批达到量产标准的擎天柱，当前生产流程已经可以支撑商业化产品制造。 特斯拉仅用 46 天就拆除了弗里蒙特工厂原来用于生产 Model S 和 Model X 的产线，为擎天柱的生产腾出场地。 就在近期，马斯克承认擎天柱项目仍面临",
    "published_at": 1792634250.0,
    "published_bj": "2026-10-22 09:57"
+  },
+  {
+   "id": "4e959957bde51f6d",
+   "source": "Hacker News",
+   "title": "Epic vs. Apple AU:Court Orders Alt App Stores,Sideloading and 3rd Party Payments",
+   "url": "https://www.judgments.fedcourt.gov.au/judgments/Judgments/fca/single/2026/2026fca1552",
+   "summary": "Article URL: https://www.judgments.fedcourt.gov.au/judgments/Judgments/fca/single/2026/2026fca1552 Comments URL: https://news.ycombinator.com/item?id=50190168 Points: 35 # Comments: 5",
+   "published_at": 1792633923.0,
+   "published_bj": "2026-10-22 09:52"
   },
   {
    "id": "4a3787e09f096acd",
@@ -616,6 +733,15 @@
    "published_bj": "2026-10-22 06:44"
   },
   {
+   "id": "ead6d1082caaf707",
+   "source": "Hacker News",
+   "title": "Postgres recovery_prefetch can cause outages",
+   "url": "https://ardentperf.com/2026/10/20/postgres-recovery_prefetch-considered-harmful-and-causing-outages/",
+   "summary": "Article URL: https://ardentperf.com/2026/10/20/postgres-recovery_prefetch-considered-harmful-and-causing-outages/ Comments URL: https://news.ycombinator.com/item?id=50188614 Points: 4 # Comments: 0",
+   "published_at": 1792621988.0,
+   "published_bj": "2026-10-22 06:33"
+  },
+  {
    "id": "ff6a3d7333165f06",
    "source": "Hacker News",
    "title": "Qpack amplification attacks against HTTP/3 servers",
@@ -1001,6 +1127,15 @@
    "summary": "Pickups and dropoffs will happen at dedicated \"autonomous vehicle zones\" at Terminal 1 and Terminal 3.",
    "published_at": 1792601984.0,
    "published_bj": "2026-10-22 00:59"
+  },
+  {
+   "id": "87fea945be0088e1",
+   "source": "Hacker News",
+   "title": "Show HN: Omnara – Open-source alternative to Claude Managed Agents",
+   "url": "https://github.com/omnara-ai/omnara",
+   "summary": "Hey all, Kartik from Omnara ( https://omnara.com ) here. We're building an open-source API for running durable agents. You create an agent with an API call, and Omnara runs the agent loop, gives the agent sandboxes to run commands in, and handles secrets, permissions, and RBAC. Each agent's state is",
+   "published_at": 1792601093.0,
+   "published_bj": "2026-10-22 00:44"
   },
   {
    "id": "0d57f78d23fa02a3",

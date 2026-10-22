@@ -1,6 +1,6 @@
 {
  "date": "2026-10-21",
- "generated_at": 1792635936.240546,
+ "generated_at": 1792638570.4253511,
  "count": 400,
  "items": [
   {
@@ -524,6 +524,15 @@
    "summary": "IT之家 10 月 21 日消息，微软今日公布 XBOX Game Pass 订阅服务 10 月第二波入库游戏阵容。 本月的领衔作品有《最终幻想 7 重制版 Intergrade》等 。 IT之家整理本月入库游戏如下： 游戏名 入库时间 覆盖层级 支持平台 《沙金工业》 10 月 21 日 新增 Premium ，此前已加入 Ultimate 和 PC PC 《渡渡鸭与折叠世界》 10 月 22 日 Ultimate、Premium 和 PC 云游戏、Xbox Series X|S、PC 《乱斗骑士 Scramble Knights Online》 10 月 29 日 Ultimate、PC ",
    "published_at": 1792590149.0,
    "published_bj": "2026-10-21 21:42"
+  },
+  {
+   "id": "72629efd36868c35",
+   "source": "Hacker News",
+   "title": "I reverse engineered a board game",
+   "url": "https://wuemeli.com/blog/reversing-hitster-game/",
+   "summary": "Article URL: https://wuemeli.com/blog/reversing-hitster-game/ Comments URL: https://news.ycombinator.com/item?id=50180799 Points: 5 # Comments: 0",
+   "published_at": 1792590031.0,
+   "published_bj": "2026-10-21 21:40"
   },
   {
    "id": "964715e880ee1eb4",
@@ -3593,15 +3602,6 @@
    "summary": "IT之家 10 月 21 日消息，OpenAI 于当地时间周二宣布，收购成立四年的人工智能生物科技软件初创企业 Orchestra Bio，相关消息由该公司在官网发布。本次交易的具体条款并未对外披露，但有报道称，截至 2025 年，这家初创公司已从安德里森 · 霍罗威茨（Andreessen Horowitz）、阿特里亚（Atria）和 8VC 等投资方筹集约 2,000 万美元 （IT之家注：现汇率约合 1.34 亿元人民币） 资金。 Orchestra Bio 开发 AI 智能体，助力生物科技企业管理药物研发业务中的各类细碎工作，涵盖资金追踪，以及解决临床试验的排期问题。 OpenAI 表",
    "published_at": 1792536671.0,
    "published_bj": "2026-10-21 06:51"
-  },
-  {
-   "id": "c54abd86ccd6496a",
-   "source": "Hacker News",
-   "title": "PingCap TiDB Leaks",
-   "url": "https://fulcrumsec.vg/pingcap/",
-   "summary": "Article URL: https://fulcrumsec.vg/pingcap/ Comments URL: https://news.ycombinator.com/item?id=50173716 Points: 32 # Comments: 3",
-   "published_at": 1792536339.0,
-   "published_bj": "2026-10-21 06:45"
   }
  ]
 }
