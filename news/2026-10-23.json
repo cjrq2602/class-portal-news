@@ -1,8 +1,17 @@
 {
  "date": "2026-10-23",
- "generated_at": 1792695762.3138018,
- "count": 40,
+ "generated_at": 1792698785.6354308,
+ "count": 45,
  "items": [
+  {
+   "id": "5d35a135d093a4e2",
+   "source": "cnBeta",
+   "title": "微软低调测试全新AI记忆工具Pantheon Windows 11迎来非截屏版Recall",
+   "url": "https://www.cnbeta.com.tw/articles/tech/1583440.htm",
+   "summary": "微软正在秘密测试一款面向Windows 11的新型人工智能应用，其内部代号为“Project Pantheon”。与此前曾引发广泛讨论的Recall功能不同，这款新工具不会自动记录用户屏幕上的所有活动，而是仅保存用户主动选择的内容，因此被外界视为一种更加注重隐私的新型“记忆系统”。 阅读全文",
+   "published_at": 1792697369.0,
+   "published_bj": "2026-10-23 03:29"
+  },
   {
    "id": "15fc56ed122d05aa",
    "source": "InfoQ中文",
@@ -13,11 +22,38 @@
    "published_bj": "2026-10-23 03:16"
   },
   {
+   "id": "82c4d44a53b482e5",
+   "source": "Hacker News",
+   "title": "eMudhra logins can be bruteforced",
+   "url": "https://mastodon.catgirl.cloud/@49016/117475976434068995",
+   "summary": "Article URL: https://mastodon.catgirl.cloud/@49016/117475976434068995 Comments URL: https://news.ycombinator.com/item?id=50199757 Points: 6 # Comments: 0",
+   "published_at": 1792696441.0,
+   "published_bj": "2026-10-23 03:14"
+  },
+  {
+   "id": "d62a1d48a40baad2",
+   "source": "TechCrunch",
+   "title": "1Password launches a way for AI agents to log in on your behalf without seeing your password",
+   "url": "https://techcrunch.com/2026/10/22/1password-launches-a-way-for-ai-agents-to-log-in-on-your-behalf-without-seeing-your-password/",
+   "summary": "The new feature allows agents to log into a customer's personal accounts while still protecting the private credentials that secure those accounts.",
+   "published_at": 1792696029.0,
+   "published_bj": "2026-10-23 03:07"
+  },
+  {
    "id": "eac34e2df433ead2",
    "source": "TechCrunch",
    "title": "Canva releases its first image generation model",
    "url": "https://techcrunch.com/2026/10/22/canva-releases-its-first-image-generation-model/",
    "summary": "Canva is making its new image model available to all users, promising better, more customizable performance at lower costs.",
+   "published_at": 1792695600.0,
+   "published_bj": "2026-10-23 03:00"
+  },
+  {
+   "id": "a8930364bb4b107f",
+   "source": "TechCrunch",
+   "title": "OpenAI makes its Jev competitor widely available as decision model competition heats up",
+   "url": "https://techcrunch.com/2026/10/22/openai-makes-its-jev-competitor-widely-available-as-decision-model-competition-heats-up/",
+   "summary": "OpenAI is launching its decision model to the world. Can it compete with the original Jev?",
    "published_at": 1792695600.0,
    "published_bj": "2026-10-23 03:00"
   },
@@ -119,6 +155,15 @@
    "summary": "Microsoft’s new AI diagnostic system beat generalist doctors on hard cases, according to a study in Science. But most of the improvement seems to come from the AI models underneath, not from Microsoft’s system itself.",
    "published_at": 1792694633.0,
    "published_bj": "2026-10-23 02:43"
+  },
+  {
+   "id": "86d1bb14b7978911",
+   "source": "Hacker News",
+   "title": "Show HN: Build a world on your phone, explore it in XR on Vision Pro and Quest",
+   "url": "https://3d.camilleworld.com/play/",
+   "summary": "Article URL: https://3d.camilleworld.com/play/ Comments URL: https://news.ycombinator.com/item?id=50199349 Points: 5 # Comments: 1",
+   "published_at": 1792694379.0,
+   "published_bj": "2026-10-23 02:39"
   },
   {
    "id": "a49a5c9594d35873",
