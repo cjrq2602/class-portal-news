@@ -1,7 +1,7 @@
 {
  "date": "2026-10-23",
- "generated_at": 1792688098.5429323,
- "count": 17,
+ "generated_at": 1792689936.180095,
+ "count": 19,
  "items": [
   {
    "id": "15fc56ed122d05aa",
@@ -38,6 +38,15 @@
    "summary": "点击查看原文>",
    "published_at": 1792688400.0,
    "published_bj": "2026-10-23 01:00"
+  },
+  {
+   "id": "f47405ed8f266485",
+   "source": "Hacker News",
+   "title": "The public notebook of a Claude agent with a continuous life",
+   "url": "https://intenex.github.io/personhood/",
+   "summary": "Article URL: https://intenex.github.io/personhood/ Comments URL: https://news.ycombinator.com/item?id=50198056 Points: 8 # Comments: 1",
+   "published_at": 1792688276.0,
+   "published_bj": "2026-10-23 00:57"
   },
   {
    "id": "552f10cb3f68c565",
@@ -128,6 +137,15 @@
    "summary": "Article URL: https://www.taler.net/en/news/2026-13.html Comments URL: https://news.ycombinator.com/item?id=50197404 Points: 9 # Comments: 0",
    "published_at": 1792685671.0,
    "published_bj": "2026-10-23 00:14"
+  },
+  {
+   "id": "f092a346d37b3815",
+   "source": "Hacker News",
+   "title": "Every AI model has the same \"controversial\" take on humans",
+   "url": "https://www.modelcompare.ai/blog/ai-models-controversial-take-on-humans",
+   "summary": "Article URL: https://www.modelcompare.ai/blog/ai-models-controversial-take-on-humans Comments URL: https://news.ycombinator.com/item?id=50197313 Points: 17 # Comments: 7",
+   "published_at": 1792685280.0,
+   "published_bj": "2026-10-23 00:08"
   },
   {
    "id": "513428c8dfd99bb7",
