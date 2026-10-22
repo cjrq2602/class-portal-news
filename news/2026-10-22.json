@@ -1,8 +1,26 @@
 {
  "date": "2026-10-22",
- "generated_at": 1792634002.8428833,
- "count": 109,
+ "generated_at": 1792635936.2363038,
+ "count": 122,
  "items": [
+  {
+   "id": "54b59ca4102eea07",
+   "source": "InfoQ中文",
+   "title": "从固定规格到按需分配：Snowflake 自适应计算的底层逻辑 ｜ 技术趋势",
+   "url": "https://www.infoq.cn/article/OX9rfbmh7V7thvWrkULb?utm_source=rss&utm_medium=article",
+   "summary": "点击查看原文>",
+   "published_at": 1792663200.0,
+   "published_bj": "2026-10-22 18:00"
+  },
+  {
+   "id": "c3fb35db969b7a1a",
+   "source": "InfoQ中文",
+   "title": "豆包工作上线 IGA Pages 插件，一句话让网页变得可分享、可共创",
+   "url": "https://www.infoq.cn/article/w065UmVL9EsVI6IVbBd7?utm_source=rss&utm_medium=article",
+   "summary": "点击查看原文>",
+   "published_at": 1792663200.0,
+   "published_bj": "2026-10-22 18:00"
+  },
   {
    "id": "d29e4259c2f166e9",
    "source": "InfoQ中文",
@@ -11,6 +29,105 @@
    "summary": "点击查看原文>",
    "published_at": 1792660260.0,
    "published_bj": "2026-10-22 17:11"
+  },
+  {
+   "id": "c7abde1a1b88fea4",
+   "source": "IT之家",
+   "title": "马斯克：计划建造 Optimus 人形机器人学校，Terafab 经济价值可跻身全球前 20 经济体",
+   "url": "https://www.ithome.com/1/016/249.htm",
+   "summary": "IT之家 10 月 22 日消息，特斯拉首席执行官埃隆 · 马斯克（Elon Musk）透露，计划为旗下擎天柱（Optimus）人形机器人建造一座“机器人学校”，保障人工智能训练顺利开展。马斯克在特斯拉第三季度财报电话会议上谈及了这项规划，同时表示，公司达成年产 100 万台机器人的目标，所需时间可能超过一年。他还介绍了 Terafab 芯片工厂项目，该项目预计在 2028 年第三季度进入早期量产阶段。 Terafab：设备将于 2027 年调试，目标 2028 年第二季度开启早期量产 马斯克在特斯拉第三季度财报电话会上公布了 Terafab 芯片制造项目的核心信息。Terafab 一直备受争",
+   "published_at": 1792635788.0,
+   "published_bj": "2026-10-22 10:23"
+  },
+  {
+   "id": "8db7eae5bbfb85aa",
+   "source": "IT之家",
+   "title": "微软正简化 Win11 登录体验：人脸、指纹与 PIN 可同时待命，用户无需手动切换",
+   "url": "https://www.ithome.com/1/016/248.htm",
+   "summary": "IT之家 10 月 22 日消息，科技媒体 Windows Central 昨日（10 月 21 日）发布博文，报道称在最新 Windows 11 预览版（原文并未提及具体 Build 版本号）中， 一项隐藏功能可以让人脸识别、指纹识别和 PIN 码同时处于可用状态，用户无需再在登录界面手动选择某一种验证方式。 IT之家援引博文介绍，在微软 Windows 11 现有登录流程中，如果用户同时设置了 PIN、人脸解锁和指纹解锁，Windows 通常只会启用用户在锁屏上手动点击的那一种。 例如，用户想用面部识别登录，但界面默认停留在 PIN 输入框时，摄像头并不会主动寻找用户面部，用户必须先切换到",
+   "published_at": 1792635635.0,
+   "published_bj": "2026-10-22 10:20"
+  },
+  {
+   "id": "b901f94eb4809a30",
+   "source": "IT之家",
+   "title": "迈步“史上最大 IPO”，消息称 Anthropic 最快本周五公开提交上市申请",
+   "url": "https://www.ithome.com/1/016/243.htm",
+   "summary": "IT之家 10 月 22 日消息，当地时间 21 日，据雅虎财经援引三名知情人士消息称，Anthropic 最早或于本周五公开提交 S-1 招股说明书，为有望创下史上最大规模的 IPO 迈出关键一步。 Anthropic 的上市计划备受关注，预计规模将超过 SpaceX 今年 6 月的 IPO 。随着投资者对 AI 行业巨额支出的担忧加剧，市场普遍认为，Anthropic 上市将成为检验投资者对 AI 热潮还有多大兴趣的一次重要考验。 今年 6 月，Anthropic 向美国证券交易委员会秘密提交了 IPO 申请草案。根据规定，采用保密申报程序的企业，须在正式投资者路演开始至少 15 个自然日",
+   "published_at": 1792635434.0,
+   "published_bj": "2026-10-22 10:17"
+  },
+  {
+   "id": "bc9a981e09358f96",
+   "source": "IT之家",
+   "title": "eBay 全球裁员 9%，约 1100 人受影响",
+   "url": "https://www.ithome.com/1/016/241.htm",
+   "summary": "IT之家 10 月 22 日消息，美国电子商务平台 eBay 于当地时间 10 月 21 日星期三向法新社（AFP）表示， 将裁员约 1000 个岗位。这大约占其总员工的 9% 。 eBay 表示，这一决定“是为了确保我们保持强势地位”。为此，eBay 希望“使其劳动力和资源与战略优先事项保持一致”。 截至 2025 年底，eBay 拥有 12,300 名员工，随后于 2 月启动了针对 800 个岗位的首次裁员计划。 在第一和第二季度业绩公布时，eBay 管理层并未提及这些裁员。该公司近年来业务增长几乎停滞（2022 年 +2%，2023 年 +3%），eBay 于 2025 年恢复增长（+8",
+   "published_at": 1792635384.0,
+   "published_bj": "2026-10-22 10:16"
+  },
+  {
+   "id": "f48bbfbbf6281394",
+   "source": "IT之家",
+   "title": "影驰正式发布 GeForce RTX 5080 HOF EXTREME 显卡：正反 13 颗施华洛世奇水晶",
+   "url": "https://www.ithome.com/1/016/237.htm",
+   "summary": "IT之家 10 月 22 日消息，影驰 (GALAX) 今日正式发布了 GeForce RTX 5080 HOF EXTREME 显卡。这款旗舰级产品 正反镶嵌 13 颗施华洛世奇水晶 ， 两面合计配备 4 个散热风扇 。 IT之家了解到，GeForce RTX 5080 HOF EXTREME 按照“名人堂”系列的惯例提供了强劲供电和镀金显示接口，并配备双 vBIOS 和 eFuse 电路保护硬件。 其拥有 2 个 12V-2×6 接口， 方便用户根据装机布局择一使用 ，配套磁吸遮盖件；拥有支持 Aurora MAX 灯效的信仰皇冠灯带，可通过独立控制软件或主板管理。",
+   "published_at": 1792635268.0,
+   "published_bj": "2026-10-22 10:14"
+  },
+  {
+   "id": "0fd740acaf952a40",
+   "source": "Hacker News",
+   "title": "LLM Agents Play Pokemon Showdown",
+   "url": "https://olivergrabner.com/research/pokemon/",
+   "summary": "Article URL: https://olivergrabner.com/research/pokemon/ Comments URL: https://news.ycombinator.com/item?id=50190334 Points: 3 # Comments: 0",
+   "published_at": 1792635228.0,
+   "published_bj": "2026-10-22 10:13"
+  },
+  {
+   "id": "c9aeebb47fc828fa",
+   "source": "IT之家",
+   "title": "微软给 8GB 内存电脑“减负”：Win11 26H2 开机少占约 1.7GB 内存",
+   "url": "https://www.ithome.com/1/016/230.htm",
+   "summary": "IT之家 10 月 22 日消息，科技媒体 Windows Latest 昨日（10 月 21 日）发布博文，在一台 8GB DDR4 内存配置的笔记本电脑上，测试运行 Windows 11 26H2 系统，发现相比 25H2 版本开机占用下降约 1.7GB。 任务管理器（重启后） 25H2（升级前） 26H2（升级后） 已使用（当前实际占用的物理内存） 5.0 GB（63%） 3.3 GB（42%） 可用（可立即分配给新程序或进程的内存） 2.9 GB 4.6 GB 已压缩（被 Windows 压缩存储、以减少物理内存占用的数据量） 324 MB 62.7 MB 已提交（系统已承诺分配给进程",
+   "published_at": 1792635059.0,
+   "published_bj": "2026-10-22 10:10"
+  },
+  {
+   "id": "f6cb37accd5c7c98",
+   "source": "IT之家",
+   "title": "美光预告 G11 NAND：超 400 层堆叠，双倍密度，2027H2 产能爬坡",
+   "url": "https://www.ithome.com/1/016/225.htm",
+   "summary": "IT之家 10 月 22 日消息，Micron（美光）当地时间昨日举行了 2026 年度技术网络研讨会，对 DRAM、泛 HBM、NAND 与 SSD 进行了展望，本篇关注闪存类别。 美光本次预告了其预计 2027H2 产能爬坡的 G11 NAND 闪存，这家企业似乎跳过了 G10 世代。 G11 NAND 堆叠超过 400 层，应用晶圆对晶圆键合技术， 按面积计算的存储密度是现有 276 层 G9 NAND 的 2 倍左右 ，同时能实现至高 1.5 倍的 I/O 速率，数据传输能耗则可减少 25% 以上。 在 G11 后，美光计划在 NAND 中导入突破性的高迁移率材料，实现超密集的单元架构",
+   "published_at": 1792634730.0,
+   "published_bj": "2026-10-22 10:05"
+  },
+  {
+   "id": "f43303ebf58718f0",
+   "source": "IT之家",
+   "title": "72 岁格力电器董事长董明珠称被学生喊奶奶很不开心：人的价值不用年龄来衡量，是精神来衡量",
+   "url": "https://www.ithome.com/1/016/222.htm",
+   "summary": "IT之家 10 月 22 日消息，据凤凰网财经报道，格力技工学校校长、格力电器董事长董明珠 10 月 19 日在格力技工学校为首届新生讲授第一课。 董明珠讲话中提到： 那天有个学生喊我奶奶，我听了很不开心，你怎么能喊我奶奶呢，我还很年轻对吧 。 董明珠表示： 人的价值不用年龄来衡量，是精神来衡量 ，我告诉大家我 3 天跑了 4 个省份，每天是夜里 1 点钟坐飞机。很多人说董总这个年龄你要注意点，我说我挺好啊，不老。实际上我们老不老、累不累取决于你内心的梦想，我们只要想去干一件事，必须要做到，你会拼尽一切力量。 董明珠还寄语新生：技能人才同样拥有多元选择，“培养张雪这样的也可以”。此外，董明珠认",
+   "published_at": 1792634672.0,
+   "published_bj": "2026-10-22 10:04"
+  },
+  {
+   "id": "ca517a9068f2660e",
+   "source": "IT之家",
+   "title": "YouTube 称并未测试隐藏“点踩”按钮：只是换了个位置",
+   "url": "https://www.ithome.com/1/016/219.htm",
+   "summary": "IT之家 10 月 22 日消息，近期有消息称，YouTube 或在测试隐藏视频的“不喜欢”按钮，有至少两名 X 平台用户发布截图，显示该按钮被移入三点菜单。 随后在当地时间 21 日，YouTube 向外媒 The Verge 澄清，平台并未针对普通用户测试隐藏“不喜欢”按钮。平台实则计划调整 创作者查看自己上传的视频 时所使用的界面， 将“不喜欢”按钮移至三点菜单 。 YouTube 发言人金伯莉 · 泰勒通过声明回应：“我们没有测试向 YouTube 用户隐藏‘不喜欢’按钮。我们将为创作者推出新版界面，他们查看自己上传的视频时，‘不喜欢’按钮会收进三点菜单。创作者仍然可以像以前一样，在 ",
+   "published_at": 1792634336.0,
+   "published_bj": "2026-10-22 09:58"
+  },
+  {
+   "id": "c97f1de656a0fd5c",
+   "source": "IT之家",
+   "title": "特斯拉开始在弗里蒙特工厂生产 Optimus 人形机器人，马斯克称达周产 2 万台仍需约一年甚至更久",
+   "url": "https://www.ithome.com/1/016/218.htm",
+   "summary": "IT之家 10 月 22 日消息，特斯拉 2026 年第三季度财报显示，公司已经在弗里蒙特工厂的一条大批量产产线上启动擎天柱（Optimus）人形机器人的生产。不过首席执行官埃隆 · 马斯克（Elon Musk）表示，这条产线还需要大约一年甚至更久，才能达到每周 2 万台机器人的目标产能。 特斯拉在 2026 年第三季度业务更新报告中称，弗里蒙特产线下线的这批机器人，是首批达到量产标准的擎天柱，当前生产流程已经可以支撑商业化产品制造。 特斯拉仅用 46 天就拆除了弗里蒙特工厂原来用于生产 Model S 和 Model X 的产线，为擎天柱的生产腾出场地。 就在近期，马斯克承认擎天柱项目仍面临",
+   "published_at": 1792634250.0,
+   "published_bj": "2026-10-22 09:57"
   },
   {
    "id": "4a3787e09f096acd",
