@@ -1,8 +1,35 @@
 {
  "date": "2026-10-23",
- "generated_at": 1792698785.6354308,
- "count": 45,
+ "generated_at": 1792700635.8673606,
+ "count": 48,
  "items": [
+  {
+   "id": "0c452dbf52542329",
+   "source": "IT之家",
+   "title": "西部数据 2027 财年第一财季归母净利润 17.79 亿美元，同比增长 54%",
+   "url": "https://www.ithome.com/1/016/759.htm",
+   "summary": "IT之家 10 月 23 日消息，西部数据今日发布 2027 财年（2026年7月4日～2027年7月2日）第一财季（2026年7月4日～2026年10月2日）报告： 营业总收入 ：43.81 亿美元 （IT之家注：现汇率约合 293.06 亿元人民币） ，同比增长 55%，环比增长 17% 毛利润 ：25.34 亿美元 （现汇率约合 169.51 亿元人民币） ，同比增长 106.52%，环比增长 24.95% 毛利率 ：57.8%，同比增长 14.3 个百分点，环比增长 3.7 个百分点 归母净利润 ：17.79 亿美元 （现汇率约合 119 亿元人民币） ，同比增长 54%，环比下降 4",
+   "published_at": 1792700377.0,
+   "published_bj": "2026-10-23 04:19"
+  },
+  {
+   "id": "70d8a4dcbc15be00",
+   "source": "TechCrunch",
+   "title": "Arc browser sunsets December 22 as The Browser Company doubles down on Dia",
+   "url": "https://techcrunch.com/2026/10/22/arc-browser-sunsets-december-22-as-the-browser-company-doubles-down-on-dia/",
+   "summary": "Arc was fiercely beloved by a dedicated group of enthusiasts, but it never quite became the mass-market Chrome alternative its makers once envisioned.",
+   "published_at": 1792699311.0,
+   "published_bj": "2026-10-23 04:01"
+  },
+  {
+   "id": "2bc688161cf1abcf",
+   "source": "TechCrunch",
+   "title": "The secret to fast startup growth isn’t early sales, top names in tech say",
+   "url": "https://techcrunch.com/2026/10/22/the-secret-to-fast-startup-growth-isnt-early-sales-top-names-in-tech-say/",
+   "summary": "At this year’s Disrupt, Lovable GTM lead Luke Arno, Polska’s Ben Broca, and Theory Ventures’ Tomasz Tunguz gave founders some tips on how to achieve true sales success in the first 90 days.",
+   "published_at": 1792699200.0,
+   "published_bj": "2026-10-23 04:00"
+  },
   {
    "id": "5d35a135d093a4e2",
    "source": "cnBeta",

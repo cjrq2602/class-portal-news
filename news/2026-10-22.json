@@ -1,6 +1,6 @@
 {
  "date": "2026-10-22",
- "generated_at": 1792698785.6389923,
+ "generated_at": 1792700635.869519,
  "count": 400,
  "items": [
   {
@@ -1154,6 +1154,15 @@
    "summary": "IT之家 10 月 22 日消息，蚂蚁数科今日发布决策模型 LingDT-Decision-1.0。该模型专为快速产业决策打造，在处理结构化决策任务时，具备准确率更高、响应更快、Token 成本更低等优势。 据介绍，相比于其他决策模型，LingDT-Decision-1.0 首创 支持原生多选与按序决策能力 ，更适配企业真实应用场景。在 23 项开源评测基准中，LingDT-Decision-1.0 的性能超过了 Microsoft-Decision-1、Jev 1.13.等热门决策模型，LingDT-Decision-1.0 的 27B 版本在同参数模型中取得 最高准确率 。 蚂蚁数科团队在",
    "published_at": 1792663924.0,
    "published_bj": "2026-10-22 18:12"
+  },
+  {
+   "id": "691c358d056800fa",
+   "source": "Hacker News",
+   "title": "Tell HN: I unknowingly broke the PHP RCE embargo. I am sorry.",
+   "url": "https://news.ycombinator.com/item?id=50193416",
+   "summary": "I posted here about the then-upcoming PHP RCEs related to CVE-2026-109618 & CVE-2026-109619. I appreciate this has had considerable knock-on effects with the schedule for co-ordinated disclosure, and created additional workload. I am truly sorry. I take full responsibility for my actions. It was not",
+   "published_at": 1792663904.0,
+   "published_bj": "2026-10-22 18:11"
   },
   {
    "id": "7b1098da8ad2b3d1",
@@ -3593,15 +3602,6 @@
    "summary": "IT之家 10 月 22 日消息，IBM今日发布 2026 财年（2026 年 1 月～2026 年 12 月）半年报（2026 年 1 月～2026 年 9 月）及第三财季（2026 年 7 月～2026 年 9 月）报告： 2026 财年半年报 营业总收入 ：501.82 亿美元 （IT之家注：现汇率约合 3357.84 亿元人民币） ，同比增长 4.88% 毛利润 ：285.71 亿美元 （现汇率约合 1911.78 亿元人民币） ，同比增长 4.39% 毛利率 ：56.9%，同比下降 0.3 个百分点 归母净利润 ：55.71 亿美元 （现汇率约合 372.77 亿元人民币） ，同比增",
    "published_at": 1792614307.0,
    "published_bj": "2026-10-22 04:25"
-  },
-  {
-   "id": "7c7c6e351d94a95b",
-   "source": "TechCrunch",
-   "title": "Automattic begins layoffs following board upheaval and executive departures",
-   "url": "https://techcrunch.com/2026/10/21/automattic-begins-layoffs-following-board-upheaval-and-executive-departures/",
-   "summary": "Sources say more cuts could follow as the company looks to improve its finances.",
-   "published_at": 1792613700.0,
-   "published_bj": "2026-10-22 04:15"
   }
  ]
 }
