@@ -1,7 +1,7 @@
 {
  "date": "2026-10-23",
- "generated_at": 1792692361.5193942,
- "count": 20,
+ "generated_at": 1792695762.3138018,
+ "count": 40,
  "items": [
   {
    "id": "15fc56ed122d05aa",
@@ -13,6 +13,168 @@
    "published_bj": "2026-10-23 03:16"
   },
   {
+   "id": "eac34e2df433ead2",
+   "source": "TechCrunch",
+   "title": "Canva releases its first image generation model",
+   "url": "https://techcrunch.com/2026/10/22/canva-releases-its-first-image-generation-model/",
+   "summary": "Canva is making its new image model available to all users, promising better, more customizable performance at lower costs.",
+   "published_at": 1792695600.0,
+   "published_bj": "2026-10-23 03:00"
+  },
+  {
+   "id": "cc9fa7c46fb40570",
+   "source": "cnBeta",
+   "title": "英国启动太空垃圾清理计划 将移除两颗报废卫星",
+   "url": "https://www.cnbeta.com.tw/articles/science/1583438.htm",
+   "summary": "为应对日益严重的轨道拥堵问题，英国航天局宣布向ClearSpace UK授予价值6100万英镑（约合8100万美元）的合同，用于设计、建造和测试专门的太空垃圾清理航天器。这项任务计划在2029年至2032年期间执行，目标是在近地轨道移除两颗已经失去功能的英国卫星。 阅读全文",
+   "published_at": 1792695452.0,
+   "published_bj": "2026-10-23 02:57"
+  },
+  {
+   "id": "9cd65f6ead24c244",
+   "source": "cnBeta",
+   "title": "The Browser Company宣布Arc浏览器停运 全面押注AI新品Dia",
+   "url": "https://www.cnbeta.com.tw/articles/tech/1583436.htm",
+   "summary": "知名浏览器开发商The Browser Company宣布，将于2026年12月22日正式停止Arc浏览器服务。这款以创新界面和独特生产力功能闻名的浏览器即将结束使命，公司未来将把全部重点转向人工智能浏览器Dia。 阅读全文",
+   "published_at": 1792695344.0,
+   "published_bj": "2026-10-23 02:55"
+  },
+  {
+   "id": "7e0451a1992a7d72",
+   "source": "cnBeta",
+   "title": "索尼日本停产最后一款独立4K蓝光机 普通蓝光播放器仍在售",
+   "url": "https://www.cnbeta.com.tw/articles/movie/1583434.htm",
+   "summary": "索尼日本已于10月22日结束UBP-X700/K超高清蓝光播放器出货。该机是索尼在日本销售的最后一款独立UHD Blu-ray播放机；索尼官方商店目前将其标为“缺货且不再补货”，售价为5.83万日元（含税）。 阅读全文",
+   "published_at": 1792695289.0,
+   "published_bj": "2026-10-23 02:54"
+  },
+  {
+   "id": "4837fd0d3569c95f",
+   "source": "cnBeta",
+   "title": "微软推出AI医疗诊断系统 复杂病例准确率达83%",
+   "url": "https://www.cnbeta.com.tw/articles/tech/1583432.htm",
+   "summary": "微软宣布，其人工智能医疗诊断系统Diagnostic Orchestrator在复杂病例测试中取得了优于人类医生的成绩。微软AI首席执行官穆斯塔法·苏莱曼表示，公司正在朝着医疗超级智能的目标迈进，并预计未来几年内，人工智能系统在医学领域的表现有望达到与人类专家难以区分的水平。 阅读全文",
+   "published_at": 1792695260.0,
+   "published_bj": "2026-10-23 02:54"
+  },
+  {
+   "id": "f0953423f4c084ba",
+   "source": "cnBeta",
+   "title": "Valve员工首次公开提及“HLX” 《半条命3》传闻再起",
+   "url": "https://www.cnbeta.com.tw/articles/game/1583430.htm",
+   "summary": "美国游戏开发商Valve近日再次引发玩家对《半条命3》（Half-Life 3）的猜测。长期参与Valve游戏配乐工作的作曲家迈克·莫拉斯基（Mike Morasky）在2026年游戏音频大会GameSoundCon的一场问答活动中，公开提到了内部代号“HLX”。由于这一代号多年来一直被玩家和数据挖掘者与传闻中的《半条命》新作联系在一起，这次罕见的公开提及迅速引发关注。 阅读全文",
+   "published_at": 1792695066.0,
+   "published_bj": "2026-10-23 02:51"
+  },
+  {
+   "id": "5b6ae598b6dd3bde",
+   "source": "cnBeta",
+   "title": "前OpenAI科学负责人创办Warp Sciences 融资2.15亿美元打造机器人药物实验室",
+   "url": "https://www.cnbeta.com.tw/articles/tech/1583428.htm",
+   "summary": "前OpenAI首席产品官兼科学团队负责人凯文·韦尔创办Warp Sciences，目标是把人工智能与机器人引入药物研发实验室，帮助生物科技和制药公司更快制造、测试候选化合物。韦尔宣布，公司已完成2.15亿美元融资，领投方为Lightspeed；公司估值据称达到8.65亿美元。IVP、Premji Invest、Mayfield、Lux Capital和Menlo Ventures等也参与投资。 阅读全文",
+   "published_at": 1792695035.0,
+   "published_bj": "2026-10-23 02:50"
+  },
+  {
+   "id": "669ffd822addc815",
+   "source": "cnBeta",
+   "title": "微软警告企业AI智能体不能被盲目信任：必须让安全机制独立于AI",
+   "url": "https://www.cnbeta.com.tw/articles/tech/1583426.htm",
+   "summary": "微软近日发出警告称，企业不应盲目信任正在快速普及的人工智能智能体（AI Agents）。这些能够自主调用工具、访问企业数据并执行实际任务的AI系统，即使没有遭到黑客入侵，也可能因为判断失误、受到恶意内容误导或自行采取意料之外的行动，造成严重安全问题。与此同时，微软并没有因此放慢AI智能体的推广步伐，而是推出新的安全管理技术，试图在扩大应用规模的同时，对智能体的行为实施持续监控和权限约束。 阅读全文",
+   "published_at": 1792695009.0,
+   "published_bj": "2026-10-23 02:50"
+  },
+  {
+   "id": "9e3d5e5a2c764189",
+   "source": "cnBeta",
+   "title": "马斯克据报向天空之舞投资10亿美元 为新媒体巨头提供资金支持",
+   "url": "https://www.cnbeta.com.tw/articles/movie/1583424.htm",
+   "summary": "埃隆·马斯克已向新成立的媒体公司Skydance（天空之舞）投资约10亿美元。这笔投资消息传出之际，距离派拉蒙完成对华纳兄弟探索公司的1100亿美元收购仅过去数周。此次交易促成了两大传媒集团的整合，并组建了新的Skydance公司。 阅读全文",
+   "published_at": 1792694974.0,
+   "published_bj": "2026-10-23 02:49"
+  },
+  {
+   "id": "dcc32957dc191d67",
+   "source": "cnBeta",
+   "title": "交友软件砸近万元仍加不上联系方式 记者实测：充值6元只够聊9分钟",
+   "url": "https://www.cnbeta.com.tw/articles/tech/1583422.htm",
+   "summary": "“我感觉不对劲，再投入下去是无底洞。”等业务员阿强（化名）意识到这一点，他在心遇App上已经花了近一万元，也就是从那时起，他开始在各投诉平台维权。心遇是网易云音乐2020年推出的陌生人社交App，它将自己定义为“一款主打真实、同城、安全的真人交友应用”，宣称已为用户完成超亿次配对，并承诺能从源头过滤照骗、马甲号。除了即时聊天，心遇还提供直播、多人语聊、KTV等玩法。 阅读全文",
+   "published_at": 1792694794.0,
+   "published_bj": "2026-10-23 02:46"
+  },
+  {
+   "id": "8748eeb207acd624",
+   "source": "Hacker News",
+   "title": "Hedra is a 3D open world game I wrote from scratch while in highschool",
+   "url": "https://github.com/maxilevi/project-hedra/tree/pre-ai",
+   "summary": "Article URL: https://github.com/maxilevi/project-hedra/tree/pre-ai Comments URL: https://news.ycombinator.com/item?id=50199389 Points: 6 # Comments: 1",
+   "published_at": 1792694676.0,
+   "published_bj": "2026-10-23 02:44"
+  },
+  {
+   "id": "90f9d29c25bd026a",
+   "source": "TechCrunch",
+   "title": "Microsoft’s Mustafa Suleyman says its AI outperforms doctors on hard cases as he chases ‘medical superintelligence’",
+   "url": "https://techcrunch.com/2026/10/22/microsofts-mustafa-suleyman-says-its-ai-outperforms-doctors-on-hard-cases-as-he-chases-medical-superintelligence/",
+   "summary": "Microsoft’s new AI diagnostic system beat generalist doctors on hard cases, according to a study in Science. But most of the improvement seems to come from the AI models underneath, not from Microsoft’s system itself.",
+   "published_at": 1792694633.0,
+   "published_bj": "2026-10-23 02:43"
+  },
+  {
+   "id": "a49a5c9594d35873",
+   "source": "TechCrunch",
+   "title": "Former OpenAI science lead launches Warp Science to automate wet labs with robots",
+   "url": "https://techcrunch.com/2026/10/22/former-openai-science-lead-launches-warp-science-to-automate-wet-labs-with-robots/",
+   "summary": "Wearing cameras and sensor gloves, the startup’s human chemists will train robots to perform various lab tasks.",
+   "published_at": 1792694327.0,
+   "published_bj": "2026-10-23 02:38"
+  },
+  {
+   "id": "b7f4c0382ee7633f",
+   "source": "Hacker News",
+   "title": "Show HN: UI micro interactions prompts for AI",
+   "url": "https://www.typeui.sh/micro-interactions",
+   "summary": "Article URL: https://www.typeui.sh/micro-interactions Comments URL: https://news.ycombinator.com/item?id=50199290 Points: 5 # Comments: 0",
+   "published_at": 1792693977.0,
+   "published_bj": "2026-10-23 02:32"
+  },
+  {
+   "id": "8858db6f3a8a8769",
+   "source": "Hacker News",
+   "title": "Award-Winning AI Literature",
+   "url": "https://jamesyu.org/award-winning-ai-literature/",
+   "summary": "Article URL: https://jamesyu.org/award-winning-ai-literature/ Comments URL: https://news.ycombinator.com/item?id=50199232 Points: 7 # Comments: 0",
+   "published_at": 1792693706.0,
+   "published_bj": "2026-10-23 02:28"
+  },
+  {
+   "id": "ae086e421f1ee27b",
+   "source": "Hacker News",
+   "title": "AI and the Enclosure of the Scientific Commons",
+   "url": "https://arxiv.org/abs/2610.27251",
+   "summary": "Article URL: https://arxiv.org/abs/2610.27251 Comments URL: https://news.ycombinator.com/item?id=50199230 Points: 7 # Comments: 0",
+   "published_at": 1792693696.0,
+   "published_bj": "2026-10-23 02:28"
+  },
+  {
+   "id": "168c69b13e0a34ce",
+   "source": "Hacker News",
+   "title": "AI analysis of CT scans finds 42.9% of patients have coronary inflammation",
+   "url": "https://www.biograph.com/newsroom/biograph-completes-first-u.s.-study-with-caristo-diagnostics%E2%80%99-ai-powered-coronary-inflammation-detection-finding-risk-in-over-42-of-asymptomatic-patients",
+   "summary": "Article URL: https://www.biograph.com/newsroom/biograph-completes-first-u.s.-study-with-caristo-diagnostics%E2%80%99-ai-powered-coronary-inflammation-detection-finding-risk-in-over-42-of-asymptomatic-patients Comments URL: https://news.ycombinator.com/item?id=50198940 Points: 20 # Comments: 10",
+   "published_at": 1792692174.0,
+   "published_bj": "2026-10-23 02:02"
+  },
+  {
+   "id": "c8d9717080a36878",
+   "source": "Hacker News",
+   "title": "Show HN: agent-usage-guard – a Claude Code mod to protect your usage window",
+   "url": "https://github.com/rbartoli/agent-usage-guard",
+   "summary": "Article URL: https://github.com/rbartoli/agent-usage-guard Comments URL: https://news.ycombinator.com/item?id=50198936 Points: 8 # Comments: 5",
+   "published_at": 1792692158.0,
+   "published_bj": "2026-10-23 02:02"
+  },
+  {
    "id": "151f25601dffbdd9",
    "source": "InfoQ中文",
    "title": "企业 AI 越用越复杂，如何用一个 Gateway 管好模型、Agent 和成本？｜ 技术趋势",
@@ -20,6 +182,15 @@
    "summary": "点击查看原文>",
    "published_at": 1792692000.0,
    "published_bj": "2026-10-23 02:00"
+  },
+  {
+   "id": "202461491c9069a5",
+   "source": "Hacker News",
+   "title": "Nvidia OpenShell",
+   "url": "https://github.com/NVIDIA/OpenShell",
+   "summary": "Article URL: https://github.com/NVIDIA/OpenShell Comments URL: https://news.ycombinator.com/item?id=50198675 Points: 61 # Comments: 29",
+   "published_at": 1792691046.0,
+   "published_bj": "2026-10-23 01:44"
   },
   {
    "id": "6d43ac0f02d22c23",
@@ -119,6 +290,15 @@
    "summary": "IT之家 10 月 23 日消息，奇妙工具箱今日数据显示， 华为鸿蒙 HarmonyOS 操作系统装机量突破 1 亿台 ，目前约 102,244,390 台。 据IT之家此前报道，在今年 3 月的直播中，华为常务董事、产品投资评审委员会主任、终端 BG 董事长余承东透露，鸿蒙系统用户规模正经历急剧增长， 预计将在今年冬季前突破 1 亿大关 。 华为官网披露，截至 2026 年 6 月，全球鸿蒙开发者规模已超 1100 万，华为应用市场可获取的鸿蒙应用与服务数量突破 38 万。第三方数据显示，鸿蒙已稳居中国第二大智能手机操作系统，2026 年第一季度在中国智能手机市场份额达 19%。 延伸阅读 ",
    "published_at": 1792685929.0,
    "published_bj": "2026-10-23 00:18"
+  },
+  {
+   "id": "b470d199606d5019",
+   "source": "Hacker News",
+   "title": "Mini brain organoids 'reading' Braille key step towards biohybrid computing",
+   "url": "https://www.frontiersin.org/news/2026/10/16/mini-brain-organoids-reading-braille-biohybrid-computing-frontiers-artificial-intelligence",
+   "summary": "Article URL: https://www.frontiersin.org/news/2026/10/16/mini-brain-organoids-reading-braille-biohybrid-computing-frontiers-artificial-intelligence Comments URL: https://news.ycombinator.com/item?id=50197450 Points: 10 # Comments: 3",
+   "published_at": 1792685805.0,
+   "published_bj": "2026-10-23 00:16"
   },
   {
    "id": "246029d6a4fc1678",
