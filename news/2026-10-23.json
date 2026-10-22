@@ -1,8 +1,80 @@
 {
  "date": "2026-10-23",
- "generated_at": 1792710373.7333558,
- "count": 70,
+ "generated_at": 1792712811.1406422,
+ "count": 79,
  "items": [
+  {
+   "id": "d870216cc2e8ce5d",
+   "source": "IT之家",
+   "title": "特斯拉要为 Optimus 建“学校”，马斯克称训练机器人就像育儿",
+   "url": "https://www.ithome.com/1/016/769.htm",
+   "summary": "IT之家 10 月 23 日消息，特斯拉打算把人形机器人 Optimus 送进“学校”，让机器人通过练习掌握更多技能。 据《商业内幕》报道，当地时间 21 日，特斯拉 CEO 埃隆 · 马斯克在财报电话会议上 将训练 Optimus 比作养育幼儿 。他解释，特斯拉的自动驾驶系统可以从庞大车队积累的数据中学习，但 Optimus 没有这样的条件，只能 通过观察人类工作，再亲自练习 来掌握技能，与人类学习的方式相似。 马斯克告诉投资者：“看看小孩子就知道了。刚学走路时，他们摇摇晃晃，什么都不会，后来终于学会自己擦屁股，这可是个重要的进步。接着，他们学会读书，学会做各种各样的事情，这些本领都是在玩耍",
+   "published_at": 1792712292.0,
+   "published_bj": "2026-10-23 07:38"
+  },
+  {
+   "id": "2edf799a17fde7f4",
+   "source": "IT之家",
+   "title": "充分调动 iPhone Duo 体验：苹果给适配 App 发“身份证”，《绝区零》等首批支持",
+   "url": "https://www.ithome.com/1/016/768.htm",
+   "summary": "IT之家 10 月 23 日消息，苹果公司昨日（10 月 22 日）发布博文，宣布将会在 App Store 应用商店内， 引入全新的 Made for iPhone Duo 标志，用于标识已适配苹果首款折叠 iPhone Duo 的应用和游戏。 该标识将于 10 月 23 日，即 iPhone Duo 在部分市场正式发售当天，出现在相关应用的 App Store 产品页面上。 苹果表示，获得标识的应用代表不只是“能在大屏上运行”，更能充分利用 iPhone Duo 的内外双屏、更大显示区域以及折叠形态。 开发者可通过 iOS 27.1 SDK、SwiftUI 和 UIKit 等工具，让应用在",
+   "published_at": 1792712262.0,
+   "published_bj": "2026-10-23 07:37"
+  },
+  {
+   "id": "fb239fb5d6940944",
+   "source": "IT之家",
+   "title": "因市场波动，SK 海力士宣布取消旗下公司 Solidigm 赴美 IPO 计划",
+   "url": "https://www.ithome.com/1/016/767.htm",
+   "summary": "IT之家 10 月 23 日消息，据路透社报道，SK 海力士表示，受金融市场波动和近期股价走势影响， 已决定取消其子公司 Solidigm 的美国首次公开募股 （IPO）。 SK 海力士在一份声明中表示，将继续探索为 Solidigm 的扩张提供资金并提升股东价值的途径，包括评估未来投资的时机、规模和融资方式。 该公司称：“这一决定不代表 Solidigm 的增长前景或投资需求发生了任何改变。” 尽管 SK 海力士与 Solidigm 的经营业绩均表现强劲，但鉴于资本市场波动加剧以及半导体板块出现广泛回调，公司决定重新审视上市安排。此前仅数周，SK 海力士曾表示正在权衡强化 Solidigm ",
+   "published_at": 1792712117.0,
+   "published_bj": "2026-10-23 07:35"
+  },
+  {
+   "id": "25033e641a06124d",
+   "source": "IT之家",
+   "title": "OpenAI 奥尔特曼：面对 AI，数学家们起初会觉得“我们完蛋了”，最终却还是接受现实",
+   "url": "https://www.ithome.com/1/016/766.htm",
+   "summary": "IT之家 10 月 23 日消息，据《商业内幕》今天（23 日）报道，近日，在斯坦福大学，OpenAI CEO 萨姆 · 奥尔特曼面向台下数百名担忧未来职业前景的学生发表演讲。 奥尔特曼认为，面对 AI 大举进军数学研究领域，数学家经历了类似“哀悼”的几个阶段。起初是难以置信，随后陷入痛苦。“第一天，大家的反应大概是：‘ 我们完蛋了，数学这个领域也完了 。’‘还是去 劝研究生转专业吧 。’” 接着，痛苦转化成了愤怒。“到了第三天，大家可能开始觉得：‘ OpenAI 这么干实在太过分了 。’” 按照奥尔特曼的描述，到了第五天，数学家 开始接受现实 ：在数学研究和证明工作中，AI 正成为不可或缺的",
+   "published_at": 1792711540.0,
+   "published_bj": "2026-10-23 07:25"
+  },
+  {
+   "id": "ddab4637c9b9cf84",
+   "source": "IT之家",
+   "title": "微软推出 AI 医疗诊断系统 MAI-DxO：复杂病例准确率达 83%，成果登《科学》",
+   "url": "https://www.ithome.com/1/016/765.htm",
+   "summary": "IT之家 10 月 23 日消息，当地时间 10 月 22 日，微软宣布，在基于 MIMIC-IV-ED 数据集评估美国急诊科 常见就诊病例 时，其研发的 AI 诊断系统 MAI-DxO 的诊断准确率达到了人类医生的 1.7 倍。 该系统命名为 Microsoft AI Diagnostic Orchestrator，简称 DxO，通过统一编排多个 AI 智能体来模拟医生专家联合会诊的过程 —— 各智能体协同向患者问诊、开具化验检查，并对潜在诊断展开深入研判与辩论。 而在基于《新英格兰医学杂志》（NEJM） 复杂病例 展开的模拟评估中， MAI-DxO 的诊断准确率高达 83% 。相比之下，可",
+   "published_at": 1792711416.0,
+   "published_bj": "2026-10-23 07:23"
+  },
+  {
+   "id": "0fa4cc0820d0a270",
+   "source": "IT之家",
+   "title": "允许员工“不务正业”的车库项目谢幕，微软调整运营 17 年的 Garage 创意孵化平台",
+   "url": "https://www.ithome.com/1/016/764.htm",
+   "summary": "IT之家 10 月 23 日消息，科技媒体 GeekWire 昨日（10 月 22 日）发布博文，报道称微软正陆续关停内部创新“车库”项目 The Garage， 取消其作为公司级统一创新平台的职能，并陆续关闭或调整全球相关创客空间。 IT之家查询公开资料，The Garage 是微软内部的创意孵化平台，曾为微软员工提供原型开发、硬件制作、跨部门协作和业余创新实验的空间与工具，也是微软全球黑客马拉松的重要组织平台。 对于微软员工而言，该项目的一个亮点是，在经过团队、经理或相关活动批准后，员工可以在工作时间展开自己喜欢的创意项目。 业务团队可以自行安排若干工作日，让成员做与现有或潜在微软产品相关",
+   "published_at": 1792711393.0,
+   "published_bj": "2026-10-23 07:23"
+  },
+  {
+   "id": "91bf887cb2d3b4ce",
+   "source": "TechCrunch",
+   "title": "Warhound raises $200M to engineer war dogs and arm them with Anduril gear",
+   "url": "https://techcrunch.com/2026/10/22/ben-lamm-raises-200m-for-warhound-to-engineer-war-dogs-and-arm-them-with-anduril-gear/",
+   "summary": "Warhound, the brainchild of Ben Lamm and Palmer Luckey, emerges from stealth to genetically engineer dogs for military and law enforcement.",
+   "published_at": 1792710900.0,
+   "published_bj": "2026-10-23 07:15"
+  },
+  {
+   "id": "edb3bb45b10e69ba",
+   "source": "IT之家",
+   "title": "马斯克大胆预测：只要不受监管限制，特斯拉终将主导全球客运市场",
+   "url": "https://www.ithome.com/1/016/763.htm",
+   "summary": "IT之家 10 月 23 日消息，据《商业内幕》报道，特斯拉 CEO 埃隆 · 马斯克长期相信，自动驾驶汽车将取代人类司机，承担载客出行任务。 当地时间 21 日的特斯拉财报电话会议上，马斯克提出了更加大胆的预测： 只要不受监管限制，特斯拉最终将主导全球客运市场 。“我认为，凡是允许特斯拉自由运营的国家，特斯拉最终都将 承担当地超过一半的乘客出行里程 。大家以后可以检验这个预测，我对此很有信心。” 他同时认为，特斯拉实现这一目标的最大障碍，是外国政府 为了保护本国产业而限制自动驾驶技术 。 马斯克的这番话，比他此前有关自动驾驶的预测更加大胆。今年 1 月，马斯克曾在财报电话会议上预测，未来“绝",
+   "published_at": 1792710750.0,
+   "published_bj": "2026-10-23 07:12"
+  },
   {
    "id": "46bf130a3a9238aa",
    "source": "IT之家",
@@ -137,6 +209,15 @@
    "summary": "Fedora项目最新举行的Go/No-Go发布评审会议决定，Fedora 45再次未能获得发布许可。这意味着该版本不仅未能按照原定的提前发布时间表在本周推出，也将错过下周的发布窗口，发布时间至少再推迟一周。 阅读全文",
    "published_at": 1792707554.0,
    "published_bj": "2026-10-23 06:19"
+  },
+  {
+   "id": "a993a9d140618105",
+   "source": "Hacker News",
+   "title": "Show HN: CATT 0.2.1: Test agents/services against a Muse/Instinct-alike, in CI",
+   "url": "https://github.com/Coverage-Cat/consumer-agent-testing-tool",
+   "summary": "Hey HN, we recently open sourced our Consumer Agent Testing Tool to help teams iterate against proprietary assistants like Muse and Instinct. We built this to reduce our own frustrations with building an MCP/API for these agents to consume. The problem: testing against these tools is hard! Agent mem",
+   "published_at": 1792707520.0,
+   "published_bj": "2026-10-23 06:18"
   },
   {
    "id": "81fdd9f69f8c096d",
