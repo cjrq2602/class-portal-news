@@ -1,8 +1,71 @@
 {
  "date": "2026-10-23",
- "generated_at": 1792705910.6218252,
- "count": 49,
+ "generated_at": 1792707878.2748833,
+ "count": 57,
  "items": [
+  {
+   "id": "69711f388afeca1a",
+   "source": "cnBeta",
+   "title": "英特尔Fab 62开始安装设备 目标在2028年底前投入运营",
+   "url": "https://www.cnbeta.com.tw/articles/tech/1583450.htm",
+   "summary": "英特尔表示，位于美国亚利桑那州钱德勒市奥科蒂洛园区的Fab 62已进入设备安装阶段，厂房建设和生产设备进场正同步进行，公司预计该厂在2028年底前开始运营。英特尔代工部门首席技术与运营官纳迦·钱德拉塞卡兰称，这是公司在奥科蒂洛园区的第六座高产能制造厂。 阅读全文",
+   "published_at": 1792707795.0,
+   "published_bj": "2026-10-23 06:23"
+  },
+  {
+   "id": "1fb1cc2c31bf5d32",
+   "source": "cnBeta",
+   "title": "研究发现价值10英镑的胶带防洪效果或优于沙袋",
+   "url": "https://www.cnbeta.com.tw/articles/science/1583448.htm",
+   "summary": "一项最新研究显示，在应对洪水侵袭时，一卷价格不足10英镑的普通胶带，或许能够提供比传统沙袋更有效的入户防洪保护。研究人员通过实验发现，正确地在房门外侧使用胶带密封缝隙，可将渗水量减少97%至98%，显著降低洪水进入住宅的风险。 阅读全文",
+   "published_at": 1792707657.0,
+   "published_bj": "2026-10-23 06:20"
+  },
+  {
+   "id": "81cb85894e5b4aa6",
+   "source": "cnBeta",
+   "title": "Fedora 45再次延期发布 最早或于11月初推出",
+   "url": "https://www.cnbeta.com.tw/articles/tech/1583446.htm",
+   "summary": "Fedora项目最新举行的Go/No-Go发布评审会议决定，Fedora 45再次未能获得发布许可。这意味着该版本不仅未能按照原定的提前发布时间表在本周推出，也将错过下周的发布窗口，发布时间至少再推迟一周。 阅读全文",
+   "published_at": 1792707554.0,
+   "published_bj": "2026-10-23 06:19"
+  },
+  {
+   "id": "81fdd9f69f8c096d",
+   "source": "cnBeta",
+   "title": "科学家首次演示用激光制造的可调长度天线 有望用于卫星通信",
+   "url": "https://www.cnbeta.com.tw/articles/science/1583444.htm",
+   "summary": "科学家首次成功演示了一种由激光生成等离子体光束构成的无线电天线。这种装置不需要传统天线常见的金属杆或机械伸缩结构，而是利用激光将空气电离，形成一条细长的等离子体通道，再通过电磁场向其馈入无线电信号，使其能够发射无线电波。研究人员表示，这项技术未来有望用于卫星通信、雷达系统以及太空探索设备。 阅读全文",
+   "published_at": 1792707517.0,
+   "published_bj": "2026-10-23 06:18"
+  },
+  {
+   "id": "135348f471ffd900",
+   "source": "cnBeta",
+   "title": "苹果据称将iPhone Duo产量目标上调44% 首款折叠屏手机需求超预期",
+   "url": "https://www.cnbeta.com.tw/articles/tech/1583442.htm",
+   "summary": "苹果据称已要求供应链提高首款折叠屏手机iPhone Duo的生产目标，将首个12个月的产量规划从970万部上调至1400万部，增幅约为44%。这一调整被认为与产品预购需求强劲有关，但由于折叠屏、铰链及组装环节仍存在制造挑战，订单增加并不意味着最终实际产量一定能够同步增长。 阅读全文",
+   "published_at": 1792707364.0,
+   "published_bj": "2026-10-23 06:16"
+  },
+  {
+   "id": "f4b3f277291828a1",
+   "source": "TechCrunch",
+   "title": "OpenAI working on new $30B raise at $1.25T valuation ahead of IPO",
+   "url": "https://techcrunch.com/2026/10/22/openai-working-on-new-30b-raise-at-1-25t-valuation-ahead-of-ipo/",
+   "summary": "Should OpenAI command an over $1 trillion valuation with this round, it would break records as the most highly valued private company ever.",
+   "published_at": 1792706904.0,
+   "published_bj": "2026-10-23 06:08"
+  },
+  {
+   "id": "5c3539acb064e8d5",
+   "source": "Hacker News",
+   "title": "Railpass",
+   "url": "https://train.samismith.com/",
+   "summary": "Article URL: https://train.samismith.com/ Comments URL: https://news.ycombinator.com/item?id=50201414 Points: 7 # Comments: 3",
+   "published_at": 1792705112.0,
+   "published_bj": "2026-10-23 05:38"
+  },
   {
    "id": "9bd2a4bffebf72f8",
    "source": "TechCrunch",
@@ -11,6 +74,15 @@
    "summary": "Terms of the deal weren’t disclosed.",
    "published_at": 1792703105.0,
    "published_bj": "2026-10-23 05:05"
+  },
+  {
+   "id": "fe6bff4b84a32e27",
+   "source": "Hacker News",
+   "title": "Ask HN: If the models are so good, why doesn't OpenAI just start 100 companies?",
+   "url": "https://news.ycombinator.com/item?id=50200997",
+   "summary": "Title is a bit of an exaggeration but the question is more: if the frontier models are so good, why even sell them as your primary money maker? Couldn't OpenAI or Anthropic make a lot more money by just starting companies themselves that leverage the models and building their own products? Is sellin",
+   "published_at": 1792703035.0,
+   "published_bj": "2026-10-23 05:03"
   },
   {
    "id": "0c452dbf52542329",
