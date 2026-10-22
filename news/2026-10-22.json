@@ -1,7 +1,7 @@
 {
  "date": "2026-10-22",
- "generated_at": 1792675519.7952871,
- "count": 375,
+ "generated_at": 1792678541.5465503,
+ "count": 396,
  "items": [
   {
    "id": "15cc56c030b5d9ea",
@@ -20,6 +20,177 @@
    "summary": "点击查看原文>",
    "published_at": 1792681200.0,
    "published_bj": "2026-10-22 23:00"
+  },
+  {
+   "id": "745daf50b109b125",
+   "source": "IT之家",
+   "title": "华为WATCH Ultimate 2 非凡探索等十款智能手表 HarmonyOS 7 系统“转正”，不限量升级开启",
+   "url": "https://www.ithome.com/1/016/707.htm",
+   "summary": "IT之家 10 月 22 日消息，华为官网最新信息显示，HUAWEI WATCH Ultimate 2 非凡探索、WATCH GT 6 等穿戴设备的鸿蒙 HarmonyOS 7 系统从公测版转为正式版，不限量升级开启。 ▲ IT之家评测室：华为 WATCH Ultimate 2 非凡探索体验 IT之家附华为鸿蒙 HarmonyOS 7 最新适配机型清单如下： 正式版 HUAWEI Mate 80 系列 HUAWEI Mate 70 系列 HUAWEI Mate 60 系列 HUAWEI Mate X7 系列 HUAWEI Mate X6 系列 HUAWEI Mate X5 系列 HUAWEI ",
+   "published_at": 1792678388.0,
+   "published_bj": "2026-10-22 22:13"
+  },
+  {
+   "id": "be076fa57c354e15",
+   "source": "cnBeta",
+   "title": "Cloudflare已监测到数百万次针对PHP漏洞的攻击 建议开发者尽快升级",
+   "url": "https://www.cnbeta.com.tw/articles/tech/1583400.htm",
+   "summary": "PHP 基金会在昨晚 10 点发布新版本修复 PHP2Shell 漏洞，网络服务提供商 Cloudflare 已经提前获悉漏洞并通过 WAF 规则部署缓解措施，随后 Cloudflare 开始观测到迅速增加的攻击尝试，目前观测到的攻击尝试已经超过百万次。 阅读全文",
+   "published_at": 1792678284.0,
+   "published_bj": "2026-10-22 22:11"
+  },
+  {
+   "id": "11468adf2fde0e3c",
+   "source": "IT之家",
+   "title": "AMD 复活锐龙 7 5800X3D 处理器，源于苏姿丰亲自提议",
+   "url": "https://www.ithome.com/1/016/706.htm",
+   "summary": "IT之家 10 月 22 日消息，日媒 MyNavi Tech+ 本周采访 AMD 客户端产品经理特拉维斯 · 基尔什（Travis Kirsch）。他提到， 公司今年早些时候让 Socket AM4 平台的锐龙 7 5800X3D 重返市场 ， 其实源于 CEO 苏姿丰的提议 。 IT之家注意到，这名产品经理表示，公司推出锐龙 7 5800X3D 十周年纪念版处理器， 是向仍在使用 AM4 平台的忠实用户献上告别礼物 。由于 DDR5 内存价格大幅上涨，不少用户仍选用支持 DDR4 的平台。 AMD 希望这款产品能帮助用户顺利走完过渡期，锐龙 7 5800X3D 的游戏性能仍可满足当下需求，",
+   "published_at": 1792678242.0,
+   "published_bj": "2026-10-22 22:10"
+  },
+  {
+   "id": "c094a4fdad7bc2c6",
+   "source": "IT之家",
+   "title": "多个 Linux 内核漏洞被误公开，部分漏洞 CVSS 评分达 9.0",
+   "url": "https://www.ithome.com/1/016/705.htm",
+   "summary": "IT之家 10 月 22 日消息，据 Phoronix 今日报道，似乎是出于偶然，Trend Micro 旗下零日漏洞计划（ZDI）提交的多份新的 Linux 内核漏洞报告被发布到了公开的 Linux 内核邮件列表（LKML）中。截至IT之家发稿，部分问题尚未合入 Linux 主线内核，已有修复方案处于测试或候选分支中。 此次涉及的漏洞分布在 Linux 内核多个子系统，影响范围包括网络通信、文件共享、虚拟化图形驱动和存储服务等。其中，SMB Direct 相关漏洞 ZDI-CAN-33549 与 KSMBD 相关漏洞 ZDI-CAN-33774 的 CVSS 评分均为 9.0，存在导致远程代",
+   "published_at": 1792678141.0,
+   "published_bj": "2026-10-22 22:09"
+  },
+  {
+   "id": "d9bcba6bc4c0945f",
+   "source": "IT之家",
+   "title": "《广播电视和网络视听“十五五”规划》印发：到 2030 年，广电媒体全面挺进互联网主战场",
+   "url": "https://www.ithome.com/1/016/704.htm",
+   "summary": "IT之家 10 月 22 日消息，今日，国家广播电视总局印发《广播电视和网络视听“十五五”规划》（以下简称《规划》）。 《规划》统筹广播电视网、交互式网络电视（IPTV）、互联网电视（OTT）和公众互联网四个业务层次，锚定“巩固提升广播电视、创新发展网络视听、融合聚合形成合力”三大工作方向，发挥“新闻 + 文艺”“内容 + 网络”的综合优势，推动广电视听行业改革突破、迭代升级。 IT之家注意到，《规划》提出，到 2030 年，广电视听改革创新取得重大突破， 广电媒体全面挺进互联网主战场 ，广电视听有力服务经济社会发展，形成广播电视和网络视听统筹发展新格局。到 2035 年，广电视听数智化转型、",
+   "published_at": 1792677857.0,
+   "published_bj": "2026-10-22 22:04"
+  },
+  {
+   "id": "d196519d7830ea28",
+   "source": "TechCrunch",
+   "title": "Developer platform Railway urges ‘all users’ to revoke secret keys after cyberattack",
+   "url": "https://techcrunch.com/2026/10/22/developer-platform-railway-urges-all-users-to-revoke-secret-keys-after-cyberattack/",
+   "summary": "The vibe-coding platform said all of its customers should revoke and rotate their private keys, after hackers were able to decrypt some customer secrets.",
+   "published_at": 1792677780.0,
+   "published_bj": "2026-10-22 22:03"
+  },
+  {
+   "id": "5f184651cff7102b",
+   "source": "IT之家",
+   "title": "尽管评价褒贬不一，《漫威金刚狼》仍成美国 9 月最畅销新游戏",
+   "url": "https://www.ithome.com/1/016/703.htm",
+   "summary": "IT之家 10 月 22 日消息，据游戏媒体 Eurogamer 今天报道，尽管《漫威金刚狼》的媒体评分并不理想，但这款由失眠组打造的游戏，依然登顶美国 9 月新游销量榜。 市场分析机构 Circana 数据显示， 《漫威金刚狼》已经成为美国 9 月最畅销新游戏 。该游戏首发当月的销售额，创下索尼自 2024 年 2 月发行《绝地潜兵 2》以来旗下游戏的最高纪录。 不过需要注意的是，将《漫威金刚狼》销售额与《绝地潜兵 2》对比有失偏颇。前者定价 70 美元 （IT之家注：现汇率约合 468.3 元人民币） ，而后者仅 40 美元 （现汇率约合 267.6 元人民币） 。 《漫威金刚狼》似乎也推",
+   "published_at": 1792677272.0,
+   "published_bj": "2026-10-22 21:54"
+  },
+  {
+   "id": "9b3565ca7bb5d8b8",
+   "source": "TechCrunch",
+   "title": "Claude Duet app is Anthropic’s bet on agents",
+   "url": "https://techcrunch.com/2026/10/22/claude-duet-app-is-anthropics-bet-on-agents/",
+   "summary": "Claude Duet is available through waitlist for Pro and Max plan users",
+   "published_at": 1792677206.0,
+   "published_bj": "2026-10-22 21:53"
+  },
+  {
+   "id": "1097fb37136ecfc9",
+   "source": "IT之家",
+   "title": "AMD 为下一代 Medusa APU 提前铺路，HIP-RT 3.2.0 新增三款 GPU 目标",
+   "url": "https://www.ithome.com/1/016/702.htm",
+   "summary": "IT之家 10 月 22 日消息，Phoronix 发现，AMD 已发布 HIP-RT 3.2.0 光线追踪库更新，为下一代 Medusa APU 添加了 GPU 支持，包括 GFX1170、GFX1171 和 GFX115E 三款。 这些标识对应的集成 GPU 被认为将采用 AMD RDNA 4m 与 RDNA 3.5 等不同架构，不过 AMD 尚未在此次更新说明中公布相关 GPU 的完整规格。 HIP-RT 是 AMD 面向 HIP 平台的光线追踪库，可供 Blender 等跨平台软件使用。此次 3.2.0 更新也是该项目自 2026 年初以来的一次重要版本更新，除新增硬件支持外，还包含性",
+   "published_at": 1792677146.0,
+   "published_bj": "2026-10-22 21:52"
+  },
+  {
+   "id": "1291c062ed713c10",
+   "source": "IT之家",
+   "title": "魅族 22 手机再补货，粉色、白色额外加享至高 450 元以旧换新补贴",
+   "url": "https://www.ithome.com/1/016/701.htm",
+   "summary": "IT之家 10 月 22 日消息，魅族科技官方今日宣布，魅族 22 手机现已补货开售，部分地区享 15% 国补。同时， 该机的粉色、白色额外加享至高 450 元以旧换新补贴 。 京东 魅族（meizu）22 3299 元起 直达链接 据IT之家此前报道， 魅族 22 手机于去年 9 月 15 日 发布 ，该机搭载第四代骁龙 8s 处理器、配备 1.5K 高刷无界屏（0.8mm 四等边“独白”面板）、采用 5000 万像素广角 + 5000 万像素 3 倍潜望长焦 + 5000 万像素超广角 + 5000 万像素前置镜头组合，定价 2999 元起。 今年 2 月 27 日， 魅族科技发布战略转型",
+   "published_at": 1792677082.0,
+   "published_bj": "2026-10-22 21:51"
+  },
+  {
+   "id": "044b286e2090e005",
+   "source": "IT之家",
+   "title": "苹果宣布为 Apple TV 上的 F1 赛事支持杜比全景声，美国大奖赛率先上线",
+   "url": "https://www.ithome.com/1/016/700.htm",
+   "summary": "IT之家 10 月 22 日消息，苹果刚刚宣布，从 2026 年美国大奖赛开始，美国地区 Apple TV 服务将为 F1 赛事提供杜比全景声（Dolby Atmos）音频支持（涵盖车队无线电通信、赛事解说、赛车引擎声和维修区现场声音等）。 美国大奖赛将于当地时间 10 月 23 日至 25 日在得克萨斯州奥斯汀的美洲赛道举行，这也将成为 Apple TV 首场支持杜比全景声直播的 F1 比赛。 苹果发布公告称，杜比全景声将与此前已支持的杜比视界（Dolby Vision）结合，为观众提供空间音频和高动态范围画面。观众可以通过兼容的苹果设备，以及支持杜比技术的电视、条形音箱和家庭影院系统观看赛",
+   "published_at": 1792676649.0,
+   "published_bj": "2026-10-22 21:44"
+  },
+  {
+   "id": "88e8c7addc967293",
+   "source": "IT之家",
+   "title": "微信安卓版 8.0.80 最新官方内测版下载发布",
+   "url": "https://www.ithome.com/1/016/699.htm",
+   "summary": "IT之家 10 月 22 日消息，微信安卓平台迎来了 8.0.80 测试版更新，本次更新安装包文件详细信息如下： 微信安卓内测版 8.0.80 (ARM64) 安装包 文件大小 272.33 MB 更新时间 2026-10-22 20:46 MD5 80bbd112d4eaea1e204d22fe4cef318b 目标 API 34 最低支持 24 (Android 7.0) 官方更新日志为： 优化了一些已知问题. 大家在 IT之家微信号 回复“ 微信 ”两字，即可获取当前最新官方内部版微信下载。 本文由机器人发布，IT之家稍后将为大家带来具体更新内容。如果你发现了日志中未提及的更新点，欢迎发",
+   "published_at": 1792676142.0,
+   "published_bj": "2026-10-22 21:35"
+  },
+  {
+   "id": "e2a8e7648aef27d5",
+   "source": "IT之家",
+   "title": "小鹏汽车 00 后美女产品经理为 MONA L05 发布会上“老登”用词道歉：本意是玩笑，承认让人不适",
+   "url": "https://www.ithome.com/1/016/698.htm",
+   "summary": "IT之家 10 月 22 日消息，因为在小鹏 MONA L05 首秀发布会上多次使用“老登”这一称呼，还呼吁大家拒绝“登味审美”，小鹏汽车 00 后产品经理恩塔 Etta 今日发布道歉视频。 她在视频中解释称，“老登”是自己和团队成员平时用来开玩笑的词，并非恶意，但该词确实让部分人感到不适，对此表示抱歉，并称会认真反思。 此次争议言论发生在 10 月 15 日的小鹏 MONA L05 预售发布会上，何小鹏当时在巴黎连线后将舞台交给年轻产品团队，Etta 登台讲解时风格活泼，因形象出众被网友称为“最美产品经理”。 实际上，这场发布会的设计本身带有明确的传播意图。据小鹏介绍，MONA 产品团队中 ",
+   "published_at": 1792676084.0,
+   "published_bj": "2026-10-22 21:34"
+  },
+  {
+   "id": "f3e2fc88a01a4004",
+   "source": "Hacker News",
+   "title": "eMudhra to Exit Global SSL/TLS Certificate Business",
+   "url": "https://emudhra.com/en/press-release/emudhra-to-exit-global-ssl-tls-certificate-business",
+   "summary": "Article URL: https://emudhra.com/en/press-release/emudhra-to-exit-global-ssl-tls-certificate-business Comments URL: https://news.ycombinator.com/item?id=50195110 Points: 26 # Comments: 6",
+   "published_at": 1792676019.0,
+   "published_bj": "2026-10-22 21:33"
+  },
+  {
+   "id": "d19236f04298c61d",
+   "source": "IT之家",
+   "title": "甲骨文发布 Java SE 高危漏洞安全警报，用户应尽快升级",
+   "url": "https://www.ithome.com/1/016/697.htm",
+   "summary": "IT之家 10 月 22 日消息，甲骨文公司今日发布安全通报，披露编号为 CVE-2026-91403 的高危安全漏洞。影响 Oracle Java SE、Oracle GraalVM for JDK 和 Oracle GraalVM Enterprise Edition 软件，CVSS 3.1 评分为 9.1 分，可让黑客在无身份验证的情况下发起攻击。 据官方公布数据， 该漏洞涉及 Java 安全套接字扩展（IT之家注：JSSE）组件 ，攻击复杂度较低，无需任何权限，也不需要用户交互。若漏洞被成功利用，可能对系统机密性和完整性造成高等级影响，但不会影响系统可用性。 同时攻击者可通过调用相关组",
+   "published_at": 1792675945.0,
+   "published_bj": "2026-10-22 21:32"
+  },
+  {
+   "id": "c20067982753909a",
+   "source": "IT之家",
+   "title": "一加 Ace 7 Pro 官宣搭载第五代骁龙 8 至尊版，10 月 29 日发布",
+   "url": "https://www.ithome.com/1/016/696.htm",
+   "summary": "IT之家 10 月 22 日消息，一加手机今日官宣一加 Ace 7 Pro 搭载第五代骁龙 8 至尊版，全新一代「风驰游戏内核」出厂写入芯片底层。 一加 Ace 7 系列搭载 性能风冷系统 ，同时做到稳帧和低温，行业首创「双路冰河风冷系统」，号称有“三大核心技术”： 双路出风架构，热风吹走，冷风吹手。芯片“开空调”，手指“吹风扇”。 游戏显卡级塔式鳍片。采用与专业显卡和 PC 散热器相同的塔式鳍片结构，散热效率超高。 智能控温系统。多一颗专属传感器，精准控制温度。 IT之家注意到，一加 Ace 7 系列手机已在电商平台开启预约，预计有一加 Ace 7 与一加 Ace 7 Pro 两款新机。该机",
+   "published_at": 1792675731.0,
+   "published_bj": "2026-10-22 21:28"
+  },
+  {
+   "id": "9ca589c45b0a11fc",
+   "source": "TechCrunch",
+   "title": "Nirva raises $33M for a pendant that only listens to you",
+   "url": "https://techcrunch.com/2026/10/22/nirva-raises-33m-for-a-pendant-that-only-listens-to-you/",
+   "summary": "Nirva will ship its $249 ambient AI pendant by the end of the year.",
+   "published_at": 1792675612.0,
+   "published_bj": "2026-10-22 21:26"
+  },
+  {
+   "id": "3f5a3198581e4a1a",
+   "source": "Hacker News",
+   "title": "Crystal 1.22.0 Is Released",
+   "url": "https://crystal-lang.org/2026/10/12/1.22.0-released/",
+   "summary": "Article URL: https://crystal-lang.org/2026/10/12/1.22.0-released/ Comments URL: https://news.ycombinator.com/item?id=50194938 Points: 14 # Comments: 0",
+   "published_at": 1792675213.0,
+   "published_bj": "2026-10-22 21:20"
+  },
+  {
+   "id": "ab5f21b33e16890a",
+   "source": "Hacker News",
+   "title": "eMudhra to Exit Global SSL/TLS Certificate Business;",
+   "url": "https://news.ycombinator.com/item?id=50194909",
+   "summary": "Press Release titled “eMudhra to Exit global SSL/TLS Certificate Business; Will Sharpen Focus on Core Enterprise Solutions and trust services other than SSL/TLS” https://www.bseindia.com/xml-data/corpfiling/AttachLive/82503e00-335c-49dc-b022-f4633a08b642.pdf Comments URL: https://news.ycombinator.co",
+   "published_at": 1792675049.0,
+   "published_bj": "2026-10-22 21:17"
   },
   {
    "id": "304ccd54159c72c7",
@@ -73,6 +244,15 @@
    "url": "https://techcrunch.com/2026/10/22/deepseek-reportedly-raises-15b-days-after-us-restrictions/",
    "summary": "DeepSeek has reportedly raised $15 billion in one of China's largest funding rounds, just days after the US ordered federal agencies to remove its technology over national security concerns.",
    "published_at": 1792674673.0,
+   "published_bj": "2026-10-22 21:11"
+  },
+  {
+   "id": "a79a105f5b95b5b9",
+   "source": "Hacker News",
+   "title": "Woman faces six years in prison over Cash App account she never opened",
+   "url": "https://www.techspot.com/news/114296-woman-spends-three-nights-jail-faces-six-years.html",
+   "summary": "Article URL: https://www.techspot.com/news/114296-woman-spends-three-nights-jail-faces-six-years.html Comments URL: https://news.ycombinator.com/item?id=50194833 Points: 118 # Comments: 51",
+   "published_at": 1792674660.0,
    "published_bj": "2026-10-22 21:11"
   },
   {
@@ -199,6 +379,15 @@
    "url": "https://www.ithome.com/1/016/676.htm",
    "summary": "IT之家 10 月 22 日消息，比亚迪腾势汽车总经理李慧今日宣布， 腾势 N8“科技新境宽五座 SUV”将于 10 月 26 日开启小订，11 月正式上市 。 据IT之家此前报道，比亚迪腾势汽车在 10 月 10 日公布了腾势 N8 三大全新车色 ——“极光绿”、“深空蓝”和“日光橙”。 腾势 N8 是一款大五座纯电 SUV，新车长 5150mm、宽 1999mm、高 1820mm，轴距 3075mm；搭载第二代刀片电池及闪充技术，纯电续航可达 1003km。 工信部申报信息显示 ，腾势 N8 有单电机版（320kw）、高性能单电机版（370kw）和三电机版（270/310/310kw）三个",
    "published_at": 1792672842.0,
+   "published_bj": "2026-10-22 20:40"
+  },
+  {
+   "id": "61a7817009f9c9d5",
+   "source": "Hacker News",
+   "title": "The Last Museum: Semantic search across 5.8M artworks from major museums",
+   "url": "https://lastmuseum.com/",
+   "summary": "Article URL: https://lastmuseum.com/ Comments URL: https://news.ycombinator.com/item?id=50194522 Points: 5 # Comments: 0",
+   "published_at": 1792672804.0,
    "published_bj": "2026-10-22 20:40"
   },
   {
