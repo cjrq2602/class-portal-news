@@ -1,7 +1,7 @@
 {
  "date": "2026-10-23",
- "generated_at": 1792686714.5644844,
- "count": 11,
+ "generated_at": 1792688098.5429323,
+ "count": 17,
  "items": [
   {
    "id": "15fc56ed122d05aa",
@@ -40,6 +40,42 @@
    "published_bj": "2026-10-23 01:00"
   },
   {
+   "id": "552f10cb3f68c565",
+   "source": "TechCrunch",
+   "title": "Chinese hackers spied on thousands of companies after breaching IT giant ConnectWise",
+   "url": "https://techcrunch.com/2026/10/22/chinese-hackers-spied-on-thousands-of-companies-after-breaching-it-giant-connectwise/",
+   "summary": "Microsoft points the blame for ConnectWise's breach at a China-aligned hacker, which relied on AI agents to rapidly hack into thousands of its customers.",
+   "published_at": 1792687637.0,
+   "published_bj": "2026-10-23 00:47"
+  },
+  {
+   "id": "52ef722672364788",
+   "source": "cnBeta",
+   "title": "美国IPO市场陷入“瘫痪” Anthropic被寄望打破僵局",
+   "url": "https://www.cnbeta.com.tw/articles/tech/1583420.htm",
+   "summary": "围绕人工智能（AI）的争议令一些企业被迫按下了IPO暂停键，在Anthropic上市一天天迫近之际，数十亿美元资金和长达数月的筹备工作陷入停顿。Truist Financial股票资本市场主管West Riggs表示：“一切好像瘫痪了似的。市场必须先理清头绪。” 阅读全文",
+   "published_at": 1792686947.0,
+   "published_bj": "2026-10-23 00:35"
+  },
+  {
+   "id": "13780b573b4bc3cf",
+   "source": "cnBeta",
+   "title": "PHP漏洞危机进入第二天：黑客攻击激增至百万次 多国政府服务仍处于中断状态",
+   "url": "https://www.cnbeta.com.tw/articles/tech/1583418.htm",
+   "summary": "全球针对PHP关键漏洞的应急修复行动进入第二天，形势持续紧张。研究人员警告，在漏洞公开披露前后，黑客的攻击尝试已从数千次骤升至数百万次，部分系统被入侵的可能性不可排除。周四，英国确认，超过30项政府服务仍处于下线状态，以待安全更新完成部署。电信运营商Orange也于周四宣布暂停部分网站和应用的访问。 阅读全文",
+   "published_at": 1792686911.0,
+   "published_bj": "2026-10-23 00:35"
+  },
+  {
+   "id": "7a56f657744b249b",
+   "source": "Hacker News",
+   "title": "Arc Is Sunsetting",
+   "url": "https://arc.net/",
+   "summary": "Article URL: https://arc.net/ Comments URL: https://news.ycombinator.com/item?id=50197601 Points: 13 # Comments: 2",
+   "published_at": 1792686467.0,
+   "published_bj": "2026-10-23 00:27"
+  },
+  {
    "id": "9a3a4d3cf38d7b94",
    "source": "InfoQ中文",
    "title": "企业有需求，FDE 团队有能力，为什么 AI 项目仍难落地？",
@@ -47,6 +83,15 @@
    "summary": "点击查看原文>",
    "published_at": 1792686269.0,
    "published_bj": "2026-10-23 00:24"
+  },
+  {
+   "id": "ab862b91e42e1432",
+   "source": "Hacker News",
+   "title": "Where Wealth Is Moving in America",
+   "url": "https://thestatedtruth.com/?p=28732",
+   "summary": "Article URL: https://thestatedtruth.com/?p=28732 Comments URL: https://news.ycombinator.com/item?id=50197533 Points: 27 # Comments: 29",
+   "published_at": 1792686151.0,
+   "published_bj": "2026-10-23 00:22"
   },
   {
    "id": "9aff388d5e97fd26",
@@ -73,6 +118,15 @@
    "url": "https://www.cnbeta.com.tw/articles/tech/1583414.htm",
    "summary": "美国总统唐纳德·特朗普近日透露，他曾认真考虑将大西洋更名，但在与Google首席执行官桑达尔·皮查伊沟通后，决定暂时放弃这一想法。按照特朗普在一场集会上的说法，皮查伊告诉他，海洋与湖泊、海湾不同，涉及的国家太多，因此不希望Google地图参与这次更名。特朗普随后表示，自己可能会保留“大西洋”这一名称，但又提出，可以考虑将太平洋改称“美国洋”。 阅读全文",
    "published_at": 1792685681.0,
+   "published_bj": "2026-10-23 00:14"
+  },
+  {
+   "id": "da76f0396a49c7ec",
+   "source": "Hacker News",
+   "title": "Getting ready to operate GNU Taler in Germany",
+   "url": "https://www.taler.net/en/news/2026-13.html",
+   "summary": "Article URL: https://www.taler.net/en/news/2026-13.html Comments URL: https://news.ycombinator.com/item?id=50197404 Points: 9 # Comments: 0",
+   "published_at": 1792685671.0,
    "published_bj": "2026-10-23 00:14"
   },
   {
