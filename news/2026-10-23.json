@@ -1,8 +1,116 @@
 {
  "date": "2026-10-23",
- "generated_at": 1792707878.2748833,
- "count": 57,
+ "generated_at": 1792710373.7333558,
+ "count": 70,
  "items": [
+  {
+   "id": "46bf130a3a9238aa",
+   "source": "IT之家",
+   "title": "苹果更新 iWork 生产力套件 15.4.1：引入 AI 智能助理，适配 iPhone Duo",
+   "url": "https://www.ithome.com/1/016/762.htm",
+   "summary": "IT之家 10 月 23 日消息，苹果公司今天（10 月 23 日）更新其 iWork 生产力套件，为 Keynote、Numbers 和 Pages 添加了“智能助理”（Intelligent Assistant）功能，以测试版邀请 Apple 创作坊（Apple Creator Studio）订阅用户体验。 虽然发布说明中没有提及， 但此次更新还为这三款应用添加适配 iPhone Duo。 IT之家附上 Pages 15.4.1 更新内容如下： 适用于 Apple 创作坊订阅用户： “智能助理”（Intelligent Assistant）功能，该功能目前仅限美式英语，需要搭载 iOS 2",
+   "published_at": 1792710182.0,
+   "published_bj": "2026-10-23 07:03"
+  },
+  {
+   "id": "317f120161d0119a",
+   "source": "cnBeta",
+   "title": "美国9月Xbox Series销量同比下降27% 创品牌同期新低",
+   "url": "https://www.cnbeta.com.tw/articles/game/1583468.htm",
+   "summary": "Circana公布的美国9月硬件市场数据显示，Xbox Series主机销量同比下降27%，跌至Xbox品牌历年9月最低水平，同时刷新了一年前创下的同期低点。 阅读全文",
+   "published_at": 1792709699.0,
+   "published_bj": "2026-10-23 06:54"
+  },
+  {
+   "id": "d5a0a5333f23317f",
+   "source": "cnBeta",
+   "title": "OpenAI CEO奥特曼：数学家已从“我们完了”转向接受AI",
+   "url": "https://www.cnbeta.com.tw/articles/tech/1583466.htm",
+   "summary": "据Business Insider报道，OpenAI CEO山姆·奥特曼（Sam Altman）在斯坦福大学的一次演讲中表示，许多数学家对OpenAI进军该领域的态度，已从最初“我们完了”的悲观，转向接受AI如今在数字与证明研究中无法剥离的角色。他面对的，是数百名对职业前景感到不安的学生。 阅读全文",
+   "published_at": 1792709555.0,
+   "published_bj": "2026-10-23 06:52"
+  },
+  {
+   "id": "722c0aac76feff66",
+   "source": "cnBeta",
+   "title": "OpenAI接近完成最高300亿美元融资 投前估值达1.25万亿美元",
+   "url": "https://www.cnbeta.com.tw/articles/tech/1583464.htm",
+   "summary": "10月22日，OpenAI正接近完成一轮最高300亿美元的融资，投前估值达到1.25万亿美元。知情人士透露，本轮融资由阿联酋投资者和投资机构Coatue联合领投，OpenAI计划将其作为潜在首次公开募股（IPO）前的过渡性融资。 阅读全文",
+   "published_at": 1792709531.0,
+   "published_bj": "2026-10-23 06:52"
+  },
+  {
+   "id": "f50d704544154a7f",
+   "source": "cnBeta",
+   "title": "特朗普要求马斯克取消在乌克兰对星链的限制",
+   "url": "https://www.cnbeta.com.tw/articles/tech/1583462.htm",
+   "summary": "周四报道称，美国总统唐纳德·特朗普与SpaceX首席执行官埃隆·马斯克进行了交谈，并要求马斯克解除对其“星链”卫星系统的限制。报道援引未具名美国官员的话称，就该系统的速度仍被限制在每小时约100英里的问题，特朗普向马斯克表达了不满。报道称，美国和乌克兰官员表示，该卫星系统周四运行正常。 阅读全文",
+   "published_at": 1792709490.0,
+   "published_bj": "2026-10-23 06:51"
+  },
+  {
+   "id": "c6741e38df2bbba8",
+   "source": "cnBeta",
+   "title": "微软计划借助AI让原生WinUI应用开发变得更简单",
+   "url": "https://www.cnbeta.com.tw/articles/tech/1583460.htm",
+   "summary": "微软正在调整Windows 11的软件开发策略，希望借助人工智能降低原生Windows应用的开发门槛，让开发者更容易制作性能更好、界面更贴合系统设计的桌面软件。随着越来越多的应用采用Electron、WebView2等技术，将网页内容封装成桌面程序，Windows平台上出现了不少内存占用高、启动缓慢、系统集成能力有限的应用。微软如今希望通过原生开发工具与AI编程助手，扭转这一趋势。 阅读全文",
+   "published_at": 1792709453.0,
+   "published_bj": "2026-10-23 06:50"
+  },
+  {
+   "id": "2f6bb0f33c3befe5",
+   "source": "IT之家",
+   "title": "英特尔 CTO 称前沿晶圆产量最多翻倍，AI 算力扩张遭遇供应链天花板",
+   "url": "https://www.ithome.com/1/016/761.htm",
+   "summary": "IT之家 10 月 23 日消息，在接受 Dwarkesh 播客时，英特尔首席技术官（CTO）普什卡 · 拉纳德（Pushkar Ranade）表示： 即便资金充足，全球尖端晶圆产量也难以扩大十倍，更现实的增长上限约为两倍。 在播客节目中，拉纳德被问及“世界上是否有足够工具，把前沿晶圆产量提高 10 倍”。对此他回应称“不是 10 倍，但可能达到 2 倍，是的。”他认为这一限制源于整个半导体供应链协同扩产的能力，而非某个单一环节。 IT之家援引博文介绍，拉纳德指出，AI 计算能力过去十年大约以每年三倍的速度增长，但制造先进芯片所需的关键设备、洁净室和晶圆厂规模，正在成为新的产能天花板。 其中，",
+   "published_at": 1792709295.0,
+   "published_bj": "2026-10-23 06:48"
+  },
+  {
+   "id": "af78fd75f05e6c3b",
+   "source": "TechCrunch",
+   "title": "As blockchain investing falls out of vogue, a16z Crypto rebrands as a16z Frontier",
+   "url": "https://techcrunch.com/2026/10/22/as-blockchain-investing-falls-out-of-vogue-a16z-crypto-rebrands-as-a16z-frontier/",
+   "summary": "The digital asset unit, helmed by Chris Dixon, broadens its scope.",
+   "published_at": 1792708494.0,
+   "published_bj": "2026-10-23 06:34"
+  },
+  {
+   "id": "86e71f1cec994eb0",
+   "source": "cnBeta",
+   "title": "SpaceX据悉洽谈租用全美8万个通信基站 拟打造美国第四大全国性移动运营商",
+   "url": "https://www.cnbeta.com.tw/articles/science/1583458.htm",
+   "summary": "SpaceX正与美国主要通信基站运营商展开谈判，计划获得全美至少8万个地面基站的使用权，以建立覆盖全国的移动通信网络，直接挑战AT&amp;T、Verizon和T-Mobile三大传统运营商。根据10月22日披露的消息，SpaceX正在与Crown Castle等通信基础设施企业商讨基站租赁协议，潜在交易金额可能达到数十亿美元。 阅读全文",
+   "published_at": 1792708110.0,
+   "published_bj": "2026-10-23 06:28"
+  },
+  {
+   "id": "ceba987bc88ec918",
+   "source": "cnBeta",
+   "title": "iPhone Duo在澳大利亚和新西兰开售 首批预购用户开始收货",
+   "url": "https://www.cnbeta.com.tw/articles/tech/1583456.htm",
+   "summary": "苹果首款折叠屏手机iPhone Duo于10月23日在澳大利亚和新西兰正式开售，随着当地进入发售日，首批预购用户已开始收到新机，并在社交平台分享上手照片。澳大利亚有苹果直营店，新西兰则没有；当地首发情况也因此成为观察门店现货供应的一个窗口。 阅读全文",
+   "published_at": 1792708035.0,
+   "published_bj": "2026-10-23 06:27"
+  },
+  {
+   "id": "7a670ccec409e678",
+   "source": "cnBeta",
+   "title": "微软发布修复补丁 Windows 11音频故障导致部分游戏和应用崩溃问题获解决",
+   "url": "https://www.cnbeta.com.tw/articles/tech/1583454.htm",
+   "summary": "微软近日确认，已通过2026年10月累计更新修复一项影响Windows 11的音频相关缺陷。该问题此前导致部分游戏和应用程序在运行过程中意外崩溃，严重时甚至无法正常启动，引发部分用户投诉。 阅读全文",
+   "published_at": 1792707997.0,
+   "published_bj": "2026-10-23 06:26"
+  },
+  {
+   "id": "af6140dfd309a368",
+   "source": "cnBeta",
+   "title": "全球PC出货量第三季度暴跌逾两成 AI数据中心争抢内存推高电脑价格",
+   "url": "https://www.cnbeta.com.tw/articles/tech/1583452.htm",
+   "summary": "受内存、固态硬盘及其他关键零部件价格大幅上涨影响，全球个人电脑市场在2026年第三季度遭遇明显下滑。市场研究机构Counterpoint Research的数据显示，全球PC出货量同比下降约21%，结束了此前持续两年多的增长趋势。随着人工智能数据中心对内存资源的需求持续攀升，消费级电脑正面临成本上升、低价机型供应减少以及消费者推迟换机等多重压力。 阅读全文",
+   "published_at": 1792707851.0,
+   "published_bj": "2026-10-23 06:24"
+  },
   {
    "id": "69711f388afeca1a",
    "source": "cnBeta",
@@ -65,6 +173,15 @@
    "summary": "Article URL: https://train.samismith.com/ Comments URL: https://news.ycombinator.com/item?id=50201414 Points: 7 # Comments: 3",
    "published_at": 1792705112.0,
    "published_bj": "2026-10-23 05:38"
+  },
+  {
+   "id": "b81bb421046c5836",
+   "source": "Hacker News",
+   "title": "Jared Kushner Hacked Phone Reveals Secret Negotiations, Millions in Transactions",
+   "url": "https://www.vanityfair.com/story/jared-kushner-hacked-phone-secret-negotiations",
+   "summary": "Article URL: https://www.vanityfair.com/story/jared-kushner-hacked-phone-secret-negotiations Comments URL: https://news.ycombinator.com/item?id=50201259 Points: 98 # Comments: 25",
+   "published_at": 1792704281.0,
+   "published_bj": "2026-10-23 05:24"
   },
   {
    "id": "9bd2a4bffebf72f8",
