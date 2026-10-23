@@ -1,8 +1,44 @@
 {
  "date": "2026-10-23",
- "generated_at": 1792712811.1406422,
- "count": 79,
+ "generated_at": 1792715458.4239695,
+ "count": 84,
  "items": [
+  {
+   "id": "b00bbc8da1578e1b",
+   "source": "Hacker News",
+   "title": "Mapping the Northern Sky",
+   "url": "https://www.maps.com/star-map-charts-stars-and-constellations-of-northern-hemisphere/",
+   "summary": "Article URL: https://www.maps.com/star-map-charts-stars-and-constellations-of-northern-hemisphere/ Comments URL: https://news.ycombinator.com/item?id=50202766 Points: 5 # Comments: 0",
+   "published_at": 1792713399.0,
+   "published_bj": "2026-10-23 07:56"
+  },
+  {
+   "id": "21e0cc557e6a4e08",
+   "source": "TechCrunch",
+   "title": "Mark Zuckerberg’s creative plan to pay California’s proposed billionaire tax without losing control of Meta",
+   "url": "https://techcrunch.com/2026/10/22/mark-zuckerbergs-creative-plan-to-pay-californias-proposed-billionaire-tax-without-losing-control-of-meta/",
+   "summary": "A newly launched stock class being offered was partially engineered to help Meta founder and CEO Mark Zuckerberg pay the \"billionaire's tax,\" should the measure be voted into law.",
+   "published_at": 1792713041.0,
+   "published_bj": "2026-10-23 07:50"
+  },
+  {
+   "id": "22d1c79a5a946387",
+   "source": "Hacker News",
+   "title": "Docker Is Weird",
+   "url": "https://codeandcake.dev/posts/2026-10-22-docker-is-weird",
+   "summary": "Article URL: https://codeandcake.dev/posts/2026-10-22-docker-is-weird Comments URL: https://news.ycombinator.com/item?id=50202681 Points: 10 # Comments: 1",
+   "published_at": 1792712756.0,
+   "published_bj": "2026-10-23 07:45"
+  },
+  {
+   "id": "6ecfb753000ad812",
+   "source": "Hacker News",
+   "title": "AI compute is the new oil–and needs a new market",
+   "url": "https://www.economist.com/finance-and-economics/2026/10/22/ai-compute-is-the-new-oil-and-needs-a-new-market",
+   "summary": "Article URL: https://www.economist.com/finance-and-economics/2026/10/22/ai-compute-is-the-new-oil-and-needs-a-new-market Comments URL: https://news.ycombinator.com/item?id=50202671 Points: 3 # Comments: 2",
+   "published_at": 1792712716.0,
+   "published_bj": "2026-10-23 07:45"
+  },
   {
    "id": "d870216cc2e8ce5d",
    "source": "IT之家",
@@ -91,6 +127,15 @@
    "url": "https://www.cnbeta.com.tw/articles/game/1583468.htm",
    "summary": "Circana公布的美国9月硬件市场数据显示，Xbox Series主机销量同比下降27%，跌至Xbox品牌历年9月最低水平，同时刷新了一年前创下的同期低点。 阅读全文",
    "published_at": 1792709699.0,
+   "published_bj": "2026-10-23 06:54"
+  },
+  {
+   "id": "ece4b757cbc2564d",
+   "source": "Hacker News",
+   "title": "LLMs are making formal software verification feasible at a much larger scale",
+   "url": "https://www.anthropic.com/research/formal-verification",
+   "summary": "Article URL: https://www.anthropic.com/research/formal-verification Comments URL: https://news.ycombinator.com/item?id=50202217 Points: 35 # Comments: 5",
+   "published_at": 1792709683.0,
    "published_bj": "2026-10-23 06:54"
   },
   {
