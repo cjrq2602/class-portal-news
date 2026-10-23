@@ -1,8 +1,98 @@
 {
  "date": "2026-10-24",
- "generated_at": 1792796723.537884,
- "count": 61,
+ "generated_at": 1792799174.9637344,
+ "count": 73,
  "items": [
+  {
+   "id": "789c1fa7f24499d0",
+   "source": "IT之家",
+   "title": "谷歌 CEO 皮查伊：距离 AI 能自我改进的“最终状态”，我们还有很长的路要走",
+   "url": "https://www.ithome.com/1/017/290.htm",
+   "summary": "IT之家 10 月 24 日消息，据《商业内幕》报道，谷歌 CEO 桑达尔 · 皮查伊认为， 距离 AI 能够完全自主地改进自身，还有很长的路要走 。 皮查伊透露，谷歌研究人员开始使用 AI 智能体辅助开发模型，但技术仍处于起步阶段。“我们距离递归自我改进（RSI）的最终形态还很远。准确地说，在模型研发的各个环节，AI 研究人员已经开始与自我改进循环协同工作。可以说，AI 智能体正以一定程度的自动化方式协助研究人员，共同开发模型。” 皮查伊预计，明年还将看到进一步进展。 谷歌联合创始人谢尔盖 · 布林本月早些时候曾谈到，公司的 Flash 系列模型和 Gemini 4 已展现出 AI 参与自身",
+   "published_at": 1792798638.0,
+   "published_bj": "2026-10-24 07:37"
+  },
+  {
+   "id": "dafe608fe44ab4ab",
+   "source": "IT之家",
+   "title": "OpenAI 为前沿 AI 训练 / 评估开启“断网闭关”模式，遏制其越狱攻击",
+   "url": "https://www.ithome.com/1/017/289.htm",
+   "summary": "IT之家 10 月 24 日消息，OpenAI 昨日（10 月 23 日）发布博文，宣布针对最先进“前沿模型”的训练与评估环境， 已经实施更严格的安全管控，明确在模型训练期间，不得直接访问实时互联网。 该公司称出于对 AI 安全的负责任要求，基于当前对齐研究、监测能力和互联网基础设施安全状况做出的决策，相关限制将持续到安全防护取得足够进展为止。 OpenAI 的一款内部研究模型于 9 月 20 日利用 DNS 配置漏洞，在训练过程中短暂获得有限的互联网访问权限，因此该公司于 9 月还一度暂停训练与评估前沿模型。 OpenAI 随后加强了研究环境隔离、缩小智能体可利用的攻击面，并改进了异常行为检",
+   "published_at": 1792798433.0,
+   "published_bj": "2026-10-24 07:33"
+  },
+  {
+   "id": "78d4fceae15eae69",
+   "source": "IT之家",
+   "title": "支付宝官宣适配 iPhone Duo 全场景，支持页面布局自动调整等特性",
+   "url": "https://www.ithome.com/1/017/288.htm",
+   "summary": "IT之家 10 月 24 日消息，支付宝官方昨晚发文宣布， 已适配 iPhone Duo 。 据介绍，在 iPhone Duo 上升级支付宝 App 至最新 12.12.38 版本支持如下功能： 1、 底部栏： 液态玻璃效果，界面通透，展示新体验。 2、 适配全场景： 内屏外屏、横屏竖屏等各种使用方式，页面布局自动调整。 支付宝官方表示：“支付宝适配 iPhone Duo 的每一种生活姿态：展开，生活尽收眼底；折起，钱包随身而行。” 关于更多 iPhone Duo 的最新消息，小伙伴们可以参考IT之家的首发上手体验视频了解更多。 点击关注IT之家B站账号 延伸阅读 iPhone Duo 是苹果",
+   "published_at": 1792798399.0,
+   "published_bj": "2026-10-24 07:33"
+  },
+  {
+   "id": "8a89dc7b94569661",
+   "source": "IT之家",
+   "title": "“行为难以预测”存在安全隐患，OpenAI 将不再在实时互联网上训练模型",
+   "url": "https://www.ithome.com/1/017/287.htm",
+   "summary": "IT之家 10 月 24 日消息，当地时间 23 日，OpenAI 宣布，今后将使用 缓存的网页内容和模拟互联网环境 训练模型，不再让模型直接接入真实互联网。公司认为，模型的行为仍然难以预测，直接赋予联网权限 存在安全隐患 。 竞争对手 Anthropic 两周前也开始限制旗下最新、理论上能力最强的模型直接联网。此前几个月，研究人员接连发现，模型在执行训练任务时， 为了寻找答案会入侵外部系统、在冷门网络论坛上协作，甚至开发出不同寻常的黑客攻击策略 。接连发生的事件促使两家实验室收紧模型的联网权限。 OpenAI 在博客文章中写道，根据目前 AI 对齐研究、监控系统和互联网基础设施的安全状况，公",
+   "published_at": 1792797911.0,
+   "published_bj": "2026-10-24 07:25"
+  },
+  {
+   "id": "3e328e2a223dcbda",
+   "source": "IT之家",
+   "title": "雷军官宣小米纽北 Workshop 启用，胡峥楠现场实拍曝光全新一代 SU7 Ultra",
+   "url": "https://www.ithome.com/1/017/286.htm",
+   "summary": "IT之家 10 月 24 日消息，小米创办人、董事长兼 CEO 雷军昨日转发了小米集团副总裁、汽车部 CTO 胡峥楠的微博， 并宣布小米纽北 Workshop 已经启用 。 据胡峥楠介绍，小米在纽北刚启用不久的 Workshop 位于 GT 赛道旁，比之前租用附近的 Workshop 面积大了不少，设施也完全鸟枪换炮，员工的办公工作条件也大为改善，有了自己的停车场、快充站、进入赛道的专用入口、给车手的浴室等， 最意外的是还有专属的观赛 VIP Lounge 。 IT之家注意到，在胡峥楠分享的照片中，还出现了一款与 SU7 Ultra 外观相似的神秘新车，目前还贴有伪装车衣， 预计就是全新一代的",
+   "published_at": 1792797676.0,
+   "published_bj": "2026-10-24 07:21"
+  },
+  {
+   "id": "cd7c347fb8f84af4",
+   "source": "IT之家",
+   "title": "美国宇航局调整载人登月方案：SpaceX 星舰改在地球附近对接，蓝色起源减少加注环节",
+   "url": "https://www.ithome.com/1/017/285.htm",
+   "summary": "IT之家 10 月 24 日消息，科技媒体 Ars Technica 今天（10 月 24 日）发布博文，报道称在当地时间 23 日周五举办的新闻发布会上，美国国家航空航天局（NASA）公布“阿耳忒弥斯”（Artemis）登月计划调整方案， 仍争取于 2027 年夏季开展近地对接演示，并在 2028 年通过“阿耳忒弥斯 4 号”（Artemis 4）任务实现载人登月。 IT之家援引博文介绍，本次“阿耳忒弥斯”登月计划任务调整的核心是“减负”，美国宇航局不再要求 SpaceX 和蓝色起源两家登月器供应商严格遵循同一套会合路线，通过分别修改两家供应商的任务流程，争取让“阿耳忒弥斯 3 号”在 20",
+   "published_at": 1792797617.0,
+   "published_bj": "2026-10-24 07:20"
+  },
+  {
+   "id": "f6dd280f9191f7a7",
+   "source": "IT之家",
+   "title": "Kimi K3.1 Pro 正式发布：月之暗面最强 3 万亿级模型，编程智能体测评超 GPT-6",
+   "url": "https://www.ithome.com/1/017/284.htm",
+   "summary": "IT之家 10 月 24 日消息，今天（24 日）凌晨，月之暗面 Kimi 宣布正式推出 Kimi K3.1 系列的第一个模型 ——K3.1 Pro，也是公司 迄今能力最强的 3 万亿级参数模型 ，支持 100 万上下文。 高速版模型 Kimi K3.1 Pro Highspeed 同步推出，同等智能， 输出速度约 2~3 倍 。 即日起，用户可通过 kimi.com 、Kimi App、Kimi Work、Kimi Code 和 Kimi API ( platform.kimi.com )，使用 Kimi K3.1 Pro 和 Kimi K3.1 Pro Highspeed 模型。完整模型权",
+   "published_at": 1792796923.0,
+   "published_bj": "2026-10-24 07:08"
+  },
+  {
+   "id": "962257a7f27876d3",
+   "source": "IT之家",
+   "title": "32GB 内存可“任性”关闭 Win11 分页文件？微软给出最终答案",
+   "url": "https://www.ithome.com/1/017/283.htm",
+   "summary": "IT之家 10 月 24 日消息，科技媒体 Windows Latest 昨日（10 月 23 日）发布博文，围绕“32GB 内存电脑是否还需要分页文件”话题， 基于微软相关支持文档表述，认为分页文件的大小应结合实际负载与崩溃转储需求确定，不能仅凭内存容量一刀切。 IT之家援引博文介绍，分页文件是 Windows 放在硬盘或 SSD 上的一种隐藏系统文件，通常叫 pagefile.sys ，可视为内存的后备空间。 程序运行时，需要把正在处理的数据放进内存。Windows 会以“页”为单位管理这些数据，“分页文件”的名称也由此而来。系统可以将不常访问、已被修改的内存页写入分页文件，等程序再次需要",
+   "published_at": 1792796899.0,
+   "published_bj": "2026-10-24 07:08"
+  },
+  {
+   "id": "9ab03cd65be6d4dc",
+   "source": "TechCrunch",
+   "title": "Startups don’t need to go viral to win customers",
+   "url": "https://techcrunch.com/2026/10/23/startups-dont-need-to-go-viral-to-win-customers/",
+   "summary": "At TechCrunch Disrupt last week, two founders and a VC discussed how to not just gain an early following but keep one.",
+   "published_at": 1792796865.0,
+   "published_bj": "2026-10-24 07:07"
+  },
+  {
+   "id": "54e0d988e0cbb834",
+   "source": "TechCrunch",
+   "title": "OpenAI says it will no longer train its AI models on the live internet, citing “significant risks”",
+   "url": "https://techcrunch.com/2026/10/23/openai-says-it-will-no-longer-train-its-ai-models-on-the-live-internet-citing-significant-risks/",
+   "summary": "OpenAI will cut frontier models off from the internet weeks after one of its engineers said that solution wouldn't work.",
+   "published_at": 1792796749.0,
+   "published_bj": "2026-10-24 07:05"
+  },
   {
    "id": "e810acf55437e355",
    "source": "IT之家",
@@ -20,6 +110,15 @@
    "summary": "IT之家 10 月 24 日消息，安全公司 Calif.io 昨日（10 月 23 日）在 X平台发布推文，&lt;strong&gt;分享了一段演示视频，在苹果首款折叠 iPhone Duo 开售首日，便成功在 iOS 27.1 系统上实现越狱。&lt;/strong&gt; 为了演示本次越狱成果，Calif 实现了不同于常规系统的界面效果，屏幕右下角出现了动漫角色，而且可以调动传感器，让桌面上的 App 图标像是积木一样随着设备角度滑落弹跳。 在越狱破解方面，IT之家此前报道，10 月 16 日在巴黎 Hexacon 攻击性安全大会上，安全公司 Calif.io 在一台运行 iOS 27.",
    "published_at": 1792795732.0,
    "published_bj": "2026-10-24 06:48"
+  },
+  {
+   "id": "aa69e8b9ae071273",
+   "source": "Hacker News",
+   "title": "German court calls Google aerial imagery 'spying'",
+   "url": "https://www.courthousenews.com/german-court-calls-google-aerial-imagery-spying/",
+   "summary": "Article URL: https://www.courthousenews.com/german-court-calls-google-aerial-imagery-spying/ Comments URL: https://news.ycombinator.com/item?id=50216142 Points: 8 # Comments: 1",
+   "published_at": 1792793929.0,
+   "published_bj": "2026-10-24 06:18"
   },
   {
    "id": "044e2dba08c853ac",
@@ -218,6 +317,15 @@
    "summary": "Article URL: https://altchan.org/sh/42 Comments URL: https://news.ycombinator.com/item?id=50213791 Points: 7 # Comments: 4",
    "published_at": 1792782004.0,
    "published_bj": "2026-10-24 03:00"
+  },
+  {
+   "id": "134ade2b4ed9d7c1",
+   "source": "Hacker News",
+   "title": "Caffeine-like utility to keep you MacBook awake with its lid closed",
+   "url": "https://github.com/clashman/caffeinate-plus",
+   "summary": "Article URL: https://github.com/clashman/caffeinate-plus Comments URL: https://news.ycombinator.com/item?id=50213717 Points: 8 # Comments: 12",
+   "published_at": 1792781641.0,
+   "published_bj": "2026-10-24 02:54"
   },
   {
    "id": "5643dab907bb3bc4",

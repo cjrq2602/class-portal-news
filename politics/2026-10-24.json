@@ -1,8 +1,17 @@
 {
  "date": "2026-10-24",
- "generated_at": 1792796724.7931921,
- "count": 14,
+ "generated_at": 1792799178.0037904,
+ "count": 15,
  "items": [
+  {
+   "id": "c6080d10fc559cef",
+   "source": "中新网即时",
+   "title": "10月24日新闻早报",
+   "url": "https://www.chinanews.com.cn/iframe/2026/10-24/10720171.shtml",
+   "summary": "",
+   "published_at": 1792796974.0,
+   "published_bj": "2026-10-24 07:09"
+  },
   {
    "id": "7665588b6d0a7865",
    "source": "中新网即时",
