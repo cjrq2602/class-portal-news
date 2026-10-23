@@ -1,7 +1,7 @@
 {
  "date": "2026-10-23",
- "generated_at": 1792754778.0545354,
- "count": 371,
+ "generated_at": 1792757208.9717367,
+ "count": 389,
  "items": [
   {
    "id": "3d9704c81fe94cc7",
@@ -49,6 +49,42 @@
    "published_bj": "2026-10-23 20:03"
   },
   {
+   "id": "eadb234c8b104dc8",
+   "source": "IT之家",
+   "title": "首发 1499 元，小米米家净水器 3 1200G 上架预售",
+   "url": "https://www.ithome.com/1/017/241.htm",
+   "summary": "IT之家 10 月 23 日消息，小米米家净水器 3 1200G 上架预售，10 月 30 日 20 点开抢，首发价 1499 元。 IT之家从商品页面获悉，该产品采用纯物理过滤技术，滤材不添加阻垢剂。配合滤芯自净化技术，主动冲洗管路陈水，确保每杯水都新鲜纯净。通过母婴级净水认证，出水水质 0 双酚 A，累计总净水量高达 50 吨。 新品搭载 13 级鲜活净水过滤系统，过滤精度达 0.0001 微米，从过滤、冲洗到出水全链路层层拦截，高效滤除自来水中杂质、余氯、重金属、细菌、病毒等 145 种污染物 。针对净水器久置不用易滋生细菌的问题，后置抗菌滤芯配合出水管路内置长效抗菌材质，有效阻断后端细",
+   "published_at": 1792756710.0,
+   "published_bj": "2026-10-23 19:58"
+  },
+  {
+   "id": "9c082d42a614b560",
+   "source": "IT之家",
+   "title": "沃尔沃 CEO 塞缪尔森：中国市场变化太快，欧洲开发的车型已难满足当地消费者需求",
+   "url": "https://www.ithome.com/1/017/240.htm",
+   "summary": "IT之家 10 月 23 日消息，沃尔沃汽车 CEO 哈坎 · 塞缪尔森（Håkan Samuelsson）表示，中国汽车市场的变化速度超出公司此前预期，过去依靠欧洲研发、面向全球市场销售的车型策略，已难以满足中国消费者的需求。 据汽车媒体 AutoTech Plus 报道，塞缪尔森在谈及全球车型战略时表示：“以前我们可以全球开发车型，直接引进中国销售，享受相当强的品牌溢价，消费者也很喜欢。但情况已经变了。” 他指出，中国本土汽车品牌的竞争力持续提升，市场需求也在快速变化，单纯依靠欧洲开发的全球车型已难以维持过去的竞争优势。 塞缪尔森认为，汽车制造商需要更加贴近不同地区的消费者，针对当地市场调",
+   "published_at": 1792756547.0,
+   "published_bj": "2026-10-23 19:55"
+  },
+  {
+   "id": "112c61fe7e31940f",
+   "source": "IT之家",
+   "title": "比亚迪腾势 Z 电动智能超跑四季度上市，预售 68 万元起",
+   "url": "https://www.ithome.com/1/017/237.htm",
+   "summary": "IT之家 10 月 23 日消息，比亚迪今日发布腾势 Z 答网友问第三期，对大尾翼选装、2 座版规划、国内上市节点、碳纤维配置等进行解答。 据介绍，腾势 Z Coupe 硬顶版可以 选装尾翼 ，满足对空气动力学有更高要求的用户。大尾翼采用简约而富有力量感的设计语言，不仅视觉强化运动美学特征，更能根据不同驾驶场景手动调节。Racing 赛道版则直接标配大尾翼。 腾势 Z 采用 2+2 双门四座布局，兼顾性能与日常实用性。 目前官方暂无推出纯 2 座版本的计划 。如有新的产品规划，腾势将第一时间通过官方渠道告知用户。 腾势 Z 已于 2026 年 7 月 13 日正式开启国内预售， 计划于 202",
+   "published_at": 1792755691.0,
+   "published_bj": "2026-10-23 19:41"
+  },
+  {
+   "id": "bda89644d7dc88f4",
+   "source": "Hacker News",
+   "title": "Swedish government offices to ban ChatGPT and Claude",
+   "url": "https://www.sverigesradio.se/artikel/chat-gpt-och-claude-forbjuder-regeringskansliet",
+   "summary": "Article URL: https://www.sverigesradio.se/artikel/chat-gpt-och-claude-forbjuder-regeringskansliet Comments URL: https://news.ycombinator.com/item?id=50207405 Points: 5 # Comments: 0",
+   "published_at": 1792755594.0,
+   "published_bj": "2026-10-23 19:39"
+  },
+  {
    "id": "ba08c73e42a16b8e",
    "source": "InfoQ中文",
    "title": "讯飞发布新一代端到端交互模型：语音大模型调用量暴涨20倍，端侧已实现约70%云端能力",
@@ -56,6 +92,105 @@
    "summary": "点击查看原文>",
    "published_at": 1792755567.0,
    "published_bj": "2026-10-23 19:39"
+  },
+  {
+   "id": "acc51e67634eff86",
+   "source": "cnBeta",
+   "title": "微软不建议因电脑有32GB内存就关闭页面文件 默认自动管理更稳妥",
+   "url": "https://www.cnbeta.com.tw/articles/tech/1583574.htm",
+   "summary": "微软文档指出，并不建议用户仅因电脑装有32GB内存就关闭页面文件。Windows页面文件（pagefile.sys）不仅用于在需要时把较少访问的已修改数据移出内存，也会扩大系统能够向应用程序承诺的内存总量，并为系统崩溃转储提供存储空间。 阅读全文",
+   "published_at": 1792755437.0,
+   "published_bj": "2026-10-23 19:37"
+  },
+  {
+   "id": "af9efee2caa9b347",
+   "source": "cnBeta",
+   "title": "科学家首次从洞穴墙壁提取远古人类DNA 改写史前人类研究方式",
+   "url": "https://www.cnbeta.com.tw/articles/science/1583572.htm",
+   "summary": "国际科研团队近日宣布取得一项重要考古学突破。他们首次成功从洞穴墙壁中提取出保存数千年的古代人类DNA，证明即使没有壁画或其他明显的人类活动痕迹，洞穴岩壁依然可能保存着远古访客留下的遗传信息。这一发现为研究史前人类活动提供了全新的途径，也可能帮助科学家在不破坏考古遗址的情况下了解古人类的身份和活动方式。 阅读全文",
+   "published_at": 1792755397.0,
+   "published_bj": "2026-10-23 19:36"
+  },
+  {
+   "id": "f5f464aa618ca94d",
+   "source": "cnBeta",
+   "title": "高压实验发现岩浆可储存额外氧 为地球早期大气增氧提供新假说",
+   "url": "https://www.cnbeta.com.tw/articles/science/1583570.htm",
+   "summary": "一项发表于《国家科学评论》的研究发现，硅酸盐熔体在高压下能够容纳超出传统化学计量预期的“额外氧”。这为地球深部与地表氧化之间可能存在的联系提供了一种新机制，也让研究人员重新评估古老火山活动对地球大气演化的潜在影响。 阅读全文",
+   "published_at": 1792755371.0,
+   "published_bj": "2026-10-23 19:36"
+  },
+  {
+   "id": "0eccc9ed682c319e",
+   "source": "cnBeta",
+   "title": "LibreSSL 4.4.0正式发布：移除问题根证书 提升SHA-3性能并修复多项漏洞",
+   "url": "https://www.cnbeta.com.tw/articles/tech/1583568.htm",
+   "summary": "开源加密软件项目LibreSSL于2026年10月22日发布4.4.0正式版。这是4.4.x系列的首个稳定版本，同时也随OpenBSD 8.0提供。新版本带来多项安全修复、性能改进和平台兼容性更新，重点包括移除存在安全隐患的eMudhra根证书、优化SHA-3算法执行效率，以及修复TLS、DTLS和X.509证书处理过程中的多个问题。 阅读全文",
+   "published_at": 1792755299.0,
+   "published_bj": "2026-10-23 19:34"
+  },
+  {
+   "id": "df5da1dbdfce4835",
+   "source": "cnBeta",
+   "title": "韩国团队研发太空用眼药贴片 无需依靠重力即可自行滴药",
+   "url": "https://www.cnbeta.com.tw/articles/science/1583566.htm",
+   "summary": "韩国科学技术院（KAIST）与首尔大学盆唐医院的研究团队开发出一种可穿戴微流控眼药贴片，目标是在微重力环境下帮助宇航员自行滴眼药。研究发表于《传感器与执行器B：化学》期刊。NASA指出，微重力会使体液向头部移动，可能增加眼部压力并引发视力问题；而普通滴眼液依靠重力落入眼中，在失重环境下不易使用。 阅读全文",
+   "published_at": 1792755223.0,
+   "published_bj": "2026-10-23 19:33"
+  },
+  {
+   "id": "fa567ecbb2c6861c",
+   "source": "cnBeta",
+   "title": "世界气象组织警告超强厄尔尼诺来袭 呼吁全球立即采取人道主义预防行动",
+   "url": "https://www.cnbeta.com.tw/articles/science/1583564.htm",
+   "summary": "世界气象组织在最新季节气候展望发布会上发出警告称，当前厄尔尼诺事件的强度可能达到前所未有的水平，甚至超出了过去40年来相关监测图表的范围。该现象预计将在2026年底前后达到峰值，但其影响将在此后持续相当长时间，对全球天气格局产生深远影响。 阅读全文",
+   "published_at": 1792755188.0,
+   "published_bj": "2026-10-23 19:33"
+  },
+  {
+   "id": "729f71bf8424e5d7",
+   "source": "cnBeta",
+   "title": "苹果首款折叠屏手机iPhone Duo正式交付用户 部分订单预计明年1月才能送达",
+   "url": "https://www.cnbeta.com.tw/articles/tech/1583562.htm",
+   "summary": "苹果首款折叠屏手机iPhone Duo于2026年10月23日正式进入上市交付阶段，首批预购用户开始收到新机，苹果零售店也迎来首发日消费者。由于预购需求强劲，加上生产供应受到限制，上市初期的现货数量相当有限，部分消费者即使在首发日下单，也可能需要等待数月才能拿到设备。 阅读全文",
+   "published_at": 1792755165.0,
+   "published_bj": "2026-10-23 19:32"
+  },
+  {
+   "id": "79f5b54bfb9fdb2c",
+   "source": "IT之家",
+   "title": "索尼 PlayStation PULSE Elevate 无线音箱国行预售，1748 元",
+   "url": "https://www.ithome.com/1/017/236.htm",
+   "summary": "IT之家 10 月 23 日消息，索尼 PULSE Elevate 无线音箱今日开启预售，定价 1,748 元，将于 2026 年 11 月 12 日正式上市，适合 PS5、PC 或 Mac 使用。 作为参考，这款音箱美国售价为 219.99 美元 （IT之家注：现汇率约合 1,471 元人民币） ，日本售价 37,980 日元 （现汇率约合 1,617 元人民币） 。 索尼表示，这款音箱主打沉浸式桌面音效，它搭载两个喇叭，每个喇叭内置平面振膜单元和低音扬声器，平面振膜单元受录音室启发，能以高精度呈现广阔频响动态范围内的所有声音；内置低音扬声器提供层次丰富的低音音色。 它支持 Tempest ",
+   "published_at": 1792755069.0,
+   "published_bj": "2026-10-23 19:31"
+  },
+  {
+   "id": "8304a1d631a99efe",
+   "source": "cnBeta",
+   "title": "美国一大学开发出新穿戴设备 真能隔着网线闻香味",
+   "url": "https://www.cnbeta.com.tw/articles/science/1583560.htm",
+   "summary": "日前美国俄亥俄州立大学团队在《Science Advances》发布研究成果。他们推出一套名为Scentronic的远程气味传输系统，依靠可穿戴接收装置，首次实现气味数字化后通过网络远程复现，让跨距离“传香味”从设想走向实验室验证阶段。 阅读全文",
+   "published_at": 1792755064.0,
+   "published_bj": "2026-10-23 19:31"
+  },
+  {
+   "id": "f81bc6c2bbba5d25",
+   "source": "cnBeta",
+   "title": "英国退休人士阁楼藏宝可梦卡牌拍出156万英镑创纪录",
+   "url": "https://www.cnbeta.com.tw/articles/game/1583558.htm",
+   "summary": "英国沃金一名不愿公开姓名的退休油漆工兼装饰工，将一批在阁楼存放约15年的宝可梦卡牌送交Ewbank&#39;s拍卖。整批藏品总成交额达到156万英镑，约合209万美元，刷新了该拍卖行三十年历史中的纪录。 阅读全文",
+   "published_at": 1792755051.0,
+   "published_bj": "2026-10-23 19:30"
+  },
+  {
+   "id": "96ea3b9541151abf",
+   "source": "IT之家",
+   "title": "瓦尔基里 VK 99 V2 键盘发售：首发预估到手价 329.8 / 429.25 元",
+   "url": "https://www.ithome.com/1/017/235.htm",
+   "summary": "IT之家 10 月 23 日消息，瓦尔基里 (Valkyrie, Vk) 即将于今晚 20:00 发售 VK 99 V2 系列三模机械键盘。其中 标准版预估到手价 329.8 元 、 MAX 版预估到手价 429.25 元 。 天猫 瓦尔基里 VK 99 V2 键盘 9 月 23 日 20:00 开售 329.8 元起 直达链接 VK 99 V2 整体采用 2U0 的 98 配列， 集成天际光廊贯穿式灯柱与下灯位 RGB 背光 ，支持人工智能驱动的 AI 创想灯效、音乐律动，内部包含竖向音量旋钮。 其内部采用 Gasket 结构，搭配全键热插拔 PCB、横向开槽 PC 定位板，配套原厂 (CH",
+   "published_at": 1792754947.0,
+   "published_bj": "2026-10-23 19:29"
   },
   {
    "id": "98a45b590203ecf8",
@@ -76,6 +211,15 @@
    "published_bj": "2026-10-23 19:14"
   },
   {
+   "id": "3d7a353de87337d5",
+   "source": "Solidot",
+   "title": "希腊通过法案禁止 15 岁以下儿童使用社媒",
+   "url": "https://www.solidot.org/story?sid=85696",
+   "summary": "希腊议会周五通过了一项法案，禁止 15 岁以下的儿童使用社媒平台。此举旨在回应公众对社交媒体会对未成年人的健康与安全产生负面影响之日益增长的担忧。禁令将于 2027 年 1 月 1 日生效。澳大利亚是首个通过立法限制未成年人使用社媒的国家。法国也曾通过类似法律，但于 8 月被宪法委员会裁定无效。希腊总理基 Kyriakos Mitsotakis 表示，社媒平台有 2 个半月的时间制定方案，核实用户年龄并保护其隐私。希腊政府表示，将支持家长共同遏制“无限滚动”现象——这种行为会导致儿童睡眠不足、注意力难以集中，挤占与朋友相处的时间。",
+   "published_at": 1792753631.0,
+   "published_bj": "2026-10-23 19:07"
+  },
+  {
    "id": "463bb414255c6e14",
    "source": "IT之家",
    "title": "雷蛇幻影战狼 V4 系列手柄国行发布：专业版 1599 元，竞技版 799 元",
@@ -83,6 +227,15 @@
    "summary": "IT之家 10 月 23 日消息，雷蛇今日宣布推出全新幻影战狼 V4 专业版（对比 V3 升级了传感器、面板和按键），售价 1599 元。除此之外，雷蛇还推出了一款 799 元的竞技版，少了可拆卸面板。 据介绍，雷蛇幻影战狼 V4 专业版采用了高分辨率电容式摇杆，配备 4 个可拆卸鼠标点击式背键、2 个抓握式宏肩键，搭载可调式 Razer Pro HyperTriggers 扳机，支持双模式适应不同需求。 该系列手柄采用非对称式摇杆布局，拥有全新电容式摇杆，相比 TMR 和霍尔摇杆可提供更高抗干扰能力，以及更强的抗漂移性能。可识别 3000 级运动变化，提供更加平滑的追踪、更高精度，适合各种竞",
    "published_at": 1792753586.0,
    "published_bj": "2026-10-23 19:06"
+  },
+  {
+   "id": "67885f540a9c556e",
+   "source": "Hacker News",
+   "title": "Is this the new cyber normal?",
+   "url": "https://drew.silcock.dev/blog/is-this-the-new-cyber-normal/",
+   "summary": "Article URL: https://drew.silcock.dev/blog/is-this-the-new-cyber-normal/ Comments URL: https://news.ycombinator.com/item?id=50207115 Points: 30 # Comments: 6",
+   "published_at": 1792753493.0,
+   "published_bj": "2026-10-23 19:04"
   },
   {
    "id": "e6ac78941cfa5fdf",
@@ -173,6 +326,15 @@
    "summary": "IT之家 10 月 23 日消息，中国联通发文，宣布用户在中国联通办理 iPhone Duo 购机合约，可享终端最高直降 3240 元优惠。同时用户在联通渠道购买苹果 iPhone Duo、开通联通 eSIM，可获以下权益“五选一”： 30GB 境外 eSIM 10 天包 300 元国际漫游券 100GB 国内通用流量 词元（token）（注：官方未公布 AI 品牌和具体词元数量） 鲜花/ 咖啡 中国联通表示，过去一年，中国 eSIM 手机从破冰走向密集落地，累计 28 款机型、覆盖 7 大主流品牌，从旗舰机型的“可选项”变为“必答题”，2026 年出货量预计达 3000 万台。 目前，中国联",
    "published_at": 1792751877.0,
    "published_bj": "2026-10-23 18:37"
+  },
+  {
+   "id": "2813a3ac040f35a5",
+   "source": "Hacker News",
+   "title": "Job Loss and Cortisone Mania",
+   "url": "https://tilschuenemann.de/job-loss-cortisone-mania",
+   "summary": "Article URL: https://tilschuenemann.de/job-loss-cortisone-mania Comments URL: https://news.ycombinator.com/item?id=50206840 Points: 14 # Comments: 0",
+   "published_at": 1792751484.0,
+   "published_bj": "2026-10-23 18:31"
   },
   {
    "id": "236d72d2ab0bfc6a",
