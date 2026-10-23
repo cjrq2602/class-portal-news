@@ -1,6 +1,6 @@
 {
  "date": "2026-10-23",
- "generated_at": 1792771035.8649025,
+ "generated_at": 1792773116.256281,
  "count": 400,
  "items": [
   {
@@ -56,6 +56,15 @@
    "summary": "Quest is the latest in a series of healthcare technology companies that have been hacked in recent months.",
    "published_at": 1792767609.0,
    "published_bj": "2026-10-23 23:00"
+  },
+  {
+   "id": "e5c6203bb891facd",
+   "source": "Hacker News",
+   "title": "Pentagon grants DHS permission to test heat ray weapon for use at border",
+   "url": "https://www.cnn.com/2026/10/21/politics/heat-ray-weapon-dhs-pentagon",
+   "summary": "Article URL: https://www.cnn.com/2026/10/21/politics/heat-ray-weapon-dhs-pentagon Comments URL: https://news.ycombinator.com/item?id=50210075 Points: 22 # Comments: 16",
+   "published_at": 1792767167.0,
+   "published_bj": "2026-10-23 22:52"
   },
   {
    "id": "e9141088ef549d56",
@@ -3593,15 +3602,6 @@
    "summary": "知名浏览器开发商The Browser Company宣布，将于2026年12月22日正式停止Arc浏览器服务。这款以创新界面和独特生产力功能闻名的浏览器即将结束使命，公司未来将把全部重点转向人工智能浏览器Dia。 阅读全文",
    "published_at": 1792695344.0,
    "published_bj": "2026-10-23 02:55"
-  },
-  {
-   "id": "7e0451a1992a7d72",
-   "source": "cnBeta",
-   "title": "索尼日本停产最后一款独立4K蓝光机 普通蓝光播放器仍在售",
-   "url": "https://www.cnbeta.com.tw/articles/movie/1583434.htm",
-   "summary": "索尼日本已于10月22日结束UBP-X700/K超高清蓝光播放器出货。该机是索尼在日本销售的最后一款独立UHD Blu-ray播放机；索尼官方商店目前将其标为“缺货且不再补货”，售价为5.83万日元（含税）。 阅读全文",
-   "published_at": 1792695289.0,
-   "published_bj": "2026-10-23 02:54"
   }
  ]
 }

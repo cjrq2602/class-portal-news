@@ -1,7 +1,7 @@
 {
  "date": "2026-10-24",
- "generated_at": 1792771035.8612237,
- "count": 8,
+ "generated_at": 1792773116.253743,
+ "count": 22,
  "items": [
   {
    "id": "f60abbbafa93ccc9",
@@ -74,6 +74,132 @@
    "summary": "点击查看原文>",
    "published_at": 1792772820.0,
    "published_bj": "2026-10-24 00:27"
+  },
+  {
+   "id": "acfef10170325e55",
+   "source": "TechCrunch",
+   "title": "Agent cloud startup Daytona hits $1B valuation backed by FirstMark and a who’s who of angels",
+   "url": "https://techcrunch.com/2026/10/23/agent-cloud-startup-daytona-hits-1b-valuation-backed-by-firstmark-and-a-whos-who-of-angels/",
+   "summary": "Daytona is building a cloud for agents that's like giving every agent its own computer. It has attracted founders of Stripe, Perplextity, Datadog, Mercor and others as angels, it says.",
+   "published_at": 1792772789.0,
+   "published_bj": "2026-10-24 00:26"
+  },
+  {
+   "id": "c4f73a8e06be9ff5",
+   "source": "TechCrunch",
+   "title": "Commonwealth Fusion Systems gets $85M to build better fusion-ready semiconductors",
+   "url": "https://techcrunch.com/2026/10/23/commonwealth-fusion-systems-gets-85m-to-build-better-fusion-ready-semiconductors/",
+   "summary": "Top-funded fusion startup Commonwealth Fusion Systems received an $85 million award from the federal government to advance conductors for fusion power plants.",
+   "published_at": 1792772428.0,
+   "published_bj": "2026-10-24 00:20"
+  },
+  {
+   "id": "237832f276752817",
+   "source": "cnBeta",
+   "title": "中国工厂大规模拆解RTX 5090改造AI加速卡 英伟达高端游戏显卡流向再引关注",
+   "url": "https://www.cnbeta.com.tw/articles/tech/1583614.htm",
+   "summary": "随着人工智能计算需求持续增长，中国出现了将英伟达GeForce RTX 5090游戏显卡大规模改造为AI加速卡的生产线。根据Wccftech及其他硬件媒体援引的最新视频资料，相关工厂正在拆解零售版RTX 5090显卡，将GPU核心和显存芯片转移到专门设计的服务器电路板上，再配备适合数据中心使用的散热系统，使原本面向游戏玩家的高端显卡能够用于AI计算。 阅读全文",
+   "published_at": 1792772416.0,
+   "published_bj": "2026-10-24 00:20"
+  },
+  {
+   "id": "cbbbe857bf50b95d",
+   "source": "cnBeta",
+   "title": "美国拟为自动驾驶汽车引入青绿色信号灯 让路人一眼识别“无人驾驶”状态",
+   "url": "https://www.cnbeta.com.tw/articles/tech/1583612.htm",
+   "summary": "美国监管机构正计划为自动驾驶汽车制定全新的视觉识别标准。根据美国国家公路交通安全管理局（NHTSA）最新提出的监管改革方案，未来无人驾驶汽车或可使用独特的青绿色（Cyan）外部标识灯，以明确告知执法人员和其他道路使用者车辆当前正由自动驾驶系统控制，而非人类驾驶员操作。 阅读全文",
+   "published_at": 1792772375.0,
+   "published_bj": "2026-10-24 00:19"
+  },
+  {
+   "id": "63727f8052e04489",
+   "source": "cnBeta",
+   "title": "Shein同意支付1亿美元与美国联邦贸易委员会达成和解",
+   "url": "https://www.cnbeta.com.tw/articles/tech/1583610.htm",
+   "summary": "中国创立、总部位于新加坡的快时尚电商平台希音（Shein）同意支付1亿美元，以解决美国联邦贸易委员会（FTC）针对其物流延误及其他消费者投诉展开的调查。路透社10月23日报道称，这笔和解款相当于希音第二季度利润的44%，反映出该公司在美国和欧洲面临的监管压力正在增加。 阅读全文",
+   "published_at": 1792772231.0,
+   "published_bj": "2026-10-24 00:17"
+  },
+  {
+   "id": "d9a07d3bbf1bea79",
+   "source": "cnBeta",
+   "title": "英国警探被指在刑事案件中依赖微软Copilot作决策 监管机构展开调查",
+   "url": "https://www.cnbeta.com.tw/articles/tech/1583608.htm",
+   "summary": "英国一名资深警探因涉嫌在刑事调查过程中不当使用微软Copilot人工智能助手而受到独立调查。事件再次引发外界对于人工智能在执法领域应用边界以及敏感数据安全问题的关注。 阅读全文",
+   "published_at": 1792772178.0,
+   "published_bj": "2026-10-24 00:16"
+  },
+  {
+   "id": "b83b23d004f71b3d",
+   "source": "cnBeta",
+   "title": "研究发现日常化学物质或引发乳腺组织异常变化 科学家呼吁加强风险评估",
+   "url": "https://www.cnbeta.com.tw/articles/science/1583606.htm",
+   "summary": "一项最新研究显示，广泛存在于日常生活中的部分工业化学物质可能对人体乳腺组织产生意想不到的影响。研究人员利用先进的人体乳腺组织模型发现，即使在较低暴露水平下，一些常见化学物质也能够诱发与乳腺疾病发展相关的生物学变化，这一结果引发了科研人员对现有化学品安全评估体系的进一步关注。 阅读全文",
+   "published_at": 1792772108.0,
+   "published_bj": "2026-10-24 00:15"
+  },
+  {
+   "id": "c2497d364d984a9b",
+   "source": "cnBeta",
+   "title": "OpenSSL 4.1正式发布：新增DTLS 1.3支持 强化后量子密码性能",
+   "url": "https://www.cnbeta.com.tw/articles/tech/1583604.htm",
+   "summary": "开源加密软件库OpenSSL于2026年10月23日正式发布4.1版本。此次更新引入多项新功能与性能优化，包括支持DTLS 1.3协议、实现GREASE机制、加速后量子密码算法，并针对支持AVX-512指令集的x86-64处理器优化部分加密运算。此外，新版本还移除了对Windows CE和Windows安腾平台的构建支持，进一步清理历史遗留代码。 阅读全文",
+   "published_at": 1792771983.0,
+   "published_bj": "2026-10-24 00:13"
+  },
+  {
+   "id": "1a31d1a5e91bed53",
+   "source": "cnBeta",
+   "title": "苹果发布iOS 27.1正式版 仅向iPhone Duo用户开放",
+   "url": "https://www.cnbeta.com.tw/articles/tech/1583602.htm",
+   "summary": "苹果本周正式推出iOS 27.1最终正式版系统更新，但该版本并不会面向所有兼容机型开放，而是仅限于当天正式发售的折叠屏手机iPhone Duo使用。 阅读全文",
+   "published_at": 1792771947.0,
+   "published_bj": "2026-10-24 00:12"
+  },
+  {
+   "id": "842e592e56c16277",
+   "source": "cnBeta",
+   "title": "苹果CEO约翰·特纳斯现身奥斯汀 门店开门迎接iPhone Duo首发用户",
+   "url": "https://www.cnbeta.com.tw/articles/tech/1583600.htm",
+   "summary": "苹果首款折叠屏手机iPhone Duo于10月23日正式在全球范围内开售。按照苹果多年来的惯例，公司首席执行官会亲自现身门店，为新品发售揭开序幕。今年负责这一传统仪式的人不再是Tim Cook，而是今年9月刚刚接任苹果CEO的约翰·特纳斯。 阅读全文",
+   "published_at": 1792771863.0,
+   "published_bj": "2026-10-24 00:11"
+  },
+  {
+   "id": "cc4380a1015030c1",
+   "source": "cnBeta",
+   "title": "《帝国时代4：北方劫掠者》10月30日发售 国区118元",
+   "url": "https://www.cnbeta.com.tw/articles/game/1583598.htm",
+   "summary": "《帝国时代4：北方劫掠者（Age of Empires IV: Raiders of the North）》将于10月30日发售，登陆PC、Xbox和PS5平台，新增维京人、苏格兰人、四个新的熔炉竞技场任务、合作模式和两个新的生物群落。 阅读全文",
+   "published_at": 1792771704.0,
+   "published_bj": "2026-10-24 00:08"
+  },
+  {
+   "id": "baf2f55020117a1c",
+   "source": "cnBeta",
+   "title": "Netflix出价5亿美元收购Xbox影视改编权 微软开价8亿美元谈崩",
+   "url": "https://www.cnbeta.com.tw/articles/game/1583596.htm",
+   "summary": "电子游戏改编作品如今炙手可热，电影和电视剧项目正处于不同的开发阶段，而Netflix也想趁热打铁，抢占先机。这家流媒体巨头已经与微软达成协议，将共同开发《战争机器》电影，并且还计划收购更多Xbox的IP，打造新的系列作品。唯一的问题是?据报道，微软的要价远高于Netflix的预期。 阅读全文",
+   "published_at": 1792771681.0,
+   "published_bj": "2026-10-24 00:08"
+  },
+  {
+   "id": "cd08435cf2ae1263",
+   "source": "cnBeta",
+   "title": "五次提醒背后，星巴克算的是笔什么账？",
+   "url": "https://www.cnbeta.com.tw/articles/tech/1583594.htm",
+   "summary": "星巴克“消费入座”新规落地首日，一个场景再次引发了舆论争议。据央广网报道，杨女士在客流稀少的时段临时参加一场线上会议，本打算会后下单，却在约一个半小时内被店员五次提醒点单。“商家盈利、推行消费入座本身没有问题，但频繁催促容易让顾客产生一种‘撵你走’的感受。” 阅读全文",
+   "published_at": 1792771667.0,
+   "published_bj": "2026-10-24 00:07"
+  },
+  {
+   "id": "34fe201202a2b726",
+   "source": "TechCrunch",
+   "title": "What some of Anthropic’s backers are reportedly worth before its IPO",
+   "url": "https://techcrunch.com/2026/10/23/what-some-of-anthropics-backers-are-reportedly-worth-before-its-ipo/",
+   "summary": "Early-stage and follow-on investors in the AI lab are already sitting on major paper returns.",
+   "published_at": 1792771363.0,
+   "published_bj": "2026-10-24 00:02"
   }
  ]
 }

@@ -1,0 +1,382 @@
+{
+ "type": "yesterday",
+ "date": "2026-10-23",
+ "window": {
+  "start_ts": 1792684800.0,
+  "end_ts": 1792771200.0
+ },
+ "generated_at": 1792773118.392675,
+ "generator": "action",
+ "news_count": 400,
+ "keywords": [
+  "ai",
+  "iphone",
+  "duo",
+  "元",
+  "苹果",
+  "发布",
+  "手机",
+  "推出",
+  "智能",
+  "全球"
+ ],
+ "points": [
+  {
+   "text": "【ai】IT之家 10 月 23 日消息，苹果公司今天（10 月 23 日）更新其 iWork 生产力套件，为 Keynote、Numbers 和 Pa",
+   "keyword": "ai",
+   "news_ids": [
+    "46bf130a3a9238aa"
+   ],
+   "refs": [
+    {
+     "id": "46bf130a3a9238aa",
+     "title": "苹果更新 iWork 生产力套件 15.4.1：引入 AI 智能助理，适配 iPhone Duo",
+     "source": "IT之家",
+     "url": "https://www.ithome.com/1/016/762.htm",
+     "published_at": 1792710182.0
+    }
+   ]
+  },
+  {
+   "text": "【iphone】苹果首款折叠屏手机iPhone Duo于2026年10月23日正式进入上市交付阶段，首批预购用户开始收到新机，苹果零售店也迎来首发日消费者",
+   "keyword": "iphone",
+   "news_ids": [
+    "729f71bf8424e5d7"
+   ],
+   "refs": [
+    {
+     "id": "729f71bf8424e5d7",
+     "title": "苹果首款折叠屏手机iPhone Duo正式交付用户 部分订单预计明年1月才能送达",
+     "source": "cnBeta",
+     "url": "https://www.cnbeta.com.tw/articles/tech/1583562.htm",
+     "published_at": 1792755165.0
+    }
+   ]
+  },
+  {
+   "text": "【ai】根据美国广播公司（ABC News）、《华盛顿邮报》与益普索（Ipsos）联合发布的一项最新民意调查，多数美国成年人对人工智能的发展持负面看法，",
+   "keyword": "ai",
+   "news_ids": [
+    "b43924bb341954fb"
+   ],
+   "refs": [
+    {
+     "id": "b43924bb341954fb",
+     "title": "美国民众对人工智能日益悲观：57%认为AI不利于社会 72%反对在社区建设新数据中心",
+     "source": "cnBeta",
+     "url": "https://www.cnbeta.com.tw/articles/tech/1583478.htm",
+     "published_at": 1792732924.0
+    }
+   ]
+  },
+  {
+   "text": "【iphone】IT之家 10 月 23 日消息，中国联通发文，宣布用户在中国联通办理 iPhone Duo 购机合约，可享终端最高直降 3240 元优惠",
+   "keyword": "iphone",
+   "news_ids": [
+    "7fb23f8520e6c0ac"
+   ],
+   "refs": [
+    {
+     "id": "7fb23f8520e6c0ac",
+     "title": "中国联通：在联通渠道购买苹果 iPhone Duo 并开通 eSIM 可选“国际漫游券”“国内通用流量”等权益",
+     "source": "IT之家",
+     "url": "https://www.ithome.com/1/017/195.htm",
+     "published_at": 1792751877.0
+    }
+   ]
+  },
+  {
+   "text": "【元】IT之家 10 月 23 日消息，LG 现已在京东上架“25G550B”24.5 英寸显示器，该机主打 1080P 300Hz，定价为 1199",
+   "keyword": "元",
+   "news_ids": [
+    "3180c13666552705"
+   ],
+   "refs": [
+    {
+     "id": "3180c13666552705",
+     "title": "LG 推出“25G550B”24.5 英寸显示器：1080P 300Hz，1199 元",
+     "source": "IT之家",
+     "url": "https://www.ithome.com/1/017/266.htm",
+     "published_at": 1792763133.0
+    }
+   ]
+  },
+  {
+   "text": "【元】IT之家 10 月 23 日消息，机械革命极光产品线在极光 X 之外又上架了一款极光 16 Pro 游戏本，搭载英特尔酷睿 i7-13645HX",
+   "keyword": "元",
+   "news_ids": [
+    "472b4be0608ec866"
+   ],
+   "refs": [
+    {
+     "id": "472b4be0608ec866",
+     "title": "机械革命推出极光 16 Pro 游戏本：酷睿 i7-13645HX + RTX 4050，8799 元",
+     "source": "IT之家",
+     "url": "https://www.ithome.com/1/017/253.htm",
+     "published_at": 1792760236.0
+    }
+   ]
+  },
+  {
+   "text": "【ai】IT之家 10 月 23 日消息，美国商务部昨日宣布，计划通过美国《芯片与科学法案》框架下的半导体研发项目，向 4 家企业提供最高 3.89 亿",
+   "keyword": "ai",
+   "news_ids": [
+    "ce81af53b1516436"
+   ],
+   "refs": [
+    {
+     "id": "ce81af53b1516436",
+     "title": "美国拟向 4 家企业提供最高 3.89 亿美元半导体研发资金，核聚变与 AI 数据中心成重点",
+     "source": "IT之家",
+     "url": "https://www.ithome.com/1/017/171.htm",
+     "published_at": 1792748777.0
+    }
+   ]
+  },
+  {
+   "text": "【the】梵高于 1889 年创作的名画《The Starry Night》可能描绘的是 1889 年 7 月 22 日法国真实的夜空",
+   "keyword": "the",
+   "news_ids": [
+    "3f5e3169346fd594"
+   ],
+   "refs": [
+    {
+     "id": "3f5e3169346fd594",
+     "title": "梵高名画《The Starry Night》可能描绘的是真实的夜空",
+     "source": "Solidot",
+     "url": "https://www.solidot.org/story?sid=85697",
+     "published_at": 1792756910.0
+    }
+   ]
+  },
+  {
+   "text": "【ai】IT之家 10 月 23 日消息，据《科创板日报》今日报道，记者今日从长鑫科技方面了解到，从中长期看，AI 对数据吞吐的需求仍在迅速增长，DRA",
+   "keyword": "ai",
+   "news_ids": [
+    "ef2fcdc84210747b"
+   ],
+   "refs": [
+    {
+     "id": "ef2fcdc84210747b",
+     "title": "长鑫科技：对全球和中国 DRAM 产业中长期前景保持坚定信心",
+     "source": "IT之家",
+     "url": "https://www.ithome.com/1/017/262.htm",
+     "published_at": 1792762038.0
+    }
+   ]
+  },
+  {
+   "text": "千问蒋冠军：Personal Agent技术框架，需要模型、记忆与生态协同推进",
+   "keyword": "",
+   "news_ids": [
+    "3d9704c81fe94cc7"
+   ],
+   "refs": [
+    {
+     "id": "3d9704c81fe94cc7",
+     "title": "千问蒋冠军：Personal Agent技术框架，需要模型、记忆与生态协同推进",
+     "source": "InfoQ中文",
+     "url": "https://www.infoq.cn/article/6EJRFIef67xr3x6vyCJa?utm_source=rss&utm_medium=article",
+     "published_at": 1792770332.0
+    }
+   ]
+  },
+  {
+   "text": "IT之家 10 月 23 日消息，由于把“110”设成紧急联系人，浙江一男子醉驾后，车辆发现异常上报给车企紧急救援中心并自动报警，后续被民警当场",
+   "keyword": "",
+   "news_ids": [
+    "5de7a40be7ad780c"
+   ],
+   "refs": [
+    {
+     "id": "5de7a40be7ad780c",
+     "title": "男子醉酒后车机自动报警被判不构成自首：系统可以替你报警但不能替你自首",
+     "source": "IT之家",
+     "url": "https://www.ithome.com/1/017/278.htm",
+     "published_at": 1792770072.0
+    }
+   ]
+  },
+  {
+   "text": "Article URL: https://www",
+   "keyword": "",
+   "news_ids": [
+    "e5c6203bb891facd"
+   ],
+   "refs": [
+    {
+     "id": "e5c6203bb891facd",
+     "title": "Pentagon grants DHS permission to test heat ray weapon for use at border",
+     "source": "Hacker News",
+     "url": "https://www.cnn.com/2026/10/21/politics/heat-ray-weapon-dhs-pentagon",
+     "published_at": 1792767167.0
+    }
+   ]
+  },
+  {
+   "text": "Article URL: https://bugzilla",
+   "keyword": "",
+   "news_ids": [
+    "e9141088ef549d56"
+   ],
+   "refs": [
+    {
+     "id": "e9141088ef549d56",
+     "title": "eMudhra ignored Mozilla Root investigation deadline; blames social media",
+     "source": "Hacker News",
+     "url": "https://bugzilla.mozilla.org/show_bug.cgi?id=2083449",
+     "published_at": 1792767128.0
+    }
+   ]
+  },
+  {
+   "text": "IT之家 10 月 23 日消息，据国家邮政局，10 月 22 日至 23 日，国家邮政局在河南洛阳召开邮政快递业安全治理规范化座谈会",
+   "keyword": "",
+   "news_ids": [
+    "49c5e06f4e577cee"
+   ],
+   "refs": [
+    {
+     "id": "49c5e06f4e577cee",
+     "title": "国家邮政局召开邮政快递业安全治理规范化座谈会：要持续深入推进“反内卷”工作",
+     "source": "IT之家",
+     "url": "https://www.ithome.com/1/017/275.htm",
+     "published_at": 1792766802.0
+    }
+   ]
+  },
+  {
+   "text": "IT之家 10 月 23 日消息，开放媒体联盟（AOMedia）当地时间 10 月 22 日宣布，下一代视频编码标准 AV2 正在浏览器、流媒体",
+   "keyword": "",
+   "news_ids": [
+    "5c230e9a98d10f6e"
+   ],
+   "refs": [
+    {
+     "id": "5c230e9a98d10f6e",
+     "title": "谷歌 YouTube、Chrome 推进 AV2 支持，压缩效率较 AV1 提升近 30%",
+     "source": "IT之家",
+     "url": "https://www.ithome.com/1/017/268.htm",
+     "published_at": 1792763919.0
+    }
+   ]
+  }
+ ],
+ "article": {
+  "title": "2026-10-23 新闻总结",
+  "paragraphs": [
+   {
+    "kind": "lead",
+    "text": "过去 24 小时共收录 400 条新闻，来自 7 家媒体。把标题放在一起看，讨论主要集中在 AI、手机、游戏 这几个方向上，其余消息更像是零散补充。"
+   },
+   {
+    "kind": "section",
+    "heading": "AI",
+    "text": "先看「AI」。IT之家 10 月 23 日消息，苹果公司今天（10 月 23 日）更新其 iWork 生产力套件，为 Keynote，另有 218 条消息指向同一话题。这条消息短期内的实际影响可能有限，但它指向的方向值得放进观察名单。",
+    "news_ids": [
+     "46bf130a3a9238aa"
+    ],
+    "refs": [
+     {
+      "id": "46bf130a3a9238aa",
+      "title": "苹果更新 iWork 生产力套件 15.4.1：引入 AI 智能助理，适配 iPhone Duo",
+      "source": "IT之家",
+      "url": "https://www.ithome.com/1/016/762.htm",
+      "published_at": 1792710182.0
+     }
+    ]
+   },
+   {
+    "kind": "section",
+    "heading": "手机",
+    "text": "与此同时「手机」。苹果首款折叠屏手机iPhone Duo于2026年10月23日正式进入上市交付阶段，首批预购用户开始收到新机，另有 14 条消息指向同一话题。价格和生态往往比硬件规格更能决定一款产品能不能留下来。",
+    "news_ids": [
+     "729f71bf8424e5d7"
+    ],
+    "refs": [
+     {
+      "id": "729f71bf8424e5d7",
+      "title": "苹果首款折叠屏手机iPhone Duo正式交付用户 部分订单预计明年1月才能送达",
+      "source": "cnBeta",
+      "url": "https://www.cnbeta.com.tw/articles/tech/1583562.htm",
+      "published_at": 1792755165.0
+     }
+    ]
+   },
+   {
+    "kind": "section",
+    "heading": "数据中心",
+    "text": "另一个值得注意的方向是「数据中心」。根据美国广播公司（ABC News）、《华盛顿邮报》与益普索（Ipsos）联合发布的一项最新民意调查，多数美国成年人对人工智能的发展持负面看法，另有 27 条消息指向同一话题。这类进展更像是把已有能力往工程化落地推了一步，真正的分水岭在于成本和可靠性能不能同时压下来。",
+    "news_ids": [
+     "b43924bb341954fb"
+    ],
+    "refs": [
+     {
+      "id": "b43924bb341954fb",
+      "title": "美国民众对人工智能日益悲观：57%认为AI不利于社会 72%反对在社区建设新数据中心",
+      "source": "cnBeta",
+      "url": "https://www.cnbeta.com.tw/articles/tech/1583478.htm",
+      "published_at": 1792732924.0
+     }
+    ]
+   },
+   {
+    "kind": "section",
+    "heading": "渠道",
+    "text": "相比之下「渠道」。IT之家 10 月 23 日消息，中国联通发文，宣布用户在中国联通办理 iPhone Duo 购机合约，另有 6 条消息指向同一话题。消费电子的看点不在参数堆叠，而在这些参数能不能变成日常可感知的体验差异。",
+    "news_ids": [
+     "7fb23f8520e6c0ac"
+    ],
+    "refs": [
+     {
+      "id": "7fb23f8520e6c0ac",
+      "title": "中国联通：在联通渠道购买苹果 iPhone Duo 并开通 eSIM 可选“国际漫游券”“国内通用流量”等权益",
+      "source": "IT之家",
+      "url": "https://www.ithome.com/1/017/195.htm",
+      "published_at": 1792751877.0
+     }
+    ]
+   },
+   {
+    "kind": "glossary",
+    "items": [
+     {
+      "term": "Agent",
+      "desc": "智能体，能自己拆解任务、调用工具并连续执行的 AI 程序"
+     },
+     {
+      "term": "AI",
+      "desc": "人工智能，让机器完成识别、生成、判断等原本需要人做的任务"
+     },
+     {
+      "term": "IPO",
+      "desc": "首次公开募股，公司第一次把股票卖给公众并上市"
+     },
+     {
+      "term": "AR",
+      "desc": "增强现实，把虚拟图像叠加到真实世界画面上"
+     },
+     {
+      "term": "API",
+      "desc": "应用程序接口，让不同软件按约定好的方式互相调用"
+     },
+     {
+      "term": "数据中心",
+      "desc": "集中放置服务器、供电与散热设施的大型机房"
+     }
+    ]
+   },
+   {
+    "kind": "outlook",
+    "text": "把这几条放在一起看，最值得跟踪的是 AI 和 手机 两条线：一条决定技术能走多远，一条决定它多快能落到普通人的日常里。至于其他消息，可以先放进观察名单，等后续有更实的进展再判断。"
+   }
+  ],
+  "word_count": 651
+ },
+ "ai_enhanced": false,
+ "schema": 1,
+ "window_bj": {
+  "start": "2026-10-23 00:00",
+  "end": "2026-10-24 00:00"
+ }
+}
