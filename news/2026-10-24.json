@@ -1,8 +1,26 @@
 {
  "date": "2026-10-24",
- "generated_at": 1792786945.0492506,
- "count": 44,
+ "generated_at": 1792789711.9876537,
+ "count": 49,
  "items": [
+  {
+   "id": "9026339a6c149e58",
+   "source": "cnBeta",
+   "title": "OpenAI宣布最先进AI模型训练期间禁止直接访问互联网",
+   "url": "https://www.cnbeta.com.tw/articles/tech/1583624.htm",
+   "summary": "OpenAI于周五宣布，已对用于训练和评估前沿模型的研究环境实施更严格的安全管控，核心政策是： 前沿模型在训练期间不得直接访问实时互联网 。该公司表示，这一政策将维持到相关安全防护技术取得足够进展为止。 阅读全文",
+   "published_at": 1792789193.0,
+   "published_bj": "2026-10-24 04:59"
+  },
+  {
+   "id": "32e4d7bc8d68a31b",
+   "source": "TechCrunch",
+   "title": "VCs, Superhuman Mail founder share red flags about product market fit",
+   "url": "https://techcrunch.com/2026/10/23/vcs-superhuman-mail-founder-share-red-flags-about-product-market-fit/",
+   "summary": "Top investors from Iconiq and Sapphire Ventures, along with Rahul Vohra, the founder of Superhuman Mail share the do's and don'ts for building hit products.",
+   "published_at": 1792789033.0,
+   "published_bj": "2026-10-24 04:57"
+  },
   {
    "id": "6ce6c0aa82ea9274",
    "source": "cnBeta",
@@ -22,6 +40,15 @@
    "published_bj": "2026-10-24 04:03"
   },
   {
+   "id": "d13ed55a580bbdbe",
+   "source": "Hacker News",
+   "title": "We are all living inside of an obscure sci-fi film from 1970",
+   "url": "https://thanksforthatjim.bearblog.dev/we-are-all-living-inside-of-an-obscure-sci-fi-film-from-1970/",
+   "summary": "Article URL: https://thanksforthatjim.bearblog.dev/we-are-all-living-inside-of-an-obscure-sci-fi-film-from-1970/ Comments URL: https://news.ycombinator.com/item?id=50214323 Points: 12 # Comments: 3",
+   "published_at": 1792784519.0,
+   "published_bj": "2026-10-24 03:41"
+  },
+  {
    "id": "f60abbbafa93ccc9",
    "source": "InfoQ中文",
    "title": "智源众智 FlagOS 2.2 让前沿模型与多元算力协同演进",
@@ -29,6 +56,15 @@
    "summary": "点击查看原文>",
    "published_at": 1792784429.0,
    "published_bj": "2026-10-24 03:40"
+  },
+  {
+   "id": "d82c55b7a75a8b9c",
+   "source": "Hacker News",
+   "title": "Now Google says it might use your Gmail and Google Photos data to target ads",
+   "url": "https://www.theverge.com/tech/1017600/google-personal-intelligence-privacy-policy-ads-update",
+   "summary": "Article URL: https://www.theverge.com/tech/1017600/google-personal-intelligence-privacy-policy-ads-update Comments URL: https://news.ycombinator.com/item?id=50214218 Points: 23 # Comments: 2",
+   "published_at": 1792784055.0,
+   "published_bj": "2026-10-24 03:34"
   },
   {
    "id": "dfb9fdfd72053420",
@@ -56,6 +92,15 @@
    "summary": "Hosted by TechCrunch in partnership with Fidelity Private Shares, the full-day event goes beyond fundraising and AI to explore the realities of finding customers, building teams, sharpening a pitch, developing founder leadership, and scaling companies both inside and outside traditional startup hubs",
    "published_at": 1792782383.0,
    "published_bj": "2026-10-24 03:06"
+  },
+  {
+   "id": "921f9ef4bf7e58b2",
+   "source": "Hacker News",
+   "title": "Florida officer found dead man, impersonated him for years, renovated his home",
+   "url": "https://www.nbcnews.com/news/us-news/officer-impersonates-dead-florida-man-moved-into-home-rcna604844",
+   "summary": "Article URL: https://www.nbcnews.com/news/us-news/officer-impersonates-dead-florida-man-moved-into-home-rcna604844 Comments URL: https://news.ycombinator.com/item?id=50213826 Points: 27 # Comments: 8",
+   "published_at": 1792782116.0,
+   "published_bj": "2026-10-24 03:01"
   },
   {
    "id": "38e8e90c164d229b",
