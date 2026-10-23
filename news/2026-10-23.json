@@ -1,6 +1,6 @@
 {
  "date": "2026-10-23",
- "generated_at": 1792763933.6690903,
+ "generated_at": 1792766236.1390684,
  "count": 400,
  "items": [
   {
@@ -20,6 +20,51 @@
    "summary": "点击查看原文>",
    "published_at": 1792768260.0,
    "published_bj": "2026-10-23 23:11"
+  },
+  {
+   "id": "25c91eaaef19a0d1",
+   "source": "IT之家",
+   "title": "中国科学家在地球深处发现隐藏氧气来源：高压实验显示硅酸盐熔体可储存超 5% 额外氧",
+   "url": "https://www.ithome.com/1/017/272.htm",
+   "summary": "IT之家 10 月 23 日消息，地球大气中的氧气从何而来，绝大部分人都会说光合作用。但一项新研究提出，在地球历史的某个关键节点，岩浆本身可能也曾充当过重要的氧气搬运工。 中国学者发表在《国家科学评论》上的一项高压实验与模拟研究显示，硅酸盐熔体在高压下能够容纳远超传统化学计量预期的“额外氧”，这些氧随岩浆上升、压力降低而被逐步释放，为理解约 25 亿至 20 亿年前大气氧含量的第一次大幅上升提供了一条此前未被纳入考量的深部路径。 传统上，地球科学家计算岩浆中的氧含量，依据的是硅、镁、铁等主要元素的丰度和价态。氧在硅酸盐地幔中占原子总数的一半以上，但绝大部分被化学键固定，其数量被认为完全由这些阳",
+   "published_at": 1792765641.0,
+   "published_bj": "2026-10-23 22:27"
+  },
+  {
+   "id": "59b778f03aee6cb5",
+   "source": "IT之家",
+   "title": "比亚迪第二代海豹 07 内饰官图，采用全新设计语言",
+   "url": "https://www.ithome.com/1/017/271.htm",
+   "summary": "IT之家 10 月 23 日消息，比亚迪今日发布了第二代海豹 07 内饰官图，新车采用了全新设计语言，除了保留大尺寸悬浮中控屏和液晶仪表外，方向盘、中控台装饰、出风口造型均有所变化。 据介绍，该车搭载奢享舒适座椅，支持 零重力、按摩、通风、加热 等功能，拥有同级最大后排空间，配备 20 扬帝瓦雷音响。 此前，比亚迪汽车海洋网销售事业部总经理张卓已公布第二代海豹 07 的外观，新车的定位将是 C 级全享家轿。相比现款车型，新车前脸拥有大量锋利的线条，采用全新样式的日行灯组，显得更加“凶猛”；侧面则采用类似溜背的轮廓，张力十足。细节方面，新车还配备半隐藏式门把手和车顶激光雷达。 IT之家注意到，新",
+   "published_at": 1792765355.0,
+   "published_bj": "2026-10-23 22:22"
+  },
+  {
+   "id": "dcc521d051a7ffa8",
+   "source": "cnBeta",
+   "title": "中国联通举办iPhone Duo首销活动：eSIM开通仅需3分钟",
+   "url": "https://www.cnbeta.com.tw/articles/tech/1583592.htm",
+   "summary": "10月23日， 苹果首款纯eSIM折叠屏iPhone Duo今日正式开售 。中国联通在北京西单营业厅举办iPhone Duo首销嘉年华，并邀请2009年首批联通iPhone老用户代表到场。 阅读全文",
+   "published_at": 1792765109.0,
+   "published_bj": "2026-10-23 22:18"
+  },
+  {
+   "id": "9c6eb036daa8895a",
+   "source": "IT之家",
+   "title": "微星神影 16 魔龙姬星际套装体验：锐龙 9 8940HX ，纯白高颜值与硬核性能兼得",
+   "url": "https://www.ithome.com/1/017/270.htm",
+   "summary": "对于游戏本来说，性能往往是选购时最先考虑的因素，但外观同样影响着日常使用体验。尤其是高性能游戏本，常见设计大多强调硬朗的机身线条与浓厚的电竞风格。如果想找一款性能足够强、外观又不那么浮夸张扬的产品，市面上的选择并不算多。 就在近日，IT之家拿到了一款特殊的游戏本新品 —— 神影 16 魔龙姬星际套装 2026。 作为微星 40 周年推出的特别产品，它将二次元 IP「魔龙姬」融入神影系列的设计之中，以「星云白」配色取代常见的黑灰色机身，让游戏本有了不同于传统电竞风格的表达。这款产品曾在 Computex 2026 上亮相，此次我们也有机会对它进行实际体验。 值得一提的是，本次IT之家拿到的并不只",
+   "published_at": 1792765082.0,
+   "published_bj": "2026-10-23 22:18"
+  },
+  {
+   "id": "ec7fb3497dc9addd",
+   "source": "cnBeta",
+   "title": "乌克兰称星链网速限制仍未解除",
+   "url": "https://www.cnbeta.com.tw/articles/tech/1583590.htm",
+   "summary": "乌克兰周五表示，其军事部队使用的星链（Starlink）通信系统仍然受到速度限制，与美国总统唐纳德·特朗普此前宣称服务已恢复的说法相矛盾。自10月13日以来，星链实施的限制使无人机无法以超过每小时160公里的速度飞行，妨碍了乌克兰军队的作战行动。华盛顿多次否认人为限制星链连接速度，而乌克兰总统弗拉基米尔·泽连斯基则坚称，这些限制是有意实施的。 阅读全文",
+   "published_at": 1792765077.0,
+   "published_bj": "2026-10-23 22:17"
   },
   {
    "id": "5c230e9a98d10f6e",
@@ -245,6 +290,15 @@
    "summary": "IT之家 10 月 23 日消息，机械革命极光产品线在极光 X 之外又上架了一款极光 16 Pro 游戏本，搭载英特尔酷睿 i7-13645HX 处理器、RTX 4050 独立显卡、16GB 内存、512GB 固态硬盘，京东显示定价 8799 元，首发价暂未公布。 京东 机械革命极光 16 Pro 酷睿 i7-13645HX 16G 512G RTX4050 180Hz 灰 券后 8499 元 领 300 元券 这款机型采用航空级铝镁合金机身，搭配镜面不锈钢 Logo，配备 16 英寸电竞屏，拥有 92% 屏占比、2560×1600 分辨率、180Hz 刷新率、500nits 典型亮度、100",
    "published_at": 1792760236.0,
    "published_bj": "2026-10-23 20:57"
+  },
+  {
+   "id": "71cfd1142f21fb41",
+   "source": "Hacker News",
+   "title": "Hacker leaks 281 GB of data from Germany's far-right AfD party",
+   "url": "https://www.bitdefender.com/en-us/blog/hotforsecurity/hacker-leaks-281-gb-data-germany-afd",
+   "summary": "Article URL: https://www.bitdefender.com/en-us/blog/hotforsecurity/hacker-leaks-281-gb-data-germany-afd Comments URL: https://news.ycombinator.com/item?id=50208258 Points: 57 # Comments: 19",
+   "published_at": 1792760198.0,
+   "published_bj": "2026-10-23 20:56"
   },
   {
    "id": "dda4396dfc71bbfb",
@@ -3548,60 +3602,6 @@
    "summary": "Microsoft’s new AI diagnostic system beat generalist doctors on hard cases, according to a study in Science. But most of the improvement seems to come from the AI models underneath, not from Microsoft’s system itself.",
    "published_at": 1792694633.0,
    "published_bj": "2026-10-23 02:43"
-  },
-  {
-   "id": "86d1bb14b7978911",
-   "source": "Hacker News",
-   "title": "Show HN: Build a world on your phone, explore it in XR on Vision Pro and Quest",
-   "url": "https://3d.camilleworld.com/play/",
-   "summary": "Article URL: https://3d.camilleworld.com/play/ Comments URL: https://news.ycombinator.com/item?id=50199349 Points: 5 # Comments: 1",
-   "published_at": 1792694379.0,
-   "published_bj": "2026-10-23 02:39"
-  },
-  {
-   "id": "a49a5c9594d35873",
-   "source": "TechCrunch",
-   "title": "Former OpenAI science lead launches Warp Science to automate wet labs with robots",
-   "url": "https://techcrunch.com/2026/10/22/former-openai-science-lead-launches-warp-science-to-automate-wet-labs-with-robots/",
-   "summary": "Wearing cameras and sensor gloves, the startup’s human chemists will train robots to perform various lab tasks.",
-   "published_at": 1792694327.0,
-   "published_bj": "2026-10-23 02:38"
-  },
-  {
-   "id": "b7f4c0382ee7633f",
-   "source": "Hacker News",
-   "title": "Show HN: UI micro interactions prompts for AI",
-   "url": "https://www.typeui.sh/micro-interactions",
-   "summary": "Article URL: https://www.typeui.sh/micro-interactions Comments URL: https://news.ycombinator.com/item?id=50199290 Points: 5 # Comments: 0",
-   "published_at": 1792693977.0,
-   "published_bj": "2026-10-23 02:32"
-  },
-  {
-   "id": "8858db6f3a8a8769",
-   "source": "Hacker News",
-   "title": "Award-Winning AI Literature",
-   "url": "https://jamesyu.org/award-winning-ai-literature/",
-   "summary": "Article URL: https://jamesyu.org/award-winning-ai-literature/ Comments URL: https://news.ycombinator.com/item?id=50199232 Points: 7 # Comments: 0",
-   "published_at": 1792693706.0,
-   "published_bj": "2026-10-23 02:28"
-  },
-  {
-   "id": "ae086e421f1ee27b",
-   "source": "Hacker News",
-   "title": "AI and the Enclosure of the Scientific Commons",
-   "url": "https://arxiv.org/abs/2610.27251",
-   "summary": "Article URL: https://arxiv.org/abs/2610.27251 Comments URL: https://news.ycombinator.com/item?id=50199230 Points: 7 # Comments: 0",
-   "published_at": 1792693696.0,
-   "published_bj": "2026-10-23 02:28"
-  },
-  {
-   "id": "168c69b13e0a34ce",
-   "source": "Hacker News",
-   "title": "AI analysis of CT scans finds 42.9% of patients have coronary inflammation",
-   "url": "https://www.biograph.com/newsroom/biograph-completes-first-u.s.-study-with-caristo-diagnostics%E2%80%99-ai-powered-coronary-inflammation-detection-finding-risk-in-over-42-of-asymptomatic-patients",
-   "summary": "Article URL: https://www.biograph.com/newsroom/biograph-completes-first-u.s.-study-with-caristo-diagnostics%E2%80%99-ai-powered-coronary-inflammation-detection-finding-risk-in-over-42-of-asymptomatic-patients Comments URL: https://news.ycombinator.com/item?id=50198940 Points: 20 # Comments: 10",
-   "published_at": 1792692174.0,
-   "published_bj": "2026-10-23 02:02"
   }
  ]
 }
