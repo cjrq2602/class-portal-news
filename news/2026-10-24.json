@@ -1,8 +1,26 @@
 {
  "date": "2026-10-24",
- "generated_at": 1792784923.6878097,
- "count": 41,
+ "generated_at": 1792786945.0492506,
+ "count": 44,
  "items": [
+  {
+   "id": "6ce6c0aa82ea9274",
+   "source": "cnBeta",
+   "title": "巴黎三家Apple Store周六均暂停营业 警方加强部署应对示威",
+   "url": "https://www.cnbeta.com.tw/articles/tech/1583622.htm",
+   "summary": "苹果计划于10月24日星期六关闭法国境内7家Apple Store，其中包括巴黎的三家门店：香榭丽舍大道店、歌剧院店和圣日耳曼市场店。巴黎周边购物中心内的苹果门店预计照常营业。三家巴黎门店将于次日重新开放，但营业时间缩短为中午12时至下午6时；另外四家临时关闭的门店位于巴黎以外，报道未公布具体名称。 阅读全文",
+   "published_at": 1792786353.0,
+   "published_bj": "2026-10-24 04:12"
+  },
+  {
+   "id": "7a0f274b9865ddac",
+   "source": "TechCrunch",
+   "title": "TechCrunch Founder Summit 2026 roundtables: Go deeper on the challenges founders are solving right now",
+   "url": "https://techcrunch.com/2026/10/23/techcrunch-founder-summit-2026-roundtables-go-deeper-on-the-challenges-founders-are-solving-right-now/",
+   "summary": "TechCrunch Founder Summit 2026 is coming to SoWa Power Station in Boston on November 4, bringing founders, investors, and operators together for a full day of candid conversations, practical sessions, live pitching, networking, and smaller roundtables built for deeper discussion.",
+   "published_at": 1792785794.0,
+   "published_bj": "2026-10-24 04:03"
+  },
   {
    "id": "f60abbbafa93ccc9",
    "source": "InfoQ中文",
@@ -20,6 +38,15 @@
    "summary": "A new program wants to encourage more startups to allow workers to cash out early by making it easier to transact tender offers.",
    "published_at": 1792783513.0,
    "published_bj": "2026-10-24 03:25"
+  },
+  {
+   "id": "5c1c22d7042669c8",
+   "source": "Hacker News",
+   "title": "Dessa: the most authentic full-duplex speech model ever built",
+   "url": "https://block.xyz/dessa",
+   "summary": "Article URL: https://block.xyz/dessa Comments URL: https://news.ycombinator.com/item?id=50213925 Points: 8 # Comments: 0",
+   "published_at": 1792782594.0,
+   "published_bj": "2026-10-24 03:09"
   },
   {
    "id": "2f764349b70fc0fa",
