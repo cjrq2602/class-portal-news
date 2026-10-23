@@ -1,6 +1,6 @@
 {
  "date": "2026-10-23",
- "generated_at": 1792768542.211595,
+ "generated_at": 1792771035.8649025,
  "count": 400,
  "items": [
   {
@@ -11,6 +11,24 @@
    "summary": "点击查看原文>",
    "published_at": 1792770332.0,
    "published_bj": "2026-10-23 23:45"
+  },
+  {
+   "id": "5de7a40be7ad780c",
+   "source": "IT之家",
+   "title": "男子醉酒后车机自动报警被判不构成自首：系统可以替你报警但不能替你自首",
+   "url": "https://www.ithome.com/1/017/278.htm",
+   "summary": "IT之家 10 月 23 日消息，由于把“110”设成紧急联系人，浙江一男子醉驾后，车辆发现异常上报给车企紧急救援中心并自动报警，后续被民警当场查获。该男子显然不服，并辩称这属于自首。 那么，这类车机触发的报警，法律上到底能不能认定为自首？据央视《法治在线》今日报道，这类新型醉驾案在法律上不能被认定为自首。车辆紧急救援系统自动拨出的报警电话，不能替驾驶人完成“自动投案”。 此次事件发生于 2026 年 3 月 19 日晚，周某酒后驾驶一辆小型普通客车返回家中，途中开启车辆驾驶辅助功能，后因酒劲上头困意难忍而选择在路边停车，随后在驾驶位昏睡起来。 但此时车辆仍处于启动状态，车企紧急救援中心监测到",
+   "published_at": 1792770072.0,
+   "published_bj": "2026-10-23 23:41"
+  },
+  {
+   "id": "c2b655e5f1f43e0b",
+   "source": "IT之家",
+   "title": "长城魏牌二代蓝山全球首秀定档 10 月 27 日，搭载 Hi-4 插电混动系统",
+   "url": "https://www.ithome.com/1/017/277.htm",
+   "summary": "IT之家 10 月 23 日消息，长城汽车今日宣布魏牌二代蓝山全球首秀定档 10 月 27 日。新车采用方盒子设计，搭载由 2.0T 发动机组成的 Hi-4 插电混动系统。 据介绍，魏牌二代蓝山主打“东方豪华”，尺寸为 5300×2050×1960mm、 轴距 3010mm ，轮胎规格 275/50 R21。 新车搭载 2.0T 混动专用发动机，匹配 4 挡混动专用变速箱，电机功率为前 110kW、后 220kW，内置 66.6kWh（1/3C）电池。 IT之家注意到，官方公布了该车的曜石黑、浅蓝外观配色，新车也已经在工信部完成申报。其尺寸为 5300×2050×1960mm、 轴距 3010",
+   "published_at": 1792768850.0,
+   "published_bj": "2026-10-23 23:20"
   },
   {
    "id": "043338d4918b60b5",
@@ -38,6 +56,15 @@
    "summary": "Quest is the latest in a series of healthcare technology companies that have been hacked in recent months.",
    "published_at": 1792767609.0,
    "published_bj": "2026-10-23 23:00"
+  },
+  {
+   "id": "e9141088ef549d56",
+   "source": "Hacker News",
+   "title": "eMudhra ignored Mozilla Root investigation deadline; blames social media",
+   "url": "https://bugzilla.mozilla.org/show_bug.cgi?id=2083449",
+   "summary": "Article URL: https://bugzilla.mozilla.org/show_bug.cgi?id=2083449 Comments URL: https://news.ycombinator.com/item?id=50210067 Points: 42 # Comments: 6",
+   "published_at": 1792767128.0,
+   "published_bj": "2026-10-23 22:52"
   },
   {
    "id": "49c5e06f4e577cee",
@@ -3575,33 +3602,6 @@
    "summary": "索尼日本已于10月22日结束UBP-X700/K超高清蓝光播放器出货。该机是索尼在日本销售的最后一款独立UHD Blu-ray播放机；索尼官方商店目前将其标为“缺货且不再补货”，售价为5.83万日元（含税）。 阅读全文",
    "published_at": 1792695289.0,
    "published_bj": "2026-10-23 02:54"
-  },
-  {
-   "id": "4837fd0d3569c95f",
-   "source": "cnBeta",
-   "title": "微软推出AI医疗诊断系统 复杂病例准确率达83%",
-   "url": "https://www.cnbeta.com.tw/articles/tech/1583432.htm",
-   "summary": "微软宣布，其人工智能医疗诊断系统Diagnostic Orchestrator在复杂病例测试中取得了优于人类医生的成绩。微软AI首席执行官穆斯塔法·苏莱曼表示，公司正在朝着医疗超级智能的目标迈进，并预计未来几年内，人工智能系统在医学领域的表现有望达到与人类专家难以区分的水平。 阅读全文",
-   "published_at": 1792695260.0,
-   "published_bj": "2026-10-23 02:54"
-  },
-  {
-   "id": "f0953423f4c084ba",
-   "source": "cnBeta",
-   "title": "Valve员工首次公开提及“HLX” 《半条命3》传闻再起",
-   "url": "https://www.cnbeta.com.tw/articles/game/1583430.htm",
-   "summary": "美国游戏开发商Valve近日再次引发玩家对《半条命3》（Half-Life 3）的猜测。长期参与Valve游戏配乐工作的作曲家迈克·莫拉斯基（Mike Morasky）在2026年游戏音频大会GameSoundCon的一场问答活动中，公开提到了内部代号“HLX”。由于这一代号多年来一直被玩家和数据挖掘者与传闻中的《半条命》新作联系在一起，这次罕见的公开提及迅速引发关注。 阅读全文",
-   "published_at": 1792695066.0,
-   "published_bj": "2026-10-23 02:51"
-  },
-  {
-   "id": "5b6ae598b6dd3bde",
-   "source": "cnBeta",
-   "title": "前OpenAI科学负责人创办Warp Sciences 融资2.15亿美元打造机器人药物实验室",
-   "url": "https://www.cnbeta.com.tw/articles/tech/1583428.htm",
-   "summary": "前OpenAI首席产品官兼科学团队负责人凯文·韦尔创办Warp Sciences，目标是把人工智能与机器人引入药物研发实验室，帮助生物科技和制药公司更快制造、测试候选化合物。韦尔宣布，公司已完成2.15亿美元融资，领投方为Lightspeed；公司估值据称达到8.65亿美元。IVP、Premji Invest、Mayfield、Lux Capital和Menlo Ventures等也参与投资。 阅读全文",
-   "published_at": 1792695035.0,
-   "published_bj": "2026-10-23 02:50"
   }
  ]
 }
