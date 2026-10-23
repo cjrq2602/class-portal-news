@@ -1,6 +1,6 @@
 {
  "date": "2026-10-22",
- "generated_at": 1792734766.9052198,
+ "generated_at": 1792737047.617821,
  "count": 400,
  "items": [
   {
@@ -418,6 +418,15 @@
    "published_bj": "2026-10-22 22:08"
   },
   {
+   "id": "d779fafaeda11dc3",
+   "source": "Hacker News",
+   "title": "Show HN: OnKey – I'm a bad singer, so I built an app to show where I'm off-key",
+   "url": "https://github.com/dsmurrell/onkey",
+   "summary": "Hi all I was pretty terrible at singing, now I’d say I’m bad but not terrible. This is because I’ve been using a singing app (won’t name it here) that scores me on my pitch and timing throughout the song so that I can improve. Lately however, the app I’ve been using has flooded their song list with ",
+   "published_at": 1792677884.0,
+   "published_bj": "2026-10-22 22:04"
+  },
+  {
    "id": "d9bcba6bc4c0945f",
    "source": "IT之家",
    "title": "《广播电视和网络视听“十五五”规划》印发：到 2030 年，广电媒体全面挺进互联网主战场",
@@ -533,6 +542,15 @@
    "summary": "Nirva will ship its $249 ambient AI pendant by the end of the year.",
    "published_at": 1792675612.0,
    "published_bj": "2026-10-22 21:26"
+  },
+  {
+   "id": "087323dc702bd4e0",
+   "source": "Hacker News",
+   "title": "The alien space of science: Coherent but cognitively unavailable directions",
+   "url": "https://arxiv.org/abs/2603.01092",
+   "summary": "Article URL: https://arxiv.org/abs/2603.01092 Comments URL: https://news.ycombinator.com/item?id=50195002 Points: 4 # Comments: 1",
+   "published_at": 1792675501.0,
+   "published_bj": "2026-10-22 21:25"
   },
   {
    "id": "3f5a3198581e4a1a",
@@ -3584,24 +3602,6 @@
    "summary": "美国游戏发行商EA（Electronic Arts）宣布新一轮业务重组计划，公司将裁减约400个工作岗位，约占全球员工总数的3%。这一调整不仅涉及此前备受关注的BioWare关闭事件，还波及《模拟人生》《Skate》等多个知名游戏项目。 阅读全文",
    "published_at": 1792614975.0,
    "published_bj": "2026-10-22 04:36"
-  },
-  {
-   "id": "b5d28add42f5e421",
-   "source": "TechCrunch",
-   "title": "Tesla starts Optimus robot production in California as profit falls 43%",
-   "url": "https://techcrunch.com/2026/10/21/tesla-stars-optimus-robot-production-in-california-as-profit-falls-43/",
-   "summary": "Tesla's revenue was flat and its expenses skyrocketed as it pressed the accelerator on its Optimus robots, AI, and autonomous driving.",
-   "published_at": 1792614789.0,
-   "published_bj": "2026-10-22 04:33"
-  },
-  {
-   "id": "de0fbcbdcefdac87",
-   "source": "IT之家",
-   "title": "泛林 FY2027Q1 归母净利润同比增长 75.51%，整体表现略好于市场预期",
-   "url": "https://www.ithome.com/1/016/166.htm",
-   "summary": "IT之家 10 月 22 日消息，泛林今日发布 2027 财年（2026 年 6 月 29 日～2027 年 6 月 28 日）第 1 财季（2026 年 6 月 29 日～2026 年 9 月 27 日）报告： 营业总收入 ：82.19 亿美元，同比增长 54.38%，环比增长 22% 毛利润 ：42.99 亿美元，同比增长 60.11%，环比增长 23.58% 毛利率 ：52.3%，同比增长 1.9 个百分点 归母净利润 ：27.53 亿美元，同比增长 75.51%，环比增长 20.9% 经营现金流 ：34.98 亿美元，同比增长 96.61% 基本每股收益 ：2.2 美元，同比增长 77",
-   "published_at": 1792614555.0,
-   "published_bj": "2026-10-22 04:29"
   }
  ]
 }
