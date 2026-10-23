@@ -1,7 +1,7 @@
 {
  "date": "2026-10-24",
- "generated_at": 1792775556.1946173,
- "count": 25,
+ "generated_at": 1792777793.6608977,
+ "count": 31,
  "items": [
   {
    "id": "f60abbbafa93ccc9",
@@ -58,6 +58,15 @@
    "published_bj": "2026-10-24 01:35"
   },
   {
+   "id": "444a92fa3a1c4ec7",
+   "source": "Hacker News",
+   "title": "Can we replace a $150k Looker with a bucket of HTML files?",
+   "url": "https://david.lequin.dev/blog/bi-software-is-dead/",
+   "summary": "Article URL: https://david.lequin.dev/blog/bi-software-is-dead/ Comments URL: https://news.ycombinator.com/item?id=50212320 Points: 3 # Comments: 0",
+   "published_at": 1792775703.0,
+   "published_bj": "2026-10-24 01:15"
+  },
+  {
    "id": "2e6483c6ab6318ec",
    "source": "InfoQ中文",
    "title": "全球学术期刊评价迎来新变化：从单一指标走向多元标准，中国评价体系加入国际版图",
@@ -67,6 +76,24 @@
    "published_bj": "2026-10-24 01:13"
   },
   {
+   "id": "b41904a4ba5201b0",
+   "source": "Hacker News",
+   "title": "Time Nuts",
+   "url": "http://leapsecond.com/time-nuts.htm",
+   "summary": "Article URL: http://leapsecond.com/time-nuts.htm Comments URL: https://news.ycombinator.com/item?id=50212281 Points: 11 # Comments: 3",
+   "published_at": 1792775571.0,
+   "published_bj": "2026-10-24 01:12"
+  },
+  {
+   "id": "c96645ad754a0552",
+   "source": "Hacker News",
+   "title": "Kimi K3.1 Pro",
+   "url": "https://www.kimi.ai/blog/kimi-k3-1-pro",
+   "summary": "Article URL: https://www.kimi.ai/blog/kimi-k3-1-pro Comments URL: https://news.ycombinator.com/item?id=50212246 Points: 47 # Comments: 5",
+   "published_at": 1792775427.0,
+   "published_bj": "2026-10-24 01:10"
+  },
+  {
    "id": "af21ca403add7265",
    "source": "Hacker News",
    "title": "Kimi K3.1 Pro and K3.1 Pro Highspeed",
@@ -74,6 +101,33 @@
    "summary": "Article URL: https://www.kimi.com/code/docs/en/kimi-code/models.html Comments URL: https://news.ycombinator.com/item?id=50212065 Points: 19 # Comments: 0",
    "published_at": 1792774748.0,
    "published_bj": "2026-10-24 00:59"
+  },
+  {
+   "id": "b188dcf99ddeccb9",
+   "source": "Hacker News",
+   "title": "UUIDv7 doesn't have the properties you think it does",
+   "url": "https://alexsci.com/blog/uuidv7-is-weird/",
+   "summary": "Article URL: https://alexsci.com/blog/uuidv7-is-weird/ Comments URL: https://news.ycombinator.com/item?id=50211746 Points: 16 # Comments: 1",
+   "published_at": 1792773585.0,
+   "published_bj": "2026-10-24 00:39"
+  },
+  {
+   "id": "333543f02e0f555b",
+   "source": "Hacker News",
+   "title": "The Missed Opportunities of Sonic 06",
+   "url": "https://isaacmarovitz.com/posts/sonic-06/",
+   "summary": "Article URL: https://isaacmarovitz.com/posts/sonic-06/ Comments URL: https://news.ycombinator.com/item?id=50211729 Points: 17 # Comments: 0",
+   "published_at": 1792773515.0,
+   "published_bj": "2026-10-24 00:38"
+  },
+  {
+   "id": "3fb67a7c648bc493",
+   "source": "Hacker News",
+   "title": "How Is Music Possible",
+   "url": "https://www.henrikkarlsson.xyz/p/music",
+   "summary": "Article URL: https://www.henrikkarlsson.xyz/p/music Comments URL: https://news.ycombinator.com/item?id=50211719 Points: 13 # Comments: 2",
+   "published_at": 1792773497.0,
+   "published_bj": "2026-10-24 00:38"
   },
   {
    "id": "f1502f77f3bcd834",

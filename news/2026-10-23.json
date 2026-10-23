@@ -1,6 +1,6 @@
 {
  "date": "2026-10-23",
- "generated_at": 1792775556.200295,
+ "generated_at": 1792777793.6647844,
  "count": 400,
  "items": [
   {
@@ -1541,6 +1541,15 @@
    "summary": "IT之家 10 月 23 日消息，英国《卫报》昨日（10 月 22 日）报道，谷歌为了在芬兰北部穆霍斯（Muhos）建设数据中心，清除了约 330 公顷（330 万平方米）森林， 估计砍伐约 25 万棵树，且在未完成法定环境影响评估前进行大规模土地清理，甚至移除了表土。 IT之家援引博文介绍，当地居民与环保组织批评称，工地如今只剩泥泞空地、机械辙痕和堆积的树根；泥水还可能流入最终汇入奥卢约基河的溪流，引发对水质和生态的担忧。 芬兰许可与监督局（LVV）本月早些时候要求谷歌暂停穆霍斯及约 100 公里外奥坦迈基（Otanmäki）两个工地的施工，并须在 10 月 23 日前停止会显著改变环境的活",
    "published_at": 1792738625.0,
    "published_bj": "2026-10-23 14:57"
+  },
+  {
+   "id": "df1c256da02be73b",
+   "source": "Hacker News",
+   "title": "Show HN: Swurf – Swipe through the real web",
+   "url": "https://swurf.org/",
+   "summary": "Hello HN, Swurf allows you to swipe through the real web one page after another. It learns what you like and doesn’t show you the same page twice. The idea came naturally: there’s a seemingly infinite amount of high quality blog posts, random topic rabbit holes, and trending or cool sites that exist",
+   "published_at": 1792738492.0,
+   "published_bj": "2026-10-23 14:54"
   },
   {
    "id": "36dcf9865a57c34d",
@@ -3145,6 +3154,15 @@
    "published_bj": "2026-10-23 07:54"
   },
   {
+   "id": "9a654ade1c0f4ddf",
+   "source": "Hacker News",
+   "title": "Show HN: Impossible Machines: declaratively program the physical world",
+   "url": "https://www.impossiblemachines.xyz",
+   "summary": "Hey all — Sharing a thought experiment I put together. The premise: what might declarative programming feel like for the physical world? We’re already familiar with this paradigm in software land (eg SQL etc where we declare what we want and the execution engine figures out how). I didn’t have acces",
+   "published_at": 1792713268.0,
+   "published_bj": "2026-10-23 07:54"
+  },
+  {
    "id": "21e0cc557e6a4e08",
    "source": "TechCrunch",
    "title": "Mark Zuckerberg’s creative plan to pay California’s proposed billionaire tax without losing control of Meta",
@@ -3584,24 +3602,6 @@
    "summary": "The new feature allows agents to log into a customer's personal accounts while still protecting the private credentials that secure those accounts.",
    "published_at": 1792696029.0,
    "published_bj": "2026-10-23 03:07"
-  },
-  {
-   "id": "eac34e2df433ead2",
-   "source": "TechCrunch",
-   "title": "Canva releases its first image generation model",
-   "url": "https://techcrunch.com/2026/10/22/canva-releases-its-first-image-generation-model/",
-   "summary": "Canva is making its new image model available to all users, promising better, more customizable performance at lower costs.",
-   "published_at": 1792695600.0,
-   "published_bj": "2026-10-23 03:00"
-  },
-  {
-   "id": "a8930364bb4b107f",
-   "source": "TechCrunch",
-   "title": "OpenAI makes its Jev competitor widely available as decision model competition heats up",
-   "url": "https://techcrunch.com/2026/10/22/openai-makes-its-jev-competitor-widely-available-as-decision-model-competition-heats-up/",
-   "summary": "OpenAI is launching its decision model to the world. Can it compete with the original Jev?",
-   "published_at": 1792695600.0,
-   "published_bj": "2026-10-23 03:00"
   }
  ]
 }
