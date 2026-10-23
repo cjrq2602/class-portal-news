@@ -1,7 +1,7 @@
 {
  "date": "2026-10-24",
- "generated_at": 1792773191.2435548,
- "count": 22,
+ "generated_at": 1792775556.1946173,
+ "count": 25,
  "items": [
   {
    "id": "f60abbbafa93ccc9",
@@ -67,6 +67,15 @@
    "published_bj": "2026-10-24 01:13"
   },
   {
+   "id": "af21ca403add7265",
+   "source": "Hacker News",
+   "title": "Kimi K3.1 Pro and K3.1 Pro Highspeed",
+   "url": "https://www.kimi.com/code/docs/en/kimi-code/models.html",
+   "summary": "Article URL: https://www.kimi.com/code/docs/en/kimi-code/models.html Comments URL: https://news.ycombinator.com/item?id=50212065 Points: 19 # Comments: 0",
+   "published_at": 1792774748.0,
+   "published_bj": "2026-10-24 00:59"
+  },
+  {
    "id": "f1502f77f3bcd834",
    "source": "InfoQ中文",
    "title": "AI 赋能开发，Spotify 月代码变更量翻倍",
@@ -83,6 +92,24 @@
    "summary": "Daytona is building a cloud for agents that's like giving every agent its own computer. It has attracted founders of Stripe, Perplextity, Datadog, Mercor and others as angels, it says.",
    "published_at": 1792772789.0,
    "published_bj": "2026-10-24 00:26"
+  },
+  {
+   "id": "49c3baeb8b259201",
+   "source": "Hacker News",
+   "title": "Total Historian",
+   "url": "https://www.theideasletter.org/essay/total-historian/",
+   "summary": "Article URL: https://www.theideasletter.org/essay/total-historian/ Comments URL: https://news.ycombinator.com/item?id=50211504 Points: 5 # Comments: 0",
+   "published_at": 1792772609.0,
+   "published_bj": "2026-10-24 00:23"
+  },
+  {
+   "id": "4367d9c2dc571e21",
+   "source": "Hacker News",
+   "title": "Today, we hacked what we'd set out to hack: the iPhone",
+   "url": "https://blog.calif.io/p/iphone",
+   "summary": "Article URL: https://blog.calif.io/p/iphone Comments URL: https://news.ycombinator.com/item?id=50211474 Points: 199 # Comments: 87",
+   "published_at": 1792772510.0,
+   "published_bj": "2026-10-24 00:21"
   },
   {
    "id": "c4f73a8e06be9ff5",

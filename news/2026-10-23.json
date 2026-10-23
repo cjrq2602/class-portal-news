@@ -1,6 +1,6 @@
 {
  "date": "2026-10-23",
- "generated_at": 1792773191.2928095,
+ "generated_at": 1792775556.200295,
  "count": 400,
  "items": [
   {
@@ -85,12 +85,30 @@
    "published_bj": "2026-10-23 22:46"
   },
   {
+   "id": "5856a14f47f3169f",
+   "source": "Hacker News",
+   "title": "An alignment assessment of the UK AISI cybertesting incident",
+   "url": "https://www.anthropic.com/research/alignment-assessment-ukaisi",
+   "summary": "Article URL: https://www.anthropic.com/research/alignment-assessment-ukaisi Comments URL: https://news.ycombinator.com/item?id=50209939 Points: 4 # Comments: 1",
+   "published_at": 1792766690.0,
+   "published_bj": "2026-10-23 22:44"
+  },
+  {
    "id": "bc63c81c61102749",
    "source": "IT之家",
    "title": "OpenAI 联合研究机构部署数千个 AI 智能体：32 分钟分析数百万个小鼠脑细胞，相当于人类数月时间",
    "url": "https://www.ithome.com/1/017/274.htm",
    "summary": "IT之家 10 月 23 日消息，OpenAI 联合 PerturbAI 和斯克里普斯研究所（Scripps Research），利用数千个 AI 智能体分析数百万个小鼠脑细胞的生物学数据，整个分析过程仅耗时 32 分钟。 研究团队估计，如果由人类研究人员逐项分析实验结果并检索相关文献，完成同等工作可能需要数月到一年。 根据 OpenAI 10 月 21 日发布的介绍，这项研究使用了专为生命科学研究设计的 GPT-Rosalind 模型，分析一份覆盖整个小鼠大脑的 CRISPR 图谱。该图谱记录了不同基因受到干预后，各类脑细胞产生的变化，有助于研究人员了解基因功能及其与疾病之间的潜在联系。 研",
    "published_at": 1792766624.0,
+   "published_bj": "2026-10-23 22:43"
+  },
+  {
+   "id": "b1a8b1833284fb1e",
+   "source": "Hacker News",
+   "title": "Gemma-4-26B-A4B with 39-69% less thinking at same accuracy",
+   "url": "https://bottlecapai.com/post/thinkingcap-gemma-4-26b/",
+   "summary": "Article URL: https://bottlecapai.com/post/thinkingcap-gemma-4-26b/ Comments URL: https://news.ycombinator.com/item?id=50209907 Points: 16 # Comments: 0",
+   "published_at": 1792766582.0,
    "published_bj": "2026-10-23 22:43"
   },
   {
@@ -3584,24 +3602,6 @@
    "summary": "OpenAI is launching its decision model to the world. Can it compete with the original Jev?",
    "published_at": 1792695600.0,
    "published_bj": "2026-10-23 03:00"
-  },
-  {
-   "id": "cc9fa7c46fb40570",
-   "source": "cnBeta",
-   "title": "英国启动太空垃圾清理计划 将移除两颗报废卫星",
-   "url": "https://www.cnbeta.com.tw/articles/science/1583438.htm",
-   "summary": "为应对日益严重的轨道拥堵问题，英国航天局宣布向ClearSpace UK授予价值6100万英镑（约合8100万美元）的合同，用于设计、建造和测试专门的太空垃圾清理航天器。这项任务计划在2029年至2032年期间执行，目标是在近地轨道移除两颗已经失去功能的英国卫星。 阅读全文",
-   "published_at": 1792695452.0,
-   "published_bj": "2026-10-23 02:57"
-  },
-  {
-   "id": "9cd65f6ead24c244",
-   "source": "cnBeta",
-   "title": "The Browser Company宣布Arc浏览器停运 全面押注AI新品Dia",
-   "url": "https://www.cnbeta.com.tw/articles/tech/1583436.htm",
-   "summary": "知名浏览器开发商The Browser Company宣布，将于2026年12月22日正式停止Arc浏览器服务。这款以创新界面和独特生产力功能闻名的浏览器即将结束使命，公司未来将把全部重点转向人工智能浏览器Dia。 阅读全文",
-   "published_at": 1792695344.0,
-   "published_bj": "2026-10-23 02:55"
   }
  ]
 }

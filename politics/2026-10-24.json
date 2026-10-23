@@ -1,8 +1,17 @@
 {
  "date": "2026-10-24",
- "generated_at": 1792773192.7017817,
- "count": 3,
+ "generated_at": 1792775558.327164,
+ "count": 4,
  "items": [
+  {
+   "id": "f4eb29cda97a4ecf",
+   "source": "中新网即时",
+   "title": "两名日本登山者在尼泊尔失联多日后遗体被发现",
+   "url": "https://www.chinanews.com.cn/gj/2026/10-24/10720160.shtml",
+   "summary": "中新社加德满都10月23日电 (记者 崔楠)尼泊尔救援人员23日在该国西北部山区发现两名此前失联的日本登山者遗体。",
+   "published_at": 1792774880.0,
+   "published_bj": "2026-10-24 01:01"
+  },
   {
    "id": "44a2a88729dd7083",
    "source": "BBC中文",
