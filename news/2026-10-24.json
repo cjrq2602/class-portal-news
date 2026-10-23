@@ -1,8 +1,26 @@
 {
  "date": "2026-10-24",
- "generated_at": 1792792273.8331556,
- "count": 54,
+ "generated_at": 1792794256.1600363,
+ "count": 57,
  "items": [
+  {
+   "id": "a7fd148197ed5178",
+   "source": "TechCrunch",
+   "title": "Hottest toy for Christmas? Nvidia CEO plays with adorable Microduck robots, 20,000 sell",
+   "url": "https://techcrunch.com/2026/10/23/hottest-toy-for-christmas-nvidia-ceo-plays-with-adorable-microduck-robots-20000-sell/",
+   "summary": "The robots, stomping their little feet and making tiny R2-D2 noises, sat, fell down dead for a \"nap,\" and summersaulted on voice command.",
+   "published_at": 1792792759.0,
+   "published_bj": "2026-10-24 05:59"
+  },
+  {
+   "id": "e1bef4587933e7ba",
+   "source": "Hacker News",
+   "title": "CVE Tracker",
+   "url": "https://cve.0xosprey.com/",
+   "summary": "Article URL: https://cve.0xosprey.com/ Comments URL: https://news.ycombinator.com/item?id=50215530 Points: 7 # Comments: 0",
+   "published_at": 1792790507.0,
+   "published_bj": "2026-10-24 05:21"
+  },
   {
    "id": "9026339a6c149e58",
    "source": "cnBeta",
@@ -20,6 +38,15 @@
    "summary": "Top investors from Iconiq and Sapphire Ventures, along with Rahul Vohra, the founder of Superhuman Mail share the do's and don'ts for building hit products.",
    "published_at": 1792789033.0,
    "published_bj": "2026-10-24 04:57"
+  },
+  {
+   "id": "6da9a0035cebf70b",
+   "source": "Hacker News",
+   "title": "No Source Code? No Problem",
+   "url": "https://queue.acm.org/doi/10.1145/945131.945155",
+   "summary": "Article URL: https://queue.acm.org/doi/10.1145/945131.945155 Comments URL: https://news.ycombinator.com/item?id=50214994 Points: 5 # Comments: 0",
+   "published_at": 1792787886.0,
+   "published_bj": "2026-10-24 04:38"
   },
   {
    "id": "b51e9c02b9a42404",
