@@ -1,8 +1,287 @@
 {
  "date": "2026-10-23",
- "generated_at": 1792715458.4239695,
- "count": 84,
+ "generated_at": 1792718411.9188771,
+ "count": 119,
  "items": [
+  {
+   "id": "29275c6db5df66d1",
+   "source": "InfoQ中文",
+   "title": "上下文语言模型：通过自主管理上下文提升性能、降低计算成本",
+   "url": "https://www.infoq.cn/article/Pwu4FNskSB2cbKV9BZKq?utm_source=rss&utm_medium=article",
+   "summary": "点击查看原文>",
+   "published_at": 1792746300.0,
+   "published_bj": "2026-10-23 17:05"
+  },
+  {
+   "id": "dc8560b3070557d5",
+   "source": "InfoQ中文",
+   "title": "DeepSeek千亿融资逼近收官：结盟完美世界、中芯聚源等产业资本，募资翻倍押注具身智能",
+   "url": "https://www.infoq.cn/article/ViOyxiOSP2ihxuUyg1rD?utm_source=rss&utm_medium=article",
+   "summary": "点击查看原文>",
+   "published_at": 1792745190.0,
+   "published_bj": "2026-10-23 16:46"
+  },
+  {
+   "id": "23ab869d4f36f3b7",
+   "source": "IT之家",
+   "title": "iQOO Neo12 手机官宣搭载 9000mAh 蓝海电池，能量密度 916Wh/L",
+   "url": "https://www.ithome.com/1/016/806.htm",
+   "summary": "IT之家 10 月 23 日消息，iQOO Neo12 手机将于 10 月 28 日 19:00 发布即开售。 官方今日对这款新机进行预热，官宣 搭载 9000mAh 蓝海电池 ，采用第五代硅负极技术， 能量密度 916Wh/L 。 此外，新机支持 全局直驱供电 2.0 ，覆盖游戏、导航、追剧等多场景，边充边玩少发烫。 IT之家整理 iQOO Neo12 新机目前已公布 / 曝光的配置如下： 性能：第五代骁龙 8 至尊版处理器 | 自研电竞芯片 Q3 | 全新一代 Monster 超核引擎 散热：冰穹风冷散热系统（主动散热风扇） 外观：方形 Deco 造型设计 配色：「争锋」|「疾影黑」|「霜",
+   "published_at": 1792718303.0,
+   "published_bj": "2026-10-23 09:18"
+  },
+  {
+   "id": "e9b303c7875fe238",
+   "source": "IT之家",
+   "title": "苹果 iOS 27.2 新特性曝光：Messages 未读消息角标计数可排除已静音对话",
+   "url": "https://www.ithome.com/1/016/805.htm",
+   "summary": "IT之家 10 月 23 日消息，消息源 @aaronp613 于 10 月 20 日在 X 平台发布推文，通过挖掘 iOS 27.2 RC 候选版更新，发现苹果正为信息（Messages）应用开发新特性，在未读消息角标计数中，支持排除已静音的信息对话。 IT之家援引博文介绍，iPhone 18 Pro 等用户为了减少通知干扰，可以在“信息”中静音某个群聊或联系人，但被静音会话收到的新消息， 仍会累计到“信息”应用的未读角标中。 对于加入了多个活跃群聊、或希望降低社交信息干扰的用户而言，该设计带来了一定的困扰，明明已经选择“静音”，应用图标上的未读数字却依然不断上升。 而在 iOS 27.2 ",
+   "published_at": 1792718280.0,
+   "published_bj": "2026-10-23 09:18"
+  },
+  {
+   "id": "57868e30a5033d5d",
+   "source": "IT之家",
+   "title": "华硕 ROG 战刃 4 Ace 鼠标发售：8 档质量可调，到手 799 元",
+   "url": "https://www.ithome.com/1/016/804.htm",
+   "summary": "IT之家 10 月 23 日消息，华硕 (ASUS) 玩家国度 (ROG) 鼠标新品战刃 4 Ace (Gladius IV Ace) 即将于今日 10:00 发售。该型号可选暗夜黑、月耀白、晴空蓝、熔岩红 4 种配色， 到手价 799 元 。 战刃 4 Ace 采用右手人体工学模具， 配备 AimPoint Pro 65K 传感器 、ROG 光学微动开关，支持三模连接，具备 ROG SpeedNova 8K Gen II 无线技术。 其三维 127.5 × 67.7 × 44.15 (mm)，基础质量 56 克，搭配可堆叠模块化配重块（3g / 5g / 7g 各一个）， 实现 8 种手感微",
+   "published_at": 1792718222.0,
+   "published_bj": "2026-10-23 09:17"
+  },
+  {
+   "id": "4dedf43940ace839",
+   "source": "IT之家",
+   "title": "消息称华为 Pura 90 Plus 手机搭载麒麟 9025 处理器，预装鸿蒙 7.0 系统",
+   "url": "https://www.ithome.com/1/016/802.htm",
+   "summary": "IT之家 10 月 23 日消息，华为 Pura 90 Plus 将于今日 10:08 开启预订。 IT之家注意到，博主 @数码闲聊站 刚刚曝光了新机的主要参数： 6.8 英寸 2848×1276p 1.5K+120Hz LTPO 等深双曲屏 麒麟 9025 处理器 12GB+256GB/12GB+512GB/12GB+1TB 50Mp 1 英寸 RYYB 可变光圈主摄 预装鸿蒙 7.0 系统 今年 4 月，华为常务董事、产品投资评审委员会主任、终端 BG 董事长余承东正式发布了 Pura 90 系列手机。IT之家附产品百科：",
+   "published_at": 1792717765.0,
+   "published_bj": "2026-10-23 09:09"
+  },
+  {
+   "id": "e944a8732f706a3e",
+   "source": "IT之家",
+   "title": "TrendForce 预测：2027 年服务器 CPU 出货有望增长超 40%，Arm 指令集可拿下三成份额",
+   "url": "https://www.ithome.com/1/016/801.htm",
+   "summary": "IT之家 10 月 23 日消息，TrendForce（集邦）昨日发布预测，认为服务器 CPU 出货有望在 2026、2027 两年分别增长 31% 和超 40%。这得益于代理式人工智能工作负载对 CPU : 加速器需求比例的提升。 英特尔 AMD 英伟达 AWS 谷歌 其它 2026 年 50% 27% 12% 4% 3% 4% 2027 年 42% 28% 12% 5% 6% 7% 总体来看， 基本全数基于 Arm 指令集的非 x86 阵营在今明两年有望分别拿下 23% 和 30% 市占 ，份额显著提升。龙头英特尔则由于下代 \"Diamond Rapids\" 的出货迟缓出现市占下滑。 参考",
+   "published_at": 1792717715.0,
+   "published_bj": "2026-10-23 09:08"
+  },
+  {
+   "id": "f23181aea0e139c5",
+   "source": "IT之家",
+   "title": "MiniMax M3.1 Flash 开源模型权重，总参数 428B",
+   "url": "https://www.ithome.com/1/016/800.htm",
+   "summary": "IT之家 10 月 23 日消息，MiniMax 稀宇科技今日宣布 开源 MiniMax M3.1 Flash 的模型权重 ，总参数 428B，激活参数 23B。 相较于上一代 M3 模型，M3.1 Flash 的模型能力实现了全面提升。此外，通过全模型稀疏注意力、量化感知训练和 Power-aware scheduling 等优化工作，M3.1 Flash 进一步提升了推理效率： 全模型稀疏注意力： 前三个全注意力层替换为稀疏注意力； QAT ： 路由 MoE 专家迁移到 W4A4（共享专家除外），稀疏注意力索引器和主分支从 Q8KV8 迁移到 Q8KV4； Power - aware sc",
+   "published_at": 1792717688.0,
+   "published_bj": "2026-10-23 09:08"
+  },
+  {
+   "id": "71dbe733f33b3483",
+   "source": "IT之家",
+   "title": "“现代史上最大规模财富捐赠”：Anthropic 等 AI 三巨头拟投入近 3000 亿美元做慈善",
+   "url": "https://www.ithome.com/1/016/799.htm",
+   "summary": "IT之家 10 月 23 日消息，《华盛顿邮报》昨日（10 月 22 日）发布博文，报道称 Anthropic、OpenAI 和 SpaceXSI 三家 AI 巨头正酝酿“现代史上规模最大的财富捐赠”，规模可能接近 3,000 亿美元 （IT之家注：现汇率约合 2.01 万亿元人民币） 。 Anthropic 宣布，将把公司 5% 股份捐入一个新的公益基金。若该公司上市时估值达到 2 万亿美元 （现汇率约合 13.38 万亿元人民币） ，该基金规模可达 1,000 亿美元 （现汇率约合 6,688.23 亿元人民币） ；其七位创始人还承诺捐出个人财富的 80%。这笔资金可能用于补贴受 AI 自",
+   "published_at": 1792717666.0,
+   "published_bj": "2026-10-23 09:07"
+  },
+  {
+   "id": "e4eb1c4409fa8a1c",
+   "source": "IT之家",
+   "title": "苹果 iPhone Duo 内屏磨砂膜能徒手撕下：秒变亮面屏，但小心损失 7998 元",
+   "url": "https://www.ithome.com/1/016/797.htm",
+   "summary": "IT之家 10 月 23 日消息，苹果首款折叠屏手机 iPhone Duo 今日正式发售，新机的折叠内屏设有一层保护层（cover layer）， 配合哑光显示涂层 ，以最大限度减少折痕可见度。 根据博主 @YCS杨长顺维修家 的直播测试， 用户可以徒手将 iPhone Duo 的这层内屏磨砂膜撕下来 ，屏幕秒变亮面屏。 测试还显示， iPhone Duo 内屏有两层膜 ，可以单独将上方的哑光层撕下来。 根据苹果官方介绍，iPhone Duo 的内屏非常平整光滑，并采用特制的纳米纹理工艺，可减少眩光和反光，带来连贯流畅的观看体验。光学透明粘胶可让显示屏各层在屏幕折叠时顺畅地相对滑动，从而尽可能",
+   "published_at": 1792717160.0,
+   "published_bj": "2026-10-23 08:59"
+  },
+  {
+   "id": "1a539bfd42fe8470",
+   "source": "IT之家",
+   "title": "DeepSeek、MiniMax 已顺利履行登记手续，完成开源和海外授权使用",
+   "url": "https://www.ithome.com/1/016/796.htm",
+   "summary": "IT之家 10 月 23 日消息，10 月 16 日，商务部、科技部就 修订《中国禁止出口限制出口技术目录》公开征求意见 。 其中，人工智能领域包括 大模型、智能体、算力集群、信息处理 相关 23 项技术；对已通过开源、发表学术论文等方式进入公共领域的技术，不纳入管理范围。 中央广播电视总台旗下新媒体账号玉渊谭天昨晚（22 日）发文透露， 政策公布以来，DeepSeek、MiniMax 两家头部企业已顺利履行登记手续，并完成开源和海外授权使用 。 商务部新闻发言人此前就有关问题回答了记者提问，IT之家整理商务部原文如下： 问：对于拟增列的人工智能技术，主要有哪些考虑？ 答：当前，全球人工智能技",
+   "published_at": 1792717134.0,
+   "published_bj": "2026-10-23 08:58"
+  },
+  {
+   "id": "cc845b989143fe1f",
+   "source": "IT之家",
+   "title": "美财长贝森特：AI 行业不会重演互联网泡沫破裂，我没发现“系统性问题”",
+   "url": "https://www.ithome.com/1/016/795.htm",
+   "summary": "IT之家 10 月 23 日消息，据英国《金融时报》报道，美国财政部长斯科特 · 贝森特在一场私人会议上告诉投资者，自己没有发现 AI 热潮存在“系统性问题”，从而淡化了外界对 AI 行业可能重演互联网泡沫破裂 的担忧。 当地时间 21 日，贝森特在纽约出席了一场由摩根大通和罗宾汉基金会联合主办的会议，现场有数百名金融业高管和投资者。罗宾汉基金会是亿万富翁对冲基金经理保罗 · 都铎 · 琼斯创办的非营利组织。会议以提供“独家投资见解”为宣传卖点，门票最低 7,500 美元 （现汇率约合 50,162 元人民币） ，记者不得入场。 据三名与会人士透露，曾担任宏观对冲基金经理的贝森特在接受桥水基金",
+   "published_at": 1792716937.0,
+   "published_bj": "2026-10-23 08:55"
+  },
+  {
+   "id": "c436fff5d23c62fb",
+   "source": "IT之家",
+   "title": "卫星相撞、碎片扩散咋办？美国太空军找 6 家商业公司帮忙盯轨道",
+   "url": "https://www.ithome.com/1/016/794.htm",
+   "summary": "IT之家 10 月 23 日消息，科技媒体 airandspaceforces 发布博文，报道称美国太空军昨日（10 月 22 日）宣布，已选定 6 家商业公司， 作为其“商业增强太空预备队”（CASR）首批太空态势感知服务商。 IT之家援引博文介绍，入选商业增强太空储备（CASR）的公司包括： 1. Anduril 2. LeoLabs 3. Slingshot Aerospace 4. Intrack 5. EOS (澳大利亚) 6. NorthStar Earth &amp; Space (加拿大) 这些企业将为美军提供日常卫星跟踪、太空目标识别及危机时快速扩容的监视能力。 该计划类似美",
+   "published_at": 1792716777.0,
+   "published_bj": "2026-10-23 08:52"
+  },
+  {
+   "id": "d994bb3597baebaf",
+   "source": "Hacker News",
+   "title": "The foolishness of \"natural language programming\" (1978)",
+   "url": "https://www.cs.utexas.edu/~EWD/transcriptions/EWD06xx/EWD667.html",
+   "summary": "Article URL: https://www.cs.utexas.edu/~EWD/transcriptions/EWD06xx/EWD667.html Comments URL: https://news.ycombinator.com/item?id=50203161 Points: 3 # Comments: 1",
+   "published_at": 1792716721.0,
+   "published_bj": "2026-10-23 08:52"
+  },
+  {
+   "id": "fbc91a3d49190bfa",
+   "source": "IT之家",
+   "title": "微博官方 11.11 发车：会员年卡 54 元、SVIP 年卡 117 元大促",
+   "url": "https://www.ithome.com/1/016/792.htm",
+   "summary": "微博会员年卡日常售价 120 元，11.11 大促活动价 60 元，下单赠送 1 个月，淘金币可抵 0.6 元； 到手价为 59.4 元 13 个月，折合 54.83 元 / 年，4.56 元 / 月： 天猫 新浪微博会员 年卡赠月卡 到手 13 个月 59.4 元 直达链接 微博 SVIP 会员年卡日常售价 258 元，11.11 大促活动价 129 元，下单赠送 1 个月，淘金币可抵 1.29 元； 到手价为 127.71 元 13 个月，折合 117.88 元 / 年，9.82 元 / 月： 天猫 新浪微博 高级会员年卡赠月卡 到手 13 个月 127.71 元 直达链接 微博会员特权 ",
+   "published_at": 1792716484.0,
+   "published_bj": "2026-10-23 08:48"
+  },
+  {
+   "id": "98d5e08115ae9962",
+   "source": "TechCrunch",
+   "title": "Left alone with nothing to do, AI agents started playing",
+   "url": "https://techcrunch.com/2026/10/22/left-alone-with-nothing-to-do-ai-agents-started-playing/",
+   "summary": "MIT researchers marooned 13 AIs on a virtual island, and they responded by inventing games, mourning a lost ring and, eventually, getting better at their jobs.",
+   "published_at": 1792716337.0,
+   "published_bj": "2026-10-23 08:45"
+  },
+  {
+   "id": "e9457dfece24337d",
+   "source": "IT之家",
+   "title": "苹果新订阅机制：买多个应用会员席位，邀请朋友一起用",
+   "url": "https://www.ithome.com/1/016/791.htm",
+   "summary": "IT之家 10 月 23 日消息，苹果开发者官网昨日（10 月 22 日）发布公告，宣布 App Store 应用商店将于冬季面向普通用户上线“群组订阅”（Group Purchases）功能：一名用户可一次性购买多个订阅席位，并邀请家人、同事或团队成员使用同一项应用订阅服务。 IT之家附上官方介绍如下： 探索通过多席位购买扩大订阅用户群的两种新方法： 群组购买允许单个订阅者购买多个席位，并直接从你的 App 邀请其他用户； 批量购买则通过 Apple 商务和 Apple 校园教务管理进行，可将你的订阅呈现给大规模采购 App 的企业客户和教育机构客户。 根据苹果开发者页面， 企业及教育机构的",
+   "published_at": 1792716253.0,
+   "published_bj": "2026-10-23 08:44"
+  },
+  {
+   "id": "22e8efcc59041adb",
+   "source": "IT之家",
+   "title": "消息称 SpaceX 洽谈租用 8 万个通信基站，拟打造美国第四大全国性无线运营商",
+   "url": "https://www.ithome.com/1/016/790.htm",
+   "summary": "IT之家 10 月 23 日消息，据彭博社报道，知情人士透露， SpaceX 计划在美国各地获取至少 8 万个通信基站 。SpaceX 目前正与至少一家大型移动通信基础设施公司进行谈判，以实现这一目标。 知情人士指出，若达成协议，将为这家兼具火箭与卫星业务的科技巨头打造全美第四大无线运营商奠定相关基础。 知情人士透露，SpaceX 正在洽谈的租赁对象之一是冠城国际（Crown Castle Inc.）。该公司与美国铁塔（American Tower Corp.）以及 Vertical Bridge Holdings 并列为美国最大的通信塔资产持有者。 在周三举行的财报电话会议上，当被问及冠城国",
+   "published_at": 1792716059.0,
+   "published_bj": "2026-10-23 08:40"
+  },
+  {
+   "id": "1cb5047d333df013",
+   "source": "IT之家",
+   "title": "工信部：我国已初步构建智能网联汽车政策管理体系",
+   "url": "https://www.ithome.com/1/016/787.htm",
+   "summary": "IT之家 10 月 23 日消息，据央视新闻今日报道，在 2026 世界智能网联汽车大会上，工业和信息化部相关负责人表示， 我国已初步构建与产业发展相适应的智能网联汽车政策管理体系 。 截至目前，我国已发布智能网联汽车相关标准 90 项，下达立项计划 62 项，多项强制性国家标准为产品明确了统一安全基线。 在测试示范方面，我国已布局建设 17 个国家级测试示范区，同步推动 20 个“车路云一体化”应用试点城市建设，累计发放测试牌照超过 2 万张，开放测试道路 5.7 万公里，测试总里程突破 2.2 亿公里。 工业和信息化部装备工业一司司长郭守刚：我们联合相关部门制定印发了智能网联新能源汽车产业",
+   "published_at": 1792715778.0,
+   "published_bj": "2026-10-23 08:36"
+  },
+  {
+   "id": "ce9616f70dcbecba",
+   "source": "IT之家",
+   "title": "华为 Pura90 Plus 手机官宣：今起开启预订",
+   "url": "https://www.ithome.com/1/016/786.htm",
+   "summary": "IT之家 10 月 23 日消息，@华为终端 刚刚宣布，华为 Pura90 Plus，10 月 23 日（今天）10:08 开启预订。 官微暂未披露新机更多的配置信息，IT之家将持续关注。 而在昨天，@数码闲聊站 曝光了新机部分配置 ：内部代号 Lucia，6.8 英寸 1.5K 大屏，左上角三角形三摄镜组，配色曜石黑 / 雪域白 / 晨曦金 / 霞光紫，“核心出装”将是 今年唯一 50Mp 1 英寸 RYYB 可变光圈主摄 。 今年 4 月，华为常务董事、产品投资评审委员会主任、终端 BG 董事长余承东正式发布了 Pura 90 系列手机。 华为 Pura 90 标准版搭载海思麒麟 9010",
+   "published_at": 1792715760.0,
+   "published_bj": "2026-10-23 08:36"
+  },
+  {
+   "id": "ebfc6072b7c7a178",
+   "source": "IT之家",
+   "title": "直击苹果首款折叠屏 iPhone Duo 发售现场，首发日黄牛加价千元回收手机",
+   "url": "https://www.ithome.com/1/016/785.htm",
+   "summary": "IT之家 10 月 23 日现场消息，苹果首款折叠屏手机 iPhone Duo 于今天发售，国行定价 15999 元起，为了配合线下门店取货。今天多地 Apple Store 提早到 8 点开业供用户取货。 今年 iPhone Duo 采用了和 18 Pro Max 同样的“线上预购、线下取货”机制，IT之家在现场询问苹果 Apple Store 店员确认， 门店没有提供可直接购买的现货 ，在门店 10 点正式开门前，仅有预约指定时段的用户可进店购买， 未持有订单的用户只能在 10 点后前往店里体验展示机 。 尽管先前有所谓“加价 5000 元”传言，但实际上门店门口回收手机的黄牛寥寥，大多还",
+   "published_at": 1792715509.0,
+   "published_bj": "2026-10-23 08:31"
+  },
+  {
+   "id": "b4c6198c9d5c7113",
+   "source": "IT之家",
+   "title": "通用汽车：目标让旗下最畅销皮卡和 SUV 实现“脱眼”自动驾驶",
+   "url": "https://www.ithome.com/1/016/784.htm",
+   "summary": "IT之家 10 月 23 日消息，据路透社 22 日报道，通用汽车计划将 驾驶员无需注视路面的自动驾驶 功能引入旗下最畅销、利润最高的大型皮卡和 SUV，希望通过软件和技术服务，为巨额研发投入开辟新的收入来源。 目前，不少辅助驾驶系统可以在特定条件下控制方向和车速，有些甚至允许驾驶员双手脱离方向盘，但驾驶员仍须时刻注意路况。 真正允许驾驶员 将视线移开路面 的自动驾驶系统仍不多见，这类系统通常 只能在车辆频繁起步、停车的拥堵路段等有限区域内 低速运行。 一些汽车行业高管认为，如果自动驾驶系统需要反复将驾驶控制权交还给驾驶员，就会面临 复杂的安全和责任划分问题 ，而且未必能吸引足够多的消费者。 ",
+   "published_at": 1792715504.0,
+   "published_bj": "2026-10-23 08:31"
+  },
+  {
+   "id": "35faf4dce9404d56",
+   "source": "IT之家",
+   "title": "《半条命 3》真的要来了？Valve 开发者首次公开提及 HLX 游戏代号",
+   "url": "https://www.ithome.com/1/016/783.htm",
+   "summary": "IT之家 10 月 23 日消息，科技媒体 pcgamer 昨日（10 月 22 日）发布博文，报道称 10 月 21 日在美国加州伯班克举行的 GameSoundCon 游戏音频大会问答环节中， Valve 作曲家兼音频设计师迈克 · 莫拉斯基（Mike Morasky）公开提及代号“HLX”，令外界对《Half-Life 3》（可译为半条命 3 / 半衰期 3，下文采用半条命译法）的猜测再度升温。 IT之家附上相关视频如下： 报道称莫拉斯基当时正在讨论 Valve 在 Source 2 引擎中的开放、灵活音频系统。他在比较不同项目的高动态范围（HDR）音频实现时表示：“Deadlock 有",
+   "published_at": 1792715025.0,
+   "published_bj": "2026-10-23 08:23"
+  },
+  {
+   "id": "a8c7374349530e0e",
+   "source": "IT之家",
+   "title": "消息称 OpenAI 融资磋商进入尾声，估值目标下调至 1.25 万亿美元",
+   "url": "https://www.ithome.com/1/016/782.htm",
+   "summary": "IT之家 10 月 23 日消息，据彭博社报道，知情人士透露，正在寻求在最新一轮融资中筹集约 300 亿美元 （IT之家注：现汇率约合 2,006.8 亿元人民币） 的 OpenAI，目前在谈判的最后阶段将 目标估值定为 1. 25 万亿美元 （现汇率约合 8.36 万亿元人民币） 。 知情人士称，OpenAI 在磋商中将此前讨论的估值 从 1.4 万亿美元（现汇率约合 9.37 万亿元人民币）下调了 1,500 亿美元 （现汇率约合 1 万亿元人民币） 。上述人士同时表示，相关融资谈判仍在推进中，具体细节仍可能有变。 另据路透社此前报道，OpenAI 正争分夺秒地争取投资者承诺，力求在竞争对",
+   "published_at": 1792714878.0,
+   "published_bj": "2026-10-23 08:21"
+  },
+  {
+   "id": "4631dee39f017f69",
+   "source": "IT之家",
+   "title": "外部评估人员发现 OpenAI 内部监控系统漏洞：AI 智能体可绕过安全限制",
+   "url": "https://www.ithome.com/1/016/781.htm",
+   "summary": "IT之家 10 月 23 日消息，今年早些时候，AI 安全评估机构 METR 和 Redwood Research 对 OpenAI 的内部监控系统进行了试点评估，发现多项新漏洞。其中一项漏洞可被 AI 智能体利用， 使数百次操作逃过监控 。 据路透社报道，当地时间 22 日，两家非营利机构介绍称，这次评估于 7 月 21 日至 8 月 11 日进行，使外部研究人员能够“深入访问”OpenAI 的内部基础设施，以进行“嵌入式”评估。 METR 和 Redwood Research 各派出一名研究员，获准查阅 OpenAI 的内部代码和文档，并与部分技术人员交流。两人在现场始终有人陪同，使用的设",
+   "published_at": 1792714780.0,
+   "published_bj": "2026-10-23 08:19"
+  },
+  {
+   "id": "661750eaeaa10ccd",
+   "source": "IT之家",
+   "title": "倒计时 2 个月：Arc 浏览器 12 月停运，曾被视为“Chrome 最强颠覆者”",
+   "url": "https://www.ithome.com/1/016/780.htm",
+   "summary": "IT之家 10 月 23 日消息，以创新界面和生产力功能著称的 Arc 浏览器即将正式谢幕。The Browser Company 昨日（10 月 22 日）宣布， Arc 浏览器将于 2026 年 12 月 22 日停止服务，公司未来将把工程与安全资源全面投入 AI 浏览器 Dia。 Arc 曾因独特的设计语言、空间化标签管理和“少即是多”的浏览体验，在上线初期被全球主流科技媒体、硅谷投资圈以及科技播客等盛赞，并被贴上了“Chrome 最强颠覆者”、“Chrome 杀手”和“Chrome 终结者”等标签。 IT之家援引官方公告，此次关停采取分阶段推进： 即日起，用户已无法创建新的 Arc 账",
+   "published_at": 1792714236.0,
+   "published_bj": "2026-10-23 08:10"
+  },
+  {
+   "id": "7b408f23410862d4",
+   "source": "IT之家",
+   "title": "黄仁勋称 2029 年不太可能出现内存过剩，英伟达仍会大量使用",
+   "url": "https://www.ithome.com/1/016/779.htm",
+   "summary": "IT之家 10 月 23 日消息，据 CNBC 报道，英伟达 CEO 黄仁勋周四接受采访时表示， 到 2029 年，内存芯片行业不太可能出现过剩的情况 。此前一周，由于市场对产能过剩和需求放缓的担忧，存储板块股票遭遇集中抛售。 黄仁勋指出，“内存的一大好处是， 你总是可以用得更多 （You can always use more）。”他补充说，高带宽内存 HBM 在未来数年内仍将被持续广泛采用。 黄仁勋还表示，“我们是全球首家将手机中采用的 LPDDR 内存引入数据中心的企业。这使我们能够提供比当今世界上任何产品高出一倍能效的性能， 因此我们也将继续大量使用它们 。” IT之家注意到，过去一周",
+   "published_at": 1792714085.0,
+   "published_bj": "2026-10-23 08:08"
+  },
+  {
+   "id": "ff69dcfb2fdb6939",
+   "source": "IT之家",
+   "title": "【视频】iPhone Duo 上手体验：相比硬件，软件才是折叠屏的真考题",
+   "url": "https://www.ithome.com/1/016/778.htm",
+   "summary": "iPhone Duo 上手体验：相比硬件，软件才是折叠屏的真考题。 点击关注IT之家B站账号",
+   "published_at": 1792713939.0,
+   "published_bj": "2026-10-23 08:05"
+  },
+  {
+   "id": "d64dac14306d467b",
+   "source": "IT之家",
+   "title": "【视频】IT之家 App 是如何适配苹果 iPhone Duo 的？有彩蛋哦",
+   "url": "https://www.ithome.com/1/016/777.htm",
+   "summary": "IT之家 App 是如何适配苹果 iPhone Duo 的？有彩蛋哦。 点击关注IT之家B站账号",
+   "published_at": 1792713888.0,
+   "published_bj": "2026-10-23 08:04"
+  },
+  {
+   "id": "20afb37ed66abbce",
+   "source": "IT之家",
+   "title": "【视频】iPhone Duo & 磁吸双面夹开箱，卖 999 元的手机壳体验如何？",
+   "url": "https://www.ithome.com/1/016/776.htm",
+   "summary": "苹果iPhone Duo &amp; 磁吸双面夹开箱，全新机折痕控制堪称惊艳。不过……卖 999 元的手机壳体验如何？ 点击关注IT之家B站账号",
+   "published_at": 1792713820.0,
+   "published_bj": "2026-10-23 08:03"
+  },
+  {
+   "id": "0a2c0dba40a88e74",
+   "source": "IT之家",
+   "title": "三星 Galaxy Fit 4 健身手环首曝：黑、白、绿三款齐亮相",
+   "url": "https://www.ithome.com/1/016/775.htm",
+   "summary": "IT之家 10 月 23 日消息，消息源 The Cipher Project 昨日（10 月 22 日）在 Telegram 平台发布动态，分享了一组渲染图， 展示了三星 Galaxy Fit 4 健身手环设计，共有黑色、绿色和白色三种颜色 ，但不排除三星后续扩充推出其它颜色的可能。 IT之家附上相关视频如下： 外观方面，Galaxy Fit 4 手环延续三星 Galaxy Fit 系列的简约设计风格，采用矩形 OLED 屏幕，屏幕尺寸似乎较上一代 Galaxy Fit 3 有所增加，可提供更充裕的信息显示空间。 机身右侧保留一枚实体按键，预计用于唤醒屏幕或返回操作；屏幕四周则采用银色边框，",
+   "published_at": 1792713714.0,
+   "published_bj": "2026-10-23 08:01"
+  },
   {
    "id": "b00bbc8da1578e1b",
    "source": "Hacker News",
@@ -13,6 +292,33 @@
    "published_bj": "2026-10-23 07:56"
   },
   {
+   "id": "5ab8275c2ab0c5b7",
+   "source": "IT之家",
+   "title": "布加迪最新超跑 Tourbillon 诞生始末：大众想要纯电，里马克坚持内燃机",
+   "url": "https://www.ithome.com/1/016/774.htm",
+   "summary": "IT之家 10 月 23 日消息，大众汽车集团原本计划将布加迪 Chiron 的继任车型改为纯电超跑，布加迪里马克 CEO、里马克集团创始人马特 · 里马克则坚持从零开发新车，采用 V16 自然吸气发动机与电机组成的插混系统。 他从 Nevera 的市场表现中发现， 愿意购买天价纯电超跑的客户并不多 ，因此不赞成让布加迪新一代旗舰车型放弃内燃机。 2021 年，里马克与保时捷共同接手布加迪。当时，大众经历了代价高昂的柴油车排放造假丑闻，正大力推进电动化转型。推出纯电超跑既符合集团战略，也能发挥里马克在高性能电动动力总成领域的技术优势。 但里马克不想走捷径。他在接受《欧洲汽车新闻》采访时解释说，",
+   "published_at": 1792713330.0,
+   "published_bj": "2026-10-23 07:55"
+  },
+  {
+   "id": "36101eaaf7ce486e",
+   "source": "IT之家",
+   "title": "IT早报 1023：神木交警再回应问界碰撞起火事故；武汉通回应苹果免费开卡安卓端收费 15 元；大模型 MiniMax 港股跌破发行价；微软 Win11 给 8GB 内存电脑减负...",
+   "url": "https://www.ithome.com/1/016/773.htm",
+   "summary": "“IT早报”时间，大家好，现在是 2026 年 10 月 23 日星期五，今天的重要科技资讯有： 1. 陕西神木市交管大队回应问界汽车碰撞起火事故：灯柱被烧短路、变色，目前正喷漆 近日，一辆问界汽车在陕西榆林神木市一路口处发生碰撞起火。据新京报报道，陕西神木市交管大队回应了“问界汽车撞击交通灯柱后起火”事件。“交通灯柱没断”，该大队工作人员称，当时车辆起火后将交通灯柱里面的线烧短路了，灯柱被烧得变色，目前正喷漆。&gt;&gt; 查看详情 2. 武汉通回应苹果免费开卡、安卓端收费 15 元：安卓系统手机品牌众多，接入适配成本更高 武汉通近日上线苹果 Apple Pay，用户可使用 iPhone",
+   "published_at": 1792713307.0,
+   "published_bj": "2026-10-23 07:55"
+  },
+  {
+   "id": "1a237d20fa3c450f",
+   "source": "IT之家",
+   "title": "让你安心用 AI 网购 / 订票 / 点外卖：1Password 推出智能体密码授权功能",
+   "url": "https://www.ithome.com/1/016/772.htm",
+   "summary": "IT之家 10 月 23 日消息，密码管理服务商 1Password 昨日（10 月 22 日）发布博文，宣布推出 1Password for Agents 平台， 让个人 AI 智能体全程不接触、不存储用户的密码或验证码情况下，代用户完成网站登录。 IT之家附上官方介绍视频如下： 该功能面向个人及家庭版用户推出，首批支持 Meta Muse、OpenAI ChatGPT Work 与 Dots、Anthropic Claude Duet、Grok Bot 及 Town 等主流 AI 智能体。 官方表示随着 AI 智能体逐步承担订餐、购物、订票、整理资料等任务，账号登录成为其执行任务的关键环节",
+   "published_at": 1792713284.0,
+   "published_bj": "2026-10-23 07:54"
+  },
+  {
    "id": "21e0cc557e6a4e08",
    "source": "TechCrunch",
    "title": "Mark Zuckerberg’s creative plan to pay California’s proposed billionaire tax without losing control of Meta",
@@ -20,6 +326,15 @@
    "summary": "A newly launched stock class being offered was partially engineered to help Meta founder and CEO Mark Zuckerberg pay the \"billionaire's tax,\" should the measure be voted into law.",
    "published_at": 1792713041.0,
    "published_bj": "2026-10-23 07:50"
+  },
+  {
+   "id": "1cd5af573fc14428",
+   "source": "IT之家",
+   "title": "OpenAI 宣布全面开放决策 API：基于 GPT‑6 Luna，每百万 token 输入 0.1 美元",
+   "url": "https://www.ithome.com/1/016/771.htm",
+   "summary": "IT之家 10 月 23 日消息，当地时间 10 月 22 日，OpenAI 宣布全面开放决策 API（Decisions API）。 据介绍， 该 API 基于 GPT‑6 Luna 构建 ，将 Luna 的模型智能聚焦于具有限定答案（bounded answers）的问题，协助应用程序与智能体基于文本、图像及结构化输入做出准实时决策 —— 其响应速度比通过 Responses API 调用 GPT‑6 Luna 提升了高达 10 倍 。 定价方面，决策 API 输入每百万 token 收费 0.1 美元 （IT之家注：现汇率约合 0.67 元人民币） ，命中缓存的输入每百万 token 收",
+   "published_at": 1792712893.0,
+   "published_bj": "2026-10-23 07:48"
   },
   {
    "id": "22d1c79a5a946387",
