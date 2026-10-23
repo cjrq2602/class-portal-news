@@ -1,8 +1,26 @@
 {
  "date": "2026-10-23",
- "generated_at": 1792727714.1030111,
- "count": 168,
+ "generated_at": 1792729596.9849458,
+ "count": 181,
  "items": [
+  {
+   "id": "15c3ad903852f0ff",
+   "source": "InfoQ中文",
+   "title": "实测小艺 Work：从全媒体运营到深度研究的完整体验",
+   "url": "https://www.infoq.cn/article/pF59m5h9647ySCb9Afqr?utm_source=rss&utm_medium=article",
+   "summary": "点击查看原文>",
+   "published_at": 1792757560.0,
+   "published_bj": "2026-10-23 20:12"
+  },
+  {
+   "id": "42e35a53ba8cd447",
+   "source": "InfoQ中文",
+   "title": "决策模型也有专用推理引擎了：StartLux 开源 Prism，单卡最高提速 5.3 倍",
+   "url": "https://www.infoq.cn/article/reksyo9EBAcP11Ns2GTO?utm_source=rss&utm_medium=article",
+   "summary": "点击查看原文>",
+   "published_at": 1792757029.0,
+   "published_bj": "2026-10-23 20:03"
+  },
   {
    "id": "ba08c73e42a16b8e",
    "source": "InfoQ中文",
@@ -38,6 +56,87 @@
    "summary": "点击查看原文>",
    "published_at": 1792745190.0,
    "published_bj": "2026-10-23 16:46"
+  },
+  {
+   "id": "99e0e7350f86f347",
+   "source": "TechCrunch",
+   "title": "Oura sues rival Ultrahuman again, threatening its U.S. smart ring comeback",
+   "url": "https://techcrunch.com/2026/10/22/oura-sues-rival-ultrahuman-again-threatening-its-u-s-smart-ring-comeback/",
+   "summary": "Oura alleges in its newest lawsuit that Ultrahuman's Ring Pro infringes two of its patents.",
+   "published_at": 1792729377.0,
+   "published_bj": "2026-10-23 12:22"
+  },
+  {
+   "id": "7a489aae9fbe5dbc",
+   "source": "IT之家",
+   "title": "PHP 高危漏洞波及多款游戏：《最终幻想 14》暂停登录，《赛马娘 Pretty Derby》紧急停机",
+   "url": "https://www.ithome.com/1/016/935.htm",
+   "summary": "IT之家 10 月 23 日消息，当地时间 22 日，据外媒 Eurogamer 报道，本周发现的一项严重 PHP 安全漏洞波及多款游戏，导致部分游戏停服或出现其他问题。 PHP 是一种广泛应用于网站和软件开发的编程语言，此次漏洞可能造成严重的安全事故，游戏行业也受到潜在威胁。为防范风险，有关方面建议采用 PHP 的在线服务暂停运营，待修复补丁发布并安装后再恢复。 其中，《最终幻想 14》官方通过 Lodestone 网站宣布，将对游戏更新服务器进行安全加固，期间 暂时停止接受新的登录请求 ，直至更新完成。登录服务随后恢复，玩家存档数据的服务器备份功能仍未开放。 赛马题材抽卡游戏《赛马娘 Pr",
+   "published_at": 1792729070.0,
+   "published_bj": "2026-10-23 12:17"
+  },
+  {
+   "id": "b3ec2df6399f5b24",
+   "source": "IT之家",
+   "title": "阿里 Qoder 官宣支持 Linux ARM64 与龙芯平台，适配统信 UOS、银河麒麟操作系统",
+   "url": "https://www.ithome.com/1/016/927.htm",
+   "summary": "IT之家 10 月 23 日消息，阿里 Qoder 今日宣布，Qoder （国际版与中国版）现已支持 Linux ARM64 与龙芯（LoongArch64）平台，适配统信 UOS、银河麒麟操作系统。 官方表示，此次升级，将 Qoder 从需求理解到任务执行、成果交付的完整工作方式带到了国产桌面系统。用户可以在熟悉的环境中调用工具、操作文件，并让多个智能体协作， 获得与其他平台一致的编程与通用能力支持 。 至此，Qoder 已完成对鸿蒙 PC、鸿蒙移动端、统信桌面操作系统 V20 和银河麒麟桌面操作系统 V10 的适配，让更多用户可以在自己常用的国产系统上使用 Qoder。 IT之家附 Qod",
+   "published_at": 1792728839.0,
+   "published_bj": "2026-10-23 12:13"
+  },
+  {
+   "id": "7670a0bf9fe2b9de",
+   "source": "IT之家",
+   "title": "AYN 高通跃龙 Q8 掌机 Odin 3 Portal 开启预售，起价 2798 元",
+   "url": "https://www.ithome.com/1/016/911.htm",
+   "summary": "IT之家 10 月 23 日消息，AYN 现已启动 Android 掌机 Odin 3 Portal 的预售。这一型号 基于高通跃龙 Q8 平台 ，配备骁龙 8 Elite 同款 Adreno 830 GPU。 Odin 3 Portal 三维 257×101×17.2 (mm)，配备 7\" 1080×1920 120Hz OLED 屏幕，覆盖 AGAF 玻璃，内置主动散热系统，集成 9000mAh 电池，支持 60W 私有协议快充， 质量 450g 。 该掌机配备 全尺寸霍尔效应传感器摇杆 、圆顶 D-Pad、防滑纹理肩键、双色注塑 ABXY，整体模具符合人体工学。 其支持 Wi-Fi 7 ",
+   "published_at": 1792728540.0,
+   "published_bj": "2026-10-23 12:09"
+  },
+  {
+   "id": "4301f6579aad68ab",
+   "source": "IT之家",
+   "title": "华为阔折叠手机出货量破 321 万台：消息称 iPhone Duo 预售 6 天，Pura X Max 销量环比提升 38%",
+   "url": "https://www.ithome.com/1/016/908.htm",
+   "summary": "IT之家 10 月 23 日消息，据华尔街见闻报道，在苹果首款折叠屏 iPhone Duo 正式预售后，10 月 16 日至 10 月 21 日， 华为 Pura X Max 销量环比增长 38% 。 截至 10 月 21 日， 华为阔折叠累计出货量突破 321 万台 ，华为阔直板累计出货量突破 84 万台。 参考IT之家此前报道，行业首款横向阔折叠手机 —— 华为 Pura X Max 今年 4 月 20 日发布，全系搭载麒麟 9030 Pro 旗舰处理器，售价 10999 元起。 在今年 9 月 7 日的华为 HarmonyOS 7 | HUAWEI Mate XT 2 及全场景新品发布会",
+   "published_at": 1792728508.0,
+   "published_bj": "2026-10-23 12:08"
+  },
+  {
+   "id": "34c9b96d166a2d37",
+   "source": "IT之家",
+   "title": "红魔 RedMagicOS 12 适配机型公布：11 Pro / 11S Pro 系列手机 12 月升级",
+   "url": "https://www.ithome.com/1/016/905.htm",
+   "summary": "IT之家 10 月 23 日消息，红魔游戏手机官方今日发布了 RedMagicOS 12 版本升级公告。计划陆续适配的机型如下： 2026 年 12 月：红魔 11 Pro / 11S Pro 系列 2027 年 1 月：红魔游戏平板 5 Pro 2027 年 3 月：红魔 10 Pro / 10S Pro 系列、红魔 11 Air、红魔电竞平板 3 Pro 2027 年 4 月：红魔 10 Air 官方表示， 版本推送机制为分批推送 ，未检测到更新的用户请耐心等待。 IT之家附 RedMagicOS 12 主要升级内容如下： 全新视觉体验：超未来主义美学 | 巨幕时钟； 全场景 AI：更懂你",
+   "published_at": 1792728410.0,
+   "published_bj": "2026-10-23 12:06"
+  },
+  {
+   "id": "ef10f9392b2256af",
+   "source": "IT之家",
+   "title": "要帮车企跟上中国同行进度，日本创企 EpicAI 拟用 AI 加速车辆设计评审",
+   "url": "https://www.ithome.com/1/016/895.htm",
+   "summary": "IT之家 10 月 23 日消息，据《日经亚洲》22 日报道，日本 AI 初创公司 EpicAI 计划 帮助日本车企利用 AI 加快新车设计评审 ，以应对中国车企 不断缩短新车开发周期 带来的竞争压力。 面对日益激烈的市场竞争，一向谨慎的日本车企开始改变观念，寻找降低研发成本的方法。EpicAI 希望借此推广旗下软件，大幅减少新车设计所需的时间和人力。 EpicAI 脱胎于东京科学大学，计划从 2027 年春季起向多家日本车企引入软件。公司称，此前的试用获得了客户的积极评价。 EpicAI CEO 横山敬一谈到了日本车企大幅压缩研发周期的计划。“比如，要把设计流程的时间缩短一半，绝非易事。要解",
+   "published_at": 1792728261.0,
+   "published_bj": "2026-10-23 12:04"
+  },
+  {
+   "id": "7d025642b05db4bc",
+   "source": "IT之家",
+   "title": "苹果首款折叠 iPhone Duo 今日开售，库克称重新定义 iPhone 的可能",
+   "url": "https://www.ithome.com/1/016/885.htm",
+   "summary": "IT之家 10 月 23 日消息，在苹果首款折叠手机 iPhone Duo 发售日（10 月 23 日），公司现任首席执行官约翰 · 特努斯（John Ternus）发布微博，直言“迫不及待”。 前任首席执行官蒂姆 · 库克（Tim Cook）转发该微博，并表示“重新定义 iPhone 的可能！” 在特努斯发布的微博中，还分享了一张 Apple 静安零售店现场照片，展示了 iPhone Duo 巨型雕塑。IT之家昨日在现场全程跟进揭幕首秀，相关报道可以访问《 苹果 Apple Store 零售店 iPhone Duo 巨型雕塑揭幕首秀：全球四家店展出，中国有一家 》。 苹果首款折叠屏手机 iP",
+   "published_at": 1792728019.0,
+   "published_bj": "2026-10-23 12:00"
+  },
+  {
+   "id": "6b16fc0914d02b67",
+   "source": "TechCrunch",
+   "title": "Uber rival inDrive eyes 2027 robotaxi tests in Central Asia with Pony.ai and Nvidia",
+   "url": "https://techcrunch.com/2026/10/22/uber-rival-indrive-eyes-2027-robotaxi-tests-in-central-asia-with-pony-ai-and-nvidia/",
+   "summary": "inDrive plans to begin testing Pony.ai's robotaxis in Kazakhstan's capital in the first half of 2027.",
+   "published_at": 1792728000.0,
+   "published_bj": "2026-10-23 12:00"
   },
   {
    "id": "1316764b205877fc",
@@ -166,6 +265,15 @@
    "published_bj": "2026-10-23 11:12"
   },
   {
+   "id": "7e8b90fd32189c6d",
+   "source": "少数派",
+   "title": "破与立：设计视角下的 iPhone Duo",
+   "url": "https://sspai.com/post/116979",
+   "summary": "Matrix首页推荐Matrix是少数派的写作社区，我们主张分享真实的产品体验，有实用价值的经验与思考。我们会不定期挑选Matrix最优质的文章，展示来自用户的最真实的体验和观点。文章代表作者个人观点 ... 查看全文",
+   "published_at": 1792724839.0,
+   "published_bj": "2026-10-23 11:07"
+  },
+  {
    "id": "f6710219cebe9d4b",
    "source": "IT之家",
    "title": "索尼 LinkBuds Clip 耳夹式耳机“鎏光金”中国限定色发售，到手价 758.7 元",
@@ -272,6 +380,15 @@
    "summary": "IT之家 10 月 23 日消息，蔚来 firefly 萤火虫官方今日宣布，60kWh 版本电池来了， 电池体积及整备质量不变 ，CLTC 续航提升至 560 公里。 BaaS 电池租用：7.98 万元起，电池租用服务费 599 元 / 月 整车购买：13.68 万元起 作为参考， 萤火虫目前搭载 42kWh 电池 ，CLTC 续航 420 公里。BaaS 租电方案售价 7.98 万元起，电池租用服务费 399 元 / 月；整车购买售价 11.98 万元起。 据介绍，新款电池采用多重热防护设计 + 超强物理防护，通过 14 项极限安全测试，搭载 187.2Wh/kg 高能量密度三元锂电芯， 已",
    "published_at": 1792722109.0,
    "published_bj": "2026-10-23 10:21"
+  },
+  {
+   "id": "224c65cf319ff243",
+   "source": "Hacker News",
+   "title": "This I Believe",
+   "url": "https://www.awakin.org/v2/read/view.php?tid=468",
+   "summary": "Article URL: https://www.awakin.org/v2/read/view.php?tid=468 Comments URL: https://news.ycombinator.com/item?id=50203759 Points: 5 # Comments: 0",
+   "published_at": 1792721978.0,
+   "published_bj": "2026-10-23 10:19"
   },
   {
    "id": "3cc2ab0fea11d888",
