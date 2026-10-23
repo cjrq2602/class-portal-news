@@ -1,0 +1,353 @@
+{
+ "type": "today",
+ "date": "2026-10-23",
+ "window": {
+  "start_ts": 1792684800.0,
+  "end_ts": 1792717200.0
+ },
+ "generated_at": 1792719238.3000546,
+ "generator": "action",
+ "news_count": 59,
+ "keywords": [
+  "地震",
+  "西藏",
+  "巴青",
+  "级地",
+  "美国",
+  "藏那",
+  "那曲",
+  "乌克",
+  "克兰",
+  "发生"
+ ],
+ "points": [
+  {
+   "text": "【地震】中新网10月23日电 据自然资源部微信公众号消息，据中国地震台网测定，10月22日22时33分，西藏那曲市巴青县(北纬32.4度，东经93.79",
+   "keyword": "地震",
+   "news_ids": [
+    "ffa2ab3dd1623a0c"
+   ],
+   "refs": [
+    {
+     "id": "ffa2ab3dd1623a0c",
+     "title": "西藏那曲市巴青县发生7.0级地震 自然资源部启动地质灾害防御Ⅲ级响应",
+     "source": "中新网即时",
+     "url": "https://www.chinanews.com.cn/gn/2026/10-23/10719482.shtml",
+     "published_at": 1792715562.0
+    }
+   ]
+  },
+  {
+   "text": "【美国】中新网10月23日电 据俄罗斯卫星通讯社23日报道，俄罗斯总统普京表示，俄方已通知美国，准备恢复乌克兰问题三边谈判",
+   "keyword": "美国",
+   "news_ids": [
+    "acc97e574c35597f"
+   ],
+   "refs": [
+    {
+     "id": "acc97e574c35597f",
+     "title": "普京：俄方已通知美国，准备恢复乌克兰问题三边谈判",
+     "source": "中新网即时",
+     "url": "https://www.chinanews.com.cn/gj/2026/10-23/10719459.shtml",
+     "published_at": 1792708676.0
+    }
+   ]
+  },
+  {
+   "text": "【美国】中新网10月23日电 据美媒援引美国国防部高级官员的话报道称，五角大楼计划2027年启动在丹麦自治领地格陵兰岛上的军事设施扩建工程",
+   "keyword": "美国",
+   "news_ids": [
+    "bebd256ce3f5c57e"
+   ],
+   "refs": [
+    {
+     "id": "bebd256ce3f5c57e",
+     "title": "外媒：美国或于明年开始扩建格陵兰岛军事设施",
+     "source": "中新网即时",
+     "url": "https://www.chinanews.com.cn/gj/2026/10-23/10719469.shtml",
+     "published_at": 1792712235.0
+    }
+   ]
+  },
+  {
+   "text": "2026年广州科技创新创业大赛全球赛暨香港科技大学百万奖金创业大赛广州赛(下称“大赛”)决赛10月21日在广州南沙举行",
+   "keyword": "",
+   "news_ids": [
+    "48e5311ee4ffa34a"
+   ],
+   "refs": [
+    {
+     "id": "48e5311ee4ffa34a",
+     "title": "261个港澳台项目参赛广州科技创新创业大赛",
+     "source": "中新网即时",
+     "url": "http://www.chinanews.com.cn/ga/shipin/cns/2026/10-23/news1072724.shtml",
+     "published_at": 1792717178.0
+    }
+   ]
+  },
+  {
+   "text": "中新社石家庄10月23日电 题：霜降红柿压枝头 藏尽霜华白菜甜",
+   "keyword": "",
+   "news_ids": [
+    "cb1232ae2b18c54b"
+   ],
+   "refs": [
+    {
+     "id": "cb1232ae2b18c54b",
+     "title": "寻味中华｜节令）霜降红柿压枝头 藏尽霜华白菜甜",
+     "source": "中新网即时",
+     "url": "https://www.chinanews.com.cn/cul/2026/10-23/10719495.shtml",
+     "published_at": 1792716972.0
+    }
+   ]
+  },
+  {
+   "text": "10月19日至21日，济南市委统战部举办全市基层统战干部 “同心强基 聚力赋能” 业务培训班",
+   "keyword": "",
+   "news_ids": [
+    "9bc406a7270b04d1"
+   ],
+   "refs": [
+    {
+     "id": "9bc406a7270b04d1",
+     "title": "深学细悟聚共识 蓄势提能促发展——济南市委统战部举办全市基层统战干部“同心强基 聚力赋能”业务培训班",
+     "source": "中新网即时",
+     "url": "https://www.chinanews.com.cn/txy/2026/10-23/10719486.shtml",
+     "published_at": 1792716657.0
+    }
+   ]
+  },
+  {
+   "text": "中國政壇至今沒有明確的接班人",
+   "keyword": "",
+   "news_ids": [
+    "65f2c0e2a9a55349"
+   ],
+   "refs": [
+    {
+     "id": "65f2c0e2a9a55349",
+     "title": "中共五中全會前瞻：會前為何密集「打虎」？未來怎樣「從嚴治黨」？",
+     "source": "BBC中文",
+     "url": "https://www.bbc.com/zhongwen/articles/ckx2q587wvrqo/trad?at_medium=RSS&at_campaign=rss",
+     "published_at": 1792716071.0
+    }
+   ]
+  },
+  {
+   "text": "泰晤士南岸秋意浓 格林威治沐暖阳",
+   "keyword": "",
+   "news_ids": [
+    "283464e83ef2d0d0"
+   ],
+   "refs": [
+    {
+     "id": "283464e83ef2d0d0",
+     "title": "泰晤士南岸秋意浓 格林威治沐暖阳",
+     "source": "中新网即时",
+     "url": "http://www.chinanews.com.cn/tp/hd2011/2026/10-23/1208587.shtml",
+     "published_at": 1792715899.0
+    }
+   ]
+  },
+  {
+   "text": "跑单经历、暖心善举持续引发网络关注，越来越多的外卖骑手成为“网红”",
+   "keyword": "",
+   "news_ids": [
+    "c643182cca39d291"
+   ],
+   "refs": [
+    {
+     "id": "c643182cca39d291",
+     "title": "送餐路上的故事”频频出圈，聚光灯下的小哥如何回归日常？",
+     "source": "中新网即时",
+     "url": "https://www.chinanews.com.cn/sh/2026/10-23/10719483.shtml",
+     "published_at": 1792715620.0
+    }
+   ]
+  },
+  {
+   "text": "今年9月初，在四川成都读大学的陈涛(化名)在某兼职群看到有人发布一则“轻松日结、无需出镜拍戏”的AI兼职招募信息",
+   "keyword": "",
+   "news_ids": [
+    "3af4399375db507a"
+   ],
+   "refs": [
+    {
+     "id": "3af4399375db507a",
+     "title": "部分企业在开展个人信息收集与应用服务中存在问题 专家建议治理转向前端管住采集源头",
+     "source": "中新网即时",
+     "url": "https://www.chinanews.com.cn/sh/2026/10-23/10719479.shtml",
+     "published_at": 1792713983.0
+    }
+   ]
+  },
+  {
+   "text": "CBA常规赛：北京首钢队战胜深圳马可波罗队",
+   "keyword": "",
+   "news_ids": [
+    "c2f3835cdaeddcfd"
+   ],
+   "refs": [
+    {
+     "id": "c2f3835cdaeddcfd",
+     "title": "CBA常规赛：北京首钢队战胜深圳马可波罗队",
+     "source": "中新网即时",
+     "url": "http://www.chinanews.com.cn/tp/hd2011/2026/10-23/1208581.shtml",
+     "published_at": 1792713865.0
+    }
+   ]
+  },
+  {
+   "text": "提高较难配送订单计费权重比例，平台上线“难交付奖励”",
+   "keyword": "",
+   "news_ids": [
+    "4ecfec349d711452"
+   ],
+   "refs": [
+    {
+     "id": "4ecfec349d711452",
+     "title": "配送重货、大件、爬楼订单，骑手有望多拿钱",
+     "source": "中新网即时",
+     "url": "https://www.chinanews.com.cn/sh/2026/10-23/10719476.shtml",
+     "published_at": 1792713288.0
+    }
+   ]
+  },
+  {
+   "text": "小何委托中介申请海外硕士，完成课程、通过答辩后却迟迟拿不到毕业证，更无法通过教育部留学服务中心认证，支付的费用能退吗？北京市西城区人民法院22日",
+   "keyword": "",
+   "news_ids": [
+    "d7d0100444dab59e"
+   ],
+   "refs": [
+    {
+     "id": "d7d0100444dab59e",
+     "title": "留学项目完成学业却难获认证 责任谁来担？法院这样判",
+     "source": "中新网即时",
+     "url": "https://www.chinanews.com.cn/hr/2026/10-23/10719475.shtml",
+     "published_at": 1792713018.0
+    }
+   ]
+  },
+  {
+   "text": "鸡蛋是老百姓菜篮子里的刚需品，国庆节前还挺贵的鸡蛋，现在价格明显回落，不少市民买鸡蛋都感受到了实惠",
+   "keyword": "",
+   "news_ids": [
+    "92070ab7f0cd4a2b"
+   ],
+   "refs": [
+    {
+     "id": "92070ab7f0cd4a2b",
+     "title": "全国蛋价跌回“4元时代” 未来还会降吗？走势预测→",
+     "source": "中新网即时",
+     "url": "https://www.chinanews.com.cn/cj/2026/10-23/10719473.shtml",
+     "published_at": 1792712748.0
+    }
+   ]
+  },
+  {
+   "text": "真相来了丨网红钛制品真能抑菌保鲜吗",
+   "keyword": "",
+   "news_ids": [
+    "9709f4d582b4ed53"
+   ],
+   "refs": [
+    {
+     "id": "9709f4d582b4ed53",
+     "title": "网红钛制品真能抑菌保鲜吗？先认准钛的“身份证”",
+     "source": "中新网即时",
+     "url": "https://www.chinanews.com.cn/cj/2026/10-23/10719472.shtml",
+     "published_at": 1792712528.0
+    }
+   ]
+  }
+ ],
+ "article": {
+  "title": "2026-10-23 新闻总结",
+  "paragraphs": [
+   {
+    "kind": "lead",
+    "text": "今天共收录 59 条新闻，来自 4 家媒体。整体没有压倒性的单一主线，更像是几条线索并行推进。"
+   },
+   {
+    "kind": "section",
+    "heading": "视频",
+    "text": "先看「视频」。现场视频！西藏那曲市巴青县发生7.0级地震 武警官兵连夜出动赶赴灾区…，另有 22 条消息指向同一话题。对读者来说，值得留意的不是结论本身，而是它背后哪些前提正在被改变。",
+    "news_ids": [
+     "7c88431fed2958c9"
+    ],
+    "refs": [
+     {
+      "id": "7c88431fed2958c9",
+      "title": "现场视频！西藏那曲市巴青县发生7.0级地震 武警官兵连夜出动赶赴灾区",
+      "source": "中新网即时",
+      "url": "http://www.chinanews.com.cn/sh/shipin/2026/10-23/news1072721.shtml",
+      "published_at": 1792711294.0
+     }
+    ]
+   },
+   {
+    "kind": "section",
+    "heading": "利率",
+    "text": "与此同时「利率」。中新社华盛顿10月22日电 (记者 沙晗汀)美国住房金融机构房地美(Freddie Mac)当地时间22日公布数据显示，美国30年期固定抵押贷款平均利率降至7.32%，另有 8 条消息指向同一话题。对读者来说，值得留意的不是结论本身，而是它背后哪些前提正在被改变。",
+    "news_ids": [
+     "1cf344ae465b46ed"
+    ],
+    "refs": [
+     {
+      "id": "1cf344ae465b46ed",
+      "title": "美国30年期贷款利率降至7.32% 8月以来首次出现下降",
+      "source": "中新网即时",
+      "url": "https://www.chinanews.com.cn/gj/2026/10-23/10719470.shtml",
+      "published_at": 1792713114.0
+     }
+    ]
+   },
+   {
+    "kind": "section",
+    "heading": "外媒：美国或于明年开始扩建格陵兰",
+    "text": "另一个值得注意的方向是「外媒：美国或于明年开始扩建格陵兰」。中新网10月23日电 据美媒援引美国国防部高级官员的话报道称，另有 2 条消息指向同一话题。对读者来说，值得留意的不是结论本身，而是它背后哪些前提正在被改变。",
+    "news_ids": [
+     "bebd256ce3f5c57e"
+    ],
+    "refs": [
+     {
+      "id": "bebd256ce3f5c57e",
+      "title": "外媒：美国或于明年开始扩建格陵兰岛军事设施",
+      "source": "中新网即时",
+      "url": "https://www.chinanews.com.cn/gj/2026/10-23/10719469.shtml",
+      "published_at": 1792712235.0
+     }
+    ]
+   },
+   {
+    "kind": "section",
+    "heading": "创新",
+    "text": "相比之下「创新」。2026年广州科技创新创业大赛全球赛暨香港科技大学百万奖金创业大赛广州赛(下称“大赛”)决赛10月21日在广州南沙举行…。这条消息短期内的实际影响可能有限，但它指向的方向值得放进观察名单。",
+    "news_ids": [
+     "48e5311ee4ffa34a"
+    ],
+    "refs": [
+     {
+      "id": "48e5311ee4ffa34a",
+      "title": "261个港澳台项目参赛广州科技创新创业大赛",
+      "source": "中新网即时",
+      "url": "http://www.chinanews.com.cn/ga/shipin/cns/2026/10-23/news1072724.shtml",
+      "published_at": 1792717178.0
+     }
+    ]
+   },
+   {
+    "kind": "outlook",
+    "text": "整体看，这个时段的新闻还处在「消息多、结论少」的阶段，与其急着下判断，不如盯住接下来一两周有没有可验证的后续动作。"
+   }
+  ],
+  "word_count": 549
+ },
+ "ai_enhanced": false,
+ "schema": 1,
+ "window_bj": {
+  "start": "2026-10-23 00:00",
+  "end": "2026-10-23 09:00"
+ }
+}

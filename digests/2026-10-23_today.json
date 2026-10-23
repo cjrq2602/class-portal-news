@@ -1,0 +1,382 @@
+{
+ "type": "today",
+ "date": "2026-10-23",
+ "window": {
+  "start_ts": 1792684800.0,
+  "end_ts": 1792717200.0
+ },
+ "generated_at": 1792719238.2008853,
+ "generator": "action",
+ "news_count": 111,
+ "keywords": [
+  "ai",
+  "the",
+  "openai",
+  "微软",
+  "iphone",
+  "duo",
+  "in",
+  "of",
+  "on",
+  "to"
+ ],
+ "points": [
+  {
+   "text": "【ai】Article URL: https://arxiv",
+   "keyword": "ai",
+   "news_ids": [
+    "ae086e421f1ee27b"
+   ],
+   "refs": [
+    {
+     "id": "ae086e421f1ee27b",
+     "title": "AI and the Enclosure of the Scientific Commons",
+     "source": "Hacker News",
+     "url": "https://arxiv.org/abs/2610.27251",
+     "published_at": 1792693696.0
+    }
+   ]
+  },
+  {
+   "text": "【ai】IT之家 10 月 23 日消息，苹果公司今天（10 月 23 日）更新其 iWork 生产力套件，为 Keynote、Numbers 和 Pa",
+   "keyword": "ai",
+   "news_ids": [
+    "46bf130a3a9238aa"
+   ],
+   "refs": [
+    {
+     "id": "46bf130a3a9238aa",
+     "title": "苹果更新 iWork 生产力套件 15.4.1：引入 AI 智能助理，适配 iPhone Duo",
+     "source": "IT之家",
+     "url": "https://www.ithome.com/1/016/762.htm",
+     "published_at": 1792710182.0
+    }
+   ]
+  },
+  {
+   "text": "【ai】IT之家 10 月 23 日消息，据彭博社报道，知情人士透露，正在寻求在最新一轮融资中筹集约 300 亿美元 （IT之家注：现汇率约合 2,00",
+   "keyword": "ai",
+   "news_ids": [
+    "a8c7374349530e0e"
+   ],
+   "refs": [
+    {
+     "id": "a8c7374349530e0e",
+     "title": "消息称 OpenAI 融资磋商进入尾声，估值目标下调至 1.25 万亿美元",
+     "source": "IT之家",
+     "url": "https://www.ithome.com/1/016/782.htm",
+     "published_at": 1792714878.0
+    }
+   ]
+  },
+  {
+   "text": "【ai】IT之家 10 月 23 日消息，当地时间 10 月 22 日，微软宣布，在基于 MIMIC-IV-ED 数据集评估美国急诊科 常见就诊病例 时",
+   "keyword": "ai",
+   "news_ids": [
+    "ddab4637c9b9cf84"
+   ],
+   "refs": [
+    {
+     "id": "ddab4637c9b9cf84",
+     "title": "微软推出 AI 医疗诊断系统 MAI-DxO：复杂病例准确率达 83%，成果登《科学》",
+     "source": "IT之家",
+     "url": "https://www.ithome.com/1/016/765.htm",
+     "published_at": 1792711416.0
+    }
+   ]
+  },
+  {
+   "text": "【ai】IT之家 10 月 23 日消息，今年早些时候，AI 安全评估机构 METR 和 Redwood Research 对 OpenAI 的内部监控",
+   "keyword": "ai",
+   "news_ids": [
+    "4631dee39f017f69"
+   ],
+   "refs": [
+    {
+     "id": "4631dee39f017f69",
+     "title": "外部评估人员发现 OpenAI 内部监控系统漏洞：AI 智能体可绕过安全限制",
+     "source": "IT之家",
+     "url": "https://www.ithome.com/1/016/781.htm",
+     "published_at": 1792714780.0
+    }
+   ]
+  },
+  {
+   "text": "【ai】Article URL: https://www",
+   "keyword": "ai",
+   "news_ids": [
+    "6ecfb753000ad812"
+   ],
+   "refs": [
+    {
+     "id": "6ecfb753000ad812",
+     "title": "AI compute is the new oil–and needs a new market",
+     "source": "Hacker News",
+     "url": "https://www.economist.com/finance-and-economics/2026/10/22/ai-compute-is-the-new-oil-and-needs-a-new-market",
+     "published_at": 1792712716.0
+    }
+   ]
+  },
+  {
+   "text": "【ai】The new feature allows agents to log into a customer's personal accounts",
+   "keyword": "ai",
+   "news_ids": [
+    "d62a1d48a40baad2"
+   ],
+   "refs": [
+    {
+     "id": "d62a1d48a40baad2",
+     "title": "1Password launches a way for AI agents to log in on your behalf without seeing your password",
+     "source": "TechCrunch",
+     "url": "https://techcrunch.com/2026/10/22/1password-launches-a-way-for-ai-agents-to-log-in-on-your-behalf-without-seeing-your-password/",
+     "published_at": 1792696029.0
+    }
+   ]
+  },
+  {
+   "text": "【in】Hey HN, we recently open sourced our Consumer Agent Testing Tool to help",
+   "keyword": "in",
+   "news_ids": [
+    "a993a9d140618105"
+   ],
+   "refs": [
+    {
+     "id": "a993a9d140618105",
+     "title": "Show HN: CATT 0.2.1: Test agents/services against a Muse/Instinct-alike, in CI",
+     "source": "Hacker News",
+     "url": "https://github.com/Coverage-Cat/consumer-agent-testing-tool",
+     "published_at": 1792707520.0
+    }
+   ]
+  },
+  {
+   "text": "【openai】Should OpenAI command an over $1 trillion valuation with this round, it ",
+   "keyword": "openai",
+   "news_ids": [
+    "f4b3f277291828a1"
+   ],
+   "refs": [
+    {
+     "id": "f4b3f277291828a1",
+     "title": "OpenAI working on new $30B raise at $1.25T valuation ahead of IPO",
+     "source": "TechCrunch",
+     "url": "https://techcrunch.com/2026/10/22/openai-working-on-new-30b-raise-at-1-25t-valuation-ahead-of-ipo/",
+     "published_at": 1792706904.0
+    }
+   ]
+  },
+  {
+   "text": "微博会员年卡日常售价 120 元，11",
+   "keyword": "",
+   "news_ids": [
+    "fbc91a3d49190bfa"
+   ],
+   "refs": [
+    {
+     "id": "fbc91a3d49190bfa",
+     "title": "微博官方 11.11 发车：会员年卡 54 元、SVIP 年卡 117 元大促",
+     "source": "IT之家",
+     "url": "https://www.ithome.com/1/016/792.htm",
+     "published_at": 1792716484.0
+    }
+   ]
+  },
+  {
+   "text": "IT之家 10 月 23 日消息，@华为终端 刚刚宣布，华为 Pura90 Plus，10 月 23 日（今天）10:08 开启预订",
+   "keyword": "",
+   "news_ids": [
+    "ce9616f70dcbecba"
+   ],
+   "refs": [
+    {
+     "id": "ce9616f70dcbecba",
+     "title": "华为 Pura90 Plus 手机官宣：今起开启预订",
+     "source": "IT之家",
+     "url": "https://www.ithome.com/1/016/786.htm",
+     "published_at": 1792715760.0
+    }
+   ]
+  },
+  {
+   "text": "IT之家 10 月 23 日消息，据路透社 22 日报道，通用汽车计划将 驾驶员无需注视路面的自动驾驶 功能引入旗下最畅销、利润最高的大型皮卡和",
+   "keyword": "",
+   "news_ids": [
+    "b4c6198c9d5c7113"
+   ],
+   "refs": [
+    {
+     "id": "b4c6198c9d5c7113",
+     "title": "通用汽车：目标让旗下最畅销皮卡和 SUV 实现“脱眼”自动驾驶",
+     "source": "IT之家",
+     "url": "https://www.ithome.com/1/016/784.htm",
+     "published_at": 1792715504.0
+    }
+   ]
+  },
+  {
+   "text": "IT之家 10 月 23 日消息，据 CNBC 报道，英伟达 CEO 黄仁勋周四接受采访时表示， 到 2029 年，内存芯片行业不太可能出现过剩",
+   "keyword": "",
+   "news_ids": [
+    "7b408f23410862d4"
+   ],
+   "refs": [
+    {
+     "id": "7b408f23410862d4",
+     "title": "黄仁勋称 2029 年不太可能出现内存过剩，英伟达仍会大量使用",
+     "source": "IT之家",
+     "url": "https://www.ithome.com/1/016/779.htm",
+     "published_at": 1792714085.0
+    }
+   ]
+  },
+  {
+   "text": "IT之家 10 月 23 日消息，大众汽车集团原本计划将布加迪 Chiron 的继任车型改为纯电超跑，布加迪里马克 CEO、里马克集团创始人马特",
+   "keyword": "",
+   "news_ids": [
+    "5ab8275c2ab0c5b7"
+   ],
+   "refs": [
+    {
+     "id": "5ab8275c2ab0c5b7",
+     "title": "布加迪最新超跑 Tourbillon 诞生始末：大众想要纯电，里马克坚持内燃机",
+     "source": "IT之家",
+     "url": "https://www.ithome.com/1/016/774.htm",
+     "published_at": 1792713330.0
+    }
+   ]
+  },
+  {
+   "text": "IT之家 10 月 23 日消息，特斯拉打算把人形机器人 Optimus 送进“学校”，让机器人通过练习掌握更多技能",
+   "keyword": "",
+   "news_ids": [
+    "d870216cc2e8ce5d"
+   ],
+   "refs": [
+    {
+     "id": "d870216cc2e8ce5d",
+     "title": "特斯拉要为 Optimus 建“学校”，马斯克称训练机器人就像育儿",
+     "source": "IT之家",
+     "url": "https://www.ithome.com/1/016/769.htm",
+     "published_at": 1792712292.0
+    }
+   ]
+  }
+ ],
+ "article": {
+  "title": "2026-10-23 新闻总结",
+  "paragraphs": [
+   {
+    "kind": "lead",
+    "text": "今天共收录 111 条新闻，来自 6 家媒体。把标题放在一起看，讨论主要集中在 AI、推出、系统 这几个方向上，其余消息更像是零散补充。"
+   },
+   {
+    "kind": "section",
+    "heading": "倒计时 2 个月",
+    "text": "先看「倒计时 2 个月」。IT之家 10 月 23 日消息，以创新界面和生产力功能著称的 Arc 浏览器即将正式谢幕…，另有 27 条消息指向同一话题。对读者来说，值得留意的不是结论本身，而是它背后哪些前提正在被改变。",
+    "news_ids": [
+     "661750eaeaa10ccd"
+    ],
+    "refs": [
+     {
+      "id": "661750eaeaa10ccd",
+      "title": "倒计时 2 个月：Arc 浏览器 12 月停运，曾被视为“Chrome 最强颠覆者”",
+      "source": "IT之家",
+      "url": "https://www.ithome.com/1/016/780.htm",
+      "published_at": 1792714236.0
+     }
+    ]
+   },
+   {
+    "kind": "section",
+    "heading": "AI",
+    "text": "与此同时「AI」。IT之家 10 月 23 日消息，苹果公司今天（10 月 23 日）更新其 iWork 生产力套件，为 Keynote，另有 29 条消息指向同一话题。这条消息短期内的实际影响可能有限，但它指向的方向值得放进观察名单。",
+    "news_ids": [
+     "46bf130a3a9238aa"
+    ],
+    "refs": [
+     {
+      "id": "46bf130a3a9238aa",
+      "title": "苹果更新 iWork 生产力套件 15.4.1：引入 AI 智能助理，适配 iPhone Duo",
+      "source": "IT之家",
+      "url": "https://www.ithome.com/1/016/762.htm",
+      "published_at": 1792710182.0
+     }
+    ]
+   },
+   {
+    "kind": "section",
+    "heading": "融资",
+    "text": "另一个值得注意的方向是「融资」。IT之家 10 月 23 日消息，据彭博社报道，知情人士透露，正在寻求在最新一轮融资中筹集约 300 亿美元 （IT之家注：现汇率约合 2，另有 7 条消息指向同一话题。融资和估值只能说明市场情绪，能不能兑现，还要看下一两个季度的收入和留存。",
+    "news_ids": [
+     "a8c7374349530e0e"
+    ],
+    "refs": [
+     {
+      "id": "a8c7374349530e0e",
+      "title": "消息称 OpenAI 融资磋商进入尾声，估值目标下调至 1.25 万亿美元",
+      "source": "IT之家",
+      "url": "https://www.ithome.com/1/016/782.htm",
+      "published_at": 1792714878.0
+     }
+    ]
+   },
+   {
+    "kind": "section",
+    "heading": "推出",
+    "text": "相比之下「推出」。IT之家 10 月 23 日消息，当地时间 10 月 22 日，微软宣布，在基于 MIMIC-IV-ED 数据集评估美国急诊科 常见就诊病例 时，另有 11 条消息指向同一话题。这类进展更像是把已有能力往工程化落地推了一步，真正的分水岭在于成本和可靠性能不能同时压下来。",
+    "news_ids": [
+     "ddab4637c9b9cf84"
+    ],
+    "refs": [
+     {
+      "id": "ddab4637c9b9cf84",
+      "title": "微软推出 AI 医疗诊断系统 MAI-DxO：复杂病例准确率达 83%，成果登《科学》",
+      "source": "IT之家",
+      "url": "https://www.ithome.com/1/016/765.htm",
+      "published_at": 1792711416.0
+     }
+    ]
+   },
+   {
+    "kind": "glossary",
+    "items": [
+     {
+      "term": "AI",
+      "desc": "人工智能，让机器完成识别、生成、判断等原本需要人做的任务"
+     },
+     {
+      "term": "API",
+      "desc": "应用程序接口，让不同软件按约定好的方式互相调用"
+     },
+     {
+      "term": "IPO",
+      "desc": "首次公开募股，公司第一次把股票卖给公众并上市"
+     },
+     {
+      "term": "XR",
+      "desc": "扩展现实，VR、AR、MR 的统称"
+     },
+     {
+      "term": "Agent",
+      "desc": "智能体，能自己拆解任务、调用工具并连续执行的 AI 程序"
+     },
+     {
+      "term": "数据中心",
+      "desc": "集中放置服务器、供电与散热设施的大型机房"
+     }
+    ]
+   },
+   {
+    "kind": "outlook",
+    "text": "把这几条放在一起看，最值得跟踪的是 AI 和 推出 两条线：一条决定技术能走多远，一条决定它多快能落到普通人的日常里。至于其他消息，可以先放进观察名单，等后续有更实的进展再判断。"
+   }
+  ],
+  "word_count": 665
+ },
+ "ai_enhanced": false,
+ "schema": 1,
+ "window_bj": {
+  "start": "2026-10-23 00:00",
+  "end": "2026-10-23 09:00"
+ }
+}
