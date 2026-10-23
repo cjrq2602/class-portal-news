@@ -1,7 +1,7 @@
 {
  "date": "2026-10-24",
- "generated_at": 1792780004.3839562,
- "count": 32,
+ "generated_at": 1792782884.0632658,
+ "count": 35,
  "items": [
   {
    "id": "f60abbbafa93ccc9",
@@ -11,6 +11,33 @@
    "summary": "点击查看原文>",
    "published_at": 1792784429.0,
    "published_bj": "2026-10-24 03:40"
+  },
+  {
+   "id": "2f764349b70fc0fa",
+   "source": "TechCrunch",
+   "title": "From Toast to Bessemer: Who founders will hear from at TechCrunch Founder Summit 2026",
+   "url": "https://techcrunch.com/2026/10/23/from-toast-to-bessemer-who-founders-will-hear-from-at-techcrunch-founder-summit-2026/",
+   "summary": "Hosted by TechCrunch in partnership with Fidelity Private Shares, the full-day event goes beyond fundraising and AI to explore the realities of finding customers, building teams, sharpening a pitch, developing founder leadership, and scaling companies both inside and outside traditional startup hubs",
+   "published_at": 1792782383.0,
+   "published_bj": "2026-10-24 03:06"
+  },
+  {
+   "id": "38e8e90c164d229b",
+   "source": "cnBeta",
+   "title": "伊朗据称已制定海底互联网电缆袭击计划 海湾地区数字基础设施或成目标",
+   "url": "https://www.cnbeta.com.tw/articles/tech/1583620.htm",
+   "summary": "据路透社10月23日报道，两名伊朗高级安全官员透露，伊朗已经制定了针对波斯湾海底通信电缆的详细打击计划。如果美国和以色列再次对伊朗发动军事行动，德黑兰可能将这些承载国际互联网通信的关键基础设施列为攻击目标，并试图阻止受损电缆得到及时维修，以延长通信中断时间。 阅读全文",
+   "published_at": 1792782017.0,
+   "published_bj": "2026-10-24 03:00"
+  },
+  {
+   "id": "5643dab907bb3bc4",
+   "source": "cnBeta",
+   "title": "科学家确认全新蝴蝶物种 曾长期被误认为是另一种",
+   "url": "https://www.cnbeta.com.tw/articles/science/1583618.htm",
+   "summary": "科学家近日宣布确认一种此前从未被正式描述的蝴蝶新物种，并将其命名为 Satyrium curiosolus。这种蝴蝶数十年来一直生活在人类已知的自然环境中，却因与近缘物种外形极为相似而长期未被识别，成为一个典型“隐存物种”案例。 阅读全文",
+   "published_at": 1792780853.0,
+   "published_bj": "2026-10-24 02:40"
   },
   {
    "id": "fe6abeb5a68ba5b1",
