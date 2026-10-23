@@ -1,8 +1,53 @@
 {
  "date": "2026-10-24",
- "generated_at": 1792747757.4291933,
- "count": 2,
+ "generated_at": 1792750308.8503592,
+ "count": 7,
  "items": [
+  {
+   "id": "5d7c2b37323c8945",
+   "source": "InfoQ中文",
+   "title": "刘铁岩、诺奖、图灵奖得主等嘉宾共话AI的下一个十年：Transformer一统天下之后，AI的下一张王牌是什么？",
+   "url": "https://www.infoq.cn/article/UmD4aAerZEts8sZ5t791?utm_source=rss&utm_medium=article",
+   "summary": "点击查看原文>",
+   "published_at": 1792778059.0,
+   "published_bj": "2026-10-24 01:54"
+  },
+  {
+   "id": "0503ce83e55ebfa8",
+   "source": "InfoQ中文",
+   "title": "AI Agent 正在改写 CPU 的价值：当 Token 变成行动，算力竞争不再只是拼 GPU",
+   "url": "https://www.infoq.cn/article/AkDgwN6h72cqUOJ35Zok?utm_source=rss&utm_medium=article",
+   "summary": "点击查看原文>",
+   "published_at": 1792777989.0,
+   "published_bj": "2026-10-24 01:53"
+  },
+  {
+   "id": "dcc7a0a2f5cd008a",
+   "source": "InfoQ中文",
+   "title": "PostgreSQL 19 发不出来？AI“找茬”太快，人类修Bug的速度跟不上了",
+   "url": "https://www.infoq.cn/article/Q6mgHWCSqV6KeZzee3NT?utm_source=rss&utm_medium=article",
+   "summary": "点击查看原文>",
+   "published_at": 1792777705.0,
+   "published_bj": "2026-10-24 01:48"
+  },
+  {
+   "id": "a4beb7bd1959e6c3",
+   "source": "InfoQ中文",
+   "title": "“让Token不空转”，讯飞如何把Agent推进企业核心流程",
+   "url": "https://www.infoq.cn/article/Lo9TLlRdvy4II38yaex0?utm_source=rss&utm_medium=article",
+   "summary": "点击查看原文>",
+   "published_at": 1792777209.0,
+   "published_bj": "2026-10-24 01:40"
+  },
+  {
+   "id": "129927da2477c214",
+   "source": "InfoQ中文",
+   "title": "奥特曼最新 45 分钟访谈：一年不写代码、压力大到不想起床，还嫌 ChatGPT 太谄媚",
+   "url": "https://www.infoq.cn/article/sI3z2UMCrB5PPVDWTsLo?utm_source=rss&utm_medium=article",
+   "summary": "点击查看原文>",
+   "published_at": 1792776904.0,
+   "published_bj": "2026-10-24 01:35"
+  },
   {
    "id": "2e6483c6ab6318ec",
    "source": "InfoQ中文",
