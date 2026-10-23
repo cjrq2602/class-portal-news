@@ -1,6 +1,6 @@
 {
  "date": "2026-10-23",
- "generated_at": 1792766236.1390684,
+ "generated_at": 1792768542.211595,
  "count": 400,
  "items": [
   {
@@ -20,6 +20,42 @@
    "summary": "点击查看原文>",
    "published_at": 1792768260.0,
    "published_bj": "2026-10-23 23:11"
+  },
+  {
+   "id": "99810c08552028a5",
+   "source": "IT之家",
+   "title": "消息称苹果在全国 Apple Store 安排移动 / 联通 / 电信工作人员坐镇，现场为 iPhone Duo 取货顾客办理 eSIM",
+   "url": "https://www.ithome.com/1/017/276.htm",
+   "summary": "IT之家 10 月 23 日消息，据新浪科技报道，随着苹果首款折叠屏手机 iPhone Duo 发售，目前苹果在全国所有 Apple Store 零售店均安排了中国移动、中国联通和中国电信的工作人员，为顾客现场办理 eSIM 激活业务。 据报道， 只要顾客是在苹果 Apple Store 门店现场取货，就可以在店内由运营商工作人员协助办理相关业务 ，免去以往购机后再单独前往运营商营业厅开通的环节。 IT之家注意到，今天移动还发布公告，透露官方将持续推动 eSIM 线上自助办理能力上线，进一步拓宽办理路径，持续降低 eSIM 业务的使用门槛。",
+   "published_at": 1792767942.0,
+   "published_bj": "2026-10-23 23:05"
+  },
+  {
+   "id": "8b142fb777d7968b",
+   "source": "TechCrunch",
+   "title": "Lab testing giant Quest Diagnostics confirms patients’ personal and health data was compromised during breach",
+   "url": "https://techcrunch.com/2026/10/23/lab-testing-giant-quest-diagnostics-confirms-patients-personal-and-health-data-was-compromised-during-breach/",
+   "summary": "Quest is the latest in a series of healthcare technology companies that have been hacked in recent months.",
+   "published_at": 1792767609.0,
+   "published_bj": "2026-10-23 23:00"
+  },
+  {
+   "id": "49c5e06f4e577cee",
+   "source": "IT之家",
+   "title": "国家邮政局召开邮政快递业安全治理规范化座谈会：要持续深入推进“反内卷”工作",
+   "url": "https://www.ithome.com/1/017/275.htm",
+   "summary": "IT之家 10 月 23 日消息，据国家邮政局，10 月 22 日至 23 日，国家邮政局在河南洛阳召开邮政快递业安全治理规范化座谈会。 会议要求，各级邮政管理部门要强化行业监管核心职能，大力加强行业安全监管，维护快递市场秩序。各企业要把安全责任牢牢扛在肩上，统筹发展和安全，进一步抓实抓细行业安全各项工作。 会议强调，要聚焦突出问题和关键环节，以更大力度更实举措做好行业安全工作： 一是大力整治生产安全突出隐患 。要强化重大事故隐患排查整治，深入整治消防隐患，严格规范外包管理，持续完善企业安全管理体系。 二是突出抓好寄递渠道风险防范 。要抓好寄递安全“三项制度”落实，抓实抓细行业反诈工作，加强寄",
+   "published_at": 1792766802.0,
+   "published_bj": "2026-10-23 22:46"
+  },
+  {
+   "id": "bc63c81c61102749",
+   "source": "IT之家",
+   "title": "OpenAI 联合研究机构部署数千个 AI 智能体：32 分钟分析数百万个小鼠脑细胞，相当于人类数月时间",
+   "url": "https://www.ithome.com/1/017/274.htm",
+   "summary": "IT之家 10 月 23 日消息，OpenAI 联合 PerturbAI 和斯克里普斯研究所（Scripps Research），利用数千个 AI 智能体分析数百万个小鼠脑细胞的生物学数据，整个分析过程仅耗时 32 分钟。 研究团队估计，如果由人类研究人员逐项分析实验结果并检索相关文献，完成同等工作可能需要数月到一年。 根据 OpenAI 10 月 21 日发布的介绍，这项研究使用了专为生命科学研究设计的 GPT-Rosalind 模型，分析一份覆盖整个小鼠大脑的 CRISPR 图谱。该图谱记录了不同基因受到干预后，各类脑细胞产生的变化，有助于研究人员了解基因功能及其与疾病之间的潜在联系。 研",
+   "published_at": 1792766624.0,
+   "published_bj": "2026-10-23 22:43"
   },
   {
    "id": "25c91eaaef19a0d1",
@@ -380,6 +416,15 @@
    "summary": "点击查看原文>",
    "published_at": 1792757029.0,
    "published_bj": "2026-10-23 20:03"
+  },
+  {
+   "id": "3516667677437d56",
+   "source": "Hacker News",
+   "title": "Show HN: We had AI write a wiki from 45k Enron emails, every fact cited",
+   "url": "https://www.thisandthat.chat/enron/",
+   "summary": "Article URL: https://www.thisandthat.chat/enron/ Comments URL: https://news.ycombinator.com/item?id=50207620 Points: 7 # Comments: 1",
+   "published_at": 1792756973.0,
+   "published_bj": "2026-10-23 20:02"
   },
   {
    "id": "3f5e3169346fd594",
@@ -3557,51 +3602,6 @@
    "summary": "前OpenAI首席产品官兼科学团队负责人凯文·韦尔创办Warp Sciences，目标是把人工智能与机器人引入药物研发实验室，帮助生物科技和制药公司更快制造、测试候选化合物。韦尔宣布，公司已完成2.15亿美元融资，领投方为Lightspeed；公司估值据称达到8.65亿美元。IVP、Premji Invest、Mayfield、Lux Capital和Menlo Ventures等也参与投资。 阅读全文",
    "published_at": 1792695035.0,
    "published_bj": "2026-10-23 02:50"
-  },
-  {
-   "id": "669ffd822addc815",
-   "source": "cnBeta",
-   "title": "微软警告企业AI智能体不能被盲目信任：必须让安全机制独立于AI",
-   "url": "https://www.cnbeta.com.tw/articles/tech/1583426.htm",
-   "summary": "微软近日发出警告称，企业不应盲目信任正在快速普及的人工智能智能体（AI Agents）。这些能够自主调用工具、访问企业数据并执行实际任务的AI系统，即使没有遭到黑客入侵，也可能因为判断失误、受到恶意内容误导或自行采取意料之外的行动，造成严重安全问题。与此同时，微软并没有因此放慢AI智能体的推广步伐，而是推出新的安全管理技术，试图在扩大应用规模的同时，对智能体的行为实施持续监控和权限约束。 阅读全文",
-   "published_at": 1792695009.0,
-   "published_bj": "2026-10-23 02:50"
-  },
-  {
-   "id": "9e3d5e5a2c764189",
-   "source": "cnBeta",
-   "title": "马斯克据报向天空之舞投资10亿美元 为新媒体巨头提供资金支持",
-   "url": "https://www.cnbeta.com.tw/articles/movie/1583424.htm",
-   "summary": "埃隆·马斯克已向新成立的媒体公司Skydance（天空之舞）投资约10亿美元。这笔投资消息传出之际，距离派拉蒙完成对华纳兄弟探索公司的1100亿美元收购仅过去数周。此次交易促成了两大传媒集团的整合，并组建了新的Skydance公司。 阅读全文",
-   "published_at": 1792694974.0,
-   "published_bj": "2026-10-23 02:49"
-  },
-  {
-   "id": "dcc32957dc191d67",
-   "source": "cnBeta",
-   "title": "交友软件砸近万元仍加不上联系方式 记者实测：充值6元只够聊9分钟",
-   "url": "https://www.cnbeta.com.tw/articles/tech/1583422.htm",
-   "summary": "“我感觉不对劲，再投入下去是无底洞。”等业务员阿强（化名）意识到这一点，他在心遇App上已经花了近一万元，也就是从那时起，他开始在各投诉平台维权。心遇是网易云音乐2020年推出的陌生人社交App，它将自己定义为“一款主打真实、同城、安全的真人交友应用”，宣称已为用户完成超亿次配对，并承诺能从源头过滤照骗、马甲号。除了即时聊天，心遇还提供直播、多人语聊、KTV等玩法。 阅读全文",
-   "published_at": 1792694794.0,
-   "published_bj": "2026-10-23 02:46"
-  },
-  {
-   "id": "8748eeb207acd624",
-   "source": "Hacker News",
-   "title": "Hedra is a 3D open world game I wrote from scratch while in highschool",
-   "url": "https://github.com/maxilevi/project-hedra/tree/pre-ai",
-   "summary": "Article URL: https://github.com/maxilevi/project-hedra/tree/pre-ai Comments URL: https://news.ycombinator.com/item?id=50199389 Points: 6 # Comments: 1",
-   "published_at": 1792694676.0,
-   "published_bj": "2026-10-23 02:44"
-  },
-  {
-   "id": "90f9d29c25bd026a",
-   "source": "TechCrunch",
-   "title": "Microsoft’s Mustafa Suleyman says its AI outperforms doctors on hard cases as he chases ‘medical superintelligence’",
-   "url": "https://techcrunch.com/2026/10/22/microsofts-mustafa-suleyman-says-its-ai-outperforms-doctors-on-hard-cases-as-he-chases-medical-superintelligence/",
-   "summary": "Microsoft’s new AI diagnostic system beat generalist doctors on hard cases, according to a study in Science. But most of the improvement seems to come from the AI models underneath, not from Microsoft’s system itself.",
-   "published_at": 1792694633.0,
-   "published_bj": "2026-10-23 02:43"
   }
  ]
 }
