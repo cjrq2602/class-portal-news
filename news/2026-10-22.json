@@ -1,6 +1,6 @@
 {
  "date": "2026-10-22",
- "generated_at": 1792729596.9885428,
+ "generated_at": 1792732220.301743,
  "count": 400,
  "items": [
   {
@@ -612,6 +612,15 @@
    "title": "Woman faces six years in prison over Cash App account she never opened",
    "url": "https://www.techspot.com/news/114296-woman-spends-three-nights-jail-faces-six-years.html",
    "summary": "Article URL: https://www.techspot.com/news/114296-woman-spends-three-nights-jail-faces-six-years.html Comments URL: https://news.ycombinator.com/item?id=50194833 Points: 118 # Comments: 51",
+   "published_at": 1792674660.0,
+   "published_bj": "2026-10-22 21:11"
+  },
+  {
+   "id": "8564eb08a935d415",
+   "source": "Hacker News",
+   "title": "Woman charged with computer fraud due to scam CashApp account being in her name",
+   "url": "https://www.404media.co/amanda-smith-opened-a-cashapp-in-her-name-she-faces-years-in-prison-cashapp-fraud/",
+   "summary": "Article URL: https://www.404media.co/amanda-smith-opened-a-cashapp-in-her-name-she-faces-years-in-prison-cashapp-fraud/ Comments URL: https://news.ycombinator.com/item?id=50194833 Points: 598 # Comments: 596",
    "published_at": 1792674660.0,
    "published_bj": "2026-10-22 21:11"
   },
@@ -3593,15 +3602,6 @@
    "summary": "IT之家 10 月 22 日消息，泛林今日发布 2027 财年（2026 年 6 月 29 日～2027 年 6 月 28 日）第 1 财季（2026 年 6 月 29 日～2026 年 9 月 27 日）报告： 营业总收入 ：82.19 亿美元，同比增长 54.38%，环比增长 22% 毛利润 ：42.99 亿美元，同比增长 60.11%，环比增长 23.58% 毛利率 ：52.3%，同比增长 1.9 个百分点 归母净利润 ：27.53 亿美元，同比增长 75.51%，环比增长 20.9% 经营现金流 ：34.98 亿美元，同比增长 96.61% 基本每股收益 ：2.2 美元，同比增长 77",
    "published_at": 1792614555.0,
    "published_bj": "2026-10-22 04:29"
-  },
-  {
-   "id": "29b5b2cd05f4bcbd",
-   "source": "TechCrunch",
-   "title": "Recursive launches Flint, a laptop coding model it says was largely built by AI",
-   "url": "https://techcrunch.com/2026/10/21/recursive-launches-flint-a-laptop-coding-model-it-says-was-largely-built-by-ai/",
-   "summary": "Startup Recursive has released Flint, a free, laptop-sized coding model built largely by its own AI research system, as an early test of AI that improves itself.",
-   "published_at": 1792614461.0,
-   "published_bj": "2026-10-22 04:27"
   }
  ]
 }
