@@ -1,8 +1,35 @@
 {
  "date": "2026-10-24",
- "generated_at": 1792794256.1600363,
- "count": 57,
+ "generated_at": 1792796723.537884,
+ "count": 61,
  "items": [
+  {
+   "id": "e810acf55437e355",
+   "source": "IT之家",
+   "title": "我国长四乙火箭成功发射遥感五十三号 07-09 星、遥感五十六号 19-21 星",
+   "url": "https://www.ithome.com/1/017/282.htm",
+   "summary": "IT之家 10 月 24 日消息，今日 3 时 25 分，长征四号乙运载火箭在酒泉卫星发射中心点火升空，随后将遥感五十三号 07—09 星、遥感五十六号 19—21 星送入预定轨道， 发射任务取得圆满成功 。 据介绍，遥感五十三号 07-09 星、遥感五十六号 19-21 星 主要用于科学试验、国土资源普查、农产品估产和防灾减灾 等领域。 IT之家注：长四乙火箭由中国航天科技集团有限公司所属商业火箭公司抓总研制、八院承担研制，是常温液体三级运载火箭。 本次发射是长征系列运载火箭第 673 次发射。",
+   "published_at": 1792795845.0,
+   "published_bj": "2026-10-24 06:50"
+  },
+  {
+   "id": "34505d68679ecaef",
+   "source": "IT之家",
+   "title": "开售首日即被越狱：运行 iOS 27.1 的苹果首款折叠 iPhone Duo 已实现定制体验",
+   "url": "https://www.ithome.com/1/017/281.htm",
+   "summary": "IT之家 10 月 24 日消息，安全公司 Calif.io 昨日（10 月 23 日）在 X平台发布推文，&lt;strong&gt;分享了一段演示视频，在苹果首款折叠 iPhone Duo 开售首日，便成功在 iOS 27.1 系统上实现越狱。&lt;/strong&gt; 为了演示本次越狱成果，Calif 实现了不同于常规系统的界面效果，屏幕右下角出现了动漫角色，而且可以调动传感器，让桌面上的 App 图标像是积木一样随着设备角度滑落弹跳。 在越狱破解方面，IT之家此前报道，10 月 16 日在巴黎 Hexacon 攻击性安全大会上，安全公司 Calif.io 在一台运行 iOS 27.",
+   "published_at": 1792795732.0,
+   "published_bj": "2026-10-24 06:48"
+  },
+  {
+   "id": "044e2dba08c853ac",
+   "source": "Hacker News",
+   "title": "Google will pay people to use less electricity so its data centers can use more",
+   "url": "https://www.computerworld.com/article/4239858/google-will-pay-people-to-use-less-electricity-so-its-data-centers-can-use-more.html",
+   "summary": "Article URL: https://www.computerworld.com/article/4239858/google-will-pay-people-to-use-less-electricity-so-its-data-centers-can-use-more.html Comments URL: https://news.ycombinator.com/item?id=50215983 Points: 10 # Comments: 5",
+   "published_at": 1792793020.0,
+   "published_bj": "2026-10-24 06:03"
+  },
   {
    "id": "a7fd148197ed5178",
    "source": "TechCrunch",
@@ -92,6 +119,15 @@
    "summary": "Article URL: https://openai.com/index/securing-our-frontier-model-training-environment/ Comments URL: https://news.ycombinator.com/item?id=50214416 Points: 24 # Comments: 11",
    "published_at": 1792785056.0,
    "published_bj": "2026-10-24 03:50"
+  },
+  {
+   "id": "6a69aa347a15fc59",
+   "source": "Hacker News",
+   "title": "Show HN: Corgi, a helpful {agent, terminal} multiplexer",
+   "url": "https://corgi.computer/",
+   "summary": "Hey everyone, Inspired by Herdr, I've built an agent multiplexer that I've been using as my daily driver for a few weeks now. I think I improved on the concept in a few ways, focusing on the ergonomics I always wished I had: I show you what the agents are up to, along with a running feed of their ac",
+   "published_at": 1792784798.0,
+   "published_bj": "2026-10-24 03:46"
   },
   {
    "id": "21d5dfedb2b99d40",
