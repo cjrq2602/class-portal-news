@@ -1,8 +1,44 @@
 {
  "date": "2026-10-25",
- "generated_at": 1792866057.742987,
- "count": 7,
+ "generated_at": 1792868865.0965545,
+ "count": 11,
  "items": [
+  {
+   "id": "0e85e261ec2a239b",
+   "source": "TechCrunch",
+   "title": "The AI graveyard: a running list of projects and startups that didn’t make it",
+   "url": "https://techcrunch.com/2026/10/24/the-ai-graveyard-a-running-list-of-projects-and-startups-that-didnt-make-it/",
+   "summary": "From Apple's repeatedly delayed Siri AI to OpenAI's messy \"super app\" launch, here's a look at the AI projects that shut down or missed expectations.",
+   "published_at": 1792868400.0,
+   "published_bj": "2026-10-25 03:00"
+  },
+  {
+   "id": "5647311f26746165",
+   "source": "Hacker News",
+   "title": "Danish Government silently drops plan to dump MS Office",
+   "url": "https://www.computerworld.dk/art/297226/digitaliseringsministeriet-har-i-al-stilhed-droppet-stort-anlagt-forsoeg-med-open-source-alternativ-til-microsoft",
+   "summary": "Article URL: https://www.computerworld.dk/art/297226/digitaliseringsministeriet-har-i-al-stilhed-droppet-stort-anlagt-forsoeg-med-open-source-alternativ-til-microsoft Comments URL: https://news.ycombinator.com/item?id=50223844 Points: 12 # Comments: 1",
+   "published_at": 1792866708.0,
+   "published_bj": "2026-10-25 02:31"
+  },
+  {
+   "id": "bd27c065235ce803",
+   "source": "Hacker News",
+   "title": "Dream-1",
+   "url": "https://dreamlabs.ai/research/dream-1/",
+   "summary": "Article URL: https://dreamlabs.ai/research/dream-1/ Comments URL: https://news.ycombinator.com/item?id=50223785 Points: 6 # Comments: 0",
+   "published_at": 1792866204.0,
+   "published_bj": "2026-10-25 02:23"
+  },
+  {
+   "id": "30bb58907583b289",
+   "source": "Hacker News",
+   "title": "Glymphatic clearance to alleviate traumatic brain edema& Alzheimer's pathology",
+   "url": "https://www.science.org/doi/10.1126/sciadv.aeh8870",
+   "summary": "Article URL: https://www.science.org/doi/10.1126/sciadv.aeh8870 Comments URL: https://news.ycombinator.com/item?id=50223752 Points: 6 # Comments: 1",
+   "published_at": 1792865945.0,
+   "published_bj": "2026-10-25 02:19"
+  },
   {
    "id": "25f982c8a6d3cb58",
    "source": "cnBeta",
