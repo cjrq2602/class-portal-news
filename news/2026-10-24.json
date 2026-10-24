@@ -1,7 +1,7 @@
 {
  "date": "2026-10-24",
- "generated_at": 1792819354.8956966,
- "count": 132,
+ "generated_at": 1792821899.8750062,
+ "count": 152,
  "items": [
   {
    "id": "8ed52f40e7f3afbe",
@@ -20,6 +20,177 @@
    "summary": "点击查看原文>",
    "published_at": 1792836000.0,
    "published_bj": "2026-10-24 18:00"
+  },
+  {
+   "id": "7fad2bca243256e9",
+   "source": "IT之家",
+   "title": "不再需要键盘：微软新 XBOX 模式新增一键返回 Win11 桌面",
+   "url": "https://www.ithome.com/1/017/373.htm",
+   "summary": "IT之家 10 月 24 日消息，科技媒体 Windows Latest 今天（10 月 24 日）发布博文，报道称 在 Windows 11 Build 26340.9750 预览版上 ，测试全新的 XBOX 模式， 新的“游戏任务视图”加入了一条底部导航栏，玩家仅凭手柄即可退出到 Windows 桌面。 IT之家援引博文介绍，用户此前要从 XBOX 模式切换返回桌面，通常需要按 Windows 键加 Tab 键，再选择“Windows 桌面”。对于连接电视的 PC、掌机或主要依赖手柄的设备而言，用户需要临时借助键盘才能执行相关操作。 在新界面中，打开的应用会以大卡片形式呈现，用户可通过手柄",
+   "published_at": 1792821621.0,
+   "published_bj": "2026-10-24 14:00"
+  },
+  {
+   "id": "eed21b90cfaa8978",
+   "source": "cnBeta",
+   "title": "PHP基金会资金严重不足：全球约七成网站依赖的编程语言却仅有一名全职员工",
+   "url": "https://www.cnbeta.com.tw/articles/tech/1583652.htm",
+   "summary": "开源编程语言PHP的维护工作正面临严峻的资源压力。尽管PHP已经发展了约30年，并支撑着全球大量网站的运行，但负责支持这一语言发展的非营利组织PHP基金会，却长期处于资金不足的状态。基金会执行董事伊丽莎白·巴伦近日透露，组织目前只有一名全职员工，其余工作主要依靠兼职承包人员、捐款和资助维持。 阅读全文",
+   "published_at": 1792821529.0,
+   "published_bj": "2026-10-24 13:58"
+  },
+  {
+   "id": "600f93b3ed4910ff",
+   "source": "IT之家",
+   "title": "连续 5 年，今年 1024 程序员节影石 Insta360 再送员工黄金键帽",
+   "url": "https://www.ithome.com/1/017/372.htm",
+   "summary": "IT之家 10 月 24 日消息，今天是 1024 程序员节，影石 Insta360 官方宣布，奖励优秀员工黄金键帽作为节日礼物。其中， 黄金空格键重约 35 克，价值超 4 万元 。 据悉，影石已 连续五年发放 这一特殊奖励，累计送出 75 枚黄金键帽。 今年新增了“F5”键，象征不断迭代和突破创新 。 根据介绍，影石研发技术人员占比近六成，是推动产品创新的核心力量。 AI 也成为今年程序员节的热议话题。现场一位年轻同事提出“今年的黄金键帽，应该发给 AI”对此，公司创始人刘靖康给出了不同的看法。 刘靖康表示，AI 虽然能够极大提升编程效率， 但只有人才能完成原生的创造 ，人的价值不可替代。",
+   "published_at": 1792821523.0,
+   "published_bj": "2026-10-24 13:58"
+  },
+  {
+   "id": "da2f56e649f02495",
+   "source": "cnBeta",
+   "title": "微软调整Windows 11网速测试功能 不再跳转Bing 直接在系统内显示结果",
+   "url": "https://www.cnbeta.com.tw/articles/tech/1583650.htm",
+   "summary": "微软正在调整 Windows 11 的网络测速功能。在最新的 Insider Experimental 预览版本中，用户可以直接在系统的“快速设置”界面中测试网络速度，无需再打开默认浏览器并跳转至 Bing 页面。这项变化改善了功能的使用体验，也让外界再次关注微软此前是否借助系统工具为自家搜索引擎导流。 阅读全文",
+   "published_at": 1792821506.0,
+   "published_bj": "2026-10-24 13:58"
+  },
+  {
+   "id": "90f9028c311c69d1",
+   "source": "cnBeta",
+   "title": "英特尔高管称公司技术实力已接近台积电 高数值孔径EUV战略被视为关键筹码",
+   "url": "https://www.cnbeta.com.tw/articles/tech/1583648.htm",
+   "summary": "英特尔高层近日在公开访谈中表示，公司在先进制程技术方面与台积电之间的差距已经缩小至“仅几个百分点”，未来追赶行业领导者的最大挑战不再是技术本身，而是如何建立与竞争对手相匹配的制造规模和产能体系。 阅读全文",
+   "published_at": 1792821404.0,
+   "published_bj": "2026-10-24 13:56"
+  },
+  {
+   "id": "6c683a7939f4ea22",
+   "source": "cnBeta",
+   "title": "Google隐私政策新增例外：连接Gmail、照片等数据或影响个性化广告",
+   "url": "https://www.cnbeta.com.tw/articles/tech/1583646.htm",
+   "summary": "Google更新隐私政策，明确说明：Gmail、云端硬盘和Google相册中的内容默认不会用于个性化广告，但如果用户选择把这些服务中的数据开放给支持个性化广告的其他Google服务，这项排除规则就有例外。Google举例称，搜索服务可能处理用户允许访问的部分资料，以个性化内容，其中也包括广告。 阅读全文",
+   "published_at": 1792821207.0,
+   "published_bj": "2026-10-24 13:53"
+  },
+  {
+   "id": "e5a39453b2716d51",
+   "source": "cnBeta",
+   "title": "英国将投入1亿英镑建设AI生物安全实验室 OpenAI和Anthropic提供模型额度",
+   "url": "https://www.cnbeta.com.tw/articles/tech/1583644.htm",
+   "summary": "英国政府计划拨款1亿英镑，成立国家人工智能生物安全实验室（AI Biosecurity Lab，AIBL），用于增强应对新兴生物威胁的能力。政府称该机构将是“世界首创”，并将与领先的人工智能企业合作；OpenAI和Anthropic还将提供价值约2亿英镑的模型使用额度，供实验室调用各自的AI模型。这些额度属于模型服务资源，并非直接现金捐款。 阅读全文",
+   "published_at": 1792821171.0,
+   "published_bj": "2026-10-24 13:52"
+  },
+  {
+   "id": "198e8d70965a9b81",
+   "source": "cnBeta",
+   "title": "微软游戏业务再现高层变动 Xbox首任首席运营官任职仅三个月离职",
+   "url": "https://www.cnbeta.com.tw/articles/game/1583642.htm",
+   "summary": "微软Xbox业务再次出现重要人事调整。根据Xbox内部备忘录显示，Xbox首任首席运营官（COO）海伦·蒋（Helen Chiang）已于10月23日正式离开微软，结束其长达21年的公司职业生涯。 阅读全文",
+   "published_at": 1792821096.0,
+   "published_bj": "2026-10-24 13:51"
+  },
+  {
+   "id": "71e4f9a0cacc7560",
+   "source": "cnBeta",
+   "title": "Xbox部门过去六年中五次未达微软高管薪酬相关增长目标",
+   "url": "https://www.cnbeta.com.tw/articles/game/1583640.htm",
+   "summary": "微软最新代理声明显示，Xbox内容与服务收入再次未达到与公司高管绩效股票奖励挂钩的年度增长目标，这是六年来第五次未达标。微软为截至2026年6月30日的财年设定4.28%的增长目标，但按薪酬考核所用的汇率调整口径，该项收入实际下降6.03%。 阅读全文",
+   "published_at": 1792821054.0,
+   "published_bj": "2026-10-24 13:50"
+  },
+  {
+   "id": "16ee6294de382dd9",
+   "source": "cnBeta",
+   "title": "微软为Windows 11测试全新可定制右键菜单 用户终于可以决定菜单里显示什么",
+   "url": "https://www.cnbeta.com.tw/articles/tech/1583638.htm",
+   "summary": "微软正在向Windows 11 Beta频道的Insider测试用户推送全新改版的文件资源管理器右键菜单，新功能随Build 26220.9757版本一同上线。这项改进最早于今年8月出现在Experimental实验频道，如今开始进入规模更大的Beta测试阶段，意味着距离正式发布又向前迈进了一步。 阅读全文",
+   "published_at": 1792820938.0,
+   "published_bj": "2026-10-24 13:48"
+  },
+  {
+   "id": "6ea357bfca070782",
+   "source": "cnBeta",
+   "title": "唾液中的细菌或可帮助识别食管癌患者 为低成本筛查提供新方向",
+   "url": "https://www.cnbeta.com.tw/articles/science/1583636.htm",
+   "summary": "科学家发现，唾液中的细菌组成可能隐藏着一种致命食管癌的重要线索。来自南非和美国的研究人员通过分析患者唾液中的微生物，并结合机器学习技术，建立了一种区分食管癌患者与未患癌人群的预测模型。研究结果显示，基于口腔微生物特征的模型，其识别效果优于单纯依靠临床信息和人口统计特征建立的模型。这项研究为开发简单、低成本的辅助筛查工具提供了新的思路。 阅读全文",
+   "published_at": 1792820901.0,
+   "published_bj": "2026-10-24 13:48"
+  },
+  {
+   "id": "3176a0902a2c8542",
+   "source": "IT之家",
+   "title": "微软 Win11 25H2 26220.9757 预览版发布：重新设计文件管理器右键菜单",
+   "url": "https://www.ithome.com/1/017/369.htm",
+   "summary": "IT之家 10 月 24 日消息，微软昨日（10 月 23 日）发布博文，邀请 Beta 频道的 Windows Insider 项目成员， 测试适用于 Windows 11 系统的预览版更新，25H2 版本升至 Build 26220.9757；而 26H1 版本升至 28020.3292。 Windows 11 Build 26220.9757 预览版更新内容： 一、文件管理器重新设计右键菜单 微软正在文件资源管理器中逐步推出重新设计的右键菜单，目标是让菜单更快、更清爽，也更容易按照个人使用习惯进行自定义。 新设计减少了菜单顶层的杂乱内容，同时保留常用操作的便捷访问；用户还可以通过新的“设",
+   "published_at": 1792820823.0,
+   "published_bj": "2026-10-24 13:47"
+  },
+  {
+   "id": "90dbebe473028a8d",
+   "source": "cnBeta",
+   "title": "PHP基金会披露尚未修复的新漏洞 提供缓解方案但暂时不会发新版本修复",
+   "url": "https://www.cnbeta.com.tw/articles/tech/1583634.htm",
+   "summary": "PHP 基金会在 10 月 24 日发布公告披露编号为 CVE-2026-115560 的远程代码执行漏洞风险，不过这个漏洞暂时不会通过发布新版本进行修复，因为漏洞需要特定配置与应用代码组合才可能触发，即危害度相对来说没有那么高。 阅读全文",
+   "published_at": 1792820698.0,
+   "published_bj": "2026-10-24 13:44"
+  },
+  {
+   "id": "ffbd25e75e703d4a",
+   "source": "cnBeta",
+   "title": "Brax推出Wink模块化隐私手机：实体键盘可替换为电池 一键切断通信与传感器",
+   "url": "https://www.cnbeta.com.tw/articles/tech/1583632.htm",
+   "summary": "在智能手机普遍追求大屏幕、高性能和多摄像头的今天，Brax Technologies推出了一款设计思路截然不同的新产品——Brax Wink。这款手机采用类似经典黑莓手机的外观，将实体键盘、模块化设计和硬件级隐私控制结合起来，试图为重视个人数据安全的用户提供另一种选择。 阅读全文",
+   "published_at": 1792820543.0,
+   "published_bj": "2026-10-24 13:42"
+  },
+  {
+   "id": "e5d093e6ad62f289",
+   "source": "cnBeta",
+   "title": "大众途观迈入纯电时代：全新ID. Tiguan正式发布 接替ID.4与ID.5",
+   "url": "https://www.cnbeta.com.tw/articles/tech/1583630.htm",
+   "summary": "大众汽车正式发布全新纯电动紧凑型SUV ID. Tiguan，并宣布以这款新车取代现有的ID.4和ID.5车型。对于大众而言，这是一项意义重大的产品更新，因为“Tiguan”这个名字在全球市场拥有极高知名度。自初代车型推出以来，途观系列累计销量已接近900万辆，而被替代的ID.4和ID.5自2021年上市以来也已售出超过95万辆。 阅读全文",
+   "published_at": 1792820468.0,
+   "published_bj": "2026-10-24 13:41"
+  },
+  {
+   "id": "5123b57945de8a8b",
+   "source": "cnBeta",
+   "title": "科学家开发出“生物混合能量收集网” 利用人体心肌细胞运动发电",
+   "url": "https://www.cnbeta.com.tw/articles/science/1583628.htm",
+   "summary": "美国马萨诸塞大学阿默斯特分校的研究人员开发出一种超薄、柔软的电子网状装置，能够与活的人体心肌细胞融为一体，并将细胞收缩产生的机械运动转化为电能。这种名为“生物混合网状能量收集器”（Biohybrid Mesh Harvester）的新装置，有望为心脏起搏器、心脏监测设备、神经刺激器等低功耗医疗植入设备提供新的供电方式，减少传统电池带来的体积、重量和更换手术问题。 阅读全文",
+   "published_at": 1792820401.0,
+   "published_bj": "2026-10-24 13:40"
+  },
+  {
+   "id": "d1230c4ddad7400f",
+   "source": "cnBeta",
+   "title": "苹果反对司法部要求更新反垄断案证据 称重新搜集将使诉讼再拖数月",
+   "url": "https://www.cnbeta.com.tw/articles/tech/1583626.htm",
+   "summary": "苹果与美国司法部及多个州就反垄断诉讼中的文件调取范围发生分歧，并已向新泽西联邦法院报告双方谈判陷入僵局。争议焦点是苹果是否必须继续提交更接近审理阶段的内部文件，目前双方此前约定的文件截止日期为2025年6月20日。 阅读全文",
+   "published_at": 1792820358.0,
+   "published_bj": "2026-10-24 13:39"
+  },
+  {
+   "id": "4a6743c53baa66df",
+   "source": "IT之家",
+   "title": "微软 Win11 26H1 推送 28120.3302 预览版：开始菜单可调大小等",
+   "url": "https://www.ithome.com/1/017/368.htm",
+   "summary": "IT之家 10 月 24 日消息，微软昨日（10 月 23 日）发布公告， 邀请 Experimental 频道的 Windows Insider 项目成员，测试适用于 Windows 11 的预览版更新。 IT之家援引博文介绍，本次更新适用于 Experimental 频道 3 个版本： 26H2 版本更新后版本号升至 Build 26340.9767 26H1 版本更新后版本号升至 Build 28120.3302 未来平台版本更新后版本号升至 Build 29695.1001 在更新内容方面，本次更新带来开始菜单个性化、桌面应用隐私权限、放大镜多显示器体验、云重建入口、文件资源管理器缩略",
+   "published_at": 1792820252.0,
+   "published_bj": "2026-10-24 13:37"
+  },
+  {
+   "id": "c9bcffb90dd0b197",
+   "source": "IT之家",
+   "title": "微软 Win11 26H2 发布 26340.9767 预览版：增强实验性功能体验、升级网络测速",
+   "url": "https://www.ithome.com/1/017/367.htm",
+   "summary": "IT之家 10 月 24 日消息，微软昨日（10 月 23 日）发布公告，邀请 Experimental 频道的 Windows Insider 项目成员，测试适用于 Windows 11 的预览版更新。 IT之家援引博文介绍，本次更新适用于 Experimental 频道 3 个版本： 26H2 版本更新后版本号升至 Build 26340.9767 26H1 版本更新后版本号升至 Build 28120.3302 未来平台版本更新后版本号升至 Build 29695.1001 在更新内容方面，以下是适用于 Windows 11 Build 26340.9767 的更新日志： 一、Windo",
+   "published_at": 1792819601.0,
+   "published_bj": "2026-10-24 13:26"
   },
   {
    "id": "e154f5ab8334348a",
@@ -344,6 +515,15 @@
    "summary": "IT之家 10 月 24 日消息，博主 @数码闲聊站 昨日发文，分享了国产旗舰机的最新激活销量（第三方机构截止 2026 年第 42 周累计数据）： 某 16 一款机型 —— 8.35W (首周开售 6 天) 某 90 系列四款机型 —— 52.8W±(开售 18 天) 某 9 系列三款机型 —— 39.1W±(开售 21 天) 某 18 系列两款机型 —— 36.8W±(开售 26 天) 某 10 系列三款机型 —— 24.6W±(开售 25 天) 某 500 系列三款机型 —— 20.8W±(开售 25 天) 根据评论区讨论来看，上述机型分别对应 一加 16 、华为 Mate 90 系列、",
    "published_at": 1792805904.0,
    "published_bj": "2026-10-24 09:38"
+  },
+  {
+   "id": "4dbac2d959fb38d9",
+   "source": "Hacker News",
+   "title": "Password, Please: Border Searches of Laptops, Phones Up 32% This Year",
+   "url": "https://gizmodo.com/password-please-border-searches-of-laptops-phones-up-32-this-year-2000830213",
+   "summary": "Article URL: https://gizmodo.com/password-please-border-searches-of-laptops-phones-up-32-this-year-2000830213 Comments URL: https://news.ycombinator.com/item?id=50217600 Points: 27 # Comments: 4",
+   "published_at": 1792805848.0,
+   "published_bj": "2026-10-24 09:37"
   },
   {
    "id": "cae8b203a8871a32",
