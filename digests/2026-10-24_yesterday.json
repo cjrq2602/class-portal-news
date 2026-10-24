@@ -1,0 +1,382 @@
+{
+ "type": "yesterday",
+ "date": "2026-10-24",
+ "window": {
+  "start_ts": 1792771200.0,
+  "end_ts": 1792857600.0
+ },
+ "generated_at": 1792858994.9496672,
+ "generator": "action",
+ "news_count": 300,
+ "keywords": [
+  "ai",
+  "iphone",
+  "duo",
+  "苹果",
+  "元",
+  "发布",
+  "微软",
+  "手机",
+  "to",
+  "pro"
+ ],
+ "points": [
+  {
+   "text": "【ai】IT之家 10 月 24 日消息，倍思现已在京东上架一款卡片磁吸 Air 移动电源，该产品最大的特点是适配了苹果 iPhone Duo 尺寸，其",
+   "keyword": "ai",
+   "news_ids": [
+    "763d404ed29eac1a"
+   ],
+   "refs": [
+    {
+     "id": "763d404ed29eac1a",
+     "title": "倍思为苹果 iPhone Duo 推出卡片磁吸 Air 移动电源：7.5W 无线 +25W 有线，5000mAh 售 374 元",
+     "source": "IT之家",
+     "url": "https://www.ithome.com/1/017/492.htm",
+     "published_at": 1792842994.0
+    }
+   ]
+  },
+  {
+   "text": "【元】IT之家 10 月 24 日消息，戴尔京东自营店新上了两款 UltraSharp“焕新版”显示器，但本质上是一次渠道型号的调整",
+   "keyword": "元",
+   "news_ids": [
+    "3e8afcdd9ebfc0fe"
+   ],
+   "refs": [
+    {
+     "id": "3e8afcdd9ebfc0fe",
+     "title": "戴尔推出 UltraSharp“焕新版”4K 显示器：32 英寸 5199 元，27 英寸 3999 元",
+     "source": "IT之家",
+     "url": "https://www.ithome.com/1/017/521.htm",
+     "published_at": 1792854458.0
+    }
+   ]
+  },
+  {
+   "text": "【发布】IT之家 10 月 24 日消息，博主 @数码闲聊站 今日曝光华为 Pura90 Plus 手机配置，目前这款新机已经开启预订",
+   "keyword": "发布",
+   "news_ids": [
+    "71b6f4c5e2a09792"
+   ],
+   "refs": [
+    {
+     "id": "71b6f4c5e2a09792",
+     "title": "华为 Pura90 Plus 手机配置曝光：2.6GHz 麒麟 9025 芯片，6.8 英寸四曲屏",
+     "source": "IT之家",
+     "url": "https://www.ithome.com/1/017/425.htm",
+     "published_at": 1792832028.0
+    }
+   ]
+  },
+  {
+   "text": "【微软】雅达利宣布，将停止为2021年推出的VCS主机提供后续支持",
+   "keyword": "微软",
+   "news_ids": [
+    "5a2ab1027795da59"
+   ],
+   "refs": [
+    {
+     "id": "5a2ab1027795da59",
+     "title": "雅达利终止2021款VCS支持 推出自制应用供玩家拓展游戏",
+     "source": "cnBeta",
+     "url": "https://www.cnbeta.com.tw/articles/game/1583684.htm",
+     "published_at": 1792838584.0
+    }
+   ]
+  },
+  {
+   "text": "【to】The $400 Boox Palma 2 Pro is a smartphone-sized e-reader designed for pe",
+   "keyword": "to",
+   "news_ids": [
+    "075724e248bf51dd"
+   ],
+   "refs": [
+    {
+     "id": "075724e248bf51dd",
+     "title": "The Boox Palma 2 Pro finally got me to stop reading on my phone",
+     "source": "TechCrunch",
+     "url": "https://techcrunch.com/2026/10/24/the-boox-palma-2-pro-finally-got-me-to-stop-reading-on-my-phone/",
+     "published_at": 1792851300.0
+    }
+   ]
+  },
+  {
+   "text": "【iphone】IT之家 10 月 24 日消息，随着苹果首款折叠屏手机 iPhone Duo 上市，许多产品制造商陆续为该机推出各种外设",
+   "keyword": "iphone",
+   "news_ids": [
+    "4ad722b9ec8ad58a"
+   ],
+   "refs": [
+    {
+     "id": "4ad722b9ec8ad58a",
+     "title": "PITAKA 为苹果 iPhone Duo 推出“壳膜一体”外屏保护壳，374 元起",
+     "source": "IT之家",
+     "url": "https://www.ithome.com/1/017/489.htm",
+     "published_at": 1792841716.0
+    }
+   ]
+  },
+  {
+   "text": "【元】IT之家 10 月 24 日消息，重力星球现已在京东上架 MH1 PRO 头戴式耳机，该产品配备 53mm 动圈、支持 ANC 降噪， 定价为 ",
+   "keyword": "元",
+   "news_ids": [
+    "3ea574ec2ac281f0"
+   ],
+   "refs": [
+    {
+     "id": "3ea574ec2ac281f0",
+     "title": "重力星球 MH1 PRO 头戴式耳机上架：53mm 动圈、ANC 降噪，799 元",
+     "source": "IT之家",
+     "url": "https://www.ithome.com/1/017/447.htm",
+     "published_at": 1792837254.0
+    }
+   ]
+  },
+  {
+   "text": "【iphone】IT之家 10 月 24 日消息，今日，华为 Mate X7、Mate80、Mate70、Pura80 等机型推送鸿蒙 HarmonyOS 7.",
+   "keyword": "iphone",
+   "news_ids": [
+    "37058fe51ebe4027"
+   ],
+   "refs": [
+    {
+     "id": "37058fe51ebe4027",
+     "title": "华为 Mate X7、Mate80、Mate70、Pura80 等机型推送鸿蒙 HarmonyOS 7.0.0.111 SP12 版本更新：支持 iPhone 互联，实现消息相互流转",
+     "source": "IT之家",
+     "url": "https://www.ithome.com/1/017/430.htm",
+     "published_at": 1792833812.0
+    }
+   ]
+  },
+  {
+   "text": "一项最新研究发现，一类拥有异常巨大头部的蚂蚁正在挑战生物学中的一项基础规律",
+   "keyword": "",
+   "news_ids": [
+    "1b15080cf21aa490"
+   ],
+   "refs": [
+    {
+     "id": "1b15080cf21aa490",
+     "title": "巨头蚂蚁挑战生物学经典规律：超大头部为何没有拖垮身体？",
+     "source": "cnBeta",
+     "url": "https://www.cnbeta.com.tw/articles/science/1583702.htm",
+     "published_at": 1792857540.0
+    }
+   ]
+  },
+  {
+   "text": "Article URL: https://actu",
+   "keyword": "",
+   "news_ids": [
+    "4a4df343d134872d"
+   ],
+   "refs": [
+    {
+     "id": "4a4df343d134872d",
+     "title": "Neural chip decodes interactions between brain regions",
+     "source": "Hacker News",
+     "url": "https://actu.epfl.ch/news/neural-chip-decodes-interactions-between-brain-r-2/",
+     "published_at": 1792857437.0
+    }
+   ]
+  },
+  {
+   "text": "日本京都大学的研究人员发现，猫与主人之间可能存在一种与社会联结和情绪状态有关的生理联系",
+   "keyword": "",
+   "news_ids": [
+    "e386e340eaf25a7a"
+   ],
+   "refs": [
+    {
+     "id": "e386e340eaf25a7a",
+     "title": "科学家发现猫与主人存在意想不到的生理联系 与催产素水平相关",
+     "source": "cnBeta",
+     "url": "https://www.cnbeta.com.tw/articles/science/1583700.htm",
+     "published_at": 1792857393.0
+    }
+   ]
+  },
+  {
+   "text": "Article URL: https://freedns",
+   "keyword": "",
+   "news_ids": [
+    "8b92b1c2180da274"
+   ],
+   "refs": [
+    {
+     "id": "8b92b1c2180da274",
+     "title": "FreeDNS",
+     "source": "Hacker News",
+     "url": "https://freedns.afraid.org/",
+     "published_at": 1792855201.0
+    }
+   ]
+  },
+  {
+   "text": "IT之家 10 月 24 日消息，2026 年是《三体》小说发表 20 周年，在 2026 年三体日活动现场，导演杨磊确认《三体 · 大史》已定",
+   "keyword": "",
+   "news_ids": [
+    "f0b508e1f0106c76"
+   ],
+   "refs": [
+    {
+     "id": "f0b508e1f0106c76",
+     "title": "刘慈欣监制《三体·大史》年内开机，导演杨磊称演员都已“众神归位”",
+     "source": "IT之家",
+     "url": "https://www.ithome.com/1/017/522.htm",
+     "published_at": 1792855019.0
+    }
+   ]
+  },
+  {
+   "text": "IT之家 10 月 24 日消息，据中国信通院，随着大模型技术的迅速迭代，词元（Token）服务成为从技术走向应用的关键点，我国日均词元调用量持",
+   "keyword": "",
+   "news_ids": [
+    "041df30636417a30"
+   ],
+   "refs": [
+    {
+     "id": "041df30636417a30",
+     "title": "中国信通院：6 月国内词元日均消耗量约 500 万亿，是 2025 年 12 月的近 4 倍",
+     "source": "IT之家",
+     "url": "https://www.ithome.com/1/017/518.htm",
+     "published_at": 1792852909.0
+    }
+   ]
+  },
+  {
+   "text": "长期以来，人们普遍认为狗、马等动物具备较强的人类识别能力，而奶牛则很少被纳入相关讨论",
+   "keyword": "",
+   "news_ids": [
+    "d7b8ece160ce7e7f"
+   ],
+   "refs": [
+    {
+     "id": "d7b8ece160ce7e7f",
+     "title": "研究发现奶牛能够识别人类个体 不只是“认人”那么简单",
+     "source": "cnBeta",
+     "url": "https://www.cnbeta.com.tw/articles/science/1583698.htm",
+     "published_at": 1792852479.0
+    }
+   ]
+  }
+ ],
+ "article": {
+  "title": "2026-10-24 新闻总结",
+  "paragraphs": [
+   {
+    "kind": "lead",
+    "text": "过去 24 小时共收录 300 条新闻，来自 7 家媒体。把标题放在一起看，讨论主要集中在 AI、手机、游戏 这几个方向上，其余消息更像是零散补充。"
+   },
+   {
+    "kind": "section",
+    "heading": "推出",
+    "text": "先看「推出」。IT之家 10 月 24 日消息，倍思现已在京东上架一款卡片磁吸 Air 移动电源，该产品最大的特点是适配了苹果 iPhone Duo 尺寸，其内置 5000mAh 电芯，另有 134 条消息指向同一话题。这类进展更像是把已有能力往工程化落地推了一步，真正的分水岭在于成本和可靠性能不能同时压下来。",
+    "news_ids": [
+     "763d404ed29eac1a"
+    ],
+    "refs": [
+     {
+      "id": "763d404ed29eac1a",
+      "title": "倍思为苹果 iPhone Duo 推出卡片磁吸 Air 移动电源：7.5W 无线 +25W 有线，5000mAh 售 374 元",
+      "source": "IT之家",
+      "url": "https://www.ithome.com/1/017/492.htm",
+      "published_at": 1792842994.0
+     }
+    ]
+   },
+   {
+    "kind": "section",
+    "heading": "显示",
+    "text": "与此同时「显示」。IT之家 10 月 24 日消息，戴尔京东自营店新上了两款 UltraSharp“焕新版”显示器，另有 18 条消息指向同一话题。从节奏上看，行业已经从「能不能做」转向「做得便不便宜」，这通常意味着竞争会更务实。",
+    "news_ids": [
+     "3e8afcdd9ebfc0fe"
+    ],
+    "refs": [
+     {
+      "id": "3e8afcdd9ebfc0fe",
+      "title": "戴尔推出 UltraSharp“焕新版”4K 显示器：32 英寸 5199 元，27 英寸 3999 元",
+      "source": "IT之家",
+      "url": "https://www.ithome.com/1/017/521.htm",
+      "published_at": 1792854458.0
+     }
+    ]
+   },
+   {
+    "kind": "section",
+    "heading": "手机",
+    "text": "另一个值得注意的方向是「手机」。IT之家 10 月 24 日消息，博主 @数码闲聊站 今日曝光华为 Pura90 Plus 手机配置，另有 19 条消息指向同一话题。技术路线的胜负很少由一次发布会决定，接下来要看的是它能不能被更多团队低成本复用。",
+    "news_ids": [
+     "71b6f4c5e2a09792"
+    ],
+    "refs": [
+     {
+      "id": "71b6f4c5e2a09792",
+      "title": "华为 Pura90 Plus 手机配置曝光：2.6GHz 麒麟 9025 芯片，6.8 英寸四曲屏",
+      "source": "IT之家",
+      "url": "https://www.ithome.com/1/017/425.htm",
+      "published_at": 1792832028.0
+     }
+    ]
+   },
+   {
+    "kind": "section",
+    "heading": "游戏",
+    "text": "相比之下「游戏」。雅达利宣布，将停止为2021年推出的VCS主机提供后续支持…，另有 9 条消息指向同一话题。技术路线的胜负很少由一次发布会决定，接下来要看的是它能不能被更多团队低成本复用。",
+    "news_ids": [
+     "5a2ab1027795da59"
+    ],
+    "refs": [
+     {
+      "id": "5a2ab1027795da59",
+      "title": "雅达利终止2021款VCS支持 推出自制应用供玩家拓展游戏",
+      "source": "cnBeta",
+      "url": "https://www.cnbeta.com.tw/articles/game/1583684.htm",
+      "published_at": 1792838584.0
+     }
+    ]
+   },
+   {
+    "kind": "glossary",
+    "items": [
+     {
+      "term": "AI",
+      "desc": "人工智能，让机器完成识别、生成、判断等原本需要人做的任务"
+     },
+     {
+      "term": "GPU",
+      "desc": "图形处理器，因为擅长大规模并行计算，成了 AI 训练的主力硬件"
+     },
+     {
+      "term": "API",
+      "desc": "应用程序接口，让不同软件按约定好的方式互相调用"
+     },
+     {
+      "term": "Transformer",
+      "desc": "2017 年提出的神经网络结构，是当今绝大多数大模型的基础"
+     },
+     {
+      "term": "Agent",
+      "desc": "智能体，能自己拆解任务、调用工具并连续执行的 AI 程序"
+     },
+     {
+      "term": "IPO",
+      "desc": "首次公开募股，公司第一次把股票卖给公众并上市"
+     }
+    ]
+   },
+   {
+    "kind": "outlook",
+    "text": "把这几条放在一起看，最值得跟踪的是 AI 和 手机 两条线：一条决定技术能走多远，一条决定它多快能落到普通人的日常里。至于其他消息，可以先放进观察名单，等后续有更实的进展再判断。"
+   }
+  ],
+  "word_count": 652
+ },
+ "ai_enhanced": false,
+ "schema": 1,
+ "window_bj": {
+  "start": "2026-10-24 00:00",
+  "end": "2026-10-25 00:00"
+ }
+}

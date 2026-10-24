@@ -1,7 +1,7 @@
 {
  "date": "2026-10-24",
- "generated_at": 1792858881.2578752,
- "count": 298,
+ "generated_at": 1792858993.0104806,
+ "count": 300,
  "items": [
   {
    "id": "1b15080cf21aa490",
@@ -11,6 +11,15 @@
    "summary": "一项最新研究发现，一类拥有异常巨大头部的蚂蚁正在挑战生物学中的一项基础规律。按照长期被广泛接受的“异速生长定律”（allometric scaling），动物身体各部分的尺寸通常会按照可预测的比例共同增长，但研究人员发现，一些蚂蚁演化出的超大头部远远超出了理论预测范围。 阅读全文",
    "published_at": 1792857540.0,
    "published_bj": "2026-10-24 23:59"
+  },
+  {
+   "id": "4a4df343d134872d",
+   "source": "Hacker News",
+   "title": "Neural chip decodes interactions between brain regions",
+   "url": "https://actu.epfl.ch/news/neural-chip-decodes-interactions-between-brain-r-2/",
+   "summary": "Article URL: https://actu.epfl.ch/news/neural-chip-decodes-interactions-between-brain-r-2/ Comments URL: https://news.ycombinator.com/item?id=50222525 Points: 11 # Comments: 0",
+   "published_at": 1792857437.0,
+   "published_bj": "2026-10-24 23:57"
   },
   {
    "id": "e386e340eaf25a7a",
@@ -1377,6 +1386,15 @@
    "title": "Hacker reverses Samsung TV, finds on-board AI listening OpenAI account suspended",
    "url": "https://www.reddit.com/r/antiai/comments/1xdv3e5/hacker_reverse_engineers_his_samsung_tv_and_finds/",
    "summary": "Article URL: https://www.reddit.com/r/antiai/comments/1xdv3e5/hacker_reverse_engineers_his_samsung_tv_and_finds/ Comments URL: https://news.ycombinator.com/item?id=50218633 Points: 28 # Comments: 0",
+   "published_at": 1792820997.0,
+   "published_bj": "2026-10-24 13:49"
+  },
+  {
+   "id": "596b5c4d3c9785fa",
+   "source": "Hacker News",
+   "title": "Root shell on Samsung TV",
+   "url": "https://twitter.com/log4j/status/2113014142600953868?s=46",
+   "summary": "Article URL: https://twitter.com/log4j/status/2113014142600953868?s=46 Comments URL: https://news.ycombinator.com/item?id=50218633 Points: 403 # Comments: 143",
    "published_at": 1792820997.0,
    "published_bj": "2026-10-24 13:49"
   },

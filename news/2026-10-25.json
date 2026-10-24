@@ -1,8 +1,17 @@
 {
  "date": "2026-10-25",
- "generated_at": 1792858881.2562358,
- "count": 3,
+ "generated_at": 1792858993.0089788,
+ "count": 4,
  "items": [
+  {
+   "id": "767a852ab39bbaa5",
+   "source": "Hacker News",
+   "title": "Roku developer repositories moved from GitHub to GitLab",
+   "url": "https://blog.roku.com/developer/gitlab-move",
+   "summary": "Article URL: https://blog.roku.com/developer/gitlab-move Comments URL: https://news.ycombinator.com/item?id=50222622 Points: 14 # Comments: 1",
+   "published_at": 1792857986.0,
+   "published_bj": "2026-10-25 00:06"
+  },
   {
    "id": "bf10f7037c23dd45",
    "source": "cnBeta",
