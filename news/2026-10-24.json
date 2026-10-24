@@ -1,8 +1,17 @@
 {
  "date": "2026-10-24",
- "generated_at": 1792817463.8555055,
- "count": 127,
+ "generated_at": 1792819354.8956966,
+ "count": 132,
  "items": [
+  {
+   "id": "8ed52f40e7f3afbe",
+   "source": "InfoQ中文",
+   "title": "React 19.3 新增 browser() API，使“仅客户端渲染”成为一等公民",
+   "url": "https://www.infoq.cn/article/jNX6EAzqP34xRjqUMU1N?utm_source=rss&utm_medium=article",
+   "summary": "点击查看原文>",
+   "published_at": 1792846800.0,
+   "published_bj": "2026-10-24 21:00"
+  },
   {
    "id": "5b3953378770b92d",
    "source": "InfoQ中文",
@@ -11,6 +20,33 @@
    "summary": "点击查看原文>",
    "published_at": 1792836000.0,
    "published_bj": "2026-10-24 18:00"
+  },
+  {
+   "id": "e154f5ab8334348a",
+   "source": "IT之家",
+   "title": "微软“邮件革命”仅一年就退场：Outlook 收件箱 AI 整理 Prioritize My Inbox 功能下周起停用",
+   "url": "https://www.ithome.com/1/017/362.htm",
+   "summary": "IT之家 10 月 24 日消息，科技媒体 Windows Central 昨日（10 月 23 日）发布博文，报道称微软已宣布将于 2026 年 10 月 26 日开始， 退役 Outlook 中的“优先处理我的收件箱”（Prioritize My Inbox）功能。 IT之家援引博文介绍，该功能于 2025 年上线，主要通过调用 Copilot &nbsp;AI 帮助 Outlook 用户整理邮件，从而在大量邮件中，帮助用户更快找到真正需要优先处理的内容。该功能在上线初期，被微软称之为“电子邮件革命”。 时任微软数字部门首席产品经理的马修 · 马尔津斯基（Matthew Marzynski",
+   "published_at": 1792818460.0,
+   "published_bj": "2026-10-24 13:07"
+  },
+  {
+   "id": "6516200db30f85e5",
+   "source": "IT之家",
+   "title": "亿万富翁投资人马克 · 库班：抵御失控智能体就像防蟑螂，可以用 AI“喷药”",
+   "url": "https://www.ithome.com/1/017/347.htm",
+   "summary": "IT之家 10 月 24 日消息，对于 AI 时代的网络安全问题，亿万富翁、企业家兼投资人马克 · 库班提出了一套颇有意思的“灭虫”思路。 据《商业内幕》今天（24 日）报道，库班将大量 AI 智能体发动的网络攻击比作蟑螂入侵：即使房屋刚刚喷过杀虫剂，蟑螂仍能找到钻进去的办法。“我经常问网络安全专家，听到各种黑客攻击、技术突破和安全问题时，AI 究竟有没有发明什么新招数？答案是没有。 AI 并没有创造新的攻击手段，只是能够发动海量攻击，本质上还是暴力破解 。” 在库班看来，防范 AI 网络攻击与防止蟑螂入侵房屋有着相似之处。“ 道理和防蟑螂一样 。只要有人制造出足够多的 AI 智能体，总有办法",
+   "published_at": 1792817801.0,
+   "published_bj": "2026-10-24 12:56"
+  },
+  {
+   "id": "709624f3d9851f41",
+   "source": "IT之家",
+   "title": "英国地方议会怒斥微软“敲诈”：软件授权费飙升 15% 引发反垄断争议",
+   "url": "https://www.ithome.com/1/017/346.htm",
+   "summary": "IT之家 10 月 24 日消息，科技媒体 NeoWin 昨日（10 月 23 日）发布博文，报道称英国德比郡议会（Derby City Council）近日公开指责微软公司，称其定价策略形同“敲诈”（Blackmail）， 主要争议在最新的拟定合约谈判中，微软将其软件授权费用大幅上调了 15%。 IT之家援引博文介绍，根据双方拟定的合同条款，微软将年度服务费上调 15%，达到 37.5 万英镑 （IT之家注：现汇率约合 335 万元人民币） ，让该议会每年的软件账单升至约 300 万英镑 （现汇率约合 2,679.9 万元人民币） ，授权将延续至 2030 年 5 月，覆盖该议会视为“业务关",
+   "published_at": 1792817748.0,
+   "published_bj": "2026-10-24 12:55"
   },
   {
    "id": "ad9fc756e5ba6cb4",
@@ -110,6 +146,15 @@
    "summary": "IT之家 10 月 24 日消息，据上海市公安局交通警察总队披露，看似寻常的车辆碰擦，背后可能是精心策划的“碰瓷”骗局。针对手法隐蔽、取证难度大的交通事故“碰瓷”诈骗，上海警方依托大数据精准研判，多警种协同攻坚，在全市开展专项打击行动， 已成功抓获 6 名涉嫌“碰瓷”诈骗的犯罪嫌疑人 。 在此次行动中，交管总队专案组成功抓获了一名高频作案的“碰瓷大户”。据调查，朱某堪称“职业碰瓷人”，他日常驾车在黄浦、徐汇、浦东等各区域道路四处巡游，专门瞄准其他车辆变道时制造轻微碰擦， 单日最高连续作案 5 起 。 IT之家注意到， 朱某单次索赔金额仅数百元至一千元 ，靠频繁作案累积非法所得。由于事故形态常见",
    "published_at": 1792813579.0,
    "published_bj": "2026-10-24 11:46"
+  },
+  {
+   "id": "8bea5718c6253730",
+   "source": "Hacker News",
+   "title": "How close can pure functional programming get to C?",
+   "url": "https://rtfeldman.com/fp-vs-c",
+   "summary": "Article URL: https://rtfeldman.com/fp-vs-c Comments URL: https://news.ycombinator.com/item?id=50218195 Points: 10 # Comments: 1",
+   "published_at": 1792813434.0,
+   "published_bj": "2026-10-24 11:43"
   },
   {
    "id": "4f908b881fb4ca77",
