@@ -1,7 +1,7 @@
 {
  "date": "2026-10-24",
- "generated_at": 1792828249.534276,
- "count": 199,
+ "generated_at": 1792830175.4549,
+ "count": 207,
  "items": [
   {
    "id": "8ed52f40e7f3afbe",
@@ -20,6 +20,69 @@
    "summary": "点击查看原文>",
    "published_at": 1792836000.0,
    "published_bj": "2026-10-24 18:00"
+  },
+  {
+   "id": "d4feb80e3acd94fa",
+   "source": "IT之家",
+   "title": "平安口袋银行 App 宣布将全面适配苹果 iPhone Duo 手机：支持“待机显示”模式、深度适配内外屏",
+   "url": "https://www.ithome.com/1/017/418.htm",
+   "summary": "IT之家 10 月 24 日消息，平安银行发文，宣布旗下平安口袋银行 App 将全面适配苹果 iPhone Duo 手机。 参考官方预告，新版 App 深度适配内外屏，不存在其他 App 视觉割裂问题，在手机不同形态下能够灵活切换界面元素，还拥有独立小组件。 同时，App 还支持“待机显示（Stand By）”功能，可放在床头展示基金信息、还能够通过 AI 语音助理对话。 IT之家参考平安银行 2026 年第三季度业绩报告。财报显示，截至 9 月末，平安银行资产总额为 59523.54 亿元，较上年末增长 0.4%；其中，发放贷款和垫款本金总额为 34314.80 亿元，较上年末增长 1.2%",
+   "published_at": 1792829781.0,
+   "published_bj": "2026-10-24 16:16"
+  },
+  {
+   "id": "a5ee2b67ca3c5f50",
+   "source": "IT之家",
+   "title": "上市三年，五菱缤果家族累计销量突破 80 万辆",
+   "url": "https://www.ithome.com/1/017/417.htm",
+   "summary": "IT之家 10 月 24 日消息，上汽通用五菱今日宣布，缤果家族累计销量突破 80 万辆，持续引领 A0 级新能源代步车市场。 五菱缤果是 上汽通用五菱 于 2023 年 3 月推出的五门纯电车型， 定位 A0 级代步市场 。车身尺寸 3950×1708×1580mm，轴距 2560mm，采用复古流动美学设计，起售价 5.98 万元。据悉，缤果家族三年推出四车。 据IT之家此前报道， 缤果 Pro 于今年 5 月上市 ，共有四款配置，上市指导价为 5.68 万至 7.08 万元： 330km 尊享款：5.68 万元 330km 旗舰款：6.38 万元 403km 尊享款：6.48 万元 403",
+   "published_at": 1792829190.0,
+   "published_bj": "2026-10-24 16:06"
+  },
+  {
+   "id": "9a4dea9338276161",
+   "source": "IT之家",
+   "title": "网友反馈安克企业账号深夜发送黑灰产链接，官方回应“系账号遭攻击，正配合警方调查工作”",
+   "url": "https://www.ithome.com/1/017/416.htm",
+   "summary": "IT之家 10 月 24 日消息，今天有大量网友在社交平台反馈安克官方认证企业账号公开向用户发送了黑灰产导流违规信息。 ▲ 网传截图 对此，安克回应媒体“中国新闻周刊”称目前已经相关反馈，涉事的账号确实属于品牌旗下的官方客服账号， 账号本身受到了异常攻击影响 。 安克表示，目前官方已第一时间紧急冻结了全部涉事账号，启动全链路全面排查， 同时已经就相关异常情况向公安机关正式报案，后续会全程积极配合警方的所有调查工作 。",
+   "published_at": 1792829060.0,
+   "published_bj": "2026-10-24 16:04"
+  },
+  {
+   "id": "2f3b5b671673d652",
+   "source": "IT之家",
+   "title": "华为日本首家直营综合售后服务中心开业：落地东京千代田区神田须田町，紧邻秋叶原商圈",
+   "url": "https://www.ithome.com/1/017/414.htm",
+   "summary": "IT之家 10 月 24 日消息，据华为日本官网消息，华为日本首家直营综合售后服务中心已于昨日正式开业， 落地日本东京都千代田区神田须田町 1 丁目 3-1 须田町大楼 1 楼 ，紧邻秋叶原商圈。 据介绍，开业期间（10 月 23 日～10 月 31 日）， 前 100 名用户可享最高 5,500 日元 （IT之家注：现汇率约合 234.4 元人民币） 维修人工费减免 。此外，华为计划从 11 月开始，将每月第一周的周五至周日（3 天）定为“华为服务日”，提供免费清洗产品、原创激光刻印服务等。 IT之家附该店营业时间及服务详情如下： 营业时间：10:00–19:00 休息时间：每周四 服务详情",
+   "published_at": 1792829009.0,
+   "published_bj": "2026-10-24 16:03"
+  },
+  {
+   "id": "a35bf3ffe2d5780a",
+   "source": "IT之家",
+   "title": "腾讯 WorkBuddy 接入模型 Kimi-K3.1-Pro，支持 100 万上下文",
+   "url": "https://www.ithome.com/1/017/412.htm",
+   "summary": "IT之家 10 月 24 日消息，今日，腾讯 WorkBuddy 宣布已接入模型 Kimi-K3.1-Pro。据介绍，WorkBuddy 同步接入高速版模型 Kimi K3.1 Pro Highspeed，同等智能， 输出速度约 2-3 倍 。目前资源紧张，现阶段仅对“企业旗舰版”及“个人订阅用户”优先开放。 据介绍，Kimi K3.1 Pro 是全新 K3.1 系列的第一个模型，也是 Kimi 迄今能力最强的 3 万亿级参数模型，支持 100 万上下文。K3.1 Pro 在代码、3D 创作、金融研究和其他长程 Agent 能力上的提升尤为显著。 IT之家注意到，在 Kimi K3.1 Pro",
+   "published_at": 1792828752.0,
+   "published_bj": "2026-10-24 15:59"
+  },
+  {
+   "id": "c8cd311e70af1039",
+   "source": "IT之家",
+   "title": "英特尔 CTO 称其与台积电制程技术差距小于 10%，但产能追赶仍需时间",
+   "url": "https://www.ithome.com/1/017/411.htm",
+   "summary": "IT之家 10 月 24 日消息，当地时间 10 月 22 日，Dwarkesh Patel 放出了一段针对英特尔首席技术官普什卡尔 · 拉纳德（Pushkar Ranade）的采访视频。 拉纳德表示，从制程技术角度来看，英特尔与台积电之间的差距已经缩小至几个百分点，但追赶台积电的制造规模仍将是一个缓慢的过程。他强调，相比单纯追求性能或芯片面积密度上的小幅领先，按时推进制程、提高良率并快速扩大产能更为重要。 他指出，台积电目前的晶圆制造规模明显大于英特尔，双方的竞争不仅涉及技术指标，还取决于能否稳定生产大量先进芯片。他表示，如果只讨论技术水平，英特尔已经接近台积电，但性能、功耗和面积密度等指标",
+   "published_at": 1792828588.0,
+   "published_bj": "2026-10-24 15:56"
+  },
+  {
+   "id": "122b4708867a5a8d",
+   "source": "IT之家",
+   "title": "V 社正式为 Steam 推出“个人日历”功能：可智能推荐即将发售游戏、支持个性化定制",
+   "url": "https://www.ithome.com/1/017/410.htm",
+   "summary": "IT之家 10 月 24 日消息，V社宣布旗下 Steam 个人日历（Personal Calendar）功能现已结束 Steam 实验室的实验阶段，正式成为 Steam 商店的常规功能，目前玩家可通过 Steam 商店主页或个人日历页面访问使用（ https://store.steampowered.com/personalcalendar/ ）。 据IT之家了解，这款“个人日历”本质上是一种推荐引擎，会根据用户的兴趣筛选即将推出的游戏，并将这些新作按发售时间分布到日历的相应日期中，方便用户直观查看。官方强调，个人日历中的游戏推荐完全由算法生成，不存在付费购买推荐位的情况。 Valve 在介",
+   "published_at": 1792828548.0,
+   "published_bj": "2026-10-24 15:55"
   },
   {
    "id": "b4dc85353ac6d729",
@@ -992,6 +1055,15 @@
    "summary": "Article URL: https://philipotoole.com/twelve-years-of-distributed-sqlite/ Comments URL: https://news.ycombinator.com/item?id=50217500 Points: 4 # Comments: 0",
    "published_at": 1792804618.0,
    "published_bj": "2026-10-24 09:16"
+  },
+  {
+   "id": "e71af5ab97995b09",
+   "source": "Hacker News",
+   "title": "Around a dozen banking apps began specifically permitting GrapheneOS",
+   "url": "https://grapheneos.social/@GrapheneOS/117492375462459244",
+   "summary": "Article URL: https://grapheneos.social/@GrapheneOS/117492375462459244 Comments URL: https://news.ycombinator.com/item?id=50217495 Points: 12 # Comments: 0",
+   "published_at": 1792804514.0,
+   "published_bj": "2026-10-24 09:15"
   },
   {
    "id": "5e5e8f2d32dd24f5",
