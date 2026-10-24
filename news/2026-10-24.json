@@ -1,8 +1,80 @@
 {
  "date": "2026-10-24",
- "generated_at": 1792799174.9637344,
- "count": 73,
+ "generated_at": 1792801962.385984,
+ "count": 82,
  "items": [
+  {
+   "id": "b8d3723d56102929",
+   "source": "IT之家",
+   "title": "央视新闻谈 AI 魔改视频和二创区别：问题关键在“魔”，消解经典的同时也伤害文化根本",
+   "url": "https://www.ithome.com/1/017/298.htm",
+   "summary": "IT之家 10 月 24 日消息，据央视新闻今早报道，日前，部分重点网络视听平台公布了“AI 魔改”视频专项治理工作 9 月的处置情况， 共清理违规视频近 13000 条、处置违规账号 30 余个 。 央视新闻在报道中谈及了 AI 魔改视频和二创区别，称“AI 魔改”问题不在 AI 也不在二创，关键在“魔”： 优秀的“二创”作品基于对原著的了解与喜爱。经过观众和时间检验，融入大众文化，拥有忠实拥趸，既映射特定时代的精神面貌，也承载读者和观众的集体记忆。 “AI 魔改”视频则是“辣眼睛”“毁童年”，消解经典的同时，经典承载的精神也会被人渐渐轻视，伤害文化根本。在法律层面，“AI 魔改”视频还可能",
+   "published_at": 1792801471.0,
+   "published_bj": "2026-10-24 08:24"
+  },
+  {
+   "id": "fd77c8f8aa1314ff",
+   "source": "IT之家",
+   "title": "苹果回应 iPhone Duo 外屏“ Safari 控件抢地盘”问题：正研究修复方案",
+   "url": "https://www.ithome.com/1/017/297.htm",
+   "summary": "IT之家 10 月 24 日消息，科技媒体 9to5Mac 今天（10 月 24 日）发布博文，报道称在最新 WebKit 博文中，苹果公司已着手针对其首款折叠 iPhone Duo 机型， 解决外屏 Safari 控件太占地方，导致网页内容“太挤”的问题。 在 iPhone Duo 发售之后，部分用户发现在外屏上，Safari 浏览器的网页可用空间明显偏小。原因在于 Safari 将刷新、地址栏等控件右对齐放置，占用了外屏的较大区域，导致网页正文和图片被压缩，浏览体验不如展开后的内屏。多家媒体在评测中也指出，现有网页尚未针对这种特殊屏幕形态充分优化。IT之家附上相关图片如下： 在介绍 Saf",
+   "published_at": 1792801182.0,
+   "published_bj": "2026-10-24 08:19"
+  },
+  {
+   "id": "67253469f94d0a46",
+   "source": "IT之家",
+   "title": "阿尔法 · 罗密欧首席设计师罗马诺斯：车载大屏几年后就会过时",
+   "url": "https://www.ithome.com/1/017/296.htm",
+   "summary": "IT之家 10 月 24 日消息，当地时间 23 日，据英媒 Autocar 报道，阿尔法 · 罗密欧希望通过 Cuorerosso 概念车，摆脱汽车行业不断比拼屏幕大小的风气。该车首席设计师认为，车企没有必要为了更大的屏幕而牺牲内饰设计。 Cuorerosso 于上周的巴黎车展首次亮相，采用溜背式车身设计，展示了家族下一代车型的设计思路。其中一项重要变化，就是简化座舱布局，减少屏幕在内饰中的占比。 在接受采访时，阿尔法 · 罗密欧首席设计师亚历杭德罗 · 梅索内罗-罗马诺斯直言不讳。“ 不如把屏幕都去掉 。我们追求的是留白，坐在车里看看屏幕还不错， 但开车时有没有必要看那么多屏幕，我是怀疑的",
+   "published_at": 1792801023.0,
+   "published_bj": "2026-10-24 08:17"
+  },
+  {
+   "id": "e5e85c39aebdd0d1",
+   "source": "IT之家",
+   "title": "华为官宣 Mate 90 系列手机上线全新睿影 XMAGE 影像服务，图库升级支持 AI 一键成片等功能",
+   "url": "https://www.ithome.com/1/017/295.htm",
+   "summary": "IT之家 10 月 24 日消息，华为官方昨日宣布， Mate 90 系列手机上线全新睿影 XMAGE 影像服务 ，宣称“人像柔光更出彩”。另外，新机图库升级，小艺 · 图库助手 新增支持智慧修图、AI 一键成片及 3D 动态照片等功能 。 据IT之家此前报道，在 10 月 1 日的华为 Mate 90 系列及全场景新品发布会上，华为年度旗舰 —— Mate 90 系列手机正式发布，全系搭载了韬定律芯片。 旗舰 τ 芯片：麒麟 9030（Mate 90）、麒麟 9035（Mate 90 Pro）； 逻辑折叠 τ 芯片：麒麟 9050（Mate 90 Pro Max）、麒麟 9050 Pro（M",
+   "published_at": 1792800866.0,
+   "published_bj": "2026-10-24 08:14"
+  },
+  {
+   "id": "1faee23402b68ad2",
+   "source": "IT之家",
+   "title": "扎克伯格的 AI 新版图：买下 Sundial 让数据分析变成“聊天”那么简单",
+   "url": "https://www.ithome.com/1/017/294.htm",
+   "summary": "IT之家 10 月 24 日消息，科技媒体 axios 昨日（10 月 23 日）发布博文，报道称马克 · 扎克伯格的 Meta Platforms 公司已收购 AI 数据分析平台 Sundial，而该平台由两名前 Meta 员工创立。 值得注意的是，Sundial 的两位联合创始人均是 Meta（前 Facebook）的资深旧部：首席执行官 Julie Zhuo 曾任 Meta 产品设计副总裁，Chandra Narayanan 则曾担任 Instagram 及红杉资本的数据分析主管。 Sundial 的核心能力，是让企业通过聊天机器人插件，用自然语言向复杂数据提问，并快速获得可执行的分析结",
+   "published_at": 1792800501.0,
+   "published_bj": "2026-10-24 08:08"
+  },
+  {
+   "id": "6ec633dc479917f9",
+   "source": "IT之家",
+   "title": "曝微软曾向 Netflix 开价 8 亿美元，寻求 XBOX 游戏 7 年独家影视改编权",
+   "url": "https://www.ithome.com/1/017/293.htm",
+   "summary": "IT之家 10 月 24 日消息，当地时间 23 日，外媒 Puck 援引三名知情人士消息称，微软曾向 Netflix 开价 8 亿美元 （IT之家注：现汇率约合 53.51 亿元人民币） ，希望达成为期 7 年的独家授权协议，允许 Netflix 将 XBOX 旗下游戏角色改编成电影和剧集，并在其流媒体平台上独家播出。 Netflix 最初为获得 XBOX 游戏的影视独家改编授权提出 5 亿美元 （现汇率约合 33.44 亿元人民币） 的报价，授权期限为 7 年。但微软要求将价格 提高至 8 亿美元 ，双方最终未能谈成。 XBOX 对此回应：“外界对我们旗下游戏知识产权的合作兴趣达到创纪录水",
+   "published_at": 1792799937.0,
+   "published_bj": "2026-10-24 07:58"
+  },
+  {
+   "id": "a8373d9050b34907",
+   "source": "IT之家",
+   "title": "苹果推送 iOS 27.1 更新，其首款折叠 iPhone Duo 独享",
+   "url": "https://www.ithome.com/1/017/292.htm",
+   "summary": "IT之家 10 月 24 日消息，科技媒体 MacRumors 昨日（10 月 23 日）发布博文，报道称苹果公司针对其首款折叠 iPhone Duo， 推送仅限于该机型的 iOS 27.1 更新，在官方日志中仅显示“修复 iPhone 上的错误”。 原文并未提及本次推送的内部版本号，只是提及苹果公司已于本周四以 IPSW 文件的形式提供下载，在下载链接中显示版本号为 24A94425。 不过IT之家查询社交媒体平台，开发者 @aaronp613 反馈该版本于 10 月 14 日推送，而苹果公司于 10 月 20 日还推送了 24B91016 版本。 更新内容方面，这次更新的内容相当低调，苹果",
+   "published_at": 1792799647.0,
+   "published_bj": "2026-10-24 07:54"
+  },
+  {
+   "id": "5715d9603c9e624d",
+   "source": "IT之家",
+   "title": "IT早报 1024：月之暗面发布 Kimi K3.1 Pro；诋毁嘲讽尊界 S800 自媒体博主向尊界道歉；华为 Pura90 Plus 开启预订；iPhone Duo 内屏膜撕下秒变亮面屏...",
+   "url": "https://www.ithome.com/1/017/291.htm",
+   "summary": "“IT早报”时间，大家好，现在是 2026 年 10 月 24 日星期六，今天的重要科技资讯有： 1. 月之暗面迄今能力最强 3 万亿级参数模型，Kimi K3.1 Pro 正式发布 24 日凌晨，月之暗面 Kimi 宣布正式推出 Kimi K3.1 系列的第一个模型 ——K3.1 Pro，也是公司迄今能力最强的 3 万亿级参数模型，支持 100 万上下文。&gt;&gt; 查看详情 2. 诋毁嘲讽尊界 S800，博主“赛车星冰乐”向尊界汽车道歉 法院一审认定其发布的多条视频损害尊界汽车商业信誉与商品声誉，构成名誉权侵权。该博主已发布道歉信，表示将按判决金额赔偿，并因微博抖音视频号被禁言一年，",
+   "published_at": 1792799374.0,
+   "published_bj": "2026-10-24 07:49"
+  },
   {
    "id": "789c1fa7f24499d0",
    "source": "IT之家",
@@ -29,6 +101,15 @@
    "summary": "IT之家 10 月 24 日消息，支付宝官方昨晚发文宣布， 已适配 iPhone Duo 。 据介绍，在 iPhone Duo 上升级支付宝 App 至最新 12.12.38 版本支持如下功能： 1、 底部栏： 液态玻璃效果，界面通透，展示新体验。 2、 适配全场景： 内屏外屏、横屏竖屏等各种使用方式，页面布局自动调整。 支付宝官方表示：“支付宝适配 iPhone Duo 的每一种生活姿态：展开，生活尽收眼底；折起，钱包随身而行。” 关于更多 iPhone Duo 的最新消息，小伙伴们可以参考IT之家的首发上手体验视频了解更多。 点击关注IT之家B站账号 延伸阅读 iPhone Duo 是苹果",
    "published_at": 1792798399.0,
    "published_bj": "2026-10-24 07:33"
+  },
+  {
+   "id": "006a96bcfacc226d",
+   "source": "Hacker News",
+   "title": "Evolving Threat: http2shell is an RCE in node, Python, and more",
+   "url": "https://nitter.click/AikidoSecurity/status/2113759110625906950?__galadriel=lPmlGl9id4oAd5UeBwMhlYKArHyr6lR2IDGujPwB5HV2kQ1aLoPWFd5A9sGuzNcmrp8fUso8qygmHcKTDZ8MNHWqQ3bDJcycV87xp_0VypzQLYj6O_RRHlZuQqj33oASGY2YLSoAiMjeOZN40h7Stf8AG7DPrGZbAPVKUXy36HoMudRbvwF3_r2uYNmfJMhpKzywQDM6Ab8",
+   "summary": "Article URL: https://nitter.click/AikidoSecurity/status/2113759110625906950?__galadriel=lPmlGl9id4oAd5UeBwMhlYKArHyr6lR2IDGujPwB5HV2kQ1aLoPWFd5A9sGuzNcmrp8fUso8qygmHcKTDZ8MNHWqQ3bDJcycV87xp_0VypzQLYj6O_RRHlZuQqj33oASGY2YLSoAiMjeOZN40h7Stf8AG7DPrGZbAPVKUXy36HoMudRbvwF3_r2uYNmfJMhpKzywQDM6Ab8 Comments",
+   "published_at": 1792798217.0,
+   "published_bj": "2026-10-24 07:30"
   },
   {
    "id": "8a89dc7b94569661",
