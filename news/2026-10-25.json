@@ -1,8 +1,53 @@
 {
  "date": "2026-10-25",
- "generated_at": 1792871029.0942602,
- "count": 13,
+ "generated_at": 1792873025.7445226,
+ "count": 18,
  "items": [
+  {
+   "id": "3acbac12e4fee6f4",
+   "source": "TechCrunch",
+   "title": "Will AI expose the rickety infrastructure of the internet?",
+   "url": "https://techcrunch.com/2026/10/24/will-ai-expose-the-rickety-infrastructure-of-the-internet/",
+   "summary": "The moment you realize the internet is \"held together by glue and dreams.\"",
+   "published_at": 1792872933.0,
+   "published_bj": "2026-10-25 04:15"
+  },
+  {
+   "id": "58ab2c3910ab14b9",
+   "source": "Hacker News",
+   "title": "No Signs of AI Payoff Outside the Tech Sector",
+   "url": "https://www.apollo.com/wealth/insights-news/insights/daily-spark/no-signs-of-ai-payoff-outside-the-tech-sector",
+   "summary": "Article URL: https://www.apollo.com/wealth/insights-news/insights/daily-spark/no-signs-of-ai-payoff-outside-the-tech-sector Comments URL: https://news.ycombinator.com/item?id=50224463 Points: 49 # Comments: 24",
+   "published_at": 1792871239.0,
+   "published_bj": "2026-10-25 03:47"
+  },
+  {
+   "id": "c39537e991978b6f",
+   "source": "Hacker News",
+   "title": "Listen and read USA nuclear forces Emergency Action Messages, heard on 11175 kHz",
+   "url": "https://missileer.watch",
+   "summary": "Article URL: https://missileer.watch Comments URL: https://news.ycombinator.com/item?id=50224422 Points: 11 # Comments: 2",
+   "published_at": 1792871007.0,
+   "published_bj": "2026-10-25 03:43"
+  },
+  {
+   "id": "6c61b09458a06633",
+   "source": "Hacker News",
+   "title": "The Goose Programming Language",
+   "url": "https://aardappel.github.io/goose/",
+   "summary": "Article URL: https://aardappel.github.io/goose/ Comments URL: https://news.ycombinator.com/item?id=50224300 Points: 32 # Comments: 7",
+   "published_at": 1792870061.0,
+   "published_bj": "2026-10-25 03:27"
+  },
+  {
+   "id": "36a786965a9efd05",
+   "source": "Hacker News",
+   "title": "John Carmack on the Goose Language: multiple data stacks and relative references",
+   "url": "https://twitter.com/ID_AA_Carmack/status/2113704269274636568",
+   "summary": "Article URL: https://twitter.com/ID_AA_Carmack/status/2113704269274636568 Comments URL: https://news.ycombinator.com/item?id=50224100 Points: 50 # Comments: 11",
+   "published_at": 1792868815.0,
+   "published_bj": "2026-10-25 03:06"
+  },
   {
    "id": "0b86a02a4a4ce131",
    "source": "Hacker News",
