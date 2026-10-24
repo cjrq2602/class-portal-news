@@ -1,7 +1,7 @@
 {
  "date": "2026-10-24",
- "generated_at": 1792839811.2559512,
- "count": 240,
+ "generated_at": 1792842580.791956,
+ "count": 245,
  "items": [
   {
    "id": "8ed52f40e7f3afbe",
@@ -11,6 +11,51 @@
    "summary": "点击查看原文>",
    "published_at": 1792846800.0,
    "published_bj": "2026-10-24 21:00"
+  },
+  {
+   "id": "52b77ac11afcde52",
+   "source": "IT之家",
+   "title": "Anthropic Claude 付款页面新增中国及港澳台地区选项，支持银联卡支付",
+   "url": "https://www.ithome.com/1/017/490.htm",
+   "summary": "IT之家 10 月 24 日消息，近日有用户反馈称 Anthropic 旗下 Claude 的升级支付页面出现了新的地区选项变化。 IT之家实测发现，中国大陆及港澳台地区已出现在付款页面中，支付入口也已支持绑定中国银联卡。 与此同时，社交平台和开发者社区有用户称，此前被永久封禁的 Claude 账号可以提交申诉，且已有个别用户反馈申诉成功。关于这一点，IT之家暂无法核实。 值得一提的是，Claude 支付页面出现中国地区选项，并不等于 Anthropic 已全面开放相关地区的服务。截至目前，Anthropic 官方帮助中心仍要求用户位于其支持的地区才能使用 Claude。 本月初，Anthro",
+   "published_at": 1792841989.0,
+   "published_bj": "2026-10-24 19:39"
+  },
+  {
+   "id": "4ad722b9ec8ad58a",
+   "source": "IT之家",
+   "title": "PITAKA 为苹果 iPhone Duo 推出“壳膜一体”外屏保护壳，374 元起",
+   "url": "https://www.ithome.com/1/017/489.htm",
+   "summary": "IT之家 10 月 24 日消息，随着苹果首款折叠屏手机 iPhone Duo 上市，许多产品制造商陆续为该机推出各种外设。例如 PITAKA 便为相应机型推出了一款“壳膜一体”外屏保护壳， 单外屏保护壳首发价为 374 元，套装定价为 749 元 。 京东 PITAKA iPhone Duo 外屏保护壳 券后 374 元起 领 25 元券 IT之家获悉，相应“壳膜一体”外屏保护壳结合了 9H+ 钢化玻璃膜和芳纶纤维外框，前盖整体厚度约 1mm，其中钢化膜约 0.6mm，整体重量约 17 克，提供日落、加州旧梦 1 号、阑夜、黑灰配色可选。 不过也有消息指出，这种“壳膜一体”外屏保护壳存在清灰",
+   "published_at": 1792841716.0,
+   "published_bj": "2026-10-24 19:35"
+  },
+  {
+   "id": "f5ee2e224be8f0b2",
+   "source": "IT之家",
+   "title": "戴尔推出“U3226QER”31.5 英寸显示器：4K 120Hz IPS Black 面板、双雷电 4 接口，5199 元",
+   "url": "https://www.ithome.com/1/017/488.htm",
+   "summary": "IT之家 10 月 24 日消息，戴尔现已在京东上架“U3226QER”31.5 英寸显示器，该机主打 4K 120Hz，定价为 5199 元。 京东 戴尔 U3226QER 显示器 券后 5199 元 领 500 元券 该机配备一块 3840x2160 分辨率 120Hz IPS Black 面板，对比度 3000:1，典型亮度 450 尼特，峰值亮度 600 尼特，显示器在快速模式下响应速度约 5ms，显示器支持 10-Bit 色彩。 该机采用银色支架、银色背板，支架支持升降 / 倾斜 / 旋转，显示器本体支持 VESA 壁挂，提供 1 个 HDMI 2.1、2 个 DP1.4、4 个 U",
+   "published_at": 1792841128.0,
+   "published_bj": "2026-10-24 19:25"
+  },
+  {
+   "id": "05b9415c9e5007ab",
+   "source": "Hacker News",
+   "title": "AI-Assisted Paper on Z-Library Cites a TorrentFreak Article That Doesn't Exist",
+   "url": "https://torrentfreak.com/ai-assisted-paper-on-z-library-cites-a-torrentfreak-article-that-doesnt-exist/",
+   "summary": "Article URL: https://torrentfreak.com/ai-assisted-paper-on-z-library-cites-a-torrentfreak-article-that-doesnt-exist/ Comments URL: https://news.ycombinator.com/item?id=50220204 Points: 13 # Comments: 0",
+   "published_at": 1792840734.0,
+   "published_bj": "2026-10-24 19:18"
+  },
+  {
+   "id": "d81c5803c03b60be",
+   "source": "Hacker News",
+   "title": "Node.js Vulnerability Blog",
+   "url": "https://nodejs.org/en/blog/vulnerability",
+   "summary": "Article URL: https://nodejs.org/en/blog/vulnerability Comments URL: https://news.ycombinator.com/item?id=50220145 Points: 6 # Comments: 1",
+   "published_at": 1792840127.0,
+   "published_bj": "2026-10-24 19:08"
   },
   {
    "id": "b9cc0684710eddea",
