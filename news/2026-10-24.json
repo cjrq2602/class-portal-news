@@ -1,8 +1,62 @@
 {
  "date": "2026-10-24",
- "generated_at": 1792849656.9617715,
- "count": 265,
+ "generated_at": 1792851641.9168222,
+ "count": 271,
  "items": [
+  {
+   "id": "6cf324db89973fc7",
+   "source": "cnBeta",
+   "title": "英伟达RTX80系列、AMD RDNA7曝光 泄露路线图却漏洞百出",
+   "url": "https://www.cnbeta.com.tw/articles/tech/1583688.htm",
+   "summary": "近日一份关于英伟达GPU的路线图在网上流出，其中将英伟达Feynman架构与RTX 80系列关联，并列出了AMD RDNA 7。不过，图中存在多处明显矛盾，目前不足以作为相关产品及发布时间的可靠依据。 阅读全文",
+   "published_at": 1792851567.0,
+   "published_bj": "2026-10-24 22:19"
+  },
+  {
+   "id": "ab01b876e30471b1",
+   "source": "IT之家",
+   "title": "惠普星 Book Air 14 上架预约：酷睿 5 320、薯条标，国补价 4504.15 元",
+   "url": "https://www.ithome.com/1/017/510.htm",
+   "summary": "IT之家 10 月 24 日消息，惠普京东自营店新上架了一款星 Book Air 14 轻薄本电脑，提供星空蓝、烟灰银、牡丹粉、哈密瓜绿四种配色，京东首发价 5299 元，叠加国补后约为 4504.15 元。 京东 惠普 HP 星 Book Air 14 轻薄笔记本电脑 酷睿 5 16G 512G OLED 触屏 烟灰银 券后 5298 元 领 500 元券 这款机型貌似对应海外的 OmniBook 5 14，搭载英特尔酷睿 5 320 处理器，配备 16GB 内存 + 512GB 固态硬盘，海外版起售价 699.99 美元 （IT之家注：现汇率约合 4,679 元人民币） 。 该机采用铝合金",
+   "published_at": 1792851540.0,
+   "published_bj": "2026-10-24 22:19"
+  },
+  {
+   "id": "075724e248bf51dd",
+   "source": "TechCrunch",
+   "title": "The Boox Palma 2 Pro finally got me to stop reading on my phone",
+   "url": "https://techcrunch.com/2026/10/24/the-boox-palma-2-pro-finally-got-me-to-stop-reading-on-my-phone/",
+   "summary": "The $400 Boox Palma 2 Pro is a smartphone-sized e-reader designed for people who want to read books, articles, and documents on a small E Ink display.",
+   "published_at": 1792851300.0,
+   "published_bj": "2026-10-24 22:15"
+  },
+  {
+   "id": "27bd65adf40adabc",
+   "source": "TechCrunch",
+   "title": "Here are the top AI agents that can live in your text messages",
+   "url": "https://techcrunch.com/2026/10/24/all-the-ai-agents-that-can-live-in-your-text-messages/",
+   "summary": "We created a list of the most notable AI agents that can live in your text messages, from general assistants to agents designed for families, travel, and work.",
+   "published_at": 1792850400.0,
+   "published_bj": "2026-10-24 22:00"
+  },
+  {
+   "id": "38baa4304d9fdb40",
+   "source": "IT之家",
+   "title": "铭凡 N5 Air NAS 主机 7640HS 款上市：5+3 盘位，0 + 64GB 售 2999 元",
+   "url": "https://www.ithome.com/1/017/509.htm",
+   "summary": "IT之家 10 月 24 日消息，MINSFORUM（铭凡）现已在中国大陆电商平台销售搭载 AMD 锐龙 5 7640HS 处理器的 N5 Air。这款 NAS 主机除处理器降级外与基于锐龙 7 255 的原版几乎一致。 N5 Air 7640HS 拥有 2 个 DDR5-5600 SO-DIMM 内存插槽； 拥有 5 个 3.5\" / 2.5\" 兼容 SATA III (6Gbps) 盘位 、 3 个 M.2 (PCIe Gen4) SSD 盘位 （分别支持 ×1、×2、×4），支持 RAID &nbsp;0 / 1 / 5 / 6。 其机身采用高性能 PC 塑料，三维 199×202×25",
+   "published_at": 1792850081.0,
+   "published_bj": "2026-10-24 21:54"
+  },
+  {
+   "id": "684ad07b70cb38ae",
+   "source": "cnBeta",
+   "title": "安克、耐克、盒马等企微账号发涉黄链接 企业微信：第三方外挂软件服务被攻破，将持续排查和清理外挂软件",
+   "url": "https://www.cnbeta.com.tw/articles/tech/1583686.htm",
+   "summary": "今日，有网友在社交平台反映，安克、耐克、盒马等品牌相关企业微信账号发送疑似色情引流信息，引发广泛关注。企业微信安全团队今日发布《企业微信关于坚决、持续打击外挂软件的公告》，称持续排查和清理外挂软件，严肃处理使用外挂的违规行为。 阅读全文",
+   "published_at": 1792850072.0,
+   "published_bj": "2026-10-24 21:54"
+  },
   {
    "id": "6fcc30abfe5272b6",
    "source": "IT之家",
