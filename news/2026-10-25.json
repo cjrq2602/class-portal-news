@@ -1,7 +1,7 @@
 {
  "date": "2026-10-25",
- "generated_at": 1792874813.6274219,
- "count": 19,
+ "generated_at": 1792876785.304614,
+ "count": 21,
  "items": [
   {
    "id": "e60efb41550ac9b6",
@@ -11,6 +11,15 @@
    "summary": "Elon Musk reportedly ordered SpaceX to throttle Ukraine's Starlink access.",
    "published_at": 1792874794.0,
    "published_bj": "2026-10-25 04:46"
+  },
+  {
+   "id": "18a39e63728e7e8b",
+   "source": "Hacker News",
+   "title": "Steal My Bitcoin",
+   "url": "https://stealmybitcoin.com/",
+   "summary": "Article URL: https://stealmybitcoin.com/ Comments URL: https://news.ycombinator.com/item?id=50224916 Points: 68 # Comments: 11",
+   "published_at": 1792873831.0,
+   "published_bj": "2026-10-25 04:30"
   },
   {
    "id": "3acbac12e4fee6f4",
@@ -47,6 +56,15 @@
    "summary": "Article URL: https://aardappel.github.io/goose/ Comments URL: https://news.ycombinator.com/item?id=50224300 Points: 32 # Comments: 7",
    "published_at": 1792870061.0,
    "published_bj": "2026-10-25 03:27"
+  },
+  {
+   "id": "f19faac404f68257",
+   "source": "Hacker News",
+   "title": "SpeedCrunch 1.1",
+   "url": "https://www.speedcrunch.org/",
+   "summary": "Article URL: https://www.speedcrunch.org/ Comments URL: https://news.ycombinator.com/item?id=50224210 Points: 6 # Comments: 1",
+   "published_at": 1792869583.0,
+   "published_bj": "2026-10-25 03:19"
   },
   {
    "id": "36a786965a9efd05",
