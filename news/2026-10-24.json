@@ -1,8 +1,116 @@
 {
  "date": "2026-10-24",
- "generated_at": 1792851641.9168222,
- "count": 271,
+ "generated_at": 1792854236.435939,
+ "count": 288,
  "items": [
+  {
+   "id": "19c74990aa1384ef",
+   "source": "TechCrunch",
+   "title": "These clever apps show off the iPhone Duo’s potential",
+   "url": "https://techcrunch.com/2026/10/24/these-clever-apps-show-off-the-iphone-duos-potential/",
+   "summary": "From retro cassette players and virtual notebooks to flight trackers and even a digital toaster, developers are finding creative ways to take advantage of Apple's first foldable iPhone.",
+   "published_at": 1792854000.0,
+   "published_bj": "2026-10-24 23:00"
+  },
+  {
+   "id": "c4e6d3ea1148f805",
+   "source": "TechCrunch",
+   "title": "Forced to pick, Grok’s AI model chooses Republicans. OpenAI’s picks Democrats.",
+   "url": "https://techcrunch.com/2026/10/24/forced-to-pick-groks-ai-model-chooses-republicans-openais-picks-democrats/",
+   "summary": "A new study found Grok's AI overwhelmingly recommends Republican candidates while OpenAI's GPT favors Democrats, with the two AI models disagreeing in more than 90% of nearly 500 election races.",
+   "published_at": 1792854000.0,
+   "published_bj": "2026-10-24 23:00"
+  },
+  {
+   "id": "558c5f740d834fb7",
+   "source": "IT之家",
+   "title": "小米 REDMI Book 2027 预热：外观焕新，16 英寸机型标配数字小键盘",
+   "url": "https://www.ithome.com/1/017/519.htm",
+   "summary": "IT之家 10 月 24 日消息，小米 REDMI Book 2027 系列笔记本已经官宣将于 10 月 27 日发布。这款笔记本搭载第三代英特尔酷睿平台，内置 72Wh 电池，提供多彩配色，质感全面升级，主打移动办公。 小米产品行销总监、数码博主马志宇表示，REDMI Book 16 2027 在外观焕新的同时，还将加入用户长期反复提及的诉求 —— 数字小键盘。 当然，对于 16 英寸笔记本而言，数字小键盘并非技术难题，也不能严格称为优点或缺点，更多是产品定义上的取舍。 结合此前爆料，REDMI Book 16 2027 将搭载酷睿 5 320 处理器，并配备可自主更换的 DDR5 内存，不",
+   "published_at": 1792853624.0,
+   "published_bj": "2026-10-24 22:53"
+  },
+  {
+   "id": "041df30636417a30",
+   "source": "IT之家",
+   "title": "中国信通院：6 月国内词元日均消耗量约 500 万亿，是 2025 年 12 月的近 4 倍",
+   "url": "https://www.ithome.com/1/017/518.htm",
+   "summary": "IT之家 10 月 24 日消息，据中国信通院，随着大模型技术的迅速迭代，词元（Token）服务成为从技术走向应用的关键点，我国日均词元调用量持续攀升，2026 年 6 月， 国内词元日均消耗量约 500 万亿 ，是 2025 年 12 月的近 4 倍。产业中越来越多的 MaaS（Model as a Service，模型即服务）平台厂商通过公有云 API 方式供给大模型词元服务。然而用户对词元服务性能缺乏直观的判断依据，且面临选型困难等各类问题。 为有效衡量服务性能，中国信息通信研究院（简称“中国信通院”）人工智能研究所、人工智能大模型及软硬件评测工业和信息化部重点实验室和中国人工智能产业发",
+   "published_at": 1792852909.0,
+   "published_bj": "2026-10-24 22:41"
+  },
+  {
+   "id": "afdcd5f6413596fb",
+   "source": "IT之家",
+   "title": "研究人员通过 DNS 数据库发现数千个公开的 Muse 聊天记录分享链接，Meta 已修复",
+   "url": "https://www.ithome.com/1/017/517.htm",
+   "summary": "IT之家 10 月 24 日消息，Meta 旗下个人 AI 助手 Muse 的对话分享功能被曝存在隐私风险。 网络安全研究团队 Claroc 于 10 月 18 日发布报告称，研究人员通过被动 DNS（Passive DNS）查询发现，超过 6800 个 Muse 分享页面的域名可以被检索到，部分页面包含个人财务资料、企业内部文件及机密会议准备信息。Meta 随后暂停了该功能，并表示正在调查问题及评估改进方案。 Claroc 研究团队发现，Muse 会根据用户分享的对话标题生成网页地址，并将其部署在 cf.metaaiusercontent.com 域名下。由于对话标题被写入子域名，当用户或接",
+   "published_at": 1792852758.0,
+   "published_bj": "2026-10-24 22:39"
+  },
+  {
+   "id": "d7b8ece160ce7e7f",
+   "source": "cnBeta",
+   "title": "研究发现奶牛能够识别人类个体 不只是“认人”那么简单",
+   "url": "https://www.cnbeta.com.tw/articles/science/1583698.htm",
+   "summary": "长期以来，人们普遍认为狗、马等动物具备较强的人类识别能力，而奶牛则很少被纳入相关讨论。然而，一项最新研究显示，奶牛实际上拥有比人们想象中更出色的认知能力，它们不仅能够区分不同的人类，还能根据与特定人的互动经历形成不同的行为反应。 阅读全文",
+   "published_at": 1792852479.0,
+   "published_bj": "2026-10-24 22:34"
+  },
+  {
+   "id": "9f911a2d54443bc4",
+   "source": "cnBeta",
+   "title": "AI热潮遭遇电力瓶颈：亚马逊大量英伟达GPU到货后暂时闲置",
+   "url": "https://www.cnbeta.com.tw/articles/tech/1583696.htm",
+   "summary": "随着全球科技行业持续加码人工智能基础设施建设，一个新的瓶颈正逐渐浮出水面。问题不再是买不到先进芯片，而是即使获得了大量高性能GPU，数据中心也未必有足够的电力将其投入运行。 阅读全文",
+   "published_at": 1792852432.0,
+   "published_bj": "2026-10-24 22:33"
+  },
+  {
+   "id": "d2c5d304de7e4aac",
+   "source": "cnBeta",
+   "title": "新型“人工树叶”实现海水制氢与净化污染物同步进行",
+   "url": "https://www.cnbeta.com.tw/articles/science/1583694.htm",
+   "summary": "研究人员近日开发出一种受天然叶片启发的新型“人工树叶”装置，能够利用阳光直接从受污染海水中生产清洁氢气，同时分解工业废水中的有毒污染物联氨（Hydrazine），实现能源生产与水体净化两项功能同步完成。这项成果已发表在《Nature Communications》期刊上，被认为为未来的绿色氢能生产提供了一种更高效、更可持续的新思路。 阅读全文",
+   "published_at": 1792852312.0,
+   "published_bj": "2026-10-24 22:31"
+  },
+  {
+   "id": "df498cf9d3df23d7",
+   "source": "IT之家",
+   "title": "拼多多紧急捐赠 1000 万元，驰援西藏那曲抗震救灾",
+   "url": "https://www.ithome.com/1/017/512.htm",
+   "summary": "IT之家 10 月 24 日消息，据中华慈善总会官微，10 月 22 日，西藏那曲市巴青县发生 7.0 级地震，造成重大人员伤亡及房屋受损。国务院抗震救灾指挥部办公室、应急管理部将国家地震灾害应急响应由四级提升至三级，各项救援工作正全力推进。 公告称，为全力支援一线救灾工作，拼多多紧急通过中华慈善总会向灾区 捐赠现金 1000 万元 ，用于采购救灾物资和设备、安置受灾群众及支持灾后重建。拼多多已成立救援响应专项小组，将持续关注灾情动态，全力配合和支援后续救灾工作。 IT之家注意到，小米、美团、字节跳动、阿里巴巴、中国移动、中国联通、中国电信、苹果等均宣布支持西藏那曲抗震救灾。 相关阅读： 《 ",
+   "published_at": 1792852130.0,
+   "published_bj": "2026-10-24 22:28"
+  },
+  {
+   "id": "956d53e826bcb54a",
+   "source": "IT之家",
+   "title": "Keychron C3 Pro Trackball 8K 键盘公布：分裂空格 + 中置轨迹球",
+   "url": "https://www.ithome.com/1/017/511.htm",
+   "summary": "IT之家 10 月 24 日消息，日本企业 Mediagene 当地时间昨日宣布，旗下电商平台 GIZMART 即将于 28 日启动 Keychron C3 Pro Trackball 8K 键盘的预售。 C3 Pro Trackball 8K 整体上属于 80% 配列，但其 空格键被拆分为左右两部分和中间的 14mm 轨迹球 。这意味着该设备集成了光标输入功能， 用户无需在键盘和鼠标间切换 。此外，这款键盘支持鼠标输入层，可将按键动作转换为光标的点击或滚动。 IT之家了解到，Keychron C3 Pro Trackball 8K 采用塑料机身，支持 USB-C 有线单模连接，配备 ZMK ",
+   "published_at": 1792852034.0,
+   "published_bj": "2026-10-24 22:27"
+  },
+  {
+   "id": "083e978de07aa4ff",
+   "source": "cnBeta",
+   "title": "消息称《GTA6》评测禁令将在发售前一天解除",
+   "url": "https://www.cnbeta.com.tw/articles/game/1583692.htm",
+   "summary": "《GTA6》的媒体评测或于11月18日解禁，比游戏11月19日发售提前一天。不过，部分网站和油管频道可能要等到发售当天才能公开评测。相关消息尚未得到Rockstar正式确认。 阅读全文",
+   "published_at": 1792851825.0,
+   "published_bj": "2026-10-24 22:23"
+  },
+  {
+   "id": "fe822e1bc4df2ff4",
+   "source": "cnBeta",
+   "title": "开源工具gpu-unlock解除RTX 30系限制 部分计算性能提升近80%",
+   "url": "https://www.cnbeta.com.tw/articles/game/1583690.htm",
+   "summary": "GitHub用户Zagitta开发了开源工具gpu-unlock，可解除Ampere架构GeForce显卡在部分Tensor Core运算中的指令发射率限制。社区测试显示，RTX 3090的部分计算吞吐量提升接近80%，但实际增幅会随任务而变化。 阅读全文",
+   "published_at": 1792851816.0,
+   "published_bj": "2026-10-24 22:23"
+  },
   {
    "id": "6cf324db89973fc7",
    "source": "cnBeta",
@@ -58,6 +166,24 @@
    "published_bj": "2026-10-24 21:54"
   },
   {
+   "id": "6935699ba91c19a8",
+   "source": "Solidot",
+   "title": "为让数据中心有充足电力 Google 将付钱给其他人少用电",
+   "url": "https://www.solidot.org/story?sid=85701",
+   "summary": "Google 正资助美国规模最大的虚拟电厂项目。该项目通过向家庭和企业提供经济激励，鼓励他们在电力需求高峰期间减少用电量，从而为数据中心提供更多的电网容量。该项目有望在中大西洋地区的 PJM 电网提供 1070 MW 的电力容量——相当于一座大型核反应堆的输出电力。很多削减用电量措施能自动执行，如利用智能恒温器在夏季用电高峰期调低空调运行强度，或者通过电池系统提供临时电力。与 Google 合作的能源服务公司 Voltus 表示，通过聚合成千上万家企业和家庭的用电，该项目能在最需要用电的时候可靠提供大量额外电力容量，而且能在几年内实现。尽管科技公司若想持续建设大型数据中心，最终仍需建造传统的发",
+   "published_at": 1792849821.0,
+   "published_bj": "2026-10-24 21:50"
+  },
+  {
+   "id": "693d97f180e9c9e8",
+   "source": "Hacker News",
+   "title": "One Must Fall 2097 Remastered",
+   "url": "https://github.com/Jared-woodruff/OMF-2097-Remastered/",
+   "summary": "Article URL: https://github.com/Jared-woodruff/OMF-2097-Remastered/ Comments URL: https://news.ycombinator.com/item?id=50221179 Points: 36 # Comments: 19",
+   "published_at": 1792849627.0,
+   "published_bj": "2026-10-24 21:47"
+  },
+  {
    "id": "6fcc30abfe5272b6",
    "source": "IT之家",
    "title": "Counterpoint 报告：2026 年第三季度全球 PC 出货量 5700 万台，同比下降 21%",
@@ -65,6 +191,15 @@
    "summary": "IT之家 10 月 24 日消息，根据 Counterpoint Research 初步数据 ，2026 年第三季度全球 PC 出货量同比下降 21% 至 5700 万台，环比下降 13.8%。主要由于存储及其他零部件成本持续高企，推动 PC 价格上涨，并对市场需求形成压力。 报告提到，随着价格上涨，消费者更难为换机找到充分理由，消费市场需求持续疲软。受企业设备持续更新与 Windows 系统迁移持续推进支撑，商用需求相对稳健，但仍不足以抵消整体市场的收缩。 本季度同比降幅亦源于去年同期基数较高 。2025 年第三季度，Windows 10 支持终止期限前的集中采购以及关税相关的库存调整曾共同",
    "published_at": 1792849473.0,
    "published_bj": "2026-10-24 21:44"
+  },
+  {
+   "id": "536513a4d56ff025",
+   "source": "Solidot",
+   "title": "研究揭示丹尼索瓦人的长相",
+   "url": "https://www.solidot.org/story?sid=85700",
+   "summary": "中科院研究人员首次揭示出神秘古丹尼索瓦人的形态共性。丹尼索瓦人是一支已灭绝的古老人类支系，2010 年科学家依靠西伯利亚丹尼索瓦洞化石的 DNA 证据发现了这一人群。后续分子证据显示，丹尼索瓦人曾广泛分布在亚洲多地，生存时间大约在距今 30 万年至 4.5 万年前。但他们究竟长什么样？位于河北阳原的许家窑遗址 1976—1979 年共发掘出土包括头骨、下颌骨、牙齿在内的 20 件人类化石，至少代表 16 个不同年龄阶段的个体。许家窑人化石历经十余万年的埋藏，古 DNA 提取近乎无望，研究团队转向古蛋白质组学这一相对新兴的技术路径，从许家窑地点保存的 20 件标本中，无损获取内源性蛋白质开展系统",
+   "published_at": 1792848931.0,
+   "published_bj": "2026-10-24 21:35"
   },
   {
    "id": "6af57e4f37746495",
@@ -92,6 +227,15 @@
    "summary": "IT之家 10 月 24 日消息，据博主 @数码闲聊站 今日爆料，接下来会有几个大家熟悉的手机产品线或平板线迎来停更，原因是成本兜不住， 越发新机越亏 。 IT之家注意到，今年以来已经多部分手机厂商或品牌 宣布停更 。今年 2 月 27 日，魅族发布战略转型公告，宣布暂停国内手机新产品自研硬件项目，并在积极接洽第三方硬件合作伙伴，同时原有业务不受任何影响。 OPPO 在 7 月 16 日官宣了子品牌全球产品策略：realme 新品将聚焦海外市场，在中国市场暂停产品更新；一加则将在保持印度市场产品更新不变的情况下，主力发展中国市场，并暂停在欧洲和北美发布新品。 此外，今年还有部分手机厂商也通过涨",
    "published_at": 1792847819.0,
    "published_bj": "2026-10-24 21:16"
+  },
+  {
+   "id": "ca3aae40b1633b7a",
+   "source": "Solidot",
+   "title": "美光桃园厂工会否决奖金方案",
+   "url": "https://www.solidot.org/story?sid=85699",
+   "summary": "美光桃园厂工会星期五（10月23日）说，会员投票否决公司提出的新利润分享方案，并警告可能采取进一步集体行动，争取更公平的奖金制度。美光过去数周一直与桃园及台中两座工厂的工会就薪酬问题谈判。两个工会共代表两厂 1 万 5000 名员工中的 1 万 2000 人。两个工会此前均要求，公司发放相当于 83 个月薪资的一次性奖金，并建立长期利润分享制度，将营业利润的 15% 用于员工奖金，按季而非按年发放。美光与规模较大的台中厂工会星期三（10月21日）达成协议。根据薪酬和福利改革方案，公司将从 2027 财年起，为全球员工增设季度利润分享奖金，与原有激励奖金计划（IPP）并行，新增奖金以现金和股票各",
+   "published_at": 1792847691.0,
+   "published_bj": "2026-10-24 21:14"
   },
   {
    "id": "3d109af1b58af08b",
@@ -416,6 +560,15 @@
    "summary": "点击查看原文>",
    "published_at": 1792836000.0,
    "published_bj": "2026-10-24 18:00"
+  },
+  {
+   "id": "0303789043852701",
+   "source": "Hacker News",
+   "title": "GPU-unlock: FP/BF16 instruction issue rate on Nvidia 3000's cards",
+   "url": "https://github.com/Zagitta/gpu-unlock",
+   "summary": "Article URL: https://github.com/Zagitta/gpu-unlock Comments URL: https://news.ycombinator.com/item?id=50219700 Points: 20 # Comments: 6",
+   "published_at": 1792835907.0,
+   "published_bj": "2026-10-24 17:58"
   },
   {
    "id": "6f8195ab97aa857d",
