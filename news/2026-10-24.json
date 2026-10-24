@@ -1,7 +1,7 @@
 {
  "date": "2026-10-24",
- "generated_at": 1792863920.6528807,
- "count": 300,
+ "generated_at": 1792866057.7445726,
+ "count": 301,
  "items": [
   {
    "id": "1b15080cf21aa490",
@@ -29,6 +29,15 @@
    "summary": "日本京都大学的研究人员发现，猫与主人之间可能存在一种与社会联结和情绪状态有关的生理联系。研究显示，猫与主人尿液中的催产素浓度呈正相关，而催产素水平较高的猫，其主人往往表现出较低的皮质醇水平，并报告较少的负面情绪。此外，与猫相处时的日常身体接近程度，也与主人更积极的情绪状态有关。 阅读全文",
    "published_at": 1792857393.0,
    "published_bj": "2026-10-24 23:56"
+  },
+  {
+   "id": "2b92cbfd71fe75d7",
+   "source": "Hacker News",
+   "title": "Oai-math-revised: a community hub for revising OpenAI's math write-ups",
+   "url": "https://terrytao.wordpress.com/2026/10/24/oai-math-revised-a-community-hub-for-revising-openais-math-write-ups/",
+   "summary": "Article URL: https://terrytao.wordpress.com/2026/10/24/oai-math-revised-a-community-hub-for-revising-openais-math-write-ups/ Comments URL: https://news.ycombinator.com/item?id=50222283 Points: 6 # Comments: 1",
+   "published_at": 1792856117.0,
+   "published_bj": "2026-10-24 23:35"
   },
   {
    "id": "3835658769102cb9",
