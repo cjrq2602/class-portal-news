@@ -1,6 +1,6 @@
 {
  "date": "2026-10-22",
- "generated_at": 1792856945.8231754,
+ "generated_at": 1792858881.2667584,
  "count": 400,
  "items": [
   {
@@ -416,6 +416,15 @@
    "summary": "Article URL: https://pwn.watch/ Comments URL: https://news.ycombinator.com/item?id=50195543 Points: 24 # Comments: 4",
    "published_at": 1792678092.0,
    "published_bj": "2026-10-22 22:08"
+  },
+  {
+   "id": "1961bf5231e26681",
+   "source": "Hacker News",
+   "title": "Parsing EDIFACT in Python with syntax trees",
+   "url": "https://github.com/AmadeusITGroup/Edison",
+   "summary": "Article URL: https://github.com/AmadeusITGroup/Edison Comments URL: https://news.ycombinator.com/item?id=50195535 Points: 3 # Comments: 1",
+   "published_at": 1792678068.0,
+   "published_bj": "2026-10-22 22:07"
   },
   {
    "id": "d779fafaeda11dc3",
@@ -3593,15 +3602,6 @@
    "summary": "IT之家 10 月 22 日消息，特斯拉今日发布 2026 财年（2026 年 1 月～2026 年 12 月）第三财季（2026 年 7 月～2026 年 9 月）报告： 营业总收入 ：280.04 亿美元，同比基本持平 毛利润 ：54.94 亿美元，同比增长 8.7% 毛利率 ：19.6%，同比增长 1.6 个百分点 归母净利润 ：7.87 亿美元，同比下降 43% 经营现金流 ：62.63 亿美元 自由现金流 ：15.3 亿美元 稀释每股收益 ：0.22 美元，同比下降 44% AI 解读 特斯拉 2026 财年第三季度财报超市场预期，核心营收、利润、现金流均表现稳健 公司主营业务与财报",
    "published_at": 1792615584.0,
    "published_bj": "2026-10-22 04:46"
-  },
-  {
-   "id": "635bf2bd58a64445",
-   "source": "cnBeta",
-   "title": "Bose收购Skullcandy 瞄准年轻消费群体与更广泛市场",
-   "url": "https://www.cnbeta.com.tw/articles/tech/1583270.htm",
-   "summary": "音频设备厂商Bose宣布完成对耳机品牌 Skullcandy 的收购。尽管双方同属消费音频市场竞争者，但近年来两家公司已经建立合作关系，此次收购被视为Bose扩大品牌覆盖范围、接触更多消费群体的重要一步。 阅读全文",
-   "published_at": 1792615053.0,
-   "published_bj": "2026-10-22 04:37"
   }
  ]
 }

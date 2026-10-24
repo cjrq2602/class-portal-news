@@ -1,0 +1,34 @@
+{
+ "date": "2026-10-25",
+ "generated_at": 1792858881.2562358,
+ "count": 3,
+ "items": [
+  {
+   "id": "bf10f7037c23dd45",
+   "source": "cnBeta",
+   "title": "苹果首款折叠屏 iPhone Duo 拆解视频：磨砂膜揭开后折痕更明显",
+   "url": "https://www.cnbeta.com.tw/articles/tech/1583706.htm",
+   "summary": "苹果首款折叠屏手机 iPhone Duo 于近日正式上市，随着设备开始交付用户，YouTube频道 Kingmi Mobile 发布了相关拆解视频，展示了这款手机的内部结构、屏幕保护层以及电池和排线的布局。拆解结果显示，苹果采用的内屏磨砂覆盖层能够在一定程度上弱化折痕，但折叠屏、电池和铰链的维修仍然相当复杂。 阅读全文",
+   "published_at": 1792857769.0,
+   "published_bj": "2026-10-25 00:02"
+  },
+  {
+   "id": "0b7385bd0ba81c39",
+   "source": "cnBeta",
+   "title": "YouTube博主掰断iPhone Duo引发讨论 苹果门店尚未出现大规模屏幕损坏潮",
+   "url": "https://www.cnbeta.com.tw/articles/tech/1583704.htm",
+   "summary": "苹果首款折叠屏手机iPhone Duo上市后不久，多名科技YouTuber发布了极限耐久测试视频，其中部分测试显示设备在高强度弯折和暴力施压条件下出现了屏幕损坏，引发外界对这款产品耐用性的广泛讨论。不过，根据苹果零售渠道目前反馈的信息，实际用户群体中并未出现类似的大规模故障现象。 阅读全文",
+   "published_at": 1792857700.0,
+   "published_bj": "2026-10-25 00:01"
+  },
+  {
+   "id": "b911cd08233a9fab",
+   "source": "TechCrunch",
+   "title": "Block’s new voice model sounds eerily human",
+   "url": "https://techcrunch.com/2026/10/24/blocks-new-voice-model-sounds-eerily-human/",
+   "summary": "Block said that the voice model can run locally on a MacBook M4 Max",
+   "published_at": 1792857600.0,
+   "published_bj": "2026-10-25 00:00"
+  }
+ ]
+}

@@ -1,8 +1,26 @@
 {
  "date": "2026-10-24",
- "generated_at": 1792856945.8147368,
- "count": 295,
+ "generated_at": 1792858881.2578752,
+ "count": 298,
  "items": [
+  {
+   "id": "1b15080cf21aa490",
+   "source": "cnBeta",
+   "title": "巨头蚂蚁挑战生物学经典规律：超大头部为何没有拖垮身体？",
+   "url": "https://www.cnbeta.com.tw/articles/science/1583702.htm",
+   "summary": "一项最新研究发现，一类拥有异常巨大头部的蚂蚁正在挑战生物学中的一项基础规律。按照长期被广泛接受的“异速生长定律”（allometric scaling），动物身体各部分的尺寸通常会按照可预测的比例共同增长，但研究人员发现，一些蚂蚁演化出的超大头部远远超出了理论预测范围。 阅读全文",
+   "published_at": 1792857540.0,
+   "published_bj": "2026-10-24 23:59"
+  },
+  {
+   "id": "e386e340eaf25a7a",
+   "source": "cnBeta",
+   "title": "科学家发现猫与主人存在意想不到的生理联系 与催产素水平相关",
+   "url": "https://www.cnbeta.com.tw/articles/science/1583700.htm",
+   "summary": "日本京都大学的研究人员发现，猫与主人之间可能存在一种与社会联结和情绪状态有关的生理联系。研究显示，猫与主人尿液中的催产素浓度呈正相关，而催产素水平较高的猫，其主人往往表现出较低的皮质醇水平，并报告较少的负面情绪。此外，与猫相处时的日常身体接近程度，也与主人更积极的情绪状态有关。 阅读全文",
+   "published_at": 1792857393.0,
+   "published_bj": "2026-10-24 23:56"
+  },
   {
    "id": "3835658769102cb9",
    "source": "TechCrunch",
@@ -20,6 +38,15 @@
    "summary": "IT之家 10 月 24 日消息，博主 @数码闲聊站 今日曝光 iQOO Neo12 新机配置，该机将于本月发布并上市。 据介绍，该机搭载 6.83 英寸 2K+185Hz LTPS 直屏 ，采用维信诺 pTSF 发光材料，搭载骁龙 8E5 处理器（第五代骁龙 8 至尊版），配备 Q3 电竞芯片 + 主动散热风扇。 此外，该机还搭载 9000mAh 电池，支持 100W 有线充，提供双 1511 对称双扬、50Mp IMX921 大底影像。 IT之家注意到，iQOO 手机官方已经公开了 Neo12 的三色官图，包含「争锋」、「疾影黑」和 「霜刃蓝」。据介绍，新机采用「国潮未来科技主义」设计理念",
    "published_at": 1792855604.0,
    "published_bj": "2026-10-24 23:26"
+  },
+  {
+   "id": "8b92b1c2180da274",
+   "source": "Hacker News",
+   "title": "FreeDNS",
+   "url": "https://freedns.afraid.org/",
+   "summary": "Article URL: https://freedns.afraid.org/ Comments URL: https://news.ycombinator.com/item?id=50222133 Points: 42 # Comments: 3",
+   "published_at": 1792855201.0,
+   "published_bj": "2026-10-24 23:20"
   },
   {
    "id": "f0b508e1f0106c76",
