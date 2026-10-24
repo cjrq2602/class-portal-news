@@ -1,8 +1,17 @@
 {
  "date": "2026-10-25",
- "generated_at": 1792858993.0089788,
- "count": 4,
+ "generated_at": 1792861524.1880171,
+ "count": 5,
  "items": [
+  {
+   "id": "e6f2d0b1516adbe4",
+   "source": "TechCrunch",
+   "title": "Instacart reportedly discussed selling itself with DoorDash and Uber",
+   "url": "https://techcrunch.com/2026/10/24/instacart-reportedly-discussed-selling-itself-with-doordash-and-uber/",
+   "summary": "Instacart might sell itself to a larger competitor.",
+   "published_at": 1792859400.0,
+   "published_bj": "2026-10-25 00:30"
+  },
   {
    "id": "767a852ab39bbaa5",
    "source": "Hacker News",
