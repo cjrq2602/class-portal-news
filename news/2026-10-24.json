@@ -1,8 +1,80 @@
 {
  "date": "2026-10-24",
- "generated_at": 1792805710.159143,
- "count": 91,
+ "generated_at": 1792807869.9005427,
+ "count": 99,
  "items": [
+  {
+   "id": "5b3953378770b92d",
+   "source": "InfoQ中文",
+   "title": "何时应使用 Liquid Clustering？湖仓布局策略基准测试",
+   "url": "https://www.infoq.cn/article/lkefSu7SjjIHL1Fmk0Pv?utm_source=rss&utm_medium=article",
+   "summary": "点击查看原文>",
+   "published_at": 1792836000.0,
+   "published_bj": "2026-10-24 18:00"
+  },
+  {
+   "id": "7f6c55c28d30373b",
+   "source": "IT之家",
+   "title": "消息称荣耀 700 系列手机有“3 杯”：Pro 工程机配 1.72 英寸原生背屏，暂定 11 月发布",
+   "url": "https://www.ithome.com/1/017/316.htm",
+   "summary": "IT之家 10 月 24 日消息，博主 @数码闲聊站 刚刚发文透露，荣耀 700 系列手机有“3 杯”（即三个型号，分别对应不同价格配置档位），内部代号 Flora，配色有冷白 / 晴空 / 蓝调 / 粉雾， 暂定 11 月发布 。 博主称，工程机配备 6.57 英寸 1.5K 中屏，极窄四等边， 1.72 英寸原生背屏（Pro 版本） ，200Mp 常规大底影像，Pro 有一颗 50Mp 潜望长焦，系列最大电池 9000mAh±。 关于这一代荣耀 700 的处理器是否会搭载骁龙 8s Gen4 或者骁龙 8 Gen5，博主直言：“ 没有，这种产品线不要对 Soc 有期待。 ” 据IT之家此前",
+   "published_at": 1792807310.0,
+   "published_bj": "2026-10-24 10:01"
+  },
+  {
+   "id": "8e406100c0a4ebeb",
+   "source": "IT之家",
+   "title": "苹果首款折叠 iPhone Duo 开放到店自提预约服务，报道称名额少到“几乎抢不到”",
+   "url": "https://www.ithome.com/1/017/314.htm",
+   "summary": "IT之家 10 月 24 日消息，科技媒体 MacRumors 今天（10 月 24 日）发布博文，报道称苹果在线商店已重新开放 iPhone Duo 的“到店自提”预约服务， 中国、澳大利亚、日本和韩国等市场率先恢复。 该媒体指出在澳大利亚，在该媒体发稿前，曾出现一台可自提的 iPhone Duo， 但很快便被抢空，名额少到“几乎抢不到”。 而美国、加拿大、英国和新加坡等市场的苹果官网提示用户在当地时间 10 月 24 日再次查看，预计自提预约会随各地时间推进陆续恢复。 IT之家查询苹果中国官网，分别查询青岛、上海和北京地区的供货情况，发现均为“不可取货”状态，且送货上门时间已预估排到 20",
+   "published_at": 1792807197.0,
+   "published_bj": "2026-10-24 09:59"
+  },
+  {
+   "id": "7cd93b2f40f36fb9",
+   "source": "IT之家",
+   "title": "亚马逊 CEO 贾西：要让 AI 广泛应用于企业软件，成本需降至目前十分之一",
+   "url": "https://www.ithome.com/1/017/313.htm",
+   "summary": "IT之家 10 月 24 日消息，亚马逊 CEO 安迪 · 贾西认为，AI 推理成本仍然太高， 要让 AI 广泛应用于企业软件，成本还需要降至目前的约十分之一 ，而亚马逊自研芯片有望帮助降低成本。 贾西在风险投资机构 a16z 当地时间 23 日发布的采访中透露：“在我看来，要让 AI 得到尽可能广泛的应用，推理成本仍然高了一个数量级。” 亚马逊今年计划投入 2,200 亿美元 （IT之家注：现汇率约合 1.47 万亿元人民币） 资本开支，却依然无法建成足够的基础设施来满足 AI 需求。贾西透露，2026 年的主要算力供应额度基本订满，2027 年的大部分也已被客户预订，2028 年也有相当一",
+   "published_at": 1792806680.0,
+   "published_bj": "2026-10-24 09:51"
+  },
+  {
+   "id": "999dcac1902183fc",
+   "source": "IT之家",
+   "title": "苹果 iPhone Duo 被曝严重安全隐患：手机上锁可能失效，目前最新版本系统还没有修复",
+   "url": "https://www.ithome.com/1/017/312.htm",
+   "summary": "IT之家 10 月 24 日消息，据博主 @胜利文绉绉 分享，iPhone Duo 严重安全隐患 —— 手机上锁可能失效，且在目前最新版本系统还没有修复 （博主视频中显示系统版本号为 iOS 27.1）。 博主反馈称，他发现 iPhone Duo 的指纹解锁响应速度特别慢， 所以可以一直压力测试它 ，让它“confuse”（IT之家注：该单词基本含义包括使困惑、混淆及使复杂化），反应不过来。 在这种情况下，不用长按指纹、也不用上滑屏幕，轻点屏幕可以直接解锁手机 （锁屏图标会正常显示上锁）。 博主建议大家在问题修复之前， 尽量少使用指纹解锁 。 另据IT之家今日早些时候报道，安全公司 Calif",
+   "published_at": 1792806658.0,
+   "published_bj": "2026-10-24 09:50"
+  },
+  {
+   "id": "d0e4ea48dda98a76",
+   "source": "IT之家",
+   "title": "苹果 iPhone Duo 隐藏交互曝光：为左撇子优化，控制中心一点就开",
+   "url": "https://www.ithome.com/1/017/311.htm",
+   "summary": "IT之家 10 月 24 日消息，科技媒体 9to5Mac 今天（10 月 24 日）发布博文，报道称在 苹果首款折叠 iPhone Duo 上，苹果公司针对“左撇子”用户，引入了新的控制中心打开方式。 在 iPhone X 以及后续没有配备 Home 按钮的机型上，用户从屏幕右上角向下滑动即可打开控制中心。但在 iPhone Duo 折叠手机上，单手尤其是左手使用时，从屏幕右上角下滑打开控制中心较为吃力。 苹果公司为此引入了新的打开方式，用户可直接点击状态栏中新增的电池、Wi-Fi 与蜂窝网络组合图标，即可调出控制中心。相比从右上角下滑，这一图标位置更靠近拇指自然活动区域，操作明显更轻松。 ",
+   "published_at": 1792806483.0,
+   "published_bj": "2026-10-24 09:48"
+  },
+  {
+   "id": "0fcc033fd81289ff",
+   "source": "IT之家",
+   "title": "国产旗舰机最新激活销量数据曝光，华为 Mate 90 系列开售 18 天约 52.8 万台连续多周第一",
+   "url": "https://www.ithome.com/1/017/310.htm",
+   "summary": "IT之家 10 月 24 日消息，博主 @数码闲聊站 昨日发文，分享了国产旗舰机的最新激活销量（第三方机构截止 2026 年第 42 周累计数据）： 某 16 一款机型 —— 8.35W (首周开售 6 天) 某 90 系列四款机型 —— 52.8W±(开售 18 天) 某 9 系列三款机型 —— 39.1W±(开售 21 天) 某 18 系列两款机型 —— 36.8W±(开售 26 天) 某 10 系列三款机型 —— 24.6W±(开售 25 天) 某 500 系列三款机型 —— 20.8W±(开售 25 天) 根据评论区讨论来看，上述机型分别对应 一加 16 、华为 Mate 90 系列、",
+   "published_at": 1792805904.0,
+   "published_bj": "2026-10-24 09:38"
+  },
+  {
+   "id": "cae8b203a8871a32",
+   "source": "Hacker News",
+   "title": "Mark Zuckerberg Pushed Meta to Shield Him from California's Proposed Wealth Tax",
+   "url": "https://www.nytimes.com/2026/10/21/technology/mark-zuckerberg-meta-california-wealth-tax.html",
+   "summary": "Article URL: https://www.nytimes.com/2026/10/21/technology/mark-zuckerberg-meta-california-wealth-tax.html Comments URL: https://news.ycombinator.com/item?id=50217587 Points: 8 # Comments: 7",
+   "published_at": 1792805749.0,
+   "published_bj": "2026-10-24 09:35"
+  },
   {
    "id": "0d2a162354ad08e1",
    "source": "IT之家",
