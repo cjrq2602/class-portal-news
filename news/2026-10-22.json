@@ -1,6 +1,6 @@
 {
  "date": "2026-10-22",
- "generated_at": 1792830175.4629064,
+ "generated_at": 1792832769.5849345,
  "count": 400,
  "items": [
   {
@@ -767,6 +767,15 @@
    "summary": "IT之家 10 月 22 日消息，前段时间爆火的第一人称射击游戏《战狗》（Wardogs）开发商 Bulkhead 正在逐步实施跨地区匹配限制，希望借此减少作弊行为。 该工作室表示，此举旨在保护尽可能多的玩家，避免作弊较严重地区的玩家对其他地区玩家的游戏体验造成影响。不过，这项措施也引发了部分玩家的不满，部分玩家甚至抗议表示将申请退款。 目前，《战狗》采用的地区限制方案以网络延迟为依据，将玩家的最高允许延迟限制在 175 毫秒。超过这一阈值的玩家将受到跨地区游戏限制。Bulkhead 表示，相关功能正在服务器后台逐步实施，但要达到预期效果，还需要进一步调整。 Bulkhead 称，团队原本希望",
    "published_at": 1792672903.0,
    "published_bj": "2026-10-22 20:41"
+  },
+  {
+   "id": "5e04ac9508a0f34a",
+   "source": "Hacker News",
+   "title": "How to run a city builder on 16 MHz",
+   "url": "https://larstofus.com/2025/11/16/how-to-run-a-city-builder-on-12-5-mhz/",
+   "summary": "Article URL: https://larstofus.com/2025/11/16/how-to-run-a-city-builder-on-12-5-mhz/ Comments URL: https://news.ycombinator.com/item?id=50194536 Points: 3 # Comments: 0",
+   "published_at": 1792672856.0,
+   "published_bj": "2026-10-22 20:40"
   },
   {
    "id": "fbcc7b5a1560ad9e",
@@ -3593,15 +3602,6 @@
    "summary": "音频设备厂商Bose宣布完成对耳机品牌 Skullcandy 的收购。尽管双方同属消费音频市场竞争者，但近年来两家公司已经建立合作关系，此次收购被视为Bose扩大品牌覆盖范围、接触更多消费群体的重要一步。 阅读全文",
    "published_at": 1792615053.0,
    "published_bj": "2026-10-22 04:37"
-  },
-  {
-   "id": "0644837c16e8f525",
-   "source": "cnBeta",
-   "title": "EA启动大规模重组：裁员400人 《模拟人生》新项目被搁置",
-   "url": "https://www.cnbeta.com.tw/articles/game/1583268.htm",
-   "summary": "美国游戏发行商EA（Electronic Arts）宣布新一轮业务重组计划，公司将裁减约400个工作岗位，约占全球员工总数的3%。这一调整不仅涉及此前备受关注的BioWare关闭事件，还波及《模拟人生》《Skate》等多个知名游戏项目。 阅读全文",
-   "published_at": 1792614975.0,
-   "published_bj": "2026-10-22 04:36"
   }
  ]
 }
