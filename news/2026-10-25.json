@@ -1,8 +1,17 @@
 {
  "date": "2026-10-25",
- "generated_at": 1792868865.0965545,
- "count": 11,
+ "generated_at": 1792871029.0942602,
+ "count": 13,
  "items": [
+  {
+   "id": "0b86a02a4a4ce131",
+   "source": "Hacker News",
+   "title": "PHP Foundation 'under-funded' with one full-time staff member, director says",
+   "url": "https://www.reuters.com/technology/php-foundation-under-funded-with-one-full-time-staff-member-director-says-2026-10-23/",
+   "summary": "Article URL: https://www.reuters.com/technology/php-foundation-under-funded-with-one-full-time-staff-member-director-says-2026-10-23/ Comments URL: https://news.ycombinator.com/item?id=50224074 Points: 38 # Comments: 8",
+   "published_at": 1792868639.0,
+   "published_bj": "2026-10-25 03:03"
+  },
   {
    "id": "0e85e261ec2a239b",
    "source": "TechCrunch",
@@ -38,6 +47,15 @@
    "summary": "Article URL: https://www.science.org/doi/10.1126/sciadv.aeh8870 Comments URL: https://news.ycombinator.com/item?id=50223752 Points: 6 # Comments: 1",
    "published_at": 1792865945.0,
    "published_bj": "2026-10-25 02:19"
+  },
+  {
+   "id": "060928116a953f6b",
+   "source": "Hacker News",
+   "title": "Why is AI generated language so hard to understand?",
+   "url": "https://arxiv.org/abs/2610.29162",
+   "summary": "Article URL: https://arxiv.org/abs/2610.29162 Comments URL: https://news.ycombinator.com/item?id=50223647 Points: 40 # Comments: 27",
+   "published_at": 1792865097.0,
+   "published_bj": "2026-10-25 02:04"
   },
   {
    "id": "25f982c8a6d3cb58",
