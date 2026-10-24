@@ -1,7 +1,7 @@
 {
  "date": "2026-10-25",
- "generated_at": 1792880338.3918157,
- "count": 24,
+ "generated_at": 1792882064.5832253,
+ "count": 27,
  "items": [
   {
    "id": "bc34a57acc23465e",
@@ -29,6 +29,24 @@
    "summary": "美国奥本大学的物理学家发现，短暂的激光脉冲能够在特定晶体内部诱导出有序的电极化状态，即使材料处于较高温度、内部微小极化区域通常仍然杂乱无章的情况下，也能实现这一变化。这一发现为研究材料内部极快的电学变化提供了新方法，未来可能有助于探索超高速信息处理与存储技术。 阅读全文",
    "published_at": 1792879574.0,
    "published_bj": "2026-10-25 06:06"
+  },
+  {
+   "id": "ea2b24926e397e33",
+   "source": "Hacker News",
+   "title": "We should be more ambitious with the software we build",
+   "url": "https://danluu.com/ambitious/",
+   "summary": "Article URL: https://danluu.com/ambitious/ Comments URL: https://news.ycombinator.com/item?id=50225695 Points: 7 # Comments: 0",
+   "published_at": 1792878451.0,
+   "published_bj": "2026-10-25 05:47"
+  },
+  {
+   "id": "2e6866a200df1b61",
+   "source": "Hacker News",
+   "title": "Small Programs and Languages",
+   "url": "https://ratfactor.com/cards/pl-small",
+   "summary": "Article URL: https://ratfactor.com/cards/pl-small Comments URL: https://news.ycombinator.com/item?id=50225674 Points: 3 # Comments: 0",
+   "published_at": 1792878263.0,
+   "published_bj": "2026-10-25 05:44"
   },
   {
    "id": "e60efb41550ac9b6",
@@ -137,6 +155,15 @@
    "summary": "Article URL: https://dreamlabs.ai/research/dream-1/ Comments URL: https://news.ycombinator.com/item?id=50223785 Points: 6 # Comments: 0",
    "published_at": 1792866204.0,
    "published_bj": "2026-10-25 02:23"
+  },
+  {
+   "id": "34ddd88cbb2a41cd",
+   "source": "Hacker News",
+   "title": "Bbtree: Fastest Ordered Map",
+   "url": "https://bbtree.xiangpeng.systems/post/",
+   "summary": "Article URL: https://bbtree.xiangpeng.systems/post/ Comments URL: https://news.ycombinator.com/item?id=50223777 Points: 12 # Comments: 2",
+   "published_at": 1792866134.0,
+   "published_bj": "2026-10-25 02:22"
   },
   {
    "id": "30bb58907583b289",
