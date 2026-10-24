@@ -1,7 +1,7 @@
 {
  "date": "2026-10-24",
- "generated_at": 1792821899.8750062,
- "count": 152,
+ "generated_at": 1792825445.195812,
+ "count": 181,
  "items": [
   {
    "id": "8ed52f40e7f3afbe",
@@ -20,6 +20,240 @@
    "summary": "点击查看原文>",
    "published_at": 1792836000.0,
    "published_bj": "2026-10-24 18:00"
+  },
+  {
+   "id": "dea0d7cfe2cfa63a",
+   "source": "IT之家",
+   "title": "AMD Zen 6 首测曝光：同频单核性能较 Zen 5 最高快 24%",
+   "url": "https://www.ithome.com/1/017/390.htm",
+   "summary": "IT之家 10 月 24 日消息，科技媒体 Wccftech 昨日（10 月 23 日）发布博文，报道称在 GeekBench 跑分库中，发现了 AMD 新一代 Zen 6 架构处理器的踪迹，同频单核性能最高领先 Zen 5 约 24%。 每时钟周期性能（Per-Clock Performance）指在相同工作频率下，处理器每个时钟周期所能完成的计算量，常用 IPC（Instructions Per Clock，每周期指令数）来衡量。 本次现身跑分库的是旗舰 AMD EPYC 9996，该处理器配有 256 个核心、512 线程，配备 1.0GB L3 缓存和 256MB L2 缓存，额定 T",
+   "published_at": 1792825164.0,
+   "published_bj": "2026-10-24 14:59"
+  },
+  {
+   "id": "0fb990a570442a05",
+   "source": "IT之家",
+   "title": "中端大战将启：曝 OPPO Reno 17、vivo S70、荣耀 700、华为 nova 17 系列手机将于 11 月集中发布",
+   "url": "https://www.ithome.com/1/017/389.htm",
+   "summary": "IT之家 10 月 24 日消息，博主 @数码闲聊站 今日发文，曝光了 11 月的新机，包括： OPPO Reno 17 系列、vivo S70 系列、荣耀 700 系列和华为 nova 17 系列 。 博主透露，随着上述新机的发布，预计将看到小屏、中屏、大屏、原生背屏、2 亿云台影像、旗舰级潜望长焦、外挂增距镜等规格配置。 综合IT之家此前报道，博主 @智慧皮卡丘 发文称，某厂中端影像机开案大小屏，屏幕尺寸各不相同，有 AI 按键，暂定下个月发布。这款手机主打潮流外观和 2 亿像素影像，视频实况和修图有新玩法。从博主文中的 Tag 来看， 这款手机预计归属 OPPO Reno 17 系列 。",
+   "published_at": 1792825108.0,
+   "published_bj": "2026-10-24 14:58"
+  },
+  {
+   "id": "b79beea7711e9688",
+   "source": "cnBeta",
+   "title": "BAE系统测试多弹齐射反无人机方案 重型四旋翼无人机可连续拦截多个空中目标",
+   "url": "https://www.cnbeta.com.tw/articles/science/1583676.htm",
+   "summary": "英国国防企业BAE系统公司（BAE Systems）近日展示了一项新的反无人机技术：通过在大型四旋翼无人机上安装多联装激光制导火箭发射器，使其能够在一次任务中连续攻击多个空中目标，而不必每次拦截后返回地面重新装填。这项技术旨在以相对较低的成本应对数量庞大、价格低廉的攻击无人机。 阅读全文",
+   "published_at": 1792825105.0,
+   "published_bj": "2026-10-24 14:58"
+  },
+  {
+   "id": "4ca909554aa62f42",
+   "source": "IT之家",
+   "title": "全国民航明起执行冬春航季航班计划，34 家航司拟新开 288 条国内航线",
+   "url": "https://www.ithome.com/1/017/388.htm",
+   "summary": "IT之家 10 月 24 日消息，据央视新闻报道，2026 年 10 月 25 日（明天）至 2027 年 3 月 27 日，全国民航正式执行 2026/2027 年冬春航季航班计划 。新航季共有 216 家国内外航空公司计划每周安排客货运航班 11.6 万班。 国内航班方面，61 家航空公司计划每周安排国内航班 9.4 万班，其中 客运航班每周安排 91454 班，货运航班每周安排 2812 班 。 国际航班方面，191 家航空公司计划通航 85 个国家， 每周安排国际航班 21812 班 ，其中客运通航 84 个国家，每周安排 16654 班航班；货运通航 48 个国家，每周安排 5158",
+   "published_at": 1792824887.0,
+   "published_bj": "2026-10-24 14:54"
+  },
+  {
+   "id": "2b0d838db8de08f0",
+   "source": "IT之家",
+   "title": "“9 个 5”中国联通手机号无人出价流拍后将再度二拍：起拍价 23.1 万元，涉 130 万元借款纠纷",
+   "url": "https://www.ithome.com/1/017/387.htm",
+   "summary": "IT之家 10 月 24 日消息，阿里资产平台显示，一个包含“9 个 5”的联通靓号“15555455555”将进行二拍，开拍时间为 11 月 3 日 10:00，起拍价 23.10 万元，加价幅度 1000 元。 IT之家获悉，相应号码归属安徽合肥，由合肥市蜀山区人民法院查封处置，号码本身涉 130 万元借款纠纷。 根据执行裁定书，被执行人需偿还某股份公司借款本金 130 万元，以及对应利息、律师费、案件受理费等费用，因拒不履行还款义务，法院依法查封该靓号使用权并启动拍卖。 评估报告显示，该号码原套餐为 59 元流量卡套餐 A，话费余额 59.1 元，评估价 33.97 万元，号码带有附带严",
+   "published_at": 1792824813.0,
+   "published_bj": "2026-10-24 14:53"
+  },
+  {
+   "id": "f105551d9c3c2954",
+   "source": "IT之家",
+   "title": "瑞典政府办公厅出手，禁止办公电脑直接访问 ChatGPT、Claude",
+   "url": "https://www.ithome.com/1/017/385.htm",
+   "summary": "IT之家 10 月 24 日消息，当地时间 23 日，据瑞典国家公共广播公司 Sveriges Radio 报道，瑞典政府办公厅将从下周一起禁止工作人员 通过办公电脑直接访问 ChatGPT 和 Claude ，要求员工改用微软 Copilot 等获得批准的 AI 服务。 内部资料显示，该国政府办公厅还对 Copilot 进行了审查，并进一步加强了安全防护。该机构数字化总监米卡埃尔 · 韦特克兰茨（Mikael Wettercrantz）在政府办公厅内网上指出，使用未签订协议的 AI 服务可能 对信息安全造成影响 。 调查发现，瑞典税务局和国家机构管理局（SiS）也已采取类似的封锁措施。瑞典强",
+   "published_at": 1792824340.0,
+   "published_bj": "2026-10-24 14:45"
+  },
+  {
+   "id": "8ebdddaa55a7ce3c",
+   "source": "IT之家",
+   "title": "游戏接近完工，工作室却要关门？《漫威：刀锋战士》遭遇最残酷倒计时",
+   "url": "https://www.ithome.com/1/017/384.htm",
+   "summary": "IT之家 10 月 24 日消息，法媒 Le Monde 昨日（10 月 23 日）发布博文， 报道称微软旗下 Arkane Lyon 工作室正在开发的漫威吸血鬼动作游戏《漫威：刀锋战士》（Marvel's Blade）已接近制作尾声，但目前该工作室正面临关停风险。 IT之家附上该游戏此前公布的预热视频： 报道指出微软已经于 2026 年 7 月 16 日发布通知，计划在 11 月 13 日关闭 Arkane Lyon 工作室，预估影响约 217 个工作岗位。 微软回应称，公司仍在法国磋商程序中探索工作室的多种可能，并向员工和员工代表委员会通报进展，同时积极寻找能够支持下一阶段开发、推动项目商",
+   "published_at": 1792824245.0,
+   "published_bj": "2026-10-24 14:44"
+  },
+  {
+   "id": "079e7b403c51c7e7",
+   "source": "IT之家",
+   "title": "网传宇树科技机器人侧空翻表演甩断腿，系新发布的 H2-X 人形机器人",
+   "url": "https://www.ithome.com/1/017/383.htm",
+   "summary": "IT之家 10 月 24 日消息，据新浪科技报道，在宇树科技“2026 世界物理 AI 大会暨宇树合作伙伴生态大会”现场，一段机器人侧空翻失误的视频引发热议。 画面中，一台白色人形机器人正在进行功夫动作演示，尝试侧空翻落地时失去平衡，侧摔在地，一条机械小腿从连接处脱落，掉落在一旁的黑色地垫上。 ▲ 图源新浪科技 据了解，发生意外的机器人为宇树科技 10 月 21 日 刚刚发布的 H2-X 人形机器人 ，官方命名为“H2-X 功夫传奇守护”。截至IT之家发稿，宇树科技未对此事进行说明。 此前，官方宣传视频展示了该机器人踢凹汽车车门、徒手抬起汽车，以及从约 4 米高台跃下完成空翻等动作。该产品主要",
+   "published_at": 1792824241.0,
+   "published_bj": "2026-10-24 14:44"
+  },
+  {
+   "id": "9d8b0c4e9b78ebaa",
+   "source": "IT之家",
+   "title": "智元在山东济南组织 110 台人形机器人同时跳舞，创下吉尼斯世界纪录",
+   "url": "https://www.ithome.com/1/017/382.htm",
+   "summary": "IT之家 10 月 24 日消息，据齐鲁晚报，智元机器人今天在山东济南黄河国际会展中心组织 110 台远征 A3 全尺寸人形机器人同场群舞，成功创下“最多人形机器人同时跳舞”吉尼斯世界纪录。 IT之家获悉，此次挑战采用智元灵动 LinkBots 集群调控平台及 UWB 厘米级定位技术，实现多机同步动作与编队切换， 110 台机器人以 “ 量产机 ” 阵容零失误通过认证。 现场吉尼斯世界纪录认证官亲临见证并颁发官方证书，最终成功数量确认为 110 台。 智元表示，目前旗下机器人已在济南奥体中心、转山西路等地铁站开展试点，提供咨询导引、客流辅助疏导、城市文化讲解等服务。本次群舞的机器人后续将陆续投",
+   "published_at": 1792824013.0,
+   "published_bj": "2026-10-24 14:40"
+  },
+  {
+   "id": "0aef01c6723e9cb1",
+   "source": "IT之家",
+   "title": "远水难救近火：沃尔沃手握 5 万辆 EX60 订单，产量却只有 5000 辆",
+   "url": "https://www.ithome.com/1/017/381.htm",
+   "summary": "IT之家 10 月 24 日消息，沃尔沃汽车透露，由于新技术和制造工艺带来了生产难题，全新纯电 SUV EX60 的产能爬坡速度低于预期。 今年 4 月投产以来， 新车订单量已超过 5 万辆，但实际产量仅为 5000 辆 。沃尔沃 CEO 汉肯 · 塞缪尔森坦言：“我们的产能爬坡进度落后于原先计划，因此 EX60 对公司财务业绩产生贡献的时间也将推后。” EX60 迟迟无法实现大规模生产的时间节点，恰逢沃尔沃业绩承压。23 日公布的财报显示，公司 2026 年第三季度净亏损 57 亿瑞典克朗 （IT之家注：现汇率约合 38.28 亿元人民币） ，季度表现“非常令人失望”。为恢复盈利，沃尔沃还宣",
+   "published_at": 1792823732.0,
+   "published_bj": "2026-10-24 14:35"
+  },
+  {
+   "id": "fc1e6a11cd698b86",
+   "source": "IT之家",
+   "title": "Steam 喜加一：第一人称生存恐怖射击游戏《Radiant Exodus》免费领",
+   "url": "https://www.ithome.com/1/017/379.htm",
+   "summary": "IT之家 10 月 24 日消息，开发者宣布 Horrawr 旗下第一人称生存恐怖射击游戏《Radiant Exodus》将于 2026 年 11 月 17 日结束免费游玩，开始付费销售。玩家可以在期限前将游戏免费添加至 Steam 库，即使游戏日后进行收费，仍可继续游玩。IT之家附游戏商品页（ https://store.steampowered.com/app/2920120/Radiant_Exodus/ ）。 《Radiant Exodus》于 2025 年 5 月 24 日推出，最初采用付费制，随后于 2026 年 8 月 4 日转为免费游玩。开发团队当时表示，希望借此接触更多玩家。",
+   "published_at": 1792823660.0,
+   "published_bj": "2026-10-24 14:34"
+  },
+  {
+   "id": "74297132b427f97e",
+   "source": "IT之家",
+   "title": "MOD 社区立功：英特尔 Arc XMX 内核非官方移植 AMD FSR 4.1.2",
+   "url": "https://www.ithome.com/1/017/378.htm",
+   "summary": "IT之家 10 月 24 日消息，科技媒体 Wccftech 昨日（10 月 23 日）发布博文， 报道称 OptiScaler MOD 社区已将 AMD 最新的 FSR 4.1.2 神经网络超分辨率模型移植至 Intel Arc 显卡，并借助 Arc 的 XMX 矩阵加速核心实现硬件加速。 本次非官方移植针对 Intel XMX 硬件，重点优化 FSR 4 INT8 DLL。相比依赖通用着色器运行，XMX 加速能显著降低超分耗时，让 AMD 的 AI 超分技术在 Intel 平台上更接近原生体验。 社区基准测试显示，在 Intel Arc A770 上以 1080p、Quality 模式运行",
+   "published_at": 1792823453.0,
+   "published_bj": "2026-10-24 14:30"
+  },
+  {
+   "id": "7058ecd48ea79238",
+   "source": "IT之家",
+   "title": "1099 → 543 元国补直降：华为 WATCH FIT 5 智能手表 5 折新低，1.82 英寸 AMOLED 屏",
+   "url": "https://www.ithome.com/1/017/377.htm",
+   "summary": "华为 WATCH FIT 5 智能手表 2026 年 4 月开售，该表主打超轻薄大屏 + 腕上微运动 + 长续航，售价 1099 元起。 京东 11.11 大促期间，按下方步骤下单，叠加 15% 国补后仅需 543.15 元： 领 800-260 元券：点击下方卡片 → 点击宝贝右上角浮窗 → 进入直播间，顶部位置即可领到。 京东 华为 WATCH FIT 5 智能手表 1.82 英寸 AMOLED 屏 国补后 543.15 元 领 100 元券 京东 11.11 无门槛红包至高 26888 元，支持即领即用，下单直接当钱花： 点此抽取 。 据介绍，华为 WATCH FIT 5 智能手表采用全",
+   "published_at": 1792823284.0,
+   "published_bj": "2026-10-24 14:28"
+  },
+  {
+   "id": "4bf8af248b5eb2c9",
+   "source": "cnBeta",
+   "title": "宇树机器人侧空翻表演甩断腿 系新发布的H2-X人形机器人",
+   "url": "https://www.cnbeta.com.tw/articles/tech/1583674.htm",
+   "summary": "近日，在宇树科技“2026世界物理AI大会暨宇树合作伙伴生态大会”现场，一段机器人侧空翻失误的视频引发热议。 阅读全文",
+   "published_at": 1792823025.0,
+   "published_bj": "2026-10-24 14:23"
+  },
+  {
+   "id": "527630e324b20c5c",
+   "source": "IT之家",
+   "title": "奇瑞面向海外推出 LEPAS Aura 双门猎装车：造型灵感来自“豹子”",
+   "url": "https://www.ithome.com/1/017/376.htm",
+   "summary": "IT之家 10 月 24 日消息，当地时间 23 日，据英媒 Autocar 报道，奇瑞集团旗下面向海外市场的品牌 LEPAS 展示了一款运动风格的概念车 ——LEPAS Aura，采用双门猎装车造型，车身饱满厚实，座舱低矮修长。 LEPAS 的品牌名称由意为“豹”的英文单词 leopard 和意为“激情”的 passion 组合而成。按照官方说法，Aura 的造型灵感来自 豹子运动时肌肉紧绷、蓄势待发的姿态 。 为了突出运动感，Aura 采用 长轴距、短前后悬和宽车身设计 ，呈现出随时准备加速冲刺的姿态，也让此前主打家用 SUV 的 LEPAS 展现出不同的一面。 LEPAS 的品牌定位略高",
+   "published_at": 1792822998.0,
+   "published_bj": "2026-10-24 14:23"
+  },
+  {
+   "id": "9c986b4b5dd88509",
+   "source": "cnBeta",
+   "title": "Epic总裁批评Steam强制AI披露 称逼开发者写政治声明遭恶意利用",
+   "url": "https://www.cnbeta.com.tw/articles/game/1583672.htm",
+   "summary": "Epic Games首席执行官蒂姆·斯威尼公开批评Valve坚持要求Steam平台上架游戏必须披露AI使用情况，称这项政策“令人反感”。此前Epic已公开力挺生成式AI在游戏开发中的应用。 阅读全文",
+   "published_at": 1792822948.0,
+   "published_bj": "2026-10-24 14:22"
+  },
+  {
+   "id": "dba05bd8c73b4d12",
+   "source": "cnBeta",
+   "title": "《塞尔达传说：时之笛》重制版新片展示三座神殿与多场首领战",
+   "url": "https://www.cnbeta.com.tw/articles/game/1583670.htm",
+   "summary": "任天堂公布了《塞尔达传说：时之笛》重制版约30秒的新片段，集中展示经典迷宫、敌人与首领在Switch 2上的新版画面。水之神殿、暗影神殿和魂之神殿均在片中亮相。 阅读全文",
+   "published_at": 1792822928.0,
+   "published_bj": "2026-10-24 14:22"
+  },
+  {
+   "id": "f3437972f83ffaab",
+   "source": "cnBeta",
+   "title": "《塞尔达：时之笛》设计师原设娜薇为可爱少女 受N64机能限制才改成发光小球",
+   "url": "https://www.cnbeta.com.tw/articles/game/1583668.htm",
+   "summary": "《塞尔达传说：时之笛》里的娜薇是整个系列最具标志性的精灵伙伴。那句总在耳边念叨的“嘿，听我说”烦人又可爱，时隔多年依旧是塞尔达系列的经典记忆。然而这只小精灵的最初设定，和我们如今熟知喜爱的带翅膀发光小球截然不同——她最终呈现出这个形象，完全是受任天堂64主机的技术限制。 阅读全文",
+   "published_at": 1792822839.0,
+   "published_bj": "2026-10-24 14:20"
+  },
+  {
+   "id": "918e90dd256b0c09",
+   "source": "cnBeta",
+   "title": "“炼金术”成真 美国一公司宣布成功将汞转化成黄金",
+   "url": "https://www.cnbeta.com.tw/articles/science/1583666.htm",
+   "summary": "近日，美国核聚变初创企业Marathon Fusion对外公布重磅实验成果。 他们宣称借助核聚变产生的高能中子轰击汞，通过核嬗变技术，把水银（汞）转化为稳定的黄金，转化速率达到欧洲核子研究中心CERN此前纪录的10倍，让流传千年的“炼金术”从传说走进实验室。 阅读全文",
+   "published_at": 1792822714.0,
+   "published_bj": "2026-10-24 14:18"
+  },
+  {
+   "id": "3cfeac00ce230ccb",
+   "source": "cnBeta",
+   "title": "NASA加快推进月球基地建设 计划2028年实现载人登月",
+   "url": "https://www.cnbeta.com.tw/articles/science/1583664.htm",
+   "summary": "10月23日，NASA局长贾里德·艾萨克曼在肯尼迪航天中心发布会上公布阿耳忒弥斯加速计划，明确争取两年内让宇航员重返月球表面。按照最新安排，阿耳忒弥斯4号任务仍定于2028年实施，届时将实现自阿波罗计划以来首次载人登月， 并在月球南极附近着陆，为建立月面长期存在与月球基地、进而迈向火星任务打基础。 阅读全文",
+   "published_at": 1792822647.0,
+   "published_bj": "2026-10-24 14:17"
+  },
+  {
+   "id": "d627981203da26b4",
+   "source": "cnBeta",
+   "title": "全球手机销量暴跌：存储成本增长300% 厂商卖不动是必然",
+   "url": "https://www.cnbeta.com.tw/articles/tech/1583662.htm",
+   "summary": "对于当下所有手机厂商而言，持续走高的存储芯片价格正在直接推高整机生产成本，要是厂商一味选择把上涨的成本全部转嫁到终端售价上，直接给产品大幅提价，最终只会倒逼越来越多的用户放弃换新机，逐步远离自家品牌。 阅读全文",
+   "published_at": 1792822626.0,
+   "published_bj": "2026-10-24 14:17"
+  },
+  {
+   "id": "56e881a194bfc0a4",
+   "source": "IT之家",
+   "title": "Anthropic 亮出未发布 AI 模型：能力比 Mythos 5.1 更强，也更“守规矩”",
+   "url": "https://www.ithome.com/1/017/375.htm",
+   "summary": "IT之家 10 月 24 日消息，Anthropic 昨日（10 月 23 日）发布博文，联合英国人工智能安全研究所（AISI），发布了一起 AI 网络测试失控事件的调查报告， 并提及旗下一款尚未发布的内部研究模型。 在这份调查报告中，Anthropic 称在测试 Claude Mythos 5 期间，该模型曾试图向真实 GitHub 项目提交恶意代码，并伪造身份向真实维护者施压，所幸代码未被合并、未造成实际损害。IT之家附上相关截图如下： 报告同时透露，Anthropic 旗下一款尚未发布的内部研究模型，在能力上已超过已发布的 Claude Mythos 5.1，并在安全对齐测试中表现更好。",
+   "published_at": 1792822619.0,
+   "published_bj": "2026-10-24 14:16"
+  },
+  {
+   "id": "d4759e0032c27393",
+   "source": "cnBeta",
+   "title": "捡漏有风险 网购5950X竟收到十年前速龙X4 卖家还死不承认",
+   "url": "https://www.cnbeta.com.tw/articles/tech/1583660.htm",
+   "summary": "近日一名Reddit网友发帖爆料，自己在跨境电商平台AliExpress购买AMD锐龙9 5950X处理器时遭遇了严重的诈骗事件。 该网友在收到包裹后发现，内部装载的并非其订购的16核旗舰级处理器，而是一颗拥有10年历史的AMD速龙X4。 更气人的是，买家申请全额退款，卖家还直接拒绝了。 阅读全文",
+   "published_at": 1792822566.0,
+   "published_bj": "2026-10-24 14:16"
+  },
+  {
+   "id": "53dc109aff22273f",
+   "source": "cnBeta",
+   "title": "月之暗面发布Kimi K3.1 Pro：3万亿参数、100万上下文",
+   "url": "https://www.cnbeta.com.tw/articles/tech/1583658.htm",
+   "summary": "10月24日， 月之暗面Kimi今日凌晨正式推出Kimi K3.1系列首个模型——K3.1 Pro。 这是公司迄今能力最强的3万亿级参数模型，支持100万上下文。高速版Kimi K3.1 Pro Highspeed同步推出，同等智能下输出速度约为2至3倍。 阅读全文",
+   "published_at": 1792822544.0,
+   "published_bj": "2026-10-24 14:15"
+  },
+  {
+   "id": "b16e74b3cbd84c0f",
+   "source": "cnBeta",
+   "title": "交警有了新绝活 路上的龟速车得小心了",
+   "url": "https://www.cnbeta.com.tw/articles/tech/1583656.htm",
+   "summary": "每次上高速，总会遇到这么几个跑贼拉慢的，还硬要和货车肩并肩。明明咱们都是速成车，为啥就你开这么慢啊？ 如果交警们能管管这些龟速车，那马路肯定和吃了一斤泻药一样，畅通多了。但这个的前提是，龟速车到底违不违法？ 阅读全文",
+   "published_at": 1792822312.0,
+   "published_bj": "2026-10-24 14:11"
+  },
+  {
+   "id": "6ca1c0ad8831c85f",
+   "source": "cnBeta",
+   "title": "Anthropic联合创始人：中国模型目前落后西方约6个月到一年 因为\"太蠢\"",
+   "url": "https://www.cnbeta.com.tw/articles/tech/1583654.htm",
+   "summary": "近日Anthropic联合创始人、政策与公共事务负责人Jack Clark在访谈中提到对中国AI发展的判断。 他表示，中国模型目前落后西方约6个月到一年，&quot;模型太蠢&quot;，因此还没有看到失控的智能体集群，但再过几个月，中方也将面对西方已经经历过的同一套风险。 阅读全文",
+   "published_at": 1792822257.0,
+   "published_bj": "2026-10-24 14:10"
   },
   {
    "id": "7fad2bca243256e9",
@@ -220,6 +454,15 @@
    "published_bj": "2026-10-24 12:55"
   },
   {
+   "id": "ed1e975e4d25e69b",
+   "source": "Hacker News",
+   "title": "OBS Studio 33",
+   "url": "https://github.com/obsproject/obs-studio/releases/tag/33.0.0",
+   "summary": "Article URL: https://github.com/obsproject/obs-studio/releases/tag/33.0.0 Comments URL: https://news.ycombinator.com/item?id=50218430 Points: 24 # Comments: 0",
+   "published_at": 1792817398.0,
+   "published_bj": "2026-10-24 12:49"
+  },
+  {
    "id": "ad9fc756e5ba6cb4",
    "source": "IT之家",
    "title": "史诗级更新：微信远程升级支持在 iPhone Duo 上和其他设备同时登录",
@@ -400,6 +643,15 @@
    "published_bj": "2026-10-24 10:46"
   },
   {
+   "id": "f46690afc17305a8",
+   "source": "Hacker News",
+   "title": "How Block Blast harvests its players for ad money",
+   "url": "https://ayoships.com/breakdowns/block-blast",
+   "summary": "Article URL: https://ayoships.com/breakdowns/block-blast Comments URL: https://news.ycombinator.com/item?id=50217946 Points: 17 # Comments: 2",
+   "published_at": 1792809823.0,
+   "published_bj": "2026-10-24 10:43"
+  },
+  {
    "id": "03f124e989b893d7",
    "source": "IT之家",
    "title": "网络安全“隐形基石”升级：OpenSSL 4.1 发布，实时音 / 视频和游戏传输更安全",
@@ -407,6 +659,15 @@
    "summary": "IT之家 10 月 24 日消息，开源加密基础库 OpenSSL 项目昨日（10 月 23 日）更新至 4.1 版本。作为保障全球网络通信安全的关键组件，此次更新带来了多项重要功能与性能改进， 其中最受关注的是支持 DTLS 1.3 协议。 IT之家注：OpenSSL 是一个开源的密码学工具库和命令行工具集，为网络通信提供加密、身份认证和数据完整性保护。它最广为人知的用途，是让网站通过 HTTPS 安全传输数据，用户在浏览器地址栏上看到的“锁”图标，背后通常就有 OpenSSL 或类似加密库在工作。 在最新 OpenSSL 4.1 版本中，主要新增支持数据报传输层安全协议（DTLS）1.3。该",
    "published_at": 1792809763.0,
    "published_bj": "2026-10-24 10:42"
+  },
+  {
+   "id": "d73bf79e60e8323e",
+   "source": "Hacker News",
+   "title": "Apple Security Research Device",
+   "url": "https://security.apple.com/research-device/",
+   "summary": "Article URL: https://security.apple.com/research-device/ Comments URL: https://news.ycombinator.com/item?id=50217903 Points: 16 # Comments: 0",
+   "published_at": 1792809398.0,
+   "published_bj": "2026-10-24 10:36"
   },
   {
    "id": "cdc1810ac49b8405",

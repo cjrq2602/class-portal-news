@@ -1,6 +1,6 @@
 {
  "date": "2026-10-23",
- "generated_at": 1792821899.8801224,
+ "generated_at": 1792825445.2009187,
  "count": 400,
  "items": [
   {
@@ -3379,6 +3379,15 @@
    "published_bj": "2026-10-23 06:48"
   },
   {
+   "id": "2caf327d842b5b97",
+   "source": "Hacker News",
+   "title": "Canadians are running out of time to oppose Bill C-22",
+   "url": "https://www.eff.org/deeplinks/2026/10/canadians-are-running-out-time-oppose-dangerous-c-22-surveillance-bill",
+   "summary": "Article URL: https://www.eff.org/deeplinks/2026/10/canadians-are-running-out-time-oppose-dangerous-c-22-surveillance-bill Comments URL: https://news.ycombinator.com/item?id=50202114 Points: 392 # Comments: 208",
+   "published_at": 1792708999.0,
+   "published_bj": "2026-10-23 06:43"
+  },
+  {
    "id": "af78fd75f05e6c3b",
    "source": "TechCrunch",
    "title": "As blockchain investing falls out of vogue, a16z Crypto rebrands as a16z Frontier",
@@ -3593,15 +3602,6 @@
    "summary": "点击查看原文>",
    "published_at": 1792696618.0,
    "published_bj": "2026-10-23 03:16"
-  },
-  {
-   "id": "82c4d44a53b482e5",
-   "source": "Hacker News",
-   "title": "eMudhra logins can be bruteforced",
-   "url": "https://mastodon.catgirl.cloud/@49016/117475976434068995",
-   "summary": "Article URL: https://mastodon.catgirl.cloud/@49016/117475976434068995 Comments URL: https://news.ycombinator.com/item?id=50199757 Points: 6 # Comments: 0",
-   "published_at": 1792696441.0,
-   "published_bj": "2026-10-23 03:14"
   }
  ]
 }
