@@ -1,8 +1,26 @@
 {
  "date": "2026-10-24",
- "generated_at": 1792804963.6984499,
- "count": 89,
+ "generated_at": 1792805710.159143,
+ "count": 91,
  "items": [
+  {
+   "id": "0d2a162354ad08e1",
+   "source": "IT之家",
+   "title": "苹果 iPhone Duo 影像细节曝光：主摄最高可读取 5100 万像素",
+   "url": "https://www.ithome.com/1/017/309.htm",
+   "summary": "IT之家 10 月 24 日消息，消息源 @itspdfu 昨日（10 月 23 日）发布博文， 通过挖掘 iOS 27.1 和 iOS 27.2 RC 版本代码，进一步披露了苹果首款折叠 iPhone Duo 的影像规格参数。 图源：iPhone Duo 苹果官网 主摄方面，iPhone Duo 的主摄将采用 IMX954 传感器，配备“四像素”结构与 1.0µm 子像素， 最大配置读出尺寸为 8448 × 6048，约合 5100 万像素 ；系统可输出 1200 万（四个子像素合并成一个像素）、2400 万及 4800 万像素照片。 IT之家注：子像素（sub-pixels）是衡量手机相机",
+   "published_at": 1792805645.0,
+   "published_bj": "2026-10-24 09:34"
+  },
+  {
+   "id": "afe264c5575c80f7",
+   "source": "IT之家",
+   "title": "利用核聚变技术，美初创公司 Marathon Fusion 宣称实现“水银变黄金”",
+   "url": "https://www.ithome.com/1/017/307.htm",
+   "summary": "IT之家 10 月 24 日消息，据外媒 Interesting Engineering 报道，美国旧金山核聚变初创企业 Marathon Fusion 宣称，利用核聚变产生的高能中子实现了“点汞成金”。 该公司于当地时间 21 日宣布，其黄金生产速率 达到欧洲核子研究组织（CERN）2025 年纪录的 10 倍 。然而，实验成果尚未得到公开的独立验证，Marathon 也没有透露究竟制造了多少黄金。 根据 Marathon 介绍的技术原理，氘氚聚变产生的 14MeV 中子撞击汞-198 后，会使其转化为 具有放射性的汞-197 。汞-197 的半衰期据称约为 64 小时， 随后衰变成金-19",
+   "published_at": 1792805050.0,
+   "published_bj": "2026-10-24 09:24"
+  },
   {
    "id": "93d732d7b09ee06d",
    "source": "IT之家",
