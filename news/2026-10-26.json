@@ -1,7 +1,7 @@
 {
  "date": "2026-10-26",
- "generated_at": 1792950386.4765608,
- "count": 11,
+ "generated_at": 1792952502.3930933,
+ "count": 14,
  "items": [
   {
    "id": "0f9d9b0c4ee613dd",
@@ -11,6 +11,24 @@
    "summary": "Article URL: https://talkweb.eu/openweb/4558/ Comments URL: https://news.ycombinator.com/item?id=50233929 Points: 3 # Comments: 0",
    "published_at": 1792949455.0,
    "published_bj": "2026-10-26 01:30"
+  },
+  {
+   "id": "0d5d549702c337cb",
+   "source": "Hacker News",
+   "title": "Fuck Nuance (2015)",
+   "url": "https://crookedtimber.org/2015/08/31/fuck-nuance/",
+   "summary": "Article URL: https://crookedtimber.org/2015/08/31/fuck-nuance/ Comments URL: https://news.ycombinator.com/item?id=50233883 Points: 8 # Comments: 1",
+   "published_at": 1792949168.0,
+   "published_bj": "2026-10-26 01:26"
+  },
+  {
+   "id": "86d9f2d9a11d698f",
+   "source": "Hacker News",
+   "title": "A 10-year-old CNN outperforms frontier LLMs for skin cancer diagnosis",
+   "url": "https://lynchlab.net/llm-skin-cancer",
+   "summary": "Article URL: https://lynchlab.net/llm-skin-cancer Comments URL: https://news.ycombinator.com/item?id=50233779 Points: 68 # Comments: 30",
+   "published_at": 1792948538.0,
+   "published_bj": "2026-10-26 01:15"
   },
   {
    "id": "38203d9835559177",
@@ -74,6 +92,15 @@
    "summary": "Article URL: https://www.theatlantic.com/ideas/2026/10/ai-math-human-future/689133/ Comments URL: https://news.ycombinator.com/item?id=50233347 Points: 23 # Comments: 10",
    "published_at": 1792945881.0,
    "published_bj": "2026-10-26 00:31"
+  },
+  {
+   "id": "f7b09f56d2746794",
+   "source": "Hacker News",
+   "title": "Jukebox-OS: Deterministic time-travel replay and ACID tool sandbox for AI agents",
+   "url": "https://github.com/socrates6969/jukebox-os",
+   "summary": "Article URL: https://github.com/socrates6969/jukebox-os Comments URL: https://news.ycombinator.com/item?id=50233325 Points: 6 # Comments: 0",
+   "published_at": 1792945786.0,
+   "published_bj": "2026-10-26 00:29"
   },
   {
    "id": "0d3824b0e1e8a509",
