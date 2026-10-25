@@ -1,8 +1,44 @@
 {
  "date": "2026-10-26",
- "generated_at": 1792963210.718712,
- "count": 33,
+ "generated_at": 1792964992.7948647,
+ "count": 38,
  "items": [
+  {
+   "id": "e32bc7465770af1c",
+   "source": "TechCrunch",
+   "title": "Grok releases the first seven minutes of its AI-generated ‘Odyssey’",
+   "url": "https://techcrunch.com/2026/10/25/grok-releases-the-first-seven-minutes-of-its-ai-generated-odyssey/",
+   "summary": "The footage looks okay, as long as you're not seeking artistry, inspiration, or human interest.",
+   "published_at": 1792963876.0,
+   "published_bj": "2026-10-26 05:31"
+  },
+  {
+   "id": "60669c98be79ab9f",
+   "source": "Hacker News",
+   "title": "OpenAI and Anthropic cut their LLM prices by up to 80% within a few months. Why?",
+   "url": "https://minimaxir.com/2026/10/cheap-llms/",
+   "summary": "Article URL: https://minimaxir.com/2026/10/cheap-llms/ Comments URL: https://news.ycombinator.com/item?id=50236102 Points: 11 # Comments: 4",
+   "published_at": 1792962691.0,
+   "published_bj": "2026-10-26 05:11"
+  },
+  {
+   "id": "011bd4c2f5877ef6",
+   "source": "Hacker News",
+   "title": "Serbia's Vucic concedes election defeat in historic win for student movement",
+   "url": "https://www.reuters.com/world/europe/serbia-votes-students-seek-unseat-vucic-snap-election-2026-10-25/",
+   "summary": "Article URL: https://www.reuters.com/world/europe/serbia-votes-students-seek-unseat-vucic-snap-election-2026-10-25/ Comments URL: https://news.ycombinator.com/item?id=50236081 Points: 18 # Comments: 0",
+   "published_at": 1792962508.0,
+   "published_bj": "2026-10-26 05:08"
+  },
+  {
+   "id": "2474616643f69485",
+   "source": "Hacker News",
+   "title": "The State of Context Engineering",
+   "url": "https://www.dbreunig.com/2026/10/24/the-state-of-context-engineering.html",
+   "summary": "Article URL: https://www.dbreunig.com/2026/10/24/the-state-of-context-engineering.html Comments URL: https://news.ycombinator.com/item?id=50235780 Points: 5 # Comments: 0",
+   "published_at": 1792960351.0,
+   "published_bj": "2026-10-26 04:32"
+  },
   {
    "id": "22b3d1097588aa89",
    "source": "Hacker News",
@@ -20,6 +56,15 @@
    "summary": "\"That's a 12-year-old view of the world.\"",
    "published_at": 1792959608.0,
    "published_bj": "2026-10-26 04:20"
+  },
+  {
+   "id": "fb11523e7fe490a1",
+   "source": "Hacker News",
+   "title": "Focused Company Operating Principles",
+   "url": "https://focused.io/operating-principles",
+   "summary": "Article URL: https://focused.io/operating-principles Comments URL: https://news.ycombinator.com/item?id=50235639 Points: 3 # Comments: 0",
+   "published_at": 1792959411.0,
+   "published_bj": "2026-10-26 04:16"
   },
   {
    "id": "991860ec28fde9eb",
