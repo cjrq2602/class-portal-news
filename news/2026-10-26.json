@@ -1,8 +1,17 @@
 {
  "date": "2026-10-26",
- "generated_at": 1792961299.3582656,
- "count": 31,
+ "generated_at": 1792963210.718712,
+ "count": 33,
  "items": [
+  {
+   "id": "22b3d1097588aa89",
+   "source": "Hacker News",
+   "title": "What goes into making an animated film?",
+   "url": "https://www.disneyanimation.com/process/",
+   "summary": "Article URL: https://www.disneyanimation.com/process/ Comments URL: https://news.ycombinator.com/item?id=50235738 Points: 14 # Comments: 3",
+   "published_at": 1792960029.0,
+   "published_bj": "2026-10-26 04:27"
+  },
   {
    "id": "c2439656e99a8362",
    "source": "TechCrunch",
@@ -92,6 +101,15 @@
    "summary": "Article URL: https://www.wiz.io/blog/gheist-attempted-scaled-abuse-of-stolen-github-tokens-stumbles Comments URL: https://news.ycombinator.com/item?id=50235010 Points: 8 # Comments: 0",
    "published_at": 1792955436.0,
    "published_bj": "2026-10-26 03:10"
+  },
+  {
+   "id": "33e5658be87e1cca",
+   "source": "Hacker News",
+   "title": "Where the Romans Fought (interactive map)",
+   "url": "https://iosiflazaridis.github.io/battles-of-the-romans/",
+   "summary": "Article URL: https://iosiflazaridis.github.io/battles-of-the-romans/ Comments URL: https://news.ycombinator.com/item?id=50234879 Points: 4 # Comments: 0",
+   "published_at": 1792954694.0,
+   "published_bj": "2026-10-26 02:58"
   },
   {
    "id": "809968553e794b77",
