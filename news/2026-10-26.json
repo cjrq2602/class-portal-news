@@ -1,8 +1,17 @@
 {
  "date": "2026-10-26",
- "generated_at": 1792957452.7435098,
- "count": 26,
+ "generated_at": 1792959442.471013,
+ "count": 29,
  "items": [
+  {
+   "id": "991860ec28fde9eb",
+   "source": "Hacker News",
+   "title": "Eunice is almost here (William Gibson, Agency)",
+   "url": "https://armincat.com/articles/eunice-is-almost-here",
+   "summary": "Article URL: https://armincat.com/articles/eunice-is-almost-here Comments URL: https://news.ycombinator.com/item?id=50235316 Points: 10 # Comments: 1",
+   "published_at": 1792957227.0,
+   "published_bj": "2026-10-26 03:40"
+  },
   {
    "id": "f3384658313d3414",
    "source": "cnBeta",
@@ -47,6 +56,24 @@
    "summary": "2010 年的夏天，如果你的电脑报错、蓝屏，大概率你会打开百度搜索，在百度知道的热心网友的帮助下，解决问题 。 但现在呢？世超简单试了一下，搜索 “ 特斯拉Model3 尺寸 ” ，第一页的结果已经没有百度知道了。顶部，那必然是 AI 。 阅读全文",
    "published_at": 1792956947.0,
    "published_bj": "2026-10-26 03:35"
+  },
+  {
+   "id": "3a6717d6bb2d8fae",
+   "source": "Hacker News",
+   "title": "Moderna and Merck say their mRNA cancer vaccine cut death, recurrence by 42%",
+   "url": "https://arstechnica.com/health/2026/10/personalized-mrna-cancer-vaccine-cut-melanoma-death-recurrence-by-42/",
+   "summary": "Article URL: https://arstechnica.com/health/2026/10/personalized-mrna-cancer-vaccine-cut-melanoma-death-recurrence-by-42/ Comments URL: https://news.ycombinator.com/item?id=50235217 Points: 33 # Comments: 0",
+   "published_at": 1792956556.0,
+   "published_bj": "2026-10-26 03:29"
+  },
+  {
+   "id": "59017bbbcb44a546",
+   "source": "Hacker News",
+   "title": "Why I Am a Programmer",
+   "url": "https://www.alfie.wtf/programming/why-i-am-a-programmer.html",
+   "summary": "Article URL: https://www.alfie.wtf/programming/why-i-am-a-programmer.html Comments URL: https://news.ycombinator.com/item?id=50235017 Points: 4 # Comments: 3",
+   "published_at": 1792955491.0,
+   "published_bj": "2026-10-26 03:11"
   },
   {
    "id": "809968553e794b77",
