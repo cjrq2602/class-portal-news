@@ -1,7 +1,7 @@
 {
  "date": "2026-10-25",
- "generated_at": 1792900481.949151,
- "count": 80,
+ "generated_at": 1792902326.459196,
+ "count": 85,
  "items": [
   {
    "id": "9342ea7ec5db5f39",
@@ -20,6 +20,42 @@
    "summary": "点击查看原文>",
    "published_at": 1792919160.0,
    "published_bj": "2026-10-25 17:06"
+  },
+  {
+   "id": "f5503d75f230826b",
+   "source": "IT之家",
+   "title": "苹果 iPhone Duo 拆解：双电池 4883mAh，无实体 SIM 卡槽",
+   "url": "https://www.ithome.com/1/017/578.htm",
+   "summary": "IT之家 10 月 25 日消息，YouTube 频道 REWA Technology 与 Phone Repair Guru 放出了首批 iPhone Duo 的拆机视频，让外界得以看清这款折叠机型的内部构造。 IT之家注意到，iPhone Duo 采用双电芯设计，两块电池都依靠电控胶拆卸： 大容量电池：2962 mAh（11.56 Wh） 小容量电池：1921 mAh（7.5 Wh） 总容量：4883 mAh REWA 的视频给出了主板元件标注：板载 A20 Pro 芯片 + C2 蜂窝基带等核心组件。 维修难点与模块化设计 1. Touch ID 按键：理论上可以单独拆下维修，但拆解难度",
+   "published_at": 1792902303.0,
+   "published_bj": "2026-10-25 12:25"
+  },
+  {
+   "id": "6acd293018596926",
+   "source": "IT之家",
+   "title": "保时捷在美召回 548 辆 911/718：存在掉轮风险，车主应立即停驶",
+   "url": "https://www.ithome.com/1/017/577.htm",
+   "summary": "IT之家 10 月 25 日消息，当地时间 23 日，据美媒 Car And Driver 报道，数百辆保时捷 911 和 718 跑车正面临车轮脱落的风险。 保时捷宣布扩大此前 因车轮中央锁止装置存在缺陷 而发起的召回，并要求受影响车主 立即停驶 。美国国家公路交通安全管理局（NHTSA）的数据显示，此次新增召回 548 辆 2024 款汽车，涉及 911 GT3、911 GT3 RS、911 Turbo、911 Turbo S、911 S/T、911 Carrera GTS、718 Cayman GT4 RS 和 718 Spyder RS 。 保时捷最早于 2024 年 10 月召回 2",
+   "published_at": 1792901751.0,
+   "published_bj": "2026-10-25 12:15"
+  },
+  {
+   "id": "7239508afb70e744",
+   "source": "IT之家",
+   "title": "张雪谈成功挑战“水上漂”吉尼斯世界纪录自己表现：打 99 分，留 1 分不要太骄傲",
+   "url": "https://www.ithome.com/1/017/576.htm",
+   "summary": "IT之家 10 月 25 日消息，“张雪机车”创始人张雪今日驾驶改装摩托车 MX450，在湖南省怀化市麻阳苗族自治县郭公坪镇小坡村， 成功挑战“改装摩托车在开阔水域行驶最远距离”吉尼斯世界纪录 。 赛后，张雪在接受采访时表示，挑战过程中发挥还是很稳定的，出去之后没有刻意拉高车速。如果没有挑战成功，还是很丢脸的，所以很谨慎。 张雪还给自己今天的表现打了 99 分，称留 1 分不要太骄傲 。 IT之家注：此次挑战的吉尼斯官方认证类别为“改装摩托车在开阔水域行驶最远距离”，核心考核水面持续滑行的距离。 此前该项目的世界纪录约为 31.8 公里 ，由一名澳大利亚车手保持。 张雪团队将目标距离设定为 4",
+   "published_at": 1792901119.0,
+   "published_bj": "2026-10-25 12:05"
+  },
+  {
+   "id": "6fd2542852ba8c66",
+   "source": "Hacker News",
+   "title": "Five Qwen3.8-27B models outperform Fable 5 Using GVS5H Harness",
+   "url": "https://github.com/slee-persis/GVS5H",
+   "summary": "Article URL: https://github.com/slee-persis/GVS5H Comments URL: https://news.ycombinator.com/item?id=50228167 Points: 5 # Comments: 0",
+   "published_at": 1792900561.0,
+   "published_bj": "2026-10-25 11:56"
   },
   {
    "id": "d129c8973def529e",
@@ -92,6 +128,15 @@
    "summary": "IT之家 10 月 25 日消息，综合日经亚洲及 NHK 报道，斯巴鲁计划在本世纪 20 年代末之前推出支持远程软件升级的软件定义汽车，同时加大数字化设计和测试技术的应用力度，争取将下一代车型的 研发周期缩短 40% 。 具体措施方面，斯巴鲁计划以数字仿真技术取代大部分实车碰撞试验，大幅缩短新车开发周期。汽车制造商在开发新车型时，通常需要反复进行实车碰撞试验，以验证车辆的安全性。斯巴鲁称， 利用历史数据进行数字仿真，也能获得与实车试验相近的结果 。 斯巴鲁希望通过减少实车试验，并让合作企业员工与公司研发人员集中办公，将新车开发周期缩短 40%。 斯巴鲁执行役员渡森孝有认为，数字技术 能够显著提",
    "published_at": 1792896711.0,
    "published_bj": "2026-10-25 10:51"
+  },
+  {
+   "id": "8b0476d78a90fa48",
+   "source": "Hacker News",
+   "title": "Attention people who think UB is fine",
+   "url": "https://blog.habets.se/2026/10/Attention-people-who-think-UB-is-fine.html",
+   "summary": "Article URL: https://blog.habets.se/2026/10/Attention-people-who-think-UB-is-fine.html Comments URL: https://news.ycombinator.com/item?id=50227814 Points: 3 # Comments: 1",
+   "published_at": 1792896632.0,
+   "published_bj": "2026-10-25 10:50"
   },
   {
    "id": "66e120551c1115c7",
