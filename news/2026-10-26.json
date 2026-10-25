@@ -1,7 +1,7 @@
 {
  "date": "2026-10-26",
- "generated_at": 1792964992.7948647,
- "count": 38,
+ "generated_at": 1792966656.3601606,
+ "count": 39,
  "items": [
   {
    "id": "e32bc7465770af1c",
@@ -155,6 +155,15 @@
    "summary": "Article URL: https://iosiflazaridis.github.io/battles-of-the-romans/ Comments URL: https://news.ycombinator.com/item?id=50234879 Points: 4 # Comments: 0",
    "published_at": 1792954694.0,
    "published_bj": "2026-10-26 02:58"
+  },
+  {
+   "id": "53ab19028baaeaca",
+   "source": "Hacker News",
+   "title": "AI didn't cause the tech jobs bust, but it explains why there's no recovery",
+   "url": "https://vithushansylvester.com/writing/the-real-impact-of-ai-on-tech-jobs",
+   "summary": "Article URL: https://vithushansylvester.com/writing/the-real-impact-of-ai-on-tech-jobs Comments URL: https://news.ycombinator.com/item?id=50234699 Points: 5 # Comments: 2",
+   "published_at": 1792953743.0,
+   "published_bj": "2026-10-26 02:42"
   },
   {
    "id": "809968553e794b77",
