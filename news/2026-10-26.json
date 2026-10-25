@@ -1,8 +1,53 @@
 {
  "date": "2026-10-26",
- "generated_at": 1792955331.676671,
- "count": 19,
+ "generated_at": 1792957452.7435098,
+ "count": 26,
  "items": [
+  {
+   "id": "f3384658313d3414",
+   "source": "cnBeta",
+   "title": "Xbox索要8亿美元授权费导致Netflix退出游戏改编独家合作谈判",
+   "url": "https://www.cnbeta.com.tw/articles/game/1583822.htm",
+   "summary": "微软旗下Xbox与流媒体平台Netflix曾就游戏知识产权的影视改编权展开谈判，但双方在授权费用上存在明显分歧，最终未能达成协议。Netflix据称愿意支付5亿美元，换取为期七年的独家影视改编权，而Xbox方面则将报价提高至8亿美元。随着Netflix内部管理层发生调整，这项合作计划据报已经搁置。 阅读全文",
+   "published_at": 1792957173.0,
+   "published_bj": "2026-10-26 03:39"
+  },
+  {
+   "id": "1e1e3b915ef2b243",
+   "source": "cnBeta",
+   "title": "科学家首次在金属中发现“被困电子波” 微小原子缺陷揭开量子谜团",
+   "url": "https://www.cnbeta.com.tw/articles/science/1583820.htm",
+   "summary": "美国哥伦比亚大学研究团队宣布取得一项重要量子物理突破。研究人员首次在一种金属材料中直接观察到被束缚的电子波现象，这一发现验证了量子力学长期以来的理论预测，并为未来操控金属中的量子态开辟了新的研究方向。 阅读全文",
+   "published_at": 1792957141.0,
+   "published_bj": "2026-10-26 03:39"
+  },
+  {
+   "id": "717957b743845255",
+   "source": "cnBeta",
+   "title": "新型防护服涂层可分解神经毒剂 真菌色素与锆材料联手降低化学武器威胁",
+   "url": "https://www.cnbeta.com.tw/articles/science/1583818.htm",
+   "summary": "美国西北大学的研究人员正在开发一种新型织物涂层，有望让防护服不仅能够阻挡危险化学物质，还能主动分解并降低部分剧毒物质的毒性。这项研究最初源于军事领域对化学武器防护的需求，未来也可能为农业、化工制造等经常接触有害化学物质的行业提供新的防护方案。 阅读全文",
+   "published_at": 1792957096.0,
+   "published_bj": "2026-10-26 03:38"
+  },
+  {
+   "id": "42fd54ff93bf204d",
+   "source": "cnBeta",
+   "title": "苹果首款折叠屏iPhone陷质量疑云 多名用户反映内屏因疑似铰链缺陷损坏",
+   "url": "https://www.cnbeta.com.tw/articles/tech/1583816.htm",
+   "summary": "苹果首款折叠屏手机iPhone Duo上市后不久，部分首批用户便在网络上报告了一项严重问题。多起案例显示，设备内屏出现高度一致的损坏现象，外界怀疑问题可能与铰链结构缺陷有关。 阅读全文",
+   "published_at": 1792957058.0,
+   "published_bj": "2026-10-26 03:37"
+  },
+  {
+   "id": "e449a9c923f6fa39",
+   "source": "cnBeta",
+   "title": "领先一个时代的百度知道 是不是已经无人在意了？",
+   "url": "https://www.cnbeta.com.tw/articles/tech/1583814.htm",
+   "summary": "2010 年的夏天，如果你的电脑报错、蓝屏，大概率你会打开百度搜索，在百度知道的热心网友的帮助下，解决问题 。 但现在呢？世超简单试了一下，搜索 “ 特斯拉Model3 尺寸 ” ，第一页的结果已经没有百度知道了。顶部，那必然是 AI 。 阅读全文",
+   "published_at": 1792956947.0,
+   "published_bj": "2026-10-26 03:35"
+  },
   {
    "id": "809968553e794b77",
    "source": "Hacker News",
@@ -130,6 +175,15 @@
    "published_bj": "2026-10-26 00:43"
   },
   {
+   "id": "fdf308cfc10c7c2f",
+   "source": "Hacker News",
+   "title": "UTS #39: Unicode Security Mechanisms",
+   "url": "https://unicode.org/reports/tr39/",
+   "summary": "Article URL: https://unicode.org/reports/tr39/ Comments URL: https://news.ycombinator.com/item?id=50233438 Points: 8 # Comments: 0",
+   "published_at": 1792946437.0,
+   "published_bj": "2026-10-26 00:40"
+  },
+  {
    "id": "fe07afe02efbc29b",
    "source": "Hacker News",
    "title": "A Mathematician Reads the AI Future",
@@ -155,6 +209,15 @@
    "summary": "Article URL: https://www.dailycal.org/news/campus/academics/ai-use-leads-uc-berkeley-math-professor-to-see-no-point-in-grading-homework/article_bdf1eae2-c08b-491f-b9f1-81a7cea177de.html Comments URL: https://news.ycombinator.com/item?id=50233304 Points: 15 # Comments: 17",
    "published_at": 1792945706.0,
    "published_bj": "2026-10-26 00:28"
+  },
+  {
+   "id": "5b0db56e1a88ba6a",
+   "source": "Hacker News",
+   "title": "JetBrains Thinkrail",
+   "url": "https://github.com/JetBrains/thinkrail",
+   "summary": "Article URL: https://github.com/JetBrains/thinkrail Comments URL: https://news.ycombinator.com/item?id=50233294 Points: 37 # Comments: 5",
+   "published_at": 1792945632.0,
+   "published_bj": "2026-10-26 00:27"
   },
   {
    "id": "4afb04466abb0030",
