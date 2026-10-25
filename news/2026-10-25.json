@@ -1,8 +1,53 @@
 {
  "date": "2026-10-25",
- "generated_at": 1792936097.6795933,
- "count": 226,
+ "generated_at": 1792938072.734396,
+ "count": 236,
  "items": [
+  {
+   "id": "5ba95dcf68230318",
+   "source": "IT之家",
+   "title": "再添新色？全新 smart 精灵 2 号蓝色版实车曝光",
+   "url": "https://www.ithome.com/1/017/706.htm",
+   "summary": "IT之家 10 月 25 日消息，小红书博主 @ 王大王于 10 月 23 日分享了一组全新 smart 精灵 2 号蓝色版实车照片，目前尚不清楚是否会在国内市场推出。 据此前报道，全新 smart 精灵 2 号将于 11 月 5 日正式上市。新车搭载 35.8kWh 宁德时代磷酸铁锂电芯，CLTC 工况实现最高 410km 纯电续航。 据IT之家此前报道，9 月 14 日，全新 smart 精灵 2 号早鸟计划已开启，下订金额 298 元。而全新 smart 精灵 2 号鎏金高定版小车已于 10 月 12 日正式上市，中国限量发售 999 台， 官方零售价 112,999 元 。 工信部申报",
+   "published_at": 1792937983.0,
+   "published_bj": "2026-10-25 22:19"
+  },
+  {
+   "id": "4600877139058189",
+   "source": "IT之家",
+   "title": "雷蛇幻影战狼 V4 系列手柄发售：电容摇杆，竞技版 799 元、专业版 1599 元",
+   "url": "https://www.ithome.com/1/017/705.htm",
+   "summary": "IT之家 10 月 25 日消息，Razer（雷蛇）现已启动 Wolverine 幻影战狼 V4 系列手柄控制器的国行销售： Tournament Edition 竞技版为 799 元 、 Pro 专业版为 1,599 元 。 ▲ 幻影战狼 V4 专业版 两款幻影战狼 V4 手柄均 配备高分辨率电容式拇指控制杆 、可调式长 / 短双模扳机，提供 4 个鼠标点击式背面按键、2 个抓握式宏肩键、浮动式八向 D-Pad，在电脑端支持 8kHz 轮询率。 竞技版的幻影战狼 V4 仅支持有线连接 ； 专业版型号支持三模连接 ，同时背面按键可拆卸，面盖可更换，提供短凹面 / 高凹面 2 种拇指控制杆帽。 ",
+   "published_at": 1792937959.0,
+   "published_bj": "2026-10-25 22:19"
+  },
+  {
+   "id": "011a2a4344cd1a61",
+   "source": "IT之家",
+   "title": "比亚迪腾势 Z9GT 在香港上市，99.8 万港元",
+   "url": "https://www.ithome.com/1/017/704.htm",
+   "summary": "IT之家 10 月 25 日消息，比亚迪今天宣布，其旗舰车型 DENZA（腾势） Z9GT 正式登陆香港， 官方售价 99.8 万港元 （IT之家注：现汇率约合 85.2 万元人民币） ，为香港高端用户带来全新豪华出行体验。 IT之家从比亚迪公众号了解到， DENZA Z9GT 是香港市场首款搭载极速闪充技术 、 第二代刀片电池的豪华车型 ，整车采用优雅的经典 GT 车身设计。 此外，该车搭载 850kW 超高峰值动力，零百加速 2.7 秒，拥有 1000V 高压平台与第二代刀片电池，配备专属易三方智能控制系统，可实现精准操控、平稳底盘质感和全场景智慧驾驶的融合。",
+   "published_at": 1792937756.0,
+   "published_bj": "2026-10-25 22:15"
+  },
+  {
+   "id": "a4fa2f29bfc257da",
+   "source": "TechCrunch",
+   "title": "The hottest AI wearables and gadgets you should know about",
+   "url": "https://techcrunch.com/2026/10/25/the-hottest-ai-wearables-and-gadgets-you-should-know-about/",
+   "summary": "We compiled a list of all the hottest AI wearables, including Muse Charm, Bee, Friend, Plaud, and more.",
+   "published_at": 1792937400.0,
+   "published_bj": "2026-10-25 22:10"
+  },
+  {
+   "id": "ca5412a1db7085cb",
+   "source": "IT之家",
+   "title": "铺路铺到苹果家：开发者成功令微软 Surface Duo 2 运行 iOS / iPadOS 26 系统",
+   "url": "https://www.ithome.com/1/017/703.htm",
+   "summary": "IT之家 10 月 25 日消息，随着 AI 技术突飞猛进，许多开发者在大模型辅助加持之下对各种老旧机型进行折腾，例如博主 @none25smu 便发文，展示其成功为微软 Surface Duo 2 刷入苹果 iOS/iPadOS 26 系统。 开发者表示，在其他人尝试移植 iOS 16/17 时，自己一直在推进 iPadOS 26 移植计划，目前已成功令微软 Surface Duo 2 运行 iOS / iPadOS 26 ，当下相应移植项目尽管仍处于早期开发阶段，不过已实现双屏运行，在硬件加速方面也取得一定进展。 在最新进展中，开发者透露 Surface Duo 2 的两块屏幕目前均可达到",
+   "published_at": 1792936843.0,
+   "published_bj": "2026-10-25 22:00"
+  },
   {
    "id": "16021f72745623e7",
    "source": "InfoQ中文",
@@ -11,6 +56,33 @@
    "summary": "点击查看原文>",
    "published_at": 1792936800.0,
    "published_bj": "2026-10-25 22:00"
+  },
+  {
+   "id": "1ef6ead6c6fdfda1",
+   "source": "IT之家",
+   "title": "本田、三菱签署首份互补汽车产品供应 MOU：本田牌皮卡将驶入东盟",
+   "url": "https://www.ithome.com/1/017/702.htm",
+   "summary": "IT之家 10 月 25 日消息，本田汽车、三菱汽车当地时间 22 日宣布签署双方首份互补性四轮汽车产品供应谅解备忘录 (MOU)： 本田将以基于三菱 Triton 平台的车型进军当前未涉足的东盟皮卡市场 。 三菱 Triton 是一款采用坚固梯形车架设计的一吨级皮卡，是三菱汽车的全球战略车型之一，在东盟地区市场拥有旺盛需求。本田版车型将由两家企业共同开发， 预计 2028 年上市 。 得益于双方的合作关系，本田可快速高效地拓展其在特定细分市场的产品线。同时，此次合作也有利于三菱汽车泰国工厂的产能与产能利用率提升。",
+   "published_at": 1792936659.0,
+   "published_bj": "2026-10-25 21:57"
+  },
+  {
+   "id": "51f7a98423d1dab8",
+   "source": "IT之家",
+   "title": "苹果发布 iPhone Duo 支持文档，帮助用户排查铰链和屏幕问题",
+   "url": "https://www.ithome.com/1/017/701.htm",
+   "summary": "IT之家 10 月 25 日消息，苹果现已为 iPhone Duo 折叠屏手机发布一批支持文档，其中最值得关注的是排除铰链故障指南。如果您手上的 iPhone Duo 开合时发出异常声响，或是无法正常合上，不妨参考这份指南。 苹果这份指南中列明，用户需留意 iPhone Duo 无法完全打开或关闭、折叠时发出异常声音，以及铰链松动等情况。苹果建议用户先取下保护壳或屏幕保护膜，接下来检查铰链是否能让手机稳定悬停在不同角度，或查看是否有污垢或灰尘卡在其中， 然后用柔软 、 微湿且不起毛的布清洁屏幕 。 IT之家注意到，该指南还明确指出，这类硬件问题无法通过软件修复。清洁屏幕务必拔掉所有线缆并关闭手",
+   "published_at": 1792936611.0,
+   "published_bj": "2026-10-25 21:56"
+  },
+  {
+   "id": "6e268da3d589e14e",
+   "source": "IT之家",
+   "title": "16G 内存 + 骁龙 8 至尊版处理器：小米 REDMI K90 至尊版手机 2353 元近期好价",
+   "url": "https://www.ithome.com/1/017/700.htm",
+   "summary": "小米 REDMI K90 至尊版手机今年 7 月发布，16+256G 首销到手价 2799 元。 今日天猫数码自营 88VIP 仅需 2353 元即可入手，近期好价： 点击下方卡片领券后 → 点击 宝贝右上角“ … ” → 点击弹出页面 右下角“ 淘金币 ” 下单即可： 天猫 小米 REDMI K90 至尊版 16+256G 折后 2353 元 直达链接 本次需 88VIP 3000-300 元家电数码券与 201 元淘金币， 如果价格不对 ： 部分小伙伴 88VIP 3000-300 元家电数码券可能需手动领取下：淘宝 App 右下角“我的” → 88VIP 领 3000-300 即可领取。",
+   "published_at": 1792936216.0,
+   "published_bj": "2026-10-25 21:50"
   },
   {
    "id": "3fbff9c0c4871882",
@@ -47,6 +119,15 @@
    "summary": "IT之家 10 月 25 日消息，一加 Ace7 系列新品发布会将于 10 月 29 日 19:00 举行，据官方最新预热，一加 Ace 7 系列支持 IP66/68/69/69K 超豪华防尘防水。 据此前官方介绍，全新一加 Ace7 系列带来旗舰的质感设计：「风暴岛」隐藏式进风口，凭借空气动力学设计带来更大进风风量；「星际光效」自定义呼吸灯，让你游戏更有氛围，来电和通知也能实时提醒。此外，该机还搭载旗舰金属中框，全新 AG 丝绸玻璃工艺。 IT之家注意到，一加手机已官宣一加 Ace 7 Pro 搭载 第五代骁龙 8 至尊版 ，行业首创「双路冰河风冷系统」，同时做到稳帧和低温。 此外，新机全系",
    "published_at": 1792935342.0,
    "published_bj": "2026-10-25 21:35"
+  },
+  {
+   "id": "918f794b82c16310",
+   "source": "Hacker News",
+   "title": "Show HN: Farol – a risk map of a pull request for the person who approves it",
+   "url": "https://github.com/winnin/farol",
+   "summary": "Article URL: https://github.com/winnin/farol Comments URL: https://news.ycombinator.com/item?id=50231349 Points: 10 # Comments: 5",
+   "published_at": 1792934886.0,
+   "published_bj": "2026-10-25 21:28"
   },
   {
    "id": "0005f792bedc617d",
@@ -244,6 +325,15 @@
    "url": "https://www.ithome.com/1/017/687.htm",
    "summary": "IT之家 10 月 25 日消息，vivo X500 Ultra 国际版于 10 月 23 日现身 GSMA IMEI 数据库，型号 V2660，这款影像超大杯新品预计将在全球市场上市。 IT之家注意到， vivo X500 系列手机已于 9 月 21 日正式发布，首发带来标准版和 Pro 两杯，全球首发天玑 9600 Pro /天玑 9600M 旗舰芯，定价 5499 元起。 发布会结束后，vivo 副总裁、产品副总裁黄韬接受了媒体采访。他确认 X500 Ultra 机型会正常迭代， 预计明年 3-4 月发布 ，影像会拉开和 Pro Max 的差距，主打先锋用户与专业创作者。 据博主 @数码",
    "published_at": 1792932233.0,
+   "published_bj": "2026-10-25 20:43"
+  },
+  {
+   "id": "62c40371a6c5c175",
+   "source": "Hacker News",
+   "title": "Challenge Is Gone",
+   "url": "https://blog.alxgsv.com/challenge-is-gone/",
+   "summary": "Article URL: https://blog.alxgsv.com/challenge-is-gone/ Comments URL: https://news.ycombinator.com/item?id=50230965 Points: 48 # Comments: 53",
+   "published_at": 1792932232.0,
    "published_bj": "2026-10-25 20:43"
   },
   {
