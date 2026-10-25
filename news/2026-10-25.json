@@ -1,8 +1,89 @@
 {
  "date": "2026-10-25",
- "generated_at": 1792938072.734396,
- "count": 236,
+ "generated_at": 1792940649.061389,
+ "count": 247,
  "items": [
+  {
+   "id": "c55f255c71066250",
+   "source": "IT之家",
+   "title": "国产武侠游戏《影之刃零》10 月 27 日 10:00 开启预下载，游戏本体约 145G",
+   "url": "https://www.ithome.com/1/017/716.htm",
+   "summary": "IT之家 10 月 25 日消息，国产武侠游戏《影之刃零》今晚宣布将于 10 月 27 日 10:00 开启预下载，并公布官方配置要求。 官方提醒，为保障良好的游戏体验，请将游戏安装在固态硬盘 (SSD) 中； 游戏本体约 145G ，由于预下载机制，请预留至少 300G 可用磁盘空间；请务必将显卡驱动更新至最新版本。 IT之家注意到，《影之刃零》将于 10 月 29 日 10 点正式解锁，登陆 PS5 与 PC 平台，国区数字标准版售价 268 元，数字豪华版售价 328 元。PS5 实体光碟将于 2027 年推出。 《影之刃零》由灵游坊自主研发发行，采用虚幻引擎 5 打造，定位黑暗武侠题材",
+   "published_at": 1792940010.0,
+   "published_bj": "2026-10-25 22:53"
+  },
+  {
+   "id": "252af6a145f36bf6",
+   "source": "IT之家",
+   "title": "Home Assistant 将新增 Live USB 安装选项，利好迷你主机用户",
+   "url": "https://www.ithome.com/1/017/715.htm",
+   "summary": "IT之家 10 月 25 日消息，开源智能家居平台 Home Assistant 现已在最新测试版安装程序 0.0.0-alpha.4 中，新增 x86-64 架构的 Live USB 安装选项。未来该功能实装后，有望简化迷你主机安装 Home Assistant OS 的流程。 IT之家了解到，Home Assistant OS 目前已经支持 x86-64 硬件，但现有安装流程要求用户先制作启动盘，再将系统镜像写入到目标磁盘。 而 Live USB 则是可以将系统直接运行在 U 盘上 ， 不需要安装到电脑硬盘 。 同时，本次更新还为 Live USB 带来了全屏界面，并新增校验功能，可验证系",
+   "published_at": 1792939938.0,
+   "published_bj": "2026-10-25 22:52"
+  },
+  {
+   "id": "f8c4c97088e53ff0",
+   "source": "IT之家",
+   "title": "苹果硬件技术部门再迎人事调整：两名显示技术高管退休临近，转任顾问角色",
+   "url": "https://www.ithome.com/1/017/714.htm",
+   "summary": "IT之家 10 月 25 日消息，彭博社记者马克・古尔曼发文，透露今年早些时候，苹果对硬件工程和硬件技术部门进行了大规模调整，将团队交由新任首席硬件官 Johny Srouji 负责。 此外，苹果两名资深显示技术高管 Wei Chen 和 John Zhong 在公司工作约 30 年后，正逐步转向规模更小、偏顾问性质的岗位。这一安排被视为两人未来退休前的过渡步骤。多年来接受两人指导的 Victor Yin，目前已经负责公司相当一部分屏幕相关工作。 苹果还按照每年 10 月通常进行的晋升安排，任命 Rajesh Ambati、Louie Sanguinetti 和 Derek Shaeffer ",
+   "published_at": 1792939922.0,
+   "published_bj": "2026-10-25 22:52"
+  },
+  {
+   "id": "2385362c932d596c",
+   "source": "IT之家",
+   "title": "古尔曼：苹果正为 iPhone Duo 开发全新“便捷访问”模式，方便左撇子用户根据持机习惯调整界面",
+   "url": "https://www.ithome.com/1/017/713.htm",
+   "summary": "IT之家 10 月 25 日消息，彭博社记者马克・古尔曼发文，透露苹果正在为 iPhone Duo 开发新的“便捷访问”（Reachability）模式，可以将外屏“主要内容”移动至左侧或右侧，方便用户根据自己的持机习惯调整界面。 IT之家获悉，此前有不少用户吐槽左撇子用户难以操作 iPhone Duo，不过古尔曼指出，相关担忧可能被夸大。一些左撇子用户表示，外屏交互逻辑并未对他们的日常使用造成太大影响。至于内屏，由于用户经常需要双手操作，左右手习惯的差异也不那么明显。 行业研究机构 IDC 此前预计，苹果首款折叠屏 iPhone 首年出货量将超过 1000 万部，并可能在 2027 年拿下全",
+   "published_at": 1792939611.0,
+   "published_bj": "2026-10-25 22:46"
+  },
+  {
+   "id": "851e5c1ca47d1482",
+   "source": "IT之家",
+   "title": "遏制退货欺诈：苹果开发新型检测设备，可帮助 Apple Store 员工扫描密封包装盒内 iPhone 完整性",
+   "url": "https://www.ithome.com/1/017/712.htm",
+   "summary": "IT之家 10 月 25 日消息，彭博社记者马克・古尔曼发文，透露苹果 Apple Store 零售门店近年来面临一种棘手问题：部分顾客购买 iPhone 或其他产品后，会将包装盒里的设备拿走，再利用配重块调整包装重量，之后将其后封伪装成“未开封”产品进行退款。 为了应对这一问题，苹果曾要求零售店员工仔细检查退货商品，即使包装看起来没有被动过的痕迹，也需要员工亲自打开包装确认设备是否完整。但在大多数正常退货案例中，消费者并没有恶意，这一流程却会造成额外的库存损耗。 如今，苹果开发了一种新的检测设备，可以扫描包装内的 iPhone 并运行诊断程序，确认设备是否完整，同时保持包装密封，使商品能够重",
+   "published_at": 1792939386.0,
+   "published_bj": "2026-10-25 22:43"
+  },
+  {
+   "id": "0a388be54de8b384",
+   "source": "IT之家",
+   "title": "古尔曼：苹果首款触屏 MacBook Pro 北京时间 10 月 29 日发布，标志公司产品策略迎来重大转变",
+   "url": "https://www.ithome.com/1/017/711.htm",
+   "summary": "IT之家 10 月 25 日消息，彭博社记者马克・古尔曼发文，透露苹果首款触屏 MacBook Pro 即将于北京时间 10 月 29 日凌晨 1 点正式亮相。这款产品不仅将为 Mac 产品线引入触控操作，还将采用 OLED 屏幕和全新的交互界面，成为苹果近年来产品策略转变的又一例证。 苹果高管过去曾多次在相关产品正式推出前否认公司有意进入某些市场。无论是智能手机、平板电脑，还是近年来的低价笔记本、折叠屏手机和智能家居显示设备，苹果最终都陆续推出了相应产品。但与这些品类不同，触屏笔记本长期以来一直是苹果明确表示不看好的方向。 事实上， 乔布斯曾将触屏笔记本形容为“在人体工程学上糟糕透顶”的设计",
+   "published_at": 1792939075.0,
+   "published_bj": "2026-10-25 22:37"
+  },
+  {
+   "id": "593709a964512098",
+   "source": "IT之家",
+   "title": "Claude 桌面应用推出新版界面，从草图到上线用时不到 3 周",
+   "url": "https://www.ithome.com/1/017/710.htm",
+   "summary": "IT之家 10 月 25 日消息，Anthropic 设计工程师蔡斯 · 麦科伊（ Chase McCoy ）昨日宣布，Claude 桌面应用已推出全新界面。 IT之家注意到，新版界面由 Claude 帮助设计，从草图到正式上线，整个过程不到 3 周。 部分用户在评论区中指出，新版界面的信息密度较低， 摒弃了衬线字体和暖色调的背景颜色 ，显得很沉闷冰冷，和 ChatGPT 差不多，且项目面板的可读性也受到了影响。不过，新版界面带来了全新界面和侧边栏功能。",
+   "published_at": 1792938792.0,
+   "published_bj": "2026-10-25 22:33"
+  },
+  {
+   "id": "f42b60d2edfe5f72",
+   "source": "IT之家",
+   "title": "联合创新“D32U1”31.5 英寸显示器发售：4K 60Hz、USB-C 65W，1699 元",
+   "url": "https://www.ithome.com/1/017/709.htm",
+   "summary": "IT之家 10 月 25 日消息，联合创新现已在京东上架一款型号为“D32U1”的 31.5 英寸显示器，该机为 4K 60Hz 规格，定价为 1699 元。 京东 联合创新 D32U1 显示器 券后 1699 元 领 190 元券 该机配备一块 3840x2160 分辨率 60Hz IPS 面板，显示器亮度 350 尼特，对比度 1300:1，显示器支持 10-Bit 色彩（8-Bit + FRC）。显示器内置音箱，匹配 USB-C 65W、DP 1.4、HDMI 2.0、3.5mm 音频接口。 IT之家附显示器参数： 京东 11.11 无门槛红包 面额至高 26888 元，每天抽 3 次：",
+   "published_at": 1792938477.0,
+   "published_bj": "2026-10-25 22:27"
+  },
+  {
+   "id": "d3ddd0d9a762bddd",
+   "source": "IT之家",
+   "title": "华为鸿蒙 HarmonyOS 7.0.0.111 版本更多“隐藏”新特性盘点，深色模式随日出日落切换等功能下放",
+   "url": "https://www.ithome.com/1/017/707.htm",
+   "summary": "IT之家 10 月 25 日消息，华为近两日面向 Mate 80 / 70 / 60、Pura 80 / 70 等系列机型推送了最新的鸿蒙 HarmonyOS 7.0.0.111 版本升级，带来了与 iPhone 双机互联，实况窗分享等功能。 ▲ IT之家开箱：华为 Pura 70 Pro+「光织银」图赏 更新日志并未公开全部升级亮点，IT之家盘点上述机型升级鸿蒙 7 后的“隐藏”新功能如下： 更多机型支持 深色模式随日出日落自动切换 （路径：设置 → 显示和亮度 → 深色模式 → 定时开启 → 选择“日落到日出”）。 更多机型支持 桌面下滑功能自定义 。用户可自行选择桌面任意位置下滑时进入小",
+   "published_at": 1792938197.0,
+   "published_bj": "2026-10-25 22:23"
+  },
   {
    "id": "5ba95dcf68230318",
    "source": "IT之家",
@@ -38,6 +119,15 @@
    "summary": "We compiled a list of all the hottest AI wearables, including Muse Charm, Bee, Friend, Plaud, and more.",
    "published_at": 1792937400.0,
    "published_bj": "2026-10-25 22:10"
+  },
+  {
+   "id": "4d9fdcbcd352af86",
+   "source": "Hacker News",
+   "title": "R/open source bans all solo projects and projects using LLMs",
+   "url": "https://www.reddit.com/r/opensource/comments/1xelcuf/your_tokens_arent_valuable_no_more_ai",
+   "summary": "Article URL: https://www.reddit.com/r/opensource/comments/1xelcuf/your_tokens_arent_valuable_no_more_ai Comments URL: https://news.ycombinator.com/item?id=50231722 Points: 19 # Comments: 8",
+   "published_at": 1792937103.0,
+   "published_bj": "2026-10-25 22:05"
   },
   {
    "id": "ca5412a1db7085cb",
@@ -182,6 +272,15 @@
    "summary": "《使命召唤：现代战争4》在Steam首发阶段录得22万7622名同时在线玩家，约为《使命召唤：黑色行动7》推出时的两倍，并延续了抢先体验阶段领先后者的势头。 阅读全文",
    "published_at": 1792934738.0,
    "published_bj": "2026-10-25 21:25"
+  },
+  {
+   "id": "b7e48c601ec284b5",
+   "source": "Hacker News",
+   "title": "US inequality is getting worse in ways you might not expect",
+   "url": "https://theconversation.com/us-inequality-is-getting-worse-in-ways-you-might-not-expect-294075",
+   "summary": "Article URL: https://theconversation.com/us-inequality-is-getting-worse-in-ways-you-might-not-expect-294075 Comments URL: https://news.ycombinator.com/item?id=50231310 Points: 12 # Comments: 11",
+   "published_at": 1792934677.0,
+   "published_bj": "2026-10-25 21:24"
   },
   {
    "id": "b3e2b3bcc53e096a",
