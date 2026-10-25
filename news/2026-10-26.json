@@ -1,8 +1,62 @@
 {
  "date": "2026-10-26",
- "generated_at": 1792945435.3830721,
- "count": 1,
+ "generated_at": 1792947970.7537572,
+ "count": 7,
  "items": [
+  {
+   "id": "5de6fb215bb59385",
+   "source": "TechCrunch",
+   "title": "AI delivers ‘zero financial payoff’ to most companies, Apollo economist says",
+   "url": "https://techcrunch.com/2026/10/25/ai-delivers-zero-financial-payoff-to-most-companies-according-to-apollo-economist/",
+   "summary": "\"Despite massive investments and widespread hype around artificial intelligence, the technology has delivered zero financial payoff to corporate America outside of tech.\"",
+   "published_at": 1792947452.0,
+   "published_bj": "2026-10-26 00:57"
+  },
+  {
+   "id": "67abe38a8edb6429",
+   "source": "cnBeta",
+   "title": "英伟达瞄准GPU软件订阅收入 黄仁勋提出每块GPU每年约2000美元",
+   "url": "https://www.cnbeta.com.tw/articles/tech/1583810.htm",
+   "summary": "英伟达正计划进一步扩大软件业务，希望在销售人工智能芯片之外，通过企业软件许可获得更加稳定的经常性收入。英伟达首席执行官黄仁勋近日在德国柏林举行的GTC活动上谈及这一战略时表示，为运行人工智能代理而提供的软件，可以采用按GPU数量收费的授权模式，价格例如每块GPU每年约2000美元。这一数字引发了业界对英伟达软件业务潜在规模的关注，但目前还不能将其视为已经正式公布的统一收费标准。 阅读全文",
+   "published_at": 1792946777.0,
+   "published_bj": "2026-10-26 00:46"
+  },
+  {
+   "id": "63303300c20d7172",
+   "source": "cnBeta",
+   "title": "Cloudflare警告AI正加速发现软件漏洞 互联网或面临多年安全震荡期",
+   "url": "https://www.cnbeta.com.tw/articles/tech/1583808.htm",
+   "summary": "随着人工智能能力不断提升，网络安全行业正在迎来新的挑战。Cloudflare首席执行官Matthew Prince日前表示，近期引发全球大量网站紧急修补的PHP安全漏洞可能只是开始，人工智能未来几年还将持续发现更多隐藏在关键软件中的严重缺陷，互联网或因此进入长期动荡阶段。 阅读全文",
+   "published_at": 1792946698.0,
+   "published_bj": "2026-10-26 00:44"
+  },
+  {
+   "id": "4e6eca438c8384c4",
+   "source": "cnBeta",
+   "title": "苹果零售店推出 iPhone 防盗检测设备：无需拆封即可检查手机是否完整 减少退货欺诈",
+   "url": "https://www.cnbeta.com.tw/articles/tech/1583806.htm",
+   "summary": "苹果正在为旗下零售店部署一种新的检测设备，旨在防止消费者利用退货流程实施欺诈。借助这套设备，店员可以在不拆开 iPhone 零售包装的情况下，扫描包装内的手机并运行诊断程序，确认设备是否仍然完整，从而减少库存损失，并让符合条件的退货商品更快重新进入销售环节。 阅读全文",
+   "published_at": 1792946588.0,
+   "published_bj": "2026-10-26 00:43"
+  },
+  {
+   "id": "0d3824b0e1e8a509",
+   "source": "Hacker News",
+   "title": "AI use leads UC Berkeley math professor to see 'no point' in grading homework",
+   "url": "https://www.dailycal.org/news/campus/academics/ai-use-leads-uc-berkeley-math-professor-to-see-no-point-in-grading-homework/article_bdf1eae2-c08b-491f-b9f1-81a7cea177de.html",
+   "summary": "Article URL: https://www.dailycal.org/news/campus/academics/ai-use-leads-uc-berkeley-math-professor-to-see-no-point-in-grading-homework/article_bdf1eae2-c08b-491f-b9f1-81a7cea177de.html Comments URL: https://news.ycombinator.com/item?id=50233304 Points: 15 # Comments: 17",
+   "published_at": 1792945706.0,
+   "published_bj": "2026-10-26 00:28"
+  },
+  {
+   "id": "4afb04466abb0030",
+   "source": "Solidot",
+   "title": "在 Google 砍伐了上千英亩树后野狼来到芬兰的村庄",
+   "url": "https://www.solidot.org/story?sid=85706",
+   "summary": "为建造数据中心，Google 在芬兰农村砍伐了 25 万棵树木，清理了多达 1300 英亩的森林，它甚至还铲除了表层土壤。芬兰监管机构以未完成必要环评为由下令工程暂时停工，Google 芬兰高管已为此道歉。Google 砍伐森林的一个后果是由于猎物减少，狼群进入了附近的村庄寻找食物。 当地居民表示，由于森林里的野生动物全都离开了，狼进村了。Google 还在另一个数据中心选址砍伐了 15 万棵树。芬兰不是唯一一个为建造数据中心而生态系统遭到破坏的地方。美国西弗吉尼亚州的栗子树林以及印第安纳州的一处湿地都面临为数据中心让路。",
+   "published_at": 1792944971.0,
+   "published_bj": "2026-10-26 00:16"
+  },
   {
    "id": "b6dd55d9c76dbc82",
    "source": "TechCrunch",

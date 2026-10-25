@@ -1,7 +1,7 @@
 {
  "date": "2026-10-25",
- "generated_at": 1792945435.384295,
- "count": 261,
+ "generated_at": 1792947970.755398,
+ "count": 262,
  "items": [
   {
    "id": "ed809b6f2bea04dc",
@@ -20,6 +20,15 @@
    "summary": "2010 年英国石油公司的深水地平线（Deepwater Horizon）深海钻油平台发生井喷并爆炸，引发了史上规模最大的石油泄漏事故。在封堵油井的 87 天内，有约 1.34 亿加仑原油和 77 亿标准立方英尺的天然气泄漏到墨西哥湾。16 年后，墨西哥湾的深海生态系统仍未从灾难中恢复。研究人员在 2011 年，2015-2023 年收集了样本，发现深海中上层物种的数量急剧下降。数据显示，鱼类数量下降了 63.5%，甲壳类动物下降了 62%，头足类动物（主要指鱿鱼）下降了 59.7%。小型鱼类磷虾数量下降了 72.8%，灯笼鱼下降了 62.9%，圆罩鱼下降了 69%。这些微型鱼类是海洋生态系统",
    "published_at": 1792941753.0,
    "published_bj": "2026-10-25 23:22"
+  },
+  {
+   "id": "9f97682b7b73ff06",
+   "source": "Hacker News",
+   "title": "Ask HN: Can we do something about this impending AI dystopia",
+   "url": "https://news.ycombinator.com/item?id=50232407",
+   "summary": "There have been, increasingly, a large number of posts [1] on HN in the past few weeks, where developers are slowly coming to terms with the breakneck speed with which Agentic Coding has advanced in the past few months. We all agree that an average software developer today is closely resembling the ",
+   "published_at": 1792941130.0,
+   "published_bj": "2026-10-25 23:12"
   },
   {
    "id": "4bf221d14921178a",
