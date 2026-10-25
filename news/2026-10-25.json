@@ -1,8 +1,98 @@
 {
  "date": "2026-10-25",
- "generated_at": 1792940649.061389,
- "count": 247,
+ "generated_at": 1792943393.7195272,
+ "count": 260,
  "items": [
+  {
+   "id": "ed809b6f2bea04dc",
+   "source": "IT之家",
+   "title": "国内首部 AI 院线长片《三星堆：未来往事》，票房过百万",
+   "url": "https://www.ithome.com/1/017/719.htm",
+   "summary": "IT之家 10 月 25 日消息，猫眼专业版数据显示，《三星堆：未来往事》电影票房已达到 116.2 万。 据IT之家了解，《三星堆：未来往事》是国内首部获得国家电影局公映许可证的 AI 全流程院线长片，上映于 10 月 23 日。 本片片长 100 分钟 ，所有角色均为原创数字形象， 不含对真实演员的数字复制 。 同时，本片故事设定在未来人类将一切决策交给算法而引发全球危机，破解困局的线索指向三星堆七个古老刻符，形成“答案在过去，危机在未来”的叙事结构。 这部影片的制作方式决定了它“首部”标签的实质含义。全片依托博纳自研的“博卡电影云片场”完成，创作团队历时两年，产出 120 余万张底图，完",
+   "published_at": 1792942615.0,
+   "published_bj": "2026-10-25 23:36"
+  },
+  {
+   "id": "4bf221d14921178a",
+   "source": "cnBeta",
+   "title": "特朗普宣布奥迪将在佐治亚州投资40亿美元建厂",
+   "url": "https://www.cnbeta.com.tw/articles/tech/1583804.htm",
+   "summary": "美国总统唐纳德·特朗普周六宣布，奥迪计划在佐治亚州建设一座价值40亿美元的组装工厂，每年生产20万辆SUV。特朗普一直在向汽车制造商施压，要求将生产转移至美国，并提高了对汽车、钢铁、铝和零部件的关税。他在佐治亚州中部梅肯附近的佩里举行的一场集会上宣布了这一消息，大众汽车旗下的高端品牌计划在此建设其首家美国组装工厂。 阅读全文",
+   "published_at": 1792941027.0,
+   "published_bj": "2026-10-25 23:10"
+  },
+  {
+   "id": "6226aa11ceb887b2",
+   "source": "cnBeta",
+   "title": "文件元数据显示微软用Mac制作Windows Insider 12周年纪念壁纸",
+   "url": "https://www.cnbeta.com.tw/articles/funny/1583802.htm",
+   "summary": "微软近日为 Windows Insider 预览体验计划成立12周年推出了一组全新桌面壁纸，原本是为了感谢长期参与 Windows 测试的用户，却因为文件中出现的 Mac 相关信息，引发了科技社区的热议。这些壁纸据称由苹果电脑上的 Adobe Photoshop 制作，而微软近期又在积极宣传 Windows 11 和 Surface 电脑的创作能力，这一反差很快成为网友调侃的焦点。 阅读全文",
+   "published_at": 1792940947.0,
+   "published_bj": "2026-10-25 23:09"
+  },
+  {
+   "id": "530aaa057788103f",
+   "source": "cnBeta",
+   "title": "苹果或于本周发布首款触控屏MacBook Pro OLED屏幕与灵动岛设计将同步登场",
+   "url": "https://www.cnbeta.com.tw/articles/tech/1583800.htm",
+   "summary": "苹果计划于10月28日正式发布新一代14英寸和16英寸MacBook Pro产品。这将成为Mac产品线历史上的一次重要升级，新机不仅首次配备支持触控操作的OLED显示屏，还将带来全新的工业设计和交互体验。 阅读全文",
+   "published_at": 1792940936.0,
+   "published_bj": "2026-10-25 23:08"
+  },
+  {
+   "id": "61d53b8d14a4c039",
+   "source": "cnBeta",
+   "title": "美国空军与SpaceX测试利用轨道返回舱投送救生筏、饮用水和急救物资",
+   "url": "https://www.cnbeta.com.tw/articles/science/1583798.htm",
+   "summary": "美国空军研究实验室（AFRL）近日与SpaceX合作，测试了一种利用太空飞行器向地球指定地点快速投送物资的新方案。此次试验使用SpaceX的Starfall轨道返回舱，将包含生存装备、医疗用品和通信定位设备的货运舱送入太空，再通过返回舱的再入系统评估这些物资在经历发射和返回大气层后能否保持完好。这项试验是美国军方“火箭货运”研发计划的一部分，目标是探索利用商业火箭实现全球快速物流的可行性。 阅读全文",
+   "published_at": 1792940920.0,
+   "published_bj": "2026-10-25 23:08"
+  },
+  {
+   "id": "b0f76fd5fd6f45fe",
+   "source": "cnBeta",
+   "title": "三星HBM供应吃紧 数据中心客户愿为长期保障支付溢价",
+   "url": "https://www.cnbeta.com.tw/articles/tech/1583796.htm",
+   "summary": "随着人工智能基础设施建设持续升温，高带宽内存（HBM）已成为全球半导体产业最紧缺的关键组件之一。最新报道称，三星电子正在利用其HBM供应链优势，向部分数据中心客户收取最高可达25%的额外溢价，以换取长期且稳定的供货保障。 阅读全文",
+   "published_at": 1792940747.0,
+   "published_bj": "2026-10-25 23:05"
+  },
+  {
+   "id": "6f8d3023c18e78b3",
+   "source": "Hacker News",
+   "title": "Show HN: I put employees inside S&P 500 market-cap bubbles",
+   "url": "https://bigwhalehunting.com/workforce/",
+   "summary": "Article URL: https://bigwhalehunting.com/workforce/ Comments URL: https://news.ycombinator.com/item?id=50232312 Points: 31 # Comments: 6",
+   "published_at": 1792940739.0,
+   "published_bj": "2026-10-25 23:05"
+  },
+  {
+   "id": "f1ca704368838a63",
+   "source": "IT之家",
+   "title": "古尔曼：苹果正测试配备 OLED 屏幕的 iMac 和 MacBook Air",
+   "url": "https://www.ithome.com/1/017/717.htm",
+   "summary": "IT之家 10 月 25 日消息，彭博社记者马克 · 古尔曼今天在最新一期《Power On》通讯中提到，苹果正在测试新款 iMac 和 MacBook Pro，这两款原型机均配备 OLED 屏幕，表明苹果计划将 OLED 技术引入公司旗下偏大众化的电脑产品， 但具体推出时间暂时还没有准信 。 古尔曼透露， 苹果将在未来几天内推出升级版 iMac ， 但不会搭载 OLED 面板 ；新款 MacBook Air 预计将在 2027 年初亮相，同样也没有采用 OLED。 IT之家注意到，这几年曾有多个传闻称，iMac 和 MacBook Air 产品线都将升级 OLED 面板。2025 年 12 ",
+   "published_at": 1792940709.0,
+   "published_bj": "2026-10-25 23:05"
+  },
+  {
+   "id": "3e94e1efff416865",
+   "source": "cnBeta",
+   "title": "AV2新一代免费视频编码标准加速落地 压缩效率有望比AV1提升约30%",
+   "url": "https://www.cnbeta.com.tw/articles/movie/1583794.htm",
+   "summary": "新一代开放视频编码标准AV2正在从技术规范走向实际应用。开放媒体联盟（AOMedia）近日表示，AV2发布仅数月，相关企业已经开始推进编码器、浏览器支持、视频播放和兼容性测试等工作。英特尔也正在开发基于CPU运行的开源编码器SVT-AV2，为未来的视频压缩和流媒体传输提供新的技术选择。 阅读全文",
+   "published_at": 1792940695.0,
+   "published_bj": "2026-10-25 23:04"
+  },
+  {
+   "id": "f26d55922f258bd1",
+   "source": "cnBeta",
+   "title": "英特尔与微软合作推进APX技术 Windows 11未来有望获得64位性能提升",
+   "url": "https://www.cnbeta.com.tw/articles/tech/1583792.htm",
+   "summary": "微软正在为Windows 11测试一项由英特尔推动的新处理器技术，这项改进有望提升64位应用程序的性能与运行效率。最新消息显示，微软已经在Windows 11测试版本中加入对英特尔APX指令集的支持选项，为未来PC性能优化铺平道路。 阅读全文",
+   "published_at": 1792940671.0,
+   "published_bj": "2026-10-25 23:04"
+  },
   {
    "id": "c55f255c71066250",
    "source": "IT之家",
@@ -55,6 +145,15 @@
    "url": "https://www.ithome.com/1/017/711.htm",
    "summary": "IT之家 10 月 25 日消息，彭博社记者马克・古尔曼发文，透露苹果首款触屏 MacBook Pro 即将于北京时间 10 月 29 日凌晨 1 点正式亮相。这款产品不仅将为 Mac 产品线引入触控操作，还将采用 OLED 屏幕和全新的交互界面，成为苹果近年来产品策略转变的又一例证。 苹果高管过去曾多次在相关产品正式推出前否认公司有意进入某些市场。无论是智能手机、平板电脑，还是近年来的低价笔记本、折叠屏手机和智能家居显示设备，苹果最终都陆续推出了相应产品。但与这些品类不同，触屏笔记本长期以来一直是苹果明确表示不看好的方向。 事实上， 乔布斯曾将触屏笔记本形容为“在人体工程学上糟糕透顶”的设计",
    "published_at": 1792939075.0,
+   "published_bj": "2026-10-25 22:37"
+  },
+  {
+   "id": "d8c8a6d59ccb7688",
+   "source": "Hacker News",
+   "title": "A Few Thoughts on Intensity",
+   "url": "https://www.tylerhogge.com/blog/a-few-thoughts-on-intensity/",
+   "summary": "Article URL: https://www.tylerhogge.com/blog/a-few-thoughts-on-intensity/ Comments URL: https://news.ycombinator.com/item?id=50232035 Points: 7 # Comments: 0",
+   "published_at": 1792939069.0,
    "published_bj": "2026-10-25 22:37"
   },
   {
@@ -328,6 +427,15 @@
    "published_bj": "2026-10-25 21:15"
   },
   {
+   "id": "79c58e2ba98a27e6",
+   "source": "Hacker News",
+   "title": "Samsung TVs look for microphones in your house via Bluetooth and then spy events",
+   "url": "https://twitter.com/freddier/status/2114042326758867453",
+   "summary": "Article URL: https://twitter.com/freddier/status/2114042326758867453 Comments URL: https://news.ycombinator.com/item?id=50231189 Points: 14 # Comments: 1",
+   "published_at": 1792933882.0,
+   "published_bj": "2026-10-25 21:11"
+  },
+  {
    "id": "6c0260c477e4c0ff",
    "source": "IT之家",
    "title": "《流浪地球 3（上）》电影全新物料即将发布，2027 年春节档上映",
@@ -389,6 +497,15 @@
    "summary": "Article URL: https://www.lego.com/en-us/categories/adults-welcome/article/daft-punk Comments URL: https://news.ycombinator.com/item?id=50231001 Points: 8 # Comments: 0",
    "published_at": 1792932491.0,
    "published_bj": "2026-10-25 20:48"
+  },
+  {
+   "id": "0f58dcf5d6c5526a",
+   "source": "Hacker News",
+   "title": "Imagine an AI future where being banned means you are now economically useless",
+   "url": "https://twitter.com/boneGPT/status/2114035719853265264",
+   "summary": "Article URL: https://twitter.com/boneGPT/status/2114035719853265264 Comments URL: https://news.ycombinator.com/item?id=50230995 Points: 23 # Comments: 19",
+   "published_at": 1792932440.0,
+   "published_bj": "2026-10-25 20:47"
   },
   {
    "id": "b5c895c62ede1ad6",
