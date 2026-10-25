@@ -1,8 +1,53 @@
 {
  "date": "2026-10-25",
- "generated_at": 1792885341.5194433,
- "count": 39,
+ "generated_at": 1792887825.397001,
+ "count": 47,
  "items": [
+  {
+   "id": "da845776533559d8",
+   "source": "IT之家",
+   "title": "PayPal 联合创始人彼得 · 蒂尔：后乔布斯时代的苹果“就没再拿出什么新东西”",
+   "url": "https://www.ithome.com/1/017/537.htm",
+   "summary": "IT之家 10 月 25 日消息，据《商业内幕》今天（25 日）凌晨报道，PayPal 联合创始人、亿万富翁兼科技投资人彼得 · 蒂尔认为，自苹果创始人史蒂夫 · 乔布斯于 2011 年因癌症去世以来，苹果的大多数举措 都没能让自己眼前一亮 。 蒂尔接受作家沃尔特 · 艾萨克森采访时直言：“在我看来，乔布斯去世后， 苹果就没再拿出什么新东西 。事实证明，手机确实是一项了不起的发明，但之后也没多少事情可做了。接下来的 15 年左右，无非就是 扩大规模、经营品牌，不断完善已有的产品 。” 报道称，苹果一直受到“缺乏创新”的批评，尤其是在手机和平板电脑之外未能取得新的突破。进入 AI 时代后，苹果的",
+   "published_at": 1792887801.0,
+   "published_bj": "2026-10-25 08:23"
+  },
+  {
+   "id": "b8fa0afaa96322b1",
+   "source": "IT之家",
+   "title": "《塞尔达传说》制作人青沼英二获颁法国艺术与文学骑士勋章",
+   "url": "https://www.ithome.com/1/017/536.htm",
+   "summary": "IT之家 10 月 25 日消息，《塞尔达传说》系列资深制作人青沼英二（Eiji Aonuma），自《时之笛》起就一直守护着时光勇者挺身而出对抗邪恶的故事。如今青沼英二本人也获封英雄头衔，只是没配上一把帅气的剑。本周，法国文化部邀请这位海拉鲁世界的缔造者，出席授勋仪式，接受骑士荣誉。 法国文化部长卡特琳 · 佩加尔（Catherine Pégard）称赞他是“总能为玩家留出想象空间的故事讲述者”，法国政府授予青沼英二艺术与文学骑士勋章。佩加尔为他佩戴勋章，感谢他让“全世界的孩子心怀梦想”。这位日本游戏制作人还准备了法语致辞，鼓励粉丝“一同继续这场冒险”。 据IT之家了解，青沼英二 1988 年",
+   "published_at": 1792886905.0,
+   "published_bj": "2026-10-25 08:08"
+  },
+  {
+   "id": "e6377e7ccd9e4240",
+   "source": "IT之家",
+   "title": "微软 Edge 浏览器已原生支持 GPC 隐私控制功能，Chrome 也已开展相关测试",
+   "url": "https://www.ithome.com/1/017/535.htm",
+   "summary": "IT之家 10 月 25 日消息，微软在 Edge 浏览器中推出了一项和隐私相关的更新：浏览器原生内置了全球隐私控制（GPC）开关。 据IT之家了解，万维网联盟（W3C）在 2020 年 10 月推出了全球隐私控制（GPC）规范，用来帮助用户落实《加州消费者隐私法案》（CCPA）和《通用数据保护条例》（GDPR）赋予的权利。这是一套基于浏览器的技术标准，用户可以自动向外传递隐私偏好，告知网站不要出售、共享自己的个人信息。 火狐、Brave 这类浏览器早已内置 GPC 并默认开启，火狐近期还新增了另一项同类隐私功能。但 Chrome 和 Edge 的用户此前只能依靠第三方扩展程序实现该功能。如今",
+   "published_at": 1792886273.0,
+   "published_bj": "2026-10-25 07:57"
+  },
+  {
+   "id": "b8369704c81ba05d",
+   "source": "IT之家",
+   "title": "搭载冷气推进系统，特斯拉新款 Roadster 在洛杉矶彼得森汽车博物馆展出",
+   "url": "https://www.ithome.com/1/017/534.htm",
+   "summary": "IT之家 10 月 25 日消息，如果你本周末身在洛杉矶，就有机会亲眼见到特斯拉新款 Roadster。特斯拉在 X 平台宣布，这辆 Roadster 正在彼得森汽车博物馆展出，展览时间为 10 月 24 日至 27 日，展出地点在主大厅。 这是继本月早些时候特斯拉在得克萨斯州麦格雷戈的 SpaceX 试验场首发新车之后，公众首次有机会近距离观赏新款 Roadster。展期只到周二，参观时间比较紧张。 彼得森博物馆将这辆展车标注为 2028 款特斯拉 Roadster 推力版原型车，它并不是首发仪式上最吸睛的版本 —— 当时亮相的火箭版可以倒置行驶，还完成了飞跃特斯拉全系车型的特技。 特斯拉规",
+   "published_at": 1792885720.0,
+   "published_bj": "2026-10-25 07:48"
+  },
+  {
+   "id": "b26c0a70dac98446",
+   "source": "IT之家",
+   "title": "同人变官方：《赛博朋克 2077》续作设计团队中，半数是被“收编”的模组作者",
+   "url": "https://www.ithome.com/1/017/533.htm",
+   "summary": "IT之家 10 月 25 日消息，当地时间 23 日，据外媒 VGC 报道，《赛博朋克 2077》续作副总监帕维尔 · 萨斯科透露，续作任务设计团队约有一半成员曾是游戏模组作者。 萨斯科认为，玩家能够随时在游戏内启用或关闭模组，不仅操作更加方便，也有助于保持游戏的新鲜感。“假如你已经玩了 800 个小时的《赛博朋克 2077》…… 那么模组就是让游戏体验保持新鲜感的最好办法，对吧？可以试试以前从未接触过的内容，无论是改变玩法、增加剧情、添加新元素，还是调整角色外观的模组。” 他进一步指出，模组能给游戏带来不同的体验。玩家可以像逛商店一样挑选自己喜欢的东西，也像是吃自助餐，想要什么就拿什么，再按",
+   "published_at": 1792885668.0,
+   "published_bj": "2026-10-25 07:47"
+  },
   {
    "id": "ae894e1325b807aa",
    "source": "IT之家",
@@ -29,6 +74,15 @@
    "summary": "IT之家 10 月 25 日消息，博主 @不是郑小康 昨晚发文，谈及了华为鸿蒙 HarmonyOS 7 系统的使用感受。他称在华为 Pura X View 的鸿蒙 7 系统中，“貌似”不能 2.4G 和 5G Wi-Fi 一起连加速上网。 随后，华为终端 BG CTO 李小龙发文解答了上述问题： Pura X View 可以的， Wi-Fi 2.4G 和 Wi-Fi 5G 同时工作，已经是 Wi-Fi 的标准特性了 。只要是 Wi-Fi 7 的手机，都应该支持这个特性。 在 Wi-Fi 6 时代，华为是通过私有协议提前支持了这个特性 。 据IT之家了解，Wi-Fi 6 是无线网络标准组织 Wi",
    "published_at": 1792884890.0,
    "published_bj": "2026-10-25 07:34"
+  },
+  {
+   "id": "11a0485322b5ea20",
+   "source": "Hacker News",
+   "title": "Why Gopher in 2026?",
+   "url": "https://gopher.muffinlabs.com/sdf.org/users/nervtoji/phlog/001.txt",
+   "summary": "Article URL: https://gopher.muffinlabs.com/sdf.org/users/nervtoji/phlog/001.txt Comments URL: https://news.ycombinator.com/item?id=50226577 Points: 7 # Comments: 2",
+   "published_at": 1792884799.0,
+   "published_bj": "2026-10-25 07:33"
   },
   {
    "id": "6d31652ee197bdba",
@@ -65,6 +119,24 @@
    "summary": "IT之家 10 月 25 日消息，据彭博社 23 日报道，奇瑞汽车计划明年进入加拿大市场，同时考虑在当地生产汽车。如果建厂计划落地，奇瑞将在美国北部边境建立生产基地。 尽管进入美国市场的前景尚不明朗，奇瑞认为， 加拿大本身就值得投资 。奇瑞汽车常务副总裁张贵兵在安徽芜湖总部接受采访时，谈到了接手现有工厂闲置产能、与合作伙伴共同开展生产等方案。 即使不考虑美国市场，加拿大也值得我们设厂生产。我们正在寻找合适的机会，并就可能采取的合作方式进行沟通。…… 如果能够找到合适的合作方式，让奇瑞和其他各方共同投资，并顺利启动生产，我认为加拿大政府会欢迎这样的安排。 一旦计划成真，奇瑞有望成为 首家在加拿大",
    "published_at": 1792883928.0,
    "published_bj": "2026-10-25 07:18"
+  },
+  {
+   "id": "94bbf71020d1b7eb",
+   "source": "Hacker News",
+   "title": "Google has officially turned these Nest thermostats back into dumb thermostats",
+   "url": "https://www.makeuseof.com/google-nest-thermostats-unsupported/",
+   "summary": "Article URL: https://www.makeuseof.com/google-nest-thermostats-unsupported/ Comments URL: https://news.ycombinator.com/item?id=50226434 Points: 19 # Comments: 3",
+   "published_at": 1792883670.0,
+   "published_bj": "2026-10-25 07:14"
+  },
+  {
+   "id": "6d4f20b92d7a9aa9",
+   "source": "Hacker News",
+   "title": "America Has Lost 200k of Jobs in Media, Film and the Arts. How Much Is AI?",
+   "url": "https://www.apricitas.io/p/ai-and-the-fall-of-the-creative-class",
+   "summary": "Article URL: https://www.apricitas.io/p/ai-and-the-fall-of-the-creative-class Comments URL: https://news.ycombinator.com/item?id=50226419 Points: 45 # Comments: 17",
+   "published_at": 1792883514.0,
+   "published_bj": "2026-10-25 07:11"
   },
   {
    "id": "1c994d4e163f9972",
