@@ -1,0 +1,382 @@
+{
+ "type": "yesterday",
+ "date": "2026-10-25",
+ "window": {
+  "start_ts": 1792857600.0,
+  "end_ts": 1792944000.0
+ },
+ "generated_at": 1792945437.9349084,
+ "generator": "action",
+ "news_count": 261,
+ "keywords": [
+  "ai",
+  "苹果",
+  "元",
+  "推出",
+  "iphone",
+  "duo",
+  "游戏",
+  "the",
+  "and",
+  "支持"
+ ],
+ "points": [
+  {
+   "text": "【ai】IT之家 10 月 25 日消息，Twitter 联合创始人杰克 · 多尔西（Jack Dorsey）旗下的 Block 公司推出了一款全新语音",
+   "keyword": "ai",
+   "news_ids": [
+    "9306aaaee0908f5c"
+   ],
+   "refs": [
+    {
+     "id": "9306aaaee0908f5c",
+     "title": "Block 推出全双工 AI 语音模型 Dessa：真人感拉满，支持苹果 MacBook 本地运行",
+     "source": "IT之家",
+     "url": "https://www.ithome.com/1/017/557.htm",
+     "published_at": 1792895370.0
+    }
+   ]
+  },
+  {
+   "text": "【苹果】IT之家 10 月 25 日消息，图拉斯现已在京东上架一款小冰块 Vision 带屏充电头，该产品采用单 USB-C 接口，定价为 238 元，",
+   "keyword": "苹果",
+   "news_ids": [
+    "4694346488989337"
+   ],
+   "refs": [
+    {
+     "id": "4694346488989337",
+     "title": "图拉斯推出小冰块 Vision 单 USB-C 充电头：支持 AVS 协议 60W 输出，188 元",
+     "source": "IT之家",
+     "url": "https://www.ithome.com/1/017/644.htm",
+     "published_at": 1792921000.0
+    }
+   ]
+  },
+  {
+   "text": "【ai】Article URL: https://www",
+   "keyword": "ai",
+   "news_ids": [
+    "6d4f20b92d7a9aa9"
+   ],
+   "refs": [
+    {
+     "id": "6d4f20b92d7a9aa9",
+     "title": "America Has Lost 200k of Jobs in Media, Film and the Arts. How Much Is AI?",
+     "source": "Hacker News",
+     "url": "https://www.apricitas.io/p/ai-and-the-fall-of-the-creative-class",
+     "published_at": 1792883514.0
+    }
+   ]
+  },
+  {
+   "text": "【ai】IT之家 10 月 25 日消息，据彭博社今天报道，马来西亚总理安瓦尔宣布， 软银集团创办人兼社长孙正义计划在马来西亚投资 500 亿美元 （I",
+   "keyword": "ai",
+   "news_ids": [
+    "55370b33b41f742d"
+   ],
+   "refs": [
+    {
+     "id": "55370b33b41f742d",
+     "title": "软银孙正义计划在马来西亚投资 500 亿美元，押注 AI、数据中心",
+     "source": "IT之家",
+     "url": "https://www.ithome.com/1/017/637.htm",
+     "published_at": 1792919825.0
+    }
+   ]
+  },
+  {
+   "text": "【元】IT之家 10 月 25 日消息，戴尔现已在京东上架“SE2726HM”27 英寸显示器，该机主打 1080P 120Hz，定价为 649 元",
+   "keyword": "元",
+   "news_ids": [
+    "c63b8bcae5776698"
+   ],
+   "refs": [
+    {
+     "id": "c63b8bcae5776698",
+     "title": "戴尔推出“SE2726HM”27 英寸显示器：1080P 120Hz，649 元",
+     "source": "IT之家",
+     "url": "https://www.ithome.com/1/017/673.htm",
+     "published_at": 1792927179.0
+    }
+   ]
+  },
+  {
+   "text": "【苹果】IT之家 10 月 25 日消息，苹果现已为 iPhone Duo 折叠屏手机发布一批支持文档，其中最值得关注的是排除铰链故障指南",
+   "keyword": "苹果",
+   "news_ids": [
+    "51f7a98423d1dab8"
+   ],
+   "refs": [
+    {
+     "id": "51f7a98423d1dab8",
+     "title": "苹果发布 iPhone Duo 支持文档，帮助用户排查铰链和屏幕问题",
+     "source": "IT之家",
+     "url": "https://www.ithome.com/1/017/701.htm",
+     "published_at": 1792936611.0
+    }
+   ]
+  },
+  {
+   "text": "【ai】Article URL: https://medium",
+   "keyword": "ai",
+   "news_ids": [
+    "acd699dbd1124784"
+   ],
+   "refs": [
+    {
+     "id": "acd699dbd1124784",
+     "title": "New Open-Source Cybersecurity Platform Uses AI Agents to Hunt Threats",
+     "source": "Hacker News",
+     "url": "https://medium.com/@ai_news/argus-might-be-one-of-the-most-impressive-open-source-cybersecurity-projects-released-this-year-118043bd0c8c",
+     "published_at": 1792912175.0
+    }
+   ]
+  },
+  {
+   "text": "【ai】IT之家 10 月 25 日消息，韩国知名游戏企业 KRAFTON（魁匠团）旗下人工智能分支 KRAFTON AI 本周公布了其从头训练的 Ra",
+   "keyword": "ai",
+   "news_ids": [
+    "0005f792bedc617d"
+   ],
+   "refs": [
+    {
+     "id": "0005f792bedc617d",
+     "title": "韩 KRAFTON AI 预览 Raon-1 mini 模型：30B-A4B，可与 Meta Muse Glimmer 竞争",
+     "source": "IT之家",
+     "url": "https://www.ithome.com/1/017/695.htm",
+     "published_at": 1792934838.0
+    }
+   ]
+  },
+  {
+   "text": "2010 年英国石油公司的深水地平线（Deepwater Horizon）深海钻油平台发生井喷并爆炸，引发了史上规模最大的石油泄漏事故",
+   "keyword": "",
+   "news_ids": [
+    "4cdab0dea38f8b9d"
+   ],
+   "refs": [
+    {
+     "id": "4cdab0dea38f8b9d",
+     "title": "深水地平线漏油事件 16 年后海洋仍未恢复",
+     "source": "Solidot",
+     "url": "https://www.solidot.org/story?sid=85705",
+     "published_at": 1792941753.0
+    }
+   ]
+  },
+  {
+   "text": "随着人工智能基础设施建设持续升温，高带宽内存（HBM）已成为全球半导体产业最紧缺的关键组件之一",
+   "keyword": "",
+   "news_ids": [
+    "b0f76fd5fd6f45fe"
+   ],
+   "refs": [
+    {
+     "id": "b0f76fd5fd6f45fe",
+     "title": "三星HBM供应吃紧 数据中心客户愿为长期保障支付溢价",
+     "source": "cnBeta",
+     "url": "https://www.cnbeta.com.tw/articles/tech/1583796.htm",
+     "published_at": 1792940747.0
+    }
+   ]
+  },
+  {
+   "text": "Article URL: https://bigwhalehunting",
+   "keyword": "",
+   "news_ids": [
+    "6f8d3023c18e78b3"
+   ],
+   "refs": [
+    {
+     "id": "6f8d3023c18e78b3",
+     "title": "Show HN: I put employees inside S&P 500 market-cap bubbles",
+     "source": "Hacker News",
+     "url": "https://bigwhalehunting.com/workforce/",
+     "published_at": 1792940739.0
+    }
+   ]
+  },
+  {
+   "text": "Article URL: https://www",
+   "keyword": "",
+   "news_ids": [
+    "d8c8a6d59ccb7688"
+   ],
+   "refs": [
+    {
+     "id": "d8c8a6d59ccb7688",
+     "title": "A Few Thoughts on Intensity",
+     "source": "Hacker News",
+     "url": "https://www.tylerhogge.com/blog/a-few-thoughts-on-intensity/",
+     "published_at": 1792939069.0
+    }
+   ]
+  },
+  {
+   "text": "IT之家 10 月 25 日消息，华为近两日面向 Mate 80 / 70 / 60、Pura 80 / 70 等系列机型推送了最新的鸿蒙 Ha",
+   "keyword": "",
+   "news_ids": [
+    "d3ddd0d9a762bddd"
+   ],
+   "refs": [
+    {
+     "id": "d3ddd0d9a762bddd",
+     "title": "华为鸿蒙 HarmonyOS 7.0.0.111 版本更多“隐藏”新特性盘点，深色模式随日出日落切换等功能下放",
+     "source": "IT之家",
+     "url": "https://www.ithome.com/1/017/707.htm",
+     "published_at": 1792938197.0
+    }
+   ]
+  },
+  {
+   "text": "IT之家 10 月 25 日消息，小红书博主 @ 王大王于 10 月 23 日分享了一组全新 smart 精灵 2 号蓝色版实车照片，目前尚不清",
+   "keyword": "",
+   "news_ids": [
+    "5ba95dcf68230318"
+   ],
+   "refs": [
+    {
+     "id": "5ba95dcf68230318",
+     "title": "再添新色？全新 smart 精灵 2 号蓝色版实车曝光",
+     "source": "IT之家",
+     "url": "https://www.ithome.com/1/017/706.htm",
+     "published_at": 1792937983.0
+    }
+   ]
+  },
+  {
+   "text": "IT之家 10 月 25 日消息，比亚迪今天宣布，其旗舰车型 DENZA（腾势） Z9GT 正式登陆香港， 官方售价 99.8 万港元 （IT之",
+   "keyword": "",
+   "news_ids": [
+    "011a2a4344cd1a61"
+   ],
+   "refs": [
+    {
+     "id": "011a2a4344cd1a61",
+     "title": "比亚迪腾势 Z9GT 在香港上市，99.8 万港元",
+     "source": "IT之家",
+     "url": "https://www.ithome.com/1/017/704.htm",
+     "published_at": 1792937756.0
+    }
+   ]
+  }
+ ],
+ "article": {
+  "title": "2026-10-25 新闻总结",
+  "paragraphs": [
+   {
+    "kind": "lead",
+    "text": "过去 24 小时共收录 261 条新闻，来自 7 家媒体。把标题放在一起看，讨论主要集中在 AI、游戏、显示 这几个方向上，其余消息更像是零散补充。"
+   },
+   {
+    "kind": "section",
+    "heading": "AI",
+    "text": "先看「AI」。IT之家 10 月 25 日消息，Twitter 联合创始人杰克 · 多尔西（Jack Dorsey）旗下的 Block 公司推出了一款全新语音模型 Dessa，支持本地运行，另有 93 条消息指向同一话题。这类进展更像是把已有能力往工程化落地推了一步，真正的分水岭在于成本和可靠性能不能同时压下来。",
+    "news_ids": [
+     "9306aaaee0908f5c"
+    ],
+    "refs": [
+     {
+      "id": "9306aaaee0908f5c",
+      "title": "Block 推出全双工 AI 语音模型 Dessa：真人感拉满，支持苹果 MacBook 本地运行",
+      "source": "IT之家",
+      "url": "https://www.ithome.com/1/017/557.htm",
+      "published_at": 1792895370.0
+     }
+    ]
+   },
+   {
+    "kind": "section",
+    "heading": "充电",
+    "text": "与此同时「充电」。IT之家 10 月 25 日消息，图拉斯现已在京东上架一款小冰块 Vision 带屏充电头，该产品采用单 USB-C 接口，定价为 238 元，另有 26 条消息指向同一话题。技术路线的胜负很少由一次发布会决定，接下来要看的是它能不能被更多团队低成本复用。",
+    "news_ids": [
+     "4694346488989337"
+    ],
+    "refs": [
+     {
+      "id": "4694346488989337",
+      "title": "图拉斯推出小冰块 Vision 单 USB-C 充电头：支持 AVS 协议 60W 输出，188 元",
+      "source": "IT之家",
+      "url": "https://www.ithome.com/1/017/644.htm",
+      "published_at": 1792921000.0
+     }
+    ]
+   },
+   {
+    "kind": "section",
+    "heading": "风险",
+    "text": "另一个值得注意的方向是「风险」。IT之家 10 月 25 日消息，当地时间 23 日，据美媒 Car And Driver 报道，另有 25 条消息指向同一话题。对企业而言，安全投入平时看不见产出，出事时却是唯一能兜底的东西。",
+    "news_ids": [
+     "6acd293018596926"
+    ],
+    "refs": [
+     {
+      "id": "6acd293018596926",
+      "title": "保时捷在美召回 548 辆 911/718：存在掉轮风险，车主应立即停驶",
+      "source": "IT之家",
+      "url": "https://www.ithome.com/1/017/577.htm",
+      "published_at": 1792901751.0
+     }
+    ]
+   },
+   {
+    "kind": "section",
+    "heading": "数据中心",
+    "text": "相比之下「数据中心」。IT之家 10 月 25 日消息，据彭博社今天报道，马来西亚总理安瓦尔宣布， 软银集团创办人兼社长孙正义计划在马来西亚投资 500 亿美元 （IT之家注：现汇率约合 3，另有 6 条消息指向同一话题。资本动作往往领先产品一年，值得盯的不是金额，而是钱最后花向了算力、场景还是补贴。",
+    "news_ids": [
+     "55370b33b41f742d"
+    ],
+    "refs": [
+     {
+      "id": "55370b33b41f742d",
+      "title": "软银孙正义计划在马来西亚投资 500 亿美元，押注 AI、数据中心",
+      "source": "IT之家",
+      "url": "https://www.ithome.com/1/017/637.htm",
+      "published_at": 1792919825.0
+     }
+    ]
+   },
+   {
+    "kind": "glossary",
+    "items": [
+     {
+      "term": "AI",
+      "desc": "人工智能，让机器完成识别、生成、判断等原本需要人做的任务"
+     },
+     {
+      "term": "HBM",
+      "desc": "高带宽内存，把多层内存堆叠起来给 AI 芯片喂数据，缓解带宽瓶颈"
+     },
+     {
+      "term": "VR",
+      "desc": "虚拟现实，戴上头显进入一个全虚拟的画面"
+     },
+     {
+      "term": "IPO",
+      "desc": "首次公开募股，公司第一次把股票卖给公众并上市"
+     },
+     {
+      "term": "GPU",
+      "desc": "图形处理器，因为擅长大规模并行计算，成了 AI 训练的主力硬件"
+     },
+     {
+      "term": "数据中心",
+      "desc": "集中放置服务器、供电与散热设施的大型机房"
+     }
+    ]
+   },
+   {
+    "kind": "outlook",
+    "text": "把这几条放在一起看，最值得跟踪的是 AI 和 游戏 两条线：一条决定技术能走多远，一条决定它多快能落到普通人的日常里。至于其他消息，可以先放进观察名单，等后续有更实的进展再判断。"
+   }
+  ],
+  "word_count": 721
+ },
+ "ai_enhanced": false,
+ "schema": 1,
+ "window_bj": {
+  "start": "2026-10-25 00:00",
+  "end": "2026-10-26 00:00"
+ }
+}
