@@ -1,8 +1,17 @@
 {
  "date": "2026-10-26",
- "generated_at": 1792959442.471013,
- "count": 29,
+ "generated_at": 1792961299.3582656,
+ "count": 31,
  "items": [
+  {
+   "id": "c2439656e99a8362",
+   "source": "TechCrunch",
+   "title": "‘Cyberselfish’ author takes aim at Silicon Valley libertarians as her book returns from the dead",
+   "url": "https://techcrunch.com/2026/10/25/cyberselfish-author-takes-aim-at-techno-libertarianism-as-her-book-returns-from-the-dead/",
+   "summary": "\"That's a 12-year-old view of the world.\"",
+   "published_at": 1792959608.0,
+   "published_bj": "2026-10-26 04:20"
+  },
   {
    "id": "991860ec28fde9eb",
    "source": "Hacker News",
@@ -74,6 +83,15 @@
    "summary": "Article URL: https://www.alfie.wtf/programming/why-i-am-a-programmer.html Comments URL: https://news.ycombinator.com/item?id=50235017 Points: 4 # Comments: 3",
    "published_at": 1792955491.0,
    "published_bj": "2026-10-26 03:11"
+  },
+  {
+   "id": "c3fa4708cee71d25",
+   "source": "Hacker News",
+   "title": "Gheist campaign plants secret-dumping workflows using stolen GitHub tokens",
+   "url": "https://www.wiz.io/blog/gheist-attempted-scaled-abuse-of-stolen-github-tokens-stumbles",
+   "summary": "Article URL: https://www.wiz.io/blog/gheist-attempted-scaled-abuse-of-stolen-github-tokens-stumbles Comments URL: https://news.ycombinator.com/item?id=50235010 Points: 8 # Comments: 0",
+   "published_at": 1792955436.0,
+   "published_bj": "2026-10-26 03:10"
   },
   {
    "id": "809968553e794b77",
