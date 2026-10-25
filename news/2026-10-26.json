@@ -1,8 +1,44 @@
 {
  "date": "2026-10-26",
- "generated_at": 1792952502.3930933,
- "count": 14,
+ "generated_at": 1792955331.676671,
+ "count": 19,
  "items": [
+  {
+   "id": "809968553e794b77",
+   "source": "Hacker News",
+   "title": "I made a virtual pet fruit fly that Twitch chat can interact with",
+   "url": "https://www.twitch.tv/flytwitcher",
+   "summary": "Article URL: https://www.twitch.tv/flytwitcher Comments URL: https://news.ycombinator.com/item?id=50234480 Points: 4 # Comments: 1",
+   "published_at": 1792952660.0,
+   "published_bj": "2026-10-26 02:24"
+  },
+  {
+   "id": "3a3df4be178f0c21",
+   "source": "Hacker News",
+   "title": "Dolly Parton's Imagination Library",
+   "url": "https://imaginationlibrary.com/",
+   "summary": "With today's news, I thought I'd share this great program: “When I was growing up in the hills of East Tennessee, I knew my dreams would come true. I know there are children in your community with their own dreams. They dream of becoming a doctor or an inventor or a minister. Who knows, maybe there ",
+   "published_at": 1792952634.0,
+   "published_bj": "2026-10-26 02:23"
+  },
+  {
+   "id": "7bb800641d1e36e0",
+   "source": "Hacker News",
+   "title": "All you need is Wide Events, not \"Metrics, Logs and Traces\"",
+   "url": "https://isburmistrov.substack.com/p/all-you-need-is-wide-events-not-metrics",
+   "summary": "Article URL: https://isburmistrov.substack.com/p/all-you-need-is-wide-events-not-metrics Comments URL: https://news.ycombinator.com/item?id=50234329 Points: 7 # Comments: 2",
+   "published_at": 1792951898.0,
+   "published_bj": "2026-10-26 02:11"
+  },
+  {
+   "id": "836d62201f21edd7",
+   "source": "Hacker News",
+   "title": "Oregon Police Are Charging a Local News Outlet $2.5M for Records About One Cop",
+   "url": "https://theintercept.com/2026/10/01/oregon-police-misconduct-public-records-cost-fee/",
+   "summary": "Article URL: https://theintercept.com/2026/10/01/oregon-police-misconduct-public-records-cost-fee/ Comments URL: https://news.ycombinator.com/item?id=50234232 Points: 82 # Comments: 12",
+   "published_at": 1792951451.0,
+   "published_bj": "2026-10-26 02:04"
+  },
   {
    "id": "0f9d9b0c4ee613dd",
    "source": "Hacker News",
@@ -20,6 +56,15 @@
    "summary": "Article URL: https://crookedtimber.org/2015/08/31/fuck-nuance/ Comments URL: https://news.ycombinator.com/item?id=50233883 Points: 8 # Comments: 1",
    "published_at": 1792949168.0,
    "published_bj": "2026-10-26 01:26"
+  },
+  {
+   "id": "016da5677c85a699",
+   "source": "Hacker News",
+   "title": "Scientists rediscover how to make ancient Roman colour-changing glass",
+   "url": "https://www.theguardian.com/science/2026/oct/25/scientists-rediscover-ancient-roman-colour-changing-glass",
+   "summary": "Article URL: https://www.theguardian.com/science/2026/oct/25/scientists-rediscover-ancient-roman-colour-changing-glass Comments URL: https://news.ycombinator.com/item?id=50233828 Points: 12 # Comments: 1",
+   "published_at": 1792948822.0,
+   "published_bj": "2026-10-26 01:20"
   },
   {
    "id": "86d9f2d9a11d698f",
