@@ -1,8 +1,35 @@
 {
  "date": "2026-10-26",
- "generated_at": 1792947970.7537572,
- "count": 7,
+ "generated_at": 1792950386.4765608,
+ "count": 11,
  "items": [
+  {
+   "id": "0f9d9b0c4ee613dd",
+   "source": "Hacker News",
+   "title": "I refuse to accept a censored Internet. Join Me at FOSDEM 27",
+   "url": "https://talkweb.eu/openweb/4558/",
+   "summary": "Article URL: https://talkweb.eu/openweb/4558/ Comments URL: https://news.ycombinator.com/item?id=50233929 Points: 3 # Comments: 0",
+   "published_at": 1792949455.0,
+   "published_bj": "2026-10-26 01:30"
+  },
+  {
+   "id": "38203d9835559177",
+   "source": "Hacker News",
+   "title": "Sabre Wulf Remastered",
+   "url": "https://gp-64.com/swr/",
+   "summary": "Article URL: https://gp-64.com/swr/ Comments URL: https://news.ycombinator.com/item?id=50233775 Points: 11 # Comments: 0",
+   "published_at": 1792948516.0,
+   "published_bj": "2026-10-26 01:15"
+  },
+  {
+   "id": "e389ddaacca31092",
+   "source": "cnBeta",
+   "title": "Google在芬兰为建设数据中心砍伐约1300英亩森林 当地居民发现狼群进入附近村庄觅食",
+   "url": "https://www.cnbeta.com.tw/articles/tech/1583812.htm",
+   "summary": "Google在芬兰建设人工智能数据中心引发的环境争议持续发酵。由于相关项目在完成必要的环境影响评估之前就大规模清理森林，芬兰监管机构已要求Google暂停部分场地的准备工作。当地居民还表示，森林遭到砍伐后，野生动物失去栖息地和食物来源，狼群开始进入附近村庄活动，令社区居民担忧。 阅读全文",
+   "published_at": 1792948458.0,
+   "published_bj": "2026-10-26 01:14"
+  },
   {
    "id": "5de6fb215bb59385",
    "source": "TechCrunch",
@@ -38,6 +65,15 @@
    "summary": "苹果正在为旗下零售店部署一种新的检测设备，旨在防止消费者利用退货流程实施欺诈。借助这套设备，店员可以在不拆开 iPhone 零售包装的情况下，扫描包装内的手机并运行诊断程序，确认设备是否仍然完整，从而减少库存损失，并让符合条件的退货商品更快重新进入销售环节。 阅读全文",
    "published_at": 1792946588.0,
    "published_bj": "2026-10-26 00:43"
+  },
+  {
+   "id": "fe07afe02efbc29b",
+   "source": "Hacker News",
+   "title": "A Mathematician Reads the AI Future",
+   "url": "https://www.theatlantic.com/ideas/2026/10/ai-math-human-future/689133/",
+   "summary": "Article URL: https://www.theatlantic.com/ideas/2026/10/ai-math-human-future/689133/ Comments URL: https://news.ycombinator.com/item?id=50233347 Points: 23 # Comments: 10",
+   "published_at": 1792945881.0,
+   "published_bj": "2026-10-26 00:31"
   },
   {
    "id": "0d3824b0e1e8a509",

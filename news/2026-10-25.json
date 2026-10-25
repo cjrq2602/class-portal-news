@@ -1,7 +1,7 @@
 {
  "date": "2026-10-25",
- "generated_at": 1792947970.755398,
- "count": 262,
+ "generated_at": 1792950386.4782016,
+ "count": 265,
  "items": [
   {
    "id": "ed809b6f2bea04dc",
@@ -11,6 +11,15 @@
    "summary": "IT之家 10 月 25 日消息，猫眼专业版数据显示，《三星堆：未来往事》电影票房已达到 116.2 万。 据IT之家了解，《三星堆：未来往事》是国内首部获得国家电影局公映许可证的 AI 全流程院线长片，上映于 10 月 23 日。 本片片长 100 分钟 ，所有角色均为原创数字形象， 不含对真实演员的数字复制 。 同时，本片故事设定在未来人类将一切决策交给算法而引发全球危机，破解困局的线索指向三星堆七个古老刻符，形成“答案在过去，危机在未来”的叙事结构。 这部影片的制作方式决定了它“首部”标签的实质含义。全片依托博纳自研的“博卡电影云片场”完成，创作团队历时两年，产出 120 余万张底图，完",
    "published_at": 1792942615.0,
    "published_bj": "2026-10-25 23:36"
+  },
+  {
+   "id": "b5866bdded0cec44",
+   "source": "Hacker News",
+   "title": "What Adobe v ArtCraft teaches us",
+   "url": "https://techbronerd.substack.com/p/openai-and-anthropic-wanted-to-replace",
+   "summary": "Article URL: https://techbronerd.substack.com/p/openai-and-anthropic-wanted-to-replace Comments URL: https://news.ycombinator.com/item?id=50232682 Points: 52 # Comments: 27",
+   "published_at": 1792942484.0,
+   "published_bj": "2026-10-25 23:34"
   },
   {
    "id": "4cdab0dea38f8b9d",
@@ -452,6 +461,15 @@
    "summary": "Article URL: https://twitter.com/freddier/status/2114042326758867453 Comments URL: https://news.ycombinator.com/item?id=50231189 Points: 14 # Comments: 1",
    "published_at": 1792933882.0,
    "published_bj": "2026-10-25 21:11"
+  },
+  {
+   "id": "e3583ad5561ffca9",
+   "source": "Hacker News",
+   "title": "Active incident at Dreamhost forcing password reset",
+   "url": "https://www.dreamhoststatus.com/",
+   "summary": "Article URL: https://www.dreamhoststatus.com/ Comments URL: https://news.ycombinator.com/item?id=50231166 Points: 16 # Comments: 4",
+   "published_at": 1792933756.0,
+   "published_bj": "2026-10-25 21:09"
   },
   {
    "id": "6c0260c477e4c0ff",
@@ -2297,6 +2315,15 @@
    "summary": "Article URL: https://arxiv.org/abs/2610.29162 Comments URL: https://news.ycombinator.com/item?id=50223647 Points: 40 # Comments: 27",
    "published_at": 1792865097.0,
    "published_bj": "2026-10-25 02:04"
+  },
+  {
+   "id": "530fd8fe055287a1",
+   "source": "Hacker News",
+   "title": "VCF Southwest 2026, but Edited on Silicon Graphics for '90s TV [video]",
+   "url": "https://www.youtube.com/watch?v=46wxttvq9qY",
+   "summary": "Article URL: https://www.youtube.com/watch?v=46wxttvq9qY Comments URL: https://news.ycombinator.com/item?id=50223435 Points: 11 # Comments: 1",
+   "published_at": 1792863728.0,
+   "published_bj": "2026-10-25 01:42"
   },
   {
    "id": "25f982c8a6d3cb58",
