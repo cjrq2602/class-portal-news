@@ -1,0 +1,302 @@
+{
+ "type": "today",
+ "date": "2026-10-25",
+ "window": {
+  "start_ts": 1792857600.0,
+  "end_ts": 1792890000.0
+ },
+ "generated_at": 1792891657.7237892,
+ "generator": "action",
+ "news_count": 17,
+ "keywords": [
+  "一天",
+  "中国",
+  "事会",
+  "光复",
+  "全球",
+  "恢复",
+  "沙特",
+  "注入",
+  "理事",
+  "精神"
+ ],
+ "points": [
+  {
+   "text": "【中国】巴基斯坦主流英文媒体《巴基斯坦观察家报》(Pakistan Observer)10月24日刊发该国地缘政治专家、知识与公共政策中心主席穆罕默德·",
+   "keyword": "中国",
+   "news_ids": [
+    "0aba31206f8420e7"
+   ],
+   "refs": [
+    {
+     "id": "0aba31206f8420e7",
+     "title": "全球媒体聚焦｜长征精神为中国式现代化注入动力 为全球繁荣发展注入强大精神动能",
+     "source": "中新网即时",
+     "url": "https://www.chinanews.com.cn/gj/2026/10-25/10720546.shtml",
+     "published_at": 1792888556.0
+    }
+   ]
+  },
+  {
+   "text": "【沙特】当地时间24日晚，沙特首都利雅得哈立德国王国际机场发布公告称，将于25日部分恢复机场的国内和国际航班运营",
+   "keyword": "沙特",
+   "news_ids": [
+    "26b0b52a2e6e800a"
+   ],
+   "refs": [
+    {
+     "id": "26b0b52a2e6e800a",
+     "title": "沙特首都利雅得国际机场将于25日部分恢复运营",
+     "source": "中新网即时",
+     "url": "https://www.chinanews.com.cn/gj/2026/10-25/10720548.shtml",
+     "published_at": 1792888804.0
+    }
+   ]
+  },
+  {
+   "text": "【理事】10月24日，中华全国新闻工作者协会(简称“中国记协”)第十届理事会第八次常务理事会议在京召开",
+   "keyword": "理事",
+   "news_ids": [
+    "3f15d689ef1e6381"
+   ],
+   "refs": [
+    {
+     "id": "3f15d689ef1e6381",
+     "title": "中国记协第十届理事会第八次常务理事会议在京召开",
+     "source": "中新网即时",
+     "url": "https://www.chinanews.com.cn/gn/2026/10-25/10720545.shtml",
+     "published_at": 1792887911.0
+    }
+   ]
+  },
+  {
+   "text": "【光复】1945年10月25日",
+   "keyword": "光复",
+   "news_ids": [
+    "3d95a0ad5fed3048"
+   ],
+   "refs": [
+    {
+     "id": "3d95a0ad5fed3048",
+     "title": "铭记光复历史，捍卫山河一统！东部战区发布台湾光复纪念日主题海报",
+     "source": "中新网即时",
+     "url": "https://www.chinanews.com.cn/gn/2026/10-25/10720550.shtml",
+     "published_at": 1792889174.0
+    }
+   ]
+  },
+  {
+   "text": "新闻周刊丨AI换脸明星带货泛滥，维权难点到底在哪",
+   "keyword": "",
+   "news_ids": [
+    "5b4d706e11d0e02a"
+   ],
+   "refs": [
+    {
+     "id": "5b4d706e11d0e02a",
+     "title": "AI换脸明星带货泛滥，维权难点到底在哪？",
+     "source": "中新网即时",
+     "url": "https://www.chinanews.com.cn/sh/2026/10-25/10720562.shtml",
+     "published_at": 1792889965.0
+    }
+   ]
+  },
+  {
+   "text": "近日，中共中央批准：靳伟同志任中共湖南省委委员、常委、副书记",
+   "keyword": "",
+   "news_ids": [
+    "51696669a56adb69"
+   ],
+   "refs": [
+    {
+     "id": "51696669a56adb69",
+     "title": "靳伟同志任中共湖南省委副书记",
+     "source": "中新网即时",
+     "url": "https://www.chinanews.com.cn/gn/2026/10-25/10720553.shtml",
+     "published_at": 1792889348.0
+    }
+   ]
+  },
+  {
+   "text": "美國加州一棟豪宅因男嬰受傷揭發涉嫌虐童案，屋內住着多名透過代孕出生的孩子",
+   "keyword": "",
+   "news_ids": [
+    "7dca0c19b1b70afe"
+   ],
+   "refs": [
+    {
+     "id": "7dca0c19b1b70afe",
+     "title": "住着一群代孕孩子，美國加州的豪宅如何變成「恐怖之家」？",
+     "source": "BBC中文",
+     "url": "https://www.bbc.com/zhongwen/articles/c6rmydgej9w8o/trad?at_medium=RSS&at_campaign=rss",
+     "published_at": 1792888734.0
+    }
+   ]
+  },
+  {
+   "text": "10月25日新闻早报",
+   "keyword": "",
+   "news_ids": [
+    "1a4c256a5d90832f"
+   ],
+   "refs": [
+    {
+     "id": "1a4c256a5d90832f",
+     "title": "10月25日新闻早报",
+     "source": "中新网即时",
+     "url": "https://www.chinanews.com.cn/iframe/2026/10-25/10720544.shtml",
+     "published_at": 1792883751.0
+    }
+   ]
+  },
+  {
+   "text": "当地时间24日，俄罗斯人权事务专员兰特拉托娃表示，她与乌克兰最高拉达(议会)人权事务专员卢比涅茨就阿列什基的人道主义任务举行了在线会议",
+   "keyword": "",
+   "news_ids": [
+    "ace14d0e8b2a2b38"
+   ],
+   "refs": [
+    {
+     "id": "ace14d0e8b2a2b38",
+     "title": "俄乌将为阿列什基人道主义行动同步停火",
+     "source": "中新网即时",
+     "url": "https://www.chinanews.com.cn/gj/2026/10-25/10720543.shtml",
+     "published_at": 1792882154.0
+    }
+   ]
+  },
+  {
+   "text": "据乌克兰方面24日消息，乌总统泽连斯基23日接受采访时称，乌克兰准备尽快结束同俄罗斯的军事冲突，但不会为了结束冲突而放弃更多领土",
+   "keyword": "",
+   "news_ids": [
+    "776136638ee36bc8"
+   ],
+   "refs": [
+    {
+     "id": "776136638ee36bc8",
+     "title": "泽连斯基：不会为结束冲突放弃更多领土",
+     "source": "中新网即时",
+     "url": "https://www.chinanews.com.cn/gj/2026/10-25/10720541.shtml",
+     "published_at": 1792881607.0
+    }
+   ]
+  },
+  {
+   "text": "马里武装部队总参谋部24日发布公报说，一支联合巡逻队在该国东北部梅纳卡区首府梅纳卡市附近发现54具平民遗体",
+   "keyword": "",
+   "news_ids": [
+    "4ac798cfe1e53b68"
+   ],
+   "refs": [
+    {
+     "id": "4ac798cfe1e53b68",
+     "title": "马里军方在梅纳卡市附近发现54具遗体",
+     "source": "中新网即时",
+     "url": "https://www.chinanews.com.cn/gj/2026/10-25/10720540.shtml",
+     "published_at": 1792881517.0
+    }
+   ]
+  }
+ ],
+ "article": {
+  "title": "2026-10-25 新闻总结",
+  "paragraphs": [
+   {
+    "kind": "lead",
+    "text": "今天共收录 17 条新闻，来自 2 家媒体。把标题放在一起看，讨论主要集中在 全球 这几个方向上，其余消息更像是零散补充。"
+   },
+   {
+    "kind": "section",
+    "heading": "中国式现代化",
+    "text": "先看「中国式现代化」。巴基斯坦主流英文媒体《巴基斯坦观察家报》(Pakistan Observer)10月24日刊发该国地缘政治专家，另有 4 条消息指向同一话题。这条消息短期内的实际影响可能有限，但它指向的方向值得放进观察名单。",
+    "news_ids": [
+     "0aba31206f8420e7"
+    ],
+    "refs": [
+     {
+      "id": "0aba31206f8420e7",
+      "title": "全球媒体聚焦｜长征精神为中国式现代化注入动力 为全球繁荣发展注入强大精神动能",
+      "source": "中新网即时",
+      "url": "https://www.chinanews.com.cn/gj/2026/10-25/10720546.shtml",
+      "published_at": 1792888556.0
+     }
+    ]
+   },
+   {
+    "kind": "section",
+    "heading": "电力",
+    "text": "与此同时「电力」。中新网拉萨10月25日电 (贡嘎来松)10月24日20时38分，随着最后一个低压台区抢修复电，另有 2 条消息指向同一话题。这条消息短期内的实际影响可能有限，但它指向的方向值得放进观察名单。",
+    "news_ids": [
+     "a8cef2a4c882d465"
+    ],
+    "refs": [
+     {
+      "id": "a8cef2a4c882d465",
+      "title": "西藏那曲巴青地震震区电力供应全面恢复",
+      "source": "中新网即时",
+      "url": "https://www.chinanews.com.cn/sh/2026/10-25/10720556.shtml",
+      "published_at": 1792889587.0
+     }
+    ]
+   },
+   {
+    "kind": "section",
+    "heading": "中国记协第十届理事会第八次常务理",
+    "text": "另一个值得注意的方向是「中国记协第十届理事会第八次常务理」。10月24日，中华全国新闻工作者协会(简称“中国记协”)第十届理事会第八次常务理事会议在京召开…。这条消息短期内的实际影响可能有限，但它指向的方向值得放进观察名单。",
+    "news_ids": [
+     "3f15d689ef1e6381"
+    ],
+    "refs": [
+     {
+      "id": "3f15d689ef1e6381",
+      "title": "中国记协第十届理事会第八次常务理事会议在京召开",
+      "source": "中新网即时",
+      "url": "https://www.chinanews.com.cn/gn/2026/10-25/10720545.shtml",
+      "published_at": 1792887911.0
+     }
+    ]
+   },
+   {
+    "kind": "section",
+    "heading": "AI",
+    "text": "相比之下「AI」。新闻周刊丨AI换脸明星带货泛滥。这条消息短期内的实际影响可能有限，但它指向的方向值得放进观察名单。",
+    "news_ids": [
+     "5b4d706e11d0e02a"
+    ],
+    "refs": [
+     {
+      "id": "5b4d706e11d0e02a",
+      "title": "AI换脸明星带货泛滥，维权难点到底在哪？",
+      "source": "中新网即时",
+      "url": "https://www.chinanews.com.cn/sh/2026/10-25/10720562.shtml",
+      "published_at": 1792889965.0
+     }
+    ]
+   },
+   {
+    "kind": "glossary",
+    "items": [
+     {
+      "term": "AI",
+      "desc": "人工智能，让机器完成识别、生成、判断等原本需要人做的任务"
+     },
+     {
+      "term": "中国式现代化",
+      "desc": "中国共产党领导的社会主义现代化，含五大特征"
+     }
+    ]
+   },
+   {
+    "kind": "outlook",
+    "text": "整体看，这个时段的新闻还处在「消息多、结论少」的阶段，与其急着下判断，不如盯住接下来一两周有没有可验证的后续动作。"
+   }
+  ],
+  "word_count": 507
+ },
+ "ai_enhanced": false,
+ "schema": 1,
+ "window_bj": {
+  "start": "2026-10-25 00:00",
+  "end": "2026-10-25 09:00"
+ }
+}

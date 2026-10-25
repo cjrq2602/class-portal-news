@@ -1,8 +1,17 @@
 {
  "date": "2026-10-25",
- "generated_at": 1792890931.2371132,
- "count": 20,
+ "generated_at": 1792891657.539942,
+ "count": 22,
  "items": [
+  {
+   "id": "a73988ce3903703f",
+   "source": "中新网即时",
+   "title": "暨南大学校友百亩稻田彩绘献礼母校百廿华诞",
+   "url": "https://www.chinanews.com.cn/edu/2026/10-25/10720549.shtml",
+   "summary": "中新网广东云浮10月25日电 (记者 郭军)“百廿暨南 岁岁生花”献礼暨南大学120周年丰收仪式暨稻田音乐会24日在广东云浮罗定市长岗坡举行。",
+   "published_at": 1792890986.0,
+   "published_bj": "2026-10-25 09:16"
+  },
   {
    "id": "cff0f82e8d62b6c6",
    "source": "中新网即时",
@@ -11,6 +20,15 @@
    "summary": "中新网宜昌10月25日电 题：湖北宜昌：潮起峡江 新三峡文旅启新程",
    "published_at": 1792890854.0,
    "published_bj": "2026-10-25 09:14"
+  },
+  {
+   "id": "b2c189b8e657a8fd",
+   "source": "BBC中文",
+   "title": "日本以舉辦世界級活動聞名，但名古屋亞運卻是一片混亂",
+   "url": "https://www.bbc.com/zhongwen/articles/cm4g1wr84j9xo/trad?at_medium=RSS&at_campaign=rss",
+   "summary": "飯店混亂、交通事故和外交失誤使組織者和承辦的公司成為焦點。",
+   "published_at": 1792890773.0,
+   "published_bj": "2026-10-25 09:12"
   },
   {
    "id": "7497c9a23e813b91",

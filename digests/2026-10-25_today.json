@@ -1,0 +1,382 @@
+{
+ "type": "today",
+ "date": "2026-10-25",
+ "window": {
+  "start_ts": 1792857600.0,
+  "end_ts": 1792890000.0
+ },
+ "generated_at": 1792891657.6455483,
+ "generator": "action",
+ "news_count": 55,
+ "keywords": [
+  "the",
+  "ai",
+  "and",
+  "of",
+  "to",
+  "iphone",
+  "duo",
+  "支持",
+  "苹果",
+  "language"
+ ],
+ "points": [
+  {
+   "text": "【the】Article URL: https://www",
+   "keyword": "the",
+   "news_ids": [
+    "6d4f20b92d7a9aa9"
+   ],
+   "refs": [
+    {
+     "id": "6d4f20b92d7a9aa9",
+     "title": "America Has Lost 200k of Jobs in Media, Film and the Arts. How Much Is AI?",
+     "source": "Hacker News",
+     "url": "https://www.apricitas.io/p/ai-and-the-fall-of-the-creative-class",
+     "published_at": 1792883514.0
+    }
+   ]
+  },
+  {
+   "text": "【支持】IT之家 10 月 25 日消息，据多位博主、网友分享，腾讯《王者荣耀》和米哈游的《原神》这两款热门游戏暂未适配苹果最新折叠屏手机 iPhone",
+   "keyword": "支持",
+   "news_ids": [
+    "3acbdb08781215b8"
+   ],
+   "refs": [
+    {
+     "id": "3acbdb08781215b8",
+     "title": "苹果 iPhone Duo 内屏玩《王者荣耀》《原神》暂不支持全屏显示，大黑边被网友吐槽“公摊广告位”",
+     "source": "IT之家",
+     "url": "https://www.ithome.com/1/017/538.htm",
+     "published_at": 1792887916.0
+    }
+   ]
+  },
+  {
+   "text": "【the】Article URL: https://twitter",
+   "keyword": "the",
+   "news_ids": [
+    "36a786965a9efd05"
+   ],
+   "refs": [
+    {
+     "id": "36a786965a9efd05",
+     "title": "John Carmack on the Goose Language: multiple data stacks and relative references",
+     "source": "Hacker News",
+     "url": "https://twitter.com/ID_AA_Carmack/status/2113704269274636568",
+     "published_at": 1792868815.0
+    }
+   ]
+  },
+  {
+   "text": "【to】Elon Musk reportedly ordered SpaceX to throttle Ukraine's Starlink acces",
+   "keyword": "to",
+   "news_ids": [
+    "e60efb41550ac9b6"
+   ],
+   "refs": [
+    {
+     "id": "e60efb41550ac9b6",
+     "title": "Starlink seems to be working normally again in Ukraine",
+     "source": "TechCrunch",
+     "url": "https://techcrunch.com/2026/10/24/starlink-seems-to-be-working-normally-again-in-ukraine/",
+     "published_at": 1792874794.0
+    }
+   ]
+  },
+  {
+   "text": "【美元】IT之家 10 月 25 日消息，据报道，亚历克斯 · 加兰（Alex Garland）执导的《艾尔登法环》真人电影预算高达近 2 亿美元 （I",
+   "keyword": "美元",
+   "news_ids": [
+    "27d551e06d32d5d1"
+   ],
+   "refs": [
+    {
+     "id": "27d551e06d32d5d1",
+     "title": "消息称《艾尔登法环》真人电影预算近 2 亿美元，为 A24 史上成本最高影片",
+     "source": "IT之家",
+     "url": "https://www.ithome.com/1/017/544.htm",
+     "published_at": 1792889485.0
+    }
+   ]
+  },
+  {
+   "text": "【thermostats】Article URL: https://www",
+   "keyword": "thermostats",
+   "news_ids": [
+    "94bbf71020d1b7eb"
+   ],
+   "refs": [
+    {
+     "id": "94bbf71020d1b7eb",
+     "title": "Google has officially turned these Nest thermostats back into dumb thermostats",
+     "source": "Hacker News",
+     "url": "https://www.makeuseof.com/google-nest-thermostats-unsupported/",
+     "published_at": 1792883670.0
+    }
+   ]
+  },
+  {
+   "text": "Article URL: https://tailworm",
+   "keyword": "",
+   "news_ids": [
+    "c76f39cf8d81217f"
+   ],
+   "refs": [
+    {
+     "id": "c76f39cf8d81217f",
+     "title": "Tailworm – Tailscale Vulnerabilities",
+     "source": "Hacker News",
+     "url": "https://tailworm.com/",
+     "published_at": 1792889988.0
+    }
+   ]
+  },
+  {
+   "text": "IT之家 10 月 25 日消息，PS5 的破解社区几乎每周都有新进展",
+   "keyword": "",
+   "news_ids": [
+    "45adcd8e81f1148b"
+   ],
+   "refs": [
+    {
+     "id": "45adcd8e81f1148b",
+     "title": "索尼 PS5 破解新进展：已可直接运行 Steam 游戏库中的 Windows 游戏",
+     "source": "IT之家",
+     "url": "https://www.ithome.com/1/017/540.htm",
+     "published_at": 1792888400.0
+    }
+   ]
+  },
+  {
+   "text": "IT之家 10 月 25 日消息，《塞尔达传说》系列资深制作人青沼英二（Eiji Aonuma），自《时之笛》起就一直守护着时光勇者挺身而出对抗",
+   "keyword": "",
+   "news_ids": [
+    "b8fa0afaa96322b1"
+   ],
+   "refs": [
+    {
+     "id": "b8fa0afaa96322b1",
+     "title": "塞尔达传说》制作人青沼英二获颁法国艺术与文学骑士勋章",
+     "source": "IT之家",
+     "url": "https://www.ithome.com/1/017/536.htm",
+     "published_at": 1792886905.0
+    }
+   ]
+  },
+  {
+   "text": "IT之家 10 月 25 日消息，如果你本周末身在洛杉矶，就有机会亲眼见到特斯拉新款 Roadster",
+   "keyword": "",
+   "news_ids": [
+    "b8369704c81ba05d"
+   ],
+   "refs": [
+    {
+     "id": "b8369704c81ba05d",
+     "title": "搭载冷气推进系统，特斯拉新款 Roadster 在洛杉矶彼得森汽车博物馆展出",
+     "source": "IT之家",
+     "url": "https://www.ithome.com/1/017/534.htm",
+     "published_at": 1792885720.0
+    }
+   ]
+  },
+  {
+   "text": "IT之家 10 月 25 日消息，当地时间 23 日，据外媒 VGC 报道，《赛博朋克 2077》续作副总监帕维尔 · 萨斯科透露，续作任务设计",
+   "keyword": "",
+   "news_ids": [
+    "b26c0a70dac98446"
+   ],
+   "refs": [
+    {
+     "id": "b26c0a70dac98446",
+     "title": "同人变官方：《赛博朋克 2077》续作设计团队中，半数是被“收编”的模组作者",
+     "source": "IT之家",
+     "url": "https://www.ithome.com/1/017/533.htm",
+     "published_at": 1792885668.0
+    }
+   ]
+  },
+  {
+   "text": "Article URL: https://codeberg",
+   "keyword": "",
+   "news_ids": [
+    "90377ab716e673f6"
+   ],
+   "refs": [
+    {
+     "id": "90377ab716e673f6",
+     "title": "FindMyWeb: Apple Find My, reverse enginiered",
+     "source": "Hacker News",
+     "url": "https://codeberg.org/Misom/FindMyWeb",
+     "published_at": 1792885372.0
+    }
+   ]
+  },
+  {
+   "text": "IT之家 10 月 25 日消息，三体宇宙衍生真人剧《三体：智子灾变》已正式官宣， 并首发概念海报 ",
+   "keyword": "",
+   "news_ids": [
+    "ae894e1325b807aa"
+   ],
+   "refs": [
+    {
+     "id": "ae894e1325b807aa",
+     "title": "三体宇宙全新剧集《三体・智子灾变》官宣：主创阵容首曝，概念海报同步首发",
+     "source": "IT之家",
+     "url": "https://www.ithome.com/1/017/532.htm",
+     "published_at": 1792885251.0
+    }
+   ]
+  },
+  {
+   "text": "IT之家 10 月 25 日消息，Switch 2 的破解给这台主机的自制程序生态注入了活力",
+   "keyword": "",
+   "news_ids": [
+    "9a020fe9d8603fab"
+   ],
+   "refs": [
+    {
+     "id": "9a020fe9d8603fab",
+     "title": "任天堂 Switch 2 破解取得进展，《三角符文》《黄昏之血》资源包流出",
+     "source": "IT之家",
+     "url": "https://www.ithome.com/1/017/531.htm",
+     "published_at": 1792884998.0
+    }
+   ]
+  },
+  {
+   "text": "IT之家 10 月 25 日消息，据央视财经报道，10 月 24 日，我国首个区域电力市场 —— 南方区域电力市场正式运行",
+   "keyword": "",
+   "news_ids": [
+    "6d31652ee197bdba"
+   ],
+   "refs": [
+    {
+     "id": "6d31652ee197bdba",
+     "title": "全球最大“电力超市”开业，南方区域电力市场正式运行",
+     "source": "IT之家",
+     "url": "https://www.ithome.com/1/017/529.htm",
+     "published_at": 1792884642.0
+    }
+   ]
+  }
+ ],
+ "article": {
+  "title": "2026-10-25 新闻总结",
+  "paragraphs": [
+   {
+    "kind": "lead",
+    "text": "今天共收录 55 条新闻，来自 4 家媒体。把标题放在一起看，讨论主要集中在 AI 这几个方向上，其余消息更像是零散补充。"
+   },
+   {
+    "kind": "section",
+    "heading": "AI",
+    "text": "先看「AI」。IT之家 10 月 25 日消息，澳大利亚国家男子足球队球星走在宽敞的中庭里，目光直视镜头，足球鞋踩在光洁的混凝土地面上，另有 20 条消息指向同一话题。这条消息短期内的实际影响可能有限，但它指向的方向值得放进观察名单。",
+    "news_ids": [
+     "bacaefcd9d467d66"
+    ],
+    "refs": [
+     {
+      "id": "bacaefcd9d467d66",
+      "title": "澳国脚授权 AI 数字分身，运动员开启肖像权 AI 商业化",
+      "source": "IT之家",
+      "url": "https://www.ithome.com/1/017/542.htm",
+      "published_at": 1792888958.0
+     }
+    ]
+   },
+   {
+    "kind": "section",
+    "heading": "广告",
+    "text": "与此同时「广告」。IT之家 10 月 25 日消息，据多位博主、网友分享，腾讯《王者荣耀》和米哈游的《原神》这两款热门游戏暂未适配苹果最新折叠屏手机 iPhone Duo…，另有 7 条消息指向同一话题。真正影响口碑的是使用一两周之后的细节，而不是发布会上的演示。",
+    "news_ids": [
+     "3acbdb08781215b8"
+    ],
+    "refs": [
+     {
+      "id": "3acbdb08781215b8",
+      "title": "苹果 iPhone Duo 内屏玩《王者荣耀》《原神》暂不支持全屏显示，大黑边被网友吐槽“公摊广告位”",
+      "source": "IT之家",
+      "url": "https://www.ithome.com/1/017/538.htm",
+      "published_at": 1792887916.0
+     }
+    ]
+   },
+   {
+    "kind": "section",
+    "heading": "电影",
+    "text": "另一个值得注意的方向是「电影」。IT之家 10 月 25 日消息，据报道，亚历克斯 · 加兰（Alex Garland）执导的《艾尔登法环》真人电影预算高达近 2 亿美元 （IT之家注，另有 2 条消息指向同一话题。对读者来说，值得留意的不是结论本身，而是它背后哪些前提正在被改变。",
+    "news_ids": [
+     "27d551e06d32d5d1"
+    ],
+    "refs": [
+     {
+      "id": "27d551e06d32d5d1",
+      "title": "消息称《艾尔登法环》真人电影预算近 2 亿美元，为 A24 史上成本最高影片",
+      "source": "IT之家",
+      "url": "https://www.ithome.com/1/017/544.htm",
+      "published_at": 1792889485.0
+     }
+    ]
+   },
+   {
+    "kind": "section",
+    "heading": "游戏",
+    "text": "相比之下「游戏」。IT之家 10 月 25 日消息。单看一条新闻容易高估影响，放到最近几周的脉络里，它更像是一个渐进变化中的节点。",
+    "news_ids": [
+     "45adcd8e81f1148b"
+    ],
+    "refs": [
+     {
+      "id": "45adcd8e81f1148b",
+      "title": "索尼 PS5 破解新进展：已可直接运行 Steam 游戏库中的 Windows 游戏",
+      "source": "IT之家",
+      "url": "https://www.ithome.com/1/017/540.htm",
+      "published_at": 1792888400.0
+     }
+    ]
+   },
+   {
+    "kind": "glossary",
+    "items": [
+     {
+      "term": "AI",
+      "desc": "人工智能，让机器完成识别、生成、判断等原本需要人做的任务"
+     },
+     {
+      "term": "IPO",
+      "desc": "首次公开募股，公司第一次把股票卖给公众并上市"
+     },
+     {
+      "term": "GPU",
+      "desc": "图形处理器，因为擅长大规模并行计算，成了 AI 训练的主力硬件"
+     },
+     {
+      "term": "无人机",
+      "desc": "不需要机上飞行员、靠远程或自主控制的飞行器"
+     },
+     {
+      "term": "开源",
+      "desc": "源代码公开，允许他人查看、修改并再分发"
+     },
+     {
+      "term": "算力",
+      "desc": "计算能力，通常用 GPU 数量和浮点性能衡量，是训练大模型的门槛"
+     }
+    ]
+   },
+   {
+    "kind": "outlook",
+    "text": "整体看，这个时段的新闻还处在「消息多、结论少」的阶段，与其急着下判断，不如盯住接下来一两周有没有可验证的后续动作。"
+   }
+  ],
+  "word_count": 573
+ },
+ "ai_enhanced": false,
+ "schema": 1,
+ "window_bj": {
+  "start": "2026-10-25 00:00",
+  "end": "2026-10-25 09:00"
+ }
+}
