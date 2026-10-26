@@ -1,8 +1,17 @@
 {
  "date": "2026-10-26",
- "generated_at": 1792985463.9330554,
- "count": 121,
+ "generated_at": 1792988125.5514314,
+ "count": 132,
  "items": [
+  {
+   "id": "15c2569113e53d59",
+   "source": "InfoQ中文",
+   "title": "从 Agent 工程化到任务交付，解读 AI 走向生产的关键挑战｜QCon 上海 2026 圆满收官",
+   "url": "https://www.infoq.cn/article/0C1Wgt7N9NzM6KjHSFeA?utm_source=rss&utm_medium=article",
+   "summary": "点击查看原文>",
+   "published_at": 1793015589.0,
+   "published_bj": "2026-10-26 19:53"
+  },
   {
    "id": "efbae6a86dcaf767",
    "source": "InfoQ中文",
@@ -22,6 +31,60 @@
    "published_bj": "2026-10-26 17:00"
   },
   {
+   "id": "8d1d98d2eefb57d1",
+   "source": "IT之家",
+   "title": "瓦尔基里推出 PG 系列氮化镓 PC 电源：ATX 3.1 全模组铂金，至高 1200W",
+   "url": "https://www.ithome.com/1/017/834.htm",
+   "summary": "IT之家 10 月 26 日消息，瓦尔基里 (Valkyrie, Vk) 现已推出 PG 系列 PC 电源。其采用标准长 ATX 外形规格，符合 ATX12V 3.1 和 PCIe CEM 5.1 规范，配套全模组线材， 获得 80 PLUS 与 PPLP 铂金转换效率认证 。 PG 系列电源应用氮化镓 (GaN) 半导体材料，电解电容与固态电容均来自日系品牌，主电容耐温 105℃，配备拥有撞色端子塑壳的 16AWG 镀锡铜芯 600W 12V-2×6 线材，采用主动式 PFC + 同步整流 + LLC + DC-DC 电路拓扑， 可承受 235% 整机峰值负载 。 该电源配备 12025 风",
+   "published_at": 1792987848.0,
+   "published_bj": "2026-10-26 12:10"
+  },
+  {
+   "id": "d80f150256049375",
+   "source": "IT之家",
+   "title": "智界预计还有四款 SUV 出海，消息称后续开发都是按照全球车型（标准）",
+   "url": "https://www.ithome.com/1/017/831.htm",
+   "summary": "IT之家 10 月 26 日消息，博主 @未来的学习笔记 今日发文称，智界出海除了前两天公布的 V9 和 RX 的海外版本， 预计还有四款 SUV 车型 。 博主表示，从智界 V9 和 RX 可以看出， 智界后续开发的车型都是按照全球车型（标准）来的 。他还透露，后面的四款 SUV 预计会在明年登场。 据IT之家此前报道，本月早些时候，智界 V9 和智界 RX 的全球车型曝光。其中，智界 V9 的海外版采用全新外观方案，前脸更换为大尺寸直瀑式格栅，大灯组造型也进行了调整，变为格栅两侧纵置布局；智界 RX 外观与国内版本区别不大，但沿用的是 LUXEED 字母车标设计。 延伸阅读 智界是华为与奇",
+   "published_at": 1792987594.0,
+   "published_bj": "2026-10-26 12:06"
+  },
+  {
+   "id": "fd48002cead24b12",
+   "source": "IT之家",
+   "title": "遭网络攻击后，多家日本企业开始向用户支付补偿金",
+   "url": "https://www.ithome.com/1/017/817.htm",
+   "summary": "IT之家 10 月 26 日消息，据路透社报道，接连多轮网络攻击扰乱网络服务、引发市场对经济稳定的担忧后，多家日本企业开始向用户支付补偿金。 GMO 互联网集团宣布，将对旗下外汇交易服务遭非法入侵给客户造成的损失予以赔付。董事长熊谷正寿（Masatoshi Kumagai）周日在博客中表示，所有客户都将收到 5,000 日元 （IT之家注：现汇率约合 212.7 元人民币） 的“初步诚意补偿金”。 日本政府上周五宣布，将组建专项团队，借助 AI 模拟网络攻击，排查各类技术系统的漏洞。当下大量互联网服务依托 PHP 编程语言，业内机构正紧急应对 PHP 重大漏洞带来的安全风险。 截至上周五收盘，",
+   "published_at": 1792986754.0,
+   "published_bj": "2026-10-26 11:52"
+  },
+  {
+   "id": "6d7fa984c0d9fa5a",
+   "source": "IT之家",
+   "title": "Acoustune 发布 XHS1400 耳机：发声单元与连接器为独立模块",
+   "url": "https://www.ithome.com/1/017/816.htm",
+   "summary": "IT之家 10 月 26 日消息，日本音频设备品牌 Acoustune 当地时间 23 日发布 XHS1400 耳机。这一产品也是其 \"XHS\" 系列的首发型号，可选黑 /金 2 种配色， 售价为 5.83 万日元 （IT之家注：现汇率约合 2,480 元人民币） 。 XHS1400 的 发声单元与连接器均为可拆卸独立模块 ，用户可将其发声单元与兼容的无线连接器组合为无线耳机。 其外壳和声腔均采用铝合金，振膜为医用级 Myrinx 树脂，搭配锂镁合金圆顶镀膜， 提供浑厚深沉的低音和清晰锐利的中高频 。该耳机线原装连接器模块采用 Pentaconn Ear 接口，配合原装线材 ARC83 无氧铜",
+   "published_at": 1792986555.0,
+   "published_bj": "2026-10-26 11:49"
+  },
+  {
+   "id": "ebedcb97a1cae8a1",
+   "source": "IT之家",
+   "title": "原生桌面级应用 WPS for Pad 正式上线小米应用商城，支持 18 Fold、平板设备下载使用",
+   "url": "https://www.ithome.com/1/017/815.htm",
+   "summary": "IT之家 10 月 26 日消息，金山办公 WPS 官方微博刚刚宣布，专为平板量身打造的原生桌面级应用 WPS &nbsp;for Pad， 已正式上线小米应用商城 。 据介绍，使用小米平板 &amp; 小米 18 Fold 的用户，将设备升级至小米澎湃 OS4 系统后， 可以直接前往小米应用商城搜索「WPS for Pad」下载使用 。 IT之家注意到，WPS 还将和小米平板举行联合直播活动。届时，小米用户运营负责人 @神得强 Steven 会在直播中分享用户上手的使用体验， 并进行现场实机演示 。 延伸阅读 WPS for Pad 最早于 2026 年 3 月 9 日面向 iPad 发布，",
+   "published_at": 1792985879.0,
+   "published_bj": "2026-10-26 11:37"
+  },
+  {
+   "id": "7cb8e1451cb2d9e2",
+   "source": "Hacker News",
+   "title": "Behind the scenes at the NeXT Computer office",
+   "url": "https://exhibits.stanford.edu/menuez/browse/next-computer-inc?per_page=96&sort=pub_year_isi+asc%2C+title_sort+asc&view=masonry",
+   "summary": "Article URL: https://exhibits.stanford.edu/menuez/browse/next-computer-inc?per_page=96&sort=pub_year_isi+asc%2C+title_sort+asc&view=masonry Comments URL: https://news.ycombinator.com/item?id=50238763 Points: 5 # Comments: 1",
+   "published_at": 1792985471.0,
+   "published_bj": "2026-10-26 11:31"
+  },
+  {
    "id": "fb47636153f89b00",
    "source": "IT之家",
    "title": "报告：微软 XBOX 高管过去六年有五年未达成绩效目标",
@@ -31,6 +94,15 @@
    "published_bj": "2026-10-26 11:30"
   },
   {
+   "id": "d566896bb9311b91",
+   "source": "Hacker News",
+   "title": "PaperPilot – Zero-Cloud, Pure-Rust PDF Engine with WASM and MCP",
+   "url": "https://github.com/KrushnaVardhanReddy/PaperPilot",
+   "summary": "Article URL: https://github.com/KrushnaVardhanReddy/PaperPilot Comments URL: https://news.ycombinator.com/item?id=50238739 Points: 7 # Comments: 0",
+   "published_at": 1792985345.0,
+   "published_bj": "2026-10-26 11:29"
+  },
+  {
    "id": "7199e8bb633be2ba",
    "source": "IT之家",
    "title": "英伟达下调 Rubin GPU 系统 HBM 与 NVLink 带宽，网络带宽提升",
@@ -38,6 +110,15 @@
    "summary": "IT之家 10 月 26 日消息，根据 NVIDIA 第一方今年 10 月文档和第三方保存的今年六月文档间的对比， NVIDIA 下调了 Rubin GPU 系统的 HBM 与 NVLink 带宽 ，但网络带宽有所提升。 Vera Rubin 超级芯片的 HBM4 GPU 内存带宽此前是 44TB/s，现在是 38.5TB/s ； NVLink 带宽此前是 7.2TB/s，现在是 6TB/s ；横向扩展网络带宽此前是 0.8TB/s，现在是 0.9TB/s。这些数据基本上等比例地反映在 Vera Rubin NVL4 和 Vera Rubin NVL72 上，不过 Vera Rubin NVL",
    "published_at": 1792985212.0,
    "published_bj": "2026-10-26 11:26"
+  },
+  {
+   "id": "df27856e7c7eb16f",
+   "source": "Hacker News",
+   "title": "Show HN: TitleArt – Make text like it's 1997",
+   "url": "https://titleart.dvy.io/",
+   "summary": "Article URL: https://titleart.dvy.io/ Comments URL: https://news.ycombinator.com/item?id=50238708 Points: 23 # Comments: 7",
+   "published_at": 1792985037.0,
+   "published_bj": "2026-10-26 11:23"
   },
   {
    "id": "0e81a5e5eafcf38e",
@@ -92,6 +173,15 @@
    "summary": "Article URL: https://www.bbc.com/news/articles/cmvg7p001qj9o Comments URL: https://news.ycombinator.com/item?id=50238557 Points: 7 # Comments: 1",
    "published_at": 1792983848.0,
    "published_bj": "2026-10-26 11:04"
+  },
+  {
+   "id": "19aa67176a1316e6",
+   "source": "少数派",
+   "title": "少数派×红树林基金会｜候鸟季公益直播，邀你共护湿地",
+   "url": "https://sspai.com/post/117180",
+   "summary": "每年秋冬，深圳湾都会迎来一批特殊的「旅客」。它们从北方出发，沿着迁徙路线飞越山海，有的在这里短暂停歇，有的则留下越冬。随着潮水涨落，水鸟在滩涂上低头觅食，鸟群掠过海面，也让我们熟悉的海湾多了几分热闹。 ... 查看全文",
+   "published_at": 1792983613.0,
+   "published_bj": "2026-10-26 11:00"
   },
   {
    "id": "96df2061a652dca1",
@@ -164,6 +254,15 @@
    "summary": "IT之家 10 月 26 日消息，近期 AI 逆向实现了很多有趣的项目，包括安卓手机刷入 iOS 系统等。最近，网友“QAQLeonard”为索尼 A7C II 相机制作了定制固件， 直接解锁了 FL2、FL3 胶片模式 。 据介绍，其还支持导入外部 LUT， 支持富士 NC、理光 GR 直出色调 ，并能创意外观、电子快门声音、竖屏显示等。目前，A7C II Tools 已推出 3.0 版本， 是首个拥有正式图形界面的版本 ，驱动的设置、安装、冷加载和验证都通过一个窗口的按钮完成，不需要命令行。 需要注意的是，该工具仅支持索尼 A7C II（ILCE-7CM2）固件 2.01。它不适用于其他型",
    "published_at": 1792981687.0,
    "published_bj": "2026-10-26 10:28"
+  },
+  {
+   "id": "9050209c161ed319",
+   "source": "Hacker News",
+   "title": "If AI displaces human workers, they will lose more than just pay",
+   "url": "https://www.economist.com/business/2026/10/22/if-ai-displaces-human-workers-they-will-lose-more-than-just-pay",
+   "summary": "Article URL: https://www.economist.com/business/2026/10/22/if-ai-displaces-human-workers-they-will-lose-more-than-just-pay Comments URL: https://news.ycombinator.com/item?id=50238351 Points: 12 # Comments: 7",
+   "published_at": 1792981358.0,
+   "published_bj": "2026-10-26 10:22"
   },
   {
    "id": "f6ff23ae40b78cc2",
