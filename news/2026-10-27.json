@@ -1,8 +1,44 @@
 {
  "date": "2026-10-27",
- "generated_at": 1793053638.3866765,
- "count": 42,
+ "generated_at": 1793056147.3877368,
+ "count": 49,
  "items": [
+  {
+   "id": "bdce379be1209e0f",
+   "source": "IT之家",
+   "title": "微软向约 6 万名员工推出自愿离职买断方案，适配 AI 时代人员结构调整",
+   "url": "https://www.ithome.com/1/018/197.htm",
+   "summary": "IT之家 10 月 27 日消息，微软于当地时间周一向科技媒体 TechCrunch 证实，公司正向约 6 万名员工提供自愿离职买断方案。此举是微软为削减成本、适配人工智能时代调整人员结构的最新举措。 微软首席人力官埃米 · 科尔曼（Amy Coleman）向员工发送了关于本次买断方案的通知，IT之家注意到，这份通知也同步发布在微软官网。 通知显示，美国、加拿大、印度和英国部分团队中副总裁级别及以下的员工符合申请资格。据彭博社报道，参与本次买断计划的部门包括 Xbox、Windows、Copilot 以及财务部门。数据中心、销售和市场营销等岗位的部分员工不在此次范围内。 发给员工的通知写道：“",
+   "published_at": 1793055441.0,
+   "published_bj": "2026-10-27 06:57"
+  },
+  {
+   "id": "57a83b00ed811f97",
+   "source": "IT之家",
+   "title": "苹果回应 iPhone Duo 内屏开裂问题：仅少量设备受影响，可申请换机",
+   "url": "https://www.ithome.com/1/018/196.htm",
+   "summary": "IT之家 10 月 27 日消息，iPhone Duo 上市不久，就有部分用户反馈铰链故障，导致内屏出现裂纹。苹果现已在给 MacRumors 的一份声明中回应了相关消息，称受影响的设备数量很少。 苹果回应如下： 首批用户对 iPhone Duo 的反馈整体非常好，开发者也在快速更新应用，适配这款产品独特的形态，带来了不少亮眼的成果。我们留意到有少量 iPhone Duo 设备存在内屏故障问题。如果用户遇到 iPhone Duo 屏幕相关故障，可以联系苹果官方客服 AppleCare 申请更换。 苹果没有说明裂痕产生的原因，也没有透露是否会推出修复方案。受影响的用户可以到线下门店更换新机，但由",
+   "published_at": 1793054891.0,
+   "published_bj": "2026-10-27 06:48"
+  },
+  {
+   "id": "bdff3e9b4b7ec822",
+   "source": "Hacker News",
+   "title": "Cross-request KV cache exposure in the GLM-5.3 Workers AI model (155 responses)",
+   "url": "https://blog.cloudflare.com/kv-cache-exposure-remediation/",
+   "summary": "Article URL: https://blog.cloudflare.com/kv-cache-exposure-remediation/ Comments URL: https://news.ycombinator.com/item?id=50252159 Points: 18 # Comments: 6",
+   "published_at": 1793054508.0,
+   "published_bj": "2026-10-27 06:41"
+  },
+  {
+   "id": "fe7a192f93198570",
+   "source": "Hacker News",
+   "title": "Is PHP Running on Your ColdFusion Server? How to Check, and Remove It",
+   "url": "https://www.gregoryalexander.com/blog/2026/10/23/is-php-quietly-running-on-your-coldfusion-server-how-to-check-and-remove-it",
+   "summary": "Article URL: https://www.gregoryalexander.com/blog/2026/10/23/is-php-quietly-running-on-your-coldfusion-server-how-to-check-and-remove-it Comments URL: https://news.ycombinator.com/item?id=50252008 Points: 5 # Comments: 0",
+   "published_at": 1793053637.0,
+   "published_bj": "2026-10-27 06:27"
+  },
   {
    "id": "6c87645cf66e8455",
    "source": "TechCrunch",
@@ -11,6 +47,15 @@
    "summary": "Turns out selling to big companies isn’t about having the shiniest tech: it’s about hitching a ride on a giant’s sales team.",
    "published_at": 1793052000.0,
    "published_bj": "2026-10-27 06:00"
+  },
+  {
+   "id": "5db6d1f3e7920ee5",
+   "source": "Hacker News",
+   "title": "The Exponential Time Hypothesis Is False [pdf]",
+   "url": "https://github.com/openai/math/blob/main/preprints/The-Exponential-Time-Hypothesis-is-False-October-25-2026/paper.pdf",
+   "summary": "Article URL: https://github.com/openai/math/blob/main/preprints/The-Exponential-Time-Hypothesis-is-False-October-25-2026/paper.pdf Comments URL: https://news.ycombinator.com/item?id=50251661 Points: 26 # Comments: 3",
+   "published_at": 1793051955.0,
+   "published_bj": "2026-10-27 05:59"
   },
   {
    "id": "080e3c0e2d3e9589",
@@ -175,6 +220,15 @@
    "published_bj": "2026-10-27 02:44"
   },
   {
+   "id": "f796e7d69584f2b0",
+   "source": "IT之家",
+   "title": "苹果发布 iPhone Duo 专属 iOS 27.2 更新：支持 Apple Pencil，及面部补光",
+   "url": "https://www.ithome.com/1/018/186.htm",
+   "summary": "IT之家 10 月 27 日消息，苹果今日向 iPhone 和 iPad 用户推送了 iOS / iPadOS 27.2 更新（内部版本号：24B91020），本次更新距离上次发布正式版间隔 28 天。 需要注意的是，因苹果各区域节点服务器配置缓存问题，可能有些地方探测到升级更新的时间略有延迟，一般半小时内，不会太久。 IT之家注：本次 iOS 27.2 正式版更新（24B91020）是面向 iPhone Duo 的专属正式版，与今天同步普通 iPhone 的 iOS 27.2（24B119）同属 27.2，但构建号不同。 在更新内容方面，本次更新最大的亮点在于为 iPhone Duo 引入 ",
+   "published_at": 1793040242.0,
+   "published_bj": "2026-10-27 02:44"
+  },
+  {
    "id": "656d49a24be3e5dc",
    "source": "Hacker News",
    "title": "US designates helium as a critical material",
@@ -263,6 +317,15 @@
    "summary": "Article URL: https://www.404media.co/in-leaked-audio-flock-ceo-tells-cops-backlash-to-the-company-isnt-real/ Comments URL: https://news.ycombinator.com/item?id=50248005 Points: 24 # Comments: 7",
    "published_at": 1793037240.0,
    "published_bj": "2026-10-27 01:54"
+  },
+  {
+   "id": "1631943a05bc7515",
+   "source": "IT之家",
+   "title": "Steam“尖叫节 V”正式开启：大量恐怖惊悚游戏打折，持续至 11 月 2 日",
+   "url": "https://www.ithome.com/1/018/183.htm",
+   "summary": "IT之家 10 月 27 日消息，Valve 第五届 Steam「尖叫节 V」（Steam Scream V）万圣节主题特卖活动现已正式开启，为各类恐怖、惊悚题材游戏带来折扣优惠。本次活动从即刻起持续至太平洋时间 11 月 2 日上午 10 点，即北京时间 11 月 3 日凌晨 1 点。 本次特卖覆盖心理恐怖、砍杀、惊悚搞笑等各种风格的恐怖游戏，官方玩家可在 Steam 商店活动页面一站式浏览全部打折作品。 IT之家附 Steam 官方活动页面链接（ https://store.steampowered.com/category/scream ）。 作为一年一度的万圣节专题特卖，Steam「尖",
+   "published_at": 1793037037.0,
+   "published_bj": "2026-10-27 01:50"
   },
   {
    "id": "331f33ce6d026b52",
