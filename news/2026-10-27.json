@@ -1,8 +1,89 @@
 {
  "date": "2026-10-27",
- "generated_at": 1793056147.3877368,
- "count": 49,
+ "generated_at": 1793058576.7789834,
+ "count": 58,
  "items": [
+  {
+   "id": "755a2a8c6651b0ba",
+   "source": "IT之家",
+   "title": "Instagram 测试 90 分钟横屏长视频，叫板 YouTube",
+   "url": "https://www.ithome.com/1/018/204.htm",
+   "summary": "IT之家 10 月 27 日消息，Instagram 已经联合美国部分创作者，开始测试名为 Features 的全新横版视频格式，用于平台上的长内容创作。 据《好莱坞报道》消息，这类长视频最长可达 90 分钟，主要面向喜剧博主、播客主播这类创作者。Instagram 还借鉴了 YouTube 的相关视频功能：创作者可以把播客里的短视频片段发布到 Reels，再把片段链接指向这条主 Features 视频。 至于和创作者的广告分成机制（这也是 YouTube 业务很核心的一环），Instagram 目前还没有推出类似的官方合作计划。不过产品副总裁泰莎 · 莱昂斯（Tessa Lyons）表示，创",
+   "published_at": 1793058034.0,
+   "published_bj": "2026-10-27 07:40"
+  },
+  {
+   "id": "5e063cf5d81f3aca",
+   "source": "IT之家",
+   "title": "OpenAI 宣布斩获三项重大科学突破，涉及数学猜想、计算机算法及千禧年难题",
+   "url": "https://www.ithome.com/1/018/203.htm",
+   "summary": "IT之家 10 月 27 日消息，OpenAI 宣布，其 AI 模型在数学、计算机科学和物理学领域取得三项重大突破，展现出 AI 独立发现并证明复杂科学理论的能力，而不只是回答问题或辅助研究。 在数学领域，AI 证明了适用于所有维度的局部光滑猜想，并由此解决 局部光滑猜想与挂谷猜想 。 在计算机科学领域，AI 推翻了 长期被广泛接受的指数时间假设 ，意味着未来可能找到速度更快的算法。 在物理学领域，AI 提出 量子色动力学及杨–米尔斯理论的严格数学存在性证明 ，涉及世界七大千禧年数学难题之一。 OpenAI 表示，数学和计算机科学成果已通过 Lean 数学验证工具进行形式化验证，并公开证明材料",
+   "published_at": 1793057837.0,
+   "published_bj": "2026-10-27 07:37"
+  },
+  {
+   "id": "c4f513db1a364bc7",
+   "source": "IT之家",
+   "title": "微软 Win11 测试新功能：可在设置、开始菜单里直接开启 Microsoft 365 自动续费",
+   "url": "https://www.ithome.com/1/018/202.htm",
+   "summary": "IT之家 10 月 27 日消息，微软于当地时间上周五推送了最新的 Windows 11 预览版系统。除新增内置网速测试等值得关注的改动之外，微软还在测试一项新的内嵌功能，允许订阅用户直接在 Windows 的设置应用里重新开启自动续费。 微软表示，这项新功能面向已经拥有 Microsoft 365 订阅、但关闭了自动续费的用户。系统不再跳转至独立网页，现在可以直接在设置主页、账户页面，甚至开始菜单中展示“开启自动续费”或“设置自动续费”选项。 微软称该功能是为了简化订阅管理，这点确实成立。与此同时，这也让微软多了一个在 Windows 11 内部向用户展示 Microsoft 365 的渠道",
+   "published_at": 1793057649.0,
+   "published_bj": "2026-10-27 07:34"
+  },
+  {
+   "id": "dceb8c5aee35a6e8",
+   "source": "IT之家",
+   "title": "Anthropic 招股书披露：曾因安全顾虑暂停旗舰 AI 模型训练一个多月",
+   "url": "https://www.ithome.com/1/018/201.htm",
+   "summary": "IT之家 10 月 27 日消息，Anthropic 在当地时间周一公布的 IPO 招股文件中披露，出于安全方面的顾虑，该公司曾暂停下一代旗舰 AI 模型的训练长达一个多月；另外还有四个 AI 智能体在测试期间突破限制，接入了真实的外部计算机系统。 IT之家注意到，这家 Claude 开发企业在文件的风险提示章节中表示，其推迟了一款全新前沿基础模型的预训练工作，目的是强化防护机制，防止模型权重与知识产权被盗。 这份披露内容展现出，研发能力越来越强的 AI 模型会伴随各类安全难题，部分从业者已经发出警示，这类技术未来有可能脱离人类管控。竞争对手 OpenAI 今年早些时候也曾因为安全问题暂停部分",
+   "published_at": 1793057311.0,
+   "published_bj": "2026-10-27 07:28"
+  },
+  {
+   "id": "c8f6400b2f5202e6",
+   "source": "IT之家",
+   "title": "OpenAI 低成本新模型 GPT-6.1 Terra 深夜炸场：每项任务成本仅 Claude Opus 5.5 九分之一，更快更准确",
+   "url": "https://www.ithome.com/1/018/200.htm",
+   "summary": "IT之家 10 月 27 日消息，OpenAI 今天（27 日）凌晨宣布推出新模型 GPT-6.1 Terra，主打以更低成本完成复杂的电脑操作任务，尤其擅长需要视觉推理和操作桌面软件的工作。与 GPT-5.6 Terra 相比，新模型在事实准确性和编程能力方面也有大幅提升。 Terra 主要面向希望降低自动化成本的企业，可用于处理发票、解读技术图纸等工作。OpenAI 称，面对难度较高的专业任务，Terra 也能以远低于高价模型的成本完成。 在考察复杂专业工作的 Agents’ Last Exam 基准测试中，Terra 的成绩明显提高。测试项目包括根据建筑图纸建立三维模型，以及逐一记录电影",
+   "published_at": 1793057179.0,
+   "published_bj": "2026-10-27 07:26"
+  },
+  {
+   "id": "cf69a9230046da51",
+   "source": "cnBeta",
+   "title": "Anthropic的招股书是谁写的？AI检测工具给出意外结果",
+   "url": "https://www.cnbeta.com.tw/articles/tech/1583956.htm",
+   "summary": "据Business Insider报道，人工智能公司Anthropic提交了一份 335页 的IPO招股书。为了了解这份文件是否由AI撰写，Business Insider将全文送入AI写作检测工具Pangram进行分析。 阅读全文",
+   "published_at": 1793056949.0,
+   "published_bj": "2026-10-27 07:22"
+  },
+  {
+   "id": "9be534a76973056f",
+   "source": "IT之家",
+   "title": "630 亿美元！华尔街银行与黑石为 Anthropic 采购博通 AI 芯片提供融资",
+   "url": "https://www.ithome.com/1/018/199.htm",
+   "summary": "IT之家 10 月 27 日消息，据路透社报道，美国银行（Bank of America）、黑石（Blackstone）、花旗（Citi）和摩根士丹利（Morgan Stanley）将提供 630 亿美元 （IT之家注：现汇率约合 4,206.79 亿元人民币） 融资，用于为 Anthropic 采购博通（Broadcom）的人工智能芯片与网络设备，这是和人工智能算力建设相关的规模最大的一笔债务交易之一。 人工智能需求持续走高，各大科技企业争相储备算力，支撑复杂度不断提升的业务负载，由此催生了对计算基础设施的巨额投入。 相关企业当地时间周一表示，这笔交易将通过一家新设立的特殊目的实体实施，由该",
+   "published_at": 1793056826.0,
+   "published_bj": "2026-10-27 07:20"
+  },
+  {
+   "id": "039bc6dd3fefa94a",
+   "source": "IT之家",
+   "title": "Anthropic 招股书披露生态打法：打造高粘性企业客户体系",
+   "url": "https://www.ithome.com/1/018/198.htm",
+   "summary": "IT之家 10 月 27 日消息，Anthropic 正在打造一套跨产品生态，正是这类生态让亚马逊、优步等科技企业拥有极强的用户粘性，其 S-1 招股文件显示这套策略已经初见成效。目前，年消费至少十万美元的客户里，超过一半会同时使用 Claude 平台以及 Claude Code、Cowork 这类第一方应用；去年年底这一比例大约只有三成。 这份当地时间周一提交给美国证券交易委员会的 S-1 文件写道：“企业客户的采纳速度与深度，有力证明 Claude 处在人工智能领域的前沿位置。” 截至 9 月 30 日，Anthropic 有超过 11900 家客户年消费不低于 10 美元 （IT之家注：",
+   "published_at": 1793056138.0,
+   "published_bj": "2026-10-27 07:08"
+  },
+  {
+   "id": "0cc9b3f48ae810aa",
+   "source": "Hacker News",
+   "title": "Just Imagining a Workout Can Make You Stronger",
+   "url": "https://nautil.us/just-imagining-a-workout-can-make-you-stronger-236068",
+   "summary": "Article URL: https://nautil.us/just-imagining-a-workout-can-make-you-stronger-236068 Comments URL: https://news.ycombinator.com/item?id=50252457 Points: 20 # Comments: 6",
+   "published_at": 1793056107.0,
+   "published_bj": "2026-10-27 07:08"
+  },
   {
    "id": "bdce379be1209e0f",
    "source": "IT之家",
