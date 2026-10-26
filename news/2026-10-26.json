@@ -1,7 +1,7 @@
 {
  "date": "2026-10-26",
- "generated_at": 1792992577.1100872,
- "count": 148,
+ "generated_at": 1792995148.822547,
+ "count": 164,
  "items": [
   {
    "id": "a843c76b0e3bbb15",
@@ -38,6 +38,132 @@
    "summary": "点击查看原文>",
    "published_at": 1793005200.0,
    "published_bj": "2026-10-26 17:00"
+  },
+  {
+   "id": "20018b98109db707",
+   "source": "cnBeta",
+   "title": "Windows 11测试APX性能开关 现有处理器无法靠系统更新启用",
+   "url": "https://www.cnbeta.com.tw/articles/tech/1583850.htm",
+   "summary": "Windows 11一项名为“Advanced Performance Extensions”（APX，先进性能扩展）的新性能开关近期出现在预览版Build 29695中。该版本于10月23日推送至Windows Insider“Experimental（Future Platforms）”测试频道；微软官方更新说明并未提及APX，因此目前披露的开关仍属于早期测试发现，尚不清楚何时或是否会面向普通用户推出。 阅读全文",
+   "published_at": 1792994875.0,
+   "published_bj": "2026-10-26 14:07"
+  },
+  {
+   "id": "dc31d815a387771d",
+   "source": "cnBeta",
+   "title": "马斯克警告AI算力租赁行业将迎“大清洗” 200多家企业恐遭淘汰",
+   "url": "https://www.cnbeta.com.tw/articles/tech/1583848.htm",
+   "summary": "随着人工智能基础设施建设热潮持续升温，埃隆·马斯克近日对AI算力租赁行业的发展前景发出了罕见而强烈的警告。他认为，大量依赖债务融资扩张的数据中心和GPU租赁企业正面临严峻资金压力，未来几年该行业或将经历大规模整合与淘汰。 阅读全文",
+   "published_at": 1792994803.0,
+   "published_bj": "2026-10-26 14:06"
+  },
+  {
+   "id": "e6f7ce6da865ea68",
+   "source": "cnBeta",
+   "title": "Reddit开源讨论区块突然封杀AI项目及非英语用户 引发开发者社区分裂",
+   "url": "https://www.cnbeta.com.tw/articles/tech/1583846.htm",
+   "summary": "美国知名社交平台Reddit旗下的开源软件讨论社区 r/opensource 近日推出了一系列新的投稿规则，其中最具争议的规定是禁止发布使用人工智能、由人工智能生成，或专门面向人工智能的项目。社区管理团队认为，现阶段的人工智能与该社区所坚持的开源价值观并不相容。这一决定迅速引发用户争论，甚至促使部分开发者另行创建新社区，以接纳被新规排除在外的项目。 阅读全文",
+   "published_at": 1792994700.0,
+   "published_bj": "2026-10-26 14:05"
+  },
+  {
+   "id": "60b3172298d6421e",
+   "source": "cnBeta",
+   "title": "Vantex V1人体工学机械键盘登陆Kickstarter众筹 中央集成触控板",
+   "url": "https://www.cnbeta.com.tw/articles/tech/1583844.htm",
+   "summary": "Vantex推出V1机械键盘，并在Kickstarter发起众筹。它将分体式人体工学键盘常见的列错位布局整合进一体式铝合金机身，中间加入触控板，试图让用户不必频繁伸手拿鼠标。键盘采用紧凑的60%布局，左右键区分开排列，但主体仍是一整块机身。 阅读全文",
+   "published_at": 1792994621.0,
+   "published_bj": "2026-10-26 14:03"
+  },
+  {
+   "id": "7c36def0371074ac",
+   "source": "IT之家",
+   "title": "三星 SDI 签署 1GWhr 储能电池合同，将向客户交付高镍 NCA 系统",
+   "url": "https://www.ithome.com/1/017/892.htm",
+   "summary": "IT之家 10 月 26 日消息，三星 SDI 当地时间今日宣布与美国储能企业 Alpha Omega Power 签署了一份 1GWhr 的储能系统解决方案供应协议。 双方之间的合同总规模随之达到 1.5GWhr 。 三星 SDI 将在其与 Stellantis 合资的美国印第安纳州 StarPlus Energy 工厂生产这批 ESS 电池，并于今年年底前交付。 Alpha Omega Power 订购的是三星 SDI 的 SBB 1.7“电池盒 ”，其基于高镍三元 NCA 化学组分方案，单体能量容量达 6.14MWhr，在相同的集装箱尺寸下较此前的 SBB 1.5 储能量提升 17%，连",
+   "published_at": 1792994534.0,
+   "published_bj": "2026-10-26 14:02"
+  },
+  {
+   "id": "ce62f6c8d4b04d22",
+   "source": "cnBeta",
+   "title": "1.7亿年前奇特鳄类亲属改写科学认知：梳状细齿揭示独特捕食方式",
+   "url": "https://www.cnbeta.com.tw/articles/science/1583842.htm",
+   "summary": "由英国朴茨茅斯大学与摩洛哥卡萨布兰卡哈桑二世大学研究团队开展的一项最新研究显示，一种生活在约1.7亿年前的古老鳄类近亲拥有极为罕见的细长针状牙齿，其独特的进食方式正在帮助科学家重新认识中侏罗世时期鳄类亲属的生态多样性。 阅读全文",
+   "published_at": 1792994501.0,
+   "published_bj": "2026-10-26 14:01"
+  },
+  {
+   "id": "be625c4c0a249229",
+   "source": "cnBeta",
+   "title": "个体化mRNA黑色素瘤疫苗三期试验降低复发或死亡风险42% 总生存期仍待观察",
+   "url": "https://www.cnbeta.com.tw/articles/tech/1583840.htm",
+   "summary": "默沙东与Moderna公布一项关键三期临床试验的详细结果：个体化mRNA疗法intismeran autogene（V940，原代号mRNA-4157）与免疫治疗药物帕博利珠单抗联用，可降低高危黑色素瘤患者术后复发或死亡的风险。研究结果于2026年欧洲肿瘤内科学会年会公布，并已获《新英格兰医学杂志》接收发表。 阅读全文",
+   "published_at": 1792994369.0,
+   "published_bj": "2026-10-26 13:59"
+  },
+  {
+   "id": "6da7c9f80935ac5b",
+   "source": "cnBeta",
+   "title": "谷歌指责印度eMudhra延迟发布事故报告 其员工称社交媒体关注让公司难以开展调查",
+   "url": "https://www.cnbeta.com.tw/articles/tech/1583838.htm",
+   "summary": "印度数字认证基础设施公司 eMudhra 日前就证书调查报告问题发布回应，这家草台公司竟然认为社交媒体审视、投资者和客户分析让团队无法开展有意义的调查。这种回应立即引起Google员工的不满，Google员工和Mozilla基金会员工均指责 eMudhra 试图推卸责任。 阅读全文",
+   "published_at": 1792994213.0,
+   "published_bj": "2026-10-26 13:56"
+  },
+  {
+   "id": "346ad065d8a4cb7b",
+   "source": "IT之家",
+   "title": "转一圈只要 1.63 秒，已知自转最快的近地小行星被确认",
+   "url": "https://www.ithome.com/1/017/891.htm",
+   "summary": "IT之家 10 月 26 日消息，据央视新闻今日报道，中国科学院云南天文台团队联合国内外合作者，在超快自转近地小行星观测研究方面取得突破性进展， 确认已知自转最快的近地小行星 。相关研究结果已发表在国际天文期刊《天文学杂志》。 近地小行星指近日点距离小于 1.3 AU 的小行星，其中直径大于 140 米、与地球最小轨道交会距离小于 0.05 AU 的近地小行星被定义为 潜在危险小行星 。 近地小行星撞击造成的破坏力越来越引起人们的关注与重视，因此，对近地小行星的监测预警和防御关乎全人类的共同安全。 近地小行星 2024 XA1 图像 北京时间 2024 年 12 月 4 日凌晨，近地小行星 2",
+   "published_at": 1792994199.0,
+   "published_bj": "2026-10-26 13:56"
+  },
+  {
+   "id": "a31beb12c2b29ea6",
+   "source": "cnBeta",
+   "title": "爱好者们使用eMudhra泄露证书为谷歌签发10.6万张证书 能通过CA公钥认证",
+   "url": "https://www.cnbeta.com.tw/articles/tech/1583836.htm",
+   "summary": "上周印度草台公司 eMudhra 证书私钥问题引起全行业的关注，该公司签发的 8 张中间 CA 证书均使用弱密钥，其中 EM OV TLS CA – G3C 证书的私钥更是夸张到只有数字 4，因此任何人都可以直接使用这个证书为其他域名签发子证书。 阅读全文",
+   "published_at": 1792994182.0,
+   "published_bj": "2026-10-26 13:56"
+  },
+  {
+   "id": "c7041415b643a24c",
+   "source": "cnBeta",
+   "title": "苹果显示技术团队迎来交接 两位资深老将退居顾问岗位 推进新一轮高层重组",
+   "url": "https://www.cnbeta.com.tw/articles/tech/1583834.htm",
+   "summary": "据彭博社记者马克·古尔曼披露，作为苹果近期一系列工程管理层调整的一部分，两位在苹果工作约30年的资深高管正逐步交出显示技术业务的管理职责，苹果显示研发团队也进入新老交替阶段。 阅读全文",
+   "published_at": 1792994096.0,
+   "published_bj": "2026-10-26 13:54"
+  },
+  {
+   "id": "6f93f0a2f51c2208",
+   "source": "IT之家",
+   "title": "Windows 11 预览版 29695.1001 提供 APX 指令集启用开关",
+   "url": "https://www.ithome.com/1/017/890.htm",
+   "summary": "IT之家 10 月 26 日消息，根据 X 平台用户 @ XenoPanther 的发现，Windows 11 预览体验计划实验（未来平台）频道近日发布的预览版 29695.1001 为开发者提供了 APX 指令集的启用开关，开启 APX 需要进行一次重启。 ▲ 图源：@XenoPanther 根据英特尔官方的表述，APX 是对 x86-64 指令集的一项扩展。其 将可访问的通用寄存器的数量从 16 个翻倍到 32 个 ，提升了寄存器的存储容量，可减少内存访问频率；还有一系列其它提升通用性能的新功能也被引入；这些功能不会显著增加 CPU 核心的面积或功耗。 英特尔将于 2027 年发布的 \"N",
+   "published_at": 1792993849.0,
+   "published_bj": "2026-10-26 13:50"
+  },
+  {
+   "id": "659fba1479bd7af9",
+   "source": "IT之家",
+   "title": "全国多所财经高校布局“AI + 财经”",
+   "url": "https://www.ithome.com/1/017/877.htm",
+   "summary": "IT之家 10 月 26 日消息，据央视新闻今日报道，为推动财经教育数智化转型， 全国多所财经高校积极布局“AI+ 财经” ，探索 AI 赋能财经教育和研究转型升级。 在首都经济贸易大学，新成立的智能经济研究院正在对“融创智谷”平台进行升级。这是学校重点打造的“算力 — 算法 — 数据”一体化底座，通过统筹全校算力、共享数据资源，面向全校人才培养、科学研究和智库服务三类场景开放。 依托这一底座，学校持续推动教学方式和课程设置调整。 各学院可开发自己的垂类大模型和智能体，给不同专业配备不同的“智能助手” 。在人工智能学院的“词元经济”课堂，教学不再主要依托教材案例和历史数据，而是引入实时数据和智",
+   "published_at": 1792993131.0,
+   "published_bj": "2026-10-26 13:38"
+  },
+  {
+   "id": "7345c06e13f1274e",
+   "source": "IT之家",
+   "title": "比亚迪第二代海豹 07 盲订开启：定位 C 级全享家轿，轴距 2960mm",
+   "url": "https://www.ithome.com/1/017/876.htm",
+   "summary": "IT之家 10 月 26 日消息，比亚迪汽车海洋网销售事业部总经理张卓今日宣布，第二代海豹 07 盲订开启。 据介绍，盲订权益包含盲订臻享礼遇、优先排产提车以及自由选配三项内容。 IT之家获悉，新车提供帕拉青、极光粉、海雾紫、琉光银、雪域白以及曜石黑六款车色；云汐白、幻影灰、凝夜紫三种内饰配色可供选择；新车长宽高分别为 5080/1960/1495mm，轴距 2960mm。 内饰方面，第二代海豹 07 采用最新设计语言，搭载大尺寸悬浮中控屏，并配备液晶仪表；搭载全新三辐式方向盘，还搭载了 20 扬帝瓦雷音响。 座椅方面，第二代海豹 07 前排配备了零重力座椅，并提供按摩、通风及加热功能。其余配",
+   "published_at": 1792993120.0,
+   "published_bj": "2026-10-26 13:38"
   },
   {
    "id": "ea33e6b82c53abd6",
@@ -137,6 +263,24 @@
    "summary": "IT之家 10 月 26 日消息，据国家网络安全通报中心官微 10 月 26 日消息，根据中央网信办、工业和信息化部、公安部联合发布的《关于开展 2026 年个人信息保护系列专项行动的公告》，依据《网络安全法》《个人信息保护法》《网络数据安全管理条例》《App 违法违规收集使用个人信息行为认定方法》等法律法规和有关规定，经国家计算机病毒应急处理中心检测，84 款移动应用存在一项或者多项违法违规收集使用个人信息情况，现通报如下： 1、在 App 首次运行时未通过弹窗等明显方式提示用户阅读隐私政策等收集使用规则；以默认选择同意隐私政策等非明示方式征求用户同意；隐私政策难以访问；个人信息处理者在处理",
    "published_at": 1792988507.0,
    "published_bj": "2026-10-26 12:21"
+  },
+  {
+   "id": "1271e216093e18b9",
+   "source": "Hacker News",
+   "title": "Show HN: Proc-CLI – An agent-friendly CLI tool for process and port management",
+   "url": "https://proc-cli.com/",
+   "summary": "Article URL: https://proc-cli.com/ Comments URL: https://news.ycombinator.com/item?id=50239041 Points: 6 # Comments: 0",
+   "published_at": 1792988075.0,
+   "published_bj": "2026-10-26 12:14"
+  },
+  {
+   "id": "efc6e5ddaa3a60f4",
+   "source": "Hacker News",
+   "title": "Cognitive Mercantilism: AI panic resembles fears of early capitalism",
+   "url": "https://contraptions.venkateshrao.com/p/cognitive-mercantilism",
+   "summary": "Article URL: https://contraptions.venkateshrao.com/p/cognitive-mercantilism Comments URL: https://news.ycombinator.com/item?id=50239027 Points: 11 # Comments: 0",
+   "published_at": 1792987900.0,
+   "published_bj": "2026-10-26 12:11"
   },
   {
    "id": "8d1d98d2eefb57d1",
