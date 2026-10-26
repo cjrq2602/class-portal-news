@@ -1,8 +1,17 @@
 {
  "date": "2026-10-27",
- "generated_at": 1793046482.9299998,
- "count": 35,
+ "generated_at": 1793049041.1567006,
+ "count": 37,
  "items": [
+  {
+   "id": "7eaf59ab6b20cce6",
+   "source": "TechCrunch",
+   "title": "Watch out, YouTube; Instagram goes from short-form to 90-minute videos",
+   "url": "https://techcrunch.com/2026/10/26/watch-out-youtube-instagram-goes-from-short-form-to-90-minute-videos/",
+   "summary": "As Instagram rolls out long form videos of up to 90 minutes, the platform has an opportunity to challenge YouTube if it plays its cards right.",
+   "published_at": 1793048711.0,
+   "published_bj": "2026-10-27 05:05"
+  },
   {
    "id": "a10dcbd3ccba8c0d",
    "source": "IT之家",
@@ -11,6 +20,15 @@
    "summary": "IT之家 10 月 27 日消息，Cadence今日发布 2026 财年（2026 年 1 月～2026 年 12 月）第三财季（2026 年 7 月～2026 年 9 月）报告： 营业总收入 ：16.33 亿美元 （IT之家注：现汇率约合 109.06 亿元人民币） ，同比增长 22% 毛利润 ：13.98 亿美元 （现汇率约合 93.33 亿元人民币） ，同比增长 20.84% 毛利率 ：85.57%，同比下降 0.82 个百分点 归母净利润 ：2.9 亿美元 （现汇率约合 19.35 亿元人民币） ，同比增长 0.91% 基本每股收益 ：1.06 美元 （现汇率约合 7.08 元人民币）",
    "published_at": 1793045208.0,
    "published_bj": "2026-10-27 04:06"
+  },
+  {
+   "id": "5a11ea0ad1ea8efa",
+   "source": "Hacker News",
+   "title": "Somebody please stop the spam texts",
+   "url": "https://notes.npilk.com/stop-the-spam-texts",
+   "summary": "Article URL: https://notes.npilk.com/stop-the-spam-texts Comments URL: https://news.ycombinator.com/item?id=50250016 Points: 72 # Comments: 65",
+   "published_at": 1793044652.0,
+   "published_bj": "2026-10-27 03:57"
   },
   {
    "id": "7c0c6e682970a595",
