@@ -1,8 +1,35 @@
 {
  "date": "2026-10-26",
- "generated_at": 1793025338.9774814,
- "count": 343,
+ "generated_at": 1793029906.4004784,
+ "count": 360,
  "items": [
+  {
+   "id": "f31aa82f2b79a0dd",
+   "source": "Hacker News",
+   "title": "Microsoft offers mass buyouts for roughly a quarter of its workforce",
+   "url": "https://www.seattletimes.com/business/microsoft/microsoft-offers-mass-buyouts-for-roughly-a-quarter-of-its-workforce/",
+   "summary": "Article URL: https://www.seattletimes.com/business/microsoft/microsoft-offers-mass-buyouts-for-roughly-a-quarter-of-its-workforce/ Comments URL: https://news.ycombinator.com/item?id=50245524 Points: 8 # Comments: 2",
+   "published_at": 1793028912.0,
+   "published_bj": "2026-10-26 23:35"
+  },
+  {
+   "id": "ec98111d4ae21dfc",
+   "source": "Hacker News",
+   "title": "'It's offensively cheap': Solar power is quietly becoming bigger than nuclear",
+   "url": "https://www.bbc.com/future/article/20261023-how-solar-became-bigger-than-nuclear",
+   "summary": "Article URL: https://www.bbc.com/future/article/20261023-how-solar-became-bigger-than-nuclear Comments URL: https://news.ycombinator.com/item?id=50245385 Points: 13 # Comments: 9",
+   "published_at": 1793028377.0,
+   "published_bj": "2026-10-26 23:26"
+  },
+  {
+   "id": "6e499294062fbc81",
+   "source": "IT之家",
+   "title": "iPad Pro 级配置下放：苹果 iPad mini （A20 Pro）配备自适应原彩闪光灯",
+   "url": "https://www.ithome.com/1/018/179.htm",
+   "summary": "IT之家 10 月 26 日消息，苹果今天发布的 iPad mini （A20 Pro）配备了自适应原彩闪光灯。 这项配置原本在 iPad 产品线中由 iPad Pro 独占 ， 如今下放到了 iPad mini 。 苹果表示， iPad mini 的自适应原彩闪光灯能够改善拍摄效果和文档扫描体验 。该平板还带有一颗 1200 万像素后置摄像头，支持智能 HDR 4，最高可录制 4K 60FPS 视频。 据IT之家了解，自适应原彩闪光灯于 2022 年首次应用在 iPhone 14 Pro / iPhone 14 Pro Max。该闪光灯采用 9 颗 LED 组成的阵列，可根据用户选择的焦距调",
+   "published_at": 1793028031.0,
+   "published_bj": "2026-10-26 23:20"
+  },
   {
    "id": "22a5b4430a1fa267",
    "source": "InfoQ中文",
@@ -13,6 +40,33 @@
    "published_bj": "2026-10-26 23:18"
   },
   {
+   "id": "9a451ed2e4a50275",
+   "source": "IT之家",
+   "title": "美国 NHTSA 监管压力下，特斯拉仍推进 Cybercab 无人驾驶出租车交付",
+   "url": "https://www.ithome.com/1/018/178.htm",
+   "summary": "IT之家 10 月 26 日消息，据汽车媒体 CarBuzz 今天报道，特斯拉正为 Cybercab 无人驾驶出租车大规模交付做准备，该公司已在得州奥斯汀启动了小规模部署。不过美国国家公路交通安全管理局（NHTSA）已经盯上了特斯拉，重点审查这辆没有方向盘和踏板的车辆是如何获得认证的。 IT之家从原报道获悉，特斯拉截至目前并未彻底解决这一法律问题。特斯拉车辆工程副总裁拉尔斯 · 莫拉维曾强调，特斯拉致力于尽快大规模推出无人驾驶出租车，努力在今年年底前将 Cybercab 交付给客户。从这名高管的言论看，特斯拉似乎有信心应对监管难题。 特斯拉 AI 负责人埃隆 · 阿肖克则认为，公司必须克服监管",
+   "published_at": 1793027626.0,
+   "published_bj": "2026-10-26 23:13"
+  },
+  {
+   "id": "c8aa931781f4923e",
+   "source": "Hacker News",
+   "title": "Sebastian Raschka's from-scratch video course on building reasoning models",
+   "url": "https://magazine.sebastianraschka.com/p/building-reasoning-models",
+   "summary": "Article URL: https://magazine.sebastianraschka.com/p/building-reasoning-models Comments URL: https://news.ycombinator.com/item?id=50245138 Points: 4 # Comments: 0",
+   "published_at": 1793027519.0,
+   "published_bj": "2026-10-26 23:11"
+  },
+  {
+   "id": "1ed4fa823a2f51bd",
+   "source": "cnBeta",
+   "title": "Anthropic公开IPO招股书 将登陆纳斯达克",
+   "url": "https://www.cnbeta.com.tw/articles/tech/1583944.htm",
+   "summary": "10月26日， 据彭博社报道，Anthropic周一向美国证券交易委员会提交了首次公开招股(IPO)申请，距离成为首家以开发最先进AI模型为主要业务的上市公司又近了一步 。根据Anthropic提交的S-1文件，该公司预计将在纳斯达克全球精选市场开始交易，股票代码为“ANT”。Anthropic已于6月秘密提交了上市申请。 阅读全文",
+   "published_at": 1793027468.0,
+   "published_bj": "2026-10-26 23:11"
+  },
+  {
    "id": "17d2869459e6ce55",
    "source": "InfoQ中文",
    "title": "30 个 Agent 背后：花椒如何建设可持续演进的企业 AI 能力？",
@@ -20,6 +74,24 @@
    "summary": "点击查看原文>",
    "published_at": 1793027128.0,
    "published_bj": "2026-10-26 23:05"
+  },
+  {
+   "id": "9d72a65b402e6eab",
+   "source": "IT之家",
+   "title": "苹果 iPad mini （A20 Pro）支持 35W 或更高功率充电头，但包装盒内送的头还是 20W",
+   "url": "https://www.ithome.com/1/018/177.htm",
+   "summary": "IT之家 10 月 26 日消息，苹果官网数据显示，iPad mini （A20 Pro）支持快速充电，使用输出功率为 35W 或更高功率的 USB-C 电源适配器时，约 30 分钟最多可充至 50% 电量。 IT之家注意到，iPad mini （A20 Pro）包装盒内送的充电器并没有那么高功率。苹果表示， 这款平板包装盒内随附 20W USB‑C 电源适配器 、USB‑C 充电线 (1 米)。 因此，如果您想要使用快充， 就需要自行准备好快充头 ，或者选购苹果的 35W 双 USB-C 端口小型电源适配器，售价 449 元。",
+   "published_at": 1793026952.0,
+   "published_bj": "2026-10-26 23:02"
+  },
+  {
+   "id": "d6a640fd38f412ba",
+   "source": "IT之家",
+   "title": "浙江 ETC 服务上新，“手机 +”无卡通行 10 月 29 日上线",
+   "url": "https://www.ithome.com/1/018/176.htm",
+   "summary": "IT之家 10 月 26 日消息，据浙江高速公路智能收费运营服务有限公司，为贯彻落实交通运输部关于高速公路“手机 +”无卡便捷通行的工作部署，深化技术创新与服务升级，更好地服务人民群众便捷美好出行，浙江省“手机 +”无卡通行业务将于 2026 年 10 月 29 日上午 9 时正式上线。 车主可通过“浙江 ETC 手机 +”微信小程序快速完成车辆认证注册，通行高速时入口无需领卡，系统自动识别抬杆，出口扫码支付后即可驶离。注册用户可在“浙江 ETC 手机 +”微信小程序查询通行记录、开具发票。 IT之家注意到，交通运输部此前印发了《高速公路“手机 +”无卡便捷通行实施方案（2026-2028 年",
+   "published_at": 1793026877.0,
+   "published_bj": "2026-10-26 23:01"
   },
   {
    "id": "74770e48700e1317",
@@ -40,6 +112,42 @@
    "published_bj": "2026-10-26 22:57"
   },
   {
+   "id": "29b4b584125362d9",
+   "source": "IT之家",
+   "title": "苹果暗示本周将陆续推出更多新品：预计明晚推出 M6 款 iMac、后天推出首款触控屏 MacBook Pro",
+   "url": "https://www.ithome.com/1/018/175.htm",
+   "summary": "IT之家 10 月 26 日消息，苹果全球营销高级副总裁格雷格 · 乔斯维亚克（Greg Joswiak）在 X 平台发布了 iPad mini（A20 Pro）的介绍视频，并透露苹果本周还将陆续推出更多新品。 综合先前古尔曼爆料，预计苹果将在北京时间明天（10 月 27 日）晚上推出搭载 M6 芯片的 iMac 和 MacBook Pro，在后天（10 月 28 日）晚上推出首款触控屏 MacBook Pro。 从本次发布会逻辑可以看出，苹果并不想举办专场大型发布会特地介绍首款触控屏 MacBook Pro，事实上，乔布斯曾将触屏笔记本形容为“在人体工程学上糟糕透顶”的设计。蒂姆 · 库克出",
+   "published_at": 1793026224.0,
+   "published_bj": "2026-10-26 22:50"
+  },
+  {
+   "id": "8ed83b97291ebd4b",
+   "source": "IT之家",
+   "title": "《影之刃零》游戏入围金摇杆奖",
+   "url": "https://www.ithome.com/1/018/174.htm",
+   "summary": "IT之家 10 月 26 日消息，灵游坊开发的国产武侠动作游戏《影之刃零》现已入围 2026 年金摇杆奖年度最佳游戏，投票截止时间为 GMT 10 月 30 日 23:59（北京时间 10 月 31 日 7:59）， 最终结果将于 11 月 11 日在伦敦举行的颁奖典礼上揭晓 。 金摇杆奖评选活动始于 1983 年， 是最古老的游戏产业大奖之一 。该奖最初由英国公众投票选出，现已成为一项可通过 GamesRadar+ 网站投票的全球活动。这个奖项最初只包含电脑游戏，后来扩展至主机游戏。 IT之家了解到，《影之刃零》采用虚幻 5 引擎开发，是一款暗黑武侠动作游戏。本作将于 10 月 29 日 1",
+   "published_at": 1793026179.0,
+   "published_bj": "2026-10-26 22:49"
+  },
+  {
+   "id": "8839752f6839ea88",
+   "source": "Hacker News",
+   "title": "Partyline: A group voice application for Reticulum, built on LXST",
+   "url": "https://github.com/RFnexus/partyline",
+   "summary": "Article URL: https://github.com/RFnexus/partyline Comments URL: https://news.ycombinator.com/item?id=50244583 Points: 14 # Comments: 3",
+   "published_at": 1793025744.0,
+   "published_bj": "2026-10-26 22:42"
+  },
+  {
+   "id": "9b37a5e83c94b156",
+   "source": "IT之家",
+   "title": "599 元：苹果推出新款 iPad mini 智能双面夹，采用科技织物材质",
+   "url": "https://www.ithome.com/1/018/173.htm",
+   "summary": "IT之家 10 月 26 日消息，苹果现已推出适用于 iPad mini （A20 Pro）的智能双面夹，售价 599 元。该保护壳提供海军蓝、浅褐色两种配色， 应用 TechWoven 科技织物 。 IT之家了解到，这款适用于 iPad mini 的智能双面夹采用轻薄设计，可为设备的正面和背面提供出色保护。它可在一开一合之间，自动唤醒你的 iPad 或使其进入睡眠状态。这款智能双面夹可通过磁力吸附在设备上，还能轻松折叠成不同角度的支架，用于阅读、观影、打字或 FaceTime 通话。 不过，苹果暂时还没有为这款平板推出聚氨酯材质保护壳，未来是否会推出我们尚不明确。",
+   "published_at": 1793025423.0,
+   "published_bj": "2026-10-26 22:37"
+  },
+  {
    "id": "24fa44cb05b6bd71",
    "source": "TechCrunch",
    "title": "Anthropic officially files for its public debut",
@@ -47,6 +155,15 @@
    "summary": "Anthropic has officially filed for an IPO, revealing soaring revenue, mounting losses, major enterprise adoption, and an unusual governance structure designed to preserve founder control and its AI safety mission.",
    "published_at": 1793025322.0,
    "published_bj": "2026-10-26 22:35"
+  },
+  {
+   "id": "6e21c427e7d8912e",
+   "source": "Hacker News",
+   "title": "AmiJa, a cycle-exact Amiga emulator written in Java",
+   "url": "https://www.reddit.com/r/amiga/comments/1xftc5s/amija_amiga_emulator_in_java/",
+   "summary": "Article URL: https://www.reddit.com/r/amiga/comments/1xftc5s/amija_amiga_emulator_in_java/ Comments URL: https://news.ycombinator.com/item?id=50244410 Points: 13 # Comments: 0",
+   "published_at": 1793025131.0,
+   "published_bj": "2026-10-26 22:32"
   },
   {
    "id": "58d9bacc9da71e08",
@@ -173,6 +290,15 @@
    "summary": "Anthropic正式踏上上市之路。这家成立仅五年、身处生成式AI浪潮核心的企业，本次IPO有望创下历史纪录。Anthropic在提交给美国证券交易委员会（SEC）的文件中披露，计划登陆纳斯达克交易所，股票代码定为“ANT”， 目标在11月16日当周进行IPO。 阅读全文",
    "published_at": 1793023277.0,
    "published_bj": "2026-10-26 22:01"
+  },
+  {
+   "id": "cb0a43abf307e39e",
+   "source": "Hacker News",
+   "title": "DOJ says presidents should be able to sell secrets on eBay",
+   "url": "https://freedom.press/the-classifieds/doj-says-presidents-should-be-able-to-sell-secrets-on-ebay/",
+   "summary": "Article URL: https://freedom.press/the-classifieds/doj-says-presidents-should-be-able-to-sell-secrets-on-ebay/ Comments URL: https://news.ycombinator.com/item?id=50243762 Points: 71 # Comments: 14",
+   "published_at": 1793022884.0,
+   "published_bj": "2026-10-26 21:54"
   },
   {
    "id": "037f8579a0ce659c",
@@ -316,6 +442,15 @@
    "url": "https://techcrunch.com/2026/10/26/tesla-turns-to-turo-to-boost-adoption-of-full-self-driving-supervised/",
    "summary": "Eligible Turo hosts will also get a one-month free trial of Tesla's FSD software.",
    "published_at": 1793019520.0,
+   "published_bj": "2026-10-26 20:58"
+  },
+  {
+   "id": "3591125400e90e63",
+   "source": "Hacker News",
+   "title": "Brown student maps the hidden global labor powering AI",
+   "url": "https://www.brown.edu/news/2026-10-26/ai-data-workers",
+   "summary": "Article URL: https://www.brown.edu/news/2026-10-26/ai-data-workers Comments URL: https://news.ycombinator.com/item?id=50242843 Points: 63 # Comments: 49",
+   "published_at": 1793019507.0,
    "published_bj": "2026-10-26 20:58"
   },
   {
@@ -533,6 +668,15 @@
    "summary": "IT之家 10 月 26 日消息，三星现已在 Instagram 投放一则新广告，宣传自家 Galaxy Z Fold8 折叠屏手机。不过广告中着重展示的对象，是诱惑夏娃、毒倒白雪公主、砸醒牛顿、称霸手机的水果界“老大哥”—— 苹果。 广告开场时，一台 Galaxy Z Fold8 展开内屏， 一颗标着“新款”的青苹果跑到屏幕中间 。随着手机被迅速折起， 这颗苹果立马被切成碎片 。 IT之家注意到，三星还在广告中展示了自家的 8 代折叠屏手机，被切成片的苹果也想“折叠”，但三星很快拿出数据对比：“Galaxy Z Fold8 比‘苹果’薄 1.6 毫米、轻 53 克”，这里的嘲讽对象，想必不用",
    "published_at": 1793013737.0,
    "published_bj": "2026-10-26 19:22"
+  },
+  {
+   "id": "e3791b635eb39925",
+   "source": "Hacker News",
+   "title": "Pharo 14",
+   "url": "https://pharo.org/news/2026-10-26-Pharo14Release.html",
+   "summary": "Article URL: https://pharo.org/news/2026-10-26-Pharo14Release.html Comments URL: https://news.ycombinator.com/item?id=50241925 Points: 68 # Comments: 16",
+   "published_at": 1793013350.0,
+   "published_bj": "2026-10-26 19:15"
   },
   {
    "id": "d5c2db5d6470d3fc",
@@ -2711,6 +2855,15 @@
    "summary": "美国研究人员开发了新一代面部健康识别模型，能够根据患者的面部特征估算其生物学年龄，并直接评估死亡风险。研究结果显示，这些面部图像中包含与癌症患者预后相关的信息，未来或可帮助医生更全面地评估患者的身体状况，为治疗方案的制定提供参考。 阅读全文",
    "published_at": 1792967401.0,
    "published_bj": "2026-10-26 06:30"
+  },
+  {
+   "id": "f67723cc3313caa7",
+   "source": "Hacker News",
+   "title": "SIMD-accelerated computer vision on a $2 microcontroller",
+   "url": "https://shraiwi.com/blog/simd-fast-esp32s3/",
+   "summary": "Article URL: https://shraiwi.com/blog/simd-fast-esp32s3/ Comments URL: https://news.ycombinator.com/item?id=50236681 Points: 4 # Comments: 0",
+   "published_at": 1792967387.0,
+   "published_bj": "2026-10-26 06:29"
   },
   {
    "id": "259f3158d7c559b2",
