@@ -1,0 +1,382 @@
+{
+ "type": "yesterday",
+ "date": "2026-10-26",
+ "window": {
+  "start_ts": 1792944000.0,
+  "end_ts": 1793030400.0
+ },
+ "generated_at": 1793032955.3341897,
+ "generator": "action",
+ "news_count": 364,
+ "keywords": [
+  "ai",
+  "苹果",
+  "pro",
+  "元",
+  "发布",
+  "推出",
+  "支持",
+  "iphone",
+  "手机",
+  "mini"
+ ],
+ "points": [
+  {
+   "text": "【苹果】IT之家 10 月 26 日闪讯速报，苹果发布 iPad mini 8 平板电脑",
+   "keyword": "苹果",
+   "news_ids": [
+    "26b0bc632c3a4b4e"
+   ],
+   "refs": [
+    {
+     "id": "26b0bc632c3a4b4e",
+     "title": "5499 元起：苹果发布 iPad mini 8 平板，8.5 寸 60Hz OLED 屏、A20 Pro 芯片、支持 IP67 防尘防水",
+     "source": "IT之家",
+     "url": "https://www.ithome.com/1/018/156.htm",
+     "published_at": 1793019853.0
+    }
+   ]
+  },
+  {
+   "text": "【ai】IT之家 10 月 26 日消息，HTC（宏达电子）近日公布了一款名为 VIVEE 的口袋 AI 互动伴侣，其预售价为 99.99 美元 （IT",
+   "keyword": "ai",
+   "news_ids": [
+    "8706d83a8e8e82d9"
+   ],
+   "refs": [
+    {
+     "id": "8706d83a8e8e82d9",
+     "title": "HTC 公布口袋 AI 互动伴侣 VIVEE：支持个性化性格，预售价 99.99 美元",
+     "source": "IT之家",
+     "url": "https://www.ithome.com/1/017/794.htm",
+     "published_at": 1792982432.0
+    }
+   ]
+  },
+  {
+   "text": "【ai】Anthropic最快下月登陆资本市场，这场IPO远不止这家AI公司的公开亮相，它同时是检验美国经济的试金石，数万亿美元的资本命运系于此役",
+   "keyword": "ai",
+   "news_ids": [
+    "f5ba3a9bdc1c700c"
+   ],
+   "refs": [
+    {
+     "id": "f5ba3a9bdc1c700c",
+     "title": "Anthropic上市 押上的几乎是整个AI市场",
+     "source": "cnBeta",
+     "url": "https://www.cnbeta.com.tw/articles/tech/1583934.htm",
+     "published_at": 1793023311.0
+    }
+   ]
+  },
+  {
+   "text": "【苹果】IT之家 10 月 26 日消息，外媒 9to5Mac 援引消息源 Filipe Esposito，相应消息源称苹果正在测试搭载 M5 Pro ",
+   "keyword": "苹果",
+   "news_ids": [
+    "def186f009f7f013"
+   ],
+   "refs": [
+    {
+     "id": "def186f009f7f013",
+     "title": "消息称苹果首款触控 MacBook Pro 笔记本有望支持 5G 蜂窝网络功能",
+     "source": "IT之家",
+     "url": "https://www.ithome.com/1/017/930.htm",
+     "published_at": 1793000000.0
+    }
+   ]
+  },
+  {
+   "text": "【苹果】全网 11.11 狂促今日继续，数码家电、日用百货、服装鞋帽皆为年内好价",
+   "keyword": "苹果",
+   "news_ids": [
+    "9ddbea2f28ad9f0b"
+   ],
+   "refs": [
+    {
+     "id": "9ddbea2f28ad9f0b",
+     "title": "IT之家 11.11 严选好货：苹果 iPhone Duo 折叠屏手机开放购买，罗技 MX Master 3S Lite 鼠标 699 → 305 元",
+     "source": "IT之家",
+     "url": "https://www.ithome.com/1/018/170.htm",
+     "published_at": 1793024269.0
+    }
+   ]
+  },
+  {
+   "text": "【推出】IT之家 10 月 26 日消息，汽车租赁平台 Turo 宣布，将于 10 月 28 日在美国推出首个经过验证的特斯拉 FSD（监督版）租车体验",
+   "keyword": "推出",
+   "news_ids": [
+    "4e83bbd0440f937b"
+   ],
+   "refs": [
+    {
+     "id": "4e83bbd0440f937b",
+     "title": "租赁平台 Turo：将在美国市场允许顾客租借带有 FSD 监督版的特斯拉汽车",
+     "source": "IT之家",
+     "url": "https://www.ithome.com/1/018/148.htm",
+     "published_at": 1793018403.0
+    }
+   ]
+  },
+  {
+   "text": "Article URL: https://css-tricks",
+   "keyword": "",
+   "news_ids": [
+    "b0b3f29dc1517269"
+   ],
+   "refs": [
+    {
+     "id": "b0b3f29dc1517269",
+     "title": "CSS-Tricks has a new owner",
+     "source": "Hacker News",
+     "url": "https://css-tricks.com/css-tricks-has-a-new-owner/",
+     "published_at": 1793029883.0
+    }
+   ]
+  },
+  {
+   "text": "Article URL: https://www",
+   "keyword": "",
+   "news_ids": [
+    "f31aa82f2b79a0dd"
+   ],
+   "refs": [
+    {
+     "id": "f31aa82f2b79a0dd",
+     "title": "Microsoft offers mass buyouts for roughly a quarter of its workforce",
+     "source": "Hacker News",
+     "url": "https://www.seattletimes.com/business/microsoft/microsoft-offers-mass-buyouts-for-roughly-a-quarter-of-its-workforce/",
+     "published_at": 1793028912.0
+    }
+   ]
+  },
+  {
+   "text": "Article URL: https://www",
+   "keyword": "",
+   "news_ids": [
+    "ec98111d4ae21dfc"
+   ],
+   "refs": [
+    {
+     "id": "ec98111d4ae21dfc",
+     "title": "It's offensively cheap': Solar power is quietly becoming bigger than nuclear",
+     "source": "Hacker News",
+     "url": "https://www.bbc.com/future/article/20261023-how-solar-became-bigger-than-nuclear",
+     "published_at": 1793028377.0
+    }
+   ]
+  },
+  {
+   "text": "Article URL: https://www",
+   "keyword": "",
+   "news_ids": [
+    "c373434399ac9402"
+   ],
+   "refs": [
+    {
+     "id": "c373434399ac9402",
+     "title": "NBA announces partnership with prediction markets Kalshi, Polymarket",
+     "source": "Hacker News",
+     "url": "https://www.nytimes.com/athletic/7723134/2026/10/26/nba-kalshi-polymarket-agreement-prediction-markets/",
+     "published_at": 1793028179.0
+    }
+   ]
+  },
+  {
+   "text": "中层技术经理要么重新学技术，要么考虑退休：前 Stripe 工程高管警告，未来三年工程管理将彻底变样",
+   "keyword": "",
+   "news_ids": [
+    "22a5b4430a1fa267"
+   ],
+   "refs": [
+    {
+     "id": "22a5b4430a1fa267",
+     "title": "中层技术经理要么重新学技术，要么考虑退休：前 Stripe 工程高管警告，未来三年工程管理将彻底变样",
+     "source": "InfoQ中文",
+     "url": "https://www.infoq.cn/article/hhxL1M65UU3Iwr4ovALT?utm_source=rss&utm_medium=article",
+     "published_at": 1793027886.0
+    }
+   ]
+  },
+  {
+   "text": "Article URL: https://magazine",
+   "keyword": "",
+   "news_ids": [
+    "c8aa931781f4923e"
+   ],
+   "refs": [
+    {
+     "id": "c8aa931781f4923e",
+     "title": "Sebastian Raschka's from-scratch video course on building reasoning models",
+     "source": "Hacker News",
+     "url": "https://magazine.sebastianraschka.com/p/building-reasoning-models",
+     "published_at": 1793027519.0
+    }
+   ]
+  },
+  {
+   "text": "AWS 重构 EventBridge 自定义事件总线，面向企业级事件驱动架构",
+   "keyword": "",
+   "news_ids": [
+    "74770e48700e1317"
+   ],
+   "refs": [
+    {
+     "id": "74770e48700e1317",
+     "title": "AWS 重构 EventBridge 自定义事件总线，面向企业级事件驱动架构",
+     "source": "InfoQ中文",
+     "url": "https://www.infoq.cn/article/GG9rXsevpPV9SK3uPxpq?utm_source=rss&utm_medium=article",
+     "published_at": 1793026800.0
+    }
+   ]
+  },
+  {
+   "text": "模型好选，搜索难做：一个投研Agent的两年开发历程",
+   "keyword": "",
+   "news_ids": [
+    "54e702f131cea1ae"
+   ],
+   "refs": [
+    {
+     "id": "54e702f131cea1ae",
+     "title": "模型好选，搜索难做：一个投研Agent的两年开发历程",
+     "source": "InfoQ中文",
+     "url": "https://www.infoq.cn/article/NrUkJExfuuFOICsjVYbb?utm_source=rss&utm_medium=article",
+     "published_at": 1793026655.0
+    }
+   ]
+  },
+  {
+   "text": "Article URL: https://github",
+   "keyword": "",
+   "news_ids": [
+    "d325afdedaaa31c1"
+   ],
+   "refs": [
+    {
+     "id": "d325afdedaaa31c1",
+     "title": "Everything",
+     "source": "Hacker News",
+     "url": "https://github.com/HeyPuter/everything",
+     "published_at": 1793026221.0
+    }
+   ]
+  }
+ ],
+ "article": {
+  "title": "2026-10-26 新闻总结",
+  "paragraphs": [
+   {
+    "kind": "lead",
+    "text": "过去 24 小时共收录 364 条新闻，来自 7 家媒体。把标题放在一起看，讨论主要集中在 AI、手机、上市 这几个方向上，其余消息更像是零散补充。"
+   },
+   {
+    "kind": "section",
+    "heading": "芯片",
+    "text": "先看「芯片」。IT之家 10 月 26 日闪讯速报，苹果发布 iPad mini 8 平板电脑…，另有 117 条消息指向同一话题。技术路线的胜负很少由一次发布会决定，接下来要看的是它能不能被更多团队低成本复用。",
+    "news_ids": [
+     "26b0bc632c3a4b4e"
+    ],
+    "refs": [
+     {
+      "id": "26b0bc632c3a4b4e",
+      "title": "5499 元起：苹果发布 iPad mini 8 平板，8.5 寸 60Hz OLED 屏、A20 Pro 芯片、支持 IP67 防尘防水",
+      "source": "IT之家",
+      "url": "https://www.ithome.com/1/018/156.htm",
+      "published_at": 1793019853.0
+     }
+    ]
+   },
+   {
+    "kind": "section",
+    "heading": "AI",
+    "text": "与此同时「AI」。IT之家 10 月 26 日消息，HTC（宏达电子）近日公布了一款名为 VIVEE 的口袋 AI 互动伴侣，其预售价为 99.99 美元 （IT之家注，另有 96 条消息指向同一话题。消费电子的看点不在参数堆叠，而在这些参数能不能变成日常可感知的体验差异。",
+    "news_ids": [
+     "8706d83a8e8e82d9"
+    ],
+    "refs": [
+     {
+      "id": "8706d83a8e8e82d9",
+      "title": "HTC 公布口袋 AI 互动伴侣 VIVEE：支持个性化性格，预售价 99.99 美元",
+      "source": "IT之家",
+      "url": "https://www.ithome.com/1/017/794.htm",
+      "published_at": 1792982432.0
+     }
+    ]
+   },
+   {
+    "kind": "section",
+    "heading": "上市",
+    "text": "另一个值得注意的方向是「上市」。Anthropic最快下月登陆资本市场，这场IPO远不止这家AI公司的公开亮相，它同时是检验美国经济的试金石，另有 14 条消息指向同一话题。资本动作往往领先产品一年，值得盯的不是金额，而是钱最后花向了算力、场景还是补贴。",
+    "news_ids": [
+     "f5ba3a9bdc1c700c"
+    ],
+    "refs": [
+     {
+      "id": "f5ba3a9bdc1c700c",
+      "title": "Anthropic上市 押上的几乎是整个AI市场",
+      "source": "cnBeta",
+      "url": "https://www.cnbeta.com.tw/articles/tech/1583934.htm",
+      "published_at": 1793023311.0
+     }
+    ]
+   },
+   {
+    "kind": "section",
+    "heading": "网络",
+    "text": "相比之下「网络」。IT之家 10 月 26 日消息，外媒 9to5Mac 援引消息源 Filipe Esposito，另有 4 条消息指向同一话题。这条消息短期内的实际影响可能有限，但它指向的方向值得放进观察名单。",
+    "news_ids": [
+     "def186f009f7f013"
+    ],
+    "refs": [
+     {
+      "id": "def186f009f7f013",
+      "title": "消息称苹果首款触控 MacBook Pro 笔记本有望支持 5G 蜂窝网络功能",
+      "source": "IT之家",
+      "url": "https://www.ithome.com/1/017/930.htm",
+      "published_at": 1793000000.0
+     }
+    ]
+   },
+   {
+    "kind": "glossary",
+    "items": [
+     {
+      "term": "IPO",
+      "desc": "首次公开募股，公司第一次把股票卖给公众并上市"
+     },
+     {
+      "term": "Agent",
+      "desc": "智能体，能自己拆解任务、调用工具并连续执行的 AI 程序"
+     },
+     {
+      "term": "AI",
+      "desc": "人工智能，让机器完成识别、生成、判断等原本需要人做的任务"
+     },
+     {
+      "term": "GPU",
+      "desc": "图形处理器，因为擅长大规模并行计算，成了 AI 训练的主力硬件"
+     },
+     {
+      "term": "HBM",
+      "desc": "高带宽内存，把多层内存堆叠起来给 AI 芯片喂数据，缓解带宽瓶颈"
+     },
+     {
+      "term": "ETF",
+      "desc": "交易型开放式指数基金，像股票一样在交易所买卖的一篮子资产"
+     }
+    ]
+   },
+   {
+    "kind": "outlook",
+    "text": "把这几条放在一起看，最值得跟踪的是 AI 和 手机 两条线：一条决定技术能走多远，一条决定它多快能落到普通人的日常里。至于其他消息，可以先放进观察名单，等后续有更实的进展再判断。"
+   }
+  ],
+  "word_count": 640
+ },
+ "ai_enhanced": false,
+ "schema": 1,
+ "window_bj": {
+  "start": "2026-10-26 00:00",
+  "end": "2026-10-27 00:00"
+ }
+}
