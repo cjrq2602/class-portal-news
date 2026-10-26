@@ -1,7 +1,7 @@
 {
  "date": "2026-10-26",
- "generated_at": 1793032953.4722352,
- "count": 364,
+ "generated_at": 1793035966.6139143,
+ "count": 365,
  "items": [
   {
    "id": "5da83f94f90a51a3",
@@ -11,6 +11,15 @@
    "summary": "The buyout offers mark Microsoft's latest efforts to cut costs and rework its workforce.",
    "published_at": 1793030305.0,
    "published_bj": "2026-10-26 23:58"
+  },
+  {
+   "id": "df7bda467e9eb623",
+   "source": "Hacker News",
+   "title": "Stalwart v1.0: The Fastest Mail Server on the Planet",
+   "url": "https://stalw.art/blog/stalwart-1-0/",
+   "summary": "Article URL: https://stalw.art/blog/stalwart-1-0/ Comments URL: https://news.ycombinator.com/item?id=50245945 Points: 15 # Comments: 7",
+   "published_at": 1793030232.0,
+   "published_bj": "2026-10-26 23:57"
   },
   {
    "id": "b0b3f29dc1517269",

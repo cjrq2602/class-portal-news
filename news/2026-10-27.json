@@ -1,7 +1,7 @@
 {
  "date": "2026-10-27",
- "generated_at": 1793032953.4684453,
- "count": 3,
+ "generated_at": 1793035966.6106365,
+ "count": 7,
  "items": [
   {
    "id": "764d78fd25898fa4",
@@ -22,6 +22,15 @@
    "published_bj": "2026-10-27 02:08"
   },
   {
+   "id": "44297be3b1767512",
+   "source": "Hacker News",
+   "title": "The Git Forge for Agent-Human Collaboration",
+   "url": "https://entire.com/blog/the-git-forge-for-agent-human-collaboration",
+   "summary": "Article URL: https://entire.com/blog/the-git-forge-for-agent-human-collaboration Comments URL: https://news.ycombinator.com/item?id=50247453 Points: 11 # Comments: 0",
+   "published_at": 1793035391.0,
+   "published_bj": "2026-10-27 01:23"
+  },
+  {
    "id": "13893a9a8c18bac6",
    "source": "InfoQ中文",
    "title": "Backstage 1.55 新增脚手架任务恢复功能，并移除已废弃的目录 API",
@@ -29,6 +38,33 @@
    "summary": "点击查看原文>",
    "published_at": 1793035020.0,
    "published_bj": "2026-10-27 01:17"
+  },
+  {
+   "id": "1cb6f4238ba35a58",
+   "source": "TechCrunch",
+   "title": "Anthropic’s IPO filing reveals its strategy for keeping enterprise customers hooked",
+   "url": "https://techcrunch.com/2026/10/26/anthropics-ipo-filing-reveals-its-strategy-for-keeping-enterprise-customers-hooked/",
+   "summary": "Anthropic’s S-1 shows more than half of its $100,000-plus customers now use both the Claude Platform and a first-party app, a cross-selling playbook reminiscent of Amazon that’s making enterprise customers stickier.",
+   "published_at": 1793033382.0,
+   "published_bj": "2026-10-27 00:49"
+  },
+  {
+   "id": "19520692d7932018",
+   "source": "TechCrunch",
+   "title": "SpaceX locks in $40B GPU financing deal with Apollo",
+   "url": "https://techcrunch.com/2026/10/26/spacex-locks-in-40b-gpu-financing-deal-with-apollo/",
+   "summary": "SpaceX has locked in a binding commitment for roughly $40 billion in financing to pay for AI chips and related data center equipment, the company disclosed in a regulatory filing Monday. In a statement, SpaceX called it the “largest committed GPU financing” ever.",
+   "published_at": 1793033196.0,
+   "published_bj": "2026-10-27 00:46"
+  },
+  {
+   "id": "b9df69b413b1ecf9",
+   "source": "Hacker News",
+   "title": "Concerning behavior from a popular open-weight AI model",
+   "url": "https://cohere.com/blog/concerning-behaviour-popular-open-weight-ai-model",
+   "summary": "Article URL: https://cohere.com/blog/concerning-behaviour-popular-open-weight-ai-model Comments URL: https://news.ycombinator.com/item?id=50246658 Points: 20 # Comments: 3",
+   "published_at": 1793032544.0,
+   "published_bj": "2026-10-27 00:35"
   }
  ]
 }
