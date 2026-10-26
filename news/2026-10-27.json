@@ -1,8 +1,80 @@
 {
  "date": "2026-10-27",
- "generated_at": 1793038492.2669852,
- "count": 14,
+ "generated_at": 1793041721.334279,
+ "count": 28,
  "items": [
+  {
+   "id": "6da0402e883a16a1",
+   "source": "TechCrunch",
+   "title": "Fusion startups are giving the government shares in exchange for awards. Is it worth it?",
+   "url": "https://techcrunch.com/2026/10/26/fusion-startups-are-giving-the-government-shares-in-exchange-for-awards-is-it-worth-it/",
+   "summary": "Fusion startups face a new challenge, one unrelated to plasma physics: Give the government shares in exchange for funding awards or go it alone?",
+   "published_at": 1793041192.0,
+   "published_bj": "2026-10-27 02:59"
+  },
+  {
+   "id": "03c96cc5789440b2",
+   "source": "IT之家",
+   "title": "苹果 iOS/iPadOS 18.7.11 正式版发布",
+   "url": "https://www.ithome.com/1/018/192.htm",
+   "summary": "IT之家 10 月 27 日消息，苹果今日向 iPhone 和 iPad 用户推送了 iOS/iPadOS 18.7.11 更新（内部版本号：22H384），本次更新距离上次发布正式版间隔 77 天。 需要注意的是，因苹果各区域节点服务器配置缓存问题，可能有些地方探测到升级更新的时间略有延迟，一般半小时内，不会太久。 本文由机器人发布，IT之家稍后将为大家带来具体更新内容。 附 iOS/iPadOS 18 发布历史： 2026-08-11：iOS 18.7.10 (22H373) 2026-05-05：iOS 18.7.9 (22H355) 2026-04-23：iOS 18.7.8 (22H",
+   "published_at": 1793040244.0,
+   "published_bj": "2026-10-27 02:44"
+  },
+  {
+   "id": "18a47bbb8511be75",
+   "source": "IT之家",
+   "title": "苹果 iPadOS 26.7.2 正式版发布",
+   "url": "https://www.ithome.com/1/018/191.htm",
+   "summary": "IT之家 10 月 27 日消息，苹果今日向 iPad 用户推送了 iPadOS 26.7.2 更新，本次更新距离上次发布正式版间隔 28 天。 需要注意的是，因苹果各区域节点服务器配置缓存问题，可能有些地方探测到升级更新的时间略有延迟，一般半小时内，不会太久。 本文由机器人发布，IT之家稍后将为大家带来具体更新内容。 附 iOS/iPadOS 26 发布历史： 2026-09-29：iPadOS 26.7.1 (23H30) 2026-09-10：iPadOS 26.7 (23H24) 2026-09-09：iOS 26.6.2 (23G90) 2026-08-11：iOS 26.6.1 (",
+   "published_at": 1793040244.0,
+   "published_bj": "2026-10-27 02:44"
+  },
+  {
+   "id": "0eb1f90ba621bb3f",
+   "source": "IT之家",
+   "title": "苹果 watchOS 27.2 正式版发布",
+   "url": "https://www.ithome.com/1/018/190.htm",
+   "summary": "IT之家 10 月 27 日消息，苹果今日向 Apple Watch 用户推送了 watchOS 27.2 更新（内部版本号：24S118），本次更新距离上次发布正式版间隔 27 天。 需要注意的是，因苹果各区域节点服务器配置缓存问题，可能有些地方探测到升级更新的时间略有延迟，一般半小时内，不会太久。 本文由机器人发布，IT之家稍后将为大家带来具体更新内容。 附 watchOS 27 发布历史： 2026-10-20：watchOS 27.2 RC (24S116) 2026-10-14：watchOS 27.2 Beta 4 (24S5112a) 2026-10-06：watchOS 27.",
+   "published_at": 1793040243.0,
+   "published_bj": "2026-10-27 02:44"
+  },
+  {
+   "id": "7f611ec09adc7c0e",
+   "source": "IT之家",
+   "title": "苹果 visionOS 27.2 正式版发布",
+   "url": "https://www.ithome.com/1/018/189.htm",
+   "summary": "IT之家 10 月 27 日消息，苹果今日向 Vision Pro 用户推送了 visionOS 27.2 更新（内部版本号：24N120），本次更新距离上次发布正式版间隔 28 天。 需要注意的是，因苹果各区域节点服务器配置缓存问题，可能有些地方探测到升级更新的时间略有延迟，一般半小时内，不会太久。 本文由机器人发布，IT之家稍后将为大家带来具体更新内容。 附 visionOS 27 发布历史： 2026-10-20：visionOS 27.2 RC (24N118) 2026-10-14：visionOS 27.2 Beta 4 (24N5114a) 2026-10-06：visionOS",
+   "published_at": 1793040243.0,
+   "published_bj": "2026-10-27 02:44"
+  },
+  {
+   "id": "17a80eeed03dd5ed",
+   "source": "IT之家",
+   "title": "苹果 macOS 27.2 正式版发布",
+   "url": "https://www.ithome.com/1/018/188.htm",
+   "summary": "IT之家 10 月 27 日消息，苹果今日向 Mac 电脑用户推送了 macOS 27.2 更新（内部版本号：26B123），本次更新距离上次发布正式版间隔 28 天。 需要注意的是，因苹果各区域节点服务器配置缓存问题，可能有些地方探测到升级更新的时间略有延迟，一般半小时内，不会太久。 本文由机器人发布，IT之家稍后将为大家带来具体更新内容。 附 macOS 27 发布历史： 2026-10-20：macOS 27.2 RC (26B118) 2026-10-14：macOS 27.2 Beta 4 (26B5112a) 2026-10-06：macOS 27.2 Beta 3 (26B510",
+   "published_at": 1793040243.0,
+   "published_bj": "2026-10-27 02:44"
+  },
+  {
+   "id": "6558002b0cddf507",
+   "source": "IT之家",
+   "title": "苹果 iOS/iPadOS 27.2 正式版发布",
+   "url": "https://www.ithome.com/1/018/187.htm",
+   "summary": "IT之家 10 月 27 日消息，苹果今日向 iPhone 和 iPad 用户推送了 iOS/iPadOS 27.2 更新（内部版本号：24B119），本次更新距离上次发布正式版间隔 28 天。 需要注意的是，因苹果各区域节点服务器配置缓存问题，可能有些地方探测到升级更新的时间略有延迟，一般半小时内，不会太久。 本文由机器人发布，IT之家稍后将为大家带来具体更新内容。 附 iOS/iPadOS 27 发布历史： 2026-10-20：iOS 27.2 RC (24B115) 2026-10-14：iOS 27.2 Beta 4 (24B5110a) 2026-10-06：iOS 27.2 Be",
+   "published_at": 1793040242.0,
+   "published_bj": "2026-10-27 02:44"
+  },
+  {
+   "id": "656d49a24be3e5dc",
+   "source": "Hacker News",
+   "title": "US designates helium as a critical material",
+   "url": "https://apnews.com/article/energy-critical-materials-minerals-helium-43da160adc1bad389fba0b9ffbd14c3c",
+   "summary": "Article URL: https://apnews.com/article/energy-critical-materials-minerals-helium-43da160adc1bad389fba0b9ffbd14c3c Comments URL: https://news.ycombinator.com/item?id=50248665 Points: 14 # Comments: 3",
+   "published_at": 1793039499.0,
+   "published_bj": "2026-10-27 02:31"
+  },
   {
    "id": "764d78fd25898fa4",
    "source": "InfoQ中文",
@@ -11,6 +83,15 @@
    "summary": "点击查看原文>",
    "published_at": 1793039450.0,
    "published_bj": "2026-10-27 02:30"
+  },
+  {
+   "id": "6d4f0a025d4f05ed",
+   "source": "Hacker News",
+   "title": "Microsoft Announces Type Server Protocol, Extension of Language Server Protocol",
+   "url": "https://github.com/microsoft/pylance-release/blob/main/docs/tsp/type-server-protocol.md",
+   "summary": "Article URL: https://github.com/microsoft/pylance-release/blob/main/docs/tsp/type-server-protocol.md Comments URL: https://news.ycombinator.com/item?id=50248371 Points: 31 # Comments: 7",
+   "published_at": 1793038489.0,
+   "published_bj": "2026-10-27 02:14"
   },
   {
    "id": "5d2e695dafb75084",
@@ -22,6 +103,15 @@
    "published_bj": "2026-10-27 02:08"
   },
   {
+   "id": "1a48039d0434e9bb",
+   "source": "Hacker News",
+   "title": "GPT-6.1 Terra",
+   "url": "https://openai.com/index/introducing-gpt-6-1-terra/",
+   "summary": "Article URL: https://openai.com/index/introducing-gpt-6-1-terra/ Comments URL: https://news.ycombinator.com/item?id=50248124 Points: 146 # Comments: 71",
+   "published_at": 1793037677.0,
+   "published_bj": "2026-10-27 02:01"
+  },
+  {
    "id": "0fae1e63c8992d14",
    "source": "cnBeta",
    "title": "nxnative让Switch游戏变原生应用：iPhone与Mac可直接运行 无需模拟器",
@@ -31,6 +121,15 @@
    "published_bj": "2026-10-27 02:00"
   },
   {
+   "id": "0a3013882c73256d",
+   "source": "Hacker News",
+   "title": "Oldest GUI application that still runs on Windows 11",
+   "url": "https://blog.enlyth.com/posts/oldest-windows-gui-app-win-11/",
+   "summary": "Article URL: https://blog.enlyth.com/posts/oldest-windows-gui-app-win-11/ Comments URL: https://news.ycombinator.com/item?id=50248055 Points: 23 # Comments: 4",
+   "published_at": 1793037415.0,
+   "published_bj": "2026-10-27 01:56"
+  },
+  {
    "id": "e702b8398a9fab0d",
    "source": "cnBeta",
    "title": "台积电A14节点终结SRAM微缩八年停滞 存储单元面积首降19%",
@@ -38,6 +137,24 @@
    "summary": "作为全球规模最大、工艺最先进的半导体制造商，台积电在SRAM微缩方面的进展已停滞多年。自2020年N5 5纳米工艺量产以来，6T SRAM存储单元的面积一直停留在约0.021平方微米。逻辑元件的晶体管密度持续提升，存储器却没能跟上同样的步伐。随着计划于2028年投产的A14节点登场，这一局面有望被打破： 阅读全文",
    "published_at": 1793037356.0,
    "published_bj": "2026-10-27 01:55"
+  },
+  {
+   "id": "8e55225617927cae",
+   "source": "Hacker News",
+   "title": "In Leaked Audio, Flock CEO Tells Cops Backlash to the Company Isn't Real",
+   "url": "https://www.404media.co/in-leaked-audio-flock-ceo-tells-cops-backlash-to-the-company-isnt-real/",
+   "summary": "Article URL: https://www.404media.co/in-leaked-audio-flock-ceo-tells-cops-backlash-to-the-company-isnt-real/ Comments URL: https://news.ycombinator.com/item?id=50248005 Points: 24 # Comments: 7",
+   "published_at": 1793037240.0,
+   "published_bj": "2026-10-27 01:54"
+  },
+  {
+   "id": "331f33ce6d026b52",
+   "source": "Hacker News",
+   "title": "A Man from the Future: Why Johnny Can't Stop Abstracting",
+   "url": "http://muratbuffalo.blogspot.com/2026/10/the-man-from-future-why-johnny-cant.html",
+   "summary": "Article URL: http://muratbuffalo.blogspot.com/2026/10/the-man-from-future-why-johnny-cant.html Comments URL: https://news.ycombinator.com/item?id=50247928 Points: 14 # Comments: 3",
+   "published_at": 1793036995.0,
+   "published_bj": "2026-10-27 01:49"
   },
   {
    "id": "4089963cd025e8ff",
@@ -74,6 +191,15 @@
    "summary": "Article URL: https://www.404media.co/chatgpt-keeps-telling-people-404-media-can-solve-their-tech-support-problems/ Comments URL: https://news.ycombinator.com/item?id=50247630 Points: 21 # Comments: 1",
    "published_at": 1793035936.0,
    "published_bj": "2026-10-27 01:32"
+  },
+  {
+   "id": "dcc049e924014a26",
+   "source": "Hacker News",
+   "title": "Should Police Wipe a Criminal's Cellphone Before Returning It?–U.S. vs. Stathas",
+   "url": "https://blog.ericgoldman.org/archives/2026/10/should-police-wipe-a-criminals-cellphone-before-returning-it-u-s-v-stathas.htm",
+   "summary": "Article URL: https://blog.ericgoldman.org/archives/2026/10/should-police-wipe-a-criminals-cellphone-before-returning-it-u-s-v-stathas.htm Comments URL: https://news.ycombinator.com/item?id=50247559 Points: 7 # Comments: 5",
+   "published_at": 1793035706.0,
+   "published_bj": "2026-10-27 01:28"
   },
   {
    "id": "72ef8ee0781c2888",
