@@ -1,8 +1,17 @@
 {
  "date": "2026-10-26",
- "generated_at": 1792983418.4911993,
- "count": 110,
+ "generated_at": 1792985463.9330554,
+ "count": 121,
  "items": [
+  {
+   "id": "efbae6a86dcaf767",
+   "source": "InfoQ中文",
+   "title": "Android Bench 2 新增对长周期任务、智能评估和连续评分的支持",
+   "url": "https://www.infoq.cn/article/6XMtxZevN1488WVGXdR1?utm_source=rss&utm_medium=article",
+   "summary": "点击查看原文>",
+   "published_at": 1793012820.0,
+   "published_bj": "2026-10-26 19:07"
+  },
   {
    "id": "32982c5f7840e7ab",
    "source": "InfoQ中文",
@@ -11,6 +20,87 @@
    "summary": "点击查看原文>",
    "published_at": 1793005200.0,
    "published_bj": "2026-10-26 17:00"
+  },
+  {
+   "id": "fb47636153f89b00",
+   "source": "IT之家",
+   "title": "报告：微软 XBOX 高管过去六年有五年未达成绩效目标",
+   "url": "https://www.ithome.com/1/017/813.htm",
+   "summary": "IT之家 10 月 26 日消息，微软 XBOX 正在大刀阔斧重组，试图扭转业务下滑的颓势。按照计划，到 2027 财年末，游戏业务将裁撤近 3200 名开发人员；目前已有数百人被解雇，多家工作室完成重组，后续还规划了多轮裁员。 一份新报道披露，微软首席执行官以及 XBOX 一众高层，过去六年里有五年没能完成年度绩效目标，而这些绩效指标直接和他们的薪酬挂钩。 IT之家注意到，GameFile 近期报道提到，XBOX 高管没能达成 Game Pass 订阅增长、XBOX 内容与服务板块的相关考核节点。 单看刚结束的这个财年，XBOX 原定目标是在 6 月底前实现内容与服务收入增长 4.3%，最终",
+   "published_at": 1792985422.0,
+   "published_bj": "2026-10-26 11:30"
+  },
+  {
+   "id": "7199e8bb633be2ba",
+   "source": "IT之家",
+   "title": "英伟达下调 Rubin GPU 系统 HBM 与 NVLink 带宽，网络带宽提升",
+   "url": "https://www.ithome.com/1/017/812.htm",
+   "summary": "IT之家 10 月 26 日消息，根据 NVIDIA 第一方今年 10 月文档和第三方保存的今年六月文档间的对比， NVIDIA 下调了 Rubin GPU 系统的 HBM 与 NVLink 带宽 ，但网络带宽有所提升。 Vera Rubin 超级芯片的 HBM4 GPU 内存带宽此前是 44TB/s，现在是 38.5TB/s ； NVLink 带宽此前是 7.2TB/s，现在是 6TB/s ；横向扩展网络带宽此前是 0.8TB/s，现在是 0.9TB/s。这些数据基本上等比例地反映在 Vera Rubin NVL4 和 Vera Rubin NVL72 上，不过 Vera Rubin NVL",
+   "published_at": 1792985212.0,
+   "published_bj": "2026-10-26 11:26"
+  },
+  {
+   "id": "0e81a5e5eafcf38e",
+   "source": "IT之家",
+   "title": "小鹏汽车回应车撞报废安全气囊未弹出：未达到传感器触发条件，尊重客户第三方鉴定诉求",
+   "url": "https://www.ithome.com/1/017/811.htm",
+   "summary": "IT之家 10 月 26 日消息，据南京晨报报道，10 月 15 日，刘先生驾驶小鹏 X9 过程中撞上了路牙，然后车辆失控接连撞上行道树和电线杆，随后车辆发生侧翻，车头被撞稀巴烂，所幸没有发生人员伤亡。保险公司勘察后认为，这辆车毁损严重，已经没有维修的必要，建议直接报废。 面对这种情况，刘先生多次找到小鹏汽车 4S 店，询问汽车被撞报废了，车辆的安全气囊为何都没有打开。4S 店给刘先生的回复是 该车发生碰撞时不符合气囊点爆的场景 。 10 月 22 日，南京晨报记者接到了小鹏汽车发来的邮件。在这封邮件中，小鹏汽车对于刘先生车辆发生严重损毁事故为何安全气囊没有打开一事进行了回应。 小鹏汽车在回应",
+   "published_at": 1792984824.0,
+   "published_bj": "2026-10-26 11:20"
+  },
+  {
+   "id": "3b4491df12259080",
+   "source": "IT之家",
+   "title": "vivo Y600 手机开启预售：搭载 10000mAh 大电池，国补到手价 1699 元起",
+   "url": "https://www.ithome.com/1/017/810.htm",
+   "summary": "IT之家 10 月 26 日消息，vivo 旗下主打长续航与户外可靠性的 Y 系列新机 vivo Y600 已开启预售，该机以“万级长续航”为核心卖点，搭载标称 10000mAh 超大容量电池，并围绕低温、跌落、防水、信号、护眼与家庭适老场景做了系统级强化，试图把千元档手机的耐用性与全场景能力进一步上探。 IT之家附新机售价如下： 6GB+128GB：零售价 1999 元，国补到手价 1699.15 元； 8GB+128GB：零售价 2099 元，特惠立减 100 元，国补到手价 1699.15 元； 6GB+256GB：零售价 2199 元，国补到手价 1869.15 元； 8GB+256G",
+   "published_at": 1792984760.0,
+   "published_bj": "2026-10-26 11:19"
+  },
+  {
+   "id": "522def7282499d8d",
+   "source": "IT之家",
+   "title": "王腾：ISHO 今日宜休，目标用 5-10 年时间成为全球领先的 AI 睡眠科技品牌",
+   "url": "https://www.ithome.com/1/017/809.htm",
+   "summary": "IT之家 10 月 26 日消息，ISHO 今日宜休今日发布了第一支品牌理念片。公司创始人王腾发文，介绍了对 ISHO 今日宜休品牌和产品的思考。 他表示，从决定创业的第一天起，就明确了一件事：ISHO 今日宜休，希望打造一个 AI 睡眠科技生态，帮助更多用户能够更好的恢复和拥有好状态。我们背靠中国优秀的工程师资源和顶级的产业链能力， 目标用 5-10 年的时间成为全球领先的 AI 睡眠科技品牌 。 王腾透露， ISHO 在亚洲、北美、欧洲、大洋洲、中东等地的 27 个国家或地区提交了商标注册 ，其中俄罗斯、沙特阿拉伯、阿联酋、新加坡、菲律宾、澳大利亚等多个国家和地区已经获批取得注册， 其余国",
+   "published_at": 1792984656.0,
+   "published_bj": "2026-10-26 11:17"
+  },
+  {
+   "id": "30c244755904c82b",
+   "source": "IT之家",
+   "title": "小鹏集团 Robotaxi 小鹏悠游获批 L4 级自动驾驶示范运营资质",
+   "url": "https://www.ithome.com/1/017/808.htm",
+   "summary": "IT之家 10 月 26 日消息，小鹏汽车今日宣布，小鹏集团 Robotaxi 小鹏悠游 正式获批 L4 级自动驾驶示范运营资质 。 今年 1 月，小鹏集团取得广州智能网联汽车道路测试许可，正式进入常态化 L4 公开道路测试。3 月，小鹏集团成立 Robotaxi 业务部，统筹产品定义、研发测试与运营全链路工作，加速商业落地进程。 今年 5 月， 小鹏 GX 首台 Robotaxi 量产车正式下线 。7 月， 小鹏汽车 Robotaxi 开始内测 ，小鹏集团董事长、CEO 何小鹏成为第一单用户。 今年 8 月，何小鹏透露，搭载第二代 VLA 的前装量产 Robotaxi 已在广州完成超 200",
+   "published_at": 1792984542.0,
+   "published_bj": "2026-10-26 11:15"
+  },
+  {
+   "id": "9f048b560f2be213",
+   "source": "IT之家",
+   "title": "小米汽车 App“车辆助手”第二批公测开启招募，对话交互可查询车辆状态、即时 / 定时控车等",
+   "url": "https://www.ithome.com/1/017/807.htm",
+   "summary": "IT之家 10 月 26 日消息，小米汽车今日宣布，小米汽车 App「车辆助手」公测（第二批）体验官开启招募。 据介绍，该功能可在 App 内对话交互，即可查询车辆状态、即时 / 定时控车，创建小米超级任务，还能总结驾驶风格、记忆用车习惯。 官方表示，本功能尚在测试迭代，面向全量车主招募体验官，本次将结合报名信息综合筛选体验官。 11 月 2 日完成审核通知 ，结果将通过站内信、短信下发，也可在 App「我的‑我的活动」查看。 本次报名 无需更新车机 ，跟随活动指引进行小米汽车 App 公测版本升级即可体验。 IT之家附报名地址： https://web.community.car.miui.",
+   "published_at": 1792984160.0,
+   "published_bj": "2026-10-26 11:09"
+  },
+  {
+   "id": "378bf812680ad054",
+   "source": "Hacker News",
+   "title": "Brazil elections: Lula secures fourth term after dramatic comeback",
+   "url": "https://www.bbc.com/news/articles/cmvg7p001qj9o",
+   "summary": "Article URL: https://www.bbc.com/news/articles/cmvg7p001qj9o Comments URL: https://news.ycombinator.com/item?id=50238557 Points: 7 # Comments: 1",
+   "published_at": 1792983848.0,
+   "published_bj": "2026-10-26 11:04"
+  },
+  {
+   "id": "96df2061a652dca1",
+   "source": "IT之家",
+   "title": "OPPO 推出 80W 15000mAh、67W 20000mAh 新国标移动电源，269 元",
+   "url": "https://www.ithome.com/1/017/804.htm",
+   "summary": "IT之家 10 月 26 日消息，OPPO 推出了两款新国标移动电源，分别为 80W 15000mAh、67W 20000mAh，现已开售， 售价均为 269 元 。 两款新品均通过 2026 新国标 CCC 认证，支持 ColorOS 系统级互联，手机上可直接查看剩余电量、电池健康度、实时温度、循环次数等设备状态信息。 IT之家附两款新品主要介绍如下： 这款移动电源容量为 15000mAh（采用 3 颗 5000mAh 电芯串联），支持 80W SUPERVOOC 超级闪充，同时兼容 PD 65W、PPS 55W 输出；配备 USB-A + Type-C 双口设计，双口同充时总功率为 30W",
+   "published_at": 1792983473.0,
+   "published_bj": "2026-10-26 10:57"
   },
   {
    "id": "5450881b53963861",
@@ -299,6 +389,15 @@
    "summary": "IT之家 10 月 26 日消息，一加手机今日宣布，一加 Ace 7 系列搭载 一加 16 同款 185Hz 东方屏。 • 一加与京东方独家定制全新一代 X4 发光材料，显示更通透 • 全新「LTPO 超高刷电路」，支持全局 165Hz、游戏 185Hz • 独家自研「超级显示芯片 P4」，高帧更快更清晰 • 医显共研的「明眸护眼」技术，久用也舒适 一加中国区总裁李杰随后表示， 第四代东方屏是今年行业唯一的 185Hz LTPO 旗舰超清屏 。 综合IT之家此前报道，一加 Ace 7 Pro 搭载 第五代骁龙 8 至尊版 ，全新一代「风驰游戏内核」出厂写入芯片底层。 此外，新机全系搭载 900",
    "published_at": 1792976950.0,
    "published_bj": "2026-10-26 09:09"
+  },
+  {
+   "id": "a1ac78c1bdf048e8",
+   "source": "Hacker News",
+   "title": "Show HN: RainbowSay – Learn, teach, research languages live with shows you love",
+   "url": "https://rainbowsay.ai/",
+   "summary": "Article URL: https://rainbowsay.ai/ Comments URL: https://news.ycombinator.com/item?id=50237773 Points: 4 # Comments: 0",
+   "published_at": 1792976893.0,
+   "published_bj": "2026-10-26 09:08"
   },
   {
    "id": "22a20d88442a4ef2",
