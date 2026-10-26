@@ -1,8 +1,26 @@
 {
  "date": "2026-10-27",
- "generated_at": 1793009070.374644,
- "count": 1,
+ "generated_at": 1793012383.9461946,
+ "count": 3,
  "items": [
+  {
+   "id": "764d78fd25898fa4",
+   "source": "InfoQ中文",
+   "title": "中科慧灵完成数亿元A++轮融资：制鞋机器人订单超 4 亿元，具身智能开始拼量产交付",
+   "url": "https://www.infoq.cn/article/2svt5BbWUOHbADdo0UZo?utm_source=rss&utm_medium=article",
+   "summary": "点击查看原文>",
+   "published_at": 1793039450.0,
+   "published_bj": "2026-10-27 02:30"
+  },
+  {
+   "id": "5d2e695dafb75084",
+   "source": "InfoQ中文",
+   "title": "让 AI 从需求一路干到上线，软件开发组织要变了？",
+   "url": "https://www.infoq.cn/article/b32Mw2zaPrxyJ6ChePD5?utm_source=rss&utm_medium=article",
+   "summary": "点击查看原文>",
+   "published_at": 1793038093.0,
+   "published_bj": "2026-10-27 02:08"
+  },
   {
    "id": "13893a9a8c18bac6",
    "source": "InfoQ中文",

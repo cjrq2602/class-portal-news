@@ -1,7 +1,7 @@
 {
  "date": "2026-10-25",
- "generated_at": 1793009070.3801045,
- "count": 266,
+ "generated_at": 1793012383.9535098,
+ "count": 267,
  "items": [
   {
    "id": "ed809b6f2bea04dc",
@@ -1676,6 +1676,15 @@
    "summary": "IT之家 10 月 25 日消息，据央视新闻报道，北京时间 2026 年 10 月 25 日 10 时 03 分，我国在海南商业航天发射场使用长征八号甲运载火箭，成功将卫星互联网低轨 28 组卫星发射升空，卫星顺利进入预定轨道，发射任务获得圆满成功。 延伸阅读 长征八号甲运载火箭由航天科技集团一院抓总研制，是我国自主研制的两级半状态液体运载火箭，芯一级为直径 3.35 米的液氧煤油模块，芯二级为直径 3.35 米的氢氧模块，捆绑 2 个液体助推器，采用 5.2 米直径整流罩，可满足地球中低轨道星座组网发射需求。该型火箭于 2025 年 2 月首飞，700 公里太阳同步轨道运力由长征八号的 5 ",
    "published_at": 1792900310.0,
    "published_bj": "2026-10-25 11:51"
+  },
+  {
+   "id": "b63daebfb63254dd",
+   "source": "Hacker News",
+   "title": "Show HN: A Truly Modular Keyboard",
+   "url": "https://github.com/notaroomba/keybytes",
+   "summary": "Article URL: https://github.com/notaroomba/keybytes Comments URL: https://news.ycombinator.com/item?id=50228115 Points: 172 # Comments: 56",
+   "published_at": 1792900076.0,
+   "published_bj": "2026-10-25 11:47"
   },
   {
    "id": "c7704e8501cc90f8",
