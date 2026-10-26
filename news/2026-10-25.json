@@ -1,7 +1,7 @@
 {
  "date": "2026-10-25",
- "generated_at": 1793012383.9535098,
- "count": 267,
+ "generated_at": 1793014906.5712087,
+ "count": 268,
  "items": [
   {
    "id": "ed809b6f2bea04dc",
@@ -1919,6 +1919,15 @@
    "summary": "IT之家 10 月 25 日消息，据报道，亚历克斯 · 加兰（Alex Garland）执导的《艾尔登法环》真人电影预算高达近 2 亿美元 （IT之家注：现汇率约合 13.38 亿元人民币） ，这也成为 A24 有史以来成本最高的影片。 《华尔街日报》的一篇报道披露了这部改编自 FromSoftware 与乔治 ·R·R· 马丁合作的 2022 年角色扮演游戏真人电影的相关内情。该媒体援引消息人士的说法称，《艾尔登法环》的预算“接近两亿美元”。 A24 向来主打文艺向影片，过去十四年里，这家公司一直以用适中预算打造口碑佳作著称，这笔预算让本片甩开了 A24 以往所有项目。如果这份预算属实，加兰",
    "published_at": 1792889485.0,
    "published_bj": "2026-10-25 08:51"
+  },
+  {
+   "id": "c94d0ecbbf5e8e3f",
+   "source": "Hacker News",
+   "title": "Show HN: ADRs for AI – Deliberation records for human–AI work, versioned in Git",
+   "url": "https://adrs.systems",
+   "summary": "Why is this worth your time? Essentially, this solves two problems of AI-assisted programming: (a) the first problem is how to do oversight and what do oversight of and this is solved through the ORRCF (for Options, Recommendation, Rationale, Confidence, Falsifier) question format (in which models a",
+   "published_at": 1792889027.0,
+   "published_bj": "2026-10-25 08:43"
   },
   {
    "id": "bacaefcd9d467d66",
