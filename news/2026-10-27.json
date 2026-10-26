@@ -1,7 +1,7 @@
 {
  "date": "2026-10-27",
- "generated_at": 1793035966.6106365,
- "count": 7,
+ "generated_at": 1793038492.2669852,
+ "count": 14,
  "items": [
   {
    "id": "764d78fd25898fa4",
@@ -20,6 +20,69 @@
    "summary": "点击查看原文>",
    "published_at": 1793038093.0,
    "published_bj": "2026-10-27 02:08"
+  },
+  {
+   "id": "0fae1e63c8992d14",
+   "source": "cnBeta",
+   "title": "nxnative让Switch游戏变原生应用：iPhone与Mac可直接运行 无需模拟器",
+   "url": "https://www.cnbeta.com.tw/articles/game/1583952.htm",
+   "summary": "一个名为nxnative的新开源项目，能把玩家自有的Switch游戏转换为iPhone和iPad上的原生应用。整个过程不涉及模拟器：每款游戏的原始代码直接运行在苹果芯片上。同一套流程还可以生成Mac应用。《塞尔达传说：王国之泪》如今能以独立应用的形式，带着图标出现在iPhone主屏幕上。 阅读全文",
+   "published_at": 1793037621.0,
+   "published_bj": "2026-10-27 02:00"
+  },
+  {
+   "id": "e702b8398a9fab0d",
+   "source": "cnBeta",
+   "title": "台积电A14节点终结SRAM微缩八年停滞 存储单元面积首降19%",
+   "url": "https://www.cnbeta.com.tw/articles/tech/1583950.htm",
+   "summary": "作为全球规模最大、工艺最先进的半导体制造商，台积电在SRAM微缩方面的进展已停滞多年。自2020年N5 5纳米工艺量产以来，6T SRAM存储单元的面积一直停留在约0.021平方微米。逻辑元件的晶体管密度持续提升，存储器却没能跟上同样的步伐。随着计划于2028年投产的A14节点登场，这一局面有望被打破： 阅读全文",
+   "published_at": 1793037356.0,
+   "published_bj": "2026-10-27 01:55"
+  },
+  {
+   "id": "4089963cd025e8ff",
+   "source": "cnBeta",
+   "title": "苹果回应iPhone Duo内屏裂纹问题 称仅极少数设备受影响 建议联系AppleCare更换",
+   "url": "https://www.cnbeta.com.tw/articles/tech/1583948.htm",
+   "summary": "在首款折叠屏手机iPhone Duo上市后不久，部分用户反映铰链区域出现问题，导致内屏出现裂纹。苹果公司现已就相关报告作出回应。在发给MacRumors的一份声明中，苹果表示只有“极少数”设备受到影响，但并未说明开裂的具体成因，也没有透露是否计划推出修复方案。 阅读全文",
+   "published_at": 1793036903.0,
+   "published_bj": "2026-10-27 01:48"
+  },
+  {
+   "id": "9daa365da641c050",
+   "source": "TechCrunch",
+   "title": "This startup’s self-driving excavators help dig up $600M in new funding",
+   "url": "https://techcrunch.com/2026/10/26/this-startups-self-driving-excavators-help-dig-up-600m-in-new-funding/",
+   "summary": "Bedrock Robotics, which is now valued at $4.1 billion, is particularly focused on autonomous excavators, in part because of a growing shortage of skilled operators.",
+   "published_at": 1793036700.0,
+   "published_bj": "2026-10-27 01:45"
+  },
+  {
+   "id": "10b3d5246d4e4ae3",
+   "source": "cnBeta",
+   "title": "微软拟向约6万名员工提供自愿离职方案 预计接受比例远低于上一轮",
+   "url": "https://www.cnbeta.com.tw/articles/tech/1583946.htm",
+   "summary": "为了在AI时代调整员工队伍，进一步削减成本，微软将向约6万名员工提供自愿离职补偿方案。微软发言人表示，美国、加拿大、印度和英国部分团队中副总裁及以下级别的员工将符合条件。一些业务部门员工不在计划之列，包括一些从事数据中心、销售和营销工作的人员。 阅读全文",
+   "published_at": 1793036046.0,
+   "published_bj": "2026-10-27 01:34"
+  },
+  {
+   "id": "5831edd703a82bf3",
+   "source": "Hacker News",
+   "title": "ChatGPT Keeps Telling People 404 Media Can Solve Their Tech Support Problems",
+   "url": "https://www.404media.co/chatgpt-keeps-telling-people-404-media-can-solve-their-tech-support-problems/",
+   "summary": "Article URL: https://www.404media.co/chatgpt-keeps-telling-people-404-media-can-solve-their-tech-support-problems/ Comments URL: https://news.ycombinator.com/item?id=50247630 Points: 21 # Comments: 1",
+   "published_at": 1793035936.0,
+   "published_bj": "2026-10-27 01:32"
+  },
+  {
+   "id": "72ef8ee0781c2888",
+   "source": "Hacker News",
+   "title": "Nietzschian Debugger",
+   "url": "https://github.com/DilawarShafiq/nietzschian-debugger",
+   "summary": "Article URL: https://github.com/DilawarShafiq/nietzschian-debugger Comments URL: https://news.ycombinator.com/item?id=50247493 Points: 4 # Comments: 0",
+   "published_at": 1793035530.0,
+   "published_bj": "2026-10-27 01:25"
   },
   {
    "id": "44297be3b1767512",
