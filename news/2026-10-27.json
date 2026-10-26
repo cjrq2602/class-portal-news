@@ -1,8 +1,35 @@
 {
  "date": "2026-10-27",
- "generated_at": 1793041721.334279,
- "count": 28,
+ "generated_at": 1793044598.2508292,
+ "count": 32,
  "items": [
+  {
+   "id": "7c0c6e682970a595",
+   "source": "TechCrunch",
+   "title": "Uh oh, it sounds like the iPhone Duo keeps cracking and users aren’t happy about it",
+   "url": "https://techcrunch.com/2026/10/26/uh-oh-it-sounds-like-the-iphone-duo-keeps-cracking-and-users-arent-happy-about-it/",
+   "summary": "A small number of early adopters of the much hyped new foldable phone from Apple have complained of screens cracking.",
+   "published_at": 1793042560.0,
+   "published_bj": "2026-10-27 03:22"
+  },
+  {
+   "id": "a4be4777770d05a8",
+   "source": "cnBeta",
+   "title": "苹果发布iOS 27.2：iPhone Duo新增Apple Pencil支持 视频通话迎来补光功能",
+   "url": "https://www.cnbeta.com.tw/articles/tech/1583954.htm",
+   "summary": "苹果于当地时间10月26日发布iOS 27.2正式版，为旗下首款折叠屏手机iPhone Duo带来Apple Pencil手写笔支持，同时新增名为Edge Light的面部补光功能。此外，此次更新还涉及Siri人工智能功能、照片应用、FaceTime视频通话以及多款系统应用，苹果也同步推出了macOS、watchOS、visionOS、tvOS和HomePod的软件更新。 阅读全文",
+   "published_at": 1793041717.0,
+   "published_bj": "2026-10-27 03:08"
+  },
+  {
+   "id": "0751777a0ed90bd4",
+   "source": "Hacker News",
+   "title": "The EPA Is Quietly Killing Its Web Archive",
+   "url": "https://www.motherjones.com/environment/2026/10/epa-online-archive-deletion-zeldin-camp-lejeune-trump-clean-power/",
+   "summary": "Article URL: https://www.motherjones.com/environment/2026/10/epa-online-archive-deletion-zeldin-camp-lejeune-trump-clean-power/ Comments URL: https://news.ycombinator.com/item?id=50249275 Points: 43 # Comments: 1",
+   "published_at": 1793041541.0,
+   "published_bj": "2026-10-27 03:05"
+  },
   {
    "id": "6da0402e883a16a1",
    "source": "TechCrunch",
@@ -119,6 +146,15 @@
    "summary": "一个名为nxnative的新开源项目，能把玩家自有的Switch游戏转换为iPhone和iPad上的原生应用。整个过程不涉及模拟器：每款游戏的原始代码直接运行在苹果芯片上。同一套流程还可以生成Mac应用。《塞尔达传说：王国之泪》如今能以独立应用的形式，带着图标出现在iPhone主屏幕上。 阅读全文",
    "published_at": 1793037621.0,
    "published_bj": "2026-10-27 02:00"
+  },
+  {
+   "id": "a539d2985962520d",
+   "source": "Hacker News",
+   "title": "GPT 6.1 Terra",
+   "url": "https://developers.openai.com/api/docs/models/gpt-6.1-terra",
+   "summary": "Article URL: https://developers.openai.com/api/docs/models/gpt-6.1-terra Comments URL: https://news.ycombinator.com/item?id=50248075 Points: 22 # Comments: 1",
+   "published_at": 1793037504.0,
+   "published_bj": "2026-10-27 01:58"
   },
   {
    "id": "0a3013882c73256d",
