@@ -1,8 +1,116 @@
 {
  "date": "2026-10-27",
- "generated_at": 1793060963.559874,
- "count": 65,
+ "generated_at": 1793064158.1463737,
+ "count": 77,
  "items": [
+  {
+   "id": "80a7860a653752df",
+   "source": "InfoQ中文",
+   "title": "Kubernetes 1.37发布：稳定版Metrics API和Beta版Rootless Kubelet",
+   "url": "https://www.infoq.cn/article/TrI8l3CYeAJER9tgR5Jt?utm_source=rss&utm_medium=article",
+   "summary": "点击查看原文>",
+   "published_at": 1793092440.0,
+   "published_bj": "2026-10-27 17:14"
+  },
+  {
+   "id": "f0020cfbafa98bd3",
+   "source": "IT之家",
+   "title": "京东红包今日 10:00 再加码，猜拳至高赢 5 元",
+   "url": "https://www.ithome.com/1/018/232.htm",
+   "summary": "今日 10 点京东猜拳有机会赢至高 5 元加码红包，建议先领完日常红包再来参与： 点此抽取 。 猜拳红包玩法：活动会在不同的时间节点，开启“猜拳抢红包”玩法，请随时关注活动提示。 活动期间用户可参与猜拳玩法，每人最多 3 次机会，单次机会用户选择石头、剪刀、布任意一个，任意获胜 1 局（石头赢剪刀，剪刀赢布，布赢石头）即可获得领取额外奖励的机会，可随机获得京东红包、品类东券或店铺券等奖励。 奖励限量，发完即止，建议用户在活动节点整点，准时参与活动。 蚊子肉也是肉，小伙伴可每天都领（多个红包支持叠加使用），积攒多天后带走个大件哦 ~ 京东 11.11 无门槛红包 面额至高 26888 元，每天抽",
+   "published_at": 1793063992.0,
+   "published_bj": "2026-10-27 09:19"
+  },
+  {
+   "id": "24e7897883183a4f",
+   "source": "IT之家",
+   "title": "AI 造富：Anthropic 七位联合创始人身家均超 130 亿美元",
+   "url": "https://www.ithome.com/1/018/231.htm",
+   "summary": "IT之家 10 月 27 日消息，Anthropic PBC 当地时间周一披露的 IPO 文件显示，公司七位联合创始人每人大约持有公司 1.4% 的股份，按估值计算，各自身家超过 130 亿美元 （IT之家注：现汇率约合 868.89 亿元人民币） 。 阿莫代伊兄妹 这让包括达里奥 · 阿莫代伊（Dario Amodei）、丹妮拉 · 阿莫代伊（Daniela Amodei）兄妹在内的全部七位创始人跻身彭博亿万富豪指数前 300 名，财富规模超过比尔 · 阿克曼（Bill Ackman）、斯坦 · 德鲁肯米勒（Stan Druckenmiller）等知名金融领域亿万富豪。 该身家是基于 Ant",
+   "published_at": 1793063835.0,
+   "published_bj": "2026-10-27 09:17"
+  },
+  {
+   "id": "904c128e8822f8cf",
+   "source": "TechCrunch",
+   "title": "Cohere says Alibaba’s Qwen model tried to send a file to Beijing",
+   "url": "https://techcrunch.com/2026/10/26/cohere-says-alibabas-qwen-model-tried-to-send-a-file-to-beijing/",
+   "summary": "An AI model said it wouldn’t use any tools, then tried to send something to a server in Beijing anyway, and while researchers say it’s probably a training quirk and not espionage, the whole thing has people asking how much to trust free Chinese AI.",
+   "published_at": 1793063541.0,
+   "published_bj": "2026-10-27 09:12"
+  },
+  {
+   "id": "3f8ec03e0aab435e",
+   "source": "IT之家",
+   "title": "菲尔兹奖得主邓煜评论 AI 公司反蒸馏：你不能只在你蒸馏全人类知识时支持蒸馏",
+   "url": "https://www.ithome.com/1/018/230.htm",
+   "summary": "IT之家 10 月 27 日消息，据潮新闻 10 月 26 日报道，菲尔兹奖得主、芝加哥大学数学系教授邓煜在上周末的“知识分子”“赛先生”论坛上发表主旨演讲，系统阐述了他对 AI 时代数学研究的思考。 邓煜表示，AI 相对于人的优势，一方面是 AI 具有无限知识面，另一方面是 AI 具有极低的尝试成本 / 试错成本。但我们要坚持一点，在数学研究中也好，在任何事情中也好， 人总是作为主体 ；AI 是作为一个工具，是我们人利用来进行研究的工具。 邓煜认为，如果把 AI 作为研究者，就应遵守学术规范。如果 AI 证明了一个非常重大的问题，一个非常合理的要求， 是公布 AI 的思维链 。然而 AI 公",
+   "published_at": 1793063475.0,
+   "published_bj": "2026-10-27 09:11"
+  },
+  {
+   "id": "f32e94655ebdf4b2",
+   "source": "IT之家",
+   "title": "苹果 Siri AI 即日起支持法语、日语、韩语等语言，繁体中文得等到年底前",
+   "url": "https://www.ithome.com/1/018/229.htm",
+   "summary": "IT之家 10 月 27 日消息，苹果今天（27 日）通过新闻稿宣布，今天发布的 27.2 版本软件更新，进一步扩大新一代 Siri AI 的使用范围，新增支持 法语、日语、韩语、葡萄牙语和西班牙语 。 Siri AI 是全面升级的 Siri，不仅功能更强大，对话也更加自然，还能提供更个性化的服务。根据介绍，其基于 Apple 智能打造，在保护用户隐私的同时，大幅提升了 Siri 的能力。新版本能够理解用户的个人情况，从信息、邮件、照片等内容中查找所需资料，还可以执行更多系统级应用操作。借助屏幕感知能力，Siri AI 可以 理解屏幕上显示的内容，回答用户的问题或完成相应操作 。此外，Siri",
+   "published_at": 1793063045.0,
+   "published_bj": "2026-10-27 09:04"
+  },
+  {
+   "id": "91ba0b000e82a64e",
+   "source": "IT之家",
+   "title": "Mac 版 Ollama 新增离线生成 AI 语音：数据不出门，速度比原方案最高快 35%",
+   "url": "https://www.ithome.com/1/018/228.htm",
+   "summary": "IT之家 10 月 27 日消息，本地运行 AI 模型的开源平台 Ollama 于 10 月 24 日宣布， 其 Mac 应用正式支持文本转语音（TTS）生成， Windows 和 Linux 版本也将随后跟进。 科技媒体 9to5Mac 认为这是 Ollama 首次加入语音生成能力，让本地 AI 从“能读会写”进一步迈向“能开口说话”。 首个支持的语音模型是 Gradium 开发的 Phonon 系列。该模型体积较小、技术指标先进，用户无需依赖云端服务，可通过 Ollama 直接下载并在 Apple Silicon Mac 上运行，更适合注重隐私、需要离线使用的场景。 在 macOS 上， ",
+   "published_at": 1793062825.0,
+   "published_bj": "2026-10-27 09:00"
+  },
+  {
+   "id": "6bdc42f9ef27033f",
+   "source": "IT之家",
+   "title": "老干妈否认“用 AI 把 600 名工人裁到 48 人”，回应称相关 AI 裁员传闻为不实信息",
+   "url": "https://www.ithome.com/1/018/227.htm",
+   "summary": "IT之家 10 月 27 日消息，“老干妈 AI 裁员传闻引争议”话题于 10 月 26 日登上社交平台热搜，据蓝鲸新闻报道，老干妈官方热线工作人员回应称， 相关 AI 裁员传闻为不实信息 ，公司从未发布此类信息，请消费者理性看待。 另据观点网报道，老干妈常务副总、首席质量官 李鑫在 2026 年贵州省质量发展大会上对外透露 ，“通过四年的质量巩固与体系优化， 2025 年，我们营收达 54 亿元，创历史最高峰值 。” 随后，在网络上不少自媒体发文，称“老干妈用 AI 把 600 名工人裁到 48 人，自己年营收高达 54 亿”，相关内容引发热议，甚至有消费者表示不再购买老干妈。 IT之家注意",
+   "published_at": 1793062513.0,
+   "published_bj": "2026-10-27 08:55"
+  },
+  {
+   "id": "62ec46bcd18199ed",
+   "source": "IT之家",
+   "title": "造型像火箭！特斯拉休斯顿 Robotaxi 服务范围扩至 10 倍，面积是 Waymo 的 5 倍",
+   "url": "https://www.ithome.com/1/018/226.htm",
+   "summary": "IT之家 10 月 27 日消息，特斯拉在休斯顿的 Robotaxi 自动驾驶出租车服务范围刚刚大幅扩容。特斯拉 Robotaxi 官方账号在 X 平台宣布了这次扩张，确认新版更大的服务区域已经正式上线。 这次电子围栏划定的运营面积大约扩大至原来的十倍，从约 25 平方英里增加到 254 平方英里 （IT之家注：约 657.9 平方公里） ，增幅达到 916%。这是特斯拉自今年 4 月在休斯顿推出无安全员 Robotaxi 载客服务之后，首次扩大当地运营范围。该区域内的乘车服务全程无人，目前使用经过改装的 Model Y 自动驾驶出租车运营。 火箭造型的服务区域 新的电子围栏范围从西北部科珀菲",
+   "published_at": 1793062440.0,
+   "published_bj": "2026-10-27 08:54"
+  },
+  {
+   "id": "01924b3f15dfeb4d",
+   "source": "IT之家",
+   "title": "拉脱维亚批准特斯拉 FSD 上路，成为第十个欧盟批准国",
+   "url": "https://www.ithome.com/1/018/224.htm",
+   "summary": "IT之家 10 月 27 日消息，拉脱维亚已正式批准特斯拉 FSD（监督版）在本国道路使用。特斯拉欧洲分部在 X 平台公布了这一消息，并表示相关功能很快就会推送上线。 IT之家注意到，拉脱维亚由此成为第十个独立批准该系统的欧盟成员国，也是全球第 18 个批准该系统的国家。波罗的海另外两个邻国立陶宛、爱沙尼亚早在今年 5 月就已批准 FSD。在欧洲地区，特斯拉为了推进欧盟全域审批，已经把 FSD 更名，新名称为特斯拉辅助驾驶（Tesla Assisted Driving）。 截至目前，这些欧盟国家已独立批准 FSD 在公共道路使用：荷兰、立陶宛、爱沙尼亚、丹麦、比利时、斯洛文尼亚、捷克、克罗地亚",
+   "published_at": 1793061606.0,
+   "published_bj": "2026-10-27 08:40"
+  },
+  {
+   "id": "f9bc93533459277a",
+   "source": "IT之家",
+   "title": "美最大运营商 Verizon 称 SpaceX 拥有竞争力需 8 年，马斯克回怼“2-3 年就够”",
+   "url": "https://www.ithome.com/1/018/222.htm",
+   "summary": "IT之家 10 月 27 日消息，商场如战场，即便看似胜券在握，也不能轻敌。美国最大的电信运营商 Verizon CEO 丹 · 舒尔曼同样奉行这一原则。 据《商业内幕》今天（27 日）凌晨报道，马斯克希望将 SpaceX 旗下星链打造为美国通信网络市场的重要参与者，舒尔曼并不打算低估这一潜在竞争对手。“技术和无线通信行业发展得非常快，我们也必须跟上步伐。而且，我会假设 SpaceX 承诺的事情都能做到，并且执行得毫无差错。” 马斯克过去多次兑现令人惊讶的承诺。舒尔曼认为，即便如此，星链要想真正与 Verizon 等老牌运营商抗衡，仍有 不少技术和资金难关 需要跨越，但也不能排除成功的可能。“",
+   "published_at": 1793061328.0,
+   "published_bj": "2026-10-27 08:35"
+  },
+  {
+   "id": "476529e221b7dc6e",
+   "source": "IT之家",
+   "title": "苹果 iOS 27.2 修复 163 个安全漏洞，封堵大部分 iOS 27 完美越狱漏洞",
+   "url": "https://www.ithome.com/1/018/221.htm",
+   "summary": "IT之家 10 月 27 日消息，苹果今天（10 月 27 日）发布 iOS 27.2 与 iPadOS 27.2 系统更新，一次性修复 163 个安全漏洞（检索 CVE 关键词，显示共有 163 个可追踪漏洞编号），涉及 Apple Intelligence、邮件隐私、浏览器内核及系统底层等关键领域。苹果建议用户尽快完成升级。 IT之家援引博文介绍，本次更新最受关注的修复，可能是允许远程攻击者访问敏感数据的 Apple Intelligence 漏洞，以及一个可能导致用户真实邮箱地址泄露的“隐藏邮件地址”功能缺陷。 此外，苹果还修复了超过 30 项 WebKit 漏洞和约 15 个内核漏洞，",
+   "published_at": 1793061177.0,
+   "published_bj": "2026-10-27 08:32"
+  },
   {
    "id": "1151143891de9af7",
    "source": "IT之家",
