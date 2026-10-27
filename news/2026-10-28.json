@@ -1,8 +1,17 @@
 {
  "date": "2026-10-28",
- "generated_at": 1793133073.1821873,
- "count": 40,
+ "generated_at": 1793135614.4187973,
+ "count": 42,
  "items": [
+  {
+   "id": "cbc3ac5c6c756ed4",
+   "source": "TechCrunch",
+   "title": "Re:Build, which spun out Slate Auto, raises $2.1B",
+   "url": "https://techcrunch.com/2026/10/27/rebuild-which-spun-out-slate-auto-raises-2-1b/",
+   "summary": "The manufacturing accelerator bills itself as \"America’s answer to Shenzhen.\"",
+   "published_at": 1793133077.0,
+   "published_bj": "2026-10-28 04:31"
+  },
   {
    "id": "94854390be9569b3",
    "source": "IT之家",
@@ -28,6 +37,15 @@
    "url": "https://www.cnbeta.com.tw/articles/tech/1584088.htm",
    "summary": "美国总统特朗普近日再次就人工智能领域的术语使用问题表达不满，原因是媒体机构、科技企业以及公众仍普遍采用“AI（Artificial Intelligence，人工智能）”这一传统简称，而没有使用他此前提出的新名称“SI（Super Intelligence，超级智能）”。 阅读全文",
    "published_at": 1793132020.0,
+   "published_bj": "2026-10-28 04:13"
+  },
+  {
+   "id": "34bfb96db907896f",
+   "source": "Hacker News",
+   "title": "Four Months of Zig",
+   "url": "https://gracefulliberty.com/articles/four-months-of-zig/",
+   "summary": "Article URL: https://gracefulliberty.com/articles/four-months-of-zig/ Comments URL: https://news.ycombinator.com/item?id=50265128 Points: 5 # Comments: 1",
+   "published_at": 1793132007.0,
    "published_bj": "2026-10-28 04:13"
   },
   {
