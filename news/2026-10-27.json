@@ -1,7 +1,7 @@
 {
  "date": "2026-10-27",
- "generated_at": 1793102127.284164,
- "count": 312,
+ "generated_at": 1793104510.4125872,
+ "count": 323,
  "items": [
   {
    "id": "4c2bf1ace1312ccc",
@@ -20,6 +20,87 @@
    "summary": "点击查看原文>",
    "published_at": 1793106000.0,
    "published_bj": "2026-10-27 21:00"
+  },
+  {
+   "id": "212e2c8f8a030043",
+   "source": "IT之家",
+   "title": "Surface Laptop Ultra 屏幕显示效果不佳引发外界争议：微软确认该机支持分区调光、产品仍有后期改进空间",
+   "url": "https://www.ithome.com/1/018/652.htm",
+   "summary": "IT之家 10 月 27 日消息，据外媒 Windows Central 报道，针对 Surface Laptop Ultra 的 Mini LED 屏幕是否支持分区调光的问题，微软向该媒体作出回应，确认该设备默认支持分区调光，其背光系统由 5400 颗 LED 和 1344 个调光分区组成。 不过，与市场上其他 Mini LED 屏幕相比，其实际显示效果仍存在一定差距。多家媒体在评测中指出，Surface Laptop Ultra 的 Mini LED 屏幕表现不尽如人意，存在拖影、光晕明显以及色彩对比度不足等问题，因此导致有媒体认为 Surface Laptop Ultra 的屏幕完全不支",
+   "published_at": 1793103757.0,
+   "published_bj": "2026-10-27 20:22"
+  },
+  {
+   "id": "09a0ece23ebdd494",
+   "source": "IT之家",
+   "title": "文远知行启动全球保险合作计划，为 L4 级自动驾驶护航",
+   "url": "https://www.ithome.com/1/018/651.htm",
+   "summary": "IT之家 10 月 27 日消息，自动驾驶科技公司文远知行今日宣布启动全球保险合作计划，新加坡安联保险（Allianz Insurance Singapore）及平安产险成为首批合作伙伴。 IT之家从官方介绍获悉，全球保险合作计划覆盖文远知行 中国、东南亚和中东 的现有业务，并支持即将在欧洲等更多市场推出的服务。依托合作伙伴在国际及中国市场的保险专业优势，各方将根据当地监管要求和运营需求，共同开发覆盖 L4 级自动驾驶 车辆 运营全生命周期的定制化保险方案，涵盖机动车责任险、商业综合责任险及产品责任险，以及隐私和网络安全风险保障。 ▲ 图源文远知行 安联保险 是新加坡第三大车险公司，也是新加坡",
+   "published_at": 1793103726.0,
+   "published_bj": "2026-10-27 20:22"
+  },
+  {
+   "id": "229eb547c793e5c4",
+   "source": "IT之家",
+   "title": "深蓝 S09 车型 OTA V5.4 版本上线：首批搭载华为乾崑 ADS Max V5.0.2",
+   "url": "https://www.ithome.com/1/018/650.htm",
+   "summary": "IT之家 10 月 27 日消息，深蓝汽车今日宣布，深蓝 S09 OTA V5.4 版本重磅上线，首批搭载华为乾崑 ADS Max V5.0.2 车型，带来 4 大维度进化、20+ 项功能新增。 IT之家附主要内容如下： 新增城区场景漫游巡航辅助功能 新增园区无导航漫游功能 新增领航辅助 (NCA) 激活场景拓展 新增同园区导航到充电车位功能 新增充电车位忙闲可视化功能 新增自动防追尾 (ARCP) 功能 新增自动打转向灯功能 新增自动开启哨兵模式功能 新增千悟大模型功能 新增 AI 语音大模型功能 新增双地图切换功能 新增领航者勋章版块 新增亲密双人位模式语音提示 延伸阅读 深蓝 S09 是",
+   "published_at": 1793103328.0,
+   "published_bj": "2026-10-27 20:15"
+  },
+  {
+   "id": "ee37f14143b1471d",
+   "source": "IT之家",
+   "title": "红果短剧：网传“红果短剧年收入 400 亿”等为不实信息",
+   "url": "https://www.ithome.com/1/018/649.htm",
+   "summary": "IT之家 10 月 27 日消息，红果短剧官方账号发布声明，否认了网络上流传的“年化收入逼近 400 亿元”“今年营收达 420 亿至 450 亿元”等说法。 红果短剧官方声明称，经核实上述收入数据不实，网传内容中标注的“机构数据”“行业数据”“专家预计”均非官方信息，据此展开的比较、推算和延伸解读也没有事实依据。 红果短剧同时表示，公司大部分收入持续用于内容创作者分账、版权保底和优质内容扶持。 这轮传闻的核心是将红果短剧的收入体量与中国电影市场全年总票房直接对比。 多个流传版本引用“年化收入逼近 400 亿元”的说法，与 2025 年中国电影全年 518.32 亿元的总票房并列，进而推导出短",
+   "published_at": 1793103143.0,
+   "published_bj": "2026-10-27 20:12"
+  },
+  {
+   "id": "80e06e1215c3947f",
+   "source": "IT之家",
+   "title": "荣耀手表 5 Ultra / 5 Pro 开推 MagicOS 11，界面 UX 焕新、新增电动车钥匙等",
+   "url": "https://www.ithome.com/1/018/648.htm",
+   "summary": "IT之家 10 月 27 日消息，荣耀产品维护与升级 @荣耀小芳哥 今日宣布，荣耀手表 5 Ultra 和 5 Pro 已经开启 MagicOS 11 系统推送，更新点如下： 界面 UX 焕新 ，视觉体验更精致； 新增电动车钥匙 ，骑车出门少带一把钥匙； YOYO 建议上新 ：淘宝闪购、京东、大麦提醒 绿光时序表盘上新 ，手表颜值再升级。 升级方式： 打开荣耀运动健康 App → 进入手表设备详情页 → 固件更新 。 综合IT之家此前报道，在 9 月 15 日晚的荣耀 HGDC 2026 荣耀开发者大会上， MagicOS 11 系统正式发布 。根据推送规划，10-11 月将开启 MagicO",
+   "published_at": 1793103014.0,
+   "published_bj": "2026-10-27 20:10"
+  },
+  {
+   "id": "dae45313966c9305",
+   "source": "cnBeta",
+   "title": "传闻称iPhone 18e或升级A20芯片与前置摄像头 屏幕仍为60Hz",
+   "url": "https://www.cnbeta.com.tw/articles/tech/1584030.htm",
+   "summary": "爆料者“数码闲聊站”近日在微博称，苹果计划中的iPhone 18e可能采用6.12英寸LTPS OLED屏幕、A20芯片和单颗4800万像素后置摄像头，屏幕刷新率仍为60Hz。对前置摄像头，爆料者的说法较不确定，称其可能升至2400万像素。 阅读全文",
+   "published_at": 1793102843.0,
+   "published_bj": "2026-10-27 20:07"
+  },
+  {
+   "id": "87908fc60a9b69ad",
+   "source": "cnBeta",
+   "title": "iPhone 18 Pro系列首发销量同比增长3.1% 中国市场成关键支撑",
+   "url": "https://www.cnbeta.com.tw/articles/tech/1584028.htm",
+   "summary": "苹果最新一代高端手机 iPhone 18 Pro 系列上市后的初期销售表现呈现明显的区域分化。市场研究机构 Counterpoint Research 的供应链调查显示，iPhone 18 Pro和iPhone 18 Pro Max上市前三周的全球销量同比增长3.1%，但这一增长很大程度上依赖中国市场的强劲表现。如果剔除中国市场，苹果新一代Pro系列的整体销售增长将明显减弱。 阅读全文",
+   "published_at": 1793102597.0,
+   "published_bj": "2026-10-27 20:03"
+  },
+  {
+   "id": "3626bdf5a39999be",
+   "source": "cnBeta",
+   "title": "iPhone Duo铰链供应商否认质量问题 称屏幕破裂原因尚未查明",
+   "url": "https://www.cnbeta.com.tw/articles/tech/1584026.htm",
+   "summary": "苹果首款折叠屏手机 iPhone Duo 上市后接连出现内屏破裂报告，部分用户和拆解人员将怀疑焦点指向设备的铰链机构。面对持续发酵的舆论，苹果供应链企业 Fine M-Tec 于10月26日发表声明，否认其供应的组件存在导致屏幕损坏的质量缺陷，并呼吁外界在真正原因查明之前，不要急于认定责任方。 阅读全文",
+   "published_at": 1793102439.0,
+   "published_bj": "2026-10-27 20:00"
+  },
+  {
+   "id": "64ea3530f7d0d70b",
+   "source": "cnBeta",
+   "title": "宇航员心脏扛得住火星之旅",
+   "url": "https://www.cnbeta.com.tw/articles/science/1584024.htm",
+   "summary": "火星之旅对人类心脏的挑战可能没有科学家曾经担忧的那么大。一项研究表明，宇航员能够很好地适应数月的失重状态。这项近日发表于《循环》的研究提供了令人鼓舞的证据，表明人类能够承受飞往火星的太空旅行，并能够在其较弱引力下正常活动。 阅读全文",
+   "published_at": 1793102297.0,
+   "published_bj": "2026-10-27 19:58"
   },
   {
    "id": "27d489c43f85675b",
@@ -139,12 +220,30 @@
    "published_bj": "2026-10-27 19:20"
   },
   {
+   "id": "1b69d714a67e00bd",
+   "source": "Hacker News",
+   "title": "Python's experimental JIT to be removed",
+   "url": "https://lwn.net/SubscriberLink/1102102/0c00e4d550f25f8c/",
+   "summary": "Article URL: https://lwn.net/SubscriberLink/1102102/0c00e4d550f25f8c/ Comments URL: https://news.ycombinator.com/item?id=50257419 Points: 47 # Comments: 6",
+   "published_at": 1793099877.0,
+   "published_bj": "2026-10-27 19:17"
+  },
+  {
    "id": "1978ec4802a56ac8",
    "source": "Hacker News",
    "title": "Wikipedia's Cleanup of AI-Generated Content",
    "url": "https://spectrum.ieee.org/wikipedia-wikiproject-ai-writing-cleanup",
    "summary": "Article URL: https://spectrum.ieee.org/wikipedia-wikiproject-ai-writing-cleanup Comments URL: https://news.ycombinator.com/item?id=50257326 Points: 5 # Comments: 1",
    "published_at": 1793099295.0,
+   "published_bj": "2026-10-27 19:08"
+  },
+  {
+   "id": "50fd8e198e86dccf",
+   "source": "Hacker News",
+   "title": "AI promised less work. I've never worked more",
+   "url": "https://oioannou.com/blog/ai-promised-less-work/",
+   "summary": "Article URL: https://oioannou.com/blog/ai-promised-less-work/ Comments URL: https://news.ycombinator.com/item?id=50257325 Points: 7 # Comments: 1",
+   "published_at": 1793099294.0,
    "published_bj": "2026-10-27 19:08"
   },
   {
