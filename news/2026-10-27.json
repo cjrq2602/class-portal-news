@@ -1,7 +1,7 @@
 {
  "date": "2026-10-27",
- "generated_at": 1793107873.300064,
- "count": 349,
+ "generated_at": 1793111289.1610262,
+ "count": 367,
  "items": [
   {
    "id": "4c2bf1ace1312ccc",
@@ -11,6 +11,132 @@
    "summary": "点击查看原文>",
    "published_at": 1793114520.0,
    "published_bj": "2026-10-27 23:22"
+  },
+  {
+   "id": "c9ab9edeb6f83d9b",
+   "source": "IT之家",
+   "title": "Anthropic 确认其内部系统遭访问：客户对话、模型权重未受影响",
+   "url": "https://www.ithome.com/1/018/683.htm",
+   "summary": "IT之家 10 月 27 日消息，据《华盛顿邮报》当地时间 10 月 26 日报道，网络安全初创公司 Cathedral 称，其研究人员利用 AI 智能体在不到 12 小时内通过第三方商业软件的漏洞，找到进入 Anthropic 内部系统的路径。 Anthropic 随后确认，部分销售、人力资源和 IT 系统遭到访问，但客户与 Claude 的对话、模型回复、源代码及模型权重均未受到影响。 Cathedral 由美国政府效率部（DOGE）前成员创办。根据该公司一份尚未正式发布的报告草稿，研究人员在 Anthropic 的外部安全研究计划下开展测试，利用企业销售和行政管理软件中的漏洞，接触到会议",
+   "published_at": 1793111146.0,
+   "published_bj": "2026-10-27 22:25"
+  },
+  {
+   "id": "a8a68f421e8ca530",
+   "source": "TechCrunch",
+   "title": "Apple unveils new 14-inch MacBook Pro with M6 chip",
+   "url": "https://techcrunch.com/2026/10/27/apple-unveils-new-14-inch-macbook-pro-with-m6-chip/",
+   "summary": "The new MacBook Pro comes with 24 hours of battery life, and now features support for Wi-Fi 7 and Bluetooth 6 connectivity.",
+   "published_at": 1793111111.0,
+   "published_bj": "2026-10-27 22:25"
+  },
+  {
+   "id": "5858542531701680",
+   "source": "IT之家",
+   "title": "宁德时代：全固态电池 2027 年有望实现小批量生产",
+   "url": "https://www.ithome.com/1/018/682.htm",
+   "summary": "IT之家 10 月 27 日消息，宁德时代今日在投资者互动平台表示，公司在全固态电池上持续坚定投入，技术处于行业领先水平， 2027 年有望实现小批量生产 。 另外，近年来公司根据市场需求加快产能建设进度，随着今年产能的陆续投产， 产能紧张程度有所缓解 。但市场需求也在持续增长，整体而言，接下来产能利用率仍将处于较高水平，保持较健康的状态。 IT之家注意到，在今年 6 月举行的 2026 大连夏季达沃斯论坛上，宁德时代董事长曾毓群在“无电力，不智能”论坛表示，固态电池的技术路线，如果是 level1-9 的话， 现在只到了 level4 ，level9 是“可以量产”。曾毓群认为，除了技术路线",
+   "published_at": 1793110796.0,
+   "published_bj": "2026-10-27 22:19"
+  },
+  {
+   "id": "998dd629f5ffbd7a",
+   "source": "IT之家",
+   "title": "《全境封锁》系列累计玩家达到 5000 万，3 代游戏仍在开发中",
+   "url": "https://www.ithome.com/1/018/681.htm",
+   "summary": "IT之家 10 月 27 日消息，Massive Entertainment 今天宣布， 《全境封锁》系列游戏累计玩家数已达到 5000 万 。 IT之家了解到，《全境封锁》首部作品发布于 2016 年，游戏中一场在黑色星期五购物季期间借由钞票等媒介散布的疾病，让美国在 5 日之内崩解瘫痪。玩家需要击退威胁、找出幕后黑手，并尽一切手段来“保存剩下的事物”。后续推出三款大型 DLC。 而续作《全境封锁 2》发售于 2019 年，将故事背景转移至华盛顿特区。玩家需要阻止联邦政府彻底崩溃。 2023 年， Massive Entertainment 宣布《全境封锁 3》正在开发中 ，但官方一直没有公",
+   "published_at": 1793110584.0,
+   "published_bj": "2026-10-27 22:16"
+  },
+  {
+   "id": "5083e137a658a2ce",
+   "source": "IT之家",
+   "title": "联合创新推出“C27Q1”27 英寸显示器：2K 120Hz OLED，1599 元",
+   "url": "https://www.ithome.com/1/018/677.htm",
+   "summary": "IT之家 10 月 27 日消息，联合创新现已在京东上架一款“C27Q1”27 英寸显示器，该机主打 2K 120Hz OLED，同时拥有“3H 装甲镀膜”，定价为 1599 元。 京东 联合创新“C27Q1”显示器 1599 元 直达链接 该机配备一块 2560x1440 分辨率 120Hz OLED 面板，显示器亮度 400 尼特，静态对比度 150 万:1，响应速度 0.03ms，显示器支持 10-Bit 色彩。官方强调该产品采用了 3H“装甲”抗刮低反射镀膜，以强化表面硬度，提升耐刮能力。 该机采用白色边框、白色支架，显示器支架支持升降 / 倾斜 / 旋转，显示器本体支持 VESA 1",
+   "published_at": 1793110251.0,
+   "published_bj": "2026-10-27 22:10"
+  },
+  {
+   "id": "02368e765edc9783",
+   "source": "IT之家",
+   "title": "继英伟达 30 亿美元之后：AMD 也宣布向 Meta 投资 10 亿美元深化 AI 基础设施合作，覆盖 EPYC、Instinct GPU、ROCm 软件",
+   "url": "https://www.ithome.com/1/018/676.htm",
+   "summary": "IT之家 10 月 27 日消息，继英伟达的 30 亿美元之后，AMD 也宣布向 Meta 的股权发行投资 10 亿美元 （IT之家注：现汇率约合 66.84 亿元人民币） ，从而进一步深化与 Meta 的战略合作。 双方将围绕 CPU、GPU、网络、系统及软件展开协作，为 Meta 的人工智能基础设施及 AI 服务提供算力支持。 据官方公告，AMD Helios 机架级系统已在 Meta 安装并进入测试阶段，双方计划在后续进一步扩大部署规模。AMD 表示，两家公司正围绕当前及未来的 Meta 工作负载协调产品路线图和工程设计，目标是共同建设并部署吉瓦级 AI 基础设施。 在 CPU 方面，A",
+   "published_at": 1793110110.0,
+   "published_bj": "2026-10-27 22:08"
+  },
+  {
+   "id": "6ea5c127ed865b10",
+   "source": "IT之家",
+   "title": "保时捷 2026 年前第三季度营收 252.8 亿欧元，同比下滑 5.9%",
+   "url": "https://www.ithome.com/1/018/675.htm",
+   "summary": "IT之家 10 月 27 日消息，保时捷今日公布 2026 年前三季度业绩，报告期内，该集团实现营业收入 252.8 亿欧元 （IT之家注：现汇率约合 1,888.95 亿元人民币） ， 同比下滑 5.9% ；营业利润 17.4 亿欧元 （现汇率约合 130.02 亿元人民币） ，销售营业回报率 6.9%。 2026 年前三季度，汽车业务净现金流利润率达到 11.3%，而去年同期为 5.6%。截至 2026 年 9 月 30 日，受汽车业务净现金流资金流入的主要驱动，汽车业务板块净流动资金较 2025 财年末增加 8.84 亿欧元 （现汇率约合 66.05 亿元人民币） ，达到 82.3 亿欧",
+   "published_at": 1793110075.0,
+   "published_bj": "2026-10-27 22:07"
+  },
+  {
+   "id": "2bb13d57ddb94dfb",
+   "source": "IT之家",
+   "title": "80 名特斯拉韩国车主因非法破解激活 FSD 而被移送检方，查扣 21 台设备",
+   "url": "https://www.ithome.com/1/018/674.htm",
+   "summary": "IT之家 10 月 27 日消息，据韩联社，韩国首尔警察厅今日通报将 80 名涉嫌非法破解从而在原本无法使用 FSD 的特斯拉车型上擅自激活 FSD 功能的车主移送检方，并查扣了 21 台未经授权的激活设备。 警方指控，这些车主涉嫌违反韩国《汽车管理法》，涉案车主通过欧洲、中国等地的渠道购买破解设备，或自行制作相关工具，以绕过特斯拉的软件限制。 部分媒体报道称，这些车主仅花了约 3 万韩元 （IT之家注：现汇率约合 151.4 元人民币） 购买到了破解设备，从而解锁了在中国市场售价高达 6.4 万元人民币的辅助驾驶套件。 韩国纽西斯通讯社报道称，部分设备由海外购买，也有从事 IT 相关工作的涉",
+   "published_at": 1793109599.0,
+   "published_bj": "2026-10-27 21:59"
+  },
+  {
+   "id": "6cfbbd7003f1e1e7",
+   "source": "Hacker News",
+   "title": "Giving chat feedback gives Anthropic your data",
+   "url": "https://privacy.claude.com/en/articles/7996868-is-my-data-used-for-model-training",
+   "summary": "Article URL: https://privacy.claude.com/en/articles/7996868-is-my-data-used-for-model-training Comments URL: https://news.ycombinator.com/item?id=50259406 Points: 3 # Comments: 1",
+   "published_at": 1793109375.0,
+   "published_bj": "2026-10-27 21:56"
+  },
+  {
+   "id": "4633b3c22b7e0a9f",
+   "source": "TechCrunch",
+   "title": "Apple rolls out iOS 27.2 with new Siri AI languages and security fixes",
+   "url": "https://techcrunch.com/2026/10/27/apple-rolls-out-ios-27-2-with-new-siri-ai-languages-and-security-fixes/",
+   "summary": "The latest Apple software update for iPhones and iPads includes new features and important security updates.",
+   "published_at": 1793109291.0,
+   "published_bj": "2026-10-27 21:54"
+  },
+  {
+   "id": "5bffa36c29e174c5",
+   "source": "Hacker News",
+   "title": "Wiz: No successful PHP2Shell exploits seen so far; exposure down 67%",
+   "url": "https://www.wiz.io/blog/php2shell-exploitation-so-far",
+   "summary": "Article URL: https://www.wiz.io/blog/php2shell-exploitation-so-far Comments URL: https://news.ycombinator.com/item?id=50259343 Points: 23 # Comments: 3",
+   "published_at": 1793109132.0,
+   "published_bj": "2026-10-27 21:52"
+  },
+  {
+   "id": "e90c520796063488",
+   "source": "IT之家",
+   "title": "消息称 R 星已向媒体发放《GTA6》游戏评测码，11 月 18 日解禁",
+   "url": "https://www.ithome.com/1/018/671.htm",
+   "summary": "IT之家 10 月 27 日消息，爆料人士 Nate The Hate 今天在 X 平台透露，Rockstar Games 已向媒体机构发放《GTA6》评测码， 解禁时间为 11 月 18 日 。 IT之家注意到，如果该爆料属实，那么各大媒体和机构的评测人员将有两周多的时间充分体验游戏，并赶在游戏正式发售之前发布评测内容。而玩家们需要到发售前最后一刻，才能知道这款游戏的具体评分。 一些玩家可能会认为，这种做法损害了消费者权益。不过玩家完全可以在 18 日当天看多个评测，如果真的感觉内容不合胃口，仍有 1 天时间可以取消预购。只要游戏媒体和内容创作者没有同时推迟发布评测，消费者仍然可以在购买前获",
+   "published_at": 1793108575.0,
+   "published_bj": "2026-10-27 21:42"
+  },
+  {
+   "id": "39b15d4034fa57c2",
+   "source": "TechCrunch",
+   "title": "Japan internet giant GMO says hackers posted stolen customer data",
+   "url": "https://techcrunch.com/2026/10/27/japan-internet-giant-gmo-says-hackers-posted-stolen-customer-data/",
+   "summary": "Japan's GMO Internet is verifying alleged customer data posted by suspected hackers following a cloud service breach.",
+   "published_at": 1793107977.0,
+   "published_bj": "2026-10-27 21:32"
+  },
+  {
+   "id": "a7771722b742da0b",
+   "source": "IT之家",
+   "title": "Steam 新一周游戏销量榜公布：《使命召唤：现代战争 4》全球连冠，《影之刃零》国区登顶",
+   "url": "https://www.ithome.com/1/018/670.htm",
+   "summary": "IT之家 10 月 27 日消息，Steam 平台现已公布了最新一周游戏销量排行榜（2026 年 10 月 20 日 - 2026 年 10 月 27 日，无免费游戏），《使命召唤：现代战争 4》连续两周占据全球榜首，《影之刃零》预购登顶国区榜单，新游戏《Moon Sweepers》首次进入全球前十。 全球榜单： Call of Duty®: Modern Warfare® 4 影之刃零 赛博朋克 2077 AION 2 FINAL FANTASY RESONANCE 《赛博朋克 2077：往日之影》 EA SPORTS FC™ 27 黎明杀机 HELLDIVERS™ 绝地潜兵 2 雾锁王国 ",
+   "published_at": 1793107844.0,
+   "published_bj": "2026-10-27 21:30"
   },
   {
    "id": "bcb2b156df7e86cf",
@@ -29,6 +155,24 @@
    "summary": "IT之家 10 月 27 日消息，今晚，抖音集团副总裁李亮发文称，互联网产品中，只有即时通讯因为有关系链这个护城河，市场格局相对稳定。短剧、短视频这类产品属于充分竞争行业，市场竞争激烈，市场格局变动快，没有哪家公司能稳居市场第一，真实情况是， 腾讯公司短剧、短视频增长速度，远远超过抖音和红果 ，而且在互联网应用中，即时通讯，游戏、电商、音乐都占据用户非常多的“时间”。 李亮在文中提到，随着红果短剧内容质量不断提升，越来越受到用户喜爱。他们也同时发现，不断有关于红果短剧的不实信息传出，这些信息甚至影响到一些有权威的专家学者，一位其非常尊重的学者居然提出“中国互联网的字节时间”，这个定性极不严谨，",
    "published_at": 1793107425.0,
    "published_bj": "2026-10-27 21:23"
+  },
+  {
+   "id": "5bcca6443cb6df93",
+   "source": "Hacker News",
+   "title": "Here Be Monsters: What Do You Still Need to Know When Agents Do the Work?",
+   "url": "https://blog.adrq.dev/here-be-monsters-what-do-you-still-need-to-know-when-agents-do-the-work",
+   "summary": "Article URL: https://blog.adrq.dev/here-be-monsters-what-do-you-still-need-to-know-when-agents-do-the-work Comments URL: https://news.ycombinator.com/item?id=50258868 Points: 13 # Comments: 2",
+   "published_at": 1793107402.0,
+   "published_bj": "2026-10-27 21:23"
+  },
+  {
+   "id": "049e84b3c995940d",
+   "source": "IT之家",
+   "title": "苹果 Apple 创作坊新增 AI 功能和更多创意工具，11 月免费更新上线",
+   "url": "https://www.ithome.com/1/018/666.htm",
+   "summary": "IT之家 10 月 27 日消息，苹果公司今日宣布为 Apple 创作坊带来重大更新，为创作者带来专业级工具。Mac 版 Final Cut Pro 现内置 MotionVFX，集成视觉特效、插件、转场、模板和运动图形工具等功能。同时 Pixelmator Pro、Keynote 讲演、Pages 文稿和 Numbers 表格推出多项全新 AI 功能 Beta。 Apple 创作坊将于今年 11 月以免费更新的形式通过 App Store 推出。 视频工作流 IT之家了解到，Mac 与 iPad 版 Final Cut Pro 为视频剪辑师、内容创作者和电影工作者提供了一系列新功能。Mac 版",
+   "published_at": 1793107180.0,
+   "published_bj": "2026-10-27 21:19"
   },
   {
    "id": "d5538be166447140",
@@ -94,6 +238,15 @@
    "published_bj": "2026-10-27 21:05"
   },
   {
+   "id": "a084d858b8dc36d1",
+   "source": "Hacker News",
+   "title": "Greg Abbott Took $9M from Data-Center Donors. Now He Regulates Them",
+   "url": "https://www.gadgetreview.com/greg-abbott-took-9m-from-data-center-donors-now-he-regulates-them",
+   "summary": "Article URL: https://www.gadgetreview.com/greg-abbott-took-9m-from-data-center-donors-now-he-regulates-them Comments URL: https://news.ycombinator.com/item?id=50258574 Points: 19 # Comments: 0",
+   "published_at": 1793106267.0,
+   "published_bj": "2026-10-27 21:04"
+  },
+  {
    "id": "ca11d2c07b6624be",
    "source": "IT之家",
    "title": "英特尔 28 核 Nova Lake-S 早期跑分曝光：单核性能超 285K 和 AMD R9 9950X3D",
@@ -109,6 +262,15 @@
    "url": "https://www.ithome.com/1/018/657.htm",
    "summary": "IT之家 10 月 27 日消息，苹果现已为旗下 14 英寸 MacBook Pro 推出 M6 版本（ 点此访问 ），该笔记本主要是更换新款芯片，设计上保持不变， 国行售价为 15999 元起 ，产品将于 10 月 29 日凌晨 1 点 10 分接受预购，11 月 6 日发售。 新款 14 英寸 MacBook Pro 继承了上一代外观，可选深空黑色和银色两种配色，配备 3024 x 1964 分辨率 120Hz 显示屏。该机搭载 M6 芯片，为 12 核中央处理器、12 核图形处理器、双 16 核神经网络引擎规格，官方称该机设备端 AI 性能相对于 13 英寸 M1 机型最高 提速至 13",
    "published_at": 1793106138.0,
+   "published_bj": "2026-10-27 21:02"
+  },
+  {
+   "id": "45b848f8b003a1c3",
+   "source": "Hacker News",
+   "title": "New iMac with M6",
+   "url": "https://www.apple.com/imac/",
+   "summary": "Article URL: https://www.apple.com/imac/ Comments URL: https://news.ycombinator.com/item?id=50258538 Points: 22 # Comments: 11",
+   "published_at": 1793106122.0,
    "published_bj": "2026-10-27 21:02"
   },
   {
