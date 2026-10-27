@@ -1,7 +1,7 @@
 {
  "date": "2026-10-27",
- "generated_at": 1793099844.0227227,
- "count": 295,
+ "generated_at": 1793102127.284164,
+ "count": 312,
  "items": [
   {
    "id": "4c2bf1ace1312ccc",
@@ -22,6 +22,87 @@
    "published_bj": "2026-10-27 21:00"
   },
   {
+   "id": "27d489c43f85675b",
+   "source": "IT之家",
+   "title": "NECPC 发布 2 款 LAVIE 平板电脑，分别基于天玑 6400、曦力 G85",
+   "url": "https://www.ithome.com/1/018/645.htm",
+   "summary": "IT之家 10 月 27 日消息，NECPC 今日在 推出 3 款笔记本电脑 的同时也带来了两款 Android 平板电脑产品，分别为基于联发科技天玑 6400 的 LAVIE Tab T12N、基于联发科技曦力 G85 的 LAVIE Tab T8。 LAVIE Tab T12N LAVIE Tab T12N 配备 12.1\" 2560×1600 90Hz LCD 屏幕 ，亮度 600nits、峰值亮度 800nit；具备 8GB 内存、256GB 存储，提供 microSD 卡槽；配备 13MP 后摄、8MP 前摄；支持 Wi-Fi 5；内置 10200mAh 电池；质量 530g。 这款",
+   "published_at": 1793101833.0,
+   "published_bj": "2026-10-27 19:50"
+  },
+  {
+   "id": "bbbbfb460e07747f",
+   "source": "IT之家",
+   "title": "波音 2026 年第三季度营收 241.88 亿美元同比增长 4%：净亏损收窄至 1.16 亿美元，交付 161 架飞机而积压订单超 6300 架",
+   "url": "https://www.ithome.com/1/018/644.htm",
+   "summary": "IT之家 10 月 27 日消息，波音今日发布 2026 财年（2026 年 1 月～2026 年 12 月）前三季度报（2026 年 1 月～2026 年 9 月）及第三财季（2026 年 7 月～2026 年 9 月）报告。 财报显示，波音第三季度营收同比增长 4% 至 241.88 亿美元，GAAP 运营利润转为正数，净亏损同比大幅收窄，经营现金流和自由现金流均实现同比增长。 2026 财年前三季度报 营业总收入 ：709.65 亿美元 （IT之家注：现汇率约合 4743.12 亿元人民币） ，同比增长 8% 毛利润 ：71.27 亿美元 （现汇率约合 476.35 亿元人民币） 毛利率",
+   "published_at": 1793101601.0,
+   "published_bj": "2026-10-27 19:46"
+  },
+  {
+   "id": "17c0e44649ff433b",
+   "source": "IT之家",
+   "title": "八位堂猎户座 3 代青春竞技版手柄发售：阻力可调 TMR 传感器摇杆，199 元",
+   "url": "https://www.ithome.com/1/018/642.htm",
+   "summary": "IT之家 10 月 27 日消息，八位堂 (8BitDo) 旗下猎户座 3 代青春竞技版手柄现已在京东发售。这款控制器也就是全球市场的 Ultimate 3C+ ，国行定价 199 元人民币。 京东 八位堂猎户座 3 代青春竞技版游戏手柄 199 元 直达链接 猎户座 3 代青春竞技版配备 40~80gf 阻力可调 TMR 传感器摇杆，集成限位硅胶软垫；扳机支持霍尔传感器线性扳机 / 微动非线性双模切换；拥有 R4 &amp; L4 小肩键、PR &amp; PL 附锁背键、轻触 D-Pad，集成握把 &amp; 扳机共振 4 马达。 其三维 155.7 × 104.5 × 62 (mm)，质",
+   "published_at": 1793101367.0,
+   "published_bj": "2026-10-27 19:42"
+  },
+  {
+   "id": "10f75484319179a1",
+   "source": "IT之家",
+   "title": "Anthropic 重申：我们永远不会在 Claude 对话中展示广告",
+   "url": "https://www.ithome.com/1/018/641.htm",
+   "summary": "IT之家 10 月 27 日消息，Anthropic 公司昨日向美国证券交易委员会提交 S-1 注册文件，计划首次公开发行 A 类普通股，并申请在纳斯达克以“ANT”为股票代码上市。 IT之家注意到，Anthropic 在 IPO 文件中重申： 公司永远不会在 Claude 的对话中展示广告 。 该公司还在文件中写道：“人们会向 Claude 托付最重要的工作，也会向它提问最私人的话题。 我们希望 ， Claude 的唯一目标是为用户提供有帮助的回答 。一旦广告成为企业收入目标的一部分，优化用户参与度的压力往往就会增加，我们选择不让这种压力进入 Claude。” 值得注意的是，Anthropi",
+   "published_at": 1793101074.0,
+   "published_bj": "2026-10-27 19:37"
+  },
+  {
+   "id": "59140c1e0e0f90e5",
+   "source": "IT之家",
+   "title": "消息称苹果 iPad mini（A20 Pro）的 OLED 面板实为 120Hz 刷新率锁 60Hz",
+   "url": "https://www.ithome.com/1/018/640.htm",
+   "summary": "IT之家 10 月 27 日消息，博主 @有没有搞措 发文，透露苹果昨晚发布的 iPad mini（A20 Pro）配备的 OLED 面板实为 120Hz 刷新率锁 60Hz。 对此，博主 @Kang 认为苹果此举可能是为了照顾平板续航能力。 IT之家参考官网设备详情获悉，苹果 iPad mini（A20 Pro）搭载 8.5 英寸 2316 x 1512 分辨率 OLED 面板，其中 256GB 和 512GB 机型可选配纳米纹理显示屏玻璃。该机将于 10 月 29 日凌晨 1 点 10 分接受预购，11 月 6 日发售， 定价 5499 元起 。",
+   "published_at": 1793100892.0,
+   "published_bj": "2026-10-27 19:34"
+  },
+  {
+   "id": "2c21551733f26bce",
+   "source": "IT之家",
+   "title": "小米 REDMI 首款耳夹式耳机 Clip Neo 开售：单耳 5.3g 重，国补价 359.1 元起",
+   "url": "https://www.ithome.com/1/018/639.htm",
+   "summary": "IT之家 10 月 27 日消息，小米 REDMI 品牌首款耳夹式耳机 Clip Neo 现已开售，补贴价 359.1 元起。 京东 小米（MI）REDMI Clip Neo 红米耳夹式蓝牙耳机 359.1 元 直达链接 京东 11.11 无门槛红包 面额至高 26888 元，每天抽 3 次： 点此抽红包 。 淘宝 11.11 无门槛红包 面额至高 26888 元，每天抽 1 次： 点此抽红包 。",
+   "published_at": 1793100875.0,
+   "published_bj": "2026-10-27 19:34"
+  },
+  {
+   "id": "e20daa76a0bacc58",
+   "source": "IT之家",
+   "title": "威刚 XPG 推出 CORE REACTOR III 电源，提供主体 + 线材双重 12V-2×6 保护",
+   "url": "https://www.ithome.com/1/018/638.htm",
+   "summary": "IT之家 10 月 27 日消息，威刚 (ADATA) 旗下电竞品牌 XPG 现已推出 CORE REACTOR III 电源。这一型号采用 ATX 外形规格，不过长度提升到 150mm。 CORE REACTOR III 配备主体 + 线材双重 12V-2×6 保护机制：主体上的 Power Guard 技术 一旦侦测到过载风险即会关闭 12V-2×6 供电 ；线材的 Power Guard LED 则能通过不同颜色的灯光 即时提示潜在风险 。 该系列电源提供 750W / 850W / 1000W 版本，配备全模组线材，符合 ATX12V 3.1 规范，可承受 235% 瞬时峰值负载， 获",
+   "published_at": 1793100825.0,
+   "published_bj": "2026-10-27 19:33"
+  },
+  {
+   "id": "cdcc6e420b7781ee",
+   "source": "Hacker News",
+   "title": "Software may be getting worse, but it used to be horrible",
+   "url": "https://www.bitlog.com/2026/10/27/software-may-be-getting-worse-but-it-used-to-be-horrible/",
+   "summary": "Article URL: https://www.bitlog.com/2026/10/27/software-may-be-getting-worse-but-it-used-to-be-horrible/ Comments URL: https://news.ycombinator.com/item?id=50257548 Points: 4 # Comments: 0",
+   "published_at": 1793100635.0,
+   "published_bj": "2026-10-27 19:30"
+  },
+  {
+   "id": "1e6f38522adcbc78",
+   "source": "IT之家",
+   "title": "小米 REDMI Book 2027 笔记本电脑发布：6799 元起，首销赠送 20000mAh 充电宝",
+   "url": "https://www.ithome.com/1/018/637.htm",
+   "summary": "IT之家 10 月 27 日消息，小米 REDMI Book 2027 正式发布，11 月 3 日 10:00 正式开售，首销赠送 20000mAh 充电宝。IT之家汇总价格如下： REDMI Book 14 酷睿 5 320、16GB+512GB 版本：6799 元，国补价 5779.15 元 酷睿 7 350、16GB+1TB 版本：7999 元，国补价 6799.15 元 REDMI Book 16 酷睿 5 320、16GB+512GB 版本：6999 元，国补价 5949.15 元 酷睿 7 350、16GB+1TB 版本：8199 元，国补价 6969.15 元 这款笔记本电脑 A",
+   "published_at": 1793100448.0,
+   "published_bj": "2026-10-27 19:27"
+  },
+  {
    "id": "5b124d3f8556c3ba",
    "source": "InfoQ中文",
    "title": "Grafana将Cypress测试结果转化为持久化的可观测性数据",
@@ -29,6 +110,42 @@
    "summary": "点击查看原文>",
    "published_at": 1793100420.0,
    "published_bj": "2026-10-27 19:27"
+  },
+  {
+   "id": "5d9a2af28833a002",
+   "source": "IT之家",
+   "title": "XREAL 1 Pro+ 智能眼镜国行发售：峰值亮度提升至 1200 尼特、鼻托结构重新设计，3499 元",
+   "url": "https://www.ithome.com/1/018/636.htm",
+   "summary": "IT之家 10 月 27 日消息，XREAL 旗下新款 AR 眼镜 XREAL 1 Pro+ 现已在京东发售，该产品相对于上一代主要提升面板亮度，同时调整人体工程学设计，国行定价 3499 元。 京东 XREAL 1 Pro+ 3499 元 直达链接 XREAL 1 Pro+ 采用重新设计的鼻托结构，旨在改善眼镜与面部的贴合度，提升长时间观看时的舒适性。其搭载双 0.55 英寸索尼 Micro-OLED 面板，峰值亮度最高可达 1200 尼特，较前代产品的 700 尼特明显提升。 除了更高的峰值亮度，新品还加入 AI HDR 功能，借助 AI 技术改善画面对比度，让用户通过眼镜观看内容时获得更",
+   "published_at": 1793100354.0,
+   "published_bj": "2026-10-27 19:25"
+  },
+  {
+   "id": "f4308287fee5f1e1",
+   "source": "IT之家",
+   "title": "小米 REDMI K100 手机发布：骁龙 8 至尊版旗舰芯，限时特惠价 2999 元起",
+   "url": "https://www.ithome.com/1/018/635.htm",
+   "summary": "IT之家 10 月 27 日消息，小米 REDMI K100 手机今日发布，限时特惠到手价 2999 元起。即刻开始预售，10 月 31 号 10 点正式开售。 IT之家附价格如下： 12GB+256GB 版建议零售价 3499 元，双 11 限时特惠 2999 元，国补价 2549.15 元 12GB+512GB 版建议零售价 4099 元，双 11 限时特惠 3499 元，国补价 2999 元 16GB+512GB 版建议零售价 4499 元，双 11 限时特惠 3899 元，国补价 3399 元 据介绍，K100 搭载 6.83 英寸直屏，极窄边框；1.3mm 金属反包中框，手感圆润舒适",
+   "published_at": 1793100167.0,
+   "published_bj": "2026-10-27 19:22"
+  },
+  {
+   "id": "c78c29ae80dc57b7",
+   "source": "IT之家",
+   "title": "微信 Windows / macOS PC 版 4.2.0 发布，修复一些已知问题",
+   "url": "https://www.ithome.com/1/018/634.htm",
+   "summary": "IT之家 10 月 27 日消息，微信今晚发布了 Windows 与 Mac 双平台的 4.2.0 正式版更新，官方更新依然为“修复一些已知问题”。当然，目前包括鸿蒙版在内的所有平台清一色都是“修复一些已知问题”。 根据此前曝光的内测信息，4.2.0 版本在基础聊天场景中做出了几项实质改动（不排除正式版撤回的可能）： 翻译功能从“整条消息右键翻译”升级为支持在文字消息中选中任意片段进行精准翻译，最小翻译单位由一条气泡缩小到用户实际选中的字句。 表情面板新增了剪刀石头布和骰子，补齐了手机端早已具备的互动玩法。 通话相关交互也配套调整：来电界面增加了轻量化悬浮提示，用户在使用其他应用时不再被全屏弹",
+   "published_at": 1793100049.0,
+   "published_bj": "2026-10-27 19:20"
+  },
+  {
+   "id": "1978ec4802a56ac8",
+   "source": "Hacker News",
+   "title": "Wikipedia's Cleanup of AI-Generated Content",
+   "url": "https://spectrum.ieee.org/wikipedia-wikiproject-ai-writing-cleanup",
+   "summary": "Article URL: https://spectrum.ieee.org/wikipedia-wikiproject-ai-writing-cleanup Comments URL: https://news.ycombinator.com/item?id=50257326 Points: 5 # Comments: 1",
+   "published_at": 1793099295.0,
+   "published_bj": "2026-10-27 19:08"
   },
   {
    "id": "ae1e4c78147dff49",
@@ -40,6 +157,24 @@
    "published_bj": "2026-10-27 19:08"
   },
   {
+   "id": "4c76b8accc806308",
+   "source": "IT之家",
+   "title": "康宁 2026 财年前三季度报归母净利润 16.1 亿美元，同比增长 53%",
+   "url": "https://www.ithome.com/1/018/609.htm",
+   "summary": "IT之家 10 月 27 日消息，康宁今日发布 2026 财年（2026 年 1 月～2026 年 12 月）前三季度报（2026 年 1 月～2026 年 9 月）及第三财季（2026 年 7 月～2026 年 9 月）报告： 2026 财年前三季度报 营业总收入 ：135.04 亿美元 （IT之家注：现汇率约合 902.57 亿元人民币） ，同比增长约 18.3% 毛利润 ：49.66 亿美元 （现汇率约合 331.92 亿元人民币） 毛利率 ：36.8%，同比增长约 0.62 个百分点 归母净利润 ：16.1 亿美元 （现汇率约合 107.61 亿元人民币） ，同比增长 53% 经营现金",
+   "published_at": 1793099267.0,
+   "published_bj": "2026-10-27 19:07"
+  },
+  {
+   "id": "da72fa8e7db3f3d6",
+   "source": "IT之家",
+   "title": "PayPal 2026 财年前三季度营收 256.19 亿美元，净利润同比下降 13.3%",
+   "url": "https://www.ithome.com/1/018/608.htm",
+   "summary": "IT之家 10 月 27 日消息，PayPal 今日发布 2026 财年（2026 年 1 月～2026 年 9 月）前三季度报（2026 年 1 月～2026 年 9 月）及第三财季（2026 年 7 月～2026 年 9 月）报告： 2026 财年前三季度报 营业总收入 ：256.19 亿美元 （IT之家注：现汇率约合 1,712.31 亿元人民币） ，同比增长 4.6% 归母净利润 ：32.9 亿美元 （现汇率约合 219.9 亿元人民币） ，同比下降约 13.3% 经营现金流 ：47.09 亿美元 （现汇率约合 314.74 亿元人民币） 基本每股收益 ：3.74 美元 （现汇率约合 ",
+   "published_at": 1793099251.0,
+   "published_bj": "2026-10-27 19:07"
+  },
+  {
    "id": "25664e177a2a8da4",
    "source": "TechCrunch",
    "title": "Nvidia backs Indian startup helping companies run AI models with fewer GPUs",
@@ -47,6 +182,15 @@
    "summary": "Simplismart says its annualized revenue run rate has grown 14-fold in six months, with the U.S. accounting for more than half its revenue.",
    "published_at": 1793098800.0,
    "published_bj": "2026-10-27 19:00"
+  },
+  {
+   "id": "568ccd4cc4fc440e",
+   "source": "Solidot",
+   "title": "宇航员的心脏能承受飞往火星的数个月之旅",
+   "url": "https://www.solidot.org/story?sid=85724",
+   "summary": "火星之旅对人类心脏的挑战可能没有科学家曾经担忧的那么大。一项研究表明，宇航员能够很好地适应数月的失重状态。在研究中，科学家监测了 13 名在国际空间站停留了约 6 个月的宇航员的心脏状况。结果显示，尽管太空飞行最初会影响心脏功能，但宇航员会逐渐适应这种环境，而每日高强度锻炼在维持心血管健康方面发挥了重要作用。在地球上，心脏需持续对抗重力来泵血，而肌肉需要支撑体重；在太空中，这些负荷大幅降低，久而久之，肌肉乃至心脏都会出现萎缩。但重返重力环境后，血液会被拽向下半身，宇航员着陆后常出现头晕、眼前发黑，甚至血压骤降的症状，这被称为直立性低血压。作为NASA“运动对抗措施”项目的一部分，宇航员每天最多",
+   "published_at": 1793098641.0,
+   "published_bj": "2026-10-27 18:57"
   },
   {
    "id": "3c2d66399fa584e1",
@@ -101,6 +245,15 @@
    "summary": "IT之家 10 月 27 日消息，景嘉微今日发布 2026 年前三季度（2026 年 1 月～2026 年 9 月）报告： 营业总收入 ：5.53 亿元，同比增长 11.71% 归母净利润 ：-1.85 亿元，同比下降 154.49% 扣非净利润 ：-1.99 亿元，同比下降 130.91% 经营现金流 ：-5.42 亿元，同比下降 273.04% 加权平均净资产收益率 ：-2.72% 基本每股收益 ：-0.35 元，同比下降 150% 稀释每股收益 ：-0.35 元，同比下降 150% AI 解读 本次景嘉微 2026 年前三季度业绩，全年营收进度不及机构对 2026 全年营收的一致预期进度",
    "published_at": 1793096684.0,
    "published_bj": "2026-10-27 18:24"
+  },
+  {
+   "id": "eeb05205969814e6",
+   "source": "Hacker News",
+   "title": "Gforth 1.0",
+   "url": "https://gforth.org/manual/1.0/NEWS.html",
+   "summary": "Article URL: https://gforth.org/manual/1.0/NEWS.html Comments URL: https://news.ycombinator.com/item?id=50256952 Points: 19 # Comments: 1",
+   "published_at": 1793096601.0,
+   "published_bj": "2026-10-27 18:23"
   },
   {
    "id": "8ad0524898d22f06",
