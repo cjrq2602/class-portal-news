@@ -1,8 +1,62 @@
 {
  "date": "2026-10-27",
- "generated_at": 1793114753.0869524,
- "count": 380,
+ "generated_at": 1793118372.705692,
+ "count": 392,
  "items": [
+  {
+   "id": "be54469912ae3e71",
+   "source": "Hacker News",
+   "title": "Data Recovery CEO Indicted for Allegedly Scamming Ransomware Victims",
+   "url": "https://www.propublica.org/article/zohar-pinhasi-monstercloud-ransomware-indictment",
+   "summary": "Article URL: https://www.propublica.org/article/zohar-pinhasi-monstercloud-ransomware-indictment Comments URL: https://news.ycombinator.com/item?id=50260960 Points: 20 # Comments: 5",
+   "published_at": 1793115569.0,
+   "published_bj": "2026-10-27 23:39"
+  },
+  {
+   "id": "5a3bce51c2c04e51",
+   "source": "IT之家",
+   "title": "京东 1 号会员店 10 月 28 日起调整会员权益：尊享卡返 2% 赠金，每月权益需消费解锁",
+   "url": "https://www.ithome.com/1/018/698.htm",
+   "summary": "IT之家 10 月 27 日消息，京东旗下 1 号会员店宣布将于 10 月 28 日起调整会员权益体系。 根据 官方公告 ，此次调整的核心变化是购物返利从“满 200 元返券”改为按订单金额比例返还“赠金”，尊享卡会员返 2%、普通卡会员返 1%，每月赠金上限分别为 500 元和 200 元。1 元赠金可抵扣 1 元人民币，特殊商品不参与返金也不支持赠金抵扣。 新老用户按续费渠道和时效分流。10 月 28 日前已开通、且未在 1 号会员店 App 内续费的老用户，会籍期内继续享受原满 200 返券权益；会籍过期 30 天内在 App 内续费的，可在旧权益与新返金权益之间二选一；过期超过 30 ",
+   "published_at": 1793115543.0,
+   "published_bj": "2026-10-27 23:39"
+  },
+  {
+   "id": "761b7c7c5965d8b3",
+   "source": "IT之家",
+   "title": "ATK RS8 Air / Neo 电竞键盘发布：87 配列，到手价 299 元起",
+   "url": "https://www.ithome.com/1/018/697.htm",
+   "summary": "IT之家 10 月 27 日消息，ATK RS8 Air、RS8 Neo 系列 87 配列高性能电竞键盘今日发布，已开启定金预定，RS8 Air 到手价 349 元起，RS8 Neo 到手价 299 元起，11 月 3 日 21 点尾款支付。 IT之家从官方介绍获悉，该系列产品以 87 大配列 带来完整 F 区与全功能按键，兼顾办公码字的便捷需求与电竞对局的操作自由度，拓展更多使用场景。外观搭载正面顶雾 PC 键帽，搭配侧边机甲翼镜结构。两款机型均采用五层满配填充 +GASKET 结构。 RS8Air 搭载第三代烈风 Ultra 磁轴方案，全链路延迟低至 0.28ms，支持 0.001mmRT",
+   "published_at": 1793115222.0,
+   "published_bj": "2026-10-27 23:33"
+  },
+  {
+   "id": "46e37d0919458dce",
+   "source": "Hacker News",
+   "title": "Anthropic trained Claude on illegally obtained Stanford professors' books",
+   "url": "https://stanforddaily.com/2026/10/27/professors-books-pirated-to-train-claude/",
+   "summary": "Article URL: https://stanforddaily.com/2026/10/27/professors-books-pirated-to-train-claude/ Comments URL: https://news.ycombinator.com/item?id=50260814 Points: 35 # Comments: 14",
+   "published_at": 1793114906.0,
+   "published_bj": "2026-10-27 23:28"
+  },
+  {
+   "id": "38dc08c71013d420",
+   "source": "IT之家",
+   "title": "Meta AI 负责人罗希特 · 帕特尔离职创业，打造微软 Office 替代方案 Ndoc",
+   "url": "https://www.ithome.com/1/018/696.htm",
+   "summary": "IT之家 10 月 27 日消息，据科技媒体 TechCrunch 今天报道，Meta 人工智能负责人罗希特 · 帕特尔（Rohit Patel）已经离开公司，他曾在 Meta 从事 AI 研发工作八年，并担任 Meta 超级智能实验室负责人。 据报道，帕特尔已创立 Ndoc 公司，他将开发一款原生 AI 办公软件， 旨在取代微软 Office 和谷歌 Workspace 。 这名前 Meta 研究员希望，Ndoc 不能只是叠加在现有工作流的 AI 工具，而是要改变人们使用各种工具的碎片化现状。例如大家经常要来回切换 Excel、Word、PowerPoint 和 Tableau 等软件，还要",
+   "published_at": 1793114873.0,
+   "published_bj": "2026-10-27 23:27"
+  },
+  {
+   "id": "acf18967e7f15f82",
+   "source": "IT之家",
+   "title": "1099 元雷蛇隐蛛迷你版 65% 磁轴键盘发布，三色键帽混搭设计",
+   "url": "https://www.ithome.com/1/018/695.htm",
+   "summary": "IT之家 10 月 27 日消息，雷蛇今日宣布推出 Razer Reclusa Mini 65% 雷蛇隐蛛迷你版 65% 电竞磁轴键盘，售价 1099 元。 京东 雷蛇（Razer）隐蛛迷你版 65%【雷蛇磁轴】 有线无线蓝牙三模 RT0.1 热插拔客制化 68 键小键盘 打瓦 CS 1099 元 直达链接 该键盘采用 68 键 65% 紧凑布局，在保留常用按键的同时大幅节省桌面空间，兼顾桌面整洁度与移动使用需求。 核心配置上，该键盘搭载雷蛇霍尔效应磁轴，触发点位精准稳定可控，触发行程支持 0.1-4.0mm 自由自定义，按键敲击寿命约 1 亿次；同时支持快速触发模式，按键抬起仅 0.1mm ",
+   "published_at": 1793114747.0,
+   "published_bj": "2026-10-27 23:25"
+  },
   {
    "id": "4c2bf1ace1312ccc",
    "source": "InfoQ中文",
@@ -11,6 +65,24 @@
    "summary": "点击查看原文>",
    "published_at": 1793114520.0,
    "published_bj": "2026-10-27 23:22"
+  },
+  {
+   "id": "d61fea51ef010428",
+   "source": "Solidot",
+   "title": "维基百科如何清理 AI 生成文本",
+   "url": "https://www.solidot.org/story?sid=85727",
+   "summary": "2023 年维基百科志愿者发起了 WikiProject AI Cleanup 项目，旨在清理 AI 生成文本。当时的 AI 文本还很容易识别。项目创始成员 Ellia Lebleu 指出，当时的 AI 文本频繁使用奇怪短语如 stands as a testament、rich cultural heritage...甚至还喜欢插入总结性段落如 Why is this important? 但到了 2025 年 AI 生成文本特征变得更隐蔽了。AI 文本也更具结构性，偏好三法则（rule of three）、否定式平行等等。以前 AI 会产生虚假或误导性的文本引用，随着检索增强生成（Retr",
+   "published_at": 1793114166.0,
+   "published_bj": "2026-10-27 23:16"
+  },
+  {
+   "id": "43326c8972a26bc6",
+   "source": "Hacker News",
+   "title": "My video has unit tests",
+   "url": "https://pertiller.tech/blog/my-video-written-in-code/",
+   "summary": "Article URL: https://pertiller.tech/blog/my-video-written-in-code/ Comments URL: https://news.ycombinator.com/item?id=50260619 Points: 14 # Comments: 2",
+   "published_at": 1793114132.0,
+   "published_bj": "2026-10-27 23:15"
   },
   {
    "id": "3ed22f05798b7c55",
@@ -22,6 +94,15 @@
    "published_bj": "2026-10-27 23:13"
   },
   {
+   "id": "858851e4c3eda016",
+   "source": "Hacker News",
+   "title": "Show HN: Specification First Agentic Development Plugin and Prove",
+   "url": "https://spec-first.dev/",
+   "summary": "Implemented agent smith since start 2026 with over 1000 specifications which lead to about 500k lines of code. The procedure with that spec-first works well. How do you do it? Comments URL: https://news.ycombinator.com/item?id=50260571 Points: 5 # Comments: 0",
+   "published_at": 1793113940.0,
+   "published_bj": "2026-10-27 23:12"
+  },
+  {
    "id": "0c72646966957b47",
    "source": "IT之家",
    "title": "《三角洲行动》协助警方破获游戏史最大 DMA 外挂案，涉案金额超 2000 万",
@@ -29,6 +110,15 @@
    "summary": "IT之家 10 月 27 日消息，《三角洲行动》官方今日宣布，在《三角洲行动》安全团队协助下，广东警方成功侦破“Foah”特大 DMA 外挂案，累计抓获犯罪嫌疑人 16 名， 涉案金额超过 2000 万元 。核心外挂作者、销售总代理均被抓获，多个分代理发卡平台、外挂陪玩工作室已被捣毁。目前，案件正在审查起诉。 IT之家从官方公告获悉，2025 年下半年，一款名为“Foah”外挂线索出现在《三角洲行动》安全团队的视野内，团队迅速行动部署线上打击、处罚作弊账号，并收集资料和信息，积极配合警方推进侦办，追溯源头线索。 同年 10 月，多个销售外挂、使用外挂牟利的嫌犯被捕。一个数千人的 DMA 外挂频",
    "published_at": 1793113826.0,
    "published_bj": "2026-10-27 23:10"
+  },
+  {
+   "id": "fa35d72df11c3b98",
+   "source": "Hacker News",
+   "title": "A $300B 'Debt Wall' Is Looming over Private-Equity Backed Companies",
+   "url": "https://www.wsj.com/finance/investing/a-300-billion-debt-wall-is-looming-over-private-equity-backed-companies-d6359497",
+   "summary": "Article URL: https://www.wsj.com/finance/investing/a-300-billion-debt-wall-is-looming-over-private-equity-backed-companies-d6359497 Comments URL: https://news.ycombinator.com/item?id=50260526 Points: 20 # Comments: 1",
+   "published_at": 1793113767.0,
+   "published_bj": "2026-10-27 23:09"
   },
   {
    "id": "a873d14f74fc421f",
@@ -47,6 +137,15 @@
    "summary": "Rohit Patel is departing Meta after eight years working on AI evaluations and reinforcement learning, TechCrunch has exclusively learned. His startup, Ndoc, aims to take on Microsoft Office Suite.",
    "published_at": 1793113149.0,
    "published_bj": "2026-10-27 22:59"
+  },
+  {
+   "id": "43787de38b6c6ba1",
+   "source": "Solidot",
+   "title": "数据中心搅动世界",
+   "url": "https://www.solidot.org/story?sid=85726",
+   "summary": "很多人几年前可能还不知道什么是数据中心，它是现代互联网服务的引擎，也是今天 AI 热的核心。但数据中心数量的快速增长、巨大的电力消耗，以及环境影响，正在全球引发公众的抵制。根据 Data Center Map 的数据，目前全世界有约 12,250 个数据中心，而 2021 年这个数字是大约 8000 个，其中美国最多有 4,767 个，弗吉尼亚州密度最高。美国的数据中心装机容量为 53.73 GW，中国 31.90 GW，欧盟 11.92 GW，日韩 6.58 GW，印度为 3.55 GW，英国 2.59 GW。目前全球投入运营的最大数据中心是中国电信在内蒙古呼和浩特的一处设施，占地约 100",
+   "published_at": 1793113138.0,
+   "published_bj": "2026-10-27 22:58"
   },
   {
    "id": "e5d380b8dc6c46b2",
@@ -92,6 +191,15 @@
    "summary": "The U.S. government cyber agency warns that hackers have figured out a way to exploit the popular PHP software, used in 70% of the web's software.",
    "published_at": 1793112039.0,
    "published_bj": "2026-10-27 22:40"
+  },
+  {
+   "id": "961a0840b318c8cc",
+   "source": "Solidot",
+   "title": "2025 年太阳能发电量超越核能",
+   "url": "https://www.solidot.org/story?sid=85725",
+   "summary": "太阳能的发展速度超出了预期。十年前太阳能的发电量仅占全球总发电量的 1%，2026 年它的份额预计将达到 10%。根据能源智库 Ember 的数据，2025 年全球太阳能发电量略微超过了核能发电量。截至 2026 年 9 月的年度太阳能发电量则已超过核能 13%。牛津大学能源与气候政策教授 Jan Rosenow 称太阳能如今已成为能源转型的引擎。太阳能已成为历史上增长速度最快的新电力来源，2025 年全球电力需求增长量的四分之三由太阳能满足。自 2000 年以来核能发电量基本保持不变，而太阳能发电量则增长了约 2700 倍。太阳能技术已发展成熟约 15 年，在 2020 年成为历史上最便宜的",
+   "published_at": 1793111879.0,
+   "published_bj": "2026-10-27 22:37"
   },
   {
    "id": "b7abb471f952c023",

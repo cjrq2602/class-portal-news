@@ -1,7 +1,7 @@
 {
  "date": "2026-10-28",
- "generated_at": 1793114753.0842037,
- "count": 2,
+ "generated_at": 1793118372.7025878,
+ "count": 4,
  "items": [
   {
    "id": "74965c5f58871c21",
@@ -20,6 +20,24 @@
    "summary": "点击查看原文>",
    "published_at": 1793121420.0,
    "published_bj": "2026-10-28 01:17"
+  },
+  {
+   "id": "4010577f0ae22124",
+   "source": "Hacker News",
+   "title": "Apple introduces the new 14‑inch MacBook Pro with M6",
+   "url": "https://www.apple.com/in/newsroom/2026/10/apple-introduces-the-new-14-inch-macbook-pro-with-m6/",
+   "summary": "Article URL: https://www.apple.com/in/newsroom/2026/10/apple-introduces-the-new-14-inch-macbook-pro-with-m6/ Comments URL: https://news.ycombinator.com/item?id=50261352 Points: 14 # Comments: 2",
+   "published_at": 1793117312.0,
+   "published_bj": "2026-10-28 00:08"
+  },
+  {
+   "id": "ae2d2f2e79546e0a",
+   "source": "Hacker News",
+   "title": "Genie 4",
+   "url": "https://deepmind.google/blog/genie-4-a-new-generation-of-world-simulation/",
+   "summary": "Article URL: https://deepmind.google/blog/genie-4-a-new-generation-of-world-simulation/ Comments URL: https://news.ycombinator.com/item?id=50261319 Points: 31 # Comments: 9",
+   "published_at": 1793117161.0,
+   "published_bj": "2026-10-28 00:06"
   }
  ]
 }
