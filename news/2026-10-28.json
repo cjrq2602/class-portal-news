@@ -1,7 +1,7 @@
 {
  "date": "2026-10-28",
- "generated_at": 1793119374.5689702,
- "count": 6,
+ "generated_at": 1793121883.858714,
+ "count": 22,
  "items": [
   {
    "id": "74965c5f58871c21",
@@ -22,6 +22,33 @@
    "published_bj": "2026-10-28 01:17"
   },
   {
+   "id": "5393839af898324e",
+   "source": "TechCrunch",
+   "title": "Frontier AI labs say their models refuted the Exponential Time Hypothesis. What does that mean?",
+   "url": "https://techcrunch.com/2026/10/27/frontier-ai-labs-say-their-models-refuted-the-exponential-time-hypothesis-what-does-that-mean/",
+   "summary": "TechCrunch spoke to the MIT computer scientist charged with explaining OpenAI's latest mind-bending discovery",
+   "published_at": 1793120888.0,
+   "published_bj": "2026-10-28 01:08"
+  },
+  {
+   "id": "c21cc401911ca1d0",
+   "source": "Hacker News",
+   "title": "Police Are Using AI to Pull over Drivers for 'Suspicious' Behavior",
+   "url": "https://gizmodo.com/police-are-using-ai-to-pull-over-drivers-for-suspicious-behavior-2000831220",
+   "summary": "Article URL: https://gizmodo.com/police-are-using-ai-to-pull-over-drivers-for-suspicious-behavior-2000831220 Comments URL: https://news.ycombinator.com/item?id=50261819 Points: 20 # Comments: 2",
+   "published_at": 1793119215.0,
+   "published_bj": "2026-10-28 00:40"
+  },
+  {
+   "id": "3d5a37ac988b39f1",
+   "source": "Hacker News",
+   "title": "A 28-Year-Old DOGE Operative Gutted USAID. HR Had No Record of Him Working There",
+   "url": "https://www.wired.com/story/a-28-year-old-doge-operative-gutted-usaid-hr-had-no-record-of-him-working-there/",
+   "summary": "Article URL: https://www.wired.com/story/a-28-year-old-doge-operative-gutted-usaid-hr-had-no-record-of-him-working-there/ Comments URL: https://news.ycombinator.com/item?id=50261784 Points: 45 # Comments: 4",
+   "published_at": 1793119088.0,
+   "published_bj": "2026-10-28 00:38"
+  },
+  {
    "id": "603737e7e9e53e9a",
    "source": "TechCrunch",
    "title": "Google’s Genie 4 world model adds audio, more realistic worlds, and real-time steering",
@@ -31,6 +58,15 @@
    "published_bj": "2026-10-28 00:30"
   },
   {
+   "id": "d5014b4d999795a8",
+   "source": "cnBeta",
+   "title": "Rockstar确认《GTA6》部分剧情任务可选择多条路线",
+   "url": "https://www.cnbeta.com.tw/articles/game/1584080.htm",
+   "summary": "围绕《GTA6》的最大疑问之一，是R星会在剧情任务中给予玩家多大的自由，尤其是开发商承诺，本作将拥有其迄今为止规模最大、细节最丰富的开放世界。《GTA》系列一向允许玩家在主线任务之外自由行动，但在推进剧情时却未必如此。R星的任务通常具有浓厚的电影化风格，并会设置玩家必须遵循的特定目标和流程，即便开放世界看起来提供了无穷无尽的可能性。 阅读全文",
+   "published_at": 1793118597.0,
+   "published_bj": "2026-10-28 00:29"
+  },
+  {
    "id": "0f82b8e44576637b",
    "source": "Hacker News",
    "title": "Classification of Finite Simple Groups Formalized in Lean",
@@ -38,6 +74,105 @@
    "summary": "Article URL: https://cfsg.axiommath.ai/ Comments URL: https://news.ycombinator.com/item?id=50261647 Points: 6 # Comments: 3",
    "published_at": 1793118542.0,
    "published_bj": "2026-10-28 00:29"
+  },
+  {
+   "id": "6eff809a726fb627",
+   "source": "cnBeta",
+   "title": "波音下调全年交付目标 股价创18个月最大跌幅",
+   "url": "https://www.cnbeta.com.tw/articles/tech/1584078.htm",
+   "summary": "波音公司下调全年飞机交付目标，该公司表示，将生产速度提升至更高且可持续的水平需要更多时间，该股股价应声而跌，创18个月最大跌幅。高管周二在分析师电话会议上表示，波音将无法实现全年生产500架737飞机的目标，787梦想客机交付量将接近90架，处于此前指引区间的低端。波音股价下跌10%，创2025年4月以来最大跌幅。 阅读全文",
+   "published_at": 1793118527.0,
+   "published_bj": "2026-10-28 00:28"
+  },
+  {
+   "id": "e2b42ce6fb0b24b1",
+   "source": "Hacker News",
+   "title": "Vicious Cycles: Theses on a philosophy of news",
+   "url": "https://harpers.org/archive/2020/01/vicious-cycles-theses-on-a-philosophy-of-news/",
+   "summary": "Article URL: https://harpers.org/archive/2020/01/vicious-cycles-theses-on-a-philosophy-of-news/ Comments URL: https://news.ycombinator.com/item?id=50261623 Points: 4 # Comments: 0",
+   "published_at": 1793118449.0,
+   "published_bj": "2026-10-28 00:27"
+  },
+  {
+   "id": "92c6954290950c9d",
+   "source": "Hacker News",
+   "title": "We let our cloud agents query prod (with OIDC, not secrets)",
+   "url": "https://www.formal.ai/blog/cloud-agents-oidc-infrastructure/",
+   "summary": "Article URL: https://www.formal.ai/blog/cloud-agents-oidc-infrastructure/ Comments URL: https://news.ycombinator.com/item?id=50261584 Points: 9 # Comments: 1",
+   "published_at": 1793118312.0,
+   "published_bj": "2026-10-28 00:25"
+  },
+  {
+   "id": "bd9e246698f56e73",
+   "source": "Hacker News",
+   "title": "PHP2Shell, LiteLLM, GitLab: Find What You Need to Patch",
+   "url": "https://cloudsleuth.io/blog/php2shell-litellm-gitlab-find-what-you-run/",
+   "summary": "Article URL: https://cloudsleuth.io/blog/php2shell-litellm-gitlab-find-what-you-run/ Comments URL: https://news.ycombinator.com/item?id=50261583 Points: 10 # Comments: 0",
+   "published_at": 1793118312.0,
+   "published_bj": "2026-10-28 00:25"
+  },
+  {
+   "id": "43baeedf41a6b2a1",
+   "source": "Hacker News",
+   "title": "Antique Fonts Collection – Restored 19th Century Typefaces",
+   "url": "https://centurylibrary.com/collection/antique-fonts/",
+   "summary": "Article URL: https://centurylibrary.com/collection/antique-fonts/ Comments URL: https://news.ycombinator.com/item?id=50261579 Points: 5 # Comments: 0",
+   "published_at": 1793118299.0,
+   "published_bj": "2026-10-28 00:24"
+  },
+  {
+   "id": "20b7274130edcb38",
+   "source": "cnBeta",
+   "title": "Firefox测试AI“智能窗口”功能 可自动填写网页表单",
+   "url": "https://www.cnbeta.com.tw/articles/tech/1584076.htm",
+   "summary": "Mozilla正在为Firefox浏览器测试一项名为“Smart Window（智能窗口）”的全新人工智能功能，该功能能够理解网页内容并帮助用户自动填写在线表单，从而减少重复输入信息的操作步骤。 阅读全文",
+   "published_at": 1793118261.0,
+   "published_bj": "2026-10-28 00:24"
+  },
+  {
+   "id": "00285b4ab7d3c07a",
+   "source": "Hacker News",
+   "title": "Reducibility Among Combinatorial Problems (1972) [pdf]",
+   "url": "https://cgi.di.uoa.gr/~sgk/teaching/grad/handouts/karp.pdf",
+   "summary": "Article URL: https://cgi.di.uoa.gr/~sgk/teaching/grad/handouts/karp.pdf Comments URL: https://news.ycombinator.com/item?id=50261544 Points: 4 # Comments: 0",
+   "published_at": 1793118115.0,
+   "published_bj": "2026-10-28 00:21"
+  },
+  {
+   "id": "dce710a4f7ff71ab",
+   "source": "cnBeta",
+   "title": "NBA与Kalshi、Polymarket达成多年合作协议",
+   "url": "https://www.cnbeta.com.tw/articles/tech/1584074.htm",
+   "summary": "美国职业篮球联赛（NBA）于10月26日宣布，与预测市场平台Kalshi和Polymarket达成多年合作协议，并与美国商品期货交易委员会（CFTC）签署谅解备忘录，计划建立针对NBA赛事预测市场的监管与诚信保护框架。通过这项安排，NBA希望在预测市场迅速扩张的背景下，加强对异常交易、内幕信息使用以及赛事操纵风险的监控，同时将这类市场纳入更明确的商业合作体系。 阅读全文",
+   "published_at": 1793118076.0,
+   "published_bj": "2026-10-28 00:21"
+  },
+  {
+   "id": "2530c848f9d89789",
+   "source": "cnBeta",
+   "title": "IBM进驻Rapidus所在地千岁市 助力日本冲刺2027年2纳米芯片量产目标",
+   "url": "https://www.cnbeta.com.tw/articles/tech/1584072.htm",
+   "summary": "随着日本全力推进本土先进半导体产业建设，IBM宣布进一步加强与Rapidus的合作，并在北海道千岁市设立据点。千岁市正是Rapidus首座2纳米晶圆厂所在地，日本政府希望借助这一项目在2027年实现先进2纳米芯片的大规模量产。 阅读全文",
+   "published_at": 1793118030.0,
+   "published_bj": "2026-10-28 00:20"
+  },
+  {
+   "id": "14ac63e127d5e52f",
+   "source": "cnBeta",
+   "title": "Google发布Genie 4世界模型 可生成更逼真的互动世界",
+   "url": "https://www.cnbeta.com.tw/articles/tech/1584070.htm",
+   "summary": "Google于10月27日发布新一代人工智能世界模型 Genie 4，进一步提升了AI生成互动环境的真实感，并加入实时修改场景和自动生成音频等能力。与传统的图像生成模型主要输出静态图片或视频不同，Genie 4能够创建用户可以参与其中、进行交互的虚拟世界，相关技术有望应用于游戏开发、影视制作以及机器人训练等领域。 阅读全文",
+   "published_at": 1793117993.0,
+   "published_bj": "2026-10-28 00:19"
+  },
+  {
+   "id": "bdd4c759e633da21",
+   "source": "cnBeta",
+   "title": "Targus推出DOCK402TT旅行扩展坞 内置140W氮化镓充电器",
+   "url": "https://www.cnbeta.com.tw/articles/tech/1584068.htm",
+   "summary": "Targus发布DOCK402TT USB-C移动扩展坞，将扩展坞与氮化镓（GaN）充电器整合在同一设备中，面向出差、混合办公和临时会议场景。接入墙上电源后，用户可通过一条USB-C线连接笔记本，同时使用外接显示器、有线网络和外围设备，无需另带独立充电器与扩展坞。 阅读全文",
+   "published_at": 1793117896.0,
+   "published_bj": "2026-10-28 00:18"
   },
   {
    "id": "4010577f0ae22124",
@@ -56,6 +191,15 @@
    "summary": "Article URL: https://deepmind.google/blog/genie-4-a-new-generation-of-world-simulation/ Comments URL: https://news.ycombinator.com/item?id=50261319 Points: 31 # Comments: 9",
    "published_at": 1793117161.0,
    "published_bj": "2026-10-28 00:06"
+  },
+  {
+   "id": "484e43c3356f3388",
+   "source": "cnBeta",
+   "title": "太阳能发电悄然超越核电：成本暴跌、中国制造与储能革命重塑全球能源格局",
+   "url": "https://www.cnbeta.com.tw/articles/tech/1584066.htm",
+   "summary": "全球能源格局正在发生一场出乎许多分析人士预料的变化。太阳能发电在过去十年间迅速扩张，并于2025年首次在全球年度发电量上略微超过核电。进入2026年，这一差距进一步扩大。根据能源智库Ember的数据分析发现，截至2026年9月的过去12个月，全球太阳能发电量已经比核电高出约13%。曾经被视为传统能源补充的太阳能，如今正成为全球电力供应中增长最快的力量之一。 阅读全文",
+   "published_at": 1793117030.0,
+   "published_bj": "2026-10-28 00:03"
   }
  ]
 }
