@@ -1,0 +1,362 @@
+{
+ "type": "today",
+ "date": "2026-10-27",
+ "window": {
+  "start_ts": 1793030400.0,
+  "end_ts": 1793062800.0
+ },
+ "generated_at": 1793065026.6511588,
+ "generator": "action",
+ "news_count": 45,
+ "keywords": [
+  "选举",
+  "懂了",
+  "读懂",
+  "国总",
+  "朗普",
+  "特朗",
+  "中央",
+  "中期",
+  "合国",
+  "国家"
+ ],
+ "points": [
+  {
+   "text": "【选举】中新网10月27日电 综合外媒报道，中期选举即将来临之际，美国总统特朗普当地时间26日表示，凡是提供选举舞弊线索，并最终促成相关人员被捕并定罪的",
+   "keyword": "选举",
+   "news_ids": [
+    "c55a405d247b8844"
+   ],
+   "refs": [
+    {
+     "id": "c55a405d247b8844",
+     "title": "中期选举倒计时 特朗普称举报选举舞弊可获100万美元",
+     "source": "中新网即时",
+     "url": "https://www.chinanews.com.cn/gj/2026/10-27/10721441.shtml",
+     "published_at": 1793056587.0
+    }
+   ]
+  },
+  {
+   "text": "【国总】中新社联合国10月26日电 当地时间26日，“为了人类的正义与和平”——纪念东京审判开庭80周年图片展在纽约联合国总部举行",
+   "keyword": "国总",
+   "news_ids": [
+    "a821a6b287bd51f9"
+   ],
+   "refs": [
+    {
+     "id": "a821a6b287bd51f9",
+     "title": "纪念东京审判开庭80周年图片展在联合国总部举行",
+     "source": "中新网即时",
+     "url": "https://www.chinanews.com.cn/gn/2026/10-27/10721436.shtml",
+     "published_at": 1793054547.0
+    }
+   ]
+  },
+  {
+   "text": "【中央】中新网10月27日电 据中央气象台网站消息，昨日，海南岛出现较强降雨，内蒙古、华北、东北出现大风天气",
+   "keyword": "中央",
+   "news_ids": [
+    "0d0740ed99d3617e"
+   ],
+   "refs": [
+    {
+     "id": "0d0740ed99d3617e",
+     "title": "中央气象台：北方地区将有大风降温 东部海区有大风天气",
+     "source": "中新网即时",
+     "url": "https://www.chinanews.com.cn/sh/2026/10-27/10721450.shtml",
+     "published_at": 1793060841.0
+    }
+   ]
+  },
+  {
+   "text": "【读懂】近年来，有几件小事在年轻人的圈子里火了",
+   "keyword": "读懂",
+   "news_ids": [
+    "2c5fdbd8fd0728f5"
+   ],
+   "refs": [
+    {
+     "id": "2c5fdbd8fd0728f5",
+     "title": "读懂了“和合文化”，就读懂了年轻人，也读懂了世界",
+     "source": "中新网即时",
+     "url": "https://www.chinanews.com.cn/sh/2026/10-27/10721448.shtml",
+     "published_at": 1793058947.0
+    }
+   ]
+  },
+  {
+   "text": "【国总】中新社巴黎10月26日电 (记者 李洋)法国总统马克龙当地时间26日表示，将于10月31日举行的示威活动仍然存在风险",
+   "keyword": "国总",
+   "news_ids": [
+    "008646c4f0f8843c"
+   ],
+   "refs": [
+    {
+     "id": "008646c4f0f8843c",
+     "title": "法国总统马克龙称10月31日的示威活动仍然存在风险",
+     "source": "中新网即时",
+     "url": "https://www.chinanews.com.cn/gj/2026/10-27/10721433.shtml",
+     "published_at": 1793054169.0
+    }
+   ]
+  },
+  {
+   "text": "【ai】这是大型科技公司借助股市为其AI雄心提供资金的最新事例",
+   "keyword": "ai",
+   "news_ids": [
+    "81b9c07cdd33b1c3"
+   ],
+   "refs": [
+    {
+     "id": "81b9c07cdd33b1c3",
+     "title": "Meta拟发股筹集950亿美元AI投资资金",
+     "source": "FT中文网",
+     "url": "https://www.ftchinese.com/story/001111205",
+     "published_at": 1793030400.0
+    }
+   ]
+  },
+  {
+   "text": "【特朗】特朗普承諾封鎖邊境及大規模遣返移民後重返白宮",
+   "keyword": "特朗",
+   "news_ids": [
+    "99f029c41b519fa1"
+   ],
+   "refs": [
+    {
+     "id": "99f029c41b519fa1",
+     "title": "特朗普重返白宮後，如何從五方面改變美國移民政策？",
+     "source": "BBC中文",
+     "url": "https://www.bbc.com/zhongwen/articles/cmy83lne67zqo/trad?at_medium=RSS&at_campaign=rss",
+     "published_at": 1793060261.0
+    }
+   ]
+  },
+  {
+   "text": "【步一】洛阳每年接待体验游客超600万人次，催生妆造师、簪娘等新就业岗位超3万个",
+   "keyword": "步一",
+   "news_ids": [
+    "e34a87ad8bd8a68c"
+   ],
+   "refs": [
+    {
+     "id": "e34a87ad8bd8a68c",
+     "title": "三步一公主，五步一贵妃”之后，汉服生意如何火下去？",
+     "source": "中新网即时",
+     "url": "https://www.chinanews.com.cn/cj/2026/10-27/10721444.shtml",
+     "published_at": 1793057584.0
+    }
+   ]
+  },
+  {
+   "text": "量质齐升，中国外贸何以表现强劲",
+   "keyword": "",
+   "news_ids": [
+    "45220fd745eeea3d"
+   ],
+   "refs": [
+    {
+     "id": "45220fd745eeea3d",
+     "title": "量质齐升，中国外贸何以表现强劲？",
+     "source": "中新网即时",
+     "url": "https://www.chinanews.com.cn/cj/2026/10-27/10721461.shtml",
+     "published_at": 1793062767.0
+    }
+   ]
+  },
+  {
+   "text": "福建省闽侯县上街镇马保村木雕匠人余春洲，耗时两年，创作出长达11.5米的长征主题巨型根雕",
+   "keyword": "",
+   "news_ids": [
+    "bb17a468cfabacf5"
+   ],
+   "refs": [
+    {
+     "id": "bb17a468cfabacf5",
+     "title": "福建闽侯木雕匠人两年苦凿 把长征“刻”进11.5米古木",
+     "source": "中新网即时",
+     "url": "http://www.chinanews.com.cn/sh/shipin/cns/2026/10-27/news1073045.shtml",
+     "published_at": 1793061341.0
+    }
+   ]
+  },
+  {
+   "text": "钢铁洪流，势不可挡",
+   "keyword": "",
+   "news_ids": [
+    "5e2890494a9dacd4"
+   ],
+   "refs": [
+    {
+     "id": "5e2890494a9dacd4",
+     "title": "我的天涯海角】“坦克兵王”丁辉：5次阅兵打头车，坦克是“有生命的”",
+     "source": "中新网即时",
+     "url": "http://www.chinanews.com.cn/mil/shipin/cns/2026/10-27/news1073044.shtml",
+     "published_at": 1793061287.0
+    }
+   ]
+  },
+  {
+   "text": "哈里·凯恩斩获2026年金球奖",
+   "keyword": "",
+   "news_ids": [
+    "50020eb5a5bf999f"
+   ],
+   "refs": [
+    {
+     "id": "50020eb5a5bf999f",
+     "title": "哈里·凯恩斩获2026年金球奖",
+     "source": "中新网即时",
+     "url": "http://www.chinanews.com.cn/tp/hd2011/2026/10-27/1208963.shtml",
+     "published_at": 1793061014.0
+    }
+   ]
+  },
+  {
+   "text": "真相来了丨名字带“鳕”就是鳕鱼吗",
+   "keyword": "",
+   "news_ids": [
+    "bf082c3e938f6af5"
+   ],
+   "refs": [
+    {
+     "id": "bf082c3e938f6af5",
+     "title": "名字带“鳕”就是鳕鱼吗？怎么吃更健康？一文讲明白",
+     "source": "中新网即时",
+     "url": "https://www.chinanews.com.cn/sh/2026/10-27/10721452.shtml",
+     "published_at": 1793060677.0
+    }
+   ]
+  },
+  {
+   "text": "投喂候鸟，是“爱鸟”还是“害鸟”",
+   "keyword": "",
+   "news_ids": [
+    "f8ee09a3dfa13e85"
+   ],
+   "refs": [
+    {
+     "id": "f8ee09a3dfa13e85",
+     "title": "投喂候鸟，是“爱鸟”还是“害鸟”",
+     "source": "中新网即时",
+     "url": "https://www.chinanews.com.cn/sh/2026/10-27/10721451.shtml",
+     "published_at": 1793060190.0
+    }
+   ]
+  },
+  {
+   "text": "金刚石室温热导率是铜的5倍、铝的10倍，是已知热导率最高的材料之一——",
+   "keyword": "",
+   "news_ids": [
+    "b7de429705d9d103"
+   ],
+   "refs": [
+    {
+     "id": "b7de429705d9d103",
+     "title": "用人造钻石散热，为啥“热”起来",
+     "source": "中新网即时",
+     "url": "https://www.chinanews.com.cn/cj/2026/10-27/10721449.shtml",
+     "published_at": 1793059187.0
+    }
+   ]
+  }
+ ],
+ "article": {
+  "title": "2026-10-27 新闻总结",
+  "paragraphs": [
+   {
+    "kind": "lead",
+    "text": "今天共收录 45 条新闻，来自 4 家媒体。把标题放在一起看，讨论主要集中在 AI 这几个方向上，其余消息更像是零散补充。"
+   },
+   {
+    "kind": "section",
+    "heading": "法案",
+    "text": "先看「法案」。中新网10月27日电 据乌通社报道，当地时间10月26日，乌克兰总统泽连斯基签署相关法案，另有 7 条消息指向同一话题。规则一旦落地，短期会抬高合规成本，中期则会把不合规的玩家清出场，头部反而受益。",
+    "news_ids": [
+     "cb5ff9022f8e9333"
+    ],
+    "refs": [
+     {
+      "id": "cb5ff9022f8e9333",
+      "title": "泽连斯基签署法案 延长国家战时状态和总动员令90天",
+      "source": "中新网即时",
+      "url": "https://www.chinanews.com.cn/gj/2026/10-27/10721438.shtml",
+      "published_at": 1793054901.0
+     }
+    ]
+   },
+   {
+    "kind": "section",
+    "heading": "图片",
+    "text": "与此同时「图片」。中新社联合国10月26日电 当地时间26日，“为了人类的正义与和平”——纪念东京审判开庭80周年图片展在纽约联合国总部举行…，另有 3 条消息指向同一话题。对读者来说，值得留意的不是结论本身，而是它背后哪些前提正在被改变。",
+    "news_ids": [
+     "a821a6b287bd51f9"
+    ],
+    "refs": [
+     {
+      "id": "a821a6b287bd51f9",
+      "title": "纪念东京审判开庭80周年图片展在联合国总部举行",
+      "source": "中新网即时",
+      "url": "https://www.chinanews.com.cn/gn/2026/10-27/10721436.shtml",
+      "published_at": 1793054547.0
+     }
+    ]
+   },
+   {
+    "kind": "section",
+    "heading": "审查",
+    "text": "另一个值得注意的方向是「审查」。图1：全国纪检监察机关处分人员按职级划分图 图2：全国纪检监察机关运用“四种形态”占比图 本报讯 2026年1至9月，全国纪检监察机关共接收信访举报350.6万件次，另有 3 条消息指向同一话题。规则一旦落地，短期会抬高合规成本，中期则会把不合规的玩家清出场，头部反而受益。",
+    "news_ids": [
+     "a07f189fbb7d94d2"
+    ],
+    "refs": [
+     {
+      "id": "a07f189fbb7d94d2",
+      "title": "中央纪委国家监委通报2026年1至9月全国纪检监察机关监督检查审查调查情况",
+      "source": "中新网即时",
+      "url": "https://www.chinanews.com.cn/gn/2026/10-27/10721440.shtml",
+      "published_at": 1793056563.0
+     }
+    ]
+   },
+   {
+    "kind": "section",
+    "heading": "读懂了“和合文化”",
+    "text": "相比之下「读懂了“和合文化”」。近年来，有几件小事在年轻人的圈子里火了…，另有 3 条消息指向同一话题。单看一条新闻容易高估影响，放到最近几周的脉络里，它更像是一个渐进变化中的节点。",
+    "news_ids": [
+     "2c5fdbd8fd0728f5"
+    ],
+    "refs": [
+     {
+      "id": "2c5fdbd8fd0728f5",
+      "title": "读懂了“和合文化”，就读懂了年轻人，也读懂了世界",
+      "source": "中新网即时",
+      "url": "https://www.chinanews.com.cn/sh/2026/10-27/10721448.shtml",
+      "published_at": 1793058947.0
+     }
+    ]
+   },
+   {
+    "kind": "glossary",
+    "items": [
+     {
+      "term": "AI",
+      "desc": "人工智能，让机器完成识别、生成、判断等原本需要人做的任务"
+     }
+    ]
+   },
+   {
+    "kind": "outlook",
+    "text": "整体看，这个时段的新闻还处在「消息多、结论少」的阶段，与其急着下判断，不如盯住接下来一两周有没有可验证的后续动作。"
+   }
+  ],
+  "word_count": 588
+ },
+ "ai_enhanced": false,
+ "schema": 1,
+ "window_bj": {
+  "start": "2026-10-27 00:00",
+  "end": "2026-10-27 09:00"
+ }
+}

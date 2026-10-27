@@ -1,0 +1,366 @@
+{
+ "type": "today",
+ "date": "2026-10-27",
+ "window": {
+  "start_ts": 1793030400.0,
+  "end_ts": 1793062800.0
+ },
+ "generated_at": 1793065026.5596898,
+ "generator": "action",
+ "news_count": 71,
+ "keywords": [
+  "苹果",
+  "ai",
+  "发布",
+  "the",
+  "ios",
+  "it",
+  "to",
+  "正式",
+  "anthropic",
+  "iphone"
+ ],
+ "points": [
+  {
+   "text": "【苹果】IT之家 10 月 27 日消息，苹果今日向 iPhone 和 iPad 用户推送了 iOS / iPadOS 27.2 更新（内部版本号：24",
+   "keyword": "苹果",
+   "news_ids": [
+    "f796e7d69584f2b0"
+   ],
+   "refs": [
+    {
+     "id": "f796e7d69584f2b0",
+     "title": "苹果发布 iPhone Duo 专属 iOS 27.2 更新：支持 Apple Pencil，及面部补光",
+     "source": "IT之家",
+     "url": "https://www.ithome.com/1/018/186.htm",
+     "published_at": 1793040242.0
+    }
+   ]
+  },
+  {
+   "text": "【苹果】IT之家 10 月 27 日消息，苹果今日向 iPhone 和 iPad 用户推送了 iOS/iPadOS 18.7.11 更新（内部版本号：2",
+   "keyword": "苹果",
+   "news_ids": [
+    "03c96cc5789440b2"
+   ],
+   "refs": [
+    {
+     "id": "03c96cc5789440b2",
+     "title": "苹果 iOS/iPadOS 18.7.11 正式版发布",
+     "source": "IT之家",
+     "url": "https://www.ithome.com/1/018/192.htm",
+     "published_at": 1793040244.0
+    }
+   ]
+  },
+  {
+   "text": "【the】Fusion startups face a new challenge, one unrelated to plasma physics: G",
+   "keyword": "the",
+   "news_ids": [
+    "6da0402e883a16a1"
+   ],
+   "refs": [
+    {
+     "id": "6da0402e883a16a1",
+     "title": "Fusion startups are giving the government shares in exchange for awards. Is it worth it?",
+     "source": "TechCrunch",
+     "url": "https://techcrunch.com/2026/10/26/fusion-startups-are-giving-the-government-shares-in-exchange-for-awards-is-it-worth-it/",
+     "published_at": 1793041192.0
+    }
+   ]
+  },
+  {
+   "text": "【苹果】苹果于当地时间10月26日发布iOS 27.2正式版，为旗下首款折叠屏手机iPhone Duo带来Apple Pencil手写笔支持，同时新增名",
+   "keyword": "苹果",
+   "news_ids": [
+    "a4be4777770d05a8"
+   ],
+   "refs": [
+    {
+     "id": "a4be4777770d05a8",
+     "title": "苹果发布iOS 27.2：iPhone Duo新增Apple Pencil支持 视频通话迎来补光功能",
+     "source": "cnBeta",
+     "url": "https://www.cnbeta.com.tw/articles/tech/1583954.htm",
+     "published_at": 1793041717.0
+    }
+   ]
+  },
+  {
+   "text": "【ai】Article URL: https://blog",
+   "keyword": "ai",
+   "news_ids": [
+    "bdff3e9b4b7ec822"
+   ],
+   "refs": [
+    {
+     "id": "bdff3e9b4b7ec822",
+     "title": "Cross-request KV cache exposure in the GLM-5.3 Workers AI model (155 responses)",
+     "source": "Hacker News",
+     "url": "https://blog.cloudflare.com/kv-cache-exposure-remediation/",
+     "published_at": 1793054508.0
+    }
+   ]
+  },
+  {
+   "text": "Article URL: https://nautil",
+   "keyword": "",
+   "news_ids": [
+    "0cc9b3f48ae810aa"
+   ],
+   "refs": [
+    {
+     "id": "0cc9b3f48ae810aa",
+     "title": "Just Imagining a Workout Can Make You Stronger",
+     "source": "Hacker News",
+     "url": "https://nautil.us/just-imagining-a-workout-can-make-you-stronger-236068",
+     "published_at": 1793056107.0
+    }
+   ]
+  },
+  {
+   "text": "Article URL: https://corridorkey",
+   "keyword": "",
+   "news_ids": [
+    "3956c55055b2078f"
+   ],
+   "refs": [
+    {
+     "id": "3956c55055b2078f",
+     "title": "CorridorKey 2.0",
+     "source": "Hacker News",
+     "url": "https://corridorkey.com/",
+     "published_at": 1793049485.0
+    }
+   ]
+  },
+  {
+   "text": "Article URL: https://apnews",
+   "keyword": "",
+   "news_ids": [
+    "656d49a24be3e5dc"
+   ],
+   "refs": [
+    {
+     "id": "656d49a24be3e5dc",
+     "title": "US designates helium as a critical material",
+     "source": "Hacker News",
+     "url": "https://apnews.com/article/energy-critical-materials-minerals-helium-43da160adc1bad389fba0b9ffbd14c3c",
+     "published_at": 1793039499.0
+    }
+   ]
+  },
+  {
+   "text": "中科慧灵完成数亿元A++轮融资：制鞋机器人订单超 4 亿元，具身智能开始拼量产交付",
+   "keyword": "",
+   "news_ids": [
+    "764d78fd25898fa4"
+   ],
+   "refs": [
+    {
+     "id": "764d78fd25898fa4",
+     "title": "中科慧灵完成数亿元A++轮融资：制鞋机器人订单超 4 亿元，具身智能开始拼量产交付",
+     "source": "InfoQ中文",
+     "url": "https://www.infoq.cn/article/2svt5BbWUOHbADdo0UZo?utm_source=rss&utm_medium=article",
+     "published_at": 1793039450.0
+    }
+   ]
+  },
+  {
+   "text": "Article URL: https://openai",
+   "keyword": "",
+   "news_ids": [
+    "1a48039d0434e9bb"
+   ],
+   "refs": [
+    {
+     "id": "1a48039d0434e9bb",
+     "title": "GPT-6.1 Terra",
+     "source": "Hacker News",
+     "url": "https://openai.com/index/introducing-gpt-6-1-terra/",
+     "published_at": 1793037677.0
+    }
+   ]
+  },
+  {
+   "text": "作为全球规模最大、工艺最先进的半导体制造商，台积电在SRAM微缩方面的进展已停滞多年",
+   "keyword": "",
+   "news_ids": [
+    "e702b8398a9fab0d"
+   ],
+   "refs": [
+    {
+     "id": "e702b8398a9fab0d",
+     "title": "台积电A14节点终结SRAM微缩八年停滞 存储单元面积首降19%",
+     "source": "cnBeta",
+     "url": "https://www.cnbeta.com.tw/articles/tech/1583950.htm",
+     "published_at": 1793037356.0
+    }
+   ]
+  },
+  {
+   "text": "Article URL: https://www",
+   "keyword": "",
+   "news_ids": [
+    "5831edd703a82bf3"
+   ],
+   "refs": [
+    {
+     "id": "5831edd703a82bf3",
+     "title": "ChatGPT Keeps Telling People 404 Media Can Solve Their Tech Support Problems",
+     "source": "Hacker News",
+     "url": "https://www.404media.co/chatgpt-keeps-telling-people-404-media-can-solve-their-tech-support-problems/",
+     "published_at": 1793035936.0
+    }
+   ]
+  },
+  {
+   "text": "Article URL: https://github",
+   "keyword": "",
+   "news_ids": [
+    "72ef8ee0781c2888"
+   ],
+   "refs": [
+    {
+     "id": "72ef8ee0781c2888",
+     "title": "Nietzschian Debugger",
+     "source": "Hacker News",
+     "url": "https://github.com/DilawarShafiq/nietzschian-debugger",
+     "published_at": 1793035530.0
+    }
+   ]
+  },
+  {
+   "text": "Backstage 1.55 新增脚手架任务恢复功能，并移除已废弃的目录 API",
+   "keyword": "",
+   "news_ids": [
+    "13893a9a8c18bac6"
+   ],
+   "refs": [
+    {
+     "id": "13893a9a8c18bac6",
+     "title": "Backstage 1.55 新增脚手架任务恢复功能，并移除已废弃的目录 API",
+     "source": "InfoQ中文",
+     "url": "https://www.infoq.cn/article/hilBQCk7QcvclfrgZbSf?utm_source=rss&utm_medium=article",
+     "published_at": 1793035020.0
+    }
+   ]
+  }
+ ],
+ "article": {
+  "title": "2026-10-27 新闻总结",
+  "paragraphs": [
+   {
+    "kind": "lead",
+    "text": "今天共收录 71 条新闻，来自 6 家媒体。把标题放在一起看，讨论主要集中在 AI、发布 这几个方向上，其余消息更像是零散补充。"
+   },
+   {
+    "kind": "section",
+    "heading": "发布",
+    "text": "先看「发布」。IT之家 10 月 27 日消息，苹果今日向 iPhone 和 iPad 用户推送了 iOS / iPadOS 27.2 更新（内部版本号：24B91020），另有 33 条消息指向同一话题。技术路线的胜负很少由一次发布会决定，接下来要看的是它能不能被更多团队低成本复用。",
+    "news_ids": [
+     "f796e7d69584f2b0"
+    ],
+    "refs": [
+     {
+      "id": "f796e7d69584f2b0",
+      "title": "苹果发布 iPhone Duo 专属 iOS 27.2 更新：支持 Apple Pencil，及面部补光",
+      "source": "IT之家",
+      "url": "https://www.ithome.com/1/018/186.htm",
+      "published_at": 1793040242.0
+     }
+    ]
+   },
+   {
+    "kind": "section",
+    "heading": "IPO",
+    "text": "与此同时「IPO」。IT早报”时间，大家好，现在是 2026 年 10 月 27 日星期二，今天的重要科技资讯有： 1. 人类史上最大 IPO！Anthropic 提交纳斯达克 IPO 申请，另有 8 条消息指向同一话题。这类进展更像是把已有能力往工程化落地推了一步，真正的分水岭在于成本和可靠性能不能同时压下来。",
+    "news_ids": [
+     "74346eaf30da751a"
+    ],
+    "refs": [
+     {
+      "id": "74346eaf30da751a",
+      "title": "IT早报 1027：人类史上最大 IPO 之 Anthropic 提交 IPO 申请；5499 元起苹果 iPad mini 8 发布；奥迪中国四环与字母标分家；多所高校将通过数字人民币发工资...",
+      "source": "IT之家",
+      "url": "https://www.ithome.com/1/018/205.htm",
+      "published_at": 1793058859.0
+     }
+    ]
+   },
+   {
+    "kind": "section",
+    "heading": "功能",
+    "text": "另一个值得注意的方向是「功能」。苹果于当地时间10月26日发布iOS 27.2正式版，为旗下首款折叠屏手机iPhone Duo带来Apple Pencil手写笔支持，另有 1 条消息指向同一话题。技术路线的胜负很少由一次发布会决定，接下来要看的是它能不能被更多团队低成本复用。",
+    "news_ids": [
+     "a4be4777770d05a8"
+    ],
+    "refs": [
+     {
+      "id": "a4be4777770d05a8",
+      "title": "苹果发布iOS 27.2：iPhone Duo新增Apple Pencil支持 视频通话迎来补光功能",
+      "source": "cnBeta",
+      "url": "https://www.cnbeta.com.tw/articles/tech/1583954.htm",
+      "published_at": 1793041717.0
+     }
+    ]
+   },
+   {
+    "kind": "section",
+    "heading": "融资",
+    "text": "相比之下「融资」。中科慧灵完成数亿元A++轮融资：制鞋机器人订单超 4 亿元。融资和估值只能说明市场情绪，能不能兑现，还要看下一两个季度的收入和留存。",
+    "news_ids": [
+     "764d78fd25898fa4"
+    ],
+    "refs": [
+     {
+      "id": "764d78fd25898fa4",
+      "title": "中科慧灵完成数亿元A++轮融资：制鞋机器人订单超 4 亿元，具身智能开始拼量产交付",
+      "source": "InfoQ中文",
+      "url": "https://www.infoq.cn/article/2svt5BbWUOHbADdo0UZo?utm_source=rss&utm_medium=article",
+      "published_at": 1793039450.0
+     }
+    ]
+   },
+   {
+    "kind": "glossary",
+    "items": [
+     {
+      "term": "AI",
+      "desc": "人工智能，让机器完成识别、生成、判断等原本需要人做的任务"
+     },
+     {
+      "term": "Robotaxi",
+      "desc": "无人驾驶出租车，车里没有司机，靠自动驾驶系统接单运营"
+     },
+     {
+      "term": "IPO",
+      "desc": "首次公开募股，公司第一次把股票卖给公众并上市"
+     },
+     {
+      "term": "Agent",
+      "desc": "智能体，能自己拆解任务、调用工具并连续执行的 AI 程序"
+     },
+     {
+      "term": "API",
+      "desc": "应用程序接口，让不同软件按约定好的方式互相调用"
+     },
+     {
+      "term": "GPU",
+      "desc": "图形处理器，因为擅长大规模并行计算，成了 AI 训练的主力硬件"
+     }
+    ]
+   },
+   {
+    "kind": "outlook",
+    "text": "把这几条放在一起看，最值得跟踪的是 AI 和 发布 两条线：一条决定技术能走多远，一条决定它多快能落到普通人的日常里。至于其他消息，可以先放进观察名单，等后续有更实的进展再判断。"
+   }
+  ],
+  "word_count": 666
+ },
+ "ai_enhanced": false,
+ "schema": 1,
+ "window_bj": {
+  "start": "2026-10-27 00:00",
+  "end": "2026-10-27 09:00"
+ }
+}
