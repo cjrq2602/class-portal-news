@@ -1,7 +1,7 @@
 {
  "date": "2026-10-26",
- "generated_at": 1793058576.7827914,
- "count": 365,
+ "generated_at": 1793060963.5625715,
+ "count": 366,
  "items": [
   {
    "id": "5da83f94f90a51a3",
@@ -2801,6 +2801,15 @@
    "summary": "IT之家 10 月 26 日消息，据央视财经报道，在近期结束的 2026 金融街论坛年会上， 全国首个人工智能应用风险综合保障方案正式发布。 通过保险产品分别对人工智能服务给第三方造成的损失，和人工智能供应方自身费用损失进行保障， 填补国内 AI 保险市场空白 。 IT之家注意到，AI 正在接管越来越多的事情：打电话、做客服、分析农产品价格、写文案剪视频。可一旦它“说错话”侵权，或者“算错账”造成损失，谁来负责？ 今年 9 月，最高人民法院发布《关于依法审理涉人工智能纠纷案件的意见》，明确了关键规则： 生成式 AI 侵权一般适用过错责任，“内容由 AI 生成”不能作为免责抗辩。 也就是说谁有过",
    "published_at": 1792970517.0,
    "published_bj": "2026-10-26 07:21"
+  },
+  {
+   "id": "89fdd61e971271c2",
+   "source": "Hacker News",
+   "title": "Show HN: Glider 4.0 Unofficial Web Edition (Mac game port)",
+   "url": "https://dbohdan.github.io/glider/",
+   "summary": "https://github.com/dbohdan/glider https://bsky.app/profile/engineersneedart.com/post/3myrs2ngq... Comments URL: https://news.ycombinator.com/item?id=50237019 Points: 39 # Comments: 7",
+   "published_at": 1792970322.0,
+   "published_bj": "2026-10-26 07:18"
   },
   {
    "id": "1c51a2663c93fc0d",
