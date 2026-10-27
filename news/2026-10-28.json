@@ -1,8 +1,26 @@
 {
  "date": "2026-10-28",
- "generated_at": 1793125113.1100075,
- "count": 25,
+ "generated_at": 1793128083.0989985,
+ "count": 29,
  "items": [
+  {
+   "id": "d1aa257e499175f1",
+   "source": "TechCrunch",
+   "title": "Disruptive raises $10B fund to make big bets on at least 10 companies",
+   "url": "https://techcrunch.com/2026/10/27/disruptive-raises-10b-fund-to-make-big-bets-on-at-least-10-companies/",
+   "summary": "Disruptive has made headlines in recent years for pouring money into companies like chip startup Groq and the AI voice-generation startup ElevenLabs.",
+   "published_at": 1793127335.0,
+   "published_bj": "2026-10-28 02:55"
+  },
+  {
+   "id": "d9dfbb5806b57f6d",
+   "source": "Hacker News",
+   "title": "Discord will soon let anyone find public server messages through Google",
+   "url": "https://discord.com/blog/making-content-from-discoverable-servers-easier-to-discover",
+   "summary": "Article URL: https://discord.com/blog/making-content-from-discoverable-servers-easier-to-discover Comments URL: https://news.ycombinator.com/item?id=50263854 Points: 7 # Comments: 0",
+   "published_at": 1793126657.0,
+   "published_bj": "2026-10-28 02:44"
+  },
   {
    "id": "74965c5f58871c21",
    "source": "InfoQ中文",
@@ -11,6 +29,24 @@
    "summary": "点击查看原文>",
    "published_at": 1793126343.0,
    "published_bj": "2026-10-28 02:39"
+  },
+  {
+   "id": "471811935b9dec57",
+   "source": "Hacker News",
+   "title": "Three TLS Bugs in GoAhead",
+   "url": "https://foxio.io/blog/choose-your-backend-three-tls-bugs-in-goahead",
+   "summary": "Article URL: https://foxio.io/blog/choose-your-backend-three-tls-bugs-in-goahead Comments URL: https://news.ycombinator.com/item?id=50263701 Points: 7 # Comments: 0",
+   "published_at": 1793126028.0,
+   "published_bj": "2026-10-28 02:33"
+  },
+  {
+   "id": "77f6d431264cf0d6",
+   "source": "cnBeta",
+   "title": "波音称机翼生产滞后 2027年底前不会大幅提高737 Max产量 股价大跌",
+   "url": "https://www.cnbeta.com.tw/articles/tech/1584082.htm",
+   "summary": "波音公司预计在2027年下半年之前不会大幅提高其最畅销的737 Max飞机的产量，因为该公司正应对机翼生产进度慢于预期的问题。CEO凯利·奥特伯格周二在公司季度财报电话会议上表示，波音的目标是在2027年下半年达到每月52架飞机的产量。该公司一直以每月约47架的速度生产737 Max飞机。 阅读全文",
+   "published_at": 1793125622.0,
+   "published_bj": "2026-10-28 02:27"
   },
   {
    "id": "eadb19444a03b5a9",
