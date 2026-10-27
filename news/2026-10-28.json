@@ -1,7 +1,7 @@
 {
  "date": "2026-10-28",
- "generated_at": 1793118372.7025878,
- "count": 4,
+ "generated_at": 1793119374.5689702,
+ "count": 6,
  "items": [
   {
    "id": "74965c5f58871c21",
@@ -20,6 +20,24 @@
    "summary": "点击查看原文>",
    "published_at": 1793121420.0,
    "published_bj": "2026-10-28 01:17"
+  },
+  {
+   "id": "603737e7e9e53e9a",
+   "source": "TechCrunch",
+   "title": "Google’s Genie 4 world model adds audio, more realistic worlds, and real-time steering",
+   "url": "https://techcrunch.com/2026/10/27/googles-genie-4-world-model-adds-audio-more-realistic-worlds-and-real-time-steering/",
+   "summary": "Google DeepMind released Genie 4, a world model with real-time audio, more realistic simulations, and mid-simulation text prompts, in research preview for trusted testers.",
+   "published_at": 1793118657.0,
+   "published_bj": "2026-10-28 00:30"
+  },
+  {
+   "id": "0f82b8e44576637b",
+   "source": "Hacker News",
+   "title": "Classification of Finite Simple Groups Formalized in Lean",
+   "url": "https://cfsg.axiommath.ai/",
+   "summary": "Article URL: https://cfsg.axiommath.ai/ Comments URL: https://news.ycombinator.com/item?id=50261647 Points: 6 # Comments: 3",
+   "published_at": 1793118542.0,
+   "published_bj": "2026-10-28 00:29"
   },
   {
    "id": "4010577f0ae22124",
