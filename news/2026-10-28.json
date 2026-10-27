@@ -1,8 +1,53 @@
 {
  "date": "2026-10-28",
- "generated_at": 1793140199.4832835,
- "count": 52,
+ "generated_at": 1793142654.9936411,
+ "count": 58,
  "items": [
+  {
+   "id": "38e5c32338c9715a",
+   "source": "IT之家",
+   "title": "谷歌推出最强世界模型 Genie 4：一句话创造可交互虚拟世界，首次实现音视频同步生成",
+   "url": "https://www.ithome.com/1/018/711.htm",
+   "summary": "IT之家 10 月 28 日消息，谷歌 DeepMind 于周二推出了最新的世界模型 Genie 4，目前处于研究预览阶段。这款最新模型能够生成迄今为止拟真度最高、可交互的虚拟世界，用户可以在模拟运行的过程中输入提示词来修改场景。该模型还能生成和虚拟世界同步的实时音频，涵盖音乐、环境音以及可交互对话。 IT之家注意到，就在 Genie 4 发布的数月之前，AI 视频初创公司 Runway 推出了自家第二款世界模型 GWM Worlds 2，这是一款可交互运行的模型，能够对用户输入做出动态响应，同时支持音频生成。与此同时，世界模型赛道开始出现整合趋势。李飞飞（Fei-Fei Li）创立的世界实验",
+   "published_at": 1793142289.0,
+   "published_bj": "2026-10-28 07:04"
+  },
+  {
+   "id": "8e478d1c4596c020",
+   "source": "TechCrunch",
+   "title": "The data center boom has an upside: innovation for the US grid",
+   "url": "https://techcrunch.com/2026/10/27/the-data-center-boom-has-an-upside-innovation-for-the-us-grid/",
+   "summary": "As the AI boom stresses the existing power grid, all sort of new opportunities for grid modernization are also emerging as a result, industry insiders say.",
+   "published_at": 1793141741.0,
+   "published_bj": "2026-10-28 06:55"
+  },
+  {
+   "id": "d654d70e9df87dd2",
+   "source": "IT之家",
+   "title": "国产凶猛创历史：2026Q3 中国车在欧洲季度销量首超日本",
+   "url": "https://www.ithome.com/1/018/710.htm",
+   "summary": "IT之家 10 月 28 日消息，彭博社于 10 月 26 日发布博文，援引市场研究机构 Dataforce 的数据，指出在 2026 年第 3 季度（7~9 月），中国品牌汽车在欧洲的注册量首次超过日本品牌， 占欧洲总销量的 12.7%，而包括丰田在内的日本车企份额为 11.9%。 该机构指出中国汽车在欧洲市场快速崛起，5 年前市场份额还不到 1%，去年已经快速攀升到约 6%，今年更是窜火箭式上涨，今年 9 月更达到创纪录的 14.5%，较 8 月提高近 3 个百分点。IT之家附上相关图表如下： 该机构认为驱动本轮增长的主要因素，是混合动力车型带动。 在车企动态方面，比亚迪、奇瑞、吉利等车企",
+   "published_at": 1793141155.0,
+   "published_bj": "2026-10-28 06:45"
+  },
+  {
+   "id": "c130c8bcefe44b7e",
+   "source": "Hacker News",
+   "title": "Reviewers rarely talk about reliability. Owners bring it up twice as often",
+   "url": "https://www.bettascore.ai/research/reliability-reviewers-vs-owners",
+   "summary": "Article URL: https://www.bettascore.ai/research/reliability-reviewers-vs-owners Comments URL: https://news.ycombinator.com/item?id=50266780 Points: 7 # Comments: 4",
+   "published_at": 1793140275.0,
+   "published_bj": "2026-10-28 06:31"
+  },
+  {
+   "id": "7e261f534f9e8b73",
+   "source": "IT之家",
+   "title": "别学编程了！Anthropic CEO 直言：代码工作快速消失，人类应该学弹钢琴",
+   "url": "https://www.ithome.com/1/018/708.htm",
+   "summary": "如果说，当今世界有人能看清人类未来十年的走向，Dario Amodei 绝对是其中之一。 他曾接受了一场非常深入的访谈。在这场对话中，他坦诚分享了自己对未来的预测 —— 「 AI 海啸正向我们扑来，近在咫尺。但整个社会却假装那只是海市蜃楼。 」 未来十年，什么行业会被彻底颠覆？ 25 岁的年轻人今天应该学什么专业？ 编程是不是真的穷途末路？普通人如何在这场大洗牌中保住饭碗？ 「纯写代码」的工作，即将第一个消亡 访谈中，主持人问了一个所有人都无比焦虑的问题： 如果我今天 25 岁，想在未来十年实现财富上的成功，我应该去学什么？编程还有用吗？什么行业还有红利？ Dario 的回答很残酷。 他直言不",
+   "published_at": 1793140230.0,
+   "published_bj": "2026-10-28 06:30"
+  },
   {
    "id": "25f9d76456f987db",
    "source": "TechCrunch",
@@ -245,6 +290,15 @@
    "summary": "波音公司预计在2027年下半年之前不会大幅提高其最畅销的737 Max飞机的产量，因为该公司正应对机翼生产进度慢于预期的问题。CEO凯利·奥特伯格周二在公司季度财报电话会议上表示，波音的目标是在2027年下半年达到每月52架飞机的产量。该公司一直以每月约47架的速度生产737 Max飞机。 阅读全文",
    "published_at": 1793125622.0,
    "published_bj": "2026-10-28 02:27"
+  },
+  {
+   "id": "763f02005cec35fb",
+   "source": "Hacker News",
+   "title": "Radio-tagged Monarch butterflies",
+   "url": "https://blog.cwf-fcf.org/index.php/en/tiny-tracking-tags-for-big-monarch-journeys/",
+   "summary": "https://celltracktech.com/pages/blumorpho https://monarchresearch.org/news-and-events/monarch-research... https://monarchwatch.org/radiotag/ https://swmonarchs.org/ProjectMonarch.php https://news.vt.edu/articles/2026/10/cmi-monarchs.html Comments URL: https://news.ycombinator.com/item?id=50262982 Po",
+   "published_at": 1793123295.0,
+   "published_bj": "2026-10-28 01:48"
   },
   {
    "id": "eadb19444a03b5a9",
