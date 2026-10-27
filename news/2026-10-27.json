@@ -1,8 +1,17 @@
 {
  "date": "2026-10-27",
- "generated_at": 1793076831.002472,
- "count": 154,
+ "generated_at": 1793078839.936505,
+ "count": 162,
  "items": [
+  {
+   "id": "dfb57e3378430258",
+   "source": "InfoQ中文",
+   "title": "Docker Cloud Sandboxes在笔记本和云端之间提供一致的沙箱抽象",
+   "url": "https://www.infoq.cn/article/gXKvW3g4KXhTTiIaJFkl?utm_source=rss&utm_medium=article",
+   "summary": "点击查看原文>",
+   "published_at": 1793106000.0,
+   "published_bj": "2026-10-27 21:00"
+  },
   {
    "id": "5b124d3f8556c3ba",
    "source": "InfoQ中文",
@@ -20,6 +29,60 @@
    "summary": "点击查看原文>",
    "published_at": 1793092440.0,
    "published_bj": "2026-10-27 17:14"
+  },
+  {
+   "id": "eeba8f5f73fe9575",
+   "source": "cnBeta",
+   "title": "黑客借助生成式AI发现PS5漏洞 上报索尼获5万美元奖金",
+   "url": "https://www.cnbeta.com.tw/articles/game/1584006.htm",
+   "summary": "黑客Jordy借助生成式AI发现PS5虚拟机监控器漏洞，随后通过HackerOne向索尼提交报告并获得5万美元奖金。由于该漏洞原计划暂不公开，此次上报也在自制软件社区引发争议。 阅读全文",
+   "published_at": 1793078616.0,
+   "published_bj": "2026-10-27 13:23"
+  },
+  {
+   "id": "4e80f17ee4e99627",
+   "source": "cnBeta",
+   "title": "阿里巴巴起诉美国防部获胜 特朗普政府一项禁令被叫停",
+   "url": "https://www.cnbeta.com.tw/articles/tech/1584004.htm",
+   "summary": "据彭博社报道，阿里巴巴集团在挑战美国国防部黑名单的诉讼中胜诉。当地时间周一，美国加州圣何塞联邦法官命令特朗普政府停止执行一项禁令，该禁令禁止五角大楼与任何为阿里从事“游说活动”的公司做生意。 阅读全文",
+   "published_at": 1793078309.0,
+   "published_bj": "2026-10-27 13:18"
+  },
+  {
+   "id": "08da6320c552b716",
+   "source": "cnBeta",
+   "title": "Q3中国手机出货再跌15.2% 但600美元以上高端机却卖爆了",
+   "url": "https://www.cnbeta.com.tw/articles/tech/1584002.htm",
+   "summary": "10月27日，IDC发布2026年第三季度中国智能手机市场跟踪报告。当季出货量约5806万台，同比下降15.2%，较上半年约4%的降幅明显扩大。存储及元器件成本大幅上升引发的终端涨价与配置调整，已开始抑制消费需求。 阅读全文",
+   "published_at": 1793078284.0,
+   "published_bj": "2026-10-27 13:18"
+  },
+  {
+   "id": "544d295574ba8ccc",
+   "source": "IT之家",
+   "title": "国家广电总局：交互式网络电视 IPTV 应实现开机看全屏直播功能，不得播放开机广告",
+   "url": "https://www.ithome.com/1/018/350.htm",
+   "summary": "IT之家 10 月 27 日消息，国家广播电视总局今日发布公告，《 交互式网络电视运营服务管理暂行规定 》（下称《规定》）已经于 2026 年 10 月 23 日国家广播电视总局局务会议审议通过，现予公布，自 2026 年 11 月 27 日起施行。 该《规定》所称交互式网络电视（英文简称 IPTV）运营服务，是指依法设立的交互式网络电视集成播控服务提供者和传输服务提供者，利用交互式网络电视专网直接或者间接向个人用户、家庭用户、集团用户等提供广播电视服务的活动。 《规定》要求交互式网络电视集成播控服务提供者在页面显著位置展示“中国 IPTV-省份”的呼号等播出标识。 IT之家注意到，《规定》提",
+   "published_at": 1793077453.0,
+   "published_bj": "2026-10-27 13:04"
+  },
+  {
+   "id": "a2ba90decc6e9286",
+   "source": "cnBeta",
+   "title": "《GTA6》发售日请假申请量增加9%至17%",
+   "url": "https://www.cnbeta.com.tw/articles/game/1584000.htm",
+   "summary": "人力资源软件公司BambooHR的数据显示，《GTA6》发售日11月19日可能出现请假申请高峰。与通常情况下11月第三个星期四相比，该日期的申请量据称增加了9%至17%。 阅读全文",
+   "published_at": 1793077329.0,
+   "published_bj": "2026-10-27 13:02"
+  },
+  {
+   "id": "68180f373a97fe7b",
+   "source": "IT之家",
+   "title": "持续 27 天，天文学家发现破纪录伽马射线暴",
+   "url": "https://www.ithome.com/1/018/349.htm",
+   "summary": "IT之家 10 月 27 日消息，天文学家发现了一个非同寻常的伽马射线暴（GRB），和同类宇宙爆发相比，其堪称伽马暴里的“绿巨人”。 这个伽马射线暴最特别之处在于，驱动这次爆发的中心引擎持续活跃了大约 27 天，在初始爆发之后不断产生 X 射线耀发。这个时长比此前有记录的最长伽马暴还要多出 20 天。 据IT之家了解，这次打破纪录的爆发编号为 GRB 220706A，于 2022 年 7 月 6 日被观测到。更令人兴奋的是，科学家目前还不清楚支撑其中心引擎到底是什么。 英国伯明翰大学的研究团队成员本杰明 · 贡珀茨（Benjamin Gompertz）在接受 Space.com 采访时表示：“",
+   "published_at": 1793077113.0,
+   "published_bj": "2026-10-27 12:58"
   },
   {
    "id": "a2731e8e373ee0ca",
@@ -524,6 +587,15 @@
    "summary": "IT之家 10 月 27 日消息，此前报道称#拯救质量效应（#SaveMassEffect）请愿活动为准备在 EA 总部外投放广告牌，签名数已经突破 17 万。今天这份请愿签名不仅超过 21.6 万，相关广告牌也已经正式登陆纽约的大屏。 这次巨型#SaveMassEffect 数字广告牌由 @WeAreMassEffect 团队和内容创作者卡拉 · 伊丽莎白（Kala Elizabeth）统筹，今天全天在时代广场滚动播放。 IT之家注意到，这块电子屏位于百老汇大道 1560 号，就在达菲广场的贝利商店正上方，位置十分醒目。身处当地的粉丝可以在每小时的 35 分看到这条 15 秒的广告。 屏幕上",
    "published_at": 1793067536.0,
    "published_bj": "2026-10-27 10:18"
+  },
+  {
+   "id": "6eca2b5fdc09ea6a",
+   "source": "Hacker News",
+   "title": "I still teach OpenGL ES 3.0",
+   "url": "https://eliasfarhan.ch/graphics/cpp/2026/01/27/why-i-teach-opengles.html",
+   "summary": "Article URL: https://eliasfarhan.ch/graphics/cpp/2026/01/27/why-i-teach-opengles.html Comments URL: https://news.ycombinator.com/item?id=50253939 Points: 15 # Comments: 9",
+   "published_at": 1793067310.0,
+   "published_bj": "2026-10-27 10:15"
   },
   {
    "id": "39a2f3cfa924262a",
