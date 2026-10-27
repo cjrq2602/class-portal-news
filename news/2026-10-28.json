@@ -1,7 +1,7 @@
 {
  "date": "2026-10-28",
- "generated_at": 1793121883.858714,
- "count": 22,
+ "generated_at": 1793125113.1100075,
+ "count": 25,
  "items": [
   {
    "id": "74965c5f58871c21",
@@ -11,6 +11,15 @@
    "summary": "点击查看原文>",
    "published_at": 1793126343.0,
    "published_bj": "2026-10-28 02:39"
+  },
+  {
+   "id": "eadb19444a03b5a9",
+   "source": "Hacker News",
+   "title": "Brazil's Flavio Bolsonaro headed to US, sources say",
+   "url": "https://www.reuters.com/world/americas/brazil-wonders-where-earth-is-flavio-bolsonaro-2026-10-27/",
+   "summary": "Article URL: https://www.reuters.com/world/americas/brazil-wonders-where-earth-is-flavio-bolsonaro-2026-10-27/ Comments URL: https://news.ycombinator.com/item?id=50262942 Points: 22 # Comments: 7",
+   "published_at": 1793123177.0,
+   "published_bj": "2026-10-28 01:46"
   },
   {
    "id": "eae01fe074489f86",
@@ -29,6 +38,24 @@
    "summary": "TechCrunch spoke to the MIT computer scientist charged with explaining OpenAI's latest mind-bending discovery",
    "published_at": 1793120888.0,
    "published_bj": "2026-10-28 01:08"
+  },
+  {
+   "id": "d98909f248588c25",
+   "source": "Hacker News",
+   "title": "Introducing LFM3: Every Modality for Specialized Intelligence",
+   "url": "https://www.liquid.ai/blog/lfm3",
+   "summary": "Article URL: https://www.liquid.ai/blog/lfm3 Comments URL: https://news.ycombinator.com/item?id=50262229 Points: 17 # Comments: 6",
+   "published_at": 1793120690.0,
+   "published_bj": "2026-10-28 01:04"
+  },
+  {
+   "id": "f536dabe86ccbbba",
+   "source": "Hacker News",
+   "title": "Ghostty 1.4.0",
+   "url": "https://ghostty.org/docs/install/release-notes/1-4-0",
+   "summary": "Article URL: https://ghostty.org/docs/install/release-notes/1-4-0 Comments URL: https://news.ycombinator.com/item?id=50261998 Points: 150 # Comments: 53",
+   "published_at": 1793119882.0,
+   "published_bj": "2026-10-28 00:51"
   },
   {
    "id": "c21cc401911ca1d0",
