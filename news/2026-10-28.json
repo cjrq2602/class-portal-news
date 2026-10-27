@@ -1,8 +1,80 @@
 {
  "date": "2026-10-28",
- "generated_at": 1793135614.4187973,
- "count": 42,
+ "generated_at": 1793138037.3727565,
+ "count": 50,
  "items": [
+  {
+   "id": "fc70562849f5ed1d",
+   "source": "TechCrunch",
+   "title": "GM is embracing hybrids now",
+   "url": "https://techcrunch.com/2026/10/27/gm-is-embracing-hybrids-now/",
+   "summary": "GM eschewed hybrids in favor of battery-electric vehicles. Now, it's gearing up to offer hybrid versions of its SUVs.",
+   "published_at": 1793137622.0,
+   "published_bj": "2026-10-28 05:47"
+  },
+  {
+   "id": "6fae56428edf71ed",
+   "source": "TechCrunch",
+   "title": "Bank of America kindly asks that you don’t share your banking password with your AI assistant",
+   "url": "https://techcrunch.com/2026/10/27/bank-of-america-kindly-asks-that-you-dont-share-your-banking-password-with-your-ai-assistant/",
+   "summary": "The banking giant reminds customers that \"you're responsible for activity\" resulting from your AI agents' access.",
+   "published_at": 1793137474.0,
+   "published_bj": "2026-10-28 05:44"
+  },
+  {
+   "id": "a21d38643c666356",
+   "source": "TechCrunch",
+   "title": "Who’s really in charge at Anthropic after the IPO?",
+   "url": "https://techcrunch.com/2026/10/27/whos-really-in-charge-at-anthropic-after-the-ipo/",
+   "summary": "Here's a clear explanation of Anthropic's incredibly complex governance structure.",
+   "published_at": 1793137108.0,
+   "published_bj": "2026-10-28 05:38"
+  },
+  {
+   "id": "6284e8a2e81e028c",
+   "source": "TechCrunch",
+   "title": "Discord is making its public communities more searchable, and people have concerns",
+   "url": "https://techcrunch.com/2026/10/27/discord-is-making-its-public-communities-more-searchable-and-people-have-concerns/",
+   "summary": "In December, messages from Discord's public discoverable servers will begin appearing in search engine results.",
+   "published_at": 1793136155.0,
+   "published_bj": "2026-10-28 05:22"
+  },
+  {
+   "id": "3f5212790917dcc2",
+   "source": "Hacker News",
+   "title": "One year of Dioxus fullstack in production: the good, the painful",
+   "url": "https://oxidt.com/blog/one-year-of-dioxus-fullstack-in-production-the-good-the-painful",
+   "summary": "Article URL: https://oxidt.com/blog/one-year-of-dioxus-fullstack-in-production-the-good-the-painful Comments URL: https://news.ycombinator.com/item?id=50265960 Points: 6 # Comments: 1",
+   "published_at": 1793135955.0,
+   "published_bj": "2026-10-28 05:19"
+  },
+  {
+   "id": "ffea3324a485e669",
+   "source": "Hacker News",
+   "title": "Early progress on accelerating drug development with Claude",
+   "url": "https://www.anthropic.com/research/early-progress-drug-development",
+   "summary": "Article URL: https://www.anthropic.com/research/early-progress-drug-development Comments URL: https://news.ycombinator.com/item?id=50265609 Points: 35 # Comments: 14",
+   "published_at": 1793134242.0,
+   "published_bj": "2026-10-28 04:50"
+  },
+  {
+   "id": "eba519dcb64d44ec",
+   "source": "Hacker News",
+   "title": "Raspberry Pi Zero 3W and Pi 4 Model A spotted in device trees",
+   "url": "https://bret.dk/raspberry-pi-zero-3-w-pi-4-model-a/",
+   "summary": "Article URL: https://bret.dk/raspberry-pi-zero-3-w-pi-4-model-a/ Comments URL: https://news.ycombinator.com/item?id=50265594 Points: 15 # Comments: 2",
+   "published_at": 1793134129.0,
+   "published_bj": "2026-10-28 04:48"
+  },
+  {
+   "id": "5f41d2cc2ccee7e6",
+   "source": "Hacker News",
+   "title": "Hex Raises $100M",
+   "url": "https://hex.tech/blog/hex-new-era/",
+   "summary": "Article URL: https://hex.tech/blog/hex-new-era/ Comments URL: https://news.ycombinator.com/item?id=50265413 Points: 5 # Comments: 0",
+   "published_at": 1793133398.0,
+   "published_bj": "2026-10-28 04:36"
+  },
   {
    "id": "cbc3ac5c6c756ed4",
    "source": "TechCrunch",
