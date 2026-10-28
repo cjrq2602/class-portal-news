@@ -1,7 +1,7 @@
 {
  "date": "2026-10-29",
- "generated_at": 1793208431.6691353,
- "count": 31,
+ "generated_at": 1793211610.8168476,
+ "count": 40,
  "items": [
   {
    "id": "07aec451d477fa8c",
@@ -67,6 +67,15 @@
    "published_bj": "2026-10-29 02:14"
   },
   {
+   "id": "446a471dd7315706",
+   "source": "IT之家",
+   "title": "苹果新 MacBook Pro 最高可选 16TB 存储空间：相比此前 8TB 翻倍，得加 5.25 万元",
+   "url": "https://www.ithome.com/1/019/247.htm",
+   "summary": "IT之家 10 月 29 日消息，苹果首款触控屏 MacBook Pro 最高可选 16TB 存储空间，相比此前 MacBook Pro 最高 8TB 翻倍。 需要注意的是，新款 MacBook Pro 仅有 M5 Max 机型支持选择 16TB 硬盘。而且要升级这么高的容量，您需要支付 52,500 元（以 2TB → 16TB 计）。 硬件方面，新款 MacBook Pro 采用双层串联 OLED 1Hz-120Hz 自适应刷新率触控屏，支持 1,000 尼特持续全屏亮度、2,000 尼特 HDR 和 SDR 峰值亮度，覆盖 P3 + Adobe RGB 广色域。该机还带有“灵动岛”（1,",
+   "published_at": 1793210956.0,
+   "published_bj": "2026-10-29 02:09"
+  },
+  {
    "id": "9d5196e15ce76777",
    "source": "InfoQ中文",
    "title": "全网恐慌48小时，拯救互联网的却是一个“无名之辈”",
@@ -94,6 +103,33 @@
    "published_bj": "2026-10-29 01:54"
   },
   {
+   "id": "fdedca30db3a7a7d",
+   "source": "IT之家",
+   "title": "苹果上架 512GB 内存版 Mac Studio：较 96GB 配置贵 116250 元",
+   "url": "https://www.ithome.com/1/019/246.htm",
+   "summary": "IT之家 10 月 29 日消息，苹果今天（10 月 29 日）正式公布配备 512GB 统一内存的 Mac Studio 售价。该配置仅面向搭载 M5 Ultra 芯片（ 36 核 CPU 与 80 核 GPU）的顶配机型， 相比较 96GB 版本价格上涨 116,250 元。 IT之家注：512GB 内存版目前仅适用于 M5 Ultra 芯片（36 核 CPU 与 80 核 GPU）顶配，用户如果选择 M5 Ultra（30 核 CPU 与 64 核 GPU）会跳出相关提示： 在内存配置选项，苹果 Mac Studio 从 96GB 升级到 512GB 需要加价 116,250 元人民币。",
+   "published_at": 1793210045.0,
+   "published_bj": "2026-10-29 01:54"
+  },
+  {
+   "id": "17d6d8e2a56e67f0",
+   "source": "IT之家",
+   "title": "苹果首度为 Mac 引入灵动岛：支持显示音乐播放、实时活动等，Siri AI 多了个入口",
+   "url": "https://www.ithome.com/1/019/245.htm",
+   "summary": "IT之家 10 月 29 日消息，苹果公司今日推出首款触控屏 MacBook Pro，提供 14 英寸和 16 英寸两种型号。值得注意的是，这款笔记本支持灵动岛，可将实时活动、聚焦搜索和 Siri AI 整合到屏幕上方交互，这也是苹果首次为 Mac 电脑引入灵动岛。 IT之家了解到，苹果公司最早在 2022 年 9 月的 iPhone 14 Pro 系列推出灵动岛。它在苹果手机中取代了刘海设计，摄像头开孔相比原来更小，还能够通过软件界面显示实时活动、音乐播放、计时器等各类控件。 而 Mac 上的灵动岛支持接听电话、控制音乐播放，以及显示隔空投送请求等， 还能够作为聚焦搜索和 Siri AI 的",
+   "published_at": 1793209996.0,
+   "published_bj": "2026-10-29 01:53"
+  },
+  {
+   "id": "8b6bdfff50bc48ca",
+   "source": "IT之家",
+   "title": "时隔 10 年发光 Logo 回归：苹果首款触控屏 MacBook Pro“苹果标”又会亮了",
+   "url": "https://www.ithome.com/1/019/244.htm",
+   "summary": "IT之家 10 月 29 日消息，苹果在今天的特别活动中正式推出了首款触控屏 MacBook Pro（配备 PROLED XDR 显示屏的 MacBook Pro），值得一提的是，该机重新为 A 面带回了发光苹果 Logo。 回顾历史，苹果从 1999 年 PowerBook G3 系列开始为笔记本 A 面引入发光苹果 Logo，相应 Logo 并没有配备任何独立的 LED 光源，而是直接“借用”了屏幕自身的背光。 具体而言，苹果在 CNC 切割铝合金 A 面时，会在正中央镂空切出苹果 Logo 的形状，并在该孔位嵌入一块高透光率、表面经过磨砂雾面处理的白色聚碳酸酯（塑料）导光板。在屏幕面板内",
+   "published_at": 1793209703.0,
+   "published_bj": "2026-10-29 01:48"
+  },
+  {
    "id": "2bfb696eb40a2a85",
    "source": "InfoQ中文",
    "title": "Claude Code 撑起史上最大 IPO，被封号不退费的中国开发者撑起那 5%“脏收入”",
@@ -112,6 +148,33 @@
    "published_bj": "2026-10-29 01:42"
   },
   {
+   "id": "826119e6431dadec",
+   "source": "IT之家",
+   "title": "15999 元起，苹果 M6 芯片版 14 英寸 MacBook Pro 开启预购",
+   "url": "https://www.ithome.com/1/019/243.htm",
+   "summary": "IT之家 10 月 29 日消息，苹果公司 2026 款 MacBook Pro 已于今天（10 月 29 日）凌晨 1 点 10 分开启预购，起售价 15,999 元，最快 11 月 6 日送达。 京东 苹果 2026 款 14 英寸 MacBook Pro M6 15999 元 直达链接 机型 芯片 起售价 14 英寸 M6 RMB 15,999 起 14 英寸 M5 Pro RMB 20,999 起 14 英寸 M5 Max RMB 28,499 起 16 英寸 M5 Pro RMB 24,999 起 16 英寸 M5 Max RMB 32,499 起 新款 M6 芯片的 14 英寸 M",
+   "published_at": 1793209278.0,
+   "published_bj": "2026-10-29 01:41"
+  },
+  {
+   "id": "6698f5eac8001914",
+   "source": "IT之家",
+   "title": "苹果 M6 版 24 英寸 iMac 开启预购，国补后 10999 元起",
+   "url": "https://www.ithome.com/1/019/242.htm",
+   "summary": "IT之家 10 月 29 日消息，苹果 24 英寸新款 iMac 现已在京东开启预购，新品升级 M6 芯片，设计与旧款没有差别，定价 12499 元起， 国补后到手价 10999 元起 。 外观方面，新款 iMac 沿袭上一代外观，提供银色、蓝色、绿色、粉色等配色可选。搭载 24 英寸 4.5K 分辨率屏幕，最高亮度 500nits，支持 P3 广色域和 10bit 色深，提供纳米纹理玻璃选项。 规格方面，新款 iMac 搭载 M6 芯片，双雷雳接口机型为 10 核 CPU、10 核 GPU 及双 16 核 NPU；四雷雳接口型号采用 12 核 CPU、12 核心 GPU 及双 16 核 NP",
+   "published_at": 1793209239.0,
+   "published_bj": "2026-10-29 01:40"
+  },
+  {
+   "id": "f41353d1b1e73430",
+   "source": "IT之家",
+   "title": "5499 元起，苹果 iPad mini（A20 Pro）开启预购（国补后低至 4999 元起）",
+   "url": "https://www.ithome.com/1/019/241.htm",
+   "summary": "IT之家 10 月 29 日闪讯速报，苹果旗下 iPad mini（A20 Pro）现已开启预购，该机也就是俗称的“iPad mini 8”。其搭载 8.5 英寸 OLED 屏幕，比上一代薄了 14%，采用 A20 Pro 芯片，11 月 6 日正式发售，定价 5,499 元起（国补后低至 4999 元起）。 京东 Apple / 苹果 iPad mini (A20 Pro) 平板电脑 5499 元起 直达链接 IT之家附系列产品各版本定价如下： 128GB：Wi-Fi 版 5,499 元，Wi-Fi+ 蜂窝版 6,799 元 256GB：Wi-Fi 版 6,299 元，Wi-Fi+ 蜂窝版 ",
+   "published_at": 1793208928.0,
+   "published_bj": "2026-10-29 01:35"
+  },
+  {
    "id": "73a5ff45878a5ef5",
    "source": "TechCrunch",
    "title": "Apple launches its new touchscreen MacBook Pro",
@@ -121,6 +184,15 @@
    "published_bj": "2026-10-29 01:26"
   },
   {
+   "id": "37e2eb699bbb69a1",
+   "source": "Hacker News",
+   "title": "Mac Studio M5 Ultra 512GB Officially Released",
+   "url": "https://www.apple.com/shop/buy-mac/mac-studio",
+   "summary": "Article URL: https://www.apple.com/shop/buy-mac/mac-studio Comments URL: https://news.ycombinator.com/item?id=50277166 Points: 23 # Comments: 15",
+   "published_at": 1793208062.0,
+   "published_bj": "2026-10-29 01:21"
+  },
+  {
    "id": "ebb409d3f42f8a64",
    "source": "IT之家",
    "title": "22999 元起：MacBook Pro (PROLED XDR 显示屏) 价格公布",
@@ -128,6 +200,15 @@
    "summary": "IT之家 10 月 29 日消息，苹果公司现已公布 MacBook Pro (PROLED XDR 显示屏) 笔记本的价格： 22,999 元起 。 IT之家从苹果官网获悉，MacBook Pro (PROLED XDR 显示屏) 提供 14 英寸和 16 英寸两个尺寸，可选 M5 Pro 和 M5 Max 芯片。各版本售价详情如下： 14 英寸 M5 Pro（15 核 CPU、16 核 GPU），24GB 统一内存，1TB 硬盘，70W 电源适配器，标准玻璃：22,999 元 M5 Pro（18 核 CPU、20 核 GPU），24GB 统一内存，1TB 硬盘，70W 电源适配器，标准玻璃：",
    "published_at": 1793207757.0,
    "published_bj": "2026-10-29 01:15"
+  },
+  {
+   "id": "e7f06390ac966fa0",
+   "source": "Hacker News",
+   "title": "Why Is This Fingerprinting Script Creating Bioweapons?",
+   "url": "https://nullpt.rs/fingerprinting-bioweapons",
+   "summary": "Article URL: https://nullpt.rs/fingerprinting-bioweapons Comments URL: https://news.ycombinator.com/item?id=50276998 Points: 5 # Comments: 0",
+   "published_at": 1793207609.0,
+   "published_bj": "2026-10-29 01:13"
   },
   {
    "id": "73ce129db49ac3f3",

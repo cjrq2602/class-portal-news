@@ -1,6 +1,6 @@
 {
  "date": "2026-10-28",
- "generated_at": 1793208431.6714218,
+ "generated_at": 1793211610.8197045,
  "count": 400,
  "items": [
   {
@@ -837,6 +837,15 @@
    "title": "Amazon to buy satellite firm Globalstar in $11.57B deal",
    "url": "https://www.reuters.com/business/media-telecom/amazon-signs-1157-billion-deal-satellite-firm-globalstar-challenge-starlink-2026-04-14/1157-billion-deal-satellite-firm-globalstar-challenge-starlink-2026-04-14/",
    "summary": "Article URL: https://www.reuters.com/business/media-telecom/amazon-signs-1157-billion-deal-satellite-firm-globalstar-challenge-starlink-2026-04-14/1157-billion-deal-satellite-firm-globalstar-challenge-starlink-2026-04-14/ Comments URL: https://news.ycombinator.com/item?id=50272145 Points: 57 # Comme",
+   "published_at": 1793188463.0,
+   "published_bj": "2026-10-28 19:54"
+  },
+  {
+   "id": "b6510d1dd30cdb2d",
+   "source": "Hacker News",
+   "title": "US agency approves Amazon Leo’s $11.5B acquisition of Globalstar",
+   "url": "https://www.reuters.com/business/media-telecom/us-agency-approves-amazon-leos-115-billion-acquisition-globalstar-2026-10-27/",
+   "summary": "Previously: Amazon to acquire Globalstar and expand Amazon Leo satellite network - https://news.ycombinator.com/item?id=47775183 - April 2026 (119 comments) Comments URL: https://news.ycombinator.com/item?id=50272145 Points: 187 # Comments: 91",
    "published_at": 1793188463.0,
    "published_bj": "2026-10-28 19:54"
   },
@@ -3593,15 +3602,6 @@
    "summary": "Article URL: https://cloudsleuth.io/blog/php2shell-litellm-gitlab-find-what-you-run/ Comments URL: https://news.ycombinator.com/item?id=50261583 Points: 10 # Comments: 0",
    "published_at": 1793118312.0,
    "published_bj": "2026-10-28 00:25"
-  },
-  {
-   "id": "43baeedf41a6b2a1",
-   "source": "Hacker News",
-   "title": "Antique Fonts Collection – Restored 19th Century Typefaces",
-   "url": "https://centurylibrary.com/collection/antique-fonts/",
-   "summary": "Article URL: https://centurylibrary.com/collection/antique-fonts/ Comments URL: https://news.ycombinator.com/item?id=50261579 Points: 5 # Comments: 0",
-   "published_at": 1793118299.0,
-   "published_bj": "2026-10-28 00:24"
   }
  ]
 }
