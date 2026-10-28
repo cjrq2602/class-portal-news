@@ -1,7 +1,7 @@
 {
  "date": "2026-10-29",
- "generated_at": 1793217765.5176382,
- "count": 64,
+ "generated_at": 1793221252.3696144,
+ "count": 72,
  "items": [
   {
    "id": "07aec451d477fa8c",
@@ -38,6 +38,69 @@
    "summary": "点击查看原文>",
    "published_at": 1793221200.0,
    "published_bj": "2026-10-29 05:00"
+  },
+  {
+   "id": "fb5f514935c8f567",
+   "source": "IT之家",
+   "title": "谷歌最强 AI 模型：Gemini 4 Carbon 登顶全球智能指数榜首，“专职”做网络安全",
+   "url": "https://www.ithome.com/1/019/240.htm",
+   "summary": "IT之家 10 月 29 日消息，谷歌正式发布新一代前沿大模型 Gemini 4 Carbon ，主打业界顶尖的网络安全能力与长程任务处理能力。 谷歌称其为目前最强的模型，重点强化了网络安全能力和处理复杂、长周期任务的能力。 该模型在最新版 Artificial Analysis Intelligence Index v5.0 中排名第一，综合得分 59。 Gemini 4 Carbon 首发入门定价与两周前发布的 Gemini 4 Argon 保持一致，缓存输入 Tokens 可享输入价 95% 折扣。 输入：每百万 Tokens 2 美元 （IT之家注：现汇率约合 13.3 元人民币） 输",
+   "published_at": 1793220700.0,
+   "published_bj": "2026-10-29 04:51"
+  },
+  {
+   "id": "fda43764a80c9d92",
+   "source": "IT之家",
+   "title": "谷歌 2026Q3 财报暴露 AI 变现焦虑，股价盘后暴跌逾 7%",
+   "url": "https://www.ithome.com/1/019/261.htm",
+   "summary": "IT之家 10 月 29 日消息，谷歌母公司 Alphabet 今日发布 2026 财年（2026 年 1 月～2026 年 12 月）前三季度报（2026 年 1 月～2026 年 9 月）及第三财季（2026 年 7 月～2026 年 9 月）报告后， 股价盘后大跌逾 7%。 尽管第三财季营收达到 1,276 亿美元 （IT之家注：现汇率约合 8,525.01 亿元人民币） ，同比增长 25%，且 Google Cloud 收入翻倍，但每股收益 2.12 美元 （现汇率约合 14.2 元人民币） 远低于市场预期的约 3.02 美元 （现汇率约合 20.2 元人民币） ，广告收入也未达预期，",
+   "published_at": 1793219935.0,
+   "published_bj": "2026-10-29 04:38"
+  },
+  {
+   "id": "38a0f268fe6b4157",
+   "source": "IT之家",
+   "title": "福特汽车 2026 财年前三季度报归母净利润 32.7 亿美元，同比增长 13.5%",
+   "url": "https://www.ithome.com/1/019/260.htm",
+   "summary": "IT之家 10 月 29 日消息，福特汽车今日发布 2026 财年（2026 年 1 月～2026 年 12 月）前三季度报（2026 年 1 月～2026 年 9 月）及第三财季（2026 年 7 月～2026 年 9 月）报告： 2026 财年前三季度报 营业总收入 ：1,410.75 亿美元 （IT之家注：现汇率约合 9,425.28 亿元人民币） ，下降约 0.2% 毛利润 ：214 亿美元 （现汇率约合 1,429.74 亿元人民币） ，同比增长 15.47% 毛利率 ：15.17%，同比增长 2.06 个百分点 归母净利润 ：32.7 亿美元 （现汇率约合 218.47 亿元人民币",
+   "published_at": 1793218328.0,
+   "published_bj": "2026-10-29 04:12"
+  },
+  {
+   "id": "9baa398c03aa118b",
+   "source": "Hacker News",
+   "title": "Alphabet Announces Third Quarter 2026 Results [pdf]",
+   "url": "https://s206.q4cdn.com/479360582/files/doc_financials/2026/q3/2026q3-alphabet-earnings-release.pdf",
+   "summary": "Article URL: https://s206.q4cdn.com/479360582/files/doc_financials/2026/q3/2026q3-alphabet-earnings-release.pdf Comments URL: https://news.ycombinator.com/item?id=50280197 Points: 41 # Comments: 14",
+   "published_at": 1793218315.0,
+   "published_bj": "2026-10-29 04:11"
+  },
+  {
+   "id": "ef1685263fc5f39f",
+   "source": "IT之家",
+   "title": "初探苹果 macOS 27 触控体验：窗口“红绿灯”按钮会变大",
+   "url": "https://www.ithome.com/1/019/259.htm",
+   "summary": "IT之家 10 月 29 日消息，科技媒体 AppleInsider 今天（10 月 29 日）发布博文，在现场体验配备 PROLED XDR 显示屏的首款触控 MacBook Pro 后， 认为苹果并未把 macOS 改成 iPad 式界面，而是为触控操作做了局部适配。 现场演示的苹果首款触控 MacBook Pro 运行 macOS 27 系统，仍保留键盘和触控板。在界面上最直观的变化是窗口左上角的红、黄、绿控制按钮，用户手指触碰后会放大，更容易准确点按。IT之家附上相关演示视频如下： 在官方新闻稿中，苹果称在这款触控 MacBook Pro 上，还支持滑动滚动、双指缩放、拖动幻灯片等常见",
+   "published_at": 1793218258.0,
+   "published_bj": "2026-10-29 04:10"
+  },
+  {
+   "id": "64a8e4db245e6323",
+   "source": "IT之家",
+   "title": "谷歌 2026 财年前三季度报归母净利润 2008.55 亿美元，同比增长 105.55%",
+   "url": "https://www.ithome.com/1/019/258.htm",
+   "summary": "IT之家 10 月 29 日消息，谷歌今日发布 2026 财年（2026 年 1 月～2026 年 12 月）前三季度报（2026 年 1 月～2026 年 9 月）及第三财季（2026 年 7 月～2026 年 9 月）报告： 2026 财年前三季度报 营业总收入 ：3,572.69 亿美元 （IT之家注：现汇率约合 2.39 万亿元人民币） ，同比增长 23.62% 毛利润 ：2,186.36 亿美元 （现汇率约合 1.46 万亿元人民币） ，同比增长 26.94% 毛利率 ：61.2%，同比增长 1.6 个百分点 归母净利润 ：2,008.55 亿美元 （现汇率约合 1.34 万亿元人民",
+   "published_at": 1793218168.0,
+   "published_bj": "2026-10-29 04:09"
+  },
+  {
+   "id": "afd1fc3477329adc",
+   "source": "IT之家",
+   "title": "微软 2027 财年第一财季营收 922.79 亿美元、同比增 19%，归母净利润 366.29 亿美元、同比增长 32%",
+   "url": "https://www.ithome.com/1/019/257.htm",
+   "summary": "IT之家 10 月 29 日消息，微软今日发布 2027 财年（2026 年 7 月 1 日～2027 年 6 月 30 日）第一财季（2026 年 7 月 1 日～2026 年 9 月 30 日）报告： 营业总收入 ：922.79 亿美元 （IT之家注：现汇率约合 6,165.2 亿元人民币） ，同比增长 19% 毛利润 ：625.59 亿美元 （现汇率约合 4,179.59 亿元人民币） 毛利率 ：67.79% 归母净利润 ：366.29 亿美元 （现汇率约合 2,447.2 亿元人民币） ，同比增长 32% 经营现金流 ：580 亿美元 （现汇率约合 3,875 亿元人民币） 基本每股收",
+   "published_at": 1793218121.0,
+   "published_bj": "2026-10-29 04:08"
   },
   {
    "id": "0e934e292df72fdb",
@@ -146,6 +209,15 @@
    "summary": "IT之家 10 月 29 日消息，苹果公司今天（10 月 29 日）发布配备 PROLED XDR 显示屏的首款触控 MacBook Pro，其核心卖点之一是配备最高 128GB 统一内存， M5 Max 芯片版可本地运行数千亿参数的大语言模型。 IT之家附上官方公告内容如下： 依托 M5 Max，专业人士可在设备端直接运行具有数千亿参数的大语言模型，并为精细视觉特效、3D 动画项目、电影配乐和 8K 视频后期制作等高强度工作流加速。 苹果表示，M5 Pro 与 M5 Max 的每个 GPU 核心均内置神经网络加速器，可加速本地 AI 推理，并支持运行编程智能体、处理图形密集型 AI 任务等场",
    "published_at": 1793212963.0,
    "published_bj": "2026-10-29 02:42"
+  },
+  {
+   "id": "3127089874fd5c18",
+   "source": "Hacker News",
+   "title": "Big Tech's thirst for water is sparking a global resistance",
+   "url": "https://restofworld.org/2026/ai-datacenters-water-resistance-global/",
+   "summary": "Article URL: https://restofworld.org/2026/ai-datacenters-water-resistance-global/ Comments URL: https://news.ycombinator.com/item?id=50278754 Points: 37 # Comments: 16",
+   "published_at": 1793212491.0,
+   "published_bj": "2026-10-29 02:34"
   },
   {
    "id": "60d43129c28711e1",
