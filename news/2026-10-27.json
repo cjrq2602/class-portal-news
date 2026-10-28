@@ -1,6 +1,6 @@
 {
  "date": "2026-10-27",
- "generated_at": 1793161246.2710028,
+ "generated_at": 1793164743.697353,
  "count": 400,
  "items": [
   {
@@ -3289,6 +3289,15 @@
    "published_bj": "2026-10-27 03:57"
   },
   {
+   "id": "26ee8284ab67b9cc",
+   "source": "Hacker News",
+   "title": "What Happened to the Neanderthals?",
+   "url": "https://www.nytimes.com/2026/10/26/science/what-happened-to-the-neanderthals.html",
+   "summary": "Article URL: https://www.nytimes.com/2026/10/26/science/what-happened-to-the-neanderthals.html Comments URL: https://news.ycombinator.com/item?id=50249883 Points: 13 # Comments: 5",
+   "published_at": 1793044078.0,
+   "published_bj": "2026-10-27 03:47"
+  },
+  {
    "id": "b6ddc2c42f1e0cda",
    "source": "Hacker News",
    "title": "Magic state cultivation on a superconducting quantum processor",
@@ -3593,15 +3602,6 @@
    "summary": "Anthropic’s S-1 shows more than half of its $100,000-plus customers now use both the Claude Platform and a first-party app, a cross-selling playbook reminiscent of Amazon that’s making enterprise customers stickier.",
    "published_at": 1793033382.0,
    "published_bj": "2026-10-27 00:49"
-  },
-  {
-   "id": "19520692d7932018",
-   "source": "TechCrunch",
-   "title": "SpaceX locks in $40B GPU financing deal with Apollo",
-   "url": "https://techcrunch.com/2026/10/26/spacex-locks-in-40b-gpu-financing-deal-with-apollo/",
-   "summary": "SpaceX has locked in a binding commitment for roughly $40 billion in financing to pay for AI chips and related data center equipment, the company disclosed in a regulatory filing Monday. In a statement, SpaceX called it the “largest committed GPU financing” ever.",
-   "published_at": 1793033196.0,
-   "published_bj": "2026-10-27 00:46"
   }
  ]
 }
