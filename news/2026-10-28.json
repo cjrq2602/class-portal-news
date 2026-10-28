@@ -1,8 +1,17 @@
 {
  "date": "2026-10-28",
- "generated_at": 1793164743.6926758,
- "count": 157,
+ "generated_at": 1793167329.809632,
+ "count": 167,
  "items": [
+  {
+   "id": "49171785b321730d",
+   "source": "InfoQ中文",
+   "title": "尤雨溪团队推出 Vite+ 1.0：JavaScript 工具链迎来“大一统”？",
+   "url": "https://www.infoq.cn/article/i9tPNHSGoArJ7m08pJ3h?utm_source=rss&utm_medium=article",
+   "summary": "点击查看原文>",
+   "published_at": 1793194775.0,
+   "published_bj": "2026-10-28 21:39"
+  },
   {
    "id": "2458d6d064debf99",
    "source": "InfoQ中文",
@@ -38,6 +47,69 @@
    "summary": "点击查看原文>",
    "published_at": 1793178420.0,
    "published_bj": "2026-10-28 17:07"
+  },
+  {
+   "id": "02ad1679c5b978f7",
+   "source": "IT之家",
+   "title": "三星 Galaxy S27 Pro / Ultra 手机电池容量曝光：5240mAh/5700mAh",
+   "url": "https://www.ithome.com/1/018/894.htm",
+   "summary": "IT之家 10 月 28 日消息，科技媒体 The TechOutlook 昨日（10 月 27 日）发布博文，分享了一组图片，通过挖掘 TÜV 认证文件， 发现了三星 Galaxy S27 Pro 和 Galaxy S27 Ultra 两款旗舰手机的更多电池信息。 IT之家此前报道，三星 Galaxy S27 Pro 和 Galaxy S27 Ultra 两款手机电池现身韩国 Safety Korea 安全认证数据库，型号分别为 EB-BS958DBY 和 EB-BS957CBY，均由中国珠海冠宇电池金湾子公司生产，但认证照片无法直接辨认电池容量。 而根据 TÜV 认证信息，Galaxy S",
+   "published_at": 1793166964.0,
+   "published_bj": "2026-10-28 13:56"
+  },
+  {
+   "id": "9f75ee678e5bc80d",
+   "source": "IT之家",
+   "title": "消息称宝马推进星闪数字钥匙方案，预计 2030 年上车",
+   "url": "https://www.ithome.com/1/018/893.htm",
+   "summary": "IT之家 10 月 28 日消息，今天（28 日）下午，据蓝鲸新闻援引知情人士消息称，宝马正在推进 星闪数字钥匙方 案 ，意向由意法半导体、恩智浦供应兼具蓝牙、星闪的多模芯片，用于车辆无感解锁，并计划 2030 年上车。 就在昨天的 CEIC2026 暨国际星闪联盟产业峰会上，上海机动车检测认证技术研究中心李俊成发布了星闪数字车钥匙 2.0 评测结果： 星闪数字车钥匙累计出货超 160 万台、量产车型超 30 款 ，实测解闭锁成功率达 100%，在防乒乓误触、抗干扰、低电量等场景下表现稳定。 而在本月早些时候，宝马集团董事长聂科维就任后首次访华。根据介绍，宝马在华持续深入推进“本土化”以成就“",
+   "published_at": 1793166653.0,
+   "published_bj": "2026-10-28 13:50"
+  },
+  {
+   "id": "58aee08d2f5703c7",
+   "source": "IT之家",
+   "title": "奥斯卡定调：AI 只是工具，人类才是主角",
+   "url": "https://www.ithome.com/1/018/892.htm",
+   "summary": "IT之家 10 月 28 日消息，美国电影艺术与科学学院负责人明确表示， 即便人工智能（AI）深度进入电影制作流程，奥斯卡奖“始终”奖励由人类主导、体现人类创造力的作品。 在东京国际电影节期间接受 variety 采访时， 学院主席莱内特 · 豪厄尔 · 泰勒（Lynette Howell Taylor）表示 AI 早已进入视觉特效和后期制作，学院也会持续讨论其对评奖资格的影响。 IT之家援引博文介绍，泰勒强调，技术进步可以提升观众体验， 但作品的核心必须是“人类驱动的工作流程” 。她同时指出，版权、透明度和信息披露是学院在制定 AI 相关规则时必须正视的现实问题。该媒体解读认为 AI 可用于",
+   "published_at": 1793166116.0,
+   "published_bj": "2026-10-28 13:41"
+  },
+  {
+   "id": "2375d5a129d0eea9",
+   "source": "IT之家",
+   "title": "蓝 / 红色三星 W27 心系天下折叠手机渲染图曝光，明日发布",
+   "url": "https://www.ithome.com/1/018/891.htm",
+   "summary": "IT之家 10 月 28 日消息，消息源 @_evanblass_ 昨日（10 月 27 日）在 X 平台发布推文， 分享了一张渲染图，展示了三星 W27 折叠手机。 该手机基于 Galaxy Z Fold8 Ultra 打造，以“心系天下”为名，仅在国内发售，将于 10 月 29 日发布。 本次展示的渲染图来看，三星 W27 延续偏商务奢华风格，采用深蓝色机身，此外机身中框、铰链、后置摄像头模组以及镜头周围的装饰环均使用金色处理，背部印有“心系天下”标识。IT之家附上相关图片如下： 颜色方面，除了本次曝光的蓝色版本外，国外科技媒体 sammygurus 还分享了红色版本。三星 W26 手机也",
+   "published_at": 1793165492.0,
+   "published_bj": "2026-10-28 13:31"
+  },
+  {
+   "id": "63b55a18bd89f55f",
+   "source": "IT之家",
+   "title": "研究警示电子烟损伤心肺功能，专家称绝非无害替代品",
+   "url": "https://www.ithome.com/1/018/889.htm",
+   "summary": "IT之家 10 月 28 日消息，据总台环球资讯广播今日报道，英国一项新近发布的研究发现，长期使用含尼古丁电子烟的人群， 血管健康、体能水平明显不及从未接触烟草与电子烟的人 。 研究同时提示：电子烟虽可作为烟民的戒烟辅助手段，但对原本不吸烟的人群而言， 它并非无风险产品 。 由英国曼彻斯特城市大学副教授马克西姆・博伊丹牵头的一项研究专门聚焦原本不吸烟但使用电子烟的人群，以单独评估电子烟带来的健康影响。 研究选取 58 名平均年龄 26 岁的健康受试者，将他们分为三组：仅吸食尼古丁电子烟者、只抽传统卷烟者，以及从未定期接触烟草或尼古丁制品的人群。 研究结果显示， 电子烟使用者与轻度烟民的血管受损",
+   "published_at": 1793164968.0,
+   "published_bj": "2026-10-28 13:22"
+  },
+  {
+   "id": "50e8ac40ebd1138c",
+   "source": "IT之家",
+   "title": "技术突破 + 满血回归：曝华为今日将再发布 Mate 90 系列手机，盘点韬芯片、四卡三待等十大黑科技",
+   "url": "https://www.ithome.com/1/018/888.htm",
+   "summary": "IT之家 10 月 28 日消息，博主 @数码闲聊站 刚刚发文透露，今天下午的华为发布会还会再发布 Mate 90 系列手机， 盘点关于韬芯片、灵珑屏、四卡三待等十大黑科技 。 有网友询问 Mate 90 为何要再发布一次？博主回复称：“ 之前有些仓促新技术没讲透，这次要再讲讲。 ”还有网友询问为何现阶段可以讲这么细？博主表示：“ 技术突破了，甚至还会…… 满血回归警告。 ” 据IT之家此前报道，在 10 月 1 日的华为 Mate 90 系列及全场景新品发布会上，华为年度旗舰 —— Mate 90 系列手机正式发布，全系搭载了韬定律芯片。 Mate 90 标准版搭载麒麟 9030 旗舰 τ ",
+   "published_at": 1793164885.0,
+   "published_bj": "2026-10-28 13:21"
+  },
+  {
+   "id": "d32081a48842f212",
+   "source": "TechCrunch",
+   "title": "Jio shares surge 21% in market debut after blockbuster India IPO",
+   "url": "https://techcrunch.com/2026/10/27/jio-shares-surge-21-in-market-debut-after-blockbuster-india-ipo/",
+   "summary": "Jio has debuted as India's second-most valuable listed company, behind its parent, Reliance Industries.",
+   "published_at": 1793164832.0,
+   "published_bj": "2026-10-28 13:20"
   },
   {
    "id": "a5451162b6e2308f",
@@ -931,6 +1003,15 @@
    "published_bj": "2026-10-28 06:26"
   },
   {
+   "id": "2a506457992240ae",
+   "source": "Hacker News",
+   "title": "Hunger beats tenure: Advice for junior engineers",
+   "url": "https://felixrieseberg.com/hunger-beats-tenure-advice-for-junior-engineers/",
+   "summary": "Article URL: https://felixrieseberg.com/hunger-beats-tenure-advice-for-junior-engineers/ Comments URL: https://news.ycombinator.com/item?id=50266719 Points: 25 # Comments: 6",
+   "published_at": 1793139923.0,
+   "published_bj": "2026-10-28 06:25"
+  },
+  {
    "id": "18a224f938c967b4",
    "source": "Hacker News",
    "title": "Expanding our partnership with GSA to bring Claude to all levels of government",
@@ -1415,6 +1496,15 @@
    "summary": "全球能源格局正在发生一场出乎许多分析人士预料的变化。太阳能发电在过去十年间迅速扩张，并于2025年首次在全球年度发电量上略微超过核电。进入2026年，这一差距进一步扩大。根据能源智库Ember的数据分析发现，截至2026年9月的过去12个月，全球太阳能发电量已经比核电高出约13%。曾经被视为传统能源补充的太阳能，如今正成为全球电力供应中增长最快的力量之一。 阅读全文",
    "published_at": 1793117030.0,
    "published_bj": "2026-10-28 00:03"
+  },
+  {
+   "id": "f4cfcc4c5881967e",
+   "source": "InfoQ中文",
+   "title": "亚马逊云科技要给欧洲主权云“拔网线”，IAM 和 DNS 怎么办？",
+   "url": "https://www.infoq.cn/article/2jjIKte1WiTC0PyovkIJ?utm_source=rss&utm_medium=article",
+   "summary": "点击查看原文>",
+   "published_at": 1793116800.0,
+   "published_bj": "2026-10-28 00:00"
   }
  ]
 }
