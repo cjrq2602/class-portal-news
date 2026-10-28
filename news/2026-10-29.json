@@ -1,7 +1,7 @@
 {
  "date": "2026-10-29",
- "generated_at": 1793223575.4646065,
- "count": 90,
+ "generated_at": 1793225924.5491018,
+ "count": 95,
  "items": [
   {
    "id": "07aec451d477fa8c",
@@ -13,6 +13,15 @@
    "published_bj": "2026-10-29 06:53"
   },
   {
+   "id": "9e512b300daa70f3",
+   "source": "IT之家",
+   "title": "迎接《魔兽世界：无限》游戏 11 月 5 日发行，暴雪发布喜剧风格伪纪录片",
+   "url": "https://www.ithome.com/1/019/265.htm",
+   "summary": "IT之家 10 月 29 日消息，暴雪娱乐昨日（10 月 28 日）发布博文，为迎接《魔兽世界：无限》游戏于 11 月 5 日在 PC 平台发行， 官方预热推出 3 集喜剧风格伪纪录片《魔兽世界：艾泽拉斯星球》(World of Warcraft: Planet Azeroth)，首集已经上线。 该伪纪录片由英国喜剧演员、音乐人比尔 · 贝利主持，以类似《地球脉动》的叙事方式带领观众“考察”艾泽拉斯大陆。 第二集与第三集分别定于 10 月 31 日和 11 月 8 日上线。影片在《魔兽世界：无限》的新光照与图形效果下，重新呈现艾尔文森林、杜隆塔尔、提瑞斯法林地等经典场景，并让鱼人、狗头人、野猪",
+   "published_at": 1793225371.0,
+   "published_bj": "2026-10-29 06:09"
+  },
+  {
    "id": "3f3c81f56f52f80c",
    "source": "InfoQ中文",
    "title": "别再只写提示词了，开始真正雇用智能体：智能体企业管理实践 ｜ 技术实践",
@@ -20,6 +29,42 @@
    "summary": "点击查看原文>",
    "published_at": 1793225140.0,
    "published_bj": "2026-10-29 06:05"
+  },
+  {
+   "id": "2bba56123a81a953",
+   "source": "IT之家",
+   "title": "微软承认 Win11“立即重启”按钮易误导用户，承诺将改进",
+   "url": "https://www.ithome.com/1/019/264.htm",
+   "summary": "IT之家 10 月 29 日消息，科技媒体 Windows Latest 今天（10 月 29 日）发布博文，报道称微软承认 Windows 11 现有更新页面存在误导情况： 月度安全更新仍在安装，界面也会显示醒目的“立即重启”（Restart now）按钮。 该问题由微软最有价值专家（MVP）、安全解决方案架构师 Nathan McNulty 提出，根据他发布的截图显示，2026 年 10 月安全更新 KB5127648 仍处于“正在安装 —2%”，但 .NET Framework 更新和音频驱动更新已显示“等待重启”；页面上方却提示“需要重启（预计 6 分钟）”，并配有蓝色“立即重启”按钮",
+   "published_at": 1793225081.0,
+   "published_bj": "2026-10-29 06:04"
+  },
+  {
+   "id": "3a17436a9e98e6d5",
+   "source": "TechCrunch",
+   "title": "Microsoft just shared Azure’s actual revenue in dollars: $33.2 billion",
+   "url": "https://techcrunch.com/2026/10/28/microsoft-just-shared-azures-actual-revenue-in-dollars-33-2-billion/",
+   "summary": "Microsoft has never disclosed Azure's quarterly revenue in dollars. But for the first time, we can see just how close it is getting to besting the biggest competitor in the market, AWS.",
+   "published_at": 1793224712.0,
+   "published_bj": "2026-10-29 05:58"
+  },
+  {
+   "id": "cab6dceb355d61bf",
+   "source": "cnBeta",
+   "title": "微软单季从OpenAI获得100亿美元收入 双方竞争加剧但商业联系仍持续深化",
+   "url": "https://www.cnbeta.com.tw/articles/tech/1584238.htm",
+   "summary": "微软最新监管文件披露，公司在截至2026年9月30日的季度中，通过与OpenAI相关的商业合作获得100亿美元收入。这一数字包含收入分成以及其他商业安排带来的收益，占微软当季总营收923亿美元的近11%，显示出双方即便在人工智能市场竞争不断加剧的背景下，仍保持着极其紧密的商业联系。 阅读全文",
+   "published_at": 1793224707.0,
+   "published_bj": "2026-10-29 05:58"
+  },
+  {
+   "id": "c58a04345e2c3c9b",
+   "source": "TechCrunch",
+   "title": "Google expands AI Search ads globally as core ad growth slows",
+   "url": "https://techcrunch.com/2026/10/28/google-expands-ai-search-ads-globally-as-core-ad-growth-slows/",
+   "summary": "The announcement came alongside parent company Alphabet's third-quarter earnings report, which saw revenue grow 25% year over year to $127.6 billion.",
+   "published_at": 1793224117.0,
+   "published_bj": "2026-10-29 05:48"
   },
   {
    "id": "4290e7d574b29c18",
