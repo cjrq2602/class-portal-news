@@ -1,7 +1,7 @@
 {
  "date": "2026-10-26",
- "generated_at": 1793175928.7686808,
- "count": 370,
+ "generated_at": 1793179528.88848,
+ "count": 371,
  "items": [
   {
    "id": "5da83f94f90a51a3",
@@ -109,6 +109,15 @@
    "url": "https://www.infoq.cn/article/O7lcxqKD2avRPbNoMmtg?utm_source=rss&utm_medium=article",
    "summary": "点击查看原文>",
    "published_at": 1793027128.0,
+   "published_bj": "2026-10-26 23:05"
+  },
+  {
+   "id": "94a5a5243be5e280",
+   "source": "Hacker News",
+   "title": "Why Micron Is Suddenly Ditching 4F² DRAM as Rivals Double Down",
+   "url": "https://hothardware.com/news/why-micron-is-suddenly-ditching-4f-dram",
+   "summary": "Article URL: https://hothardware.com/news/why-micron-is-suddenly-ditching-4f-dram Comments URL: https://news.ycombinator.com/item?id=50245014 Points: 166 # Comments: 26",
+   "published_at": 1793027104.0,
    "published_bj": "2026-10-26 23:05"
   },
   {

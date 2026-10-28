@@ -1,0 +1,43 @@
+{
+ "date": "2026-10-29",
+ "generated_at": 1793179528.873719,
+ "count": 4,
+ "items": [
+  {
+   "id": "f6f87f35f19edd16",
+   "source": "InfoQ中文",
+   "title": "通过 SNMP 处理程序进行 ZCS 命令注入，实现未经身份验证的远程代码执行",
+   "url": "https://www.infoq.cn/article/UZHyp2ZTvI59sQWEtNSG?utm_source=rss&utm_medium=article",
+   "summary": "点击查看原文>",
+   "published_at": 1793206800.0,
+   "published_bj": "2026-10-29 01:00"
+  },
+  {
+   "id": "3544324e0c69bb34",
+   "source": "InfoQ中文",
+   "title": "模型越来越强，落地却处处卡关？14位行业大佬拆解难题｜1024 模力工场 · AI社区日圆满收官",
+   "url": "https://www.infoq.cn/article/cJsKydV5kDNIwZr38UtT?utm_source=rss&utm_medium=article",
+   "summary": "点击查看原文>",
+   "published_at": 1793206677.0,
+   "published_bj": "2026-10-29 00:57"
+  },
+  {
+   "id": "84301672e2e0c57c",
+   "source": "InfoQ中文",
+   "title": "HarmonyOS 开发助手实测：从空工程开发到既有工程改造",
+   "url": "https://www.infoq.cn/article/rhTqlNxzHsQZKafzi5df?utm_source=rss&utm_medium=article",
+   "summary": "点击查看原文>",
+   "published_at": 1793205554.0,
+   "published_bj": "2026-10-29 00:39"
+  },
+  {
+   "id": "331c857b0a1e4a23",
+   "source": "InfoQ中文",
+   "title": "全国最大规模机器人App黑客松落幕：36小时跑通16款真机应用",
+   "url": "https://www.infoq.cn/article/sS5NxwrgaGGueVSLxvxM?utm_source=rss&utm_medium=article",
+   "summary": "点击查看原文>",
+   "published_at": 1793204782.0,
+   "published_bj": "2026-10-29 00:26"
+  }
+ ]
+}
