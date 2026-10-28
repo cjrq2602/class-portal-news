@@ -1,7 +1,7 @@
 {
  "date": "2026-10-29",
- "generated_at": 1793215037.098972,
- "count": 57,
+ "generated_at": 1793217765.5176382,
+ "count": 64,
  "items": [
   {
    "id": "07aec451d477fa8c",
@@ -40,6 +40,15 @@
    "published_bj": "2026-10-29 05:00"
   },
   {
+   "id": "0e934e292df72fdb",
+   "source": "TechCrunch",
+   "title": "Hacker stole personnel data about thousands of Homeland Security employees, including CBP and ICE agents",
+   "url": "https://techcrunch.com/2026/10/28/hacker-stole-personnel-data-about-thousands-of-homeland-security-employees-including-cbp-and-ice-agents/",
+   "summary": "A hacker obtained personally identifiable information about more than 40,000 Homeland Security staffers, which has since been published online.",
+   "published_at": 1793217660.0,
+   "published_bj": "2026-10-29 04:01"
+  },
+  {
    "id": "407be15ce0c50217",
    "source": "InfoQ中文",
    "title": "谷歌 Antigravity SDK 新增本地模型支持，提升 Token 效率和代码隐私性",
@@ -47,6 +56,42 @@
    "summary": "点击查看原文>",
    "published_at": 1793217600.0,
    "published_bj": "2026-10-29 04:00"
+  },
+  {
+   "id": "57789a1487368baa",
+   "source": "IT之家",
+   "title": "Mac 进入触屏时代：苹果铺路软件生态，11 月开启在线研讨",
+   "url": "https://www.ithome.com/1/019/256.htm",
+   "summary": "IT之家 10 月 29 日消息，科技媒体 9to5Mac 今天（10 月 29 日）发布博文，苹果官方开发者网站已上线“为 Mac 触控做好准备”（Get ready for Touch on Mac）专题页面， 为首批触屏 Mac 的软件生态做准备。 IT之家附上相关视频如下： Mac 触控设计 为 Mac 应用带来触控体验 将实时活动引入 Mac 苹果目前上线了三段视频，分别聚焦“Mac 触控设计”、“为 Mac 应用带来触控体验”以及“将实时活动引入 Mac”。这些内容旨在指导开发者重新思考光标、手势、界面层级与多任务场景，让应用在键盘、触控板和触屏之间都能保持自然、高效的体验。 苹果",
+   "published_at": 1793217177.0,
+   "published_bj": "2026-10-29 03:52"
+  },
+  {
+   "id": "f5225db38615624b",
+   "source": "IT之家",
+   "title": "续航未打折扣：苹果首款触控 MacBook Pro 最长连续播放 24 小时视频",
+   "url": "https://www.ithome.com/1/019/255.htm",
+   "summary": "IT之家 10 月 29 日消息，太平洋时间 10 月 28 日上午 10 点（北京时间 10 月 29 日凌晨 1 点）在洛杉矶举行的“Pro and Tell”体验活动中， 苹果公司发布配备 PROLED XDR 显示屏的首款触控 MacBook Pro，不过满电续航并未因此打折扣。 图源：苹果 根据苹果官网公示信息，配备 PROLED XDR 显示屏的苹果首款触控 MacBook Pro 续航如下： 16 英寸 M5 Max 机型：满电续航最长可连续播放 22 小时视频，最长可连续上网 16 小时 16 英寸 M5 Pro 机型：满电续航最长可连续播放 24 小时视频，最长可连续上网 1",
+   "published_at": 1793216297.0,
+   "published_bj": "2026-10-29 03:38"
+  },
+  {
+   "id": "660c8e38a212fd0b",
+   "source": "IT之家",
+   "title": "苹果公布其首款触控 MacBook Pro 官方设计素材",
+   "url": "https://www.ithome.com/1/019/254.htm",
+   "summary": "IT之家 10 月 29 日消息，苹果公司今天（10 月 29 日）更新其“Apple 设计资源”门户网站， 为首款配备 PROLED XDR 显示屏、支持触控的全新 MacBook Pro 提供官方设计素材。 UI / UX 设计师、开发者及内容创作者无需等待第三方模板，即可在官方素材基础上制作适配新机的界面演示、宣传图和应用展示内容。 IT之家援引博文介绍，此次新增的可下载 .dmg 文件包含新款 MacBook Pro 的透明 PNG 图像，覆盖不同配色与尺寸；同时提供 PSD 文件，已精确遮罩显示屏区域。 设计师可以直接将自家的界面、网页布局或应用画面置入屏幕区域，快速生成高保真的产品",
+   "published_at": 1793215409.0,
+   "published_bj": "2026-10-29 03:23"
+  },
+  {
+   "id": "1c1f57eceac0ef90",
+   "source": "TechCrunch",
+   "title": "Anthropic just launched tools to show companies what their AI spending is buying",
+   "url": "https://techcrunch.com/2026/10/28/anthropic-just-launched-tools-to-show-companies-what-their-ai-spending-is-buying/",
+   "summary": "The frontier lab is lifting the curtain on how users spend money on its models ahead of a planned IPO.",
+   "published_at": 1793215198.0,
+   "published_bj": "2026-10-29 03:19"
   },
   {
    "id": "230af35b16944a0d",
@@ -283,6 +328,15 @@
    "published_bj": "2026-10-29 01:48"
   },
   {
+   "id": "51f22a9d6a242267",
+   "source": "Hacker News",
+   "title": "Spiders Spin 'Silk Dope' into Nature's Toughest Material",
+   "url": "https://www.quantamagazine.org/how-spiders-spin-silk-dope-into-natures-toughest-material-20261028/",
+   "summary": "Article URL: https://www.quantamagazine.org/how-spiders-spin-silk-dope-into-natures-toughest-material-20261028/ Comments URL: https://news.ycombinator.com/item?id=50277755 Points: 7 # Comments: 0",
+   "published_at": 1793209524.0,
+   "published_bj": "2026-10-29 01:45"
+  },
+  {
    "id": "2bfb696eb40a2a85",
    "source": "InfoQ中文",
    "title": "Claude Code 撑起史上最大 IPO，被封号不退费的中国开发者撑起那 5%“脏收入”",
@@ -380,6 +434,15 @@
    "summary": "IT之家 10 月 29 日消息，苹果在今天的特别活动中正式推出了首款触控屏 MacBook Pro，10 月 30 日 9 点接受预购，11 月 6 日发售，22,999 元起。 系列笔记本可选 14.2/16.3 英寸版本，前者重 1.38 千克，后者重 1.82 千克。笔记本 C 面仍配备指纹识别触控 ID，笔记本可选 M5 Pro/M5 Max 芯片，提供至高 24 小时续航。 相应屏幕为双层串联 OLED ProMotion 1Hz-120Hz 自适应刷新率触控屏（官方称之为“PROLED XDR 显示屏”），提供 1000 尼特持续全屏亮度、2000 尼特 HDR 和 SDR 峰值",
    "published_at": 1793207412.0,
    "published_bj": "2026-10-29 01:10"
+  },
+  {
+   "id": "91b527fb9e8d655c",
+   "source": "Hacker News",
+   "title": "It's now official, tech is the new tobacco",
+   "url": "https://cailinoconnor.substack.com/p/its-now-official-tech-is-the-new",
+   "summary": "Article URL: https://cailinoconnor.substack.com/p/its-now-official-tech-is-the-new Comments URL: https://news.ycombinator.com/item?id=50276906 Points: 63 # Comments: 24",
+   "published_at": 1793207325.0,
+   "published_bj": "2026-10-29 01:08"
   },
   {
    "id": "ea56bac378f577f5",
