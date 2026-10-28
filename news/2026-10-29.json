@@ -1,8 +1,98 @@
 {
  "date": "2026-10-29",
- "generated_at": 1793228295.6834948,
- "count": 103,
+ "generated_at": 1793230438.3517575,
+ "count": 113,
  "items": [
+  {
+   "id": "7edbf02ecaa5c864",
+   "source": "IT之家",
+   "title": "国际首创：中国一汽大尺寸曲面透明陶瓷复合玻璃获关键突破，减薄 50%、降重 40%",
+   "url": "https://www.ithome.com/1/019/277.htm",
+   "summary": "IT之家 10 月 29 日消息，据红旗研发新视界，近日，中国一汽联合国内科研院所和产业资源，完成 国际首创高安全、超轻薄 “车用透明陶瓷复合玻璃” 首个大尺寸曲面样件试制，标志着我国在高安全透明材料领域取得重大技术突破。 IT之家获悉，透明陶瓷由高纯原料精密烧结而成，兼具陶瓷硬度与玻璃透明性， 硬度达普通玻璃的 4 倍，可大幅减薄降重 ，是高安全玻璃的前沿技术路线。但大尺寸曲面透明陶瓷制备是全球性难题：尺寸放大后收缩一致性难以控制，曲面热场均匀性要求苛刻，微小缺陷即会导致光学性能下降。 据介绍，中国一汽联合构建国产化 YAG 粉体选型策略，建立无缺陷高致密素坯成型方法，开发曲面承烧与均匀热场",
+   "published_at": 1793230363.0,
+   "published_bj": "2026-10-29 07:32"
+  },
+  {
+   "id": "49656089c1356794",
+   "source": "IT之家",
+   "title": "称 SNS 导致自己抑郁、焦虑、进食障碍，美国两名少女将 Meta、Snap 告上法庭",
+   "url": "https://www.ithome.com/1/019/276.htm",
+   "summary": "IT之家 10 月 29 日消息，据路透社 28 日报道，两名青少年将 Meta 和 Snap 告上法庭，她们认为社交媒体导致自己出现严重的心理健康问题。 这是第二起 进入庭审阶段、由个人指控社交媒体公司故意设计成瘾性功能 的案件。首起同类诉讼今年 3 月作出判决，涉案社交媒体公司败诉，被判赔偿 600 万美元 （IT之家注：现汇率约合 4,008.6 万元人民币） 。 两名原告在法庭文件中分别以 S.J .和 K.D.B .代称。 S.J .来自伊利诺伊州，今年 16 岁； K.D.B .来自密西西比州，今年 18 岁。 她们称，自己最早在三四岁时就开始使用 YouTube，九岁左右接触其他",
+   "published_at": 1793229901.0,
+   "published_bj": "2026-10-29 07:25"
+  },
+  {
+   "id": "84eeaf61030f1f42",
+   "source": "IT之家",
+   "title": "微信鸿蒙版 App 获 8.0.23.32 邀测升级",
+   "url": "https://www.ithome.com/1/019/275.htm",
+   "summary": "IT之家 10 月 29 日消息，微信鸿蒙版 App 已在华为应用市场（App Gallery）开启了 8.0.23.32 (8394528) 版本邀测升级（需收到短信通知后点击链接跳转安装），测试时间为 2026/10/28-2026/11/27。 和往常一样，本次更新的说明依旧为“修复了一些已知问题”。据博主 @伤心萨摩耶Ciuciu 反馈，8.0.23 版本的微信新增了如下特性： 部分 Flutter 跨端页面（如朋友圈、听一听、表情管理等页面）响应系统字体粗细； 更换铃声选择界面右上角新增铃声设置入口，支持启用或停用个性化内容推荐； 发表视频号内容时新增添加标注，视频号已发布的内容点击",
+   "published_at": 1793229718.0,
+   "published_bj": "2026-10-29 07:21"
+  },
+  {
+   "id": "6bec6c84f0da275c",
+   "source": "IT之家",
+   "title": "Valve 回应 Steam AI 垃圾游戏泛滥：不禁用 AI，但要改推荐机制",
+   "url": "https://www.ithome.com/1/019/274.htm",
+   "summary": "IT之家 10 月 29 日消息，科技媒体 NeoWin 今天（10 月 29 日）发布博文，报道称在韩国召开的 Steam Indie Connect 活动中， Valve 回应 Steam 新品节（Steam Next Fest）“AI 垃圾游戏”争议 ，称公司正研究解决方案，但不会禁止开发者使用 AI 工具。 Steam 业务负责人 Tom Giardino 表示，Valve 不希望成为“守门人”，替开发者决定可以使用哪些创作工具。他认为，如果一款游戏只依赖容易被复制的单一机制，就很难长期立足， 并认为开发者应持续加入源自自身视角的新功能、个性与创意，让作品形成真正的差异化。 针对“AI",
+   "published_at": 1793229685.0,
+   "published_bj": "2026-10-29 07:21"
+  },
+  {
+   "id": "1557d77e0a293167",
+   "source": "TechCrunch",
+   "title": "Upwind raises $400M after walking away from Datadog acquisition offer",
+   "url": "https://techcrunch.com/2026/10/28/upwind-raises-400m-after-walking-away-from-datadog-acquisition-offer/",
+   "summary": "The cloud security startup raised a Series C at a $3.8B valuation, instead of selling itself for the same price.",
+   "published_at": 1793229300.0,
+   "published_bj": "2026-10-29 07:15"
+  },
+  {
+   "id": "ab2b0c1290a8aadf",
+   "source": "cnBeta",
+   "title": "《使命召唤：现代战争4》使用梨泰院事故影像 遇难者家属要求删除",
+   "url": "https://www.cnbeta.com.tw/articles/game/1584242.htm",
+   "summary": "《使命召唤：现代战争4》开场片头使用了2022年首尔梨泰院踩踏事故的真实新闻影像。梨泰院事故遇难者家属协会已要求动视删除相关片段，韩国游戏用户协会也提出移除和替换素材的诉求。 阅读全文",
+   "published_at": 1793229026.0,
+   "published_bj": "2026-10-29 07:10"
+  },
+  {
+   "id": "de259394ad62c0b5",
+   "source": "IT之家",
+   "title": "微软发布 Win11 28000.3365 可选更新：Copilot 键可改键，Edge 支持加速启动",
+   "url": "https://www.ithome.com/1/019/273.htm",
+   "summary": "IT之家 10 月 29 日消息，微软今天（10 月 29 日）面向 Windows 11 26H1 用户，推送 10 月可选更新 KB5127653，用户安装后版本号升至 Build 28000.3365。 Windows 11 版本 26H1 (KB5127653) 的更新日志也分为逐步推送和正常推送两部分。前者包含将分阶段推出的功能，而后者则会在所有设备更新后立即提供所列的增强功能。以下是更新日志： 逐步推出 [文件资源管理器] 新增！本次更新调整了预览窗格处理从网络下载的文件的方式。对于 HTML 文件，新增的“仍然预览”按钮允许您确认警告并预览文件。非 HTML 文件（例如 PDF）",
+   "published_at": 1793229015.0,
+   "published_bj": "2026-10-29 07:10"
+  },
+  {
+   "id": "67d2b80a8dd0dacd",
+   "source": "cnBeta",
+   "title": "Gemini 4 Carbon正式发布 哈基米重回世界第一",
+   "url": "https://www.cnbeta.com.tw/articles/tech/1584240.htm",
+   "summary": "Gemini 终于又支棱起来了。当全世界的目光都聚焦在苹果首款触控屏 MacBook Pro 身上，Google DeepMind 刚刚正式宣布推出新一代旗舰模型 Gemini 4 Carbon。 阅读全文",
+   "published_at": 1793228984.0,
+   "published_bj": "2026-10-29 07:09"
+  },
+  {
+   "id": "a1c255c515221e77",
+   "source": "IT之家",
+   "title": "消息称美国司法部就英伟达 129.3 亿美元收购 Hugging Face 一事展开问询",
+   "url": "https://www.ithome.com/1/019/272.htm",
+   "summary": "IT之家 10 月 29 日消息，据路透社报道，两位知情人士透露，美国司法部（DOJ）已就英伟达以 129.3 亿美元 （IT之家注：现汇率约合 863.86 亿元人民币） 收购开源平台 Hugging Face 的交易将如何影响人工智能领域的竞争展开问询。与此同时，反垄断执法人员正在继续对这家芯片设计商的行为进行长达数年的调查。 知情人士表示， 司法部近期的问询涉及英伟达的并购、对外投资、销售模式，以及该公司是否对其客户施加了压力 。关于 Hugging Face 交易，司法部官员重点关注该并购是否会让英伟达掌控 AI 领域的核心分发枢纽。 英伟达此前曾表示，这笔收购预计于 2027 年上半",
+   "published_at": 1793228887.0,
+   "published_bj": "2026-10-29 07:08"
+  },
+  {
+   "id": "eb707844aa9f95cd",
+   "source": "IT之家",
+   "title": "Anthropic 致信加州州长纽森：法院应有权阻止严重风险 AI 模型",
+   "url": "https://www.ithome.com/1/019/271.htm",
+   "summary": "IT之家 10 月 29 日消息，据路透社今天（29 日）凌晨报道，Anthropic 在本月 15 日致美国加州州长加文 · 纽森的信中建议，政府应有权向法院申请禁令， 阻止对公众构成“严重风险”的 AI 模型发布 。 这与 Anthropic 此前提出的监管建议一致。 Anthropic 自身也曾受到政府限制。今年 6 月，美国政府以国家安全为由，要求 Anthropic 立即限制外国用户访问具备网络安全能力的 Mythos 5 和 Fable 5 模型。然而随后，美国商务部又宣布撤销该命令。 今年 9 月，纽森召集 AI 专家小组，研究制定 AI 安全要求的建议，Anthropic 随后",
+   "published_at": 1793228714.0,
+   "published_bj": "2026-10-29 07:05"
+  },
   {
    "id": "771822a346a39e21",
    "source": "IT之家",
