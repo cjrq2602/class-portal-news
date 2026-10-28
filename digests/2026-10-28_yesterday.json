@@ -1,0 +1,382 @@
+{
+ "type": "yesterday",
+ "date": "2026-10-28",
+ "window": {
+  "start_ts": 1793116800.0,
+  "end_ts": 1793203200.0
+ },
+ "generated_at": 1793205865.1015434,
+ "generator": "action",
+ "news_count": 400,
+ "keywords": [
+  "ai",
+  "发布",
+  "pro",
+  "苹果",
+  "手机",
+  "华为",
+  "同比",
+  "季度",
+  "元",
+  "利润"
+ ],
+ "points": [
+  {
+   "text": "【ai】IT早报”时间，大家好，现在是 2026 年 10 月 28 日星期三，今天的重要科技资讯有： 1. 2026 胡润百富榜发布：张一鸣 6700",
+   "keyword": "ai",
+   "news_ids": [
+    "9fcb73a7714334af"
+   ],
+   "refs": [
+    {
+     "id": "9fcb73a7714334af",
+     "title": "IT早报 1028：张一鸣以 6700 亿元刷新中国首富财富纪录；谷歌推最强世界模型 Genie 4；苹果推 M6 芯片 14 寸 MacBook Pro；小米 REDMI K100 手机发布...",
+     "source": "IT之家",
+     "url": "https://www.ithome.com/1/018/722.htm",
+     "published_at": 1793145348.0
+    }
+   ]
+  },
+  {
+   "text": "【发布】IT之家 10 月 28 日消息，宇树科技今日发布 2026 年前三季度（2026 年 1 月～2026 年 9 月）及三季度（2026 年 7",
+   "keyword": "发布",
+   "news_ids": [
+    "db4a65c4b6ab4ba5"
+   ],
+   "refs": [
+    {
+     "id": "db4a65c4b6ab4ba5",
+     "title": "宇树科技上市后首份财报公布：2026 年前三季度归母净利润 3.87 亿元，同比增长 270.54%",
+     "source": "IT之家",
+     "url": "https://www.ithome.com/1/019/144.htm",
+     "published_at": 1793184272.0
+    }
+   ]
+  },
+  {
+   "text": "【ai】Tech leaders are flaunting how out of touch they are when they brag abou",
+   "keyword": "ai",
+   "news_ids": [
+    "81c80e3eba6b6e82"
+   ],
+   "refs": [
+    {
+     "id": "81c80e3eba6b6e82",
+     "title": "AI execs may be too out of touch to build for the general public",
+     "source": "TechCrunch",
+     "url": "https://techcrunch.com/2026/10/28/ai-execs-may-be-too-out-of-touch-to-build-for-the-general-public/",
+     "published_at": 1793202832.0
+    }
+   ]
+  },
+  {
+   "text": "【苹果】IT之家 10 月 28 日消息，苹果已在美国官网的教育商店调整 MacBook Neo 笔记本售价， 从 599 美元 （IT之家注：现汇率约",
+   "keyword": "苹果",
+   "news_ids": [
+    "b033b0413dbcab33"
+   ],
+   "refs": [
+    {
+     "id": "b033b0413dbcab33",
+     "title": "599 美元 → 649 美元，苹果 MacBook Neo 在美国官网教育商店涨价",
+     "source": "IT之家",
+     "url": "https://www.ithome.com/1/019/203.htm",
+     "published_at": 1793197859.0
+    }
+   ]
+  },
+  {
+   "text": "【pro】IT之家 10 月 28 日消息，据央视财经今日报道，深圳华强北二手手机市场均价 4000 元以上产品的占比已超过 68%",
+   "keyword": "pro",
+   "news_ids": [
+    "9f8f465de21b82e3"
+   ],
+   "refs": [
+    {
+     "id": "9f8f465de21b82e3",
+     "title": "内存涨价致旧手机价格坚挺：99 新二手机成华强北抢手货，苹果 iPhone 15 Pro Max 从去年 3000 多元回涨至 4300 元以上",
+     "source": "IT之家",
+     "url": "https://www.ithome.com/1/019/231.htm",
+     "published_at": 1793202036.0
+    }
+   ]
+  },
+  {
+   "text": "IT之家 10 月 28 日消息，索尼 PlayStation 今天宣布推出“Prism Collection”系列 DualSense 手柄",
+   "keyword": "",
+   "news_ids": [
+    "eca0509e0b6285f5"
+   ],
+   "refs": [
+    {
+     "id": "eca0509e0b6285f5",
+     "title": "索尼推出“Prism Collection”版 DualSense 手柄，半透明设计",
+     "source": "IT之家",
+     "url": "https://www.ithome.com/1/019/233.htm",
+     "published_at": 1793202732.0
+    }
+   ]
+  },
+  {
+   "text": "South Korea’s financial institutions have been hit by another wave of cy",
+   "keyword": "",
+   "news_ids": [
+    "fb0d9fba2a598030"
+   ],
+   "refs": [
+    {
+     "id": "fb0d9fba2a598030",
+     "title": "South Korea’s financial industry hit by fresh wave of cyberattacks",
+     "source": "TechCrunch",
+     "url": "https://techcrunch.com/2026/10/28/south-koreas-financial-industry-hit-by-fresh-wave-of-cyberattacks/",
+     "published_at": 1793202078.0
+    }
+   ]
+  },
+  {
+   "text": "IT之家 10 月 28 日消息，据彭博社报道，美国联邦通信委员会（FCC）再度驳回 TP-LINK 在美国销售 Wi-Fi 8 路由器的申请",
+   "keyword": "",
+   "news_ids": [
+    "5ffdfb0adca373bc"
+   ],
+   "refs": [
+    {
+     "id": "5ffdfb0adca373bc",
+     "title": "FCC 再度驳回 TP-LINK 在美国销售 Wi-Fi 8 路由器申请，指其提交虚假文件、部分产品功率超标",
+     "source": "IT之家",
+     "url": "https://www.ithome.com/1/019/229.htm",
+     "published_at": 1793201753.0
+    }
+   ]
+  },
+  {
+   "text": "Article URL: https://www",
+   "keyword": "",
+   "news_ids": [
+    "fb6aca8a66f47912"
+   ],
+   "refs": [
+    {
+     "id": "fb6aca8a66f47912",
+     "title": "26,400 live credentials found scanning 7.25M repos on China's Gitee",
+     "source": "Hacker News",
+     "url": "https://www.mongodb.com/company/blog/technical/scanning-7-point-25-million-public-repositories-chinas-largest-git-platform-for-secrets",
+     "published_at": 1793201519.0
+    }
+   ]
+  },
+  {
+   "text": "一款摇摇摆摆、发出鸭子叫声的机器人摔倒后可以自主站起",
+   "keyword": "",
+   "news_ids": [
+    "67158561dcba1243"
+   ],
+   "refs": [
+    {
+     "id": "67158561dcba1243",
+     "title": "黄仁勋带火机器鸭 三天新增1.5万份订单",
+     "source": "cnBeta",
+     "url": "https://www.cnbeta.com.tw/articles/tech/1584200.htm",
+     "published_at": 1793201295.0
+    }
+   ]
+  },
+  {
+   "text": "IT之家 10 月 28 日消息，据游戏媒体 VGC 今天报道，Valve 最近在韩国举办 Steam Indie Connect 活动，与游戏",
+   "keyword": "",
+   "news_ids": [
+    "b3d58afb086348b4"
+   ],
+   "refs": [
+    {
+     "id": "b3d58afb086348b4",
+     "title": "V社详解 Steam 新品节游戏推荐机制：活动刚开始时随机展示，算法会在两天后启用",
+     "source": "IT之家",
+     "url": "https://www.ithome.com/1/019/227.htm",
+     "published_at": 1793201046.0
+    }
+   ]
+  },
+  {
+   "text": "IT之家 10 月 28 日消息，据《卫报》今日报道，埃隆 · 马斯克旗下 xAI 正通过子公司 MZX Tech 向美国密西西比州南海文市（S",
+   "keyword": "",
+   "news_ids": [
+    "9fa86d38474f5d92"
+   ],
+   "refs": [
+    {
+     "id": "9fa86d38474f5d92",
+     "title": "马斯克动用钞能力：美国居民起诉数据中心噪声后，xAI 准备直接收购其房产",
+     "source": "IT之家",
+     "url": "https://www.ithome.com/1/019/222.htm",
+     "published_at": 1793200325.0
+    }
+   ]
+  },
+  {
+   "text": "IT之家 10 月 28 日消息，索尼今天在 PlayStation Blog 宣布，育碧新作《雷曼：传奇再叙》将与 Team ASOBI 开发",
+   "keyword": "",
+   "news_ids": [
+    "c4344f3c8304958d"
+   ],
+   "refs": [
+    {
+     "id": "c4344f3c8304958d",
+     "title": "雷曼：传奇再叙》游戏将与《宇宙机器人》联动，PS5 版玩家可获独占服装道具",
+     "source": "IT之家",
+     "url": "https://www.ithome.com/1/019/221.htm",
+     "published_at": 1793200308.0
+    }
+   ]
+  },
+  {
+   "text": "美国人工智能公司xAI在密西西比州扩建数据中心引发的社区冲突进一步升级",
+   "keyword": "",
+   "news_ids": [
+    "fa08d1aa0a0f0b59"
+   ],
+   "refs": [
+    {
+     "id": "fa08d1aa0a0f0b59",
+     "title": "马斯克旗下xAI被指以“出售房屋换取不参与诉讼”为条件收购社区住宅",
+     "source": "cnBeta",
+     "url": "https://www.cnbeta.com.tw/articles/tech/1584198.htm",
+     "published_at": 1793200148.0
+    }
+   ]
+  },
+  {
+   "text": "距离Nintendo Switch 2首个纯软件越狱方案公开还不到一周时间，开发者社区已经展示了多款Switch 2独占游戏在非任天堂硬件上的运",
+   "keyword": "",
+   "news_ids": [
+    "54e0324ac60fda6a"
+   ],
+   "refs": [
+    {
+     "id": "54e0324ac60fda6a",
+     "title": "Switch 2独占游戏迅速现身iPhone与PC平台 任天堂或面临新一轮模拟器挑战",
+     "source": "cnBeta",
+     "url": "https://www.cnbeta.com.tw/articles/game/1584196.htm",
+     "published_at": 1793200121.0
+    }
+   ]
+  }
+ ],
+ "article": {
+  "title": "2026-10-28 新闻总结",
+  "paragraphs": [
+   {
+    "kind": "lead",
+    "text": "过去 24 小时共收录 400 条新闻，来自 7 家媒体。把标题放在一起看，讨论主要集中在 AI、手机、利润 这几个方向上，其余消息更像是零散补充。"
+   },
+   {
+    "kind": "section",
+    "heading": "手机",
+    "text": "先看「手机」。IT早报”时间，大家好，现在是 2026 年 10 月 28 日星期三，今天的重要科技资讯有： 1. 2026 胡润百富榜发布：张一鸣 6700 亿元刷新中国首富财富纪录，另有 186 条消息指向同一话题。技术路线的胜负很少由一次发布会决定，接下来要看的是它能不能被更多团队低成本复用。",
+    "news_ids": [
+     "9fcb73a7714334af"
+    ],
+    "refs": [
+     {
+      "id": "9fcb73a7714334af",
+      "title": "IT早报 1028：张一鸣以 6700 亿元刷新中国首富财富纪录；谷歌推最强世界模型 Genie 4；苹果推 M6 芯片 14 寸 MacBook Pro；小米 REDMI K100 手机发布...",
+      "source": "IT之家",
+      "url": "https://www.ithome.com/1/018/722.htm",
+      "published_at": 1793145348.0
+     }
+    ]
+   },
+   {
+    "kind": "section",
+    "heading": "利润",
+    "text": "与此同时「利润」。IT之家 10 月 28 日消息，宇树科技今日发布 2026 年前三季度（2026 年 1 月～2026 年 9 月）及三季度（2026 年 7 月～2026 年 9 月）报告，另有 26 条消息指向同一话题。资本动作往往领先产品一年，值得盯的不是金额，而是钱最后花向了算力、场景还是补贴。",
+    "news_ids": [
+     "db4a65c4b6ab4ba5"
+    ],
+    "refs": [
+     {
+      "id": "db4a65c4b6ab4ba5",
+      "title": "宇树科技上市后首份财报公布：2026 年前三季度归母净利润 3.87 亿元，同比增长 270.54%",
+      "source": "IT之家",
+      "url": "https://www.ithome.com/1/019/144.htm",
+      "published_at": 1793184272.0
+     }
+    ]
+   },
+   {
+    "kind": "section",
+    "heading": "AI",
+    "text": "另一个值得注意的方向是「AI」。IT之家 10 月 28 日消息，据央视财经今日报道，国产工业母机订单外溢，另有 52 条消息指向同一话题。这条消息短期内的实际影响可能有限，但它指向的方向值得放进观察名单。",
+    "news_ids": [
+     "00a24bc0ae12f00c"
+    ],
+    "refs": [
+     {
+      "id": "00a24bc0ae12f00c",
+      "title": "从 AI 服务器 PCB 到五轴机床，国产工业母机订单已排到明年二季度",
+      "source": "IT之家",
+      "url": "https://www.ithome.com/1/019/228.htm",
+      "published_at": 1793201691.0
+     }
+    ]
+   },
+   {
+    "kind": "section",
+    "heading": "教育",
+    "text": "相比之下「教育」。IT之家 10 月 28 日消息，苹果已在美国官网的教育商店调整 MacBook Neo 笔记本售价， 从 599 美元 （IT之家注：现汇率约合 4，另有 2 条消息指向同一话题。价格和生态往往比硬件规格更能决定一款产品能不能留下来。",
+    "news_ids": [
+     "b033b0413dbcab33"
+    ],
+    "refs": [
+     {
+      "id": "b033b0413dbcab33",
+      "title": "599 美元 → 649 美元，苹果 MacBook Neo 在美国官网教育商店涨价",
+      "source": "IT之家",
+      "url": "https://www.ithome.com/1/019/203.htm",
+      "published_at": 1793197859.0
+     }
+    ]
+   },
+   {
+    "kind": "glossary",
+    "items": [
+     {
+      "term": "AI",
+      "desc": "人工智能，让机器完成识别、生成、判断等原本需要人做的任务"
+     },
+     {
+      "term": "Agent",
+      "desc": "智能体，能自己拆解任务、调用工具并连续执行的 AI 程序"
+     },
+     {
+      "term": "API",
+      "desc": "应用程序接口，让不同软件按约定好的方式互相调用"
+     },
+     {
+      "term": "GPU",
+      "desc": "图形处理器，因为擅长大规模并行计算，成了 AI 训练的主力硬件"
+     },
+     {
+      "term": "IPO",
+      "desc": "首次公开募股，公司第一次把股票卖给公众并上市"
+     },
+     {
+      "term": "HBM",
+      "desc": "高带宽内存，把多层内存堆叠起来给 AI 芯片喂数据，缓解带宽瓶颈"
+     }
+    ]
+   },
+   {
+    "kind": "outlook",
+    "text": "把这几条放在一起看，最值得跟踪的是 AI 和 手机 两条线：一条决定技术能走多远，一条决定它多快能落到普通人的日常里。至于其他消息，可以先放进观察名单，等后续有更实的进展再判断。"
+   }
+  ],
+  "word_count": 697
+ },
+ "ai_enhanced": false,
+ "schema": 1,
+ "window_bj": {
+  "start": "2026-10-28 00:00",
+  "end": "2026-10-29 00:00"
+ }
+}
