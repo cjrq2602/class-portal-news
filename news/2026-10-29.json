@@ -1,8 +1,17 @@
 {
  "date": "2026-10-29",
- "generated_at": 1793183035.748305,
- "count": 10,
+ "generated_at": 1793186424.6671808,
+ "count": 11,
  "items": [
+  {
+   "id": "cd0924e14dbf9026",
+   "source": "InfoQ中文",
+   "title": "Meta 利用私有处理技术将机密计算扩展至 AI 眼镜",
+   "url": "https://www.infoq.cn/article/r1ibrq9kmZ1qFAWAtzJf?utm_source=rss&utm_medium=article",
+   "summary": "点击查看原文>",
+   "published_at": 1793214000.0,
+   "published_bj": "2026-10-29 03:00"
+  },
   {
    "id": "2fe47132f029f249",
    "source": "InfoQ中文",
