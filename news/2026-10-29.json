@@ -1,7 +1,7 @@
 {
  "date": "2026-10-29",
- "generated_at": 1793205863.3808422,
- "count": 19,
+ "generated_at": 1793208431.6691353,
+ "count": 31,
  "items": [
   {
    "id": "07aec451d477fa8c",
@@ -112,6 +112,78 @@
    "published_bj": "2026-10-29 01:42"
   },
   {
+   "id": "73a5ff45878a5ef5",
+   "source": "TechCrunch",
+   "title": "Apple launches its new touchscreen MacBook Pro",
+   "url": "https://techcrunch.com/2026/10/28/apple-launches-its-new-touchscreen-macbook-pro/",
+   "summary": "Apple's new touchscreen MacBook Pro starts at $2,899",
+   "published_at": 1793208370.0,
+   "published_bj": "2026-10-29 01:26"
+  },
+  {
+   "id": "ebb409d3f42f8a64",
+   "source": "IT之家",
+   "title": "22999 元起：MacBook Pro (PROLED XDR 显示屏) 价格公布",
+   "url": "https://www.ithome.com/1/019/239.htm",
+   "summary": "IT之家 10 月 29 日消息，苹果公司现已公布 MacBook Pro (PROLED XDR 显示屏) 笔记本的价格： 22,999 元起 。 IT之家从苹果官网获悉，MacBook Pro (PROLED XDR 显示屏) 提供 14 英寸和 16 英寸两个尺寸，可选 M5 Pro 和 M5 Max 芯片。各版本售价详情如下： 14 英寸 M5 Pro（15 核 CPU、16 核 GPU），24GB 统一内存，1TB 硬盘，70W 电源适配器，标准玻璃：22,999 元 M5 Pro（18 核 CPU、20 核 GPU），24GB 统一内存，1TB 硬盘，70W 电源适配器，标准玻璃：",
+   "published_at": 1793207757.0,
+   "published_bj": "2026-10-29 01:15"
+  },
+  {
+   "id": "73ce129db49ac3f3",
+   "source": "Hacker News",
+   "title": "MacBook Pro with Touch Enabled Proled XDR Display",
+   "url": "https://www.apple.com/macbook-pro/proled-xdr-display/",
+   "summary": "Article URL: https://www.apple.com/macbook-pro/proled-xdr-display/ Comments URL: https://news.ycombinator.com/item?id=50276940 Points: 5 # Comments: 0",
+   "published_at": 1793207437.0,
+   "published_bj": "2026-10-29 01:10"
+  },
+  {
+   "id": "52daa7e78eb1e0d3",
+   "source": "IT之家",
+   "title": "苹果首款触控屏 MacBook Pro 正式发布：双层串联 OLED、低至 1.38 千克重量，22,999 元起",
+   "url": "https://www.ithome.com/1/019/238.htm",
+   "summary": "IT之家 10 月 29 日消息，苹果在今天的特别活动中正式推出了首款触控屏 MacBook Pro，10 月 30 日 9 点接受预购，11 月 6 日发售，22,999 元起。 系列笔记本可选 14.2/16.3 英寸版本，前者重 1.38 千克，后者重 1.82 千克。笔记本 C 面仍配备指纹识别触控 ID，笔记本可选 M5 Pro/M5 Max 芯片，提供至高 24 小时续航。 相应屏幕为双层串联 OLED ProMotion 1Hz-120Hz 自适应刷新率触控屏（官方称之为“PROLED XDR 显示屏”），提供 1000 尼特持续全屏亮度、2000 尼特 HDR 和 SDR 峰值",
+   "published_at": 1793207412.0,
+   "published_bj": "2026-10-29 01:10"
+  },
+  {
+   "id": "ea56bac378f577f5",
+   "source": "Hacker News",
+   "title": "Show HN: SlideBySide – Present slides without sharing your screen",
+   "url": "https://slidebyside.com/",
+   "summary": "Why is it useful? - Present slides without sharing the screen and have every one be on the same page. - Present together with other cohosts and all control the current page. - Other features such as presentation collab features. Why should I not just vibe code my own solution? - Its a hassle to main",
+   "published_at": 1793207229.0,
+   "published_bj": "2026-10-29 01:07"
+  },
+  {
+   "id": "39a72fa331931683",
+   "source": "IT之家",
+   "title": "Artificial Analysis Intelligence Index v5 基准上线，DeepSeek V4.1 Flash 1017 为 FrontierCode 2.0 开源模型最高成绩",
+   "url": "https://www.ithome.com/1/019/237.htm",
+   "summary": "IT之家 10 月 29 日消息，Artificial Analysis 昨日发布了 Intelligence Index v5，这是该机构自 2026 年 1 月 v4 上线以来幅度最大的一次基准重构。 最直接的变化是，60% 的评测权重首次建立在私有测试集或隐藏答案之上，用于压缩公开题库被模型训练数据“污染”的空间，减少了各厂商为了跑分而跑分的“注水”测试项目。 该指数仍由九项评测构成，包括知识工作、编码、科学、通用能力各占 25%。其中编码 25% 的权重里，Cognition 于同日发布的 FrontierCode 2.0 独占 15%，Terminal-Bench 4.0 占 10%",
+   "published_at": 1793207181.0,
+   "published_bj": "2026-10-29 01:06"
+  },
+  {
+   "id": "b263978b72e120b3",
+   "source": "Hacker News",
+   "title": "Gemini 4 Carbon",
+   "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-carbon/",
+   "summary": "Article URL: https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-carbon/ Comments URL: https://news.ycombinator.com/item?id=50276792 Points: 41 # Comments: 13",
+   "published_at": 1793206883.0,
+   "published_bj": "2026-10-29 01:01"
+  },
+  {
+   "id": "ae8cba089be4de99",
+   "source": "Hacker News",
+   "title": "Converge (YC S23) Is Hiring a Founding Platform Engineer",
+   "url": "https://www.runconverge.com/careers/founding-platform-engineer",
+   "summary": "Article URL: https://www.runconverge.com/careers/founding-platform-engineer Comments URL: https://news.ycombinator.com/item?id=50276779 Points: 0 # Comments: 0",
+   "published_at": 1793206824.0,
+   "published_bj": "2026-10-29 01:00"
+  },
+  {
    "id": "f6f87f35f19edd16",
    "source": "InfoQ中文",
    "title": "通过 SNMP 处理程序进行 ZCS 命令注入，实现未经身份验证的远程代码执行",
@@ -119,6 +191,42 @@
    "summary": "点击查看原文>",
    "published_at": 1793206800.0,
    "published_bj": "2026-10-29 01:00"
+  },
+  {
+   "id": "73a4fd2c731188ff",
+   "source": "TechCrunch",
+   "title": "Xreal Aura is a new wired headset powered by Android XR",
+   "url": "https://techcrunch.com/2026/10/28/xreal-aura-is-a-new-wired-headset-powered-by-android-xr/",
+   "summary": "Xreal Aura will start at $1,279 and will have multiple XR specific launch apps at launch",
+   "published_at": 1793206800.0,
+   "published_bj": "2026-10-29 01:00"
+  },
+  {
+   "id": "eac01b18528e443a",
+   "source": "TechCrunch",
+   "title": "As AI agents reshape the web, Google opens Gemini and Search to more apps",
+   "url": "https://techcrunch.com/2026/10/28/as-ai-agents-reshape-the-web-google-opens-gemini-and-search-to-more-apps/",
+   "summary": "A new developer platform will let businesses bring their services to Google's AI experiences, potentially changing how consumers discover and use apps.",
+   "published_at": 1793206800.0,
+   "published_bj": "2026-10-29 01:00"
+  },
+  {
+   "id": "2ffff9d371e3d44f",
+   "source": "TechCrunch",
+   "title": "Chrome’s AI-powered Autofill can now dig through your Gmail to fill out forms",
+   "url": "https://techcrunch.com/2026/10/28/chromes-ai-powered-autofill-can-now-dig-through-your-gmail-to-fill-out-forms/",
+   "summary": "The autofill update lets Chrome pull flight confirmations, tracking info, order details, and other information from your inbox, with your permission.",
+   "published_at": 1793206800.0,
+   "published_bj": "2026-10-29 01:00"
+  },
+  {
+   "id": "57ccbc52f20d9ccc",
+   "source": "IT之家",
+   "title": "苹果线上商城下线维护，预估迎接其首款触控 MacBook Pro",
+   "url": "https://www.ithome.com/1/019/236.htm",
+   "summary": "IT之家 10 月 29 日消息，太平洋时间 10 月 28 日上午 10 点（北京时间 10 月 29 日凌晨 1 点）在洛杉矶举行的“Pro and Tell”体验活动开始前几分钟，苹果官网在线商店已临时下线维护，这一动作通常被视为新品即将上架的信号。 IT之家访问苹果中国官网在线商店，已经显示为“稍等一下，我们正在更新 Apple Store， 请稍后再来。 ” 根据目前曝光的信息和线索，苹果公司计划推出其首款触控屏 MacBook Pro。新款 MacBook Pro 有望首次配备支持触控的 OLED 显示屏，取消传统刘海屏并改用“灵动岛”设计；机身将更轻、更薄，铰链与散热系统也会重新",
+   "published_at": 1793206743.0,
+   "published_bj": "2026-10-29 00:59"
   },
   {
    "id": "3544324e0c69bb34",

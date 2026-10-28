@@ -1,6 +1,6 @@
 {
  "date": "2026-10-28",
- "generated_at": 1793205863.3837001,
+ "generated_at": 1793208431.6714218,
  "count": 400,
  "items": [
   {
@@ -112,6 +112,15 @@
    "published_bj": "2026-10-28 23:31"
   },
   {
+   "id": "06e00d1b65b25d49",
+   "source": "Hacker News",
+   "title": "r/Seattle mods discover malware injection by archive.today, ban site",
+   "url": "https://www.reddit.com/r/Seattle/comments/1xhf6qp/archivetoday_links_going_forward/",
+   "summary": "Article URL: https://www.reddit.com/r/Seattle/comments/1xhf6qp/archivetoday_links_going_forward/ Comments URL: https://news.ycombinator.com/item?id=50275373 Points: 62 # Comments: 23",
+   "published_at": 1793201518.0,
+   "published_bj": "2026-10-28 23:31"
+  },
+  {
    "id": "adbdf653262b82aa",
    "source": "cnBeta",
    "title": "索尼发布6英寸裸眼3D显示器ELF-MN1 12月11日日本上市",
@@ -146,6 +155,15 @@
    "summary": "IT之家 10 月 28 日消息，据游戏媒体 VGC 今天报道，Valve 最近在韩国举办 Steam Indie Connect 活动，与游戏开发者交流。有参会者现场抱怨，Steam 新品节的曝光度不佳，并且部分玩家也认为，该活动充斥着大量“AI 垃圾”游戏。 Valve 商务团队成员 Marc Wilkinson 对此表示，Steam 活动开始后的前两天， 玩家在主页看到的游戏是纯随机推荐的 。两天过后，系统才会启用个性化推荐算法，将玩家更感兴趣的游戏展示在首页。 这名V社员工认为，许多玩家针对低质量游戏的批评集中在活动刚开始。他解释道， 之所以在前两天随机展示游戏 ， 是为了让每位开发者",
    "published_at": 1793201046.0,
    "published_bj": "2026-10-28 23:24"
+  },
+  {
+   "id": "ed9926809e561529",
+   "source": "Hacker News",
+   "title": "Nvidia Nemotron 3.5 Transcribe: open ASR for 40 languages",
+   "url": "https://huggingface.co/blog/nvidia/nemotron-transcribe-granary",
+   "summary": "Article URL: https://huggingface.co/blog/nvidia/nemotron-transcribe-granary Comments URL: https://news.ycombinator.com/item?id=50275128 Points: 20 # Comments: 1",
+   "published_at": 1793200673.0,
+   "published_bj": "2026-10-28 23:17"
   },
   {
    "id": "1abea7b9a6028e1b",
@@ -2686,6 +2704,15 @@
    "published_bj": "2026-10-28 10:05"
   },
   {
+   "id": "22795e3a730982dd",
+   "source": "Hacker News",
+   "title": "Executable Archaeology: Reanimating the Heuristic Compiler (1961) and KBEmacs (1984)",
+   "url": "https://arxiv.org/abs/2610.36341",
+   "summary": "Article URL: https://arxiv.org/abs/2610.36341 Comments URL: https://news.ycombinator.com/item?id=50268478 Points: 3 # Comments: 0",
+   "published_at": 1793152911.0,
+   "published_bj": "2026-10-28 10:01"
+  },
+  {
    "id": "fff821f93917fe84",
    "source": "IT之家",
    "title": "OpenAI 公示 GPT-6.1 Terra 安全测试：整体风险下降，破坏性行为上升",
@@ -3575,33 +3602,6 @@
    "summary": "Article URL: https://centurylibrary.com/collection/antique-fonts/ Comments URL: https://news.ycombinator.com/item?id=50261579 Points: 5 # Comments: 0",
    "published_at": 1793118299.0,
    "published_bj": "2026-10-28 00:24"
-  },
-  {
-   "id": "20b7274130edcb38",
-   "source": "cnBeta",
-   "title": "Firefox测试AI“智能窗口”功能 可自动填写网页表单",
-   "url": "https://www.cnbeta.com.tw/articles/tech/1584076.htm",
-   "summary": "Mozilla正在为Firefox浏览器测试一项名为“Smart Window（智能窗口）”的全新人工智能功能，该功能能够理解网页内容并帮助用户自动填写在线表单，从而减少重复输入信息的操作步骤。 阅读全文",
-   "published_at": 1793118261.0,
-   "published_bj": "2026-10-28 00:24"
-  },
-  {
-   "id": "00285b4ab7d3c07a",
-   "source": "Hacker News",
-   "title": "Reducibility Among Combinatorial Problems (1972) [pdf]",
-   "url": "https://cgi.di.uoa.gr/~sgk/teaching/grad/handouts/karp.pdf",
-   "summary": "Article URL: https://cgi.di.uoa.gr/~sgk/teaching/grad/handouts/karp.pdf Comments URL: https://news.ycombinator.com/item?id=50261544 Points: 4 # Comments: 0",
-   "published_at": 1793118115.0,
-   "published_bj": "2026-10-28 00:21"
-  },
-  {
-   "id": "dce710a4f7ff71ab",
-   "source": "cnBeta",
-   "title": "NBA与Kalshi、Polymarket达成多年合作协议",
-   "url": "https://www.cnbeta.com.tw/articles/tech/1584074.htm",
-   "summary": "美国职业篮球联赛（NBA）于10月26日宣布，与预测市场平台Kalshi和Polymarket达成多年合作协议，并与美国商品期货交易委员会（CFTC）签署谅解备忘录，计划建立针对NBA赛事预测市场的监管与诚信保护框架。通过这项安排，NBA希望在预测市场迅速扩张的背景下，加强对异常交易、内幕信息使用以及赛事操纵风险的监控，同时将这类市场纳入更明确的商业合作体系。 阅读全文",
-   "published_at": 1793118076.0,
-   "published_bj": "2026-10-28 00:21"
   }
  ]
 }
