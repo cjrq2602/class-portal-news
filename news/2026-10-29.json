@@ -1,7 +1,7 @@
 {
  "date": "2026-10-29",
- "generated_at": 1793221252.3696144,
- "count": 72,
+ "generated_at": 1793223575.4646065,
+ "count": 90,
  "items": [
   {
    "id": "07aec451d477fa8c",
@@ -31,6 +31,132 @@
    "published_bj": "2026-10-29 05:39"
   },
   {
+   "id": "3c984a7adc0efda9",
+   "source": "TechCrunch",
+   "title": "Microsoft recorded $10 billion in revenue from OpenAI",
+   "url": "https://techcrunch.com/2026/10/28/microsoft-recorded-10-billion-in-revenue-from-openai/",
+   "summary": "Microsoft said it made $10 billion in revenue from commercial arrangements with OpenAI, including revenue-sharing payments, in the quarter ending September 30. It underscores the still-enormous financial dependency of the partnership.",
+   "published_at": 1793223270.0,
+   "published_bj": "2026-10-29 05:34"
+  },
+  {
+   "id": "1fc05e641e2f02cf",
+   "source": "TechCrunch",
+   "title": "Microsoft hits 10 quarters of record- breaking revenue in a row",
+   "url": "https://techcrunch.com/2026/10/28/microsoft-hits-10-quarters-of-record-breaking-revenue-in-a-row/",
+   "summary": "Whatever the future of AI might be, the current situation is still very good for Microsoft. The tech giant reported yet another record for quarterly revenue on Wednesday: $92.3 billion, a 19% increase over the year-ago quarter.",
+   "published_at": 1793222730.0,
+   "published_bj": "2026-10-29 05:25"
+  },
+  {
+   "id": "1b61b01ab7c2816d",
+   "source": "cnBeta",
+   "title": "研究团队演示无电池温度传感器 石墨烯线圈从电线磁场取能",
+   "url": "https://www.cnbeta.com.tw/articles/science/1584236.htm",
+   "summary": "阿肯色大学与密歇根大学研究人员展示了一套石墨烯能量采集器，可利用交流电线周围的磁场为超低功耗温度传感器供电。系统以纳瓦级功耗运行，将原本容易被忽略的电力线磁场转化为微型电子设备的能源。 阅读全文",
+   "published_at": 1793222673.0,
+   "published_bj": "2026-10-29 05:24"
+  },
+  {
+   "id": "93faae809d135a52",
+   "source": "cnBeta",
+   "title": "Google为Chrome浏览器加入Gmail智能自动填表功能",
+   "url": "https://www.cnbeta.com.tw/articles/tech/1584234.htm",
+   "summary": "Google正在为Chrome浏览器推出一项由人工智能驱动的增强自动填表功能。借助Gemini及其Personal Intelligence（个人智能）能力，Chrome现在能够从用户的Gmail邮箱中提取相关信息，并在填写网页表单时主动提供建议。用户无需反复切换标签页、搜索确认邮件或翻找购物收据，就有机会直接完成原本需要手动查找和输入的信息。 阅读全文",
+   "published_at": 1793222598.0,
+   "published_bj": "2026-10-29 05:23"
+  },
+  {
+   "id": "dfb2b074abd80b40",
+   "source": "cnBeta",
+   "title": "长鑫存储年底前启动HBM3E量产 中国AI存储产业迈出关键一步",
+   "url": "https://www.cnbeta.com.tw/articles/tech/1584232.htm",
+   "summary": "中国存储芯片企业长鑫存储（CXMT）预计将在2026年底前正式启动HBM3E高带宽内存量产，标志着中国本土厂商首次进入先进HBM市场。这一进展被视为中国人工智能产业链提升自主供应能力的重要里程碑。 阅读全文",
+   "published_at": 1793222564.0,
+   "published_bj": "2026-10-29 05:22"
+  },
+  {
+   "id": "92e23a05304c2745",
+   "source": "cnBeta",
+   "title": "科学家首次观测到预测已久的石墨烯量子效应 证实原子结构会改变电子行为",
+   "url": "https://www.cnbeta.com.tw/articles/science/1584230.htm",
+   "summary": "自2004年石墨烯被首次成功分离以来，这种仅由单层碳原子组成的二维材料不断刷新人们对量子世界的认知。如今，一项近20年前提出的理论预测终于获得实验验证，科学家首次在石墨烯中直接观测到一种长期存在于理论模型中的特殊量子效应，为理解电子在二维材料中的运动方式提供了重要证据。 阅读全文",
+   "published_at": 1793222448.0,
+   "published_bj": "2026-10-29 05:20"
+  },
+  {
+   "id": "69d8d8752ac79d10",
+   "source": "cnBeta",
+   "title": "PlayStation推出Prism半透明配件系列 DualSense手柄与PS5外壳明年2月开售",
+   "url": "https://www.cnbeta.com.tw/articles/game/1584228.htm",
+   "summary": "索尼公布PlayStation Prism Collection，为DualSense无线手柄和PS5主机外壳带来Flare Orange亮橙、Emerald Green翠绿和Graphite Gray石墨灰三种半透明配色。新设计借鉴上世纪90年代末流行的透明电子产品外观，并以高光泽表面和金属质感中框呈现；手柄背部采用透明外壳，可透出部分内部结构。 阅读全文",
+   "published_at": 1793222426.0,
+   "published_bj": "2026-10-29 05:20"
+  },
+  {
+   "id": "fdab0d3b35cfcf86",
+   "source": "cnBeta",
+   "title": "苹果推出新版全球旅行转换插头套装 统一升级新一代AC Connector 2标准",
+   "url": "https://www.cnbeta.com.tw/articles/tech/1584226.htm",
+   "summary": "苹果近日悄然更新旗下充电配件产品线，正式推出新版World Travel Adapter Kit（全球旅行转换插头套装），同时更新了70W电源适配器、140W电源适配器以及电源延长线等产品，全面引入全新的“AC Connector 2”接口设计。 阅读全文",
+   "published_at": 1793222373.0,
+   "published_bj": "2026-10-29 05:19"
+  },
+  {
+   "id": "b0d3ba7d18f6bb7e",
+   "source": "Hacker News",
+   "title": "Formlabs Studio 1 $699 Resin Printer",
+   "url": "https://formlabs.com/products/form-studio-1-basic-founders-edition/",
+   "summary": "Article URL: https://formlabs.com/products/form-studio-1-basic-founders-edition/ Comments URL: https://news.ycombinator.com/item?id=50281044 Points: 5 # Comments: 0",
+   "published_at": 1793222370.0,
+   "published_bj": "2026-10-29 05:19"
+  },
+  {
+   "id": "bdc0b96b52d5a7cb",
+   "source": "cnBeta",
+   "title": "Google发布Gemini 4 Carbon 网络安全能力大幅提升",
+   "url": "https://www.cnbeta.com.tw/articles/tech/1584224.htm",
+   "summary": "Google于当地时间10月28日正式发布新一代前沿人工智能模型Gemini 4 Carbon，重点提升软件编程、智能体执行复杂任务以及网络安全防御能力。Google称，新模型在发现软件漏洞、验证漏洞可利用性以及修复安全缺陷等多个环节取得显著进步，并在多项基准测试中领先于OpenAI和Anthropic的旗舰模型。不过，考虑到其强大的网络安全能力可能带来的潜在风险，Google目前仅向部分经过筛选的网络安全防御机构开放使用，暂时不会立即向所有开发者和普通用户提供。 阅读全文",
+   "published_at": 1793222342.0,
+   "published_bj": "2026-10-29 05:19"
+  },
+  {
+   "id": "d602204541409bed",
+   "source": "IT之家",
+   "title": "全球 AI 基建风向标：英伟达于太平洋时间 11 月 17 日公布 2027 财年第 3 财季财报",
+   "url": "https://www.ithome.com/1/019/263.htm",
+   "summary": "IT之家 10 月 29 日消息，英伟达今天（10 月 29 日）发布公告，宣布将于太平洋时间 11 月 17 日下午 2 时（北京时间 11 月 18 日上午 6 时）召开电话会议， 公布并解读 2027 财年第三财季（截至 2026 年 10 月 25 日）财务业绩。 根据公告，本次电话会议将在英伟达投资者关系网站进行仅收听模式的网络直播。公司管理层发言后，将安排问答环节，提问对象仅限金融分析师和机构投资者。 值得注意的是，英伟达此次调整了信息披露节奏：在电话会议开始前，公司会先行公布业绩，并同步发布执行副总裁兼首席财务官科莱特 · 克雷斯（Colette Kress）撰写的书面业绩评论。",
+   "published_at": 1793222339.0,
+   "published_bj": "2026-10-29 05:18"
+  },
+  {
+   "id": "9350f19aa96b2322",
+   "source": "IT之家",
+   "title": "打破乔布斯时代的硬件禁忌：特努斯谈苹果首款触控 MacBook Pro，键盘 / 触控板仍是核心",
+   "url": "https://www.ithome.com/1/019/262.htm",
+   "summary": "IT之家 10 月 29 日消息，《连线》（Wired）昨日（10 月 28 日）发布博文，报道称针对苹果打破“Mac 不做触屏”立场，现任首席执行官约翰 · 特努斯（John Ternus）表示， 键盘和触控板仍是 Mac 的核心交互方式，触控只是“在合适场景下更舒适、更方便”的补充。 图源：苹果 IT之家注： “Mac 永远不该做触屏”曾是史蒂夫 · 乔布斯（Steve Jobs）最坚决的标志性原则之一。 乔布斯早在 2010 年就曾公开明确抨击触屏笔记本， 称其在人体工程学上是“一场灾难”。 乔布斯认为长时间抬手触摸屏幕会导致手臂疲劳，即所谓的“大猩猩手臂（Gorilla Arm）效应”",
+   "published_at": 1793221462.0,
+   "published_bj": "2026-10-29 05:04"
+  },
+  {
+   "id": "547c10ab3e8504db",
+   "source": "Hacker News",
+   "title": "Leak Exposes 41,000 Homeland Security Workers–Including Undercover ICE Agents",
+   "url": "https://www.wired.com/story/massive-leak-exposes-41000-homeland-security-workers-including-undercover-ice-agents/",
+   "summary": "Article URL: https://www.wired.com/story/massive-leak-exposes-41000-homeland-security-workers-including-undercover-ice-agents/ Comments URL: https://news.ycombinator.com/item?id=50280864 Points: 50 # Comments: 9",
+   "published_at": 1793221404.0,
+   "published_bj": "2026-10-29 05:03"
+  },
+  {
+   "id": "14dde32a7821676e",
+   "source": "Hacker News",
+   "title": "Nango (YC W23) Is Hiring Across Eng, FDE, Marketing, DevRel",
+   "url": "https://nango.dev/careers",
+   "summary": "Article URL: https://nango.dev/careers Comments URL: https://news.ycombinator.com/item?id=50280824 Points: 0 # Comments: 0",
+   "published_at": 1793221206.0,
+   "published_bj": "2026-10-29 05:00"
+  },
+  {
    "id": "e2f4a22599577e2b",
    "source": "InfoQ中文",
    "title": "Instagram 采用原生 AI 架构对用户界面进行了现代化改造，将 token 成本降低了 33%",
@@ -40,6 +166,15 @@
    "published_bj": "2026-10-29 05:00"
   },
   {
+   "id": "83fe75775cbadaed",
+   "source": "Hacker News",
+   "title": "The case of the 9 bit AES key",
+   "url": "https://v12.sh/blog/the-case-of-the-9bit-aes-key",
+   "summary": "Article URL: https://v12.sh/blog/the-case-of-the-9bit-aes-key Comments URL: https://news.ycombinator.com/item?id=50280722 Points: 4 # Comments: 1",
+   "published_at": 1793220704.0,
+   "published_bj": "2026-10-29 04:51"
+  },
+  {
    "id": "fb5f514935c8f567",
    "source": "IT之家",
    "title": "谷歌最强 AI 模型：Gemini 4 Carbon 登顶全球智能指数榜首，“专职”做网络安全",
@@ -47,6 +182,15 @@
    "summary": "IT之家 10 月 29 日消息，谷歌正式发布新一代前沿大模型 Gemini 4 Carbon ，主打业界顶尖的网络安全能力与长程任务处理能力。 谷歌称其为目前最强的模型，重点强化了网络安全能力和处理复杂、长周期任务的能力。 该模型在最新版 Artificial Analysis Intelligence Index v5.0 中排名第一，综合得分 59。 Gemini 4 Carbon 首发入门定价与两周前发布的 Gemini 4 Argon 保持一致，缓存输入 Tokens 可享输入价 95% 折扣。 输入：每百万 Tokens 2 美元 （IT之家注：现汇率约合 13.3 元人民币） 输",
    "published_at": 1793220700.0,
    "published_bj": "2026-10-29 04:51"
+  },
+  {
+   "id": "d5f1d0bdfe708437",
+   "source": "Hacker News",
+   "title": "Leak website releases data on DHS employees",
+   "url": "https://www.reuters.com/legal/government/leak-website-releases-data-tens-thousands-dhs-employees-2026-10-28/",
+   "summary": "Article URL: https://www.reuters.com/legal/government/leak-website-releases-data-tens-thousands-dhs-employees-2026-10-28/ Comments URL: https://news.ycombinator.com/item?id=50280662 Points: 7 # Comments: 0",
+   "published_at": 1793220412.0,
+   "published_bj": "2026-10-29 04:46"
   },
   {
    "id": "fda43764a80c9d92",
@@ -82,6 +226,15 @@
    "url": "https://www.ithome.com/1/019/259.htm",
    "summary": "IT之家 10 月 29 日消息，科技媒体 AppleInsider 今天（10 月 29 日）发布博文，在现场体验配备 PROLED XDR 显示屏的首款触控 MacBook Pro 后， 认为苹果并未把 macOS 改成 iPad 式界面，而是为触控操作做了局部适配。 现场演示的苹果首款触控 MacBook Pro 运行 macOS 27 系统，仍保留键盘和触控板。在界面上最直观的变化是窗口左上角的红、黄、绿控制按钮，用户手指触碰后会放大，更容易准确点按。IT之家附上相关演示视频如下： 在官方新闻稿中，苹果称在这款触控 MacBook Pro 上，还支持滑动滚动、双指缩放、拖动幻灯片等常见",
    "published_at": 1793218258.0,
+   "published_bj": "2026-10-29 04:10"
+  },
+  {
+   "id": "2c072bd335fa9c68",
+   "source": "Hacker News",
+   "title": "Google AI gets cagey when asked who won the 2020 elections",
+   "url": "https://arstechnica.com/ai/2026/10/google-ai-gets-cagey-when-asked-who-won-the-2020-elections/",
+   "summary": "Article URL: https://arstechnica.com/ai/2026/10/google-ai-gets-cagey-when-asked-who-won-the-2020-elections/ Comments URL: https://news.ycombinator.com/item?id=50280178 Points: 35 # Comments: 22",
+   "published_at": 1793218216.0,
    "published_bj": "2026-10-29 04:10"
   },
   {
@@ -641,6 +794,15 @@
    "summary": "Article URL: https://dsrupt.news/articles/billionaires-spend-0-07-of-their-wealth-to-avoid-a-5-tax-call-seventy-fold/ Comments URL: https://news.ycombinator.com/item?id=50275890 Points: 26 # Comments: 4",
    "published_at": 1793203327.0,
    "published_bj": "2026-10-29 00:02"
+  },
+  {
+   "id": "db4de9437c6d682f",
+   "source": "Hacker News",
+   "title": "Meta censored the No Kings Instagram account during a nationwide campaign",
+   "url": "https://paulfwalsh.substack.com/p/meta-censored-the-no-kings-instagram",
+   "summary": "Article URL: https://paulfwalsh.substack.com/p/meta-censored-the-no-kings-instagram Comments URL: https://news.ycombinator.com/item?id=50275887 Points: 83 # Comments: 8",
+   "published_at": 1793203313.0,
+   "published_bj": "2026-10-29 00:01"
   },
   {
    "id": "00b0a7afa7c8c886",
