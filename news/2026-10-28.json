@@ -1,8 +1,152 @@
 {
  "date": "2026-10-28",
- "generated_at": 1793147898.4256988,
- "count": 81,
+ "generated_at": 1793151431.9421105,
+ "count": 98,
  "items": [
+  {
+   "id": "49b60db84c3f3f45",
+   "source": "InfoQ中文",
+   "title": "在AI时代如何提升软件工程能力",
+   "url": "https://www.infoq.cn/article/Qwr9oqOSAdmi1YibHVWr?utm_source=rss&utm_medium=article",
+   "summary": "点击查看原文>",
+   "published_at": 1793178420.0,
+   "published_bj": "2026-10-28 17:07"
+  },
+  {
+   "id": "ab7b90cc614131fc",
+   "source": "IT之家",
+   "title": "消息称 Solidigm 计划在美斥资 450 亿美元建设 NAND 晶圆厂",
+   "url": "https://www.ithome.com/1/018/747.htm",
+   "summary": "IT之家 10 月 28 日消息，彭博社当地时间昨日报道称，SK 海力士完全控股的 NAND 与 SSD 企业 Solidigm（思得）正就在美新建晶圆厂事宜与美国商务部洽谈 。 Solidigm 计划为此投资 450 亿美元 （IT之家注：现汇率约合 3,006.47 亿元人民币） ，并最终有望扩展近 1000 亿美元。消息人士透露，潜在的建厂地址包括纽约州在内的多个州，晶圆厂最早可能明年动工。 该企业目前采用“双头”业务结构：在美设有总部和研发设施，中国则是其唯一量产晶圆厂所在地。Solidigm 计划先在中国实践新技术然后转移至拟设的美国晶圆厂，但这需要得到美国商务部的许可。",
+   "published_at": 1793151300.0,
+   "published_bj": "2026-10-28 09:35"
+  },
+  {
+   "id": "9c60b5a24ed8d955",
+   "source": "IT之家",
+   "title": "微软 Surface Duo 2 变“苹果 iPhone Duo”：铺路原生运行 iOS 26，双屏触控已可用",
+   "url": "https://www.ithome.com/1/018/746.htm",
+   "summary": "IT之家 10 月 28 日消息，科技媒体 Windows Latest 昨日（10 月 27 日）发布博文，分享了来自开发者 @none24smu 的更多图片，展示了微软 Surface Duo 2 手机成功运行 iOS 26 系统。 iOS 26 已在微软 Surface Duo 2 上原生运行。 微软 Surface Duo 2 是微软于 2021 年推出的双屏安卓手机，也是 Surface Duo 系列的第二代、也是最后一款产品。它采用两块 5.8 英寸 OLED 屏幕通过铰链相连，展开后形成约 8.3 英寸的“双屏平板”体验。 需要注意的是，本次并非通过模拟器实现， 开发者在 Sur",
+   "published_at": 1793151059.0,
+   "published_bj": "2026-10-28 09:30"
+  },
+  {
+   "id": "fa2d2a9e31665def",
+   "source": "IT之家",
+   "title": "支持大部分地区：苹果 AirPods Pro 3 京东国补后 1163 元近期好价",
+   "url": "https://www.ithome.com/1/018/745.htm",
+   "summary": "苹果 AirPods Pro 第三代 支持升级版主动降噪 + 心率传感功能，国行定价 1899 元。 今日活动价 1499 元； PLUS 会员领取 120 元优惠券： 点此领取 ； PLUS 会员立减 10.04 元； 国补立减 203.9 元； 到手价为 1163.62 元： 京东 AirPods Pro 第三代 搭配 MagSafe 充电盒 1163.62 元 直达链接 本次国补支持大部分地区。 部分小伙伴详情页自动弹出 15 元优惠券，到手价为 1150.87 元： 京东 11.11 红包至高 26888 元无门槛可用，每天可抽一次： 点此抽取 。 京东 AirPods Pro 第三代",
+   "published_at": 1793150990.0,
+   "published_bj": "2026-10-28 09:29"
+  },
+  {
+   "id": "7184b8ac0321725e",
+   "source": "IT之家",
+   "title": "Oracle 打造多样化 AI 算力组合，引入 SambaNova SN50 RDU",
+   "url": "https://www.ithome.com/1/018/744.htm",
+   "summary": "IT之家 10 月 28 日消息，SambaNova 当地时间 10 月 27 日宣布与 Oracle（甲骨文）达成合作，前者的 AI 推理芯片 SN50 RDU 将加入 OCI 云服务。 IT之家注意到， Oracle 正建立一个多样化的 AI 算力组合 ：在 NVIDIA、AMD 的芯片外，该企业已实现 Positron 的 Atlas 芯片的正式上线，也将成为首家提供 Google TPU 的外部超大规模企业，还将导入 Cerebras 的晶圆级芯片，而英特尔的至强 \"Diamond Rapids\" 处理器也将支持未来的 OCI X14 产品线。 相关阅读： 《 甲骨文扩大与英伟达的芯片",
+   "published_at": 1793150734.0,
+   "published_bj": "2026-10-28 09:25"
+  },
+  {
+   "id": "8e3929890a7bb2c2",
+   "source": "IT之家",
+   "title": "特斯拉计划用 Optimus 人形机器人给 Robotaxi 插拔充电枪，终极目标是无线充电",
+   "url": "https://www.ithome.com/1/018/743.htm",
+   "summary": "IT之家 10 月 28 日消息，特斯拉的 Robotaxi 无人驾驶出租车已经能够自行驶入超级充电站，但目前仍需要工作人员手动插上充电枪。未来，这项工作可能交由特斯拉的人形机器人 Optimus 完成。 在近期接受 Munro Live 采访时，特斯拉车辆工程副总裁拉尔斯 · 莫拉维（Lars Moravy）和 Cybercab 项目负责人埃里克 · 厄利（Eric Earley）表示，特斯拉计划利用 Optimus 人形机器人为 Robotaxi 插拔充电枪，同时继续研发自动化程度更高的无线充电系统。两人表示：“希望 Optimus 很快就能帮我们完成这项工作。” 目前仍由人工为无人驾驶出",
+   "published_at": 1793150513.0,
+   "published_bj": "2026-10-28 09:21"
+  },
+  {
+   "id": "3034f57ee0d71fd0",
+   "source": "IT之家",
+   "title": "曝“飞行相机鼻祖”零零无限估值达 10 亿美元，跻身独角兽行列",
+   "url": "https://www.ithome.com/1/018/742.htm",
+   "summary": "IT之家 10 月 28 日消息，据雷峰网今日爆料，“飞行相机鼻祖”零零无限最新一轮融资估值已达 10 亿美元 （IT之家注：现汇率约合 66.81 亿元人民币） ，跻身独角兽行列。 据接近零零无限的人士估算， 公司今年四季度收入预计约达六七个亿 。而此前信息披露，2025 年零零营收已突破 10 亿元人民币。 报道称，零零无限今年共披露两轮融资，其中包括博裕资本、襄禾资本、德联资本等在内的 D 轮融资，以及蚂蚁集团旗下公司的 D+ 轮融资。而据接近零零无限的投资人透露，目前要和公司谈融资，tittle 必须是机构合伙人级别。 IT之家查询公开资料了解到，零零无限由两位斯坦福大学博士王孟秋和张",
+   "published_at": 1793150351.0,
+   "published_bj": "2026-10-28 09:19"
+  },
+  {
+   "id": "4f4fe60f050a04f6",
+   "source": "IT之家",
+   "title": "京东红包今日 10 点再加码：猜大小赢至高 10 元红包",
+   "url": "https://www.ithome.com/1/018/740.htm",
+   "summary": "今日 10 点京东红包再加码，猜大小赢红包，至高可膨胀至 10 元： 点此抽取 。 猜大小红包玩法：小伙伴们可以选择骰子点数大、小（1、2、3 点为小，4、5、6 点为大），获胜 1 局即可获得领取额外奖励的机会（每人至多 5 次机会），可随机获得京东红包、品类东券或店铺券等奖励。 当获胜 1 局后，可以选择直接领取奖励或者继续挑战。如果再次获胜，则红包奖励会膨胀一定倍数，如果失败则无法获得任何奖励。 连胜次数越多，红包奖金越高，连赢四局，红包膨胀三次，至高可达 10 元。 蚊子肉也是肉，节点开始越早抢红包金额越大，小伙伴可每天都领（多个红包支持叠加使用），积攒多天后带走个大件哦 ~ 京东 1",
+   "published_at": 1793150339.0,
+   "published_bj": "2026-10-28 09:18"
+  },
+  {
+   "id": "81ae9e9e7cd95a49",
+   "source": "IT之家",
+   "title": "华为 FreeClip 2 耳夹耳机潮玩拼色版开售，1299 元",
+   "url": "https://www.ithome.com/1/018/739.htm",
+   "summary": "IT之家 10 月 28 日消息，华为 FreeClip 2 耳夹耳机全新潮玩拼色版本官宣今天（10 月 28 日）上午 10:08 开售， 售价 1299 元 。 耳机可选红 / 黄、蓝 / 黄、红 / 蓝拼色三个版本。据IT之家了解，华为 FreeClip 2 采用了华为全新第三代自研低功耗芯片，首次引入 NPU AI 处理器，算力提升 10 倍；新增鸿蒙 AI 耳边助手，支持头动播报、智慧播报、小艺唤醒、小艺翻译。 这款耳机采用了 φ10.8mm 开放式双振膜声学单元，响度提升 100%，低频动力提升 100%；配备 60mAh 电池，单次续航 9 小时，搭配充电仓（537mAh 电池）",
+   "published_at": 1793150210.0,
+   "published_bj": "2026-10-28 09:16"
+  },
+  {
+   "id": "531a8f269fb95a3f",
+   "source": "TechCrunch",
+   "title": "VCs will make billions on Anthropic’s IPO, but Amazon is set to make much (much) more",
+   "url": "https://techcrunch.com/2026/10/27/vcs-will-make-billions-on-anthropics-ipo-but-amazon-is-set-to-make-much-much-more/",
+   "summary": "Massive note conversions reveal the true extent of Amazon's ownership in Anthropic.",
+   "published_at": 1793150128.0,
+   "published_bj": "2026-10-28 09:15"
+  },
+  {
+   "id": "15946311c9034eb0",
+   "source": "IT之家",
+   "title": "弃用 AI 改称 SI：特斯拉车主手册更新 FSD 计算机名称",
+   "url": "https://www.ithome.com/1/018/738.htm",
+   "summary": "IT之家 10 月 28 日消息，特斯拉的 FSD 计算机将启用新名称。特斯拉官方车主手册已在多个位置将“FSD Computer”替换为“SI Computer”，涉及 Model 3、Model Y 和 Cybertruck 的相关手册。 这似乎是特斯拉正式调整车载计算机命名方式的前兆。按照新的命名规则，HW2.0、HW2.5、HW3 和 AI4 可能分别更名为 SI2.0、SI2.5、SI3 和 SI4。 车主手册已经发生变化 目前，Model Y 车主手册中的 FSD 相关章节已改为：“Model Y 配备的 SI Computer 旨在利用这些输入信息，快速处理神经网络数据，并做出决",
+   "published_at": 1793149837.0,
+   "published_bj": "2026-10-28 09:10"
+  },
+  {
+   "id": "8c29c742cd0b2269",
+   "source": "IT之家",
+   "title": "“比苹果 Spotlight 更好用”：外媒初探微软 Win11 无 Bing 搜索体验",
+   "url": "https://www.ithome.com/1/018/737.htm",
+   "summary": "IT之家 10 月 28 日消息，科技媒体 Windows Latest 今天（10 月 28 日）发布博文，报道称微软正在向更多 Windows 11 用户，推送“无必应搜索”体验。 用户可打开设置应用，在“设置 &gt; 隐私和安全 &gt; 搜索”路径下，关闭网页搜索建议及 Microsoft Store 建议， 让开始菜单搜索回归以本地应用、文件、文件夹和系统设置为核心的界面。 用户关闭该功能后，搜索首页将不再展示 Bing 热词、小测验、每日冷知识以及 MSN 相关内容，取而代之的是更简洁的最近本地搜索记录。用户也可手动删除不需要的历史条目，减少干扰性推荐。IT之家附上相关截图如下：",
+   "published_at": 1793149731.0,
+   "published_bj": "2026-10-28 09:08"
+  },
+  {
+   "id": "b2711a7ab3d03482",
+   "source": "IT之家",
+   "title": "柳叶刀倒计时报告：气候变化对人类健康的危害正加速攀升",
+   "url": "https://www.ithome.com/1/018/736.htm",
+   "summary": "IT之家 10 月 28 日消息，一份于周三发布的全球重要评估报告显示，气候变化对人类健康造成的负面影响不仅日益加剧，而且其恶化速度也比十年前更快。 据IT之家了解，这份报告是国际科学家合作项目《柳叶刀倒计时》（Lancet Countdown）发布的第十份年度报告。该项目持续追踪全球变暖与人类健康之间的关系。本次报告对比了《巴黎气候协定》签署前后的两个十年，发现多项重大健康威胁在协定签署后加速恶化，其中包括致命高温和干旱。与此同时，各国也在加大清洁能源投资，并采取措施保护民众免受气候灾害影响。 这份报告发布之际，欧洲刚刚经历了一个高温肆虐的夏季，热浪造成数万人死亡。此外，联合国将于近期在土耳",
+   "published_at": 1793149102.0,
+   "published_bj": "2026-10-28 08:58"
+  },
+  {
+   "id": "42eec8edb5159650",
+   "source": "IT之家",
+   "title": "通用汽车做自动驾驶不放弃雷达，高管称坚持纯视觉是无视物理规律",
+   "url": "https://www.ithome.com/1/018/735.htm",
+   "summary": "IT之家 10 月 28 日消息，通用汽车计划最迟在 2028 年推出高速公路自动驾驶功能，但并不打算效仿特斯拉放弃雷达等传感器、转而采用纯视觉方案的做法。 当地时间 27 日，通用汽车首席产品官斯特林 · 安德森接受 The Verge 采访时直言：“如果只依靠摄像头，根据物理规律，某些情况下就会出问题。雷达本来就很便宜，根本没必要取消。非要取消雷达， 简直是无视物理规律的奇怪信仰执念 。” 通用汽车计划在 2028 款凯迪拉克 ESCALADE IQ 上推出升级版 Super Cruise 超级辅助驾驶系统，同时使用 雷达、激光雷达和摄像头 。 特斯拉始终坚持纯视觉自动驾驶技术路线。尽管研",
+   "published_at": 1793148955.0,
+   "published_bj": "2026-10-28 08:55"
+  },
+  {
+   "id": "40f9c075535caf81",
+   "source": "IT之家",
+   "title": "OpenAI 开放 ChatGPT 新插件：苹果用户授权后可充当 AI 管家，管理 iCloud 邮件、日程等",
+   "url": "https://www.ithome.com/1/018/734.htm",
+   "summary": "IT之家 10 月 28 日消息，OpenAI 昨日（10 月 27 日）发布博文，宣布面向所有 ChatGPT 套餐用户， 开放 iCloud Mail 与 iCloud Calendar 两项插件。 IT之家附上相关视频如下： 在适用群体方面，OpenAI 官方宣布适用于所有 ChatGPT 计划用户，涵盖 Free（免费版）、Go、Plus、Pro 等消费者套餐。在适用平台上，包括网页版、桌面版以及 iOS 版 ChatGPT 应用。 功能方面，OpenAI 表示经用户授权后，ChatGPT 可读取、检查 iCloud 收件箱，创建和管理邮件，并依据邮件中的会议、航班、日程等信息，直接在",
+   "published_at": 1793148945.0,
+   "published_bj": "2026-10-28 08:55"
+  },
+  {
+   "id": "5fb8c1b2d0178a22",
+   "source": "IT之家",
+   "title": "国产脑机接口公司脑虎科技完成 7 亿元 B 轮融资，国投聚力、深创投、勤智资本领投",
+   "url": "https://www.ithome.com/1/018/733.htm",
+   "summary": "IT之家 10 月 28 日消息，今天（28 日）上午，国产脑机接口公司 NeuroXess 脑虎科技宣布完成 7 亿元人民币 B 轮融资 。本轮融资由国投聚力、深创投、勤智资本联合领投，中芯聚源、黄浦投资、基石资本、IDG 资本、曦晨资本、钧犀资本、华福证券、华赛智汇、众为资本、江西金控等知名机构跟投，盛大、中平资本等机构持续支持。 据悉，本轮融资资金将用于“三全（IT之家注：全植入、全无线、全功能）”脑机接口系统的 多中心临床试验及注册审批、超级工厂量产建设，以及下一代产品研发与 BCI+AI 融合探索 。 本轮融资将重点用于四大方向： “三全”系统多中心注册临床试验及注册审批、超级工厂量",
+   "published_at": 1793148445.0,
+   "published_bj": "2026-10-28 08:47"
+  },
   {
    "id": "49bdb1790ae5578d",
    "source": "IT之家",
@@ -109,6 +253,15 @@
    "url": "https://www.ithome.com/1/018/720.htm",
    "summary": "IT之家 10 月 28 日消息， 今日 SK 海力士公布了 2026 年第三季度业绩 ，营收 104.62 万亿韩元 （IT之家注：现汇率约合 5,280.17 亿元人民币） ，同比增长 327.9%；营业利润 83.33 万亿韩元 （现汇率约合 4,205.67 亿元人民币） ，同比增长 632.1%；归属于母公司股东的净利润 39.53 万亿韩元 （现汇率约合 1,995.08 亿元人民币） ，同比增长 213.9%。前三季度，公司累计营收 236.51 万亿韩元 （现汇率约合 1.19 万亿元人民币） ，同比增长 267.7%；营业利润 181.49 万亿韩元 （现汇率约合 9,159",
    "published_at": 1793145229.0,
+   "published_bj": "2026-10-28 07:53"
+  },
+  {
+   "id": "3fc2055999093401",
+   "source": "Hacker News",
+   "title": "Moxnox 1.0: NT-Like, POSIX-Compatible OS Running Atop Btrfs",
+   "url": "https://github.com/maharmstone/moxnox",
+   "summary": "Article URL: https://github.com/maharmstone/moxnox Comments URL: https://news.ycombinator.com/item?id=50267569 Points: 7 # Comments: 1",
+   "published_at": 1793145221.0,
    "published_bj": "2026-10-28 07:53"
   },
   {
