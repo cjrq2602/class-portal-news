@@ -1,8 +1,26 @@
 {
  "date": "2026-10-29",
- "generated_at": 1793225924.5491018,
- "count": 95,
+ "generated_at": 1793228295.6834948,
+ "count": 103,
  "items": [
+  {
+   "id": "771822a346a39e21",
+   "source": "IT之家",
+   "title": "微软 Win11 26x00.9818 可选更新发布：定制右键菜单、文件夹选项支持深色模式",
+   "url": "https://www.ithome.com/1/019/270.htm",
+   "summary": "IT之家 10 月 29 日消息，微软昨日（10 月 28 日）面向 Windows 11 25H2 和 26H2 用户，推送 10 月可选更新 KB5127936， 用户安装后版本号升至 Build 26200.9818 和 Build 26300.9818。 IT之家翻译官方更新日志内容如下： 一、逐步推送更新内容 1.1、文件管理器中的右键菜单 微软推出了重新设计的右键菜单，速度更快、更简洁、更易于自定义。它打开速度显著提升，减少了视觉干扰，并能更好地控制右键单击时显示的命令和第三方应用程序扩展。 现在用户可以深度自定义右键菜单。点击右键菜单底部的“自定义菜单”按钮，即可在“设置”中打开",
+   "published_at": 1793228156.0,
+   "published_bj": "2026-10-29 06:55"
+  },
+  {
+   "id": "05d757c3e1137ce4",
+   "source": "IT之家",
+   "title": "核心广告业务增长放缓，谷歌将 AI 搜索广告推向国际市场",
+   "url": "https://www.ithome.com/1/019/269.htm",
+   "summary": "IT之家 10 月 29 日消息，据 TechCrunch 报道，谷歌正将旗下 AI 搜索体验中的广告业务推向国际市场，押注生成式 AI（Generative AI）即使在其核心搜索广告业务增长放缓的情况下，也能开启新的收入机会。 Alphabet 在周三举行的第三季度财报电话会议上宣布了这一消息。财报显示，该季度公司营收达 1,276 亿美元 （IT之家注：现汇率约合 8,525.01 亿元人民币） ，同比增长 25%。然而，由于搜索广告业务增速持续回落，财报公布后 Alphabet 股价下跌 8%。 谷歌首席商务官菲利普 · 辛德勒（Philipp Schindler）在投资者电话会议上表",
+   "published_at": 1793228099.0,
+   "published_bj": "2026-10-29 06:54"
+  },
   {
    "id": "07aec451d477fa8c",
    "source": "InfoQ中文",
@@ -11,6 +29,51 @@
    "summary": "点击查看原文>",
    "published_at": 1793228033.0,
    "published_bj": "2026-10-29 06:53"
+  },
+  {
+   "id": "5b984b324c9d558e",
+   "source": "TechCrunch",
+   "title": "Apple’s touchscreen MacBook Pro pushes laptop pricing to a new extreme",
+   "url": "https://techcrunch.com/2026/10/28/apples-touchscreen-macbook-pro-pushes-laptop-pricing-to-a-new-extreme/",
+   "summary": "Prepare to cough up around $14,549 if you want the new touchscreen MacBook Pro to have every upgrade.",
+   "published_at": 1793227670.0,
+   "published_bj": "2026-10-29 06:47"
+  },
+  {
+   "id": "fdbfdfd3a03db068",
+   "source": "IT之家",
+   "title": "Claude AI 找漏洞实战：安卓手机锁屏下提取照片、53 分钟攻破 Linux 获取最高权限",
+   "url": "https://www.ithome.com/1/019/268.htm",
+   "summary": "IT之家 10 月 29 日消息，Anthropic 于 10 月 27 日发布研究报告，称其通过一个未公开发布的内部 Claude 研究模型，在 Chrome、Safari、Android、Windows 和 Linux 中发现漏洞， 并将多个漏洞串联为 5 条可实际运行的攻击链。相关漏洞均已按协调披露流程报告厂商并修复。 其中最受关注的是 Chrome，IT之家援引博文介绍，Anthropic 向谷歌提交的报告共产生 62 个严重或高危 CVE，包括 13 个沙箱逃逸漏洞和 21 个可控制网页渲染进程的漏洞，修复已随 Chrome 156 发布。 研究团队称，Claude 在研究人员给出初",
+   "published_at": 1793226925.0,
+   "published_bj": "2026-10-29 06:35"
+  },
+  {
+   "id": "0f4148a5f0165c18",
+   "source": "Hacker News",
+   "title": "Claude Code found 145K photos I deleted from my iPhone sitting in a hidden cache",
+   "url": "https://twitter.com/coolerwave/status/2114088769112477849",
+   "summary": "Article URL: https://twitter.com/coolerwave/status/2114088769112477849 Comments URL: https://news.ycombinator.com/item?id=50281902 Points: 4 # Comments: 0",
+   "published_at": 1793226870.0,
+   "published_bj": "2026-10-29 06:34"
+  },
+  {
+   "id": "c06886552f6ada09",
+   "source": "IT之家",
+   "title": "LG 发布通知，电视端微软 Copilot 即将全面下线",
+   "url": "https://www.ithome.com/1/019/267.htm",
+   "summary": "IT之家 10 月 29 日消息，科技媒体 Windows Central 昨日（10 月 28 日）发布博文，报道称部分 LG 智能电视用户反馈已收到服务终止通知， 微软已针对包括 LG 在内的所有电视，将停止运营 Copilot 服务。 IT之家曾于 2025 年 12 月报道，LG 电视在升级推送的 webOS 系统更新后， 自动安装了微软 Copilot AI 应用程序，且系统未提供任何卸载或移除选项 。 LG 公司随后回应表示出现在电视上的 Copilot 图标并非传统的原生应用程序，只是一个网页浏览器快捷方式，目的是“提升客户便利性”。用户点击该图标后，系统会跳转至浏览器并打开微软",
+   "published_at": 1793226302.0,
+   "published_bj": "2026-10-29 06:25"
+  },
+  {
+   "id": "3bc9036be9c742b6",
+   "source": "IT之家",
+   "title": "微软 Win11 安全中心换新颜：操作更清爽、状态更清楚、提示更好懂",
+   "url": "https://www.ithome.com/1/019/266.htm",
+   "summary": "IT之家 10 月 29 日消息，科技媒体 Windows Central 昨日（10 月 28 日）发布博文，报道称微软升级 Windows 安全中心（Windows Security）应用， 在最新 1000.29680.0.1000 版本中重绘用户界面，从而更契合 Windows 11 整体风格。 界面上，新版 Windows Security 应用重点更新导航、页面布局、字体、间距、颜色、控件与对话框等视觉元素，让其更符合 Windows 11 的现代设计语言。 IT之家翻译公告内容如下： 更新了导航和布局：Windows Security 的页面现在使用更一致的布局和导航，并且在不同",
+   "published_at": 1793225973.0,
+   "published_bj": "2026-10-29 06:19"
   },
   {
    "id": "9e512b300daa70f3",
@@ -505,6 +568,15 @@
    "url": "https://www.cnbeta.com.tw/articles/tech/1584216.htm",
    "summary": "苹果公司当日宣布，标志性的背部发光苹果Logo将在最新款MacBook Pro上回归。2016年，苹果在重新设计MacBook Pro时取消了这一发光设计，改用抛光处理、不再发光的Logo；如今它回来了，让这款笔记本最具辨识度的设计元素在阔别十年后重新点亮。 阅读全文",
    "published_at": 1793210865.0,
+   "published_bj": "2026-10-29 02:07"
+  },
+  {
+   "id": "5a8bd52ee32b735f",
+   "source": "Hacker News",
+   "title": "Scaling Hierarchical Networks",
+   "url": "https://www.cartesia.ai/blog/from-tokens-to-bytes-part-1",
+   "summary": "Article URL: https://www.cartesia.ai/blog/from-tokens-to-bytes-part-1 Comments URL: https://news.ycombinator.com/item?id=50278253 Points: 12 # Comments: 0",
+   "published_at": 1793210861.0,
    "published_bj": "2026-10-29 02:07"
   },
   {
