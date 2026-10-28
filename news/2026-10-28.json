@@ -1,8 +1,116 @@
 {
  "date": "2026-10-28",
- "generated_at": 1793144978.278102,
- "count": 67,
+ "generated_at": 1793147898.4256988,
+ "count": 81,
  "items": [
+  {
+   "id": "49bdb1790ae5578d",
+   "source": "IT之家",
+   "title": "苹果 MacBook Neo 2 笔记本曝光：2027 年上半年见，内存升级至 12GB",
+   "url": "https://www.ithome.com/1/018/731.htm",
+   "summary": "IT之家 10 月 28 日消息，彭博社昨日（10 月 27 日）报道称苹果正在筹备第二代 MacBook Neo，预计将在 2027 年上半年发布。 初代 MacBook Neo 于 2026 年 3 月上市，凭借较低价格和便携定位迅速成为苹果的热门产品。报道指出，其市场表现超出预期，也促使外界普遍认为苹果会尽快推出后续机型。 从已知传闻看，MacBook Neo 2 的核心升级可能集中在性能与内存：新机或将搭载 A19 处理器， 并将基础内存从现款的 8GB 提升至 12GB。 现款 MacBook Neo 采用 A18 Pro 芯片和 8GB 内存；若传闻属实，新款在多任务、网页浏览、轻",
+   "published_at": 1793147811.0,
+   "published_bj": "2026-10-28 08:36"
+  },
+  {
+   "id": "37d4d48984ffacab",
+   "source": "IT之家",
+   "title": "苹果 M6 iMac 细节：2.5Gb 网口藏进电源适配器，标准版选配需加价 200 元",
+   "url": "https://www.ithome.com/1/018/730.htm",
+   "summary": "IT之家 10 月 28 日消息，苹果昨日（10 月 27 日）推出搭载 M6 芯片的新款 24 英寸 iMac，起售价为 12,499 元。其中一个值得关注的变化， 就是用户将 2.5Gb 以太网端口作为可选配置提供。 与以往将网口集成在机身不同，新款 iMac 的以太网端口被整合进配套电源适配器中，用户在购买时选择该选项后，即可通过电源线同时完成供电与有线网络连接。 IT之家查询苹果中国官网，在标准款 M6 iMac（2 个雷雳端口、10 核中央处理器、10 核图形处理器、双 16 核神经网络引擎）上，默认没有配备 2.5Gb 以太网端口选项， 用户可以额外支付 200 元选配。 不过更高",
+   "published_at": 1793147436.0,
+   "published_bj": "2026-10-28 08:30"
+  },
+  {
+   "id": "426c272b8d7b982e",
+   "source": "IT之家",
+   "title": "另类鼠标“Super Mouse”问世：正面装有触屏，还能打字、设置快捷操作",
+   "url": "https://www.ithome.com/1/018/729.htm",
+   "summary": "IT之家 10 月 28 日消息，据外媒 The Verge 今天（28 日）报道，Arctic Fox 推出了一款名为 Super Mouse 的多功能鼠标，其独特之处是 在手掌下方加入了一块小型触控屏 。 其造型方正，虽未必符合人体工学，却可以兼作触控板、宏键盘和直播控制器。如果用户习惯在手机上快速打字，甚至可以 通过鼠标上的触控屏代替全尺寸键盘 ，使用类似手机的输入方式，还支持滑动输入。 Super Mouse 在 Kickstarter 平台开启众筹预订，支持者可享受 199 美元 （IT之家注：现汇率约合 1,330 元人民币） 的优惠价，正式零售价则为 249 美元 （现汇率约合 ",
+   "published_at": 1793147404.0,
+   "published_bj": "2026-10-28 08:30"
+  },
+  {
+   "id": "834c47989d1eea00",
+   "source": "IT之家",
+   "title": "甲骨文扩大与英伟达的芯片供应合作，同时引入谷歌 TPU 和 Cerebras 芯片",
+   "url": "https://www.ithome.com/1/018/728.htm",
+   "summary": "IT之家 10 月 28 日消息，甲骨文（Oracle）当地时间周二表示，将扩大与英伟达（Nvidia）的云端 AI 芯片合作，同时进一步推进供应多元化，引入英伟达竞争对手的产品，包括谷歌母公司 Alphabet 旗下的谷歌以及 Cerebras Systems 的芯片。 甲骨文和英伟达表示，甲骨文将大规模部署英伟达最新一代 Vera Rubin AI 服务器，相关部署规模将达到“数吉瓦级”。双方没有披露这笔交易的具体金额。不过，英伟达首席执行官黄仁勋（Jensen Huang）此前曾表示，Vera Rubin 系统每吉瓦部署规模可为英伟达带来最高 400 亿美元 （IT之家注：现汇率约合 2",
+   "published_at": 1793146810.0,
+   "published_bj": "2026-10-28 08:20"
+  },
+  {
+   "id": "5688d5b8958825dc",
+   "source": "IT之家",
+   "title": "Pocketpair：我们很乐意探讨让《幻兽帕鲁》登陆任天堂 Switch 2",
+   "url": "https://www.ithome.com/1/018/727.htm",
+   "summary": "IT之家 10 月 28 日消息，当地时间 27 日，据外媒 VGC 报道，《幻兽帕鲁》开发商 Pocketpair CEO 沟部拓郎表示，非常希望未来能将游戏移植到任天堂 Switch 2。 2024 年 6 月，在《幻兽帕鲁》正式版推出前，沟部拓郎曾认为， 初代 Switch 的硬件性能不足 ，游戏很难移植过去。 2025 年 3 月，Pocketpair 公关总监约翰 · 巴克利接受 IGN 采访时也指出，《幻兽帕鲁》对硬件配置要求较高，无法在初代 Switch 上运行。如果 Switch 2 性能足够强劲，那么移植新主机绝对值得考虑。当时，Switch 2 的具体配置还未公布。 VGC",
+   "published_at": 1793146519.0,
+   "published_bj": "2026-10-28 08:15"
+  },
+  {
+   "id": "783564ef2056ab7a",
+   "source": "IT之家",
+   "title": "英伟达投资印度初创公司 Simplismart，助力企业用更少 GPU 运行 AI 模型",
+   "url": "https://www.ithome.com/1/018/726.htm",
+   "summary": "IT之家 10 月 28 日消息，随着人工智能热潮持续挤占计算资源，英伟达（Nvidia）参与了印度初创公司 Simplismart 的 1,400 万美元 （IT之家注：现汇率约合 9,357.3 万元人民币） 融资。本轮投资瞄准的是一类能够提高 AI 模型运行效率的软件，这类软件在某些情况下可以帮助企业减少 GPU 的使用量。 本轮融资为 B 轮融资，全部为新增股权融资。除英伟达外，Accel、Shastra VC 和 Micromax 也参与了投资，达拉斯风险投资公司（Dallas Venture Capital）领投。交易完成后，这家成立仅四年的初创公司估值约为 1 亿美元 （现汇率约",
+   "published_at": 1793146171.0,
+   "published_bj": "2026-10-28 08:09"
+  },
+  {
+   "id": "e4ab7ed5e75a3737",
+   "source": "IT之家",
+   "title": "Apple Watch 立功，苹果连发 2 个用户健康故事",
+   "url": "https://www.ithome.com/1/018/725.htm",
+   "summary": "IT之家 10 月 28 日消息，苹果公司今天（10 月 28 日）更新“Apple Watch 真实故事”系列视频， 新增两位用户案例，称其借助 Apple Watch 的健康监测与运动激励功能改善了健康状况。 IT之家注：该系列此前也曾分享过用户因静息心率异常警报而及时就医、确诊并接受癌症治疗的经历。 在最新发布的两段视频中，用户 Morgan 表示，Apple Watch 的高心率警报在夜间将她唤醒。她随后就医，被诊断出肾脏感染，并一度进入败血性休克。 另一名用户 Josh 则称，自己原本体重达 340 磅（约 154 公斤），在 Apple Watch 的活动圆环和运动提醒激励下开始更",
+   "published_at": 1793145913.0,
+   "published_bj": "2026-10-28 08:05"
+  },
+  {
+   "id": "d0e14dacfc26e8e5",
+   "source": "IT之家",
+   "title": "Anthropic 创始人阿莫迪兄妹：“7 人共同创业”是公司成功的关键",
+   "url": "https://www.ithome.com/1/018/724.htm",
+   "summary": "IT之家 10 月 28 日消息，据《商业内幕》27 日报道，Anthropic CEO 达里奥 · 阿莫迪和妹妹、公司总裁丹妮拉 · 阿莫迪当初决定与另外五人共同创业时，许多人都认为，七名联合创始人一起经营公司绝不是个好主意。 时至今日，兄妹二人却认为，七人共同创办公司的模式恰恰是 Anthropic 成功的关键 。 达里奥透露，大家在公司的持股比例相同，有着共同的愿景，也非常信任每个人。自己经常与其他联合创始人在重大问题上意见不一，包括应该为 AI 模型采取哪些安全措施、如何游说推动监管政策等，但 彼此间的信任 让分歧总能得到解决。 “大家都是出于善意才有不同意见，最终总能达成一致，因为我",
+   "published_at": 1793145746.0,
+   "published_bj": "2026-10-28 08:02"
+  },
+  {
+   "id": "81865cfb98a78a1d",
+   "source": "IT之家",
+   "title": "Opera 推出 WebAI 网页标准，支持浏览器本地部署 AI 模型",
+   "url": "https://www.ithome.com/1/018/723.htm",
+   "summary": "IT之家 10 月 28 日消息，浏览器厂商 Opera 推出了一项名为 WebAI 的新 Web 标准，允许用户直接在浏览器中运行 AI 模型，无需依赖云端服务。 Opera 表示，WebAI 旨在兼容多种 AI 模型。该公司以谷歌（Google）的 Gemma 为例。这是一款由谷歌推出的开放权重模型，首次发布于两年前。Opera 还表示，在 Mac 电脑上，WebAI 支持调用苹果的端侧基础模型。 Opera 强调，WebAI 并不绑定任何特定模型，而是面向多种开放权重 AI 系统打造。该项目源于 Opera 此前将本地运行的大语言模型引入浏览器的相关工作。 目前，Opera 已在旗下主力",
+   "published_at": 1793145659.0,
+   "published_bj": "2026-10-28 08:00"
+  },
+  {
+   "id": "9fcb73a7714334af",
+   "source": "IT之家",
+   "title": "IT早报 1028：张一鸣以 6700 亿元刷新中国首富财富纪录；谷歌推最强世界模型 Genie 4；苹果推 M6 芯片 14 寸 MacBook Pro；小米 REDMI K100 手机发布...",
+   "url": "https://www.ithome.com/1/018/722.htm",
+   "summary": "“IT早报”时间，大家好，现在是 2026 年 10 月 28 日星期三，今天的重要科技资讯有： 1. 2026 胡润百富榜发布：张一鸣 6700 亿元刷新中国首富财富纪录、DeepSeek 梁文锋首次上榜位列第七 胡润研究院发布《2026 胡润百富榜》。今年共有 1529 位个人财富 50 亿元以上的企业家登上胡润百富榜。字节跳动创始人张一鸣以 6700 亿元第二次成为中国首富，刷新中国首富的财富纪录。DeepSeek 的梁文锋首次上榜便以 2800 亿元财富，进入榜单前十（位列第七）。&gt;&gt; 查看详情 2. 谷歌推出最强世界模型 Genie 4：一句话创造可交互虚拟世界，首次实现",
+   "published_at": 1793145348.0,
+   "published_bj": "2026-10-28 07:55"
+  },
+  {
+   "id": "2bc15c3f762c28fd",
+   "source": "IT之家",
+   "title": "苹果公开 tvOS 27.2 更新日志：用户可用 iPhone 定位 Siri Remote 遥控器",
+   "url": "https://www.ithome.com/1/018/721.htm",
+   "summary": "IT之家 10 月 28 日消息，科技媒体 MacRumors 今天（10 月 28 日）发布博文， 报道称苹果公司最新公开了 tvOS 27.2 正式版更新日志内容，重点提升 Home 使用体验，增强屏保个性化等。 IT之家附上苹果官方更新日志内容如下： 本次更新带来了使用 FaceTime 保持联系、个性化屏幕保护程序以及使用“查找”功能定位 Siri Remote 的新方式，同时还修复了 Apple TV 4K 的错误并进行了安全更新。 FaceTime FaceTime 连接功能让您可以直接通过 Apple TV 加入通话，更加便捷。 手语翻译和字幕支持功能可让您在通话中添加第三方服务",
+   "published_at": 1793145314.0,
+   "published_bj": "2026-10-28 07:55"
+  },
+  {
+   "id": "3829596507f28e1d",
+   "source": "IT之家",
+   "title": "SK 海力士：预计存储市场供不应求局面将持续至 2030 年",
+   "url": "https://www.ithome.com/1/018/720.htm",
+   "summary": "IT之家 10 月 28 日消息， 今日 SK 海力士公布了 2026 年第三季度业绩 ，营收 104.62 万亿韩元 （IT之家注：现汇率约合 5,280.17 亿元人民币） ，同比增长 327.9%；营业利润 83.33 万亿韩元 （现汇率约合 4,205.67 亿元人民币） ，同比增长 632.1%；归属于母公司股东的净利润 39.53 万亿韩元 （现汇率约合 1,995.08 亿元人民币） ，同比增长 213.9%。前三季度，公司累计营收 236.51 万亿韩元 （现汇率约合 1.19 万亿元人民币） ，同比增长 267.7%；营业利润 181.49 万亿韩元 （现汇率约合 9,159",
+   "published_at": 1793145229.0,
+   "published_bj": "2026-10-28 07:53"
+  },
   {
    "id": "3c443fc44226c222",
    "source": "IT之家",
@@ -11,6 +119,15 @@
    "summary": "IT之家 10 月 28 日消息，据《纽约时报》报道，一名患有癫痫的 31 岁亚马逊软件工程师鲍文 · 万（Bowen Wan）于今年 2 月去世。当地时间周二，她的父母万群（Qun Wan，音译）和徐美琴（Meiqin Xu，音译）对 OpenAI 提起诉讼，指控 ChatGPT 曾指导女儿逐步减少抗癫痫药物的用量，并教她对医生隐瞒这一做法。 鲍文 · 万去世前使用的是 GPT-4o。这款模型曾因容易与用户建立过度迎合、不断给予肯定的拟社会关系而受到批评。OpenAI 此前已宣布将停用该模型，并于 2 月 13 日将其从 ChatGPT 中下架，而万去世的时间是前一天。 IT之家注意到，这起",
    "published_at": 1793144959.0,
    "published_bj": "2026-10-28 07:49"
+  },
+  {
+   "id": "fb9594a41c5236f5",
+   "source": "Hacker News",
+   "title": "Free daily JSON feed of Shanghai government subsidy notices",
+   "url": "https://github.com/ZhongGheart/china-policy-data",
+   "summary": "Article URL: https://github.com/ZhongGheart/china-policy-data Comments URL: https://news.ycombinator.com/item?id=50267494 Points: 6 # Comments: 0",
+   "published_at": 1793144781.0,
+   "published_bj": "2026-10-28 07:46"
   },
   {
    "id": "de9c5c05fee62951",
@@ -137,6 +254,15 @@
    "summary": "Software company Guidewire announced Tuesday that it was buying UK agentic underwriting startup Hyperexponential for $1.7 billion in cash.",
    "published_at": 1793139963.0,
    "published_bj": "2026-10-28 06:26"
+  },
+  {
+   "id": "18a224f938c967b4",
+   "source": "Hacker News",
+   "title": "Expanding our partnership with GSA to bring Claude to all levels of government",
+   "url": "https://www.anthropic.com/news/expanding-partnership-gsa",
+   "summary": "Article URL: https://www.anthropic.com/news/expanding-partnership-gsa Comments URL: https://news.ycombinator.com/item?id=50266701 Points: 14 # Comments: 8",
+   "published_at": 1793139817.0,
+   "published_bj": "2026-10-28 06:23"
   },
   {
    "id": "587f9463d8b1474c",
