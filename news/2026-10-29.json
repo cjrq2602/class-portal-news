@@ -1,8 +1,17 @@
 {
  "date": "2026-10-29",
- "generated_at": 1793197771.4961848,
- "count": 15,
+ "generated_at": 1793201341.1669908,
+ "count": 16,
  "items": [
+  {
+   "id": "07aec451d477fa8c",
+   "source": "InfoQ中文",
+   "title": "不再逐个生成 Token：扩散模型迈向 35B，开始挑战 Agent 编程",
+   "url": "https://www.infoq.cn/article/0tgCLAMXFiFo0Dco5P9m?utm_source=rss&utm_medium=article",
+   "summary": "点击查看原文>",
+   "published_at": 1793228033.0,
+   "published_bj": "2026-10-29 06:53"
+  },
   {
    "id": "3f3c81f56f52f80c",
    "source": "InfoQ中文",
