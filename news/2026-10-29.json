@@ -1,8 +1,62 @@
 {
  "date": "2026-10-29",
- "generated_at": 1793179528.873719,
- "count": 4,
+ "generated_at": 1793183035.748305,
+ "count": 10,
  "items": [
+  {
+   "id": "2fe47132f029f249",
+   "source": "InfoQ中文",
+   "title": "大客户直接打1折、模型四个月降价80%：大模型价格战没有退路",
+   "url": "https://www.infoq.cn/article/ejtljxPixrIuUsGYi5xa?utm_source=rss&utm_medium=article",
+   "summary": "点击查看原文>",
+   "published_at": 1793211288.0,
+   "published_bj": "2026-10-29 02:14"
+  },
+  {
+   "id": "9d5196e15ce76777",
+   "source": "InfoQ中文",
+   "title": "全网恐慌48小时，拯救互联网的却是一个“无名之辈”",
+   "url": "https://www.infoq.cn/article/3HgfVzt6tQpQjrdE2x9J?utm_source=rss&utm_medium=article",
+   "summary": "点击查看原文>",
+   "published_at": 1793210929.0,
+   "published_bj": "2026-10-29 02:08"
+  },
+  {
+   "id": "6b3d246bb8843ddf",
+   "source": "InfoQ中文",
+   "title": "可组合商品套餐：Shipt Kits 平台内部解析",
+   "url": "https://www.infoq.cn/article/xBgiKNRRaMe5ORxXy16Q?utm_source=rss&utm_medium=article",
+   "summary": "点击查看原文>",
+   "published_at": 1793210400.0,
+   "published_bj": "2026-10-29 02:00"
+  },
+  {
+   "id": "2ad138f3c285c17c",
+   "source": "InfoQ中文",
+   "title": "Anthropic 内部系统被 AI Agent 12 小时攻破！会议记录、员工薪酬、内部模型讨论遭访问",
+   "url": "https://www.infoq.cn/article/mFXr0u4z0XftUGUg5Wm7?utm_source=rss&utm_medium=article",
+   "summary": "点击查看原文>",
+   "published_at": 1793210094.0,
+   "published_bj": "2026-10-29 01:54"
+  },
+  {
+   "id": "2bfb696eb40a2a85",
+   "source": "InfoQ中文",
+   "title": "Claude Code 撑起史上最大 IPO，被封号不退费的中国开发者撑起那 5%“脏收入”",
+   "url": "https://www.infoq.cn/article/lCw5JBglbgZj9BYeZChS?utm_source=rss&utm_medium=article",
+   "summary": "点击查看原文>",
+   "published_at": 1793209517.0,
+   "published_bj": "2026-10-29 01:45"
+  },
+  {
+   "id": "98bb2e2c3331f58e",
+   "source": "InfoQ中文",
+   "title": "前ACL顶会主席、Transformer一作导师来华分享：人类正在把“思考”全盘外包",
+   "url": "https://www.infoq.cn/article/SZuklTgjFS7o8BaZ8TJh?utm_source=rss&utm_medium=article",
+   "summary": "点击查看原文>",
+   "published_at": 1793209358.0,
+   "published_bj": "2026-10-29 01:42"
+  },
   {
    "id": "f6f87f35f19edd16",
    "source": "InfoQ中文",
