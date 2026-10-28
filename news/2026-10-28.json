@@ -1,7 +1,7 @@
 {
  "date": "2026-10-28",
- "generated_at": 1793151431.9421105,
- "count": 98,
+ "generated_at": 1793152092.772344,
+ "count": 102,
  "items": [
   {
    "id": "49b60db84c3f3f45",
@@ -11,6 +11,33 @@
    "summary": "点击查看原文>",
    "published_at": 1793178420.0,
    "published_bj": "2026-10-28 17:07"
+  },
+  {
+   "id": "cac624375af39aa0",
+   "source": "IT之家",
+   "title": "火狐 Firefox 浏览器 159 稳定版发布：修复 167 个漏洞，侧边栏增“已保存密码”默认按钮",
+   "url": "https://www.ithome.com/1/018/751.htm",
+   "summary": "IT之家 10 月 28 日消息，Mozilla 昨日（10 月 27 日）发布公告， 宣布推送火狐 Firefox 浏览器 159.0 稳定版 ，覆盖 Windows、macOS、Linux 和移动端；官方同时更新了长期支持版本 Firefox 153.6.0 和 115.44.0。 安全更新方面，Firefox 浏览器 159 共计修复 167 个安全漏洞，其中包括 108 个高危漏洞。多数问题与内存处理相关，例如缓冲区溢出、释放后使用等缺陷。Mozilla 敦促仍在使用旧版本 Firefox 的用户应尽快升级。 功能方面，Firefox 159 在侧边栏新增了“已保存密码”默认按钮，用户",
+   "published_at": 1793152067.0,
+   "published_bj": "2026-10-28 09:47"
+  },
+  {
+   "id": "88c6b3c5bbe3fc07",
+   "source": "IT之家",
+   "title": "英伟达发布 621.12 Game Ready 热修复驱动，解决视频播放冻结 / 黑屏问题",
+   "url": "https://www.ithome.com/1/018/749.htm",
+   "summary": "IT之家 10 月 28 日消息，NVIDIA（英伟达）当地时间 21 日发布适用于 GeForce 显卡和 RTX Spark 设备的 621.12 Game Ready 热修复驱动程序，解决了多项问题： 在某些 GeForce RTX 50 系列显卡 / RTX Spark 上， 更新至 Game Ready 621.01 后视频播放可能出现卡顿或黑屏 的问题； 当光线追踪照射模式设置为“击中照射”时，虚幻引擎 5.8 可能会崩溃； RTX Spark 设备通过 StarTech Thunderbolt 3 转 HDMI 2.0 适配器连接的 HDMI 显示器可能会出现画面异常； RTX ",
+   "published_at": 1793151794.0,
+   "published_bj": "2026-10-28 09:43"
+  },
+  {
+   "id": "ae5f9314ad6db35a",
+   "source": "IT之家",
+   "title": "马斯克坚定看好内存需求，称机器人所需内存将超过其他任何领域",
+   "url": "https://www.ithome.com/1/018/748.htm",
+   "summary": "IT之家 10 月 28 日消息，特斯拉 CEO 埃隆 · 马斯克于 10 月 27 日在社交平台 X 上表示， 机器人对内存的需求将超过地球上其他所有一切 ，驳斥了市场关于人形机器人对内存需求不大的观点。 Counterpoint 分析报告称，到 2030 年，人形机器人 DRAM 需求将增长 20 倍，达到 172,000 TB，每台机器人的内存容量翻倍至 39 GB。 Futurum Equities 分析师 Shay Boloor 估计，如果特斯拉每年生产 1000 万台 Optimus 人形机器人，每台搭载 72 GB 内存，年内存需求约为 720 PB，他认为机器人采用 LPDDR",
+   "published_at": 1793151508.0,
+   "published_bj": "2026-10-28 09:38"
   },
   {
    "id": "ab7b90cc614131fc",
@@ -146,6 +173,15 @@
    "summary": "IT之家 10 月 28 日消息，今天（28 日）上午，国产脑机接口公司 NeuroXess 脑虎科技宣布完成 7 亿元人民币 B 轮融资 。本轮融资由国投聚力、深创投、勤智资本联合领投，中芯聚源、黄浦投资、基石资本、IDG 资本、曦晨资本、钧犀资本、华福证券、华赛智汇、众为资本、江西金控等知名机构跟投，盛大、中平资本等机构持续支持。 据悉，本轮融资资金将用于“三全（IT之家注：全植入、全无线、全功能）”脑机接口系统的 多中心临床试验及注册审批、超级工厂量产建设，以及下一代产品研发与 BCI+AI 融合探索 。 本轮融资将重点用于四大方向： “三全”系统多中心注册临床试验及注册审批、超级工厂量",
    "published_at": 1793148445.0,
    "published_bj": "2026-10-28 08:47"
+  },
+  {
+   "id": "7c97fb2386666178",
+   "source": "少数派",
+   "title": "派早报：Apple 发布 M6 版 iMac 和 MacBook Pro 等",
+   "url": "https://sspai.com/post/117684",
+   "summary": "小米发布 REDMI K100 等新品，广电总局发布有线电视与 IPTV 运营服务新规等。 查看全文",
+   "published_at": 1793147845.0,
+   "published_bj": "2026-10-28 08:37"
   },
   {
    "id": "49bdb1790ae5578d",

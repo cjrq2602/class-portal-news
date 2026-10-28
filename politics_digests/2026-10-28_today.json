@@ -1,0 +1,362 @@
+{
+ "type": "today",
+ "date": "2026-10-28",
+ "window": {
+  "start_ts": 1793116800.0,
+  "end_ts": 1793149200.0
+ },
+ "generated_at": 1793152095.3350887,
+ "generator": "action",
+ "news_count": 40,
+ "keywords": [
+  "实施",
+  "银杏",
+  "ai",
+  "出口",
+  "出炉",
+  "消费",
+  "一夜",
+  "专家",
+  "专项",
+  "东部"
+ ],
+ "points": [
+  {
+   "text": "【银杏】中国天气网讯 凉风渐起，秋色染金",
+   "keyword": "银杏",
+   "news_ids": [
+    "5bf9a85c7779f578"
+   ],
+   "refs": [
+    {
+     "id": "5bf9a85c7779f578",
+     "title": "秋色染金！全国银杏观赏地图出炉 多种玩法带你探索银杏之美",
+     "source": "中新网即时",
+     "url": "https://www.chinanews.com.cn/life/2026/10-28/10721984.shtml",
+     "published_at": 1793147256.0
+    }
+   ]
+  },
+  {
+   "text": "【消费】双十一”临近，购物车里的商品越攒越多，下单前的犹豫也随之增加",
+   "keyword": "消费",
+   "news_ids": [
+    "38142fe5f34b224d"
+   ],
+   "refs": [
+    {
+     "id": "38142fe5f34b224d",
+     "title": "我的消费交给陌生人“审批”？",
+     "source": "中新网即时",
+     "url": "https://www.chinanews.com.cn/sh/2026/10-28/10721969.shtml",
+     "published_at": 1793142633.0
+    }
+   ]
+  },
+  {
+   "text": "【实施】本报记者 文丽娟",
+   "keyword": "实施",
+   "news_ids": [
+    "deeabee52e86db06"
+   ],
+   "refs": [
+    {
+     "id": "deeabee52e86db06",
+     "title": "医疗康复护理扩容提升工程实施方案》发布 专家解读",
+     "source": "中新网即时",
+     "url": "https://www.chinanews.com.cn/sh/2026/10-28/10721980.shtml",
+     "published_at": 1793146072.0
+    }
+   ]
+  },
+  {
+   "text": "【出口】中新网10月28日电 据《以色列时报》报道，以色列第26届议会选举当地时间27日22时结束投票",
+   "keyword": "出口",
+   "news_ids": [
+    "86e060d0cc45e0e3"
+   ],
+   "refs": [
+    {
+     "id": "86e060d0cc45e0e3",
+     "title": "以色列大选出口民调出炉！两大阵营均未过半，谁能组阁成悬念",
+     "source": "中新网即时",
+     "url": "https://www.chinanews.com.cn/gj/2026/10-28/10721968.shtml",
+     "published_at": 1793142315.0
+    }
+   ]
+  },
+  {
+   "text": "【为何】矿产资源“户口簿”30年来首次大修订",
+   "keyword": "为何",
+   "news_ids": [
+    "eba3b8dbbd8a5350"
+   ],
+   "refs": [
+    {
+     "id": "eba3b8dbbd8a5350",
+     "title": "矿产资源“户口簿”30年来首次大修订 174个矿种为何要重新登记",
+     "source": "中新网即时",
+     "url": "https://www.chinanews.com.cn/cj/2026/10-28/10721962.shtml",
+     "published_at": 1793139783.0
+    }
+   ]
+  },
+  {
+   "text": "【东部】中新网10月28日电 据中央气象台网站消息，昨日，云南和贵州部分地区出现明显降雨，东北及内蒙古等地出现大风",
+   "keyword": "东部",
+   "news_ids": [
+    "1cf9b6e286be74b0"
+   ],
+   "refs": [
+    {
+     "id": "1cf9b6e286be74b0",
+     "title": "中央气象台：北方和东部海区有大风天气 西藏南部将有强雨雪",
+     "source": "中新网即时",
+     "url": "https://www.chinanews.com.cn/sh/2026/10-28/10721981.shtml",
+     "published_at": 1793147187.0
+    }
+   ]
+  },
+  {
+   "text": "【一夜】夜深人静，万籁俱寂，突然，超市里的冰柜“自己”开启了除霜功能",
+   "keyword": "一夜",
+   "news_ids": [
+    "671ca48d2bc49160"
+   ],
+   "refs": [
+    {
+     "id": "671ca48d2bc49160",
+     "title": "超市生鲜一夜之间全都变质？国安部：警惕网络攻击",
+     "source": "中新网即时",
+     "url": "https://www.chinanews.com.cn/gn/2026/10-28/10721978.shtml",
+     "published_at": 1793145916.0
+    }
+   ]
+  },
+  {
+   "text": "【什基】中新网10月28日电 据路透社报道，当地时间27日，美国总统特朗普的夫人梅拉尼娅表示，俄罗斯与乌克兰在赫尔松地区奥列什基的停火协议于当天提前生效",
+   "keyword": "什基",
+   "news_ids": [
+    "6289f88001070394"
+   ],
+   "refs": [
+    {
+     "id": "6289f88001070394",
+     "title": "特朗普夫人：“俄乌奥列什基停火提前生效，范围已扩大”",
+     "source": "中新网即时",
+     "url": "https://www.chinanews.com.cn/gj/2026/10-28/10721974.shtml",
+     "published_at": 1793144635.0
+    }
+   ]
+  },
+  {
+   "text": "【专项】本报北京10月27日电 (记者吴储岐)民政部办公厅近日印发通知，部署开展“寒冬送温暖”专项救助行动，行动自即日起至2027年3月15日(东北、西",
+   "keyword": "专项",
+   "news_ids": [
+    "4c1b217c0dc142c0"
+   ],
+   "refs": [
+    {
+     "id": "4c1b217c0dc142c0",
+     "title": "民政部部署“寒冬送温暖”专项救助行动",
+     "source": "中新网即时",
+     "url": "https://www.chinanews.com.cn/gn/2026/10-28/10721963.shtml",
+     "published_at": 1793139981.0
+    }
+   ]
+  },
+  {
+   "text": "板栗，是秋季进补佳品，兼具现代营养与传统调养功效，滋补肾气、健脾开胃，还能帮助养护心脏，被誉为 “肾果”",
+   "keyword": "",
+   "news_ids": [
+    "66f40c848ca3a555"
+   ],
+   "refs": [
+    {
+     "id": "66f40c848ca3a555",
+     "title": "补肾气、调气血、健脾胃 这种“肾果”现在吃正合适→",
+     "source": "中新网即时",
+     "url": "https://www.chinanews.com.cn/jk/2026/10-28/10721990.shtml",
+     "published_at": 1793149059.0
+    }
+   ]
+  },
+  {
+   "text": "日前，第七届中缅智库高端论坛在德宏傣族景颇族自治州芒市闭幕",
+   "keyword": "",
+   "news_ids": [
+    "7bcc15a221329cc8"
+   ],
+   "refs": [
+    {
+     "id": "7bcc15a221329cc8",
+     "title": "中缅智库高端论坛缘何扎根德宏",
+     "source": "中新网即时",
+     "url": "https://www.chinanews.com.cn/aseaninfo/2026/10-28/10721986.shtml",
+     "published_at": 1793148895.0
+    }
+   ]
+  },
+  {
+   "text": "從招手示意某人過來，到示意結帳，學習常見的日本手勢能幫助你在日本的社交場合中不發一語也能應對自如",
+   "keyword": "",
+   "news_ids": [
+    "91ee3ab1d1adbcef"
+   ],
+   "refs": [
+    {
+     "id": "91ee3ab1d1adbcef",
+     "title": "「鞠躬不僅僅是一種問候」：日本肢體語言中不言而喻的規則",
+     "source": "BBC中文",
+     "url": "https://www.bbc.com/zhongwen/articles/ckrey039nxryo/trad?at_medium=RSS&at_campaign=rss",
+     "published_at": 1793148471.0
+    }
+   ]
+  },
+  {
+   "text": "Anthropic 的招股說明書長達355頁，其中包含大量從未披露過的公司資訊",
+   "keyword": "",
+   "news_ids": [
+    "7ff2563a5bfd4afd"
+   ],
+   "refs": [
+    {
+     "id": "7ff2563a5bfd4afd",
+     "title": "Anthropic 重磅上市——目前我們知道的五件驚人信息",
+     "source": "BBC中文",
+     "url": "https://www.bbc.com/zhongwen/articles/c623dz784403o/trad?at_medium=RSS&at_campaign=rss",
+     "published_at": 1793148465.0
+    }
+   ]
+  },
+  {
+   "text": "美國選民將於11月3日投票，這場選舉的結果可能對總統特朗普餘下任期產生重大影響",
+   "keyword": "",
+   "news_ids": [
+    "0856f41d7bf942b2"
+   ],
+   "refs": [
+    {
+     "id": "0856f41d7bf942b2",
+     "title": "美國中期選舉：選舉有何影響、為何重要？七個關鍵問題解析",
+     "source": "BBC中文",
+     "url": "https://www.bbc.com/zhongwen/articles/cmx2qg1nn1wlo/trad?at_medium=RSS&at_campaign=rss",
+     "published_at": 1793148457.0
+    }
+   ]
+  },
+  {
+   "text": "不出园区即可生产一架国产通航飞机",
+   "keyword": "",
+   "news_ids": [
+    "62c161cfc46beac0"
+   ],
+   "refs": [
+    {
+     "id": "62c161cfc46beac0",
+     "title": "核心部件本地配套率100%，芜湖航空小镇“坐地起飞”",
+     "source": "中新网即时",
+     "url": "https://www.chinanews.com.cn/cj/2026/10-28/10721983.shtml",
+     "published_at": 1793147089.0
+    }
+   ]
+  }
+ ],
+ "article": {
+  "title": "2026-10-28 新闻总结",
+  "paragraphs": [
+   {
+    "kind": "lead",
+    "text": "今天共收录 40 条新闻，来自 4 家媒体。把标题放在一起看，讨论主要集中在 AI、出口 这几个方向上，其余消息更像是零散补充。"
+   },
+   {
+    "kind": "section",
+    "heading": "地图",
+    "text": "先看「地图」。中国天气网讯 凉风渐起，另有 4 条消息指向同一话题。这条消息短期内的实际影响可能有限，但它指向的方向值得放进观察名单。",
+    "news_ids": [
+     "5bf9a85c7779f578"
+    ],
+    "refs": [
+     {
+      "id": "5bf9a85c7779f578",
+      "title": "秋色染金！全国银杏观赏地图出炉 多种玩法带你探索银杏之美",
+      "source": "中新网即时",
+      "url": "https://www.chinanews.com.cn/life/2026/10-28/10721984.shtml",
+      "published_at": 1793147256.0
+     }
+    ]
+   },
+   {
+    "kind": "section",
+    "heading": "AI",
+    "text": "与此同时「AI」。据10月26日《北京青年报》报道，今年的“双十一”大促已经启动，多家平台已开启优惠活动，另有 5 条消息指向同一话题。这类进展更像是把已有能力往工程化落地推了一步，真正的分水岭在于成本和可靠性能不能同时压下来。",
+    "news_ids": [
+     "98e418a9df82ad36"
+    ],
+    "refs": [
+     {
+      "id": "98e418a9df82ad36",
+      "title": "优惠规则难倒AI？“双十一”岂能层层设套",
+      "source": "中新网即时",
+      "url": "https://www.chinanews.com.cn/cj/2026/10-28/10721982.shtml",
+      "published_at": 1793146903.0
+     }
+    ]
+   },
+   {
+    "kind": "section",
+    "heading": "医疗",
+    "text": "另一个值得注意的方向是「医疗」。本报记者 文丽娟…，另有 4 条消息指向同一话题。从节奏上看，行业已经从「能不能做」转向「做得便不便宜」，这通常意味着竞争会更务实。",
+    "news_ids": [
+     "deeabee52e86db06"
+    ],
+    "refs": [
+     {
+      "id": "deeabee52e86db06",
+      "title": "医疗康复护理扩容提升工程实施方案》发布 专家解读",
+      "source": "中新网即时",
+      "url": "https://www.chinanews.com.cn/sh/2026/10-28/10721980.shtml",
+      "published_at": 1793146072.0
+     }
+    ]
+   },
+   {
+    "kind": "section",
+    "heading": "出口",
+    "text": "相比之下「出口」。中新网10月28日电 据《以色列时报》报道，以色列第26届议会选举当地时间27日22时结束投票…，另有 2 条消息指向同一话题。这条消息短期内的实际影响可能有限，但它指向的方向值得放进观察名单。",
+    "news_ids": [
+     "86e060d0cc45e0e3"
+    ],
+    "refs": [
+     {
+      "id": "86e060d0cc45e0e3",
+      "title": "以色列大选出口民调出炉！两大阵营均未过半，谁能组阁成悬念",
+      "source": "中新网即时",
+      "url": "https://www.chinanews.com.cn/gj/2026/10-28/10721968.shtml",
+      "published_at": 1793142315.0
+     }
+    ]
+   },
+   {
+    "kind": "glossary",
+    "items": [
+     {
+      "term": "AI",
+      "desc": "人工智能，让机器完成识别、生成、判断等原本需要人做的任务"
+     }
+    ]
+   },
+   {
+    "kind": "outlook",
+    "text": "把这几条放在一起看，最值得跟踪的是 AI 和 出口 两条线：一条决定技术能走多远，一条决定它多快能落到普通人的日常里。至于其他消息，可以先放进观察名单，等后续有更实的进展再判断。"
+   }
+  ],
+  "word_count": 522
+ },
+ "ai_enhanced": false,
+ "schema": 1,
+ "window_bj": {
+  "start": "2026-10-28 00:00",
+  "end": "2026-10-28 09:00"
+ }
+}

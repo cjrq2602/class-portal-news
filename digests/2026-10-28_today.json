@@ -1,0 +1,378 @@
+{
+ "type": "today",
+ "date": "2026-10-28",
+ "window": {
+  "start_ts": 1793116800.0,
+  "end_ts": 1793149200.0
+ },
+ "generated_at": 1793152095.230435,
+ "generator": "action",
+ "news_count": 87,
+ "keywords": [
+  "ai",
+  "the",
+  "of",
+  "in",
+  "to",
+  "世界",
+  "苹果",
+  "genie",
+  "模型",
+  "macbook"
+ ],
+ "points": [
+  {
+   "text": "【ai】The banking giant reminds customers that \"you're responsible for activit",
+   "keyword": "ai",
+   "news_ids": [
+    "6fae56428edf71ed"
+   ],
+   "refs": [
+    {
+     "id": "6fae56428edf71ed",
+     "title": "Bank of America kindly asks that you don’t share your banking password with your AI assistant",
+     "source": "TechCrunch",
+     "url": "https://techcrunch.com/2026/10/27/bank-of-america-kindly-asks-that-you-dont-share-your-banking-password-with-your-ai-assistant/",
+     "published_at": 1793137474.0
+    }
+   ]
+  },
+  {
+   "text": "【ai】IT早报”时间，大家好，现在是 2026 年 10 月 28 日星期三，今天的重要科技资讯有： 1. 2026 胡润百富榜发布：张一鸣 6700",
+   "keyword": "ai",
+   "news_ids": [
+    "9fcb73a7714334af"
+   ],
+   "refs": [
+    {
+     "id": "9fcb73a7714334af",
+     "title": "IT早报 1028：张一鸣以 6700 亿元刷新中国首富财富纪录；谷歌推最强世界模型 Genie 4；苹果推 M6 芯片 14 寸 MacBook Pro；小米 REDMI K100 手机发布...",
+     "source": "IT之家",
+     "url": "https://www.ithome.com/1/018/722.htm",
+     "published_at": 1793145348.0
+    }
+   ]
+  },
+  {
+   "text": "【ai】IT之家 10 月 28 日消息，OpenAI 昨日（10 月 27 日）发布博文，宣布面向所有 ChatGPT 套餐用户， 开放 iCloud",
+   "keyword": "ai",
+   "news_ids": [
+    "40f9c075535caf81"
+   ],
+   "refs": [
+    {
+     "id": "40f9c075535caf81",
+     "title": "OpenAI 开放 ChatGPT 新插件：苹果用户授权后可充当 AI 管家，管理 iCloud 邮件、日程等",
+     "source": "IT之家",
+     "url": "https://www.ithome.com/1/018/734.htm",
+     "published_at": 1793148945.0
+    }
+   ]
+  },
+  {
+   "text": "【归母】IT之家 10 月 28 日消息，SK 海力士今日发布 2026 财年（2026 年 1 月～2026 年 12 月）前三季度报（2026 年 ",
+   "keyword": "归母",
+   "news_ids": [
+    "8a3398858b9d9f2e"
+   ],
+   "refs": [
+    {
+     "id": "8a3398858b9d9f2e",
+     "title": "SK 海力士 2026 财年前三季度报归母净利润 173.68 万亿韩元，同比增长 527%",
+     "source": "IT之家",
+     "url": "https://www.ithome.com/1/018/716.htm",
+     "published_at": 1793143927.0
+    }
+   ]
+  },
+  {
+   "text": "【of】A whole crop of venture capital firms are raising significant new funds",
+   "keyword": "of",
+   "news_ids": [
+    "587f9463d8b1474c"
+   ],
+   "refs": [
+    {
+     "id": "587f9463d8b1474c",
+     "title": "From 8VC to Benchmark, here’s what’s hiding in October SEC filings",
+     "source": "TechCrunch",
+     "url": "https://techcrunch.com/2026/10/27/from-8vc-to-benchmark-heres-whats-hiding-in-october-sec-filings/",
+     "published_at": 1793139438.0
+    }
+   ]
+  },
+  {
+   "text": "【the】Article URL: https://oxidt",
+   "keyword": "the",
+   "news_ids": [
+    "3f5212790917dcc2"
+   ],
+   "refs": [
+    {
+     "id": "3f5212790917dcc2",
+     "title": "One year of Dioxus fullstack in production: the good, the painful",
+     "source": "Hacker News",
+     "url": "https://oxidt.com/blog/one-year-of-dioxus-fullstack-in-production-the-good-the-painful",
+     "published_at": 1793135955.0
+    }
+   ]
+  },
+  {
+   "text": "【of】Article URL: https://www",
+   "keyword": "of",
+   "news_ids": [
+    "18a224f938c967b4"
+   ],
+   "refs": [
+    {
+     "id": "18a224f938c967b4",
+     "title": "Expanding our partnership with GSA to bring Claude to all levels of government",
+     "source": "Hacker News",
+     "url": "https://www.anthropic.com/news/expanding-partnership-gsa",
+     "published_at": 1793139817.0
+    }
+   ]
+  },
+  {
+   "text": "【genie】Google DeepMind released Genie 4, a world model with real-time audio, mo",
+   "keyword": "genie",
+   "news_ids": [
+    "603737e7e9e53e9a"
+   ],
+   "refs": [
+    {
+     "id": "603737e7e9e53e9a",
+     "title": "Google’s Genie 4 world model adds audio, more realistic worlds, and real-time steering",
+     "source": "TechCrunch",
+     "url": "https://techcrunch.com/2026/10/27/googles-genie-4-world-model-adds-audio-more-realistic-worlds-and-real-time-steering/",
+     "published_at": 1793118657.0
+    }
+   ]
+  },
+  {
+   "text": "IT之家 10 月 28 日消息，一份于周三发布的全球重要评估报告显示，气候变化对人类健康造成的负面影响不仅日益加剧，而且其恶化速度也比十年前更",
+   "keyword": "",
+   "news_ids": [
+    "b2711a7ab3d03482"
+   ],
+   "refs": [
+    {
+     "id": "b2711a7ab3d03482",
+     "title": "柳叶刀倒计时报告：气候变化对人类健康的危害正加速攀升",
+     "source": "IT之家",
+     "url": "https://www.ithome.com/1/018/736.htm",
+     "published_at": 1793149102.0
+    }
+   ]
+  },
+  {
+   "text": "IT之家 10 月 28 日消息，通用汽车计划最迟在 2028 年推出高速公路自动驾驶功能，但并不打算效仿特斯拉放弃雷达等传感器、转而采用纯视觉",
+   "keyword": "",
+   "news_ids": [
+    "42eec8edb5159650"
+   ],
+   "refs": [
+    {
+     "id": "42eec8edb5159650",
+     "title": "通用汽车做自动驾驶不放弃雷达，高管称坚持纯视觉是无视物理规律",
+     "source": "IT之家",
+     "url": "https://www.ithome.com/1/018/735.htm",
+     "published_at": 1793148955.0
+    }
+   ]
+  },
+  {
+   "text": "IT之家 10 月 28 日消息，今天（28 日）上午，国产脑机接口公司 NeuroXess 脑虎科技宣布完成 7 亿元人民币 B 轮融资 ",
+   "keyword": "",
+   "news_ids": [
+    "5fb8c1b2d0178a22"
+   ],
+   "refs": [
+    {
+     "id": "5fb8c1b2d0178a22",
+     "title": "国产脑机接口公司脑虎科技完成 7 亿元 B 轮融资，国投聚力、深创投、勤智资本领投",
+     "source": "IT之家",
+     "url": "https://www.ithome.com/1/018/733.htm",
+     "published_at": 1793148445.0
+    }
+   ]
+  },
+  {
+   "text": "IT之家 10 月 28 日消息，当地时间 27 日，据外媒 VGC 报道，《幻兽帕鲁》开发商 Pocketpair CEO 沟部拓郎表示，非常",
+   "keyword": "",
+   "news_ids": [
+    "5688d5b8958825dc"
+   ],
+   "refs": [
+    {
+     "id": "5688d5b8958825dc",
+     "title": "Pocketpair：我们很乐意探讨让《幻兽帕鲁》登陆任天堂 Switch 2",
+     "source": "IT之家",
+     "url": "https://www.ithome.com/1/018/727.htm",
+     "published_at": 1793146519.0
+    }
+   ]
+  },
+  {
+   "text": "IT之家 10 月 28 日消息，据《商业内幕》27 日报道，Anthropic CEO 达里奥 · 阿莫迪和妹妹、公司总裁丹妮拉 · 阿莫迪当",
+   "keyword": "",
+   "news_ids": [
+    "d0e14dacfc26e8e5"
+   ],
+   "refs": [
+    {
+     "id": "d0e14dacfc26e8e5",
+     "title": "Anthropic 创始人阿莫迪兄妹：“7 人共同创业”是公司成功的关键",
+     "source": "IT之家",
+     "url": "https://www.ithome.com/1/018/724.htm",
+     "published_at": 1793145746.0
+    }
+   ]
+  },
+  {
+   "text": "IT之家 10 月 28 日消息， 今日 SK 海力士公布了 2026 年第三季度业绩 ，营收 104.62 万亿韩元 （IT之家注：现汇率约合",
+   "keyword": "",
+   "news_ids": [
+    "3829596507f28e1d"
+   ],
+   "refs": [
+    {
+     "id": "3829596507f28e1d",
+     "title": "SK 海力士：预计存储市场供不应求局面将持续至 2030 年",
+     "source": "IT之家",
+     "url": "https://www.ithome.com/1/018/720.htm",
+     "published_at": 1793145229.0
+    }
+   ]
+  },
+  {
+   "text": "Article URL: https://github",
+   "keyword": "",
+   "news_ids": [
+    "3fc2055999093401"
+   ],
+   "refs": [
+    {
+     "id": "3fc2055999093401",
+     "title": "Moxnox 1.0: NT-Like, POSIX-Compatible OS Running Atop Btrfs",
+     "source": "Hacker News",
+     "url": "https://github.com/maharmstone/moxnox",
+     "published_at": 1793145221.0
+    }
+   ]
+  }
+ ],
+ "article": {
+  "title": "2026-10-28 新闻总结",
+  "paragraphs": [
+   {
+    "kind": "lead",
+    "text": "今天共收录 87 条新闻，来自 6 家媒体。把标题放在一起看，讨论主要集中在 AI、模型、利润 这几个方向上，其余消息更像是零散补充。"
+   },
+   {
+    "kind": "section",
+    "heading": "另类鼠标“Super Mouse",
+    "text": "先看「另类鼠标“Super Mouse」。IT之家 10 月 28 日消息，据外媒 The Verge 今天（28 日）报道，Arctic Fox 推出了一款名为 Super Mouse 的多功能鼠标，另有 15 条消息指向同一话题。这类进展更像是把已有能力往工程化落地推了一步，真正的分水岭在于成本和可靠性能不能同时压下来。",
+    "news_ids": [
+     "426c272b8d7b982e"
+    ],
+    "refs": [
+     {
+      "id": "426c272b8d7b982e",
+      "title": "另类鼠标“Super Mouse”问世：正面装有触屏，还能打字、设置快捷操作",
+      "source": "IT之家",
+      "url": "https://www.ithome.com/1/018/729.htm",
+      "published_at": 1793147404.0
+     }
+    ]
+   },
+   {
+    "kind": "section",
+    "heading": "模型",
+    "text": "与此同时「模型」。IT早报”时间，大家好，现在是 2026 年 10 月 28 日星期三，今天的重要科技资讯有： 1. 2026 胡润百富榜发布：张一鸣 6700 亿元刷新中国首富财富纪录，另有 10 条消息指向同一话题。这类进展更像是把已有能力往工程化落地推了一步，真正的分水岭在于成本和可靠性能不能同时压下来。",
+    "news_ids": [
+     "9fcb73a7714334af"
+    ],
+    "refs": [
+     {
+      "id": "9fcb73a7714334af",
+      "title": "IT早报 1028：张一鸣以 6700 亿元刷新中国首富财富纪录；谷歌推最强世界模型 Genie 4；苹果推 M6 芯片 14 寸 MacBook Pro；小米 REDMI K100 手机发布...",
+      "source": "IT之家",
+      "url": "https://www.ithome.com/1/018/722.htm",
+      "published_at": 1793145348.0
+     }
+    ]
+   },
+   {
+    "kind": "section",
+    "heading": "AI",
+    "text": "另一个值得注意的方向是「AI」。IT之家 10 月 28 日消息，OpenAI 昨日（10 月 27 日）发布博文，宣布面向所有 ChatGPT 套餐用户，另有 13 条消息指向同一话题。这类进展更像是把已有能力往工程化落地推了一步，真正的分水岭在于成本和可靠性能不能同时压下来。",
+    "news_ids": [
+     "40f9c075535caf81"
+    ],
+    "refs": [
+     {
+      "id": "40f9c075535caf81",
+      "title": "OpenAI 开放 ChatGPT 新插件：苹果用户授权后可充当 AI 管家，管理 iCloud 邮件、日程等",
+      "source": "IT之家",
+      "url": "https://www.ithome.com/1/018/734.htm",
+      "published_at": 1793148945.0
+     }
+    ]
+   },
+   {
+    "kind": "section",
+    "heading": "利润",
+    "text": "相比之下「利润」。IT之家 10 月 28 日消息，SK 海力士今日发布 2026 财年（2026 年 1 月～2026 年 12 月）前三季度报（2026 年 1 月～2026 年 9 月）业绩快…，另有 4 条消息指向同一话题。资本动作往往领先产品一年，值得盯的不是金额，而是钱最后花向了算力、场景还是补贴。",
+    "news_ids": [
+     "8a3398858b9d9f2e"
+    ],
+    "refs": [
+     {
+      "id": "8a3398858b9d9f2e",
+      "title": "SK 海力士 2026 财年前三季度报归母净利润 173.68 万亿韩元，同比增长 527%",
+      "source": "IT之家",
+      "url": "https://www.ithome.com/1/018/716.htm",
+      "published_at": 1793143927.0
+     }
+    ]
+   },
+   {
+    "kind": "glossary",
+    "items": [
+     {
+      "term": "AI",
+      "desc": "人工智能，让机器完成识别、生成、判断等原本需要人做的任务"
+     },
+     {
+      "term": "GPU",
+      "desc": "图形处理器，因为擅长大规模并行计算，成了 AI 训练的主力硬件"
+     },
+     {
+      "term": "IPO",
+      "desc": "首次公开募股，公司第一次把股票卖给公众并上市"
+     },
+     {
+      "term": "LLM",
+      "desc": "大语言模型，主打文字理解与生成，是「大模型」的同义词"
+     },
+     {
+      "term": "算力",
+      "desc": "计算能力，通常用 GPU 数量和浮点性能衡量，是训练大模型的门槛"
+     }
+    ]
+   },
+   {
+    "kind": "outlook",
+    "text": "把这几条放在一起看，最值得跟踪的是 AI 和 模型 两条线：一条决定技术能走多远，一条决定它多快能落到普通人的日常里。至于其他消息，可以先放进观察名单，等后续有更实的进展再判断。"
+   }
+  ],
+  "word_count": 772
+ },
+ "ai_enhanced": false,
+ "schema": 1,
+ "window_bj": {
+  "start": "2026-10-28 00:00",
+  "end": "2026-10-28 09:00"
+ }
+}
