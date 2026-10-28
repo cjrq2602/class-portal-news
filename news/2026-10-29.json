@@ -1,7 +1,7 @@
 {
  "date": "2026-10-29",
- "generated_at": 1793201341.1669908,
- "count": 16,
+ "generated_at": 1793204919.915291,
+ "count": 19,
  "items": [
   {
    "id": "07aec451d477fa8c",
@@ -146,6 +146,33 @@
    "summary": "点击查看原文>",
    "published_at": 1793204782.0,
    "published_bj": "2026-10-29 00:26"
+  },
+  {
+   "id": "c663dff120a32e4c",
+   "source": "cnBeta",
+   "title": "变卖全部家当登上邮轮生活 如今他们被困柬埔寨",
+   "url": "https://www.cnbeta.com.tw/articles/tech/1584204.htm",
+   "summary": "他们曾被许诺将开启一场毕生难忘的航行。642 英尺长的 “奥德赛号” 邮轮上，乘客最低花 10 万美元即可购买舱位，开启预期长达数年的环球之旅。如今，由于邮轮运营方突然终止航行，将问题归咎于燃油价格暴涨，许多乘客被困在柬埔寨一座港口城镇。 阅读全文",
+   "published_at": 1793203336.0,
+   "published_bj": "2026-10-29 00:02"
+  },
+  {
+   "id": "93578148610d9b44",
+   "source": "Hacker News",
+   "title": "Billionaires Spend 0.07% of Their Wealth to Avoid a 5% Tax",
+   "url": "https://dsrupt.news/articles/billionaires-spend-0-07-of-their-wealth-to-avoid-a-5-tax-call-seventy-fold/",
+   "summary": "Article URL: https://dsrupt.news/articles/billionaires-spend-0-07-of-their-wealth-to-avoid-a-5-tax-call-seventy-fold/ Comments URL: https://news.ycombinator.com/item?id=50275890 Points: 26 # Comments: 4",
+   "published_at": 1793203327.0,
+   "published_bj": "2026-10-29 00:02"
+  },
+  {
+   "id": "00b0a7afa7c8c886",
+   "source": "TechCrunch",
+   "title": "Reddit is the latest platform to embrace the ‘For You’ feed",
+   "url": "https://techcrunch.com/2026/10/28/reddit-is-the-latest-platform-to-embrace-the-for-you-feed/",
+   "summary": "The For You feed combines posts from communities users have joined with recommendations tailored to their interests.",
+   "published_at": 1793203200.0,
+   "published_bj": "2026-10-29 00:00"
   }
  ]
 }
