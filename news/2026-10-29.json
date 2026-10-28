@@ -1,8 +1,17 @@
 {
  "date": "2026-10-29",
- "generated_at": 1793189097.2102606,
- "count": 12,
+ "generated_at": 1793193634.1753721,
+ "count": 13,
  "items": [
+  {
+   "id": "e2f4a22599577e2b",
+   "source": "InfoQ中文",
+   "title": "Instagram 采用原生 AI 架构对用户界面进行了现代化改造，将 token 成本降低了 33%",
+   "url": "https://www.infoq.cn/article/bXKVgLdpf7HONYHIi6Su?utm_source=rss&utm_medium=article",
+   "summary": "点击查看原文>",
+   "published_at": 1793221200.0,
+   "published_bj": "2026-10-29 05:00"
+  },
   {
    "id": "407be15ce0c50217",
    "source": "InfoQ中文",

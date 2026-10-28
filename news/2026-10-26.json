@@ -1,7 +1,7 @@
 {
  "date": "2026-10-26",
- "generated_at": 1793189097.2253878,
- "count": 372,
+ "generated_at": 1793193634.1912456,
+ "count": 373,
  "items": [
   {
    "id": "5da83f94f90a51a3",
@@ -442,6 +442,15 @@
    "url": "https://www.apple.com/newsroom/2026/10/apple-gives-ipad-mini-its-biggest-update-ever/",
    "summary": "Article URL: https://www.apple.com/newsroom/2026/10/apple-gives-ipad-mini-its-biggest-update-ever/ Comments URL: https://news.ycombinator.com/item?id=50243061 Points: 32 # Comments: 13",
    "published_at": 1793020416.0,
+   "published_bj": "2026-10-26 21:13"
+  },
+  {
+   "id": "e2140ce29d651cb1",
+   "source": "Hacker News",
+   "title": "Unveiling The Grid: PCBs made in America, twice as fast as Shenzhen",
+   "url": "https://www.circuithub.com/post/unveiling-the-grid",
+   "summary": "Article URL: https://www.circuithub.com/post/unveiling-the-grid Comments URL: https://news.ycombinator.com/item?id=50243060 Points: 36 # Comments: 16",
+   "published_at": 1793020411.0,
    "published_bj": "2026-10-26 21:13"
   },
   {
