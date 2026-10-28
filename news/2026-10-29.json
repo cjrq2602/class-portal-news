@@ -1,8 +1,26 @@
 {
  "date": "2026-10-29",
- "generated_at": 1793193634.1753721,
- "count": 13,
+ "generated_at": 1793197771.4961848,
+ "count": 15,
  "items": [
+  {
+   "id": "3f3c81f56f52f80c",
+   "source": "InfoQ中文",
+   "title": "别再只写提示词了，开始真正雇用智能体：智能体企业管理实践 ｜ 技术实践",
+   "url": "https://www.infoq.cn/article/II91QKxeaEg7RuZR2rrf?utm_source=rss&utm_medium=article",
+   "summary": "点击查看原文>",
+   "published_at": 1793225140.0,
+   "published_bj": "2026-10-29 06:05"
+  },
+  {
+   "id": "4290e7d574b29c18",
+   "source": "InfoQ中文",
+   "title": "当 AI 智能体代表用户行动时，企业治理将面临哪些新问题？ ｜ 技术趋势",
+   "url": "https://www.infoq.cn/article/CxWoiprQltg8YXmwmghd?utm_source=rss&utm_medium=article",
+   "summary": "点击查看原文>",
+   "published_at": 1793223585.0,
+   "published_bj": "2026-10-29 05:39"
+  },
   {
    "id": "e2f4a22599577e2b",
    "source": "InfoQ中文",
