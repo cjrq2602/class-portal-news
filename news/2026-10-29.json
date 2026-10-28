@@ -1,8 +1,17 @@
 {
  "date": "2026-10-29",
- "generated_at": 1793186424.6671808,
- "count": 11,
+ "generated_at": 1793189097.2102606,
+ "count": 12,
  "items": [
+  {
+   "id": "407be15ce0c50217",
+   "source": "InfoQ中文",
+   "title": "谷歌 Antigravity SDK 新增本地模型支持，提升 Token 效率和代码隐私性",
+   "url": "https://www.infoq.cn/article/TusFJkx6F151otgzliu2?utm_source=rss&utm_medium=article",
+   "summary": "点击查看原文>",
+   "published_at": 1793217600.0,
+   "published_bj": "2026-10-29 04:00"
+  },
   {
    "id": "cd0924e14dbf9026",
    "source": "InfoQ中文",
