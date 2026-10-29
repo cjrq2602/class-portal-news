@@ -1,0 +1,382 @@
+{
+ "type": "today",
+ "date": "2026-10-29",
+ "window": {
+  "start_ts": 1793203200.0,
+  "end_ts": 1793235600.0
+ },
+ "generated_at": 1793238612.8949766,
+ "generator": "action",
+ "news_count": 138,
+ "keywords": [
+  "苹果",
+  "pro",
+  "ai",
+  "macbook",
+  "触控",
+  "发布",
+  "款触",
+  "首款",
+  "the",
+  "果首"
+ ],
+ "points": [
+  {
+   "text": "【苹果】IT之家 10 月 29 日消息，苹果公司今天（10 月 29 日）发布配备 PROLED XDR 显示屏的首款触控 MacBook Pro，其",
+   "keyword": "苹果",
+   "news_ids": [
+    "3c463aea87a33815"
+   ],
+   "refs": [
+    {
+     "id": "3c463aea87a33815",
+     "title": "最高 128GB 统一内存：苹果首款触控 MacBook Pro 可本地运行数千亿参数 AI 模型",
+     "source": "IT之家",
+     "url": "https://www.ithome.com/1/019/251.htm",
+     "published_at": 1793212963.0
+    }
+   ]
+  },
+  {
+   "text": "【苹果】IT之家 10 月 29 日消息，《连线》（Wired）昨日（10 月 28 日）发布博文，报道称针对苹果打破“Mac 不做触屏”立场，现任首席",
+   "keyword": "苹果",
+   "news_ids": [
+    "9350f19aa96b2322"
+   ],
+   "refs": [
+    {
+     "id": "9350f19aa96b2322",
+     "title": "打破乔布斯时代的硬件禁忌：特努斯谈苹果首款触控 MacBook Pro，键盘 / 触控板仍是核心",
+     "source": "IT之家",
+     "url": "https://www.ithome.com/1/019/262.htm",
+     "published_at": 1793221462.0
+    }
+   ]
+  },
+  {
+   "text": "【ai】IT之家 10 月 29 日消息，据路透社今天（29 日）凌晨报道，Anthropic 在本月 15 日致美国加州州长加文 · 纽森的信中建议，",
+   "keyword": "ai",
+   "news_ids": [
+    "eb707844aa9f95cd"
+   ],
+   "refs": [
+    {
+     "id": "eb707844aa9f95cd",
+     "title": "Anthropic 致信加州州长纽森：法院应有权阻止严重风险 AI 模型",
+     "source": "IT之家",
+     "url": "https://www.ithome.com/1/019/271.htm",
+     "published_at": 1793228714.0
+    }
+   ]
+  },
+  {
+   "text": "【ai】A new developer platform will let businesses bring their services to Goo",
+   "keyword": "ai",
+   "news_ids": [
+    "eac01b18528e443a"
+   ],
+   "refs": [
+    {
+     "id": "eac01b18528e443a",
+     "title": "As AI agents reshape the web, Google opens Gemini and Search to more apps",
+     "source": "TechCrunch",
+     "url": "https://techcrunch.com/2026/10/28/as-ai-agents-reshape-the-web-google-opens-gemini-and-search-to-more-apps/",
+     "published_at": 1793206800.0
+    }
+   ]
+  },
+  {
+   "text": "【pro】Prepare to cough up around $14,549 if you want the new touchscreen MacBo",
+   "keyword": "pro",
+   "news_ids": [
+    "5b984b324c9d558e"
+   ],
+   "refs": [
+    {
+     "id": "5b984b324c9d558e",
+     "title": "Apple’s touchscreen MacBook Pro pushes laptop pricing to a new extreme",
+     "source": "TechCrunch",
+     "url": "https://techcrunch.com/2026/10/28/apples-touchscreen-macbook-pro-pushes-laptop-pricing-to-a-new-extreme/",
+     "published_at": 1793227670.0
+    }
+   ]
+  },
+  {
+   "text": "【发布】IT之家 10 月 29 日消息，微软今日发布 2027 财年（2026 年 7 月 1 日～2027 年 6 月 30 日）第一财季（2026",
+   "keyword": "发布",
+   "news_ids": [
+    "afd1fc3477329adc"
+   ],
+   "refs": [
+    {
+     "id": "afd1fc3477329adc",
+     "title": "微软 2027 财年第一财季营收 922.79 亿美元、同比增 19%，归母净利润 366.29 亿美元、同比增长 32%",
+     "source": "IT之家",
+     "url": "https://www.ithome.com/1/019/257.htm",
+     "published_at": 1793218121.0
+    }
+   ]
+  },
+  {
+   "text": "【发布】IT之家 10 月 29 日消息，福特汽车今日发布 2026 财年（2026 年 1 月～2026 年 12 月）前三季度报（2026 年 1 ",
+   "keyword": "发布",
+   "news_ids": [
+    "38a0f268fe6b4157"
+   ],
+   "refs": [
+    {
+     "id": "38a0f268fe6b4157",
+     "title": "福特汽车 2026 财年前三季度报归母净利润 32.7 亿美元，同比增长 13.5%",
+     "source": "IT之家",
+     "url": "https://www.ithome.com/1/019/260.htm",
+     "published_at": 1793218328.0
+    }
+   ]
+  },
+  {
+   "text": "IT之家 10 月 29 日消息，盛美半导体设备（上海）股份有限公司（以下简称“盛美上海”）今日宣布，盛美上海首台量产型 310mm×310mm",
+   "keyword": "",
+   "news_ids": [
+    "def6d69aa1f606aa"
+   ],
+   "refs": [
+    {
+     "id": "def6d69aa1f606aa",
+     "title": "盛美上海：首台量产型 310×310mm 面板级水平电镀设备出机至中国大陆以外的亚洲市场",
+     "source": "IT之家",
+     "url": "https://www.ithome.com/1/019/295.htm",
+     "published_at": 1793235402.0
+    }
+   ]
+  },
+  {
+   "text": "IT之家 10 月 29 日消息，据长期关注国内手机市场份额的数码博主 @RD观测 爆料，华为全新阔直板 Pura X View 销量表现惊艳，",
+   "keyword": "",
+   "news_ids": [
+    "59073094c6e40964"
+   ],
+   "refs": [
+    {
+     "id": "59073094c6e40964",
+     "title": "消息称华为阔直板手机 Pura X View 上市 50 天出货量超 100 万台",
+     "source": "IT之家",
+     "url": "https://www.ithome.com/1/019/293.htm",
+     "published_at": 1793234916.0
+    }
+   ]
+  },
+  {
+   "text": "IT之家 10 月 29 日消息，据路透社报道，奇瑞汽车常务副总裁张贵兵上周透露，预计到今年年底，奇瑞出口汽车中 海外生产的比例将超过 50% ",
+   "keyword": "",
+   "news_ids": [
+    "2ed673e4b947fa94"
+   ],
+   "refs": [
+    {
+     "id": "2ed673e4b947fa94",
+     "title": "奇瑞：预计到年底出口汽车海外生产比例超 50%，到 2030 年达 70%",
+     "source": "IT之家",
+     "url": "https://www.ithome.com/1/019/291.htm",
+     "published_at": 1793234244.0
+    }
+   ]
+  },
+  {
+   "text": "Article URL: https://divagr",
+   "keyword": "",
+   "news_ids": [
+    "f9d60c3d7ee7b576"
+   ],
+   "refs": [
+    {
+     "id": "f9d60c3d7ee7b576",
+     "title": "Qwenputer: A functioning, deterministic RISC-V CPU inside Qwen3.5",
+     "source": "Hacker News",
+     "url": "https://divagr.com/blog/qwenputer",
+     "published_at": 1793233545.0
+    }
+   ]
+  },
+  {
+   "text": "IT之家 10 月 29 日消息，据重庆市发展改革委，重庆张雪机车年产 50 万辆摩托车建设项目已取得建设用地规划许可，前期工作加快推进，预计年",
+   "keyword": "",
+   "news_ids": [
+    "ec4bd0bdfe76e24e"
+   ],
+   "refs": [
+    {
+     "id": "ec4bd0bdfe76e24e",
+     "title": "年产 50 万辆：重庆张雪机车摩托车建设项目预计年内开工",
+     "source": "IT之家",
+     "url": "https://www.ithome.com/1/019/288.htm",
+     "published_at": 1793233201.0
+    }
+   ]
+  },
+  {
+   "text": "Article URL: https://alpinelinux",
+   "keyword": "",
+   "news_ids": [
+    "4f17b54e50683a4e"
+   ],
+   "refs": [
+    {
+     "id": "4f17b54e50683a4e",
+     "title": "GitLab Security Incident: Attempted Exploitation of CVE-2026-97229",
+     "source": "Hacker News",
+     "url": "https://alpinelinux.org/posts/GitLab-security-incident-CVE-2026-97229.html",
+     "published_at": 1793231146.0
+    }
+   ]
+  },
+  {
+   "text": "IT之家 10 月 29 日消息，几年前，MINI 开始大力推行大屏幕设计，推出全新车机系统，将绝大部分车辆信息集中到仪表台中央的一块大型圆形中",
+   "keyword": "",
+   "news_ids": [
+    "90b1705b0420e7ac"
+   ],
+   "refs": [
+    {
+     "id": "90b1705b0420e7ac",
+     "title": "MINI 汽车将坚持圆形中控屏：这是我们独有的设计和品牌传统",
+     "source": "IT之家",
+     "url": "https://www.ithome.com/1/019/278.htm",
+     "published_at": 1793230605.0
+    }
+   ]
+  },
+  {
+   "text": "Article URL: https://data",
+   "keyword": "",
+   "news_ids": [
+    "6b3fb431973d9b92"
+   ],
+   "refs": [
+    {
+     "id": "6b3fb431973d9b92",
+     "title": "StackOverflow now gets fewer than 1000 questions a month",
+     "source": "Hacker News",
+     "url": "https://data.stackexchange.com/stackoverflow/query/1926661#graph?t=1",
+     "published_at": 1793230502.0
+    }
+   ]
+  }
+ ],
+ "article": {
+  "title": "2026-10-29 新闻总结",
+  "paragraphs": [
+   {
+    "kind": "lead",
+    "text": "今天共收录 138 条新闻，来自 6 家媒体。把标题放在一起看，讨论主要集中在 AI、模型 这几个方向上，其余消息更像是零散补充。"
+   },
+   {
+    "kind": "section",
+    "heading": "AI",
+    "text": "先看「AI」。IT之家 10 月 29 日消息，苹果公司今天（10 月 29 日）发布配备 PROLED XDR 显示屏的首款触控 MacBook Pro，另有 26 条消息指向同一话题。这类进展更像是把已有能力往工程化落地推了一步，真正的分水岭在于成本和可靠性能不能同时压下来。",
+    "news_ids": [
+     "3c463aea87a33815"
+    ],
+    "refs": [
+     {
+      "id": "3c463aea87a33815",
+      "title": "最高 128GB 统一内存：苹果首款触控 MacBook Pro 可本地运行数千亿参数 AI 模型",
+      "source": "IT之家",
+      "url": "https://www.ithome.com/1/019/251.htm",
+      "published_at": 1793212963.0
+     }
+    ]
+   },
+   {
+    "kind": "section",
+    "heading": "硬件",
+    "text": "与此同时「硬件」。IT之家 10 月 29 日消息，《连线》（Wired）昨日（10 月 28 日）发布博文，报道称针对苹果打破“Mac 不做触屏”立场，另有 11 条消息指向同一话题。这类进展更像是把已有能力往工程化落地推了一步，真正的分水岭在于成本和可靠性能不能同时压下来。",
+    "news_ids": [
+     "9350f19aa96b2322"
+    ],
+    "refs": [
+     {
+      "id": "9350f19aa96b2322",
+      "title": "打破乔布斯时代的硬件禁忌：特努斯谈苹果首款触控 MacBook Pro，键盘 / 触控板仍是核心",
+      "source": "IT之家",
+      "url": "https://www.ithome.com/1/019/262.htm",
+      "published_at": 1793221462.0
+     }
+    ]
+   },
+   {
+    "kind": "section",
+    "heading": "模型",
+    "text": "另一个值得注意的方向是「模型」。IT之家 10 月 29 日消息，据路透社今天（29 日）凌晨报道，Anthropic 在本月 15 日致美国加州州长加文 · 纽森的信中建议，政府应有权向法院申请禁令，另有 37 条消息指向同一话题。这类进展更像是把已有能力往工程化落地推了一步，真正的分水岭在于成本和可靠性能不能同时压下来。",
+    "news_ids": [
+     "eb707844aa9f95cd"
+    ],
+    "refs": [
+     {
+      "id": "eb707844aa9f95cd",
+      "title": "Anthropic 致信加州州长纽森：法院应有权阻止严重风险 AI 模型",
+      "source": "IT之家",
+      "url": "https://www.ithome.com/1/019/271.htm",
+      "published_at": 1793228714.0
+     }
+    ]
+   },
+   {
+    "kind": "section",
+    "heading": "图片",
+    "text": "相比之下「图片」。IT之家 10 月 29 日消息，据南方都市报报道，近日，有读者在社交平台反映，其购入中国农业出版社出版发行的《南海海洋生物科普丛书》，丛书序言表示，另有 9 条消息指向同一话题。从节奏上看，行业已经从「能不能做」转向「做得便不便宜」，这通常意味着竞争会更务实。",
+    "news_ids": [
+     "296defa859139c8a"
+    ],
+    "refs": [
+     {
+      "id": "296defa859139c8a",
+      "title": "科普书出现“双头虾”图片：出版社通知全网下架并召回，知情人士称用 AI 技术表现蜕壳过程引发误解",
+      "source": "IT之家",
+      "url": "https://www.ithome.com/1/019/290.htm",
+      "published_at": 1793234231.0
+     }
+    ]
+   },
+   {
+    "kind": "glossary",
+    "items": [
+     {
+      "term": "AI",
+      "desc": "人工智能，让机器完成识别、生成、判断等原本需要人做的任务"
+     },
+     {
+      "term": "LLM",
+      "desc": "大语言模型，主打文字理解与生成，是「大模型」的同义词"
+     },
+     {
+      "term": "XR",
+      "desc": "扩展现实，VR、AR、MR 的统称"
+     },
+     {
+      "term": "Agent",
+      "desc": "智能体，能自己拆解任务、调用工具并连续执行的 AI 程序"
+     },
+     {
+      "term": "HBM",
+      "desc": "高带宽内存，把多层内存堆叠起来给 AI 芯片喂数据，缓解带宽瓶颈"
+     },
+     {
+      "term": "IPO",
+      "desc": "首次公开募股，公司第一次把股票卖给公众并上市"
+     }
+    ]
+   },
+   {
+    "kind": "outlook",
+    "text": "把这几条放在一起看，最值得跟踪的是 AI 和 模型 两条线：一条决定技术能走多远，一条决定它多快能落到普通人的日常里。至于其他消息，可以先放进观察名单，等后续有更实的进展再判断。"
+   }
+  ],
+  "word_count": 736
+ },
+ "ai_enhanced": false,
+ "schema": 1,
+ "window_bj": {
+  "start": "2026-10-29 00:00",
+  "end": "2026-10-29 09:00"
+ }
+}

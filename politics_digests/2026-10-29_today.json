@@ -1,0 +1,362 @@
+{
+ "type": "today",
+ "date": "2026-10-29",
+ "window": {
+  "start_ts": 1793203200.0,
+  "end_ts": 1793235600.0
+ },
+ "generated_at": 1793238613.0042703,
+ "generator": "action",
+ "news_count": 56,
+ "keywords": [
+  "ai",
+  "班牙",
+  "西班",
+  "宣布",
+  "相撞",
+  "全国",
+  "列车",
+  "加速",
+  "员工",
+  "国企"
+ ],
+ "points": [
+  {
+   "text": "【西班】中新网10月29日电 据西班牙《国家报》当地时间10月28日报道，西班牙首相桑切斯宣布，自29日起全国哀悼三天，悼念列车相撞事故遇难者",
+   "keyword": "西班",
+   "news_ids": [
+    "90bedebcbc4c8a89"
+   ],
+   "refs": [
+    {
+     "id": "90bedebcbc4c8a89",
+     "title": "西班牙列车相撞已致68人死亡，首相宣布全国哀悼三天",
+     "source": "中新网即时",
+     "url": "https://www.chinanews.com.cn/gj/2026/10-29/10722498.shtml",
+     "published_at": 1793227919.0
+    }
+   ]
+  },
+  {
+   "text": "【ai】算满减、挑商品、组合优惠券……今年“双十一”，不少年轻人开始用AI充当购物助手，搞定导购、比价、凑单",
+   "keyword": "ai",
+   "news_ids": [
+    "b17272bfea2ef00d"
+   ],
+   "refs": [
+    {
+     "id": "b17272bfea2ef00d",
+     "title": "今年“双十一”，AI成了年轻人的购物“搭子”？",
+     "source": "中新网即时",
+     "url": "https://www.chinanews.com.cn/sh/2026/10-29/10722511.shtml",
+     "published_at": 1793230892.0
+    }
+   ]
+  },
+  {
+   "text": "【ai】用AI工具辅助办公提升效率，如今已是职场人的基本操作",
+   "keyword": "ai",
+   "news_ids": [
+    "1b0a0d70cf95b186"
+   ],
+   "refs": [
+    {
+     "id": "1b0a0d70cf95b186",
+     "title": "员工用AI辅助办公被辞退：是个人违规，还是企业违法",
+     "source": "中新网即时",
+     "url": "https://www.chinanews.com.cn/sh/2026/10-29/10722501.shtml",
+     "published_at": 1793229110.0
+    }
+   ]
+  },
+  {
+   "text": "【加速】本报记者 杜雨萌",
+   "keyword": "加速",
+   "news_ids": [
+    "346fa140e84c7347"
+   ],
+   "refs": [
+    {
+     "id": "346fa140e84c7347",
+     "title": "进一步深化国资国企改革 国有经济布局优化“加速跑”",
+     "source": "中新网即时",
+     "url": "https://www.chinanews.com.cn/cj/2026/10-29/10722512.shtml",
+     "published_at": 1793231120.0
+    }
+   ]
+  },
+  {
+   "text": "【全国】本报记者 孙天骄",
+   "keyword": "全国",
+   "news_ids": [
+    "7eaaa6669807f49c"
+   ],
+   "refs": [
+    {
+     "id": "7eaaa6669807f49c",
+     "title": "多地发布移风易俗倡导性标准 呼吁设置“份子钱”上限",
+     "source": "中新网即时",
+     "url": "https://www.chinanews.com.cn/sh/2026/10-29/10722510.shtml",
+     "published_at": 1793230643.0
+    }
+   ]
+  },
+  {
+   "text": "【宣布】中新社华盛顿10月28日电 (记者 沙晗汀)美国联邦储备委员会28日宣布，将联邦基金利率目标区间维持在3.75%至4%不变，符合市场普遍预期",
+   "keyword": "宣布",
+   "news_ids": [
+    "d67406be94969e75"
+   ],
+   "refs": [
+    {
+     "id": "d67406be94969e75",
+     "title": "美联储宣布维持联邦基金利率不变",
+     "source": "中新网即时",
+     "url": "https://www.chinanews.com.cn/cj/2026/10-29/10722495.shtml",
+     "published_at": 1793227184.0
+    }
+   ]
+  },
+  {
+   "text": "很多人都有这种经历",
+   "keyword": "",
+   "news_ids": [
+    "8ca9488935476451"
+   ],
+   "refs": [
+    {
+     "id": "8ca9488935476451",
+     "title": "明明吃着不咸，钠却悄悄超标！这些“高盐刺客”就在你餐桌上",
+     "source": "中新网即时",
+     "url": "https://www.chinanews.com.cn/jk/2026/10-29/10722524.shtml",
+     "published_at": 1793235442.0
+    }
+   ]
+  },
+  {
+   "text": "工作日的傍晚，北京地铁西土城站站厅内，“一朵小花”摊位上已摆出当季鲜花",
+   "keyword": "",
+   "news_ids": [
+    "cd7f1d1a080fccd5"
+   ],
+   "refs": [
+    {
+     "id": "cd7f1d1a080fccd5",
+     "title": "从一瓶水、一份早餐，到一捧花、一个盲盒——地铁站内的生意更丰富了",
+     "source": "中新网即时",
+     "url": "https://www.chinanews.com.cn/cj/2026/10-29/10722521.shtml",
+     "published_at": 1793233514.0
+    }
+   ]
+  },
+  {
+   "text": "由於霍爾木茲海峽局勢不明朗導致燃油成本飆升，越來越多的道路使用者轉向購買中國製造的電動機車",
+   "keyword": "",
+   "news_ids": [
+    "0e8a3539a50065d1"
+   ],
+   "refs": [
+    {
+     "id": "0e8a3539a50065d1",
+     "title": "燃油危機之下，中國電動機車風行南亞",
+     "source": "BBC中文",
+     "url": "https://www.bbc.com/zhongwen/articles/cmkgq9vzgkjlo/trad?at_medium=RSS&at_campaign=rss",
+     "published_at": 1793233461.0
+    }
+   ]
+  },
+  {
+   "text": "印中關係原本正處於謹慎的復甦階段，直到一位邊境官員的言論引發了人們對實際情況的新疑慮",
+   "keyword": "",
+   "news_ids": [
+    "4128fdab453ed765"
+   ],
+   "refs": [
+    {
+     "id": "4128fdab453ed765",
+     "title": "印中關係緩和之際：印邊境官員稱中國軍隊大批集結並搭帳篷",
+     "source": "BBC中文",
+     "url": "https://www.bbc.com/zhongwen/articles/cwkg5e249vmko/trad?at_medium=RSS&at_campaign=rss",
+     "published_at": 1793233387.0
+    }
+   ]
+  },
+  {
+   "text": "世界卒中日：警惕“中风”，这三件事情千万别做，这个“120”必须重视",
+   "keyword": "",
+   "news_ids": [
+    "b5da9be970947634"
+   ],
+   "refs": [
+    {
+     "id": "b5da9be970947634",
+     "title": "世界卒中日：警惕“中风”，这个“120”必须重视",
+     "source": "中新网即时",
+     "url": "https://www.chinanews.com.cn/jk/2026/10-29/10722520.shtml",
+     "published_at": 1793232894.0
+    }
+   ]
+  },
+  {
+   "text": "网球中国赛季品牌化第二年，更多本土球员走到聚光灯下",
+   "keyword": "",
+   "news_ids": [
+    "8a4e916bdea0c6b5"
+   ],
+   "refs": [
+    {
+     "id": "8a4e916bdea0c6b5",
+     "title": "中国网球，释放新动能",
+     "source": "中新网即时",
+     "url": "https://www.chinanews.com.cn/ty/2026/10-29/10722519.shtml",
+     "published_at": 1793232593.0
+    }
+   ]
+  },
+  {
+   "text": "中新社金边10月28日电 (张堰林 张安琪)2026柬埔寨首届中学生中文比赛决赛当地时间28日在柬埔寨王家研究院孔子学院举行",
+   "keyword": "",
+   "news_ids": [
+    "53927b77651ee643"
+   ],
+   "refs": [
+    {
+     "id": "53927b77651ee643",
+     "title": "2026柬埔寨首届中学生中文比赛决赛在金边举行",
+     "source": "中新网即时",
+     "url": "https://www.chinanews.com.cn/hr/2026/10-29/10722508.shtml",
+     "published_at": 1793231402.0
+    }
+   ]
+  },
+  {
+   "text": "格桑花开，高原绽放",
+   "keyword": "",
+   "news_ids": [
+    "c4cb2efadd6588c8"
+   ],
+   "refs": [
+    {
+     "id": "c4cb2efadd6588c8",
+     "title": "我的天涯海角】“雪域霸王花”达娃卓嘎：从放羊姑娘到特战女兵",
+     "source": "中新网即时",
+     "url": "http://www.chinanews.com.cn/mil/shipin/cns/2026/10-29/news1073228.shtml",
+     "published_at": 1793231171.0
+    }
+   ]
+  },
+  {
+   "text": "超八成受访者今年想去红色纪念地，其中62",
+   "keyword": "",
+   "news_ids": [
+    "b659162943d673f3"
+   ],
+   "refs": [
+    {
+     "id": "b659162943d673f3",
+     "title": "超八成受访者今年想去红色纪念地 未成年人家长有此意愿的比例更高",
+     "source": "中新网即时",
+     "url": "https://www.chinanews.com.cn/sh/2026/10-29/10722513.shtml",
+     "published_at": 1793231004.0
+    }
+   ]
+  }
+ ],
+ "article": {
+  "title": "2026-10-29 新闻总结",
+  "paragraphs": [
+   {
+    "kind": "lead",
+    "text": "今天共收录 56 条新闻，来自 4 家媒体。把标题放在一起看，讨论主要集中在 AI 这几个方向上，其余消息更像是零散补充。"
+   },
+   {
+    "kind": "section",
+    "heading": "西班牙列车相撞已致68人死亡",
+    "text": "先看「西班牙列车相撞已致68人死亡」。中新网10月29日电 据西班牙《国家报》当地时间10月28日报道，西班牙首相桑切斯宣布，自29日起全国哀悼三天，另有 6 条消息指向同一话题。单看一条新闻容易高估影响，放到最近几周的脉络里，它更像是一个渐进变化中的节点。",
+    "news_ids": [
+     "90bedebcbc4c8a89"
+    ],
+    "refs": [
+     {
+      "id": "90bedebcbc4c8a89",
+      "title": "西班牙列车相撞已致68人死亡，首相宣布全国哀悼三天",
+      "source": "中新网即时",
+      "url": "https://www.chinanews.com.cn/gj/2026/10-29/10722498.shtml",
+      "published_at": 1793227919.0
+     }
+    ]
+   },
+   {
+    "kind": "section",
+    "heading": "AI",
+    "text": "与此同时「AI」。算满减、挑商品、组合优惠券……今年“双十一”，不少年轻人开始用AI充当购物助手，搞定导购、比价，另有 6 条消息指向同一话题。这条消息短期内的实际影响可能有限，但它指向的方向值得放进观察名单。",
+    "news_ids": [
+     "b17272bfea2ef00d"
+    ],
+    "refs": [
+     {
+      "id": "b17272bfea2ef00d",
+      "title": "今年“双十一”，AI成了年轻人的购物“搭子”？",
+      "source": "中新网即时",
+      "url": "https://www.chinanews.com.cn/sh/2026/10-29/10722511.shtml",
+      "published_at": 1793230892.0
+     }
+    ]
+   },
+   {
+    "kind": "section",
+    "heading": "企业",
+    "text": "另一个值得注意的方向是「企业」。用AI工具辅助办公提升效率，另有 3 条消息指向同一话题。对读者来说，值得留意的不是结论本身，而是它背后哪些前提正在被改变。",
+    "news_ids": [
+     "1b0a0d70cf95b186"
+    ],
+    "refs": [
+     {
+      "id": "1b0a0d70cf95b186",
+      "title": "员工用AI辅助办公被辞退：是个人违规，还是企业违法",
+      "source": "中新网即时",
+      "url": "https://www.chinanews.com.cn/sh/2026/10-29/10722501.shtml",
+      "published_at": 1793229110.0
+     }
+    ]
+   },
+   {
+    "kind": "section",
+    "heading": "创新",
+    "text": "相比之下「创新」。本报记者 毛艺融…，另有 6 条消息指向同一话题。这条消息短期内的实际影响可能有限，但它指向的方向值得放进观察名单。",
+    "news_ids": [
+     "00029bff551dcb73"
+    ],
+    "refs": [
+     {
+      "id": "00029bff551dcb73",
+      "title": "A股公司三季报展现经济成色 科技创新动能加速释放",
+      "source": "中新网即时",
+      "url": "https://www.chinanews.com.cn/cj/2026/10-29/10722515.shtml",
+      "published_at": 1793231240.0
+     }
+    ]
+   },
+   {
+    "kind": "glossary",
+    "items": [
+     {
+      "term": "AI",
+      "desc": "人工智能，让机器完成识别、生成、判断等原本需要人做的任务"
+     }
+    ]
+   },
+   {
+    "kind": "outlook",
+    "text": "整体看，这个时段的新闻还处在「消息多、结论少」的阶段，与其急着下判断，不如盯住接下来一两周有没有可验证的后续动作。"
+   }
+  ],
+  "word_count": 497
+ },
+ "ai_enhanced": false,
+ "schema": 1,
+ "window_bj": {
+  "start": "2026-10-29 00:00",
+  "end": "2026-10-29 09:00"
+ }
+}
