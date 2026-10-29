@@ -1,8 +1,26 @@
 {
  "date": "2026-10-29",
- "generated_at": 1793240730.9864523,
- "count": 170,
+ "generated_at": 1793244186.739291,
+ "count": 181,
  "items": [
+  {
+   "id": "477404a9b50f0178",
+   "source": "InfoQ中文",
+   "title": "Grafana Tempo 3.1 新增基于查询的追踪数据脱敏功能以及支持采样机制的 TraceQL 指标",
+   "url": "https://www.infoq.cn/article/YVwtY6Jwdu0IB84tDC9m?utm_source=rss&utm_medium=article",
+   "summary": "点击查看原文>",
+   "published_at": 1793271600.0,
+   "published_bj": "2026-10-29 19:00"
+  },
+  {
+   "id": "3921aecbdd647700",
+   "source": "InfoQ中文",
+   "title": "AI 用起来了，业务价值谁来打分？",
+   "url": "https://www.infoq.cn/article/LLbRSSwTyvqTpFsaJs3v?utm_source=rss&utm_medium=article",
+   "summary": "点击查看原文>",
+   "published_at": 1793270245.0,
+   "published_bj": "2026-10-29 18:37"
+  },
   {
    "id": "5f0630b338511c21",
    "source": "InfoQ中文",
@@ -47,6 +65,78 @@
    "summary": "点击查看原文>",
    "published_at": 1793260800.0,
    "published_bj": "2026-10-29 16:00"
+  },
+  {
+   "id": "060ab31cc3090345",
+   "source": "IT之家",
+   "title": "巴慕达推出 AI 个性化电台“Good Morning Radio”，可根据用户生活习惯与兴趣生成 10 分钟每日播客",
+   "url": "https://www.ithome.com/1/019/368.htm",
+   "summary": "IT之家 10 月 29 日消息，巴慕达（BALMUDA）宣布推出 AI 个性化电台服务 BALMUDA Good Morning Radio，计划于 2026 年 11 月 2 日起面向 旗下 The Clock 时钟 用户开放 Beta 测试版，没有购买时钟的用户也可通过巴慕达 BALMUDA Connect 应用申请测试（限量 1000 名）。 据巴慕达介绍，与传统广播及播客面向大量用户提供同一节目不同，Good Morning Radio 引入了 AI 技术，可以根据用户的生活习惯与兴趣生成约 10 分钟的每日电台音频，内容不仅涵盖新闻、天气等时事资讯，还会围绕用户感兴趣的话题展开，帮",
+   "published_at": 1793243317.0,
+   "published_bj": "2026-10-29 11:08"
+  },
+  {
+   "id": "e6d0e2806dac817a",
+   "source": "IT之家",
+   "title": "美国国土安全部遭黑客入侵，逾 4 万名员工敏感资料外泄",
+   "url": "https://www.ithome.com/1/019/366.htm",
+   "summary": "IT之家 10 月 29 日消息，据路透社报道，当地时间 28 日，泄密网站、致力于推动数据透明的非营利组织 Distributed Denial of Secrets 公布了 超过 4 万名美国国土安全部员工的资料 ，其中涉及从事监控、人力情报等敏感工作的人员。 美国国土安全部回应说，获悉可能发生数据泄露后，正积极采取措施，争取尽快妥善处理。国土安全部将确保员工受到适当保护，并在掌握更多信息后向公众通报。 泄露资料由一个自称 Department of Peace（IT之家注：下称“和平部”）的组织获取。这也是 过去一个月内第三起 引发广泛关注的美国政府重大数据泄露事件。 今年 9 月，黑客",
+   "published_at": 1793243299.0,
+   "published_bj": "2026-10-29 11:08"
+  },
+  {
+   "id": "803c759668737328",
+   "source": "IT之家",
+   "title": "中汽学会发布 2027 年度中国汽车十大技术趋势，含 400Wh/kg 级固态电池进入中试阶段等",
+   "url": "https://www.ithome.com/1/019/353.htm",
+   "summary": "IT之家 10 月 29 日消息，10 月 28 日下午，第三十三届中国汽车工程学会年会开幕式暨全体大会在苏州举行。 中国汽车工程学会副秘书长、国汽战略院执行院长郑亚莉在会上发布《 2027 年度中国汽车十大技术趋势 》。 据介绍，十大趋势主要聚焦性能与成本重大突破、新量产落地、应用规模显著提升三大方向，为产业前瞻布局、协同创新和创新资源配置提供了重要参考。 IT之家附十大技术趋势如下： 单体能量密度 400Wh/kg 级的固态电池进入中试阶段 高安全等级 RISC-V 汽车 MCU 迎来量产元年 融合型整车运动控制技术应用将加速普及 V2G 日均可提供反向灵活调节能力达百万级千瓦 镁合金一体",
+   "published_at": 1793242901.0,
+   "published_bj": "2026-10-29 11:01"
+  },
+  {
+   "id": "24c73081a847dc85",
+   "source": "IT之家",
+   "title": "全新 Bose 有线消噪耳塞国行上市：IPX4 防水、USB-C 接口，699 元",
+   "url": "https://www.ithome.com/1/019/337.htm",
+   "summary": "IT之家 10 月 29 日消息，全新 Bose 有线消噪耳塞（Bose Noise Cancelling Wired Earbuds）国行版本今日上市， 售价 699 元 。 这款耳机拥有经典黑、晨雾白，以及限量款沁凉薄荷三种配色可选；通过 USB-C 接口直连设备供电，即插即用； 搭载 Bose 标志性的 QuietControl 降噪技术 ，支持在安静模式、通透模式与降噪关闭三档之间自由切换。 这款耳机兼容无损音频播放，具备 IPX4 防水等级，提供 3 种尺寸耳塞头与 2 种尺寸耳翼可自由选配，产品随附专属便携收纳包。 IT之家附这款耳机主要卖点： 京东 博士（BOSE）有线消噪耳塞 ",
+   "published_at": 1793242016.0,
+   "published_bj": "2026-10-29 10:46"
+  },
+  {
+   "id": "d32368b0c3bf8ee1",
+   "source": "IT之家",
+   "title": "迈从 R9 轻量化零压电竞头戴耳机“白紫”“黑金”配色发售：235g 重量、150 小时续航，首发价 249.2 元",
+   "url": "https://www.ithome.com/1/019/336.htm",
+   "summary": "IT之家 10 月 29 日消息，迈从宣布旗下 R9 轻量化零压电竞头戴耳机“白紫”“黑金”两款配色现已正式发售，该耳机主打“迈从全自研苍穹方案”“THX 空间音效”，定价为 299 元，首发价 249.2 元。 京东 迈从 R9 头戴式耳机 券后 249.2 元 领 20 元券 该耳机提供白紫、黑金、黑色、粉色和白蓝多种配色，整体重量约 235 g。其搭载天羽悬浮工学头梁，内置航空级琴钢线骨架，配合柔韧头带提升贴合度。耳罩部分采用太空透气记忆棉与蛋白皮层，并结合透气网布材质。耳机骨轴采用 90° 旋翼设计，机身支持多维无极调节，可直接通过实体按键进行控制。 该耳机配备 53 mm 三层高分子",
+   "published_at": 1793241712.0,
+   "published_bj": "2026-10-29 10:41"
+  },
+  {
+   "id": "3b65b521f9c78df1",
+   "source": "IT之家",
+   "title": "山灵预热“星光 Celesta”银铜耳机升级线：主打均衡百搭，1498 元明日发售",
+   "url": "https://www.ithome.com/1/019/335.htm",
+   "summary": "IT之家 10 月 29 日消息，山灵发文，预热旗下「星光 Celesta」银铜耳机升级线将于明天发售，该产品由山灵与香港瞬声联合打造，主打均衡百搭与高频通透感，零售价 1598 元，首发价 1498 元。 该升级线的线身使用美国 SoftFlex 医疗级外皮，带有若隐若现的彩色光点，呼应「星光」命名。 据官方介绍，该升级线旨在“提升基础素质、均衡百搭”，其线材采用高密度同轴屏蔽结构，主线芯为 4N 长结晶纯银，负极采用加粗长晶铜镀银工艺，补足低频动态与下潜。整体作用是“理顺声场、抚平毛刺、保留耳机原有风味”。",
+   "published_at": 1793241425.0,
+   "published_bj": "2026-10-29 10:37"
+  },
+  {
+   "id": "9b194f0450e84c11",
+   "source": "IT之家",
+   "title": "甲骨文公布“扭亏为盈”计划，力图安抚投资者担忧情绪",
+   "url": "https://www.ithome.com/1/019/333.htm",
+   "summary": "IT之家 10 月 29 日消息，据路透社报道，当地时间 28 日，甲骨文披露，随着云计算业务扩张，资本开支预计将在 2027 和 2028 财年达到高峰，并承诺截至 2030 财年，为 AI 业务新增的融资 不超过 200 亿美元 （IT之家注：现汇率约合 1,336.11 亿元人民币） 。 甲骨文希望借此缓解投资者对资金需求不断膨胀的担忧。投资者担心，甲骨文为大举建设数据中心，需要 持续从外部筹集巨额资金 。 受业绩预测提振，甲骨文股价大涨超过 12%，其他云计算公司股价也随之上涨。 甲骨文 CFO 希拉里 · 麦克斯顿在投资者日活动上透露，公司预计 2028 财年下半年实现 自由现金流转",
+   "published_at": 1793241130.0,
+   "published_bj": "2026-10-29 10:32"
+  },
+  {
+   "id": "7185c1b416ddf368",
+   "source": "IT之家",
+   "title": "首发 Lofic HDR 4.0、2X 焦段也支持：思特威推出 5000 万像素 1/1.28 英寸 CMOS SC5D8XS",
+   "url": "https://www.ithome.com/1/019/332.htm",
+   "summary": "IT之家 10 月 29 日消息，思特威今日宣布，正式推出 业界首颗同时支持 1X 和 2X 焦段 LOFIC 的 5000 万像素超高动态范围手机应用图像传感器 ——SC5D8XS 。 基于 Lofic HDR 4.0 技术， SC5D8XS 首次在 2X 焦段实现 LOFIC 功能 ，支持 2X 焦段下的 LOFIC 高动态拍摄：1X 焦段动态范围最高可达 110dB，2X 焦段动态范围亦可达 100dB。 据介绍，针对视频录制中常见的运动伪影问题，思特威 Lofic HDR 4.0 技术基于 单次曝光内的三帧融合 实现，能够 有效抑制运动拖影 ，使运动主体边缘更锐利清晰，从而实现明暗有致",
+   "published_at": 1793241078.0,
+   "published_bj": "2026-10-29 10:31"
   },
   {
    "id": "0cc110709812825f",
@@ -209,6 +299,15 @@
    "summary": "IT之家 10 月 29 日消息，谷粒 (GuliKit) 此前推出了经典蓝-红配色的 Joy-Con 2 TMR 电磁摇杆。而在昨日， 该品牌带来了这一替换组件的紫-绿、黑-黑 2 种新配色款式 ，当前到手价均为 62 元。 京东 谷粒 Joy-Con 2 TMR 电磁摇杆 紫-绿 62 元 直达链接 谷粒 Joy-Con 2 TMR 电磁摇杆基于隧道磁阻传感器，采用与 Joy-Con 2 原装摇杆完全一致的尺寸和结构设计，可无需改动电路直接替换。 京东 谷粒 Joy-Con 2 TMR 电磁摇杆 黑-黑 62 元 直达链接 京东 11.11 无门槛红包 面额至高 26888 元，每天抽 3",
    "published_at": 1793238064.0,
    "published_bj": "2026-10-29 09:41"
+  },
+  {
+   "id": "57264187fbb70102",
+   "source": "Hacker News",
+   "title": "Electronic fibers weave touchscreen into sleeve that survives machine washing",
+   "url": "https://www.designboom.com/technology/electronic-fibers-touchscreen-sleeve-machine-washing-national-university-singapore-nus-tural-khudiyev/",
+   "summary": "Article URL: https://www.designboom.com/technology/electronic-fibers-touchscreen-sleeve-machine-washing-national-university-singapore-nus-tural-khudiyev/ Comments URL: https://news.ycombinator.com/item?id=50283488 Points: 12 # Comments: 0",
+   "published_at": 1793238052.0,
+   "published_bj": "2026-10-29 09:40"
   },
   {
    "id": "1f73b3ad6b9493e6",
