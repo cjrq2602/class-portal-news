@@ -1,8 +1,53 @@
 {
  "date": "2026-10-30",
- "generated_at": 1793305267.6752806,
- "count": 40,
+ "generated_at": 1793308738.8729095,
+ "count": 45,
  "items": [
+  {
+   "id": "babecb93d53b8dd9",
+   "source": "TechCrunch",
+   "title": "GM reaches $220M settlement over selling drivers’ private data",
+   "url": "https://techcrunch.com/2026/10/29/gm-reaches-220m-settlement-over-selling-drivers-private-data/",
+   "summary": "As part of the settlement, GM must get drivers’ express consent before it collects or shares their driving and location data.",
+   "published_at": 1793307664.0,
+   "published_bj": "2026-10-30 05:01"
+  },
+  {
+   "id": "b075594a8d6c8e14",
+   "source": "TechCrunch",
+   "title": "Fan fiction site Archive of Our Own could be offline for up to 4 weeks",
+   "url": "https://techcrunch.com/2026/10/29/fan-fiction-site-archive-of-our-own-could-be-offline-for-up-to-4-weeks/",
+   "summary": "Archive of Our Own, the popular online home of fan fiction readers and writers, has bad news for its community.",
+   "published_at": 1793306636.0,
+   "published_bj": "2026-10-30 04:43"
+  },
+  {
+   "id": "7ef639f3b0ff353d",
+   "source": "Hacker News",
+   "title": "Hermes and REA and GLM 5.3 = Reverse engineering TikTok app for less than $20",
+   "url": "https://www.scraping.club/p/tiktok-scraping-metadata",
+   "summary": "Article URL: https://www.scraping.club/p/tiktok-scraping-metadata Comments URL: https://news.ycombinator.com/item?id=50295503 Points: 11 # Comments: 5",
+   "published_at": 1793306118.0,
+   "published_bj": "2026-10-30 04:35"
+  },
+  {
+   "id": "be8dc1798ccb75d8",
+   "source": "Hacker News",
+   "title": "A tiny world model running games on a Raspberry Pi Pico 2 W",
+   "url": "https://github.com/SheepSeb/tinyworldformer",
+   "summary": "Article URL: https://github.com/SheepSeb/tinyworldformer Comments URL: https://news.ycombinator.com/item?id=50295450 Points: 19 # Comments: 1",
+   "published_at": 1793305948.0,
+   "published_bj": "2026-10-30 04:32"
+  },
+  {
+   "id": "ac237b1c59d41f96",
+   "source": "cnBeta",
+   "title": "瑞士科学家利用细菌将沙子变成建筑材料 有望降低建筑业碳排放",
+   "url": "https://www.cnbeta.com.tw/articles/science/1584354.htm",
+   "summary": "瑞士苏黎世联邦理工学院的研究人员开发出一种新型建筑材料制造技术，利用活体细菌将松散的沙粒结合成坚固的建筑构件。与传统水泥生产需要消耗大量能源、在高温条件下烧制不同，这种被称为生物水泥化的技术可以在常温下完成矿物固化，有望为建筑行业提供一种更加环保的材料制造方案。 阅读全文",
+   "published_at": 1793305756.0,
+   "published_bj": "2026-10-30 04:29"
+  },
   {
    "id": "73336d36f93cd3d8",
    "source": "InfoQ中文",
