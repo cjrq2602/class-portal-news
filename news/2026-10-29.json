@@ -1,6 +1,6 @@
 {
  "date": "2026-10-29",
- "generated_at": 1793292406.9499707,
+ "generated_at": 1793294858.1150453,
  "count": 400,
  "items": [
   {
@@ -425,6 +425,15 @@
    "summary": "IT之家 10 月 29 日消息，苹果北京时间今日发布了 MacBook Pro (PROLED XDR 显示屏)。在首款 OLED MacBook 产品面世后，研调机构 TrendForce（集邦）发布了对整体 OLED 笔电市场的最新预测。 机构认为，配备 OLED 屏幕的笔记本电脑整机 出货量在 2026~2030 年期间维持超 30% 的同比增幅 ，其中 2027~2029 年增长都将超过 40%；出货总量将从今年的 1260 万台增长至期末的 4660 万台。 ▲ 图源：TrendForce 针对 OLED MacBook Pro，机构的看法是其短期内需求动能将受到高价定位与产品重叠",
    "published_at": 1793282709.0,
    "published_bj": "2026-10-29 22:05"
+  },
+  {
+   "id": "0311ba993186f81b",
+   "source": "TechCrunch",
+   "title": "Mistral releases weights for its trillion-parameter AI model, targeting cybersecurity",
+   "url": "https://techcrunch.com/2026/10/29/mistral-releases-weights-for-its-trillion-parameter-ai-model-targeting-cybersecurity/",
+   "summary": "Mistral says its new model can afford organizations a kind of control over its cyber defenses that closed models can't.",
+   "published_at": 1793282400.0,
+   "published_bj": "2026-10-29 22:00"
   },
   {
    "id": "cba54f5d7dc8ca9e",
@@ -3592,15 +3601,6 @@
    "url": "https://www.cnbeta.com.tw/articles/tech/1584226.htm",
    "summary": "苹果近日悄然更新旗下充电配件产品线，正式推出新版World Travel Adapter Kit（全球旅行转换插头套装），同时更新了70W电源适配器、140W电源适配器以及电源延长线等产品，全面引入全新的“AC Connector 2”接口设计。 阅读全文",
    "published_at": 1793222373.0,
-   "published_bj": "2026-10-29 05:19"
-  },
-  {
-   "id": "b0d3ba7d18f6bb7e",
-   "source": "Hacker News",
-   "title": "Formlabs Studio 1 $699 Resin Printer",
-   "url": "https://formlabs.com/products/form-studio-1-basic-founders-edition/",
-   "summary": "Article URL: https://formlabs.com/products/form-studio-1-basic-founders-edition/ Comments URL: https://news.ycombinator.com/item?id=50281044 Points: 5 # Comments: 0",
-   "published_at": 1793222370.0,
    "published_bj": "2026-10-29 05:19"
   }
  ]

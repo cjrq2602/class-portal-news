@@ -1,7 +1,7 @@
 {
  "date": "2026-10-30",
- "generated_at": 1793292406.94782,
- "count": 14,
+ "generated_at": 1793294858.1118844,
+ "count": 18,
  "items": [
   {
    "id": "73336d36f93cd3d8",
@@ -49,6 +49,24 @@
    "published_bj": "2026-10-30 01:15"
   },
   {
+   "id": "d53d119a79a26047",
+   "source": "cnBeta",
+   "title": "美国情报机构调查疑似针对黄仁勋的间谍活动 英伟达否认涉及敏感信息泄露",
+   "url": "https://www.cnbeta.com.tw/articles/tech/1584346.htm",
+   "summary": "美国媒体披露，美国情报机构曾对一名与英伟达首席执行官黄仁勋关系密切的企业高管展开长期调查，怀疑其可能与中国情报活动有关，并试图通过接近黄仁勋获取有关英伟达业务规划及美国政府政策的信息。 阅读全文",
+   "published_at": 1793293096.0,
+   "published_bj": "2026-10-30 00:58"
+  },
+  {
+   "id": "80a86ab6de336628",
+   "source": "Hacker News",
+   "title": "Tomas Mikolov (creator of Word2Vec) receives the Medal of Merit",
+   "url": "https://www.vut.cz/en/but/news-f19528/two-but-graduates-received-state-honors-from-the-president-of-the-republic-d378468",
+   "summary": "Article URL: https://www.vut.cz/en/but/news-f19528/two-but-graduates-received-state-honors-from-the-president-of-the-republic-d378468 Comments URL: https://news.ycombinator.com/item?id=50292233 Points: 7 # Comments: 0",
+   "published_at": 1793293014.0,
+   "published_bj": "2026-10-30 00:56"
+  },
+  {
    "id": "ce8d45a1aaeb635d",
    "source": "InfoQ中文",
    "title": "Anthropic 取消编程面试：新人第一次有机会直接和资深工程师竞争",
@@ -65,6 +83,24 @@
    "summary": "A top executive of a Singapore AI cloud company that was accused of illegally selling Nvidia chips to China could also have been a Chinese spy, sources have told the New York Times.",
    "published_at": 1793292152.0,
    "published_bj": "2026-10-30 00:42"
+  },
+  {
+   "id": "2736f5c8e179da20",
+   "source": "Hacker News",
+   "title": "For the first time ever, Google Search is less than 50% of Alphabet's revenue",
+   "url": "https://www.kadoa.com/companies/insights/google-search-below-half",
+   "summary": "Article URL: https://www.kadoa.com/companies/insights/google-search-below-half Comments URL: https://news.ycombinator.com/item?id=50291945 Points: 99 # Comments: 46",
+   "published_at": 1793292137.0,
+   "published_bj": "2026-10-30 00:42"
+  },
+  {
+   "id": "e139092f1a822c52",
+   "source": "Hacker News",
+   "title": "Toxic Experts",
+   "url": "https://nedbatchelder.com/blog/201711/toxic_experts",
+   "summary": "Article URL: https://nedbatchelder.com/blog/201711/toxic_experts Comments URL: https://news.ycombinator.com/item?id=50291927 Points: 6 # Comments: 0",
+   "published_at": 1793292071.0,
+   "published_bj": "2026-10-30 00:41"
   },
   {
    "id": "525b7372d8325a65",
