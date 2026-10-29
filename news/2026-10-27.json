@@ -1,6 +1,6 @@
 {
  "date": "2026-10-27",
- "generated_at": 1793272860.884374,
+ "generated_at": 1793276274.5648394,
  "count": 400,
  "items": [
   {
@@ -326,6 +326,15 @@
    "summary": "美国国防科技公司Anduril宣布与高通展开合作，共同推出名为BlueChip的新型笔记本电脑。Anduril创始人Palmer Luckey表示，该项目的目标不仅是将电脑组装环节带回美国，更希望未来实现从显示器、玻璃到各类金属与磁性元件等全部零部件都在美国本土生产。目前部分关键部件仍只能在中国制造，因此这一目标仍需较长时间才能实现。 阅读全文",
    "published_at": 1793110438.0,
    "published_bj": "2026-10-27 22:13"
+  },
+  {
+   "id": "0c314e2ab3fadacd",
+   "source": "Hacker News",
+   "title": "MiniLake Is a Local Databricks API Emulator with SQL, Delta Lake and Spark",
+   "url": "https://dmux.github.io/minilake/",
+   "summary": "Article URL: https://dmux.github.io/minilake/ Comments URL: https://news.ycombinator.com/item?id=50259697 Points: 39 # Comments: 5",
+   "published_at": 1793110379.0,
+   "published_bj": "2026-10-27 22:12"
   },
   {
    "id": "a580b80712523b8d",
@@ -3593,15 +3602,6 @@
    "summary": "点击查看原文>",
    "published_at": 1793035020.0,
    "published_bj": "2026-10-27 01:17"
-  },
-  {
-   "id": "1cb6f4238ba35a58",
-   "source": "TechCrunch",
-   "title": "Anthropic’s IPO filing reveals its strategy for keeping enterprise customers hooked",
-   "url": "https://techcrunch.com/2026/10/26/anthropics-ipo-filing-reveals-its-strategy-for-keeping-enterprise-customers-hooked/",
-   "summary": "Anthropic’s S-1 shows more than half of its $100,000-plus customers now use both the Claude Platform and a first-party app, a cross-selling playbook reminiscent of Amazon that’s making enterprise customers stickier.",
-   "published_at": 1793033382.0,
-   "published_bj": "2026-10-27 00:49"
   }
  ]
 }
