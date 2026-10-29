@@ -1,7 +1,7 @@
 {
  "date": "2026-10-30",
- "generated_at": 1793294858.1118844,
- "count": 18,
+ "generated_at": 1793298090.8779628,
+ "count": 21,
  "items": [
   {
    "id": "73336d36f93cd3d8",
@@ -31,6 +31,15 @@
    "published_bj": "2026-10-30 02:37"
   },
   {
+   "id": "133b84e6be8889c1",
+   "source": "Hacker News",
+   "title": "I'm building LYNX, an open-source DAW inspired by FL Studio, free,cross-platform",
+   "url": "https://github.com/Ka1-S/LYNX-SHARE",
+   "summary": "Article URL: https://github.com/Ka1-S/LYNX-SHARE Comments URL: https://news.ycombinator.com/item?id=50293308 Points: 3 # Comments: 1",
+   "published_at": 1793296937.0,
+   "published_bj": "2026-10-30 02:02"
+  },
+  {
    "id": "0582a81e2b0a3fac",
    "source": "InfoQ中文",
    "title": "AI+增长：员工提效了，企业为什么没多赚钱？｜上海鲸阙AI联合创始人 沈涛分享",
@@ -40,6 +49,15 @@
    "published_bj": "2026-10-30 02:00"
   },
   {
+   "id": "5378faf6b9654b07",
+   "source": "TechCrunch",
+   "title": "Granola crunches up a dictation feature to compete with Wispr",
+   "url": "https://techcrunch.com/2026/10/29/granola-crunches-up-a-dictation-feature-to-compete-with-wispr/",
+   "summary": "Uno reverse! After Wispr added meeting notes to its dictation app, Granola is adding dictation to its meeting notetaker. The voice AI wars are getting interesting.",
+   "published_at": 1793296478.0,
+   "published_bj": "2026-10-30 01:54"
+  },
+  {
    "id": "40031620a8b38d48",
    "source": "InfoQ中文",
    "title": "Uber 实现服务网格依赖关系分析自动化",
@@ -47,6 +65,15 @@
    "summary": "点击查看原文>",
    "published_at": 1793294100.0,
    "published_bj": "2026-10-30 01:15"
+  },
+  {
+   "id": "0311ba993186f81b",
+   "source": "TechCrunch",
+   "title": "Mistral releases weights for its trillion-parameter AI model, targeting cybersecurity",
+   "url": "https://techcrunch.com/2026/10/29/mistral-releases-weights-for-its-trillion-parameter-ai-model-targeting-cybersecurity/",
+   "summary": "Mistral says its new model can afford organizations a kind of control over its cyber defenses that closed models can't.",
+   "published_at": 1793293200.0,
+   "published_bj": "2026-10-30 01:00"
   },
   {
    "id": "d53d119a79a26047",
