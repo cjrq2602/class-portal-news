@@ -1,6 +1,6 @@
 {
  "date": "2026-10-29",
- "generated_at": 1793291396.7166276,
+ "generated_at": 1793292406.9499707,
  "count": 400,
  "items": [
   {
@@ -225,6 +225,15 @@
    "title": "以色列耶路撒冷爆发麻疹疫情",
    "url": "https://www.solidot.org/story?sid=85746",
    "summary": "一项统计数字显示，以色列耶路撒冷极端正统派犹太人居住的多个社区其麻疹疫苗接种率仅为 55.0%，这些地方最近爆发了麻疹疫情，感染麻疹的人绝大多数都是5 岁以下未接种儿童，有多人死亡。耶路撒冷是以色列最大城市，2025 年人口约为 100 万，其中 60 万是犹太人，40 万是阿拉伯人。而犹太人中间 50.0% 属于极端正统派。耶路撒冷的麻疹疫苗接种率已从 2019 年的 94.7% 降至 2024 年的 78.3%。在市中心 6 个极端正统派居住的社区，2025 年麻疹疫苗接种率仅为 55.0%。2025 年 4 月-2026 年 3 月期间耶路撒冷共报告麻疹病例 1,289 例，有 11 人",
+   "published_at": 1793285875.0,
+   "published_bj": "2026-10-29 22:57"
+  },
+  {
+   "id": "b9fec6491af58244",
+   "source": "Hacker News",
+   "title": "LLM Voice",
+   "url": "https://martinfowler.com/bliki/LLM-Voice.html",
+   "summary": "Article URL: https://martinfowler.com/bliki/LLM-Voice.html Comments URL: https://news.ycombinator.com/item?id=50290177 Points: 13 # Comments: 0",
    "published_at": 1793285875.0,
    "published_bj": "2026-10-29 22:57"
   },
@@ -3592,15 +3601,6 @@
    "url": "https://formlabs.com/products/form-studio-1-basic-founders-edition/",
    "summary": "Article URL: https://formlabs.com/products/form-studio-1-basic-founders-edition/ Comments URL: https://news.ycombinator.com/item?id=50281044 Points: 5 # Comments: 0",
    "published_at": 1793222370.0,
-   "published_bj": "2026-10-29 05:19"
-  },
-  {
-   "id": "bdc0b96b52d5a7cb",
-   "source": "cnBeta",
-   "title": "Google发布Gemini 4 Carbon 网络安全能力大幅提升",
-   "url": "https://www.cnbeta.com.tw/articles/tech/1584224.htm",
-   "summary": "Google于当地时间10月28日正式发布新一代前沿人工智能模型Gemini 4 Carbon，重点提升软件编程、智能体执行复杂任务以及网络安全防御能力。Google称，新模型在发现软件漏洞、验证漏洞可利用性以及修复安全缺陷等多个环节取得显著进步，并在多项基准测试中领先于OpenAI和Anthropic的旗舰模型。不过，考虑到其强大的网络安全能力可能带来的潜在风险，Google目前仅向部分经过筛选的网络安全防御机构开放使用，暂时不会立即向所有开发者和普通用户提供。 阅读全文",
-   "published_at": 1793222342.0,
    "published_bj": "2026-10-29 05:19"
   }
  ]

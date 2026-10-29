@@ -1,0 +1,382 @@
+{
+ "type": "yesterday",
+ "date": "2026-10-29",
+ "window": {
+  "start_ts": 1793203200.0,
+  "end_ts": 1793289600.0
+ },
+ "generated_at": 1793292410.2840886,
+ "generator": "action",
+ "news_count": 400,
+ "keywords": [
+  "ai",
+  "同比",
+  "季度",
+  "三季",
+  "归母",
+  "年前",
+  "净利",
+  "利润",
+  "前三",
+  "母净"
+ ],
+ "points": [
+  {
+   "text": "【ai】IT之家 10 月 29 日消息，立讯精密今日发布 2026 年前三季度（2026 年 1 月～2026 年 9 月）及三季度（2026 年 7",
+   "keyword": "ai",
+   "news_ids": [
+    "3b73cfbdac2d8012"
+   ],
+   "refs": [
+    {
+     "id": "3b73cfbdac2d8012",
+     "title": "立讯精密 2026 年前三季度归母净利润 130.57 亿元，同比增长 13.36%",
+     "source": "IT之家",
+     "url": "https://www.ithome.com/1/019/752.htm",
+     "published_at": 1793276801.0
+    }
+   ]
+  },
+  {
+   "text": "【发布】IT之家 10 月 29 日消息，摩托罗拉今天在美国官网确认，Signature 27 手机将于 11 月发布",
+   "keyword": "发布",
+   "news_ids": [
+    "929ede62a1f95b0d"
+   ],
+   "refs": [
+    {
+     "id": "929ede62a1f95b0d",
+     "title": "摩托罗拉 Signature 27 手机 11 月发布，骁龙 8EE6 芯片",
+     "source": "IT之家",
+     "url": "https://www.ithome.com/1/019/774.htm",
+     "published_at": 1793281811.0
+    }
+   ]
+  },
+  {
+   "text": "【发布】小米 8 月发布新一代 REDMI K100 Pro 系列手机，今日天猫旗舰店 11.11 狂促再加码",
+   "keyword": "发布",
+   "news_ids": [
+    "590c370ef1a20f27"
+   ],
+   "refs": [
+    {
+     "id": "590c370ef1a20f27",
+     "title": "512G 5099 → 3499 元：小米 REDMI K100 Pro Max 官方 11.11 限地区再降价",
+     "source": "IT之家",
+     "url": "https://www.ithome.com/1/019/738.htm",
+     "published_at": 1793274677.0
+    }
+   ]
+  },
+  {
+   "text": "IT之家 10 月 29 日消息，《星闪 SLE3.0 技术标准演进蓝皮书》已在国际星闪联盟官网正式上线",
+   "keyword": "",
+   "news_ids": [
+    "0cc369a0af86b707"
+   ],
+   "refs": [
+    {
+     "id": "0cc369a0af86b707",
+     "title": "为 XR 设备无线音频铺路：星闪 SLE 3.0 计划链路峰值速率提至 16Mbps+，真正做到 Hi-Res 无损音质",
+     "source": "IT之家",
+     "url": "https://www.ithome.com/1/019/797.htm",
+     "published_at": 1793289593.0
+    }
+   ]
+  },
+  {
+   "text": "Article URL: https://sidbala",
+   "keyword": "",
+   "news_ids": [
+    "3dbd52d57a84292f"
+   ],
+   "refs": [
+    {
+     "id": "3dbd52d57a84292f",
+     "title": "H.264 Is Magic",
+     "source": "Hacker News",
+     "url": "https://sidbala.com/h-264-is-magic/",
+     "published_at": 1793289183.0
+    }
+   ]
+  },
+  {
+   "text": "游戏在线玩家数已破60万",
+   "keyword": "",
+   "news_ids": [
+    "a800251e46b2abdd"
+   ],
+   "refs": [
+    {
+     "id": "a800251e46b2abdd",
+     "title": "影之刃零》交卷 国产3A还能再造一个《黑神话》吗？",
+     "source": "cnBeta",
+     "url": "https://www.cnbeta.com.tw/articles/game/1584334.htm",
+     "published_at": 1793288183.0
+    }
+   ]
+  },
+  {
+   "text": "IT之家 10 月 29 日消息，据科技媒体 TechRadar 今天报道，盖洛普（Gallup）最新研究报告显示，美国员工的工作投入度降至历史",
+   "keyword": "",
+   "news_ids": [
+    "b04f1b465aee0571"
+   ],
+   "refs": [
+    {
+     "id": "b04f1b465aee0571",
+     "title": "盖洛普研究：美国员工的工作投入度降至历史新低，远程办公者降幅最大",
+     "source": "IT之家",
+     "url": "https://www.ithome.com/1/019/794.htm",
+     "published_at": 1793287709.0
+    }
+   ]
+  },
+  {
+   "text": "IT之家 10 月 29 日消息，据彭博社报道，埃隆 · 马斯克对字母 X 情有独钟",
+   "keyword": "",
+   "news_ids": [
+    "de73dc6cffb15f11"
+   ],
+   "refs": [
+    {
+     "id": "de73dc6cffb15f11",
+     "title": "马斯克对字母 X 情有独钟，旗下特斯拉与 SpaceX 合并后或选用闲置美股代码 X",
+     "source": "IT之家",
+     "url": "https://www.ithome.com/1/019/792.htm",
+     "published_at": 1793286725.0
+    }
+   ]
+  },
+  {
+   "text": "IT之家 10 月 29 日消息，《星闪 SLE3.0 技术标准演进蓝皮书》已在国际星闪联盟官网正式上线",
+   "keyword": "",
+   "news_ids": [
+    "e9cec1da973a9b2c"
+   ],
+   "refs": [
+    {
+     "id": "e9cec1da973a9b2c",
+     "title": "星闪 SLE 1.0 芯片累计发货量 7000 万，华为 2023 年实现首批商用终端产品落地",
+     "source": "IT之家",
+     "url": "https://www.ithome.com/1/019/791.htm",
+     "published_at": 1793286587.0
+    }
+   ]
+  },
+  {
+   "text": "IT之家 10 月 29 日消息，Epic 本周送出的游戏是《Sorry We're Closed - 抱歉我们打烊了》，下周送出的游戏是《Id",
+   "keyword": "",
+   "news_ids": [
+    "ae6edcfad6176694"
+   ],
+   "refs": [
+    {
+     "id": "ae6edcfad6176694",
+     "title": "Epic 喜加一：《抱歉我们打烊了》游戏免费领取",
+     "source": "IT之家",
+     "url": "https://www.ithome.com/1/019/789.htm",
+     "published_at": 1793286020.0
+    }
+   ]
+  },
+  {
+   "text": "一项统计数字显示，以色列耶路撒冷极端正统派犹太人居住的多个社区其麻疹疫苗接种率仅为 55.0%，这些地方最近爆发了麻疹疫情，感染麻疹的人绝大多数",
+   "keyword": "",
+   "news_ids": [
+    "08941075f60fee96"
+   ],
+   "refs": [
+    {
+     "id": "08941075f60fee96",
+     "title": "以色列耶路撒冷爆发麻疹疫情",
+     "source": "Solidot",
+     "url": "https://www.solidot.org/story?sid=85746",
+     "published_at": 1793285875.0
+    }
+   ]
+  },
+  {
+   "text": "Article URL: https://martinfowler",
+   "keyword": "",
+   "news_ids": [
+    "b9fec6491af58244"
+   ],
+   "refs": [
+    {
+     "id": "b9fec6491af58244",
+     "title": "LLM Voice",
+     "source": "Hacker News",
+     "url": "https://martinfowler.com/bliki/LLM-Voice.html",
+     "published_at": 1793285875.0
+    }
+   ]
+  },
+  {
+   "text": "Article URL: https://yle",
+   "keyword": "",
+   "news_ids": [
+    "b48d43409c39574e"
+   ],
+   "refs": [
+    {
+     "id": "b48d43409c39574e",
+     "title": "Finland investigate Google over destruction of 250k trees",
+     "source": "Hacker News",
+     "url": "https://yle.fi/a/74-20254086",
+     "published_at": 1793285861.0
+    }
+   ]
+  },
+  {
+   "text": "IT之家 10 月 29 日消息，酷狗音乐官方今日正式官宣 22 周年 · 鸿蒙特别版“即将上线”，号称为 HarmonyOS 7 全新设计",
+   "keyword": "",
+   "news_ids": [
+    "b96a1edcd3bfb904"
+   ],
+   "refs": [
+    {
+     "id": "b96a1edcd3bfb904",
+     "title": "酷狗音乐 22 周年 · 鸿蒙特别版 App 官宣“即将上线”，为 HarmonyOS 7 全新设计",
+     "source": "IT之家",
+     "url": "https://www.ithome.com/1/019/787.htm",
+     "published_at": 1793285552.0
+    }
+   ]
+  },
+  {
+   "text": "IT之家 10 月 29 日消息，月之暗面今天在海外宣布，Kimi 现已接入谷歌 Gmail、Google Drive 和日历，用户可通过 Pl",
+   "keyword": "",
+   "news_ids": [
+    "7685dd2c051c9a57"
+   ],
+   "refs": [
+    {
+     "id": "7685dd2c051c9a57",
+     "title": "月之暗面 Kimi 接入谷歌 Gmail、云端硬盘和日历",
+     "source": "IT之家",
+     "url": "https://www.ithome.com/1/019/782.htm",
+     "published_at": 1793284059.0
+    }
+   ]
+  }
+ ],
+ "article": {
+  "title": "2026-10-29 新闻总结",
+  "paragraphs": [
+   {
+    "kind": "lead",
+    "text": "过去 24 小时共收录 400 条新闻，来自 7 家媒体。把标题放在一起看，讨论主要集中在 AI、利润、手机 这几个方向上，其余消息更像是零散补充。"
+   },
+   {
+    "kind": "section",
+    "heading": "利润",
+    "text": "先看「利润」。IT之家 10 月 29 日消息，立讯精密今日发布 2026 年前三季度（2026 年 1 月～2026 年 9 月）及三季度（2026 年 7 月～2026 年 9 月）报告，另有 260 条消息指向同一话题。资本动作往往领先产品一年，值得盯的不是金额，而是钱最后花向了算力、场景还是补贴。",
+    "news_ids": [
+     "3b73cfbdac2d8012"
+    ],
+    "refs": [
+     {
+      "id": "3b73cfbdac2d8012",
+      "title": "立讯精密 2026 年前三季度归母净利润 130.57 亿元，同比增长 13.36%",
+      "source": "IT之家",
+      "url": "https://www.ithome.com/1/019/752.htm",
+      "published_at": 1793276801.0
+     }
+    ]
+   },
+   {
+    "kind": "section",
+    "heading": "手机",
+    "text": "与此同时「手机」。IT之家 10 月 29 日消息，摩托罗拉今天在美国官网确认，另有 11 条消息指向同一话题。技术路线的胜负很少由一次发布会决定，接下来要看的是它能不能被更多团队低成本复用。",
+    "news_ids": [
+     "929ede62a1f95b0d"
+    ],
+    "refs": [
+     {
+      "id": "929ede62a1f95b0d",
+      "title": "摩托罗拉 Signature 27 手机 11 月发布，骁龙 8EE6 芯片",
+      "source": "IT之家",
+      "url": "https://www.ithome.com/1/019/774.htm",
+      "published_at": 1793281811.0
+     }
+    ]
+   },
+   {
+    "kind": "section",
+    "heading": "零售",
+    "text": "另一个值得注意的方向是「零售」。据报道， 美国主要零售商在售的RTX 5080的实际成交价已全面冲破2000美元(约合人民币13322元)关口…，另有 2 条消息指向同一话题。技术路线的胜负很少由一次发布会决定，接下来要看的是它能不能被更多团队低成本复用。",
+    "news_ids": [
+     "1074f70b231ed1f6"
+    ],
+    "refs": [
+     {
+      "id": "1074f70b231ed1f6",
+      "title": "RTX5080涨成RTX 5090首发价 零售价突破1.3万元",
+      "source": "cnBeta",
+      "url": "https://www.cnbeta.com.tw/articles/tech/1584330.htm",
+      "published_at": 1793283190.0
+     }
+    ]
+   },
+   {
+    "kind": "section",
+    "heading": "XR",
+    "text": "相比之下「XR」。IT之家 10 月 29 日消息，《星闪 SLE3.0 技术标准演进蓝皮书》已在国际星闪联盟官网正式上线…。这类进展更像是把已有能力往工程化落地推了一步，真正的分水岭在于成本和可靠性能不能同时压下来。",
+    "news_ids": [
+     "0cc369a0af86b707"
+    ],
+    "refs": [
+     {
+      "id": "0cc369a0af86b707",
+      "title": "为 XR 设备无线音频铺路：星闪 SLE 3.0 计划链路峰值速率提至 16Mbps+，真正做到 Hi-Res 无损音质",
+      "source": "IT之家",
+      "url": "https://www.ithome.com/1/019/797.htm",
+      "published_at": 1793289593.0
+     }
+    ]
+   },
+   {
+    "kind": "glossary",
+    "items": [
+     {
+      "term": "XR",
+      "desc": "扩展现实，VR、AR、MR 的统称"
+     },
+     {
+      "term": "AI",
+      "desc": "人工智能，让机器完成识别、生成、判断等原本需要人做的任务"
+     },
+     {
+      "term": "Agent",
+      "desc": "智能体，能自己拆解任务、调用工具并连续执行的 AI 程序"
+     },
+     {
+      "term": "LLM",
+      "desc": "大语言模型，主打文字理解与生成，是「大模型」的同义词"
+     },
+     {
+      "term": "HBM",
+      "desc": "高带宽内存，把多层内存堆叠起来给 AI 芯片喂数据，缓解带宽瓶颈"
+     },
+     {
+      "term": "AR",
+      "desc": "增强现实，把虚拟图像叠加到真实世界画面上"
+     }
+    ]
+   },
+   {
+    "kind": "outlook",
+    "text": "把这几条放在一起看，最值得跟踪的是 AI 和 利润 两条线：一条决定技术能走多远，一条决定它多快能落到普通人的日常里。至于其他消息，可以先放进观察名单，等后续有更实的进展再判断。"
+   }
+  ],
+  "word_count": 649
+ },
+ "ai_enhanced": false,
+ "schema": 1,
+ "window_bj": {
+  "start": "2026-10-29 00:00",
+  "end": "2026-10-30 00:00"
+ }
+}

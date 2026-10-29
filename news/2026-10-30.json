@@ -1,7 +1,7 @@
 {
  "date": "2026-10-30",
- "generated_at": 1793291396.7140331,
- "count": 11,
+ "generated_at": 1793292406.94782,
+ "count": 14,
  "items": [
   {
    "id": "73336d36f93cd3d8",
@@ -58,6 +58,15 @@
    "published_bj": "2026-10-30 00:44"
   },
   {
+   "id": "de08acdf4b33a85a",
+   "source": "TechCrunch",
+   "title": "U.S. investigated Chinese spy plot aimed at Nvidia CEO",
+   "url": "https://techcrunch.com/2026/10/29/u-s-investigated-chinese-spy-plot-aimed-at-nvidia-ceo/",
+   "summary": "A top executive of a Singapore AI cloud company that was accused of illegally selling Nvidia chips to China could also have been a Chinese spy, sources have told the New York Times.",
+   "published_at": 1793292152.0,
+   "published_bj": "2026-10-30 00:42"
+  },
+  {
    "id": "525b7372d8325a65",
    "source": "InfoQ中文",
    "title": "天数智芯公布天垓300实测数据：部分推理场景达到H200水平，端侧对标Thor T5000",
@@ -65,6 +74,15 @@
    "summary": "点击查看原文>",
    "published_at": 1793291908.0,
    "published_bj": "2026-10-30 00:38"
+  },
+  {
+   "id": "e574de57e357d456",
+   "source": "Hacker News",
+   "title": "Are Stochastic Parrots Alive?",
+   "url": "https://stefano.petrilli.xyz/are-stochastic-parrots-alive/",
+   "summary": "Article URL: https://stefano.petrilli.xyz/are-stochastic-parrots-alive/ Comments URL: https://news.ycombinator.com/item?id=50291830 Points: 4 # Comments: 1",
+   "published_at": 1793291774.0,
+   "published_bj": "2026-10-30 00:36"
   },
   {
    "id": "5edcf420600c89d9",
@@ -92,6 +110,15 @@
    "summary": "SuperMe just raised $20 million to let you pester AI clones of Silicon Valley’s savviest people about your career.",
    "published_at": 1793290783.0,
    "published_bj": "2026-10-30 00:19"
+  },
+  {
+   "id": "10bd1d1625cff0c8",
+   "source": "Hacker News",
+   "title": "16colo.rs – ANSI/ASCII art archive",
+   "url": "https://16colo.rs/",
+   "summary": "Article URL: https://16colo.rs/ Comments URL: https://news.ycombinator.com/item?id=50291421 Points: 3 # Comments: 0",
+   "published_at": 1793290468.0,
+   "published_bj": "2026-10-30 00:14"
   },
   {
    "id": "68ab500fef459c4f",
