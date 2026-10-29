@@ -1,8 +1,26 @@
 {
  "date": "2026-10-30",
- "generated_at": 1793276274.5509253,
- "count": 5,
+ "generated_at": 1793280336.324383,
+ "count": 7,
  "items": [
+  {
+   "id": "73336d36f93cd3d8",
+   "source": "InfoQ中文",
+   "title": "启元 CEO 田华：启元机器人接入WorkBuddy，不仅看见你的世界，还能走得到你身边",
+   "url": "https://www.infoq.cn/article/fHXiS2bsEFHDXdwVK6KP?utm_source=rss&utm_medium=article",
+   "summary": "点击查看原文>",
+   "published_at": 1793305325.0,
+   "published_bj": "2026-10-30 04:22"
+  },
+  {
+   "id": "988edff3f09710ae",
+   "source": "InfoQ中文",
+   "title": "谷歌赢了 AI 排行榜，却没赢下华尔街：Gemini 4 Carbon 登顶背后的昂贵代价",
+   "url": "https://www.infoq.cn/article/dXwHCW7kjGX1kjPqtla9?utm_source=rss&utm_medium=article",
+   "summary": "点击查看原文>",
+   "published_at": 1793304787.0,
+   "published_bj": "2026-10-30 04:13"
+  },
   {
    "id": "bd2473e0eeadfeb0",
    "source": "InfoQ中文",
