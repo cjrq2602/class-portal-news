@@ -1,0 +1,34 @@
+{
+ "date": "2026-10-30",
+ "generated_at": 1793266109.2862096,
+ "count": 3,
+ "items": [
+  {
+   "id": "40031620a8b38d48",
+   "source": "InfoQ中文",
+   "title": "Uber 实现服务网格依赖关系分析自动化",
+   "url": "https://www.infoq.cn/article/YtQqxxRqoy38Fj2qpsDv?utm_source=rss&utm_medium=article",
+   "summary": "点击查看原文>",
+   "published_at": 1793294100.0,
+   "published_bj": "2026-10-30 01:15"
+  },
+  {
+   "id": "ce8d45a1aaeb635d",
+   "source": "InfoQ中文",
+   "title": "Anthropic 取消编程面试：新人第一次有机会直接和资深工程师竞争",
+   "url": "https://www.infoq.cn/article/EQTckj5GQQymiQES22Bo?utm_source=rss&utm_medium=article",
+   "summary": "点击查看原文>",
+   "published_at": 1793292241.0,
+   "published_bj": "2026-10-30 00:44"
+  },
+  {
+   "id": "525b7372d8325a65",
+   "source": "InfoQ中文",
+   "title": "天数智芯公布天垓300实测数据：部分推理场景达到H200水平，端侧对标Thor T5000",
+   "url": "https://www.infoq.cn/article/tFaOHgBe8ENwteobTsLV?utm_source=rss&utm_medium=article",
+   "summary": "点击查看原文>",
+   "published_at": 1793291908.0,
+   "published_bj": "2026-10-30 00:38"
+  }
+ ]
+}
