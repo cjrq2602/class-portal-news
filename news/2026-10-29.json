@@ -1,8 +1,17 @@
 {
  "date": "2026-10-29",
- "generated_at": 1793247820.3912768,
- "count": 195,
+ "generated_at": 1793251304.1501887,
+ "count": 209,
  "items": [
+  {
+   "id": "3d3487262ffb3dbb",
+   "source": "InfoQ中文",
+   "title": "微软承诺将 Maia 推向数吉瓦级推理部署，但其效率指标引发质疑",
+   "url": "https://www.infoq.cn/article/Lg6RgMudjiWIVQllmz8a?utm_source=rss&utm_medium=article",
+   "summary": "点击查看原文>",
+   "published_at": 1793278800.0,
+   "published_bj": "2026-10-29 21:00"
+  },
   {
    "id": "22b7b4599c84b478",
    "source": "InfoQ中文",
@@ -76,6 +85,87 @@
    "published_bj": "2026-10-29 16:00"
   },
   {
+   "id": "85674823faf4fc77",
+   "source": "IT之家",
+   "title": "韩国政府将投入 5 万亿韩元，支持中小企业普及物理 AI",
+   "url": "https://www.ithome.com/1/019/421.htm",
+   "summary": "IT之家 10 月 29 日消息，据韩媒《电子新闻》今天（29 日）午间报道，韩国政府计划到 2030 年投入至少 5 万亿韩元 （IT之家注：现汇率约合 251.45 亿元人民币） ，推动中小制造企业引入物理 AI，并通过 数字化、人工智能和机器人 三项转型相结合的“3X 战略”，将中小制造企业的 AI 应用率 从 1% 提高至 10% 。 该国政府公布了《中小制造业物理 AI 推广战略》，目标是到 2030 年将采用 AI 的企业 从 600 家增加至 6000 家 ，实施数字化转型的企业从 1.8 万家增加至 3 万家。 按照“3X 战略”，韩国政府将支持中小企业 建设智能工厂、升级现有",
+   "published_at": 1793251275.0,
+   "published_bj": "2026-10-29 13:21"
+  },
+  {
+   "id": "381d96ab69cb536d",
+   "source": "IT之家",
+   "title": "中兴推出巡天 BE3600 青云版 Wi-Fi 7 家用无线路由器：三个千兆网口、支持双 WAN 口双拨功能，199 元",
+   "url": "https://www.ithome.com/1/019/420.htm",
+   "summary": "IT之家 10 月 29 日消息，中兴现已在京东上架巡天 BE3600 青云版 Wi-Fi 7 家用无线路由器，定价为 249 元，首发价 199 元。 京东 中兴巡天 BE3600 青云版路由器 199 元 直达链接 该路由器采用了家族首款立式造型，整体设计灵感源自传统竹简，机身表面带有波浪形纹理，呈现出简约的视觉效果。路由器配备了三个 1000Mbps 物理网口，支持双 WAN 口双拨功能，用户可通过双宽带接入实现网络负载均衡或故障转移。 同时，设备支持 IPTV 单线复用，仅需简单配置即可让网络与 IPTV 信号共用一根网线传输。在多设备组网方面，其支持同品牌一键 MESH 组网，并能向",
+   "published_at": 1793250958.0,
+   "published_bj": "2026-10-29 13:15"
+  },
+  {
+   "id": "a4c3e5c2436bd9a5",
+   "source": "IT之家",
+   "title": "全国首个华为昇腾 950DT 超节点集群在武汉上线，全面支撑万亿参数大模型训练与智能体推理",
+   "url": "https://www.ithome.com/1/019/419.htm",
+   "summary": "IT之家 10 月 29 日消息，以“数智荆楚、跃升有为”为主题的华为中国行 2026· 湖北省人工智能创新发展大会昨日（28 日）在武汉举办。 会上，由湖北科投投资建设的昇腾 950 千卡超节点智算集群正式点亮， 全国首个昇腾 950DT 1024 卡智算集群在武汉上线 。 据介绍，此次落地的昇腾 950DT 1024 卡液冷超节点，单节点搭载 1024 张昇腾 NPU 加速卡，采用计算柜与互联柜全液冷设计，FP8 算力达 1EFLOPS，配备 256TB 全局统一内存，卡间互联带宽达 TB 级，端到端通信微秒级时延；依托灵衢架构，集群内各卡可直接互访， 全面支撑万亿参数大模型训练与智能体推",
+   "published_at": 1793250772.0,
+   "published_bj": "2026-10-29 13:12"
+  },
+  {
+   "id": "fee0e04145c64e13",
+   "source": "IT之家",
+   "title": "“宁德时代电池没了”：曝理想 MEGA 部分订单无法按约交付，定金退一赔一或换自研电池",
+   "url": "https://www.ithome.com/1/019/418.htm",
+   "summary": "IT之家 10 月 29 日消息，据红星资本局报道，近日，多名新一代理想 MEGA 准车主发帖称，收到理想汽车通知，9 月 7 日 15 时前下定锁单、 原定搭载宁德时代 5C 三元锂电池的订单无法按约交付，将改用理想自研的“连山”电池，原因是“宁德时代电池没了” 。 据悉，理想提出两种解决方案：继续提车可更换自研电池，并获赠价值 3500 元权益；退车则按合同违约处理，退还 5000 元定金并赔偿 5000 元。 有准车主怀疑，理想是否与宁德时代关系破裂。10 月 28 日，该媒体记者向宁德时代询问断供原因及双方关系变化，截至发稿未获回复。 理想汽车方面没有正面回应，而是援引了理想汽车总裁马",
+   "published_at": 1793250270.0,
+   "published_bj": "2026-10-29 13:04"
+  },
+  {
+   "id": "ccafc9b10b52e762",
+   "source": "IT之家",
+   "title": "七工匠推出 AF 10mm F4 APS-C 镜头：约 71g 重，索尼 E / 富士 X 卡口，首发 669 元",
+   "url": "https://www.ithome.com/1/019/417.htm",
+   "summary": "IT之家 10 月 29 日消息，七工匠今日推出 AF 10mm F4 APS-C 相机镜头， 首发 669 元 。 这款镜头重约 71g，高度 33mm；支持自动对焦，搭载 STM 马达，最近对焦距离 0.2m；采用 7 组 9 片镜片（包含 1 枚 ED 低色散、1 枚高折射、2 枚非球面镜片），滤镜尺寸 37mm。 IT之家附这款新品详细参数（商品页未公布 STM 曲线）： 京东 七工匠 AF 10mm F4 669 元 直达链接 京东 11.11 无门槛红包 面额至高 26888 元，每天抽 3 次： 点此抽红包 。 淘宝 11.11 无门槛红包 面额至高 26888 元，每天抽 1 ",
+   "published_at": 1793249626.0,
+   "published_bj": "2026-10-29 12:53"
+  },
+  {
+   "id": "6f508e8c9fd5987e",
+   "source": "IT之家",
+   "title": "连续 4 年获得全球新能源销冠：比亚迪员工总数突破 102 万，其中研发工程师 12 万名",
+   "url": "https://www.ithome.com/1/019/415.htm",
+   "summary": "IT之家 10 月 29 日消息，据新浪汽车报道，10 月 28 日，在第三十三届中国汽车工程学会年会上，比亚迪汽车董事长王传福在演讲中透露， 比亚迪总员工已突破 102 万人 ，其中中国区 96 万人，海外 6 万人， 并拥有高达 12 万名研发工程师 ，分布在电池、电机、电控、半导体等核心领域。 从 1994 年创业到 2003 年入局造车，王传福表示，比亚迪坚持高度垂直整合模式， 如今已连续 4 年获得全球新能源销冠 。他强调，比亚迪的发展就是中国汽车工业从跟跑到领跑的缩影。 IT之家注意到，在颁奖及发布环节，王传福荣获 2026 中国汽车工程学会科学技术奖汽车工业饶斌奖，该奖被称为“ ",
+   "published_at": 1793248791.0,
+   "published_bj": "2026-10-29 12:39"
+  },
+  {
+   "id": "5130328749812076",
+   "source": "IT之家",
+   "title": "现代汽车 2026 财年前三季度报归母净利润 6.56 万亿韩元，同比下降 22.1%",
+   "url": "https://www.ithome.com/1/019/414.htm",
+   "summary": "IT之家 10 月 29 日消息，现代汽车今日发布 2026 财年（2026 年 1 月～2026 年 12 月）前三季度报（2026 年 1 月～2026 年 9 月）业绩快报及第三财季（2026 年 7 月～2026 年 9 月）业绩快报报告： 2026 财年前三季度报 营业总收入 ：140.26 万亿韩元 （IT之家注：现汇率约合 7053.9 亿元人民币） ，同比增长 0.6% 归母净利润 ：6.56 万亿韩元 （现汇率约合 329.93 亿元人民币） ，同比下降 22.1% 2026 财年第三财季 营业总收入 ：45.11 万亿韩元 （现汇率约合 2268.59 亿元人民币） ，同比",
+   "published_at": 1793248539.0,
+   "published_bj": "2026-10-29 12:35"
+  },
+  {
+   "id": "57dd13e8abfc3fee",
+   "source": "IT之家",
+   "title": "三星：新版睡眠呼吸暂停检测算法下月率先向韩版 Galaxy Watch 9/Ultra2 手表及 Galaxy Ring 智能戒指推送",
+   "url": "https://www.ithome.com/1/019/413.htm",
+   "summary": "IT之家 10 月 29 日消息，三星宣布旗下 Galaxy 设备新版睡眠呼吸暂停检测算法已获得韩国食品医药品安全处（MFDS）批准，新版算法相较原版不仅能够检测中重度睡眠呼吸暂停的相关迹象，还可借助 AI 统计用户睡眠期间每小时出现的呼吸中断次数，并根据发生频率划分为轻度、偶发和频繁三个等级。 IT之家获悉，韩版 Galaxy Watch Ultra2、Galaxy Watch9 和 Galaxy Ring 智能戒指将于今年 11 月率先获得新版算法，随后，运行 Wear OS 7.0 或更高版本系统的 Galaxy Watch7 和 Galaxy Watch8 也将获得更新。 三星表示，相",
+   "published_at": 1793248171.0,
+   "published_bj": "2026-10-29 12:29"
+  },
+  {
+   "id": "a77edec5fc4f4b5a",
+   "source": "IT之家",
+   "title": "腾讯推出跨应用 AI 协同体系 Buddy One：打通腾讯多款办公产品，共享 WorkBuddy Agent 底座",
+   "url": "https://www.ithome.com/1/019/412.htm",
+   "summary": "IT之家 10 月 29 日消息，在今日举行的腾讯全球数字生态大会上，腾讯正式官宣发布面向个人用户的跨应用 AI 协同体系 —— Buddy One。 IT之家获悉，该体系打通腾讯文档、腾讯会议、腾讯网盘、ima 等办公协同产品， 共享 WorkBuddy Agent 底座，并统一账号和积分池 。 官方表示，WorkBuddy PC 端更新到 5.9.0 及以上版本，关联账号即可使用。后续还将支持记忆共享，也会有更多产品陆续加入。 据悉，Buddy One 账号打通之后，使用 WorkBuddy 时 不用再反复授权 ，也不用手动复制粘贴上下文。 打开 WorkBuddy PC 端，点击左下角的",
+   "published_at": 1793247883.0,
+   "published_bj": "2026-10-29 12:24"
+  },
+  {
    "id": "bca922f214f8bb4a",
    "source": "IT之家",
    "title": "99,999 元：尼康发布 Z 120‑300mm f/2.8 TC VR S 全画幅镜头，内置 1.4 倍增距镜",
@@ -130,6 +220,15 @@
    "published_bj": "2026-10-29 11:54"
   },
   {
+   "id": "74975ac72dee6215",
+   "source": "Hacker News",
+   "title": "Zillow to pay $212.5M to settle class action for real estate venture",
+   "url": "https://www.reuters.com/legal/government/zillow-pay-2125-million-settle-class-action-over-failed-real-estate-venture-2026-10-28/",
+   "summary": "Article URL: https://www.reuters.com/legal/government/zillow-pay-2125-million-settle-class-action-over-failed-real-estate-venture-2026-10-28/ Comments URL: https://news.ycombinator.com/item?id=50284342 Points: 16 # Comments: 2",
+   "published_at": 1793245685.0,
+   "published_bj": "2026-10-29 11:48"
+  },
+  {
    "id": "e83e42c4ffcd0043",
    "source": "IT之家",
    "title": "合作恐怖游戏《R.E.P.O.》确认 2027 年登陆任天堂 Switch 2 平台",
@@ -137,6 +236,15 @@
    "summary": "IT之家 10 月 29 日消息，开发商 Semiwork 宣布旗下合作恐怖游戏《 R.E.P.O .》计划于 2027 年登陆 Nintendo Switch 2。该作此前已在 PC（Steam）推出抢先体验版，其中国区定价为 35 元（现折后 22.75 元）、港服定价 58 港币 （IT之家注：现汇率约合 49.4 元人民币） （现折后 37.7 港币 （现汇率约合 32.1 元人民币） ）。 本作主打恐怖氛围与物理系统，玩家将操控受神秘计算机智能雇佣的机器人，与朋友进入人类遗留的闹鬼地点，寻找并搬运有价值的物品，最终带着货物撤离，物品的重量和脆弱程度会影响搬运过程，团队行动中的混乱也可",
    "published_at": 1793245652.0,
    "published_bj": "2026-10-29 11:47"
+  },
+  {
+   "id": "a46815a246e3c099",
+   "source": "Hacker News",
+   "title": "The Milwaukee Brewers win the first World Series title in franchise history",
+   "url": "https://www.cnn.com/2026/10/28/sport/live-news/game-5-world-series",
+   "summary": "Article URL: https://www.cnn.com/2026/10/28/sport/live-news/game-5-world-series Comments URL: https://news.ycombinator.com/item?id=50284329 Points: 40 # Comments: 12",
+   "published_at": 1793245452.0,
+   "published_bj": "2026-10-29 11:44"
   },
   {
    "id": "3c717d92be3da22f",
@@ -166,6 +274,15 @@
    "published_bj": "2026-10-29 11:36"
   },
   {
+   "id": "7de251c47541f07d",
+   "source": "Hacker News",
+   "title": "Claude Code burns ~15–20% of your tokens on a 3-word status line",
+   "url": "https://gist.github.com/flamerix-ai/c3905705cc4205e5de3011fa2e74efce",
+   "summary": "Article URL: https://gist.github.com/flamerix-ai/c3905705cc4205e5de3011fa2e74efce Comments URL: https://news.ycombinator.com/item?id=50284255 Points: 134 # Comments: 26",
+   "published_at": 1793244822.0,
+   "published_bj": "2026-10-29 11:33"
+  },
+  {
    "id": "29c112d4784a6556",
    "source": "IT之家",
    "title": "2027 款领克 08 EM-P 官宣 11 月 5 日亮相",
@@ -173,6 +290,15 @@
    "summary": "IT之家 10 月 29 日消息，领克汽车官微今天（29 日）上午宣布，2027 款领克 08 EM-P 将于 11 月 5 日正式登场。 官方预告图显示，新车预计将延续现款车型的设计，将主打橙黑双拼配色。不过新车的配置信息仍待公开，IT之家也将持续关注。 作为参考， 今年 6 月，领克 EM-P 家族三款版型上新 。其中，全新领克 08 EM-P 新增 230 超长续航 Max 版， 限时价 16.98 万元起 。该版本搭载 38.2kWh 神盾金砖磷酸铁锂电池，CLTC 纯电续航达 230km，CLTC 馈电油耗低至 4.5L/100km，动力沿用 1.5T Evo 高效电混专用发动机加 ",
    "published_at": 1793244634.0,
    "published_bj": "2026-10-29 11:30"
+  },
+  {
+   "id": "0ff04b5665945a17",
+   "source": "少数派",
+   "title": "让 Agent 读懂你的身体：数据处理篇",
+   "url": "https://sspai.com/prime/story/how-to-analyze-health-data-with-agent",
+   "summary": "在上一篇文章《让Agent读懂你的身体：数据获取篇》中，我花了很大的篇幅讲清楚了第一个问题：Agent怎样拿到数据。如果照着实践完，你大概率已经收获了一份存储了运动健康数据的SQLite、Markdo ... 查看全文 本文为会员文章，出自 《单篇文章》 ，订阅后可阅读全文。",
+   "published_at": 1793244586.0,
+   "published_bj": "2026-10-29 11:29"
   },
   {
    "id": "22ce32d3539fae2b",
