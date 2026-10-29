@@ -1,7 +1,7 @@
 {
  "date": "2026-10-30",
- "generated_at": 1793302182.5380871,
- "count": 28,
+ "generated_at": 1793305267.6752806,
+ "count": 40,
  "items": [
   {
    "id": "73336d36f93cd3d8",
@@ -20,6 +20,87 @@
    "summary": "点击查看原文>",
    "published_at": 1793304787.0,
    "published_bj": "2026-10-30 04:13"
+  },
+  {
+   "id": "f1570bfcc0cf3fac",
+   "source": "TechCrunch",
+   "title": "As search traffic dries up, Reddit announces it’s shifting to a logged-in experience",
+   "url": "https://techcrunch.com/2026/10/29/as-search-traffic-dries-up-reddit-announces-its-shifting-to-a-logged-in-experience/",
+   "summary": "As AI transforms how people find information online, Reddit is rethinking its open-web roots to protect its audience and business.",
+   "published_at": 1793304511.0,
+   "published_bj": "2026-10-30 04:08"
+  },
+  {
+   "id": "d5a7415fa793c1a7",
+   "source": "TechCrunch",
+   "title": "Rivian expands joint venture with VW to include AI assistant",
+   "url": "https://techcrunch.com/2026/10/29/rivian-expands-joint-venture-with-vw-to-include-ai-assistant/",
+   "summary": "Rivian doesn't disclose if the value of its $5.8 billion joint venture will expand as a result.",
+   "published_at": 1793304347.0,
+   "published_bj": "2026-10-30 04:05"
+  },
+  {
+   "id": "f786a11aa088478c",
+   "source": "TechCrunch",
+   "title": "The R2 SUV is already Rivian’s best-selling vehicle",
+   "url": "https://techcrunch.com/2026/10/29/the-r2-suv-is-already-rivians-best-selling-vehicle/",
+   "summary": "Rivian is seeing strong enough sales of the new EV that it improved its guidance to Wall Street for the second time this year.",
+   "published_at": 1793304123.0,
+   "published_bj": "2026-10-30 04:02"
+  },
+  {
+   "id": "b41546facec86387",
+   "source": "TechCrunch",
+   "title": "OpenAI-backed Thrive Holdings acquires ADT",
+   "url": "https://techcrunch.com/2026/10/29/openai-backed-thrive-holdings-acquires-adt/",
+   "summary": "OpenAI-backed Thrive Holdings is buying ADT in a $15.3 billion deal, with plans to bring AI to the home security business.",
+   "published_at": 1793303779.0,
+   "published_bj": "2026-10-30 03:56"
+  },
+  {
+   "id": "95df21b88117fe25",
+   "source": "cnBeta",
+   "title": "Solidigm拟在美国投资建设NAND闪存工厂 项目与中国大连工厂升级许可挂钩",
+   "url": "https://www.cnbeta.com.tw/articles/tech/1584352.htm",
+   "summary": "据报道，SK海力士旗下的美国存储芯片子公司Solidigm正在与美国商务部进行谈判，考虑投资450亿美元在美国建设一座新的芯片制造工厂。如果项目最终落实，这将成为美国本土首批大型NAND闪存生产设施之一，也可能改变全球闪存产业的产能布局。 阅读全文",
+   "published_at": 1793303735.0,
+   "published_bj": "2026-10-30 03:55"
+  },
+  {
+   "id": "cced1ce3e9cf4e46",
+   "source": "Hacker News",
+   "title": "Patrick Stewart Has Died",
+   "url": "https://www.nytimes.com/2026/10/29/arts/television/patrick-stewart-dead.html",
+   "summary": "Article URL: https://www.nytimes.com/2026/10/29/arts/television/patrick-stewart-dead.html Comments URL: https://news.ycombinator.com/item?id=50294770 Points: 47 # Comments: 3",
+   "published_at": 1793303258.0,
+   "published_bj": "2026-10-30 03:47"
+  },
+  {
+   "id": "962687e6786c2a72",
+   "source": "Hacker News",
+   "title": "The importance of communities around software",
+   "url": "https://lumi.codeberg.page/blog/software-community.html",
+   "summary": "Article URL: https://lumi.codeberg.page/blog/software-community.html Comments URL: https://news.ycombinator.com/item?id=50294507 Points: 26 # Comments: 14",
+   "published_at": 1793302067.0,
+   "published_bj": "2026-10-30 03:27"
+  },
+  {
+   "id": "6b04ab22ae158f42",
+   "source": "Hacker News",
+   "title": "Show HN: Auto Dismiss Mac OS \"Allow to find devices on local networks?\"",
+   "url": "https://github.com/johncassil/dontallow",
+   "summary": "This popup has been a constant gripe of mine for years. I almost NEVER want to allow this permission and there is no system setting to disable it globally and prevent the popup from interrupting your typing, etc. This tiny swift app I built will autoclose it in 1/4th of a second and leave behind a l",
+   "published_at": 1793302064.0,
+   "published_bj": "2026-10-30 03:27"
+  },
+  {
+   "id": "98934cd9aec197ea",
+   "source": "Hacker News",
+   "title": "IgE disruptor for food allergy with Claude-enabled antibody design [pdf]",
+   "url": "https://divergencelabs.com/publications/ige-preprint.pdf",
+   "summary": "Article URL: https://divergencelabs.com/publications/ige-preprint.pdf Comments URL: https://news.ycombinator.com/item?id=50294486 Points: 11 # Comments: 4",
+   "published_at": 1793301948.0,
+   "published_bj": "2026-10-30 03:25"
   },
   {
    "id": "23436c7fa6b08c92",
@@ -103,6 +184,24 @@
    "published_bj": "2026-10-30 01:54"
   },
   {
+   "id": "ebe3353d6aa86faf",
+   "source": "Hacker News",
+   "title": "Show HN: Overtone – Transcribe, correct and cut captions for any screen shape",
+   "url": "https://github.com/lonthq/overtone-captions",
+   "summary": "Hi HN, I'm Ruud, co-founder of Lont. We turn company emails into personalized videos. Video captions cost us manual work twice: fixing misheard words, then fixing layout, like lines ending on “the”. Overtone uses multiple models to listen to the audio: gpt-transcribe, Azure STT, and Elevenlabs Scrib",
+   "published_at": 1793296097.0,
+   "published_bj": "2026-10-30 01:48"
+  },
+  {
+   "id": "ce94810ed2f4441e",
+   "source": "Hacker News",
+   "title": "Alleged Chinese spy had 'close relationship' with Nvidia boss Jensen Huang",
+   "url": "https://nypost.com/2026/10/29/business/alleged-chinese-spy-had-close-relationship-with-nvidia-boss-jensen-huang-report/",
+   "summary": "https://www.nytimes.com/2026/10/29/us/politics/nvidia-china-... , https://archive.ph/K7bih Comments URL: https://news.ycombinator.com/item?id=50293047 Points: 63 # Comments: 19",
+   "published_at": 1793295828.0,
+   "published_bj": "2026-10-30 01:43"
+  },
+  {
    "id": "1b3330bc1296bf49",
    "source": "Hacker News",
    "title": "AI Contributions to GHC",
@@ -119,6 +218,15 @@
    "summary": "https://archive.ph/NCeML Comments URL: https://news.ycombinator.com/item?id=50293023 Points: 15 # Comments: 1",
    "published_at": 1793295742.0,
    "published_bj": "2026-10-30 01:42"
+  },
+  {
+   "id": "bfeb0aacc21c7e59",
+   "source": "Hacker News",
+   "title": "Duet is the future of chatbot interaction",
+   "url": "https://fig.blue/posts/duet-is-the-future/",
+   "summary": "Article URL: https://fig.blue/posts/duet-is-the-future/ Comments URL: https://news.ycombinator.com/item?id=50292727 Points: 17 # Comments: 8",
+   "published_at": 1793294665.0,
+   "published_bj": "2026-10-30 01:24"
   },
   {
    "id": "40031620a8b38d48",
