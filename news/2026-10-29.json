@@ -1,8 +1,17 @@
 {
  "date": "2026-10-29",
- "generated_at": 1793232628.844134,
- "count": 123,
+ "generated_at": 1793236930.1814013,
+ "count": 145,
  "items": [
+  {
+   "id": "7c4b905d13b36ef8",
+   "source": "InfoQ中文",
+   "title": "优化软件工作流：探索技术带来的根本性影响",
+   "url": "https://www.infoq.cn/article/QDQLUs4cCqLqC9WlvAyY?utm_source=rss&utm_medium=article",
+   "summary": "点击查看原文>",
+   "published_at": 1793265060.0,
+   "published_bj": "2026-10-29 17:11"
+  },
   {
    "id": "3ff6a132e58f8cb6",
    "source": "InfoQ中文",
@@ -13,6 +22,159 @@
    "published_bj": "2026-10-29 16:00"
   },
   {
+   "id": "c53c9487056908ae",
+   "source": "IT之家",
+   "title": "京东红包今日 10 点再加码：猜数字抢 5 元红包",
+   "url": "https://www.ithome.com/1/019/304.htm",
+   "summary": "今日 10 点京东红包再加码，猜数字有机会抢 5 元加码红包： 点此抽取 。 猜数字红包玩法：每人 3 次机会，猜中锦鲤数字后即可获得领取额外奖励的机会，可随机获得京东红包、品类东券或店铺券等奖励。猜错后会缩小锦鲤数字的范围并提示用户，如果用户 3 次机会均未猜中，则无法获得任何奖励。 蚊子肉也是肉，节点开始越早抢红包金额越大，小伙伴可每天都领（多个红包支持叠加使用），积攒多天后带走个大件哦 ~ 京东 11.11 无门槛红包 面额至高 26888 元，每天抽 3 次： 点此抽红包 。 淘宝 11.11 无门槛红包 面额至高 26888 元，每天抽 1 次： 点此抽红包 。",
+   "published_at": 1793236822.0,
+   "published_bj": "2026-10-29 09:20"
+  },
+  {
+   "id": "989b4026c6de0ddd",
+   "source": "IT之家",
+   "title": "首批风云卫星极端天气 AI 模型发布，27 秒就能生成台风“体检报告”",
+   "url": "https://www.ithome.com/1/019/303.htm",
+   "summary": "IT之家 10 月 29 日消息，据央视新闻报道，10 月 29 日，首批风云气象卫星极端天气人工智能模型在 2026 年风云卫星用户大会上正式发布，推动风云卫星应用从“看清现在”迈向“预测未来”。 IT之家从报道中获悉，此次发布的台风智能云图解译模型，融合风云卫星多通道云图及相关产品， 可自动分析台风的位置、结构、强度及演变趋势，并生成解译文本 。 目前，该模型已形成覆盖 7 类台风特征、融合 20 余种卫星实况产品的综合解译能力， 每 15 分钟开展一次解译，仅需 27 秒即可生成解译文本。 以今年第 26 号台风“舒力基”为例，模型自动识别台风后，对强度、风圈半径、降水特征等进行了综合分",
+   "published_at": 1793236603.0,
+   "published_bj": "2026-10-29 09:16"
+  },
+  {
+   "id": "28cc514c620d27ad",
+   "source": "IT之家",
+   "title": "鸿蒙智行智界 V9 累计交付突破 3 万台，刷新 50 万级 MPV 最快交付纪录",
+   "url": "https://www.ithome.com/1/019/301.htm",
+   "summary": "IT之家 10 月 29 日消息，智界汽车今日宣布，智界 V9 累计交付突破 30,000 台， 刷新 50 万级 MPV 最快交付纪录 。 据IT之家此前报道，10 月 21 日， 智界 V9 第 30000 台正式下线 。该车型上市以来，连续四个月获 40 万以上 MPV 市场销量冠军。 该车于今年 5 月 15 日上市，售价 38.98 万 - 51.98 万元，尺寸为 5359×2009×1879mm、轴距达 3250mm，拥有辉光紫、雪域白、深海蓝、鎏金黑四款外观配色，以及绒霞紫、韶华杏、赤茶橘三款内饰配色。新车全系标配 38 个传感器，是行业首款搭载 896 线激光雷达的 MPV。",
+   "published_at": 1793236328.0,
+   "published_bj": "2026-10-29 09:12"
+  },
+  {
+   "id": "3f850002dbc86169",
+   "source": "IT之家",
+   "title": "消息称某厂子品牌首款新机疑似阔直板手机：6.39 英寸、9 系芯片，预计为华为星芒",
+   "url": "https://www.ithome.com/1/019/299.htm",
+   "summary": "IT之家 10 月 29 日消息，博主 @数码闲聊站 今日爆料， 某厂子品牌首款新机疑似「阔直板手机」 ，屏幕为 6.39 英寸，搭载 9 系芯片，工程机顶配有 16GB+1TB。 根据博主评论区回复， 新机预计属于华为全新子品牌星芒手机 ，预计下个月发布。 IT之家注意到，博主 @RD观测 今日爆料，华为全新阔直板 Pura X View 销量表现惊艳，截至目前， 华为 Pura X View 上市 50 天 Sell in （出货量） 已破 100 万台 。 作为参考，华为 Pura X View 阔直板手机搭载了一块 6.39 英寸 2232 × 1320 分辨率屏幕（比例 16:9.5",
+   "published_at": 1793235997.0,
+   "published_bj": "2026-10-29 09:06"
+  },
+  {
+   "id": "857225245dba3c71",
+   "source": "IT之家",
+   "title": "Chieftec 推出 45mm 紧凑型下压风冷 CAC-S92PWM-LP45",
+   "url": "https://www.ithome.com/1/019/298.htm",
+   "summary": "IT之家 10 月 29 日消息，PC 硬件品牌 Chieftec 近日推出了处理器散热器 CAC-S92PWM-LP45。这一型号采用下压式风冷设计， 高度仅 45mm 。 CAC-S92PWM-LP45 整体呈现 C 型结构，长宽为 110.8×93 (mm)，拥有 5 根直触顶盖的 6mm 热管， 配备一颗 9215 规格的 11 叶 PWM 风扇 ，享受 2 年质保。 这颗原装风扇采用 HDB 液压轴承，最大转速 2300RPM、最大风量 36CFM、最大静压 3.2 mmAq、最大噪声 38 dB(A)。",
+   "published_at": 1793235973.0,
+   "published_bj": "2026-10-29 09:06"
+  },
+  {
+   "id": "80db04bb05662cdb",
+   "source": "IT之家",
+   "title": "谷歌主动推动安卓折叠屏应用适配，Google Play 商店明年将引入评估机制",
+   "url": "https://www.ithome.com/1/019/297.htm",
+   "summary": "IT之家 10 月 29 日消息，搭载安卓系统的折叠屏设备问世多年，应用适配问题却始终没有得到妥善解决，连谷歌也承认这一点。不过，谷歌不准备继续指望开发者自觉优化应用，而是打算 主动推动折叠屏应用的适配工作 。 当地时间 28 日，据外媒 Android Authority 报道，从明年起，Google Play 商店将开始 评估应用和游戏在折叠屏设备上的表现 ，并为适配出色的产品提供更多曝光机会和更醒目的推荐位置。谷歌在 Android 开发者峰会上确认，具体要求将在今年晚些时候公布。 随着 Googlebook 笔记本电脑生态的发展，应用适配也变得更加迫切。未经优化的手机应用在大屏幕上往往",
+   "published_at": 1793235732.0,
+   "published_bj": "2026-10-29 09:02"
+  },
+  {
+   "id": "def6d69aa1f606aa",
+   "source": "IT之家",
+   "title": "盛美上海：首台量产型 310×310mm 面板级水平电镀设备出机至中国大陆以外的亚洲市场",
+   "url": "https://www.ithome.com/1/019/295.htm",
+   "summary": "IT之家 10 月 29 日消息，盛美半导体设备（上海）股份有限公司（以下简称“盛美上海”）今日宣布，盛美上海首台量产型 310mm×310mm 面板级水平电镀设备 UltraECP ap-p 顺利出机至 中国大陆以外的亚洲市场 。 据介绍，随着先进封装技术持续发展，面板级工艺因其适用于大尺寸基板加工而受到产业关注。 电镀是相关制造流程中的最重要的环节之一 ，设备的稳定性、电镀金属膜厚的均匀性与稳定性，关系到工艺导入的产品良率和生产效率。 ▲ Ultra ECP ap-p IT之家获悉，该设备采用盛美上海自主研发的水平电镀技术，并支持铜、镍、锡银及金等多材质电镀工艺。其中，铜电镀腔体配备了专为",
+   "published_at": 1793235402.0,
+   "published_bj": "2026-10-29 08:56"
+  },
+  {
+   "id": "ef4c34f284ecd9d6",
+   "source": "IT之家",
+   "title": "三星电子 2026 财年第三财季业绩爆发：归母净利润 75.21 万亿韩元同比增长 526.39%",
+   "url": "https://www.ithome.com/1/019/294.htm",
+   "summary": "IT之家 10 月 29 日消息，三星电子今日发布 2026 财年（2026 年 1 月～2026 年 12 月）前三季度（2026 年 1 月～2026 年 9 月）业绩快报及第三财季（2026 年 7 月～2026 年 9 月）业绩快报报告： 2026 财年前三季度 营业总收入 ：500.63 万亿韩元 （IT之家注：现汇率约合 2.52 万亿元人民币） ，同比增长 108.8% 归母净利润 ：193.58 万亿韩元 （现汇率约合 9735.08 亿元人民币） ，同比增长 675.28% 2026 财年第三财季 营业总收入 ：195.25 万亿韩元 （现汇率约合 9819.28 亿元人民币",
+   "published_at": 1793235145.0,
+   "published_bj": "2026-10-29 08:52"
+  },
+  {
+   "id": "59073094c6e40964",
+   "source": "IT之家",
+   "title": "消息称华为阔直板手机 Pura X View 上市 50 天出货量超 100 万台",
+   "url": "https://www.ithome.com/1/019/293.htm",
+   "summary": "IT之家 10 月 29 日消息，据长期关注国内手机市场份额的数码博主 @RD观测 爆料，华为全新阔直板 Pura X View 销量表现惊艳，截至目前， 华为 Pura X View 上市 50 天 Sell in （出货量） 已破 100 万台 。 此外，根据腾讯手机市场洞察数据，华为 Pura X View 在过去三周（10.5-10.24）周增 SO（Sell out、销量）最高近 10 万， 拿下单型号国产旗舰手机销量 TOP1 （5K+）。 IT之家注意到，这款手机自发布以来，长期处于缺货状态。为应对该问题， 华为官方已于 10 月 20 日开启了该机的 60 天预约申购活动 。 ",
+   "published_at": 1793234916.0,
+   "published_bj": "2026-10-29 08:48"
+  },
+  {
+   "id": "2ed673e4b947fa94",
+   "source": "IT之家",
+   "title": "奇瑞：预计到年底出口汽车海外生产比例超 50%，到 2030 年达 70%",
+   "url": "https://www.ithome.com/1/019/291.htm",
+   "summary": "IT之家 10 月 29 日消息，据路透社报道，奇瑞汽车常务副总裁张贵兵上周透露，预计到今年年底，奇瑞出口汽车中 海外生产的比例将超过 50% ，2027 年提高至 60%，到 2030 年进一步达到 70%。 据IT之家了解，今年，奇瑞出口汽车的海外生产比例约为 48%。 奇瑞推动生产本地化，不只是为了在海外卖车，还希望创造当地就业岗位，并开展技术合作。张贵兵表示，公司逐步推进生产本地化，努力“以当地制造为主”。 奇瑞旗下拥有欧萌达、杰酷等面向海外的品牌。报道提到，凭借“先进技术和传统车企难以匹敌的价格”，奇瑞与其他多家中国车企一道，对全球汽车行业形成冲击。 奇瑞还计划从 2027 年起在英",
+   "published_at": 1793234244.0,
+   "published_bj": "2026-10-29 08:37"
+  },
+  {
+   "id": "296defa859139c8a",
+   "source": "IT之家",
+   "title": "科普书出现“双头虾”图片：出版社通知全网下架并召回，知情人士称用 AI 技术表现蜕壳过程引发误解",
+   "url": "https://www.ithome.com/1/019/290.htm",
+   "summary": "IT之家 10 月 29 日消息，据南方都市报报道，近日，有读者在社交平台反映，其购入中国农业出版社出版发行的《南海海洋生物科普丛书》，丛书序言表示， 本套丛书里绝大多数图片由 AI 绘图工具生成 。但其发现丛书的绘图中出现了“双头虾”的错误图片，分别在第 13 册“斑节对虾”封面与内页。 10 月 27 日，中国农业出版社工作人员回应称，出版社已经关注到相关情况。该出版社读者服务热线的工作人员向记者表示， 目前正在通知全网下架并召回涉事图书 。 另据界面新闻 28 日报道，知情人士表示，该图片主要是为表现斑节对虾蜕壳的过程， 但因 AI 技术使用不成熟，导致图片引发外界误解 。 书中图片下方",
+   "published_at": 1793234231.0,
+   "published_bj": "2026-10-29 08:37"
+  },
+  {
+   "id": "d5e52fab10e878f5",
+   "source": "Hacker News",
+   "title": "MicroZig to Adopt Strict No LLM / No AI Policy",
+   "url": "https://github.com/ZigEmbeddedGroup/microzig/blob/main/CODE_OF_CONDUCT.md",
+   "summary": "Article URL: https://github.com/ZigEmbeddedGroup/microzig/blob/main/CODE_OF_CONDUCT.md Comments URL: https://news.ycombinator.com/item?id=50282865 Points: 9 # Comments: 2",
+   "published_at": 1793233837.0,
+   "published_bj": "2026-10-29 08:30"
+  },
+  {
+   "id": "f9d60c3d7ee7b576",
+   "source": "Hacker News",
+   "title": "Qwenputer: A functioning, deterministic RISC-V CPU inside Qwen3.5",
+   "url": "https://divagr.com/blog/qwenputer",
+   "summary": "Article URL: https://divagr.com/blog/qwenputer Comments URL: https://news.ycombinator.com/item?id=50282838 Points: 14 # Comments: 0",
+   "published_at": 1793233545.0,
+   "published_bj": "2026-10-29 08:25"
+  },
+  {
+   "id": "2e44ba1e9447b293",
+   "source": "IT之家",
+   "title": "Switch 2 独占游戏《马力欧卡丁车世界》已在苹果 iPhone 18 Pro 上演示运行",
+   "url": "https://www.ithome.com/1/019/289.htm",
+   "summary": "IT之家 10 月 29 日消息，科技媒体 TechPowerUp 昨日（10 月 28 日）发布博文，报道称 任天堂 Switch 2 首个软件级越狱公开不到一周，已有开发者展示该主机独占游戏在 iPhone 和 PC 上启动的画面。 开发者威尔 · 福斯特（Will Faust）发布视频称，通过 nxnative 项目的私有分支，已在苹果 iPhone 18 Pro 上运行《马力欧卡丁车世界》（Mario Kart World）游戏。 IT之家此前报道，nxnative 项目基于 Apple Silicon 原生运行 Switch 游戏， 此前已在 macOS 平台上运行《马力欧卡丁车世界",
+   "published_at": 1793233338.0,
+   "published_bj": "2026-10-29 08:22"
+  },
+  {
+   "id": "ec4bd0bdfe76e24e",
+   "source": "IT之家",
+   "title": "年产 50 万辆：重庆张雪机车摩托车建设项目预计年内开工",
+   "url": "https://www.ithome.com/1/019/288.htm",
+   "summary": "IT之家 10 月 29 日消息，据重庆市发展改革委，重庆张雪机车年产 50 万辆摩托车建设项目已取得建设用地规划许可，前期工作加快推进，预计年内开工。 根据“重庆发布”今天公布的信息，今年前 9 月，重庆摩托车产业重点项目建设持续发力， 完成投资 22 亿元 ，加快打造“重庆摩托车 1 小时产业圈”。 IT之家查询获悉，张雪机车全链条生产基地于 9 月正式落地，该项目 规划年产能达 50 万辆 ，位于两江新区的重庆两路果园港综保区。 该生产项目总用地 186.5 亩，规划建设涵盖 整车制造及自研发动机 在内的摩托车全链条生产体系，实现 从核心零部件自主研发生产到整车总装测试 的全流程覆盖。项",
+   "published_at": 1793233201.0,
+   "published_bj": "2026-10-29 08:20"
+  },
+  {
+   "id": "b3a4e54b2a0c7694",
+   "source": "Hacker News",
+   "title": "New York Times adds more AI features to its Cooking app. Users aren't thrilled",
+   "url": "https://www.niemanlab.org/2026/10/the-new-york-times-is-adding-more-ai-features-to-its-cooking-app-and-users-arent-thrilled/",
+   "summary": "Article URL: https://www.niemanlab.org/2026/10/the-new-york-times-is-adding-more-ai-features-to-its-cooking-app-and-users-arent-thrilled/ Comments URL: https://news.ycombinator.com/item?id=50282766 Points: 16 # Comments: 7",
+   "published_at": 1793232968.0,
+   "published_bj": "2026-10-29 08:16"
+  },
+  {
+   "id": "492418f377ab72d7",
+   "source": "IT之家",
+   "title": "AI 数据中心用电激增，美国电力行业减排成果恐被抵消",
+   "url": "https://www.ithome.com/1/019/287.htm",
+   "summary": "IT之家 10 月 29 日消息，据彭博社 28 日晚间报道，美国环保组织塞拉俱乐部的一份内部分析指出，为 AI 数据中心供电而掀起的化石燃料电厂建设热潮，恐将抵消 美国电力行业过去 15 年的温室气体减排成果 。 塞拉俱乐部估计，如果将规划中的 AI 项目计算在内，到 2030 年，美国电力行业的二氧化碳排放量将达到 21 亿吨， 比 2025 年增加 6.18 亿吨，增幅约 42% 。 塞拉俱乐部气候与能源首席顾问杰里米 · 费舍尔指出，如果在一年半前进行预测，研究人员估计的建设规模及其影响可能只有当前预测的四分之一到一半。 面对 AI 数据中心庞大的用电需求，许多开发商选择天然气发电，既",
+   "published_at": 1793232671.0,
+   "published_bj": "2026-10-29 08:11"
+  },
+  {
    "id": "60c689cf6d48d539",
    "source": "IT之家",
    "title": "密集发布 Kindle、Alexa 智能家居等新品后，亚马逊设备与服务业务部门裁员约 250 人",
@@ -20,6 +182,24 @@
    "summary": "IT之家 10 月 29 日消息，据路透社报道，在数周内密集发布包括新款 Kindle 电子书阅读器和平板电脑在内的多款产品后，亚马逊于周三在其设备与服务业务部门（Devices and Services Unit）裁减了约 250 个岗位。 亚马逊证实了该裁员消息。“我们做出了艰难的决定，将精简少量岗位，”一位公司发言人表示，但未作进一步详细说明。 一位知情人士透露， 此次裁员涉及的人数不超过 250 人 ，主要集中在软件开发领域。 发言人补充道，此次裁员将帮助公司“提升运营效率，并更好地契合我们的产品路线图”。与此同时，亚马逊周三还发布了一款搭载 Alexa 语音助手的新型闹钟和智能相框。",
    "published_at": 1793232399.0,
    "published_bj": "2026-10-29 08:06"
+  },
+  {
+   "id": "b71d7fbe1956f6b7",
+   "source": "IT之家",
+   "title": "瑞萨电子 2026 财年预计营收 1.66 万亿-1.67 万亿日元，同比增长 25.8-27.0%",
+   "url": "https://www.ithome.com/1/019/284.htm",
+   "summary": "IT之家 10 月 29 日消息，瑞萨电子今日发布 2026 财年（2026 年 1 月～2026 年 12 月）业绩预告： 营业收入（Non-GAAP） ：1.66 万亿至 1.67 万亿日元 （IT之家注：现汇率约合 702 亿至 706.23 亿元人民币） ，具体为 16,592.81 亿至 16,742.81 亿日元 （现汇率约合 701.69 亿至 708.04 亿元人民币） ，预计同比增长 25.8% 至 27.0%。 毛利率（Non-GAAP） ：58.6%，较 2025 年提高 1.0 个百分点。 营业利润率（Non-GAAP） ：33.2%，较 2025 年提高 3.9 个百",
+   "published_at": 1793232068.0,
+   "published_bj": "2026-10-29 08:01"
+  },
+  {
+   "id": "3b12f2637be83ec1",
+   "source": "Hacker News",
+   "title": "Get Ready for Touch on Mac",
+   "url": "https://developer.apple.com/touch-on-mac/",
+   "summary": "Article URL: https://developer.apple.com/touch-on-mac/ Comments URL: https://news.ycombinator.com/item?id=50282650 Points: 24 # Comments: 39",
+   "published_at": 1793231900.0,
+   "published_bj": "2026-10-29 07:58"
   },
   {
    "id": "b64f898f4c7aa54e",
@@ -67,6 +247,15 @@
    "published_bj": "2026-10-29 07:45"
   },
   {
+   "id": "68ee2639cedf6642",
+   "source": "Hacker News",
+   "title": "The first wired XR glasses powered by Android XR",
+   "url": "https://blog.google/products-and-platforms/platforms/android/xreal-aura/",
+   "summary": "Article URL: https://blog.google/products-and-platforms/platforms/android/xreal-aura/ Comments URL: https://news.ycombinator.com/item?id=50282538 Points: 11 # Comments: 10",
+   "published_at": 1793231119.0,
+   "published_bj": "2026-10-29 07:45"
+  },
+  {
    "id": "9ba8b57f6c35c338",
    "source": "IT之家",
    "title": "AI 行业重磅并购：彭博社称美满电子最快下周宣布收购光通信龙头 Lumentum",
@@ -83,6 +272,15 @@
    "summary": "IT之家 10 月 29 日消息，几年前，MINI 开始大力推行大屏幕设计，推出全新车机系统，将绝大部分车辆信息集中到仪表台中央的一块大型圆形中控屏上。时至今日，MINI 依旧没有放弃这一设计的打算。 圆形仪表一直是 MINI 的标志性元素，从品牌诞生之初便沿用至今。历经更新迭代，仪表的位置曾从中控台移到方向盘后方，后来又回归中央，圆形设计却始终没有改变。 随着汽车进入数字化时代，MINI 也用大型圆形中控屏延续这一传统，并对这种设计颇为自豪。MINI 澳大利亚总经理亚历山大 · 布罗克霍夫接受当地媒体 Drive 采访时表示：“圆形显示屏 是 MINI 独有的设计 ，我们希望保留这一品牌传统",
    "published_at": 1793230605.0,
    "published_bj": "2026-10-29 07:36"
+  },
+  {
+   "id": "6b3fb431973d9b92",
+   "source": "Hacker News",
+   "title": "StackOverflow now gets fewer than 1000 questions a month",
+   "url": "https://data.stackexchange.com/stackoverflow/query/1926661#graph?t=1",
+   "summary": "Article URL: https://data.stackexchange.com/stackoverflow/query/1926661#graph?t=1 Comments URL: https://news.ycombinator.com/item?id=50282454 Points: 77 # Comments: 77",
+   "published_at": 1793230502.0,
+   "published_bj": "2026-10-29 07:35"
   },
   {
    "id": "7edbf02ecaa5c864",
