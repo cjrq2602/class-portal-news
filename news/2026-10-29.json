@@ -1,8 +1,107 @@
 {
  "date": "2026-10-29",
- "generated_at": 1793287782.5073245,
+ "generated_at": 1793291396.7166276,
  "count": 400,
  "items": [
+  {
+   "id": "0cc369a0af86b707",
+   "source": "IT之家",
+   "title": "为 XR 设备无线音频铺路：星闪 SLE 3.0 计划链路峰值速率提至 16Mbps+，真正做到 Hi-Res 无损音质",
+   "url": "https://www.ithome.com/1/019/797.htm",
+   "summary": "IT之家 10 月 29 日消息，《星闪 SLE3.0 技术标准演进蓝皮书》已在国际星闪联盟官网正式上线。蓝皮书中详细介绍了星闪 SLE 3.0 的核心技术演进背景与目标。 据介绍，星闪 SLE 当前支持 12Mbps 物理层，能基本满足通用数传、高清音频等应用场景。星闪 SLE 3.0 将在当前物理层基础上， 链路峰值速率提升至 16Mbps+ 。 根据规划，星闪 SLE 3.0 通过进一步优化 Polar 编码提升接收灵敏度， 引入应用波束成形、更窄信道划分等技术 ，将兼顾提升应用的覆盖范围，同时还要改善大规模节点的接入，实现分布式自组网、多并发调度、多层同步网络、网络低时延能力、网络自愈",
+   "published_at": 1793289593.0,
+   "published_bj": "2026-10-29 23:59"
+  },
+  {
+   "id": "7649bc1271864519",
+   "source": "Hacker News",
+   "title": "Launch HN: Simantic (YC F26) – Firmware Simulation for AI Agents",
+   "url": "https://news.ycombinator.com/item?id=50291116",
+   "summary": "Hi HN, we're Ahnaf and Seungmin from Simantic ( https://simantic.com ). We are building the simulation layer that lets engineers and AI agents test and validate firmware without hardware. Before Simantic, we were ex-firmware engineers at companies like Neuralink and Tesla. We’ve worked on some of th",
+   "published_at": 1793289392.0,
+   "published_bj": "2026-10-29 23:56"
+  },
+  {
+   "id": "3dbd52d57a84292f",
+   "source": "Hacker News",
+   "title": "H.264 Is Magic",
+   "url": "https://sidbala.com/h-264-is-magic/",
+   "summary": "Article URL: https://sidbala.com/h-264-is-magic/ Comments URL: https://news.ycombinator.com/item?id=50291054 Points: 34 # Comments: 5",
+   "published_at": 1793289183.0,
+   "published_bj": "2026-10-29 23:53"
+  },
+  {
+   "id": "2475a756fe024c51",
+   "source": "IT之家",
+   "title": "星闪 SLE 2.0 核心升级高清音频、高精测距功能，恒玄、华为海思等厂商发布 20+ 款芯片",
+   "url": "https://www.ithome.com/1/019/796.htm",
+   "summary": "IT之家 10 月 29 日消息，《星闪 SLE3.0 技术标准演进蓝皮书》已在国际星闪联盟官网正式上线。蓝皮书中详细介绍了星闪 SLE 标准演进三阶段。 IT之家从蓝皮书了解到，2025 年以来星闪 SLE 2.0 技术迈入技术成熟与商业落地双爆发阶段。芯片领域， 卓胜微、恒玄、泰凌微、创耀、华为海思等厂商已发布 20+ 款芯片 ，支持高清音频、高精测距等星闪 SLE 2.0 核心功能。 数字车钥匙领域，2025 年 3 月问界新 M9 上市，首批星闪数字钥匙实现量产上车；随后问界 M8、享界 S9 增程版、东风猛士 M817、广汽丰田铂智 7 等产品陆续搭载。 2025 年全年搭载星闪数字",
+   "published_at": 1793288729.0,
+   "published_bj": "2026-10-29 23:45"
+  },
+  {
+   "id": "379d2d1ad2b6ebfe",
+   "source": "Hacker News",
+   "title": "Grace Blackwell needs a new scheduler: 27% more usable GPUs from the same racks",
+   "url": "https://skypilot.ai/blog/grace-blackwell-needs-a-new-scheduler",
+   "summary": "Article URL: https://skypilot.ai/blog/grace-blackwell-needs-a-new-scheduler Comments URL: https://news.ycombinator.com/item?id=50290912 Points: 13 # Comments: 0",
+   "published_at": 1793288705.0,
+   "published_bj": "2026-10-29 23:45"
+  },
+  {
+   "id": "f0daa8a97645e8f5",
+   "source": "cnBeta",
+   "title": "奢华定制折叠旗舰 三星W27在中国正式发布",
+   "url": "https://www.cnbeta.com.tw/articles/tech/1584342.htm",
+   "summary": "三星电子正式在中国市场推出全新高端定制折叠屏手机W27。作为W系列的最新成员，新机延续了三星与中国电信长期合作打造的高端商务定位，在硬件配置上基于Galaxy Z Fold系列打造，同时加入专属设计元素和更具辨识度的外观风格。 阅读全文",
+   "published_at": 1793288677.0,
+   "published_bj": "2026-10-29 23:44"
+  },
+  {
+   "id": "8e35e1d2f5fbd7d9",
+   "source": "cnBeta",
+   "title": "Commodore 64C宣布回归：沿用1980年代原始模具 打造现代复刻版经典电脑",
+   "url": "https://www.cnbeta.com.tw/articles/tech/1584340.htm",
+   "summary": "曾创造个人电脑历史销售纪录的传奇机型Commodore 64C即将重返市场。负责Commodore品牌运营的新团队日前宣布，将推出全新的Commodore 64C复刻版电脑，不仅保留了经典外观设计，还大量采用了上世纪80年代的原始生产资源，希望为复古计算爱好者带来更加原汁原味的体验。 阅读全文",
+   "published_at": 1793288638.0,
+   "published_bj": "2026-10-29 23:43"
+  },
+  {
+   "id": "230027d950dabdf8",
+   "source": "cnBeta",
+   "title": "《GTA6》剧情目标披露：双主角都想退出犯罪共同生活",
+   "url": "https://www.cnbeta.com.tw/articles/game/1584338.htm",
+   "summary": "目前，我们对《GTA66》已经有了相当多的了解。从游戏的犯罪机制到NPC的独特特征，R星逐渐透露出更多信息，让玩家了解这款即将推出的开放世界冒险游戏。然而，对于游戏的故事，工作室始终相对谨慎，鲜少透露细节。 阅读全文",
+   "published_at": 1793288431.0,
+   "published_bj": "2026-10-29 23:40"
+  },
+  {
+   "id": "25446a77f4b962c2",
+   "source": "cnBeta",
+   "title": "谷歌市值创纪录蒸发5000亿美元 AI侵蚀营收",
+   "url": "https://www.cnbeta.com.tw/articles/tech/1584336.htm",
+   "summary": "Alphabet Inc．股价一度下跌逾13%，市值蒸发逾5000亿美元，单日市值缩水规模创公司纪录。此前公司公布的搜索和广告业务营收令人失望，加剧了投资者对人工智能（AI）威胁其核心业务的担忧。 阅读全文",
+   "published_at": 1793288236.0,
+   "published_bj": "2026-10-29 23:37"
+  },
+  {
+   "id": "a800251e46b2abdd",
+   "source": "cnBeta",
+   "title": "《影之刃零》交卷 国产3A还能再造一个《黑神话》吗？",
+   "url": "https://www.cnbeta.com.tw/articles/game/1584334.htm",
+   "summary": "游戏在线玩家数已破60万。游戏行业备受瞩目的“村里第二个大学生”，今天终于交卷了。10月29日，国产3A武侠动作游戏《影之刃零》正式发售，登陆PC和PlayStation 5平台，不久后登顶Steam全球热销榜。发售一小时后，Steam同时在线玩家数突破30万；截至当日20时，Steam上的最高玩家数已经超60万。 阅读全文",
+   "published_at": 1793288183.0,
+   "published_bj": "2026-10-29 23:36"
+  },
+  {
+   "id": "1657617eeaf49674",
+   "source": "Hacker News",
+   "title": "Mexico is a showroom for electric vehicles you can't buy in the U.S.",
+   "url": "https://www.washingtonpost.com/climate-environment/2026/10/27/i-saw-future-driving-mexico-its-off-limits-americans/",
+   "summary": "Article URL: https://www.washingtonpost.com/climate-environment/2026/10/27/i-saw-future-driving-mexico-its-off-limits-americans/ Comments URL: https://news.ycombinator.com/item?id=50290668 Points: 44 # Comments: 14",
+   "published_at": 1793287822.0,
+   "published_bj": "2026-10-29 23:30"
+  },
   {
    "id": "c4491690cc472a47",
    "source": "IT之家",
@@ -31,6 +130,15 @@
    "published_bj": "2026-10-29 23:21"
   },
   {
+   "id": "0f15a0b9f0f3e90d",
+   "source": "Solidot",
+   "title": "Google AI 搜索产生的收入低于传统搜索",
+   "url": "https://www.solidot.org/story?sid=85748",
+   "summary": "Google/Alphabet 在公布第三季度财报之后股价下跌了近 10%，原因是搜索巨人披露 AI 搜索产生的收入低于传统搜索，尽管其整体搜索业务收入同比增长 12% 达到 632.5 亿美元。搜索业务增速略低于去年第三季度的 14.5% ，Alphabet 首席商务官 Philipp Schindler 称，搜索业务增长放缓的原因在于“我们观察到 AI Mode 变现能力较低”。为推动 AI 业务 Google 同时在基础设施上投入巨额资金。第三季度公司支出达 514 亿美元，其中约三分之二用于服务器和网络设备，其余部分则用于数据中心建设。巨额支出影响了盈利能力：Alphabet 本季度净",
+   "published_at": 1793287184.0,
+   "published_bj": "2026-10-29 23:19"
+  },
+  {
    "id": "596f37aa74057e83",
    "source": "IT之家",
    "title": "《魔兽世界：无限》添加原生手柄支持，暴雪迈出多设备畅玩第一步",
@@ -49,6 +157,15 @@
    "published_bj": "2026-10-29 23:12"
   },
   {
+   "id": "7c3c5c16b9da5151",
+   "source": "Solidot",
+   "title": "研究发现非英语的 token 成本更高",
+   "url": "https://www.solidot.org/story?sid=85747",
+   "summary": "Coalition for Language Equity in AI Research 上个月发表的一项研究发现，AI 模型处理部分语言提示所需的 token 量远超英语。研究人员称之为隐性 token 税，意味着小语种用户的 AI 成本更高。研究发现，即使互联网最流行的 20 种语言，token 使用量也存在差异。最昂贵语言使用的 token 数量是最便宜语言的 1.5-5 倍。当研究人员将范围扩大到 200 种语言，差异进一步扩大，一个 AI 模型的 token 成本差距甚至增加了 17 倍。研究指出：位于班加罗尔的初创公司可能需要为每次提示和完成支付附加费，而其位于奥斯汀的竞争对手则无",
+   "published_at": 1793286638.0,
+   "published_bj": "2026-10-29 23:10"
+  },
+  {
    "id": "e9cec1da973a9b2c",
    "source": "IT之家",
    "title": "星闪 SLE 1.0 芯片累计发货量 7000 万，华为 2023 年实现首批商用终端产品落地",
@@ -56,6 +173,15 @@
    "summary": "IT之家 10 月 29 日消息，《星闪 SLE3.0 技术标准演进蓝皮书》已在国际星闪联盟官网正式上线。 据蓝皮书介绍，星闪 SLE 1.0 标准于 2022 年 11 月正式发布，SLE 1.0 芯片累计发货量 7000 万。 模组：润和、汉枫、爱联、为思润华、亿佰特、问沧智能等模组厂商 已发布超过 40 款基于星闪 SLE 1.0 的模组产品 ，可支持白色家电、小家电、照明、电工 IoT、传感器、运动健康、户外出行、家庭安防、照明、工业互联网等应用场景。 终端产品： 2023 年 9 月份华为发布首批支持星闪技术的商用终端产品 ，如 Mate 60 系列、MatePad Pro 13.2",
    "published_at": 1793286587.0,
    "published_bj": "2026-10-29 23:09"
+  },
+  {
+   "id": "ab4c9d2bd120a743",
+   "source": "Hacker News",
+   "title": "Zombie stats: Where the numbers AI quotes come from",
+   "url": "https://trakkr.ai/trakkr-research/zombie-stats",
+   "summary": "Article URL: https://trakkr.ai/trakkr-research/zombie-stats Comments URL: https://news.ycombinator.com/item?id=50290283 Points: 53 # Comments: 16",
+   "published_at": 1793286377.0,
+   "published_bj": "2026-10-29 23:06"
   },
   {
    "id": "cab7ce0b8e740c4a",
@@ -92,6 +218,15 @@
    "summary": "IT之家 10 月 29 日消息，FromSoftware 工作室今天宣布，他们为 Switch 2 打造的独占游戏《黄昏血族》（The Duskbloods）将延期至 2027 年发售。 FromSoftware 对此表示：“《黄昏血族》开发工作已进入最后调整阶段， 但我们仍决定将发售时间推迟至 2027 年 。对于一直热切期待本作的玩家，我们深表歉意，同时感谢大家的耐心等待。” “网络测试期间，我们发现玩家对游戏的核心设计表现出浓厚兴趣，包括战斗、策略深度以及玩家的自由发挥空间。为了进一步完善，我们决定推迟发售，以便有更多时间调整游戏规则和平衡性。” IT之家了解到，《黄昏血族》是一款最多",
    "published_at": 1793285933.0,
    "published_bj": "2026-10-29 22:58"
+  },
+  {
+   "id": "08941075f60fee96",
+   "source": "Solidot",
+   "title": "以色列耶路撒冷爆发麻疹疫情",
+   "url": "https://www.solidot.org/story?sid=85746",
+   "summary": "一项统计数字显示，以色列耶路撒冷极端正统派犹太人居住的多个社区其麻疹疫苗接种率仅为 55.0%，这些地方最近爆发了麻疹疫情，感染麻疹的人绝大多数都是5 岁以下未接种儿童，有多人死亡。耶路撒冷是以色列最大城市，2025 年人口约为 100 万，其中 60 万是犹太人，40 万是阿拉伯人。而犹太人中间 50.0% 属于极端正统派。耶路撒冷的麻疹疫苗接种率已从 2019 年的 94.7% 降至 2024 年的 78.3%。在市中心 6 个极端正统派居住的社区，2025 年麻疹疫苗接种率仅为 55.0%。2025 年 4 月-2026 年 3 月期间耶路撒冷共报告麻疹病例 1,289 例，有 11 人",
+   "published_at": 1793285875.0,
+   "published_bj": "2026-10-29 22:57"
   },
   {
    "id": "b48d43409c39574e",
@@ -391,6 +526,15 @@
    "published_bj": "2026-10-29 21:40"
   },
   {
+   "id": "acdd8c1cffe7593b",
+   "source": "Hacker News",
+   "title": "‘You Are Done’: The letter sent to King by the F.B.I (2014)",
+   "url": "https://www.nytimes.com/2014/11/16/magazine/what-an-uncensored-letter-to-mlk-reveals.html",
+   "summary": "https://archive.ph/Ykfga Comments URL: https://news.ycombinator.com/item?id=50288867 Points: 348 # Comments: 241",
+   "published_at": 1793281204.0,
+   "published_bj": "2026-10-29 21:40"
+  },
+  {
    "id": "793978abeea06cc9",
    "source": "IT之家",
    "title": "潜伏约 16 年的 UEFI 高危漏洞 CVE-2026-97631 曝光：CVSS 评分 9.5，影响多家固件供应商",
@@ -522,6 +666,15 @@
    "title": "Who will you learn from in 6 days at TechCrunch Founder Summit? Meet the founders and investors taking the stages",
    "url": "https://techcrunch.com/2026/10/29/who-will-you-learn-from-in-6-days-at-techcrunch-founder-summit-meet-the-founders-and-investors-taking-the-stage/",
    "summary": "Six days from now, TechCrunch Founder Summit brings experienced founders, investors, and operators to Boston on Nov. 4 to share the decisions, mistakes, pivots, and lessons that shaped their companies. Register before it starts for ticket savings and deals.",
+   "published_at": 1793278800.0,
+   "published_bj": "2026-10-29 21:00"
+  },
+  {
+   "id": "757f1e559c4b4358",
+   "source": "TechCrunch",
+   "title": "Amazon updates Alexa to help you manage shopping lists and subscriptions and update delivery instructions",
+   "url": "https://techcrunch.com/2026/10/29/amazon-updates-alexa-to-help-you-manage-shopping-lists-and-subscriptions-and-update-delivery-instructions/",
+   "summary": "The update allows you to use Alexa to create lists, register them, see what's on them, and add or edit items. You can also manage subscriptions.",
    "published_at": 1793278800.0,
    "published_bj": "2026-10-29 21:00"
   },
@@ -3449,159 +3602,6 @@
    "summary": "Google于当地时间10月28日正式发布新一代前沿人工智能模型Gemini 4 Carbon，重点提升软件编程、智能体执行复杂任务以及网络安全防御能力。Google称，新模型在发现软件漏洞、验证漏洞可利用性以及修复安全缺陷等多个环节取得显著进步，并在多项基准测试中领先于OpenAI和Anthropic的旗舰模型。不过，考虑到其强大的网络安全能力可能带来的潜在风险，Google目前仅向部分经过筛选的网络安全防御机构开放使用，暂时不会立即向所有开发者和普通用户提供。 阅读全文",
    "published_at": 1793222342.0,
    "published_bj": "2026-10-29 05:19"
-  },
-  {
-   "id": "d602204541409bed",
-   "source": "IT之家",
-   "title": "全球 AI 基建风向标：英伟达于太平洋时间 11 月 17 日公布 2027 财年第 3 财季财报",
-   "url": "https://www.ithome.com/1/019/263.htm",
-   "summary": "IT之家 10 月 29 日消息，英伟达今天（10 月 29 日）发布公告，宣布将于太平洋时间 11 月 17 日下午 2 时（北京时间 11 月 18 日上午 6 时）召开电话会议， 公布并解读 2027 财年第三财季（截至 2026 年 10 月 25 日）财务业绩。 根据公告，本次电话会议将在英伟达投资者关系网站进行仅收听模式的网络直播。公司管理层发言后，将安排问答环节，提问对象仅限金融分析师和机构投资者。 值得注意的是，英伟达此次调整了信息披露节奏：在电话会议开始前，公司会先行公布业绩，并同步发布执行副总裁兼首席财务官科莱特 · 克雷斯（Colette Kress）撰写的书面业绩评论。",
-   "published_at": 1793222339.0,
-   "published_bj": "2026-10-29 05:18"
-  },
-  {
-   "id": "609ec06b58376b30",
-   "source": "Hacker News",
-   "title": "A Health Update",
-   "url": "https://furbo.org/2026/10/28/a-health-update/",
-   "summary": "Article URL: https://furbo.org/2026/10/28/a-health-update/ Comments URL: https://news.ycombinator.com/item?id=50280974 Points: 48 # Comments: 3",
-   "published_at": 1793222001.0,
-   "published_bj": "2026-10-29 05:13"
-  },
-  {
-   "id": "9350f19aa96b2322",
-   "source": "IT之家",
-   "title": "打破乔布斯时代的硬件禁忌：特努斯谈苹果首款触控 MacBook Pro，键盘 / 触控板仍是核心",
-   "url": "https://www.ithome.com/1/019/262.htm",
-   "summary": "IT之家 10 月 29 日消息，《连线》（Wired）昨日（10 月 28 日）发布博文，报道称针对苹果打破“Mac 不做触屏”立场，现任首席执行官约翰 · 特努斯（John Ternus）表示， 键盘和触控板仍是 Mac 的核心交互方式，触控只是“在合适场景下更舒适、更方便”的补充。 图源：苹果 IT之家注： “Mac 永远不该做触屏”曾是史蒂夫 · 乔布斯（Steve Jobs）最坚决的标志性原则之一。 乔布斯早在 2010 年就曾公开明确抨击触屏笔记本， 称其在人体工程学上是“一场灾难”。 乔布斯认为长时间抬手触摸屏幕会导致手臂疲劳，即所谓的“大猩猩手臂（Gorilla Arm）效应”",
-   "published_at": 1793221462.0,
-   "published_bj": "2026-10-29 05:04"
-  },
-  {
-   "id": "547c10ab3e8504db",
-   "source": "Hacker News",
-   "title": "Leak Exposes 41,000 Homeland Security Workers–Including Undercover ICE Agents",
-   "url": "https://www.wired.com/story/massive-leak-exposes-41000-homeland-security-workers-including-undercover-ice-agents/",
-   "summary": "Article URL: https://www.wired.com/story/massive-leak-exposes-41000-homeland-security-workers-including-undercover-ice-agents/ Comments URL: https://news.ycombinator.com/item?id=50280864 Points: 50 # Comments: 9",
-   "published_at": 1793221404.0,
-   "published_bj": "2026-10-29 05:03"
-  },
-  {
-   "id": "14dde32a7821676e",
-   "source": "Hacker News",
-   "title": "Nango (YC W23) Is Hiring Across Eng, FDE, Marketing, DevRel",
-   "url": "https://nango.dev/careers",
-   "summary": "Article URL: https://nango.dev/careers Comments URL: https://news.ycombinator.com/item?id=50280824 Points: 0 # Comments: 0",
-   "published_at": 1793221206.0,
-   "published_bj": "2026-10-29 05:00"
-  },
-  {
-   "id": "e2f4a22599577e2b",
-   "source": "InfoQ中文",
-   "title": "Instagram 采用原生 AI 架构对用户界面进行了现代化改造，将 token 成本降低了 33%",
-   "url": "https://www.infoq.cn/article/bXKVgLdpf7HONYHIi6Su?utm_source=rss&utm_medium=article",
-   "summary": "点击查看原文>",
-   "published_at": 1793221200.0,
-   "published_bj": "2026-10-29 05:00"
-  },
-  {
-   "id": "83fe75775cbadaed",
-   "source": "Hacker News",
-   "title": "The case of the 9 bit AES key",
-   "url": "https://v12.sh/blog/the-case-of-the-9bit-aes-key",
-   "summary": "Article URL: https://v12.sh/blog/the-case-of-the-9bit-aes-key Comments URL: https://news.ycombinator.com/item?id=50280722 Points: 4 # Comments: 1",
-   "published_at": 1793220704.0,
-   "published_bj": "2026-10-29 04:51"
-  },
-  {
-   "id": "fb5f514935c8f567",
-   "source": "IT之家",
-   "title": "谷歌最强 AI 模型：Gemini 4 Carbon 登顶全球智能指数榜首，“专职”做网络安全",
-   "url": "https://www.ithome.com/1/019/240.htm",
-   "summary": "IT之家 10 月 29 日消息，谷歌正式发布新一代前沿大模型 Gemini 4 Carbon ，主打业界顶尖的网络安全能力与长程任务处理能力。 谷歌称其为目前最强的模型，重点强化了网络安全能力和处理复杂、长周期任务的能力。 该模型在最新版 Artificial Analysis Intelligence Index v5.0 中排名第一，综合得分 59。 Gemini 4 Carbon 首发入门定价与两周前发布的 Gemini 4 Argon 保持一致，缓存输入 Tokens 可享输入价 95% 折扣。 输入：每百万 Tokens 2 美元 （IT之家注：现汇率约合 13.3 元人民币） 输",
-   "published_at": 1793220700.0,
-   "published_bj": "2026-10-29 04:51"
-  },
-  {
-   "id": "d5f1d0bdfe708437",
-   "source": "Hacker News",
-   "title": "Leak website releases data on DHS employees",
-   "url": "https://www.reuters.com/legal/government/leak-website-releases-data-tens-thousands-dhs-employees-2026-10-28/",
-   "summary": "Article URL: https://www.reuters.com/legal/government/leak-website-releases-data-tens-thousands-dhs-employees-2026-10-28/ Comments URL: https://news.ycombinator.com/item?id=50280662 Points: 7 # Comments: 0",
-   "published_at": 1793220412.0,
-   "published_bj": "2026-10-29 04:46"
-  },
-  {
-   "id": "fda43764a80c9d92",
-   "source": "IT之家",
-   "title": "谷歌 2026Q3 财报暴露 AI 变现焦虑，股价盘后暴跌逾 7%",
-   "url": "https://www.ithome.com/1/019/261.htm",
-   "summary": "IT之家 10 月 29 日消息，谷歌母公司 Alphabet 今日发布 2026 财年（2026 年 1 月～2026 年 12 月）前三季度报（2026 年 1 月～2026 年 9 月）及第三财季（2026 年 7 月～2026 年 9 月）报告后， 股价盘后大跌逾 7%。 尽管第三财季营收达到 1,276 亿美元 （IT之家注：现汇率约合 8,525.01 亿元人民币） ，同比增长 25%，且 Google Cloud 收入翻倍，但每股收益 2.12 美元 （现汇率约合 14.2 元人民币） 远低于市场预期的约 3.02 美元 （现汇率约合 20.2 元人民币） ，广告收入也未达预期，",
-   "published_at": 1793219935.0,
-   "published_bj": "2026-10-29 04:38"
-  },
-  {
-   "id": "38a0f268fe6b4157",
-   "source": "IT之家",
-   "title": "福特汽车 2026 财年前三季度报归母净利润 32.7 亿美元，同比增长 13.5%",
-   "url": "https://www.ithome.com/1/019/260.htm",
-   "summary": "IT之家 10 月 29 日消息，福特汽车今日发布 2026 财年（2026 年 1 月～2026 年 12 月）前三季度报（2026 年 1 月～2026 年 9 月）及第三财季（2026 年 7 月～2026 年 9 月）报告： 2026 财年前三季度报 营业总收入 ：1,410.75 亿美元 （IT之家注：现汇率约合 9,425.28 亿元人民币） ，下降约 0.2% 毛利润 ：214 亿美元 （现汇率约合 1,429.74 亿元人民币） ，同比增长 15.47% 毛利率 ：15.17%，同比增长 2.06 个百分点 归母净利润 ：32.7 亿美元 （现汇率约合 218.47 亿元人民币",
-   "published_at": 1793218328.0,
-   "published_bj": "2026-10-29 04:12"
-  },
-  {
-   "id": "9baa398c03aa118b",
-   "source": "Hacker News",
-   "title": "Alphabet Announces Third Quarter 2026 Results [pdf]",
-   "url": "https://s206.q4cdn.com/479360582/files/doc_financials/2026/q3/2026q3-alphabet-earnings-release.pdf",
-   "summary": "Article URL: https://s206.q4cdn.com/479360582/files/doc_financials/2026/q3/2026q3-alphabet-earnings-release.pdf Comments URL: https://news.ycombinator.com/item?id=50280197 Points: 41 # Comments: 14",
-   "published_at": 1793218315.0,
-   "published_bj": "2026-10-29 04:11"
-  },
-  {
-   "id": "ef1685263fc5f39f",
-   "source": "IT之家",
-   "title": "初探苹果 macOS 27 触控体验：窗口“红绿灯”按钮会变大",
-   "url": "https://www.ithome.com/1/019/259.htm",
-   "summary": "IT之家 10 月 29 日消息，科技媒体 AppleInsider 今天（10 月 29 日）发布博文，在现场体验配备 PROLED XDR 显示屏的首款触控 MacBook Pro 后， 认为苹果并未把 macOS 改成 iPad 式界面，而是为触控操作做了局部适配。 现场演示的苹果首款触控 MacBook Pro 运行 macOS 27 系统，仍保留键盘和触控板。在界面上最直观的变化是窗口左上角的红、黄、绿控制按钮，用户手指触碰后会放大，更容易准确点按。IT之家附上相关演示视频如下： 在官方新闻稿中，苹果称在这款触控 MacBook Pro 上，还支持滑动滚动、双指缩放、拖动幻灯片等常见",
-   "published_at": 1793218258.0,
-   "published_bj": "2026-10-29 04:10"
-  },
-  {
-   "id": "2c072bd335fa9c68",
-   "source": "Hacker News",
-   "title": "Google AI gets cagey when asked who won the 2020 elections",
-   "url": "https://arstechnica.com/ai/2026/10/google-ai-gets-cagey-when-asked-who-won-the-2020-elections/",
-   "summary": "Article URL: https://arstechnica.com/ai/2026/10/google-ai-gets-cagey-when-asked-who-won-the-2020-elections/ Comments URL: https://news.ycombinator.com/item?id=50280178 Points: 35 # Comments: 22",
-   "published_at": 1793218216.0,
-   "published_bj": "2026-10-29 04:10"
-  },
-  {
-   "id": "64a8e4db245e6323",
-   "source": "IT之家",
-   "title": "谷歌 2026 财年前三季度报归母净利润 2008.55 亿美元，同比增长 105.55%",
-   "url": "https://www.ithome.com/1/019/258.htm",
-   "summary": "IT之家 10 月 29 日消息，谷歌今日发布 2026 财年（2026 年 1 月～2026 年 12 月）前三季度报（2026 年 1 月～2026 年 9 月）及第三财季（2026 年 7 月～2026 年 9 月）报告： 2026 财年前三季度报 营业总收入 ：3,572.69 亿美元 （IT之家注：现汇率约合 2.39 万亿元人民币） ，同比增长 23.62% 毛利润 ：2,186.36 亿美元 （现汇率约合 1.46 万亿元人民币） ，同比增长 26.94% 毛利率 ：61.2%，同比增长 1.6 个百分点 归母净利润 ：2,008.55 亿美元 （现汇率约合 1.34 万亿元人民",
-   "published_at": 1793218168.0,
-   "published_bj": "2026-10-29 04:09"
-  },
-  {
-   "id": "afd1fc3477329adc",
-   "source": "IT之家",
-   "title": "微软 2027 财年第一财季营收 922.79 亿美元、同比增 19%，归母净利润 366.29 亿美元、同比增长 32%",
-   "url": "https://www.ithome.com/1/019/257.htm",
-   "summary": "IT之家 10 月 29 日消息，微软今日发布 2027 财年（2026 年 7 月 1 日～2027 年 6 月 30 日）第一财季（2026 年 7 月 1 日～2026 年 9 月 30 日）报告： 营业总收入 ：922.79 亿美元 （IT之家注：现汇率约合 6,165.2 亿元人民币） ，同比增长 19% 毛利润 ：625.59 亿美元 （现汇率约合 4,179.59 亿元人民币） 毛利率 ：67.79% 归母净利润 ：366.29 亿美元 （现汇率约合 2,447.2 亿元人民币） ，同比增长 32% 经营现金流 ：580 亿美元 （现汇率约合 3,875 亿元人民币） 基本每股收",
-   "published_at": 1793218121.0,
-   "published_bj": "2026-10-29 04:08"
-  },
-  {
-   "id": "0e934e292df72fdb",
-   "source": "TechCrunch",
-   "title": "Hacker stole personnel data about thousands of Homeland Security employees, including CBP and ICE agents",
-   "url": "https://techcrunch.com/2026/10/28/hacker-stole-personnel-data-about-thousands-of-homeland-security-employees-including-cbp-and-ice-agents/",
-   "summary": "A hacker obtained personally identifiable information about more than 40,000 Homeland Security staffers, which has since been published online.",
-   "published_at": 1793217660.0,
-   "published_bj": "2026-10-29 04:01"
   }
  ]
 }

@@ -1,7 +1,7 @@
 {
  "date": "2026-10-30",
- "generated_at": 1793287782.5043058,
- "count": 7,
+ "generated_at": 1793291396.7140331,
+ "count": 11,
  "items": [
   {
    "id": "73336d36f93cd3d8",
@@ -65,6 +65,42 @@
    "summary": "点击查看原文>",
    "published_at": 1793291908.0,
    "published_bj": "2026-10-30 00:38"
+  },
+  {
+   "id": "5edcf420600c89d9",
+   "source": "cnBeta",
+   "title": "字母表市值或将蒸发5000亿美元 创下公司历史最大单日市值缩水",
+   "url": "https://www.cnbeta.com.tw/articles/tech/1584344.htm",
+   "summary": "字母表（Alphabet，GOOGL）正遭遇上市以来表现最差的一个交易日。受财报发布影响，该股周四下跌约 12%，创下其 2004 年上市之后最大单日跌幅。本次下跌造成近 5000 亿美元市值灰飞烟灭，这是美股上市公司史上第二大单日市值亏损。历史第一名是英伟达：2025 年 1 月 27 日，中国深度求索（DeepSeek）引发 AI 投资者恐慌，英伟达单日市值蒸发约 5930 亿美元。 阅读全文",
+   "published_at": 1793291104.0,
+   "published_bj": "2026-10-30 00:25"
+  },
+  {
+   "id": "2d3d93d437a85b44",
+   "source": "TechCrunch",
+   "title": "Ex-Palantir execs launch Dream with $17M from a16z to build AI world models for construction",
+   "url": "https://techcrunch.com/2026/10/29/ex-palantir-execs-launch-dream-with-17m-from-a16z-to-build-ai-world-models-for-construction/",
+   "summary": "rained on 100 million square feet of building permits, dream wants to disrupt Autodesk with AI.",
+   "published_at": 1793290860.0,
+   "published_bj": "2026-10-30 00:21"
+  },
+  {
+   "id": "d025169af647a6e2",
+   "source": "TechCrunch",
+   "title": "SuperMe raises $20M for its network of AI expert profiles",
+   "url": "https://techcrunch.com/2026/10/29/superme-raises-20m-for-its-network-of-ai-expert-profiles/",
+   "summary": "SuperMe just raised $20 million to let you pester AI clones of Silicon Valley’s savviest people about your career.",
+   "published_at": 1793290783.0,
+   "published_bj": "2026-10-30 00:19"
+  },
+  {
+   "id": "68ab500fef459c4f",
+   "source": "IT之家",
+   "title": "59.9 万元梅赛德斯 AMG GLC 53 4MATIC+ 车型上市，3.0T 六缸回归",
+   "url": "https://www.ithome.com/1/019/798.htm",
+   "summary": "IT之家 10 月 30 日消息，10 月 29 日，梅赛德斯 AMG GLC 53 4MATIC+ 在浙江国际赛车场正式上市，官方指导价 59.90 万元，仅此一款配置。 其核心变化是用 3.0T 直列六缸 +48V 轻混系统接替了 GLC 43 上的 2.0T 四缸动力，六缸重回 GLC 性能序列。 新车搭载了 M256 Evo 3.0T 直列六缸涡轮增压发动机，AMG 对其进行了专属升级，包括重新设计缸盖、优化进排气道、换用升级进气凸轮轴，并将涡轮增压压力提升至 1.5bar。发动机本体输出 330kW，峰值扭矩 600N·m，5200rpm 后进入超增压模式，可在 10 秒内将扭矩推至",
+   "published_at": 1793290245.0,
+   "published_bj": "2026-10-30 00:10"
   }
  ]
 }
