@@ -1,8 +1,89 @@
 {
  "date": "2026-10-30",
- "generated_at": 1793311339.4199178,
- "count": 52,
+ "generated_at": 1793314672.5663283,
+ "count": 61,
  "items": [
+  {
+   "id": "9ddac80e4f256222",
+   "source": "IT之家",
+   "title": "Mac 触控时代开启，苹果称 macOS 触控优化“才刚刚开始”",
+   "url": "https://www.ithome.com/1/019/801.htm",
+   "summary": "IT之家 10 月 30 日消息，科技媒体 9to5Mac 昨日（10 月 29 日）发布博文，报道称在洛杉矶举办的特别活动媒体群访环节中， 苹果公司高管回应表示针对 macOS 系统的触控优化“才刚刚开始”。 当前的触控体验并非最终形态，苹果预计会根据早期用户反馈和实际使用场景，继续推进界面、手势与交互层面的改进。 IT之家援引博文介绍，彭博社记者 Chris Welch 认为，苹果在引入触控能力时采取了较为谨慎的策略，并预计明年发布的 macOS 28 将带来一系列触控相关改进。 从早期上手反馈看，外界对新款触控 MacBook Pro 的评价总体积极。此前部分用户担心触控功能会破坏 ma",
+   "published_at": 1793314660.0,
+   "published_bj": "2026-10-30 06:57"
+  },
+  {
+   "id": "490dde1ffb3ba2dd",
+   "source": "IT之家",
+   "title": "索尼发布 RIALTO 65 摄影机扩展系统，CineAltaV 2 迈入 65mm 大画幅时代",
+   "url": "https://www.ithome.com/1/019/800.htm",
+   "summary": "IT之家 10 月 30 日消息，10 月 29 日晚，索尼正式发布专为旗舰级数字电影摄影机 CineAltaV 2（海外名称：VENICE 2）打造的 RIALTO 65 摄影机扩展系统， 将于 2027 年上半年正式上市 。 RIALTO 65 搭载 65mm 画幅影像传感器（1.5:1 画幅比），将 CineAltaV 2 系统扩展至 65mm 画幅规格。 ▲ RIALTO 65 摄影机扩展系统 RIALTO 65 搭载的影像传感器宽约 53.75mm、高约 35.83mm，对角线长度约 64.60mm， 是目前市售电影摄影机所搭载的尺寸最大的影像传感器之一 ，其感光面积为 35mm 全",
+   "published_at": 1793314430.0,
+   "published_bj": "2026-10-30 06:53"
+  },
+  {
+   "id": "b407b93578539d2f",
+   "source": "IT之家",
+   "title": "苹果高管回应“iPad mini 8 屏幕刷新率为何依然为 60Hz”",
+   "url": "https://www.ithome.com/1/019/799.htm",
+   "summary": "IT之家 10 月 30 日消息，科技媒体 9to5Mac 昨日（10 月 29 日）发布博文，报道称在接受 YouTube 频道 Christopher Lawley 采访时，苹果硬件工程副总裁戴夫 · 帕库拉（Dave Pakula）讨论了苹果 iPad mini 8 的设计、屏幕等内容。 新款 iPad mini 虽然配备了 OLED 显示屏，但并不支持 ProMotion 技术，刷新率仅为 60Hz。ProMotion 支持可以让 iPad mini 的刷新率根据显示的内容自动从 10Hz 调整到 120Hz，但显然苹果目前仍将该功能保留在 iPad Pro 机型中。 围绕着用户最关心",
+   "published_at": 1793314167.0,
+   "published_bj": "2026-10-30 06:49"
+  },
+  {
+   "id": "a7301613e286fc78",
+   "source": "Hacker News",
+   "title": "Open-weight AI models can exploit the patch gap",
+   "url": "https://epoch.ai/publications/open-weight-models-patch-gap",
+   "summary": "Article URL: https://epoch.ai/publications/open-weight-models-patch-gap Comments URL: https://news.ycombinator.com/item?id=50297159 Points: 3 # Comments: 0",
+   "published_at": 1793313166.0,
+   "published_bj": "2026-10-30 06:32"
+  },
+  {
+   "id": "b8386ce65c7863cf",
+   "source": "TechCrunch",
+   "title": "Binance pauses withdrawals as hackers suspected of stealing billions in crypto",
+   "url": "https://techcrunch.com/2026/10/29/binance-pauses-withdrawals-as-hackers-suspected-of-stealing-billions-in-crypto/",
+   "summary": "Some estimates say hackers stole billions in crypto from Binance, the world's largest cryptocurrency exchange, during a cyberattack on Thursday.",
+   "published_at": 1793312843.0,
+   "published_bj": "2026-10-30 06:27"
+  },
+  {
+   "id": "f8e0c3d8a0c39f51",
+   "source": "Hacker News",
+   "title": "A Pig, the State, and War: Porco Rosso (Kurenai No Buta) (2014)",
+   "url": "https://journal.animationstudies.org/article/id/66/",
+   "summary": "Article URL: https://journal.animationstudies.org/article/id/66/ Comments URL: https://news.ycombinator.com/item?id=50297089 Points: 3 # Comments: 0",
+   "published_at": 1793312798.0,
+   "published_bj": "2026-10-30 06:26"
+  },
+  {
+   "id": "03787ea8083a9763",
+   "source": "Hacker News",
+   "title": "The Great American Rascal: Tom Sawyer at 150",
+   "url": "https://claremontreviewofbooks.com/the-great-american-rascal/",
+   "summary": "Article URL: https://claremontreviewofbooks.com/the-great-american-rascal/ Comments URL: https://news.ycombinator.com/item?id=50296947 Points: 12 # Comments: 0",
+   "published_at": 1793312063.0,
+   "published_bj": "2026-10-30 06:14"
+  },
+  {
+   "id": "c43600054f40e74f",
+   "source": "Hacker News",
+   "title": "Should a medical diagnosis reshape the past? (2025)",
+   "url": "https://chengela.substack.com/p/should-a-medical-diagnosis-reshape",
+   "summary": "Article URL: https://chengela.substack.com/p/should-a-medical-diagnosis-reshape Comments URL: https://news.ycombinator.com/item?id=50296920 Points: 4 # Comments: 0",
+   "published_at": 1793311949.0,
+   "published_bj": "2026-10-30 06:12"
+  },
+  {
+   "id": "82332d762edd3c0b",
+   "source": "Hacker News",
+   "title": "Lighthouses, War and a Puffling",
+   "url": "https://adcochrane.wordpress.com/2026/10/29/lighthouses-war-and-a-puffling-the-isle-of-may/",
+   "summary": "Article URL: https://adcochrane.wordpress.com/2026/10/29/lighthouses-war-and-a-puffling-the-isle-of-may/ Comments URL: https://news.ycombinator.com/item?id=50296905 Points: 4 # Comments: 0",
+   "published_at": 1793311868.0,
+   "published_bj": "2026-10-30 06:11"
+  },
   {
    "id": "1f927696f01e4794",
    "source": "TechCrunch",
