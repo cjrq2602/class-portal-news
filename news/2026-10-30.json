@@ -1,8 +1,53 @@
 {
  "date": "2026-10-30",
- "generated_at": 1793308738.8729095,
- "count": 45,
+ "generated_at": 1793311339.4199178,
+ "count": 52,
  "items": [
+  {
+   "id": "1f927696f01e4794",
+   "source": "TechCrunch",
+   "title": "Elon Musk is ‘truly a genius,’ says Vladimir Putin",
+   "url": "https://techcrunch.com/2026/10/29/elon-musk-is-truly-a-genius-says-vladimir-putin/",
+   "summary": "Putin said that he and Musk are in \"close contact\" about Rassvet, Russia's Starlink-like satellite connectivity project.",
+   "published_at": 1793310689.0,
+   "published_bj": "2026-10-30 05:51"
+  },
+  {
+   "id": "224997885638173b",
+   "source": "Hacker News",
+   "title": "We ran AI agent swarms in Minecraft and Mindustry",
+   "url": "https://labs.ycombinator.com/projects/games/index.html",
+   "summary": "Article URL: https://labs.ycombinator.com/projects/games/index.html Comments URL: https://news.ycombinator.com/item?id=50296486 Points: 4 # Comments: 0",
+   "published_at": 1793310028.0,
+   "published_bj": "2026-10-30 05:40"
+  },
+  {
+   "id": "3101692f84159c29",
+   "source": "Hacker News",
+   "title": "Binance-hacker-1029 – $5.6B stolen from Binance",
+   "url": "https://arkm.com/explorer/entity/21a94755-f604-45e5-9501-6542e23005e8",
+   "summary": "Article URL: https://arkm.com/explorer/entity/21a94755-f604-45e5-9501-6542e23005e8 Comments URL: https://news.ycombinator.com/item?id=50296470 Points: 12 # Comments: 1",
+   "published_at": 1793309939.0,
+   "published_bj": "2026-10-30 05:38"
+  },
+  {
+   "id": "8f3e3232c1f6e664",
+   "source": "Hacker News",
+   "title": "Over $5B drained from Binance in apparent hack",
+   "url": "http://twitter.com/emmettgallic/status/2115916025774723210",
+   "summary": "Article URL: http://twitter.com/emmettgallic/status/2115916025774723210 Comments URL: https://news.ycombinator.com/item?id=50296272 Points: 17 # Comments: 0",
+   "published_at": 1793309099.0,
+   "published_bj": "2026-10-30 05:24"
+  },
+  {
+   "id": "a9d3c263c23a8583",
+   "source": "TechCrunch",
+   "title": "Amazon reported booming cloud revenue but otherwise missed expectations",
+   "url": "https://techcrunch.com/2026/10/29/amazon-reported-booming-cloud-revenue-but-otherwise-missed-expectations/",
+   "summary": "The biggest ouch of the report was its negative free cash flow of $2.4 billion.",
+   "published_at": 1793308847.0,
+   "published_bj": "2026-10-30 05:20"
+  },
   {
    "id": "babecb93d53b8dd9",
    "source": "TechCrunch",
@@ -11,6 +56,24 @@
    "summary": "As part of the settlement, GM must get drivers’ express consent before it collects or shares their driving and location data.",
    "published_at": 1793307664.0,
    "published_bj": "2026-10-30 05:01"
+  },
+  {
+   "id": "4f312e31a29b9335",
+   "source": "Hacker News",
+   "title": "Sylphide OS: a general-purpose OS for microcontroller-based computers",
+   "url": "https://projects.freehackers.org/sylphide-os/",
+   "summary": "Article URL: https://projects.freehackers.org/sylphide-os/ Comments URL: https://news.ycombinator.com/item?id=50295868 Points: 7 # Comments: 1",
+   "published_at": 1793307595.0,
+   "published_bj": "2026-10-30 04:59"
+  },
+  {
+   "id": "53f1d359aec88b1b",
+   "source": "Hacker News",
+   "title": "ElementaryUI – Swift, in the Browser",
+   "url": "https://elementary.codes",
+   "summary": "Article URL: https://elementary.codes Comments URL: https://news.ycombinator.com/item?id=50295821 Points: 5 # Comments: 0",
+   "published_at": 1793307399.0,
+   "published_bj": "2026-10-30 04:56"
   },
   {
    "id": "b075594a8d6c8e14",
