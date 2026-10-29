@@ -1,7 +1,7 @@
 {
  "date": "2026-10-30",
- "generated_at": 1793298090.8779628,
- "count": 21,
+ "generated_at": 1793302182.5380871,
+ "count": 28,
  "items": [
   {
    "id": "73336d36f93cd3d8",
@@ -22,6 +22,42 @@
    "published_bj": "2026-10-30 04:13"
   },
   {
+   "id": "23436c7fa6b08c92",
+   "source": "cnBeta",
+   "title": "微软统一GPU崩溃诊断机制：DirectX新增转储文件支持 帮助开发者更快定位显卡故障",
+   "url": "https://www.cnbeta.com.tw/articles/tech/1584350.htm",
+   "summary": "微软正在改进Windows图形系统的故障诊断能力，通过将GPU崩溃诊断与DirectX转储文件机制整合，帮助开发者在图形应用程序发生崩溃时收集更有价值的调试信息。这项改进旨在简化显卡相关故障的分析流程，让游戏开发者和图形软件开发人员能够更准确地判断问题来源。 阅读全文",
+   "published_at": 1793301619.0,
+   "published_bj": "2026-10-30 03:20"
+  },
+  {
+   "id": "cf121be63238e3b9",
+   "source": "cnBeta",
+   "title": "特朗普手机T1拆解视频证实此前猜测：实为HTC U24 Pro换壳产品",
+   "url": "https://www.cnbeta.com.tw/articles/tech/1584348.htm",
+   "summary": "特朗普移动（Trump Mobile）推出的T1智能手机近日再次成为关注焦点。知名YouTube频道JerryRigEverything的主持人扎克·尼尔森对这款手机进行了拆解测试，结果进一步证实了外界此前的猜测：T1在硬件设计和内部结构方面几乎与2024年推出的HTC U24 Pro完全相同，本质上是一款经过重新设计外观的换牌产品。 阅读全文",
+   "published_at": 1793301515.0,
+   "published_bj": "2026-10-30 03:18"
+  },
+  {
+   "id": "e3bc3163d351be66",
+   "source": "TechCrunch",
+   "title": "Where was my invite to the — wait, what? Airbnb had a gala?",
+   "url": "https://techcrunch.com/2026/10/29/where-was-my-invite-to-the-wait-what-airbnb-had-a-gala/",
+   "summary": "Airbnb’s nonprofit held its inaugural gala on Wednesday in Los Angeles, and the internet had one reaction — the *what* gala?",
+   "published_at": 1793301469.0,
+   "published_bj": "2026-10-30 03:17"
+  },
+  {
+   "id": "0465a114a7bb12d6",
+   "source": "TechCrunch",
+   "title": "Meta quietly launches an AI fashion app called Style Sketch",
+   "url": "https://techcrunch.com/2026/10/29/meta-quietly-launches-an-ai-fashion-app-called-style-sketch/",
+   "summary": "The app connects to Instagram to build a virtual closet from photos you’ve already shared, or lets you add items manually by snapping a photo, recording a quick video, or uploading images from your camera roll.",
+   "published_at": 1793301276.0,
+   "published_bj": "2026-10-30 03:14"
+  },
+  {
    "id": "bd2473e0eeadfeb0",
    "source": "InfoQ中文",
    "title": "概率、插座与5000个爱因斯坦：专访阿里云研发副总裁周琦",
@@ -29,6 +65,15 @@
    "summary": "点击查看原文>",
    "published_at": 1793299031.0,
    "published_bj": "2026-10-30 02:37"
+  },
+  {
+   "id": "6c332ed3e89f44be",
+   "source": "Hacker News",
+   "title": "Show HN: phpClaw – AI agent runtime for PHP with tools, memory and guards",
+   "url": "https://github.com/phpclaw-php/phpclaw-monorepo",
+   "summary": "Article URL: https://github.com/phpclaw-php/phpclaw-monorepo Comments URL: https://news.ycombinator.com/item?id=50293361 Points: 6 # Comments: 3",
+   "published_at": 1793297182.0,
+   "published_bj": "2026-10-30 02:06"
   },
   {
    "id": "133b84e6be8889c1",
@@ -56,6 +101,24 @@
    "summary": "Uno reverse! After Wispr added meeting notes to its dictation app, Granola is adding dictation to its meeting notetaker. The voice AI wars are getting interesting.",
    "published_at": 1793296478.0,
    "published_bj": "2026-10-30 01:54"
+  },
+  {
+   "id": "1b3330bc1296bf49",
+   "source": "Hacker News",
+   "title": "AI Contributions to GHC",
+   "url": "https://serokell.io/blog/ai-contributions-to-ghc",
+   "summary": "Article URL: https://serokell.io/blog/ai-contributions-to-ghc Comments URL: https://news.ycombinator.com/item?id=50293025 Points: 8 # Comments: 1",
+   "published_at": 1793295750.0,
+   "published_bj": "2026-10-30 01:42"
+  },
+  {
+   "id": "33fb8db5d23cdc3e",
+   "source": "Hacker News",
+   "title": "After 28 years walking across the globe, he's almost home",
+   "url": "https://www.nytimes.com/2026/10/29/world/europe/karl-bushby-walking-globe-uk.html",
+   "summary": "https://archive.ph/NCeML Comments URL: https://news.ycombinator.com/item?id=50293023 Points: 15 # Comments: 1",
+   "published_at": 1793295742.0,
+   "published_bj": "2026-10-30 01:42"
   },
   {
    "id": "40031620a8b38d48",
