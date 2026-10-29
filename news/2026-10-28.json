@@ -1,6 +1,6 @@
 {
  "date": "2026-10-28",
- "generated_at": 1793254752.110423,
+ "generated_at": 1793258891.0926294,
  "count": 400,
  "items": [
   {
@@ -902,6 +902,15 @@
    "summary": "IT之家 10 月 28 日消息，灵游坊创始人兼 CEO 梁其伟今日在B站发文，确认《影之刃零》游戏存在首日补丁。 据IT之家了解， 《影之刃零》的首日补丁大小约 5GB ，可极大提升光线追踪和路径追踪性能，以及部分 Bug 修复。如果玩家已经预载，可以在正式开玩前进一步更新补丁，如果没有预下载，那么直接下载的就是最新版本。 梁其伟同时表示，他们花了大量时间提升光栅化的美术表现，即使关闭光线追踪，仍然可以完美传达场景的美术设计风格。中低端机器乃至于掌机的体验也经过了大量测试，值得大家尝试。 此外官方发现英伟达最新显卡驱动 621.01 存在部分不稳定的性能表现，经过测试， 617.42 驱动是",
    "published_at": 1793186233.0,
    "published_bj": "2026-10-28 19:17"
+  },
+  {
+   "id": "09b0eb2d7efebbd8",
+   "source": "Hacker News",
+   "title": "TLP Is Not a Suggestion",
+   "url": "https://www.akamai.com/blog/security-research/tlp-is-not-a-suggestion",
+   "summary": "Article URL: https://www.akamai.com/blog/security-research/tlp-is-not-a-suggestion Comments URL: https://news.ycombinator.com/item?id=50271756 Points: 7 # Comments: 0",
+   "published_at": 1793186207.0,
+   "published_bj": "2026-10-28 19:16"
   },
   {
    "id": "9f2c8179e90f99a8",
@@ -3591,15 +3600,6 @@
    "title": "We let our cloud agents query prod (with OIDC, not secrets)",
    "url": "https://www.formal.ai/blog/cloud-agents-oidc-infrastructure/",
    "summary": "Article URL: https://www.formal.ai/blog/cloud-agents-oidc-infrastructure/ Comments URL: https://news.ycombinator.com/item?id=50261584 Points: 9 # Comments: 1",
-   "published_at": 1793118312.0,
-   "published_bj": "2026-10-28 00:25"
-  },
-  {
-   "id": "bd9e246698f56e73",
-   "source": "Hacker News",
-   "title": "PHP2Shell, LiteLLM, GitLab: Find What You Need to Patch",
-   "url": "https://cloudsleuth.io/blog/php2shell-litellm-gitlab-find-what-you-run/",
-   "summary": "Article URL: https://cloudsleuth.io/blog/php2shell-litellm-gitlab-find-what-you-run/ Comments URL: https://news.ycombinator.com/item?id=50261583 Points: 10 # Comments: 0",
    "published_at": 1793118312.0,
    "published_bj": "2026-10-28 00:25"
   }
