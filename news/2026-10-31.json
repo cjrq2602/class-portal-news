@@ -1,8 +1,17 @@
 {
  "date": "2026-10-31",
- "generated_at": 1793361725.3462267,
- "count": 3,
+ "generated_at": 1793366354.0265229,
+ "count": 4,
  "items": [
+  {
+   "id": "ad7f294550ed9c52",
+   "source": "InfoQ中文",
+   "title": "27 岁程序员获无限 Token，挑战两个月重写思科 98% 的遗留代码",
+   "url": "https://www.infoq.cn/article/C9FJGQ0ptRp8F8kHRRdZ?utm_source=rss&utm_medium=article",
+   "summary": "点击查看原文>",
+   "published_at": 1793394000.0,
+   "published_bj": "2026-10-31 05:00"
+  },
   {
    "id": "f2af8f4106e6fdbb",
    "source": "InfoQ中文",

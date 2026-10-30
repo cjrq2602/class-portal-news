@@ -1,7 +1,7 @@
 {
  "date": "2026-10-30",
- "generated_at": 1793361725.3496916,
- "count": 363,
+ "generated_at": 1793366354.0296555,
+ "count": 375,
  "items": [
   {
    "id": "41e7373d250aad1b",
@@ -38,6 +38,105 @@
    "summary": "点击查看原文>",
    "published_at": 1793365200.0,
    "published_bj": "2026-10-30 21:00"
+  },
+  {
+   "id": "81c503ce597f08b3",
+   "source": "TechCrunch",
+   "title": "Can AI data centers be mass-produced like cars? This startup aims to find out",
+   "url": "https://techcrunch.com/2026/10/30/can-ai-data-centers-be-mass-produced-like-cars-and-online-in-48-hours-this-startup-aims-to-find-out/",
+   "summary": "Runware is building a factory to turn out prefabricated AI data centers on an assembly line. The real test will be whether it can deliver at that scale.",
+   "published_at": 1793365200.0,
+   "published_bj": "2026-10-30 21:00"
+  },
+  {
+   "id": "8faca5115378ed24",
+   "source": "TechCrunch",
+   "title": "5 days left: Your last chance to connect, scale, and save at TechCrunch Founder Summit 2026",
+   "url": "https://techcrunch.com/2026/10/30/5-days-left-your-last-chance-to-connect-scale-and-save-at-techcrunch-founder-summit-2026/",
+   "summary": "5 days to save up to $100, plus a second pass for free to TechCrunch Founder Summit 2026 in Boston on November 4. Register now.",
+   "published_at": 1793365200.0,
+   "published_bj": "2026-10-30 21:00"
+  },
+  {
+   "id": "9d224fb3a2ee68cf",
+   "source": "cnBeta",
+   "title": "长鑫科技：Q3营收1187.14亿元 净利润约889.83亿元",
+   "url": "https://www.cnbeta.com.tw/articles/tech/1584474.htm",
+   "summary": "长鑫科技2026年三季报发布，第三季度（7-9月）实现营业收入约1187.14亿元，环比增长约19.30%；实现净利润约889.83亿元，环比增长约19.38%。同时，三季报披露了最新技术进展：基于第六代技术平台开发的DRAM产品已完成工程样片验证。 阅读全文",
+   "published_at": 1793364597.0,
+   "published_bj": "2026-10-30 20:49"
+  },
+  {
+   "id": "fb93cf1313247f77",
+   "source": "cnBeta",
+   "title": "《哈利波特》真人剧首张海报发布 今年圣诞节首播",
+   "url": "https://www.cnbeta.com.tw/articles/movie/1584472.htm",
+   "summary": "近日HBO打造的《哈利·波特》真人剧首张剧集海报发布，多米尼克·麦克劳克林(Dominic McLaughlin)饰演的哈利·波特单人亮相。 阅读全文",
+   "published_at": 1793363718.0,
+   "published_bj": "2026-10-30 20:35"
+  },
+  {
+   "id": "bf38cacdaa3295d3",
+   "source": "cnBeta",
+   "title": "国际空间站完成第七块新型太阳能阵列安装 电力系统升级进入最后阶段",
+   "url": "https://www.cnbeta.com.tw/articles/science/1584470.htm",
+   "summary": "美国国家航空航天局（NASA）宣布，两名宇航员日前成功完成一次长达7小时11分钟的舱外活动，在距离地球约420公里的国际空间站外安装并展开了一块全新的卷展式太阳能阵列（IROSA）。此次任务是国际空间站电力系统升级计划的重要组成部分，也标志着整个工程已进入最终阶段。 阅读全文",
+   "published_at": 1793362348.0,
+   "published_bj": "2026-10-30 20:12"
+  },
+  {
+   "id": "055866581194e404",
+   "source": "cnBeta",
+   "title": "RTX 5080从英伟达官方商城下架 24GB显存新版本或将在近期接棒登场",
+   "url": "https://www.cnbeta.com.tw/articles/tech/1584468.htm",
+   "summary": "继RTX 5090本月早些时候从英伟达官方在线商城消失后，RTX 5080如今也步其后尘，从销售列表中被移除。与此同时，市场上关于英伟达正在筹备24GB显存版RTX 5080的消息不断升温，新型号甚至有望在2027年到来之前正式发布。 阅读全文",
+   "published_at": 1793362285.0,
+   "published_bj": "2026-10-30 20:11"
+  },
+  {
+   "id": "8edb09afe4758087",
+   "source": "cnBeta",
+   "title": "微软推出八款全新Surface官方壁纸 Windows用户可免费下载",
+   "url": "https://www.cnbeta.com.tw/articles/tech/1584466.htm",
+   "summary": "微软近日发布了一组全新的官方Surface系列桌面壁纸，共包含八款不同设计，面向Windows用户免费开放下载。这些壁纸延续了微软近年来在Surface产品设计中采用的视觉风格，通过抽象几何造型、柔和渐变色彩以及富有层次感的视觉效果，为Windows桌面带来新的个性化选择。 阅读全文",
+   "published_at": 1793362263.0,
+   "published_bj": "2026-10-30 20:11"
+  },
+  {
+   "id": "51f9a28c3c998f6f",
+   "source": "Hacker News",
+   "title": "US Reps Lead Democratic Resolution Opposing A.I. Bubble Bailout for Big Tech",
+   "url": "https://progressives.house.gov/2026/10/reps-casar-waters-lead-democratic-resolution-opposing-a-i-bubble-bailout-for-big-tech-commit-to-protecting-american-people-instead",
+   "summary": "Article URL: https://progressives.house.gov/2026/10/reps-casar-waters-lead-democratic-resolution-opposing-a-i-bubble-bailout-for-big-tech-commit-to-protecting-american-people-instead Comments URL: https://news.ycombinator.com/item?id=50302814 Points: 30 # Comments: 16",
+   "published_at": 1793362080.0,
+   "published_bj": "2026-10-30 20:08"
+  },
+  {
+   "id": "a7d8c922e7789595",
+   "source": "cnBeta",
+   "title": "苹果收购AI数据管理公司Ascend.io 强化自身人工智能基础设施",
+   "url": "https://www.cnbeta.com.tw/articles/tech/1584464.htm",
+   "summary": "苹果公司近日再次完成一项与人工智能相关的收购交易，不过与此前面向消费者功能的AI技术不同，此次目标是一家专注于企业数据管理领域的公司Ascend.io。此举显示苹果正持续加强自身在人工智能时代的数据处理与管理能力。 阅读全文",
+   "published_at": 1793361906.0,
+   "published_bj": "2026-10-30 20:05"
+  },
+  {
+   "id": "7b7d31b0c2f1a6ae",
+   "source": "cnBeta",
+   "title": "全球智能手机出货量第三季度暴跌20% 创13年来同期最低纪录",
+   "url": "https://www.cnbeta.com.tw/articles/tech/1584462.htm",
+   "summary": "根据市场研究机构Omdia于2026年10月29日发布的最新报告，2026年第三季度全球智能手机出货量同比下降20%，仅为2.547亿部，创下自2013年以来第三季度的最低水平。这意味着全球智能手机市场正经历一轮严重收缩，而持续恶化的存储芯片供应状况和不断上涨的零部件成本，正在成为打击行业需求的主要因素。 阅读全文",
+   "published_at": 1793361883.0,
+   "published_bj": "2026-10-30 20:04"
+  },
+  {
+   "id": "0e98b946950ed1b4",
+   "source": "cnBeta",
+   "title": "芬兰警方启动刑事预调查 Google数据中心建设项目涉嫌环境违规",
+   "url": "https://www.cnbeta.com.tw/articles/tech/1584460.htm",
+   "summary": "芬兰奥卢警方近日针对Google在芬兰穆奥斯（Muhos）建设数据中心期间的施工活动启动初步刑事调查。此次调查涉及涉嫌环境损害，重点关注施工现场排水系统和水资源管理方面存在的问题。此前，芬兰监管机构已经要求Google暂停在穆奥斯和卡亚尼—奥坦迈基（Kajaani-Otanmäki）两个数据中心项目的施工准备工作。 阅读全文",
+   "published_at": 1793361829.0,
+   "published_bj": "2026-10-30 20:03"
   },
   {
    "id": "07a089457922dda6",
@@ -281,6 +380,15 @@
    "summary": "IT之家 10 月 30 日消息，熊猫现已在京东上架“S27Q6A”27 英寸显示器，该机主打 2K 180Hz， 定价为 629 元 ，部分地区国补后低至 566 元。 京东 熊猫“S27Q6A”显示器 629 元 直达链接 该机配备一块 2560x1440 分辨率 180Hz Fast IPS 面板，显示器亮度 350 尼特，GtG 响应速度 1ms，静态对比度 1000:1，显示器支持 10-Bit 色彩（8-Bit + FRC），覆盖 99% sRGB 色域。 该机采用固定支架，显示器本体支持 VESA 75x75mm 壁挂，提供 1 个 HDMI 2.0、1 个 DP 1.4、1 个",
    "published_at": 1793355259.0,
    "published_bj": "2026-10-30 18:14"
+  },
+  {
+   "id": "6922c22f3012d9b3",
+   "source": "Hacker News",
+   "title": "Azure's Weakest Link – Five Full Cross-Tenant Compromises",
+   "url": "https://www.binarysecurity.no/posts/2026/10/one-root-case",
+   "summary": "Article URL: https://www.binarysecurity.no/posts/2026/10/one-root-case Comments URL: https://news.ycombinator.com/item?id=50301854 Points: 65 # Comments: 1",
+   "published_at": 1793354775.0,
+   "published_bj": "2026-10-30 18:06"
   },
   {
    "id": "b3a37d09d7de1190",
