@@ -1,8 +1,17 @@
 {
  "date": "2026-10-30",
- "generated_at": 1793376369.2723114,
+ "generated_at": 1793378517.7722232,
  "count": 400,
  "items": [
+  {
+   "id": "d836d579f113add3",
+   "source": "Hacker News",
+   "title": "AI Isn't Replacing SREs. It's Deskilling Them",
+   "url": "https://newsletter.signoz.io/p/ai-isnt-replacing-sres-its-deskilling",
+   "summary": "Article URL: https://newsletter.signoz.io/p/ai-isnt-replacing-sres-its-deskilling Comments URL: https://news.ycombinator.com/item?id=50305693 Points: 93 # Comments: 70",
+   "published_at": 1793375538.0,
+   "published_bj": "2026-10-30 23:52"
+  },
   {
    "id": "b15ffe9e0a27e615",
    "source": "IT之家",
@@ -40,6 +49,15 @@
    "published_bj": "2026-10-30 23:45"
   },
   {
+   "id": "ec11d528c03af58e",
+   "source": "Hacker News",
+   "title": "The Federated Code Forge",
+   "url": "https://tangled.org/blog/forge/",
+   "summary": "Article URL: https://tangled.org/blog/forge/ Comments URL: https://news.ycombinator.com/item?id=50305573 Points: 24 # Comments: 6",
+   "published_at": 1793375069.0,
+   "published_bj": "2026-10-30 23:44"
+  },
+  {
    "id": "8080a1a3cd5a0b7c",
    "source": "IT之家",
    "title": "《影之刃零》开发成本 3~4 亿元，媒体评分超《黑神话：悟空》",
@@ -47,6 +65,15 @@
    "summary": "IT之家 10 月 30 日消息，《影之刃零》已于 10 月 29 日正式登陆 PC 与 PS5 平台，国区标准版定价 268 元，豪华版 328 元，限量典藏版 1199 元、限量 2 万套。 灵游坊创始人梁其伟向蓝鲸新闻透露，《影之刃零》早在 2017 年就已启动世界观与战斗体系的早期构思、2022 年初项目正式立项，总研发成本在 3 亿至 4 亿元之间。 作为对比，《黑神话：悟空》研发周期约 7 年，总开发成本同样在 4 亿元左右。而《影之刃零》从立项到上市的节奏，与《黑神话：悟空》大体相当。 评分方面，Metacritic 在评测解禁后给出的 PC 版媒体均分为 88 分，PS5 版为",
    "published_at": 1793374990.0,
    "published_bj": "2026-10-30 23:43"
+  },
+  {
+   "id": "494bb43658d8da94",
+   "source": "Hacker News",
+   "title": "Blockchain intelligence firms link North Korea to $6.3B hack on Binance",
+   "url": "https://www.npr.org/2026/10/30/g-s1-150902/blockchain-intelligence-firms-link-north-korea-to-6-3b-hack-on-binance",
+   "summary": "Article URL: https://www.npr.org/2026/10/30/g-s1-150902/blockchain-intelligence-firms-link-north-korea-to-6-3b-hack-on-binance Comments URL: https://news.ycombinator.com/item?id=50305480 Points: 24 # Comments: 0",
+   "published_at": 1793374745.0,
+   "published_bj": "2026-10-30 23:39"
   },
   {
    "id": "b96ba0541ec25554",
@@ -65,6 +92,15 @@
    "summary": "Article URL: https://www.bbc.com/news/articles/cm78pxxe55v0o Comments URL: https://news.ycombinator.com/item?id=50305436 Points: 11 # Comments: 0",
    "published_at": 1793374578.0,
    "published_bj": "2026-10-30 23:36"
+  },
+  {
+   "id": "75d80acf3f57a4fa",
+   "source": "Hacker News",
+   "title": "Show HN: I built a multiplayer game where you're an aerial fighter cat",
+   "url": "https://catcopter.com",
+   "summary": "Hi everyone! I had the idea for catcopter on my mind for a long time (got the domain ~13 years ago). It's a web multiplayer game where you can fly a dangerous cat and engage in competition with other players and critters (pterodactyls, chickens and angry penguins). I made it initially for me and my ",
+   "published_at": 1793374180.0,
+   "published_bj": "2026-10-30 23:29"
   },
   {
    "id": "21c0f71509389ef7",
@@ -92,6 +128,15 @@
    "summary": "IT之家 10 月 30 日消息，OPPO 官网显示，OPPO Watch 5 智能手表已开启预约。 预热图画面中展示了 OPPO Watch 5 的外观轮廓。可以看到， 这款智能手表回归了方表造型设计， 右上角还配备了旋钮功能键 。 综合IT之家此前报道，OPPO Watch 数字系列此前一直采用方形表盘设计，直到 Watch S 系列的推出。数字系列最新款的 OPPO Watch 4 Pro 目前官网显示“已售罄”，其搭载骁龙 W5 可穿戴旗舰芯片，支持独立 eSIM，可下载微信手表版、支付宝、QQ 等应用。",
    "published_at": 1793373988.0,
    "published_bj": "2026-10-30 23:26"
+  },
+  {
+   "id": "1358ae0989aa7489",
+   "source": "Hacker News",
+   "title": "Polymarket 1h halt after vendor compromise; affected users will be 'made whole'",
+   "url": "https://www.nbcnews.com/business/consumer/polymarket-trading-halt-hack-wallets-rcna606405",
+   "summary": "Article URL: https://www.nbcnews.com/business/consumer/polymarket-trading-halt-hack-wallets-rcna606405 Comments URL: https://news.ycombinator.com/item?id=50305225 Points: 26 # Comments: 8",
+   "published_at": 1793373821.0,
+   "published_bj": "2026-10-30 23:23"
   },
   {
    "id": "cb41d021655aa68b",
@@ -3557,51 +3602,6 @@
    "summary": "IT之家 10 月 30 日消息，科技媒体 9to5Mac 昨日（10 月 29 日）发布博文，报道称在 iOS 27.2 正式版更新中，苹果升级 Apple TV 应用，带来“多画面”（Multiview）功能， iPhone 用户现在可同时观看最多 4 路体育赛事直播。该功能此前仅支持 Apple TV、iPad 和 Vision Pro 设备。 用户在 Apple TV 播放器中开始观看体育赛事后，底部会出现新的“多画面”按钮，点击即可选择多路直播。该功能适用于 Apple TV 订阅内的所有体育内容，包括一级方程式赛车（F1）、美国职业足球大联盟（MLS）和美国职业棒球大联盟（MLB）",
    "published_at": 1793316037.0,
    "published_bj": "2026-10-30 07:20"
-  },
-  {
-   "id": "3098052ab88ad9a0",
-   "source": "IT之家",
-   "title": "Instagram 重启长视频业务，试图以最高 50 万美元吸引 YouTube 创作者",
-   "url": "https://www.ithome.com/1/019/804.htm",
-   "summary": "IT之家 10 月 30 日消息，据《商业内幕》今天凌晨报道，Instagram 想要 YouTube 的长视频创作者，为此不惜砸下重金。 为了吸引更多创作者在 Instagram 发布长视频，平台开始向部分创作者开出高额报酬。据多名知情人士透露，Instagram 希望借此推动长视频内容的发展。 不同创作者拿到的报价差距不小。部分创作者只要在 Instagram 新推出的“Features”产品中发布长视频， 就能获得 5 万美元 （IT之家注：现汇率约合 33.4 万元人民币） 报酬；另一些人的合作金额达到六位数， 最高甚至达到 50 万美元 （现汇率约合 334 万元人民币） 。 Met",
-   "published_at": 1793315389.0,
-   "published_bj": "2026-10-30 07:09"
-  },
-  {
-   "id": "1950c8a4a525a0d5",
-   "source": "IT之家",
-   "title": "旧版“爆米花时间”应用成隐形后门，至少影响 25 万 ~35 万台苹果 Mac",
-   "url": "https://www.ithome.com/1/019/803.htm",
-   "summary": "IT之家 10 月 30 日消息，安全公司 Eye Research 于 10 月 22 日发布博文，指出 曾以“爆米花时间”（Popcorn Time）名义分发的非官方流媒体应用 Time4Popcorn，在 Mac 上遗留了一个高风险的自动更新组件。 即使用户多年未打开该应用，这个组件仍会在每次开机时运行，并主动连接开发者早已弃用的服务器地址检查更新。该更新检查程序几乎无条件信任其下载的内容，并拥有修改 Mac 系统的完全权限。由于原开发者已停止维护，相关网站域名逐渐失效；若有人接管这些域名，理论上便可向仍在运行的受影响设备推送恶意软件。 Eye Research 表示，其团队接管了其中一",
-   "published_at": 1793315224.0,
-   "published_bj": "2026-10-30 07:07"
-  },
-  {
-   "id": "428367eee369116e",
-   "source": "IT之家",
-   "title": "苹果 HomePod mini 2 智能音箱发售：五种配色可选，1099 元",
-   "url": "https://www.ithome.com/1/019/802.htm",
-   "summary": "IT之家 10 月 30 日消息，苹果 HomePod mini 2 智能音箱今日正式发售，提供粉色、绿色、蓝色、白色和午夜色五种外观选项， 售价 1,099 元。 HomePod mini 2 搭载 S10 芯片，用户可以仅使用单只扬声器，也可组建立体声组合或配置多房间音频，还可用作 Mac 的默认扬声器。 官方表示，HomePod mini 2 可用于操控联网家居，用户只需下达语音指令，便可进行一系列智能家居操作，包括为家门上锁、在外出时关闭车库、在就寝前拉下百叶窗或关闭灯光。 用户还可以使用家庭 App 自动化操作智能家居配件，并通过创建场景同时控制多个配件。此外，HomePod min",
-   "published_at": 1793315207.0,
-   "published_bj": "2026-10-30 07:06"
-  },
-  {
-   "id": "9ddac80e4f256222",
-   "source": "IT之家",
-   "title": "Mac 触控时代开启，苹果称 macOS 触控优化“才刚刚开始”",
-   "url": "https://www.ithome.com/1/019/801.htm",
-   "summary": "IT之家 10 月 30 日消息，科技媒体 9to5Mac 昨日（10 月 29 日）发布博文，报道称在洛杉矶举办的特别活动媒体群访环节中， 苹果公司高管回应表示针对 macOS 系统的触控优化“才刚刚开始”。 当前的触控体验并非最终形态，苹果预计会根据早期用户反馈和实际使用场景，继续推进界面、手势与交互层面的改进。 IT之家援引博文介绍，彭博社记者 Chris Welch 认为，苹果在引入触控能力时采取了较为谨慎的策略，并预计明年发布的 macOS 28 将带来一系列触控相关改进。 从早期上手反馈看，外界对新款触控 MacBook Pro 的评价总体积极。此前部分用户担心触控功能会破坏 ma",
-   "published_at": 1793314660.0,
-   "published_bj": "2026-10-30 06:57"
-  },
-  {
-   "id": "490dde1ffb3ba2dd",
-   "source": "IT之家",
-   "title": "索尼发布 RIALTO 65 摄影机扩展系统，CineAltaV 2 迈入 65mm 大画幅时代",
-   "url": "https://www.ithome.com/1/019/800.htm",
-   "summary": "IT之家 10 月 30 日消息，10 月 29 日晚，索尼正式发布专为旗舰级数字电影摄影机 CineAltaV 2（海外名称：VENICE 2）打造的 RIALTO 65 摄影机扩展系统， 将于 2027 年上半年正式上市 。 RIALTO 65 搭载 65mm 画幅影像传感器（1.5:1 画幅比），将 CineAltaV 2 系统扩展至 65mm 画幅规格。 ▲ RIALTO 65 摄影机扩展系统 RIALTO 65 搭载的影像传感器宽约 53.75mm、高约 35.83mm，对角线长度约 64.60mm， 是目前市售电影摄影机所搭载的尺寸最大的影像传感器之一 ，其感光面积为 35mm 全",
-   "published_at": 1793314430.0,
-   "published_bj": "2026-10-30 06:53"
   }
  ]
 }

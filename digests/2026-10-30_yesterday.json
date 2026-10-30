@@ -1,0 +1,382 @@
+{
+ "type": "yesterday",
+ "date": "2026-10-30",
+ "window": {
+  "start_ts": 1793289600.0,
+  "end_ts": 1793376000.0
+ },
+ "generated_at": 1793378519.4276674,
+ "generator": "action",
+ "news_count": 400,
+ "keywords": [
+  "元",
+  "ai",
+  "pro",
+  "同比",
+  "亿元",
+  "推出",
+  "季度",
+  "归母",
+  "三季",
+  "净利"
+ ],
+ "points": [
+  {
+   "text": "【ai】IT之家 10 月 30 日消息，京东方今日发布 2026 年前三季度（2026 年 1 月～2026 年 9 月）及三季度（2026 年 7 ",
+   "keyword": "ai",
+   "news_ids": [
+    "adbddb7ecc9f74fe"
+   ],
+   "refs": [
+    {
+     "id": "adbddb7ecc9f74fe",
+     "title": "京东方 2026 年前三季度归母净利润 42.51 亿元，同比下降 7.61%",
+     "source": "IT之家",
+     "url": "https://www.ithome.com/1/020/316.htm",
+     "published_at": 1793360029.0
+    }
+   ]
+  },
+  {
+   "text": "【元】IT之家 10 月 30 日消息，海信现已在京东上架“海信大圣 G5 PRO AI 款”显示器，该机主打 2K 200Hz， 定价为 1299 ",
+   "keyword": "元",
+   "news_ids": [
+    "bb24d814bba0d0ef"
+   ],
+   "refs": [
+    {
+     "id": "bb24d814bba0d0ef",
+     "title": "海信大圣“G5 PRO AI 款”27 英寸显示器上架：2K 200Hz，1299 元",
+     "source": "IT之家",
+     "url": "https://www.ithome.com/1/020/115.htm",
+     "published_at": 1793343316.0
+    }
+   ]
+  },
+  {
+   "text": "【ai】IT之家 10 月 30 日消息，今天（30 日）上午，据彭博社援引知情人士消息称，印度 AI 基础设施企业 AM Intelligence 计",
+   "keyword": "ai",
+   "news_ids": [
+    "0279c92554fe8413"
+   ],
+   "refs": [
+    {
+     "id": "0279c92554fe8413",
+     "title": "曝印度 AI 企业 AM Intelligence 寻求 30 亿美元融资，用于订购英伟达芯片",
+     "source": "IT之家",
+     "url": "https://www.ithome.com/1/020/152.htm",
+     "published_at": 1793346493.0
+    }
+   ]
+  },
+  {
+   "text": "【元】IT之家 10 月 30 日消息，在今晚的黑鲨 2026 年度秋季新品发布会上，黑鲨风神笔记本散热器正式发布",
+   "keyword": "元",
+   "news_ids": [
+    "ecdedbec8c18dfc1"
+   ],
+   "refs": [
+    {
+     "id": "ecdedbec8c18dfc1",
+     "title": "黑鲨风神笔记本散热器发布：Pro 同款灌注式压风散热结构、140mm 大尺寸风扇，首发 309 元",
+     "source": "IT之家",
+     "url": "https://www.ithome.com/1/020/341.htm",
+     "published_at": 1793365362.0
+    }
+   ]
+  },
+  {
+   "text": "【元】京东活动可能随时变更，需以实付款为准】 小米米家净水器 2 Pro 双出水 1200G 开售于 2026 年 4 月，配 8 年 RO 膜，官方",
+   "keyword": "元",
+   "news_ids": [
+    "5e5dc62a52543c0c"
+   ],
+   "refs": [
+    {
+     "id": "5e5dc62a52543c0c",
+     "title": "国补后 1499 → 1049 元：小米米家净水器 2 Pro 双出水 1200G 官方新低",
+     "source": "IT之家",
+     "url": "https://www.ithome.com/1/020/356.htm",
+     "published_at": 1793367396.0
+    }
+   ]
+  },
+  {
+   "text": "【推出】IT之家 10 月 30 日消息，日本显示器制造商 JAPANNEXT 近日推出了 支持十点触控 的 JN-IPST215F-HSPC6-W 显",
+   "keyword": "推出",
+   "news_ids": [
+    "9865b595b7509cfa"
+   ],
+   "refs": [
+    {
+     "id": "9865b595b7509cfa",
+     "title": "JAPANNEXT 推出 21.5\" FHD 触屏显示器：75Hz 刷新率、220nits 亮度",
+     "source": "IT之家",
+     "url": "https://www.ithome.com/1/020/378.htm",
+     "published_at": 1793372731.0
+    }
+   ]
+  },
+  {
+   "text": "IT之家 10 月 30 日消息，除了问界新 M8 的选配信息公开外，华为官网还公开了鸿蒙智行享界 V8 的配置信息，该车标配华为乾崑智驾 AD",
+   "keyword": "",
+   "news_ids": [
+    "b15ffe9e0a27e615"
+   ],
+   "refs": [
+    {
+     "id": "b15ffe9e0a27e615",
+     "title": "华为官网公开鸿蒙智行享界 V8 选配：标配 ±12° 后轮转向、Ultra 采用 L3 自动驾驶架构，32.98 万元起",
+     "source": "IT之家",
+     "url": "https://www.ithome.com/1/020/386.htm",
+     "published_at": 1793375483.0
+    }
+   ]
+  },
+  {
+   "text": "Article URL: https://vercel",
+   "keyword": "",
+   "news_ids": [
+    "519097a38f4819b8"
+   ],
+   "refs": [
+    {
+     "id": "519097a38f4819b8",
+     "title": "Geist Serif",
+     "source": "Hacker News",
+     "url": "https://vercel.com/blog/introducing-geist-serif",
+     "published_at": 1793375202.0
+    }
+   ]
+  },
+  {
+   "text": "超节点火了一年后，“算力不够就加机器”的扩张逻辑正在被改写",
+   "keyword": "",
+   "news_ids": [
+    "41e7373d250aad1b"
+   ],
+   "refs": [
+    {
+     "id": "41e7373d250aad1b",
+     "title": "超节点火了一年后，“算力不够就加机器”的扩张逻辑正在被改写",
+     "source": "InfoQ中文",
+     "url": "https://www.infoq.cn/article/ZolBIJdvK5Icdqg6FB0X?utm_source=rss&utm_medium=article",
+     "published_at": 1793375106.0
+    }
+   ]
+  },
+  {
+   "text": "Article URL: https://tangled",
+   "keyword": "",
+   "news_ids": [
+    "ec11d528c03af58e"
+   ],
+   "refs": [
+    {
+     "id": "ec11d528c03af58e",
+     "title": "The Federated Code Forge",
+     "source": "Hacker News",
+     "url": "https://tangled.org/blog/forge/",
+     "published_at": 1793375069.0
+    }
+   ]
+  },
+  {
+   "text": "Article URL: https://www",
+   "keyword": "",
+   "news_ids": [
+    "494bb43658d8da94"
+   ],
+   "refs": [
+    {
+     "id": "494bb43658d8da94",
+     "title": "Blockchain intelligence firms link North Korea to $6.3B hack on Binance",
+     "source": "Hacker News",
+     "url": "https://www.npr.org/2026/10/30/g-s1-150902/blockchain-intelligence-firms-link-north-korea-to-6-3b-hack-on-binance",
+     "published_at": 1793374745.0
+    }
+   ]
+  },
+  {
+   "text": "Article URL: https://www",
+   "keyword": "",
+   "news_ids": [
+    "e8a486d43c91ba59"
+   ],
+   "refs": [
+    {
+     "id": "e8a486d43c91ba59",
+     "title": "I didn't know I was lacking in Vitamin D until I collapsed at work",
+     "source": "Hacker News",
+     "url": "https://www.bbc.com/news/articles/cm78pxxe55v0o",
+     "published_at": 1793374578.0
+    }
+   ]
+  },
+  {
+   "text": "Hi everyone! I had the idea for catcopter on my mind for a long time (go",
+   "keyword": "",
+   "news_ids": [
+    "75d80acf3f57a4fa"
+   ],
+   "refs": [
+    {
+     "id": "75d80acf3f57a4fa",
+     "title": "Show HN: I built a multiplayer game where you're an aerial fighter cat",
+     "source": "Hacker News",
+     "url": "https://catcopter.com",
+     "published_at": 1793374180.0
+    }
+   ]
+  },
+  {
+   "text": "Article URL: https://blog",
+   "keyword": "",
+   "news_ids": [
+    "74d6c38f693bac71"
+   ],
+   "refs": [
+    {
+     "id": "74d6c38f693bac71",
+     "title": "ICE wants its mask back, and hired a company to ask",
+     "source": "Hacker News",
+     "url": "https://blog.flokinet.is/2026/10/29/ice-wants-its-mask-back-and-hired-a-company-to-ask/",
+     "published_at": 1793374018.0
+    }
+   ]
+  },
+  {
+   "text": "IT之家 10 月 30 日消息，OPPO 官网显示，OPPO Watch 5 智能手表已开启预约",
+   "keyword": "",
+   "news_ids": [
+    "89549bd903fb596d"
+   ],
+   "refs": [
+    {
+     "id": "89549bd903fb596d",
+     "title": "OPPO Watch 5 智能手表开启预约：方表造型设计回归，右上角配备旋钮功能键",
+     "source": "IT之家",
+     "url": "https://www.ithome.com/1/020/382.htm",
+     "published_at": 1793373988.0
+    }
+   ]
+  }
+ ],
+ "article": {
+  "title": "2026-10-30 新闻总结",
+  "paragraphs": [
+   {
+    "kind": "lead",
+    "text": "过去 24 小时共收录 400 条新闻，来自 7 家媒体。把标题放在一起看，讨论主要集中在 AI、利润 这几个方向上，其余消息更像是零散补充。"
+   },
+   {
+    "kind": "section",
+    "heading": "利润",
+    "text": "先看「利润」。IT之家 10 月 30 日消息，京东方今日发布 2026 年前三季度（2026 年 1 月～2026 年 9 月）及三季度（2026 年 7 月～2026 年 9 月）报告，另有 121 条消息指向同一话题。这类进展更像是把已有能力往工程化落地推了一步，真正的分水岭在于成本和可靠性能不能同时压下来。",
+    "news_ids": [
+     "adbddb7ecc9f74fe"
+    ],
+    "refs": [
+     {
+      "id": "adbddb7ecc9f74fe",
+      "title": "京东方 2026 年前三季度归母净利润 42.51 亿元，同比下降 7.61%",
+      "source": "IT之家",
+      "url": "https://www.ithome.com/1/020/316.htm",
+      "published_at": 1793360029.0
+     }
+    ]
+   },
+   {
+    "kind": "section",
+    "heading": "AI",
+    "text": "与此同时「AI」。IT之家 10 月 30 日消息，海信现已在京东上架“海信大圣 G5 PRO AI 款”显示器，该机主打 2K 200Hz， 定价为 1299 元，另有 82 条消息指向同一话题。这条消息短期内的实际影响可能有限，但它指向的方向值得放进观察名单。",
+    "news_ids": [
+     "bb24d814bba0d0ef"
+    ],
+    "refs": [
+     {
+      "id": "bb24d814bba0d0ef",
+      "title": "海信大圣“G5 PRO AI 款”27 英寸显示器上架：2K 200Hz，1299 元",
+      "source": "IT之家",
+      "url": "https://www.ithome.com/1/020/115.htm",
+      "published_at": 1793343316.0
+     }
+    ]
+   },
+   {
+    "kind": "section",
+    "heading": "企业",
+    "text": "另一个值得注意的方向是「企业」。IT之家 10 月 30 日消息，今天（30 日）上午，据彭博社援引知情人士消息称，另有 27 条消息指向同一话题。从节奏上看，行业已经从「能不能做」转向「做得便不便宜」，这通常意味着竞争会更务实。",
+    "news_ids": [
+     "0279c92554fe8413"
+    ],
+    "refs": [
+     {
+      "id": "0279c92554fe8413",
+      "title": "曝印度 AI 企业 AM Intelligence 寻求 30 亿美元融资，用于订购英伟达芯片",
+      "source": "IT之家",
+      "url": "https://www.ithome.com/1/020/152.htm",
+      "published_at": 1793346493.0
+     }
+    ]
+   },
+   {
+    "kind": "section",
+    "heading": "首发",
+    "text": "相比之下「首发」。IT之家 10 月 30 日消息，在今晚的黑鲨 2026 年度秋季新品发布会上，另有 14 条消息指向同一话题。从节奏上看，行业已经从「能不能做」转向「做得便不便宜」，这通常意味着竞争会更务实。",
+    "news_ids": [
+     "ecdedbec8c18dfc1"
+    ],
+    "refs": [
+     {
+      "id": "ecdedbec8c18dfc1",
+      "title": "黑鲨风神笔记本散热器发布：Pro 同款灌注式压风散热结构、140mm 大尺寸风扇，首发 309 元",
+      "source": "IT之家",
+      "url": "https://www.ithome.com/1/020/341.htm",
+      "published_at": 1793365362.0
+     }
+    ]
+   },
+   {
+    "kind": "glossary",
+    "items": [
+     {
+      "term": "AI",
+      "desc": "人工智能，让机器完成识别、生成、判断等原本需要人做的任务"
+     },
+     {
+      "term": "Robotaxi",
+      "desc": "无人驾驶出租车，车里没有司机，靠自动驾驶系统接单运营"
+     },
+     {
+      "term": "LLM",
+      "desc": "大语言模型，主打文字理解与生成，是「大模型」的同义词"
+     },
+     {
+      "term": "IPO",
+      "desc": "首次公开募股，公司第一次把股票卖给公众并上市"
+     },
+     {
+      "term": "API",
+      "desc": "应用程序接口，让不同软件按约定好的方式互相调用"
+     },
+     {
+      "term": "XR",
+      "desc": "扩展现实，VR、AR、MR 的统称"
+     }
+    ]
+   },
+   {
+    "kind": "outlook",
+    "text": "把这几条放在一起看，最值得跟踪的是 AI 和 利润 两条线：一条决定技术能走多远，一条决定它多快能落到普通人的日常里。至于其他消息，可以先放进观察名单，等后续有更实的进展再判断。"
+   }
+  ],
+  "word_count": 671
+ },
+ "ai_enhanced": false,
+ "schema": 1,
+ "window_bj": {
+  "start": "2026-10-30 00:00",
+  "end": "2026-10-31 00:00"
+ }
+}
