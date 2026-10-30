@@ -1,6 +1,6 @@
 {
  "date": "2026-10-30",
- "generated_at": 1793379726.1704605,
+ "generated_at": 1793383009.7597013,
  "count": 400,
  "items": [
   {
@@ -29,6 +29,15 @@
    "summary": "IT之家 10 月 30 日消息，英特尔首席财务官戴夫 · 津斯纳（Dave Zinsner）在今日的财报电话会议上表示，10 月中旬发生在以色列的爆炸事故导致位于基里亚特加特的 Fab 28 晶圆厂停产约两周，预计将在第四季度和 2027 年第一季度分别减少约 3 亿美元 （IT之家注：现汇率约合 20.03 亿元人民币） 收入。 公开报道显示，这起爆炸发生于 10 月 14 日，造成 2 人死亡、1 人重伤。英特尔 CEO 陈立武表示，“我们在以色列的工厂已经关闭了大约两周。”他同时称，预计在这个周末到来之前开始恢复生产。 津斯纳在电话会议上强调，Fab 28 事故造成的经济损失几乎全部与",
    "published_at": 1793375387.0,
    "published_bj": "2026-10-30 23:49"
+  },
+  {
+   "id": "c196d3cc8da9d6e2",
+   "source": "Hacker News",
+   "title": "Florilegium: Procedural Flowers in LaTeX",
+   "url": "https://github.com/kevinraymond/florilegium",
+   "summary": "Article URL: https://github.com/kevinraymond/florilegium Comments URL: https://news.ycombinator.com/item?id=50305637 Points: 30 # Comments: 3",
+   "published_at": 1793375292.0,
+   "published_bj": "2026-10-30 23:48"
   },
   {
    "id": "519097a38f4819b8",
@@ -3217,6 +3226,15 @@
    "published_bj": "2026-10-30 09:19"
   },
   {
+   "id": "f5ce9de67f59c1f2",
+   "source": "Hacker News",
+   "title": "Tracks along the longest drive on another world",
+   "url": "https://science.nasa.gov/blog/tracks-along-the-longest-drive-on-another-world/",
+   "summary": "Article URL: https://science.nasa.gov/blog/tracks-along-the-longest-drive-on-another-world/ Comments URL: https://news.ycombinator.com/item?id=50298721 Points: 25 # Comments: 1",
+   "published_at": 1793323142.0,
+   "published_bj": "2026-10-30 09:19"
+  },
+  {
    "id": "27b87270b0d52882",
    "source": "IT之家",
    "title": "Bug 连续剧：部分 Win10/Win11 用户再次反馈遇到微软 Defender 误报",
@@ -3584,24 +3602,6 @@
    "summary": "IT之家 10 月 30 日消息，当地时间 29 日，据外媒 motor1 报道，奔驰 CEO 康林松在 2026 年第三季度财报电话会议上透露，纯电 E 级是一款 从零开始研发的豪华轿车 。新车与燃油版共用 E 级名称，采用独立的纯电平台，并计划在多个方面提升产品表现。 据IT之家了解，新车在大约三年前启动研发，基本没有沿用现成的设计方案。目前，纯电 E 级原型车正进行 最后阶段的测试 ，以解决量产前可能存在的问题。 ▲ motor1 绘制的新车假想图 纯电 E 级预计将与明年改款的燃油 E 级采用高度相似的外观设计。奔驰也借此进一步统一油车和电车的设计语言及车型命名， CLA、GLA、GL",
    "published_at": 1793316707.0,
    "published_bj": "2026-10-30 07:31"
-  },
-  {
-   "id": "295f63b7b936d5c9",
-   "source": "Hacker News",
-   "title": "Show HN: I Turned DOOM into a Transformer",
-   "url": "https://github.com/mottopanikeiku/doomformer",
-   "summary": "Instead of trying to run DOOM on things, I have instead decided to use DOOM (many, many, many doom games actually) to create a transformer. For a lot of the math required I essentially had to use DOOM game mechanics and voodoo dolls (DOOM is turing complete btw) and exchange them with the actual ope",
-   "published_at": 1793316346.0,
-   "published_bj": "2026-10-30 07:25"
-  },
-  {
-   "id": "eba1b6222ff6fce2",
-   "source": "IT之家",
-   "title": "智元发布具身模型 GO-3 Preview：能做煎饼果子、在便利店上岗，登顶三大榜单",
-   "url": "https://www.ithome.com/1/019/806.htm",
-   "summary": "IT之家 10 月 30 日消息，10 月 29 日，智元正式推出预训练 / 后训练 / 部署后 实现全链路规模化学习的具身模型 —— GO-3 Preview。 该模型采用具身原生的 WRAM（World Reasoning Action Model）架构，将任务推理、未来预测与动作生成连接起来，让机器人理解指令、预测未来，并生成可执行的动作。 该模型已于近日登顶 RoboDojo、RoboTwin、RoboColiseum 三大行业权威评测榜单， 将于 2026 年底全面开源 。 IT之家附官方介绍如下： 基于 WRAM 架构，GO-3 Preview 从数据与模型两个维度共同推进 Sca",
-   "published_at": 1793316144.0,
-   "published_bj": "2026-10-30 07:22"
   }
  ]
 }

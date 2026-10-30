@@ -1,7 +1,7 @@
 {
  "date": "2026-10-31",
- "generated_at": 1793379726.166732,
- "count": 9,
+ "generated_at": 1793383009.7558012,
+ "count": 11,
  "items": [
   {
    "id": "ad7f294550ed9c52",
@@ -29,6 +29,24 @@
    "summary": "点击查看原文>",
    "published_at": 1793386428.0,
    "published_bj": "2026-10-31 02:53"
+  },
+  {
+   "id": "aceb9f3607448e01",
+   "source": "TechCrunch",
+   "title": "Zest’s new AI agent finds restaurants and books reservations over text",
+   "url": "https://techcrunch.com/2026/10/30/zests-new-ai-agent-finds-restaurants-and-books-reservations-over-text/",
+   "summary": "Can't agree on where to eat? Zest's AI concierge can combine everyone's tastes, put restaurant options to a vote, and make the reservation.",
+   "published_at": 1793382432.0,
+   "published_bj": "2026-10-31 01:47"
+  },
+  {
+   "id": "e2a33693ee603098",
+   "source": "Hacker News",
+   "title": "Show HN: Spinf-serve – inference server for bulk scoring and decisions",
+   "url": "https://github.com/spinfinc/spinf-serve",
+   "summary": "Article URL: https://github.com/spinfinc/spinf-serve Comments URL: https://news.ycombinator.com/item?id=50306815 Points: 4 # Comments: 0",
+   "published_at": 1793379792.0,
+   "published_bj": "2026-10-31 01:03"
   },
   {
    "id": "c855c7dc90b14b05",
