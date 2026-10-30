@@ -1,0 +1,382 @@
+{
+ "type": "today",
+ "date": "2026-10-30",
+ "window": {
+  "start_ts": 1793289600.0,
+  "end_ts": 1793322000.0
+ },
+ "generated_at": 1793325101.5857847,
+ "generator": "action",
+ "news_count": 105,
+ "keywords": [
+  "ai",
+  "the",
+  "苹果",
+  "for",
+  "of",
+  "to",
+  "美元",
+  "亿美",
+  "with",
+  "and"
+ ],
+ "points": [
+  {
+   "text": "【ai】Article URL: https://github",
+   "keyword": "ai",
+   "news_ids": [
+    "6c332ed3e89f44be"
+   ],
+   "refs": [
+    {
+     "id": "6c332ed3e89f44be",
+     "title": "Show HN: phpClaw – AI agent runtime for PHP with tools, memory and guards",
+     "source": "Hacker News",
+     "url": "https://github.com/phpclaw-php/phpclaw-monorepo",
+     "published_at": 1793297182.0
+    }
+   ]
+  },
+  {
+   "text": "【美元】IT之家 10 月 30 日消息，数据中心建设推动存储需求增长，加上存储芯片供应紧张、价格居高不下，令闪迪的 最新业绩及业绩展望均超出市场预期 ",
+   "keyword": "美元",
+   "news_ids": [
+    "b1c99feae7e5125b"
+   ],
+   "refs": [
+    {
+     "id": "b1c99feae7e5125b",
+     "title": "闪迪公布强劲业绩，2027 财年第一财季营收 110 亿美元环比增长 23%",
+     "source": "IT之家",
+     "url": "https://www.ithome.com/1/019/847.htm",
+     "published_at": 1793320233.0
+    }
+   ]
+  },
+  {
+   "text": "【苹果】IT之家 10 月 30 日消息，市场调查机构集邦咨询（TrendForce）昨日（10 月 29 日）发布博文， 预估配备 PROLED XD",
+   "keyword": "苹果",
+   "news_ids": [
+    "cb4524f54cc9ec54"
+   ],
+   "refs": [
+    {
+     "id": "cb4524f54cc9ec54",
+     "title": "集邦咨询：苹果首款触控 MacBook Pro 明年出货约 120~150 万台，带动全球 OLED 笔记本出货增长 42.3%",
+     "source": "IT之家",
+     "url": "https://www.ithome.com/1/019/846.htm",
+     "published_at": 1793319864.0
+    }
+   ]
+  },
+  {
+   "text": "【the】Archive of Our Own, the popular online home of fan fiction readers and w",
+   "keyword": "the",
+   "news_ids": [
+    "b075594a8d6c8e14"
+   ],
+   "refs": [
+    {
+     "id": "b075594a8d6c8e14",
+     "title": "Fan fiction site Archive of Our Own could be offline for up to 4 weeks",
+     "source": "TechCrunch",
+     "url": "https://techcrunch.com/2026/10/29/fan-fiction-site-archive-of-our-own-could-be-offline-for-up-to-4-weeks/",
+     "published_at": 1793306636.0
+    }
+   ]
+  },
+  {
+   "text": "【ai】IT之家 10 月 30 日消息，企业 AI 支出持续攀升，随着主流 AI 厂商转向 token 计费模式，这项支出也变得越来越难以预测",
+   "keyword": "ai",
+   "news_ids": [
+    "a8ad87a0e4e7df30"
+   ],
+   "refs": [
+    {
+     "id": "a8ad87a0e4e7df30",
+     "title": "Omdia 预估 2027 年 AI PC 将占 60% 出货，69% 打工人愿为 AI 电脑多花钱",
+     "source": "IT之家",
+     "url": "https://www.ithome.com/1/019/852.htm",
+     "published_at": 1793321566.0
+    }
+   ]
+  },
+  {
+   "text": "【ai】IT之家 10 月 30 日消息，据彭博社报道，一位知情人士透露， Anthropic 已成为 SpaceX 的最大单一客户 ",
+   "keyword": "ai",
+   "news_ids": [
+    "d949b4ad6150a0af"
+   ],
+   "refs": [
+    {
+     "id": "d949b4ad6150a0af",
+     "title": "消息称 Anthropic 已成为马斯克旗下 SpaceX 最大单一客户，贡献超三分之一营收",
+     "source": "IT之家",
+     "url": "https://www.ithome.com/1/019/845.htm",
+     "published_at": 1793319607.0
+    }
+   ]
+  },
+  {
+   "text": "【pro】IT之家 10 月 30 日消息，在用户强烈反对后，OpenAI 公司昨日（10 月 29 日）宣布， 立即上调 ChatGPT Pro 及 B",
+   "keyword": "pro",
+   "news_ids": [
+    "9ce3cb5677eda91a"
+   ],
+   "refs": [
+    {
+     "id": "9ce3cb5677eda91a",
+     "title": "OpenAI“服软”：ChatGPT Pro 订阅用量翻倍，取消 Pro 200 砍半计划",
+     "source": "IT之家",
+     "url": "https://www.ithome.com/1/019/848.htm",
+     "published_at": 1793320492.0
+    }
+   ]
+  },
+  {
+   "text": "IT之家 10 月 30 日消息，科技媒体 Notebookcheck 昨日（10 月 29 日）发布博文，报道称 HMD Global 面向老",
+   "keyword": "",
+   "news_ids": [
+    "94e034a0b35be98c"
+   ],
+   "refs": [
+    {
+     "id": "94e034a0b35be98c",
+     "title": "HMD 推出诺基亚 2360 Flip 翻盖功能机：配 SOS 键、1450 mAh 可拆卸电池，仅支持 2G 网络",
+     "source": "IT之家",
+     "url": "https://www.ithome.com/1/019/851.htm",
+     "published_at": 1793320992.0
+    }
+   ]
+  },
+  {
+   "text": "Article URL: https://github",
+   "keyword": "",
+   "news_ids": [
+    "a20d44233c52c429"
+   ],
+   "refs": [
+    {
+     "id": "a20d44233c52c429",
+     "title": "Herdr has released native app",
+     "source": "Hacker News",
+     "url": "https://github.com/herdrdev/herdr-app",
+     "published_at": 1793320961.0
+    }
+   ]
+  },
+  {
+   "text": "IT之家 10 月 30 日消息，据路透社报道，芬兰警方于周四（29 日）宣布，已针对芬兰北部规划中的谷歌数据中心施工现场涉嫌违反环境法规的行为",
+   "keyword": "",
+   "news_ids": [
+    "7c56c1d5da5c4515"
+   ],
+   "refs": [
+    {
+     "id": "7c56c1d5da5c4515",
+     "title": "谷歌为建数据中心非法砍伐芬兰森林 25 万棵树，警方展开刑事调查",
+     "source": "IT之家",
+     "url": "https://www.ithome.com/1/019/849.htm",
+     "published_at": 1793320575.0
+    }
+   ]
+  },
+  {
+   "text": "Article URL: https://cormacmccarthy",
+   "keyword": "",
+   "news_ids": [
+    "e4678a67b93a22c9"
+   ],
+   "refs": [
+    {
+     "id": "e4678a67b93a22c9",
+     "title": "Cormac McCarthy's Library",
+     "source": "Hacker News",
+     "url": "https://cormacmccarthy.lib.utk.edu/",
+     "published_at": 1793320260.0
+    }
+   ]
+  },
+  {
+   "text": "IT之家 10 月 30 日消息，据央视新闻报道，广东深圳正在举办粤港澳大湾区国际脑机接口产业创新大会，同步开启国内首个光明大脑科技周",
+   "keyword": "",
+   "news_ids": [
+    "8a07e94e77092440"
+   ],
+   "refs": [
+    {
+     "id": "8a07e94e77092440",
+     "title": "新一代无创超声脑机接口亮相：无需开颅，持续 4 周干预有望唤醒“植物人”",
+     "source": "IT之家",
+     "url": "https://www.ithome.com/1/019/844.htm",
+     "published_at": 1793319359.0
+    }
+   ]
+  },
+  {
+   "text": "IT之家 10 月 30 日消息，大众集团 CFO 兼 COO 阿诺 · 安特里茨在昨天发布的前三季度业绩声明中坦言：“电动汽车卖得越好， 我们",
+   "keyword": "",
+   "news_ids": [
+    "c410277648557b52"
+   ],
+   "refs": [
+    {
+     "id": "c410277648557b52",
+     "title": "大众集团 CFO 安特里茨：电车卖得越好，我们的盈利压力反而越大",
+     "source": "IT之家",
+     "url": "https://www.ithome.com/1/019/838.htm",
+     "published_at": 1793317729.0
+    }
+   ]
+  },
+  {
+   "text": "IT之家 10 月 30 日消息，10 月 29 日，重庆知识产权局官方披露，日前， 张雪机车的“ZXMOTO”等核心商标正式完成注册 ",
+   "keyword": "",
+   "news_ids": [
+    "4bd454d84275ae3e"
+   ],
+   "refs": [
+    {
+     "id": "4bd454d84275ae3e",
+     "title": "告别“裸奔”状态，张雪机车“ZXMOTO”等核心商标完成注册",
+     "source": "IT之家",
+     "url": "https://www.ithome.com/1/019/837.htm",
+     "published_at": 1793317552.0
+    }
+   ]
+  },
+  {
+   "text": "10月30日，据路透社报道，四名知情官员透露，美国国防部正将今年8月多座美军基地冷柜异常、导致食品变质的事件，作为疑似网络攻击展开调查",
+   "keyword": "",
+   "news_ids": [
+    "f81f10aa46818004"
+   ],
+   "refs": [
+    {
+     "id": "f81f10aa46818004",
+     "title": "美国军营冰柜突然失控 五角大楼怀疑遭到网络攻击",
+     "source": "cnBeta",
+     "url": "https://www.cnbeta.com.tw/articles/tech/1584358.htm",
+     "published_at": 1793317100.0
+    }
+   ]
+  }
+ ],
+ "article": {
+  "title": "2026-10-30 新闻总结",
+  "paragraphs": [
+   {
+    "kind": "lead",
+    "text": "今天共收录 105 条新闻，来自 6 家媒体。把标题放在一起看，讨论主要集中在 AI、营收 这几个方向上，其余消息更像是零散补充。"
+   },
+   {
+    "kind": "section",
+    "heading": "AI",
+    "text": "先看「AI」。AI+增长：员工提效了，企业为什么没多赚钱？｜上海鲸阙AI联合创始人 沈涛分享…，另有 43 条消息指向同一话题。资本动作往往领先产品一年，值得盯的不是金额，而是钱最后花向了算力、场景还是补贴。",
+    "news_ids": [
+     "0582a81e2b0a3fac"
+    ],
+    "refs": [
+     {
+      "id": "0582a81e2b0a3fac",
+      "title": "AI+增长：员工提效了，企业为什么没多赚钱？｜上海鲸阙AI联合创始人 沈涛分享",
+      "source": "InfoQ中文",
+      "url": "https://www.infoq.cn/article/aK6ADSkIvwf265yc8PuT?utm_source=rss&utm_medium=article",
+      "published_at": 1793296823.0
+     }
+    ]
+   },
+   {
+    "kind": "section",
+    "heading": "营收",
+    "text": "与此同时「营收」。IT之家 10 月 30 日消息，数据中心建设推动存储需求增长，加上存储芯片供应紧张、价格居高不下，另有 12 条消息指向同一话题。融资和估值只能说明市场情绪，能不能兑现，还要看下一两个季度的收入和留存。",
+    "news_ids": [
+     "b1c99feae7e5125b"
+    ],
+    "refs": [
+     {
+      "id": "b1c99feae7e5125b",
+      "title": "闪迪公布强劲业绩，2027 财年第一财季营收 110 亿美元环比增长 23%",
+      "source": "IT之家",
+      "url": "https://www.ithome.com/1/019/847.htm",
+      "published_at": 1793320233.0
+     }
+    ]
+   },
+   {
+    "kind": "section",
+    "heading": "增长",
+    "text": "另一个值得注意的方向是「增长」。IT之家 10 月 30 日消息，市场调查机构集邦咨询（TrendForce）昨日（10 月 29 日）发布博文，另有 11 条消息指向同一话题。这类进展更像是把已有能力往工程化落地推了一步，真正的分水岭在于成本和可靠性能不能同时压下来。",
+    "news_ids": [
+     "cb4524f54cc9ec54"
+    ],
+    "refs": [
+     {
+      "id": "cb4524f54cc9ec54",
+      "title": "集邦咨询：苹果首款触控 MacBook Pro 明年出货约 120~150 万台，带动全球 OLED 笔记本出货增长 42.3%",
+      "source": "IT之家",
+      "url": "https://www.ithome.com/1/019/846.htm",
+      "published_at": 1793319864.0
+     }
+    ]
+   },
+   {
+    "kind": "section",
+    "heading": "电脑",
+    "text": "相比之下「电脑」。IT之家 10 月 30 日消息，企业 AI 支出持续攀升，随着主流 AI 厂商转向 token 计费模式，另有 2 条消息指向同一话题。这条消息短期内的实际影响可能有限，但它指向的方向值得放进观察名单。",
+    "news_ids": [
+     "a8ad87a0e4e7df30"
+    ],
+    "refs": [
+     {
+      "id": "a8ad87a0e4e7df30",
+      "title": "Omdia 预估 2027 年 AI PC 将占 60% 出货，69% 打工人愿为 AI 电脑多花钱",
+      "source": "IT之家",
+      "url": "https://www.ithome.com/1/019/852.htm",
+      "published_at": 1793321566.0
+     }
+    ]
+   },
+   {
+    "kind": "glossary",
+    "items": [
+     {
+      "term": "AI",
+      "desc": "人工智能，让机器完成识别、生成、判断等原本需要人做的任务"
+     },
+     {
+      "term": "XR",
+      "desc": "扩展现实，VR、AR、MR 的统称"
+     },
+     {
+      "term": "Transformer",
+      "desc": "2017 年提出的神经网络结构，是当今绝大多数大模型的基础"
+     },
+     {
+      "term": "GPU",
+      "desc": "图形处理器，因为擅长大规模并行计算，成了 AI 训练的主力硬件"
+     },
+     {
+      "term": "数据中心",
+      "desc": "集中放置服务器、供电与散热设施的大型机房"
+     },
+     {
+      "term": "算力",
+      "desc": "计算能力，通常用 GPU 数量和浮点性能衡量，是训练大模型的门槛"
+     }
+    ]
+   },
+   {
+    "kind": "outlook",
+    "text": "把这几条放在一起看，最值得跟踪的是 AI 和 营收 两条线：一条决定技术能走多远，一条决定它多快能落到普通人的日常里。至于其他消息，可以先放进观察名单，等后续有更实的进展再判断。"
+   }
+  ],
+  "word_count": 615
+ },
+ "ai_enhanced": false,
+ "schema": 1,
+ "window_bj": {
+  "start": "2026-10-30 00:00",
+  "end": "2026-10-30 09:00"
+ }
+}
