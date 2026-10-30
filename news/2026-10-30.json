@@ -1,7 +1,7 @@
 {
  "date": "2026-10-30",
- "generated_at": 1793359052.3941877,
- "count": 359,
+ "generated_at": 1793361725.3496916,
+ "count": 363,
  "items": [
   {
    "id": "41e7373d250aad1b",
@@ -49,6 +49,15 @@
    "published_bj": "2026-10-30 19:22"
   },
   {
+   "id": "a0d33c4a7b4f59bb",
+   "source": "Hacker News",
+   "title": "Fiber lasts decades, GPUs last three years: the AI boom isn't the dot-com boom [video]",
+   "url": "https://www.youtube.com/watch?v=MENoB3Rex28",
+   "summary": "Article URL: https://www.youtube.com/watch?v=MENoB3Rex28 Comments URL: https://news.ycombinator.com/item?id=50302407 Points: 5 # Comments: 2",
+   "published_at": 1793358975.0,
+   "published_bj": "2026-10-30 19:16"
+  },
+  {
    "id": "6a1832698d25f55b",
    "source": "IT之家",
    "title": "全空间保鲜 + EPP 超净系统：海尔云溪 503L 法式多门冰箱 7999 → 3499 元国补探新低",
@@ -74,6 +83,15 @@
    "summary": "点击查看原文>",
    "published_at": 1793358424.0,
    "published_bj": "2026-10-30 19:07"
+  },
+  {
+   "id": "1ec6b01c5d07233c",
+   "source": "Hacker News",
+   "title": "Backdoors in official Claude Code extensions",
+   "url": "https://cyberplace.social/@GossiTheDog/117528831681803563",
+   "summary": "Article URL: https://cyberplace.social/@GossiTheDog/117528831681803563 Comments URL: https://news.ycombinator.com/item?id=50302334 Points: 96 # Comments: 15",
+   "published_at": 1793358353.0,
+   "published_bj": "2026-10-30 19:05"
   },
   {
    "id": "cc2f9a8a0cd78df5",
@@ -157,6 +175,15 @@
    "published_bj": "2026-10-30 18:45"
   },
   {
+   "id": "b9f1da1836fd69e0",
+   "source": "Solidot",
+   "title": "LibreOffice 项目递交的代码发现使用LLM 的明确标记",
+   "url": "https://www.solidot.org/story?sid=85755",
+   "summary": "开发 LibreOffice 的 The Document Foundation(TDF)此前表示这款办公软件不会内置 AI 功能，其核心开发者也不使用 LLM 等 AI 辅助编程工具。但向该项目贡献代码的社区开发者未必会遵守该规定。对今年递交到 LibreOffice 的代码的分析显示至少由三处明确提及使用 LLM。社区开发者在代码中提及他们使用了 Claude 或 GitHub Copilot 等工具。这一结果并不出人意料，大型开源项目基本上不太可能完全避开 LLM。TDF 对这一发现回应称，他们确实要求贡献者在使用 LLM 时必须进行披露，且总体上并不鼓励使用 LLM。和 Debian ",
+   "published_at": 1793357138.0,
+   "published_bj": "2026-10-30 18:45"
+  },
+  {
    "id": "c10cb7fdb9dfa519",
    "source": "IT之家",
    "title": "沐曦股份 2026 年前三季度归母净利润 6.39 亿元，同比扭亏为盈",
@@ -191,6 +218,15 @@
    "summary": "IT之家 10 月 30 日消息，海韵 (Seasonic) 即将于今晚 20:00 发售 ROSSO 朱红限定版的 FOCUS PX-1000 ATX 3.1。其采用多层烤漆工艺， 漆层中的珠光金属粉让整体色泽在沉稳朱红与璀璨金属光芒间变幻 。 FOCUS PX-1000 ATX 3.1 (ROSSO) 采用标准 ATX 外形规格和全模组 PET 编织线材，获得 CQC III、80 PLUS 铂金、Cybenetics 铂金能效认证，具备 Cybenetics A+ 噪声等级。 这款电源拥有 APFC + 全桥 LLC + SR + DC-DC 的电路拓扑，配备 105℃ 耐温全日系电容，",
    "published_at": 1793356142.0,
    "published_bj": "2026-10-30 18:29"
+  },
+  {
+   "id": "159b94224821c7f4",
+   "source": "Solidot",
+   "title": "芬兰对 Google 砍伐 25 万颗树展开调查",
+   "url": "https://www.solidot.org/story?sid=85754",
+   "summary": "作为 130 亿欧元投资计划的一部分，Google 正在芬兰的 Muhos 和 Kajaani-Otanmäki 建造两座数据中心。上周芬兰监管机构以未完成必要的环评为由下令工程停工。Google 芬兰子公司 Tuike Finland 遵守了命令。应监管机构的要求，Oulu 警方针对 Muhos 数据中心建设工地的活动（Google 在当地砍伐了 25 万颗树）展开初步调查。警方表示，此案正以涉嫌环境损害这一刑事罪名进行调查。警方指出，随着调查的深入，未来可能会明确其他潜在的指控。警方称，根据目前掌握的信息，数据中心项目工地在排水和水资源管理方面存在违规及缺陷。警方表示，初步调查工作力争在 ",
+   "published_at": 1793355944.0,
+   "published_bj": "2026-10-30 18:25"
   },
   {
    "id": "4e31e7be945acf7a",
