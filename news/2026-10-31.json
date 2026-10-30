@@ -1,7 +1,7 @@
 {
  "date": "2026-10-31",
- "generated_at": 1793373207.8233328,
- "count": 4,
+ "generated_at": 1793376369.2696612,
+ "count": 5,
  "items": [
   {
    "id": "ad7f294550ed9c52",
@@ -38,6 +38,15 @@
    "summary": "点击查看原文>",
    "published_at": 1793379600.0,
    "published_bj": "2026-10-31 01:00"
+  },
+  {
+   "id": "69fa2ba4a7835fd4",
+   "source": "TechCrunch",
+   "title": "Theranos whistleblower Tyler Shultz warns that the AI boom is ‘a great opportunity to go deceive people’",
+   "url": "https://techcrunch.com/2026/10/30/theranos-whistleblower-tyler-shultz-warns-that-the-ai-boom-is-a-great-opportunity-to-go-deceive-people/",
+   "summary": "The cautionary Theranos tale takes on a new significance in the AI era, when companies that have never turned a profit are raising capital at trillion-dollar valuations.",
+   "published_at": 1793376225.0,
+   "published_bj": "2026-10-31 00:03"
   }
  ]
 }
