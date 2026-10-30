@@ -1,7 +1,7 @@
 {
  "date": "2026-10-31",
- "generated_at": 1793391372.2044935,
- "count": 26,
+ "generated_at": 1793393908.9175072,
+ "count": 37,
  "items": [
   {
    "id": "ad7f294550ed9c52",
@@ -13,6 +13,78 @@
    "published_bj": "2026-10-31 05:00"
   },
   {
+   "id": "b1231b537a144f22",
+   "source": "cnBeta",
+   "title": "AMD计划11月再次上调Radeon显卡供货价格 RX 9000系列或进一步涨价",
+   "url": "https://www.cnbeta.com.tw/articles/tech/1584496.htm",
+   "summary": "AMD可能将在2026年11月再次提高Radeon显卡核心与GDDR6显存套装的供货价格。这意味着，继10月份调整供应价格之后，AMD合作显卡厂商可能在短短一个月内再次面临成本上涨。随着全球存储芯片供应持续紧张，显卡市场的价格压力正在进一步扩大。 阅读全文",
+   "published_at": 1793392733.0,
+   "published_bj": "2026-10-31 04:38"
+  },
+  {
+   "id": "13c1bbb9b6936d31",
+   "source": "cnBeta",
+   "title": "苹果市值超越英伟达 重登全球第一宝座",
+   "url": "https://www.cnbeta.com.tw/articles/tech/1584494.htm",
+   "summary": "在经历过去一周科技股普遍下跌之后，苹果公司凭借持续强劲的iPhone市场需求，再次超过英伟达，重新成为全球市值最高的上市公司。近年来，苹果与英伟达围绕全球最高市值公司的位置持续展开拉锯战。苹果依靠iPhone产品线和服务业务的增长，而英伟达则受益于人工智能热潮带动的AI芯片需求。 阅读全文",
+   "published_at": 1793392689.0,
+   "published_bj": "2026-10-31 04:38"
+  },
+  {
+   "id": "4091f0f2347c6e39",
+   "source": "Hacker News",
+   "title": "Through Captain Jean-Luc Picard, Patrick Stewart taught us the measure of a man",
+   "url": "https://www.bostonglobe.com/2026/10/29/metro/patrick-stewart-picard-star-trek-the-next-generation/",
+   "summary": "Article URL: https://www.bostonglobe.com/2026/10/29/metro/patrick-stewart-picard-star-trek-the-next-generation/ Comments URL: https://news.ycombinator.com/item?id=50309647 Points: 13 # Comments: 1",
+   "published_at": 1793391810.0,
+   "published_bj": "2026-10-31 04:23"
+  },
+  {
+   "id": "00242077b0db1d4e",
+   "source": "Hacker News",
+   "title": "Embraer's Atech aims to double in size by 2030 with drone traffic control",
+   "url": "https://www.bloomberglinea.com.br/negocios/atech-da-embraer-quer-dobrar-de-tamanho-ate-2030-com-controle-de-trafego-de-drones/",
+   "summary": "Article URL: https://www.bloomberglinea.com.br/negocios/atech-da-embraer-quer-dobrar-de-tamanho-ate-2030-com-controle-de-trafego-de-drones/ Comments URL: https://news.ycombinator.com/item?id=50309573 Points: 6 # Comments: 0",
+   "published_at": 1793391498.0,
+   "published_bj": "2026-10-31 04:18"
+  },
+  {
+   "id": "efe6148952e74157",
+   "source": "Hacker News",
+   "title": "Programming at Light Speed: Building the Gravity Query Engine",
+   "url": "https://pgrust.com/blog/programming-at-light-speed/",
+   "summary": "Article URL: https://pgrust.com/blog/programming-at-light-speed/ Comments URL: https://news.ycombinator.com/item?id=50309571 Points: 7 # Comments: 0",
+   "published_at": 1793391490.0,
+   "published_bj": "2026-10-31 04:18"
+  },
+  {
+   "id": "d064fdeb0fa7bb18",
+   "source": "Hacker News",
+   "title": "Product Managers aren't safe either",
+   "url": "https://lucaskostka.com/posts/ai-challenges-more-than-devs",
+   "summary": "Article URL: https://lucaskostka.com/posts/ai-challenges-more-than-devs Comments URL: https://news.ycombinator.com/item?id=50309534 Points: 7 # Comments: 1",
+   "published_at": 1793391279.0,
+   "published_bj": "2026-10-31 04:14"
+  },
+  {
+   "id": "06c791f1b7dd670e",
+   "source": "Hacker News",
+   "title": "Show HN: Automatic deduction of FlashAttention kernel from ~25 lines of SQL",
+   "url": "https://github.com/xqlsystems/xarray-sql/blob/6debe2495dcb4e8fac20ab97df5b89baae2a31a6/benchmarks/ml/01_attention.py",
+   "summary": "In this demo, we automatically deduce a FlashAttention kernel with ~25 lines of SQL, which just expresses vanilla attention. This is possible due to three portable SQL extensions that we’re building: - xarray-sql: a library that efficiently represents petabyte scale array datasets in the cloud as ta",
+   "published_at": 1793390987.0,
+   "published_bj": "2026-10-31 04:09"
+  },
+  {
+   "id": "a74fbe2c49727061",
+   "source": "Hacker News",
+   "title": "An Arrogant Way of Killing (2016)",
+   "url": "https://magazine.atavist.com/2016/an-arrogant-way-of-killing",
+   "summary": "Article URL: https://magazine.atavist.com/2016/an-arrogant-way-of-killing Comments URL: https://news.ycombinator.com/item?id=50309470 Points: 5 # Comments: 0",
+   "published_at": 1793390932.0,
+   "published_bj": "2026-10-31 04:08"
+  },
+  {
    "id": "9112b2b2cd2fa6cd",
    "source": "TechCrunch",
    "title": "AI law firm Crosby bids on disintegrating, famed firm Weil Gotshal",
@@ -20,6 +92,33 @@
    "summary": "Like a real-life episode of Suits, the demise of famed white-shoe Wall Street law firm Weil, Gotshal &#038; Manges has been the talk of the legal industry. And now, an AI firm has entered the picture.",
    "published_at": 1793390113.0,
    "published_bj": "2026-10-31 03:55"
+  },
+  {
+   "id": "a21240bf56a4bc8f",
+   "source": "Hacker News",
+   "title": "Jules Verne's Lost Novel",
+   "url": "https://blue-continuum.com/verne-paris",
+   "summary": "Article URL: https://blue-continuum.com/verne-paris Comments URL: https://news.ycombinator.com/item?id=50309314 Points: 9 # Comments: 0",
+   "published_at": 1793390110.0,
+   "published_bj": "2026-10-31 03:55"
+  },
+  {
+   "id": "88f67ddf7c695c1b",
+   "source": "Hacker News",
+   "title": "The oldest ice disappears and the Stone Age emerges from it",
+   "url": "https://www.sciencenorway.no/archaeology-climate-culture/the-oldest-ice-is-disappearing-the-stone-age-is-emerging-from-the-melting-ice/2713921",
+   "summary": "Article URL: https://www.sciencenorway.no/archaeology-climate-culture/the-oldest-ice-is-disappearing-the-stone-age-is-emerging-from-the-melting-ice/2713921 Comments URL: https://news.ycombinator.com/item?id=50309266 Points: 11 # Comments: 2",
+   "published_at": 1793389893.0,
+   "published_bj": "2026-10-31 03:51"
+  },
+  {
+   "id": "b9ffeb01e86368e1",
+   "source": "Hacker News",
+   "title": "Infinite Mac: BeOS",
+   "url": "https://blog.persistent.info/2026/10/infinite-mac-beos.html",
+   "summary": "Article URL: https://blog.persistent.info/2026/10/infinite-mac-beos.html Comments URL: https://news.ycombinator.com/item?id=50309029 Points: 16 # Comments: 1",
+   "published_at": 1793388609.0,
+   "published_bj": "2026-10-31 03:30"
   },
   {
    "id": "f2af8f4106e6fdbb",
