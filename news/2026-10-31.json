@@ -1,8 +1,89 @@
 {
  "date": "2026-10-31",
- "generated_at": 1793400889.3824735,
- "count": 52,
+ "generated_at": 1793402873.710323,
+ "count": 61,
  "items": [
+  {
+   "id": "41cf00caf0c54d28",
+   "source": "IT之家",
+   "title": "Anthropic Claude Max 20x 订阅更名 Ultra，已验证账户无五小时限制",
+   "url": "https://www.ithome.com/1/020/398.htm",
+   "summary": "IT之家 10 月 31 日消息，Anthropic 调整了 Claude 针对个人消费者的付费套餐命名： 原 Max 20x 计划更名为 Ultra 计划（价格仍为 200 美元 （IT之家注：现汇率约合 1,335 元人民币） / 月）， 并对通过验证的账户取消了 5 小时会话用量限制 （仍受每周限额约束）； 原 Max 5x 计划则直接简化为 Claude Max（100 美元 （现汇率约合 667.7 元人民币） / 月）。 据介绍，Ultra 计划每周拥有 Pro 计划使用量的 10 倍，拥有优先访问权限（率先体验新模型、功能和产品）， 目前仅作为月度订阅提供 。 官方表示，为了防止",
+   "published_at": 1793402801.0,
+   "published_bj": "2026-10-31 07:26"
+  },
+  {
+   "id": "75fc12397eeed831",
+   "source": "IT之家",
+   "title": "消息称苹果下发指引，要求门店按标准流程维修 / 更换 iPhone Duo 内屏开裂",
+   "url": "https://www.ithome.com/1/020/397.htm",
+   "summary": "IT之家 10 月 31 日消息，科技媒体 MacRumors 今天（10 月 31 日）发布博文，报道称苹果公司本周已向 Apple Store 零售店及授权服务提供商下发指引， 在收到用户报告的 iPhone Duo 内屏开裂后，要求技术人员规范检查，并按标准流程维修或更换设备。 在这份指引中，苹果公司再次强调此前声明内容，指出只有少量 iPhone Duo 出现内屏开裂情况。苹果此前回应如下： 首批用户对 iPhone Duo 的反馈整体非常好，开发者也在快速更新应用，适配这款产品独特的形态，带来了不少亮眼的成果。我们留意到有少量 iPhone Duo 设备存在内屏故障问题。如果用户遇到",
+   "published_at": 1793402533.0,
+   "published_bj": "2026-10-31 07:22"
+  },
+  {
+   "id": "1bb70a14edb46e48",
+   "source": "TechCrunch",
+   "title": "Salesforce’s M&A spree continues with a reported $375M deal for defense tech startup Rune",
+   "url": "https://techcrunch.com/2026/10/30/salesforces-ma-spree-continues-with-a-reported-375m-deal-for-defense-tech-startup-rune/",
+   "summary": "The AI logistics startup will bolster the CRM giant's Missionforce defense platform.",
+   "published_at": 1793402483.0,
+   "published_bj": "2026-10-31 07:21"
+  },
+  {
+   "id": "1f6d720ce38865eb",
+   "source": "IT之家",
+   "title": "可免费生成粤语歌，香港自研 AI 助手“港话通”推出 AI 音乐功能",
+   "url": "https://www.ithome.com/1/020/396.htm",
+   "summary": "IT之家 10 月 31 日消息，由香港生成式人工智能研发中心（HKGAI）研发的本地 AI 智能助理“港话通”（HKChat）于 10 月 30 日迎来更新， 推出全新 AI 音乐生成功能 。 新功能接入由 HKGAI 研发的 YuE2 音乐大模型（「YuE2」） ，用户随口哼唱或上传图片，再输入对歌曲的构思，AI 便可即时谱写出兼具专业编曲和人声献唱的原创歌曲。 全新音乐功能已在“港话通”App 上线，用户只需在首页点击底部的“音乐”按钮，即可进入创作界面。 HKGAI 官方表示，“港话通”作为香港市民的 AI 生活助手， 其全新音乐功能以粤语流行曲为特色 ，致力将 AI 技术与香港独特的",
+   "published_at": 1793402441.0,
+   "published_bj": "2026-10-31 07:20"
+  },
+  {
+   "id": "fa81db8aaae8b921",
+   "source": "IT之家",
+   "title": "阿里巴巴：苹果 Apple 智能国行用户可以自主选择是否开通千问集成功能",
+   "url": "https://www.ithome.com/1/020/395.htm",
+   "summary": "IT之家 10 月 31 日消息，苹果今日（10 月 31 日）凌晨宣布 首批 Apple 智能功能即将在中国推出 ，并与阿里巴巴达成合作，在部分体验中接入千问。这是 Apple 智能自 2024 年发布以来，国行版本首次获得实质性落地进展。 根据阿里巴巴一同发布的公告， 中国用户可以在 Siri、写作工具及视觉智能中，直接调用千问的文本与图像理解、内容生成等能力 。这些功能将于 11 月 4 日起随最新的 iOS 开发者 Beta 版开放测试，并将于 12 月 iOS 27.3 正式发布时面向中国用户推出。 Siri 可以直接调用千问的知识，并在 Siri 中直接回复用户问答。通过 Siri",
+   "published_at": 1793401761.0,
+   "published_bj": "2026-10-31 07:09"
+  },
+  {
+   "id": "a066b06eef09180f",
+   "source": "IT之家",
+   "title": "OpenAI 称 ChatGPT 可自动终止表现出暴力执念的对话，并承诺定期发布社区安全报告",
+   "url": "https://www.ithome.com/1/020/394.htm",
+   "summary": "IT之家 10 月 31 日消息，OpenAI 于当地时间 10 月 30 日发布博文表示，维护社区安全始终是 OpenAI 的重中之重。其日常工作包括主动向执法机关通报迫在眉睫的暴力威胁。仅在 2026 年第三季度，OpenAI 就向执法部门移交了 200 余起案件线索。 OpenAI 承诺定期发布《社区安全报告》 （Community Safety Report），系统公开在暴力预防、其他社区安全议题以及各项防护机制实际成效方面的进展。 首期报告将于 2027 年初正式发布 ，涵盖 2026 年下半年的安全数据，此后每半年更新一次。 IT之家获悉，OpenAI 针对 ChatGPT 如何回",
+   "published_at": 1793401749.0,
+   "published_bj": "2026-10-31 07:09"
+  },
+  {
+   "id": "2259d8a560d585ff",
+   "source": "IT之家",
+   "title": "微软发布 Win11 26220.9836 等预览版更新：搜索功能可“动手”了，调音量 / 亮度不再进设置",
+   "url": "https://www.ithome.com/1/020/388.htm",
+   "summary": "IT之家 10 月 31 日消息，微软昨天（10 月 30 日）发布博文，邀请 Beta、Experimental 频道的 Windows Insider 项目成员，测试适用于 Windows 11 的多版本预览更新，各频道版本如下： Beta 通道：Build 26220.9836（26H2）、Build 28020.3382（26H1） Experimental 通道：Build 26340.9843（26H2）、Build 28120.3393（26H1）、Build 29698.1000（未来平台版本） IT之家附 Windows 11 改进进展如下： 1、全新 Windows 搜索体",
+   "published_at": 1793401556.0,
+   "published_bj": "2026-10-31 07:05"
+  },
+  {
+   "id": "576afea56028162c",
+   "source": "IT之家",
+   "title": "苹果 Apple 智能入华亮点：AirPods 实时翻译登场，戴上耳机跨语言聊天",
+   "url": "https://www.ithome.com/1/020/393.htm",
+   "summary": "IT之家 10 月 31 日消息，苹果公司今天（10 月 31 日）发布公告，宣布将面向中国 iPhone 18 Pro 等机型用户，于 11 月 4 日开放测试，并于 12 月推出的 iOS 27.3 更新，在国内上线首批 Apple 智能（Apple Intelligence）核心功能。 IT之家援引官方新闻稿，在首批上线的 Apple 智能核心功能中，“实时翻译”已无缝整合到信息、FaceTime 通话和电话 app 中，支持用户在通话及消息场景中获得翻译体验。该功能将于 11 月 4 日起随最新 iOS 开发者 Beta 版开放测试，并于 12 月随 iOS 27.3 正式发布面向中国",
+   "published_at": 1793401123.0,
+   "published_bj": "2026-10-31 06:58"
+  },
+  {
+   "id": "f63ed12bbe5a8255",
+   "source": "TechCrunch",
+   "title": "Ollie, a privacy-focused AI assistant, is shutting down",
+   "url": "https://techcrunch.com/2026/10/30/ollie-a-privacy-focused-ai-assistant-is-shutting-down/",
+   "summary": "As an increasing number of AI assistants flood the market, the founder of Ollie, an assistant that respected its users' privacy, says it will be shutting down in a week.",
+   "published_at": 1793400973.0,
+   "published_bj": "2026-10-31 06:56"
+  },
   {
    "id": "0c981c9885455188",
    "source": "IT之家",
