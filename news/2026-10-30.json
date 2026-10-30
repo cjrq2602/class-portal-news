@@ -1,6 +1,6 @@
 {
  "date": "2026-10-30",
- "generated_at": 1793385598.6025248,
+ "generated_at": 1793388484.7433472,
  "count": 400,
  "items": [
   {
@@ -154,6 +154,15 @@
    "url": "https://www.nbcnews.com/business/consumer/polymarket-trading-halt-hack-wallets-rcna606405",
    "summary": "Article URL: https://www.nbcnews.com/business/consumer/polymarket-trading-halt-hack-wallets-rcna606405 Comments URL: https://news.ycombinator.com/item?id=50305225 Points: 26 # Comments: 8",
    "published_at": 1793373821.0,
+   "published_bj": "2026-10-30 23:23"
+  },
+  {
+   "id": "af2a9a09b19bc5de",
+   "source": "Hacker News",
+   "title": "Show HN: Sketch Stadium – watch your agent play Pictionary",
+   "url": "https://sketch.wakeshift.ai/",
+   "summary": "tl;dr: Agents can play Pictionary. You can connect your own agent, or just watch a game in progress here: https://sketch.wakeshift.ai/games/q5ucru Hi folks! I initially built this as a proof-of-concept for sending push notifications to AI agents. Watching the agents play Pictionary together has been",
+   "published_at": 1793373791.0,
    "published_bj": "2026-10-30 23:23"
   },
   {
@@ -3593,15 +3602,6 @@
    "summary": "俄罗斯总统弗拉基米尔·普京近日公开称赞美国企业家、SpaceX首席执行官埃隆·马斯克，称其为“真正的天才”。普京此番表态的背景，是俄罗斯正在推进自主低轨卫星互联网系统的建设，而马斯克旗下的星链（Starlink）已经在全球部署了大规模卫星网络，俄罗斯目前仍处于追赶阶段。 阅读全文",
    "published_at": 1793317035.0,
    "published_bj": "2026-10-30 07:37"
-  },
-  {
-   "id": "d8ec25e368151b81",
-   "source": "IT之家",
-   "title": "奔驰全新纯电 E 级明年问世，CEO 康林松称几乎全部采用中国本土采购零部件",
-   "url": "https://www.ithome.com/1/019/807.htm",
-   "summary": "IT之家 10 月 30 日消息，当地时间 29 日，据外媒 motor1 报道，奔驰 CEO 康林松在 2026 年第三季度财报电话会议上透露，纯电 E 级是一款 从零开始研发的豪华轿车 。新车与燃油版共用 E 级名称，采用独立的纯电平台，并计划在多个方面提升产品表现。 据IT之家了解，新车在大约三年前启动研发，基本没有沿用现成的设计方案。目前，纯电 E 级原型车正进行 最后阶段的测试 ，以解决量产前可能存在的问题。 ▲ motor1 绘制的新车假想图 纯电 E 级预计将与明年改款的燃油 E 级采用高度相似的外观设计。奔驰也借此进一步统一油车和电车的设计语言及车型命名， CLA、GLA、GL",
-   "published_at": 1793316707.0,
-   "published_bj": "2026-10-30 07:31"
   }
  ]
 }

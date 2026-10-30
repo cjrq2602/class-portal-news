@@ -1,7 +1,7 @@
 {
  "date": "2026-10-31",
- "generated_at": 1793385598.598592,
- "count": 16,
+ "generated_at": 1793388484.7395709,
+ "count": 22,
  "items": [
   {
    "id": "ad7f294550ed9c52",
@@ -22,6 +22,24 @@
    "published_bj": "2026-10-31 03:27"
   },
   {
+   "id": "e78133a426a28c79",
+   "source": "cnBeta",
+   "title": "AI浪潮意外带火磁带存储 富士胶片投资6400万美元大幅扩产",
+   "url": "https://www.cnbeta.com.tw/articles/tech/1584492.htm",
+   "summary": "在人工智能产业高速发展的背景下，一项被许多人视为“上个世纪产物”的存储技术正在迎来复兴。日本富士胶片近日宣布，将投入100亿日元（约合6400万美元）扩充数据存储磁带产能，以满足全球不断增长的数据归档需求。 阅读全文",
+   "published_at": 1793386468.0,
+   "published_bj": "2026-10-31 02:54"
+  },
+  {
+   "id": "f29524a12f910a22",
+   "source": "cnBeta",
+   "title": "星巴克计划在汽车门店引入AI个性化菜单：自动识别会员身份 根据习惯推荐饮品",
+   "url": "https://www.cnbeta.com.tw/articles/tech/1584490.htm",
+   "summary": "星巴克正在进一步扩大人工智能技术在门店运营中的应用范围，计划重新设计传统汽车餐厅（Drive-thru）的点餐体验，通过AI识别参与计划的会员，为顾客提供个性化数字菜单，并协助员工更加准确、高效地录入订单。这项计划是星巴克新一轮数字化转型的重要组成部分，预计将在2027财年开始测试。 阅读全文",
+   "published_at": 1793386440.0,
+   "published_bj": "2026-10-31 02:54"
+  },
+  {
    "id": "2ce1028ec88b269e",
    "source": "InfoQ中文",
    "title": "AI+社区：「模力工场」连接AI供需，补上信任缺口｜极客邦科技创始人兼CEO 霍太稳分享",
@@ -29,6 +47,42 @@
    "summary": "点击查看原文>",
    "published_at": 1793386428.0,
    "published_bj": "2026-10-31 02:53"
+  },
+  {
+   "id": "7363e894bb318b11",
+   "source": "cnBeta",
+   "title": "Google首颗“数据中心卫星”正式上线 太空AI首次创作诗歌",
+   "url": "https://www.cnbeta.com.tw/articles/tech/1584488.htm",
+   "summary": "Google的“Suncatcher（捕日者）”原型太空数据中心卫星已正式投入运行，并成功与地面建立通信。这颗卫星于本月早些时候搭乘SpaceX猎鹰9号火箭升空，与100余颗航天器一同进入轨道，标志着Google将人工智能计算能力扩展至太空环境的重要一步。 阅读全文",
+   "published_at": 1793386260.0,
+   "published_bj": "2026-10-31 02:51"
+  },
+  {
+   "id": "370a421a40efedc6",
+   "source": "cnBeta",
+   "title": "日本科学家研发无颜料涂层技术 飞机涂装重量有望减少99%",
+   "url": "https://www.cnbeta.com.tw/articles/science/1584486.htm",
+   "summary": "日本神户大学的研究人员开发出一种全新的无颜料涂层技术，通过硅纳米颗粒与光线之间的特殊相互作用产生鲜艳色彩，无需使用传统染料或颜料，就能实现接近汽车原厂漆的光泽效果。这项技术不仅能够应用于复杂的三维物体表面，还可以在外加保护涂层后保持原有颜色，有望为汽车、飞机及其他大型工业产品的表面处理带来新的选择。 阅读全文",
+   "published_at": 1793386188.0,
+   "published_bj": "2026-10-31 02:49"
+  },
+  {
+   "id": "1bb863f67d5487e6",
+   "source": "cnBeta",
+   "title": "三星借iPhone Duo屏幕问题再度发起广告攻势",
+   "url": "https://www.cnbeta.com.tw/articles/tech/1584484.htm",
+   "summary": "三星本周推出一项新的营销活动，将矛头直接指向苹果首款折叠屏手机iPhone Duo近期出现的屏幕故障问题。此次广告通过三星加拿大官方Instagram账号发布，多张宣传图片刻意展示了一条贯穿屏幕中央的亮线，以影射部分iPhone Duo用户遭遇的内屏损坏现象。 阅读全文",
+   "published_at": 1793386141.0,
+   "published_bj": "2026-10-31 02:49"
+  },
+  {
+   "id": "3856a32b229cb9e8",
+   "source": "Hacker News",
+   "title": "French national assembly votes 0.055€/GB internet tax",
+   "url": "https://www.lesnumeriques.com/societe-numerique/netflix-steam-cloud-vos-abonnements-et-telechargements-bientot-plus-chers-a-cause-d-une-nouvelle-taxe-n264035.html",
+   "summary": "Article URL: https://www.lesnumeriques.com/societe-numerique/netflix-steam-cloud-vos-abonnements-et-telechargements-bientot-plus-chers-a-cause-d-une-nouvelle-taxe-n264035.html Comments URL: https://news.ycombinator.com/item?id=50308240 Points: 36 # Comments: 33",
+   "published_at": 1793385116.0,
+   "published_bj": "2026-10-31 02:31"
   },
   {
    "id": "4e396235e189881c",
