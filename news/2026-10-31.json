@@ -1,7 +1,7 @@
 {
  "date": "2026-10-31",
- "generated_at": 1793388484.7395709,
- "count": 22,
+ "generated_at": 1793391372.2044935,
+ "count": 26,
  "items": [
   {
    "id": "ad7f294550ed9c52",
@@ -13,6 +13,15 @@
    "published_bj": "2026-10-31 05:00"
   },
   {
+   "id": "9112b2b2cd2fa6cd",
+   "source": "TechCrunch",
+   "title": "AI law firm Crosby bids on disintegrating, famed firm Weil Gotshal",
+   "url": "https://techcrunch.com/2026/10/30/ai-law-firm-crosby-bids-on-disintegrating-famed-firm-weil-gotshal/",
+   "summary": "Like a real-life episode of Suits, the demise of famed white-shoe Wall Street law firm Weil, Gotshal &#038; Manges has been the talk of the legal industry. And now, an AI firm has entered the picture.",
+   "published_at": 1793390113.0,
+   "published_bj": "2026-10-31 03:55"
+  },
+  {
    "id": "f2af8f4106e6fdbb",
    "source": "InfoQ中文",
    "title": "AI+垂类Agent：任务跑得久、工具用得熟，撑不起Agent公司长期竞争力｜贝联珠贯创始人兼CEO 毕玄分享",
@@ -20,6 +29,33 @@
    "summary": "点击查看原文>",
    "published_at": 1793388422.0,
    "published_bj": "2026-10-31 03:27"
+  },
+  {
+   "id": "c9ab33589971bf7f",
+   "source": "Hacker News",
+   "title": "A Pickpocket's Guide to New York",
+   "url": "https://www.newyorker.com/magazine/2026/11/02/a-pickpockets-guide-to-new-york",
+   "summary": "Article URL: https://www.newyorker.com/magazine/2026/11/02/a-pickpockets-guide-to-new-york Comments URL: https://news.ycombinator.com/item?id=50308986 Points: 6 # Comments: 1",
+   "published_at": 1793388399.0,
+   "published_bj": "2026-10-31 03:26"
+  },
+  {
+   "id": "81e96d7930a7e7d1",
+   "source": "Hacker News",
+   "title": "Bunny CDN Security Incident",
+   "url": "https://status.bunny.net/incidents/p6gf1by9kr7m",
+   "summary": "Article URL: https://status.bunny.net/incidents/p6gf1by9kr7m Comments URL: https://news.ycombinator.com/item?id=50308697 Points: 22 # Comments: 4",
+   "published_at": 1793387122.0,
+   "published_bj": "2026-10-31 03:05"
+  },
+  {
+   "id": "308714b6abad6a2e",
+   "source": "Hacker News",
+   "title": "French digital tax may kill VideoLan non-profit",
+   "url": "https://twitter.com/videolan/status/2116229135919919278",
+   "summary": "Article URL: https://twitter.com/videolan/status/2116229135919919278 Comments URL: https://news.ycombinator.com/item?id=50308631 Points: 36 # Comments: 15",
+   "published_at": 1793386874.0,
+   "published_bj": "2026-10-31 03:01"
   },
   {
    "id": "e78133a426a28c79",
