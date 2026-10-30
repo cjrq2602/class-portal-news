@@ -1,7 +1,7 @@
 {
  "date": "2026-10-31",
- "generated_at": 1793383009.7558012,
- "count": 11,
+ "generated_at": 1793385598.598592,
+ "count": 16,
  "items": [
   {
    "id": "ad7f294550ed9c52",
@@ -31,6 +31,24 @@
    "published_bj": "2026-10-31 02:53"
   },
   {
+   "id": "4e396235e189881c",
+   "source": "TechCrunch",
+   "title": "Satlyt takes another step toward turning satellites into space data centers",
+   "url": "https://techcrunch.com/2026/10/30/satlyt-takes-another-step-toward-turning-satellites-into-space-data-centers/",
+   "summary": "Satlyt ran a successful test this month bringing it closer to turning spacecraft, starting with satellites, into virtual data centers.",
+   "published_at": 1793383284.0,
+   "published_bj": "2026-10-31 02:01"
+  },
+  {
+   "id": "9f06c81ed2455849",
+   "source": "Hacker News",
+   "title": "GitHub Incident with Actions, Pages, and Webhooks",
+   "url": "https://www.githubstatus.com/incidents/pwxsjgnvrk6b",
+   "summary": "Article URL: https://www.githubstatus.com/incidents/pwxsjgnvrk6b Comments URL: https://news.ycombinator.com/item?id=50307723 Points: 21 # Comments: 11",
+   "published_at": 1793383055.0,
+   "published_bj": "2026-10-31 01:57"
+  },
+  {
    "id": "aceb9f3607448e01",
    "source": "TechCrunch",
    "title": "Zest’s new AI agent finds restaurants and books reservations over text",
@@ -38,6 +56,33 @@
    "summary": "Can't agree on where to eat? Zest's AI concierge can combine everyone's tastes, put restaurant options to a vote, and make the reservation.",
    "published_at": 1793382432.0,
    "published_bj": "2026-10-31 01:47"
+  },
+  {
+   "id": "1a6ed47cb09bb59f",
+   "source": "Hacker News",
+   "title": "Anthropic may not secure investment-grade rating after IPO, Blackstone says",
+   "url": "https://www.ft.com/content/59383c7f-8d82-493f-bf01-d2e862a1018f",
+   "summary": "Article URL: https://www.ft.com/content/59383c7f-8d82-493f-bf01-d2e862a1018f Comments URL: https://news.ycombinator.com/item?id=50307219 Points: 30 # Comments: 12",
+   "published_at": 1793381245.0,
+   "published_bj": "2026-10-31 01:27"
+  },
+  {
+   "id": "847163d6871cdde2",
+   "source": "Hacker News",
+   "title": "My favourite PowerMac is a Nintendo Wii",
+   "url": "https://virtuallyfun.com/2026/10/29/my-favourite-powermac-is-a-nintendo-wii/",
+   "summary": "Article URL: https://virtuallyfun.com/2026/10/29/my-favourite-powermac-is-a-nintendo-wii/ Comments URL: https://news.ycombinator.com/item?id=50307190 Points: 46 # Comments: 5",
+   "published_at": 1793381115.0,
+   "published_bj": "2026-10-31 01:25"
+  },
+  {
+   "id": "21188a3cdc4e9b31",
+   "source": "Hacker News",
+   "title": "Proton's CEO Cancels AI 'Re-Interviews'",
+   "url": "https://www.404media.co/protons-ceo-cancels-ai-re-interviews/",
+   "summary": "Article URL: https://www.404media.co/protons-ceo-cancels-ai-re-interviews/ Comments URL: https://news.ycombinator.com/item?id=50307183 Points: 85 # Comments: 45",
+   "published_at": 1793381085.0,
+   "published_bj": "2026-10-31 01:24"
   },
   {
    "id": "e2a33693ee603098",
