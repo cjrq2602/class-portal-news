@@ -1,7 +1,7 @@
 {
  "date": "2026-10-31",
- "generated_at": 1793378517.768113,
- "count": 5,
+ "generated_at": 1793379726.166732,
+ "count": 9,
  "items": [
   {
    "id": "ad7f294550ed9c52",
@@ -38,6 +38,42 @@
    "summary": "点击查看原文>",
    "published_at": 1793379600.0,
    "published_bj": "2026-10-31 01:00"
+  },
+  {
+   "id": "8f3eddcde5666cca",
+   "source": "TechCrunch",
+   "title": "Google’s first data center satellite is online and writing poetry",
+   "url": "https://techcrunch.com/2026/10/30/googles-first-data-center-satellite-is-online-and-writing-poetry/",
+   "summary": "The first TPU in space is a running a Google DeepMind Gemma 4 model and writing cheesy poetry.",
+   "published_at": 1793379600.0,
+   "published_bj": "2026-10-31 01:00"
+  },
+  {
+   "id": "e73295de342d0961",
+   "source": "Hacker News",
+   "title": "A Working Nintendo in ~1GB of Qwen Weights",
+   "url": "https://github.com/dbreunig/nesformer",
+   "summary": "Article URL: https://github.com/dbreunig/nesformer Comments URL: https://news.ycombinator.com/item?id=50306442 Points: 3 # Comments: 0",
+   "published_at": 1793378422.0,
+   "published_bj": "2026-10-31 00:40"
+  },
+  {
+   "id": "406ec0b970914f4f",
+   "source": "cnBeta",
+   "title": "英特尔股价大跌 美国政府持股账面缩水约100亿美元",
+   "url": "https://www.cnbeta.com.tw/articles/tech/1584482.htm",
+   "summary": "英特尔周五股价暴跌，导致美国政府持有的该公司股权账面市值缩水约 100 亿美元，但这笔投资整体依旧处于盈利状态。去年 8 月，特朗普政府以每股 20.47 美元的价格取得这家芯片企业 9.9% 的股权。这笔初始股权共计 4.333 亿股新股，初始投入价值 89 亿美元。 今年早些时候英特尔股价大幅飙升；该股周四收盘报 92.07 美元，对应美国政府这笔股权账面市值达到 399 亿美元。 阅读全文",
+   "published_at": 1793377560.0,
+   "published_bj": "2026-10-31 00:26"
+  },
+  {
+   "id": "370ba3b3d6fa3a1b",
+   "source": "Hacker News",
+   "title": "US tech stocks see sharp falls over AI cost fears",
+   "url": "https://www.bbc.co.uk/news/articles/cvwy72e0n72yo",
+   "summary": "Article URL: https://www.bbc.co.uk/news/articles/cvwy72e0n72yo Comments URL: https://news.ycombinator.com/item?id=50306008 Points: 15 # Comments: 6",
+   "published_at": 1793376782.0,
+   "published_bj": "2026-10-31 00:13"
   },
   {
    "id": "69fa2ba4a7835fd4",
