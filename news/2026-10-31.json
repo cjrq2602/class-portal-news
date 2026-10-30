@@ -1,8 +1,44 @@
 {
  "date": "2026-10-31",
- "generated_at": 1793396146.3984485,
- "count": 42,
+ "generated_at": 1793398478.3498228,
+ "count": 46,
  "items": [
+  {
+   "id": "118f0ad4ea361546",
+   "source": "TechCrunch",
+   "title": "Intel’s stock crashes, knocking $12B from government’s stake",
+   "url": "https://techcrunch.com/2026/10/30/intels-stock-crashes-knocking-12b-from-governments-stake/",
+   "summary": "Intel is being hurt by PC sales as the AI industry gobbles memory and other components causing PC prices to rise.",
+   "published_at": 1793397274.0,
+   "published_bj": "2026-10-31 05:54"
+  },
+  {
+   "id": "920b669a974dd235",
+   "source": "TechCrunch",
+   "title": "Anthropic expected to receive high ‘junk’ rating from credit agencies following IPO, report says",
+   "url": "https://techcrunch.com/2026/10/30/anthropic-expected-to-receive-high-junk-rating-from-credit-agencies-following-ipo-report-says/",
+   "summary": "The new report says the AI lab will likely qualify for a high junk rating.",
+   "published_at": 1793397123.0,
+   "published_bj": "2026-10-31 05:52"
+  },
+  {
+   "id": "bf5aa709b8baf2d2",
+   "source": "TechCrunch",
+   "title": "Applebee’s exposed customers’ personal data after leaving database password in app",
+   "url": "https://techcrunch.com/2026/10/30/applebees-exposed-customers-personal-data-after-leaving-database-password-in-app/",
+   "summary": "EXCLUSIVE: A security researcher discovered the hardcoded credential in Applebee's app, allowing unrestricted access to customers' personal data.",
+   "published_at": 1793396933.0,
+   "published_bj": "2026-10-31 05:48"
+  },
+  {
+   "id": "21d82982b1a553f6",
+   "source": "cnBeta",
+   "title": "比特币价格一个月来首次跌破77000美元 币安事件令币圈雪上加霜",
+   "url": "https://www.cnbeta.com.tw/articles/tech/1584498.htm",
+   "summary": "比特币一个多月来首次跌破77000美元，币安遭遇创纪录黑客攻击一事引起加密货币行业震动，并再次引发有关客户资产安全性的质疑，即使是在全球最大的数字资产交易所也不例外。 阅读全文",
+   "published_at": 1793396902.0,
+   "published_bj": "2026-10-31 05:48"
+  },
   {
    "id": "6abb0cd6ad25b377",
    "source": "IT之家",
