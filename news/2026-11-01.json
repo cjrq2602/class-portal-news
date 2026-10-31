@@ -1,8 +1,17 @@
 {
  "date": "2026-11-01",
- "generated_at": 1793450251.1535518,
- "count": 1,
+ "generated_at": 1793453303.3478413,
+ "count": 2,
  "items": [
+  {
+   "id": "4891ad5e0f1b183b",
+   "source": "InfoQ中文",
+   "title": "AI 编程导师挑战低端 Android 手机！不用服务器，Python 和 SQL 直接在浏览器里运行",
+   "url": "https://www.infoq.cn/article/HHgKMMKa8BNZYQuMFSMS?utm_source=rss&utm_medium=article",
+   "summary": "点击查看原文>",
+   "published_at": 1793479385.0,
+   "published_bj": "2026-11-01 04:43"
+  },
   {
    "id": "4d7d909801ce6ba4",
    "source": "InfoQ中文",
