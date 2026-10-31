@@ -1,6 +1,6 @@
 {
  "date": "2026-10-30",
- "generated_at": 1793405463.600709,
+ "generated_at": 1793409786.0200455,
  "count": 400,
  "items": [
   {
@@ -342,6 +342,15 @@
    "title": "Cisco gives engineer unlimited AI tokens to rewrite 98% of the company's code",
    "url": "https://www.tomshardware.com/tech-industry/big-tech/cisco-gives-27-year-old-engineer-unlimited-ai-tokens-to-rewrite-98-percent-of-the-companys-legacy-code-in-24-months-president-plucks-former-startup-founder-telling-him-to-go-nuts",
    "summary": "Article URL: https://www.tomshardware.com/tech-industry/big-tech/cisco-gives-27-year-old-engineer-unlimited-ai-tokens-to-rewrite-98-percent-of-the-companys-legacy-code-in-24-months-president-plucks-former-startup-founder-telling-him-to-go-nuts Comments URL: https://news.ycombinator.com/item?id=50304",
+   "published_at": 1793369300.0,
+   "published_bj": "2026-10-30 22:08"
+  },
+  {
+   "id": "a4d3f49426c66f54",
+   "source": "Hacker News",
+   "title": "Cisco gives engineer unlimited AI tokens to rewrite legacy code",
+   "url": "https://fortune.com/2026/10/30/cisco-president-jeetu-patel-gen-z-27-year-old-unlimited-ai-tokens-rewrite-legacy-code-entry-level-jobs/",
+   "summary": "Article URL: https://fortune.com/2026/10/30/cisco-president-jeetu-patel-gen-z-27-year-old-unlimited-ai-tokens-rewrite-legacy-code-entry-level-jobs/ Comments URL: https://news.ycombinator.com/item?id=50304122 Points: 97 # Comments: 107",
    "published_at": 1793369300.0,
    "published_bj": "2026-10-30 22:08"
   },
@@ -3593,15 +3602,6 @@
    "summary": "10月30日，据路透社报道，四名知情官员透露，美国国防部正将今年8月多座美军基地冷柜异常、导致食品变质的事件，作为疑似网络攻击展开调查。美方调查人员还与法国方面取得联系，了解法国近期发生的类似冷柜攻击事件。 阅读全文",
    "published_at": 1793317100.0,
    "published_bj": "2026-10-30 07:38"
-  },
-  {
-   "id": "2ff1abb0fdfa2c08",
-   "source": "cnBeta",
-   "title": "普京称赞马斯克是“真正的天才”",
-   "url": "https://www.cnbeta.com.tw/articles/tech/1584356.htm",
-   "summary": "俄罗斯总统弗拉基米尔·普京近日公开称赞美国企业家、SpaceX首席执行官埃隆·马斯克，称其为“真正的天才”。普京此番表态的背景，是俄罗斯正在推进自主低轨卫星互联网系统的建设，而马斯克旗下的星链（Starlink）已经在全球部署了大规模卫星网络，俄罗斯目前仍处于追赶阶段。 阅读全文",
-   "published_at": 1793317035.0,
-   "published_bj": "2026-10-30 07:37"
   }
  ]
 }
