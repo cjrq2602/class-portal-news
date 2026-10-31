@@ -1,8 +1,44 @@
 {
  "date": "2026-11-01",
- "generated_at": 1793481204.9672408,
- "count": 30,
+ "generated_at": 1793483550.295167,
+ "count": 34,
  "items": [
+  {
+   "id": "ace5abddda651d85",
+   "source": "TechCrunch",
+   "title": "Apple CEO says the company doesn’t ‘want to ship AI for AI’s sake’",
+   "url": "https://techcrunch.com/2026/10/31/apple-ceo-says-the-company-doesnt-want-to-ship-ai-for-ais-sake/",
+   "summary": "Apple's new CEO defended the company's current position in the AI landscape.",
+   "published_at": 1793482860.0,
+   "published_bj": "2026-11-01 05:41"
+  },
+  {
+   "id": "a14b7ddeef6d2579",
+   "source": "TechCrunch",
+   "title": "4 days left: How TechCrunch Founder Summit helps you make more useful connections to scale",
+   "url": "https://techcrunch.com/2026/10/31/4-days-left-how-techcrunch-founder-summit-helps-you-make-more-useful-connections-to-scale/",
+   "summary": "On November 4 at Boston’s SoWa Power Station, get ready for a full day packed with meaningful networking opportunities, actionable insights, and connections that could change the trajectory of your idea and startup. Register before all prices go up at the door.",
+   "published_at": 1793482567.0,
+   "published_bj": "2026-11-01 05:36"
+  },
+  {
+   "id": "270ee6d485ce0de2",
+   "source": "TechCrunch",
+   "title": "Judge allows NAACP lawsuit over xAI data center pollution to move forward",
+   "url": "https://techcrunch.com/2026/10/31/judge-allows-naacp-lawsuit-over-xai-data-center-pollution-to-move-forward/",
+   "summary": "An NAACP lawsuit accuses the SpaceX-owned AI company of violating the Clean Air Act.",
+   "published_at": 1793481423.0,
+   "published_bj": "2026-11-01 05:17"
+  },
+  {
+   "id": "37b616f843fd8805",
+   "source": "Hacker News",
+   "title": "Anthropic takes steps to block Claude from reverse-engineering video games",
+   "url": "https://mashable.com/tech/anthropic-takes-steps-to-block-video-game-cloning-and-reverse-engineering",
+   "summary": "Article URL: https://mashable.com/tech/anthropic-takes-steps-to-block-video-game-cloning-and-reverse-engineering Comments URL: https://news.ycombinator.com/item?id=50320255 Points: 18 # Comments: 6",
+   "published_at": 1793480878.0,
+   "published_bj": "2026-11-01 05:07"
+  },
   {
    "id": "4e23013d073de59d",
    "source": "Hacker News",
