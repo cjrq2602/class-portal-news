@@ -1,7 +1,7 @@
 {
  "date": "2026-10-31",
- "generated_at": 1793473514.2064683,
- "count": 291,
+ "generated_at": 1793476342.984406,
+ "count": 292,
  "items": [
   {
    "id": "d50f1fe456bf7e3d",
@@ -362,6 +362,15 @@
    "summary": "思科总裁兼首席产品官 Jeetu Patel 在接受《财富》杂志采访时称，该公司给予一名 27 岁工程师无限 tokens 去重写遗留代码（legacy code）。27 岁的 Padmanabhan Krishnamurthy 在 2023 年联合创办了实时翻译初创公司 EzDubs，2025 年该公司被思科收购，他随后加入了思科。两人曾在旧金山办公室有过谈话，Krishnamurthy 许诺只需一个两人团队就能重写思科的遗留代码。他给自己争取了四周时间来证明这一想法，最终目标是在 24 个月内重构思科 98% 的遗留代码。",
    "published_at": 1793451581.0,
    "published_bj": "2026-10-31 20:59"
+  },
+  {
+   "id": "adefb3e967d4c7e1",
+   "source": "Hacker News",
+   "title": "Show HN: A language model that lives in a boot sector",
+   "url": "https://github.com/kerlenton/bootgpt",
+   "summary": "All the ideas came from the boot sector demo scene where people had been writing chess and BASIC games in 512 bytes, even a C compiler. I wondered what one can do using a neural network instead of a program and generating boot logs for non-existent hardware was something fun to try. Entire inference",
+   "published_at": 1793451509.0,
+   "published_bj": "2026-10-31 20:58"
   },
   {
    "id": "7e019c6b7058e311",

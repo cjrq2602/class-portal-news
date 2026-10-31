@@ -1,7 +1,7 @@
 {
  "date": "2026-11-01",
- "generated_at": 1793473514.2046673,
- "count": 16,
+ "generated_at": 1793476342.982301,
+ "count": 21,
  "items": [
   {
    "id": "4891ad5e0f1b183b",
@@ -11,6 +11,42 @@
    "summary": "点击查看原文>",
    "published_at": 1793479385.0,
    "published_bj": "2026-11-01 04:43"
+  },
+  {
+   "id": "eeb14bcc8aa17987",
+   "source": "cnBeta",
+   "title": "币安称已补回九成被盗加密资产 剩余部分将由平台承担 预计11月1日恢复提现",
+   "url": "https://www.cnbeta.com.tw/articles/tech/1584570.htm",
+   "summary": "全球最大加密货币交易平台之一币安（Binance）近日遭遇重大安全事件，黑客窃取了价值约63亿美元的用户加密资产。面对这起规模惊人的盗窃事件，币安首席执行官表示，目前被盗资金已有约90%得到补充，公司将承担全部损失，剩余部分也将继续补齐。 阅读全文",
+   "published_at": 1793473935.0,
+   "published_bj": "2026-11-01 03:12"
+  },
+  {
+   "id": "09be02123ca6c1be",
+   "source": "Hacker News",
+   "title": "The Duty of a Scholar",
+   "url": "https://www.daemonology.net/blog/2026-10-31-The-Duty-of-a-Scholar.html",
+   "summary": "Article URL: https://www.daemonology.net/blog/2026-10-31-The-Duty-of-a-Scholar.html Comments URL: https://news.ycombinator.com/item?id=50319061 Points: 20 # Comments: 2",
+   "published_at": 1793473656.0,
+   "published_bj": "2026-11-01 03:07"
+  },
+  {
+   "id": "dd0b7863506b1f0f",
+   "source": "Hacker News",
+   "title": "GPT-5.6 Sol can beat Factorio on peaceful mode",
+   "url": "https://ryanmadden.net/gpt-56-beats-factorio/",
+   "summary": "Article URL: https://ryanmadden.net/gpt-56-beats-factorio/ Comments URL: https://news.ycombinator.com/item?id=50318871 Points: 30 # Comments: 12",
+   "published_at": 1793472634.0,
+   "published_bj": "2026-11-01 02:50"
+  },
+  {
+   "id": "20c0bd1b18baabeb",
+   "source": "Hacker News",
+   "title": "It's the Memory Latency, Stupid",
+   "url": "https://pivotlake.io/blog/its-the-memory-latency-stupid/",
+   "summary": "Article URL: https://pivotlake.io/blog/its-the-memory-latency-stupid/ Comments URL: https://news.ycombinator.com/item?id=50318720 Points: 12 # Comments: 0",
+   "published_at": 1793471896.0,
+   "published_bj": "2026-11-01 02:38"
   },
   {
    "id": "482896eb8f243900",
@@ -47,6 +83,15 @@
    "summary": "Article URL: https://www.theguardian.com/politics/2026/oct/05/green-party-nuclear-power-policy Comments URL: https://news.ycombinator.com/item?id=50318189 Points: 12 # Comments: 0",
    "published_at": 1793468242.0,
    "published_bj": "2026-11-01 01:37"
+  },
+  {
+   "id": "949ff0f4bae7bb6c",
+   "source": "Hacker News",
+   "title": "Hackers hijack Egypt highway billboard and Malaysian screens to show porn",
+   "url": "https://www.cairoreport.org/p/egypt-brazil-iraq-billboard-hack",
+   "summary": "Article URL: https://www.cairoreport.org/p/egypt-brazil-iraq-billboard-hack Comments URL: https://news.ycombinator.com/item?id=50318182 Points: 19 # Comments: 9",
+   "published_at": 1793468165.0,
+   "published_bj": "2026-11-01 01:36"
   },
   {
    "id": "b4138b5094795049",
