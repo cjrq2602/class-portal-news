@@ -1,7 +1,7 @@
 {
  "date": "2026-11-01",
- "generated_at": 1793465755.5881104,
- "count": 8,
+ "generated_at": 1793467613.3247027,
+ "count": 10,
  "items": [
   {
    "id": "4891ad5e0f1b183b",
@@ -11,6 +11,24 @@
    "summary": "点击查看原文>",
    "published_at": 1793479385.0,
    "published_bj": "2026-11-01 04:43"
+  },
+  {
+   "id": "a00f29065695cf7e",
+   "source": "cnBeta",
+   "title": "Anthropic收紧Claude使用边界 禁止逆向工程复刻现有游戏",
+   "url": "https://www.cnbeta.com.tw/articles/tech/1584568.htm",
+   "summary": "近段时间以来，借助 AI 克隆游戏、逆向工程与反编译的做法愈发流行，一批游戏项目几乎在一夜之间涌现，形成了一种小规模的“家庭作坊式”产业。这些项目类型多样，既有引发争议的《堡垒之夜》与《辐射》克隆作品，也有玩家自制的游戏主机移植版本。 阅读全文",
+   "published_at": 1793466878.0,
+   "published_bj": "2026-11-01 01:14"
+  },
+  {
+   "id": "4ad0a9ef8162bfa1",
+   "source": "Hacker News",
+   "title": "Show HN: Jointter – A daily word puzzle using dots and lines",
+   "url": "https://www.jointter.com/",
+   "summary": "Hello everyone. I’m a mathematician by training, and I love mathematical and logical puzzles and brain-teasers. Inspired by popular games like Sudoku and Wordle, I decided to come up with an engaging game of my own. As it turns out, that’s not so easy! I had a few ideas, but beyond the core mechanic",
+   "published_at": 1793463864.0,
+   "published_bj": "2026-11-01 00:24"
   },
   {
    "id": "8fa229d447283a06",
