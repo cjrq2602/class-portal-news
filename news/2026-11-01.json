@@ -1,7 +1,7 @@
 {
  "date": "2026-11-01",
- "generated_at": 1793476342.982301,
- "count": 21,
+ "generated_at": 1793478396.9378183,
+ "count": 24,
  "items": [
   {
    "id": "4891ad5e0f1b183b",
@@ -11,6 +11,33 @@
    "summary": "点击查看原文>",
    "published_at": 1793479385.0,
    "published_bj": "2026-11-01 04:43"
+  },
+  {
+   "id": "d87322f224cfb79a",
+   "source": "Hacker News",
+   "title": "HackerTube: YouTube built from videos recommended by HN",
+   "url": "https://karpathy.bearblog.dev/hacker-tube/",
+   "summary": "YouTube-style UI over 6,454 videos sourced from 39,834 HN comments since 2007. https://hackertube.org/ Comments URL: https://news.ycombinator.com/item?id=50319510 Points: 11 # Comments: 3",
+   "published_at": 1793476613.0,
+   "published_bj": "2026-11-01 03:56"
+  },
+  {
+   "id": "b2c275a21cf07635",
+   "source": "Hacker News",
+   "title": "Show HN: NES Contra (1987) port (ASM –> C and then C –> WebAssembly)",
+   "url": "https://epoyraz.github.io/nes-contra-us/",
+   "summary": "Based on vermiceli's annotated disassembly of Contra: https://github.com/vermiceli/nes-contra-us . Thanks for the great work. I ported it in two steps. First to C: the game logic is translated routine by routine from the 6502 assembly, and checked frame by frame against the original in the Mesen emu",
+   "published_at": 1793474328.0,
+   "published_bj": "2026-11-01 03:18"
+  },
+  {
+   "id": "e188c594d020a0dc",
+   "source": "Hacker News",
+   "title": "TCP Use-After-Free: CVE-2026-98432 / CVSS 9.8",
+   "url": "https://atlasum.net/blog/cve-2026-98432-linux-ipv4-tcp-uaf",
+   "summary": "Article URL: https://atlasum.net/blog/cve-2026-98432-linux-ipv4-tcp-uaf Comments URL: https://news.ycombinator.com/item?id=50319143 Points: 63 # Comments: 33",
+   "published_at": 1793474190.0,
+   "published_bj": "2026-11-01 03:16"
   },
   {
    "id": "eeb14bcc8aa17987",

@@ -1,8 +1,17 @@
 {
  "date": "2026-10-31",
- "generated_at": 1793476342.984406,
- "count": 292,
+ "generated_at": 1793478396.9400063,
+ "count": 293,
  "items": [
+  {
+   "id": "0b6070e114afa29a",
+   "source": "Hacker News",
+   "title": "Show HN: A USB-C LTE modem that gives my computer a phone line",
+   "url": "https://github.com/Koppar-AI/koppar-lte-modem",
+   "summary": "Article URL: https://github.com/Koppar-AI/koppar-lte-modem Comments URL: https://news.ycombinator.com/item?id=50317331 Points: 19 # Comments: 6",
+   "published_at": 1793462201.0,
+   "published_bj": "2026-10-31 23:56"
+  },
   {
    "id": "d50f1fe456bf7e3d",
    "source": "IT之家",
