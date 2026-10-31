@@ -1,8 +1,35 @@
 {
  "date": "2026-10-31",
- "generated_at": 1793458504.2539182,
- "count": 276,
+ "generated_at": 1793460444.072188,
+ "count": 287,
  "items": [
+  {
+   "id": "60acd48c557e4e86",
+   "source": "cnBeta",
+   "title": "华纳云双11爆款清单：香港/日本轻量云246元/半年、美国CN2云4核8G 988元/年",
+   "url": "https://www.cnbeta.com.tw/articles/tech/1584564.htm",
+   "summary": "华纳云2026年双11年度促销活动现已开启，活动将持续至11月30日。本次大促全面覆盖云服务器、轻量云服务器、CN2服务器、大带宽服务器及高防服务器，旨在为出海企业及开发者提供高性价比的基础设施。 阅读全文",
+   "published_at": 1793459846.0,
+   "published_bj": "2026-10-31 23:17"
+  },
+  {
+   "id": "0612334e251d9639",
+   "source": "IT之家",
+   "title": "马斯克公布 Neuralink 脑机新产品进展：第二款产品“盲视”只待监管批准",
+   "url": "https://www.ithome.com/1/020/630.htm",
+   "summary": "IT之家 10 月 31 日消息，马斯克透露，Neuralink 第二款脑机接口设备 Blindsight（盲视）已完成工程研发，接下来只待监管部门放行。这款设备旨在帮助失明者以及从出生起就没有视觉的人 获得视觉能力 。不过，迄今尚无公开披露并得到确认的人体植入试验结果。 马斯克 30 日在 X 上发文称：“从工程研发的角度来说，设备已经准备就绪， 只等监管部门批准 。” 与 Neuralink 此前推出的首款植入设备不同，“盲视”并不是读取大脑活动并将信号传输出去，而是 反过来向大脑输入信息 。设备将摄像头获取的画面转换为信号，传递到大脑视觉皮层， 试图绕过已经受损的眼睛和视神经，让使用者获",
+   "published_at": 1793459600.0,
+   "published_bj": "2026-10-31 23:13"
+  },
+  {
+   "id": "6ec63e1d813b3ca8",
+   "source": "IT之家",
+   "title": "小鹏集团总裁王凤英：2027 年起，部分城市将设立 MONA 独立门店",
+   "url": "https://www.ithome.com/1/020/629.htm",
+   "summary": "IT之家 10 月 31 日消息，据界面新闻 10 月 30 日报道，小鹏集团总裁王凤英在 2026 巴黎车展期间表示，从 2027 年开始，部分城市将设立 MONA 的独立门店。她还提到，未来“ 不排除 MONA 品牌独立的可能性 ”。 报道提到，一线渠道端已经出现动作。北京一家小鹏汽车门店销售人员对界面新闻表示，“小鹏和 MONA 应该会分开销售，MONA 会有独立门店。新出行 CEO 贺磊称，广州市海珠区一家商场已出现待入驻的“小鹏 MONA 销售中心”。 此外，小鹏内部的产品策略也在调整。小鹏近期将 F、D、I、G 四条产品线合并为 G、D 两条产品线，I、F 并入 G 产品线， MO",
+   "published_at": 1793459310.0,
+   "published_bj": "2026-10-31 23:08"
+  },
   {
    "id": "8731b703dc5a9a17",
    "source": "InfoQ中文",
@@ -11,6 +38,24 @@
    "summary": "点击查看原文>",
    "published_at": 1793458800.0,
    "published_bj": "2026-10-31 23:00"
+  },
+  {
+   "id": "ac33e1b25901ee5c",
+   "source": "Hacker News",
+   "title": "Ex-Meta Researcher Torrented Pirated Books, Deleted It 'Due to Litigation'",
+   "url": "https://torrentfreak.com/ex-meta-researcher-torrented-pirated-books-dataset-deleted-it-due-to-all-this-litigation/",
+   "summary": "Article URL: https://torrentfreak.com/ex-meta-researcher-torrented-pirated-books-dataset-deleted-it-due-to-all-this-litigation/ Comments URL: https://news.ycombinator.com/item?id=50316760 Points: 5 # Comments: 0",
+   "published_at": 1793458653.0,
+   "published_bj": "2026-10-31 22:57"
+  },
+  {
+   "id": "76b2ddf065369318",
+   "source": "IT之家",
+   "title": "OPPO Reno17 系列官方爆料：首发 6 秒“全焦段 4K 超清长实况”",
+   "url": "https://www.ithome.com/1/020/628.htm",
+   "summary": "IT之家 10 月 31 日消息，今日，OPPO Reno 系列产品经理张若星分享 Reno17 系列全新样张，并预告新机将搭载“全焦段 4K 超清长实况”，首次将实况时长由原先 3 秒延长至 6 秒。 IT之家注意到，OPPO Reno17 系列手机、Watch 5 手表、Pad Air6 平板于 10 月 30 日开启预约 ，预计将于近期上市。此外，博主 @数码闲聊站 已爆料了 OPPO Reno17 Pro 的部分核心配置： 6.32 英寸 1.5K 分辨率、120Hz 刷新率直屏 联发科天玑 8550 SUPER 处理器 前置摄像头 5000 万像素 后置 2 亿像素大底云台主摄、50",
+   "published_at": 1793458584.0,
+   "published_bj": "2026-10-31 22:56"
   },
   {
    "id": "f7fb4e4e79585c08",
@@ -31,6 +76,33 @@
    "published_bj": "2026-10-31 22:49"
   },
   {
+   "id": "4907c719f1d52e1a",
+   "source": "cnBeta",
+   "title": "微软老员工解释Windows 11任务管理器卡顿原因：高负载下监控工具本身也会受到影响",
+   "url": "https://www.cnbeta.com.tw/articles/tech/1584562.htm",
+   "summary": "近日，微软资深工程师对部分用户长期反映的 Windows 11 任务管理器卡顿问题进行了说明。他表示，当系统处于极高 CPU 负载状态时，任务管理器自身也会受到资源竞争影响，因此出现界面刷新迟缓、响应延迟甚至短暂冻结的情况并不令人意外。 阅读全文",
+   "published_at": 1793458059.0,
+   "published_bj": "2026-10-31 22:47"
+  },
+  {
+   "id": "87ba7b70599f43a1",
+   "source": "cnBeta",
+   "title": "澳大利亚北部海域或成极危绿锯鳐最后避风港 科学家呼吁填补关键研究空白",
+   "url": "https://www.cnbeta.com.tw/articles/science/1584560.htm",
+   "summary": "一项最新研究显示，在全球范围内濒临灭绝的绿锯鳐可能正在澳大利亚北部海域找到最后的重要栖息地。研究人员通过系统梳理现有科学文献后指出，澳大利亚北部不仅保存着全球最健康、最稳定的绿锯鳐种群之一，也成为开展相关研究和保护工作的关键区域。 阅读全文",
+   "published_at": 1793457984.0,
+   "published_bj": "2026-10-31 22:46"
+  },
+  {
+   "id": "b6db92676777b5d2",
+   "source": "cnBeta",
+   "title": "科学家发现蜘蛛也会经历类似快速眼动的睡眠阶段",
+   "url": "https://www.cnbeta.com.tw/articles/science/1584558.htm",
+   "summary": "德国波恩大学的研究人员发现，蜘蛛可能拥有比人们此前认为更加复杂的睡眠机制。研究团队通过对澳大利亚一种跳蛛进行长期观察，首次获得了蜘蛛具有两种不同睡眠阶段的系统性实验依据，其中一个阶段表现出与人类快速眼动睡眠（REM）相似的特征，包括眼部移动和肌肉抽动。这项发现引出了一个有趣的问题：蜘蛛是否也会做梦？ 阅读全文",
+   "published_at": 1793457946.0,
+   "published_bj": "2026-10-31 22:45"
+  },
+  {
    "id": "e20b9be46c534c97",
    "source": "IT之家",
    "title": "国铁集团：2026 年前三季度营收 9143 亿元，净利润盈利 130 亿元",
@@ -38,6 +110,24 @@
    "summary": "IT之家 10 月 31 日消息，10 月 30 日，国铁集团披露了 2026 年前三季度财务决算。前三季度，国铁集团实现营业总收入 9143 亿元，净利润盈利 130 亿元，多项运输指标创历史同期新高。 国铁集团提到，前三季度，全国铁路累计发送旅客 37.1 亿人次、同比增长 4.8%，创历史同期新高，其中 5 月 1 日发送旅客 2484.4 万人次， 创单日旅客发送量历史新高 。 国铁集团推出系列便民利民惠民举措，在京沪高铁、京沪铁路开展火车票预约购票试点服务，常态化运行学生旅客预约购票服务，淡季周中时段给予老年旅客“折上折”票价优惠，铁路常旅客会员服务新增教师积分优惠措施， “静音车厢",
    "published_at": 1793457704.0,
    "published_bj": "2026-10-31 22:41"
+  },
+  {
+   "id": "61e8f31824907c20",
+   "source": "cnBeta",
+   "title": "苹果iPad mini 8电池容量降至4900mAh 但续航表现保持不变",
+   "url": "https://www.cnbeta.com.tw/articles/tech/1584556.htm",
+   "summary": "苹果最新发布的第八代 iPad mini 在发布会上并未公布电池毫安时容量，仅透露其电池能量为 18.9Wh。如今，随着苹果向欧盟提交的能源标签信息公开，这款设备的电池规格终于浮出水面。 阅读全文",
+   "published_at": 1793457583.0,
+   "published_bj": "2026-10-31 22:39"
+  },
+  {
+   "id": "d57ec3d9f92d4f8d",
+   "source": "cnBeta",
+   "title": "长鑫科技基于4F²架构的第六代技术平台DRAM完成工程样片验证",
+   "url": "https://www.cnbeta.com.tw/articles/tech/1584554.htm",
+   "summary": "长鑫科技在第三季度业绩交流会中表示，在4F²垂直沟道DRAM架构取得关键突破的基础之上，第六代工艺技术平台已完成工程样片的验证，这是长鑫首次宣布第六代工艺技术平台是基于4F²架构。 阅读全文",
+   "published_at": 1793457251.0,
+   "published_bj": "2026-10-31 22:34"
   },
   {
    "id": "5878a9f160c69dd1",
@@ -146,6 +236,15 @@
    "summary": "IT之家 10 月 31 日消息，SpaceX CEO 埃隆 · 马斯克在 X 上发文，祝贺 SpaceX 团队完成超过 700 次猎鹰 9 号飞行。 今日早些时候，猎鹰 9 号从加州范登堡太空军基地 SLC-4E 发射台升空，执行星链 15-18 任务，将 27 颗星链卫星送入近地轨道，一级助推器 B1093 完成第 18 次飞行后成功降落在太平洋上的无人回收船“当然我依然爱你”上，这也是猎鹰系列助推器第 675 次成功着陆。 公开报道显示，2026 年 10 月 27 日，同样从范登堡发射的星链 15-16 任务被计为猎鹰 9 号第 700 次飞行，10 月 31 日的星链 15-18 任",
    "published_at": 1793454262.0,
    "published_bj": "2026-10-31 21:44"
+  },
+  {
+   "id": "dcca422fe6a5cced",
+   "source": "Hacker News",
+   "title": "Retired professor arrested for blocking delivery robot. Will do it again",
+   "url": "https://www.cnn.com/2026/10/31/us/philadelphia-woman-delivery-robots-cec",
+   "summary": "Article URL: https://www.cnn.com/2026/10/31/us/philadelphia-woman-delivery-robots-cec Comments URL: https://news.ycombinator.com/item?id=50316103 Points: 39 # Comments: 6",
+   "published_at": 1793453997.0,
+   "published_bj": "2026-10-31 21:39"
   },
   {
    "id": "f479a9e6414c9386",
