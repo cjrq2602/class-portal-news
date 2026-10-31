@@ -1,7 +1,7 @@
 {
  "date": "2026-10-31",
- "generated_at": 1793413575.7943237,
- "count": 104,
+ "generated_at": 1793416975.4904673,
+ "count": 111,
  "items": [
   {
    "id": "827f6e72c680280e",
@@ -20,6 +20,69 @@
    "summary": "点击查看原文>",
    "published_at": 1793433600.0,
    "published_bj": "2026-10-31 16:00"
+  },
+  {
+   "id": "9203b03113df76a1",
+   "source": "IT之家",
+   "title": "告别“网页套壳”：微软完善 Win11 原生框架 WinUI 体验，减少内存占用",
+   "url": "https://www.ithome.com/1/020/443.htm",
+   "summary": "IT之家 10 月 31 日消息，科技媒体 Windows Latest 今天（10 月 31 日）发布博文，报道称微软于 10 月 27 日发布 Windows App SDK 2.6.4，进一步完善 Windows 11 原生应用框架 WinUI 体验， 规避“网页套壳”应用的内存占用问题，提升应用稳定性和兼容性，并增强 AI 功能。 IT之家附上 Windows App SDK 2.6.4 更新内容如下： 简化 Language Model API 访问：不再要求应用先解锁 Language Model Limited Access Feature (LAF) 才能使用 Language",
+   "published_at": 1793416150.0,
+   "published_bj": "2026-10-31 11:09"
+  },
+  {
+   "id": "8be31fba09457861",
+   "source": "IT之家",
+   "title": "无需安装：微软 Win11 预览版搜索联动安卓，直接串流操作手机应用",
+   "url": "https://www.ithome.com/1/020/442.htm",
+   "summary": "IT之家 10 月 31 日消息，科技媒体 Windows Latest 今天（10 月 31 日）发布博文，报道称 在 Windows 11 Build 26340.9843 等 Experimental 频道预览版中 ，微软正在测试 Windows Subsystem for Android 轻量替代方案。 IT之家注：Windows Subsystem for Android（WSA）是微软为 Windows 11 系统推出的虚拟化功能，可以在 PC 平台上运行安卓应用和游戏。该功能于 2021 年推出，此前深度绑定 Amazon Appstore，官方已于 2025 年 3 月 5 日",
+   "published_at": 1793415151.0,
+   "published_bj": "2026-10-31 10:52"
+  },
+  {
+   "id": "0469542d9d14d6c4",
+   "source": "Hacker News",
+   "title": "Tell HN: Scribd Breached",
+   "url": "https://news.ycombinator.com/item?id=50312756",
+   "summary": "Not seeing anything posted about this anywhere, received on Monday, 26th of Oct 2026: Subject: Notice of Security Incident This notice is being sent on behalf of Scribd, Inc., the parent company of Scribd, Slideshare, Everand, and Fable, by Epiq, Scribd Inc.’s notification partner. Hello, We are wri",
+   "published_at": 1793414796.0,
+   "published_bj": "2026-10-31 10:46"
+  },
+  {
+   "id": "e71f9e2f1f6f07b2",
+   "source": "IT之家",
+   "title": "新款小米 SU7 Ultra 无伪装实车曝光，消息称预计 2027 年上市",
+   "url": "https://www.ithome.com/1/020/441.htm",
+   "summary": "IT之家 10 月 31 日消息，据蓝鲸新闻从知情人士处获悉， 新款小米 SU7 Ultra 预计在 2027 年上市 。知情人士透露，新车将对外观造型进行调整升级，整套空气动力学套件全面优化，并搭载 DRS 鹅颈尾翼，相比在售版本改动幅度较大。 IT之家注意到，新款小米 SU7 Ultra 无伪装实车现已曝光。 值得一提的是，目前曝光的新款小米 SU7 Ultra 车牌为 MSU7650E。 2024 年，小米 SU7 Ultra 原型车首次征战纽北，成绩 6 分 46 秒 874 ，成为纽北全球最速四门车；2025 年，小米 SU7 Ultra 原型车以 6 分 22 秒 091 刷新纽北",
+   "published_at": 1793414740.0,
+   "published_bj": "2026-10-31 10:45"
+  },
+  {
+   "id": "08911282b06decab",
+   "source": "IT之家",
+   "title": "国内首个：新疆发现特大型锆（铪）砂矿，大幅提高我国锆矿自给能力",
+   "url": "https://www.ithome.com/1/020/440.htm",
+   "summary": "IT之家 10 月 31 日消息，据央视财经今日报道，新疆阿克苏地区拜城县发现 国内首个古河湖相锆砂矿 ，这将大幅提高我国锆矿自给能力。 2006 年至 2019 年，通过地质资料二次开发，圈定多处锆（铪）矿矿化异常和找矿靶区。 2024 年以来，聚焦锆矿成矿有利区，通过 3 年攻坚实现了锆砂矿重大找矿突破。为表彰彭宇和王海涛两名地质队员在发现该矿中作出的贡献，将其命名为“宇海锆矿”。 2026 年 9 月，经评审认定，宇海锆矿资源储量规模相当于 40 多个大型锆矿，伴生的铪矿也达到超大型规模。 新疆维吾尔自治区自然资源厅相关负责人表示，将尽快组织宇海锆矿矿业权公开出让，督促矿业权人加快增储上",
+   "published_at": 1793414709.0,
+   "published_bj": "2026-10-31 10:45"
+  },
+  {
+   "id": "5d1057ea7ca20b13",
+   "source": "IT之家",
+   "title": "苹果首款智能家居中枢 HomeView 系统前瞻：内置 20 张壁纸，配史努比动画",
+   "url": "https://www.ithome.com/1/020/439.htm",
+   "summary": "IT之家 10 月 31 日消息，科技媒体 MacRumors 今天（10 月 31 日）发布博文，报道称苹果推送 HomeView Software 27.2 更新， 让外界首次较完整地看到这款新设备的界面细节、个性化能力以及苹果为智能家居产品打造的新软件架构。 HomeView Software 27.2 将装备在苹果首款智能家居中枢 HomeView 中，该产品于 10 月初发布，计划于 11 月 13 日在美国等市场开售。该产品定位于家庭共享设备，同时可通过识别不同家庭成员的面部，在“家庭屏幕”与个人体验之间切换。 从 HomeView Software 27.2 版本看，HomeVi",
+   "published_at": 1793414013.0,
+   "published_bj": "2026-10-31 10:33"
+  },
+  {
+   "id": "b36a567aee6682e9",
+   "source": "IT之家",
+   "title": "印度自己的空间站 BAS 规划公布：模块化设计，2028 年开造",
+   "url": "https://www.ithome.com/1/020/437.htm",
+   "summary": "IT之家 10 月 31 日消息，据印度政府科技与技术部生物技术司披露的信息，在 10 月 27 日开幕的印度“新兴科学技术与创新大会”上，印度空间研究组织 Bharatiya Antariksh Station 项目（BAS 项目）主管 K. Kalpana 女士公布了印度自己的空间站 BAS 的相关规划。 BAS 规划设计为一座重 54 吨、由 5 个模块组成的空间站，轨道高度 450 公里，拥有 100 立方米适居容积，60 千瓦发电，具备通用对接能力， 将容纳 3 至 4 名长期宇航员及 3 名短期宇航员访客 。 每个模块各司其职，形成一个统一的、电学集成的轨道复合体，设计注重高容错性",
+   "published_at": 1793413659.0,
+   "published_bj": "2026-10-31 10:27"
   },
   {
    "id": "515c776428fc8ed4",
