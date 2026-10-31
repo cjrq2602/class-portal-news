@@ -1,8 +1,44 @@
 {
  "date": "2026-11-01",
- "generated_at": 1793478396.9378183,
- "count": 24,
+ "generated_at": 1793481204.9672408,
+ "count": 30,
  "items": [
+  {
+   "id": "4e23013d073de59d",
+   "source": "Hacker News",
+   "title": "Distributed Proofreaders",
+   "url": "https://www.pgdp.net/c/",
+   "summary": "Article URL: https://www.pgdp.net/c/ Comments URL: https://news.ycombinator.com/item?id=50320137 Points: 3 # Comments: 0",
+   "published_at": 1793480172.0,
+   "published_bj": "2026-11-01 04:56"
+  },
+  {
+   "id": "d51a23d80c9b17ef",
+   "source": "Hacker News",
+   "title": "With 86% of the words, you might understand only 38% of an anime's lines",
+   "url": "https://learnfromx.com/research/anime-word-coverage-vs-lines-understood",
+   "summary": "Article URL: https://learnfromx.com/research/anime-word-coverage-vs-lines-understood Comments URL: https://news.ycombinator.com/item?id=50320028 Points: 3 # Comments: 0",
+   "published_at": 1793479599.0,
+   "published_bj": "2026-11-01 04:46"
+  },
+  {
+   "id": "28105d96e5f7b2a4",
+   "source": "cnBeta",
+   "title": "科学家发现白矮星可能突破钱德拉塞卡极限 强磁场或让死星质量达到太阳的2.4倍",
+   "url": "https://www.cnbeta.com.tw/articles/science/1584572.htm",
+   "summary": "恒星耗尽核燃料后，并不一定会以壮观的超新星爆发结束生命。对于类似太阳的恒星而言，它们通常会抛掉外层物质，留下一个体积接近地球、质量却可能与太阳相当的致密核心，这就是白矮星。 阅读全文",
+   "published_at": 1793479575.0,
+   "published_bj": "2026-11-01 04:46"
+  },
+  {
+   "id": "d1008d976ca28ff9",
+   "source": "Hacker News",
+   "title": "Common Desktop Environment available now as open-source",
+   "url": "https://sourceforge.net/projects/cdesktopenv/",
+   "summary": "Article URL: https://sourceforge.net/projects/cdesktopenv/ Comments URL: https://news.ycombinator.com/item?id=50320003 Points: 15 # Comments: 7",
+   "published_at": 1793479421.0,
+   "published_bj": "2026-11-01 04:43"
+  },
   {
    "id": "4891ad5e0f1b183b",
    "source": "InfoQ中文",
@@ -13,6 +49,15 @@
    "published_bj": "2026-11-01 04:43"
   },
   {
+   "id": "a6b7e81d9c80f648",
+   "source": "Hacker News",
+   "title": "Surviving \"The Graduate\"",
+   "url": "https://www.newyorker.com/culture/the-weekend-essay/dustin-hoffman-on-surviving-the-graduate",
+   "summary": "https://archive.ph/Eqn1F Comments URL: https://news.ycombinator.com/item?id=50319563 Points: 3 # Comments: 0",
+   "published_at": 1793476926.0,
+   "published_bj": "2026-11-01 04:02"
+  },
+  {
    "id": "d87322f224cfb79a",
    "source": "Hacker News",
    "title": "HackerTube: YouTube built from videos recommended by HN",
@@ -20,6 +65,15 @@
    "summary": "YouTube-style UI over 6,454 videos sourced from 39,834 HN comments since 2007. https://hackertube.org/ Comments URL: https://news.ycombinator.com/item?id=50319510 Points: 11 # Comments: 3",
    "published_at": 1793476613.0,
    "published_bj": "2026-11-01 03:56"
+  },
+  {
+   "id": "fe013afb1a90728a",
+   "source": "Hacker News",
+   "title": "Anthropic blocks users for anything touching training larger models",
+   "url": "https://twitter.com/jiahaoshao1/status/2116475922190922088",
+   "summary": "Article URL: https://twitter.com/jiahaoshao1/status/2116475922190922088 Comments URL: https://news.ycombinator.com/item?id=50319358 Points: 34 # Comments: 4",
+   "published_at": 1793475559.0,
+   "published_bj": "2026-11-01 03:39"
   },
   {
    "id": "b2c275a21cf07635",
