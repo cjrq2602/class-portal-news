@@ -1,7 +1,7 @@
 {
  "date": "2026-10-31",
- "generated_at": 1793416975.4904673,
- "count": 111,
+ "generated_at": 1793420537.2894495,
+ "count": 122,
  "items": [
   {
    "id": "827f6e72c680280e",
@@ -20,6 +20,96 @@
    "summary": "点击查看原文>",
    "published_at": 1793433600.0,
    "published_bj": "2026-10-31 16:00"
+  },
+  {
+   "id": "b4d94fc7a8438d3f",
+   "source": "TechCrunch",
+   "title": "Pile-ins, payouts, and pacing pressure: the investors behind the VCs open up",
+   "url": "https://techcrunch.com/2026/10/30/pile-ins-payouts-and-pacing-pressure-the-investors-behind-the-vcs-open-up/",
+   "summary": "The money behind the money is thrilled, mostly.",
+   "published_at": 1793420210.0,
+   "published_bj": "2026-10-31 12:16"
+  },
+  {
+   "id": "bed35007f70fefcd",
+   "source": "IT之家",
+   "title": "罗技 MX 系列首个特别版鼠标、MX KEYPAD 国行发售，买就送腾讯 WorkBuddy 积分",
+   "url": "https://www.ithome.com/1/020/453.htm",
+   "summary": "IT之家 10 月 31 日现场消息，罗技于 10 月 30 日至 31 日在上海 C·PARK 海粟文化广场举办 2026 罗技创享日创意市集 ，开展合作交流、展示多款新品。 在线下体验环节，罗技以开放式创意市集为载体，将办公硬件、个性化软件及 AI 工具融入不同工作与生活场景，邀请消费者亲身体验工具协同带来的便利，并与合作伙伴共同交流未来办公体验与合作方向。 本次创享日，罗技围绕不同专业用户的工作需求， 重点带来 MX MASTER 4 开发者特别版、MX KEYPAD 创意工作台及 Zone Vibe Pro AI 降噪耳机 ，并展示 Mobi Fold 折叠口袋鼠标、Pebble Up",
+   "published_at": 1793419655.0,
+   "published_bj": "2026-10-31 12:07"
+  },
+  {
+   "id": "27644a3a889baec4",
+   "source": "IT之家",
+   "title": "开源装机工具 Rufus 4.16 Beta 发布：绕过影响数百万台 PC 的 UEFI NTFS 漏洞",
+   "url": "https://www.ithome.com/1/020/452.htm",
+   "summary": "IT之家 10 月 31 日消息，开源装机工具 Rufus 昨日（10 月 30 日）更新 &nbsp;4.16 Beta 版本，主要绕过了 UEFI NTFS 错误，改进了 USB 检测，并引入了其他几项增强功能。 IT之家翻译更新日志内容如下： 终于绕过了那个 愚蠢的 AMI NTFS 驱动程序缺陷 ，让运行时 UEFI 介质验证能够在 AMI 搞砸的数百万台 PC 上正常工作。 终于能够正确报告 USB 3.2+ 设备了（USB 3.2 = 20 Gbps，USB 4.0 = 40 Gbps，USB 4.1 = 80 Gbps—— 看看吧，USB 论坛，这其实真的没那么难！） 修复了在运",
+   "published_at": 1793419479.0,
+   "published_bj": "2026-10-31 12:04"
+  },
+  {
+   "id": "7aaab4920bdbe609",
+   "source": "IT之家",
+   "title": "不再“一刀切”：微软 Win11 预览版可单独管控应用摄像头、麦克风、定位权限",
+   "url": "https://www.ithome.com/1/020/451.htm",
+   "summary": "IT之家 10 月 31 日消息，微软昨日（10 月 30 日）发布博文，邀请 Windows Insider 项目成员，在 Windows 11 25H2 Beta 26220.9836，以及 Windows 11 Experimental（Future Platforms）预览版 Build 29698.1000 中， 进一步精细化应用权限管控。 根据微软官方更新日志内容，在上述 Windows 11 预览版中，微软补齐隐私能力，桌面应用现在可以按单个程序分别管理摄像头、麦克风和位置权限。 IT之家援引 NeoWin 媒体报道，传统桌面应用此前操控这类敏感权限，用户只能通过设备级总开关统一",
+   "published_at": 1793418787.0,
+   "published_bj": "2026-10-31 11:53"
+  },
+  {
+   "id": "e629cf90c50374c9",
+   "source": "IT之家",
+   "title": "工信部：2026 年前三季度我国软件业务收入 118031 亿元，同比增长 8.4%",
+   "url": "https://www.ithome.com/1/020/450.htm",
+   "summary": "IT之家 10 月 31 日消息，工信部今日发布数据，2026 年前三季度，我国软件和信息技术服务业（以下简称“软件业”）运行态势良好，软件业务收入稳健增长，利润总额增势平稳，软件业务出口保持较快增长。 2026 年前三季度，我国软件业务收入 118,031 亿元， 同比增长 8.4% 。软件业利润总额 13,300 亿元，同比增长 1.6%。软件业务出口 519.4 亿美元 （IT之家注：现汇率约合 3,464.17 亿元人民币） ，同比增长 12.2%。 软件产品收入稳定增长。前三季度，软件产品收入同比增长 5%，占全行业收入比重为 20.8%。其中，基础软件产品收入同比增长 7.8%；工",
+   "published_at": 1793418663.0,
+   "published_bj": "2026-10-31 11:51"
+  },
+  {
+   "id": "dba4263f4c2ab58b",
+   "source": "IT之家",
+   "title": "奇瑞执行副总裁戚士龙回应智界独立造车：希望更像新势力，而非“大一号”传统车企",
+   "url": "https://www.ithome.com/1/020/449.htm",
+   "summary": "IT之家 10 月 31 日消息，本月早些时候， 工信部《道路机动车辆生产企业及产品公告》（第 412 批）显示 ，安徽智界新能源汽车有限公司被列入“ 拟发布新准入车辆生产企业 ”清单，也就是将获批独立造车资质。 据新浪科技报道，在 10 月 31 日举行的三季度媒体沟通交流会上，奇瑞汽车股份有限公司执行副总裁戚士龙回应智界独立造车时表示， 希望智界团队更像新势力企业，而不是简单做成“大一号”的传统车企 。 戚士龙表示，将从组织规模化、产品高端化及品牌逐步优化等方面，提升智界独立运营能力。据悉， 智界明年还会有新产品导入，而海外业务仍由奇瑞集团独立运营 。 IT之家注意到，工信部的同一份文件中",
+   "published_at": 1793418070.0,
+   "published_bj": "2026-10-31 11:41"
+  },
+  {
+   "id": "4e21fd4a67abc7c5",
+   "source": "IT之家",
+   "title": "微软更新 Win11 26H2 26340.9843 预览版：重构搜索体验，增强 XBOX 游戏模式",
+   "url": "https://www.ithome.com/1/020/448.htm",
+   "summary": "IT之家 10 月 31 日消息，微软昨日（10 月 30 日）发布博文，邀请 Beta 和 Experimental 通道 Windows Insider 项目成员，测试适用于 Windows 11 25H2/26H2 的预览版更新。 一、Beta 频道 Windows 11 25H2 26220.9836 预览版 Beta 频道 Windows Insider 项目成员安装 Windows 11 25H2 更新后，版本号升至 Build 26220.9836 ，IT之家附上相关更新内容如下： 1.1、安全 安全密钥的 PIN 码输入界面已更新。“其他用户”图标已被移除，以提供更直观、更便捷",
+   "published_at": 1793417939.0,
+   "published_bj": "2026-10-31 11:38"
+  },
+  {
+   "id": "c20b634587a2c359",
+   "source": "IT之家",
+   "title": "我国首次载人登月任务乘组计划由三人组成，两人着陆月球表面",
+   "url": "https://www.ithome.com/1/020/447.htm",
+   "summary": "IT之家 10 月 31 日消息，第七届载人航天学术大会于今日（10 月 31 日）在北京航空航天大学举行，据《环球时报》报道，我国计划在 2030 年前实现中国人登陆月球， 将采用“两次发射，一次登月”的方式实现载人登月 。 中国载人航天工程副总设计师兼月球探测工程总设计师王翔在大会上介绍称，我国首次载人月球探测计划采用环月轨道对接飞行模式，采用两枚长征十号运载火箭，先将着陆器送往月球轨道，然后再发射载人飞船与着陆器实现交会对接，航天员进入着陆器并与载人飞船分离着陆月面，开展有关科学探测活动。 完成任务后，航天员乘坐着陆器从月面上升，在月球轨道上与载人飞船实现二次交会对接，航天员乘坐载人飞船",
+   "published_at": 1793417536.0,
+   "published_bj": "2026-10-31 11:32"
+  },
+  {
+   "id": "814e33207b9434d1",
+   "source": "IT之家",
+   "title": "微软 Win11 26H1 更新预览版：重构搜索体验，自动播放对话框支持深色主题",
+   "url": "https://www.ithome.com/1/020/445.htm",
+   "summary": "IT之家 10 月 31 日消息，微软公司今天（10 月 31 日）发布博文， 邀请 Beta 和 Experimental 通道 Windows Insider 项目成员，测试适用于 Windows 11 26H1 的预览版更新。 一、Beta 频道 Windows 11 26H1 28020.3382 预览版 Beta 频道 Windows Insider 项目成员安装 Windows 11 26H1 更新后，版本号升至 Build 28020.3382，IT之家附上相关更新内容如下： 1.1、常规 此版本包含少量小的修复和改进。 1.2、搜索 简化主搜索页面，以减少视觉干扰，并方便用户快",
+   "published_at": 1793417144.0,
+   "published_bj": "2026-10-31 11:25"
+  },
+  {
+   "id": "cddab3a08204755a",
+   "source": "IT之家",
+   "title": "Anthropic 未来“隐性债务”规模近 9000 亿美元，人类史上最大 IPO 招股文件暗藏细节",
+   "url": "https://www.ithome.com/1/020/444.htm",
+   "summary": "IT之家 10 月 31 日消息，Anthropic 近日提交 IPO 招股文件，有望成为人类史上最大 IPO。 据彭博社今日报道，招股文件显示，Anthropic 计划通过未来在服务器、建筑和电力等领域 投入近 9,000 亿美元 （IT之家注：现汇率约合 6 万亿元人民币） 债务，远超资产负债表上报告的流动负债。 根据 Anthropic 提交给美国证券交易委员会的文件信息，其资产负债表规模和健康状况显示，该公司目前包括 1,175 亿美元 （现汇率约合 7,836.74 亿元人民币） 的负债和 1,120 亿美元 （现汇率约合 7,469.91 亿元人民币） 的现金。 然而，Anthro",
+   "published_at": 1793417109.0,
+   "published_bj": "2026-10-31 11:25"
   },
   {
    "id": "9203b03113df76a1",
@@ -65,6 +155,15 @@
    "summary": "IT之家 10 月 31 日消息，据央视财经今日报道，新疆阿克苏地区拜城县发现 国内首个古河湖相锆砂矿 ，这将大幅提高我国锆矿自给能力。 2006 年至 2019 年，通过地质资料二次开发，圈定多处锆（铪）矿矿化异常和找矿靶区。 2024 年以来，聚焦锆矿成矿有利区，通过 3 年攻坚实现了锆砂矿重大找矿突破。为表彰彭宇和王海涛两名地质队员在发现该矿中作出的贡献，将其命名为“宇海锆矿”。 2026 年 9 月，经评审认定，宇海锆矿资源储量规模相当于 40 多个大型锆矿，伴生的铪矿也达到超大型规模。 新疆维吾尔自治区自然资源厅相关负责人表示，将尽快组织宇海锆矿矿业权公开出让，督促矿业权人加快增储上",
    "published_at": 1793414709.0,
    "published_bj": "2026-10-31 10:45"
+  },
+  {
+   "id": "eb2db486dcd4e2b2",
+   "source": "Hacker News",
+   "title": "Flock camera searches fell 95% after a dispatcher's misconduct was caught",
+   "url": "https://www.wkyc.com/article/news/investigations/flock-camera-searches-fall-95-percent-highland-heights-dispatcher-misconduct-caught/95-94b18f33-60e2-4bc7-a00f-d71d1e1fdd5e",
+   "summary": "Article URL: https://www.wkyc.com/article/news/investigations/flock-camera-searches-fall-95-percent-highland-heights-dispatcher-misconduct-caught/95-94b18f33-60e2-4bc7-a00f-d71d1e1fdd5e Comments URL: https://news.ycombinator.com/item?id=50312739 Points: 21 # Comments: 3",
+   "published_at": 1793414522.0,
+   "published_bj": "2026-10-31 10:42"
   },
   {
    "id": "5d1057ea7ca20b13",
