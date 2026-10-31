@@ -1,7 +1,7 @@
 {
  "date": "2026-11-01",
- "generated_at": 1793467613.3247027,
- "count": 10,
+ "generated_at": 1793470134.4797335,
+ "count": 11,
  "items": [
   {
    "id": "4891ad5e0f1b183b",
@@ -11,6 +11,15 @@
    "summary": "点击查看原文>",
    "published_at": 1793479385.0,
    "published_bj": "2026-11-01 04:43"
+  },
+  {
+   "id": "85a898aa6b857d74",
+   "source": "Hacker News",
+   "title": "UK Green party drops longstanding opposition to nuclear power",
+   "url": "https://www.theguardian.com/politics/2026/oct/05/green-party-nuclear-power-policy",
+   "summary": "Article URL: https://www.theguardian.com/politics/2026/oct/05/green-party-nuclear-power-policy Comments URL: https://news.ycombinator.com/item?id=50318189 Points: 12 # Comments: 0",
+   "published_at": 1793468242.0,
+   "published_bj": "2026-11-01 01:37"
   },
   {
    "id": "a00f29065695cf7e",
