@@ -1,8 +1,26 @@
 {
  "date": "2026-10-31",
- "generated_at": 1793460444.072188,
- "count": 287,
+ "generated_at": 1793463159.3844757,
+ "count": 290,
  "items": [
+  {
+   "id": "d50f1fe456bf7e3d",
+   "source": "IT之家",
+   "title": "AI 基建掀起军备竞赛：微软、谷歌、甲骨文等巨头承诺投入超 3 万亿美元",
+   "url": "https://www.ithome.com/1/020/632.htm",
+   "summary": "IT之家 10 月 31 日消息，据彭博社今天（31 日）凌晨报道，AI 基础设施建设仍将吸引巨额资金。Alphabet、Meta、微软、亚马逊和甲骨文五大科技巨头承诺，未来数年将在数据中心等领域投入超过 3 万亿美元 （IT之家注：现汇率约合 20.01 万亿元人民币） 。 随着数据中心建设竞赛愈演愈烈，五家公司披露的租赁、建筑、能源及设备采购承诺大幅增长。这些资金有的将在短期内支出，有的则涉及 未来数十年的长期合同 。 谷歌的支出承诺规模最大。根据 Alphabet 提交的监管文件，包括技术设备、能源和租赁在内的合同承诺总额 超过 1 万亿美元 （现汇率约合 6.67 万亿元人民币） ， ",
+   "published_at": 1793462160.0,
+   "published_bj": "2026-10-31 23:56"
+  },
+  {
+   "id": "700d575df2d06002",
+   "source": "TechCrunch",
+   "title": "From restaurant guides to payments, here’s how TikTok is building a super app",
+   "url": "https://techcrunch.com/2026/10/31/tiktoks-road-to-becoming-a-super-app/",
+   "summary": "TikTok may be working to become the app that people use for most of their digital activities.",
+   "published_at": 1793461317.0,
+   "published_bj": "2026-10-31 23:41"
+  },
   {
    "id": "60acd48c557e4e86",
    "source": "cnBeta",
@@ -146,6 +164,15 @@
    "summary": "iPhone 17 手机 256G 版官网售价 6799 元，今日京东移动自营直降至 5069.9 元。 PLUS 会员 1 积分兑换 111-11 元券、2 积分抢兑 800-80 元券： 点此兑换 兑换 11 元券后，实付 5058.9 元。 兑换 80 元券后，实付 4990 元近期自营好价。 京东 iPhone 17 256G 蹲点抢 80 元加码券 多重优惠后 5059 元 领 200 元券 京东 11.11 红包至高 26888 元无门槛可用，每天可抽一次： 点此抽取 。 京东 iPhone 17 256G 蹲点抢 80 元加码券 多重优惠后 5059 元 领 200 元券",
    "published_at": 1793457162.0,
    "published_bj": "2026-10-31 22:32"
+  },
+  {
+   "id": "f2cda4e7eb470ebc",
+   "source": "Hacker News",
+   "title": "Malware uses LLMs to rank victims by how much they're worth",
+   "url": "https://blog.talosintelligence.com/appraisal-by-ai-model-driven-victim-prioritization-in-the-volta-infostealer/",
+   "summary": "Article URL: https://blog.talosintelligence.com/appraisal-by-ai-model-driven-victim-prioritization-in-the-volta-infostealer/ Comments URL: https://news.ycombinator.com/item?id=50316531 Points: 13 # Comments: 0",
+   "published_at": 1793456943.0,
+   "published_bj": "2026-10-31 22:29"
   },
   {
    "id": "b0de3b45c437f4d0",
