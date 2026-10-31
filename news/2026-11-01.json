@@ -1,8 +1,89 @@
 {
  "date": "2026-11-01",
- "generated_at": 1793488241.9903953,
- "count": 37,
+ "generated_at": 1793490670.1053922,
+ "count": 48,
  "items": [
+  {
+   "id": "c7c64e449f2c37cb",
+   "source": "IT之家",
+   "title": "联电 CEO 王石：成熟制程明年预计将涨价约 10%",
+   "url": "https://www.ithome.com/1/020/643.htm",
+   "summary": "IT之家 11 月 1 日消息，在 10 月 28 日召开的联电（UMC）第三季度法人说明会上，联电首席执行官王石向投资者表示，因成熟制程产能利用率已突破九成且部分技术满载， 2027 年全年的综合平均销售价格 （ASP） 预计将增加约 10% ，涨势预计自 2027 年第一季度启动。 王石指出，2027 年将成为 ASP 走势的转折点，8 英寸与 12 英寸业务均有明确的价格改善空间，第一季度起有望迎来正向提升。年度价格协商目前已进入后期阶段，管理层对前景充满信心。 此外，AI 相关营收未来三年有望占联电总营收的 25%，硅光子与先进封装将成为新的增长动力。 据IT之家此前报道， 联电 20",
+   "published_at": 1793490365.0,
+   "published_bj": "2026-11-01 07:46"
+  },
+  {
+   "id": "00ecf0e095ffc48c",
+   "source": "IT之家",
+   "title": "AI 需求暴涨：英特尔火速改造多家 CPU 制造工厂，从桌面处理器改为数据中心处理器",
+   "url": "https://www.ithome.com/1/020/642.htm",
+   "summary": "IT之家 11 月 1 日消息，据 Tom's Hardware 昨日报道，尽管消费级 PC 市场正在缩小，但特尔有信心，AI 行业的需求将抵消客户端市场的下滑。 为此，英特尔正在将部分产能从客户端 CPU 重新分配给数据中心 CPU，扩展爱尔兰的 Fab 24 生产更多 Xeon 芯片，提前开始美国在亚利桑那州的 Fab 62 安装设备，并承诺生产 18A 芯片，同时在新墨西哥和马来西亚扩展先进封装能力。 英特尔 CEO 陈立武在公司财报电话会议上表示：“行业仍在经历史上最严重的供应短缺之一，这主要由对超级智能前所未有的需求推动。在这样的背景下，我对我们在第三季度服务器供应增长上的进展感到满",
+   "published_at": 1793490276.0,
+   "published_bj": "2026-11-01 07:44"
+  },
+  {
+   "id": "12e9819c9ca9ff27",
+   "source": "IT之家",
+   "title": "IT早报 1101：苹果中国官网上线 Apple 智能介绍页面；新款小米 SU7 Ultra 无伪装实车曝光；我国首次载人登月任务乘组计划由三人组成...",
+   "url": "https://www.ithome.com/1/020/641.htm",
+   "summary": "“IT早报”时间，大家好，现在是 2026 年 11 月 1 日星期日，今天的重要科技资讯有： 1. 苹果中国官网上线 Apple 智能介绍页面：首批核心功能今年稍晚推出，千问整合一体 苹果中国区官网 10 月 31 日上线了 Apple 智能的介绍页面，提示 Apple 智能的首批核心功能将于今年稍晚推出。&gt;&gt; 查看详情 2. 新款小米 SU7 Ultra 无伪装实车曝光，消息称预计 2027 年上市 知情人士透露，新车将对外观造型进行调整升级，整套空气动力学套件全面优化，并搭载 DRS 鹅颈尾翼，相比在售版本改动幅度较大。&gt;&gt; 查看详情 3. 我国首次载人登月任务乘",
+   "published_at": 1793490023.0,
+   "published_bj": "2026-11-01 07:40"
+  },
+  {
+   "id": "0dde278a1e2e8620",
+   "source": "IT之家",
+   "title": "特斯拉在海外推出全新奖励计划：车主邀请朋友体验 FSD 监督版，可获免费订阅或积分",
+   "url": "https://www.ithome.com/1/020/640.htm",
+   "summary": "IT之家 11 月 1 日消息，特斯拉最近在海外市场推出全新推荐奖励计划，车主可邀请朋友（也得是特斯拉车主）体验一个月 FSD 监督版，最终双方都能拿到免费权益。 据介绍，现有特斯拉车主可以分享自己的推荐链接，被邀请人打开后可获一个月 FSD 监督版体验权益，真正使用后，发送推荐链接的人将得到奖励。 特斯拉车主必须拥有买断版 FSD 或订阅制 FSD 才能邀请其他人。使用 FSD 一年体验的车主不符合参与条件，既不能推荐其他人，也不能获得推荐链接。发送链接的车主若订阅 FSD， 可以获得一个月免费使用时间 ， 买断用户则可以获得价值 99 美元 （IT之家注：现汇率约合 660.3 元人民币）",
+   "published_at": 1793489939.0,
+   "published_bj": "2026-11-01 07:38"
+  },
+  {
+   "id": "1f4beceeb8e4311f",
+   "source": "IT之家",
+   "title": "消息称华硕可能结束手机业务：现有产品纷纷下市，已无零售商提供报价",
+   "url": "https://www.ithome.com/1/020/639.htm",
+   "summary": "IT之家 11 月 1 日消息，据台媒经济日报消息，PC 品牌华硕今年初证实，2026 年暂无推出手机新机型的计划。 如今市场传出， 华硕手机库存到了第 4 季度已几乎销售一空 ，上周已无手机零售商（通讯行）提供报价，显示现货已经售罄，产品步入退市阶段。 根据中国台湾地区最大手机报价网站“SOGI 手机王”消息（该网站提供由品牌商、通讯门店给出的最新 3C 产品平均报价），原本市场上仍有门店刊登报价的华硕 Zenfone 12 Ultra 256GB 版本，近期已无门店提供报价，显示现货已经销售一空。 ▲ 华硕 Zenfone 12 Ultra 报道指出，随着最后一批手机库存清空，华硕手机也可",
+   "published_at": 1793489631.0,
+   "published_bj": "2026-11-01 07:33"
+  },
+  {
+   "id": "8690a4dbd03d89d0",
+   "source": "IT之家",
+   "title": "Linux Mint 系统将重新支持合盖休眠，带来全新终端和文件预览功能",
+   "url": "https://www.ithome.com/1/020/638.htm",
+   "summary": "IT之家 11 月 1 日消息，Linux Mint 是较为适合新手的热门 Linux 发行版之一，尤其适合想从 Windows 转向 Linux 的用户。然而，该系统基于 Ubuntu 打造，受制于 Ubuntu 的许多上游决策，比如之前取消休眠支持。 在 10 月 31 日的一篇关于 Linux Mint 的博客文章中，Linux Mint 开发团队表示，目前的休眠功能大多数情况下会导致虚幻的电池消耗，甚至可能导致笔记本电池在 2-3 天内耗尽。 基于这一理由， 开发团队确认已重新实现 Linux Mint 对休眠的支持 ，系统管理工具中新增了 GUI 页面，并启用了特定的睡眠模式，包括暂",
+   "published_at": 1793489422.0,
+   "published_bj": "2026-11-01 07:30"
+  },
+  {
+   "id": "05d90588e626c35b",
+   "source": "IT之家",
+   "title": "微信支付智慧经营机器人首次进店：支持迎宾、导购、点单等，基于腾讯混元打造",
+   "url": "https://www.ithome.com/1/020/637.htm",
+   "summary": "IT之家 11 月 1 日消息，10 月 29 日，广东 7-ELEVEN 第 2000 家门店在深圳腾讯总部园区开业。 当天，一台印有微信支付标识的智慧经营机器人 第一次进店“打工” ，这款机器人能推荐商品和优惠套餐，帮忙下单。选好了，再自己扫码买单。 ▲ 图源微信支付，下同 官方表示， 迎宾、导购、点单 ，智慧经营机器人分担一部分，店员就能腾出手补货、热饭、照顾现场。 IT之家获悉， 这款机器人基于腾讯混元打造 ，通过模型出色的多轮对话和 Agent 能力，辅助门店的日常销售、收款和经营。 此外，微信支付智慧经营机器人搭载了腾讯天籁 inside 音频解决方案，即使店内环境嘈杂，也能“听清",
+   "published_at": 1793488573.0,
+   "published_bj": "2026-11-01 07:16"
+  },
+  {
+   "id": "5ece841109eef0df",
+   "source": "IT之家",
+   "title": "消息称 Meta 与中国企业傅利叶打造人形机器人原型，号称 Muse 模型的物理化身",
+   "url": "https://www.ithome.com/1/020/636.htm",
+   "summary": "IT之家 11 月 1 日消息，据 The Information 昨天报道，Meta 最近与中国企业傅利叶（Fourier）合作，打造一款名为 Max 的人形机器人原型。 据介绍，这款机器人研发用时三个月，其身高接近 5 英尺 （IT之家注：约 1.5 米） ，体重约 106 磅 （约 48.1 千克） ，搭载英伟达 Thor 芯片。 Meta 首席执行官马克 · 扎克伯格将这款人形机器人 ， 视为 Muse 人工智能模型的“物理化身” ，认为它能够承担日常家务。 IT之家从原报道获悉，两家公司已在今年 9 月启动 Max 2 原型产品的研发工作。新机器人预计将重新设计躯干部分，并进行其他常",
+   "published_at": 1793488341.0,
+   "published_bj": "2026-11-01 07:12"
+  },
+  {
+   "id": "3e3d9115f5b246a1",
+   "source": "Hacker News",
+   "title": "When Electric Cars Were for Women",
+   "url": "https://spectrum.ieee.org/early-electric-vehicles",
+   "summary": "Article URL: https://spectrum.ieee.org/early-electric-vehicles Comments URL: https://news.ycombinator.com/item?id=50321130 Points: 10 # Comments: 1",
+   "published_at": 1793488092.0,
+   "published_bj": "2026-11-01 07:08"
+  },
   {
    "id": "18a3a9a3bc6e7239",
    "source": "IT之家",
@@ -29,6 +110,24 @@
    "summary": "IT之家 11 月 1 日消息，美国白宫科学与技术顾问会议主席戴维 · 奥利弗 · 萨克斯（David Oliver Sacks）最近出席 All-In 播客，深入分析 Anthropic 的 S-1 注册文件， 称这家人工智能初创公司很可能成为资本主义历史上最伟大的企业 。 Anthropic 在文件中透露，公司 2026 年上半年营收 163 亿美元 （IT之家注：现汇率约合 1,087.14 亿元人民币） ，账面现金 1,120 亿美元 （现汇率约合 7,469.91 亿元人民币） ，预计 2026 年度经常性收入达 1,000 亿美元 （现汇率约合 6,669.57 亿元人民币） 。通",
    "published_at": 1793487388.0,
    "published_bj": "2026-11-01 06:56"
+  },
+  {
+   "id": "f9485b5cffd2bf03",
+   "source": "Hacker News",
+   "title": "Memdoor: A team of 5 Qwen3.8-27B models beats Fable 5 on LiveCodeBench Hard",
+   "url": "https://github.com/guregodevo/memdoor/tree/main/examples/workflows/team-solve",
+   "summary": "Article URL: https://github.com/guregodevo/memdoor/tree/main/examples/workflows/team-solve Comments URL: https://news.ycombinator.com/item?id=50320995 Points: 10 # Comments: 1",
+   "published_at": 1793486772.0,
+   "published_bj": "2026-11-01 06:46"
+  },
+  {
+   "id": "ef4789848ac23dc8",
+   "source": "Hacker News",
+   "title": "An Italian Farmer Found Some Unknown Seeds in His Attic and Planted Them",
+   "url": "https://www.smithsonianmag.com/science-nature/italian-farmer-found-unknown-seeds-attic-with-nothing-lose-planted-them-result-biblical-180989644/",
+   "summary": "Article URL: https://www.smithsonianmag.com/science-nature/italian-farmer-found-unknown-seeds-attic-with-nothing-lose-planted-them-result-biblical-180989644/ Comments URL: https://news.ycombinator.com/item?id=50320963 Points: 35 # Comments: 7",
+   "published_at": 1793486466.0,
+   "published_bj": "2026-11-01 06:41"
   },
   {
    "id": "ace5abddda651d85",
