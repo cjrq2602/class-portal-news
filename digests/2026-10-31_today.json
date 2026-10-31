@@ -1,0 +1,378 @@
+{
+ "type": "today",
+ "date": "2026-10-31",
+ "window": {
+  "start_ts": 1793376000.0,
+  "end_ts": 1793408400.0
+ },
+ "generated_at": 1793411403.5410976,
+ "generator": "action",
+ "news_count": 81,
+ "keywords": [
+  "ai",
+  "苹果",
+  "the",
+  "apple",
+  "to",
+  "from",
+  "and",
+  "ceo",
+  "for",
+  "in"
+ ],
+ "points": [
+  {
+   "text": "【ai】The cautionary Theranos tale takes on a new significance in the AI era, ",
+   "keyword": "ai",
+   "news_ids": [
+    "69fa2ba4a7835fd4"
+   ],
+   "refs": [
+    {
+     "id": "69fa2ba4a7835fd4",
+     "title": "Theranos whistleblower Tyler Shultz warns that the AI boom is ‘a great opportunity to go deceive peo",
+     "source": "TechCrunch",
+     "url": "https://techcrunch.com/2026/10/30/theranos-whistleblower-tyler-shultz-warns-that-the-ai-boom-is-a-great-opportunity-to-go-deceive-people/",
+     "published_at": 1793376225.0
+    }
+   ]
+  },
+  {
+   "text": "【ai】IT之家 10 月 31 日消息，苹果今日（10 月 31 日）凌晨宣布 首批 Apple 智能功能即将在中国推出 ，并与阿里巴巴达成合作，在部",
+   "keyword": "ai",
+   "news_ids": [
+    "fa81db8aaae8b921"
+   ],
+   "refs": [
+    {
+     "id": "fa81db8aaae8b921",
+     "title": "阿里巴巴：苹果 Apple 智能国行用户可以自主选择是否开通千问集成功能",
+     "source": "IT之家",
+     "url": "https://www.ithome.com/1/020/395.htm",
+     "published_at": 1793401761.0
+    }
+   ]
+  },
+  {
+   "text": "【the】Article URL: https://tng",
+   "keyword": "the",
+   "news_ids": [
+    "6ef2c76d2e136c9c"
+   ],
+   "refs": [
+    {
+     "id": "6ef2c76d2e136c9c",
+     "title": "Show HN: To Honor Sir Patrick Stewart, Enjoy the TNG Episode Guessing Game",
+     "source": "Hacker News",
+     "url": "https://tng.episodle.com/",
+     "published_at": 1793404284.0
+    }
+   ]
+  },
+  {
+   "text": "【ai】IT之家 10 月 31 日消息，《连线》（Wired）昨日（10 月 30 日）发布博文，采访了苹果现任首席执行官约翰 · 特努斯（John ",
+   "keyword": "ai",
+   "news_ids": [
+    "6a7b9900d9c303d3"
+   ],
+   "refs": [
+    {
+     "id": "6a7b9900d9c303d3",
+     "title": "绝不为了 AI 而做 AI：苹果 CEO 特努斯产品宣言，AI 应隐身于体验",
+     "source": "IT之家",
+     "url": "https://www.ithome.com/1/020/409.htm",
+     "published_at": 1793406815.0
+    }
+   ]
+  },
+  {
+   "text": "【ai】Can't agree on where to eat? Zest's AI concierge can combine everyone's ",
+   "keyword": "ai",
+   "news_ids": [
+    "aceb9f3607448e01"
+   ],
+   "refs": [
+    {
+     "id": "aceb9f3607448e01",
+     "title": "Zest’s new AI agent finds restaurants and books reservations over text",
+     "source": "TechCrunch",
+     "url": "https://techcrunch.com/2026/10/30/zests-new-ai-agent-finds-restaurants-and-books-reservations-over-text/",
+     "published_at": 1793382432.0
+    }
+   ]
+  },
+  {
+   "text": "【is】Article URL: https://www",
+   "keyword": "is",
+   "news_ids": [
+    "cd2ed72c0b1f8da9"
+   ],
+   "refs": [
+    {
+     "id": "cd2ed72c0b1f8da9",
+     "title": "France is getting download tax for content providers (€0.055/GB)",
+     "source": "Hacker News",
+     "url": "https://www.resetera.com/threads/france-is-getting-download-tax-for-content-providers-%E2%82%AC0-055-gb-for-data-delivered-to-french-users.1675109/",
+     "published_at": 1793398212.0
+    }
+   ]
+  },
+  {
+   "text": "IT之家 10 月 31 日消息，据 scitechdaily 今日报道，一项临床试验发现，一种在 2 型糖尿病患者肌肉中异常高含量的蛋白质，可",
+   "keyword": "",
+   "news_ids": [
+    "3fb504c54a8fe9f2"
+   ],
+   "refs": [
+    {
+     "id": "3fb504c54a8fe9f2",
+     "title": "科学家发现治疗 2 型糖尿病新靶点，找到胰岛素抵抗关键影响因素",
+     "source": "IT之家",
+     "url": "https://www.ithome.com/1/020/411.htm",
+     "published_at": 1793407436.0
+    }
+   ]
+  },
+  {
+   "text": "IT之家 10 月 31 日消息，吉利银河官方今日发布公告，近期收到很多关于 2025 款银河星舰 7 车机芯片的反馈，官方认真复盘后带来一份说",
+   "keyword": "",
+   "news_ids": [
+    "e3d13235f2c6ced5"
+   ],
+   "refs": [
+    {
+     "id": "e3d13235f2c6ced5",
+     "title": "吉利银河：针对部分 2025 款银河星舰 7 车主升级座舱平台需求，已启动专项技术评估",
+     "source": "IT之家",
+     "url": "https://www.ithome.com/1/020/407.htm",
+     "published_at": 1793406396.0
+    }
+   ]
+  },
+  {
+   "text": "IT之家 10 月 31 日消息，Wine 项目于 10 月 30 日发布了 Wine 11.21 更新",
+   "keyword": "",
+   "news_ids": [
+    "1327d32b8ce49ad2"
+   ],
+   "refs": [
+    {
+     "id": "1327d32b8ce49ad2",
+     "title": "开源兼容层 Wine 11.21 发布：Linux 上玩《上古卷轴 5：天际》等游戏更流畅",
+     "source": "IT之家",
+     "url": "https://www.ithome.com/1/020/405.htm",
+     "published_at": 1793405457.0
+    }
+   ]
+  },
+  {
+   "text": "Article URL: https://openai",
+   "keyword": "",
+   "news_ids": [
+    "bd126f03520fc3ad"
+   ],
+   "refs": [
+    {
+     "id": "bd126f03520fc3ad",
+     "title": "Fair Use Benefits Everyone",
+     "source": "Hacker News",
+     "url": "https://openai.com/index/fair-use-benefits-everyone/",
+     "published_at": 1793403235.0
+    }
+   ]
+  },
+  {
+   "text": "IT之家 10 月 31 日消息，OpenAI 于当地时间 10 月 30 日发布博文表示，维护社区安全始终是 OpenAI 的重中之重",
+   "keyword": "",
+   "news_ids": [
+    "a066b06eef09180f"
+   ],
+   "refs": [
+    {
+     "id": "a066b06eef09180f",
+     "title": "OpenAI 称 ChatGPT 可自动终止表现出暴力执念的对话，并承诺定期发布社区安全报告",
+     "source": "IT之家",
+     "url": "https://www.ithome.com/1/020/394.htm",
+     "published_at": 1793401749.0
+    }
+   ]
+  },
+  {
+   "text": "IT之家 10 月 31 日消息，据央视财经报道， 自 2026 年 11 月 5 日起，调整国内航线旅客运输燃油附加费征收标准",
+   "keyword": "",
+   "news_ids": [
+    "ad106ecd307adc7a"
+   ],
+   "refs": [
+    {
+     "id": "ad106ecd307adc7a",
+     "title": "11 月 5 日起国内航线燃油附加费上调：800 公里及以下上涨 30 元，800 公里以上涨 50 元",
+     "source": "IT之家",
+     "url": "https://www.ithome.com/1/020/391.htm",
+     "published_at": 1793400039.0
+    }
+   ]
+  },
+  {
+   "text": "Article URL: https://status",
+   "keyword": "",
+   "news_ids": [
+    "e4c829e4c12fbc29"
+   ],
+   "refs": [
+    {
+     "id": "e4c829e4c12fbc29",
+     "title": "Linode Security Incident",
+     "source": "Hacker News",
+     "url": "https://status.linode.com/incidents/nt58zhx3pmgm",
+     "published_at": 1793397460.0
+    }
+   ]
+  },
+  {
+   "text": "IT之家 10 月 31 日消息，米哈游《崩坏 3》爱莉希雅 · 霁月婵娟高保真蓝牙耳机礼盒今日正式开售，官方标价 499 元",
+   "keyword": "",
+   "news_ids": [
+    "6abb0cd6ad25b377"
+   ],
+   "refs": [
+    {
+     "id": "6abb0cd6ad25b377",
+     "title": "米哈游《崩坏 3》爱莉希雅 · 霁月婵娟高保真蓝牙耳机礼盒开售，499 元",
+     "source": "IT之家",
+     "url": "https://www.ithome.com/1/020/390.htm",
+     "published_at": 1793395812.0
+    }
+   ]
+  },
+  {
+   "text": "27 岁程序员获无限 Token，挑战两个月重写思科 98% 的遗留代码",
+   "keyword": "",
+   "news_ids": [
+    "ad7f294550ed9c52"
+   ],
+   "refs": [
+    {
+     "id": "ad7f294550ed9c52",
+     "title": "27 岁程序员获无限 Token，挑战两个月重写思科 98% 的遗留代码",
+     "source": "InfoQ中文",
+     "url": "https://www.infoq.cn/article/C9FJGQ0ptRp8F8kHRRdZ?utm_source=rss&utm_medium=article",
+     "published_at": 1793394000.0
+    }
+   ]
+  }
+ ],
+ "article": {
+  "title": "2026-10-31 新闻总结",
+  "paragraphs": [
+   {
+    "kind": "lead",
+    "text": "今天共收录 81 条新闻，来自 5 家媒体。把标题放在一起看，讨论主要集中在 AI、全球、功能 这几个方向上，其余消息更像是零散补充。"
+   },
+   {
+    "kind": "section",
+    "heading": "功能",
+    "text": "先看「功能」。IT之家 10 月 31 日消息，苹果今日（10 月 31 日）凌晨宣布 首批 Apple 智能功能即将在中国推出 ，并与阿里巴巴达成合作，另有 11 条消息指向同一话题。技术路线的胜负很少由一次发布会决定，接下来要看的是它能不能被更多团队低成本复用。",
+    "news_ids": [
+     "fa81db8aaae8b921"
+    ],
+    "refs": [
+     {
+      "id": "fa81db8aaae8b921",
+      "title": "阿里巴巴：苹果 Apple 智能国行用户可以自主选择是否开通千问集成功能",
+      "source": "IT之家",
+      "url": "https://www.ithome.com/1/020/395.htm",
+      "published_at": 1793401761.0
+     }
+    ]
+   },
+   {
+    "kind": "section",
+    "heading": "AI",
+    "text": "与此同时「AI」。IT之家 10 月 31 日消息，《连线》（Wired）昨日（10 月 30 日）发布博文，采访了苹果现任首席执行官约翰 · 特努斯（John Ternus），另有 16 条消息指向同一话题。这类进展更像是把已有能力往工程化落地推了一步，真正的分水岭在于成本和可靠性能不能同时压下来。",
+    "news_ids": [
+     "6a7b9900d9c303d3"
+    ],
+    "refs": [
+     {
+      "id": "6a7b9900d9c303d3",
+      "title": "绝不为了 AI 而做 AI：苹果 CEO 特努斯产品宣言，AI 应隐身于体验",
+      "source": "IT之家",
+      "url": "https://www.ithome.com/1/020/409.htm",
+      "published_at": 1793406815.0
+     }
+    ]
+   },
+   {
+    "kind": "section",
+    "heading": "Anthropic Claude",
+    "text": "另一个值得注意的方向是「Anthropic Claude」。IT之家 10 月 31 日消息，Anthropic 调整了 Claude 针对个人消费者的付费套餐命名，另有 5 条消息指向同一话题。价格和生态往往比硬件规格更能决定一款产品能不能留下来。",
+    "news_ids": [
+     "41cf00caf0c54d28"
+    ],
+    "refs": [
+     {
+      "id": "41cf00caf0c54d28",
+      "title": "Anthropic Claude Max 20x 订阅更名 Ultra，已验证账户无五小时限制",
+      "source": "IT之家",
+      "url": "https://www.ithome.com/1/020/398.htm",
+      "published_at": 1793402801.0
+     }
+    ]
+   },
+   {
+    "kind": "section",
+    "heading": "游戏",
+    "text": "相比之下「游戏」。IT之家 10 月 31 日消息，宏碁 (Acer) 现已开始销售掠夺者 · 战斧 9 Neo 游戏笔记本电脑的英特尔酷睿 i7-14650HX 处理器 + NVIDIA GeFo…，另有 5 条消息指向同一话题。单看一条新闻容易高估影响，放到最近几周的脉络里，它更像是一个渐进变化中的节点。",
+    "news_ids": [
+     "e3a9d9c46d9e64b0"
+    ],
+    "refs": [
+     {
+      "id": "e3a9d9c46d9e64b0",
+      "title": "宏碁掠夺者 · 战斧 9 Neo 游戏本 14650HX + 5070 12GB 配置发售，12999 元",
+      "source": "IT之家",
+      "url": "https://www.ithome.com/1/020/410.htm",
+      "published_at": 1793407157.0
+     }
+    ]
+   },
+   {
+    "kind": "glossary",
+    "items": [
+     {
+      "term": "AI",
+      "desc": "人工智能，让机器完成识别、生成、判断等原本需要人做的任务"
+     },
+     {
+      "term": "IPO",
+      "desc": "首次公开募股，公司第一次把股票卖给公众并上市"
+     },
+     {
+      "term": "Agent",
+      "desc": "智能体，能自己拆解任务、调用工具并连续执行的 AI 程序"
+     },
+     {
+      "term": "数据中心",
+      "desc": "集中放置服务器、供电与散热设施的大型机房"
+     },
+     {
+      "term": "开源",
+      "desc": "源代码公开，允许他人查看、修改并再分发"
+     }
+    ]
+   },
+   {
+    "kind": "outlook",
+    "text": "把这几条放在一起看，最值得跟踪的是 AI 和 全球 两条线：一条决定技术能走多远，一条决定它多快能落到普通人的日常里。至于其他消息，可以先放进观察名单，等后续有更实的进展再判断。"
+   }
+  ],
+  "word_count": 720
+ },
+ "ai_enhanced": false,
+ "schema": 1,
+ "window_bj": {
+  "start": "2026-10-31 00:00",
+  "end": "2026-10-31 09:00"
+ }
+}
