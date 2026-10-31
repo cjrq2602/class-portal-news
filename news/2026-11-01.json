@@ -1,7 +1,7 @@
 {
  "date": "2026-11-01",
- "generated_at": 1793463159.382875,
- "count": 2,
+ "generated_at": 1793464208.254546,
+ "count": 4,
  "items": [
   {
    "id": "4891ad5e0f1b183b",
@@ -20,6 +20,24 @@
    "summary": "点击查看原文>",
    "published_at": 1793463346.0,
    "published_bj": "2026-11-01 00:15"
+  },
+  {
+   "id": "1782de26b38a5c47",
+   "source": "TechCrunch",
+   "title": "OpenAI reportedly lowers funding target for new round",
+   "url": "https://techcrunch.com/2026/10/31/openai-reportedly-lowers-funding-target-for-new-round/",
+   "summary": "OpenAI’s latest funding round doesn't seem to be living up to expectations.",
+   "published_at": 1793463175.0,
+   "published_bj": "2026-11-01 00:12"
+  },
+  {
+   "id": "b838fa3d8878f57c",
+   "source": "cnBeta",
+   "title": "英特尔将18A产能从Panther Lake转向至强服务器芯片以缓解供应紧张",
+   "url": "https://www.cnbeta.com.tw/articles/tech/1584566.htm",
+   "summary": "英特尔正把部分制造产能从消费级芯片上转移出来，以满足其至强（Xeon）服务器处理器的需求。在2026年第三季度财报电话会议上，公司表示将把俄勒冈州工厂的部分Intel 18A资源转换为Intel 3工艺，后者正是至强6“Granite Rapids”所采用的制程节点。 阅读全文",
+   "published_at": 1793462785.0,
+   "published_bj": "2026-11-01 00:06"
   }
  ]
 }
