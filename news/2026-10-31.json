@@ -1,8 +1,107 @@
 {
  "date": "2026-10-31",
- "generated_at": 1793402873.710323,
- "count": 61,
+ "generated_at": 1793405463.5961473,
+ "count": 73,
  "items": [
+  {
+   "id": "198c6dff76998ffc",
+   "source": "InfoQ中文",
+   "title": "终于不是 AI 了：Lambda 直接运行 Express，API Gateway 还需要吗？",
+   "url": "https://www.infoq.cn/article/fcdAAd69U452t9b39rLU?utm_source=rss&utm_medium=article",
+   "summary": "点击查看原文>",
+   "published_at": 1793433600.0,
+   "published_bj": "2026-10-31 16:00"
+  },
+  {
+   "id": "1327d32b8ce49ad2",
+   "source": "IT之家",
+   "title": "开源兼容层 Wine 11.21 发布：Linux 上玩《上古卷轴 5：天际》等游戏更流畅",
+   "url": "https://www.ithome.com/1/020/405.htm",
+   "summary": "IT之家 10 月 31 日消息，Wine 项目于 10 月 30 日发布了 Wine 11.21 更新。作为在 Linux 及其他类 Unix 系统上运行 Windows 应用和游戏的兼容层， 本次更新重点提升了 WoW64 模式下的 OpenGL 性能，并修复了 20 个影响游戏和常规应用的错误。 最受关注的改进来自 map_buffer_client_pointer 扩展支持。它主要优化在 Wine 64 位环境中运行 32 位 Windows 程序时的图形表现，意味着部分老游戏和旧软件在 Linux 上有望获得更流畅的画面体验。 音频方面，Wine 11.21 引入了 Voice Ca",
+   "published_at": 1793405457.0,
+   "published_bj": "2026-10-31 08:10"
+  },
+  {
+   "id": "044773a655cbd87b",
+   "source": "IT之家",
+   "title": "苹果收盘市值再度反超英伟达，重夺全球市值最高上市公司",
+   "url": "https://www.ithome.com/1/020/404.htm",
+   "summary": "IT之家 10 月 31 日消息，在美国当地时间 10 月 30 日 16 点（北京时间 10 月 31 日凌晨 4 点）股市收盘后，苹果公司市值为 5.03 万亿美元 （现汇率约合 33.58 万亿元人民币） ，收盘后市值再度反超英伟达（4.93 万亿美元 （现汇率约合 32.92 万亿元人民币） ），重回全球市值最高上市公司。 IT之家注：在当地 10 月 30 日美股收盘后，苹果公司收盘股价下降 1.2%，而英伟达收盘股价下降 4.2%。虽然苹果股价同样下跌，但跌幅远小于英伟达，因此市值排名发生反超。这也是苹果自今年 7 月底短暂超过英伟达以来，首次重新登顶。 苹果公司于 2026 年 ",
+   "published_at": 1793405024.0,
+   "published_bj": "2026-10-31 08:03"
+  },
+  {
+   "id": "9e03cebde2a604bf",
+   "source": "IT之家",
+   "title": "全球首例，美国一公司完成在人体内直接编辑 DNA 试验",
+   "url": "https://www.ithome.com/1/020/403.htm",
+   "summary": "IT之家 10 月 31 日消息，美国生物技术公司先导医药（Prime Medicine）10 月初宣布，已利用先导编辑技术， 全球首次在人体内直接编辑 DNA ，治疗一名威尔逊病患者。首批临床试验结果预计 2027 年公布。 IT之家注：威尔逊病是一种常染色体隐性遗传的铜代谢障碍病，核心问题是身体排不出多余的铜，导致铜沉积在肝脏、大脑、角膜等部位。目前的药物治疗具有非治愈性，需要终身治疗。肝移植是目前唯一的治愈选择，但受限于器官供应，且存在较高的手术风险。 在一项针对威尔逊病的全球临床试验中，该团队为参与者 直接重写肝细胞中的 DNA 。首位患者本月初接受了试验，但安全性和效果的检测结果预计",
+   "published_at": 1793404352.0,
+   "published_bj": "2026-10-31 07:52"
+  },
+  {
+   "id": "2200530fce072e49",
+   "source": "IT之家",
+   "title": "谷歌宣布达成“Hello World”里程碑：在轨运行的数据中心级 TPU 首次给出 AI 响应，生成了一首俳句",
+   "url": "https://www.ithome.com/1/020/402.htm",
+   "summary": "IT之家 10 月 31 日消息，当地时间 10 月 1 日，谷歌成功发射了“逐日者计划”（Project Suncatcher）的原型卫星。此后数周，团队逐步完成了在轨测试与调试清单，其中包括为主机与 TPU 托盘通电，并顺利完成了早期的机器学习测试。 当地时间 10 月 30 日，谷歌宣布达成了“Hello World”里程碑： 在轨运行的数据中心级 TPU 首次给出了 AI 响应 。 本周地面工程师下发首个提示词时，要求预装在卫星上的谷歌 DeepMind 模型 Gemma 4 创作一首关于身处太空的俳句。模型作答如下： Blue marble below Data streams in",
+   "published_at": 1793404307.0,
+   "published_bj": "2026-10-31 07:51"
+  },
+  {
+   "id": "6ef2c76d2e136c9c",
+   "source": "Hacker News",
+   "title": "Show HN: To Honor Sir Patrick Stewart, Enjoy the TNG Episode Guessing Game",
+   "url": "https://tng.episodle.com/",
+   "summary": "Article URL: https://tng.episodle.com/ Comments URL: https://news.ycombinator.com/item?id=50311686 Points: 3 # Comments: 0",
+   "published_at": 1793404284.0,
+   "published_bj": "2026-10-31 07:51"
+  },
+  {
+   "id": "e8da0afa4f54476d",
+   "source": "IT之家",
+   "title": "IT早报 1031：Apple 智能官宣入华；华为 Mate 60 Pro 处理器官方首次“揭秘”；《影之刃零》媒体评分超《黑神话：悟空》；小米 17 亿入股欣旺达动力...",
+   "url": "https://www.ithome.com/1/020/401.htm",
+   "summary": "“IT早报”时间，大家好，现在是 2026 年 10 月 31 日星期六，今天的重要科技资讯有： 1. 苹果 Apple 智能国行版官宣落地：接入阿里千问，11 月 4 日随 iOS 开发者 Beta 版开放测试 苹果宣布首批 Apple 智能功能将于 11 月 4 日起随 iOS 开发者 Beta 版在中国开放测试，12 月随 iOS 27.3 正式推送，并携手阿里巴巴将千问接入 Siri、写作工具与视觉智能。&gt;&gt; 查看详情 2. 华为 Mate 60 Pro 处理器型号官方首次“揭秘”，搭载麒麟 9000S 与 30、40、50、90“同台竞技” 在华为介绍 Mate 90 系",
+   "published_at": 1793404242.0,
+   "published_bj": "2026-10-31 07:50"
+  },
+  {
+   "id": "5657986307941299",
+   "source": "IT之家",
+   "title": "不是字节跳动：联发科拿下第二家 AI 芯片大客户，2028 年量产",
+   "url": "https://www.ithome.com/1/020/400.htm",
+   "summary": "IT之家 10 月 31 日消息，昨日（10 月 30 日）召开的 2026 年第三季度（7~9 月）财报电话会上，联发科（MediaTek）确认已获得第二家人工智能专用集成电路（AI ASIC）客户（官方暂未公布），预计该项目将于 2028 年进入量产并开始贡献营收。 IT之家查询公开资料，联发科的第一家 AI 专用集成电路（AI ASIC）客户是谷歌。其合作主要围绕 Google 的 TPU（Tensor Processing Unit）AI 加速器；联发科首款数据中心 AI 加速器已于 2026 年 9 月开始小量出货。 针对市场猜测其第二家人工智能 ASIC 芯片客户是字节跳动 ， 联",
+   "published_at": 1793403347.0,
+   "published_bj": "2026-10-31 07:35"
+  },
+  {
+   "id": "f73f3810883cc16f",
+   "source": "cnBeta",
+   "title": "Apple Intelligence 即将登陆中国：实时翻译、千问整合等首批功能11月开启测试",
+   "url": "https://www.cnbeta.com.tw/articles/tech/1584500.htm",
+   "summary": "苹果公司10月31日宣布，面向中国用户的首批 Apple Intelligence 功能即将上线。作为深度融入 iPhone 日常体验的人工智能系统，Apple Intelligence 将通过生成式模型能力帮助用户完成写作、沟通、创作和信息处理等任务。首批功能计划于11月4日随最新 iOS 开发者测试版本开放体验，并在12月伴随 iOS 27.3 正式版向中国用户推出，其他平台的相关支持将在完成必要审批后陆续上线。 阅读全文",
+   "published_at": 1793403307.0,
+   "published_bj": "2026-10-31 07:35"
+  },
+  {
+   "id": "bd126f03520fc3ad",
+   "source": "Hacker News",
+   "title": "Fair Use Benefits Everyone",
+   "url": "https://openai.com/index/fair-use-benefits-everyone/",
+   "summary": "Article URL: https://openai.com/index/fair-use-benefits-everyone/ Comments URL: https://news.ycombinator.com/item?id=50311537 Points: 9 # Comments: 8",
+   "published_at": 1793403235.0,
+   "published_bj": "2026-10-31 07:33"
+  },
+  {
+   "id": "afbff169eea0e1a6",
+   "source": "IT之家",
+   "title": "把空气“冷冻”起来存电能：我国液态空气储能重大突破，全球最大规模、百分百国产",
+   "url": "https://www.ithome.com/1/020/399.htm",
+   "summary": "IT之家 10 月 31 日消息，据央视新闻今日报道， 全球最大规模 60 兆瓦液态空气储能国家示范项目 成功并网发电，实现液态空气储能技术工程化、商业化落地的重大突破。 该液态空气储能项目位于青海省格尔木市，总规模 6 万千瓦，每天可助力 60 万度清洁能源消纳， 全年输电量约达 1.8 亿度，满足 3 万户家庭一年的用电需求 。 项目采用-194℃ 超低温深冷液化核心工艺，以空气作为工质， 在常压超低温条件下实现电能与冷能的存储与释放 ，兼具大规模、长时效、长寿命等优势。 中国绿发储能公司总工程师季伟： 项目设备国产化率达到了百分之百 ，储能功率和容量均居世界首位，多项核心指标达到世界领先",
+   "published_at": 1793403183.0,
+   "published_bj": "2026-10-31 07:33"
+  },
   {
    "id": "41cf00caf0c54d28",
    "source": "IT之家",
@@ -56,6 +155,15 @@
    "summary": "IT之家 10 月 31 日消息，OpenAI 于当地时间 10 月 30 日发布博文表示，维护社区安全始终是 OpenAI 的重中之重。其日常工作包括主动向执法机关通报迫在眉睫的暴力威胁。仅在 2026 年第三季度，OpenAI 就向执法部门移交了 200 余起案件线索。 OpenAI 承诺定期发布《社区安全报告》 （Community Safety Report），系统公开在暴力预防、其他社区安全议题以及各项防护机制实际成效方面的进展。 首期报告将于 2027 年初正式发布 ，涵盖 2026 年下半年的安全数据，此后每半年更新一次。 IT之家获悉，OpenAI 针对 ChatGPT 如何回",
    "published_at": 1793401749.0,
    "published_bj": "2026-10-31 07:09"
+  },
+  {
+   "id": "9d925f8a0ee79190",
+   "source": "Hacker News",
+   "title": "Anthropic to receive high 'junk' rating from credit agencies following IPO",
+   "url": "https://techcrunch.com/2026/10/30/anthropic-expected-to-receive-high-junk-rating-from-credit-agencies-following-ipo-report-says/",
+   "summary": "Article URL: https://techcrunch.com/2026/10/30/anthropic-expected-to-receive-high-junk-rating-from-credit-agencies-following-ipo-report-says/ Comments URL: https://news.ycombinator.com/item?id=50311311 Points: 15 # Comments: 3",
+   "published_at": 1793401692.0,
+   "published_bj": "2026-10-31 07:08"
   },
   {
    "id": "2259d8a560d585ff",
