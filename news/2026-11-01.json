@@ -1,7 +1,7 @@
 {
  "date": "2026-11-01",
- "generated_at": 1793464208.254546,
- "count": 4,
+ "generated_at": 1793465755.5881104,
+ "count": 8,
  "items": [
   {
    "id": "4891ad5e0f1b183b",
@@ -11,6 +11,24 @@
    "summary": "点击查看原文>",
    "published_at": 1793479385.0,
    "published_bj": "2026-11-01 04:43"
+  },
+  {
+   "id": "8fa229d447283a06",
+   "source": "Hacker News",
+   "title": "Enlightenment 0.28 Released with Many Improvements",
+   "url": "https://www.phoronix.com/news/Enlightenment-0.28",
+   "summary": "Article URL: https://www.phoronix.com/news/Enlightenment-0.28 Comments URL: https://news.ycombinator.com/item?id=50317534 Points: 7 # Comments: 2",
+   "published_at": 1793463746.0,
+   "published_bj": "2026-11-01 00:22"
+  },
+  {
+   "id": "708130d002cef189",
+   "source": "Hacker News",
+   "title": "A/SIDE – Private photo sharing and encrypted messages",
+   "url": "https://a-side.social/",
+   "summary": "Article URL: https://a-side.social/ Comments URL: https://news.ycombinator.com/item?id=50317484 Points: 3 # Comments: 0",
+   "published_at": 1793463380.0,
+   "published_bj": "2026-11-01 00:16"
   },
   {
    "id": "4d7d909801ce6ba4",
@@ -31,6 +49,15 @@
    "published_bj": "2026-11-01 00:12"
   },
   {
+   "id": "39743d8ec5b23f81",
+   "source": "Hacker News",
+   "title": "What is a light-day? The milestone Voyager 1 is closing in on",
+   "url": "https://science.nasa.gov/mission/voyager/voyager-1/voyager-1-what-is-a-light-day/",
+   "summary": "Article URL: https://science.nasa.gov/mission/voyager/voyager-1/voyager-1-what-is-a-light-day/ Comments URL: https://news.ycombinator.com/item?id=50317429 Points: 13 # Comments: 0",
+   "published_at": 1793462995.0,
+   "published_bj": "2026-11-01 00:09"
+  },
+  {
    "id": "b838fa3d8878f57c",
    "source": "cnBeta",
    "title": "英特尔将18A产能从Panther Lake转向至强服务器芯片以缓解供应紧张",
@@ -38,6 +65,15 @@
    "summary": "英特尔正把部分制造产能从消费级芯片上转移出来，以满足其至强（Xeon）服务器处理器的需求。在2026年第三季度财报电话会议上，公司表示将把俄勒冈州工厂的部分Intel 18A资源转换为Intel 3工艺，后者正是至强6“Granite Rapids”所采用的制程节点。 阅读全文",
    "published_at": 1793462785.0,
    "published_bj": "2026-11-01 00:06"
+  },
+  {
+   "id": "da9ec5ef1dfe1577",
+   "source": "Hacker News",
+   "title": "Casio Watches of the 1980s",
+   "url": "https://www.casio.com/us/watches/50th/Heritage/1980s/",
+   "summary": "Article URL: https://www.casio.com/us/watches/50th/Heritage/1980s/ Comments URL: https://news.ycombinator.com/item?id=50317363 Points: 29 # Comments: 6",
+   "published_at": 1793462448.0,
+   "published_bj": "2026-11-01 00:00"
   }
  ]
 }

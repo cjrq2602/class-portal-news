@@ -1,7 +1,7 @@
 {
  "date": "2026-10-31",
- "generated_at": 1793464208.2562525,
- "count": 290,
+ "generated_at": 1793465755.5901363,
+ "count": 291,
  "items": [
   {
    "id": "d50f1fe456bf7e3d",
@@ -271,6 +271,15 @@
    "url": "https://www.cnn.com/2026/10/31/us/philadelphia-woman-delivery-robots-cec",
    "summary": "Article URL: https://www.cnn.com/2026/10/31/us/philadelphia-woman-delivery-robots-cec Comments URL: https://news.ycombinator.com/item?id=50316103 Points: 39 # Comments: 6",
    "published_at": 1793453997.0,
+   "published_bj": "2026-10-31 21:39"
+  },
+  {
+   "id": "a3350a54ba3a76bc",
+   "source": "Hacker News",
+   "title": "Jepsen: ParticleDB 1.1.4",
+   "url": "https://jepsen.io/analyses/particledb-1.1.4",
+   "summary": "Article URL: https://jepsen.io/analyses/particledb-1.1.4 Comments URL: https://news.ycombinator.com/item?id=50316100 Points: 11 # Comments: 3",
+   "published_at": 1793453992.0,
    "published_bj": "2026-10-31 21:39"
   },
   {
