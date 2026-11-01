@@ -1,8 +1,44 @@
 {
  "date": "2026-11-02",
- "generated_at": 1793573602.654665,
- "count": 31,
+ "generated_at": 1793575719.5065618,
+ "count": 37,
  "items": [
+  {
+   "id": "775dafc63d1c5e16",
+   "source": "IT之家",
+   "title": "补齐湖南境内“最后一块拼图”，全长约 2803 公里的呼北高速实现全线贯通",
+   "url": "https://www.ithome.com/1/020/847.htm",
+   "summary": "IT之家 11 月 2 日消息，据新华网报道，呼和浩特至北海高速公路张家界至高坪段 11 月 1 日通车试运营。补齐湖南境内“最后一块拼图”后， 全长约 2803 公里的呼北高速实现全线贯通 。 据介绍，本次通车路段穿行武陵山区，起于张家界市永定区，止于怀化市沅陵县清浪乡高坪村， 全长 57.437 公里，按双向四车道标准建设，设计时速 100 公里 。洞庭溪沅水特大桥、沅古坪特长隧道为该段控制性工程。 IT之家注：呼北高速是国家高速公路网“11 纵”中的第 7 纵，北起内蒙古自治区呼和浩特市，南至广西壮族自治区北海市，途经内蒙古、山西、河南、湖北、湖南、广西六省（区）， 是国家高速公路网“1",
+   "published_at": 1793575453.0,
+   "published_bj": "2026-11-02 07:24"
+  },
+  {
+   "id": "ee7e45421352e554",
+   "source": "IT之家",
+   "title": "微软确认：受支持的 Win10 设备现可直接升级至 Win11 26H2",
+   "url": "https://www.ithome.com/1/020/846.htm",
+   "summary": "IT之家 11 月 2 日消息，据科技媒体 neowin 昨天报道，微软于今年 9 月底推送 Win11 26H2。此次更新采取分阶段推送形式，逐步推送至符合条件的设备，并未立即向所有用户开放。这种策略是为了避免更新出现重大问题时，导致大量设备无法工作。 微软几天前确认，Windows 11 26H2 分阶段推送已经取得重要进展，目前已向 25H2 和 24H2 设备全面开放。在此之后，微软已经将 26H2 推送范围扩大至所有符合升级条件的设备， 包括处于扩展支持阶段的 Win10 电脑 。 如果您的设备还没有收到 Windows 11 26H2 更新，那么可以考虑手动下载 eKB512179",
+   "published_at": 1793575069.0,
+   "published_bj": "2026-11-02 07:17"
+  },
+  {
+   "id": "69d1edbd18fcfbc9",
+   "source": "IT之家",
+   "title": "比亚迪前三季度研发比净利润高 140 亿元：何志奇称不是不会算账，是在算一本更长的账",
+   "url": "https://www.ithome.com/1/020/845.htm",
+   "summary": "IT之家 11 月 2 日消息，比亚迪股份有限公司执行副总裁何志奇昨晚发文表示，比亚迪（今年）前三季度研发费用 363 亿元，归母净利润 223 亿元 —— 研发比净利润高了整整 140 亿元 。累计研发投入已经超过 2800 亿元。 何志奇表示，研发大于利润， 不是不会算账，是在算一本更长的账 。 新能源行业还在高速奔跑，真正的护城河从来不是短期利润，是握在自己手里的核心技术。 今天投进去的每一分钱，未来都会变成更靠谱的产品、更好的用户体验、更硬的行业底气 。刀片电池、易三方、云辇，天神之眼等每一项技术都是这样。 刀片电池的热销，产能逐步释放。Q3 业绩的增长，恰恰是前期的技术投入的回报。 ",
+   "published_at": 1793574071.0,
+   "published_bj": "2026-11-02 07:01"
+  },
+  {
+   "id": "a4208962616b3b63",
+   "source": "IT之家",
+   "title": "OpenAI 即将启动大规模公关宣传，考虑将数据中心重新包装为“AI 算力园区”",
+   "url": "https://www.ithome.com/1/020/844.htm",
+   "summary": "IT之家 11 月 2 日消息，据外媒 Axios 昨天报道，OpenAI 正准备在周二美国中期选举结束后，发起大规模公关宣传活动。 OpenAI 首席全球事务官克里斯 · 莱汉（Chris Lehane）对此表示，此次中期选举将成为 2028 年总统大选的“预告片”。未来， 人工智能将成为大选的核心议题 。 IT之家注意到，OpenAI 准备在未来加强与公众沟通 AI 相关话题。莱汉提到，他们计划制定 AI 发展速度限制；并寻找方法，让人们认识到 AI 如何赋能日常生活；推动美国参与制定全球标准； 以及将数据中心重新包装为“AI 算力园区” 。 莱汉认为，AI 公司与民众就数据中心展开的讨论",
+   "published_at": 1793573899.0,
+   "published_bj": "2026-11-02 06:58"
+  },
   {
    "id": "e85aa80196176e29",
    "source": "IT之家",
@@ -20,6 +56,15 @@
    "summary": "IT之家 11 月 2 日消息，苹果公司上周终于推出了品牌首款触控屏 MacBook Pro。然而对于一款具有里程碑意义的产品来说，这款笔记本设计却出人意料地保守，没有带来真正突破的创新。 据IT之家了解，触屏 MacBook Pro 采用了更轻薄的机身、OLED 屏幕，配备 M5 Pro 或 M5 Max 芯片，整体使用体验十分熟悉。人们不禁怀疑，苹果是否为这款触屏 Mac 带来足够多的创新，以及它的价格能否配得上外界期待。 彭博社记者马克 · 古尔曼表示，苹果此次为 Mac 加入触控功能，主要是围绕用户熟悉的操作方式展开，包括点击、滚动、捏合等手势。苹果还对屏幕转轴进行加固，减少触摸屏幕时",
    "published_at": 1793573004.0,
    "published_bj": "2026-11-02 06:43"
+  },
+  {
+   "id": "f96a4f9e0f7b081a",
+   "source": "Hacker News",
+   "title": "AI delivers 'zero financial payoff' to most companies, Apollo economist says",
+   "url": "https://techcrunch.com/2026/10/25/ai-delivers-zero-financial-payoff-to-most-companies-according-to-apollo-economist/",
+   "summary": "Article URL: https://techcrunch.com/2026/10/25/ai-delivers-zero-financial-payoff-to-most-companies-according-to-apollo-economist/ Comments URL: https://news.ycombinator.com/item?id=50330456 Points: 18 # Comments: 4",
+   "published_at": 1793571045.0,
+   "published_bj": "2026-11-02 06:10"
   },
   {
    "id": "5f8f6f69ca9e7671",
@@ -47,6 +92,15 @@
    "summary": "Data centers are deeply unpopular. But what if we called them something else?",
    "published_at": 1793570123.0,
    "published_bj": "2026-11-02 05:55"
+  },
+  {
+   "id": "b98c841ad6538b32",
+   "source": "Hacker News",
+   "title": "So I guess everyone uses LLMs to think now",
+   "url": "https://eva.ac/blog/llms/",
+   "summary": "Article URL: https://eva.ac/blog/llms/ Comments URL: https://news.ycombinator.com/item?id=50330253 Points: 38 # Comments: 28",
+   "published_at": 1793569744.0,
+   "published_bj": "2026-11-02 05:49"
   },
   {
    "id": "8425569f318026b0",
