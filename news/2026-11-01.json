@@ -1,8 +1,80 @@
 {
  "date": "2026-11-01",
- "generated_at": 1793490670.1053922,
- "count": 48,
+ "generated_at": 1793493897.6088402,
+ "count": 58,
  "items": [
+  {
+   "id": "23855bb9c8905e99",
+   "source": "IT之家",
+   "title": "Roblox 平台 AI 游戏突破 7 万款，排名前 100 作品超 80% 使用 AI 辅助开发",
+   "url": "https://www.ithome.com/1/020/651.htm",
+   "summary": "IT之家 11 月 1 日消息，Roblox 在 2026 财年第三季度报告中透露，该平台内使用 Build 创建的 AI 游戏总数已超过 7 万款。 9 月游玩时长排名前 100 游戏中 ， 超 80% 使用 AI 辅助开发 。 据介绍，Roblox 已有超 50 万名用户使用 Build 工具。在本季度内，有 2 款几乎完全由 AI 创作的游戏，进入平台同时在线玩家数量排行榜前 20 名。 IT之家了解到，Roblox 的 Build 功能推出于 2026 年 7 月底，采用移动端优先设计策略，允许创作者借助 AI 生成游戏内容。该工具面向年满 9 周岁且完成年龄验证的用户开放，已发布的 ",
+   "published_at": 1793493635.0,
+   "published_bj": "2026-11-01 08:40"
+  },
+  {
+   "id": "0c536fd92ece2149",
+   "source": "IT之家",
+   "title": "华为鲲鹏 920 上跑出超越同代主流硬件的性能：北大团队完成 ABACUS 原子算筹软件深度优化，优化 19 类材料核心算子",
+   "url": "https://www.ithome.com/1/020/650.htm",
+   "summary": "IT之家 11 月 1 日消息，密度泛函理论（Density Functional Theory，DFT）是研究半导体、金属等关键材料性质的主流第一性原理方法。ABACUS（原子算筹）是国内自主研发的密度泛函开源软件，由多家单位联合开发，国内外用户超过一千人，应用单位过百家。 华为计算昨晚发文，在北京大学鲲鹏昇腾科教创新卓越中心支持下， 北京大学力学与工程科学学院陈默涵研究员团队完成了 ABACUS 在鲲鹏 920 全系列平台上的适配 ，并把 19 类材料领域核心算子抽出来逐项优化。 据介绍，在和业界主流 CPU 相同的 28 核、28 进程 ×1 线程配置下，采用 SVE 指令集的版本在标准",
+   "published_at": 1793493318.0,
+   "published_bj": "2026-11-01 08:35"
+  },
+  {
+   "id": "1c3dd51f94dbc464",
+   "source": "IT之家",
+   "title": "被 AI 假学生薅了 2 亿美元贷款羊毛，美国司法部紧急调查",
+   "url": "https://www.ithome.com/1/020/649.htm",
+   "summary": "IT之家 11 月 1 日消息，美国司法部（DOJ）于当地时间 10 月 31 日公布了“Operation Ghostbusters”行动的结果，该行动主要是调查广泛的学生贷款欺诈行为。 据该机构称，不良分子使用被盗身份申请学生贷款， 并利用人工智能完成申请，使假学生看起来像是在参加在线课程 。 虽然学校获得了大部分学生贷款的收益，但还是有部分剩余款项流入诈骗者的银行账户，并被转移到了海外。另一方面，那些没上大学的受害者， 莫名其妙就背上了学生贷款 。 美国多所社区学院和大学自 2021 年起开始怀疑联邦学生资助（FAFSA）项目存在欺诈行为。估计显示，美国政府因此行为损失超过 2 亿美元 ",
+   "published_at": 1793493108.0,
+   "published_bj": "2026-11-01 08:31"
+  },
+  {
+   "id": "5ada294f19b133ea",
+   "source": "IT之家",
+   "title": "吉利汽车规划 2030 年前实现“县县通”：布局 15 万座充电站，其中智充站 10 万座",
+   "url": "https://www.ithome.com/1/020/648.htm",
+   "summary": "IT之家 11 月 1 日消息，据蓝鲸汽车报道，在吉利汽车 2026 年三季度业绩电话会上，吉利汽车行政总裁淦家阅透露，在智充网络布局上，今年 10 月底智充站将超 3000 座，11 月达 4000 座，12 月达 6000 座，届时智充枪将超 2 万把。 中长期来看，吉利规划 2027 年充电站超 2.2 万座，智充枪超 10 万把； 2030 年前要实现“县县通” ，要布局 15 万座充电站，其中智充站达 10 万座，充电枪超 60 万把。 据IT之家此前报道，9 月 23 日， 吉利汽车集团发布新一代 AI 补能技术 ——“吉利智充”。该技术实现 单枪峰值充电功率达 2.2 兆瓦 ，刷",
+   "published_at": 1793492658.0,
+   "published_bj": "2026-11-01 08:24"
+  },
+  {
+   "id": "3eb7d97681888750",
+   "source": "IT之家",
+   "title": "消息称 Spotify 计划于明年初推出 AI 音乐混音服务，用户可自制歌曲混音与翻唱版本",
+   "url": "https://www.ithome.com/1/020/647.htm",
+   "summary": "IT之家 11 月 1 日消息，据金融时报 FT 消息，Spotify 正在积极推进版权授权谈判，并努力说服音乐人拥抱新技术。Spotify 计划在 2027 年初推出一项由人工智能驱动的新服务，允许用户自行制作歌曲的混音与翻唱版本。 知情人士透露，Spotify 计划在明年的第一季度推出该产品，并可能在 2 月份格莱美奖（Grammy Awards）前后首次亮相。其中一位知情人士表示，Spotify 正在考虑向订阅用户每月额外收取 4 至 5 美元 （IT之家注：现汇率约合 26.7 至 33.3 元人民币） 的增值服务费。 借助该功能， 付费订阅用户可利用人工智能重新编排流行歌曲 ，例如将",
+   "published_at": 1793491946.0,
+   "published_bj": "2026-11-01 08:12"
+  },
+  {
+   "id": "f74866d8ca71e179",
+   "source": "IT之家",
+   "title": "日本首家大疆、哈苏概念旗舰店开业，主打融合体验",
+   "url": "https://www.ithome.com/1/020/646.htm",
+   "summary": "IT之家 11 月 1 日消息，日本首家大疆、哈苏概念旗舰店昨天在东京开业。该店铺主打融合式体验，消费者可以在此同时选购大疆和哈苏产品。 IT之家从官方新闻稿获悉，该店铺位于东京著名时尚购物街区表参道， 1 楼专门展示大疆无人机和手持相机等产品 ， 2 楼则集中展示哈苏中画幅相机系统 ，消费者可在一家店铺试用哈苏 X2D II 100C、大疆无人机或 Osmo Pocket 系列手持相机。 同时，该店铺将配备熟悉产品知识和实际拍摄工作的专业人员，根据每位消费者的拍摄风格和具体用途，推荐最合适的设备组合及周边配件。考虑到表参道地区国际化较为浓厚，门店还将为海外游客提供多语言服务， 并支持办理免税",
+   "published_at": 1793491503.0,
+   "published_bj": "2026-11-01 08:05"
+  },
+  {
+   "id": "6ecbff0d88d8fbc3",
+   "source": "IT之家",
+   "title": "OpenAI：12 月起，ChatGPT 将与 Codex 共享额度",
+   "url": "https://www.ithome.com/1/020/645.htm",
+   "summary": "IT之家 11 月 1 日消息，OpenAI 发布公告，宣布从 12 月开始，随着将 Work 的智能体能力引入至 ChatGPT 主要体验中，Plus、Pro 以及 Business 订阅方案的用户将 在 ChatGPT 与 Codex 之间共享统一的使用额度 。 IT之家获悉，在 ChatGPT 和 Codex 上的用量将统一按 Token 进行计量。额度的实际消耗速度取决于选用的模型及任务复杂度， 而即时对话（Instant Chat）不占用额度 。 官方表示，正在全面推进过渡筹备工作，以确保用户工作流程不受干扰。 预计绝大多数用户等待额度重置的频率不会高于此前 。 届时，用户可以在设置",
+   "published_at": 1793491111.0,
+   "published_bj": "2026-11-01 07:58"
+  },
+  {
+   "id": "aae2445747514e34",
+   "source": "IT之家",
+   "title": "BLG 2:0 HLE：英雄联盟 S16 全球总决赛 8 强诞生，LPL 赛区三支队伍晋级",
+   "url": "https://www.ithome.com/1/020/644.htm",
+   "summary": "IT之家 11 月 1 日消息，在今日的英雄联盟 2026 全球总决赛瑞士轮第八日比赛中，来自中国大陆 LPL 赛区的二号种子 BLG 战队， 以 2:0 的比分战胜来自韩国 LCK 赛区的二号种子 HLE 战队 ，成功晋级八强。 至此，英雄联盟 S16 全球总决赛 8 强正式诞生， LPL 赛区共有三支队伍晋级 ，IT之家汇总如下： LCK 赛区：GenG，DK，T1 LPL 赛区：IG，TES，BLG LCS 赛区：LYON LEC 赛区：KC 根据赛制说明，后续的四分之一决赛将于 11 月 4 日起 开打。抽签结果为： DK 对战 BLG KC 对战 T1 TES 对战 IG GEN 对",
+   "published_at": 1793490797.0,
+   "published_bj": "2026-11-01 07:53"
+  },
   {
    "id": "c7c64e449f2c37cb",
    "source": "IT之家",
@@ -112,6 +184,15 @@
    "published_bj": "2026-11-01 06:56"
   },
   {
+   "id": "f07418799be9b0d2",
+   "source": "Hacker News",
+   "title": "Altoids Project",
+   "url": "https://uvdn7.github.io/altoids-project/",
+   "summary": "Article URL: https://uvdn7.github.io/altoids-project/ Comments URL: https://news.ycombinator.com/item?id=50321048 Points: 12 # Comments: 0",
+   "published_at": 1793487295.0,
+   "published_bj": "2026-11-01 06:54"
+  },
+  {
    "id": "f9485b5cffd2bf03",
    "source": "Hacker News",
    "title": "Memdoor: A team of 5 Qwen3.8-27B models beats Fable 5 on LiveCodeBench Hard",
@@ -128,6 +209,15 @@
    "summary": "Article URL: https://www.smithsonianmag.com/science-nature/italian-farmer-found-unknown-seeds-attic-with-nothing-lose-planted-them-result-biblical-180989644/ Comments URL: https://news.ycombinator.com/item?id=50320963 Points: 35 # Comments: 7",
    "published_at": 1793486466.0,
    "published_bj": "2026-11-01 06:41"
+  },
+  {
+   "id": "6d33e45ea86df1f8",
+   "source": "Hacker News",
+   "title": "AI text watermarking and quality loss",
+   "url": "https://blog.keyvan.net/p/ai-text-watermarking-and-quality",
+   "summary": "Article URL: https://blog.keyvan.net/p/ai-text-watermarking-and-quality Comments URL: https://news.ycombinator.com/item?id=50320599 Points: 11 # Comments: 1",
+   "published_at": 1793483413.0,
+   "published_bj": "2026-11-01 05:50"
   },
   {
    "id": "ace5abddda651d85",
