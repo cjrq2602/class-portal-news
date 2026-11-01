@@ -1,8 +1,35 @@
 {
  "date": "2026-11-02",
- "generated_at": 1793568518.0642147,
- "count": 26,
+ "generated_at": 1793571187.238513,
+ "count": 29,
  "items": [
+  {
+   "id": "5f8f6f69ca9e7671",
+   "source": "cnBeta",
+   "title": "OpenAI考虑将数据中心重新包装为“AI算力园区”",
+   "url": "https://www.cnbeta.com.tw/articles/tech/1584632.htm",
+   "summary": "随着人工智能产业进入大规模基础设施建设阶段，数据中心正在成为科技行业最具争议的话题之一。巨大的电力需求、冷却系统消耗的水资源、土地占用以及对当地电网的压力，使得越来越多社区居民开始反对在附近建设大型数据中心。面对这种局面，OpenAI正在考虑改变对数据中心的宣传方式，甚至可能将其重新命名为“AI算力园区”（AI Compute Campuses）。 阅读全文",
+   "published_at": 1793571037.0,
+   "published_bj": "2026-11-02 06:10"
+  },
+  {
+   "id": "00da5b262ff9e746",
+   "source": "cnBeta",
+   "title": "《塞尔达：时之笛 重制版》NS2版实体卡带或采用红色",
+   "url": "https://www.cnbeta.com.tw/articles/game/1584630.htm",
+   "summary": "《塞尔达：时之笛 重制版》NS2版实体发行细节近日得到补充。社交账号Zelda Updates于10月31日发布的图片显示，本作实体卡带可能采用Switch 2常见的红色设计，并未使用部分玩家期待的金色外观。 阅读全文",
+   "published_at": 1793570937.0,
+   "published_bj": "2026-11-02 06:08"
+  },
+  {
+   "id": "23a572e177106cdf",
+   "source": "TechCrunch",
+   "title": "OpenAI might rebrand its data centers as ‘AI compute campuses’",
+   "url": "https://techcrunch.com/2026/11/01/openai-might-rebrand-its-data-centers-as-ai-compute-campuses/",
+   "summary": "Data centers are deeply unpopular. But what if we called them something else?",
+   "published_at": 1793570123.0,
+   "published_bj": "2026-11-02 05:55"
+  },
   {
    "id": "8425569f318026b0",
    "source": "TechCrunch",
