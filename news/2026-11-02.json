@@ -1,8 +1,17 @@
 {
  "date": "2026-11-02",
- "generated_at": 1793528278.9023333,
- "count": 1,
+ "generated_at": 1793530703.194197,
+ "count": 2,
  "items": [
+  {
+   "id": "92f4f0b50adf7494",
+   "source": "InfoQ中文",
+   "title": "写好的 Skill 如何让整个团队复用？Snowflake CoCo 打通共享与治理流程 ｜ 技术实践",
+   "url": "https://www.infoq.cn/article/0ap8HB0DwK6Xa1lBSNVy?utm_source=rss&utm_medium=article",
+   "summary": "点击查看原文>",
+   "published_at": 1793557493.0,
+   "published_bj": "2026-11-02 02:24"
+  },
   {
    "id": "98abdb0c53aed3b9",
    "source": "InfoQ中文",
