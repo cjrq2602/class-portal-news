@@ -1,7 +1,7 @@
 {
  "date": "2026-11-02",
- "generated_at": 1793557927.666567,
- "count": 19,
+ "generated_at": 1793560864.5901518,
+ "count": 20,
  "items": [
   {
    "id": "06f2207cf8243cdb",
@@ -20,6 +20,15 @@
    "summary": "点击查看原文>",
    "published_at": 1793559492.0,
    "published_bj": "2026-11-02 02:58"
+  },
+  {
+   "id": "fa81433096e1a86a",
+   "source": "Hacker News",
+   "title": "Mathematics has changed. Let's act like it",
+   "url": "https://terrytao.wordpress.com/2026/11/01/mathematics-has-changed-lets-act-like-it/",
+   "summary": "Article URL: https://terrytao.wordpress.com/2026/11/01/mathematics-has-changed-lets-act-like-it/ Comments URL: https://news.ycombinator.com/item?id=50328251 Points: 39 # Comments: 33",
+   "published_at": 1793557722.0,
+   "published_bj": "2026-11-02 02:28"
   },
   {
    "id": "92f4f0b50adf7494",
