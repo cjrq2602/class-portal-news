@@ -1,7 +1,7 @@
 {
  "date": "2026-11-01",
- "generated_at": 1793535066.0573049,
- "count": 219,
+ "generated_at": 1793538818.2488797,
+ "count": 231,
  "items": [
   {
    "id": "dad3654ea2690876",
@@ -11,6 +11,105 @@
    "summary": "点击查看原文>",
    "published_at": 1793541600.0,
    "published_bj": "2026-11-01 22:00"
+  },
+  {
+   "id": "dd6d21b36af3b5cb",
+   "source": "IT之家",
+   "title": "上市价 4399 → 2893 元：vivo X300 手机 12GB+256GB 国补直降",
+   "url": "https://www.ithome.com/1/020/831.htm",
+   "summary": "【京东活动可能随时变更，需以实付款为准】 vivo X300 手机开售于 2025 年 10 月 17 日，搭载联发科天玑 9500 处理器，12GB+256GB 定价 4399 元。 京东 11.11 大促期间，按下方步骤下单，叠加 PLUS 立减 + 15% 国补后仅需 2893.01 元： 领 1200 元直播间券： 点此查看 。 领 800-80 元 PLUS 专享券（需 2 积分 10 点、20 点抢）： 点此查看 。 京东 vivo X300 手机 12GB+256GB 国补后 2893.01 元 直达链接 京东 11.11 无门槛红包至高 26888 元，支持即领即用，下单直接当",
+   "published_at": 1793538214.0,
+   "published_bj": "2026-11-01 21:03"
+  },
+  {
+   "id": "7784f14564351591",
+   "source": "IT之家",
+   "title": "比亚迪各品牌销量公布：方程豹 43872 辆，腾势 15152 辆",
+   "url": "https://www.ithome.com/1/020/830.htm",
+   "summary": "IT之家 11 月 1 日消息，比亚迪今日公布数据，10 月份销售 490168 辆，海外乘用车及皮卡销售近 17 万辆。2026 年 1-10 月累计销售 3621744 辆，新能源汽车累计销售超 1870 万辆。 IT之家附各品牌销量如下： 比亚迪汽车王朝 | 海洋 423843 辆 方程豹 43872 辆 腾势 15152 辆 仰望 258 辆 根据比亚迪此前发布的 2026 年 10 月产销快报：10 月新能源汽车销量约 49.02 万辆，同比增长 10.97%。其中，纯电动汽车 10 月销量约 30.57 万辆，同比增长 37.38%；插电式混合动力汽车销量约 17.74 万辆，同比",
+   "published_at": 1793537815.0,
+   "published_bj": "2026-11-01 20:56"
+  },
+  {
+   "id": "2d98e2633866b138",
+   "source": "IT之家",
+   "title": "阿维塔官宣 10 月交付 7,056 辆，全系车型推送 AVATR.OS 6.1.0 系统",
+   "url": "https://www.ithome.com/1/020/828.htm",
+   "summary": "IT之家 11 月 1 日消息，阿维塔官方今日宣布， 10 月交付新车 7,056 辆 。 另外，在 10 月，阿维塔 07L Max 纯电版上市、阿维塔 T09 迎来巴黎全球首秀。 同时 AVATR.OS 6.1.0 系统面向全系车型开启推送 。 参考IT之家此前报道， 消息称长安汽车旗下的深蓝和阿维塔两大品牌整合已进入实质性推进环节 。具体措施为，长安汽车通知成立 AD（阿维塔和深蓝首字母）协同发展部，定义为一级部门。在此一级部门下，成立规划与合作部、市场产品部、人力共享中心、财务共享中心、综合部等多个二级部门，承接深蓝汽车、阿维塔委托对应业务。 相关阅读： 《 长安汽车朱华荣：将战略性整",
+   "published_at": 1793537120.0,
+   "published_bj": "2026-11-01 20:45"
+  },
+  {
+   "id": "d65ab238a238f9f9",
+   "source": "Hacker News",
+   "title": "The question we should all be asking about AI",
+   "url": "https://www.cnn.com/2026/10/30/business/ai-stocks-bonds-debt",
+   "summary": "Article URL: https://www.cnn.com/2026/10/30/business/ai-stocks-bonds-debt Comments URL: https://news.ycombinator.com/item?id=50325107 Points: 3 # Comments: 0",
+   "published_at": 1793537076.0,
+   "published_bj": "2026-11-01 20:44"
+  },
+  {
+   "id": "9d66a6fd1928d62b",
+   "source": "cnBeta",
+   "title": "AI数据中心能源需求激增 或抹平美国15年减排成果",
+   "url": "https://www.cnbeta.com.tw/articles/tech/1584610.htm",
+   "summary": "随着人工智能产业持续扩张，美国正面临一项新的气候挑战。最新分析显示，到2030年，AI数据中心带来的巨大电力需求可能使美国电力行业温室气体减排成果大幅倒退，甚至抵消过去15年来取得的减排进展。 阅读全文",
+   "published_at": 1793537021.0,
+   "published_bj": "2026-11-01 20:43"
+  },
+  {
+   "id": "daaed59f73b713ee",
+   "source": "cnBeta",
+   "title": "高通最新Adreno驱动带来性能问题 骁龙X2 Elite本地AI与Premiere Pro表现最高下降87%",
+   "url": "https://www.cnbeta.com.tw/articles/tech/1584608.htm",
+   "summary": "高通近期面向搭载骁龙X与骁龙X2系列处理器的Windows on Arm设备发布了Adreno 32.0.181.0图形驱动，原本旨在提升游戏稳定性和应用兼容性。然而，多位用户在更新后发现，该驱动可能导致骁龙X2 Elite平台在部分专业应用和本地AI工作负载中出现显著性能下降，引发社区广泛关注。 阅读全文",
+   "published_at": 1793536970.0,
+   "published_bj": "2026-11-01 20:42"
+  },
+  {
+   "id": "0a7c1f6faf4b617e",
+   "source": "cnBeta",
+   "title": "NASA征集商业方案为哈勃望远镜延寿 任务须在2032年前完成",
+   "url": "https://www.cnbeta.com.tw/articles/science/1584606.htm",
+   "summary": "NASA正向商业航天企业征询方案，评估能否为哈勃太空望远镜提升轨道、执行在轨维修，或在任务结束时安排安全处置。该机构10月29日发布信息征询，回复截止时间为美国东部时间11月30日下午3时；NASA希望相关任务最迟于2032年实施，且不得损害望远镜。 阅读全文",
+   "published_at": 1793536942.0,
+   "published_bj": "2026-11-01 20:42"
+  },
+  {
+   "id": "1555f25652673a25",
+   "source": "cnBeta",
+   "title": "欧洲与加拿大建立AI算力合作联盟 共享14台超级计算机、10台量子计算机和19座AI工厂",
+   "url": "https://www.cnbeta.com.tw/articles/tech/1584604.htm",
+   "summary": "在欧美关系出现新的不确定性之际，欧洲与加拿大正在进一步加强人工智能和高性能计算领域的合作。欧盟委员会主席乌尔苏拉·冯德莱恩近日确认，加拿大将加入欧洲高性能计算合作网络EuroHPC Joint Undertaking。这意味着加拿大将获得欧洲大型超级计算设施的优先使用权，同时欧洲也将借助加拿大的科技产业，进一步扩大双方共同的人工智能基础设施。 阅读全文",
+   "published_at": 1793536919.0,
+   "published_bj": "2026-11-01 20:41"
+  },
+  {
+   "id": "6e4bbb7ec0a4af83",
+   "source": "IT之家",
+   "title": "7499 → 5718 元：vivo X300 Ultra 国补新低，配 3+2 蔡司大师镜头群",
+   "url": "https://www.ithome.com/1/020/827.htm",
+   "summary": "【京东活动可能随时变更，需以实付款为准】 vivo X300 Ultra 手机 2026 年 4 月开售，新机号称「专业 V 单」，搭载第五代骁龙 8 至尊版处理器、拥有 3+2 蔡司大师镜头群，12GB+512GB 定价 7499 元。 京东 11.11 大促期间，按下方步骤下单，叠加 PLUS 立减 + 500 元国补后仅需 5718.25 元： 领 1000 元直播间券： 点此查看 。 领 800-80 元 PLUS 专享券（需 2 积分 10 点、20 点抢）： 点此查看 。 京东 vivo X300 Ultra 12GB+512GB 国补后 5718.25 元 领 1000 元券 京",
+   "published_at": 1793536781.0,
+   "published_bj": "2026-11-01 20:39"
+  },
+  {
+   "id": "8476ec7a511f8620",
+   "source": "IT之家",
+   "title": "重力星球 MH1 PRO 头戴式耳机发售：53mm 动圈、ANC 降噪，799 元",
+   "url": "https://www.ithome.com/1/020/826.htm",
+   "summary": "IT之家 11 月 1 日消息，重力星球旗下 MH1 PRO 头戴式耳机现已在京东发售，该产品配备 53mm 动圈、支持 ANC 降噪， 定价为 799 元 。 京东 重力星球 MH1 PRO 头戴式游戏耳机 799 元 直达链接 该耳机外观采用仿生骨骼形态流线结构，并结合精工抛光倒角处理。头梁部分支持 13 档步进阻尼调节，配合支臂倾角调校与 90 度自适应调整设计，以提升佩戴贴合度。耳机外壳还带有 4 种 RGB 灯光模式。 该耳机搭载 53mm 动圈单元，频响范围为 20-20kHz，单元灵敏度达 114±3dB。内部采用雷达式环形声腔以减少谐振。耳机支持 THX 虚拟 7.1.4 空间",
+   "published_at": 1793536503.0,
+   "published_bj": "2026-11-01 20:35"
+  },
+  {
+   "id": "804fd4db170fc6c5",
+   "source": "IT之家",
+   "title": "7999 → 5993 元：vivo X Fold6 折叠屏手机 12+256GB 国补新低，2 亿像素 1/1.4\" 主摄、天玑 9500 超能版",
+   "url": "https://www.ithome.com/1/020/825.htm",
+   "summary": "【京东活动可能随时变更，需以实付款为准】 vivo X Fold6 折叠屏手机 2026 年 6 月开售，12GB+256GB 定价 7999 元。 京东 11.11 大促期间，按下方步骤下单，叠加 PLUS 立减 + 10% 国补后仅需 5993.11 元： 领 1000 元直播间券： 点此查看 。 京东 vivo X Fold6 折叠屏手机 12GB+256GB 国补后 5993.11 元 领 800 元券 京东 11.11 无门槛红包至高 26888 元，支持即领即用，下单直接当钱花： 点此抽取 。 京东 vivo X Fold6 折叠屏手机 12GB+256GB 国补后 5993.11",
+   "published_at": 1793536136.0,
+   "published_bj": "2026-11-01 20:28"
   },
   {
    "id": "cc09f3ba769754d1",
@@ -101,6 +200,15 @@
    "summary": "IT之家 11 月 1 日消息，吉利汽车今日公告，10 月汽车总销量为 31.02 万辆，同比增长约 1%；今年前 10 个月累计销量 254.57 万辆，同比增长 3%。 IT之家从公告获悉，吉利品牌 10 月销量 25.57 万辆，同比增长 4%；银河销量 15.34 万辆，同比增长 20%；领克销量 2.20 万辆，同比下降 45%；极氪销量 3.25 万辆，同比增长 52%。 新能源方面， 纯电动汽车销量 14.08 万辆，同比增长 43% ；插电式混合动力汽车销量 7.42 万辆，同比下降 7%。出口销量 10.72 万辆，同比增长 158%。 相关阅读： 《 2026 年 10 月",
    "published_at": 1793532532.0,
    "published_bj": "2026-11-01 19:28"
+  },
+  {
+   "id": "2a1a024a9ae1b86b",
+   "source": "Hacker News",
+   "title": "noyb win: French electronics retailer Fnac Darty fined €7M",
+   "url": "https://noyb.eu/en/noyb-win-french-electronics-retailer-fnac-darty-fined-eu7-million",
+   "summary": "Article URL: https://noyb.eu/en/noyb-win-french-electronics-retailer-fnac-darty-fined-eu7-million Comments URL: https://news.ycombinator.com/item?id=50324533 Points: 24 # Comments: 3",
+   "published_at": 1793531835.0,
+   "published_bj": "2026-11-01 19:17"
   },
   {
    "id": "eb674d1c8f65d38a",
