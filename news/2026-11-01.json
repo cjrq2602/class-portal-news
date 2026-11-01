@@ -1,8 +1,17 @@
 {
  "date": "2026-11-01",
- "generated_at": 1793548355.868695,
- "count": 252,
+ "generated_at": 1793550558.879878,
+ "count": 254,
  "items": [
+  {
+   "id": "75d4e55ad401e7e7",
+   "source": "Hacker News",
+   "title": "Show HN: HackerBooks – HackerTube, but for books recommended on HN",
+   "url": "https://hackerbooks.org",
+   "summary": "Saw Karpathy's HackerTube and wanted the same thing for books. So I had Claude build one (Opus 5.5). It's ~16.5k books that at least two different HN commenters brought up, from 2007 till now. Each book links back to the comments that mentioned it. Data is downloadable from the about page. To be cle",
+   "published_at": 1793548708.0,
+   "published_bj": "2026-11-01 23:58"
+  },
   {
    "id": "21fc076c9006a836",
    "source": "IT之家",
@@ -11,6 +20,15 @@
    "summary": "IT之家 11 月 1 日消息，米哈游生活模拟游戏《星布谷地》今日官宣，将于 2027 年登陆 Switch2 平台。 IT之家注意到，《星布谷地》已经确认推出 PC / iOS / Android 版， 将于 12 月 4 日开启全球公测 。这款游戏以星际田园为主题，玩家在游戏中将可以赶海、钓鱼、种田等，期待理想生活自然发生，拥有自定义系统，可随心装点天空、海岸与每一片土地，三五好友可相聚在星空街市，使善意、共鸣、友谊在星空下交汇。 目前，官方公布的游戏角色有云果、伊佐奇、绵朵莉、幻雪等，它们的造型都类似小动物，各自拥有不同的身份，玩家可以在游戏中与这些性格各异的角色缔结友谊。",
    "published_at": 1793547453.0,
    "published_bj": "2026-11-01 23:37"
+  },
+  {
+   "id": "c3c28cd66ce092a5",
+   "source": "Hacker News",
+   "title": "Enlightenment 0.28.0 Release",
+   "url": "https://www.enlightenment.org/news/2026-10-31-enlightenment-0.28.0",
+   "summary": "Article URL: https://www.enlightenment.org/news/2026-10-31-enlightenment-0.28.0 Comments URL: https://news.ycombinator.com/item?id=50326530 Points: 17 # Comments: 4",
+   "published_at": 1793546766.0,
+   "published_bj": "2026-11-01 23:26"
   },
   {
    "id": "bc5a2406e2287b7f",

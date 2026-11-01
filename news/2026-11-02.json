@@ -1,7 +1,7 @@
 {
  "date": "2026-11-02",
- "generated_at": 1793548355.8663712,
- "count": 4,
+ "generated_at": 1793550558.8781555,
+ "count": 5,
  "items": [
   {
    "id": "06f2207cf8243cdb",
@@ -38,6 +38,15 @@
    "summary": "点击查看原文>",
    "published_at": 1793552400.0,
    "published_bj": "2026-11-02 01:00"
+  },
+  {
+   "id": "f60b4ae33b259437",
+   "source": "TechCrunch",
+   "title": "Binance resumes withdrawals following $6.3 billion breach",
+   "url": "https://techcrunch.com/2026/11/01/binance-resumes-withdrawals-following-6-3-billion-breach/",
+   "summary": "The cryptocurrency exchange said it's now covered 95% of the stolen assets.",
+   "published_at": 1793550010.0,
+   "published_bj": "2026-11-02 00:20"
   }
  ]
 }
