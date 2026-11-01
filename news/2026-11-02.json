@@ -1,8 +1,26 @@
 {
  "date": "2026-11-02",
- "generated_at": 1793566486.6666515,
- "count": 24,
+ "generated_at": 1793568518.0642147,
+ "count": 26,
  "items": [
+  {
+   "id": "8425569f318026b0",
+   "source": "TechCrunch",
+   "title": "AI can make tech CEOs’ lives easier. What about everyone else?",
+   "url": "https://techcrunch.com/2026/11/01/ai-can-make-tech-ceos-lives-easier-what-about-everyone-else/",
+   "summary": "On Equity, we discuss why tech CEO statements can seem so tone deaf.",
+   "published_at": 1793566678.0,
+   "published_bj": "2026-11-02 04:57"
+  },
+  {
+   "id": "a2d0a48ee8eb04f4",
+   "source": "Hacker News",
+   "title": "John Leeson (the voice of K9) has died",
+   "url": "https://www.doctorwhonews.net/2026/11/john_leeson_1943_2026.html",
+   "summary": "Article URL: https://www.doctorwhonews.net/2026/11/john_leeson_1943_2026.html Comments URL: https://news.ycombinator.com/item?id=50329707 Points: 4 # Comments: 1",
+   "published_at": 1793566084.0,
+   "published_bj": "2026-11-02 04:48"
+  },
   {
    "id": "89357e838b416e78",
    "source": "Hacker News",
