@@ -1,8 +1,17 @@
 {
  "date": "2026-11-02",
- "generated_at": 1793560864.5901518,
- "count": 20,
+ "generated_at": 1793563842.0272229,
+ "count": 24,
  "items": [
+  {
+   "id": "89357e838b416e78",
+   "source": "Hacker News",
+   "title": "Ask HN: Which TV do you recommend for privacy?",
+   "url": "https://news.ycombinator.com/item?id=50328896",
+   "summary": "I haven’t owned a TV in years and would like one that respects my privacy. Are there any TV’s which do this well? I am looking for something in the 60”to 80”range and would like a 4k display with at least 60hz display. I don’t mind paying a premium. I have heard good things about Apple TV as a bette",
+   "published_at": 1793561727.0,
+   "published_bj": "2026-11-02 03:35"
+  },
   {
    "id": "06f2207cf8243cdb",
    "source": "InfoQ中文",
@@ -20,6 +29,33 @@
    "summary": "点击查看原文>",
    "published_at": 1793559492.0,
    "published_bj": "2026-11-02 02:58"
+  },
+  {
+   "id": "5b51537bc96380a3",
+   "source": "Hacker News",
+   "title": "It wasn't AI that flipped Proton's charge",
+   "url": "https://blog.raed.dev/posts/proton-loser-thinking/",
+   "summary": "Article URL: https://blog.raed.dev/posts/proton-loser-thinking/ Comments URL: https://news.ycombinator.com/item?id=50328488 Points: 21 # Comments: 2",
+   "published_at": 1793559235.0,
+   "published_bj": "2026-11-02 02:53"
+  },
+  {
+   "id": "e96aa6d9ce22c732",
+   "source": "Hacker News",
+   "title": "Nurses Sound Alarm as 'Uber for Nursing' Apps Push to Deregulate Healthcare",
+   "url": "https://nurse.org/news/uber-for-nursing-gig-apps-report/",
+   "summary": "Article URL: https://nurse.org/news/uber-for-nursing-gig-apps-report/ Comments URL: https://news.ycombinator.com/item?id=50328487 Points: 83 # Comments: 44",
+   "published_at": 1793559226.0,
+   "published_bj": "2026-11-02 02:53"
+  },
+  {
+   "id": "dd6ebcdf15aa018f",
+   "source": "Hacker News",
+   "title": "US Jobs Pickup May Keep Fed on Track to Hike Rates Again",
+   "url": "https://www.bloomberg.com/news/articles/2026-10-31/us-jobs-pickup-may-keep-fed-on-track-to-hike-rates-again",
+   "summary": "Article URL: https://www.bloomberg.com/news/articles/2026-10-31/us-jobs-pickup-may-keep-fed-on-track-to-hike-rates-again Comments URL: https://news.ycombinator.com/item?id=50328462 Points: 10 # Comments: 2",
+   "published_at": 1793559089.0,
+   "published_bj": "2026-11-02 02:51"
   },
   {
    "id": "fa81433096e1a86a",
