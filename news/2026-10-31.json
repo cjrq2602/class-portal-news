@@ -1,7 +1,7 @@
 {
  "date": "2026-10-31",
- "generated_at": 1793543835.962485,
- "count": 294,
+ "generated_at": 1793546073.557493,
+ "count": 295,
  "items": [
   {
    "id": "0b6070e114afa29a",
@@ -713,6 +713,15 @@
    "summary": "IT之家 10 月 31 日消息，据央视新闻援引国家标准委，11 月 1 日起，54 项强制性国家标准、465 项推荐性国家标准和 1 项指导性技术文件开始实施。 《拖拉机噪声限值》《收获机械噪声限值》强制性国家标准分别规定了拖拉机、收获机械动态环境噪声限值和驾驶员操作位置处噪声限值及相应测量方法。《土方机械噪声限值》强制性国家标准规定了土方机械的机外发射噪声限值和司机位置噪声限值及相应测量方法。标准的实施有利于切实保护拖拉机、收获机械、土方机械等机械装备操作人员的健康，对规范国内相关机械装备生产，引领技术进步，促进相关产品出口具有积极作用。 《家用和类似用途吸油烟机与换气扇能效限定值及能效等",
    "published_at": 1793441808.0,
    "published_bj": "2026-10-31 18:16"
+  },
+  {
+   "id": "3163c3431a0825e8",
+   "source": "Hacker News",
+   "title": "One-minute frequency disturbances from synchronization in power systems",
+   "url": "https://www.nature.com/articles/s41560-026-02144-0",
+   "summary": "Article URL: https://www.nature.com/articles/s41560-026-02144-0 Comments URL: https://news.ycombinator.com/item?id=50314617 Points: 22 # Comments: 5",
+   "published_at": 1793441648.0,
+   "published_bj": "2026-10-31 18:14"
   },
   {
    "id": "6b93ccbca74933f8",

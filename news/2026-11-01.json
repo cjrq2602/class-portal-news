@@ -1,8 +1,44 @@
 {
  "date": "2026-11-01",
- "generated_at": 1793543835.9595923,
- "count": 243,
+ "generated_at": 1793546073.5530388,
+ "count": 248,
  "items": [
+  {
+   "id": "bc5a2406e2287b7f",
+   "source": "IT之家",
+   "title": "国产武侠游戏《影之刃零》Steam 峰值在线玩家 83 万创新高，连续四天走高",
+   "url": "https://www.ithome.com/1/020/840.htm",
+   "summary": "IT之家 11 月 1 日消息，SteamDB 平台显示，《影之刃零》Steam 峰值在线玩家数达到 83 万创下新高，这部国产武侠游戏在线人数连续四天走高。 IT之家注意到，国产 3A 游戏《影之刃零》现已正式发售，登陆 PS5 与 PC 平台， 国区数字标准版售价 268 元 ，数字豪华版售价 328 元。PS5 实体光碟将于 2027 年推出。该作由灵游坊自主研发发行，采用虚幻引擎 5 打造，定位黑暗武侠题材第三人称动作冒险与单机动作 RPG，把中国武术与蒸汽朋克融合为功夫朋克风格，美术深沉黑暗，主打快节奏高速战斗。 在《影之刃零》中，玩家将化身心脏遭受重创的剑客，在仅余六十六天的生命里",
+   "published_at": 1793545287.0,
+   "published_bj": "2026-11-01 23:01"
+  },
+  {
+   "id": "8f442599dd9a4435",
+   "source": "TechCrunch",
+   "title": "Pixel 11 Pro Fold: Sturdy rectengale in a wide wide world",
+   "url": "https://techcrunch.com/2026/11/01/pixel-11-pro-fold-sturdy-rectengale-in-a-wide-wide-world/",
+   "summary": "Google made a sturdy phone, but there is increasing competition in the foldable world.",
+   "published_at": 1793545200.0,
+   "published_bj": "2026-11-01 23:00"
+  },
+  {
+   "id": "7936423adc85e5b8",
+   "source": "IT之家",
+   "title": "赛力斯：问界将全面进入欧洲市场，公司不参与价格战和规模内卷",
+   "url": "https://www.ithome.com/1/020/839.htm",
+   "summary": "IT之家 11 月 1 日消息，赛力斯 10 月 31 日发布投资者关系活动记录表，其中回答了“公司在问界的整体经营思路上有什么样的思考？对下一步业务发展有什么规划？”。 据其介绍，问界坚定做全球高端品牌。目前问界全系正推进欧盟 WVTA E1 整车型式认证，验证周期长、环节多，是高端车进入欧洲市场的必经门槛。公司坚持按最高标准走完全程，确保产品以合规、可靠的状态出海。10 月中旬 AITO 6、AITO 7、AITO 8、AITO 9 亮相巴黎车展并广受好评，为接受全球最高标准检验、进入欧洲市场积累了品牌与市场基础。随着认证与渠道建设推进， 问界将全面进入欧洲市场 ，稳步迈向海外销量占比三分",
+   "published_at": 1793544444.0,
+   "published_bj": "2026-11-01 22:47"
+  },
+  {
+   "id": "976b54e7d9cc08bc",
+   "source": "cnBeta",
+   "title": "OpenAI在美国中期选举后的政治布局",
+   "url": "https://www.cnbeta.com.tw/articles/tech/1584614.htm",
+   "summary": "美国中期选举将于周二举行。选举结束后，OpenAI将立即展开一场密集的政策倡议和公关行动，以争取适应华盛顿新的政治格局。其中一项举措是重新包装数据中心的概念，将其称为“人工智能算力园区”（AI compute campuses）。 阅读全文",
+   "published_at": 1793544360.0,
+   "published_bj": "2026-11-01 22:46"
+  },
   {
    "id": "3310e9d3cbb1d6a3",
    "source": "cnBeta",
@@ -11,6 +47,15 @@
    "summary": "随着越来越多宠物主人尝试为爱猫提供纯素饮食，一项来自澳大利亚格里菲斯大学的新研究发现，长期食用纯素猫粮的猫咪出现超重问题的概率可能低于食用传统肉类猫粮的猫咪。不过研究人员强调，现有证据仍不足以证明纯素饮食本身能够预防肥胖，相关结论仍需进一步验证。 阅读全文",
    "published_at": 1793543761.0,
    "published_bj": "2026-11-01 22:36"
+  },
+  {
+   "id": "70a140f3a804434f",
+   "source": "Hacker News",
+   "title": "Lenovo's 'encrypted' fingerprint USB is just an unencrypted SD card in a case",
+   "url": "https://www.reddit.com/r/technology/comments/1xl2pr3/lenovos_encrypted_fingerprint_usb_drive_is_just/",
+   "summary": "Article URL: https://www.reddit.com/r/technology/comments/1xl2pr3/lenovos_encrypted_fingerprint_usb_drive_is_just/ Comments URL: https://news.ycombinator.com/item?id=50326099 Points: 11 # Comments: 1",
+   "published_at": 1793543683.0,
+   "published_bj": "2026-11-01 22:34"
   },
   {
    "id": "2c0bfe26b5c3bae7",
