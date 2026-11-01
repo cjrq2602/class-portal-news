@@ -1,7 +1,7 @@
 {
  "date": "2026-11-02",
- "generated_at": 1793553170.8018675,
- "count": 8,
+ "generated_at": 1793555472.2490468,
+ "count": 17,
  "items": [
   {
    "id": "06f2207cf8243cdb",
@@ -31,6 +31,69 @@
    "published_bj": "2026-11-02 02:24"
   },
   {
+   "id": "87186e7dbe9c9aee",
+   "source": "cnBeta",
+   "title": "传Intel低价处理器Moon Lake仅配4个能效核 功耗范围为6至15瓦",
+   "url": "https://www.cnbeta.com.tw/articles/tech/1584626.htm",
+   "summary": "一份新的泄露资料显示，英特尔可能正为低价Windows笔记本和迷你电脑开发代号为Moon Lake的处理器。爆料表格称，这款芯片只有4个低功耗能效核，不含性能核，热设计功耗范围为6至15瓦；英特尔尚未公布或确认相关规格。 阅读全文",
+   "published_at": 1793554550.0,
+   "published_bj": "2026-11-02 01:35"
+  },
+  {
+   "id": "6264e8200fc567fb",
+   "source": "Hacker News",
+   "title": "Patrick Stewart taught us what good men do with power",
+   "url": "https://www.vox.com/politics/508526/patrick-stewart-jean-luc-picard-star-trek-liberalism",
+   "summary": "Article URL: https://www.vox.com/politics/508526/patrick-stewart-jean-luc-picard-star-trek-liberalism Comments URL: https://news.ycombinator.com/item?id=50327650 Points: 24 # Comments: 11",
+   "published_at": 1793554096.0,
+   "published_bj": "2026-11-02 01:28"
+  },
+  {
+   "id": "9a2f50a8ca078d30",
+   "source": "cnBeta",
+   "title": "“幽灵学生”借助AI骗取助学金 美国调查揭露跨国教育欺诈网络",
+   "url": "https://www.cnbeta.com.tw/articles/tech/1584624.htm",
+   "summary": "美国司法部近日公布了一起涉及人工智能技术的教育资助欺诈案件。检方已在内布拉斯加州、弗吉尼亚州和新泽西州起诉五名涉案人员，并查扣超过75万美元的加密货币资产。调查显示，一个与肯尼亚相关的犯罪网络利用被盗身份信息伪造学生身份，通过人工智能完成课程作业、模拟在线上课，从而骗取联邦助学金。 阅读全文",
+   "published_at": 1793553771.0,
+   "published_bj": "2026-11-02 01:22"
+  },
+  {
+   "id": "87d0f5adee4aa29f",
+   "source": "cnBeta",
+   "title": "一场看似普通的伽马射线暴突然出现异常：三周后X射线再次增强",
+   "url": "https://www.cnbeta.com.tw/articles/science/1584622.htm",
+   "summary": "宇宙中最猛烈的爆炸之一——伽马射线暴（Gamma-ray Burst，GRB），通常会在短时间内释放出惊人的能量。然而，天文学家近日观测到一次非常反常的爆炸：它最初释放的伽马射线并不突出，随后却产生了过去20年间最明亮的余辉之一。更令人意外的是，爆炸发生约三周后，其X射线辐射竟然再次明显增强，并持续维持在异常明亮的水平。 阅读全文",
+   "published_at": 1793553728.0,
+   "published_bj": "2026-11-02 01:22"
+  },
+  {
+   "id": "b8a5bc33e517425f",
+   "source": "cnBeta",
+   "title": "科学家破解持续60余年的化学难题 首次成功分离稳定氧代硼烷分子",
+   "url": "https://www.cnbeta.com.tw/articles/science/1584620.htm",
+   "summary": "德国维尔茨堡大学研究团队近日宣布取得一项重要化学突破。经过超过60年的探索与失败尝试，研究人员首次成功分离出一类长期被认为过于不稳定、几乎无法以持久形式存在的分子。这类被称为“氧代硼烷”（Oxoboranes）的化合物包含硼原子与氧原子之间极为罕见的三重键结构，其成功制备被视为无机与有机化学领域的重要里程碑。 阅读全文",
+   "published_at": 1793553701.0,
+   "published_bj": "2026-11-02 01:21"
+  },
+  {
+   "id": "91220921b23b4ed5",
+   "source": "cnBeta",
+   "title": "苹果计划2027年上半年推出三款新iPad：Air升级OLED屏幕 Pro加入VC均热板",
+   "url": "https://www.cnbeta.com.tw/articles/tech/1584618.htm",
+   "summary": "苹果在2026年10月底刚刚推出搭载OLED屏幕的新款iPad mini，但这并不意味着今年的iPad产品更新已经结束。根据彭博社记者马克·古尔曼（Mark Gurman）最新披露的信息，苹果计划在2027年上半年陆续推出三款新iPad，分别是iPad Air、iPad Pro以及入门级标准版iPad。三款产品将分别在显示技术、散热能力和人工智能功能方面进行升级。 阅读全文",
+   "published_at": 1793553599.0,
+   "published_bj": "2026-11-02 01:19"
+  },
+  {
+   "id": "034c1f964f4e9fad",
+   "source": "cnBeta",
+   "title": "苹果计划在2027年逐步淘汰高端非触控MacBook Pro",
+   "url": "https://www.cnbeta.com.tw/articles/tech/1584616.htm",
+   "summary": "苹果刚刚为MacBook Pro引入触控屏幕，但这一变化可能只是产品线调整的开始。根据彭博社记者马克·古尔曼（Mark Gurman）在其Power On通讯中的消息，苹果计划在2027年推出第二代触控屏MacBook Pro时，逐步取消现有的高端非触控版本，届时除了入门级14英寸机型之外，MacBook Pro产品线可能将全面转向触控屏设计。 阅读全文",
+   "published_at": 1793553578.0,
+   "published_bj": "2026-11-02 01:19"
+  },
+  {
    "id": "67e229e6a13c17e9",
    "source": "TechCrunch",
    "title": "TechCrunch Mobility: A new, bigger AV boom is here",
@@ -47,6 +110,24 @@
    "summary": "点击查看原文>",
    "published_at": 1793552400.0,
    "published_bj": "2026-11-02 01:00"
+  },
+  {
+   "id": "c22abf2d7b63b9e3",
+   "source": "Hacker News",
+   "title": "Frontier Airlines Likely Breached",
+   "url": "https://www.reddit.com/r/frontierairlines/comments/1xl20e8/psa_email_scam/",
+   "summary": "Article URL: https://www.reddit.com/r/frontierairlines/comments/1xl20e8/psa_email_scam/ Comments URL: https://news.ycombinator.com/item?id=50327266 Points: 47 # Comments: 5",
+   "published_at": 1793551593.0,
+   "published_bj": "2026-11-02 00:46"
+  },
+  {
+   "id": "15a2940d0ea3dd6f",
+   "source": "Solidot",
+   "title": "Google AI Mode 未给网站带来流量",
+   "url": "https://www.solidot.org/story?sid=85767",
+   "summary": "Reddit 的最新财报证实了众多网站的抱怨：Google AI Mode 未给网站带来流量。AI Mode 通过生成总结的方式响应用户的查询，而不是传统搜索的提供网站链接以及简要摘要。硅谷对 AI 的全面拥抱牺牲了构成互联网的无数网站。Reddit 联合创始人兼 CEO Steve Huffman 表示：“用户依然需要 Reddit，只是 Google 不再像过去那样将他们引导到 Reddit。”上季度来自 Google 搜索的引荐流量显著下滑。Google 向 AI Mode 及 AI overviews 的转型切断了原本流向 Reddit 的流量。Reddit 的回应和很多新闻网站类似：",
+   "published_at": 1793551591.0,
+   "published_bj": "2026-11-02 00:46"
   },
   {
    "id": "442a054bd752c996",
