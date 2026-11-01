@@ -1,7 +1,7 @@
 {
  "date": "2026-11-01",
- "generated_at": 1793550717.0301101,
- "count": 254,
+ "generated_at": 1793553170.8036294,
+ "count": 256,
  "items": [
   {
    "id": "75d4e55ad401e7e7",
@@ -13,6 +13,15 @@
    "published_bj": "2026-11-01 23:58"
   },
   {
+   "id": "4afaba5fb3557f26",
+   "source": "Hacker News",
+   "title": "Anthropic's Mythos-class model allegedly leaked on Hugging Face",
+   "url": "https://news.ycombinator.com/item?id=50326727",
+   "summary": "URL deleted for malware concerns. Comments URL: https://news.ycombinator.com/item?id=50326727 Points: 28 # Comments: 13",
+   "published_at": 1793547910.0,
+   "published_bj": "2026-11-01 23:45"
+  },
+  {
    "id": "21fc076c9006a836",
    "source": "IT之家",
    "title": "米哈游生活模拟游戏《星布谷地》官宣 2027 年登陆任天堂 Switch 2",
@@ -20,6 +29,15 @@
    "summary": "IT之家 11 月 1 日消息，米哈游生活模拟游戏《星布谷地》今日官宣，将于 2027 年登陆 Switch2 平台。 IT之家注意到，《星布谷地》已经确认推出 PC / iOS / Android 版， 将于 12 月 4 日开启全球公测 。这款游戏以星际田园为主题，玩家在游戏中将可以赶海、钓鱼、种田等，期待理想生活自然发生，拥有自定义系统，可随心装点天空、海岸与每一片土地，三五好友可相聚在星空街市，使善意、共鸣、友谊在星空下交汇。 目前，官方公布的游戏角色有云果、伊佐奇、绵朵莉、幻雪等，它们的造型都类似小动物，各自拥有不同的身份，玩家可以在游戏中与这些性格各异的角色缔结友谊。",
    "published_at": 1793547453.0,
    "published_bj": "2026-11-01 23:37"
+  },
+  {
+   "id": "cdf18e814cbf71c1",
+   "source": "Hacker News",
+   "title": "Landline phones will switch off across Britland in 100 days, no extensions",
+   "url": "https://www.theregister.com/networks/2026/11/01/landline-phones-will-switch-off-across-britland-in-100-days-no-extensions-openreach/5306673",
+   "summary": "Article URL: https://www.theregister.com/networks/2026/11/01/landline-phones-will-switch-off-across-britland-in-100-days-no-extensions-openreach/5306673 Comments URL: https://news.ycombinator.com/item?id=50326609 Points: 13 # Comments: 7",
+   "published_at": 1793547229.0,
+   "published_bj": "2026-11-01 23:33"
   },
   {
    "id": "c3c28cd66ce092a5",
