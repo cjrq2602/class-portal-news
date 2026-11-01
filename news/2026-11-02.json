@@ -1,8 +1,26 @@
 {
  "date": "2026-11-02",
- "generated_at": 1793530703.194197,
- "count": 2,
+ "generated_at": 1793532729.1062791,
+ "count": 4,
  "items": [
+  {
+   "id": "06f2207cf8243cdb",
+   "source": "InfoQ中文",
+   "title": "复用已有计算结果，动态表增量刷新如何实现性能与成本双优化 ｜ 技术实践",
+   "url": "https://www.infoq.cn/article/xCFDK8KZvvDY5V1R0fqM?utm_source=rss&utm_medium=article",
+   "summary": "点击查看原文>",
+   "published_at": 1793560373.0,
+   "published_bj": "2026-11-02 03:12"
+  },
+  {
+   "id": "346c1bf4d32a2b7a",
+   "source": "InfoQ中文",
+   "title": "从近两小时到 30 秒，SQL 查询性能优化有了新解法 ｜ 技术实践",
+   "url": "https://www.infoq.cn/article/adFNTX7Qiy7yYIGEmTlk?utm_source=rss&utm_medium=article",
+   "summary": "点击查看原文>",
+   "published_at": 1793559492.0,
+   "published_bj": "2026-11-02 02:58"
+  },
   {
    "id": "92f4f0b50adf7494",
    "source": "InfoQ中文",

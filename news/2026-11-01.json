@@ -1,7 +1,7 @@
 {
  "date": "2026-11-01",
- "generated_at": 1793530703.1957104,
- "count": 205,
+ "generated_at": 1793532729.1077468,
+ "count": 210,
  "items": [
   {
    "id": "dad3654ea2690876",
@@ -11,6 +11,51 @@
    "summary": "点击查看原文>",
    "published_at": 1793541600.0,
    "published_bj": "2026-11-01 22:00"
+  },
+  {
+   "id": "457e8c86197dd8b3",
+   "source": "IT之家",
+   "title": "影驰推出金属大师 T8 双塔风冷散热器：中置风扇采用滑槽式固定结构，1 年质保，229 元",
+   "url": "https://www.ithome.com/1/020/816.htm",
+   "summary": "IT之家 11 月 1 日消息，影驰现已在京东上架金属大师 T8 双塔风冷散热器，该产品提供 1 年质保服务，定价为 229 元。 该产品整体尺寸为 125 x 137 x 159 mm，配有磁吸快拆赛博装甲顶盖，散热器匹配六根逆重力 6mm 热管，底座部分为 HDT 热管直触。 该散热器匹配双 120 mm x 120 mm x 25 mm 尺寸 HDB 轴承风扇，中置风扇采用滑槽式固定结构，前置风扇为传统线扣。风扇转速最高为 2000 RPM±10%，最大风量为 84.57 CFM，最大静压为 2.14 mmH2O，最大噪音值为 37.7 dB(A)。扣具为双平台兼容设计，支持英特尔的 L",
+   "published_at": 1793532660.0,
+   "published_bj": "2026-11-01 19:31"
+  },
+  {
+   "id": "30d79dcbfc42d267",
+   "source": "IT之家",
+   "title": "吉利汽车 10 月汽车总销量为 31.02 万辆，同比增长约 1%",
+   "url": "https://www.ithome.com/1/020/815.htm",
+   "summary": "IT之家 11 月 1 日消息，吉利汽车今日公告，10 月汽车总销量为 31.02 万辆，同比增长约 1%；今年前 10 个月累计销量 254.57 万辆，同比增长 3%。 IT之家从公告获悉，吉利品牌 10 月销量 25.57 万辆，同比增长 4%；银河销量 15.34 万辆，同比增长 20%；领克销量 2.20 万辆，同比下降 45%；极氪销量 3.25 万辆，同比增长 52%。 新能源方面， 纯电动汽车销量 14.08 万辆，同比增长 43% ；插电式混合动力汽车销量 7.42 万辆，同比下降 7%。出口销量 10.72 万辆，同比增长 158%。 相关阅读： 《 2026 年 10 月",
+   "published_at": 1793532532.0,
+   "published_bj": "2026-11-01 19:28"
+  },
+  {
+   "id": "eb674d1c8f65d38a",
+   "source": "IT之家",
+   "title": "华为鸿蒙 HarmonyOS 7 系统“星闪耳返”功能上线，手机自带音乐 App + 播控中心可体验",
+   "url": "https://www.ithome.com/1/020/811.htm",
+   "summary": "IT之家 11 月 1 日消息，华为在 10 月底面向 Mate 80 / 70 / 60、Pura 80 / 70 等系列机型推送了最新的鸿蒙 HarmonyOS 7.0.0.111 版本升级，带来了与 iPhone 双机互联，实况窗分享等功能。 ▲ IT之家开箱：华为 Mate 80 Pro Max 风驰版图赏 IT之家实测发现， 部分机型（如 Mate 80 Pro Max 等，Mate 90 系列等此前已支持）在更新该版本后上线了“星闪耳返”功能 —— 当开启 K 歌模式的时候，在录的声音上传到手机的同时，耳机播放录到的声音，支持实时听到自己的 K 歌效果。 事实上，耳返功能并不是首次",
+   "published_at": 1793530953.0,
+   "published_bj": "2026-11-01 19:02"
+  },
+  {
+   "id": "4647da97ba3e94e4",
+   "source": "IT之家",
+   "title": "Epic 喜加一：益智问答游戏《Quiztopia : The Ultimate Trivia》免费领",
+   "url": "https://www.ithome.com/1/020/810.htm",
+   "summary": "IT之家 11 月 1 日消息，开发团队 Yash Future Tech Solutions Pvt Ltd 制作并发行的益智问答游戏《Quiztopia：The Ultimate Trivia》即日起在 Epic Games Store 开启限时免费领取“喜加一”活动，玩家可以在 11 月 9 日凌晨 2 点 30 分前免费领取。 需要注意的是，本次限免并非 Epic 官方活动，而是由开发团队自行发起的特别促销，IT之家附游戏商品页（ https://store.epicgames.com/p/gladiator-blades-of-fury-1a745b ）。 《Quiztopia: T",
+   "published_at": 1793530754.0,
+   "published_bj": "2026-11-01 18:59"
+  },
+  {
+   "id": "ddceac707bb19ba5",
+   "source": "Hacker News",
+   "title": "Norway makes shithouses great again",
+   "url": "https://www.visitnorway.com/plan-your-trip/travel-tips-a-z/norwegian-scenic-routes/worlds-best-toilets/",
+   "summary": "Article URL: https://www.visitnorway.com/plan-your-trip/travel-tips-a-z/norwegian-scenic-routes/worlds-best-toilets/ Comments URL: https://news.ycombinator.com/item?id=50324388 Points: 40 # Comments: 10",
+   "published_at": 1793530078.0,
+   "published_bj": "2026-11-01 18:47"
   },
   {
    "id": "663a1e74927c23a5",
