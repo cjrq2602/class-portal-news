@@ -1,14 +1,50 @@
 {
  "date": "2026-11-01",
- "generated_at": 1793541583.7692366,
- "count": 237,
+ "generated_at": 1793543835.9595923,
+ "count": 243,
  "items": [
+  {
+   "id": "3310e9d3cbb1d6a3",
+   "source": "cnBeta",
+   "title": "研究显示纯素饮食猫咪超重风险更低",
+   "url": "https://www.cnbeta.com.tw/articles/tech/1584612.htm",
+   "summary": "随着越来越多宠物主人尝试为爱猫提供纯素饮食，一项来自澳大利亚格里菲斯大学的新研究发现，长期食用纯素猫粮的猫咪出现超重问题的概率可能低于食用传统肉类猫粮的猫咪。不过研究人员强调，现有证据仍不足以证明纯素饮食本身能够预防肥胖，相关结论仍需进一步验证。 阅读全文",
+   "published_at": 1793543761.0,
+   "published_bj": "2026-11-01 22:36"
+  },
+  {
+   "id": "2c0bfe26b5c3bae7",
+   "source": "IT之家",
+   "title": "OpenAI、谷歌、微软和 Anthropic 联手推行 AI 数据抓取退出标准",
+   "url": "https://www.ithome.com/1/020/837.htm",
+   "summary": "IT之家 11 月 1 日消息，OpenAI、谷歌、微软以及 Anthropic 近日宣布将采用一项新标准，内容发布方可以借助该标准选择拒绝 AI 抓取自家网站内容。借助这项管控机制，内容发布方可以一次性向多家 AI 企业统一申明自身针对 AI 模型训练的内容使用偏好，而不必为每家企业单独设置规则。 该标准由 Anthropic 技术负责人 Kevin Kelley 向互联网工程任务组（IETF）提出，并将集成在网站的 robots.txt 文件中。 长期以来， robots.txt 文件用于告知网络爬虫哪些网站内容允许抓取、哪些禁止抓取，适用场景包含搜索索引、网页归档以及 AI 模型训练。目",
+   "published_at": 1793542792.0,
+   "published_bj": "2026-11-01 22:19"
+  },
+  {
+   "id": "4d9b71d8d37f6527",
+   "source": "IT之家",
+   "title": "海贝推出 HiBy R6III SE 便携 Hi-Fi 播放器：4 颗 CS43198 DAC 芯片，1798 元",
+   "url": "https://www.ithome.com/1/020/836.htm",
+   "summary": "IT之家 11 月 1 日消息，海贝宣布推出一款 HiBy R6III SE 便携 Hi-Fi 播放器，定价为 1798 元。 该机整体尺寸为 129.4 x 73.1 x 15.6 mm，重量为 250 g。提供黑色和海军蓝两种颜色选择，正面配备了一块 5 英寸 1280x720 分辨率 IPS 面板，背部搭配了钻石切割纹理的玻璃背板。 该机采用 4 颗 CS43198 DAC 芯片，支持 8 路独立输出。耳放部分支持 A 类和 AB 类模式切换，其中 A 类耳放由 OPA1652 运放、晶体管及 ELNA 音频电容组成。硬件搭载 45.158MHz 和 49.152MHz 两颗专用音频晶振",
+   "published_at": 1793541682.0,
+   "published_bj": "2026-11-01 22:01"
+  },
   {
    "id": "dad3654ea2690876",
    "source": "InfoQ中文",
    "title": "移动身份系统的密码学基础：ISO/IEC 18013-5 企业架构蓝图",
    "url": "https://www.infoq.cn/article/9aUBUMmhC4s5mEJgXHDL?utm_source=rss&utm_medium=article",
    "summary": "点击查看原文>",
+   "published_at": 1793541600.0,
+   "published_bj": "2026-11-01 22:00"
+  },
+  {
+   "id": "3e173cb7a0934e4b",
+   "source": "TechCrunch",
+   "title": "Here’s what ‘renoa’ — the first new fiber in 25 years — feels like",
+   "url": "https://techcrunch.com/2026/11/01/heres-what-renoa-the-first-new-fiber-in-25-years-feels-like/",
+   "summary": "Startup Everbloom's new material, renoa, is the first new fiber in 25 years, and it feels very familiar.",
    "published_at": 1793541600.0,
    "published_bj": "2026-11-01 22:00"
   },
@@ -20,6 +56,24 @@
    "summary": "IT之家 11 月 1 日消息，2026 年 10 月汽车销量 / 交付数据现已陆续公布。 比亚迪拿出单月交付 490,168 辆的答卷，继续稳坐头把交椅 。上汽集团凭销售 430,018 辆的成绩位居亚军。吉利以 310,183 辆的销量超越奇瑞（282,458 辆）拿下第三。 另外， 零跑汽车实现连续 4 个月月销超 10 万台 （10 月销量为 106,127 辆）。 小米汽车交付量在 10 月重回 50,000 辆 。“蔚小理”9 月分别交出 34,246 辆、50,237 辆、29,025 辆成绩。鸿蒙智行 10 月交付新车 33,537 辆， 均价超过 40 万元 。 IT之家汇总",
    "published_at": 1793541198.0,
    "published_bj": "2026-11-01 21:53"
+  },
+  {
+   "id": "2a4b466b070152d2",
+   "source": "Hacker News",
+   "title": "Novellas with Groff",
+   "url": "https://movq.de/blog/postings/2026-10-31/0/POSTING-en.html",
+   "summary": "Article URL: https://movq.de/blog/postings/2026-10-31/0/POSTING-en.html Comments URL: https://news.ycombinator.com/item?id=50325694 Points: 7 # Comments: 0",
+   "published_at": 1793541101.0,
+   "published_bj": "2026-11-01 21:51"
+  },
+  {
+   "id": "730c203689012bd6",
+   "source": "Hacker News",
+   "title": "AI agent swarms in Minecraft fail to build civilization, drown in bureaucracy",
+   "url": "https://www.tomshardware.com/tech-industry/artificial-intelligence/ai-agent-swarms-unleashed-in-minecraft-to-build-a-thriving-civilization-50-agent-teams-fail-after-falling-into-paralyzing-bureaucracy",
+   "summary": "Article URL: https://www.tomshardware.com/tech-industry/artificial-intelligence/ai-agent-swarms-unleashed-in-minecraft-to-build-a-thriving-civilization-50-agent-teams-fail-after-falling-into-paralyzing-bureaucracy Comments URL: https://news.ycombinator.com/item?id=50325662 Points: 13 # Comments: 2",
+   "published_at": 1793540844.0,
+   "published_bj": "2026-11-01 21:47"
   },
   {
    "id": "2a2e548c5738de86",
