@@ -1,7 +1,7 @@
 {
  "date": "2026-11-02",
- "generated_at": 1793555472.2490468,
- "count": 17,
+ "generated_at": 1793557927.666567,
+ "count": 19,
  "items": [
   {
    "id": "06f2207cf8243cdb",
@@ -29,6 +29,15 @@
    "summary": "点击查看原文>",
    "published_at": 1793557493.0,
    "published_bj": "2026-11-02 02:24"
+  },
+  {
+   "id": "257c2d05c5285477",
+   "source": "cnBeta",
+   "title": "Google AI Mode正在切断互联网流量 网站运营者陷入增长困境",
+   "url": "https://www.cnbeta.com.tw/articles/tech/1584628.htm",
+   "summary": "Google正在改变人们使用互联网的方式，而这种变化可能给整个网络生态系统带来深远影响。随着人工智能搜索逐渐取代传统搜索结果页面，用户越来越习惯直接从AI生成的摘要和对话中获取答案，而不是点击链接访问具体网站。对于长期依赖Google搜索流量获取用户的企业和网络出版商而言，这意味着一个曾经稳定的流量来源正在迅速萎缩。 阅读全文",
+   "published_at": 1793555835.0,
+   "published_bj": "2026-11-02 01:57"
   },
   {
    "id": "87186e7dbe9c9aee",
@@ -144,6 +153,15 @@
    "title": "Seoul Biosys Begins Production of Rare Earth-Free White Micro LEDs",
    "url": "https://www.ajupress.com/view/20261028171670308",
    "summary": "Article URL: https://www.ajupress.com/view/20261028171670308 Comments URL: https://news.ycombinator.com/item?id=50327058 Points: 20 # Comments: 1",
+   "published_at": 1793550206.0,
+   "published_bj": "2026-11-02 00:23"
+  },
+  {
+   "id": "b382a9bb3cead5b2",
+   "source": "Hacker News",
+   "title": "Seoul Viosys begins production of rare-earth-free white light emitter",
+   "url": "https://www.semiconductor-today.com/news_items/2026/oct/seoul-291026.shtml",
+   "summary": "Article URL: https://www.semiconductor-today.com/news_items/2026/oct/seoul-291026.shtml Comments URL: https://news.ycombinator.com/item?id=50327058 Points: 76 # Comments: 9",
    "published_at": 1793550206.0,
    "published_bj": "2026-11-02 00:23"
   },
