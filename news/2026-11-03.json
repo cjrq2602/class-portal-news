@@ -1,8 +1,26 @@
 {
  "date": "2026-11-03",
- "generated_at": 1793627263.0395925,
- "count": 8,
+ "generated_at": 1793631157.1579564,
+ "count": 10,
  "items": [
+  {
+   "id": "34f832b837eac571",
+   "source": "InfoQ中文",
+   "title": "从英伟达到 Pika，硅谷巨头为何“反向借力”这个国产模型？",
+   "url": "https://www.infoq.cn/article/h1310kHD9CWD1mO8aTAc?utm_source=rss&utm_medium=article",
+   "summary": "点击查看原文>",
+   "published_at": 1793659736.0,
+   "published_bj": "2026-11-03 06:48"
+  },
+  {
+   "id": "7616fa96a8a50e2b",
+   "source": "InfoQ中文",
+   "title": "微软推出 dotnetup：多版本管理更省心，安装方式却让开发者皱眉",
+   "url": "https://www.infoq.cn/article/7lNPPkEUVjtMYYvmXaA6?utm_source=rss&utm_medium=article",
+   "summary": "点击查看原文>",
+   "published_at": 1793655993.0,
+   "published_bj": "2026-11-03 05:46"
+  },
   {
    "id": "71b40480d5bb8097",
    "source": "InfoQ中文",
