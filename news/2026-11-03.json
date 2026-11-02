@@ -1,7 +1,7 @@
 {
  "date": "2026-11-03",
- "generated_at": 1793654636.0745838,
- "count": 46,
+ "generated_at": 1793658081.8008924,
+ "count": 51,
  "items": [
   {
    "id": "34f832b837eac571",
@@ -13,6 +13,15 @@
    "published_bj": "2026-11-03 06:48"
   },
   {
+   "id": "bc7bbeaef8cd974a",
+   "source": "TechCrunch",
+   "title": "Anthropic warns that it’s very close to RSI capability, aka self-building AI",
+   "url": "https://techcrunch.com/2026/11/02/anthropic-warns-that-its-very-close-to-rsi-capability-aka-self-building-ai/",
+   "summary": "RSI is the point at which AI grows so good at training itself that it spawns a dramatic acceleration of AI capabilities. To the AI doomers, RSI represents the cataclysm from which there is no return.",
+   "published_at": 1793657690.0,
+   "published_bj": "2026-11-03 06:14"
+  },
+  {
    "id": "7616fa96a8a50e2b",
    "source": "InfoQ中文",
    "title": "微软推出 dotnetup：多版本管理更省心，安装方式却让开发者皱眉",
@@ -22,6 +31,15 @@
    "published_bj": "2026-11-03 05:46"
   },
   {
+   "id": "aa76f621432ca861",
+   "source": "Hacker News",
+   "title": "BYD sold more EVs last month than the US did all quarter, topping 300,000",
+   "url": "https://electrek.co/2026/11/02/byd-sold-more-evs-last-month-than-the-us-did-all-quarter/",
+   "summary": "Article URL: https://electrek.co/2026/11/02/byd-sold-more-evs-last-month-than-the-us-did-all-quarter/ Comments URL: https://news.ycombinator.com/item?id=50344181 Points: 45 # Comments: 26",
+   "published_at": 1793655529.0,
+   "published_bj": "2026-11-03 05:38"
+  },
+  {
    "id": "b58a3c86810513ad",
    "source": "IT之家",
    "title": "安森美 2026 财年前三季度报归母净利润 5.07 亿美元，同比扭亏为盈",
@@ -29,6 +47,15 @@
    "summary": "IT之家 11 月 3 日消息，安森美今日发布 2026 财年（2026 年 1 月～2026 年 12 月）前三季度报（2026 年 1 月～2026 年 9 月）及第三财季（2026 年 7 月～2026 年 9 月）报告： 2026 财年前三季度报 营业总收入 ：48.39 亿美元 （IT之家注：现汇率约合 322.33 亿元人民币） ，同比增长 8.37% 毛利润 ：19.12 亿美元 （现汇率约合 127.38 亿元人民币） ，同比增长 33.46% 毛利率 ：39.5%，同比增长 7.4 个百分点 归母净利润 ：5.07 亿美元 （现汇率约合 33.79 亿元人民币） ，同比扭亏为",
    "published_at": 1793654428.0,
    "published_bj": "2026-11-03 05:20"
+  },
+  {
+   "id": "7889f709547916c5",
+   "source": "Hacker News",
+   "title": "Valve \"played capitalism so well they broke it\" and now Steam can't be replaced",
+   "url": "https://www.gamesradar.com/games/valve-played-capitalism-so-well-they-broke-it-and-now-steam-can-never-be-replaced-former-epic-dev-says-i-dont-think-this-is-fixable/",
+   "summary": "Article URL: https://www.gamesradar.com/games/valve-played-capitalism-so-well-they-broke-it-and-now-steam-can-never-be-replaced-former-epic-dev-says-i-dont-think-this-is-fixable/ Comments URL: https://news.ycombinator.com/item?id=50343418 Points: 31 # Comments: 33",
+   "published_at": 1793652156.0,
+   "published_bj": "2026-11-03 04:42"
   },
   {
    "id": "71b40480d5bb8097",
@@ -119,6 +146,15 @@
    "summary": "点击查看原文>",
    "published_at": 1793645532.0,
    "published_bj": "2026-11-03 02:52"
+  },
+  {
+   "id": "1ebf4554a28a1adb",
+   "source": "Hacker News",
+   "title": "Ballot Rejections Have Soared in Rural Counties as USPS Reduces Mail Service",
+   "url": "https://www.propublica.org/article/mail-ballot-delays-postal-service-midterms",
+   "summary": "Article URL: https://www.propublica.org/article/mail-ballot-delays-postal-service-midterms Comments URL: https://news.ycombinator.com/item?id=50341616 Points: 44 # Comments: 17",
+   "published_at": 1793645280.0,
+   "published_bj": "2026-11-03 02:48"
   },
   {
    "id": "70439ac79a5d93b7",
@@ -217,6 +253,15 @@
    "url": "https://www.johndcook.com/blog/2026/11/02/projective-plane/",
    "summary": "Article URL: https://www.johndcook.com/blog/2026/11/02/projective-plane/ Comments URL: https://news.ycombinator.com/item?id=50340629 Points: 6 # Comments: 0",
    "published_at": 1793641679.0,
+   "published_bj": "2026-11-03 01:47"
+  },
+  {
+   "id": "46403aeab1726955",
+   "source": "Hacker News",
+   "title": "Self-Employed? Solopreneur? NIST Has a Cybersecurity Guide Just for You",
+   "url": "https://www.nist.gov/news-events/news/2026/11/self-employed-solopreneur-nist-has-cybersecurity-guide-just-you",
+   "summary": "Article URL: https://www.nist.gov/news-events/news/2026/11/self-employed-solopreneur-nist-has-cybersecurity-guide-just-you Comments URL: https://news.ycombinator.com/item?id=50340619 Points: 21 # Comments: 2",
+   "published_at": 1793641660.0,
    "published_bj": "2026-11-03 01:47"
   },
   {
