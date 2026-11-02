@@ -1,7 +1,7 @@
 {
  "date": "2026-11-01",
- "generated_at": 1793575719.5088491,
- "count": 256,
+ "generated_at": 1793578153.4470975,
+ "count": 257,
  "items": [
   {
    "id": "75d4e55ad401e7e7",
@@ -2207,6 +2207,15 @@
    "summary": "Article URL: https://www.cairoreport.org/p/egypt-brazil-iraq-billboard-hack Comments URL: https://news.ycombinator.com/item?id=50318182 Points: 19 # Comments: 9",
    "published_at": 1793468165.0,
    "published_bj": "2026-11-01 01:36"
+  },
+  {
+   "id": "c485b45ae9362743",
+   "source": "Hacker News",
+   "title": "The She-Wolves of Jülich",
+   "url": "https://www.historytoday.com/archive/history-matters/she-wolves-julich",
+   "summary": "Article URL: https://www.historytoday.com/archive/history-matters/she-wolves-julich Comments URL: https://news.ycombinator.com/item?id=50318129 Points: 8 # Comments: 0",
+   "published_at": 1793467779.0,
+   "published_bj": "2026-11-01 01:29"
   },
   {
    "id": "b4138b5094795049",
