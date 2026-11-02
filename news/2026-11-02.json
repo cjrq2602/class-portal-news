@@ -1,7 +1,7 @@
 {
  "date": "2026-11-02",
- "generated_at": 1793597928.367039,
- "count": 129,
+ "generated_at": 1793601719.49816,
+ "count": 170,
  "items": [
   {
    "id": "46d979c8bb32a1fb",
@@ -38,6 +38,357 @@
    "summary": "点击查看原文>",
    "published_at": 1793610735.0,
    "published_bj": "2026-11-02 17:12"
+  },
+  {
+   "id": "ad51783ed0f5d538",
+   "source": "cnBeta",
+   "title": "ChatGPT将加强暴力内容限制 若用户反复出现危险对话则可能会被封号",
+   "url": "https://www.cnbeta.com.tw/articles/tech/1584682.htm",
+   "summary": "OpenAI 日前宣布将在未来几周内加强 ChatGPT 对暴力相关内容的限制，为未成年人用户增加武器和安全系统信息方面的保护。根据新措施，当对话显示用户持续关注暴力或严重伤害他人的想法时，ChatGPT 可以自行结束对话，若多次因此类问题被结束对话，甚至账号都会被封禁。 阅读全文",
+   "published_at": 1793601660.0,
+   "published_bj": "2026-11-02 14:41"
+  },
+  {
+   "id": "14c077bc13dea2ee",
+   "source": "cnBeta",
+   "title": "华尔街日报披露苹果与闪存供应商谈判细节 开会到半夜 中途不吃饭不休息",
+   "url": "https://www.cnbeta.com.tw/articles/tech/1584680.htm",
+   "summary": "长期以来苹果凭借庞大的采购规模，在闪存供应链中拥有极强的议价能力。但随着 AI 数据中心大举采购存储芯片，闪存供应商找到愿意支付更高价格的新客户，因此苹果与供应商之间的谈判天平正在发生变化。 阅读全文",
+   "published_at": 1793601614.0,
+   "published_bj": "2026-11-02 14:40"
+  },
+  {
+   "id": "b719d8abc6e1ae93",
+   "source": "IT之家",
+   "title": "Epic 喜加一：横版动作冒险游戏《Epic World - Hunt For Quest》免费领",
+   "url": "https://www.ithome.com/1/021/009.htm",
+   "summary": "IT之家 11 月 2 日消息，开发团队 Yash Future Tech Solutions 宣布旗下横版动作冒险游戏《Epic World - Hunt For Quest》现已在 Epic 游戏商城开启限时免费“喜加一”活动，玩家可以在北京时间 11 月 9 日前免费领取。 需要注意的是，本次限免并非 Epic 官方活动，而是由开发团队自行发起的特别促销，IT之家附游戏商品页（ https://store.epicgames.com/p/epic-world-hunt-for-quest-4500b1 ）。 《Epic World - Hunt For Quest》采用 2D 平台跳跃玩",
+   "published_at": 1793601407.0,
+   "published_bj": "2026-11-02 14:36"
+  },
+  {
+   "id": "b5fb2db2edc5ba7d",
+   "source": "IT之家",
+   "title": "每年仅 92 元：B站大会员双年卡 184 元年内新低",
+   "url": "https://www.ithome.com/1/021/008.htm",
+   "summary": "B站大会员双年卡原价 313 元，11.11 大促期间，直降至 198 元： 先领 10 元券 再点击下方淘金币大额抵扣横幅，淘金币抵扣 3.13 元； 实付 184.87 元到手 2 年，折合年卡约 92.43 元： 天猫 哔哩哔哩大会员 双年卡 券后 184.87 元 领 115 元券 * 活动时间为 10 月 30 日 20 点 ~11 月 11 日 23:59:59。 ** 淘金币大额抵超级补贴专享价限量前 2000 单，先到先得。且 10 元平台补贴券数量有限先到先得，下单仔细核对您的充值账号和支付金额，充值成功未使用平台补贴券或未享受淘金币大额抵超级补贴专享价均不支持退换或者退差价",
+   "published_at": 1793601362.0,
+   "published_bj": "2026-11-02 14:36"
+  },
+  {
+   "id": "fd9b5f6699fdb07f",
+   "source": "IT之家",
+   "title": "Meta 与中国企业合作开发人形机器人？傅利叶：暂不方便回复",
+   "url": "https://www.ithome.com/1/021/004.htm",
+   "summary": "IT之家 11 月 2 日消息，近日有传闻称，Meta 已与中国机器人公司傅利叶合作，在大约三个月内打造出一款人形机器人原型 Max，其身高接近 1.5 米，体重约 48.1 千克，搭载英伟达 Thor 芯片。 据第一财经消息，傅利叶创始人、CEO 顾捷对此表示， 暂不方便回复 。 据IT之家此前援引 The Information 消息 ，Meta CEO 马克 · 扎克伯格将这款人形机器人视为 Muse 模型的“物理化身”，认为它能够承担日常家务。两家公司已在今年 9 月启动 Max 2 原型产品的研发工作。新机器人预计将重新设计躯干部分，并进行其他常规升级。",
+   "published_at": 1793601285.0,
+   "published_bj": "2026-11-02 14:34"
+  },
+  {
+   "id": "5723110495e7ba60",
+   "source": "IT之家",
+   "title": "送货无人车闯红灯致 9 人受伤，Starship 公司甩锅广告牌、否认肇事逃逸",
+   "url": "https://www.ithome.com/1/021/003.htm",
+   "summary": "IT之家 11 月 2 日消息，据 El Cronista 报道，当地时间 10 月 26 日晚，爱沙尼亚首都塔林的一辆送货无人车闯红灯，导致一辆公交车突然刹车，发生了一起严重的交通事故， 导致 9 名乘客受伤 。 公交车上的摄像头记录了两辆车相撞的瞬间。撞击后，无人车在警方到达前离开了现场。 开发该无人车的 Starship Technologies 公司将事故归咎于技术问题，公司首席运营官 Pepe Aaviksoo 表示，当时晚间光线昏暗， 同时红绿灯后方的亮灯广告牌干扰了无人车的判断 。他还说，从设备的视角看，公交车和车辆信号灯排列一致，这使得识别变得更加困难。 Aaviksoo 补充",
+   "published_at": 1793601281.0,
+   "published_bj": "2026-11-02 14:34"
+  },
+  {
+   "id": "f47fc706dcf0c6c6",
+   "source": "cnBeta",
+   "title": "A社/O社/谷歌/微软联合起草拒绝AI训练声明 网站只需要添加声明即可阻止",
+   "url": "https://www.cnbeta.com.tw/articles/tech/1584678.htm",
+   "summary": "Google、微软、OpenAI 以及 Anthropic 正在支持新的 AI 训练偏好声明，该声明允许网站通过修改 robots.txt 表明是否允许内容被 AI 公司用于训练模型。按照该草案，网站管理员只需要添加一组规则就可以向多家支持该规则的 AI 公司表达声明。 阅读全文",
+   "published_at": 1793601101.0,
+   "published_bj": "2026-11-02 14:31"
+  },
+  {
+   "id": "2b429b0f4d2fb1ef",
+   "source": "IT之家",
+   "title": "币安遭黑客盗取 63 亿美元资产后恢复线上服务，平台现大额提现潮",
+   "url": "https://www.ithome.com/1/021/000.htm",
+   "summary": "IT之家 11 月 2 日消息，全球最大加密货币交易所币安在上周遭到黑客盗取数十亿美元资产后，于周日恢复线上服务，期间客户共提走 36.4 亿美元 （IT之家注：现汇率约合 242.46 亿元人民币） 资金，占平台资产规模的 2.1%。 币安表示，提现规模在初期激增之后已经趋于平稳，充值量依旧保持在较高水平。交易所称，目前已经补足 63 亿美元 （现汇率约合 419.63 亿元人民币） 被盗资产中的 95%。 业内分析师认为，这起盗窃案可能是史上规模最大的金融劫案，也是近期一连串加密货币失窃事件中的一起。提现数据是一次早期考验，用来判断遭遇攻击后客户是否还愿意把资金存放在这家交易所。区块链研究",
+   "published_at": 1793600994.0,
+   "published_bj": "2026-11-02 14:29"
+  },
+  {
+   "id": "4e619d91718c3b2b",
+   "source": "cnBeta",
+   "title": "微软解释为什么Windows 11任务栏不能直接拖动移动位置：担心用户误操作",
+   "url": "https://www.cnbeta.com.tw/articles/tech/1584676.htm",
+   "summary": "目前 Windows 11 已经重新支持将任务栏调整到屏幕顶部、屏幕左侧或屏幕右侧，不过如果用户想要调整任务栏位置必须进入设置，不能像 Windows 10 那样直接拖动任务栏放到自己想要的位置。 阅读全文",
+   "published_at": 1793600985.0,
+   "published_bj": "2026-11-02 14:29"
+  },
+  {
+   "id": "d8701687563d9ff9",
+   "source": "IT之家",
+   "title": "这一关键部件不再受制于人：国产首款商品化 CryoHe 系列核磁超低温探头发布，性能达国际一流水平",
+   "url": "https://www.ithome.com/1/020/998.htm",
+   "summary": "IT之家 11 月 2 日消息，据科技日报今日报道，由国仪量子技术（合肥）股份有限公司自主研发的 国产首款商品化 CryoHe 系列核磁超低温探头与 CAN-S 系列高场固体核磁共振波谱仪 在武汉市举行的第二届分析科学与仪器大会上正式对外发布。 核磁共振波谱仪是科研人员解析分子结构的核心工具之一。新药分子的骨架长什么样、蛋白质在溶液里如何折叠、代谢物在样本中含量多少，许多问题都要靠它给出答案。 而核磁探头则是决定探测能力的关键部件，也是液体核磁突破灵敏度瓶颈的主要路径 。 据介绍，CryoHe 系列核磁超低温探头将核心射频线圈稳定在约 20K（约零下 253 摄氏度），使探测灵敏度较室温探头提",
+   "published_at": 1793600812.0,
+   "published_bj": "2026-11-02 14:26"
+  },
+  {
+   "id": "e6b3c1631589fd8d",
+   "source": "IT之家",
+   "title": "Keychron 推出 Q19 HE 8K 磁轴键盘：黄金罗盘主题，做旧铝制机身",
+   "url": "https://www.ithome.com/1/020/997.htm",
+   "summary": "IT之家 11 月 2 日消息，Keychron（渴创）上月末推出了 Q19 HE 8K 磁轴键盘。这一有线型号采用“黄金罗盘”主题设计，铝制机身经过做旧处理， 背板和键帽装饰以罗盘、船舵、船锚等航海元素 。 Q19 HE 8K 采用 60% 配列，支持 8kHz 回报率，Rapid Trigger 精度可达 0.005mm。其采用 TOP 固定结构，内嵌 FR4 定位板和多层阻尼填充，PCB 支持轴体热插拔、集成南向 RGB LED 背光，原装搭载青柠磁轴、CHERRY 高度 PBT 材质热升华工艺键帽。 IT之家了解到，Keychron Q19 HE 8K 键盘 售价 254.99 美元 ",
+   "published_at": 1793600778.0,
+   "published_bj": "2026-11-02 14:26"
+  },
+  {
+   "id": "c6bcb9ad7ae1b2b3",
+   "source": "cnBeta",
+   "title": "特斯拉Cybercab万圣节整活 载骷髅夜间狂飙",
+   "url": "https://www.cnbeta.com.tw/articles/tech/1584674.htm",
+   "summary": "特斯拉官方Robotaxi账号在万圣节周末发布了一条趣味宣传片， 一辆Cybercab无人驾驶出租车在夜间街头巡游，车内坐着两具骷髅，绿色氛围灯映照整个座舱，方向盘位置空空如也，因为Cybercab压根就没有方向盘。 阅读全文",
+   "published_at": 1793600450.0,
+   "published_bj": "2026-11-02 14:20"
+  },
+  {
+   "id": "74c9f025a26007d8",
+   "source": "cnBeta",
+   "title": "千禧年数学难题被AI一周攻克 陶哲轩却说整个学科正面临危机",
+   "url": "https://www.cnbeta.com.tw/articles/science/1584672.htm",
+   "summary": "《纽约客》杂志近日刊发特稿，记录了2026年人工智能给基础数学界带来的剧烈震荡。随着OpenAI与Anthropic接连攻克多项世纪数学难题，菲尔兹奖得主陶哲轩与多位顶尖学者开始呼吁学界踩下刹车，警惕人类数学直觉与学术生态在算力狂飙中遭到破坏。 阅读全文",
+   "published_at": 1793600389.0,
+   "published_bj": "2026-11-02 14:19"
+  },
+  {
+   "id": "1efe212a19935609",
+   "source": "cnBeta",
+   "title": "彭博：苹果错失触屏革命机遇 五年来最大变革却被当作常规升级",
+   "url": "https://www.cnbeta.com.tw/articles/tech/1584670.htm",
+   "summary": "11月2日，彭博社发文称，苹果原本有机会把Mac上的触摸屏打造成一种全新体验，但是该公司为了稳妥只是把它当成了一次常规升级，并没有提供多少吸引用户使用该功能的理由。 阅读全文",
+   "published_at": 1793600345.0,
+   "published_bj": "2026-11-02 14:19"
+  },
+  {
+   "id": "a8c65fe7242781fe",
+   "source": "cnBeta",
+   "title": "5万颗反光卫星、18米大镜子 美国一公司想在太空卖阳光引发争议",
+   "url": "https://www.cnbeta.com.tw/articles/science/1584668.htm",
+   "summary": "近日，美国加州偏远地区居民惊讶发现，夜间附近山上有耀眼强光投射下来，照亮下方大片沙漠。多家媒体报道称， 这是美国初创公司“反射轨道”（Reflect Orbital）正在进行的夜间照明演示，该公司计划未来十年在太空部署数万面巨型镜子，将阳光反射到地球表面，相关计划引发巨大争议。 阅读全文",
+   "published_at": 1793600250.0,
+   "published_bj": "2026-11-02 14:17"
+  },
+  {
+   "id": "9b2a48b93b7bc3b1",
+   "source": "IT之家",
+   "title": "三星 Galaxy Z Fold 9 折叠屏手机爆料：内屏屏下摄像头或将回归",
+   "url": "https://www.ithome.com/1/020/994.htm",
+   "summary": "IT之家 11 月 2 日消息，据科技媒体 Sammobile 今天报道，三星 Galaxy Z Fold9 折叠屏手机有可能重新引入屏下摄像头，或许是受到苹果 iPhone Duo 启发。 ▲ Galaxy Z Fold8 一名爆料人士声称， 三星已决定为 Galaxy Z Fold9 的内屏配备屏下摄像头（IT之家注：UDC） 。作为参考，三星早在 2021 年的 Galaxy Z Fold3 上引入这项技术，一直沿用到 Galaxy Z Fold6。从 Galaxy Z Fold7 开始三星取消了这种设计，内屏前摄改为传统挖孔，提升整体成像质量。 ▲ Galaxy Z Fold6 这名爆",
+   "published_at": 1793600108.0,
+   "published_bj": "2026-11-02 14:15"
+  },
+  {
+   "id": "8c2fc6aeb20e86e1",
+   "source": "cnBeta",
+   "title": "OpenAI宣布额度新规：ChatGPT与Codex共用 即时聊天不限量",
+   "url": "https://www.cnbeta.com.tw/articles/tech/1584666.htm",
+   "summary": "OpenAI近日向用户发送通知称，随着ChatGPT“聊天”和“工作”功能整合，未来几周内，用户使用ChatGPT和Codex将共用同一份额度。根据OpenAI帮助中心的说明，这一变化将从 12月 开始，适用于 Plus、Pro和Business套餐 。额度消耗取决于用户选择的模型和执行的任务，通常情况下，更高级的模型和更复杂的任务会消耗更多额度。 阅读全文",
+   "published_at": 1793600082.0,
+   "published_bj": "2026-11-02 14:14"
+  },
+  {
+   "id": "8eb44c4ac81046b7",
+   "source": "IT之家",
+   "title": "冯骥发文祝贺《影之刃零》销量破 400 万：游戏归根到底，是热爱者做给热爱者的事物",
+   "url": "https://www.ithome.com/1/020/993.htm",
+   "summary": "IT之家 11 月 2 日消息，国产武侠游戏《影之刃零》官方今日宣布， 本作发售后 72 小时全平台销量突破 400 万 。 游戏科学创始人、CEO /《黑神话：悟空》制作人冯骥今日发文祝贺，表示《影之刃零》比销量更让人欣喜的，是好评率连续三天的变化。 游戏归根到底，是热爱者做给热爱者的事物啊 。 有网友询问冯骥有没有玩《影之刃零》，对方表示：“周末有点其他事耽误了，刚看了下游戏时间， 30.7 小时 （划船 ing。” IT之家注：《影之刃零》由灵游坊自主研发发行，采用虚幻引擎 5 打造，定位黑暗武侠题材第三人称动作冒险与单机动作 RPG，把中国武术与蒸汽朋克融合为功夫朋克风格，美术深沉黑暗",
+   "published_at": 1793600074.0,
+   "published_bj": "2026-11-02 14:14"
+  },
+  {
+   "id": "d5879ec3d5f25e6b",
+   "source": "cnBeta",
+   "title": "币安恢复提现后遭遇小高峰：净流出36.4亿美元",
+   "url": "https://www.cnbeta.com.tw/articles/tech/1584664.htm",
+   "summary": "11月2日，据路透社报道，全球最大加密货币交易所币安在遭到黑客攻击后，于周日恢复提现。币安客户提走了36.4亿美元，占其资产的2.1%。币安表示，在最初的提现高峰过后，客户提现规模已趋于稳定，存款金额则一直保持在“可观水平”。该交易所称，目前已补回被盗63亿美元资产的95%。 阅读全文",
+   "published_at": 1793600057.0,
+   "published_bj": "2026-11-02 14:14"
+  },
+  {
+   "id": "06f0ec664542b32d",
+   "source": "cnBeta",
+   "title": "联想指纹加密U盘被曝形同虚设：拆开外壳就能读取数据",
+   "url": "https://www.cnbeta.com.tw/articles/tech/1584662.htm",
+   "summary": "据科技媒体Tom’s Hardware报道，安全研究人员发现，一款宣称采用AES-256加密技术的联想ThinkPlus FU100指纹U盘，内部存储数据的SD卡实际上并未加密。拿到设备的人只需拆开外壳，就可能绕过指纹识别读取数据。 阅读全文",
+   "published_at": 1793600024.0,
+   "published_bj": "2026-11-02 14:13"
+  },
+  {
+   "id": "fe2f37b5ab6c2ed8",
+   "source": "IT之家",
+   "title": "曾毓群全英文发言：宁德时代也在用 AI 进行技术创新，可在短时间筛选千种化合物",
+   "url": "https://www.ithome.com/1/020/989.htm",
+   "summary": "IT之家 11 月 2 日消息，据科技日报今日报道，在 2026 世界顶尖科学家论坛现场，宁德时代创始人曾毓群全英文发言，分享了宁德时代以 AI 加速能源科研创新的最新探索。 超 600TB 基础研究数据、超 1 万亿条测试记录， AI 可在短时间筛选千种化合物，锁定 7 种潜力材料 。曾毓群表示，当前 AI 能力还远远不够，需要更多的科学家和更先进的模型加入进来，加快更多科研与创新成果的发现。 IT之家查询公开资料获悉，2026 世界顶尖科学家论坛开幕式暨世界顶尖科学家奖颁奖典礼于 10 月 31 日上午在上海临港中心举行。 本次论坛以“范式变革 · 科学突破的下一个十年”为主题，由开幕式暨",
+   "published_at": 1793599882.0,
+   "published_bj": "2026-11-02 14:11"
+  },
+  {
+   "id": "f767d4773b862bc1",
+   "source": "Solidot",
+   "title": "Stack Overflow 表示它还活着",
+   "url": "https://www.solidot.org/story?sid=85769",
+   "summary": "Stack Overflow 自己的统计数据显示，它一个月内的新增问题数已经低于 1000。此事再次在社交媒体上引发了编程问答社区即将死亡的讨论。Stack Overflow 官方博客回应说，死亡预测夸大其词，混淆了获取知识方式的改变与知识本身——以及背后的公司——消失两个概念。AI 改变了开发者的行为。在 Stack Overflow 近期发布的《2026 年开发者调查》中，64% 的受访者表示，对于简单问题他们减少了访问 Stack Overflow 的频率。但对于更深入的问题，他们会访问该平台验证由 AI 生成的答案。Stack Overflow 依然是一个可以挑战既定假设、比较不同方法",
+   "published_at": 1793599739.0,
+   "published_bj": "2026-11-02 14:08"
+  },
+  {
+   "id": "97a2e2bcf74fe324",
+   "source": "cnBeta",
+   "title": "大学生宿舍搓出全球最快无人机 时速达790km/h",
+   "url": "https://www.cnbeta.com.tw/articles/tech/1584660.htm",
+   "summary": "乔治亚理工学院航空航天工程专业学生Tomas Salvo在宿舍里手搓出一架名为“Reaper”的喷气动力无人机，时速达到491英里/小时（约790公里/小时），非官方打破了保持9年之久的世界纪录。 阅读全文",
+   "published_at": 1793599720.0,
+   "published_bj": "2026-11-02 14:08"
+  },
+  {
+   "id": "a8372531ca0be841",
+   "source": "IT之家",
+   "title": "香蕉派推出 BPI-RT2 无线路由器：AX3000 规格，提供 4 个千兆网口",
+   "url": "https://www.ithome.com/1/020/982.htm",
+   "summary": "IT之家 11 月 2 日消息，香蕉派 (Banana Pi) 近日推出了 BPI-RT2 无线路由器。其 具备 AX3000 的无线规格 ， 提供 4 个 1GbE RJ-45 网口 。 IT之家了解到，该无线路由器 基于瑞昱 RTL8198D 处理器 ，该处理器拥有 2 个 MIPS interAptiv CPU 内核并集成 256MB DDR3 内存。 BPI-RT2 长宽 97×65 (mm)，配备 128MB SPI NAND 闪存，拥有 1 个 UART Debug 接口，提供 1 个 USB-A 5Gbps。",
+   "published_at": 1793599564.0,
+   "published_bj": "2026-11-02 14:06"
+  },
+  {
+   "id": "a9be8d4d8a7f5370",
+   "source": "cnBeta",
+   "title": "Claude发现潜伏在Linux内核中长达11年的严重漏洞",
+   "url": "https://www.cnbeta.com.tw/articles/tech/1584658.htm",
+   "summary": "Anthropic近日发布的安全研究披露，其内部未发布的Claude模型在系统性测试中，发现了一个潜伏在Linux内核中长达11年的严重漏洞。该漏洞编号CVE-2026-98432，CVSS严重性评分高达9.8分，属于远程代码执行级别的最高危漏洞。 阅读全文",
+   "published_at": 1793599564.0,
+   "published_bj": "2026-11-02 14:06"
+  },
+  {
+   "id": "96934770c6f9d37a",
+   "source": "IT之家",
+   "title": "苹果 iOS 27.2 更新无法阻止百度网盘摇一摇广告，知情人士回应称并非特意绕开",
+   "url": "https://www.ithome.com/1/020/979.htm",
+   "summary": "IT之家 11 月 2 日消息，据澎湃新闻今日报道，有网友表示， 苹果 iOS 27.2 原本可有效阻止摇一摇广告 ，但却阻止不了百度网盘 App 的摇一摇广告跳转。 报道称，有开发者用 AI 对百度网盘 iOS 版进行了逆向分析，认为百度网盘的广告框架存在一种名为“No Shake”的实现方式， 可以在苹果系统禁止读取运动数据的情况下，换一套传感器来判断用户是否转动手机 。 有知情人士向该媒体表示， 并非百度网盘业务特意绕开该功能 ，而是苹果应用商城审核较严，百度网盘的新版本还未通过审核，新版本功能适配，“预计用户这两天就可以更新到新版，也可能今天就能上线了。” IT之家注意到，百度网盘 i",
+   "published_at": 1793599487.0,
+   "published_bj": "2026-11-02 14:04"
+  },
+  {
+   "id": "d1d8224648d5d551",
+   "source": "IT之家",
+   "title": "三星预计 2027 年 8nm 及以下制程产线利用率有望突破 100%，HPC 芯片成为主导力量",
+   "url": "https://www.ithome.com/1/020/970.htm",
+   "summary": "IT之家 11 月 2 日消息，据 TrendForce 上周（10 月 30 日）报道，由于 AI 热潮持续，三星存储业务在 2026 年第三季度创下营收记录，晶圆代工业务也开始显现复苏迹象。 三星预计，8nm 及以下制程需求将超越现有产能， 2027 年相关产能利用率有望突破 100% 。而韩联社报道称，三星今年获得的 2nm 制程项目预计将同比增长 1 倍以上。其中三季度在大型云服务提供商及 AI / HPC 客户获得的 2nm 制程项目更多，延续上一季度增长势头。 随着先进制程需求增长速度超过产能扩张速度，三星正考虑在美国和韩国投资建设新晶圆厂，以满足持续增长的 2nm AI（人工智能",
+   "published_at": 1793599275.0,
+   "published_bj": "2026-11-02 14:01"
+  },
+  {
+   "id": "e8f02f0af536fc00",
+   "source": "cnBeta",
+   "title": "NASA火星模拟实验结束 四名宇航员隔离378天后出舱",
+   "url": "https://www.cnbeta.com.tw/articles/science/1584656.htm",
+   "summary": "11月2日，据路透社报道，在美国得州休斯敦的美国宇航局(NASA)约翰逊航天中心，四名参与模拟火星任务的机组人员在隔离378天后出舱。这项实验旨在为NASA宇航员未来可能开展的火星探测任务做准备。 阅读全文",
+   "published_at": 1793599225.0,
+   "published_bj": "2026-11-02 14:00"
+  },
+  {
+   "id": "a2e4bea3d9b3e4c8",
+   "source": "cnBeta",
+   "title": "奔驰新款长轴E级车上市：首次搭载中国团队开发的AI座舱",
+   "url": "https://www.cnbeta.com.tw/articles/tech/1584654.htm",
+   "summary": "11月2日，2026年款梅赛德斯-奔驰长轴距E级车今日上市，起售价为42.38万元。新车率先搭载由奔驰中国研发团队主导、独立开发的全新AI智能座舱，车载虚拟助手融合豆包AI大模型，新增声纹识别等功能。 阅读全文",
+   "published_at": 1793599205.0,
+   "published_bj": "2026-11-02 14:00"
+  },
+  {
+   "id": "c071134426edc107",
+   "source": "cnBeta",
+   "title": "第一批抢到iPhone Duo的人，心碎",
+   "url": "https://www.cnbeta.com.tw/articles/tech/1584652.htm",
+   "summary": "漏液、黑屏、白线。苹果有史以来的最贵机型，买来不到两天屏幕就坏了。10月23日，苹果首款折叠屏iPhone Duo正式开售。15999元起的定价，成为了苹果有史以来的最贵机型。首发当天，不少用户排队、代购甚至从黄牛手中加价购买。场外的黄牛收购价也水涨船高，一度溢价近3000元/台。 阅读全文",
+   "published_at": 1793599141.0,
+   "published_bj": "2026-11-02 13:59"
+  },
+  {
+   "id": "11146fbc4754ec93",
+   "source": "cnBeta",
+   "title": "旺季没旺起来 车企KPI大溃败",
+   "url": "https://www.cnbeta.com.tw/articles/tech/1584650.htm",
+   "summary": "“旺季没旺起来，是最要命的。”10月份刚结束，车企就开始放榜，在聊具体数字之前，我们先看大盘。10月狭义乘用车零售约160万辆，环比下滑1.1%，9月是161.8万辆，同比下滑28%。连续两个月，同比跌幅都在28%上下。乘联分会预计，2026年乘用车零售1850万辆，同比下滑22%。 阅读全文",
+   "published_at": 1793599104.0,
+   "published_bj": "2026-11-02 13:58"
+  },
+  {
+   "id": "5f141f88ac39a884",
+   "source": "cnBeta",
+   "title": "废弃羽毛也能做成“羊绒”？一家初创公司做到了",
+   "url": "https://www.cnbeta.com.tw/articles/science/1584648.htm",
+   "summary": "美国联邦贸易委员会（FTC）已批准一种名为renoa的新纤维分类，这是25年来首个获准新增的纤维分类 。开发该材料的初创公司Everbloom希望，这种由废弃蛋白制成的类羊绒纤维能提供可水洗、更易打理、且有望更便宜的替代选择。 阅读全文",
+   "published_at": 1793598706.0,
+   "published_bj": "2026-11-02 13:51"
+  },
+  {
+   "id": "958bdbc76b00c993",
+   "source": "IT之家",
+   "title": "比亚迪仰望 U9X 重启极速挑战，小米胡峥楠称致敬所有还在坚持实干的先行者和同行者",
+   "url": "https://www.ithome.com/1/020/954.htm",
+   "summary": "IT之家 11 月 2 日消息，去年，仰望 U9X（仰望 U9 Xtreme）以 496.22 km/h 的成绩，站上全球汽车极速的巅峰。 比亚迪仰望汽车今日正式宣布， 重启极速挑战 ，将在阿联酋首都阿布扎比开启一场全新的开放公路极速挑战。 IT之家注意到，小米集团副总裁、汽车部 CTO 胡峥楠转发了该微博，并表示致敬所有还在坚持实干的先行者和同行者。 十分感人，感同身受。高性能这条赛道从来都是充满了未知和风险，但只有实实在在地做了，且持续地做，才能知道下一秒的提升点在哪里。 致敬所有还在坚持实干的先行者和同行者 ！ 相关阅读： 《 496.22km/h 不是终点：比亚迪胡晓庆宣布仰望 U9 ",
+   "published_at": 1793598673.0,
+   "published_bj": "2026-11-02 13:51"
+  },
+  {
+   "id": "80e2d901c5e28c6c",
+   "source": "cnBeta",
+   "title": "OpenAI即将发布新模型？GPT-6.2 Astra曝光",
+   "url": "https://www.cnbeta.com.tw/articles/tech/1584646.htm",
+   "summary": "11月2日，多位用户在X发帖称，OpenAI似乎已经开始测试GPT-6.2 Astra模型。目前，OpenAI公开发布的最新模型为GPT-6.1 Terra，还没有推出GPT-6.1 Astra。跟踪AI模型最新动态的X用户Token Gremlin发帖称，OpenAI正在悄悄对一个名为GPT-6.2 Astra的新版本进行A/B测试，而该型号已经出现在Codex的使用情况统计数据中。 阅读全文",
+   "published_at": 1793598611.0,
+   "published_bj": "2026-11-02 13:50"
+  },
+  {
+   "id": "1519c05b6388c7bf",
+   "source": "cnBeta",
+   "title": "罗技鼠标促销视频再引争议 小狗表情包让网友想起此前侮辱性广告",
+   "url": "https://www.cnbeta.com.tw/articles/tech/1584644.htm",
+   "summary": "11月2日，罗技相关店铺的一则鼠标促销视频引发网友争议，话题“罗技跟用户干上了”登上微博热搜。部分网友认为，视频中使用的小狗表情包涉嫌讽刺消费者，让人联想到今年3月罗技账号发布的侮辱性广告。 阅读全文",
+   "published_at": 1793598509.0,
+   "published_bj": "2026-11-02 13:48"
+  },
+  {
+   "id": "996ea0b90b5308cf",
+   "source": "Solidot",
+   "title": "币安恢复提现后净流出 36.4 亿美元资产",
+   "url": "https://www.solidot.org/story?sid=85768",
+   "summary": "在因黑客攻击短暂暂停提现之后，币安于周日恢复了提现功能。11 月 1 日上午 6 点 - 下午 3:30 UTC 之间，币安处理了 46.65 亿美元的提现和 10.1 亿美元的充值，净流出 36.4 亿美元。根据截至 10 月 28 日的最新储备金证明（Proof of Reserves）数据，币安总资产为 1710 亿美元，此次净流出占其总资产的 2.1%。币安创始人兼前 CEO 赵长鹏在社交媒体上表示，“98% 的用户选择留下！”他表示大部分净流出发生在提现功能恢复后的最初几个小时内。",
+   "published_at": 1793598423.0,
+   "published_bj": "2026-11-02 13:47"
+  },
+  {
+   "id": "b2369c8a3514158f",
+   "source": "cnBeta",
+   "title": "美国佛罗里达州失事飞机上9人全部遇难",
+   "url": "https://www.cnbeta.com.tw/articles/tech/1584642.htm",
+   "summary": "一架载有9人的公务机1日在美国佛罗里达州棕榈滩县一处居民区坠毁，机上人员全部遇难。美国交通部长肖恩·达菲在社交媒体发布消息确认，飞机于当地时间12时50分坠毁，机上9人全部遇难。 阅读全文",
+   "published_at": 1793598228.0,
+   "published_bj": "2026-11-02 13:43"
+  },
+  {
+   "id": "ed589fb28d696010",
+   "source": "cnBeta",
+   "title": "微软AI CEO警告：AI应保持无意识状态 我们无权创造“数字物种”",
+   "url": "https://www.cnbeta.com.tw/articles/tech/1584640.htm",
+   "summary": "微软AI CEO Mustafa Suleyman发文表示，AI目前没有意识且应当如此，即便技术上可以实现，他也并不赞成研发具有意识的人工智能，他认为研发者无权将一个全新的有意识物种引入世界，他主张更为安全的发展路径，在享受AI红利的同时避免创造有意识的AI。 阅读全文",
+   "published_at": 1793598103.0,
+   "published_bj": "2026-11-02 13:41"
+  },
+  {
+   "id": "3a8d44c8d9df0d4a",
+   "source": "IT之家",
+   "title": "2026 款奔驰 E 300 L 改款轿车上市：首次搭载中国团队开发的 AI 座舱，起售价下调 1.6 万元",
+   "url": "https://www.ithome.com/1/020/944.htm",
+   "summary": "IT之家 11 月 2 日消息，2026 款奔驰 E 300 L 改款轿车今日正式上市，建议零售价格 42.38 万元至 50.98 万元， 相比之前的版本起售价下调 1.6 万元 。 E 300 L 晖银版建议零售价 42.38 万元 E 300 L 鎏金版建议零售价 46.68 万元 E 300 L 星铂版建议零售价 50.98 万元 该车搭载由 奔驰中国研发团队主导、独立开发的全新 AI 智能座舱 ，车载虚拟助手融合豆包 AI 大模型，新增声纹识别等功能。此外，系统支持季度性大版本 OTA 升级，未来还将陆续搭载于更多燃油及纯电车型。 据奔驰介绍，全新 AI 智能座舱深度贴合中国用户的使",
+   "published_at": 1793598010.0,
+   "published_bj": "2026-11-02 13:40"
   },
   {
    "id": "56082effbd749cf9",
@@ -92,6 +443,15 @@
    "summary": "IT之家 11 月 2 日消息，据路透社今日报道，参与 NASA 模拟火星任务的四名成员，在 NASA 休斯顿约翰逊航天中心 隔离 378 天后 ，于当地时间 10 月 31 日出舱，该任务旨在帮助为 NASA 宇航员未来可能前往火星的探险做准备。 ▲ 从左到右依次为 Ross Elder、Matthew Montgomery、Ellen Ellis、James Spicer，图源 NASA 四人于 2025 年 10 月 19 日进入 158 平方米的 3D 打印栖息地 ，执行了在模拟火星土壤中种植作物、与 NASA 官员通信等任务，还刻意增加了通信延迟，模拟地球与火星的通信体验。 四人出舱",
    "published_at": 1793596499.0,
    "published_bj": "2026-11-02 13:14"
+  },
+  {
+   "id": "fc4f898abe166f33",
+   "source": "Hacker News",
+   "title": "Show HN: Wikihack – HackerTube, but for Wikipedia articles mentioned on HN",
+   "url": "https://wikihack.netlify.app",
+   "summary": "After seeing Karpathy's Hackertube and Hackerbooks, I just had to make Wikihack. I scraped all mentions of wikipedia on hackernews and ranked them, and turn them into a scrollable feed to make it a bit more easy to digest / interact with. You can see where people submitted the articles and where peo",
+   "published_at": 1793595990.0,
+   "published_bj": "2026-11-02 13:06"
   },
   {
    "id": "6c5de55ca395e476",
@@ -533,6 +893,15 @@
    "summary": "IT之家 11 月 2 日消息，去年仰望 U9 Xtreme 在德国跑出了 496.22km/h 的成绩，站上了全球汽车极速榜首。 比亚迪仰望销售事业部总经理胡晓庆昨晚发文，宣布仰望 U9 Xtreme 将在阿联酋首都阿布扎比 开启一场全新的开放公路极速挑战 。 过去，我们在专业测试场上不断探索速度的极限。 这一次，我们希望在经过专业评估和安全保障的全新公路环境中， 继续挑战更高的速度 。 据IT之家此前报道，2025 年 9 月，比亚迪仰望 U9 Xtreme 赛道版迎来全球首秀，官方公布了这款超跑的极速成绩： 德国 ATP 测试场官方认证成绩 496.22km/h ， 取得“无定语”的世界",
    "published_at": 1793583156.0,
    "published_bj": "2026-11-02 09:32"
+  },
+  {
+   "id": "5f8f31b65252d683",
+   "source": "Hacker News",
+   "title": "Bones may release proteins that slow aging and extend life span",
+   "url": "https://www.science.org/content/article/bones-may-release-proteins-slow-aging-and-extend-life-span",
+   "summary": "Article URL: https://www.science.org/content/article/bones-may-release-proteins-slow-aging-and-extend-life-span Comments URL: https://news.ycombinator.com/item?id=50331957 Points: 14 # Comments: 1",
+   "published_at": 1793583067.0,
+   "published_bj": "2026-11-02 09:31"
   },
   {
    "id": "7257541ab8ffa5eb",
