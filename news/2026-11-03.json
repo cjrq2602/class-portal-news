@@ -1,7 +1,7 @@
 {
  "date": "2026-11-03",
- "generated_at": 1793638615.5280335,
- "count": 18,
+ "generated_at": 1793641839.857227,
+ "count": 26,
  "items": [
   {
    "id": "34f832b837eac571",
@@ -67,6 +67,15 @@
    "published_bj": "2026-11-03 02:08"
   },
   {
+   "id": "223e1f5be6562734",
+   "source": "TechCrunch",
+   "title": "Readwise takes on Amazon’s Kindle and Goodreads with its new app for book lovers",
+   "url": "https://techcrunch.com/2026/11/02/readwise-takes-on-amazons-kindle-and-goodreads-with-its-new-app-for-book-lovers/",
+   "summary": "Readwise Books combines an ebook store, reading tracker, detailed reading stats, and AI features in a bid to challenge Amazon's ecosystem.",
+   "published_at": 1793641781.0,
+   "published_bj": "2026-11-03 01:49"
+  },
+  {
    "id": "8703337a18a7caa2",
    "source": "InfoQ中文",
    "title": "InfoQ AI 侦察团现场手记：工具之外，企业 AI 落地还要跨过哪些关？",
@@ -76,6 +85,24 @@
    "published_bj": "2026-11-03 01:39"
   },
   {
+   "id": "fd2669f387593661",
+   "source": "Hacker News",
+   "title": "Show HN: Subvocal – Talk to your computer without making noise",
+   "url": "https://subvocal.company/",
+   "summary": "Hi HN, we're Aarush and Arnav from The Subvocal Company (YC F26). We’re building smart glasses that let you talk to your computer without talking out loud. You can mouth words silently and discreetly and the glasses decode them to text at the speed of speech. Here's a video of Dave from YC trying it",
+   "published_at": 1793639777.0,
+   "published_bj": "2026-11-03 01:16"
+  },
+  {
+   "id": "9c3e9b091aa12eef",
+   "source": "Hacker News",
+   "title": "Launch HN: Momentic (YC W24) – Agents that catch bugs by using your app",
+   "url": "https://momentic.ai/",
+   "summary": "Hey HN, we’re Wei-Wei and Jeff. We’re building Momentic, QA agents that autonomously plan, explore, and bug-bash controls and user flows in your web, iOS, Android, and (soon) desktop apps to catch bugs. Here’s a demo: https://youtu.be/BFsM-Se1Fh8 We’re both software engineers that spent our careers ",
+   "published_at": 1793639125.0,
+   "published_bj": "2026-11-03 01:05"
+  },
+  {
    "id": "3b06fe0a458412a7",
    "source": "InfoQ中文",
    "title": "AI+FDE：合格的FDE，要亲手跟老师傅做业务，再把经验解法做成Skill ｜深空之序联合创始人兼COO 芦宇峰分享",
@@ -83,6 +110,24 @@
    "summary": "点击查看原文>",
    "published_at": 1793638889.0,
    "published_bj": "2026-11-03 01:01"
+  },
+  {
+   "id": "df723efe78809e19",
+   "source": "Hacker News",
+   "title": "Bitmovin (YC S15) Is Hiring Technical Graduates in Denver (Engineering/CS Focus)",
+   "url": "https://bitmovin.com/careers/8660599002/",
+   "summary": "Article URL: https://bitmovin.com/careers/8660599002/ Comments URL: https://news.ycombinator.com/item?id=50339827 Points: 0 # Comments: 0",
+   "published_at": 1793638841.0,
+   "published_bj": "2026-11-03 01:00"
+  },
+  {
+   "id": "882661c927797bc5",
+   "source": "Hacker News",
+   "title": "My Favourite Laptop",
+   "url": "https://blog.jsbarretto.com/post/laptop",
+   "summary": "Article URL: https://blog.jsbarretto.com/post/laptop Comments URL: https://news.ycombinator.com/item?id=50339815 Points: 24 # Comments: 11",
+   "published_at": 1793638797.0,
+   "published_bj": "2026-11-03 00:59"
   },
   {
    "id": "1f61a2111255f8ac",
@@ -103,6 +148,24 @@
    "published_bj": "2026-11-03 00:44"
   },
   {
+   "id": "63a161b8daeb401e",
+   "source": "Hacker News",
+   "title": "Anthropic's internal AI use, at retail prices, now exceeds its employee pay",
+   "url": "https://www.businessinsider.com/anthropic-claude-internal-ai-use-exceeds-employee-pay-tokens-2026-11",
+   "summary": "Article URL: https://www.businessinsider.com/anthropic-claude-internal-ai-use-exceeds-employee-pay-tokens-2026-11 Comments URL: https://news.ycombinator.com/item?id=50339494 Points: 51 # Comments: 40",
+   "published_at": 1793637629.0,
+   "published_bj": "2026-11-03 00:40"
+  },
+  {
+   "id": "6d9276fefdba770b",
+   "source": "Hacker News",
+   "title": "US Boy names that became girl names (and vice versa)",
+   "url": "https://namedaisy.com/blog/boy-names-that-became-girl-names",
+   "summary": "Article URL: https://namedaisy.com/blog/boy-names-that-became-girl-names Comments URL: https://news.ycombinator.com/item?id=50339397 Points: 17 # Comments: 5",
+   "published_at": 1793637276.0,
+   "published_bj": "2026-11-03 00:34"
+  },
+  {
    "id": "058a1939d2da4371",
    "source": "TechCrunch",
    "title": "42AI comes out of stealth with $62.5M and a world model that can ‘predict human behavior’",
@@ -110,6 +173,15 @@
    "summary": "Here's a question straight out of sci-fi: What if AI could predict what you were going to do before you decided to, even in a completely new situation?",
    "published_at": 1793637000.0,
    "published_bj": "2026-11-03 00:30"
+  },
+  {
+   "id": "f433fe6f2a8748b0",
+   "source": "Hacker News",
+   "title": "Show HN: Warsaw in voxels – an interactive 3D map of the city centre",
+   "url": "https://p.migdal.pl/warsaw-vibe-voxel/",
+   "summary": "Explore central Warsaw in voxels - slightly inspired by Minecraft, and MagicaVoxel. You can change the date, time of day and weather, explore the city, or click on a pedestrian to control them (here a bit of inspiration from Dungeon Keeper). Works best on desktop, but I tried to make it usable on mo",
+   "published_at": 1793636726.0,
+   "published_bj": "2026-11-03 00:25"
   },
   {
    "id": "1fce3937e6441bca",

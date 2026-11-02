@@ -1,7 +1,7 @@
 {
  "date": "2026-11-02",
- "generated_at": 1793638615.5297863,
- "count": 363,
+ "generated_at": 1793641839.859068,
+ "count": 364,
  "items": [
   {
    "id": "f962b58fa02bb078",
@@ -299,6 +299,15 @@
    "summary": "OpenAI said that ChatGPT and Codex will draw usage from the same allocation pool after this change.",
    "published_at": 1793627873.0,
    "published_bj": "2026-11-02 21:57"
+  },
+  {
+   "id": "a44d27bf3d6af122",
+   "source": "Hacker News",
+   "title": "The U.S. Census Bureau and \"Super Intelligence\"",
+   "url": "https://simonwillison.net/2026/Nov/2/census-bureau-super-intelligence/",
+   "summary": "Article URL: https://simonwillison.net/2026/Nov/2/census-bureau-super-intelligence/ Comments URL: https://news.ycombinator.com/item?id=50336840 Points: 15 # Comments: 4",
+   "published_at": 1793627745.0,
+   "published_bj": "2026-11-02 21:55"
   },
   {
    "id": "56b3f154d670fb28",
