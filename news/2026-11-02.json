@@ -1,8 +1,35 @@
 {
  "date": "2026-11-02",
- "generated_at": 1793631157.1596549,
- "count": 344,
+ "generated_at": 1793634800.8905818,
+ "count": 356,
  "items": [
+  {
+   "id": "57c8b23c17420ceb",
+   "source": "IT之家",
+   "title": "消息称 HomeView Ultra 硬件已定型两年，但苹果内部仍存在“分歧”",
+   "url": "https://www.ithome.com/1/021/280.htm",
+   "summary": "IT之家 11 月 2 日消息，据《The Information》今日报道，苹果正在开发 HomeView 的机器人版本。这款设备传闻被称作“HomeView Ultra”或“HomeView Max”，不过最终命名尚不确定。 记者艾伦・蒂利（Aaron Tilley）表示，该设备原型机将一块 9 英寸屏幕搭载在可旋转机械臂上，整体外观类似苹果早年的 iMac G4，或是皮克斯的经典台灯吉祥物。它保留 FaceTime 通话这类 HomeView 已有的常规功能，同时还能够 充分感知周边环境，并自主执行操作 。 ▲ 苹果首款智能家庭中枢 HomeView 报道写道：“这款机器人当前的设计方案",
+   "published_at": 1793634002.0,
+   "published_bj": "2026-11-02 23:40"
+  },
+  {
+   "id": "6cc9702c9ce36e18",
+   "source": "cnBeta",
+   "title": "Anthropic IPO前营收猛增 第三季度已达上年同期12倍",
+   "url": "https://www.cnbeta.com.tw/articles/tech/1584758.htm",
+   "summary": "截至9月30日，Anthropic PBC第三季度营收接近170亿美元，是上年同期的12倍左右，这势将进一步推高市场对这家人工智能实验室可能创纪录IPO的期待。 阅读全文",
+   "published_at": 1793633126.0,
+   "published_bj": "2026-11-02 23:25"
+  },
+  {
+   "id": "d8efd5305adc8276",
+   "source": "IT之家",
+   "title": "起亚汽车 10 月全球总销量达到 29.12 万辆，同比增长 10.3%",
+   "url": "https://www.ithome.com/1/021/279.htm",
+   "summary": "IT之家 11 月 2 日消息，韩国起亚汽车今日公告，2026 年 10 月，起亚在全球市场销售 291,219 辆，其中韩国国内 51,007 辆，其他 239,308 辆，904 辆专用单位，同比增长 10.3%。（基于批发销售） 具体数据如下： 全球市场总销量达到 291,219 辆，较上一年增长 10.3% 韩国国内市场售出 51,007 辆，较上一年增长 27.5% 其他市场销量 239,308 辆，较上一年增长 7.2% 起亚汽车此前发布 2026 财年（2026 年 1 月～2026 年 12 月）前三季度（2026 年 1 月～2026 年 9 月）业绩快报及第三财季（2026",
+   "published_at": 1793632771.0,
+   "published_bj": "2026-11-02 23:19"
+  },
   {
    "id": "18bea95ac8f3d9ad",
    "source": "InfoQ中文",
@@ -11,6 +38,51 @@
    "summary": "点击查看原文>",
    "published_at": 1793632668.0,
    "published_bj": "2026-11-02 23:17"
+  },
+  {
+   "id": "2ee7059c784c9742",
+   "source": "IT之家",
+   "title": "Anthropic 第三季度营收 170 亿美元同比暴涨 11 倍，冲刺史上最大 IPO",
+   "url": "https://www.ithome.com/1/021/277.htm",
+   "summary": "IT之家 11 月 2 日消息，Anthropic PBC 披露，截至 9 月 30 日的第三季度营收接近 170 亿美元 （IT之家注：现汇率约合 1,132.35 亿元人民币） ，同比暴涨 11 倍，市场对这家 AI 实验室有望创下纪录的 IPO 预期进一步升温。 这家 Claude 大模型背后的公司当地时间周一向美国证券交易委员会（SEC）提交文件显示：截至 9 月末的三个月，净亏损 233 亿美元 （现汇率约合 1,551.98 亿元人民币） ；去年同期净亏损为 121 亿美元 （现汇率约合 805.96 亿元人民币） 。本季度运营费用飙升至 175 亿美元 （现汇率约合 1,165.",
+   "published_at": 1793631729.0,
+   "published_bj": "2026-11-02 23:02"
+  },
+  {
+   "id": "1df8a4e41f615b7f",
+   "source": "Hacker News",
+   "title": "Why are Soviet math textbooks so hardcore in comparison to US textbooks? (2017)",
+   "url": "https://www.quora.com/Why-are-Soviet-mathematics-physics-textbooks-so-insanely-hardcore-in-comparison-to-US-textbooks/answer/Scott-Miller-307?share=1",
+   "summary": "Article URL: https://www.quora.com/Why-are-Soviet-mathematics-physics-textbooks-so-insanely-hardcore-in-comparison-to-US-textbooks/answer/Scott-Miller-307?share=1 Comments URL: https://news.ycombinator.com/item?id=50337725 Points: 43 # Comments: 33",
+   "published_at": 1793631675.0,
+   "published_bj": "2026-11-02 23:01"
+  },
+  {
+   "id": "4a44707cea25ab95",
+   "source": "TechCrunch",
+   "title": "Omen AI adds liquid know-how in $16 million Aquatic Labs acquisition",
+   "url": "https://techcrunch.com/2026/11/02/omen-ai-adds-liquid-know-how-in-16-million-aquatic-labs-acquisition/",
+   "summary": "Two startups tackling the data center water problem are joining forces in a $16 million deal.",
+   "published_at": 1793631600.0,
+   "published_bj": "2026-11-02 23:00"
+  },
+  {
+   "id": "14d74da7f6476286",
+   "source": "Hacker News",
+   "title": "Napping Characteristics and Incident Dementia",
+   "url": "https://academic.oup.com/biomedgerontology/article/81/10/glag208/8769491?login=false",
+   "summary": "Article URL: https://academic.oup.com/biomedgerontology/article/81/10/glag208/8769491?login=false Comments URL: https://news.ycombinator.com/item?id=50337635 Points: 6 # Comments: 1",
+   "published_at": 1793631224.0,
+   "published_bj": "2026-11-02 22:53"
+  },
+  {
+   "id": "472c758a434baa9c",
+   "source": "Hacker News",
+   "title": "WTF Ubuntu?",
+   "url": "https://chalmovsky.com/posts/wtf-ubuntu",
+   "summary": "Article URL: https://chalmovsky.com/posts/wtf-ubuntu Comments URL: https://news.ycombinator.com/item?id=50337608 Points: 332 # Comments: 134",
+   "published_at": 1793631120.0,
+   "published_bj": "2026-11-02 22:52"
   },
   {
    "id": "acf896237bced6d6",
@@ -29,6 +101,24 @@
    "summary": "The Ninja Crispi Microwave stands out for its FusionCrisp technology, which combines the speed of a microwave with the crispy results you'd expect from an air fryer.",
    "published_at": 1793630558.0,
    "published_bj": "2026-11-02 22:42"
+  },
+  {
+   "id": "7177c91f1886586a",
+   "source": "Hacker News",
+   "title": "Jobless Tech Workers Are Being Left Out of San Francisco's AI Boom",
+   "url": "https://www.bloomberg.com/news/features/2026-09-17/san-francisco-s-ai-wealth-boom-skirts-engineers-as-openai-anthropic-ipos-near",
+   "summary": "Article URL: https://www.bloomberg.com/news/features/2026-09-17/san-francisco-s-ai-wealth-boom-skirts-engineers-as-openai-anthropic-ipos-near Comments URL: https://news.ycombinator.com/item?id=50337454 Points: 16 # Comments: 10",
+   "published_at": 1793630405.0,
+   "published_bj": "2026-11-02 22:40"
+  },
+  {
+   "id": "b85bf836ba7bd6f7",
+   "source": "Hacker News",
+   "title": "Anthropic releases amended IPO prospectus with third-quarter financials",
+   "url": "https://www.cnbc.com/2026/11/02/anthropic-ant-s-1-quarter-financials.html",
+   "summary": "Article URL: https://www.cnbc.com/2026/11/02/anthropic-ant-s-1-quarter-financials.html Comments URL: https://news.ycombinator.com/item?id=50337439 Points: 66 # Comments: 20",
+   "published_at": 1793630325.0,
+   "published_bj": "2026-11-02 22:38"
   },
   {
    "id": "4ee5b5e867841680",
@@ -281,6 +371,15 @@
    "summary": "Valve发布的2026年10月Steam硬件与软件调查结果显示，在经历9月份多项异常波动后，多项关键硬件统计出现明显回归。内存容量、显卡排名、处理器市场份额以及操作系统占比均出现新的变化，展现出当前PC游戏玩家硬件生态的最新格局。 阅读全文",
    "published_at": 1793623362.0,
    "published_bj": "2026-11-02 20:42"
+  },
+  {
+   "id": "50b8cfb2f279d0ad",
+   "source": "Hacker News",
+   "title": "Show HN: Hacker News but for comments posted on HN",
+   "url": "https://news.ycombinator.com/newcomments",
+   "summary": "Article URL: https://news.ycombinator.com/newcomments Comments URL: https://news.ycombinator.com/item?id=50336025 Points: 7 # Comments: 1",
+   "published_at": 1793623079.0,
+   "published_bj": "2026-11-02 20:37"
   },
   {
    "id": "b5c2dc687765cd2a",
@@ -1234,6 +1333,15 @@
    "url": "https://www.ithome.com/1/021/082.htm",
    "summary": "IT之家 11 月 2 日消息，SteelSeries（赛睿）即将于今晚 20:00 在国行渠道发售 Apex Pro TKL Gen 3 有线磁轴键盘的 Cyber / Steel 限量版，两款产品到手价均为 1,899 元。 ▲ Cyber 这两个特别版本 均采用了大胆的新配色顶板，以及能够增强 RGB 灯光效果的半透明键帽 ， 带来别样的光影体验 。 此外，Apex Pro TKL Gen 3 原版搭载触底力 45gF 的模拟磁性开关，Cyber 限量版为 35gF 的“速度型”磁轴、Steel 限量款则是 50gF 的“控制型”磁轴。 ▲ Steel 天猫 赛睿 Apex Pro Ge",
    "published_at": 1793606858.0,
+   "published_bj": "2026-11-02 16:07"
+  },
+  {
+   "id": "6ca6f335f9fe46c5",
+   "source": "Hacker News",
+   "title": "Wir müssen wissen – wir werden wissen",
+   "url": "https://remy.wang/blog/hilbert.html",
+   "summary": "Article URL: https://remy.wang/blog/hilbert.html Comments URL: https://news.ycombinator.com/item?id=50334240 Points: 18 # Comments: 4",
+   "published_at": 1793606840.0,
    "published_bj": "2026-11-02 16:07"
   },
   {
