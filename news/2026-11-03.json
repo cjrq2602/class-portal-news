@@ -1,8 +1,26 @@
 {
  "date": "2026-11-03",
- "generated_at": 1793615786.7407677,
- "count": 4,
+ "generated_at": 1793618960.0234902,
+ "count": 6,
  "items": [
+  {
+   "id": "c3854c7e2c6b6c51",
+   "source": "InfoQ中文",
+   "title": "谷歌 SynthID Detector 简化了水印检测流程，并将支持范围扩展至其他 AI 提供商",
+   "url": "https://www.infoq.cn/article/JoVxAdq1OjtIDkRBjWOW?utm_source=rss&utm_medium=article",
+   "summary": "点击查看原文>",
+   "published_at": 1793645532.0,
+   "published_bj": "2026-11-03 02:52"
+  },
+  {
+   "id": "f09985fd6ad46295",
+   "source": "InfoQ中文",
+   "title": "AI+科研：Agent加速科研，论文写得快了，成果更难评了 ｜ 西湖大学工学院博导 王欢分享",
+   "url": "https://www.infoq.cn/article/MbwRCg4cKC2f3bwv0Cpb?utm_source=rss&utm_medium=article",
+   "summary": "点击查看原文>",
+   "published_at": 1793644435.0,
+   "published_bj": "2026-11-03 02:33"
+  },
   {
    "id": "4ae43c65fd714922",
    "source": "InfoQ中文",

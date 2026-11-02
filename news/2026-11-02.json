@@ -1,7 +1,7 @@
 {
  "date": "2026-11-02",
- "generated_at": 1793615786.7424173,
- "count": 274,
+ "generated_at": 1793618960.0255325,
+ "count": 287,
  "items": [
   {
    "id": "18bea95ac8f3d9ad",
@@ -13,6 +13,24 @@
    "published_bj": "2026-11-02 23:17"
   },
   {
+   "id": "26f2eb4a94681696",
+   "source": "IT之家",
+   "title": "百代电影公司推出催眠实验：抹除观众记忆，帮其找回初次观看经典电影的感觉",
+   "url": "https://www.ithome.com/1/021/243.htm",
+   "summary": "IT之家 11 月 2 日消息，法国电影制片与发行公司百代（Pathé）正在开展一项实验，尝试抹除人们对经典影片的记忆，让大家重新获得初次观看影片的感觉。 百代与催眠师维克多 · 克雷默（Victor Kraemer）合作，计划对 30 名影迷实施记忆催眠，看看他们能否重温初次观影的新鲜感。这项活动名为“百代回溯（Pathé Rewind）”。 IT之家注意到，活动报名现已截止，主办方会根据观影偏好、参与动机、时间是否合适以及是否同意参与本次宣传活动筛选申请者。入选参与者将和催眠师维克多 · 克雷默进行一对一线上催眠。 在正式放映影片前，参与者会再次接受他的催眠，之后在影院大屏观看影片。候选片",
+   "published_at": 1793618246.0,
+   "published_bj": "2026-11-02 19:17"
+  },
+  {
+   "id": "84b70fc555d11dca",
+   "source": "IT之家",
+   "title": "“女生罹癌离世前攒下医药费，买张 RTX5090 留给男友”温情故事引发关注，网友感叹“宁愿这是编的”",
+   "url": "https://www.ithome.com/1/021/242.htm",
+   "summary": "IT之家 11 月 2 日消息，一位 B 站 UP 主“小周装机日记”在今年 3 月时曾上传了一段感人的装机经历，内容是一位罹癌离世的女生偷偷攒下男友转给她的医药费和生活费，为他购买了一张 RTX 5090 显卡和一整套顶配主机，并留下一封手写告别信和一张银行卡。 近期，相应视频突然开始广泛传播，不少用户第一反应怀疑是摆拍 / 剧本，但更多网友感叹“宁愿这是编的”。 IT之家参考视频，该 UP 主“小周”接到一单上门装机业务，主机配置极高，显卡是 RTX 5090，他好奇询问是不是客户自己准备用来打游戏，男子回答整套设备是女友偷偷为他准备的。小周在房间里看到女生留下的书法作品，但始终没见到她本",
+   "published_at": 1793618201.0,
+   "published_bj": "2026-11-02 19:16"
+  },
+  {
    "id": "46d979c8bb32a1fb",
    "source": "InfoQ中文",
    "title": "TornadoVM 7 支持 Java 应用程序运行原生 GPU 工作负载",
@@ -20,6 +38,69 @@
    "summary": "点击查看原文>",
    "published_at": 1793617860.0,
    "published_bj": "2026-11-02 19:11"
+  },
+  {
+   "id": "7dc1194fedb9a592",
+   "source": "IT之家",
+   "title": "受内存短缺影响，16GB 版树莓派 5 价格上调 80 美元至 385 美元",
+   "url": "https://www.ithome.com/1/021/240.htm",
+   "summary": "IT之家 11 月 2 日消息，树莓派官方宣布新一轮涨价，诱因是持续冲击行业的内存短缺、内存成本走高问题。 本轮调价仅针对 16GB 内存版本的树莓派产品，但涨价幅度很大。树莓派 5 16GB 型号上调 80 美元 （IT之家注：现汇率约合 532.9 元人民币） ，新售价为 385 美元 （现汇率约合 2,564 元人民币） 。回想早年多数树莓派产品定价仅 35 至 60 美元 （现汇率约合 233.1 至 399.7 元人民币） ，不难看出内存涨价对这条产品线的冲击。 此外，树莓派计算模块 5（Compute Module 5）16GB 版本涨价 40 美元 （现汇率约合 266.4 元人",
+   "published_at": 1793617399.0,
+   "published_bj": "2026-11-02 19:03"
+  },
+  {
+   "id": "478799ae0fa16d8a",
+   "source": "IT之家",
+   "title": "海光发布 14XX 系列工业控制 CPU，支持 -40℃ ~ +105℃ 宽温",
+   "url": "https://www.ithome.com/1/021/239.htm",
+   "summary": "IT之家 11 月 2 日消息，海光信息 (HYGON) 今日在 2026 年世界互联网大会乌镇峰会发布了 14XX 系列 CPU，这是其 1000 系列端侧 CPU 中首款面向工业控制场景的产品。 海光 14XX 系列集成 C86 CPU 内核、高速缓存、GPU 模块，兼容 DDR4/DDR5 内存，提供 10 条 PCIe Gen4 通道、多路串口，支持 DisplayPort、HDMI 双路视频信号输出； 支持 -40℃ ~ +105℃ 宽温作业 ，支持 7×24 全天候连续运行，提供 10 年长周期供货。 其 TDP 功耗低至 10W；支持虚拟化；集成 SM2、SM3、SM4 国密算法",
+   "published_at": 1793617284.0,
+   "published_bj": "2026-11-02 19:01"
+  },
+  {
+   "id": "511c0fae1f7789c8",
+   "source": "TechCrunch",
+   "title": "Ford launches a ‘privacy promise’ and explains how and why it uses customer data",
+   "url": "https://techcrunch.com/2026/11/02/ford-launches-a-privacy-promise-and-explains-how-and-why-it-uses-a-customers-data/",
+   "summary": "Ford said it's making an \"explicit commitment\" to its customers that \"their vehicle data is safe\" with the company.",
+   "published_at": 1793617200.0,
+   "published_bj": "2026-11-02 19:00"
+  },
+  {
+   "id": "86e7544fca042f2f",
+   "source": "IT之家",
+   "title": "英伟达 DLSS 5 加持下的《马力欧卡丁车͏ 世界》，画质堪比动画电影",
+   "url": "https://www.ithome.com/1/021/238.htm",
+   "summary": "IT之家 11 月 2 日消息，任天堂 Switch 2 发售一年多之后，在上个月被成功破解。这一下打开了闸门，不仅可以在主机上运行自制程序，还支持提取游戏镜像，进而为在电脑模拟器上运行 Switch 2 游戏铺平了道路。不过在 PC 玩家圈子里，仅仅以更高分辨率跑游戏还远远不够。依托模拟器和英伟达 DLSS 5 神经渲染技术，我们得以窥见任天堂游戏一种相当有意思的未来形态。 IT之家注意到，近日网上流出一段新视频，创作者 ChillyWillMD 演示了在电脑上借助英伟达 DLSS 5 神经渲染运行《马力欧卡丁车͏ 世界》。就在 Switch 2 模拟器方案问世没几天，这块 RTX 5060",
+   "published_at": 1793616848.0,
+   "published_bj": "2026-11-02 18:54"
+  },
+  {
+   "id": "d63c19525e7f9036",
+   "source": "IT之家",
+   "title": "广汽埃安 Ray7 车型 11 月 12 日上市：搭载华为 DriveONE 多合一电驱，预售价 12.88 万元起",
+   "url": "https://www.ithome.com/1/021/237.htm",
+   "summary": "IT之家 11 月 2 日消息，广汽埃安宣布旗下埃安 Ray7 车型将于 11 月 12 日正式上市，该机已经在 10 月 17 日开启预售，包含五款车型，预售价区间 12.88-15.88 万元。 该车提供仲夏紫、闪电黄、月辉银、风暴红、熔岩灰、云舒白、热带蓝车色，定位“大 5 米超级纯电轿车”，配备 3.6m 量子星环贯穿前后 LED 灯。 该车提供炽光竞驰、云纱暖米、极速赛道内饰，一体式运动座椅，前排一键 / 语音舒躺，配备高通骁龙 8295P 座舱芯片 +24GB LPDDR4 运存 +128GB UFS 闪存，15.6 英寸 2.5K 高清中控屏 + 车手互联全覆盖。此外，该车搭载同",
+   "published_at": 1793616813.0,
+   "published_bj": "2026-11-02 18:53"
+  },
+  {
+   "id": "f2c9ba0049dea9a2",
+   "source": "IT之家",
+   "title": "比利时、瑞典多家超市冷冻柜出现异常，疑遭网络攻击",
+   "url": "https://www.ithome.com/1/021/236.htm",
+   "summary": "IT之家 11 月 2 日消息，比利时和瑞典多家超市在周一上报冷藏、冷冻柜温度突发异常，人们担心这是一起和近期法国同类事件相似的网络攻击。 比利时通讯社 Belga 报道，荷兰零售集团阿霍德德尔海兹（Ahold Delhaize）旗下的德尔海兹超市（Delhaize）证实，周日晚间约四十家比利时门店发生“信息技术故障”，制冷系统受到影响。报道还提到，比利时少量家乐福、斯帕超市也出现了同类问题。 瑞典《晚报》消息，ICA 与 Coop 连锁旗下多家超市的冷冻柜温度异常升高。位于舍博市的 ICA Kvantum 门店在脸书主页称，店内冷冻柜温度被抬升至 50 摄氏度，怀疑遭到黑客入侵。《晚报》补充",
+   "published_at": 1793616064.0,
+   "published_bj": "2026-11-02 18:41"
+  },
+  {
+   "id": "65908a6d12dcfa62",
+   "source": "IT之家",
+   "title": "铺路再接再厉：开发者放出微软 Lumia 950 XL 刷苹果 iOS 16.7.16 脚本方案",
+   "url": "https://www.ithome.com/1/021/235.htm",
+   "summary": "IT之家 11 月 2 日消息，开发者 VNchocoTaco 昨日成功为微软 Lumia 950 XL 刷入了 iOS 16.7.16 系统，目前其已将整个项目上传至 GitHub 供其他爱好者体验，IT之家附项目地址（ https://github.com/shrimpapplepro/UniXNU-lumia950xl ）。 据介绍，相应移植项目仅适用于 Lumia 950 XL（不支持 Lumia 950），项目基于 UniXNU 实现，采用苹果开源的 XNU 内核，并针对 Lumia 950 XL 的硬件添加了多项驱动程序，以便将机型伪装为“iPhone X”环境。 目前，刷入 iO",
+   "published_at": 1793616036.0,
+   "published_bj": "2026-11-02 18:40"
   },
   {
    "id": "56c61bbd2741b69d",
@@ -130,6 +211,15 @@
    "published_bj": "2026-11-02 17:59"
   },
   {
+   "id": "2c00bafc2c8253e2",
+   "source": "少数派",
+   "title": "派评 | 近期值得关注的 App",
+   "url": "https://sspai.com/post/118240",
+   "summary": "能看见、更聪明的 Android 智能点击器，纯纯写作迎来 iOS 版本，Photon Cam 为 iPhone 旧机型解锁相机新功能等。 查看全文",
+   "published_at": 1793613475.0,
+   "published_bj": "2026-11-02 17:57"
+  },
+  {
    "id": "b7e8b7be99857423",
    "source": "cnBeta",
    "title": "与抖音李亮争论“字节时间”后，秦朔宣布起诉",
@@ -146,6 +236,15 @@
    "summary": "IT之家 11 月 2 日消息，中国民航局近日印发《民航绿色发展“十五五”实施方案》。《实施方案》提出， 到 2030 年，民航绿色低碳转型实现突破性进展 ，行业碳排放总量和强度双控制度基本建成，用能结构进一步优化，降碳减污协同能力显著增强，运输航空吨公里和机场单位旅客吞吐量二氧化碳排放较“十四五”时期分别下降 4% 和 15%，稳居全球先进行列。 IT之家注意到，《实施方案》提到 推动可持续航空燃料 安全有序替代 。 坚持适航安全、技术先进、原料多元、经济可行、环境友好、自主可控，持续推动提升可持续航空燃料产业竞争优势。推动以废弃油脂等为原料的可持续航空燃料工艺升级，提升产品收率、降低生产成",
    "published_at": 1793613302.0,
    "published_bj": "2026-11-02 17:55"
+  },
+  {
+   "id": "800e1a4696544e4c",
+   "source": "Solidot",
+   "title": "Proton 全力推动工程师转向 AI",
+   "url": "https://www.solidot.org/story?sid=85773",
+   "summary": "以提供隐私服务著称的 Proton 公司正全力推动工程师转向采用 AI，CEO Andy Yen 还在内部 Slack 频道训斥了提出安全顾虑的员工，称是“失败者的思维”。Proton 甚至计划对员工进行重新面试，要求员工说明他们如何使用 AI。如果员工没有充分使用 AI 他们可能会面临被解雇。在引发公众抗议之后，Proton 取消了重新面试。尽管如此，Proton 公布了一份 AI 宣言：“首先工程文化和工程师心态需要发生转变。你们的工作本质已经变了。你们的任务不再是编写代码，LLM 也不是为了帮助你们更快、更好地写代码。你们的工作，是帮助 LLM 更快更好地写代码。”",
+   "published_at": 1793613196.0,
+   "published_bj": "2026-11-02 17:53"
   },
   {
    "id": "f21e771b4bcd8f79",
@@ -182,6 +281,15 @@
    "summary": "IT之家 11 月 2 日消息，2026 UWA SUMMIT 于 10 月 21 日至 24 日在深圳举办，大会主论坛上，世界超高清视频产业联盟（UWA 联盟）宣布 Spatial Vivid 1.0 标准参考工具开源发布 ，包括 EGSC 编解码工具、Web 渲染器工具、封装解封装工具等全链路参考实现以 MIT 开源协议面向全球开发者开源开放。 该工具面向 3DGS 场景实现平均 20 倍压缩比、多终端快速渲染，为 3DGS 空间影像规模化落地提供标准底座。 作为 业界首个六自由度三维空间影像格式标准 的配套实现，此次开源标志着 Spatial Vivid 空间菁彩影像标准生态迈入“标准＋",
    "published_at": 1793612516.0,
    "published_bj": "2026-11-02 17:41"
+  },
+  {
+   "id": "c0260e137d3746f4",
+   "source": "Hacker News",
+   "title": "Show HN: I've updated my Linux System Call website and API",
+   "url": "https://syscall.sh/",
+   "summary": "I first released those in back in 2020 and now I finally added more architectures, Kernel selector, syscall descriptions and a few other niceties. It should work a bit better on mobile devices too but I am no CSS expert. The API is at https://api.syscall.sh Comments URL: https://news.ycombinator.com",
+   "published_at": 1793611756.0,
+   "published_bj": "2026-11-02 17:29"
   },
   {
    "id": "e253b1b53aa22643",
@@ -902,6 +1010,15 @@
    "summary": "这篇文章是TDSStudio在少数派上的第34篇文章，依然是全平台首发。时隔两年，我们又回来写AirPods半入耳型号了。在26年的苹果秋季event上，AirPods5给我们最大的印象其实还是主动降 ... 查看全文",
    "published_at": 1793602800.0,
    "published_bj": "2026-11-02 15:00"
+  },
+  {
+   "id": "f7d4e225c0982f68",
+   "source": "Hacker News",
+   "title": "Show HN: HackerHack – HackerBooks but for Posts Posted on HN",
+   "url": "https://news.ycombinator.com/",
+   "summary": "No AI used for this btw. Comments URL: https://news.ycombinator.com/item?id=50333877 Points: 16 # Comments: 3",
+   "published_at": 1793602780.0,
+   "published_bj": "2026-11-02 14:59"
   },
   {
    "id": "104e61c4d5caeaaf",
