@@ -1,7 +1,7 @@
 {
  "date": "2026-10-31",
- "generated_at": 1793586645.0156858,
- "count": 295,
+ "generated_at": 1793590163.5313954,
+ "count": 296,
  "items": [
   {
    "id": "0b6070e114afa29a",
@@ -542,6 +542,15 @@
    "summary": "Article URL: https://nullprogram.com/blog/2026/10/31/ Comments URL: https://news.ycombinator.com/item?id=50315226 Points: 39 # Comments: 15",
    "published_at": 1793447699.0,
    "published_bj": "2026-10-31 19:54"
+  },
+  {
+   "id": "efd14db405eaf943",
+   "source": "Hacker News",
+   "title": "Mystery of 60-Second Fluctuations in Power Grids Solved",
+   "url": "https://www.fz-juelich.de/en/news/archive/press-release/2026/mystery-of-60-second-fluctuations-in-power-grids-solved",
+   "summary": "Article URL: https://www.fz-juelich.de/en/news/archive/press-release/2026/mystery-of-60-second-fluctuations-in-power-grids-solved Comments URL: https://news.ycombinator.com/item?id=50315217 Points: 20 # Comments: 4",
+   "published_at": 1793447627.0,
+   "published_bj": "2026-10-31 19:53"
   },
   {
    "id": "958c489e50bfcf9f",
