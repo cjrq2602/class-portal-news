@@ -1,8 +1,26 @@
 {
  "date": "2026-11-03",
- "generated_at": 1793612293.4854648,
- "count": 2,
+ "generated_at": 1793615786.7407677,
+ "count": 4,
  "items": [
+  {
+   "id": "4ae43c65fd714922",
+   "source": "InfoQ中文",
+   "title": "AI+办公：Agent都有“工位”了，云电脑既让它接手业务、也管住权限 ｜ 阿里云智能集团研发副总裁 张献涛分享",
+   "url": "https://www.infoq.cn/article/Vryq1f3C0f5uZHOlmIp4?utm_source=rss&utm_medium=article",
+   "summary": "点击查看原文>",
+   "published_at": 1793642922.0,
+   "published_bj": "2026-11-03 02:08"
+  },
+  {
+   "id": "8703337a18a7caa2",
+   "source": "InfoQ中文",
+   "title": "InfoQ AI 侦察团现场手记：工具之外，企业 AI 落地还要跨过哪些关？",
+   "url": "https://www.infoq.cn/article/ORJZPCwM2XXNcdRYf8de?utm_source=rss&utm_medium=article",
+   "summary": "点击查看原文>",
+   "published_at": 1793641188.0,
+   "published_bj": "2026-11-03 01:39"
+  },
   {
    "id": "3b06fe0a458412a7",
    "source": "InfoQ中文",
