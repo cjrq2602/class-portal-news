@@ -1,7 +1,7 @@
 {
  "date": "2026-11-01",
- "generated_at": 1793582963.2018313,
- "count": 257,
+ "generated_at": 1793584504.1855779,
+ "count": 258,
  "items": [
   {
    "id": "75d4e55ad401e7e7",
@@ -2063,6 +2063,15 @@
    "summary": "点击查看原文>",
    "published_at": 1793479385.0,
    "published_bj": "2026-11-01 04:43"
+  },
+  {
+   "id": "d37dc5d8bf1bb41e",
+   "source": "Hacker News",
+   "title": "A Chemical Hunger (2021)",
+   "url": "https://slimemoldtimemold.com/2021/07/07/a-chemical-hunger-part-i-mysteries/",
+   "summary": "Article URL: https://slimemoldtimemold.com/2021/07/07/a-chemical-hunger-part-i-mysteries/ Comments URL: https://news.ycombinator.com/item?id=50319876 Points: 8 # Comments: 2",
+   "published_at": 1793478744.0,
+   "published_bj": "2026-11-01 04:32"
   },
   {
    "id": "bf388bb72ebaa509",

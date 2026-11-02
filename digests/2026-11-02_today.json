@@ -1,0 +1,342 @@
+{
+ "type": "today",
+ "date": "2026-11-02",
+ "window": {
+  "start_ts": 1793548800.0,
+  "end_ts": 1793581200.0
+ },
+ "generated_at": 1793584511.6121314,
+ "generator": "action",
+ "news_count": 57,
+ "keywords": [
+  "ai",
+  "pro",
+  "苹果",
+  "of",
+  "to",
+  "智能",
+  "计划",
+  "macbook",
+  "openai",
+  "ipad"
+ ],
+ "points": [
+  {
+   "text": "【ai】IT之家 11 月 2 日消息，苹果上周推出首款触屏 MacBook Pro，采用 M5 Pro/M5 Max 芯片",
+   "keyword": "ai",
+   "news_ids": [
+    "94d5612e86ce9391"
+   ],
+   "refs": [
+    {
+     "id": "94d5612e86ce9391",
+     "title": "古尔曼：苹果计划明年淘汰非触屏版 MacBook Pro，仅保留 14 英寸基础款机型",
+     "source": "IT之家",
+     "url": "https://www.ithome.com/1/020/853.htm",
+     "published_at": 1793577258.0
+    }
+   ]
+  },
+  {
+   "text": "【to】Article URL: https://fortune",
+   "keyword": "to",
+   "news_ids": [
+    "f04d1b29abaaa879"
+   ],
+   "refs": [
+    {
+     "id": "f04d1b29abaaa879",
+     "title": "U.S. workers took home their smallest share of capital since at least 1947",
+     "source": "Hacker News",
+     "url": "https://fortune.com/article/why-did-us-workers-just-take-home-smallest-share-of-capital-since-1947-lowest-ever-recorded/",
+     "published_at": 1793575231.0
+    }
+   ]
+  },
+  {
+   "text": "【术实】复用已有计算结果，动态表增量刷新如何实现性能与成本双优化 ｜ 技术实践",
+   "keyword": "术实",
+   "news_ids": [
+    "06f2207cf8243cdb"
+   ],
+   "refs": [
+    {
+     "id": "06f2207cf8243cdb",
+     "title": "复用已有计算结果，动态表增量刷新如何实现性能与成本双优化 ｜ 技术实践",
+     "source": "InfoQ中文",
+     "url": "https://www.infoq.cn/article/xCFDK8KZvvDY5V1R0fqM?utm_source=rss&utm_medium=article",
+     "published_at": 1793560373.0
+    }
+   ]
+  },
+  {
+   "text": "Article URL: https://www",
+   "keyword": "",
+   "news_ids": [
+    "d5b8590a53acd4df"
+   ],
+   "refs": [
+    {
+     "id": "d5b8590a53acd4df",
+     "title": "America on Data Centers: 10k city council comments",
+     "source": "Hacker News",
+     "url": "https://www.americansentiment.com/datacenters",
+     "published_at": 1793578653.0
+    }
+   ]
+  },
+  {
+   "text": "Article URL: https://occupysaas",
+   "keyword": "",
+   "news_ids": [
+    "0c1242a786755536"
+   ],
+   "refs": [
+    {
+     "id": "0c1242a786755536",
+     "title": "OccupySaaS",
+     "source": "Hacker News",
+     "url": "https://occupysaas.com/",
+     "published_at": 1793578647.0
+    }
+   ]
+  },
+  {
+   "text": "塞尔达：时之笛 重制版》NS2版实体发行细节近日得到补充",
+   "keyword": "",
+   "news_ids": [
+    "00da5b262ff9e746"
+   ],
+   "refs": [
+    {
+     "id": "00da5b262ff9e746",
+     "title": "塞尔达：时之笛 重制版》NS2版实体卡带或采用红色",
+     "source": "cnBeta",
+     "url": "https://www.cnbeta.com.tw/articles/game/1584630.htm",
+     "published_at": 1793570937.0
+    }
+   ]
+  },
+  {
+   "text": "I haven’t owned a TV in years and would like one that respects my privac",
+   "keyword": "",
+   "news_ids": [
+    "89357e838b416e78"
+   ],
+   "refs": [
+    {
+     "id": "89357e838b416e78",
+     "title": "Ask HN: Which TV do you recommend for privacy?",
+     "source": "Hacker News",
+     "url": "https://news.ycombinator.com/item?id=50328896",
+     "published_at": 1793561727.0
+    }
+   ]
+  },
+  {
+   "text": "一份新的泄露资料显示，英特尔可能正为低价Windows笔记本和迷你电脑开发代号为Moon Lake的处理器",
+   "keyword": "",
+   "news_ids": [
+    "87186e7dbe9c9aee"
+   ],
+   "refs": [
+    {
+     "id": "87186e7dbe9c9aee",
+     "title": "传Intel低价处理器Moon Lake仅配4个能效核 功耗范围为6至15瓦",
+     "source": "cnBeta",
+     "url": "https://www.cnbeta.com.tw/articles/tech/1584626.htm",
+     "published_at": 1793554550.0
+    }
+   ]
+  },
+  {
+   "text": "Article URL: https://www",
+   "keyword": "",
+   "news_ids": [
+    "6264e8200fc567fb"
+   ],
+   "refs": [
+    {
+     "id": "6264e8200fc567fb",
+     "title": "Patrick Stewart taught us what good men do with power",
+     "source": "Hacker News",
+     "url": "https://www.vox.com/politics/508526/patrick-stewart-jean-luc-picard-star-trek-liberalism",
+     "published_at": 1793554096.0
+    }
+   ]
+  },
+  {
+   "text": "宇宙中最猛烈的爆炸之一——伽马射线暴（Gamma-ray Burst，GRB），通常会在短时间内释放出惊人的能量",
+   "keyword": "",
+   "news_ids": [
+    "87d0f5adee4aa29f"
+   ],
+   "refs": [
+    {
+     "id": "87d0f5adee4aa29f",
+     "title": "一场看似普通的伽马射线暴突然出现异常：三周后X射线再次增强",
+     "source": "cnBeta",
+     "url": "https://www.cnbeta.com.tw/articles/science/1584622.htm",
+     "published_at": 1793553728.0
+    }
+   ]
+  },
+  {
+   "text": "德国维尔茨堡大学研究团队近日宣布取得一项重要化学突破",
+   "keyword": "",
+   "news_ids": [
+    "b8a5bc33e517425f"
+   ],
+   "refs": [
+    {
+     "id": "b8a5bc33e517425f",
+     "title": "科学家破解持续60余年的化学难题 首次成功分离稳定氧代硼烷分子",
+     "source": "cnBeta",
+     "url": "https://www.cnbeta.com.tw/articles/science/1584620.htm",
+     "published_at": 1793553701.0
+    }
+   ]
+  },
+  {
+   "text": "Article URL: https://www",
+   "keyword": "",
+   "news_ids": [
+    "c22abf2d7b63b9e3"
+   ],
+   "refs": [
+    {
+     "id": "c22abf2d7b63b9e3",
+     "title": "Frontier Airlines Likely Breached",
+     "source": "Hacker News",
+     "url": "https://www.reddit.com/r/frontierairlines/comments/1xl20e8/psa_email_scam/",
+     "published_at": 1793551593.0
+    }
+   ]
+  },
+  {
+   "text": "Article URL: https://huggingface",
+   "keyword": "",
+   "news_ids": [
+    "442a054bd752c996"
+   ],
+   "refs": [
+    {
+     "id": "442a054bd752c996",
+     "title": "Alleged Mythos Class Anthropic Checkpoint Leak",
+     "source": "Hacker News",
+     "url": "https://huggingface.co/burner22/numbat",
+     "published_at": 1793551416.0
+    }
+   ]
+  }
+ ],
+ "article": {
+  "title": "2026-11-02 新闻总结",
+  "paragraphs": [
+   {
+    "kind": "lead",
+    "text": "今天共收录 57 条新闻，来自 7 家媒体。把标题放在一起看，讨论主要集中在 AI、算力 这几个方向上，其余消息更像是零散补充。"
+   },
+   {
+    "kind": "section",
+    "heading": "GPU",
+    "text": "先看「GPU」。IT之家 11 月 2 日消息，当地时间 10 月 30 日，现代汽车集团宣布正式启用新办事处，另有 38 条消息指向同一话题。这类进展更像是把已有能力往工程化落地推了一步，真正的分水岭在于成本和可靠性能不能同时压下来。",
+    "news_ids": [
+     "b263c1a73f6de40f"
+    ],
+    "refs": [
+     {
+      "id": "b263c1a73f6de40f",
+      "title": "现代汽车集团投资约 9 万亿韩元打造 AI 谷进展：计划成立两家新公司，分别负责 AI 基础设施建设与 GPU 算力服务运营",
+      "source": "IT之家",
+      "url": "https://www.ithome.com/1/020/864.htm",
+      "published_at": 1793581035.0
+     }
+    ]
+   },
+   {
+    "kind": "section",
+    "heading": "技术",
+    "text": "与此同时「技术」。复用已有计算结果，动态表增量刷新如何实现性能与成本双优化 ｜ 技术实践…，另有 2 条消息指向同一话题。技术路线的胜负很少由一次发布会决定，接下来要看的是它能不能被更多团队低成本复用。",
+    "news_ids": [
+     "06f2207cf8243cdb"
+    ],
+    "refs": [
+     {
+      "id": "06f2207cf8243cdb",
+      "title": "复用已有计算结果，动态表增量刷新如何实现性能与成本双优化 ｜ 技术实践",
+      "source": "InfoQ中文",
+      "url": "https://www.infoq.cn/article/xCFDK8KZvvDY5V1R0fqM?utm_source=rss&utm_medium=article",
+      "published_at": 1793560373.0
+     }
+    ]
+   },
+   {
+    "kind": "section",
+    "heading": "塞尔达：时之笛 重制版》NS2版",
+    "text": "另一个值得注意的方向是「塞尔达：时之笛 重制版》NS2版」。塞尔达：时之笛 重制版》NS2版实体发行细节近日得到补充…。对读者来说，值得留意的不是结论本身，而是它背后哪些前提正在被改变。",
+    "news_ids": [
+     "00da5b262ff9e746"
+    ],
+    "refs": [
+     {
+      "id": "00da5b262ff9e746",
+      "title": "塞尔达：时之笛 重制版》NS2版实体卡带或采用红色",
+      "source": "cnBeta",
+      "url": "https://www.cnbeta.com.tw/articles/game/1584630.htm",
+      "published_at": 1793570937.0
+     }
+    ]
+   },
+   {
+    "kind": "section",
+    "heading": "传Intel低价处理器Moon",
+    "text": "相比之下「传Intel低价处理器Moon」。一份新的泄露资料显示，英特尔可能正为低价Windows笔记本和迷你电脑开发代号为Moon Lake的处理器…。安全事件频繁出现说明攻击面还在扩大，普通用户能做的仍然是把补丁和二次验证当成日常。",
+    "news_ids": [
+     "87186e7dbe9c9aee"
+    ],
+    "refs": [
+     {
+      "id": "87186e7dbe9c9aee",
+      "title": "传Intel低价处理器Moon Lake仅配4个能效核 功耗范围为6至15瓦",
+      "source": "cnBeta",
+      "url": "https://www.cnbeta.com.tw/articles/tech/1584626.htm",
+      "published_at": 1793554550.0
+     }
+    ]
+   },
+   {
+    "kind": "glossary",
+    "items": [
+     {
+      "term": "AI",
+      "desc": "人工智能，让机器完成识别、生成、判断等原本需要人做的任务"
+     },
+     {
+      "term": "GPU",
+      "desc": "图形处理器，因为擅长大规模并行计算，成了 AI 训练的主力硬件"
+     },
+     {
+      "term": "数据中心",
+      "desc": "集中放置服务器、供电与散热设施的大型机房"
+     },
+     {
+      "term": "算力",
+      "desc": "计算能力，通常用 GPU 数量和浮点性能衡量，是训练大模型的门槛"
+     }
+    ]
+   },
+   {
+    "kind": "outlook",
+    "text": "把这几条放在一起看，最值得跟踪的是 AI 和 算力 两条线：一条决定技术能走多远，一条决定它多快能落到普通人的日常里。至于其他消息，可以先放进观察名单，等后续有更实的进展再判断。"
+   }
+  ],
+  "word_count": 583
+ },
+ "ai_enhanced": false,
+ "schema": 1,
+ "window_bj": {
+  "start": "2026-11-02 00:00",
+  "end": "2026-11-02 09:00"
+ }
+}

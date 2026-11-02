@@ -1,0 +1,362 @@
+{
+ "type": "today",
+ "date": "2026-11-02",
+ "window": {
+  "start_ts": 1793548800.0,
+  "end_ts": 1793581200.0
+ },
+ "generated_at": 1793584511.706666,
+ "generator": "action",
+ "news_count": 32,
+ "keywords": [
+  "全部",
+  "美国",
+  "一名",
+  "一飞",
+  "人全",
+  "佛州",
+  "国佛",
+  "坠毁",
+  "州一",
+  "情报"
+ ],
+ "points": [
+  {
+   "text": "【美国】美国佛州一飞机在居民区坠毁 机上9人全部遇难",
+   "keyword": "美国",
+   "news_ids": [
+    "4dafa2e88b1d7841"
+   ],
+   "refs": [
+    {
+     "id": "4dafa2e88b1d7841",
+     "title": "美国佛州一飞机在居民区坠毁 机上9人全部遇难",
+     "source": "中新网即时",
+     "url": "http://www.chinanews.com.cn/tp/hd2011/2026/11-02/1209443.shtml",
+     "published_at": 1793579631.0
+    }
+   ]
+  },
+  {
+   "text": "【美国】中新社莫斯科11月1日电 俄罗斯联邦安全局11月1日通报表示，在对美国提供的关于莫斯科察里津诺庄园可能发生恐怖袭击的情报进行调查过程中，拘捕了一",
+   "keyword": "美国",
+   "news_ids": [
+    "bac2c3e703e8b563"
+   ],
+   "refs": [
+    {
+     "id": "bac2c3e703e8b563",
+     "title": "俄安全部门调查莫斯科恐袭情报期间逮捕一名未成年人",
+     "source": "中新网即时",
+     "url": "https://www.chinanews.com.cn/gj/2026/11-02/10724526.shtml",
+     "published_at": 1793573736.0
+    }
+   ]
+  },
+  {
+   "text": "【中到】中新网11月2日电 据中央气象台网站消息，昨日，湖北、湖南、广西等地部分地区出现较强降雨，江淮和江南西部等地降温明显",
+   "keyword": "中到",
+   "news_ids": [
+    "d54dc1e3226d94b3"
+   ],
+   "refs": [
+    {
+     "id": "d54dc1e3226d94b3",
+     "title": "中央气象台：江淮江汉江南有中到大雨",
+     "source": "中新网即时",
+     "url": "https://www.chinanews.com.cn/sh/2026/11-02/10724543.shtml",
+     "published_at": 1793578556.0
+    }
+   ]
+  },
+  {
+   "text": "【不赚】中青报·中青网记者 孟佩佩",
+   "keyword": "不赚",
+   "news_ids": [
+    "3db7612f5b7cff6c"
+   ],
+   "refs": [
+    {
+     "id": "3db7612f5b7cff6c",
+     "title": "不赚钱”的街边“会客厅”，为何能聚起人才、创新和资本",
+     "source": "中新网即时",
+     "url": "https://www.chinanews.com.cn/sh/2026/11-02/10724534.shtml",
+     "published_at": 1793576114.0
+    }
+   ]
+  },
+  {
+   "text": "本报记者 武亚东",
+   "keyword": "",
+   "news_ids": [
+    "5aae5c49d6d167fa"
+   ],
+   "refs": [
+    {
+     "id": "5aae5c49d6d167fa",
+     "title": "人工智能“闯祸”，保险赔吗",
+     "source": "中新网即时",
+     "url": "https://www.chinanews.com.cn/cj/2026/11-02/10724550.shtml",
+     "published_at": 1793580258.0
+    }
+   ]
+  },
+  {
+   "text": "本报记者 张芗逸",
+   "keyword": "",
+   "news_ids": [
+    "0de6a902182b0d29"
+   ],
+   "refs": [
+    {
+     "id": "0de6a902182b0d29",
+     "title": "金九银十”收官 二手房市场成交韧性延续",
+     "source": "中新网即时",
+     "url": "https://www.chinanews.com.cn/cj/2026/11-02/10724549.shtml",
+     "published_at": 1793580160.0
+    }
+   ]
+  },
+  {
+   "text": "A股上市银行2026年三季报收官，行业盈利底盘持续稳固",
+   "keyword": "",
+   "news_ids": [
+    "4e09ff99b075e8a6"
+   ],
+   "refs": [
+    {
+     "id": "4e09ff99b075e8a6",
+     "title": "超八成A股上市银行前三季度净利正增长",
+     "source": "中新网即时",
+     "url": "https://www.chinanews.com.cn/cj/2026/11-02/10724548.shtml",
+     "published_at": 1793579814.0
+    }
+   ]
+  },
+  {
+   "text": "根據11月生效的規定，愛彼迎（Airbnb）房東不得再要求房客清洗餐具或倒垃圾",
+   "keyword": "",
+   "news_ids": [
+    "40dc3eadc74c8c11"
+   ],
+   "refs": [
+    {
+     "id": "40dc3eadc74c8c11",
+     "title": "不得要求房客清潔——Airbnb的新守則如何引發分歧",
+     "source": "BBC中文",
+     "url": "https://www.bbc.com/zhongwen/articles/cw62y1qjqz7po/trad?at_medium=RSS&at_campaign=rss",
+     "published_at": 1793578658.0
+    }
+   ]
+  },
+  {
+   "text": "最近，央行宣布贷款利率要从单一参考LPR定价向更多元的定价基准转型",
+   "keyword": "",
+   "news_ids": [
+    "f9a736bb8b98f757"
+   ],
+   "refs": [
+    {
+     "id": "f9a736bb8b98f757",
+     "title": "贷款利率迎来新变化 “双锚改革”带来哪些影响？",
+     "source": "中新网即时",
+     "url": "https://www.chinanews.com.cn/cj/2026/11-02/10724544.shtml",
+     "published_at": 1793578562.0
+    }
+   ]
+  },
+  {
+   "text": "由中华全国新闻工作者协会主办的2026年“全国十佳新闻工作者”宣传选树活动名单11月2日揭晓",
+   "keyword": "",
+   "news_ids": [
+    "45d39cd4a10dc410"
+   ],
+   "refs": [
+    {
+     "id": "45d39cd4a10dc410",
+     "title": "2026年“全国十佳新闻工作者”名单揭晓",
+     "source": "中新网即时",
+     "url": "https://www.chinanews.com.cn/sh/2026/11-02/10724542.shtml",
+     "published_at": 1793577916.0
+    }
+   ]
+  },
+  {
+   "text": "最近有一种育儿说法在网络广为传播：说的是“孩子处在猛长期，千万不能控制体重，减重会耽误长高",
+   "keyword": "",
+   "news_ids": [
+    "892a32ad4d870f9a"
+   ],
+   "refs": [
+    {
+     "id": "892a32ad4d870f9a",
+     "title": "孩子猛长期到底能不能减重？教你“吃动睡测”四步走",
+     "source": "中新网即时",
+     "url": "https://www.chinanews.com.cn/life/2026/11-02/10724541.shtml",
+     "published_at": 1793577834.0
+    }
+   ]
+  },
+  {
+   "text": "国际摩联世界摩托车锦标赛（MotoGP）马来西亚大奖赛正赛：马克·马奎斯夺冠",
+   "keyword": "",
+   "news_ids": [
+    "faa5926e998a95f7"
+   ],
+   "refs": [
+    {
+     "id": "faa5926e998a95f7",
+     "title": "国际摩联世界摩托车锦标赛（MotoGP）马来西亚大奖赛正赛：马克·马奎斯夺冠",
+     "source": "中新网即时",
+     "url": "http://www.chinanews.com.cn/tp/hd2011/2026/11-02/1209440.shtml",
+     "published_at": 1793577116.0
+    }
+   ]
+  },
+  {
+   "text": "羊城晚报记者 沈钊",
+   "keyword": "",
+   "news_ids": [
+    "81aefd6c9f65421a"
+   ],
+   "refs": [
+    {
+     "id": "81aefd6c9f65421a",
+     "title": "雪季还没到 南方人已经掀起“追雪热”",
+     "source": "中新网即时",
+     "url": "https://www.chinanews.com.cn/cj/2026/11-02/10724537.shtml",
+     "published_at": 1793576436.0
+    }
+   ]
+  },
+  {
+   "text": "中新网11月2日电 据路透社1日报道，出口民调显示，保加利亚现任总统约托娃在当天举行的总统选举第二轮投票中领先",
+   "keyword": "",
+   "news_ids": [
+    "7569f5049bdb8745"
+   ],
+   "refs": [
+    {
+     "id": "7569f5049bdb8745",
+     "title": "出口民调：保加利亚现总统约托娃在总统选举第二轮投票中领先",
+     "source": "中新网即时",
+     "url": "https://www.chinanews.com.cn/gj/2026/11-02/10724536.shtml",
+     "published_at": 1793576270.0
+    }
+   ]
+  },
+  {
+   "text": "银十”跑赢“金九”：上海10月二手房网签同比大涨33%，“市场止跌回暖信号已经明确”",
+   "keyword": "",
+   "news_ids": [
+    "8ffbcecb6c937016"
+   ],
+   "refs": [
+    {
+     "id": "8ffbcecb6c937016",
+     "title": "银十”跑赢“金九”：上海10月二手房网签同比大涨33%",
+     "source": "中新网即时",
+     "url": "https://www.chinanews.com.cn/cj/2026/11-02/10724535.shtml",
+     "published_at": 1793576266.0
+    }
+   ]
+  }
+ ],
+ "article": {
+  "title": "2026-11-02 新闻总结",
+  "paragraphs": [
+   {
+    "kind": "lead",
+    "text": "今天共收录 32 条新闻，来自 3 家媒体。整体没有压倒性的单一主线，更像是几条线索并行推进。"
+   },
+   {
+    "kind": "section",
+    "heading": "美国佛州一飞机在居民区坠毁 机上",
+    "text": "先看「美国佛州一飞机在居民区坠毁 机上」。美国佛州一飞机在居民区坠毁 机上9人全部遇难…，另有 5 条消息指向同一话题。对读者来说，值得留意的不是结论本身，而是它背后哪些前提正在被改变。",
+    "news_ids": [
+     "4dafa2e88b1d7841"
+    ],
+    "refs": [
+     {
+      "id": "4dafa2e88b1d7841",
+      "title": "美国佛州一飞机在居民区坠毁 机上9人全部遇难",
+      "source": "中新网即时",
+      "url": "http://www.chinanews.com.cn/tp/hd2011/2026/11-02/1209443.shtml",
+      "published_at": 1793579631.0
+     }
+    ]
+   },
+   {
+    "kind": "section",
+    "heading": "安全",
+    "text": "与此同时「安全」。中新社莫斯科11月1日电 俄罗斯联邦安全局11月1日通报表示，在对美国提供的关于莫斯科察里津诺庄园可能发生恐怖袭击的情报进行调查过程中，另有 2 条消息指向同一话题。这类问题很少是单点失误，更常见的是权限设计和应急流程一起出了漏洞。",
+    "news_ids": [
+     "bac2c3e703e8b563"
+    ],
+    "refs": [
+     {
+      "id": "bac2c3e703e8b563",
+      "title": "俄安全部门调查莫斯科恐袭情报期间逮捕一名未成年人",
+      "source": "中新网即时",
+      "url": "https://www.chinanews.com.cn/gj/2026/11-02/10724526.shtml",
+      "published_at": 1793573736.0
+     }
+    ]
+   },
+   {
+    "kind": "section",
+    "heading": "中央气象台",
+    "text": "另一个值得注意的方向是「中央气象台」。中新网11月2日电 据中央气象台网站消息，昨日，湖北、湖南、广西等地部分地区出现较强降雨，另有 2 条消息指向同一话题。这条消息短期内的实际影响可能有限，但它指向的方向值得放进观察名单。",
+    "news_ids": [
+     "d54dc1e3226d94b3"
+    ],
+    "refs": [
+     {
+      "id": "d54dc1e3226d94b3",
+      "title": "中央气象台：江淮江汉江南有中到大雨",
+      "source": "中新网即时",
+      "url": "https://www.chinanews.com.cn/sh/2026/11-02/10724543.shtml",
+      "published_at": 1793578556.0
+     }
+    ]
+   },
+   {
+    "kind": "section",
+    "heading": "创新",
+    "text": "相比之下「创新」。中青报·中青网记者 孟佩佩…，另有 1 条消息指向同一话题。这条消息短期内的实际影响可能有限，但它指向的方向值得放进观察名单。",
+    "news_ids": [
+     "3db7612f5b7cff6c"
+    ],
+    "refs": [
+     {
+      "id": "3db7612f5b7cff6c",
+      "title": "不赚钱”的街边“会客厅”，为何能聚起人才、创新和资本",
+      "source": "中新网即时",
+      "url": "https://www.chinanews.com.cn/sh/2026/11-02/10724534.shtml",
+      "published_at": 1793576114.0
+     }
+    ]
+   },
+   {
+    "kind": "glossary",
+    "items": [
+     {
+      "term": "AI",
+      "desc": "人工智能，让机器完成识别、生成、判断等原本需要人做的任务"
+     }
+    ]
+   },
+   {
+    "kind": "outlook",
+    "text": "整体看，这个时段的新闻还处在「消息多、结论少」的阶段，与其急着下判断，不如盯住接下来一两周有没有可验证的后续动作。"
+   }
+  ],
+  "word_count": 506
+ },
+ "ai_enhanced": false,
+ "schema": 1,
+ "window_bj": {
+  "start": "2026-11-02 00:00",
+  "end": "2026-11-02 09:00"
+ }
+}
