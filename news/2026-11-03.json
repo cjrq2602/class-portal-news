@@ -1,7 +1,7 @@
 {
  "date": "2026-11-03",
- "generated_at": 1793648826.6857445,
- "count": 41,
+ "generated_at": 1793651914.7058957,
+ "count": 44,
  "items": [
   {
    "id": "34f832b837eac571",
@@ -47,6 +47,24 @@
    "summary": "German lawmakers and a filmmaker are among the people who received notifications from Apple warning that their phones may have been hacked.",
    "published_at": 1793648754.0,
    "published_bj": "2026-11-03 03:45"
+  },
+  {
+   "id": "8b70c3dd9b6b313d",
+   "source": "Hacker News",
+   "title": "Anthropic reveals $900B AI spending commitments ahead of IPO",
+   "url": "https://www.ft.com/content/4d91dbab-6fe4-45ab-beee-d77e091cb37f",
+   "summary": "Article URL: https://www.ft.com/content/4d91dbab-6fe4-45ab-beee-d77e091cb37f Comments URL: https://news.ycombinator.com/item?id=50342424 Points: 35 # Comments: 12",
+   "published_at": 1793648197.0,
+   "published_bj": "2026-11-03 03:36"
+  },
+  {
+   "id": "9bf932f919e2158e",
+   "source": "Hacker News",
+   "title": "Oracle files to sell $20B in new stock, bonds to finance AI buildout",
+   "url": "https://www.cnbc.com/2026/11/02/oracle-files-to-sell-20-billion-in-new-stock-bonds-to-finance-ai-buildout.html",
+   "summary": "Article URL: https://www.cnbc.com/2026/11/02/oracle-files-to-sell-20-billion-in-new-stock-bonds-to-finance-ai-buildout.html Comments URL: https://news.ycombinator.com/item?id=50342284 Points: 47 # Comments: 17",
+   "published_at": 1793647657.0,
+   "published_bj": "2026-11-03 03:27"
   },
   {
    "id": "12f1607e1812d207",
@@ -101,6 +119,15 @@
    "summary": "Article URL: https://github.com/soml-lang/soml Comments URL: https://news.ycombinator.com/item?id=50341502 Points: 11 # Comments: 7",
    "published_at": 1793644924.0,
    "published_bj": "2026-11-03 02:42"
+  },
+  {
+   "id": "1f2835436e960523",
+   "source": "Hacker News",
+   "title": "Ubuntu still has not released patch for Linux 0day RCE in almost 3 weeks",
+   "url": "https://freenode.net/article/ubuntu-lts-kernels-still-unfixed-for-critical-cve-2026-98432",
+   "summary": "Article URL: https://freenode.net/article/ubuntu-lts-kernels-still-unfixed-for-critical-cve-2026-98432 Comments URL: https://news.ycombinator.com/item?id=50341462 Points: 70 # Comments: 7",
+   "published_at": 1793644778.0,
+   "published_bj": "2026-11-03 02:39"
   },
   {
    "id": "f09985fd6ad46295",
