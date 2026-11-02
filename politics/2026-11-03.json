@@ -1,8 +1,98 @@
 {
  "date": "2026-11-03",
- "generated_at": 1793661499.0058389,
- "count": 10,
+ "generated_at": 1793663688.2238977,
+ "count": 20,
  "items": [
+  {
+   "id": "51240fffb6f2211b",
+   "source": "中新网即时",
+   "title": "算力用电年均新增一千亿度以上，怎么接住？",
+   "url": "https://www.chinanews.com.cn/cj/2026/11-03/10725099.shtml",
+   "summary": "中青报·中青网记者 贾骥业",
+   "published_at": 1793663205.0,
+   "published_bj": "2026-11-03 07:46"
+  },
+  {
+   "id": "b0e6aa6781c500ff",
+   "source": "中新网即时",
+   "title": "Token登上“双十一”货架",
+   "url": "https://www.chinanews.com.cn/cj/2026/11-03/10725098.shtml",
+   "summary": "中青报·中青网记者 刘佳佳",
+   "published_at": 1793663119.0,
+   "published_bj": "2026-11-03 07:45"
+  },
+  {
+   "id": "d65b9bb3d1d0d58e",
+   "source": "中新网即时",
+   "title": "酒店长租业务，法律关系待厘清",
+   "url": "https://www.chinanews.com.cn/sh/2026/11-03/10725097.shtml",
+   "summary": "本报记者 孙天骄",
+   "published_at": 1793662991.0,
+   "published_bj": "2026-11-03 07:43"
+  },
+  {
+   "id": "d2ca66a629f49730",
+   "source": "中新网即时",
+   "title": "“炸药包”突然扔向人群？沉浸式体验不能吓着观众",
+   "url": "https://www.chinanews.com.cn/sh/2026/11-03/10725096.shtml",
+   "summary": "童方萍",
+   "published_at": 1793662917.0,
+   "published_bj": "2026-11-03 07:41"
+  },
+  {
+   "id": "05f31e99fdf2fbd6",
+   "source": "中新网即时",
+   "title": "控制食量可减轻慢性炎症 3种方法帮你抗炎抗衰减重",
+   "url": "https://www.chinanews.com.cn/life/2026/11-03/10725095.shtml",
+   "summary": "网传轻断食可减脂抗炎、延年益寿",
+   "published_at": 1793662387.0,
+   "published_bj": "2026-11-03 07:33"
+  },
+  {
+   "id": "7acdada2317f8b99",
+   "source": "中新网即时",
+   "title": "【乌镇“网事”】习言道｜让更多国家和人民共享互联网发展成果",
+   "url": "https://www.chinanews.com.cn/gn/2026/11-03/10725089.shtml",
+   "summary": "网络空间关乎人类命运，网络空间未来应由世界各国共同开创。习近平总书记多次深入阐述构建网络空间命运共同体的中国方案，强调“让互联网更好造福人民、造福世界”。",
+   "published_at": 1793662247.0,
+   "published_bj": "2026-11-03 07:30"
+  },
+  {
+   "id": "b181d58f8f0b9481",
+   "source": "中新网即时",
+   "title": "朝中社：朝鲜导弹总局进行重要武器系统试验",
+   "url": "https://www.chinanews.com.cn/gj/2026/11-03/10725093.shtml",
+   "summary": "中新网11月3日电 据朝中社3日报道，朝鲜导弹总局2日进行战略巡航导弹散布战斗部威力评估试验和垂直打击飞行特性试验。",
+   "published_at": 1793661926.0,
+   "published_bj": "2026-11-03 07:25"
+  },
+  {
+   "id": "c0ef7701ade93bc0",
+   "source": "中新网要闻",
+   "title": "朝中社：朝鲜导弹总局进行重要武器系统试验",
+   "url": "https://www.chinanews.com.cn/gj/2026/11-03/10725093.shtml",
+   "summary": "中新网11月3日电 据朝中社3日报道，朝鲜导弹总局2日进行战略巡航导弹散布战斗部威力评估试验和垂直打击飞行特性试验。",
+   "published_at": 1793661926.0,
+   "published_bj": "2026-11-03 07:25"
+  },
+  {
+   "id": "bc2da1cf655e5585",
+   "source": "中新网即时",
+   "title": "也门胡塞武装称塔伊兹省一市场遭袭 造成多人死伤",
+   "url": "https://www.chinanews.com.cn/gj/2026/11-03/10725090.shtml",
+   "summary": "中新网11月3日电 据外媒报道，也门胡塞武装称，当地时间2日，也门西南部塔伊兹省一市场遭袭，造成多人死伤。",
+   "published_at": 1793661526.0,
+   "published_bj": "2026-11-03 07:18"
+  },
+  {
+   "id": "eefad229309d2886",
+   "source": "中新网要闻",
+   "title": "也门胡塞武装称塔伊兹省一市场遭袭 造成多人死伤",
+   "url": "https://www.chinanews.com.cn/gj/2026/11-03/10725090.shtml",
+   "summary": "中新网11月3日电 据外媒报道，也门胡塞武装称，当地时间2日，也门西南部塔伊兹省一市场遭袭，造成多人死伤。",
+   "published_at": 1793661526.0,
+   "published_bj": "2026-11-03 07:18"
+  },
   {
    "id": "92afcbc47bc54f08",
    "source": "中新网即时",
