@@ -1,7 +1,7 @@
 {
  "date": "2026-11-03",
- "generated_at": 1793645326.312691,
- "count": 31,
+ "generated_at": 1793648826.6857445,
+ "count": 41,
  "items": [
   {
    "id": "34f832b837eac571",
@@ -40,6 +40,51 @@
    "published_bj": "2026-11-03 04:00"
   },
   {
+   "id": "b5e9f9f7bc7174e0",
+   "source": "TechCrunch",
+   "title": "Germany says lawmakers’ iPhones may have been hacked with spyware",
+   "url": "https://techcrunch.com/2026/11/02/germany-says-lawmakers-iphones-may-have-been-hacked-with-spyware/",
+   "summary": "German lawmakers and a filmmaker are among the people who received notifications from Apple warning that their phones may have been hacked.",
+   "published_at": 1793648754.0,
+   "published_bj": "2026-11-03 03:45"
+  },
+  {
+   "id": "12f1607e1812d207",
+   "source": "TechCrunch",
+   "title": "Web host Squarespace lays off 19% of its employees",
+   "url": "https://techcrunch.com/2026/11/02/web-host-squarespace-lays-off-19-of-its-employees/",
+   "summary": "The website builder said that the job losses are part of a broader restructuring of its organization.",
+   "published_at": 1793647559.0,
+   "published_bj": "2026-11-03 03:25"
+  },
+  {
+   "id": "a012415313da6720",
+   "source": "TechCrunch",
+   "title": "New York Times and other outlets sue web browser Brave over alleged content scraping",
+   "url": "https://techcrunch.com/2026/11/02/new-york-times-and-other-outlets-sue-web-browser-brave-over-alleged-content-scraping/",
+   "summary": "The New York Times is suing privacy-focused web browser company Brave for allegedly scraping the outlet’s copyrighted and unlawfully distributing it to its own customers, like Anthropic and Perplexity.",
+   "published_at": 1793647157.0,
+   "published_bj": "2026-11-03 03:19"
+  },
+  {
+   "id": "4188bf42a4accb46",
+   "source": "TechCrunch",
+   "title": "Snap settles lawsuit accusing platform of fueling teen depression and eating disorders",
+   "url": "https://techcrunch.com/2026/11/02/snap-settles-lawsuit-accusing-platform-of-fueling-teen-depression-and-eating-disorders/",
+   "summary": "The plaintiffs said they started using YouTube as young as age 3 and other social media platforms at around age 9 and developed compulsive usage habits that they attributed to features such as autoplay and infinite scrolling.",
+   "published_at": 1793646709.0,
+   "published_bj": "2026-11-03 03:11"
+  },
+  {
+   "id": "049808b4fa940300",
+   "source": "Hacker News",
+   "title": "Egoless Mathematics in the AI Era",
+   "url": "https://terrytao.wordpress.com/2026/11/02/egoless-mathematics-in-the-ai-era/",
+   "summary": "Article URL: https://terrytao.wordpress.com/2026/11/02/egoless-mathematics-in-the-ai-era/ Comments URL: https://news.ycombinator.com/item?id=50341736 Points: 18 # Comments: 6",
+   "published_at": 1793645684.0,
+   "published_bj": "2026-11-03 02:54"
+  },
+  {
    "id": "c3854c7e2c6b6c51",
    "source": "InfoQ中文",
    "title": "谷歌 SynthID Detector 简化了水印检测流程，并将支持范围扩展至其他 AI 提供商",
@@ -47,6 +92,15 @@
    "summary": "点击查看原文>",
    "published_at": 1793645532.0,
    "published_bj": "2026-11-03 02:52"
+  },
+  {
+   "id": "70439ac79a5d93b7",
+   "source": "Hacker News",
+   "title": "SOML – A Config Format for Humans",
+   "url": "https://github.com/soml-lang/soml",
+   "summary": "Article URL: https://github.com/soml-lang/soml Comments URL: https://news.ycombinator.com/item?id=50341502 Points: 11 # Comments: 7",
+   "published_at": 1793644924.0,
+   "published_bj": "2026-11-03 02:42"
   },
   {
    "id": "f09985fd6ad46295",
@@ -58,6 +112,24 @@
    "published_bj": "2026-11-03 02:33"
   },
   {
+   "id": "ee7c93586f73d877",
+   "source": "Hacker News",
+   "title": "Agentic Backdoors via Pretraining Poisoning",
+   "url": "https://arxiv.org/abs/2610.37741",
+   "summary": "Article URL: https://arxiv.org/abs/2610.37741 Comments URL: https://news.ycombinator.com/item?id=50341334 Points: 34 # Comments: 6",
+   "published_at": 1793644258.0,
+   "published_bj": "2026-11-03 02:30"
+  },
+  {
+   "id": "f0d19fb5f0beac41",
+   "source": "Hacker News",
+   "title": "Astra can read and write weights to improve Qwen",
+   "url": "https://rikiyat.github.io/blog/weight-space-programming/",
+   "summary": "Article URL: https://rikiyat.github.io/blog/weight-space-programming/ Comments URL: https://news.ycombinator.com/item?id=50341174 Points: 402 # Comments: 107",
+   "published_at": 1793643688.0,
+   "published_bj": "2026-11-03 02:21"
+  },
+  {
    "id": "3a0b95e0037b1881",
    "source": "Hacker News",
    "title": "Sneaking into the auditorium for the Windows 2000 launch rehearsal",
@@ -65,6 +137,15 @@
    "summary": "Article URL: https://devblogs.microsoft.com/oldnewthing/20261102-00/?p=112818/ Comments URL: https://news.ycombinator.com/item?id=50341028 Points: 5 # Comments: 0",
    "published_at": 1793643168.0,
    "published_bj": "2026-11-03 02:12"
+  },
+  {
+   "id": "30e20aba02cc10fe",
+   "source": "Hacker News",
+   "title": "Skill to Create Product Videos",
+   "url": "https://github.com/aaitor/skill-video-studio",
+   "summary": "Article URL: https://github.com/aaitor/skill-video-studio Comments URL: https://news.ycombinator.com/item?id=50340992 Points: 9 # Comments: 1",
+   "published_at": 1793643039.0,
+   "published_bj": "2026-11-03 02:10"
   },
   {
    "id": "4ae43c65fd714922",
@@ -92,6 +173,15 @@
    "summary": "Readwise Books combines an ebook store, reading tracker, detailed reading stats, and AI features in a bid to challenge Amazon's ecosystem.",
    "published_at": 1793641781.0,
    "published_bj": "2026-11-03 01:49"
+  },
+  {
+   "id": "32707be31bd13080",
+   "source": "Hacker News",
+   "title": "Making Peace with the Projective Plane",
+   "url": "https://www.johndcook.com/blog/2026/11/02/projective-plane/",
+   "summary": "Article URL: https://www.johndcook.com/blog/2026/11/02/projective-plane/ Comments URL: https://news.ycombinator.com/item?id=50340629 Points: 6 # Comments: 0",
+   "published_at": 1793641679.0,
+   "published_bj": "2026-11-03 01:47"
   },
   {
    "id": "87f2e96e36870b2c",
