@@ -1,7 +1,7 @@
 {
  "date": "2026-11-02",
- "generated_at": 1793622678.5521598,
- "count": 307,
+ "generated_at": 1793627263.042192,
+ "count": 316,
  "items": [
   {
    "id": "18bea95ac8f3d9ad",
@@ -11,6 +11,69 @@
    "summary": "点击查看原文>",
    "published_at": 1793632668.0,
    "published_bj": "2026-11-02 23:17"
+  },
+  {
+   "id": "7ec641628ded5430",
+   "source": "cnBeta",
+   "title": "乌克兰出现虚假核威胁警报：俄乌双方均报告应急应用遭遇独立网络攻击",
+   "url": "https://www.cnbeta.com.tw/articles/tech/1584740.htm",
+   "summary": "乌克兰空军周日称，其 空袭警报（Air Alert）应用程序 遭到入侵，该应用向基辅以及其他地区推送了虚假核威胁、化学威胁警报。路透社消息，该应用短暂弹出核事故、化学事故警报，还推送了巷战爆发的警告。乌克兰空军表示，有未授权人员干扰应用运行，已临时关闭推送通知功能。 阅读全文",
+   "published_at": 1793623894.0,
+   "published_bj": "2026-11-02 20:51"
+  },
+  {
+   "id": "d420ec56bf42cabc",
+   "source": "Hacker News",
+   "title": "Last night an AI agent performed brain surgery on a mouse",
+   "url": "https://twitter.com/OcanaSantero/status/2115442964574908902",
+   "summary": "Article URL: https://twitter.com/OcanaSantero/status/2115442964574908902 Comments URL: https://news.ycombinator.com/item?id=50336138 Points: 13 # Comments: 3",
+   "published_at": 1793623859.0,
+   "published_bj": "2026-11-02 20:50"
+  },
+  {
+   "id": "c7c0b86b0b89c373",
+   "source": "cnBeta",
+   "title": "已灭绝数千年的巨鸟或从未消失 DNA研究推翻百年认知",
+   "url": "https://www.cnbeta.com.tw/articles/science/1584738.htm",
+   "summary": "一项最新研究推翻了学术界延续超过150年的传统观点。科学家通过古DNA分析发现，一种长期被认为在上一个冰河时代结束后灭绝的巨型鸟类，实际上并不是一个已经消失的独立物种，而是今天仍生活在欧洲的一种现存鸟类的大型祖先个体。 阅读全文",
+   "published_at": 1793623605.0,
+   "published_bj": "2026-11-02 20:46"
+  },
+  {
+   "id": "9ebb95a37c767f1f",
+   "source": "cnBeta",
+   "title": "法国拟对互联网流量征税 每传输1GB数据收费5.5欧分",
+   "url": "https://www.cnbeta.com.tw/articles/tech/1584736.htm",
+   "summary": "法国正在考虑推出一项颇具争议的互联网流量税，计划按照内容提供商向法国用户传输的数据量征税，每传输1GB数据就需要缴纳0.055欧元（5.5欧分）。这项提案已经在法国国民议会下院以极其微弱的优势获得通过，但距离正式成为法律仍有相当长的程序。 阅读全文",
+   "published_at": 1793623447.0,
+   "published_bj": "2026-11-02 20:44"
+  },
+  {
+   "id": "d5fa1f7821bf9720",
+   "source": "cnBeta",
+   "title": "Steam硬件调查：16GB内存重夺榜首 英特尔份额回升 Linux用户占比逼近4%",
+   "url": "https://www.cnbeta.com.tw/articles/game/1584734.htm",
+   "summary": "Valve发布的2026年10月Steam硬件与软件调查结果显示，在经历9月份多项异常波动后，多项关键硬件统计出现明显回归。内存容量、显卡排名、处理器市场份额以及操作系统占比均出现新的变化，展现出当前PC游戏玩家硬件生态的最新格局。 阅读全文",
+   "published_at": 1793623362.0,
+   "published_bj": "2026-11-02 20:42"
+  },
+  {
+   "id": "24536938b7effaf9",
+   "source": "cnBeta",
+   "title": "韩国出口额逼近万亿美元大关 AI存储芯片热潮成最大推手",
+   "url": "https://www.cnbeta.com.tw/articles/tech/1584732.htm",
+   "summary": "受全球人工智能产业持续扩张带动，韩国出口表现迎来历史性突破。韩国政府最新公布的数据显示，今年10月韩国出口额达到1152.8亿美元，同比增长93.7%，创下历史第二高单月纪录，仅次于9月份的表现。随着出口持续强劲增长，今年前10个月韩国累计出口额已达到9300亿美元，距离全年突破1万亿美元大关仅剩约700亿美元。 阅读全文",
+   "published_at": 1793622661.0,
+   "published_bj": "2026-11-02 20:31"
+  },
+  {
+   "id": "aad14e77815bb18d",
+   "source": "Solidot",
+   "title": "比利时瑞典超市冷冻冷藏设备遭遇网络攻击",
+   "url": "https://www.solidot.org/story?sid=85775",
+   "summary": "在法国之后、比利时、瑞典、卢森堡和爱尔兰多家超市的冷冻和冷藏设备遭遇类似的网络攻击。比利时和卢森堡有约 40 家 Delhaize 超市受影响，瑞典 ICA 和 Coop 的多家门店受影响，爱尔兰有 13 家 SuperValu 门店受影响。瑞典的一家 ICA 门店称，其冷冻设备的温度被篡改设定到 50 摄氏度。一家 Delhaize 门店称它损失了价值 10 万欧元的商品。法资超市家乐福表示位于比利时的门店有 15 家受到影响，法国受影响超市都使用了丹麦公司 Danfoss 的制冷控制器，运行的是已停止支持的型号。目前不清楚最新受影响的超市是否使用了 Danfoss 控制器。",
+   "published_at": 1793622474.0,
+   "published_bj": "2026-11-02 20:27"
   },
   {
    "id": "f0388c1fe4a1d9df",
@@ -83,6 +146,15 @@
    "summary": "IT之家 11 月 2 日消息，根据纽佰德 (NBD) 收集的数据，1 款 W980 主板、2 款 Z970 主板现身该第三方海关舱单数据库，显示主板制造商正为英特尔酷睿 Ultra 4000S \"Nova Lake S\" 处理器和配套的 FCLGA1954 平台进行准备。 上述 5 条记录拥有相同的货物描述格式，进口商、采购地、出口商信息也一致。 记录到的主板型号包括 W980 WS、Z970 LIVEMIXER WIFI、Z970 PRO-A WIFI ，其中 Z970 LIVEMIXER WIFI 很明显来自华擎、Z970 PRO-A WIFI 也有对应的华擎前代款式。 相关阅读： 《 ",
    "published_at": 1793620730.0,
    "published_bj": "2026-11-02 19:58"
+  },
+  {
+   "id": "3a4916b3cba3cadc",
+   "source": "Hacker News",
+   "title": "Never Complain, Never Explain",
+   "url": "https://en.wikipedia.org/wiki/Never_complain,_never_explain",
+   "summary": "Article URL: https://en.wikipedia.org/wiki/Never_complain,_never_explain Comments URL: https://news.ycombinator.com/item?id=50335659 Points: 29 # Comments: 8",
+   "published_at": 1793620548.0,
+   "published_bj": "2026-11-02 19:55"
   },
   {
    "id": "c1ad7247387c827d",
@@ -776,6 +848,15 @@
    "summary": "IT之家 11 月 2 日消息，小米集团合伙人 / 总裁、手机部总裁、小米品牌总经理卢伟冰今日宣布， 小米 18 Pro 系列手机将于 11 月登陆海外市场 。 小米 18 Pro 系列，11 月登陆海外市场！ Xiaomi18 Pro Series is going global this November. 据IT之家此前报道， 小米 18 Pro 系列手机已于 9 月 23 日晚正式发布 ，搭载第六代骁龙 8 至尊版系列移动平台，后置徕卡 2 亿大底主摄 + 2 亿大底长焦，配备 AI 百变背屏， 售价 5,999 元起 。 卢伟冰曾在 9 月 26 日晚发文表示，国外媒体和用户，对小米",
    "published_at": 1793608475.0,
    "published_bj": "2026-11-02 16:34"
+  },
+  {
+   "id": "ee4107ef789961fc",
+   "source": "Hacker News",
+   "title": "BioWare co-founder: game execs \"have never made a game\" and don't get it",
+   "url": "https://www.pcgamer.com/gaming-industry/none-of-these-people-have-ever-made-a-game-bioware-co-founder-greg-zeschuk-says-of-game-industry-executives-they-just-dont-know-how-it-works/",
+   "summary": "Article URL: https://www.pcgamer.com/gaming-industry/none-of-these-people-have-ever-made-a-game-bioware-co-founder-greg-zeschuk-says-of-game-industry-executives-they-just-dont-know-how-it-works/ Comments URL: https://news.ycombinator.com/item?id=50334372 Points: 41 # Comments: 20",
+   "published_at": 1793608350.0,
+   "published_bj": "2026-11-02 16:32"
   },
   {
    "id": "a4eb4580923fbb96",
