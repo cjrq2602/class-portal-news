@@ -1,8 +1,17 @@
 {
  "date": "2026-11-02",
- "generated_at": 1793634800.8905818,
- "count": 356,
+ "generated_at": 1793638526.2028759,
+ "count": 363,
  "items": [
+  {
+   "id": "f962b58fa02bb078",
+   "source": "Solidot",
+   "title": "鳄鱼为何免受毁灭恐龙的小行星的影响？",
+   "url": "https://www.solidot.org/story?sid=85777",
+   "summary": "小行星灭绝了恐龙，鳄鱼为何幸存？科学家或许解开了这个困扰6600万年的谜团。一项大规模化石与古气候分析表明，鳄鱼偏爱温暖环境的习性，让它们在小行星撞击后仍能栖身于条件尚可的热带“避难所”。研究团队发现，鳄鱼及其远古近亲在长达 2.5 亿年的演化史中，始终“追着温暖气候走”，而非适应剧烈变化的温度。地球变暖时，它们扩散到新区域，最远抵达南极洲；气温回落时，它们再退回热带。研究分析了 7000 多块化石、400 多种现存与灭绝物种的记录，并结合电脑模型，重建了 2.45 亿年间地球气候与地理的变迁。结果显示，小行星撞击后，热带和亚热带地区对鳄鱼近亲依然宜居，而许多恐龙的生存环境却在不断恶化。只有在",
+   "published_at": 1793634082.0,
+   "published_bj": "2026-11-02 23:41"
+  },
   {
    "id": "57c8b23c17420ceb",
    "source": "IT之家",
@@ -11,6 +20,15 @@
    "summary": "IT之家 11 月 2 日消息，据《The Information》今日报道，苹果正在开发 HomeView 的机器人版本。这款设备传闻被称作“HomeView Ultra”或“HomeView Max”，不过最终命名尚不确定。 记者艾伦・蒂利（Aaron Tilley）表示，该设备原型机将一块 9 英寸屏幕搭载在可旋转机械臂上，整体外观类似苹果早年的 iMac G4，或是皮克斯的经典台灯吉祥物。它保留 FaceTime 通话这类 HomeView 已有的常规功能，同时还能够 充分感知周边环境，并自主执行操作 。 ▲ 苹果首款智能家庭中枢 HomeView 报道写道：“这款机器人当前的设计方案",
    "published_at": 1793634002.0,
    "published_bj": "2026-11-02 23:40"
+  },
+  {
+   "id": "c7a06a0b6c9cc76d",
+   "source": "Solidot",
+   "title": "小鼠研究显示阉割有助于长寿",
+   "url": "https://www.solidot.org/story?sid=85776",
+   "summary": "男性想要长寿的话可随时尝试阉割。对包括人类在内的哺乳动物，切除睾丸有助于延长雄性的寿命。一项新研究发现，与此前的认知不同，阉割手术并不一定要在生命早期进行。对年长雄鼠进行去势处理，可使其寿命延长逾 30%。这一发现颠覆了以往对于睾丸如何影响衰老的既有观念。在人类等物种中，雌性的寿命显著长于雄性。以美国为例，男女之间的平均寿命差距为 6 年。男性也更容易罹患与衰老相关的疾病如癌症和心脏病。这一现象背后原因尚不明确，有证据表明雄性的短寿与睾丸相关。多项研究表明去势能普遍带来寿命延长。在最新研究中，研究人员对不同年龄同一品系的雄鼠进行去势处理，时间点分别是在青春期前、青春期刚过，以及成年期。结果显示",
+   "published_at": 1793633513.0,
+   "published_bj": "2026-11-02 23:31"
   },
   {
    "id": "6cc9702c9ce36e18",
@@ -58,6 +76,15 @@
    "published_bj": "2026-11-02 23:01"
   },
   {
+   "id": "435fa41e61306cd4",
+   "source": "Hacker News",
+   "title": "LongCat-2.5: Native Multimodality for Agentic Tasks",
+   "url": "https://longcat.ai/blog/longcat-2.5/",
+   "summary": "Article URL: https://longcat.ai/blog/longcat-2.5/ Comments URL: https://news.ycombinator.com/item?id=50337716 Points: 23 # Comments: 8",
+   "published_at": 1793631626.0,
+   "published_bj": "2026-11-02 23:00"
+  },
+  {
    "id": "4a44707cea25ab95",
    "source": "TechCrunch",
    "title": "Omen AI adds liquid know-how in $16 million Aquatic Labs acquisition",
@@ -65,6 +92,15 @@
    "summary": "Two startups tackling the data center water problem are joining forces in a $16 million deal.",
    "published_at": 1793631600.0,
    "published_bj": "2026-11-02 23:00"
+  },
+  {
+   "id": "5f00a491b945399f",
+   "source": "Hacker News",
+   "title": "C64 Basic Dungeon Crawler: Stairs, Levels and Levelling Up (Part 11)",
+   "url": "https://retrogamecoders.com/c64-basic-dungeon-part11/",
+   "summary": "Article URL: https://retrogamecoders.com/c64-basic-dungeon-part11/ Comments URL: https://news.ycombinator.com/item?id=50337661 Points: 3 # Comments: 0",
+   "published_at": 1793631381.0,
+   "published_bj": "2026-11-02 22:56"
   },
   {
    "id": "14d74da7f6476286",
@@ -92,6 +128,24 @@
    "summary": "IT之家 11 月 2 日消息，11 月 2 日，国家广播电视总局联合工业和信息化部、中央广播电视总台召开一体化电视全国推广部署推进会。 会议要求，各地区各部门各单位要坚定信心、下定决心，攻坚克难、奋力冲刺，确保圆满完成全年目标任务。 一是 锚定目标、细化台账，狠抓推进落实。要加快推进设备采购、安装部署、宣传推广等，确保年底前完成全部部署工作。要完整准确执行一体化电视标准，严格遵循直播优先、专网传输技术要求，严格落实“专网 + 一体化电视 App+ 适配器 + 单电源通用遥控器”产品形态，严格遵守检测、认证等管理要求，确保规范发展、运行平稳、体验一致。 二是 紧盯关键环节，细化工作举措。要加快",
    "published_at": 1793631002.0,
    "published_bj": "2026-11-02 22:50"
+  },
+  {
+   "id": "8709e889c82cb246",
+   "source": "Hacker News",
+   "title": "We halved DNS build delay and cut memory use by 85%",
+   "url": "https://blog.cloudflare.com/dns-targeted-zone-builds/",
+   "summary": "Article URL: https://blog.cloudflare.com/dns-targeted-zone-builds/ Comments URL: https://news.ycombinator.com/item?id=50337558 Points: 21 # Comments: 4",
+   "published_at": 1793630848.0,
+   "published_bj": "2026-11-02 22:47"
+  },
+  {
+   "id": "1cd214403f416aac",
+   "source": "Hacker News",
+   "title": "GPT-Rosalind-6 System Card Addendum",
+   "url": "https://deploymentsafety.openai.com/gpt-rosalind-6",
+   "summary": "Article URL: https://deploymentsafety.openai.com/gpt-rosalind-6 Comments URL: https://news.ycombinator.com/item?id=50337503 Points: 19 # Comments: 5",
+   "published_at": 1793630642.0,
+   "published_bj": "2026-11-02 22:44"
   },
   {
    "id": "983d6f20a915eab8",
@@ -272,6 +326,15 @@
    "summary": "IT之家 11 月 2 日消息，埃隆 · 马斯克称，AI 富足时代终将到来，但眼下，Grok Bot 还做不到不限量使用。 这位 SpaceX 首席执行官当地时间上周日在 X 平台发文称：有用户反馈每周额度消耗速度远超往常，对此他表示，该 AI 智能体的服务成本“相对于收入而言高到难以为继”。 Grok Bot 是 SpaceX 在 8 月推出的 AI 智能体，其依托虚拟计算机替人完成购物等各类任务。该产品分多个档位，从免费版到每月 200 美元 （IT之家注：现汇率约合 1,332 元人民币） 套餐不等。 所有档位都设有每周重置的使用限额。SpaceX 以及 Meta 的 Muse 等其他 ",
    "published_at": 1793626713.0,
    "published_bj": "2026-11-02 21:38"
+  },
+  {
+   "id": "f48c7a00f481d3a4",
+   "source": "Hacker News",
+   "title": "If you love a website, back it up",
+   "url": "https://blog.mistys-internet.website/post/2026/10/29/if-you-love-a-website-back-it-up/",
+   "summary": "Article URL: https://blog.mistys-internet.website/post/2026/10/29/if-you-love-a-website-back-it-up/ Comments URL: https://news.ycombinator.com/item?id=50336518 Points: 69 # Comments: 16",
+   "published_at": 1793625935.0,
+   "published_bj": "2026-11-02 21:25"
   },
   {
    "id": "ff12f7b98369bb48",

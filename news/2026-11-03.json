@@ -1,7 +1,7 @@
 {
  "date": "2026-11-03",
- "generated_at": 1793634800.888799,
- "count": 10,
+ "generated_at": 1793638526.2000575,
+ "count": 18,
  "items": [
   {
    "id": "34f832b837eac571",
@@ -92,6 +92,78 @@
    "summary": "点击查看原文>",
    "published_at": 1793638226.0,
    "published_bj": "2026-11-03 00:50"
+  },
+  {
+   "id": "dbec80dc98088c36",
+   "source": "TechCrunch",
+   "title": "SpaceX reportedly wants to buy Boost Mobile to compete with AT&T, T-Mobile, and Verizon",
+   "url": "https://techcrunch.com/2026/11/02/spacex-reportedly-wants-to-buy-boost-mobile-to-compete-with-att-t-mobile-and-verizon/",
+   "summary": "SpaceX has been looking for new ways to use its Starlink network, and a tie-up with cellular operator Boost Mobile could give it the terrestrial access it needs.",
+   "published_at": 1793637888.0,
+   "published_bj": "2026-11-03 00:44"
+  },
+  {
+   "id": "058a1939d2da4371",
+   "source": "TechCrunch",
+   "title": "42AI comes out of stealth with $62.5M and a world model that can ‘predict human behavior’",
+   "url": "https://techcrunch.com/2026/11/02/42ai-comes-out-of-stealth-with-62-5m-and-a-world-model-that-can-predict-human-behavior/",
+   "summary": "Here's a question straight out of sci-fi: What if AI could predict what you were going to do before you decided to, even in a completely new situation?",
+   "published_at": 1793637000.0,
+   "published_bj": "2026-11-03 00:30"
+  },
+  {
+   "id": "1fce3937e6441bca",
+   "source": "TechCrunch",
+   "title": "Elon Musk throttles Grok Bot limits due to ‘unsustainably high’ costs",
+   "url": "https://techcrunch.com/2026/11/02/elon-musk-throttles-grok-bot-limits-due-to-unsustainably-high-costs/",
+   "summary": "Musk recently referred to Grok Bot as having \"the fastest growth of a product that I've ever seen in my life.\"",
+   "published_at": 1793636601.0,
+   "published_bj": "2026-11-03 00:23"
+  },
+  {
+   "id": "00dac2f9bf089d9d",
+   "source": "Hacker News",
+   "title": "Show HN: VHS Camera – Run your camera or videos through a simulated VHS signal",
+   "url": "https://fotojockovic.com/vhs",
+   "summary": "Article URL: https://fotojockovic.com/vhs Comments URL: https://news.ycombinator.com/item?id=50338871 Points: 4 # Comments: 0",
+   "published_at": 1793635710.0,
+   "published_bj": "2026-11-03 00:08"
+  },
+  {
+   "id": "f849fe4640936eec",
+   "source": "cnBeta",
+   "title": "苹果J595家用机器人项目遭遇内部分歧 软件研发进展缓慢",
+   "url": "https://www.cnbeta.com.tw/articles/tech/1584760.htm",
+   "summary": "苹果新任CEO约翰・特纳斯希望公司认真推进机器人业务，但从这款计划对外发售的初代产品研发进度来看，他或将面临一场硬仗。该设备配有一块9英寸屏幕，搭载可活动机械臂，外形酷似皮克斯动画里的台灯。 阅读全文",
+   "published_at": 1793635380.0,
+   "published_bj": "2026-11-03 00:03"
+  },
+  {
+   "id": "b5aed571376ec5ff",
+   "source": "Hacker News",
+   "title": "Moving our warehouse off DuckDB",
+   "url": "https://posthog.com/blog/moving-off-duckdb",
+   "summary": "Article URL: https://posthog.com/blog/moving-off-duckdb Comments URL: https://news.ycombinator.com/item?id=50338747 Points: 40 # Comments: 13",
+   "published_at": 1793635346.0,
+   "published_bj": "2026-11-03 00:02"
+  },
+  {
+   "id": "d0af0ee9d75284f5",
+   "source": "Hacker News",
+   "title": "Ask HN: Who is hiring? (November 2026)",
+   "url": "https://news.ycombinator.com/item?id=50338728",
+   "summary": "Please state the location and include REMOTE for remote work, REMOTE (US) or similar if the country is restricted, and ONSITE when remote work is not an option. Please only post if you personally are part of the hiring company—no recruiting firms or job boards. One post per company. If it isn't a ho",
+   "published_at": 1793635297.0,
+   "published_bj": "2026-11-03 00:01"
+  },
+  {
+   "id": "3b774ed543f7a0cd",
+   "source": "Hacker News",
+   "title": "Ask HN: Who wants to be hired? (November 2026)",
+   "url": "https://news.ycombinator.com/item?id=50338726",
+   "summary": "Share your information if you are looking for work. Please use this format: Location: Remote: Willing to relocate: Technologies: Résumé/CV: Email: Please only post if you are personally looking for work. Agencies, recruiters, job boards, and so on, are off topic here. Readers: please only email thes",
+   "published_at": 1793635297.0,
+   "published_bj": "2026-11-03 00:01"
   }
  ]
 }
