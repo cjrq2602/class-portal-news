@@ -1,0 +1,382 @@
+{
+ "type": "yesterday",
+ "date": "2026-11-02",
+ "window": {
+  "start_ts": 1793548800.0,
+  "end_ts": 1793635200.0
+ },
+ "generated_at": 1793638617.8878622,
+ "generator": "action",
+ "news_count": 363,
+ "keywords": [
+  "ai",
+  "元",
+  "销量",
+  "美元",
+  "游戏",
+  "苹果",
+  "上市",
+  "息称",
+  "推出",
+  "汽车"
+ ],
+ "points": [
+  {
+   "text": "【ai】IT之家 11 月 2 日消息，Y Combinator 与 Olam Labs 的人工智能研究人员近期在游戏场景中测试了智能体集群",
+   "keyword": "ai",
+   "news_ids": [
+    "89490e923abfc99e"
+   ],
+   "refs": [
+    {
+     "id": "89490e923abfc99e",
+     "title": "研究者在《我的世界》测试 AI 智能体集群：协作容易官僚化，对战 GPT 胜率更高",
+     "source": "IT之家",
+     "url": "https://www.ithome.com/1/021/095.htm",
+     "published_at": 1793607869.0
+    }
+   ]
+  },
+  {
+   "text": "【销量】IT之家 11 月 2 日消息，韩国起亚汽车今日公告，2026 年 10 月，起亚在全球市场销售 291,219 辆，其中韩国国内 51,007",
+   "keyword": "销量",
+   "news_ids": [
+    "d8efd5305adc8276"
+   ],
+   "refs": [
+    {
+     "id": "d8efd5305adc8276",
+     "title": "起亚汽车 10 月全球总销量达到 29.12 万辆，同比增长 10.3%",
+     "source": "IT之家",
+     "url": "https://www.ithome.com/1/021/279.htm",
+     "published_at": 1793632771.0
+    }
+   ]
+  },
+  {
+   "text": "【ai】受全球人工智能产业持续扩张带动，韩国出口表现迎来历史性突破",
+   "keyword": "ai",
+   "news_ids": [
+    "24536938b7effaf9"
+   ],
+   "refs": [
+    {
+     "id": "24536938b7effaf9",
+     "title": "韩国出口额逼近万亿美元大关 AI存储芯片热潮成最大推手",
+     "source": "cnBeta",
+     "url": "https://www.cnbeta.com.tw/articles/tech/1584732.htm",
+     "published_at": 1793622661.0
+    }
+   ]
+  },
+  {
+   "text": "【ai】IT之家 11 月 2 日消息，2026 年款梅赛德斯-奔驰长轴距 E 级车今日上市，启用全新车型命名体系，售价区间为 42.38-50.98 ",
+   "keyword": "ai",
+   "news_ids": [
+    "ff12f7b98369bb48"
+   ],
+   "refs": [
+    {
+     "id": "ff12f7b98369bb48",
+     "title": "2026 款奔驰长轴距 E 级上市：融合豆包 AI 大模型，42.38 万元起",
+     "source": "IT之家",
+     "url": "https://www.ithome.com/1/021/269.htm",
+     "published_at": 1793625781.0
+    }
+   ]
+  },
+  {
+   "text": "【ai】IT之家 11 月 2 日消息，OpenAI 首席执行官萨姆 · 奥尔特曼（Sam Altman）于上周末对韩国进行了一次未提前对外公布的访问",
+   "keyword": "ai",
+   "news_ids": [
+    "e6f30b90704347a0"
+   ],
+   "refs": [
+    {
+     "id": "e6f30b90704347a0",
+     "title": "OpenAI CEO 奥尔特曼密访韩国，深化与三星、SK 集团 AI 芯片与数据中心合作",
+     "source": "IT之家",
+     "url": "https://www.ithome.com/1/021/058.htm",
+     "published_at": 1793604073.0
+    }
+   ]
+  },
+  {
+   "text": "【ai】Linux 创始人 Linus Torvalds 日前宣布发布 Linux 7.4-rc1，这是 Linux 7.4 系列的首个发布候选版本",
+   "keyword": "ai",
+   "news_ids": [
+    "e21d68c9ab613b25"
+   ],
+   "refs": [
+    {
+     "id": "e21d68c9ab613b25",
+     "title": "Linux 7.4 首个候选版本发布：近两万项提交涌入 AI推动史上罕见大型合并窗口",
+     "source": "cnBeta",
+     "url": "https://www.cnbeta.com.tw/articles/tech/1584686.htm",
+     "published_at": 1793608788.0
+    }
+   ]
+  },
+  {
+   "text": "【and】OpenAI said that ChatGPT and Codex will draw usage from the same allocat",
+   "keyword": "and",
+   "news_ids": [
+    "4c958213294055cf"
+   ],
+   "refs": [
+    {
+     "id": "4c958213294055cf",
+     "title": "OpenAI is finally merging ChatGPT’s chat and Work tabs",
+     "source": "TechCrunch",
+     "url": "https://techcrunch.com/2026/11/02/openai-is-finally-merging-chatgpts-chat-and-work-tabs/",
+     "published_at": 1793627873.0
+    }
+   ]
+  },
+  {
+   "text": "【元】IT之家 11 月 2 日消息，Rogue Duck Interactive 开发、游民星空（Gamersky Games）参与发行的模拟经营游",
+   "keyword": "元",
+   "news_ids": [
+    "908810ffc83e5c31"
+   ],
+   "refs": [
+    {
+     "id": "908810ffc83e5c31",
+     "title": "游民星空发行的经营游戏《二手游戏店模拟器》发售，国区首发特惠 33.75 元",
+     "source": "IT之家",
+     "url": "https://www.ithome.com/1/021/248.htm",
+     "published_at": 1793619930.0
+    }
+   ]
+  },
+  {
+   "text": "【世界】IT之家 11 月 2 日消息，海光信息 (HYGON) 今日在 2026 年世界互联网大会乌镇峰会发布了 14XX 系列 CPU，这是其 10",
+   "keyword": "世界",
+   "news_ids": [
+    "478799ae0fa16d8a"
+   ],
+   "refs": [
+    {
+     "id": "478799ae0fa16d8a",
+     "title": "海光发布 14XX 系列工业控制 CPU，支持 -40℃ ~ +105℃ 宽温",
+     "source": "IT之家",
+     "url": "https://www.ithome.com/1/021/239.htm",
+     "published_at": 1793617284.0
+    }
+   ]
+  },
+  {
+   "text": "【pro】IT之家 11 月 2 日消息，小米集团合伙人 / 总裁、手机部总裁、小米品牌总经理卢伟冰今日宣布， 小米 18 Pro 系列手机将于 11 月",
+   "keyword": "pro",
+   "news_ids": [
+    "84aa62edbb174ddd"
+   ],
+   "refs": [
+    {
+     "id": "84aa62edbb174ddd",
+     "title": "卢伟冰官宣小米 18 Pro 系列手机 11 月登陆海外市场",
+     "source": "IT之家",
+     "url": "https://www.ithome.com/1/021/104.htm",
+     "published_at": 1793608475.0
+    }
+   ]
+  },
+  {
+   "text": "小行星灭绝了恐龙，鳄鱼为何幸存？科学家或许解开了这个困扰6600万年的谜团",
+   "keyword": "",
+   "news_ids": [
+    "f962b58fa02bb078"
+   ],
+   "refs": [
+    {
+     "id": "f962b58fa02bb078",
+     "title": "鳄鱼为何免受毁灭恐龙的小行星的影响？",
+     "source": "Solidot",
+     "url": "https://www.solidot.org/story?sid=85777",
+     "published_at": 1793634082.0
+    }
+   ]
+  },
+  {
+   "text": "男性想要长寿的话可随时尝试阉割",
+   "keyword": "",
+   "news_ids": [
+    "c7a06a0b6c9cc76d"
+   ],
+   "refs": [
+    {
+     "id": "c7a06a0b6c9cc76d",
+     "title": "小鼠研究显示阉割有助于长寿",
+     "source": "Solidot",
+     "url": "https://www.solidot.org/story?sid=85776",
+     "published_at": 1793633513.0
+    }
+   ]
+  },
+  {
+   "text": "Article URL: https://www",
+   "keyword": "",
+   "news_ids": [
+    "1df8a4e41f615b7f"
+   ],
+   "refs": [
+    {
+     "id": "1df8a4e41f615b7f",
+     "title": "Why are Soviet math textbooks so hardcore in comparison to US textbooks? (2017)",
+     "source": "Hacker News",
+     "url": "https://www.quora.com/Why-are-Soviet-mathematics-physics-textbooks-so-insanely-hardcore-in-comparison-to-US-textbooks/answer/Scott-Miller-307?share=1",
+     "published_at": 1793631675.0
+    }
+   ]
+  },
+  {
+   "text": "Article URL: https://chalmovsky",
+   "keyword": "",
+   "news_ids": [
+    "472c758a434baa9c"
+   ],
+   "refs": [
+    {
+     "id": "472c758a434baa9c",
+     "title": "WTF Ubuntu?",
+     "source": "Hacker News",
+     "url": "https://chalmovsky.com/posts/wtf-ubuntu",
+     "published_at": 1793631120.0
+    }
+   ]
+  },
+  {
+   "text": "IT之家 11 月 2 日消息，11 月 2 日，国家广播电视总局联合工业和信息化部、中央广播电视总台召开一体化电视全国推广部署推进会",
+   "keyword": "",
+   "news_ids": [
+    "acf896237bced6d6"
+   ],
+   "refs": [
+    {
+     "id": "acf896237bced6d6",
+     "title": "一体化电视全国推广部署推进会召开，加快落实终端适配",
+     "source": "IT之家",
+     "url": "https://www.ithome.com/1/021/276.htm",
+     "published_at": 1793631002.0
+    }
+   ]
+  }
+ ],
+ "article": {
+  "title": "2026-11-02 新闻总结",
+  "paragraphs": [
+   {
+    "kind": "lead",
+    "text": "过去 24 小时共收录 363 条新闻，来自 7 家媒体。把标题放在一起看，讨论主要集中在 AI、游戏、上市 这几个方向上，其余消息更像是零散补充。"
+   },
+   {
+    "kind": "section",
+    "heading": "AI",
+    "text": "先看「AI」。IT之家 11 月 2 日消息，Y Combinator 与 Olam Labs 的人工智能研究人员近期在游戏场景中测试了智能体集群…，另有 177 条消息指向同一话题。这条消息短期内的实际影响可能有限，但它指向的方向值得放进观察名单。",
+    "news_ids": [
+     "89490e923abfc99e"
+    ],
+    "refs": [
+     {
+      "id": "89490e923abfc99e",
+      "title": "研究者在《我的世界》测试 AI 智能体集群：协作容易官僚化，对战 GPT 胜率更高",
+      "source": "IT之家",
+      "url": "https://www.ithome.com/1/021/095.htm",
+      "published_at": 1793607869.0
+     }
+    ]
+   },
+   {
+    "kind": "section",
+    "heading": "增长",
+    "text": "与此同时「增长」。IT之家 11 月 2 日消息，韩国起亚汽车今日公告，2026 年 10 月，起亚在全球市场销售 291,219 辆，其中韩国国内 51,007 辆，其他 239,308 辆，另有 17 条消息指向同一话题。资本动作往往领先产品一年，值得盯的不是金额，而是钱最后花向了算力、场景还是补贴。",
+    "news_ids": [
+     "d8efd5305adc8276"
+    ],
+    "refs": [
+     {
+      "id": "d8efd5305adc8276",
+      "title": "起亚汽车 10 月全球总销量达到 29.12 万辆，同比增长 10.3%",
+      "source": "IT之家",
+      "url": "https://www.ithome.com/1/021/279.htm",
+      "published_at": 1793632771.0
+     }
+    ]
+   },
+   {
+    "kind": "section",
+    "heading": "出口",
+    "text": "另一个值得注意的方向是「出口」。受全球人工智能产业持续扩张带动，另有 12 条消息指向同一话题。这类进展更像是把已有能力往工程化落地推了一步，真正的分水岭在于成本和可靠性能不能同时压下来。",
+    "news_ids": [
+     "24536938b7effaf9"
+    ],
+    "refs": [
+     {
+      "id": "24536938b7effaf9",
+      "title": "韩国出口额逼近万亿美元大关 AI存储芯片热潮成最大推手",
+      "source": "cnBeta",
+      "url": "https://www.cnbeta.com.tw/articles/tech/1584732.htm",
+      "published_at": 1793622661.0
+     }
+    ]
+   },
+   {
+    "kind": "section",
+    "heading": "大模型",
+    "text": "相比之下「大模型」。IT之家 11 月 2 日消息，2026 年款梅赛德斯-奔驰长轴距 E 级车今日上市，启用全新车型命名体系，另有 9 条消息指向同一话题。从节奏上看，行业已经从「能不能做」转向「做得便不便宜」，这通常意味着竞争会更务实。",
+    "news_ids": [
+     "ff12f7b98369bb48"
+    ],
+    "refs": [
+     {
+      "id": "ff12f7b98369bb48",
+      "title": "2026 款奔驰长轴距 E 级上市：融合豆包 AI 大模型，42.38 万元起",
+      "source": "IT之家",
+      "url": "https://www.ithome.com/1/021/269.htm",
+      "published_at": 1793625781.0
+     }
+    ]
+   },
+   {
+    "kind": "glossary",
+    "items": [
+     {
+      "term": "IPO",
+      "desc": "首次公开募股，公司第一次把股票卖给公众并上市"
+     },
+     {
+      "term": "AI",
+      "desc": "人工智能，让机器完成识别、生成、判断等原本需要人做的任务"
+     },
+     {
+      "term": "VR",
+      "desc": "虚拟现实，戴上头显进入一个全虚拟的画面"
+     },
+     {
+      "term": "GPU",
+      "desc": "图形处理器，因为擅长大规模并行计算，成了 AI 训练的主力硬件"
+     },
+     {
+      "term": "XR",
+      "desc": "扩展现实，VR、AR、MR 的统称"
+     },
+     {
+      "term": "API",
+      "desc": "应用程序接口，让不同软件按约定好的方式互相调用"
+     }
+    ]
+   },
+   {
+    "kind": "outlook",
+    "text": "把这几条放在一起看，最值得跟踪的是 AI 和 游戏 两条线：一条决定技术能走多远，一条决定它多快能落到普通人的日常里。至于其他消息，可以先放进观察名单，等后续有更实的进展再判断。"
+   }
+  ],
+  "word_count": 655
+ },
+ "ai_enhanced": false,
+ "schema": 1,
+ "window_bj": {
+  "start": "2026-11-02 00:00",
+  "end": "2026-11-03 00:00"
+ }
+}
