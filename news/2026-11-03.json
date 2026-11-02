@@ -1,7 +1,7 @@
 {
  "date": "2026-11-03",
- "generated_at": 1793641839.857227,
- "count": 26,
+ "generated_at": 1793645326.312691,
+ "count": 31,
  "items": [
   {
    "id": "34f832b837eac571",
@@ -58,6 +58,15 @@
    "published_bj": "2026-11-03 02:33"
   },
   {
+   "id": "3a0b95e0037b1881",
+   "source": "Hacker News",
+   "title": "Sneaking into the auditorium for the Windows 2000 launch rehearsal",
+   "url": "https://devblogs.microsoft.com/oldnewthing/20261102-00/?p=112818/",
+   "summary": "Article URL: https://devblogs.microsoft.com/oldnewthing/20261102-00/?p=112818/ Comments URL: https://news.ycombinator.com/item?id=50341028 Points: 5 # Comments: 0",
+   "published_at": 1793643168.0,
+   "published_bj": "2026-11-03 02:12"
+  },
+  {
    "id": "4ae43c65fd714922",
    "source": "InfoQ中文",
    "title": "AI+办公：Agent都有“工位”了，云电脑既让它接手业务、也管住权限 ｜ 阿里云智能集团研发副总裁 张献涛分享",
@@ -65,6 +74,15 @@
    "summary": "点击查看原文>",
    "published_at": 1793642922.0,
    "published_bj": "2026-11-03 02:08"
+  },
+  {
+   "id": "f7ad7bee553119a5",
+   "source": "TechCrunch",
+   "title": "In one of the largest deals in tech history, Marvell buys Lumentum for $115B",
+   "url": "https://techcrunch.com/2026/11/02/in-one-of-the-largest-deals-in-tech-history-marvell-buys-lumentum-for-115b/",
+   "summary": "Marvell's planned purchase of Lumentum is one of the biggest acquisitions in tech history. And they both have the same strategic investor: Nvidia.",
+   "published_at": 1793642051.0,
+   "published_bj": "2026-11-03 01:54"
   },
   {
    "id": "223e1f5be6562734",
@@ -76,6 +94,15 @@
    "published_bj": "2026-11-03 01:49"
   },
   {
+   "id": "87f2e96e36870b2c",
+   "source": "Hacker News",
+   "title": "Byesky: Wipe your Bluesky account clean",
+   "url": "https://byesky.pirhoo.com",
+   "summary": "Article URL: https://byesky.pirhoo.com Comments URL: https://news.ycombinator.com/item?id=50340601 Points: 5 # Comments: 1",
+   "published_at": 1793641606.0,
+   "published_bj": "2026-11-03 01:46"
+  },
+  {
    "id": "8703337a18a7caa2",
    "source": "InfoQ中文",
    "title": "InfoQ AI 侦察团现场手记：工具之外，企业 AI 落地还要跨过哪些关？",
@@ -83,6 +110,15 @@
    "summary": "点击查看原文>",
    "published_at": 1793641188.0,
    "published_bj": "2026-11-03 01:39"
+  },
+  {
+   "id": "fa4c47b2c941a5e6",
+   "source": "Hacker News",
+   "title": "Let Me Ch...",
+   "url": "https://blog.alxgsv.com/let-me-check/",
+   "summary": "Article URL: https://blog.alxgsv.com/let-me-check/ Comments URL: https://news.ycombinator.com/item?id=50340369 Points: 27 # Comments: 5",
+   "published_at": 1793640800.0,
+   "published_bj": "2026-11-03 01:33"
   },
   {
    "id": "fd2669f387593661",
@@ -173,6 +209,15 @@
    "summary": "Here's a question straight out of sci-fi: What if AI could predict what you were going to do before you decided to, even in a completely new situation?",
    "published_at": 1793637000.0,
    "published_bj": "2026-11-03 00:30"
+  },
+  {
+   "id": "5c92eaf347e961f5",
+   "source": "Hacker News",
+   "title": "Claude Opus 5.5 Can Draw Permit-Level Architectural Drawings",
+   "url": "https://stephenjgallagher.substack.com/p/ai-can-draw-blueprints-now",
+   "summary": "Article URL: https://stephenjgallagher.substack.com/p/ai-can-draw-blueprints-now Comments URL: https://news.ycombinator.com/item?id=50339224 Points: 33 # Comments: 5",
+   "published_at": 1793636733.0,
+   "published_bj": "2026-11-03 00:25"
   },
   {
    "id": "f433fe6f2a8748b0",
