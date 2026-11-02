@@ -1,7 +1,7 @@
 {
  "date": "2026-11-02",
- "generated_at": 1793618960.0255325,
- "count": 287,
+ "generated_at": 1793622678.5521598,
+ "count": 307,
  "items": [
   {
    "id": "18bea95ac8f3d9ad",
@@ -11,6 +11,159 @@
    "summary": "点击查看原文>",
    "published_at": 1793632668.0,
    "published_bj": "2026-11-02 23:17"
+  },
+  {
+   "id": "f0388c1fe4a1d9df",
+   "source": "IT之家",
+   "title": "我国第二艘国产大型邮轮“爱达 · 花城号”将于 11 月 6 日在上海完成交付",
+   "url": "https://www.ithome.com/1/021/259.htm",
+   "summary": "IT之家 11 月 2 日消息，据新华社报道，第二艘国产大型邮轮“爱达 · 花城号”即将于 2026 年 11 月 6 日在上海完成交付，该船将从广州南沙国际邮轮母港开启首航季。 公开信息显示，“爱达 · 花城号”全长 341 米，总吨位 14.19 万吨，拥有 2130 间客房和套房，满载可容纳 5232 名宾客。邮轮在空间设计、餐饮娱乐与智能科技上进行了全面升级，提供 28 家餐厅酒吧、8 大主题酒吧、4 场原创歌舞大秀。 该船将于 2027 年全面展开香港母港航季，预计营运近 20 个邮轮航次。航线设计灵活多元，增设 3 个海上游航次，为本地旅客提供“邮轮即是目的地”的海上体验。 爱达邮",
+   "published_at": 1793622351.0,
+   "published_bj": "2026-11-02 20:25"
+  },
+  {
+   "id": "7ed2961a4c5f3bc3",
+   "source": "IT之家",
+   "title": "宁德时代与蓝色向量达成合作，为 SKYLA V30 定制开发航空动力电池",
+   "url": "https://www.ithome.com/1/021/256.htm",
+   "summary": "IT之家 11 月 2 日消息，今日，宁德时代宣布与蓝色向量同时签署战略合作协议和产品合作协议。宁德时代为蓝色向量 SKYLA V30 飞行器定制开发航空动力电池。蓝色向量选定宁德时代作为独家电池合作伙伴，双方共同推进电动航空技术的创新与应用。 蓝色向量方面称，对于 eVTOL 而言，动力电池系统直接影响整机重量、航程、飞行性能与运行安全。相较于地面交通工具，电动航空对动力系统的安全性、可靠性和轻量化提出了更高要求，相关技术还需经过系统集成、工程验证与适航审定等环节的持续检验。 宁德时代在电池技术研发、系统安全设计、制造工艺与质量管理等方面拥有深厚积累。蓝色向量专注于 eVTOL 的研发、生产",
+   "published_at": 1793621952.0,
+   "published_bj": "2026-11-02 20:19"
+  },
+  {
+   "id": "9a936fd11fd4f4b2",
+   "source": "IT之家",
+   "title": "Marvell 宣布将以全股票交易收购 Lumentum，拓展 AI 光互连版图",
+   "url": "https://www.ithome.com/1/021/255.htm",
+   "summary": "IT之家 11 月 2 日消息，迈威尔科技（Marvell）与光通信设备制造商 Lumentum 今日宣布达成最终收购协议，迈威尔将通过全股票交易收购 Lumentum。 根据协议，Lumentum 股东每持有 1 股可获得 4.5 股迈威尔普通股。交易完成后，迈威尔现有股东将持有合并后公司约 67% 的股份，Lumentum 股东持股约 33%。交易预计于 2028 年上半年完成，尚需获得双方股东及监管机构批准。 迈威尔预计，此次合并每年可实现超过 10 亿美元 （IT之家注：现汇率约合 66.61 亿元人民币） 的成本协同效应，并将在交易完成后第一年增厚非 GAAP 每股收益。合并后公司的",
+   "published_at": 1793621770.0,
+   "published_bj": "2026-11-02 20:16"
+  },
+  {
+   "id": "0c01af8e4cf95223",
+   "source": "cnBeta",
+   "title": "澳大利亚发现全新马陆物种 尘封90年的神秘生物终获确认",
+   "url": "https://www.cnbeta.com.tw/articles/science/1584730.htm",
+   "summary": "科学家近日确认，一种近90年前在澳大利亚南部首次采集到的神秘马陆终于完成身份鉴定，并被认定为全新物种。研究团队将其命名为“Colobothrix deckeri”。这一发现不仅填补了长期以来的分类学空白，也颠覆了科学界对于该类马陆生态分布范围的既有认知。 阅读全文",
+   "published_at": 1793621759.0,
+   "published_bj": "2026-11-02 20:15"
+  },
+  {
+   "id": "2c2264bc572274a7",
+   "source": "cnBeta",
+   "title": "树莓派大内存产品再次涨价 16GB型号最高上涨80美元",
+   "url": "https://www.cnbeta.com.tw/articles/tech/1584728.htm",
+   "summary": "英国单板计算机制造商树莓派（Raspberry Pi）宣布，由于内存价格持续大幅上涨，公司不得不再次上调部分高内存产品的售价。其中，16GB版 Raspberry Pi 5 的价格将上调80美元，最新售价达到385美元；16GB版 Raspberry Pi Compute Module 5（计算模块5）则上涨40美元。 阅读全文",
+   "published_at": 1793621416.0,
+   "published_bj": "2026-11-02 20:10"
+  },
+  {
+   "id": "edc448b0c1878139",
+   "source": "IT之家",
+   "title": "研究发现：好奇心或驱动人类大脑形成复杂结构",
+   "url": "https://www.ithome.com/1/021/254.htm",
+   "summary": "IT之家 11 月 2 日消息，人类大脑为何演化得如此复杂？答案或许可以归结为好奇心。研究人员训练了数千套学习模式各不相同的人工神经网络，他们发现，好奇心最强的网络不仅拥有更复杂、灵活的认知能力，还会自发形成类似人脑的结构。 这些网络会形成相互连通的模块，并且遵循和人类相近的发育规律：比如先长出大量密集神经连接，再逐步修剪精简。剑桥大学的弗朗切斯科 · 波利（Francesco Poli）表示，好奇心通常被视作复杂大脑带来的结果。“但有没有可能，好奇心反过来塑造了大脑的形态？” 为了模拟婴儿的学习方式，波利和同事采集了 275 名 8 至 15 个月大婴儿的眼动追踪数据。研究人员在屏幕上播放一",
+   "published_at": 1793621344.0,
+   "published_bj": "2026-11-02 20:09"
+  },
+  {
+   "id": "c16c56b911411b3e",
+   "source": "IT之家",
+   "title": "世嘉介绍 VR 街机游戏《死亡之屋：重生》：支持双人游玩、机台预计 2027 年上市",
+   "url": "https://www.ithome.com/1/021/253.htm",
+   "summary": "IT之家 11 月 2 日消息，世嘉娱乐现已公布了 VR 街机游戏《死亡之屋：重生（House of the Dead：Reawakened）》的细节，展示游戏机台外观、VR 头显以及部分实际游玩画面。 据介绍，《死亡之屋：重生》是一款支持双人游玩的 VR 恐怖射击游戏，配备独特的哥特式主题机台。机台整体采用破败庄园的设计风格，两侧设有两块 43 英寸竖向显示屏，模拟庄园窗户，正面则配备一块尺寸达 85 英寸的大型显示屏，充当庄园入口。玩家佩戴 VR 头显进行游戏时，机台上的显示屏会同步呈现游戏画面，让街机厅内的其他玩家及路过的游客也能观看战斗过程。 该游戏采用虚幻引擎 5 开发，并配备商用级",
+   "published_at": 1793621120.0,
+   "published_bj": "2026-11-02 20:05"
+  },
+  {
+   "id": "dfb0c20da021a49c",
+   "source": "IT之家",
+   "title": "英特尔 FCLGA1954 平台落地先声：W980、Z970 主板现身海关舱单记录",
+   "url": "https://www.ithome.com/1/021/252.htm",
+   "summary": "IT之家 11 月 2 日消息，根据纽佰德 (NBD) 收集的数据，1 款 W980 主板、2 款 Z970 主板现身该第三方海关舱单数据库，显示主板制造商正为英特尔酷睿 Ultra 4000S \"Nova Lake S\" 处理器和配套的 FCLGA1954 平台进行准备。 上述 5 条记录拥有相同的货物描述格式，进口商、采购地、出口商信息也一致。 记录到的主板型号包括 W980 WS、Z970 LIVEMIXER WIFI、Z970 PRO-A WIFI ，其中 Z970 LIVEMIXER WIFI 很明显来自华擎、Z970 PRO-A WIFI 也有对应的华擎前代款式。 相关阅读： 《 ",
+   "published_at": 1793620730.0,
+   "published_bj": "2026-11-02 19:58"
+  },
+  {
+   "id": "c1ad7247387c827d",
+   "source": "IT之家",
+   "title": "首届 CMG 世界机器人登泰山大赛收官，宇树斩获 1 金 2 银",
+   "url": "https://www.ithome.com/1/021/250.htm",
+   "summary": "IT之家 11 月 2 日消息，据新浪科技今日报道，首届 CMG 世界机器人登泰山大赛在山东泰安开赛。赛道从红门至中天门，全程 3.9 公里、3100 余级台阶，以连续石阶、陡坡弯道为核心挑战，考验机器人在复杂山地环境中的运动与自主决策能力。 足式机器人竞速赛中，宇树科技旗下北京灵翌科技队携宇树 A2 机器狗出战，以 41 分 41 秒的实际成绩（IT之家注：最终成绩 43 分 41 秒，罚时 2 分钟）夺得 足式机器人竞速赛冠军 。A2 全程采用全自主模式，实时感知、实时决策，在不规则石阶上稳定快速行进。 ▲ 宇树 A2 上海高羿科技队为宇树再添两银： 宇树 A2 夺得足式机器人竞速赛亚军，",
+   "published_at": 1793620451.0,
+   "published_bj": "2026-11-02 19:54"
+  },
+  {
+   "id": "8381f34d1e49cd05",
+   "source": "IT之家",
+   "title": "黑客研发新型恶意木马 VOLTA，用 AI 分析受害者是否值得入侵",
+   "url": "https://www.ithome.com/1/021/249.htm",
+   "summary": "IT之家 11 月 2 日消息，据外媒 Tom's Hardware 报道，网络安全团队 Cisco Talos 发现了一款名为 VOLTA 的新型 Windows 恶意木马。该木马整合了 AI 模型，能够分析受害者的个人数据，评估其中的信息价值，并在完成相关操作后尝试自我删除，以降低被发现和追踪的风险。 据报道，VOLTA 能够收集受害者设备上的网页浏览记录、加密货币钱包、浏览器扩展程序、文本文档、聊天记录等各类敏感信息，并将相应文件上传至 Anthropic Claude 等在线 AI 产品分析生成摘要，以供黑客参考。在完成数据收集和价值评估后，VOLTA 便会尝试自行删除，以减少留下的攻",
+   "published_at": 1793620387.0,
+   "published_bj": "2026-11-02 19:53"
+  },
+  {
+   "id": "a763676ef43af966",
+   "source": "Hacker News",
+   "title": "Supermarket freezers across Europe hit by second suspected cyber-attack",
+   "url": "https://www.theguardian.com/world/2026/nov/02/supermarket-freezers-across-europe-hit-by-second-suspected-cyber-attack",
+   "summary": "Article URL: https://www.theguardian.com/world/2026/nov/02/supermarket-freezers-across-europe-hit-by-second-suspected-cyber-attack Comments URL: https://news.ycombinator.com/item?id=50335615 Points: 6 # Comments: 4",
+   "published_at": 1793620213.0,
+   "published_bj": "2026-11-02 19:50"
+  },
+  {
+   "id": "ad1715d524d9d98e",
+   "source": "Hacker News",
+   "title": "Supermarket freezers in Belgium and Sweden hit by suspected cyber-attack",
+   "url": "https://www.bbc.com/news/articles/cq1kd1nee80eo",
+   "summary": "Article URL: https://www.bbc.com/news/articles/cq1kd1nee80eo Comments URL: https://news.ycombinator.com/item?id=50335602 Points: 28 # Comments: 19",
+   "published_at": 1793620082.0,
+   "published_bj": "2026-11-02 19:48"
+  },
+  {
+   "id": "908810ffc83e5c31",
+   "source": "IT之家",
+   "title": "游民星空发行的经营游戏《二手游戏店模拟器》发售，国区首发特惠 33.75 元",
+   "url": "https://www.ithome.com/1/021/248.htm",
+   "summary": "IT之家 11 月 2 日消息，Rogue Duck Interactive 开发、游民星空（Gamersky Games）参与发行的模拟经营游戏《二手游戏店模拟器》（Replay Value: Second Hand Games）已于今日正式登陆 Steam 平台。IT之家附游戏商品页（ https://store.steampowered.com/app/3683940/ 二手游戏店模拟器/ ）。 本作国区定价为 ¥45，当前首发优惠为 -25%，折后售价 ¥33.75，优惠截至 11 月 16 日。游戏支持简体中文界面、完整音频与字幕，并同步支持繁体中文、英语、日语、韩语、法语、德语、西",
+   "published_at": 1793619930.0,
+   "published_bj": "2026-11-02 19:45"
+  },
+  {
+   "id": "2519e72dc232f736",
+   "source": "IT之家",
+   "title": "宝马计划在 2027 年将 L2 辅助驾驶扩展至城市，德国首发",
+   "url": "https://www.ithome.com/1/021/247.htm",
+   "summary": "IT之家 11 月 2 日消息，BMW（宝马）当地时间今日宣布， 计划从 2027 年开始将其 L2 辅助驾驶从高速公路和乡村扩展至城市道路 ，实现完整覆盖。这项功能将在德国率先推出。 宝马表示，其新型驾驶辅助系统已按照 DCAS Series 2 法规通过第三方技术机构的实际道路测试， 预计将在 2027 年初得到监管部门的最终批准 。 新款 BMW iX3、BMW iX4 以及 BMW X5、3 系和 7 系的所有车型均在硬件上支持该导航引导式 ADAS 系统。在司机注意力集中的前提下，BMW Symbiotic Drive 将辅助其完成转弯、变道、路权判断和环岛行驶等操作。",
+   "published_at": 1793619410.0,
+   "published_bj": "2026-11-02 19:36"
+  },
+  {
+   "id": "7572bc99c2345cfd",
+   "source": "IT之家",
+   "title": "沃顿教授：转行技工难以抵御 AI 冲击，四类核心能力才是破局关键",
+   "url": "https://www.ithome.com/1/021/246.htm",
+   "summary": "IT之家 11 月 2 日消息，人工智能不会消失。我们该如何与它共存？说得更准确一点：在人工智能时代，我们要靠什么谋生？ 常见的答案无非两种：“学会使用人工智能”，或是找一份人工智能无法替代、不会被自动化取代的职业，最好是动手类工作。 据 Business Insider 报道，伊桑 · 莫利克（Ethan Mollick）并不认为这套办法可行。莫利克是沃顿商学院管理学教授，也是当下颇具影响力的研究者，专注解读人工智能如今能做到什么、以及它对需要和 AI 协同工作的普通人意味着什么。他的新书《共存》（Co-Existence）提出，大模型迭代速度远超大多数人的认知，想要应对它飞速的发展，唯一出",
+   "published_at": 1793619207.0,
+   "published_bj": "2026-11-02 19:33"
+  },
+  {
+   "id": "aa21bcd72c17a8ad",
+   "source": "IT之家",
+   "title": "央视揭秘“AI 生成女友”网恋诈骗流水线，15 人被骗 180 余万元",
+   "url": "https://www.ithome.com/1/021/245.htm",
+   "summary": "IT之家 11 月 2 日消息，据央视新闻报道，上海闵行公安机关近期侦破一起“AI 生成女友”网恋诈骗案。 IT之家参考通报获悉，上海工作的刘先生在刷短视频时，认识了一位叫婷婷的美丽女子，一个月后，婷婷说姨妈得了脑瘤，需要治疗，急需借款。 为了打消刘先生的疑虑，婷婷附上了医院的诊断证明和自己的身份证照片。当天，刘先生就转给婷婷 4 万元。然而在接下来的半个月时间里，姨妈的病情不断恶化，为此，刘先生多次转账，金额累计达 18 万多元。后续刘先生要求开实时视频被拒绝，于是刘先生选择报警。 上海闵行公安机关接到报警后调查发现，被“婷婷”骗走钱财的不止刘先生一人，在全国各地都有受害者。经过缜密侦察，警",
+   "published_at": 1793619042.0,
+   "published_bj": "2026-11-02 19:30"
+  },
+  {
+   "id": "8918cc6a4e79009e",
+   "source": "IT之家",
+   "title": "小米雷军到海尔总部参观，送董事长周云杰车模",
+   "url": "https://www.ithome.com/1/021/244.htm",
+   "summary": "IT之家 11 月 2 日消息，小米创办人、董事长兼 CEO 雷军今日分享照片，称其今天下午到海尔总部参观学习，对海尔董事长周云杰的盛情款待表示感谢，并赠送给对方一份小米 SU7 Ultra 车模。 IT之家注意到，雷军和周云杰此前有多次交流。去年 6 月，周云杰在谈到小米做家电时表示， 欢迎更多企业参与竞争，将来考虑可以互相兼容生态 。周云杰称：“所以我认为竞争是一个常态，而且欢迎更多的企业，参与这种竞争，在竞争中共同去发展，而且未来竞争，不是企业和企业之间的对抗，而是生态和生态的对话，各自生态，将来呢，应该是围绕，为用户创造好的体验，就现在家庭的系统，有苹果的，也有华为的、海尔的，包括小米",
+   "published_at": 1793618979.0,
+   "published_bj": "2026-11-02 19:29"
   },
   {
    "id": "26f2eb4a94681696",
@@ -31,6 +184,15 @@
    "published_bj": "2026-11-02 19:16"
   },
   {
+   "id": "4a8013ee5ca3be61",
+   "source": "Solidot",
+   "title": "鸟类遗传多样性显著下降",
+   "url": "https://www.solidot.org/story?sid=85774",
+   "summary": "昆明动物所的研究人员对高黎贡山 62 种鸣禽的历史标本与当代样本进行全基因组比较发现，过去半个世纪内其遗传多样性平均下降 43%。高黎贡山面积仅占我国陆地面积的 0.36%，却孕育了占中国鸟类物种总数 1/3 以上的鸟类，且位于喜马拉雅山地、印缅地区和中国西南山地三大生物多样性热点交汇地带，保护基础较好。研究团队进一步分析发现，扩散能力是造成物种间遗传多样性下降差异的重要因素：扩散能力强的物种遗传多样性降幅相对较小，扩散能力弱的降幅更大。研究同时发现，种群数量越多的物种遗传多样性下降情况越严重。",
+   "published_at": 1793618103.0,
+   "published_bj": "2026-11-02 19:15"
+  },
+  {
    "id": "46d979c8bb32a1fb",
    "source": "InfoQ中文",
    "title": "TornadoVM 7 支持 Java 应用程序运行原生 GPU 工作负载",
@@ -38,6 +200,15 @@
    "summary": "点击查看原文>",
    "published_at": 1793617860.0,
    "published_bj": "2026-11-02 19:11"
+  },
+  {
+   "id": "b7501c8091e0cdcd",
+   "source": "Hacker News",
+   "title": "The future in old computer magazines (1984–2004)",
+   "url": "https://tomorrowasusual.substack.com/p/blast-from-the-past-the-future-in",
+   "summary": "Article URL: https://tomorrowasusual.substack.com/p/blast-from-the-past-the-future-in Comments URL: https://news.ycombinator.com/item?id=50335341 Points: 25 # Comments: 7",
+   "published_at": 1793617748.0,
+   "published_bj": "2026-11-02 19:09"
   },
   {
    "id": "7dc1194fedb9a592",
@@ -353,6 +524,15 @@
    "summary": "索尼尚未决定下一代PlayStation主机的上市时间和售价。索尼社长兼CEO十时裕树表示，公司仍需观察相关形势，并将继续评估供应和市场环境。 阅读全文",
    "published_at": 1793610909.0,
    "published_bj": "2026-11-02 17:15"
+  },
+  {
+   "id": "76d9d37f2118a455",
+   "source": "IT之家",
+   "title": "《漫威斗魂》首个 Year 1 DLC 角色「凤凰雷光眼」Steam 上线，54 元",
+   "url": "https://www.ithome.com/1/021/135.htm",
+   "summary": "IT之家 11 月 2 日消息，由 PlayStation Studios、Arc System Works（亚克系统）与 Marvel Games 联合打造的 4v4 团队格斗游戏《漫威斗魂》（MARVEL Tōkon: Fighting Souls）今日迎来首个 Year 1 DLC 可玩角色「凤凰雷光眼」（Phoenix Cyclops）。该 DLC 已在 Steam 商店页上架，国区售价 54 元，需拥有游戏本体《漫威斗魂》方可运行。IT之家附游戏商品页： https://store.steampowered.com/ app/5185300/MARVEL_Tōkon_Fighting",
+   "published_at": 1793610752.0,
+   "published_bj": "2026-11-02 17:12"
   },
   {
    "id": "8dc037b5d2cc9a94",

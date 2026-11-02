@@ -1,8 +1,26 @@
 {
  "date": "2026-11-03",
- "generated_at": 1793618960.0234902,
- "count": 6,
+ "generated_at": 1793622678.55008,
+ "count": 8,
  "items": [
+  {
+   "id": "71b40480d5bb8097",
+   "source": "InfoQ中文",
+   "title": "Cilium 1.20 扩展了 Gateway API 并为 Kubernetes 开放了 eBPF 数据路径",
+   "url": "https://www.infoq.cn/article/E3wARaqEN7UZx8wM9TNg?utm_source=rss&utm_medium=article",
+   "summary": "点击查看原文>",
+   "published_at": 1793649600.0,
+   "published_bj": "2026-11-03 04:00"
+  },
+  {
+   "id": "1737476dc273b48f",
+   "source": "InfoQ中文",
+   "title": "AI+艺术：想让AI演得像“老戏骨”，多写提示词不如先演一遍 ｜ 奇点川越创始人 程佳伟导演分享",
+   "url": "https://www.infoq.cn/article/pXJoz3XPv5D224a9Fro1?utm_source=rss&utm_medium=article",
+   "summary": "点击查看原文>",
+   "published_at": 1793649600.0,
+   "published_bj": "2026-11-03 04:00"
+  },
   {
    "id": "c3854c7e2c6b6c51",
    "source": "InfoQ中文",
