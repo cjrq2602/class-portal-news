@@ -1,8 +1,125 @@
 {
  "date": "2026-11-03",
- "generated_at": 1793663686.0645647,
- "count": 86,
+ "generated_at": 1793666784.4603503,
+ "count": 100,
  "items": [
+  {
+   "id": "fc8d51750ab265d2",
+   "source": "IT之家",
+   "title": "LG 新能源 2026 财年前三季度净亏损 1.57 万亿韩元，同比由盈转亏",
+   "url": "https://www.ithome.com/1/021/311.htm",
+   "summary": "IT之家 11 月 3 日消息，LG 新能源今日发布 2026 财年（2026 年 1 月～2026 年 12 月）前三季度报（2026 年 1 月～2026 年 9 月）业绩快报及第三财季（2026 年 7 月～2026 年 9 月）业绩快报报告： 2026 财年前三季度报 营业总收入 ：23.76 万亿韩元 （IT之家注：现汇率约合 1,186.57 亿元人民币） ，同比增长 26.1% 营业利润 ：6,616 亿韩元 （现汇率约合 33.04 亿元人民币） ，同比下降 54.9% 净利润 ：-1.57 万亿韩元 （现汇率约合 -78.41 亿元人民币） ，同比由盈转亏 2026 财年第三",
+   "published_at": 1793666723.0,
+   "published_bj": "2026-11-03 08:45"
+  },
+  {
+   "id": "fbe8048fa68ae989",
+   "source": "IT之家",
+   "title": "苹果 iPadOS 27.2 简化应用分屏流程：放好第一个，直接接着选第二个",
+   "url": "https://www.ithome.com/1/021/312.htm",
+   "summary": "IT之家 11 月 3 日消息，科技媒体 9to5Mac 昨日（11 月 2 日）发布博文，报道称在上周发布的 iPadOS 27.2 更新中，苹果公司简化了 iPad 的多任务操作，重点简化两款应用并排显示的设置流程。 IT之家援引博文介绍，在 iPadOS 26 等此前版本中，用户在执行分屏操作的时候，往往需要先打开第一款应用并调整大小， 再从屏幕底部上滑查找其他应用，选中第二款应用后，不少情况下还得手动调整其窗口。 而在 iPadOS 27.2 更新中，用户无需再按旧流程反复切换、调整窗口，可以通过窗口控件或菜单栏，将应用平铺至屏幕左侧或右侧后，即可继续选择第二款应用。 苹果公司在 iP",
+   "published_at": 1793666280.0,
+   "published_bj": "2026-11-03 08:38"
+  },
+  {
+   "id": "6da9172d57d39f58",
+   "source": "TechCrunch",
+   "title": "Y Combinator’s Garry Tan uses AI agents so much, he spends up to $200K a year on tokens",
+   "url": "https://techcrunch.com/2026/11/02/y-combinators-garry-tan-uses-ai-agents-so-much-he-spends-up-to-200k-a-year-on-tokens/",
+   "summary": "Y Combinator Garry Tan has, in the past, jokingly admitted that he's suffered from \"cyber psychosis” and barely sleeps sometimes because he’s so excited to be working with his AI agents. On a new episode of Walter Isaacson’s podcast, The Builders, set to publish on Tuesday, Tan put a price tag on hi",
+   "published_at": 1793666152.0,
+   "published_bj": "2026-11-03 08:35"
+  },
+  {
+   "id": "70fc755fb7c4db1c",
+   "source": "IT之家",
+   "title": "曝迪士尼计划裁员数千人，部分管理层被要求削减 20% 年度成本",
+   "url": "https://www.ithome.com/1/021/310.htm",
+   "summary": "IT之家 11 月 3 日消息，据彭博社今天（3 日）上午援引知情人士消息称，迪士尼计划裁员数千人，部分管理人员被要求将年度成本削减 20%。 知情人士称，迪士尼将通过 裁员、压缩其他开支 等方式节省成本。 迪士尼旗下业务涵盖主题乐园、电视网、电影制片厂等多个领域，部分部门受到的冲击将更为明显。知情人士透露，迪士尼 CEO 乔什 · 达马罗打算把省下的部分资金用于 电影和电视节目制作、技术研发，以及主题乐园和邮轮业务 。 迪士尼此前承诺，本财年调整后每股收益将实现两位数增长。 过去几年，迪士尼通过多轮裁员和其他措施削减了数十亿美元成本，累计裁撤数千个岗位。ABC、皮克斯、ESPN、电影制片部门",
+   "published_at": 1793665915.0,
+   "published_bj": "2026-11-03 08:31"
+  },
+  {
+   "id": "b42691fbf6f53bac",
+   "source": "IT之家",
+   "title": "苹果下架 19 款 App：宠物写真等应用被曝暗藏另一张“面孔”",
+   "url": "https://www.ithome.com/1/021/309.htm",
+   "summary": "IT之家 11 月 3 日消息，据《连线》11 月 2 日报道，一个涉及 400 多个关联域名和应用的网络，以宠物写真、语言学习、AI 健身教练等日常服务为掩护，暗中提供性暴力深度伪造功能。 苹果收到线索后已立即下架了 19 款 App。 研究人员发现，这些应用会根据用户来源、语言等信息，由服务器决定展示普通功能还是隐藏界面。苹果称，相关应用通过审核后，开发者更换了应用调用的网页内容，实施“审核后换壳”。 IT之家援引博文介绍，这一网络通过 Facebook 和 Instagram 广告导流，再借助苹果、谷歌应用商店分发。研究显示，今年 9 月仍有 27 款相关应用在 Google Play ",
+   "published_at": 1793665556.0,
+   "published_bj": "2026-11-03 08:25"
+  },
+  {
+   "id": "5334c1d98198944b",
+   "source": "IT之家",
+   "title": "苹果第四财季库存金额超 140 亿美元同比激增 154%，存储芯片成本压力或持续至明年",
+   "url": "https://www.ithome.com/1/021/307.htm",
+   "summary": "IT之家 11 月 3 日消息，当今的苹果，正持续囤积存储芯片等零部件库存。今天早些时候公布的财报显示，苹果第四财季库存金额达到 145.4 亿美元 （IT之家注：现汇率约合 968.49 亿元人民币） ，较第三财季的 110.9 亿美元 （现汇率约合 738.69 亿元人民币） 增长 31.1% ；与去年同期的 57.2 亿美元 （现汇率约合 381 亿元人民币） 相比， 增幅高达 154.3% 。 受存储芯片成本上涨影响，苹果预计 12 月季度 毛利率将降至 45% 至 46% ，低于 9 月季度的 47.9%。 苹果 CEO 约翰 · 特努斯在财报电话会议上告诉分析师：“存储芯片的价格涨",
+   "published_at": 1793665366.0,
+   "published_bj": "2026-11-03 08:22"
+  },
+  {
+   "id": "f356e8dd218169ad",
+   "source": "IT之家",
+   "title": "苹果称 macOS 27 改善超宽屏显示器支持，部分用户反馈实际变化不明显",
+   "url": "https://www.ithome.com/1/021/306.htm",
+   "summary": "IT之家 11 月 3 日消息，科技媒体 AppleInsider 昨日（11 月 2 日）发布博文，报道称在 macOS 27 Golden Gate 系统中，苹果公司官方宣传改善了对超宽屏显示器支持， 但根据用户反馈，升级带来的实际变化并不明显。 IT之家查询苹果中国官网，在“OS — OS 主要功能”页面靠下的“更多精彩看这里”部分，有以下内容： 支持超宽屏显示器。 现在，你可以在超宽屏显示器上体验更高的分辨率，比如 5K (120Hz)。显示器的排列也会按你设置的那样保持不变，每次一连上就能顺畅使用。 适用于 Mac 外媒编辑 William Gallagher 使用一台三星 49 英",
+   "published_at": 1793664914.0,
+   "published_bj": "2026-11-03 08:15"
+  },
+  {
+   "id": "ca185080d1d3653c",
+   "source": "TechCrunch",
+   "title": "Hinge tests a cheaper plan as users become more fed up paying for dating apps",
+   "url": "https://techcrunch.com/2026/11/02/hinge-tests-a-cheaper-plan-as-users-become-more-fed-up-paying-for-dating-apps/",
+   "summary": "At a time when people are increasingly tired of dating apps, Hinge is testing a cheaper subscription plan.",
+   "published_at": 1793664891.0,
+   "published_bj": "2026-11-03 08:14"
+  },
+  {
+   "id": "648d35d2fa50a4d7",
+   "source": "IT之家",
+   "title": "苹果已收回绝大部分特朗普“对等关税”退款，Q4 毛利率提振 1 个百分点",
+   "url": "https://www.ithome.com/1/021/305.htm",
+   "summary": "IT之家 11 月 3 日消息，苹果在 2026 财年第四财季（截至 9 月 26 日）业绩中确认，此前向美国政府缴纳的“对等关税”已基本退回，这笔一次性收入对当季利润形成了小幅但可量化的提振。 苹果公布的财报显示，当季毛利率达到 47.9%，其中约 1 个百分点来自关税退款；摊薄后每股收益为 2.10 美元，其中约 0.05 美元来自这笔退款。 苹果未披露退款的具体金额，但以当季约 548 亿美元 （现汇率约合 3,650.15 亿元人民币） 的毛利润规模粗略推算，1 个百分点的毛利率影响大致对应数亿美元量级，与每股收益中 0.05 美元的贡献方向一致。 IT之家注：对等关税（recipro",
+   "published_at": 1793664695.0,
+   "published_bj": "2026-11-03 08:11"
+  },
+  {
+   "id": "6a088c21f4ae0527",
+   "source": "IT之家",
+   "title": "日本拟修订汽车安全认证标准，为 L4、L5 级自动驾驶车辆量产铺路",
+   "url": "https://www.ithome.com/1/021/304.htm",
+   "summary": "IT之家 11 月 3 日消息，据日经亚洲今天（3 日）上午报道，日本政府考虑修订汽车安全认证标准，允许 没有方向盘、制动踏板和加速踏板 的自动驾驶汽车按照统一标准接受认证，以推动无人驾驶出租车等新型汽车实现量产。 新规将涵盖两类车型：一类是能在特定条件下自主行驶的 L4 级自动驾驶汽车 ，另一类是无需人类驾驶员介入的 L5 级完全自动驾驶汽车 。此前，日本政府一直采取单独认证的方式，对这类车型逐一进行安全审核。 日本国土交通省下属工作组将于 4 日开会讨论修订方案，新标准计划从 12 月生产的车辆开始适用。 自动驾驶汽车不需要方向盘、踏板、后视镜和驾驶员监测系统等传统驾驶设备。取消这些配置既",
+   "published_at": 1793664375.0,
+   "published_bj": "2026-11-03 08:06"
+  },
+  {
+   "id": "e517107b7abfc87c",
+   "source": "IT之家",
+   "title": "华擎 Z970 LiveMixer 与 Pro-A 主板现身海关记录，Nova Lake 中端平台进入出货准备阶段",
+   "url": "https://www.ithome.com/1/021/303.htm",
+   "summary": "IT之家 11 月 3 日消息，海关数据平台 NBD 的记录显示，华擎已有两款基于英特尔 Z970 芯片组的主板完成出货登记，型号分别为 Z970 LiveMixer WiFi 和 Z970 Pro-A WiFi。相关 PCB 的发货时间可追溯至 2026 年 9 月底，产地为越南。 Z970 绑定的是英特尔下一代桌面平台 Nova Lake-S，插槽更换为 LGA-1954，配套 900 系列芯片组包括 Z990、Z970、B960、Q970 和 W980，其中 Z990 平台此前已有五款新主板通过海关注册，发货时间可追溯至 7 月。加上这两款 Z970，华擎在 900 系列上被记录到的主板",
+   "published_at": 1793664035.0,
+   "published_bj": "2026-11-03 08:00"
+  },
+  {
+   "id": "92ec0e5f9d7b23b2",
+   "source": "IT之家",
+   "title": "IT早报 1103：奥尔特曼称个人电脑浪费内存遭全网声讨；苹果 2026 财年净利润 1321 亿美元；美团称外卖 15 元以下订单数量减半；世界机器人登泰山大赛收官...",
+   "url": "https://www.ithome.com/1/021/302.htm",
+   "summary": "“IT早报”时间，大家好，现在是 2026 年 11 月 3 日星期一，今天的重要科技资讯有： 1. OpenAI CEO 奥尔特曼称个人电脑浪费内存遭全网声讨，马斯克也来补刀 OpenAI CEO 奥尔特曼称把 DRAM 装在个人电脑中是资源浪费，引发全网不满，马斯克公开发文声讨，称民众理应拥有自己的内存，还直接骂奥尔特曼是“智障”。&gt;&gt; 查看详情 2. 苹果 2026 财年归母净利润 1321.75 亿美元同比增长 18%，iPhone、Mac 和服务业务收入及大中华区净销售额均实现增长 苹果 2026 财年年报营业总收入 4788.34 亿美元、同比增长 15.06%、环比增",
+   "published_at": 1793663996.0,
+   "published_bj": "2026-11-03 07:59"
+  },
+  {
+   "id": "1f9de0d7d743a664",
+   "source": "IT之家",
+   "title": "宝马高管：我们的纯电卖的好，反而有助于继续生产 V8 发动机",
+   "url": "https://www.ithome.com/1/021/301.htm",
+   "summary": "IT之家 11 月 3 日消息，据外媒 motor1 今天（3 日）凌晨报道，对于一直以燃油车“驾驶乐趣”著称的宝马而言，纯电车型的热销，却可能帮助宝马延续 V8 发动机的生产。 以澳大利亚市场为例，2025 年，纯电车型占宝马澳大利亚市场总销量的近 20%。根据澳大利亚最新的排放标准，车企需要控制所售车辆的平均二氧化碳排放量。纯电车型卖得越多，宝马就 越有余地销售搭载高性能 V8 发动机的车型 。 凭借出色的纯电车型销量， 宝马不必为了满足排放要求而停产受欢迎的车型 。宝马集团澳大利亚负责人维克拉姆 · 帕瓦在接受采访时指出：“我们完全有能力在不同动力系统之间取得平衡，也打算继续保持这种平衡",
+   "published_at": 1793663685.0,
+   "published_bj": "2026-11-03 07:54"
+  },
   {
    "id": "7b8e68d2bfc5a5ed",
    "source": "IT之家",
@@ -56,6 +173,15 @@
    "summary": "IT之家 11 月 3 日消息，大量美国用户反馈称，索尼近期开始通过与二手交易平台 Back Market 合作，为用户提供 PS5 主机以旧换新服务，符合条件的设备完成回收后最高可获得 400 美元 （IT之家注：现汇率约合 2,664 元人民币） 。当然，具体回收价格取决于主机型号、成色、配件数量等因素。 根据 Back Market 页面，PS5 主机最高回收报价为 400 美元。索尼此前已与 Back Market 建立以旧换新合作关系，相关回收服务由 Back Market 平台上的专业翻新商负责评估和处理。 此次回收活动的最高报价针对的是一台配备光驱的标准版 PS5，且需要附带至少",
    "published_at": 1793662463.0,
    "published_bj": "2026-11-03 07:34"
+  },
+  {
+   "id": "1c4bf87183f48a35",
+   "source": "Hacker News",
+   "title": "WorkOS reports security breach",
+   "url": "https://news.ycombinator.com/item?id=50345712",
+   "summary": "It's not on their website or Trust center yet, but we received the following breach notification from WorkOS: We are writing to notify you of a data security incident that we detected on October 30, 2026 and are continuing to investigate. We value your trust and want to keep you informed while our i",
+   "published_at": 1793662259.0,
+   "published_bj": "2026-11-03 07:30"
   },
   {
    "id": "03fb88952062c182",
