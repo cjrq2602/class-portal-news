@@ -1,6 +1,6 @@
 {
  "date": "2026-11-03",
- "generated_at": 1793724603.745825,
+ "generated_at": 1793726967.8552246,
  "count": 400,
  "items": [
   {
@@ -171,6 +171,15 @@
    "title": "Designing responsible AI for learning",
    "url": "https://blog.google/products-and-platforms/products/education/ai-learning-era-updates-2026/",
    "summary": "Google Will Turn Off Search for Schools That Reject A.I. https://www.nytimes.com/2026/11/03/us/google-search-schools-... , https://archive.ph/RuwsB Comments URL: https://news.ycombinator.com/item?id=50353192 Points: 61 # Comments: 33",
+   "published_at": 1793719547.0,
+   "published_bj": "2026-11-03 23:25"
+  },
+  {
+   "id": "5990adf73892678a",
+   "source": "Hacker News",
+   "title": "Schools that block Google’s A.I. will lose student access to its search engine",
+   "url": "https://www.nytimes.com/2026/11/03/us/google-search-schools-restrict-ai.html",
+   "summary": "https://archive.ph/RuwsB https://blog.google/products-and-platforms/products/educatio... Comments URL: https://news.ycombinator.com/item?id=50353192 Points: 156 # Comments: 126",
    "published_at": 1793719547.0,
    "published_bj": "2026-11-03 23:25"
   },
@@ -3593,15 +3602,6 @@
    "summary": "IT之家 11 月 3 日消息，Anthropic 于当地时间 11 月 2 日披露的数据显示，截至 2026 年 9 月 30 日，公司净收入留存率（NRR）约为 900%，意味着同一批客户在 2025 年第三季度至 2026 年第三季度的一年内，支出规模增长了约 9 倍。这一指标反映的是现有企业客户持续扩大 Claude 使用规模，而非单纯依靠新客户拉动收入。 同期，年收入贡献超过 10 万美元 （现汇率约合 66.6 万元人民币） 的客户中，超过 50% 同时使用 Claude 平台及至少一款 Anthropic 自有应用（如 Claude Code 或 Cowork），2025 年底这",
    "published_at": 1793659381.0,
    "published_bj": "2026-11-03 06:43"
-  },
-  {
-   "id": "dd1939056b38cf78",
-   "source": "IT之家",
-   "title": "苹果 CEO 特努斯：iPhone Duo 产能爬坡“进展顺利”，屏幕问题仅占“极小比例”",
-   "url": "https://www.ithome.com/1/021/284.htm",
-   "summary": "IT之家 11 月 3 日消息，苹果今日发布 2026 财年（2025 年 9 月 28 日～2026 年 9 月 26 日）年报及第四财季（2026 年 6 月 28 日～2026 年 9 月 26 日）后，该公司首席执行官约翰 · 特努斯（John Ternus）表示， 其首款折叠 iPhone Duo 目前仍处于产能受限状态，公司无法满足市场需求，也暂时无法预测供需何时能够恢复平衡。 特努斯称， iPhone Duo 产品产能爬坡“进展顺利” ，苹果正努力向更多消费者交付产品，但短期内缺货问题看不到明确结束时间。目前下单 iPhone Duo 的用户，预计要等到明年 1 月才能收到货；部",
-   "published_at": 1793659160.0,
-   "published_bj": "2026-11-03 06:39"
   }
  ]
 }

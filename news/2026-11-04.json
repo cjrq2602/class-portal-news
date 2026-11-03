@@ -1,7 +1,7 @@
 {
  "date": "2026-11-04",
- "generated_at": 1793724603.7426212,
- "count": 11,
+ "generated_at": 1793726967.852226,
+ "count": 18,
  "items": [
   {
    "id": "a52058f243443cf0",
@@ -13,6 +13,15 @@
    "published_bj": "2026-11-04 05:26"
   },
   {
+   "id": "b32803fb16e23533",
+   "source": "TechCrunch",
+   "title": "Anthropic is still grappling with the economics of compute",
+   "url": "https://techcrunch.com/2026/11/03/anthropic-is-still-grappling-with-the-economics-of-compute/",
+   "summary": "At a moment when Anthropic's compute margins should be getting better, they’re getting worse.",
+   "published_at": 1793725621.0,
+   "published_bj": "2026-11-04 01:07"
+  },
+  {
    "id": "b9327105886e5e04",
    "source": "InfoQ中文",
    "title": "AI 改变的是数据接口，而不是查询引擎",
@@ -20,6 +29,33 @@
    "summary": "点击查看原文>",
    "published_at": 1793725620.0,
    "published_bj": "2026-11-04 01:07"
+  },
+  {
+   "id": "b0832b948531a911",
+   "source": "Hacker News",
+   "title": "Ashby (YC W19) Is Hiring EMs",
+   "url": "https://www.ashbyhq.com/careers?ashby_jid=695b1ce6-c375-4fad-94ef-61b50a3fbd28&utm_source=hn",
+   "summary": "Article URL: https://www.ashbyhq.com/careers?ashby_jid=695b1ce6-c375-4fad-94ef-61b50a3fbd28&utm_source=hn Comments URL: https://news.ycombinator.com/item?id=50354582 Points: 0 # Comments: 0",
+   "published_at": 1793725253.0,
+   "published_bj": "2026-11-04 01:00"
+  },
+  {
+   "id": "b53823e717f5d168",
+   "source": "cnBeta",
+   "title": "Fedora 45正式发布：搭载Linux 7.2内核与GNOME 51 引入多项安全和存储创新",
+   "url": "https://www.cnbeta.com.tw/articles/tech/1584904.htm",
+   "summary": "经过两次延期之后，Fedora 45终于在2026年11月3日正式发布。这是该Linux发行版新一轮六个月周期更新，带来了内核控制台替换、存储管理、安全策略以及硬件兼容性方面的一系列变化，同时也更新了桌面环境、编译器和开发工具链。 阅读全文",
+   "published_at": 1793725081.0,
+   "published_bj": "2026-11-04 00:58"
+  },
+  {
+   "id": "8851acb47a5aa06e",
+   "source": "cnBeta",
+   "title": "TrendForce：iPhone Duo有望在2027年拿下近三成折叠屏市场份额",
+   "url": "https://www.cnbeta.com.tw/articles/tech/1584902.htm",
+   "summary": "市场研究机构TrendForce最新发布的报告显示，苹果首款折叠屏手机iPhone Duo上市后需求表现强劲，预计将于2027年占据全球折叠屏智能手机市场29.8%的份额，成为该领域最具影响力的新玩家之一。 阅读全文",
+   "published_at": 1793724781.0,
+   "published_bj": "2026-11-04 00:53"
   },
   {
    "id": "95790f0713292c60",
@@ -31,6 +67,24 @@
    "published_bj": "2026-11-04 00:49"
   },
   {
+   "id": "03172d0acb1c9380",
+   "source": "Hacker News",
+   "title": "Gitbook Breached",
+   "url": "https://news.ycombinator.com/item?id=50354336",
+   "summary": "We opened a ticket with support about Gitbook availability issues and got this in reply. We have yet to see any official customer communication or breach notification. Apologies for the formatting, did the best I could as it's a mobile paste. Update: GitBook security incident update Hey , The GitBoo",
+   "published_at": 1793724349.0,
+   "published_bj": "2026-11-04 00:45"
+  },
+  {
+   "id": "9d814d9a59c05670",
+   "source": "Hacker News",
+   "title": "USDB: Scaling Storage for Next-Generation Recommender Systems at ByteDance",
+   "url": "https://arxiv.org/abs/2611.02618",
+   "summary": "Article URL: https://arxiv.org/abs/2611.02618 Comments URL: https://news.ycombinator.com/item?id=50354250 Points: 5 # Comments: 0",
+   "published_at": 1793724002.0,
+   "published_bj": "2026-11-04 00:40"
+  },
+  {
    "id": "4c027408be31c0c8",
    "source": "TechCrunch",
    "title": "Google will let schools disable its AI tools, but not without sacrificing Search",
@@ -38,6 +92,15 @@
    "summary": "Schools choosing to restrict AI altogether will no longer be able to access Google Search, as AI features are now integrated into the search engine.",
    "published_at": 1793723434.0,
    "published_bj": "2026-11-04 00:30"
+  },
+  {
+   "id": "4004470f3c01fb20",
+   "source": "Solidot",
+   "title": "Fedora Linux 45 释出",
+   "url": "https://www.solidot.org/story?sid=85786",
+   "summary": "Fedora Linux 项目释出了 v45。Fedora Linux 项目同时释出了 Fedora Workstation、Fedora KDE Plasma Desktop、Fedora Server、Fedora Cloud、Fedora CoreOS 和 Fedora IoT，以及 Atomic Desktops 等众多衍生版本。Fedora Linux 45 的主要变化包括：支持通过 Anaconda 或 Kickstart 在 Stratis 存储上进行安装，移除 NetworkManager 不再维护的 VPN 插件，GNOME 和 KDE ​​Plasma 桌面环境的最新版本，",
+   "published_at": 1793722953.0,
+   "published_bj": "2026-11-04 00:22"
   },
   {
    "id": "5990adf73892678a",
