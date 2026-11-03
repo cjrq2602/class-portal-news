@@ -1,8 +1,134 @@
 {
  "date": "2026-11-04",
- "generated_at": 1793741020.4790163,
- "count": 59,
+ "generated_at": 1793744525.5952413,
+ "count": 78,
  "items": [
+  {
+   "id": "5d651a475eeda1f5",
+   "source": "TechCrunch",
+   "title": "Data centers are turning to old jet engines as the wait for power grows",
+   "url": "https://techcrunch.com/2026/11/03/data-centers-are-turning-to-old-jet-engines-as-the-wait-for-power-grows/",
+   "summary": "The years-long wait for access to the grid and new turbines is causing data center builders to turn to an unusual, less efficient and less environmentally friendly solution: once-discarded jet engines.",
+   "published_at": 1793744393.0,
+   "published_bj": "2026-11-04 06:19"
+  },
+  {
+   "id": "6460b8d9afbff5ba",
+   "source": "IT之家",
+   "title": "8GB 内存也能流畅用：微软优化 Win11，多任务提速 40%、Office 等内存压力最高减少 900MB",
+   "url": "https://www.ithome.com/1/021/876.htm",
+   "summary": "IT之家 11 月 4 日消息，微软昨日（11 月 3 日）发布博文，宣布面向 8GB 内存配置的 Windows 11 电脑， 推送一系列系统级性能与内存优化，从而在日常办公、浏览网页和轻度多任务场景中，进一步提升入门设备的流畅体验。 微软官方称，在实验室测试中，8GB 电脑的系统响应速度最高提升 20%，多任务工作流完成速度最高提升 40%。 此次改进主要围绕三个方面：更高效地利用既有内存、保障高频交互的即时响应，以及降低 Windows 和关键应用的内存占用。 在内存管理方面，微软表示 Windows 11 表示会更高效地利用既有内存。微软解释称，内存占用高并不一定意味着电脑性能不足，W",
+   "published_at": 1793743928.0,
+   "published_bj": "2026-11-04 06:12"
+  },
+  {
+   "id": "2e1341cc8e134fa6",
+   "source": "cnBeta",
+   "title": "SK海力士450亿美元纽约建厂计划遭遇阻碍 扩产融资陷入两难",
+   "url": "https://www.cnbeta.com.tw/articles/tech/1584930.htm",
+   "summary": "韩国存储芯片巨头SK海力士计划在美国纽约州投资约450亿美元建设两座NAND闪存工厂，但这项庞大的投资计划如今遭遇新的障碍。路透社11月3日援引知情人士消息称， 美国商务部尚未批准SK海力士向中国大连工厂出口更多美国制造半导体设备的许可证，而SK海力士希望通过扩大中国工厂的生产规模获得额外收入，为美国新工厂建设提供资金支持。 阅读全文",
+   "published_at": 1793743850.0,
+   "published_bj": "2026-11-04 06:10"
+  },
+  {
+   "id": "8219b316ecdeae2c",
+   "source": "cnBeta",
+   "title": "苹果向第三方应用全面开放Siri AI 开发者可打造跨应用智能代理",
+   "url": "https://www.cnbeta.com.tw/articles/tech/1584928.htm",
+   "summary": "苹果宣布进一步扩展Siri AI能力边界。随着iOS 27.3开发者预览版发布，公司正式向第三方开发者开放Siri AI集成接口，允许各类应用接入新一代智能助手能力，使其能够理解自然语言指令、结合用户个人上下文，并利用屏幕内容感知功能执行更加复杂的任务。 阅读全文",
+   "published_at": 1793743812.0,
+   "published_bj": "2026-11-04 06:10"
+  },
+  {
+   "id": "6fd860971a8f12e3",
+   "source": "cnBeta",
+   "title": "iPhone 18标准版传闻汇总：电池容量有望进一步增加 或再次提高售价",
+   "url": "https://www.cnbeta.com.tw/articles/tech/1584926.htm",
+   "summary": "苹果标准版iPhone 18尚未正式发布，但有关这款手机的配置和价格信息已经开始浮出水面。根据知名爆料人士数码闲聊站在微博发布的消息，苹果计划为标准版iPhone 18配备更大容量的电池，同时采用新一代2纳米制程A20芯片。不过，这些升级可能伴随着售价上涨。 阅读全文",
+   "published_at": 1793743710.0,
+   "published_bj": "2026-11-04 06:08"
+  },
+  {
+   "id": "1e885997e0f94dd2",
+   "source": "cnBeta",
+   "title": "永久实行夏令时每年将新增至少20亿次黑暗通勤 可能让数百万美国儿童摸黑上学",
+   "url": "https://www.cnbeta.com.tw/articles/tech/1584924.htm",
+   "summary": "美国华盛顿大学研究人员近日发布的一项研究指出，如果美国永久实行夏令时，冬季清晨的日出时间将整体推迟一个小时，可能导致数百万儿童在天色尚未亮起时就必须出门上学。研究估算，与目前每年在夏令时和标准时间之间切换两次的制度相比，永久夏令时可能使美国儿童累计增加至少20亿次黑暗中的上学通勤，对道路安全、睡眠以及生理节律造成不利影响。 阅读全文",
+   "published_at": 1793743654.0,
+   "published_bj": "2026-11-04 06:07"
+  },
+  {
+   "id": "4503c79dc7be2ec3",
+   "source": "cnBeta",
+   "title": "微软推出鳄鱼造型Xbox Series X：内置可运行主机 仅此一台供粉丝抽奖",
+   "url": "https://www.cnbeta.com.tw/articles/game/1584922.htm",
+   "summary": "微软旗下Xbox近日公布了一款相当另类的定制游戏主机：将一台能够正常运行的Xbox Series X嵌入一只超过五英尺（约1.52米）长的鳄鱼模型内部，并将其命名为Xbox Series X-BITE。微软计划通过社交媒体抽奖活动，将这件全球仅有一台的特殊设备送给一名幸运玩家。 阅读全文",
+   "published_at": 1793743524.0,
+   "published_bj": "2026-11-04 06:05"
+  },
+  {
+   "id": "66d44d40b07ea731",
+   "source": "cnBeta",
+   "title": "iOS 27.3开发者测试版将Apple Intelligence带入中国市场",
+   "url": "https://www.cnbeta.com.tw/articles/tech/1584920.htm",
+   "summary": "在经历近两年的等待后，苹果面向开发者发布的首个iOS 27.3测试版已正式将Apple Intelligence引入中国市场，部分人工智能功能开始向中国用户开放。 阅读全文",
+   "published_at": 1793743491.0,
+   "published_bj": "2026-11-04 06:04"
+  },
+  {
+   "id": "104b0f126af6bb47",
+   "source": "Hacker News",
+   "title": "The Internals of PostgreSQL",
+   "url": "https://www.interdb.jp/pg/index.html",
+   "summary": "Article URL: https://www.interdb.jp/pg/index.html Comments URL: https://news.ycombinator.com/item?id=50358702 Points: 9 # Comments: 0",
+   "published_at": 1793742666.0,
+   "published_bj": "2026-11-04 05:51"
+  },
+  {
+   "id": "eca03014c2abc984",
+   "source": "TechCrunch",
+   "title": "Ted Schlein’s Ballistic Ventures seeks $490M for new funds amid AI-driven cybersecurity boom",
+   "url": "https://techcrunch.com/2026/11/03/ted-schleins-ballistic-ventures-seeks-490m-for-new-funds-amid-ai-driven-cybersecurity-boom/",
+   "summary": "Cybersecurity focused Ballistic Ventures is seeking to raise $360 million for a new flagship fund and another $130 million for a separate investment vehicle.",
+   "published_at": 1793742188.0,
+   "published_bj": "2026-11-04 05:43"
+  },
+  {
+   "id": "0c9538ce5ce6ee40",
+   "source": "Hacker News",
+   "title": "The Little Book of Generative AI Foundations: An Intuitive Mathematical Primer",
+   "url": "https://arxiv.org/abs/2605.29713",
+   "summary": "Article URL: https://arxiv.org/abs/2605.29713 Comments URL: https://news.ycombinator.com/item?id=50358582 Points: 43 # Comments: 5",
+   "published_at": 1793742053.0,
+   "published_bj": "2026-11-04 05:40"
+  },
+  {
+   "id": "a81c10190d023757",
+   "source": "Hacker News",
+   "title": "Safari introduces Adaptive Dark Mode in 27.3",
+   "url": "https://webkit.org/blog/18541/introducing-adaptive-dark-mode/",
+   "summary": "Article URL: https://webkit.org/blog/18541/introducing-adaptive-dark-mode/ Comments URL: https://news.ycombinator.com/item?id=50358562 Points: 88 # Comments: 62",
+   "published_at": 1793741945.0,
+   "published_bj": "2026-11-04 05:39"
+  },
+  {
+   "id": "b09c9ba713111bdd",
+   "source": "IT之家",
+   "title": "Super Micro 超微电脑 2027 财年第一财季归母净利润 15.94 亿美元，同比增长 847.32%",
+   "url": "https://www.ithome.com/1/021/873.htm",
+   "summary": "IT之家 11 月 4 日消息，超微电脑今日发布 2027 财年（2026 年 7 月 1 日～2027 年 6 月 30 日）第一财季（2026 年 7 月 1 日～2026 年 9 月 30 日）报告： 营业总收入 ：199.46 亿美元 （IT之家注：现汇率约合 1,329.48 亿元人民币） ，同比增长 297.5%，环比增长约 79.7% 毛利润 ：25.41 亿美元 （现汇率约合 169.37 亿元人民币） ，同比增长 443.69%，环比增长约 30.8% 毛利率 ：12.7%，同比增长 3.4 个百分点，环比下降 4.8 个百分点 归母净利润 ：15.94 亿美元 （现汇率约合",
+   "published_at": 1793741689.0,
+   "published_bj": "2026-11-04 05:34"
+  },
+  {
+   "id": "065dbc8b77b67dbb",
+   "source": "Hacker News",
+   "title": "US tech giants' hidden AI debt swells 90% to $3.2T in 6 months",
+   "url": "https://asia.nikkei.com/business/technology/artificial-intelligence/us-tech-giants-hidden-ai-debt-swells-90-to-3.2tn-in-6-months",
+   "summary": "Article URL: https://asia.nikkei.com/business/technology/artificial-intelligence/us-tech-giants-hidden-ai-debt-swells-90-to-3.2tn-in-6-months Comments URL: https://news.ycombinator.com/item?id=50358422 Points: 35 # Comments: 4",
+   "published_at": 1793741204.0,
+   "published_bj": "2026-11-04 05:26"
+  },
   {
    "id": "a52058f243443cf0",
    "source": "InfoQ中文",
@@ -11,6 +137,42 @@
    "summary": "点击查看原文>",
    "published_at": 1793741192.0,
    "published_bj": "2026-11-04 05:26"
+  },
+  {
+   "id": "6a32a295676f0259",
+   "source": "Hacker News",
+   "title": "The AI Boom May Be Sowing Seeds of Another Financial Crisis",
+   "url": "https://www.bloomberg.com/opinion/articles/2026-11-03/ai-investment-boom-demands-stronger-financial-oversight",
+   "summary": "Article URL: https://www.bloomberg.com/opinion/articles/2026-11-03/ai-investment-boom-demands-stronger-financial-oversight Comments URL: https://news.ycombinator.com/item?id=50358414 Points: 39 # Comments: 33",
+   "published_at": 1793741148.0,
+   "published_bj": "2026-11-04 05:25"
+  },
+  {
+   "id": "6df6fcebc2f24bae",
+   "source": "IT之家",
+   "title": "iPhone 11 也有份：苹果 iOS 27.3 开发者预览版 Beta 带来 4 项“待机显示”功能",
+   "url": "https://www.ithome.com/1/021/872.htm",
+   "summary": "IT之家 11 月 4 日消息，科技媒体 MacRumors 今天（11 月 4 日）发布博文，报道称在今天推送的 iOS 27.3 首个 Beta 开发者预览版中， 苹果下放 iPhone Duo 上的多项“待机显示”（StandBy）模式，覆盖 iPhone 11 以及后续机型。 IT之家注：“待机显示”可以把手机变成桌面时钟、电子相框，或显示小组件和实时活动的信息屏。此次更新并非首次向旧 iPhone 机型开放“待机显示”模式，主要增加显示内容与个性化选择，将此前在 iPhone Duo 上推出的界面功能带到更多设备。 本次功能下放适用于 iPhone 11 等后续机型，主要扩展以下 4",
+   "published_at": 1793741033.0,
+   "published_bj": "2026-11-04 05:23"
+  },
+  {
+   "id": "af6129ea528ba5a7",
+   "source": "IT之家",
+   "title": "AMD 2026 财年前三季度报归母净利润 61.08 亿美元，同比增长 116.29%",
+   "url": "https://www.ithome.com/1/021/871.htm",
+   "summary": "IT之家 11 月 4 日消息，AMD 今日发布 2026 财年（2025 年 12 月 28 日～2026 年 12 月 26 日）前三季度报（2025 年 12 月 28 日～2026 年 9 月 26 日）及第三财季（2026 年 6 月 28 日～2026 年 9 月 26 日）报告： 2026 财年前三季度报 营业总收入 ：351.66 亿美元 （IT之家注：现汇率约合 2,343.95 亿元人民币） ，同比增长 44.31% 毛利润 ：188.29 亿美元 （现汇率约合 1,255.03 亿元人民币） ，同比增长 62.67% 毛利率 ：54%，同比增长 7 个百分点 归母净利润 ",
+   "published_at": 1793740873.0,
+   "published_bj": "2026-11-04 05:21"
+  },
+  {
+   "id": "5f8f938134b49c3e",
+   "source": "Hacker News",
+   "title": "Show HN: Kairos – Open-source risk and fraud decisioning platform",
+   "url": "https://github.com/finic-ai/kairos",
+   "summary": "Hey HN, Ayan here from Finic. We’re launching Kairos, an open source alternative to Sift, Sardine, and other real-time fraud decisioning platforms. Kairos addresses two of the biggest problems facing traditional decisioning tools: a lack of labeled data to train on and dealing with fraudsters that a",
+   "published_at": 1793740608.0,
+   "published_bj": "2026-11-04 05:16"
   },
   {
    "id": "351d66170bc71623",
@@ -155,6 +317,15 @@
    "summary": "https://docs.flipper.net/one Comments URL: https://news.ycombinator.com/item?id=50356994 Points: 35 # Comments: 10",
    "published_at": 1793734333.0,
    "published_bj": "2026-11-04 03:32"
+  },
+  {
+   "id": "b49821712e11226b",
+   "source": "Hacker News",
+   "title": "macOS 27 does not support CoreStorage volumes",
+   "url": "https://wadetregaskis.com/macos-27-golden-gate-does-not-actually-support-corestorage-or-hfs-volumes/",
+   "summary": "Article URL: https://wadetregaskis.com/macos-27-golden-gate-does-not-actually-support-corestorage-or-hfs-volumes/ Comments URL: https://news.ycombinator.com/item?id=50356944 Points: 50 # Comments: 22",
+   "published_at": 1793734073.0,
+   "published_bj": "2026-11-04 03:27"
   },
   {
    "id": "42a70d78ae8cf9b1",
