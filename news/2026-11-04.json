@@ -1,8 +1,17 @@
 {
  "date": "2026-11-04",
- "generated_at": 1793697049.3976672,
- "count": 1,
+ "generated_at": 1793700836.482761,
+ "count": 2,
  "items": [
+  {
+   "id": "b9327105886e5e04",
+   "source": "InfoQ中文",
+   "title": "AI 改变的是数据接口，而不是查询引擎",
+   "url": "https://www.infoq.cn/article/fvNWWYEmke5xJVsHEIIi?utm_source=rss&utm_medium=article",
+   "summary": "点击查看原文>",
+   "published_at": 1793725620.0,
+   "published_bj": "2026-11-04 01:07"
+  },
   {
    "id": "f609e89f448804af",
    "source": "InfoQ中文",
