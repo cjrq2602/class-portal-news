@@ -1,7 +1,7 @@
 {
  "date": "2026-11-04",
- "generated_at": 1793719491.5125735,
- "count": 3,
+ "generated_at": 1793723403.9429686,
+ "count": 8,
  "items": [
   {
    "id": "a52058f243443cf0",
@@ -22,6 +22,15 @@
    "published_bj": "2026-11-04 01:07"
   },
   {
+   "id": "3437f1db9c2df62a",
+   "source": "Hacker News",
+   "title": "Notice How Old websites look better than new websites",
+   "url": "https://yingster.net/",
+   "summary": "Article URL: https://yingster.net/ Comments URL: https://news.ycombinator.com/item?id=50353877 Points: 9 # Comments: 0",
+   "published_at": 1793722485.0,
+   "published_bj": "2026-11-04 00:14"
+  },
+  {
    "id": "f609e89f448804af",
    "source": "InfoQ中文",
    "title": "前迪士尼 AI 高管出任 CPO，Utopai Studios 技术布局再提速",
@@ -29,6 +38,42 @@
    "summary": "点击查看原文>",
    "published_at": 1793722289.0,
    "published_bj": "2026-11-04 00:11"
+  },
+  {
+   "id": "b94c194d597546eb",
+   "source": "cnBeta",
+   "title": "OpenAI披露ChatGPT最新增长数据：每周活跃用户达12亿",
+   "url": "https://www.cnbeta.com.tw/articles/tech/1584900.htm",
+   "summary": "OpenAI消费者产品负责人Adam Fry近日在接受科技媒体Big Technology采访时披露了ChatGPT的一系列最新运营数据。根据他的介绍，ChatGPT每周活跃用户已经达到12亿，过去两个月新增了约2亿用户；其搜索类查询量目前约为Google的五分之一。此外，ChatGPT每周生成的图片达到15亿张，语音输入和语音对话的合计周活跃用户也已经达到2.5亿。 阅读全文",
+   "published_at": 1793721954.0,
+   "published_bj": "2026-11-04 00:05"
+  },
+  {
+   "id": "ac8c55995c258d16",
+   "source": "IT之家",
+   "title": "荣威家越 X7 HEV 新车申报：1.5T 油电混动大五座中型 SUV",
+   "url": "https://www.ithome.com/1/021/856.htm",
+   "summary": "IT之家 11 月 4 日消息，工信部发布第 413 批《道路机动车辆生产企业及产品公告》新产品公示， 荣威家越 X7 完成申报 。 IT之家注意到，此次申报的荣威家越 X7 为混合动力运动型乘用车，属于上汽荣威旗下全新家用 SUV 产品，定位大五座中型 SUV，主打家庭日常出行场景。 车身尺寸方面，新车长宽高分别为 4900/1924/1759（1765）mm，轴距达到 2863mm，前轮距 1647mm、后轮距 1661mm，接近角 / 离去角为 19°/23°（19°/24°），整备质量为 1820kg、1860kg 两个版本，总质量为 2273kg、2313kg，额定载客 5 人，轮胎",
+   "published_at": 1793721899.0,
+   "published_bj": "2026-11-04 00:04"
+  },
+  {
+   "id": "ba7165013f6ce022",
+   "source": "TechCrunch",
+   "title": "New York City’s Mamdani criticizes Madison Square Garden owner over surveillance tech",
+   "url": "https://techcrunch.com/2026/11/03/new-york-citys-mamdani-criticizes-madison-square-garden-owner-over-surveillance-tech/",
+   "summary": "The mayor's comments come after the entertainment giant's data breach last year, which exposed James Dolan's surveillance.",
+   "published_at": 1793721895.0,
+   "published_bj": "2026-11-04 00:04"
+  },
+  {
+   "id": "c360a38a3c4983dd",
+   "source": "cnBeta",
+   "title": "传闻称iPhone 18将迎来电池容量升级 苹果续航策略或出现重要调整",
+   "url": "https://www.cnbeta.com.tw/articles/tech/1584898.htm",
+   "summary": "据最新供应链消息，苹果计划在下一代iPhone 18系列中提升电池容量，这意味着未来机型有望在续航表现方面实现进一步增强。虽然苹果近年来持续通过芯片能效提升来延长设备使用时间，但最新传闻显示，公司可能准备重新将重点放在更大容量电池上。 阅读全文",
+   "published_at": 1793721788.0,
+   "published_bj": "2026-11-04 00:03"
   }
  ]
 }
