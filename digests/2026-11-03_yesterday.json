@@ -1,0 +1,382 @@
+{
+ "type": "yesterday",
+ "date": "2026-11-03",
+ "window": {
+  "start_ts": 1793635200.0,
+  "end_ts": 1793721600.0
+ },
+ "generated_at": 1793724605.641199,
+ "generator": "action",
+ "news_count": 400,
+ "keywords": [
+  "ai",
+  "苹果",
+  "美元",
+  "iphone",
+  "游戏",
+  "推出",
+  "to",
+  "亿美",
+  "开发",
+  "全球"
+ ],
+ "points": [
+  {
+   "text": "【ai】IT之家 11 月 3 日消息，科技媒体 9to5Mac 今天（11 月 3 日）发布博文，报道称基于官方披露数据，2026 财年（2025 年",
+   "keyword": "ai",
+   "news_ids": [
+    "ba307c2446e85ebe"
+   ],
+   "refs": [
+    {
+     "id": "ba307c2446e85ebe",
+     "title": "豪掷 457.65 亿美元：苹果 2026 财年研发费用同比增 32% 创历史新高，加码 AI 投入",
+     "source": "IT之家",
+     "url": "https://www.ithome.com/1/021/351.htm",
+     "published_at": 1793673058.0
+    }
+   ]
+  },
+  {
+   "text": "【ai】IT之家 11 月 3 日消息，TrendForce（集邦）昨日发布预测， AI 网络与互连产值在 2027 年有望达到 2,798 亿美元 （",
+   "keyword": "ai",
+   "news_ids": [
+    "62aa0e89cddb240b"
+   ],
+   "refs": [
+    {
+     "id": "62aa0e89cddb240b",
+     "title": "TrendForce：AI 网络与互连持续接近翻倍增长，2027 年产值 2798 亿美元",
+     "source": "IT之家",
+     "url": "https://www.ithome.com/1/021/796.htm",
+     "published_at": 1793707215.0
+    }
+   ]
+  },
+  {
+   "text": "【ai】IT之家 11 月 3 日消息，据外媒 Road to VR 报道，经典线上 VR 社交游戏《VRChat》近期因决定“不为 AI 生成内容添加",
+   "keyword": "ai",
+   "news_ids": [
+    "c8cfb5fd63b9983d"
+   ],
+   "refs": [
+    {
+     "id": "c8cfb5fd63b9983d",
+     "title": "经典线上 VR 社交游戏《VRChat》拒绝为 AI 生成内容添加标识，引发用户众怒",
+     "source": "IT之家",
+     "url": "https://www.ithome.com/1/021/651.htm",
+     "published_at": 1793696938.0
+    }
+   ]
+  },
+  {
+   "text": "【用户】IT之家 11 月 3 日消息，据“中国电信香港”公众号，中国电信香港现已支持 eSIM 服务，目前支持预付卡（大湾区储值卡、HK$2 /日的 ",
+   "keyword": "用户",
+   "news_ids": [
+    "394ce567ffebe6a2"
+   ],
+   "refs": [
+    {
+     "id": "394ce567ffebe6a2",
+     "title": "中国电信香港：已支持港澳版手机使用 eSIM 服务，用户需前往线下服务点办理开通手续",
+     "source": "IT之家",
+     "url": "https://www.ithome.com/1/021/644.htm",
+     "published_at": 1793696140.0
+    }
+   ]
+  },
+  {
+   "text": "【美元】IT之家 11 月 3 日消息，据游民星空报道，索尼 PlayStation 今日在上海举行“中国之星计划”发布会，本次发布会聚焦国产主机游戏扶",
+   "keyword": "美元",
+   "news_ids": [
+    "8b263c88cd439fa9"
+   ],
+   "refs": [
+    {
+     "id": "8b263c88cd439fa9",
+     "title": "索尼 PlayStation 宣布“中国之星计划”第四期入选名单近期公布，入选游戏可获百万美元扶持",
+     "source": "IT之家",
+     "url": "https://www.ithome.com/1/021/783.htm",
+     "published_at": 1793704873.0
+    }
+   ]
+  },
+  {
+   "text": "【ai】IT之家 11 月 3 日消息，据科技媒体 Wccftech 今天报道，英特尔正考虑停产 Arc B580 显卡， 未来聚焦利润率更高的 AI ",
+   "keyword": "ai",
+   "news_ids": [
+    "b34eb84881a873f3"
+   ],
+   "refs": [
+    {
+     "id": "b34eb84881a873f3",
+     "title": "消息称英特尔可能停产 Arc B580 显卡，未来聚焦 Arc Pro B50 等高利润 AI 产品",
+     "source": "IT之家",
+     "url": "https://www.ithome.com/1/021/813.htm",
+     "published_at": 1793711514.0
+    }
+   ]
+  },
+  {
+   "text": "【游戏】IT之家 11 月 3 日消息，据科技媒体 Bleeping Computer 今天报道，欧洲多国执法部门联合打击投资诈骗， 逮捕 7 名嫌疑人",
+   "keyword": "游戏",
+   "news_ids": [
+    "dd0ff9d48a093eea"
+   ],
+   "refs": [
+    {
+     "id": "dd0ff9d48a093eea",
+     "title": "欧洲六国联合打击跨国投资诈骗团伙，查封百余台服务器",
+     "source": "IT之家",
+     "url": "https://www.ithome.com/1/021/829.htm",
+     "published_at": 1793715224.0
+    }
+   ]
+  },
+  {
+   "text": "【iphone】Apple says iPhone Duo production is ramping up, but it still can't say w",
+   "keyword": "iphone",
+   "news_ids": [
+    "1ac70e382629795a"
+   ],
+   "refs": [
+    {
+     "id": "1ac70e382629795a",
+     "title": "Apple says it’s ‘hard to predict’ when iPhone Duo constraints will improve",
+     "source": "TechCrunch",
+     "url": "https://techcrunch.com/2026/11/02/apple-says-its-hard-to-predict-when-iphone-duo-constraints-will-improve/",
+     "published_at": 1793661932.0
+    }
+   ]
+  },
+  {
+   "text": "【游戏】IT之家 11 月 3 日消息，据游戏媒体 MP1st 昨天报道，Embark 工作室去年 10 月推出《ARC Raiders》时，从没想过这",
+   "keyword": "游戏",
+   "news_ids": [
+    "f6382099cdaf0d64"
+   ],
+   "refs": [
+    {
+     "id": "f6382099cdaf0d64",
+     "title": "Embark 工作室：从没想到《ARC Raiders》游戏会如此成功",
+     "source": "IT之家",
+     "url": "https://www.ithome.com/1/021/805.htm",
+     "published_at": 1793710126.0
+    }
+   ]
+  },
+  {
+   "text": "【游戏】IT之家 11 月 3 日消息，Rockstar 今天宣布，《GTA6》游戏将在 11 月 10 日（周日）开始预载，全球玩家可以从当天开始下载",
+   "keyword": "游戏",
+   "news_ids": [
+    "b19a012e120a17fa"
+   ],
+   "refs": [
+    {
+     "id": "b19a012e120a17fa",
+     "title": "R 星：《GTA6》游戏 11 月 10 日开始预载，最高占用 212GB 空间",
+     "source": "IT之家",
+     "url": "https://www.ithome.com/1/021/850.htm",
+     "published_at": 1793720428.0
+    }
+   ]
+  },
+  {
+   "text": "Article URL: https://concepts",
+   "keyword": "",
+   "news_ids": [
+    "a77bfd21f68324ec"
+   ],
+   "refs": [
+    {
+     "id": "a77bfd21f68324ec",
+     "title": "Show HN: Interactive notes on RLHF, attention, LoRA and LLM evals",
+     "source": "Hacker News",
+     "url": "https://concepts.laxmena.com/",
+     "published_at": 1793720915.0
+    }
+   ]
+  },
+  {
+   "text": "Article URL: https://blog",
+   "keyword": "",
+   "news_ids": [
+    "3877dce66aa1fd99"
+   ],
+   "refs": [
+    {
+     "id": "3877dce66aa1fd99",
+     "title": "Bear turns 10, and it still feels like day one",
+     "source": "Hacker News",
+     "url": "https://blog.bear.app/2026/11/bear-turns-10-and-it-still-feels-like-day-one/",
+     "published_at": 1793720506.0
+    }
+   ]
+  },
+  {
+   "text": "构建面向 Agentic 推理的下一代 LLM 推理引擎",
+   "keyword": "",
+   "news_ids": [
+    "3f4a6e499900c536"
+   ],
+   "refs": [
+    {
+     "id": "3f4a6e499900c536",
+     "title": "构建面向 Agentic 推理的下一代 LLM 推理引擎",
+     "source": "InfoQ中文",
+     "url": "https://www.infoq.cn/article/YwAayF1ylWb7oN4P0lyC?utm_source=rss&utm_medium=article",
+     "published_at": 1793720416.0
+    }
+   ]
+  },
+  {
+   "text": "Article URL: https://homosabiens",
+   "keyword": "",
+   "news_ids": [
+    "0027b157027189a7"
+   ],
+   "refs": [
+    {
+     "id": "0027b157027189a7",
+     "title": "No brother of mine will play the flute",
+     "source": "Hacker News",
+     "url": "https://homosabiens.substack.com/p/no-brother-of-mine-will-play-the",
+     "published_at": 1793720404.0
+    }
+   ]
+  },
+  {
+   "text": "Article URL: https://www",
+   "keyword": "",
+   "news_ids": [
+    "e3be03527bac80d1"
+   ],
+   "refs": [
+    {
+     "id": "e3be03527bac80d1",
+     "title": "Study estimates 75% of NFL players who died over 15-year span had CTE",
+     "source": "Hacker News",
+     "url": "https://www.nbcnews.com/health/health-news/study-estimates-75-nfl-players-died-15-year-span-may-cte-rcna605975",
+     "published_at": 1793720284.0
+    }
+   ]
+  }
+ ],
+ "article": {
+  "title": "2026-11-03 新闻总结",
+  "paragraphs": [
+   {
+    "kind": "lead",
+    "text": "过去 24 小时共收录 400 条新闻，来自 7 家媒体。把标题放在一起看，讨论主要集中在 AI、游戏、开发 这几个方向上，其余消息更像是零散补充。"
+   },
+   {
+    "kind": "section",
+    "heading": "AI",
+    "text": "先看「AI」。IT之家 11 月 3 日消息，科技媒体 9to5Mac 今天（11 月 3 日）发布博文，报道称基于官方披露数据，另有 235 条消息指向同一话题。这类进展更像是把已有能力往工程化落地推了一步，真正的分水岭在于成本和可靠性能不能同时压下来。",
+    "news_ids": [
+     "ba307c2446e85ebe"
+    ],
+    "refs": [
+     {
+      "id": "ba307c2446e85ebe",
+      "title": "豪掷 457.65 亿美元：苹果 2026 财年研发费用同比增 32% 创历史新高，加码 AI 投入",
+      "source": "IT之家",
+      "url": "https://www.ithome.com/1/021/351.htm",
+      "published_at": 1793673058.0
+     }
+    ]
+   },
+   {
+    "kind": "section",
+    "heading": "网络",
+    "text": "与此同时「网络」。IT之家 11 月 3 日消息，TrendForce（集邦）昨日发布预测， AI 网络与互连产值在 2027 年有望达到 2,798 亿美元 （IT之家注，另有 8 条消息指向同一话题。这类进展更像是把已有能力往工程化落地推了一步，真正的分水岭在于成本和可靠性能不能同时压下来。",
+    "news_ids": [
+     "62aa0e89cddb240b"
+    ],
+    "refs": [
+     {
+      "id": "62aa0e89cddb240b",
+      "title": "TrendForce：AI 网络与互连持续接近翻倍增长，2027 年产值 2798 亿美元",
+      "source": "IT之家",
+      "url": "https://www.ithome.com/1/021/796.htm",
+      "published_at": 1793707215.0
+     }
+    ]
+   },
+   {
+    "kind": "section",
+    "heading": "游戏",
+    "text": "另一个值得注意的方向是「游戏」。IT之家 11 月 3 日消息，据外媒 Road to VR 报道，经典线上 VR 社交游戏《VRChat》近期因决定“不为 AI 生成内容添加专门标识”，另有 17 条消息指向同一话题。价格和生态往往比硬件规格更能决定一款产品能不能留下来。",
+    "news_ids": [
+     "c8cfb5fd63b9983d"
+    ],
+    "refs": [
+     {
+      "id": "c8cfb5fd63b9983d",
+      "title": "经典线上 VR 社交游戏《VRChat》拒绝为 AI 生成内容添加标识，引发用户众怒",
+      "source": "IT之家",
+      "url": "https://www.ithome.com/1/021/651.htm",
+      "published_at": 1793696938.0
+     }
+    ]
+   },
+   {
+    "kind": "section",
+    "heading": "手机",
+    "text": "相比之下「手机」。IT之家 11 月 3 日消息，据“中国电信香港”公众号，中国电信香港现已支持 eSIM 服务，目前支持预付卡（大湾区储值卡，另有 6 条消息指向同一话题。价格和生态往往比硬件规格更能决定一款产品能不能留下来。",
+    "news_ids": [
+     "394ce567ffebe6a2"
+    ],
+    "refs": [
+     {
+      "id": "394ce567ffebe6a2",
+      "title": "中国电信香港：已支持港澳版手机使用 eSIM 服务，用户需前往线下服务点办理开通手续",
+      "source": "IT之家",
+      "url": "https://www.ithome.com/1/021/644.htm",
+      "published_at": 1793696140.0
+     }
+    ]
+   },
+   {
+    "kind": "glossary",
+    "items": [
+     {
+      "term": "AI",
+      "desc": "人工智能，让机器完成识别、生成、判断等原本需要人做的任务"
+     },
+     {
+      "term": "LLM",
+      "desc": "大语言模型，主打文字理解与生成，是「大模型」的同义词"
+     },
+     {
+      "term": "SaaS",
+      "desc": "软件即服务，把软件放在云端按订阅方式使用"
+     },
+     {
+      "term": "HBM",
+      "desc": "高带宽内存，把多层内存堆叠起来给 AI 芯片喂数据，缓解带宽瓶颈"
+     },
+     {
+      "term": "Agent",
+      "desc": "智能体，能自己拆解任务、调用工具并连续执行的 AI 程序"
+     },
+     {
+      "term": "GPU",
+      "desc": "图形处理器，因为擅长大规模并行计算，成了 AI 训练的主力硬件"
+     }
+    ]
+   },
+   {
+    "kind": "outlook",
+    "text": "把这几条放在一起看，最值得跟踪的是 AI 和 游戏 两条线：一条决定技术能走多远，一条决定它多快能落到普通人的日常里。至于其他消息，可以先放进观察名单，等后续有更实的进展再判断。"
+   }
+  ],
+  "word_count": 690
+ },
+ "ai_enhanced": false,
+ "schema": 1,
+ "window_bj": {
+  "start": "2026-11-03 00:00",
+  "end": "2026-11-04 00:00"
+ }
+}
