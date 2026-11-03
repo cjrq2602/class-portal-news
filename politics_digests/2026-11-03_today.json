@@ -1,0 +1,366 @@
+{
+ "type": "today",
+ "date": "2026-11-03",
+ "window": {
+  "start_ts": 1793635200.0,
+  "end_ts": 1793667600.0
+ },
+ "generated_at": 1793670859.3500626,
+ "generator": "action",
+ "news_count": 42,
+ "keywords": [
+  "出口",
+  "产业",
+  "伊战",
+  "决定",
+  "启对",
+  "对伊",
+  "朗普",
+  "特朗",
+  "重启",
+  "重要"
+ ],
+ "points": [
+  {
+   "text": "【启对】中新网11月3日电 据美国阿克西奥斯新闻网站报道，美国总统特朗普当地时间2日表示，对于是否重启对伊朗的战事，他“并不急于”作出决定",
+   "keyword": "启对",
+   "news_ids": [
+    "71515f1b6dae9423"
+   ],
+   "refs": [
+    {
+     "id": "71515f1b6dae9423",
+     "title": "特朗普：美伊正在对话，“不急于”决定是否重启对伊战事",
+     "source": "中新网即时",
+     "url": "https://www.chinanews.com.cn/gj/2026/11-03/10725087.shtml",
+     "published_at": 1793660000.0
+    }
+   ]
+  },
+  {
+   "text": "【出口】鸡肉出口反转折射产业进步",
+   "keyword": "出口",
+   "news_ids": [
+    "2f3300bbe9e9f1e2"
+   ],
+   "refs": [
+    {
+     "id": "2f3300bbe9e9f1e2",
+     "title": "从“净进口”到“净出口” 鸡肉出口反转折射产业进步",
+     "source": "中新网即时",
+     "url": "https://www.chinanews.com.cn/cj/2026/11-03/10725106.shtml",
+     "published_at": 1793665045.0
+    }
+   ]
+  },
+  {
+   "text": "【中到】中新网11月3日电 据中央气象台网站消息，昨日，云南、广西、海南等地部分地区出现较强降雨，内蒙古、黑龙江等地出现降雪天气",
+   "keyword": "中到",
+   "news_ids": [
+    "0ccceb70d51246c8"
+   ],
+   "refs": [
+    {
+     "id": "0ccceb70d51246c8",
+     "title": "江淮江汉江南有中到大雨 冷空气将影响内蒙古和东北地区等地",
+     "source": "中新网即时",
+     "url": "https://www.chinanews.com.cn/sh/2026/11-03/10725105.shtml",
+     "published_at": 1793665495.0
+    }
+   ]
+  },
+  {
+   "text": "【上云】中青报·中青网见习记者 杨蕾 记者 宁迪",
+   "keyword": "上云",
+   "news_ids": [
+    "db54e4c2a7cd3a3e"
+   ],
+   "refs": [
+    {
+     "id": "db54e4c2a7cd3a3e",
+     "title": "年轻人爱上云养“AI宠物”",
+     "source": "中新网即时",
+     "url": "https://www.chinanews.com.cn/sh/2026/11-03/10725100.shtml",
+     "published_at": 1793663350.0
+    }
+   ]
+  },
+  {
+   "text": "【重要】新华社北京11月2日电 中共中央政治局委员、中央政法委书记陈文清11月2日主持召开中央政法委员会全体会议，传达学习贯彻习近平总书记在党的二十届五",
+   "keyword": "重要",
+   "news_ids": [
+    "6dbde22652c996c8"
+   ],
+   "refs": [
+    {
+     "id": "6dbde22652c996c8",
+     "title": "陈文清主持召开中央政法委员会全体会议 传达学习贯彻习近平总书记在党的二十届五中全会上的重要讲话和全会精神",
+     "source": "中新网即时",
+     "url": "https://www.chinanews.com.cn/gn/2026/11-03/10725091.shtml",
+     "published_at": 1793663940.0
+    }
+   ]
+  },
+  {
+   "text": "【一千】中青报·中青网记者 贾骥业",
+   "keyword": "一千",
+   "news_ids": [
+    "51240fffb6f2211b"
+   ],
+   "refs": [
+    {
+     "id": "51240fffb6f2211b",
+     "title": "算力用电年均新增一千亿度以上，怎么接住？",
+     "source": "中新网即时",
+     "url": "https://www.chinanews.com.cn/cj/2026/11-03/10725099.shtml",
+     "published_at": 1793663205.0
+    }
+   ]
+  },
+  {
+   "text": "【不能】炸药包”突然扔向人群？沉浸式体验不能吓着观众",
+   "keyword": "不能",
+   "news_ids": [
+    "d2ca66a629f49730"
+   ],
+   "refs": [
+    {
+     "id": "d2ca66a629f49730",
+     "title": "炸药包”突然扔向人群？沉浸式体验不能吓着观众",
+     "source": "中新网即时",
+     "url": "https://www.chinanews.com.cn/sh/2026/11-03/10725096.shtml",
+     "published_at": 1793662917.0
+    }
+   ]
+  },
+  {
+   "text": "【一市】中新网11月3日电 据外媒报道，也门胡塞武装称，当地时间2日，也门西南部塔伊兹省一市场遭袭，造成多人死伤",
+   "keyword": "一市",
+   "news_ids": [
+    "bc2da1cf655e5585"
+   ],
+   "refs": [
+    {
+     "id": "bc2da1cf655e5585",
+     "title": "也门胡塞武装称塔伊兹省一市场遭袭 造成多人死伤",
+     "source": "中新网即时",
+     "url": "https://www.chinanews.com.cn/gj/2026/11-03/10725090.shtml",
+     "published_at": 1793661526.0
+    }
+   ]
+  },
+  {
+   "text": "新华社北京11月2日电 题：大河新绿",
+   "keyword": "",
+   "news_ids": [
+    "62432b211585cc74"
+   ],
+   "refs": [
+    {
+     "id": "62432b211585cc74",
+     "title": "大河新绿",
+     "source": "中新网即时",
+     "url": "https://www.chinanews.com.cn/gn/2026/11-03/10725114.shtml",
+     "published_at": 1793667447.0
+    }
+   ]
+  },
+  {
+   "text": "中新网北京11月3日电 (马帅莎 张艳)北京时间11月3日8时15分，力箭二号遥二运载火箭在东风商业航天创新试验区发射升空，将搭载的千帆极轨21",
+   "keyword": "",
+   "news_ids": [
+    "7881f9c9db9ca435"
+   ],
+   "refs": [
+    {
+     "id": "7881f9c9db9ca435",
+     "title": "力箭二号遥二运载火箭发射成功",
+     "source": "中新网即时",
+     "url": "https://www.chinanews.com.cn/gn/2026/11-03/10725111.shtml",
+     "published_at": 1793667023.0
+    }
+   ]
+  },
+  {
+   "text": "中新网11月3日电 据西宁野生动物园微信公众号消息，2026年10月7日，青海省野生动物救护繁育中心接收一只由青海湖景区管理局天峻管理分局移交的",
+   "keyword": "",
+   "news_ids": [
+    "28ea541d9247af41"
+   ],
+   "refs": [
+    {
+     "id": "28ea541d9247af41",
+     "title": "雪豹“凌小寒”经全力抢救无效病亡",
+     "source": "中新网即时",
+     "url": "https://www.chinanews.com.cn/sh/2026/11-03/10725108.shtml",
+     "published_at": 1793666154.0
+    }
+   ]
+  },
+  {
+   "text": "一家網上零售商表示，他們有售有助帶來好運咒語，而最近購買的人數大幅上升",
+   "keyword": "",
+   "news_ids": [
+    "c4a15d2d1c21d7fd"
+   ],
+   "refs": [
+    {
+     "id": "c4a15d2d1c21d7fd",
+     "title": "愛情、幸運與魔法：年輕人為何找上了網上女巫？",
+     "source": "BBC中文",
+     "url": "https://www.bbc.com/zhongwen/articles/crq8n9qq8q49o/trad?at_medium=RSS&at_campaign=rss",
+     "published_at": 1793665320.0
+    }
+   ]
+  },
+  {
+   "text": "Netflix將美國心理學家菲利普·津巴多 (Philip Zimbardo) 1971 年備受爭議的研究改編成了一部六集真人秀，重新引發了一場",
+   "keyword": "",
+   "news_ids": [
+    "e9a5a0b61b54e088"
+   ],
+   "refs": [
+    {
+     "id": "e9a5a0b61b54e088",
+     "title": "Netflix 重現斯坦福監獄「虐待性」研究應該嗎？",
+     "source": "BBC中文",
+     "url": "https://www.bbc.com/zhongwen/articles/ck4g1xzw1jnpo/trad?at_medium=RSS&at_campaign=rss",
+     "published_at": 1793665314.0
+    }
+   ]
+  },
+  {
+   "text": "李强会见阿曼苏丹海赛姆",
+   "keyword": "",
+   "news_ids": [
+    "b1ce87440f619623"
+   ],
+   "refs": [
+    {
+     "id": "b1ce87440f619623",
+     "title": "李强会见阿曼苏丹海赛姆",
+     "source": "中新网即时",
+     "url": "http://www.chinanews.com.cn/tp/hd2011/2026/11-03/1209569.shtml",
+     "published_at": 1793664508.0
+    }
+   ]
+  },
+  {
+   "text": "11月2日，全国人大常委会委员长赵乐际在北京人民大会堂同俄罗斯联邦委员会主席马特维延科举行会谈",
+   "keyword": "",
+   "news_ids": [
+    "92fa41357845e730"
+   ],
+   "refs": [
+    {
+     "id": "92fa41357845e730",
+     "title": "赵乐际同俄罗斯联邦委员会主席马特维延科会谈",
+     "source": "中新网即时",
+     "url": "https://www.chinanews.com.cn/gn/2026/11-03/10725092.shtml",
+     "published_at": 1793663990.0
+    }
+   ]
+  }
+ ],
+ "article": {
+  "title": "2026-11-03 新闻总结",
+  "paragraphs": [
+   {
+    "kind": "lead",
+    "text": "今天共收录 42 条新闻，来自 4 家媒体。把标题放在一起看，讨论主要集中在 出口、AI 这几个方向上，其余消息更像是零散补充。"
+   },
+   {
+    "kind": "section",
+    "heading": "金融",
+    "text": "先看「金融」。中新网11月3日电 据中国人民银行网站消息，为加强金融机构外汇流动性管理，中国人民银行决定，自2026年11月15日起，上调金融机构外汇存款准备金率2个百分点，另有 4 条消息指向同一话题。这条消息短期内的实际影响可能有限，但它指向的方向值得放进观察名单。",
+    "news_ids": [
+     "1d1ab556fb0416d9"
+    ],
+    "refs": [
+     {
+      "id": "1d1ab556fb0416d9",
+      "title": "中国人民银行决定上调金融机构外汇存款准备金率",
+      "source": "中新网即时",
+      "url": "https://www.chinanews.com.cn/cj/2026/11-03/10725110.shtml",
+      "published_at": 1793666749.0
+     }
+    ]
+   },
+   {
+    "kind": "section",
+    "heading": "出口",
+    "text": "与此同时「出口」。鸡肉出口反转折射产业进步…，另有 2 条消息指向同一话题。这条消息短期内的实际影响可能有限，但它指向的方向值得放进观察名单。",
+    "news_ids": [
+     "2f3300bbe9e9f1e2"
+    ],
+    "refs": [
+     {
+      "id": "2f3300bbe9e9f1e2",
+      "title": "从“净进口”到“净出口” 鸡肉出口反转折射产业进步",
+      "source": "中新网即时",
+      "url": "https://www.chinanews.com.cn/cj/2026/11-03/10725106.shtml",
+      "published_at": 1793665045.0
+     }
+    ]
+   },
+   {
+    "kind": "section",
+    "heading": "江淮江汉江南有中到大雨 冷空气将",
+    "text": "另一个值得注意的方向是「江淮江汉江南有中到大雨 冷空气将」。中新网11月3日电 据中央气象台网站消息，昨日，云南、广西、海南等地部分地区出现较强降雨，内蒙古，另有 1 条消息指向同一话题。对读者来说，值得留意的不是结论本身，而是它背后哪些前提正在被改变。",
+    "news_ids": [
+     "0ccceb70d51246c8"
+    ],
+    "refs": [
+     {
+      "id": "0ccceb70d51246c8",
+      "title": "江淮江汉江南有中到大雨 冷空气将影响内蒙古和东北地区等地",
+      "source": "中新网即时",
+      "url": "https://www.chinanews.com.cn/sh/2026/11-03/10725105.shtml",
+      "published_at": 1793665495.0
+     }
+    ]
+   },
+   {
+    "kind": "section",
+    "heading": "AI",
+    "text": "相比之下「AI」。中青报·中青网见习记者 杨蕾 记者 宁迪…，另有 1 条消息指向同一话题。这条消息短期内的实际影响可能有限，但它指向的方向值得放进观察名单。",
+    "news_ids": [
+     "db54e4c2a7cd3a3e"
+    ],
+    "refs": [
+     {
+      "id": "db54e4c2a7cd3a3e",
+      "title": "年轻人爱上云养“AI宠物”",
+      "source": "中新网即时",
+      "url": "https://www.chinanews.com.cn/sh/2026/11-03/10725100.shtml",
+      "published_at": 1793663350.0
+     }
+    ]
+   },
+   {
+    "kind": "glossary",
+    "items": [
+     {
+      "term": "AI",
+      "desc": "人工智能，让机器完成识别、生成、判断等原本需要人做的任务"
+     },
+     {
+      "term": "算力",
+      "desc": "计算能力，通常用 GPU 数量和浮点性能衡量，是训练大模型的门槛"
+     }
+    ]
+   },
+   {
+    "kind": "outlook",
+    "text": "把这几条放在一起看，最值得跟踪的是 出口 和 AI 两条线：一条决定技术能走多远，一条决定它多快能落到普通人的日常里。至于其他消息，可以先放进观察名单，等后续有更实的进展再判断。"
+   }
+  ],
+  "word_count": 565
+ },
+ "ai_enhanced": false,
+ "schema": 1,
+ "window_bj": {
+  "start": "2026-11-03 00:00",
+  "end": "2026-11-03 09:00"
+ }
+}

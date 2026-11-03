@@ -1,0 +1,382 @@
+{
+ "type": "today",
+ "date": "2026-11-03",
+ "window": {
+  "start_ts": 1793635200.0,
+  "end_ts": 1793667600.0
+ },
+ "generated_at": 1793670859.2571316,
+ "generator": "action",
+ "news_count": 107,
+ "keywords": [
+  "ai",
+  "苹果",
+  "to",
+  "the",
+  "iphone",
+  "in",
+  "of",
+  "anthropic",
+  "and",
+  "for"
+ ],
+ "points": [
+  {
+   "text": "【ai】Here's a question straight out of sci-fi: What if AI could predict what ",
+   "keyword": "ai",
+   "news_ids": [
+    "058a1939d2da4371"
+   ],
+   "refs": [
+    {
+     "id": "058a1939d2da4371",
+     "title": "42AI comes out of stealth with $62.5M and a world model that can ‘predict human behavior’",
+     "source": "TechCrunch",
+     "url": "https://techcrunch.com/2026/11/02/42ai-comes-out-of-stealth-with-62-5m-and-a-world-model-that-can-predict-human-behavior/",
+     "published_at": 1793637000.0
+    }
+   ]
+  },
+  {
+   "text": "【ai】IT之家 11 月 3 日消息，苹果今日发布 2026 财年（2025 年 9 月 28 日～2026 年 9 月 26 日）年报及第四财季（2",
+   "keyword": "ai",
+   "news_ids": [
+    "7ae3c540c36da1e4"
+   ],
+   "refs": [
+    {
+     "id": "7ae3c540c36da1e4",
+     "title": "苹果 2026 财年归母净利润 1321.75 亿美元同比增长 18%，iPhone、Mac 和服务业务收入及大中华区净销售额均实现增长",
+     "source": "IT之家",
+     "url": "https://www.ithome.com/1/021/283.htm",
+     "published_at": 1793655302.0
+    }
+   ]
+  },
+  {
+   "text": "【ai】IT之家 11 月 3 日消息，苹果 COO 萨比赫 · 汗在第四财季财报电话会议上承认，新款折叠屏手机 iPhone Duo 交货延迟，供货紧",
+   "keyword": "ai",
+   "news_ids": [
+    "2b36f04509e1b8f1"
+   ],
+   "refs": [
+    {
+     "id": "2b36f04509e1b8f1",
+     "title": "苹果承认 iPhone Duo 折叠屏手机交货延迟，供货紧张何时缓解仍难以预测",
+     "source": "IT之家",
+     "url": "https://www.ithome.com/1/021/298.htm",
+     "published_at": 1793662789.0
+    }
+   ]
+  },
+  {
+   "text": "【the】Article URL: https://www",
+   "keyword": "the",
+   "news_ids": [
+    "b386db0edbdf611c"
+   ],
+   "refs": [
+    {
+     "id": "b386db0edbdf611c",
+     "title": "GUI64 – GUI for the Commodore 64 running on top of the built-in ROM",
+     "source": "Hacker News",
+     "url": "https://www.c64-wiki.com/wiki/GUI64",
+     "published_at": 1793662342.0
+    }
+   ]
+  },
+  {
+   "text": "IT之家 11 月 3 日消息，据央视新闻报道，北京时间 11 月 3 日 8 时 15 分，中科宇航力箭二号遥二运载火箭在东风商业航天创新试验",
+   "keyword": "",
+   "news_ids": [
+    "ee331b001d8c9d98"
+   ],
+   "refs": [
+    {
+     "id": "ee331b001d8c9d98",
+     "title": "中科宇航力箭二号遥二运载火箭发射成功，一箭 18 颗卫星",
+     "source": "IT之家",
+     "url": "https://www.ithome.com/1/021/315.htm",
+     "published_at": 1793667322.0
+    }
+   ]
+  },
+  {
+   "text": "IT之家 11 月 3 日消息，财经媒体人、“秦朔朋友圈”创始人秦朔昨日在微信朋友圈发布声明，称针对抖音集团副总裁李亮近期发布的“侵害本人名誉权",
+   "keyword": "",
+   "news_ids": [
+    "1964844c43e11918"
+   ],
+   "refs": [
+    {
+     "id": "1964844c43e11918",
+     "title": "财经媒体人秦朔就名誉权纠纷起诉抖音集团副总裁李亮，后者回应“会积极应诉”",
+     "source": "IT之家",
+     "url": "https://www.ithome.com/1/021/314.htm",
+     "published_at": 1793666951.0
+    }
+   ]
+  },
+  {
+   "text": "IT之家 11 月 3 日消息，据彭博社今天（3 日）上午援引知情人士消息称，迪士尼计划裁员数千人，部分管理人员被要求将年度成本削减 20%",
+   "keyword": "",
+   "news_ids": [
+    "70fc755fb7c4db1c"
+   ],
+   "refs": [
+    {
+     "id": "70fc755fb7c4db1c",
+     "title": "曝迪士尼计划裁员数千人，部分管理层被要求削减 20% 年度成本",
+     "source": "IT之家",
+     "url": "https://www.ithome.com/1/021/310.htm",
+     "published_at": 1793665915.0
+    }
+   ]
+  },
+  {
+   "text": "Raspberry Pi 再次上调 16 GB 产品价格、Keychron 推出 Q19 HE 8K 磁轴键盘等",
+   "keyword": "",
+   "news_ids": [
+    "9e186e4ae4773107"
+   ],
+   "refs": [
+    {
+     "id": "9e186e4ae4773107",
+     "title": "派早报：猛玛推出探境 3 直播相机、美团发布 LongCat-2.5 模型等",
+     "source": "少数派",
+     "url": "https://sspai.com/post/118232",
+     "published_at": 1793665114.0
+    }
+   ]
+  },
+  {
+   "text": "Article URL: https://finance",
+   "keyword": "",
+   "news_ids": [
+    "f7fd210d7230e3b4"
+   ],
+   "refs": [
+    {
+     "id": "f7fd210d7230e3b4",
+     "title": "Intel stock collapse worsens as $3.5T chip rout spreads",
+     "source": "Hacker News",
+     "url": "https://finance.yahoo.com/markets/article/the-intel-stock-collapse-is-getting-worse--and-the-37-trillion-chip-rout-is-spreading-212154947.html",
+     "published_at": 1793664533.0
+    }
+   ]
+  },
+  {
+   "text": "IT之家 11 月 3 日消息，据日经亚洲今天（3 日）上午报道，日本政府考虑修订汽车安全认证标准，允许 没有方向盘、制动踏板和加速踏板 的自动",
+   "keyword": "",
+   "news_ids": [
+    "6a088c21f4ae0527"
+   ],
+   "refs": [
+    {
+     "id": "6a088c21f4ae0527",
+     "title": "日本拟修订汽车安全认证标准，为 L4、L5 级自动驾驶车辆量产铺路",
+     "source": "IT之家",
+     "url": "https://www.ithome.com/1/021/304.htm",
+     "published_at": 1793664375.0
+    }
+   ]
+  },
+  {
+   "text": "IT之家 11 月 3 日消息，海关数据平台 NBD 的记录显示，华擎已有两款基于英特尔 Z970 芯片组的主板完成出货登记，型号分别为 Z97",
+   "keyword": "",
+   "news_ids": [
+    "e517107b7abfc87c"
+   ],
+   "refs": [
+    {
+     "id": "e517107b7abfc87c",
+     "title": "华擎 Z970 LiveMixer 与 Pro-A 主板现身海关记录，Nova Lake 中端平台进入出货准备阶段",
+     "source": "IT之家",
+     "url": "https://www.ithome.com/1/021/303.htm",
+     "published_at": 1793664035.0
+    }
+   ]
+  },
+  {
+   "text": "IT之家 11 月 3 日消息，据外媒 motor1 今天（3 日）凌晨报道，对于一直以燃油车“驾驶乐趣”著称的宝马而言，纯电车型的热销，却可能",
+   "keyword": "",
+   "news_ids": [
+    "1f9de0d7d743a664"
+   ],
+   "refs": [
+    {
+     "id": "1f9de0d7d743a664",
+     "title": "宝马高管：我们的纯电卖的好，反而有助于继续生产 V8 发动机",
+     "source": "IT之家",
+     "url": "https://www.ithome.com/1/021/301.htm",
+     "published_at": 1793663685.0
+    }
+   ]
+  },
+  {
+   "text": "一种体型微小、以敏锐视觉著称的跳蛛，正在让科学家重新思考“做梦”是否并非脊椎动物专属能力",
+   "keyword": "",
+   "news_ids": [
+    "ec4499550b2a1a6e"
+   ],
+   "refs": [
+    {
+     "id": "ec4499550b2a1a6e",
+     "title": "研究发现蜘蛛也会做梦 睡眠中的跳蛛展现类似REM睡眠行为",
+     "source": "cnBeta",
+     "url": "https://www.cnbeta.com.tw/articles/science/1584776.htm",
+     "published_at": 1793662575.0
+    }
+   ]
+  },
+  {
+   "text": "IT之家 11 月 3 日消息，在 11 月 2 日 2026 年香港金融科技周期间，腾讯旗下跨境支付平台 TenPay Global 与万事达",
+   "keyword": "",
+   "news_ids": [
+    "c5828e39f75e8d8c"
+   ],
+   "refs": [
+    {
+     "id": "c5828e39f75e8d8c",
+     "title": "腾讯 TenPay Global 与万事达卡签署合作备忘录，入境扫码支付、汇款与智能体支付同步推进",
+     "source": "IT之家",
+     "url": "https://www.ithome.com/1/021/294.htm",
+     "published_at": 1793661606.0
+    }
+   ]
+  },
+  {
+   "text": "IT之家 11 月 3 日消息，据央视今日报道，三峡集团确认我国首套专用于超深竖井的压力钢管智能焊接成套装备在浙江松阳抽水蓄能电站正式投用",
+   "keyword": "",
+   "news_ids": [
+    "70eac046e4f58832"
+   ],
+   "refs": [
+    {
+     "id": "70eac046e4f58832",
+     "title": "我国首套超深竖井智能焊接装备投用，超深地下工程装备自主化再迈关键一步",
+     "source": "IT之家",
+     "url": "https://www.ithome.com/1/021/292.htm",
+     "published_at": 1793661396.0
+    }
+   ]
+  }
+ ],
+ "article": {
+  "title": "2026-11-03 新闻总结",
+  "paragraphs": [
+   {
+    "kind": "lead",
+    "text": "今天共收录 107 条新闻，来自 6 家媒体。把标题放在一起看，讨论主要集中在 AI 这几个方向上，其余消息更像是零散补充。"
+   },
+   {
+    "kind": "section",
+    "heading": "大模型",
+    "text": "先看「大模型」。7 月 27 日小度 AI 智能手表 Fit 正式发布，定价为 198 元，另有 40 条消息指向同一话题。从节奏上看，行业已经从「能不能做」转向「做得便不便宜」，这通常意味着竞争会更务实。",
+    "news_ids": [
+     "de5715ec51c6085d"
+    ],
+    "refs": [
+     {
+      "id": "de5715ec51c6085d",
+      "title": "搭载百度文心大模型：小度 AI 手表 Fit 国补 138 元探底，轻薄大屏无感佩戴",
+      "source": "IT之家",
+      "url": "https://www.ithome.com/1/021/316.htm",
+      "published_at": 1793667423.0
+     }
+    ]
+   },
+   {
+    "kind": "section",
+    "heading": "利润",
+    "text": "与此同时「利润」。IT之家 11 月 3 日消息，苹果今日发布 2026 财年（2025 年 9 月 28 日～2026 年 9 月 26 日）年报及第四财季（2026 年 6 月 28 日～202…，另有 21 条消息指向同一话题。资本动作往往领先产品一年，值得盯的不是金额，而是钱最后花向了算力、场景还是补贴。",
+    "news_ids": [
+     "7ae3c540c36da1e4"
+    ],
+    "refs": [
+     {
+      "id": "7ae3c540c36da1e4",
+      "title": "苹果 2026 财年归母净利润 1321.75 亿美元同比增长 18%，iPhone、Mac 和服务业务收入及大中华区净销售额均实现增长",
+      "source": "IT之家",
+      "url": "https://www.ithome.com/1/021/283.htm",
+      "published_at": 1793655302.0
+     }
+    ]
+   },
+   {
+    "kind": "section",
+    "heading": "手机",
+    "text": "另一个值得注意的方向是「手机」。IT之家 11 月 3 日消息，苹果 COO 萨比赫 · 汗在第四财季财报电话会议上承认，新款折叠屏手机 iPhone Duo 交货延迟，另有 7 条消息指向同一话题。融资和估值只能说明市场情绪，能不能兑现，还要看下一两个季度的收入和留存。",
+    "news_ids": [
+     "2b36f04509e1b8f1"
+    ],
+    "refs": [
+     {
+      "id": "2b36f04509e1b8f1",
+      "title": "苹果承认 iPhone Duo 折叠屏手机交货延迟，供货紧张何时缓解仍难以预测",
+      "source": "IT之家",
+      "url": "https://www.ithome.com/1/021/298.htm",
+      "published_at": 1793662789.0
+     }
+    ]
+   },
+   {
+    "kind": "section",
+    "heading": "卫星",
+    "text": "相比之下「卫星」。IT之家 11 月 3 日消息，据央视新闻报道，北京时间 11 月 3 日 8 时 15 分，中科宇航力箭二号遥二运载火箭在东风商业航天创新试验区发射升空。对读者来说，值得留意的不是结论本身，而是它背后哪些前提正在被改变。",
+    "news_ids": [
+     "ee331b001d8c9d98"
+    ],
+    "refs": [
+     {
+      "id": "ee331b001d8c9d98",
+      "title": "中科宇航力箭二号遥二运载火箭发射成功，一箭 18 颗卫星",
+      "source": "IT之家",
+      "url": "https://www.ithome.com/1/021/315.htm",
+      "published_at": 1793667322.0
+     }
+    ]
+   },
+   {
+    "kind": "glossary",
+    "items": [
+     {
+      "term": "AI",
+      "desc": "人工智能，让机器完成识别、生成、判断等原本需要人做的任务"
+     },
+     {
+      "term": "IPO",
+      "desc": "首次公开募股，公司第一次把股票卖给公众并上市"
+     },
+     {
+      "term": "API",
+      "desc": "应用程序接口，让不同软件按约定好的方式互相调用"
+     },
+     {
+      "term": "Agent",
+      "desc": "智能体，能自己拆解任务、调用工具并连续执行的 AI 程序"
+     },
+     {
+      "term": "新能源",
+      "desc": "相对煤炭石油而言的清洁能源，常见的是光伏、风电和储能"
+     },
+     {
+      "term": "大模型",
+      "desc": "参数量巨大的神经网络，靠海量文本训练出语言理解与生成能力"
+     }
+    ]
+   },
+   {
+    "kind": "outlook",
+    "text": "整体看，这个时段的新闻还处在「消息多、结论少」的阶段，与其急着下判断，不如盯住接下来一两周有没有可验证的后续动作。"
+   }
+  ],
+  "word_count": 635
+ },
+ "ai_enhanced": false,
+ "schema": 1,
+ "window_bj": {
+  "start": "2026-11-03 00:00",
+  "end": "2026-11-03 09:00"
+ }
+}
