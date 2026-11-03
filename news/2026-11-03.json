@@ -1,8 +1,26 @@
 {
  "date": "2026-11-03",
- "generated_at": 1793670857.412725,
- "count": 126,
+ "generated_at": 1793673787.1823225,
+ "count": 143,
  "items": [
+  {
+   "id": "09d4cc05f5dea9b5",
+   "source": "InfoQ中文",
+   "title": "框架选不对，Claude 开发成本多一倍：前端十年框架膨胀，终于有人买单了",
+   "url": "https://www.infoq.cn/article/M6Q9I3DFrozJOREx9ztL?utm_source=rss&utm_medium=article",
+   "summary": "点击查看原文>",
+   "published_at": 1793702284.0,
+   "published_bj": "2026-11-03 18:38"
+  },
+  {
+   "id": "a1ffa0f97b62048c",
+   "source": "InfoQ中文",
+   "title": "从提效到扩能：AI 驱动小团队的能力突破与组织演进｜AICon北京",
+   "url": "https://www.infoq.cn/article/DliBOqGrOaxaXvqlBjGR?utm_source=rss&utm_medium=article",
+   "summary": "点击查看原文>",
+   "published_at": 1793700000.0,
+   "published_bj": "2026-11-03 18:00"
+  },
   {
    "id": "5a672d8e365cf2d3",
    "source": "InfoQ中文",
@@ -11,6 +29,123 @@
    "summary": "点击查看原文>",
    "published_at": 1793696454.0,
    "published_bj": "2026-11-03 17:00"
+  },
+  {
+   "id": "7901ad74552107dd",
+   "source": "IT之家",
+   "title": "苹果全球活跃设备超 25 亿台，2026 财年第四财季服务收入再创新高",
+   "url": "https://www.ithome.com/1/021/353.htm",
+   "summary": "IT之家 11 月 3 日消息，科技媒体 AppleInsider 今天（11 月 3 日）发布博文，报道称在最新财报电话会议上，苹果首席执行官约翰 · 特努斯（John Ternus）重申， 苹果全球活跃设备装机量已超过 25 亿台。 IT之家援引博文介绍，该数据统计口径为“设备数”而非独立用户数，涵盖 iPhone、iPad、Mac、Apple Watch 等主要产品，且在所有主要产品类别和地区均实现增长。 该数据并非首次公布，在 2026 年 1 月召开的财报会议上，苹果宣布截至 2026 年 1 月， 其全球活跃设备安装量已超过 25 亿台。 该媒体指出这一庞大的设备基数，正成为苹果服",
+   "published_at": 1793673750.0,
+   "published_bj": "2026-11-03 10:42"
+  },
+  {
+   "id": "0b26b983607a073e",
+   "source": "IT之家",
+   "title": "OpenAI 下一代 GPT-6.2 Astra 正灰度测试，Codex 用量统计中已单独列出",
+   "url": "https://www.ithome.com/1/021/352.htm",
+   "summary": "IT之家 11 月 3 日消息，经大量用户反馈，OpenAI 下一代模型 GPT-6.2 Astra 疑似已进入小范围测试，部分 Codex 用户的使用量统计中已经出现独立模型标识「gpt-6.2-astra」。 不过，截至目前，OpenAI 官方 API 模型目录、更新日志及公开公告均未确认这一型号，OpenAI 也没有确认其发布时间。 据科技媒体 TestingCatalog 昨日报道，多个 Codex 用户在使用量分析页面发现了这一新模型标识。不同用户分享的截图显示，GPT-6.2 Astra 已经占据部分账户的模型调用量，IT之家注意到其中一个账户的占比达到 19.8%（相关记录主要出",
+   "published_at": 1793673167.0,
+   "published_bj": "2026-11-03 10:32"
+  },
+  {
+   "id": "ba307c2446e85ebe",
+   "source": "IT之家",
+   "title": "豪掷 457.65 亿美元：苹果 2026 财年研发费用同比增 32% 创历史新高，加码 AI 投入",
+   "url": "https://www.ithome.com/1/021/351.htm",
+   "summary": "IT之家 11 月 3 日消息，科技媒体 9to5Mac 今天（11 月 3 日）发布博文，报道称基于官方披露数据，2026 财年（2025 年 9 月 28 日～2026 年 9 月 26 日）第四财季（2026 年 6 月 28 日–9 月 26 日）苹果研发费用为 117.30 亿美元 （IT之家注：现汇率约合 781.85 亿元人民币） ，上年同期为 88.66 亿美元 （现汇率约合 590.95 亿元人民币） ，同比增长约 32.3%； 2026 全财年研发费用为 457.65 亿美元 （现汇率约合 3,050.42 亿元人民币） ，上年为 345.50 亿美元 （现汇率约合 2,3",
+   "published_at": 1793673058.0,
+   "published_bj": "2026-11-03 10:30"
+  },
+  {
+   "id": "e80d739ab190998f",
+   "source": "IT之家",
+   "title": "英飞凌携手高通，整合 MCU 子系统与骁龙 Ride / Ride Flex 汽车平台",
+   "url": "https://www.ithome.com/1/021/350.htm",
+   "summary": "IT之家 11 月 3 日消息，Infineon（英飞凌）德国当地时间 2 日宣布将与 Qualcomm（高通）合作加速 SDV（软件定义车辆）中央车载计算机的开发和部署。 根据双方签署的协议， 高通骁龙 Ride / Ride Flex 参考平台将整合由英飞凌 MCU（微控制器）驱动的子系统 ，将高通的平台能力和高性能 SoC 与英飞凌在安全管理、连接性、内存管理方面的软硬件专长相结合。 作为骁龙 Ride / Ride Flex 参考平台的补充，英飞凌 MCU 子系统具备系统健康状况监控、安全机制协调、关键安全功能可预测实时控制能力，可帮助协调骁龙 Ride 平台的高级计算和人工智能功能与",
+   "published_at": 1793673051.0,
+   "published_bj": "2026-11-03 10:30"
+  },
+  {
+   "id": "6bbcdccb93d7c0a5",
+   "source": "IT之家",
+   "title": "全国放心消费平台正式上线：可扫码查看附近放心消费商家，百度地图、美团外卖、淘宝闪购、京东外卖已接入",
+   "url": "https://www.ithome.com/1/021/346.htm",
+   "summary": "IT之家 11 月 3 日消息，市场监管总局今日官宣，按照《优化消费环境三年行动方案（2025—2027 年）》《扩大消费“十五五”规划》等明确部署，市场监管总局正在全面推进放心消费单元和集聚区培育，在全国打造一批放心消费新场景、新地标、新品牌，改善消费体验、提振消费信心。 为了全面支撑和规范全国放心消费主体培育工作，为广大经营者和消费者提供一站式服务，市场监管总局创新建设了全国放心消费平台（微信搜索“ 消费查 ”小程序即可登录），于 11 月 3 日正式上线。 平台集成《全国放心消费单元和集聚区培育指引（试行）》的放心消费培育全流程。商家在平台上注册、在线承诺并经核验公示后即可参与放心消费承",
+   "published_at": 1793672487.0,
+   "published_bj": "2026-11-03 10:21"
+  },
+  {
+   "id": "54b848d541cf021c",
+   "source": "IT之家",
+   "title": "应对服务业务增长压力，苹果有意通过第三方应用寻找“新商机”",
+   "url": "https://www.ithome.com/1/021/344.htm",
+   "summary": "IT之家 11 月 3 日消息，据外媒 TechCrunch 报道，苹果服务业务规模仍处于历史高位，增长压力同时也在不断加大。作为服务业务的核心，App Store 受到监管趋严和手游市场低迷的双重影响，拖累了整体业务增长。 不过，苹果在北京时间今天（3 日）早间的财报电话会议上透露，公司有意 通过第三方应用寻找新的服务业务收入来源 。 苹果 CFO 凯文 · 帕雷克在谈及 AI 未来可能带来的收入增长时提到：“从产品层面来看，我们认为 AI 能够吸引消费者升级设备或转投苹果产品，以体验最新功能。此外，第三方应用、合作业务以及苹果自有业务 也都有发展机会 。” 帕雷克没有具体说明第三方应用能够",
+   "published_at": 1793672267.0,
+   "published_bj": "2026-11-03 10:17"
+  },
+  {
+   "id": "d9bbdd2043c00792",
+   "source": "IT之家",
+   "title": "OpenAI Tibo“28 天更新挑战”以两次重置收尾，共 14 天发放 Codex / ChatGPT Work 额度重置",
+   "url": "https://www.ithome.com/1/021/343.htm",
+   "summary": "IT之家 11 月 3 日消息，OpenAI Codex 与 ChatGPT Work 团队负责人 Thibault Sottiaux（Tibo）发起的「28 天更新挑战」已于 11 月 2 日正式结束。 这项挑战最终以 11 月 1 日、11 月 2 日连续两天发放“额度重置卡”收尾，分别对应挑战第 27 天和第 28 天。 Tibo 于北京时间 10 月 5 日在 X 上宣布开启“28 天挑战”，在未来 28 天内每天推出一项对大多数 Codex / ChatGPT Work 用户而言具有实际意义的明显改进，否则就向用户发放一次完整额度重置。 IT之家注：最后两天重置并不代表整个 28 天",
+   "published_at": 1793672140.0,
+   "published_bj": "2026-11-03 10:15"
+  },
+  {
+   "id": "cff3971cbf744786",
+   "source": "IT之家",
+   "title": "苹果为第四代 Apple TV 4K 推送专属 24K154 更新，可启用 Siri AI",
+   "url": "https://www.ithome.com/1/021/342.htm",
+   "summary": "IT之家 11 月 3 日消息，科技媒体 9to5Mac 昨日（11 月 2 日）发布博文，报道称在 Apple TV 4K（第四代）11 月 13 日上市开售之前， 苹果悄然为其推送专属 tvOS 27.2 更新。 版本号方面，该版本内部代号为 24K154，而 上周面向现有 Apple TV 设备推出的 tvOS 27.2 版本号为 24K122 ，意味着新款 Apple TV 4K 上市后将预装更新的系统版本。 在更新内容方面，苹果公司尚未单独公布 24K154 内容，不过开发者 @itspdfu 指出，在该版本中，苹果为新款 Apple TV 4K 适配启用 Siri AI。 在模拟 ",
+   "published_at": 1793671623.0,
+   "published_bj": "2026-11-03 10:07"
+  },
+  {
+   "id": "4bbffc0828762cfd",
+   "source": "IT之家",
+   "title": "华硕 ROG 术士 98 X 三模机械键盘上架，11 月 9 日到手价 999 元",
+   "url": "https://www.ithome.com/1/021/340.htm",
+   "summary": "IT之家 11 月 3 日消息，华硕 (ASUS) 现已在电商平台上架 ROG 术士 98 X 无线游戏键盘 (ROG Strix Morph 96 X Wiress)。这一型号将于 11 月 9 日 20:00 发售，国家补贴后到手价为 999 元。 术士 98 X 是原版术士 98 的升级型号， 拥有红-白-灰撞色 PBT 材质染料热升华工艺键帽 、CNC 加工铝合金上盖、ROG NX V2 机械轴、PC 定位板、硅胶泡棉、南向热插拔 PCB、硅胶垫、底壳。 其集成多功能按钮、滚轮与双侧灯条，2 对不同高度的键盘脚提供 3 种倾斜角度选择，随附加长型人体工学硅胶腕托。 天猫 华硕 ROG ",
+   "published_at": 1793671455.0,
+   "published_bj": "2026-11-03 10:04"
+  },
+  {
+   "id": "b2fe99aa1617bc46",
+   "source": "IT之家",
+   "title": "Meta 回应与中国企业傅利叶合作开发人形机器人：美国供应链不给力，原型机暂无出售计划",
+   "url": "https://www.ithome.com/1/021/339.htm",
+   "summary": "IT之家 11 月 3 日消息，据 The Information 此前报道， Meta 最近与中国企业傅利叶（Fourier）合作 ，打造一款名为 Max 的人形机器人原型。 据介绍，这款机器人研发用时三个月，其身高接近 5 英尺 （IT之家注：约 1.5 米） ，体重约 106 磅 （约 48.1 千克） ，搭载英伟达 Thor 芯片。Meta 首席执行官马克 · 扎克伯格将这款人形机器人，视为 Muse 人工智能模型的“物理化身”，认为它能够承担日常家务。 报道称，两家公司已在今年 9 月启动 Max 2 原型产品的研发工作。新机器人预计将重新设计躯干部分，并进行其他常规升级。Meta ",
+   "published_at": 1793671443.0,
+   "published_bj": "2026-11-03 10:04"
+  },
+  {
+   "id": "ac21ee94243be821",
+   "source": "IT之家",
+   "title": "MIT 研究者提出「权重空间编程」：GPT-6 Astra 仅修改 Qwen3.5-0.8B 约 0.016% 权重，数学成绩提升至原来 6 倍",
+   "url": "https://www.ithome.com/1/021/337.htm",
+   "summary": "IT之家 11 月 3 日消息，麻省理工学院计算机科学与人工智能实验室（MIT CSAIL）的研究人员提出了一种名为「权重空间编程」（Weight-Space Programming）的新方法。 他们让 OpenAI 的 GPT-6 Astra 直接分析并修改阿里云通义千问热门模型 Qwen3.5-0.8B 的神经网络权重，仅调整约 0.016% 的参数，就将该模型在 MATH-500 数学基准测试中的成绩从 7.9% 提升至 48.1%，达到原来的约 6.1 倍。据称，整个过程没有使用梯度下降或传统训练循环。 这项研究由 Rikiya Takehi、Jayden Teoh、Alex Zhan",
+   "published_at": 1793671255.0,
+   "published_bj": "2026-11-03 10:00"
+  },
+  {
+   "id": "70aa2d35a373030a",
+   "source": "IT之家",
+   "title": "OpenAI 发布 LifeVal 基准：从选幼儿园到报税，测试 AI 的“人间烟火”技能",
+   "url": "https://www.ithome.com/1/021/336.htm",
+   "summary": "IT之家 11 月 3 日消息，OpenAI 于 11 月 2 日发布名为 LifeVal 的新基准， 用来衡量 AI 模型能否真正帮助普通人完成日常事务，该公司称这一评估旨在让通用 AI 更贴近“对人类最有用的日常帮助”。 在 LifeVal 的任务设计上，OpenAI 首先参考了美国的“美国人时间使用调查”和跨国“多国时间使用调查”，随后又对 3,995 名具有人口代表性受访者开展调查，询问他们最希望个人 AI 助手在哪些事务上提供帮助。 据此，LifeVal 覆盖照护、健康、教育、家庭行政、个人财务、购物以及获取政府服务等场景。典型任务包括：搬家后为孩子挑选并报名合适的幼儿园、为患糖尿病",
+   "published_at": 1793670894.0,
+   "published_bj": "2026-11-03 09:54"
+  },
+  {
+   "id": "ce8e4d853be27a16",
+   "source": "Hacker News",
+   "title": "Show HN: Hacker Times, a New York Times-Inspired Version Hacker News",
+   "url": "https://hackertimes.ca/",
+   "summary": "I thought it would be fun to browse HN as if it were a newspaper. The site updates once an hour. Enjoy! Comments URL: https://news.ycombinator.com/item?id=50346981 Points: 32 # Comments: 6",
+   "published_at": 1793670814.0,
+   "published_bj": "2026-11-03 09:53"
   },
   {
    "id": "7efdeaaac6c9cccf",
@@ -74,6 +209,15 @@
    "summary": "IT之家 11 月 3 日消息，宁德时代 (CATL) 上月末在澳大利亚 All Energy Australia 2026 上全球首发 TENER+ 电池储能系统。 这一系统 储能容量达 9MWh ，采用液体冷却，使用寿命达 25 年； 可减少 40% 的储能集装箱数量和 12% 的占地面积 ；1m 处噪声＜65dB(A)。 TENER+ 采用“无热岛”的顶部排气设计，将 热空气垂直向上排出 ，最大限度地减少对邻近设备的热影响；此外其智能热管理系统 支持更高的往返效率和更低的辅助功耗 ，可快速简易地同时控制多个 TENER+ 电池。",
    "published_at": 1793670232.0,
    "published_bj": "2026-11-03 09:43"
+  },
+  {
+   "id": "80506a411b7c391c",
+   "source": "Hacker News",
+   "title": "DiscImageStudio: burn visible artwork onto CDs, DVDs and Blu-ray discs",
+   "url": "https://github.com/JiaFeiMiao-K-Cat/DiscImageStudio",
+   "summary": "Article URL: https://github.com/JiaFeiMiao-K-Cat/DiscImageStudio Comments URL: https://news.ycombinator.com/item?id=50346849 Points: 39 # Comments: 8",
+   "published_at": 1793669623.0,
+   "published_bj": "2026-11-03 09:33"
   },
   {
    "id": "a0f91aa80cea49f5",
@@ -640,6 +784,15 @@
    "url": "https://www.techpolicy.press/the-sec-should-block-anthropics-ipo-to-protect-the-public/",
    "summary": "Article URL: https://www.techpolicy.press/the-sec-should-block-anthropics-ipo-to-protect-the-public/ Comments URL: https://news.ycombinator.com/item?id=50344919 Points: 55 # Comments: 15",
    "published_at": 1793658647.0,
+   "published_bj": "2026-11-03 06:30"
+  },
+  {
+   "id": "17b9b7d7e4bdfa81",
+   "source": "Hacker News",
+   "title": "V100 SXM2 pinout and NVLink reference",
+   "url": "https://github.com/pigeon-labs-stack/v100-sxm2-reference",
+   "summary": "Article URL: https://github.com/pigeon-labs-stack/v100-sxm2-reference Comments URL: https://news.ycombinator.com/item?id=50344912 Points: 9 # Comments: 1",
+   "published_at": 1793658613.0,
    "published_bj": "2026-11-03 06:30"
   },
   {
