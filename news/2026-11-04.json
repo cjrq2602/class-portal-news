@@ -1,7 +1,7 @@
 {
  "date": "2026-11-04",
- "generated_at": 1793737643.2737904,
- "count": 52,
+ "generated_at": 1793741020.4790163,
+ "count": 59,
  "items": [
   {
    "id": "a52058f243443cf0",
@@ -11,6 +11,69 @@
    "summary": "点击查看原文>",
    "published_at": 1793741192.0,
    "published_bj": "2026-11-04 05:26"
+  },
+  {
+   "id": "351d66170bc71623",
+   "source": "TechCrunch",
+   "title": "Hiding inside Palantir’s skyrocketing quarter is a foreboding signal",
+   "url": "https://techcrunch.com/2026/11/03/hiding-inside-palantirs-skyrocketing-quarter-is-a-foreboding-signal/",
+   "summary": "Palantir delivered such a huge third-quarter earnings report on Monday that its press release even bragged that the numbers were &#8220;crushing consensus expectations.&#8221; Yet, retail investors were lukewarm on the company on Tuesday, with the stock trading slightly down. That&#8217;s because Pa",
+   "published_at": 1793739955.0,
+   "published_bj": "2026-11-04 05:05"
+  },
+  {
+   "id": "35fc186433b48fcc",
+   "source": "IT之家",
+   "title": "苹果向 AirPods 5 等耳机推送 Beta 测试固件 9B5045a 更新",
+   "url": "https://www.ithome.com/1/021/870.htm",
+   "summary": "IT之家 11 月 4 日消息，科技媒体 MacRumors 今天（11 月 4 日）发布博文，报道称苹果面向开发者和公开测试用户， 推送适用于 AirPods 5 等耳机产品的 Beta 测试版本，固件版本号为 9B5045a。 IT之家援引博文介绍，本次 Beta 测试版本固件适用于以下 AirPods 耳机： AirPods Pro 2 AirPods Pro 3 AirPods 4 AirPods 5 AirPods Max 2 更新内容方面，苹果惯例没有为 AirPods 测试版固件提供更新日志，因此暂时无法确认新版是否加入新功能，或针对哪些问题进行了修复。 安装流程方面，用户需要将",
+   "published_at": 1793739921.0,
+   "published_bj": "2026-11-04 05:05"
+  },
+  {
+   "id": "638ea4f5baaa82be",
+   "source": "IT之家",
+   "title": "Siri AI 将实现跨 App 办事：苹果开放“应用技能”，一句话串联多个应用任务",
+   "url": "https://www.ithome.com/1/021/869.htm",
+   "summary": "IT之家 11 月 4 日消息，科技媒体 9to5Mac 今天（11 月 4 日）发布博文， 报道称苹果宣布向第三方开发者开放 Siri AI 的全新“应用技能”（App Skills），让应用能够指导 Siri 执行更复杂的多步骤任务。 相关功能将随 iOS 27.3、macOS 27.3 及同期系统更新推出，目前新版系统仍处于开发者测试阶段。 该媒体指出本次 Siri 升级主要扩展应用协调能力，Siri 不仅要理解用户想做什么，还能根据应用提供的技能，调用相应的应用操作并串联执行。相比早期仅支持有限预设模式的 Siri AI，新机制进一步扩大了第三方应用的接入范围，也让复杂请求有了更清晰的",
+   "published_at": 1793739557.0,
+   "published_bj": "2026-11-04 04:59"
+  },
+  {
+   "id": "8d85de33c1e050ed",
+   "source": "TechCrunch",
+   "title": "Orbital Matter 3D printed the first rigid beam in the vacuum of space",
+   "url": "https://techcrunch.com/2026/11/03/orbital-matter-3d-printed-the-first-rigid-beam-in-the-vacuum-of-space/",
+   "summary": "An in-space construction first could be an enabler for the space data centers of the future.",
+   "published_at": 1793739437.0,
+   "published_bj": "2026-11-04 04:57"
+  },
+  {
+   "id": "64c55470fab447bc",
+   "source": "IT之家",
+   "title": "外屏太宽够不着？苹果 iOS 27.3 测试版改善 iPhone Duo 单手操作体验",
+   "url": "https://www.ithome.com/1/021/868.htm",
+   "summary": "IT之家 11 月 4 日消息，科技媒体 MacRumors 今天（11 月 4 日）发布博文，报道称在 iOS 27.3 首个 Beta 开发者预览版中，苹果为其首款折叠 iPhone Duo，引入了“便捷访问”（Reachability）功能。 用户可通过横向滑动，将屏幕内容向左或向右移动，让原本难以触及的界面区域靠近拇指，改善单手操作体验。 该媒体指出 iPhone Duo 于 10 月 23 日发售后，部分评测者反映，超宽外屏增加了单手使用的难度。苹果随后表示，将通过软件更新引入便捷访问功能，如今这一承诺已在测试版中落地。 与其他 iPhone 通过下移界面方便用户触及屏幕上方不同，i",
+   "published_at": 1793738773.0,
+   "published_bj": "2026-11-04 04:46"
+  },
+  {
+   "id": "52b2c4330c31b589",
+   "source": "IT之家",
+   "title": "国行 Apple 智能首批上线核心功能汇总：AirPods 实时翻译登场，iPhone 可联手千问实现更多功能",
+   "url": "https://www.ithome.com/1/021/867.htm",
+   "summary": "IT之家 11 月 4 日消息，苹果今日凌晨面向 iPhone 推送了首个 iOS 27.3 开发者预览版， 如约为国行用户带来了「Apple 智能与 Siri」 。 IT之家在第一时间上手体验了国行 Apple 智能首批上线的核心功能，现为大家汇总亮点如下： 新增 Siri 呼出灯效 感知最为明显的变化就是长按电源键呼出 Siri，屏幕会出现一圈跑马灯特效。 实时翻译 实时翻译功能已整合到信息、FaceTime 通话和电话 App 中，支持用户在通话及消息场景中获得翻译体验。同时，在面对面交流场景中，实时翻译还将扩展至 AirPods（需安装最新固件并与启用 Apple 智能的 iPhone",
+   "published_at": 1793737894.0,
+   "published_bj": "2026-11-04 04:31"
+  },
+  {
+   "id": "dba96a8118d800f5",
+   "source": "IT之家",
+   "title": "苹果 iOS 27.3 扩展 Siri AI：支持繁体中文、覆盖 15 款 App 操作，能管理文件 / 定时发送信息等",
+   "url": "https://www.ithome.com/1/021/866.htm",
+   "summary": "IT之家 11 月 4 日消息，科技媒体 MacRumors 今天（11 月 4 日）发布博文， 报道称在今天推送的 iOS 27.3 首个 Beta 开发者预览版中，苹果公司进一步扩展 Siri AI 在应用内及跨应用执行任务的能力。 IT之家注：伴随着 iOS 27.3 发布， 国行“Apple 智能与 Siri”如期上线 ，但下文介绍的相关功能 / 特性国内暂未上线。 在语言支持方面，Siri AI 上线初期仅支持英语，在 iOS 27.2 更新中上线法语、日语、韩语、葡萄牙语和西班牙语。而在本次更新中，苹果公司进一步扩展支持繁体中文、挪威语、土耳其语以及越南语， 让总支持语言数量达到 ",
+   "published_at": 1793737676.0,
+   "published_bj": "2026-11-04 04:27"
   },
   {
    "id": "df0e6565219ab153",
