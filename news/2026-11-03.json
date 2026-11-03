@@ -1,8 +1,44 @@
 {
  "date": "2026-11-03",
- "generated_at": 1793681164.2164476,
- "count": 183,
+ "generated_at": 1793684808.8442702,
+ "count": 198,
  "items": [
+  {
+   "id": "0cbbee4d1a84acea",
+   "source": "InfoQ中文",
+   "title": "Netflix 通过工作负载认证将 AWS IAM 与内部身份系统连接了起来",
+   "url": "https://www.infoq.cn/article/PJdTzbUNPBhvKEd6QuxZ?utm_source=rss&utm_medium=article",
+   "summary": "点击查看原文>",
+   "published_at": 1793711040.0,
+   "published_bj": "2026-11-03 21:04"
+  },
+  {
+   "id": "45a284e00546dbca",
+   "source": "InfoQ中文",
+   "title": "微软向6万员工发出自愿离职邀请：覆盖全球超四分之一员工，副总裁也在列",
+   "url": "https://www.infoq.cn/article/UNTqkzASI7dJuq65kSNZ?utm_source=rss&utm_medium=article",
+   "summary": "点击查看原文>",
+   "published_at": 1793711023.0,
+   "published_bj": "2026-11-03 21:03"
+  },
+  {
+   "id": "b029d3195671e084",
+   "source": "InfoQ中文",
+   "title": "Anthropic团队零Rust经验起步，靠Claude完成核心API跨语言重构：CPU省40%，延迟降20%",
+   "url": "https://www.infoq.cn/article/IMWM7ZXDi99sMiUVZBIF?utm_source=rss&utm_medium=article",
+   "summary": "点击查看原文>",
+   "published_at": 1793710301.0,
+   "published_bj": "2026-11-03 20:51"
+  },
+  {
+   "id": "dd0a7dc24cd8a440",
+   "source": "InfoQ中文",
+   "title": "“别再像 2024 年那样用 Claude 了！”Claude Cowork 工程负责人：有些 Skill 删掉反而更好",
+   "url": "https://www.infoq.cn/article/xaWSKT3MlZjbuJw16Vem?utm_source=rss&utm_medium=article",
+   "summary": "点击查看原文>",
+   "published_at": 1793710191.0,
+   "published_bj": "2026-11-03 20:49"
+  },
   {
    "id": "4d5662d5cc780e0b",
    "source": "InfoQ中文",
@@ -56,6 +92,96 @@
    "summary": "点击查看原文>",
    "published_at": 1793696454.0,
    "published_bj": "2026-11-03 17:00"
+  },
+  {
+   "id": "d92f8ac7ea707519",
+   "source": "IT之家",
+   "title": "官方揭秘 Win11 原生测速体验：专业工程师主导，AI 辅助开发",
+   "url": "https://www.ithome.com/1/021/519.htm",
+   "summary": "IT之家 11 月 3 日消息，微软 Windows 和设备部门设计与研究负责人马库斯 · 阿什（Marcus Ash）于 10 月 31 日在 X 平台发布推文，称在 Windows 11 Build 26340.9767 等预览版更新中， 正在测试原生测速功能。 IT之家曾于 10 月 24 日报道，在该预览版中， 微软调整系统内置测速功能，不再跳转 Bing，改为系统原生界面 。 在此前 Windows 11 版本中，用户点击任务栏或网络菜单中的“测速”选项后，系统会跳转到默认浏览器并打开 Bing 的测速页面。 Windows 11 此前版本中速度测试快捷方式会打开浏览器；现在它会以弹",
+   "published_at": 1793684454.0,
+   "published_bj": "2026-11-03 13:40"
+  },
+  {
+   "id": "967f01b1bd5b75e4",
+   "source": "cnBeta",
+   "title": "韩国总统李在明下令研究组建网络安全特别工作组",
+   "url": "https://www.cnbeta.com.tw/articles/tech/1584782.htm",
+   "summary": "韩国总统李在明周二指示相关官员考虑组建一个网络安全特别工作组，专门致力于加强网络安全，以应对针对金融机构的黑客攻击事件日益增多的局面。 阅读全文",
+   "published_at": 1793684359.0,
+   "published_bj": "2026-11-03 13:39"
+  },
+  {
+   "id": "2e870d5bac0a946b",
+   "source": "cnBeta",
+   "title": "小米YU7首付7.99元起？雷军微博写错价格后紧急更正",
+   "url": "https://www.cnbeta.com.tw/articles/tech/1584780.htm",
+   "summary": "小米集团董事长、CEO雷军今日在微博上发文宣传小米YU7购车新政策， 却写错了产品价格，将“首付7.99元万起”写成了“首付7.99元起”，引发网友围观。 阅读全文",
+   "published_at": 1793683975.0,
+   "published_bj": "2026-11-03 13:32"
+  },
+  {
+   "id": "f2297f39d74d03b4",
+   "source": "cnBeta",
+   "title": "瑞幸与王者荣耀真人新联名被质疑 网友：太丑了",
+   "url": "https://www.cnbeta.com.tw/articles/game/1584778.htm",
+   "summary": "近日，瑞幸与王者荣耀KPL十周年联手，将梦泪、Fly、一诺、等10位选手的真人与英雄形象印制在杯身、纸袋上，活动分两弹于10月26日和11月2日陆续上线。 阅读全文",
+   "published_at": 1793683961.0,
+   "published_bj": "2026-11-03 13:32"
+  },
+  {
+   "id": "778826a6c46ffc7d",
+   "source": "IT之家",
+   "title": "买一得二：京东 PLUS + 网易云音乐联合会员年卡 118 元限时发车",
+   "url": "https://www.ithome.com/1/021/510.htm",
+   "summary": "京东 PLUS + 网易云音乐联合会员年卡日常活动价 414 元，今日直降至 128 元。 叠加 10 元平台补贴券，到手价 118 元： 京东 京东 PLUS + 网易云音乐 双会员 年卡 券后 118 元 领 10 元券 京东 11.11 红包至高 26888 元无门槛可用，每天可抽一次： 点此抽取 。 芒果 TV 会员年卡官方售价 216 元 / 年。 京东 PLUS 会员年卡官方售价 198 元 / 年。 充值请填写手机号，不支持第三方账号（如 QQ / 微信 / 微博）直接充值。 下单前需要查询京东 PLUS 开通权限及查询充值次数是否达到上限。 京东 京东 PLUS + 网易云音乐",
+   "published_at": 1793683684.0,
+   "published_bj": "2026-11-03 13:28"
+  },
+  {
+   "id": "8317317294c10288",
+   "source": "IT之家",
+   "title": "YC 掌门人加里 · 谭每年至少 10 万美元用 AI：连 20 年前的隐私都交给它",
+   "url": "https://www.ithome.com/1/021/507.htm",
+   "summary": "北京时间 11 月 3 日，据科技媒体 TechCrunch 报道，硅谷知名创业孵化器 Y Combinator（YC）首席执行官加里 · 谭（Garry Tan）近日透露，他每年在 AI 智能体上花费约 10 万至 20 万美元（约合人民币 71 万至 142 万元）。这些 AI 不仅帮助他完成工作任务，还能读取他的电子邮件、私人笔记，甚至 20 年前的心理咨询记录。 在即将于当地时间周二播出的沃尔特 · 艾萨克森（Walter Isaacson）播客节目《The Builders》中，谭谈到了自己对 AI 智能体的高度依赖。 “我每年大概会花 10 万到 20 万美元购买 Token。”谭",
+   "published_at": 1793683640.0,
+   "published_bj": "2026-11-03 13:27"
+  },
+  {
+   "id": "2a6ec0e617e01a7f",
+   "source": "IT之家",
+   "title": "报告称红果免费短剧用户量超越豆包，成为抖音集团第二大应用",
+   "url": "https://www.ithome.com/1/021/502.htm",
+   "summary": "IT之家 11 月 3 日消息，QuestMobile 今日发布 2026 中国移动互联网秋季大报告，截止到 2026 年 9 月，移动互联网月活用户规模达到 12.81 亿 ，同比增长 0.9%。 从用户结构上看， 46 岁以上用户突破四成 ，同比增加了 2.6%（其中，51 岁以上用户已经逼近三成），相比之下，25 至 45 岁区间用户规模为 39%，已经跌至四成以下，这种逆转，显示出移动互联网用户“银发化”的趋势仍在延续。 报告称，在用户使用时长上， 短剧视频、短视频的增长贡献率达到 111.5% （吞噬了在线视频、综合资讯等领域时长）。 在终端设备上， 苹果凭借 20.92% 的活跃占",
+   "published_at": 1793683455.0,
+   "published_bj": "2026-11-03 13:24"
+  },
+  {
+   "id": "605b7b99faacda76",
+   "source": "IT之家",
+   "title": "任天堂详解《塞尔达传说：时之笛重制版》：保留箱庭式地图，不采用无缝开放世界",
+   "url": "https://www.ithome.com/1/021/501.htm",
+   "summary": "IT之家 11 月 3 日消息，任天堂昨日发布了 《塞尔达传说：时之笛 重制版》 开发者访谈，确认本作将保留原作分区式地图设计，不会采用《旷野之息》《王国之泪》那样的开放世界结构。 据介绍，此次重制版的核心并非简单提升画面，而是在保留原作地图结构、探索节奏和场景设计的基础上，利用新硬件重新构建游戏世界。 开发团队表示，制作组的核心原则是“视觉可以改，体验不能变”，因此还删去了地图传送功能，希望通过区域切换延续原作特有的探索节奏和场景转换带来的期待感。 《塞尔达传说：时之笛 重制版》 的世界仍由多张独立地图组成，不会改成无缝开放世界；海拉鲁平原的远近景关系有所调整，城堡、磨坊等地点则得到适度扩展",
+   "published_at": 1793683440.0,
+   "published_bj": "2026-11-03 13:24"
+  },
+  {
+   "id": "9f9ff8e97f4c1bb7",
+   "source": "IT之家",
+   "title": "Win11 26H2 任务栏四边贴靠为何不能拖拽？微软解释：优先防止误操作",
+   "url": "https://www.ithome.com/1/021/500.htm",
+   "summary": "IT之家 11 月 3 日消息，微软 Windows 设计副总裁迭戈 · 巴卡（Diego Baca）于 10 月 31 日回复 Windows Central 媒体报道，指出在 Windows 11 26H2 系统中任务栏能移动却不能拖动， 其核心考虑是防误触。 IT之家附上相关截图如下： 在 Windows 11 26H2 系统中，用户可以在设置应用中，调整任务栏实现四边贴靠，但相比较 Windows 10 系统，无法通过拖拽方式调整贴靠位置。 对此巴卡解释称，这是有意作出的设计取舍，核心考虑是防误触。微软内部研究发现，通过拖动改变任务栏位置，容易造成意外移动。旧版 Windows 之所以",
+   "published_at": 1793683363.0,
+   "published_bj": "2026-11-03 13:22"
+  },
+  {
+   "id": "3010afbfeedbf8ee",
+   "source": "IT之家",
+   "title": "108 元补贴购：京东 PLUS + 芒果 TV 联合会员年卡平台补贴，限购 1 次",
+   "url": "https://www.ithome.com/1/021/497.htm",
+   "summary": "京东 PLUS + 芒果 TV 联合会员年卡日常活动价 248 元，今日直降至 118 元。 叠加 10 元平台补贴券（点此领券），仅需 108 元即可入手： 京东 芒果 TV + 京东 PLUS 年卡 不支持电视端 券后 108 元 领 10 元券 京东 11.11 红包至高 26888 元无门槛可用，每天可抽一次： 点此抽取 。 芒果 TV 会员年卡官方售价 248 元 / 年。 京东 PLUS 会员年卡官方售价 299 元 / 年。 本次活动仅限 10 月 29 日 0 点 ~11 月 11 日 24 点。 充值请填写手机号，不支持第三方账号（如 QQ / 微信 / 微博）直接充值；芒果",
+   "published_at": 1793682366.0,
+   "published_bj": "2026-11-03 13:06"
   },
   {
    "id": "8e2a504d0f2d34d4",
@@ -298,6 +424,15 @@
    "url": "https://www.ithome.com/1/021/434.htm",
    "summary": "IT之家 11 月 3 日消息，据外媒 NotebookCheck 今天（3 日）上午报道，Reddit 用户 Silver-Succotash-612 爆料称，一名熟人因分享《GTA 6》泄露视频，而 遭到 PlayStation 账号封禁 。 据 Silver-Succotash-612 描述，他的朋友曾尝试通过 PlayStation App 给 另一人发送《GTA 6》泄露的游戏视频 。没想到，随后自己的 PSN 账号被封。该玩家联系客服后得知， 申诉需要 3 个月，短期内几乎没有希望恢复账号 。 IT之家提醒：这件事目前只有网友单方面的说法，真实性仍需谨慎看待。 然而，PlaySta",
    "published_at": 1793675416.0,
+   "published_bj": "2026-11-03 11:10"
+  },
+  {
+   "id": "31baa9bba032fc32",
+   "source": "Hacker News",
+   "title": "Show HN: I built a little browser game to practice Vim commands",
+   "url": "https://hjkl.duy.run",
+   "summary": "I made hjkl to help myself remember Vim commands. It’s a little browser game you can play when you want to unwind and get a bit of Vim practice in. There are still a lot of commands I want to add, but I hope someone finds it useful in the meantime :) Comments URL: https://news.ycombinator.com/item?i",
+   "published_at": 1793675404.0,
    "published_bj": "2026-11-03 11:10"
   },
   {
