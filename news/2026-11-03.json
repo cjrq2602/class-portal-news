@@ -1,8 +1,17 @@
 {
  "date": "2026-11-03",
- "generated_at": 1793684808.8442702,
- "count": 198,
+ "generated_at": 1793688861.9875147,
+ "count": 242,
  "items": [
+  {
+   "id": "6ccde792cf726e4f",
+   "source": "InfoQ中文",
+   "title": "从模型调用到任务交付：MaaS 如何走进 Agent 生产",
+   "url": "https://www.infoq.cn/article/zZutPTX8bsr6NWQYNC3A?utm_source=rss&utm_medium=article",
+   "summary": "点击查看原文>",
+   "published_at": 1793716819.0,
+   "published_bj": "2026-11-03 22:40"
+  },
   {
    "id": "0cbbee4d1a84acea",
    "source": "InfoQ中文",
@@ -94,6 +103,375 @@
    "published_bj": "2026-11-03 17:00"
   },
   {
+   "id": "5ba6cc30519ab81d",
+   "source": "IT之家",
+   "title": "三星 Galaxy S27 Ultra 手机机模曝光：横向矩阵相机单元，与苹果 iPhone 18 Pro 同框对比",
+   "url": "https://www.ithome.com/1/021/584.htm",
+   "summary": "IT之家 11 月 3 日消息，科技媒体 Android Headline 昨日（11 月 2 日）发布博文， 基于此前曝光的 CAD 渲染图 制作 Galaxy S27 Ultra 机模， 并对比谷歌 Pixel 11 Pro、苹果 iPhone 18 Pro 以及三星前代 Galaxy S26 Ultra 旗舰手机。 外观方面，Galaxy S27 Ultra 背面发生明显变化，相机改用横向矩阵模组设计，位置更加靠上，镜头部分可能会进一步凸起。报道认为，这种布局有望为磁吸充电宝等配件腾出空间，减少摄像头凸起对贴合的影响。 尺寸方面，报道给出的数据为 163.76×78.25×7.97 毫米",
+   "published_at": 1793688792.0,
+   "published_bj": "2026-11-03 14:53"
+  },
+  {
+   "id": "e2423302984735b6",
+   "source": "IT之家",
+   "title": "我国广电视听形成“两个 10 亿”超大规模市场格局：电视大屏用户超 10 亿，网络视听用户达 10.99 亿",
+   "url": "https://www.ithome.com/1/021/583.htm",
+   "summary": "IT之家 11 月 3 日消息，据新华社，《中国广播电视和网络视听发展报告（2026）》今日在京首发。 报告显示，截至 2025 年底，我国电视大屏用户合计超过 10 亿，网络视听用户规模达 10.99 亿，广电视听发展形成“两个 10 亿”并进的超大规模市场格局。 这是国家广播电视总局首次将《中国广播电视全媒体发展报告》与《中国视听新媒体发展报告》整合编撰，把广播电视与网络视听纳入同一研究框架。报告由国家广播电视总局部署、发展研究中心组织编写，试图打通大屏与小屏、内容生产与传播渠道、公共服务与行业治理之间的链路。 数据显示，2025 年，我国电视大屏消费总时间为 6387 亿小时，屏前观众日",
+   "published_at": 1793688727.0,
+   "published_bj": "2026-11-03 14:52"
+  },
+  {
+   "id": "32f5d778e549c23b",
+   "source": "IT之家",
+   "title": "《超级马力欧：奥德赛》非官方 PC 原生移植版问世，可 4K/60 帧流畅游玩",
+   "url": "https://www.ithome.com/1/021/556.htm",
+   "summary": "IT之家 11 月 3 日消息，针对任天堂 Switch 的静态重编译技术，可以把游戏原本的 Arm64 代码转换为 x86 代码，这项技术彻底改变了模拟器领域，为这款主机上不少经典游戏推出原生移植版本创造了条件。而说到 Switch 的知名作品，任天堂 2017 年推出的《超级马力欧：奥德赛》，就是口碑与媒体评价都极高的代表作之一。 IT之家注意到，《超级马力欧：奥德赛》非官方 PC 原生移植版现在已经可以下载、安装，并在 Windows、Linux 和 macOS 系统上游玩。这套静态重编译方案会将游戏代码转为 C 语言代码，因此不需要运行模拟器，使用者只需要自备一份游戏本体文件。 这个移",
+   "published_at": 1793688467.0,
+   "published_bj": "2026-11-03 14:47"
+  },
+  {
+   "id": "f29bfe1a4b0f5abb",
+   "source": "IT之家",
+   "title": "安森美确认拟以至少 6 亿美元现金收购集成电压调节器企业 Ferric",
+   "url": "https://www.ithome.com/1/021/554.htm",
+   "summary": "IT之家 11 月 3 日消息，半导体企业 onsemi（安森美）当地时间本月 2 日宣布拟以 6 亿美元 （现汇率约合 39.99 亿元人民币） 现金外加至多 1.75 亿美元 （现汇率约合 11.66 亿元人民币） 现金的或有对价收购集成电压调节器 (IVR) 企业 Ferric。 该交易预计将于 2026 年底完成，但需满足惯例成交条件。约 50 名 Ferric 员工将通过这笔交易加入安森美。 IT之家注意到，此前市场上就有安森美将收购 Ferric 的风声， 此次官宣算是证实了外部传闻 。 Ferric 的 IVR 技术将电源控制、FET、电感器、电容器集成到单一紧凑封装中，与传统的",
+   "published_at": 1793688459.0,
+   "published_bj": "2026-11-03 14:47"
+  },
+  {
+   "id": "595e19ddf4bdea65",
+   "source": "IT之家",
+   "title": "福特上线“隐私承诺”，号称能让车辆“断网”、阻止传输驾驶数据",
+   "url": "https://www.ithome.com/1/021/545.htm",
+   "summary": "IT之家 11 月 3 日消息，当代的汽车能够收集海量驾驶数据，从驾驶员踩刹车的力度、经常导航前往的目的地，到最常使用的车载功能，无所不包。随着汽车越来越智能化，车企的汽车制造业务与科技业务之间的界限也愈发模糊。 当地时间 2 日，据外媒 insideevs 报道，福特希望让车主知道：只要开的是福特汽车，想阻止车辆向外传输驾驶数据并不难。 福特本周上线了“隐私承诺”（Privacy Promise）网站，详细介绍公司收集哪些车联网数据。不同车型收集的信息有所区别，或涉及 车辆位置、驾驶习惯、故障诊断 信息，以及通过车辆和福特手机 App 获取的其他数据。 福特首席隐私官克里斯汀 · 琼斯在接受",
+   "published_at": 1793688379.0,
+   "published_bj": "2026-11-03 14:46"
+  },
+  {
+   "id": "4dca59eefbafa907",
+   "source": "IT之家",
+   "title": "月之暗面 Kimi 发布游戏开发与创意工作解决方案：AI 可直接操作 Unity、虚幻引擎等",
+   "url": "https://www.ithome.com/1/021/539.htm",
+   "summary": "IT之家 11 月 3 日消息，月之暗面 Kimi 昨日发布「游戏开发与创意工作解决方案」。该产品基于 Kimi K3.1 系列模型、Kimi Code 与 Kimi Work 系列 Agent 产品， 以及 Unity、虚幻引擎、Blender 等专业工具插件 ，可帮助团队更快验证玩法创意、推进工程和美术制作。 据介绍，游戏开发的第一道门槛。是创意验证的成本。一个玩法是否有趣，需要真正玩起来才能判断。但制作原型需要投入时间和人力，团队往往只能优先验证少数想法。Kimi 游戏解决方案可以帮助游戏团队高效制作项目原型，在有限时间内探索和比较更多玩法方向，从而做出更准确的业务判断。 第二道门槛来自",
+   "published_at": 1793688143.0,
+   "published_bj": "2026-11-03 14:42"
+  },
+  {
+   "id": "e9284f7c19f65c3e",
+   "source": "IT之家",
+   "title": "特斯拉 Robotaxi 又下一城：沃斯堡突袭上线",
+   "url": "https://www.ithome.com/1/021/538.htm",
+   "summary": "IT之家 11 月 3 日消息，特斯拉的自动驾驶出租车（Robotaxi）网络新增一座落地城市。Robotaxi 官方账号在 X 平台发文宣布，这项服务现已在沃斯堡上线，乘车服务于美国中部时间 11 月 2 日早 6 点正式开启。和特斯拉在得州的其他投放城市一样，沃斯堡的自动驾驶出租车全程无安全员，车内不配备人工监管人员。 这是特斯拉近三个月来新增的首个自动驾驶出租车落地城市（上一次开放是 7 月末的奥兰多与坦帕），至此沃斯堡与奥斯汀、达拉斯、休斯顿、迈阿密、奥兰多、坦帕并列，成为第七个开通无安全员自动驾驶乘车服务的城市。 143 平方英里的服务范围 沃斯堡的电子围栏服务区域约 143 平方英",
+   "published_at": 1793688111.0,
+   "published_bj": "2026-11-03 14:41"
+  },
+  {
+   "id": "18b7976fd73d83a5",
+   "source": "IT之家",
+   "title": "感受不同 UI 风格：开发者为 Steam Deck 掌机推出 PS5/XBOX Series 界面模组",
+   "url": "https://www.ithome.com/1/021/537.htm",
+   "summary": "IT之家 11 月 3 日消息，据 4Gamers 报道，近期有开发者为 Valve 的 Steam Deck 游戏机打造了开源主题项目，相应主题分别模仿了 PS5 和 XBOX Series X｜S 的主机系统界面，能够为 Steam Deck 带来不同的视觉体验。 其中，PS5 风格界面“decky-ps5-dashboard”会将游戏图标横向排列在屏幕顶部，并根据当前选中的游戏切换相应背景，同时展示游戏时长、成就进度等信息，整体设计与 PS5 的游戏主页较为接近。 而 Xbox 风格界面“decky-xbox-dashboard”采用上下排列的分页布局，玩家选中相应项目后，即可展开查看完",
+   "published_at": 1793688098.0,
+   "published_bj": "2026-11-03 14:41"
+  },
+  {
+   "id": "853d12ec3f29afee",
+   "source": "cnBeta",
+   "title": "苹果加强App Store年龄分级管理 约会与位置共享功能须强制申报",
+   "url": "https://www.cnbeta.com.tw/articles/tech/1584828.htm",
+   "summary": "苹果宣布将进一步完善App Store应用年龄分级体系。从2026年11月16日起，开发者在提交应用年龄评级问卷时，必须明确披露应用是否包含“位置共享”或“约会与关系”相关功能，以便系统为应用分配更准确的年龄分级。 阅读全文",
+   "published_at": 1793687789.0,
+   "published_bj": "2026-11-03 14:36"
+  },
+  {
+   "id": "ba8f0fa457c23476",
+   "source": "IT之家",
+   "title": "不输充电宝：曝国产厂商 14000mAh 级电池新机试模中，重量低于 250g 且“厚度不会很夸张”",
+   "url": "https://www.ithome.com/1/021/536.htm",
+   "summary": "IT之家 11 月 3 日消息，博主 @数码闲聊站 刚刚发微博称，一款容量在 14000mAh 至 15000mAh 之间的超大电池新机正在试模中，主打“妥妥用一周”。 该博主未披露这款电池对应的终端品类、品牌或量产时间，但评论区有人猜测是荣耀 Power 新机。 还有用户在其微博下询问“代价不会是裸机重量超过 250g 吧”，该博主回复称“不会，厚度也不会很夸张，高密度电池”。 “试模”是电池或结构件开发中的工程验证环节，通常在开模后、量产前进行，用于检验尺寸、装配和工艺可行性。进入这一阶段的电池方案距离商用仍有一定距离，后续还需经过循环寿命、安全认证和整机适配等流程。 高密度电池目前多指采",
+   "published_at": 1793687761.0,
+   "published_bj": "2026-11-03 14:36"
+  },
+  {
+   "id": "98020e42bf985063",
+   "source": "IT之家",
+   "title": "同人创作平台 AO3 遭黑客攻击紧急关站，官方称恢复需 2 至 4 周",
+   "url": "https://www.ithome.com/1/021/535.htm",
+   "summary": "IT之家 11 月 3 日消息，同人创作平台 Archive of Our Own（AO3）近日突然进入停机维护状态，负责运营 AO3 的非营利组织 OTW（Organization for Transformative Works）在官方状态页面确认，平台检测到网络安全攻击事件，目前已紧急关闭网站，以开展调查并采取防护措施。 针对用户最关心的作品及个人数据是否丢失的问题，AO3 官方在最新公告中表示，目前没有任何 AO3 数据被删除，用户发布的作品、书签（Bookmarks）、点赞（Kudos）等数据均完好无损。 不过，在账号安全方面，官方称目前尚无法确认用户数据库是否遭到窃取，作为参考，A",
+   "published_at": 1793687687.0,
+   "published_bj": "2026-11-03 14:34"
+  },
+  {
+   "id": "aec8b7ab09d1b805",
+   "source": "cnBeta",
+   "title": "苹果与Epic最高法院之争再度延后 将于2027年1月正式开庭审理",
+   "url": "https://www.cnbeta.com.tw/articles/tech/1584826.htm",
+   "summary": "美国最高法院已开启本年度10月会期，但苹果与Epic Games之间持续多年的法律纠纷并未迎来最终裁决。根据美国最高法院最新公布的信息，双方将在2027年1月11日正式向最高法院陈述各自主张，而在此之前，相关争议仍将在下级法院体系中继续推进。 阅读全文",
+   "published_at": 1793687623.0,
+   "published_bj": "2026-11-03 14:33"
+  },
+  {
+   "id": "8a1a41ef4cc8e63f",
+   "source": "IT之家",
+   "title": "BOSGAME 对其 192GB 内存 \"Grogon Halo\" 迷你 AI 工作站开价 6199 美元",
+   "url": "https://www.ithome.com/1/021/534.htm",
+   "summary": "IT之家 11 月 3 日消息，迷你主机制造商 BOSGAME 今日启动了其 AI 工作站 M5 MAX 的预售。 这一机型基于 AMD 锐龙 AI Max+ PRO 495 处理器，板载 192GB LPDDR5 内存，提供 2TB PCIe Gen4 SSD 存储， 首销优惠价 6,199 美元 （IT之家注：现汇率约合 41,319 元人民币） 。 M5 MAX 采用 3 风扇散热设计，预留额外 M.2 2280 (PCIe Gen4) SSD 盘位，配备 Wi-Fi 7 &amp; 蓝牙 5.4 无线模块。 其提供 2 个支持 DisplayPort Alt 的 USB-C 40Gbp",
+   "published_at": 1793687477.0,
+   "published_bj": "2026-11-03 14:31"
+  },
+  {
+   "id": "9b1329205706464f",
+   "source": "cnBeta",
+   "title": "Google搜索近期出现风控界面：用户点击搜索结果要等待10秒进行自动验证",
+   "url": "https://www.cnbeta.com.tw/articles/tech/1584824.htm",
+   "summary": "近期Google搜索出现奇怪的风控问题，用户点击搜索结果条目时可能会自动进入“正在验证您的请求”页面，该页面可能需要等待数秒甚至十几秒才能完成，验证完成后才能跳转到最终页面。在Google官方社区也有其他用户遇到此类问题。 阅读全文",
+   "published_at": 1793687458.0,
+   "published_bj": "2026-11-03 14:30"
+  },
+  {
+   "id": "e2f337ae3498a11f",
+   "source": "IT之家",
+   "title": "微软回应 Win11 用户催更：“优化驱动器”工具已列入改造计划",
+   "url": "https://www.ithome.com/1/021/533.htm",
+   "summary": "IT之家 11 月 3 日消息，科技媒体 Windows Latest 今天（11 月 3 日）发布博文，报道称微软已将“优化驱动器”（Drive optimization）工具， 列入 Windows 11 现代化改造计划。 小编目前使用 Windows 10 系统，“优化驱动器”界面如上所示 IT之家注：优化驱动器是 Windows 系统自带的存储维护工具，在开始菜单中通常显示为“对驱动器进行碎片整理和优化”，会针对机械硬盘和固态硬盘执行不同的维护操作，帮助维持读写性能。 驱动器类型 主要操作 通俗解释 机械硬盘（HDD） 碎片整理 将分散存储的文件数据重新排列，让硬盘更容易连续读取。 固",
+   "published_at": 1793687418.0,
+   "published_bj": "2026-11-03 14:30"
+  },
+  {
+   "id": "9559c81292e1e07d",
+   "source": "cnBeta",
+   "title": "“押金退还”并不真退，共享寄存柜的缺德生意经",
+   "url": "https://www.cnbeta.com.tw/articles/tech/1584822.htm",
+   "summary": "你使用完共享存物柜后看到了“押金退还”的提示，但钱真的退回到你的账户里了吗？《羊城晚报》的调查，揭开了共享寄存柜行业潜藏的运营套路：用户用完寄存箱后，小程序页面会弹出“退款成功”的提示，但押金并不会自动原路退回用户的微信等账户，而是转入小程序内余额，需要用户自行手动发起提现。也就是说，如果不去手动提现的话，那么钱就一直留在服务商那里，很多用户却想当然地以为“退款成功”就是退到了自己的账户里。 阅读全文",
+   "published_at": 1793687122.0,
+   "published_bj": "2026-11-03 14:25"
+  },
+  {
+   "id": "f15f7f23229306d7",
+   "source": "cnBeta",
+   "title": "“女版乔布斯”，入狱后还在骗",
+   "url": "https://www.cnbeta.com.tw/articles/movie/1584820.htm",
+   "summary": "这个时代有一个臭名昭著的“骗子”，伊丽莎白·霍姆斯。她曾许诺用指尖的少量血液完成大量疾病检测，把公司推上90亿美元估值，最终因欺诈入狱。现在，她又出现在人们的视线里了。在2023年5月30日开始服刑前，霍姆斯邀请导演内森·菲尔德和兰斯·奥本海姆进入自己的生活并进行拍摄，她向两位导演承诺：“你可以看到一切。” 阅读全文",
+   "published_at": 1793686637.0,
+   "published_bj": "2026-11-03 14:17"
+  },
+  {
+   "id": "fbdf6059778c6e16",
+   "source": "IT之家",
+   "title": "Satechi 推出 USB4 扩展坞 ExtendView：提供双 HDMI，集成线材设计",
+   "url": "https://www.ithome.com/1/021/528.htm",
+   "summary": "IT之家 11 月 3 日消息，外设制造商 Satechi 当地时间 11 月 1 日推出了 USB4 扩展坞 ExtendView。这一新品同时提供 2 个 HDMI 2.1 (TMDS) 视频信号输出接口， 无需安装设备或 DisplayLink 驱动 。 ExtendView 三维 141×60×20 (mm)，拥有太空黑铝合金机身，集成 USB4 线材，设有接口端子收纳槽。其一侧提供 2 个 USB-A 10Gbps、2 个 USB-C 10Gbps，另一侧提供 2 个 HDMI、1 个 USB-C（仅 140W PD 输入）。 该扩展坞 可通过上行链路为设备提供至高 125W 的供电",
+   "published_at": 1793686565.0,
+   "published_bj": "2026-11-03 14:16"
+  },
+  {
+   "id": "041e4887764e8c4b",
+   "source": "cnBeta",
+   "title": "美国NASA 3000万美元太空救援失败 雨燕天文台预计将于本周坠落地球",
+   "url": "https://www.cnbeta.com.tw/articles/science/1584818.htm",
+   "summary": "据美联社报道， 美国太空军预测NASA“雨燕”（Swift）天文台最早将于本周五坠入大气层。 而此前一项耗资3000万美元的私人太空救援任务宣告失败，这颗在轨运行22年的望远镜正不可逆转地越降越低。报道称，雨燕天文台于10月20日进行了最后一次观测，目前在距离地球表面不到171英里的轨道上运行。 阅读全文",
+   "published_at": 1793686417.0,
+   "published_bj": "2026-11-03 14:13"
+  },
+  {
+   "id": "1876ed87268089b5",
+   "source": "cnBeta",
+   "title": "靠嘲笑AI赚钱，一群年轻人被好莱坞盯上了",
+   "url": "https://www.cnbeta.com.tw/articles/tech/1584816.htm",
+   "summary": "据美国科技媒体《WIRED》报道，当好莱坞各大制片公司忙着将生成式AI引入电影和电视剧制作时，一群专门拿AI开玩笑的内容创作者却意外走红。他们通过戏弄AI面试官、揭露ChatGPT的低级错误，吸引数百万粉丝，甚至获得了好莱坞经纪公司的签约。 阅读全文",
+   "published_at": 1793686383.0,
+   "published_bj": "2026-11-03 14:13"
+  },
+  {
+   "id": "bf22ff9958522f77",
+   "source": "cnBeta",
+   "title": "马斯克盯上2350亿美元市场：SpaceX考虑收购美国手机运营商",
+   "url": "https://www.cnbeta.com.tw/articles/tech/1584814.htm",
+   "summary": "据《华盛顿邮报》报道，埃隆·马斯克（Elon Musk）正试图通过SpaceX进军美国手机通信市场。在遭到Verizon、T-Mobile和AT&amp;T三大电信运营商拒绝后，SpaceX已与美国折扣移动运营商Boost Mobile的母公司EchoStar展开谈判，考虑直接收购Boost Mobile，或通过合作获得其移动网络使用权，从而切入规模高达2350亿美元的美国无线通信市场。 阅读全文",
+   "published_at": 1793686368.0,
+   "published_bj": "2026-11-03 14:12"
+  },
+  {
+   "id": "8b1e044aa3b059cd",
+   "source": "IT之家",
+   "title": "微软 Win11 新增网络“翻译员”：纯 IPv6 网络也能访问 IPv4 服务",
+   "url": "https://www.ithome.com/1/021/527.htm",
+   "summary": "IT之家 11 月 3 日消息，微软于 10 月 27 日发布博文，宣布面向 Windows 11 25H2 以及后续版本，推送 CLAT 功能，从而在没有原生 IPv4 连接的网络中， 帮助依赖 IPv4 的应用继续访问相关服务。 IT之家注：CLAT 全称是 Customer-side Translator，主要解决网络向 IPv6 迁移后的应用兼容问题：即使网络不再提供原生 IPv4 连接，依赖 IPv4 的应用仍可借助转换机制继续访问相关服务。 简单来说，CLAT 充当了新旧网络协议之间的“翻译员”，是 464XLAT 架构的客户端组件。它将电脑发出的 IPv4 流量转换为 IPv6，",
+   "published_at": 1793686239.0,
+   "published_bj": "2026-11-03 14:10"
+  },
+  {
+   "id": "acd17162f367bb80",
+   "source": "cnBeta",
+   "title": "OpenAI将停用旧版ChatGPT Classic应用 合并聊天和工作标签页",
+   "url": "https://www.cnbeta.com.tw/articles/tech/1584812.htm",
+   "summary": "据科技网站9to5mac报道，OpenAI已通知仍在使用旧版ChatGPT Classic应用的用户，该应用将很快停用。同时，OpenAI也正在准备将聊天(Chat)和工作(Work)合并为一个统一的界面。 阅读全文",
+   "published_at": 1793686074.0,
+   "published_bj": "2026-11-03 14:07"
+  },
+  {
+   "id": "46a6d6a6323e545b",
+   "source": "IT之家",
+   "title": "华为云 openPangu-2.0-Flash / Pro 两款模型 11 月 6 日停售：11 月 30 日正式下线，盘古系列新模型已在规划中",
+   "url": "https://www.ithome.com/1/021/526.htm",
+   "summary": "IT之家 11 月 3 日消息，华为云 11 月 1 日发布公告，MaaS 模型即服务平台将于 2026 年 11 月 6 日 00:00（北京时间）停止销售 openPangu-2.0-Flash 和 openPangu-2.0-Pro 两款模型服务，并于 11 月 30 日 00:00 正式下线。 华为云建议用户在正式下线前完成迁移。另外，openPangu 系列新版本模型已在规划中，后续将逐步推出上线。截至IT之家发稿，华为云暂未披露新版本的具体型号与时间表。 按照华为云安排，11 月 6 日停售后，新用户将无法购买和开通这两款模型服务，已购买的用户仍可继续使用；11 月 30 日下线后",
+   "published_at": 1793686066.0,
+   "published_bj": "2026-11-03 14:07"
+  },
+  {
+   "id": "1c9da221b4960a67",
+   "source": "cnBeta",
+   "title": "苹果第四财季电话会议：中国市场势头强劲 内存成本会更高",
+   "url": "https://www.cnbeta.com.tw/articles/tech/1584810.htm",
+   "summary": "11月3日，苹果公司今天发布了2026财年第四季度及全年财报。财报发布后，苹果CEO约翰·特努斯(John Ternus)、CFO凯文·帕雷克(Kevan Parekh)以及COO萨比赫·汗(Sabih Khan)出席了电话会议，回答分析师的提问。 阅读全文",
+   "published_at": 1793685961.0,
+   "published_bj": "2026-11-03 14:06"
+  },
+  {
+   "id": "19864d8bbf8e364a",
+   "source": "cnBeta",
+   "title": "苹果面试：有人12轮上岸 有人11轮被刷",
+   "url": "https://www.cnbeta.com.tw/articles/tech/1584808.htm",
+   "summary": "这段时间以来，秋招大幕拉开，求职面试再度成为全网热议的话题。近日小红书上两段苹果面试经历，在社交平台引发广泛讨论，超长面试流程、悬殊的最终结果，让不少正在求职的网友直呼求职压力拉满。 阅读全文",
+   "published_at": 1793685923.0,
+   "published_bj": "2026-11-03 14:05"
+  },
+  {
+   "id": "452503d3ed6bf1d0",
+   "source": "cnBeta",
+   "title": "电商平台大规模砍硬件订单 账号直接被封 Epic CEO也中招",
+   "url": "https://www.cnbeta.com.tw/articles/tech/1584806.htm",
+   "summary": "在AI硬件需求暴涨、供应极度紧张的背景下，连正常购买硬件的用户也成了平台的嫌疑对象， 亚马逊疑似已经开始大规模取消GPU和硬件订单，甚至直接关闭买家账户。 阅读全文",
+   "published_at": 1793685867.0,
+   "published_bj": "2026-11-03 14:04"
+  },
+  {
+   "id": "696b25e0aa524b70",
+   "source": "cnBeta",
+   "title": "张一鸣被超越 亚洲首富换人了",
+   "url": "https://www.cnbeta.com.tw/articles/tech/1584804.htm",
+   "summary": "据《福布斯》报道，印度信实工业集团董事长穆克什·安巴尼（Mukesh Ambani）周一超越字节跳动联合创始人张一鸣，成为亚洲首富。受旗下公司股价大涨推动，安巴尼单日财富增加85亿美元（约合人民币605亿元），总身家达到888亿美元。 阅读全文",
+   "published_at": 1793685767.0,
+   "published_bj": "2026-11-03 14:02"
+  },
+  {
+   "id": "d4c43033fe3d34dc",
+   "source": "cnBeta",
+   "title": "比头发丝还细，科学家用一根探针“监听”人类大脑",
+   "url": "https://www.cnbeta.com.tw/articles/science/1584802.htm",
+   "summary": "据《自然》（Nature）杂志11月2日报道，一种名为Neuropixels的超细神经探针正在改变科学家研究大脑的方式。这种比人类头发还细的设备，能够同时记录数百个神经元的电活动，让研究人员以前所未有的精细程度观察大脑内部的信息处理过程。目前，这项技术已从动物实验逐步进入人类大脑研究。 阅读全文",
+   "published_at": 1793685748.0,
+   "published_bj": "2026-11-03 14:02"
+  },
+  {
+   "id": "c8f22b2f83925a25",
+   "source": "cnBeta",
+   "title": "一分没拿 首个赛季就亏4亿美元 凯迪拉克F1车队被曝寻求出售",
+   "url": "https://www.cnbeta.com.tw/articles/tech/1584800.htm",
+   "summary": "据Sportico报道， 凯迪拉克F1车队老板马克·沃尔特正在寻求出售这支美国F1车队，报价30亿美元，目前已有7位潜在买方表示兴趣。 报道称，凯迪拉克F1车队是2026赛季F1唯一的全新车队，也是自2016年哈斯之后首支加入F1的美国车队。然而车队一分未得，目前是唯一零积分的车队。 阅读全文",
+   "published_at": 1793685714.0,
+   "published_bj": "2026-11-03 14:01"
+  },
+  {
+   "id": "bcc1717dca1dcdc1",
+   "source": "IT之家",
+   "title": "小米机器人“双线突破”：成功挑战工厂 8 小时作业、家庭长程任务",
+   "url": "https://www.ithome.com/1/021/525.htm",
+   "summary": "IT之家 11 月 3 日消息，据“小米技术”公众号，小米集团获得 2026 世界互联网大会“杰出贡献奖”创新突破类奖项，小米机器人业务获大会“领先科技奖”。峰会期间，小米还对外披露了机器人业务在工业制造和家庭场景的两项最新落地进展。 IT之家从官方介绍获悉，在工厂场景，小米人形机器人在中控台侧盖板排序工站中 首次挑战 8 小时作业任务 ，满足工站全天生产需求，并实现作业过程异常自主纠偏与产线系统级协同，初步完成产线级作业能力验证。 在家庭场景，小米具身基座模型在小米青年公寓正式启动“试运营”，基于 Xiaomi-Robotics-1 预训练模型搭建 Agent 系统，已在小米青年公寓完成 连",
+   "published_at": 1793685706.0,
+   "published_bj": "2026-11-03 14:01"
+  },
+  {
+   "id": "a6fe59a6a352241d",
+   "source": "cnBeta",
+   "title": "大众汽车在中国重建技术体系：架构联合小鹏开发 芯片押注三条路线",
+   "url": "https://www.cnbeta.com.tw/articles/tech/1584798.htm",
+   "summary": "11月3日，据市场研究机构Counterpoint Research最新分析，大众汽车正在实施一项全球技术战略调整：一方面与恩智浦（NXP）合作推进全球统一电子电气架构，另一方面在中国建立拥有更大自主权的本地技术体系。这意味着，大众正在采取技术“双轨制”，以应对全球市场规模化运营与中国市场快速迭代之间的不同需求。 阅读全文",
+   "published_at": 1793685567.0,
+   "published_bj": "2026-11-03 13:59"
+  },
+  {
+   "id": "9307ac25748d726c",
+   "source": "IT之家",
+   "title": "平均每天上新 7 款：微软 XBOX 十月发行 208 款游戏创年内新高，约 45% 支持 XPA",
+   "url": "https://www.ithome.com/1/021/524.htm",
+   "summary": "IT之家 11 月 3 日消息，根据 @KoreaXBOXnews 于 11 月 1 日发布的统计数据，2026 年 10 月共有 208 款游戏登陆 XBOX 平台，成为今年新作发行数量最多的月份。其中， 93 款支持 Xbox Play Anywhere（以下简称 XPA），占比约 45%。 IT之家注：该消息源最初统计为 210 款游戏，后续推文修正为 208 款。 相比 9 月（187 款），微软今年 10 月在 XBOX 平台发行游戏数量为 208 款，增加 21 款，环比增幅约 11.23%。科技媒体 Windows Central 认为密集的上新节奏为玩家带来更多选择，也让不同体",
+   "published_at": 1793685487.0,
+   "published_bj": "2026-11-03 13:58"
+  },
+  {
+   "id": "bc860fdba41a316d",
+   "source": "cnBeta",
+   "title": "泰国将整车进口电动汽车的消费税税率从10%上调至35%",
+   "url": "https://www.cnbeta.com.tw/articles/tech/1584796.htm",
+   "summary": "泰国财政部今日宣布， 内阁已批准将整车进口电动汽车的消费税税率从10%上调至35%，幅度高达25个百分点，2027年1月1日生效。 按照泰国财政部的方案，征税对象是整车进口、且未使用泰国本地生产零部件的电动汽车。 阅读全文",
+   "published_at": 1793685419.0,
+   "published_bj": "2026-11-03 13:56"
+  },
+  {
+   "id": "e94f76698ff48c94",
+   "source": "cnBeta",
+   "title": "哲学教授质疑太空散热 马斯克怒骂：你完全是个智障",
+   "url": "https://www.cnbeta.com.tw/articles/tech/1584794.htm",
+   "summary": "北京时间昨晚，X用户扬·布鲁尔森（Jan Broersen）发帖质疑马斯克的太空算力方案。全文如下：“我对埃隆·马斯克的敬意已经消失的差不多了，但我仍以为他至少是个不错的工程师（特斯拉是好车）。可听到他说在太空里‘把东西冷却下来’更容易之后，连这最后一点敬意也消散殆尽了。事实正好相反。真空是最好的隔热体。在太空里，你只能靠辐射把热量带走。这些太空数据中心极不可能成真（当然也不会在我们有生之年成真）。” 阅读全文",
+   "published_at": 1793685403.0,
+   "published_bj": "2026-11-03 13:56"
+  },
+  {
+   "id": "79ed2160fc6c3d0a",
+   "source": "cnBeta",
+   "title": "红果免费短剧用户量超越豆包 成为抖音集团第二大应用",
+   "url": "https://www.cnbeta.com.tw/articles/movie/1584790.htm",
+   "summary": "11月3日，QuestMobile发布2026中国移动互联网秋季大报告。数据显示，截至2026年9月，移动互联网月活用户规模达12.81亿，同比增长0.9%；月人均使用时长在8月首次突破200小时，9月仍维持189.8小时，同比增长6.5%。 阅读全文",
+   "published_at": 1793685333.0,
+   "published_bj": "2026-11-03 13:55"
+  },
+  {
+   "id": "f6e929110ab1a909",
+   "source": "cnBeta",
+   "title": "科技股暴跌拖累Anthropic IPO估值 远不到2万亿美元",
+   "url": "https://www.cnbeta.com.tw/articles/tech/1584788.htm",
+   "summary": "据《华尔街日报》报道，上周科技股的暴跌，使得计划参与Anthropic IPO的大型投资者们倾向于给予这家AI巨头较低的估值。 阅读全文",
+   "published_at": 1793685314.0,
+   "published_bj": "2026-11-03 13:55"
+  },
+  {
+   "id": "25b33a7e68092b4c",
+   "source": "IT之家",
+   "title": "光荣特库摩宣布《信长之野望飞翔》延期发售，11 月 4 日官方直播同步取消",
+   "url": "https://www.ithome.com/1/021/522.htm",
+   "summary": "IT之家 11 月 3 日消息，光荣特库摩昨日宣布，旗下历史模拟游戏 《信长之野望 飞翔》 将重新评估发售日期及对应平台。新的发售日期暂未公布，官方表示将在确定后另行公告。 IT之家此前报道，本作原计划于今年冬季发售，登陆 Switch 2、Switch、Steam 及 PS5 平台。目前，发售日期和对应平台均被列入重新评估范围，不能确定此前公布的平台阵容是否会发生变化。 受此次调整影响，原定于 11 月 4 日 20:00 举行的《信长之野望飞翔》官方直播第一回也将延期。该直播原计划公布游戏发售日期，并通过实际游戏画面介绍作品内容。目前，新的直播日期及发售日期均尚未确定。 相关阅读： 《 〈",
+   "published_at": 1793684998.0,
+   "published_bj": "2026-11-03 13:49"
+  },
+  {
+   "id": "00992c7dc56e3194",
+   "source": "IT之家",
+   "title": "摩根大通副董事长 Daniel Pinto：AI 板块估值仍高，预计将出现回调",
+   "url": "https://www.ithome.com/1/021/521.htm",
+   "summary": "IT之家 11 月 3 日消息，据科创板日报今日报道，摩根大通副董事长 Daniel Pinto 认为， AI 领域的估值仍然过高，并预计该行业将会出现回调 。 Pinto 在香港金管局举办的国际金融领袖投资峰会一场小组讨论中表示，确实相信生产力将迎来一波大幅提升，也相信 AI 会带来重大影响。但他提醒大家，要审慎看待增长的速度，因为目前正在开发的所有这些东西，终究得有人买单。 AI 以外的产业以及其他所有人，必须向这些公司支付数以万亿计美元，才能证明这些投资是合理的 。 他表示，AI 公司需要证明如此庞大的投资规模以及目前的估值是合理的， 现在的步伐可能有点太快了 。Pinto 表示，AI ",
+   "published_at": 1793684984.0,
+   "published_bj": "2026-11-03 13:49"
+  },
+  {
+   "id": "dfba3f62cc1973f3",
+   "source": "cnBeta",
+   "title": "特朗普誓言保护马斯克免遭民主党调查 并给予其他亲信人员特赦",
+   "url": "https://www.cnbeta.com.tw/articles/tech/1584786.htm",
+   "summary": "美国总统特朗普周一表示，如果民主党人在中期选举后对埃隆·马斯克展开调查，他将采取行动保护马斯克。特朗普还暗示，如果民主党人发起调查，他可能会提前给予其身边的工作人员及其他人赦免。 阅读全文",
+   "published_at": 1793684942.0,
+   "published_bj": "2026-11-03 13:49"
+  },
+  {
+   "id": "3c711c4297f245ba",
+   "source": "cnBeta",
+   "title": "币安黑客慌乱脱手 为加密货币交易者创造意外之财",
+   "url": "https://www.cnbeta.com.tw/articles/tech/1584784.htm",
+   "summary": "对于大多数加密货币投资者而言，币安遭遇的63亿美元盗窃案再次提醒人们，数字资产仍存在诸多风险。但对于一小部分行动迅速的交易公司和技术娴熟的投资者来说，这则是一次大赚快钱的机会。区块链数据公司Bitquery估计，攻击者因仓促出手导致交易执行不力，损失了约1.19亿美元。 阅读全文",
+   "published_at": 1793684912.0,
+   "published_bj": "2026-11-03 13:48"
+  },
+  {
    "id": "d92f8ac7ea707519",
    "source": "IT之家",
    "title": "官方揭秘 Win11 原生测速体验：专业工程师主导，AI 辅助开发",
@@ -182,6 +560,15 @@
    "summary": "京东 PLUS + 芒果 TV 联合会员年卡日常活动价 248 元，今日直降至 118 元。 叠加 10 元平台补贴券（点此领券），仅需 108 元即可入手： 京东 芒果 TV + 京东 PLUS 年卡 不支持电视端 券后 108 元 领 10 元券 京东 11.11 红包至高 26888 元无门槛可用，每天可抽一次： 点此抽取 。 芒果 TV 会员年卡官方售价 248 元 / 年。 京东 PLUS 会员年卡官方售价 299 元 / 年。 本次活动仅限 10 月 29 日 0 点 ~11 月 11 日 24 点。 充值请填写手机号，不支持第三方账号（如 QQ / 微信 / 微博）直接充值；芒果",
    "published_at": 1793682366.0,
    "published_bj": "2026-11-03 13:06"
+  },
+  {
+   "id": "391eba8ea14a5d80",
+   "source": "Hacker News",
+   "title": "Cloudflare experiencing multiple active incidents",
+   "url": "https://www.cloudflarestatus.com/",
+   "summary": "Article URL: https://www.cloudflarestatus.com/ Comments URL: https://news.ycombinator.com/item?id=50348260 Points: 14 # Comments: 2",
+   "published_at": 1793681847.0,
+   "published_bj": "2026-11-03 12:57"
   },
   {
    "id": "8e2a504d0f2d34d4",
@@ -1379,6 +1766,15 @@
    "summary": "Article URL: https://www.gamesradar.com/games/valve-played-capitalism-so-well-they-broke-it-and-now-steam-can-never-be-replaced-former-epic-dev-says-i-dont-think-this-is-fixable/ Comments URL: https://news.ycombinator.com/item?id=50343418 Points: 31 # Comments: 33",
    "published_at": 1793652156.0,
    "published_bj": "2026-11-03 04:42"
+  },
+  {
+   "id": "981a20803505b714",
+   "source": "InfoQ中文",
+   "title": "腾讯云助力企业打造 AI 原生生产力飞轮",
+   "url": "https://www.infoq.cn/article/q3GxjwqlYQbIZDYsJ2Uf?utm_source=rss&utm_medium=article",
+   "summary": "点击查看原文>",
+   "published_at": 1793650970.0,
+   "published_bj": "2026-11-03 04:22"
   },
   {
    "id": "71b40480d5bb8097",
