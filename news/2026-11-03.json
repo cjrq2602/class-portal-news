@@ -1,7 +1,7 @@
 {
  "date": "2026-11-03",
- "generated_at": 1793707419.8072436,
- "count": 373,
+ "generated_at": 1793712529.9758844,
+ "count": 393,
  "items": [
   {
    "id": "3f4a6e499900c536",
@@ -31,11 +31,65 @@
    "published_bj": "2026-11-03 22:40"
   },
   {
+   "id": "4381ffd6693b63f2",
+   "source": "IT之家",
+   "title": "雷鸟创新登顶京东双 11 智能眼镜四项榜单，iO、GT Max 分获单品第一",
+   "url": "https://www.ithome.com/1/021/819.htm",
+   "summary": "IT之家 11 月 3 日消息，11 月 3 日，京东发布双 11 智能眼镜开门红战报。数据显示，10 月 12 日至 11 月 1 日期间，京东平台光波导智能眼镜销售同比增长超 3 倍，雷鸟创新（RayNeo）在智能眼镜与 XR 设备两大品牌榜单中均位列第一，旗下雷鸟 iO、雷鸟 GT Max 分别获得光波导眼镜、AR 眼镜单品排行榜第一。 从此次战报来看，光波导智能眼镜成为双 11 期间增长较快的细分品类之一。随着 AI 技术与近眼显示技术逐步应用于消费级产品，智能眼镜的产品形态也在不断丰富，覆盖日常信息交互、影音娱乐等不同使用场景。 具体产品方面，获得京东光波导眼镜单品销量第一的雷鸟 i",
+   "published_at": 1793712506.0,
+   "published_bj": "2026-11-03 21:28"
+  },
+  {
+   "id": "4276d69b6b65cd1f",
+   "source": "IT之家",
+   "title": "华为乾崑 10 月安全出行报告发布：辅助驾驶里程破 170 亿公里、月活用户占比超 95%",
+   "url": "https://www.ithome.com/1/021/817.htm",
+   "summary": "IT之家 11 月 3 日消息，华为智能汽车解决方案 BU 官方微博今日发布了华为乾崑 10 月安全出行报告。 据介绍，华为乾崑智驾 ADS 辅助驾驶状态下，发生一次严重碰撞前的平均安全行驶里程， 是国人驾平均值（推算）的 6.02 倍 。 数据显示， 华为乾崑智驾 ADS 累计辅助驾驶里程超 172.7 亿公里 、辅助驾驶月活用户占比 95.2%。另外，人驾状态下月度防御性驾驶触发次数 4.54 万次、 月度车位到车位使用 1740.04 万次 。 IT之家查询华为乾崑官网获悉，乾崑智驾累计辅助驾驶里程截至目前已突破 174 亿公里，搭载乾崑智驾车辆累计行驶总里程也已突破 486 亿公里。 ",
+   "published_at": 1793711972.0,
+   "published_bj": "2026-11-03 21:19"
+  },
+  {
+   "id": "4d51eadd5b14d5bc",
+   "source": "IT之家",
+   "title": "谷歌确认 Wear OS 8 将上线系统状态栏功能",
+   "url": "https://www.ithome.com/1/021/816.htm",
+   "summary": "IT之家 11 月 3 日消息，谷歌在 Android Developers 官方博客发文，确认 Wear OS 8 将上线系统状态栏功能，用户可以在应用顶部看到状态栏，以便快速查看当前时间及各类系统状态指示信息。 谷歌同步在博客中公布了两张截图。从图片来看，时间将固定显示在应用顶部，旁边则会根据应用具体传感器调用情况 / 系统状态显示各种图标，例如飞行模式、勿扰模式、麦克风、位置服务等，不过，状态栏同一时间只会显示一个状态图标，系统将根据不同信息的优先级自动决定具体显示内容。 IT之家注意到，事实上谷歌在前几个月就透露正在为 Wear OS 系统测试系统状态栏，不过谷歌当时并未公布相应功能具",
+   "published_at": 1793711927.0,
+   "published_bj": "2026-11-03 21:18"
+  },
+  {
+   "id": "94c44c68a8cddad5",
+   "source": "IT之家",
+   "title": "强脑科技正研发可穿戴脑机设备，通过脑部电刺激抑制食欲减重",
+   "url": "https://www.ithome.com/1/021/815.htm",
+   "summary": "IT之家 11 月 3 日消息，中国脑机科技企业强脑科技（BrainCo）正在研发一款可穿戴设备，据称能够通过脑部电刺激抑制食欲，有望成为爆款 GLP‑1 减重药物的非药物替代方案。 IT之家注意到，强脑科技创始合伙人何熙昱锦（Nyx He）在彭博科技伦敦峰会的采访中表示，公司计划在未来两到三年内将这款产品推向市场。 她称，这款产品本质相当于“电子版本的 GLP‑1”减肥药。产品计划先在中国上市，之后再考虑拓展至美国市场。 强脑科技的目标是把脑机接口（BCI）技术应用到减重赛道，和埃隆 · 马斯克旗下 Neuralink 形成竞争。目前减重市场的主流是 Wegovy、Zepbound 这类 G",
+   "published_at": 1793711830.0,
+   "published_bj": "2026-11-03 21:17"
+  },
+  {
+   "id": "b34eb84881a873f3",
+   "source": "IT之家",
+   "title": "消息称英特尔可能停产 Arc B580 显卡，未来聚焦 Arc Pro B50 等高利润 AI 产品",
+   "url": "https://www.ithome.com/1/021/813.htm",
+   "summary": "IT之家 11 月 3 日消息，据科技媒体 Wccftech 今天报道，英特尔正考虑停产 Arc B580 显卡， 未来聚焦利润率更高的 AI 产品 。 据报道，英特尔目前的 Battlemage 产品线仅有两款面向游戏玩家的独立显卡。其中性能最强的款式 Arc B580 首发定价 249 美元 （IT之家注：现汇率约合 1,660 元人民币） ，目前在大多数零售商缺货。未来该公司可能会将 BMG-G21 核心让给更赚钱的产品，例如 Arc Pro B50 和 Pro B60 等工作站显卡。 不过需要注意的是，上述说法目前属于推测，英特尔并未就 Arc B580 发布任何官方通知。但考虑到当前",
+   "published_at": 1793711514.0,
+   "published_bj": "2026-11-03 21:11"
+  },
+  {
    "id": "0cbbee4d1a84acea",
    "source": "InfoQ中文",
    "title": "Netflix 通过工作负载认证将 AWS IAM 与内部身份系统连接了起来",
    "url": "https://www.infoq.cn/article/PJdTzbUNPBhvKEd6QuxZ?utm_source=rss&utm_medium=article",
    "summary": "点击查看原文>",
+   "published_at": 1793711040.0,
+   "published_bj": "2026-11-03 21:04"
+  },
+  {
+   "id": "bb80b4cf86ec1d00",
+   "source": "IT之家",
+   "title": "ATK RS8 Air / Neo 电竞键盘首销：87 配列，到手价 299 元起",
+   "url": "https://www.ithome.com/1/021/810.htm",
+   "summary": "IT之家 11 月 3 日消息，ATK RS8 Air、RS8 Neo 系列 87 配列高性能电竞键盘现已在京东开启首销，其中 RS8 Air 到手价 349 元起，RS8 Neo 到手价 299 元起。 京东 ATK RS8 系列键盘 299 元起 直达链接 IT之家从官方介绍获悉，该系列产品以 87 大配列带来完整 F 区与全功能按键，兼顾办公码字的便捷需求与电竞对局的操作自由度，拓展更多使用场景。外观搭载正面顶雾 PC 键帽，搭配侧边机甲翼镜结构。两款机型均采用五层满配填充 +GASKET 结构。 RS8Air 搭载第三代烈风 Ultra 磁轴方案，全链路延迟低至 0.28ms，支持 0",
    "published_at": 1793711040.0,
    "published_bj": "2026-11-03 21:04"
   },
@@ -47,6 +101,42 @@
    "summary": "点击查看原文>",
    "published_at": 1793711023.0,
    "published_bj": "2026-11-03 21:03"
+  },
+  {
+   "id": "207d36be5187b716",
+   "source": "IT之家",
+   "title": "高盛：2030 年全球数据中心容量或达 273GW，五年投资需求约 8.5 万亿美元",
+   "url": "https://www.ithome.com/1/021/809.htm",
+   "summary": "IT之家 11 月 3 日消息，据财联社消息，高盛昨日发布研究报告，将 2030 年全球数据中心容量预测从 217GW 上调至 273GW，较 2025 年的约 103GW 大幅增长，年复合增长率约 21%。 高盛预计，未来五年全球将新增约 170GW 数据中心容量，若按照每 GW 投资 500 亿美元 （IT之家注：现汇率约合 3,332.7 亿元人民币） 的经验假设计算，对应潜在资本开支约 8.5 万亿美元 （现汇率约合 56.66 万亿元人民币） 。 高盛还将 2030 年美国数据中心容量预测从 125GW 上调至 152GW，预计 2025 年之后累计新增 103GW，占全球同期新增容",
+   "published_at": 1793710729.0,
+   "published_bj": "2026-11-03 20:58"
+  },
+  {
+   "id": "48c62f922a2ed7bb",
+   "source": "IT之家",
+   "title": "用 AI 教 AI 开车，百度 Apollo World 世界模型亮相",
+   "url": "https://www.ithome.com/1/021/808.htm",
+   "summary": "IT之家 11 月 3 日消息，今天，在深圳举行的百度 AI Day·Apollo 专场上，百度 Apollo 首次披露面向物理 AI 的智能体驱动全模态世界模型 Apollo World，并提出世界模型“2+3”判断标准。 Apollo World 可以生成一段相对真实的视频 让虚拟世界遵循现实规律、回应无人车的动作，并支持驾驶系统从起点出发，一路开到目的地 据IT之家了解，用于无人驾驶的 Apollo World 不仅要生成逼真的画面，还要准确推演现实世界如何变化。百度 Apollo 提出了世界模型“2+3”判断标准： “2”是基础门槛： 因果性：世界模型应当遵循时间的单向性，由过去决定未",
+   "published_at": 1793710518.0,
+   "published_bj": "2026-11-03 20:55"
+  },
+  {
+   "id": "a57ac4a1f51e9034",
+   "source": "IT之家",
+   "title": "全球首款甲醇电混家轿吉利银河星耀 6 EF 发布：CLTC 综合续航最高 1880km，上市限时焕新价 7.68-9.68 万元",
+   "url": "https://www.ithome.com/1/021/807.htm",
+   "summary": "IT之家 11 月 3 日现场消息，在今晚的吉利新一代甲醇电混技术发布暨吉利银河星耀 6EF 上市发布会上，吉利银河星耀 6 EF 甲醇电混家轿正式发布， 上市限时焕新价 7.68-9.68 万元 。 IT之家附吉利银河星耀 6 EF 各版型价格如下： 130km 豪华版 EF：上市指导价 8.68 万元； 上市限时焕新价 7.68 万元 ； 230km 尊贵版 EF：上市指导价 9.68 万元； 上市限时焕新价 8.68 万元 ； 230km 旗舰版 EF：上市指导价 10.68 万元； 上市限时焕新价 9.68 万元 。 据介绍，新车是全球首款甲醇电混家轿， 搭载新一代可醇、可电、可油的甲",
+   "published_at": 1793710469.0,
+   "published_bj": "2026-11-03 20:54"
+  },
+  {
+   "id": "b40588b8d1dc3d6d",
+   "source": "IT之家",
+   "title": "消息称三星显示和 LG Display 正为苹果产品 OLED 面板开发新工艺，有望提高屏幕整体亮度表现",
+   "url": "https://www.ithome.com/1/021/806.htm",
+   "summary": "IT之家 11 月 3 日消息，据韩媒 The Elec 报道，苹果显示屏供应商三星显示（Samsung Display）和 LG Display 正在研发新型 OLED 面板制造工艺。 消息人士透露，苹果目前优先考虑采用现有的溅射工艺，生产基于高迁移率氧化物（HMO，High Mobility Oxide）技术的显示面板。为此，三星显示和 LG Display 正分别开发新的原子层沉积（ALD）及溅射工艺方案，以便将相关技术应用于实际生产线。 据报道，这项制造工艺升级有望带来多方面改进，其中一项重要变化是提升 OLED 面板单个像素的发光亮度，从而提高屏幕整体亮度表现，同时也有望改善显示对比",
+   "published_at": 1793710360.0,
+   "published_bj": "2026-11-03 20:52"
   },
   {
    "id": "b029d3195671e084",
@@ -67,12 +157,93 @@
    "published_bj": "2026-11-03 20:49"
   },
   {
+   "id": "f6382099cdaf0d64",
+   "source": "IT之家",
+   "title": "Embark 工作室：从没想到《ARC Raiders》游戏会如此成功",
+   "url": "https://www.ithome.com/1/021/805.htm",
+   "summary": "IT之家 11 月 3 日消息，据游戏媒体 MP1st 昨天报道，Embark 工作室去年 10 月推出《ARC Raiders》时，从没想过这款撤离射击游戏能够取得如此大的成功。毕竟这款作品是一个全新的 IP，相同类型游戏竞争也是非常激烈。 IT之家从原报道获悉，Embark 执行制作人 Aleksander Grøndal 对此表示，他们确实没有预料到游戏能发展到今天的规模。自发售以来，他们已经大幅扩张了团队规模，目前仍在招聘人员。转型为在线服务型游戏带来了一系列挑战，他们希望摸索出适合自己的运营方式。 同时这名制作人表示，他希望《ARC Raiders》能成为长期运营下去的游戏。考虑到 ",
+   "published_at": 1793710126.0,
+   "published_bj": "2026-11-03 20:48"
+  },
+  {
+   "id": "7088e0d5c5e646da",
+   "source": "IT之家",
+   "title": "比亚迪在巴西市场份额一年翻倍，剑指 2030 年市场龙头地位",
+   "url": "https://www.ithome.com/1/021/804.htm",
+   "summary": "IT之家 11 月 3 日消息，巴西是拉美最大经济体，比亚迪在当地启动整车组装业务一年后，市场份额翻了一倍多，正加快步伐成为巴西汽车市场的主力厂商。 比亚迪周二向彭博新闻社提供的公告显示，截至今年 10 月的一年内，比亚迪在巴西上牌新车 193227 辆，较 2025 年同期增幅超 120%；市场份额由去年同期的 4.2% 升至上月的 9.7%。仅 10 月单月上牌量就达到 24114 辆，同比上涨 137.6%。 IT之家注意到，市场份额快速增长的背后，是比亚迪持续加码巴西市场的布局。作为拉丁美洲最大的经济体，巴西被比亚迪视为推动全球业务增长的关键市场。位于巴西东北部巴伊亚州卡马萨里（Cam",
+   "published_at": 1793710076.0,
+   "published_bj": "2026-11-03 20:47"
+  },
+  {
+   "id": "ff84ff2e21c795a7",
+   "source": "IT之家",
+   "title": "因出现安全问题：FromSoftware 旗下《黑暗之魂》二代 / 三代在线服务器停服维护，恢复时间未定",
+   "url": "https://www.ithome.com/1/021/803.htm",
+   "summary": "IT之家 11 月 3 日消息，FromSoftware 宣布经典游戏《黑暗之魂 2》和《黑暗之魂 3》的在线服务器因出现“安全问题”，目前正在进行维护，暂时无法确定具体恢复时间。 IT之家获悉，此次服务器中断始于 10 月 30 日下午，涉及《黑暗之魂 2》和《黑暗之魂 3》所有平台版本。FromSoftware 表示，此次维护是由于“游戏服务器出现安全问题”，但并未进一步披露具体原因。目前尚不清楚服务器是否遭遇了 DDoS 攻击，还是出现了其他安全隐患。 尽管《黑暗之魂 2》和《黑暗之魂 3》都已推出多年，但得益于系列 IP 影响力以及 FromSoftware 的良好口碑，两款作品至今仍",
+   "published_at": 1793709675.0,
+   "published_bj": "2026-11-03 20:41"
+  },
+  {
+   "id": "6f64e290c792123a",
+   "source": "IT之家",
+   "title": "九州风神曲面屏 AIO 液冷 S360 上市：320W TDP 设定，1499 元",
+   "url": "https://www.ithome.com/1/021/802.htm",
+   "summary": "IT之家 11 月 3 日消息，九州风神 (DeepCool) 现已开始销售 S360 处理器 AIO 液冷散热器。其 配备 6.67\" 2K AMOLED 三面窄边框冷头屏幕 ，全贴合覆盖钢化玻璃盖板，结合防眩光涂层工艺，拥有 3 种屏幕安装方向。 S360 拥有 320W TDP 的解热能力 ：其基于九州风神第 7 代自研水泵，转速 2500~2700 RPM；水冷管为 EPDM + IIR 材质；搭配集成动态泄压阀的 27mm 铝制冷排；吹排风扇采用 FDB 轴承，搭载 3 相 12 槽 10 极电机，支持智能启停。 九州风神 S360 具备静谧与性能 2 种预设模式；兼容英特尔 Soc",
+   "published_at": 1793709240.0,
+   "published_bj": "2026-11-03 20:34"
+  },
+  {
+   "id": "6e597a5ca35aa45c",
+   "source": "IT之家",
+   "title": "400 亿卖掉手机业务？中兴称“不属实”",
+   "url": "https://www.ithome.com/1/021/801.htm",
+   "summary": "IT之家 11 月 3 日消息，今日有消息传出， 中兴通讯正与某互联网大厂商谈手机业务合作 ，方案涉及将中兴手机业务打包，并由中兴、该互联网大厂及上海国资共同成立合资公司。 有相关公司员工称，目前该互联网大厂方面拟出资约 80 亿元，而中兴方面希望按约 400 亿元的业务估值推进，双方商谈的最终估值、持股比例及交易方式目前还在沟通阶段。 观察者网就该消息向中兴通讯求证，对方表示“不属实”。 延伸阅读 IT之家注意到，该消息最初由雷峰网报道。报道援引相关公司员工的说法称，双方自 2026 年 4 月起一直在探讨合作推进方式，7 月再次洽谈，直到 9 月才谈妥最终合作模式，原计划于 10 月底公布",
+   "published_at": 1793708644.0,
+   "published_bj": "2026-11-03 20:24"
+  },
+  {
+   "id": "ff613a1cfcf8f9ee",
+   "source": "Hacker News",
+   "title": "The 'Astra can read and write weights to improve Qwen' post is misleading",
+   "url": "https://honnibal.dev/blog/astra-read-write-misleading",
+   "summary": "Article URL: https://honnibal.dev/blog/astra-read-write-misleading Comments URL: https://news.ycombinator.com/item?id=50351111 Points: 96 # Comments: 11",
+   "published_at": 1793708477.0,
+   "published_bj": "2026-11-03 20:21"
+  },
+  {
+   "id": "64b0df034ffd6d71",
+   "source": "IT之家",
+   "title": "小米智能门锁 5 上架：支持实时监测锁体状态、配备应急启动键，1176 元（国补后 999.6 元）",
+   "url": "https://www.ithome.com/1/021/800.htm",
+   "summary": "IT之家 11 月 3 日消息，小米智能门锁 5 现已在京东上架，该产品将于明天 10 点开启预售，11 月 10 日 20:00 首销，定价为 1176 元，部分地区国补后低至 999.6 元。 京东 小米智能门锁 5 1176 元 国补后低至 999.6 元 直达链接 该门锁采用星辰黑配色，表面配备耐磨面板，产品前面板的尺寸为 400 x 76 x 21 mm，后面板尺寸为 400 x 76 x 26 mm，设备整体净重为 3.37 kg。为了避免用户推拉开门时发生意外，前面板内侧专门设有防夹手挡板，室内面板配置了独立反锁键以满足特定安全需求。 该产品内置降噪全自动锁体，使用直插式 C 级",
+   "published_at": 1793708372.0,
+   "published_bj": "2026-11-03 20:19"
+  },
+  {
+   "id": "13a620d8aebad091",
+   "source": "IT之家",
+   "title": "子弹穿墙后被华硕显示器挡住，玩家躲过一劫",
+   "url": "https://www.ithome.com/1/021/799.htm",
+   "summary": "IT之家 11 月 3 日消息，近日一名玩家正在玩《使命召唤》时，他的华硕 TUF VG258QM 显示器意外挡下了一颗流弹，帮他躲过了本可能酿成悲剧的重伤。 IT之家注意到，Reddit 用户 u/antisocialnae 分享了现场照片，他在帖子里说，惊险一幕发生在深夜，当时他正沉浸在多人对局里。屋外突然传来巨响，他意识到声音离自己非常近，并不是耳机里的游戏音效，于是立刻拨打了紧急电话。 警方让他检查室内墙面有没有子弹击穿的痕迹，这时他才弄清状况。他发现外墙护板和游戏主机正后方的内墙石膏板上有一个整齐的弹孔。他转头看向桌面设备，发现主显示器背面有明显的撞击损坏。 万幸的是，屏幕正面玻璃没",
+   "published_at": 1793708317.0,
+   "published_bj": "2026-11-03 20:18"
+  },
+  {
    "id": "043dabb579550a62",
    "source": "IT之家",
    "title": "索尼 2026 年度 PlayStation 合作伙伴颁奖活动将于 12 月 3 日举办，新增独立创作者等三个奖项",
    "url": "https://www.ithome.com/1/021/798.htm",
    "summary": "IT之家 11 月 3 日消息，索尼 SIE 宣布，PlayStation Partner Awards 2026 Japan Asia（PlayStation 合作伙伴奖）将于 12 月 3 日举行。活动将根据 2025 年 10 月至 2026 年 9 月的游戏销售表现，对 PlayStation 平台游戏进行表彰，共设 7 个奖项，获奖名单预计于 12 月 3 日公布。 IT之家获悉，今年活动新增 3 个奖项，分别为表彰持续更新、通过活动保持玩家活跃度的“持续游戏奖”，面向日本 / 亚洲地区独立游戏的“独立创作者奖”，以及充分发挥 PS5 Pro 性能的“PS5 PRO 优化奖”。 目前",
    "published_at": 1793707283.0,
+   "published_bj": "2026-11-03 20:01"
+  },
+  {
+   "id": "c30164d582fa7c4c",
+   "source": "Hacker News",
+   "title": "Sava Trust (YC F25) Is Hiring a Founding Engineer in NYC",
+   "url": "https://www.ycombinator.com/companies/sava-trust-company/jobs",
+   "summary": "Article URL: https://www.ycombinator.com/companies/sava-trust-company/jobs Comments URL: https://news.ycombinator.com/item?id=50350924 Points: 0 # Comments: 0",
+   "published_at": 1793707261.0,
    "published_bj": "2026-11-03 20:01"
   },
   {
@@ -226,6 +397,15 @@
    "url": "https://www.cnbeta.com.tw/articles/tech/1584864.htm",
    "summary": "Google日前披露一起波及Android TV生态的大规模安全事件。一家获得官方认证的Android TV设备制造商被发现长期在产品中预装隐藏后门程序，并向第三方出售访问权限用于分发恶意软件。在调查完成后，Google宣布与涉事企业彻底切断合作关系，并采取法律行动关闭相关恶意网络基础设施。 阅读全文",
    "published_at": 1793704572.0,
+   "published_bj": "2026-11-03 19:16"
+  },
+  {
+   "id": "b1c7348447a54da0",
+   "source": "Hacker News",
+   "title": "Anthropic IPO filing: $1.7B quarterly payroll, about $107K per employee monthly",
+   "url": "https://www.techspot.com/news/114428-anthropic-ipo-filing-reveals-17-billion-quarterly-personnel.html",
+   "summary": "Article URL: https://www.techspot.com/news/114428-anthropic-ipo-filing-reveals-17-billion-quarterly-personnel.html Comments URL: https://news.ycombinator.com/item?id=50350560 Points: 36 # Comments: 34",
+   "published_at": 1793704567.0,
    "published_bj": "2026-11-03 19:16"
   },
   {

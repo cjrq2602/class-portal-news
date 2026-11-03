@@ -1,7 +1,7 @@
 {
  "date": "2026-11-02",
- "generated_at": 1793707419.8132472,
- "count": 364,
+ "generated_at": 1793712529.979996,
+ "count": 365,
  "items": [
   {
    "id": "f962b58fa02bb078",
@@ -335,6 +335,15 @@
    "summary": "IT之家 11 月 2 日消息，埃隆 · 马斯克称，AI 富足时代终将到来，但眼下，Grok Bot 还做不到不限量使用。 这位 SpaceX 首席执行官当地时间上周日在 X 平台发文称：有用户反馈每周额度消耗速度远超往常，对此他表示，该 AI 智能体的服务成本“相对于收入而言高到难以为继”。 Grok Bot 是 SpaceX 在 8 月推出的 AI 智能体，其依托虚拟计算机替人完成购物等各类任务。该产品分多个档位，从免费版到每月 200 美元 （IT之家注：现汇率约合 1,332 元人民币） 套餐不等。 所有档位都设有每周重置的使用限额。SpaceX 以及 Meta 的 Muse 等其他 ",
    "published_at": 1793626713.0,
    "published_bj": "2026-11-02 21:38"
+  },
+  {
+   "id": "222f13db8c32a076",
+   "source": "Hacker News",
+   "title": "433MHz TUI scanner: using a FT232H connected to a CC1101",
+   "url": "https://blog.jacq.cc/guides/cc1101-433mhz-scanner-ft232h/",
+   "summary": "Article URL: https://blog.jacq.cc/guides/cc1101-433mhz-scanner-ft232h/ Comments URL: https://news.ycombinator.com/item?id=50336557 Points: 12 # Comments: 5",
+   "published_at": 1793626094.0,
+   "published_bj": "2026-11-02 21:28"
   },
   {
    "id": "f48c7a00f481d3a4",
