@@ -1,8 +1,26 @@
 {
  "date": "2026-11-03",
- "generated_at": 1793688861.9875147,
- "count": 242,
+ "generated_at": 1793693210.3545046,
+ "count": 297,
  "items": [
+  {
+   "id": "3f4a6e499900c536",
+   "source": "InfoQ中文",
+   "title": "构建面向 Agentic 推理的下一代 LLM 推理引擎",
+   "url": "https://www.infoq.cn/article/YwAayF1ylWb7oN4P0lyC?utm_source=rss&utm_medium=article",
+   "summary": "点击查看原文>",
+   "published_at": 1793720416.0,
+   "published_bj": "2026-11-03 23:40"
+  },
+  {
+   "id": "4bed410281a77c4e",
+   "source": "InfoQ中文",
+   "title": "AI 复刻 Adobe 系列软件开发者坦言：项目远未准备就绪",
+   "url": "https://www.infoq.cn/article/a2X4KVOXOt6lACRv8IWh?utm_source=rss&utm_medium=article",
+   "summary": "点击查看原文>",
+   "published_at": 1793718720.0,
+   "published_bj": "2026-11-03 23:12"
+  },
   {
    "id": "6ccde792cf726e4f",
    "source": "InfoQ中文",
@@ -103,6 +121,447 @@
    "published_bj": "2026-11-03 17:00"
   },
   {
+   "id": "f65fc11d7a837bf9",
+   "source": "cnBeta",
+   "title": "OpenAI聘请美国前陆军部长 负责国家安全现代化事务",
+   "url": "https://www.cnbeta.com.tw/articles/tech/1584852.htm",
+   "summary": "据CNBC报道， OpenAI已聘请美国前陆军部长丹·德里斯科尔（Dan Driscoll）担任国家安全现代化高级顾问 。这是OpenAI新设立的职位，主要聚焦人工智能在国家安全和网络安全领域的应用。 阅读全文",
+   "published_at": 1793693151.0,
+   "published_bj": "2026-11-03 16:05"
+  },
+  {
+   "id": "21c798d97a4b6163",
+   "source": "cnBeta",
+   "title": "美国公务机坠机遇难者信息公开 含科技大亨一家四口",
+   "url": "https://www.cnbeta.com.tw/articles/tech/1584850.htm",
+   "summary": "当地时间11月1日中午，一架注册编号N722BD庞巴迪里尔60（Learjet 60）中型公务机在美国佛罗里达州棕榈滩县坠毁，机上一共9人全部遇难。目前， 遇难者名单已经对外公布，其中就包含来自得州奥斯汀的科技企业家亚当·罗宾逊一家四口 。 阅读全文",
+   "published_at": 1793693111.0,
+   "published_bj": "2026-11-03 16:05"
+  },
+  {
+   "id": "14419e4fb459dfac",
+   "source": "cnBeta",
+   "title": "特斯拉新功能可拖着充电枪跑路 但弄坏设施需赔偿高达17万",
+   "url": "https://www.cnbeta.com.tw/articles/tech/1584848.htm",
+   "summary": "特斯拉在软件更新2026.38.3中推出了Emergency Drive Away（紧急驶离）功能，允许车主在紧急情况下不拔充电枪直接驶离超充桩，但使用代价相当高昂。 特斯拉车辆正常情况下在插枪状态下无法挂挡驶离。 新功能上线后，如果车主尝试在插枪时挂挡，触控屏会弹出红色警告，提示“连接超充桩时无法挂挡，激活紧急驶离功能可强制解除”。 阅读全文",
+   "published_at": 1793693090.0,
+   "published_bj": "2026-11-03 16:04"
+  },
+  {
+   "id": "b0069b08839494a9",
+   "source": "IT之家",
+   "title": "Anthropic 警示：AI 递归自我改进（RSI）近在眼前",
+   "url": "https://www.ithome.com/1/021/626.htm",
+   "summary": "IT之家 11 月 3 日消息，外界的目光大多集中在 Anthropic 周一更新的 S-1/A 招股补充文件披露的最新财务数据上（营收暴涨，支出同样激增），但这家人工智能实验室在文件小字部分抛出了另一枚重磅信息。 这份申报文件似乎发出警示：该公司即将研发出具备递归自我改进（RSI）能力的模型。 递归自我改进，指人工智能的自我训练能力达到极高水平，进而推动自身能力爆发式增长的阶段。对于人工智能风险悲观派而言，递归自我改进是一场无法逆转的灾难：人工智能将自我进化到足以脱离人类掌控的强大程度，并且在实现自身目标的过程中，可能对其所造成的损害无动于衷。 而在人工智能乐观者看来，递归自我改进，或是 A",
+   "published_at": 1793692999.0,
+   "published_bj": "2026-11-03 16:03"
+  },
+  {
+   "id": "0a27f158af7ec906",
+   "source": "IT之家",
+   "title": "外交部：互联网技术应当增强人的能力，不能让技术加剧人类发展的分化",
+   "url": "https://www.ithome.com/1/021/625.htm",
+   "summary": "IT之家 11 月 3 日消息，据央视新闻报道，11 月 3 日，外交部发言人毛宁主持例行记者会。 有记者提问：2026 世界互联网大会刚刚在乌镇开幕。今年主题是“开源开放共建共享 —— 携手构建网络空间命运共同体”，重点围绕数智时代前沿热点议题特别是人工智能发展实践与治理理念进行交流，中方能否进一步介绍情况？人工智能时代也带来技术滥用、数字鸿沟、泛安全化等风险，中方如何看待？ 对此，毛宁表示，尽管技术发展日新月异，人们普遍关心的一个重大命题却始终没有变，那就是如何让互联网更好造福人类。互联网发展的最终目的，是促进人的全面发展，需要更加突出以人为本的价值取向。互联网技术应当增强人的能力、拓展人",
+   "published_at": 1793692865.0,
+   "published_bj": "2026-11-03 16:01"
+  },
+  {
+   "id": "edfe66a493c0d21c",
+   "source": "TechCrunch",
+   "title": "Yvonne Bajela is bringing $17M in fresh capital to Europe’s startup scene",
+   "url": "https://techcrunch.com/2026/11/03/yvonne-bajela-is-bringing-17m-in-fresh-capital-to-europes-startup-scene/",
+   "summary": "Evertrue Capital announces $17M debut fund to back early stage AI and fintech.",
+   "published_at": 1793692860.0,
+   "published_bj": "2026-11-03 16:01"
+  },
+  {
+   "id": "bc897fb9054ebb35",
+   "source": "IT之家",
+   "title": "华硕海外推出 ProArt PA329CDV 显示器：32 英寸 4K 120Hz QD-OLED 面板，899 欧元",
+   "url": "https://www.ithome.com/1/021/624.htm",
+   "summary": "IT之家 11 月 3 日消息，华硕现已在海外市场推出 ProArt PA329CDV 显示器。新品采用 32 英寸 QD-OLED 面板，支持 4K 120Hz 高刷，定价 899 欧元 （IT之家注：现汇率约合 6,700 元人民币） 。 据介绍，这款显示器的分辨率为 3840*2160， 刷新率 120Hz ， 支持 VRR（可变刷新率）并具备 HDMI 2.1 接口 ，可连接各类游戏主机。SDR 模式下最高亮度为 300nits，HDR 峰值亮度可达 1000nits。 同时，该显示器面板覆盖耐刮擦防眩光涂层，能够减少屏幕反光。覆盖 99% DCI-P3 和 BT.2020 色域，带有",
+   "published_at": 1793692773.0,
+   "published_bj": "2026-11-03 15:59"
+  },
+  {
+   "id": "4073a18fed685c28",
+   "source": "IT之家",
+   "title": "新型“郊狼”反无人机系统问世：升级固体火箭发动机，可提升飞行速度",
+   "url": "https://www.ithome.com/1/021/622.htm",
+   "summary": "IT之家 11 月 3 日消息，制造商雷神公司（Raytheon）宣布推出新型“郊狼（Coyote）”反无人机系统“ Coyote Block 2C+RM”，与此前采用涡轮喷气发动机的型号不同，新型号改用固体火箭发动机，并升级了导引头和战斗部分，以提高拦截速度和作战能力。 “郊狼”反无人机系统最早于 2000 年代问世，最初由美国亚利桑那州图森市的 Advanced Ceramic Research 公司开发，是一款采用发射管发射的小型无人机。雷神公司于 2015 年收购上述公司，并将相关技术纳入自身产品体系。 据介绍，早期 Block 1 型号采用螺旋桨动力和可折叠机翼。后续推出的 Bloc",
+   "published_at": 1793692716.0,
+   "published_bj": "2026-11-03 15:58"
+  },
+  {
+   "id": "e3440f4ad85e137a",
+   "source": "cnBeta",
+   "title": "微软公布AI PC发展路线图：8GB入门机到128GB“超级计算机”全面覆盖",
+   "url": "https://www.cnbeta.com.tw/articles/tech/1584846.htm",
+   "summary": "微软日前披露下一代Windows AI PC发展路线图，试图为未来数年的人工智能个人电脑市场建立统一分级体系。根据规划，微软将依据设备内存容量、AI处理能力以及本地运行大模型的能力，将未来AI PC划分为四个不同层级，覆盖从入门级办公设备到具备工作站级算力的高端系统。 阅读全文",
+   "published_at": 1793692639.0,
+   "published_bj": "2026-11-03 15:57"
+  },
+  {
+   "id": "215b7562011c1fb1",
+   "source": "IT之家",
+   "title": "腾讯《王者荣耀》开放苹果 iPhone Duo 机型 120 帧模式，Air 苦等一年仍被“遗忘”",
+   "url": "https://www.ithome.com/1/021/621.htm",
+   "summary": "IT之家 11 月 3 日消息，据多名玩家反馈，腾讯《王者荣耀》手游终于开放了苹果 iPhone Duo 机型的 120 帧游玩模式， 但内屏游玩时的“大黑边”问题仍未解决 。 另外，还有一款机型至今仍未适配《王者荣耀》的 120 帧模式 —— iPhone Air。 该机型于 2025 年 9 月随 iPhone &nbsp;17 系列一同发布 ，主打轻薄特性，也是苹果在国内首款纯 eSIM 的 iPhone。 据IT之家了解，iPhone 17 系列除了 Air 外，其余机型均已开放《王者荣耀》120 帧模式。值得一提的是，iPhone Air 虽然不支持《王者荣耀》国服 120 帧游玩，",
+   "published_at": 1793692622.0,
+   "published_bj": "2026-11-03 15:57"
+  },
+  {
+   "id": "b41ea643efe398e3",
+   "source": "cnBeta",
+   "title": "Windows 11界面现代化再进一步：连磁盘碎片整理工具都将迎来WinUI重构",
+   "url": "https://www.cnbeta.com.tw/articles/tech/1584844.htm",
+   "summary": "微软正在持续推进Windows 11史上规模最大的界面现代化工程，而最新迹象显示，这项计划已经延伸到了系统中最古老的组成部分之一——磁盘碎片整理工具。长期以来被视为“上古遗产”的系统组件，如今也开始获得全新的设计语言和技术架构支持，这被外界视为微软重新拥抱WinUI原生框架的重要信号。 阅读全文",
+   "published_at": 1793692519.0,
+   "published_bj": "2026-11-03 15:55"
+  },
+  {
+   "id": "9e6404aa467061eb",
+   "source": "cnBeta",
+   "title": "乌克兰推出口袋大小的侦测设备：截获俄无人机实时画面 对方侦察摄像头反而暴露目标",
+   "url": "https://www.cnbeta.com.tw/articles/tech/1584842.htm",
+   "summary": "乌克兰一家位于基辅的科技初创企业CODE380推出了一款小型无线电接收设备D·Vision SDR，能够直接接收多种俄罗斯无人机通过无线电传输的实时视频画面。乌克兰前线部队借助这款设备，可以在敌方无人机飞抵目标区域之前，提前看到无人机正在观察什么、飞向哪里，以及操作员正在瞄准什么目标。 阅读全文",
+   "published_at": 1793692395.0,
+   "published_bj": "2026-11-03 15:53"
+  },
+  {
+   "id": "a26fb3cef1c7ba90",
+   "source": "cnBeta",
+   "title": "RPCS3兼容列表“Loadable”类别清零 约八成PS3游戏已可通关游玩",
+   "url": "https://www.cnbeta.com.tw/articles/game/1584840.htm",
+   "summary": "PlayStation 3模拟器RPCS3的“Loadable”兼容类别现已没有游戏。开发团队表示，Tom Clancy’s H.A.W.X. 2在修复SPU精度问题后，从“Loadable”升至“Ingame”，使这一类别首次自2023年以来再次归零。 阅读全文",
+   "published_at": 1793692342.0,
+   "published_bj": "2026-11-03 15:52"
+  },
+  {
+   "id": "52aa24531a6c0af8",
+   "source": "IT之家",
+   "title": "百度否认昆仑芯 IPO 推迟言论：相关市场传闻及相关报道不属实",
+   "url": "https://www.ithome.com/1/021/619.htm",
+   "summary": "IT之家 11 月 3 日消息，据科创板日报今日报道，就近日有关昆仑芯上市时间可能推迟的市场传闻，百度方面回应表示： 相关市场传闻及相关报道不属实 。 百度方面表示，昆仑芯目前处于保密申报阶段。根据监管要求，公司不能披露包括上市流程进展在内的任何重大非公开信息。百度方面表示，未来将适时对外公告，请关注公司后续发布的信息。 据IT之家此前报道 ，百度集团曾宣布，昆仑芯已于今年 1 月 1 日通过其联席保荐人向香港证券交易所提交了上市申请表。在拟议的分拆完成后，昆仑芯预计仍将作为子公司。 根据证监会官网披露的信息，昆仑芯（北京）科技股份有限公司于 2026 年 5 月 7 日正式启动科创板上市辅导",
+   "published_at": 1793692266.0,
+   "published_bj": "2026-11-03 15:51"
+  },
+  {
+   "id": "d02d964edeb11b9c",
+   "source": "IT之家",
+   "title": "苹果服务业务承压：App Store 佣金下滑，拟借第三方 AI 应用拓宽收入来源",
+   "url": "https://www.ithome.com/1/021/618.htm",
+   "summary": "IT之家 11 月 3 日消息，苹果的服务业务营收仍处在历史高位，但面临的压力持续加大。作为这块业务的核心，App Store 受到监管压力与手游市场低迷的双重冲击，拖累了服务业务的增长。 不过在当地时间周一的财报电话会议上，苹果释放信号，考虑借助第三方应用拉动服务收入。但这具体意味着什么？目前还没有清晰答案。 在谈及人工智能有望“在未来带动营收增长”时，苹果首席财务官凯文 · 帕雷克（Kevan Parekh）表示：“从产品层面来说，我们认为人工智能可以成为用户升级设备、转用苹果产品的重要理由，以此体验最新功能。同时我们也看到，第三方应用、合作项目以及苹果自有业务都存在增长机会。” 帕雷克没",
+   "published_at": 1793692263.0,
+   "published_bj": "2026-11-03 15:51"
+  },
+  {
+   "id": "29b77bd05b0a602d",
+   "source": "cnBeta",
+   "title": "走私者利用低端服务器芯片夹带高端HBM内存绕过美国出口管制 运抵中国后拆解芯片",
+   "url": "https://www.cnbeta.com.tw/articles/tech/1584838.htm",
+   "summary": "美国针对中国先进半导体技术的出口管制再次暴露出新的漏洞。据The Information调查报道，一些走私者正在利用特殊的芯片封装方式，将高带宽内存（HBM）与低端服务器处理器组合在一起，以普通计算芯片的名义出口，随后再将整套组件运往中国，在当地拆解并回收其中的高端HBM内存。 阅读全文",
+   "published_at": 1793692192.0,
+   "published_bj": "2026-11-03 15:49"
+  },
+  {
+   "id": "4df5331c1e34359e",
+   "source": "cnBeta",
+   "title": "北欧国家未来也可能遭遇40℃极端高温 发生概率已比1981年增加六倍",
+   "url": "https://www.cnbeta.com.tw/articles/science/1584836.htm",
+   "summary": "长期以来，挪威、瑞典和芬兰等北欧国家一直被认为是欧洲较为凉爽的地区，即使欧洲大陆遭遇严重热浪，这些国家通常也不会出现特别极端的高温。然而，芬兰气象研究所的一项最新研究指出，40℃高温已经不能被视为北欧地区不可能发生的天气现象。随着气候变化持续推进，这种极端温度出现的概率正在明显上升。 阅读全文",
+   "published_at": 1793692045.0,
+   "published_bj": "2026-11-03 15:47"
+  },
+  {
+   "id": "51fc7c9a04843ec2",
+   "source": "IT之家",
+   "title": "真“全面屏 iPhone”：开发者放出小米 REDMI K20 Pro 刷苹果 iOS 16 测试固件包",
+   "url": "https://www.ithome.com/1/021/617.htm",
+   "summary": "IT之家 11 月 3 日消息，随着 AI 技术突飞猛进，许多开发者在大模型辅助加持之下对各种老旧机型进行折腾，例如目前就有开发者“你说喜欢是装的”放出了小米 REDMI K20 Pro 手机刷苹果 iOS 16.5 的测试包。 ▲ 图源“你说喜欢是装的”（下同） 据开发者介绍，该方案支持双系统 / 数据持久化。与部分移植方案不同，该项目没有采用上游 u-boot 方案，主要原因是 REDMI K20 Pro 不具备 A/B 分区。 刷入过程中，工具会清除手机原有安卓数据并重新创建分区，同时暂时替换 TWRP Recovery，用户后续可以通过脚本恢复。 在启动方式上，用户可以通过正常启动进入",
+   "published_at": 1793691847.0,
+   "published_bj": "2026-11-03 15:44"
+  },
+  {
+   "id": "d7e82cde7120ad2e",
+   "source": "IT之家",
+   "title": "摩根士丹利 CEO：未来十年 AI 领域资本支出或达 10 万亿-15 万亿美元",
+   "url": "https://www.ithome.com/1/021/616.htm",
+   "summary": "IT之家 11 月 3 日消息，据《英文虎报》今天报道，摩根士丹利董事长兼 CEO 泰德・皮克（Ted Pick）在第五届国际金融领袖投资峰会表示，未来 10 年， AI 领域的资本支出可能需要 10 万亿至 15 万亿美元 （IT之家注：现汇率约合 66.65 万亿至 99.98 万亿元人民币） ，推动 GDP 增长 50 至 70 个基点。 皮克指出，AI 基础设施建设融资，是涉及多个环节的复杂依存关系，例如前沿 AI 实验室、芯片制造商、基础设施建设企业及能源供应商。 高盛董事长兼 CEO 戴维・所罗门（David Solomon）谈到市场对 AI 泡沫破裂的担忧时表示，市场对算力的需求",
+   "published_at": 1793691804.0,
+   "published_bj": "2026-11-03 15:43"
+  },
+  {
+   "id": "328c57dd3984bddc",
+   "source": "IT之家",
+   "title": "OpenAI 将合并 ChatGPT 对话与工作台标签页，Codex 仍保持独立",
+   "url": "https://www.ithome.com/1/021/615.htm",
+   "summary": "IT之家 11 月 3 日消息，据 TechCrunch 报道，ChatGPT 桌面端软件的界面布局容易让人感到困惑：它分为 ChatGPT 和 Codex 两大板块，而在 ChatGPT 板块内部，又设有对话（Chat）和工作台（Work）两个标签页。选项繁多，用户有时很容易搞不清自己当前所处的工作位置，以及项目文件到底保存在哪里。 根据发给用户的一封邮件，OpenAI 正准备把 ChatGPT 里的对话标签页和工作台标签页合并，以此解决上述问题。OpenAI 表示，这项新功能会先向部分用户开放，收集反馈后再全面推送。 邮件中写道：“这次调整之后，你可以在同一个界面里，从构思想法开始，直到让",
+   "published_at": 1793691783.0,
+   "published_bj": "2026-11-03 15:43"
+  },
+  {
+   "id": "d3970bd1921944d2",
+   "source": "Solidot",
+   "title": "全球加速发展核电",
+   "url": "https://www.solidot.org/story?sid=85782",
+   "summary": "全球在建核电站已增至 79 个机组，达到 40 年来的高水平。据世界核协会统计，2026 年全球有 11 个新核电机组开工建设，截至 10 月 16 日，在建核电机组数量达到 79 个。这是 1986 年（91 个）以来的高位。1986 年是切尔诺贝利核电站事故发生的年份，此后全球新建核电机组数量有所减少。如果将预计未来 15 年内投入运营的正在规划的核电机组也计算在内，数量将达到 201 个。目前全球在运核电机组共有 443 个。即使考虑到因老化而退役的核电机组，到 2040 年前后，全球在运核电机组数量仍有可能超过 600 个。目前全球在建的79个核电机组中，仅中国就有38个，约占总数的一",
+   "published_at": 1793691694.0,
+   "published_bj": "2026-11-03 15:41"
+  },
+  {
+   "id": "bc66885a96ee1031",
+   "source": "IT之家",
+   "title": "全汉推出双卡 AI 工作站机箱 U661，配备 3 颗前置 16030 风扇",
+   "url": "https://www.ithome.com/1/021/614.htm",
+   "summary": "IT之家 11 月 3 日消息，全汉 (FSP) 现已推出机箱新品 U661。这一型号面向 AI 工作站应用场景，支持双卡部署， 预装 3 颗前置 16030 风扇 、 1 颗后置 12025 风扇 。 U661 三维 450×258×468 (mm)，采用 0.8mm SPCC 钢板，集成隔音材料。其 拥有 9 条扩展槽 ，兼容 SSI-EEB、E-ATX 及以下尺寸主板，扩展卡限长 420mm、ATX 电源限长 230mm、处理器散热器限高 177mm， 集成双扩展卡支架 。 其顶部拥有 3 个 120mm / 140mm 风扇位并兼容 360 冷排，后方除预装风扇外也支持 140mm 尺",
+   "published_at": 1793691530.0,
+   "published_bj": "2026-11-03 15:38"
+  },
+  {
+   "id": "136d8e99efba5d4c",
+   "source": "Hacker News",
+   "title": "uBlock Origin filter to block autoplay videos in TechCrunch",
+   "url": "https://cornfieldlabs.github.io/posts/ublock-stop-techcrunch-autoplay-video/post.html",
+   "summary": "Article URL: https://cornfieldlabs.github.io/posts/ublock-stop-techcrunch-autoplay-video/post.html Comments URL: https://news.ycombinator.com/item?id=50349155 Points: 23 # Comments: 2",
+   "published_at": 1793691407.0,
+   "published_bj": "2026-11-03 15:36"
+  },
+  {
+   "id": "909881bd2930e422",
+   "source": "cnBeta",
+   "title": "英国网络安全机构拉响警报：AI时代将至 老旧系统面临新型网络威胁",
+   "url": "https://www.cnbeta.com.tw/articles/tech/1584834.htm",
+   "summary": "英国国家网络安全中心（NCSC）近日发布警告称，英国关键基础设施运营方必须尽快为下一代网络攻击做好准备。该机构预计，到2028年前后，由人工智能驱动的恶意软件和勒索软件攻击将成为现实威胁，而大量仍在使用老旧系统的组织可能成为重点目标。 阅读全文",
+   "published_at": 1793691406.0,
+   "published_bj": "2026-11-03 15:36"
+  },
+  {
+   "id": "7255582ef3ace427",
+   "source": "IT之家",
+   "title": "安卓和 iOS 跨平台文件互传明年走进 App，约 20 行代码搭起分享桥梁",
+   "url": "https://www.ithome.com/1/021/612.htm",
+   "summary": "IT之家 11 月 3 日消息，科技媒体 9to5Google 昨日（11 月 2 日）发布博文，报道称在 2026 年安卓开发者峰会上， 谷歌宣布将于 2027 年上半年推出快速分享（Quick Share）SDK，让安卓与苹果 iOS 跨平台传文件更方便。 IT之家援引博文介绍，在现有安卓和 iOS 系统跨平台分享体验中，用户需要先打开系统分享菜单，再进入全屏快速分享（Quick Share）界面。而接入 SDK 后，第三方应用可直接调用分享功能，并通过底部弹出面板展示待发送文件的预览，减少界面切换。 按照谷歌公布的信息，该 SDK 支持设备间端到端加密传输，可自动处理热点创建，并在支持的",
+   "published_at": 1793691375.0,
+   "published_bj": "2026-11-03 15:36"
+  },
+  {
+   "id": "dd84dc60a3a4870f",
+   "source": "IT之家",
+   "title": "消息称微信鸿蒙版 App 开启“群消息免打扰仍通知”功能灰度，可单独设置部分内容提醒",
+   "url": "https://www.ithome.com/1/021/611.htm",
+   "summary": "IT之家 11 月 3 日消息，据博主 @伤心萨摩耶Ciuciu 昨晚透露，微信鸿蒙版 App 已在 8.0.23 版本开启了 “群消息免打扰仍通知” 功能灰度。 开启群消息免打扰之后，群设置新增以下消息仍通知，可设置 @我、@所有人、群公告以及指定群成员的消息在群消息免打扰时仍通知。 参考IT之家昨日报道，微信鸿蒙版 App 在华为应用市场（App Gallery）开启了 8.0.23.33 正式版本升级。和往常一样，本次更新的说明依旧为“修复了一些已知问题”。据用户反馈，8.0.23 版本的微信新增了如下特性： 部分 Flutter 跨端页面（如朋友圈、听一听、表情管理等页面）响应系统字体",
+   "published_at": 1793691369.0,
+   "published_bj": "2026-11-03 15:36"
+  },
+  {
+   "id": "5259b8635f1885e2",
+   "source": "cnBeta",
+   "title": "持续七年的漏气危机画上句号 国际空间站俄方PrK通道或被永久封闭",
+   "url": "https://www.cnbeta.com.tw/articles/science/1584832.htm",
+   "summary": "持续困扰国际空间站多年的空气泄漏问题似乎终于迎来了最终解决方案。多家航天领域消息显示，位于国际空间站俄罗斯“星辰”号服务舱尾部的PrK转运通道已被决定永久关闭。由于长期存在且无法彻底修复的裂缝，该通道未来将不再承担人员进入和货物卸载任务，俄罗斯货运飞船的运营方式也将因此发生重大调整。 阅读全文",
+   "published_at": 1793691353.0,
+   "published_bj": "2026-11-03 15:35"
+  },
+  {
+   "id": "33bfad4e062a759b",
+   "source": "IT之家",
+   "title": "华尔街大行出手，X 平台金融博主因转载研报遭封号",
+   "url": "https://www.ithome.com/1/021/609.htm",
+   "summary": "IT之家 11 月 3 日消息，据彭博社报道，多年来，尼尔 · 塞西（Neil Sethi）习惯在 X 平台发布华尔街研报内容，配上图表和股票参考信息，慢慢积累了近三万名关注者。在他看来，这是一种互惠的做法：他打造个人影响力，银行的研报也能通过点赞和转发获得更多曝光。 但今年夏天，一切都变了。美国银行指控他未经许可发布该行资料，他的账号 @neilksethi 随即被封禁。塞西在俄亥俄州上阿灵顿经营一家小型投资公司，他提出了再也不使用相关研究资料的承诺，却至今没能拿回这个运营了十年的账号。 “这个账号帮我接触到了很多原本不会有交集的人，”五十四岁的塞西说，“账号说封就封，连弄清情况、补救的机会",
+   "published_at": 1793691316.0,
+   "published_bj": "2026-11-03 15:35"
+  },
+  {
+   "id": "1dbca2e391f1847f",
+   "source": "cnBeta",
+   "title": "科学家发现无需改变化学成分即可调控磁性的新方法",
+   "url": "https://www.cnbeta.com.tw/articles/science/1584830.htm",
+   "summary": "美国能源部橡树岭国家实验室（ORNL）研究团队宣布，他们发现了一种无需改变材料化学组成即可调控磁性的新方法。研究表明，仅通过施加轻微机械应变，就能够改变某些晶体材料内部的磁结构，并进一步影响其电子传输特性。这一发现有望为下一代自旋电子学器件开发开辟新的技术路径。 阅读全文",
+   "published_at": 1793691288.0,
+   "published_bj": "2026-11-03 15:34"
+  },
+  {
+   "id": "fa1ed406c0bde1bc",
+   "source": "IT之家",
+   "title": "收机赌溢价终“血亏十几万”：消息称高价囤货苹果 iPhone Duo 的黄牛如今“卖一台亏一台”",
+   "url": "https://www.ithome.com/1/021/606.htm",
+   "summary": "IT之家 11 月 3 日消息，据浙江经视报道，苹果首款折叠屏 iPhone Duo 开售已满一周，首发前大批黄牛看好它的稀缺性，高价囤货、加价收机，原本期待复刻往年新机的溢价行情。 不料，该机因屏幕铰链门及软件优化适配等问题，导致市场热度不及预期，行情快速回落，导致此前囤货赌溢价空间的黄牛“卖一台亏一台”。 例如，杭州颐高数码城一商户表示，最近圈子里做 iPhone Duo 和相关折叠屏品类的黄牛几乎全部都在亏钱，现在行业里大家都在传， 入行时间稍久一点的黄牛最少都亏了十几万甚至二十多万 ，现在不亏钱的黄牛反而成了圈子里的异类。 如今，新品首发期靠囤货倒手就能躺赚的好日子一去不复返，数码产品",
+   "published_at": 1793690993.0,
+   "published_bj": "2026-11-03 15:29"
+  },
+  {
+   "id": "d70a424fd73f2aaa",
+   "source": "IT之家",
+   "title": "台电推出 N30 Pro 迷你主机，酷睿 3 304 处理器、12GB 内存",
+   "url": "https://www.ithome.com/1/021/604.htm",
+   "summary": "IT之家 11 月 3 日消息，台电现已在海外市场推出 N30 Pro 迷你主机， 新品采用英特尔 Windcat Lake 平台 ，接口布局与 MOREFINE M9 Pro、Ninkear Mbox 18 等产品类似。 据介绍，这款迷你主机通体黑色，设计较为简洁。搭载英特尔酷睿 3 304 处理器，满足日常办公和轻度娱乐需求。内置的 Xe3 核显仅配备 1 个核心，不适合玩游戏。 同时， 这款迷你主机配备 1 个 USB4 接口 ，可以外接显卡。并具备 3 个 USB 3.2 Gen 2 Type-A 接口、2 个 HDMI 接口、1 个 USB 2.0 Type-A 接口、1 个 2.5",
+   "published_at": 1793690600.0,
+   "published_bj": "2026-11-03 15:23"
+  },
+  {
+   "id": "6d2400ba478ba021",
+   "source": "IT之家",
+   "title": "75W 的代价：华硕 XG Core 显卡坞内置 Radeon RX 9060 XT LP 显卡仅剩一半性能",
+   "url": "https://www.ithome.com/1/021/603.htm",
+   "summary": "IT之家 11 月 3 日消息，华硕 (ASUS) 在科隆游戏展 2026 gamescom 上公布了 XG Core 显卡坞。这一设备内置 AMD Radeon RX 9060 XT LP，配备 USB4、HDMI 2.1、DisplayPort 等接口。 XG Core 整体功耗仅有 75W，而标准 Radeon RX 9060 XT LP 的 TBP 功耗达到 140W。这意味着 XG Core 中的显卡需要大幅降频。 根据华硕近期公布的数据，这款内置的 Radeon RX 9060 XT LP 核心加速频率在“超频”模式下也只有 1620MHz ，峰值 INT4 稀疏算力仅 406.3",
+   "published_at": 1793690581.0,
+   "published_bj": "2026-11-03 15:23"
+  },
+  {
+   "id": "44de4f215a215b6a",
+   "source": "IT之家",
+   "title": "Xiaomi-Robotics-1 具身基座模型在小米青年公寓启动“试运营”，可自主规划并完成桌面整理、垃圾清扫等任务",
+   "url": "https://www.ithome.com/1/021/602.htm",
+   "summary": "IT之家 11 月 3 日消息，小米技术官方今日发布视频，介绍了 Xiaomi-Robotics-1 具身基座模型的应用。 据介绍，以 Xiaomi-Robotics-1 具身基座模型为技术底座，小米搭建了覆盖数据采集、模型推理与任务执行的 Agent 闭环系统， 实现连续超 30 分钟、覆盖 3 个房间、包含 50+ 任务的长程任务验证 。 该系统已在小米青年公寓正式启动“试运营”， 能够自主规划并完成桌面整理、垃圾清扫、物品分类归位、房间巡检、全屋复检等任务 。 据IT之家此前报道，去年 6 月，小米官宣在北京、南京上线了一批青年公寓，租金标准为 1999 元 / 月。公寓所有房型一房一价",
+   "published_at": 1793690557.0,
+   "published_bj": "2026-11-03 15:22"
+  },
+  {
+   "id": "e1aa0e0078dd497b",
+   "source": "IT之家",
+   "title": "开发者成功在第三方掌机上原生运行任天堂 Switch 游戏机专有系统 Horizon OS",
+   "url": "https://www.ithome.com/1/021/600.htm",
+   "summary": "IT之家 11 月 3 日消息，开发者 none24 smu 发文，展示其成功将任天堂 Switch 游戏机使用的 Horizon OS 系统原生移植至 AYN Odin 2 掌机上。 值得一提的是，该项目并非通过模拟器直接运行 Switch 系统，而是基于 Atmosphère / Mesosphere 相关技术进行移植，目前整个系统已经能够正常启动，运行帧率达到 60 FPS，设备上的实体按键也可以正常映射工作。不过当下系统在锁屏界面仍存在一些显示异常，部分硬件驱动也有待完善，开发者正在持续进行性能优化。 开发者同时透露，在正式将系统移植至 Odin 2 之前，其已经先通过 QEMU 虚拟",
+   "published_at": 1793690436.0,
+   "published_bj": "2026-11-03 15:20"
+  },
+  {
+   "id": "6051a2968aa1e172",
+   "source": "IT之家",
+   "title": "三星 Galaxy Z Fold9/Ultra 折叠手机影像规格曝光",
+   "url": "https://www.ithome.com/1/021/599.htm",
+   "summary": "IT之家 11 月 3 日消息，消息源 @WalleGalaxy 于 11 月 1 日在 X 平台回应网友提问时， 透露了三星 Galaxy Z Fold9 和 Galaxy Z Fold9 Ultra 两款折叠手机的影像规格。 在三星 Galaxy Z Fold9 方面，消息源只是透露该机沿用 Galaxy Z Fold8 的后置双摄方案，原始信息并未披露两枚摄像头各自的像素、焦段与传感器规格。作为对比，Galaxy Z Fold8 背面配备 5000 万像素主摄与 5000 万像素超广角，没有独立长焦。IT之家附上 Galaxy Z Fold8 折叠手机影像规格如下： 在三星 Galaxy",
+   "published_at": 1793690433.0,
+   "published_bj": "2026-11-03 15:20"
+  },
+  {
+   "id": "6de35129a2f39a57",
+   "source": "TechCrunch",
+   "title": "Apple Watch’s AI features for rewinding and recapping conversations begin beta testing",
+   "url": "https://techcrunch.com/2026/11/02/apple-watchs-ai-features-for-rewinding-and-recapping-conversations-begin-beta-testing/",
+   "summary": "Now in beta: Apple's new Audio Intelligence features can help you remember what someone said or take notes on conversations.",
+   "published_at": 1793690400.0,
+   "published_bj": "2026-11-03 15:20"
+  },
+  {
+   "id": "ca63450da3a14d2d",
+   "source": "IT之家",
+   "title": "消息称华晨宝马裁员约 1800 人：占员工总数 10%，赔偿 n+5",
+   "url": "https://www.ithome.com/1/021/598.htm",
+   "summary": "IT之家 11 月 3 日消息，据“量子位 ROBO”独家获悉，11 月 2 日起，华晨宝马开始裁员。多名员工消息称，此次裁员规模约为 1800 人 ，约占华晨宝马员工总数的 10%。 多位员工证实，此次裁员统一按 n+5 赔偿，其中“n”按税前月薪计，“5”按基本工资计（不包括绩效等）。按照裁员前的工会名单来看，华晨宝马员工总数为 1.9 万余人。 消息称此轮裁员 几乎涉及所有岗位 ，其中绝大多数都是 P 岗（生产序列）即一线生产岗。据悉，华晨宝马员工主要分为 P 岗、G 岗（办公室 / 管理序列）。 在找到新工作之前，被裁的员工还可以按照法律规定领取失业金，最多可领取两年。这次裁员，既包括",
+   "published_at": 1793690378.0,
+   "published_bj": "2026-11-03 15:19"
+  },
+  {
+   "id": "bfa991a06df6b6ca",
+   "source": "IT之家",
+   "title": "消息称高盛限制交易员与银行家使用部分 AI 工具，引发员工不满",
+   "url": "https://www.ithome.com/1/021/597.htm",
+   "summary": "IT之家 11 月 3 日消息，据彭博社报道，高盛集团在评估效率与风险隐患后，禁止大部分员工使用面向编程的先进人工智能工具，这一举措引发部分员工不满。 此前数月，高盛允许银行从业人员在工作中使用 Anthropic PBC 的 Claude Code 以及微软公司的 GitHub。彭博新闻看到一份 10 月更新的内部指引，目前该行规定，上述工具仅限工程师使用。 一位知情人士称，这项限制令一些交易员感到沮丧。他们原本借助这些工具加快多项工作进度，例如监控客户交易流水、搭建市场波动与持仓模型、生成文字及图表材料。 就在今年 7 月，高盛首席信息官马尔科 · 阿尔真蒂（Marco Argenti）还",
+   "published_at": 1793689993.0,
+   "published_bj": "2026-11-03 15:13"
+  },
+  {
+   "id": "f1b02988ef9bcc50",
+   "source": "IT之家",
+   "title": "曝汽车芯片大厂恩智浦再发调价函，明年 1 月起涨价",
+   "url": "https://www.ithome.com/1/021/596.htm",
+   "summary": "IT之家 11 月 3 日消息，据蓝鲸新闻 11 月 2 日援引产业链消息报道，受原材料、能源、人力、物流及上游供应商成本上涨影响， 恩智浦（NXP）已向经销商发函，计划对部分分销及直供产品线调价，新规自 2027 年 1 月 1 日生效 。 有经销商表示，建议有确定需求的项目提前下单，锁定成本，规避调价带来的影响。 IT之家查询公开资料获悉，恩智浦是荷兰半导体厂商、全球汽车芯片龙头，主营车载处理器、MCU、无线连接芯片，布局蓝牙、星闪多模短距通信方案。 报道提到， 这是恩智浦 2026 年内第三轮调价通知 。",
+   "published_at": 1793689895.0,
+   "published_bj": "2026-11-03 15:11"
+  },
+  {
+   "id": "d3672eb009c363a8",
+   "source": "Solidot",
+   "title": "Tor Browser 16.0 释出",
+   "url": "https://www.solidot.org/story?sid=85781",
+   "summary": "Tor Browser 16.0 释出，它是首个基于 Firefox ESR 153 的稳定版本。主要变化包括：Linux 版本支持 64 位 ARM 架构，重新设计设置，名为通用窗口标题（generic window titles）的功能有助于防止其它应用窥探用户的浏览器活动，Android 版本使用 Google 的 Material Design 3 更新了界面，停止支持 32 位 x86 Linux 系统，等等。更多变化可浏览更新日志。",
+   "published_at": 1793689827.0,
+   "published_bj": "2026-11-03 15:10"
+  },
+  {
+   "id": "37bd2d7268a34a27",
+   "source": "IT之家",
+   "title": "整合家庭功能至一处：谷歌开始向安卓系统分批推送全新 Family Hub 管理中心",
+   "url": "https://www.ithome.com/1/021/595.htm",
+   "summary": "IT之家 11 月 3 日消息，据外媒 AndroidAuthority 报道，谷歌正在为安卓系统分阶段推送 Family Hub 家庭管理中心，将原本分散在 Family Link、Google Play 商店及谷歌账号设置页面中的相关功能整合到系统设置中，方便用户统一管理家庭群组。 具体来看，相应功能位于系统设置页面顶部 Family（家庭）选项中。点击后，页面会显示家庭群组成员，以及 Google One 云存储、Google AI 和 YouTube Premium 等共享订阅服务的相关信息。 此外，该中心还会展示涉及多名家庭成员的日历活动、家庭成员当前共享的位置，以及针对家庭管理员提",
+   "published_at": 1793689763.0,
+   "published_bj": "2026-11-03 15:09"
+  },
+  {
+   "id": "2eedf0a4b78c5df6",
+   "source": "Hacker News",
+   "title": "Nvidia – open-source auto-ontology",
+   "url": "https://github.com/NVIDIA/auto-ontology",
+   "summary": "Article URL: https://github.com/NVIDIA/auto-ontology Comments URL: https://news.ycombinator.com/item?id=50348962 Points: 10 # Comments: 1",
+   "published_at": 1793689490.0,
+   "published_bj": "2026-11-03 15:04"
+  },
+  {
+   "id": "91a7e1d8c0af93a8",
+   "source": "IT之家",
+   "title": "17 年卖出超 1 亿份，《无主之地》系列游戏迈入新里程碑",
+   "url": "https://www.ithome.com/1/021/593.htm",
+   "summary": "IT之家 11 月 3 日消息，游戏开发商 Gearbox Software 今天（11 月 3 日）发布公告， 宣布《无主之地》（The Borderlands）系列游戏累计销量已突破 1 亿份。 在致玩家社区的公开信中，Gearbox 表示《无主之地》系列自 2009 年首作推出以来，在过去 17 年间累计销量已突破 1 亿份，并披露了《无主之地 4》的后续安排。IT之家附上相关截图如下： 官方表示，《无主之地 4》游戏发行已超过一年，首年内容路线图现已完成，期间推出了两个故事包、五个赏金包、两名全新秘藏猎人，以及多项新功能和活动。 团队目前正开发计划于明年推出的更多内容，每周活动更新与社",
+   "published_at": 1793689338.0,
+   "published_bj": "2026-11-03 15:02"
+  },
+  {
+   "id": "896594bd73ea7a30",
+   "source": "IT之家",
+   "title": "Counterpoint：Q3 全球智能手机出货同比下降 19%，苹果创同期营收纪录",
+   "url": "https://www.ithome.com/1/021/592.htm",
+   "summary": "IT之家 11 月 3 日消息，根据 Counterpoint Research 市场监测服务最新数据， 2026 年第三季度全球智能手机出货量同比大幅下滑 19% ，但受平均售价提升支撑， 全球智能手机营收同比增长 3%，达到 1,140 亿美元 （IT之家注：现汇率约合 7,598.55 亿元人民币） ，价格与高端化趋势完全对冲了出货量的暴跌。 受高端机型贡献提升、全行业存储成本推动的涨价双重驱动， 全球智能手机平均售价（ASP）同比飙升 27%，达到 442 美元 （现汇率约合 2,946 元人民币） ，创下单季度历史新高 。 Counterpoint 高级分析师 Shilpi Jain",
+   "published_at": 1793689325.0,
+   "published_bj": "2026-11-03 15:02"
+  },
+  {
+   "id": "55f8cf1cf70e383c",
+   "source": "IT之家",
+   "title": "Tribit 趣倍 XSound Go 升级版上架：20W 功率 / 蓝牙 6.0/24 小时续航，279 元",
+   "url": "https://www.ithome.com/1/021/591.htm",
+   "summary": "IT之家 11 月 3 日消息，Tribit 趣倍 XSound Go 升级版（26 版）便携式蓝牙音箱现已上架，定价为 279 元。 京东 Tribit 趣倍 go 升级版 黑色（26 版） 279 元 直达链接 该产品采用小巧便携的长条胶囊造型，机身尺寸约 172×60×57mm，重量约 390g，设有黑色、蓝色两种配色，既可以轻松放入背包，也能在桌面、户外露营等场景随手摆放。 XSound Go 升级版峰值功率 从旧款 16W 提升至 20W， 采用 2×10W 双单元立体声结构，搭载 42mm 双喇叭，频率响应范围 80Hz-20kHz，信噪比大于 80dB。 低音部分升级为 XBas",
+   "published_at": 1793689247.0,
+   "published_bj": "2026-11-03 15:00"
+  },
+  {
+   "id": "c23f2c1b8c32abd9",
+   "source": "IT之家",
+   "title": "华为 Pura 100 系列影像旗舰阔直板机被曝测试 BOE 新开屏，Pro Max 有望采用双层 OLED 技术",
+   "url": "https://www.ithome.com/1/021/589.htm",
+   "summary": "IT之家 11 月 3 日消息，博主 @数码闲聊站 今日发文透露， 某厂影像旗舰阔直板机 BOE 新开屏测试中 ，配备 6.39 英寸 1.5K 2.5D 直屏，支持 8T LTPO、Lipo 极窄封装工艺、BT.2020 色域，主打高亮特性。 博主还提到， Pro Max“超大杯”可能还会额外上双层 OLED 技术 。结合评论区讨论及博主暗示表情符号来看， 系列新机预计指华为 Pura 100 系列 。 有网友询问 Pura 100 是否会全系采用阔直屏设计，后续还会有非阔设计的影像旗舰机吗？博主回复称：“ 有啊，不会全切阔屏。 ”还有网友询问系列新机的处理器信息，博主表示：“ 目前看不到，",
+   "published_at": 1793689049.0,
+   "published_bj": "2026-11-03 14:57"
+  },
+  {
+   "id": "943a082644413564",
+   "source": "IT之家",
+   "title": "OpenAI：极端天气下旗下美国数据中心可削减用电负荷",
+   "url": "https://www.ithome.com/1/021/588.htm",
+   "summary": "IT之家 11 月 3 日消息，OpenAI 当地时间周一发布公告称，将在佐治亚州埃芬厄姆县一座新建的数据中心试点推出“电网保护者计划”。该公司承诺，在极端天气或紧急状况下，最多可释放 1000 兆瓦电力，这一电量大约能够供给 70 万户家庭使用空调。 IT之家注意到，发布这份公告的背景是，美国各地对数据中心的反对声持续蔓延。不少大型项目已经启动规划与建设，当地居民往往很难、甚至完全没有机会参与意见。犹他州就出现了居民抗议事件，博克斯埃尔德县委员批准了一处数据中心项目，该项目的耗电量预计将超过该州 2025 年用电峰值需求的两倍，还会向周边的沙漠谷地排放热风。 OpenAI 如今提出的方案是，",
+   "published_at": 1793689044.0,
+   "published_bj": "2026-11-03 14:57"
+  },
+  {
+   "id": "23ab8f922f56efaf",
+   "source": "IT之家",
+   "title": "Photoshop 以外新选择：图像编辑工具 Affinity 宣布将登陆 Linux 平台",
+   "url": "https://www.ithome.com/1/021/587.htm",
+   "summary": "IT之家 11 月 3 日消息，据 OMG Ubuntu 报道，Affinity 近期在 X 平台发布了一则展示其全新 iPad 集成功能的帖子。有用户在评论区表示，希望该软件能够推出 Linux 版本，并称自己更喜欢 Affinity，而非 Adobe 旗下的产品。 对此，Affinity 官方账号回复确认，团队正在开发 Linux 版本，但暂时无法透露具体的发布时间。 公开信息显示，Affinity 是一款功能强大的专业图像编辑软件，能够提供与 Photoshop 相近的编辑能力。 尽管 Affinity 采用闭源模式，可能无法满足部分开源软件爱好者的需求，但其强大的图像编辑功能以及免费使",
+   "published_at": 1793688985.0,
+   "published_bj": "2026-11-03 14:56"
+  },
+  {
+   "id": "1bb1c9b7aed14cc3",
+   "source": "IT之家",
+   "title": "苹果 App Store 将推新规：约会、AI 伴侣类应用分级必须为 18+",
+   "url": "https://www.ithome.com/1/021/586.htm",
+   "summary": "IT之家 11 月 3 日消息，苹果今日宣布，将针对 App Store 推出全新年龄分级要求，具备位置共享功能，或提供约会和真实 / 虚拟恋爱关系服务的 App 分级必须为 18+。 从 11 月 16 日开始，开发者在 App Store Connect 填写年龄分级问卷时，必须申报应用是否包含位置共享功能，以及约会和 AI 伴侣相关功能，IT之家附官方定义如下： 位置共享（Shared Location）：与其他人或群组共享现实世界的位置信息。 约会和恋爱关系（Dating and Relationships）：支持真实用户之间建立约会或恋爱关系的功能， 或 / 和能够与进行性或浪漫内容",
+   "published_at": 1793688867.0,
+   "published_bj": "2026-11-03 14:54"
+  },
+  {
    "id": "5ba6cc30519ab81d",
    "source": "IT之家",
    "title": "三星 Galaxy S27 Ultra 手机机模曝光：横向矩阵相机单元，与苹果 iPhone 18 Pro 同框对比",
@@ -119,6 +578,15 @@
    "summary": "IT之家 11 月 3 日消息，据新华社，《中国广播电视和网络视听发展报告（2026）》今日在京首发。 报告显示，截至 2025 年底，我国电视大屏用户合计超过 10 亿，网络视听用户规模达 10.99 亿，广电视听发展形成“两个 10 亿”并进的超大规模市场格局。 这是国家广播电视总局首次将《中国广播电视全媒体发展报告》与《中国视听新媒体发展报告》整合编撰，把广播电视与网络视听纳入同一研究框架。报告由国家广播电视总局部署、发展研究中心组织编写，试图打通大屏与小屏、内容生产与传播渠道、公共服务与行业治理之间的链路。 数据显示，2025 年，我国电视大屏消费总时间为 6387 亿小时，屏前观众日",
    "published_at": 1793688727.0,
    "published_bj": "2026-11-03 14:52"
+  },
+  {
+   "id": "467fbe01da199201",
+   "source": "Solidot",
+   "title": "Swift 天文台将于 11 月 4 日重返大气层",
+   "url": "https://www.solidot.org/story?sid=85780",
+   "summary": "拯救失败的 NASA Neil Gehrels Swift 天文台将于 11 月 4 日重返大气层。但目前还不清楚其坠落地点以及它会有哪些组件会在穿过大气层后仍然幸存下来。Swift 天文台重 1.5 吨，于 2004 年发射升空，旨在研究高能伽马射线暴的起源。过去 22 年受大气阻力的影响 Swift 天文台的轨道高度在缓慢下降，过去两年活跃的太阳活动加速了其坠落。今年 7 月 NASA 曾尝试了一次拯救任务，但任务失败。10 月 20 日其轨道高度降至 275 公里，其使命正式结束。Swift 天文台的轨道经过了澳大利亚、非洲、印度、东南亚以及中南美洲上空，最有可能的坠落地点是海洋。",
+   "published_at": 1793688505.0,
+   "published_bj": "2026-11-03 14:48"
   },
   {
    "id": "32f5d778e549c23b",
@@ -211,6 +679,15 @@
    "published_bj": "2026-11-03 14:33"
   },
   {
+   "id": "8224b476ca8c73b8",
+   "source": "Solidot",
+   "title": "北欧将可能出现 40°C 高温",
+   "url": "https://www.solidot.org/story?sid=85779",
+   "summary": "挪威、瑞典和芬兰等北欧国家传统上经历的热浪强度低于欧洲大陆的其它地区。然而在近年的极端天气事件中，例如 2026 年的热浪，欧洲大部分地区都观测到了异常高温，40 °C 的高温天气也出现在比以往更靠北的地区。根据发表在《npj Natural Hazards》期刊上的一项研究，芬兰科学家报告，北欧出现 40°C 高温不再像以前认为的那样不可能发生。研究人员估算，2025 年北欧某个地点 40 °C 的年发生率为 0.53%，比 1981 年的概率增加了 6 倍。如果以迄今为止各国已观测到的最高气温纪录作为标准，那么在当前气候条件下，挪威突破本国历史最高气温纪录的年概率最高达到 10.9%。研究",
+   "published_at": 1793687619.0,
+   "published_bj": "2026-11-03 14:33"
+  },
+  {
    "id": "8a1a41ef4cc8e63f",
    "source": "IT之家",
    "title": "BOSGAME 对其 192GB 内存 \"Grogon Halo\" 迷你 AI 工作站开价 6199 美元",
@@ -245,6 +722,15 @@
    "summary": "你使用完共享存物柜后看到了“押金退还”的提示，但钱真的退回到你的账户里了吗？《羊城晚报》的调查，揭开了共享寄存柜行业潜藏的运营套路：用户用完寄存箱后，小程序页面会弹出“退款成功”的提示，但押金并不会自动原路退回用户的微信等账户，而是转入小程序内余额，需要用户自行手动发起提现。也就是说，如果不去手动提现的话，那么钱就一直留在服务商那里，很多用户却想当然地以为“退款成功”就是退到了自己的账户里。 阅读全文",
    "published_at": 1793687122.0,
    "published_bj": "2026-11-03 14:25"
+  },
+  {
+   "id": "660e3831fd5971c1",
+   "source": "Hacker News",
+   "title": "Show HN: ReBirth 338 in Browser",
+   "url": "https://margeux.com/rb338.html",
+   "summary": "Article URL: https://margeux.com/rb338.html Comments URL: https://news.ycombinator.com/item?id=50348740 Points: 15 # Comments: 6",
+   "published_at": 1793687090.0,
+   "published_bj": "2026-11-03 14:24"
   },
   {
    "id": "f15f7f23229306d7",
@@ -434,6 +920,15 @@
    "summary": "据《华尔街日报》报道，上周科技股的暴跌，使得计划参与Anthropic IPO的大型投资者们倾向于给予这家AI巨头较低的估值。 阅读全文",
    "published_at": 1793685314.0,
    "published_bj": "2026-11-03 13:55"
+  },
+  {
+   "id": "aadc8f195f71a1be",
+   "source": "Solidot",
+   "title": "国际空间站 PrK 模块因漏气被关闭",
+   "url": "https://www.solidot.org/story?sid=85778",
+   "summary": "专注于报道俄罗斯太空新闻的媒体 Russianspacewe 称，位于 Progress（进步号）气闸舱和 Zvezda（星辰号）服务舱之间的 PrK 模块已被永久关闭。NASA 以及俄罗斯航天局尚未正式宣布这一消息，但早在 6 月就有消息称俄罗斯计划退役漏气的国际空间站 PrK 模块。PrK 模块因结构裂缝导致的漏气过去几年一直困扰着国际空间站，今年初漏气问题一度被认为已经修复，但 6 月报告漏气再次加剧，该模块的裂缝总数达到 16 处。俄罗斯货运飞船将改为与 Poisk 舱对接。计划于 11 月 24 日发射的 Progress MS-36 货运飞船将通过 Poisk 舱卸载货物。",
+   "published_at": 1793685144.0,
+   "published_bj": "2026-11-03 13:52"
   },
   {
    "id": "25b33a7e68092b4c",
