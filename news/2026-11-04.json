@@ -1,7 +1,7 @@
 {
  "date": "2026-11-04",
- "generated_at": 1793734292.4491723,
- "count": 42,
+ "generated_at": 1793737643.2737904,
+ "count": 52,
  "items": [
   {
    "id": "a52058f243443cf0",
@@ -11,6 +11,96 @@
    "summary": "点击查看原文>",
    "published_at": 1793741192.0,
    "published_bj": "2026-11-04 05:26"
+  },
+  {
+   "id": "df0e6565219ab153",
+   "source": "IT之家",
+   "title": "苹果 Fitness+ 进军健身房：推出 4 周个性化力量训练计划",
+   "url": "https://www.ithome.com/1/021/865.htm",
+   "summary": "IT之家 11 月 4 日消息，科技媒体 9to5Mac 今天（11 月 4 日）发布博文，报道称苹果 Fitness+ 推出 Gym Strength 力量训练功能，目前已开放测试。新功能面向健身房及居家训练场景， 根据用户的目标、经验、时间安排和可用器材，生成四周渐进式计划，并根据每周记录的训练次数与重量，调整下一周内容。 用户可选择训练日期和重点部位，每次安排 5 个或 7 个动作，预计分别耗时 20~30 分钟、45~60 分钟，实际时长取决于个人节奏。计划会推荐动作、组数、次数及重量，并提供教练示范视频，支持从三个角度查看动作。 据苹果介绍，该功能涵盖超过 350 个动作、适配 30",
+   "published_at": 1793736580.0,
+   "published_bj": "2026-11-04 04:09"
+  },
+  {
+   "id": "4d5e160135d46b59",
+   "source": "Hacker News",
+   "title": "Pratt parsing is a black box",
+   "url": "https://vinipsmaker.github.io/blog/article/pratt-parsing-is-a-black-box/",
+   "summary": "Article URL: https://vinipsmaker.github.io/blog/article/pratt-parsing-is-a-black-box/ Comments URL: https://news.ycombinator.com/item?id=50357457 Points: 1 # Comments: 0",
+   "published_at": 1793736461.0,
+   "published_bj": "2026-11-04 04:07"
+  },
+  {
+   "id": "a35883d407c9d15e",
+   "source": "IT之家",
+   "title": "苹果 watchOS 27.3 首个开发者预览版 Beta 上线音频智能功能：支持全天谈话划重点 / 回顾 15 秒对话",
+   "url": "https://www.ithome.com/1/021/864.htm",
+   "summary": "IT 之家 11 月 4 日消息，苹果公司今天（11 月 4 日）面向开发者，推送 watchOS 27.3 首个开发者测试版， 为 Apple Watch Series 12 和 Apple Watch Ultra 4 带来 Siri 回顾（Siri Recap）与 Live Rewind 两项音频智能功能。 在苹果官方支持页面上，显示上述两项功能适用于 Apple Watch Series 12 和 Apple Watch Ultra 4， 目前仅支持英语，且需要 Apple 智能和 Siri AI（Beta 版）。 IT 之家此前报道，Siri Recap 定位类似自动化的对话备忘录，通",
+   "published_at": 1793736109.0,
+   "published_bj": "2026-11-04 04:01"
+  },
+  {
+   "id": "5cb7c54fa2c4047e",
+   "source": "cnBeta",
+   "title": "​多年预警仍未阻止创纪录盗窃案 币安事件暴露朝鲜黑客长期渗透策略",
+   "url": "https://www.cnbeta.com.tw/articles/tech/1584918.htm",
+   "summary": "全球最大加密货币交易所币安日前披露的最新调查细节显示，造成63亿美元加密资产被盗的网络攻击并非一次突然发动的行动，而是一场持续数月、经过精心策划的社会工程学渗透行动。事实上，安全研究人员多年来一直在警告业内警惕类似攻击，但这一创下加密货币行业史上最大盗窃纪录的事件仍然发生。 阅读全文",
+   "published_at": 1793735628.0,
+   "published_bj": "2026-11-04 03:53"
+  },
+  {
+   "id": "eefb4d6cf96e5f78",
+   "source": "cnBeta",
+   "title": "法拉利首款电动车Luce明年订单已下满 争议未阻市场热情",
+   "url": "https://www.cnbeta.com.tw/articles/tech/1584916.htm",
+   "summary": "尽管在发布之初饱受争议，甚至一度引发市场质疑，但法拉利首款纯电动车 Luce 仍展现出强劲的市场吸引力。当地时间11月3日，法拉利首席执行官贝内代托·维尼亚在公司第三季度财报电话会议上表示，2027年产能对应的 Luce 车型已经全部售罄，所有计划生产的车辆均已找到买家。 阅读全文",
+   "published_at": 1793735318.0,
+   "published_bj": "2026-11-04 03:48"
+  },
+  {
+   "id": "0e5d08573fb7a28b",
+   "source": "TechCrunch",
+   "title": "Researchers warned of North Korean hacking tactics years before record $6.3B Binance heist",
+   "url": "https://techcrunch.com/2026/11/03/researchers-warned-of-north-korean-hacking-tactics-years-before-record-6-3b-binance-heist/",
+   "summary": "Cybersecurity experts have long warned of the persistent and patient threat from North Korea's long-running hacks. The world's largest crypto exchange was still caught off-guard.",
+   "published_at": 1793735148.0,
+   "published_bj": "2026-11-04 03:45"
+  },
+  {
+   "id": "78ceb6bf351d9b55",
+   "source": "IT之家",
+   "title": "苹果 Safari 27.3 测试版浏览器上线：适配 iPhone Duo，引入垂直标签、Siri 帮你管网页",
+   "url": "https://www.ithome.com/1/021/863.htm",
+   "summary": "IT之家 11 月 4 日消息，苹果公司今天（11 月 4 日）推送 iOS / iPadOS / macOS 27.3 首个 Beta 开发者预览版，升级 Safari 27.3 测试版，引入垂直标签页、自适应深色模式，以及扩展 Siri AI 支持三项体验。 本次 Safari 27.3 测试版最大的亮点， 在于引入垂直标签页让用户更方便地浏览完整页面标题 ，减少打开大量网页后难以辨认的问题。Mac 和 iPad 用户可通过“视图”菜单开启，iPhone 用户则需前往 Safari 设置启用，而且已适配苹果首款折叠 iPhone Duo。IT之家附上相关截图如下： 在 iPhone Duo",
+   "published_at": 1793734769.0,
+   "published_bj": "2026-11-04 03:39"
+  },
+  {
+   "id": "4c4df4d73ea1dd67",
+   "source": "TechCrunch",
+   "title": "AI inference startup Fal doubles its valuation to $16B as demand surges",
+   "url": "https://techcrunch.com/2026/11/03/ai-inference-startup-fal-doubles-its-valuation-to-16b-as-demand-surges/",
+   "summary": "The five-year-old startup raised a $1.3 billion round led by Bessemer.",
+   "published_at": 1793734483.0,
+   "published_bj": "2026-11-04 03:34"
+  },
+  {
+   "id": "da2d20b023a32b1c",
+   "source": "Hacker News",
+   "title": "Preparing for the Flipper One Kickstarter and opening pre-orders",
+   "url": "https://flipper.net/pages/flipper-one",
+   "summary": "https://docs.flipper.net/one Comments URL: https://news.ycombinator.com/item?id=50356994 Points: 35 # Comments: 10",
+   "published_at": 1793734333.0,
+   "published_bj": "2026-11-04 03:32"
+  },
+  {
+   "id": "42a70d78ae8cf9b1",
+   "source": "Hacker News",
+   "title": "Introduction to Programming in ATS",
+   "url": "https://ats-lang.sourceforge.net/DOCUMENT/INT2PROGINATS/HTML/book1.html",
+   "summary": "Article URL: https://ats-lang.sourceforge.net/DOCUMENT/INT2PROGINATS/HTML/book1.html Comments URL: https://news.ycombinator.com/item?id=50356913 Points: 21 # Comments: 1",
+   "published_at": 1793733918.0,
+   "published_bj": "2026-11-04 03:25"
   },
   {
    "id": "864a016e61447acd",
