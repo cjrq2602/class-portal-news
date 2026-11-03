@@ -1,7 +1,7 @@
 {
  "date": "2026-11-04",
- "generated_at": 1793730173.1108057,
- "count": 33,
+ "generated_at": 1793734292.4491723,
+ "count": 42,
  "items": [
   {
    "id": "a52058f243443cf0",
@@ -13,6 +13,69 @@
    "published_bj": "2026-11-04 05:26"
   },
   {
+   "id": "864a016e61447acd",
+   "source": "TechCrunch",
+   "title": "Reddit tests ads in search results as traffic declines and growth concerns mount",
+   "url": "https://techcrunch.com/2026/11/03/reddit-tests-ads-in-search-results-as-traffic-declines-and-growth-concerns-mount/",
+   "summary": "The new ad placements could help Reddit squeeze more revenue from existing users as Google's AI search changes how people discover its content.",
+   "published_at": 1793733877.0,
+   "published_bj": "2026-11-04 03:24"
+  },
+  {
+   "id": "ef45ad148df92ec8",
+   "source": "IT之家",
+   "title": "苹果推送 macOS 27.3 首个开发者预览版：Siri AI 有望扩展支持繁体中文",
+   "url": "https://www.ithome.com/1/021/862.htm",
+   "summary": "IT之家 11 月 4 日消息，苹果公司今天推送 macOS 27.3 Golden Gate 首个开发者测试版，内部版本号为 26C5035r，距离上周推出 macOS 27.2 仅约一周。 科技媒体 9to5Mac 称本次更新主要亮点在于扩展 Siri AI 语言支持，不过目前该信息依然有待验证。苹果 Siri AI 上线初期仅支持英语， 在 macOS 27.2 更新中上线法语、日语、韩语、葡萄牙语和西班牙语 。 苹果公司此前承诺在 2026 年年底之前，在上述语言支持基础上，再扩展支持繁体中文、挪威语、土耳其语以及越南语。 上述语言支持可能已在 macOS 27.3 Golden Ga",
+   "published_at": 1793733424.0,
+   "published_bj": "2026-11-04 03:17"
+  },
+  {
+   "id": "0ea0799a2365d21b",
+   "source": "IT之家",
+   "title": "国行「Apple 智能与 Siri」如期上线，iPhone 15 Pro 及更新机型升级 iOS 27.3 开发者预览版可用",
+   "url": "https://www.ithome.com/1/021/861.htm",
+   "summary": "IT之家 11 月 4 日消息，苹果官方今日面向 iPhone 发布了最新的 iOS 27.3 开发者预览版。 IT之家实测，在最新的 iOS 27.3 开发者预览版上， 国行「Apple 智能与 Siri」如期上线 ，用户在更新最新版 iOS 系统后可以在设置中找到该功能设置页面。 参考IT之家此前报道，国行 Apple 智能与阿里巴巴达成合作，在部分体验中接入千问。国内用户可直接在 Siri、写作工具和视觉智能中调用千问，覆盖文本与图像理解相关能力。 苹果用户登录千问账户，或通过“通过 Apple 登录”，即可在系统内访问千问，无需跳转至独立应用。阿里巴巴方面此前曾确认，千问的集成范围将延",
+   "published_at": 1793732892.0,
+   "published_bj": "2026-11-04 03:08"
+  },
+  {
+   "id": "da5260c88e6e94f5",
+   "source": "TechCrunch",
+   "title": "Ten years later, ‘Pokémon Go to the polls’ still haunts the internet",
+   "url": "https://techcrunch.com/2026/11/03/ten-years-later-pokemon-go-to-the-polls-still-haunts-the-internet/",
+   "summary": "Hillary Clinton's 2016 political gaffe has become an irony-shrouded rallying cry for jaded young voters who still dare to hope for change.",
+   "published_at": 1793732692.0,
+   "published_bj": "2026-11-04 03:04"
+  },
+  {
+   "id": "0ef85e73ceb36cfa",
+   "source": "IT之家",
+   "title": "支持中文：苹果 iOS 27.3 首个 Beta 开发者预览版上线新版“健康”应用，已覆盖 11 种语言",
+   "url": "https://www.ithome.com/1/021/860.htm",
+   "summary": "IT之家 11 月 4 日消息，苹果公司今天（11 月 4 日）发布新闻稿，宣布 扩展重新设计的“健康”应用支持的语言，涵盖中文、法语、日语、韩语、葡萄牙语、西班牙语、土耳其语和越南语等，目前支持总数达到 11 种。 IT之家援引博文介绍，附上新版“健康”应用支持的语言如下： 英语 简体中文 繁体中文 法语 日语 韩语 挪威语 葡萄牙语 西班牙语 土耳其语 越南语 官方介绍称重新设计的“健康”App 以 Apple 智能技术为核心，能够动态适应用户在 iPhone 和 iPad 上的各项健康指标，提供优化日常活动的洞察，并全面展现用户的长期健康状况。 功能方面，更新后的体验新增了“洞察”标签页",
+   "published_at": 1793732346.0,
+   "published_bj": "2026-11-04 02:59"
+  },
+  {
+   "id": "b59b95cf653d08d6",
+   "source": "TechCrunch",
+   "title": "Ferrari’s controversial Luce EV is sold out for 2027",
+   "url": "https://techcrunch.com/2026/11/03/ferraris-controversial-luce-ev-is-sold-out-for-2027/",
+   "summary": "The Luce, Ferrari's first electric car and one of its most polarizing models, is \"fully allocated\" through 2027, according to CEO Benedetto Vigna.",
+   "published_at": 1793731893.0,
+   "published_bj": "2026-11-04 02:51"
+  },
+  {
+   "id": "2d114b4272538f4d",
+   "source": "TechCrunch",
+   "title": "Netflix’s new AI Discover tab helps you find something to watch based on your mood",
+   "url": "https://techcrunch.com/2026/11/03/netflixs-new-ai-discover-tab-helps-you-find-something-to-watch-based-on-your-mood/",
+   "summary": "The first experimental feature under the tab will allow users to get recommendations based on what they're currently in the mood for.",
+   "published_at": 1793731336.0,
+   "published_bj": "2026-11-04 02:42"
+  },
+  {
    "id": "499c00af524b9922",
    "source": "IT之家",
    "title": "苹果推送首个 iOS 27.3 测试版",
@@ -20,6 +83,15 @@
    "summary": "IT之家 11 月 4 日闪讯速报，苹果推送首个 iOS 27.3 测试版。 IT之家正在为您整理更细节的内容，本文将在几分钟内得到更新，请您在 App 或浏览器中刷新本文即可。 IT之家闪讯力求最快速播报突发大事件和焦点热点新动态，让您快人一步得到重要消息。",
    "published_at": 1793729679.0,
    "published_bj": "2026-11-04 02:14"
+  },
+  {
+   "id": "29fc3012ef052553",
+   "source": "Hacker News",
+   "title": "I use AI (Oct 2026)",
+   "url": "https://ben.stolovitz.com/posts/how-use-ai-oct-2026/",
+   "summary": "Article URL: https://ben.stolovitz.com/posts/how-use-ai-oct-2026/ Comments URL: https://news.ycombinator.com/item?id=50355767 Points: 9 # Comments: 6",
+   "published_at": 1793729471.0,
+   "published_bj": "2026-11-04 02:11"
   },
   {
    "id": "7f7fdc14df691840",
@@ -182,6 +254,15 @@
    "summary": "Also co-founder and president Chris Yu told TechCrunch that he wanted to prioritize autonomous vehicles.",
    "published_at": 1793724549.0,
    "published_bj": "2026-11-04 00:49"
+  },
+  {
+   "id": "ce6c6c44d51fd4cd",
+   "source": "Hacker News",
+   "title": "Stringman, an $800 open-source room scale gripper robot",
+   "url": "https://neufangled.com/",
+   "summary": "Article URL: https://neufangled.com/ Comments URL: https://news.ycombinator.com/item?id=50354358 Points: 63 # Comments: 24",
+   "published_at": 1793724449.0,
+   "published_bj": "2026-11-04 00:47"
   },
   {
    "id": "03172d0acb1c9380",
