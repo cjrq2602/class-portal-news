@@ -1,6 +1,6 @@
 {
  "date": "2026-11-03",
- "generated_at": 1793716321.344777,
+ "generated_at": 1793719491.5155923,
  "count": 400,
  "items": [
   {
@@ -13,6 +13,60 @@
    "published_bj": "2026-11-03 23:40"
   },
   {
+   "id": "fb3d68fde6afb2c8",
+   "source": "IT之家",
+   "title": "国内光模块头部厂商光迅科技发布澄清公告：否认物料短缺、生产停工相关传闻",
+   "url": "https://www.ithome.com/1/021/844.htm",
+   "summary": "IT之家 11 月 3 日消息，今晚，国内光模块头部厂商光迅科技发布“关于市场传闻的澄清公告”。 10 月 26 日光迅科技发布《2026 年第三季度报告》。财务报表显示，光迅科技第三季度实现营业收入 50.73 亿元，同比增长 54.27%；归属于上市公司股东的净利润 7.02 亿元，同比增长 102.62%；扣除非经常性损益后的净利润 7.04 亿元，同比增长 121.06%；基本每股收益 0.87 元。 前三季度累计，公司营业收入 116.83 亿元，同比增长 36.94%；归母净利润 12.84 亿元，同比增长 78.65%；扣非净利润 12.72 亿元，同比增长 87.48%；加权平",
+   "published_at": 1793719094.0,
+   "published_bj": "2026-11-03 23:18"
+  },
+  {
+   "id": "ffe3b7ccd65aa6ba",
+   "source": "IT之家",
+   "title": "小米 17 Ultra 手机“徕卡一瞬”功能页现文字乱码，产品经理回应称问题已修复",
+   "url": "https://www.ithome.com/1/021/843.htm",
+   "summary": "IT之家 11 月 3 日消息，据小米 17 Ultra 用户反馈，在更新澎湃 HyperOS 4.0.6.0.XPACNXM.D01 版本后，“徕卡一瞬”功能的页面顶部会出现文字乱码“ !盙望樀拾逨拈 ”。 小米相机部产品经理 @Bao_小李 今日晚间发文回应了此次事件，并表示：“问题已修复。 需要大家在应用商店里面更新一下「相机」应用的版本 。” 据IT之家了解，小米在去年 12 月发布的小米 17 Ultra 徕卡版上，带来了专属「徕卡一瞬」模式，由小米与徕卡合作开发。该模式包含 LEICA M3 和 LEICA M9 两种模式： 徕卡 M9 画质，还原传奇 CCD 质感，色彩浓郁； 徕",
+   "published_at": 1793719050.0,
+   "published_bj": "2026-11-03 23:17"
+  },
+  {
+   "id": "754e707949929386",
+   "source": "IT之家",
+   "title": "十铨预警：内存短缺最严峻阶段尚未到来",
+   "url": "https://www.ithome.com/1/021/842.htm",
+   "summary": "IT之家 11 月 3 日消息，据科技媒体 TechPower Up 今天报道，全球内存短缺最严重的时候可能还没到来。十铨科技在昨日举办的 2026 财年第三季度法人说明会表示， 内存需求最旺盛的时期 ， 可能会在 2026 年第四季度至 2027 年第二季度到来 ，距离现在只有几个月。 IT之家从原报道获悉，SK 海力士、三星和美光等 DRAM 厂商的 2027 年产能已经售罄，大客户早就和这些大厂签订长期供货协议，第三方市场越来越难采购到内存。 十铨科技表示，即使他们手头有足够资金，也可能无法买到内存。虽然现在还能购买到，但价格已经非常高。用不了多久，消费者可能连买的机会都没有。 尽管长鑫",
+   "published_at": 1793718977.0,
+   "published_bj": "2026-11-03 23:16"
+  },
+  {
+   "id": "d490c6402003058c",
+   "source": "cnBeta",
+   "title": "教皇利奥十四世呼吁各国禁止致命自主武器：AI不得自行决定夺取人类生命",
+   "url": "https://www.cnbeta.com.tw/articles/tech/1584896.htm",
+   "summary": "罗马教皇利奥十四世近日再次对人工智能在军事领域的应用发出警告，呼吁各国政府采取具体行动，禁止能够自主决定攻击目标并实施致命打击的武器系统。他强调，涉及人类生命、自由以及武力使用的重大决定，必须始终处于有效、知情且负责任的人类监督之下，不能交由人工智能独立作出。 阅读全文",
+   "published_at": 1793718909.0,
+   "published_bj": "2026-11-03 23:15"
+  },
+  {
+   "id": "8b3291fb20bf7de3",
+   "source": "cnBeta",
+   "title": "中国RTX 50系列显卡库存告急 厂商转向推荐RTX 3060与RTX 3050",
+   "url": "https://www.cnbeta.com.tw/articles/tech/1584894.htm",
+   "summary": "中国显卡市场近期再次出现供应紧张现象。尽管英伟达GeForce RTX 50系列已经上市接近两年，但多家显卡制造商据称已经难以持续提供充足库存，部分渠道甚至开始重新向经销商推荐已经发布数年的RTX 3060和RTX 3050等老产品作为替代选择。 阅读全文",
+   "published_at": 1793718854.0,
+   "published_bj": "2026-11-03 23:14"
+  },
+  {
+   "id": "02884b4646825636",
+   "source": "cnBeta",
+   "title": "三星晶圆代工拿下AMD HBM订单 德州第二座泰勒工厂产能被预订一空",
+   "url": "https://www.cnbeta.com.tw/articles/tech/1584892.htm",
+   "summary": "三星电子的晶圆代工业务终于迎来一项重要突破。据韩国《每日经济新闻》11月3日报道，三星已经获得AMD的新一代高带宽内存（HBM）基础裸片订单，计划利用正在筹建的美国德克萨斯州泰勒第二座晶圆厂（Taylor Fab 2）生产相关芯片。报道称，该工厂规划产能几乎已经全部获得客户订单，其中AMD占据了绝大部分。 阅读全文",
+   "published_at": 1793718828.0,
+   "published_bj": "2026-11-03 23:13"
+  },
+  {
    "id": "4bed410281a77c4e",
    "source": "InfoQ中文",
    "title": "AI 复刻 Adobe 系列软件开发者坦言：项目远未准备就绪",
@@ -22,6 +76,69 @@
    "published_bj": "2026-11-03 23:12"
   },
   {
+   "id": "b1a9492836113f56",
+   "source": "IT之家",
+   "title": "我国人工智能发展速度及应用规模全球领先",
+   "url": "https://www.ithome.com/1/021/840.htm",
+   "summary": "IT之家 11 月 3 日消息，据央视新闻今日报道，国家发展改革委今天（3 日）举行了“奋进‘十五五’”系列新闻发布会。会上提到， 当前，我国人工智能发展速度、应用规模全球领先 。 国家发展改革委创新和高技术发展司副司长王若蒙介绍，人工智能正从实验室走向工厂、田间、办公室： 工业领域，累计建成了万余家先进级智能工厂； 农业领域，显著降低农药、化肥用量，田间管理更加精准，改变靠天靠经验的老办法； 服务业领域，在金融、物流、外贸方面，智能体可自动完成合同审核、报关报税、理赔核损等任务，催生“员工 + 智能体”等新业态新模式涌现。 据IT之家今日早些时候报道，我国目前正在推动世界人工智能（AI）合作",
+   "published_at": 1793718474.0,
+   "published_bj": "2026-11-03 23:07"
+  },
+  {
+   "id": "f7103182db10b23a",
+   "source": "cnBeta",
+   "title": "苹果新任CEO重申：iPadOS与macOS暂无合并计划",
+   "url": "https://www.cnbeta.com.tw/articles/tech/1584890.htm",
+   "summary": "长期以来，关于苹果是否会将iPadOS与macOS整合为统一操作系统的讨论从未停止。随着约翰·特努斯（John Ternus）接任苹果首席执行官一职，外界再次猜测苹果未来是否会改变这一立场。不过，根据苹果最新财报电话会议上的表态，答案依然是否定的。 阅读全文",
+   "published_at": 1793718460.0,
+   "published_bj": "2026-11-03 23:07"
+  },
+  {
+   "id": "62f03bd19c80c1f0",
+   "source": "IT之家",
+   "title": "iPadOS 和 macOS 会合并吗？苹果 CEO 特努斯称没有计划做根本性改变",
+   "url": "https://www.ithome.com/1/021/839.htm",
+   "summary": "IT之家 11 月 3 日消息，多年以来，苹果一直没有计划将 iPadOS 和 macOS 合并为一个操作系统。新 CEO 约翰 · 特努斯上任后，这种立场是否会发生改变？ 在苹果 2026 财年第四季度报告电话会议中，有分析师询问苹果是否会一统 iPadOS 和 macOS，特努斯作出了回应。 IT之家附相关问答全文如下： Arete Research 分析师理查德 · 克拉默：新款 MacBook Pro 加入了许多 iOS 功能，例如触控操作、灵动岛，还有 Siri AI。我们是否应该期待 macOS 和 iOS 的功能进一步融合，甚至未来某个阶段形成统一操作系统，以此降低成本？ 约翰 ",
+   "published_at": 1793718242.0,
+   "published_bj": "2026-11-03 23:04"
+  },
+  {
+   "id": "d05aca8ddc8f4595",
+   "source": "Hacker News",
+   "title": "Octomind – open-source AI harness that saves your tokens, static rust",
+   "url": "https://github.com/Muvon/octomind",
+   "summary": "Article URL: https://github.com/Muvon/octomind Comments URL: https://news.ycombinator.com/item?id=50352898 Points: 5 # Comments: 0",
+   "published_at": 1793718178.0,
+   "published_bj": "2026-11-03 23:02"
+  },
+  {
+   "id": "441e18e45af4b7c5",
+   "source": "IT之家",
+   "title": "上汽奥迪被市监局立案调查，此前发布“AUDI 全系买一赠一”营销文案陷争议",
+   "url": "https://www.ithome.com/1/021/838.htm",
+   "summary": "IT之家 11 月 3 日消息，据华商报大风新闻报道，上汽奥迪“AUDI 全系买一赠一”营销争议，在近一个月后有了实质性进展。11 月 3 日，上海嘉定区市场监管局回复称，已就相关举报内容对被举报人上海上汽大众汽车销售有限公司立案处理， 目前已正式介入调查 。 IT之家了解到，今年 10 月，为庆祝郑钦文在 2026 年中国网球公开赛女单决赛中夺冠，上汽奥迪发布文章，标题为“庆祝钦文夺冠！AUDI 全系买一赠一”，随后该宣传文案引发热议。事实上，“买一赠一”赠送的是一台车模，标题中的“全系”也仅限“AUDI”品牌的两款电动车。 10 月 12 日，上汽奥迪官方客服解释称，活动是在“10 月 1",
+   "published_at": 1793717626.0,
+   "published_bj": "2026-11-03 22:53"
+  },
+  {
+   "id": "21b978913e335728",
+   "source": "IT之家",
+   "title": "宏碁推出 Aspire X 16 笔记本：酷睿 Ultra X9 388H 处理器、2.8K 120Hz OLED 屏幕",
+   "url": "https://www.ithome.com/1/021/837.htm",
+   "summary": "IT之家 11 月 3 日消息，宏碁现已在海外市场 Aspire X 16 笔记本，新品采用英特尔 Panther Lake 平台，配备 120Hz 高刷 OLED 屏幕和 84Wh 电池。 IT之家了解到，这款笔记本搭载英特尔酷睿 Ultra X9 388H 处理器，以及 Arc B390 核显。提供 16GB 内存和 512GB SSD 配置。品牌方曾在此前表示，该机将有 32GB 内存和 2TB SSD 配置，并可选酷睿 Ultra 5 338H 和酷睿 Ultra X7 358H 处理器，不过这些 SKU 现在并没有上架。 同时，这款笔记本配备一块 16 英寸 OLED 面板，分辨率为",
+   "published_at": 1793717560.0,
+   "published_bj": "2026-11-03 22:52"
+  },
+  {
+   "id": "dc73ecc745b33615",
+   "source": "IT之家",
+   "title": "到手价 13999 元：拓竹 H3C 多头打印完全体发布",
+   "url": "https://www.ithome.com/1/021/836.htm",
+   "summary": "IT之家 11 月 3 日消息，拓竹 H3C 多头打印完全体今日发布，新品采用 Swaptek 多头闪切系统，支持超软 TPU 高速打印，具备双 85° 烘干槽位， 政府补贴后到手价 13999 元 。 IT之家了解到，这款产品标配 9 个可切换打印头，每个打印头拥有独立的进料和加热系统，保证耗材始终处于装载状态，无需反复进退料。通过优化结构、调节参数以及主动预热，H3C 能够将换头速度控制在 3.4 秒。 同时该产品支持叠色打印。内置多头闪切系统，九头独立进料，免去来回抽和换料带来的等待与废料。并将 TPU 75A 线径增加至 2.85mm，打印速度达到其他 TPU 的三倍以上。 此外，该产",
+   "published_at": 1793717119.0,
+   "published_bj": "2026-11-03 22:45"
+  },
+  {
    "id": "6ccde792cf726e4f",
    "source": "InfoQ中文",
    "title": "从模型调用到任务交付：MaaS 如何走进 Agent 生产",
@@ -29,6 +146,24 @@
    "summary": "点击查看原文>",
    "published_at": 1793716819.0,
    "published_bj": "2026-11-03 22:40"
+  },
+  {
+   "id": "eb2d9ef9b8ce9aaa",
+   "source": "IT之家",
+   "title": "欧洲最高法院顾问：谷歌 Gemini 使用新闻报道可能侵犯版权",
+   "url": "https://www.ithome.com/1/021/835.htm",
+   "summary": "IT之家 11 月 3 日消息，据路透社报道，欧洲最高法院的一名顾问周二表示，谷歌旗下 Gemini 聊天机器人在回答互联网用户提问时使用新闻报道，在特定情况下可能违反版权规定。 IT之家注意到，这项意见由欧盟法院（CJEU）驻卢森堡的法务总顾问马切伊 · 什普纳尔（Maciej Szpunar）提出，涉及匈牙利网站运营商 Like Company 对谷歌提起的一起诉讼，争议焦点是谷歌人工智能聊天机器人 Gemini 对新闻内容的使用方式。 如果法院最终作出对谷歌不利的裁决，要求这家科技巨头为使用新闻媒体内容支付费用，或将为 Like Company 这类网络媒体带来新的生存机会。随着 Gem",
+   "published_at": 1793716591.0,
+   "published_bj": "2026-11-03 22:36"
+  },
+  {
+   "id": "179ed4f131812f20",
+   "source": "IT之家",
+   "title": "小米汽车官宣明日将继续启程前往德国纽博格林北环",
+   "url": "https://www.ithome.com/1/021/834.htm",
+   "summary": "IT之家 11 月 3 日消息，小米汽车官方刚刚宣布， 2026 年 11 月 4 日，将继续启程前往德国纽博格林北环 。 据IT之家此前报道，今年 10 月，小米创办人、董事长兼 CEO 雷军转发了小米集团副总裁、汽车部 CTO 胡峥楠的微博， 并宣布小米纽北 Workshop 已经启用 。 据胡峥楠介绍，小米在纽北刚启用不久的 Workshop 位于 GT 赛道旁，比之前租用附近的 Workshop 面积大了不少，设施也完全鸟枪换炮，员工的办公工作条件也大为改善，有了自己的停车场、快充站、进入赛道的专用入口、给车手的浴室等，最意外的是还有专属的观赛 VIP Lounge。 有消息称新款小米",
+   "published_at": 1793716519.0,
+   "published_bj": "2026-11-03 22:35"
   },
   {
    "id": "ee1e9926534c3a87",
@@ -47,6 +182,15 @@
    "summary": "IT之家 11 月 3 日消息，《午夜以南》开发商 Compulsion &nbsp;Games 此前已经脱离微软 XBOX 体系，重新回归独立运营。本作开发总监 David Sears 最近接受采访时表示，假如自己当时是微软负责人，可能不会为《午夜以南》提供资金。 David Sears 表示，微软曾经大力扶植许多工作室和游戏项目，却不一定要求他们取得显著商业成功。他强调自己非常希望开发《午夜以南》，也非常感谢微软给予的支持。 不过当旁边的主持人问到，如果你是出资方，是否会做出不同决定时，David Sears 表示：“会吧，很可能会。这种资助模式难以为继，必然会带来严重后果。微软当时为大量",
    "published_at": 1793716162.0,
    "published_bj": "2026-11-03 22:29"
+  },
+  {
+   "id": "fe4dcef7a956e524",
+   "source": "Hacker News",
+   "title": "Just a little AI resistance, as a treat",
+   "url": "https://shkspr.mobi/blog/2026/11/just-a-little-ai-resistance-as-a-treat/",
+   "summary": "Article URL: https://shkspr.mobi/blog/2026/11/just-a-little-ai-resistance-as-a-treat/ Comments URL: https://news.ycombinator.com/item?id=50352257 Points: 73 # Comments: 38",
+   "published_at": 1793715252.0,
+   "published_bj": "2026-11-03 22:14"
   },
   {
    "id": "dd0ff9d48a093eea",
@@ -90,6 +234,15 @@
    "title": "Tomorrow: TechCrunch Founder Summit takes over Boston and when pass rates increase",
    "url": "https://techcrunch.com/2026/11/03/tomorrow-techcrunch-founder-summit-takes-over-boston-and-when-pass-rates-increase/",
    "summary": "Secure your TechCrunch Founder Summit pass savings before prices increase tomorrow at 9 a.m. ET. Save up to $100 on your pass, and get a second for free.",
+   "published_at": 1793714400.0,
+   "published_bj": "2026-11-03 22:00"
+  },
+  {
+   "id": "46507f12b45b7c69",
+   "source": "少数派",
+   "title": "一眼的熟悉，满眼的惊喜：新款 iPad mini 首发体验",
+   "url": "https://sspai.com/post/118263",
+   "summary": "更轻、更薄、更好「看」，依然是那台纯粹的 iPad mini。 查看全文",
    "published_at": 1793714400.0,
    "published_bj": "2026-11-03 22:00"
   },
@@ -3449,159 +3602,6 @@
    "summary": "Article URL: https://scrollprize.substack.com/p/writing-seen-in-pherc-306b-for-the Comments URL: https://news.ycombinator.com/item?id=50342119 Points: 5 # Comments: 0",
    "published_at": 1793647126.0,
    "published_bj": "2026-11-03 03:18"
-  },
-  {
-   "id": "4188bf42a4accb46",
-   "source": "TechCrunch",
-   "title": "Snap settles lawsuit accusing platform of fueling teen depression and eating disorders",
-   "url": "https://techcrunch.com/2026/11/02/snap-settles-lawsuit-accusing-platform-of-fueling-teen-depression-and-eating-disorders/",
-   "summary": "The plaintiffs said they started using YouTube as young as age 3 and other social media platforms at around age 9 and developed compulsive usage habits that they attributed to features such as autoplay and infinite scrolling.",
-   "published_at": 1793646709.0,
-   "published_bj": "2026-11-03 03:11"
-  },
-  {
-   "id": "049808b4fa940300",
-   "source": "Hacker News",
-   "title": "Egoless Mathematics in the AI Era",
-   "url": "https://terrytao.wordpress.com/2026/11/02/egoless-mathematics-in-the-ai-era/",
-   "summary": "Article URL: https://terrytao.wordpress.com/2026/11/02/egoless-mathematics-in-the-ai-era/ Comments URL: https://news.ycombinator.com/item?id=50341736 Points: 18 # Comments: 6",
-   "published_at": 1793645684.0,
-   "published_bj": "2026-11-03 02:54"
-  },
-  {
-   "id": "c3854c7e2c6b6c51",
-   "source": "InfoQ中文",
-   "title": "谷歌 SynthID Detector 简化了水印检测流程，并将支持范围扩展至其他 AI 提供商",
-   "url": "https://www.infoq.cn/article/JoVxAdq1OjtIDkRBjWOW?utm_source=rss&utm_medium=article",
-   "summary": "点击查看原文>",
-   "published_at": 1793645532.0,
-   "published_bj": "2026-11-03 02:52"
-  },
-  {
-   "id": "1ebf4554a28a1adb",
-   "source": "Hacker News",
-   "title": "Ballot Rejections Have Soared in Rural Counties as USPS Reduces Mail Service",
-   "url": "https://www.propublica.org/article/mail-ballot-delays-postal-service-midterms",
-   "summary": "Article URL: https://www.propublica.org/article/mail-ballot-delays-postal-service-midterms Comments URL: https://news.ycombinator.com/item?id=50341616 Points: 44 # Comments: 17",
-   "published_at": 1793645280.0,
-   "published_bj": "2026-11-03 02:48"
-  },
-  {
-   "id": "70439ac79a5d93b7",
-   "source": "Hacker News",
-   "title": "SOML – A Config Format for Humans",
-   "url": "https://github.com/soml-lang/soml",
-   "summary": "Article URL: https://github.com/soml-lang/soml Comments URL: https://news.ycombinator.com/item?id=50341502 Points: 11 # Comments: 7",
-   "published_at": 1793644924.0,
-   "published_bj": "2026-11-03 02:42"
-  },
-  {
-   "id": "1f2835436e960523",
-   "source": "Hacker News",
-   "title": "Ubuntu still has not released patch for Linux 0day RCE in almost 3 weeks",
-   "url": "https://freenode.net/article/ubuntu-lts-kernels-still-unfixed-for-critical-cve-2026-98432",
-   "summary": "Article URL: https://freenode.net/article/ubuntu-lts-kernels-still-unfixed-for-critical-cve-2026-98432 Comments URL: https://news.ycombinator.com/item?id=50341462 Points: 70 # Comments: 7",
-   "published_at": 1793644778.0,
-   "published_bj": "2026-11-03 02:39"
-  },
-  {
-   "id": "f09985fd6ad46295",
-   "source": "InfoQ中文",
-   "title": "AI+科研：Agent加速科研，论文写得快了，成果更难评了 ｜ 西湖大学工学院博导 王欢分享",
-   "url": "https://www.infoq.cn/article/MbwRCg4cKC2f3bwv0Cpb?utm_source=rss&utm_medium=article",
-   "summary": "点击查看原文>",
-   "published_at": 1793644435.0,
-   "published_bj": "2026-11-03 02:33"
-  },
-  {
-   "id": "ee7c93586f73d877",
-   "source": "Hacker News",
-   "title": "Agentic Backdoors via Pretraining Poisoning",
-   "url": "https://arxiv.org/abs/2610.37741",
-   "summary": "Article URL: https://arxiv.org/abs/2610.37741 Comments URL: https://news.ycombinator.com/item?id=50341334 Points: 34 # Comments: 6",
-   "published_at": 1793644258.0,
-   "published_bj": "2026-11-03 02:30"
-  },
-  {
-   "id": "f0d19fb5f0beac41",
-   "source": "Hacker News",
-   "title": "Astra can read and write weights to improve Qwen",
-   "url": "https://rikiyat.github.io/blog/weight-space-programming/",
-   "summary": "Article URL: https://rikiyat.github.io/blog/weight-space-programming/ Comments URL: https://news.ycombinator.com/item?id=50341174 Points: 402 # Comments: 107",
-   "published_at": 1793643688.0,
-   "published_bj": "2026-11-03 02:21"
-  },
-  {
-   "id": "3a0b95e0037b1881",
-   "source": "Hacker News",
-   "title": "Sneaking into the auditorium for the Windows 2000 launch rehearsal",
-   "url": "https://devblogs.microsoft.com/oldnewthing/20261102-00/?p=112818/",
-   "summary": "Article URL: https://devblogs.microsoft.com/oldnewthing/20261102-00/?p=112818/ Comments URL: https://news.ycombinator.com/item?id=50341028 Points: 5 # Comments: 0",
-   "published_at": 1793643168.0,
-   "published_bj": "2026-11-03 02:12"
-  },
-  {
-   "id": "30e20aba02cc10fe",
-   "source": "Hacker News",
-   "title": "Skill to Create Product Videos",
-   "url": "https://github.com/aaitor/skill-video-studio",
-   "summary": "Article URL: https://github.com/aaitor/skill-video-studio Comments URL: https://news.ycombinator.com/item?id=50340992 Points: 9 # Comments: 1",
-   "published_at": 1793643039.0,
-   "published_bj": "2026-11-03 02:10"
-  },
-  {
-   "id": "4ae43c65fd714922",
-   "source": "InfoQ中文",
-   "title": "AI+办公：Agent都有“工位”了，云电脑既让它接手业务、也管住权限 ｜ 阿里云智能集团研发副总裁 张献涛分享",
-   "url": "https://www.infoq.cn/article/Vryq1f3C0f5uZHOlmIp4?utm_source=rss&utm_medium=article",
-   "summary": "点击查看原文>",
-   "published_at": 1793642922.0,
-   "published_bj": "2026-11-03 02:08"
-  },
-  {
-   "id": "f7ad7bee553119a5",
-   "source": "TechCrunch",
-   "title": "In one of the largest deals in tech history, Marvell buys Lumentum for $115B",
-   "url": "https://techcrunch.com/2026/11/02/in-one-of-the-largest-deals-in-tech-history-marvell-buys-lumentum-for-115b/",
-   "summary": "Marvell's planned purchase of Lumentum is one of the biggest acquisitions in tech history. And they both have the same strategic investor: Nvidia.",
-   "published_at": 1793642051.0,
-   "published_bj": "2026-11-03 01:54"
-  },
-  {
-   "id": "223e1f5be6562734",
-   "source": "TechCrunch",
-   "title": "Readwise takes on Amazon’s Kindle and Goodreads with its new app for book lovers",
-   "url": "https://techcrunch.com/2026/11/02/readwise-takes-on-amazons-kindle-and-goodreads-with-its-new-app-for-book-lovers/",
-   "summary": "Readwise Books combines an ebook store, reading tracker, detailed reading stats, and AI features in a bid to challenge Amazon's ecosystem.",
-   "published_at": 1793641781.0,
-   "published_bj": "2026-11-03 01:49"
-  },
-  {
-   "id": "32707be31bd13080",
-   "source": "Hacker News",
-   "title": "Making Peace with the Projective Plane",
-   "url": "https://www.johndcook.com/blog/2026/11/02/projective-plane/",
-   "summary": "Article URL: https://www.johndcook.com/blog/2026/11/02/projective-plane/ Comments URL: https://news.ycombinator.com/item?id=50340629 Points: 6 # Comments: 0",
-   "published_at": 1793641679.0,
-   "published_bj": "2026-11-03 01:47"
-  },
-  {
-   "id": "46403aeab1726955",
-   "source": "Hacker News",
-   "title": "Self-Employed? Solopreneur? NIST Has a Cybersecurity Guide Just for You",
-   "url": "https://www.nist.gov/news-events/news/2026/11/self-employed-solopreneur-nist-has-cybersecurity-guide-just-you",
-   "summary": "Article URL: https://www.nist.gov/news-events/news/2026/11/self-employed-solopreneur-nist-has-cybersecurity-guide-just-you Comments URL: https://news.ycombinator.com/item?id=50340619 Points: 21 # Comments: 2",
-   "published_at": 1793641660.0,
-   "published_bj": "2026-11-03 01:47"
-  },
-  {
-   "id": "87f2e96e36870b2c",
-   "source": "Hacker News",
-   "title": "Byesky: Wipe your Bluesky account clean",
-   "url": "https://byesky.pirhoo.com",
-   "summary": "Article URL: https://byesky.pirhoo.com Comments URL: https://news.ycombinator.com/item?id=50340601 Points: 5 # Comments: 1",
-   "published_at": 1793641606.0,
-   "published_bj": "2026-11-03 01:46"
   }
  ]
 }
