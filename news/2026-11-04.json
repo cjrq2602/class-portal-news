@@ -1,7 +1,7 @@
 {
  "date": "2026-11-04",
- "generated_at": 1793726967.852226,
- "count": 18,
+ "generated_at": 1793730173.1108057,
+ "count": 33,
  "items": [
   {
    "id": "a52058f243443cf0",
@@ -11,6 +11,114 @@
    "summary": "点击查看原文>",
    "published_at": 1793741192.0,
    "published_bj": "2026-11-04 05:26"
+  },
+  {
+   "id": "499c00af524b9922",
+   "source": "IT之家",
+   "title": "苹果推送首个 iOS 27.3 测试版",
+   "url": "https://www.ithome.com/1/021/859.htm",
+   "summary": "IT之家 11 月 4 日闪讯速报，苹果推送首个 iOS 27.3 测试版。 IT之家正在为您整理更细节的内容，本文将在几分钟内得到更新，请您在 App 或浏览器中刷新本文即可。 IT之家闪讯力求最快速播报突发大事件和焦点热点新动态，让您快人一步得到重要消息。",
+   "published_at": 1793729679.0,
+   "published_bj": "2026-11-04 02:14"
+  },
+  {
+   "id": "7f7fdc14df691840",
+   "source": "cnBeta",
+   "title": "传英特尔将停产B580显卡 转向更赚钱的工作站产品",
+   "url": "https://www.cnbeta.com.tw/articles/tech/1584914.htm",
+   "summary": "英特尔Arc B580显卡可能即将停产，因为该公司将优先发展利润更高的工作站和AI推理显卡。这一传闻与近期有关英伟达将GB202芯片的生产线从RTX 5090转移的报道相呼应，尽管两家公司均未证实这一消息。 阅读全文",
+   "published_at": 1793728817.0,
+   "published_bj": "2026-11-04 02:00"
+  },
+  {
+   "id": "7627037f3fdfe952",
+   "source": "cnBeta",
+   "title": "任天堂确认其内部塞尔达团队负责开发了《塞尔达：时之笛 重制版》",
+   "url": "https://www.cnbeta.com.tw/articles/game/1584912.htm",
+   "summary": "任天堂已经确认，《塞尔达：时之笛 重制版》由旗下EPD第三制作组负责开发。该团队此前曾参与制作《塞尔达传说：旷野之息》和《塞尔达传说：王国之泪》。这一消息来自任天堂于11月2日发布的《开发者访谈》第24期前两章，距离游戏正式发售仅剩三天。 阅读全文",
+   "published_at": 1793728805.0,
+   "published_bj": "2026-11-04 02:00"
+  },
+  {
+   "id": "a3aea40af4300a7a",
+   "source": "TechCrunch",
+   "title": "CrowdStrike to shell out nearly $500M for 2 AI security startups as the market for securing agents takes off",
+   "url": "https://techcrunch.com/2026/11/03/crowdstrike-to-shell-out-nearly-500m-for-2-ai-security-startups-as-the-market-for-securing-agents-takes-off/",
+   "summary": "CrowdStrike said it will buy Fiddler AI, which makes AI agent observability software, and Dreadnode, which helps companies automate AI security testing.",
+   "published_at": 1793728612.0,
+   "published_bj": "2026-11-04 01:56"
+  },
+  {
+   "id": "4eb19b946205a4e0",
+   "source": "Hacker News",
+   "title": "Google researchers demand freedom to tell the world what they know about AI",
+   "url": "https://www.washingtonpost.com/technology/2026/11/03/google-deepmind-staff-protest-lifetime-ban-criticizing-company/",
+   "summary": "Article URL: https://www.washingtonpost.com/technology/2026/11/03/google-deepmind-staff-protest-lifetime-ban-criticizing-company/ Comments URL: https://news.ycombinator.com/item?id=50355504 Points: 24 # Comments: 2",
+   "published_at": 1793728526.0,
+   "published_bj": "2026-11-04 01:55"
+  },
+  {
+   "id": "2753ec214b090012",
+   "source": "cnBeta",
+   "title": "Google承认搜索与AI已无法分离 关闭AI功能或意味着放弃搜索服务",
+   "url": "https://www.cnbeta.com.tw/articles/tech/1584910.htm",
+   "summary": "Google近日宣布，将从2027年开始调整面向K-12学校教育用户的人工智能策略，允许学校自主决定是否启用Gemini等AI工具。然而，这项看似给予学校更多选择权的新政策，却引发了教育界的广泛讨论，因为Google同时确认，若学校决定完全禁用AI功能，学生也将无法继续使用Google Search搜索服务。 阅读全文",
+   "published_at": 1793728308.0,
+   "published_bj": "2026-11-04 01:51"
+  },
+  {
+   "id": "c36eba8903bed9df",
+   "source": "cnBeta",
+   "title": "微软大幅优化Windows 11内存管理 8GB内存电脑性能最高提升40%",
+   "url": "https://www.cnbeta.com.tw/articles/tech/1584908.htm",
+   "summary": "微软近日发布最新Windows 11更新，重点针对8GB内存设备进行优化。公司表示，通过改进内存管理机制和系统资源调度方式，搭载8GB内存的电脑如今最高可实现20%的响应速度提升，而在多任务场景测试中，性能提升幅度最高可达到40%。 阅读全文",
+   "published_at": 1793728084.0,
+   "published_bj": "2026-11-04 01:48"
+  },
+  {
+   "id": "7d855259bb70526c",
+   "source": "Hacker News",
+   "title": "How to write comparison content that doesn't age like milk",
+   "url": "https://posthog.com/blog/comparison-content-guide",
+   "summary": "Article URL: https://posthog.com/blog/comparison-content-guide Comments URL: https://news.ycombinator.com/item?id=50355365 Points: 3 # Comments: 0",
+   "published_at": 1793728018.0,
+   "published_bj": "2026-11-04 01:46"
+  },
+  {
+   "id": "5e3417d954c27304",
+   "source": "cnBeta",
+   "title": "Xbox Nano手柄隐藏云游戏功能 未来可直接通过Wi-Fi连接微软服务器",
+   "url": "https://www.cnbeta.com.tw/articles/game/1584906.htm",
+   "summary": "微软即将正式发售全新Xbox Nano迷你手柄，而在产品上市前夕，这款小巧设备的一项隐藏功能被曝光。最新消息显示，Xbox Nano不仅是一款便携式游戏手柄，还能够通过Wi-Fi直接连接Xbox Cloud Gaming云游戏平台，从而降低游戏延迟并提升云游戏体验。 阅读全文",
+   "published_at": 1793727943.0,
+   "published_bj": "2026-11-04 01:45"
+  },
+  {
+   "id": "3a2fc5156b9c160f",
+   "source": "Hacker News",
+   "title": "Qwen 3.8 27B on my laptop can interpret model weights, too",
+   "url": "https://simonwillison.net/2026/Nov/3/qwen-can-interpret-model-weights/",
+   "summary": "Article URL: https://simonwillison.net/2026/Nov/3/qwen-can-interpret-model-weights/ Comments URL: https://news.ycombinator.com/item?id=50355251 Points: 41 # Comments: 4",
+   "published_at": 1793727600.0,
+   "published_bj": "2026-11-04 01:40"
+  },
+  {
+   "id": "30094d02427ef926",
+   "source": "Hacker News",
+   "title": "Postman silently auto-installs AI plugins and attempts to share all API data",
+   "url": "https://github.com/postmanlabs/postman-app-support/issues/14370",
+   "summary": "Article URL: https://github.com/postmanlabs/postman-app-support/issues/14370 Comments URL: https://news.ycombinator.com/item?id=50354960 Points: 213 # Comments: 58",
+   "published_at": 1793726557.0,
+   "published_bj": "2026-11-04 01:22"
+  },
+  {
+   "id": "5cb41849d4d8b70b",
+   "source": "IT之家",
+   "title": "提速抗癌药物研发：谷歌 Antigravity 上线“AI 炼丹师”，1 小时筛完数千种化合物",
+   "url": "https://www.ithome.com/1/021/858.htm",
+   "summary": "IT之家 11 月 4 日消息，谷歌 DeepMind 团队昨日（11 月 3 日）发布博文，宣布为 Google Antigravity 推出一套“化学信息学技能”（Cheminformatics Skills）， 帮助科研人员更快完成药物发现中的文献检索、分子分析、模型构建和新分子设计等工作。 IT之家援引博文介绍，在以肺癌药物为例的演示中，AI 智能体可在约一小时内检索数千种化合物、开展匹配分子对分析，并提出具备合成路线的新型刚性大环分子，而类似流程过去往往需要数天。 该工具将大语言模型的规划、检索与科学推理能力，与 RDKit 等确定性化学计算工具结合，并接入 ChEMBL 和 Pub",
+   "published_at": 1793726396.0,
+   "published_bj": "2026-11-04 01:19"
   },
   {
    "id": "b32803fb16e23533",
@@ -38,6 +146,15 @@
    "summary": "Article URL: https://www.ashbyhq.com/careers?ashby_jid=695b1ce6-c375-4fad-94ef-61b50a3fbd28&utm_source=hn Comments URL: https://news.ycombinator.com/item?id=50354582 Points: 0 # Comments: 0",
    "published_at": 1793725253.0,
    "published_bj": "2026-11-04 01:00"
+  },
+  {
+   "id": "751d29e20a260143",
+   "source": "Solidot",
+   "title": "纽约时报等起诉 Brave 绕过付费墙抓取内容并提供给 AI 公司",
+   "url": "https://www.solidot.org/story?sid=85788",
+   "summary": "《纽约时报》、《芝加哥论坛报》和《奥兰多哨兵报》等美国出版商起诉 Brave Software，指控其未经许可抓取网站内容，并帮助用户绕过付费墙。Brave Software 被控将其抓取内容的索引数据库 Brave Index 提供给 Anthropic、Perplexity、Mistral、xAI 和 Cohere 等 AI 公司，通过 Paywall blocker 功能帮助用户绕过数百家新闻媒体的付费墙。《纽约时报》发言人 Graham James 在一份声明中表示：“我们支持合乎道德且负责任的使用与开发 AI，但 Brave 公然蔑视现行版权法，对《纽约时报》多次要求其停止侵权行为的",
+   "published_at": 1793725109.0,
+   "published_bj": "2026-11-04 00:58"
   },
   {
    "id": "b53823e717f5d168",
@@ -85,6 +202,15 @@
    "published_bj": "2026-11-04 00:40"
   },
   {
+   "id": "2386460b86c19e46",
+   "source": "Solidot",
+   "title": "Google 将对拒绝 AI 的美国学校关闭搜索",
+   "url": "https://www.solidot.org/story?sid=85787",
+   "summary": "Google 宣布美国 K-12 学校学生使用的软件将默认关闭所有 AI 功能，除非学校管理人员自己选择启用。此举旨在回应教育工作者和家长的诉求，他们希望在孩子与 AI 互动上有更多的掌控权。今天 AI 功能已成为 Google 商用搜索引擎的标配，Google 负责教育的副总裁 Chris Phillips 表示，搜索与 AI 已深度融合，如果学校禁用了 AI，那么学生将无法使用搜索。美国 K-12 学校广泛使用 Google 的软件，包括 Gmail、Docs 以及作业平台 Classroom。Google 的 Chromebook 是美国学校最广泛使用的笔记本电脑。",
+   "published_at": 1793723622.0,
+   "published_bj": "2026-11-04 00:33"
+  },
+  {
    "id": "4c027408be31c0c8",
    "source": "TechCrunch",
    "title": "Google will let schools disable its AI tools, but not without sacrificing Search",
@@ -128,6 +254,15 @@
    "summary": "点击查看原文>",
    "published_at": 1793722289.0,
    "published_bj": "2026-11-04 00:11"
+  },
+  {
+   "id": "2514c5f1ae87eb6e",
+   "source": "IT之家",
+   "title": "英伟达称 AI 重塑芯片工厂：仿真提速最高 35 倍，工程师决策从数天缩至数分钟",
+   "url": "https://www.ithome.com/1/021/857.htm",
+   "summary": "IT之家 11 月 4 日消息，英伟达于 11 月 3 日发布文章称，人工智能正在推动半导体晶圆厂进入“AI 定义工厂”阶段：通过加速仿真、学习型物理模型、AI 智能体和数字孪生， 正在显著提速芯片制造中的设计、测试与生产决策。 加速仿真（accelerated simulation） 指利用 GPU、并行计算、AI 智能体模型等技术， 把传统依赖 CPU 的工程仿真从数小时、数天压缩到数分钟甚至毫秒级的过程。 在半导体制造中，它让工程师能更快测试工艺方案、预测缺陷风险，而不必先做昂贵且耗时的真实产线实验。 IT之家援引博文介绍，随着先进芯片需求上升，制造工艺愈发复杂，良率和工艺质量的容错空间",
+   "published_at": 1793722000.0,
+   "published_bj": "2026-11-04 00:06"
   },
   {
    "id": "b94c194d597546eb",
