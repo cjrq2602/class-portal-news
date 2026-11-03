@@ -1,8 +1,107 @@
 {
  "date": "2026-11-04",
- "generated_at": 1793744525.5952413,
- "count": 78,
+ "generated_at": 1793748059.498854,
+ "count": 89,
  "items": [
+  {
+   "id": "e7d00e7a007e5619",
+   "source": "IT之家",
+   "title": "OpenAI 证实：ChatGPT 搜索查询量已达谷歌 20%",
+   "url": "https://www.ithome.com/1/021/885.htm",
+   "summary": "IT之家 11 月 4 日消息，据《商业内幕》今天（4 日）凌晨报道，OpenAI 挑战谷歌搜索现已“初见成效”。ChatGPT 消费者产品负责人亚当 · 弗莱证实：ChatGPT 上的搜索类查询量， 约相当于谷歌搜索查询量的 20% 。 今年夏天，皮尤研究中心发布的一份调查报告显示，搜索信息是美国成年人最常见的 AI 使用场景， 42% 的受访者曾用 AI 搜索信息 。 工作用途排在第二位， 38% 的受访在职成年人曾用 AI 处理工作任务 。娱乐、获取新闻和寻求医疗建议等用途则相对少见。 这次调查并非专门针对 ChatGPT。报道指出，ChatGPT 在 AI 聊天机器人中最受欢迎。 44",
+   "published_at": 1793747783.0,
+   "published_bj": "2026-11-04 07:16"
+  },
+  {
+   "id": "f0d338c96ddd2e16",
+   "source": "IT之家",
+   "title": "育碧被曝有意收购微软 Xbox 旗下《耻辱》《死亡循环》开发商 Arkane Lyon",
+   "url": "https://www.ithome.com/1/021/884.htm",
+   "summary": "IT之家 11 月 4 日消息，彭博社今日报道称，育碧（Ubisoft）已向微软提出收购申请，希望将《耻辱 / 羞辱》（Dishonored）和《死亡循环》（Deathloop）的开发商 Arkane Lyon 纳入旗下。 除育碧外，至少还有另外两家游戏公司向微软提交了收购报价，目前 Arkane Lyon 的未来归属仍未确定。 微软正寻求剥离旗下法国游戏工作室 Arkane Lyon。育碧是目前公开报道中唯一被点名的竞购方，另外两家参与竞购的游戏公司身份尚未披露，交易报价及具体条件也没有公开。 此次出售计划是 Xbox 首席执行官 Asha Sharma 推动业务重组的一部分。Xbox 此前",
+   "published_at": 1793747519.0,
+   "published_bj": "2026-11-04 07:11"
+  },
+  {
+   "id": "0bfb402713e8f7d0",
+   "source": "IT之家",
+   "title": "苹果 iPadOS 27.3 首个开发者预览版相机应用新增 Siri 入口：视觉智能触手可及",
+   "url": "https://www.ithome.com/1/021/883.htm",
+   "summary": "IT之家 11 月 4 日消息，科技媒体 MacRumors 今天（11 月 4 日）发布博文，报道称在 iPadOS 27.3 首个开发者预览版中，苹果面向部分支持的 iPad 机型， 在“相机”（Camera）应用中新增 Siri 标签页入口。 IT之家援引博文介绍，苹果公司此前通过 iOS 27 系统更新，为 iPhone 15 Pro 以及后续机型，在相机应用中新增 Siri 标签页。而在本次 iPadOS 27.3 Beta 1 开发者预览版中，苹果公司将其扩展到 iPad 机型上。 在适配支持设备上，该功能覆盖搭载 M1 及更新芯片的 iPad Pro 和 iPad Air，以及搭",
+   "published_at": 1793747150.0,
+   "published_bj": "2026-11-04 07:05"
+  },
+  {
+   "id": "de4f69813666714c",
+   "source": "IT之家",
+   "title": "微软 329 元 Xbox Nano 迷你手柄今日开售：隐藏功能曝光，支持 Wi-Fi 直连云游戏平台",
+   "url": "https://www.ithome.com/1/021/882.htm",
+   "summary": "IT之家 11 月 4 日消息，在微软 Xbox Nano 迷你手柄上市前夕，The Verge 挖出了一项尚未正式公布的隐藏功能：通过 Wi-Fi 直连 Xbox Cloud Gaming 云游戏平台，以降低输入延迟，类似于此前 Google Stadia 手柄采用的直连方案。 传统模式下，用户通常需要先将手柄通过蓝牙或 2.4GHz 连接至手机、电脑、电视等终端，再由终端设备将操作指令传递至云服务器。直连模式则可以省去中间设备这一环节，从理论上减少输入延迟。 据报道，微软已经在新版 Xbox Cloud Gaming 网站中进行内部测试。用户需要通过 Xbox 手机应用完成配置，将手柄连接",
+   "published_at": 1793746793.0,
+   "published_bj": "2026-11-04 06:59"
+  },
+  {
+   "id": "c39381ea24f3ed5b",
+   "source": "IT之家",
+   "title": "AMD 苏姿丰官宣 EPYC Venice 处理器已赚钱出货，首批 OEM 整机第四财季上市",
+   "url": "https://www.ithome.com/1/021/881.htm",
+   "summary": "IT之家 11 月 4 日消息，在 2026 财年第三财季（2026 年 6 月 28 日～2026 年 9 月 26 日）财报电话会议上， AMD 首席执行官苏姿丰表示，第六代 EPYC“Venice”服务器处理器已在 2026 年第三财季开始产生营收出货 ，首批基于该处理器的 OEM 整机系统预计将于第四财季（2026 年 9 月 27 日至 2026 年 12 月 26 日）上市。 在 AMD 发布的第三季度财报中，公司整体营收达 134 亿美元 （IT之家注：现汇率约合 893.16 亿元人民币） ，其中数据中心业务营收约 85 亿美元 （现汇率约合 566.56 亿元人民币） ，同比",
+   "published_at": 1793746303.0,
+   "published_bj": "2026-11-04 06:51"
+  },
+  {
+   "id": "f3ac5b985c3bdcab",
+   "source": "IT之家",
+   "title": "谷歌调整 K-12 教育 AI 政策：Gemini、搜索等服务默认关闭",
+   "url": "https://www.ithome.com/1/021/880.htm",
+   "summary": "IT之家 11 月 4 日消息，当地时间 11 月 3 日，谷歌宣布将从 2027 年起调整面向 K-12（幼儿园至高中）教育用户的人工智能功能管理政策，学校管理员需要主动启用，学生账户才能使用 Gemini、NotebookLM、Gemini in Classroom 以及 Google Search 等相关服务。 谷歌同时明确表示，如果学校选择全面禁用 AI，学生也将无法继续使用 Google Search。 根据谷歌官方公告，该公司将在与学校、教师、研究人员及政策制定者沟通后，调整教育产品的管理方式。新政策实施后，学校管理的 K-12 学生账户中，Gemini、Gemini Notebo",
+   "published_at": 1793746043.0,
+   "published_bj": "2026-11-04 06:47"
+  },
+  {
+   "id": "4ed9fa47f94e85e6",
+   "source": "IT之家",
+   "title": "全球最大加密货币盗窃案：黑客假扮 HR 和 CEO 骗过员工，偷走币安 63.6 亿美元",
+   "url": "https://www.ithome.com/1/021/879.htm",
+   "summary": "IT之家 11 月 4 日消息，币安（Binance）发布《初步调查结果与响应更新》，披露一起针对其钱包系统的多阶段、高度复杂攻击。公告称，攻击者利用假招聘、被篡改的开发工具、受感染终端及内部 AI 工具，逐步渗透至热钱包签名与授权体系。 IT之家此前报道，全球最大加密货币交易所币安表示遭到攻击，造成 63.6 亿美元 （IT之家注：现汇率约合 423.92 亿元人民币） 加密资产被盗的重大安全事件。 区块链分析机构 TRM Labs 称，10 月 29 日，攻击者在约 20 分钟内，从币安的钱包转走价值约 63.6 亿美元 （现汇率约合 424.18 亿元人民币） 的加密货币， 创下有史以来",
+   "published_at": 1793745679.0,
+   "published_bj": "2026-11-04 06:41"
+  },
+  {
+   "id": "21a62db71150fdd6",
+   "source": "TechCrunch",
+   "title": "Anthropic is working on a system to prove AI models’ identity",
+   "url": "https://techcrunch.com/2026/11/03/anthropic-is-working-on-a-system-to-prove-ai-models-identity/",
+   "summary": "Called FlashProve, the system would let anyone check that an AI response really came from the model it claims to be from.",
+   "published_at": 1793745663.0,
+   "published_bj": "2026-11-04 06:41"
+  },
+  {
+   "id": "36e7074bcc01a7fd",
+   "source": "IT之家",
+   "title": "OpenAI ChatGPT 最新数据：周活跃用户达 12 亿，两个月新增 2 亿",
+   "url": "https://www.ithome.com/1/021/878.htm",
+   "summary": "IT之家 11 月 4 日消息，当地时间 11 月 2 日 OpenAI 消费者产品负责人 Adam Fry 在纽约举行的一场 OpenAI 活动期间接受了 Big Technology 的采访。他透露，ChatGPT 每周活跃用户数量已经达到 12 亿之高。 Fry 表示，ChatGPT 的用户增长速度正在进一步加快。过去 60 天内，ChatGPT 的周活跃用户从 10 亿增长至 12 亿，新增约 2 亿用户。他将这一增长速度概括为每 30 天增加约 1 亿用户。 搜索业务方面，Fry 透露，OpenAI 对 ChatGPT 内部的搜索类查询进行了统计，并与 Google 的搜索查询量进行",
+   "published_at": 1793745596.0,
+   "published_bj": "2026-11-04 06:39"
+  },
+  {
+   "id": "fd2228bea6b079e3",
+   "source": "IT之家",
+   "title": "全球最大视频平台 YouTube 推广 AI 配乐工具，帮创作者化解音频版权纠纷",
+   "url": "https://www.ithome.com/1/021/877.htm",
+   "summary": "IT之家 11 月 4 日消息，全球最大视频平台 YouTube 今天（11 月 4 日）发布博文，宣布面向全球内容创作者， 推广 YouTube Studio 中的“替换歌曲”（Replace song）工具功能，让其更方便地处理视频中的版权音乐。 IT之家援引博文，“替换歌曲”工具此前已在美国上线，该功能可在创作者收到音频版权申诉后，即时生成四首独特的免版税器乐背景音乐，用于替换受版权保护的音频；替换完成后，相应的 Content ID 版权声明将自动移除。 操作方面，创作者进入 YouTube Studio 的“替换歌曲”工具后，在“建议”选项卡下点击新增的“创建”按钮，即可获得四段各约",
+   "published_at": 1793744965.0,
+   "published_bj": "2026-11-04 06:29"
+  },
+  {
+   "id": "a561dd507139ba1e",
+   "source": "cnBeta",
+   "title": "黑客团队演示突破iPhone锁定模式 越狱状态甚至可在系统更新后保留",
+   "url": "https://www.cnbeta.com.tw/articles/tech/1584932.htm",
+   "summary": "苹果面向高风险用户推出的“锁定模式”（Lockdown Mode）一直被视为iPhone最强等级的安全防护机制之一，但最新演示显示，即使启用了这一模式，设备仍有可能遭到越狱。 阅读全文",
+   "published_at": 1793744924.0,
+   "published_bj": "2026-11-04 06:28"
+  },
   {
    "id": "5d651a475eeda1f5",
    "source": "TechCrunch",
