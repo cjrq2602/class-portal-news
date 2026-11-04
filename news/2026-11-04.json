@@ -1,8 +1,17 @@
 {
  "date": "2026-11-04",
- "generated_at": 1793770507.27988,
- "count": 163,
+ "generated_at": 1793774232.039899,
+ "count": 188,
  "items": [
+  {
+   "id": "bd83c0c784430eb8",
+   "source": "InfoQ中文",
+   "title": "Uber 总裁跳槽 OpenAI！曾掌舵谷歌、Snap 公关，Brockman 亲自发文欢迎",
+   "url": "https://www.infoq.cn/article/mcHCe07TQ08mEZtqcWi1?utm_source=rss&utm_medium=article",
+   "summary": "点击查看原文>",
+   "published_at": 1793800944.0,
+   "published_bj": "2026-11-04 22:02"
+  },
   {
    "id": "3afa81d771b92101",
    "source": "InfoQ中文",
@@ -20,6 +29,222 @@
    "summary": "点击查看原文>",
    "published_at": 1793786400.0,
    "published_bj": "2026-11-04 18:00"
+  },
+  {
+   "id": "c0a5aeedc66c0107",
+   "source": "IT之家",
+   "title": "Steam 喜加一：策略棋盘游戏《Last Gambit》转付费前免费领",
+   "url": "https://www.ithome.com/1/022/130.htm",
+   "summary": "IT之家 11 月 4 日消息，开发团队 Trabucco team 宣布旗下免费 Roguelike 策略棋盘游戏《Last Gambit》将于 2026 年 11 月 13 日结束抢先体验阶段，推出 1.0 正式版，并转为付费买断制。玩家只需在转为付费游戏前将其添加至 Steam 游戏库，即可免费永久保留。IT之家附游戏商品页（ https://store.steampowered.com/app/4983490/Last_Gambit/ ）。 IT之家获悉，《Last Gambit》是一款融合 Roguelike 元素的策略棋盘游戏，即使熟悉传统棋类规则，玩家也难以预测接下来的战局变化。",
+   "published_at": 1793774184.0,
+   "published_bj": "2026-11-04 14:36"
+  },
+  {
+   "id": "bfca6001e8d09f77",
+   "source": "cnBeta",
+   "title": "Valve应对Steam游戏提交量激增：审核时间延长至12个工作日 要求开发者提交前完成实际运行测试",
+   "url": "https://www.cnbeta.com.tw/articles/game/1584954.htm",
+   "summary": "随着Steam平台游戏数量持续增长，Valve正面临越来越大的游戏审核压力。公司近日承认，过去几个月Steam商店页面和游戏版本的审核申请数量显著增加，导致审核团队出现积压。目前，一款游戏从提交审核到获得批准，最长可能需要12个工作日，而此前通常只需要3至5个工作日。 阅读全文",
+   "published_at": 1793773430.0,
+   "published_bj": "2026-11-04 14:23"
+  },
+  {
+   "id": "5c7d2da7cfb0189e",
+   "source": "IT之家",
+   "title": "CrowdStrike 造出“终止开关”，宣称能立即阻止失控 AI 智能体",
+   "url": "https://www.ithome.com/1/022/112.htm",
+   "summary": "IT之家 11 月 4 日消息，当地时间 3 日，据美国 CNBC 报道，网络安全公司 CrowdStrike 的 CEO 乔治 · 库尔茨宣称，公司推出了一项新功能，可以直接关停失控的 AI 智能体。 CrowdStrike 在 Fal.Con 欧洲大会上发布了“AI 终止开关”，安全人员可以借此 停止异常智能体的运行、阻止其重新启动，并切断其网络访问权限 。 库尔茨表示：“大家都在开发 AI 智能体，却一直没有关闭它们的按钮。现在有了。这样对确保 AI 智能体安全运行极为重要。” “AI 终止开关”属于 CrowdStrike 旗下 Falcon Guardian 平台的功能，该平台负责监",
+   "published_at": 1793773418.0,
+   "published_bj": "2026-11-04 14:23"
+  },
+  {
+   "id": "bb72251d3e561254",
+   "source": "cnBeta",
+   "title": "Claude Code核心负责人离职 Anthropic上市前夕失去关键产品主管",
+   "url": "https://www.cnbeta.com.tw/articles/tech/1584952.htm",
+   "summary": "人工智能公司 Anthropic 在筹备大规模首次公开募股（IPO）之际，遭遇一项重要人事变动。长期负责 Claude Code 产品工作的高级产品负责人 Cat Wu 已正式离开公司。消息公布后，引发业界对于这家 AI 独角兽未来产品战略和管理稳定性的关注。 阅读全文",
+   "published_at": 1793773387.0,
+   "published_bj": "2026-11-04 14:23"
+  },
+  {
+   "id": "dfe9c680c71737a6",
+   "source": "cnBeta",
+   "title": "币安公布63.4亿美元盗窃案初步调查：工程师被虚假招聘欺骗 在自己PC上执行恶意仓库",
+   "url": "https://www.cnbeta.com.tw/articles/tech/1584950.htm",
+   "summary": "加密货币交易所币安日前公布 10 月 29 日安全事件的初步调查结果。币安称攻击者经过数月准备，先利用恶意软件、虚假招聘和币安内部 AI 工具接触钱包团队，最终获得钱包签名服务的未经授权访问权限，转移约 63.4 亿美元的数字资产。 阅读全文",
+   "published_at": 1793773244.0,
+   "published_bj": "2026-11-04 14:20"
+  },
+  {
+   "id": "fb6cb108acd55985",
+   "source": "cnBeta",
+   "title": "研究预测南部非洲人象冲突高风险区至2085年或扩大33%至100%",
+   "url": "https://www.cnbeta.com.tw/articles/science/1584948.htm",
+   "summary": "一项发表于《PNAS Nexus》的研究预测，到2085年，南部非洲大象袭击农田的高风险区域可能比基准期扩大33%至100%。研究团队指出，人口增长和农地扩张是冲突风险上升的主要驱动因素，气候变干也会加剧问题，但影响相对较小。 阅读全文",
+   "published_at": 1793772894.0,
+   "published_bj": "2026-11-04 14:14"
+  },
+  {
+   "id": "939d56aeb4079f28",
+   "source": "cnBeta",
+   "title": "研究揭示蚊子“挑食”秘密：不同种类偏爱不同的人",
+   "url": "https://www.cnbeta.com.tw/articles/science/1584946.htm",
+   "summary": "一项最新研究揭开了蚊子为何总爱叮咬某些人的原因。美国佛罗里达国际大学研究团队发现，不同蚊种会被截然不同的人体气味特征所吸引。换句话说，能够强烈吸引某一种蚊子的人，对另一种蚊子来说未必具有吸引力。 阅读全文",
+   "published_at": 1793772806.0,
+   "published_bj": "2026-11-04 14:13"
+  },
+  {
+   "id": "0bdeed893b3d22c6",
+   "source": "cnBeta",
+   "title": "科学家揭开哺乳动物毛发生长排列之谜：细胞追随化学信号移动形成复杂毛囊图案",
+   "url": "https://www.cnbeta.com.tw/articles/science/1584944.htm",
+   "summary": "为什么不同哺乳动物身上的毛发会呈现出截然不同的排列方式？有些动物的毛囊排列整齐、方向一致，有些则呈现出相对随机的分布。瑞士日内瓦大学研究团队近日提出了一种新的解释：这些复杂的毛囊排列，可能并不需要一套精密的生物定位系统，而是由细胞移动与化学信号之间简单的相互作用自然形成。 阅读全文",
+   "published_at": 1793772786.0,
+   "published_bj": "2026-11-04 14:13"
+  },
+  {
+   "id": "1fedb6e7320e665f",
+   "source": "IT之家",
+   "title": "Meta 举债融资 150 亿美元，此前有消息称其还将发行欧元债券",
+   "url": "https://www.ithome.com/1/022/077.htm",
+   "summary": "IT之家 11 月 4 日消息，Meta 当地时间本月 3 日宣布将发行五部分共 150 亿美元 （IT之家注：现汇率约合 1,002.61 亿元人民币） 优先票据： 2031 年到期（5 年期）：32.5 亿美元，收益率 5.85%； 2033 年到期（7 年期）：32.5 亿美元，收益率 6.25%； 2036 年到期（10 年期）：40 亿美元，收益率 6.55%； 2046 年到期（20 年期）：17.5 亿美元，收益率 7.35%； 2056 年到期（30 年期）：27.5 亿美元，收益率 7.5%。 知情人士指出，Meta 此轮发行的 30 年期债券收益率较美国国债高出 2.2 个",
+   "published_at": 1793772772.0,
+   "published_bj": "2026-11-04 14:12"
+  },
+  {
+   "id": "33b41c5eb37664ef",
+   "source": "IT之家",
+   "title": "天猫双 11 运动疯狂日：骆驼 / 熊猫 / 企鹅等户外装备狂促，单品至高补贴 200 元",
+   "url": "https://www.ithome.com/1/022/076.htm",
+   "summary": "天猫双 11 狂欢进行中，11 月 2 日 ~5 日天猫运动疯狂日，单品至高补贴 200 元（淘礼金红包），叠加优惠券 / 红包狂促 + 消费券 / 加补券凑单到手价更低， 点此前往运动疯狂日 。 ▼ 部分活动商品（需按以下步骤操作）： 1、淘宝 App 点击右上角三个点 → 点击右下角淘金币 → 我的足迹找到商品，可用更大额度淘金币抵扣； 2、* 88VIP 加入购物车后点击下方凑单可用满 200-25/480-60/1500-180 元专享消费券，到手价更低。（非 88VIP 前往 领券中心 也可领取不定额消费券以及品类加补券） 天猫 三防外壳 + 抗静电内胆，骆驼 3514 经典 3.0",
+   "published_at": 1793772734.0,
+   "published_bj": "2026-11-04 14:12"
+  },
+  {
+   "id": "11f38502e35ab411",
+   "source": "cnBeta",
+   "title": "《GTA 6》预载时间提前两天公布：安装空间最高达212GB",
+   "url": "https://www.cnbeta.com.tw/articles/game/1584942.htm",
+   "summary": "Rockstar Games 日前更新了《侠盗猎车手6》（GTA 6）的官方公告和支持页面，将游戏数字版预载时间提前两天开放。根据最新安排，已经完成数字预购的玩家可从11月10日起开始下载游戏，而此前官方在今年6月公布的预载日期为11月12日。游戏正式发售日期仍维持在11月19日不变。 阅读全文",
+   "published_at": 1793772647.0,
+   "published_bj": "2026-11-04 14:10"
+  },
+  {
+   "id": "d6101cc79a5d68ab",
+   "source": "cnBeta",
+   "title": "Google将推出Quick Share SDK Android与iOS应用明年起可绕过系统分享菜单",
+   "url": "https://www.cnbeta.com.tw/articles/tech/1584940.htm",
+   "summary": "Google日前在 Android Dev Summit 开发者峰会上宣布，将于 2027 年上半年推出全新的 Quick Share SDK，同时还将发布面向 iPhone 应用的 Quick Share iOS SDK。这意味着未来无论是Android应用还是 iOS 应用，都可以直接集成 Quick Share 功能，让用户在应用内部完成文件分享，而无需再经过系统级分享菜单或全屏 Quick Share 界面。 阅读全文",
+   "published_at": 1793772472.0,
+   "published_bj": "2026-11-04 14:07"
+  },
+  {
+   "id": "f62c441ead10a265",
+   "source": "IT之家",
+   "title": "中国女海盗故事走向国际：刘玉玲拓展《海盗女王》宇宙，拟明年开启国际巡展",
+   "url": "https://www.ithome.com/1/022/050.htm",
+   "summary": "IT之家 11 月 4 日消息，Variety 昨日（11 月 3 日）发布博文，报道称刘玉玲与创作者埃洛伊丝 · 辛格（Eloise Singer）正推进《海盗女王》（The Pirate Queen）系列的跨媒介开发： 两人已共同创作一部图像小说，此外还在开发一款新游戏，沉浸式作品《海盗女王：无处可逃》（The Pirate Queen: No Safe Waters）则计划于 2027 年开启国际巡展。 该系列围绕中国女海盗首领郑一嫂的故事展开。2024 年推出的初代 VR 作品曾获艾美奖提名；《无处可逃》则于 2026 年亮相戛纳电影节沉浸式竞赛单元，由刘玉玲担任旁白，并与辛格共同制片",
+   "published_at": 1793772160.0,
+   "published_bj": "2026-11-04 14:02"
+  },
+  {
+   "id": "6d83f0f6686afbcb",
+   "source": "IT之家",
+   "title": "六个季度以来首次：丰田汽车今年 Q3 营业利润有望恢复增长",
+   "url": "https://www.ithome.com/1/022/048.htm",
+   "summary": "IT之家 11 月 4 日消息，受益于日元贬值和高利润率混动汽车的强劲需求，丰田汽车预计将在周四公布 六个季度以来首次营业利润增长 ，中国和中东市场销量下滑的影响有望得到抵消。 此外，去年同期影响利润的美国关税成本不再出现，也有助于改善丰田业绩。 根据伦敦证券交易所集团（LSEG）对 9 名分析师的调查，丰田汽车 7 月至 9 月的营业利润预计同比增长 18%，达到 9,920 亿日元 （IT之家注：现汇率约合 418.29 亿元人民币） 。 同期营业收入预计增长 8%，至 13.4 万亿日元 （现汇率约合 5,650.24 亿元人民币） 。 7 月至 9 月，丰田和雷克萨斯 全球销量略高于 ",
+   "published_at": 1793772052.0,
+   "published_bj": "2026-11-04 14:00"
+  },
+  {
+   "id": "f1d93253fbfd59e0",
+   "source": "Hacker News",
+   "title": "US midterm elections 2026 live updates: Democrats win Senate control and edge",
+   "url": "https://www.theguardian.com/us-news/live/2026/nov/03/midterm-election-results-live-updates",
+   "summary": "Article URL: https://www.theguardian.com/us-news/live/2026/nov/03/midterm-election-results-live-updates Comments URL: https://news.ycombinator.com/item?id=50361936 Points: 48 # Comments: 12",
+   "published_at": 1793772030.0,
+   "published_bj": "2026-11-04 14:00"
+  },
+  {
+   "id": "e412409575d8a151",
+   "source": "IT之家",
+   "title": "领克汽车宣布与运动员吴艳妮合作，领克 07GT 帕尔马紫调高定版即将上市",
+   "url": "https://www.ithome.com/1/022/047.htm",
+   "summary": "IT之家 11 月 4 日消息，领克汽车今天宣布，田径运动员吴艳妮正式成为“领克 07GT 车型挚友”，同时领克还首次公开了全新的领克 07GT 帕尔马紫高定版车色。 领克汽车表示，这抹帕尔马紫灵感来自意大利帕尔马紫罗兰，延续领克 07GT 从自然美学中汲取车色的设计思路，把优雅紫调与运动旅行的松弛感融为一体。 关于车辆本身，领克 07GT 是领克家族首款旅行车，新车共推出 3 车型，上市指导价区间为 15.78-17.78 万元，限时价 14.58 万元起，详情可见IT之家此前报道。 相关阅读： 《 刷新中国旅行车交付速度：领克 07GT 汽车万台交付达成，上市指导价 15.78 万元起 》",
+   "published_at": 1793771928.0,
+   "published_bj": "2026-11-04 13:58"
+  },
+  {
+   "id": "94c874709449fada",
+   "source": "IT之家",
+   "title": "曝华为子品牌星芒英文名 OSTA，旗下首款阔直板手机定名 OSTA O1 Pro",
+   "url": "https://www.ithome.com/1/022/046.htm",
+   "summary": "IT之家 11 月 4 日消息，博主 @数码闲聊站 今日爆料，华为子品牌星芒的英文名是 OSTA ，手机盒上也写的 OSTA，第一款阔直板手机叫 OSTA O1 Pro。 博主爆料提到，OSTA O1 Pro 可选星空黑 / 星云白 / 星芒紫三款配色，以及 12+256GB/12+512GB/16+512GB/16+1TB 容量。 博主还曾爆料，某厂的阔直板手机采用 6.39 英寸 1.5K LTPS 直屏 ，屏幕比例看起来是 16:9.5，1.05mm± 极窄四等边，电源键改成了紫色，工程机还是跑道 Deco 设计，一台主攻线上的阔直板，定义相对更具性价比。 博主 @定焦数码 还爆料，OS",
+   "published_at": 1793771603.0,
+   "published_bj": "2026-11-04 13:53"
+  },
+  {
+   "id": "4f282878eacf9e08",
+   "source": "IT之家",
+   "title": "戴森 JH01 巡航气流冷暖净化器上市：制热、凉风、净化三合一，5199 元",
+   "url": "https://www.ithome.com/1/022/045.htm",
+   "summary": "IT之家 11 月 4 日消息，戴森官方今日宣布 JH01 巡航气流冷暖净化器全新上市，支持制热、凉风、净化三合一，官方定价为 5199 元。 这款空气净化器可实现 450L/s 的空气流速，支持设定加热温度高达 32°C，对比戴森上一代空气净化暖风器除醛效率提升至 3 倍、颗粒物净化效率提升至 2 倍。 它配备了 360° 双效滤网、360° 活性炭滤网，支持双效除醛（吸附 + 分解）、去除宠物异味，H1N1 病毒、人冠状病毒 229E、肠道病毒 EV71、猫杯状病毒 4 种病毒去除率大于 99.99%，大肠杆菌、金黄色葡萄球菌、肺炎链球菌 3 种细菌去除率大于 99.99%，尘螨过敏原、猫",
+   "published_at": 1793771471.0,
+   "published_bj": "2026-11-04 13:51"
+  },
+  {
+   "id": "5cccb885cd326853",
+   "source": "IT之家",
+   "title": "影石 Insta360 Ace Pro 3 相机渲染图曝光：八角徕卡镜头外壳，电池容量增 25%",
+   "url": "https://www.ithome.com/1/022/044.htm",
+   "summary": "IT之家 11 月 4 日消息，消息源 @Quadro_News 今天（11 月 4 日）在 X 平台发布推文， 分享了一组图片，展示了白色和黑色版本的影石 Insta360 Ace Pro 3 相机。 外观方面，最显眼的变化在于带有徕卡标识的八角形镜头外壳。颜色方面，在黑色和白色机身外，配有红色装饰设计。IT之家附上相关截图如下： 电池方面，根据美国联邦通信委员会（FCC）认证资料，型号 CINSABUA 的设备配备 2250mAh 电池，额定能量为 8.71Wh。按照报道列出的数据，相比 Ace Pro 2 的 1800mAh，电池容量增加 25%。 影像方面，消息称 Ace Pro 3 ",
+   "published_at": 1793771208.0,
+   "published_bj": "2026-11-04 13:46"
+  },
+  {
+   "id": "70206342df7d6348",
+   "source": "IT之家",
+   "title": "212 X03 插混版申报：独特方盒子硬派越野外观，还有外挂备胎、激光雷达",
+   "url": "https://www.ithome.com/1/022/043.htm",
+   "summary": "IT之家 11 月 4 日消息，工信部发布第 413 批《道路机动车辆生产企业及产品公告》新产品公示，二一二旗下全新车型 212 X03 插电混动版完成申报。 新车在外观上与此前已申报的柴油版保持高度一致，整体造型方正硬朗，采用非承载式车身结构。 IT之家从申报信息获悉，新车长宽高分别为 5095 / 2038 / 1945 mm ，轴距为 2950 mm ，定位中大型硬派越野 SUV；接近角与离去角分别为 33° / 30° ，标配 5 座布局，整备质量 2935 kg，最高车速可达 180 km/h。 车尾采用对开式尾门设计，右侧外挂全尺寸备胎，备胎罩上印有经典的 212 标识，后保险杠以",
+   "published_at": 1793771024.0,
+   "published_bj": "2026-11-04 13:43"
+  },
+  {
+   "id": "f69bfac8ee3cd36d",
+   "source": "cnBeta",
+   "title": "Google为Android推出照片/视频自动备份 通过快速共享直接保存到Windows PC",
+   "url": "https://www.cnbeta.com.tw/articles/tech/1584938.htm",
+   "summary": "Google目前正在通过 Google Play 服务更新为Android设备带来自动备份功能：该功能可以将Android设备上的媒体库内容自动备份到 Windows PC 中，备份过程不需要用户手动干预，即配置好后以后Android设备可以实现自动备份。 阅读全文",
+   "published_at": 1793771019.0,
+   "published_bj": "2026-11-04 13:43"
+  },
+  {
+   "id": "850b6baf1f54e048",
+   "source": "cnBeta",
+   "title": "微软在Windows 11测试版中预览从搜索栏直接打开Android应用 将手机应用投屏到电脑",
+   "url": "https://www.cnbeta.com.tw/articles/tech/1584936.htm",
+   "summary": "微软正在加强 Windows 11 系统的搜索功能与Android设备的联动，在最新测试版中，用户将兼容的Android设备与电脑连接后，可以直接在任务栏搜索设备上的应用，点击搜索结果就可以在电脑上启动和执行操作。 阅读全文",
+   "published_at": 1793770901.0,
+   "published_bj": "2026-11-04 13:41"
+  },
+  {
+   "id": "52d740e6e02779f8",
+   "source": "cnBeta",
+   "title": "数据中心连续被袭击后 俄罗斯要求私营机房预留10%容量并允许使用境外云服务",
+   "url": "https://www.cnbeta.com.tw/articles/tech/1584934.htm",
+   "summary": "俄罗斯总统普京在 11 月 2 日签署法令，要求俄罗斯境内的非国有数据中心都预留至少 10% 的容量，预留的这些容量供俄罗斯政府在必要时维持信息基础设施运行。法令还允许相关机构在获得批准后可以临时使用俄罗斯境外的云计算服务。 阅读全文",
+   "published_at": 1793770749.0,
+   "published_bj": "2026-11-04 13:39"
+  },
+  {
+   "id": "a57610e87a4ba8e3",
+   "source": "IT之家",
+   "title": "张朝阳：搜狐账上有 12 亿美元现金，有一场重大的社交平台的仗要打",
+   "url": "https://www.ithome.com/1/022/042.htm",
+   "summary": "IT之家 11 月 4 日消息，据 21 世纪经济报道，10 月 31 日，搜狐视频关注流 Halloween 美剧 Cosplay Party 在京举行。 搜狐创始人、董事局主席兼首席执行官张朝阳在活动现场表示， 搜狐账上有 12 亿美元 （IT之家注：现汇率约合 80.21 亿元人民币） 现金，投资人经常问及公司的资金使用和分红安排。 对此，张朝阳回应称，搜狐仍需投入资金发展社交平台，“ 有一场重大的社交平台的仗要打 ”。 另据新浪科技报道 ，搜狐当前正将更多资源投入关注流的产品打磨、用户拓展和线下活动运营，在张朝阳看来，关注流的不同之处在于， 用户不只关心内容本身，也关心是谁发的 。他将",
+   "published_at": 1793770587.0,
+   "published_bj": "2026-11-04 13:36"
   },
   {
    "id": "95c08dd5e08e811c",
