@@ -1,8 +1,26 @@
 {
  "date": "2026-11-05",
- "generated_at": 1793827670.7801778,
- "count": 52,
+ "generated_at": 1793831161.9175534,
+ "count": 57,
  "items": [
+  {
+   "id": "cb7ff0f122f8bdea",
+   "source": "TechCrunch",
+   "title": "Nothing CEO says company’s mysterious AI-first device is dropping next month",
+   "url": "https://techcrunch.com/2026/11/04/nothing-ceo-says-companys-mysterious-ai-first-device-is-dropping-next-month/",
+   "summary": "While it's not yet clear what kind of product the smart phone startup is cooking up, Nothing's CEO said that product is designed to leverage AI for productivity gains.",
+   "published_at": 1793830396.0,
+   "published_bj": "2026-11-05 06:13"
+  },
+  {
+   "id": "ad19aa5c5eb7d2fa",
+   "source": "Hacker News",
+   "title": "Hacking the Xbox 360 Hypervisor Part 3: Bad Update Improvements",
+   "url": "https://icode4.coffee/?p=1746",
+   "summary": "Article URL: https://icode4.coffee/?p=1746 Comments URL: https://news.ycombinator.com/item?id=50372164 Points: 3 # Comments: 1",
+   "published_at": 1793829709.0,
+   "published_bj": "2026-11-05 06:01"
+  },
   {
    "id": "35518c70f7be5eff",
    "source": "InfoQ中文",
@@ -20,6 +38,24 @@
    "summary": "点击查看原文>",
    "published_at": 1793829418.0,
    "published_bj": "2026-11-05 05:56"
+  },
+  {
+   "id": "39392eee1eba1eb8",
+   "source": "TechCrunch",
+   "title": "Almost no one uses AI agents to book their Uber, company says",
+   "url": "https://techcrunch.com/2026/11/04/almost-no-one-uses-ai-agents-to-book-their-uber-company-says/",
+   "summary": "During its busiest week last quarter, Uber said only four people booked a ride using an AI agent.",
+   "published_at": 1793829361.0,
+   "published_bj": "2026-11-05 05:56"
+  },
+  {
+   "id": "2914de62e5f5038e",
+   "source": "TechCrunch",
+   "title": "Snapchat surpasses 30M paid subscribers",
+   "url": "https://techcrunch.com/2026/11/04/snapchat-surpasses-30m-paid-subscribers/",
+   "summary": "The milestone comes a year after Snapchat announced a controversial limit on free storage for its Memories feature and informed users it would start requiring users to pay $1.99 per month for additional storage or subscribe to Snapchat+ to retain their Memories.",
+   "published_at": 1793828969.0,
+   "published_bj": "2026-11-05 05:49"
   },
   {
    "id": "34b45a1da66f0d91",
@@ -65,6 +101,15 @@
    "summary": "Article URL: https://www.arguitar.com/ Comments URL: https://news.ycombinator.com/item?id=50371370 Points: 5 # Comments: 1",
    "published_at": 1793825674.0,
    "published_bj": "2026-11-05 04:54"
+  },
+  {
+   "id": "49435ad6dfb218d7",
+   "source": "Hacker News",
+   "title": "If you're on Replit Pro, you have until November 8 to opt out of arbitration",
+   "url": "https://readthediff.substack.com/p/replit-pro-arbitration-opt-out-november-8",
+   "summary": "Article URL: https://readthediff.substack.com/p/replit-pro-arbitration-opt-out-november-8 Comments URL: https://news.ycombinator.com/item?id=50371346 Points: 28 # Comments: 1",
+   "published_at": 1793825573.0,
+   "published_bj": "2026-11-05 04:52"
   },
   {
    "id": "eb63f1eed12a85cb",
