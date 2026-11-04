@@ -1,0 +1,382 @@
+{
+ "type": "yesterday",
+ "date": "2026-11-04",
+ "window": {
+  "start_ts": 1793721600.0,
+  "end_ts": 1793808000.0
+ },
+ "generated_at": 1793811084.4370744,
+ "generator": "action",
+ "news_count": 400,
+ "keywords": [
+  "ai",
+  "智能",
+  "苹果",
+  "to",
+  "开发",
+  "游戏",
+  "元",
+  "pro",
+  "the",
+  "发布"
+ ],
+ "points": [
+  {
+   "text": "【ai】苹果宣布进一步扩展Siri AI能力边界",
+   "keyword": "ai",
+   "news_ids": [
+    "8219b316ecdeae2c"
+   ],
+   "refs": [
+    {
+     "id": "8219b316ecdeae2c",
+     "title": "苹果向第三方应用全面开放Siri AI 开发者可打造跨应用智能代理",
+     "source": "cnBeta",
+     "url": "https://www.cnbeta.com.tw/articles/tech/1584928.htm",
+     "published_at": 1793743812.0
+    }
+   ]
+  },
+  {
+   "text": "【ai】IT之家 11 月 4 日消息，科技媒体 Wccftech 昨日（11 月 3 日）发布博文，报道称针对太空 AI 数据中心散热争议，全球首富埃",
+   "keyword": "ai",
+   "news_ids": [
+    "45fb4786de882cca"
+   ],
+   "refs": [
+    {
+     "id": "45fb4786de882cca",
+     "title": "马斯克回应太空 AI 数据中心散热质疑：可轻松做到每平方米约 1300 瓦散热",
+     "source": "IT之家",
+     "url": "https://www.ithome.com/1/022/029.htm",
+     "published_at": 1793766487.0
+    }
+   ]
+  },
+  {
+   "text": "【ai】CrowdStrike said it will buy Fiddler AI, which makes AI agent observabil",
+   "keyword": "ai",
+   "news_ids": [
+    "a3aea40af4300a7a"
+   ],
+   "refs": [
+    {
+     "id": "a3aea40af4300a7a",
+     "title": "CrowdStrike to shell out nearly $500M for 2 AI security startups as the market for securing agents t",
+     "source": "TechCrunch",
+     "url": "https://techcrunch.com/2026/11/03/crowdstrike-to-shell-out-nearly-500m-for-2-ai-security-startups-as-the-market-for-securing-agents-takes-off/",
+     "published_at": 1793728612.0
+    }
+   ]
+  },
+  {
+   "text": "【智能】IT之家 11 月 4 日消息，根据 Counterpoint Research 最新的市场监测服务，尽管 2026 年第三季度全球智能手机出货",
+   "keyword": "智能",
+   "news_ids": [
+    "21690e942a304f9c"
+   ],
+   "refs": [
+    {
+     "id": "21690e942a304f9c",
+     "title": "Counterpoint：2026 年第三季度全球智能手机平均售价创单季度历史最高水平，苹果营收创同期新高",
+     "source": "IT之家",
+     "url": "https://www.ithome.com/1/022/263.htm",
+     "published_at": 1793782470.0
+    }
+   ]
+  },
+  {
+   "text": "【智能】京东活动可能随时变更，需以实付款为准】 小米 · 米家智能净烟机 3 Pro 开售于 2026 年 8 元，官方定价 3999 元",
+   "keyword": "智能",
+   "news_ids": [
+    "5b2044d9a6fd1ccf"
+   ],
+   "refs": [
+    {
+     "id": "5b2044d9a6fd1ccf",
+     "title": "国补后 5881 → 4036 元：小米米家智能净烟机 3 Pro 燃气灶套装探新低",
+     "source": "IT之家",
+     "url": "https://www.ithome.com/1/022/418.htm",
+     "published_at": 1793794963.0
+    }
+   ]
+  },
+  {
+   "text": "【ai】IT之家 11 月 4 日消息，中兴手机公众号今日发布《关于账号进行迁移的说明》",
+   "keyword": "ai",
+   "news_ids": [
+    "e74e852afa0bd05c"
+   ],
+   "refs": [
+    {
+     "id": "e74e852afa0bd05c",
+     "title": "中兴手机官方微信公众号账号迁移，主体变更为上海申启纪元智能终端有限责任公司",
+     "source": "IT之家",
+     "url": "https://www.ithome.com/1/022/428.htm",
+     "published_at": 1793798309.0
+    }
+   ]
+  },
+  {
+   "text": "【元】IT之家 11 月 4 日消息，在微软 Xbox Nano 迷你手柄上市前夕，The Verge 挖出了一项尚未正式公布的隐藏功能：通过 Wi-",
+   "keyword": "元",
+   "news_ids": [
+    "de4f69813666714c"
+   ],
+   "refs": [
+    {
+     "id": "de4f69813666714c",
+     "title": "微软 329 元 Xbox Nano 迷你手柄今日开售：隐藏功能曝光，支持 Wi-Fi 直连云游戏平台",
+     "source": "IT之家",
+     "url": "https://www.ithome.com/1/021/882.htm",
+     "published_at": 1793746793.0
+    }
+   ]
+  },
+  {
+   "text": "【智能】IT之家 11 月 4 日消息，今日在世界互联网大会乌镇峰会“智能体互信互联互操作全球合作创新 —— 携手构建智能互联网论坛”上，《智能体发展自",
+   "keyword": "智能",
+   "news_ids": [
+    "be88a5dd9e82dd8c"
+   ],
+   "refs": [
+    {
+     "id": "be88a5dd9e82dd8c",
+     "title": "华为、阿里、腾讯、小米、百度、火山引擎等 20 家单位共同起草发布《智能体发展自律公约》，抵制利用智能体实施算法压榨、黑灰产等行为",
+     "source": "IT之家",
+     "url": "https://www.ithome.com/1/022/142.htm",
+     "published_at": 1793774844.0
+    }
+   ]
+  },
+  {
+   "text": "【支持】IT之家 11 月 4 日消息，华硕 (ASUS) 今日正式带来了 ROG XG Station 3",
+   "keyword": "支持",
+   "news_ids": [
+    "8471b27646079ab4"
+   ],
+   "refs": [
+    {
+     "id": "8471b27646079ab4",
+     "title": "华硕正式带来 ROG XG Station 3 显卡坞：提供 GC-HPWR 接口，支持雷电 5",
+     "source": "IT之家",
+     "url": "https://www.ithome.com/1/022/469.htm",
+     "published_at": 1793805639.0
+    }
+   ]
+  },
+  {
+   "text": "【苹果】据彭博社记者马克·古尔曼最新披露的信息，苹果未来很可能围绕触控屏机型重组其高端MacBook Pro产品线，当前同时销售的非触控版高端机型最终可",
+   "keyword": "苹果",
+   "news_ids": [
+    "e8091c7826424ec2"
+   ],
+   "refs": [
+    {
+     "id": "e8091c7826424ec2",
+     "title": "苹果或逐步淘汰非触控版高端MacBook Pro产品线",
+     "source": "cnBeta",
+     "url": "https://www.cnbeta.com.tw/articles/tech/1585026.htm",
+     "published_at": 1793803472.0
+    }
+   ]
+  },
+  {
+   "text": "【游戏】IT之家 11 月 4 日消息，微软今日公布 XBOX Game Pass 订阅服务 11 月第 1 波入库游戏阵容",
+   "keyword": "游戏",
+   "news_ids": [
+    "a6e685eea3524279"
+   ],
+   "refs": [
+    {
+     "id": "a6e685eea3524279",
+     "title": "微软 XGP 订阅 11 月第一波入库阵容公布：含《足球经理 27》等游戏",
+     "source": "IT之家",
+     "url": "https://www.ithome.com/1/022/248.htm",
+     "published_at": 1793780630.0
+    }
+   ]
+  },
+  {
+   "text": "刚刚，被李飞飞团队写进代码库的具身底座，现身乌镇峰会“上岗抓药”",
+   "keyword": "",
+   "news_ids": [
+    "c676f2295b84b2dc"
+   ],
+   "refs": [
+    {
+     "id": "c676f2295b84b2dc",
+     "title": "刚刚，被李飞飞团队写进代码库的具身底座，现身乌镇峰会“上岗抓药”",
+     "source": "InfoQ中文",
+     "url": "https://www.infoq.cn/article/L5Q1XJbFSubVNB9DGJsl?utm_source=rss&utm_medium=article",
+     "published_at": 1793807477.0
+    }
+   ]
+  },
+  {
+   "text": "同一个模型从 30 分到 95 分：拉开差距的不是模型，是Harness",
+   "keyword": "",
+   "news_ids": [
+    "79e2c2d1d2fea58c"
+   ],
+   "refs": [
+    {
+     "id": "79e2c2d1d2fea58c",
+     "title": "同一个模型从 30 分到 95 分：拉开差距的不是模型，是Harness",
+     "source": "InfoQ中文",
+     "url": "https://www.infoq.cn/article/C1C1DThg8z1Dy0rZAmLB?utm_source=rss&utm_medium=article",
+     "published_at": 1793806850.0
+    }
+   ]
+  },
+  {
+   "text": "Article URL: https://streamvessel",
+   "keyword": "",
+   "news_ids": [
+    "9f1c6fe3d675d705"
+   ],
+   "refs": [
+    {
+     "id": "9f1c6fe3d675d705",
+     "title": "Letting users trust their own MCP clients, without opening a phishing hole",
+     "source": "Hacker News",
+     "url": "https://streamvessel.com/blog/mcp-trusted-redirect-uris",
+     "published_at": 1793806257.0
+    }
+   ]
+  },
+  {
+   "text": "Linux内核也能造了？Codex 11天写出13.9万行新内核，Rocky Linux 10跑起来了",
+   "keyword": "",
+   "news_ids": [
+    "1a0f88248ef253a0"
+   ],
+   "refs": [
+    {
+     "id": "1a0f88248ef253a0",
+     "title": "Linux内核也能造了？Codex 11天写出13.9万行新内核，Rocky Linux 10跑起来了",
+     "source": "InfoQ中文",
+     "url": "https://www.infoq.cn/article/OiyNEtFwV05opvsLTcvK?utm_source=rss&utm_medium=article",
+     "published_at": 1793806250.0
+    }
+   ]
+  }
+ ],
+ "article": {
+  "title": "2026-11-04 新闻总结",
+  "paragraphs": [
+   {
+    "kind": "lead",
+    "text": "过去 24 小时共收录 400 条新闻，来自 7 家媒体。把标题放在一起看，讨论主要集中在 AI、开发、游戏 这几个方向上，其余消息更像是零散补充。"
+   },
+   {
+    "kind": "section",
+    "heading": "AI",
+    "text": "先看「AI」。苹果宣布进一步扩展Siri AI能力边界…，另有 176 条消息指向同一话题。这条消息短期内的实际影响可能有限，但它指向的方向值得放进观察名单。",
+    "news_ids": [
+     "8219b316ecdeae2c"
+    ],
+    "refs": [
+     {
+      "id": "8219b316ecdeae2c",
+      "title": "苹果向第三方应用全面开放Siri AI 开发者可打造跨应用智能代理",
+      "source": "cnBeta",
+      "url": "https://www.cnbeta.com.tw/articles/tech/1584928.htm",
+      "published_at": 1793743812.0
+     }
+    ]
+   },
+   {
+    "kind": "section",
+    "heading": "数据中心",
+    "text": "与此同时「数据中心」。IT之家 11 月 4 日消息，科技媒体 Wccftech 昨日（11 月 3 日）发布博文，报道称针对太空 AI 数据中心散热争议，另有 34 条消息指向同一话题。这类进展更像是把已有能力往工程化落地推了一步，真正的分水岭在于成本和可靠性能不能同时压下来。",
+    "news_ids": [
+     "45fb4786de882cca"
+    ],
+    "refs": [
+     {
+      "id": "45fb4786de882cca",
+      "title": "马斯克回应太空 AI 数据中心散热质疑：可轻松做到每平方米约 1300 瓦散热",
+      "source": "IT之家",
+      "url": "https://www.ithome.com/1/022/029.htm",
+      "published_at": 1793766487.0
+     }
+    ]
+   },
+   {
+    "kind": "section",
+    "heading": "市场",
+    "text": "另一个值得注意的方向是「市场」。Google母公司 Alphabet 最新公布的第三季度财报显示，在人工智能技术推动下，另有 34 条消息指向同一话题。技术路线的胜负很少由一次发布会决定，接下来要看的是它能不能被更多团队低成本复用。",
+    "news_ids": [
+     "7f2038d52cf1be39"
+    ],
+    "refs": [
+     {
+      "id": "7f2038d52cf1be39",
+      "title": "Google AI搜索用户数创新高 但盈利能力引发市场担忧",
+      "source": "cnBeta",
+      "url": "https://www.cnbeta.com.tw/articles/tech/1585020.htm",
+      "published_at": 1793796654.0
+     }
+    ]
+   },
+   {
+    "kind": "section",
+    "heading": "手机",
+    "text": "相比之下「手机」。IT之家 11 月 4 日消息，根据 Counterpoint Research 最新的市场监测服务，尽管 2026 年第三季度全球智能手机出货量同比大幅下降 19%，另有 9 条消息指向同一话题。价格和生态往往比硬件规格更能决定一款产品能不能留下来。",
+    "news_ids": [
+     "21690e942a304f9c"
+    ],
+    "refs": [
+     {
+      "id": "21690e942a304f9c",
+      "title": "Counterpoint：2026 年第三季度全球智能手机平均售价创单季度历史最高水平，苹果营收创同期新高",
+      "source": "IT之家",
+      "url": "https://www.ithome.com/1/022/263.htm",
+      "published_at": 1793782470.0
+     }
+    ]
+   },
+   {
+    "kind": "glossary",
+    "items": [
+     {
+      "term": "AI",
+      "desc": "人工智能，让机器完成识别、生成、判断等原本需要人做的任务"
+     },
+     {
+      "term": "GPU",
+      "desc": "图形处理器，因为擅长大规模并行计算，成了 AI 训练的主力硬件"
+     },
+     {
+      "term": "HBM",
+      "desc": "高带宽内存，把多层内存堆叠起来给 AI 芯片喂数据，缓解带宽瓶颈"
+     },
+     {
+      "term": "LLM",
+      "desc": "大语言模型，主打文字理解与生成，是「大模型」的同义词"
+     },
+     {
+      "term": "数据中心",
+      "desc": "集中放置服务器、供电与散热设施的大型机房"
+     },
+     {
+      "term": "激光雷达",
+      "desc": "用激光测量距离的传感器，是自动驾驶感知周围环境的重要部件"
+     }
+    ]
+   },
+   {
+    "kind": "outlook",
+    "text": "把这几条放在一起看，最值得跟踪的是 AI 和 开发 两条线：一条决定技术能走多远，一条决定它多快能落到普通人的日常里。至于其他消息，可以先放进观察名单，等后续有更实的进展再判断。"
+   }
+  ],
+  "word_count": 633
+ },
+ "ai_enhanced": false,
+ "schema": 1,
+ "window_bj": {
+  "start": "2026-11-04 00:00",
+  "end": "2026-11-05 00:00"
+ }
+}
