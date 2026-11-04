@@ -1,6 +1,6 @@
 {
  "date": "2026-11-03",
- "generated_at": 1793748059.501602,
+ "generated_at": 1793751265.6439064,
  "count": 400,
  "items": [
   {
@@ -335,6 +335,15 @@
    "summary": "IT之家 11 月 3 日消息，宏碁现已在海外市场 Aspire X 16 笔记本，新品采用英特尔 Panther Lake 平台，配备 120Hz 高刷 OLED 屏幕和 84Wh 电池。 IT之家了解到，这款笔记本搭载英特尔酷睿 Ultra X9 388H 处理器，以及 Arc B390 核显。提供 16GB 内存和 512GB SSD 配置。品牌方曾在此前表示，该机将有 32GB 内存和 2TB SSD 配置，并可选酷睿 Ultra 5 338H 和酷睿 Ultra X7 358H 处理器，不过这些 SKU 现在并没有上架。 同时，这款笔记本配备一块 16 英寸 OLED 面板，分辨率为",
    "published_at": 1793717560.0,
    "published_bj": "2026-11-03 22:52"
+  },
+  {
+   "id": "f5dae0d90d400c8c",
+   "source": "Hacker News",
+   "title": "There is no posttraining data commons",
+   "url": "https://openathena.ai/blog/there-is-no-posttraining-data-commons/",
+   "summary": "Article URL: https://openathena.ai/blog/there-is-no-posttraining-data-commons/ Comments URL: https://news.ycombinator.com/item?id=50352641 Points: 5 # Comments: 1",
+   "published_at": 1793717147.0,
+   "published_bj": "2026-11-03 22:45"
   },
   {
    "id": "dc73ecc745b33615",
@@ -3593,15 +3602,6 @@
    "summary": "11月3日，苹果公司(NASDAQ:AAPL)今天发布了截至9月26日的2026财年第四季度及全年财报。财报显示，苹果第四财季总营收为1144.77亿美元，较上年同期的1024.66亿美元增长12%；净利润为307.11亿美元，较上年同期的274.66亿美元增长12%。 阅读全文",
    "published_at": 1793659579.0,
    "published_bj": "2026-11-03 06:46"
-  },
-  {
-   "id": "5847b34588247af9",
-   "source": "cnBeta",
-   "title": "苹果CEO特努斯承认iPhone Duo缺货 不知何时才能解决",
-   "url": "https://www.cnbeta.com.tw/articles/tech/1584762.htm",
-   "summary": "据路透社报道，苹果CEO约翰·特努斯(John Ternus)周一在公布财报后接受采访时表示，苹果目前无法满足市场对iPhone Duo的需求，也没有何时能够追赶上需求的时间表。 阅读全文",
-   "published_at": 1793659553.0,
-   "published_bj": "2026-11-03 06:45"
   }
  ]
 }
