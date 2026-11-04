@@ -1,8 +1,17 @@
 {
  "date": "2026-11-05",
- "generated_at": 1793786005.1039577,
- "count": 2,
+ "generated_at": 1793790092.2326999,
+ "count": 3,
  "items": [
+  {
+   "id": "3ba5633fc7c3ec6b",
+   "source": "InfoQ中文",
+   "title": "Vercel Labs 开源 fx：一款专为嵌入式应用设计的 Zig 编程代理",
+   "url": "https://www.infoq.cn/article/cNO8PCwQoZMRHhIyVDrB?utm_source=rss&utm_medium=article",
+   "summary": "点击查看原文>",
+   "published_at": 1793815200.0,
+   "published_bj": "2026-11-05 02:00"
+  },
   {
    "id": "d7301e1fb7e97365",
    "source": "InfoQ中文",
