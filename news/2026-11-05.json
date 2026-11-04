@@ -1,7 +1,7 @@
 {
  "date": "2026-11-05",
- "generated_at": 1793816997.1232088,
- "count": 26,
+ "generated_at": 1793821131.6564715,
+ "count": 39,
  "items": [
   {
    "id": "35518c70f7be5eff",
@@ -40,6 +40,105 @@
    "published_bj": "2026-11-05 03:53"
   },
   {
+   "id": "ebb152ac451edea7",
+   "source": "cnBeta",
+   "title": "DuckDuckGo借Google AI争议进军校园市场",
+   "url": "https://www.cnbeta.com.tw/articles/tech/1585062.htm",
+   "summary": "在Google最新教育产品政策引发广泛争议后，主打隐私保护的搜索引擎DuckDuckGo迅速抓住机会，开始积极向美国各地学校推广自身服务，试图在长期由Google主导的教育市场争取更多份额。 阅读全文",
+   "published_at": 1793820955.0,
+   "published_bj": "2026-11-05 03:35"
+  },
+  {
+   "id": "15f7bbf1c47c2d72",
+   "source": "cnBeta",
+   "title": "自发电抗菌牙刷问世：利用压电效应产生电荷 实验中牙菌斑清除率超过99%",
+   "url": "https://www.cnbeta.com.tw/articles/tech/1585060.htm",
+   "summary": "传统电动牙刷主要依靠机械振动和刷毛摩擦清除牙齿表面的牙菌斑，而中国研究人员近日开发出一种全新的实验性牙刷，将压电材料直接编织进刷毛之中。使用者刷牙时，刷毛受到机械作用便会产生电荷，进而触发抗菌化学反应，生成能够破坏细菌的活性氧物质。整个过程无需额外电池供电，有望让普通牙刷同时具备机械清洁和主动杀菌能力。 阅读全文",
+   "published_at": 1793820862.0,
+   "published_bj": "2026-11-05 03:34"
+  },
+  {
+   "id": "6a4c4cf3626df958",
+   "source": "cnBeta",
+   "title": "ChatGPT升级图片能力 支持直接生成和编辑GIF动画",
+   "url": "https://www.cnbeta.com.tw/articles/tech/1585058.htm",
+   "summary": "OpenAI宣布为ChatGPT推出全新GIF动画生成功能，用户如今只需输入文字提示或上传一张图片，即可直接创建可播放的GIF动画。这项新能力将随着全新的Images 2.6图像模型一同向用户开放，进一步扩展了ChatGPT在图像创作领域的能力边界。 阅读全文",
+   "published_at": 1793820787.0,
+   "published_bj": "2026-11-05 03:33"
+  },
+  {
+   "id": "bfa83247985e1559",
+   "source": "cnBeta",
+   "title": "免费开源项目让Windows 11彻底摆脱GPU 仅利用处理器NPU渲染整个桌面",
+   "url": "https://www.cnbeta.com.tw/articles/tech/1585056.htm",
+   "summary": "随着人工智能处理器逐渐普及，越来越多的PC开始配备专门用于AI计算的神经网络处理单元（NPU）。不过，这类硬件目前主要用于本地AI模型推理和图像处理，日常Windows桌面仍然主要依赖集成显卡或独立显卡完成图形渲染。 阅读全文",
+   "published_at": 1793820668.0,
+   "published_bj": "2026-11-05 03:31"
+  },
+  {
+   "id": "c42261edeb298a25",
+   "source": "TechCrunch",
+   "title": "Open source AI is booming. Hugging Face explains who profits.",
+   "url": "https://techcrunch.com/video/open-source-ai-is-booming-hugging-face-explains-who-profits/",
+   "summary": "Open source models are becoming more mainstream as enterprises, governments and startups alike rely on the promise of lower costs, more control, and more flexibility. But as increasingly capable models become more freely available, how do companies capture value? And with Chinese open models gaining",
+   "published_at": 1793820604.0,
+   "published_bj": "2026-11-05 03:30"
+  },
+  {
+   "id": "85aefde48bb83502",
+   "source": "TechCrunch",
+   "title": "DuckDuckGo pitches itself to schools amid backlash over Google’s AI policy",
+   "url": "https://techcrunch.com/2026/11/04/duckduckgo-pitches-itself-to-schools-amid-backlash-over-googles-ai-policy/",
+   "summary": "DuckDuckGo is courting schools frustrated by Google's AI restrictions, pointing educators to its search engine and options to disable AI features.",
+   "published_at": 1793820592.0,
+   "published_bj": "2026-11-05 03:29"
+  },
+  {
+   "id": "b957fef7baf9a27d",
+   "source": "cnBeta",
+   "title": "苹果将在iOS 27.3中审查公开iCloud分享链接内容 违规账号或面临封禁",
+   "url": "https://www.cnbeta.com.tw/articles/tech/1585054.htm",
+   "summary": "苹果公司宣布，将从即将发布的iOS 27.3、iPadOS 27.3、macOS 27.3以及visionOS 27.3开始，对通过公开iCloud链接分享的内容进行安全审查。此举意味着部分原本由用户公开分享的照片和文件内容，将被苹果检测是否包含有害内容。 阅读全文",
+   "published_at": 1793820561.0,
+   "published_bj": "2026-11-05 03:29"
+  },
+  {
+   "id": "a4a1e5cec883ca77",
+   "source": "Hacker News",
+   "title": "Ripple-65B Preview: U.S. Open-Weight SOTA on Agentic Coding",
+   "url": "https://www.ricursive.com/ripple",
+   "summary": "Article URL: https://www.ricursive.com/ripple Comments URL: https://news.ycombinator.com/item?id=50369925 Points: 3 # Comments: 0",
+   "published_at": 1793818409.0,
+   "published_bj": "2026-11-05 02:53"
+  },
+  {
+   "id": "7a68ad9ac3223a46",
+   "source": "Hacker News",
+   "title": "Conductor Is Joining Meta",
+   "url": "https://www.conductor.build/changelog/0.93.0-conductor-is-joining-meta",
+   "summary": "Article URL: https://www.conductor.build/changelog/0.93.0-conductor-is-joining-meta Comments URL: https://news.ycombinator.com/item?id=50369840 Points: 26 # Comments: 31",
+   "published_at": 1793818053.0,
+   "published_bj": "2026-11-05 02:47"
+  },
+  {
+   "id": "ced6342de7c2b158",
+   "source": "Hacker News",
+   "title": "Have I Befriended a Murderer?",
+   "url": "https://longreads.com/2026/11/03/murder-friendship-doubt/",
+   "summary": "Article URL: https://longreads.com/2026/11/03/murder-friendship-doubt/ Comments URL: https://news.ycombinator.com/item?id=50369754 Points: 13 # Comments: 0",
+   "published_at": 1793817654.0,
+   "published_bj": "2026-11-05 02:40"
+  },
+  {
+   "id": "6ce9fdec3823b8ed",
+   "source": "Hacker News",
+   "title": "Education Shouldn't Be Held for Ransom",
+   "url": "https://blog.kagi.com/education-should-not-be-held-for-ransom",
+   "summary": "Article URL: https://blog.kagi.com/education-should-not-be-held-for-ransom Comments URL: https://news.ycombinator.com/item?id=50369657 Points: 41 # Comments: 2",
+   "published_at": 1793817226.0,
+   "published_bj": "2026-11-05 02:33"
+  },
+  {
    "id": "117854debe3965cb",
    "source": "cnBeta",
    "title": "2026年最抽象的数码产品，该不会是无人快递车吧？",
@@ -56,6 +155,15 @@
    "summary": "自动驾驶出租车公司Waymo确认将于2028年1月结束与Uber在美国奥斯汀和亚特兰大市场的独家合作关系。届时，Waymo将通过自己的手机应用程序直接向乘客提供服务，而不再完全依赖Uber平台进行运营。 阅读全文",
    "published_at": 1793816817.0,
    "published_bj": "2026-11-05 02:26"
+  },
+  {
+   "id": "b10efb625d2f7d24",
+   "source": "Hacker News",
+   "title": "Benchfmt.rs: Bringing Go's benchmarking and benchstat workflow to Rust",
+   "url": "https://www.bwplotka.dev/2026/rust-microbenchmarks-benchstat/",
+   "summary": "Article URL: https://www.bwplotka.dev/2026/rust-microbenchmarks-benchstat/ Comments URL: https://news.ycombinator.com/item?id=50369462 Points: 11 # Comments: 2",
+   "published_at": 1793816406.0,
+   "published_bj": "2026-11-05 02:20"
   },
   {
    "id": "ea49328b2d4a96d9",
@@ -101,6 +209,15 @@
    "summary": "Article URL: https://www.bloomberg.com/news/articles/2026-11-03/china-s-byd-doubles-market-share-in-brazil-with-new-plant-eyed Comments URL: https://news.ycombinator.com/item?id=50369146 Points: 12 # Comments: 4",
    "published_at": 1793814929.0,
    "published_bj": "2026-11-05 01:55"
+  },
+  {
+   "id": "feece30a2294da36",
+   "source": "Hacker News",
+   "title": "A New Go API for JSON",
+   "url": "https://go.dev/blog/jsonv2",
+   "summary": "Article URL: https://go.dev/blog/jsonv2 Comments URL: https://news.ycombinator.com/item?id=50369106 Points: 69 # Comments: 10",
+   "published_at": 1793814731.0,
+   "published_bj": "2026-11-05 01:52"
   },
   {
    "id": "5bc9f46e08b9753e",
