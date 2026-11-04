@@ -1,7 +1,7 @@
 {
  "date": "2026-11-04",
- "generated_at": 1793803073.998212,
- "count": 392,
+ "generated_at": 1793806312.96449,
+ "count": 400,
  "items": [
   {
    "id": "c676f2295b84b2dc",
@@ -40,6 +40,15 @@
    "published_bj": "2026-11-04 23:30"
   },
   {
+   "id": "8471b27646079ab4",
+   "source": "IT之家",
+   "title": "华硕正式带来 ROG XG Station 3 显卡坞：提供 GC-HPWR 接口，支持雷电 5",
+   "url": "https://www.ithome.com/1/022/469.htm",
+   "summary": "IT之家 11 月 4 日消息，华硕 (ASUS) 今日正式带来了 ROG XG Station 3。当前距这款雷电 5 显卡坞 首次面世 已过去了 1.5 年。 ROG XG Station 3 采用开放式结构 ，兼容最大 361 × 139.3 × 93.9 (mm) 的显卡，支持 SFX 或 SFX-L 外形规格、750W 或以上功率、80 PLUS 金牌或以上转换效率的电源。 其 提供 GC-HPWR 供电金手指 ，兼容 BTF 显卡； 集成 Aura Sync RGB 灯区 ；上行雷电 5 接口支持 140W USB PD 输出；下行侧提供 1 个雷电 5（支持 36W USB PD",
+   "published_at": 1793805639.0,
+   "published_bj": "2026-11-04 23:20"
+  },
+  {
    "id": "0f8183eeaa84a9f2",
    "source": "InfoQ中文",
    "title": "员工都会用一点 AI，团队下一步怎么走？",
@@ -58,6 +67,141 @@
    "published_bj": "2026-11-04 23:15"
   },
   {
+   "id": "faec0ea9a1db9d7c",
+   "source": "IT之家",
+   "title": "连续 2 小时 40 分钟纯代码生成 66 秒动画，Anthropic 新旗舰 Fable 5.5 实测曝光",
+   "url": "https://www.ithome.com/1/022/468.htm",
+   "summary": "北京时间 11 月 4 日消息，Anthropic 尚未正式发布的下一代旗舰模型 Claude Fable 5.5 近日在海外开发者社区引发关注。多名开发者在社交平台 X 上分享了据称来自该模型的早期测试结果。其中，一段完全通过编程生成的 66 秒动画短片尤为引人注目。测试者称，模型在没有调用图像或视频生成工具的情况下，连续自主编写和运行代码约 2 小时 40 分钟，完成了动画画面、配乐及音效制作。 11 月 2 日，X 平台 AI 开发者 Chetaslua 发布了一段动画短片，并声称其由 Fable 5.5 独立完成。按照他的介绍，短片长度为 66 秒，分辨率 1920×804，帧率 24",
+   "published_at": 1793805243.0,
+   "published_bj": "2026-11-04 23:14"
+  },
+  {
+   "id": "0986e2594d2f34f7",
+   "source": "cnBeta",
+   "title": "Meta高管称：“人口崩塌”之下 AI提升生产力至关重要",
+   "url": "https://www.cnbeta.com.tw/articles/tech/1585042.htm",
+   "summary": "Meta一名高层高管表示，即将到来的“人口崩塌”意味着社会迫切需要依靠AI来提升生产力。科技行业领袖正努力说服心存疑虑的公众：这项强大的技术会给人们的生活带来益处。Meta首席数据官亚历克斯・舒尔茨周三在英国媒体 人工智能未来峰会上称，出生率持续走低，意味着50年后全球人口将会大幅减少。 阅读全文",
+   "published_at": 1793805157.0,
+   "published_bj": "2026-11-04 23:12"
+  },
+  {
+   "id": "8d3e2be5eb817d71",
+   "source": "cnBeta",
+   "title": "欧洲最新冰箱网络攻击事件 血库成为袭击目标",
+   "url": "https://www.cnbeta.com.tw/articles/tech/1585040.htm",
+   "summary": "法国血液机构（EFS）于周三证实，周一法国多家血库遭遇近期席卷欧洲制冷系统的网络安全攻击。该机构称，虽然自身并非本次攻击的直接目标，但三家站点内由第三方服务商运营、存放本机构血液制品的冷藏存储设备遭到入侵，黑客蓄意调高设备温度。 阅读全文",
+   "published_at": 1793805137.0,
+   "published_bj": "2026-11-04 23:12"
+  },
+  {
+   "id": "283b549c3e4e645f",
+   "source": "cnBeta",
+   "title": "美国中期选举已让马斯克损失超过600亿美元 而且损失仍在扩大",
+   "url": "https://www.cnbeta.com.tw/articles/tech/1585038.htm",
+   "summary": "早在10月初就有报道称，埃隆·马斯克已成为共和党最大的政治捐款人，在美国各地的选举中投入超过2.75亿美元。不过，由于美国政治捐款披露制度涉及多个层级，不同机构的估算数字存在差异。 阅读全文",
+   "published_at": 1793805124.0,
+   "published_bj": "2026-11-04 23:12"
+  },
+  {
+   "id": "78320ab38d884fa4",
+   "source": "cnBeta",
+   "title": "柯林斯词典正式收录“friendslop” 词义褒贬引发玩家争论",
+   "url": "https://www.cnbeta.com.tw/articles/tech/1585036.htm",
+   "summary": "“朋友乐色”（friendslop）这个词一直很有争议。玩家们争论的焦点是，这到底是一种亲昵的叫法，还是在冒犯这些游戏。不管你喜不喜欢，这个词现在应该不会消失了。柯林斯词典已经把它列入2026年度最佳词汇名单，并正式收录进词典。 阅读全文",
+   "published_at": 1793805111.0,
+   "published_bj": "2026-11-04 23:11"
+  },
+  {
+   "id": "ae3a9cd3c770c91d",
+   "source": "cnBeta",
+   "title": "AMD Radeon显卡在美国亚马逊销量历史首次超过英伟达",
+   "url": "https://www.cnbeta.com.tw/articles/tech/1585034.htm",
+   "summary": "可以说，AMD目前的桌面游戏GPU市场表现相当不错。尽管目前还没有旗舰级的RDNA 4 GPU，而且AMD的一些定价策略也颇具争议。AMD的业绩如此出色，以至于其在亚马逊上的Radeon GPU销量首次超过了GeForce显卡。 阅读全文",
+   "published_at": 1793804965.0,
+   "published_bj": "2026-11-04 23:09"
+  },
+  {
+   "id": "8f834a36a22ede0d",
+   "source": "Hacker News",
+   "title": "Debian apt security update (man-in-the-middle)",
+   "url": "https://lists.debian.org/debian-security-announce/2026/msg00526.html?pow_referer=",
+   "summary": "Article URL: https://lists.debian.org/debian-security-announce/2026/msg00526.html?pow_referer= Comments URL: https://news.ycombinator.com/item?id=50366575 Points: 25 # Comments: 2",
+   "published_at": 1793804654.0,
+   "published_bj": "2026-11-04 23:04"
+  },
+  {
+   "id": "95082c6657ae6172",
+   "source": "IT之家",
+   "title": "法国血液中心确认受 11 月 2 日黑客升温攻击波及，幸无实际影响",
+   "url": "https://www.ithome.com/1/022/461.htm",
+   "summary": "IT之家 11 月 4 日消息，法国公共血液服务机构法国血液中心 (EFS) 当地时间本月 3 日发布声明确认， 其三个场地的冷库监控与控制系统由于供应商的关系成为本月 2 日黑客“升温攻击”的间接目标 。这些冷库中保存着待交付给医疗机构的制品以及供内部生物样本库使用的样本。 幸运的是，该机构的监控和报警系统迅速识别出了这些异常情况并采取了必要措施， 没有任何样本或血液制品受到影响 。涉事设备已被及时控制或停用，原本存放在这三个冷库的物资已被转移到其它设施。 相关阅读： 《 欧洲多国超市遭黑客攻击，冷冻设备瘫痪致大量食品报废 》(2026/11/3) 《 “史无前例”：欧洲多家连锁超市遭攻击，",
+   "published_at": 1793804524.0,
+   "published_bj": "2026-11-04 23:02"
+  },
+  {
+   "id": "33866899ac7190fa",
+   "source": "Hacker News",
+   "title": "Guerrilla Bike Lanes: San Francisco Makes Illicit Infrastructure Permanent",
+   "url": "https://99percentinvisible.org/article/guerrilla-bike-lanes-san-francisco-makes-illicit-infrastructure-permanent/",
+   "summary": "Article URL: https://99percentinvisible.org/article/guerrilla-bike-lanes-san-francisco-makes-illicit-infrastructure-permanent/ Comments URL: https://news.ycombinator.com/item?id=50366522 Points: 6 # Comments: 0",
+   "published_at": 1793804504.0,
+   "published_bj": "2026-11-04 23:01"
+  },
+  {
+   "id": "da329234a12782c1",
+   "source": "TechCrunch",
+   "title": "Titan OS raises $46 million to expand its smart TV OS internationally",
+   "url": "https://techcrunch.com/2026/11/04/titan-os-raises-46-million-to-expand-its-smart-tv-os-internationally/",
+   "summary": "Titan OS has raised $110 million in funding to date",
+   "published_at": 1793804400.0,
+   "published_bj": "2026-11-04 23:00"
+  },
+  {
+   "id": "b07839fd081b90f9",
+   "source": "cnBeta",
+   "title": "苹果重申不会合并macOS与iPadOS 两大平台将继续独立发展",
+   "url": "https://www.cnbeta.com.tw/articles/tech/1585032.htm",
+   "summary": "尽管 Mac 与 iPad 在过去几年中变得越来越相似，但苹果表示并不打算将 macOS 和 iPadOS 合并为单一操作系统。随着首款触控版 MacBook Pro 的推出，外界关于苹果是否最终打造统一平台的猜测再度升温，而苹果高层给出的答案依然是否定的。 阅读全文",
+   "published_at": 1793804328.0,
+   "published_bj": "2026-11-04 22:58"
+  },
+  {
+   "id": "2e1b80e48a9a8848",
+   "source": "IT之家",
+   "title": "真 · 互通：国行 Apple 智能创作内容、问询结果会同步至千问 App",
+   "url": "https://www.ithome.com/1/022/459.htm",
+   "summary": "IT之家 11 月 4 日消息，苹果今日凌晨面向 iPhone 推送了 iOS 27.3 系统首个开发者预览版，为国行用户带来了「Apple 智能与 Siri」。 国行 Apple 智能与阿里巴巴达成合作，在部分体验中接入千问。国内用户可直接在 Siri、写作工具和视觉智能中调用千问，覆盖文本与图像理解相关能力。 IT之家实测发现， 国行 Apple 智能问询结果也会同步至千问 App ，后者可提供语音播报、分享、复制、收藏、重新生成等功能。 不仅是视觉智能， 用千问完成的文字创作内容，也会同步至千问 App 。 关于 Apple 智能国行版本更多内容， 小伙伴们可移步至IT之家最新实测，了解",
+   "published_at": 1793803795.0,
+   "published_bj": "2026-11-04 22:49"
+  },
+  {
+   "id": "449a433082ce3485",
+   "source": "cnBeta",
+   "title": "马斯克加速进军移动通信市场 SpaceX联手高通打造美国全国性5G网络",
+   "url": "https://www.cnbeta.com.tw/articles/tech/1585030.htm",
+   "summary": "埃隆·马斯克旗下SpaceX正在加速进军美国移动通信市场。11月4日，高通正式宣布与SpaceX达成多年期合作协议，将为Starlink Mobile提供5G蜂窝网络基础设施技术，帮助其在美国建设覆盖全国的地面移动通信网络。这意味着SpaceX不再满足于通过卫星为手机提供有限的直连服务，而是准备建立一套能够与Verizon、AT&amp;T和T-Mobile直接竞争的完整移动网络。 阅读全文",
+   "published_at": 1793803707.0,
+   "published_bj": "2026-11-04 22:48"
+  },
+  {
+   "id": "37a872a3db2cc107",
+   "source": "cnBeta",
+   "title": "Google地图完成适配iPhone Duo双屏设计 内外屏空间利用率提升",
+   "url": "https://www.cnbeta.com.tw/articles/tech/1585028.htm",
+   "summary": "随着苹果全新折叠屏手机 iPhone Duo 进入市场，越来越多开发者开始针对其双屏形态进行优化。最新加入适配行列的是Google地图。Google日前推送了新版 Google Maps 更新，使应用能够充分利用 iPhone Duo 的内外两块显示屏，为用户带来更完整的地图浏览体验。 阅读全文",
+   "published_at": 1793803590.0,
+   "published_bj": "2026-11-04 22:46"
+  },
+  {
+   "id": "e8091c7826424ec2",
+   "source": "cnBeta",
+   "title": "苹果或逐步淘汰非触控版高端MacBook Pro产品线",
+   "url": "https://www.cnbeta.com.tw/articles/tech/1585026.htm",
+   "summary": "据彭博社记者马克·古尔曼最新披露的信息，苹果未来很可能围绕触控屏机型重组其高端MacBook Pro产品线，当前同时销售的非触控版高端机型最终可能退出市场。 阅读全文",
+   "published_at": 1793803472.0,
+   "published_bj": "2026-11-04 22:44"
+  },
+  {
    "id": "31abf0071bc78228",
    "source": "IT之家",
    "title": "华为 MatePad Mini 小平板获 HarmonyOS 7.0.0.111 SP16 升级，互助通信共享功能下放",
@@ -67,6 +211,15 @@
    "published_bj": "2026-11-04 22:28"
   },
   {
+   "id": "be5417ffde09e730",
+   "source": "Hacker News",
+   "title": "US voters roundly reject data centers in ballot measures",
+   "url": "https://www.semafor.com/article/11/04/2026/us-voters-roundly-reject-data-centers-in-ballot-measures",
+   "summary": "Article URL: https://www.semafor.com/article/11/04/2026/us-voters-roundly-reject-data-centers-in-ballot-measures Comments URL: https://news.ycombinator.com/item?id=50365982 Points: 148 # Comments: 200",
+   "published_at": 1793802422.0,
+   "published_bj": "2026-11-04 22:27"
+  },
+  {
    "id": "e34c589e9babcaf9",
    "source": "IT之家",
    "title": "陶哲轩警告：人类把思考交给 AI，危险可能很快到来",
@@ -74,6 +227,15 @@
    "summary": "北京时间 11 月 4 日，菲尔兹奖得主、著名数学家陶哲轩（Terence Tao）近日对人类日益依赖人工智能发出警告。他担心，随着人们逐渐将思考和解决问题的过程交给 AI，人类正在失去对问题本身及其解决方案的理解，而这一趋势可能很快在现实世界中产生严重后果。 这番言论来自陶哲轩 10 月 16 日在加州大学洛杉矶分校举办的 Science x AI Summit 上的演讲。科学与人工智能研究基金会（SAIR）近日在 YouTube 发布了题为《Math 2.0》的完整演讲视频，相关片段随后在海外社交平台 X 上引发关注。 “我们正在把自己的思考委托给 AI，由它们替我们解决问题。但与此同时，",
    "published_at": 1793802030.0,
    "published_bj": "2026-11-04 22:20"
+  },
+  {
+   "id": "51345d1bdf1ebe04",
+   "source": "IT之家",
+   "title": "英伟达发布 Game Ready 621.14 驱动：优化《魔兽世界：永恒》，修复视频黑屏问题",
+   "url": "https://www.ithome.com/1/022/438.htm",
+   "summary": "IT之家 11 月 4 日消息，NVIDIA（英伟达）发布 GeForce &amp; RTX Spark Game Ready 621.14 显卡驱动，面向《魔兽世界：永恒》、《毁灭战士：黑暗时代》新内容及新增 DLSS 5 支持的游戏提供优化，并修复此前版本引入的视频播放异常问题。 IT之家附官方公告链接（ https://www.nvidia.com/en-us/geforce/news/world-of-warcraft-forever-geforce-rtx-spark-game-ready-driver ）。 新游戏支持与性能优化 为 《魔兽世界：永恒》 提供 Game Ready",
+   "published_at": 1793801919.0,
+   "published_bj": "2026-11-04 22:18"
   },
   {
    "id": "43a931af78465dcf",
@@ -3440,96 +3602,6 @@
    "summary": "Google 宣布美国 K-12 学校学生使用的软件将默认关闭所有 AI 功能，除非学校管理人员自己选择启用。此举旨在回应教育工作者和家长的诉求，他们希望在孩子与 AI 互动上有更多的掌控权。今天 AI 功能已成为 Google 商用搜索引擎的标配，Google 负责教育的副总裁 Chris Phillips 表示，搜索与 AI 已深度融合，如果学校禁用了 AI，那么学生将无法使用搜索。美国 K-12 学校广泛使用 Google 的软件，包括 Gmail、Docs 以及作业平台 Classroom。Google 的 Chromebook 是美国学校最广泛使用的笔记本电脑。",
    "published_at": 1793723622.0,
    "published_bj": "2026-11-04 00:33"
-  },
-  {
-   "id": "4c027408be31c0c8",
-   "source": "TechCrunch",
-   "title": "Google will let schools disable its AI tools, but not without sacrificing Search",
-   "url": "https://techcrunch.com/2026/11/03/google-will-let-schools-disable-its-ai-tools-but-not-without-sacrificing-search/",
-   "summary": "Schools choosing to restrict AI altogether will no longer be able to access Google Search, as AI features are now integrated into the search engine.",
-   "published_at": 1793723434.0,
-   "published_bj": "2026-11-04 00:30"
-  },
-  {
-   "id": "4004470f3c01fb20",
-   "source": "Solidot",
-   "title": "Fedora Linux 45 释出",
-   "url": "https://www.solidot.org/story?sid=85786",
-   "summary": "Fedora Linux 项目释出了 v45。Fedora Linux 项目同时释出了 Fedora Workstation、Fedora KDE Plasma Desktop、Fedora Server、Fedora Cloud、Fedora CoreOS 和 Fedora IoT，以及 Atomic Desktops 等众多衍生版本。Fedora Linux 45 的主要变化包括：支持通过 Anaconda 或 Kickstart 在 Stratis 存储上进行安装，移除 NetworkManager 不再维护的 VPN 插件，GNOME 和 KDE ​​Plasma 桌面环境的最新版本，",
-   "published_at": 1793722953.0,
-   "published_bj": "2026-11-04 00:22"
-  },
-  {
-   "id": "5990adf73892678a",
-   "source": "Hacker News",
-   "title": "Google Will Turn Off Search for Schools That Reject A.I",
-   "url": "https://www.nytimes.com/2026/11/03/us/google-search-schools-restrict-ai.html",
-   "summary": "Article URL: https://www.nytimes.com/2026/11/03/us/google-search-schools-restrict-ai.html Comments URL: https://news.ycombinator.com/item?id=50353905 Points: 23 # Comments: 8",
-   "published_at": 1793722553.0,
-   "published_bj": "2026-11-04 00:15"
-  },
-  {
-   "id": "3437f1db9c2df62a",
-   "source": "Hacker News",
-   "title": "Notice How Old websites look better than new websites",
-   "url": "https://yingster.net/",
-   "summary": "Article URL: https://yingster.net/ Comments URL: https://news.ycombinator.com/item?id=50353877 Points: 9 # Comments: 0",
-   "published_at": 1793722485.0,
-   "published_bj": "2026-11-04 00:14"
-  },
-  {
-   "id": "f609e89f448804af",
-   "source": "InfoQ中文",
-   "title": "前迪士尼 AI 高管出任 CPO，Utopai Studios 技术布局再提速",
-   "url": "https://www.infoq.cn/article/z1ZeGD2FDqi6xLvSJjSl?utm_source=rss&utm_medium=article",
-   "summary": "点击查看原文>",
-   "published_at": 1793722289.0,
-   "published_bj": "2026-11-04 00:11"
-  },
-  {
-   "id": "2514c5f1ae87eb6e",
-   "source": "IT之家",
-   "title": "英伟达称 AI 重塑芯片工厂：仿真提速最高 35 倍，工程师决策从数天缩至数分钟",
-   "url": "https://www.ithome.com/1/021/857.htm",
-   "summary": "IT之家 11 月 4 日消息，英伟达于 11 月 3 日发布文章称，人工智能正在推动半导体晶圆厂进入“AI 定义工厂”阶段：通过加速仿真、学习型物理模型、AI 智能体和数字孪生， 正在显著提速芯片制造中的设计、测试与生产决策。 加速仿真（accelerated simulation） 指利用 GPU、并行计算、AI 智能体模型等技术， 把传统依赖 CPU 的工程仿真从数小时、数天压缩到数分钟甚至毫秒级的过程。 在半导体制造中，它让工程师能更快测试工艺方案、预测缺陷风险，而不必先做昂贵且耗时的真实产线实验。 IT之家援引博文介绍，随着先进芯片需求上升，制造工艺愈发复杂，良率和工艺质量的容错空间",
-   "published_at": 1793722000.0,
-   "published_bj": "2026-11-04 00:06"
-  },
-  {
-   "id": "b94c194d597546eb",
-   "source": "cnBeta",
-   "title": "OpenAI披露ChatGPT最新增长数据：每周活跃用户达12亿",
-   "url": "https://www.cnbeta.com.tw/articles/tech/1584900.htm",
-   "summary": "OpenAI消费者产品负责人Adam Fry近日在接受科技媒体Big Technology采访时披露了ChatGPT的一系列最新运营数据。根据他的介绍，ChatGPT每周活跃用户已经达到12亿，过去两个月新增了约2亿用户；其搜索类查询量目前约为Google的五分之一。此外，ChatGPT每周生成的图片达到15亿张，语音输入和语音对话的合计周活跃用户也已经达到2.5亿。 阅读全文",
-   "published_at": 1793721954.0,
-   "published_bj": "2026-11-04 00:05"
-  },
-  {
-   "id": "ac8c55995c258d16",
-   "source": "IT之家",
-   "title": "荣威家越 X7 HEV 新车申报：1.5T 油电混动大五座中型 SUV",
-   "url": "https://www.ithome.com/1/021/856.htm",
-   "summary": "IT之家 11 月 4 日消息，工信部发布第 413 批《道路机动车辆生产企业及产品公告》新产品公示， 荣威家越 X7 完成申报 。 IT之家注意到，此次申报的荣威家越 X7 为混合动力运动型乘用车，属于上汽荣威旗下全新家用 SUV 产品，定位大五座中型 SUV，主打家庭日常出行场景。 车身尺寸方面，新车长宽高分别为 4900/1924/1759（1765）mm，轴距达到 2863mm，前轮距 1647mm、后轮距 1661mm，接近角 / 离去角为 19°/23°（19°/24°），整备质量为 1820kg、1860kg 两个版本，总质量为 2273kg、2313kg，额定载客 5 人，轮胎",
-   "published_at": 1793721899.0,
-   "published_bj": "2026-11-04 00:04"
-  },
-  {
-   "id": "ba7165013f6ce022",
-   "source": "TechCrunch",
-   "title": "New York City’s Mamdani criticizes Madison Square Garden owner over surveillance tech",
-   "url": "https://techcrunch.com/2026/11/03/new-york-citys-mamdani-criticizes-madison-square-garden-owner-over-surveillance-tech/",
-   "summary": "The mayor's comments come after the entertainment giant's data breach last year, which exposed James Dolan's surveillance.",
-   "published_at": 1793721895.0,
-   "published_bj": "2026-11-04 00:04"
-  },
-  {
-   "id": "c360a38a3c4983dd",
-   "source": "cnBeta",
-   "title": "传闻称iPhone 18将迎来电池容量升级 苹果续航策略或出现重要调整",
-   "url": "https://www.cnbeta.com.tw/articles/tech/1584898.htm",
-   "summary": "据最新供应链消息，苹果计划在下一代iPhone 18系列中提升电池容量，这意味着未来机型有望在续航表现方面实现进一步增强。虽然苹果近年来持续通过芯片能效提升来延长设备使用时间，但最新传闻显示，公司可能准备重新将重点放在更大容量电池上。 阅读全文",
-   "published_at": 1793721788.0,
-   "published_bj": "2026-11-04 00:03"
   }
  ]
 }
