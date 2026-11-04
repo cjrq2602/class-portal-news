@@ -1,6 +1,6 @@
 {
  "date": "2026-11-04",
- "generated_at": 1793813419.048684,
+ "generated_at": 1793816997.126403,
  "count": 400,
  "items": [
   {
@@ -362,6 +362,15 @@
    "summary": "IT之家 11 月 4 日消息，NVIDIA（英伟达）发布 GeForce &amp; RTX Spark Game Ready 621.14 显卡驱动，面向《魔兽世界：永恒》、《毁灭战士：黑暗时代》新内容及新增 DLSS 5 支持的游戏提供优化，并修复此前版本引入的视频播放异常问题。 IT之家附官方公告链接（ https://www.nvidia.com/en-us/geforce/news/world-of-warcraft-forever-geforce-rtx-spark-game-ready-driver ）。 新游戏支持与性能优化 为 《魔兽世界：永恒》 提供 Game Ready",
    "published_at": 1793801919.0,
    "published_bj": "2026-11-04 22:18"
+  },
+  {
+   "id": "ab1b8276d9c8f46a",
+   "source": "Hacker News",
+   "title": "Tencent Hy4",
+   "url": "https://hy.tencent.ai/research/hy4",
+   "summary": "Article URL: https://hy.tencent.ai/research/hy4 Comments URL: https://news.ycombinator.com/item?id=50365780 Points: 46 # Comments: 6",
+   "published_at": 1793801486.0,
+   "published_bj": "2026-11-04 22:11"
   },
   {
    "id": "43a931af78465dcf",
@@ -3593,15 +3602,6 @@
    "summary": "微软近日发布最新Windows 11更新，重点针对8GB内存设备进行优化。公司表示，通过改进内存管理机制和系统资源调度方式，搭载8GB内存的电脑如今最高可实现20%的响应速度提升，而在多任务场景测试中，性能提升幅度最高可达到40%。 阅读全文",
    "published_at": 1793728084.0,
    "published_bj": "2026-11-04 01:48"
-  },
-  {
-   "id": "7d855259bb70526c",
-   "source": "Hacker News",
-   "title": "How to write comparison content that doesn't age like milk",
-   "url": "https://posthog.com/blog/comparison-content-guide",
-   "summary": "Article URL: https://posthog.com/blog/comparison-content-guide Comments URL: https://news.ycombinator.com/item?id=50355365 Points: 3 # Comments: 0",
-   "published_at": 1793728018.0,
-   "published_bj": "2026-11-04 01:46"
   }
  ]
 }

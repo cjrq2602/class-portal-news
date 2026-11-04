@@ -1,7 +1,7 @@
 {
  "date": "2026-11-05",
- "generated_at": 1793813419.0466785,
- "count": 16,
+ "generated_at": 1793816997.1232088,
+ "count": 26,
  "items": [
   {
    "id": "35518c70f7be5eff",
@@ -40,6 +40,42 @@
    "published_bj": "2026-11-05 03:53"
   },
   {
+   "id": "117854debe3965cb",
+   "source": "cnBeta",
+   "title": "2026年最抽象的数码产品，该不会是无人快递车吧？",
+   "url": "https://www.cnbeta.com.tw/articles/tech/1585052.htm",
+   "summary": "以前收不到快递，大概率怀疑丢件。现在收不到快递，可能是被狗扣了。对，我说的是字面意义上的狗。 请看案发现场： 阅读全文",
+   "published_at": 1793816894.0,
+   "published_bj": "2026-11-05 02:28"
+  },
+  {
+   "id": "e62dff29cc78f5b8",
+   "source": "cnBeta",
+   "title": "Waymo确认2028年结束与Uber独家合作 自动驾驶出租车业务将转向自有平台",
+   "url": "https://www.cnbeta.com.tw/articles/tech/1585050.htm",
+   "summary": "自动驾驶出租车公司Waymo确认将于2028年1月结束与Uber在美国奥斯汀和亚特兰大市场的独家合作关系。届时，Waymo将通过自己的手机应用程序直接向乘客提供服务，而不再完全依赖Uber平台进行运营。 阅读全文",
+   "published_at": 1793816817.0,
+   "published_bj": "2026-11-05 02:26"
+  },
+  {
+   "id": "ea49328b2d4a96d9",
+   "source": "TechCrunch",
+   "title": "Waymo confirms it will split with Uber in January 2028",
+   "url": "https://techcrunch.com/2026/11/04/waymo-confirms-it-will-split-with-uber-in-january-2028/",
+   "summary": "The split will set up direct competition in those markets, as Uber has many other autonomous vehicle partners on its network.",
+   "published_at": 1793815950.0,
+   "published_bj": "2026-11-05 02:12"
+  },
+  {
+   "id": "497053ec845c8511",
+   "source": "TechCrunch",
+   "title": "‘You Can See Everything’ is getting an outer space release and it hasn’t even come out in Europe yet",
+   "url": "https://techcrunch.com/2026/11/04/you-can-see-everything-is-getting-an-outer-space-release-and-it-hasnt-even-come-out-in-europe-yet/",
+   "summary": "It is easier to watch the Elizabeth Holmes documentary \"You Can See Everything\" in low-Earth orbit than in London.",
+   "published_at": 1793815811.0,
+   "published_bj": "2026-11-05 02:10"
+  },
+  {
    "id": "3ba5633fc7c3ec6b",
    "source": "InfoQ中文",
    "title": "Vercel Labs 开源 fx：一款专为嵌入式应用设计的 Zig 编程代理",
@@ -47,6 +83,51 @@
    "summary": "点击查看原文>",
    "published_at": 1793815200.0,
    "published_bj": "2026-11-05 02:00"
+  },
+  {
+   "id": "b912f0a06b5dfd05",
+   "source": "Hacker News",
+   "title": "This Month in Ladybird – October 2026",
+   "url": "https://ladybird.org/newsletter/2026-10-31/",
+   "summary": "Article URL: https://ladybird.org/newsletter/2026-10-31/ Comments URL: https://news.ycombinator.com/item?id=50369194 Points: 12 # Comments: 2",
+   "published_at": 1793815175.0,
+   "published_bj": "2026-11-05 01:59"
+  },
+  {
+   "id": "b282b731ff6451ae",
+   "source": "Hacker News",
+   "title": "BYD doubles its Brazil market share to 9.7% a year after opening its local plant",
+   "url": "https://www.bloomberg.com/news/articles/2026-11-03/china-s-byd-doubles-market-share-in-brazil-with-new-plant-eyed",
+   "summary": "Article URL: https://www.bloomberg.com/news/articles/2026-11-03/china-s-byd-doubles-market-share-in-brazil-with-new-plant-eyed Comments URL: https://news.ycombinator.com/item?id=50369146 Points: 12 # Comments: 4",
+   "published_at": 1793814929.0,
+   "published_bj": "2026-11-05 01:55"
+  },
+  {
+   "id": "5bc9f46e08b9753e",
+   "source": "cnBeta",
+   "title": "苹果预计2027年MacBook Neo出货量翻倍 第二代机型订单目标达到1600万台",
+   "url": "https://www.cnbeta.com.tw/articles/tech/1585048.htm",
+   "summary": "苹果平价笔记本电脑MacBook Neo上市后取得了超出预期的市场表现，如今苹果似乎准备进一步扩大这一产品线的规模。根据供应链消息，苹果已经向零部件供应商提供了第二代MacBook Neo的出货预测，预计2027年全年出货量将达到1600万台，约为2026年首代产品预计出货量的两倍。 阅读全文",
+   "published_at": 1793814165.0,
+   "published_bj": "2026-11-05 01:42"
+  },
+  {
+   "id": "60cfdd5886416106",
+   "source": "Hacker News",
+   "title": "Launch HN: Kino AI (YC S23) – AI media manager and video editor",
+   "url": "https://news.ycombinator.com/item?id=50368804",
+   "summary": "Hi HN! I'm Luke from Kino ( https://kino.ai ). Kino lets you make great videos with your agents and your teammates. Storage of footage and assets, a rich video editor, and review links for teammates are all bundled into one. Your colleagues and Codex / Claude Code can work on the same timeline with ",
+   "published_at": 1793813513.0,
+   "published_bj": "2026-11-05 01:31"
+  },
+  {
+   "id": "01a74570120b4924",
+   "source": "Solidot",
+   "title": "AMD 营收预计将首次超过英特尔",
+   "url": "https://www.solidot.org/story?sid=85799",
+   "summary": "AMD 周二公布了 2026 财年第三季度财报，营收同比增长 45% 达到 134 亿美元。其中数据中心业务贡献了 85 亿美元营收同比增长 97%。客户端与游戏业务部门的营收下滑了 8% 降至 37 亿美元。作为 AMD 在 x86 市场的主要竞争对手，英特尔下一季度营收预计为 150-160 亿美元，其增长几乎停滞。相比下 AMD 预计下一季度营收将达到约 170 亿美元。如果达到这一目标，这将标志着 AMD 营收首次超过英特尔。",
+   "published_at": 1793812806.0,
+   "published_bj": "2026-11-05 01:20"
   },
   {
    "id": "31c3fbe8bf129ff2",
@@ -65,6 +146,15 @@
    "summary": "Sequoia is consolidating into a smaller, Bay Area–centered firm, shutting down the programs and offices it built during a 20-year expansion while announcing roughly $10 billion in new funds.",
    "published_at": 1793812275.0,
    "published_bj": "2026-11-05 01:11"
+  },
+  {
+   "id": "6ad0f7be9d512fc1",
+   "source": "Solidot",
+   "title": "韩国游戏 PC 启动器被植入恶意代码",
+   "url": "https://www.solidot.org/story?sid=85798",
+   "summary": "韩国游戏《胜利女神：新的希望（NIKKE）》的 PC 启动器被植入恶意代码。恶意代码是通过纂改 Level Infinite CDN 分发的四个官方 JavaScript 文件实现的，篡改发生于 2026 年 9 月 27 日前后，攻击则始于 2026 年 10 月 23 日到 11 月 3 日，在此期间打开 PC 启动器的用户可能会被植入木马。恶意程序会窃取浏览器保存的密码、Windows 凭据管理器信息、SSH 密钥以及云服务或 AI 服务的访问令牌，还能窃取 28 种基于浏览器的加密货币钱包数据、执行任意命令、读取文件以及屏幕截图。攻击期间打开过启动器的玩家可以打开游戏文件夹，搜寻 de",
+   "published_at": 1793811910.0,
+   "published_bj": "2026-11-05 01:05"
   },
   {
    "id": "197e470cb60899b0",
