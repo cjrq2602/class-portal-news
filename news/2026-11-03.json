@@ -1,6 +1,6 @@
 {
  "date": "2026-11-03",
- "generated_at": 1793759137.4660363,
+ "generated_at": 1793762837.1475618,
  "count": 400,
  "items": [
   {
@@ -812,6 +812,15 @@
    "summary": "IT之家 11 月 3 日消息，FromSoftware 宣布经典游戏《黑暗之魂 2》和《黑暗之魂 3》的在线服务器因出现“安全问题”，目前正在进行维护，暂时无法确定具体恢复时间。 IT之家获悉，此次服务器中断始于 10 月 30 日下午，涉及《黑暗之魂 2》和《黑暗之魂 3》所有平台版本。FromSoftware 表示，此次维护是由于“游戏服务器出现安全问题”，但并未进一步披露具体原因。目前尚不清楚服务器是否遭遇了 DDoS 攻击，还是出现了其他安全隐患。 尽管《黑暗之魂 2》和《黑暗之魂 3》都已推出多年，但得益于系列 IP 影响力以及 FromSoftware 的良好口碑，两款作品至今仍",
    "published_at": 1793709675.0,
    "published_bj": "2026-11-03 20:41"
+  },
+  {
+   "id": "02c9df516ea7f161",
+   "source": "Hacker News",
+   "title": "Why Clip Art Was Everywhere Until It Wasn't [video]",
+   "url": "https://www.youtube.com/watch?v=XfLlpxE6AYM",
+   "summary": "Article URL: https://www.youtube.com/watch?v=XfLlpxE6AYM Comments URL: https://news.ycombinator.com/item?id=50351298 Points: 5 # Comments: 0",
+   "published_at": 1793709606.0,
+   "published_bj": "2026-11-03 20:40"
   },
   {
    "id": "6f64e290c792123a",
@@ -3593,15 +3602,6 @@
    "summary": "IT之家 11 月 3 日消息，高通昨日宣布，其第一代高带宽计算（HBC）技术已在美国圣迭戈实验室完成了硬件验证，验证了该技术的完整读写能力和近存计算能力。 高通 HBC 技术通过将多层 LPDDR 内存堆叠在计算芯片上方，试图在提升 AI 推理内存带宽的同时降低能耗。 搭载该架构的 AI250 加速器计划于 2027 年上半年出样，意味着这一以 LPDDR 替代 HBM 的推理内存方案进入产品化阶段。 IT之家注：HBC（High Bandwidth Compute，高带宽计算）是高通针对 AI 推理场景开发的近存计算架构。与传统 HBM 主要通过堆叠 DRAM 芯片提升带宽不同，HBC 采",
    "published_at": 1793659815.0,
    "published_bj": "2026-11-03 06:50"
-  },
-  {
-   "id": "34f832b837eac571",
-   "source": "InfoQ中文",
-   "title": "从英伟达到 Pika，硅谷巨头为何“反向借力”这个国产模型？",
-   "url": "https://www.infoq.cn/article/h1310kHD9CWD1mO8aTAc?utm_source=rss&utm_medium=article",
-   "summary": "点击查看原文>",
-   "published_at": 1793659736.0,
-   "published_bj": "2026-11-03 06:48"
   }
  ]
 }

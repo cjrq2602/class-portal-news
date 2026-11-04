@@ -1,8 +1,17 @@
 {
  "date": "2026-11-04",
- "generated_at": 1793759137.4617646,
- "count": 125,
+ "generated_at": 1793762837.144775,
+ "count": 141,
  "items": [
+  {
+   "id": "3afa81d771b92101",
+   "source": "InfoQ中文",
+   "title": "大模型会击穿具身智能吗？稚晖君带领团队深刻复盘并解答",
+   "url": "https://www.infoq.cn/article/bFKTeyCOlydWMYi91H4q?utm_source=rss&utm_medium=article",
+   "summary": "点击查看原文>",
+   "published_at": 1793790154.0,
+   "published_bj": "2026-11-04 19:02"
+  },
   {
    "id": "7b79bf1464c9ff8d",
    "source": "InfoQ中文",
@@ -11,6 +20,105 @@
    "summary": "点击查看原文>",
    "published_at": 1793786400.0,
    "published_bj": "2026-11-04 18:00"
+  },
+  {
+   "id": "0c7abfb644b01397",
+   "source": "IT之家",
+   "title": "苹果客服就天气离谱数据致歉：初步排查为系统端口问题，已紧急完成修复",
+   "url": "https://www.ithome.com/1/022/010.htm",
+   "summary": "IT之家 11 月 4 日消息，大量苹果用户 11 月 4 日凌晨 发现自带天气 App 出现离谱数据 ，北京、上海、厦门等多地“iPhone 天气下周五温差”出现异常，最低气温竟显示为-30℃ 左右，“苹果天气突现-32”等相关话题引发广泛吐槽。 针对此次异常，苹果官方客服回应中新经纬称， 经初步排查，原因为系统端口问题，并非硬件层面故障，技术团队已紧急完成修复 。 对于有用户猜测“数据定位跳转至其他地区”， 客服予以否认 ，若属定位漂移，临近日期的天气数值应全部异常，而非仅具体到某一天出现极端值。 客服表示收到大批用户反馈，对此深表歉意，后续将持续改善数据服务体验。 IT之家注意到，这并非",
+   "published_at": 1793762535.0,
+   "published_bj": "2026-11-04 11:22"
+  },
+  {
+   "id": "942c8f10d66acaa6",
+   "source": "IT之家",
+   "title": "明知车辆用不了 FSD 却仍然推销，特斯拉在韩国遭消费者组织投诉",
+   "url": "https://www.ithome.com/1/022/009.htm",
+   "summary": "IT之家 11 月 4 日消息，据路透社报道，韩国消费者权益组织准备于当地时间 5 日向韩国公平交易委员会 投诉特斯拉 ，指控特斯拉明知在韩销售的 大多数车辆无法合法使用 FSD 驾驶辅助系统 ，却仍向消费者推销该功能，涉嫌误导数万名韩国消费者。 多年来，特斯拉一直在韩国向潜在购车者推销完全自动驾驶（驾驶员监督版，FSD）软件，通常要求消费者一次性支付 904.3 万韩元 （IT之家注：现汇率约合 44,862 元人民币） 。 特斯拉韩国负责人徐永得上个月在国会作证时透露，韩国注册的特斯拉汽车中， 只有约 20% 能够使用 FSD ，均为 美国生产 的车辆。 然而，韩国销售的大部分特斯拉汽车 ",
+   "published_at": 1793762460.0,
+   "published_bj": "2026-11-04 11:21"
+  },
+  {
+   "id": "30698f4e959ecfc4",
+   "source": "IT之家",
+   "title": "三星 Galaxy S27 系列智能手机海关舱单信息现身，高通骁龙 8 Elite Gen 6 版 S27 Pro 曝光",
+   "url": "https://www.ithome.com/1/022/008.htm",
+   "summary": "IT之家 11 月 4 日消息，根据在第三方海关舱单数据平台纽佰德 (NBD) 上的查询，今年 9 月出现了 4 条三星电子 Galaxy S27 系列智能手机的记录，分别对应标准、Plus、Pro、Ultra 版本。 这些产品的型号均符合 SM-S95xB / DS 格式，部分产品代号符合 SM-S95xBE_SEA_DX 格式， 很可能对应着在东南亚 (SEA) 区域销售的国际版双卡机型 。 以下是IT之家整理的屏幕与处理器规格信息： Galaxy S27：6.3\" 屏幕，三星 Exynos 2700 处理器； Galaxy S27 Plus：6.7\" 屏幕，三星 Exynos 2700 ",
+   "published_at": 1793762361.0,
+   "published_bj": "2026-11-04 11:19"
+  },
+  {
+   "id": "2058f1a91e4bdc64",
+   "source": "Hacker News",
+   "title": "Arrows to arrows, categories to queries (2025)",
+   "url": "https://reasonablypolymorphic.com/blog/arrows-to-arrows/",
+   "summary": "Article URL: https://reasonablypolymorphic.com/blog/arrows-to-arrows/ Comments URL: https://news.ycombinator.com/item?id=50361107 Points: 3 # Comments: 0",
+   "published_at": 1793761887.0,
+   "published_bj": "2026-11-04 11:11"
+  },
+  {
+   "id": "2afb07771c211e64",
+   "source": "IT之家",
+   "title": "国家发改委：时速 400 公里高铁将稳步推进商业化运营",
+   "url": "https://www.ithome.com/1/022/006.htm",
+   "summary": "IT之家 11 月 4 日消息，国家发展改革委基础设施发展司司长夏鑫在今天（4 日）的新闻发布会上透露，“十五五”时期，我国将 新建约 1.5 万公里铁路 ，其中包括约 1 万公里高速铁路，基本实现铁路现代化目标。重点任务方面。基本建成“八纵八横”高速铁路主通道，高速铁路基本上是客运，合理拓展区域连接线覆盖范围。 夏鑫提到， 加快构建时速 400 公里高铁建造运营成套技术和标准体系，稳步推进商业化运营 。加强普速铁路建设，加快繁忙干线扩能改造，基本消除干线通道能力瓶颈。重大工程方面。全面建成高标准沿江高速铁路，加快建成沿海高速铁路，稳步推进沿边铁路建设，加快构建疆煤外运体系，推进秦沈第二通道等",
+   "published_at": 1793761206.0,
+   "published_bj": "2026-11-04 11:00"
+  },
+  {
+   "id": "42cc6781cdf418d3",
+   "source": "IT之家",
+   "title": "《英雄联盟》S16 淘汰赛首日：iG 3:1 战胜 TES 晋级，时隔 7 年重回四强舞台",
+   "url": "https://www.ithome.com/1/022/004.htm",
+   "summary": "IT之家 11 月 4 日消息，2026 全球总决赛淘汰赛 1/4 决赛第一日火热进行中，来自 LPL 赛区的四号种子 iG 成功战胜三号种子 TES 战队，拿下这轮 BO5 的胜利，成为首个晋级 S16 四强的队伍，时隔 7 年重回半决赛舞台（上次是 2019 年 10 月 26 日八强赛 3-1 战胜 GRF，但半决赛不敌 FPX）。 同时这也是 iG 打野选手 Wei 生涯第一次以首发身份赢下全球总决赛的 BO5，此前 0 胜 3 负。 此外，TES 下路 JackeyLove 成为 LPL 选手超越 Uzi 成为 LPL 在 S 赛击杀最多的选手，位列历史总榜第 5。同时，TES 上单",
+   "published_at": 1793760710.0,
+   "published_bj": "2026-11-04 10:51"
+  },
+  {
+   "id": "688f2575baa1da05",
+   "source": "IT之家",
+   "title": "水月雨 ddHiFi Blue Rose 便携解码耳放发售：双 CS43198 芯片，1399 元全球限量 1000 套",
+   "url": "https://www.ithome.com/1/021/977.htm",
+   "summary": "IT之家 11 月 4 日消息，ddHiFi 与水月雨联名的 Blue Rose 便携解码耳放（型号 MD-DA-016）今日正式发售，定价为 1399 元，全球限量 1000 套。 京东 水月雨 × ddHiFi Blue Rose 便携解码耳放 无损小尾巴 HIFI 发烧 TypeC 转接 3.5/4.4 Blue Rose 1399 元 直达链接 这是一款基于 ddHiFi TC44 GRIP 开发设计的特别产品，依托其成熟的硬件配置与制造工艺，由水月雨与 ddHiFi 共同进行再设计与调校，从内至外均有不同。 外观方面，Blue Rose 以「暮蓝的玫瑰」为主题意象，采用 水月友希 ·",
+   "published_at": 1793760292.0,
+   "published_bj": "2026-11-04 10:44"
+  },
+  {
+   "id": "d817db45308ecffb",
+   "source": "IT之家",
+   "title": "7-Eleven 日本公司送货上门服务遭非法访问，超 16 万条客户信息外泄",
+   "url": "https://www.ithome.com/1/021/972.htm",
+   "summary": "IT之家 11 月 4 日消息，据共同社报道，便利店企业 7-Eleven 日本公司 3 日宣布，送货上门服务“7NOW”的配送业务外包方遭遇非法访问，总计逾 16 万条客户信息外泄。 泄露的信息包括 姓名、住址、电话号码 等，不涉及信用卡信息和密码。据该公司透露，1 日查明外包方遭受非法访问，3 日确认 7-Eleven 部分用户信息外泄。 据悉，7-Eleven 的送货上门服务未因此受到影响，用户仍可照常使用。官方将通过短信方式，依次向已经登记的电话号码联系涉及对象。 据IT之家此前报道，而在今年 4 月，7-Eleven 就遭遇了臭名昭著的黑客团伙 ShinyHunters 攻击，超过 ",
+   "published_at": 1793760247.0,
+   "published_bj": "2026-11-04 10:44"
+  },
+  {
+   "id": "a5219518df6170b5",
+   "source": "IT之家",
+   "title": "华邦 2026Q3 营收同比大增 278.2%，核准 713.63 亿新台币高雄扩产计划",
+   "url": "https://www.ithome.com/1/021/963.htm",
+   "summary": "IT之家 11 月 4 日消息，中国台湾地区利基型存储器制造商华邦电子 (Winbond) 昨日公布了其 2026 年第 3 季度运营表现： 合并营收 ：823.31 亿新台币，同比增长 278.2% 毛利率 ：70.6%； 归母税后净利润 ：354.22 亿新台币 每股净收益 ：7.58 新台币 从产品类别来看，客制化内存营收占比 58%，闪存贡献 32%，逻辑和其它各占 9% 和 1%；从应用类别来看，通讯电子占比为 31%，消费电子、车用及工业用相关各占 26%，计算机相关则是 17%。 华邦电子是全球最大的 NOR 闪存制造商，其 SLC NAND 闪存则位居世界第三。 该企业预计闪存",
+   "published_at": 1793760069.0,
+   "published_bj": "2026-11-04 10:41"
+  },
+  {
+   "id": "ba0790220cecc634",
+   "source": "IT之家",
+   "title": "消息称极氪计划推出硬派越野 SUV：对标奔驰大 G，预计 2028-2029 年量产",
+   "url": "https://www.ithome.com/1/021/961.htm",
+   "summary": "IT之家 11 月 4 日消息，“未来汽车 Daily”今天（4 日）上午援引知情人士消息称，极氪内部正在筹划一款方盒子硬派越野 SUV，并已向多家供应商匹配需求。 极氪内部并没有给这款硬派越野 SUV 设立代号，从供应商的口径来讲，他们将这个项目称为 “极氪对标奔驰大 G 的车型方案” 。据悉，该车型目前仍在做供应商的匹配，尚未正式立项，按照进度来推测，这款对标大 G 的车型方案 预计会在 2028 年 —2029 年量产 。 另据知情人士透露，该车尚未正式确定造型，对标奔驰大 G 的策略则是用“ 承载式 / 半承载 + 电驱独立控制 + 空悬行程 + 智能脱困 ”的策略实现“新豪华越野”性",
+   "published_at": 1793759623.0,
+   "published_bj": "2026-11-04 10:33"
+  },
+  {
+   "id": "28b0f100b97d67fd",
+   "source": "IT之家",
+   "title": "SIA & WSTS：全球 2026Q3 半导体销售额 5177 亿美元，环比增幅 24.1%",
+   "url": "https://www.ithome.com/1/021/960.htm",
+   "summary": "IT之家 11 月 4 日消息，美国半导体行业协会 (SIA) 当地时间 3 日表示，根据世界半导体贸易统计组织 (WSTS) 编制的数据， 全球半导体销售额在 2026 年第 3 季度达到 5,177 亿美元 （IT之家注：现汇率约合 3.46 万亿元人民币） ，环比增长 24.1%。 各主要区域市场的半导体销售额均在 9 月出现了强劲增长， 即使是相对最为弱势的日本市场也有 73.4% 的显著增幅 ，美洲的同比增幅达到惊人的 191.7%。 ▲ 图源：WSTS SIA 总裁兼首席执行官 Michael Robbins 表示： 今年第三季度，全球芯片市场实现了大幅增长， 全球销售额连续第三个",
+   "published_at": 1793759312.0,
+   "published_bj": "2026-11-04 10:28"
   },
   {
    "id": "97bc636f40562b89",
@@ -92,6 +200,15 @@
    "summary": "IT之家 11 月 4 日消息，网易旗下开放世界武侠游戏《燕云十六声》官方宣布将于 2026 年 11 月 24 日正式实装英伟达 DLSS 5 技术，成为全球首批、国内首款支持该技术的游戏（北美地区将提前一天，于 11 月 23 日先行上线）。 DLSS 5 是英伟达在 2026 年 3 月 GTC 大会上公布的新一代实时神经渲染技术，官方将其定位为“图形领域的 GPT 时刻”。 与单纯提升分辨率的传统超采样不同，DLSS 5 以游戏每帧的颜色和动态向量为输入，利用 AI 模型为场景生成与原始 3D 内容紧密对齐的拟真光照和材质，最高可在 4K 分辨率下实时运行。 据介绍，《燕云十六声》此次",
    "published_at": 1793756575.0,
    "published_bj": "2026-11-04 09:42"
+  },
+  {
+   "id": "52e9a01da375eb5e",
+   "source": "Hacker News",
+   "title": "Giant Canyon on Mars Is Still Tectonically Active Today",
+   "url": "https://lamont.columbia.edu/news/giant-canyon-mars-still-tectonically-active-today",
+   "summary": "Article URL: https://lamont.columbia.edu/news/giant-canyon-mars-still-tectonically-active-today Comments URL: https://news.ycombinator.com/item?id=50360573 Points: 16 # Comments: 0",
+   "published_at": 1793756442.0,
+   "published_bj": "2026-11-04 09:40"
   },
   {
    "id": "8dd68f3c8e525382",
@@ -218,6 +335,15 @@
    "summary": "IT之家 11 月 4 日消息，工信部发布第 413 批《道路机动车辆生产企业及产品公告》新产品公示，宝马第八代 3 系长轴版申报。 IT之家注意到，本次申报的华晨宝马 325L/330L 车身尺寸为 4865×1852×1461mm，轴距 2970mm ，定位长轴距中型轿车。轮胎规格为前 245/40 R19 与后 255/40 R19，前后轮距分别为 1593mm 与 1599mm，接近角 15°、离去角 16°，整备质量 1740kg/1753kg，总质量 2225kg，额定载客人数 5 人。 作为参照，海外第八代 3 系标轴版轴距为 2860mm，国产长轴版在其基础上加长了 110mm",
    "published_at": 1793752657.0,
    "published_bj": "2026-11-04 08:37"
+  },
+  {
+   "id": "147a9bcde1a0bbb4",
+   "source": "Hacker News",
+   "title": "C++26 Disapproved",
+   "url": "https://andreasfertig.com/blog/2026/11/cpp26-dis-failed-how-does-cpp-survive/",
+   "summary": "Article URL: https://andreasfertig.com/blog/2026/11/cpp26-dis-failed-how-does-cpp-survive/ Comments URL: https://news.ycombinator.com/item?id=50360164 Points: 30 # Comments: 1",
+   "published_at": 1793752402.0,
+   "published_bj": "2026-11-04 08:33"
   },
   {
    "id": "7711cde594315489",
@@ -589,6 +715,15 @@
    "published_bj": "2026-11-04 05:21"
   },
   {
+   "id": "81e6bcf60d1ba913",
+   "source": "Hacker News",
+   "title": "Show HN: Uncracked City, detective game where you question LLM suspects that lie",
+   "url": "https://uncracked.city",
+   "summary": "To give you some context on the project. I'm a solo founder and I use AI heavily in my work. The idea came from wanting players to discover cities. Each city has its own history, so every case is set in a real city with real public places. The crime and the people are on other hand invented. The par",
+   "published_at": 1793740803.0,
+   "published_bj": "2026-11-04 05:20"
+  },
+  {
    "id": "5f8f938134b49c3e",
    "source": "Hacker News",
    "title": "Show HN: Kairos – Open-source risk and fraud decisioning platform",
@@ -632,6 +767,15 @@
    "summary": "An in-space construction first could be an enabler for the space data centers of the future.",
    "published_at": 1793739437.0,
    "published_bj": "2026-11-04 04:57"
+  },
+  {
+   "id": "341d498ac35c3f03",
+   "source": "Hacker News",
+   "title": "The Pnyx and the Agora (2016)",
+   "url": "https://www.readingdesign.org/the-pnyx-and-the-agora",
+   "summary": "Article URL: https://www.readingdesign.org/the-pnyx-and-the-agora Comments URL: https://news.ycombinator.com/item?id=50357973 Points: 3 # Comments: 0",
+   "published_at": 1793738951.0,
+   "published_bj": "2026-11-04 04:49"
   },
   {
    "id": "64c55470fab447bc",
