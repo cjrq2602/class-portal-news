@@ -1,8 +1,26 @@
 {
  "date": "2026-11-05",
- "generated_at": 1793790092.2326999,
- "count": 3,
+ "generated_at": 1793794011.942611,
+ "count": 5,
  "items": [
+  {
+   "id": "afa9fae6ea27073e",
+   "source": "InfoQ中文",
+   "title": "谷歌 Data Agent Kit 正式发布：安全防护分为 Skill 与 IAM",
+   "url": "https://www.infoq.cn/article/UtKS9EofSoyd2P7Otx7e?utm_source=rss&utm_medium=article",
+   "summary": "点击查看原文>",
+   "published_at": 1793822516.0,
+   "published_bj": "2026-11-05 04:01"
+  },
+  {
+   "id": "056e64d62c5046d9",
+   "source": "InfoQ中文",
+   "title": "Anthropic 为重要开源项目新增可选安全扫描服务",
+   "url": "https://www.infoq.cn/article/hdmi6FdjpYSEvuMhPOAa?utm_source=rss&utm_medium=article",
+   "summary": "点击查看原文>",
+   "published_at": 1793822014.0,
+   "published_bj": "2026-11-05 03:53"
+  },
   {
    "id": "3ba5633fc7c3ec6b",
    "source": "InfoQ中文",
