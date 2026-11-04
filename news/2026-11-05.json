@@ -1,7 +1,7 @@
 {
  "date": "2026-11-05",
- "generated_at": 1793806312.9618256,
- "count": 7,
+ "generated_at": 1793809835.024658,
+ "count": 10,
  "items": [
   {
    "id": "35518c70f7be5eff",
@@ -58,6 +58,15 @@
    "published_bj": "2026-11-05 01:00"
   },
   {
+   "id": "20647fe1f6f8746e",
+   "source": "cnBeta",
+   "title": "30000年前法国女性的DNA改写冰河时代欧洲史 远隔数千公里的人群早已存在基因交流",
+   "url": "https://www.cnbeta.com.tw/articles/science/1585046.htm",
+   "summary": "一名生活在约3万年前的女性正在帮助科学家重新认识冰河时代欧洲人群之间的联系。研究人员通过分析她的古代DNA发现，这名女性虽然生活在今天法国西南部，但其遗传背景不仅来自西欧人群，还包含与中欧和东欧古代人群有关的遗传成分。这表明，冰河时代欧洲东西部的人群并不像过去认为的那样彼此隔绝，早在3万多年前，不同地区的人类群体就已经发生了跨越数千公里的基因交流。 阅读全文",
+   "published_at": 1793809509.0,
+   "published_bj": "2026-11-05 00:25"
+  },
+  {
    "id": "2c0b72c8b62f2e9e",
    "source": "InfoQ中文",
    "title": "研究发现：AI 生成代码受下游环节瓶颈制约，无法提升整体生产力",
@@ -65,6 +74,24 @@
    "summary": "点击查看原文>",
    "published_at": 1793809250.0,
    "published_bj": "2026-11-05 00:20"
+  },
+  {
+   "id": "b79b190fa05294c8",
+   "source": "TechCrunch",
+   "title": "Google faces backlash for plan that would turn off Search for schools that restrict AI",
+   "url": "https://techcrunch.com/2026/11/04/google-faces-backlash-for-plan-that-would-turn-off-search-for-schools-that-restrict-ai/",
+   "summary": "Politicians on the left, like NYC mayor Zohran Mamdani and former FTC chair Lina Khan, accused Google of acting as an unregulated monopoly.",
+   "published_at": 1793809042.0,
+   "published_bj": "2026-11-05 00:17"
+  },
+  {
+   "id": "3d86dfe1291971fe",
+   "source": "Hacker News",
+   "title": "'It's just vape, nail, charity shops': Can anything save UK high street?",
+   "url": "https://www.theguardian.com/business/2026/nov/04/what-can-save-the-british-high-street-rotherham",
+   "summary": "Article URL: https://www.theguardian.com/business/2026/nov/04/what-can-save-the-british-high-street-rotherham Comments URL: https://news.ycombinator.com/item?id=50367653 Points: 11 # Comments: 3",
+   "published_at": 1793808693.0,
+   "published_bj": "2026-11-05 00:11"
   }
  ]
 }

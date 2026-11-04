@@ -1,8 +1,17 @@
 {
  "date": "2026-11-04",
- "generated_at": 1793806312.96449,
+ "generated_at": 1793809835.028002,
  "count": 400,
  "items": [
+  {
+   "id": "07e1909c48615c68",
+   "source": "IT之家",
+   "title": "微信鸿蒙版 App 推 8.0.23.34 正式版更新，更多用户灰度合并发图功能",
+   "url": "https://www.ithome.com/1/022/470.htm",
+   "summary": "IT之家 11 月 4 日消息，微信鸿蒙版 App 今晚在华为应用市场（App Gallery）发布了 8.0.23.34 正式版更新。 和往常一样，本次更新的说明依旧为“修复了一些已知问题”。据用户反馈，8.0.23 版本的微信新增了如下特性： 部分 Flutter 跨端页面（如朋友圈、听一听、表情管理等页面）响应系统字体粗细； 更换铃声选择界面右上角新增铃声设置入口，支持启用或停用个性化内容推荐； 发表视频号内容时新增添加标注，视频号已发布的内容点击分享同步新增添加标注； 发现-直播-更多直播新增搜索按钮； 听一听主页面右下角新增小微分支入口浮动按钮，并根据当前页面内容弹出对应提示词，可快",
+   "published_at": 1793807779.0,
+   "published_bj": "2026-11-04 23:56"
+  },
   {
    "id": "c676f2295b84b2dc",
    "source": "InfoQ中文",
@@ -31,6 +40,33 @@
    "published_bj": "2026-11-04 23:40"
   },
   {
+   "id": "8f67c47b39e8d861",
+   "source": "Hacker News",
+   "title": "AMD expects to outsell Intel in Q4 for the first time in history",
+   "url": "https://www.tomshardware.com/pc-components/cpus/amd-expects-to-outsell-intel-in-q4-for-the-first-time-in-history-usd17b-guidance-would-exceed-intels-projections",
+   "summary": "Article URL: https://www.tomshardware.com/pc-components/cpus/amd-expects-to-outsell-intel-in-q4-for-the-first-time-in-history-usd17b-guidance-would-exceed-intels-projections Comments URL: https://news.ycombinator.com/item?id=50367125 Points: 40 # Comments: 6",
+   "published_at": 1793806714.0,
+   "published_bj": "2026-11-04 23:38"
+  },
+  {
+   "id": "1bbe1f00dff65f1f",
+   "source": "cnBeta",
+   "title": "蓝牙迎来近四倍速度提升 HDT技术为高品质音频和高速传输铺路",
+   "url": "https://www.cnbeta.com.tw/articles/tech/1585044.htm",
+   "summary": "蓝牙技术即将迎来自诞生以来最重要的性能升级之一。蓝牙技术联盟（Bluetooth SIG）日前正式宣布推出“高数据吞吐量”（High Data Throughput，简称HDT）技术，这项新标准将显著提升蓝牙低功耗（Bluetooth LE）的传输能力，为未来无线耳机、智能穿戴设备、电脑及移动设备带来更快的数据交换速度和更丰富的应用场景。 阅读全文",
+   "published_at": 1793806332.0,
+   "published_bj": "2026-11-04 23:32"
+  },
+  {
+   "id": "9f1c6fe3d675d705",
+   "source": "Hacker News",
+   "title": "Letting users trust their own MCP clients, without opening a phishing hole",
+   "url": "https://streamvessel.com/blog/mcp-trusted-redirect-uris",
+   "summary": "Article URL: https://streamvessel.com/blog/mcp-trusted-redirect-uris Comments URL: https://news.ycombinator.com/item?id=50367004 Points: 12 # Comments: 1",
+   "published_at": 1793806257.0,
+   "published_bj": "2026-11-04 23:30"
+  },
+  {
    "id": "1a0f88248ef253a0",
    "source": "InfoQ中文",
    "title": "Linux内核也能造了？Codex 11天写出13.9万行新内核，Rocky Linux 10跑起来了",
@@ -40,6 +76,60 @@
    "published_bj": "2026-11-04 23:30"
   },
   {
+   "id": "db81495a8a789014",
+   "source": "Hacker News",
+   "title": "YC's Garry Tan uses AI agents so much, he spends up to $200K a year on tokens",
+   "url": "https://techcrunch.com/2026/11/02/y-combinators-garry-tan-uses-ai-agents-so-much-he-spends-up-to-200k-a-year-on-tokens/",
+   "summary": "Article URL: https://techcrunch.com/2026/11/02/y-combinators-garry-tan-uses-ai-agents-so-much-he-spends-up-to-200k-a-year-on-tokens/ Comments URL: https://news.ycombinator.com/item?id=50366971 Points: 18 # Comments: 9",
+   "published_at": 1793806111.0,
+   "published_bj": "2026-11-04 23:28"
+  },
+  {
+   "id": "7557473b9734de10",
+   "source": "Hacker News",
+   "title": "Show HN: I built a tool that prices a prebuilt PC part by part",
+   "url": "https://pcdealcheck.com/",
+   "summary": "I've missed out on an awesome computer that I could use for a project because figuring out value took too long. Users paste a listing and receive a value grade, dated component estimates and a shareable report. AI reads the listing but my custom built price engine determines the grade (updated every",
+   "published_at": 1793805933.0,
+   "published_bj": "2026-11-04 23:25"
+  },
+  {
+   "id": "8af04c3078673bf4",
+   "source": "Hacker News",
+   "title": "Evergreen: A Provably Safe Systems Language",
+   "url": "https://evergreenlang.net",
+   "summary": "Article URL: https://evergreenlang.net Comments URL: https://news.ycombinator.com/item?id=50366919 Points: 24 # Comments: 14",
+   "published_at": 1793805904.0,
+   "published_bj": "2026-11-04 23:25"
+  },
+  {
+   "id": "94b88ddb7c830f1f",
+   "source": "Hacker News",
+   "title": "Pierre Computer is being acquired by OpenAI",
+   "url": "https://twitter.com/pierrecomputer/status/2117999036175188183",
+   "summary": "Article URL: https://twitter.com/pierrecomputer/status/2117999036175188183 Comments URL: https://news.ycombinator.com/item?id=50366863 Points: 26 # Comments: 11",
+   "published_at": 1793805681.0,
+   "published_bj": "2026-11-04 23:21"
+  },
+  {
+   "id": "501fc6a8343bb06c",
+   "source": "Hacker News",
+   "title": "Adding Window Functions to a Spreadsheet",
+   "url": "https://www.getgrist.com/blog/running-totals-you-dont-have-to-chase/",
+   "summary": "Article URL: https://www.getgrist.com/blog/running-totals-you-dont-have-to-chase/ Comments URL: https://news.ycombinator.com/item?id=50366860 Points: 17 # Comments: 10",
+   "published_at": 1793805672.0,
+   "published_bj": "2026-11-04 23:21"
+  },
+  {
+   "id": "a3f1d857b57b89d6",
+   "source": "Hacker News",
+   "title": "Coffee's new status symbol is a machine without plastic",
+   "url": "https://www.cnn.com/2026/11/02/food/coffee-machine-plastic-free",
+   "summary": "Article URL: https://www.cnn.com/2026/11/02/food/coffee-machine-plastic-free Comments URL: https://news.ycombinator.com/item?id=50366853 Points: 23 # Comments: 34",
+   "published_at": 1793805649.0,
+   "published_bj": "2026-11-04 23:20"
+  },
+  {
    "id": "8471b27646079ab4",
    "source": "IT之家",
    "title": "华硕正式带来 ROG XG Station 3 显卡坞：提供 GC-HPWR 接口，支持雷电 5",
@@ -47,6 +137,15 @@
    "summary": "IT之家 11 月 4 日消息，华硕 (ASUS) 今日正式带来了 ROG XG Station 3。当前距这款雷电 5 显卡坞 首次面世 已过去了 1.5 年。 ROG XG Station 3 采用开放式结构 ，兼容最大 361 × 139.3 × 93.9 (mm) 的显卡，支持 SFX 或 SFX-L 外形规格、750W 或以上功率、80 PLUS 金牌或以上转换效率的电源。 其 提供 GC-HPWR 供电金手指 ，兼容 BTF 显卡； 集成 Aura Sync RGB 灯区 ；上行雷电 5 接口支持 140W USB PD 输出；下行侧提供 1 个雷电 5（支持 36W USB PD",
    "published_at": 1793805639.0,
    "published_bj": "2026-11-04 23:20"
+  },
+  {
+   "id": "0028e7c719d97cd7",
+   "source": "Hacker News",
+   "title": "Show HN: Codemap – one-page interactive map of any Go repository",
+   "url": "https://github.com/peterretief/codemap",
+   "summary": "Article URL: https://github.com/peterretief/codemap Comments URL: https://news.ycombinator.com/item?id=50366811 Points: 14 # Comments: 3",
+   "published_at": 1793805504.0,
+   "published_bj": "2026-11-04 23:18"
   },
   {
    "id": "0f8183eeaa84a9f2",
@@ -290,6 +389,15 @@
    "summary": "IT之家 11 月 4 日消息，小米 REDMI K100 手机已于 10 月 27 日正式发布。据小米技术官方今日介绍，该机在影像上新增了 3D 运镜的 AI 玩法 —— 从相册选一张静态照片，AI 就能生成一段大角度 3D 运镜视频，镜头可以环绕、推拉、倾斜，而画面中人物的五官、发型、衣着始终保持一致。 IT之家从小米技术官方了解到，支撑这项功能的，是小米在近期公开论文里带来的 视觉生成框架 WorldCast ：它通过解读画面的深度结构，把平面照片还原成三维场景，并在其中虚拟出一条真实相机轨迹，让镜头像被真实拍摄一样运动，能够在镜头运动过程中持续保持主角外观的一致性。 ▲ WorldCa",
    "published_at": 1793800405.0,
    "published_bj": "2026-11-04 21:53"
+  },
+  {
+   "id": "b590e673b38244cd",
+   "source": "Hacker News",
+   "title": "Mocktastic: A Meshtastic Node on Arduino",
+   "url": "https://github.com/Vapmuz/Mocktastic",
+   "summary": "Article URL: https://github.com/Vapmuz/Mocktastic Comments URL: https://news.ycombinator.com/item?id=50365516 Points: 12 # Comments: 1",
+   "published_at": 1793800312.0,
+   "published_bj": "2026-11-04 21:51"
   },
   {
    "id": "a02d5670b53aa4c0",
@@ -3494,114 +3602,6 @@
    "summary": "Article URL: https://github.com/postmanlabs/postman-app-support/issues/14370 Comments URL: https://news.ycombinator.com/item?id=50354960 Points: 213 # Comments: 58",
    "published_at": 1793726557.0,
    "published_bj": "2026-11-04 01:22"
-  },
-  {
-   "id": "5cb41849d4d8b70b",
-   "source": "IT之家",
-   "title": "提速抗癌药物研发：谷歌 Antigravity 上线“AI 炼丹师”，1 小时筛完数千种化合物",
-   "url": "https://www.ithome.com/1/021/858.htm",
-   "summary": "IT之家 11 月 4 日消息，谷歌 DeepMind 团队昨日（11 月 3 日）发布博文，宣布为 Google Antigravity 推出一套“化学信息学技能”（Cheminformatics Skills）， 帮助科研人员更快完成药物发现中的文献检索、分子分析、模型构建和新分子设计等工作。 IT之家援引博文介绍，在以肺癌药物为例的演示中，AI 智能体可在约一小时内检索数千种化合物、开展匹配分子对分析，并提出具备合成路线的新型刚性大环分子，而类似流程过去往往需要数天。 该工具将大语言模型的规划、检索与科学推理能力，与 RDKit 等确定性化学计算工具结合，并接入 ChEMBL 和 Pub",
-   "published_at": 1793726396.0,
-   "published_bj": "2026-11-04 01:19"
-  },
-  {
-   "id": "b32803fb16e23533",
-   "source": "TechCrunch",
-   "title": "Anthropic is still grappling with the economics of compute",
-   "url": "https://techcrunch.com/2026/11/03/anthropic-is-still-grappling-with-the-economics-of-compute/",
-   "summary": "At a moment when Anthropic's compute margins should be getting better, they’re getting worse.",
-   "published_at": 1793725621.0,
-   "published_bj": "2026-11-04 01:07"
-  },
-  {
-   "id": "b9327105886e5e04",
-   "source": "InfoQ中文",
-   "title": "AI 改变的是数据接口，而不是查询引擎",
-   "url": "https://www.infoq.cn/article/fvNWWYEmke5xJVsHEIIi?utm_source=rss&utm_medium=article",
-   "summary": "点击查看原文>",
-   "published_at": 1793725620.0,
-   "published_bj": "2026-11-04 01:07"
-  },
-  {
-   "id": "b0832b948531a911",
-   "source": "Hacker News",
-   "title": "Ashby (YC W19) Is Hiring EMs",
-   "url": "https://www.ashbyhq.com/careers?ashby_jid=695b1ce6-c375-4fad-94ef-61b50a3fbd28&utm_source=hn",
-   "summary": "Article URL: https://www.ashbyhq.com/careers?ashby_jid=695b1ce6-c375-4fad-94ef-61b50a3fbd28&utm_source=hn Comments URL: https://news.ycombinator.com/item?id=50354582 Points: 0 # Comments: 0",
-   "published_at": 1793725253.0,
-   "published_bj": "2026-11-04 01:00"
-  },
-  {
-   "id": "751d29e20a260143",
-   "source": "Solidot",
-   "title": "纽约时报等起诉 Brave 绕过付费墙抓取内容并提供给 AI 公司",
-   "url": "https://www.solidot.org/story?sid=85788",
-   "summary": "《纽约时报》、《芝加哥论坛报》和《奥兰多哨兵报》等美国出版商起诉 Brave Software，指控其未经许可抓取网站内容，并帮助用户绕过付费墙。Brave Software 被控将其抓取内容的索引数据库 Brave Index 提供给 Anthropic、Perplexity、Mistral、xAI 和 Cohere 等 AI 公司，通过 Paywall blocker 功能帮助用户绕过数百家新闻媒体的付费墙。《纽约时报》发言人 Graham James 在一份声明中表示：“我们支持合乎道德且负责任的使用与开发 AI，但 Brave 公然蔑视现行版权法，对《纽约时报》多次要求其停止侵权行为的",
-   "published_at": 1793725109.0,
-   "published_bj": "2026-11-04 00:58"
-  },
-  {
-   "id": "b53823e717f5d168",
-   "source": "cnBeta",
-   "title": "Fedora 45正式发布：搭载Linux 7.2内核与GNOME 51 引入多项安全和存储创新",
-   "url": "https://www.cnbeta.com.tw/articles/tech/1584904.htm",
-   "summary": "经过两次延期之后，Fedora 45终于在2026年11月3日正式发布。这是该Linux发行版新一轮六个月周期更新，带来了内核控制台替换、存储管理、安全策略以及硬件兼容性方面的一系列变化，同时也更新了桌面环境、编译器和开发工具链。 阅读全文",
-   "published_at": 1793725081.0,
-   "published_bj": "2026-11-04 00:58"
-  },
-  {
-   "id": "8851acb47a5aa06e",
-   "source": "cnBeta",
-   "title": "TrendForce：iPhone Duo有望在2027年拿下近三成折叠屏市场份额",
-   "url": "https://www.cnbeta.com.tw/articles/tech/1584902.htm",
-   "summary": "市场研究机构TrendForce最新发布的报告显示，苹果首款折叠屏手机iPhone Duo上市后需求表现强劲，预计将于2027年占据全球折叠屏智能手机市场29.8%的份额，成为该领域最具影响力的新玩家之一。 阅读全文",
-   "published_at": 1793724781.0,
-   "published_bj": "2026-11-04 00:53"
-  },
-  {
-   "id": "95790f0713292c60",
-   "source": "TechCrunch",
-   "title": "Rivian spinout Also was working on an e-moto project in Kenya — until it walked away",
-   "url": "https://techcrunch.com/2026/11/03/rivian-spinout-also-owns-up-to-mistakes-in-delayed-e-bike-launch/",
-   "summary": "Also co-founder and president Chris Yu told TechCrunch that he wanted to prioritize autonomous vehicles.",
-   "published_at": 1793724549.0,
-   "published_bj": "2026-11-04 00:49"
-  },
-  {
-   "id": "ce6c6c44d51fd4cd",
-   "source": "Hacker News",
-   "title": "Stringman, an $800 open-source room scale gripper robot",
-   "url": "https://neufangled.com/",
-   "summary": "Article URL: https://neufangled.com/ Comments URL: https://news.ycombinator.com/item?id=50354358 Points: 63 # Comments: 24",
-   "published_at": 1793724449.0,
-   "published_bj": "2026-11-04 00:47"
-  },
-  {
-   "id": "03172d0acb1c9380",
-   "source": "Hacker News",
-   "title": "Gitbook Breached",
-   "url": "https://news.ycombinator.com/item?id=50354336",
-   "summary": "We opened a ticket with support about Gitbook availability issues and got this in reply. We have yet to see any official customer communication or breach notification. Apologies for the formatting, did the best I could as it's a mobile paste. Update: GitBook security incident update Hey , The GitBoo",
-   "published_at": 1793724349.0,
-   "published_bj": "2026-11-04 00:45"
-  },
-  {
-   "id": "9d814d9a59c05670",
-   "source": "Hacker News",
-   "title": "USDB: Scaling Storage for Next-Generation Recommender Systems at ByteDance",
-   "url": "https://arxiv.org/abs/2611.02618",
-   "summary": "Article URL: https://arxiv.org/abs/2611.02618 Comments URL: https://news.ycombinator.com/item?id=50354250 Points: 5 # Comments: 0",
-   "published_at": 1793724002.0,
-   "published_bj": "2026-11-04 00:40"
-  },
-  {
-   "id": "2386460b86c19e46",
-   "source": "Solidot",
-   "title": "Google 将对拒绝 AI 的美国学校关闭搜索",
-   "url": "https://www.solidot.org/story?sid=85787",
-   "summary": "Google 宣布美国 K-12 学校学生使用的软件将默认关闭所有 AI 功能，除非学校管理人员自己选择启用。此举旨在回应教育工作者和家长的诉求，他们希望在孩子与 AI 互动上有更多的掌控权。今天 AI 功能已成为 Google 商用搜索引擎的标配，Google 负责教育的副总裁 Chris Phillips 表示，搜索与 AI 已深度融合，如果学校禁用了 AI，那么学生将无法使用搜索。美国 K-12 学校广泛使用 Google 的软件，包括 Gmail、Docs 以及作业平台 Classroom。Google 的 Chromebook 是美国学校最广泛使用的笔记本电脑。",
-   "published_at": 1793723622.0,
-   "published_bj": "2026-11-04 00:33"
   }
  ]
 }
