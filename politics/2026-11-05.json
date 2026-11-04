@@ -1,8 +1,17 @@
 {
  "date": "2026-11-05",
- "generated_at": 1793821133.763769,
- "count": 1,
+ "generated_at": 1793824208.3556223,
+ "count": 2,
  "items": [
+  {
+   "id": "1f082e4443ea861d",
+   "source": "BBC中文",
+   "title": "共和黨在美國中期選舉中慘敗的五大原因",
+   "url": "https://www.bbc.com/zhongwen/articles/cxyvrz6qrm2lo/trad?at_medium=RSS&at_campaign=rss",
+   "summary": "從選民的不滿情緒，到總統本人支持度低迷，本文分析為何傳統共和黨票倉的美國選民轉而支持民主黨。",
+   "published_at": 1793823647.0,
+   "published_bj": "2026-11-05 04:20"
+  },
   {
    "id": "c3e9bf70449531d5",
    "source": "中新网即时",

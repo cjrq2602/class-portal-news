@@ -1,6 +1,6 @@
 {
  "date": "2026-11-04",
- "generated_at": 1793821131.6593049,
+ "generated_at": 1793824207.2037895,
  "count": 400,
  "items": [
   {
@@ -135,6 +135,15 @@
    "title": "Pierre Computer is being acquired by OpenAI",
    "url": "https://twitter.com/pierrecomputer/status/2117999036175188183",
    "summary": "Article URL: https://twitter.com/pierrecomputer/status/2117999036175188183 Comments URL: https://news.ycombinator.com/item?id=50366863 Points: 26 # Comments: 11",
+   "published_at": 1793805681.0,
+   "published_bj": "2026-11-04 23:21"
+  },
+  {
+   "id": "9656ac2ff5251d46",
+   "source": "Hacker News",
+   "title": "OpenAI to acquire Pierre Computer Company",
+   "url": "https://openai.com/index/openai-to-acquire-pierre/",
+   "summary": "https://twitter.com/pierrecomputer/status/211799903617518818... Comments URL: https://news.ycombinator.com/item?id=50366863 Points: 79 # Comments: 32",
    "published_at": 1793805681.0,
    "published_bj": "2026-11-04 23:21"
   },
@@ -3593,15 +3602,6 @@
    "summary": "Google近日宣布，将从2027年开始调整面向K-12学校教育用户的人工智能策略，允许学校自主决定是否启用Gemini等AI工具。然而，这项看似给予学校更多选择权的新政策，却引发了教育界的广泛讨论，因为Google同时确认，若学校决定完全禁用AI功能，学生也将无法继续使用Google Search搜索服务。 阅读全文",
    "published_at": 1793728308.0,
    "published_bj": "2026-11-04 01:51"
-  },
-  {
-   "id": "c36eba8903bed9df",
-   "source": "cnBeta",
-   "title": "微软大幅优化Windows 11内存管理 8GB内存电脑性能最高提升40%",
-   "url": "https://www.cnbeta.com.tw/articles/tech/1584908.htm",
-   "summary": "微软近日发布最新Windows 11更新，重点针对8GB内存设备进行优化。公司表示，通过改进内存管理机制和系统资源调度方式，搭载8GB内存的电脑如今最高可实现20%的响应速度提升，而在多任务场景测试中，性能提升幅度最高可达到40%。 阅读全文",
-   "published_at": 1793728084.0,
-   "published_bj": "2026-11-04 01:48"
   }
  ]
 }

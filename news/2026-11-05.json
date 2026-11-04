@@ -1,7 +1,7 @@
 {
  "date": "2026-11-05",
- "generated_at": 1793821131.6564715,
- "count": 39,
+ "generated_at": 1793824207.200312,
+ "count": 42,
  "items": [
   {
    "id": "35518c70f7be5eff",
@@ -31,6 +31,15 @@
    "published_bj": "2026-11-05 04:01"
   },
   {
+   "id": "f903303b55a6b977",
+   "source": "cnBeta",
+   "title": "旅行者1号再创历史 即将成为首个距离地球“一光日”的人类航天器",
+   "url": "https://www.cnbeta.com.tw/articles/science/1585064.htm",
+   "summary": "美国国家航空航天局（NASA）的“旅行者1号”探测器即将迎来又一个历史性里程碑。这艘已经飞行近半个世纪的深空探测器，预计将在未来数周内达到距离地球一光日的位置，成为人类历史上首个与地球相隔整整一天光程的航天器。 阅读全文",
+   "published_at": 1793822381.0,
+   "published_bj": "2026-11-05 03:59"
+  },
+  {
    "id": "056e64d62c5046d9",
    "source": "InfoQ中文",
    "title": "Anthropic 为重要开源项目新增可选安全扫描服务",
@@ -38,6 +47,15 @@
    "summary": "点击查看原文>",
    "published_at": 1793822014.0,
    "published_bj": "2026-11-05 03:53"
+  },
+  {
+   "id": "ea5ccfb544e8c225",
+   "source": "Hacker News",
+   "title": "Insects Don't Swarm at LED Lights",
+   "url": "https://www.birdsoutsidemywindow.org/2026/11/03/insects-dont-swarm-at-led-lights/",
+   "summary": "Article URL: https://www.birdsoutsidemywindow.org/2026/11/03/insects-dont-swarm-at-led-lights/ Comments URL: https://news.ycombinator.com/item?id=50370610 Points: 12 # Comments: 5",
+   "published_at": 1793821823.0,
+   "published_bj": "2026-11-05 03:50"
   },
   {
    "id": "ebb152ac451edea7",
@@ -171,6 +189,15 @@
    "title": "Waymo confirms it will split with Uber in January 2028",
    "url": "https://techcrunch.com/2026/11/04/waymo-confirms-it-will-split-with-uber-in-january-2028/",
    "summary": "The split will set up direct competition in those markets, as Uber has many other autonomous vehicle partners on its network.",
+   "published_at": 1793815950.0,
+   "published_bj": "2026-11-05 02:12"
+  },
+  {
+   "id": "316d46bb037422e9",
+   "source": "TechCrunch",
+   "title": "Waymo confirms it’s shaking up its Uber relationship in January 2028",
+   "url": "https://techcrunch.com/2026/11/04/waymo-confirms-its-shaking-up-its-uber-relationship-in-january-2028/",
+   "summary": "The change will set up direct competition in those markets, as Uber has many other autonomous vehicle partners on its network.",
    "published_at": 1793815950.0,
    "published_bj": "2026-11-05 02:12"
   },
