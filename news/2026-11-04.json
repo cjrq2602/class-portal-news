@@ -1,7 +1,7 @@
 {
  "date": "2026-11-04",
- "generated_at": 1793798997.414348,
- "count": 384,
+ "generated_at": 1793803073.998212,
+ "count": 392,
  "items": [
   {
    "id": "c676f2295b84b2dc",
@@ -58,6 +58,51 @@
    "published_bj": "2026-11-04 23:15"
   },
   {
+   "id": "31abf0071bc78228",
+   "source": "IT之家",
+   "title": "华为 MatePad Mini 小平板获 HarmonyOS 7.0.0.111 SP16 升级，互助通信共享功能下放",
+   "url": "https://www.ithome.com/1/022/447.htm",
+   "summary": "IT之家 11 月 4 日消息，据用户反馈，华为 MatePad Mini 小平板今日开启了鸿蒙 HarmonyOS 7.0.0.111 SP16 版本升级，系统包大小约 657.43MB。 据介绍，新版本升级通信共享功能， 与搭载 HarmonyOS 7 系统的手机、平板、鸿蒙电脑之间支持多人互助通信共享 ，通过碰一碰或者登录同一账号共享网络建立互助网络，在移动网络信号弱或网络负载大等场景下可获得更稳定的网络。 IT之家从华为官网了解到，手机与平板间通信共享支持共享手机双卡通话、短信、网络能力（含 eSIM），支持手机双卡网络切换时，平板网络跟随切换。但手机与手机间通信共享只支持共享手机网络",
+   "published_at": 1793802490.0,
+   "published_bj": "2026-11-04 22:28"
+  },
+  {
+   "id": "e34c589e9babcaf9",
+   "source": "IT之家",
+   "title": "陶哲轩警告：人类把思考交给 AI，危险可能很快到来",
+   "url": "https://www.ithome.com/1/022/440.htm",
+   "summary": "北京时间 11 月 4 日，菲尔兹奖得主、著名数学家陶哲轩（Terence Tao）近日对人类日益依赖人工智能发出警告。他担心，随着人们逐渐将思考和解决问题的过程交给 AI，人类正在失去对问题本身及其解决方案的理解，而这一趋势可能很快在现实世界中产生严重后果。 这番言论来自陶哲轩 10 月 16 日在加州大学洛杉矶分校举办的 Science x AI Summit 上的演讲。科学与人工智能研究基金会（SAIR）近日在 YouTube 发布了题为《Math 2.0》的完整演讲视频，相关片段随后在海外社交平台 X 上引发关注。 “我们正在把自己的思考委托给 AI，由它们替我们解决问题。但与此同时，",
+   "published_at": 1793802030.0,
+   "published_bj": "2026-11-04 22:20"
+  },
+  {
+   "id": "43a931af78465dcf",
+   "source": "Hacker News",
+   "title": "Jaron Lanier on parallels between AI and social media",
+   "url": "https://www.youtube.com/watch?v=WxaRn8kX2eI",
+   "summary": "Article URL: https://www.youtube.com/watch?v=WxaRn8kX2eI Comments URL: https://news.ycombinator.com/item?id=50365760 Points: 4 # Comments: 0",
+   "published_at": 1793801414.0,
+   "published_bj": "2026-11-04 22:10"
+  },
+  {
+   "id": "7c20b19759f55446",
+   "source": "TechCrunch",
+   "title": "Revolut’s valuation jumps 53% to $115B in new share sale as it prepares to launch US bank",
+   "url": "https://techcrunch.com/2026/11/04/revoluts-valuation-jumps-53-to-115b-in-new-share-sale-as-it-prepares-to-launch-us-bank/",
+   "summary": "Glade Brook, Coatue and T. Rowe Price were among the investors that led the share sale.",
+   "published_at": 1793801410.0,
+   "published_bj": "2026-11-04 22:10"
+  },
+  {
+   "id": "1cd13204612b7955",
+   "source": "Hacker News",
+   "title": "North Korean fake job interview led to $6.3B Binance heist",
+   "url": "https://www.theregister.com/security/2026/11/03/north-korean-fake-job-interview-led-to-63b-binance-heist/5307398",
+   "summary": "Article URL: https://www.theregister.com/security/2026/11/03/north-korean-fake-job-interview-led-to-63b-binance-heist/5307398 Comments URL: https://news.ycombinator.com/item?id=50365755 Points: 8 # Comments: 1",
+   "published_at": 1793801395.0,
+   "published_bj": "2026-11-04 22:09"
+  },
+  {
    "id": "bd83c0c784430eb8",
    "source": "InfoQ中文",
    "title": "Uber 总裁跳槽 OpenAI！曾掌舵谷歌、Snap 公关，Brockman 亲自发文欢迎",
@@ -65,6 +110,33 @@
    "summary": "点击查看原文>",
    "published_at": 1793800944.0,
    "published_bj": "2026-11-04 22:02"
+  },
+  {
+   "id": "a6b7f3ab50579810",
+   "source": "IT之家",
+   "title": "高通史上最大 5G 交易：联合 SpaceX 建设星链移动全美国 5G 网络",
+   "url": "https://www.ithome.com/1/022/434.htm",
+   "summary": "IT之家 11 月 4 日消息，高通宣布，SpaceX 选择其跃龙（Dragonwing）蜂窝基础设施平台，为星链移动（Starlink Mobile）美国全国 5G 地面网络提供技术支持。 IT之家获悉，此次合作涉及 Dragonwing QRU100 和 QDU100 平台，采用 64T64R 大规模 MIMO 技术。SpaceX 计划在多年合作期内部署数万个基站， 预计 2027 年启动美国全国范围内的网络部署 。 据路透社报道，尽管高通未披露具体的合同金额，但明确表示“ 这是公司迄今为止规模最大的一笔 5G 交易 ”。此举标志着埃隆 · 马斯克（Elon Musk）旗下的这家太空探索公",
+   "published_at": 1793800724.0,
+   "published_bj": "2026-11-04 21:58"
+  },
+  {
+   "id": "17ae957d6d116201",
+   "source": "IT之家",
+   "title": "小米 WorldCast 3D 运镜在 REDMI K100 上线：平面照片还原成三维场景，并虚拟出真实相机轨迹",
+   "url": "https://www.ithome.com/1/022/433.htm",
+   "summary": "IT之家 11 月 4 日消息，小米 REDMI K100 手机已于 10 月 27 日正式发布。据小米技术官方今日介绍，该机在影像上新增了 3D 运镜的 AI 玩法 —— 从相册选一张静态照片，AI 就能生成一段大角度 3D 运镜视频，镜头可以环绕、推拉、倾斜，而画面中人物的五官、发型、衣着始终保持一致。 IT之家从小米技术官方了解到，支撑这项功能的，是小米在近期公开论文里带来的 视觉生成框架 WorldCast ：它通过解读画面的深度结构，把平面照片还原成三维场景，并在其中虚拟出一条真实相机轨迹，让镜头像被真实拍摄一样运动，能够在镜头运动过程中持续保持主角外观的一致性。 ▲ WorldCa",
+   "published_at": 1793800405.0,
+   "published_bj": "2026-11-04 21:53"
+  },
+  {
+   "id": "a02d5670b53aa4c0",
+   "source": "IT之家",
+   "title": "字节旗下 AI 开发平台“扣子”：推进企业级服务产品整合升级，现售企业版将先暂停新售",
+   "url": "https://www.ithome.com/1/022/432.htm",
+   "summary": "IT之家 11 月 4 日消息，字节跳动旗下 AI 开发平台“扣子（Coze）”发布公告， 正在推进企业级服务的产品整合升级 ，并规划后续可供企业客户选择的产品和套餐方案。配合本次整合，现售扣子企业版将先暂停新售。 IT之家注：官网显示，“扣子”是面向 Agent 时代的新一代 AI 团队协作平台。用户可以一个人调度多个 Agent，也可以和团队成员一起协同多个 Agent，在同一个项目里完成办公、编程、视频创作、文件处理、行业研究等复杂任务。 8 月 24 日，据智能涌现消息，字节跳动对旗下的办公 AI 产品完成了一轮团队整合： TRAE、扣子团队将整体并入豆包体系 ，其中 TRAE Wor",
+   "published_at": 1793799614.0,
+   "published_bj": "2026-11-04 21:40"
   },
   {
    "id": "bcbea0f3ba53ee9d",

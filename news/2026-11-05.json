@@ -1,8 +1,26 @@
 {
  "date": "2026-11-05",
- "generated_at": 1793798997.411638,
- "count": 5,
+ "generated_at": 1793803073.9961557,
+ "count": 7,
  "items": [
+  {
+   "id": "35518c70f7be5eff",
+   "source": "InfoQ中文",
+   "title": "当 Agent 成为数据库新用户，腾讯云如何解决“未知”的难题？",
+   "url": "https://www.infoq.cn/article/TeOb9MgqfeLOoNdxtMH2?utm_source=rss&utm_medium=article",
+   "summary": "点击查看原文>",
+   "published_at": 1793829623.0,
+   "published_bj": "2026-11-05 06:00"
+  },
+  {
+   "id": "08cfcfe9406e76da",
+   "source": "InfoQ中文",
+   "title": "Token 暴涨 5000 倍之后，企业 Agent 落地还卡在哪里？",
+   "url": "https://www.infoq.cn/article/VUmIUJ0ST9xIlPoViXmz?utm_source=rss&utm_medium=article",
+   "summary": "点击查看原文>",
+   "published_at": 1793829418.0,
+   "published_bj": "2026-11-05 05:56"
+  },
   {
    "id": "afa9fae6ea27073e",
    "source": "InfoQ中文",
