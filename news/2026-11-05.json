@@ -1,7 +1,7 @@
 {
  "date": "2026-11-05",
- "generated_at": 1793824207.200312,
- "count": 42,
+ "generated_at": 1793827670.7801778,
+ "count": 52,
  "items": [
   {
    "id": "35518c70f7be5eff",
@@ -22,6 +22,69 @@
    "published_bj": "2026-11-05 05:56"
   },
   {
+   "id": "34b45a1da66f0d91",
+   "source": "TechCrunch",
+   "title": "OpenAI is already trying to shape the 2028 election",
+   "url": "https://techcrunch.com/2026/11/04/openai-is-already-trying-to-shape-the-2028-election/",
+   "summary": "OpenAI’s Chris Lehane wants AI to define the 2028 election, proposing a new social contract that could benefit Americans while also advancing the AI giant’s own business interests.",
+   "published_at": 1793827544.0,
+   "published_bj": "2026-11-05 05:25"
+  },
+  {
+   "id": "1c92b229ee72bdb2",
+   "source": "TechCrunch",
+   "title": "Meta acquires AI coding startup Conductor",
+   "url": "https://techcrunch.com/2026/11/04/meta-acquires-ai-coding-startup-conductor/",
+   "summary": "The startup allows software engineers to deploy teams of agents to work on various aspects of a project simultaneously.",
+   "published_at": 1793826656.0,
+   "published_bj": "2026-11-05 05:10"
+  },
+  {
+   "id": "c51c9ef8045f5011",
+   "source": "IT之家",
+   "title": "COHERENT 2027 财年第一财季归母净利润 3.85 亿美元，同比增长 70.2%",
+   "url": "https://www.ithome.com/1/022/474.htm",
+   "summary": "IT之家 11 月 5 日消息，COHERENT今日发布 2027 财年（2026 年 7 月 1 日～2027 年 6 月 30 日）第一财季（2026 年 7 月 1 日～2026 年 9 月 30 日）报告： 营业总收入 ：23.7 亿美元 （IT之家注：现汇率约合 158.43 亿元人民币） ，同比增长 49.9%，环比增长 15.9% 毛利润 ：9.28 亿美元 （现汇率约合 62.01 亿元人民币） 毛利率 ：39.1% 归母净利润 ：3.85 亿美元 （现汇率约合 25.71 亿元人民币） ，同比增长 70.2%，环比增长 59.9% 经营现金流 ：-9270 万美元 （现汇率约",
+   "published_at": 1793826514.0,
+   "published_bj": "2026-11-05 05:08"
+  },
+  {
+   "id": "899ce5a8926fb31f",
+   "source": "Hacker News",
+   "title": "Everything is an AI scam now",
+   "url": "https://www.davidralphlewis.co.uk/posts/everything-is-an-ai-scam-now/",
+   "summary": "Article URL: https://www.davidralphlewis.co.uk/posts/everything-is-an-ai-scam-now/ Comments URL: https://news.ycombinator.com/item?id=50371508 Points: 4 # Comments: 0",
+   "published_at": 1793826319.0,
+   "published_bj": "2026-11-05 05:05"
+  },
+  {
+   "id": "eea817b9af99056c",
+   "source": "Hacker News",
+   "title": "AR guitar with just a laptop and scissors",
+   "url": "https://www.arguitar.com/",
+   "summary": "Article URL: https://www.arguitar.com/ Comments URL: https://news.ycombinator.com/item?id=50371370 Points: 5 # Comments: 1",
+   "published_at": 1793825674.0,
+   "published_bj": "2026-11-05 04:54"
+  },
+  {
+   "id": "eb63f1eed12a85cb",
+   "source": "Hacker News",
+   "title": "Residential Proxies Detected on White House Network",
+   "url": "https://layer3intel.com/blog/residential-proxies-white-house-network",
+   "summary": "Article URL: https://layer3intel.com/blog/residential-proxies-white-house-network Comments URL: https://news.ycombinator.com/item?id=50371246 Points: 113 # Comments: 22",
+   "published_at": 1793825118.0,
+   "published_bj": "2026-11-05 04:45"
+  },
+  {
+   "id": "130f8820f2a8a2a0",
+   "source": "TechCrunch",
+   "title": "Hackers stole DreamHost customer files and inboxes during months-long attack",
+   "url": "https://techcrunch.com/2026/11/04/hackers-stole-dreamhost-customer-files-and-inboxes-during-months-long-attack/",
+   "summary": "The web host said hackers exploited a vulnerability to access customer emails and files during a \"deliberate attack.\"",
+   "published_at": 1793824617.0,
+   "published_bj": "2026-11-05 04:36"
+  },
+  {
    "id": "afa9fae6ea27073e",
    "source": "InfoQ中文",
    "title": "谷歌 Data Agent Kit 正式发布：安全防护分为 Skill 与 IAM",
@@ -38,6 +101,15 @@
    "summary": "美国国家航空航天局（NASA）的“旅行者1号”探测器即将迎来又一个历史性里程碑。这艘已经飞行近半个世纪的深空探测器，预计将在未来数周内达到距离地球一光日的位置，成为人类历史上首个与地球相隔整整一天光程的航天器。 阅读全文",
    "published_at": 1793822381.0,
    "published_bj": "2026-11-05 03:59"
+  },
+  {
+   "id": "e8756cf511b011b1",
+   "source": "Hacker News",
+   "title": "Qualcomm Cloud AI 100 Ultra – 150W AI Accelerator Card with 128GB at 548GB/s",
+   "url": "https://www.qualcomm.com/data-center/products/cloud-ai-100-ultra",
+   "summary": "Article URL: https://www.qualcomm.com/data-center/products/cloud-ai-100-ultra Comments URL: https://news.ycombinator.com/item?id=50370654 Points: 38 # Comments: 16",
+   "published_at": 1793822114.0,
+   "published_bj": "2026-11-05 03:55"
   },
   {
    "id": "056e64d62c5046d9",
@@ -130,6 +202,15 @@
    "published_bj": "2026-11-05 02:53"
   },
   {
+   "id": "2dc0605f96622373",
+   "source": "Hacker News",
+   "title": "Show HN: After a decade of reversing, I got co-op working in DOS Wing Commander",
+   "url": "https://fireflyk64.github.io/wcmulti/",
+   "summary": "Article URL: https://fireflyk64.github.io/wcmulti/ Comments URL: https://news.ycombinator.com/item?id=50369895 Points: 26 # Comments: 4",
+   "published_at": 1793818287.0,
+   "published_bj": "2026-11-05 02:51"
+  },
+  {
    "id": "7a68ad9ac3223a46",
    "source": "Hacker News",
    "title": "Conductor Is Joining Meta",
@@ -173,6 +254,15 @@
    "summary": "自动驾驶出租车公司Waymo确认将于2028年1月结束与Uber在美国奥斯汀和亚特兰大市场的独家合作关系。届时，Waymo将通过自己的手机应用程序直接向乘客提供服务，而不再完全依赖Uber平台进行运营。 阅读全文",
    "published_at": 1793816817.0,
    "published_bj": "2026-11-05 02:26"
+  },
+  {
+   "id": "5979deb0a6c4eb95",
+   "source": "Hacker News",
+   "title": "From wild to mild: Friendly foxes show changes in brain region",
+   "url": "https://news.cornell.edu/stories/2026/11/wild-mild-friendly-foxes-show-changes-brain-region",
+   "summary": "Article URL: https://news.cornell.edu/stories/2026/11/wild-mild-friendly-foxes-show-changes-brain-region Comments URL: https://news.ycombinator.com/item?id=50369527 Points: 13 # Comments: 2",
+   "published_at": 1793816656.0,
+   "published_bj": "2026-11-05 02:24"
   },
   {
    "id": "b10efb625d2f7d24",

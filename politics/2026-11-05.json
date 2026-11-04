@@ -1,8 +1,17 @@
 {
  "date": "2026-11-05",
- "generated_at": 1793824208.3556223,
- "count": 2,
+ "generated_at": 1793827672.2750359,
+ "count": 3,
  "items": [
+  {
+   "id": "1770f4eff90fa526",
+   "source": "BBC中文",
+   "title": "美國中期選舉結果對中國和世界各國意味着什麼？",
+   "url": "https://www.bbc.com/zhongwen/articles/ckreyrxvg3xyo/trad?at_medium=RSS&at_campaign=rss",
+   "summary": "民主黨在美國中期選舉中取得勝利，將在特朗普總統餘下的任期內掌控國會，標誌着美國政治格局出現重大變化。從烏克蘭和中東的衝突，到美國與中國的貿易關係，BBC記者分析這次選舉結果對世界其他地區意味着什麼。",
+   "published_at": 1793826131.0,
+   "published_bj": "2026-11-05 05:02"
+  },
   {
    "id": "1f082e4443ea861d",
    "source": "BBC中文",
