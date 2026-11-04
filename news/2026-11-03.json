@@ -1,6 +1,6 @@
 {
  "date": "2026-11-03",
- "generated_at": 1793757101.9722242,
+ "generated_at": 1793759137.4660363,
  "count": 400,
  "items": [
   {
@@ -703,6 +703,15 @@
    "url": "https://www.ithome.com/1/021/809.htm",
    "summary": "IT之家 11 月 3 日消息，据财联社消息，高盛昨日发布研究报告，将 2030 年全球数据中心容量预测从 217GW 上调至 273GW，较 2025 年的约 103GW 大幅增长，年复合增长率约 21%。 高盛预计，未来五年全球将新增约 170GW 数据中心容量，若按照每 GW 投资 500 亿美元 （IT之家注：现汇率约合 3,332.7 亿元人民币） 的经验假设计算，对应潜在资本开支约 8.5 万亿美元 （现汇率约合 56.66 万亿元人民币） 。 高盛还将 2030 年美国数据中心容量预测从 125GW 上调至 152GW，预计 2025 年之后累计新增 103GW，占全球同期新增容",
    "published_at": 1793710729.0,
+   "published_bj": "2026-11-03 20:58"
+  },
+  {
+   "id": "32ac7c5ebcc52c5d",
+   "source": "Hacker News",
+   "title": "Microsoft fixes a Windows 11 annoyance as PC revenue declines",
+   "url": "https://arstechnica.com/gadgets/2026/10/windows-11-gets-right-click-menu-improvements-as-pc-revenue-slides/",
+   "summary": "Article URL: https://arstechnica.com/gadgets/2026/10/windows-11-gets-right-click-menu-improvements-as-pc-revenue-slides/ Comments URL: https://news.ycombinator.com/item?id=50351463 Points: 4 # Comments: 3",
+   "published_at": 1793710723.0,
    "published_bj": "2026-11-03 20:58"
   },
   {
@@ -3593,15 +3602,6 @@
    "summary": "点击查看原文>",
    "published_at": 1793659736.0,
    "published_bj": "2026-11-03 06:48"
-  },
-  {
-   "id": "6a025d05abaa0961",
-   "source": "cnBeta",
-   "title": "苹果新CEO上任后首份财报：净利润增长12% 中国区收入不及预期",
-   "url": "https://www.cnbeta.com.tw/articles/tech/1584764.htm",
-   "summary": "11月3日，苹果公司(NASDAQ:AAPL)今天发布了截至9月26日的2026财年第四季度及全年财报。财报显示，苹果第四财季总营收为1144.77亿美元，较上年同期的1024.66亿美元增长12%；净利润为307.11亿美元，较上年同期的274.66亿美元增长12%。 阅读全文",
-   "published_at": 1793659579.0,
-   "published_bj": "2026-11-03 06:46"
   }
  ]
 }
