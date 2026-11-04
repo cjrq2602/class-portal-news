@@ -1,0 +1,366 @@
+{
+ "type": "today",
+ "date": "2026-11-04",
+ "window": {
+  "start_ts": 1793721600.0,
+  "end_ts": 1793754000.0
+ },
+ "generated_at": 1793757104.1992917,
+ "generator": "action",
+ "news_count": 59,
+ "keywords": [
+  "中国",
+  "保护",
+  "消费",
+  "博会",
+  "等地",
+  "美国",
+  "遗产",
+  "中期",
+  "举行",
+  "全国"
+ ],
+ "points": [
+  {
+   "text": "【中国】中新网11月4日电 据中央气象台网站消息，昨日，湖北、江西、浙江、海南等地部分地区出现大到暴雨，局地大暴雨；内蒙古、黑龙江等地部分地区出现降雪天",
+   "keyword": "中国",
+   "news_ids": [
+    "352291620af1253b"
+   ],
+   "refs": [
+    {
+     "id": "352291620af1253b",
+     "title": "贵州湖南江西等地有中到大雨 冷空气将影响内蒙古和东北地区等地",
+     "source": "中新网即时",
+     "url": "https://www.chinanews.com.cn/sh/2026/11-04/10725723.shtml",
+     "published_at": 1793750743.0
+    }
+   ]
+  },
+  {
+   "text": "【美国】中新社华盛顿11月3日电(记者 沙晗汀)美国2026年中期选举11月3日举行",
+   "keyword": "美国",
+   "news_ids": [
+    "380f4b5b179ccc03"
+   ],
+   "refs": [
+    {
+     "id": "380f4b5b179ccc03",
+     "title": "美国举行2026年中期选举 经济议题备受选民关注",
+     "source": "中新网即时",
+     "url": "https://www.chinanews.com.cn/gj/2026/11-04/10725722.shtml",
+     "published_at": 1793750489.0
+    }
+   ]
+  },
+  {
+   "text": "【消费】如今，不论是出门就餐还是购物，不少人都习惯打开地图软件或者本地生活服务软件去搜一搜，看看哪一家性价比高，哪一家符合自己的口味，再看看店家的评分如",
+   "keyword": "消费",
+   "news_ids": [
+    "43f59eba7824ae93"
+   ],
+   "refs": [
+    {
+     "id": "43f59eba7824ae93",
+     "title": "全国放心消费平台正式上线 面向消费者提供哪些功能？",
+     "source": "中新网即时",
+     "url": "https://www.chinanews.com.cn/cj/2026/11-04/10725710.shtml",
+     "published_at": 1793748177.0
+    }
+   ]
+  },
+  {
+   "text": "【美国】中新网11月4日电 综合外媒报道，美国总统特朗普3日表示，美军对伊朗发动了“小规模攻击”",
+   "keyword": "美国",
+   "news_ids": [
+    "46bf299ca3a9e11c"
+   ],
+   "refs": [
+    {
+     "id": "46bf299ca3a9e11c",
+     "title": "特朗普：美国对伊朗发动了“小规模攻击”",
+     "source": "中新网即时",
+     "url": "https://www.chinanews.com.cn/gj/2026/11-04/10725721.shtml",
+     "published_at": 1793749944.0
+    }
+   ]
+  },
+  {
+   "text": "从新闻女主播到首位民选女总统：她靠一句话震惊了整个欧洲丨国际早察",
+   "keyword": "",
+   "news_ids": [
+    "0313404a618437ac"
+   ],
+   "refs": [
+    {
+     "id": "0313404a618437ac",
+     "title": "从新闻女主播到首位民选女总统：她靠一句话震惊了整个欧洲",
+     "source": "中新网即时",
+     "url": "https://www.chinanews.com.cn/gj/2026/11-04/10725740.shtml",
+     "published_at": 1793753625.0
+    }
+   ]
+  },
+  {
+   "text": "新华社东京11月3日电#8195",
+   "keyword": "",
+   "news_ids": [
+    "3b59ea22d6b676e6"
+   ],
+   "refs": [
+    {
+     "id": "3b59ea22d6b676e6",
+     "title": "特写｜日本宪法公布80周年 国会前响起和平呼声",
+     "source": "中新网即时",
+     "url": "https://www.chinanews.com.cn/gj/2026/11-04/10725735.shtml",
+     "published_at": 1793752895.0
+    }
+   ]
+  },
+  {
+   "text": "新华社北京11月4日电 为广泛延揽社会优秀人才服务军队建设，中央军委政治工作部近日部署展开2027年军队文职人员公开招考工作",
+   "keyword": "",
+   "news_ids": [
+    "322c35c6af3c2874"
+   ],
+   "refs": [
+    {
+     "id": "322c35c6af3c2874",
+     "title": "2027年军队文职人员公开招考工作全面展开",
+     "source": "中新网即时",
+     "url": "https://www.chinanews.com.cn/gn/2026/11-04/10725731.shtml",
+     "published_at": 1793752452.0
+    }
+   ]
+  },
+  {
+   "text": "在密歇根州，民意調查顯示，民主黨候選人阿卜杜勒·賽義德（Abdul El-Sayed）有望成為美國首位穆斯林參議員",
+   "keyword": "",
+   "news_ids": [
+    "98eec58f1af9a6ff"
+   ],
+   "refs": [
+    {
+     "id": "98eec58f1af9a6ff",
+     "title": "有望成為首位穆斯林美國參議員，42歲的賽義德是誰？",
+     "source": "BBC中文",
+     "url": "https://www.bbc.com/zhongwen/articles/c6lykq34zd19o/trad?at_medium=RSS&at_campaign=rss",
+     "published_at": 1793752377.0
+    }
+   ]
+  },
+  {
+   "text": "新加坡和馬來西亞政府正夾在焦慮不安的民眾與脾氣暴躁的鄰國之間",
+   "keyword": "",
+   "news_ids": [
+    "049fb933ec492192"
+   ],
+   "refs": [
+    {
+     "id": "049fb933ec492192",
+     "title": "印尼有毒煙霾正令鄰國陷入政治難題",
+     "source": "BBC中文",
+     "url": "https://www.bbc.com/zhongwen/articles/c91461p7mvv4o/trad?at_medium=RSS&at_campaign=rss",
+     "published_at": 1793751822.0
+    }
+   ]
+  },
+  {
+   "text": "深圳APEC前夕，中俄「無上限」合有任何挑戰嗎",
+   "keyword": "",
+   "news_ids": [
+    "1e23ebecd0bc2a3e"
+   ],
+   "refs": [
+    {
+     "id": "1e23ebecd0bc2a3e",
+     "title": "APEC峰會前，美智庫解析「技術民族主義」下的中俄軍工合作細節與限度",
+     "source": "BBC中文",
+     "url": "https://www.bbc.com/zhongwen/articles/c977pge1jkmdo/trad?at_medium=RSS&at_campaign=rss",
+     "published_at": 1793751814.0
+    }
+   ]
+  },
+  {
+   "text": "中新网11月4日电 据朝中社4日报道，朝鲜劳动党总书记、国务委员长金正恩2日视察南浦造船厂",
+   "keyword": "",
+   "news_ids": [
+    "58db1cf4fa9365aa"
+   ],
+   "refs": [
+    {
+     "id": "58db1cf4fa9365aa",
+     "title": "金正恩视察南浦造船厂",
+     "source": "中新网即时",
+     "url": "https://www.chinanews.com.cn/gj/2026/11-04/10725728.shtml",
+     "published_at": 1793751257.0
+    }
+   ]
+  },
+  {
+   "text": "秋天是柑橘类水果大量上市的季节",
+   "keyword": "",
+   "news_ids": [
+    "46db916e011a65f7"
+   ],
+   "refs": [
+    {
+     "id": "46db916e011a65f7",
+     "title": "这种水果，竟和85种药物“相冲”！很多人不知道",
+     "source": "中新网即时",
+     "url": "https://www.chinanews.com.cn/life/2026/11-04/10725727.shtml",
+     "published_at": 1793750943.0
+    }
+   ]
+  },
+  {
+   "text": "陕西西安：秦岭翠华山云雾缭绕",
+   "keyword": "",
+   "news_ids": [
+    "4cc2248b17a01d1f"
+   ],
+   "refs": [
+    {
+     "id": "4cc2248b17a01d1f",
+     "title": "陕西西安：秦岭翠华山云雾缭绕",
+     "source": "中新网即时",
+     "url": "http://www.chinanews.com.cn/tp/hd2011/2026/11-04/1209711.shtml",
+     "published_at": 1793750907.0
+    }
+   ]
+  },
+  {
+   "text": "本报记者 丁 蓉",
+   "keyword": "",
+   "news_ids": [
+    "df6098010afb83b2"
+   ],
+   "refs": [
+    {
+     "id": "df6098010afb83b2",
+     "title": "AI眼镜厂商主动“做减法” 用户体验成为关键",
+     "source": "中新网即时",
+     "url": "https://www.chinanews.com.cn/cj/2026/11-04/10725720.shtml",
+     "published_at": 1793749824.0
+    }
+   ]
+  },
+  {
+   "text": "本报记者 张芗逸",
+   "keyword": "",
+   "news_ids": [
+    "55b9f379d72bc644"
+   ],
+   "refs": [
+    {
+     "id": "55b9f379d72bc644",
+     "title": "19城细化落实商品住房销售制度",
+     "source": "中新网即时",
+     "url": "https://www.chinanews.com.cn/cj/2026/11-04/10725719.shtml",
+     "published_at": 1793749738.0
+    }
+   ]
+  }
+ ],
+ "article": {
+  "title": "2026-11-04 新闻总结",
+  "paragraphs": [
+   {
+    "kind": "lead",
+    "text": "今天共收录 59 条新闻，来自 4 家媒体。把标题放在一起看，讨论主要集中在 全球、平台 这几个方向上，其余消息更像是零散补充。"
+   },
+   {
+    "kind": "section",
+    "heading": "全球",
+    "text": "先看「全球」。今天(3日)，2026年世界互联网大会乌镇峰会在浙江乌镇正式开幕…，另有 23 条消息指向同一话题。这条消息短期内的实际影响可能有限，但它指向的方向值得放进观察名单。",
+    "news_ids": [
+     "04c54c91c2493eb5"
+    ],
+    "refs": [
+     {
+      "id": "04c54c91c2493eb5",
+      "title": "中国搭台 全球共享！乌镇峰会首次全方位呈现“智能互联网”图景",
+      "source": "中新网即时",
+      "url": "https://www.chinanews.com.cn/cj/2026/11-04/10725734.shtml",
+      "published_at": 1793752833.0
+     }
+    ]
+   },
+   {
+    "kind": "section",
+    "heading": "更新",
+    "text": "与此同时「更新」。美國國會由眾議院和參議院組成…，另有 5 条消息指向同一话题。对读者来说，值得留意的不是结论本身，而是它背后哪些前提正在被改变。",
+    "news_ids": [
+     "3aa054aafeb51478"
+    ],
+    "refs": [
+     {
+      "id": "3aa054aafeb51478",
+      "title": "2026年美國中期選舉實時更新結果",
+      "source": "BBC中文",
+      "url": "https://www.bbc.com/zhongwen/articles/c5rmyrm0n8k8o/trad?at_medium=RSS&at_campaign=rss",
+      "published_at": 1793750859.0
+     }
+    ]
+   },
+   {
+    "kind": "section",
+    "heading": "平台",
+    "text": "另一个值得注意的方向是「平台」。如今，不论是出门就餐还是购物，不少人都习惯打开地图软件或者本地生活服务软件去搜一搜，看看哪一家性价比高，哪一家符合自己的口味，另有 2 条消息指向同一话题。技术路线的胜负很少由一次发布会决定，接下来要看的是它能不能被更多团队低成本复用。",
+    "news_ids": [
+     "43f59eba7824ae93"
+    ],
+    "refs": [
+     {
+      "id": "43f59eba7824ae93",
+      "title": "全国放心消费平台正式上线 面向消费者提供哪些功能？",
+      "source": "中新网即时",
+      "url": "https://www.chinanews.com.cn/cj/2026/11-04/10725710.shtml",
+      "published_at": 1793748177.0
+     }
+    ]
+   },
+   {
+    "kind": "section",
+    "heading": "攻击",
+    "text": "相比之下「攻击」。中新网11月4日电 综合外媒报道，美国总统特朗普3日表示，另有 2 条消息指向同一话题。这类问题很少是单点失误，更常见的是权限设计和应急流程一起出了漏洞。",
+    "news_ids": [
+     "46bf299ca3a9e11c"
+    ],
+    "refs": [
+     {
+      "id": "46bf299ca3a9e11c",
+      "title": "特朗普：美国对伊朗发动了“小规模攻击”",
+      "source": "中新网即时",
+      "url": "https://www.chinanews.com.cn/gj/2026/11-04/10725721.shtml",
+      "published_at": 1793749944.0
+     }
+    ]
+   },
+   {
+    "kind": "glossary",
+    "items": [
+     {
+      "term": "AI",
+      "desc": "人工智能，让机器完成识别、生成、判断等原本需要人做的任务"
+     },
+     {
+      "term": "隐私",
+      "desc": "个人信息的收集、使用与传播边界"
+     }
+    ]
+   },
+   {
+    "kind": "outlook",
+    "text": "把这几条放在一起看，最值得跟踪的是 全球 和 平台 两条线：一条决定技术能走多远，一条决定它多快能落到普通人的日常里。至于其他消息，可以先放进观察名单，等后续有更实的进展再判断。"
+   }
+  ],
+  "word_count": 536
+ },
+ "ai_enhanced": false,
+ "schema": 1,
+ "window_bj": {
+  "start": "2026-11-04 00:00",
+  "end": "2026-11-04 09:00"
+ }
+}

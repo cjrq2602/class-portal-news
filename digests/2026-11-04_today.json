@@ -1,0 +1,366 @@
+{
+ "type": "today",
+ "date": "2026-11-04",
+ "window": {
+  "start_ts": 1793721600.0,
+  "end_ts": 1793754000.0
+ },
+ "generated_at": 1793757104.086877,
+ "generator": "action",
+ "news_count": 103,
+ "keywords": [
+  "ai",
+  "苹果",
+  "the",
+  "to",
+  "iphone",
+  "开发",
+  "微软",
+  "for",
+  "ios",
+  "发者"
+ ],
+ "points": [
+  {
+   "text": "【ai】苹果宣布进一步扩展Siri AI能力边界",
+   "keyword": "ai",
+   "news_ids": [
+    "8219b316ecdeae2c"
+   ],
+   "refs": [
+    {
+     "id": "8219b316ecdeae2c",
+     "title": "苹果向第三方应用全面开放Siri AI 开发者可打造跨应用智能代理",
+     "source": "cnBeta",
+     "url": "https://www.cnbeta.com.tw/articles/tech/1584928.htm",
+     "published_at": 1793743812.0
+    }
+   ]
+  },
+  {
+   "text": "【ai】Article URL: https://arxiv",
+   "keyword": "ai",
+   "news_ids": [
+    "0c9538ce5ce6ee40"
+   ],
+   "refs": [
+    {
+     "id": "0c9538ce5ce6ee40",
+     "title": "The Little Book of Generative AI Foundations: An Intuitive Mathematical Primer",
+     "source": "Hacker News",
+     "url": "https://arxiv.org/abs/2605.29713",
+     "published_at": 1793742053.0
+    }
+   ]
+  },
+  {
+   "text": "【ai】CrowdStrike said it will buy Fiddler AI, which makes AI agent observabil",
+   "keyword": "ai",
+   "news_ids": [
+    "a3aea40af4300a7a"
+   ],
+   "refs": [
+    {
+     "id": "a3aea40af4300a7a",
+     "title": "CrowdStrike to shell out nearly $500M for 2 AI security startups as the market for securing agents t",
+     "source": "TechCrunch",
+     "url": "https://techcrunch.com/2026/11/03/crowdstrike-to-shell-out-nearly-500m-for-2-ai-security-startups-as-the-market-for-securing-agents-takes-off/",
+     "published_at": 1793728612.0
+    }
+   ]
+  },
+  {
+   "text": "【苹果】IT之家 11 月 4 日闪讯速报，苹果推送首个 iOS 27.3 测试版",
+   "keyword": "苹果",
+   "news_ids": [
+    "499c00af524b9922"
+   ],
+   "refs": [
+    {
+     "id": "499c00af524b9922",
+     "title": "苹果推送首个 iOS 27.3 测试版",
+     "source": "IT之家",
+     "url": "https://www.ithome.com/1/021/859.htm",
+     "published_at": 1793729679.0
+    }
+   ]
+  },
+  {
+   "text": "【ai】Article URL: https://asia",
+   "keyword": "ai",
+   "news_ids": [
+    "065dbc8b77b67dbb"
+   ],
+   "refs": [
+    {
+     "id": "065dbc8b77b67dbb",
+     "title": "US tech giants' hidden AI debt swells 90% to $3.2T in 6 months",
+     "source": "Hacker News",
+     "url": "https://asia.nikkei.com/business/technology/artificial-intelligence/us-tech-giants-hidden-ai-debt-swells-90-to-3.2tn-in-6-months",
+     "published_at": 1793741204.0
+    }
+   ]
+  },
+  {
+   "text": "IT之家 11 月 4 日消息，全汉 (FSP) 昨日宣布推出 PC 电源 FSP1200-50ADA",
+   "keyword": "",
+   "news_ids": [
+    "c289e365aeec7ab2"
+   ],
+   "refs": [
+    {
+     "id": "c289e365aeec7ab2",
+     "title": "全汉推出 1200W 直出线金牌 ATX 电源 FSP1200-50ADA",
+     "source": "IT之家",
+     "url": "https://www.ithome.com/1/021/899.htm",
+     "published_at": 1793752865.0
+    }
+   ]
+  },
+  {
+   "text": "IT之家 11 月 4 日消息，工信部发布第 413 批《道路机动车辆生产企业及产品公告》新产品公示，宝马第八代 3 系长轴版申报",
+   "keyword": "",
+   "news_ids": [
+    "713e77904517c6f8"
+   ],
+   "refs": [
+    {
+     "id": "713e77904517c6f8",
+     "title": "宝马第八代 3 系长轴版申报：2.0T 动力加持，轴距比海外长了 110mm",
+     "source": "IT之家",
+     "url": "https://www.ithome.com/1/021/897.htm",
+     "published_at": 1793752657.0
+    }
+   ]
+  },
+  {
+   "text": "Article URL: https://aftershock",
+   "keyword": "",
+   "news_ids": [
+    "7711cde594315489"
+   ],
+   "refs": [
+    {
+     "id": "7711cde594315489",
+     "title": "People Against Genocide Smash Military Satellites on Balfour Anniversary",
+     "source": "Hacker News",
+     "url": "https://aftershock.media/military-satellites-balfour/",
+     "published_at": 1793751948.0
+    }
+   ]
+  },
+  {
+   "text": "IT之家 11 月 4 日消息，据央视新闻报道，当地时间 11 月 3 日起，墨西哥全国公立及私立中小学正式实施手机使用限制",
+   "keyword": "",
+   "news_ids": [
+    "2304296ec29f335a"
+   ],
+   "refs": [
+    {
+     "id": "2304296ec29f335a",
+     "title": "墨西哥全国中小学实施手机使用限制：上课、课间原则上不得使用个人电子设备",
+     "source": "IT之家",
+     "url": "https://www.ithome.com/1/021/896.htm",
+     "published_at": 1793751447.0
+    }
+   ]
+  },
+  {
+   "text": "IT之家 11 月 4 日消息，今年 10 月，OpenAI 在一间高管会议室发现了被人偷偷安装的录音设备",
+   "keyword": "",
+   "news_ids": [
+    "3ed605a06b84d295"
+   ],
+   "refs": [
+    {
+     "id": "3ed605a06b84d295",
+     "title": "OpenAI 高管会议室发现“窃听”设备后，知情人士称员工多年不断反映安全漏洞",
+     "source": "IT之家",
+     "url": "https://www.ithome.com/1/021/892.htm",
+     "published_at": 1793750432.0
+    }
+   ]
+  },
+  {
+   "text": "IT之家 11 月 4 日消息，11 月 3 日，仰望汽车宣布：仰望品牌海外首秀将于 11 月 6 日在阿联酋迪拜 举行，届时将举办两次活动： ",
+   "keyword": "",
+   "news_ids": [
+    "e36fdcb9c6513983"
+   ],
+   "refs": [
+    {
+     "id": "e36fdcb9c6513983",
+     "title": "比亚迪仰望品牌海外首秀定档 11 月 6 日，超豪华行政旗舰轿车鼎曜同步亮相",
+     "source": "IT之家",
+     "url": "https://www.ithome.com/1/021/890.htm",
+     "published_at": 1793748958.0
+    }
+   ]
+  },
+  {
+   "text": "IT之家 11 月 4 日消息，甲骨文联合创始人拉里 · 埃里森过去一年财富缩水 1,590 亿美元 （IT之家注：现汇率约合 1.06 万亿元",
+   "keyword": "",
+   "news_ids": [
+    "332b28de010d05e8"
+   ],
+   "refs": [
+    {
+     "id": "332b28de010d05e8",
+     "title": "甲骨文联合创始人拉里 · 埃里森过去一年财富缩水 1590 亿美元，个人身家几乎减半",
+     "source": "IT之家",
+     "url": "https://www.ithome.com/1/021/887.htm",
+     "published_at": 1793748349.0
+    }
+   ]
+  },
+  {
+   "text": "IT之家 11 月 4 日消息，据《商业内幕》今天（4 日）凌晨报道，OpenAI 挑战谷歌搜索现已“初见成效”",
+   "keyword": "",
+   "news_ids": [
+    "e7d00e7a007e5619"
+   ],
+   "refs": [
+    {
+     "id": "e7d00e7a007e5619",
+     "title": "OpenAI 证实：ChatGPT 搜索查询量已达谷歌 20%",
+     "source": "IT之家",
+     "url": "https://www.ithome.com/1/021/885.htm",
+     "published_at": 1793747783.0
+    }
+   ]
+  },
+  {
+   "text": "IT之家 11 月 4 日消息，在 2026 财年第三财季（2026 年 6 月 28 日～2026 年 9 月 26 日）财报电话会议上， A",
+   "keyword": "",
+   "news_ids": [
+    "c39381ea24f3ed5b"
+   ],
+   "refs": [
+    {
+     "id": "c39381ea24f3ed5b",
+     "title": "AMD 苏姿丰官宣 EPYC Venice 处理器已赚钱出货，首批 OEM 整机第四财季上市",
+     "source": "IT之家",
+     "url": "https://www.ithome.com/1/021/881.htm",
+     "published_at": 1793746303.0
+    }
+   ]
+  },
+  {
+   "text": "IT之家 11 月 4 日消息，币安（Binance）发布《初步调查结果与响应更新》，披露一起针对其钱包系统的多阶段、高度复杂攻击",
+   "keyword": "",
+   "news_ids": [
+    "4ed9fa47f94e85e6"
+   ],
+   "refs": [
+    {
+     "id": "4ed9fa47f94e85e6",
+     "title": "全球最大加密货币盗窃案：黑客假扮 HR 和 CEO 骗过员工，偷走币安 63.6 亿美元",
+     "source": "IT之家",
+     "url": "https://www.ithome.com/1/021/879.htm",
+     "published_at": 1793745679.0
+    }
+   ]
+  }
+ ],
+ "article": {
+  "title": "2026-11-04 新闻总结",
+  "paragraphs": [
+   {
+    "kind": "lead",
+    "text": "今天共收录 103 条新闻，来自 7 家媒体。把标题放在一起看，讨论主要集中在 AI、开发、测试 这几个方向上，其余消息更像是零散补充。"
+   },
+   {
+    "kind": "section",
+    "heading": "AI",
+    "text": "先看「AI」。苹果宣布进一步扩展Siri AI能力边界…，另有 34 条消息指向同一话题。这条消息短期内的实际影响可能有限，但它指向的方向值得放进观察名单。",
+    "news_ids": [
+     "8219b316ecdeae2c"
+    ],
+    "refs": [
+     {
+      "id": "8219b316ecdeae2c",
+      "title": "苹果向第三方应用全面开放Siri AI 开发者可打造跨应用智能代理",
+      "source": "cnBeta",
+      "url": "https://www.cnbeta.com.tw/articles/tech/1584928.htm",
+      "published_at": 1793743812.0
+     }
+    ]
+   },
+   {
+    "kind": "section",
+    "heading": "游戏",
+    "text": "与此同时「游戏」。IT之家 11 月 4 日消息，在微软 Xbox Nano 迷你手柄上市前夕，The Verge 挖出了一项尚未正式公布的隐藏功能，另有 13 条消息指向同一话题。技术路线的胜负很少由一次发布会决定，接下来要看的是它能不能被更多团队低成本复用。",
+    "news_ids": [
+     "de4f69813666714c"
+    ],
+    "refs": [
+     {
+      "id": "de4f69813666714c",
+      "title": "微软 329 元 Xbox Nano 迷你手柄今日开售：隐藏功能曝光，支持 Wi-Fi 直连云游戏平台",
+      "source": "IT之家",
+      "url": "https://www.ithome.com/1/021/882.htm",
+      "published_at": 1793746793.0
+     }
+    ]
+   },
+   {
+    "kind": "section",
+    "heading": "测试",
+    "text": "另一个值得注意的方向是「测试」。IT之家 11 月 4 日闪讯速报，另有 9 条消息指向同一话题。这条消息短期内的实际影响可能有限，但它指向的方向值得放进观察名单。",
+    "news_ids": [
+     "499c00af524b9922"
+    ],
+    "refs": [
+     {
+      "id": "499c00af524b9922",
+      "title": "苹果推送首个 iOS 27.3 测试版",
+      "source": "IT之家",
+      "url": "https://www.ithome.com/1/021/859.htm",
+      "published_at": 1793729679.0
+     }
+    ]
+   },
+   {
+    "kind": "section",
+    "heading": "推出",
+    "text": "相比之下「推出」。IT之家 11 月 4 日消息，全汉 (FSP) 昨日宣布推出 PC 电源 FSP1200-50ADA…。这类进展更像是把已有能力往工程化落地推了一步，真正的分水岭在于成本和可靠性能不能同时压下来。",
+    "news_ids": [
+     "c289e365aeec7ab2"
+    ],
+    "refs": [
+     {
+      "id": "c289e365aeec7ab2",
+      "title": "全汉推出 1200W 直出线金牌 ATX 电源 FSP1200-50ADA",
+      "source": "IT之家",
+      "url": "https://www.ithome.com/1/021/899.htm",
+      "published_at": 1793752865.0
+     }
+    ]
+   },
+   {
+    "kind": "glossary",
+    "items": [
+     {
+      "term": "AI",
+      "desc": "人工智能，让机器完成识别、生成、判断等原本需要人做的任务"
+     },
+     {
+      "term": "API",
+      "desc": "应用程序接口，让不同软件按约定好的方式互相调用"
+     }
+    ]
+   },
+   {
+    "kind": "outlook",
+    "text": "把这几条放在一起看，最值得跟踪的是 AI 和 开发 两条线：一条决定技术能走多远，一条决定它多快能落到普通人的日常里。至于其他消息，可以先放进观察名单，等后续有更实的进展再判断。"
+   }
+  ],
+  "word_count": 556
+ },
+ "ai_enhanced": false,
+ "schema": 1,
+ "window_bj": {
+  "start": "2026-11-04 00:00",
+  "end": "2026-11-04 09:00"
+ }
+}
