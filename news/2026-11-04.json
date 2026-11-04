@@ -1,6 +1,6 @@
 {
  "date": "2026-11-04",
- "generated_at": 1793811073.2054608,
+ "generated_at": 1793813419.048684,
  "count": 400,
  "items": [
   {
@@ -11,6 +11,15 @@
    "summary": "IT之家 11 月 4 日消息，微信鸿蒙版 App 今晚在华为应用市场（App Gallery）发布了 8.0.23.34 正式版更新。 和往常一样，本次更新的说明依旧为“修复了一些已知问题”。据用户反馈，8.0.23 版本的微信新增了如下特性： 部分 Flutter 跨端页面（如朋友圈、听一听、表情管理等页面）响应系统字体粗细； 更换铃声选择界面右上角新增铃声设置入口，支持启用或停用个性化内容推荐； 发表视频号内容时新增添加标注，视频号已发布的内容点击分享同步新增添加标注； 发现-直播-更多直播新增搜索按钮； 听一听主页面右下角新增小微分支入口浮动按钮，并根据当前页面内容弹出对应提示词，可快",
    "published_at": 1793807779.0,
    "published_bj": "2026-11-04 23:56"
+  },
+  {
+   "id": "578727cdc51fe504",
+   "source": "Solidot",
+   "title": "Firefox 测试迷你窗口功能",
+   "url": "https://www.solidot.org/story?sid=85796",
+   "summary": "Mozilla 正在新版 Firefox Nightly 中测试迷你窗口（Mini Window）功能。该功能类似视频画中画功能，将一个标签页作为独立窗口一直显示在当前标签页之上，这个窗口隐去了地址栏、各类控件、滚动条等常见标签页元素，但如果用户将鼠标悬停在迷你窗口内，各种标签页元素将会显示。迷你窗口方便用户在当前标签页上工作的同时参考迷你窗口的内容，免于在两个标签页之间反复切换。用户可以在专注于当前标签页的同时查看迷你窗口。",
+   "published_at": 1793807677.0,
+   "published_bj": "2026-11-04 23:54"
   },
   {
    "id": "c676f2295b84b2dc",
@@ -83,6 +92,15 @@
    "summary": "Article URL: https://huggingface.co/moonshotai/Kimi-K3.1-Pro Comments URL: https://news.ycombinator.com/item?id=50366999 Points: 29 # Comments: 1",
    "published_at": 1793806230.0,
    "published_bj": "2026-11-04 23:30"
+  },
+  {
+   "id": "7ab8f804310383e4",
+   "source": "Hacker News",
+   "title": "Rosalind Franklin figured out DNA's helical structure before Watson and Crick",
+   "url": "https://www.livescience.com/health/she-knew-she-had-something-really-important-on-her-hands-rosalind-franklin-figured-out-dnas-helical-structure-before-watson-and-crick-study-suggests",
+   "summary": "Article URL: https://www.livescience.com/health/she-knew-she-had-something-really-important-on-her-hands-rosalind-franklin-figured-out-dnas-helical-structure-before-watson-and-crick-study-suggests Comments URL: https://news.ycombinator.com/item?id=50366977 Points: 28 # Comments: 2",
+   "published_at": 1793806148.0,
+   "published_bj": "2026-11-04 23:29"
   },
   {
    "id": "db81495a8a789014",
@@ -3584,24 +3602,6 @@
    "summary": "Article URL: https://posthog.com/blog/comparison-content-guide Comments URL: https://news.ycombinator.com/item?id=50355365 Points: 3 # Comments: 0",
    "published_at": 1793728018.0,
    "published_bj": "2026-11-04 01:46"
-  },
-  {
-   "id": "5e3417d954c27304",
-   "source": "cnBeta",
-   "title": "Xbox Nano手柄隐藏云游戏功能 未来可直接通过Wi-Fi连接微软服务器",
-   "url": "https://www.cnbeta.com.tw/articles/game/1584906.htm",
-   "summary": "微软即将正式发售全新Xbox Nano迷你手柄，而在产品上市前夕，这款小巧设备的一项隐藏功能被曝光。最新消息显示，Xbox Nano不仅是一款便携式游戏手柄，还能够通过Wi-Fi直接连接Xbox Cloud Gaming云游戏平台，从而降低游戏延迟并提升云游戏体验。 阅读全文",
-   "published_at": 1793727943.0,
-   "published_bj": "2026-11-04 01:45"
-  },
-  {
-   "id": "3a2fc5156b9c160f",
-   "source": "Hacker News",
-   "title": "Qwen 3.8 27B on my laptop can interpret model weights, too",
-   "url": "https://simonwillison.net/2026/Nov/3/qwen-can-interpret-model-weights/",
-   "summary": "Article URL: https://simonwillison.net/2026/Nov/3/qwen-can-interpret-model-weights/ Comments URL: https://news.ycombinator.com/item?id=50355251 Points: 41 # Comments: 4",
-   "published_at": 1793727600.0,
-   "published_bj": "2026-11-04 01:40"
   }
  ]
 }

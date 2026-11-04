@@ -1,7 +1,7 @@
 {
  "date": "2026-11-05",
- "generated_at": 1793811073.203444,
- "count": 11,
+ "generated_at": 1793813419.0466785,
+ "count": 16,
  "items": [
   {
    "id": "35518c70f7be5eff",
@@ -49,6 +49,33 @@
    "published_bj": "2026-11-05 02:00"
   },
   {
+   "id": "31c3fbe8bf129ff2",
+   "source": "Hacker News",
+   "title": "Progress on provable inference for large language models",
+   "url": "https://www.anthropic.com/research/provable-inference",
+   "summary": "Article URL: https://www.anthropic.com/research/provable-inference Comments URL: https://news.ycombinator.com/item?id=50368626 Points: 15 # Comments: 2",
+   "published_at": 1793812666.0,
+   "published_bj": "2026-11-05 01:17"
+  },
+  {
+   "id": "53050d172e1cb00e",
+   "source": "TechCrunch",
+   "title": "Sequoia hits rewind, undoing 20 years of expansion",
+   "url": "https://techcrunch.com/2026/11/04/sequoia-hits-rewind-undoing-20-years-of-expansion/",
+   "summary": "Sequoia is consolidating into a smaller, Bay Area–centered firm, shutting down the programs and offices it built during a 20-year expansion while announcing roughly $10 billion in new funds.",
+   "published_at": 1793812275.0,
+   "published_bj": "2026-11-05 01:11"
+  },
+  {
+   "id": "197e470cb60899b0",
+   "source": "Hacker News",
+   "title": "An end to buggy web apps",
+   "url": "https://replay.io/blog/an-end-to-buggy-web-apps",
+   "summary": "Article URL: https://replay.io/blog/an-end-to-buggy-web-apps Comments URL: https://news.ycombinator.com/item?id=50368439 Points: 17 # Comments: 5",
+   "published_at": 1793811704.0,
+   "published_bj": "2026-11-05 01:01"
+  },
+  {
    "id": "d7301e1fb7e97365",
    "source": "InfoQ中文",
    "title": "Harbor 新增 Docker Sandboxes 支持，可在隔离的 MicroVM 中运行可重现的 AI 代理评估",
@@ -56,6 +83,15 @@
    "summary": "点击查看原文>",
    "published_at": 1793811600.0,
    "published_bj": "2026-11-05 01:00"
+  },
+  {
+   "id": "b04d1389301ad320",
+   "source": "TechCrunch",
+   "title": "I tried Apple’s Siri Recaps. They’re surprisingly useful — and a little unsettling",
+   "url": "https://techcrunch.com/2026/11/04/i-tried-apples-siri-recaps-theyre-surprisingly-useful-and-a-little-unsettling/",
+   "summary": "Apple's AI-powered Siri Recaps won me over in just one day, despite my privacy reservations. But there's still room for improvement.",
+   "published_at": 1793811095.0,
+   "published_bj": "2026-11-05 00:51"
   },
   {
    "id": "2ebd61bc695e0719",
@@ -101,6 +137,15 @@
    "summary": "Article URL: https://www.theguardian.com/business/2026/nov/04/what-can-save-the-british-high-street-rotherham Comments URL: https://news.ycombinator.com/item?id=50367653 Points: 11 # Comments: 3",
    "published_at": 1793808693.0,
    "published_bj": "2026-11-05 00:11"
+  },
+  {
+   "id": "7946d8fb152569fd",
+   "source": "Solidot",
+   "title": "法国银行被盗走 1.18 亿欧元",
+   "url": "https://www.solidot.org/story?sid=85797",
+   "summary": "法国国民互助信贷银行（Crédit Mutuel Arkéa）被黑客通过欺诈性交易盗走 1.18 亿欧元。被盗走的钱随后被转移到多个加密货币账号。该银行证实遭到网络攻击，但尚未证实 1.18 亿欧元的数字，只是表示攻击已得到控制，客户不会遭受任何经济损失。国民互助信贷银行暂停了其应用的部分转账功能。",
+   "published_at": 1793808164.0,
+   "published_bj": "2026-11-05 00:02"
   }
  ]
 }
