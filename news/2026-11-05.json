@@ -1,8 +1,53 @@
 {
  "date": "2026-11-05",
- "generated_at": 1793831161.9175534,
- "count": 57,
+ "generated_at": 1793834611.2376156,
+ "count": 65,
  "items": [
+  {
+   "id": "b42debfa21fe7c6d",
+   "source": "Hacker News",
+   "title": "Successful People (2013)",
+   "url": "https://blog.samaltman.com/successful-people",
+   "summary": "Article URL: https://blog.samaltman.com/successful-people Comments URL: https://news.ycombinator.com/item?id=50372660 Points: 5 # Comments: 4",
+   "published_at": 1793833279.0,
+   "published_bj": "2026-11-05 07:01"
+  },
+  {
+   "id": "bfa8339addf71609",
+   "source": "TechCrunch",
+   "title": "AI PACs spent millions trying to shape Congress — here’s how they fared",
+   "url": "https://techcrunch.com/2026/11/04/ai-pacs-spent-millions-trying-to-shape-congress-heres-how-they-fared/",
+   "summary": "AI industry PACs spent millions influencing the 2026 midterms, with mixed results. Political groups are already looking toward the next election cycle.",
+   "published_at": 1793832309.0,
+   "published_bj": "2026-11-05 06:45"
+  },
+  {
+   "id": "4579e764963939ef",
+   "source": "cnBeta",
+   "title": "​OpenAI提前布局2028美国大选议题 力推“AI新政”",
+   "url": "https://www.cnbeta.com.tw/articles/tech/1585066.htm",
+   "summary": "距离2028年美国总统大选还有两年时间，但OpenAI已经开始试图影响这场选举中有关人工智能的讨论方向。公司全球事务主管克里斯·莱哈恩近日公开表示，人工智能可能成为2028年美国大选最具决定性的议题之一，并呼吁政界人士尽快建立一套能够回应公众担忧的AI政策框架。 阅读全文",
+   "published_at": 1793831413.0,
+   "published_bj": "2026-11-05 06:30"
+  },
+  {
+   "id": "d49f30cbe6e36f45",
+   "source": "Hacker News",
+   "title": "Less Popular Than Coal",
+   "url": "https://www.argmin.net/p/less-popular-than-coal",
+   "summary": "Article URL: https://www.argmin.net/p/less-popular-than-coal Comments URL: https://news.ycombinator.com/item?id=50372360 Points: 6 # Comments: 1",
+   "published_at": 1793831184.0,
+   "published_bj": "2026-11-05 06:26"
+  },
+  {
+   "id": "5202eb8a185b1be4",
+   "source": "Hacker News",
+   "title": "Ask HN: What your experience with the monthly \"who wants to be hired\" thread?",
+   "url": "https://news.ycombinator.com/item?id=50372294",
+   "summary": "I recently commented on the \"who wants to be hired\" this month and so far have only received spam. Has anyone had any success with this, or is it just a way to subscribe to junk mail and automated marketing? Comments URL: https://news.ycombinator.com/item?id=50372294 Points: 32 # Comments: 21",
+   "published_at": 1793830701.0,
+   "published_bj": "2026-11-05 06:18"
+  },
   {
    "id": "cb7ff0f122f8bdea",
    "source": "TechCrunch",
@@ -94,6 +139,15 @@
    "published_bj": "2026-11-05 05:05"
   },
   {
+   "id": "98d001c3b46ee1f6",
+   "source": "Hacker News",
+   "title": "Death Comes for XSLT",
+   "url": "https://dbushell.com/2026/11/03/xslt-rip/",
+   "summary": "Article URL: https://dbushell.com/2026/11/03/xslt-rip/ Comments URL: https://news.ycombinator.com/item?id=50371408 Points: 7 # Comments: 0",
+   "published_at": 1793825830.0,
+   "published_bj": "2026-11-05 04:57"
+  },
+  {
    "id": "eea817b9af99056c",
    "source": "Hacker News",
    "title": "AR guitar with just a laptop and scissors",
@@ -128,6 +182,15 @@
    "summary": "The web host said hackers exploited a vulnerability to access customer emails and files during a \"deliberate attack.\"",
    "published_at": 1793824617.0,
    "published_bj": "2026-11-05 04:36"
+  },
+  {
+   "id": "cf606f2628877675",
+   "source": "Hacker News",
+   "title": "Show HN: Gauge – Open-Source CLI to recursively improve your docs",
+   "url": "https://github.com/gauge-sh/gauge-cli",
+   "summary": "Hi HN, I’m Evan from Gauge. We’re open-sourcing our CLI to recursively improve your docs for coding agents. The CLI includes a local execution backend, so you don't need an account to try it. Explainer video here: https://youtu.be/zhLUlIKB1Mg The CLI supports a hillclimbing loop: - set up tasks for ",
+   "published_at": 1793824290.0,
+   "published_bj": "2026-11-05 04:31"
   },
   {
    "id": "afa9fae6ea27073e",
@@ -308,6 +371,15 @@
    "summary": "Article URL: https://news.cornell.edu/stories/2026/11/wild-mild-friendly-foxes-show-changes-brain-region Comments URL: https://news.ycombinator.com/item?id=50369527 Points: 13 # Comments: 2",
    "published_at": 1793816656.0,
    "published_bj": "2026-11-05 02:24"
+  },
+  {
+   "id": "6b829c4ad0c79b8f",
+   "source": "Hacker News",
+   "title": "Conductor is joining Meta",
+   "url": "https://www.conductor.build/announcement",
+   "summary": "Article URL: https://www.conductor.build/announcement Comments URL: https://news.ycombinator.com/item?id=50369503 Points: 71 # Comments: 127",
+   "published_at": 1793816560.0,
+   "published_bj": "2026-11-05 02:22"
   },
   {
    "id": "b10efb625d2f7d24",
