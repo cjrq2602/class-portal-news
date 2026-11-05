@@ -1,8 +1,17 @@
 {
  "date": "2026-11-05",
- "generated_at": 1793846025.4339087,
- "count": 140,
+ "generated_at": 1793849334.7218711,
+ "count": 154,
  "items": [
+  {
+   "id": "1b1d281c649a0108",
+   "source": "InfoQ中文",
+   "title": "谷歌用 Gemini 4 Argon 一夜优化 ADK 代码库的 20 万行代码",
+   "url": "https://www.infoq.cn/article/u4fAoAH5vZPCV4TVqAcO?utm_source=rss&utm_medium=article",
+   "summary": "点击查看原文>",
+   "published_at": 1793876400.0,
+   "published_bj": "2026-11-05 19:00"
+  },
   {
    "id": "1d25033e12720f1c",
    "source": "InfoQ中文",
@@ -29,6 +38,123 @@
    "summary": "点击查看原文>",
    "published_at": 1793869200.0,
    "published_bj": "2026-11-05 17:00"
+  },
+  {
+   "id": "0a8a6503616e5949",
+   "source": "IT之家",
+   "title": "小米多款新机通过 SRRC 认证，预计明年年初发布",
+   "url": "https://www.ithome.com/1/022/576.htm",
+   "summary": "IT之家 11 月 5 日消息，型号为 M016EB、M841EE、M077CE、M540BF 的小米新机已于昨日通过 SRRC 认证，博主 @体验more 确认这批新机将于明年年初发布。 从认证信息来看，这四款新机支持小米自家端侧大模型，备案编号为： Beijing-XiaoAiTongXueAIZhuShou-20240102 、 Beijing-XiaoMi-202404280002、 Beijing-XiaoMiPengPaiShiJue-202503180057 、 Beijing-XiaoMiPengPaiGanZhi-202507250109 、 Beijing-XiaomiMi",
+   "published_at": 1793849182.0,
+   "published_bj": "2026-11-05 11:26"
+  },
+  {
+   "id": "58badff146f0ef32",
+   "source": "IT之家",
+   "title": "AI 抢走产能，任天堂实体游戏卡带供应链告急",
+   "url": "https://www.ithome.com/1/022/574.htm",
+   "summary": "IT之家 11 月 5 日消息，科技媒体 Ars Technica 昨日（11 月 4 日）发布博文，报道称由于 AI 抢走产能， 任天堂实体游戏卡带的核心零部件正遭遇罕见供应压力。 任天堂实体卡带的主要 ROM 存储芯片供应商旺宏电子（Macronix）第三季度（2026 年 7 月 1 日至 2026 年 9 月 30 日）财报中， 其 ROM 芯片生产“已告一段落”，并将逐步退出游戏产业。 旺宏电子称，过去一年其 ROM 芯片产量下降约 39%，目前仅占公司业务的 5%；相比之下，NOR 闪存、NAND 闪存和 eMMC 等芯片利润更高、需求更旺，正在挤占 ROM 芯片的晶圆产能。IT之",
+   "published_at": 1793849067.0,
+   "published_bj": "2026-11-05 11:24"
+  },
+  {
+   "id": "ef6a6099fc3669e8",
+   "source": "IT之家",
+   "title": "Kimi Hosted Agents 托管智能体发布，将 Harness 作为云端服务提供",
+   "url": "https://www.ithome.com/1/022/572.htm",
+   "summary": "IT之家 11 月 5 日消息，Kimi 今日宣布推出 Kimi Hosted Agents（托管智能体） ，将支撑 Agent 运行的 Harness 作为云端服务提供（Harness as a Service）。 企业和开发者无需自行搭建和维护运行框架， 即可获得 7×24 小时的托管环境 ，支持长程任务执行与多智能体高效协作。 企业可以按需配置 Agent，快速构建两类业务应用： 面向内部业务 ：集成到企业内部系统，提供业务监控、运维响应等任务。 面向产品用户 ：嵌入企业对外提供的产品，提供 App 内的投研助手、客服助手等 Agent 服务。 为保障 Agent 安全可控地运行， Ki",
+   "published_at": 1793848517.0,
+   "published_bj": "2026-11-05 11:15"
+  },
+  {
+   "id": "004898de6e0deed6",
+   "source": "IT之家",
+   "title": "消息称某厂子系 2nm 旗舰测试 50Mp 中底潜望镜，预计小米 REDMI 旗下",
+   "url": "https://www.ithome.com/1/022/571.htm",
+   "summary": "IT之家 11 月 5 日消息，据博主 @数码闲聊站 今日爆料，某厂子系 2nm 旗舰新机的潜望镜测试 50Mp 1/1.95 英寸中底传感器， 支持 3X± 光变 。结合该博主此前的爆料习惯，预计该机为小米 REDMI 旗下。 目前，这款新机的具体型号还未知。该博主此前曾爆料，某厂子系测试了 4 台 7 英寸大屏 + 万级大电池，包含有 2nm 旗舰机，预计明年上半年都能见到。当时，外界同样推测该机为小米 REDMI 旗下。 ▲ IT之家开箱： REDMI K100 Pro 系列图赏 作为参考， 小米现款 REDMI K100 系列手机发布于今年 8 月 。其中 Pro Max 机型采用 6",
+   "published_at": 1793848413.0,
+   "published_bj": "2026-11-05 11:13"
+  },
+  {
+   "id": "a2e6684ac7aa9ae4",
+   "source": "IT之家",
+   "title": "博通 VMware 推新套餐挽回中小企业：最高 128 核虚拟化方案",
+   "url": "https://www.ithome.com/1/022/570.htm",
+   "summary": "IT之家 11 月 5 日消息，科技媒体 The Register 今天（11 月 5 日）发布博文， 报道称博通（Broadcom）旗下 VMware 面向中小企业，推出入门级虚拟化产品 vSphere Express，试图挽回因高端产品定价过高而流失的低端客户。 该媒体指出 VMware 在被博通收购后，此前不少中小企业抱怨其过度推销旗舰私有云套件 VMware Cloud Foundation（VCF）。该媒体称 VCF 功能庞大但价格昂贵，而传统入门产品 vSphere Standard 又逐步退出销售，令预算有限的用户陷入两难。 VMware 高管表示，vSphere Express",
+   "published_at": 1793848262.0,
+   "published_bj": "2026-11-05 11:11"
+  },
+  {
+   "id": "74c8a8e3c745f176",
+   "source": "IT之家",
+   "title": "微星推出 MAG 256QR36 显示器：24.5\" WQHD 360Hz Rapid IPS，HDR400",
+   "url": "https://www.ithome.com/1/022/562.htm",
+   "summary": "IT之家 11 月 5 日消息，微星 (MSI) 现已推出 MAG 256QR36 显示器。这一型号基于 Rapid IPS LCD 面板，具备 WQHD (2560×1400) 分辨率、360Hz 刷新率， 获得 VESA DisplayHDR 400 认证 。 MAG 256QR36 亮度 500nits ，静态对比度 1000:1；GtG 响应时间 0.5ms、MPRT 响应时间 1ms；色深 8bit + FRC， 色域 92% Adobe RGB / 93% DCI-P3 。 其支持 VRR 可变刷新率；集成 HDMI CEC 技术，提供主机模式；拥有 2 个 DisplayPort",
+   "published_at": 1793848007.0,
+   "published_bj": "2026-11-05 11:06"
+  },
+  {
+   "id": "946b11f11fcd3cd4",
+   "source": "IT之家",
+   "title": "思锐推出 999 元 AF40mm F2.2 和 AF20mm F2.4 全画幅自动对焦镜头，适配索尼 E 和 L 卡口",
+   "url": "https://www.ithome.com/1/022/553.htm",
+   "summary": "IT之家 11 月 5 日消息，思锐光学今日宣布推出 AF40mm F2.2 和 AF20mm F2.4 全画幅自动对焦镜头新品，仅售 999 元，提供索尼 E 和 L 卡口版本。 其中，40mm F2.2 镜头采用 8 组 11 片结构、9 片光圈叶片，仅重 210 克，最近对焦距离 0.4 米，配备 STM 步进对焦马达，采用 58mm 滤镜接口。 IT之家注意到，20mm F2.4 镜头采用 9 组 11 片结构、9 片光圈叶片，仅重 209 克，最近对焦距离 0.2 米，配备 STM 步进对焦马达，采用 58mm 滤镜。 京东 思锐（SIRUI）灵动系列镜头 20mmF2.4 全画幅自",
+   "published_at": 1793847645.0,
+   "published_bj": "2026-11-05 11:00"
+  },
+  {
+   "id": "aa01a81b11bb1d4d",
+   "source": "IT之家",
+   "title": "摩托罗拉 moto one 手机曝光：高通第五代骁龙 8 芯片，12GB 内存",
+   "url": "https://www.ithome.com/1/022/552.htm",
+   "summary": "IT之家 11 月 5 日消息，科技媒体 GSMArena 昨日（11 月 4 日）发布博文， 报道称基于无线充电联盟（WPC）最新认证信息，摩托罗拉正在筹备一款 One 系列智能手机。 认证信息显示，这款机型以“moto one”名义通过 Qi 认证，型号为 XT2771-1，并支持最高 15W 的 Qi 无线充电。认证页面还首次展示了该机的外观设计，但官方尚未确认其最终命名与上市信息。 性能方面，XT2771-1 已在 Geekbench 数据库中出现四条测试记录。综合信息显示，这款手机预计搭载高通第五代骁龙 8 芯片，配备 12GB 内存，并预装 Android 16。 其目前记录到的最",
+   "published_at": 1793847342.0,
+   "published_bj": "2026-11-05 10:55"
+  },
+  {
+   "id": "44d38d746a1b72df",
+   "source": "IT之家",
+   "title": "国铁集团：Z、N、V 字头普速旅客列车 11 月 25 日发行，首批车票 11 月 11 日起发售",
+   "url": "https://www.ithome.com/1/022/551.htm",
+   "summary": "IT之家 11 月 5 日消息，据国铁集团官方，全国铁路列车车次编排改革顺利推进，第一批车次变更即将实施， 11 月 25 日 0 时起始发开行的普速旅客列车、11 月 24 日 18 时起始发开行的货物列车将正式启用新车次 ，按照 2026 版《列车车次编排规定》，普速旅客列车使用 Z、N、V 字头字母，普速旅游列车使用 Y 字头字母，货运班列使用 B 字头字母，采用无字头字母编排方式的其他货物列车、路用列车车次相应进行了优化调整，共涉及客货列车 4700 余列。 变更后，新车次列车的开行区段、运行时刻基本保持不变， 第一批实行新车次的列车车票将于 11 月 11 日起陆续发售 ，其中试点预",
+   "published_at": 1793847075.0,
+   "published_bj": "2026-11-05 10:51"
+  },
+  {
+   "id": "36d4bb337783ed48",
+   "source": "IT之家",
+   "title": "“超人”卡维尔自己玩“CGI 剃胡子”梗，借助谷歌 Googlebook 笔记本 AI 开发游戏《胡子协议》",
+   "url": "https://www.ithome.com/1/022/550.htm",
+   "summary": "IT之家 11 月 5 日消息，科技媒体 Android Authority 昨日（11 月 4 日）发布博文，报道称谷歌携手演员亨利 · 卡维尔（Henry Cavill）合作， 官宣一款直接在 Googlebook 上制作的 16 位横版卷轴游戏《胡子协议》（Mustache Protocol）。 IT之家曾于 10 月 1 日报道，卡维尔与谷歌（Google）达成合作，使用谷歌新款笔记本电脑 Googlebook 开发一款电子游戏，而官方昨日正式公布该游戏的名称和风格。 卡维尔于 1983 年 5 月在英国出生，2013 年主演的《超人：钢铁之躯》上映，成为首位在银幕上塑造这一英雄形象的",
+   "published_at": 1793846953.0,
+   "published_bj": "2026-11-05 10:49"
+  },
+  {
+   "id": "326b9a7c0f5f244a",
+   "source": "IT之家",
+   "title": "洛斐推出小顺青春版 2 机械键盘：矮轴三模，84 / 100 版本",
+   "url": "https://www.ithome.com/1/022/548.htm",
+   "summary": "IT之家 11 月 5 日消息，洛斐 (Lofree) 现已面向海外市场推出小顺青春版 2 (Flow Lite 2) 机械键盘。这一产品采用极简风格设计， 基于凯华定制 Echo 矮轴 ，支持三模连接，可选 84 (75%) 和 100 (96%) 两种布局。 小顺青春版 2 拥有流线型 ABS 机身， 集成显示电量与连接状态的屏幕 ，配备 PBT 材质键帽，支持 0° / 8° 两档倾角。其内部采用 Gasket 结构，集成 1.2mm 开槽 PCB、3mm 隔音泡棉、100hr 续航 3000mAh 电池。 Echo 矮轴属于线性手感类型，采用全 POM 材质，拥有透明上盖， 触发力度 ",
+   "published_at": 1793846572.0,
+   "published_bj": "2026-11-05 10:42"
+  },
+  {
+   "id": "6f0ab1107a465e84",
+   "source": "IT之家",
+   "title": "五菱星光 L 五座版汽车通过工信部申报",
+   "url": "https://www.ithome.com/1/022/547.htm",
+   "summary": "IT之家 11 月 5 日消息，工信部 11 月 3 日晚发布第 413 批《道路机动车辆生产企业及产品公告》变更扩展产品公示，五菱星光 L 汽车的五座版进行了申报。 该车的型号为 LZW6502KBUPHEVA2， 额定载客含驾驶员座位数由 6 改为了 6,5 ，也就是可选六座和五座版本。 五菱星光 L 的六座版于今年 7 月上市 ，权益价区间为 10.98 万元-13.28 万元。该车定位中大型 SUV，长宽高分别为 4980/1930/1760mm，轴距 2950mm。 该车在 CLTC 工况下的纯电续航里程可达 260 公里，满油满电综合续航为 1260 公里，馈电油耗可低至 4.9L",
+   "published_at": 1793846556.0,
+   "published_bj": "2026-11-05 10:42"
+  },
+  {
+   "id": "035245ea2af38713",
+   "source": "IT之家",
+   "title": "比亚迪与 vivo 达成战略合作，实现 AI 智能体跨端融合",
+   "url": "https://www.ithome.com/1/022/545.htm",
+   "summary": "IT之家 11 月 5 日消息，比亚迪今日官宣与 vivo 达成战略合作，实现 AI 智能体跨端融合，共建智慧出行新生态。 vivo 官方也公布了这一消息：“自 2019 年起，双方持续深耕手车互联、智能进入等方向，积累了丰硕成果。依托长期深度互信与技术积累， 未来将深化智能终端与新能源汽车的生态协同 ，推动‘手车互联’迈向‘手车互融’，为全球用户打造无缝流转、安全便捷的智慧出行体验。” IT之家注意到，早在去年 8 月，vivo OriginOS 原系统便宣布比亚迪手车互联全量上线， 支持手机镜像投屏至车机 。",
+   "published_at": 1793846386.0,
+   "published_bj": "2026-11-05 10:39"
   },
   {
    "id": "fced4d1d6ccb4482",
