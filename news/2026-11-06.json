@@ -1,8 +1,44 @@
 {
  "date": "2026-11-06",
- "generated_at": 1793911298.7992587,
- "count": 52,
+ "generated_at": 1793914775.8515007,
+ "count": 59,
  "items": [
+  {
+   "id": "b68ee1e85ec317ed",
+   "source": "TechCrunch",
+   "title": "Serve Robotics launches new business to become the AWS for robots",
+   "url": "https://techcrunch.com/2026/11/05/serve-robotics-launches-new-business-to-become-the-aws-for-robots/",
+   "summary": "Serve Robotics announced alonsgside its third-quarter earnings that it will launch a new business line called Physical AI Services to offer customers its connectivity and data tools.",
+   "published_at": 1793913300.0,
+   "published_bj": "2026-11-06 05:15"
+  },
+  {
+   "id": "cf7ded72432d0cee",
+   "source": "cnBeta",
+   "title": "任天堂称暂无再次上调Switch 2售价计划 但将持续关注市场环境",
+   "url": "https://www.cnbeta.com.tw/articles/game/1585196.htm",
+   "summary": "任天堂表示，目前没有进一步提高Switch 2售价的计划。尽管全球经济环境、汇率波动以及零部件成本变化仍给硬件业务带来压力，但公司认为现阶段的定价策略能够维持产品竞争力，并满足市场需求。 阅读全文",
+   "published_at": 1793912503.0,
+   "published_bj": "2026-11-06 05:01"
+  },
+  {
+   "id": "8b2afb7b4033b100",
+   "source": "Hacker News",
+   "title": "Chip stocks get slaughtered as Wall Street in worst post-midterm day since 1896",
+   "url": "https://finance.yahoo.com/markets/article/chip-stocks-get-slaughtered-as-wall-street-heads-for-its-worst-post-midterm-day-since-1896-163413900.html",
+   "summary": "Article URL: https://finance.yahoo.com/markets/article/chip-stocks-get-slaughtered-as-wall-street-heads-for-its-worst-post-midterm-day-since-1896-163413900.html Comments URL: https://news.ycombinator.com/item?id=50384382 Points: 10 # Comments: 0",
+   "published_at": 1793912316.0,
+   "published_bj": "2026-11-06 04:58"
+  },
+  {
+   "id": "5b84adde5bce73bd",
+   "source": "Hacker News",
+   "title": "MS Paint Remote Code Execution Vulnerability",
+   "url": "https://www.cve.org/CVERecord?id=CVE-2026-83844",
+   "summary": "Article URL: https://www.cve.org/CVERecord?id=CVE-2026-83844 Comments URL: https://news.ycombinator.com/item?id=50384233 Points: 34 # Comments: 13",
+   "published_at": 1793911422.0,
+   "published_bj": "2026-11-06 04:43"
+  },
   {
    "id": "e626fa9176036be8",
    "source": "cnBeta",
@@ -11,6 +47,33 @@
    "summary": "索尼确认，下一代PlayStation游戏主机的开发工作目前仍按计划推进。尽管全球存储器市场持续面临供应紧张和价格上涨等挑战，公司表示PS6项目进度未受到明显影响，并计划自下一财年开始进一步加大对新平台的投入。 阅读全文",
    "published_at": 1793910713.0,
    "published_bj": "2026-11-06 04:31"
+  },
+  {
+   "id": "7e1408f96730b235",
+   "source": "Hacker News",
+   "title": "Tencent Launches Hy4, One of the Leading Open-Source AI Models",
+   "url": "https://www.tencent.com/tencent-launches-hy4-joining-the-ranks-of-the-worlds-leading-open-source-ai-models/",
+   "summary": "Article URL: https://www.tencent.com/tencent-launches-hy4-joining-the-ranks-of-the-worlds-leading-open-source-ai-models/ Comments URL: https://news.ycombinator.com/item?id=50383963 Points: 25 # Comments: 1",
+   "published_at": 1793910103.0,
+   "published_bj": "2026-11-06 04:21"
+  },
+  {
+   "id": "7d564a1c60ef1c1c",
+   "source": "Hacker News",
+   "title": "The Cost of Blogging",
+   "url": "https://onlinegoddess.net/2026/11/the-cost-of-blogging/",
+   "summary": "Article URL: https://onlinegoddess.net/2026/11/the-cost-of-blogging/ Comments URL: https://news.ycombinator.com/item?id=50383877 Points: 16 # Comments: 2",
+   "published_at": 1793909665.0,
+   "published_bj": "2026-11-06 04:14"
+  },
+  {
+   "id": "1efcda067509d58d",
+   "source": "Hacker News",
+   "title": "Kagi Search for Everyone",
+   "url": "https://kagi.com/changelog",
+   "summary": "Article URL: https://kagi.com/changelog Comments URL: https://news.ycombinator.com/item?id=50383740 Points: 102 # Comments: 47",
+   "published_at": 1793909014.0,
+   "published_bj": "2026-11-06 04:03"
   },
   {
    "id": "9af0ecf4fea45e52",
