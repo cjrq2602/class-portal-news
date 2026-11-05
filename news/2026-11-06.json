@@ -1,8 +1,98 @@
 {
  "date": "2026-11-06",
- "generated_at": 1793904399.8089485,
- "count": 31,
+ "generated_at": 1793908015.9044929,
+ "count": 46,
  "items": [
+  {
+   "id": "f7f4756549f049b6",
+   "source": "cnBeta",
+   "title": "Meta为Muse AI助手加入实时语音对话和会动的虚拟形象",
+   "url": "https://www.cnbeta.com.tw/articles/tech/1585192.htm",
+   "summary": "Meta宣布，Muse AI助手现已支持实时语音交流，并会在对话时通过虚拟形象的表情和动作回应用户。功能从美国开始陆续向Muse应用推出，覆盖手机、网页和Mac端；用户可选择只听语音、让头像与聊天内容并列显示，或切换到全屏面对面交谈。 阅读全文",
+   "published_at": 1793907564.0,
+   "published_bj": "2026-11-06 03:39"
+  },
+  {
+   "id": "9219a6174681a751",
+   "source": "cnBeta",
+   "title": "摩托罗拉发布Signature 27旗舰机 12000尼特屏幕加上7000mAh电池冲击高端市场",
+   "url": "https://www.cnbeta.com.tw/articles/tech/1585190.htm",
+   "summary": "摩托罗拉正式发布全新旗舰智能手机Signature 27。这款新机采用传统直板设计而非当前流行的折叠形态，但其售价却直接跻身超高端市场。公司希望借助这款产品重新定义旗舰手机标准，并向三星、苹果等高端品牌发起正面挑战。 阅读全文",
+   "published_at": 1793907537.0,
+   "published_bj": "2026-11-06 03:38"
+  },
+  {
+   "id": "23501a54beff750e",
+   "source": "cnBeta",
+   "title": "中国AI需求旺盛却迟迟未放开大规模进口 60万颗英伟达H200滞留香港",
+   "url": "https://www.cnbeta.com.tw/articles/tech/1585188.htm",
+   "summary": "在人工智能算力需求持续激增的背景下，大批英伟达先进AI芯片正滞留香港等待进入中国内地。知情人士透露，约60万颗英伟达H200人工智能芯片目前储存在香港仓库中，但由于相关进口审批尚未获批，这批芯片迟迟无法大规模进入中国市场。 阅读全文",
+   "published_at": 1793907447.0,
+   "published_bj": "2026-11-06 03:37"
+  },
+  {
+   "id": "cf0548ae53073efe",
+   "source": "cnBeta",
+   "title": "Anthropic推出个人理财工具 Claude可直接分析用户消费记录",
+   "url": "https://www.cnbeta.com.tw/articles/tech/1585186.htm",
+   "summary": "人工智能公司Anthropic宣布，为旗下AI助手Claude推出全新“Personal Finance（个人理财）”功能，帮助用户更直观地了解自身财务状况。通过这一工具，用户可将银行账户和信用卡账户接入Claude，并直接以自然语言询问各类财务问题。 阅读全文",
+   "published_at": 1793907395.0,
+   "published_bj": "2026-11-06 03:36"
+  },
+  {
+   "id": "778baca56c1fbc05",
+   "source": "cnBeta",
+   "title": "美国警告冷链系统正遭持续网络攻击：超市、血库及军事冷冻设备成为黑客目标",
+   "url": "https://www.cnbeta.com.tw/articles/tech/1585184.htm",
+   "summary": "美国政府近日发布安全警报称，工业制冷设备正面临“持续性的网络威胁”。这一警告发布之际，全球多地接连出现针对冷冻柜、冷藏设备和冷链监控系统的大规模网络攻击事件，受影响范围已经涉及超市、冷库、血液储存机构以及美国军事基地。 阅读全文",
+   "published_at": 1793907349.0,
+   "published_bj": "2026-11-06 03:35"
+  },
+  {
+   "id": "b2280f09920cd700",
+   "source": "cnBeta",
+   "title": "Meta警告数据中心建设阻力上升 政治反弹或影响AI未来扩张计划",
+   "url": "https://www.cnbeta.com.tw/articles/tech/1585182.htm",
+   "summary": "Meta高管日前表示，美国中期选举中围绕数据中心建设的争议正在加剧，这种政治层面的反弹情绪可能令未来人工智能基础设施扩张变得更加困难。公司担心，越来越多针对数据中心的大型项目正面临来自社区和政治层面的审查压力。 阅读全文",
+   "published_at": 1793907288.0,
+   "published_bj": "2026-11-06 03:34"
+  },
+  {
+   "id": "1251e99b5a70ec61",
+   "source": "cnBeta",
+   "title": "微软推出全新Xbox PC应用：启动速度最高提升60% 云游戏体验同步升级",
+   "url": "https://www.cnbeta.com.tw/articles/game/1585180.htm",
+   "summary": "微软日前正式发布重新设计的Xbox PC应用，并开始向Xbox Insider测试用户推送更新。此次改版不仅带来了全新的界面设计，还重点提升了性能表现。根据微软公布的数据，新版应用启动速度最高提升60%，旨在为Windows玩家提供更加流畅、简洁和统一的Xbox体验。 阅读全文",
+   "published_at": 1793907195.0,
+   "published_bj": "2026-11-06 03:33"
+  },
+  {
+   "id": "e821a1ee058d3656",
+   "source": "cnBeta",
+   "title": "全球DRAM市场第三季度收入暴增369% AI浪潮推动存储产业进入新周期",
+   "url": "https://www.cnbeta.com.tw/articles/tech/1585178.htm",
+   "summary": "市场研究机构Counterpoint Research最新数据显示，在人工智能基础设施建设热潮推动下，全球DRAM市场于2026年第三季度实现收入同比增长369%。随着AI加速器和数据中心对高性能内存需求持续攀升，DRAM平均销售价格（ASP）已达到每Gb 1.9美元水平。 阅读全文",
+   "published_at": 1793907125.0,
+   "published_bj": "2026-11-06 03:32"
+  },
+  {
+   "id": "6dc25ed1b27294ee",
+   "source": "cnBeta",
+   "title": "IT技术太烂，日本正在被黑客们当怪刷……",
+   "url": "https://www.cnbeta.com.tw/articles/tech/1585176.htm",
+   "summary": "“ 黑日本公司，已经成一项运动了” 前几天，Reddit 上有个老哥发了这么一句感慨。起因是他刷到一页日本新闻，全都是“XX 公司被黑客攻击，数据可能泄露”。 阅读全文",
+   "published_at": 1793906770.0,
+   "published_bj": "2026-11-06 03:26"
+  },
+  {
+   "id": "7a3126018defcd4b",
+   "source": "cnBeta",
+   "title": "芯片股惨遭重挫 华尔街迎来1896年以来中期选举后表现最差的第二个交易日",
+   "url": "https://www.cnbeta.com.tw/articles/tech/1585174.htm",
+   "summary": "中期选举带来的美股狂欢仅维持了一天。周四芯片股遭到猛烈抛售；自 1896 年道指诞生至今的数据显示，道琼斯工业平均指数正迎来中期选举过后表现最差的第二个交易日。纳斯达克综合指数仅仅用时六分钟，就回吐了大选之后的全部涨幅，随后抛售进一步加剧。 阅读全文",
+   "published_at": 1793906506.0,
+   "published_bj": "2026-11-06 03:21"
+  },
   {
    "id": "2ecda06e80272e35",
    "source": "InfoQ中文",
@@ -13,6 +103,33 @@
    "published_bj": "2026-11-06 03:13"
   },
   {
+   "id": "7b7bcd120f1ef351",
+   "source": "TechCrunch",
+   "title": "Meta warns that election backlash against data centers could make AI expansion harder",
+   "url": "https://techcrunch.com/2026/11/05/metas-warns-that-election-backlash-against-data-centers-could-make-ai-expansion-harder/",
+   "summary": "Meta warns that growing political opposition to data centers could threaten future AI investments, as communities push back against massive infrastructure projects.",
+   "published_at": 1793905959.0,
+   "published_bj": "2026-11-06 03:12"
+  },
+  {
+   "id": "ce70c419d6683020",
+   "source": "TechCrunch",
+   "title": "OpenAI released a new cybersecurity model. Is that enough?",
+   "url": "https://techcrunch.com/2026/11/05/openai-released-a-new-cybersecurity-model-is-that-enough/",
+   "summary": "OpenAI's newest cybersecurity model comes out as AI labs face scrutiny of their work to protect digital infrastructure.",
+   "published_at": 1793905572.0,
+   "published_bj": "2026-11-06 03:06"
+  },
+  {
+   "id": "1fe964068512faa3",
+   "source": "TechCrunch",
+   "title": "US government warns of ‘ongoing cyber threat’ amid mass hacks of industrial retail and military freezers",
+   "url": "https://techcrunch.com/2026/11/05/u-s-government-warns-of-ongoing-cyber-threat-amid-mass-hacks-of-industrial-retail-and-military-freezers/",
+   "summary": "A joint U.S. government statement says the hacks are affecting the food, transportation, and healthcare industries after reports of global mass hacks.",
+   "published_at": 1793904514.0,
+   "published_bj": "2026-11-06 02:48"
+  },
+  {
    "id": "0467a2292c1909b3",
    "source": "IT之家",
    "title": "我国成功发射遥感五十一号 07-09 星，主要用于科学试验、电磁环境探测等领域",
@@ -20,6 +137,24 @@
    "summary": "IT之家 11 月 6 日消息，据央视新闻报道，11 月 5 日 23 时 58 分，长征二号丙运载火箭在西昌卫星发射中心点火升空，随后成功将遥感五十一号 07-09 星送入预定轨道， 发射任务取得圆满成功 。 长二丙火箭由中国航天科技集团有限公司一院抓总研制，为两级常温液体运载火箭， 具备一箭一星、一箭多星发射及星座部署能力 。 IT之家查询获悉， 该卫星主要用于科学试验、电磁环境探测等领域 。另外，本次发射是长征系列运载火箭的第 675 次发射。",
    "published_at": 1793903944.0,
    "published_bj": "2026-11-06 02:39"
+  },
+  {
+   "id": "7d02d33c37da96fa",
+   "source": "Hacker News",
+   "title": "How to Lie With Statistics (1954) [pdf]",
+   "url": "https://www.horace.org/blog/wp-content/uploads/2012/05/How-to-Lie-With-Statistics-1954-Huff.pdf",
+   "summary": "Article URL: https://www.horace.org/blog/wp-content/uploads/2012/05/How-to-Lie-With-Statistics-1954-Huff.pdf Comments URL: https://news.ycombinator.com/item?id=50382594 Points: 26 # Comments: 2",
+   "published_at": 1793903362.0,
+   "published_bj": "2026-11-06 02:29"
+  },
+  {
+   "id": "6b4623e5f52f059f",
+   "source": "Hacker News",
+   "title": "NTS: Authenticated Time at Meta",
+   "url": "https://engineering.fb.com/2026/10/06/production-engineering/nts-authenticated-time-at-meta/",
+   "summary": "Article URL: https://engineering.fb.com/2026/10/06/production-engineering/nts-authenticated-time-at-meta/ Comments URL: https://news.ycombinator.com/item?id=50382525 Points: 9 # Comments: 3",
+   "published_at": 1793903068.0,
+   "published_bj": "2026-11-06 02:24"
   },
   {
    "id": "08bf1faf734600df",
