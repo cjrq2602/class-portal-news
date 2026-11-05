@@ -1,8 +1,26 @@
 {
  "date": "2026-11-06",
- "generated_at": 1793914775.8515007,
- "count": 59,
+ "generated_at": 1793917727.1208947,
+ "count": 62,
  "items": [
+  {
+   "id": "9d4ae71a6127ae14",
+   "source": "IT之家",
+   "title": "《NBA 2K27 Arcade Edition》上线 Apple Arcade，收录全部 15 支 WNBA 球队",
+   "url": "https://www.ithome.com/1/023/031.htm",
+   "summary": "IT之家 11 月 6 日消息，苹果今日宣布为 Apple Arcade 库新增四款游戏，分别为《Crossy Road Rush》《NBA 2K27 Arcade Edition》《KAMI 2+》和《Food Stylist - Design Game+》。 其中，《NBA 2K27 Arcade Edition》首次在 Arcade 版本中加入 WNBA（美国女子职业篮球联赛）内容。 《Crossy Road Rush》是《Crossy Road》系列的最新作品。玩家需要穿越一座布满障碍的岛屿赛道，在躲避各种障碍、完成挑战的过程中解锁不同角色。游戏支持单人游玩，也支持最多 4 名玩家通过",
+   "published_at": 1793917480.0,
+   "published_bj": "2026-11-06 06:24"
+  },
+  {
+   "id": "be61bf0ec80bfc48",
+   "source": "Hacker News",
+   "title": "$2.5T has been wiped from US stocks",
+   "url": "https://www.reddit.com/r/StockMarket/comments/1xopjao/25_trillion_has_been_wiped_from_us_stocks/",
+   "summary": "Article URL: https://www.reddit.com/r/StockMarket/comments/1xopjao/25_trillion_has_been_wiped_from_us_stocks/ Comments URL: https://news.ycombinator.com/item?id=50384822 Points: 22 # Comments: 7",
+   "published_at": 1793914766.0,
+   "published_bj": "2026-11-06 05:39"
+  },
   {
    "id": "b68ee1e85ec317ed",
    "source": "TechCrunch",
@@ -164,6 +182,15 @@
    "summary": "市场研究机构Counterpoint Research最新数据显示，在人工智能基础设施建设热潮推动下，全球DRAM市场于2026年第三季度实现收入同比增长369%。随着AI加速器和数据中心对高性能内存需求持续攀升，DRAM平均销售价格（ASP）已达到每Gb 1.9美元水平。 阅读全文",
    "published_at": 1793907125.0,
    "published_bj": "2026-11-06 03:32"
+  },
+  {
+   "id": "aab181521d1ae10d",
+   "source": "Hacker News",
+   "title": "Introducing Pangram Image 1.0",
+   "url": "https://www.pangram.com/blog/introducing-pangram-image-1-0",
+   "summary": "Article URL: https://www.pangram.com/blog/introducing-pangram-image-1-0 Comments URL: https://news.ycombinator.com/item?id=50383294 Points: 17 # Comments: 1",
+   "published_at": 1793906872.0,
+   "published_bj": "2026-11-06 03:27"
   },
   {
    "id": "6dc25ed1b27294ee",
