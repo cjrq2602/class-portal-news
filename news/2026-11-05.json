@@ -1,8 +1,71 @@
 {
  "date": "2026-11-05",
- "generated_at": 1793890303.1551187,
- "count": 395,
+ "generated_at": 1793893953.3233762,
+ "count": 400,
  "items": [
+  {
+   "id": "6eececc531650ac6",
+   "source": "IT之家",
+   "title": "荣耀 700 系列手机盲盒周边曝光：背屏设计确认，消息称标准版搭载骁龙 8s Gen4 处理器",
+   "url": "https://www.ithome.com/1/023/019.htm",
+   "summary": "IT之家 11 月 5 日消息，博主 @WHYLAB 今日分享了荣耀 700 系列手机的盲盒周边。从盲盒可以看出，荣耀 700 系列手机将采用小矩阵背屏设计。博主透露， 背屏尺寸为 1.72 英寸 。 该博主还透露， 荣耀 700 标准版采用骁龙 8s Gen4 处理器，Pro 则搭载骁龙 8 Gen5 处理器 。 据IT之家今日早些时候报道，博主 @数码闲聊站 今日爆料， 荣耀 700 系列手机采用同档唯一双 8 芯片 ，拥有更强性能 + 更大电池 + 潜望镜 + 旗舰影像 + 自拍背屏。 荣耀全球首席营销官关海涛于 11 月 3 日发文，正式官宣了数字 700 系列手机。他表示，系列新机方",
+   "published_at": 1793893580.0,
+   "published_bj": "2026-11-05 23:46"
+  },
+  {
+   "id": "cc678c16a2defe81",
+   "source": "TechCrunch",
+   "title": "Bluesky hit peak usage for the year on Election Night",
+   "url": "https://techcrunch.com/2026/11/05/bluesky-hit-peak-usage-for-the-year-on-election-night/",
+   "summary": "Bluesky CEO Toni Schneider said posts and likes doubled during to the U.S. midterm elections on Tuesday.",
+   "published_at": 1793893498.0,
+   "published_bj": "2026-11-05 23:44"
+  },
+  {
+   "id": "3ae2bf080d422deb",
+   "source": "TechCrunch",
+   "title": "Zipline hits $21.5B valuation as Walmart expands bet on drone delivery",
+   "url": "https://techcrunch.com/2026/11/05/zipline-hits-21-5b-valuation-as-walmart-expands-bet-on-drone-delivery/",
+   "summary": "Zipline raised $1.5 billion and ramped up its partnership with Walmart.",
+   "published_at": 1793893234.0,
+   "published_bj": "2026-11-05 23:40"
+  },
+  {
+   "id": "a20f250332c80536",
+   "source": "TechCrunch",
+   "title": "TikTok quietly launches a standalone TikTok Shop app",
+   "url": "https://techcrunch.com/2026/11/05/tiktok-quietly-launches-a-standalone-tiktok-shop-app/",
+   "summary": "The app will offer personalized product recommendations, shopping through live streams and short-form videos, app-exclusive deals, in-app checkout, order tracking and customer support.",
+   "published_at": 1793892838.0,
+   "published_bj": "2026-11-05 23:33"
+  },
+  {
+   "id": "8f7a5354d32aa4db",
+   "source": "IT之家",
+   "title": "One UI 9 系统更新导致部分 Galaxy 手机无法连接 Wi-Fi 或识别 SIM 卡，三星暂未回应",
+   "url": "https://www.ithome.com/1/023/018.htm",
+   "summary": "IT之家 11 月 5 日消息，据科技媒体 Android Headline 今天报道，部分 Galaxy 手机用户升级 One UI 9 正式版系统后遭遇大范围网络故障，导致无法连接 Wi-Fi 或无法识别 SIM 卡。重启设备只能暂时缓解故障。 IT之家从原报道获悉，许多三星用户已经在反馈，他们手机的 Wi-Fi 出现了随机断连、无法连接的问题，机型覆盖 Galaxy S24 Plus 和 Galaxy Z Fold 7 等。部分 Galaxy A56、Galaxy A36 和 Galaxy A52s 等用户则表示， 他们的手机更新后完全无法识别 SIM 卡 。 同时部分用户透露， 他们的",
+   "published_at": 1793892821.0,
+   "published_bj": "2026-11-05 23:33"
+  },
+  {
+   "id": "4ade50639600c0ee",
+   "source": "IT之家",
+   "title": "英伟达庆祝首款支持 CUDA 显卡 GeForce 8800 GTX 诞生 20 周年，同步推出纪念游戏带 PC 玩家重返 2006 年",
+   "url": "https://www.ithome.com/1/023/017.htm",
+   "summary": "IT之家 11 月 5 日消息，英伟达官方今日庆祝 GeForce 8800 GTX 显卡诞生 20 周年， 同步推出一款 Steam 演示游戏 ，带领 PC 玩家回到 2006 年，一睹这款经典显卡的外貌。 据IT之家了解，GeForce 8800 GTX 诞生于 2006 年 11 月 8 日，是首款支持 CUDA 的 NVIDIA 显卡，为图形渲染以外的 GPU 计算奠定了基础，并推动形成了加速计算平台。 GeForce 8800 GTX 是 06 年的 NVIDIA 旗舰显卡，建议零售价 599 美元 （IT之家注：现汇率约合 4,005 元人民币） ，采用 Tesla GPU 架构，",
+   "published_at": 1793892221.0,
+   "published_bj": "2026-11-05 23:23"
+  },
+  {
+   "id": "c1665c31af55dad7",
+   "source": "TechCrunch",
+   "title": "Dropbox acquires Tigris Data for $350M to bolster its AI infrastructure",
+   "url": "https://techcrunch.com/2026/11/05/dropbox-acquires-tigris-data-for-350m-to-bolster-its-ai-iinfrastructure/",
+   "summary": "The deal is expected to support the development of DBX Agent Cloud, a new storage platform aimed at developers building AI models and agents.",
+   "published_at": 1793891945.0,
+   "published_bj": "2026-11-05 23:19"
+  },
   {
    "id": "8376488d1895c19f",
    "source": "InfoQ中文",
@@ -11,6 +74,87 @@
    "summary": "点击查看原文>",
    "published_at": 1793891940.0,
    "published_bj": "2026-11-05 23:19"
+  },
+  {
+   "id": "bcd040d126e7bed3",
+   "source": "cnBeta",
+   "title": "秒拍秒付、收货挑刺？拆解“到手刀”诈骗套路",
+   "url": "https://www.cnbeta.com.tw/articles/tech/1585164.htm",
+   "summary": "“到手刀”是二手交易里的黑话：意思是货一到手，买家就挑毛病、砍价，不按谈好的价格付款。如今，“到手刀”被一些不法分子利用，成了实施诈骗的手段。记者在调查二手交易平台乱象时，了解到不少这样的遭遇。 阅读全文",
+   "published_at": 1793891543.0,
+   "published_bj": "2026-11-05 23:12"
+  },
+  {
+   "id": "be8cd773e61a990b",
+   "source": "IT之家",
+   "title": "被网站“断粮”，Anthropic 首次掏钱买新闻内容授权",
+   "url": "https://www.ithome.com/1/023/015.htm",
+   "summary": "IT之家 11 月 5 日消息，Anthropic 在美国中期选举前夕，与一家新闻出版机构达成了首份内容授权协议。 据《Adweek》援引两名知情人士的消息，Anthropic 此次的合作伙伴是美联社（Associated Press，AP）。根据协议，Claude 聊天机器人可以在美国中期选举之夜实时展示美联社的选举结果数据，并注明信息来源。双方没有披露协议的财务条款及有效期限。 IT之家注意到，此前 Anthropic 一直拒绝与新闻出版商达成此类内容授权合作，认为通过网络爬虫抓取出版商内容的行为符合合理使用（Fair Use）原则，在法律上是允许的。 相比之下，竞争对手 OpenAI 已",
+   "published_at": 1793891509.0,
+   "published_bj": "2026-11-05 23:11"
+  },
+  {
+   "id": "d4c29bed37474158",
+   "source": "IT之家",
+   "title": "欧盟航空安全局称将评估炸弹威胁对飞行安全的影响",
+   "url": "https://www.ithome.com/1/023/014.htm",
+   "summary": "IT之家 11 月 5 日消息，欧洲方面 5 日消息，当天欧洲多架客机遭炸弹威胁，涉及一架从爱尔兰都柏林飞往意大利罗马的航班、一架从芬兰赫尔辛基飞往罗马的航班、三架飞往保加利亚索非亚的航班、两架从意大利米兰飞往罗马的航班，其中部分客机已安全降落。 据央视新闻今日报道，针对欧洲客机遭炸弹威胁事件，欧盟航空安全局称，将持续关注相关事态发展， 识别并评估此类安全威胁可能对飞行安全造成的影响 。 欧洲警察署副发言人克莱尔 · 乔治当天表示，如相关威胁涉及严重有组织犯罪或恐怖主义，该组织随时准备应各国主管部门请求提供支持，包括促进信息交换，以及识别不同国家事件之间可能存在的关联。 图源：Pixabay ",
+   "published_at": 1793891190.0,
+   "published_bj": "2026-11-05 23:06"
+  },
+  {
+   "id": "5ac911e408ded49d",
+   "source": "IT之家",
+   "title": "从“争气弹”到“争气路”中国速度独一无二，新型陆基洲际导弹东风-61 确认列装火箭军",
+   "url": "https://www.ithome.com/1/023/013.htm",
+   "summary": "IT之家 11 月 5 日消息，今天是我国第一枚近程地地导弹“东风一号”成功发射 66 周年，而“东风”家族升级从未止步。2025 年 9 月 3 日，纪念中国人民抗日战争暨世界反法西斯战争胜利 80 周年阅兵，战略打击群核导弹方队中， 新型陆基洲际导弹东风-61 首次公开亮相 。 据央视新闻今日报道， 如今，东风-61 已列装火箭军 。军事评论员邵永灵表示，东风-61 从阅兵公开亮相到常态参训，节奏远快于传统洲际导弹的战斗力生成周期。 首先，这说明它亮相前已经完成研制、定型、试装与可靠性验证， 技术成熟度高 。 其次，体现火箭军成熟的装备配套与训练体系。东风-61 与现有指挥、通信、保障链路",
+   "published_at": 1793890919.0,
+   "published_bj": "2026-11-05 23:01"
+  },
+  {
+   "id": "f3151c3d2f1183bc",
+   "source": "TechCrunch",
+   "title": "Instagram brings Edits to desktop to take on CapCut",
+   "url": "https://techcrunch.com/2026/11/05/instagram-brings-edits-to-desktop-to-take-on-capcut/",
+   "summary": "The move puts Edits in more direct competition with ByteDance's CapCut, the video-editing app Meta sought to challenge when it launched Edits last year.",
+   "published_at": 1793890800.0,
+   "published_bj": "2026-11-05 23:00"
+  },
+  {
+   "id": "fa58af48d2fdc155",
+   "source": "TechCrunch",
+   "title": "ElevenLabs now lets users publish AI-generated music directly on SoundCloud",
+   "url": "https://techcrunch.com/2026/11/05/elevenlabs-now-lets-users-publish-ai-generated-music-directly-on-soundcloud/",
+   "summary": "ElevenLabs said more than 25 million tracks have been generated using its music models.",
+   "published_at": 1793890800.0,
+   "published_bj": "2026-11-05 23:00"
+  },
+  {
+   "id": "4997c6056ca385ac",
+   "source": "IT之家",
+   "title": "首发 399 元：达音科推出 DTC500X 电竞声卡，双 CS43198 旗舰 DAC",
+   "url": "https://www.ithome.com/1/023/012.htm",
+   "summary": "IT之家 11 月 5 日消息，达音科现已推出 DTC500X 电竞声卡。新品主打复古游戏机外形，配备双 CS43198 旗舰 DAC，拥有 4.4mm 平衡 +3.5mm 单端双耳机接口，首发售价 399 元。 据介绍，这款产品外观致敬经典游戏掌机，正面的十字键采用锅仔片按键设计。它不承担设备控制功能，而是作为产品设计中的互动元素。机身为 CNC 铝合金材质，背面带有雕刻吉祥物形象。 规格方面，该产品搭载双 CS43198 旗舰 DAC，可对声音链路进行全面优化，配合独立 LDO 供电、独立有源晶振等专业音频架构，其动态范围可达 132dB，信噪比为 128dB。配备 3.5mm 单端和 4",
+   "published_at": 1793890735.0,
+   "published_bj": "2026-11-05 22:58"
+  },
+  {
+   "id": "94c638f7158d75a8",
+   "source": "cnBeta",
+   "title": "《塞尔达：时之笛 重制版》上市 青沼英二赴纽约庆祝",
+   "url": "https://www.cnbeta.com.tw/articles/game/1585162.htm",
+   "summary": "《塞尔达：时之笛 重制版》现已登陆Nintendo Switch 2。任天堂围绕游戏上市在美国举行线下庆祝活动，系列制作人青沼英二与藤林秀麿也前往纽约参加。 阅读全文",
+   "published_at": 1793890272.0,
+   "published_bj": "2026-11-05 22:51"
+  },
+  {
+   "id": "0c9fc2ade048ae2a",
+   "source": "Hacker News",
+   "title": "Image of Our Satellite-Choked Night Skies",
+   "url": "https://kottke.org/26/11/stunning-image-of-our-satellite-choked-night-skies",
+   "summary": "Article URL: https://kottke.org/26/11/stunning-image-of-our-satellite-choked-night-skies Comments URL: https://news.ycombinator.com/item?id=50379773 Points: 43 # Comments: 33",
+   "published_at": 1793890147.0,
+   "published_bj": "2026-11-05 22:49"
   },
   {
    "id": "0f2b1e230a4dc87f",
@@ -38,6 +182,15 @@
    "summary": "IT之家 11 月 5 日消息，摩托罗拉今日宣布推出智能穿戴新品，包含 Moto Watch 2 Fit 手表和 Moto Buds 2 Ultra 耳机。售价分别为 119 欧元 （IT之家注：现汇率约合 892.8 元人民币） /199 欧元 （现汇率约合 1,493 元人民币） 。 IT之家附两款新品详情如下： Moto Watch 2 Fit 这款手表正面配备一块 1.85 英寸 OLED 屏幕，支持 60Hz 刷新率，分辨率为 390 × 450，峰值亮度 1500nits。运行 RTOS 操作系统，内置 400mAh 电池，开启 AOD 情况下续航可达 7 天。 同时，该手表提供跑",
    "published_at": 1793889967.0,
    "published_bj": "2026-11-05 22:46"
+  },
+  {
+   "id": "25616c2ce9bd83f9",
+   "source": "Hacker News",
+   "title": "Alpine Linux Security advisory: OpenSSH-server password authentication bypass",
+   "url": "https://alpinelinux.org/posts/2026-11-05-openssh-password-authentication-bypass/",
+   "summary": "Article URL: https://alpinelinux.org/posts/2026-11-05-openssh-password-authentication-bypass/ Comments URL: https://news.ycombinator.com/item?id=50379704 Points: 61 # Comments: 2",
+   "published_at": 1793889860.0,
+   "published_bj": "2026-11-05 22:44"
   },
   {
    "id": "6db8eb9e84e03d4f",
@@ -76,6 +229,15 @@
    "published_bj": "2026-11-05 22:39"
   },
   {
+   "id": "cd805aca3ed8bc15",
+   "source": "Solidot",
+   "title": "越南对足球直播盗版者判刑最高一年",
+   "url": "https://www.solidot.org/story?sid=85807",
+   "summary": "越南一家法院对 14 名参与盗版足球赛事直播网站 Bun Cha TV 的团队判处最高一年徒刑。4 名内容、编程和运营团队负责人被判处 12 个月徒刑，另外 5 人判处 10 个月监禁，2 人判处 8 个月监禁，3 名解说员被判处 10 个月缓刑。所有 14 名被告都承认了指控，配合了调查。Bun Cha TV 累计直播逾 15 万场体育赛事，通过博彩及赌博广告非法获利逾 200 亿越南盾（约 512 万人民币）。内容团队负责人获利逾 4.3 亿越南盾，解说员非法所得则在 3100 万到 4.8 亿越南盾不等。美国 MPAA 的代表称赞了这一判决。",
+   "published_at": 1793889536.0,
+   "published_bj": "2026-11-05 22:38"
+  },
+  {
    "id": "33c9a905bda3abcd",
    "source": "cnBeta",
    "title": "华硕发布ROG XG Station 3 开放式显卡坞 雷电5接口",
@@ -91,6 +253,15 @@
    "url": "https://www.cnbeta.com.tw/articles/tech/1585154.htm",
    "summary": "AMD表示仍致力于PC市场，但其最新财报显示，数据中心业务正迅速成为其主要业务。服务器处理器和AI加速器目前贡献了公司近三分之二的收入，而游戏芯片销售额正在下滑，PC芯片在总收入中所占份额也在不断缩小。 阅读全文",
    "published_at": 1793889266.0,
+   "published_bj": "2026-11-05 22:34"
+  },
+  {
+   "id": "8d74ee8eadb6ade4",
+   "source": "Hacker News",
+   "title": "September in Servo: , rounded rectangles, and more",
+   "url": "https://servo.org/blog/2026/11/05/september-in-servo/",
+   "summary": "Article URL: https://servo.org/blog/2026/11/05/september-in-servo/ Comments URL: https://news.ycombinator.com/item?id=50379576 Points: 21 # Comments: 2",
+   "published_at": 1793889258.0,
    "published_bj": "2026-11-05 22:34"
   },
   {
@@ -236,6 +407,15 @@
    "summary": "信仰灯回归，减重明显，苹果首款触屏 MacBook Pro 开箱。 点击关注IT之家B站账号",
    "published_at": 1793887523.0,
    "published_bj": "2026-11-05 22:05"
+  },
+  {
+   "id": "96f6375a70bd6b32",
+   "source": "少数派",
+   "title": "开启 Mac 的下一世代：MacBook Pro (PROLED XDR) 首发体验",
+   "url": "https://sspai.com/post/118546",
+   "summary": "全新 MacBook Pro，开启 Mac 的下一个世代。 查看全文",
+   "published_at": 1793887251.0,
+   "published_bj": "2026-11-05 22:00"
   },
   {
    "id": "7864738795ec3277",
@@ -3422,141 +3602,6 @@
    "summary": "Article URL: https://go.dev/blog/jsonv2 Comments URL: https://news.ycombinator.com/item?id=50369106 Points: 69 # Comments: 10",
    "published_at": 1793814731.0,
    "published_bj": "2026-11-05 01:52"
-  },
-  {
-   "id": "5bc9f46e08b9753e",
-   "source": "cnBeta",
-   "title": "苹果预计2027年MacBook Neo出货量翻倍 第二代机型订单目标达到1600万台",
-   "url": "https://www.cnbeta.com.tw/articles/tech/1585048.htm",
-   "summary": "苹果平价笔记本电脑MacBook Neo上市后取得了超出预期的市场表现，如今苹果似乎准备进一步扩大这一产品线的规模。根据供应链消息，苹果已经向零部件供应商提供了第二代MacBook Neo的出货预测，预计2027年全年出货量将达到1600万台，约为2026年首代产品预计出货量的两倍。 阅读全文",
-   "published_at": 1793814165.0,
-   "published_bj": "2026-11-05 01:42"
-  },
-  {
-   "id": "60cfdd5886416106",
-   "source": "Hacker News",
-   "title": "Launch HN: Kino AI (YC S23) – AI media manager and video editor",
-   "url": "https://news.ycombinator.com/item?id=50368804",
-   "summary": "Hi HN! I'm Luke from Kino ( https://kino.ai ). Kino lets you make great videos with your agents and your teammates. Storage of footage and assets, a rich video editor, and review links for teammates are all bundled into one. Your colleagues and Codex / Claude Code can work on the same timeline with ",
-   "published_at": 1793813513.0,
-   "published_bj": "2026-11-05 01:31"
-  },
-  {
-   "id": "01a74570120b4924",
-   "source": "Solidot",
-   "title": "AMD 营收预计将首次超过英特尔",
-   "url": "https://www.solidot.org/story?sid=85799",
-   "summary": "AMD 周二公布了 2026 财年第三季度财报，营收同比增长 45% 达到 134 亿美元。其中数据中心业务贡献了 85 亿美元营收同比增长 97%。客户端与游戏业务部门的营收下滑了 8% 降至 37 亿美元。作为 AMD 在 x86 市场的主要竞争对手，英特尔下一季度营收预计为 150-160 亿美元，其增长几乎停滞。相比下 AMD 预计下一季度营收将达到约 170 亿美元。如果达到这一目标，这将标志着 AMD 营收首次超过英特尔。",
-   "published_at": 1793812806.0,
-   "published_bj": "2026-11-05 01:20"
-  },
-  {
-   "id": "31c3fbe8bf129ff2",
-   "source": "Hacker News",
-   "title": "Progress on provable inference for large language models",
-   "url": "https://www.anthropic.com/research/provable-inference",
-   "summary": "Article URL: https://www.anthropic.com/research/provable-inference Comments URL: https://news.ycombinator.com/item?id=50368626 Points: 15 # Comments: 2",
-   "published_at": 1793812666.0,
-   "published_bj": "2026-11-05 01:17"
-  },
-  {
-   "id": "53050d172e1cb00e",
-   "source": "TechCrunch",
-   "title": "Sequoia hits rewind, undoing 20 years of expansion",
-   "url": "https://techcrunch.com/2026/11/04/sequoia-hits-rewind-undoing-20-years-of-expansion/",
-   "summary": "Sequoia is consolidating into a smaller, Bay Area–centered firm, shutting down the programs and offices it built during a 20-year expansion while announcing roughly $10 billion in new funds.",
-   "published_at": 1793812275.0,
-   "published_bj": "2026-11-05 01:11"
-  },
-  {
-   "id": "6ad0f7be9d512fc1",
-   "source": "Solidot",
-   "title": "韩国游戏 PC 启动器被植入恶意代码",
-   "url": "https://www.solidot.org/story?sid=85798",
-   "summary": "韩国游戏《胜利女神：新的希望（NIKKE）》的 PC 启动器被植入恶意代码。恶意代码是通过纂改 Level Infinite CDN 分发的四个官方 JavaScript 文件实现的，篡改发生于 2026 年 9 月 27 日前后，攻击则始于 2026 年 10 月 23 日到 11 月 3 日，在此期间打开 PC 启动器的用户可能会被植入木马。恶意程序会窃取浏览器保存的密码、Windows 凭据管理器信息、SSH 密钥以及云服务或 AI 服务的访问令牌，还能窃取 28 种基于浏览器的加密货币钱包数据、执行任意命令、读取文件以及屏幕截图。攻击期间打开过启动器的玩家可以打开游戏文件夹，搜寻 de",
-   "published_at": 1793811910.0,
-   "published_bj": "2026-11-05 01:05"
-  },
-  {
-   "id": "197e470cb60899b0",
-   "source": "Hacker News",
-   "title": "An end to buggy web apps",
-   "url": "https://replay.io/blog/an-end-to-buggy-web-apps",
-   "summary": "Article URL: https://replay.io/blog/an-end-to-buggy-web-apps Comments URL: https://news.ycombinator.com/item?id=50368439 Points: 17 # Comments: 5",
-   "published_at": 1793811704.0,
-   "published_bj": "2026-11-05 01:01"
-  },
-  {
-   "id": "d7301e1fb7e97365",
-   "source": "InfoQ中文",
-   "title": "Harbor 新增 Docker Sandboxes 支持，可在隔离的 MicroVM 中运行可重现的 AI 代理评估",
-   "url": "https://www.infoq.cn/article/pgmES06L2MAH2TCSMhJ9?utm_source=rss&utm_medium=article",
-   "summary": "点击查看原文>",
-   "published_at": 1793811600.0,
-   "published_bj": "2026-11-05 01:00"
-  },
-  {
-   "id": "b04d1389301ad320",
-   "source": "TechCrunch",
-   "title": "I tried Apple’s Siri Recaps. They’re surprisingly useful — and a little unsettling",
-   "url": "https://techcrunch.com/2026/11/04/i-tried-apples-siri-recaps-theyre-surprisingly-useful-and-a-little-unsettling/",
-   "summary": "Apple's AI-powered Siri Recaps won me over in just one day, despite my privacy reservations. But there's still room for improvement.",
-   "published_at": 1793811095.0,
-   "published_bj": "2026-11-05 00:51"
-  },
-  {
-   "id": "2ebd61bc695e0719",
-   "source": "IT之家",
-   "title": "华为小艺 Work 率先上线 openPangu-2.1-Pro 模型，主打“鸿蒙任务增强”",
-   "url": "https://www.ithome.com/1/022/472.htm",
-   "summary": "IT之家 11 月 5 日消息，华为云 11 月 1 日发布公告，MaaS 模型即服务平台将于 2026 年 11 月 6 日停止销售 openPangu-2.0-Flash 和 openPangu-2.0-Pro 两款模型服务，并于 11 月 30 日 00:00 正式下线。不过华为官方表示， openPangu 系列新版本模型已在规划中，后续将逐步推出上线 。 IT之家实测发现， 小艺 Work 率先上线了 openPangu-2.1-Pro 模型 ，主打“鸿蒙任务增强”。 华为官方暂未公布该模型的具体能力，同时 openPangu-2.1-Pro 模型的具体参数规格（参数量、激活量、上下",
-   "published_at": 1793810380.0,
-   "published_bj": "2026-11-05 00:39"
-  },
-  {
-   "id": "20647fe1f6f8746e",
-   "source": "cnBeta",
-   "title": "30000年前法国女性的DNA改写冰河时代欧洲史 远隔数千公里的人群早已存在基因交流",
-   "url": "https://www.cnbeta.com.tw/articles/science/1585046.htm",
-   "summary": "一名生活在约3万年前的女性正在帮助科学家重新认识冰河时代欧洲人群之间的联系。研究人员通过分析她的古代DNA发现，这名女性虽然生活在今天法国西南部，但其遗传背景不仅来自西欧人群，还包含与中欧和东欧古代人群有关的遗传成分。这表明，冰河时代欧洲东西部的人群并不像过去认为的那样彼此隔绝，早在3万多年前，不同地区的人类群体就已经发生了跨越数千公里的基因交流。 阅读全文",
-   "published_at": 1793809509.0,
-   "published_bj": "2026-11-05 00:25"
-  },
-  {
-   "id": "2c0b72c8b62f2e9e",
-   "source": "InfoQ中文",
-   "title": "研究发现：AI 生成代码受下游环节瓶颈制约，无法提升整体生产力",
-   "url": "https://www.infoq.cn/article/c3vTLNrRwfCzw8SAmz90?utm_source=rss&utm_medium=article",
-   "summary": "点击查看原文>",
-   "published_at": 1793809250.0,
-   "published_bj": "2026-11-05 00:20"
-  },
-  {
-   "id": "b79b190fa05294c8",
-   "source": "TechCrunch",
-   "title": "Google faces backlash for plan that would turn off Search for schools that restrict AI",
-   "url": "https://techcrunch.com/2026/11/04/google-faces-backlash-for-plan-that-would-turn-off-search-for-schools-that-restrict-ai/",
-   "summary": "Politicians on the left, like NYC mayor Zohran Mamdani and former FTC chair Lina Khan, accused Google of acting as an unregulated monopoly.",
-   "published_at": 1793809042.0,
-   "published_bj": "2026-11-05 00:17"
-  },
-  {
-   "id": "3d86dfe1291971fe",
-   "source": "Hacker News",
-   "title": "'It's just vape, nail, charity shops': Can anything save UK high street?",
-   "url": "https://www.theguardian.com/business/2026/nov/04/what-can-save-the-british-high-street-rotherham",
-   "summary": "Article URL: https://www.theguardian.com/business/2026/nov/04/what-can-save-the-british-high-street-rotherham Comments URL: https://news.ycombinator.com/item?id=50367653 Points: 11 # Comments: 3",
-   "published_at": 1793808693.0,
-   "published_bj": "2026-11-05 00:11"
-  },
-  {
-   "id": "7946d8fb152569fd",
-   "source": "Solidot",
-   "title": "法国银行被盗走 1.18 亿欧元",
-   "url": "https://www.solidot.org/story?sid=85797",
-   "summary": "法国国民互助信贷银行（Crédit Mutuel Arkéa）被黑客通过欺诈性交易盗走 1.18 亿欧元。被盗走的钱随后被转移到多个加密货币账号。该银行证实遭到网络攻击，但尚未证实 1.18 亿欧元的数字，只是表示攻击已得到控制，客户不会遭受任何经济损失。国民互助信贷银行暂停了其应用的部分转账功能。",
-   "published_at": 1793808164.0,
-   "published_bj": "2026-11-05 00:02"
   }
  ]
 }
