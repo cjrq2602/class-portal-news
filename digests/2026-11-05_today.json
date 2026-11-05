@@ -1,0 +1,382 @@
+{
+ "type": "today",
+ "date": "2026-11-05",
+ "window": {
+  "start_ts": 1793808000.0,
+  "end_ts": 1793840400.0
+ },
+ "generated_at": 1793844044.6774292,
+ "generator": "action",
+ "news_count": 103,
+ "keywords": [
+  "ai",
+  "苹果",
+  "to",
+  "in",
+  "is",
+  "美元",
+  "and",
+  "for",
+  "with",
+  "it"
+ ],
+ "points": [
+  {
+   "text": "【ai】IT之家 11 月 5 日消息，彭博社今天（11 月 5 日）发布博文， 报道称苹果公司为了遏制快速上升的 AI 使用成本，正在削减员工使用人工",
+   "keyword": "ai",
+   "news_ids": [
+    "5102579e6073b42a"
+   ],
+   "refs": [
+    {
+     "id": "5102579e6073b42a",
+     "title": "彭博社称苹果收紧员工 AI 使用预算：部分工程师日额度下降 33%，恐进一步下探至 100 美元",
+     "source": "IT之家",
+     "url": "https://www.ithome.com/1/022/479.htm",
+     "published_at": 1793833646.0
+    }
+   ]
+  },
+  {
+   "text": "【ai】Article URL: https://orchidfiles",
+   "keyword": "ai",
+   "news_ids": [
+    "9c4cfa9881c96398"
+   ],
+   "refs": [
+    {
+     "id": "9c4cfa9881c96398",
+     "title": "You'll need nerves of steel to work with AI agents",
+     "source": "Hacker News",
+     "url": "https://orchidfiles.com/youll-need-nerves-of-steel-to-work-with-ai-agents/",
+     "published_at": 1793836890.0
+    }
+   ]
+  },
+  {
+   "text": "【ai】Politicians on the left, like NYC mayor Zohran Mamdani and former FTC ch",
+   "keyword": "ai",
+   "news_ids": [
+    "b79b190fa05294c8"
+   ],
+   "refs": [
+    {
+     "id": "b79b190fa05294c8",
+     "title": "Google faces backlash for plan that would turn off Search for schools that restrict AI",
+     "source": "TechCrunch",
+     "url": "https://techcrunch.com/2026/11/04/google-faces-backlash-for-plan-that-would-turn-off-search-for-schools-that-restrict-ai/",
+     "published_at": 1793809042.0
+    }
+   ]
+  },
+  {
+   "text": "Article URL: https://www",
+   "keyword": "",
+   "news_ids": [
+    "eba4b694d51c0967"
+   ],
+   "refs": [
+    {
+     "id": "eba4b694d51c0967",
+     "title": "SpaceX – Starfall",
+     "source": "Hacker News",
+     "url": "https://www.spacex.com/starfall",
+     "published_at": 1793837898.0
+    }
+   ]
+  },
+  {
+   "text": "Article URL: https://blog",
+   "keyword": "",
+   "news_ids": [
+    "b42debfa21fe7c6d"
+   ],
+   "refs": [
+    {
+     "id": "b42debfa21fe7c6d",
+     "title": "Successful People (2013)",
+     "source": "Hacker News",
+     "url": "https://blog.samaltman.com/successful-people",
+     "published_at": 1793833279.0
+    }
+   ]
+  },
+  {
+   "text": "Article URL: https://www",
+   "keyword": "",
+   "news_ids": [
+    "d49f30cbe6e36f45"
+   ],
+   "refs": [
+    {
+     "id": "d49f30cbe6e36f45",
+     "title": "Less Popular Than Coal",
+     "source": "Hacker News",
+     "url": "https://www.argmin.net/p/less-popular-than-coal",
+     "published_at": 1793831184.0
+    }
+   ]
+  },
+  {
+   "text": "Article URL: https://icode4",
+   "keyword": "",
+   "news_ids": [
+    "ad19aa5c5eb7d2fa"
+   ],
+   "refs": [
+    {
+     "id": "ad19aa5c5eb7d2fa",
+     "title": "Hacking the Xbox 360 Hypervisor Part 3: Bad Update Improvements",
+     "source": "Hacker News",
+     "url": "https://icode4.coffee/?p=1746",
+     "published_at": 1793829709.0
+    }
+   ]
+  },
+  {
+   "text": "The milestone comes a year after Snapchat announced a controversial limi",
+   "keyword": "",
+   "news_ids": [
+    "2914de62e5f5038e"
+   ],
+   "refs": [
+    {
+     "id": "2914de62e5f5038e",
+     "title": "Snapchat surpasses 30M paid subscribers",
+     "source": "TechCrunch",
+     "url": "https://techcrunch.com/2026/11/04/snapchat-surpasses-30m-paid-subscribers/",
+     "published_at": 1793828969.0
+    }
+   ]
+  },
+  {
+   "text": "Article URL: https://layer3intel",
+   "keyword": "",
+   "news_ids": [
+    "eb63f1eed12a85cb"
+   ],
+   "refs": [
+    {
+     "id": "eb63f1eed12a85cb",
+     "title": "Residential Proxies Detected on White House Network",
+     "source": "Hacker News",
+     "url": "https://layer3intel.com/blog/residential-proxies-white-house-network",
+     "published_at": 1793825118.0
+    }
+   ]
+  },
+  {
+   "text": "美国国家航空航天局（NASA）的“旅行者1号”探测器即将迎来又一个历史性里程碑",
+   "keyword": "",
+   "news_ids": [
+    "f903303b55a6b977"
+   ],
+   "refs": [
+    {
+     "id": "f903303b55a6b977",
+     "title": "旅行者1号再创历史 即将成为首个距离地球“一光日”的人类航天器",
+     "source": "cnBeta",
+     "url": "https://www.cnbeta.com.tw/articles/science/1585064.htm",
+     "published_at": 1793822381.0
+    }
+   ]
+  },
+  {
+   "text": "Anthropic 为重要开源项目新增可选安全扫描服务",
+   "keyword": "",
+   "news_ids": [
+    "056e64d62c5046d9"
+   ],
+   "refs": [
+    {
+     "id": "056e64d62c5046d9",
+     "title": "Anthropic 为重要开源项目新增可选安全扫描服务",
+     "source": "InfoQ中文",
+     "url": "https://www.infoq.cn/article/hdmi6FdjpYSEvuMhPOAa?utm_source=rss&utm_medium=article",
+     "published_at": 1793822014.0
+    }
+   ]
+  },
+  {
+   "text": "Article URL: https://www",
+   "keyword": "",
+   "news_ids": [
+    "ea5ccfb544e8c225"
+   ],
+   "refs": [
+    {
+     "id": "ea5ccfb544e8c225",
+     "title": "Insects Don't Swarm at LED Lights",
+     "source": "Hacker News",
+     "url": "https://www.birdsoutsidemywindow.org/2026/11/03/insects-dont-swarm-at-led-lights/",
+     "published_at": 1793821823.0
+    }
+   ]
+  },
+  {
+   "text": "传统电动牙刷主要依靠机械振动和刷毛摩擦清除牙齿表面的牙菌斑，而中国研究人员近日开发出一种全新的实验性牙刷，将压电材料直接编织进刷毛之中",
+   "keyword": "",
+   "news_ids": [
+    "15f7bbf1c47c2d72"
+   ],
+   "refs": [
+    {
+     "id": "15f7bbf1c47c2d72",
+     "title": "自发电抗菌牙刷问世：利用压电效应产生电荷 实验中牙菌斑清除率超过99%",
+     "source": "cnBeta",
+     "url": "https://www.cnbeta.com.tw/articles/tech/1585060.htm",
+     "published_at": 1793820862.0
+    }
+   ]
+  },
+  {
+   "text": "Article URL: https://www",
+   "keyword": "",
+   "news_ids": [
+    "a4a1e5cec883ca77"
+   ],
+   "refs": [
+    {
+     "id": "a4a1e5cec883ca77",
+     "title": "Ripple-65B Preview: U.S. Open-Weight SOTA on Agentic Coding",
+     "source": "Hacker News",
+     "url": "https://www.ricursive.com/ripple",
+     "published_at": 1793818409.0
+    }
+   ]
+  },
+  {
+   "text": "Article URL: https://longreads",
+   "keyword": "",
+   "news_ids": [
+    "ced6342de7c2b158"
+   ],
+   "refs": [
+    {
+     "id": "ced6342de7c2b158",
+     "title": "Have I Befriended a Murderer?",
+     "source": "Hacker News",
+     "url": "https://longreads.com/2026/11/03/murder-friendship-doubt/",
+     "published_at": 1793817654.0
+    }
+   ]
+  }
+ ],
+ "article": {
+  "title": "2026-11-05 新闻总结",
+  "paragraphs": [
+   {
+    "kind": "lead",
+    "text": "今天共收录 103 条新闻，来自 7 家媒体。把标题放在一起看，讨论主要集中在 AI、Agent 这几个方向上，其余消息更像是零散补充。"
+   },
+   {
+    "kind": "section",
+    "heading": "AI",
+    "text": "先看「AI」。IT之家 11 月 5 日消息，彭博社今天（11 月 5 日）发布博文， 报道称苹果公司为了遏制快速上升的 AI 使用成本，另有 72 条消息指向同一话题。这类进展更像是把已有能力往工程化落地推了一步，真正的分水岭在于成本和可靠性能不能同时压下来。",
+    "news_ids": [
+     "5102579e6073b42a"
+    ],
+    "refs": [
+     {
+      "id": "5102579e6073b42a",
+      "title": "彭博社称苹果收紧员工 AI 使用预算：部分工程师日额度下降 33%，恐进一步下探至 100 美元",
+      "source": "IT之家",
+      "url": "https://www.ithome.com/1/022/479.htm",
+      "published_at": 1793833646.0
+     }
+    ]
+   },
+   {
+    "kind": "section",
+    "heading": "驾驶",
+    "text": "与此同时「驾驶」。自动驾驶出租车公司Waymo确认将于2028年1月结束与Uber在美国奥斯汀和亚特兰大市场的独家合作关系…，另有 7 条消息指向同一话题。从节奏上看，行业已经从「能不能做」转向「做得便不便宜」，这通常意味着竞争会更务实。",
+    "news_ids": [
+     "e62dff29cc78f5b8"
+    ],
+    "refs": [
+     {
+      "id": "e62dff29cc78f5b8",
+      "title": "Waymo确认2028年结束与Uber独家合作 自动驾驶出租车业务将转向自有平台",
+      "source": "cnBeta",
+      "url": "https://www.cnbeta.com.tw/articles/tech/1585050.htm",
+      "published_at": 1793816817.0
+     }
+    ]
+   },
+   {
+    "kind": "section",
+    "heading": "航天",
+    "text": "另一个值得注意的方向是「航天」。美国国家航空航天局（NASA）的“旅行者1号”探测器即将迎来又一个历史性里程碑…。单看一条新闻容易高估影响，放到最近几周的脉络里，它更像是一个渐进变化中的节点。",
+    "news_ids": [
+     "f903303b55a6b977"
+    ],
+    "refs": [
+     {
+      "id": "f903303b55a6b977",
+      "title": "旅行者1号再创历史 即将成为首个距离地球“一光日”的人类航天器",
+      "source": "cnBeta",
+      "url": "https://www.cnbeta.com.tw/articles/science/1585064.htm",
+      "published_at": 1793822381.0
+     }
+    ]
+   },
+   {
+    "kind": "section",
+    "heading": "开源",
+    "text": "相比之下「开源」。Anthropic 为重要开源项目新增可选安全扫描服务…。技术路线的胜负很少由一次发布会决定，接下来要看的是它能不能被更多团队低成本复用。",
+    "news_ids": [
+     "056e64d62c5046d9"
+    ],
+    "refs": [
+     {
+      "id": "056e64d62c5046d9",
+      "title": "Anthropic 为重要开源项目新增可选安全扫描服务",
+      "source": "InfoQ中文",
+      "url": "https://www.infoq.cn/article/hdmi6FdjpYSEvuMhPOAa?utm_source=rss&utm_medium=article",
+      "published_at": 1793822014.0
+     }
+    ]
+   },
+   {
+    "kind": "glossary",
+    "items": [
+     {
+      "term": "AI",
+      "desc": "人工智能，让机器完成识别、生成、判断等原本需要人做的任务"
+     },
+     {
+      "term": "Agent",
+      "desc": "智能体，能自己拆解任务、调用工具并连续执行的 AI 程序"
+     },
+     {
+      "term": "AR",
+      "desc": "增强现实，把虚拟图像叠加到真实世界画面上"
+     },
+     {
+      "term": "GPU",
+      "desc": "图形处理器，因为擅长大规模并行计算，成了 AI 训练的主力硬件"
+     },
+     {
+      "term": "API",
+      "desc": "应用程序接口，让不同软件按约定好的方式互相调用"
+     },
+     {
+      "term": "开源",
+      "desc": "源代码公开，允许他人查看、修改并再分发"
+     }
+    ]
+   },
+   {
+    "kind": "outlook",
+    "text": "把这几条放在一起看，最值得跟踪的是 AI 和 Agent 两条线：一条决定技术能走多远，一条决定它多快能落到普通人的日常里。至于其他消息，可以先放进观察名单，等后续有更实的进展再判断。"
+   }
+  ],
+  "word_count": 584
+ },
+ "ai_enhanced": false,
+ "schema": 1,
+ "window_bj": {
+  "start": "2026-11-05 00:00",
+  "end": "2026-11-05 09:00"
+ }
+}

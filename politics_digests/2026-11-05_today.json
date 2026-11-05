@@ -1,0 +1,366 @@
+{
+ "type": "today",
+ "date": "2026-11-05",
+ "window": {
+  "start_ts": 1793808000.0,
+  "end_ts": 1793840400.0
+ },
+ "generated_at": 1793844044.7672749,
+ "generator": "action",
+ "news_count": 52,
+ "keywords": [
+  "中国",
+  "同比",
+  "增长",
+  "比增",
+  "等地",
+  "ai",
+  "中期",
+  "公开",
+  "原因",
+  "指数"
+ ],
+ "points": [
+  {
+   "text": "【中国】据中国物流与采购联合会消息，10月份中国大宗商品价格指数为137.0点，同比上涨21.0%",
+   "keyword": "中国",
+   "news_ids": [
+    "a0999d24c1d50925"
+   ],
+   "refs": [
+    {
+     "id": "a0999d24c1d50925",
+     "title": "10月中国大宗商品价格指数同比上涨21.0%",
+     "source": "中新网即时",
+     "url": "https://www.chinanews.com.cn/cj/2026/11-05/10726348.shtml",
+     "published_at": 1793834353.0
+    }
+   ]
+  },
+  {
+   "text": "【同比】每经记者｜包晶晶",
+   "keyword": "同比",
+   "news_ids": [
+    "5a967d8e6c4f9a3c"
+   ],
+   "refs": [
+    {
+     "id": "5a967d8e6c4f9a3c",
+     "title": "楼市“银十”收官：京沪新房销售面积实现同比增长 18个重点城市二手房成交量同比增长17.5%",
+     "source": "中新网即时",
+     "url": "https://www.chinanews.com.cn/cj/2026/11-05/10726379.shtml",
+     "published_at": 1793839031.0
+    }
+   ]
+  },
+  {
+   "text": "【中期】原标题：马斯克砸了近5亿美元，共和党还是输了中期选举，特朗普最新表态，“否决先生”已就位 | 国际早察",
+   "keyword": "中期",
+   "news_ids": [
+    "918da88228b4cd74"
+   ],
+   "refs": [
+    {
+     "id": "918da88228b4cd74",
+     "title": "马斯克砸了近5亿美元，共和党还是输了中期选举",
+     "source": "中新网即时",
+     "url": "https://www.chinanews.com.cn/gj/2026/11-05/10726366.shtml",
+     "published_at": 1793836027.0
+    }
+   ]
+  },
+  {
+   "text": "【等地】中新网11月5日电 据中央气象台网站消息，昨日，广东、江西等地出现大到暴雨；内蒙古及东北地区出现大风降温天气，部分地区出现雨雪",
+   "keyword": "等地",
+   "news_ids": [
+    "8b1871c1b6ed7898"
+   ],
+   "refs": [
+    {
+     "id": "8b1871c1b6ed7898",
+     "title": "贵州湖南江西等地有中到大雨 冷空气将影响内蒙古和东北地区等地",
+     "source": "中新网即时",
+     "url": "https://www.chinanews.com.cn/sh/2026/11-05/10726375.shtml",
+     "published_at": 1793838745.0
+    }
+   ]
+  },
+  {
+   "text": "【原因】從選民的不滿情緒，到總統本人支持度低迷，本文分析為何傳統共和黨票倉的美國選民轉而支持民主黨",
+   "keyword": "原因",
+   "news_ids": [
+    "1f082e4443ea861d"
+   ],
+   "refs": [
+    {
+     "id": "1f082e4443ea861d",
+     "title": "共和黨在美國中期選舉中慘敗的五大原因",
+     "source": "BBC中文",
+     "url": "https://www.bbc.com/zhongwen/articles/cxyvrz6qrm2lo/trad?at_medium=RSS&at_campaign=rss",
+     "published_at": 1793823647.0
+    }
+   ]
+  },
+  {
+   "text": "【么认】市场监管总局日前发布《市场监督管理行政处罚裁量规定》，将于明年1月1日起施行",
+   "keyword": "么认",
+   "news_ids": [
+    "457fa3d598250115"
+   ],
+   "refs": [
+    {
+     "id": "457fa3d598250115",
+     "title": "市场监管行政处罚裁量新规发布 “首违不罚”具体怎么认定？",
+     "source": "中新网即时",
+     "url": "https://www.chinanews.com.cn/cj/2026/11-05/10726367.shtml",
+     "published_at": 1793836569.0
+    }
+   ]
+  },
+  {
+   "text": "【公开】WTA250香港公开赛：威廉姆斯/徐一璠晋级女双八强",
+   "keyword": "公开",
+   "news_ids": [
+    "815196dc07b445eb"
+   ],
+   "refs": [
+    {
+     "id": "815196dc07b445eb",
+     "title": "WTA250香港公开赛：威廉姆斯/徐一璠晋级女双八强",
+     "source": "中新网即时",
+     "url": "http://www.chinanews.com.cn/tp/hd2011/2026/11-05/1209820.shtml",
+     "published_at": 1793835100.0
+    }
+   ]
+  },
+  {
+   "text": "【ai】秋招面试AI攻防大战，究竟谁是赢家",
+   "keyword": "ai",
+   "news_ids": [
+    "df113b6337ffae7c"
+   ],
+   "refs": [
+    {
+     "id": "df113b6337ffae7c",
+     "title": "秋招面试AI攻防大战，究竟谁是赢家",
+     "source": "中新网即时",
+     "url": "https://www.chinanews.com.cn/sh/2026/11-05/10726354.shtml",
+     "published_at": 1793834908.0
+    }
+   ]
+  },
+  {
+   "text": "【泰国】中新社曼谷11月4日电 (王茜 李映民)泰国总理阿努廷4日在曼谷举行的2026年泰国标准经济论坛上发表主旨演讲，提出“重塑泰国”构想，强调泰国应",
+   "keyword": "泰国",
+   "news_ids": [
+    "1df99e6a8ce3c88f"
+   ],
+   "refs": [
+    {
+     "id": "1df99e6a8ce3c88f",
+     "title": "泰国总理提出“重塑泰国”构想 强调增强经济自主能力",
+     "source": "中新网即时",
+     "url": "https://www.chinanews.com.cn/gj/2026/11-05/10726337.shtml",
+     "published_at": 1793833236.0
+    }
+   ]
+  },
+  {
+   "text": "沙沙……嚓嚓……”刻刀起落之间，木板上渐渐浮现出遒劲的艺术字体",
+   "keyword": "",
+   "news_ids": [
+    "775b9adad17e40ea"
+   ],
+   "refs": [
+    {
+     "id": "775b9adad17e40ea",
+     "title": "一木一刻承文脉 同心同向兴乡村",
+     "source": "中新网即时",
+     "url": "https://www.chinanews.com.cn/txy/2026/11-05/10726381.shtml",
+     "published_at": 1793840287.0
+    }
+   ]
+  },
+  {
+   "text": "法国卢浮宫举办特展纪念摄影术诞生200周年",
+   "keyword": "",
+   "news_ids": [
+    "bf667bebdc3fa72b"
+   ],
+   "refs": [
+    {
+     "id": "bf667bebdc3fa72b",
+     "title": "法国卢浮宫举办特展纪念摄影术诞生200周年",
+     "source": "中新网即时",
+     "url": "http://www.chinanews.com.cn/tp/hd2011/2026/11-05/1209840.shtml",
+     "published_at": 1793839077.0
+    }
+   ]
+  },
+  {
+   "text": "上市银行批量收编村镇银行的改革浪潮持续升温",
+   "keyword": "",
+   "news_ids": [
+    "37565fe329432377"
+   ],
+   "refs": [
+    {
+     "id": "37565fe329432377",
+     "title": "年内上市银行已收编超40家村行",
+     "source": "中新网即时",
+     "url": "https://www.chinanews.com.cn/cj/2026/11-05/10726378.shtml",
+     "published_at": 1793838939.0
+    }
+   ]
+  },
+  {
+   "text": "没有“三高”也可能突发血栓！血液里的“隐形杀手”很多人都忽视了",
+   "keyword": "",
+   "news_ids": [
+    "6bf2253872183c22"
+   ],
+   "refs": [
+    {
+     "id": "6bf2253872183c22",
+     "title": "没有“三高”也可能突发血栓！血液里的“隐形杀手”很多人都忽视了",
+     "source": "中新网即时",
+     "url": "https://www.chinanews.com.cn/life/2026/11-05/10726370.shtml",
+     "published_at": 1793836894.0
+    }
+   ]
+  },
+  {
+   "text": "从湖南沅陵的土家族吊脚楼到运-20驾驶舱，陈康走了整整十年",
+   "keyword": "",
+   "news_ids": [
+    "946c1235522c047b"
+   ],
+   "refs": [
+    {
+     "id": "946c1235522c047b",
+     "title": "我的天涯海角】“Made in China？”运-20机长陈康：“Of Course！”",
+     "source": "中新网即时",
+     "url": "http://www.chinanews.com.cn/mil/shipin/cns/2026/11-05/news1073839.shtml",
+     "published_at": 1793835963.0
+    }
+   ]
+  },
+  {
+   "text": "俄罗斯首都莫斯科庆祝“人民团结日”",
+   "keyword": "",
+   "news_ids": [
+    "8d2d2648def84656"
+   ],
+   "refs": [
+    {
+     "id": "8d2d2648def84656",
+     "title": "俄罗斯首都莫斯科庆祝“人民团结日”",
+     "source": "中新网即时",
+     "url": "http://www.chinanews.com.cn/tp/hd2011/2026/11-05/1209828.shtml",
+     "published_at": 1793835844.0
+    }
+   ]
+  }
+ ],
+ "article": {
+  "title": "2026-11-05 新闻总结",
+  "paragraphs": [
+   {
+    "kind": "lead",
+    "text": "今天共收录 52 条新闻，来自 4 家媒体。把标题放在一起看，讨论主要集中在 AI、增长 这几个方向上，其余消息更像是零散补充。"
+   },
+   {
+    "kind": "section",
+    "heading": "电商",
+    "text": "先看「电商」。中国物流与采购联合会今天发布10月份中国电商物流指数…，另有 7 条消息指向同一话题。技术路线的胜负很少由一次发布会决定，接下来要看的是它能不能被更多团队低成本复用。",
+    "news_ids": [
+     "98d69fd655a91740"
+    ],
+    "refs": [
+     {
+      "id": "98d69fd655a91740",
+      "title": "10月中国电商物流指数持续回暖向好 旺季履约保障有力",
+      "source": "中新网即时",
+      "url": "https://www.chinanews.com.cn/cj/2026/11-05/10726339.shtml",
+      "published_at": 1793832219.0
+     }
+    ]
+   },
+   {
+    "kind": "section",
+    "heading": "增长",
+    "text": "与此同时「增长」。每经记者｜包晶晶…，另有 2 条消息指向同一话题。资本动作往往领先产品一年，值得盯的不是金额，而是钱最后花向了算力、场景还是补贴。",
+    "news_ids": [
+     "5a967d8e6c4f9a3c"
+    ],
+    "refs": [
+     {
+      "id": "5a967d8e6c4f9a3c",
+      "title": "楼市“银十”收官：京沪新房销售面积实现同比增长 18个重点城市二手房成交量同比增长17.5%",
+      "source": "中新网即时",
+      "url": "https://www.chinanews.com.cn/cj/2026/11-05/10726379.shtml",
+      "published_at": 1793839031.0
+     }
+    ]
+   },
+   {
+    "kind": "section",
+    "heading": "马斯克砸了近5亿美元",
+    "text": "另一个值得注意的方向是「马斯克砸了近5亿美元」。原标题：马斯克砸了近5亿美元，共和党还是输了中期选举，特朗普最新表态，另有 4 条消息指向同一话题。单看一条新闻容易高估影响，放到最近几周的脉络里，它更像是一个渐进变化中的节点。",
+    "news_ids": [
+     "918da88228b4cd74"
+    ],
+    "refs": [
+     {
+      "id": "918da88228b4cd74",
+      "title": "马斯克砸了近5亿美元，共和党还是输了中期选举",
+      "source": "中新网即时",
+      "url": "https://www.chinanews.com.cn/gj/2026/11-05/10726366.shtml",
+      "published_at": 1793836027.0
+     }
+    ]
+   },
+   {
+    "kind": "section",
+    "heading": "贵州湖南江西等地有中到大雨 冷空",
+    "text": "相比之下「贵州湖南江西等地有中到大雨 冷空」。中新网11月5日电 据中央气象台网站消息，昨日，广东、江西等地出现大到暴雨；内蒙古及东北地区出现大风降温天气，另有 1 条消息指向同一话题。这条消息短期内的实际影响可能有限，但它指向的方向值得放进观察名单。",
+    "news_ids": [
+     "8b1871c1b6ed7898"
+    ],
+    "refs": [
+     {
+      "id": "8b1871c1b6ed7898",
+      "title": "贵州湖南江西等地有中到大雨 冷空气将影响内蒙古和东北地区等地",
+      "source": "中新网即时",
+      "url": "https://www.chinanews.com.cn/sh/2026/11-05/10726375.shtml",
+      "published_at": 1793838745.0
+     }
+    ]
+   },
+   {
+    "kind": "glossary",
+    "items": [
+     {
+      "term": "AI",
+      "desc": "人工智能，让机器完成识别、生成、判断等原本需要人做的任务"
+     },
+     {
+      "term": "算力",
+      "desc": "计算能力，通常用 GPU 数量和浮点性能衡量，是训练大模型的门槛"
+     }
+    ]
+   },
+   {
+    "kind": "outlook",
+    "text": "把这几条放在一起看，最值得跟踪的是 AI 和 增长 两条线：一条决定技术能走多远，一条决定它多快能落到普通人的日常里。至于其他消息，可以先放进观察名单，等后续有更实的进展再判断。"
+   }
+  ],
+  "word_count": 556
+ },
+ "ai_enhanced": false,
+ "schema": 1,
+ "window_bj": {
+  "start": "2026-11-05 00:00",
+  "end": "2026-11-05 09:00"
+ }
+}
