@@ -1,7 +1,7 @@
 {
  "date": "2026-11-05",
- "generated_at": 1793882041.624676,
- "count": 344,
+ "generated_at": 1793886778.3027847,
+ "count": 361,
  "items": [
   {
    "id": "8376488d1895c19f",
@@ -22,6 +22,105 @@
    "published_bj": "2026-11-05 21:54"
   },
   {
+   "id": "b749be239a0b1267",
+   "source": "IT之家",
+   "title": "摩根大通：DRAM / NAND 供需仍紧张，基本面有望保持强劲至 2028 年",
+   "url": "https://www.ithome.com/1/022/991.htm",
+   "summary": "IT之家 11 月 5 日消息，据财联社报道，摩根大通最新研究报告指出，主要存储股较 2026 年高点平均回撤约 45%，费城半导体指数较近期高点回撤约 29%。 摩根大通认为，尽管市场担忧人工智能融资、电力瓶颈及投资回报，但 DRAM（IT之家注：动态随机存储器）和 NAND（闪存）供需仍然紧张，长期供货协议不断扩大覆盖范围， 行业基本面有望保持强劲至 2028 年 。未来六个月，存储企业盈利预测遭到下调的可能性较低。",
+   "published_at": 1793886686.0,
+   "published_bj": "2026-11-05 21:51"
+  },
+  {
+   "id": "c87bab23edf23d29",
+   "source": "IT之家",
+   "title": "不法分子冒充大众发布虚假召回短信，大众中国官方发布声明提醒车主提高警惕",
+   "url": "https://www.ithome.com/1/022/990.htm",
+   "summary": "IT之家 11 月 5 日消息，大众中国官方微博今日发布声明， 称近日有不法分子冒用“大众汽车（中国）投资有限公司”及相关监管部门名义 ，向部分车主发送虚假短信，并通过非官方链接诱导车主提供个人信息、办理所谓召回手续。 大众汽车声明，上述短信及所附文件均非大众汽车官方发布的召回通知。请广大车主提高警惕， 切勿点击可疑链接、回复相关信息或向不明来源提供个人及车辆信息 ，谨防上当受骗。如需查询车辆召回信息，请通过国家市场监督管理总局缺陷产品召回技术中心官方网站。 据IT之家昨日报道，日前，大众汽车（中国）销售有限公司、上汽大众汽车有限公司、一汽-大众汽车有限公司根据《缺陷汽车产品召回管理条例》《缺",
+   "published_at": 1793886471.0,
+   "published_bj": "2026-11-05 21:47"
+  },
+  {
+   "id": "a4471f7674398af7",
+   "source": "IT之家",
+   "title": "张雪时隔 17 年圆梦“水上漂”：系列纪录片《深浅之间》三集连发，讲述挑战背后的故事",
+   "url": "https://www.ithome.com/1/022/989.htm",
+   "summary": "IT之家 11 月 5 日消息，今年 10 月 25 日，“张雪机车”创始人张雪驾驶改装摩托车 MX450，在湖南省怀化市麻阳苗族自治县郭公坪镇小坡村， 以 40.74 公里的成绩，刷新“改装摩托车在开阔水域行驶最远距离”吉尼斯世界纪录 。 IT之家注意到，张雪机车官方微博发布了系列纪录片 ——《深浅之间》， 讲述了张雪时隔 17 年再战“水上漂”背后的故事 。 据IT之家了解，这场挑战要追溯到 2009 年。当时 22 岁的张雪在央视节目中骑着一辆车轮上焊着铁皮的摩托车冲向水面，四次尝试全部落水，最远只滑出 20 米，离他自己定下的 26 米目标差了一口气。 重启挑战的念头始于今年 3 月有",
+   "published_at": 1793886164.0,
+   "published_bj": "2026-11-05 21:42"
+  },
+  {
+   "id": "3c2ad679762273e3",
+   "source": "cnBeta",
+   "title": "大选凸显AI相关担忧 OpenAI承诺自行承担数据中心电力费用",
+   "url": "https://www.cnbeta.com.tw/articles/tech/1585146.htm",
+   "summary": "就在选民通过投票对人工智能快速扩张表达态度的两天之后，OpenAI 于周四公布多项承诺，再次重申将全额承担旗下数据中心的供电成本。这家人工智能企业在承诺文件中写明：对于公司自有运营的数据中心，将征集社区意见、公开建设规划，并且不再与公职人员签署保密协议。此外，OpenAI 在政策纲领中呼吁政策制定者，把同类承诺上升为法律。 阅读全文",
+   "published_at": 1793885978.0,
+   "published_bj": "2026-11-05 21:39"
+  },
+  {
+   "id": "7a8d4ba04dbb206a",
+   "source": "IT之家",
+   "title": "摩托罗拉发布 Signature 27 手机：骁龙 8EE6 芯片、2 亿长焦，1599 美元",
+   "url": "https://www.ithome.com/1/022/988.htm",
+   "summary": "IT之家 11 月 5 日消息，摩托罗拉今日发布 Signature 27 手机，新品采用仿织物外壳、铝合金边框，配备骁龙 8 Elite Extreme Gen 6 芯片，拥有 2 亿像素潜望长焦镜头， 售价 1,599 美元 （IT之家注：现汇率约合 10,690 元人民币） ，初期仅在美国发售。 据介绍，这款手机提供煤烟黑、卡普莱特橄榄绿两种 Pantone 配色，搭配铝合金中框，屏幕表面覆盖康宁大猩猩 Ceramic 3 玻璃，支持 IP68 和 IP69 防尘防水。 硬件方面，该机搭载骁龙 8 Elite Extreme Gen 6 芯片，配合 ArcticMesh 散热系统，拥有面",
+   "published_at": 1793885856.0,
+   "published_bj": "2026-11-05 21:37"
+  },
+  {
+   "id": "fc911249a14a116c",
+   "source": "IT之家",
+   "title": "等径八齿嵌合设计边刷：科沃斯擦窗机器人 W2S PLUS 基站款 1553 元国补新低",
+   "url": "https://www.ithome.com/1/022/987.htm",
+   "summary": "科沃斯 · 窗宝 W2S PLUS 擦窗机器人基站款 2026 年 5 月开售，官方定价 1799 元。 京东 11.11 大促期间，按下方步骤下单，叠加 15% 国补后仅需 1553.5 元： 下单时选择“以旧换新 → 个护健康 → 电动牙刷 （无需回收）”补贴 30 元。 晒单再返 20 元京豆。 京东 科沃斯 窗宝 擦窗机器人 W2S PLUS 基站款 以旧换新后 1553.5 元 直达链接 京东 11.11 无门槛红包至高 26888 元，支持即领即用，下单直接当钱花： 点此抽取 。 这款擦窗机器人搭载全新智能边刷，采用 等径八齿嵌合设计 ，清洁直抵边角；采用高密度毛毡边刷，官方宣称干",
+   "published_at": 1793885395.0,
+   "published_bj": "2026-11-05 21:29"
+  },
+  {
+   "id": "d6fdd356e8f2e8d5",
+   "source": "IT之家",
+   "title": "包裹在途实时可视可管：中国移动 × 无锡邮政 × 华为完成物流领域首个广域蜂窝无源物联场景化验证",
+   "url": "https://www.ithome.com/1/022/986.htm",
+   "summary": "IT之家 11 月 5 日消息，据华为无线网络官方公众号分享，2026 世界物联网博览会期间，中国移动江苏公司无锡分公司联合无锡邮政、华为完成 物流领域首个 广域蜂窝无源物联场景化验证。 据介绍，以往邮袋信息化管理缺位、逆向回收困难，难以实时掌握在途位置与状态，末端回收率低。三方此次联合从邮袋追踪这一刚需场景切入， 在真实支线运输中打通“标签 — 基站 — 核心网 — 平台”端到端全链路 ，实现邮政包裹在途全程实时可视可管。 IT之家注：邮袋是邮件容器的一种，一般用帆布制作。是邮件在分拣封发和运输中最常使用的一种邮件容器。邮袋有多种型号和规格，包括普通款、方底款、拉链款等，以及国内特快邮袋、国",
+   "published_at": 1793885077.0,
+   "published_bj": "2026-11-05 21:24"
+  },
+  {
+   "id": "30d0faf46aa56ded",
+   "source": "IT之家",
+   "title": "任天堂社长古川俊太郎称 Switch 2 游戏机暂无进一步涨价计划",
+   "url": "https://www.ithome.com/1/022/985.htm",
+   "summary": "IT之家 11 月 5 日消息，任天堂在 2027 财年半年报披露，公司二季度（即 7 月至 9 月）共出货 267 万台 Switch 2 游戏机，较去年同期的 454 万台下降 41%。 受内存短缺潮影响，任天堂已在今年 5 月（日本）/9 月（北美、欧洲等地）上调 Switch 2 售价。不过根据 IGN 报道，任天堂社长古川俊太郎坚持表示，公司拥有足够的内存供应，能够满足截至 2027 年 3 月销售 1650 万台 Switch 2 目标， 当前没有进一步调整售价的考虑 。 同时，Switch 2 的累计销量已经来到 2635 万台。如果按照上市后的同期表现进行比较，Switch 2",
+   "published_at": 1793884461.0,
+   "published_bj": "2026-11-05 21:14"
+  },
+  {
+   "id": "d73db4e6586a677e",
+   "source": "IT之家",
+   "title": "苹果 iOS 27.3 代码暗示，HomeView 有望支持 ChatGPT、Claude 等第三方 AI 应用",
+   "url": "https://www.ithome.com/1/022/984.htm",
+   "summary": "IT之家 11 月 5 日消息，代码显示，苹果计划在 iOS 27.3 测试版中为 HomeView 增加对 ChatGPT、Claude 等第三方 AI 聊天机器人的支持。 IT之家注意到，本月初，爆料者 pdfu 发现系统中存在一个尚未启用的 ConversationalApps 标记，因此推测 ChatGPT、Claude 等 AI 应用可能会接入 HomeView。如今，该爆料者表示，iOS 27.3 测试版中的代码已经证实了这一猜测。 pdfu 写道：“这件事真的要来了，各位：AI 应用即将登陆 HomeView。作为 HomeView 车载互联桥接工具的 PebblePlay，已在",
+   "published_at": 1793884271.0,
+   "published_bj": "2026-11-05 21:11"
+  },
+  {
+   "id": "fd483677d5f7d0e9",
+   "source": "IT之家",
+   "title": "OPPO 面向 6G 时代重要技术布局，全球首个端网智能体意图通信白皮书发布",
+   "url": "https://www.ithome.com/1/022/983.htm",
+   "summary": "IT之家 11 月 5 日消息，中国移动全球合作伙伴大会今日在广州开幕。OPPO 官方宣布，其携折叠旗舰、影像旗舰、AI、山海通信及 6G 通信等产品与技术参展， 并发布全球首个端网智能体意图通信白皮书 。 OPPO 官方表示，在 6G 从“连接增强”走向“智能原生”的背景下，通信网络不仅要更快，还要能针对不同业务提供差异化、确定性保障。 意图通信，就是 OPPO 面向 6G 布局的重要技术方向之一 。 据介绍，作为一种以业务目标而非实现手段为交互对象的端网通信模式，意图通信，旨在让未来网络不仅能够完成数据传输，还能理解用户真正想获得的体验，推动通信从“传数据”进一步走向“传意图”，帮助用户在",
+   "published_at": 1793884205.0,
+   "published_bj": "2026-11-05 21:10"
+  },
+  {
+   "id": "37b03aeef5b29346",
+   "source": "IT之家",
+   "title": "一汽丰田全新亚洲龙上市，限时权益价 13.38 万元起",
+   "url": "https://www.ithome.com/1/022/982.htm",
+   "summary": "IT之家 11 月 5 日消息，一汽丰田全新亚洲龙今日正式上市，新车提供 7 款车型， 限时权益价 13.38 万元起 ，提供燃油和混动两种动力选择。 IT之家附该车各版本定价如下： 车型 官方指导价 限时权益价 2.0L 汽油进取版 17.88 万元 13.38 万元 2.0L 汽油臻选版 19.88 万元 15.38 万元 2.0L 汽油豪华版 20.88 万元 16.38 万元 2.0L 双擎臻选版 20.68 万元 16.18 万元 2.0L 双擎豪华版 21.68 万元 17.18 万元 2.0L 双擎尊享版 22.68 万元 18.18 万元 2.5L 双擎 Limited 旗舰版",
+   "published_at": 1793883679.0,
+   "published_bj": "2026-11-05 21:01"
+  },
+  {
    "id": "2ca4e4da9bba6de1",
    "source": "InfoQ中文",
    "title": "谷歌发布 ML Drift：为各类 GPU 加速端侧 AI 推理",
@@ -31,6 +130,33 @@
    "published_bj": "2026-11-05 21:00"
   },
   {
+   "id": "718d8200261fc79e",
+   "source": "TechCrunch",
+   "title": "A YC startup is putting $1M behind five unsolved materials science problems for AI",
+   "url": "https://techcrunch.com/2026/11/05/a-yc-startup-is-putting-1m-behind-five-unsolved-materials-science-problems-for-ai/",
+   "summary": "Discovered Materials, a months-old YC startup that uses AI to find chip materials, is offering $200,000 for each solution to five open materials science problems.",
+   "published_at": 1793883600.0,
+   "published_bj": "2026-11-05 21:00"
+  },
+  {
+   "id": "09a99310265d15ba",
+   "source": "IT之家",
+   "title": "2027 款领克 08 EM-P 上市：标配 192 线激光雷达、至高千里浩瀚 H7，限时 15.98 万元起",
+   "url": "https://www.ithome.com/1/022/980.htm",
+   "summary": "IT之家 11 月 5 日消息，2027 款领克 08 EM-P 智混 SUV 今晚正式上市，该车定位家庭场景， 限时置换价 15.98 万元起 。 210 四驱性能 Ultra：官方指导价 19.88 万元起、官方限时价 19.28 万元起、 限时置换价 18.68 万元起 ； 230 超长续航 Ultra：官方指导价 18.58 万元起、官方限时价 17.98 万元起、 限时置换价 17.38 万元起 ； 230 超长续航 Max：官方指导价 17.18 万元起、官方限时价 16.58 万元起、 限时置换价 15.98 万元起 。 外观方面，2027 款领克 08 EM-P 尺寸为 481",
+   "published_at": 1793882983.0,
+   "published_bj": "2026-11-05 20:49"
+  },
+  {
+   "id": "b13ec73efda5b4d8",
+   "source": "IT之家",
+   "title": "美国人形机器人第一股：Agility Robotics 本周登陆纳斯达克，获富士康、英伟达投资",
+   "url": "https://www.ithome.com/1/022/978.htm",
+   "summary": "IT之家 11 月 5 日消息，据彭博社报道，美国人形机器人企业 Agility Robotics 即将成为美国首家上市的专注于人形机器人的公司，这也标志着这一新兴行业迈出了重要一步。不过，人形机器人行业仍有许多问题有待验证。 这家初创公司将于当地时间本周四在纳斯达克挂牌交易，股票代码为“AGLT”。此前，Agility Robotics 已与特殊目的收购公司 Churchill Capital Corp. XI 完成合并。根据公司声明，此次交易完成后，Agility Robotics 手头资金约为 4.65 亿美元 （IT之家注：现汇率约合 31.09 亿元人民币） （不计相关费用），其中包",
+   "published_at": 1793882337.0,
+   "published_bj": "2026-11-05 20:38"
+  },
+  {
    "id": "4d022fe49cf92ff1",
    "source": "IT之家",
    "title": "大疆发布 Matrice 5T 无人机：标配激光雷达、毫米波雷达、全彩全向视觉感知系统，57488 元",
@@ -38,6 +164,15 @@
    "summary": "IT之家 11 月 5 日消息，DJI 大疆今日正式发布全场景轻型旗舰 DJI Matrice 5T。这是大疆首次在轻型行业无人机上标配激光雷达、毫米波雷达与全彩全向视觉感知系统。中国大陆地区官方售价为 57,488 元。 IT之家获悉，该机配备原生 1K 热成像相机、多焦段可见光相机，支持 IP55 防水等级，最长飞行时间达 59 分钟，内置机载算法可辨别超 20 种目标类型，开放算力可以导入第三方 AI 模型，全面覆盖应急救援、电力巡检、测绘、交通、水利海事、公共安全等多类场景。 官方表示，这款无人机的运输箱紧凑便携，单手即可轻松提拿；从开机到起飞仅需约 10 秒，可边飞边建模，照片可实时",
    "published_at": 1793881391.0,
    "published_bj": "2026-11-05 20:23"
+  },
+  {
+   "id": "af2ace41b2326dcc",
+   "source": "Hacker News",
+   "title": "Sshole",
+   "url": "https://sshhole.com",
+   "summary": "Article URL: https://sshhole.com Comments URL: https://news.ycombinator.com/item?id=50378228 Points: 420 # Comments: 92",
+   "published_at": 1793881142.0,
+   "published_bj": "2026-11-05 20:19"
   },
   {
    "id": "6355b614e193c7b0",
@@ -101,6 +236,15 @@
    "summary": "IT之家 11 月 5 日消息，河南省人民政府办公厅近日印发《关于河南省进一步提振消费若干政策措施的通知》。其中提到，加力促进汽车消费，开展新能源汽车下乡活动。 IT之家注意到， 该《通知》提到开展新能源汽车下乡活动 ，按照国家有关规定落实车辆购置税、车船税减免和汽车报废更新、置换更新补贴等政策。鼓励各地围绕维修改装、轮胎、保养、动力电池、汽车用品等发放汽车后市场消费券， 全链条促进汽车消费 。 此外，《通知》还提出加强郑州汽车流通消费改革试点城市建设， 加大汽车文化培育力度 ，积极发展汽车露营、自驾旅居、汽车赛事、主题展览等新业态，推动汽车消费与文旅、体育、休闲深度联动，促进人、车、景深度融",
    "published_at": 1793878929.0,
    "published_bj": "2026-11-05 19:42"
+  },
+  {
+   "id": "4304577c6e98190f",
+   "source": "Hacker News",
+   "title": "OpenSSH 10.6p2 Critical workaround for alpine without PAM",
+   "url": "https://www.openssh.org/releasenotes.html#10.6p2",
+   "summary": "Article URL: https://www.openssh.org/releasenotes.html#10.6p2 Comments URL: https://news.ycombinator.com/item?id=50377976 Points: 41 # Comments: 3",
+   "published_at": 1793878830.0,
+   "published_bj": "2026-11-05 19:40"
   },
   {
    "id": "e1cec714dd08a955",
@@ -821,6 +965,15 @@
    "summary": "IT之家 11 月 5 日现场消息，在今天的华为擎云 2026 鸿蒙办公产业峰会现场，华为终端平板与 PC 产品线总裁朱懂东宣布， 华为擎云 HM650 系列首款鸿蒙台式机拿下业界首个国产化率 100% 认证 。 朱懂东表示，通过核心器件的全栈自研、关键器件的联合开发、通用器件的产量促进的策略，最终实现了（国产化率 100%）这一目标， 背后也离不开整个中国电脑产业链的协同发展 。 他直言， 如果不信的话，可以去拆 。 IT之家在峰会现场了解到，华为擎云 HM650 系列台式机搭载了麒麟 X90 芯片，软硬协同整机性能提升 15%；首发搭载鸿蒙电脑企业版，支持鸿蒙 AI、小艺 Work、小艺深",
    "published_at": 1793864934.0,
    "published_bj": "2026-11-05 15:48"
+  },
+  {
+   "id": "3c48c281b6caf30e",
+   "source": "Hacker News",
+   "title": "GPT-6 Astra covertly underperforms on safety research",
+   "url": "https://alignment.openai.com/misalignment-reports/covert-underperformance-on-safety-research-tasks/",
+   "summary": "Article URL: https://alignment.openai.com/misalignment-reports/covert-underperformance-on-safety-research-tasks/ Comments URL: https://news.ycombinator.com/item?id=50376313 Points: 33 # Comments: 11",
+   "published_at": 1793864670.0,
+   "published_bj": "2026-11-05 15:44"
   },
   {
    "id": "4f73fd13df777320",
