@@ -1,7 +1,7 @@
 {
  "date": "2026-11-06",
- "generated_at": 1793901348.592125,
- "count": 23,
+ "generated_at": 1793904399.8089485,
+ "count": 31,
  "items": [
   {
    "id": "2ecda06e80272e35",
@@ -11,6 +11,51 @@
    "summary": "点击查看原文>",
    "published_at": 1793905980.0,
    "published_bj": "2026-11-06 03:13"
+  },
+  {
+   "id": "0467a2292c1909b3",
+   "source": "IT之家",
+   "title": "我国成功发射遥感五十一号 07-09 星，主要用于科学试验、电磁环境探测等领域",
+   "url": "https://www.ithome.com/1/023/028.htm",
+   "summary": "IT之家 11 月 6 日消息，据央视新闻报道，11 月 5 日 23 时 58 分，长征二号丙运载火箭在西昌卫星发射中心点火升空，随后成功将遥感五十一号 07-09 星送入预定轨道， 发射任务取得圆满成功 。 长二丙火箭由中国航天科技集团有限公司一院抓总研制，为两级常温液体运载火箭， 具备一箭一星、一箭多星发射及星座部署能力 。 IT之家查询获悉， 该卫星主要用于科学试验、电磁环境探测等领域 。另外，本次发射是长征系列运载火箭的第 675 次发射。",
+   "published_at": 1793903944.0,
+   "published_bj": "2026-11-06 02:39"
+  },
+  {
+   "id": "08bf1faf734600df",
+   "source": "TechCrunch",
+   "title": "OpenAI president Greg Brockman says company could be IPO ready in 2027",
+   "url": "https://techcrunch.com/2026/11/05/openai-president-greg-brockman-says-company-could-be-ipo-ready-in-2027/",
+   "summary": "OpenAI President Greg Brockman says the company could be ready to go public in 2027, pointing to accelerating enterprise revenue and a turnaround in its business.",
+   "published_at": 1793901747.0,
+   "published_bj": "2026-11-06 02:02"
+  },
+  {
+   "id": "d0baab27b3e7c20d",
+   "source": "Hacker News",
+   "title": "Nasdaq Sinks 5% as Investors Retreat from AI Trade After Election",
+   "url": "https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-11-05-2026",
+   "summary": "Article URL: https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-11-05-2026 Comments URL: https://news.ycombinator.com/item?id=50382179 Points: 48 # Comments: 28",
+   "published_at": 1793901601.0,
+   "published_bj": "2026-11-06 02:00"
+  },
+  {
+   "id": "821879543441364c",
+   "source": "TechCrunch",
+   "title": "The ex-Secret Service agent who flipped a hacker is now raising a second $250M cybersecurity fund",
+   "url": "https://techcrunch.com/2026/11/05/the-ex-secret-service-agent-who-flipped-a-hacker-is-now-raising-a-second-250m-cybersecurity-fund/",
+   "summary": "Stephen Ward, a former Secret Service agent and Home Depot CISO, is preparing a second fund of roughly $250 million for Brightmind Partners.",
+   "published_at": 1793901600.0,
+   "published_bj": "2026-11-06 02:00"
+  },
+  {
+   "id": "42cc8e95e936b719",
+   "source": "TechCrunch",
+   "title": "Claude can now analyze your spending with its new Personal Finance tool",
+   "url": "https://techcrunch.com/2026/11/05/claude-can-now-analyze-your-spending-with-its-new-personal-finance-tool/",
+   "summary": "With Personal Finance in Claude, users can connect their bank and card accounts through Plaid and ask questions about their finances.",
+   "published_at": 1793901600.0,
+   "published_bj": "2026-11-06 02:00"
   },
   {
    "id": "179d25654c362e42",
@@ -67,6 +112,15 @@
    "published_bj": "2026-11-06 01:11"
   },
   {
+   "id": "5f96f1325ba99323",
+   "source": "Hacker News",
+   "title": "Nasdaq plummets 4% into correction territory",
+   "url": "https://www.cnbc.com/2026/11/04/stock-market-today-live-updates.html",
+   "summary": "Article URL: https://www.cnbc.com/2026/11/04/stock-market-today-live-updates.html Comments URL: https://news.ycombinator.com/item?id=50381623 Points: 64 # Comments: 37",
+   "published_at": 1793898675.0,
+   "published_bj": "2026-11-06 01:11"
+  },
+  {
    "id": "973bcc87ab1e9782",
    "source": "InfoQ中文",
    "title": "PHP 修复了两处已遭到攻击的严重远程代码执行漏洞",
@@ -94,6 +148,15 @@
    "published_bj": "2026-11-06 00:53"
   },
   {
+   "id": "5c2fd9804ef368a5",
+   "source": "Solidot",
+   "title": "印度金融机构遭黑客利用 AI 工具发动的网络攻击",
+   "url": "https://www.solidot.org/story?sid=85809",
+   "summary": "印度计算机应急响应小组（CERT-In）星期三发布安全通报，被称为“狡猾猎鹰”（Crafty Falcon）的黑客组织，已入侵非银行贷款机构、金融科技公司及加密货币交易所。攻击者利用公开可用的 AI 工具，实现高速自动化入侵。印度计算机应急响应小组形容这项威胁“仍在发生，且持续活跃”。该机构点名四款用于入侵的工具，分别是 ARTEX、PentAGI、Cairn 和 CyberStrikeAI。ARTEX 此前曾被用于攻击韩国银行。印度计算机应急响应小组没有说明这些攻击事件由谁发动，也未透露该组织的运作地点。该机构也没有称这些攻击由国家支持或主导，且其点名的攻击工具均可在网络上免费获取。",
+   "published_at": 1793897580.0,
+   "published_bj": "2026-11-06 00:53"
+  },
+  {
    "id": "67feb076f03502e2",
    "source": "Hacker News",
    "title": "Window Sweaters",
@@ -101,6 +164,15 @@
    "summary": "Article URL: https://github.com/saragordic/window-sweaters Comments URL: https://news.ycombinator.com/item?id=50381383 Points: 16 # Comments: 1",
    "published_at": 1793897414.0,
    "published_bj": "2026-11-06 00:50"
+  },
+  {
+   "id": "b08e889ff9309da9",
+   "source": "Solidot",
+   "title": "同步导致电网呈现周期为一分钟的震荡",
+   "url": "https://www.solidot.org/story?sid=85808",
+   "summary": "今天的电网接入了数以百万计的数字控制设备，为了维持电力供需平衡，精准预测和实时控制必不可少。电力系统因此转变成为一种信息物理融合的基础设施（Cyber–Physical Infrastructure）。物理设备与数字控制系统之间形成了紧密的相互依存关系，在带来前所未有的效率与灵活性的同时也引入了新的系统性风险。根据发表在《Nature Energy》期刊上的一项研究，德国研究人员指出全球电力系统存在的一种由信息物理同步效应所引发的、周期为一分钟的相干振荡现象。除了故障和恶意攻击外，即使是良性的控制程序，当大量设备以协同一致的方式运行时，也可能产生系统层面的影响。在大规模信息物理能源系统中，非预",
+   "published_at": 1793897148.0,
+   "published_bj": "2026-11-06 00:45"
   },
   {
    "id": "354d6f4c554b5603",
