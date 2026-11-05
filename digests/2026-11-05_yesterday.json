@@ -1,0 +1,382 @@
+{
+ "type": "yesterday",
+ "date": "2026-11-05",
+ "window": {
+  "start_ts": 1793808000.0,
+  "end_ts": 1793894400.0
+ },
+ "generated_at": 1793898156.3872783,
+ "generator": "action",
+ "news_count": 400,
+ "keywords": [
+  "ai",
+  "苹果",
+  "支持",
+  "发布",
+  "华为",
+  "元",
+  "openai",
+  "游戏",
+  "to",
+  "上市"
+ ],
+ "points": [
+  {
+   "text": "【ai】IT之家 11 月 5 日消息，代码显示，苹果计划在 iOS 27.3 测试版中为 HomeView 增加对 ChatGPT、Claude 等第",
+   "keyword": "ai",
+   "news_ids": [
+    "d73db4e6586a677e"
+   ],
+   "refs": [
+    {
+     "id": "d73db4e6586a677e",
+     "title": "苹果 iOS 27.3 代码暗示，HomeView 有望支持 ChatGPT、Claude 等第三方 AI 应用",
+     "source": "IT之家",
+     "url": "https://www.ithome.com/1/022/984.htm",
+     "published_at": 1793884271.0
+    }
+   ]
+  },
+  {
+   "text": "【ai】The deal is expected to support the development of DBX Agent Cloud, a ne",
+   "keyword": "ai",
+   "news_ids": [
+    "c1665c31af55dad7"
+   ],
+   "refs": [
+    {
+     "id": "c1665c31af55dad7",
+     "title": "Dropbox acquires Tigris Data for $350M to bolster its AI infrastructure",
+     "source": "TechCrunch",
+     "url": "https://techcrunch.com/2026/11/05/dropbox-acquires-tigris-data-for-350m-to-bolster-its-ai-iinfrastructure/",
+     "published_at": 1793891945.0
+    }
+   ]
+  },
+  {
+   "text": "【ai】谷歌发布 ML Drift：为各类 GPU 加速端侧 AI 推理",
+   "keyword": "ai",
+   "news_ids": [
+    "2ca4e4da9bba6de1"
+   ],
+   "refs": [
+    {
+     "id": "2ca4e4da9bba6de1",
+     "title": "谷歌发布 ML Drift：为各类 GPU 加速端侧 AI 推理",
+     "source": "InfoQ中文",
+     "url": "https://www.infoq.cn/article/hHzARIJTeqoqYpjNKEuq?utm_source=rss&utm_medium=article",
+     "published_at": 1793883600.0
+    }
+   ]
+  },
+  {
+   "text": "【苹果】IT之家 11 月 5 日消息，摩托罗拉今日发布 Signature 27 手机，新品采用仿织物外壳、铝合金边框，配备骁龙 8 Elite Ex",
+   "keyword": "苹果",
+   "news_ids": [
+    "7a8d4ba04dbb206a"
+   ],
+   "refs": [
+    {
+     "id": "7a8d4ba04dbb206a",
+     "title": "摩托罗拉发布 Signature 27 手机：骁龙 8EE6 芯片、2 亿长焦，1599 美元",
+     "source": "IT之家",
+     "url": "https://www.ithome.com/1/022/988.htm",
+     "published_at": 1793885856.0
+    }
+   ]
+  },
+  {
+   "text": "【游戏】IT之家 11 月 5 日消息，任天堂在 2027 财年半年报中透露，公司二季度（即 7 月至 9 月）共出货 267 万台 Switch 2 ",
+   "keyword": "游戏",
+   "news_ids": [
+    "fedf19d2a3043569"
+   ],
+   "refs": [
+    {
+     "id": "fedf19d2a3043569",
+     "title": "任天堂 Switch 2 出货量同比下降 41%，但游戏软件销量同比增长 26%",
+     "source": "IT之家",
+     "url": "https://www.ithome.com/1/022/960.htm",
+     "published_at": 1793877456.0
+    }
+   ]
+  },
+  {
+   "text": "【支持】硅谷一众亿万富豪主动向唐纳德·特朗普示好，累计向共和党候选人捐赠超6亿美元，却在美国中期选举中遭遇惨重失利",
+   "keyword": "支持",
+   "news_ids": [
+    "ae61301ceedbf851"
+   ],
+   "refs": [
+    {
+     "id": "ae61301ceedbf851",
+     "title": "钱不好使了” 硅谷富豪们掷6亿美元支持共和党却输选举",
+     "source": "cnBeta",
+     "url": "https://www.cnbeta.com.tw/articles/tech/1585148.htm",
+     "published_at": 1793888477.0
+    }
+   ]
+  },
+  {
+   "text": "Article URL: https://github",
+   "keyword": "",
+   "news_ids": [
+    "90bc491e7afc2327"
+   ],
+   "refs": [
+    {
+     "id": "90bc491e7afc2327",
+     "title": "Show HN: Stroq – a local audit of what your coding agent did and why",
+     "source": "Hacker News",
+     "url": "https://github.com/AGGIB/Stroq",
+     "published_at": 1793894081.0
+    }
+   ]
+  },
+  {
+   "text": "Article URL: https://kadhar",
+   "keyword": "",
+   "news_ids": [
+    "ec67f495151f6c55"
+   ],
+   "refs": [
+    {
+     "id": "ec67f495151f6c55",
+     "title": "Building a Multi-Agent System from Scratch: Architecture Patterns",
+     "source": "Hacker News",
+     "url": "https://kadhar.dev/blog/multi-agent-systems-from-scratch",
+     "published_at": 1793893917.0
+    }
+   ]
+  },
+  {
+   "text": "Zipline raised $1",
+   "keyword": "",
+   "news_ids": [
+    "3ae2bf080d422deb"
+   ],
+   "refs": [
+    {
+     "id": "3ae2bf080d422deb",
+     "title": "Zipline hits $21.5B valuation as Walmart expands bet on drone delivery",
+     "source": "TechCrunch",
+     "url": "https://techcrunch.com/2026/11/05/zipline-hits-21-5b-valuation-as-walmart-expands-bet-on-drone-delivery/",
+     "published_at": 1793893234.0
+    }
+   ]
+  },
+  {
+   "text": "The app will offer personalized product recommendations, shopping throug",
+   "keyword": "",
+   "news_ids": [
+    "a20f250332c80536"
+   ],
+   "refs": [
+    {
+     "id": "a20f250332c80536",
+     "title": "TikTok quietly launches a standalone TikTok Shop app",
+     "source": "TechCrunch",
+     "url": "https://techcrunch.com/2026/11/05/tiktok-quietly-launches-a-standalone-tiktok-shop-app/",
+     "published_at": 1793892838.0
+    }
+   ]
+  },
+  {
+   "text": "Article URL: https://github",
+   "keyword": "",
+   "news_ids": [
+    "0b97b34a25fc7db6"
+   ],
+   "refs": [
+    {
+     "id": "0b97b34a25fc7db6",
+     "title": "Offline survival assistant – local LLM and Kiwix, runs from a USB stick",
+     "source": "Hacker News",
+     "url": "https://github.com/sdalberto/ia-da-sobrevivencia/blob/main/README.en.md",
+     "published_at": 1793892336.0
+    }
+   ]
+  },
+  {
+   "text": "Article URL: https://nullprogram",
+   "keyword": "",
+   "news_ids": [
+    "6d93f29e0ac8f92b"
+   ],
+   "refs": [
+    {
+     "id": "6d93f29e0ac8f92b",
+     "title": "We can do better than line-buffered output",
+     "source": "Hacker News",
+     "url": "https://nullprogram.com/blog/2026/11/05/",
+     "published_at": 1793892322.0
+    }
+   ]
+  },
+  {
+   "text": "MCP C# SDK 2.0 默认启用 HTTP 无状态模式，新增多轮请求能力",
+   "keyword": "",
+   "news_ids": [
+    "8376488d1895c19f"
+   ],
+   "refs": [
+    {
+     "id": "8376488d1895c19f",
+     "title": "MCP C# SDK 2.0 默认启用 HTTP 无状态模式，新增多轮请求能力",
+     "source": "InfoQ中文",
+     "url": "https://www.infoq.cn/article/80iUxvCNB59aOgyXB7LN?utm_source=rss&utm_medium=article",
+     "published_at": 1793891940.0
+    }
+   ]
+  },
+  {
+   "text": "Article URL: https://nordstjernen",
+   "keyword": "",
+   "news_ids": [
+    "c1914973c7d892ce"
+   ],
+   "refs": [
+    {
+     "id": "c1914973c7d892ce",
+     "title": "Nordstjernen, Northstar, Southstar: minimalist webbrowsers in C and Rust",
+     "source": "Hacker News",
+     "url": "https://nordstjernen.org/",
+     "published_at": 1793891851.0
+    }
+   ]
+  },
+  {
+   "text": "到手刀”是二手交易里的黑话：意思是货一到手，买家就挑毛病、砍价，不按谈好的价格付款",
+   "keyword": "",
+   "news_ids": [
+    "bcd040d126e7bed3"
+   ],
+   "refs": [
+    {
+     "id": "bcd040d126e7bed3",
+     "title": "秒拍秒付、收货挑刺？拆解“到手刀”诈骗套路",
+     "source": "cnBeta",
+     "url": "https://www.cnbeta.com.tw/articles/tech/1585164.htm",
+     "published_at": 1793891543.0
+    }
+   ]
+  }
+ ],
+ "article": {
+  "title": "2026-11-05 新闻总结",
+  "paragraphs": [
+   {
+    "kind": "lead",
+    "text": "过去 24 小时共收录 400 条新闻，来自 7 家媒体。把标题放在一起看，讨论主要集中在 AI、游戏、上市 这几个方向上，其余消息更像是零散补充。"
+   },
+   {
+    "kind": "section",
+    "heading": "AI",
+    "text": "先看「AI」。IT之家 11 月 5 日消息，代码显示，苹果计划在 iOS 27.3 测试版中为 HomeView 增加对 ChatGPT，另有 277 条消息指向同一话题。这条消息短期内的实际影响可能有限，但它指向的方向值得放进观察名单。",
+    "news_ids": [
+     "d73db4e6586a677e"
+    ],
+    "refs": [
+     {
+      "id": "d73db4e6586a677e",
+      "title": "苹果 iOS 27.3 代码暗示，HomeView 有望支持 ChatGPT、Claude 等第三方 AI 应用",
+      "source": "IT之家",
+      "url": "https://www.ithome.com/1/022/984.htm",
+      "published_at": 1793884271.0
+     }
+    ]
+   },
+   {
+    "kind": "section",
+    "heading": "数据中心",
+    "text": "与此同时「数据中心」。就在选民通过投票对人工智能快速扩张表达态度的两天之后，OpenAI 于周四公布多项承诺，另有 31 条消息指向同一话题。这条消息短期内的实际影响可能有限，但它指向的方向值得放进观察名单。",
+    "news_ids": [
+     "3c2ad679762273e3"
+    ],
+    "refs": [
+     {
+      "id": "3c2ad679762273e3",
+      "title": "大选凸显AI相关担忧 OpenAI承诺自行承担数据中心电力费用",
+      "source": "cnBeta",
+      "url": "https://www.cnbeta.com.tw/articles/tech/1585146.htm",
+      "published_at": 1793885978.0
+     }
+    ]
+   },
+   {
+    "kind": "section",
+    "heading": "GPU",
+    "text": "另一个值得注意的方向是「GPU」。谷歌发布 ML Drift：为各类 GPU 加速端侧 AI 推理…，另有 12 条消息指向同一话题。这类进展更像是把已有能力往工程化落地推了一步，真正的分水岭在于成本和可靠性能不能同时压下来。",
+    "news_ids": [
+     "2ca4e4da9bba6de1"
+    ],
+    "refs": [
+     {
+      "id": "2ca4e4da9bba6de1",
+      "title": "谷歌发布 ML Drift：为各类 GPU 加速端侧 AI 推理",
+      "source": "InfoQ中文",
+      "url": "https://www.infoq.cn/article/hHzARIJTeqoqYpjNKEuq?utm_source=rss&utm_medium=article",
+      "published_at": 1793883600.0
+     }
+    ]
+   },
+   {
+    "kind": "section",
+    "heading": "手机",
+    "text": "相比之下「手机」。IT之家 11 月 5 日消息，摩托罗拉今日发布 Signature 27 手机，新品采用仿织物外壳、铝合金边框，配备骁龙 8 Elite Extreme Gen 6 芯片，另有 9 条消息指向同一话题。技术路线的胜负很少由一次发布会决定，接下来要看的是它能不能被更多团队低成本复用。",
+    "news_ids": [
+     "7a8d4ba04dbb206a"
+    ],
+    "refs": [
+     {
+      "id": "7a8d4ba04dbb206a",
+      "title": "摩托罗拉发布 Signature 27 手机：骁龙 8EE6 芯片、2 亿长焦，1599 美元",
+      "source": "IT之家",
+      "url": "https://www.ithome.com/1/022/988.htm",
+      "published_at": 1793885856.0
+     }
+    ]
+   },
+   {
+    "kind": "glossary",
+    "items": [
+     {
+      "term": "Agent",
+      "desc": "智能体，能自己拆解任务、调用工具并连续执行的 AI 程序"
+     },
+     {
+      "term": "AI",
+      "desc": "人工智能，让机器完成识别、生成、判断等原本需要人做的任务"
+     },
+     {
+      "term": "LLM",
+      "desc": "大语言模型，主打文字理解与生成，是「大模型」的同义词"
+     },
+     {
+      "term": "GPU",
+      "desc": "图形处理器，因为擅长大规模并行计算，成了 AI 训练的主力硬件"
+     },
+     {
+      "term": "IPO",
+      "desc": "首次公开募股，公司第一次把股票卖给公众并上市"
+     },
+     {
+      "term": "AR",
+      "desc": "增强现实，把虚拟图像叠加到真实世界画面上"
+     }
+    ]
+   },
+   {
+    "kind": "outlook",
+    "text": "把这几条放在一起看，最值得跟踪的是 AI 和 游戏 两条线：一条决定技术能走多远，一条决定它多快能落到普通人的日常里。至于其他消息，可以先放进观察名单，等后续有更实的进展再判断。"
+   }
+  ],
+  "word_count": 651
+ },
+ "ai_enhanced": false,
+ "schema": 1,
+ "window_bj": {
+  "start": "2026-11-05 00:00",
+  "end": "2026-11-06 00:00"
+ }
+}
