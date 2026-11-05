@@ -1,7 +1,7 @@
 {
  "date": "2026-11-05",
- "generated_at": 1793886778.3027847,
- "count": 361,
+ "generated_at": 1793890303.1551187,
+ "count": 395,
  "items": [
   {
    "id": "8376488d1895c19f",
@@ -13,12 +13,273 @@
    "published_bj": "2026-11-05 23:19"
   },
   {
+   "id": "0f2b1e230a4dc87f",
+   "source": "IT之家",
+   "title": "DeepSeek Harness：日活跃用户达 154 万、日消耗 Token 约 92 万亿，将建设官方插件市场",
+   "url": "https://www.ithome.com/1/023/011.htm",
+   "summary": "IT之家 11 月 5 日消息，DeepSeek Harness 官方今晚公布了 DeepSeek Harness 产品与社区的进展，并介绍了面向插件作者的支持计划。 8 月 13 日，DeepSeek Harness v0.1 版本上线；9 月 29 日，DeepSeek Harness 桌面端正式发布。截至 11 月 4 日，以使用官方 API 的用户为统计范围， DeepSeek Harness 日活跃用户已达 154 万，日消耗 Token 约 92 万亿 。 IT之家获悉，DeepSeek Harness 发布至今，第三方插件数量已增至约 3.5 万个，约 60% 的活跃用户制作或安",
+   "published_at": 1793890129.0,
+   "published_bj": "2026-11-05 22:48"
+  },
+  {
+   "id": "3de4e6659de70960",
+   "source": "IT之家",
+   "title": "实现翻番！今年前三季度我国氢能产业总投资 287 亿元，同比增长 108%",
+   "url": "https://www.ithome.com/1/023/010.htm",
+   "summary": "IT之家 11 月 5 日消息，据央视新闻今日报道，今年以来，我国氢能产业快速发展，前三季度氢能产业投资实现翻番。 数据显示， 今年前三季度我国氢能产业总投资 287 亿元，同比增长 108%，实现翻番 。可再生能源制氢新开工项目 10 余个，新增投运产能 10 万吨。 截至目前，我国可再生能源制氢项目建成投运年产能累计超过 35 万吨，占全球产能比重超过 50％，在建项目的年产能超过 120 万吨， 处于全球领先水平 。IT之家附不同区域情况如下： 华北地区 建成的产能最高，占到全国 45% ； 其次为 东北地区 ，占全国的 36% ； 第三是 西北地区 ，占到全国的 15% 。 目前，我国",
+   "published_at": 1793890002.0,
+   "published_bj": "2026-11-05 22:46"
+  },
+  {
+   "id": "9675ef0b4eab344d",
+   "source": "IT之家",
+   "title": "摩托罗拉推出 Moto Watch 2 Fit 手表、Moto Buds 2 Ultra 耳机，售价 119 欧元起",
+   "url": "https://www.ithome.com/1/023/009.htm",
+   "summary": "IT之家 11 月 5 日消息，摩托罗拉今日宣布推出智能穿戴新品，包含 Moto Watch 2 Fit 手表和 Moto Buds 2 Ultra 耳机。售价分别为 119 欧元 （IT之家注：现汇率约合 892.8 元人民币） /199 欧元 （现汇率约合 1,493 元人民币） 。 IT之家附两款新品详情如下： Moto Watch 2 Fit 这款手表正面配备一块 1.85 英寸 OLED 屏幕，支持 60Hz 刷新率，分辨率为 390 × 450，峰值亮度 1500nits。运行 RTOS 操作系统，内置 400mAh 电池，开启 AOD 情况下续航可达 7 天。 同时，该手表提供跑",
+   "published_at": 1793889967.0,
+   "published_bj": "2026-11-05 22:46"
+  },
+  {
+   "id": "6db8eb9e84e03d4f",
+   "source": "TechCrunch",
+   "title": "Aina’s smart ring has a screen, a joystick and a mic so you can talk to AI agents",
+   "url": "https://techcrunch.com/2026/11/05/ainas-smart-ring-has-a-screen-a-joystick-and-a-mic-so-you-can-talk-to-ai-agents/",
+   "summary": "Aina's ring can also take calls and help you dictate notes on your Mac.",
+   "published_at": 1793889720.0,
+   "published_bj": "2026-11-05 22:42"
+  },
+  {
+   "id": "fdcc584401173974",
+   "source": "cnBeta",
+   "title": "索尼称PlayStation 6开发按计划推进 PS5累计销量达9790万台",
+   "url": "https://www.cnbeta.com.tw/articles/game/1585160.htm",
+   "summary": "索尼确认下一代PlayStation平台的开发正按计划推进，并将在2027年4月开始的下一财年继续推动相关工作。与此同时，PS5累计销量已经达到9790万台。 阅读全文",
+   "published_at": 1793889585.0,
+   "published_bj": "2026-11-05 22:39"
+  },
+  {
+   "id": "ac6cd640062af8d1",
+   "source": "IT之家",
+   "title": "永诺推出 18mm F2.8 S DF VCM 全画幅自动对焦镜头，1699 元",
+   "url": "https://www.ithome.com/1/023/008.htm",
+   "summary": "IT之家 11 月 5 日消息，永诺于 11 月 3 日推出了旗下首款 VCM 马达超广角自动对焦微单镜头 18F2.8S DF VCM，首发索尼 E 卡口， 首发价 1699 元 。 这款镜头采用航空铝机身，重量约 375g，最大直径及长度约为 φ66×85 毫米；镜身配备防尘防滴橡胶圈，采用防污氟涂层；搭载高精度金属卡口与镀金触点。 光学层面，镜头采用 8 组 10 片结构设计，包含 2 枚非球面镜片、1 枚超低色散镜片与 3 枚低色散镜片，最近对焦距离为 0.2 米，最大放大倍率 0.15×。 这款镜头配备双 Fn 自定义按键；配备 SW 拨杆，可一键切换 AF 自动对焦与 MF 手动对",
+   "published_at": 1793889582.0,
+   "published_bj": "2026-11-05 22:39"
+  },
+  {
+   "id": "75927dbfebd9921a",
+   "source": "cnBeta",
+   "title": "英国拟在未满16岁社交媒体禁令后限制游戏内陌生人聊天",
+   "url": "https://www.cnbeta.com.tw/articles/game/1585158.htm",
+   "summary": "英国政府正考虑将未成年人在线交流限制延伸至电子游戏。在线安全大臣伊恩·默里表示，政府将推进针对具体功能的法规，未满16岁用户未来或无法在游戏中与陌生人交谈。 阅读全文",
+   "published_at": 1793889567.0,
+   "published_bj": "2026-11-05 22:39"
+  },
+  {
+   "id": "33c9a905bda3abcd",
+   "source": "cnBeta",
+   "title": "华硕发布ROG XG Station 3 开放式显卡坞 雷电5接口",
+   "url": "https://www.cnbeta.com.tw/articles/tech/1585156.htm",
+   "summary": "华硕宣布，正式发布ROG XG Station 3（Thunderbolt 5）开放式显卡坞。其实在今年5月的COMPUTEX 2025期间，华硕就曾展出过这款产品，引起了不少玩家的关注，可在不牺牲便携性的前提下，提升笔记本电脑的游戏和专业性能。虽然数月前产品页面已放到官网，但是缺乏详细信息。 阅读全文",
+   "published_at": 1793889530.0,
+   "published_bj": "2026-11-05 22:38"
+  },
+  {
+   "id": "91cf159bb933e7b1",
+   "source": "cnBeta",
+   "title": "AMD承诺不会放弃锐龙CPU 但却不断疏远游戏玩家和PC",
+   "url": "https://www.cnbeta.com.tw/articles/tech/1585154.htm",
+   "summary": "AMD表示仍致力于PC市场，但其最新财报显示，数据中心业务正迅速成为其主要业务。服务器处理器和AI加速器目前贡献了公司近三分之二的收入，而游戏芯片销售额正在下滑，PC芯片在总收入中所占份额也在不断缩小。 阅读全文",
+   "published_at": 1793889266.0,
+   "published_bj": "2026-11-05 22:34"
+  },
+  {
+   "id": "cd1fef62af2e7b6a",
+   "source": "IT之家",
+   "title": "欧洲多架客机遭炸弹威胁，部分已安全降落",
+   "url": "https://www.ithome.com/1/023/007.htm",
+   "summary": "IT之家 11 月 5 日消息，央视新闻今日报道，欧洲方面消息称，当天欧洲多架客机遭炸弹威胁，涉及一架从爱尔兰都柏林飞往意大利罗马的航班、一架从芬兰赫尔辛基飞往罗马的航班、三架飞往保加利亚索非亚的航班、两架从意大利米兰飞往罗马的航班， 其中部分客机已安全降落 。 图源：Pixabay 据法国方面消息，一架从爱尔兰都柏林飞往意大利罗马的空客 A320 客机收到炸弹威胁警报，改道飞往法国，随后安全降落在埃夫勒空军基地。据涉事的爱尔兰航空公司消息， 机上共有 151 名乘客和 6 名机组人员 ，均已被转移至安全区域，排爆人员已抵达现场。 保加利亚交通部向当地媒体证实，当天上午 3 架飞往该国索非亚的",
+   "published_at": 1793889189.0,
+   "published_bj": "2026-11-05 22:33"
+  },
+  {
+   "id": "d2b1d60cb5202e47",
+   "source": "cnBeta",
+   "title": "《塞尔达传说：时之笛》重制版发售前泄露并在PC运行",
+   "url": "https://www.cnbeta.com.tw/articles/game/1585152.htm",
+   "summary": "《塞尔达传说：时之笛》重制版还未发售前，相关游戏文件和PC运行视频已经在网络上出现。视频显示，游戏可通过Switch 2模拟器Lichii在台式电脑上启动，但目前运行效果并不稳定。 阅读全文",
+   "published_at": 1793889180.0,
+   "published_bj": "2026-11-05 22:33"
+  },
+  {
+   "id": "7d13703ef63ec245",
+   "source": "IT之家",
+   "title": "【IT之家开箱】苹果首款触控屏 MacBook Pro 图赏：双层串联 OLED 屏幕，灵动岛首次登陆 Mac",
+   "url": "https://www.ithome.com/1/023/006.htm",
+   "summary": "IT之家 11 月 5 日消息，苹果全新 MacBook Pro 已正式发布，新机最大的变化莫过于首次将触控屏引入 Mac 产品线，同时采用全新的双层串联 OLED 显示技术，并带来了灵动岛、发光 logo、M5 Pro 和 M5 Max 芯片等一系列升级。 这次IT之家拿到的是 16 英寸银色版本 MacBook Pro，具体配置为 M5 Max（18 核 CPU、32 核 GPU）、36GB 统一内存和 2TB 存储空间。 相比此前的 MacBook Pro，新机在屏幕、交互方式上都有不少变化，下面一起来看看实拍表现。 外观方面，新款 MacBook Pro 延续了苹果熟悉的设计风格，此次",
+   "published_at": 1793889176.0,
+   "published_bj": "2026-11-05 22:32"
+  },
+  {
+   "id": "f81960514bf2c628",
+   "source": "IT之家",
+   "title": "NASA 公布 X-70 Fractal 实验飞机：探索极限机动能力，两年内首飞",
+   "url": "https://www.ithome.com/1/023/005.htm",
+   "summary": "IT之家 11 月 5 日消息，NASA 昨日宣布，X 系列实验飞机家族迎来新成员 ——X-70 Fractal。该系列此前诞生过近 80 年前首次突破音障的贝尔 X-1，以及近年来备受关注的 X-59 静音超音速验证机。 NASA 表示，X-70 Fractal 是一个“高性能、高适应性的研究平台”，将作为新一代航空技术的试验平台，用于相关技术的开发与测试。 目前，NASA 仅公布了一张由人工智能生成的 X-70 效果图，飞机主体笼罩在烟雾和阴影之中。不过，该机构已经确认了这款飞机的多项性能指标。 X-70 将采用有人驾驶设计，巡航速度为 0.75 马赫，最高飞行高度可达 4.5 万英尺 （",
+   "published_at": 1793889096.0,
+   "published_bj": "2026-11-05 22:31"
+  },
+  {
+   "id": "f58fcaeafd72e68a",
+   "source": "IT之家",
+   "title": "云存储服务提供商 Dropbox 计划收购 Tigris Data，拓展企业开发者 AI 存储服务",
+   "url": "https://www.ithome.com/1/023/004.htm",
+   "summary": "IT之家 11 月 5 日消息，云存储服务提供商 Dropbox 今日宣布计划收购分布式对象存储平台 Tigris Data，加速拓展面向企业开发者的 AI 基础设施服务。 IT之家了解到，Dropbox 今日还推出了 DBX Agent Cloud 服务，初期提供对象存储功能。 该公司还将对核心产品进行重大升级 ， 将 AI 直接引入客户现有工作流程 。 Dropbox 计划将自身技术扩展至 AI 应用开发企业，并为现有客户提供全新 AI 功能。他们可以让 Dropbox 直接处理现有文件中的指定任务，也可以在受支持的第三方 AI 工具中调用 Dropbox 内容，还能自主选择 AI 模型，",
+   "published_at": 1793888965.0,
+   "published_bj": "2026-11-05 22:29"
+  },
+  {
+   "id": "db76dfa47f7b5780",
+   "source": "cnBeta",
+   "title": "一天蒸发330亿美元 马斯克依然稳坐世界首富",
+   "url": "https://www.cnbeta.com.tw/articles/tech/1585150.htm",
+   "summary": "据Business Insider报道，美国中期选举结束后， 特斯拉和SpaceX股价周三均下跌超过3%，导致埃隆·马斯克个人财富单日缩水约330亿美元 。 尽管遭遇大幅回撤，马斯克仍以约8650亿美元的身家位居全球富豪榜首位 。 阅读全文",
+   "published_at": 1793888903.0,
+   "published_bj": "2026-11-05 22:28"
+  },
+  {
+   "id": "e91b66ab0c658450",
+   "source": "IT之家",
+   "title": "网易 UU 远程宣布适配鸿蒙 HarmonyOS 系统，移动端 Beta 版内测预约开启",
+   "url": "https://www.ithome.com/1/023/003.htm",
+   "summary": "IT之家 11 月 5 日消息，网易 UU 远程今日宣布适配鸿蒙 HarmonyOS 系统， 移动端 Beta 版内测预约开启 （手机 / 平板原生适配）。 IT之家注：网易 UU 远程是一款由网易开发的专业远程控制软件，主打免费使用、4K 画质和低延迟特性， 支持用手机、平板、电脑或电视远程操控另一台电脑 。 网易 UU 远程 10 月 31 日在 X 平台回应后续是否收费的问题，表示团队目前有在思考契合 UU 远程长久发展需求的商业化方向。用户提到的建议也是团队接下来会仔细斟酌的内容，以求权衡好用户体验和产品发展需要。",
+   "published_at": 1793888873.0,
+   "published_bj": "2026-11-05 22:27"
+  },
+  {
+   "id": "17feb3470ed1622b",
+   "source": "IT之家",
+   "title": "日本无印良品 109 万条会员信息泄露，含“MUJI Card”信用卡卡号",
+   "url": "https://www.ithome.com/1/023/002.htm",
+   "summary": "IT之家 11 月 5 日消息，运营“无印良品”的良品计划公司昨天发布最新通报，就 10 月 30 日发布的通报进行更新。 10 月 30 日，良品计划称无印良品官方 App“MUJI App”约 2726 万条客户信息外泄，涉及电子邮箱地址、出生日期和性别，官方当时表示不包括信用卡信息、姓名和住址等。 然而最新调查显示，受影响群体还包括无印良品官方网络商城的用户（含未安装 / 使用 MUJI App 的用户），且其中部分用户的受影响信息还进一步涉及姓名、地址和电话号码。 官方表示，此次涉事对象为截至 2021 年 7 月前加入的“MUJI Card（信用卡）”联名卡会员，该卡由株式会社 Cr",
+   "published_at": 1793888676.0,
+   "published_bj": "2026-11-05 22:24"
+  },
+  {
+   "id": "ae61301ceedbf851",
+   "source": "cnBeta",
+   "title": "“钱不好使了” 硅谷富豪们掷6亿美元支持共和党却输选举",
+   "url": "https://www.cnbeta.com.tw/articles/tech/1585148.htm",
+   "summary": "硅谷一众亿万富豪主动向唐纳德·特朗普示好，累计向共和党候选人捐赠超6亿美元，却在美国中期选举中遭遇惨重失利。选民对人工智能与大型科技巨头的扩张心存忧虑，助力民主党在参众两院拿下大幅多数席位。 阅读全文",
+   "published_at": 1793888477.0,
+   "published_bj": "2026-11-05 22:21"
+  },
+  {
+   "id": "602827384cb37f21",
+   "source": "IT之家",
+   "title": "华为擎云 HM650 / HM650g 面向政企客户，确认不在电商及线下体验门店出售",
+   "url": "https://www.ithome.com/1/023/001.htm",
+   "summary": "IT之家 11 月 5 日现场消息，在今天的华为擎云 2026 鸿蒙办公产业峰会现场，华为终端平板与 PC 产品线总裁朱懂东正式发布了首款鸿蒙台式机 —— 华为擎云 HM650 系列。 然而此次峰会并未公布新电脑的售价情况。IT之家从华为官方了解到，此产品面向政企客户， 不在电商及线下体验门店出售 ，目前仅可联系当地华为代表处政企销售人员或代理商进行购买。系列电脑各机型的版本规格如下： 华为擎云 HM650 华为擎云 HM650 麒麟 X90 16GB / 512GB / 集显 华为擎云 HM650 麒麟 X90 16GB / 512GB / 集显 WIFI 华为擎云 HM650g 华为擎云 ",
+   "published_at": 1793888106.0,
+   "published_bj": "2026-11-05 22:15"
+  },
+  {
+   "id": "053514853ef47d36",
+   "source": "IT之家",
+   "title": "Linux 内核新补丁进入审核：为 T2 芯片的 Intel Mac 电脑提供隔空投送支持",
+   "url": "https://www.ithome.com/1/023/000.htm",
+   "summary": "IT之家 11 月 5 日消息，据科技媒体 Phoronix 今天报道，开发者 Andre Eikmeyer 日前将一组 Linux 内核补丁提交审核， 如果最终能够合并到主线内核 ， 搭载 T2 芯片的 Intel Mac 电脑将能够在 Linux 下实现隔空投送（AirDrop） 。 据报道，这名开发者提交了 Broadcom（博通） brcmfmac 驱动补丁，旨在通过 Apple Wireless Direct Link（IT之家注：AWDL）实现隔空投送，与 iPhone、iPad 等苹果设备互相收发文件。 据该开发者所述，隔空投送基于 AWDL 运行。在配备 T2 芯片的 Inte",
+   "published_at": 1793888047.0,
+   "published_bj": "2026-11-05 22:14"
+  },
+  {
+   "id": "e62d563ad5f218d8",
+   "source": "IT之家",
+   "title": "消息称苹果时隔一年半重返债券市场，所得资金将用于回购股票、派发股息等",
+   "url": "https://www.ithome.com/1/022/999.htm",
+   "summary": "IT之家 11 月 5 日消息，据彭博社报道，苹果公司时隔一年多再次进入投资级债券市场，加入美国科技巨头近期密集发行债券的行列。 据一位知情人士透露，苹果此次计划分 7 档发行基准规模债券，期限从 2 年至 10 年不等。该人士补充称，此次发行的期限最长的债券，初步价格指引为较美国国债收益率高出 0.8 个百分点。 美国银行、德意志银行、高盛和摩根大通将负责此次债券发行交易。 此次融资所得资金将用于一般企业用途，包括股票回购、派发股息以及资本支出。 苹果上一次发行债券是在 2025 年 5 月，当时该公司通过分 4 档发行债券，筹集了 45 亿美元 （IT之家注：现汇率约合 300.84 亿元",
+   "published_at": 1793887767.0,
+   "published_bj": "2026-11-05 22:09"
+  },
+  {
+   "id": "30b51698252cb6a8",
+   "source": "IT之家",
+   "title": "【视频】触控只是“赠品”？苹果首款能「摸」的 MacBook，真正的升级在哪里",
+   "url": "https://www.ithome.com/1/022/998.htm",
+   "summary": "触控只是“赠品”？苹果首款能「摸」的 MacBook，真正的升级在哪里。 点击关注IT之家B站账号",
+   "published_at": 1793887762.0,
+   "published_bj": "2026-11-05 22:09"
+  },
+  {
+   "id": "5019c2de786faad5",
+   "source": "Hacker News",
+   "title": "MCP Explained",
+   "url": "https://mcp-explained.com/",
+   "summary": "Article URL: https://mcp-explained.com/ Comments URL: https://news.ycombinator.com/item?id=50379249 Points: 31 # Comments: 7",
+   "published_at": 1793887715.0,
+   "published_bj": "2026-11-05 22:08"
+  },
+  {
+   "id": "dd54389477ec394e",
+   "source": "IT之家",
+   "title": "【视频】2nm 的 M6 到底比 M5 强多少？苹果 M6 MacBook Pro 首发体验",
+   "url": "https://www.ithome.com/1/022/996.htm",
+   "summary": "2nm 的 M6 到底比 M5 强多少？苹果 M6 MacBook Pro 首发体验。 点击关注IT之家B站账号",
+   "published_at": 1793887570.0,
+   "published_bj": "2026-11-05 22:06"
+  },
+  {
+   "id": "55c0bfe89b9bd69f",
+   "source": "IT之家",
+   "title": "【视频】信仰灯回归，减重明显，苹果首款触屏 MacBook Pro 开箱",
+   "url": "https://www.ithome.com/1/022/995.htm",
+   "summary": "信仰灯回归，减重明显，苹果首款触屏 MacBook Pro 开箱。 点击关注IT之家B站账号",
+   "published_at": 1793887523.0,
+   "published_bj": "2026-11-05 22:05"
+  },
+  {
+   "id": "7864738795ec3277",
+   "source": "TechCrunch",
+   "title": "RadianX promises solar-powered devices that never need charging",
+   "url": "https://techcrunch.com/2026/11/05/radianx-promises-solar-powered-devices-that-never-need-charging/",
+   "summary": "Today’s portable devices are too hungry to run on traditional solar panels, but RadianX says its perovskite cells promise to make charging obsolete in some cases.",
+   "published_at": 1793887200.0,
+   "published_bj": "2026-11-05 22:00"
+  },
+  {
+   "id": "989c57e93f99cb55",
+   "source": "TechCrunch",
+   "title": "Box taps Nvidia’s Nemotron for new agent-first content retrieval system",
+   "url": "https://techcrunch.com/2026/11/05/box-taps-nvidias-nemotron-for-new-agent-first-content-retrieval-system/",
+   "summary": "The system can supposedly answer queries four times faster, with 20% fewer errors and 90% fewer tokens used.",
+   "published_at": 1793887200.0,
+   "published_bj": "2026-11-05 22:00"
+  },
+  {
+   "id": "4ed165ff9bfbf5ad",
+   "source": "IT之家",
+   "title": "苹果 HomeView 安全功能曝光：人脸识别连续失败 3 次，必须掏出 iPhone 解锁",
+   "url": "https://www.ithome.com/1/022/993.htm",
+   "summary": "IT之家 11 月 5 日消息，据报道，苹果即将推出的智能家居中枢 HomeView 将加入防欺骗保护机制：如果有人连续三次试图通过伪造人脸骗过设备的人脸识别系统，账户就会被锁定。此后，用户需要通过 iPhone 完成身份验证，才能重新解锁。 这项功能十分重要，因为 HomeView 将被放置在厨房、走廊等家庭公共区域，用于展示个人消息和日历信息。相关安全机制有望防止家庭成员之间相互窥探隐私。 此外，苹果据称还在为 HomeView 开发一套更严格的锁定冷却机制。 HomeView 如何实现防欺骗保护 HomeView 是苹果即将推出的一款智能家居中枢，旨在将 Siri、智能家居控制功能和个人",
+   "published_at": 1793886943.0,
+   "published_bj": "2026-11-05 21:55"
+  },
+  {
    "id": "0e2b348ba4c077e4",
    "source": "InfoQ中文",
    "title": "视频生成只是开始，AI 如何把内容做对？",
    "url": "https://www.infoq.cn/article/GGILIuzW0RTGhoeuz9TD?utm_source=rss&utm_medium=article",
    "summary": "点击查看原文>",
    "published_at": 1793886861.0,
+   "published_bj": "2026-11-05 21:54"
+  },
+  {
+   "id": "4538b7425e4eb0dd",
+   "source": "IT之家",
+   "title": "高拓讯达发布国内首款 Wi-Fi 7 数传芯片 ATBM6175，物理层极限峰值速率 720Mbps",
+   "url": "https://www.ithome.com/1/022/992.htm",
+   "summary": "IT之家 11 月 5 日消息，Wi-Fi 芯片设计厂商高拓讯达（AltoBeam）发布其全新一代无线通信 SoC — ATBM6175，该芯片是 国内首款 支持 IEEE 802.11be（Wi-Fi 7）标准 Wi-Fi 数传芯片。 官方表示， 高拓讯达的 Wi-Fi 7 核心技术全部自研 ，标志着本土芯片在下一代数传领域取得关键性突破。 据介绍，ATBM6175 采用高集成度架构设计，支持最高 80MHz 通道带宽与 4096-QAM（MCS13）超高阶调制， 物理层极限峰值速率达到 720Mbps ，并全面引入 MLO（多链路操作）等技术。 IT之家获悉，该芯片在射频前端与基带架构上进",
+   "published_at": 1793886853.0,
    "published_bj": "2026-11-05 21:54"
   },
   {
@@ -47,6 +308,15 @@
    "summary": "IT之家 11 月 5 日消息，今年 10 月 25 日，“张雪机车”创始人张雪驾驶改装摩托车 MX450，在湖南省怀化市麻阳苗族自治县郭公坪镇小坡村， 以 40.74 公里的成绩，刷新“改装摩托车在开阔水域行驶最远距离”吉尼斯世界纪录 。 IT之家注意到，张雪机车官方微博发布了系列纪录片 ——《深浅之间》， 讲述了张雪时隔 17 年再战“水上漂”背后的故事 。 据IT之家了解，这场挑战要追溯到 2009 年。当时 22 岁的张雪在央视节目中骑着一辆车轮上焊着铁皮的摩托车冲向水面，四次尝试全部落水，最远只滑出 20 米，离他自己定下的 26 米目标差了一口气。 重启挑战的念头始于今年 3 月有",
    "published_at": 1793886164.0,
    "published_bj": "2026-11-05 21:42"
+  },
+  {
+   "id": "1f0540545e4243ed",
+   "source": "Hacker News",
+   "title": "I wish tech companies knew more about me",
+   "url": "https://rakhim.exotext.com/i-wish-tech-companies-knew-more-about-me",
+   "summary": "Article URL: https://rakhim.exotext.com/i-wish-tech-companies-knew-more-about-me Comments URL: https://news.ycombinator.com/item?id=50378942 Points: 15 # Comments: 0",
+   "published_at": 1793886052.0,
+   "published_bj": "2026-11-05 21:40"
   },
   {
    "id": "3c2ad679762273e3",
@@ -112,6 +382,15 @@
    "published_bj": "2026-11-05 21:10"
   },
   {
+   "id": "a4a9b0de3895c2d5",
+   "source": "Hacker News",
+   "title": "Discord is ditching Electron and its new app uses less RAM",
+   "url": "https://www.theverge.com/news/1027379/discord-ditching-electron-web-app",
+   "summary": "Article URL: https://www.theverge.com/news/1027379/discord-ditching-electron-web-app Comments URL: https://news.ycombinator.com/item?id=50378625 Points: 71 # Comments: 40",
+   "published_at": 1793883928.0,
+   "published_bj": "2026-11-05 21:05"
+  },
+  {
    "id": "37b03aeef5b29346",
    "source": "IT之家",
    "title": "一汽丰田全新亚洲龙上市，限时权益价 13.38 万元起",
@@ -119,6 +398,15 @@
    "summary": "IT之家 11 月 5 日消息，一汽丰田全新亚洲龙今日正式上市，新车提供 7 款车型， 限时权益价 13.38 万元起 ，提供燃油和混动两种动力选择。 IT之家附该车各版本定价如下： 车型 官方指导价 限时权益价 2.0L 汽油进取版 17.88 万元 13.38 万元 2.0L 汽油臻选版 19.88 万元 15.38 万元 2.0L 汽油豪华版 20.88 万元 16.38 万元 2.0L 双擎臻选版 20.68 万元 16.18 万元 2.0L 双擎豪华版 21.68 万元 17.18 万元 2.0L 双擎尊享版 22.68 万元 18.18 万元 2.5L 双擎 Limited 旗舰版",
    "published_at": 1793883679.0,
    "published_bj": "2026-11-05 21:01"
+  },
+  {
+   "id": "e7076ddc57cd68e8",
+   "source": "Hacker News",
+   "title": "Download your favourite YouTube videos",
+   "url": "https://criminallyvulgar.dev/you-should-absolutely-download-your-favourite-youtube-videos/",
+   "summary": "Article URL: https://criminallyvulgar.dev/you-should-absolutely-download-your-favourite-youtube-videos/ Comments URL: https://news.ycombinator.com/item?id=50378571 Points: 5 # Comments: 1",
+   "published_at": 1793883611.0,
+   "published_bj": "2026-11-05 21:00"
   },
   {
    "id": "2ca4e4da9bba6de1",
@@ -139,6 +427,15 @@
    "published_bj": "2026-11-05 21:00"
   },
   {
+   "id": "0dcaf4f618cd6d68",
+   "source": "Hacker News",
+   "title": "Why This Obscure Audio Codec Is a Perfect Fit for the N64",
+   "url": "https://phoboslab.org/log/2026/11/n64-ulc-codec",
+   "summary": "Article URL: https://phoboslab.org/log/2026/11/n64-ulc-codec Comments URL: https://news.ycombinator.com/item?id=50378508 Points: 5 # Comments: 0",
+   "published_at": 1793883108.0,
+   "published_bj": "2026-11-05 20:51"
+  },
+  {
    "id": "09a99310265d15ba",
    "source": "IT之家",
    "title": "2027 款领克 08 EM-P 上市：标配 192 线激光雷达、至高千里浩瀚 H7，限时 15.98 万元起",
@@ -146,6 +443,15 @@
    "summary": "IT之家 11 月 5 日消息，2027 款领克 08 EM-P 智混 SUV 今晚正式上市，该车定位家庭场景， 限时置换价 15.98 万元起 。 210 四驱性能 Ultra：官方指导价 19.88 万元起、官方限时价 19.28 万元起、 限时置换价 18.68 万元起 ； 230 超长续航 Ultra：官方指导价 18.58 万元起、官方限时价 17.98 万元起、 限时置换价 17.38 万元起 ； 230 超长续航 Max：官方指导价 17.18 万元起、官方限时价 16.58 万元起、 限时置换价 15.98 万元起 。 外观方面，2027 款领克 08 EM-P 尺寸为 481",
    "published_at": 1793882983.0,
    "published_bj": "2026-11-05 20:49"
+  },
+  {
+   "id": "3d57cf8e8fcf9eba",
+   "source": "Hacker News",
+   "title": "Vivaldi 8.3 for Desktop: make bad ads sad",
+   "url": "https://vivaldi.com/blog/vivaldi-on-desktop-8-3/",
+   "summary": "Article URL: https://vivaldi.com/blog/vivaldi-on-desktop-8-3/ Comments URL: https://news.ycombinator.com/item?id=50378398 Points: 13 # Comments: 9",
+   "published_at": 1793882352.0,
+   "published_bj": "2026-11-05 20:39"
   },
   {
    "id": "b13ec73efda5b4d8",
