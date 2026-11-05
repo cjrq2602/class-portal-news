@@ -1,7 +1,7 @@
 {
  "date": "2026-11-06",
- "generated_at": 1793893953.3205156,
- "count": 3,
+ "generated_at": 1793898004.768262,
+ "count": 15,
  "items": [
   {
    "id": "2ecda06e80272e35",
@@ -29,6 +29,114 @@
    "summary": "点击查看原文>",
    "published_at": 1793897601.0,
    "published_bj": "2026-11-06 00:53"
+  },
+  {
+   "id": "354d6f4c554b5603",
+   "source": "Hacker News",
+   "title": "Vibe Coding Keypad",
+   "url": "https://www.keychron.com/products/keychron-f4-he-8k-vibe-coding-keypad",
+   "summary": "Article URL: https://www.keychron.com/products/keychron-f4-he-8k-vibe-coding-keypad Comments URL: https://news.ycombinator.com/item?id=50381302 Points: 9 # Comments: 4",
+   "published_at": 1793896996.0,
+   "published_bj": "2026-11-06 00:43"
+  },
+  {
+   "id": "f412a8e553ea2762",
+   "source": "Hacker News",
+   "title": "Paraguay bank collapses with half of population's savings",
+   "url": "https://www.aljazeera.com/video/newsfeed/2026/11/5/paraguay-bank-collapses-with-half-of-populations-savings",
+   "summary": "Article URL: https://www.aljazeera.com/video/newsfeed/2026/11/5/paraguay-bank-collapses-with-half-of-populations-savings Comments URL: https://news.ycombinator.com/item?id=50381178 Points: 20 # Comments: 2",
+   "published_at": 1793896366.0,
+   "published_bj": "2026-11-06 00:32"
+  },
+  {
+   "id": "323108b004386821",
+   "source": "cnBeta",
+   "title": "索尼发布MDR-3R有线耳机：经典Walkman时代设计回归 加入USB-C接口",
+   "url": "https://www.cnbeta.com.tw/articles/music/1585166.htm",
+   "summary": "索尼正式发布全新MDR-3R有线耳机。该产品采用USB-C接口设计，其外观灵感来自与初代Walkman TPS-L2随身听一同问世的经典MDR-3耳机。1979年诞生的Walkman及MDR-3曾开创随身欣赏音乐的新方式。近半个世纪后，在用户听音习惯日益多元化的背景下，无需充电、无需配对、即插即用的有线耳机再次受到关注。 阅读全文",
+   "published_at": 1793896319.0,
+   "published_bj": "2026-11-06 00:31"
+  },
+  {
+   "id": "6e824cef647a4245",
+   "source": "Hacker News",
+   "title": "My psychophysics as a bilateral cochlear implant user",
+   "url": "https://claude.ai/artifact/L8qsMc3SorytGW3LA81nYf",
+   "summary": "Article URL: https://claude.ai/artifact/L8qsMc3SorytGW3LA81nYf Comments URL: https://news.ycombinator.com/item?id=50381033 Points: 20 # Comments: 4",
+   "published_at": 1793895672.0,
+   "published_bj": "2026-11-06 00:21"
+  },
+  {
+   "id": "f2586690e5abf088",
+   "source": "Hacker News",
+   "title": "The Stacks Project, Formalized in Lean",
+   "url": "https://axiommath.ai/research/the-stacks-project-formalized/",
+   "summary": "Article URL: https://axiommath.ai/research/the-stacks-project-formalized/ Comments URL: https://news.ycombinator.com/item?id=50380979 Points: 7 # Comments: 0",
+   "published_at": 1793895419.0,
+   "published_bj": "2026-11-06 00:16"
+  },
+  {
+   "id": "525439cf9e840067",
+   "source": "TechCrunch",
+   "title": "Axiom Math wants to keep AI slop out of mathematics",
+   "url": "https://techcrunch.com/2026/11/05/axiom-math-wants-to-keep-ai-slop-out-of-mathematics/",
+   "summary": "As AI floods math with unchecked proofs, Axiom Math is betting on verification. The startup’s AI agents just formally verified the Stacks Project, one of the field’s biggest libraries.",
+   "published_at": 1793895405.0,
+   "published_bj": "2026-11-06 00:16"
+  },
+  {
+   "id": "6677727774f1a556",
+   "source": "Hacker News",
+   "title": "Motorola Signature 27 with GrapheneOS support",
+   "url": "https://motorolanews.com/motorola-signature-27-2/",
+   "summary": "Article URL: https://motorolanews.com/motorola-signature-27-2/ Comments URL: https://news.ycombinator.com/item?id=50380810 Points: 62 # Comments: 9",
+   "published_at": 1793894494.0,
+   "published_bj": "2026-11-06 00:01"
+  },
+  {
+   "id": "1bda495e24117988",
+   "source": "Hacker News",
+   "title": "OCAP Bounded Authority: Edera's Managed Approach to Object Capabilities",
+   "url": "https://edera.dev/stories/ocap-bounded-authority",
+   "summary": "Article URL: https://edera.dev/stories/ocap-bounded-authority Comments URL: https://news.ycombinator.com/item?id=50380808 Points: 11 # Comments: 0",
+   "published_at": 1793894486.0,
+   "published_bj": "2026-11-06 00:01"
+  },
+  {
+   "id": "b23886203dd33555",
+   "source": "IT之家",
+   "title": "Epic 喜加一：《浮游世界》游戏免费领取",
+   "url": "https://www.ithome.com/1/023/023.htm",
+   "summary": "IT之家 11 月 6 日消息，Epic 本周送出的游戏是《浮游世界》，下周送出的游戏是《斗阵骑士 Knightica》。 领取链接： 《浮游世界》 IT之家附《浮游世界》游戏简介： 这是一款漂浮垃圾城生存游戏！从海洋表面尽可能搜集珍贵的垃圾，发展你的城市，同时努力在这个色彩斑斓的后末日世界中生存下去。 本作最初发售于 2025 年 12 月 5 日， Steam 售价 80 元 。游戏兼容 XBOX / PlayStation 控制器，最低配置要求为酷睿 i5 处理器、8GB 内存和 GTX 650 显卡，以及 600MB 存储空间。 游戏图赏：",
+   "published_at": 1793894408.0,
+   "published_bj": "2026-11-06 00:00"
+  },
+  {
+   "id": "dac858554ce391a9",
+   "source": "IT之家",
+   "title": "12499 元 / 15999 元起：苹果 M6 芯片款 iMac、MacBook Pro 开售",
+   "url": "https://www.ithome.com/1/023/022.htm",
+   "summary": "IT之家 11 月 6 日消息，苹果 M6 芯片款 iMac、MacBook Pro 今日正式开售， 起售价分别为 12499 元 / 15999 元 ， 国补后起售价约 10999 元 / 14499 元 。如果您能使用教育优惠，叠加国补后起售价会进一步下探至 10599 元 / 13699 元。 京东 Apple iMac M6 &nbsp; 12499 元 直达链接 京东 Apple MacBook Pro M6 14 英寸 15999 元 直达链接 IT之家附两款新品详情如下： iMac 新款 iMac 沿袭上一代外观，提供银色、蓝色、绿色、粉色等配色可选。搭载 24 英寸 4.5K ",
+   "published_at": 1793894402.0,
+   "published_bj": "2026-11-06 00:00"
+  },
+  {
+   "id": "51bc3cb60cafdce8",
+   "source": "IT之家",
+   "title": "5499 元起：苹果 iPad mini 8 开售，A20 Pro 芯片（国补后到手价约 4999 元起）",
+   "url": "https://www.ithome.com/1/023/021.htm",
+   "summary": "IT之家 11 月 6 日消息，苹果 iPad mini（A20 Pro）今日正式开售，也就是大家俗称的“iPad mini 8”。新品起售价为 5499 元， 国补后到手价约 4999 元 。如果您可以使用教育优惠，国补后的到手价会进一步下探至 4599 元左右。 京东 Apple iPad mini (A20 Pro) &nbsp;128GB 5499 元 直达链接 IT之家了解到，iPad mini（A20 Pro）提供午夜色、星光色两种配色。其机身相比上一代薄了 14%，轻了 13%。该机配备超视网膜 XDR 显示屏，采用 OLED 技术，峰值亮度可达 1,200 nits，支持 P3",
+   "published_at": 1793894402.0,
+   "published_bj": "2026-11-06 00:00"
+  },
+  {
+   "id": "244a08b181f78116",
+   "source": "IT之家",
+   "title": "22999 元起：苹果首款触屏 MacBook Pro 正式开售，可选 M5 Pro/M5 Max 芯片",
+   "url": "https://www.ithome.com/1/023/020.htm",
+   "summary": "IT之家 11 月 6 日消息，苹果首款触控屏 MacBook Pro（配备 PROLED XDR 显示屏的 MacBook Pro）今日正式开售， 定价 22999 元起 。基础配置为 M5 Pro 芯片（15 核 CPU/16 核 GPU）、24GB 内存、1TB 硬盘，支持在购买时按需升级配置。 京东 Apple MacBook Pro (PROLED XDR 显示屏) 22999 元 直达链接 IT之家了解到，这款笔记本提供 14 英寸与 16 英寸两种机型，搭载双层串联 OLED 技术，具有最高达 2,000 尼特的峰值 HDR 和 SDR 亮度，对比度 10,000,000:1，支",
+   "published_at": 1793894401.0,
+   "published_bj": "2026-11-06 00:00"
   }
  ]
 }

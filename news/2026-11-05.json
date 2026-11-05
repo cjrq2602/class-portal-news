@@ -1,8 +1,26 @@
 {
  "date": "2026-11-05",
- "generated_at": 1793893953.3233762,
+ "generated_at": 1793898004.7716079,
  "count": 400,
  "items": [
+  {
+   "id": "90bc491e7afc2327",
+   "source": "Hacker News",
+   "title": "Show HN: Stroq – a local audit of what your coding agent did and why",
+   "url": "https://github.com/AGGIB/Stroq",
+   "summary": "Article URL: https://github.com/AGGIB/Stroq Comments URL: https://news.ycombinator.com/item?id=50380704 Points: 4 # Comments: 2",
+   "published_at": 1793894081.0,
+   "published_bj": "2026-11-05 23:54"
+  },
+  {
+   "id": "ec67f495151f6c55",
+   "source": "Hacker News",
+   "title": "Building a Multi-Agent System from Scratch: Architecture Patterns",
+   "url": "https://kadhar.dev/blog/multi-agent-systems-from-scratch",
+   "summary": "Article URL: https://kadhar.dev/blog/multi-agent-systems-from-scratch Comments URL: https://news.ycombinator.com/item?id=50380658 Points: 12 # Comments: 2",
+   "published_at": 1793893917.0,
+   "published_bj": "2026-11-05 23:51"
+  },
   {
    "id": "6eececc531650ac6",
    "source": "IT之家",
@@ -40,6 +58,15 @@
    "published_bj": "2026-11-05 23:33"
   },
   {
+   "id": "8779b0aa6ce76f84",
+   "source": "Hacker News",
+   "title": "Exporting tables from a SQL Server backup (.bak) to Parquet without restoring it",
+   "url": "https://blog.arpe.io/fastbcp-1-6-export-sql-server-backup-to-parquet",
+   "summary": "Article URL: https://blog.arpe.io/fastbcp-1-6-export-sql-server-backup-to-parquet Comments URL: https://news.ycombinator.com/item?id=50380410 Points: 9 # Comments: 1",
+   "published_at": 1793892829.0,
+   "published_bj": "2026-11-05 23:33"
+  },
+  {
    "id": "8f7a5354d32aa4db",
    "source": "IT之家",
    "title": "One UI 9 系统更新导致部分 Galaxy 手机无法连接 Wi-Fi 或识别 SIM 卡，三星暂未回应",
@@ -47,6 +74,33 @@
    "summary": "IT之家 11 月 5 日消息，据科技媒体 Android Headline 今天报道，部分 Galaxy 手机用户升级 One UI 9 正式版系统后遭遇大范围网络故障，导致无法连接 Wi-Fi 或无法识别 SIM 卡。重启设备只能暂时缓解故障。 IT之家从原报道获悉，许多三星用户已经在反馈，他们手机的 Wi-Fi 出现了随机断连、无法连接的问题，机型覆盖 Galaxy S24 Plus 和 Galaxy Z Fold 7 等。部分 Galaxy A56、Galaxy A36 和 Galaxy A52s 等用户则表示， 他们的手机更新后完全无法识别 SIM 卡 。 同时部分用户透露， 他们的",
    "published_at": 1793892821.0,
    "published_bj": "2026-11-05 23:33"
+  },
+  {
+   "id": "845f332e9f2fd6ef",
+   "source": "Hacker News",
+   "title": "An updated Model Spec for more capable and beneficial AI",
+   "url": "https://openai.com/index/updated-model-spec/",
+   "summary": "Article URL: https://openai.com/index/updated-model-spec/ Comments URL: https://news.ycombinator.com/item?id=50380365 Points: 5 # Comments: 1",
+   "published_at": 1793892703.0,
+   "published_bj": "2026-11-05 23:31"
+  },
+  {
+   "id": "0b97b34a25fc7db6",
+   "source": "Hacker News",
+   "title": "Offline survival assistant – local LLM and Kiwix, runs from a USB stick",
+   "url": "https://github.com/sdalberto/ia-da-sobrevivencia/blob/main/README.en.md",
+   "summary": "Article URL: https://github.com/sdalberto/ia-da-sobrevivencia/blob/main/README.en.md Comments URL: https://news.ycombinator.com/item?id=50380273 Points: 10 # Comments: 4",
+   "published_at": 1793892336.0,
+   "published_bj": "2026-11-05 23:25"
+  },
+  {
+   "id": "6d93f29e0ac8f92b",
+   "source": "Hacker News",
+   "title": "We can do better than line-buffered output",
+   "url": "https://nullprogram.com/blog/2026/11/05/",
+   "summary": "Article URL: https://nullprogram.com/blog/2026/11/05/ Comments URL: https://news.ycombinator.com/item?id=50380268 Points: 16 # Comments: 0",
+   "published_at": 1793892322.0,
+   "published_bj": "2026-11-05 23:25"
   },
   {
    "id": "4ade50639600c0ee",
@@ -74,6 +128,15 @@
    "summary": "点击查看原文>",
    "published_at": 1793891940.0,
    "published_bj": "2026-11-05 23:19"
+  },
+  {
+   "id": "c1914973c7d892ce",
+   "source": "Hacker News",
+   "title": "Nordstjernen, Northstar, Southstar: minimalist webbrowsers in C and Rust",
+   "url": "https://nordstjernen.org/",
+   "summary": "Article URL: https://nordstjernen.org/ Comments URL: https://news.ycombinator.com/item?id=50380170 Points: 15 # Comments: 9",
+   "published_at": 1793891851.0,
+   "published_bj": "2026-11-05 23:17"
   },
   {
    "id": "bcd040d126e7bed3",
@@ -3539,69 +3602,6 @@
    "summary": "Article URL: https://www.bwplotka.dev/2026/rust-microbenchmarks-benchstat/ Comments URL: https://news.ycombinator.com/item?id=50369462 Points: 11 # Comments: 2",
    "published_at": 1793816406.0,
    "published_bj": "2026-11-05 02:20"
-  },
-  {
-   "id": "ea49328b2d4a96d9",
-   "source": "TechCrunch",
-   "title": "Waymo confirms it will split with Uber in January 2028",
-   "url": "https://techcrunch.com/2026/11/04/waymo-confirms-it-will-split-with-uber-in-january-2028/",
-   "summary": "The split will set up direct competition in those markets, as Uber has many other autonomous vehicle partners on its network.",
-   "published_at": 1793815950.0,
-   "published_bj": "2026-11-05 02:12"
-  },
-  {
-   "id": "316d46bb037422e9",
-   "source": "TechCrunch",
-   "title": "Waymo confirms it’s shaking up its Uber relationship in January 2028",
-   "url": "https://techcrunch.com/2026/11/04/waymo-confirms-its-shaking-up-its-uber-relationship-in-january-2028/",
-   "summary": "The change will set up direct competition in those markets, as Uber has many other autonomous vehicle partners on its network.",
-   "published_at": 1793815950.0,
-   "published_bj": "2026-11-05 02:12"
-  },
-  {
-   "id": "497053ec845c8511",
-   "source": "TechCrunch",
-   "title": "‘You Can See Everything’ is getting an outer space release and it hasn’t even come out in Europe yet",
-   "url": "https://techcrunch.com/2026/11/04/you-can-see-everything-is-getting-an-outer-space-release-and-it-hasnt-even-come-out-in-europe-yet/",
-   "summary": "It is easier to watch the Elizabeth Holmes documentary \"You Can See Everything\" in low-Earth orbit than in London.",
-   "published_at": 1793815811.0,
-   "published_bj": "2026-11-05 02:10"
-  },
-  {
-   "id": "3ba5633fc7c3ec6b",
-   "source": "InfoQ中文",
-   "title": "Vercel Labs 开源 fx：一款专为嵌入式应用设计的 Zig 编程代理",
-   "url": "https://www.infoq.cn/article/cNO8PCwQoZMRHhIyVDrB?utm_source=rss&utm_medium=article",
-   "summary": "点击查看原文>",
-   "published_at": 1793815200.0,
-   "published_bj": "2026-11-05 02:00"
-  },
-  {
-   "id": "b912f0a06b5dfd05",
-   "source": "Hacker News",
-   "title": "This Month in Ladybird – October 2026",
-   "url": "https://ladybird.org/newsletter/2026-10-31/",
-   "summary": "Article URL: https://ladybird.org/newsletter/2026-10-31/ Comments URL: https://news.ycombinator.com/item?id=50369194 Points: 12 # Comments: 2",
-   "published_at": 1793815175.0,
-   "published_bj": "2026-11-05 01:59"
-  },
-  {
-   "id": "b282b731ff6451ae",
-   "source": "Hacker News",
-   "title": "BYD doubles its Brazil market share to 9.7% a year after opening its local plant",
-   "url": "https://www.bloomberg.com/news/articles/2026-11-03/china-s-byd-doubles-market-share-in-brazil-with-new-plant-eyed",
-   "summary": "Article URL: https://www.bloomberg.com/news/articles/2026-11-03/china-s-byd-doubles-market-share-in-brazil-with-new-plant-eyed Comments URL: https://news.ycombinator.com/item?id=50369146 Points: 12 # Comments: 4",
-   "published_at": 1793814929.0,
-   "published_bj": "2026-11-05 01:55"
-  },
-  {
-   "id": "feece30a2294da36",
-   "source": "Hacker News",
-   "title": "A New Go API for JSON",
-   "url": "https://go.dev/blog/jsonv2",
-   "summary": "Article URL: https://go.dev/blog/jsonv2 Comments URL: https://news.ycombinator.com/item?id=50369106 Points: 69 # Comments: 10",
-   "published_at": 1793814731.0,
-   "published_bj": "2026-11-05 01:52"
   }
  ]
 }
