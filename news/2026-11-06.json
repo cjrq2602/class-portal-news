@@ -1,8 +1,35 @@
 {
  "date": "2026-11-06",
- "generated_at": 1793908015.9044929,
- "count": 46,
+ "generated_at": 1793911298.7992587,
+ "count": 52,
  "items": [
+  {
+   "id": "e626fa9176036be8",
+   "source": "cnBeta",
+   "title": "索尼称PS6开发进展顺利 面对成本压力将坚持“理性投资”",
+   "url": "https://www.cnbeta.com.tw/articles/game/1585194.htm",
+   "summary": "索尼确认，下一代PlayStation游戏主机的开发工作目前仍按计划推进。尽管全球存储器市场持续面临供应紧张和价格上涨等挑战，公司表示PS6项目进度未受到明显影响，并计划自下一财年开始进一步加大对新平台的投入。 阅读全文",
+   "published_at": 1793910713.0,
+   "published_bj": "2026-11-06 04:31"
+  },
+  {
+   "id": "9af0ecf4fea45e52",
+   "source": "Hacker News",
+   "title": "Goodbye from Salon",
+   "url": "https://www.salon.com/2026/11/05/goodbye-from-salon/",
+   "summary": "Article URL: https://www.salon.com/2026/11/05/goodbye-from-salon/ Comments URL: https://news.ycombinator.com/item?id=50383739 Points: 89 # Comments: 11",
+   "published_at": 1793909009.0,
+   "published_bj": "2026-11-06 04:03"
+  },
+  {
+   "id": "e75473ae1f7896c4",
+   "source": "TechCrunch",
+   "title": "Meta says US users can now video chat with their Muse AI avatar",
+   "url": "https://techcrunch.com/2026/11/05/meta-says-us-users-can-now-video-chat-with-their-muse-ai-avatar/",
+   "summary": "Meta's AI agent can now take calls as a customizable animated avatar, ahead of the launch of a Tamagotchi-like wearable designed to bring Muse to life.",
+   "published_at": 1793908108.0,
+   "published_bj": "2026-11-06 03:48"
+  },
   {
    "id": "f7f4756549f049b6",
    "source": "cnBeta",
@@ -94,6 +121,15 @@
    "published_bj": "2026-11-06 03:21"
   },
   {
+   "id": "0c6ac675bda047c6",
+   "source": "Hacker News",
+   "title": "Hungary: Communist-era files released, up to 60k former agents revealed",
+   "url": "https://www.euronews.com/2026/11/04/hungary-communist-era-files-opened-up-to-60000-former-agents-revealed",
+   "summary": "Article URL: https://www.euronews.com/2026/11/04/hungary-communist-era-files-opened-up-to-60000-former-agents-revealed Comments URL: https://news.ycombinator.com/item?id=50383163 Points: 34 # Comments: 3",
+   "published_at": 1793906194.0,
+   "published_bj": "2026-11-06 03:16"
+  },
+  {
    "id": "2ecda06e80272e35",
    "source": "InfoQ中文",
    "title": "模型之外，腾讯还在补什么？",
@@ -110,6 +146,15 @@
    "summary": "Meta warns that growing political opposition to data centers could threaten future AI investments, as communities push back against massive infrastructure projects.",
    "published_at": 1793905959.0,
    "published_bj": "2026-11-06 03:12"
+  },
+  {
+   "id": "29e62add817ea03c",
+   "source": "Hacker News",
+   "title": "The Hackintosh Reborn",
+   "url": "https://www.naut.ca/blog/2026/11/05/the-hackintosh-reborn-with-ai/",
+   "summary": "Article URL: https://www.naut.ca/blog/2026/11/05/the-hackintosh-reborn-with-ai/ Comments URL: https://news.ycombinator.com/item?id=50383057 Points: 47 # Comments: 2",
+   "published_at": 1793905702.0,
+   "published_bj": "2026-11-06 03:08"
   },
   {
    "id": "ce70c419d6683020",
@@ -144,6 +189,15 @@
    "title": "How to Lie With Statistics (1954) [pdf]",
    "url": "https://www.horace.org/blog/wp-content/uploads/2012/05/How-to-Lie-With-Statistics-1954-Huff.pdf",
    "summary": "Article URL: https://www.horace.org/blog/wp-content/uploads/2012/05/How-to-Lie-With-Statistics-1954-Huff.pdf Comments URL: https://news.ycombinator.com/item?id=50382594 Points: 26 # Comments: 2",
+   "published_at": 1793903362.0,
+   "published_bj": "2026-11-06 02:29"
+  },
+  {
+   "id": "9fe32167adfa2a06",
+   "source": "Hacker News",
+   "title": "How to Lie With Statistics (1954)",
+   "url": "https://archive.org/details/howtoliewithstat00huff",
+   "summary": "Article URL: https://archive.org/details/howtoliewithstat00huff Comments URL: https://news.ycombinator.com/item?id=50382594 Points: 45 # Comments: 6",
    "published_at": 1793903362.0,
    "published_bj": "2026-11-06 02:29"
   },
