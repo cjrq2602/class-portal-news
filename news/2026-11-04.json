@@ -1,6 +1,6 @@
 {
  "date": "2026-11-04",
- "generated_at": 1793849334.725684,
+ "generated_at": 1793853361.4709306,
  "count": 400,
  "items": [
   {
@@ -335,6 +335,15 @@
    "summary": "据彭博社记者马克·古尔曼最新披露的信息，苹果未来很可能围绕触控屏机型重组其高端MacBook Pro产品线，当前同时销售的非触控版高端机型最终可能退出市场。 阅读全文",
    "published_at": 1793803472.0,
    "published_bj": "2026-11-04 22:44"
+  },
+  {
+   "id": "222cac3c0e58e0af",
+   "source": "Hacker News",
+   "title": "Ask HN: What's your current AI agentic setup?",
+   "url": "https://news.ycombinator.com/item?id=50366117",
+   "summary": "I'm curious how people on HN are using AI day to day, and came up with a list of questions I thought could be interesting to know. No need to answer every question of course, just wanted to get a gut feel how people are using AI. 1) What AI subscriptions are you personally paying for? (Claude, ChatG",
+   "published_at": 1793803042.0,
+   "published_bj": "2026-11-04 22:37"
   },
   {
    "id": "31abf0071bc78228",
@@ -3593,15 +3602,6 @@
    "summary": "Article URL: https://www.washingtonpost.com/technology/2026/11/03/google-deepmind-staff-protest-lifetime-ban-criticizing-company/ Comments URL: https://news.ycombinator.com/item?id=50355504 Points: 24 # Comments: 2",
    "published_at": 1793728526.0,
    "published_bj": "2026-11-04 01:55"
-  },
-  {
-   "id": "2753ec214b090012",
-   "source": "cnBeta",
-   "title": "Google承认搜索与AI已无法分离 关闭AI功能或意味着放弃搜索服务",
-   "url": "https://www.cnbeta.com.tw/articles/tech/1584910.htm",
-   "summary": "Google近日宣布，将从2027年开始调整面向K-12学校教育用户的人工智能策略，允许学校自主决定是否启用Gemini等AI工具。然而，这项看似给予学校更多选择权的新政策，却引发了教育界的广泛讨论，因为Google同时确认，若学校决定完全禁用AI功能，学生也将无法继续使用Google Search搜索服务。 阅读全文",
-   "published_at": 1793728308.0,
-   "published_bj": "2026-11-04 01:51"
   }
  ]
 }
