@@ -1,0 +1,25 @@
+{
+ "date": "2026-11-06",
+ "generated_at": 1793870535.251123,
+ "count": 2,
+ "items": [
+  {
+   "id": "973bcc87ab1e9782",
+   "source": "InfoQ中文",
+   "title": "PHP 修复了两处已遭到攻击的严重远程代码执行漏洞",
+   "url": "https://www.infoq.cn/article/qUEjcWbwOj5RO59250Lu?utm_source=rss&utm_medium=article",
+   "summary": "点击查看原文>",
+   "published_at": 1793898360.0,
+   "published_bj": "2026-11-06 01:06"
+  },
+  {
+   "id": "af90296d61eec129",
+   "source": "InfoQ中文",
+   "title": "Claude Code 产品负责人Cut Wu 官宣加入 OpenAI",
+   "url": "https://www.infoq.cn/article/cDERcarozbrsCBNs5sWM?utm_source=rss&utm_medium=article",
+   "summary": "点击查看原文>",
+   "published_at": 1793897601.0,
+   "published_bj": "2026-11-06 00:53"
+  }
+ ]
+}
