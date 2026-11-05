@@ -1,7 +1,7 @@
 {
  "date": "2026-11-06",
- "generated_at": 1793898154.3914409,
- "count": 15,
+ "generated_at": 1793901348.592125,
+ "count": 23,
  "items": [
   {
    "id": "2ecda06e80272e35",
@@ -13,6 +13,60 @@
    "published_bj": "2026-11-06 03:13"
   },
   {
+   "id": "179d25654c362e42",
+   "source": "TechCrunch",
+   "title": "Harbinger raises $240M after expanding into defense",
+   "url": "https://techcrunch.com/2026/11/05/harbinger-raises-240m-after-expanding-into-defense/",
+   "summary": "The Los Angeles-based startup has now raised more than $650 million, and is working on electric trucks, emergency vehicles, and a driverless platform for the military.",
+   "published_at": 1793901164.0,
+   "published_bj": "2026-11-06 01:52"
+  },
+  {
+   "id": "1dbe4e4c0dd3a828",
+   "source": "cnBeta",
+   "title": "美国FAA空管系统启动大规模现代化升级 终于告别软盘时代",
+   "url": "https://www.cnbeta.com.tw/articles/tech/1585172.htm",
+   "summary": "美国联邦航空管理局（FAA）正在推进一项备受关注的现代化计划，准备正式淘汰已经服役数十年的3.5英寸软盘系统。美国交通部长肖恩·达菲近日宣布，FAA开始部署全新的企业信息显示系统（Enterprise Information Display System，简称E-IDS），以取代目前仍在全美400多个空中交通管制设施中运行的多套老旧系统。 阅读全文",
+   "published_at": 1793900765.0,
+   "published_bj": "2026-11-06 01:46"
+  },
+  {
+   "id": "0222ecfea67d229c",
+   "source": "cnBeta",
+   "title": "OpenAI推出GPT-6 Cyber：漏洞挖掘能力大幅提升 越权攻击风险显著降低",
+   "url": "https://www.cnbeta.com.tw/articles/tech/1585170.htm",
+   "summary": "OpenAI正式推出新一代网络安全人工智能模型GPT-6 Cyber，重点提升软件漏洞发现、网络安全防御以及自主执行安全测试的能力。与此前版本相比，新模型不仅在网络安全相关基准测试中取得更高成绩，还显著降低了执行任务时偏离授权范围、擅自攻击其他平台的概率。 阅读全文",
+   "published_at": 1793900681.0,
+   "published_bj": "2026-11-06 01:44"
+  },
+  {
+   "id": "723b8deeeed825ce",
+   "source": "cnBeta",
+   "title": "​AMD新一代“Medusa Point” APU现身跑分数据库",
+   "url": "https://www.cnbeta.com.tw/articles/tech/1585168.htm",
+   "summary": "AMD下一代“Medusa Point”APU近日出现在Geekbench测试数据库中，首次展示了其10核20线程的CPU配置。从现有信息来看，该处理器采用混合架构设计，由4个“Zen 6”核心和6个“Zen 6c”核心组成，表明AMD将在新一代移动平台上继续沿用大小核混合方案。 阅读全文",
+   "published_at": 1793900617.0,
+   "published_bj": "2026-11-06 01:43"
+  },
+  {
+   "id": "c03c71219df4f8dc",
+   "source": "Hacker News",
+   "title": "Launch HN: Rivet (YC W23) – Scale and Orchestrate Agents on S3",
+   "url": "https://github.com/rivet-dev/rivet",
+   "summary": "Hey HN, this is Nathan and Nicholas from Rivet ( https://rivet.dev ) – a fast, high-density, and scalable orchestrator for agentic workloads using the actor model. Rather than running a heavyweight sandbox per agent, each agent gets a lightweight actor backed by S3. Actors provide a long-lived proce",
+   "published_at": 1793899062.0,
+   "published_bj": "2026-11-06 01:17"
+  },
+  {
+   "id": "9d10a3fa337fd95f",
+   "source": "TechCrunch",
+   "title": "Food delivery startup Wonder files for IPO as it explores its next big bite",
+   "url": "https://techcrunch.com/2026/11/05/food-delivery-startup-wonder-files-for-ipo-as-it-explores-its-next-big-bite/",
+   "summary": "Following years of fundraising, acquisitions, and expansion, food delivery startup Wonder is moving closer to becoming a publicly traded company.",
+   "published_at": 1793898708.0,
+   "published_bj": "2026-11-06 01:11"
+  },
+  {
    "id": "973bcc87ab1e9782",
    "source": "InfoQ中文",
    "title": "PHP 修复了两处已遭到攻击的严重远程代码执行漏洞",
@@ -22,6 +76,15 @@
    "published_bj": "2026-11-06 01:06"
   },
   {
+   "id": "4972ddb66dfbf14f",
+   "source": "Hacker News",
+   "title": "Bild AI (YC W25) Is Hiring Founding Product Engineers",
+   "url": "https://www.ycombinator.com/companies/bild-ai/jobs",
+   "summary": "Article URL: https://www.ycombinator.com/companies/bild-ai/jobs Comments URL: https://news.ycombinator.com/item?id=50381512 Points: 0 # Comments: 0",
+   "published_at": 1793898083.0,
+   "published_bj": "2026-11-06 01:01"
+  },
+  {
    "id": "af90296d61eec129",
    "source": "InfoQ中文",
    "title": "Claude Code 产品负责人Cut Wu 官宣加入 OpenAI",
@@ -29,6 +92,15 @@
    "summary": "点击查看原文>",
    "published_at": 1793897601.0,
    "published_bj": "2026-11-06 00:53"
+  },
+  {
+   "id": "67feb076f03502e2",
+   "source": "Hacker News",
+   "title": "Window Sweaters",
+   "url": "https://github.com/saragordic/window-sweaters",
+   "summary": "Article URL: https://github.com/saragordic/window-sweaters Comments URL: https://news.ycombinator.com/item?id=50381383 Points: 16 # Comments: 1",
+   "published_at": 1793897414.0,
+   "published_bj": "2026-11-06 00:50"
   },
   {
    "id": "354d6f4c554b5603",
