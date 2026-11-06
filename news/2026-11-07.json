@@ -1,8 +1,62 @@
 {
  "date": "2026-11-07",
- "generated_at": 1793992593.6865685,
- "count": 30,
+ "generated_at": 1793995532.4360287,
+ "count": 36,
  "items": [
+  {
+   "id": "9e82ecd110f975c5",
+   "source": "cnBeta",
+   "title": "《塞尔达传说：时之笛 重制版》发售即登陆PC模拟器 玩家已实现60帧运行",
+   "url": "https://www.cnbeta.com.tw/articles/game/1585326.htm",
+   "summary": "任天堂经典作品《塞尔达传说：时之笛 重制版》刚刚登陆Switch 2平台，PC玩家社区便迅速展开行动。就在游戏正式发售数小时后，该作已经能够通过新一代Switch 2模拟器在PC上启动运行，延续了近年来主机游戏发售后迅速登上模拟平台的趋势。 阅读全文",
+   "published_at": 1793993864.0,
+   "published_bj": "2026-11-07 03:37"
+  },
+  {
+   "id": "75ed838cea2ba3b9",
+   "source": "Hacker News",
+   "title": "As the Japanese Countryside Empties Out, Wildlife Is Disappearing",
+   "url": "https://e360.yale.edu/digest/japan-depopulation-biodiversity",
+   "summary": "Article URL: https://e360.yale.edu/digest/japan-depopulation-biodiversity Comments URL: https://news.ycombinator.com/item?id=50397264 Points: 10 # Comments: 0",
+   "published_at": 1793993776.0,
+   "published_bj": "2026-11-07 03:36"
+  },
+  {
+   "id": "59fd720554770875",
+   "source": "Hacker News",
+   "title": "Firecracker VM Escape: PwnEscape Part 2",
+   "url": "https://pwn.ai/blog/firecracker-escape",
+   "summary": "Article URL: https://pwn.ai/blog/firecracker-escape Comments URL: https://news.ycombinator.com/item?id=50397219 Points: 20 # Comments: 2",
+   "published_at": 1793993618.0,
+   "published_bj": "2026-11-07 03:33"
+  },
+  {
+   "id": "aadc1ca204dba5b7",
+   "source": "Hacker News",
+   "title": "My first and last telegram was from Rebecca West",
+   "url": "https://thelampmagazine.com/blog/rebecca-wests-nightingale",
+   "summary": "Article URL: https://thelampmagazine.com/blog/rebecca-wests-nightingale Comments URL: https://news.ycombinator.com/item?id=50397176 Points: 7 # Comments: 1",
+   "published_at": 1793993400.0,
+   "published_bj": "2026-11-07 03:30"
+  },
+  {
+   "id": "e2d07ea5129b9e42",
+   "source": "Hacker News",
+   "title": "Democrats launching congressional investigations into SpaceXAI, META and Apple",
+   "url": "https://www.washingtonpost.com/technology/2026/11/06/after-courting-trump-corporate-america-faces-democratic-reckoning/",
+   "summary": "Article URL: https://www.washingtonpost.com/technology/2026/11/06/after-courting-trump-corporate-america-faces-democratic-reckoning/ Comments URL: https://news.ycombinator.com/item?id=50397102 Points: 31 # Comments: 5",
+   "published_at": 1793993064.0,
+   "published_bj": "2026-11-07 03:24"
+  },
+  {
+   "id": "43db196f33697bf8",
+   "source": "Hacker News",
+   "title": "Restaurant Delivery Payment-Skimming Campaign",
+   "url": "https://www.infohawk.com/news/2026-11-05-scamwich-restaurant-skimming",
+   "summary": "Article URL: https://www.infohawk.com/news/2026-11-05-scamwich-restaurant-skimming Comments URL: https://news.ycombinator.com/item?id=50397017 Points: 6 # Comments: 0",
+   "published_at": 1793992767.0,
+   "published_bj": "2026-11-07 03:19"
+  },
   {
    "id": "935a94e45a2188aa",
    "source": "TechCrunch",
