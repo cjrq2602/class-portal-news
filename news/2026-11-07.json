@@ -1,8 +1,80 @@
 {
  "date": "2026-11-07",
- "generated_at": 1794007187.6206791,
- "count": 54,
+ "generated_at": 1794009365.5907478,
+ "count": 64,
  "items": [
+  {
+   "id": "3f4790d814543234",
+   "source": "IT之家",
+   "title": "谷歌 YouTube 回应“半浅半深”界面：不是 Bug，测试“拼接”增强沉浸感",
+   "url": "https://www.ithome.com/1/023/617.htm",
+   "summary": "IT之家 11 月 7 日消息，科技媒体 Android Authority 昨日（11 月 6 日）发布博文， 经官方确认部分用户遇到的“一半深色、一半浅色”YouTube 界面并非 Bug，是一项正在小范围开展的界面实验。 IT之家附上相关截图如下： 根据社区用户反馈，安卓和 iOS 版 YouTube 在观看页面出现“一半深色、一半浅色”的奇怪界面，一度被误认为是应用故障。而最新官方回应表示，新设计将视频播放器和评论区改为“环境模式”（Ambient mode）。 在这种模式下， 界面会随视频画面的主色调动态变化，让播放器与内容更融合，营造更强的沉浸感。 用户向下滚动后，推荐视频区域则会",
+   "published_at": 1794009097.0,
+   "published_bj": "2026-11-07 07:51"
+  },
+  {
+   "id": "e714e8d58a46c96a",
+   "source": "IT之家",
+   "title": "苹果：超 10 万款应用已适配 iPhone Duo 折叠屏手机",
+   "url": "https://www.ithome.com/1/023/616.htm",
+   "summary": "IT之家 11 月 7 日消息，据 CNET 今日报道，随着苹果 iPhone Duo 折叠机型面向普通消费者发售，不少新机用户发现：部分常用 App 并未针对内屏做好适配。对于一款采用全新硬件设计的手机来说，这类情况十分常见，众多安卓折叠屏设备也经历过相同阶段，App 完成适配往往需要一定周期，苹果证实现状正在改善。 苹果全球开发者关系副总裁苏珊・普雷斯科特向 CNET 表示：“如今 App Store 上已经上线 超过 10 万款 适配 iPhone Duo 的应用，并且每天都有成千上万款经过优化的新应用上架。” “仅过去一个月，全球 19 座城市就有数千名开发者参与我们的线下技术工坊，亲",
+   "published_at": 1794008914.0,
+   "published_bj": "2026-11-07 07:48"
+  },
+  {
+   "id": "056c2f857b074d65",
+   "source": "IT之家",
+   "title": "三星电子 DX 部门员工抗议奖金分配不公，要求现金补偿及管理层道歉",
+   "url": "https://www.ithome.com/1/023/615.htm",
+   "summary": "IT之家 11 月 7 日消息，三星电子负责 Galaxy 手机、平板电脑、电视及家电业务的设备体验（DX）部门员工，因绩效奖金分配问题再次表达不满。 据 Business Korea 当地时间 11 月 5 日报道，三星 DX 部门员工所属的“同行工会”（Donghaeng Union）近日在三星电子水原办公区外举行抗议活动，要求公司向 DX 部门员工提供现金补偿，并就此前的奖金分配争议作出道歉，同时要求建立面向 2027 年薪资谈判的联合协商机制。 此次争议的核心在于，三星电子此前为负责半导体业务的设备解决方案（DS）部门员工设立了特别经营绩效奖金，而 DX 部门员工未能参与这项奖金计划。",
+   "published_at": 1794008795.0,
+   "published_bj": "2026-11-07 07:46"
+  },
+  {
+   "id": "7d46d1cdbfed7353",
+   "source": "IT之家",
+   "title": "Planet AI 邀你“向地球提问”：超 10 年卫星影像变化，一句话就能查",
+   "url": "https://www.ithome.com/1/023/614.htm",
+   "summary": "IT之家 11 月 7 日消息，美国卫星数据公司 Planet 于 11 月 5 日推出 Planet AI 应用， 结合大语言模型与超过十年的全球卫星影像档案，让用户使用自然语言搜索、观察和分析地球表面的变化。 IT之家附上演示视频如下： 产品目前可通过 ai.planet.com 免费使用，用户登录 Planet Insights 账号后，未来可使用更多高级功能。Planet 强调，所有 AI 结论均以可查看的原始卫星影像为依据，以降低“AI 幻觉”带来的误判风险。用户只需用日常语言描述问题，即可在全球范围内搜索目标地点、追踪其时间变化，并生成对比图或延时影像。 与需要专业 GIS 技能的",
+   "published_at": 1794008422.0,
+   "published_bj": "2026-11-07 07:40"
+  },
+  {
+   "id": "daace61e2e1722bb",
+   "source": "IT之家",
+   "title": "Anthropic 研究称 Claude AI 智能体可以靠“做梦”变得更聪明",
+   "url": "https://www.ithome.com/1/023/613.htm",
+   "summary": "IT之家 11 月 7 日消息，Anthropic 昨日（11 月 6 日）发布研究文章《The components of agent memory》，系统拆解 Claude 智能体如何跨会话记忆、筛选、纠错和整理知识。 该研究指出 AI 智能体可借鉴人脑“睡眠整理记忆”的机制 ，在空闲时间反思历史记录、纠错并构建知识结构，从而显著提升长周期任务表现。 该研究将智能体记忆分为会话日志、记忆笔记、知识表征（如 Wiki）和注入上下文四层，并引入“做梦”（dreaming）机制，让模型在两次交互之间的空闲时间回顾日志、修正错误、提炼规则和更新知识库。 研究团队认为，AI 可像人脑在睡眠中巩固记忆",
+   "published_at": 1794007514.0,
+   "published_bj": "2026-11-07 07:25"
+  },
+  {
+   "id": "554bbdc3c96179d0",
+   "source": "IT之家",
+   "title": "消息称 OpenAI 完成 110 亿美元首期新融资，估值 1.25 万亿美元",
+   "url": "https://www.ithome.com/1/023/612.htm",
+   "summary": "北京时间 11 月 7 日，据彭博社报道，知情人士称，OpenAI 新一轮融资已完成大约 110 亿美元的首期款项，对公司的估值为 1.25 万亿美元。 据知情人士透露，截至周五，这笔资金已汇入 OpenAI 账户。其中一位知情人士称，本轮融资的剩余部分预计将在未来几周内完成，融资总额最高可能达到 200 亿美元。 在推迟首次公开招股 (IPO) 计划后，OpenAI 已与投资者就大规模融资进行了一个多月的谈判。彭博社此前报道称，OpenAI 最初计划以 1.4 万亿美元的估值融资至少 300 亿美元。但随着 AI 股票在公开市场遭遇大幅抛售，该公司随后缩减了融资计划。 知情人士表示，参与首期",
+   "published_at": 1794007452.0,
+   "published_bj": "2026-11-07 07:24"
+  },
+  {
+   "id": "ef524a9cef8a9865",
+   "source": "IT之家",
+   "title": "文远知行创始人韩旭：希望四、五年内能坐上 Robotaxi 从广州直达香港",
+   "url": "https://www.ithome.com/1/023/611.htm",
+   "summary": "IT之家 11 月 7 日消息，据文远知行官方，公司创始人兼 CEO 韩旭于 11 月 2 日接受了 CNBC 专访，围绕 Robotaxi 规模化运营的机遇与挑战等行业话题进行了深入对话。他表示，文远知行已具备扩大 Robotaxi 车队规模的条件，希望四、五年内能坐上 Robotaxi 从广州直达香港。 他提到：“中国正在推进粤港澳大湾区建设，包括广州、深圳和香港三个主要城市。我一直有一个梦想，希望有一天能坐上一辆自动驾驶出租车，在车上睡一觉，或者处理些工作。等我醒来，或是忙完手头的事，就已经到香港了。 我相信五年内这一愿景有望实现 。目前最关键的仍是监管问题，我们必须审慎处理。我们要让监",
+   "published_at": 1794007442.0,
+   "published_bj": "2026-11-07 07:24"
+  },
+  {
+   "id": "d39735aadd4e4335",
+   "source": "Hacker News",
+   "title": "No CVE Today, Please",
+   "url": "https://nocveday.com/",
+   "summary": "Article URL: https://nocveday.com/ Comments URL: https://news.ycombinator.com/item?id=50399859 Points: 4 # Comments: 0",
+   "published_at": 1794007206.0,
+   "published_bj": "2026-11-07 07:20"
+  },
   {
    "id": "aa75622735b64719",
    "source": "IT之家",
@@ -20,6 +92,15 @@
    "summary": "IT之家 11 月 7 日消息，AI 编程协作工具 Amp 昨日（11 月 6 日）宣布推出 Spaces， 希望构建面向 AI 智能体（Agent）和团队协作的全新工作方式。 对于用户而言，不再需要手动创建、命名和管理多个 Agent 线程，只需对话一个主 Agent，由它理解需求、拆解任务，并让其自动生成和协调其他 Agent 线程。IT之家附上相关截图如下： Amp 指出在传统多 Agent 工作流中，用户往往要自己决定拆分、分派以及追踪任务，Spaces 将这一层组织工作交给 Agent：每个 Space 是用户与单个 Agent 的对话，该 Agent 会为用户启动并协调多个并行线程",
    "published_at": 1794006152.0,
    "published_bj": "2026-11-07 07:02"
+  },
+  {
+   "id": "51a92435245d6328",
+   "source": "Hacker News",
+   "title": "CATL Sodium Battery Hits LFP Cost Parity in 2026: 15,000 Cycles, 30-Year Life",
+   "url": "https://ievchina.com/energy-storage/catl-sodium-battery-cost-parity-lfp-2026-15000-cycles/",
+   "summary": "Article URL: https://ievchina.com/energy-storage/catl-sodium-battery-cost-parity-lfp-2026-15000-cycles/ Comments URL: https://news.ycombinator.com/item?id=50399657 Points: 51 # Comments: 17",
+   "published_at": 1794006046.0,
+   "published_bj": "2026-11-07 07:00"
   },
   {
    "id": "e4352044583d7bf4",
@@ -190,6 +271,15 @@
    "url": "https://www.washingtonpost.com/technology/2026/11/06/after-courting-trump-corporate-america-faces-democratic-reckoning/",
    "summary": "Article URL: https://www.washingtonpost.com/technology/2026/11/06/after-courting-trump-corporate-america-faces-democratic-reckoning/ Comments URL: https://news.ycombinator.com/item?id=50397102 Points: 31 # Comments: 5",
    "published_at": 1793993064.0,
+   "published_bj": "2026-11-07 03:24"
+  },
+  {
+   "id": "970fb4581f8c3801",
+   "source": "Hacker News",
+   "title": "GitHub's new Git storage architecture",
+   "url": "https://github.blog/engineering/architecture-optimization/inside-githubs-new-git-storage-architecture/",
+   "summary": "Article URL: https://github.blog/engineering/architecture-optimization/inside-githubs-new-git-storage-architecture/ Comments URL: https://news.ycombinator.com/item?id=50397099 Points: 31 # Comments: 1",
+   "published_at": 1793993061.0,
    "published_bj": "2026-11-07 03:24"
   },
   {
