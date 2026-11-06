@@ -1,8 +1,17 @@
 {
  "date": "2026-11-07",
- "generated_at": 1793983565.9935694,
- "count": 5,
+ "generated_at": 1793985149.6306012,
+ "count": 10,
  "items": [
+  {
+   "id": "0bcb1423854992b4",
+   "source": "Hacker News",
+   "title": "UpCodes (YC S17) is hiring SDR's to sell AI compliance software",
+   "url": "https://up.codes/careers?utm_source=HN",
+   "summary": "Article URL: https://up.codes/careers?utm_source=HN Comments URL: https://news.ycombinator.com/item?id=50395043 Points: 0 # Comments: 0",
+   "published_at": 1793984613.0,
+   "published_bj": "2026-11-07 01:03"
+  },
   {
    "id": "62dc2858fe64433c",
    "source": "InfoQ中文",
@@ -11,6 +20,24 @@
    "summary": "点击查看原文>",
    "published_at": 1793984400.0,
    "published_bj": "2026-11-07 01:00"
+  },
+  {
+   "id": "1dabb9413fcc1689",
+   "source": "Hacker News",
+   "title": "First steps in bare-metal programming using UEFI",
+   "url": "https://kevinboone.me/efitest_index.html",
+   "summary": "Article URL: https://kevinboone.me/efitest_index.html Comments URL: https://news.ycombinator.com/item?id=50394855 Points: 8 # Comments: 0",
+   "published_at": 1793983829.0,
+   "published_bj": "2026-11-07 00:50"
+  },
+  {
+   "id": "2501286ae73bcf5c",
+   "source": "TechCrunch",
+   "title": "Pentagon offers battery startup 6K $250M loan to build U.S. factory",
+   "url": "https://techcrunch.com/2026/11/06/pentagon-offers-battery-startup-6k-250m-loan-to-build-u-s-factory/",
+   "summary": "The Pentagon has conditionally approved a $250 million loan to help 6K scale up its microwave-plasma battery material manufacturing process.",
+   "published_at": 1793983801.0,
+   "published_bj": "2026-11-07 00:50"
   },
   {
    "id": "c19966690d9e79b6",
@@ -29,6 +56,24 @@
    "summary": "自从邦德系列电影制片方发布最终选角公告以来，下一任007的身份一直是电影界的热门话题。据一位消息人士透露，乔什·奥康纳的一位戏剧界同事不小心透露，这位英国演员已经确定出演。10月份，奥康纳在伦敦阿尔梅达剧院主演了话剧《金童》。上周三晚上，一位记者的消息来源在伦敦苏豪区的法国之家酒吧遇到了该剧的一位演员，此人自称是乔什的朋友。 阅读全文",
    "published_at": 1793982072.0,
    "published_bj": "2026-11-07 00:21"
+  },
+  {
+   "id": "4f2772bf47530145",
+   "source": "Hacker News",
+   "title": "Scriptable GeoDNS: Leaving AWS for Bunny",
+   "url": "https://vincent.bernat.ch/en/blog/2026-bunny-geodns",
+   "summary": "Article URL: https://vincent.bernat.ch/en/blog/2026-bunny-geodns Comments URL: https://news.ycombinator.com/item?id=50394292 Points: 4 # Comments: 0",
+   "published_at": 1793981703.0,
+   "published_bj": "2026-11-07 00:15"
+  },
+  {
+   "id": "f0ea37361b82f828",
+   "source": "Hacker News",
+   "title": "Promethevs: Full DeepSeek-v4.1-Flash-1017, locally, on 12GB of VRAM",
+   "url": "https://github.com/Magnvs7/Promethevs",
+   "summary": "Article URL: https://github.com/Magnvs7/Promethevs Comments URL: https://news.ycombinator.com/item?id=50394288 Points: 6 # Comments: 0",
+   "published_at": 1793981687.0,
+   "published_bj": "2026-11-07 00:14"
   },
   {
    "id": "6ea133954c21768f",
