@@ -1,0 +1,382 @@
+{
+ "type": "today",
+ "date": "2026-11-06",
+ "window": {
+  "start_ts": 1793894400.0,
+  "end_ts": 1793926800.0
+ },
+ "generated_at": 1793930434.4202695,
+ "generator": "action",
+ "news_count": 108,
+ "keywords": [
+  "ai",
+  "the",
+  "to",
+  "meta",
+  "of",
+  "claude",
+  "openai",
+  "with",
+  "发布",
+  "推出"
+ ],
+ "points": [
+  {
+   "text": "【ai】Airbnb says its upcoming AI agent will help travelers plan trips, compar",
+   "keyword": "ai",
+   "news_ids": [
+    "c14b205abde01152"
+   ],
+   "refs": [
+    {
+     "id": "c14b205abde01152",
+     "title": "Airbnb says it’s launching an AI travel agent in the first half of 2027",
+     "source": "TechCrunch",
+     "url": "https://techcrunch.com/2026/11/05/airbnb-says-its-launching-an-ai-travel-agent-in-the-first-half-of-2027/",
+     "published_at": 1793918455.0
+    }
+   ]
+  },
+  {
+   "text": "【ai】IT之家 11 月 6 日消息，集邦咨询（TrendForce）今天（11 月 6 日）发布博文，报道称前英特尔高管纳维德 · 沙赫里亚里（Na",
+   "keyword": "ai",
+   "news_ids": [
+    "acf17e08eff6b1b6"
+   ],
+   "refs": [
+    {
+     "id": "acf17e08eff6b1b6",
+     "title": "联发科组建“封装梦之队”：招募 37 年经验前英特尔老将，双线布局 AI 芯片 CoWoS+EMIB 战略",
+     "source": "IT之家",
+     "url": "https://www.ithome.com/1/023/041.htm",
+     "published_at": 1793922531.0
+    }
+   ]
+  },
+  {
+   "text": "【to】IT之家 11 月 6 日消息，苹果 M6 芯片款 iMac、MacBook Pro 今日正式开售， 起售价分别为 12499 元 / 1599",
+   "keyword": "to",
+   "news_ids": [
+    "dac858554ce391a9"
+   ],
+   "refs": [
+    {
+     "id": "dac858554ce391a9",
+     "title": "12499 元 / 15999 元起：苹果 M6 芯片款 iMac、MacBook Pro 开售",
+     "source": "IT之家",
+     "url": "https://www.ithome.com/1/023/022.htm",
+     "published_at": 1793894402.0
+    }
+   ]
+  },
+  {
+   "text": "【to】Letterboxd, an online platform for movie lovers, has grown dramatically ",
+   "keyword": "to",
+   "news_ids": [
+    "8de076a899269110"
+   ],
+   "refs": [
+    {
+     "id": "8de076a899269110",
+     "title": "The New York Times reportedly in talks to buy Letterboxd for $330 million",
+     "source": "TechCrunch",
+     "url": "https://techcrunch.com/2026/11/05/the-new-york-times-reportedly-in-talks-to-buy-letterboxd-for-330-million/",
+     "published_at": 1793923638.0
+    }
+   ]
+  },
+  {
+   "text": "【meta】If it goes into effect next year, this California law would restrict soc",
+   "keyword": "meta",
+   "news_ids": [
+    "4ed8756304a2df23"
+   ],
+   "refs": [
+    {
+     "id": "4ed8756304a2df23",
+     "title": "Meta, Google, and TikTok sue California AG over teen social media law",
+     "source": "TechCrunch",
+     "url": "https://techcrunch.com/2026/11/05/meta-google-and-tiktok-sue-california-ag-over-teen-social-media-law/",
+     "published_at": 1793923298.0
+    }
+   ]
+  },
+  {
+   "text": "IT之家 11 月 6 日消息，美国联邦航空管理局（FAA）昨日（11 月 5 日）宣布， 正式启动空中交通管制信息系统现代化升级工程，逐步淘汰",
+   "keyword": "",
+   "news_ids": [
+    "ed99437d2190142c"
+   ],
+   "refs": [
+    {
+     "id": "ed99437d2190142c",
+     "title": "终于告别 3.5 英寸软盘：美国计划 2028 年前替换 435 个空管设施老旧系统",
+     "source": "IT之家",
+     "url": "https://www.ithome.com/1/023/056.htm",
+     "published_at": 1793926610.0
+    }
+   ]
+  },
+  {
+   "text": "IT之家 11 月 6 日消息，据央视新闻报道，第二艘国产大型邮轮“爱达 · 花城号”今日在上海外高桥造船有限公司正式交付",
+   "keyword": "",
+   "news_ids": [
+    "db88ee5b81e05a6c"
+   ],
+   "refs": [
+    {
+     "id": "db88ee5b81e05a6c",
+     "title": "第二艘国产大型邮轮“爱达 · 花城号”正式交付，较原计划提前约两个月",
+     "source": "IT之家",
+     "url": "https://www.ithome.com/1/023/055.htm",
+     "published_at": 1793926493.0
+    }
+   ]
+  },
+  {
+   "text": "IT之家 11 月 6 日消息，根据 GeekBench 跑分库昨日（11 月 5 日）更新的数据条目，在联想 22ETPF6DTA 测试系统中",
+   "keyword": "",
+   "news_ids": [
+    "f4784d9f3e8a4722"
+   ],
+   "refs": [
+    {
+     "id": "f4784d9f3e8a4722",
+     "title": "AMD Medusa Point APU 的 Geekbench 7 跑分首曝：10 核 20 线程",
+     "source": "IT之家",
+     "url": "https://www.ithome.com/1/023/054.htm",
+     "published_at": 1793925877.0
+    }
+   ]
+  },
+  {
+   "text": "IT之家 11 月 6 日消息，据北京亦庄公众号，近日，北京新景昇智联科技有限公司（以下简称“新景昇”）8.5 代电致变色薄膜产线完成重大攻关节",
+   "keyword": "",
+   "news_ids": [
+    "b8603513aaad4d98"
+   ],
+   "refs": [
+    {
+     "id": "b8603513aaad4d98",
+     "title": "我国高端镀膜装备实现自主突破，新景昇首台 8.5 代电致变色薄膜设备下线",
+     "source": "IT之家",
+     "url": "https://www.ithome.com/1/023/053.htm",
+     "published_at": 1793925875.0
+    }
+   ]
+  },
+  {
+   "text": "IT之家 11 月 6 日消息，2026 全球总决赛淘汰赛 1/4 决赛第三日的比赛火热进行中，来自 LPL 赛区的二号种子 BLG 以 3:0",
+   "keyword": "",
+   "news_ids": [
+    "e037e3e3d0ffc7c2"
+   ],
+   "refs": [
+    {
+     "id": "e037e3e3d0ffc7c2",
+     "title": "BLG 零封 DK 挺进《英雄联盟》S16 四强，下轮对战 T1/KC 胜者",
+     "source": "IT之家",
+     "url": "https://www.ithome.com/1/023/050.htm",
+     "published_at": 1793925226.0
+    }
+   ]
+  },
+  {
+   "text": "Article URL: https://www",
+   "keyword": "",
+   "news_ids": [
+    "574c330811ac63f1"
+   ],
+   "refs": [
+    {
+     "id": "574c330811ac63f1",
+     "title": "Major Investors Are Skeptical Anthropic IPO Can Achieve $1.5T Valuation",
+     "source": "Hacker News",
+     "url": "https://www.wsj.com/finance/major-investors-are-skeptical-anthropic-ipo-can-achieve-1-5-trillion-valuation-ca965d8b’",
+     "published_at": 1793925071.0
+    }
+   ]
+  },
+  {
+   "text": "IT之家 11 月 6 日消息，11 月 5 日，在 2026 年 CeMAT ASIA 亚洲国际物流技术与运输系统展览会上，京东物流携全新升级",
+   "keyword": "",
+   "news_ids": [
+    "25f064792a9b9cb1"
+   ],
+   "refs": [
+    {
+     "id": "25f064792a9b9cb1",
+     "title": "京东物流“狼族”机器人升级：智狼取货提速、保姆狼实现无人分拣",
+     "source": "IT之家",
+     "url": "https://www.ithome.com/1/023/048.htm",
+     "published_at": 1793924936.0
+    }
+   ]
+  },
+  {
+   "text": "IT之家 11 月 6 日消息，微软宣布调整 Microsoft 365 Education 教育版授权政策，将逐步停用免费 Office 36",
+   "keyword": "",
+   "news_ids": [
+    "ca944ae26b8ae295"
+   ],
+   "refs": [
+    {
+     "id": "ca944ae26b8ae295",
+     "title": "微软 Office 365 A1 退役：2028 年起取消 100TB 教育版基础存储，免费 A0 学生版不含 Teams 与邮箱",
+     "source": "IT之家",
+     "url": "https://www.ithome.com/1/023/042.htm",
+     "published_at": 1793922659.0
+    }
+   ]
+  },
+  {
+   "text": "IT早报”时间，大家好，现在是 2026 年 11 月 6 日星期五，今天的重要科技资讯有： 1. 华为鸿蒙 HarmonyOS 终端用户数预计",
+   "keyword": "",
+   "news_ids": [
+    "ca4c858c4cec5024"
+   ],
+   "refs": [
+    {
+     "id": "ca4c858c4cec5024",
+     "title": "IT早报 1106：华为鸿蒙终端用户数本月将突破 1 亿大关；奥迪研发高管抨击速成车；华为鸿蒙电脑官宣年内支持侧载；2027 年放假安排出炉...",
+     "source": "IT之家",
+     "url": "https://www.ithome.com/1/023/040.htm",
+     "published_at": 1793922350.0
+    }
+   ]
+  },
+  {
+   "text": "IT之家 11 月 6 日消息，当地时间 11 月 5 日，G2 Esports 宣布与《英雄联盟》分部主教练卢卡 ·“Perkz”· 佩尔科维",
+   "keyword": "",
+   "news_ids": [
+    "3cff97edc37ae0e9"
+   ],
+   "refs": [
+    {
+     "id": "3cff97edc37ae0e9",
+     "title": "前 G2《英雄联盟》主教练 Perkz 千字长文引爆舆论，数小时内被解雇",
+     "source": "IT之家",
+     "url": "https://www.ithome.com/1/023/039.htm",
+     "published_at": 1793921777.0
+    }
+   ]
+  }
+ ],
+ "article": {
+  "title": "2026-11-06 新闻总结",
+  "paragraphs": [
+   {
+    "kind": "lead",
+    "text": "今天共收录 108 条新闻，来自 7 家媒体。把标题放在一起看，讨论主要集中在 AI、模型、芯片 这几个方向上，其余消息更像是零散补充。"
+   },
+   {
+    "kind": "section",
+    "heading": "AI",
+    "text": "先看「AI」。IT之家 11 月 6 日消息，OpenAI 昨日（11 月 5 日）发布博文，宣布推出发布网络安全专用模型 GPT-6 Cyber，官方宣称在发现、验证和修复软件漏洞方面，另有 49 条消息指向同一话题。这类进展更像是把已有能力往工程化落地推了一步，真正的分水岭在于成本和可靠性能不能同时压下来。",
+    "news_ids": [
+     "014f541dad7c13aa"
+    ],
+    "refs": [
+     {
+      "id": "014f541dad7c13aa",
+      "title": "OpenAI 最强网安 AI 模型：GPT-6 Cyber 登场，性能提高 51%、发现火狐 Firefox 浏览器 81 个新漏洞",
+      "source": "IT之家",
+      "url": "https://www.ithome.com/1/023/038.htm",
+      "published_at": 1793920975.0
+     }
+    ]
+   },
+   {
+    "kind": "section",
+    "heading": "芯片",
+    "text": "与此同时「芯片」。IT之家 11 月 6 日消息，集邦咨询（TrendForce）今天（11 月 6 日）发布博文，另有 8 条消息指向同一话题。技术路线的胜负很少由一次发布会决定，接下来要看的是它能不能被更多团队低成本复用。",
+    "news_ids": [
+     "acf17e08eff6b1b6"
+    ],
+    "refs": [
+     {
+      "id": "acf17e08eff6b1b6",
+      "title": "联发科组建“封装梦之队”：招募 37 年经验前英特尔老将，双线布局 AI 芯片 CoWoS+EMIB 战略",
+      "source": "IT之家",
+      "url": "https://www.ithome.com/1/023/041.htm",
+      "published_at": 1793922531.0
+     }
+    ]
+   },
+   {
+    "kind": "section",
+    "heading": "推出",
+    "text": "另一个值得注意的方向是「推出」。IT之家 11 月 6 日消息，当地时间 11 月 5 日，Anthropic 宣布为 Claude 加入个人理财功能，本周开启灰度测试，面向美国地区的 Pro，另有 13 条消息指向同一话题。这类进展更像是把已有能力往工程化落地推了一步，真正的分水岭在于成本和可靠性能不能同时压下来。",
+    "news_ids": [
+     "0c92df30570b00ce"
+    ],
+    "refs": [
+     {
+      "id": "0c92df30570b00ce",
+      "title": "Anthropic 推出 Claude 个人理财功能，支持消费分析和账单追踪",
+      "source": "IT之家",
+      "url": "https://www.ithome.com/1/023/051.htm",
+      "published_at": 1793925430.0
+     }
+    ]
+   },
+   {
+    "kind": "section",
+    "heading": "Google",
+    "text": "相比之下「Google」。据路透社报道，Google、Meta和TikTok分别提起诉讼，另有 2 条消息指向同一话题。单看一条新闻容易高估影响，放到最近几周的脉络里，它更像是一个渐进变化中的节点。",
+    "news_ids": [
+     "b256d61745f1be8f"
+    ],
+    "refs": [
+     {
+      "id": "b256d61745f1be8f",
+      "title": "Google、Meta和TikTok起诉加州 寻求阻止儿童社媒法",
+      "source": "cnBeta",
+      "url": "https://www.cnbeta.com.tw/articles/tech/1585206.htm",
+      "published_at": 1793921066.0
+     }
+    ]
+   },
+   {
+    "kind": "glossary",
+    "items": [
+     {
+      "term": "IPO",
+      "desc": "首次公开募股，公司第一次把股票卖给公众并上市"
+     },
+     {
+      "term": "AI",
+      "desc": "人工智能，让机器完成识别、生成、判断等原本需要人做的任务"
+     },
+     {
+      "term": "HBM",
+      "desc": "高带宽内存，把多层内存堆叠起来给 AI 芯片喂数据，缓解带宽瓶颈"
+     },
+     {
+      "term": "数据中心",
+      "desc": "集中放置服务器、供电与散热设施的大型机房"
+     },
+     {
+      "term": "半导体",
+      "desc": "制造芯片的材料产业，处在整个电子工业的上游"
+     },
+     {
+      "term": "大模型",
+      "desc": "参数量巨大的神经网络，靠海量文本训练出语言理解与生成能力"
+     }
+    ]
+   },
+   {
+    "kind": "outlook",
+    "text": "把这几条放在一起看，最值得跟踪的是 AI 和 模型 两条线：一条决定技术能走多远，一条决定它多快能落到普通人的日常里。至于其他消息，可以先放进观察名单，等后续有更实的进展再判断。"
+   }
+  ],
+  "word_count": 684
+ },
+ "ai_enhanced": false,
+ "schema": 1,
+ "window_bj": {
+  "start": "2026-11-06 00:00",
+  "end": "2026-11-06 09:00"
+ }
+}

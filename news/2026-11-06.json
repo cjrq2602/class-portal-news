@@ -1,7 +1,7 @@
 {
  "date": "2026-11-06",
- "generated_at": 1793928959.1158786,
- "count": 121,
+ "generated_at": 1793930432.409834,
+ "count": 132,
  "items": [
   {
    "id": "5061f3d3c9e6d603",
@@ -20,6 +20,87 @@
    "summary": "点击查看原文>",
    "published_at": 1793949288.0,
    "published_bj": "2026-11-06 15:14"
+  },
+  {
+   "id": "f09a22391d7cb061",
+   "source": "IT之家",
+   "title": "三星 SDS 龟尾 AI 数据中心动工，为三星系机器人业务提供算力支持",
+   "url": "https://www.ithome.com/1/023/080.htm",
+   "summary": "IT之家 11 月 6 日消息，三星系 IT 解决方案和服务提供商三星 SDS 当地时间本月 2 日宣布，其位于韩国庆尚北道龟尾市的 新 AI 数据中心项目破土动工 。 这座数据中心采用风冷 + 水冷混合散热布局， 支持新一代 GPU 服务器在内的各类 AI 系统 。其占地面积约 4.63 万平方米，初期设计容量 60MW，未来将扩展至 120MW，投资额 4,273 亿韩元 （IT之家注：现汇率约合 21.31 亿元人民币） ，预计 2028 年底竣工。 三星 SDS 表示，龟尾 AI 数据中心不仅将向外部提供服务，也 将为三星系内部的制造业机器人转型等业务提供 AI 算力支持 。",
+   "published_at": 1793930407.0,
+   "published_bj": "2026-11-06 10:00"
+  },
+  {
+   "id": "1ee61822423d6701",
+   "source": "IT之家",
+   "title": "ChatGPT 涉嫌教唆妻子毒杀丈夫？美国一男子起诉 OpenAI",
+   "url": "https://www.ithome.com/1/023/079.htm",
+   "summary": "北京时间 11 月 6 日，据 Ars Technica 报道，一份本周公开的诉讼文件称，ChatGPT 被指在数月中逐步生成“个性化方案”，帮助北卡罗来纳州女子谢丽尔 · 盖茨（Cheryl Gates）策划毒杀丈夫詹姆斯 · 盖茨（James Gates）。 詹姆斯同时指控 OpenAI 及其 CEO 萨姆 · 奥尔特曼（Sam Altman）未设置足够技术防护，阻止相关对话。 大陪审团已于 10 月起诉谢丽尔，罪名包括一级谋杀未遂和食品污染。上述诉讼在起诉前约一周提交至旧金山县高等法院，并于本周公开。 诉讼称，ChatGPT 在谢丽尔的提问变得“明显可疑”后仍未关闭对话，反而提供如何实施",
+   "published_at": 1793930173.0,
+   "published_bj": "2026-11-06 09:56"
+  },
+  {
+   "id": "721eb44f9cae98fc",
+   "source": "IT之家",
+   "title": "渝万高铁联调联试跑出 385 公里时速，预计 2027 年建成通车",
+   "url": "https://www.ithome.com/1/023/078.htm",
+   "summary": "IT之家 11 月 6 日消息，据国铁集团，11 月 4 日， 新建重庆至万州高速铁路 （IT之家注：以下简称“渝万高铁”）在前期逐级提速联调联试的基础上，进行最高测试速度等级提速试验， 综合检测列车顺利跑出 时速 385 公里的试验目标速度， 实现了联调联试阶段性目标，为高铁顺利开通奠定了坚实基础。 渝万高铁是我国“八纵八横”高铁网包（银）海、京昆通道的重要组成部分，也是沿江高铁通道的重要补充。线路起自重庆东站，途经重庆市南岸区、巴南区、涪陵区、丰都县、忠县，终至万州北站， 正线全长约 254 公里，设计时速 350 公里 。全线共设重庆东、涪陵北、丰都北、忠县、万州北 5 座车站。 逐级提",
+   "published_at": 1793930123.0,
+   "published_bj": "2026-11-06 09:55"
+  },
+  {
+   "id": "5cc68009678c1f92",
+   "source": "IT之家",
+   "title": "腾讯魔方《异人之下》13 分钟最新实机演示公布：剧情模式首次完整公开，12 月正式公测",
+   "url": "https://www.ithome.com/1/023/077.htm",
+   "summary": "IT之家 11 月 6 日消息，腾讯魔方工作室群 11 月 4 日公开了《异人之下》的最新实机演示，时长约 13 分钟，首次完整展示了「肇始篇」剧情模式。 该模式为 PVE（玩家对战环境）内容，此前游戏的对外展示主要集中在格斗对战部分，剧情模式的单独呈现尚属首次。 此次演示还原了原作开篇情节：张楚岚隐藏异能以普通学生身份生活，被全性组织掳走后遭遇搜魂，随后由“哪都通”公司介入救援，金光咒等标志性术法的特效在演示中得到正面呈现，战斗场景设置于地铁站等生活化空间。 同时，魔方宣布《异人之下》公测前最后一轮「终局测试」正式开启，本轮测试为限量计费删档测试，支持 PC、iOS、安卓及鸿蒙设备，PC 与",
+   "published_at": 1793929798.0,
+   "published_bj": "2026-11-06 09:49"
+  },
+  {
+   "id": "5f090a3ec74da51e",
+   "source": "IT之家",
+   "title": "剑指字节 CapCut：短视频编辑应用 Instagram Edits 登录 Mac，可 4K 无水印导出",
+   "url": "https://www.ithome.com/1/023/076.htm",
+   "summary": "IT之家 11 月 6 日消息，科技媒体 TechCrunch 今天（11 月 6 日）发布博文，报道称为对抗字节跳动旗下视频编辑应用 CapCut（国内对应产品为剪映）， Meta 旗下 Instagram 扩展短视频编辑应用 Edits，推出 Mac 桌面版。 Edits 应用此前主要以移动端体验为主，难以满足需要精细剪辑和长时间操作的专业用户。Meta 表示，新桌面版本面向更复杂的视频创作场景，充分利用大屏幕、鼠标和键盘，帮助创作者处理多片段、多轨道项目。IT之家附上相关截图如下： 功能方面，桌面版 Edits 提供完整的多轨道时间线、转场关键帧、音频波形，以及自定义键盘快捷键等功能，还",
+   "published_at": 1793929683.0,
+   "published_bj": "2026-11-06 09:48"
+  },
+  {
+   "id": "1c228c8c87cb8c01",
+   "source": "IT之家",
+   "title": "英特尔中国区董事长王稚聪：算力舱未来要进入中国西部，绿色电力就地转化为词元",
+   "url": "https://www.ithome.com/1/023/075.htm",
+   "summary": "IT之家 11 月 6 日现场消息，第九届中国国际进口博览会（以下简称 \" 进博会 \"）于 11 月 5 日至 10 日在上海国家会展中心举办。 英特尔中国区董事长王稚聪向IT之家等媒体介绍，今年英特尔也带来了一些非常有意思的作品，例如绿色算力舱（英特尔绿电储能算力一体化解决方案）， 算力舱未来要进入中国西部，与光能、风能等新能源结合，将算力转化为词元 。 谈及英特尔“储算一体”方案的未来规划，王稚聪表示，这是英特尔去年以来响应国家“十五五”规划而提出的一个崭新解决方案。“十五五”规划中提到了两个重点方向：一个是“词元经济”，另一个是“算电协同”。“我们观察到中国西部富余大量的新能源，这些新能",
+   "published_at": 1793929619.0,
+   "published_bj": "2026-11-06 09:46"
+  },
+  {
+   "id": "8a814b3e724e98e0",
+   "source": "IT之家",
+   "title": "XBOX 加入游戏启动器优化竞赛：新版 XBOX PC 应用启动提速多达 60%",
+   "url": "https://www.ithome.com/1/023/074.htm",
+   "summary": "IT之家 11 月 6 日消息，Microsoft（微软）XBOX 当地时间本月 5 日宣布向 Insider 预览体验成员开发更新后的 XBOX PC 应用，这标志着 XBOX 也加入了此轮游戏启动器优化竞赛 。 根据 XBOX 的说法，新版 XBOX PC 应用程序 启动速度提升至多 60% 、 页面加载速度提升至多 50% 、 应用内窗口打开速度提升至多 65% ；改善易用水平；好友和社交功能加入主面板；合并游戏与用户搜索；拥有更简洁的外观。 此前仅限预览体验成员的 新版 XBOX 云游戏网页版界面将在未来数周扩展至更多玩家 。这将提供全包含游戏库、大屏适配优化、深色 / 浅色模式与 5",
+   "published_at": 1793929540.0,
+   "published_bj": "2026-11-06 09:45"
+  },
+  {
+   "id": "512728c3c87c7ce5",
+   "source": "IT之家",
+   "title": "鸿蒙智行享界 V8 明日开启全国试驾，预售价 32.98 万元起",
+   "url": "https://www.ithome.com/1/023/073.htm",
+   "summary": "IT之家 11 月 6 日消息，鸿蒙智行今日宣布，享界 V8 将于 11 月 7 日开启全国试驾，预售价 32.98 万元起。 据IT之家了解，享界 V8 是鸿蒙智行旗下 享界品牌首款 MPV ，预计 11 月上旬发布。该车提供纯电与增程两种动力形式，全系标配 800V 高压平台、±12° 后轮转向和华为乾崑智驾系统。 华为官网显示，享界 V8 采用七座布局设计，分 Ultra+、Ultra、Max+ 和 Max 四个版本。除 Max+ 外，享界 V8 其余版本均可选 800V 增程或 800V 纯电动力。 享界 V8 Ultra+ 预售价：增程版 40.98 万元起 | 纯电版 44.98 ",
+   "published_at": 1793929488.0,
+   "published_bj": "2026-11-06 09:44"
+  },
+  {
+   "id": "a41f7b0b352e2d0a",
+   "source": "IT之家",
+   "title": "2026 年 6G 发展大会 11 月 24 日在沪举行，聚焦全球统一标准与产业生态",
+   "url": "https://www.ithome.com/1/023/070.htm",
+   "summary": "IT之家 11 月 6 日消息，2026 年 6G 发展大会定于 11 月 24 日至 25 日在上海市松江区举行。 本届大会在工业和信息化部指导下，由中国信息通信研究院与 IMT-2030（6G）推进组主办，上海市科学技术委员会、上海市经济和信息化委员会、上海市通信管理局及松江区人民政府承办。这是 6G 发展大会连续举办的第六届，前五届已为国内 6G 领域的技术研讨与产业协作提供了主要平台。 本届大会以“智启星程，携手全球协同创新”为主题，核心议题锁定 6G 全球统一标准的制定与产业生态建设。当前 6G 研发正处在标准研制与产业研发同步推进的关键窗口期，面向 2030 年商用的目标，全球 6",
+   "published_at": 1793928997.0,
+   "published_bj": "2026-11-06 09:36"
   },
   {
    "id": "482061adc7587a47",
@@ -112,6 +193,15 @@
    "published_bj": "2026-11-06 09:13"
   },
   {
+   "id": "14561b45df54e5bc",
+   "source": "Hacker News",
+   "title": "Investors wipe $2.5T off Nasdaq as blue tsunami prompts AI fears",
+   "url": "https://www.reuters.com/legal/transactional/ai-data-center-stocks-slip-democratic-sweep-clouds-expansion-plans-2026-11-05/",
+   "summary": "Article URL: https://www.reuters.com/legal/transactional/ai-data-center-stocks-slip-democratic-sweep-clouds-expansion-plans-2026-11-05/ Comments URL: https://news.ycombinator.com/item?id=50386909 Points: 14 # Comments: 1",
+   "published_at": 1793927500.0,
+   "published_bj": "2026-11-06 09:11"
+  },
+  {
    "id": "f974721257c00e45",
    "source": "IT之家",
    "title": "谷歌确认高通骁龙手机已支持安卓 Linux 终端，红魔 12 Pro 实测可用",
@@ -182,6 +272,15 @@
    "summary": "IT之家 11 月 6 日消息，2026 全球总决赛淘汰赛 1/4 决赛第三日的比赛火热进行中，来自 LPL 赛区的二号种子 BLG 以 3:0 战胜了 LCK 四号种子 DK 战队，晋级 2026 全球总决赛半决赛！ 明天，LCK 三号种子 T1 战队将与 LEC 三号种子 KC 进行角逐，其中的胜者将在接下来的 11 月 9 日与 BLG 争夺总决赛名额。IT之家届时将为大家带来详细报道。 在 S16 全球总决赛八强赛 BLG 对阵 DK 的第二局比赛中，BLG 上单选手 Bin 正式达成国际赛事 200 次出场里程碑，成为首位达成这一成就的上单选手。 根据赛前统计，Bin 以 198 次",
    "published_at": 1793925226.0,
    "published_bj": "2026-11-06 08:33"
+  },
+  {
+   "id": "574c330811ac63f1",
+   "source": "Hacker News",
+   "title": "Major Investors Are Skeptical Anthropic IPO Can Achieve $1.5T Valuation",
+   "url": "https://www.wsj.com/finance/major-investors-are-skeptical-anthropic-ipo-can-achieve-1-5-trillion-valuation-ca965d8b’",
+   "summary": "Article URL: https://www.wsj.com/finance/major-investors-are-skeptical-anthropic-ipo-can-achieve-1-5-trillion-valuation-ca965d8b’ Comments URL: https://news.ycombinator.com/item?id=50386597 Points: 25 # Comments: 16",
+   "published_at": 1793925071.0,
+   "published_bj": "2026-11-06 08:31"
   },
   {
    "id": "25f064792a9b9cb1",
