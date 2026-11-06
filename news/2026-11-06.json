@@ -1,7 +1,7 @@
 {
  "date": "2026-11-06",
- "generated_at": 1793973877.3992298,
- "count": 397,
+ "generated_at": 1793977546.260361,
+ "count": 400,
  "items": [
   {
    "id": "348845feaa0534b3",
@@ -13,6 +13,78 @@
    "published_bj": "2026-11-06 23:25"
   },
   {
+   "id": "edaf44e65e3cbbce",
+   "source": "IT之家",
+   "title": "最高投资 100 亿美元：SK 海力士设立美国 AI 投资子公司 Hyaico，崔泰源掌舵",
+   "url": "https://www.ithome.com/1/023/584.htm",
+   "summary": "IT之家 11 月 6 日消息，美国监管机构披露文件显示，SK 海力士已在美国成立 AI 投资子公司 Hyaico Corp， SK 集团会长崔泰源担任董事会主席 。 IT之家了解到，SK 海力士成立的这家子公司此前暂定名为 AI。该公司将加速全球市场 AI 发展，并寻找 AI 增长新引擎，计划向美国 AI 领域投资至多 100 亿美元 （IT之家注：现汇率约合 668.25 亿元人民币） 。 此外，该子公司将通过重组 SK 海力士现有的美国业务部门 SK hynix NAND Product Solutions 组建。SK 海力士总裁宋贤钟（Song Hyun-jong）将出任 Hyaico",
+   "published_at": 1793977528.0,
+   "published_bj": "2026-11-06 23:05"
+  },
+  {
+   "id": "c551c7d3fab2ace2",
+   "source": "IT之家",
+   "title": "聚焦内容创作和传播推广两方面突出问题，广电总局开启新一轮微短剧专项治理",
+   "url": "https://www.ithome.com/1/023/579.htm",
+   "summary": "IT之家 11 月 6 日消息，据央视新闻今日报道，近日，国家广播电视总局在巩固前期微短剧低俗有害和侵权盗版专项治理成效的基础上，针对 AI 微短剧质量良莠不齐、AI 技术助长低俗不良内容反弹等问题， 部署开展新一轮微短剧低俗化同质化专项治理工作 ，治理为期两个月，自 11 月 1 日起至 12 月底。 新一轮专项治理聚焦两个方面的突出问题： 内容创作方面 深化治理儿童类不良、软色情擦边、极端对立、拜金主义、严重违背家庭伦理道德等低俗不良内容； 治理未按要求备案审核的特殊题材内容；治理“盗脸”“偷声”问题，规范 AI 微短剧创作。 传播推广方面 治理片名、宣推素材、弹幕评论、引流片段中的低俗内",
+   "published_at": 1793977457.0,
+   "published_bj": "2026-11-06 23:04"
+  },
+  {
+   "id": "c9827cfae5af8903",
+   "source": "IT之家",
+   "title": "美股 AI 硬件股集体反弹，费城半导体指数涨 6.5%",
+   "url": "https://www.ithome.com/1/023/564.htm",
+   "summary": "IT之家 11 月 6 日消息，美国股市今日开盘后，AI 硬件产业链全线反弹，费城半导体指数最高涨 6.57%。 个股方面，AMD 涨 13.2%，闪迪涨 11.75%，希捷科技涨 6.34%，美光科技涨 9.07%，迈威尔科技涨 9.46%，Lumentum 涨 9.58%；英伟达涨 6.44%，台积电涨 7.55%，博通涨 4.56%。 IT之家注意到， 美国股市 AI 概念相关股票当地时间周四迎来了暴跌 ，道琼斯工业平均指数收盘下跌超过 1,800 点，跌幅约 3.4%；标普 500 指数下跌 4.4%；纳斯达克综合指数暴跌 5.5%，创 2025 年 4 月以来最大单日跌幅，并跌入技术",
+   "published_at": 1793977089.0,
+   "published_bj": "2026-11-06 22:58"
+  },
+  {
+   "id": "af048ad399506a55",
+   "source": "IT之家",
+   "title": "《鸣潮》3.8 版本将为索尼 PS5 Pro 带来 PSSR，PC 端开放“资源分类下载”及“资源清理”功能",
+   "url": "https://www.ithome.com/1/023/563.htm",
+   "summary": "IT之家 11 月 6 日消息，库洛游戏今日发布《鸣潮》3.8 版本前瞻通讯，其中「旧梦凋零的百合」将于 11 月 12 日正式开启。 IT之家了解到，《鸣潮》3.8 版本将为 PC 端带来移动端已支持的“资源分类下载”和“资源清理”功能（以限量测试形式陆续上线），支持在启动器选择下载全量资源或精简资源。 同时，本次更新将为 PS5 Pro 和 Xbox Series X 带来性能优先 / 画质优先选项，玩家可根据需求选择。3.8 更新后 PS5 Pro 版本还将支持 PSSR（PlayStation 光谱超解析度）功能，启用后可通过超分技术，把画面分辨率提升至最高 4K。",
+   "published_at": 1793976711.0,
+   "published_bj": "2026-11-06 22:51"
+  },
+  {
+   "id": "9c2b6f7da0f00aa8",
+   "source": "IT之家",
+   "title": "微信鸿蒙版 App 发布 8.0.23.35 邀测升级，灰度聊天消息长按问小微等功能",
+   "url": "https://www.ithome.com/1/023/562.htm",
+   "summary": "IT之家 11 月 6 日消息，据用户反馈，微信鸿蒙版 App 今晚在华为应用市场（App Gallery）发布了 8.0.23.35 (8394531) 版本邀测升级（需收到短信通知后点击链接跳转安装），测试时间为 2026/11/6-2026/12/6。 和往常一样，本次更新的说明依旧为“修复了一些已知问题”。据用户反馈，8.0.23 版本的微信新增了如下特性： 部分 Flutter 跨端页面（如朋友圈、听一听、表情管理等页面）响应系统字体粗细； 更换铃声选择界面右上角新增铃声设置入口，支持启用或停用个性化内容推荐； 发表视频号内容时新增添加标注，视频号已发布的内容点击分享同步新增添加标注",
+   "published_at": 1793976537.0,
+   "published_bj": "2026-11-06 22:48"
+  },
+  {
+   "id": "008dae4ea2eec454",
+   "source": "IT之家",
+   "title": "Day-0 支持：摩尔线程完成 3 万亿级参数 Kimi-K3.1 Pro 适配，支持文本与图片推理",
+   "url": "https://www.ithome.com/1/023/561.htm",
+   "summary": "IT之家 11 月 6 日消息， 本月 4 日，月之暗面正式公布 Kimi K3.1 Pro 完整模型权重 。在 Arena 运营的 Agent Arena 智能体排行榜中，Kimi K3.1 Pro（Max）位列开放权重模型第一、全部参评模型第 13 位，并在工作、编程与聊天三个类别中均居开放模型首位。 摩尔线程官方今日宣布，摩尔线程基于 AI 训推一体智算卡 MTT S5000 及 MUSA 软件栈， 完成 Kimi-K3.1 Pro 模型的 Day-0 适配 ，打通模型加载、服务启动及文本、图片基础推理链路。 IT之家了解到， Kimi K3.1 Pro 是 K3.1 系列首款模型 ，也",
+   "published_at": 1793976115.0,
+   "published_bj": "2026-11-06 22:41"
+  },
+  {
+   "id": "ec084dddace5cbc2",
+   "source": "IT之家",
+   "title": "欧盟委员会称 TikTok 通过推荐算法制造信息茧房，要求整改“推荐”页面",
+   "url": "https://www.ithome.com/1/023/560.htm",
+   "summary": "IT之家 11 月 6 日消息，据科技媒体 The Verge 今天报道，欧盟委员会表示，TikTok 通过推荐算法制造信息茧房，违反欧盟在线平台相关规定。 欧盟监管机构今日表示，TikTok 的算法可能通过让用户无休止地反复接触与悲伤、孤独或身体形象相关的内容，对用户造成伤害。 该调查结果公布前的几个月，欧盟委员会就认为 TikTok 产品设计过于容易让人上瘾，尽管 TikTok 已经推出相关控制措施，试图减轻算法带来的“信息茧房”效应，但欧盟委员会表示，初步调查结果显示，这些措施并未取得实际效果。 欧盟委员会认为，TikTok 必须调整“为你推荐”页面设计，否则可能面临最高相当于其全球年营",
+   "published_at": 1793975879.0,
+   "published_bj": "2026-11-06 22:37"
+  },
+  {
+   "id": "ac7c49a1477fd637",
+   "source": "IT之家",
+   "title": "2026 年中国金鸡百花电影节开幕短片《完美婚礼》首播，使用华为 Mate 90 系列拍摄",
+   "url": "https://www.ithome.com/1/023/559.htm",
+   "summary": "IT之家 11 月 6 日消息，华为终端今日放出了 2026 年中国金鸡百花电影节宣传片暨开幕短片《完美婚礼》及幕后特辑。 据介绍，短片《完美婚礼》由黄建新监制、章笛沙执导，吴磊、庄达菲等全明星阵容参演， 并使用华为 Mate 90 系列手机进行拍摄 。 IT之家注意到， 这也是华为 Mate 系列手机已连续三年拍摄金鸡百花电影节宣传片 。去年的第 38 届中国金鸡百花电影节宣传片暨开幕短片《奔赴光影》由 Mate 80 系列拍摄。《奔赴光影》首播时，华为官方并未公布拍摄机型， 直到 Mate 80 系列官宣、预热，短片的拍摄机型才得以揭秘 。 IT之家小伙伴记得用 最会买购买电影票 ，享受折",
+   "published_at": 1793975841.0,
+   "published_bj": "2026-11-06 22:37"
+  },
+  {
    "id": "720d79be8aa1c33b",
    "source": "InfoQ中文",
    "title": "从混元研发体系重构到 MaaS 推理优化，模型能力如何走向真实业务？",
@@ -20,6 +92,78 @@
    "summary": "点击查看原文>",
    "published_at": 1793975677.0,
    "published_bj": "2026-11-06 22:34"
+  },
+  {
+   "id": "66e06881ea31d671",
+   "source": "IT之家",
+   "title": "低过连续包年：QQ 音乐豪华绿钻 138 元 / 年官方 11.11 发车",
+   "url": "https://www.ithome.com/1/023/558.htm",
+   "summary": "QQ 音乐豪华绿钻会员年卡官方售价为 240 元，日常连续包年大促价 158 元（第二年自动续费价 180 元）。 今日双年卡 276 元，仅需 138 元 / 年，折合 11.5 元 / 月： 天猫 QQ 音乐 豪华绿钻双年卡 折合 138 元 / 年 11.5 元 / 月 折后 276 元 直达链接 天猫 QQ 音乐 豪华绿钻年卡 折合 12 元 / 月 折后 144 元 直达链接 充值需填写 QQ 号或提前绑定 QQ 音乐账号的手机号，不支持直接填写微信号和第三方账号充值。 * 微信与 QQ 为不同登录端口，权益不互通。 ** 充值仅支持填写 QQ 号及 QQ 音乐 App 内绑定的手机",
+   "published_at": 1793975282.0,
+   "published_bj": "2026-11-06 22:28"
+  },
+  {
+   "id": "2ee2d61be0f6b502",
+   "source": "IT之家",
+   "title": "比亚迪：警惕冒充比亚迪《车辆召回通知》的诈骗",
+   "url": "https://www.ithome.com/1/023/557.htm",
+   "summary": "IT之家 11 月 6 日消息，比亚迪网络举报中心今晚发布重要预警，称警惕冒充比亚迪《车辆召回通知》的诈骗。 IT之家获悉，近期发现有 不法分子伪造带有“比亚迪股份有限公司”标识的《车辆召回通知》 ，通过陌生电话、短信、可疑链接和二维码传播。该文件谎称车辆制动踏板限位垫存在批次性异常，并冒用国家市场监督管理总局的名义，以“2 小时内联系办理”“逾期取消质保”等话术施压，诱导车主点击钓鱼网址、扫码，或提供银行卡号、验证码、转账。 已有车主反馈收到此伪造文件，请务必高度警惕 。 比亚迪股份有限公司在此郑重声明：比亚迪官方召回信息，通过比亚迪授权经销商以挂号信、电话、短信等方式通知相关车主。车主可拨",
+   "published_at": 1793975120.0,
+   "published_bj": "2026-11-06 22:25"
+  },
+  {
+   "id": "51d850c89729368f",
+   "source": "IT之家",
+   "title": "消息称 iQOO 品牌 7 英寸中端机已开模：超万级电池，暂定排期是 2027 年年中",
+   "url": "https://www.ithome.com/1/023/556.htm",
+   "summary": "IT之家 11 月 6 日消息，博主 @数码闲聊站 今日发文透露，iQOO 品牌 7 英寸中端机已开模。据称，该机将配备超万级容量电池， 暂定排期是 2027 年年中前后发布 。 博主还在评论区与网友展开了讨论， 并暗示高端机可能也有 7 英寸屏幕，分辨率达 2K 。据IT之家今日早些时候报道， 消息称 vivo 预计会在 2027 年推出阔直板手机 ，目前早期倾向于小尺寸方案，大概率在 6.5\" 以下。 该博主曾透露，安卓阵营的阔直板手机，O（预计指 OPPO）大概率第一个上，h（预计指荣耀）第二个上，剩下几家进度较缓慢。目前立项阶段有影像阔直板手机、中端阔直板手机、性能阔直板手机等。此外，",
+   "published_at": 1793975102.0,
+   "published_bj": "2026-11-06 22:25"
+  },
+  {
+   "id": "d8550abc65d096d5",
+   "source": "IT之家",
+   "title": "低过 10 元 / 月：迅雷超级会员 11.11 直降，12T 网盘 + 每天 1000 次云添加",
+   "url": "https://www.ithome.com/1/023/554.htm",
+   "summary": "迅雷 超级会员 年卡日常售价 360 元，连续包年为 264 元（22 元 / 月）。 11.11 大促期间，30 个月券后直降至 298 元，单月约合 9.93 元官方好价： 京东 迅雷超级会员 30 个月 补贴后 9.93 元 / 月 券后 298 元 领 20 元券 京东 迅雷超级会员 15 个月 补贴后 10.6 元 / 月 券后 159 元 领 10 元券 迅雷超级会员在白金会员的基础上，支持 下载超级加速 、 12T 云盘空间 、 1080p + 原画云播 、在线解压 32G 内压缩包等升级权益。 * 离线下载及高速通道加速已整合为会员加速功能，超级会员是支持的哦。 京东 迅雷超级",
+   "published_at": 1793974223.0,
+   "published_bj": "2026-11-06 22:10"
+  },
+  {
+   "id": "a06e2518f615926d",
+   "source": "TechCrunch",
+   "title": "After blocking Muse, Amazon now lets users text Alexa to help them shop",
+   "url": "https://techcrunch.com/2026/11/06/after-blocking-muse-amazon-now-lets-users-text-alexa-to-help-them-shop/",
+   "summary": "Amazon said that the feature will roll out to millions of users in coming weeks.",
+   "published_at": 1793974200.0,
+   "published_bj": "2026-11-06 22:10"
+  },
+  {
+   "id": "05903a937f34e251",
+   "source": "IT之家",
+   "title": "自然资源部：我国初步建成全国地质灾害监测预警网络",
+   "url": "https://www.ithome.com/1/023/553.htm",
+   "summary": "IT之家 11 月 6 日消息，据央视新闻今日报道，自然资源部中国地质调查局宣布，我国地质灾害监测预警体系建设成效显著， 已初步建成全国地质灾害监测预警网络 ，形成“人防 + 技防”立体化防治新格局。 截至 2026 年 9 月， 全国在运行自动化监测台站超 7.4 万个 ，各类监测设备 31 万台套，累计成功预报灾情 444 起， 避免人员伤亡 8027 人 。 据介绍，中国地质调查局持续提升地质灾害监测预警智能化水平，利用新技术增强地灾防范能力。通过将无人机自动巡航与 AI 智能分析结合，可提升复杂山区地灾巡查覆盖和隐患识别能力。针对山区局地强降雨多发特点，开展基于北斗卫星导航的区域短临降",
+   "published_at": 1793974124.0,
+   "published_bj": "2026-11-06 22:08"
+  },
+  {
+   "id": "d72a40f68e3d9295",
+   "source": "IT之家",
+   "title": "11 月 18 日起，字节 TRAE 账号将自动升级为豆包飞书账号",
+   "url": "https://www.ithome.com/1/023/552.htm",
+   "summary": "IT之家 11 月 6 日消息，字节旗下 TRAE 宣布， 自 2026 年 11 月 18 日起，TRAE 账号将自动升级为豆包飞书账号 。 IT之家注：TRAE 是由字节跳动开发并推出的 AI 原生集成开发环境（IDE）工具。10 月 9 日， TraeWork 和 TraeCode 正式合并 ，融合为全新的 TRAE，升级为全链路开发平台。 TRAE 数据和权益： 使用数据完全保留：代码、项目、历史记录等全部数据； 会员权益完全保留：会员身份、会员享有权益、各类积分； 账号其他能力：同一账号可登录豆包 App、飞书、PICO、火山引擎、豆包输入法等所有豆包飞书账号支持的产品； 头像、昵称",
+   "published_at": 1793974003.0,
+   "published_bj": "2026-11-06 22:06"
+  },
+  {
+   "id": "ed030bfa4293ae91",
+   "source": "IT之家",
+   "title": "《尼尔：自动人形》PC 版更新中文后体积暴涨至 366GB，官方调查中",
+   "url": "https://www.ithome.com/1/023/551.htm",
+   "summary": "IT之家 11 月 6 日消息，《NieR:Automata》（尼尔：自动人形 / 尼尔：机械纪元）PC 版游戏最近迎来更新，新增简体中文等语言支持。但许多玩家准备安装时发现， 这款原本占用空间不到 50GB 的游戏 ， 如今暴涨至 366GB 。 一名玩家就此表示：“现在全新安装这款游戏需要整整 366GB，因为 YoRHa 版的每个 DLC，现在都和游戏本体一样大。” 另一名玩家写道：“能不能别动那些原本运行正常的游戏，直接添加一个‘语言包 DLC’就好了？赶紧修复你们自己犯下的错误。”第三名玩家的评价则更加简洁：“我猜，366GB 都是为了 2B 的大屁股吧。” IT之家注意到，开发商 ",
+   "published_at": 1793973874.0,
+   "published_bj": "2026-11-06 22:04"
   },
   {
    "id": "39a84ed3e52ef390",
@@ -3458,123 +3602,6 @@
    "summary": "Article URL: https://github.com/saragordic/window-sweaters Comments URL: https://news.ycombinator.com/item?id=50381383 Points: 16 # Comments: 1",
    "published_at": 1793897414.0,
    "published_bj": "2026-11-06 00:50"
-  },
-  {
-   "id": "b08e889ff9309da9",
-   "source": "Solidot",
-   "title": "同步导致电网呈现周期为一分钟的震荡",
-   "url": "https://www.solidot.org/story?sid=85808",
-   "summary": "今天的电网接入了数以百万计的数字控制设备，为了维持电力供需平衡，精准预测和实时控制必不可少。电力系统因此转变成为一种信息物理融合的基础设施（Cyber–Physical Infrastructure）。物理设备与数字控制系统之间形成了紧密的相互依存关系，在带来前所未有的效率与灵活性的同时也引入了新的系统性风险。根据发表在《Nature Energy》期刊上的一项研究，德国研究人员指出全球电力系统存在的一种由信息物理同步效应所引发的、周期为一分钟的相干振荡现象。除了故障和恶意攻击外，即使是良性的控制程序，当大量设备以协同一致的方式运行时，也可能产生系统层面的影响。在大规模信息物理能源系统中，非预",
-   "published_at": 1793897148.0,
-   "published_bj": "2026-11-06 00:45"
-  },
-  {
-   "id": "354d6f4c554b5603",
-   "source": "Hacker News",
-   "title": "Vibe Coding Keypad",
-   "url": "https://www.keychron.com/products/keychron-f4-he-8k-vibe-coding-keypad",
-   "summary": "Article URL: https://www.keychron.com/products/keychron-f4-he-8k-vibe-coding-keypad Comments URL: https://news.ycombinator.com/item?id=50381302 Points: 9 # Comments: 4",
-   "published_at": 1793896996.0,
-   "published_bj": "2026-11-06 00:43"
-  },
-  {
-   "id": "f412a8e553ea2762",
-   "source": "Hacker News",
-   "title": "Paraguay bank collapses with half of population's savings",
-   "url": "https://www.aljazeera.com/video/newsfeed/2026/11/5/paraguay-bank-collapses-with-half-of-populations-savings",
-   "summary": "Article URL: https://www.aljazeera.com/video/newsfeed/2026/11/5/paraguay-bank-collapses-with-half-of-populations-savings Comments URL: https://news.ycombinator.com/item?id=50381178 Points: 20 # Comments: 2",
-   "published_at": 1793896366.0,
-   "published_bj": "2026-11-06 00:32"
-  },
-  {
-   "id": "323108b004386821",
-   "source": "cnBeta",
-   "title": "索尼发布MDR-3R有线耳机：经典Walkman时代设计回归 加入USB-C接口",
-   "url": "https://www.cnbeta.com.tw/articles/music/1585166.htm",
-   "summary": "索尼正式发布全新MDR-3R有线耳机。该产品采用USB-C接口设计，其外观灵感来自与初代Walkman TPS-L2随身听一同问世的经典MDR-3耳机。1979年诞生的Walkman及MDR-3曾开创随身欣赏音乐的新方式。近半个世纪后，在用户听音习惯日益多元化的背景下，无需充电、无需配对、即插即用的有线耳机再次受到关注。 阅读全文",
-   "published_at": 1793896319.0,
-   "published_bj": "2026-11-06 00:31"
-  },
-  {
-   "id": "6e824cef647a4245",
-   "source": "Hacker News",
-   "title": "My psychophysics as a bilateral cochlear implant user",
-   "url": "https://claude.ai/artifact/L8qsMc3SorytGW3LA81nYf",
-   "summary": "Article URL: https://claude.ai/artifact/L8qsMc3SorytGW3LA81nYf Comments URL: https://news.ycombinator.com/item?id=50381033 Points: 20 # Comments: 4",
-   "published_at": 1793895672.0,
-   "published_bj": "2026-11-06 00:21"
-  },
-  {
-   "id": "f2586690e5abf088",
-   "source": "Hacker News",
-   "title": "The Stacks Project, Formalized in Lean",
-   "url": "https://axiommath.ai/research/the-stacks-project-formalized/",
-   "summary": "Article URL: https://axiommath.ai/research/the-stacks-project-formalized/ Comments URL: https://news.ycombinator.com/item?id=50380979 Points: 7 # Comments: 0",
-   "published_at": 1793895419.0,
-   "published_bj": "2026-11-06 00:16"
-  },
-  {
-   "id": "525439cf9e840067",
-   "source": "TechCrunch",
-   "title": "Axiom Math wants to keep AI slop out of mathematics",
-   "url": "https://techcrunch.com/2026/11/05/axiom-math-wants-to-keep-ai-slop-out-of-mathematics/",
-   "summary": "As AI floods math with unchecked proofs, Axiom Math is betting on verification. The startup’s AI agents just formally verified the Stacks Project, one of the field’s biggest libraries.",
-   "published_at": 1793895405.0,
-   "published_bj": "2026-11-06 00:16"
-  },
-  {
-   "id": "6677727774f1a556",
-   "source": "Hacker News",
-   "title": "Motorola Signature 27 with GrapheneOS support",
-   "url": "https://motorolanews.com/motorola-signature-27-2/",
-   "summary": "Article URL: https://motorolanews.com/motorola-signature-27-2/ Comments URL: https://news.ycombinator.com/item?id=50380810 Points: 62 # Comments: 9",
-   "published_at": 1793894494.0,
-   "published_bj": "2026-11-06 00:01"
-  },
-  {
-   "id": "1bda495e24117988",
-   "source": "Hacker News",
-   "title": "OCAP Bounded Authority: Edera's Managed Approach to Object Capabilities",
-   "url": "https://edera.dev/stories/ocap-bounded-authority",
-   "summary": "Article URL: https://edera.dev/stories/ocap-bounded-authority Comments URL: https://news.ycombinator.com/item?id=50380808 Points: 11 # Comments: 0",
-   "published_at": 1793894486.0,
-   "published_bj": "2026-11-06 00:01"
-  },
-  {
-   "id": "b23886203dd33555",
-   "source": "IT之家",
-   "title": "Epic 喜加一：《浮游世界》游戏免费领取",
-   "url": "https://www.ithome.com/1/023/023.htm",
-   "summary": "IT之家 11 月 6 日消息，Epic 本周送出的游戏是《浮游世界》，下周送出的游戏是《斗阵骑士 Knightica》。 领取链接： 《浮游世界》 IT之家附《浮游世界》游戏简介： 这是一款漂浮垃圾城生存游戏！从海洋表面尽可能搜集珍贵的垃圾，发展你的城市，同时努力在这个色彩斑斓的后末日世界中生存下去。 本作最初发售于 2025 年 12 月 5 日， Steam 售价 80 元 。游戏兼容 XBOX / PlayStation 控制器，最低配置要求为酷睿 i5 处理器、8GB 内存和 GTX 650 显卡，以及 600MB 存储空间。 游戏图赏：",
-   "published_at": 1793894408.0,
-   "published_bj": "2026-11-06 00:00"
-  },
-  {
-   "id": "dac858554ce391a9",
-   "source": "IT之家",
-   "title": "12499 元 / 15999 元起：苹果 M6 芯片款 iMac、MacBook Pro 开售",
-   "url": "https://www.ithome.com/1/023/022.htm",
-   "summary": "IT之家 11 月 6 日消息，苹果 M6 芯片款 iMac、MacBook Pro 今日正式开售， 起售价分别为 12499 元 / 15999 元 ， 国补后起售价约 10999 元 / 14499 元 。如果您能使用教育优惠，叠加国补后起售价会进一步下探至 10599 元 / 13699 元。 京东 Apple iMac M6 &nbsp; 12499 元 直达链接 京东 Apple MacBook Pro M6 14 英寸 15999 元 直达链接 IT之家附两款新品详情如下： iMac 新款 iMac 沿袭上一代外观，提供银色、蓝色、绿色、粉色等配色可选。搭载 24 英寸 4.5K ",
-   "published_at": 1793894402.0,
-   "published_bj": "2026-11-06 00:00"
-  },
-  {
-   "id": "51bc3cb60cafdce8",
-   "source": "IT之家",
-   "title": "5499 元起：苹果 iPad mini 8 开售，A20 Pro 芯片（国补后到手价约 4999 元起）",
-   "url": "https://www.ithome.com/1/023/021.htm",
-   "summary": "IT之家 11 月 6 日消息，苹果 iPad mini（A20 Pro）今日正式开售，也就是大家俗称的“iPad mini 8”。新品起售价为 5499 元， 国补后到手价约 4999 元 。如果您可以使用教育优惠，国补后的到手价会进一步下探至 4599 元左右。 京东 Apple iPad mini (A20 Pro) &nbsp;128GB 5499 元 直达链接 IT之家了解到，iPad mini（A20 Pro）提供午夜色、星光色两种配色。其机身相比上一代薄了 14%，轻了 13%。该机配备超视网膜 XDR 显示屏，采用 OLED 技术，峰值亮度可达 1,200 nits，支持 P3",
-   "published_at": 1793894402.0,
-   "published_bj": "2026-11-06 00:00"
-  },
-  {
-   "id": "244a08b181f78116",
-   "source": "IT之家",
-   "title": "22999 元起：苹果首款触屏 MacBook Pro 正式开售，可选 M5 Pro/M5 Max 芯片",
-   "url": "https://www.ithome.com/1/023/020.htm",
-   "summary": "IT之家 11 月 6 日消息，苹果首款触控屏 MacBook Pro（配备 PROLED XDR 显示屏的 MacBook Pro）今日正式开售， 定价 22999 元起 。基础配置为 M5 Pro 芯片（15 核 CPU/16 核 GPU）、24GB 内存、1TB 硬盘，支持在购买时按需升级配置。 京东 Apple MacBook Pro (PROLED XDR 显示屏) 22999 元 直达链接 IT之家了解到，这款笔记本提供 14 英寸与 16 英寸两种机型，搭载双层串联 OLED 技术，具有最高达 2,000 尼特的峰值 HDR 和 SDR 亮度，对比度 10,000,000:1，支",
-   "published_at": 1793894401.0,
-   "published_bj": "2026-11-06 00:00"
   }
  ]
 }
