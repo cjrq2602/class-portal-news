@@ -1,6 +1,6 @@
 {
  "date": "2026-11-06",
- "generated_at": 1793981214.4553368,
+ "generated_at": 1793983565.9962363,
  "count": 400,
  "items": [
   {
@@ -38,6 +38,15 @@
    "summary": "IT之家 11 月 6 日消息，上汽通用汽车官方今晚发布声明，称近日有不法分子冒用“上汽通用”名义，向凯迪拉克、别克、雪佛兰品牌车主发送虚假短信， 谎称车辆涉及气囊召回 ，“以逾期召回将取消质保服务”相要挟，将不明链接谎称为上汽通用官网地址，诱导车主提供个人信息、办理所谓召回手续。 上汽通用汽车郑重声明： 1. 上汽通用汽车官方从未发布过上述短信和链接 ，亦未委托任何第三方通过短信、彩信或社交平台向车主发送上述召回信息； 2. 上述虚假短信中提及的产品召回纯属虚构 ； 3.上汽通用汽车已对该侵权行为取证，将追究相关主体法律责任， 并提醒广大车主提高警惕 ，切勿点击可疑链接、回复相关信息或向不明",
    "published_at": 1793979329.0,
    "published_bj": "2026-11-06 23:35"
+  },
+  {
+   "id": "93bff9de80e31652",
+   "source": "Solidot",
+   "title": "特斯拉将停产 Cyber​​truck",
+   "url": "https://www.solidot.org/story?sid=85819",
+   "summary": "特斯拉 CEO 马斯克（Elon Musk）宣布将于 2027 年年中停产电动皮卡 Cyber​​truck。生产电动皮卡的工厂很可能转为生产电动出租车 Cybercabs。马斯克于 2019 年末宣布了外形奇特的 Cyber​​truck，预计售价低于 4 万美元，宣称它会和其主力电动汽车 Model 3 和 Model Y 一样随处可见。然而 Cyber​​truck 研发比特斯拉的其它车型更坎坷，为量产还修改了底盘结构，而 25 万年预售目标也根本无法实现。如今马斯克的粉丝将只剩下几个月的时间购买这款奇特的电动皮卡。",
+   "published_at": 1793979296.0,
+   "published_bj": "2026-11-06 23:34"
   },
   {
    "id": "540c1f95c2006829",
@@ -110,6 +119,15 @@
    "summary": "一架完全依靠太阳能驱动的无人驾驶飞机，正在尝试突破超长时间连续飞行的纪录。由无人机制造商UAVOS研发的ApusNeo太阳能飞机，近日在西班牙加那利群岛附近完成了一次高空飞行测试，最高飞行高度达到4.76万英尺（约1.45万米）。而在最新一次飞行中，该飞机已经连续飞行超过80小时，正朝着100小时的目标迈进。 阅读全文",
    "published_at": 1793977958.0,
    "published_bj": "2026-11-06 23:12"
+  },
+  {
+   "id": "1989524cac4fcc95",
+   "source": "Hacker News",
+   "title": "Show HN: Agentic Identity Broker, OAuth Delegation for AI Agents",
+   "url": "https://github.com/zalando-incubator/agentic-identity-broker",
+   "summary": "Hi HN, I’m Jan. I am co-author of the Agentic Identity Broker (AIB), an MIT-licensed OAuth2 broker in the Zalando Incubator, that lets a user give an AI agent scoped, revocable access to MCP services. The broker solves three major challenges that are especially relevant in corporate environments: (A",
+   "published_at": 1793977667.0,
+   "published_bj": "2026-11-06 23:07"
   },
   {
    "id": "edaf44e65e3cbbce",
@@ -227,6 +245,15 @@
    "summary": "IT之家 11 月 6 日消息，华为终端今日放出了 2026 年中国金鸡百花电影节宣传片暨开幕短片《完美婚礼》及幕后特辑。 据介绍，短片《完美婚礼》由黄建新监制、章笛沙执导，吴磊、庄达菲等全明星阵容参演， 并使用华为 Mate 90 系列手机进行拍摄 。 IT之家注意到， 这也是华为 Mate 系列手机已连续三年拍摄金鸡百花电影节宣传片 。去年的第 38 届中国金鸡百花电影节宣传片暨开幕短片《奔赴光影》由 Mate 80 系列拍摄。《奔赴光影》首播时，华为官方并未公布拍摄机型， 直到 Mate 80 系列官宣、预热，短片的拍摄机型才得以揭秘 。 IT之家小伙伴记得用 最会买购买电影票 ，享受折",
    "published_at": 1793975841.0,
    "published_bj": "2026-11-06 22:37"
+  },
+  {
+   "id": "cfd0492f8da64e12",
+   "source": "Hacker News",
+   "title": "MTG-I2 First Images",
+   "url": "https://www.eumetsat.int/mtg-i2-first-images",
+   "summary": "Article URL: https://www.eumetsat.int/mtg-i2-first-images Comments URL: https://news.ycombinator.com/item?id=50392787 Points: 7 # Comments: 1",
+   "published_at": 1793975729.0,
+   "published_bj": "2026-11-06 22:35"
   },
   {
    "id": "720d79be8aa1c33b",
@@ -3575,33 +3602,6 @@
    "summary": "OpenAI's newest cybersecurity model comes out as AI labs face scrutiny of their work to protect digital infrastructure.",
    "published_at": 1793905572.0,
    "published_bj": "2026-11-06 03:06"
-  },
-  {
-   "id": "1fe964068512faa3",
-   "source": "TechCrunch",
-   "title": "US government warns of ‘ongoing cyber threat’ amid mass hacks of industrial retail and military freezers",
-   "url": "https://techcrunch.com/2026/11/05/u-s-government-warns-of-ongoing-cyber-threat-amid-mass-hacks-of-industrial-retail-and-military-freezers/",
-   "summary": "A joint U.S. government statement says the hacks are affecting the food, transportation, and healthcare industries after reports of global mass hacks.",
-   "published_at": 1793904514.0,
-   "published_bj": "2026-11-06 02:48"
-  },
-  {
-   "id": "0467a2292c1909b3",
-   "source": "IT之家",
-   "title": "我国成功发射遥感五十一号 07-09 星，主要用于科学试验、电磁环境探测等领域",
-   "url": "https://www.ithome.com/1/023/028.htm",
-   "summary": "IT之家 11 月 6 日消息，据央视新闻报道，11 月 5 日 23 时 58 分，长征二号丙运载火箭在西昌卫星发射中心点火升空，随后成功将遥感五十一号 07-09 星送入预定轨道， 发射任务取得圆满成功 。 长二丙火箭由中国航天科技集团有限公司一院抓总研制，为两级常温液体运载火箭， 具备一箭一星、一箭多星发射及星座部署能力 。 IT之家查询获悉， 该卫星主要用于科学试验、电磁环境探测等领域 。另外，本次发射是长征系列运载火箭的第 675 次发射。",
-   "published_at": 1793903944.0,
-   "published_bj": "2026-11-06 02:39"
-  },
-  {
-   "id": "7d02d33c37da96fa",
-   "source": "Hacker News",
-   "title": "How to Lie With Statistics (1954) [pdf]",
-   "url": "https://www.horace.org/blog/wp-content/uploads/2012/05/How-to-Lie-With-Statistics-1954-Huff.pdf",
-   "summary": "Article URL: https://www.horace.org/blog/wp-content/uploads/2012/05/How-to-Lie-With-Statistics-1954-Huff.pdf Comments URL: https://news.ycombinator.com/item?id=50382594 Points: 26 # Comments: 2",
-   "published_at": 1793903362.0,
-   "published_bj": "2026-11-06 02:29"
   }
  ]
 }

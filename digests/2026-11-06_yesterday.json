@@ -1,0 +1,382 @@
+{
+ "type": "yesterday",
+ "date": "2026-11-06",
+ "window": {
+  "start_ts": 1793894400.0,
+  "end_ts": 1793980800.0
+ },
+ "generated_at": 1793983567.8849382,
+ "generator": "action",
+ "news_count": 400,
+ "keywords": [
+  "ai",
+  "美元",
+  "推出",
+  "发布",
+  "支持",
+  "汽车",
+  "游戏",
+  "中国",
+  "亿美",
+  "智能"
+ ],
+ "points": [
+  {
+   "text": "【ai】AI 狂烧 2000亿美元，谷歌全球启动“自愿买断”计划：最高补偿12个月工资",
+   "keyword": "ai",
+   "news_ids": [
+    "5061f3d3c9e6d603"
+   ],
+   "refs": [
+    {
+     "id": "5061f3d3c9e6d603",
+     "title": "AI 狂烧 2000亿美元，谷歌全球启动“自愿买断”计划：最高补偿12个月工资",
+     "source": "InfoQ中文",
+     "url": "https://www.infoq.cn/article/vMSj216sQUhmeDH4H0G7?utm_source=rss&utm_medium=article",
+     "published_at": 1793952000.0
+    }
+   ]
+  },
+  {
+   "text": "【ai】IT之家 11 月 6 日消息，美国监管机构披露文件显示，SK 海力士已在美国成立 AI 投资子公司 Hyaico Corp， SK 集团会长崔",
+   "keyword": "ai",
+   "news_ids": [
+    "edaf44e65e3cbbce"
+   ],
+   "refs": [
+    {
+     "id": "edaf44e65e3cbbce",
+     "title": "最高投资 100 亿美元：SK 海力士设立美国 AI 投资子公司 Hyaico，崔泰源掌舵",
+     "source": "IT之家",
+     "url": "https://www.ithome.com/1/023/584.htm",
+     "published_at": 1793977528.0
+    }
+   ]
+  },
+  {
+   "text": "【发布】IT之家 11 月 6 日消息，上汽通用汽车官方今晚发布声明，称近日有不法分子冒用“上汽通用”名义，向凯迪拉克、别克、雪佛兰品牌车主发送虚假短信",
+   "keyword": "发布",
+   "news_ids": [
+    "2e95ff49b8ec3a43"
+   ],
+   "refs": [
+    {
+     "id": "2e95ff49b8ec3a43",
+     "title": "不法分子冒名发送虚假短信谎称车辆涉气囊召回，上汽通用官方发布声明提醒车主提高警惕",
+     "source": "IT之家",
+     "url": "https://www.ithome.com/1/023/599.htm",
+     "published_at": 1793979329.0
+    }
+   ]
+  },
+  {
+   "text": "【推出】苹果可能正在重新调整iPhone机身侧面的实体按键设计",
+   "keyword": "推出",
+   "news_ids": [
+    "a8639df88b538ea0"
+   ],
+   "refs": [
+    {
+     "id": "a8639df88b538ea0",
+     "title": "苹果计划取消iPhone独立操作按钮 传将与相机控制键合并",
+     "source": "cnBeta",
+     "url": "https://www.cnbeta.com.tw/articles/tech/1585312.htm",
+     "published_at": 1793978071.0
+    }
+   ]
+  },
+  {
+   "text": "Article URL: https://www",
+   "keyword": "",
+   "news_ids": [
+    "7f5af268c8b0aba2"
+   ],
+   "refs": [
+    {
+     "id": "7f5af268c8b0aba2",
+     "title": "Deus Ex",
+     "source": "Hacker News",
+     "url": "https://www.filfre.net/2026/11/deus-ex/",
+     "published_at": 1793979876.0
+    }
+   ]
+  },
+  {
+   "text": "特斯拉 CEO 马斯克（Elon Musk）宣布将于 2027 年年中停产电动皮卡 Cyber​​truck",
+   "keyword": "",
+   "news_ids": [
+    "93bff9de80e31652"
+   ],
+   "refs": [
+    {
+     "id": "93bff9de80e31652",
+     "title": "特斯拉将停产 Cyber​​truck",
+     "source": "Solidot",
+     "url": "https://www.solidot.org/story?sid=85819",
+     "published_at": 1793979296.0
+    }
+   ]
+  },
+  {
+   "text": "地震发生时，地下岩层之间会产生巨大的摩擦和应力变化",
+   "keyword": "",
+   "news_ids": [
+    "2f4fb5c8eefd1237"
+   ],
+   "refs": [
+    {
+     "id": "2f4fb5c8eefd1237",
+     "title": "日本古老岩石揭示强震引发海啸的潜在机制 地震断层在瞬间变得像水一样流动",
+     "source": "cnBeta",
+     "url": "https://www.cnbeta.com.tw/articles/science/1585314.htm",
+     "published_at": 1793978120.0
+    }
+   ]
+  },
+  {
+   "text": "一架完全依靠太阳能驱动的无人驾驶飞机，正在尝试突破超长时间连续飞行的纪录",
+   "keyword": "",
+   "news_ids": [
+    "8a38f7bfed537880"
+   ],
+   "refs": [
+    {
+     "id": "8a38f7bfed537880",
+     "title": "太阳能无人机连续飞行突破80小时 目标挑战100小时",
+     "source": "cnBeta",
+     "url": "https://www.cnbeta.com.tw/articles/tech/1585310.htm",
+     "published_at": 1793977958.0
+    }
+   ]
+  },
+  {
+   "text": "Article URL: https://www",
+   "keyword": "",
+   "news_ids": [
+    "28e6c1f8234385a7"
+   ],
+   "refs": [
+    {
+     "id": "28e6c1f8234385a7",
+     "title": "FAA Begins Retiring Decades Old Floppy Disks from Air Traffic Control",
+     "source": "Hacker News",
+     "url": "https://www.faa.gov/newsroom/trumps-transportation-secretary-sean-p-duffy-begins-retiring-decades-old-floppy-disks-air",
+     "published_at": 1793977404.0
+    }
+   ]
+  },
+  {
+   "text": "Article URL: https://www",
+   "keyword": "",
+   "news_ids": [
+    "f5e8544ada7abeab"
+   ],
+   "refs": [
+    {
+     "id": "f5e8544ada7abeab",
+     "title": "Where Each U.S. State Gets Its Tax Revenue From",
+     "source": "Hacker News",
+     "url": "https://www.visualcapitalist.com/where-each-states-tax-revenue-comes-from/",
+     "published_at": 1793977327.0
+    }
+   ]
+  },
+  {
+   "text": "Article URL: https://www",
+   "keyword": "",
+   "news_ids": [
+    "b6ba1ae3b1bd6fe5"
+   ],
+   "refs": [
+    {
+     "id": "b6ba1ae3b1bd6fe5",
+     "title": "RIP Cybertruck. You Were Unloved, Unwanted, and Utterly Absurd",
+     "source": "Hacker News",
+     "url": "https://www.wired.com/story/rip-cybertruck-you-were-unloved-unwanted-and-utterly-absurd/",
+     "published_at": 1793977298.0
+    }
+   ]
+  },
+  {
+   "text": "Article URL: https://www",
+   "keyword": "",
+   "news_ids": [
+    "cfd0492f8da64e12"
+   ],
+   "refs": [
+    {
+     "id": "cfd0492f8da64e12",
+     "title": "MTG-I2 First Images",
+     "source": "Hacker News",
+     "url": "https://www.eumetsat.int/mtg-i2-first-images",
+     "published_at": 1793975729.0
+    }
+   ]
+  },
+  {
+   "text": "从混元研发体系重构到 MaaS 推理优化，模型能力如何走向真实业务？",
+   "keyword": "",
+   "news_ids": [
+    "720d79be8aa1c33b"
+   ],
+   "refs": [
+    {
+     "id": "720d79be8aa1c33b",
+     "title": "从混元研发体系重构到 MaaS 推理优化，模型能力如何走向真实业务？",
+     "source": "InfoQ中文",
+     "url": "https://www.infoq.cn/article/azhgYaRTIjsSSVfA8AaU?utm_source=rss&utm_medium=article",
+     "published_at": 1793975677.0
+    }
+   ]
+  },
+  {
+   "text": "QQ 音乐豪华绿钻会员年卡官方售价为 240 元，日常连续包年大促价 158 元（第二年自动续费价 180 元）",
+   "keyword": "",
+   "news_ids": [
+    "66e06881ea31d671"
+   ],
+   "refs": [
+    {
+     "id": "66e06881ea31d671",
+     "title": "低过连续包年：QQ 音乐豪华绿钻 138 元 / 年官方 11.11 发车",
+     "source": "IT之家",
+     "url": "https://www.ithome.com/1/023/558.htm",
+     "published_at": 1793975282.0
+    }
+   ]
+  },
+  {
+   "text": "Article URL: https://blog",
+   "keyword": "",
+   "news_ids": [
+    "40c4c2f5ca700d85"
+   ],
+   "refs": [
+    {
+     "id": "40c4c2f5ca700d85",
+     "title": "Gemini Omni 1.2 Flash",
+     "source": "Hacker News",
+     "url": "https://blog.google/innovation-and-ai/technology/developers-tools/introducing-gemini-omni-1-2-flash/",
+     "published_at": 1793972127.0
+    }
+   ]
+  }
+ ],
+ "article": {
+  "title": "2026-11-06 新闻总结",
+  "paragraphs": [
+   {
+    "kind": "lead",
+    "text": "过去 24 小时共收录 400 条新闻，来自 7 家媒体。把标题放在一起看，讨论主要集中在 AI、游戏 这几个方向上，其余消息更像是零散补充。"
+   },
+   {
+    "kind": "section",
+    "heading": "AI",
+    "text": "先看「AI」。AI 狂烧 2000亿美元，谷歌全球启动“自愿买断”计划，另有 345 条消息指向同一话题。这条消息短期内的实际影响可能有限，但它指向的方向值得放进观察名单。",
+    "news_ids": [
+     "5061f3d3c9e6d603"
+    ],
+    "refs": [
+     {
+      "id": "5061f3d3c9e6d603",
+      "title": "AI 狂烧 2000亿美元，谷歌全球启动“自愿买断”计划：最高补偿12个月工资",
+      "source": "InfoQ中文",
+      "url": "https://www.infoq.cn/article/vMSj216sQUhmeDH4H0G7?utm_source=rss&utm_medium=article",
+      "published_at": 1793952000.0
+     }
+    ]
+   },
+   {
+    "kind": "section",
+    "heading": "投资",
+    "text": "与此同时「投资」。IT之家 11 月 6 日消息，美国监管机构披露文件显示，SK 海力士已在美国成立 AI 投资子公司 Hyaico Corp，另有 3 条消息指向同一话题。融资和估值只能说明市场情绪，能不能兑现，还要看下一两个季度的收入和留存。",
+    "news_ids": [
+     "edaf44e65e3cbbce"
+    ],
+    "refs": [
+     {
+      "id": "edaf44e65e3cbbce",
+      "title": "最高投资 100 亿美元：SK 海力士设立美国 AI 投资子公司 Hyaico，崔泰源掌舵",
+      "source": "IT之家",
+      "url": "https://www.ithome.com/1/023/584.htm",
+      "published_at": 1793977528.0
+     }
+    ]
+   },
+   {
+    "kind": "section",
+    "heading": "发布",
+    "text": "另一个值得注意的方向是「发布」。IT之家 11 月 6 日消息，上汽通用汽车官方今晚发布声明，称近日有不法分子冒用“上汽通用”名义，向凯迪拉克、别克、雪佛兰品牌车主发送虚假短信， 谎称车辆涉及气囊召回，另有 1 条消息指向同一话题。技术路线的胜负很少由一次发布会决定，接下来要看的是它能不能被更多团队低成本复用。",
+    "news_ids": [
+     "2e95ff49b8ec3a43"
+    ],
+    "refs": [
+     {
+      "id": "2e95ff49b8ec3a43",
+      "title": "不法分子冒名发送虚假短信谎称车辆涉气囊召回，上汽通用官方发布声明提醒车主提高警惕",
+      "source": "IT之家",
+      "url": "https://www.ithome.com/1/023/599.htm",
+      "published_at": 1793979329.0
+     }
+    ]
+   },
+   {
+    "kind": "section",
+    "heading": "合并",
+    "text": "相比之下「合并」。苹果可能正在重新调整iPhone机身侧面的实体按键设计…。对读者来说，值得留意的不是结论本身，而是它背后哪些前提正在被改变。",
+    "news_ids": [
+     "a8639df88b538ea0"
+    ],
+    "refs": [
+     {
+      "id": "a8639df88b538ea0",
+      "title": "苹果计划取消iPhone独立操作按钮 传将与相机控制键合并",
+      "source": "cnBeta",
+      "url": "https://www.cnbeta.com.tw/articles/tech/1585312.htm",
+      "published_at": 1793978071.0
+     }
+    ]
+   },
+   {
+    "kind": "glossary",
+    "items": [
+     {
+      "term": "AI",
+      "desc": "人工智能，让机器完成识别、生成、判断等原本需要人做的任务"
+     },
+     {
+      "term": "IPO",
+      "desc": "首次公开募股，公司第一次把股票卖给公众并上市"
+     },
+     {
+      "term": "GPU",
+      "desc": "图形处理器，因为擅长大规模并行计算，成了 AI 训练的主力硬件"
+     },
+     {
+      "term": "Agent",
+      "desc": "智能体，能自己拆解任务、调用工具并连续执行的 AI 程序"
+     },
+     {
+      "term": "HBM",
+      "desc": "高带宽内存，把多层内存堆叠起来给 AI 芯片喂数据，缓解带宽瓶颈"
+     },
+     {
+      "term": "数据中心",
+      "desc": "集中放置服务器、供电与散热设施的大型机房"
+     }
+    ]
+   },
+   {
+    "kind": "outlook",
+    "text": "把这几条放在一起看，最值得跟踪的是 AI 和 游戏 两条线：一条决定技术能走多远，一条决定它多快能落到普通人的日常里。至于其他消息，可以先放进观察名单，等后续有更实的进展再判断。"
+   }
+  ],
+  "word_count": 596
+ },
+ "ai_enhanced": false,
+ "schema": 1,
+ "window_bj": {
+  "start": "2026-11-06 00:00",
+  "end": "2026-11-07 00:00"
+ }
+}
