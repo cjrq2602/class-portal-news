@@ -1,8 +1,305 @@
 {
  "date": "2026-11-06",
- "generated_at": 1793917727.1208947,
- "count": 62,
+ "generated_at": 1793924271.650665,
+ "count": 97,
  "items": [
+  {
+   "id": "5061f3d3c9e6d603",
+   "source": "InfoQ中文",
+   "title": "AI 狂烧 2000亿美元，谷歌全球启动“自愿买断”计划：最高补偿12个月工资",
+   "url": "https://www.infoq.cn/article/vMSj216sQUhmeDH4H0G7?utm_source=rss&utm_medium=article",
+   "summary": "点击查看原文>",
+   "published_at": 1793952000.0,
+   "published_bj": "2026-11-06 16:00"
+  },
+  {
+   "id": "f64832938aaa3ef5",
+   "source": "InfoQ中文",
+   "title": "当 Coding Agent 走进研发团队：我们打造并开源了自进化研发平台 LoopForge",
+   "url": "https://www.infoq.cn/article/QGaIWSgd9uwx2WGw0yFv?utm_source=rss&utm_medium=article",
+   "summary": "点击查看原文>",
+   "published_at": 1793949288.0,
+   "published_bj": "2026-11-06 15:14"
+  },
+  {
+   "id": "eaafd0e8959ec34c",
+   "source": "IT之家",
+   "title": "Hugging Face CEO 称 AI“末日风险”接近于零，真正危险来自闭门造车",
+   "url": "https://www.ithome.com/1/023/045.htm",
+   "summary": "IT之家 11 月 6 日消息，当地时间昨日（11 月 5 日）在美国迈阿密举行的 WIRED 世界博览会上，开源 AI 平台 Hugging Face 首席执行官克莱门特 · 德朗格（Clément Delangue）表示， 他对人工智能导致人类灭绝的概率（即 P (Doom)）评估“接近于零”。 他认为，相比“AI 毁灭世界”的宏大担忧，更现实的风险是少数大公司在封闭环境中秘密开发前沿模型。德朗格称，AI 的主要风险并非来自开放生态，而是“少数闭门造车的参与者”。 他主张，降低风险的关键是让更多开发者能够公开构建、审查和改进模型，从而形成相互制衡的生态系统。在他看来，开放权重模型不仅是技术",
+   "published_at": 1793923943.0,
+   "published_bj": "2026-11-06 08:12"
+  },
+  {
+   "id": "8de076a899269110",
+   "source": "TechCrunch",
+   "title": "The New York Times reportedly in talks to buy Letterboxd for $330 million",
+   "url": "https://techcrunch.com/2026/11/05/the-new-york-times-reportedly-in-talks-to-buy-letterboxd-for-330-million/",
+   "summary": "Letterboxd, an online platform for movie lovers, has grown dramatically in recent years.",
+   "published_at": 1793923638.0,
+   "published_bj": "2026-11-06 08:07"
+  },
+  {
+   "id": "e7cb5e3a98df9084",
+   "source": "IT之家",
+   "title": "全球超 320 万青少年洞察：2025 年 24.9% 过去一周每天中高强度运动不足 60 分钟",
+   "url": "https://www.ithome.com/1/023/044.htm",
+   "summary": "IT之家 11 月 6 日消息，世界卫生组织本周三（11 月 4 日）发布研究报告， 指出全球约 2.4 亿的 11 至 17 岁青少年在过去一周，每天的中高强度身体活动均不足 60 分钟。 这项发表于《柳叶刀-全球健康》的研究，汇集了 140 个国家和地区的 389 项人群调查，涉及超过 320 万名青少年。受访者平均每周仅有 2.7 天的身体活动达到上述时长，只有 14% 表示一周七天都能达到。 世卫组织总干事谭德塞表示，过去 15 年里，全球在促进青少年身体活动方面几乎没有进展，女孩的处境尤其令人担忧。他强调，改善这一状况不能只靠要求青少年更加努力，还需要让学校、街道和社区成为能够安全、",
+   "published_at": 1793923438.0,
+   "published_bj": "2026-11-06 08:03"
+  },
+  {
+   "id": "4ed8756304a2df23",
+   "source": "TechCrunch",
+   "title": "Meta, Google, and TikTok sue California AG over teen social media law",
+   "url": "https://techcrunch.com/2026/11/05/meta-google-and-tiktok-sue-california-ag-over-teen-social-media-law/",
+   "summary": "If it goes into effect next year, this California law would restrict social media access for children under 16.",
+   "published_at": 1793923298.0,
+   "published_bj": "2026-11-06 08:01"
+  },
+  {
+   "id": "c3cac52fec6cf942",
+   "source": "IT之家",
+   "title": "蚂蚁百灵大模型 Ling 3.2 Flash 发布：三项基准超越 Claude Opus 5，前两周限时免费",
+   "url": "https://www.ithome.com/1/023/043.htm",
+   "summary": "IT之家 11 月 6 日消息，蚂蚁百灵官方团队今日宣布推出原生多模态模型 Ling-3.2-flash，拥有 560B 总参数、25B 激活参数、1M 上下文窗口。 该模型从架构层面原生融合视觉与语言能力，支持图像、文本与视频输入，重点强化复杂视觉理解、多模态长程 Agent、3D 理解与交互、医疗多模态四大能力。 在蚂蚁官方公布的评测结果中，Ling-3.2-flash 在三项基准上超过 Anthropic Claude Opus 5（max）： OmniDocBench1.5 得分 92.21，对比 90.56； ZEROBench（Sub）得分 43.71，对比 39.52； Visi",
+   "published_at": 1793923205.0,
+   "published_bj": "2026-11-06 08:00"
+  },
+  {
+   "id": "ca944ae26b8ae295",
+   "source": "IT之家",
+   "title": "微软 Office 365 A1 退役：2028 年起取消 100TB 教育版基础存储，免费 A0 学生版不含 Teams 与邮箱",
+   "url": "https://www.ithome.com/1/023/042.htm",
+   "summary": "IT之家 11 月 6 日消息，微软宣布调整 Microsoft 365 Education 教育版授权政策，将逐步停用免费 Office 365 A1、Student Use Benefit（学生使用权益）等项目，并计划从 2028 年 1 月 1 日起取消教育机构现有的 100TB 基础共享云存储额度。 微软此次调整涉及教育版产品授权、校友邮箱、云存储分配及订阅价格等多个方面。相关变化将分阶段实施，学校和高校现有授权不会立即失效，但需要在后续合同续约时调整授权方案。 微软首先宣布将停止销售 Office 365 A1。该方案已于 2026 年 11 月 5 日停止通过 Web Direct",
+   "published_at": 1793922659.0,
+   "published_bj": "2026-11-06 07:50"
+  },
+  {
+   "id": "acf17e08eff6b1b6",
+   "source": "IT之家",
+   "title": "联发科组建“封装梦之队”：招募 37 年经验前英特尔老将，双线布局 AI 芯片 CoWoS+EMIB 战略",
+   "url": "https://www.ithome.com/1/023/041.htm",
+   "summary": "IT之家 11 月 6 日消息，集邦咨询（TrendForce）今天（11 月 6 日）发布博文，报道称前英特尔高管纳维德 · 沙赫里亚里（Navid Shahriari）将于 11 月 9 日加入联发科，出任高级副总裁，直接向公司总裁兼首席运营官汇报。 IT之家援引博文介绍，沙赫里亚里拥有 37 年半导体设计工程与先进封装经验，并长期深耕数据中心市场。在加入联发科后，他将统筹先进工艺与良率平台、设计技术协同优化、先进测试与封装，以及质量与可靠性等关键环节。 报道指出他的核心任务之一，是深化与台积电及其他供应链伙伴的合作，推动先进技术整合，强化联发科在 AI 和高性能计算领域的产品能力。 沙赫",
+   "published_at": 1793922531.0,
+   "published_bj": "2026-11-06 07:48"
+  },
+  {
+   "id": "ca4c858c4cec5024",
+   "source": "IT之家",
+   "title": "IT早报 1106：华为鸿蒙终端用户数本月将突破 1 亿大关；奥迪研发高管抨击速成车；华为鸿蒙电脑官宣年内支持侧载；2027 年放假安排出炉...",
+   "url": "https://www.ithome.com/1/023/040.htm",
+   "summary": "“IT早报”时间，大家好，现在是 2026 年 11 月 6 日星期五，今天的重要科技资讯有： 1. 华为鸿蒙 HarmonyOS 终端用户数预计 11 月下旬突破 1 亿大关 目前，华为 HarmonyOS 6&amp;7 终端设备数已突破 9000 万、华为终端设备款 140+、可获取应用和服务数 45 万 +。IT之家从华为擎云 2026 鸿蒙办公产业峰会现场了解到，HarmonyOS 终端用户数即将突破 1 亿，预计会在 11 月下旬达成这一目标。&gt;&gt; 查看详情 2. 奥迪研发高管冯思远抨击速成车，承诺保持超 24 个月开发期 奥迪创新技术中心 11 月 5 日正式开业，在",
+   "published_at": 1793922350.0,
+   "published_bj": "2026-11-06 07:45"
+  },
+  {
+   "id": "3cff97edc37ae0e9",
+   "source": "IT之家",
+   "title": "前 G2《英雄联盟》主教练 Perkz 千字长文引爆舆论，数小时内被解雇",
+   "url": "https://www.ithome.com/1/023/039.htm",
+   "summary": "IT之家 11 月 6 日消息，当地时间 11 月 5 日，G2 Esports 宣布与《英雄联盟》分部主教练卢卡 ·“Perkz”· 佩尔科维奇（Luka “Perkz” Perković）结束合作，此时距后者发布那篇引发巨大争议的长文仅过去数小时。 前一天，Perkz 于 11 月 4 日在 X 上发布一篇 2676 词的长文（截至IT之家发稿，Perkz 已删号），谈及宗教信仰、政治立场、堕胎及过往争议言论，在玩家和粉丝群体中引发剧烈争议。 Perkz 将这篇长文称为自己“过去十年来第一次、也是最后一次坦诚发言”，表示希望借此澄清外界对其个人立场的误解。 在声明中，他表示自己不喜欢也不支",
+   "published_at": 1793921777.0,
+   "published_bj": "2026-11-06 07:36"
+  },
+  {
+   "id": "34762b2a94de601c",
+   "source": "IT之家",
+   "title": "英伟达破局 AI 内存瓶颈：HBM 仅增约 3%，每美元智能体吞吐量最高提升 30 倍",
+   "url": "https://www.ithome.com/1/023/025.htm",
+   "summary": "IT之家 11 月 6 日消息，英伟达昨日（11 月 5 日）发布技术解读，指出随着大模型参数规模、上下文长度和智能体应用快速增长，GPU 显存正面临前所未有的压力，HBM 供应趋紧、价格上升，在可以预见的未来仍将持续。 为了破解当前 AI 内存瓶颈， 英伟达探索引入了“全栈协同设计”理念 ，将 GPU、CPU、网络、存储和软件作为一个整体协同设计，让每一字节内存在 AI 工厂的各层级都产生更高价值。IT之家附上相关图片如下： 在推理过程中，昂贵的 HBM 既要承载模型权重，也要保存 KV 缓存（用于记录模型理解当前请求所需的上下文）。智能体工作流会在多次模型调用和工具调用间持续携带历史上下文",
+   "published_at": 1793921440.0,
+   "published_bj": "2026-11-06 07:30"
+  },
+  {
+   "id": "c7dc1030937ca14e",
+   "source": "cnBeta",
+   "title": "白宫视频使用《塞尔达传说：时之笛》画面及实际音乐",
+   "url": "https://www.cnbeta.com.tw/articles/game/1585214.htm",
+   "summary": "白宫再次在政治传播内容中使用电子游戏素材，这次涉及《塞尔达传说：时之笛》。相关视频采用了游戏的实际音乐，视觉表现也明显仿照Nintendo 64原版。 阅读全文",
+   "published_at": 1793921223.0,
+   "published_bj": "2026-11-06 07:27"
+  },
+  {
+   "id": "9c6363a7fe5e7e3f",
+   "source": "cnBeta",
+   "title": "NS2模拟器Lichii已可启动运行《塞尔达：时之笛 重制版》",
+   "url": "https://www.cnbeta.com.tw/articles/game/1585212.htm",
+   "summary": "《塞尔达：时之笛 重制版》刚登陆Switch2主机，而NS2模拟器Lichii已能在PC上启动并运行这款游戏。目前只有部分Lichii衍生分支版本可运行本作，官方原版Lichii尚且无法正常运行。现阶段游戏距离完整可玩还差很远，还存在大量严重画面BUG：开放世界场景会出现画面闪烁、图像伪影、泛光渲染异常。只有德库大树(Great Deku Tree)区域运行状态相对尚可。 阅读全文",
+   "published_at": 1793921190.0,
+   "published_bj": "2026-11-06 07:26"
+  },
+  {
+   "id": "70b056be29a7214f",
+   "source": "cnBeta",
+   "title": "《塞尔达：时之笛 重制版》午夜首发吸引多地玩家排队",
+   "url": "https://www.cnbeta.com.tw/articles/game/1585210.htm",
+   "summary": "《塞尔达：时之笛 重制版》举行午夜发售活动，多地玩家前往实体门店排队，等待购买游戏及塞尔达主题Switch 2主机。纽约曼哈顿任天堂商店举办了官方活动，Best Buy、GameStop等零售门店外也出现等候人群。 阅读全文",
+   "published_at": 1793921163.0,
+   "published_bj": "2026-11-06 07:26"
+  },
+  {
+   "id": "d55d4e4483e9b355",
+   "source": "cnBeta",
+   "title": "OpenAI调整数据中心选址政策：弃用保密协议并加强社区沟通",
+   "url": "https://www.cnbeta.com.tw/articles/tech/1585208.htm",
+   "summary": "11月6日，据路透社报道，在本周美国中期选举中民主党取得一系列出人意料的胜利后，OpenAI公布了旨在改善与数据中心所在社区关系的新政策，试图说服当地居民相信数据中心项目会带来好处。许多人士将民主党胜选解读为美国民众对科技行业在全国建设数据中心计划的否定。 阅读全文",
+   "published_at": 1793921115.0,
+   "published_bj": "2026-11-06 07:25"
+  },
+  {
+   "id": "b256d61745f1be8f",
+   "source": "cnBeta",
+   "title": "Google、Meta和TikTok起诉加州 寻求阻止儿童社媒法",
+   "url": "https://www.cnbeta.com.tw/articles/tech/1585206.htm",
+   "summary": "据路透社报道，Google、Meta和TikTok分别提起诉讼，寻求阻止美国加州执行一项旨在限制16岁以下儿童沉迷社交媒体的新州法。 阅读全文",
+   "published_at": 1793921066.0,
+   "published_bj": "2026-11-06 07:24"
+  },
+  {
+   "id": "1584ad0c512cee7c",
+   "source": "cnBeta",
+   "title": "华尔街蒸发3.2万亿美元，AI股遭血洗",
+   "url": "https://www.cnbeta.com.tw/articles/tech/1585204.htm",
+   "summary": "据路透社报道，美国民主党在国会中期选举中大胜，引发投资者对AI监管加强、数据中心建设放缓的担忧。当地时间周四，美国科技股遭遇大规模抛售， 华尔街股票市值单日蒸发约3.2万亿美元（约合人民币22.7万亿元） 。纳斯达克综合指数暴跌5.52%，创下自2025年4月以来最大单日跌幅，较10月初创下的历史高点累计下跌近12%，进入技术性回调区间。 阅读全文",
+   "published_at": 1793921048.0,
+   "published_bj": "2026-11-06 07:24"
+  },
+  {
+   "id": "31f6212833104062",
+   "source": "cnBeta",
+   "title": "民主党中期选举大胜后 AI巨头迎监管与数据中心双重压力",
+   "url": "https://www.cnbeta.com.tw/articles/tech/1585202.htm",
+   "summary": "据彭博社报道，过去两年与美国总统唐纳德·特朗普关系升温的顶级AI公司，如今正在为民主党在美国中期选举中的大胜可能带来的后果做准备。报道称，民主党在众议院、参议院以及多场关键州长选举中取得大胜，可能加大国会对科技公司的审查，为有实质意义的AI安全监管增添动力；更迫在眉睫的影响或许是，各州对数据中心建设的限制将收紧。 阅读全文",
+   "published_at": 1793921003.0,
+   "published_bj": "2026-11-06 07:23"
+  },
+  {
+   "id": "bb5446e9ba3fcac9",
+   "source": "cnBeta",
+   "title": "Google发布Gemini Omni 1.2 Flash视频模型 可对话编辑最长15秒钟",
+   "url": "https://www.cnbeta.com.tw/articles/tech/1585200.htm",
+   "summary": "11月6日，Google公司在周四正式推出了视频生成模型Gemini Omni 1.2 Flash，该模型支持原生15秒视频生成，支持通过多轮对话进行编辑，价格较上一代降低30%。 阅读全文",
+   "published_at": 1793920985.0,
+   "published_bj": "2026-11-06 07:23"
+  },
+  {
+   "id": "014f541dad7c13aa",
+   "source": "IT之家",
+   "title": "OpenAI 最强网安 AI 模型：GPT-6 Cyber 登场，性能提高 51%、发现火狐 Firefox 浏览器 81 个新漏洞",
+   "url": "https://www.ithome.com/1/023/038.htm",
+   "summary": "IT之家 11 月 6 日消息，OpenAI 昨日（11 月 5 日）发布博文，宣布推出发布网络安全专用模型 GPT-6 Cyber，官方宣称在发现、验证和修复软件漏洞方面，比上一代 GPT-5.6 Cyber 实现显著提升，在 ExploitGym 测试中跑分相对提升 51%。 ExploitGym 基准主要检验模型能否利用指定远程漏洞，GPT-6 Cyber 得分为 48.5%，较 GPT-5.6 Cyber 的 32.1% 相对提升约 51%。OpenAI 还称，该模型在无部署安全提示时，99.93% 的测试避免攻击授权范围外的服务；启用提示后，这一比例达到 100%。 IT之家注：原文",
+   "published_at": 1793920975.0,
+   "published_bj": "2026-11-06 07:22"
+  },
+  {
+   "id": "277ca996760bff17",
+   "source": "cnBeta",
+   "title": "三星头戴式耳机更多细节曝光：或命名“Galaxy Studio”",
+   "url": "https://www.cnbeta.com.tw/articles/tech/1585198.htm",
+   "summary": "三星正准备重返头戴式耳机市场，而这款备受关注的新品如今再次迎来新一轮曝光。最新消息显示，三星计划推出的高端头戴式无线耳机或将正式命名为“Galaxy Studio”，并有望于2027年初与Galaxy S27系列一同亮相。 阅读全文",
+   "published_at": 1793920837.0,
+   "published_bj": "2026-11-06 07:20"
+  },
+  {
+   "id": "b0dacc01d9d8adfb",
+   "source": "Hacker News",
+   "title": "Cuban: Facebook knowingly runs AI deepfake scam ads; docs say $16B fraud revenue",
+   "url": "https://finance.yahoo.com/technology/ai/articles/mark-cuban-says-facebook-knowingly-213000020.html",
+   "summary": "Article URL: https://finance.yahoo.com/technology/ai/articles/mark-cuban-says-facebook-knowingly-213000020.html Comments URL: https://news.ycombinator.com/item?id=50385870 Points: 21 # Comments: 3",
+   "published_at": 1793920197.0,
+   "published_bj": "2026-11-06 07:09"
+  },
+  {
+   "id": "d11f41d5c0345c05",
+   "source": "IT之家",
+   "title": "苹果推出升级版“全球旅行转换器套件”：299 元，兼容 70W 和 140W 电源适配器",
+   "url": "https://www.ithome.com/1/023/037.htm",
+   "summary": "IT之家 11 月 6 日消息，除了新 Mac 之外，苹果官网还上架了新版全球旅行转换器套装（World Travel Adapter Kit），售价 39 美元 （IT之家注：现汇率约合 260.7 元人民币） ，国行 299 元（官网地址： 点此购买 ）。 新版转换器套装包含 5 种可更换交流电插头，适配苹果最新款 70W 和 140W 电源适配器。 根据苹果官网信息，新款套装采用全新的交流电源接口 2（AC Connector 2），主要用于将兼容电源适配器的交流电插头转换为不同国家和地区使用的规格。套装内共有 5 种插头规格，分别为： Type A：适用于北美、日本。 Type C：适",
+   "published_at": 1793920166.0,
+   "published_bj": "2026-11-06 07:09"
+  },
+  {
+   "id": "d33a3732666ac333",
+   "source": "IT之家",
+   "title": "AI 时代最强“芯脏”：英伟达实测 Vera CPU，较最快 x86 CPU 每瓦多跑 60% 智能体",
+   "url": "https://www.ithome.com/1/023/029.htm",
+   "summary": "IT之家 11 月 6 日消息，英伟达昨日（11 月 5 日）发布博文，公布了 Vera CPU（2026 年 3 月 16 日发布）在智能体工作负载上的实测数据，称其可在同一颗处理器中同时实现业界领先的智能体执行速度和每瓦吞吐量，帮助数据中心在有限电力条件下运行更多智能体。 英伟达表示与传统生成式 AI 不同，智能体不仅要生成答案，还需搜索资料、查询数据库、编写和测试代码，并实际执行任务。这些步骤大量依赖 CPU，并需要反复切换 CPU（负责执行）和 GPU（负责推理）。英伟达认为，随着企业规模化部署智能体，数据中心的核心瓶颈正从单纯算力转向“速度、并发能力和能耗”的平衡。 根据英伟达在 1",
+   "published_at": 1793920161.0,
+   "published_bj": "2026-11-06 07:09"
+  },
+  {
+   "id": "0a2aefe0e57bdf0e",
+   "source": "IT之家",
+   "title": "苹果首款智能家居中枢 HomeView 确认配备 8GB 内存",
+   "url": "https://www.ithome.com/1/023/036.htm",
+   "summary": "IT之家 11 月 6 日消息，据 MacRumors 今日报道，苹果 HomeView 智能家居中枢除了搭载 A18 芯片之外，还配备了 8GB 的运行内存。 IT之家注意到，这一配置与其他搭载 A18 芯片的苹果设备保持一致。MacRumors 指出，所有 iPhone 16 系列机型以及 MacBook Neo 均配备了 8GB 运行内存。 此前，苹果已为 HomeView 配备 A18 芯片，该设备定位为智能家居控制中枢。此次 8GB 运行内存信息得到确认，进一步补充了这款新品的硬件配置细节。",
+   "published_at": 1793919595.0,
+   "published_bj": "2026-11-06 06:59"
+  },
+  {
+   "id": "157077957705d7d4",
+   "source": "IT之家",
+   "title": "海盗船 2026 财年前三季度报归母净利润 1907 万美元，同比扭亏为盈",
+   "url": "https://www.ithome.com/1/023/030.htm",
+   "summary": "IT之家 11 月 6 日消息，海盗船今日发布 2026 财年（2026 年 1 月～2026 年 12 月）前三季度报（2026 年 1 月～2026 年 9 月）及第三财季（2026 年 7 月～2026 年 9 月）报告： 2026 财年前三季度报 营业总收入 ：10.36 亿美元 （IT之家注：现汇率约合 69.26 亿元人民币） ，同比增长 0.02% 毛利润 ：3.18 亿美元 （现汇率约合 21.26 亿元人民币） ，同比增长 13% 毛利率 ：30.7%，同比增长 3.5 个百分点 归母净利润 ：1,907 万美元 （现汇率约合 1.27 亿元人民币） ，同比扭亏为盈 经营现金",
+   "published_at": 1793919204.0,
+   "published_bj": "2026-11-06 06:53"
+  },
+  {
+   "id": "3986ea228682741c",
+   "source": "IT之家",
+   "title": "微软 Xbox 云游戏支持手机变身虚拟手柄：支持 iOS 和安卓，无需下载应用",
+   "url": "https://www.ithome.com/1/023/035.htm",
+   "summary": "IT之家 11 月 6 日消息，微软 Xbox 于当地时间 11 月 4 日宣布，为 Xbox Cloud Gaming 推出一项新功能，支持用户使用 iOS 或 Android 智能手机充当游戏手柄，在兼容智能电视上游玩云游戏时，无需额外连接实体手柄。 根据 Xbox 官方公告，该功能目前处于预览测试阶段，正在支持 Xbox Cloud Gaming 的国家和地区逐步推出。微软表示，用户可以通过手机浏览器加载虚拟游戏控制界面，无需额外下载手机应用。 使用时，用户需要在支持的智能电视上打开 Xbox 应用，进入「设置」中的「账户」，开启「预览功能」之后，在没有连接实体手柄的情况下启动游戏，电视",
+   "published_at": 1793919114.0,
+   "published_bj": "2026-11-06 06:51"
+  },
+  {
+   "id": "66d864d515e51d17",
+   "source": "IT之家",
+   "title": "AI 视频模型卷出新高度：谷歌 Gemini Omni 1.2 Flash 发布，原生 15 秒生成、较 1.1 降价 30%",
+   "url": "https://www.ithome.com/1/023/026.htm",
+   "summary": "IT之家 11 月 6 日消息，谷歌正式推出 Gemini Omni 1.2 Flash 视频生成模型，并在 Gemini API 与 Gemini for business 平台全面开放使用。 新版模型实现了 原生 15 秒视频生成 、多轮对话式编辑、更强的参考遵循能力，同时较 1.1 版本 降价 30% ，720p 视频生成价格为 每秒 0.07 美元 （IT之家注：现汇率约合 0.47 元人民币） 。 在 规模化降本 方面，新版工作流可先以 360p 或 720p 快速起草，通过后续编辑修正细节，无需重新生成整个片段，最后再将成品升级到 1080p 或 4K，进一步压缩使用成本。 在 片",
+   "published_at": 1793918681.0,
+   "published_bj": "2026-11-06 06:44"
+  },
+  {
+   "id": "4c15d2298fb15240",
+   "source": "IT之家",
+   "title": "复刻 1979 年初代 Walkman 耳机：索尼推出全新 MDR-3R 加入 USB-C 接口，售价 59.99 美元",
+   "url": "https://www.ithome.com/1/023/034.htm",
+   "summary": "IT之家 11 月 6 日消息，索尼于当地时间 11 月 5 日正式发布了新款 MDR-3R 有线耳机，采用了 1979 年初代 Walkman TPS-L2 的经典设计，并加入 USB-C 接口、内置麦克风和线控功能，官方售价为 59.99 美元 （IT之家注：现汇率约合 401.1 元人民币） 。 初代 Walkman 耳机型号为 MDR-3L2，采用轻量化贴耳式设计，配备可调节灰色塑料头梁、金属伸缩滑轨以及标志性的橙色圆形耳垫。与如今常见的大尺寸头戴式耳机不同，这款经典产品整体造型更加纤细。 新款 MDR-3R 延续了初代产品的外观设计，保留轻量化开放式结构，并提供橙色和蓝色两种可替换耳",
+   "published_at": 1793918672.0,
+   "published_bj": "2026-11-06 06:44"
+  },
+  {
+   "id": "c14b205abde01152",
+   "source": "TechCrunch",
+   "title": "Airbnb says it’s launching an AI travel agent in the first half of 2027",
+   "url": "https://techcrunch.com/2026/11/05/airbnb-says-its-launching-an-ai-travel-agent-in-the-first-half-of-2027/",
+   "summary": "Airbnb says its upcoming AI agent will help travelers plan trips, compare options, manage bookings, and get assistance throughout their stay.",
+   "published_at": 1793918455.0,
+   "published_bj": "2026-11-06 06:40"
+  },
+  {
+   "id": "01088b32f81559a0",
+   "source": "IT之家",
+   "title": "三星 SM-U700 头戴式耳机通过 FCC 认证：疑为 Galaxy Studio，对标苹果 AirPods Max",
+   "url": "https://www.ithome.com/1/023/033.htm",
+   "summary": "IT之家 11 月 6 日消息，三星正在研发一款高端头戴式无线耳机，可能命名为 Galaxy Studio，预计于 2027 年初与 Galaxy S27 系列一同发布。 当地时间 11 月 4 日，美国联邦通信委员会（FCC）认证网站出现了一款型号为 SM-U700 的三星蓝牙耳机。 据 SamMobile 报道，该设备正是此前曝光的 Galaxy Studio 头戴式耳机。相关认证文件包含一张监管标签位置示意图，从图片中可以看到耳机的部分外观设计。 从曝光信息来看，三星 Galaxy Studio 似乎采用可旋转耳罩设计，耳罩能够向内或向外转动至扁平状态，方便用户收纳和携带。此外，相关认证",
+   "published_at": 1793918181.0,
+   "published_bj": "2026-11-06 06:36"
+  },
+  {
+   "id": "4f114d9ab279f931",
+   "source": "IT之家",
+   "title": "中国空间站刷新低温纪录：铷原子云降至 9.7 皮开尔文，逼近绝对零度",
+   "url": "https://www.ithome.com/1/023/032.htm",
+   "summary": "IT之家 11 月 6 日消息，据新华社今日报道，中国科学院空间应用工程与技术中心依托梦天舱超冷原子物理实验柜，利用全光阱冷却技术，将铷原子云的等效温度降至 9.7 皮开尔文，较室温降低 14 个数量级，并实现持续 7 秒的稳定观测，刷新了人类已知的最低温度纪录。 IT之家注：皮开尔文是极微小的温度单位，1 皮开尔文等于一万亿分之一开尔文（1 pK = 10⁻¹² K），而绝对零度（0 K，约零下 273.15 摄氏度）是热力学所允许的温度下限，只能无限接近而无法达到。 此前的纪录由德国科研团队于 2021 年创造，当时基于原子芯片磁阱方案将铷原子云冷却至 38 皮开尔文，自由膨胀时间约 2 ",
+   "published_at": 1793917901.0,
+   "published_bj": "2026-11-06 06:31"
+  },
   {
    "id": "9d4ae71a6127ae14",
    "source": "IT之家",
@@ -11,6 +308,15 @@
    "summary": "IT之家 11 月 6 日消息，苹果今日宣布为 Apple Arcade 库新增四款游戏，分别为《Crossy Road Rush》《NBA 2K27 Arcade Edition》《KAMI 2+》和《Food Stylist - Design Game+》。 其中，《NBA 2K27 Arcade Edition》首次在 Arcade 版本中加入 WNBA（美国女子职业篮球联赛）内容。 《Crossy Road Rush》是《Crossy Road》系列的最新作品。玩家需要穿越一座布满障碍的岛屿赛道，在躲避各种障碍、完成挑战的过程中解锁不同角色。游戏支持单人游玩，也支持最多 4 名玩家通过",
    "published_at": 1793917480.0,
    "published_bj": "2026-11-06 06:24"
+  },
+  {
+   "id": "56633f2997f937a4",
+   "source": "Hacker News",
+   "title": "Claude Code sends your email address to websites",
+   "url": "https://github.com/anthropics/claude-code/issues/107757",
+   "summary": "Article URL: https://github.com/anthropics/claude-code/issues/107757 Comments URL: https://news.ycombinator.com/item?id=50385272 Points: 292 # Comments: 80",
+   "published_at": 1793917035.0,
+   "published_bj": "2026-11-06 06:17"
   },
   {
    "id": "be61bf0ec80bfc48",
@@ -90,6 +396,15 @@
    "title": "Kagi Search for Everyone",
    "url": "https://kagi.com/changelog",
    "summary": "Article URL: https://kagi.com/changelog Comments URL: https://news.ycombinator.com/item?id=50383740 Points: 102 # Comments: 47",
+   "published_at": 1793909014.0,
+   "published_bj": "2026-11-06 04:03"
+  },
+  {
+   "id": "3dd14e8de7c4de15",
+   "source": "Hacker News",
+   "title": "Search for everyone",
+   "url": "https://kagi.com/changelog#11820",
+   "summary": "Article URL: https://kagi.com/changelog#11820 Comments URL: https://news.ycombinator.com/item?id=50383740 Points: 431 # Comments: 217",
    "published_at": 1793909014.0,
    "published_bj": "2026-11-06 04:03"
   },
