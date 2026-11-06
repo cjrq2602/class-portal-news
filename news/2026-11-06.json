@@ -1,6 +1,6 @@
 {
  "date": "2026-11-06",
- "generated_at": 1793985149.6348217,
+ "generated_at": 1793988219.5120285,
  "count": 400,
  "items": [
   {
@@ -657,6 +657,15 @@
    "title": "Tesla winds down Cybertruck production after years of poor sales in few markets",
    "url": "https://www.msn.com/en-us/technology/tech-companies/tesla-to-wind-down-cybertruck-production-after-years-of-poor-sales-in-few-markets/ar-AA2gSZGv",
    "summary": "Article URL: https://www.msn.com/en-us/technology/tech-companies/tesla-to-wind-down-cybertruck-production-after-years-of-poor-sales-in-few-markets/ar-AA2gSZGv Comments URL: https://news.ycombinator.com/item?id=50391456 Points: 97 # Comments: 77",
+   "published_at": 1793967231.0,
+   "published_bj": "2026-11-06 20:13"
+  },
+  {
+   "id": "20c35dedc47961bb",
+   "source": "Hacker News",
+   "title": "Tesla to wind down Cybertruck production",
+   "url": "https://www.nbcnews.com/tech/tech-news/tesla-wind-cybertruck-production-years-poor-sales-markets-rcna607817",
+   "summary": "Article URL: https://www.nbcnews.com/tech/tech-news/tesla-wind-cybertruck-production-years-poor-sales-markets-rcna607817 Comments URL: https://news.ycombinator.com/item?id=50391456 Points: 301 # Comments: 901",
    "published_at": 1793967231.0,
    "published_bj": "2026-11-06 20:13"
   },
@@ -3593,15 +3602,6 @@
    "summary": "Article URL: https://www.naut.ca/blog/2026/11/05/the-hackintosh-reborn-with-ai/ Comments URL: https://news.ycombinator.com/item?id=50383057 Points: 47 # Comments: 2",
    "published_at": 1793905702.0,
    "published_bj": "2026-11-06 03:08"
-  },
-  {
-   "id": "ce70c419d6683020",
-   "source": "TechCrunch",
-   "title": "OpenAI released a new cybersecurity model. Is that enough?",
-   "url": "https://techcrunch.com/2026/11/05/openai-released-a-new-cybersecurity-model-is-that-enough/",
-   "summary": "OpenAI's newest cybersecurity model comes out as AI labs face scrutiny of their work to protect digital infrastructure.",
-   "published_at": 1793905572.0,
-   "published_bj": "2026-11-06 03:06"
   }
  ]
 }
