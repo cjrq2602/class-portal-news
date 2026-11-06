@@ -1,8 +1,35 @@
 {
  "date": "2026-11-07",
- "generated_at": 1793998934.3206806,
- "count": 41,
+ "generated_at": 1794002277.929216,
+ "count": 45,
  "items": [
+  {
+   "id": "05eb29e33b276e7d",
+   "source": "TechCrunch",
+   "title": "The Duo apps are coming, says Apple",
+   "url": "https://techcrunch.com/2026/11/06/the-duo-apps-are-coming-says-apple/",
+   "summary": "There are now 100K Duo-optimized apps, says Apple, and thousands more arrive daily.",
+   "published_at": 1794001085.0,
+   "published_bj": "2026-11-07 05:38"
+  },
+  {
+   "id": "18219ae628348dbd",
+   "source": "cnBeta",
+   "title": "苹果宣布超10万款应用已适配iPhone Duo 折叠屏生态加速成熟",
+   "url": "https://www.cnbeta.com.tw/articles/tech/1585330.htm",
+   "summary": "苹果宣布自折叠屏手机iPhone Duo上市以来，开发者已迅速推进应用适配工作。目前，App Store中已有超过10万款应用针对iPhone Duo完成优化，并且每天仍有数千款新应用加入适配行列。 阅读全文",
+   "published_at": 1793998967.0,
+   "published_bj": "2026-11-07 05:02"
+  },
+  {
+   "id": "19250c6e1e581490",
+   "source": "Hacker News",
+   "title": "The Valley Bubble Breaks",
+   "url": "https://quirksmode.org/quirksblog/2026/1106-valley-bubble.html",
+   "summary": "Article URL: https://quirksmode.org/quirksblog/2026/1106-valley-bubble.html Comments URL: https://news.ycombinator.com/item?id=50398212 Points: 33 # Comments: 21",
+   "published_at": 1793997728.0,
+   "published_bj": "2026-11-07 04:42"
+  },
   {
    "id": "83a88e3832e02e54",
    "source": "Hacker News",
@@ -11,6 +38,15 @@
    "summary": "Article URL: https://sketchagent.dev/ Comments URL: https://news.ycombinator.com/item?id=50398010 Points: 4 # Comments: 0",
    "published_at": 1793996904.0,
    "published_bj": "2026-11-07 04:28"
+  },
+  {
+   "id": "1d9f7b708db5ceff",
+   "source": "Hacker News",
+   "title": "AI is dramatically accelerating AI research",
+   "url": "https://www.planned-obsolescence.org/p/ai-is-dramatically-accelerating-ai",
+   "summary": "Article URL: https://www.planned-obsolescence.org/p/ai-is-dramatically-accelerating-ai Comments URL: https://news.ycombinator.com/item?id=50397994 Points: 64 # Comments: 19",
+   "published_at": 1793996843.0,
+   "published_bj": "2026-11-07 04:27"
   },
   {
    "id": "36939e49100f89de",
