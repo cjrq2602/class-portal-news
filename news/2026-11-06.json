@@ -1,8 +1,53 @@
 {
  "date": "2026-11-06",
- "generated_at": 1793977546.260361,
+ "generated_at": 1793981214.4553368,
  "count": 400,
  "items": [
+  {
+   "id": "28e2d92012d2e565",
+   "source": "TechCrunch",
+   "title": "Ramp data shows AI spending stalling just as Anthropic nears its IPO",
+   "url": "https://techcrunch.com/2026/11/06/ramp-data-shows-ai-spending-stalling-just-as-anthropic-nears-its-ipo/",
+   "summary": "AI usage keeps climbing, but spending has stalled. Price cuts and smarter cost controls among the biggest spenders could challenge investor assumptions about AI hypergrowth.",
+   "published_at": 1793980487.0,
+   "published_bj": "2026-11-06 23:54"
+  },
+  {
+   "id": "7f5af268c8b0aba2",
+   "source": "Hacker News",
+   "title": "Deus Ex",
+   "url": "https://www.filfre.net/2026/11/deus-ex/",
+   "summary": "Article URL: https://www.filfre.net/2026/11/deus-ex/ Comments URL: https://news.ycombinator.com/item?id=50393758 Points: 9 # Comments: 0",
+   "published_at": 1793979876.0,
+   "published_bj": "2026-11-06 23:44"
+  },
+  {
+   "id": "f919d59f2f49f70d",
+   "source": "IT之家",
+   "title": "华为 MatePad Edge 获鸿蒙 7.0.0.111SP16 升级：预置融合开发引擎，支持电脑模式运行 Linux 环境",
+   "url": "https://www.ithome.com/1/023/600.htm",
+   "summary": "IT之家 11 月 6 日消息，华为官方账号“智慧办公产品经理”今日宣布，MatePad Edge 二合一平板电脑已开启鸿蒙 HarmonyOS 7.0.0.111SP16 版本升级，带来了 3D 空间壁纸等功能。 IT之家注意到，华为 MatePad Edge 此次更新后， 还将预置“融合开发引擎”应用 ，支持电脑模式下直接运行 Linux 环境。完整更新内容如下： IT之家注：由华为终端开发的融合开发引擎已于今年 4 月登陆华为鸿蒙 PC 电脑端应用市场（App Gallery）应用尝鲜专区，支持运行 Linux 环境。 融合开发引擎是一款轻量级虚拟化开发环境，让 Linux 开发体验像原",
+   "published_at": 1793979677.0,
+   "published_bj": "2026-11-06 23:41"
+  },
+  {
+   "id": "2e95ff49b8ec3a43",
+   "source": "IT之家",
+   "title": "不法分子冒名发送虚假短信谎称车辆涉气囊召回，上汽通用官方发布声明提醒车主提高警惕",
+   "url": "https://www.ithome.com/1/023/599.htm",
+   "summary": "IT之家 11 月 6 日消息，上汽通用汽车官方今晚发布声明，称近日有不法分子冒用“上汽通用”名义，向凯迪拉克、别克、雪佛兰品牌车主发送虚假短信， 谎称车辆涉及气囊召回 ，“以逾期召回将取消质保服务”相要挟，将不明链接谎称为上汽通用官网地址，诱导车主提供个人信息、办理所谓召回手续。 上汽通用汽车郑重声明： 1. 上汽通用汽车官方从未发布过上述短信和链接 ，亦未委托任何第三方通过短信、彩信或社交平台向车主发送上述召回信息； 2. 上述虚假短信中提及的产品召回纯属虚构 ； 3.上汽通用汽车已对该侵权行为取证，将追究相关主体法律责任， 并提醒广大车主提高警惕 ，切勿点击可疑链接、回复相关信息或向不明",
+   "published_at": 1793979329.0,
+   "published_bj": "2026-11-06 23:35"
+  },
+  {
+   "id": "540c1f95c2006829",
+   "source": "cnBeta",
+   "title": "3M同意支付73.5亿美元和解PFAS诉讼 超11万名原告有望获赔",
+   "url": "https://www.cnbeta.com.tw/articles/tech/1585318.htm",
+   "summary": "美国工业巨头3M宣布，将在未来九年投入约73.5亿美元，用于解决与PFAS化学物质相关的大规模人身伤害诉讼。这项和解协议预计覆盖约99%的现有相关索赔案件，符合参与条件的原告人数约为11.5万至12万人。 阅读全文",
+   "published_at": 1793978830.0,
+   "published_bj": "2026-11-06 23:27"
+  },
   {
    "id": "348845feaa0534b3",
    "source": "InfoQ中文",
@@ -11,6 +56,60 @@
    "summary": "点击查看原文>",
    "published_at": 1793978700.0,
    "published_bj": "2026-11-06 23:25"
+  },
+  {
+   "id": "ce74b797a719b60d",
+   "source": "cnBeta",
+   "title": "AMD游戏业务收入暴跌40% 苏姿丰宣布公司转向“数据中心优先”",
+   "url": "https://www.cnbeta.com.tw/articles/tech/1585316.htm",
+   "summary": "人工智能数据中心对芯片和存储资源的巨大需求，正在彻底改变全球半导体产业的竞争格局。曾经以PC处理器和游戏显卡闻名的AMD，如今也正式将自身定位转向人工智能和数据中心业务。AMD首席执行官苏姿丰在接受采访时明确表示，公司已经是一家“数据中心优先”的企业。 阅读全文",
+   "published_at": 1793978630.0,
+   "published_bj": "2026-11-06 23:23"
+  },
+  {
+   "id": "8b592fb9502e780a",
+   "source": "IT之家",
+   "title": "R 星谈《GTA6》开放世界设计：弱化地图图标引导，鼓励玩家自然发现事件",
+   "url": "https://www.ithome.com/1/023/598.htm",
+   "summary": "IT之家 11 月 6 日消息，据游戏媒体 GameRant 今天报道，《GTA6》里最有趣的事件，可能永远不会以地图图标形式出现。玩家驾车穿过街道时，可能突然遇上街头赛车；沿着人行道散步时，警察可能恰好在抓捕犯人。 Rockstar North 工作室联合负责人兼开发主管 Rob Nelson 谈到这部分设计时表示， 他们特别参考了《荒野大镖客：救赎 2》 ， 将部分探索内容留给玩家自行发现 。 他对此解释称：“游戏中有大量内容需要玩家在游玩过程中自行发现，我们并不一定会通过任务目标、地图标记或图标来引导玩家找到它们。” IT之家从原报道获悉，《GTA6》游戏内将会有完整的公共交通系统。如果",
+   "published_at": 1793978472.0,
+   "published_bj": "2026-11-06 23:21"
+  },
+  {
+   "id": "2f4fb5c8eefd1237",
+   "source": "cnBeta",
+   "title": "日本古老岩石揭示强震引发海啸的潜在机制 地震断层在瞬间变得像水一样流动",
+   "url": "https://www.cnbeta.com.tw/articles/science/1585314.htm",
+   "summary": "地震发生时，地下岩层之间会产生巨大的摩擦和应力变化。长期以来，科学家一直试图解释一个令人困惑的现象：为什么某些大型地震发生时，海底断层能够在极短时间内滑动数十米，甚至引发破坏性极强的海啸？ 阅读全文",
+   "published_at": 1793978120.0,
+   "published_bj": "2026-11-06 23:15"
+  },
+  {
+   "id": "a8639df88b538ea0",
+   "source": "cnBeta",
+   "title": "苹果计划取消iPhone独立操作按钮 传将与相机控制键合并",
+   "url": "https://www.cnbeta.com.tw/articles/tech/1585312.htm",
+   "summary": "苹果可能正在重新调整iPhone机身侧面的实体按键设计。根据最新爆料，苹果计划从2027年下半年推出的新款iPhone开始，取消目前独立设置的操作按钮（Action Button），将其功能整合到相机控制按钮（Camera Control）之中。 阅读全文",
+   "published_at": 1793978071.0,
+   "published_bj": "2026-11-06 23:14"
+  },
+  {
+   "id": "70a3e7b3fc6a2af8",
+   "source": "IT之家",
+   "title": "OpenAI CEO 奥尔特曼警示：未来人类可能无法从 AI 手中夺回控制权",
+   "url": "https://www.ithome.com/1/023/596.htm",
+   "summary": "IT之家 11 月 6 日消息，OpenAI 首席执行官萨姆 · 奥尔特曼（IT之家注：Sam Altman）最近出席 Raj Shamani 播客时表示，人工智能可能通过两种方式走向失控：一是人类逐步将控制权交给自主式 AI，二是某个人或实体垄断 AI 技术。 针对第一种情况，奥尔特曼警告称：“AI 会逐渐失去控制，我们可能有意或无意地将控制权交给能力远超人类的系统，最终再也无法夺回。” 第二种情况的风险在于巨头垄断，奥尔特曼解释称：“另一种情况是，某个人、公司或国家相对于其他所有人来说过于强大。让多个不同路线的 AI 实验室相互竞争，比所有人依赖一家企业安全得多。” 这种对过度集权的担忧，",
+   "published_at": 1793977991.0,
+   "published_bj": "2026-11-06 23:13"
+  },
+  {
+   "id": "8a38f7bfed537880",
+   "source": "cnBeta",
+   "title": "太阳能无人机连续飞行突破80小时 目标挑战100小时",
+   "url": "https://www.cnbeta.com.tw/articles/tech/1585310.htm",
+   "summary": "一架完全依靠太阳能驱动的无人驾驶飞机，正在尝试突破超长时间连续飞行的纪录。由无人机制造商UAVOS研发的ApusNeo太阳能飞机，近日在西班牙加那利群岛附近完成了一次高空飞行测试，最高飞行高度达到4.76万英尺（约1.45万米）。而在最新一次飞行中，该飞机已经连续飞行超过80小时，正朝着100小时的目标迈进。 阅读全文",
+   "published_at": 1793977958.0,
+   "published_bj": "2026-11-06 23:12"
   },
   {
    "id": "edaf44e65e3cbbce",
@@ -31,6 +130,42 @@
    "published_bj": "2026-11-06 23:04"
   },
   {
+   "id": "28e6c1f8234385a7",
+   "source": "Hacker News",
+   "title": "FAA Begins Retiring Decades Old Floppy Disks from Air Traffic Control",
+   "url": "https://www.faa.gov/newsroom/trumps-transportation-secretary-sean-p-duffy-begins-retiring-decades-old-floppy-disks-air",
+   "summary": "Article URL: https://www.faa.gov/newsroom/trumps-transportation-secretary-sean-p-duffy-begins-retiring-decades-old-floppy-disks-air Comments URL: https://news.ycombinator.com/item?id=50393183 Points: 26 # Comments: 16",
+   "published_at": 1793977404.0,
+   "published_bj": "2026-11-06 23:03"
+  },
+  {
+   "id": "f5e8544ada7abeab",
+   "source": "Hacker News",
+   "title": "Where Each U.S. State Gets Its Tax Revenue From",
+   "url": "https://www.visualcapitalist.com/where-each-states-tax-revenue-comes-from/",
+   "summary": "Article URL: https://www.visualcapitalist.com/where-each-states-tax-revenue-comes-from/ Comments URL: https://news.ycombinator.com/item?id=50393165 Points: 13 # Comments: 3",
+   "published_at": 1793977327.0,
+   "published_bj": "2026-11-06 23:02"
+  },
+  {
+   "id": "b6ba1ae3b1bd6fe5",
+   "source": "Hacker News",
+   "title": "RIP Cybertruck. You Were Unloved, Unwanted, and Utterly Absurd",
+   "url": "https://www.wired.com/story/rip-cybertruck-you-were-unloved-unwanted-and-utterly-absurd/",
+   "summary": "Article URL: https://www.wired.com/story/rip-cybertruck-you-were-unloved-unwanted-and-utterly-absurd/ Comments URL: https://news.ycombinator.com/item?id=50393154 Points: 84 # Comments: 30",
+   "published_at": 1793977298.0,
+   "published_bj": "2026-11-06 23:01"
+  },
+  {
+   "id": "07ca4d37fae337e1",
+   "source": "Hacker News",
+   "title": "Ask HN: What in the world is taking Ubuntu so long?",
+   "url": "https://news.ycombinator.com/item?id=50393105",
+   "summary": "Ubuntu has CVE-2026-98432 marked as a 9.8, but yet it's coming up on a week with no update to fix it. It's still marked as \"work in progress\" (though at least now they've listed a mitigation): https://ubuntu.com/security/CVE-2026-98432 I've had mitigations in place for a week, but this response is r",
+   "published_at": 1793977113.0,
+   "published_bj": "2026-11-06 22:58"
+  },
+  {
    "id": "c9827cfae5af8903",
    "source": "IT之家",
    "title": "美股 AI 硬件股集体反弹，费城半导体指数涨 6.5%",
@@ -38,6 +173,15 @@
    "summary": "IT之家 11 月 6 日消息，美国股市今日开盘后，AI 硬件产业链全线反弹，费城半导体指数最高涨 6.57%。 个股方面，AMD 涨 13.2%，闪迪涨 11.75%，希捷科技涨 6.34%，美光科技涨 9.07%，迈威尔科技涨 9.46%，Lumentum 涨 9.58%；英伟达涨 6.44%，台积电涨 7.55%，博通涨 4.56%。 IT之家注意到， 美国股市 AI 概念相关股票当地时间周四迎来了暴跌 ，道琼斯工业平均指数收盘下跌超过 1,800 点，跌幅约 3.4%；标普 500 指数下跌 4.4%；纳斯达克综合指数暴跌 5.5%，创 2025 年 4 月以来最大单日跌幅，并跌入技术",
    "published_at": 1793977089.0,
    "published_bj": "2026-11-06 22:58"
+  },
+  {
+   "id": "e312d613aa491cf3",
+   "source": "Hacker News",
+   "title": "Lippitt-Knoster in Practice (Field Notes for Managing Complex Projects)",
+   "url": "https://sharedphysics.com/lippitt-knoster-in-practice-field-notes-for-managing-complex-projects/",
+   "summary": "Article URL: https://sharedphysics.com/lippitt-knoster-in-practice-field-notes-for-managing-complex-projects/ Comments URL: https://news.ycombinator.com/item?id=50393089 Points: 6 # Comments: 0",
+   "published_at": 1793977036.0,
+   "published_bj": "2026-11-06 22:57"
   },
   {
    "id": "af048ad399506a55",
@@ -119,6 +263,15 @@
    "summary": "IT之家 11 月 6 日消息，博主 @数码闲聊站 今日发文透露，iQOO 品牌 7 英寸中端机已开模。据称，该机将配备超万级容量电池， 暂定排期是 2027 年年中前后发布 。 博主还在评论区与网友展开了讨论， 并暗示高端机可能也有 7 英寸屏幕，分辨率达 2K 。据IT之家今日早些时候报道， 消息称 vivo 预计会在 2027 年推出阔直板手机 ，目前早期倾向于小尺寸方案，大概率在 6.5\" 以下。 该博主曾透露，安卓阵营的阔直板手机，O（预计指 OPPO）大概率第一个上，h（预计指荣耀）第二个上，剩下几家进度较缓慢。目前立项阶段有影像阔直板手机、中端阔直板手机、性能阔直板手机等。此外，",
    "published_at": 1793975102.0,
    "published_bj": "2026-11-06 22:25"
+  },
+  {
+   "id": "30cd96e07639912e",
+   "source": "Hacker News",
+   "title": "University libraries are being swarmed by AI bots, putting public access at risk",
+   "url": "https://www.cbc.ca/news/world/university-libraries-ai-data-scraping-bots-9.7408287",
+   "summary": "Article URL: https://www.cbc.ca/news/world/university-libraries-ai-data-scraping-bots-9.7408287 Comments URL: https://news.ycombinator.com/item?id=50392499 Points: 50 # Comments: 26",
+   "published_at": 1793974389.0,
+   "published_bj": "2026-11-06 22:13"
   },
   {
    "id": "d8550abc65d096d5",
@@ -884,6 +1037,15 @@
    "summary": "IT之家 11 月 6 日消息，比亚迪仰望汽车官方今日宣布，仰望 U9X 阿布扎比公共道路极速挑战，锚定全球豪华新标， 以 503.17km/h 的成绩再创全球极速新纪录 。 突破 500km/h 是人类汽车工业追逐百年的速度边界，也是传统动力时代难以逾越的极限。2025 年 9 月，比亚迪仰望 U9 Xtreme 赛道版迎来全球首秀，官方公布了这款超跑的极速成绩： 德国 ATP 测试场官方认证成绩 496.22km/h ， 取得“无定语”的世界第一 。 IT之家从比亚迪官方了解到，在 2025 年取得这一极速成绩后，仰望团队通过数据分析， 判断车辆的热管理、电机及轮胎仍有性能余量 ，于是决定",
    "published_at": 1793956802.0,
    "published_bj": "2026-11-06 17:20"
+  },
+  {
+   "id": "9734dc4adeaa3693",
+   "source": "Hacker News",
+   "title": "AI for scientific discovery: How researchers use Claude",
+   "url": "https://www.anthropic.com/research/how-researchers-use-claude",
+   "summary": "Article URL: https://www.anthropic.com/research/how-researchers-use-claude Comments URL: https://news.ycombinator.com/item?id=50389990 Points: 31 # Comments: 4",
+   "published_at": 1793956410.0,
+   "published_bj": "2026-11-06 17:13"
   },
   {
    "id": "84115a92a8d51f5b",
@@ -3440,168 +3602,6 @@
    "summary": "Article URL: https://www.horace.org/blog/wp-content/uploads/2012/05/How-to-Lie-With-Statistics-1954-Huff.pdf Comments URL: https://news.ycombinator.com/item?id=50382594 Points: 26 # Comments: 2",
    "published_at": 1793903362.0,
    "published_bj": "2026-11-06 02:29"
-  },
-  {
-   "id": "9fe32167adfa2a06",
-   "source": "Hacker News",
-   "title": "How to Lie With Statistics (1954)",
-   "url": "https://archive.org/details/howtoliewithstat00huff",
-   "summary": "Article URL: https://archive.org/details/howtoliewithstat00huff Comments URL: https://news.ycombinator.com/item?id=50382594 Points: 45 # Comments: 6",
-   "published_at": 1793903362.0,
-   "published_bj": "2026-11-06 02:29"
-  },
-  {
-   "id": "6b4623e5f52f059f",
-   "source": "Hacker News",
-   "title": "NTS: Authenticated Time at Meta",
-   "url": "https://engineering.fb.com/2026/10/06/production-engineering/nts-authenticated-time-at-meta/",
-   "summary": "Article URL: https://engineering.fb.com/2026/10/06/production-engineering/nts-authenticated-time-at-meta/ Comments URL: https://news.ycombinator.com/item?id=50382525 Points: 9 # Comments: 3",
-   "published_at": 1793903068.0,
-   "published_bj": "2026-11-06 02:24"
-  },
-  {
-   "id": "08bf1faf734600df",
-   "source": "TechCrunch",
-   "title": "OpenAI president Greg Brockman says company could be IPO ready in 2027",
-   "url": "https://techcrunch.com/2026/11/05/openai-president-greg-brockman-says-company-could-be-ipo-ready-in-2027/",
-   "summary": "OpenAI President Greg Brockman says the company could be ready to go public in 2027, pointing to accelerating enterprise revenue and a turnaround in its business.",
-   "published_at": 1793901747.0,
-   "published_bj": "2026-11-06 02:02"
-  },
-  {
-   "id": "d0baab27b3e7c20d",
-   "source": "Hacker News",
-   "title": "Nasdaq Sinks 5% as Investors Retreat from AI Trade After Election",
-   "url": "https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-11-05-2026",
-   "summary": "Article URL: https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-11-05-2026 Comments URL: https://news.ycombinator.com/item?id=50382179 Points: 48 # Comments: 28",
-   "published_at": 1793901601.0,
-   "published_bj": "2026-11-06 02:00"
-  },
-  {
-   "id": "821879543441364c",
-   "source": "TechCrunch",
-   "title": "The ex-Secret Service agent who flipped a hacker is now raising a second $250M cybersecurity fund",
-   "url": "https://techcrunch.com/2026/11/05/the-ex-secret-service-agent-who-flipped-a-hacker-is-now-raising-a-second-250m-cybersecurity-fund/",
-   "summary": "Stephen Ward, a former Secret Service agent and Home Depot CISO, is preparing a second fund of roughly $250 million for Brightmind Partners.",
-   "published_at": 1793901600.0,
-   "published_bj": "2026-11-06 02:00"
-  },
-  {
-   "id": "42cc8e95e936b719",
-   "source": "TechCrunch",
-   "title": "Claude can now analyze your spending with its new Personal Finance tool",
-   "url": "https://techcrunch.com/2026/11/05/claude-can-now-analyze-your-spending-with-its-new-personal-finance-tool/",
-   "summary": "With Personal Finance in Claude, users can connect their bank and card accounts through Plaid and ask questions about their finances.",
-   "published_at": 1793901600.0,
-   "published_bj": "2026-11-06 02:00"
-  },
-  {
-   "id": "179d25654c362e42",
-   "source": "TechCrunch",
-   "title": "Harbinger raises $240M after expanding into defense",
-   "url": "https://techcrunch.com/2026/11/05/harbinger-raises-240m-after-expanding-into-defense/",
-   "summary": "The Los Angeles-based startup has now raised more than $650 million, and is working on electric trucks, emergency vehicles, and a driverless platform for the military.",
-   "published_at": 1793901164.0,
-   "published_bj": "2026-11-06 01:52"
-  },
-  {
-   "id": "1dbe4e4c0dd3a828",
-   "source": "cnBeta",
-   "title": "美国FAA空管系统启动大规模现代化升级 终于告别软盘时代",
-   "url": "https://www.cnbeta.com.tw/articles/tech/1585172.htm",
-   "summary": "美国联邦航空管理局（FAA）正在推进一项备受关注的现代化计划，准备正式淘汰已经服役数十年的3.5英寸软盘系统。美国交通部长肖恩·达菲近日宣布，FAA开始部署全新的企业信息显示系统（Enterprise Information Display System，简称E-IDS），以取代目前仍在全美400多个空中交通管制设施中运行的多套老旧系统。 阅读全文",
-   "published_at": 1793900765.0,
-   "published_bj": "2026-11-06 01:46"
-  },
-  {
-   "id": "0222ecfea67d229c",
-   "source": "cnBeta",
-   "title": "OpenAI推出GPT-6 Cyber：漏洞挖掘能力大幅提升 越权攻击风险显著降低",
-   "url": "https://www.cnbeta.com.tw/articles/tech/1585170.htm",
-   "summary": "OpenAI正式推出新一代网络安全人工智能模型GPT-6 Cyber，重点提升软件漏洞发现、网络安全防御以及自主执行安全测试的能力。与此前版本相比，新模型不仅在网络安全相关基准测试中取得更高成绩，还显著降低了执行任务时偏离授权范围、擅自攻击其他平台的概率。 阅读全文",
-   "published_at": 1793900681.0,
-   "published_bj": "2026-11-06 01:44"
-  },
-  {
-   "id": "723b8deeeed825ce",
-   "source": "cnBeta",
-   "title": "​AMD新一代“Medusa Point” APU现身跑分数据库",
-   "url": "https://www.cnbeta.com.tw/articles/tech/1585168.htm",
-   "summary": "AMD下一代“Medusa Point”APU近日出现在Geekbench测试数据库中，首次展示了其10核20线程的CPU配置。从现有信息来看，该处理器采用混合架构设计，由4个“Zen 6”核心和6个“Zen 6c”核心组成，表明AMD将在新一代移动平台上继续沿用大小核混合方案。 阅读全文",
-   "published_at": 1793900617.0,
-   "published_bj": "2026-11-06 01:43"
-  },
-  {
-   "id": "c03c71219df4f8dc",
-   "source": "Hacker News",
-   "title": "Launch HN: Rivet (YC W23) – Scale and Orchestrate Agents on S3",
-   "url": "https://github.com/rivet-dev/rivet",
-   "summary": "Hey HN, this is Nathan and Nicholas from Rivet ( https://rivet.dev ) – a fast, high-density, and scalable orchestrator for agentic workloads using the actor model. Rather than running a heavyweight sandbox per agent, each agent gets a lightweight actor backed by S3. Actors provide a long-lived proce",
-   "published_at": 1793899062.0,
-   "published_bj": "2026-11-06 01:17"
-  },
-  {
-   "id": "9d10a3fa337fd95f",
-   "source": "TechCrunch",
-   "title": "Food delivery startup Wonder files for IPO as it explores its next big bite",
-   "url": "https://techcrunch.com/2026/11/05/food-delivery-startup-wonder-files-for-ipo-as-it-explores-its-next-big-bite/",
-   "summary": "Following years of fundraising, acquisitions, and expansion, food delivery startup Wonder is moving closer to becoming a publicly traded company.",
-   "published_at": 1793898708.0,
-   "published_bj": "2026-11-06 01:11"
-  },
-  {
-   "id": "5f96f1325ba99323",
-   "source": "Hacker News",
-   "title": "Nasdaq plummets 4% into correction territory",
-   "url": "https://www.cnbc.com/2026/11/04/stock-market-today-live-updates.html",
-   "summary": "Article URL: https://www.cnbc.com/2026/11/04/stock-market-today-live-updates.html Comments URL: https://news.ycombinator.com/item?id=50381623 Points: 64 # Comments: 37",
-   "published_at": 1793898675.0,
-   "published_bj": "2026-11-06 01:11"
-  },
-  {
-   "id": "973bcc87ab1e9782",
-   "source": "InfoQ中文",
-   "title": "PHP 修复了两处已遭到攻击的严重远程代码执行漏洞",
-   "url": "https://www.infoq.cn/article/qUEjcWbwOj5RO59250Lu?utm_source=rss&utm_medium=article",
-   "summary": "点击查看原文>",
-   "published_at": 1793898360.0,
-   "published_bj": "2026-11-06 01:06"
-  },
-  {
-   "id": "4972ddb66dfbf14f",
-   "source": "Hacker News",
-   "title": "Bild AI (YC W25) Is Hiring Founding Product Engineers",
-   "url": "https://www.ycombinator.com/companies/bild-ai/jobs",
-   "summary": "Article URL: https://www.ycombinator.com/companies/bild-ai/jobs Comments URL: https://news.ycombinator.com/item?id=50381512 Points: 0 # Comments: 0",
-   "published_at": 1793898083.0,
-   "published_bj": "2026-11-06 01:01"
-  },
-  {
-   "id": "af90296d61eec129",
-   "source": "InfoQ中文",
-   "title": "Claude Code 产品负责人Cut Wu 官宣加入 OpenAI",
-   "url": "https://www.infoq.cn/article/cDERcarozbrsCBNs5sWM?utm_source=rss&utm_medium=article",
-   "summary": "点击查看原文>",
-   "published_at": 1793897601.0,
-   "published_bj": "2026-11-06 00:53"
-  },
-  {
-   "id": "5c2fd9804ef368a5",
-   "source": "Solidot",
-   "title": "印度金融机构遭黑客利用 AI 工具发动的网络攻击",
-   "url": "https://www.solidot.org/story?sid=85809",
-   "summary": "印度计算机应急响应小组（CERT-In）星期三发布安全通报，被称为“狡猾猎鹰”（Crafty Falcon）的黑客组织，已入侵非银行贷款机构、金融科技公司及加密货币交易所。攻击者利用公开可用的 AI 工具，实现高速自动化入侵。印度计算机应急响应小组形容这项威胁“仍在发生，且持续活跃”。该机构点名四款用于入侵的工具，分别是 ARTEX、PentAGI、Cairn 和 CyberStrikeAI。ARTEX 此前曾被用于攻击韩国银行。印度计算机应急响应小组没有说明这些攻击事件由谁发动，也未透露该组织的运作地点。该机构也没有称这些攻击由国家支持或主导，且其点名的攻击工具均可在网络上免费获取。",
-   "published_at": 1793897580.0,
-   "published_bj": "2026-11-06 00:53"
-  },
-  {
-   "id": "67feb076f03502e2",
-   "source": "Hacker News",
-   "title": "Window Sweaters",
-   "url": "https://github.com/saragordic/window-sweaters",
-   "summary": "Article URL: https://github.com/saragordic/window-sweaters Comments URL: https://news.ycombinator.com/item?id=50381383 Points: 16 # Comments: 1",
-   "published_at": 1793897414.0,
-   "published_bj": "2026-11-06 00:50"
   }
  ]
 }

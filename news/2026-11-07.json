@@ -1,7 +1,7 @@
 {
  "date": "2026-11-07",
- "generated_at": 1793977546.2578201,
- "count": 1,
+ "generated_at": 1793981214.452202,
+ "count": 3,
  "items": [
   {
    "id": "62dc2858fe64433c",
@@ -11,6 +11,24 @@
    "summary": "点击查看原文>",
    "published_at": 1793984400.0,
    "published_bj": "2026-11-07 01:00"
+  },
+  {
+   "id": "6ea133954c21768f",
+   "source": "TechCrunch",
+   "title": "Fox completes its $22B acquisition of Roku",
+   "url": "https://techcrunch.com/2026/11/06/fox-completes-its-22b-acquisition-of-roku/",
+   "summary": "A few months after DOJ investigators were probing the deal, Fox just completed its $22B acquisition of the streaming giant Roku.",
+   "published_at": 1793981136.0,
+   "published_bj": "2026-11-07 00:05"
+  },
+  {
+   "id": "c4e372e7cf71b043",
+   "source": "IT之家",
+   "title": "今日立冬：倏忽秋又尽，今朝恰立冬",
+   "url": "https://www.ithome.com/1/023/601.htm",
+   "summary": "IT之家 11 月 7 日消息，立冬是农历二十四节气之一，也是中国传统节日之一；时间点在公历每年 11 月 7-8 日之间。 ①今日立冬，冬天来了。水始冰，地渐冻，日照短，寒风劲；②我国民间习惯上把这一天当作冬季的开始；③“立冬补冬，补嘴空”，北方人吃饺子，南方人吃鸡鸭鱼肉；④起居应注意保暖，早睡晚起，勤晒太阳，并辅以运动和精神调养。 《月令七十二候集解》是这样记载立冬的：“立冬，十月节。立，建始也，五行之气，往者过，来者续。冬，终也，万物收藏也。水始冰。水面初凝，未至于坚也。地始冻。土气凝寒，未至于拆。” 立冬是农历二十四节气中的第十九个节气，时间点在每年 11 月 7 日或 8 日，这是一",
+   "published_at": 1793980801.0,
+   "published_bj": "2026-11-07 00:00"
   }
  ]
 }
