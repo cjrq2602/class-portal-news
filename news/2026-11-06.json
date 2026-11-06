@@ -1,7 +1,7 @@
 {
  "date": "2026-11-06",
- "generated_at": 1793969507.2455473,
- "count": 377,
+ "generated_at": 1793973877.3992298,
+ "count": 397,
  "items": [
   {
    "id": "348845feaa0534b3",
@@ -31,6 +31,114 @@
    "published_bj": "2026-11-06 22:01"
   },
   {
+   "id": "08c0fb2a9b68b608",
+   "source": "IT之家",
+   "title": "字节跳动出售沐瞳科技获市场监管总局批准，交易价格超 60 亿美元",
+   "url": "https://www.ithome.com/1/023/550.htm",
+   "summary": "IT之家 11 月 6 日消息，国家市场监督管理总局今日公布 2026 年 10 月 26 日至 11 月 1 日无条件批准经营者集中案件列表。 IT之家注意到，沙特电子游戏控股公司收购沐瞳控股有限公司等两家公司股权案获无条件批准，审结时间为 10 月 29 日。 该批准为中国反垄断审查环节，交易最终交割仍需满足协议约定的其他条件。 此前，字节跳动已与沙特公共投资基金（PIF）旗下 Savvy Games Group 达成最终协议， 出售沐瞳科技交易价格超过 60 亿美元 （IT之家注：现汇率约合 400.95 亿元人民币） 。 沐瞳成立于 2014 年。公司总部位于上海，在新加坡、秘鲁、马来",
+   "published_at": 1793973406.0,
+   "published_bj": "2026-11-06 21:56"
+  },
+  {
+   "id": "f35f064fc441e10b",
+   "source": "IT之家",
+   "title": "Twelve South 推出 Cablesnap 充电器：内置 USB-C 伸缩线、65W 功率，附带欧规英规转换头",
+   "url": "https://www.ithome.com/1/023/549.htm",
+   "summary": "IT之家 11 月 6 日消息，数码配件制造商 Twelve South 本周推出全新 Cablesnap 旅行充电器，新品采用内置 USB-C 伸缩线设计，并带有额外的 USB-C 和 USB-A 接口， 售价 49.99 美元 （IT之家注：现汇率约合 334.1 元人民币） 。 据介绍，这款充电器内置一根 29 英寸的弹簧式 USB-C 线缆，用户可以根据需要拉出合适长度。用完充电器后，您只需要轻轻拉动线缆，它就会自动收回充电器里面。 同时，这款充电器内置一个独立 USB-C 和 USB-A 接口，最高功率为 65W，足以为 iPhone 快速充电，或同时为 MacBook Air 和 ",
+   "published_at": 1793972769.0,
+   "published_bj": "2026-11-06 21:46"
+  },
+  {
+   "id": "40c4c2f5ca700d85",
+   "source": "Hacker News",
+   "title": "Gemini Omni 1.2 Flash",
+   "url": "https://blog.google/innovation-and-ai/technology/developers-tools/introducing-gemini-omni-1-2-flash/",
+   "summary": "Article URL: https://blog.google/innovation-and-ai/technology/developers-tools/introducing-gemini-omni-1-2-flash/ Comments URL: https://news.ycombinator.com/item?id=50392118 Points: 6 # Comments: 0",
+   "published_at": 1793972127.0,
+   "published_bj": "2026-11-06 21:35"
+  },
+  {
+   "id": "f350b34dc43b74bd",
+   "source": "cnBeta",
+   "title": "中国存储芯片厂商长鑫存储三季度市场份额回落至9%",
+   "url": "https://www.cnbeta.com.tw/articles/tech/1585308.htm",
+   "summary": "中国最大的DRAM内存芯片制造商长鑫存储（CXMT）在2026年第三季度面临市场份额增长压力。随着三星电子进一步扩大内存芯片产能，以及全球存储市场逐渐向高带宽内存（HBM）倾斜，长鑫存储的DRAM市场份额从第二季度的10%回落至9%。不过，与去年同期相比，其市场份额仍然增加了4个百分点，显示公司仍处于快速扩张阶段。 阅读全文",
+   "published_at": 1793972026.0,
+   "published_bj": "2026-11-06 21:33"
+  },
+  {
+   "id": "01a4f1e4370e093c",
+   "source": "cnBeta",
+   "title": "微软Xbox业务出售传闻升温 分析师认为美国中期选举可能加速微软剥离游戏部门",
+   "url": "https://www.cnbeta.com.tw/articles/game/1585306.htm",
+   "summary": "微软旗下Xbox游戏业务可能面临成立以来最重大的战略转折。随着美国民主党在2026年中期选举中重新掌握国会控制权，围绕大型数据中心建设、人工智能基础设施投资以及能源消耗的政治争议进一步扩大。一名游戏产业分析师认为，这种政治环境变化可能促使微软重新评估Xbox业务的战略价值，甚至考虑将其整体出售。 阅读全文",
+   "published_at": 1793971978.0,
+   "published_bj": "2026-11-06 21:32"
+  },
+  {
+   "id": "592d4ffbcfc68c7f",
+   "source": "IT之家",
+   "title": "GOG 游戏平台将于明年支持 Linux 系统，利好 Steam Deck 用户",
+   "url": "https://www.ithome.com/1/023/547.htm",
+   "summary": "IT之家 11 月 6 日消息，GOG 平台近日宣布，GOG Galaxy 游戏启动器将于 2027 年实现原生 Linux 支持。未来 Steam Deck、Steam Machine 用户，将能够在这个无 DRM 平台上购买、游玩游戏。 据介绍，GOG Galaxy 游戏启动器将在近期迎来一次大改版，Windows 和 macOS 版本将带来更快的启动速度、现代化界面，以及更完善的筛选功能。 IT之家注意到，GOG 此前一直没有推出 Linux 版本启动器，用户只能寻找第三方替代方案。其中一种比较受欢迎的替代工具是 Heroic Games Launcher，它可以安装和管理 GOG 游戏",
+   "published_at": 1793971873.0,
+   "published_bj": "2026-11-06 21:31"
+  },
+  {
+   "id": "5038f9d7bbb5cca2",
+   "source": "IT之家",
+   "title": "《星闪短距与具身智能技术需求蓝皮书》正式上线，华为、中兴、鼎桥等参编",
+   "url": "https://www.ithome.com/1/023/546.htm",
+   "summary": "IT之家 11 月 6 日消息，国际星闪联盟今日宣布，11 月 6 日， 《星闪短距与具身智能技术需求蓝皮书》已在国际星闪联盟官网正式上线 。 据介绍，蓝皮书由星闪具身智能 SIG 三十余家核心成员单位（ 包括中国移动通信有限公司研究院、华为技术有限公司、中兴通讯股份有限公司、鼎桥技术有限公司等 ）共同编制，聚焦星闪技术与具身智能的融合发展，梳理行业真实技术需求，构建完整的全栈技术与网络架构，进而为产业共建提供指引。 ▲ 《星闪短距与具身智能技术需求蓝皮书》参编单位 蓝皮书明确了星闪三大核心应用场景： 单机本体内部互联、多设备协同交互和端‑边‑云协同调度 。 ▲ 《星闪短距与具身智能技术需求蓝",
+   "published_at": 1793971777.0,
+   "published_bj": "2026-11-06 21:29"
+  },
+  {
+   "id": "1d8f94190ceb3fa5",
+   "source": "IT之家",
+   "title": "美团回应“大众点评 V8 用户威胁商家免单”：视频系摆拍，新用户和 Lv8 老用户评价基础流量和权重完全相同",
+   "url": "https://www.ithome.com/1/023/545.htm",
+   "summary": "IT之家 11 月 6 日消息，近期有网友发布短视频，称有大众点评 V8 用户以差评威胁商家“免单”的情况。 美团今日发文表示，11 月 5 日，媒体暗访揭露了这系列视频背后真相，联系相关商家求证，发现此类视频情节高度雷同， 均为摆拍 ，部分视频扮演顾客的甚至就是老板。 与此同时，大众点评客服在社交媒体也尝试联系了上述商家，均未得到任何回复，且根据这些视频透露的信息进行排查，未发现任何点评用户的违规勒索行为。 IT之家获悉，美团在声明中表示， 大众点评坚决查处所有恶意差评行为 ，尤其是涉嫌勒索，更是平台高压线。 自成立以来，大众点评的评价规则一直一视同仁， 不管是新注册用户还是 Lv8 的老用",
+   "published_at": 1793971434.0,
+   "published_bj": "2026-11-06 21:23"
+  },
+  {
+   "id": "7d420ea42601d901",
+   "source": "IT之家",
+   "title": "欧盟：判断欧洲多起航空威胁事件是否关联为时尚早，各国相关部门仍在开展调查",
+   "url": "https://www.ithome.com/1/023/544.htm",
+   "summary": "IT之家 11 月 6 日消息，据央视新闻报道，针对欧洲多架客机遭炸弹威胁事件，欧盟委员会 5 日表示， 目前就已报告的事件是否存在关联作出结论为时尚早 ，各国相关部门仍在开展调查。 图源：Pixabay 欧盟委员会负责可持续交通和旅游的委员齐齐科斯塔斯当天在爱尔兰首都都柏林举行的新闻发布会上作出相同表态，他称， 欧盟已启动航空安保信息共享机制，目前就这些事件是否存在关联作出结论为时尚早 ，也尚无信息可以判断这些事件是否涉及网络攻击。 齐齐科斯塔斯表示，任何针对平民的威胁都不可接受，保障民众安全始终是优先事项。欧盟正密切关注事态发展，并与受影响成员国保持联系。他当天已与欧盟航空安全局联系，讨论",
+   "published_at": 1793971228.0,
+   "published_bj": "2026-11-06 21:20"
+  },
+  {
+   "id": "eb98b9c88679e43f",
+   "source": "IT之家",
+   "title": "Brightspeed 与英伟达洽谈，计划将 130 多座老旧电信建筑改造为小型数据中心",
+   "url": "https://www.ithome.com/1/023/543.htm",
+   "summary": "IT之家 11 月 6 日消息，据 The Information 报道，互联网电信服务提供商 Brightspeed 正与英伟达洽谈，计划将多座老旧电信建筑改造为小型数据中心。 IT之家从原报道获悉， 英伟达曾在此前向 Brightspeed 母公司阿波罗全球管理提出这一设想 ，后来他们要求英伟达提交书面方案。英伟达目前已按要求提交，正进一步获取相关信息，并希望实地考察这些建筑。 Brightspeed 在美国拥有约 130 座建筑， 其中大部分用于处理数据和语音通信流量 。英伟达预计这些设施合计可提供约 1 吉瓦的算力，能容纳 2200 多个 Supermicro Vera Rubin N",
+   "published_at": 1793970817.0,
+   "published_bj": "2026-11-06 21:13"
+  },
+  {
+   "id": "c14a6ffdf827e456",
+   "source": "IT之家",
+   "title": "消息称苹果 Action Button 操作按钮将在明年下半年的新款 iPhone 正式退幕",
+   "url": "https://www.ithome.com/1/023/542.htm",
+   "summary": "IT之家 11 月 6 日消息，博主 @刹那数码 今日发文透露，苹果 Action Button 操作按钮， 将在明年下半年的新款 iPhone 上正式退幕 。 博主称，该按键将与相机按钮进行整合 —— 单击进入相机，长按 Action Button 操作 。 IT之家注：苹果公司自 2007 年推出初代 iPhone 以来，过去的硬件产品更迭中，始终保留了静音拨片，而在 2023 年发布的 iPhone 15 Pro 系列中，静音拨片退出舞台，改用操作按钮。苹果官方对这项功能的描述如下： 在 iPhone 15 Pro 和 iPhone 15 Pro Max 上，操作按钮取代了响铃 / 静音",
+   "published_at": 1793970750.0,
+   "published_bj": "2026-11-06 21:12"
+  },
+  {
+   "id": "6ac6de073c9f9f89",
+   "source": "TechCrunch",
+   "title": "Underdog shows off a 32MB speech model in new demo",
+   "url": "https://techcrunch.com/2026/11/06/underdog-shows-off-a-32mb-speech-model-in-new-demo/",
+   "summary": "Despite its small size, Underdog's new model can generate both speech and music.",
+   "published_at": 1793970136.0,
+   "published_bj": "2026-11-06 21:02"
+  },
+  {
    "id": "6fbe3bf68d3f90e5",
    "source": "InfoQ中文",
    "title": "智能体 Harness 的演进：从链、图到代码化",
@@ -38,6 +146,69 @@
    "summary": "点击查看原文>",
    "published_at": 1793970000.0,
    "published_bj": "2026-11-06 21:00"
+  },
+  {
+   "id": "02158c99f1057e62",
+   "source": "TechCrunch",
+   "title": "Physicl raises $10M to make the digital world real enough for robots",
+   "url": "https://techcrunch.com/2026/11/06/physicl-raises-10m-to-make-the-digital-world-real-enough-for-robots/",
+   "summary": "Physicl is trying to solve the sim-to-real gap with a pipeline originally built to market goods online.",
+   "published_at": 1793970000.0,
+   "published_bj": "2026-11-06 21:00"
+  },
+  {
+   "id": "6cb1952e86ab5cad",
+   "source": "cnBeta",
+   "title": "民主党议员要求苹果公开特朗普白宫宴会厅捐款细节",
+   "url": "https://www.cnbeta.com.tw/articles/tech/1585304.htm",
+   "summary": "美国苹果公司正面临来自国会民主党人的新一轮质询。原因是此前曝光的一份捐款名单显示，苹果曾承诺为美国总统唐纳德·特朗普推动建设的白宫宴会厅项目提供2500万美元资金支持，而这一消息随即引发有关企业政治捐款透明度和潜在利益冲突的讨论。 阅读全文",
+   "published_at": 1793969970.0,
+   "published_bj": "2026-11-06 20:59"
+  },
+  {
+   "id": "43df4ce15720c9ee",
+   "source": "cnBeta",
+   "title": "微软阿姆斯特丹数据中心工地遭示威者闯入 约百人参与抗议",
+   "url": "https://www.cnbeta.com.tw/articles/tech/1585302.htm",
+   "summary": "微软位于荷兰阿姆斯特丹的一处新数据中心建设工地，11月6日遭到环保及社会活动人士闯入。约100名示威者进入施工区域，部分人员爬上起重机，并悬挂带有反人工智能口号的横幅。这场抗议再次凸显欧洲社会对大型数据中心建设及人工智能产业扩张的反对情绪正在升温。 阅读全文",
+   "published_at": 1793969890.0,
+   "published_bj": "2026-11-06 20:58"
+  },
+  {
+   "id": "8f8fc5d6cf9f5d67",
+   "source": "IT之家",
+   "title": "消息称韩版三星 Galaxy S27 Pro、S27 Ultra 将采用高通骁龙 8 Elite Gen 6 系列芯片",
+   "url": "https://www.ithome.com/1/023/541.htm",
+   "summary": "IT之家 11 月 6 日消息，据科技媒体 Sammobile 今天报道，自 Exynos 2400 以来，三星每一代自研移动处理器几乎都有所进步。尽管有传闻称 Exynos 2700 将成为三星迄今最出色芯片，但 Galaxy S27 Pro 和 Galaxy S27 Ultra 手机仍有可能继续使用高通骁龙。 爆料人士 yeux1122 表示，三星计划让韩版 Galaxy S27 Pro 和 Galaxy S27 Ultra 机型采用高通芯片， 分别为骁龙 8 Elite Gen 6 和骁龙 8 Elite Extreme Gen 6 。据称三星此举是受到财务限制，目前三星的产品设计和零部",
+   "published_at": 1793969877.0,
+   "published_bj": "2026-11-06 20:57"
+  },
+  {
+   "id": "0fbb3eee6a8458cb",
+   "source": "cnBeta",
+   "title": "巴拉圭总统因数字银行危机辞职 300万储户账户被冻结引发全国震荡",
+   "url": "https://www.cnbeta.com.tw/articles/tech/1585300.htm",
+   "summary": "巴拉圭总统圣地亚哥·培尼亚日前宣布辞职，此前该国数字银行Ueno因严重资不抵债问题被监管机构接管，导致约300万客户无法访问账户，引发金融危机和政治风暴。这场事件不仅动摇了巴拉圭金融体系，也将总统及其政府与银行之间的关系推上舆论风口浪尖。 阅读全文",
+   "published_at": 1793969861.0,
+   "published_bj": "2026-11-06 20:57"
+  },
+  {
+   "id": "41f4d22fd88bbb63",
+   "source": "cnBeta",
+   "title": "微软或将在2027年推出Windows 11 27H2 性能升级力度有望创近年之最",
+   "url": "https://www.cnbeta.com.tw/articles/tech/1585298.htm",
+   "summary": "微软正在为2027年准备一次规模空前的Windows 11更新。与外界长期猜测的Windows 12不同，微软当前似乎更倾向于继续强化Windows 11平台，而计划中的Windows 11 27H2有望成为自2024年24H2版本以来最重要的一次系统升级，在性能、稳定性以及用户体验方面带来显著改进。 阅读全文",
+   "published_at": 1793969577.0,
+   "published_bj": "2026-11-06 20:52"
+  },
+  {
+   "id": "d7da672c4eb92383",
+   "source": "cnBeta",
+   "title": "Meta警告美国中期选举结果或拖慢数据中心建设步伐 AI扩张面临更大阻力",
+   "url": "https://www.cnbeta.com.tw/articles/tech/1585296.htm",
+   "summary": "Meta高管日前表示，2026年美国中期选举结果可能使科技企业未来建设数据中心变得更加困难。随着民主党在本届选举中取得显著胜利，围绕数据中心及人工智能基础设施发展的争议正在升温，Meta担心这股政治与社会层面的反对声音可能影响其未来投资计划。 阅读全文",
+   "published_at": 1793969521.0,
+   "published_bj": "2026-11-06 20:52"
   },
   {
    "id": "d7001b23383e72b8",
@@ -155,6 +326,15 @@
    "summary": "IT之家 11 月 6 日消息，据多位博主今日分享， 问界业务联合团队誓师大会今日在重庆举行 。 据称，赛力斯汽车公司董事长、张兴海之子张正萍与华为董事、终端 BG CEO 何刚共同出席了大会的授旗仪式。 参考IT之家此前报道，鸿蒙智行今年 9 月发布声明称， 问界将在鸿蒙智行合作框架下探索新合作模式 ：产品定义、产品设计、品牌营销、渠道零售、服务体系由赛力斯主导，华为终端参与赋能。问界仍然是鸿蒙智行大家庭的成员之一。 今年 10 月， 鸿蒙智行官方宣布华为与赛力斯达成新的五年合作 。在 9 月 30 日，鸿蒙智行问界业务升级战略合作签约仪式在深圳举行。华为常务董事、产品投资评审委员会主任、终",
    "published_at": 1793968032.0,
    "published_bj": "2026-11-06 20:27"
+  },
+  {
+   "id": "99dbea86f7ef5e40",
+   "source": "Hacker News",
+   "title": "Tesla winds down Cybertruck production after years of poor sales in few markets",
+   "url": "https://www.msn.com/en-us/technology/tech-companies/tesla-to-wind-down-cybertruck-production-after-years-of-poor-sales-in-few-markets/ar-AA2gSZGv",
+   "summary": "Article URL: https://www.msn.com/en-us/technology/tech-companies/tesla-to-wind-down-cybertruck-production-after-years-of-poor-sales-in-few-markets/ar-AA2gSZGv Comments URL: https://news.ycombinator.com/item?id=50391456 Points: 97 # Comments: 77",
+   "published_at": 1793967231.0,
+   "published_bj": "2026-11-06 20:13"
   },
   {
    "id": "658b4c0d95d9be7e",
