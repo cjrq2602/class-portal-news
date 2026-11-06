@@ -1,8 +1,80 @@
 {
  "date": "2026-11-07",
- "generated_at": 1794004688.3092995,
- "count": 3,
+ "generated_at": 1794007189.5064235,
+ "count": 11,
  "items": [
+  {
+   "id": "bf699fad6bb4ff55",
+   "source": "中新网即时",
+   "title": "网友自称“花260万元登顶珠峰”系谣言！",
+   "url": "https://www.chinanews.com.cn/sh/2026/11-07/10727737.shtml",
+   "summary": "真相来了丨网友自称“花260万元登顶珠峰”系谣言！",
+   "published_at": 1794006570.0,
+   "published_bj": "2026-11-07 07:09"
+  },
+  {
+   "id": "0ed92cfb18322312",
+   "source": "中新网即时",
+   "title": "11月7日新闻早报",
+   "url": "https://www.chinanews.com.cn/iframe/2026/11-07/10727736.shtml",
+   "summary": "",
+   "published_at": 1794005974.0,
+   "published_bj": "2026-11-07 06:59"
+  },
+  {
+   "id": "3e154c8a4f04836c",
+   "source": "中新网即时",
+   "title": "直播海报：谁是舞王？国际街舞联赛全球总决赛热血开跳",
+   "url": "https://www.chinanews.com.cn/sh/2026/11-07/10727735.shtml",
+   "summary": "",
+   "published_at": 1794005753.0,
+   "published_bj": "2026-11-07 06:55"
+  },
+  {
+   "id": "3254e3eb43a3e2dc",
+   "source": "中新网即时",
+   "title": "德国一小型飞机坠毁 机上2人遇难",
+   "url": "https://www.chinanews.com.cn/gj/2026/11-07/10727731.shtml",
+   "summary": "中新社柏林11月6日电 德国萨克森-安哈尔特州马格德堡警方6日通报，一架小型飞机当天下午坠毁在该州境内的2号高速公路并起火，机上2人遇难。",
+   "published_at": 1794004941.0,
+   "published_bj": "2026-11-07 06:42"
+  },
+  {
+   "id": "d249ee9299694327",
+   "source": "中新网即时",
+   "title": "菲律宾妇女团体抗议美国扩大军事存在 反对“硅和平”倡议",
+   "url": "https://www.chinanews.com.cn/gj/2026/11-07/10727730.shtml",
+   "summary": "中新社马尼拉11月7日电 (记者 周璟)来自菲律宾多个妇女组织的负责人、劳工权益倡导者和原住民代表6日在马尼拉举行发布会，反对美国扩大在菲军事存在及其主导的“硅和平”(Pax Silica)倡议，呼吁维护国家主权、保障劳动者权益。",
+   "published_at": 1794004881.0,
+   "published_bj": "2026-11-07 06:41"
+  },
+  {
+   "id": "8775882bb6cff00f",
+   "source": "中新网即时",
+   "title": "特朗普宣布任命斯蒂芬·米勒为白宫幕僚长",
+   "url": "https://www.chinanews.com.cn/gj/2026/11-07/10727732.shtml",
+   "summary": "中新社华盛顿11月6日电 美国总统特朗普6日宣布，斯蒂芬·米勒(Stephen Miller)将接替苏茜·怀尔斯出任白宫幕僚长。",
+   "published_at": 1794004825.0,
+   "published_bj": "2026-11-07 06:40"
+  },
+  {
+   "id": "70a1376f6f56b677",
+   "source": "中新网即时",
+   "title": "秋冬降温，为什么老年人更容易感冒、咳嗽？",
+   "url": "https://www.chinanews.com.cn/jk/2026/11-07/10727733.shtml",
+   "summary": "天气转凉，老年人就该“娇气”些",
+   "published_at": 1794004556.0,
+   "published_bj": "2026-11-07 06:35"
+  },
+  {
+   "id": "63b0317a1395b7cb",
+   "source": "中新网即时",
+   "title": "中央气象台发布暴雪黄色预警 京津冀等局地有大到暴雪",
+   "url": "https://www.chinanews.com.cn/sh/2026/11-07/10727734.shtml",
+   "summary": "中央气象台11月7日06时发布暴雪黄色预警：",
+   "published_at": 1794003842.0,
+   "published_bj": "2026-11-07 06:24"
+  },
   {
    "id": "c891f790dfc3e423",
    "source": "中新网即时",

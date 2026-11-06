@@ -1,8 +1,71 @@
 {
  "date": "2026-11-07",
- "generated_at": 1794004686.4365358,
- "count": 46,
+ "generated_at": 1794007187.6206791,
+ "count": 54,
  "items": [
+  {
+   "id": "aa75622735b64719",
+   "source": "IT之家",
+   "title": "AI 编程进入“通话时代”：Cursor 智能体可实时语音协作",
+   "url": "https://www.ithome.com/1/023/610.htm",
+   "summary": "IT之家 11 月 7 日消息，AI 编程工具 Cursor 昨日（11 月 6 日）宣布推出 “与智能体实时语音聊天”（Voice Chat with Agents）功能。 开发者现在可以通过语音与 Cursor 的编码智能体双向对话，例如口头描述代码修改需求、询问任务进展、查看差异和运行状态，同时让智能体继续在后台完成编码工作。 该功能支持在 Cursor 的 Agents Window、IDE、网页端及 iOS 应用中使用。当智能体空闲且输入框为空时，用户可点击“Start voice chat”启动通话。在 iPhone 上，还可通过“Hey Siri, call Cursor”发起通",
+   "published_at": 1794006696.0,
+   "published_bj": "2026-11-07 07:11"
+  },
+  {
+   "id": "1234148108f24ca9",
+   "source": "IT之家",
+   "title": "AI 编程工具 Amp 推出 Spaces：你的 AI 项目经理上线，自主编排 / 协调 Agent 干活",
+   "url": "https://www.ithome.com/1/023/609.htm",
+   "summary": "IT之家 11 月 7 日消息，AI 编程协作工具 Amp 昨日（11 月 6 日）宣布推出 Spaces， 希望构建面向 AI 智能体（Agent）和团队协作的全新工作方式。 对于用户而言，不再需要手动创建、命名和管理多个 Agent 线程，只需对话一个主 Agent，由它理解需求、拆解任务，并让其自动生成和协调其他 Agent 线程。IT之家附上相关截图如下： Amp 指出在传统多 Agent 工作流中，用户往往要自己决定拆分、分派以及追踪任务，Spaces 将这一层组织工作交给 Agent：每个 Space 是用户与单个 Agent 的对话，该 Agent 会为用户启动并协调多个并行线程",
+   "published_at": 1794006152.0,
+   "published_bj": "2026-11-07 07:02"
+  },
+  {
+   "id": "e4352044583d7bf4",
+   "source": "TechCrunch",
+   "title": "OpenAI reportedly raises an additional $11 billion at a $1.25 trillion valuation",
+   "url": "https://techcrunch.com/2026/11/06/openai-reportedly-raises-an-additional-11-billion-at-a-1-25-trillion-valuation/",
+   "summary": "OpenAI has reportedly raised an additional $11 billion as part of a funding round that hasn't closed yet but is expected to in the coming weeks.",
+   "published_at": 1794005626.0,
+   "published_bj": "2026-11-07 06:53"
+  },
+  {
+   "id": "3af3e5cf36eda4fb",
+   "source": "Hacker News",
+   "title": "ChatGPT silently passes data between connectors and the bounty wants an ID card",
+   "url": "https://community.openai.com/t/security-follow-up-tool-call-silently-routed-to-a-different-connector/1413053",
+   "summary": "Article URL: https://community.openai.com/t/security-follow-up-tool-call-silently-routed-to-a-different-connector/1413053 Comments URL: https://news.ycombinator.com/item?id=50399569 Points: 5 # Comments: 0",
+   "published_at": 1794005443.0,
+   "published_bj": "2026-11-07 06:50"
+  },
+  {
+   "id": "23548edde4c84868",
+   "source": "IT之家",
+   "title": "谷歌母公司 Alphabet 斥资约 5.48 亿美元建仓高通，押注 AI 芯片新赛道",
+   "url": "https://www.ithome.com/1/023/607.htm",
+   "summary": "IT之家 11 月 7 日消息，路透社今天（11 月 7 日）发布博文，报道称谷歌母公司 Alphabet 在第三季度首次买入芯片巨头高通约 297.7 万股股票， 持仓市值约 5.48 亿美元 （IT之家注：现汇率约合 36.62 亿元人民币） ，约占高通总股本 0.5%。 根据美国证券监管文件披露，Alphabet 第三季度持仓总市值约为 883 亿美元 （现汇率约合 5,900.67 亿元人民币） ，上一季度约为 991 亿美元 （现汇率约合 6,622.38 亿元人民币） ，环比下降约 10.9%。当季新增 4 只股票持仓、增持 1 只股票、减持 3 只股票，并且清仓 3 只股票；前十",
+   "published_at": 1794005284.0,
+   "published_bj": "2026-11-07 06:48"
+  },
+  {
+   "id": "1ba860ac53759ed8",
+   "source": "IT之家",
+   "title": "消息称微软不再续签甲骨文 AI 算力租赁协议，重新评估超 800 亿美元云合作",
+   "url": "https://www.ithome.com/1/023/606.htm",
+   "summary": "IT之家 11 月 7 日消息，据彭博社今日报道，微软正在逐步结束与甲骨文（Oracle）的 AI 算力租赁合作。 据介绍，微软此前已决定不再续签相关合同，然后近期开始关闭从甲骨文租用的部分计算资源。这也是微软重新评估数十亿美元云计算合作关系的一部分。 知情人士透露，由于微软自身的技术规格不断变化，原先租用的计算资源逐渐无法满足其需求。甲骨文提供的服务器使用了较早一代的英伟达 GPU 芯片，因此对微软而言，这些算力的实用价值有所下降。 甲骨文发言人表示，其 AI 基础设施需求依然强劲，其中也包括较早一代的 GPU。甲骨文此前在 9 月表示，部分使用约四年的 GPU 资源续约价格比最初合同价格高",
+   "published_at": 1794005055.0,
+   "published_bj": "2026-11-07 06:44"
+  },
+  {
+   "id": "8d58510d237a016c",
+   "source": "Hacker News",
+   "title": "*sshole, or when are we going to get rid of C?",
+   "url": "https://sunshowers.io/posts/sshole/",
+   "summary": "Article URL: https://sunshowers.io/posts/sshole/ Comments URL: https://news.ycombinator.com/item?id=50399400 Points: 15 # Comments: 0",
+   "published_at": 1794004444.0,
+   "published_bj": "2026-11-07 06:34"
+  },
   {
    "id": "05eb29e33b276e7d",
    "source": "TechCrunch",
@@ -56,6 +119,15 @@
    "summary": "在无线耳机主导市场多年之后，有线耳机正迎来新的复兴趋势。继Bose等品牌重新推出有线产品后，雷蛇也正式加入这一行列，发布全新的Hammerhead V3 Chroma有线游戏耳机，希望为移动游戏玩家和PC用户提供低延迟、高兼容性的音频体验。 阅读全文",
    "published_at": 1793996503.0,
    "published_bj": "2026-11-07 04:21"
+  },
+  {
+   "id": "83572eca08a7a9b9",
+   "source": "Hacker News",
+   "title": "Google has acquired Crusoe's data center site in southeast Wyoming",
+   "url": "https://www.crusoe.ai/resources/newsroom/crusoe-wyoming-data-center-campus-update",
+   "summary": "Article URL: https://www.crusoe.ai/resources/newsroom/crusoe-wyoming-data-center-campus-update Comments URL: https://news.ycombinator.com/item?id=50397711 Points: 13 # Comments: 0",
+   "published_at": 1793995754.0,
+   "published_bj": "2026-11-07 04:09"
   },
   {
    "id": "1f7e7872e08da77c",
