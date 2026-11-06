@@ -1,8 +1,44 @@
 {
  "date": "2026-11-07",
- "generated_at": 1793995532.4360287,
- "count": 36,
+ "generated_at": 1793998934.3206806,
+ "count": 41,
  "items": [
+  {
+   "id": "83a88e3832e02e54",
+   "source": "Hacker News",
+   "title": "SketchAgentBench – evaluate LLMs on 3D spatial reasoning",
+   "url": "https://sketchagent.dev/",
+   "summary": "Article URL: https://sketchagent.dev/ Comments URL: https://news.ycombinator.com/item?id=50398010 Points: 4 # Comments: 0",
+   "published_at": 1793996904.0,
+   "published_bj": "2026-11-07 04:28"
+  },
+  {
+   "id": "36939e49100f89de",
+   "source": "cnBeta",
+   "title": "雷蛇发布Hammerhead V3 Chroma有线耳机 USB-C接口搭配RGB灯效回归",
+   "url": "https://www.cnbeta.com.tw/articles/tech/1585328.htm",
+   "summary": "在无线耳机主导市场多年之后，有线耳机正迎来新的复兴趋势。继Bose等品牌重新推出有线产品后，雷蛇也正式加入这一行列，发布全新的Hammerhead V3 Chroma有线游戏耳机，希望为移动游戏玩家和PC用户提供低延迟、高兼容性的音频体验。 阅读全文",
+   "published_at": 1793996503.0,
+   "published_bj": "2026-11-07 04:21"
+  },
+  {
+   "id": "1f7e7872e08da77c",
+   "source": "Hacker News",
+   "title": "A Jev that can ask Opus for help gives Opus accuracy at 4x lower cost",
+   "url": "https://hightouch.com/blog/llm-judges-identity-resolution",
+   "summary": "Article URL: https://hightouch.com/blog/llm-judges-identity-resolution Comments URL: https://news.ycombinator.com/item?id=50397429 Points: 64 # Comments: 14",
+   "published_at": 1793994531.0,
+   "published_bj": "2026-11-07 03:48"
+  },
+  {
+   "id": "b87659518e154c1b",
+   "source": "Hacker News",
+   "title": "Show HN: Agents infer Lego mechanisms from sources, then animate them",
+   "url": "https://github.com/anteloc/ldraw-mecha/tree/v0.5.0",
+   "summary": "Hi there :) Around a month ago, I released LDraw Nova, an agentic toolset for assembling LEGO CAD models by generating LDraw source code files. For more details, here's the Show HN post: https://news.ycombinator.com/item?id=49937916 From the comments, I got the impression that there was quite an int",
+   "published_at": 1793994080.0,
+   "published_bj": "2026-11-07 03:41"
+  },
   {
    "id": "9e82ecd110f975c5",
    "source": "cnBeta",
@@ -56,6 +92,15 @@
    "summary": "Article URL: https://www.infohawk.com/news/2026-11-05-scamwich-restaurant-skimming Comments URL: https://news.ycombinator.com/item?id=50397017 Points: 6 # Comments: 0",
    "published_at": 1793992767.0,
    "published_bj": "2026-11-07 03:19"
+  },
+  {
+   "id": "a9ae9a06ed6f37ef",
+   "source": "Hacker News",
+   "title": "Replit rebuilt its sandbox engine with microVMs",
+   "url": "https://frontier.replit.com/sandbox-engine-microvms-part-1/",
+   "summary": "Article URL: https://frontier.replit.com/sandbox-engine-microvms-part-1/ Comments URL: https://news.ycombinator.com/item?id=50396834 Points: 12 # Comments: 2",
+   "published_at": 1793991970.0,
+   "published_bj": "2026-11-07 03:06"
   },
   {
    "id": "935a94e45a2188aa",
