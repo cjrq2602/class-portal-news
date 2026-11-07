@@ -1,8 +1,89 @@
 {
  "date": "2026-11-07",
- "generated_at": 1794052545.3188303,
- "count": 221,
+ "generated_at": 1794055186.3636434,
+ "count": 232,
  "items": [
+  {
+   "id": "f3b3abec979fe4a5",
+   "source": "cnBeta",
+   "title": "TCL华星光电T8印刷OLED工厂进入设备安装阶段 计划于2027年底量产",
+   "url": "https://www.cnbeta.com.tw/articles/tech/1585380.htm",
+   "summary": "TCL华星光电（TCL CSOT）近日宣布，其位于中国广州的T8工厂已经正式启动生产设备搬入工作。随着首台核心生产设备进场，该项目正式从厂房建设阶段转入设备安装与调试阶段。TCL华星光电高级副总裁张锋表示，首件核心设备的入场标志着T8项目进入设备安装和联调的重要阶段，为后续量产奠定基础。 阅读全文",
+   "published_at": 1794055090.0,
+   "published_bj": "2026-11-07 20:38"
+  },
+  {
+   "id": "d4ea5d3ff1ab5fe0",
+   "source": "IT之家",
+   "title": "比亚迪方程豹熊甜波：网传的钛 6 确实有，方程 SL 也预计明年会和大家见面",
+   "url": "https://www.ithome.com/1/023/803.htm",
+   "summary": "IT之家 11 月 7 日消息，比亚迪集团-方程豹事业部总经理熊甜波今日公布了后续的新产品规划： 网传的钛 6 确实有，方程 SL 也预计明年会和大家见面，最近的新品钛 9 会在本月上市，鲨鱼皮卡预计下月。 IT之家注意到，今年 9 月，网络上曾流传一张疑似方程豹钛 6 谍照，新车延续此前钛 7、豹 5 等车型的方盒子设计，目前暂无更多信息。 方程 SL 则属于“方程 S”家族，已经在今年的 2026 北京国际车展上官宣。 钛 9 将于 11 月正式上市，是方程豹品牌当前唯一一款 9 系旗舰车型，采用 2+2+2 大六座布局，车身尺寸为 5270x1999x1880mm。全系标配四项顶级驾控黑",
+   "published_at": 1794055060.0,
+   "published_bj": "2026-11-07 20:37"
+  },
+  {
+   "id": "55e90ce98fccd450",
+   "source": "IT之家",
+   "title": "索尼“养老神器”全球首发：不靠摄像头和穿戴设备，Wi-Fi 信号就能感知老人跌倒",
+   "url": "https://www.ithome.com/1/023/801.htm",
+   "summary": "IT之家 11 月 7 日消息，据索尼中国资讯公众号，在 11 月 5-10 日期间举行的第九届进博会上，索尼中国全球首发 面向居家养老的隐私友好型无线感知跌倒检测系统 。 该系统通过 Wi-Fi 信号感知人体活动，无需佩戴额外设备，也不进行影像采集，面向卧室、卫生间等居家环境以及养老机构、社区养老服务场景，帮助看护人员及时发现跌倒情况。 该系统利用 Wi-Fi 信号感知人体活动。人体活动会改变无线信号的传播特征，系统据此采集信道状态信息（CSI），结合人体运动特征与深度学习算法识别跌倒事件，实时检测并触发现场的声光提示，或通过 App 及小程序告警。 该系统仅需要 Wi-Fi 信号发射器、接",
+   "published_at": 1794054383.0,
+   "published_bj": "2026-11-07 20:26"
+  },
+  {
+   "id": "35b0ab38726e606e",
+   "source": "IT之家",
+   "title": "调节精度超 99.5％：我国单体最大功率飞轮储能项目正式投运",
+   "url": "https://www.ithome.com/1/023/800.htm",
+   "summary": "IT之家 11 月 7 日消息，据科技日报今日报道， 我国单体最大功率飞轮储能项目昨日在华能兰州热电公司并网运行 ，标志着我国在火电基地飞轮储能快速调频技术领域取得重要突破。 据介绍，飞轮储能依靠高速运转的转子实现电能存储。电力充裕时，电能驱动转子高速旋转，将电能转化为转动动能加以储存；电网需要供电时，高速运转的转子再将动能重新转换为电能向外输送。它可快速完成充电、放电，保障电网平稳运行，具备转换效率高、适应性强、设备使用寿命长等优势。 此次并网运行的飞轮储能项目 创新采用“5 兆瓦大功率飞轮 +0.5 兆瓦惯量飞轮”协同模式 。区别于传统单飞轮模式，双飞轮协同运行可实现优势互补、分级响应。 ",
+   "published_at": 1794054125.0,
+   "published_bj": "2026-11-07 20:22"
+  },
+  {
+   "id": "35f7a556e5c43eb4",
+   "source": "IT之家",
+   "title": "漫步者 W900NB 30 周年典藏版头戴蓝牙耳机上架：限量 3000 套，1159 元",
+   "url": "https://www.ithome.com/1/023/799.htm",
+   "summary": "IT之家 11 月 7 日消息，漫步者 W900NB 30 周年典藏版头戴蓝牙耳机现已上架电商平台，将于 11 月 9 日 20:00 开售， 售价 1159 元 。 这款耳机有晨雾白、暗夜黑、深海蓝三种颜色可选； 限量 3000 套 ，每台配备独立蚀刻编号。 这款耳机配备 8 颗高精度广角硅麦，采用 6 颗 FF 前馈麦环形布局 + 2 颗 FB 反馈麦的组合， 降噪深度达 -50dB ；采用 6nm 制程 6 核异构芯片，集成 Arm Ethos U55 独立 NPU，实现端到端 AI 拾音降噪；搭载六轴传感头部追踪技术， 支持杜比全景声 。 这款耳机采用 10mm PET 镀钛高音单元 ",
+   "published_at": 1794053837.0,
+   "published_bj": "2026-11-07 20:17"
+  },
+  {
+   "id": "4cfbd139fed4d52a",
+   "source": "IT之家",
+   "title": "苹果 iPhone Duo 折叠屏手机首周销量曝光，三天卖出约 12.46 万台",
+   "url": "https://www.ithome.com/1/023/798.htm",
+   "summary": "IT之家 11 月 7 日消息，长期关注国内手机市场份额的数码博主 @RD观测 今日曝光了苹果 iPhone Duo 折叠屏手机的首周销量数据， 10 月 19 日-10 月 25 日期间合计约 12.46 万台 。 需要注意的是， 苹果 iPhone Duo 是在 10 月 23 日开售，因此该数据仅包含了 23 日、24 日和 25 日的销量数据。 该机型首销期（首销日 + 后三天）销量接近 20 万台 。 据IT之家此前报道，苹果在 2026 年秋季发布会上 发布了旗下首款折叠屏手机 iPhone Duo ，10 月 23 日正式发售，售价 15,999 元起。 iPhone Duo 采",
+   "published_at": 1794053638.0,
+   "published_bj": "2026-11-07 20:13"
+  },
+  {
+   "id": "d02d28af3919e9a6",
+   "source": "Solidot",
+   "title": "抗议者闯入微软在欧洲的一处数据中心工地",
+   "url": "https://www.solidot.org/story?sid=85823",
+   "summary": "逾百名活动人士闯入了阿姆斯特丹的一处微软 AI 数据中心施工现场，他们爬上起重机，悬挂气球并跳起舞，部分人则举着 Screw your datacenter 的标语。此次行动是针对 AI 基础设施迅速扩张所开展的一系列抗议活动之一。抗议者 Sam van der Beek 表示：“这些数据中心正摧毁我们的世界。它们消耗了海量资源，导致地球变得不再适宜居住。这就是我们今天来到这里的原因。”Stop Dirty Data Centers 联盟宣布，其成员于周五和周六在 16 个国家采取抗议行动。微软在阿姆斯特丹的项目 Pure Data Centers 计划投资逾 10 亿美元。Stop Dirt",
+   "published_at": 1794051960.0,
+   "published_bj": "2026-11-07 19:46"
+  },
+  {
+   "id": "01bf15616dea0a17",
+   "source": "Solidot",
+   "title": "天宫即将迎来首位巴基斯坦宇航员",
+   "url": "https://www.solidot.org/story?sid=85822",
+   "summary": "一名巴基斯坦宇航员将加入神舟二十四号载人飞行任务的乘组。他是一位载荷专家。任务成行后，他将成为首位进入中国空间站的外国公民。这也将是中国载人航天工程历史上，首次由中国与外国宇航员共同执行太空飞行任务。今年早些时候，两名巴基斯坦预备宇航员——穆罕默德·泽尚·阿里（Muhammad Zeeshan Ali）和胡拉姆·达乌德（Khurram Daud），已经在北京开始与中国宇航员共同接受训练。按照计划，两人在中国完成各项训练并通过考核后，“其中 1 人将执行载人飞行任务，1 人作为任务备份航天员”。",
+   "published_at": 1794050545.0,
+   "published_bj": "2026-11-07 19:22"
+  },
+  {
+   "id": "879f4ebf364aac74",
+   "source": "Solidot",
+   "title": "广电总局整治 AI 低俗微短剧",
+   "url": "https://www.solidot.org/story?sid=85821",
+   "summary": "广电总局周五晚上公布了一则通知，整治 AI 低俗短剧：“针对 AI 微短剧质量良莠不齐、AI 技术助长低俗不良内容反弹等问题，部署开展新一轮微短剧低俗化同质化专项治理工作，治理为期两个月，自 11 月 1 日起至 12 月底。新一轮专项治理聚焦两个方面的突出问题，内容创作方面，深化治理儿童类不良、软色情擦边、极端对立、拜金主义、严重违背家庭伦理道德等低俗不良内容；治理未按要求备案审核的特殊题材内容；治理“盗脸”“偷声”问题，规范 AI 微短剧创作。传播推广方面，治理片名、宣推素材、弹幕评论、引流片段中的低俗内容；治理同一剧集通过更换片名或主角姓名等方式，改头换面、反复播出；治理首页首屏首推和重",
+   "published_at": 1794050382.0,
+   "published_bj": "2026-11-07 19:19"
+  },
   {
    "id": "a7c2700ff69ac03a",
    "source": "IT之家",
@@ -11,6 +92,15 @@
    "summary": "IT之家 11 月 7 日消息，全新红旗 H9 今天起正式开启预售，新车共推出 4 款配置，预售先享价 32.98 万-41.98 万元。新车全系标配 鸿蒙座舱、华为乾崑 ADS 5 高阶版智能辅助驾驶、896 线双光路图像级激光雷达 等配置，配有 62L 油箱、2.0T 混动发动机、800V 高压碳化硅平台及 40.4 度三元锂电池。 IT之家汇总新车主要信息如下： 豪华 MAX：32.98 万元 尊贵 Ultra：35.98 万元 旗舰 Ultra：38.98 万元 四驱旗舰 Ultimate：41.98 万元 新车定位 C+ 级智慧豪华旗舰轿车，搭载华为乾崑智驾 ADS 5 高阶版与鸿蒙",
    "published_at": 1794050282.0,
    "published_bj": "2026-11-07 19:18"
+  },
+  {
+   "id": "e0e4eea81b60ef8d",
+   "source": "Hacker News",
+   "title": "Every Windows 11 app should kill Electron, and Discord just showed why",
+   "url": "https://www.windowslatest.com/2026/11/06/every-windows-11-app-should-kill-electron-and-discord-just-showed-why-no-starting-screen-and-70-less-ram-even-with-two-accounts-signed-in/",
+   "summary": "Article URL: https://www.windowslatest.com/2026/11/06/every-windows-11-app-should-kill-electron-and-discord-just-showed-why-no-starting-screen-and-70-less-ram-even-with-two-accounts-signed-in/ Comments URL: https://news.ycombinator.com/item?id=50403507 Points: 19 # Comments: 7",
+   "published_at": 1794049875.0,
+   "published_bj": "2026-11-07 19:11"
   },
   {
    "id": "f3d381474d277833",
@@ -146,6 +236,15 @@
    "summary": "IT之家 11 月 7 日消息，当地时间 11 月 4 日，苹果研究团队在预印本平台 arXiv 提交论文《Perceptive Humanoid Motion from Simulation》，披露了人形机器人自主控制系统 HALO。 研究团队还公开了数据生成、模型训练和部署代码，涵盖动作生成、动作跟踪、任务编排以及仿真和真实机器人运行等环节。 在落地阶段， 研究团队采用宇树科技 G1 人形机器人 ，背部加装了专用 3D 打印保护外壳， 内置一台 Mac mini （M4 Pro 芯片，64GB 统一内存），Mac mini 负责在机载端实时推理计算开销较大的 Orchestrator（VL",
    "published_at": 1794044417.0,
    "published_bj": "2026-11-07 17:40"
+  },
+  {
+   "id": "655d0f3ae76dae04",
+   "source": "Hacker News",
+   "title": "Running a law firm on Free software",
+   "url": "https://decoded.legal/blog/2026/11/running-a-law-firm-on-free-software-2026-edition/",
+   "summary": "Article URL: https://decoded.legal/blog/2026/11/running-a-law-firm-on-free-software-2026-edition/ Comments URL: https://news.ycombinator.com/item?id=50403066 Points: 7 # Comments: 0",
+   "published_at": 1794044346.0,
+   "published_bj": "2026-11-07 17:39"
   },
   {
    "id": "08d3403d6c5b9f14",
