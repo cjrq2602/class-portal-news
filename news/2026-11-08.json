@@ -1,8 +1,80 @@
 {
  "date": "2026-11-08",
- "generated_at": 1794092092.575155,
- "count": 44,
+ "generated_at": 1794094127.5683515,
+ "count": 54,
  "items": [
+  {
+   "id": "9aa21d0d2edb2281",
+   "source": "IT之家",
+   "title": "Backglow 应用上线：可让新款 MacBook Pro 发光苹果 Logo 随音乐律动",
+   "url": "https://www.ithome.com/1/023/839.htm",
+   "summary": "IT之家 11 月 8 日消息，由设计师胡安 · 布伊斯（Juan Buis）开发的一款名为“Backglow”的新应用，允许用户自定义新款 MacBook Pro 笔记本电脑顶盖上的发光苹果 Logo。 该应用的免费版本允许用户手动调节苹果 Logo 的亮度，而且不受 MacBook Pro 屏幕亮度设置的影响。用户也可以一键彻底关闭 Logo 灯光，无需通过终端（Terminal）执行命令。 免费版本还提供一种名为“Breathe”的呼吸模式，可以让苹果 Logo 的灯光缓慢、柔和地明暗交替，效果类似于老款 MacBook 上的睡眠指示灯。 用户只需一次性付费即可解锁应用的 Pro 版本，",
+   "published_at": 1794093912.0,
+   "published_bj": "2026-11-08 07:25"
+  },
+  {
+   "id": "73ebb6f05462935f",
+   "source": "IT之家",
+   "title": "微软 Outlook 邮箱出 Bug：邮件无故丢失，部分认证配置正确的发件人也遭拦截",
+   "url": "https://www.ithome.com/1/023/838.htm",
+   "summary": "IT之家 11 月 8 日消息，据科技媒体 Windows Latest 今天报道，部分 Outlook.com 和 Hotmail 邮箱用户近期发现，他们无法正常接收邮件。 发件人侧收到的提示是 ， 邮件未能通过身份验证检查 。 据报道，该问题最初出现于 11 月 5 日，今天仍然能成功复现。在大多数情况下，用户很难直接察觉究竟发生了什么。但如果进一步查看日志，就会发现邮件无法发送的原因是身份验证检查错误。 不过部分发件人表示，即使他们的邮件域名已经配置了有效的身份验证记录，依然会收到报错提示。某些情况下，点击重新发送又能缓解问题。 一名用户在微软论坛上写道：“即使域名已经正确配置 SPF、",
+   "published_at": 1794093439.0,
+   "published_bj": "2026-11-08 07:17"
+  },
+  {
+   "id": "c9a906c67cbdc4a3",
+   "source": "IT之家",
+   "title": "千公里仅 3.43 毫秒，空芯光纤未来有望替代实芯光纤",
+   "url": "https://www.ithome.com/1/023/837.htm",
+   "summary": "IT之家 11 月 8 日消息，据央视新闻报道，近日，我国完成全球首个千公里空芯光纤双向实时传输验证。这意味着我国在新一代通信网关键技术领域取得新的突破。 技术人员告诉记者，这次试验在 1007.48 公里的光纤线路上，首次实现了双向各 64Tb 每秒的信号同步传输，相当于支持每秒 160 部 4K 电影的上传和下载（每部按 50GB 计算）， 千公里信号单程传输只需 3.43 毫秒 ，创造了空芯光纤实时传输距离的新纪录。据了解，这种技术比当前性能最好的实芯光纤传输容量提升一倍，传输距离提升 60%。和同类空芯光纤传输试验相比，这次验证的传输距离提升了 50 倍。 中国电信新一代信息通信专业首",
+   "published_at": 1794093264.0,
+   "published_bj": "2026-11-08 07:14"
+  },
+  {
+   "id": "77bd954ce7dab43c",
+   "source": "cnBeta",
+   "title": "Googlebook更新优化本地AI内存占用 最高可释放6GB系统内存",
+   "url": "https://www.cnbeta.com.tw/articles/tech/1585418.htm",
+   "summary": "Google日前开始向Googlebook设备推送2026年11月系统更新。本次更新最受关注的变化，是针对设备端AI功能的内存占用进行了大幅优化。根据Google公布的信息，在Acer Googlebook 14、华硕Googlebook 14以及联想Googlebook 15等机型上，新的内存管理机制显著降低了本地AI对系统资源的占用，从而提升多任务处理时的稳定性。 阅读全文",
+   "published_at": 1794093071.0,
+   "published_bj": "2026-11-08 07:11"
+  },
+  {
+   "id": "b473c56b423288b2",
+   "source": "IT之家",
+   "title": "谷歌高管哈里森辞去 SpaceX 董事会职务，任职已超十年",
+   "url": "https://www.ithome.com/1/023/836.htm",
+   "summary": "IT之家 11 月 8 日消息，SpaceX 当地时间周五披露，谷歌高管唐纳德 · 哈里森（Donald Harrison）已辞去该公司董事会职务，其在该职位任职已超过十年。 哈里森于 11 月 4 日通知 SpaceX 自己的辞职决定，并立即生效。 由埃隆 · 马斯克（Elon Musk）领导的 SpaceX 表示，哈里森辞职并非因为他与公司在运营、政策或实践相关事务上存在任何分歧。 哈里森是谷歌的资深高管，目前担任全球合作与企业发展总裁。伦敦证券交易所集团（LSEG）的数据显示，谷歌母公司 Alphabet 是 SpaceX 最大的单一机构股东。 IT之家注意到，马斯克表示，哈里森辞职是因",
+   "published_at": 1794092869.0,
+   "published_bj": "2026-11-08 07:07"
+  },
+  {
+   "id": "712337435d67864b",
+   "source": "IT之家",
+   "title": "Adobe 向初创企业抛出橄榄枝：免费使用 Firefly 和 Acrobat 等软件，最长 1 年",
+   "url": "https://www.ithome.com/1/023/835.htm",
+   "summary": "IT之家 11 月 8 日消息，Adobe 公司最近针对初创企业推出 Adobe for Startups 计划， 入选企业可免费使用 Firefly Pro Plus、Acrobat Studio（包含 Adobe Express Premium）以及 Semrush 等软件 ， 期限为 12 个月 。 据介绍，Adobe for Startups 计划面向成立时间不超过 5 年，且融资总额低于 1,500 万美元 （IT之家注：现汇率约合 1 亿元人民币） 的企业。在免费使用的软件中，Firefly Pro Plus 是一款创意型 AI 工具，可帮助用户将创意构思转化为图像、视频和音频内容",
+   "published_at": 1794092563.0,
+   "published_bj": "2026-11-08 07:02"
+  },
+  {
+   "id": "4da8079148df9d8e",
+   "source": "IT之家",
+   "title": "全球最大、发展最快：我国可再生能源技术占据全球主导地位",
+   "url": "https://www.ithome.com/1/023/834.htm",
+   "summary": "IT之家 11 月 8 日消息，据央视新闻报道，11 月 7 日，中国企业改革与发展研究会发布了《全球能源转型报告（2026）》，数据显示，我国已构建起全球最大、发展最快的可再生能源体系。 报告指出，目前，化石能源活动仍是全球碳排放的最大来源。2025 年，全球与能源相关的二氧化碳排放总量同比增长 0.4%，达 384 亿吨，是 2021 年以来最低增幅。其中， 中国碳排放量下降 0.5% ，美国碳排放量增长 2.4%，成为全球碳排放增长的最大来源。 中国企业改革与发展研究会会长彭华岗介绍，今年上半年， 中国煤电发电量占比降至 49.7% ，首次低于 50%，煤电正从主力电源转为兜底保障和系统",
+   "published_at": 1794092184.0,
+   "published_bj": "2026-11-08 06:56"
+  },
+  {
+   "id": "a6f4ca185e812958",
+   "source": "IT之家",
+   "title": "马斯克：特斯拉将增加 Cybertruck 生产班次，以在明年产线拆除前清订单",
+   "url": "https://www.ithome.com/1/023/833.htm",
+   "summary": "IT之家 11 月 8 日消息，特斯拉 CEO 埃隆 · 马斯克（Elon Musk）当地时间周六表示，为了在明年拆除生产线、转而扩大 Cybercab 产能之前完成现有 Cybertruck 订单，特斯拉将为 Cybertruck 增加一个额外生产班次。 马斯克在社交平台 X 上发文称：“目前 Cybertruck 的积压订单量远超特斯拉在明年 6 月至 7 月左右拆除生产线、为 Cybercab 扩产之前所能完成的数量。” 他补充说：“我们将增加一个额外班次，尽可能确保按时完成所有订单。” IT之家注意到，就在马斯克发表上述言论的前一天，他曾表示，特斯拉计划明年逐步结束得克萨斯州工厂的 C",
+   "published_at": 1794092175.0,
+   "published_bj": "2026-11-08 06:56"
+  },
   {
    "id": "0aa9e6f4aae8f1e4",
    "source": "IT之家",
@@ -20,6 +92,24 @@
    "summary": "IT之家 11 月 8 日消息，据彭博社报道，当地时间周六，欧洲多地继续爆发反对数据中心建设的抗议活动。民众走上街头，表达对数据中心扩张可能带来的社会和环境影响的担忧。 据爱尔兰国家广播电视台（RTÉ）报道，约有 2000 人在都柏林举行游行。芬兰广播公司 Yle 报道称，约有 1300 人聚集在赫尔辛基，芬兰多个规模较小的城镇也举行了示威活动。 由当地民主运动组织和气候抗议团体组成的联盟“停止肮脏数据中心”（Stop Dirty Data Centres）表示，此次行动旨在“阻止人工智能数据中心不受约束地扩张，防止我们的民主制度被大型科技企业的利益绑架”。 从苏格兰到西班牙、从法国到丹麦，各",
    "published_at": 1794091564.0,
    "published_bj": "2026-11-08 06:46"
+  },
+  {
+   "id": "9501f89e21974f4f",
+   "source": "Hacker News",
+   "title": "IRA Velinsky – Commodore's Industrial Designer",
+   "url": "https://www.commodore.ca/commodore-history/ira-velinsky-commodores-amazing-industrial-designer/",
+   "summary": "Article URL: https://www.commodore.ca/commodore-history/ira-velinsky-commodores-amazing-industrial-designer/ Comments URL: https://news.ycombinator.com/item?id=50408750 Points: 3 # Comments: 0",
+   "published_at": 1794091539.0,
+   "published_bj": "2026-11-08 06:45"
+  },
+  {
+   "id": "5bfc09e4cf740d45",
+   "source": "Hacker News",
+   "title": "Making any integer with four 2s (2025)",
+   "url": "https://eli.thegreenplace.net/2025/making-any-integer-with-four-2s/",
+   "summary": "Article URL: https://eli.thegreenplace.net/2025/making-any-integer-with-four-2s/ Comments URL: https://news.ycombinator.com/item?id=50408713 Points: 10 # Comments: 3",
+   "published_at": 1794091138.0,
+   "published_bj": "2026-11-08 06:38"
   },
   {
    "id": "f1c980925686a87e",
