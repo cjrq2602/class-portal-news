@@ -1,7 +1,7 @@
 {
  "date": "2026-11-07",
- "generated_at": 1794026672.1171563,
- "count": 123,
+ "generated_at": 1794030110.452045,
+ "count": 130,
  "items": [
   {
    "id": "2327ec6e1cbce5db",
@@ -20,6 +20,60 @@
    "summary": "点击查看原文>",
    "published_at": 1794042000.0,
    "published_bj": "2026-11-07 17:00"
+  },
+  {
+   "id": "9595577a1ac06b7d",
+   "source": "IT之家",
+   "title": "CPU-Z、HWiNFO 接连加入支持，英特尔 Razor Lake 桌面及移动处理器曝光",
+   "url": "https://www.ithome.com/1/023/676.htm",
+   "summary": "IT之家 11 月 7 日消息，英特尔下下代处理器平台 Razor Lake 近日接连获得硬件检测工具的更新支持。 首先，CPUID 发布的 CPU-Z 3.02 已加入对 Razor Lake 的支持，HWiNFO 最新测试版 v8.55-6115 则进一步增强了对 Razor Lake-H、Razor Lake-HX 和 Razor Lake-S 的识别支持。 CPU-Z 3.02 于 11 月 4 日发布，新增 Intel Razor Lake 支持，同时加入对 AMD Radeon AI PRO R9700 显卡的识别，并修复 Broadwell-E 平台的 SPD 读取问题以及 Wi",
+   "published_at": 1794029751.0,
+   "published_bj": "2026-11-07 13:35"
+  },
+  {
+   "id": "23f383a472a35b99",
+   "source": "IT之家",
+   "title": "马斯克：特斯拉 Optimus 机器人考虑只租不卖，生产力是人类的 5 倍、初期造价约 3 万美元",
+   "url": "https://www.ithome.com/1/023/675.htm",
+   "summary": "IT之家 11 月 7 日消息，科技媒体 Not a Tesla App 昨日（11 月 6 日）发布博文，报道称当地时间周五在美国纽约市林肯中心举行的第 33 届巴伦投资大会上， 全球首富埃隆 · 马斯克（Elon Musk）透露特斯拉 Optimus 机器人可能会采用“只租不售”方式。 在被问及特斯拉 Optimus 机器人的具体销售方式时，马斯克表示：“我想可能会采用租赁模式。”对于外界最关心的“租一台多少钱、能完成哪些工作”，目前仍有待进一步披露。 在问及制造成本时，马斯克 Optimus 初期单台成本预计约 3 万美元 （IT之家注：现汇率约合 20.1 万元人民币） ，与一辆汽车相",
+   "published_at": 1794029559.0,
+   "published_bj": "2026-11-07 13:32"
+  },
+  {
+   "id": "29f832ecda80b053",
+   "source": "IT之家",
+   "title": "OpenAI 窃听案进入抗辩阶段：被告拒不认罪，若定罪最高监禁五年",
+   "url": "https://www.ithome.com/1/023/674.htm",
+   "summary": "北京时间 11 月 7 日，据《华尔街日报》报道，沙特公民阿卜杜勒拉赫曼 · 阿尔福赞 (Abdulrahman Alfozan) 被指控在 OpenAI 一间限制进入的会议室内安装窃听设备。当地时间周五，他在旧金山联邦法院出庭，对相关指控表示不认罪。 周五，阿尔福赞参加了美国联邦治安法官的提审听证会。他的律师戴维 ·W· 里兹 (David W. Rizk) 表示，其当事人对检方提出的唯一一项指控拒不认罪。该罪名为截取口头通信内容，最高可判处 5 年监禁，并处以 25 万美元罚款。 阿尔福赞目前被联邦执法部门羁押，下一次出庭时间将是 11 月 17 日。 阿尔福赞被指控在今年 9 月 28 ",
+   "published_at": 1794028964.0,
+   "published_bj": "2026-11-07 13:22"
+  },
+  {
+   "id": "bd9e48eb038b986d",
+   "source": "IT之家",
+   "title": "曝 Anthropic 计划下周启动 IPO 路演，目标是在感恩节前完成上市",
+   "url": "https://www.ithome.com/1/023/672.htm",
+   "summary": "IT之家 11 月 7 日消息，据 The Information 今日报道，美国人工智能初创公司 Anthropic 正加快推进首次公开募股（IPO）计划。 消息人士称，Anthropic 计划于下周启动 IPO 正式推介，向潜在投资者介绍公司业务及上市计划，计划于 11 月 16 日当周在美国资本市场挂牌，争取在美国感恩节（11 月 26 日）假期前完成上市。 不过，近期美国科技股市场波动加剧，投资者对 AI 企业巨额资本开支及商业回报的担忧也在增加，可能影响此次 IPO 的估值和融资规模。 此前市场预计，Anthropic 此次 IPO 估值约为 1.5 万亿美元 （IT之家注：现汇率约",
+   "published_at": 1794028663.0,
+   "published_bj": "2026-11-07 13:17"
+  },
+  {
+   "id": "e99cf29dfe0b1b34",
+   "source": "IT之家",
+   "title": "襄阳 125 台公交退役电池卖出“资产价”：近 300 万元成交溢价 119.49%",
+   "url": "https://www.ithome.com/1/023/671.htm",
+   "summary": "IT之家 11 月 7 日消息，湖北碳排放权交易中心 11 月 5 日宣布，襄阳公交集团第二批废旧动力电池处置项目在长江生态环境权益交易平台完成竞价。 这批来自 125 台退役新能源公交车的电池，评估单价为 6310.05 元 / 吨，挂牌后吸引多家具备资源化回收资质的企业参与，经 22 轮加价，最终以 13850 元 / 吨成交，溢价率 119.49%，总价接近 300 万元。 退役动力电池的残值基础来自材料构成。公交车用动力电池以磷酸铁锂为主，襄阳公交此前采购的纯电动公交车动力电池材料类型即为磷酸铁锂。磷酸铁锂电池的回收价值主要取决于锂的提取经济性。2026 年电池级碳酸锂价格在 13.8",
+   "published_at": 1794027752.0,
+   "published_bj": "2026-11-07 13:02"
+  },
+  {
+   "id": "2032c1b454dd908e",
+   "source": "TechCrunch",
+   "title": "Sequoia shutting down its Scouts program marks the end of an era",
+   "url": "https://techcrunch.com/2026/11/06/sequoia-shutting-down-its-scouts-program-marks-the-end-of-an-era/",
+   "summary": "Sequoia pioneered the scouts model and many VC firms followed suit, but a consensus now seems to be forming that the model has reached limits in its current form.",
+   "published_at": 1794027714.0,
+   "published_bj": "2026-11-07 13:01"
   },
   {
    "id": "70e76ecd8b45f8ae",
@@ -56,6 +110,15 @@
    "summary": "IT之家 11 月 7 日消息，微软昨日（11 月 6 日）更新发布 Microsoft Edge 浏览器 157 稳定版， 明确“加速应用启动”新特性适用于 Windows 11 25H2、26H1 和 26H2 版 ，且 Edge 浏览器需升级 150 等后续版本。 “加速应用启动”新特性主要针对“热启动”（应用已经在后台运行），官方表示在多任务负载较重时， Edge 的启动速度最高可提升 33%，平均提升约 15% ，微软还在探索将该机制用于更快打开 PDF 文件。 IT之家附上 Microsoft Edge 浏览器 157 稳定版更新日志内容如下： 宣布将逐步 弃用 浏览器原生 XSL",
    "published_at": 1794023822.0,
    "published_bj": "2026-11-07 11:57"
+  },
+  {
+   "id": "ca94c08b23a15f6a",
+   "source": "Hacker News",
+   "title": "Show HN: Did prediction markets do any predicting this midterms?",
+   "url": "https://app.artifactbin.dev/@vivek/AQTt2H-did-prediction-markets-predict-the-midterms",
+   "summary": "I've heard so much about how prediction markets are the guiding light in this dark world. But when put head to head against polls or Nate Silver's FLIPR model, they are really a wash. Especially looking at flipped or close-by-polls races, there is no alpha compared to a traditional poll-based model.",
+   "published_at": 1794023421.0,
+   "published_bj": "2026-11-07 11:50"
   },
   {
    "id": "f649ce28ac51743d",
