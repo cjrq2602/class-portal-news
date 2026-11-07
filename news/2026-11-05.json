@@ -1,6 +1,6 @@
 {
  "date": "2026-11-05",
- "generated_at": 1794064618.7952487,
+ "generated_at": 1794067007.9066868,
  "count": 400,
  "items": [
   {
@@ -938,6 +938,15 @@
    "summary": "IT之家 11 月 5 日消息，PC DIY 硬件制造商安耐美 (ENERMAX) 中国官方今日以声明指出，市面上售卖的 AQUAFUSION II 240/360 处理器一体式液冷散热器中 包含非正规流通货源 ，存在仿冒 风险。 IT之家注： 这里指的应该是 AQUAFUSION II ARGB 的 240mm 与 360mm 版本，即下图中的产品。 安耐美表示， AQUAFUSION II 240/360 液冷中 仅有序列号 (SN) 位于 2533120142257 ~ 2533120142456 范围内 的是安耐美官方正规正品 ，可正常享受安耐美原厂全套质保、漏液赔付等官方售后政策，用",
    "published_at": 1793876062.0,
    "published_bj": "2026-11-05 18:54"
+  },
+  {
+   "id": "1c97ae16f25493a1",
+   "source": "Hacker News",
+   "title": "Show HN: Spindle – a full-featured, type-safe web framework for OCaml 5",
+   "url": "https://github.com/hyphatech/spindle",
+   "summary": "Spindle is a multicore-by-design, eio-native web framework for modern OCaml. Its central idea is to provide an expressive, type-driven API and derive the rest: codecs, request validation, OpenAPI spec and frontend schemas (Zod and Melange). This keeps contracts in sync between server and client with",
+   "published_at": 1793875528.0,
+   "published_bj": "2026-11-05 18:45"
   },
   {
    "id": "1cb5d726c727b288",
@@ -3593,15 +3602,6 @@
    "summary": "Article URL: https://www.conductor.build/announcement Comments URL: https://news.ycombinator.com/item?id=50369503 Points: 71 # Comments: 127",
    "published_at": 1793816560.0,
    "published_bj": "2026-11-05 02:22"
-  },
-  {
-   "id": "b10efb625d2f7d24",
-   "source": "Hacker News",
-   "title": "Benchfmt.rs: Bringing Go's benchmarking and benchstat workflow to Rust",
-   "url": "https://www.bwplotka.dev/2026/rust-microbenchmarks-benchstat/",
-   "summary": "Article URL: https://www.bwplotka.dev/2026/rust-microbenchmarks-benchstat/ Comments URL: https://news.ycombinator.com/item?id=50369462 Points: 11 # Comments: 2",
-   "published_at": 1793816406.0,
-   "published_bj": "2026-11-05 02:20"
   }
  ]
 }
