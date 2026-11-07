@@ -1,0 +1,382 @@
+{
+ "type": "today",
+ "date": "2026-11-07",
+ "window": {
+  "start_ts": 1793980800.0,
+  "end_ts": 1794013200.0
+ },
+ "generated_at": 1794016277.013891,
+ "generator": "action",
+ "news_count": 79,
+ "keywords": [
+  "ai",
+  "to",
+  "for",
+  "the",
+  "美元",
+  "is",
+  "亿美",
+  "with",
+  "and",
+  "in"
+ ],
+ "points": [
+  {
+   "text": "【ai】Security researchers found hundreds of servers hosting the penetration t",
+   "keyword": "ai",
+   "news_ids": [
+    "935a94e45a2188aa"
+   ],
+   "refs": [
+    {
+     "id": "935a94e45a2188aa",
+     "title": "Hundreds of Artex AI hacking tools found publicly exposed to the web",
+     "source": "TechCrunch",
+     "url": "https://techcrunch.com/2026/11/06/hundreds-of-artex-ai-hacking-tools-found-publicly-exposed-to-the-web/",
+     "published_at": 1793990678.0
+    }
+   ]
+  },
+  {
+   "text": "【ai】IT之家 11 月 7 日消息，据彭博社今日报道，微软正在逐步结束与甲骨文（Oracle）的 AI 算力租赁合作",
+   "keyword": "ai",
+   "news_ids": [
+    "1ba860ac53759ed8"
+   ],
+   "refs": [
+    {
+     "id": "1ba860ac53759ed8",
+     "title": "消息称微软不再续签甲骨文 AI 算力租赁协议，重新评估超 800 亿美元云合作",
+     "source": "IT之家",
+     "url": "https://www.ithome.com/1/023/606.htm",
+     "published_at": 1794005055.0
+    }
+   ]
+  },
+  {
+   "text": "【ai】Democrats’ historic victories in this week’s U",
+   "keyword": "ai",
+   "news_ids": [
+    "671c57dfe78c571b"
+   ],
+   "refs": [
+    {
+     "id": "671c57dfe78c571b",
+     "title": "After the midterms, is the AI industry in for a rough two years?",
+     "source": "TechCrunch",
+     "url": "https://techcrunch.com/video/after-the-midterms-is-the-ai-industry-in-for-a-rough-two-years/",
+     "published_at": 1793985832.0
+    }
+   ]
+  },
+  {
+   "text": "【ai】Cloudflare 与 VoidZero 联合推出 tsrs：由 AI 生成的 TypeScript 编译器 Rust 移植版",
+   "keyword": "ai",
+   "news_ids": [
+    "62dc2858fe64433c"
+   ],
+   "refs": [
+    {
+     "id": "62dc2858fe64433c",
+     "title": "Cloudflare 与 VoidZero 联合推出 tsrs：由 AI 生成的 TypeScript 编译器 Rust 移植版",
+     "source": "InfoQ中文",
+     "url": "https://www.infoq.cn/article/lGoA1ZSw6ojeh68GVlBl?utm_source=rss&utm_medium=article",
+     "published_at": 1793984400.0
+    }
+   ]
+  },
+  {
+   "text": "【to】Article URL: https://developers",
+   "keyword": "to",
+   "news_ids": [
+    "3bef705c486545e6"
+   ],
+   "refs": [
+    {
+     "id": "3bef705c486545e6",
+     "title": "Outbound SIP calling is now available to all organizations",
+     "source": "Hacker News",
+     "url": "https://developers.openai.com/api/docs/guides/voice-sip",
+     "published_at": 1794006235.0
+    }
+   ]
+  },
+  {
+   "text": "【the】Article URL: https://community",
+   "keyword": "the",
+   "news_ids": [
+    "3af3e5cf36eda4fb"
+   ],
+   "refs": [
+    {
+     "id": "3af3e5cf36eda4fb",
+     "title": "ChatGPT silently passes data between connectors and the bounty wants an ID card",
+     "source": "Hacker News",
+     "url": "https://community.openai.com/t/security-follow-up-tool-call-silently-routed-to-a-different-connector/1413053",
+     "published_at": 1794005443.0
+    }
+   ]
+  },
+  {
+   "text": "【the】There are now 100K Duo-optimized apps, says Apple, and thousands more ar",
+   "keyword": "the",
+   "news_ids": [
+    "05eb29e33b276e7d"
+   ],
+   "refs": [
+    {
+     "id": "05eb29e33b276e7d",
+     "title": "The Duo apps are coming, says Apple",
+     "source": "TechCrunch",
+     "url": "https://techcrunch.com/2026/11/06/the-duo-apps-are-coming-says-apple/",
+     "published_at": 1794001085.0
+    }
+   ]
+  },
+  {
+   "text": "【to】Article URL: https://sunshowers",
+   "keyword": "to",
+   "news_ids": [
+    "8d58510d237a016c"
+   ],
+   "refs": [
+    {
+     "id": "8d58510d237a016c",
+     "title": "*sshole, or when are we going to get rid of C?",
+     "source": "Hacker News",
+     "url": "https://sunshowers.io/posts/sshole/",
+     "published_at": 1794004444.0
+    }
+   ]
+  },
+  {
+   "text": "【for】Hi there :) Around a month ago, I released LDraw Nova, an agentic toolse",
+   "keyword": "for",
+   "news_ids": [
+    "b87659518e154c1b"
+   ],
+   "refs": [
+    {
+     "id": "b87659518e154c1b",
+     "title": "Show HN: Agents infer Lego mechanisms from sources, then animate them",
+     "source": "Hacker News",
+     "url": "https://github.com/anteloc/ldraw-mecha/tree/v0.5.0",
+     "published_at": 1793994080.0
+    }
+   ]
+  },
+  {
+   "text": "【of】OpenAI has reportedly raised an additional $11 billion as part of a fund",
+   "keyword": "of",
+   "news_ids": [
+    "e4352044583d7bf4"
+   ],
+   "refs": [
+    {
+     "id": "e4352044583d7bf4",
+     "title": "OpenAI reportedly raises an additional $11 billion at a $1.25 trillion valuation",
+     "source": "TechCrunch",
+     "url": "https://techcrunch.com/2026/11/06/openai-reportedly-raises-an-additional-11-billion-at-a-1-25-trillion-valuation/",
+     "published_at": 1794005626.0
+    }
+   ]
+  },
+  {
+   "text": "【in】Article URL: https://ievchina",
+   "keyword": "in",
+   "news_ids": [
+    "51a92435245d6328"
+   ],
+   "refs": [
+    {
+     "id": "51a92435245d6328",
+     "title": "CATL Sodium Battery Hits LFP Cost Parity in 2026: 15,000 Cycles, 30-Year Life",
+     "source": "Hacker News",
+     "url": "https://ievchina.com/energy-storage/catl-sodium-battery-cost-parity-lfp-2026-15000-cycles/",
+     "published_at": 1794006046.0
+    }
+   ]
+  },
+  {
+   "text": "IT之家 11 月 7 日消息，Semafor 记者 Rohan Goswami 昨日透露，如果埃隆・马斯克旗下 SpaceX 成功收购 Boo",
+   "keyword": "",
+   "news_ids": [
+    "a7dd9ff388d22311"
+   ],
+   "refs": [
+    {
+     "id": "a7dd9ff388d22311",
+     "title": "马斯克 SpaceX 拟收购 Boost Mobile 切入传统电信运营商领域，AT&T 和 T-Mobile 据称已准备应对方案",
+     "source": "IT之家",
+     "url": "https://www.ithome.com/1/023/627.htm",
+     "published_at": 1794012177.0
+    }
+   ]
+  },
+  {
+   "text": "IT之家 11 月 7 日消息，工信部装备工业一司 11 月 6 日就《机器人产品标识码管理暂行办法（征求意见稿）》公开征求意见，公示期至 12",
+   "keyword": "",
+   "news_ids": [
+    "c9c905cf86221474"
+   ],
+   "refs": [
+    {
+     "id": "c9c905cf86221474",
+     "title": "工信部就机器人“身份证”暂行办法征求意见，全品类机器人“一机一码”",
+     "source": "IT之家",
+     "url": "https://www.ithome.com/1/023/625.htm",
+     "published_at": 1794011369.0
+    }
+   ]
+  },
+  {
+   "text": "IT之家 11 月 7 日消息，京东快递 11 月 6 日宣布升级一站式雪具寄递服务，寄雪板立减 20 元起， 全国近 30 个热门雪场最长免费",
+   "keyword": "",
+   "news_ids": [
+    "aa351c99242e137a"
+   ],
+   "refs": [
+    {
+     "id": "aa351c99242e137a",
+     "title": "京东快递升级雪具寄递服务，最长免费暂存 7 天",
+     "source": "IT之家",
+     "url": "https://www.ithome.com/1/023/624.htm",
+     "published_at": 1794011087.0
+    }
+   ]
+  },
+  {
+   "text": "IT早报”时间，大家好，现在是 2026 年 11 月 7 日星期六，今天的重要科技资讯有： 1. 蔚来李斌再次警告车重，汽车重量增两成、路面损",
+   "keyword": "",
+   "news_ids": [
+    "ebfc221da773c6be"
+   ],
+   "refs": [
+    {
+     "id": "ebfc221da773c6be",
+     "title": "IT早报 1107：蔚来李斌再警示新能源车超重风险；字节出售沐瞳科技获市监总局批准；小米汽车成立国际业务部；比亚迪量产车全球首次突破 500km/h...",
+     "source": "IT之家",
+     "url": "https://www.ithome.com/1/023/622.htm",
+     "published_at": 1794010424.0
+    }
+   ]
+  }
+ ],
+ "article": {
+  "title": "2026-11-07 新闻总结",
+  "paragraphs": [
+   {
+    "kind": "lead",
+    "text": "今天共收录 79 条新闻，来自 6 家媒体。把标题放在一起看，讨论主要集中在 AI 这几个方向上，其余消息更像是零散补充。"
+   },
+   {
+    "kind": "section",
+    "heading": "AI",
+    "text": "先看「AI」。IT之家 11 月 7 日消息，Anthropic 昨日（11 月 6 日）发布研究文章《The components of agent memory》，另有 18 条消息指向同一话题。这类进展更像是把已有能力往工程化落地推了一步，真正的分水岭在于成本和可靠性能不能同时压下来。",
+    "news_ids": [
+     "daace61e2e1722bb"
+    ],
+    "refs": [
+     {
+      "id": "daace61e2e1722bb",
+      "title": "Anthropic 研究称 Claude AI 智能体可以靠“做梦”变得更聪明",
+      "source": "IT之家",
+      "url": "https://www.ithome.com/1/023/613.htm",
+      "published_at": 1794007514.0
+     }
+    ]
+   },
+   {
+    "kind": "section",
+    "heading": "算力",
+    "text": "与此同时「算力」。IT之家 11 月 7 日消息，据彭博社今日报道，微软正在逐步结束与甲骨文（Oracle）的 AI 算力租赁合作…，另有 14 条消息指向同一话题。技术路线的胜负很少由一次发布会决定，接下来要看的是它能不能被更多团队低成本复用。",
+    "news_ids": [
+     "1ba860ac53759ed8"
+    ],
+    "refs": [
+     {
+      "id": "1ba860ac53759ed8",
+      "title": "消息称微软不再续签甲骨文 AI 算力租赁协议，重新评估超 800 亿美元云合作",
+      "source": "IT之家",
+      "url": "https://www.ithome.com/1/023/606.htm",
+      "published_at": 1794005055.0
+     }
+    ]
+   },
+   {
+    "kind": "section",
+    "heading": "推出",
+    "text": "另一个值得注意的方向是「推出」。Cloudflare 与 VoidZero 联合推出 tsrs，另有 3 条消息指向同一话题。这类进展更像是把已有能力往工程化落地推了一步，真正的分水岭在于成本和可靠性能不能同时压下来。",
+    "news_ids": [
+     "62dc2858fe64433c"
+    ],
+    "refs": [
+     {
+      "id": "62dc2858fe64433c",
+      "title": "Cloudflare 与 VoidZero 联合推出 tsrs：由 AI 生成的 TypeScript 编译器 Rust 移植版",
+      "source": "InfoQ中文",
+      "url": "https://www.infoq.cn/article/lGoA1ZSw6ojeh68GVlBl?utm_source=rss&utm_medium=article",
+      "published_at": 1793984400.0
+     }
+    ]
+   },
+   {
+    "kind": "section",
+    "heading": "制造",
+    "text": "相比之下「制造」。IT之家 11 月 7 日消息，科技媒体《The Information》昨日（11 月 6 日）援引两名知情人士报道， 台积电正考虑扩大业务版图，进军先进内存芯片制造，另有 5 条消息指向同一话题。技术路线的胜负很少由一次发布会决定，接下来要看的是它能不能被更多团队低成本复用。",
+    "news_ids": [
+     "7ae6a52a299c01a5"
+    ],
+    "refs": [
+     {
+      "id": "7ae6a52a299c01a5",
+      "title": "消息称台积电考虑进军先进内存芯片制造，有望为英伟达打造 3D DRAM",
+      "source": "IT之家",
+      "url": "https://www.ithome.com/1/023/619.htm",
+      "published_at": 1794009545.0
+     }
+    ]
+   },
+   {
+    "kind": "glossary",
+    "items": [
+     {
+      "term": "AI",
+      "desc": "人工智能，让机器完成识别、生成、判断等原本需要人做的任务"
+     },
+     {
+      "term": "Robotaxi",
+      "desc": "无人驾驶出租车，车里没有司机，靠自动驾驶系统接单运营"
+     },
+     {
+      "term": "Agent",
+      "desc": "智能体，能自己拆解任务、调用工具并连续执行的 AI 程序"
+     },
+     {
+      "term": "IPO",
+      "desc": "首次公开募股，公司第一次把股票卖给公众并上市"
+     },
+     {
+      "term": "GPU",
+      "desc": "图形处理器，因为擅长大规模并行计算，成了 AI 训练的主力硬件"
+     },
+     {
+      "term": "无人机",
+      "desc": "不需要机上飞行员、靠远程或自主控制的飞行器"
+     }
+    ]
+   },
+   {
+    "kind": "outlook",
+    "text": "整体看，这个时段的新闻还处在「消息多、结论少」的阶段，与其急着下判断，不如盯住接下来一两周有没有可验证的后续动作。"
+   }
+  ],
+  "word_count": 645
+ },
+ "ai_enhanced": false,
+ "schema": 1,
+ "window_bj": {
+  "start": "2026-11-07 00:00",
+  "end": "2026-11-07 09:00"
+ }
+}

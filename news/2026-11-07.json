@@ -1,8 +1,116 @@
 {
  "date": "2026-11-07",
- "generated_at": 1794012573.2959342,
- "count": 77,
+ "generated_at": 1794016275.161472,
+ "count": 91,
  "items": [
+  {
+   "id": "3d4cd3edc7ccb789",
+   "source": "InfoQ中文",
+   "title": "线上 Worker 变慢，本地却复现不了？Cloudflare 让开发者直接看生产环境火焰图",
+   "url": "https://www.infoq.cn/article/pMNGPheLLJ8hkfikmjUU?utm_source=rss&utm_medium=article",
+   "summary": "点击查看原文>",
+   "published_at": 1794042000.0,
+   "published_bj": "2026-11-07 17:00"
+  },
+  {
+   "id": "4ef7f72df46b23d0",
+   "source": "IT之家",
+   "title": "T1 3:1 战胜 KC 跻身《英雄联盟》S16 四强，11 月 9 日半决赛对阵 BLG",
+   "url": "https://www.ithome.com/1/023/642.htm",
+   "summary": "IT之家 11 月 7 日消息，《英雄联盟》2026 全球总决赛淘汰赛 1/4 决赛落幕，最终 lCK 三号种子 T1 以 3:1 的成绩战胜 LEC 三号种子 KC 成功晋级 2026 全球总决赛淘汰赛半决赛，将在 11 月 9 日与 LPL 二号种子 BLG 战队展开强强对决。 第一局赛事简介： 【T1 1:0 KC】 【本局 MVP】T1 战队下路选手 Peyz 【本局比赛战报】 10 分钟，上路对拼中，Canna 兰博对奥恩完成对位单杀拿到一血，随后 Oner 嘉文四世赶到留住并击败兰博，双方一换一； 25 分钟，野区发生团战，Peyz 芸阿娜伤害拉满拿到双杀，T1 击败 KC 三人并",
+   "published_at": 1794015741.0,
+   "published_bj": "2026-11-07 09:42"
+  },
+  {
+   "id": "f78e934cc3148d34",
+   "source": "TechCrunch",
+   "title": "Crusoe sells troubled Wyoming data center project to Google",
+   "url": "https://techcrunch.com/2026/11/06/crusoe-sells-troubled-wyoming-data-center-project-to-google/",
+   "summary": "The deal highlights the challenges of developing massive AI data centers.",
+   "published_at": 1794015628.0,
+   "published_bj": "2026-11-07 09:40"
+  },
+  {
+   "id": "2dd724a6dd4e0798",
+   "source": "IT之家",
+   "title": "“史上最大 IPO”遇挑战：Anthropic 上市估值存分歧，1.5 万亿美元仍被嫌贵",
+   "url": "https://www.ithome.com/1/023/640.htm",
+   "summary": "IT之家 11 月 7 日消息，路透社昨日（11 月 6 日）发布博文，报道称 AI 公司 Anthropic 的首次公开募股（IPO）计划面临投资者估值质疑， 部分投资者认为 1.5 万亿美元 （现汇率约合 10.03 万亿元人民币） 估值依然偏高 。Anthropic 拒绝就相关疑虑置评。 报道指出在冲击“史上最大 IPO”的道路上，Anthropic 的公司估值预期不断下调。Anthropic 公司原计划于 11 月 9 日当周启动路演、次周定价，争取 11 月挂牌，公司最初寻求高达 2 万亿美元 （现汇率约合 13.37 万亿元人民币） 的估值。 IT之家曾于 11 月 3 日援引《华",
+   "published_at": 1794015408.0,
+   "published_bj": "2026-11-07 09:36"
+  },
+  {
+   "id": "7df917644ac124c8",
+   "source": "IT之家",
+   "title": "苹果 iOS 键盘被曝隐藏约 10 万个敏感词汇名单：避免 iPhone 输入法自动推荐补全，但用户仍可手动输入",
+   "url": "https://www.ithome.com/1/023/638.htm",
+   "summary": "IT之家 11 月 7 日消息，据路透社当地时间 11 月 6 日报道，独立研究人员 Derik Kauffman 发现，苹果 iOS 键盘系统内部存在一份未公开的多语言词汇限制名单，研究人员将其称为“灰名单”（Gray List）。 这意味着苹果不会通过自动补全或滑行输入功能向用户主动推荐这些词汇，但不禁止用户手动输入。据介绍，这份名单不仅包括脏话、性相关内容以及毒品和暴力相关词汇，还涉及部分政治敏感表达。 Kauffman 表示，他是在今年 9 月发现这份名单的。当时，他注意到 iPhone 滑行输入在处理某些短语时会出现异常，例如输入“Bad boy”（坏男孩）和“White man”（",
+   "published_at": 1794015211.0,
+   "published_bj": "2026-11-07 09:33"
+  },
+  {
+   "id": "94e1e2e0bff53dd0",
+   "source": "IT之家",
+   "title": "宇树科技联合巨星传奇发布首款消费级收藏机器狗 UNI-DOGGIE，首发价 43900 元",
+   "url": "https://www.ithome.com/1/023/636.htm",
+   "summary": "IT之家 11 月 7 日消息，11 月 6 日，巨星传奇在第九届进博会上首发与宇树科技联合开发的 UNI-DOGGIE 机器狗，售价 43900 元。 IT之家从官方介绍获悉，UNI-DOGGIE 是巨星传奇与 宇树科技 联合打造的 赛博朋克潮流艺术机器狗 ，兼备陪伴功能与社交属性，同时也是宇树科技第一只消费级收藏机器狗。产品融合“明星 IP× 潮玩 × 科技”，在硬核技术底座之上，更注重 IP 形象、情感连接、互动体验的趣味性与生活场景的广泛适配，让机器狗成为有温度的智能陪伴伙伴。在市场端，UNI-DOGGIE 零售价为 43900 元， 并已获得商业化首单 ， 威刚科技 作为经销商已采购",
+   "published_at": 1794014950.0,
+   "published_bj": "2026-11-07 09:29"
+  },
+  {
+   "id": "83066bbed96fdfea",
+   "source": "IT之家",
+   "title": "刷新算力巅峰：IBM 在美国芝加哥揭幕其最强量子计算机",
+   "url": "https://www.ithome.com/1/023/635.htm",
+   "summary": "IT之家 11 月 7 日消息，IBM 昨日（11 月 6 日）发布联合公告，宣布携手芝加哥大学、美国伊利诺伊州政府、以及伊利诺伊量子与微电子园（IQMP）， 已在芝加哥海德公园实验室投运 IBM Quantum System Two 量子计算机。 这是 IBM 在伊利诺伊州部署的首台量子计算机，也是该公司当前最先进的量子计算系统，其核心为 IBM Quantum Nighthawk 芯片，被 IBM 称为迄今打造的最强大量子芯片。 Nighthawk 是 IBM 于 2025 年发布的超导量子处理器系列，芝加哥部署的是其第二代版本 Nighthawk r2。IBM 将其称为“迄今最强大的量子",
+   "published_at": 1794014568.0,
+   "published_bj": "2026-11-07 09:22"
+  },
+  {
+   "id": "b43b001137bfabd9",
+   "source": "IT之家",
+   "title": "消息称 vivo X500 Ultra 明年 3-4 月登场，或是同阵营唯一影像超大杯",
+   "url": "https://www.ithome.com/1/023/633.htm",
+   "summary": "IT之家 11 月 7 日消息，据博主 @数码闲聊站 今日爆料，vivo X500 Ultra 目前是正常打磨中，明年 3-4 月登场，或许是同阵营唯一影像超大杯。 IT之家注意到，vivo 副总裁、产品副总裁黄韬先前确认， X500 Ultra 机型会正常迭代 ，预计明年 3-4 月发布，影像会拉开和 Pro Max 的差距，主打先锋用户与专业创作者。 爆料显示，vivo X500 Ultra 有望搭载第六代骁龙 8 超级至尊版处理器，采用 6.85 英寸 BOE 2K+144Hz LTPO 屏幕，LIPO 四等边大 R 角直屏，配备 3D 超声波指纹，前摄为常规 5000 万像素传感器，后",
+   "published_at": 1794013912.0,
+   "published_bj": "2026-11-07 09:11"
+  },
+  {
+   "id": "0085bbabc10932ee",
+   "source": "IT之家",
+   "title": "保时捷推出 911 Carrera RS 2.7 联名咖啡机，售价 7911 美元",
+   "url": "https://www.ithome.com/1/023/632.htm",
+   "summary": "IT之家 11 月 7 日消息，当地时间 11 月 5 日，保时捷宣布与意大利咖啡机制造商 La Marzocco 合作，推出了一款限量版 Linea Micra 意式浓缩咖啡机和 Pico 咖啡磨豆机，以及咖啡杯、咖啡师毛巾、服饰和汽车模型等周边产品。 这款咖啡机以保时捷 1972 年推出的经典跑车 911 Carrera RS 2.7 为设计灵感，在机身顶部的杯架位置融入了标志性的鸭尾扰流板造型。 这款咖啡机在美国市场税前价为 7,911 美元 （IT之家注：现汇率约合 52,894 元人民币） ，欧洲为 5,790 欧元 （现汇率约合 43,164 元人民币） ，咖啡磨豆机为 2,125",
+   "published_at": 1794013616.0,
+   "published_bj": "2026-11-07 09:06"
+  },
+  {
+   "id": "44008d8a4ef5eaca",
+   "source": "Hacker News",
+   "title": "I Toured Unitree's Factory. I'm More Bullish on the West",
+   "url": "https://josef.cn/blog/unitree",
+   "summary": "Article URL: https://josef.cn/blog/unitree Comments URL: https://news.ycombinator.com/item?id=50400597 Points: 3 # Comments: 1",
+   "published_at": 1794013516.0,
+   "published_bj": "2026-11-07 09:05"
+  },
+  {
+   "id": "a71dd9a21b267646",
+   "source": "IT之家",
+   "title": "又一项重要成果，我国牵头制定脑机接口参考架构国际标准正式发布",
+   "url": "https://www.ithome.com/1/023/631.htm",
+   "summary": "IT之家 11 月 7 日消息，据央视新闻报道，记者 6 日从国家标准委了解到，一项由我国牵头制定的脑机接口参考架构国际标准近日正式发布，这是我国在脑机接口国际标准化领域取得的又一项重要成果。 报道称，该标准围绕“ 脑机接口是什么、怎么用、有什么功能、如何实现 ”四个核心问题，系统梳理了典型实现模式，形成包括概念、应用、功能和实现的完整技术框架。 脑机接口参考架构国际标准起草人潘纲介绍，现在大家对脑机接口的定义，也在逐步地发展过程当中，早期脑机接口概念最主要就是意念的读出，现在经过二三十年的发展，它不单是读出，简单地说，其实是一个信号的读出来，去解读它，进而去调控、干预、影响它，这样形成信号的",
+   "published_at": 1794013512.0,
+   "published_bj": "2026-11-07 09:05"
+  },
+  {
+   "id": "b5425ec34baf7f0c",
+   "source": "IT之家",
+   "title": "触控剪辑 / 调色登场：达芬奇 DaVinci Resolve 21.2 发布，适配苹果首款触控 MacBook Pro",
+   "url": "https://www.ithome.com/1/023/630.htm",
+   "summary": "IT之家 11 月 7 日消息， Blackmagic Design 昨日（11 月 6 日）发布达芬奇 DaVinci Resolve 21.2 更新 ，同时更新 DaVinci Resolve Studio 21.2（付费版），为剪辑、调色和特效工作流带来触控支持等。 达芬奇 DaVinci Resolve 是 Blackmagic Design 开发的专业视频后期软件，把剪辑、调色、视觉特效、动态图形、音频后期和照片处理整合在同一套应用中，常被用于短片、广告、纪录片、电影和自媒体内容制作。 IT之家援引博文介绍，本次更新最值得关注的改进，在于原生支持苹果首款配备 PROLED XDR 屏",
+   "published_at": 1794013375.0,
+   "published_bj": "2026-11-07 09:02"
+  },
   {
    "id": "76fa1472c1f44f47",
    "source": "IT之家",
@@ -139,6 +247,15 @@
    "published_bj": "2026-11-07 07:40"
   },
   {
+   "id": "24b1b1c736916bdf",
+   "source": "Hacker News",
+   "title": "RealPage rent-pricing case wraps with nearly $360M to renters",
+   "url": "https://www.multifamilydive.com/news/realpage-rent-pricing-case-360m-renters/873553/",
+   "summary": "Article URL: https://www.multifamilydive.com/news/realpage-rent-pricing-case-360m-renters/873553/ Comments URL: https://news.ycombinator.com/item?id=50399991 Points: 6 # Comments: 0",
+   "published_at": 1794008239.0,
+   "published_bj": "2026-11-07 07:37"
+  },
+  {
    "id": "64b93d4bf13c5078",
    "source": "Hacker News",
    "title": "Libghostty 1.0",
@@ -216,6 +333,15 @@
    "title": "CATL Sodium Battery Hits LFP Cost Parity in 2026: 15,000 Cycles, 30-Year Life",
    "url": "https://ievchina.com/energy-storage/catl-sodium-battery-cost-parity-lfp-2026-15000-cycles/",
    "summary": "Article URL: https://ievchina.com/energy-storage/catl-sodium-battery-cost-parity-lfp-2026-15000-cycles/ Comments URL: https://news.ycombinator.com/item?id=50399657 Points: 51 # Comments: 17",
+   "published_at": 1794006046.0,
+   "published_bj": "2026-11-07 07:00"
+  },
+  {
+   "id": "9bfcc416acd17350",
+   "source": "Hacker News",
+   "title": "Sodium-ion batteries approach cost parity with LFP",
+   "url": "https://www.pv-magazine.com/2026/11/06/sodium-ion-batteries-approach-cost-parity-with-lfp-with-70-gwh-covered-by-supply-agreements/",
+   "summary": "Article URL: https://www.pv-magazine.com/2026/11/06/sodium-ion-batteries-approach-cost-parity-with-lfp-with-70-gwh-covered-by-supply-agreements/ Comments URL: https://news.ycombinator.com/item?id=50399657 Points: 117 # Comments: 52",
    "published_at": 1794006046.0,
    "published_bj": "2026-11-07 07:00"
   },
