@@ -1,8 +1,26 @@
 {
  "date": "2026-11-08",
- "generated_at": 1794087041.1625767,
- "count": 39,
+ "generated_at": 1794089681.9066863,
+ "count": 41,
  "items": [
+  {
+   "id": "f1c980925686a87e",
+   "source": "TechCrunch",
+   "title": "After the midterms, things are looking rocky for Elon Musk and data centers",
+   "url": "https://techcrunch.com/2026/11/07/after-the-midterms-things-are-looking-rocky-for-elon-musk-and-data-centers/",
+   "summary": "On Equity, we unpacked what the midterms mean for the tech industry.",
+   "published_at": 1794089242.0,
+   "published_bj": "2026-11-08 06:07"
+  },
+  {
+   "id": "400874872a13d4f6",
+   "source": "Hacker News",
+   "title": "Show HN: An offline desktop companion to help maintain a healthy blink rhythm",
+   "url": "https://eyesrhythm.com/",
+   "summary": "Profession like software engineer, mechanical / graphics designer takes a lot of strain on your eyes, observing minute details for hours and hours on screen can significantly reduce the blink rate which you might not even notice until it gets irreversibly painful, leaving you with dry eyes. I am alr",
+   "published_at": 1794088067.0,
+   "published_bj": "2026-11-08 05:47"
+  },
   {
    "id": "b9c93a90d75a42ff",
    "source": "TechCrunch",
