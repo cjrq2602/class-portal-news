@@ -1,8 +1,17 @@
 {
  "date": "2026-11-08",
- "generated_at": 1794067007.8946993,
- "count": 1,
+ "generated_at": 1794069158.8395226,
+ "count": 5,
  "items": [
+  {
+   "id": "57c6beb062d6ec11",
+   "source": "Solidot",
+   "title": "ESA Hera 探测器发回 DART 撞击的小行星照片",
+   "url": "https://www.solidot.org/story?sid=85825",
+   "summary": "ESA Hera 探测器拍下了 Didymos 双小行星系统的首张近距离照片。这个系统由两颗小行星组成，直径 780 米的 Didymos 是主星，直径 151 米的 Dimorphos 则绕着它运行。2022 年 9 月 26 日，NASA DART 探测器直接撞上较小的 Dimorphos，再测量它绕行主星 Didymos 的时间改变了多少。为了进一步了解这次撞击的影响，Hera 于 2024 年 10 月 7 日发射，历经两年飞行抵达这对小行星附近。它将近距离调查撞击如何改变小行星的轨道与地表，评估这种方法将来能否用来使威胁地球的小行星偏离原有轨道。Hera 用单色小行星取景相机从 60",
+   "published_at": 1794068229.0,
+   "published_bj": "2026-11-08 00:17"
+  },
   {
    "id": "693118ea2af001af",
    "source": "InfoQ中文",
@@ -11,6 +20,33 @@
    "summary": "点击查看原文>",
    "published_at": 1794067860.0,
    "published_bj": "2026-11-08 00:11"
+  },
+  {
+   "id": "446f008c26529151",
+   "source": "Solidot",
+   "title": "FAA 计划到 2028 年淘汰软盘",
+   "url": "https://www.solidot.org/story?sid=85824",
+   "summary": "FAA 计划到到 2028 年底前更换全美逾 400 个空管设施使用的软盘。新系统 Enterprise Information Display System 将取代可上溯至 1980 年代的旧系统。逾 25 年前软盘就基本停止使用，2011 年起不再大规模生产。去年美国国会批准了 125 亿美元资金用于更新陈旧的空管系统。FAA 目前还面临诸多技术难题，交通部长 Sean Duffy 正寻求额外 30 亿美元的资金。FAA 局长 Bryan Bedford 表示：“我们正摒弃过时的手动流程，用一套现代化系统取代曾依赖软盘的技术。新系统使管制员能即时共享关键的飞行警报、空域限制计划以及飞行员报",
+   "published_at": 1794067540.0,
+   "published_bj": "2026-11-08 00:05"
+  },
+  {
+   "id": "3352e15d6cdfc436",
+   "source": "Hacker News",
+   "title": "Google Described Its Agent Sandbox. I Built One with Firecracker and Measured It",
+   "url": "https://antonau.tech/posts/2026/11/agents-microvm-firecracker/",
+   "summary": "Article URL: https://antonau.tech/posts/2026/11/agents-microvm-firecracker/ Comments URL: https://news.ycombinator.com/item?id=50405649 Points: 8 # Comments: 0",
+   "published_at": 1794067300.0,
+   "published_bj": "2026-11-08 00:01"
+  },
+  {
+   "id": "dea2781ccf205b8b",
+   "source": "IT之家",
+   "title": "安卓阵营首款阔直板手机酷派 COOL X Wide 今日开售：999~1399 元，搭载联发科曦力 G99 芯片 + 720p 屏幕",
+   "url": "https://www.ithome.com/1/023/829.htm",
+   "summary": "IT之家 11 月 8 日消息，安卓阵营首款阔直板手机，也是酷派首款阔直板手机 Cool X Wide 今日正式开售。其中，8GB+128GB 版本 999 元，8GB+256GB 版本 1199 元，12GB+256GB 版本 1399 元。 这款新机搭载 6.38 英寸 16:10 屏幕，仅 720x1158 分辨率，还支持 90Hz 刷新率；有鎏白、岩黑、嫣红三种配色可选，机身尺寸为 150.3×94.5×8.95mm，后置 5000 万像素摄像头。 这款手机采用联发科曦力 G99 处理器，搭配 LPDDR4X 内存与 UFS 2.2 闪存，至高 12GB+256GB 存储，此外支持最大",
+   "published_at": 1794067212.0,
+   "published_bj": "2026-11-08 00:00"
   }
  ]
 }

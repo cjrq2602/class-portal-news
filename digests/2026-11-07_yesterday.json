@@ -1,0 +1,382 @@
+{
+ "type": "yesterday",
+ "date": "2026-11-07",
+ "window": {
+  "start_ts": 1793980800.0,
+  "end_ts": 1794067200.0
+ },
+ "generated_at": 1794069170.550544,
+ "generator": "action",
+ "news_count": 261,
+ "keywords": [
+  "ai",
+  "the",
+  "发布",
+  "美元",
+  "元",
+  "to",
+  "亿美",
+  "苹果",
+  "for",
+  "手机"
+ ],
+ "points": [
+  {
+   "text": "【ai】Democrats’ historic victories in this week’s U",
+   "keyword": "ai",
+   "news_ids": [
+    "671c57dfe78c571b"
+   ],
+   "refs": [
+    {
+     "id": "671c57dfe78c571b",
+     "title": "After the midterms, is the AI industry in for a rough two years?",
+     "source": "TechCrunch",
+     "url": "https://techcrunch.com/video/after-the-midterms-is-the-ai-industry-in-for-a-rough-two-years/",
+     "published_at": 1793985832.0
+    }
+   ]
+  },
+  {
+   "text": "【ai】IT之家 11 月 7 日消息，中国科普作家协会今天（7 日）发布了 2026 年度十大科普热词，人工智能相关占据七席，包括 “人工智能 +”“",
+   "keyword": "ai",
+   "news_ids": [
+    "daa360e10c564577"
+   ],
+   "refs": [
+    {
+     "id": "daa360e10c564577",
+     "title": "中国科普作家协会发布 2026 年度十大科普热词，AI 相关占据七席",
+     "source": "IT之家",
+     "url": "https://www.ithome.com/1/023/766.htm",
+     "published_at": 1794043763.0
+    }
+   ]
+  },
+  {
+   "text": "【ai】IT之家 11 月 7 日消息，路透社今天（11 月 7 日）发布博文，报道称谷歌母公司 Alphabet 在第三季度首次买入芯片巨头高通约 2",
+   "keyword": "ai",
+   "news_ids": [
+    "23548edde4c84868"
+   ],
+   "refs": [
+    {
+     "id": "23548edde4c84868",
+     "title": "谷歌母公司 Alphabet 斥资约 5.48 亿美元建仓高通，押注 AI 芯片新赛道",
+     "source": "IT之家",
+     "url": "https://www.ithome.com/1/023/607.htm",
+     "published_at": 1794005284.0
+    }
+   ]
+  },
+  {
+   "text": "【ai】中国人工智能视频生成初创企业Sand.ai于11月5日宣布，已经完成2亿美元的A+轮融资，公司估值突破10亿美元，正式跻身独角兽企业行列",
+   "keyword": "ai",
+   "news_ids": [
+    "3718ecd253367364"
+   ],
+   "refs": [
+    {
+     "id": "3718ecd253367364",
+     "title": "中国AI视频生成公司Sand.ai完成2亿美元融资 估值突破10亿美元",
+     "source": "cnBeta",
+     "url": "https://www.cnbeta.com.tw/articles/movie/1585348.htm",
+     "published_at": 1794033550.0
+    }
+   ]
+  },
+  {
+   "text": "【the】After spending two years getting cozy with the White House, Big Tech is ",
+   "keyword": "the",
+   "news_ids": [
+    "0f3c037e3339a5a9"
+   ],
+   "refs": [
+    {
+     "id": "0f3c037e3339a5a9",
+     "title": "From the front row to the hot seat — what the midterms mean for Big Tech",
+     "source": "TechCrunch",
+     "url": "https://techcrunch.com/2026/11/06/from-the-front-row-to-the-hot-seat-what-the-midterms-mean-for-big-tech/",
+     "published_at": 1794025003.0
+    }
+   ]
+  },
+  {
+   "text": "【美元】北京时间 11 月 7 日，据彭博社报道，知情人士称，OpenAI 新一轮融资已完成大约 110 亿美元的首期款项，对公司的估值为 1.25 万",
+   "keyword": "美元",
+   "news_ids": [
+    "554bbdc3c96179d0"
+   ],
+   "refs": [
+    {
+     "id": "554bbdc3c96179d0",
+     "title": "消息称 OpenAI 完成 110 亿美元首期新融资，估值 1.25 万亿美元",
+     "source": "IT之家",
+     "url": "https://www.ithome.com/1/023/612.htm",
+     "published_at": 1794007452.0
+    }
+   ]
+  },
+  {
+   "text": "【the】Article URL: https://nfsu2",
+   "keyword": "the",
+   "news_ids": [
+    "f9ebd414770c1c5d"
+   ],
+   "refs": [
+    {
+     "id": "f9ebd414770c1c5d",
+     "title": "Need for Speed Underground 2 online in the browser",
+     "source": "Hacker News",
+     "url": "https://nfsu2.xyz/",
+     "published_at": 1794044196.0
+    }
+   ]
+  },
+  {
+   "text": "【ai】微软近日公开的一项专利申请引发广泛关注",
+   "keyword": "ai",
+   "news_ids": [
+    "2bc60771146c53ac"
+   ],
+   "refs": [
+    {
+     "id": "2bc60771146c53ac",
+     "title": "微软申请“实时改写发言”AI专利 可修改直播内容并同步调整口型",
+     "source": "cnBeta",
+     "url": "https://www.cnbeta.com.tw/articles/tech/1585382.htm",
+     "published_at": 1794060802.0
+    }
+   ]
+  },
+  {
+   "text": "【元】IT之家 11 月 7 日消息，漫步者旗下电竞品牌 HECATE 现已推出 GT3 降噪蓝牙游戏耳机， 售价 265 元 ，焕新补贴 10% 到",
+   "keyword": "元",
+   "news_ids": [
+    "685cdaefee90e538"
+   ],
+   "refs": [
+    {
+     "id": "685cdaefee90e538",
+     "title": "漫步者 HECATE GT3 TWS 耳机开售：-50dB 深度混合降噪，265 元",
+     "source": "IT之家",
+     "url": "https://www.ithome.com/1/023/812.htm",
+     "published_at": 1794058394.0
+    }
+   ]
+  },
+  {
+   "text": "IT之家 11 月 7 日现场消息，今晚，在阿布扎比，比亚迪旗下超豪华行政旗舰轿车 —— 仰望鼎曜迎来全球首秀",
+   "keyword": "",
+   "news_ids": [
+    "e285966cfdfe4c9d"
+   ],
+   "refs": [
+    {
+     "id": "e285966cfdfe4c9d",
+     "title": "比亚迪超豪华行政旗舰轿车登场！仰望鼎曜行政版车长 5.6 米、续航破千公里",
+     "source": "IT之家",
+     "url": "https://www.ithome.com/1/023/827.htm",
+     "published_at": 1794064781.0
+    }
+   ]
+  },
+  {
+   "text": "IT之家 11 月 7 日现场消息，今晚，在阿布扎比，比亚迪旗下超豪华行政旗舰轿车 —— 仰望鼎曜迎来全球首秀",
+   "keyword": "",
+   "news_ids": [
+    "3d319c26727680a2"
+   ],
+   "refs": [
+    {
+     "id": "3d319c26727680a2",
+     "title": "比亚迪仰望鼎曜「山河鼎韵」限量版轿车设计细节公布，拥有专属外观内饰「棕岩白玉」及高定配置",
+     "source": "IT之家",
+     "url": "https://www.ithome.com/1/023/825.htm",
+     "published_at": 1794063608.0
+    }
+   ]
+  },
+  {
+   "text": "IT之家 11 月 7 日消息，据美联社报道，欧盟初步调查结果显示，TikTok 违反了其《数字服务法》，称其算法向用户不间断推荐个性化视频流，",
+   "keyword": "",
+   "news_ids": [
+    "83c0223b15c4164a"
+   ],
+   "refs": [
+    {
+     "id": "83c0223b15c4164a",
+     "title": "个性化推荐机制被欧盟初步判定违反《数字服务法》，TikTok 否认相关指控称调查结果失实",
+     "source": "IT之家",
+     "url": "https://www.ithome.com/1/023/818.htm",
+     "published_at": 1794061407.0
+    }
+   ]
+  },
+  {
+   "text": "一项来自加拿大西蒙弗雷泽大学的最新研究发现，年轻人与老年人的大脑在经历睡眠不足后，会出现方向截然相反的神经活动变化",
+   "keyword": "",
+   "news_ids": [
+    "d97f466c78c4dc4e"
+   ],
+   "refs": [
+    {
+     "id": "d97f466c78c4dc4e",
+     "title": "研究发现老年人大脑对睡眠不足的反应与年轻人截然不同",
+     "source": "cnBeta",
+     "url": "https://www.cnbeta.com.tw/articles/science/1585386.htm",
+     "published_at": 1794060876.0
+    }
+   ]
+  },
+  {
+   "text": "IT之家 11 月 7 日消息，据央视新闻报道，近日，我国完成全球首个千公里空芯光纤双向实时传输验证",
+   "keyword": "",
+   "news_ids": [
+    "6cb929b0ea5d0a82"
+   ],
+   "refs": [
+    {
+     "id": "6cb929b0ea5d0a82",
+     "title": "千公里信号单程传输仅 3.43 毫秒！我国新一代通信网技术取得新突破",
+     "source": "IT之家",
+     "url": "https://www.ithome.com/1/023/816.htm",
+     "published_at": 1794060266.0
+    }
+   ]
+  },
+  {
+   "text": "IT之家 11 月 7 日消息，《新闻联播》今日用时约 2 分 20 秒介绍了我国新一代通信网加快建设",
+   "keyword": "",
+   "news_ids": [
+    "cc08fe6f84f30063"
+   ],
+   "refs": [
+    {
+     "id": "cc08fe6f84f30063",
+     "title": "未来 6G 基站不光能通信还能当雷达，新闻联播报道详解新一代通信网加快建设",
+     "source": "IT之家",
+     "url": "https://www.ithome.com/1/023/815.htm",
+     "published_at": 1794059491.0
+    }
+   ]
+  }
+ ],
+ "article": {
+  "title": "2026-11-07 新闻总结",
+  "paragraphs": [
+   {
+    "kind": "lead",
+    "text": "过去 24 小时共收录 261 条新闻，来自 7 家媒体。把标题放在一起看，讨论主要集中在 AI、手机、游戏 这几个方向上，其余消息更像是零散补充。"
+   },
+   {
+    "kind": "section",
+    "heading": "AI",
+    "text": "先看「AI」。IT之家 11 月 7 日消息，机械革命新上架了一款“无界 15X 暴风雪 电竞版”，搭载 AMD 锐龙 AI 9 365 处理器、240Hz 电竞屏，首发价 6499 元，另有 123 条消息指向同一话题。这类进展更像是把已有能力往工程化落地推了一步，真正的分水岭在于成本和可靠性能不能同时压下来。",
+    "news_ids": [
+     "8bfddc02f2177e29"
+    ],
+    "refs": [
+     {
+      "id": "8bfddc02f2177e29",
+      "title": "机械革命推出无界 15X 暴风雪电竞版：锐龙 AI 9 365、16GB + 1TB，首发 6499 元",
+      "source": "IT之家",
+      "url": "https://www.ithome.com/1/023/668.htm",
+      "published_at": 1794025027.0
+     }
+    ]
+   },
+   {
+    "kind": "section",
+    "heading": "发布",
+    "text": "与此同时「发布」。IT之家 11 月 7 日消息，中国科普作家协会今天（7 日）发布了 2026 年度十大科普热词，人工智能相关占据七席，另有 29 条消息指向同一话题。技术路线的胜负很少由一次发布会决定，接下来要看的是它能不能被更多团队低成本复用。",
+    "news_ids": [
+     "daa360e10c564577"
+    ],
+    "refs": [
+     {
+      "id": "daa360e10c564577",
+      "title": "中国科普作家协会发布 2026 年度十大科普热词，AI 相关占据七席",
+      "source": "IT之家",
+      "url": "https://www.ithome.com/1/023/766.htm",
+      "published_at": 1794043763.0
+     }
+    ]
+   },
+   {
+    "kind": "section",
+    "heading": "公司",
+    "text": "另一个值得注意的方向是「公司」。IT之家 11 月 7 日消息，路透社今天（11 月 7 日）发布博文，报道称谷歌母公司 Alphabet 在第三季度首次买入芯片巨头高通约 297.7 万股股票，另有 8 条消息指向同一话题。这类进展更像是把已有能力往工程化落地推了一步，真正的分水岭在于成本和可靠性能不能同时压下来。",
+    "news_ids": [
+     "23548edde4c84868"
+    ],
+    "refs": [
+     {
+      "id": "23548edde4c84868",
+      "title": "谷歌母公司 Alphabet 斥资约 5.48 亿美元建仓高通，押注 AI 芯片新赛道",
+      "source": "IT之家",
+      "url": "https://www.ithome.com/1/023/607.htm",
+      "published_at": 1794005284.0
+     }
+    ]
+   },
+   {
+    "kind": "section",
+    "heading": "融资",
+    "text": "相比之下「融资」。中国人工智能视频生成初创企业Sand.ai于11月5日宣布，已经完成2亿美元的A+轮融资，公司估值突破10亿美元，另有 10 条消息指向同一话题。融资和估值只能说明市场情绪，能不能兑现，还要看下一两个季度的收入和留存。",
+    "news_ids": [
+     "3718ecd253367364"
+    ],
+    "refs": [
+     {
+      "id": "3718ecd253367364",
+      "title": "中国AI视频生成公司Sand.ai完成2亿美元融资 估值突破10亿美元",
+      "source": "cnBeta",
+      "url": "https://www.cnbeta.com.tw/articles/movie/1585348.htm",
+      "published_at": 1794033550.0
+     }
+    ]
+   },
+   {
+    "kind": "glossary",
+    "items": [
+     {
+      "term": "AI",
+      "desc": "人工智能，让机器完成识别、生成、判断等原本需要人做的任务"
+     },
+     {
+      "term": "API",
+      "desc": "应用程序接口，让不同软件按约定好的方式互相调用"
+     },
+     {
+      "term": "IPO",
+      "desc": "首次公开募股，公司第一次把股票卖给公众并上市"
+     },
+     {
+      "term": "GPU",
+      "desc": "图形处理器，因为擅长大规模并行计算，成了 AI 训练的主力硬件"
+     },
+     {
+      "term": "Agent",
+      "desc": "智能体，能自己拆解任务、调用工具并连续执行的 AI 程序"
+     },
+     {
+      "term": "Robotaxi",
+      "desc": "无人驾驶出租车，车里没有司机，靠自动驾驶系统接单运营"
+     }
+    ]
+   },
+   {
+    "kind": "outlook",
+    "text": "把这几条放在一起看，最值得跟踪的是 AI 和 手机 两条线：一条决定技术能走多远，一条决定它多快能落到普通人的日常里。至于其他消息，可以先放进观察名单，等后续有更实的进展再判断。"
+   }
+  ],
+  "word_count": 722
+ },
+ "ai_enhanced": false,
+ "schema": 1,
+ "window_bj": {
+  "start": "2026-11-07 00:00",
+  "end": "2026-11-08 00:00"
+ }
+}
