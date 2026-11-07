@@ -1,6 +1,6 @@
 {
  "date": "2026-11-06",
- "generated_at": 1794044379.5972652,
+ "generated_at": 1794047011.2845385,
  "count": 400,
  "items": [
   {
@@ -2326,6 +2326,15 @@
    "published_bj": "2026-11-06 12:04"
   },
   {
+   "id": "2badebcada50624e",
+   "source": "Hacker News",
+   "title": "US FAA says it will phase out floppy disks from air traffic control by 2028",
+   "url": "https://www.reuters.com/world/us/us-faa-says-it-will-phase-out-floppy-disks-air-traffic-control-by-2028-2026-11-05/",
+   "summary": "Article URL: https://www.reuters.com/world/us/us-faa-says-it-will-phase-out-floppy-disks-air-traffic-control-by-2028-2026-11-05/ Comments URL: https://news.ycombinator.com/item?id=50388001 Points: 339 # Comments: 274",
+   "published_at": 1793937628.0,
+   "published_bj": "2026-11-06 12:00"
+  },
+  {
    "id": "fa445c46af5c0809",
    "source": "IT之家",
    "title": "方程豹官宣钛 9 本月上市：比亚迪闪充技术 + 二代刀片电池加持",
@@ -3593,15 +3602,6 @@
    "summary": "Meta warns that growing political opposition to data centers could threaten future AI investments, as communities push back against massive infrastructure projects.",
    "published_at": 1793905959.0,
    "published_bj": "2026-11-06 03:12"
-  },
-  {
-   "id": "29e62add817ea03c",
-   "source": "Hacker News",
-   "title": "The Hackintosh Reborn",
-   "url": "https://www.naut.ca/blog/2026/11/05/the-hackintosh-reborn-with-ai/",
-   "summary": "Article URL: https://www.naut.ca/blog/2026/11/05/the-hackintosh-reborn-with-ai/ Comments URL: https://news.ycombinator.com/item?id=50383057 Points: 47 # Comments: 2",
-   "published_at": 1793905702.0,
-   "published_bj": "2026-11-06 03:08"
   }
  ]
 }
