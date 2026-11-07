@@ -1,8 +1,44 @@
 {
  "date": "2026-11-08",
- "generated_at": 1794084983.0832894,
- "count": 35,
+ "generated_at": 1794087041.1625767,
+ "count": 39,
  "items": [
+  {
+   "id": "b9c93a90d75a42ff",
+   "source": "TechCrunch",
+   "title": "Megaspeed exec was recruited to spy on Nvidia CEO, according to US intelligence memo",
+   "url": "https://techcrunch.com/2026/11/07/chinese-exec-was-recruited-to-spy-on-nvidia-ceo-according-to-us-intelligence-memo/",
+   "summary": "A memo circulated earlier this year reportedly claimed that China’s Ministry of State Security recruited a female technology executive to spy on Nvidia's CEO.",
+   "published_at": 1794086228.0,
+   "published_bj": "2026-11-08 05:17"
+  },
+  {
+   "id": "dc82612c9a101cdd",
+   "source": "Hacker News",
+   "title": "Shadow of the Sun",
+   "url": "https://mattlakeman.org/2021/07/27/shadow-of-the-sun/",
+   "summary": "Article URL: https://mattlakeman.org/2021/07/27/shadow-of-the-sun/ Comments URL: https://news.ycombinator.com/item?id=50408104 Points: 3 # Comments: 1",
+   "published_at": 1794085865.0,
+   "published_bj": "2026-11-08 05:11"
+  },
+  {
+   "id": "653f64533df1dee9",
+   "source": "Hacker News",
+   "title": "Show HN: Where Were We",
+   "url": "https://wherewerewe.app/",
+   "summary": "A little web game I made as an anniversary present for my wife. Upload vacation photos and make them into a game. WWW uses EXIF to determine where and when the photo was taken. This is then turned into a game you can send to anyone. Comments URL: https://news.ycombinator.com/item?id=50408082 Points:",
+   "published_at": 1794085715.0,
+   "published_bj": "2026-11-08 05:08"
+  },
+  {
+   "id": "f84f318da4c64e0e",
+   "source": "Hacker News",
+   "title": "Claude Code's \"Don't Ask Again\" exposes passwords in 1,122 public GitHub files",
+   "url": "https://apiiro.com/blog/coding-agents-leaking-secrets-github-dont-ask-again",
+   "summary": "Article URL: https://apiiro.com/blog/coding-agents-leaking-secrets-github-dont-ask-again Comments URL: https://news.ycombinator.com/item?id=50407882 Points: 30 # Comments: 11",
+   "published_at": 1794084332.0,
+   "published_bj": "2026-11-08 04:45"
+  },
   {
    "id": "f70e26a63c669643",
    "source": "cnBeta",
