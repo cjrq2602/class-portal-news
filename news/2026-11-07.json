@@ -1,7 +1,7 @@
 {
  "date": "2026-11-07",
- "generated_at": 1794030110.452045,
- "count": 130,
+ "generated_at": 1794033951.7871194,
+ "count": 151,
  "items": [
   {
    "id": "2327ec6e1cbce5db",
@@ -20,6 +20,177 @@
    "summary": "点击查看原文>",
    "published_at": 1794042000.0,
    "published_bj": "2026-11-07 17:00"
+  },
+  {
+   "id": "15903586da6fdc22",
+   "source": "IT之家",
+   "title": "“全球最大 GPU 盗窃案”：价值 1140 万美元的英伟达硬件不翼而飞",
+   "url": "https://www.ithome.com/1/023/684.htm",
+   "summary": "IT之家 11 月 7 日消息，美国 ABC7 News 等媒体本月报道，美国加州发生一起高价值科技货物盗窃案：一批价值约 1,140 万美元 （IT之家注：现汇率约合 7,622.2 万元人民币） 、 共计六托盘的英伟达 GPU 及相关硬件在运输途中失踪，当地警方已介入调查。 IT之家援引博文介绍，这批货物于当地时间 8 月 29 日从加州奥克兰出发，原计划运往得克萨斯州，却由一辆冒充食品运输公司车辆的卡车提走。 调查人员追踪至加州圣贝纳迪诺县后，失去了该车的踪迹。奥克兰警方于 9 月 13 日接到失窃报案，截至报道发布，尚无逮捕消息公布。 这起案件再次引发外界对高价值科技产品运输安全的关注",
+   "published_at": 1794033797.0,
+   "published_bj": "2026-11-07 14:43"
+  },
+  {
+   "id": "84f7331a29738119",
+   "source": "cnBeta",
+   "title": "选举结果不改OpenAI扩张计划 CFO称将继续投资数据中心并融资",
+   "url": "https://www.cnbeta.com.tw/articles/tech/1585354.htm",
+   "summary": "OpenAI首席财务官Sarah Friar周五表示，公司将继续投资人工智能基础设施，即便选民在周二的中期选举中强烈反对数据中心。“谈到中期选举，我需要持续思考如何继续投资以满足客户需求，”Friar在加州圆石滩举行的花旗TMT领导力峰会上接受采访时表示。“这始于早期与所有超大规模企业建立关系，也将继续意味着我们要融资。” 阅读全文",
+   "published_at": 1794033710.0,
+   "published_bj": "2026-11-07 14:41"
+  },
+  {
+   "id": "f9908b8fef7f1b25",
+   "source": "cnBeta",
+   "title": "特斯拉量产Cybercab完成亚洲首秀",
+   "url": "https://www.cnbeta.com.tw/articles/tech/1585352.htm",
+   "summary": "在第九届中国国际进口博览会上，特斯拉携赛博无人驾驶电动车（Cybercab）、人形机器人、新近上市的Model Y高性能版及Model Y的爆炸件等展品亮相，展现前沿技术在出行、生活与生产中的应用进展。 阅读全文",
+   "published_at": 1794033671.0,
+   "published_bj": "2026-11-07 14:41"
+  },
+  {
+   "id": "8bf86dba57bc4a33",
+   "source": "cnBeta",
+   "title": "网传余承东不再直管汽车业务 近一个月未更新汽车内容",
+   "url": "https://www.cnbeta.com.tw/articles/tech/1585350.htm",
+   "summary": "近日，有消息称“余承东不再直接管理华为汽车业务”。有博主援引前华为车BU老员工话语称：“自从老余（余承东）不直管车业务后，车BU的领导们对业务、产品都不太关心，他们关心的是其他东西，变得很官僚。” 阅读全文",
+   "published_at": 1794033655.0,
+   "published_bj": "2026-11-07 14:40"
+  },
+  {
+   "id": "3718ecd253367364",
+   "source": "cnBeta",
+   "title": "中国AI视频生成公司Sand.ai完成2亿美元融资 估值突破10亿美元",
+   "url": "https://www.cnbeta.com.tw/articles/movie/1585348.htm",
+   "summary": "中国人工智能视频生成初创企业Sand.ai于11月5日宣布，已经完成2亿美元的A+轮融资，公司估值突破10亿美元，正式跻身独角兽企业行列。这家总部位于北京的公司成立仅两年多，凭借视频生成基础模型和商业化产品的快速发展，成为中国AI视频领域受到资本关注的新兴企业。 阅读全文",
+   "published_at": 1794033550.0,
+   "published_bj": "2026-11-07 14:39"
+  },
+  {
+   "id": "ea2956dab5804e79",
+   "source": "cnBeta",
+   "title": "Meta将Muse Wonder专用AI模型面向所有用户开放",
+   "url": "https://www.cnbeta.com.tw/articles/tech/1585346.htm",
+   "summary": "Meta宣布，从11月6日起，旗下个人智能助理应用Muse以及Meta AI平台将全面启用一批基于旗舰模型Muse Wonder训练而成的新型专用模型。与此同时，更强大的Muse Wonder模型仍将保留给付费订阅用户，用于处理更复杂和更高难度的任务。 阅读全文",
+   "published_at": 1794033513.0,
+   "published_bj": "2026-11-07 14:38"
+  },
+  {
+   "id": "73f9ba2f2f4cf1a5",
+   "source": "IT之家",
+   "title": "漫威官宣《复仇者联盟 5》中国首映礼将在上海举办，12 月 16 日内地上映",
+   "url": "https://www.ithome.com/1/023/683.htm",
+   "summary": "IT之家 11 月 7 日消息，11 月 6 日，漫威影业官宣《复仇者联盟 5：毁灭之日》全球宣传行程安排，包括中国首映礼，将在上海举办。 具体如下： 拉斯维加斯（美国） 圣保罗（巴西） 黄金海岸（澳大利亚） 罗马（意大利） 伦敦（英国） 首尔（韩国） 上海（中国） 多伦多（加拿大） 洛杉矶（美国） IT之家注意到，该片将于 12 月 16 日在中国内地上映， 领先北美两天 。影片将讲述多元宇宙的故事，会链接 X 战警、神奇四侠等超级英雄的世界。而毁灭博士在故事里将执行他的计划 —— 多元宇宙碰撞导致了他的家庭破碎，因此他决定创造一个全新秩序的宇宙。 本片将由罗素兄弟回归执导，小罗伯特・唐尼、",
+   "published_at": 1794033474.0,
+   "published_bj": "2026-11-07 14:37"
+  },
+  {
+   "id": "1fdbb08a87818f80",
+   "source": "cnBeta",
+   "title": "美国情报机构称中国情报机构曾招募女商人接近英伟达CEO黄仁勋 试图获取AI芯片情报",
+   "url": "https://www.cnbeta.com.tw/articles/tech/1585344.htm",
+   "summary": "据《纽约时报》报道，中国国家安全部曾招募一名与英伟达首席执行官黄仁勋关系密切的女性商界人士，试图通过她收集有关黄仁勋及美国先进人工智能芯片的信息，并可能影响英伟达推动向中国开放更先进芯片的出口渠道。美国情报机构据称已经对这名女性展开监视，相关情报也曾提交给特朗普政府高层。 阅读全文",
+   "published_at": 1794033338.0,
+   "published_bj": "2026-11-07 14:35"
+  },
+  {
+   "id": "7e6f83e75d47dfc5",
+   "source": "cnBeta",
+   "title": "HWiNFO测试版泄露Radeon RX 7500与英特尔Razor Lake处理器的踪迹",
+   "url": "https://www.cnbeta.com.tw/articles/tech/1585342.htm",
+   "summary": "硬件监测工具HWiNFO日前发布最新测试版v8.55-6115，其更新日志中意外出现了多款尚未正式发布的硬件产品名称，其中包括AMD尚未公布的Radeon RX 7500显卡，以及英特尔下一代Razor Lake系列处理器。这一发现再次引发外界对未来PC硬件路线图的关注。 阅读全文",
+   "published_at": 1794033158.0,
+   "published_bj": "2026-11-07 14:32"
+  },
+  {
+   "id": "c9bf7c8b319eef29",
+   "source": "cnBeta",
+   "title": "调查显示实体版仍占玩家付费主机游戏库约三成 全部游玩内容中仅占11%",
+   "url": "https://www.cnbeta.com.tw/articles/game/1585340.htm",
+   "summary": "Newzoo与G2A支持的一项调查发现，在受访玩家付费购买的主机游戏中，实体版占30.4%；若把免费游戏和订阅游戏也计入所有游玩内容，实体游戏所占比例降至11%。调查访问了6166名“核心玩家”，对象为18至55岁、每月至少玩一次电脑或现世代主机游戏，并在过去一年购买或通过付费订阅玩过至少一款AA或AAA游戏的玩家。 阅读全文",
+   "published_at": 1794032844.0,
+   "published_bj": "2026-11-07 14:27"
+  },
+  {
+   "id": "aac15cc49687fc14",
+   "source": "cnBeta",
+   "title": "OpenAI再获110亿美元融资 估值达到1.25万亿美元 全年融资目标却大幅缩水",
+   "url": "https://www.cnbeta.com.tw/articles/tech/1585338.htm",
+   "summary": "OpenAI已经在新一轮融资中获得约110亿美元资金，公司估值达到1.25万亿美元。不过，这笔资金只是本轮融资的第一阶段，整个融资计划尚未结束，预计未来几周还将继续推进，最终规模可能达到200亿美元。 阅读全文",
+   "published_at": 1794032540.0,
+   "published_bj": "2026-11-07 14:22"
+  },
+  {
+   "id": "d19f65f845b64990",
+   "source": "cnBeta",
+   "title": "新型保护涂层令锂金属电池循环寿命显著提升",
+   "url": "https://www.cnbeta.com.tw/articles/science/1585336.htm",
+   "summary": "中国科研人员开发出一种用于锂金属负极的薄型保护涂层，有望解决全固态电池长期面临的关键技术难题。在实验室测试中，采用这种涂层处理的电池经过300次充放电循环后，仍能保持初始容量的82.3%；相比之下，使用未经处理锂金属的对照电池，容量保持率仅为43.0%。 阅读全文",
+   "published_at": 1794032311.0,
+   "published_bj": "2026-11-07 14:18"
+  },
+  {
+   "id": "05ddcde48a37d2fc",
+   "source": "cnBeta",
+   "title": "新型量子比特读取方案问世 无需破坏信息即可“监听”量子状态",
+   "url": "https://www.cnbeta.com.tw/articles/science/1585334.htm",
+   "summary": "国际科研团队近日提出一种全新的量子信息读取方法，有望在不显著干扰量子系统的情况下获取量子比特状态，为未来量子计算机的监测与控制提供更高效的技术路径。研究表明，一类名为“安德烈夫量子比特”的量子器件能够通过自身产生的电流信号暴露其内部状态，从而减少传统测量过程中对量子信息的破坏。 阅读全文",
+   "published_at": 1794032280.0,
+   "published_bj": "2026-11-07 14:18"
+  },
+  {
+   "id": "994aebc3976e6602",
+   "source": "IT之家",
+   "title": "特斯拉量产 Cybercab 无人驾驶电动车亚洲首秀：金色无方向盘、无踏板",
+   "url": "https://www.ithome.com/1/023/681.htm",
+   "summary": "IT之家 11 月 7 日消息，新浪科技今天（11 月 7 日）发布博文，报道称 11 月 5 日至 10 日在国家会展中心举行的第九届中国国际进口博览会上， 特斯拉展示了 Cybercab 无人驾驶出租车，也是金色无方向盘、无踏板的特斯拉量产 Cybercab 亚洲首秀。 视频源：第一财经日报 本次特斯拉展台位于上海国家会展中心 3H 馆，官方账号 @中国国际进口博览会 亲自为其站台，表示： 特斯拉展台人气拉满，未来科技感直接拉满！⚡🤖 从赛博无人驾驶电动车、人形机器人，到 Model Y 高性能版及首次展出的新品，多项创新成果集中亮相，吸引观众驻足体验！🚗✨ 科技如何重塑未来出行与生活？快",
+   "published_at": 1794032226.0,
+   "published_bj": "2026-11-07 14:17"
+  },
+  {
+   "id": "dea68ab691102f72",
+   "source": "cnBeta",
+   "title": "FreeBSD 15.2 Beta 1正式发布：实验性支持在Linux和macOS上交叉构建基础系统软件包",
+   "url": "https://www.cnbeta.com.tw/articles/soft/1585332.htm",
+   "summary": "FreeBSD 15.2的首个Beta测试版本于11月6日正式发布，标志着这一经典类Unix操作系统的新一轮版本更新进入公开测试阶段。本次更新不仅修复了大量安全漏洞，还带来了一项颇具意义的新功能：开发人员现在可以尝试直接在Linux和macOS系统上交叉构建FreeBSD基础系统软件包，而不必完全依赖FreeBSD本身作为构建环境。 阅读全文",
+   "published_at": 1794032069.0,
+   "published_bj": "2026-11-07 14:14"
+  },
+  {
+   "id": "3c12e73a289a0db2",
+   "source": "IT之家",
+   "title": "国内首个科技法学院在雄安新区成立，聚焦人工智能、自动驾驶等",
+   "url": "https://www.ithome.com/1/023/680.htm",
+   "summary": "IT之家 11 月 7 日消息，据央视新闻报道，今天（11 月 7 日），国内首个科技法学院 —— 北京科技大学科技法学院在雄安新区成立。 IT之家从报道获悉，学院内设 知识产权、科技法、科技政策、法学基础 4 个教学科研机构，与研究生招生分步推进。初期设置工法复合知识产权本科专业，专业硕士培养也将逐步布局雄安。 科技法学院未来规划逐步建成百人左右的高水平师资队伍，主干专业教师中具有产业实战经历者不低于 50%。科技法学院聚焦 人工智能、自动驾驶、新材料、绿色低碳冶金、空天信息、关键矿产 等战略技术与未来产业，推动法学与材料、冶金、矿业、计算机等优势学科深度交叉融合，着力培养“科技＋法律”复合",
+   "published_at": 1794031314.0,
+   "published_bj": "2026-11-07 14:01"
+  },
+  {
+   "id": "41d78364199058ac",
+   "source": "IT之家",
+   "title": "部分用户反馈 YouTube 等应用不兼容苹果 iOS 27 外接 HDMI 播放，锁屏即中断输出",
+   "url": "https://www.ithome.com/1/023/679.htm",
+   "summary": "IT之家 11 月 7 日消息，科技媒体 GSMArena 今天（11 月 7 日）发布博文，报道称多名 iPhone 用户反馈升级 iOS 27 以及后续版本后， 通过 HDMI 连接外部显示设备播放视频时，一旦锁屏，外接设备上的播放就会中断。 该媒体指出在此前版本中，用户关闭手机屏幕后，仍可继续在外接屏幕上观看视频。该媒体测试表示该问题并非影响所有应用，目前已确认 YouTube 和 Netflix 会复现该问题，而 VLC 播放器在锁屏后仍能正常输出视频。 该媒体推测认为问题可能与系统的权限机制调整有关。据报道，iOS 27 要求应用显式注册某些外部显示视频会话，而此前相关权限由系统自动",
+   "published_at": 1794031255.0,
+   "published_bj": "2026-11-07 14:00"
+  },
+  {
+   "id": "e04411b0446be829",
+   "source": "IT之家",
+   "title": "《GTA 6》游戏预载倒计时，消息称 XBOX 版下载体积比 PS5 版多约 15GB",
+   "url": "https://www.ithome.com/1/023/678.htm",
+   "summary": "IT之家 11 月 7 日消息，科技媒体 Notebookcheck 今天（11 月 7 日）发布，报道称游戏主机版《侠盗猎车手 VI》（GTA 6）游戏容量可能存在差异， 微软 XBOX 版本预估为 225.34GB，而索尼 PS5 版本预估为 210GB。 在 XBOX 平台方面，根据微软 DisplayCatalog API 挖掘的信息，XBOX 版《GTA 6》 游戏全球版预加载下载包为 209.86GiB，换算后约 225.34GB。商店页面可能存在单位标注差异，也可能采用不同的容量统计口径；下载大小亦不等于安装后的实际占用。IT之家附上相关截图如下： 而在 PS5 平台方面，Pla",
+   "published_at": 1794030690.0,
+   "published_bj": "2026-11-07 13:51"
+  },
+  {
+   "id": "b95c6608339f5942",
+   "source": "IT之家",
+   "title": "星眼太空感知星座开启组网验证，重点观测“太空碎片”",
+   "url": "https://www.ithome.com/1/023/677.htm",
+   "summary": "IT之家 11 月 7 日消息，北京时间今天 7 时 37 分，谷神星二号遥三运载火箭在酒泉卫星发射中心发射升空，将搭载的观澜试验星、云遥一号 28 星、中北大学一号卫星、钧天一号 06A 卫星共 4 颗卫星顺利送入预定轨道，飞行试验任务取得圆满成功。 据央视新闻报道，今天成功入轨的卫星当中，有一颗承担特殊使命的卫星，它和以往对地观测的卫星不同，它的任务是观测太空中运行的航天器，重点是太空碎片，为在轨航天器提供太空交通管理服务。这颗卫星就是星眼太空感知卫星，它拍摄的目标就是在太空中运行的卫星，尤其是太空碎片。 数据显示， 当前低轨 1 厘米到 10 厘米的太空碎片数量已高达百万级 ，这类“看不",
+   "published_at": 1794030510.0,
+   "published_bj": "2026-11-07 13:48"
   },
   {
    "id": "9595577a1ac06b7d",
@@ -49,6 +220,15 @@
    "published_bj": "2026-11-07 13:22"
   },
   {
+   "id": "883b9a5a772822ca",
+   "source": "Hacker News",
+   "title": "Asahi Linux Progress Linux 7.3",
+   "url": "https://asahilinux.org/2026/11/progress-report-7-3/",
+   "summary": "Article URL: https://asahilinux.org/2026/11/progress-report-7-3/ Comments URL: https://news.ycombinator.com/item?id=50401867 Points: 43 # Comments: 7",
+   "published_at": 1794028818.0,
+   "published_bj": "2026-11-07 13:20"
+  },
+  {
    "id": "bd9e48eb038b986d",
    "source": "IT之家",
    "title": "曝 Anthropic 计划下周启动 IPO 路演，目标是在感恩节前完成上市",
@@ -74,6 +254,15 @@
    "summary": "Sequoia pioneered the scouts model and many VC firms followed suit, but a consensus now seems to be forming that the model has reached limits in its current form.",
    "published_at": 1794027714.0,
    "published_bj": "2026-11-07 13:01"
+  },
+  {
+   "id": "488e31ac28600285",
+   "source": "Hacker News",
+   "title": "A barbarian tribe's mythic origin story is true, ancient DNA reveals",
+   "url": "https://www.science.org/content/article/barbarian-tribe-s-mythic-origin-story-true-ancient-dna-reveals",
+   "summary": "Article URL: https://www.science.org/content/article/barbarian-tribe-s-mythic-origin-story-true-ancient-dna-reveals Comments URL: https://news.ycombinator.com/item?id=50401740 Points: 31 # Comments: 6",
+   "published_at": 1794027276.0,
+   "published_bj": "2026-11-07 12:54"
   },
   {
    "id": "70e76ecd8b45f8ae",
