@@ -1,8 +1,26 @@
 {
  "date": "2026-11-08",
- "generated_at": 1794089681.9066863,
- "count": 41,
+ "generated_at": 1794092092.575155,
+ "count": 44,
  "items": [
+  {
+   "id": "0aa9e6f4aae8f1e4",
+   "source": "IT之家",
+   "title": "B 社陶德回应《上古卷轴 6：哨兵》是否独占 XBOX：现在评论还为时过早",
+   "url": "https://www.ithome.com/1/023/832.htm",
+   "summary": "IT之家 11 月 8 日消息，贝塞斯达（Bethesda）最近终于公布了《上古卷轴 6：哨兵》游戏，至少公布了副标题。但玩家们如今仍然好奇：这款游戏是否会成为微软 XBOX 独占？ 最近几年，XBOX 的独占游戏政策发生了猛烈变革，先是菲尔 · 斯宾塞将 XBOX 的独占属性几乎消除，《极限竞速：地平线》和《光环》等游戏相继登陆 PlayStation 平台；阿莎 · 夏尔马上位后重新强调了独占策略，让《战争机器：事变日》成为主机端 XBOX 独占。 因此，《上古卷轴 6：哨兵城》最终是否会登陆 PlayStation，还是会继续作为 XBOX 主机独占游戏，目前仍存在不确定性。 IT之家注",
+   "published_at": 1794091869.0,
+   "published_bj": "2026-11-08 06:51"
+  },
+  {
+   "id": "e0e8fb8dcd482257",
+   "source": "IT之家",
+   "title": "欧洲多地爆发抗议，民众走上街头要求暂停数据中心建设",
+   "url": "https://www.ithome.com/1/023/831.htm",
+   "summary": "IT之家 11 月 8 日消息，据彭博社报道，当地时间周六，欧洲多地继续爆发反对数据中心建设的抗议活动。民众走上街头，表达对数据中心扩张可能带来的社会和环境影响的担忧。 据爱尔兰国家广播电视台（RTÉ）报道，约有 2000 人在都柏林举行游行。芬兰广播公司 Yle 报道称，约有 1300 人聚集在赫尔辛基，芬兰多个规模较小的城镇也举行了示威活动。 由当地民主运动组织和气候抗议团体组成的联盟“停止肮脏数据中心”（Stop Dirty Data Centres）表示，此次行动旨在“阻止人工智能数据中心不受约束地扩张，防止我们的民主制度被大型科技企业的利益绑架”。 从苏格兰到西班牙、从法国到丹麦，各",
+   "published_at": 1794091564.0,
+   "published_bj": "2026-11-08 06:46"
+  },
   {
    "id": "f1c980925686a87e",
    "source": "TechCrunch",
@@ -29,6 +47,15 @@
    "summary": "A memo circulated earlier this year reportedly claimed that China’s Ministry of State Security recruited a female technology executive to spy on Nvidia's CEO.",
    "published_at": 1794086228.0,
    "published_bj": "2026-11-08 05:17"
+  },
+  {
+   "id": "ec83693f10c5056d",
+   "source": "Hacker News",
+   "title": "MeccanicOS",
+   "url": "https://meccanicos.com/",
+   "summary": "Article URL: https://meccanicos.com/ Comments URL: https://news.ycombinator.com/item?id=50408129 Points: 5 # Comments: 1",
+   "published_at": 1794086024.0,
+   "published_bj": "2026-11-08 05:13"
   },
   {
    "id": "dc82612c9a101cdd",
