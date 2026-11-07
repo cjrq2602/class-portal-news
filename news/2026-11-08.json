@@ -1,8 +1,44 @@
 {
  "date": "2026-11-08",
- "generated_at": 1794073885.1958919,
- "count": 23,
+ "generated_at": 1794076330.4697797,
+ "count": 29,
  "items": [
+  {
+   "id": "10e1be9e273d5569",
+   "source": "Hacker News",
+   "title": "What I run on my $10 USD OpenStick, Linux, Homelab",
+   "url": "https://blog.bosscher.ch/posts/openstick/",
+   "summary": "Article URL: https://blog.bosscher.ch/posts/openstick/ Comments URL: https://news.ycombinator.com/item?id=50406670 Points: 10 # Comments: 2",
+   "published_at": 1794075132.0,
+   "published_bj": "2026-11-08 02:12"
+  },
+  {
+   "id": "3819d6c6a113ce8f",
+   "source": "Hacker News",
+   "title": "The End of AI Frontiers",
+   "url": "https://hunch.net/?p=13764006",
+   "summary": "Article URL: https://hunch.net/?p=13764006 Comments URL: https://news.ycombinator.com/item?id=50406589 Points: 11 # Comments: 1",
+   "published_at": 1794074647.0,
+   "published_bj": "2026-11-08 02:04"
+  },
+  {
+   "id": "3ca73b5ce5b40416",
+   "source": "Hacker News",
+   "title": "Microsoft Researcher John Langford Exits. AI Frontiers Group Declared Finished",
+   "url": "https://businessexaminer.ca/victoria-articles/item/microsoft-researcher-john-langford-exits-as-ai-frontiers-group-is-declared/",
+   "summary": "Article URL: https://businessexaminer.ca/victoria-articles/item/microsoft-researcher-john-langford-exits-as-ai-frontiers-group-is-declared/ Comments URL: https://news.ycombinator.com/item?id=50406563 Points: 11 # Comments: 2",
+   "published_at": 1794074537.0,
+   "published_bj": "2026-11-08 02:02"
+  },
+  {
+   "id": "8f11a89f4c293c11",
+   "source": "Hacker News",
+   "title": "Five Memorable Books About Programming",
+   "url": "https://prog21.dadgum.com/19.html",
+   "summary": "Article URL: https://prog21.dadgum.com/19.html Comments URL: https://news.ycombinator.com/item?id=50406319 Points: 4 # Comments: 0",
+   "published_at": 1794072649.0,
+   "published_bj": "2026-11-08 01:30"
+  },
   {
    "id": "87f7f8ca628cf925",
    "source": "Hacker News",
@@ -20,6 +56,15 @@
    "summary": "The announcement comes barely more than a week after hackers stole $6.3 billion worth of cryptocurrency from Binance users.",
    "published_at": 1794072247.0,
    "published_bj": "2026-11-08 01:24"
+  },
+  {
+   "id": "16e1f772a75630bd",
+   "source": "Hacker News",
+   "title": "MaxxBench – \"Nice DeepSWE score. But is it true?\"",
+   "url": "https://maxxbench.unlap.ai/research/why-maxxbench/",
+   "summary": "Article URL: https://maxxbench.unlap.ai/research/why-maxxbench/ Comments URL: https://news.ycombinator.com/item?id=50406222 Points: 14 # Comments: 2",
+   "published_at": 1794071940.0,
+   "published_bj": "2026-11-08 01:19"
   },
   {
    "id": "0d2280d6cd9b20fc",
@@ -155,6 +200,15 @@
    "summary": "Article URL: https://mceglowski.substack.com/p/how-long-can-life-wait Comments URL: https://news.ycombinator.com/item?id=50405789 Points: 12 # Comments: 3",
    "published_at": 1794068579.0,
    "published_bj": "2026-11-08 00:22"
+  },
+  {
+   "id": "9187390d88b56be6",
+   "source": "Hacker News",
+   "title": "Every processor die anyone has photographed and given away",
+   "url": "https://sheets.works/data-viz/cpu-dies",
+   "summary": "Article URL: https://sheets.works/data-viz/cpu-dies Comments URL: https://news.ycombinator.com/item?id=50405782 Points: 4 # Comments: 0",
+   "published_at": 1794068496.0,
+   "published_bj": "2026-11-08 00:21"
   },
   {
    "id": "57c6beb062d6ec11",
