@@ -1,8 +1,125 @@
 {
  "date": "2026-11-08",
- "generated_at": 1794069262.883746,
- "count": 5,
+ "generated_at": 1794071713.2149723,
+ "count": 19,
  "items": [
+  {
+   "id": "10369d645ab04037",
+   "source": "cnBeta",
+   "title": "MBARI罕见拍到管眼鱼 透明头颅的深海怪鱼首次被4K镜头记录",
+   "url": "https://www.cnbeta.com.tw/articles/science/1585410.htm",
+   "summary": "据美国蒙特雷湾水族馆研究所（MBARI）消息，研究人员在太平洋深海罕见拍摄到一条头部完全透明的管眼鱼（学名 Macropinna microstoma），这是该机构首次以4K画质记录这一物种，也是首次从新的旗舰科考船“戴维·帕卡德号”上拍到它。 阅读全文",
+   "published_at": 1794070839.0,
+   "published_bj": "2026-11-08 01:00"
+  },
+  {
+   "id": "ccf5c7f32361f31e",
+   "source": "cnBeta",
+   "title": "NASA Artemis II任务在电离层打出两个5000公里空洞 GPS信号受到干扰",
+   "url": "https://www.cnbeta.com.tw/articles/science/1585408.htm",
+   "summary": "今年早些时候，“阿耳忒弥斯2号”（Artemis II）任务半个多世纪以来首次将宇航员送绕月球并安全返回。研究人员指出，这次历史性任务也给地球最外层的电离大气层造成了“沉重”代价。 阅读全文",
+   "published_at": 1794070754.0,
+   "published_bj": "2026-11-08 00:59"
+  },
+  {
+   "id": "1f4dde58cedbe1d2",
+   "source": "cnBeta",
+   "title": "收购EA之后 银湖资本与沙特公共投资基金据报出价250亿美元收购Unity",
+   "url": "https://www.cnbeta.com.tw/articles/game/1585406.htm",
+   "summary": "据路透社援引未具名知情人士的消息报道，由美国私募股权公司银湖资本（Silver Lake Partners）与沙特阿拉伯主权财富基金——公共投资基金（PIF）组成的投资者财团，已向Unity Software提出收购要约，对这家公司的估值约为250亿美元。据悉，Unity正在认真考虑这一报价，并已聘请一家投资银行提供咨询。 阅读全文",
+   "published_at": 1794070697.0,
+   "published_bj": "2026-11-08 00:58"
+  },
+  {
+   "id": "e47d893f7c57f9dc",
+   "source": "cnBeta",
+   "title": "欧空局赫拉探测器首次近距离拍摄到Didymos双小行星系统",
+   "url": "https://www.cnbeta.com.tw/articles/science/1585404.htm",
+   "summary": "欧洲空间局（ESA）负责行星防御的赫拉（Hera）任务日前首次近距离拍摄到迪迪莫斯（Didymos）双小行星系统。美国宇航局的DART探测器曾于2022年9月26日撞击其较小的伴星迪莫弗斯（Dimorphos），而这张新图像提供了一个此前从未见过的视角：从相邻的母小行星一侧回望整个系统。 阅读全文",
+   "published_at": 1794070585.0,
+   "published_bj": "2026-11-08 00:56"
+  },
+  {
+   "id": "0ca0de3430d77bd6",
+   "source": "cnBeta",
+   "title": "任天堂将推更多重制作品 粉丝盼姆吉拉假面与马64",
+   "url": "https://www.cnbeta.com.tw/articles/game/1585402.htm",
+   "summary": "任天堂素来擅长将旗下人气老作品重新打磨后搬上现代平台，这早已不是什么新鲜事。但从今年的《星际火狐》开始，任天堂对“重制版”的定义似乎有了新的变化。据工作室高级副总裁透露，未来重制作品将与全新作品并驾齐驱，成为任天堂的核心业务方向。 阅读全文",
+   "published_at": 1794070363.0,
+   "published_bj": "2026-11-08 00:52"
+  },
+  {
+   "id": "74c68eaaae47bd90",
+   "source": "cnBeta",
+   "title": "消息称古天乐拟进军内地网剧市场 与马楚成再合作警匪剧",
+   "url": "https://www.cnbeta.com.tw/articles/movie/1585400.htm",
+   "summary": "消息称，古天乐可能首次进军内地网络剧市场，与导演马楚成合作一部由内地投资的警匪题材网络剧。目前该项目尚未官宣，项目名称、正式演员阵容及开机日期等信息也未公布。 阅读全文",
+   "published_at": 1794070306.0,
+   "published_bj": "2026-11-08 00:51"
+  },
+  {
+   "id": "e6f27ee6e33d25e3",
+   "source": "cnBeta",
+   "title": "51岁男子行凶致墨尔本华人骑手身亡 熊猫外卖正核实并帮扶家属",
+   "url": "https://www.cnbeta.com.tw/articles/tech/1585398.htm",
+   "summary": "网传消息显示，墨尔本一名华人外卖骑手于6日晚间遇袭身亡，涉事平台熊猫外卖发声，表示正在跟进处置、提供帮助。据维多利亚州警方发布的最初通报，当晚一名男子在墨尔本CBD身中数刀，被宣布当场死亡，另有一名30多岁男子疑似身中刀伤被送医。案件随即在当地展开调查。 阅读全文",
+   "published_at": 1794070297.0,
+   "published_bj": "2026-11-08 00:51"
+  },
+  {
+   "id": "33f7828b1fa89b50",
+   "source": "cnBeta",
+   "title": "今年双11 为什么收到的快递包装变烂了？",
+   "url": "https://www.cnbeta.com.tw/articles/tech/1585396.htm",
+   "summary": "今年双十一，不少人打开包裹的第一反应不是惊喜，而是皱眉。有消费者反映自己收到纸箱软得像被踩过，封口胶带乱糊一气，有的直接裂开大洞，涉及纸巾、卫生巾、护肤品等等商品，而这些最讲究干净卫生的东西，竟然以“战损”姿态出现在门口。 阅读全文",
+   "published_at": 1794070220.0,
+   "published_bj": "2026-11-08 00:50"
+  },
+  {
+   "id": "bf6064bdb343396e",
+   "source": "cnBeta",
+   "title": "被年轻人遗忘的磁带 正在AI时代闷声发大财",
+   "url": "https://www.cnbeta.com.tw/articles/tech/1585394.htm",
+   "summary": "谁能想到，磁带竟然在 AI 时代迎来了第二春。10 月 29 日，日本富士胶片宣布投资约 100 亿日元（约合人民币 4.22 亿元），计划在 2026 至 2028 财年扩建神奈川县小田原工厂，将数据存储磁带的产能提升至 2025 财年的五倍， 重点生产最新一代 LTO Ultrium 10 磁带。 阅读全文",
+   "published_at": 1794070138.0,
+   "published_bj": "2026-11-08 00:48"
+  },
+  {
+   "id": "cd1ec79e82486d43",
+   "source": "cnBeta",
+   "title": "索尼全球首发养老黑科技 不靠摄像头 Wi-Fi信号即可检测老人跌倒",
+   "url": "https://www.cnbeta.com.tw/articles/tech/1585392.htm",
+   "summary": "2026年11月5日至10日，第九届中国国际进口博览会（下称：进博会）在上海举行。 展会期间，索尼（中国）有限公司（下称：索尼中国）全球首发面向居家养老的隐私友好型无线感知跌倒检测系统。 阅读全文",
+   "published_at": 1794070013.0,
+   "published_bj": "2026-11-08 00:46"
+  },
+  {
+   "id": "7012b9ef8e05b43b",
+   "source": "cnBeta",
+   "title": "苹果研究团队披露机器人“大脑”进展 调用千问模型在宇树G1上验证",
+   "url": "https://www.cnbeta.com.tw/articles/tech/1585390.htm",
+   "summary": "苹果研究团队披露机器人“大脑”研究进展。当地时间11月4日，苹果研究团队在预印本平台arXiv提交论文《Perceptive Humanoid Motion from Simulation》，披露了人形机器人自主控制系统HALO。研究团队将该系统部署在宇树科技的G1人形机器人上进行验证，让机器人将在仿真环境中学到的动作，带到陌生的现实房间中执行。 阅读全文",
+   "published_at": 1794069810.0,
+   "published_bj": "2026-11-08 00:43"
+  },
+  {
+   "id": "d064b8629ec307ff",
+   "source": "cnBeta",
+   "title": "传不再直管华为汽车业务后 余承东发微博官宣“享界V8试驾”",
+   "url": "https://www.cnbeta.com.tw/articles/tech/1585388.htm",
+   "summary": "近日，市场传出“余承东不再直接管理华为汽车业务”的消息。有博主援引一名前华为车BU员工的说法称：“自从老余不直管车业务后，车BU的领导们对业务、产品都不太关心，他们关心的是其他东西，变得很官僚。” 阅读全文",
+   "published_at": 1794069786.0,
+   "published_bj": "2026-11-08 00:43"
+  },
+  {
+   "id": "f2d20d487e33cf6f",
+   "source": "Hacker News",
+   "title": "How Long Can Life Wait?",
+   "url": "https://mceglowski.substack.com/p/how-long-can-life-wait",
+   "summary": "Article URL: https://mceglowski.substack.com/p/how-long-can-life-wait Comments URL: https://news.ycombinator.com/item?id=50405789 Points: 12 # Comments: 3",
+   "published_at": 1794068579.0,
+   "published_bj": "2026-11-08 00:22"
+  },
   {
    "id": "57c6beb062d6ec11",
    "source": "Solidot",
@@ -20,6 +137,15 @@
    "summary": "点击查看原文>",
    "published_at": 1794067860.0,
    "published_bj": "2026-11-08 00:11"
+  },
+  {
+   "id": "26fc6899a64bb385",
+   "source": "Hacker News",
+   "title": "They don't make 'em like that any more: Borland Turbo Pascal 7",
+   "url": "https://kevinboone.me/tpwin.html",
+   "summary": "Article URL: https://kevinboone.me/tpwin.html Comments URL: https://news.ycombinator.com/item?id=50405678 Points: 28 # Comments: 13",
+   "published_at": 1794067587.0,
+   "published_bj": "2026-11-08 00:06"
   },
   {
    "id": "446f008c26529151",
