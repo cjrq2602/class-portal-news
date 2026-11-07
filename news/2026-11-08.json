@@ -1,8 +1,17 @@
 {
  "date": "2026-11-08",
- "generated_at": 1794082404.1576502,
- "count": 33,
+ "generated_at": 1794084983.0832894,
+ "count": 35,
  "items": [
+  {
+   "id": "f70e26a63c669643",
+   "source": "cnBeta",
+   "title": "14岁奥地利少年创建本地多AI智能体协作桌面应用OpenAutark",
+   "url": "https://www.cnbeta.com.tw/articles/tech/1585416.htm",
+   "summary": "在 Perplexity 等 AI 厂商相继推出“Teammates”多智能体协作功能之际，来自奥地利萨尔茨堡的 14 岁开发者斯塔尼斯劳斯·希斯（Stanislaus Hees，隶属于 Teydra Lab）推出了完全开源且在本地运行的替代方案—— OpenAutark 。OpenAutark 的核心词根来源于德语 „Autark“（自给自足、独立自主）。 阅读全文",
+   "published_at": 1794084019.0,
+   "published_bj": "2026-11-08 04:40"
+  },
   {
    "id": "58c3641c51c05eb2",
    "source": "cnBeta",
@@ -56,6 +65,15 @@
    "summary": "Article URL: https://businessexaminer.ca/victoria-articles/item/microsoft-researcher-john-langford-exits-as-ai-frontiers-group-is-declared/ Comments URL: https://news.ycombinator.com/item?id=50406563 Points: 11 # Comments: 2",
    "published_at": 1794074537.0,
    "published_bj": "2026-11-08 02:02"
+  },
+  {
+   "id": "683abcdfcbc5201b",
+   "source": "Hacker News",
+   "title": "GeoWorks, Microsoft Windows' Upstart '90s Competitor",
+   "url": "https://www.atlasobscura.com/articles/the-history-of-geoworks-microsoft-windows-upstart-90s-competitor",
+   "summary": "Article URL: https://www.atlasobscura.com/articles/the-history-of-geoworks-microsoft-windows-upstart-90s-competitor Comments URL: https://news.ycombinator.com/item?id=50406502 Points: 15 # Comments: 0",
+   "published_at": 1794074096.0,
+   "published_bj": "2026-11-08 01:54"
   },
   {
    "id": "8f11a89f4c293c11",
