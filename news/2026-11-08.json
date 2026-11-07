@@ -1,8 +1,44 @@
 {
  "date": "2026-11-08",
- "generated_at": 1794071713.2149723,
- "count": 19,
+ "generated_at": 1794073885.1958919,
+ "count": 23,
  "items": [
+  {
+   "id": "87f7f8ca628cf925",
+   "source": "Hacker News",
+   "title": "Show HN: Coldframe, a honeypot that poses as a supermarket fridge controller",
+   "url": "https://github.com/hedgerow-dev/coldframe",
+   "summary": "I built Coldframe, a honeypot that pretends to be a supermarket refrigeration controller. Inspired by the events on industrial fridge installations in the past weeks, I wanted to see what people would try against a convincing fake. To learn more about this I built a honeypot that resembled perfectly",
+   "published_at": 1794072450.0,
+   "published_bj": "2026-11-08 01:27"
+  },
+  {
+   "id": "a3932d9b490782fd",
+   "source": "TechCrunch",
+   "title": "Binance CFO is leaving to ‘pursue a new venture’ after $6.3 billion hack",
+   "url": "https://techcrunch.com/2026/11/07/binance-cfo-is-leaving-to-pursue-a-new-venture-after-6-3-billion-hack/",
+   "summary": "The announcement comes barely more than a week after hackers stole $6.3 billion worth of cryptocurrency from Binance users.",
+   "published_at": 1794072247.0,
+   "published_bj": "2026-11-08 01:24"
+  },
+  {
+   "id": "0d2280d6cd9b20fc",
+   "source": "TechCrunch",
+   "title": "Amazon’s new basic Kindle proves you don’t need all the bells and whistles",
+   "url": "https://techcrunch.com/2026/11/07/amazons-new-basic-kindle-proves-you-dont-need-all-the-bells-and-whistles/",
+   "summary": "Amazon's redesigned basic Kindle costs more than before, but its lighter build and improved display make a compelling case for skipping the pricier models.",
+   "published_at": 1794071880.0,
+   "published_bj": "2026-11-08 01:18"
+  },
+  {
+   "id": "a17bf0f154e5ba82",
+   "source": "Hacker News",
+   "title": "Apple Keyboard has a blacklist of phrases you can't swipe",
+   "url": "https://www.theguardian.com/technology/2026/nov/06/struggling-to-spell-male-chauvinist-pig-apple-grey-list-means-your-iphone-wont-help-you",
+   "summary": "Article URL: https://www.theguardian.com/technology/2026/nov/06/struggling-to-spell-male-chauvinist-pig-apple-grey-list-means-your-iphone-wont-help-you Comments URL: https://news.ycombinator.com/item?id=50406111 Points: 25 # Comments: 8",
+   "published_at": 1794071196.0,
+   "published_bj": "2026-11-08 01:06"
+  },
   {
    "id": "10369d645ab04037",
    "source": "cnBeta",

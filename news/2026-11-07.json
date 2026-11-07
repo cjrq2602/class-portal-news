@@ -1,7 +1,7 @@
 {
  "date": "2026-11-07",
- "generated_at": 1794071713.2174938,
- "count": 261,
+ "generated_at": 1794073885.198467,
+ "count": 262,
  "items": [
   {
    "id": "9488ab3d3b920158",
@@ -20,6 +20,15 @@
    "summary": "IT之家 11 月 7 日现场消息，今晚，在阿布扎比，比亚迪旗下超豪华行政旗舰轿车 —— 仰望鼎曜迎来全球首秀。随后，官方公布了鼎曜行政版的具体配置信息。 IT之家从活动现场获悉，新车长宽高分别为 5600/2030/1590mm ，轴距更是达到了 3500mm。新车拥有鼎形前脸和鼎形钻切大灯，点阵式格栅内部 137 颗宝石随光影流转，甲骨文车标更是由 24K 真金打造，号称“鼎立东方，气韵自成”。 新车拥有首尾延展的 4.8 米贯穿式双腰线，并配备“中轴对开门”，前门开合角 80°，后门开合角 90°。 内饰部分，新车座舱采用“中轴对称布局”，配备一块贯穿式全景巨幕屏，辅以真木材质点缀。材质",
    "published_at": 1794064781.0,
    "published_bj": "2026-11-07 23:19"
+  },
+  {
+   "id": "d6649ab084f3d0b7",
+   "source": "Hacker News",
+   "title": "Show HN: We compressed a 31B video+audio diffusion model to 14B, 6 steps, INT8",
+   "url": "https://github.com/Video-Rebirth/hyperflow-h3-flash",
+   "summary": "Article URL: https://github.com/Video-Rebirth/hyperflow-h3-flash Comments URL: https://news.ycombinator.com/item?id=50405263 Points: 4 # Comments: 0",
+   "published_at": 1794064561.0,
+   "published_bj": "2026-11-07 23:16"
   },
   {
    "id": "cfb456eea78b7c7d",
