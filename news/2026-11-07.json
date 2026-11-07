@@ -1,7 +1,7 @@
 {
  "date": "2026-11-07",
- "generated_at": 1794022920.7690322,
- "count": 113,
+ "generated_at": 1794026672.1171563,
+ "count": 123,
  "items": [
   {
    "id": "2327ec6e1cbce5db",
@@ -22,6 +22,69 @@
    "published_bj": "2026-11-07 17:00"
   },
   {
+   "id": "70e76ecd8b45f8ae",
+   "source": "IT之家",
+   "title": "6.5 升 V12 加三电机：兰博基尼为沙特客户交付两辆沙漠主题 Revuelto 超跑",
+   "url": "https://www.ithome.com/1/023/670.htm",
+   "summary": "IT之家 11 月 7 日消息，汽车媒体 The Supercar Blog 昨日（11 月 6 日）报道， 兰博基尼（Lamborghini）近日在意大利圣亚加塔 · 博洛涅塞总部，向沙特阿拉伯客户交付两辆专属定制 Revuelto 超级跑车。 新车由品牌 Ad Personam 个性化定制项目打造，将沙特沙丘的色彩与流动线条融入车身及座舱设计，两辆车均以白色为主调，只是通过不同光泽和材质展现区别。 第一辆采用 Bianco Phanes 哑光白车漆，搭配 Nero Nemesis 黑色图案、Verde Speranza 绿色点缀及亮面碳纤维；第二辆则选择 Bianco Monocerus ",
+   "published_at": 1794025553.0,
+   "published_bj": "2026-11-07 12:25"
+  },
+  {
+   "id": "8bfddc02f2177e29",
+   "source": "IT之家",
+   "title": "机械革命推出无界 15X 暴风雪电竞版：锐龙 AI 9 365、16GB + 1TB，首发 6499 元",
+   "url": "https://www.ithome.com/1/023/668.htm",
+   "summary": "IT之家 11 月 7 日消息，机械革命新上架了一款“无界 15X 暴风雪 电竞版”，搭载 AMD 锐龙 AI 9 365 处理器、240Hz 电竞屏，首发价 6499 元，叠加国补后 5524.15 元。 IT之家从商品页面获悉，这款新机采用了 15.3 英寸 2.5K 240Hz 电竞屏，拥有 2560*1600 分辨率、100% sRGB 色域、500nits 亮度，支持 DC 调光 + 雾面防眩光，支持约 180° 开合；采用全金属机身，重约 1.68kg。 其他方面，该机配备 16GB 内存 + 1TB 固态硬盘，均预留拓展插槽；升级并联双热管散热架构，支持 25W/45W/65W ",
+   "published_at": 1794025027.0,
+   "published_bj": "2026-11-07 12:17"
+  },
+  {
+   "id": "0f3c037e3339a5a9",
+   "source": "TechCrunch",
+   "title": "From the front row to the hot seat — what the midterms mean for Big Tech",
+   "url": "https://techcrunch.com/2026/11/06/from-the-front-row-to-the-hot-seat-what-the-midterms-mean-for-big-tech/",
+   "summary": "After spending two years getting cozy with the White House, Big Tech is suddenly trying to make friends with Democrats, and the open question is whether that image makeover can hold up against what states, local communities, and the markets are about to do.",
+   "published_at": 1794025003.0,
+   "published_bj": "2026-11-07 12:16"
+  },
+  {
+   "id": "c57a0d3ed08cf24f",
+   "source": "IT之家",
+   "title": "微软 Edge 浏览器 157 稳定版发布，明确“加速应用启动”仅限 Win11 三个版本",
+   "url": "https://www.ithome.com/1/023/667.htm",
+   "summary": "IT之家 11 月 7 日消息，微软昨日（11 月 6 日）更新发布 Microsoft Edge 浏览器 157 稳定版， 明确“加速应用启动”新特性适用于 Windows 11 25H2、26H1 和 26H2 版 ，且 Edge 浏览器需升级 150 等后续版本。 “加速应用启动”新特性主要针对“热启动”（应用已经在后台运行），官方表示在多任务负载较重时， Edge 的启动速度最高可提升 33%，平均提升约 15% ，微软还在探索将该机制用于更快打开 PDF 文件。 IT之家附上 Microsoft Edge 浏览器 157 稳定版更新日志内容如下： 宣布将逐步 弃用 浏览器原生 XSL",
+   "published_at": 1794023822.0,
+   "published_bj": "2026-11-07 11:57"
+  },
+  {
+   "id": "f649ce28ac51743d",
+   "source": "IT之家",
+   "title": "福克斯完成对电视流媒体平台 Roku 收购，加速数字化转型",
+   "url": "https://www.ithome.com/1/023/666.htm",
+   "summary": "IT之家 11 月 7 日消息，FOX（福克斯）当地时间本月 6 日宣布， 其成功完成了对电视流媒体平台 Roku 收购 。这笔交易在今年 6 月公布时的价值为 220 亿美元 （IT之家注：现汇率约合 1,470.94 亿元人民币） 。 福克斯表示这笔交易将加速其数字化战略，推动业务组合向高增长的流媒体和联网电视垂直领域延伸，从而增强公司的长期增长前景。 Roku 创始人 Anthony Wood 将加入福克斯董事会，与福克斯首席执行官 Paul Cheesbrough 共同领导福克斯新成立的数字产品和服务部门。",
+   "published_at": 1794023395.0,
+   "published_bj": "2026-11-07 11:49"
+  },
+  {
+   "id": "ca7108c6aa5cc2d8",
+   "source": "IT之家",
+   "title": "男子利用 AI 眼镜、智能戒指驾考作弊被成都交管查获：罚款 1900 元 + 禁考一年",
+   "url": "https://www.ithome.com/1/023/665.htm",
+   "summary": "IT之家 11 月 7 日消息，据成都交警，近日，成都公安交管部门查处一起机动车驾驶人考试舞弊案。 10 月 16 日上午，成都公安交管十分局摩托车考场驻场民警在开展机动车驾驶员理论考试巡查过程中，发现一男子 神色紧张， 答题状态异常， 行为举止不自然， 当即对其开展核查。 男子佩戴的眼镜暗藏玄机，手上还配有一枚智能戒指，长按可触发扫描，答案就显示在眼镜上。面对询问，该男子 承认自己利用 高科技设备作弊的违法行为。 经了解，该男子早年申领汽车驾驶证时，理论科目历经四次考试才勉强通过。此次申请增驾摩托车驾驶证， 因担心再次考试失利， 心生焦虑便动起歪念， 在网络渠道购买 AI 眼镜、智能戒指等电",
+   "published_at": 1794023382.0,
+   "published_bj": "2026-11-07 11:49"
+  },
+  {
+   "id": "befb20d42dc9aeaa",
+   "source": "IT之家",
+   "title": "机械革命蛟龙 16 Pro 新增 RTX 5070 + 300Hz 电竞屏配置：R9 8945HX 处理器、16GB 内存 +1TB 固态，12999 元",
+   "url": "https://www.ithome.com/1/023/664.htm",
+   "summary": "IT之家 11 月 7 日消息，机械革命昨日宣布为蛟龙 16 Pro 2026 新增了一款采用 AMD R9 8945HX 处理器、16GB 内存、1TB 固态硬盘、RTX 5070 显卡 + 2.5K 300Hz 电竞屏的版本，仅有白色版本，京东首发券后 12999 元。 京东 机械革命蛟龙 16Pro 2026 16 英寸游戏笔记本电脑 (R9-8945HX 16G 1T RTX5070 300Hz) 白 券后 12999 元 领 500 元券 该机型采用 2026 全新模具，A 面采用航空级铝合金材质，历经多道严谨工序、高精度打磨，并搭配高亮镜面金属 Logo，整机外观偏向纯白电竞风格。",
+   "published_at": 1794023297.0,
+   "published_bj": "2026-11-07 11:48"
+  },
+  {
    "id": "b915e43f9a8b6735",
    "source": "IT之家",
    "title": "肉眼不可见：苹果 iOS 27.2 新增隐形水印，图像工具 AI 生图 / 修图均有迹可查",
@@ -29,6 +92,15 @@
    "summary": "IT之家 11 月 7 日消息，苹果公司于 11 月 5 日更新官方支持文档，宣布从 iOS / iPadOS / macOS 27.2 等版本系统开始， 为部分 Apple Intelligence 图像工具引入 SynthID 隐形水印。 IT之家援引博文介绍，在涉及的图像工具方面，涵盖图乐园（Image Playground）和图像魔法棒（Image Wand），以及“照片”中的清理（Clean Up）、扩展（Extend）和空间重构（Spatial Reframing）功能。 值得注意的是，标记对象并不局限于完全由 AI 生成的图片。即使是用户实际拍摄的照片， 只要使用上述指定 AI ",
    "published_at": 1794022902.0,
    "published_bj": "2026-11-07 11:41"
+  },
+  {
+   "id": "163f78345f1ba6c2",
+   "source": "Hacker News",
+   "title": "Lighting the Skies",
+   "url": "https://computer.rip/2026-10-25-searchlights.html",
+   "summary": "Article URL: https://computer.rip/2026-10-25-searchlights.html Comments URL: https://news.ycombinator.com/item?id=50401414 Points: 8 # Comments: 1",
+   "published_at": 1794022834.0,
+   "published_bj": "2026-11-07 11:40"
   },
   {
    "id": "626bba8cb62ed3c5",
@@ -155,6 +227,15 @@
    "summary": "IT之家 11 月 7 日消息，onsemi（安森美）当地时间本月 6 日宣布，由于全球碳化硅 (SiC) 市场的形势变化， 放弃 捷克 Rožnov 碳化硅新产线建设 计划 。该项目 于 2024 年 6 月宣布 ，价值高达 20 亿美元 （IT之家注：现汇率约合 133.72 亿元人民币） 。 安森美强调，捷克仍然是其长期制造和增长战略的重要组成部分，本次放弃投资并不反映该国的投资环境变化， 不会改变其对在捷运营、员工和未来投资的承诺 。安森美仍将在 Rožnov 生产基于硅或碳化硅的半导体芯片，并在那里和 Brno 进行投资和招聘。 捷克第一副总理、工业和贸易部长 Karel Havlí",
    "published_at": 1794018453.0,
    "published_bj": "2026-11-07 10:27"
+  },
+  {
+   "id": "a0d53d52902c33f9",
+   "source": "Hacker News",
+   "title": "The AI sell-off compared to well-known stock market crashes",
+   "url": "https://www.kadoa.com/companies/insights/ai-selloff-perspective",
+   "summary": "Article URL: https://www.kadoa.com/companies/insights/ai-selloff-perspective Comments URL: https://news.ycombinator.com/item?id=50401029 Points: 22 # Comments: 6",
+   "published_at": 1794018006.0,
+   "published_bj": "2026-11-07 10:20"
   },
   {
    "id": "f7e6170b170d3fbb",
@@ -884,6 +965,15 @@
    "summary": "Linux 和维基百科代表了一种被称为同侪生产（Peer Production）的模式——这一名字由法学教授 Yochai Benkler 提出。古典经济学认为，如果想要人们开展合作以及有效分配合作所产生的成果，那么最有效方式是通过私人营利性企业实现，即由这些企业在开放市场中销售商品或服务。企业雇用员工并支付报酬，而员工则通过合同承担义务，按照管理者分配的任务开展工作。员工劳动所创造的产品归公司所有，公司负责为产品定价、管理销售交易，支付员工薪酬以及分配经营过程中产生的利润。从理论上说，这些方法能解决几个关键问题：如何协调各方的利益动机、如何组织和安排工作任务，以及如何确保最终产出的成果能分配",
    "published_at": 1793985639.0,
    "published_bj": "2026-11-07 01:20"
+  },
+  {
+   "id": "f727f21db2c6a974",
+   "source": "Hacker News",
+   "title": "Notes on San Marino",
+   "url": "https://mattlakeman.org/2026/11/05/notes-on-san-marino/",
+   "summary": "Article URL: https://mattlakeman.org/2026/11/05/notes-on-san-marino/ Comments URL: https://news.ycombinator.com/item?id=50395183 Points: 27 # Comments: 2",
+   "published_at": 1793985125.0,
+   "published_bj": "2026-11-07 01:12"
   },
   {
    "id": "0bcb1423854992b4",
