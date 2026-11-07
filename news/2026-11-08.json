@@ -1,8 +1,35 @@
 {
  "date": "2026-11-08",
- "generated_at": 1794076330.4697797,
- "count": 29,
+ "generated_at": 1794079368.9748847,
+ "count": 33,
  "items": [
+  {
+   "id": "58c3641c51c05eb2",
+   "source": "cnBeta",
+   "title": "美国再发生NVIDIA AI硬件失窃案：价值1140万美元设备运输途中神秘消失",
+   "url": "https://www.cnbeta.com.tw/articles/tech/1585414.htm",
+   "summary": "随着人工智能数据中心建设热潮持续升温，英伟达高价值计算设备正在成为犯罪团伙的新目标。美国加利福尼亚州警方正在调查一起重大货运盗窃案，一批价值约1140万美元的英伟达设备在从奥克兰运往得克萨斯州沃思堡的途中失踪，至今仍未找到，警方也尚未宣布任何逮捕行动。 阅读全文",
+   "published_at": 1794078908.0,
+   "published_bj": "2026-11-08 03:15"
+  },
+  {
+   "id": "b200d3e3d1e79d0a",
+   "source": "cnBeta",
+   "title": "​AI设计基因编辑工具取得突破 科学家培育出可抵御致命病害的新型水稻",
+   "url": "https://www.cnbeta.com.tw/articles/science/1585412.htm",
+   "summary": "美国密苏里大学研究团队近日宣布，他们成功培育出能够抵御细菌性枯萎病（水稻白叶枯病）的水稻植株。这种病害长期以来威胁着全球最重要的粮食作物之一，在亚洲和非洲部分地区尤其严重，常常导致大面积减产，并对农民生计和粮食安全造成重大影响。 阅读全文",
+   "published_at": 1794078842.0,
+   "published_bj": "2026-11-08 03:14"
+  },
+  {
+   "id": "f4a86763b5e6cd40",
+   "source": "TechCrunch",
+   "title": "Parents want safer phones for kids. These companies are answering the call.",
+   "url": "https://techcrunch.com/2026/11/07/parents-want-safer-phones-for-kids-these-companies-are-answering-the-call/",
+   "summary": "As parents look for alternatives to unrestricted smartphones, a growing number of companies are building phones designed specifically for kids, from feature-limited mobile devices to minimalist home phones.",
+   "published_at": 1794078000.0,
+   "published_bj": "2026-11-08 03:00"
+  },
   {
    "id": "10e1be9e273d5569",
    "source": "Hacker News",
@@ -236,6 +263,15 @@
    "summary": "Article URL: https://kevinboone.me/tpwin.html Comments URL: https://news.ycombinator.com/item?id=50405678 Points: 28 # Comments: 13",
    "published_at": 1794067587.0,
    "published_bj": "2026-11-08 00:06"
+  },
+  {
+   "id": "de7f4a0f0617bdf5",
+   "source": "Hacker News",
+   "title": "Terry Pratchett's Study",
+   "url": "https://www.sussi.dk/terry-pratchetts-study",
+   "summary": "Article URL: https://www.sussi.dk/terry-pratchetts-study Comments URL: https://news.ycombinator.com/item?id=50405674 Points: 10 # Comments: 1",
+   "published_at": 1794067545.0,
+   "published_bj": "2026-11-08 00:05"
   },
   {
    "id": "446f008c26529151",
