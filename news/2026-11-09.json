@@ -1,7 +1,7 @@
 {
  "date": "2026-11-09",
- "generated_at": 1794171314.567172,
- "count": 24,
+ "generated_at": 1794173343.015327,
+ "count": 27,
  "items": [
   {
    "id": "5b332250463421f3",
@@ -11,6 +11,24 @@
    "summary": "点击查看原文>",
    "published_at": 1794182880.0,
    "published_bj": "2026-11-09 08:08"
+  },
+  {
+   "id": "64ff1a88d9009ca1",
+   "source": "TechCrunch",
+   "title": "Nvidia will investigate CEO Jensen Huang’s relationship with possible Chinese spy",
+   "url": "https://techcrunch.com/2026/11/08/nvidia-says-its-investigating-ceo-jensen-huangs-relationship-with-possible-chinese-spy/",
+   "summary": "In a memo to the company, Huang admitted that he had an affair.",
+   "published_at": 1794171611.0,
+   "published_bj": "2026-11-09 05:00"
+  },
+  {
+   "id": "a3780f953f49eb0b",
+   "source": "TechCrunch",
+   "title": "If Snap’s Specs are still ridiculously expensive, they’re also a lot more comfortable than they used to be",
+   "url": "https://techcrunch.com/2026/11/08/if-snaps-specs-are-still-ridiculously-expensive-theyre-also-a-lot-more-comfortable-than-they-used-to-be/",
+   "summary": "Snap's Specs, which have been in development for many years now, are going to market this fall. Will they be a hit with users?",
+   "published_at": 1794171600.0,
+   "published_bj": "2026-11-09 05:00"
   },
   {
    "id": "1cd896491ad9ab2d",
@@ -65,6 +83,15 @@
    "summary": "Article URL: https://www.spacex.com/launches/starship-flight-15 Comments URL: https://news.ycombinator.com/item?id=50416471 Points: 14 # Comments: 3",
    "published_at": 1794167386.0,
    "published_bj": "2026-11-09 03:49"
+  },
+  {
+   "id": "f2818095be9563dd",
+   "source": "Hacker News",
+   "title": "The Web Is More Than Enough, by Paul Ford",
+   "url": "https://ftrain.com/aboard-the-web-is-more-than-enough",
+   "summary": "Article URL: https://ftrain.com/aboard-the-web-is-more-than-enough Comments URL: https://news.ycombinator.com/item?id=50416456 Points: 3 # Comments: 0",
+   "published_at": 1794167312.0,
+   "published_bj": "2026-11-09 03:48"
   },
   {
    "id": "b12adf5c91e3e45c",
