@@ -1,8 +1,17 @@
 {
  "date": "2026-11-09",
- "generated_at": 1794153297.0943112,
- "count": 1,
+ "generated_at": 1794155425.0089962,
+ "count": 2,
  "items": [
+  {
+   "id": "5b332250463421f3",
+   "source": "InfoQ中文",
+   "title": "Agent 越用越多，企业为何仍不够 AI Native？",
+   "url": "https://www.infoq.cn/article/YZx670AAiudsqZjx3UNo?utm_source=rss&utm_medium=article",
+   "summary": "点击查看原文>",
+   "published_at": 1794182880.0,
+   "published_bj": "2026-11-09 08:08"
+  },
   {
    "id": "027f730eb9f9505d",
    "source": "InfoQ中文",
