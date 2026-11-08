@@ -1,8 +1,44 @@
 {
  "date": "2026-11-08",
- "generated_at": 1794094130.0505197,
- "count": 9,
+ "generated_at": 1794096701.1306453,
+ "count": 13,
  "items": [
+  {
+   "id": "77885b111f91e5cd",
+   "source": "BBC中文",
+   "title": "法國血庫冷藏設備遭駭客攻擊 幕後黑手眾說紛紜",
+   "url": "https://www.bbc.com/zhongwen/articles/c6d7qqe9ngeyo/trad?at_medium=RSS&at_campaign=rss",
+   "summary": "法國血庫冷藏設備遭駭客攻擊調高溫度，但未造成血液損失。專家懷疑俄羅斯、伊朗駭客或青少年所為，攻擊具高度規劃性，目前尚無正式歸因。",
+   "published_at": 1794096494.0,
+   "published_bj": "2026-11-08 08:08"
+  },
+  {
+   "id": "56e163c8f748f168",
+   "source": "中新网即时",
+   "title": "第36届中国新闻奖、第19届长江韬奋奖评选结果揭晓",
+   "url": "https://www.chinanews.com.cn/gn/2026/11-08/10728204.shtml",
+   "summary": "新华社权威快报｜第36届中国新闻奖、第19届长江韬奋奖评选结果揭晓",
+   "published_at": 1794096142.0,
+   "published_bj": "2026-11-08 08:02"
+  },
+  {
+   "id": "e25b8d8367033368",
+   "source": "中新网即时",
+   "title": "日本静冈县西部发生5.7级地震",
+   "url": "https://www.chinanews.com.cn/gj/2026/11-08/10728203.shtml",
+   "summary": "据日本气象厅发布的消息，当地时间8日凌晨1时04分左右，日本静冈县西部发生5.7级地震，震源深度40千米，最大震感为震度5强。日本爱知县、兵库县、静冈县、东京等较大范围区域均有震感。",
+   "published_at": 1794095665.0,
+   "published_bj": "2026-11-08 07:54"
+  },
+  {
+   "id": "0a462bfd998f3c66",
+   "source": "中新网即时",
+   "title": "年轻人为何爱看“古人开演唱会”",
+   "url": "https://www.chinanews.com.cn/cul/2026/11-08/10728202.shtml",
+   "summary": "当杜甫“亲口”唱起为租房搬家奔波的中年困境、苏轼唱起43岁被贬黄州的经历、刘邦唱出自己起步晚却不服输的精神……一场跨越千年的共情正在年轻群体中发生。",
+   "published_at": 1794095605.0,
+   "published_bj": "2026-11-08 07:53"
+  },
   {
    "id": "d169658d1879f981",
    "source": "中新网即时",
