@@ -1,7 +1,7 @@
 {
  "date": "2026-11-09",
- "generated_at": 1794165778.1660106,
- "count": 13,
+ "generated_at": 1794168924.3861508,
+ "count": 20,
  "items": [
   {
    "id": "5b332250463421f3",
@@ -13,6 +13,51 @@
    "published_bj": "2026-11-09 08:08"
   },
   {
+   "id": "5c007e154d482019",
+   "source": "cnBeta",
+   "title": "苹果借助新加坡税务优惠节省27亿美元税款 超越爱尔兰模式",
+   "url": "https://www.cnbeta.com.tw/articles/tech/1585516.htm",
+   "summary": "据最新披露文件显示，苹果公司在2026财年通过将约500亿美元利润经由新加坡进行财务安排，成功减少约27亿美元税务支出。这一节税规模甚至超过了苹果长期以来依赖的爱尔兰架构，使新加坡成为其当前最具成效的国际税务优化中心。 阅读全文",
+   "published_at": 1794168482.0,
+   "published_bj": "2026-11-09 04:08"
+  },
+  {
+   "id": "ab981e5291d73865",
+   "source": "TechCrunch",
+   "title": "Sequoia partners reportedly blindsided when Roelof Botha joined SpaceX board",
+   "url": "https://techcrunch.com/2026/11/08/sequoia-partners-reportedly-blindsided-when-roelof-botha-joined-spacex-board/",
+   "summary": "A new report claims Sequoia's recent changes undo the legacy of the firm's former steward.",
+   "published_at": 1794167490.0,
+   "published_bj": "2026-11-09 03:51"
+  },
+  {
+   "id": "b12adf5c91e3e45c",
+   "source": "Hacker News",
+   "title": "How I Fight AI Brain Fry",
+   "url": "https://sergeykuhne.com/blog/fighting-ai-brain-fry",
+   "summary": "Article URL: https://sergeykuhne.com/blog/fighting-ai-brain-fry Comments URL: https://news.ycombinator.com/item?id=50416363 Points: 14 # Comments: 3",
+   "published_at": 1794166662.0,
+   "published_bj": "2026-11-09 03:37"
+  },
+  {
+   "id": "2f70037219d25767",
+   "source": "Hacker News",
+   "title": "Outlook.com Is Quietly Rejecting Email from Domains Without DMARC",
+   "url": "https://mailroute.net/blog/outlook-rejecting-email-without-dmarc",
+   "summary": "Article URL: https://mailroute.net/blog/outlook-rejecting-email-without-dmarc Comments URL: https://news.ycombinator.com/item?id=50416158 Points: 42 # Comments: 22",
+   "published_at": 1794165632.0,
+   "published_bj": "2026-11-09 03:20"
+  },
+  {
+   "id": "9e858a99a7456a42",
+   "source": "Hacker News",
+   "title": "Dux: Free, open-source Wayland desktop shell with file manager and theming",
+   "url": "https://duxlabs.dev/",
+   "summary": "Article URL: https://duxlabs.dev/ Comments URL: https://news.ycombinator.com/item?id=50416053 Points: 32 # Comments: 5",
+   "published_at": 1794164931.0,
+   "published_bj": "2026-11-09 03:08"
+  },
+  {
    "id": "daa1a8a3a01d4b92",
    "source": "Hacker News",
    "title": "Silicon Valley Promises AI Will Cure Disease. Drugmaker CEOs Aren't Buying It",
@@ -20,6 +65,15 @@
    "summary": "Article URL: https://www.wsj.com/tech/ai/silicon-valley-promises-ai-will-cure-disease-drugmaker-ceos-arent-buying-it-5218511c Comments URL: https://news.ycombinator.com/item?id=50415817 Points: 13 # Comments: 8",
    "published_at": 1794163387.0,
    "published_bj": "2026-11-09 02:43"
+  },
+  {
+   "id": "6952f3673753d637",
+   "source": "Hacker News",
+   "title": "Playing Zork 1 on a CP/M emulator on Linux (2021)",
+   "url": "https://kevinboone.me/cpmzork.html",
+   "summary": "Article URL: https://kevinboone.me/cpmzork.html Comments URL: https://news.ycombinator.com/item?id=50415750 Points: 5 # Comments: 3",
+   "published_at": 1794162830.0,
+   "published_bj": "2026-11-09 02:33"
   },
   {
    "id": "7a91bedd10907f10",
@@ -65,6 +119,15 @@
    "summary": "Stephen Ward, a former Secret Service agent and Home Depot CISO, is preparing a second fund of roughly $250 million for Brightmind Partners.",
    "published_at": 1794159000.0,
    "published_bj": "2026-11-09 01:30"
+  },
+  {
+   "id": "b419e9bd2337f352",
+   "source": "Hacker News",
+   "title": "RAM Altman: Linux Script Emails Sam Altman Daily How Much Unused RAM in Your PC",
+   "url": "https://respawnfirst.com/linux-script-emails-sam-altman-unused-ram-ram-altman/",
+   "summary": "Article URL: https://respawnfirst.com/linux-script-emails-sam-altman-unused-ram-ram-altman/ Comments URL: https://news.ycombinator.com/item?id=50415172 Points: 44 # Comments: 14",
+   "published_at": 1794158429.0,
+   "published_bj": "2026-11-09 01:20"
   },
   {
    "id": "32e1f369c7fca915",
