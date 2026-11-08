@@ -1,7 +1,7 @@
 {
  "date": "2026-11-09",
- "generated_at": 1794168924.3861508,
- "count": 20,
+ "generated_at": 1794171314.567172,
+ "count": 24,
  "items": [
   {
    "id": "5b332250463421f3",
@@ -11,6 +11,33 @@
    "summary": "点击查看原文>",
    "published_at": 1794182880.0,
    "published_bj": "2026-11-09 08:08"
+  },
+  {
+   "id": "1cd896491ad9ab2d",
+   "source": "cnBeta",
+   "title": "英伟达董事会启动独立调查 核查黄仁勋与涉华情报事件的关系",
+   "url": "https://www.cnbeta.com.tw/articles/tech/1585518.htm",
+   "summary": "英伟达围绕首席执行官黄仁勋与一名涉嫌受中国国家安全部招募的商界女性之间的关系，正式启动独立调查。 英伟达董事会11月8日宣布，将由独立董事组成专门委员会，并聘请外部独立律师参与调查，以核实近期媒体披露的外国情报活动指控。 阅读全文",
+   "published_at": 1794170838.0,
+   "published_bj": "2026-11-09 04:47"
+  },
+  {
+   "id": "8cf95b3acf7bce68",
+   "source": "TechCrunch",
+   "title": "Coordinated disturbances haunt grids worldwide. Here’s how researchers solved the mystery.",
+   "url": "https://techcrunch.com/2026/11/08/coordinated-disturbances-haunt-grids-worldwide-heres-how-researchers-solved-the-mystery/",
+   "summary": "Mystery solved: Coordinated power drops have been haunting power grid worldwide, but a team of researchers in Germany found the culprit.",
+   "published_at": 1794169800.0,
+   "published_bj": "2026-11-09 04:30"
+  },
+  {
+   "id": "879430221e176610",
+   "source": "Hacker News",
+   "title": "Nvidia Board of Directors Is Investigating Jensen Huang",
+   "url": "https://nvidianews.nvidia.com/news/statement-from-nvidia-board-of-directors",
+   "summary": "Article URL: https://nvidianews.nvidia.com/news/statement-from-nvidia-board-of-directors Comments URL: https://news.ycombinator.com/item?id=50416801 Points: 54 # Comments: 17",
+   "published_at": 1794169603.0,
+   "published_bj": "2026-11-09 04:26"
   },
   {
    "id": "5c007e154d482019",
@@ -29,6 +56,15 @@
    "summary": "A new report claims Sequoia's recent changes undo the legacy of the firm's former steward.",
    "published_at": 1794167490.0,
    "published_bj": "2026-11-09 03:51"
+  },
+  {
+   "id": "122542fbc14932b7",
+   "source": "Hacker News",
+   "title": "Starship Flight 15 on 11/13 plans to catch both booster and ship",
+   "url": "https://www.spacex.com/launches/starship-flight-15",
+   "summary": "Article URL: https://www.spacex.com/launches/starship-flight-15 Comments URL: https://news.ycombinator.com/item?id=50416471 Points: 14 # Comments: 3",
+   "published_at": 1794167386.0,
+   "published_bj": "2026-11-09 03:49"
   },
   {
    "id": "b12adf5c91e3e45c",
