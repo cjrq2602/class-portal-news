@@ -1,7 +1,7 @@
 {
  "date": "2026-11-09",
- "generated_at": 1794155589.8487773,
- "count": 3,
+ "generated_at": 1794158068.2051435,
+ "count": 4,
  "items": [
   {
    "id": "5b332250463421f3",
@@ -11,6 +11,15 @@
    "summary": "点击查看原文>",
    "published_at": 1794182880.0,
    "published_bj": "2026-11-09 08:08"
+  },
+  {
+   "id": "b5686ab7498a08f3",
+   "source": "TechCrunch",
+   "title": "TechCrunch Mobility: The Cybertruck experiment is over",
+   "url": "https://techcrunch.com/2026/11/08/techcrunch-mobility-the-cybertruck-experiment-is-over/",
+   "summary": "Welcome back to TechCrunch Mobility, your hub for the future of transportation and now, more than ever, the role AI is playing in it.",
+   "published_at": 1794157320.0,
+   "published_bj": "2026-11-09 01:02"
   },
   {
    "id": "027f730eb9f9505d",
