@@ -1,0 +1,374 @@
+{
+ "type": "today",
+ "date": "2026-11-08",
+ "window": {
+  "start_ts": 1794067200.0,
+  "end_ts": 1794099600.0
+ },
+ "generated_at": 1794102946.7326064,
+ "generator": "action",
+ "news_count": 73,
+ "keywords": [
+  "ai",
+  "the",
+  "and",
+  "to",
+  "全球",
+  "show",
+  "don",
+  "new",
+  "hn",
+  "it"
+ ],
+ "points": [
+  {
+   "text": "【ai】随着人工智能数据中心建设热潮持续升温，英伟达高价值计算设备正在成为犯罪团伙的新目标",
+   "keyword": "ai",
+   "news_ids": [
+    "58c3641c51c05eb2"
+   ],
+   "refs": [
+    {
+     "id": "58c3641c51c05eb2",
+     "title": "美国再发生NVIDIA AI硬件失窃案：价值1140万美元设备运输途中神秘消失",
+     "source": "cnBeta",
+     "url": "https://www.cnbeta.com.tw/articles/tech/1585414.htm",
+     "published_at": 1794078908.0
+    }
+   ]
+  },
+  {
+   "text": "【ai】Article URL: https://hunch",
+   "keyword": "ai",
+   "news_ids": [
+    "3819d6c6a113ce8f"
+   ],
+   "refs": [
+    {
+     "id": "3819d6c6a113ce8f",
+     "title": "The End of AI Frontiers",
+     "source": "Hacker News",
+     "url": "https://hunch.net/?p=13764006",
+     "published_at": 1794074647.0
+    }
+   ]
+  },
+  {
+   "text": "【to】Profession like software engineer, mechanical / graphics designer takes ",
+   "keyword": "to",
+   "news_ids": [
+    "400874872a13d4f6"
+   ],
+   "refs": [
+    {
+     "id": "400874872a13d4f6",
+     "title": "Show HN: An offline desktop companion to help maintain a healthy blink rhythm",
+     "source": "Hacker News",
+     "url": "https://eyesrhythm.com/",
+     "published_at": 1794088067.0
+    }
+   ]
+  },
+  {
+   "text": "【new】Article URL: https://github",
+   "keyword": "new",
+   "news_ids": [
+    "bc2eda35eb73198e"
+   ],
+   "refs": [
+    {
+     "id": "bc2eda35eb73198e",
+     "title": "GitHub New pull request overview page in public preview",
+     "source": "Hacker News",
+     "url": "https://github.blog/changelog/2026-11-05-new-pull-request-overview-page-in-public-preview/",
+     "published_at": 1794092980.0
+    }
+   ]
+  },
+  {
+   "text": "Article URL: https://eli",
+   "keyword": "",
+   "news_ids": [
+    "5bfc09e4cf740d45"
+   ],
+   "refs": [
+    {
+     "id": "5bfc09e4cf740d45",
+     "title": "Making any integer with four 2s (2025)",
+     "source": "Hacker News",
+     "url": "https://eli.thegreenplace.net/2025/making-any-integer-with-four-2s/",
+     "published_at": 1794091138.0
+    }
+   ]
+  },
+  {
+   "text": "Article URL: https://meccanicos",
+   "keyword": "",
+   "news_ids": [
+    "ec83693f10c5056d"
+   ],
+   "refs": [
+    {
+     "id": "ec83693f10c5056d",
+     "title": "MeccanicOS",
+     "source": "Hacker News",
+     "url": "https://meccanicos.com/",
+     "published_at": 1794086024.0
+    }
+   ]
+  },
+  {
+   "text": "Article URL: https://prog21",
+   "keyword": "",
+   "news_ids": [
+    "8f11a89f4c293c11"
+   ],
+   "refs": [
+    {
+     "id": "8f11a89f4c293c11",
+     "title": "Five Memorable Books About Programming",
+     "source": "Hacker News",
+     "url": "https://prog21.dadgum.com/19.html",
+     "published_at": 1794072649.0
+    }
+   ]
+  },
+  {
+   "text": "据美国蒙特雷湾水族馆研究所（MBARI）消息，研究人员在太平洋深海罕见拍摄到一条头部完全透明的管眼鱼（学名 Macropinna microst",
+   "keyword": "",
+   "news_ids": [
+    "10369d645ab04037"
+   ],
+   "refs": [
+    {
+     "id": "10369d645ab04037",
+     "title": "MBARI罕见拍到管眼鱼 透明头颅的深海怪鱼首次被4K镜头记录",
+     "source": "cnBeta",
+     "url": "https://www.cnbeta.com.tw/articles/science/1585410.htm",
+     "published_at": 1794070839.0
+    }
+   ]
+  },
+  {
+   "text": "今年早些时候，“阿耳忒弥斯2号”（Artemis II）任务半个多世纪以来首次将宇航员送绕月球并安全返回",
+   "keyword": "",
+   "news_ids": [
+    "ccf5c7f32361f31e"
+   ],
+   "refs": [
+    {
+     "id": "ccf5c7f32361f31e",
+     "title": "NASA Artemis II任务在电离层打出两个5000公里空洞 GPS信号受到干扰",
+     "source": "cnBeta",
+     "url": "https://www.cnbeta.com.tw/articles/science/1585408.htm",
+     "published_at": 1794070754.0
+    }
+   ]
+  },
+  {
+   "text": "欧洲空间局（ESA）负责行星防御的赫拉（Hera）任务日前首次近距离拍摄到迪迪莫斯（Didymos）双小行星系统",
+   "keyword": "",
+   "news_ids": [
+    "e47d893f7c57f9dc"
+   ],
+   "refs": [
+    {
+     "id": "e47d893f7c57f9dc",
+     "title": "欧空局赫拉探测器首次近距离拍摄到Didymos双小行星系统",
+     "source": "cnBeta",
+     "url": "https://www.cnbeta.com.tw/articles/science/1585404.htm",
+     "published_at": 1794070585.0
+    }
+   ]
+  },
+  {
+   "text": "消息称，古天乐可能首次进军内地网络剧市场，与导演马楚成合作一部由内地投资的警匪题材网络剧",
+   "keyword": "",
+   "news_ids": [
+    "74c68eaaae47bd90"
+   ],
+   "refs": [
+    {
+     "id": "74c68eaaae47bd90",
+     "title": "消息称古天乐拟进军内地网剧市场 与马楚成再合作警匪剧",
+     "source": "cnBeta",
+     "url": "https://www.cnbeta.com.tw/articles/movie/1585400.htm",
+     "published_at": 1794070306.0
+    }
+   ]
+  },
+  {
+   "text": "网传消息显示，墨尔本一名华人外卖骑手于6日晚间遇袭身亡，涉事平台熊猫外卖发声，表示正在跟进处置、提供帮助",
+   "keyword": "",
+   "news_ids": [
+    "e6f27ee6e33d25e3"
+   ],
+   "refs": [
+    {
+     "id": "e6f27ee6e33d25e3",
+     "title": "51岁男子行凶致墨尔本华人骑手身亡 熊猫外卖正核实并帮扶家属",
+     "source": "cnBeta",
+     "url": "https://www.cnbeta.com.tw/articles/tech/1585398.htm",
+     "published_at": 1794070297.0
+    }
+   ]
+  },
+  {
+   "text": "今年双十一，不少人打开包裹的第一反应不是惊喜，而是皱眉",
+   "keyword": "",
+   "news_ids": [
+    "33f7828b1fa89b50"
+   ],
+   "refs": [
+    {
+     "id": "33f7828b1fa89b50",
+     "title": "今年双11 为什么收到的快递包装变烂了？",
+     "source": "cnBeta",
+     "url": "https://www.cnbeta.com.tw/articles/tech/1585396.htm",
+     "published_at": 1794070220.0
+    }
+   ]
+  },
+  {
+   "text": "苹果研究团队披露机器人“大脑”研究进展",
+   "keyword": "",
+   "news_ids": [
+    "7012b9ef8e05b43b"
+   ],
+   "refs": [
+    {
+     "id": "7012b9ef8e05b43b",
+     "title": "苹果研究团队披露机器人“大脑”进展 调用千问模型在宇树G1上验证",
+     "source": "cnBeta",
+     "url": "https://www.cnbeta.com.tw/articles/tech/1585390.htm",
+     "published_at": 1794069810.0
+    }
+   ]
+  },
+  {
+   "text": "近日，市场传出“余承东不再直接管理华为汽车业务”的消息",
+   "keyword": "",
+   "news_ids": [
+    "d064b8629ec307ff"
+   ],
+   "refs": [
+    {
+     "id": "d064b8629ec307ff",
+     "title": "传不再直管华为汽车业务后 余承东发微博官宣“享界V8试驾”",
+     "source": "cnBeta",
+     "url": "https://www.cnbeta.com.tw/articles/tech/1585388.htm",
+     "published_at": 1794069786.0
+    }
+   ]
+  }
+ ],
+ "article": {
+  "title": "2026-11-08 新闻总结",
+  "paragraphs": [
+   {
+    "kind": "lead",
+    "text": "今天共收录 73 条新闻，来自 6 家媒体。把标题放在一起看，讨论主要集中在 AI、游戏 这几个方向上，其余消息更像是零散补充。"
+   },
+   {
+    "kind": "section",
+    "heading": "AI",
+    "text": "先看「AI」。随着人工智能数据中心建设热潮持续升温，英伟达高价值计算设备正在成为犯罪团伙的新目标…，另有 36 条消息指向同一话题。这条消息短期内的实际影响可能有限，但它指向的方向值得放进观察名单。",
+    "news_ids": [
+     "58c3641c51c05eb2"
+    ],
+    "refs": [
+     {
+      "id": "58c3641c51c05eb2",
+      "title": "美国再发生NVIDIA AI硬件失窃案：价值1140万美元设备运输途中神秘消失",
+      "source": "cnBeta",
+      "url": "https://www.cnbeta.com.tw/articles/tech/1585414.htm",
+      "published_at": 1794078908.0
+     }
+    ]
+   },
+   {
+    "kind": "section",
+    "heading": "MBARI罕见拍到管眼鱼 透明头",
+    "text": "与此同时「MBARI罕见拍到管眼鱼 透明头」。据美国蒙特雷湾水族馆研究所（MBARI）消息，研究人员在太平洋深海罕见拍摄到一条头部完全透明的管眼鱼（学名 Macropinna microstoma）。对读者来说，值得留意的不是结论本身，而是它背后哪些前提正在被改变。",
+    "news_ids": [
+     "10369d645ab04037"
+    ],
+    "refs": [
+     {
+      "id": "10369d645ab04037",
+      "title": "MBARI罕见拍到管眼鱼 透明头颅的深海怪鱼首次被4K镜头记录",
+      "source": "cnBeta",
+      "url": "https://www.cnbeta.com.tw/articles/science/1585410.htm",
+      "published_at": 1794070839.0
+     }
+    ]
+   },
+   {
+    "kind": "section",
+    "heading": "NASA Artemis II任",
+    "text": "另一个值得注意的方向是「NASA Artemis II任」。今年早些时候，“阿耳忒弥斯2号”（Artemis II）任务半个多世纪以来首次将宇航员送绕月球并安全返回…。对企业而言，安全投入平时看不见产出，出事时却是唯一能兜底的东西。",
+    "news_ids": [
+     "ccf5c7f32361f31e"
+    ],
+    "refs": [
+     {
+      "id": "ccf5c7f32361f31e",
+      "title": "NASA Artemis II任务在电离层打出两个5000公里空洞 GPS信号受到干扰",
+      "source": "cnBeta",
+      "url": "https://www.cnbeta.com.tw/articles/science/1585408.htm",
+      "published_at": 1794070754.0
+     }
+    ]
+   },
+   {
+    "kind": "section",
+    "heading": "系统",
+    "text": "相比之下「系统」。欧洲空间局（ESA）负责行星防御的赫拉（Hera）任务日前首次近距离拍摄到迪迪莫斯（Didymos）双小行星系统…。技术路线的胜负很少由一次发布会决定，接下来要看的是它能不能被更多团队低成本复用。",
+    "news_ids": [
+     "e47d893f7c57f9dc"
+    ],
+    "refs": [
+     {
+      "id": "e47d893f7c57f9dc",
+      "title": "欧空局赫拉探测器首次近距离拍摄到Didymos双小行星系统",
+      "source": "cnBeta",
+      "url": "https://www.cnbeta.com.tw/articles/science/1585404.htm",
+      "published_at": 1794070585.0
+     }
+    ]
+   },
+   {
+    "kind": "glossary",
+    "items": [
+     {
+      "term": "IPO",
+      "desc": "首次公开募股，公司第一次把股票卖给公众并上市"
+     },
+     {
+      "term": "AI",
+      "desc": "人工智能，让机器完成识别、生成、判断等原本需要人做的任务"
+     },
+     {
+      "term": "Agent",
+      "desc": "智能体，能自己拆解任务、调用工具并连续执行的 AI 程序"
+     },
+     {
+      "term": "数据中心",
+      "desc": "集中放置服务器、供电与散热设施的大型机房"
+     }
+    ]
+   },
+   {
+    "kind": "outlook",
+    "text": "把这几条放在一起看，最值得跟踪的是 AI 和 游戏 两条线：一条决定技术能走多远，一条决定它多快能落到普通人的日常里。至于其他消息，可以先放进观察名单，等后续有更实的进展再判断。"
+   }
+  ],
+  "word_count": 608
+ },
+ "ai_enhanced": false,
+ "schema": 1,
+ "window_bj": {
+  "start": "2026-11-08 00:00",
+  "end": "2026-11-08 09:00"
+ }
+}
