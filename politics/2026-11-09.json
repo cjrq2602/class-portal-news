@@ -1,8 +1,53 @@
 {
  "date": "2026-11-09",
- "generated_at": 1794178463.5354795,
- "count": 11,
+ "generated_at": 1794180564.083545,
+ "count": 16,
  "items": [
+  {
+   "id": "6e1121ef72173d46",
+   "source": "中新网即时",
+   "title": "日本宫城县近海发生4.5级地震 多地有震感",
+   "url": "https://www.chinanews.com.cn/gj/2026/11-09/10728585.shtml",
+   "summary": "中新网11月9日电 据日本广播协会(NHK)报道，当地时间9日5时16分左右，日本宫城县近海发生4.5级地震，震源深度50千米。",
+   "published_at": 1794178758.0,
+   "published_bj": "2026-11-09 06:59"
+  },
+  {
+   "id": "a909ffd73bd86c56",
+   "source": "中新网要闻",
+   "title": "日本宫城县近海发生4.5级地震 多地有震感",
+   "url": "https://www.chinanews.com.cn/gj/2026/11-09/10728585.shtml",
+   "summary": "中新网11月9日电 据日本广播协会(NHK)报道，当地时间9日5时16分左右，日本宫城县近海发生4.5级地震，震源深度50千米。",
+   "published_at": 1794178758.0,
+   "published_bj": "2026-11-09 06:59"
+  },
+  {
+   "id": "057debe7abdd80ee",
+   "source": "中新网即时",
+   "title": "美国一大学接连发生两起枪击事件 致1死3伤",
+   "url": "https://www.chinanews.com.cn/gj/2026/11-09/10728584.shtml",
+   "summary": "中新网11月9日电 综合美媒报道，当地时间8日，美国警方表示，北卡罗来纳州温斯顿-塞勒姆州立大学校园内7日晚间发生两起枪击事件，造成1人死亡、3人受伤。",
+   "published_at": 1794178196.0,
+   "published_bj": "2026-11-09 06:49"
+  },
+  {
+   "id": "c864bc3c0a3e831e",
+   "source": "中新网要闻",
+   "title": "美国一大学接连发生两起枪击事件 致1死3伤",
+   "url": "https://www.chinanews.com.cn/gj/2026/11-09/10728584.shtml",
+   "summary": "中新网11月9日电 综合美媒报道，当地时间8日，美国警方表示，北卡罗来纳州温斯顿-塞勒姆州立大学校园内7日晚间发生两起枪击事件，造成1人死亡、3人受伤。",
+   "published_at": 1794178196.0,
+   "published_bj": "2026-11-09 06:49"
+  },
+  {
+   "id": "d376a3ffdc1371ab",
+   "source": "中新网即时",
+   "title": "11月9日新闻早报",
+   "url": "https://www.chinanews.com.cn/iframe/2026/11-09/10728583.shtml",
+   "summary": "",
+   "published_at": 1794177970.0,
+   "published_bj": "2026-11-09 06:46"
+  },
   {
    "id": "44fbde8dd91283e2",
    "source": "中新网即时",
