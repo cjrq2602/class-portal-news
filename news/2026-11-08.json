@@ -1,8 +1,17 @@
 {
  "date": "2026-11-08",
- "generated_at": 1794162732.375453,
- "count": 262,
+ "generated_at": 1794165778.1678364,
+ "count": 263,
  "items": [
+  {
+   "id": "c6ce8050955e5c6e",
+   "source": "Hacker News",
+   "title": "UK House of Lords to propose mandatory CSAM detection software on smartphones",
+   "url": "https://observer.co.uk/news/national/article/fight-to-block-child-sexual-abuse-images-unites-peers-and-mps-in-cross-party-campaign",
+   "summary": "Article URL: https://observer.co.uk/news/national/article/fight-to-block-child-sexual-abuse-images-unites-peers-and-mps-in-cross-party-campaign Comments URL: https://news.ycombinator.com/item?id=50414331 Points: 30 # Comments: 8",
+   "published_at": 1794153457.0,
+   "published_bj": "2026-11-08 23:57"
+  },
   {
    "id": "d1731d87bb85d270",
    "source": "IT之家",

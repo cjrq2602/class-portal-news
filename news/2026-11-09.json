@@ -1,7 +1,7 @@
 {
  "date": "2026-11-09",
- "generated_at": 1794162732.373469,
- "count": 10,
+ "generated_at": 1794165778.1660106,
+ "count": 13,
  "items": [
   {
    "id": "5b332250463421f3",
@@ -11,6 +11,24 @@
    "summary": "点击查看原文>",
    "published_at": 1794182880.0,
    "published_bj": "2026-11-09 08:08"
+  },
+  {
+   "id": "daa1a8a3a01d4b92",
+   "source": "Hacker News",
+   "title": "Silicon Valley Promises AI Will Cure Disease. Drugmaker CEOs Aren't Buying It",
+   "url": "https://www.wsj.com/tech/ai/silicon-valley-promises-ai-will-cure-disease-drugmaker-ceos-arent-buying-it-5218511c",
+   "summary": "Article URL: https://www.wsj.com/tech/ai/silicon-valley-promises-ai-will-cure-disease-drugmaker-ceos-arent-buying-it-5218511c Comments URL: https://news.ycombinator.com/item?id=50415817 Points: 13 # Comments: 8",
+   "published_at": 1794163387.0,
+   "published_bj": "2026-11-09 02:43"
+  },
+  {
+   "id": "7a91bedd10907f10",
+   "source": "Hacker News",
+   "title": "Goldman Sachs Is Pulling Claude Code from Its Bankers and Traders",
+   "url": "https://www.thestateofai.com/news/goldman-sachs-claude-code-traders-bankers",
+   "summary": "Article URL: https://www.thestateofai.com/news/goldman-sachs-claude-code-traders-bankers Comments URL: https://news.ycombinator.com/item?id=50415628 Points: 114 # Comments: 45",
+   "published_at": 1794161767.0,
+   "published_bj": "2026-11-09 02:16"
   },
   {
    "id": "39aa715d4a4f63f1",
@@ -47,6 +65,15 @@
    "summary": "Stephen Ward, a former Secret Service agent and Home Depot CISO, is preparing a second fund of roughly $250 million for Brightmind Partners.",
    "published_at": 1794159000.0,
    "published_bj": "2026-11-09 01:30"
+  },
+  {
+   "id": "32e1f369c7fca915",
+   "source": "Hacker News",
+   "title": "A Little Snitch for Windows",
+   "url": "https://packethound.app/",
+   "summary": "Article URL: https://packethound.app/ Comments URL: https://news.ycombinator.com/item?id=50415135 Points: 30 # Comments: 15",
+   "published_at": 1794158167.0,
+   "published_bj": "2026-11-09 01:16"
   },
   {
    "id": "6b9a7062bbc85d75",
