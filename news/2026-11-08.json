@@ -1,8 +1,98 @@
 {
  "date": "2026-11-08",
- "generated_at": 1794096699.185277,
- "count": 65,
+ "generated_at": 1794101359.5164616,
+ "count": 76,
  "items": [
+  {
+   "id": "49130d70db18be90",
+   "source": "InfoQ中文",
+   "title": "自动路由真能省钱吗？便宜模型出错后，人类修一小时可能更贵",
+   "url": "https://www.infoq.cn/article/gOcDmZM2MPAQhWtNb6IJ?utm_source=rss&utm_medium=article",
+   "summary": "点击查看原文>",
+   "published_at": 1794128400.0,
+   "published_bj": "2026-11-08 17:00"
+  },
+  {
+   "id": "a57dc2f59807cca4",
+   "source": "IT之家",
+   "title": "芝加哥大学教授：AI 时代数学人才招聘将更看重研究愿景与表达能力",
+   "url": "https://www.ithome.com/1/023/859.htm",
+   "summary": "IT之家 11 月 8 日消息，人工智能正在降低数学研究取得突破的门槛，但这也意味着，学术界可能需要重新审视人才招聘方式。芝加哥大学一位知名数学教授认为，未来招聘数学研究人员时，个人交流能力和清晰表达研究构想的能力将变得更加重要。 芝加哥大学数学领域的杰出学者弗兰克 · 卡莱加里（Frank Calegari）近日在一篇文章中谈到了自己对研究人员的招聘标准。他写道：“我想了解你希望数学走向何方，也需要具备能解释这为何可能实现的专业能力。” 卡莱加里担忧，随着人工智能工具不断进步，学术界各个领域的初级研究岗位可能会被一些学生占据，而这些人之所以能够获得相关成果，可能只是因为他们大量使用人工智能生",
+   "published_at": 1794100220.0,
+   "published_bj": "2026-11-08 09:10"
+  },
+  {
+   "id": "37f9e2182429a334",
+   "source": "IT之家",
+   "title": "CPU-Z 数据显示 PC 内存容量首次同比下降，16GB 配置占比上涨 12.9%",
+   "url": "https://www.ithome.com/1/023/858.htm",
+   "summary": "IT之家 11 月 8 日消息，据 CPU-Z Validator 最新统计数据，配备 32GB 和 64GB 内存的 PC 正变得越来越少。 在 CPU-Z Validator 统计数据中，32GB 仍是目前最受欢迎的内存容量，在提交验证的系统中占比 37.2%，相比一年前下降 2.5%；64GB 降幅为 18%，目前占比 7.3%。CPU-Z 开发团队成员 Doc TB 表示，这是 PC 内存容量首次出现同比下降。 IT之家注意到，低容量内存配置则呈现上涨趋势。16GB 内存占比增长 12.9%，达到 33.0%；8GB 内存占比增长 5.5%，达到 11.0%。与此同时，96GB 和 1",
+   "published_at": 1794099633.0,
+   "published_bj": "2026-11-08 09:00"
+  },
+  {
+   "id": "a20ea178a293428c",
+   "source": "IT之家",
+   "title": "iG 战队 0:3 不敌 GEN 止步四强，无缘《英雄联盟》S16 最终决赛",
+   "url": "https://www.ithome.com/1/023/856.htm",
+   "summary": "IT之家 11 月 8 日消息，在刚刚结束的《英雄联盟》2026 全球总决赛（S16）淘汰赛半决赛第一日，来自 LPL 赛区的 iG 战队 0:3 不敌 GEN 战队，遗憾止步四强，后者挺进《英雄联盟》S16 总决赛最终决赛。 IT之家附官方战报如下： iG 0:1 GEN 3 分钟，双方打野支援上路，Canyon 奇亚娜击败克烈拿下一血并随后双杀，GEN 一换二； 8 分钟，双方争夺虚空巢虫，Canyon 奇亚娜伤害拉满，GEN 打出一换四； 27 分钟，中路发生团战，Kiin 奥拉夫果断开团，Ruler 烬技能精准命中，GEN 击败 IG 三人； 32 分钟，GEN 进攻 IG 高地，Ca",
+   "published_at": 1794099130.0,
+   "published_bj": "2026-11-08 08:52"
+  },
+  {
+   "id": "6d68ce0a52707a4e",
+   "source": "IT之家",
+   "title": "导演吉布尼：马斯克和霍姆斯都是骗子，靠自信让他人相信不实之事",
+   "url": "https://www.ithome.com/1/023/855.htm",
+   "summary": "IT之家 11 月 8 日消息，如果说有人能够找出埃隆 · 马斯克（Elon Musk）与伊丽莎白 · 霍姆斯（Elizabeth Holmes）之间的关联，那很可能就是导演亚历克斯 · 吉布尼（Alex Gibney）。 据IT之家了解，这位奥斯卡获奖纪录片导演曾分别以这两位备受争议的人物为主题拍摄纪录片。2019 年，他推出了讲述伊丽莎白 · 霍姆斯的纪录片《发明家：硅谷大放血》（The Inventor: Out for Blood in Silicon Valley）。而他的最新作品《马斯克》（Musk）则用近 4 个小时的篇幅，深入审视这位世界首富。 在近日接受 Business I",
+   "published_at": 1794098922.0,
+   "published_bj": "2026-11-08 08:48"
+  },
+  {
+   "id": "44d10160a33d13dd",
+   "source": "IT之家",
+   "title": "消息称 Anthropic 仍在推进上市：最多募资 1000 亿美元，“史上最大 IPO”或有变数",
+   "url": "https://www.ithome.com/1/023/854.htm",
+   "summary": "IT之家 11 月 8 日消息，据《金融时报》昨天报道，尽管美国科技股近期遭遇剧烈波动，Anthropic 仍在推进上市计划。这家来自美国的人工智能初创企业，已经做好接受低于乐观预期估值的准备。 据多位 Anthropic 投资者透露，这家美国公司仍计划在感恩节前进行 IPO（首次公开募股），预计募资 800 亿美元-1,000 亿美元 （IT之家注：现汇率约合 5,352.66 亿元- 6,690.83 亿元人民币） ，目标估值为 1.25 万亿美元-1.75 万亿美元 （现汇率约合 8.36 万亿元- 11.71 万亿元人民币） 。 上述传闻中数字高于 Anthropic 目前的 9,65",
+   "published_at": 1794098644.0,
+   "published_bj": "2026-11-08 08:44"
+  },
+  {
+   "id": "08e763f559a7036e",
+   "source": "IT之家",
+   "title": "英国监管施压：Snapchat 未成年人找好友功能在该国默认关闭",
+   "url": "https://www.ithome.com/1/023/853.htm",
+   "summary": "IT之家 11 月 8 日消息，英国通信管理局（Ofcom）表示，Snapchat 正开始在英国推出一项调整：将面向未满 18 岁用户的“查找好友”（Find Friends）功能默认设置为关闭。 这项功能是 Snap 推出的好友推荐工具，会根据用户的年龄、所在地，以及现有好友和关注者等信息，帮助用户更轻松地添加好友。 Snap 表示，“查找好友”功能旨在帮助用户建立“亲密且值得信赖的现实生活联系”，同时将用户安全放在首位。不过，Ofcom 此前曾指责该平台在保护未成年人方面做得不够。 Ofcom 网络安全部门负责人奥利弗 · 格里菲斯（Oliver Griffiths）在一份新闻稿中表示：“",
+   "published_at": 1794098439.0,
+   "published_bj": "2026-11-08 08:40"
+  },
+  {
+   "id": "69ef487728276691",
+   "source": "IT之家",
+   "title": "长城欧拉 7 车尾官图发布，旅行车赛道再添新成员",
+   "url": "https://www.ithome.com/1/023/852.htm",
+   "summary": "IT之家 11 月 8 日消息，11 月 7 日，长城汽车发布旗下全新车型 —— 欧拉 7 尾部官图。据悉，欧拉 7 将会提供常规版和旅行版，两种车身形态分别对应不同的造型偏好和使用需求。 IT之家注意到，该车已经于今年 6 月在工信部完成申报。欧拉 ORA 7 将成为长城首款旅行轿车，采用纯电动力，由光束汽车有限公司在江苏张家港生产，定位中型纯电动轿车，车身尺寸为 4820×1850 / 1870×1520 mm、 轴距 2870 mm ，额定载客 5 人，整备质量 1850 kg、总质量 2250 kg。 动力方面，这款新车搭载蜂巢传动科技邳州有限公司生产的型号为 QT36TZ220001",
+   "published_at": 1794098056.0,
+   "published_bj": "2026-11-08 08:34"
+  },
+  {
+   "id": "5788c1e38a16edc0",
+   "source": "IT之家",
+   "title": "官方确认：Linux 版 Epic 客户端将支持 Steam Deck 掌机",
+   "url": "https://www.ithome.com/1/023/851.htm",
+   "summary": "IT之家 11 月 8 日消息，Epic Games 曾在今年 8 月透露，计划为自家的游戏商城推出原生 Linux 客户端。如今 Epic 首次确认，Linux 版客户端将支持 Valve 旗下硬件产品。 Epic 传播总监 Jake Jones 接受 GamingOnLinux 采访时表示，公司希望 Linux 客户端覆盖更多发行版系统，包含 Fedora、Cachy、Omarchy， 以及 SteamOS 等 。（IT之家注：SteamOS 是 Steam Deck 掌机、Steam Machine 主机预装的系统） 不过 Epic 并没有确认 Linux 客户端是否能支持 Wine 或",
+   "published_at": 1794097456.0,
+   "published_bj": "2026-11-08 08:24"
+  },
+  {
+   "id": "a3c4101ee6a9ea0c",
+   "source": "IT之家",
+   "title": "美国 17 岁女孩失踪 521 天后获救，《Among Us》游戏对话成关键线索",
+   "url": "https://www.ithome.com/1/023/850.htm",
+   "summary": "IT之家 11 月 8 日消息，美国犹他州一名失踪长达 521 天的 17 岁女孩近日在俄勒冈州一处住宅内获救。而帮助警方找到她的线索，竟始于一场多人在线社交推理游戏《Among Us》中的对话。 这名女孩于 2025 年 5 月 29 日在犹他州加登城失踪，当时年仅 15 岁。据 Newsweek 援引法庭文件报道，2026 年 10 月中旬，她在《Among Us》中开始与另一名儿童交谈。 据称，涉嫌绑架她的男子曾给她一部没有移动数据流量的手机，因此她只能通过 Wi-Fi 上网。两人随后将聊天转移至另一款社交媒体应用。期间，女孩透露了自己的身份，并表示自己被关在俄勒冈州一名男子的住所内。 ",
+   "published_at": 1794096879.0,
+   "published_bj": "2026-11-08 08:14"
+  },
   {
    "id": "89d28c84983e0a48",
    "source": "IT之家",
@@ -110,6 +200,15 @@
    "summary": "IT之家 11 月 8 日消息，据科技媒体 Windows Latest 今天报道，部分 Outlook.com 和 Hotmail 邮箱用户近期发现，他们无法正常接收邮件。 发件人侧收到的提示是 ， 邮件未能通过身份验证检查 。 据报道，该问题最初出现于 11 月 5 日，今天仍然能成功复现。在大多数情况下，用户很难直接察觉究竟发生了什么。但如果进一步查看日志，就会发现邮件无法发送的原因是身份验证检查错误。 不过部分发件人表示，即使他们的邮件域名已经配置了有效的身份验证记录，依然会收到报错提示。某些情况下，点击重新发送又能缓解问题。 一名用户在微软论坛上写道：“即使域名已经正确配置 SPF、",
    "published_at": 1794093439.0,
    "published_bj": "2026-11-08 07:17"
+  },
+  {
+   "id": "179879e5b3c041de",
+   "source": "Hacker News",
+   "title": "Commodore PET – The Worlds First Personal Computer",
+   "url": "https://www.commodore.ca/commodore-products/commodore-pet-the-worlds-first-personal-computer/",
+   "summary": "Article URL: https://www.commodore.ca/commodore-products/commodore-pet-the-worlds-first-personal-computer/ Comments URL: https://news.ycombinator.com/item?id=50408961 Points: 13 # Comments: 0",
+   "published_at": 1794093334.0,
+   "published_bj": "2026-11-08 07:15"
   },
   {
    "id": "c9a906c67cbdc4a3",
