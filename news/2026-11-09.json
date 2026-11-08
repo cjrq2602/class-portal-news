@@ -1,7 +1,7 @@
 {
  "date": "2026-11-09",
- "generated_at": 1794173343.015327,
- "count": 27,
+ "generated_at": 1794176075.4251049,
+ "count": 30,
  "items": [
   {
    "id": "5b332250463421f3",
@@ -11,6 +11,24 @@
    "summary": "点击查看原文>",
    "published_at": 1794182880.0,
    "published_bj": "2026-11-09 08:08"
+  },
+  {
+   "id": "71fe9411416e5943",
+   "source": "TechCrunch",
+   "title": "Apps to distract you from the endless cycle of doomscrolling",
+   "url": "https://techcrunch.com/2026/11/08/apps-to-distract-you-from-the-endless-cycle-of-doomscrolling/",
+   "summary": "It's hard to break the cycle of doomscrolling, but there are plenty of apps that can help you spend more time on content that’s engaging and productive.",
+   "published_at": 1794175200.0,
+   "published_bj": "2026-11-09 06:00"
+  },
+  {
+   "id": "55a2932930c1694b",
+   "source": "Hacker News",
+   "title": "Ask HN: What are you working on? (November 2026)",
+   "url": "https://news.ycombinator.com/item?id=50417407",
+   "summary": "What are you working on? What have you been curious about lately? Comments URL: https://news.ycombinator.com/item?id=50417407 Points: 12 # Comments: 8",
+   "published_at": 1794172820.0,
+   "published_bj": "2026-11-09 05:20"
   },
   {
    "id": "64ff1a88d9009ca1",
@@ -119,6 +137,15 @@
    "summary": "Article URL: https://duxlabs.dev/ Comments URL: https://news.ycombinator.com/item?id=50416053 Points: 32 # Comments: 5",
    "published_at": 1794164931.0,
    "published_bj": "2026-11-09 03:08"
+  },
+  {
+   "id": "ef61a8dcb7322d67",
+   "source": "Hacker News",
+   "title": "Playing with the STM32MP2",
+   "url": "https://serd.es/2026/11/08/playing-with-stm32mp2.html",
+   "summary": "Article URL: https://serd.es/2026/11/08/playing-with-stm32mp2.html Comments URL: https://news.ycombinator.com/item?id=50416014 Points: 6 # Comments: 1",
+   "published_at": 1794164647.0,
+   "published_bj": "2026-11-09 03:04"
   },
   {
    "id": "daa1a8a3a01d4b92",
