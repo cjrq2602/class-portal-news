@@ -1,7 +1,7 @@
 {
  "date": "2026-11-08",
- "generated_at": 1794112234.42383,
- "count": 100,
+ "generated_at": 1794115676.9865131,
+ "count": 107,
  "items": [
   {
    "id": "030fa58032d49e95",
@@ -22,6 +22,42 @@
    "published_bj": "2026-11-08 17:00"
   },
   {
+   "id": "8207fa97d203e294",
+   "source": "IT之家",
+   "title": "Menlo Ventures 报告：中国 AI 模型占全球开源模型企业支出 89%，Kimi、DeepSeek、GLM 位列前三",
+   "url": "https://www.ithome.com/1/023/885.htm",
+   "summary": "IT之家 11 月 8 日消息，据《南华早报》前天报道，一项新研究显示，以月之暗面 Kimi 系列为代表的中国 AI 模型，在全球企业开源模型支出的占比为 89%，接近九成。 IT之家从原报道获悉，硅谷风投公司 Menlo Ventures 近期发布的报告指出上述观点。 其中月之暗面 Kimi 以 61% 份额 ， 在全球企业开源模型支出位居第一 ；深度求索 DeepSeek 以 15% 排名第二；智谱的 GLM 以 11% 位列第三。 相比之下，Meta Platforms 旗下的 Llama 系列是该领域市场份额最高的西方模型，但其在开源模型企业支出中的占比仅为 7%。",
+   "published_at": 1794115272.0,
+   "published_bj": "2026-11-08 13:21"
+  },
+  {
+   "id": "8b3690d192b4eb23",
+   "source": "IT之家",
+   "title": "上汽荣威家越 07 上市首周交付突破 5000 台，限时权益价 11.98-14.48 万元",
+   "url": "https://www.ithome.com/1/023/884.htm",
+   "summary": "IT之家 11 月 8 日消息，上汽荣威今天宣布，家越 07 汽车上市首周交付量突破 5000 台（11 月 1 日至 11 月 7 日数据）。该车包含四款车型， 限时权益价区间 11.98-14.48 万元 。 荣威家越 07 长宽高为 4900*1910*1745mm，轴距 2908mm，提供龙晶紫、玛瑙灰、宝石蓝、珍溪黑、钻石白、翡翠绿等宝石车色，可选绵云青空、坚果可可、云绒暖灰内饰色，车内还配有 AI 灵光氛围灯、双 15.6 英寸 2.5K 超清大屏。此次新车搭载 AI 极速制冰冷暖两用冰箱，可实现最快十分钟制冰。 IT之家注意到，该车行业首搭豆包座舱助手支持拟人化表情、FaceID",
+   "published_at": 1794114001.0,
+   "published_bj": "2026-11-08 13:00"
+  },
+  {
+   "id": "7b40339b26d0d2a4",
+   "source": "IT之家",
+   "title": "英国士兵手机遭黑客入侵，私密照片被用于勒索",
+   "url": "https://www.ithome.com/1/023/883.htm",
+   "summary": "北京时间 11 月 8 日，据 Ars Technica 报道，一名英国陆军士兵在前往爱沙尼亚执行军事任务前，未遵守上级关于移除手机 SIM 卡的安全命令，随后手机遭到黑客入侵，私人裸照被盗并遭到勒索。最终，这名士兵因违反合法军事命令被军事法庭判处 10 个月拘禁，并被降级。 据爱沙尼亚媒体 Eesti Ekspress 披露的英国军事上诉法院文件，涉事士兵名叫丹尼尔 · 巴顿-肯尼迪（Daniel Barton-Kennedy），事发时是一名服役超过 7 年的下士，隶属于英国陆军兰开斯特公爵团第 1 营。 2026 年 1 月，巴顿-肯尼迪所在部队被派往爱沙尼亚塔帕地区，参加代号为“东方勇士",
+   "published_at": 1794113385.0,
+   "published_bj": "2026-11-08 12:49"
+  },
+  {
+   "id": "715a070e94589ea5",
+   "source": "IT之家",
+   "title": "科学家研发石墨烯能量采集器：可从环境电磁辐射中“隔空取电”，为传感器供电",
+   "url": "https://www.ithome.com/1/023/882.htm",
+   "summary": "IT之家 11 月 8 日消息，雷神托尔（Thor）是北欧神话中的雷电之神，以能够凭空召唤闪电而闻名。事实证明，要实现类似效果未必需要一把魔法锤子。科学家近日研发出一种新型装置，能够收集环境中的电磁辐射，并将其转化为电能。 IT之家注意到，来自阿肯色大学和密歇根大学的研究人员开发出一种基于石墨烯的能量采集装置，能够利用附近电线产生的环境辐射发电。 研究人员利用这项技术搭建了一套无需电池的温度传感系统，其中包括能量采集器、电能转换电路、储能电容器以及超低功耗温度传感器。整套系统无需有线供电，通过电磁感应获取电能，为传感器提供运行所需的电力。 那么，电线周围的环境辐射究竟是如何为独立设备供电的？ ",
+   "published_at": 1794112398.0,
+   "published_bj": "2026-11-08 12:33"
+  },
+  {
    "id": "395c459dab7413fc",
    "source": "IT之家",
    "title": "今日宜休王腾澄清智能戒指材质争议：并非所有内塑胶方案都是智商税，请不要断章取义",
@@ -29,6 +65,15 @@
    "summary": "IT之家 11 月 8 日消息，今日宜休科技公司创始人王腾今日在微博发文称， 他没有说所有用内塑胶方案的智能戒指都是智商税 ， 请媒体老师们不要断章取义 。 王腾表示，内塑胶佩戴体验和工艺质感都不如双圈钛金属方案，成本也要低一些， 就像手机塑胶中框和金属中框的区别 ，都可以使用。不同的产品有不同的定位，大家可以自行选择。智能戒指是个新的品类，就像早年的手机市场存在山寨机一样，大家提升辨别能力就能一起促进行业健康发展。 IT之家注意到，王腾曾认为“关于智能戒指，大家先看一点就好，是不是内外圈都是钛合金材质”。 他表示目前绝大多数戒指为了省成本用的内塑胶方案，工艺更简单，高端的智能戒指都是内外圈钛",
    "published_at": 1794111663.0,
    "published_bj": "2026-11-08 12:21"
+  },
+  {
+   "id": "8c6310e7523ef7bf",
+   "source": "Hacker News",
+   "title": "Kirlian Photography: Building Your Own Equipment",
+   "url": "https://imagesco.com/articles/kirlian/kirlian-photography.html",
+   "summary": "Article URL: https://imagesco.com/articles/kirlian/kirlian-photography.html Comments URL: https://news.ycombinator.com/item?id=50410359 Points: 4 # Comments: 0",
+   "published_at": 1794111252.0,
+   "published_bj": "2026-11-08 12:14"
   },
   {
    "id": "378c1a128b89626c",
@@ -47,6 +92,24 @@
    "summary": "IT之家 11 月 8 日消息，乘联分会秘书长崔东树发表乘用车新车的分级测算探讨，其中提到，今年 1-10 月的新品共 129 款， 其中增程车型 42 款，较去年同期多 26 款 ；混合动力车型 10 款，较同期多 10 款；狭义插混车型 31 款，较同期少 6 款；纯电动车型 68 款，较同期多 11 款；常规燃油车 9 款，较同期少 4 款。 从 2024-2026 年的数据来看，乘用车新车长度呈现出显著的“中大型化”趋势， 市场重心正向 5 米区间集中 。首先，SUV 是绝对主力且疯狂膨胀。SUV 新车数量远超轿车和 MPV，是上新最密集的品类，其 5-5.5 米大型化趋势最为夸张，占",
    "published_at": 1794110052.0,
    "published_bj": "2026-11-08 11:54"
+  },
+  {
+   "id": "6aa1eea36f45ea34",
+   "source": "Hacker News",
+   "title": "I Use Development-Driven Specs, Not Spec-Driven Development",
+   "url": "https://github.com/waywardgeek/ensemble",
+   "summary": "Article URL: https://github.com/waywardgeek/ensemble Comments URL: https://news.ycombinator.com/item?id=50410279 Points: 4 # Comments: 5",
+   "published_at": 1794109915.0,
+   "published_bj": "2026-11-08 11:51"
+  },
+  {
+   "id": "ec08ce1101e50b9b",
+   "source": "Hacker News",
+   "title": "Show HN: Maple – Sub-2-BPW Moe Pruning to Run Gemma 4 26B at 45 TPS on a 6GB GPU",
+   "url": "https://github.com/AmSach/maple",
+   "summary": "Article URL: https://github.com/AmSach/maple Comments URL: https://news.ycombinator.com/item?id=50410253 Points: 3 # Comments: 0",
+   "published_at": 1794109684.0,
+   "published_bj": "2026-11-08 11:48"
   },
   {
    "id": "09139dd5ae9928ae",
