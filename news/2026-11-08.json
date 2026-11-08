@@ -1,7 +1,7 @@
 {
  "date": "2026-11-08",
- "generated_at": 1794148357.3398573,
- "count": 241,
+ "generated_at": 1794150872.4206805,
+ "count": 246,
  "items": [
   {
    "id": "35e7af9114de91cb",
@@ -11,6 +11,51 @@
    "summary": "点击查看原文>",
    "published_at": 1794150186.0,
    "published_bj": "2026-11-08 23:03"
+  },
+  {
+   "id": "64607371b755385a",
+   "source": "IT之家",
+   "title": "马斯克：特斯拉将进一步改进 Cybercab，提升能效、新增配色",
+   "url": "https://www.ithome.com/1/024/011.htm",
+   "summary": "IT之家 11 月 8 日消息，特斯拉计划对 Cybercab 进行多项重大升级，带来能效提升和新的车身配色。今天（8 日）凌晨，特斯拉 CEO 马斯克在 X 上透露，公司还将进一步改进 Cybercab。“我们会进一步提高能效，让 Cybercab 用上 40kWh 电池组 。我们还会推出液态银色，免得车身颜色太单调。” 据IT之家了解，本周早些时候，特斯拉宣布将取消得州超级工厂的 Cybertruck 生产线，把产能腾出来生产更多 Cybercab。 能效更高的新款 Cybercab 有望帮助特斯拉提高盈利能力和利润率。从商业角度来看，也让停产 Cybertruck 的主张更有说服力。 目",
+   "published_at": 1794150024.0,
+   "published_bj": "2026-11-08 23:00"
+  },
+  {
+   "id": "6a1b930635fc7393",
+   "source": "TechCrunch",
+   "title": "Ninja’s AutoBarista is impressively versatile, but one feature was a dealbreaker for me",
+   "url": "https://techcrunch.com/2026/11/08/ninjas-autobarista-is-impressively-versatile-but-one-feature-was-a-dealbreaker-for-me/",
+   "summary": "The AutoBarista's \"Grind iQ\" technology allows the machine to analyze your coffee beans to inform how it pulls a shot of espresso.",
+   "published_at": 1794150000.0,
+   "published_bj": "2026-11-08 23:00"
+  },
+  {
+   "id": "63a5bf6fa3539493",
+   "source": "cnBeta",
+   "title": "亚马逊已成立新的家用机器人团队 正开发一款“世界首创的机器人产品”",
+   "url": "https://www.cnbeta.com.tw/articles/tech/1585506.htm",
+   "summary": "杰夫·贝索斯在2017年做出了一次大胆押注。贝索斯是科幻和机器人爱好者，他确信消费者在不久的将来就会拥有家用机器人。这位亚马逊创始人兼时任CEO告诉公司一群顶级设备高管着手打造一台机器人。几年之内，团队就造出了售价1450美元的Astro。 阅读全文",
+   "published_at": 1794149342.0,
+   "published_bj": "2026-11-08 22:49"
+  },
+  {
+   "id": "921ec8d345847fd5",
+   "source": "cnBeta",
+   "title": "台积电被传评估生产3D DRAM的可能 随后重申专注晶圆代工",
+   "url": "https://www.cnbeta.com.tw/articles/tech/1585504.htm",
+   "summary": "路透社11月6日援引《The Information》报道称，台积电正考虑跨足先进存储器制造，拟研究生产3D DRAM。据两名知情人士透露，这项规划是在英伟达提出需求后启动，目标是让台积电在人工智能硬件供应链中获得更大份额。报道还称，相关工作由负责先进封装业务的副总经理徐国晋主导。 阅读全文",
+   "published_at": 1794149261.0,
+   "published_bj": "2026-11-08 22:47"
+  },
+  {
+   "id": "5370997d7cf79da0",
+   "source": "IT之家",
+   "title": "蚂蚁集团：旗下 AI 助手灵光用户数量已突破 2000 万，2.0 版本上线一周已帮助用户管理超 116 万项事务",
+   "url": "https://www.ithome.com/1/024/010.htm",
+   "summary": "IT之家 11 月 8 日消息，蚂蚁集团旗下 AI 助手灵光宣布：自今年 10 月 27 日灵光 2.0 上线以来，一周内已帮助用户管理超 116 万项事务，执行超 360 万次任务。灵光用户已突破 2000 万。 参考IT之家先前报道，蚂蚁集团于 10 月 27 日发布灵光 2.0，其最大特性是 AI 介入任务的起点进一步前移。 过去，用户需要先发现问题、提出需求，再由 AI 执行；如今，在获得用户授权后，灵光能够结合已接入的信息与服务，主动识别潜在需求，并发起分析、监测和跟进，并在需要用户关注的节点及时提醒。AI 不再只是等待指令的工具，而开始成为能够持续管理事务的助手。 除此之外，灵光 ",
+   "published_at": 1794149243.0,
+   "published_bj": "2026-11-08 22:47"
   },
   {
    "id": "777c57625f8e6b31",
