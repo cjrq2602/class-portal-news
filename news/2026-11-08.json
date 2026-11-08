@@ -1,7 +1,7 @@
 {
  "date": "2026-11-08",
- "generated_at": 1794155425.0106087,
- "count": 255,
+ "generated_at": 1794155589.8504114,
+ "count": 261,
  "items": [
   {
    "id": "d1731d87bb85d270",
@@ -13,6 +13,15 @@
    "published_bj": "2026-11-08 23:47"
   },
   {
+   "id": "271710a94e2b2267",
+   "source": "Hacker News",
+   "title": "I Have Never Seen a Game Fail Because the Artists Were Too Slow",
+   "url": "https://www.productionalchemist.com/p/inever-seen-a-game-fail-because-artists-too-slow",
+   "summary": "Article URL: https://www.productionalchemist.com/p/inever-seen-a-game-fail-because-artists-too-slow Comments URL: https://news.ycombinator.com/item?id=50414234 Points: 11 # Comments: 4",
+   "published_at": 1794152657.0,
+   "published_bj": "2026-11-08 23:44"
+  },
+  {
    "id": "695e78901257493e",
    "source": "IT之家",
    "title": "古尔曼称苹果 CEO 特努斯“上任三把火”，敦促软件主管费德里吉大胆搞 AI",
@@ -20,6 +29,15 @@
    "summary": "IT之家 11 月 8 日消息，彭博社记者马克 · 古尔曼在今天（8 日）晚间更新的《Power On》时事通讯中披露，苹果新任 CEO 约翰 · 特努斯敦促软件工程主管克雷格 · 费德里吉加快 AI 业务发展，采取更大胆的策略，目标是将 Siri 升级为能够 自主替用户完成任务的 AI 智能体 。 上周的财报电话会议上，特努斯对苹果的 AI 业务表现得相当乐观。谈及新版 Siri 时特努斯更是自信十足：苹果终于实现了多年来的设想，公司 AI 业务迎来了新篇章。“我们对收到的评价和反馈 非常满意 ，也非常高兴看到越来越多的用户能够体验到它。” 但在苹果内部，特努斯的态度却截然不同。他深知苹果仍",
    "published_at": 1794152213.0,
    "published_bj": "2026-11-08 23:36"
+  },
+  {
+   "id": "dcbc6ea23a930e87",
+   "source": "Hacker News",
+   "title": "Scrine – Joyscroll books. Read any book one sentence at a time",
+   "url": "https://scrine.io/",
+   "summary": "Article URL: https://scrine.io/ Comments URL: https://news.ycombinator.com/item?id=50414155 Points: 4 # Comments: 2",
+   "published_at": 1794152150.0,
+   "published_bj": "2026-11-08 23:35"
   },
   {
    "id": "f3a3471aad557570",
@@ -49,6 +67,24 @@
    "published_bj": "2026-11-08 23:24"
   },
   {
+   "id": "24d70f7e361b8f11",
+   "source": "Solidot",
+   "title": "LG 因其智能电视监视用户面临法律诉讼",
+   "url": "https://www.solidot.org/story?sid=85829",
+   "summary": "今年 9 月，研究人员报告 LG 智能电视会在屏幕关闭但没有断电的待机状态下扫描家庭网络，寻找手机和智能手表等设备和记录麦克风音频。除了内部 IP 地址，智能电视还会收集邻近 Wi-Fi 网络的名称、信号强度以及位置数据。收集的数据会发送到 LG 的定向广告部门 LG Ad Solutions。LG 对该报告予以否认。消费者保护组织对此并不买账。葡萄牙的 Citizens Voice 请求葡萄牙法院对 LG 的声明进行审查，它希望法院介入调查，判定此类数据收集行为是否侵犯了消费者的权益；如果认定侵权，则不仅应针对 LG 采取行动，还应将零售商一并纳入追责范围。",
+   "published_at": 1794151424.0,
+   "published_bj": "2026-11-08 23:23"
+  },
+  {
+   "id": "2393dc35a08a8cfc",
+   "source": "Hacker News",
+   "title": "Apple CEO Presses Software Chief to Pursue More Ambitious AI Strategy",
+   "url": "https://www.bloomberg.com/news/newsletters/2026-11-08/apple-explores-turning-siri-ai-into-chatgpt-dots-like-agent-ios-28-shake-up",
+   "summary": "Article URL: https://www.bloomberg.com/news/newsletters/2026-11-08/apple-explores-turning-siri-ai-into-chatgpt-dots-like-agent-ios-28-shake-up Comments URL: https://news.ycombinator.com/item?id=50414021 Points: 19 # Comments: 21",
+   "published_at": 1794151191.0,
+   "published_bj": "2026-11-08 23:19"
+  },
+  {
    "id": "ba6897b42cfdec1e",
    "source": "cnBeta",
    "title": "Starlink在美国全面推行“动态定价”模式 部分地区费用涨幅超过一倍",
@@ -65,6 +101,15 @@
    "summary": "点击查看原文>",
    "published_at": 1794150186.0,
    "published_bj": "2026-11-08 23:03"
+  },
+  {
+   "id": "746e2ef59cca5e61",
+   "source": "Hacker News",
+   "title": "Drones built to look like birds evaded detection at Air Force tech exercise",
+   "url": "https://taskandpurpose.com/news/drone-mimicking-bird-test/",
+   "summary": "Article URL: https://taskandpurpose.com/news/drone-mimicking-bird-test/ Comments URL: https://news.ycombinator.com/item?id=50413885 Points: 15 # Comments: 4",
+   "published_at": 1794150042.0,
+   "published_bj": "2026-11-08 23:00"
   },
   {
    "id": "64607371b755385a",
@@ -119,6 +164,15 @@
    "summary": "IT之家 11 月 8 日消息，蚂蚁集团旗下 AI 助手灵光宣布：自今年 10 月 27 日灵光 2.0 上线以来，一周内已帮助用户管理超 116 万项事务，执行超 360 万次任务。灵光用户已突破 2000 万。 参考IT之家先前报道，蚂蚁集团于 10 月 27 日发布灵光 2.0，其最大特性是 AI 介入任务的起点进一步前移。 过去，用户需要先发现问题、提出需求，再由 AI 执行；如今，在获得用户授权后，灵光能够结合已接入的信息与服务，主动识别潜在需求，并发起分析、监测和跟进，并在需要用户关注的节点及时提醒。AI 不再只是等待指令的工具，而开始成为能够持续管理事务的助手。 除此之外，灵光 ",
    "published_at": 1794149243.0,
    "published_bj": "2026-11-08 22:47"
+  },
+  {
+   "id": "dc4055d0363a2538",
+   "source": "Hacker News",
+   "title": "I'm not a fan of Deno's security model (2024)",
+   "url": "https://goldstein.lol/posts/deno-security/",
+   "summary": "Article URL: https://goldstein.lol/posts/deno-security/ Comments URL: https://news.ycombinator.com/item?id=50413769 Points: 12 # Comments: 2",
+   "published_at": 1794148958.0,
+   "published_bj": "2026-11-08 22:42"
   },
   {
    "id": "c2eec075c3435015",

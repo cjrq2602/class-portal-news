@@ -1,7 +1,7 @@
 {
  "date": "2026-11-09",
- "generated_at": 1794155425.0089962,
- "count": 2,
+ "generated_at": 1794155589.8487773,
+ "count": 3,
  "items": [
   {
    "id": "5b332250463421f3",
@@ -20,6 +20,15 @@
    "summary": "点击查看原文>",
    "published_at": 1794154784.0,
    "published_bj": "2026-11-09 00:19"
+  },
+  {
+   "id": "3e227c9c29484eeb",
+   "source": "Hacker News",
+   "title": "Tesla Hasn't Had a Successful New Product Launch Since JB Straubel Stepped Down",
+   "url": "https://cleantechnica.com/2026/11/07/tesla-hasnt-had-a-successful-new-product-launch-since-jb-straubel-stepped-down-as-cto/",
+   "summary": "Article URL: https://cleantechnica.com/2026/11/07/tesla-hasnt-had-a-successful-new-product-launch-since-jb-straubel-stepped-down-as-cto/ Comments URL: https://news.ycombinator.com/item?id=50414427 Points: 56 # Comments: 17",
+   "published_at": 1794154062.0,
+   "published_bj": "2026-11-09 00:07"
   }
  ]
 }

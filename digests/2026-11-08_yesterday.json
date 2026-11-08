@@ -1,0 +1,382 @@
+{
+ "type": "yesterday",
+ "date": "2026-11-08",
+ "window": {
+  "start_ts": 1794067200.0,
+  "end_ts": 1794153600.0
+ },
+ "generated_at": 1794155592.0316217,
+ "generator": "action",
+ "news_count": 261,
+ "keywords": [
+  "ai",
+  "美元",
+  "游戏",
+  "苹果",
+  "元",
+  "手机",
+  "推出",
+  "全球",
+  "息称",
+  "模型"
+ ],
+ "points": [
+  {
+   "text": "【ai】IT之家 11 月 8 日消息，据《南华早报》前天报道，一项新研究显示，以月之暗面 Kimi 系列为代表的中国 AI 模型，在全球企业开源模型支",
+   "keyword": "ai",
+   "news_ids": [
+    "8207fa97d203e294"
+   ],
+   "refs": [
+    {
+     "id": "8207fa97d203e294",
+     "title": "Menlo Ventures 报告：中国 AI 模型占全球开源模型企业支出 89%，Kimi、DeepSeek、GLM 位列前三",
+     "source": "IT之家",
+     "url": "https://www.ithome.com/1/023/885.htm",
+     "published_at": 1794115272.0
+    }
+   ]
+  },
+  {
+   "text": "【ai】随着DDR5内存价格持续上涨，组装一台新电脑的成本也随之增加",
+   "keyword": "ai",
+   "news_ids": [
+    "891cacab234cb6c9"
+   ],
+   "refs": [
+    {
+     "id": "891cacab234cb6c9",
+     "title": "AMD推出超低价AM5平台套装：锐龙7 7700X3D搭配B650主板和32GB DDR5内存仅售649美元",
+     "source": "cnBeta",
+     "url": "https://www.cnbeta.com.tw/articles/tech/1585502.htm",
+     "published_at": 1794147938.0
+    }
+   ]
+  },
+  {
+   "text": "【ai】IT之家 11 月 8 日消息，据临港集团，11 月 7 日，第九届中国国际进口博览会迎来物理智能领域全球首秀",
+   "keyword": "ai",
+   "news_ids": [
+    "81bfba18bcf5a33c"
+   ],
+   "refs": [
+    {
+     "id": "81bfba18bcf5a33c",
+     "title": "物理智能开源平台 Hitch Open 在进博会发布，142 拍刷新 AI 机器人乒乓对打世界纪录",
+     "source": "IT之家",
+     "url": "https://www.ithome.com/1/023/920.htm",
+     "published_at": 1794126102.0
+    }
+   ]
+  },
+  {
+   "text": "【ai】IT之家 11 月 8 日消息，据英国《金融时报》今天（8 日）晚间报道，Anthropic 签下了一份大额数据中心燃气发电机组采购订单",
+   "keyword": "ai",
+   "news_ids": [
+    "34995bb7a55febcf"
+   ],
+   "refs": [
+    {
+     "id": "34995bb7a55febcf",
+     "title": "AI 公司迄今最大发电设备采购订单：曝 Anthropic 砸 34 亿美元买燃气发电机",
+     "source": "IT之家",
+     "url": "https://www.ithome.com/1/023/989.htm",
+     "published_at": 1794138699.0
+    }
+   ]
+  },
+  {
+   "text": "【美元】IT之家 11 月 8 日消息，摩托罗拉本周发布了 Signature 27 手机，搭载第六代骁龙 8 超级至尊版处理器，起售价 1,599 美",
+   "keyword": "美元",
+   "news_ids": [
+    "62bb03c0a07ce5da"
+   ],
+   "refs": [
+    {
+     "id": "62bb03c0a07ce5da",
+     "title": "消息称摩托罗拉阔折叠手机 Razr Flex 27 会有国行版，搭载第五代骁龙 8 芯片",
+     "source": "IT之家",
+     "url": "https://www.ithome.com/1/023/978.htm",
+     "published_at": 1794133140.0
+    }
+   ]
+  },
+  {
+   "text": "【the】Article URL: https://www",
+   "keyword": "the",
+   "news_ids": [
+    "271710a94e2b2267"
+   ],
+   "refs": [
+    {
+     "id": "271710a94e2b2267",
+     "title": "I Have Never Seen a Game Fail Because the Artists Were Too Slow",
+     "source": "Hacker News",
+     "url": "https://www.productionalchemist.com/p/inever-seen-a-game-fail-because-artists-too-slow",
+     "published_at": 1794152657.0
+    }
+   ]
+  },
+  {
+   "text": "Article URL: https://scrine",
+   "keyword": "",
+   "news_ids": [
+    "dcbc6ea23a930e87"
+   ],
+   "refs": [
+    {
+     "id": "dcbc6ea23a930e87",
+     "title": "Scrine – Joyscroll books. Read any book one sentence at a time",
+     "source": "Hacker News",
+     "url": "https://scrine.io/",
+     "published_at": 1794152150.0
+    }
+   ]
+  },
+  {
+   "text": "IT之家 11 月 8 日消息，特斯拉计划对 Cybercab 进行多项重大升级，带来能效提升和新的车身配色",
+   "keyword": "",
+   "news_ids": [
+    "64607371b755385a"
+   ],
+   "refs": [
+    {
+     "id": "64607371b755385a",
+     "title": "马斯克：特斯拉将进一步改进 Cybercab，提升能效、新增配色",
+     "source": "IT之家",
+     "url": "https://www.ithome.com/1/024/011.htm",
+     "published_at": 1794150024.0
+    }
+   ]
+  },
+  {
+   "text": "Article URL: https://247wallst",
+   "keyword": "",
+   "news_ids": [
+    "e5dc67f5d7cb7955"
+   ],
+   "refs": [
+    {
+     "id": "e5dc67f5d7cb7955",
+     "title": "OpenAI Raises $11B at a $1.25T Valuation",
+     "source": "Hacker News",
+     "url": "https://247wallst.com/investing/2026/11/07/openai-just-raised-11-billion-at-a-1-25-trillion-valuation-below-the-1-4-trillion-it-first-sought/",
+     "published_at": 1794149363.0
+    }
+   ]
+  },
+  {
+   "text": "Article URL: https://goldstein",
+   "keyword": "",
+   "news_ids": [
+    "dc4055d0363a2538"
+   ],
+   "refs": [
+    {
+     "id": "dc4055d0363a2538",
+     "title": "I'm not a fan of Deno's security model (2024)",
+     "source": "Hacker News",
+     "url": "https://goldstein.lol/posts/deno-security/",
+     "published_at": 1794148958.0
+    }
+   ]
+  },
+  {
+   "text": "2002-2022 年间，在太平洋垃圾带内，部分太平洋海域的颜色发生了变化，部分区域明显变得更蓝、更绿",
+   "keyword": "",
+   "news_ids": [
+    "c2eec075c3435015"
+   ],
+   "refs": [
+    {
+     "id": "c2eec075c3435015",
+     "title": "太平洋垃圾带海水变得更蓝更绿",
+     "source": "Solidot",
+     "url": "https://www.solidot.org/story?sid=85828",
+     "published_at": 1794148827.0
+    }
+   ]
+  },
+  {
+   "text": "IT之家 11 月 8 日消息，据财联社报道，在比亚迪仰望鼎曜发布会后的媒体沟通会上，比亚迪品牌及公关处总经理李云飞表示， 今年比亚迪全年销量相",
+   "keyword": "",
+   "news_ids": [
+    "acf9af714530b8dc"
+   ],
+   "refs": [
+    {
+     "id": "acf9af714530b8dc",
+     "title": "李云飞：比亚迪今年全年销量预计略有增长，海外增长更高",
+     "source": "IT之家",
+     "url": "https://www.ithome.com/1/024/007.htm",
+     "published_at": 1794148031.0
+    }
+   ]
+  },
+  {
+   "text": "美国国家航空航天局（NASA）宣布，“毅力号”火星车已成为人类历史上在地球以外天体表面行驶距离最远的车辆",
+   "keyword": "",
+   "news_ids": [
+    "a870388a399a0e7c"
+   ],
+   "refs": [
+    {
+     "id": "a870388a399a0e7c",
+     "title": "毅力号火星车创下地外车辆行动新纪录 累计行驶距离达到45.22公里",
+     "source": "cnBeta",
+     "url": "https://www.cnbeta.com.tw/articles/science/1585496.htm",
+     "published_at": 1794147561.0
+    }
+   ]
+  },
+  {
+   "text": "美国国家航空航天局（NASA）旗下的尼尔·格雷尔斯·斯威夫特天文台（Neil Gehrels Swift Observatory），在太空运行近",
+   "keyword": "",
+   "news_ids": [
+    "f4d155f9d9a13673"
+   ],
+   "refs": [
+    {
+     "id": "f4d155f9d9a13673",
+     "title": "NASA雨燕太空望远镜结束近22年太空任务 重返地球大气层后燃烧解体",
+     "source": "cnBeta",
+     "url": "https://www.cnbeta.com.tw/articles/science/1585494.htm",
+     "published_at": 1794147495.0
+    }
+   ]
+  },
+  {
+   "text": "IT之家 11 月 8 日消息，据观察者网报道，11 月 5 日，蔚来创始人、董事长兼 CEO 李斌与吉利控股集团董事长李书福，在 2026 世",
+   "keyword": "",
+   "news_ids": [
+    "6574c98487b7a27e"
+   ],
+   "refs": [
+    {
+     "id": "6574c98487b7a27e",
+     "title": "李书福称吉利完全认同换电模式，“车电不同寿”的矛盾还没集中爆发",
+     "source": "IT之家",
+     "url": "https://www.ithome.com/1/024/005.htm",
+     "published_at": 1794146494.0
+    }
+   ]
+  }
+ ],
+ "article": {
+  "title": "2026-11-08 新闻总结",
+  "paragraphs": [
+   {
+    "kind": "lead",
+    "text": "过去 24 小时共收录 261 条新闻，来自 7 家媒体。把标题放在一起看，讨论主要集中在 AI、游戏、手机 这几个方向上，其余消息更像是零散补充。"
+   },
+   {
+    "kind": "section",
+    "heading": "AI",
+    "text": "先看「AI」。IT之家 11 月 8 日消息，据《南华早报》前天报道，一项新研究显示，以月之暗面 Kimi 系列为代表的中国 AI 模型，在全球企业开源模型支出的占比为 89%，另有 147 条消息指向同一话题。这类进展更像是把已有能力往工程化落地推了一步，真正的分水岭在于成本和可靠性能不能同时压下来。",
+    "news_ids": [
+     "8207fa97d203e294"
+    ],
+    "refs": [
+     {
+      "id": "8207fa97d203e294",
+      "title": "Menlo Ventures 报告：中国 AI 模型占全球开源模型企业支出 89%，Kimi、DeepSeek、GLM 位列前三",
+      "source": "IT之家",
+      "url": "https://www.ithome.com/1/023/885.htm",
+      "published_at": 1794115272.0
+     }
+    ]
+   },
+   {
+    "kind": "section",
+    "heading": "内存",
+    "text": "与此同时「内存」。随着DDR5内存价格持续上涨，另有 8 条消息指向同一话题。这类进展更像是把已有能力往工程化落地推了一步，真正的分水岭在于成本和可靠性能不能同时压下来。",
+    "news_ids": [
+     "891cacab234cb6c9"
+    ],
+    "refs": [
+     {
+      "id": "891cacab234cb6c9",
+      "title": "AMD推出超低价AM5平台套装：锐龙7 7700X3D搭配B650主板和32GB DDR5内存仅售649美元",
+      "source": "cnBeta",
+      "url": "https://www.cnbeta.com.tw/articles/tech/1585502.htm",
+      "published_at": 1794147938.0
+     }
+    ]
+   },
+   {
+    "kind": "section",
+    "heading": "发布",
+    "text": "另一个值得注意的方向是「发布」。IT之家 11 月 8 日消息，据临港集团，11 月 7 日，另有 5 条消息指向同一话题。技术路线的胜负很少由一次发布会决定，接下来要看的是它能不能被更多团队低成本复用。",
+    "news_ids": [
+     "81bfba18bcf5a33c"
+    ],
+    "refs": [
+     {
+      "id": "81bfba18bcf5a33c",
+      "title": "物理智能开源平台 Hitch Open 在进博会发布，142 拍刷新 AI 机器人乒乓对打世界纪录",
+      "source": "IT之家",
+      "url": "https://www.ithome.com/1/023/920.htm",
+      "published_at": 1794126102.0
+     }
+    ]
+   },
+   {
+    "kind": "section",
+    "heading": "订单",
+    "text": "相比之下「订单」。IT之家 11 月 8 日消息，据英国《金融时报》今天（8 日）晚间报道，另有 2 条消息指向同一话题。这条消息短期内的实际影响可能有限，但它指向的方向值得放进观察名单。",
+    "news_ids": [
+     "34995bb7a55febcf"
+    ],
+    "refs": [
+     {
+      "id": "34995bb7a55febcf",
+      "title": "AI 公司迄今最大发电设备采购订单：曝 Anthropic 砸 34 亿美元买燃气发电机",
+      "source": "IT之家",
+      "url": "https://www.ithome.com/1/023/989.htm",
+      "published_at": 1794138699.0
+     }
+    ]
+   },
+   {
+    "kind": "glossary",
+    "items": [
+     {
+      "term": "AI",
+      "desc": "人工智能，让机器完成识别、生成、判断等原本需要人做的任务"
+     },
+     {
+      "term": "GPU",
+      "desc": "图形处理器，因为擅长大规模并行计算，成了 AI 训练的主力硬件"
+     },
+     {
+      "term": "Agent",
+      "desc": "智能体，能自己拆解任务、调用工具并连续执行的 AI 程序"
+     },
+     {
+      "term": "IPO",
+      "desc": "首次公开募股，公司第一次把股票卖给公众并上市"
+     },
+     {
+      "term": "数据中心",
+      "desc": "集中放置服务器、供电与散热设施的大型机房"
+     },
+     {
+      "term": "光刻机",
+      "desc": "把电路图案刻到硅片上的核心设备，制程越先进要求越高"
+     }
+    ]
+   },
+   {
+    "kind": "outlook",
+    "text": "把这几条放在一起看，最值得跟踪的是 AI 和 游戏 两条线：一条决定技术能走多远，一条决定它多快能落到普通人的日常里。至于其他消息，可以先放进观察名单，等后续有更实的进展再判断。"
+   }
+  ],
+  "word_count": 596
+ },
+ "ai_enhanced": false,
+ "schema": 1,
+ "window_bj": {
+  "start": "2026-11-08 00:00",
+  "end": "2026-11-09 00:00"
+ }
+}
