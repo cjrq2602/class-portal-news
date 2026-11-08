@@ -1,7 +1,7 @@
 {
  "date": "2026-11-09",
- "generated_at": 1794158068.2051435,
- "count": 4,
+ "generated_at": 1794160306.8248215,
+ "count": 7,
  "items": [
   {
    "id": "5b332250463421f3",
@@ -11,6 +11,24 @@
    "summary": "点击查看原文>",
    "published_at": 1794182880.0,
    "published_bj": "2026-11-09 08:08"
+  },
+  {
+   "id": "d7a54d05315c881a",
+   "source": "cnBeta",
+   "title": "调查发现美国批准向中国空壳企业供应英伟达H200芯片 注册地址空无一人",
+   "url": "https://www.cnbeta.com.tw/articles/tech/1585514.htm",
+   "summary": "美国政府批准向中国企业供应英伟达H200人工智能加速器的决定，正在引发新的国家安全争议。美国《纽约时报》的一项调查发现，美国商务部已经批准大约24家中国企业购买或经手H200芯片，但其中部分获批企业的注册地址竟然是无人办公的空置房间，另一些企业则与受到美国制裁的中国半导体供应商及军事相关机构存在联系。这一发现暴露出美国对先进AI芯片出口许可审查机制可能存在的漏洞。 阅读全文",
+   "published_at": 1794159342.0,
+   "published_bj": "2026-11-09 01:35"
+  },
+  {
+   "id": "81cafc79dab80748",
+   "source": "TechCrunch",
+   "title": "He arrested a hacker, then spent 18 months clearing his own name. Now he’s a cybersecurity VC.",
+   "url": "https://techcrunch.com/2026/11/08/the-ex-secret-service-agent-who-flipped-a-hacker-is-now-raising-a-second-250m-cybersecurity-fund/",
+   "summary": "Stephen Ward, a former Secret Service agent and Home Depot CISO, is preparing a second fund of roughly $250 million for Brightmind Partners.",
+   "published_at": 1794159000.0,
+   "published_bj": "2026-11-09 01:30"
   },
   {
    "id": "b5686ab7498a08f3",
@@ -29,6 +47,15 @@
    "summary": "点击查看原文>",
    "published_at": 1794154784.0,
    "published_bj": "2026-11-09 00:19"
+  },
+  {
+   "id": "b82a67391c960ec7",
+   "source": "Hacker News",
+   "title": "Top Astrophysicist Leaves U.S.",
+   "url": "https://www.nytimes.com/2026/11/07/science/space/holley-bockelmann-astrophysicist-space-trump.html",
+   "summary": "Article URL: https://www.nytimes.com/2026/11/07/science/space/holley-bockelmann-astrophysicist-space-trump.html Comments URL: https://news.ycombinator.com/item?id=50414524 Points: 35 # Comments: 12",
+   "published_at": 1794154658.0,
+   "published_bj": "2026-11-09 00:17"
   },
   {
    "id": "3e227c9c29484eeb",
