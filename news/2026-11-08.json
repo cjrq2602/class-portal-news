@@ -1,7 +1,7 @@
 {
  "date": "2026-11-08",
- "generated_at": 1794108550.2405274,
- "count": 90,
+ "generated_at": 1794112234.42383,
+ "count": 100,
  "items": [
   {
    "id": "030fa58032d49e95",
@@ -22,6 +22,69 @@
    "published_bj": "2026-11-08 17:00"
   },
   {
+   "id": "395c459dab7413fc",
+   "source": "IT之家",
+   "title": "今日宜休王腾澄清智能戒指材质争议：并非所有内塑胶方案都是智商税，请不要断章取义",
+   "url": "https://www.ithome.com/1/023/881.htm",
+   "summary": "IT之家 11 月 8 日消息，今日宜休科技公司创始人王腾今日在微博发文称， 他没有说所有用内塑胶方案的智能戒指都是智商税 ， 请媒体老师们不要断章取义 。 王腾表示，内塑胶佩戴体验和工艺质感都不如双圈钛金属方案，成本也要低一些， 就像手机塑胶中框和金属中框的区别 ，都可以使用。不同的产品有不同的定位，大家可以自行选择。智能戒指是个新的品类，就像早年的手机市场存在山寨机一样，大家提升辨别能力就能一起促进行业健康发展。 IT之家注意到，王腾曾认为“关于智能戒指，大家先看一点就好，是不是内外圈都是钛合金材质”。 他表示目前绝大多数戒指为了省成本用的内塑胶方案，工艺更简单，高端的智能戒指都是内外圈钛",
+   "published_at": 1794111663.0,
+   "published_bj": "2026-11-08 12:21"
+  },
+  {
+   "id": "378c1a128b89626c",
+   "source": "IT之家",
+   "title": "曝 ChatGPT 突现封号风波，200 美元 Pro 用户也遭殃",
+   "url": "https://www.ithome.com/1/023/879.htm",
+   "summary": "北京时间 11 月 8 日，近日多名用户在 Reddit 及 OpenAI 官方开发者社区反映，自己的 ChatGPT 账号突然遭到停用，其中包括每月订阅费用为 200 美元 （IT之家注：现汇率约合 1,338 元人民币） 的 Pro 用户。部分用户表示， 账号被封前没有收到任何通知 ，长期积累的聊天记录和工作资料也因此无法访问。 11 月 7 日，一名用户在 OpenAI 官方开发者社区发帖称，自己的 ChatGPT Pro 账号当天突然被停用，系统显示错误代码“account_deactivated”，但没有收到任何预警或封禁通知邮件。 该用户表示，自己不仅是 ChatGPT Pro 订",
+   "published_at": 1794110111.0,
+   "published_bj": "2026-11-08 11:55"
+  },
+  {
+   "id": "a34b908534e76b98",
+   "source": "IT之家",
+   "title": "乘联分会崔东树：1-10 月新车 129 款，增程车型 42 款翻倍增长",
+   "url": "https://www.ithome.com/1/023/878.htm",
+   "summary": "IT之家 11 月 8 日消息，乘联分会秘书长崔东树发表乘用车新车的分级测算探讨，其中提到，今年 1-10 月的新品共 129 款， 其中增程车型 42 款，较去年同期多 26 款 ；混合动力车型 10 款，较同期多 10 款；狭义插混车型 31 款，较同期少 6 款；纯电动车型 68 款，较同期多 11 款；常规燃油车 9 款，较同期少 4 款。 从 2024-2026 年的数据来看，乘用车新车长度呈现出显著的“中大型化”趋势， 市场重心正向 5 米区间集中 。首先，SUV 是绝对主力且疯狂膨胀。SUV 新车数量远超轿车和 MPV，是上新最密集的品类，其 5-5.5 米大型化趋势最为夸张，占",
+   "published_at": 1794110052.0,
+   "published_bj": "2026-11-08 11:54"
+  },
+  {
+   "id": "09139dd5ae9928ae",
+   "source": "IT之家",
+   "title": "微软 WinUI 3 原生注册表编辑器首次曝光，界面告别 Win95 时代设计",
+   "url": "https://www.ithome.com/1/023/877.htm",
+   "summary": "IT之家 11 月 8 日消息，科技媒体 Windows Latest 今日发文，报道称微软开源项目仓库 Microsoft.UI.Reactor 中出现一款原生 WinUI 3 注册表编辑器。该媒体编译后发现，这款注册表编辑器确实能使用，界面告别了 Win95 时代设计，看起来非常现代。 IT之家从原报道获悉，微软仅在 10 月的一篇开发者博客中提到过注册表编辑器，并承诺将在下个月介绍示例应用。但官方并未发布相关介绍，因此这是外界首次看到 WinUI 3 原生开发的注册表编辑器。 首先，新版注册表编辑器沿用了原版的双栏布局，为菜单元素留出了更多空间，看起来符合现代审美。树状图目录取消了黄色文",
+   "published_at": 1794109233.0,
+   "published_bj": "2026-11-08 11:40"
+  },
+  {
+   "id": "c72be8368e313e1d",
+   "source": "IT之家",
+   "title": "特斯拉更新 AI 加速器路线图：SI6 算力达 HW4 的 80 倍，Dojo D3 将面向太空部署",
+   "url": "https://www.ithome.com/1/023/876.htm",
+   "summary": "IT之家 11 月 8 日消息，特斯拉公布了更新后的 AI 加速器路线图，进一步揭示了公司未来几年的芯片研发方向。根据这份路线图，特斯拉第六代推理加速器的算力预计将达到现有第四代芯片的 80 倍；而用于训练任务的 Dojo D3 将放弃以 SRAM 为核心的架构，转向采用多芯粒设计，并搭载堆叠式 HBM 高带宽内存。 此外，特斯拉还开始用“超级智能”（Super Intelligence，SI）取代“人工智能”（Artificial Intelligence，AI）这一名称，为旗下 AI 加速器启用 SI 系列命名。出于相同原因，马斯克近期也确认，SpaceXAI 将更名为 SpaceXSI。",
+   "published_at": 1794108675.0,
+   "published_bj": "2026-11-08 11:31"
+  },
+  {
+   "id": "7539c3b11163f7e9",
+   "source": "IT之家",
+   "title": "启境 GX7 累计交付量突破 4000 台，搭载华为乾崑智驾 ADS 5 与鸿蒙座舱 6",
+   "url": "https://www.ithome.com/1/023/875.htm",
+   "summary": "IT之家 11 月 8 日消息，今日，启境 GX7 集体交付活动在深圳盐田云海广场举行，上市至今累计交付已突破 4000 台。 IT之家注意到，启境 GX7 于 9 月 23 日上市，共 3 款车型，官方指导价 23.99 万至 30.19 万元，限时权益价 22.99 万至 29.19 万元。作为启境品牌第二款量产车，该车定位“阔五座智能百变 SUV”，车身尺寸 5099/2006/1750 毫米，轴距 3070 毫米。 新车全系标配 华为乾崑智驾 ADS 5 ，感知方案由 4 颗激光雷达构成，包括 1 颗 896 线双光路图像级激光雷达和 3 颗高精度固态激光雷达，全车传感器数量为 38 ",
+   "published_at": 1794108673.0,
+   "published_bj": "2026-11-08 11:31"
+  },
+  {
+   "id": "54a6f9c6e3ee2f67",
+   "source": "少数派",
+   "title": "苹果产品那些不够颠覆，却值得被学习的细节",
+   "url": "https://sspai.com/post/118114",
+   "summary": "Matrix首页推荐Matrix是少数派的写作社区，我们主张分享真实的产品体验，有实用价值的经验与思考。我们会不定期挑选Matrix最优质的文章，展示来自用户的最真实的体验和观点。文章代表作者个人观点 ... 查看全文",
+   "published_at": 1794107934.0,
+   "published_bj": "2026-11-08 11:18"
+  },
+  {
    "id": "318d6eea3151f363",
    "source": "IT之家",
    "title": "预计 2026 年我国能源投资总额达 9400 亿美元，居全球第一",
@@ -38,6 +101,15 @@
    "summary": "IT之家 11 月 8 日消息，消息人士 TexFunz2 最近透露， 《GTA 6》游戏将提供 55 个 PlayStation 奖杯 / XBOX 成就 ，供玩家挑战。 为避免剧透，目前的泄露信息并未公开这些奖杯的具体名称。作为对比，Xbox 360 版《GTA5》上市时拥有 49 项成就，PS3 版则为 50 个奖杯；PS4/Xbox One 版本奖杯数量增加 1 个，其中部分挑战只能通过线上模式完成。 同时，《荒野大镖客：救赎 2》的 Xbox One 版拥有 51 项成就，PS4 版则为 52 个奖杯（其中 1 个是白金奖杯）。对比之下， 《GTA 6》的白金挑战显然会更加艰巨 。 ",
    "published_at": 1794107574.0,
    "published_bj": "2026-11-08 11:12"
+  },
+  {
+   "id": "c183a0152376b20c",
+   "source": "Hacker News",
+   "title": "Goodbye Claude, Hello Pi",
+   "url": "https://caleb.software/posts/claude-to-pi.html",
+   "summary": "Article URL: https://caleb.software/posts/claude-to-pi.html Comments URL: https://news.ycombinator.com/item?id=50410107 Points: 7 # Comments: 5",
+   "published_at": 1794107508.0,
+   "published_bj": "2026-11-08 11:11"
   },
   {
    "id": "f5671a07875643e8",
@@ -92,6 +164,24 @@
    "summary": "IT之家 11 月 8 日消息，美国国家公路交通安全管理局（NHTSA）希望改进汽车召回机制，而远程无线（OTA）软件更新将成为改革重点之一。 在 NHTSA 举办的“召回机制未来发展峰会”（Recalls Next）上，该机构局长乔纳森 · 莫里森（Jonathan Morrison）表示，监管机构正在寻找新的方法，让更多被召回车辆完成维修。目前，仍有数百万辆存在未处理安全召回问题的汽车行驶在道路上。 莫里森表示：“真正重要的不是寄出了多少封通知信，而是有多少辆汽车最终完成了维修。” OTA 召回为何有效？ 2025 年，NHTSA 监管的汽车召回事件接近 900 起，涉及超过 2900 万",
    "published_at": 1794103398.0,
    "published_bj": "2026-11-08 10:03"
+  },
+  {
+   "id": "d75b5326becf638a",
+   "source": "Hacker News",
+   "title": "Consumer brain wave headsets threaten privacy",
+   "url": "https://www.science.org/content/article/wearable-device-makers-are-harvesting-brain-data-train-ai-without-telling-users?referrer=https%3A%2F%2Fwww.google.com%2F",
+   "summary": "Article URL: https://www.science.org/content/article/wearable-device-makers-are-harvesting-brain-data-train-ai-without-telling-users?referrer=https%3A%2F%2Fwww.google.com%2F Comments URL: https://news.ycombinator.com/item?id=50409856 Points: 6 # Comments: 0",
+   "published_at": 1794103358.0,
+   "published_bj": "2026-11-08 10:02"
+  },
+  {
+   "id": "5cab86a3b0d222b3",
+   "source": "Hacker News",
+   "title": "ZapFast: A fast, native WhatsApp client in Rust and egui",
+   "url": "https://github.com/crmne/zapfast",
+   "summary": "Article URL: https://github.com/crmne/zapfast Comments URL: https://news.ycombinator.com/item?id=50409855 Points: 15 # Comments: 3",
+   "published_at": 1794103347.0,
+   "published_bj": "2026-11-08 10:02"
   },
   {
    "id": "511840c9909ec24c",
