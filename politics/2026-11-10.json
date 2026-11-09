@@ -1,8 +1,17 @@
 {
  "date": "2026-11-10",
- "generated_at": 1794243600.7971053,
- "count": 1,
+ "generated_at": 1794245692.8133602,
+ "count": 2,
  "items": [
+  {
+   "id": "15c18d343251a3fd",
+   "source": "BBC中文",
+   "title": "黃仁勳與疑似中國間諜婚外情：目前我們知道什麼？",
+   "url": "https://www.bbc.com/zhongwen/articles/cw8dzd17n70no/trad?at_medium=RSS&at_campaign=rss",
+   "summary": "這名科技業億萬富豪高層陷入一場涉及私人生活與國家安全的醜聞。",
+   "published_at": 1794245150.0,
+   "published_bj": "2026-11-10 01:25"
+  },
   {
    "id": "c122931b768bf51a",
    "source": "BBC中文",

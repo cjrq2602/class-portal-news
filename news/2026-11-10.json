@@ -1,7 +1,7 @@
 {
  "date": "2026-11-10",
- "generated_at": 1794243598.9928036,
- "count": 10,
+ "generated_at": 1794245691.0172982,
+ "count": 17,
  "items": [
   {
    "id": "503a37f74fdc91a3",
@@ -13,6 +13,51 @@
    "published_bj": "2026-11-10 02:24"
   },
   {
+   "id": "138e6ce79085a23a",
+   "source": "cnBeta",
+   "title": "迪士尼携手Adobe开发定制生成式AI 将应用于主题公园、影视制作和ESPN内容",
+   "url": "https://www.cnbeta.com.tw/articles/movie/1585662.htm",
+   "summary": "11月9日，迪士尼与Adobe宣布建立多年期战略合作伙伴关系，双方将共同开发面向迪士尼业务的定制生成式人工智能模型，以支持影视制作、主题公园运营、邮轮业务以及ESPN体育内容的创作。 阅读全文",
+   "published_at": 1794245376.0,
+   "published_bj": "2026-11-10 01:29"
+  },
+  {
+   "id": "81333116d69180ea",
+   "source": "cnBeta",
+   "title": "Uber推出停车预约服务 为自动驾驶出租车布局铺路",
+   "url": "https://www.cnbeta.com.tw/articles/tech/1585660.htm",
+   "summary": "网约车巨头Uber宣布正式推出“Uber Parking”停车预约服务，用户如今可以直接在Uber应用内搜索、预订并支付停车位费用。这项新功能建立在Uber今年收购停车平台SpotHero的基础之上，被视为该公司扩大出行服务版图以及推动未来自动驾驶出租车发展的重要一步。 阅读全文",
+   "published_at": 1794245354.0,
+   "published_bj": "2026-11-10 01:29"
+  },
+  {
+   "id": "c06436778823de85",
+   "source": "cnBeta",
+   "title": "内存短缺推高成本 部分手机厂商开始回收旧设备DRAM再利用",
+   "url": "https://www.cnbeta.com.tw/articles/tech/1585658.htm",
+   "summary": "随着移动DRAM合约价格持续上涨、供应紧张，一些手机品牌正考虑把从旧设备拆下的内存芯片重新加工后，装入新手机，尤其是入门机型。TrendForce估计，这类“重植球”内存2026年在智能手机市场的渗透率约为3%至4%，2027年可能升至7%至9%。 阅读全文",
+   "published_at": 1794245241.0,
+   "published_bj": "2026-11-10 01:27"
+  },
+  {
+   "id": "d49f91c584f39e1b",
+   "source": "cnBeta",
+   "title": "哈佛·史密森天体物理中心打造超大虚拟宇宙 模拟范围达15亿光年",
+   "url": "https://www.cnbeta.com.tw/articles/science/1585656.htm",
+   "summary": "天文学家利用全球最强大的超级计算机之一，构建出迄今规模最大、精细程度最高的早期宇宙模拟之一。这项名为“Lumina”的研究项目，重现了宇宙诞生后最初20亿年的演化过程，模拟区域每边长达约15亿光年，旨在帮助科学家理解第一批恒星和星系如何形成，以及暗物质和辐射如何共同塑造今天的宇宙。 阅读全文",
+   "published_at": 1794245210.0,
+   "published_bj": "2026-11-10 01:26"
+  },
+  {
+   "id": "89df7902fa3c8626",
+   "source": "cnBeta",
+   "title": "科学家发现天然粒子加速器现象 超级太阳风暴打破地球“无形屏障”",
+   "url": "https://www.cnbeta.com.tw/articles/science/1585654.htm",
+   "summary": "一项最新研究显示，2024年袭击地球的强烈太阳超级风暴不仅扰乱了近地空间环境，还将原本受到保护的地球周边区域临时转变成了一座天然粒子加速器，使高能电子在其中被迅速加速到接近光速，其能量甚至足以穿透部分卫星防护层。 阅读全文",
+   "published_at": 1794245172.0,
+   "published_bj": "2026-11-10 01:26"
+  },
+  {
    "id": "80efef834a6f38c7",
    "source": "InfoQ中文",
    "title": "千问“死磕”Personal Agent：为什么下限比上限更重要？",
@@ -20,6 +65,24 @@
    "summary": "点击查看原文>",
    "published_at": 1794243759.0,
    "published_bj": "2026-11-10 01:02"
+  },
+  {
+   "id": "65d5ed52a68e319a",
+   "source": "Hacker News",
+   "title": "Y/N (YC S23) Is Hiring a Growth Lead to Distribute Superhuman A.I. Storytelling",
+   "url": "https://www.ycombinator.com/companies/yn/jobs/TjDn3YZ-founding-growth-marketer",
+   "summary": "Article URL: https://www.ycombinator.com/companies/yn/jobs/TjDn3YZ-founding-growth-marketer Comments URL: https://news.ycombinator.com/item?id=50428266 Points: 0 # Comments: 0",
+   "published_at": 1794243606.0,
+   "published_bj": "2026-11-10 01:00"
+  },
+  {
+   "id": "d8f04103cba84be4",
+   "source": "TechCrunch",
+   "title": "Uber launches parking service following SpotHero acquisition, with an eye on robotaxis",
+   "url": "https://techcrunch.com/2026/11/09/uber-launches-parking-service-following-spothero-acquisition-with-an-eye-on-robotaxis/",
+   "summary": "Uber Parking is the latest example of the company offering products beyond its core ride-hailing service.",
+   "published_at": 1794243600.0,
+   "published_bj": "2026-11-10 01:00"
   },
   {
    "id": "e3319d1a345b6d93",
