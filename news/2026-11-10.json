@@ -1,8 +1,17 @@
 {
  "date": "2026-11-10",
- "generated_at": 1794256233.8774538,
- "count": 43,
+ "generated_at": 1794259735.1192515,
+ "count": 47,
  "items": [
+  {
+   "id": "ade78cd073feff48",
+   "source": "TechCrunch",
+   "title": "Fervo now has $12B in orders for its geothermal power tech",
+   "url": "https://techcrunch.com/2026/11/09/fervo-now-has-12b-in-orders-for-its-geothermal-power-tech/",
+   "summary": "Geothermal company Fervo is targeting natural gas as it brings down geothermal drilling costs at its 8.4 GW resource in Utah.",
+   "published_at": 1794257734.0,
+   "published_bj": "2026-11-10 04:55"
+  },
   {
    "id": "b6de606a58283385",
    "source": "TechCrunch",
@@ -11,6 +20,24 @@
    "summary": "The Nvidia CEO also pulled out of an Anthropic event earlier.",
    "published_at": 1794254946.0,
    "published_bj": "2026-11-10 04:09"
+  },
+  {
+   "id": "15dd7e01e3e91a8e",
+   "source": "Hacker News",
+   "title": "Claude Fable 5.2 Scores 65 on Artificial Analysis, Highest So Far",
+   "url": "https://artificialanalysis.ai/models/claude-fable-5-2",
+   "summary": "Article URL: https://artificialanalysis.ai/models/claude-fable-5-2 Comments URL: https://news.ycombinator.com/item?id=50431144 Points: 52 # Comments: 10",
+   "published_at": 1794254695.0,
+   "published_bj": "2026-11-10 04:04"
+  },
+  {
+   "id": "8b9f67bd3ce195eb",
+   "source": "Hacker News",
+   "title": "USPS now offers official ZIP Code boundary polygons",
+   "url": "https://postalpro.usps.com/zcb",
+   "summary": "Article URL: https://postalpro.usps.com/zcb Comments URL: https://news.ycombinator.com/item?id=50431058 Points: 149 # Comments: 58",
+   "published_at": 1794254339.0,
+   "published_bj": "2026-11-10 03:58"
   },
   {
    "id": "24f435178a268ce2",
@@ -164,6 +191,15 @@
    "summary": "Article URL: https://www.infineon.com/press-release/2026/infpr202611-028 Comments URL: https://news.ycombinator.com/item?id=50429430 Points: 29 # Comments: 6",
    "published_at": 1794248701.0,
    "published_bj": "2026-11-10 02:25"
+  },
+  {
+   "id": "1df5b170b6c455e8",
+   "source": "Hacker News",
+   "title": "Google Gemini routes personal Drive files and emails to human annotators",
+   "url": "https://github.com/thisisme6598/gemini_files/",
+   "summary": "Article URL: https://github.com/thisisme6598/gemini_files/ Comments URL: https://news.ycombinator.com/item?id=50429426 Points: 77 # Comments: 14",
+   "published_at": 1794248678.0,
+   "published_bj": "2026-11-10 02:24"
   },
   {
    "id": "503a37f74fdc91a3",
