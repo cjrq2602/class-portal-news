@@ -1,7 +1,7 @@
 {
  "date": "2026-11-09",
- "generated_at": 1794218093.823154,
- "count": 283,
+ "generated_at": 1794221393.2015095,
+ "count": 299,
  "items": [
   {
    "id": "eac977a24733302b",
@@ -76,6 +76,24 @@
    "published_bj": "2026-11-09 19:27"
   },
   {
+   "id": "9bde32b466bbb8de",
+   "source": "IT之家",
+   "title": "Steam 免费犯罪模拟沙盒游戏《ROB RUN》上线，主打“5000 人玩家同时在线”",
+   "url": "https://www.ithome.com/1/024/451.htm",
+   "summary": "IT之家 11 月 9 日消息，据 4Gamers 报道，开发商 Kefir 旗下免费犯罪沙盒游戏《ROB RUN》于 11 月 5 日在 Steam 平台开启抢先体验，本作凭借免费游玩和多人开放世界玩法迅速走红。首个周末便创下 140440 人同时在线的纪录。 据介绍，《ROB RUN》主打多人在线， 最多支持 5000 名玩家共同活动 。玩家可以选择扮演警察、强盗或普通市民，在第三人称视角下体验犯罪、抢劫、枪战等玩法，也可以组建帮派，与其他势力争夺资源和地盘。 游戏以虚构城市 Looty Bay 为舞台，玩家可以从普通混混起步，逐步发展自己的犯罪势力，通过抢劫商店、银行以及突袭敌对帮派据点",
+   "published_at": 1794221221.0,
+   "published_bj": "2026-11-09 18:47"
+  },
+  {
+   "id": "d2b94a4e47aa0c70",
+   "source": "IT之家",
+   "title": "背屏机型首次走向国际舞台：小米 18 Pro 系列将于巴黎时间 11 月 17 日发布",
+   "url": "https://www.ithome.com/1/024/448.htm",
+   "summary": "IT之家 11 月 9 日消息，今天（9 日）晚间，小米集团合伙人 / 总裁、手机部总裁、小米品牌总经理卢伟冰宣布，小米 18 Pro 系列将于 巴黎时间 11 月 17 日 14 时 发布，届时将面向国际首次发布全新“百变背屏”。此外，多款科技新品也将同场亮相。 小米 18 Pro 系列手机已于 9 月 23 日晚在国内正式发布 ，搭载第六代骁龙 8 至尊版系列移动平台，后置徕卡 2 亿大底主摄 + 2 亿大底长焦，配备 AI 百变背屏， 售价 5,999 元起 。 卢伟冰曾在 9 月 26 日表示，国外媒体和用户，对小米 18 Pro 系列呼声很高，期待早日上市， 系列新机会在今年内登陆国",
+   "published_at": 1794221186.0,
+   "published_bj": "2026-11-09 18:46"
+  },
+  {
    "id": "4b956c5d3230a740",
    "source": "InfoQ中文",
    "title": "Harness 已经很准了，为什么还需要一个 Agent Native Database",
@@ -83,6 +101,42 @@
    "summary": "点击查看原文>",
    "published_at": 1794221040.0,
    "published_bj": "2026-11-09 18:44"
+  },
+  {
+   "id": "4977e032dc89dc12",
+   "source": "IT之家",
+   "title": "揽胜“平价车型”将成历史，捷豹路虎确认星脉、极光明年年中停产",
+   "url": "https://www.ithome.com/1/024/436.htm",
+   "summary": "IT之家 11 月 9 日消息，当地时间 3 日，捷豹路虎向美媒 Road &amp; Track 确认， 揽胜星脉和揽胜极光将于 2027 年年中停产 。 根据声明，2027 年全年，揽胜星脉和揽胜极光 仍将在全球部分需求旺盛的市场销售 。随着工厂逐步转产下一代车型，两款车型将按照正常产品生命周期于 2027 年年中停产。索利哈尔工厂将继续以 揽胜、揽胜运动版和即将推出的捷豹 Type 01 为生产重点，哈利伍德工厂则将转产 全新揽胜 GT 和卫士家族的一款新车型 。 此前，英媒 Autocar 报道称，揽胜品牌旗下定位较低的两款 SUV—— 星脉和极光可能即将退出市场，而且都不会推出换代车",
+   "published_at": 1794220426.0,
+   "published_bj": "2026-11-09 18:33"
+  },
+  {
+   "id": "667bee57f71e0c29",
+   "source": "IT之家",
+   "title": "AMD 显卡驱动被曝 SSD 持续写入 Bug：最高每天 432GB，官方已着手调查",
+   "url": "https://www.ithome.com/1/024/435.htm",
+   "summary": "IT之家 11 月 9 日消息，长期以来，ATI（现已并入 AMD）及 AMD 一直受到显卡驱动问题的困扰，相关故障包括画面损坏、TDR（超时检测与恢复）超时等。近年来，AMD 一直在努力试图尽早发现并解决这些问题，还推出了新的创新工具来辅助排查。 IT之家注意到，AMD 最新发布的 26.10.2 版显卡驱动也修复了几个驱动超时相关漏洞。TDR 故障通常会导致系统冻结或卡死。不过，近期用户还发现了另一个更加值得警惕的问题：它可能在后台悄无声息地发生，尤其容易被普通用户忽略。 问题源于 AMD External Events Client Module（AMD 外部事件客户端模块），也就是 W",
+   "published_at": 1794220277.0,
+   "published_bj": "2026-11-09 18:31"
+  },
+  {
+   "id": "c1790095e9a1d1d6",
+   "source": "IT之家",
+   "title": "1200G 净水器仅 688 元：京东京造白犀净水器 7 年长效 RO 膜 + 0 阻垢剂",
+   "url": "https://www.ithome.com/1/024/434.htm",
+   "summary": "京东京造 · 白犀净水器 1200G 日常 1118 元，今晚 20:00 直降至 949 元。 下单返 200 元红包，折合仅需 749 元。 京东 PLUS 会员 11 月 9 日 20:00 可 2 积分抢 800-80 元神券： 点此兑券 ，券后仅需 888 元，返现后低至 688 元闭眼囤好价。 京东 京东京造 白犀净水器 1200G 瞬时 1600G 20:00 949 元 领 8.5 折券 京东 11.11 红包至高 26888 元无门槛可用，每天可抽一次： 点此抽取 。 7 年长效 RO 膜滤芯（实测总净水量 30000L）+ 2 年 PPC 复合滤芯（189 元 / 支），配",
+   "published_at": 1794220227.0,
+   "published_bj": "2026-11-09 18:30"
+  },
+  {
+   "id": "8a9a4ae7843aa794",
+   "source": "IT之家",
+   "title": "Google AI 主管展示将《塞尔达传说：时之笛重制版》移植到苹果 iPhone Duo 上运行，招致版权争议最终删帖",
+   "url": "https://www.ithome.com/1/024/433.htm",
+   "summary": "IT之家 11 月 9 日消息，Google AI Studio 产品与设计主管 Ammaar Reshi 近期在 X 平台发文，展示其利用 AI 成功将任天堂《塞尔达传说：时之笛重制版》移植至 iPhone Duo 平台。 Ammaar Reshi 此次原本是想借此展示 Google 自家 Gemini 4 AI 模型能力，不过这种未经授权便对游戏进行逆向移植的做法本身严重侵犯任天堂版权，视频发布后引发大量用户批评，为了避免争议进一步升级，Ammaar Reshi 随后悄悄删除了相关贴文。 近期，业界已经出现多起利用 AI 对游戏进行逆向工程的案例，甚至有相关成果被用于勒索原开发者，进一步加",
+   "published_at": 1794219993.0,
+   "published_bj": "2026-11-09 18:26"
   },
   {
    "id": "49e7618ae0570312",
@@ -94,6 +148,60 @@
    "published_bj": "2026-11-09 18:25"
   },
   {
+   "id": "6fc3bf3f0f1d8dac",
+   "source": "IT之家",
+   "title": "瑞银 CEO 安思杰：过去数周 AI 概念股大幅回调，源于投资者此前过高期望",
+   "url": "https://www.ithome.com/1/024/432.htm",
+   "summary": "IT之家 11 月 9 日消息，瑞银集团 CEO 安思杰今天（9 日）在悉尼举行的瑞银会议上指出，AI 概念股过去几周大幅回调，是因为投资者此前 对 AI 行业的期望过高 。 他表示，美国近期的中期选举结果，以及全球围绕基础设施扩建影响展开的讨论，都可能 拖慢 AI 行业取得预期成果的进程 。“直到不久前，市场定价都建立在 一切尽善尽美的预期 之上。当然，过去几周市场出现了一些回调。” 安思杰看好 AI 发展带来的经济效益，但认为市场对这些成果能够多快实现 过于乐观 。 上周，市场担忧美国民主党在选举中获胜后会推动收紧 AI 行业监管，导致全球股市市值蒸发数万亿美元。不过，美股在当地时间 6 ",
+   "published_at": 1794219551.0,
+   "published_bj": "2026-11-09 18:19"
+  },
+  {
+   "id": "2a9a958e87c68427",
+   "source": "IT之家",
+   "title": "单机身 17999 → 13799 元：索尼 Alpha 7 Ⅴ 全画幅微单 11.11 国补直降",
+   "url": "https://www.ithome.com/1/024/429.htm",
+   "summary": "【京东活动可能随时变更，需以实付款为准】 索尼 Alpha 7 Ⅴ 全画幅微单相机（A7M5）发售于 2025 年 12 月 2 日，国行首发价为 17999 元。 京东 11.11 大促期间，按下方步骤下单，叠加 15% 国补后仅需 13799 元： 点击下方卡片，可领 500 元券。 1000 元券：点击下方卡片 → 点击右上方 直播浮窗 → 直播间下单即可领取。 首购礼金立减 1896 元。 京东 索尼 ILCE-7M5 全画幅微单相机 单机身 国补后 13799 元 领 500 元券 国补可用地区 京东 11.11 无门槛红包至高 26888 元，支持即领即用，下单直接当钱花： 点此抽",
+   "published_at": 1794219198.0,
+   "published_bj": "2026-11-09 18:13"
+  },
+  {
+   "id": "710dd6e741608eb6",
+   "source": "Hacker News",
+   "title": "Fun things to do with your VM/370 CE machine – Fun with big computers",
+   "url": "https://rbanffy.github.io/fun-with-big-computers/fun-with-vm370/",
+   "summary": "Article URL: https://rbanffy.github.io/fun-with-big-computers/fun-with-vm370/ Comments URL: https://news.ycombinator.com/item?id=50423569 Points: 10 # Comments: 0",
+   "published_at": 1794219107.0,
+   "published_bj": "2026-11-09 18:11"
+  },
+  {
+   "id": "ebbea2055b0773b5",
+   "source": "IT之家",
+   "title": "零刻 ME Pro 358H 四盘位 NAS 上架，32GB + 1TB 起价 11499 元",
+   "url": "https://www.ithome.com/1/024/421.htm",
+   "summary": "IT之家 11 月 9 日消息，零刻 (Beelink) 现已在电商平台上架 ME Pro 358H 四盘位 NAS。其基于英特尔酷睿 Ultra X7 处理器 358H，包含 32GB LPDDR5X-9600 内存、1TB PCIe Gen4 TLC M.2 SSD。 ME Pro 358H 四盘位提供 4 个 3.5\" / 2.5\" SATA 盘位、2 个 M.2 2280 的 PCIe Gen5 ×2 插槽，内置均热板 + 涡轮风扇散热系统，M.2 插槽配备导热硅胶垫，搭载联发科技 Wi-Fi 6 无线网卡 MT7920。 其正面提供 1 个 USB-A 10Gbps；反面提供 2 个",
+   "published_at": 1794219009.0,
+   "published_bj": "2026-11-09 18:10"
+  },
+  {
+   "id": "31f5aaff9d115570",
+   "source": "IT之家",
+   "title": "美国 AI 数据中心反对声浪高涨，软银考虑转向其他国家寻找增长机会",
+   "url": "https://www.ithome.com/1/024/393.htm",
+   "summary": "IT之家 11 月 9 日消息，据彭博社今天（9 日）下午报道，面对美国 AI 数据中心需求可能放缓的局面，软银集团旗下的电信运营商软银公司 CEO 宫川润一开始考虑 转向其他国家寻找增长机会 。 软银公司原本计划 在美国开展新型 AI 云计算业务 ，但民主党上周在中期选举中大获全胜，加上当地反对数据中心建设的声音日益高涨，公司不得 不重新评估美国市场的前景 。 宫川润一在东京举行的业绩说明会上告诉投资者：“美国发生的重大变化恐怕对 我们不太有利 。不过，全球 AI 数据中心需求依然旺盛，如果美国形势恶化过于严重，我们可能会 先在其他国家开展业务 。” 作为日本第三大移动通信运营商，软银公司也",
+   "published_at": 1794218660.0,
+   "published_bj": "2026-11-09 18:04"
+  },
+  {
+   "id": "238fdd479db7129e",
+   "source": "IT之家",
+   "title": "马斯克半导体工厂 Terafab 规划曝光，存储芯片产能直接对标三星",
+   "url": "https://www.ithome.com/1/024/388.htm",
+   "summary": "IT之家 11 月 9 日消息，据日经新闻今日报道，埃隆 · 马斯克的半导体工厂项目 Terrafab 已开始推进。他提出了向日本设备制造商订购的计划，并敦促工厂开始运营。 根据马斯克此前公布的规划，SpaceX 与特斯拉合资成立的芯片制造企业 Terafab 计划在 2028 年第三季度实现量产 。 最新报道提到，Terafab 已向半导体设备供应商透露， 计划于 2032 年实现月产 100 万片晶圆的产能目标，其中 70 万片用于存储芯片、30 万片用于逻辑芯片 。 需要注意的是，三星目前 DRAM 月产能约为 65 万至 70 万片晶圆，马斯克给 Terafab 定的存储芯片目标直接对",
+   "published_at": 1794218531.0,
+   "published_bj": "2026-11-09 18:02"
+  },
+  {
    "id": "eaf1ee72698f8516",
    "source": "InfoQ中文",
    "title": "从“能写代码”到“能交付”：腾讯轻量云 LoopForge 多 Agent 编排实践｜AICon北京",
@@ -101,6 +209,33 @@
    "summary": "点击查看原文>",
    "published_at": 1794218400.0,
    "published_bj": "2026-11-09 18:00"
+  },
+  {
+   "id": "e85e0ca711551532",
+   "source": "IT之家",
+   "title": "华硕 ROG 术士 98 X 键盘、斯巴达 X 65K 鼠标发售，到手价 999 / 1199 元",
+   "url": "https://www.ithome.com/1/024/387.htm",
+   "summary": "IT之家 11 月 9 日消息，华硕 (ASUS) 玩家国度 (ROG) 外设新品术士 98 X 键盘、斯巴达 X 65K 鼠标即将于今晚 20:00 开售，两者到手价分别为 999 元、1199 元。 术士 98 X (ROG Strix Morph 96 X Wireless) 三模机械键盘是原版术士 98 的升级型号， 配备红-白-灰撞色 PBT 材质染料热升华工艺键帽 、 加长型人体工学硅胶腕托 。 其由 CNC 加工铝合金上盖、ROG NX V2 机械轴、PC 定位板、硅胶泡棉、南向热插拔 PCB、硅胶垫、底壳构成，集成多功能按钮、滚轮与双侧灯条，2 对不同高度的键盘脚提供 3 种倾",
+   "published_at": 1794218355.0,
+   "published_bj": "2026-11-09 17:59"
+  },
+  {
+   "id": "94936871fa5b6830",
+   "source": "IT之家",
+   "title": "三星 One UI 9.5 有望将 Bixby 打造成 AI 智能体，真正“代你办事”",
+   "url": "https://www.ithome.com/1/024/386.htm",
+   "summary": "IT之家 11 月 9 日消息，外媒 Sammobile 今天（9 日）晚间公布了有关 One UI 9.5 的最新发现：三星准备对 Bixby 进行大幅升级，让语音助手进一步变成能够 代用户办事的个人 AI 智能体 。 该媒体在体验尚未发布的新版 Bixby 后发现，三星语音助手可以在后台处理 订酒店、预约等日常事务 。例如，在要求 Bixby 每天早上提供美元兑印度卢比的汇率 后，Bixby 便自动创建了一项每日任务，并将其列在应用的 Actions 栏目中。 ▲ 该媒体的测试截图，下同 用户只需向 Bixby 提出定期执行某项任务的要求，Bixby 便会理解指令并设置相应操作，等待用户确",
+   "published_at": 1794218091.0,
+   "published_bj": "2026-11-09 17:54"
+  },
+  {
+   "id": "6979f3811b421afd",
+   "source": "Hacker News",
+   "title": "Ask HN: Do you still enjoy coding in C++?",
+   "url": "https://news.ycombinator.com/item?id=50423371",
+   "summary": "In the recent years C++ received a lot of backlash due to its complexity and (perceived) feature creep. However, since C++11 I really enjoyed writing C++ with its strict type system (including const), range-based for loops, smart pointers, and how much you can do with templates. On the other hand, I",
+   "published_at": 1794217803.0,
+   "published_bj": "2026-11-09 17:50"
   },
   {
    "id": "555794f1ec6c0a49",
@@ -713,6 +848,15 @@
    "summary": "IT之家 11 月 9 日消息，微软近日提交了一项专利申请，计划利用人工智能技术，在直播及其他实时视频节目中近乎实时地修改人物说出的内容。更特别的是，这项技术还能重新绘制说话者的嘴唇动作，让观众难以察觉原本说出的话已经被替换。 这项专利的编号为 US 2026/0341309 A1，名称为《利用人工智能近乎实时增强直播活动的视频或增强现实（AR）演示》（Near Real-Time Artificial Intelligence (AI) Enhancement of Video or Augmented Reality (AR) Presentations of Live Events）。 ",
    "published_at": 1794209002.0,
    "published_bj": "2026-11-09 15:23"
+  },
+  {
+   "id": "1fa7c972784ec18a",
+   "source": "Hacker News",
+   "title": "370 Books in 20 months: South African author defends her use of AI",
+   "url": "https://www.enca.com/lifestyle/370-books-20-months-sa-author-defends-her-use-ai",
+   "summary": "Article URL: https://www.enca.com/lifestyle/370-books-20-months-sa-author-defends-her-use-ai Comments URL: https://news.ycombinator.com/item?id=50422181 Points: 6 # Comments: 0",
+   "published_at": 1794208893.0,
+   "published_bj": "2026-11-09 15:21"
   },
   {
    "id": "d1d2c35bfb176242",

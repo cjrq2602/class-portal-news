@@ -1,8 +1,17 @@
 {
  "date": "2026-11-10",
- "generated_at": 1794218093.8206913,
- "count": 4,
+ "generated_at": 1794221393.199275,
+ "count": 5,
  "items": [
+  {
+   "id": "503a37f74fdc91a3",
+   "source": "InfoQ中文",
+   "title": "不想当管理者，就用不好 Coding Agent？Anthropic 工程师长文谈 Agent 管理实战",
+   "url": "https://www.infoq.cn/article/YPQyY6bqhzhtO8MN6XUb?utm_source=rss&utm_medium=article",
+   "summary": "点击查看原文>",
+   "published_at": 1794248672.0,
+   "published_bj": "2026-11-10 02:24"
+  },
   {
    "id": "80efef834a6f38c7",
    "source": "InfoQ中文",
