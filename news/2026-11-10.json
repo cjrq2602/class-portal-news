@@ -1,8 +1,107 @@
 {
  "date": "2026-11-10",
- "generated_at": 1794248788.029902,
- "count": 22,
+ "generated_at": 1794253051.394205,
+ "count": 35,
  "items": [
+  {
+   "id": "41bf2931c747d949",
+   "source": "TechCrunch",
+   "title": "Anthropic releases new Mythos and Fable models amid RSI concerns",
+   "url": "https://techcrunch.com/2026/11/09/anthropic-releases-new-mythos-and-fable-models-amid-rsi-concerns/",
+   "summary": "Anthropic says the new models \"show improvements in areas like coding, reasoning, and vision,\" as well as in communicating more clearly with users.",
+   "published_at": 1794252291.0,
+   "published_bj": "2026-11-10 03:24"
+  },
+  {
+   "id": "5dfc634482ea8194",
+   "source": "TechCrunch",
+   "title": "AI hardware startup Nominal triples valuation to $3B in 8 months",
+   "url": "https://techcrunch.com/2026/11/09/ai-hardware-startup-nominal-triples-valuation-to-3b-in-8-months/",
+   "summary": "Nominal, a startup that offers an AI platform for hardware engineering and claims Anduril as a major customer, has raised another big round of financing that triples its valuation.",
+   "published_at": 1794252106.0,
+   "published_bj": "2026-11-10 03:21"
+  },
+  {
+   "id": "0fe86d8c37f29858",
+   "source": "TechCrunch",
+   "title": "France blames Iran for mass-hacks targeting freezers in grocery stores and blood banks",
+   "url": "https://techcrunch.com/2026/11/09/france-blames-iran-for-mass-hacks-targeting-freezers-in-grocery-stores-and-blood-banks/",
+   "summary": "France's foreign minister blamed Iran for launching at least two waves of cyberattacks targeting industrial refrigerated and freezer units across France and wider Europe.",
+   "published_at": 1794251964.0,
+   "published_bj": "2026-11-10 03:19"
+  },
+  {
+   "id": "5cc58a7daa9d3eff",
+   "source": "Hacker News",
+   "title": "Claude Fable 5.2 and Mythos 5.2",
+   "url": "https://www.anthropic.com/claude-fable-and-mythos-5-2",
+   "summary": "Article URL: https://www.anthropic.com/claude-fable-and-mythos-5-2 Comments URL: https://news.ycombinator.com/item?id=50429906 Points: 229 # Comments: 64",
+   "published_at": 1794250589.0,
+   "published_bj": "2026-11-10 02:56"
+  },
+  {
+   "id": "dba678a30760dbec",
+   "source": "Hacker News",
+   "title": "Show HN: Someone Was Here – Find out who used your Mac while you were away",
+   "url": "https://someonewashere.app/",
+   "summary": "Someone Was Here takes a photo of whoever uses your Mac while you're away, whether you left it unlocked or they know your password, and sends their photo to your iPhone if the face isn't yours. I built Someone Was Here as a menu bar app making use of Apple Vision and a local face recognition run via",
+   "published_at": 1794250256.0,
+   "published_bj": "2026-11-10 02:50"
+  },
+  {
+   "id": "2f0545e1843f6287",
+   "source": "Hacker News",
+   "title": "E-means: 10x faster k-means at equal loss",
+   "url": "https://e-means.github.io/",
+   "summary": "Article URL: https://e-means.github.io/ Comments URL: https://news.ycombinator.com/item?id=50429734 Points: 3 # Comments: 0",
+   "published_at": 1794249943.0,
+   "published_bj": "2026-11-10 02:45"
+  },
+  {
+   "id": "f7b7affbde0aec31",
+   "source": "Hacker News",
+   "title": "Show HN: MeowDisplay Is iPhone Mirroring, but in Reverse",
+   "url": "https://meowdisplay.app/",
+   "summary": "Hey HN and Cats, thank you for checking this out! Github: https://github.com/raiseCatError/meowdisplay EDIT 2: I should've mentioned that MeowDisplay started as a fork of OpenDisplay: https://github.com/peetzweg/opendisplay which provided the foundational screen capture, virtual display, encoding an",
+   "published_at": 1794249562.0,
+   "published_bj": "2026-11-10 02:39"
+  },
+  {
+   "id": "b2ad81d9b4dccfca",
+   "source": "Hacker News",
+   "title": "DeepX claims inference up to 100B parameters at less than 5 W",
+   "url": "https://www.eetimes.com/deepx-tapes-out-second-gen-chip-projects-6-7x-performance-gain-with-lpddr5x-pim/",
+   "summary": "Article URL: https://www.eetimes.com/deepx-tapes-out-second-gen-chip-projects-6-7x-performance-gain-with-lpddr5x-pim/ Comments URL: https://news.ycombinator.com/item?id=50429545 Points: 18 # Comments: 2",
+   "published_at": 1794249238.0,
+   "published_bj": "2026-11-10 02:33"
+  },
+  {
+   "id": "6f49e95253cdbaf6",
+   "source": "Hacker News",
+   "title": "Nuance Labs",
+   "url": "https://app.nuancelabs.ai/try",
+   "summary": "Article URL: https://app.nuancelabs.ai/try Comments URL: https://news.ycombinator.com/item?id=50429477 Points: 4 # Comments: 0",
+   "published_at": 1794248880.0,
+   "published_bj": "2026-11-10 02:28"
+  },
+  {
+   "id": "fc7890243c60b8ad",
+   "source": "Hacker News",
+   "title": "Too many men suffering in silence, national health report finds (Canada)",
+   "url": "https://www.westcentralonline.com/articles/too-many-men-suffering-in-silence-national-health-report-finds",
+   "summary": "Article URL: https://www.westcentralonline.com/articles/too-many-men-suffering-in-silence-national-health-report-finds Comments URL: https://news.ycombinator.com/item?id=50429475 Points: 156 # Comments: 97",
+   "published_at": 1794248878.0,
+   "published_bj": "2026-11-10 02:27"
+  },
+  {
+   "id": "e21ea2a68d08a69c",
+   "source": "Hacker News",
+   "title": "Infineon marks innovation milestone with 300mm power silicon carbide wafer",
+   "url": "https://www.infineon.com/press-release/2026/infpr202611-028",
+   "summary": "Article URL: https://www.infineon.com/press-release/2026/infpr202611-028 Comments URL: https://news.ycombinator.com/item?id=50429430 Points: 29 # Comments: 6",
+   "published_at": 1794248701.0,
+   "published_bj": "2026-11-10 02:25"
+  },
   {
    "id": "503a37f74fdc91a3",
    "source": "InfoQ中文",
@@ -29,6 +128,24 @@
    "summary": "At 10 cents per million input tokens, Ember is significantly cheaper than frontier competitors like Haiku and Luna.",
    "published_at": 1794247200.0,
    "published_bj": "2026-11-10 02:00"
+  },
+  {
+   "id": "ebe0b829a9217b38",
+   "source": "Hacker News",
+   "title": "Our Smallest, Most Efficient Model: Muse Ember",
+   "url": "https://research.meta.ai/blog/muse-ember",
+   "summary": "Article URL: https://research.meta.ai/blog/muse-ember Comments URL: https://news.ycombinator.com/item?id=50429024 Points: 76 # Comments: 37",
+   "published_at": 1794247126.0,
+   "published_bj": "2026-11-10 01:58"
+  },
+  {
+   "id": "cc7592b52ddfcc7f",
+   "source": "Hacker News",
+   "title": "Show HN: Every satellite that passed over any place this week, and its photos",
+   "url": "https://www.watched.earth",
+   "summary": "hey HN, i built this because i wanted to know what had actually photographed my street. type in any place and it finds every satellite that passed over it in the last 7 days (SGP4 on the CelesTrak catalog, runs in your browser in about half a second), then pulls the real Sentinel-2 / Landsat / NASA ",
+   "published_at": 1794246691.0,
+   "published_bj": "2026-11-10 01:51"
   },
   {
    "id": "1d101f8f312f8aa0",
