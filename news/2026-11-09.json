@@ -1,8 +1,80 @@
 {
  "date": "2026-11-09",
- "generated_at": 1794237309.758557,
+ "generated_at": 1794241396.159851,
  "count": 400,
  "items": [
+  {
+   "id": "3874a5535cbd30e7",
+   "source": "IT之家",
+   "title": "《GTA 6》PS5 版正式开启预载，XBOX Series X｜S 需等到北京时间早上 8 点",
+   "url": "https://www.ithome.com/1/024/566.htm",
+   "summary": "IT之家 11 月 9 日消息，备受瞩目的《GTA6》PS5 版现已在亚太地区（GMT+8 区域）开启预载，而 XBOX Series X|S 版将于格林尼治标准时间 11 月 10 日 00:00（对应北京时间 8:00）开始预载，盒装兑换码版本预计将于 11 月 12 日起在各大零售商销售。 IT之家经实际测试， 游戏预载文件体积为 209.758GB ，下载速度因网络而异，整体下载时间在 3-5 小时不等。 随着游戏开启下载，玩家也能够在 PS5 首页听到《GTA6》背景音乐，这段音乐采用了舒缓的合成器曲风，带有浓厚的 20 世纪 80 年代复古气息。这与此前《GTA 6》宣传素材中出现",
+   "published_at": 1794239953.0,
+   "published_bj": "2026-11-09 23:59"
+  },
+  {
+   "id": "56152a53b0a5359d",
+   "source": "TechCrunch",
+   "title": "Meta expands Instagram’s AI age-guessing tech globally",
+   "url": "https://techcrunch.com/2026/11/09/meta-expands-instagrams-ai-age-guessing-tech-globally/",
+   "summary": "Meta says it will use its AI technology to look for clues about people it suspects to be teenagers — even if they use an adult birthday.",
+   "published_at": 1794238347.0,
+   "published_bj": "2026-11-09 23:32"
+  },
+  {
+   "id": "3e1a16cfc6a3abf8",
+   "source": "cnBeta",
+   "title": "消息称《GTA6》PS5版完整安装需223.088GB",
+   "url": "https://www.cnbeta.com.tw/articles/game/1585652.htm",
+   "summary": "《GTA6》PS5全球版本完整安装后预计占用223.088GB，玩家可能需要在主机固态硬盘中预留约223GB空间。相关容量目前来自第三方账号PlayStation Game Size发布的信息，最终结果仍需以Rockstar Games、PlayStation商店页面及实际安装情况为准。 阅读全文",
+   "published_at": 1794238014.0,
+   "published_bj": "2026-11-09 23:26"
+  },
+  {
+   "id": "71e9d119f28f5363",
+   "source": "cnBeta",
+   "title": "黄仁勋创高管个人丑闻最大市值损失纪录",
+   "url": "https://www.cnbeta.com.tw/articles/tech/1585650.htm",
+   "summary": "11月9日，英伟达首席执行官黄仁勋的私人丑闻引发市场剧烈反应，公司股价盘中一度下跌8.8%，按此前约4.5万亿美元的市值计算，市值最大缩水约3960亿美元，已经创下上市公司因高管个人丑闻引发的最大单日市值损失纪录。 阅读全文",
+   "published_at": 1794237973.0,
+   "published_bj": "2026-11-09 23:26"
+  },
+  {
+   "id": "8d9a9d9e05b7e1e0",
+   "source": "cnBeta",
+   "title": "黄仁勋出事，英伟达接班人准备好了吗？",
+   "url": "https://www.cnbeta.com.tw/articles/tech/1585648.htm",
+   "summary": "当公司的最大IP、领导者、创始人带来了信任危机，谁来接管这家明星公司？当地时间11月8日，英伟达创始人兼CEO黄仁勋向公司员工发送道歉信，承认自己有婚外情，随后英伟达董事会启动独立调查。虽然英伟达发言人已对外明确黄仁勋将继续担任公司CEO，履职不会中断，但市场仍对后续黄仁勋职责、英伟达控制权是否变化有所疑虑。 阅读全文",
+   "published_at": 1794237961.0,
+   "published_bj": "2026-11-09 23:26"
+  },
+  {
+   "id": "9d7ff004d435daa5",
+   "source": "TechCrunch",
+   "title": "Waymo robotaxis kept illegally passing school buses after software fix, feds say",
+   "url": "https://techcrunch.com/2026/11/09/waymo-robotaxis-kept-illegally-passing-school-buses-after-software-fix-feds-say/",
+   "summary": "The update to Waymo's self-driving system was rolled out nearly a year ago.",
+   "published_at": 1794237899.0,
+   "published_bj": "2026-11-09 23:24"
+  },
+  {
+   "id": "3bc73643a1d9f412",
+   "source": "Hacker News",
+   "title": "Crypto foundation demanded employees endorse suicide pledge",
+   "url": "https://www.denverpost.com/2026/11/06/ethereum-suicide-pledge-lawsuit-mandate-boulder-crypto/",
+   "summary": "Article URL: https://www.denverpost.com/2026/11/06/ethereum-suicide-pledge-lawsuit-mandate-boulder-crypto/ Comments URL: https://news.ycombinator.com/item?id=50426899 Points: 32 # Comments: 18",
+   "published_at": 1794237837.0,
+   "published_bj": "2026-11-09 23:23"
+  },
+  {
+   "id": "9865d075dce83e17",
+   "source": "cnBeta",
+   "title": "Google发布两款全新TPU芯片 瞄准安全AI与超长上下文模型需求",
+   "url": "https://www.cnbeta.com.tw/articles/tech/1585646.htm",
+   "summary": "Google近日宣布扩展其人工智能芯片产品线，推出两款专门面向不同应用场景打造的新型张量处理单元（TPU），分别命名为TPU 8tx和TPU 8i Max。这两款产品基于Google现有第八代TPU架构开发，旨在满足企业客户对于数据安全和大规模人工智能推理任务不断增长的需求。 阅读全文",
+   "published_at": 1794237834.0,
+   "published_bj": "2026-11-09 23:23"
+  },
   {
    "id": "2944c53d6ec59288",
    "source": "IT之家",
@@ -28,6 +100,15 @@
    "url": "https://www.cnbeta.com.tw/articles/science/1585644.htm",
    "summary": "科学家将通常由岩浆产生的气体证据与在火星表面新发现的裂缝联系起来，指出火星可能存在火山活动。这一发现可谓寻找生命过程中的好消息，因为要使微生物免受火星表面严寒温度的侵害，就需要持续的热源。11月4日，相关研究成果发表于《科学进展》。 阅读全文",
    "published_at": 1794236517.0,
+   "published_bj": "2026-11-09 23:01"
+  },
+  {
+   "id": "381003535aea5414",
+   "source": "Hacker News",
+   "title": "I Saw Your HN Comment",
+   "url": "https://joshstrange.com/2026/11/09/i-saw-your-hn-comment/",
+   "summary": "Article URL: https://joshstrange.com/2026/11/09/i-saw-your-hn-comment/ Comments URL: https://news.ycombinator.com/item?id=50426582 Points: 47 # Comments: 23",
+   "published_at": 1794236463.0,
    "published_bj": "2026-11-09 23:01"
   },
   {
@@ -3521,87 +3602,6 @@
    "summary": "Article URL: https://serd.es/2026/11/08/playing-with-stm32mp2.html Comments URL: https://news.ycombinator.com/item?id=50416014 Points: 6 # Comments: 1",
    "published_at": 1794164647.0,
    "published_bj": "2026-11-09 03:04"
-  },
-  {
-   "id": "daa1a8a3a01d4b92",
-   "source": "Hacker News",
-   "title": "Silicon Valley Promises AI Will Cure Disease. Drugmaker CEOs Aren't Buying It",
-   "url": "https://www.wsj.com/tech/ai/silicon-valley-promises-ai-will-cure-disease-drugmaker-ceos-arent-buying-it-5218511c",
-   "summary": "Article URL: https://www.wsj.com/tech/ai/silicon-valley-promises-ai-will-cure-disease-drugmaker-ceos-arent-buying-it-5218511c Comments URL: https://news.ycombinator.com/item?id=50415817 Points: 13 # Comments: 8",
-   "published_at": 1794163387.0,
-   "published_bj": "2026-11-09 02:43"
-  },
-  {
-   "id": "6952f3673753d637",
-   "source": "Hacker News",
-   "title": "Playing Zork 1 on a CP/M emulator on Linux (2021)",
-   "url": "https://kevinboone.me/cpmzork.html",
-   "summary": "Article URL: https://kevinboone.me/cpmzork.html Comments URL: https://news.ycombinator.com/item?id=50415750 Points: 5 # Comments: 3",
-   "published_at": 1794162830.0,
-   "published_bj": "2026-11-09 02:33"
-  },
-  {
-   "id": "7a91bedd10907f10",
-   "source": "Hacker News",
-   "title": "Goldman Sachs Is Pulling Claude Code from Its Bankers and Traders",
-   "url": "https://www.thestateofai.com/news/goldman-sachs-claude-code-traders-bankers",
-   "summary": "Article URL: https://www.thestateofai.com/news/goldman-sachs-claude-code-traders-bankers Comments URL: https://news.ycombinator.com/item?id=50415628 Points: 114 # Comments: 45",
-   "published_at": 1794161767.0,
-   "published_bj": "2026-11-09 02:16"
-  },
-  {
-   "id": "39aa715d4a4f63f1",
-   "source": "TechCrunch",
-   "title": "SNL has a new impression of Elon Musk, ‘the worst thing South Africa has ever done’",
-   "url": "https://techcrunch.com/2026/11/08/snl-has-a-new-impression-of-elon-musk-the-worst-thing-south-africa-has-ever-done/",
-   "summary": "SNL seems to have its knives out for tech executives.",
-   "published_at": 1794160804.0,
-   "published_bj": "2026-11-09 02:00"
-  },
-  {
-   "id": "d7a54d05315c881a",
-   "source": "cnBeta",
-   "title": "调查发现美国批准向中国空壳企业供应英伟达H200芯片 注册地址空无一人",
-   "url": "https://www.cnbeta.com.tw/articles/tech/1585514.htm",
-   "summary": "美国政府批准向中国企业供应英伟达H200人工智能加速器的决定，正在引发新的国家安全争议。美国《纽约时报》的一项调查发现，美国商务部已经批准大约24家中国企业购买或经手H200芯片，但其中部分获批企业的注册地址竟然是无人办公的空置房间，另一些企业则与受到美国制裁的中国半导体供应商及军事相关机构存在联系。这一发现暴露出美国对先进AI芯片出口许可审查机制可能存在的漏洞。 阅读全文",
-   "published_at": 1794159342.0,
-   "published_bj": "2026-11-09 01:35"
-  },
-  {
-   "id": "ed8da7541510e65c",
-   "source": "Hacker News",
-   "title": "Ads in Popular Apps Give Police a Powerful Tool to Spy on Users",
-   "url": "https://www.bloomberg.com/features/2026-police-phone-tracking-advertising-tech/",
-   "summary": "Article URL: https://www.bloomberg.com/features/2026-police-phone-tracking-advertising-tech/ Comments URL: https://news.ycombinator.com/item?id=50415281 Points: 21 # Comments: 0",
-   "published_at": 1794159175.0,
-   "published_bj": "2026-11-09 01:32"
-  },
-  {
-   "id": "81cafc79dab80748",
-   "source": "TechCrunch",
-   "title": "He arrested a hacker, then spent 18 months clearing his own name. Now he’s a cybersecurity VC.",
-   "url": "https://techcrunch.com/2026/11/08/the-ex-secret-service-agent-who-flipped-a-hacker-is-now-raising-a-second-250m-cybersecurity-fund/",
-   "summary": "Stephen Ward, a former Secret Service agent and Home Depot CISO, is preparing a second fund of roughly $250 million for Brightmind Partners.",
-   "published_at": 1794159000.0,
-   "published_bj": "2026-11-09 01:30"
-  },
-  {
-   "id": "b419e9bd2337f352",
-   "source": "Hacker News",
-   "title": "RAM Altman: Linux Script Emails Sam Altman Daily How Much Unused RAM in Your PC",
-   "url": "https://respawnfirst.com/linux-script-emails-sam-altman-unused-ram-ram-altman/",
-   "summary": "Article URL: https://respawnfirst.com/linux-script-emails-sam-altman-unused-ram-ram-altman/ Comments URL: https://news.ycombinator.com/item?id=50415172 Points: 44 # Comments: 14",
-   "published_at": 1794158429.0,
-   "published_bj": "2026-11-09 01:20"
-  },
-  {
-   "id": "32e1f369c7fca915",
-   "source": "Hacker News",
-   "title": "A Little Snitch for Windows",
-   "url": "https://packethound.app/",
-   "summary": "Article URL: https://packethound.app/ Comments URL: https://news.ycombinator.com/item?id=50415135 Points: 30 # Comments: 15",
-   "published_at": 1794158167.0,
-   "published_bj": "2026-11-09 01:16"
   }
  ]
 }

@@ -1,7 +1,7 @@
 {
  "date": "2026-11-10",
- "generated_at": 1794237309.7548933,
- "count": 5,
+ "generated_at": 1794241396.1567626,
+ "count": 6,
  "items": [
   {
    "id": "503a37f74fdc91a3",
@@ -38,6 +38,15 @@
    "summary": "点击查看原文>",
    "published_at": 1794241611.0,
    "published_bj": "2026-11-10 00:26"
+  },
+  {
+   "id": "505a2ae1ed7fb35c",
+   "source": "TechCrunch",
+   "title": "Medium’s new TK app brings AI assistance directly into the writing process",
+   "url": "https://techcrunch.com/2026/11/09/mediums-new-tk-app-brings-ai-assistance-directly-into-the-writing-process/",
+   "summary": "Medium's new writing app embraces AI-assisted writing, despite growing controversy over the technology's role in publishing.",
+   "published_at": 1794240748.0,
+   "published_bj": "2026-11-10 00:12"
   },
   {
    "id": "6605b9f6877cd9da",
