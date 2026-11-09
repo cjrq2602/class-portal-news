@@ -1,6 +1,7 @@
 {
- "generated_at": 1794189601.0374637,
+ "generated_at": 1794243601.3560338,
  "files": [
+  "2026-11-09_yesterday.json",
   "2026-11-09_today.json",
   "2026-11-08_yesterday.json",
   "2026-11-08_today.json",
@@ -29,7 +30,6 @@
   "2026-10-27_today.json",
   "2026-10-26_yesterday.json",
   "2026-10-26_today.json",
-  "2026-10-25_yesterday.json",
-  "2026-10-25_today.json"
+  "2026-10-25_yesterday.json"
  ]
 }

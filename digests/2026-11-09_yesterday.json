@@ -1,0 +1,382 @@
+{
+ "type": "yesterday",
+ "date": "2026-11-09",
+ "window": {
+  "start_ts": 1794153600.0,
+  "end_ts": 1794240000.0
+ },
+ "generated_at": 1794243601.3392408,
+ "generator": "action",
+ "news_count": 400,
+ "keywords": [
+  "元",
+  "ai",
+  "支持",
+  "月",
+  "国补",
+  "新低",
+  "仁勋",
+  "智能",
+  "黄仁",
+  "游戏"
+ ],
+ "points": [
+  {
+   "text": "【ai】IT之家 11 月 9 日消息，特斯拉 CEO 埃隆 · 马斯克今日在 X 平台发文，回应英伟达 CEO 黄仁勋的出轨风波",
+   "keyword": "ai",
+   "news_ids": [
+    "4cea66c4505c250a"
+   ],
+   "refs": [
+    {
+     "id": "4cea66c4505c250a",
+     "title": "马斯克回应黄仁勋出轨风波，同意其对美国 AI 产业不可或缺",
+     "source": "IT之家",
+     "url": "https://www.ithome.com/1/024/052.htm",
+     "published_at": 1794188651.0
+    }
+   ]
+  },
+  {
+   "text": "【元】京东活动可能随时变更，需以实付款为准】 小米智能摄像机 3 开售于 2026 年 10 月，500 万像素，升级 3K 超清画质，支持红外夜视，",
+   "keyword": "元",
+   "news_ids": [
+    "e61ff2619be4acaa"
+   ],
+   "refs": [
+    {
+     "id": "e61ff2619be4acaa",
+     "title": "179 → 123 元：小米智能摄像机 3 国补新低，500 万像素、6 种 AI 灵敏检测",
+     "source": "IT之家",
+     "url": "https://www.ithome.com/1/024/554.htm",
+     "published_at": 1794233404.0
+    }
+   ]
+  },
+  {
+   "text": "【ai】每两家头部手机厂商就有一家选它：火山引擎如何成为 AI 手机助手的&#34;隐形底座&#34;？",
+   "keyword": "ai",
+   "news_ids": [
+    "a16afe8cfb755da2"
+   ],
+   "refs": [
+    {
+     "id": "a16afe8cfb755da2",
+     "title": "每两家头部手机厂商就有一家选它：火山引擎如何成为 AI 手机助手的&#34;隐形底座&#34;？",
+     "source": "InfoQ中文",
+     "url": "https://www.infoq.cn/article/icMBWWjE3LTzEY1tHKr8?utm_source=rss&utm_medium=article",
+     "published_at": 1794231623.0
+    }
+   ]
+  },
+  {
+   "text": "【ai】IT之家 11 月 9 日消息，据《商业内幕》今天（9）日晚间报道，美国知名亿万富翁风险投资家维诺德 · 科斯拉认为， 所有访客看到相同网页的时",
+   "keyword": "ai",
+   "news_ids": [
+    "962806140e5802f4"
+   ],
+   "refs": [
+    {
+     "id": "962806140e5802f4",
+     "title": "美国知名风险投资家科斯拉看好 AI 重塑互联网：能让网站“有生命”",
+     "source": "IT之家",
+     "url": "https://www.ithome.com/1/024/559.htm",
+     "published_at": 1794234769.0
+    }
+   ]
+  },
+  {
+   "text": "【智能】GTA6》PS5全球版本完整安装后预计占用223.088GB，玩家可能需要在主机固态硬盘中预留约223GB空间",
+   "keyword": "智能",
+   "news_ids": [
+    "3e1a16cfc6a3abf8"
+   ],
+   "refs": [
+    {
+     "id": "3e1a16cfc6a3abf8",
+     "title": "消息称《GTA6》PS5版完整安装需223.088GB",
+     "source": "cnBeta",
+     "url": "https://www.cnbeta.com.tw/articles/game/1585652.htm",
+     "published_at": 1794238014.0
+    }
+   ]
+  },
+  {
+   "text": "【息称】Article URL: https://github",
+   "keyword": "息称",
+   "news_ids": [
+    "4a3f785b77e83192"
+   ],
+   "refs": [
+    {
+     "id": "4a3f785b77e83192",
+     "title": "The same H100 costs $2.69 or $12.29 an hour depending where you rent it",
+     "source": "Hacker News",
+     "url": "https://github.com/datareceipts/data-receipts/tree/main/109-gpu-pricing",
+     "published_at": 1794238741.0
+    }
+   ]
+  },
+  {
+   "text": "Article URL: https://www",
+   "keyword": "",
+   "news_ids": [
+    "3bc73643a1d9f412"
+   ],
+   "refs": [
+    {
+     "id": "3bc73643a1d9f412",
+     "title": "Crypto foundation demanded employees endorse suicide pledge",
+     "source": "Hacker News",
+     "url": "https://www.denverpost.com/2026/11/06/ethereum-suicide-pledge-lawsuit-mandate-boulder-crypto/",
+     "published_at": 1794237837.0
+    }
+   ]
+  },
+  {
+   "text": "科学家将通常由岩浆产生的气体证据与在火星表面新发现的裂缝联系起来，指出火星可能存在火山活动",
+   "keyword": "",
+   "news_ids": [
+    "1baf692bff2185a0"
+   ],
+   "refs": [
+    {
+     "id": "1baf692bff2185a0",
+     "title": "火星存在活火山的证据可能增加发现生命的机会",
+     "source": "cnBeta",
+     "url": "https://www.cnbeta.com.tw/articles/science/1585644.htm",
+     "published_at": 1794236517.0
+    }
+   ]
+  },
+  {
+   "text": "Article URL: https://joshstrange",
+   "keyword": "",
+   "news_ids": [
+    "381003535aea5414"
+   ],
+   "refs": [
+    {
+     "id": "381003535aea5414",
+     "title": "I Saw Your HN Comment",
+     "source": "Hacker News",
+     "url": "https://joshstrange.com/2026/11/09/i-saw-your-hn-comment/",
+     "published_at": 1794236463.0
+    }
+   ]
+  },
+  {
+   "text": "OpenAI、Anthropic、Google 各有接口，开放标准离统一还有多远？",
+   "keyword": "",
+   "news_ids": [
+    "eac977a24733302b"
+   ],
+   "refs": [
+    {
+     "id": "eac977a24733302b",
+     "title": "OpenAI、Anthropic、Google 各有接口，开放标准离统一还有多远？",
+     "source": "InfoQ中文",
+     "url": "https://www.infoq.cn/article/5e8Qs11VHRHRyYsB2kFO?utm_source=rss&utm_medium=article",
+     "published_at": 1794234900.0
+    }
+   ]
+  },
+  {
+   "text": "Article URL: https://github",
+   "keyword": "",
+   "news_ids": [
+    "5767edb7f4170326"
+   ],
+   "refs": [
+    {
+     "id": "5767edb7f4170326",
+     "title": "Zebkit – Chromium as an embeddable library",
+     "source": "Hacker News",
+     "url": "https://github.com/ikey4u/zebkit",
+     "published_at": 1794234840.0
+    }
+   ]
+  },
+  {
+   "text": "Article URL: https://www",
+   "keyword": "",
+   "news_ids": [
+    "019df90fdb0117a7"
+   ],
+   "refs": [
+    {
+     "id": "019df90fdb0117a7",
+     "title": "Magenta solar panels may be agrivoltaics' cleverest trick yet",
+     "source": "Hacker News",
+     "url": "https://www.anthropocenemagazine.org/2026/10/magenta-solar-panels-may-be-agrivoltaics-cleverest-trick-yet/",
+     "published_at": 1794234699.0
+    }
+   ]
+  },
+  {
+   "text": "特斯拉首席执行官埃隆·马斯克近日就公司停产Cybertruck的决定作出回应，强调这款备受争议的不锈钢电动皮卡并非因为亏损而停产，同时表示，由于",
+   "keyword": "",
+   "news_ids": [
+    "7133e31e535edddc"
+   ],
+   "refs": [
+    {
+     "id": "7133e31e535edddc",
+     "title": "特斯拉将停止生产Cybertruck 马斯克称部分预订用户可获退款",
+     "source": "cnBeta",
+     "url": "https://www.cnbeta.com.tw/articles/tech/1585642.htm",
+     "published_at": 1794234378.0
+    }
+   ]
+  },
+  {
+   "text": "印度成OpenAI最大市场”，Altman首次回应“离职潮”：一群聪明人互不信任",
+   "keyword": "",
+   "news_ids": [
+    "df1354a7b92881e4"
+   ],
+   "refs": [
+    {
+     "id": "df1354a7b92881e4",
+     "title": "印度成OpenAI最大市场”，Altman首次回应“离职潮”：一群聪明人互不信任",
+     "source": "InfoQ中文",
+     "url": "https://www.infoq.cn/article/7AXcQvPCSwfPhtL8iQpo?utm_source=rss&utm_medium=article",
+     "published_at": 1794232800.0
+    }
+   ]
+  },
+  {
+   "text": "Automattic aims to compete with likes of Lovable with Spacefast",
+   "keyword": "",
+   "news_ids": [
+    "84b176effbeb7f14"
+   ],
+   "refs": [
+    {
+     "id": "84b176effbeb7f14",
+     "title": "Automattic debuts a platform to deploy vibe coding apps amid a changing internet",
+     "source": "TechCrunch",
+     "url": "https://techcrunch.com/2026/11/09/automattic-debuts-a-platform-to-deploy-vibe-coding-apps-amid-a-changing-internet/",
+     "published_at": 1794232800.0
+    }
+   ]
+  }
+ ],
+ "article": {
+  "title": "2026-11-09 新闻总结",
+  "paragraphs": [
+   {
+    "kind": "lead",
+    "text": "过去 24 小时共收录 400 条新闻，来自 7 家媒体。把标题放在一起看，讨论主要集中在 AI、游戏、手机 这几个方向上，其余消息更像是零散补充。"
+   },
+   {
+    "kind": "section",
+    "heading": "AI",
+    "text": "先看「AI」。IT之家 11 月 9 日消息，特斯拉 CEO 埃隆 · 马斯克今日在 X 平台发文，另有 231 条消息指向同一话题。这类进展更像是把已有能力往工程化落地推了一步，真正的分水岭在于成本和可靠性能不能同时压下来。",
+    "news_ids": [
+     "4cea66c4505c250a"
+    ],
+    "refs": [
+     {
+      "id": "4cea66c4505c250a",
+      "title": "马斯克回应黄仁勋出轨风波，同意其对美国 AI 产业不可或缺",
+      "source": "IT之家",
+      "url": "https://www.ithome.com/1/024/052.htm",
+      "published_at": 1794188651.0
+     }
+    ]
+   },
+   {
+    "kind": "section",
+    "heading": "摄像",
+    "text": "与此同时「摄像」。京东活动可能随时变更，需以实付款为准】 小米智能摄像机 3 开售于 2026 年 10 月，500 万像素，升级 3K 超清画质，支持红外夜视，另有 78 条消息指向同一话题。技术路线的胜负很少由一次发布会决定，接下来要看的是它能不能被更多团队低成本复用。",
+    "news_ids": [
+     "e61ff2619be4acaa"
+    ],
+    "refs": [
+     {
+      "id": "e61ff2619be4acaa",
+      "title": "179 → 123 元：小米智能摄像机 3 国补新低，500 万像素、6 种 AI 灵敏检测",
+      "source": "IT之家",
+      "url": "https://www.ithome.com/1/024/554.htm",
+      "published_at": 1794233404.0
+     }
+    ]
+   },
+   {
+    "kind": "section",
+    "heading": "手机",
+    "text": "另一个值得注意的方向是「手机」。每两家头部手机厂商就有一家选它：火山引擎如何成为 AI 手机助手的&#34;隐形底座&#34;？，另有 6 条消息指向同一话题。价格和生态往往比硬件规格更能决定一款产品能不能留下来。",
+    "news_ids": [
+     "a16afe8cfb755da2"
+    ],
+    "refs": [
+     {
+      "id": "a16afe8cfb755da2",
+      "title": "每两家头部手机厂商就有一家选它：火山引擎如何成为 AI 手机助手的&#34;隐形底座&#34;？",
+      "source": "InfoQ中文",
+      "url": "https://www.infoq.cn/article/icMBWWjE3LTzEY1tHKr8?utm_source=rss&utm_medium=article",
+      "published_at": 1794231623.0
+     }
+    ]
+   },
+   {
+    "kind": "section",
+    "heading": "风险",
+    "text": "相比之下「风险」。IT之家 11 月 9 日消息，据《商业内幕》今天（9）日晚间报道，美国知名亿万富翁风险投资家维诺德 · 科斯拉认为，另有 5 条消息指向同一话题。这类交易背后通常是行业在提前整合，中小玩家的选择空间会被进一步压缩。",
+    "news_ids": [
+     "962806140e5802f4"
+    ],
+    "refs": [
+     {
+      "id": "962806140e5802f4",
+      "title": "美国知名风险投资家科斯拉看好 AI 重塑互联网：能让网站“有生命”",
+      "source": "IT之家",
+      "url": "https://www.ithome.com/1/024/559.htm",
+      "published_at": 1794234769.0
+     }
+    ]
+   },
+   {
+    "kind": "glossary",
+    "items": [
+     {
+      "term": "AI",
+      "desc": "人工智能，让机器完成识别、生成、判断等原本需要人做的任务"
+     },
+     {
+      "term": "Robotaxi",
+      "desc": "无人驾驶出租车，车里没有司机，靠自动驾驶系统接单运营"
+     },
+     {
+      "term": "VR",
+      "desc": "虚拟现实，戴上头显进入一个全虚拟的画面"
+     },
+     {
+      "term": "AR",
+      "desc": "增强现实，把虚拟图像叠加到真实世界画面上"
+     },
+     {
+      "term": "LLM",
+      "desc": "大语言模型，主打文字理解与生成，是「大模型」的同义词"
+     },
+     {
+      "term": "Agent",
+      "desc": "智能体，能自己拆解任务、调用工具并连续执行的 AI 程序"
+     }
+    ]
+   },
+   {
+    "kind": "outlook",
+    "text": "把这几条放在一起看，最值得跟踪的是 AI 和 游戏 两条线：一条决定技术能走多远，一条决定它多快能落到普通人的日常里。至于其他消息，可以先放进观察名单，等后续有更实的进展再判断。"
+   }
+  ],
+  "word_count": 637
+ },
+ "ai_enhanced": false,
+ "schema": 1,
+ "window_bj": {
+  "start": "2026-11-09 00:00",
+  "end": "2026-11-10 00:00"
+ }
+}

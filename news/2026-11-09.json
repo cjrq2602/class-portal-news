@@ -1,6 +1,6 @@
 {
  "date": "2026-11-09",
- "generated_at": 1794241396.159851,
+ "generated_at": 1794243598.9965217,
  "count": 400,
  "items": [
   {
@@ -11,6 +11,15 @@
    "summary": "IT之家 11 月 9 日消息，备受瞩目的《GTA6》PS5 版现已在亚太地区（GMT+8 区域）开启预载，而 XBOX Series X|S 版将于格林尼治标准时间 11 月 10 日 00:00（对应北京时间 8:00）开始预载，盒装兑换码版本预计将于 11 月 12 日起在各大零售商销售。 IT之家经实际测试， 游戏预载文件体积为 209.758GB ，下载速度因网络而异，整体下载时间在 3-5 小时不等。 随着游戏开启下载，玩家也能够在 PS5 首页听到《GTA6》背景音乐，这段音乐采用了舒缓的合成器曲风，带有浓厚的 20 世纪 80 年代复古气息。这与此前《GTA 6》宣传素材中出现",
    "published_at": 1794239953.0,
    "published_bj": "2026-11-09 23:59"
+  },
+  {
+   "id": "4a3f785b77e83192",
+   "source": "Hacker News",
+   "title": "The same H100 costs $2.69 or $12.29 an hour depending where you rent it",
+   "url": "https://github.com/datareceipts/data-receipts/tree/main/109-gpu-pricing",
+   "summary": "Article URL: https://github.com/datareceipts/data-receipts/tree/main/109-gpu-pricing Comments URL: https://news.ycombinator.com/item?id=50427085 Points: 48 # Comments: 25",
+   "published_at": 1794238741.0,
+   "published_bj": "2026-11-09 23:39"
   },
   {
    "id": "56152a53b0a5359d",
@@ -74,6 +83,15 @@
    "summary": "Google近日宣布扩展其人工智能芯片产品线，推出两款专门面向不同应用场景打造的新型张量处理单元（TPU），分别命名为TPU 8tx和TPU 8i Max。这两款产品基于Google现有第八代TPU架构开发，旨在满足企业客户对于数据安全和大规模人工智能推理任务不断增长的需求。 阅读全文",
    "published_at": 1794237834.0,
    "published_bj": "2026-11-09 23:23"
+  },
+  {
+   "id": "8f885d32aed50953",
+   "source": "Hacker News",
+   "title": "Pigshell: Unix the Web",
+   "url": "http://pigshell.com/v/0.6.4/",
+   "summary": "Article URL: http://pigshell.com/v/0.6.4/ Comments URL: https://news.ycombinator.com/item?id=50426831 Points: 3 # Comments: 0",
+   "published_at": 1794237499.0,
+   "published_bj": "2026-11-09 23:18"
   },
   {
    "id": "2944c53d6ec59288",
@@ -166,6 +184,15 @@
    "published_bj": "2026-11-09 22:32"
   },
   {
+   "id": "019df90fdb0117a7",
+   "source": "Hacker News",
+   "title": "Magenta solar panels may be agrivoltaics' cleverest trick yet",
+   "url": "https://www.anthropocenemagazine.org/2026/10/magenta-solar-panels-may-be-agrivoltaics-cleverest-trick-yet/",
+   "summary": "Article URL: https://www.anthropocenemagazine.org/2026/10/magenta-solar-panels-may-be-agrivoltaics-cleverest-trick-yet/ Comments URL: https://news.ycombinator.com/item?id=50426175 Points: 45 # Comments: 9",
+   "published_at": 1794234699.0,
+   "published_bj": "2026-11-09 22:31"
+  },
+  {
    "id": "ab78def9c518a595",
    "source": "IT之家",
    "title": "微软商店 Microsoft Store《我的世界》PC 版游戏涨价，国区 89 元起 → 110.99 元起",
@@ -218,6 +245,15 @@
    "summary": "IT之家 11 月 9 日消息，11 月 2 日，美团龙猫发布面向长程智能体任务的 原生多模态模型 LongCat-2.5 。随后来到今天（9 日），美团宣布该模型 正式开源 。 该模型采用 MIT 协议， 支持商用推理部署与二次训练，无需额外授权 ，是面向长程智能体任务的原生多模态模型。在复杂代码库开发、完整项目构建、Visual Coding 与专业办公场景中，端到端交付能力均有明显提升。 模型总参数 1.6 万亿，每个 token 激活约 480 亿参数，支持一百万上下文 。针对显存与带宽受限的国产算力芯片，团队在模型架构、芯片适配与部署策略上也进行了深度协同优化。 根据介绍，LongC",
    "published_at": 1794233798.0,
    "published_bj": "2026-11-09 22:16"
+  },
+  {
+   "id": "e91f5d88514ddb4c",
+   "source": "IT之家",
+   "title": "硬核洞穴生存游戏《未知伤亡》登陆 Steam：支持简中界面字幕，首发 ¥66.30",
+   "url": "https://www.ithome.com/1/024/555.htm",
+   "summary": "IT之家 11 月 9 日消息，由独立开发者 Orsoniks 制作、Oro Interactive 发行的硬核洞穴探险生存游戏 《未知伤亡》（Casualties: Unknown） 已于今日正式登陆 Steam 平台，国区售价 ¥66.30（原价 ¥78），首发 85 折优惠将持续至 11 月 23 日。游戏支持简体中文界面与字幕，但无中文配音。IT之家附游戏商品页： https://store.steampowered.com/app/4576490/ 未知伤亡/ 。 据介绍，本作历经近 3 年开发，玩家将扮演一名被派往异星回收货物的俘虏，深入探索星球全部 11 层洞穴，而其真实身份不过",
+   "published_at": 1794233622.0,
+   "published_bj": "2026-11-09 22:13"
   },
   {
    "id": "e61ff2619be4acaa",
@@ -3566,42 +3602,6 @@
    "summary": "Article URL: https://ftrain.com/aboard-the-web-is-more-than-enough Comments URL: https://news.ycombinator.com/item?id=50416456 Points: 3 # Comments: 0",
    "published_at": 1794167312.0,
    "published_bj": "2026-11-09 03:48"
-  },
-  {
-   "id": "b12adf5c91e3e45c",
-   "source": "Hacker News",
-   "title": "How I Fight AI Brain Fry",
-   "url": "https://sergeykuhne.com/blog/fighting-ai-brain-fry",
-   "summary": "Article URL: https://sergeykuhne.com/blog/fighting-ai-brain-fry Comments URL: https://news.ycombinator.com/item?id=50416363 Points: 14 # Comments: 3",
-   "published_at": 1794166662.0,
-   "published_bj": "2026-11-09 03:37"
-  },
-  {
-   "id": "2f70037219d25767",
-   "source": "Hacker News",
-   "title": "Outlook.com Is Quietly Rejecting Email from Domains Without DMARC",
-   "url": "https://mailroute.net/blog/outlook-rejecting-email-without-dmarc",
-   "summary": "Article URL: https://mailroute.net/blog/outlook-rejecting-email-without-dmarc Comments URL: https://news.ycombinator.com/item?id=50416158 Points: 42 # Comments: 22",
-   "published_at": 1794165632.0,
-   "published_bj": "2026-11-09 03:20"
-  },
-  {
-   "id": "9e858a99a7456a42",
-   "source": "Hacker News",
-   "title": "Dux: Free, open-source Wayland desktop shell with file manager and theming",
-   "url": "https://duxlabs.dev/",
-   "summary": "Article URL: https://duxlabs.dev/ Comments URL: https://news.ycombinator.com/item?id=50416053 Points: 32 # Comments: 5",
-   "published_at": 1794164931.0,
-   "published_bj": "2026-11-09 03:08"
-  },
-  {
-   "id": "ef61a8dcb7322d67",
-   "source": "Hacker News",
-   "title": "Playing with the STM32MP2",
-   "url": "https://serd.es/2026/11/08/playing-with-stm32mp2.html",
-   "summary": "Article URL: https://serd.es/2026/11/08/playing-with-stm32mp2.html Comments URL: https://news.ycombinator.com/item?id=50416014 Points: 6 # Comments: 1",
-   "published_at": 1794164647.0,
-   "published_bj": "2026-11-09 03:04"
   }
  ]
 }
