@@ -1,0 +1,334 @@
+{
+ "type": "today",
+ "date": "2026-11-09",
+ "window": {
+  "start_ts": 1794153600.0,
+  "end_ts": 1794186000.0
+ },
+ "generated_at": 1794189601.0320055,
+ "generator": "action",
+ "news_count": 59,
+ "keywords": [
+  "the",
+  "and",
+  "to",
+  "ai",
+  "is",
+  "on",
+  "仁勋",
+  "黄仁",
+  "from",
+  "with"
+ ],
+ "points": [
+  {
+   "text": "【the】IT之家 11 月 9 日消息，据韩联社 11 月 8 日报道，韩国科学技术信息通信部透露，英伟达首席执行官黄仁勋的长女、英伟达物理 AI 平台",
+   "keyword": "the",
+   "news_ids": [
+    "91f031f36c659147"
+   ],
+   "refs": [
+    {
+     "id": "91f031f36c659147",
+     "title": "英伟达黄仁勋长女黄敏珊因“家庭原因”取消韩国之行",
+     "source": "IT之家",
+     "url": "https://www.ithome.com/1/024/040.htm",
+     "published_at": 1794185520.0
+    }
+   ]
+  },
+  {
+   "text": "【the】It's hard to break the cycle of doomscrolling, but there are plenty of a",
+   "keyword": "the",
+   "news_ids": [
+    "71fe9411416e5943"
+   ],
+   "refs": [
+    {
+     "id": "71fe9411416e5943",
+     "title": "Apps to distract you from the endless cycle of doomscrolling",
+     "source": "TechCrunch",
+     "url": "https://techcrunch.com/2026/11/08/apps-to-distract-you-from-the-endless-cycle-of-doomscrolling/",
+     "published_at": 1794175200.0
+    }
+   ]
+  },
+  {
+   "text": "【the】Article URL: https://nvidianews",
+   "keyword": "the",
+   "news_ids": [
+    "879430221e176610"
+   ],
+   "refs": [
+    {
+     "id": "879430221e176610",
+     "title": "Nvidia Board of Directors Is Investigating Jensen Huang",
+     "source": "Hacker News",
+     "url": "https://nvidianews.nvidia.com/news/statement-from-nvidia-board-of-directors",
+     "published_at": 1794169603.0
+    }
+   ]
+  },
+  {
+   "text": "【and】Article URL: https://www",
+   "keyword": "and",
+   "news_ids": [
+    "122542fbc14932b7"
+   ],
+   "refs": [
+    {
+     "id": "122542fbc14932b7",
+     "title": "Starship Flight 15 on 11/13 plans to catch both booster and ship",
+     "source": "Hacker News",
+     "url": "https://www.spacex.com/launches/starship-flight-15",
+     "published_at": 1794167386.0
+    }
+   ]
+  },
+  {
+   "text": "近日网上流传《GTA6》实体版包装，其背面将本作描述为单人体验，未标注在线游玩，也没有出现多人游戏常见的PS Plus需求说明或《GTAOL》标",
+   "keyword": "",
+   "news_ids": [
+    "de68bbe48e72535e"
+   ],
+   "refs": [
+    {
+     "id": "de68bbe48e72535e",
+     "title": "GTA6》实体包装未标多人功能 线上模式或延后推出",
+     "source": "cnBeta",
+     "url": "https://www.cnbeta.com.tw/articles/game/1585528.htm",
+     "published_at": 1794180215.0
+    }
+   ]
+  },
+  {
+   "text": "英国零售商Smyths Toys的商品页面显示，《GTA6》实体代码盒将附带一张A3双面海报",
+   "keyword": "",
+   "news_ids": [
+    "43e633bd6108ce75"
+   ],
+   "refs": [
+    {
+     "id": "43e633bd6108ce75",
+     "title": "英国零售商页面显示《GTA6》实体代码盒附A3双面海报",
+     "source": "cnBeta",
+     "url": "https://www.cnbeta.com.tw/articles/game/1585526.htm",
+     "published_at": 1794180203.0
+    }
+   ]
+  },
+  {
+   "text": "据彭博社报道，苹果公司已经调整了下一代操作系统的开发流程，包括iOS 28、iPadOS 28以及macOS 28",
+   "keyword": "",
+   "news_ids": [
+    "7a9168beaa9789fe"
+   ],
+   "refs": [
+    {
+     "id": "7a9168beaa9789fe",
+     "title": "苹果调整iOS 28等系统开发节奏：编程期延长 为新功能构思腾时间",
+     "source": "cnBeta",
+     "url": "https://www.cnbeta.com.tw/articles/tech/1585522.htm",
+     "published_at": 1794180107.0
+    }
+   ]
+  },
+  {
+   "text": "特斯拉将停产 Cybertruck 深圳在 APEC 前夕整顿非法市场 美国数据中心股持续遭抛售，大量建设项目被取消 京津冀三地消协组织敦促航司",
+   "keyword": "",
+   "news_ids": [
+    "f1e3c7a7f8998c57"
+   ],
+   "refs": [
+    {
+     "id": "f1e3c7a7f8998c57",
+     "title": "派早报：特斯拉将停产 Cybertruck",
+     "source": "少数派",
+     "url": "https://sspai.com/post/118805",
+     "published_at": 1794177716.0
+    }
+   ]
+  },
+  {
+   "text": "Article URL: https://chimera-vocal-synth",
+   "keyword": "",
+   "news_ids": [
+    "d7c13bdf635c2f9e"
+   ],
+   "refs": [
+    {
+     "id": "d7c13bdf635c2f9e",
+     "title": "Chimera Vocal Synth",
+     "source": "Hacker News",
+     "url": "https://chimera-vocal-synth.vercel.app/",
+     "published_at": 1794177363.0
+    }
+   ]
+  },
+  {
+   "text": "据最新披露文件显示，苹果公司在2026财年通过将约500亿美元利润经由新加坡进行财务安排，成功减少约27亿美元税务支出",
+   "keyword": "",
+   "news_ids": [
+    "5c007e154d482019"
+   ],
+   "refs": [
+    {
+     "id": "5c007e154d482019",
+     "title": "苹果借助新加坡税务优惠节省27亿美元税款 超越爱尔兰模式",
+     "source": "cnBeta",
+     "url": "https://www.cnbeta.com.tw/articles/tech/1585516.htm",
+     "published_at": 1794168482.0
+    }
+   ]
+  },
+  {
+   "text": "Article URL: https://packethound",
+   "keyword": "",
+   "news_ids": [
+    "32e1f369c7fca915"
+   ],
+   "refs": [
+    {
+     "id": "32e1f369c7fca915",
+     "title": "A Little Snitch for Windows",
+     "source": "Hacker News",
+     "url": "https://packethound.app/",
+     "published_at": 1794158167.0
+    }
+   ]
+  },
+  {
+   "text": "Article URL: https://www",
+   "keyword": "",
+   "news_ids": [
+    "b82a67391c960ec7"
+   ],
+   "refs": [
+    {
+     "id": "b82a67391c960ec7",
+     "title": "Top Astrophysicist Leaves U.S.",
+     "source": "Hacker News",
+     "url": "https://www.nytimes.com/2026/11/07/science/space/holley-bockelmann-astrophysicist-space-trump.html",
+     "published_at": 1794154658.0
+    }
+   ]
+  },
+  {
+   "text": "Article URL: https://cleantechnica",
+   "keyword": "",
+   "news_ids": [
+    "3e227c9c29484eeb"
+   ],
+   "refs": [
+    {
+     "id": "3e227c9c29484eeb",
+     "title": "Tesla Hasn't Had a Successful New Product Launch Since JB Straubel Stepped Down",
+     "source": "Hacker News",
+     "url": "https://cleantechnica.com/2026/11/07/tesla-hasnt-had-a-successful-new-product-launch-since-jb-straubel-stepped-down-as-cto/",
+     "published_at": 1794154062.0
+    }
+   ]
+  }
+ ],
+ "article": {
+  "title": "2026-11-09 新闻总结",
+  "paragraphs": [
+   {
+    "kind": "lead",
+    "text": "今天共收录 59 条新闻，来自 6 家媒体。把标题放在一起看，讨论主要集中在 AI 这几个方向上，其余消息更像是零散补充。"
+   },
+   {
+    "kind": "section",
+    "heading": "芯片",
+    "text": "先看「芯片」。美国政府批准向中国企业供应英伟达H200人工智能加速器的决定，另有 29 条消息指向同一话题。技术路线的胜负很少由一次发布会决定，接下来要看的是它能不能被更多团队低成本复用。",
+    "news_ids": [
+     "d7a54d05315c881a"
+    ],
+    "refs": [
+     {
+      "id": "d7a54d05315c881a",
+      "title": "调查发现美国批准向中国空壳企业供应英伟达H200芯片 注册地址空无一人",
+      "source": "cnBeta",
+      "url": "https://www.cnbeta.com.tw/articles/tech/1585514.htm",
+      "published_at": 1794159342.0
+     }
+    ]
+   },
+   {
+    "kind": "section",
+    "heading": "推出",
+    "text": "与此同时「推出」。近日网上流传《GTA6》实体版包装，其背面将本作描述为单人体验，未标注在线游玩。这类进展更像是把已有能力往工程化落地推了一步，真正的分水岭在于成本和可靠性能不能同时压下来。",
+    "news_ids": [
+     "de68bbe48e72535e"
+    ],
+    "refs": [
+     {
+      "id": "de68bbe48e72535e",
+      "title": "GTA6》实体包装未标多人功能 线上模式或延后推出",
+      "source": "cnBeta",
+      "url": "https://www.cnbeta.com.tw/articles/game/1585528.htm",
+      "published_at": 1794180215.0
+     }
+    ]
+   },
+   {
+    "kind": "section",
+    "heading": "显示",
+    "text": "另一个值得注意的方向是「显示」。英国零售商Smyths Toys的商品页面显示。对读者来说，值得留意的不是结论本身，而是它背后哪些前提正在被改变。",
+    "news_ids": [
+     "43e633bd6108ce75"
+    ],
+    "refs": [
+     {
+      "id": "43e633bd6108ce75",
+      "title": "英国零售商页面显示《GTA6》实体代码盒附A3双面海报",
+      "source": "cnBeta",
+      "url": "https://www.cnbeta.com.tw/articles/game/1585526.htm",
+      "published_at": 1794180203.0
+     }
+    ]
+   },
+   {
+    "kind": "section",
+    "heading": "编程",
+    "text": "相比之下「编程」。据彭博社报道，苹果公司已经调整了下一代操作系统的开发流程，包括iOS 28。这类进展更像是把已有能力往工程化落地推了一步，真正的分水岭在于成本和可靠性能不能同时压下来。",
+    "news_ids": [
+     "7a9168beaa9789fe"
+    ],
+    "refs": [
+     {
+      "id": "7a9168beaa9789fe",
+      "title": "苹果调整iOS 28等系统开发节奏：编程期延长 为新功能构思腾时间",
+      "source": "cnBeta",
+      "url": "https://www.cnbeta.com.tw/articles/tech/1585522.htm",
+      "published_at": 1794180107.0
+     }
+    ]
+   },
+   {
+    "kind": "glossary",
+    "items": [
+     {
+      "term": "Agent",
+      "desc": "智能体，能自己拆解任务、调用工具并连续执行的 AI 程序"
+     },
+     {
+      "term": "AI",
+      "desc": "人工智能，让机器完成识别、生成、判断等原本需要人做的任务"
+     }
+    ]
+   },
+   {
+    "kind": "outlook",
+    "text": "整体看，这个时段的新闻还处在「消息多、结论少」的阶段，与其急着下判断，不如盯住接下来一两周有没有可验证的后续动作。"
+   }
+  ],
+  "word_count": 473
+ },
+ "ai_enhanced": false,
+ "schema": 1,
+ "window_bj": {
+  "start": "2026-11-09 00:00",
+  "end": "2026-11-09 09:00"
+ }
+}
