@@ -1,8 +1,44 @@
 {
  "date": "2026-11-09",
- "generated_at": 1794199297.2356575,
- "count": 122,
+ "generated_at": 1794203812.1296833,
+ "count": 151,
  "items": [
+  {
+   "id": "28211de9e4cdace5",
+   "source": "InfoQ中文",
+   "title": "当 AI 在加速狂奔，什么反而应该“慢”下来？",
+   "url": "https://www.infoq.cn/article/Guys6YS7FsKUg8dLtMJx?utm_source=rss&utm_medium=article",
+   "summary": "点击查看原文>",
+   "published_at": 1794231701.0,
+   "published_bj": "2026-11-09 21:41"
+  },
+  {
+   "id": "a16afe8cfb755da2",
+   "source": "InfoQ中文",
+   "title": "每两家头部手机厂商就有一家选它：火山引擎如何成为 AI 手机助手的&#34;隐形底座&#34;？",
+   "url": "https://www.infoq.cn/article/icMBWWjE3LTzEY1tHKr8?utm_source=rss&utm_medium=article",
+   "summary": "点击查看原文>",
+   "published_at": 1794231623.0,
+   "published_bj": "2026-11-09 21:40"
+  },
+  {
+   "id": "31645f7ae8f9848e",
+   "source": "InfoQ中文",
+   "title": "开发者每周借助 AI 节约数十小时的比例在一年内从 68% 降至 26%",
+   "url": "https://www.infoq.cn/article/sdqHapplv45dQguTJ415?utm_source=rss&utm_medium=article",
+   "summary": "点击查看原文>",
+   "published_at": 1794230071.0,
+   "published_bj": "2026-11-09 21:14"
+  },
+  {
+   "id": "aa5a10695ac25200",
+   "source": "InfoQ中文",
+   "title": "得票最高的功能终于来了，OpenTofu 开始内置代码检查",
+   "url": "https://www.infoq.cn/article/jXBV6ib9g8g2Gw6kDaYh?utm_source=rss&utm_medium=article",
+   "summary": "点击查看原文>",
+   "published_at": 1794229200.0,
+   "published_bj": "2026-11-09 21:00"
+  },
   {
    "id": "9f9a0c7adb745535",
    "source": "InfoQ中文",
@@ -38,6 +74,231 @@
    "summary": "点击查看原文>",
    "published_at": 1794218400.0,
    "published_bj": "2026-11-09 18:00"
+  },
+  {
+   "id": "55389a01b5ab9edd",
+   "source": "IT之家",
+   "title": "乘联分会：10 月新能源乘用车出口 58.2 万辆同比增长 144.7%，比亚迪、奇瑞、吉利前三",
+   "url": "https://www.ithome.com/1/024/215.htm",
+   "summary": "IT之家 11 月 9 日消息，乘联分会今日公布数据，2026 年 10 月新能源乘用车出口 58.2 万辆，同比增长 144.7%，环比增长 3.9%。 报告指出， 新能源占乘用车出口 62.8% ，较去年同期增长 20 个百分点；其中纯电动占新能源出口的 61.7%（去年同期 62.6%），作为核心焦点的 A00+A0 级纯电动车占纯电动出口的 56.4%（IT之家注：去年同期 42.1%）。 伴随着中国新能源车的规模优势显现和市场需求的扩张，中国制造的新能源品牌产品越来越多地走出国门，在海外的认可度持续提升。其中狭义插混占新能源出口的 33.7%（去年同期 34.7%），增程占新能源出口",
+   "published_at": 1794203624.0,
+   "published_bj": "2026-11-09 13:53"
+  },
+  {
+   "id": "56060c507e13d42d",
+   "source": "cnBeta",
+   "title": "NVIDIA遭遇创立以来最严峻治理考验：4.5万亿美元AI巨头面临创始人危机",
+   "url": "https://www.cnbeta.com.tw/articles/tech/1585558.htm",
+   "summary": "全球人工智能芯片龙头NVIDIA近日陷入一场备受关注的企业治理风波。围绕创始人兼首席执行官黄仁勋的争议事件持续发酵，不仅让这家市值约4.5万亿美元的科技巨头站上舆论风口，也引发资本市场对“创始人不可替代性”的广泛讨论。 阅读全文",
+   "published_at": 1794203508.0,
+   "published_bj": "2026-11-09 13:51"
+  },
+  {
+   "id": "14c49a714f93718e",
+   "source": "cnBeta",
+   "title": "腾讯首席AI科学家发出警告：AI即将掌握生物学 安全风险或比网络攻击更难管控",
+   "url": "https://www.cnbeta.com.tw/articles/tech/1585556.htm",
+   "summary": "腾讯首席AI科学家、前OpenAI研究员姚顺雨近日在香港出席一场科学研讨会时表示，前沿人工智能模型正快速向生物学领域迈进，其能力很快将达到可能造成现实危害的临界点。这一变化虽然有望推动新药研发和医学创新，但同时也可能带来全新的安全挑战，引发业界对于生物安全风险的关注。 阅读全文",
+   "published_at": 1794203437.0,
+   "published_bj": "2026-11-09 13:50"
+  },
+  {
+   "id": "8fd3376cc6c1bf10",
+   "source": "cnBeta",
+   "title": "微软CEO畅想2000万AI智能体与20万员工协同工作",
+   "url": "https://www.cnbeta.com.tw/articles/tech/1585554.htm",
+   "summary": "微软首席执行官萨提亚·纳德拉（Satya Nadella）近日有关人工智能未来工作模式的一段访谈重新受到关注。他提出，微软未来可能拥有200万甚至2000万个AI智能体，与约20万名人类员工共同工作。这一设想恰好出现在微软向约6万名员工提供自愿离职方案不到两周之后，引发外界对人工智能是否正在改变微软人员结构的讨论。 阅读全文",
+   "published_at": 1794203379.0,
+   "published_bj": "2026-11-09 13:49"
+  },
+  {
+   "id": "853708bfa93e0b24",
+   "source": "cnBeta",
+   "title": "《时之笛》Switch 2重制版现身Windows原生移植 支持5K分辨率与最高240帧",
+   "url": "https://www.cnbeta.com.tw/articles/game/1585552.htm",
+   "summary": "开发者tangerineturtle1发布名为NX2navi的Windows移植项目，将11月5日推出的Switch 2版《塞尔达传说：时之笛》通过静态重编译转换成x86-64原生程序，并使用Vulkan渲染。它不需要在游玩时模拟Switch 2硬件，而是在用户电脑上预先生成可运行的PC版本。 阅读全文",
+   "published_at": 1794203312.0,
+   "published_bj": "2026-11-09 13:48"
+  },
+  {
+   "id": "c2e75f52c346cab1",
+   "source": "cnBeta",
+   "title": "马斯克Terafab半导体工厂野心再升级 2032年目标月产70万片存储晶圆",
+   "url": "https://www.cnbeta.com.tw/articles/tech/1585550.htm",
+   "summary": "埃隆·马斯克旗下的Terafab半导体制造项目正在进一步扩大规划规模。据Wccftech 11月8日报道，特斯拉与SpaceX组建的半导体合资企业Terafab，已经向半导体设备供应商透露，计划到2032年实现每月100万片晶圆的生产能力。其中，存储芯片将占据绝大部分，目标达到每月70万片，另外30万片用于生产逻辑芯片。 阅读全文",
+   "published_at": 1794203275.0,
+   "published_bj": "2026-11-09 13:47"
+  },
+  {
+   "id": "02029c800ed9f617",
+   "source": "cnBeta",
+   "title": "华擎展示英特尔下一代至强平台主板：支持4TB DDR5内存 瞄准Diamond Rapids处理器",
+   "url": "https://www.cnbeta.com.tw/articles/tech/1585548.htm",
+   "summary": "在近期举行的开放计算项目全球峰会（OCP Global Summit）上，服务器硬件厂商华擎Rack（ASRock Rack）首次展示了一款面向英特尔下一代Xeon 7“Diamond Rapids”处理器平台的早期服务器主板，为外界提前揭开了未来高性能数据中心平台的部分技术细节。 阅读全文",
+   "published_at": 1794203247.0,
+   "published_bj": "2026-11-09 13:47"
+  },
+  {
+   "id": "4ac4ac649cfcea1a",
+   "source": "cnBeta",
+   "title": "NVIDIA董事会调查或引发AI行业震荡 耶鲁大学教授预测黄仁勋去留概率约为五五开",
+   "url": "https://www.cnbeta.com.tw/articles/tech/1585546.htm",
+   "summary": "NVIDIA首席执行官黄仁勋正面临职业生涯中一次极为严峻的考验。随着NVIDIA董事会宣布对其与涉嫌中国情报人员Alice Huang之间的关系启动独立调查，外界开始关注这场风波是否会最终导致这位全球最具影响力的科技企业领导人之一离职。 阅读全文",
+   "published_at": 1794203176.0,
+   "published_bj": "2026-11-09 13:46"
+  },
+  {
+   "id": "95514dc7913ff66e",
+   "source": "IT之家",
+   "title": "“喵哈”一下：ATK 公布《宝可梦》新叶喵款 A9 Mini 大师版 + 鼠标",
+   "url": "https://www.ithome.com/1/024/214.htm",
+   "summary": "IT之家 11 月 9 日消息，ATK 今日 12:00 公布了 A9 Mini 大师版 + 鼠标的《宝可梦》联名新叶喵款。该鼠标以第九世代的标志性宝可梦之一为设计元素， 整体为浅深双绿色 ， 装饰以新叶喵形象 ， 随附主题贴纸 。 ATK A9 Mini 大师版 + 鼠标新叶喵款采用中小手对称模具，三维 118.4 × 61.2 ×38.6 (mm)；基于 Nordic nRF54LM20 主控、原相 PAW3955 光学传感器，搭配 ATK 定制光学微动、TTC 金轮编码器。 其在 USB-C 和 2.4GHz 模式下均支持 8kHz 回报率，按键延迟低至 0.174ms；集成 200mA",
+   "published_at": 1794203129.0,
+   "published_bj": "2026-11-09 13:45"
+  },
+  {
+   "id": "4bc6374ea1657e75",
+   "source": "cnBeta",
+   "title": "格陵兰冰盖曾大幅后退近百公里 远古暖期留下气候变化警示",
+   "url": "https://www.cnbeta.com.tw/articles/science/1585544.htm",
+   "summary": "最新研究显示，大约41.6万年前，格陵兰岛西北部的冰盖曾发生显著退缩，其边缘位置比今天向内陆后退超过97公里。这一发现来自埋藏在冰层深处的古老沉积物，为科学家了解气候变暖如何影响格陵兰冰盖提供了重要线索。 阅读全文",
+   "published_at": 1794203014.0,
+   "published_bj": "2026-11-09 13:43"
+  },
+  {
+   "id": "eacefbacf3a6d402",
+   "source": "IT之家",
+   "title": "OPPO Pad Air6 平板配置曝光：12.1 英寸 LCD 屏 + 天玑 7360 芯片， 11 月 16 日发布",
+   "url": "https://www.ithome.com/1/024/213.htm",
+   "summary": "IT之家 11 月 9 日消息，博主 @体验more 今日曝光了 OPPO Pad Air6 平板配置，这款新品将于 11 月 16 日 19:00 发布。 据爆料，新品搭载 天玑 7360 处理器 ，搭配 LPDDR5X + UFS3.1，提供 8GB+128GB/8GB+256GB/12GB+256GB 三个规格。机身正面配备 12.1 英寸 2.8K 120Hz LCD 大屏，提供奇遇蓝 / 星光银两个配色。 此外，新机内置 10050mAh 电池 ，支持 33W 快充，前置 8MP 镜头 + 后置 8MP 镜头，配备四扬声器以及 USB2.0 接口，机身厚度为 6.89mm、重量为 6",
+   "published_at": 1794202996.0,
+   "published_bj": "2026-11-09 13:43"
+  },
+  {
+   "id": "443ea74bc2118a19",
+   "source": "cnBeta",
+   "title": "加拿大冰帽曾扩张约2000年 气候变暖或中断下一次冰期开端",
+   "url": "https://www.cnbeta.com.tw/articles/science/1585542.htm",
+   "summary": "一项发表于《科学》的研究提出，地球下一次冰期可能在约2000年前已经开始萌芽，但人为造成的气候变暖后来逆转了北极地区冰层扩张。研究人员分析加拿大巴芬岛的巴恩斯冰帽后发现，它作为劳伦泰德冰盖最后一块残存部分，曾在经历长期萎缩后重新扩大，直到约1960年夏季气温上升，冰帽开始退缩。 阅读全文",
+   "published_at": 1794202987.0,
+   "published_bj": "2026-11-09 13:43"
+  },
+  {
+   "id": "ec63b8f1cf3d8bd8",
+   "source": "cnBeta",
+   "title": "科学家从7000年前的皮革中提取出古代DNA 与现今西班牙山羊仍存在遗传联系",
+   "url": "https://www.cnbeta.com.tw/articles/science/1585540.htm",
+   "summary": "一块保存了约7000年的古代山羊皮革，正在帮助科学家重新认识欧洲新石器时代的畜牧业和皮革加工技术。研究人员成功从这件出土于西班牙南部洞穴的古代皮革中提取出DNA，并发现它与今天生活在西班牙北部的某些山羊品种具有密切的遗传联系。这意味着，一条源自新石器时代的山羊遗传谱系，可能已经在伊比利亚半岛延续了数千年。 阅读全文",
+   "published_at": 1794202947.0,
+   "published_bj": "2026-11-09 13:42"
+  },
+  {
+   "id": "ed12a245a12ebb96",
+   "source": "cnBeta",
+   "title": "日本家电巨头爱丽思欧雅玛遭网络攻击 770万用户个人信息可能泄露",
+   "url": "https://www.cnbeta.com.tw/articles/tech/1585538.htm",
+   "summary": "日本知名家电及家居用品制造商爱丽思欧雅玛（Iris Ohyama）近日披露一起重大数据安全事件。该公司旗下官方网上商城Iris Plaza遭遇网络攻击，攻击者非法访问了公司使用的第三方云服务，导致约770万名用户的个人信息可能被窃取或查看。目前，公司已经暂停相关网站及部分关联服务，并正在调查事件的具体影响范围。 阅读全文",
+   "published_at": 1794202798.0,
+   "published_bj": "2026-11-09 13:39"
+  },
+  {
+   "id": "f56caf39d4881982",
+   "source": "cnBeta",
+   "title": "中国天宫空间站创造超低温新纪录：约2万枚原子被冷却至绝对零度以上97亿分之一度",
+   "url": "https://www.cnbeta.com.tw/articles/science/1585536.htm",
+   "summary": "中国科学家在天宫空间站完成的一项量子物理实验，创造了迄今为止人类实现的最低温度纪录。研究人员成功将约2万枚铷原子冷却至接近绝对零度的极端状态，其等效温度估计仅为绝对零度以上9.7皮开尔文（0.0000000000097开尔文），比此前保持的38皮开尔文纪录低了约四倍。 阅读全文",
+   "published_at": 1794202766.0,
+   "published_bj": "2026-11-09 13:39"
+  },
+  {
+   "id": "474ef2d096f01497",
+   "source": "IT之家",
+   "title": "夸克网盘 11.11 继续发车： SVIP 低至 7 元 / 月，支持每月 100 次离线下载",
+   "url": "https://www.ithome.com/1/024/212.htm",
+   "summary": "夸克 SVIP 年卡官方定价 300 元，日常大促价 158 元 / 年、25 元 / 月。 今日 11.11 大促双年卡 + 月卡仅需 198 元（共 25 个月），加赠 keep 会员双月卡。 折合 7.9 元 / 月（算上 keep 会员则 7 元 / 月），95 元 / 年： 天猫 夸克网盘 SVIP 超级会员 2 年卡 赠月卡 +keep 双月卡 券后 198 元 直达链接 年卡今日折后 110 元，加赠 14 天，折合 8.7 元 / 月、104 元 / 年： 天猫 夸克网盘 SVIP 超级会员 年卡 加赠 14 天 券后 110 元 直达链接 会员权益 天猫 夸克网盘 SVIP ",
+   "published_at": 1794202735.0,
+   "published_bj": "2026-11-09 13:38"
+  },
+  {
+   "id": "9f966c3c602813b2",
+   "source": "cnBeta",
+   "title": "法国公布2040年代未来战舰概念：激光武器、电磁轨道炮与无人集群成核心战力",
+   "url": "https://www.cnbeta.com.tw/articles/tech/1585534.htm",
+   "summary": "法国造船企业海军集团（Naval Group）近日公开展示了一款面向2040年代海战环境设计的新一代战舰概念方案“SCX 26”。这艘未来舰艇采用罕见的双舰岛结构设计，并整合激光武器、电磁轨道炮以及大规模无人作战系统，旨在应对未来海上战场日益严峻的导弹饱和攻击和无人机蜂群威胁。 阅读全文",
+   "published_at": 1794202716.0,
+   "published_bj": "2026-11-09 13:38"
+  },
+  {
+   "id": "2c2e5ba07f87f00b",
+   "source": "cnBeta",
+   "title": "AMD显卡驱动程序被爆严重问题 每月可写入13TB数据影响固态硬盘寿命",
+   "url": "https://www.cnbeta.com.tw/articles/tech/1585532.htm",
+   "summary": "近期部分 AMD 用户发现即便电脑处在空闲状态，显卡驱动的后台进程也会持续向系统盘写入数据。有用户观察到的情况是 AMD 显卡驱动程序后台进程以每秒 5MB 的速率进行数据写入，其他用户则观察到每秒写入数百 KB 到 1MB 以上的数据。 阅读全文",
+   "published_at": 1794202596.0,
+   "published_bj": "2026-11-09 13:36"
+  },
+  {
+   "id": "4fa4ba3b10a249cd",
+   "source": "IT之家",
+   "title": "乘联分会：10 月全国乘用车市场零售 164.3 万辆，同比下降 27.1%",
+   "url": "https://www.ithome.com/1/024/211.htm",
+   "summary": "IT之家 11 月 9 日消息，乘联分会今日发布 2026 年 10 月份全国乘用车市场分析。2026 年 10 月全国乘用车市场零售 164.3 万辆，同比下降 27.1%，环比增长 1.5%；1-10 月乘用车累计零售 1,497.8 万辆，同比下降 22.3%。 数据显示， 10 月燃油车零售同比下降 45% ，其中纯燃油车同比下降 51%，普通混合动力车同比增长 28%。燃油车中自主同比下降 46%，主流合资同比下降 46%，豪华同比下降 37%，均无差别地受到高油价剧烈冲击。 10 月新能源乘用车市场零售 110.9 万辆，同比下降 13.7%，环比增长 2.3%；1-10 月新能源",
+   "published_at": 1794202550.0,
+   "published_bj": "2026-11-09 13:35"
+  },
+  {
+   "id": "8f0315062c48c346",
+   "source": "cnBeta",
+   "title": "开发者玩梗编写内存检测脚本 检测电脑剩余内存并发邮件向萨姆奥尔特曼汇报",
+   "url": "https://www.cnbeta.com.tw/articles/tech/1585530.htm",
+   "summary": "萨姆奥尔特曼此前关于个人电脑内存利用率的言论引起争议，奥尔特曼称将大量内存放在个人电脑上是浪费，因为这些内存大多数时间都是空闲状态。而 AI 数据中心急需更多内存，在内存短缺的背景下，将内存集中到云端数据中心才可以提高效率。 阅读全文",
+   "published_at": 1794202502.0,
+   "published_bj": "2026-11-09 13:35"
+  },
+  {
+   "id": "ed596e153cae36a4",
+   "source": "TechCrunch",
+   "title": "Is Jensen Huang’s job on the line? Yale’s Jeffrey Sonnenfeld estimates it’s “about a 50-50”",
+   "url": "https://techcrunch.com/2026/11/08/is-jensen-huangs-job-on-the-line-yales-jeffrey-sonnenfeld-estimates-its-about-a-50-50/",
+   "summary": "Nvidia’s board is investigating Jensen Huang over his relationship with a suspected Chinese spy, and Yale’s Jeffrey Sonnenfeld thinks it’s roughly a coin flip whether Huang stays on as CEO.",
+   "published_at": 1794201989.0,
+   "published_bj": "2026-11-09 13:26"
+  },
+  {
+   "id": "ef0e008a298dbeea",
+   "source": "IT之家",
+   "title": "搜狐 2026 年第三季度总收入 1.33 亿美元同比下降 26%，净亏损 1500 万美元由盈转亏",
+   "url": "https://www.ithome.com/1/024/176.htm",
+   "summary": "IT之家 11 月 9 日消息，搜狐公司今日公布了截至 2026 年 9 月 30 日未经审计的 2026 年第三季度财务报告。 总收入为 1.33 亿美元 （IT之家注：现汇率约合 8.88 亿元人民币） ，较 2025 年同期下降 26%，较上季度下降 2%。 营销服务收入为 1,500 万美元 （现汇率约合 1 亿元人民币） ，较 2025 年同期增长 10%，较上季度下降 2%。 在线游戏收入为 1.14 亿美元 （现汇率约合 7.61 亿元人民币） ，较 2025 年同期下降 30%，较上季度下降 2%。 归于搜狐公司的美国通用会计准则净亏损为 1,500 万美元 （现汇率约合 1 ",
+   "published_at": 1794201432.0,
+   "published_bj": "2026-11-09 13:17"
+  },
+  {
+   "id": "96bf8a2e9d62ef63",
+   "source": "IT之家",
+   "title": "IDC：2026 年全球灵巧手出货量约 2.5 万台，中国厂商占比超 85%",
+   "url": "https://www.ithome.com/1/024/146.htm",
+   "summary": "IT之家 11 月 9 日消息，IDC 今日发布报告，随着人形机器人与具身智能产业发展，灵巧手的竞争已从自由度、抓握力等硬件参数，延伸至精细操作、感知控制及与具身智能模型的协同能力。当前灵巧手核心需求集中在人形机器人配套、科研教育与具身智能数据采集方向，工业等规模化应用仍处于探索阶段。 IDC 预计， 2026 年全球灵巧手出货量约 2.5 万台 ，该数据不含厂商向自有机器人产品的内部配套出货； 其中中国厂商出货量占全球市场的比例预计超过 85% ，在全球灵巧手市场占据重要地位。 报告称，目前灵巧手行业仍处于发展初期，后续增长将受机器人应用进展、产品成本及商业化落地速度等因素共同影响。 从硬件",
+   "published_at": 1794200881.0,
+   "published_bj": "2026-11-09 13:08"
+  },
+  {
+   "id": "0105bce9b0dfd60d",
+   "source": "IT之家",
+   "title": "美国 NASA 新招一批宇航员：为登月任务铺路，上一批 1/800 概率入选",
+   "url": "https://www.ithome.com/1/024/143.htm",
+   "summary": "IT之家 11 月 9 日消息，据美联社当地时间 11 月 8 日报道，为帮助实施阿尔忒弥斯项目， 美国航空航天局 NASA 正在接受一批新的宇航员申请 。 NASA 官员于当地时间周六在肯尼迪航天中心举办的航空展上宣布了这一消息，该活动旨在推广月球探索以及航空和技术的进步。 NASA 最近一次招募新宇航员是在两年前，共有超过 8,000 人申请，最后只有 10 个人在 2025 年 9 月进入最终筛选名单。 IT之家从报道获悉， NASA 目前仅有 32 名现役宇航员 ，需要招募更多新成员，从而尽快将人类的脚步扩展到近地轨道之外。今年 4 月的阿尔忒弥斯二号乘组进行了绕月飞行，拉开了美国重回",
+   "published_at": 1794200403.0,
+   "published_bj": "2026-11-09 13:00"
+  },
+  {
+   "id": "86001b17678b7caa",
+   "source": "IT之家",
+   "title": "OPPO Pad Air6 平板 11 月 16 日发布：10050mAh 大电池，2.8K 120Hz 屏幕",
+   "url": "https://www.ithome.com/1/024/139.htm",
+   "summary": "IT之家 11 月 9 日消息，OPPO 官方今天在微博宣布， OPPO Pad Air6 平板将于 11 月 16 日 19:00 发布 。新机为无纸化学习而生，号称“超能学，超护眼，超耐用”。 IT之家注意到，这款平板电脑已经在京东开启预约。现阶段预约并在发布后购机可获赠有线充电版手写笔、智能保护壳，认证学生还可优惠 100 元。 京东 OPPO Pad Air6 待公布 立即预约 商品页显示，这款平板将配备 10050mAh 大电池，拥有新一代明眸柔光屏，分辨率为 2.8K， 支持 120Hz 高刷 。 截至目前，OPPO 官方暂未公布这款平板的详细参数，感兴趣的小伙伴可以关注IT之家后",
+   "published_at": 1794199877.0,
+   "published_bj": "2026-11-09 12:51"
   },
   {
    "id": "44efa2e70fbb6532",
