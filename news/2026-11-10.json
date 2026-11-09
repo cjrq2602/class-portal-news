@@ -1,7 +1,7 @@
 {
  "date": "2026-11-10",
- "generated_at": 1794245691.0172982,
- "count": 17,
+ "generated_at": 1794248788.029902,
+ "count": 22,
  "items": [
   {
    "id": "503a37f74fdc91a3",
@@ -11,6 +11,42 @@
    "summary": "点击查看原文>",
    "published_at": 1794248672.0,
    "published_bj": "2026-11-10 02:24"
+  },
+  {
+   "id": "89585fe7feb6fad4",
+   "source": "TechCrunch",
+   "title": "Jensen Huang’s affair with alleged Chinese spy puts Nvidia’s China ambitions under scrutiny",
+   "url": "https://techcrunch.com/2026/11/09/jensen-huangs-affair-with-alleged-chinese-spy-puts-nvidias-china-ambitions-under-scrutiny/",
+   "summary": "Jensen Huang’s alleged affair with a suspected Chinese spy threatens to complicate Nvidia’s lobbying efforts to loosen U.S. chip export restrictions and maintain access to China’s lucrative AI market.",
+   "published_at": 1794247792.0,
+   "published_bj": "2026-11-10 02:09"
+  },
+  {
+   "id": "eaf0b63a72e19b1d",
+   "source": "TechCrunch",
+   "title": "Meta releases Muse Ember, a new lightweight model for agent execution",
+   "url": "https://techcrunch.com/2026/11/09/meta-releases-muse-ember-a-new-lightweight-model-for-agent-execution/",
+   "summary": "At 10 cents per million input tokens, Ember is significantly cheaper than frontier competitors like Haiku and Luna.",
+   "published_at": 1794247200.0,
+   "published_bj": "2026-11-10 02:00"
+  },
+  {
+   "id": "1d101f8f312f8aa0",
+   "source": "Hacker News",
+   "title": "When will this stop? The Raspberry Pi 5 16GB SBC now sells for $385",
+   "url": "https://www.cnx-software.com/2026/11/03/when-will-this-stop-the-raspberry-pi-5-16gb-sbc-now-sells-for-385/",
+   "summary": "Article URL: https://www.cnx-software.com/2026/11/03/when-will-this-stop-the-raspberry-pi-5-16gb-sbc-now-sells-for-385/ Comments URL: https://news.ycombinator.com/item?id=50428801 Points: 47 # Comments: 20",
+   "published_at": 1794246175.0,
+   "published_bj": "2026-11-10 01:42"
+  },
+  {
+   "id": "ca1c2a3a96eb213e",
+   "source": "Hacker News",
+   "title": "Going back two years on Hacker News is like entering another, better universe",
+   "url": "https://news.ycombinator.com/front?day=2024-11-08",
+   "summary": "Article URL: https://news.ycombinator.com/front?day=2024-11-08 Comments URL: https://news.ycombinator.com/item?id=50428724 Points: 17 # Comments: 6",
+   "published_at": 1794245780.0,
+   "published_bj": "2026-11-10 01:36"
   },
   {
    "id": "138e6ce79085a23a",
@@ -101,6 +137,15 @@
    "summary": "点击查看原文>",
    "published_at": 1794243359.0,
    "published_bj": "2026-11-10 00:55"
+  },
+  {
+   "id": "a323055e473950b3",
+   "source": "Hacker News",
+   "title": "Show HN: DBDelve – Open-Source DB Client Made with Rust and GPUI",
+   "url": "https://news.ycombinator.com/item?id=50427934",
+   "summary": "Hi HN, I’m Shayan and a few months ago I started building a DB Client DBDelve with a focus on performance and just making something that feels good to use (in the spirit of Zed, Ghostty, and other tools that just feel pleasant to use). For my workflow I’ve always looked for performance, especially s",
+   "published_at": 1794242198.0,
+   "published_bj": "2026-11-10 00:36"
   },
   {
    "id": "607a01fb63b61dbe",
