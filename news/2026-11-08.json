@@ -1,7 +1,7 @@
 {
  "date": "2026-11-08",
- "generated_at": 1794191588.3501258,
- "count": 263,
+ "generated_at": 1794194990.3654656,
+ "count": 264,
  "items": [
   {
    "id": "c6ce8050955e5c6e",
@@ -1991,6 +1991,15 @@
    "summary": "Article URL: https://eli.thegreenplace.net/2025/making-any-integer-with-four-2s/ Comments URL: https://news.ycombinator.com/item?id=50408713 Points: 10 # Comments: 3",
    "published_at": 1794091138.0,
    "published_bj": "2026-11-08 06:38"
+  },
+  {
+   "id": "4dcc1067db50aae5",
+   "source": "Hacker News",
+   "title": "Are big problems more difficult to solve?",
+   "url": "https://paulitaylor.com/2026/09/11/are-big-problems-really-more-difficult-to-solve/",
+   "summary": "Article URL: https://paulitaylor.com/2026/09/11/are-big-problems-really-more-difficult-to-solve/ Comments URL: https://news.ycombinator.com/item?id=50408630 Points: 4 # Comments: 0",
+   "published_at": 1794090270.0,
+   "published_bj": "2026-11-08 06:24"
   },
   {
    "id": "f1c980925686a87e",
