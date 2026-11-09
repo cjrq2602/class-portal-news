@@ -1,8 +1,26 @@
 {
  "date": "2026-11-10",
- "generated_at": 1794259735.1192515,
- "count": 47,
+ "generated_at": 1794263088.8809347,
+ "count": 50,
  "items": [
+  {
+   "id": "ed732fb92c6dde1b",
+   "source": "TechCrunch",
+   "title": "The race is on to sue Nvidia",
+   "url": "https://techcrunch.com/2026/11/09/the-race-is-on-to-sue-nvidia/",
+   "summary": "Nvidia’s stock slid more than 4% after its board opened an investigation into Jensen Huang’s relationship with a suspected Chinese spy, and one securities law expert says the company’s earlier insistence that it was all “normal” could turn into a very expensive problem.",
+   "published_at": 1794263022.0,
+   "published_bj": "2026-11-10 06:23"
+  },
+  {
+   "id": "e23f6a1f3b4255ea",
+   "source": "Hacker News",
+   "title": "Supply chain attack on Qubole customers",
+   "url": "https://sentra.io/blog/breaches/inside-the-qubole-supply-chain-attack",
+   "summary": "Article URL: https://sentra.io/blog/breaches/inside-the-qubole-supply-chain-attack Comments URL: https://news.ycombinator.com/item?id=50432147 Points: 9 # Comments: 4",
+   "published_at": 1794258446.0,
+   "published_bj": "2026-11-10 05:07"
+  },
   {
    "id": "ade78cd073feff48",
    "source": "TechCrunch",
@@ -38,6 +56,15 @@
    "summary": "Article URL: https://postalpro.usps.com/zcb Comments URL: https://news.ycombinator.com/item?id=50431058 Points: 149 # Comments: 58",
    "published_at": 1794254339.0,
    "published_bj": "2026-11-10 03:58"
+  },
+  {
+   "id": "26d7da94da51407c",
+   "source": "Hacker News",
+   "title": "Parking-app convenience fees in 312 U.S. cities (median $0.35 per session)",
+   "url": "https://parkgraph.com/parking-app-fees",
+   "summary": "Article URL: https://parkgraph.com/parking-app-fees Comments URL: https://news.ycombinator.com/item?id=50430991 Points: 22 # Comments: 7",
+   "published_at": 1794254153.0,
+   "published_bj": "2026-11-10 03:55"
   },
   {
    "id": "24f435178a268ce2",
