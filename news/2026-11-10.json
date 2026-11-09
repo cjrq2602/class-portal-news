@@ -1,8 +1,71 @@
 {
  "date": "2026-11-10",
- "generated_at": 1794253051.394205,
- "count": 35,
+ "generated_at": 1794256233.8774538,
+ "count": 43,
  "items": [
+  {
+   "id": "b6de606a58283385",
+   "source": "TechCrunch",
+   "title": "Jensen Huang pulls out of ElevenLabs Summit amid Nvidia controversy",
+   "url": "https://techcrunch.com/2026/11/09/jensen-huang-pulls-out-of-elevenlabs-summit-amid-nvidia-controversy/",
+   "summary": "The Nvidia CEO also pulled out of an Anthropic event earlier.",
+   "published_at": 1794254946.0,
+   "published_bj": "2026-11-10 04:09"
+  },
+  {
+   "id": "24f435178a268ce2",
+   "source": "cnBeta",
+   "title": "Anthropic发布Claude Fable 5.2和Mythos 5.2：速度提升30% API价格降20%",
+   "url": "https://www.cnbeta.com.tw/articles/tech/1585668.htm",
+   "summary": "Anthropic于11月9日正式推出新一代旗舰人工智能模型Claude Fable 5.2和Claude Mythos 5.2。新版本重点提升了编程、逻辑推理和视觉理解能力，同时改善了模型的表达质量。根据Anthropic公布的数据，两款模型的输出速度最高比上一代快30%，而API调用价格则降低了20%。 阅读全文",
+   "published_at": 1794254058.0,
+   "published_bj": "2026-11-10 03:54"
+  },
+  {
+   "id": "33d5be26da3cfeb8",
+   "source": "cnBeta",
+   "title": "苹果将在土耳其设立美国以外首个先进制造中心 扩大开发者教育投资",
+   "url": "https://www.cnbeta.com.tw/articles/tech/1585666.htm",
+   "summary": "苹果公司宣布将在土耳其启动一项多年投资计划，通过建设多座开发者学院及先进制造培训设施，进一步扩大其在教育和产业培训领域的布局。该计划共涵盖七个培训与开发机构，包括五所苹果开发者学院、位于伊斯坦布尔的开发者中心，以及位于安卡拉的先进制造中心。 阅读全文",
+   "published_at": 1794253955.0,
+   "published_bj": "2026-11-10 03:52"
+  },
+  {
+   "id": "103d256f15e36133",
+   "source": "cnBeta",
+   "title": "法国将导致超市冷藏设备瘫痪的网络攻击归咎于伊朗革命卫队",
+   "url": "https://www.cnbeta.com.tw/articles/tech/1585664.htm",
+   "summary": "法国公开指责伊朗对近期发生的一系列网络攻击负责。这些攻击导致全法数百家超市的冷藏设备瘫痪，引发混乱。“这次攻击的责任在于伊朗伊斯兰革命卫队，”法国外交部长Jean-Noel Barrot周一在巴黎表示。法国直接将网络攻击归咎于外国势力的情况并不多见。 阅读全文",
+   "published_at": 1794253887.0,
+   "published_bj": "2026-11-10 03:51"
+  },
+  {
+   "id": "3c030b5757e57ec3",
+   "source": "TechCrunch",
+   "title": "YouTube streaming data returns to Billboard charts, ending major disagreement",
+   "url": "https://techcrunch.com/2026/11/09/youtube-streaming-data-returns-to-billboard-charts-ending-major-disagreement/",
+   "summary": "YouTube will resume sharing streaming data with Billboard in 2027 after changes to the chart formula give more weight to free, ad-supported music streams.",
+   "published_at": 1794253181.0,
+   "published_bj": "2026-11-10 03:39"
+  },
+  {
+   "id": "c4c925d3a1c015c6",
+   "source": "Hacker News",
+   "title": "CUI – Native UI components for C",
+   "url": "https://yappologistic.github.io/CUI/",
+   "summary": "Article URL: https://yappologistic.github.io/CUI/ Comments URL: https://news.ycombinator.com/item?id=50430621 Points: 27 # Comments: 3",
+   "published_at": 1794252916.0,
+   "published_bj": "2026-11-10 03:35"
+  },
+  {
+   "id": "8f38d149807fd0ce",
+   "source": "Hacker News",
+   "title": "Iran was behind cyber-attack on French supermarket freezers, Paris says",
+   "url": "https://www.theguardian.com/world/2026/nov/09/france-blames-irans-revolutionary-guards-for-cyber-attacks-on-supermarket-fridges",
+   "summary": "Article URL: https://www.theguardian.com/world/2026/nov/09/france-blames-irans-revolutionary-guards-for-cyber-attacks-on-supermarket-fridges Comments URL: https://news.ycombinator.com/item?id=50430585 Points: 17 # Comments: 7",
+   "published_at": 1794252789.0,
+   "published_bj": "2026-11-10 03:33"
+  },
   {
    "id": "41bf2931c747d949",
    "source": "TechCrunch",
@@ -119,6 +182,15 @@
    "summary": "Jensen Huang’s alleged affair with a suspected Chinese spy threatens to complicate Nvidia’s lobbying efforts to loosen U.S. chip export restrictions and maintain access to China’s lucrative AI market.",
    "published_at": 1794247792.0,
    "published_bj": "2026-11-10 02:09"
+  },
+  {
+   "id": "6ec39ea5da2a5f16",
+   "source": "Hacker News",
+   "title": "Show HN: STE80 Humanizer – de-AI text by writing 80% of the way to ASD-STE100",
+   "url": "https://github.com/Dodaios/ste80-humanizer",
+   "summary": "Article URL: https://github.com/Dodaios/ste80-humanizer Comments URL: https://news.ycombinator.com/item?id=50429144 Points: 9 # Comments: 1",
+   "published_at": 1794247544.0,
+   "published_bj": "2026-11-10 02:05"
   },
   {
    "id": "eaf0b63a72e19b1d",

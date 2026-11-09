@@ -1,6 +1,6 @@
 {
  "date": "2026-11-09",
- "generated_at": 1794253051.3976789,
+ "generated_at": 1794256233.8802207,
  "count": 400,
  "items": [
   {
@@ -110,6 +110,15 @@
    "summary": "IT之家 11 月 9 日消息，当前，欧洲政策制定者希望汽车电池更多地在本土生产。然而由于欧洲制造的电池成本更高， 增加的费用最终很可能由购车者承担 。 当地时间 7 日，据外媒 insideevs 报道，布鲁塞尔智库布鲁盖尔今年 9 月发表的一份报告提出，旨在保护欧洲现有汽车制造商的政策，可能最终 让消费者和纳税人为此买单 。 如果规定汽车必须使用欧盟生产的电芯，每千瓦时的成本可能 从 50 欧元（IT之家注：现汇率约合 372.3 元人民币）上涨至 85 欧元 （现汇率约合 632.9 元人民币） 。一辆配备 60kWh 电池的汽车，仅电池成本就 可能增加 2,100 欧元 （现汇率约合 ",
    "published_at": 1794237188.0,
    "published_bj": "2026-11-09 23:13"
+  },
+  {
+   "id": "1154adbf6019e261",
+   "source": "Hacker News",
+   "title": "On Being an Engineer in 2026",
+   "url": "https://twitter.com/shaharglazner/status/2119796029256032278",
+   "summary": "Article URL: https://twitter.com/shaharglazner/status/2119796029256032278 Comments URL: https://news.ycombinator.com/item?id=50426681 Points: 16 # Comments: 6",
+   "published_at": 1794236843.0,
+   "published_bj": "2026-11-09 23:07"
   },
   {
    "id": "1baf692bff2185a0",
@@ -3593,15 +3602,6 @@
    "summary": "Article URL: https://www.spacex.com/launches/starship-flight-15 Comments URL: https://news.ycombinator.com/item?id=50416471 Points: 14 # Comments: 3",
    "published_at": 1794167386.0,
    "published_bj": "2026-11-09 03:49"
-  },
-  {
-   "id": "f2818095be9563dd",
-   "source": "Hacker News",
-   "title": "The Web Is More Than Enough, by Paul Ford",
-   "url": "https://ftrain.com/aboard-the-web-is-more-than-enough",
-   "summary": "Article URL: https://ftrain.com/aboard-the-web-is-more-than-enough Comments URL: https://news.ycombinator.com/item?id=50416456 Points: 3 # Comments: 0",
-   "published_at": 1794167312.0,
-   "published_bj": "2026-11-09 03:48"
   }
  ]
 }
