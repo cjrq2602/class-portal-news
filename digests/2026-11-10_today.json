@@ -1,0 +1,382 @@
+{
+ "type": "today",
+ "date": "2026-11-10",
+ "window": {
+  "start_ts": 1794240000.0,
+  "end_ts": 1794272400.0
+ },
+ "generated_at": 1794275736.165433,
+ "generator": "action",
+ "news_count": 95,
+ "keywords": [
+  "苹果",
+  "ai",
+  "发布",
+  "the",
+  "to",
+  "and",
+  "in",
+  "of",
+  "anthropic",
+  "claude"
+ ],
+ "points": [
+  {
+   "text": "【苹果】IT之家 11 月 10 日消息，据科技媒体 MacRumors 昨天报道，Meta 现已更新 iOS 版 Muse 应用，新增 Apple W",
+   "keyword": "苹果",
+   "news_ids": [
+    "e1a3167c3f8d39a2"
+   ],
+   "refs": [
+    {
+     "id": "e1a3167c3f8d39a2",
+     "title": "Meta 旗下 AI 助手 Muse 登陆苹果 Apple Watch",
+     "source": "IT之家",
+     "url": "https://www.ithome.com/1/024/571.htm",
+     "published_at": 1794265112.0
+    }
+   ]
+  },
+  {
+   "text": "【to】Article URL: https://github",
+   "keyword": "to",
+   "news_ids": [
+    "6ec39ea5da2a5f16"
+   ],
+   "refs": [
+    {
+     "id": "6ec39ea5da2a5f16",
+     "title": "Show HN: STE80 Humanizer – de-AI text by writing 80% of the way to ASD-STE100",
+     "source": "Hacker News",
+     "url": "https://github.com/Dodaios/ste80-humanizer",
+     "published_at": 1794247544.0
+    }
+   ]
+  },
+  {
+   "text": "【ai】IT之家 11 月 10 日消息， Anthropic 昨日（11 月 9 日）官宣推出 Claude Fable 5.2 和 Claude M",
+   "keyword": "ai",
+   "news_ids": [
+    "25d0b0d321831146"
+   ],
+   "refs": [
+    {
+     "id": "25d0b0d321831146",
+     "title": "8 天从零搓出操作系统：Anthropic 最强 Claude Fable / Mythos 5.2 AI 模型登场",
+     "source": "IT之家",
+     "url": "https://www.ithome.com/1/024/573.htm",
+     "published_at": 1794266068.0
+    }
+   ]
+  },
+  {
+   "text": "【ai】Nominal, a startup that offers an AI platform for hardware engineering a",
+   "keyword": "ai",
+   "news_ids": [
+    "5dfc634482ea8194"
+   ],
+   "refs": [
+    {
+     "id": "5dfc634482ea8194",
+     "title": "AI hardware startup Nominal triples valuation to $3B in 8 months",
+     "source": "TechCrunch",
+     "url": "https://techcrunch.com/2026/11/09/ai-hardware-startup-nominal-triples-valuation-to-3b-in-8-months/",
+     "published_at": 1794252106.0
+    }
+   ]
+  },
+  {
+   "text": "IT之家 11 月 10 日消息，Valve 今日宣布，Steam 商店页面及 Steam 客户端 Beta 版现已上线一项全新功能：玩家可以直",
+   "keyword": "",
+   "news_ids": [
+    "a208c445eaca0d29"
+   ],
+   "refs": [
+    {
+     "id": "a208c445eaca0d29",
+     "title": "Steam 商店页面新增 Steam Deck 平均帧率显示：附带帧率直方图，未来或扩展至更多设备",
+     "source": "IT之家",
+     "url": "https://www.ithome.com/1/024/595.htm",
+     "published_at": 1794271803.0
+    }
+   ]
+  },
+  {
+   "text": "vivo X300 Pro 卫星通信版开售于 2026 年 3 月，搭载联发科天玑 9500 处理器，12GB+512GB 版本 5999 元",
+   "keyword": "",
+   "news_ids": [
+    "dd4178e2716bc899"
+   ],
+   "refs": [
+    {
+     "id": "dd4178e2716bc899",
+     "title": "12+512GB 卫星通信版：vivo X300 Pro 国补后 5999 → 3865 元",
+     "source": "IT之家",
+     "url": "https://www.ithome.com/1/024/598.htm",
+     "published_at": 1794271367.0
+    }
+   ]
+  },
+  {
+   "text": "IT之家 11 月 10 日消息，小米创办人、董事长兼 CEO 雷军今日发文称，10 月份新能源汽车零售榜 (20 万以上车型)，小米 4 款车",
+   "keyword": "",
+   "news_ids": [
+    "6622f2e59b15fc24"
+   ],
+   "refs": [
+    {
+     "id": "6622f2e59b15fc24",
+     "title": "雷军：10 月份新能源汽车零售榜（20 万以上车型），小米 4 款车全部上榜",
+     "source": "IT之家",
+     "url": "https://www.ithome.com/1/024/592.htm",
+     "published_at": 1794271049.0
+    }
+   ]
+  },
+  {
+   "text": "IT之家 11 月 10 日消息，据央视新闻报道，今天（11 月 10 日）凌晨，随着最后一榀钢箱梁吊装到位，厦金大桥（厦门段）海上主线桥顺利合",
+   "keyword": "",
+   "news_ids": [
+    "7d8465831adc6cf6"
+   ],
+   "refs": [
+    {
+     "id": "7d8465831adc6cf6",
+     "title": "厦金大桥（厦门段）海上主线桥贯通，预计今年底建成通车",
+     "source": "IT之家",
+     "url": "https://www.ithome.com/1/024/589.htm",
+     "published_at": 1794269446.0
+    }
+   ]
+  },
+  {
+   "text": "Article URL: https://maurycyz",
+   "keyword": "",
+   "news_ids": [
+    "2b1170b4b42960b5"
+   ],
+   "refs": [
+    {
+     "id": "2b1170b4b42960b5",
+     "title": "Horible public key tricks",
+     "source": "Hacker News",
+     "url": "https://maurycyz.com/projects/badcert/",
+     "published_at": 1794269237.0
+    }
+   ]
+  },
+  {
+   "text": "IT之家 11 月 10 日消息，据科技媒体 Android Authority 昨天报道，谷歌 Google Play 服务 26.44 现已",
+   "keyword": "",
+   "news_ids": [
+    "4762998e3d3635e0"
+   ],
+   "refs": [
+    {
+     "id": "4762998e3d3635e0",
+     "title": "谷歌钱包新增 Traveler QR 二维码支付，支持东南亚地区 Alipay+",
+     "source": "IT之家",
+     "url": "https://www.ithome.com/1/024/580.htm",
+     "published_at": 1794268753.0
+    }
+   ]
+  },
+  {
+   "text": "IT早报”时间，大家好，现在是 2026 年 11 月 10 日星期二，今天的重要科技资讯有： 1. 英伟达发言人确认黄仁勋将继续履职公司 CE",
+   "keyword": "",
+   "news_ids": [
+    "7435f359ccbdbf75"
+   ],
+   "refs": [
+    {
+     "id": "7435f359ccbdbf75",
+     "title": "IT早报 1110：出轨风波后英伟达宣布 CEO 黄仁勋仍将留任；华为、江淮和 Stellantis 三方合作车型外观确认；尊界或推 40-50 万子品牌；奥迪 A8 旗舰轿车停产...",
+     "source": "IT之家",
+     "url": "https://www.ithome.com/1/024/579.htm",
+     "published_at": 1794268530.0
+    }
+   ]
+  },
+  {
+   "text": "IT之家 11 月 10 日消息，据科技媒体 Notebookcheck 今天报道，徕卡现已确认，部分 M10/11 相机用户自行发现的隐藏菜单",
+   "keyword": "",
+   "news_ids": [
+    "e82a1eed9e7e8c70"
+   ],
+   "refs": [
+    {
+     "id": "e82a1eed9e7e8c70",
+     "title": "徕卡：M (Typ 240)/M10/M11 系列相机隐藏菜单仅用于诊断和维修，用户自行修改可能发生异常",
+     "source": "IT之家",
+     "url": "https://www.ithome.com/1/024/577.htm",
+     "published_at": 1794267436.0
+    }
+   ]
+  },
+  {
+   "text": "员工为游玩《GTA6》申请休假，预计将给英国企业造成约1200万英镑损失",
+   "keyword": "",
+   "news_ids": [
+    "39ebba66548221b1"
+   ],
+   "refs": [
+    {
+     "id": "39ebba66548221b1",
+     "title": "GTA6》发售请假或令英国企业损失1200万英镑",
+     "source": "cnBeta",
+     "url": "https://www.cnbeta.com.tw/articles/game/1585680.htm",
+     "published_at": 1794265268.0
+    }
+   ]
+  },
+  {
+   "text": "Take-Two在季度财报中确认，《GTA6》的预购走势远高于公司最初预期，但没有公布具体数量",
+   "keyword": "",
+   "news_ids": [
+    "510df589b384b6df"
+   ],
+   "refs": [
+    {
+     "id": "510df589b384b6df",
+     "title": "GTA6》预购远超预期 豪华版比普通版卖得好",
+     "source": "cnBeta",
+     "url": "https://www.cnbeta.com.tw/articles/game/1585678.htm",
+     "published_at": 1794265263.0
+    }
+   ]
+  },
+  {
+   "text": "IT之家 11 月 10 日消息，Take-Two CEO 施特劳斯 · 泽尔尼克今天在公司 2027 财年第 2 财季电话会议中表示， 《GT",
+   "keyword": "",
+   "news_ids": [
+    "46c3dfe51627cba6"
+   ],
+   "refs": [
+    {
+     "id": "46c3dfe51627cba6",
+     "title": "Take-Two CEO 泽尔尼克称《GTA 6》预购量远远超出预期，有望为公司树立新业绩基准",
+     "source": "IT之家",
+     "url": "https://www.ithome.com/1/024/570.htm",
+     "published_at": 1794264475.0
+    }
+   ]
+  }
+ ],
+ "article": {
+  "title": "2026-11-10 新闻总结",
+  "paragraphs": [
+   {
+    "kind": "lead",
+    "text": "今天共收录 95 条新闻，来自 6 家媒体。把标题放在一起看，讨论主要集中在 AI、Agent 这几个方向上，其余消息更像是零散补充。"
+   },
+   {
+    "kind": "section",
+    "heading": "AI",
+    "text": "先看「AI」。IT之家 11 月 10 日消息，据科技媒体 MacRumors 昨天报道，Meta 现已更新 iOS 版 Muse 应用，另有 39 条消息指向同一话题。这条消息短期内的实际影响可能有限，但它指向的方向值得放进观察名单。",
+    "news_ids": [
+     "e1a3167c3f8d39a2"
+    ],
+    "refs": [
+     {
+      "id": "e1a3167c3f8d39a2",
+      "title": "Meta 旗下 AI 助手 Muse 登陆苹果 Apple Watch",
+      "source": "IT之家",
+      "url": "https://www.ithome.com/1/024/571.htm",
+      "published_at": 1794265112.0
+     }
+    ]
+   },
+   {
+    "kind": "section",
+    "heading": "模型",
+    "text": "与此同时「模型」。IT之家 11 月 10 日消息， Anthropic 昨日（11 月 9 日）官宣推出 Claude Fable 5.2 和 Claude Mythos 5.2，另有 8 条消息指向同一话题。这类进展更像是把已有能力往工程化落地推了一步，真正的分水岭在于成本和可靠性能不能同时压下来。",
+    "news_ids": [
+     "25d0b0d321831146"
+    ],
+    "refs": [
+     {
+      "id": "25d0b0d321831146",
+      "title": "8 天从零搓出操作系统：Anthropic 最强 Claude Fable / Mythos 5.2 AI 模型登场",
+      "source": "IT之家",
+      "url": "https://www.ithome.com/1/024/573.htm",
+      "published_at": 1794266068.0
+     }
+    ]
+   },
+   {
+    "kind": "section",
+    "heading": "显示",
+    "text": "另一个值得注意的方向是「显示」。IT之家 11 月 10 日消息，Valve 今日宣布，Steam 商店页面及 Steam 客户端 Beta 版现已上线一项全新功能。从节奏上看，行业已经从「能不能做」转向「做得便不便宜」，这通常意味着竞争会更务实。",
+    "news_ids": [
+     "a208c445eaca0d29"
+    ],
+    "refs": [
+     {
+      "id": "a208c445eaca0d29",
+      "title": "Steam 商店页面新增 Steam Deck 平均帧率显示：附带帧率直方图，未来或扩展至更多设备",
+      "source": "IT之家",
+      "url": "https://www.ithome.com/1/024/595.htm",
+      "published_at": 1794271803.0
+     }
+    ]
+   },
+   {
+    "kind": "section",
+    "heading": "卫星",
+    "text": "相比之下「卫星」。vivo X300 Pro 卫星通信版开售于 2026 年 3 月，搭载联发科天玑 9500 处理器。对读者来说，值得留意的不是结论本身，而是它背后哪些前提正在被改变。",
+    "news_ids": [
+     "dd4178e2716bc899"
+    ],
+    "refs": [
+     {
+      "id": "dd4178e2716bc899",
+      "title": "12+512GB 卫星通信版：vivo X300 Pro 国补后 5999 → 3865 元",
+      "source": "IT之家",
+      "url": "https://www.ithome.com/1/024/598.htm",
+      "published_at": 1794271367.0
+     }
+    ]
+   },
+   {
+    "kind": "glossary",
+    "items": [
+     {
+      "term": "AI",
+      "desc": "人工智能，让机器完成识别、生成、判断等原本需要人做的任务"
+     },
+     {
+      "term": "IPO",
+      "desc": "首次公开募股，公司第一次把股票卖给公众并上市"
+     },
+     {
+      "term": "API",
+      "desc": "应用程序接口，让不同软件按约定好的方式互相调用"
+     },
+     {
+      "term": "Agent",
+      "desc": "智能体，能自己拆解任务、调用工具并连续执行的 AI 程序"
+     },
+     {
+      "term": "数据中心",
+      "desc": "集中放置服务器、供电与散热设施的大型机房"
+     },
+     {
+      "term": "新能源",
+      "desc": "相对煤炭石油而言的清洁能源，常见的是光伏、风电和储能"
+     }
+    ]
+   },
+   {
+    "kind": "outlook",
+    "text": "把这几条放在一起看，最值得跟踪的是 AI 和 Agent 两条线：一条决定技术能走多远，一条决定它多快能落到普通人的日常里。至于其他消息，可以先放进观察名单，等后续有更实的进展再判断。"
+   }
+  ],
+  "word_count": 646
+ },
+ "ai_enhanced": false,
+ "schema": 1,
+ "window_bj": {
+  "start": "2026-11-10 00:00",
+  "end": "2026-11-10 09:00"
+ }
+}
