@@ -1,8 +1,98 @@
 {
  "date": "2026-11-11",
- "generated_at": 1794350405.172567,
- "count": 57,
+ "generated_at": 1794352678.8439698,
+ "count": 69,
  "items": [
+  {
+   "id": "f47816d5daab6d85",
+   "source": "IT之家",
+   "title": "苹果为 AirPods 5/AirPods Pro 3 等耳机推送 9B47 固件更新",
+   "url": "https://www.ithome.com/1/025/210.htm",
+   "summary": "IT之家 11 月 11 日消息，据科技媒体 MacRumors 今天报道，苹果现已为 AirPods Pro 2/Pro 3、AirPods 4/AirPods 5 以及 AirPods Max 2 耳机发布新固件， 版本号为 9B47 。 据报道，苹果过去几周一直在测试这款新固件的 Beta 版， 但官方目前没有公布新固件的具体更新内容 。苹果表示，后续将通过 AirPods 支持文档公布相关信息。 IT之家注：如果您需要更新 AirPods 的固件，请将您的 AirPods 连接到最新系统的 iPhone、iPad 或 Mac，然后将耳机放入充电盒后合上盖子，并连接上充电线，静置 30 ",
+   "published_at": 1794352285.0,
+   "published_bj": "2026-11-11 07:11"
+  },
+  {
+   "id": "80b186171475f046",
+   "source": "IT之家",
+   "title": "Anthropic 发布 IPO 路演视频正式启动最高 643.5 亿美元募资计划，估值约在 1~1.4 万亿美元",
+   "url": "https://www.ithome.com/1/025/209.htm",
+   "summary": "IT之家 11 月 11 日消息，当地时间 11 月 10 日，Anthropic 正式宣布启动首次公开募股（IPO）路演，并公布股票发行计划。 根据公告，Anthropic 此次拟发行 8.25 亿股 A 类普通股，发行价格区间为每股 70 至 78 美元。按照发行价上限计算，本次基础发行规模最高约为 643.5 亿美元 （IT之家注：现汇率约合 4,302.82 亿元人民币） 。 根据 Anthropic 官方披露的发行安排，此次发行的 8.25 亿股股票中，有 8.01351354 亿股由 Anthropic 自身发行，另外 2364.8646 万股由部分现有股东出售。Anthropic",
+   "published_at": 1794352125.0,
+   "published_bj": "2026-11-11 07:08"
+  },
+  {
+   "id": "fabb11ac76e6cc12",
+   "source": "IT之家",
+   "title": "谷歌宣布免费升级 Google Fi 超级网络：Pixel 9 系列支持双 5G 网络自动切换和数百万 Wi-Fi 热点",
+   "url": "https://www.ithome.com/1/025/208.htm",
+   "summary": "IT之家 11 月 11 日消息，当地时间 11 月 10 日，谷歌宣布为旗下 Google Fi Wireless 推出全新的「超级网络」（Super Network），通过双 5G 蜂窝网络和数百万个 Wi-Fi 热点之间的自动切换，改善用户在室内、拥挤区域及偏远地区的网络连接体验。 谷歌 Google Store 与 Google Fi 副总裁 Mauria Finley 在官方博客中介绍称，该功能将面向符合条件的 Google Fi 用户免费提供。 即日起，该功能陆续向 Pixel 9 及更新机型开放。所有 Google Fi 套餐均可使用两张美国 5G 网络，当主网络信号减弱或连接中",
+   "published_at": 1794351690.0,
+   "published_bj": "2026-11-11 07:01"
+  },
+  {
+   "id": "0a12e159791c3e6e",
+   "source": "IT之家",
+   "title": "微软 XBOX One 主机将支持《GTA6》云游戏，但 PC 玩家无缘",
+   "url": "https://www.ithome.com/1/025/207.htm",
+   "summary": "IT之家 11 月 11 日消息，微软 XBOX 昨天在 X 平台宣布，《GTA6》游戏将于 11 月 19 日登陆 XBOX Cloud Gaming 云游戏服务，XBOX Series X|S 和 XBOX One 主机无需下载，即可通过云游戏体验这款 R 星大作。 不过需要注意的是，《GTA 6》并没有 XBOX One 原生版本。 微软将通过云串流让这款老主机的用户无需购买次世代主机 ， 也能进入雷奥奈达州的广阔世界 。无论玩家使用什么主机进行云游戏，画面设置都是 XBOX Series S 的水平。 遗憾的是 ， PC 玩家并不能够通过 XBOX 云游戏游玩《GTA6》 。这种限制纯",
+   "published_at": 1794351508.0,
+   "published_bj": "2026-11-11 06:58"
+  },
+  {
+   "id": "cf05d02f20bb3011",
+   "source": "IT之家",
+   "title": "OpenAI 扩展 ChatGPT 商业功能：企业可认领资料并创建 AI 智能体，为 Business Agent 投放广告",
+   "url": "https://www.ithome.com/1/025/206.htm",
+   "summary": "IT之家 11 月 11 日消息，当地时间 11 月 10 日，OpenAI 宣布推出 ChatGPT Businesses 测试版，为企业提供商家信息认领、资料管理、用户互动数据分析以及 AI 智能体等服务，帮助企业通过 ChatGPT 接触潜在客户。 OpenAI 表示，目前全球每周有 12 亿人使用 ChatGPT。Businesses 功能将通过 Business Hub 提供，企业可以在其中认领自己在 ChatGPT 中的商家资料，并在完成身份验证后更新关键信息，还可以添加包含产品价格和库存情况的自助式产品数据源，让 ChatGPT 能够向用户提供更加准确、及时的商品和服务信息。 符",
+   "published_at": 1794351336.0,
+   "published_bj": "2026-11-11 06:55"
+  },
+  {
+   "id": "5ddbc5ac0e69296a",
+   "source": "IT之家",
+   "title": "谷歌最强 VLA 机器人模型：Gemini Robotics 2.5 登场，会系蝴蝶结、已在奔驰生产线上岗",
+   "url": "https://www.ithome.com/1/025/188.htm",
+   "summary": "IT之家 11 月 10 日消息，谷歌推出迄今为止能力最强的视觉-语言-动作（VLA）机器人模型 Gemini Robotics 2.5 ，大幅提升机器人可学习的技能广度与学习速度。 该模型增强了机器人的灵巧度、可靠性与安全性，助力机器人走出实验室，进入更非结构化的真实环境，协助人类完成更多类型的任务。 谷歌今年早些时候已为包括人形机器人在内的多种机器人引入 全身智能 。此次进展很大程度上得益于 Gemini 4 Argon 加速机器人研发的能力，进一步拓展了物理智能的边界。 谷歌在超过 200 项 不同任务中测试了 Gemini Robotics 2.5 的任务广度、性能与复杂度。 Gemi",
+   "published_at": 1794351284.0,
+   "published_bj": "2026-11-11 06:54"
+  },
+  {
+   "id": "6a8c494c58fe46bd",
+   "source": "IT之家",
+   "title": "谷歌联合 Artificial Analysis 推出 MKA 基准测试：Gemini 4 Carbon 多模态知识工作测试获第二，任务成本仅为第一名六分之一",
+   "url": "https://www.ithome.com/1/025/205.htm",
+   "summary": "IT之家 11 月 11 日消息，当地时间 11 月 10 日，谷歌宣布联合 AI 模型评测机构 Artificial Analysis 推出多模态知识智能体基准测试 MKA（Multimodal Knowledge Agent），用于评估 AI 智能体处理视觉复杂文件、完成现实世界知识工作任务的能力。 谷歌表示，其最新发布的 Gemini 4 Carbon 在该测试中取得了参测模型第二名的成绩，完成任务的平均成本仅为排名第一模型的约六分之一。 谷歌 DeepMind 高级产品经理 Rohan Doshi 和首席工程师 Ben Caine 介绍称，现有不少知识工作基准测试仅依赖文本即可完成，而",
+   "published_at": 1794350930.0,
+   "published_bj": "2026-11-11 06:48"
+  },
+  {
+   "id": "8cd6d9956403b34c",
+   "source": "IT之家",
+   "title": "Anthropic 升级 AI 办公套件：从头脑风暴到数据看板，Claude 想承包团队协作全流程",
+   "url": "https://www.ithome.com/1/025/204.htm",
+   "summary": "IT之家 11 月 11 日消息，Anthropic 今日开始推出 Claude Whiteboards（白板）、Claude Sheets（表格）和 Claude Data（原 Claude Dashboards），把 AI 助手从“聊天问答”进一步推向团队协作工作台， 用户可以在白板上梳理计划、在表格中搭建追踪器，并把业务数据变成可共享的仪表盘、数据故事或解说视频。 三项产品面向所有付费计划提供，支持网页端、桌面端和移动端；其中白板应用 Whiteboards 与表格 Sheets 目前处于测试阶段，Claude Data 则已正式上线。 官方希望让 Claude 从生成文字、代码或文档，",
+   "published_at": 1794350626.0,
+   "published_bj": "2026-11-11 06:43"
+  },
+  {
+   "id": "dd3231245a538818",
+   "source": "IT之家",
+   "title": "谷歌迄今最强模型 Gemini 4 Carbon 登场：主打复杂编程、科学研究与网络安全",
+   "url": "https://www.ithome.com/1/025/203.htm",
+   "summary": "IT之家 11 月 11 日消息，当地时间 11 月 10 日，谷歌宣布正式开放 Gemini 4 Carbon 模型，面向开发者、企业、科研人员和消费者提供服务。 谷歌高级副总裁、DeepMind 首席 AI 架构师 Koray Kavukcuoglu 介绍称，该模型是谷歌目前能力最强的推理模型，重点面向复杂软件工程、多步骤智能体任务、科学研究和网络安全等场景。 Gemini 4 Carbon 于 10 月 28 日首次公布，此前通过 Fairwind Program（网络安全合作计划）向部分网络安全防御人员开放。此次则进一步扩大使用范围。 谷歌称，相较于同期推出的 Gemini 4 Arg",
+   "published_at": 1794350617.0,
+   "published_bj": "2026-11-11 06:43"
+  },
+  {
+   "id": "570d27ccfdf01fa1",
+   "source": "IT之家",
+   "title": "OpenAI 收购旅游初创公司 Odessia，探索 AI 旅行智能体业务",
+   "url": "https://www.ithome.com/1/025/202.htm",
+   "summary": "IT之家 11 月 11 日消息，Odessia 创始人弗朗西斯 · 戴维森（Francis Davidson）今天宣布，OpenAI 已收购 AI 旅行智能体公司 Odessia，他本人也已经加入 OpenAI， 帮助这家 AI 初创公司探索旅游业务发展方向 。 据悉，Odessia 成立仅一年，就拿到了红杉资本领投的 600 万美元 （IT之家注：现汇率约合 4,011.9 万元人民币） 种子前融资，并在大约 5 个月前推出了 AI 旅游智能体服务，帮助早期用户规划价值数百万美元的旅行行程。 OpenAI 发言人证实了上述信息，并表示：“我们非常欢迎戴维森加入 OpenAI，他是一名经验丰",
+   "published_at": 1794350602.0,
+   "published_bj": "2026-11-11 06:43"
+  },
   {
    "id": "c92d58e57e5be49a",
    "source": "IT之家",
@@ -38,6 +128,15 @@
    "summary": "索尼互动娱乐宣布，将从12月10日起停止向PC用户提供PlayStation Plus应用。该应用面向符合资格的PlayStation Plus Premium会员，但实际使用人数不足合资格会员的0.4%。 阅读全文",
    "published_at": 1794349646.0,
    "published_bj": "2026-11-11 06:27"
+  },
+  {
+   "id": "ba42de7a24818d65",
+   "source": "Hacker News",
+   "title": "After 7 Months, Glasswing Overwelms Maintainers with Underwhelming Findings",
+   "url": "https://www.vulncheck.com/blog/anthropic-glasswing-november-update",
+   "summary": "Article URL: https://www.vulncheck.com/blog/anthropic-glasswing-november-update Comments URL: https://news.ycombinator.com/item?id=50447074 Points: 38 # Comments: 6",
+   "published_at": 1794349076.0,
+   "published_bj": "2026-11-11 06:17"
   },
   {
    "id": "ff6619a8ae8f71bc",
@@ -109,6 +208,15 @@
    "url": "https://www.cnbeta.com.tw/articles/tech/1585842.htm",
    "summary": "英伟达独立董事聘请了律师事务所Wachtell， Lipton， Rosen &amp; Katz来协助调查首席执行官黄仁勋。根据周二发布的简短声明，董事们已聘请Wachtell Lipton的Joon H． Kim负责“进行全面且独立的调查”。Kim曾任纽约南区代理联邦检察官。 阅读全文",
    "published_at": 1794345066.0,
+   "published_bj": "2026-11-11 05:11"
+  },
+  {
+   "id": "f2e43249f0aee724",
+   "source": "IT之家",
+   "title": "CoreWeave 2026 财年前三季度报归母亏损 20.75 亿美元，同比亏损扩大 178.9%",
+   "url": "https://www.ithome.com/1/025/200.htm",
+   "summary": "IT之家 11 月 11 日消息，CoreWeave 今日发布 2026 财年（2026 年 1 月～2026 年 12 月）前三季度报（2026 年 1 月～2026 年 9 月）及第三财季（2026 年 7 月～2026 年 9 月）报告： 2026 财年前三季度报 营业总收入 ：83.14 亿美元 （IT之家注：现汇率约合 555.92 亿元人民币） ，同比增长 133.6% 毛利润 ：55.36 亿美元 （现汇率约合 370.17 亿元人民币） ，同比增长 111.7% 毛利率 ：66.6%，同比下降 6.9 个百分点 归母净利润 ：-20.75 亿美元 （现汇率约合 -138.75 ",
+   "published_at": 1794345063.0,
    "published_bj": "2026-11-11 05:11"
   },
   {
