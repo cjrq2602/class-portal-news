@@ -1,8 +1,53 @@
 {
  "date": "2026-11-11",
- "generated_at": 1794347923.515174,
- "count": 51,
+ "generated_at": 1794350405.172567,
+ "count": 57,
  "items": [
+  {
+   "id": "c92d58e57e5be49a",
+   "source": "IT之家",
+   "title": "英伟达董事会聘请前美国联邦检察官，调查 CEO 黄仁勋相关事件",
+   "url": "https://www.ithome.com/1/025/201.htm",
+   "summary": "IT之家 11 月 11 日消息，英伟达今日发布公告，宣布已聘请美国前联邦检察官金正贤（Joon H. Kim）及其所在的律师事务所 Wachtell, Lipton, Rosen &amp; Katz，负责开展一项全面、独立的调查。 IT之家注：此次调查此前已于 11 月 8 日对外宣布，调查工作将由金正贤及其所在律所参与推进。 此前，英伟达董事会表示，鉴于近期有关公司创始人兼 CEO 黄仁勋可能成为外国情报机构目标的报道，董事会决定启动独立调查。董事会将成立由独立董事组成的委员会，并在外部独立法律顾问协助下监督调查。 英伟达董事会此前还表示，目前没有理由认为美国国家安全或英伟达的商业机密已",
+   "published_at": 1794349927.0,
+   "published_bj": "2026-11-11 06:32"
+  },
+  {
+   "id": "102c527fecb939ca",
+   "source": "cnBeta",
+   "title": "索尼确认《GTA6》创PlayStation商店数字预购纪录",
+   "url": "https://www.cnbeta.com.tw/articles/game/1585858.htm",
+   "summary": "索尼宣布，《GTA6》已成为PlayStation商店历史上数字预购量最高的游戏。面对“前所未有”的需求，索尼与R星决定把预载时间提前至发售前九天，方便玩家在游戏解锁后直接进入。 阅读全文",
+   "published_at": 1794349824.0,
+   "published_bj": "2026-11-11 06:30"
+  },
+  {
+   "id": "226dfad4d7750f72",
+   "source": "cnBeta",
+   "title": "《GTA6》创微软商店预购纪录 Xbox确认十年合作",
+   "url": "https://www.cnbeta.com.tw/articles/game/1585856.htm",
+   "summary": "Xbox首席执行官Asha Sharma表示，《GTA6》已经创下微软商店及Xbox商店历史上的游戏预购纪录。此次公布的成绩仅对应微软平台，目前尚未披露具体预购套数。 阅读全文",
+   "published_at": 1794349792.0,
+   "published_bj": "2026-11-11 06:29"
+  },
+  {
+   "id": "b40a5db81619b78c",
+   "source": "cnBeta",
+   "title": "索尼12月10日起停止提供PC版PlayStation Plus应用",
+   "url": "https://www.cnbeta.com.tw/articles/game/1585854.htm",
+   "summary": "索尼互动娱乐宣布，将从12月10日起停止向PC用户提供PlayStation Plus应用。该应用面向符合资格的PlayStation Plus Premium会员，但实际使用人数不足合资格会员的0.4%。 阅读全文",
+   "published_at": 1794349646.0,
+   "published_bj": "2026-11-11 06:27"
+  },
+  {
+   "id": "ff6619a8ae8f71bc",
+   "source": "Hacker News",
+   "title": "rVPN – stealth VPN with end-to-end encryption",
+   "url": "https://rvpn.org/",
+   "summary": "Article URL: https://rvpn.org/ Comments URL: https://news.ycombinator.com/item?id=50446714 Points: 21 # Comments: 11",
+   "published_at": 1794346970.0,
+   "published_bj": "2026-11-11 05:42"
+  },
   {
    "id": "cf228ba9f4a6458e",
    "source": "cnBeta",
@@ -11,6 +56,15 @@
    "summary": "据台湾《工商时报》援引未具名供应链消息人士的报道，英伟达可能正在放缓对台积电的芯片下单节奏。该报道并未指明涉及的具体产品、制程节点、订单规模或时间表，英伟达和台积电目前也均未对此作出回应。由于消息来源单一，相关说法仍应被视为传闻。 阅读全文",
    "published_at": 1794346897.0,
    "published_bj": "2026-11-11 05:41"
+  },
+  {
+   "id": "b2e72e869663f497",
+   "source": "Hacker News",
+   "title": "Apple has new Mac app coming to make running local AI models easy",
+   "url": "https://9to5mac.com/2026/11/10/apple-has-new-mac-app-coming-to-make-running-local-ai-models-easy/",
+   "summary": "Article URL: https://9to5mac.com/2026/11/10/apple-has-new-mac-app-coming-to-make-running-local-ai-models-easy/ Comments URL: https://news.ycombinator.com/item?id=50446520 Points: 41 # Comments: 7",
+   "published_at": 1794345903.0,
+   "published_bj": "2026-11-11 05:25"
   },
   {
    "id": "102fa334308a8a60",
