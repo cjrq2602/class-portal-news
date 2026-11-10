@@ -1,7 +1,7 @@
 {
  "date": "2026-11-11",
- "generated_at": 1794329171.7501864,
- "count": 10,
+ "generated_at": 1794330769.9224284,
+ "count": 15,
  "items": [
   {
    "id": "bf2dd8be34788b3e",
@@ -22,6 +22,24 @@
    "published_bj": "2026-11-11 02:54"
   },
   {
+   "id": "52de827f076ccc78",
+   "source": "IT之家",
+   "title": "嵌入式 x86 算力天花板：AMD 霄龙嵌入式 9006 系列 SP7 处理器发布，吞吐量飙升 1.8 倍",
+   "url": "https://www.ithome.com/1/025/195.htm",
+   "summary": "IT之家 11 月 11 日消息， AMD 今天（11 月 11 日）发布霄龙（EPYC）嵌入式 9006 系列 SP7 处理器 ，基于 Zen 6 架构，最高可达 256 核 512 线程，率先在嵌入式平台落地 PCIe Gen6、CXL3.1，搭配 16 通道 DDR5/MRDIMM 内存、7 年产品生命周期。 不同于 9 月发布的 AMD 霄龙 9006 系列服务器 CPU（面向智能体 AI、云计算、企业应用等），本次发布的嵌入式 9006 系列 SP7 处理器主要面向半导体 ATE 测试设备、企业存储、高端网络防火墙等关键嵌入式场景。 在插槽规格方面，AMD 霄龙嵌入式 9006 系列",
+   "published_at": 1794330305.0,
+   "published_bj": "2026-11-11 01:05"
+  },
+  {
+   "id": "cb26b7a7a73305d3",
+   "source": "TechCrunch",
+   "title": "Nvidia CEO Jensen Huang’s affair with alleged Chinese spy: a timeline",
+   "url": "https://techcrunch.com/2026/11/10/nvidia-ceo-jensen-huangs-affair-with-alleged-chinese-spy-a-timeline/",
+   "summary": "The affair could have ramifications for national security as the U.S. and China race to develop the most advanced AI infrastructure.",
+   "published_at": 1794330259.0,
+   "published_bj": "2026-11-11 01:04"
+  },
+  {
    "id": "c0f7b32f32ed8389",
    "source": "InfoQ中文",
    "title": "Chrome 想终结“去邮箱复制验证码”，但隐私真的更好了吗？",
@@ -31,6 +49,24 @@
    "published_bj": "2026-11-11 01:00"
   },
   {
+   "id": "65de285149b77b7c",
+   "source": "TechCrunch",
+   "title": "Sundrop turns your endless baby photos into recaps, time-lapses and more — without AI",
+   "url": "https://techcrunch.com/2026/11/10/sundrop-turns-your-endless-baby-photos-into-recaps-time-lapses-and-more-without-ai/",
+   "summary": "Sundrop is a new iPhone app that uses Apple's on-device AI to help parents rediscover their favorite photos and create keepsakes without uploading images to the cloud.",
+   "published_at": 1794329438.0,
+   "published_bj": "2026-11-11 00:50"
+  },
+  {
+   "id": "bad01312be61a077",
+   "source": "Hacker News",
+   "title": ".name Grandfathered",
+   "url": "https://neil.fraser.name/news/2026/11/10/",
+   "summary": "Article URL: https://neil.fraser.name/news/2026/11/10/ Comments URL: https://news.ycombinator.com/item?id=50442736 Points: 26 # Comments: 3",
+   "published_at": 1794328664.0,
+   "published_bj": "2026-11-11 00:37"
+  },
+  {
    "id": "ca9a01edded51c4a",
    "source": "Hacker News",
    "title": "Tailscale's DNS IPv6 spells out \"Tailscale\"",
@@ -38,6 +74,15 @@
    "summary": "Article URL: https://www.reddit.com/r/Tailscale/comments/1xsr24r/tailscales_dns_ipv6_spells_out_tailscale_easter/ Comments URL: https://news.ycombinator.com/item?id=50442691 Points: 6 # Comments: 0",
    "published_at": 1794328485.0,
    "published_bj": "2026-11-11 00:34"
+  },
+  {
+   "id": "794f6cb789f52b5f",
+   "source": "Solidot",
+   "title": "2026 年全球化石燃料碳排放量预计下降 0.4%",
+   "url": "https://www.solidot.org/story?sid=85850",
+   "summary": "根据 Global Carbon Project 发表的报告《2026 Global Carbon Budget》，因太阳能风能扩张以及冲突导致的石油供应问题，2026 年全球化石燃料碳排放量预计下降 0.4%。今年全球化石燃料二氧化碳（CO2）排放量预计为 382 亿吨，其中石油相关排放量预计下降 1.9%。尽管全球能源需求持续增长，但三分之二增量已被太阳能、风能以及电动汽车的发展所抵消或满足。报告同时指出清洁能源的增长速度尚不足以促使全球化石燃料二氧化碳排放量持续下降。由于土地利用变化（如森林砍伐）导致今年的总排放量略有增加，2026 年全球二氧化碳排放总量预计达到 433 亿吨，高于去年",
+   "published_at": 1794327800.0,
+   "published_bj": "2026-11-11 00:23"
   },
   {
    "id": "a1fb7508e6decde4",
