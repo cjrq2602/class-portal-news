@@ -1,7 +1,7 @@
 {
  "date": "2026-11-10",
- "generated_at": 1794307690.4377365,
- "count": 374,
+ "generated_at": 1794311110.1280642,
+ "count": 395,
  "items": [
   {
    "id": "eac361ebe07c87c6",
@@ -58,6 +58,60 @@
    "published_bj": "2026-11-10 19:56"
   },
   {
+   "id": "cf57965fd607416b",
+   "source": "cnBeta",
+   "title": "Rapidus遭遇关键技术障碍 日本2纳米芯片量产计划面临延期风险",
+   "url": "https://www.cnbeta.com.tw/articles/tech/1585800.htm",
+   "summary": "日本先进半导体企业Rapidus的2纳米制程项目正遭遇重要挑战。最新消息显示，该公司在推进2纳米工艺研发过程中未能如期完成SRAM（静态随机存取存储器）相关技术里程碑，这使其原定于2027财年实现2纳米芯片量产的目标面临不确定性。 阅读全文",
+   "published_at": 1794311107.0,
+   "published_bj": "2026-11-10 19:45"
+  },
+  {
+   "id": "5cab5d2e14f90ae6",
+   "source": "cnBeta",
+   "title": "希捷推出FireCuda Forge智能混合存储系统 机械硬盘与SSD自动协作",
+   "url": "https://www.cnbeta.com.tw/articles/tech/1585798.htm",
+   "summary": "希捷（Seagate）推出了一款名为FireCuda Forge的新型外置存储设备，试图将传统机械硬盘的大容量、低成本优势与SSD的高速性能结合起来。它并不是简单地将两块硬盘安装在同一个外壳内，而是通过希捷全新的Alkemi智能存储平台，利用机器学习分析用户的数据访问习惯，自动在机械硬盘和SSD之间迁移文件，让用户在获得大容量存储空间的同时，也能享受到接近SSD的访问速度。 阅读全文",
+   "published_at": 1794311084.0,
+   "published_bj": "2026-11-10 19:44"
+  },
+  {
+   "id": "9880894d7f877ecf",
+   "source": "cnBeta",
+   "title": "任天堂Switch 2首次破解遭快速封堵 23.5.0固件修复系统漏洞",
+   "url": "https://www.cnbeta.com.tw/articles/game/1585796.htm",
+   "summary": "任天堂近日发布Switch 2系统固件23.5.0更新，修复了此前被破解者利用的关键操作系统漏洞，使得这款新主机首次实现的软件破解方案基本失效。距离破解方法公开仅仅过去不到三周，任天堂便通过系统更新封堵了相关漏洞，给Switch 2自制软件和游戏修改社区带来了重大打击。 阅读全文",
+   "published_at": 1794310849.0,
+   "published_bj": "2026-11-10 19:40"
+  },
+  {
+   "id": "8cc2d9e7465bdcd4",
+   "source": "IT之家",
+   "title": "曝 Anthropic 拟通过 IPO 筹集最多 644 亿美元，上市推介启动在即",
+   "url": "https://www.ithome.com/1/025/127.htm",
+   "summary": "IT之家 11 月 10 日消息，据路透社今天（10 日）晚间公布的最新招股说明书草案，Anthropic 计划通过首次公开募股（IPO）筹集最多 644 亿美元 （IT之家注：现汇率约合 4,306.16 亿元人民币） ，并准备启动上市推介。 招股说明书草案显示，Anthropic 还计划通过另一笔私募配售交易，向谷歌、英伟达和 AMD 等基石投资者 融资 260 亿美元 （现汇率约合 1,738.51 亿元人民币） 。计入博通、美光、微软和台积电等其他基石投资者的出资后，Anthropic 此次股票发行的 募资规模最高可达 904 亿美元 （现汇率约合 6,044.67 亿元人民币） 。 ",
+   "published_at": 1794310820.0,
+   "published_bj": "2026-11-10 19:40"
+  },
+  {
+   "id": "636af24cf6d83b2b",
+   "source": "IT之家",
+   "title": "原生支持 3D 高斯泼溅，免费开源 3D 创作软件 Blender 5.3 发布",
+   "url": "https://www.ithome.com/1/025/126.htm",
+   "summary": "IT之家 11 月 10 日消息，免费开源 3D 创作软件 Blender 5.3 现已正式发布。新版本加入了原生 3D 高斯泼溅（Gaussian Splatting）支持，Linux 平台默认图形后端切换为 Vulkan，同时带来了全新的项目管理功能，以及渲染和视频剪辑工具方面的多项改进。 对于 Linux 用户来说，此次更新最显著的变化是 Vulkan 现已取代 OpenGL，成为默认图形后端。Windows 版本也进行了相同调整，但 ARM 设备除外。此外，新版本将 Vulkan 的最低版本要求降低至 1.1，并将部分 GPU 和驱动程序功能调整为可选项，以提升对不同硬件的兼容性。 B",
+   "published_at": 1794310714.0,
+   "published_bj": "2026-11-10 19:38"
+  },
+  {
+   "id": "b5d2251e3ef65e45",
+   "source": "IT之家",
+   "title": "NASA 两艘探测器完成特殊地球引力弹弓机动，正式奔赴火星",
+   "url": "https://www.ithome.com/1/025/124.htm",
+   "summary": "IT之家 11 月 10 日消息，美国国家航空航天局（NASA）的两艘火星探测器即将结束为期一年的太空绕行之旅，现在终于可以直奔火星了。 据IT之家了解，这两艘探测器名为“逃逸与等离子体加速及动力学探测器”（ESCAPADE），于 2025 年 11 月搭乘蓝色起源（Blue Origin）新格伦（New Glenn）火箭的第二次飞行任务升空。不过，它们并未直接飞往火星，而是沿着一条迂回的轨道在太空中绕行了一段时间。如今，两艘探测器重新回到地球附近，并完成了一项关键发动机点火操作。如果后续一切顺利，这次机动将帮助它们正式踏上前往火星的旅程。 “此前，NASA 从未执行过这样的任务。”加州大学伯",
+   "published_at": 1794310186.0,
+   "published_bj": "2026-11-10 19:29"
+  },
+  {
    "id": "b227645bde0769b2",
    "source": "InfoQ中文",
    "title": "硅谷疯炒 AI 自我进化，李飞飞、Jeff Dean 齐泼冷水：无限加速不可信",
@@ -65,6 +119,69 @@
    "summary": "点击查看原文>",
    "published_at": 1794310123.0,
    "published_bj": "2026-11-10 19:28"
+  },
+  {
+   "id": "c5bc11e57627afb0",
+   "source": "IT之家",
+   "title": "DOOGEE 预热 Note60 W 阔直板手机计划 12 月中旬上市，搭 6.38 英寸 90Hz 16:10 比例面板",
+   "url": "https://www.ithome.com/1/025/123.htm",
+   "summary": "IT之家 11 月 10 日消息，据 DOOGEE 公众号，DOOGEE 首款 16:10 阔面直屏手机 Note60 W 将于 2026 年 12 月中旬正式上市。 据介绍，DOOGEE Note60 W 系列手机采用 6.38 英寸 90Hz 阔面屏设计，打破传统屏幕比例；机身厚度约 8.4mm，内置 6500mAh 大容量电池；同时预装最新 Android 17 系统。 值得一提的是，从官方公布的宣传海报来看，DOOGEE Note60 W 的外观与华为 Pura X View 极为相似，包括背部的相机模组造型、摄像头排布、条纹设计、品牌 LOGO 位置和机型壁纸。不过 DOOGEE 新",
+   "published_at": 1794309942.0,
+   "published_bj": "2026-11-10 19:25"
+  },
+  {
+   "id": "55e44a2e1639b889",
+   "source": "IT之家",
+   "title": "号称行业首个具身全模态端到端交互大模型，智元发布 WITA-Omni",
+   "url": "https://www.ithome.com/1/025/122.htm",
+   "summary": "IT之家 11 月 10 日消息，“智元 AGIBOT”公众号今天（10 日）晚间发文宣布，智元正式发布 WITA-Omni（硅光动语全模态大模型）。 根据官方介绍，该模型也是 行业首个具身全模态端到端交互大模型 。WITA-Omni 基于机器人本体感知数据深度训练，除了音视频输入输出，还新增支持 触觉、本体状态等输入 ，以及 机器人动作、表情等输出 ，让机器人第一次拥有为物理世界而生的“交互大脑”。 基于流式全双工架构，WITA-Omni 可做到 边听、边想、边应、边动、边做表情 ，减少传统串行处理中的等待。交互响应最快约 400 毫秒、平均约 600 毫秒，较业内平均水平快近 3 倍。 同",
+   "published_at": 1794309845.0,
+   "published_bj": "2026-11-10 19:24"
+  },
+  {
+   "id": "c9ddc297c5e5d84b",
+   "source": "IT之家",
+   "title": "华为：鸿蒙电脑应用数量已突破 2.1 万款，通用办公基本盘稳固、多款专业软件已完成适配",
+   "url": "https://www.ithome.com/1/025/121.htm",
+   "summary": "IT之家 11 月 10 日消息，华为宣布旗下鸿蒙电脑应用数量已正式突破 2.1 万款，通用办公基本盘稳固，AI 赛道快速崛起，多款专业电脑应用也逐步向鸿蒙平台延伸，形成兼顾便携与专业的移动办公体验。 华为表示，目前 WPS Office、钉钉、飞书、企业微信等头部应用已全面适配鸿蒙系统，WorkBuddy、豆包、豆包办公、千问等应用陆续上架，千问办公三端一致首发上架鸿蒙电脑，可为鸿蒙电脑带来全场景 AI 体验。 同时，中望 CAD、中望 3D、MWORKS、悟空图像等专业软件已完成适配鸿蒙系统，填补工程设计、科学仿真等国产电脑生态空白，迎来自主工业软件窗口期。 在开源共建层面，华为联合生态伙",
+   "published_at": 1794309727.0,
+   "published_bj": "2026-11-10 19:22"
+  },
+  {
+   "id": "3e27a096e508ad61",
+   "source": "IT之家",
+   "title": "海贝推出 HIBY FC4 屏幕版解码耳放：双 CS43131 DAC 芯片、配 1.1 英寸 OLED 面板，首发价 311 元",
+   "url": "https://www.ithome.com/1/025/113.htm",
+   "summary": "IT之家 11 月 10 日消息，海贝现已在京东上架 HIBY FC4 屏幕版解码耳放，定价为 336 元， 首发价 311 元 。 京东 HiBy 海贝 FC4 屏幕版耳放 券后 311 元 领 25 元券 该产品尺寸为 63x26x13mm，重量约 21g，提供黑色、银色和绿色三种配色可选，整体采用赛博机甲风格设计，正面配备一块 1.1 英寸 OLED 彩色显示屏，可直观显示设备的运行状态与音频参数，机身侧边配有 30 级实体硬件音量按键与功能键，并具备音量记忆功能。 该机采用双 CS43131 DAC 芯片，结合 45.1584MHz 与 49.152MHz 两颗专用音频晶振，以降低时钟",
+   "published_at": 1794309335.0,
+   "published_bj": "2026-11-10 19:15"
+  },
+  {
+   "id": "45e3b7782c7bb237",
+   "source": "IT之家",
+   "title": "《荒野大镖客：救赎 2》终于迎来硬件加速光追 MOD，支持三次光线反弹",
+   "url": "https://www.ithome.com/1/025/095.htm",
+   "summary": "IT之家 11 月 10 日消息，距离 PC 版发售近 7 年，《荒野大镖客：救赎 2》（Red Dead Redemption 2）依然是画面表现最出色的开放世界游戏之一。不过，尽管这款 Rockstar 西部题材大作拥有先进的光照、天气效果和环境细节，却始终没有原生支持硬件加速光线追踪。如今，MOD 制作者终于着手弥补这一遗憾。 IT之家注意到，MOD 作者 BadassBaboon 发布了名为 Reality Redemption 2 的全新画质增强 MOD，为游戏加入了硬件加速光线追踪技术，包括光线追踪全局光照（RTGI）、环境光遮蔽以及光线追踪阴影。 其中最引人注目的功能无疑是 RT",
+   "published_at": 1794308800.0,
+   "published_bj": "2026-11-10 19:06"
+  },
+  {
+   "id": "8781ad184e4ef867",
+   "source": "IT之家",
+   "title": "超频三推出 C3 T310 海景房机箱：兼容 360mm 水冷，可选黑白双色，179 元起",
+   "url": "https://www.ithome.com/1/025/093.htm",
+   "summary": "IT之家 11 月 10 日消息，超频三现已在京东上架 C3 T310 机箱，其中黑色定价为 179 元，白色定价为 189 元。 京东 超频 3 C3 T310 机箱 179 元起 直达链接 该机箱尺寸为 420 x 280 x 360mm，采用 270° 全景无立柱设计，机箱顶部配备了快拆磁吸防尘网，I/O 面板集成了 1 个 USB-A 3.0、1 个 USB-A 2.0、1 个音频麦克风接口。 该机箱兼容 M-ATX 与 ITX 规格主板，提供 4 个 PCIe 扩展槽。显卡限长达到 410mm，CPU 散热器限高为 165mm，电源舱支持安装长度在 160mm 以内的 ATX 规格电",
+   "published_at": 1794308779.0,
+   "published_bj": "2026-11-10 19:06"
+  },
+  {
+   "id": "2611469a0ce4608a",
+   "source": "Solidot",
+   "title": "生成式 AI 过度美化现实",
+   "url": "https://www.solidot.org/story?sid=85847",
+   "summary": "生成式 AI 如 ChatGPT 正融入日常生活，成为人们获取信息和辅助决策的重要工具。然而大模型中嵌入的错误信息和偏见引发了一系列伦理方面的担忧。以往的研究已揭示出 AI 在涉及人类特征的内容上存在偏见，例如肤色、性别以及地理文化背景等。为减轻文本生成图像（Text-to-Image）生成式模型中的偏见，OpenAI 等公司引入了提示词修订（Prompt Revision）机制。一种隐性的处理过程，即通过重写用户输入的提示词，添加更多细节，例如要求图像中呈现不同性别和肤色的人物，从而促进图像的多样性。然而重写用户提示词也可能引入其他偏见，在用户不知情下改变其原本的意图。发表在《Technol",
+   "published_at": 1794308672.0,
+   "published_bj": "2026-11-10 19:04"
   },
   {
    "id": "32c9d32bff10d1fb",
@@ -76,6 +193,42 @@
    "published_bj": "2026-11-10 19:00"
   },
   {
+   "id": "ff0da96d63fb00a4",
+   "source": "IT之家",
+   "title": "达尔优 Ultra68 双形态键盘上市：模块化 Fn 键区，799 元起",
+   "url": "https://www.ithome.com/1/025/080.htm",
+   "summary": "IT之家 11 月 10 日消息，达尔优 (Dareu) 即将于今晚 20:00 开售 Ultra68 键盘。这一型号拥有模块化的 Fn 键区， 可在常规按键和 335 LED 点阵屏间切换 。 Ultra68 采用全铝机身，内部采用包含 FR4 定位板的 4 层阻尼填充 Gasket 结构， 支持 8kHz 回报率、0.001mm Rapid Trigger 精度 。 该键盘 提供有线的达尔优鲁班磁轴和双模的凯华雷电电感轴两个版本 。前者为碰珠结构，可选金属黑（799 元）、酒红色（849 元）；后者为磁吸结构，内置 8000mAh 电池，仅提供金属银（999 元）一个版本。 天猫 达尔优 ",
+   "published_at": 1794308348.0,
+   "published_bj": "2026-11-10 18:59"
+  },
+  {
+   "id": "74fd984486d42653",
+   "source": "IT之家",
+   "title": "东风本田 CR-V 全能荣耀款新车上市：华为云技术赋能云车机应用，现时售价 13.79 万元起",
+   "url": "https://www.ithome.com/1/025/076.htm",
+   "summary": "IT之家 11 月 10 日消息，东风本田 CR-V 全能荣耀款新车今晚正式上市， 现时售价 13.79 万元起 ，2,000 元可选价值 5,000 元智享选装包（13 寸 AI 智能屏 + 配套车机、360° 全景影像）。 燃油版 活力版：13.79 万元起 风尚版：15.89 万元起 风尚 7 座版：16.59 万元起 风尚四驱版：17.19 万元起 活力版 + 智享选装包：13.99 万元 混动版 电混活力版：15.69 万元起 电混风尚版：16.69 万元起 电混尊享版：17.69 万元起 电混尊享四驱版：18.69 万元起 电混风尚版 + 智享选装包：16.89 万元 据介绍，新车",
+   "published_at": 1794308053.0,
+   "published_bj": "2026-11-10 18:54"
+  },
+  {
+   "id": "5a63b789e80da446",
+   "source": "IT之家",
+   "title": "马自达 2 确认将停产，新一代 CX-3 接替其成为品牌入门车型",
+   "url": "https://www.ithome.com/1/025/070.htm",
+   "summary": "IT之家 11 月 10 日消息，原本外界预计马自达 2（Mazda 2）将在未来几年迎来换代，如今马自达却确认，这款小型车将逐步退出市场，并由另一款车型接替。根据马自达公布的信息，这款服役多年的小型两厢车将让位于下一代 CX-3 小型跨界 SUV，两条产品线实际上将合并为一条。 这一消息来自马自达《2026 年综合报告》。目前，该报告仅提供日文版本。马自达首席技术官梅下隆一（Ryuichi Umeshita）在报告中介绍了品牌入门级车型的调整计划。 他表示：“我们计划于 2027 年推出新一代马自达 CX-3，该车型将在泰国工厂生产，并面向日本及东盟市场销售。它将成为马自达新时代的入门级车型",
+   "published_at": 1794307808.0,
+   "published_bj": "2026-11-10 18:50"
+  },
+  {
+   "id": "f8bd4f9c37686ab6",
+   "source": "Hacker News",
+   "title": "What Constant Surveillance Is Doing to Children",
+   "url": "https://www.theatlantic.com/magazine/2026/12/location-tracking-apps-parental-surveillance/689031/",
+   "summary": "Article URL: https://www.theatlantic.com/magazine/2026/12/location-tracking-apps-parental-surveillance/689031/ Comments URL: https://news.ycombinator.com/item?id=50438480 Points: 14 # Comments: 4",
+   "published_at": 1794307638.0,
+   "published_bj": "2026-11-10 18:47"
+  },
+  {
    "id": "7d1446a795cee443",
    "source": "IT之家",
    "title": "投资者担心 AI 编译、反编译助长盗版游戏，泽尔尼克表态 Take-Two 会加强防范",
@@ -83,6 +236,15 @@
    "summary": "IT之家 11 月 10 日消息，在今天举行的 2027 财年第二季度财报电话会议上，Take-Two CEO 施特劳斯 · 泽尔尼克回答了投资者的提问。其中一名投资者担心，近几周 利用 AI 编译、反编译游戏 的现象越来越普遍，可能加剧游戏发行商面临的盗版问题。 泽尔尼克指出，由于游戏文件体积庞大、游戏主机生态相对封闭，以及许多游戏需要联网等原因，盗版问题一直没有给游戏行业造成太大影响。然而，AI 带来了新的风险。 面对投资者的担忧，他强调，Take-Two 正加强防范，打击利用 AI 从事恶意活动的行为。“我们全力加强技术防护，并采取适当的法律行动。我们绝不会掉以轻心，但任何娱乐行业都无法",
    "published_at": 1794307480.0,
    "published_bj": "2026-11-10 18:44"
+  },
+  {
+   "id": "20cb1cc4dd8e4e00",
+   "source": "Hacker News",
+   "title": "Meet the Sad Wives of AI",
+   "url": "https://www.wired.com/story/meet-the-sad-wives-of-ai/",
+   "summary": "Article URL: https://www.wired.com/story/meet-the-sad-wives-of-ai/ Comments URL: https://news.ycombinator.com/item?id=50438429 Points: 45 # Comments: 28",
+   "published_at": 1794307251.0,
+   "published_bj": "2026-11-10 18:40"
   },
   {
    "id": "5365ad9d9e82a78b",
@@ -155,6 +317,15 @@
    "summary": "IT之家 11 月 10 日消息，雷柏 (Rapoo) 即将于今晚 20:00 开始销售 VT2 RT V2 系列鼠标，标准版到手价 499 元、大师版到手价 599 元。 VT2 RT V2 系列 搭载基于霍尔效应传感器的 VTCS 可变触发控制系统 ，提供 10 档触发行程、10 档 Rapid Trigger 行程，可选 3 种点击触感、10 档点击反馈强度、10 种点击音效、10 档点击音量。 天猫 雷柏 VT2 RT V2 系列 鼠标 499 元起 直达链接 VT2 RT V2 系列采用 126×63×40 (mm) 的中大手模具，结合 Nordic nRF54LM20 主控、原相 ",
    "published_at": 1794306547.0,
    "published_bj": "2026-11-10 18:29"
+  },
+  {
+   "id": "031f56a30b94a773",
+   "source": "Hacker News",
+   "title": "AI usage generates a fragile codebase",
+   "url": "https://evanxmerz.com/post/ai-usage-generates-a-fragile-codebase/",
+   "summary": "Article URL: https://evanxmerz.com/post/ai-usage-generates-a-fragile-codebase/ Comments URL: https://news.ycombinator.com/item?id=50438318 Points: 26 # Comments: 11",
+   "published_at": 1794306358.0,
+   "published_bj": "2026-11-10 18:25"
   },
   {
    "id": "dcd5e2bb6a81339a",
@@ -524,6 +695,15 @@
    "summary": "IT之家 11 月 10 日消息，IT之家从国家市场监督管理总局获悉，日前，四川影目科技有限公司按照《消费品召回管理暂行规定》的要求，主动向国家市场监督管理总局和四川省市场监督管理局报告了召回计划。将自即日起，召回 2025 年 5 月-2026 年 6 月期间制造的部分 INMO AIR3 智能眼镜，共计 4701 副。 本次召回范围内的 INMO AIR3 智能眼镜，在搭载部分未经官方测试的第三方应用的运行中可能存在异常功耗调用，导致设备左镜腿在长时间使用时可能出现过热现象，存在烫伤安全隐患。 四川影目科技有限公司将通过 OTA 固件升级的方式对召回范围内的智能眼镜进行免费升级，并提醒用户",
    "published_at": 1794301276.0,
    "published_bj": "2026-11-10 17:01"
+  },
+  {
+   "id": "48c1dbb77c5a0a71",
+   "source": "Hacker News",
+   "title": "Fossil CO2 emissions decrease by 0.4% in 2026",
+   "url": "https://news.exeter.ac.uk/faculty-of-environment-science-and-economy/fossil-co2-emissions-decrease-in-2026/",
+   "summary": "Article URL: https://news.exeter.ac.uk/faculty-of-environment-science-and-economy/fossil-co2-emissions-decrease-in-2026/ Comments URL: https://news.ycombinator.com/item?id=50437752 Points: 13 # Comments: 2",
+   "published_at": 1794301181.0,
+   "published_bj": "2026-11-10 16:59"
   },
   {
    "id": "57a2b7b9549d179e",
@@ -2918,6 +3098,15 @@
    "summary": "Article URL: https://blog.google/innovation-and-ai/infrastructure-and-cloud/global-network/tpu-8i-max-and-8tx/ Comments URL: https://news.ycombinator.com/item?id=50432831 Points: 75 # Comments: 5",
    "published_at": 1794261417.0,
    "published_bj": "2026-11-10 05:56"
+  },
+  {
+   "id": "13753deca0f5939f",
+   "source": "IT之家",
+   "title": "Lucid 2026Q1~Q3 归母亏损 34.74 亿美元，同比扩大 38.7%",
+   "url": "https://www.ithome.com/1/024/569.htm",
+   "summary": "IT之家 11 月 10 日消息，Lucid 今日发布 2026 年前三季度（ 1 月～9 月 ）及第 3 季度（ 7 月～9 月 ）数据： 2026Q1~Q3 营业总收入 ：10.38 亿美元，同比增长 24.92% 毛利润 ：-9.97 亿美元，同比扩大 19.44% 毛利率 ：-96% 归母净利润 ：-34.74 亿美元，同比扩大 38.7% 经营现金流 ：-31.61 亿美元，同比扩大 56.81% 自由现金流 ：-39.55 亿美元，同比扩大 54.58% 基本 / 稀释每股收益 ：-9.43 美元 2026Q3 营业总收入 ：3.5 亿美元，同比增长 4% 毛利润 ：-2.58 亿",
+   "published_at": 1794258778.0,
+   "published_bj": "2026-11-10 05:12"
   },
   {
    "id": "e23f6a1f3b4255ea",

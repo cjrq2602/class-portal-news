@@ -1,8 +1,26 @@
 {
  "date": "2026-11-11",
- "generated_at": 1794307690.4350092,
- "count": 2,
+ "generated_at": 1794311110.1262052,
+ "count": 4,
  "items": [
+  {
+   "id": "bf2dd8be34788b3e",
+   "source": "InfoQ中文",
+   "title": "接大模型别再自己配 Key、搭代理了，火山引擎 IGA Pages 一步搞定",
+   "url": "https://www.infoq.cn/article/juu2R26yD8B6ABUEQuWB?utm_source=rss&utm_medium=article",
+   "summary": "点击查看原文>",
+   "published_at": 1794337136.0,
+   "published_bj": "2026-11-11 02:58"
+  },
+  {
+   "id": "187700467a5f6d02",
+   "source": "InfoQ中文",
+   "title": "近 700 亿美元 IPO 定价突然撤回！Anthropic 最快今天路演，下周冲刺上市",
+   "url": "https://www.infoq.cn/article/8tquwes1yGbmTeyOjOId?utm_source=rss&utm_medium=article",
+   "summary": "点击查看原文>",
+   "published_at": 1794336858.0,
+   "published_bj": "2026-11-11 02:54"
+  },
   {
    "id": "c0f7b32f32ed8389",
    "source": "InfoQ中文",
