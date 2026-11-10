@@ -1,8 +1,98 @@
 {
  "date": "2026-11-11",
- "generated_at": 1794344646.2047224,
- "count": 40,
+ "generated_at": 1794347923.515174,
+ "count": 51,
  "items": [
+  {
+   "id": "cf228ba9f4a6458e",
+   "source": "cnBeta",
+   "title": "传英伟达或削减台积电芯片订单 内外部压力持续加大",
+   "url": "https://www.cnbeta.com.tw/articles/tech/1585852.htm",
+   "summary": "据台湾《工商时报》援引未具名供应链消息人士的报道，英伟达可能正在放缓对台积电的芯片下单节奏。该报道并未指明涉及的具体产品、制程节点、订单规模或时间表，英伟达和台积电目前也均未对此作出回应。由于消息来源单一，相关说法仍应被视为传闻。 阅读全文",
+   "published_at": 1794346897.0,
+   "published_bj": "2026-11-11 05:41"
+  },
+  {
+   "id": "102fa334308a8a60",
+   "source": "cnBeta",
+   "title": "《塞尔达：时之笛 重制版》开局良好 NS2涨价影响有限",
+   "url": "https://www.cnbeta.com.tw/articles/game/1585850.htm",
+   "summary": "任天堂社长古川俊太郎表示，《塞尔达：时之笛 重制版》开局良好，Switch2涨价目前也未明显拖慢销售势头。不过，任天堂尚未公布这款游戏的具体销量。 阅读全文",
+   "published_at": 1794345293.0,
+   "published_bj": "2026-11-11 05:14"
+  },
+  {
+   "id": "a49dad345368da98",
+   "source": "cnBeta",
+   "title": "《GTA6》新实机宣传片 R星确认主机版只有30帧",
+   "url": "https://www.cnbeta.com.tw/articles/game/1585848.htm",
+   "summary": "R星已为《GTA6》启动预载，并发布“Pre-Load Now”宣传片，公开部分此前未展示的画面。本作将于11月19日登陆PS5和XSX|S，数字版预购用户可以提前下载文件，但无法提前进入游戏。 阅读全文",
+   "published_at": 1794345251.0,
+   "published_bj": "2026-11-11 05:14"
+  },
+  {
+   "id": "0d2dd8bdc880448f",
+   "source": "cnBeta",
+   "title": "Anthropic七名联合创始人拟在重磅IPO中套现17.5亿美元",
+   "url": "https://www.cnbeta.com.tw/articles/tech/1585846.htm",
+   "summary": "根据周二公布的最新招股书，Anthropic的七名联合创始人将在下周的首次公开募股中合计出售价值17.5亿美元的股票。按IPO发行价区间中点计算，每位联合创始人拟出售价值约2.5亿美元的股票。据亿万富翁指数，按这一估值计算，每人的净资产将达到约180亿美元。 阅读全文",
+   "published_at": 1794345234.0,
+   "published_bj": "2026-11-11 05:13"
+  },
+  {
+   "id": "51659d23a6092f35",
+   "source": "cnBeta",
+   "title": "Anthropic进军人工智能办公软件 IPO前与微软谷歌竞争升温",
+   "url": "https://www.cnbeta.com.tw/articles/tech/1585844.htm",
+   "summary": "Anthropic推出一系列工具，进一步将人工智能（AI）融入日常办公，与微软和谷歌展开更直接的竞争。这些功能将于周二Anthropic的一场活动上发布，包括视频通话助手、数据仪表板工具，以及名为Claude Sheets的电子表格服务。Claude Sheets与微软Excel和谷歌Sheets非常相似，但内置Anthropic的AI功能。许多新工具将以测试版形式向付费用户开放。 阅读全文",
+   "published_at": 1794345139.0,
+   "published_bj": "2026-11-11 05:12"
+  },
+  {
+   "id": "6f43f45bbfa46366",
+   "source": "cnBeta",
+   "title": "英伟达独立董事聘请外部律所 对黄仁勋事件展开调查",
+   "url": "https://www.cnbeta.com.tw/articles/tech/1585842.htm",
+   "summary": "英伟达独立董事聘请了律师事务所Wachtell， Lipton， Rosen &amp; Katz来协助调查首席执行官黄仁勋。根据周二发布的简短声明，董事们已聘请Wachtell Lipton的Joon H． Kim负责“进行全面且独立的调查”。Kim曾任纽约南区代理联邦检察官。 阅读全文",
+   "published_at": 1794345066.0,
+   "published_bj": "2026-11-11 05:11"
+  },
+  {
+   "id": "885cecb0368dcb3f",
+   "source": "cnBeta",
+   "title": "Anthropic拟通过IPO和私募配售筹至多904亿美元 有望超SpaceX纪录",
+   "url": "https://www.cnbeta.com.tw/articles/tech/1585840.htm",
+   "summary": "Anthropic PBC寻求在首次公开募股（IPO）中实现约1.4万亿美元的完全摊薄估值，力争成为首家上市的前沿人工智能实验室。这家Claude聊天机器人开发商及其联合创始人寻求通过IPO和私募配售筹集至多904亿美元。 阅读全文",
+   "published_at": 1794345028.0,
+   "published_bj": "2026-11-11 05:10"
+  },
+  {
+   "id": "67b11cb34d7514a9",
+   "source": "TechCrunch",
+   "title": "OpenAI acquires Odessia, travel startup created by Sonder founder",
+   "url": "https://techcrunch.com/2026/11/10/openai-acquires-odessia-travel-startup-created-by-sonder-founder/",
+   "summary": "OpenAI has not yet said what its plans are for the future of travel. But Sonder founder Francis Davidson is a well-known figure in the travel industry.",
+   "published_at": 1794344932.0,
+   "published_bj": "2026-11-11 05:08"
+  },
+  {
+   "id": "dafcaca7a0aa0169",
+   "source": "Hacker News",
+   "title": "Six Math Essentials by Terence Tao",
+   "url": "https://teorth.github.io/tao-web/six-math-essentials.html",
+   "summary": "Article URL: https://teorth.github.io/tao-web/six-math-essentials.html Comments URL: https://news.ycombinator.com/item?id=50446246 Points: 31 # Comments: 2",
+   "published_at": 1794344324.0,
+   "published_bj": "2026-11-11 04:58"
+  },
+  {
+   "id": "e5cf328b9d233350",
+   "source": "Hacker News",
+   "title": "Sherman Anti-Trust Act (1890",
+   "url": "https://www.archives.gov/milestone-documents/sherman-anti-trust-act",
+   "summary": "Article URL: https://www.archives.gov/milestone-documents/sherman-anti-trust-act Comments URL: https://news.ycombinator.com/item?id=50446219 Points: 31 # Comments: 14",
+   "published_at": 1794344176.0,
+   "published_bj": "2026-11-11 04:56"
+  },
   {
    "id": "5defb2bea9833353",
    "source": "TechCrunch",
@@ -38,6 +128,15 @@
    "summary": "Each of the seven co-founders plans to sell exactly the same number of shares in the IPO, which would bring each of them about $250 million in cash at the midpoint of the price range while leaving the group in control of the company.",
    "published_at": 1794340672.0,
    "published_bj": "2026-11-11 03:57"
+  },
+  {
+   "id": "409d59c827b1a3f5",
+   "source": "Hacker News",
+   "title": "Toyota brand Scion is back and it's going to sell a kei truck in America",
+   "url": "https://www.theautopian.com/scion-is-back-and-its-going-to-sell-a-freaking-kei-truck-in-america/",
+   "summary": "Article URL: https://www.theautopian.com/scion-is-back-and-its-going-to-sell-a-freaking-kei-truck-in-america/ Comments URL: https://news.ycombinator.com/item?id=50445401 Points: 67 # Comments: 41",
+   "published_at": 1794340246.0,
+   "published_bj": "2026-11-11 03:50"
   },
   {
    "id": "36d0343b18099724",
