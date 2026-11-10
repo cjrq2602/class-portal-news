@@ -1,8 +1,17 @@
 {
  "date": "2026-11-11",
- "generated_at": 1794300705.0589597,
- "count": 1,
+ "generated_at": 1794304181.6663811,
+ "count": 2,
  "items": [
+  {
+   "id": "c0f7b32f32ed8389",
+   "source": "InfoQ中文",
+   "title": "Chrome 想终结“去邮箱复制验证码”，但隐私真的更好了吗？",
+   "url": "https://www.infoq.cn/article/UltsRzyiYdLd4r1S3mkm?utm_source=rss&utm_medium=article",
+   "summary": "点击查看原文>",
+   "published_at": 1794330000.0,
+   "published_bj": "2026-11-11 01:00"
+  },
   {
    "id": "c8b4bd07a752f2f6",
    "source": "InfoQ中文",
