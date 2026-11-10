@@ -1,8 +1,44 @@
 {
  "date": "2026-11-11",
- "generated_at": 1794338375.5784044,
- "count": 30,
+ "generated_at": 1794341454.858025,
+ "count": 35,
  "items": [
+  {
+   "id": "777e0d6defa710b6",
+   "source": "TechCrunch",
+   "title": "All 7 Anthropic founders will each cash out about $250M in IPO",
+   "url": "https://techcrunch.com/2026/11/10/all-7-anthropic-founders-will-each-cash-out-about-250m-in-ipo/",
+   "summary": "Each of the seven co-founders plans to sell exactly the same number of shares in the IPO, which would bring each of them about $250 million in cash at the midpoint of the price range while leaving the group in control of the company.",
+   "published_at": 1794340672.0,
+   "published_bj": "2026-11-11 03:57"
+  },
+  {
+   "id": "36d0343b18099724",
+   "source": "Hacker News",
+   "title": "What objective is reasoning solving?",
+   "url": "https://alexwang.ai/posts/reasoning-as-pathfinding/",
+   "summary": "Article URL: https://alexwang.ai/posts/reasoning-as-pathfinding/ Comments URL: https://news.ycombinator.com/item?id=50445013 Points: 11 # Comments: 1",
+   "published_at": 1794338714.0,
+   "published_bj": "2026-11-11 03:25"
+  },
+  {
+   "id": "8afdc6cc471190e9",
+   "source": "TechCrunch",
+   "title": "Oura to acquire AI-native primary care startup Counsel Health for $625M",
+   "url": "https://techcrunch.com/2026/11/10/oura-to-acquire-ai-native-primary-care-startup-counsel-health-for-625m/",
+   "summary": "The deal comes a few weeks after Oura postponed its up to $2.2 billion IPO indefinitely, citing “uncertainty in the IPO market.”",
+   "published_at": 1794338614.0,
+   "published_bj": "2026-11-11 03:23"
+  },
+  {
+   "id": "74fe9a6a9803ac12",
+   "source": "Hacker News",
+   "title": "A comprehensive study of how fingerprintable users are",
+   "url": "https://fingerprinting.study/",
+   "summary": "Article URL: https://fingerprinting.study/ Comments URL: https://news.ycombinator.com/item?id=50444684 Points: 8 # Comments: 0",
+   "published_at": 1794337434.0,
+   "published_bj": "2026-11-11 03:03"
+  },
   {
    "id": "3e7343a98e7f5912",
    "source": "TechCrunch",
@@ -81,6 +117,15 @@
    "title": "Claude Whiteboards, Claude Sheets, and Claude Data",
    "url": "https://claude.com/resources/articles/sheets-whiteboards-data",
    "summary": "Article URL: https://claude.com/resources/articles/sheets-whiteboards-data Comments URL: https://news.ycombinator.com/item?id=50443716 Points: 8 # Comments: 1",
+   "published_at": 1794333307.0,
+   "published_bj": "2026-11-11 01:55"
+  },
+  {
+   "id": "3c900f8202010a2b",
+   "source": "Hacker News",
+   "title": "An Open Field Guide to Inference Engineering",
+   "url": "https://docs.modelplane.ai/guides/inference-guide",
+   "summary": "Article URL: https://docs.modelplane.ai/guides/inference-guide Comments URL: https://news.ycombinator.com/item?id=50443714 Points: 20 # Comments: 1",
    "published_at": 1794333307.0,
    "published_bj": "2026-11-11 01:55"
   },
