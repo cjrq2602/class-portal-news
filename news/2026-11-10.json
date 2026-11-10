@@ -1,7 +1,7 @@
 {
  "date": "2026-11-10",
- "generated_at": 1794285004.8077593,
- "count": 166,
+ "generated_at": 1794288646.32834,
+ "count": 178,
  "items": [
   {
    "id": "92fa52d7d28724a3",
@@ -58,6 +58,96 @@
    "published_bj": "2026-11-10 17:11"
   },
   {
+   "id": "f170f5df15c3cafa",
+   "source": "cnBeta",
+   "title": "Google Gemini关联邮箱和云端硬盘后 部分内容会被人工审核",
+   "url": "https://www.cnbeta.com.tw/articles/tech/1585684.htm",
+   "summary": "日前有开发者发布测试报告称，个人版 Gemini AI 在关联 Google Workspace 后可能会根据日常对话自动检索 Gmail 邮件或Google云端硬盘中存储的文件。而Google在帮助文档中提到，Gemini 处理的部分关联应用数据可能会被人工审核，内容包括但不限于邮件和文件的摘要和摘录，某些情况下还有可能包含完整内容。 阅读全文",
+   "published_at": 1794288546.0,
+   "published_bj": "2026-11-10 13:29"
+  },
+  {
+   "id": "36d6576b6191f031",
+   "source": "IT之家",
+   "title": "英伟达黄仁勋遭股东集体诉讼，出轨丑闻致公司市值蒸发超万亿元",
+   "url": "https://www.ithome.com/1/024/756.htm",
+   "summary": "IT之家 11 月 10 日消息，据央视财经今日报道，英伟达董事会 8 日宣布，将针对有关首席执行官黄仁勋个人关联事项的指控启动独立调查。受相关风波影响，黄仁勋的去留成为市场焦点。 当地时间 9 日，英伟达股价走低，最终收跌 4.27%，报每股 178.67 美元 （IT之家注：现汇率约合 1,195 元人民币） ，市值缩水约 1,930 亿美元 （现汇率约合 1.29 万亿元人民币） 。而在美股收盘五分钟后， 英伟达及黄仁勋便遭到股东集体诉讼，指控其涉嫌欺诈股东 。 在本次出轨丑闻冲击之前，英伟达股价本就承压。市场对 AI 赛道企业估值的担忧持续升温，叠加 AI 板块普遍遭遇抛售，英伟达股价",
+   "published_at": 1794288503.0,
+   "published_bj": "2026-11-10 13:28"
+  },
+  {
+   "id": "c00953260a928bdc",
+   "source": "cnBeta",
+   "title": "开发中代码被搬运甚至被AI改写隐藏来源 Asahi Linux决定转向GPL许可证",
+   "url": "https://www.cnbeta.com.tw/articles/tech/1585682.htm",
+   "summary": "致力于让 Linux 系统在苹果 M 芯片上运行的 Asahi Linux 项目日前宣布：开始把旗下代码仓库转向 GPL 2.0 或更高版本的许可证。从 MIT 许可证转向 GPL 许可证意味着宽松授权被收紧，作为开源项目为什么要收紧许可条款呢？ 阅读全文",
+   "published_at": 1794288484.0,
+   "published_bj": "2026-11-10 13:28"
+  },
+  {
+   "id": "337c0b378eab16f5",
+   "source": "IT之家",
+   "title": "华为 WATCH GT 7 智能手表首发三个月 1588 → 到手 999 元：41mm/46mm 可选",
+   "url": "https://www.ithome.com/1/024/755.htm",
+   "summary": "8 月 14 日华为 WATCH GT 7 智能手表正式开售，提供 41/46mm 两种规格，售价 1588 元起。 41mm： 氟橡胶表带（樱语粉、晴光蓝）1588 元 复合素皮表带月影灰 1788 元 双色复合素皮表带悦动白 1988 元 46mm： 氟橡胶表带（驰光蓝、疾影黑、速影黄）1688 元， 复合素皮表带（星云灰）1888 元 京东 11.11 大促狂欢中，叠加以下多重优惠，到手仅需 990.25 元 +6 期免息： 点击下方卡片可领满 1111-400 元优惠券 +PLUS 专享满 200-200 元专享优惠券； App 进入商品页可能自动发放 2 元限时立减资格（直接进入没领",
+   "published_at": 1794288430.0,
+   "published_bj": "2026-11-10 13:27"
+  },
+  {
+   "id": "0aad0fcef5829752",
+   "source": "IT之家",
+   "title": "苹果 Siri AI 调度规则曝光：约 2% 英文请求走本地 AI 模型，覆盖定时等高频操作",
+   "url": "https://www.ithome.com/1/024/754.htm",
+   "summary": "IT之家 11 月 10 日消息，消息源 @itspdfu 今天（11 月 10 日）在 X 平台发布推文，爆料称在 iOS / macOS 27.3 首个开发者预览版 Beta 中，苹果公司为 Siri AI 引入名为 Skimmer 的前置模块， 首次将约 2% 的英语请求路由到本地完成。 消息源指出在 macOS 27.3 预览版中，在联网状态下，约 2% 的 Siri AI 英文请求会路由到本地模型处理， 主要涵盖“设置定时器”、“播放音乐”、“拨打电话”等高频、结构相对固定的指令 ，从而降低延迟、节省算力并保护隐私。IT之家附上相关截图如下： 在后台运行机制方面，该消息源挖掘称在新版",
+   "published_at": 1794287952.0,
+   "published_bj": "2026-11-10 13:19"
+  },
+  {
+   "id": "0d7340f97642e17b",
+   "source": "TechCrunch",
+   "title": "California’s proposed ‘billionaire tax’ fails to pass",
+   "url": "https://techcrunch.com/2026/11/09/californias-proposed-billionaire-tax-fails-to-pass/",
+   "summary": "California voters rejected Proposition 40, the one-time 5% tax on billionaires, the AP reported Monday. Tech leaders outspent backers roughly 10 to 1 to defeat it, and the founders and economists TechCrunch interviewed before the vote were split on whether it would have driven out wealthy residents ",
+   "published_at": 1794287923.0,
+   "published_bj": "2026-11-10 13:18"
+  },
+  {
+   "id": "f73498789c7d2e27",
+   "source": "IT之家",
+   "title": "不再固定 3 分钟：苹果 macOS 27.3 版密码应用将支持定制锁定时间",
+   "url": "https://www.ithome.com/1/024/753.htm",
+   "summary": "IT之家 11 月 10 日消息，消息源 @itspdfu 于 11 月 8 日在 X 平台发布推文，爆料称在 macOS 27.3 首个开发者预览版 Beta 中， 苹果公司酝酿升级“密码”（Passwords）应用，让用户自定义锁定时间。 IT之家援引博文介绍，在现有 macOS 版“密码”应用中，用户停止操作 3 分钟后自动锁定，再次查看密码、通行密钥或验证码时，需要重新完成身份验证。 macOS 27.3 新增的“自动锁定”设置，将提供五种选择：1 分钟、3 分钟、10 分钟无操作后锁定，Mac 锁定或进入睡眠时锁定，以及“从不”自动锁定。 设置路径上，用户在 macOS 27.3 测",
+   "published_at": 1794286711.0,
+   "published_bj": "2026-11-10 12:58"
+  },
+  {
+   "id": "59a721965f1be109",
+   "source": "IT之家",
+   "title": "Windows Server 开发新思路：微软推出 TAP 计划，邀请真实客户“共同排雷”",
+   "url": "https://www.ithome.com/1/024/752.htm",
+   "summary": "IT之家 11 月 10 日消息，科技媒体 NeoWin 昨日（11 月 9 日）发布博文，报道称微软探索 Windows Server 新开发思路， 推出技术采纳计划（Technology Adoption Program，简称 TAP），邀请企业客户直接参与系统改进。 IT之家援引博文介绍，Windows Server 系统版本更迭目前主要依赖 Windows Server Insider 项目，通常情况下，在微软发布预览版或者正式更新之后，企业用户才在自家环境中评估兼容性、性能和运维影响，更偏向公开预览。企业仍可能在实际部署、升级或运行关键业务负载时，才发现新版本与自身硬件、应用和管理流",
+   "published_at": 1794286092.0,
+   "published_bj": "2026-11-10 12:48"
+  },
+  {
+   "id": "844683b749788eba",
+   "source": "TechCrunch",
+   "title": "Jensen Huang’s alleged honeypot scandal has inspired some top-notch memes",
+   "url": "https://techcrunch.com/2026/11/09/jensen-huangs-alleged-honeypot-scandal-has-inspired-some-top-notch-memes/",
+   "summary": "The internet is having a field day with Nvidia's Jensen Huang's alleged honeypot scandal.",
+   "published_at": 1794285255.0,
+   "published_bj": "2026-11-10 12:34"
+  },
+  {
+   "id": "b73c0ac391c64b20",
+   "source": "IT之家",
+   "title": "陈建斌谈 AI 替代：不好的演员在任何时代都会失业，好演员永远不会失业",
+   "url": "https://www.ithome.com/1/024/750.htm",
+   "summary": "IT之家 11 月 10 日消息，据新浪电影今日报道，演员陈建斌今日在金鸡电影论坛 · 编导演论坛上发言： 不好的演员在任何时代都会失业，好演员永远不会失业 。 陈建斌表示：很多人说 AI 出现以后，演员会失业，我个人一直以来都秉持着一个观点是，在任何一个时代，不好的演员一定会失业。如果你真是一个很棒的演员，是一个艺术家，我觉得你永远都不会失业。 因为人们需要你身上的最珍贵的东西，那不是 AI 能够生产出来的 ，你的灵魂和你的精神是不属于你这个人的，这是人性所在。 陈建斌还称：AI 做出来的丰富性和多样性，我看到我也觉得非常有意思，但我觉得它是代替不了的。我们作为演员之前，我们首先是一个人， ",
+   "published_at": 1794285202.0,
+   "published_bj": "2026-11-10 12:33"
+  },
+  {
    "id": "3e8adf24f8c30901",
    "source": "IT之家",
    "title": "原今日头条 CEO 陈林首次公开承认离职，筹备 AI 教育创业",
@@ -92,6 +182,15 @@
    "summary": "IT之家 11 月 10 日消息，深蓝汽车今日宣布全新深蓝 G318 四驱畅行乾崑版将于 11 月 11 日上市，搭载华为乾崑技术与鸿蒙座舱。 IT之家注意到，全新深蓝 G318 于今年 8 月在成都车展上市， 限时优惠价 19.68 万元起 。该车搭载华为乾崑 ADS 5 Pro，配备包含 1 颗舱内激光雷达在内的 27 个高感知传感器，覆盖城区通勤、高速行驶以及智能泊车等多种场景。 作为参考，全新深蓝 G318 搭载鸿蒙座舱 Harmony Space 5，并配备车载大模型能力。该系统支持 10 种方言混说，可实现自然语言交互；同时加入导航 Agent 功能，用户可通过模糊语音指令完成路线",
    "published_at": 1794283441.0,
    "published_bj": "2026-11-10 12:04"
+  },
+  {
+   "id": "171b7af958b7a17f",
+   "source": "Hacker News",
+   "title": "Ultorg: The User Interface for Relational Databases",
+   "url": "https://www.ultorg.com/",
+   "summary": "Article URL: https://www.ultorg.com/ Comments URL: https://news.ycombinator.com/item?id=50435898 Points: 7 # Comments: 0",
+   "published_at": 1794283179.0,
+   "published_bj": "2026-11-10 11:59"
   },
   {
    "id": "1a2b84fc464df2c4",
@@ -488,6 +587,15 @@
    "summary": "IT之家 11 月 10 日消息，据纵览新闻报道，11 月 6 日晚，火流星坠落河北石家庄鹿泉区，陨石砸入麦田和厂房后碎裂，全国各地的“陨石猎人”扎堆赶来寻宝。据称， 这次最大的一块单体足有 35 公斤 。 11 月 6 日，河北、河南等地网友发视频称，天空中出现火流星。 据闪电新闻报道，11 月 8 日，石家庄市鹿泉区大河镇一位值班工作人员称，在北故城村发现了陨石。视频显示，村民捡到的陨石像“水泥”，用吸铁石能吸住。陨石收藏家称，火流星碎块为普通球粒陨石，价格不是很高，前些年交易克价在 100 元左右，已有人向科研单位寄去了样品。 近年来，全国多地也有发现陨石的情况，那么这些“天外来物”是属",
    "published_at": 1794275844.0,
    "published_bj": "2026-11-10 09:57"
+  },
+  {
+   "id": "187ed71b8b8b59d5",
+   "source": "Hacker News",
+   "title": "Formalizing CPython",
+   "url": "https://broyojo.com/python-formalization/",
+   "summary": "Article URL: https://broyojo.com/python-formalization/ Comments URL: https://news.ycombinator.com/item?id=50435105 Points: 15 # Comments: 4",
+   "published_at": 1794275808.0,
+   "published_bj": "2026-11-10 09:56"
   },
   {
    "id": "31c9e801cbd94f06",
