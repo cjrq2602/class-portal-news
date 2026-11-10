@@ -1,8 +1,17 @@
 {
  "date": "2026-11-11",
- "generated_at": 1794333711.51498,
- "count": 22,
+ "generated_at": 1794338375.5784044,
+ "count": 30,
  "items": [
+  {
+   "id": "3e7343a98e7f5912",
+   "source": "TechCrunch",
+   "title": "PSI is trying to make a business out of AI-driven scientific discovery",
+   "url": "https://techcrunch.com/2026/11/10/psi-is-trying-to-make-a-business-out-of-ai-driven-scientific-discovery/",
+   "summary": "PSI used an unreleased Anthropic model to answer a fundamental question about quantum computing that scientists have pursued for nearly two decades.",
+   "published_at": 1794337432.0,
+   "published_bj": "2026-11-11 03:03"
+  },
   {
    "id": "bf2dd8be34788b3e",
    "source": "InfoQ中文",
@@ -20,6 +29,69 @@
    "summary": "点击查看原文>",
    "published_at": 1794336858.0,
    "published_bj": "2026-11-11 02:54"
+  },
+  {
+   "id": "89493b247cef68a8",
+   "source": "TechCrunch",
+   "title": "OpenAI rolls out new business profiles, making ChatGPT just a little bit more like Google",
+   "url": "https://techcrunch.com/2026/11/10/openai-rolls-out-new-business-profiles-making-chatgpt-just-a-little-bit-more-like-google/",
+   "summary": "OpenAI is looking to make ChatGPT a more robust consumer discovery engine, and a host of new features seek to empower businesses to help it do that.",
+   "published_at": 1794336592.0,
+   "published_bj": "2026-11-11 02:49"
+  },
+  {
+   "id": "c3207af3dbfd8f02",
+   "source": "TechCrunch",
+   "title": "Pixel Tag, Google’s $30 Android-ready answer to Apple’s AirTag, is now available",
+   "url": "https://techcrunch.com/2026/11/10/pixel-tag-googles-30-android-ready-answer-to-apples-airtag-is-now-available/",
+   "summary": "Google's Pixel Tag lets you track lost items with your Android device, similar to Apple's AirTag.",
+   "published_at": 1794336559.0,
+   "published_bj": "2026-11-11 02:49"
+  },
+  {
+   "id": "3d9c69d02a1007e4",
+   "source": "Hacker News",
+   "title": "Starlink Mini 2",
+   "url": "https://starlink.com/mini-2",
+   "summary": "Article URL: https://starlink.com/mini-2 Comments URL: https://news.ycombinator.com/item?id=50444129 Points: 32 # Comments: 12",
+   "published_at": 1794334952.0,
+   "published_bj": "2026-11-11 02:22"
+  },
+  {
+   "id": "8bcbf40075cebb2d",
+   "source": "Hacker News",
+   "title": "Synaptics patent claims stop work on DisplayLink drivers",
+   "url": "https://lwn.net/SubscriberLink/1102549/acbc92e00cee3a3f/",
+   "summary": "Article URL: https://lwn.net/SubscriberLink/1102549/acbc92e00cee3a3f/ Comments URL: https://news.ycombinator.com/item?id=50443824 Points: 62 # Comments: 26",
+   "published_at": 1794333722.0,
+   "published_bj": "2026-11-11 02:02"
+  },
+  {
+   "id": "9525fa06febe81bf",
+   "source": "Hacker News",
+   "title": "Show HN: Get your coding agent off ~2019 JavaScript, onto modern web primitives",
+   "url": "https://github.com/GoogleChrome/modern-web-guidance",
+   "summary": "Browsers natively handle a lot of what used to take 50 lines of JS (or a dependency): `CSS.highlights` for text range highlighting without s everywhere, ` ` and showModal() give you backdrops and ideal focus management, `field-sizing` to auto-grow textareas as the user types.. (Something yesterday's",
+   "published_at": 1794333675.0,
+   "published_bj": "2026-11-11 02:01"
+  },
+  {
+   "id": "7e994de0115314ed",
+   "source": "Hacker News",
+   "title": "Claude Whiteboards, Claude Sheets, and Claude Data",
+   "url": "https://claude.com/resources/articles/sheets-whiteboards-data",
+   "summary": "Article URL: https://claude.com/resources/articles/sheets-whiteboards-data Comments URL: https://news.ycombinator.com/item?id=50443716 Points: 8 # Comments: 1",
+   "published_at": 1794333307.0,
+   "published_bj": "2026-11-11 01:55"
+  },
+  {
+   "id": "fc25b2b0cd74f836",
+   "source": "Hacker News",
+   "title": "Val Town is winding down",
+   "url": "https://blog.val.town/winding-down",
+   "summary": "Article URL: https://blog.val.town/winding-down Comments URL: https://news.ycombinator.com/item?id=50443427 Points: 108 # Comments: 25",
+   "published_at": 1794331874.0,
+   "published_bj": "2026-11-11 01:31"
   },
   {
    "id": "5f2605085c065cb2",
