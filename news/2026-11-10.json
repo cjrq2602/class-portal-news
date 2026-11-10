@@ -1,6 +1,6 @@
 {
  "date": "2026-11-10",
- "generated_at": 1794319408.129573,
+ "generated_at": 1794323350.7538009,
  "count": 400,
  "items": [
   {
@@ -31,6 +31,15 @@
    "published_bj": "2026-11-10 23:20"
   },
   {
+   "id": "2d8510175d1a80e0",
+   "source": "IT之家",
+   "title": "第 39 届中国电影金鸡奖全名单公布，《浪浪山小妖怪》《窗外是蓝星》《给阿嬷的情书》等获奖",
+   "url": "https://www.ithome.com/1/025/189.htm",
+   "summary": "IT之家 11 月 10 日消息，据央视新闻报道，今天，第 39 届中国电影金鸡奖颁奖典礼举行。获奖名单如下： 最佳女主角：高叶《南京照相馆》 最佳男主角：梁家辉 《捕风追影》 最佳女配角：兰西雅 《震耳欲聋》 最佳男配角：吾守尔 · 赛来 《万桐书》 最佳故事片：《南京照相馆》 最佳导演：郑大圣《密档》 评委会特别奖：《给阿嬷的情书》 最佳新晋导演：万力《震耳欲聋》 最佳中小成本故事片：《菜肉馄饨》 最佳录音：王砚伟《镖人：风起大漠》 最佳剪辑：黄曾鸿辰 《飞行家》 最佳美术：王竞 《得闲谨制》 最佳音乐：高小阳 《万桐书》 最佳摄影：董劲松 《狂野时代》 最佳动画：《浪浪山小妖怪》 最佳纪",
+   "published_at": 1794323104.0,
+   "published_bj": "2026-11-10 23:05"
+  },
+  {
    "id": "b07f5a6fb6ce4d3c",
    "source": "InfoQ中文",
    "title": "Cloudflare KV Instant：读取 p99 仅 1.62 毫秒，写入一次却要 0.1 美元",
@@ -38,6 +47,267 @@
    "summary": "点击查看原文>",
    "published_at": 1794322800.0,
    "published_bj": "2026-11-10 23:00"
+  },
+  {
+   "id": "af7ab3fbae8f3c76",
+   "source": "TechCrunch",
+   "title": "Reddit is turning user conversations into AI-powered product reviews",
+   "url": "https://techcrunch.com/2026/11/10/reddit-is-turning-user-conversations-into-ai-powered-product-reviews/",
+   "summary": "Reddit's new AI-powered reviews summarize what users like and dislike about 10,000 products, helping shoppers research purchases ahead of the holidays.",
+   "published_at": 1794322800.0,
+   "published_bj": "2026-11-10 23:00"
+  },
+  {
+   "id": "2d2a8b84f6c298b1",
+   "source": "IT之家",
+   "title": "QQ 鸿蒙版 App 获 9.2.83 邀测升级，新增支持查看历史头像等功能",
+   "url": "https://www.ithome.com/1/025/187.htm",
+   "summary": "IT之家 11 月 10 日消息，QQ 鸿蒙版 App 今日在华为应用市场（App Gallery）开启 9.2.83 (3628) 版本邀测升级（需收到短信通知后点击链接跳转安装），测试时间为 2026/11/10-2026/11/24。 IT之家附 QQ 鸿蒙版 App 本次测试版本新特性如下： 1、新增支持表情搜索。 2、新增支持查看历史头像。 3、修复一些已知体验问题。 据用户反馈，QQ 最新邀测版还适配了平板端的分栏显示功能。目前 QQ 鸿蒙版已获 5.2 万个评分（评分 2.4），已支持单聊、群聊、多人语音或视频通话、抢红包，刷空间好友动态、短视频、频道、扫一扫、手机 / 平板双端",
+   "published_at": 1794322606.0,
+   "published_bj": "2026-11-10 22:56"
+  },
+  {
+   "id": "3134bad9d6981e93",
+   "source": "cnBeta",
+   "title": "亚马逊旗下Ring发布飞行无人机和巡逻机器人",
+   "url": "https://www.cnbeta.com.tw/articles/tech/1585830.htm",
+   "summary": "亚马逊旗下Ring正进一步深入监控领域，推出一款用于家庭监控的室内无人机，以及一款旨在为企业巡逻的自主机器人。该公司周二发布了售价250美元的Ring Drone Cam。这是一款安防摄像头，可以从一个房间飞到另一个房间，包括楼上，并可在白天或夜间拍摄画面。 阅读全文",
+   "published_at": 1794322445.0,
+   "published_bj": "2026-11-10 22:54"
+  },
+  {
+   "id": "a8220219ea5dae6d",
+   "source": "cnBeta",
+   "title": "Aura推出新款10英寸彩色电子墨水相框 售价降至349美元",
+   "url": "https://www.cnbeta.com.tw/articles/tech/1585828.htm",
+   "summary": "美国数字相框制造商Aura推出了新一代Ink电子墨水相框，新产品将屏幕尺寸从上一代的13英寸缩小至10英寸，同时改进了彩色显示技术，并将售价从499美元降低至349美元。Aura希望通过这款产品，让电子相框在外观上更加接近传统纸质照片，使其能够自然融入家庭装饰，而不是显得像一块摆放在墙上的电子屏幕。 阅读全文",
+   "published_at": 1794322375.0,
+   "published_bj": "2026-11-10 22:52"
+  },
+  {
+   "id": "dd0e89dfe2a33aec",
+   "source": "IT之家",
+   "title": "PS5 Pro 也不例外：R 星确认《GTA 6》所有主机目标帧率都是 30fps",
+   "url": "https://www.ithome.com/1/025/185.htm",
+   "summary": "IT之家 11 月 10 日消息，今天（10 日）晚间，Rockstar Games（R 星）公布了下周发售的《GTA 6》的多项重要信息。预购玩家现可在 PS5 和 Xbox Series X|S 上预载游戏，数字版玩家可以立即下载，实体版玩家则需等收到兑换码后才能预载。 开发团队也正式确认，《GTA 6》不设性能模式， 所有主机版本均以 30fps 为目标帧率 ，PS5 Pro 也不例外。 不过，PS5 Pro 仍能凭借 独占的 PlayStation 光谱超分辨率技术（PSSR）和光线追踪阴影 获得更好的画质。据IT之家了解，《GTA 6》还充分利用了 PS5 的多项独占功能。 缩短加载",
+   "published_at": 1794322250.0,
+   "published_bj": "2026-11-10 22:50"
+  },
+  {
+   "id": "347bdd7aee8ec623",
+   "source": "cnBeta",
+   "title": "iPhone Air 2与iPhone 18模型机曝光 Air系列有望增加第二颗后置摄像头",
+   "url": "https://www.cnbeta.com.tw/articles/tech/1585826.htm",
+   "summary": "苹果下一代iPhone的设计细节再次提前曝光。网络上出现了疑似iPhone Air 2和标准版iPhone 18的金属模型机，展示了两款新机可能采用的外观设计。其中最值得关注的变化是，iPhone Air 2终于有望摆脱单摄像头配置，增加第二颗后置摄像头。 阅读全文",
+   "published_at": 1794322160.0,
+   "published_bj": "2026-11-10 22:49"
+  },
+  {
+   "id": "ad0c01a31f5b49a6",
+   "source": "cnBeta",
+   "title": "传闻称苹果将于2027年上半年推出OLED版iPad Air 提供双尺寸选择",
+   "url": "https://www.cnbeta.com.tw/articles/tech/1585824.htm",
+   "summary": "供应链消息显示苹果计划在2027年上半年将iPad Air产品线全面升级至OLED显示屏，这意味着现有两种尺寸的iPad Air都将告别LCD面板。事实上，关于OLED版iPad Air的传闻已持续一年多时间。早在2025年10月，就有消息称苹果正在开发采用OLED屏幕的iPad Air，而发布时间预计不会早于2027年。近期相关爆料进一步将时间范围缩小至2027年上半年，而最新报告则补充了出货量预测以及供应链分配情况。 阅读全文",
+   "published_at": 1794322127.0,
+   "published_bj": "2026-11-10 22:48"
+  },
+  {
+   "id": "e8f1615df922679c",
+   "source": "IT之家",
+   "title": "2025 年地球能量失衡达 1960 年有观测记录以来最高水平，今年可能再次刷新纪录",
+   "url": "https://www.ithome.com/1/025/184.htm",
+   "summary": "IT之家 11 月 10 日消息，据央视新闻今日报道，根据世界气象组织公布的最新数据， 2023 年至 2026 年成为有记录以来最热的四年 。 报告指出，年初的拉尼娜现象曾短暂抑制全球升温，但随着厄尔尼诺现象发展，全球气温再次攀升。 预计厄尔尼诺将持续至 2027 年初 ，可能进一步推高 2026 年全年平均气温。 与此同时，2025 年全球温室气体浓度再创新高，二氧化碳浓度较工业化前增加 53%。海洋热含量和卫星观测表明，地球系统积累热量的速度正在加快， 2025 年地球能量失衡达到 1960 年有观测记录以来最高水平，2026 年可能再次刷新纪录 。 IT之家查询世界气象组织数据获悉，2",
+   "published_at": 1794321703.0,
+   "published_bj": "2026-11-10 22:41"
+  },
+  {
+   "id": "da0020fb02f564a6",
+   "source": "cnBeta",
+   "title": "西班牙考虑暂停TikTok运营",
+   "url": "https://www.cnbeta.com.tw/articles/tech/1585822.htm",
+   "summary": "西班牙青年和儿童部已要求检察官对TikTok展开调查，原因是该平台上存在数千个视频，据称这些视频描绘了儿童性虐待以及疑似恋童癖者之间的互动。 阅读全文",
+   "published_at": 1794321595.0,
+   "published_bj": "2026-11-10 22:39"
+  },
+  {
+   "id": "389830b4291faab6",
+   "source": "cnBeta",
+   "title": "Anthropic投资人：美国企业的开源支出账单近9成流向中国公司",
+   "url": "https://www.cnbeta.com.tw/articles/tech/1585820.htm",
+   "summary": "美国企业花在开源大模型上的钱，正在持续流向中国公司。近日，硅谷风投机构门罗风投（Menlo Ventures）发布《2026年企业AI现状报告》。基于对近400名美国企业AI业务负责人的调研，报告估算，美国企业用于开源大模型的支出中，89%流向了中国模型，受访者负责的AI支出合计超过40亿美元。 阅读全文",
+   "published_at": 1794321573.0,
+   "published_bj": "2026-11-10 22:39"
+  },
+  {
+   "id": "b7068a25c7ebb49f",
+   "source": "cnBeta",
+   "title": "阿里巴巴：拟分拆平头哥赴港独立上市",
+   "url": "https://www.cnbeta.com.tw/articles/tech/1585818.htm",
+   "summary": "11月10日，阿里巴巴公告称，拟分拆全资子公司平头哥（上海）技术股份有限公司赴香港联交所主板独立上市。香港联交所已确认阿里巴巴可进行此次分拆，平头哥已于2026年9月11日以保密形式向港交所递交上市申请（A1表格）。此次分拆拟通过全球发售H股进行，包括香港公开发售及向机构和专业投资者配售。 阅读全文",
+   "published_at": 1794321554.0,
+   "published_bj": "2026-11-10 22:39"
+  },
+  {
+   "id": "65ee3998aa280e83",
+   "source": "cnBeta",
+   "title": "成本3万美元 特斯拉人形机器人擎天柱预计明年交付",
+   "url": "https://www.cnbeta.com.tw/articles/tech/1585816.htm",
+   "summary": "日前，马斯克在巴伦投资大会上对外披露特斯拉人形机器人Optimus（擎天柱）最新规划。马斯克表示， 擎天柱的初期成本可能与电动汽车差不多，每台机器人的初始成本约为3万美元，之后会降至2万美元左右，预计将在2027年底左右开始交付，但交付形式可能是“租”而不是“卖”。 阅读全文",
+   "published_at": 1794321462.0,
+   "published_bj": "2026-11-10 22:37"
+  },
+  {
+   "id": "643c5cafe1cbfcd6",
+   "source": "IT之家",
+   "title": "任天堂古川俊太郎：Switch 2 售价暂不调整，若成本实在扛不住就得涨价",
+   "url": "https://www.ithome.com/1/025/183.htm",
+   "summary": "IT之家 11 月 10 日消息，任天堂社长古川俊太郎表示，尽管硬件零部件价格持续上涨，任天堂仍希望维持 Switch 2 目前的售价不变。不过，这种情况也并非能够无限期坚持下去。如果成本压力持续扩大，任天堂最终可能不得不考虑涨价。 在公布财报后，任天堂管理层接受了投资者提问，谈及硬件和软件定价策略。随着各类成本不断上涨，投资者希望了解，任天堂会在什么情况下将涨价纳入经营计划。 对于硬件产品，古川俊太郎表示，任天堂需要依赖不同合作伙伴供应各种零部件，因此，当外部不可控因素导致供应链出现问题时，公司面临的风险也会更大。 古川俊太郎表示：“目前，受多种外部因素影响，制造成本呈上升趋势。我们的基本思",
+   "published_at": 1794321450.0,
+   "published_bj": "2026-11-10 22:37"
+  },
+  {
+   "id": "5780b8cae40e7798",
+   "source": "cnBeta",
+   "title": "旅客称高铁座椅充电越充越掉电 12306回应",
+   "url": "https://www.cnbeta.com.tw/articles/tech/1585814.htm",
+   "summary": "你有没有在乘坐高铁的时候遇到过类似的尴尬场景，插上座椅旁的USB口给手机充电，等了半天不仅电量没往上涨，反而越充越少甚至还往下掉。 近日有不少网友在社交平台发帖吐槽自己的类似遭遇，高铁座椅自带的USB充电口给手机充电越充耗电的相关话题很快冲上热门，引发了大量有同款经历的乘客共鸣。 阅读全文",
+   "published_at": 1794321430.0,
+   "published_bj": "2026-11-10 22:37"
+  },
+  {
+   "id": "a2d04320d3b10807",
+   "source": "cnBeta",
+   "title": "法国指责伊朗发动超市冰箱网络攻击 考虑实施制裁",
+   "url": "https://www.cnbeta.com.tw/articles/tech/1585812.htm",
+   "summary": "法国外交部长让-诺埃尔·巴罗（Jean-Noël Barrot）周二表示，对于10月针对法国超市冰箱发动的大规模网络攻击，法国政府“不会排除任何应对措施”。法国已将此次袭击归咎于伊朗。周二上午，法国政府召见伊朗驻法大使。此前，巴黎方面周一表示，调查结果认定，此次网络攻击由伊朗伊斯兰革命卫队网络部门下属组织沙希德·卡韦（Shahid Kaveh）实施。 阅读全文",
+   "published_at": 1794321356.0,
+   "published_bj": "2026-11-10 22:35"
+  },
+  {
+   "id": "69ef0ee501012fbf",
+   "source": "IT之家",
+   "title": "撤档三个月后重映：国产动画电影《三国第一部：争洛阳》密钥延期至 2026 年 12 月 16 日",
+   "url": "https://www.ithome.com/1/025/181.htm",
+   "summary": "IT之家 11 月 10 日消息，由《长安三万里》原班人马打造，追光动画“三国”系列首作《三国第一部：争洛阳》已于 10 月 17 日再次上映。影片官方今日宣布， 《三国第一部：争洛阳》密钥将延期至 2026 年 12 月 16 日 。 IT之家从电影《三国第一部：争洛阳》官方了解到，今年 10 月 23 日，本片累计票房破亿。本月初，猫眼专业版数据显示，电影《三国第一部：争洛阳》 重映票房破 1000 万。 该电影原定 7 月 10 日上映，目前豆瓣评分 8.0 分，然而票房成绩不尽如人意，上映 15 天总票房仅八千多万元，于 7 月 25 日宣布撤档，另择档期上映。本片由谢君伟（代表作《长",
+   "published_at": 1794321338.0,
+   "published_bj": "2026-11-10 22:35"
+  },
+  {
+   "id": "3ad5c42329b02665",
+   "source": "IT之家",
+   "title": "Steam 新一周游戏销量榜：《COD：MW4》反超《影之刃零》登顶全球",
+   "url": "https://www.ithome.com/1/025/180.htm",
+   "summary": "IT之家 11 月 10 日消息，Steam 平台现已公布了最新一周游戏销量排行榜（2026 年 11 月 3 日 - 2026 年 11 月 10 日，无免费游戏），《使命召唤：现代战争 4》反超《影之刃零》登顶全球榜，《影之刃零》继续蝉联国区榜首，新游《哥斯拉：怪兽大乱斗复刻版》《最终幻想 14：Evercold》首次上榜。 全球榜单 使命召唤：现代战争 4 影之刃零 AION 2 足球经理 27 深空当铺：可能是偷的 EA SPORTS FC™ 27 使命召唤 ® 最终幻想 14 Online Moon Sweepers 哥斯拉：怪兽大乱斗复刻版 国区榜单 影之刃零 深空当铺：可能是偷的",
+   "published_at": 1794321083.0,
+   "published_bj": "2026-11-10 22:31"
+  },
+  {
+   "id": "32f2b55fdaa16ca5",
+   "source": "cnBeta",
+   "title": "Meta事件后Manus创始人首次亮相：AI创业公司出现重大组织变化",
+   "url": "https://www.cnbeta.com.tw/articles/tech/1585810.htm",
+   "summary": "“这是你第一次在Meta事件发生后公开发言。你现在感觉怎么样？”当地时间11月9日晚，2026年Web Summit在葡萄牙里斯本开幕。在主会场的首场对话中，主持人Casey Lau将这个问题抛给了Manus联合创始人兼首席产品官（CPO）张涛。 阅读全文",
+   "published_at": 1794321042.0,
+   "published_bj": "2026-11-10 22:30"
+  },
+  {
+   "id": "a70ba910fd99e49e",
+   "source": "IT之家",
+   "title": "消息称苹果计划明年上半年为 iPad Air 换用 OLED 面板，预计仍为 60Hz 刷新率",
+   "url": "https://www.ithome.com/1/025/179.htm",
+   "summary": "IT之家 11 月 10 日消息，据外媒 DigiTimes 报道，苹果计划于 2027 年（明年）上半年为 iPad Air 换用 OLED 面板。 据报道，新款 iPad Air 预计将采用与 OLED iPad mini 相同的单层 OLED 发光结构，以及低温多晶硅（LTPS）背板技术。相比之下，现款 iPad Pro 使用双层 OLED 发光结构，以提升屏幕亮度，采用低温多晶氧化物（LTPO）背板技术。 此外，OLED 版 iPad Air 预计仍将采用 60Hz 刷新率，不会支持 ProMotion 技术，这项功能将继续作为 iPad Pro 系列的专属卖点。 供应链方面，三星显示",
+   "published_at": 1794321034.0,
+   "published_bj": "2026-11-10 22:30"
+  },
+  {
+   "id": "f07efbbc92ac7b33",
+   "source": "cnBeta",
+   "title": "Anthropic宣布IPO路演：预计下周四上市 目标估值1万亿美元",
+   "url": "https://www.cnbeta.com.tw/articles/tech/1585808.htm",
+   "summary": "Anthropic宣布今日启动A类普通股首次公开发行（IPO）路演，预计将于下周三定价，并于周四开始交易，IPO目标估值约1万亿美元。发行价区间预计为每股70–78美元。公司已申请在纳斯达克全球精选市场上市，股票代码ANT。 阅读全文",
+   "published_at": 1794320968.0,
+   "published_bj": "2026-11-10 22:29"
+  },
+  {
+   "id": "6c3633bc346fa0e5",
+   "source": "IT之家",
+   "title": "国漫《浪浪山小妖怪》获第 39 届中国电影金鸡奖最佳动画片奖",
+   "url": "https://www.ithome.com/1/025/178.htm",
+   "summary": "IT之家 11 月 10 日消息，国产动画电影《浪浪山小妖怪》今日宣布， 本片获第 39 届中国电影金鸡奖“最佳动画片”奖 。 电影《浪浪山小妖怪》在去年暑期档电影中成功破圈。 该片票房已突破 17.19 亿元 ，成为中国影史二维动画电影票房冠军。截至IT之家发文，该影片的豆瓣评分为 8.5 分。 IT之家小伙伴记得用 最会买购买电影票 ，享受折扣价的同时还可以获得返利，预计每张票可以节省 5~15 元！ 延伸阅读 第 39 届中国电影金鸡奖颁奖典礼于 2026 年 11 月 10 日在福建省厦门市举行，2026 年中国金鸡百花电影节于 11 月 6 日至 11 月 10 日在厦门举办。本届金",
+   "published_at": 1794320900.0,
+   "published_bj": "2026-11-10 22:28"
+  },
+  {
+   "id": "7c6e4bd8167bc78f",
+   "source": "IT之家",
+   "title": "Adobe Creative Cloud 向第三方智能体大开城门，未来让 AI 帮你本地修图剪片",
+   "url": "https://www.ithome.com/1/025/177.htm",
+   "summary": "IT之家 11 月 10 日消息，在今天（10 日）于迈阿密举行的 Adobe MAX 大会上，Adobe 公布了一系列新功能： 第三方 AI 智能体能直接访问和修改 Creative Cloud 项目、升级 Firefly AI 助手，支持智能体在后台持续处理定期任务 。 Adobe 在大会上展示了 Creative Cloud 的本地模型上下文协议（MCP）接入功能。用户不必局限于 Adobe 自己的 AI 助手，还可以调用日常使用的第三方智能体。通过 MCP， OpenAI、谷歌和 Anthropic 等公司的 AI 智能体可以直接在本地操作 Photoshop、Illustrator、",
+   "published_at": 1794320875.0,
+   "published_bj": "2026-11-10 22:27"
+  },
+  {
+   "id": "47c3341cfa9c585d",
+   "source": "IT之家",
+   "title": "独立双系统：美的 575L 法式门双变频大冰箱京东 1868 元直降",
+   "url": "https://www.ithome.com/1/025/176.htm",
+   "summary": "美的 · 双系统法式门冰箱 575L 日常 3900 元左右，今晚京东自营直降至 1868 元好价： 京东 美的 双系统法式门冰箱 575L 券后 1878 元 领 9 折券 京东 11.11 无门槛红包 至高 26888 元，支持即领即用，下单直接当钱花： 点此抽取 。 冷冻室容积 211L，冷藏室容积 364L，合计 575L。 独立双系统，减少串味真保鲜。 支持连接美的美居 App，智慧保鲜自动调温。 京东 11.11 无门槛红包 面额至高 26888 元，每天抽 3 次： 点此抽红包 。 淘宝 11.11 无门槛红包 面额至高 26888 元，每天抽 1 次： 点此抽红包 。",
+   "published_at": 1794320653.0,
+   "published_bj": "2026-11-10 22:24"
+  },
+  {
+   "id": "ff8c237c2a41efa0",
+   "source": "IT之家",
+   "title": "阿维塔副总裁雍军声明“坚决不造速成车”：车一旦速成，一个家庭没了的可能性就会增大",
+   "url": "https://www.ithome.com/1/025/175.htm",
+   "summary": "IT之家 11 月 10 日消息，阿维塔科技副总裁雍军今日发文，揭秘了直播中提及的价值 6 个亿的「废车场」具体所指： 这些战损车，对阿维塔来说非常重要。不仅是因为这些车不便宜，更有一个共同点是： 都不能卖给受众 。 因为在交到用户手里之前，每一台车都要经历大量严苛的测试。从整车耐久、高温、低温，到强化腐蚀、复杂路面冲击、涉水、碰撞安全、无框车门开合耐久... 等多项测试。 有些车要经历「两冬两夏」 ，有些车要在极寒、极热环境下反复验证，有些车要跑几十万公里，有些车甚至要经历破坏性测试。 说实话，这些投入确实不小，甚至有些测试，做完车就报废了。 雍军表示，汽车研发没有捷径，研发测试的钱一分都不",
+   "published_at": 1794320454.0,
+   "published_bj": "2026-11-10 22:20"
+  },
+  {
+   "id": "7bb721793873729c",
+   "source": "IT之家",
+   "title": "育碧《舞力全开：传世金曲》登陆任天堂 Switch 2 平台：收录跨六十年金曲，5610 日元",
+   "url": "https://www.ithome.com/1/025/174.htm",
+   "summary": "IT之家 11 月 10 日消息，育碧舞力全开系列最新作《舞力全开：传世金曲（Just Dance: Decades of Hits）》现已正式登陆任天堂 Switch 2 平台，以 eShop 日服为例，本作定价为 5,610 日元 （IT之家注：现汇率约合 237.2 元人民币） ，IT之家附游戏商品页（ https://store-jp.nintendo.com/item/software/D70070000037871 ）。 本作收录 35 首歌曲，横跨 20 世纪 70 年代至 2020 年代六个十年。官方公布的部分曲目包括 ABBA 的《Mamma Mia》、Billy Joel ",
+   "published_at": 1794320187.0,
+   "published_bj": "2026-11-10 22:16"
+  },
+  {
+   "id": "fa331ee4ee1b08ad",
+   "source": "Hacker News",
+   "title": "The U.S. Is Driving Away Young Scientists",
+   "url": "https://www.nytimes.com/interactive/2026/11/09/science/trump-funding-cuts-young-scientists-phd-research.html",
+   "summary": "Article URL: https://www.nytimes.com/interactive/2026/11/09/science/trump-funding-cuts-young-scientists-phd-research.html Comments URL: https://news.ycombinator.com/item?id=50440668 Points: 34 # Comments: 20",
+   "published_at": 1794319979.0,
+   "published_bj": "2026-11-10 22:12"
+  },
+  {
+   "id": "ba5801f0aa9d3d51",
+   "source": "IT之家",
+   "title": "中国首部 8K 拍摄太空电影《窗外是蓝星》获第 39 届中国电影金鸡奖最佳纪录 / 科教片奖",
+   "url": "https://www.ithome.com/1/025/172.htm",
+   "summary": "IT之家 11 月 10 日消息，据央视新闻今日报道，中国首部 8K 拍摄太空电影 —— 《窗外是蓝星》获第 39 届中国电影金鸡奖最佳纪录 / 科教片奖 。 IT之家注：《窗外是蓝星》是首部挂总台电影台标并登陆全国院线的电影，于去年 9 月 5 日全国公映。本片由总台影视剧纪录片中心导演朱翌冉执导，翟志刚、王亚平、叶光富三位神舟十三号航天员作为摄影师，在中国空间站拍摄。 故事以神舟十三号飞行乘组首次执行在轨驻留 6 个月任务为蓝本，向观众呈现一场充满中国式太空美学的旅程。影片在中国空间站舱内以全新的拍摄模式完成，通过在轨航天员团队与地球主创团队的共同协作努力，以航天员的视角让影片呈现出独特张",
+   "published_at": 1794319928.0,
+   "published_bj": "2026-11-10 22:12"
+  },
+  {
+   "id": "0dbb1fd4ec8de9bd",
+   "source": "IT之家",
+   "title": "西门子 CEO 博乐仁：AI 不会取代人类，会用 AI 的人却能取代不会用 AI 的人",
+   "url": "https://www.ithome.com/1/025/170.htm",
+   "summary": "IT之家 11 月 10 日消息，据日经亚洲今天（10 日）下午报道，西门子 CEO 博乐仁认为，AI 不会直接取代人类，但会使用 AI 的人将越来越多地 取代不会使用 AI 的人 。 随着企业开始思考 AI 将如何改变就业市场和岗位技能要求，掌握 AI 技术的重要性日益凸显。博乐仁认为，随着自动化和机器人技术的发展，大量体力劳动将被取代，但 拥有创造力、具备电气工程或机械工程等专业基础知识的人 仍有用武之地。 他解释道：“设计编程可以交给 AI 智能体，但应该 设计成什么样、具体要求该怎么定 ，我认为人类在这些方面仍远远领先于现有模型。所有大型 AI 模型本质上都是模式匹配工具…… 现有模型",
+   "published_at": 1794319756.0,
+   "published_bj": "2026-11-10 22:09"
+  },
+  {
+   "id": "f423a21096e96b28",
+   "source": "TechCrunch",
+   "title": "Adobe brings AI agents and new creative tools to Photoshop, Premiere, and Firefly",
+   "url": "https://techcrunch.com/2026/11/10/adobe-adds-more-ai-to-its-products-and-launches-an-mcp/",
+   "summary": "Adobe is taking on Figma with a new prototype builder tool in Firefly.",
+   "published_at": 1794319510.0,
+   "published_bj": "2026-11-10 22:05"
   },
   {
    "id": "d60281ffc2bbc653",
@@ -346,6 +616,15 @@
    "published_bj": "2026-11-10 20:42"
   },
   {
+   "id": "50c8192902388e70",
+   "source": "Hacker News",
+   "title": "Let over Lambda–50 Years of Lisp (2008)",
+   "url": "https://letoverlambda.com/",
+   "summary": "Article URL: https://letoverlambda.com/ Comments URL: https://news.ycombinator.com/item?id=50439448 Points: 7 # Comments: 0",
+   "published_at": 1794314127.0,
+   "published_bj": "2026-11-10 20:35"
+  },
+  {
    "id": "497de9bea0246688",
    "source": "IT之家",
    "title": "国补后 7999 → 6542 元：当贝 X9 Ultra 投影仪新低，至高 5600 CVIA 亮度、80000:1 动态对比度",
@@ -398,6 +677,15 @@
    "summary": "【京东活动可能随时变更，需以实付款为准】 索尼 Alpha 7C II 全画幅微单发布于 2023 年 8 月份，单机身首发价 13999 元。 京东 11.11 大促期间，按下方步骤下单，叠加 PLUS 立减 + 15% 国补后仅需 8693.51 元： 领 9.5 折 PLUS 券： 点此查看 。 领 10000-300 元品类券：商品页面弹窗领取。 1 元锁定下单返 50 元 E 卡资格。 京东 索尼 Alpha 7C II 全画幅微单 FE 28-60mm F4-5.6 套装 国补后 8693.51 元 直达链接 国补可用地区如下图所示 京东 11.11 无门槛红包至高 26888 元",
    "published_at": 1794313296.0,
    "published_bj": "2026-11-10 20:21"
+  },
+  {
+   "id": "e7e464214c96e91a",
+   "source": "Hacker News",
+   "title": "What's new in the .NET 11 runtime",
+   "url": "https://learn.microsoft.com/en-us/dotnet/core/whats-new/dotnet-11/runtime",
+   "summary": "Article URL: https://learn.microsoft.com/en-us/dotnet/core/whats-new/dotnet-11/runtime Comments URL: https://news.ycombinator.com/item?id=50439284 Points: 45 # Comments: 11",
+   "published_at": 1794313207.0,
+   "published_bj": "2026-11-10 20:20"
   },
   {
    "id": "479d4c4eb52d1c56",
@@ -3314,294 +3602,6 @@
    "summary": "IT之家 11 月 10 日消息，据科技媒体 Android Authority 昨天报道，谷歌 Google Play 服务 26.44 现已向 Android 用户推送。根据官方发布的信息说明，Traveler QR 功能已在谷歌钱包（Google Wallet）上线。 据报道，Traveler QR 是一种二维码支付方式，支持主扫（顾客用手机扫描商户的二维码）、被扫（IT之家注：商户用扫描枪 / 支付终端扫描顾客手机的二维码）。 同时 该功能基于 Alipay+ 网络运行 ， 支持马来西亚、印度尼西亚、菲律宾等东南亚国家 / 地区 。这些地区中有不少是热门旅游目的地，未来用户通过谷歌钱包",
    "published_at": 1794268753.0,
    "published_bj": "2026-11-10 07:59"
-  },
-  {
-   "id": "7435f359ccbdbf75",
-   "source": "IT之家",
-   "title": "IT早报 1110：出轨风波后英伟达宣布 CEO 黄仁勋仍将留任；华为、江淮和 Stellantis 三方合作车型外观确认；尊界或推 40-50 万子品牌；奥迪 A8 旗舰轿车停产...",
-   "url": "https://www.ithome.com/1/024/579.htm",
-   "summary": "“IT早报”时间，大家好，现在是 2026 年 11 月 10 日星期二，今天的重要科技资讯有： 1. 英伟达发言人确认黄仁勋将继续履职公司 CEO 一职不中断，特朗普表态支持 当地时间 11 月 8 日，英伟达发言人对外明确，黄仁勋将继续担任公司首席执行官，履职不会中断，相关风波不会打乱英伟达正常经营节奏。美国总统特朗普在被福克斯新闻记者问及相关问题时表示黄仁勋是个很好的人，并支持他继续担任英伟达 CEO。&gt;&gt; 查看详情 2. 消息称玛莎拉蒂与尊界新车外观确认，属华为、江淮和 Stellantis 三方合作项目 据第一财经报道，玛莎拉蒂与尊界的合作项目名为“玛莎拉蒂 Design",
-   "published_at": 1794268530.0,
-   "published_bj": "2026-11-10 07:55"
-  },
-  {
-   "id": "98fa37cd691a5ace",
-   "source": "IT之家",
-   "title": "《极盗车神》导演赖特执导苹果新宣传视频，Apple Pay 变身“功夫神器”",
-   "url": "https://www.ithome.com/1/024/578.htm",
-   "summary": "IT之家 11 月 10 日消息，科技媒体 9to5Mac 昨日（11 月 9 日）发布博文，报道称苹果公司发布全新 Apple Pay 宣传视频短片， 由《极盗车神》（Baby Driver）、《僵尸肖恩》（Shaun of the Dead）导演埃德加 · 赖特（Edgar Wright）执导。 IT之家附上相关视频如下： 短片延续苹果近年“电影化营销”的路线，以功夫动作片为视觉语言，通过快速剪辑、急促变焦和夸张的打斗编排，突出 Apple Pay 在结账时的速度与便利。 该短片背景设定在一家便利店：主角在遭遇反派围攻后，先用 Apple Pay 完成支付，随后将货架上的商品变成“武器”反",
-   "published_at": 1794268036.0,
-   "published_bj": "2026-11-10 07:47"
-  },
-  {
-   "id": "9b4a2dd96397f2e1",
-   "source": "Hacker News",
-   "title": "Tracking the Harm of DOGE Cuts",
-   "url": "https://www.clasp.org/doge-tracker/",
-   "summary": "Article URL: https://www.clasp.org/doge-tracker/ Comments URL: https://news.ycombinator.com/item?id=50433978 Points: 67 # Comments: 3",
-   "published_at": 1794267654.0,
-   "published_bj": "2026-11-10 07:40"
-  },
-  {
-   "id": "e82a1eed9e7e8c70",
-   "source": "IT之家",
-   "title": "徕卡：M (Typ 240)/M10/M11 系列相机隐藏菜单仅用于诊断和维修，用户自行修改可能发生异常",
-   "url": "https://www.ithome.com/1/024/577.htm",
-   "summary": "IT之家 11 月 10 日消息，据科技媒体 Notebookcheck 今天报道，徕卡现已确认，部分 M10/11 相机用户自行发现的隐藏菜单仅面向维修设计，建议普通用户不要使用。 IT之家从原报道了解到，部分徕卡用户近期发现，只要通过特定的按键组合，就可以在 M (Typ 240)、M10、M11 系列相机，打开隐藏的服务菜单。该菜单能够显示相机快门数、剩余电池容量等信息，对于二手相机买家而言，这些信息具备一定参考价值。 不过有 Reddit 用户反馈，他们在维修菜单更改部分选项后，相机的显示屏就无法点亮。 该媒体就此事向徕卡询问，对方的回应是： 我们的相机产品并未将内部维修菜单，设计为普",
-   "published_at": 1794267436.0,
-   "published_bj": "2026-11-10 07:37"
-  },
-  {
-   "id": "d19237d3a6fd25f0",
-   "source": "IT之家",
-   "title": "冲击“史上最大 IPO”：消息称 Anthropic 下周四 / 五上市，估值预期遭遇市场降温",
-   "url": "https://www.ithome.com/1/024/576.htm",
-   "summary": "IT之家 11 月 10 日消息，《华尔街日报》今天（11 月 10 日）发布博文，报道称 AI 厂商 Anthropic 正推进首次公开募股（IPO），目标是在下周四（11 月 19 日）或周五（20 日）开始在纳斯达克交易， 股票代码拟定为 ANT 。该公司预计将在本周初披露 IPO 估值区间、拟发行股份数量及发行价格等关键信息。 市场原本预计 Anthropic 的 IPO 估值约为 1.5 万亿美元 （IT之家注：现汇率约合 10.02 万亿元人民币） ，甚至一度有接近 2 万亿美元 （现汇率约合 13.36 万亿元人民币） 的讨论。但上周 AI 相关股票大幅回调后，部分重要机构投资者",
-   "published_at": 1794267158.0,
-   "published_bj": "2026-11-10 07:32"
-  },
-  {
-   "id": "ec091891f5fe8762",
-   "source": "TechCrunch",
-   "title": "Jensen Huang reportedly engaged a PR firm with a history of handling high-profile sex scandals a year ago",
-   "url": "https://techcrunch.com/2026/11/09/jensen-huang-reportedly-engaged-a-pr-firm-with-a-history-of-handling-high-profile-sex-scandals-a-year-ago/",
-   "summary": "The PR firm was enlisted shortly after an October 2025 New York Times report described Alice Huang's business dealings with Jensen Huang, Wired reported.",
-   "published_at": 1794266917.0,
-   "published_bj": "2026-11-10 07:28"
-  },
-  {
-   "id": "cae86a301893897f",
-   "source": "IT之家",
-   "title": "Mac 用户速更新：苹果 macOS 27.2.1 修复 eMudhra 证书漏洞残留风险",
-   "url": "https://www.ithome.com/1/024/575.htm",
-   "summary": "IT之家 11 月 10 日消息，科技媒体 MacRumors 今天（11 月 10 日）发布博文，报道称在 macOS Golden Gate 27.2.1 系统中命令行工具中， 苹果修复了 eMudhra 证书漏洞残留风险。 IT之家此前报道，苹果公司于上月（2026 年 10 月）发布 macOS 更新， 在 Safari、邮件及采用苹果框架的应用中，屏蔽相关被泄露证书 ，但 curl、git 等命令行工具仍可能接受这些证书，导致开发者及高级用户面临潜在风险。 此次更新后，macOS 的命令行工具将不再信任受影响的 eMudhra 根证书，意味着通过终端执行网络请求、代码拉取或软件安装时",
-   "published_at": 1794266551.0,
-   "published_bj": "2026-11-10 07:22"
-  },
-  {
-   "id": "3ad39f5cb7f6227d",
-   "source": "IT之家",
-   "title": "美国以外首个：苹果将在土耳其建立先进制造培训中心，为中小企业免费提供咨询和培训服务",
-   "url": "https://www.ithome.com/1/024/574.htm",
-   "summary": "IT之家 11 月 10 日消息，据科技媒体 Appleinsider 昨天报道，苹果将在土耳其设立 7 处培训设施，进一步支持该国应用开发和先进制造业。这 7 处设施包含 5 所苹果开发者学院、伊斯坦布尔开发者中心，以及安卡拉先进制造中心。 ▲ 图源：Apple IT之家从原报道获悉，苹果将在未来 3 年内陆续在土耳其开设 5 所开发者学院，首个学院明年在伊斯坦布尔投入运营。每所学院将提供 9 个月的免费课程，涵盖编程、设计、市场营销、项目管理和 AI 等领域。课程还将涉及无障碍设计、隐私保护和可持续发展等内容，帮助学生掌握应用开发和创业所需技能。 同时，伊斯坦布尔开发者中心将于明年开放，为",
-   "published_at": 1794266247.0,
-   "published_bj": "2026-11-10 07:17"
-  },
-  {
-   "id": "25d0b0d321831146",
-   "source": "IT之家",
-   "title": "8 天从零搓出操作系统：Anthropic 最强 Claude Fable / Mythos 5.2 AI 模型登场",
-   "url": "https://www.ithome.com/1/024/573.htm",
-   "summary": "IT之家 11 月 10 日消息， Anthropic 昨日（11 月 9 日）官宣推出 Claude Fable 5.2 和 Claude Mythos 5.2， 两款模型基于同一底层模型，前者面向普通用户并内置网络安全与生物安全防护，后者则面向通过审核的网络安全和生命科学机构开放，用于高风险的专业应用。 定价方面，Claude Fable 5.2 每 100 万词元（Token）输入费用为 8 美元 （IT之家注：现汇率约合 53.4 元人民币） ，每 100 万词元（Token）输出费用为 40 美元 （现汇率约合 267.2 元人民币） 。作为对比，Claude Fable 5.1 的",
-   "published_at": 1794266068.0,
-   "published_bj": "2026-11-10 07:14"
-  },
-  {
-   "id": "347ccfa27f6f20d7",
-   "source": "Hacker News",
-   "title": "Fable 5.2 one-shotted my nephew's dream game",
-   "url": "https://notesbylex.com/fable-5-2-one-shotted-my-nephews-dream-game",
-   "summary": "Article URL: https://notesbylex.com/fable-5-2-one-shotted-my-nephews-dream-game Comments URL: https://news.ycombinator.com/item?id=50433659 Points: 97 # Comments: 67",
-   "published_at": 1794265693.0,
-   "published_bj": "2026-11-10 07:08"
-  },
-  {
-   "id": "a2ffc230f7e4337b",
-   "source": "TechCrunch",
-   "title": "Hotel giant Wyndham exposed customer data after app security lapse",
-   "url": "https://techcrunch.com/2026/11/09/hotel-giant-wyndham-exposed-customer-data-after-app-security-lapse/",
-   "summary": "Exclusive: Wyndham left a hardcoded credential in its customer app, allowing anyone to access customer data. The hotel giant wouldn't say if it has the ability to check for any past unauthorized access.",
-   "published_at": 1794265426.0,
-   "published_bj": "2026-11-10 07:03"
-  },
-  {
-   "id": "39ebba66548221b1",
-   "source": "cnBeta",
-   "title": "《GTA6》发售请假或令英国企业损失1200万英镑",
-   "url": "https://www.cnbeta.com.tw/articles/game/1585680.htm",
-   "summary": "员工为游玩《GTA6》申请休假，预计将给英国企业造成约1200万英镑损失。员工缺勤追踪平台BrightHR的数据显示，约8.3万名英国员工在11月至12月申请休假时明确提到了这款游戏。 阅读全文",
-   "published_at": 1794265268.0,
-   "published_bj": "2026-11-10 07:01"
-  },
-  {
-   "id": "510df589b384b6df",
-   "source": "cnBeta",
-   "title": "《GTA6》预购远超预期 豪华版比普通版卖得好",
-   "url": "https://www.cnbeta.com.tw/articles/game/1585678.htm",
-   "summary": "Take-Two在季度财报中确认，《GTA6》的预购走势远高于公司最初预期，但没有公布具体数量。早期报告称，售价100美元的数字豪华版目前甚至比80美元的普通版卖得更多。 阅读全文",
-   "published_at": 1794265263.0,
-   "published_bj": "2026-11-10 07:01"
-  },
-  {
-   "id": "0bdedc067928ef1a",
-   "source": "cnBeta",
-   "title": "Meta推出最小AI模型Muse Ember：性能追平Claude 成本只要三分之一",
-   "url": "https://www.cnbeta.com.tw/articles/tech/1585676.htm",
-   "summary": "Meta于当地时间11月9日发布轻量级AI模型Muse Ember。根据第三方评测机构Artificial Analysis的数据，该模型在综合智能指数中取得36分， 与Anthropic的Claude Haiku 5.5最高推理档位持平，但单次评测任务成本约为后者的三分之一 。 阅读全文",
-   "published_at": 1794265185.0,
-   "published_bj": "2026-11-10 06:59"
-  },
-  {
-   "id": "93f80f5db2a893fd",
-   "source": "cnBeta",
-   "title": "SpaceX计划在德州投资240亿美元建设数据中心和天然气发电厂",
-   "url": "https://www.cnbeta.com.tw/articles/tech/1585674.htm",
-   "summary": "根据美国德州Starbase市政府网站发布的听证会通知，马斯克旗下的SpaceX计划在公司所在地Starbase建设、拥有并运营一座燃气电厂和超级计算设施。项目初期预计投资240亿美元。Starbase市政委员将在12月9日的会议上审议一项税收减免和开发协议。 阅读全文",
-   "published_at": 1794265170.0,
-   "published_bj": "2026-11-10 06:59"
-  },
-  {
-   "id": "d938655955706372",
-   "source": "cnBeta",
-   "title": "英伟达据悉介入Megaspeed芯片走私案调查 引发影响美国执法的质疑",
-   "url": "https://www.cnbeta.com.tw/articles/tech/1585672.htm",
-   "summary": "英伟达的总法律顾问介入了美国政府对Megaspeed International涉嫌走私AI芯片的调查，询问特朗普政府是否参与扣留这家新加坡公司的一名高管。这位高管如今成为一起威胁黄仁勋的丑闻事件的核心人物。 阅读全文",
-   "published_at": 1794265155.0,
-   "published_bj": "2026-11-10 06:59"
-  },
-  {
-   "id": "d99bd2fc2b590bf6",
-   "source": "Hacker News",
-   "title": "Exact – a new cross platform UI framework by the Expo team",
-   "url": "https://github.com/expo/exact",
-   "summary": "Article URL: https://github.com/expo/exact Comments URL: https://news.ycombinator.com/item?id=50433541 Points: 11 # Comments: 5",
-   "published_at": 1794265153.0,
-   "published_bj": "2026-11-10 06:59"
-  },
-  {
-   "id": "e1a3167c3f8d39a2",
-   "source": "IT之家",
-   "title": "Meta 旗下 AI 助手 Muse 登陆苹果 Apple Watch",
-   "url": "https://www.ithome.com/1/024/571.htm",
-   "summary": "IT之家 11 月 10 日消息，据科技媒体 MacRumors 昨天报道，Meta 现已更新 iOS 版 Muse 应用，新增 Apple Watch 支持。这意味着苹果 Apple Watch 用户现在可以使用这款个人 AI 智能体， 在腕上完成各种任务 。 据介绍，Apple Watch 版 Muse 的主界面带有吉祥物元素。用户可以选择打字、语音输入、拨打语音电话等交互方式，支持表盘。 据IT之家了解，Muse 是 Meta 推出的一款个人 AI 智能体，能够帮助用户完成各种任务。它提供独立应用，并已集成至 Instagram、Facebook 等 Meta 应用中。 Meta 为 M",
-   "published_at": 1794265112.0,
-   "published_bj": "2026-11-10 06:58"
-  },
-  {
-   "id": "4a831e522c06c71e",
-   "source": "IT之家",
-   "title": "苹果推送 iOS 27.2.1 更新，修复 Message 群聊权限在内的 9 个漏洞",
-   "url": "https://www.ithome.com/1/024/572.htm",
-   "summary": "IT之家 11 月 10 日消息，苹果公司今天（11 月 10 日）开始推送 iOS 27.2.1 更新（内部开发代号为 24B156）， 属于小型维护更新，主要修复错误和整合安全更新。 在更新日志中，苹果说明为： “ 本更新为 iPhone 提供了错误修复和安全更新。 ” 苹果未在发布说明中列出具体修复的漏洞或功能细节。 更新方式上，用户前往设置 &gt; 通用 &gt; 软件更新，若看到 iOS 27.2.1，点按下载并安装。更新前建议先通过 iCloud 或电脑备份，并保持设备电量充足、连接 Wi‑Fi。 图源：@May_J_Ni IT之家查询苹果公司官方安全内容页面，目前最新 iOS ",
-   "published_at": 1794265112.0,
-   "published_bj": "2026-11-10 06:58"
-  },
-  {
-   "id": "95ca8e10290c7824",
-   "source": "cnBeta",
-   "title": "做空机构半年前曾预警黄仁勋与被疑间谍嫌疑人的关系",
-   "url": "https://www.cnbeta.com.tw/articles/tech/1585670.htm",
-   "summary": "随着英伟达首席执行官黄仁勋近期卷入备受关注的争议事件，一份发布于今年早些时候的做空报告再次受到外界关注。报告显示，在当前风波爆发前约六个月，美国做空研究机构Culper Research就曾对黄仁勋与一名随后被怀疑为中国间谍的企业高管之间的密切关系提出质疑。 阅读全文",
-   "published_at": 1794264733.0,
-   "published_bj": "2026-11-10 06:52"
-  },
-  {
-   "id": "46c3dfe51627cba6",
-   "source": "IT之家",
-   "title": "Take-Two CEO 泽尔尼克称《GTA 6》预购量远远超出预期，有望为公司树立新业绩基准",
-   "url": "https://www.ithome.com/1/024/570.htm",
-   "summary": "IT之家 11 月 10 日消息，Take-Two CEO 施特劳斯 · 泽尔尼克今天在公司 2027 财年第 2 财季电话会议中表示， 《GTA6》游戏预购量远远超出预期 ，并确信这款游戏的数字很快就会说明一切。 泽尔尼克承诺，《GTA5》和《GTA 线上模式》将继续获得更新，公司将服务接近 2.35 亿的存量玩家群体。 Take-Two 总裁卡尔 · 斯塔托夫（Karl Statoff）则认为，《GTA6》发售将成为全球娱乐产业的标志性时刻。泽尔尼克随后在问答环节表示，《GTA6》将为公司树立新的业绩标准。他指出：“公司各方面的未来都非常光明。” Take-Two 预计下一季度营收将达到 ",
-   "published_at": 1794264475.0,
-   "published_bj": "2026-11-10 06:47"
-  },
-  {
-   "id": "aa47f4c1ae66aa31",
-   "source": "TechCrunch",
-   "title": "A short seller flagged Nvidia CEO’s ties to a suspected Chinese spy six months before the scandal",
-   "url": "https://techcrunch.com/2026/11/09/a-short-seller-flagged-nvidia-ceos-ties-to-a-suspected-chinese-spy-six-months-before-the-scandal/",
-   "summary": "Six months before Nvidia's spy scandal erupted, Culper Research was already questioning Jensen Huang's unusually close relationship with a Chinese executive.",
-   "published_at": 1794264369.0,
-   "published_bj": "2026-11-10 06:46"
-  },
-  {
-   "id": "ed732fb92c6dde1b",
-   "source": "TechCrunch",
-   "title": "The race is on to sue Nvidia",
-   "url": "https://techcrunch.com/2026/11/09/the-race-is-on-to-sue-nvidia/",
-   "summary": "Nvidia’s stock slid more than 4% after its board opened an investigation into Jensen Huang’s relationship with a suspected Chinese spy, and one securities law expert says the company’s earlier insistence that it was all “normal” could turn into a very expensive problem.",
-   "published_at": 1794263022.0,
-   "published_bj": "2026-11-10 06:23"
-  },
-  {
-   "id": "b828baa9eeb1a656",
-   "source": "Hacker News",
-   "title": "I did a meditation and it sort of changed my personality?",
-   "url": "https://www.benkuhn.net/meditation/",
-   "summary": "Article URL: https://www.benkuhn.net/meditation/ Comments URL: https://news.ycombinator.com/item?id=50433129 Points: 11 # Comments: 0",
-   "published_at": 1794262980.0,
-   "published_bj": "2026-11-10 06:23"
-  },
-  {
-   "id": "d4b36c8a936969e5",
-   "source": "Hacker News",
-   "title": "A year after the 100% AI mandate nobody understands our code",
-   "url": "https://www.reddit.com/r/ClaudeCode/comments/1xq2n3t/a_year_after_the_100_ai_mandate_nobody/",
-   "summary": "https://redlib.catsarch.com/r/ClaudeCode/comments/1xq2n3t/a_... Comments URL: https://news.ycombinator.com/item?id=50433079 Points: 100 # Comments: 118",
-   "published_at": 1794262752.0,
-   "published_bj": "2026-11-10 06:19"
-  },
-  {
-   "id": "97d48f0416fb4735",
-   "source": "Hacker News",
-   "title": "TPUs",
-   "url": "https://blog.google/innovation-and-ai/infrastructure-and-cloud/global-network/tpu-8i-max-and-8tx/",
-   "summary": "Article URL: https://blog.google/innovation-and-ai/infrastructure-and-cloud/global-network/tpu-8i-max-and-8tx/ Comments URL: https://news.ycombinator.com/item?id=50432831 Points: 75 # Comments: 5",
-   "published_at": 1794261417.0,
-   "published_bj": "2026-11-10 05:56"
-  },
-  {
-   "id": "13753deca0f5939f",
-   "source": "IT之家",
-   "title": "Lucid 2026Q1~Q3 归母亏损 34.74 亿美元，同比扩大 38.7%",
-   "url": "https://www.ithome.com/1/024/569.htm",
-   "summary": "IT之家 11 月 10 日消息，Lucid 今日发布 2026 年前三季度（ 1 月～9 月 ）及第 3 季度（ 7 月～9 月 ）数据： 2026Q1~Q3 营业总收入 ：10.38 亿美元，同比增长 24.92% 毛利润 ：-9.97 亿美元，同比扩大 19.44% 毛利率 ：-96% 归母净利润 ：-34.74 亿美元，同比扩大 38.7% 经营现金流 ：-31.61 亿美元，同比扩大 56.81% 自由现金流 ：-39.55 亿美元，同比扩大 54.58% 基本 / 稀释每股收益 ：-9.43 美元 2026Q3 营业总收入 ：3.5 亿美元，同比增长 4% 毛利润 ：-2.58 亿",
-   "published_at": 1794258778.0,
-   "published_bj": "2026-11-10 05:12"
-  },
-  {
-   "id": "e23f6a1f3b4255ea",
-   "source": "Hacker News",
-   "title": "Supply chain attack on Qubole customers",
-   "url": "https://sentra.io/blog/breaches/inside-the-qubole-supply-chain-attack",
-   "summary": "Article URL: https://sentra.io/blog/breaches/inside-the-qubole-supply-chain-attack Comments URL: https://news.ycombinator.com/item?id=50432147 Points: 9 # Comments: 4",
-   "published_at": 1794258446.0,
-   "published_bj": "2026-11-10 05:07"
-  },
-  {
-   "id": "ade78cd073feff48",
-   "source": "TechCrunch",
-   "title": "Fervo now has $12B in orders for its geothermal power tech",
-   "url": "https://techcrunch.com/2026/11/09/fervo-now-has-12b-in-orders-for-its-geothermal-power-tech/",
-   "summary": "Geothermal company Fervo is targeting natural gas as it brings down geothermal drilling costs at its 8.4 GW resource in Utah.",
-   "published_at": 1794257734.0,
-   "published_bj": "2026-11-10 04:55"
-  },
-  {
-   "id": "b6de606a58283385",
-   "source": "TechCrunch",
-   "title": "Jensen Huang pulls out of ElevenLabs Summit amid Nvidia controversy",
-   "url": "https://techcrunch.com/2026/11/09/jensen-huang-pulls-out-of-elevenlabs-summit-amid-nvidia-controversy/",
-   "summary": "The Nvidia CEO also pulled out of an Anthropic event earlier.",
-   "published_at": 1794254946.0,
-   "published_bj": "2026-11-10 04:09"
-  },
-  {
-   "id": "ec6d4bf8980fc190",
-   "source": "IT之家",
-   "title": "全球折叠屏手机逆势爆发，Counterpoint 预估 2026 年全球面板出货量同比猛增超 23%",
-   "url": "https://www.ithome.com/1/024/568.htm",
-   "summary": "IT之家 11 月 10 日消息，Counterpoint Research 近日发布《2026 年第三季度先进智能手机显示出货与技术报告》，给出 2026 全年智能手机面板市场的最新预测。 报告指出，受存储供应约束、生产成本上升波及智能手机需求与生产的影响， 2026 年全球 OLED 智能手机面板市场将持续承压，整体出货预计同比下滑近 3% ，对应规模从 2025 年的 8.94 亿片回落至 8.29 亿片；后续将逐步恢复，到 2028 年回升至 8.58 亿片，2025-2028 年的年均复合增速约为 -1.4%。 分形态看，传统刚性 OLED 面板受柔性 OLED 替代冲击，2026 ",
-   "published_at": 1794254928.0,
-   "published_bj": "2026-11-10 04:08"
-  },
-  {
-   "id": "15dd7e01e3e91a8e",
-   "source": "Hacker News",
-   "title": "Claude Fable 5.2 Scores 65 on Artificial Analysis, Highest So Far",
-   "url": "https://artificialanalysis.ai/models/claude-fable-5-2",
-   "summary": "Article URL: https://artificialanalysis.ai/models/claude-fable-5-2 Comments URL: https://news.ycombinator.com/item?id=50431144 Points: 52 # Comments: 10",
-   "published_at": 1794254695.0,
-   "published_bj": "2026-11-10 04:04"
   }
  ]
 }
