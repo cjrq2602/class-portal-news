@@ -1,8 +1,143 @@
 {
  "date": "2026-11-10",
- "generated_at": 1794266435.0864139,
- "count": 65,
+ "generated_at": 1794269595.7067602,
+ "count": 82,
  "items": [
+  {
+   "id": "7d8465831adc6cf6",
+   "source": "IT之家",
+   "title": "厦金大桥（厦门段）海上主线桥贯通，预计今年底建成通车",
+   "url": "https://www.ithome.com/1/024/589.htm",
+   "summary": "IT之家 11 月 10 日消息，据央视新闻报道，今天（11 月 10 日）凌晨，随着最后一榀钢箱梁吊装到位，厦金大桥（厦门段）海上主线桥顺利合龙，标志着厦金大桥（厦门段）海上主线桥主体结构建设完成，项目进入通车前的收尾阶段。 最后这一榀钢箱梁重达 3318 吨，体量大、吊装精度高，基准温度要控制在约 22℃，施工人员利用 5500 吨级浮吊船将钢箱梁吊起，缓缓送入合龙口，再通过千斤顶同步控制进行精调。 IT之家注意到，此次合龙的刘五店航道东侧非通航孔桥是厦金大桥（厦门段）海上主线桥最后一个合龙桥段。全长约 14.2 公里的海上主线桥由观音山互通主线桥、刘五店航道桥、金通航道桥等 12 个桥段",
+   "published_at": 1794269446.0,
+   "published_bj": "2026-11-10 08:10"
+  },
+  {
+   "id": "0ce65f67b487877a",
+   "source": "IT之家",
+   "title": "苹果 iOS/iPadOS 18.7.12 正式版发布",
+   "url": "https://www.ithome.com/1/024/588.htm",
+   "summary": "IT之家 11 月 10 日消息，苹果今日向 iPhone 和 iPad 用户推送了 iOS/iPadOS 18.7.12 更新（内部版本号：22H390），本次更新距离上次发布正式版间隔 14 天。 需要注意的是，因苹果各区域节点服务器配置缓存问题，可能有些地方探测到升级更新的时间略有延迟，一般半小时内，不会太久。 本文由机器人发布，IT之家稍后将为大家带来具体更新内容。 附 iOS/iPadOS 18 发布历史： 2026-10-27：iOS 18.7.11 (22H384) 2026-08-11：iOS 18.7.10 (22H373) 2026-05-05：iOS 18.7.9 (22",
+   "published_at": 1794268931.0,
+   "published_bj": "2026-11-10 08:02"
+  },
+  {
+   "id": "4e625ec98b039b6b",
+   "source": "IT之家",
+   "title": "苹果 iPadOS 26.7.3 正式版发布",
+   "url": "https://www.ithome.com/1/024/587.htm",
+   "summary": "IT之家 11 月 10 日消息，苹果今日向 iPad 用户推送了 iPadOS 26.7.3 更新，本次更新距离上次发布正式版间隔 14 天。 需要注意的是，因苹果各区域节点服务器配置缓存问题，可能有些地方探测到升级更新的时间略有延迟，一般半小时内，不会太久。 本文由机器人发布，IT之家稍后将为大家带来具体更新内容。 附 iOS/iPadOS 26 发布历史： 2026-10-27：iPadOS 26.7.2 (23H128) 2026-09-29：iPadOS 26.7.1 (23H30) 2026-09-10：iPadOS 26.7 (23H24) 2026-09-09：iOS 26.6",
+   "published_at": 1794268931.0,
+   "published_bj": "2026-11-10 08:02"
+  },
+  {
+   "id": "10baf18f57a49b01",
+   "source": "IT之家",
+   "title": "苹果 watchOS 27.2.1 正式版发布",
+   "url": "https://www.ithome.com/1/024/586.htm",
+   "summary": "IT之家 11 月 10 日消息，苹果今日向 Apple Watch 用户推送了 watchOS 27.2.1 更新（内部版本号：24S132），本次更新距离上次发布正式版间隔 14 天。 需要注意的是，因苹果各区域节点服务器配置缓存问题，可能有些地方探测到升级更新的时间略有延迟，一般半小时内，不会太久。 本文由机器人发布，IT之家稍后将为大家带来具体更新内容。 附 watchOS 27 发布历史： 2026-10-27：watchOS 27.2 (24S118) 2026-10-20：watchOS 27.2 RC (24S116) 2026-10-14：watchOS 27.2 Beta ",
+   "published_at": 1794268931.0,
+   "published_bj": "2026-11-10 08:02"
+  },
+  {
+   "id": "80b6f3dd9267ed32",
+   "source": "IT之家",
+   "title": "苹果 visionOS 27.2.1 正式版发布",
+   "url": "https://www.ithome.com/1/024/585.htm",
+   "summary": "IT之家 11 月 10 日消息，苹果今日向 Vision Pro 用户推送了 visionOS 27.2.1 更新（内部版本号：24N124），本次更新距离上次发布正式版间隔 14 天。 需要注意的是，因苹果各区域节点服务器配置缓存问题，可能有些地方探测到升级更新的时间略有延迟，一般半小时内，不会太久。 本文由机器人发布，IT之家稍后将为大家带来具体更新内容。 附 visionOS 27 发布历史： 2026-10-27：visionOS 27.2 (24N120) 2026-10-20：visionOS 27.2 RC (24N118) 2026-10-14：visionOS 27.2 B",
+   "published_at": 1794268930.0,
+   "published_bj": "2026-11-10 08:02"
+  },
+  {
+   "id": "5a69089c0d4a15db",
+   "source": "IT之家",
+   "title": "苹果 iOS/iPadOS 27.2.1 正式版发布",
+   "url": "https://www.ithome.com/1/024/583.htm",
+   "summary": "IT之家 11 月 10 日消息，苹果今日向 iPhone 和 iPad 用户推送了 iOS/iPadOS 27.2.1 更新（内部版本号：24B156），本次更新距离上次发布正式版间隔 14 天。 需要注意的是，因苹果各区域节点服务器配置缓存问题，可能有些地方探测到升级更新的时间略有延迟，一般半小时内，不会太久。 本文由机器人发布，IT之家稍后将为大家带来具体更新内容。 附 iOS/iPadOS 27 发布历史： 2026-10-27：iOS 27.2 (24B91020) 2026-10-27：iOS 27.2 (24B119) 2026-10-20：iOS 27.2 RC (24B115",
+   "published_at": 1794268929.0,
+   "published_bj": "2026-11-10 08:02"
+  },
+  {
+   "id": "3bc934b64ef8e6e7",
+   "source": "IT之家",
+   "title": "全球首款配自动追踪灯的安防摄像头：安克 eufy 发布 TrackLight Cam S1，最远 12 米威慑可疑陌生人",
+   "url": "https://www.ithome.com/1/024/581.htm",
+   "summary": "IT之家 11 月 10 日消息，安克（Anker）旗下智能家居品牌 eufy 于 11 月 9 日推出户外安防摄像头 Eufy TrackLight Cam S1 。官方称其为全球首款配备“自动追踪灯”的户外安防摄像头，可通过光束主动锁定并跟随可疑人员，从而提升家庭安防的威慑能力。 当摄像头识别到可疑人员后，TrackLight 会从最远约 12 米（40 英尺）处锁定目标，并随其移动持续照射。光束会根据目标距离自动调整：目标较远时收窄，靠近时则扩大，从而让被追踪者始终处于照明范围内。摄像头支持 355 度水平旋转，追踪速度最高可达每秒 87 度。 在威慑功能上，用户可开启“追踪威慑模式”，",
+   "published_at": 1794268918.0,
+   "published_bj": "2026-11-10 08:01"
+  },
+  {
+   "id": "4762998e3d3635e0",
+   "source": "IT之家",
+   "title": "谷歌钱包新增 Traveler QR 二维码支付，支持东南亚地区 Alipay+",
+   "url": "https://www.ithome.com/1/024/580.htm",
+   "summary": "IT之家 11 月 10 日消息，据科技媒体 Android Authority 昨天报道，谷歌 Google Play 服务 26.44 现已向 Android 用户推送。根据官方发布的信息说明，Traveler QR 功能已在谷歌钱包（Google Wallet）上线。 据报道，Traveler QR 是一种二维码支付方式，支持主扫（顾客用手机扫描商户的二维码）、被扫（IT之家注：商户用扫描枪 / 支付终端扫描顾客手机的二维码）。 同时 该功能基于 Alipay+ 网络运行 ， 支持马来西亚、印度尼西亚、菲律宾等东南亚国家 / 地区 。这些地区中有不少是热门旅游目的地，未来用户通过谷歌钱包",
+   "published_at": 1794268753.0,
+   "published_bj": "2026-11-10 07:59"
+  },
+  {
+   "id": "7435f359ccbdbf75",
+   "source": "IT之家",
+   "title": "IT早报 1110：出轨风波后英伟达宣布 CEO 黄仁勋仍将留任；华为、江淮和 Stellantis 三方合作车型外观确认；尊界或推 40-50 万子品牌；奥迪 A8 旗舰轿车停产...",
+   "url": "https://www.ithome.com/1/024/579.htm",
+   "summary": "“IT早报”时间，大家好，现在是 2026 年 11 月 10 日星期二，今天的重要科技资讯有： 1. 英伟达发言人确认黄仁勋将继续履职公司 CEO 一职不中断，特朗普表态支持 当地时间 11 月 8 日，英伟达发言人对外明确，黄仁勋将继续担任公司首席执行官，履职不会中断，相关风波不会打乱英伟达正常经营节奏。美国总统特朗普在被福克斯新闻记者问及相关问题时表示黄仁勋是个很好的人，并支持他继续担任英伟达 CEO。&gt;&gt; 查看详情 2. 消息称玛莎拉蒂与尊界新车外观确认，属华为、江淮和 Stellantis 三方合作项目 据第一财经报道，玛莎拉蒂与尊界的合作项目名为“玛莎拉蒂 Design",
+   "published_at": 1794268530.0,
+   "published_bj": "2026-11-10 07:55"
+  },
+  {
+   "id": "98fa37cd691a5ace",
+   "source": "IT之家",
+   "title": "《极盗车神》导演赖特执导苹果新宣传视频，Apple Pay 变身“功夫神器”",
+   "url": "https://www.ithome.com/1/024/578.htm",
+   "summary": "IT之家 11 月 10 日消息，科技媒体 9to5Mac 昨日（11 月 9 日）发布博文，报道称苹果公司发布全新 Apple Pay 宣传视频短片， 由《极盗车神》（Baby Driver）、《僵尸肖恩》（Shaun of the Dead）导演埃德加 · 赖特（Edgar Wright）执导。 IT之家附上相关视频如下： 短片延续苹果近年“电影化营销”的路线，以功夫动作片为视觉语言，通过快速剪辑、急促变焦和夸张的打斗编排，突出 Apple Pay 在结账时的速度与便利。 该短片背景设定在一家便利店：主角在遭遇反派围攻后，先用 Apple Pay 完成支付，随后将货架上的商品变成“武器”反",
+   "published_at": 1794268036.0,
+   "published_bj": "2026-11-10 07:47"
+  },
+  {
+   "id": "9b4a2dd96397f2e1",
+   "source": "Hacker News",
+   "title": "Tracking the Harm of DOGE Cuts",
+   "url": "https://www.clasp.org/doge-tracker/",
+   "summary": "Article URL: https://www.clasp.org/doge-tracker/ Comments URL: https://news.ycombinator.com/item?id=50433978 Points: 67 # Comments: 3",
+   "published_at": 1794267654.0,
+   "published_bj": "2026-11-10 07:40"
+  },
+  {
+   "id": "e82a1eed9e7e8c70",
+   "source": "IT之家",
+   "title": "徕卡：M (Typ 240)/M10/M11 系列相机隐藏菜单仅用于诊断和维修，用户自行修改可能发生异常",
+   "url": "https://www.ithome.com/1/024/577.htm",
+   "summary": "IT之家 11 月 10 日消息，据科技媒体 Notebookcheck 今天报道，徕卡现已确认，部分 M10/11 相机用户自行发现的隐藏菜单仅面向维修设计，建议普通用户不要使用。 IT之家从原报道了解到，部分徕卡用户近期发现，只要通过特定的按键组合，就可以在 M (Typ 240)、M10、M11 系列相机，打开隐藏的服务菜单。该菜单能够显示相机快门数、剩余电池容量等信息，对于二手相机买家而言，这些信息具备一定参考价值。 不过有 Reddit 用户反馈，他们在维修菜单更改部分选项后，相机的显示屏就无法点亮。 该媒体就此事向徕卡询问，对方的回应是： 我们的相机产品并未将内部维修菜单，设计为普",
+   "published_at": 1794267436.0,
+   "published_bj": "2026-11-10 07:37"
+  },
+  {
+   "id": "d19237d3a6fd25f0",
+   "source": "IT之家",
+   "title": "冲击“史上最大 IPO”：消息称 Anthropic 下周四 / 五上市，估值预期遭遇市场降温",
+   "url": "https://www.ithome.com/1/024/576.htm",
+   "summary": "IT之家 11 月 10 日消息，《华尔街日报》今天（11 月 10 日）发布博文，报道称 AI 厂商 Anthropic 正推进首次公开募股（IPO），目标是在下周四（11 月 19 日）或周五（20 日）开始在纳斯达克交易， 股票代码拟定为 ANT 。该公司预计将在本周初披露 IPO 估值区间、拟发行股份数量及发行价格等关键信息。 市场原本预计 Anthropic 的 IPO 估值约为 1.5 万亿美元 （IT之家注：现汇率约合 10.02 万亿元人民币） ，甚至一度有接近 2 万亿美元 （现汇率约合 13.36 万亿元人民币） 的讨论。但上周 AI 相关股票大幅回调后，部分重要机构投资者",
+   "published_at": 1794267158.0,
+   "published_bj": "2026-11-10 07:32"
+  },
+  {
+   "id": "ec091891f5fe8762",
+   "source": "TechCrunch",
+   "title": "Jensen Huang reportedly engaged a PR firm with a history of handling high-profile sex scandals a year ago",
+   "url": "https://techcrunch.com/2026/11/09/jensen-huang-reportedly-engaged-a-pr-firm-with-a-history-of-handling-high-profile-sex-scandals-a-year-ago/",
+   "summary": "The PR firm was enlisted shortly after an October 2025 New York Times report described Alice Huang's business dealings with Jensen Huang, Wired reported.",
+   "published_at": 1794266917.0,
+   "published_bj": "2026-11-10 07:28"
+  },
+  {
+   "id": "cae86a301893897f",
+   "source": "IT之家",
+   "title": "Mac 用户速更新：苹果 macOS 27.2.1 修复 eMudhra 证书漏洞残留风险",
+   "url": "https://www.ithome.com/1/024/575.htm",
+   "summary": "IT之家 11 月 10 日消息，科技媒体 MacRumors 今天（11 月 10 日）发布博文，报道称在 macOS Golden Gate 27.2.1 系统中命令行工具中， 苹果修复了 eMudhra 证书漏洞残留风险。 IT之家此前报道，苹果公司于上月（2026 年 10 月）发布 macOS 更新， 在 Safari、邮件及采用苹果框架的应用中，屏蔽相关被泄露证书 ，但 curl、git 等命令行工具仍可能接受这些证书，导致开发者及高级用户面临潜在风险。 此次更新后，macOS 的命令行工具将不再信任受影响的 eMudhra 根证书，意味着通过终端执行网络请求、代码拉取或软件安装时",
+   "published_at": 1794266551.0,
+   "published_bj": "2026-11-10 07:22"
+  },
   {
    "id": "3ad39f5cb7f6227d",
    "source": "IT之家",
@@ -76,6 +211,15 @@
    "published_bj": "2026-11-10 06:59"
   },
   {
+   "id": "d99bd2fc2b590bf6",
+   "source": "Hacker News",
+   "title": "Exact – a new cross platform UI framework by the Expo team",
+   "url": "https://github.com/expo/exact",
+   "summary": "Article URL: https://github.com/expo/exact Comments URL: https://news.ycombinator.com/item?id=50433541 Points: 11 # Comments: 5",
+   "published_at": 1794265153.0,
+   "published_bj": "2026-11-10 06:59"
+  },
+  {
    "id": "e1a3167c3f8d39a2",
    "source": "IT之家",
    "title": "Meta 旗下 AI 助手 Muse 登陆苹果 Apple Watch",
@@ -127,6 +271,15 @@
    "url": "https://techcrunch.com/2026/11/09/the-race-is-on-to-sue-nvidia/",
    "summary": "Nvidia’s stock slid more than 4% after its board opened an investigation into Jensen Huang’s relationship with a suspected Chinese spy, and one securities law expert says the company’s earlier insistence that it was all “normal” could turn into a very expensive problem.",
    "published_at": 1794263022.0,
+   "published_bj": "2026-11-10 06:23"
+  },
+  {
+   "id": "b828baa9eeb1a656",
+   "source": "Hacker News",
+   "title": "I did a meditation and it sort of changed my personality?",
+   "url": "https://www.benkuhn.net/meditation/",
+   "summary": "Article URL: https://www.benkuhn.net/meditation/ Comments URL: https://news.ycombinator.com/item?id=50433129 Points: 11 # Comments: 0",
+   "published_at": 1794262980.0,
    "published_bj": "2026-11-10 06:23"
   },
   {
