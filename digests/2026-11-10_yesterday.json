@@ -1,0 +1,382 @@
+{
+ "type": "yesterday",
+ "date": "2026-11-10",
+ "window": {
+  "start_ts": 1794240000.0,
+  "end_ts": 1794326400.0
+ },
+ "generated_at": 1794329173.577097,
+ "generator": "action",
+ "news_count": 400,
+ "keywords": [
+  "ai",
+  "元",
+  "美元",
+  "国补",
+  "华为",
+  "发布",
+  "支持",
+  "苹果",
+  "上市",
+  "游戏"
+ ],
+ "points": [
+  {
+   "text": "【ai】京东活动可能随时变更，需以实付款为准】 小米智能门锁 4 Pro 双摄版 2025 年 10 月开售，主打“AI 掌静脉识别技术、天地双摄大屏猫",
+   "keyword": "ai",
+   "news_ids": [
+    "7b0124b72a74e44c"
+   ],
+   "refs": [
+    {
+     "id": "7b0124b72a74e44c",
+     "title": "国补后 2899 → 1085 元：小米智能门锁 4 Pro 双摄版破冰新低，AI 掌静脉识别技术、天地双摄大屏猫眼",
+     "source": "IT之家",
+     "url": "https://www.ithome.com/1/025/152.htm",
+     "published_at": 1794316483.0
+    }
+   ]
+  },
+  {
+   "text": "【美元】美国数字相框制造商Aura推出了新一代Ink电子墨水相框，新产品将屏幕尺寸从上一代的13英寸缩小至10英寸，同时改进了彩色显示技术，并将售价从4",
+   "keyword": "美元",
+   "news_ids": [
+    "a8220219ea5dae6d"
+   ],
+   "refs": [
+    {
+     "id": "a8220219ea5dae6d",
+     "title": "Aura推出新款10英寸彩色电子墨水相框 售价降至349美元",
+     "source": "cnBeta",
+     "url": "https://www.cnbeta.com.tw/articles/tech/1585828.htm",
+     "published_at": 1794322375.0
+    }
+   ]
+  },
+  {
+   "text": "【ai】黄仁勋已大方承认自己的出轨行为，按照英伟达官方的最新安排，他目前仍然会继续担任公司CEO职务",
+   "keyword": "ai",
+   "news_ids": [
+    "e60f35331d71b019"
+   ],
+   "refs": [
+    {
+     "id": "e60f35331d71b019",
+     "title": "黄仁勋出轨女主揭秘 买了近50亿美元英伟达先进AI芯片",
+     "source": "cnBeta",
+     "url": "https://www.cnbeta.com.tw/articles/tech/1585766.htm",
+     "published_at": 1794294666.0
+    }
+   ]
+  },
+  {
+   "text": "【元】格兰仕 DR 空气炸变频微波炉上市售价 2499 元，今日京东自营直降至 449 元",
+   "keyword": "元",
+   "news_ids": [
+    "d60281ffc2bbc653"
+   ],
+   "refs": [
+    {
+     "id": "d60281ffc2bbc653",
+     "title": "2499 → 449 元：格兰仕 DR 空气炸微波炉国补新低再降价",
+     "source": "IT之家",
+     "url": "https://www.ithome.com/1/025/169.htm",
+     "published_at": 1794319382.0
+    }
+   ]
+  },
+  {
+   "text": "【元】京东活动可能随时变更，需以实付款为准】 iPhone 17 手机 256G 版官网售价 6799 元",
+   "keyword": "元",
+   "news_ids": [
+    "71a586d1bc9f43fd"
+   ],
+   "refs": [
+    {
+     "id": "71a586d1bc9f43fd",
+     "title": "京东自营 6799 → 5068 元：苹果 iPhone 17 国补好价，A19 芯片 + 256GB 储存",
+     "source": "IT之家",
+     "url": "https://www.ithome.com/1/025/155.htm",
+     "published_at": 1794316976.0
+    }
+   ]
+  },
+  {
+   "text": "【美元】Anthropic宣布今日启动A类普通股首次公开发行（IPO）路演，预计将于下周三定价，并于周四开始交易，IPO目标估值约1万亿美元",
+   "keyword": "美元",
+   "news_ids": [
+    "f07efbbc92ac7b33"
+   ],
+   "refs": [
+    {
+     "id": "f07efbbc92ac7b33",
+     "title": "Anthropic宣布IPO路演：预计下周四上市 目标估值1万亿美元",
+     "source": "cnBeta",
+     "url": "https://www.cnbeta.com.tw/articles/tech/1585808.htm",
+     "published_at": 1794320968.0
+    }
+   ]
+  },
+  {
+   "text": "【华为】IT之家 11 月 10 日消息，华为 WATCH GT7 系列智能手表今日推送了鸿蒙 HarmonyOS 7.0.0.123 版本更新，包体大",
+   "keyword": "华为",
+   "news_ids": [
+    "827017f309e2517e"
+   ],
+   "refs": [
+    {
+     "id": "827017f309e2517e",
+     "title": "支持微信来电接听 / 挂断：华为 WATCH GT7 系列手表推 HarmonyOS 7.0.0.123 更新",
+     "source": "IT之家",
+     "url": "https://www.ithome.com/1/025/151.htm",
+     "published_at": 1794315975.0
+    }
+   ]
+  },
+  {
+   "text": "Article URL: https://text",
+   "keyword": "",
+   "news_ids": [
+    "2b8afa6bb0a523b3"
+   ],
+   "refs": [
+    {
+     "id": "2b8afa6bb0a523b3",
+     "title": "Palantir hires a former Democratic senator as it faces scrutiny in new Congress",
+     "source": "Hacker News",
+     "url": "https://text.npr.org/nx-s1-6029641",
+     "published_at": 1794326374.0
+    }
+   ]
+  },
+  {
+   "text": "The remote access giant also urged its self-hosted customers to take dow",
+   "keyword": "",
+   "news_ids": [
+    "d795f34c3c5523d3"
+   ],
+   "refs": [
+    {
+     "id": "d795f34c3c5523d3",
+     "title": "N-able takes its remote access service offline after researcher publishes dozens of zero-day bugs",
+     "source": "TechCrunch",
+     "url": "https://techcrunch.com/2026/11/10/n-able-takes-its-remote-access-service-offline-after-researcher-publishes-dozens-of-zero-day-bugs/",
+     "published_at": 1794325527.0
+    }
+   ]
+  },
+  {
+   "text": "Article URL: https://docodethatmatters",
+   "keyword": "",
+   "news_ids": [
+    "e559a4ccc05c2943"
+   ],
+   "refs": [
+    {
+     "id": "e559a4ccc05c2943",
+     "title": "Smart home devices should work without the internet",
+     "source": "Hacker News",
+     "url": "https://docodethatmatters.com/home-automation-overnight-success/",
+     "published_at": 1794324320.0
+    }
+   ]
+  },
+  {
+   "text": "DeepSeek Harness 日活154万，官方开始给插件作者发Token：Agent 生态要靠开发者了",
+   "keyword": "",
+   "news_ids": [
+    "87d0121bc95b8550"
+   ],
+   "refs": [
+    {
+     "id": "87d0121bc95b8550",
+     "title": "DeepSeek Harness 日活154万，官方开始给插件作者发Token：Agent 生态要靠开发者了",
+     "source": "InfoQ中文",
+     "url": "https://www.infoq.cn/article/Y7lTO7Q1M8oN5JhxhirK?utm_source=rss&utm_medium=article",
+     "published_at": 1794324056.0
+    }
+   ]
+  },
+  {
+   "text": "Article URL: https://tinyvalencia",
+   "keyword": "",
+   "news_ids": [
+    "1d893e6e804cde35"
+   ],
+   "refs": [
+    {
+     "id": "1d893e6e804cde35",
+     "title": "Show HN: Valencia, Spain in Sim City/Isometric View",
+     "source": "Hacker News",
+     "url": "https://tinyvalencia.com/",
+     "published_at": 1794323536.0
+    }
+   ]
+  },
+  {
+   "text": "Article URL: https://stoppels",
+   "keyword": "",
+   "news_ids": [
+    "f264226a4ac99fe3"
+   ],
+   "refs": [
+    {
+     "id": "f264226a4ac99fe3",
+     "title": "The Hardest Tarball?",
+     "source": "Hacker News",
+     "url": "https://stoppels.ch/2026/11/07/the-hardest-tarball.html",
+     "published_at": 1794322839.0
+    }
+   ]
+  },
+  {
+   "text": "Reddit's new AI-powered reviews summarize what users like and dislike ab",
+   "keyword": "",
+   "news_ids": [
+    "af7ab3fbae8f3c76"
+   ],
+   "refs": [
+    {
+     "id": "af7ab3fbae8f3c76",
+     "title": "Reddit is turning user conversations into AI-powered product reviews",
+     "source": "TechCrunch",
+     "url": "https://techcrunch.com/2026/11/10/reddit-is-turning-user-conversations-into-ai-powered-product-reviews/",
+     "published_at": 1794322800.0
+    }
+   ]
+  },
+  {
+   "text": "Article URL: https://www",
+   "keyword": "",
+   "news_ids": [
+    "ee1b1543c476bacc"
+   ],
+   "refs": [
+    {
+     "id": "ee1b1543c476bacc",
+     "title": "The Death Knell of Digital Search",
+     "source": "Hacker News",
+     "url": "https://www.newyorker.com/culture/infinite-scroll/the-death-knell-of-digital-search",
+     "published_at": 1794321696.0
+    }
+   ]
+  }
+ ],
+ "article": {
+  "title": "2026-11-10 新闻总结",
+  "paragraphs": [
+   {
+    "kind": "lead",
+    "text": "过去 24 小时共收录 400 条新闻，来自 7 家媒体。把标题放在一起看，讨论主要集中在 AI、上市、游戏 这几个方向上，其余消息更像是零散补充。"
+   },
+   {
+    "kind": "section",
+    "heading": "AI",
+    "text": "先看「AI」。京东活动可能随时变更，需以实付款为准】 小米智能门锁 4 Pro 双摄版 2025 年 10 月开售，主打“AI 掌静脉识别技术、天地双摄大屏猫眼”，另有 275 条消息指向同一话题。这类进展更像是把已有能力往工程化落地推了一步，真正的分水岭在于成本和可靠性能不能同时压下来。",
+    "news_ids": [
+     "7b0124b72a74e44c"
+    ],
+    "refs": [
+     {
+      "id": "7b0124b72a74e44c",
+      "title": "国补后 2899 → 1085 元：小米智能门锁 4 Pro 双摄版破冰新低，AI 掌静脉识别技术、天地双摄大屏猫眼",
+      "source": "IT之家",
+      "url": "https://www.ithome.com/1/025/152.htm",
+      "published_at": 1794316483.0
+     }
+    ]
+   },
+   {
+    "kind": "section",
+    "heading": "推出",
+    "text": "与此同时「推出」。美国数字相框制造商Aura推出了新一代Ink电子墨水相框，新产品将屏幕尺寸从上一代的13英寸缩小至10英寸，同时改进了彩色显示技术，另有 23 条消息指向同一话题。这类进展更像是把已有能力往工程化落地推了一步，真正的分水岭在于成本和可靠性能不能同时压下来。",
+    "news_ids": [
+     "a8220219ea5dae6d"
+    ],
+    "refs": [
+     {
+      "id": "a8220219ea5dae6d",
+      "title": "Aura推出新款10英寸彩色电子墨水相框 售价降至349美元",
+      "source": "cnBeta",
+      "url": "https://www.cnbeta.com.tw/articles/tech/1585828.htm",
+      "published_at": 1794322375.0
+     }
+    ]
+   },
+   {
+    "kind": "section",
+    "heading": "芯片",
+    "text": "另一个值得注意的方向是「芯片」。黄仁勋已大方承认自己的出轨行为，按照英伟达官方的最新安排，另有 11 条消息指向同一话题。技术路线的胜负很少由一次发布会决定，接下来要看的是它能不能被更多团队低成本复用。",
+    "news_ids": [
+     "e60f35331d71b019"
+    ],
+    "refs": [
+     {
+      "id": "e60f35331d71b019",
+      "title": "黄仁勋出轨女主揭秘 买了近50亿美元英伟达先进AI芯片",
+      "source": "cnBeta",
+      "url": "https://www.cnbeta.com.tw/articles/tech/1585766.htm",
+      "published_at": 1794294666.0
+     }
+    ]
+   },
+   {
+    "kind": "section",
+    "heading": "显示",
+    "text": "相比之下「显示」。京东活动可能随时变更，需以实付款为准】 微星“流光 X24 ”显示器（型号，另有 7 条消息指向同一话题。对读者来说，值得留意的不是结论本身，而是它背后哪些前提正在被改变。",
+    "news_ids": [
+     "8a2131dc7d8a7941"
+    ],
+    "refs": [
+     {
+      "id": "8a2131dc7d8a7941",
+      "title": "7999 → 4184 元：微星“流光 X24 ”显示器国补直降，32\" 第四代 QD-OLED 面板、4K@240Hz",
+      "source": "IT之家",
+      "url": "https://www.ithome.com/1/025/160.htm",
+      "published_at": 1794317596.0
+     }
+    ]
+   },
+   {
+    "kind": "glossary",
+    "items": [
+     {
+      "term": "AI",
+      "desc": "人工智能，让机器完成识别、生成、判断等原本需要人做的任务"
+     },
+     {
+      "term": "Agent",
+      "desc": "智能体，能自己拆解任务、调用工具并连续执行的 AI 程序"
+     },
+     {
+      "term": "IPO",
+      "desc": "首次公开募股，公司第一次把股票卖给公众并上市"
+     },
+     {
+      "term": "AR",
+      "desc": "增强现实，把虚拟图像叠加到真实世界画面上"
+     },
+     {
+      "term": "VR",
+      "desc": "虚拟现实，戴上头显进入一个全虚拟的画面"
+     },
+     {
+      "term": "Robotaxi",
+      "desc": "无人驾驶出租车，车里没有司机，靠自动驾驶系统接单运营"
+     }
+    ]
+   },
+   {
+    "kind": "outlook",
+    "text": "把这几条放在一起看，最值得跟踪的是 AI 和 上市 两条线：一条决定技术能走多远，一条决定它多快能落到普通人的日常里。至于其他消息，可以先放进观察名单，等后续有更实的进展再判断。"
+   }
+  ],
+  "word_count": 641
+ },
+ "ai_enhanced": false,
+ "schema": 1,
+ "window_bj": {
+  "start": "2026-11-10 00:00",
+  "end": "2026-11-11 00:00"
+ }
+}

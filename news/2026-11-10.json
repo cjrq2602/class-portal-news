@@ -1,8 +1,17 @@
 {
  "date": "2026-11-10",
- "generated_at": 1794327007.60591,
+ "generated_at": 1794329171.7533038,
  "count": 400,
  "items": [
+  {
+   "id": "2b8afa6bb0a523b3",
+   "source": "Hacker News",
+   "title": "Palantir hires a former Democratic senator as it faces scrutiny in new Congress",
+   "url": "https://text.npr.org/nx-s1-6029641",
+   "summary": "Article URL: https://text.npr.org/nx-s1-6029641 Comments URL: https://news.ycombinator.com/item?id=50442202 Points: 59 # Comments: 17",
+   "published_at": 1794326374.0,
+   "published_bj": "2026-11-10 23:59"
+  },
   {
    "id": "de183bdda5781623",
    "source": "TechCrunch",
@@ -58,6 +67,15 @@
    "published_bj": "2026-11-10 23:25"
   },
   {
+   "id": "e559a4ccc05c2943",
+   "source": "Hacker News",
+   "title": "Smart home devices should work without the internet",
+   "url": "https://docodethatmatters.com/home-automation-overnight-success/",
+   "summary": "Article URL: https://docodethatmatters.com/home-automation-overnight-success/ Comments URL: https://news.ycombinator.com/item?id=50441707 Points: 21 # Comments: 11",
+   "published_at": 1794324320.0,
+   "published_bj": "2026-11-10 23:25"
+  },
+  {
    "id": "ce55d91695d82ee0",
    "source": "InfoQ中文",
    "title": "成本仅1/3！Meta 新模型 Muse Ember 硬刚 Claude Haiku 5.5",
@@ -83,6 +101,15 @@
    "summary": "IT之家 11 月 10 日消息，据英国《金融时报》今天（10 日）晚间报道，作为 Anthropic 上市牵头投行的高盛，对 Anthropic 的未来给出了乐观预测：营收到 2030 年将 突破 6,000 亿美元 （IT之家注：现汇率约合 4.01 万亿元人民币） ，是 2025 年的 130 多倍。 高盛向一名潜在投资者披露的预测显示，Anthropic 今年的营收预计约为 520 亿美元 （现汇率约合 3,477.02 亿元人民币） ，2027 年增至 1,360 亿美元 （现汇率约合 9,093.75 亿元人民币） ，2029 年达到 4,420 亿美元 （现汇率约合 2.96 万",
    "published_at": 1794323841.0,
    "published_bj": "2026-11-10 23:17"
+  },
+  {
+   "id": "1d893e6e804cde35",
+   "source": "Hacker News",
+   "title": "Show HN: Valencia, Spain in Sim City/Isometric View",
+   "url": "https://tinyvalencia.com/",
+   "summary": "Article URL: https://tinyvalencia.com/ Comments URL: https://news.ycombinator.com/item?id=50441518 Points: 13 # Comments: 2",
+   "published_at": 1794323536.0,
+   "published_bj": "2026-11-10 23:12"
   },
   {
    "id": "2d8510175d1a80e0",
@@ -3575,33 +3602,6 @@
    "summary": "IT之家 11 月 10 日消息，X 平台博主 ben 今日发布了《GTA6》游戏 XBOX Series X|S 实体版的包装盒照片，显示本作 XBOX 版将支持杜比视界、杜比全景声技术。 IT之家了解到，本次泄露的实体版包装盒是美版，本作实体版仅提供兑换码，并没有实体光碟。XBOX Series X|S 用户可以在游戏中体验到杜比视界和杜比全景声技术，对比之下，PS5 并没有杜比视界，但支持 HDR10。 同时，XBOX Series X|S 支持杜比全景声，支持这项技术的游戏能够根据角色的动作、场景动效，精准呈现不同声音的空间位置。作为参考，PS5 于 2023 年 9 月系统更新中加入",
    "published_at": 1794270701.0,
    "published_bj": "2026-11-10 08:31"
-  },
-  {
-   "id": "fea2376c52a7fdd5",
-   "source": "少数派",
-   "title": "派早报：火山引擎发布 Seedream 5.5，苹果研究团队用仿真训练人形机器人等",
-   "url": "https://sspai.com/post/118854",
-   "summary": "少数派的近期动态我们已开设专页，汇总展示「优秀作者评选」奖项及结果。「优秀作者评选」是编辑部自2023年起实行的机制，于每季度结束后，评选该季度贡献突出的现有作者，以及涌现出的有潜力新作者。获奖者会获 ... 查看全文",
-   "published_at": 1794270280.0,
-   "published_bj": "2026-11-10 08:24"
-  },
-  {
-   "id": "08ea579d66222f76",
-   "source": "IT之家",
-   "title": "苹果推出 50 美元 AI 使用包：Logic Pro 率先支持付费扩容，有效期 12 个月",
-   "url": "https://www.ithome.com/1/024/590.htm",
-   "summary": "IT之家 11 月 10 日消息，科技媒体 9to5Mac 昨日（11 月 9 日）发布博文，报道称苹果开始为部分 Apple Intelligence 功能推出付费“智能使用包”（Intelligence Usage Packs）， 首个落地产品是音乐创作软件 Logic Pro，售价为 49.99 美元（IT之家注：现汇率约合 333.9 元人民币）。 购买路径方面，用户可在 Logic Pro 应用菜单栏依次选择“智能功能” → “显示使用情况”，再点击“购买更多使用量”完成购买。 购买方式上，不同于主流 AI 服务采用的按月订阅模式，“智能使用包”采用买断的额外用量包，有效期为 12 ",
-   "published_at": 1794270094.0,
-   "published_bj": "2026-11-10 08:21"
-  },
-  {
-   "id": "7d8465831adc6cf6",
-   "source": "IT之家",
-   "title": "厦金大桥（厦门段）海上主线桥贯通，预计今年底建成通车",
-   "url": "https://www.ithome.com/1/024/589.htm",
-   "summary": "IT之家 11 月 10 日消息，据央视新闻报道，今天（11 月 10 日）凌晨，随着最后一榀钢箱梁吊装到位，厦金大桥（厦门段）海上主线桥顺利合龙，标志着厦金大桥（厦门段）海上主线桥主体结构建设完成，项目进入通车前的收尾阶段。 最后这一榀钢箱梁重达 3318 吨，体量大、吊装精度高，基准温度要控制在约 22℃，施工人员利用 5500 吨级浮吊船将钢箱梁吊起，缓缓送入合龙口，再通过千斤顶同步控制进行精调。 IT之家注意到，此次合龙的刘五店航道东侧非通航孔桥是厦金大桥（厦门段）海上主线桥最后一个合龙桥段。全长约 14.2 公里的海上主线桥由观音山互通主线桥、刘五店航道桥、金通航道桥等 12 个桥段",
-   "published_at": 1794269446.0,
-   "published_bj": "2026-11-10 08:10"
   }
  ]
 }

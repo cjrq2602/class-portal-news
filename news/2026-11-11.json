@@ -1,7 +1,7 @@
 {
  "date": "2026-11-11",
- "generated_at": 1794327007.602778,
- "count": 5,
+ "generated_at": 1794329171.7501864,
+ "count": 10,
  "items": [
   {
    "id": "bf2dd8be34788b3e",
@@ -31,6 +31,42 @@
    "published_bj": "2026-11-11 01:00"
   },
   {
+   "id": "ca9a01edded51c4a",
+   "source": "Hacker News",
+   "title": "Tailscale's DNS IPv6 spells out \"Tailscale\"",
+   "url": "https://www.reddit.com/r/Tailscale/comments/1xsr24r/tailscales_dns_ipv6_spells_out_tailscale_easter/",
+   "summary": "Article URL: https://www.reddit.com/r/Tailscale/comments/1xsr24r/tailscales_dns_ipv6_spells_out_tailscale_easter/ Comments URL: https://news.ycombinator.com/item?id=50442691 Points: 6 # Comments: 0",
+   "published_at": 1794328485.0,
+   "published_bj": "2026-11-11 00:34"
+  },
+  {
+   "id": "a1fb7508e6decde4",
+   "source": "Hacker News",
+   "title": "Blender 5.3 released with Gaussian Splat support",
+   "url": "https://www.blender.org/download/releases/5-3/",
+   "summary": "Article URL: https://www.blender.org/download/releases/5-3/ Comments URL: https://news.ycombinator.com/item?id=50442426 Points: 53 # Comments: 7",
+   "published_at": 1794327343.0,
+   "published_bj": "2026-11-11 00:15"
+  },
+  {
+   "id": "b1b16132f96829fa",
+   "source": "IT之家",
+   "title": "《足球经理 27》今日发售：国区售价 268 元，首发加入 PC Game Pass",
+   "url": "https://www.ithome.com/1/025/194.htm",
+   "summary": "IT之家 11 月 11 日消息，由 Sports Interactive 开发、SEGA 发行的足球策略模拟游戏《足球经理 27》（Football Manager 27，简称《FM27》）已正式在 Steam 平台正式发售，国区定价 268 元，不锁国区。IT之家附游戏商品页（ https://store.steampowered.com/app/4530370/ 足球经理 27/?l=schinese&amp;cc=cn ）。 据介绍，本作国区标准版定价 268 元，预购期间曾提供 10% 首发折扣（折后 241.2 元），该促销已于发售日截止。游戏首发同步登陆 PC Game Pass",
+   "published_at": 1794327255.0,
+   "published_bj": "2026-11-11 00:14"
+  },
+  {
+   "id": "123991f052195566",
+   "source": "Hacker News",
+   "title": "Gemini 4 Carbon is now available",
+   "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-4-carbon-now-available/",
+   "summary": "Article URL: https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-4-carbon-now-available/ Comments URL: https://news.ycombinator.com/item?id=50442303 Points: 97 # Comments: 37",
+   "published_at": 1794326835.0,
+   "published_bj": "2026-11-11 00:07"
+  },
+  {
    "id": "c8b4bd07a752f2f6",
    "source": "InfoQ中文",
    "title": "给 AI 腾内存？Discord 抛弃Electron，省70%内存还秒开：Windows应用该跟进了",
@@ -38,6 +74,15 @@
    "summary": "点击查看原文>",
    "published_at": 1794326693.0,
    "published_bj": "2026-11-11 00:04"
+  },
+  {
+   "id": "80c4a143672574d0",
+   "source": "Hacker News",
+   "title": ".NET 11",
+   "url": "https://devblogs.microsoft.com/dotnet/announcing-dotnet-11/",
+   "summary": "Article URL: https://devblogs.microsoft.com/dotnet/announcing-dotnet-11/ Comments URL: https://news.ycombinator.com/item?id=50442225 Points: 37 # Comments: 10",
+   "published_at": 1794326487.0,
+   "published_bj": "2026-11-11 00:01"
   },
   {
    "id": "b418039fdabcfa1c",
