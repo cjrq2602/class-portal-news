@@ -1,7 +1,7 @@
 {
  "date": "2026-11-11",
- "generated_at": 1794330769.9224284,
- "count": 15,
+ "generated_at": 1794333711.51498,
+ "count": 22,
  "items": [
   {
    "id": "bf2dd8be34788b3e",
@@ -22,6 +22,15 @@
    "published_bj": "2026-11-11 02:54"
   },
   {
+   "id": "5f2605085c065cb2",
+   "source": "TechCrunch",
+   "title": "Anthropic launches Claude Meetings to turn workplace discussions into plans and tasks",
+   "url": "https://techcrunch.com/2026/11/10/anthropic-launches-claude-meetings-to-turn-workplace-discussions-into-plans-and-tasks/",
+   "summary": "As participants talk, Claude can draft the plan being discussed, map out a timeline on a whiteboard, answer questions in the meeting chat, and access connected work apps to retrieve information, such as last year's figures.",
+   "published_at": 1794331800.0,
+   "published_bj": "2026-11-11 01:30"
+  },
+  {
    "id": "52de827f076ccc78",
    "source": "IT之家",
    "title": "嵌入式 x86 算力天花板：AMD 霄龙嵌入式 9006 系列 SP7 处理器发布，吞吐量飙升 1.8 倍",
@@ -40,6 +49,33 @@
    "published_bj": "2026-11-11 01:04"
   },
   {
+   "id": "c81f965bee51c101",
+   "source": "cnBeta",
+   "title": "高盛预测Anthropic 2030年营收突破6000亿美元",
+   "url": "https://www.cnbeta.com.tw/articles/tech/1585838.htm",
+   "summary": "据Anthropic的主承销投行高盛的预测，Anthropic到2030年营收有望突破6000亿美元，较去年营收增长超130倍。高盛向该笔IPO潜在投资者展示的预测模型显示：公司今年总营收预计约520亿美元，2027年增至1360亿美元，2029年达到4420亿美元，2030年进一步冲高至6000亿美元以上。Anthropic 2025年营收为46亿美元。 阅读全文",
+   "published_at": 1794330243.0,
+   "published_bj": "2026-11-11 01:04"
+  },
+  {
+   "id": "e5512e1276f26e42",
+   "source": "cnBeta",
+   "title": "韦伯望远镜疑似发现“近乎原始”的早期星系 或为大爆炸模型补上关键一环",
+   "url": "https://www.cnbeta.com.tw/articles/science/1585836.htm",
+   "summary": "天文学家利用詹姆斯·韦伯空间望远镜（JWST）观测到一个几乎不含重元素的遥远星系，并将其命名为 AMORE6。 研究人员认为，这可能是迄今最接近“零金属”状态的星系候选体；若后续观测得以确认，它将成为长期寻找的第三星族（星族III）星系的首个实证，从而为宇宙学标准模型提供关键支持。相关论文已于今年7月31日提交至《自然》杂志，并发布在预印本平台 arXiv 上，第一作者为加州理工学院红外处理与分析中心（IPAC）的科学家森下贵裕（Takahiro Morishita）。 阅读全文",
+   "published_at": 1794330211.0,
+   "published_bj": "2026-11-11 01:03"
+  },
+  {
+   "id": "e2de07bd4df498e4",
+   "source": "Hacker News",
+   "title": "AMD's Zen 6 Family: Feeding the Beast",
+   "url": "https://chipsandcheese.com/p/amds-zen-6-family-feeding-the-beast",
+   "summary": "Article URL: https://chipsandcheese.com/p/amds-zen-6-family-feeding-the-beast Comments URL: https://news.ycombinator.com/item?id=50443090 Points: 28 # Comments: 6",
+   "published_at": 1794330152.0,
+   "published_bj": "2026-11-11 01:02"
+  },
+  {
    "id": "c0f7b32f32ed8389",
    "source": "InfoQ中文",
    "title": "Chrome 想终结“去邮箱复制验证码”，但隐私真的更好了吗？",
@@ -47,6 +83,33 @@
    "summary": "点击查看原文>",
    "published_at": 1794330000.0,
    "published_bj": "2026-11-11 01:00"
+  },
+  {
+   "id": "1119e1045882ffeb",
+   "source": "cnBeta",
+   "title": "Anthropic 启动IPO路演 估值目标高达1.4万亿美元",
+   "url": "https://www.cnbeta.com.tw/articles/tech/1585834.htm",
+   "summary": "Anthropic 已正式启动首次公开募股（IPO）的投资者路演。公司计划发行 8.25 亿股股票，每股发行价区间为 70 至 78 美元，最高募资规模可达 643.5 亿美元。若按区间上限定价，其完全稀释估值将接近 1.4 万亿美元，这将是人工智能行业迄今规模最大的上市交易之一。 阅读全文",
+   "published_at": 1794329994.0,
+   "published_bj": "2026-11-11 00:59"
+  },
+  {
+   "id": "001510498889d5e4",
+   "source": "cnBeta",
+   "title": "Google发布Gemini 4 Carbon 推出智能体“蜂群”功能",
+   "url": "https://www.cnbeta.com.tw/articles/tech/1585832.htm",
+   "summary": "11月10日，Google宣布将其最新人工智能模型 Gemini 4 Carbon 向公众全面开放。就在两周前，该模型还只向一小批“网络安全防御人员”提供。Google称，Carbon 是迄今“最强的模型”，有能力与 Anthropic 和 OpenAI 最顶尖的系统一较高下。 阅读全文",
+   "published_at": 1794329902.0,
+   "published_bj": "2026-11-11 00:58"
+  },
+  {
+   "id": "30a6a825ecd62a02",
+   "source": "Solidot",
+   "title": "微软宣布 .NET 11",
+   "url": "https://www.solidot.org/story?sid=85851",
+   "summary": "微软宣布了 .NET 11。该版本是标准支持版本 STS，提供两年支持，上个版本 .NET 10 则是长期支持版本 LTS。.NET 11 改进 C# 15、ASP.NET Core、.NET MAUI 以及 Windows，缩短了应用构建时间，主要变化包括：C# 15 引入了联合类型和封闭类层次结构；Native AOT CLI；ASP.NET Core 支持异步验证和 OpenAPI 3.2，以及 Blazor 和 SignalR 应用的新功能；等等。",
+   "published_at": 1794329448.0,
+   "published_bj": "2026-11-11 00:50"
   },
   {
    "id": "65de285149b77b7c",
