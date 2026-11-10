@@ -1,8 +1,17 @@
 {
  "date": "2026-11-10",
- "generated_at": 1794323350.7538009,
+ "generated_at": 1794327007.60591,
  "count": 400,
  "items": [
+  {
+   "id": "de183bdda5781623",
+   "source": "TechCrunch",
+   "title": "Google broadens its AI hardware portfolio with two new specialized chips",
+   "url": "https://techcrunch.com/2026/11/10/google-broadens-its-ai-hardware-portfolio-with-two-new-specialized-chips/",
+   "summary": "Google's new tensor processing units (TPUs) broaden its chip portfolio to more use cases: confidential model training and more memory capacity.",
+   "published_at": 1794326048.0,
+   "published_bj": "2026-11-10 23:54"
+  },
   {
    "id": "eac361ebe07c87c6",
    "source": "InfoQ中文",
@@ -11,6 +20,42 @@
    "summary": "点击查看原文>",
    "published_at": 1794325997.0,
    "published_bj": "2026-11-10 23:53"
+  },
+  {
+   "id": "d795f34c3c5523d3",
+   "source": "TechCrunch",
+   "title": "N-able takes its remote access service offline after researcher publishes dozens of zero-day bugs",
+   "url": "https://techcrunch.com/2026/11/10/n-able-takes-its-remote-access-service-offline-after-researcher-publishes-dozens-of-zero-day-bugs/",
+   "summary": "The remote access giant also urged its self-hosted customers to take down their own servers amid a \"critical security incident,\" fearing the possibility of cyberattacks.",
+   "published_at": 1794325527.0,
+   "published_bj": "2026-11-10 23:45"
+  },
+  {
+   "id": "cd2dda5dd340ae75",
+   "source": "IT之家",
+   "title": "奥迪上汽战略合作 CEO 舒睿泽：未来三年将推出三款新车",
+   "url": "https://www.ithome.com/1/025/192.htm",
+   "summary": "IT之家 11 月 10 日消息，据第一财经今天（10 日）晚间报道，奥迪 · 上汽战略合作 CEO 舒睿泽（Fred Schulze）透露， 未来三年将推出三款新车，规划已进入执行阶段 。 此外，奥迪在 L3 级自动驾驶领域也有明确的发展目标。对于是否出口到欧洲市场，舒睿泽称，AUDI 品牌车型专为中国消费者打造， 全力聚焦中国市场 是未来几年的核心任务。 据IT之家此前报道，今年 10 月，奥迪中国宣布分别与合作伙伴签署战略协议，旨在强化奥迪四环品牌与 AUDI (奥迪字母标) 品牌之间的差异化定位及各自的战略侧重，并进一步明确“双品牌、双合作伙伴”渠道架构。这一战略里程碑，体现了 奥迪、",
+   "published_at": 1794324895.0,
+   "published_bj": "2026-11-10 23:34"
+  },
+  {
+   "id": "3b82f3bfdde40406",
+   "source": "TechCrunch",
+   "title": "Meta’s AI agent Muse lands on Apple Watch and Android Wear OS",
+   "url": "https://techcrunch.com/2026/11/10/metas-ai-agent-muse-lands-on-apple-watch-and-wear-os/",
+   "summary": "Users can now interact with Meta’s AI assistant through voice calls, text messages, or dictation on their Apple Watch.",
+   "published_at": 1794324570.0,
+   "published_bj": "2026-11-10 23:29"
+  },
+  {
+   "id": "465d7094063b746e",
+   "source": "IT之家",
+   "title": "MiniMax 开源 H3-Image 生图模型，10 秒就能生成一张 4K 图像",
+   "url": "https://www.ithome.com/1/025/191.htm",
+   "summary": "IT之家 11 月 10 日消息，今天（10 日）深夜，MiniMax 宣布，MiniMax H3-Image 正式发布并 开放权重 。这是一款衍生自 H3 的图像生成模型，其具备 文本生成图像、图像参考和图像编辑能力 。 IT之家从官方介绍获悉，其能够在 10 秒内生成 一张 4096 x 4096 像素、约 16 MP（4K） 的高分辨率图像，同时呈现丰富、真实的细节，并具备优秀的指令遵循和多参考图理解能力。 MiniMax 称，在 H3 预训练赋予的广泛图像能力基础上，H3-Image 进一步强化了整个后训练链路，在数据、强化学习、步数压缩、PE、部署优化等方面做了许多扎实的工作。这些工",
+   "published_at": 1794324352.0,
+   "published_bj": "2026-11-10 23:25"
   },
   {
    "id": "ce55d91695d82ee0",
@@ -31,6 +76,15 @@
    "published_bj": "2026-11-10 23:20"
   },
   {
+   "id": "7ccbf5689ad9023b",
+   "source": "IT之家",
+   "title": "高盛预计 Anthropic 2030 年营收突破 6000 亿美元，并跻身全球营收最高企业之列",
+   "url": "https://www.ithome.com/1/025/190.htm",
+   "summary": "IT之家 11 月 10 日消息，据英国《金融时报》今天（10 日）晚间报道，作为 Anthropic 上市牵头投行的高盛，对 Anthropic 的未来给出了乐观预测：营收到 2030 年将 突破 6,000 亿美元 （IT之家注：现汇率约合 4.01 万亿元人民币） ，是 2025 年的 130 多倍。 高盛向一名潜在投资者披露的预测显示，Anthropic 今年的营收预计约为 520 亿美元 （现汇率约合 3,477.02 亿元人民币） ，2027 年增至 1,360 亿美元 （现汇率约合 9,093.75 亿元人民币） ，2029 年达到 4,420 亿美元 （现汇率约合 2.96 万",
+   "published_at": 1794323841.0,
+   "published_bj": "2026-11-10 23:17"
+  },
+  {
    "id": "2d8510175d1a80e0",
    "source": "IT之家",
    "title": "第 39 届中国电影金鸡奖全名单公布，《浪浪山小妖怪》《窗外是蓝星》《给阿嬷的情书》等获奖",
@@ -38,6 +92,15 @@
    "summary": "IT之家 11 月 10 日消息，据央视新闻报道，今天，第 39 届中国电影金鸡奖颁奖典礼举行。获奖名单如下： 最佳女主角：高叶《南京照相馆》 最佳男主角：梁家辉 《捕风追影》 最佳女配角：兰西雅 《震耳欲聋》 最佳男配角：吾守尔 · 赛来 《万桐书》 最佳故事片：《南京照相馆》 最佳导演：郑大圣《密档》 评委会特别奖：《给阿嬷的情书》 最佳新晋导演：万力《震耳欲聋》 最佳中小成本故事片：《菜肉馄饨》 最佳录音：王砚伟《镖人：风起大漠》 最佳剪辑：黄曾鸿辰 《飞行家》 最佳美术：王竞 《得闲谨制》 最佳音乐：高小阳 《万桐书》 最佳摄影：董劲松 《狂野时代》 最佳动画：《浪浪山小妖怪》 最佳纪",
    "published_at": 1794323104.0,
    "published_bj": "2026-11-10 23:05"
+  },
+  {
+   "id": "f264226a4ac99fe3",
+   "source": "Hacker News",
+   "title": "The Hardest Tarball?",
+   "url": "https://stoppels.ch/2026/11/07/the-hardest-tarball.html",
+   "summary": "Article URL: https://stoppels.ch/2026/11/07/the-hardest-tarball.html Comments URL: https://news.ycombinator.com/item?id=50441338 Points: 37 # Comments: 1",
+   "published_at": 1794322839.0,
+   "published_bj": "2026-11-10 23:00"
   },
   {
    "id": "b07f5a6fb6ce4d3c",
@@ -54,6 +117,15 @@
    "title": "Reddit is turning user conversations into AI-powered product reviews",
    "url": "https://techcrunch.com/2026/11/10/reddit-is-turning-user-conversations-into-ai-powered-product-reviews/",
    "summary": "Reddit's new AI-powered reviews summarize what users like and dislike about 10,000 products, helping shoppers research purchases ahead of the holidays.",
+   "published_at": 1794322800.0,
+   "published_bj": "2026-11-10 23:00"
+  },
+  {
+   "id": "f9e65f8ee71a7747",
+   "source": "TechCrunch",
+   "title": "New WhatsApp head wants to make the app easier to use, give its AI more chops",
+   "url": "https://techcrunch.com/2026/11/10/new-whatsapp-head-wants-to-make-the-app-easier-to-use-give-its-ai-more-chops/",
+   "summary": "Kunal Shah said that AI on WhatsApp will remind people of their appointment than booking",
    "published_at": 1794322800.0,
    "published_bj": "2026-11-10 23:00"
   },
@@ -118,6 +190,15 @@
    "url": "https://www.ithome.com/1/025/184.htm",
    "summary": "IT之家 11 月 10 日消息，据央视新闻今日报道，根据世界气象组织公布的最新数据， 2023 年至 2026 年成为有记录以来最热的四年 。 报告指出，年初的拉尼娜现象曾短暂抑制全球升温，但随着厄尔尼诺现象发展，全球气温再次攀升。 预计厄尔尼诺将持续至 2027 年初 ，可能进一步推高 2026 年全年平均气温。 与此同时，2025 年全球温室气体浓度再创新高，二氧化碳浓度较工业化前增加 53%。海洋热含量和卫星观测表明，地球系统积累热量的速度正在加快， 2025 年地球能量失衡达到 1960 年有观测记录以来最高水平，2026 年可能再次刷新纪录 。 IT之家查询世界气象组织数据获悉，2",
    "published_at": 1794321703.0,
+   "published_bj": "2026-11-10 22:41"
+  },
+  {
+   "id": "ee1b1543c476bacc",
+   "source": "Hacker News",
+   "title": "The Death Knell of Digital Search",
+   "url": "https://www.newyorker.com/culture/infinite-scroll/the-death-knell-of-digital-search",
+   "summary": "Article URL: https://www.newyorker.com/culture/infinite-scroll/the-death-knell-of-digital-search Comments URL: https://news.ycombinator.com/item?id=50441074 Points: 5 # Comments: 1",
+   "published_at": 1794321696.0,
    "published_bj": "2026-11-10 22:41"
   },
   {
@@ -3521,87 +3602,6 @@
    "summary": "IT之家 11 月 10 日消息，据央视新闻报道，今天（11 月 10 日）凌晨，随着最后一榀钢箱梁吊装到位，厦金大桥（厦门段）海上主线桥顺利合龙，标志着厦金大桥（厦门段）海上主线桥主体结构建设完成，项目进入通车前的收尾阶段。 最后这一榀钢箱梁重达 3318 吨，体量大、吊装精度高，基准温度要控制在约 22℃，施工人员利用 5500 吨级浮吊船将钢箱梁吊起，缓缓送入合龙口，再通过千斤顶同步控制进行精调。 IT之家注意到，此次合龙的刘五店航道东侧非通航孔桥是厦金大桥（厦门段）海上主线桥最后一个合龙桥段。全长约 14.2 公里的海上主线桥由观音山互通主线桥、刘五店航道桥、金通航道桥等 12 个桥段",
    "published_at": 1794269446.0,
    "published_bj": "2026-11-10 08:10"
-  },
-  {
-   "id": "daf81ae2e7adb748",
-   "source": "Hacker News",
-   "title": "Locating the Source of a Mysterious Beep",
-   "url": "https://simonwillison.net/2026/Nov/9/mysterious-beeps/",
-   "summary": "Article URL: https://simonwillison.net/2026/Nov/9/mysterious-beeps/ Comments URL: https://news.ycombinator.com/item?id=50434310 Points: 9 # Comments: 5",
-   "published_at": 1794269446.0,
-   "published_bj": "2026-11-10 08:10"
-  },
-  {
-   "id": "2b1170b4b42960b5",
-   "source": "Hacker News",
-   "title": "Horible public key tricks",
-   "url": "https://maurycyz.com/projects/badcert/",
-   "summary": "Article URL: https://maurycyz.com/projects/badcert/ Comments URL: https://news.ycombinator.com/item?id=50434264 Points: 14 # Comments: 1",
-   "published_at": 1794269237.0,
-   "published_bj": "2026-11-10 08:07"
-  },
-  {
-   "id": "0ce65f67b487877a",
-   "source": "IT之家",
-   "title": "苹果 iOS/iPadOS 18.7.12 正式版发布",
-   "url": "https://www.ithome.com/1/024/588.htm",
-   "summary": "IT之家 11 月 10 日消息，苹果今日向 iPhone 和 iPad 用户推送了 iOS/iPadOS 18.7.12 更新（内部版本号：22H390），本次更新距离上次发布正式版间隔 14 天。 需要注意的是，因苹果各区域节点服务器配置缓存问题，可能有些地方探测到升级更新的时间略有延迟，一般半小时内，不会太久。 本文由机器人发布，IT之家稍后将为大家带来具体更新内容。 附 iOS/iPadOS 18 发布历史： 2026-10-27：iOS 18.7.11 (22H384) 2026-08-11：iOS 18.7.10 (22H373) 2026-05-05：iOS 18.7.9 (22",
-   "published_at": 1794268931.0,
-   "published_bj": "2026-11-10 08:02"
-  },
-  {
-   "id": "4e625ec98b039b6b",
-   "source": "IT之家",
-   "title": "苹果 iPadOS 26.7.3 正式版发布",
-   "url": "https://www.ithome.com/1/024/587.htm",
-   "summary": "IT之家 11 月 10 日消息，苹果今日向 iPad 用户推送了 iPadOS 26.7.3 更新，本次更新距离上次发布正式版间隔 14 天。 需要注意的是，因苹果各区域节点服务器配置缓存问题，可能有些地方探测到升级更新的时间略有延迟，一般半小时内，不会太久。 本文由机器人发布，IT之家稍后将为大家带来具体更新内容。 附 iOS/iPadOS 26 发布历史： 2026-10-27：iPadOS 26.7.2 (23H128) 2026-09-29：iPadOS 26.7.1 (23H30) 2026-09-10：iPadOS 26.7 (23H24) 2026-09-09：iOS 26.6",
-   "published_at": 1794268931.0,
-   "published_bj": "2026-11-10 08:02"
-  },
-  {
-   "id": "10baf18f57a49b01",
-   "source": "IT之家",
-   "title": "苹果 watchOS 27.2.1 正式版发布",
-   "url": "https://www.ithome.com/1/024/586.htm",
-   "summary": "IT之家 11 月 10 日消息，苹果今日向 Apple Watch 用户推送了 watchOS 27.2.1 更新（内部版本号：24S132），本次更新距离上次发布正式版间隔 14 天。 需要注意的是，因苹果各区域节点服务器配置缓存问题，可能有些地方探测到升级更新的时间略有延迟，一般半小时内，不会太久。 本文由机器人发布，IT之家稍后将为大家带来具体更新内容。 附 watchOS 27 发布历史： 2026-10-27：watchOS 27.2 (24S118) 2026-10-20：watchOS 27.2 RC (24S116) 2026-10-14：watchOS 27.2 Beta ",
-   "published_at": 1794268931.0,
-   "published_bj": "2026-11-10 08:02"
-  },
-  {
-   "id": "80b6f3dd9267ed32",
-   "source": "IT之家",
-   "title": "苹果 visionOS 27.2.1 正式版发布",
-   "url": "https://www.ithome.com/1/024/585.htm",
-   "summary": "IT之家 11 月 10 日消息，苹果今日向 Vision Pro 用户推送了 visionOS 27.2.1 更新（内部版本号：24N124），本次更新距离上次发布正式版间隔 14 天。 需要注意的是，因苹果各区域节点服务器配置缓存问题，可能有些地方探测到升级更新的时间略有延迟，一般半小时内，不会太久。 本文由机器人发布，IT之家稍后将为大家带来具体更新内容。 附 visionOS 27 发布历史： 2026-10-27：visionOS 27.2 (24N120) 2026-10-20：visionOS 27.2 RC (24N118) 2026-10-14：visionOS 27.2 B",
-   "published_at": 1794268930.0,
-   "published_bj": "2026-11-10 08:02"
-  },
-  {
-   "id": "5a69089c0d4a15db",
-   "source": "IT之家",
-   "title": "苹果 iOS/iPadOS 27.2.1 正式版发布",
-   "url": "https://www.ithome.com/1/024/583.htm",
-   "summary": "IT之家 11 月 10 日消息，苹果今日向 iPhone 和 iPad 用户推送了 iOS/iPadOS 27.2.1 更新（内部版本号：24B156），本次更新距离上次发布正式版间隔 14 天。 需要注意的是，因苹果各区域节点服务器配置缓存问题，可能有些地方探测到升级更新的时间略有延迟，一般半小时内，不会太久。 本文由机器人发布，IT之家稍后将为大家带来具体更新内容。 附 iOS/iPadOS 27 发布历史： 2026-10-27：iOS 27.2 (24B91020) 2026-10-27：iOS 27.2 (24B119) 2026-10-20：iOS 27.2 RC (24B115",
-   "published_at": 1794268929.0,
-   "published_bj": "2026-11-10 08:02"
-  },
-  {
-   "id": "3bc934b64ef8e6e7",
-   "source": "IT之家",
-   "title": "全球首款配自动追踪灯的安防摄像头：安克 eufy 发布 TrackLight Cam S1，最远 12 米威慑可疑陌生人",
-   "url": "https://www.ithome.com/1/024/581.htm",
-   "summary": "IT之家 11 月 10 日消息，安克（Anker）旗下智能家居品牌 eufy 于 11 月 9 日推出户外安防摄像头 Eufy TrackLight Cam S1 。官方称其为全球首款配备“自动追踪灯”的户外安防摄像头，可通过光束主动锁定并跟随可疑人员，从而提升家庭安防的威慑能力。 当摄像头识别到可疑人员后，TrackLight 会从最远约 12 米（40 英尺）处锁定目标，并随其移动持续照射。光束会根据目标距离自动调整：目标较远时收窄，靠近时则扩大，从而让被追踪者始终处于照明范围内。摄像头支持 355 度水平旋转，追踪速度最高可达每秒 87 度。 在威慑功能上，用户可开启“追踪威慑模式”，",
-   "published_at": 1794268918.0,
-   "published_bj": "2026-11-10 08:01"
-  },
-  {
-   "id": "4762998e3d3635e0",
-   "source": "IT之家",
-   "title": "谷歌钱包新增 Traveler QR 二维码支付，支持东南亚地区 Alipay+",
-   "url": "https://www.ithome.com/1/024/580.htm",
-   "summary": "IT之家 11 月 10 日消息，据科技媒体 Android Authority 昨天报道，谷歌 Google Play 服务 26.44 现已向 Android 用户推送。根据官方发布的信息说明，Traveler QR 功能已在谷歌钱包（Google Wallet）上线。 据报道，Traveler QR 是一种二维码支付方式，支持主扫（顾客用手机扫描商户的二维码）、被扫（IT之家注：商户用扫描枪 / 支付终端扫描顾客手机的二维码）。 同时 该功能基于 Alipay+ 网络运行 ， 支持马来西亚、印度尼西亚、菲律宾等东南亚国家 / 地区 。这些地区中有不少是热门旅游目的地，未来用户通过谷歌钱包",
-   "published_at": 1794268753.0,
-   "published_bj": "2026-11-10 07:59"
   }
  ]
 }

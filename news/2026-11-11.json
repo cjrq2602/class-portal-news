@@ -1,7 +1,7 @@
 {
  "date": "2026-11-11",
- "generated_at": 1794323350.7517154,
- "count": 4,
+ "generated_at": 1794327007.602778,
+ "count": 5,
  "items": [
   {
    "id": "bf2dd8be34788b3e",
@@ -38,6 +38,15 @@
    "summary": "点击查看原文>",
    "published_at": 1794326693.0,
    "published_bj": "2026-11-11 00:04"
+  },
+  {
+   "id": "b418039fdabcfa1c",
+   "source": "TechCrunch",
+   "title": "Apple TV makes sign language interpretation a built-in accessibility feature",
+   "url": "https://techcrunch.com/2026/11/10/apple-tv-makes-sign-language-interpretation-a-built-in-accessibility-feature/",
+   "summary": "Apple TV's new accessibility feature lets viewers turn on sign language interpretation within supported titles.",
+   "published_at": 1794326400.0,
+   "published_bj": "2026-11-11 00:00"
   }
  ]
 }
