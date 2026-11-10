@@ -1,8 +1,35 @@
 {
  "date": "2026-11-11",
- "generated_at": 1794341454.858025,
- "count": 35,
+ "generated_at": 1794344646.2047224,
+ "count": 40,
  "items": [
+  {
+   "id": "5defb2bea9833353",
+   "source": "TechCrunch",
+   "title": "OpenAI, Anthropic face new oversight as New York’s AI safety law takes effect",
+   "url": "https://techcrunch.com/2026/11/10/openai-anthropic-face-new-oversight-as-new-yorks-ai-safety-law-takes-effect/",
+   "summary": "New York is preparing to enforce its sweeping AI safety law, requiring major developers like OpenAI and Anthropic to register, disclose safety practices, and report critical incidents or face fines.",
+   "published_at": 1794343933.0,
+   "published_bj": "2026-11-11 04:52"
+  },
+  {
+   "id": "b0f34a43f0140946",
+   "source": "TechCrunch",
+   "title": "Proximal Ventures raises debut fund to back startups bringing AI to drug development",
+   "url": "https://techcrunch.com/2026/11/10/proximal-ventures-raises-debut-fund-to-back-startups-bringing-ai-to-drug-development/",
+   "summary": "Former SignalFire investor Sahir Raoof raises $27.5M for new fund targeting AI in pharma",
+   "published_at": 1794343625.0,
+   "published_bj": "2026-11-11 04:47"
+  },
+  {
+   "id": "ba9e042dd80f4af1",
+   "source": "TechCrunch",
+   "title": "X-energy gets green light to build its first small modular nuclear reactors",
+   "url": "https://techcrunch.com/2026/11/10/x-energy-gets-green-light-to-build-its-first-small-modular-nuclear-reactors/",
+   "summary": "X-energy received a construction permit from the U.S. Nuclear Regulatory Commission to build four reactors in Texas.",
+   "published_at": 1794343435.0,
+   "published_bj": "2026-11-11 04:43"
+  },
   {
    "id": "777e0d6defa710b6",
    "source": "TechCrunch",
@@ -29,6 +56,15 @@
    "summary": "The deal comes a few weeks after Oura postponed its up to $2.2 billion IPO indefinitely, citing “uncertainty in the IPO market.”",
    "published_at": 1794338614.0,
    "published_bj": "2026-11-11 03:23"
+  },
+  {
+   "id": "d8a482cc197f6ee3",
+   "source": "Hacker News",
+   "title": "Saltline: First-person shooter built by Fable 5.2",
+   "url": "https://claude.ai/artifact/BGY1SztrAYcJQHSsnHHGmp",
+   "summary": "Article URL: https://claude.ai/artifact/BGY1SztrAYcJQHSsnHHGmp Comments URL: https://news.ycombinator.com/item?id=50444850 Points: 36 # Comments: 32",
+   "published_at": 1794338078.0,
+   "published_bj": "2026-11-11 03:14"
   },
   {
    "id": "74fe9a6a9803ac12",
@@ -128,6 +164,15 @@
    "summary": "Article URL: https://docs.modelplane.ai/guides/inference-guide Comments URL: https://news.ycombinator.com/item?id=50443714 Points: 20 # Comments: 1",
    "published_at": 1794333307.0,
    "published_bj": "2026-11-11 01:55"
+  },
+  {
+   "id": "ce40959c63c01940",
+   "source": "Hacker News",
+   "title": "Life on Claude Nine",
+   "url": "https://babuschk.in/posts/2026-01-25-life-on-claude-nine.html",
+   "summary": "Article URL: https://babuschk.in/posts/2026-01-25-life-on-claude-nine.html Comments URL: https://news.ycombinator.com/item?id=50443587 Points: 29 # Comments: 1",
+   "published_at": 1794332684.0,
+   "published_bj": "2026-11-11 01:44"
   },
   {
    "id": "fc25b2b0cd74f836",
