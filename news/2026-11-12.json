@@ -1,8 +1,26 @@
 {
  "date": "2026-11-12",
- "generated_at": 1794399311.245005,
- "count": 8,
+ "generated_at": 1794404022.1233742,
+ "count": 10,
  "items": [
+  {
+   "id": "4cf6fcf3d01b74a7",
+   "source": "InfoQ中文",
+   "title": "谷歌最强模型 Gemini 4 Carbon 全面开放：一夜重写 OpenCode 桌面应用、价格仅为 Fable 5.2 的 1/4",
+   "url": "https://www.infoq.cn/article/YiANe38yfSYitvZOtab0?utm_source=rss&utm_medium=article",
+   "summary": "点击查看原文>",
+   "published_at": 1794431137.0,
+   "published_bj": "2026-11-12 05:05"
+  },
+  {
+   "id": "9e2939fa4234182d",
+   "source": "InfoQ中文",
+   "title": "Anthropic 一夜逼疯微软？Claude 杀入办公软件腹地：能自己参会、做表格、生成PPT",
+   "url": "https://www.infoq.cn/article/1PdshF8SLevbGZbbZHoP?utm_source=rss&utm_medium=article",
+   "summary": "点击查看原文>",
+   "published_at": 1794430365.0,
+   "published_bj": "2026-11-12 04:52"
+  },
   {
    "id": "e9f84de93ae3740c",
    "source": "InfoQ中文",
