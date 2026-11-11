@@ -1,8 +1,17 @@
 {
  "date": "2026-11-11",
- "generated_at": 1794362074.9779792,
- "count": 119,
+ "generated_at": 1794364980.0946147,
+ "count": 132,
  "items": [
+  {
+   "id": "8f1dc42688099e32",
+   "source": "InfoQ中文",
+   "title": "基于 AgentKit 重塑研发协作：从编码提效到组织效能跃迁｜AICon北京",
+   "url": "https://www.infoq.cn/article/I49cXCJFBpOW3PcgPTW3?utm_source=rss&utm_medium=article",
+   "summary": "点击查看原文>",
+   "published_at": 1794391200.0,
+   "published_bj": "2026-11-11 18:00"
+  },
   {
    "id": "618c6ee298914953",
    "source": "InfoQ中文",
@@ -11,6 +20,114 @@
    "summary": "点击查看原文>",
    "published_at": 1794387960.0,
    "published_bj": "2026-11-11 17:06"
+  },
+  {
+   "id": "ecab37dba0f7c268",
+   "source": "IT之家",
+   "title": "华为官宣杨幂出任鸿蒙折叠电脑先锋大使，新机 11 月 14 日开启预订",
+   "url": "https://www.ithome.com/1/025/307.htm",
+   "summary": "IT之家 11 月 11 日消息，华为官方昨日宣布全新鸿蒙小折叠电脑 —— MateBook Fold S 将于 11 月 14 日 10:08 开启预订 。 IT之家注意到，华为官方今日正式官宣， 演员杨幂将担任华为鸿蒙折叠电脑先锋大使 。 官方预热海报显示，新机搭载 Live 小方屏，提供云海蓝、天际白、幻夜黑三款配色。目前华为官方已公开新品三色官图。 ▲ 云海蓝 ▲ 天际白 ▲ 幻夜黑 华为常务董事、产品投资评审委员会主任、终端 BG 董事长余承东此前已经发布预告视频，新品采用了类似手机产品的全新背屏设计，预计将支持信息显示。此外，该产品展开后是一块 14.7 英寸显示屏。目前，关于这款",
+   "published_at": 1794364699.0,
+   "published_bj": "2026-11-11 10:38"
+  },
+  {
+   "id": "c8041864ed2be8cb",
+   "source": "IT之家",
+   "title": "马斯克杀入通信圈：SpaceX 购买 800MHz 黄金频段申请获受理，几乎覆盖全美 100% 人口",
+   "url": "https://www.ithome.com/1/025/306.htm",
+   "summary": "IT之家 11 月 11 日消息，美国联邦通信委员会（FCC）昨日（11 月 10 日）发布公告， 宣布受理 SpaceX 收购 Grain Management 旗下全美 800 兆赫兹频段牌照的申请，相关交易进入公众意见与审查程序。 IT之家附上相关公告截图如下： 根据披露信息，SpaceX 拟通过旗下 Starlink Spectrum Holdings 接手 546 组成对频谱牌照，涉及美国全部 50 个州、华盛顿特区、波多黎各及美属维尔京群岛， 牌照覆盖范围对应近乎全部美国人口。 这笔交易旨在为 Starlink Mobile 补充低频频谱资源。相比更高频段，800 兆赫兹低频信号更",
+   "published_at": 1794364302.0,
+   "published_bj": "2026-11-11 10:31"
+  },
+  {
+   "id": "965bf7b71ba4e565",
+   "source": "IT之家",
+   "title": "AMD 推出企业级 AI 辅助编程平台 Instinct Coder 355，支持本地运行 GLM-5.3",
+   "url": "https://www.ithome.com/1/025/305.htm",
+   "summary": "IT之家 11 月 11 日消息，AMD 当地时间本月 9 日宣布携手 Spectro Cloud 推出企业级 AI 辅助编程平台 Instinct Coder 355。该系统支持 GLM-5.3 推理部署， 可在本地实现前沿模型 98% 的性能 。 ▲ 戴尔版本 Instinct Coder 355 的 核心是 8 张 AMD Instinct MI355X 显卡加速器 ，配套 2 颗 64 核的 EPYC 9575F \"Zen 5\" CPU，此外还包括 3TB DDR5-6400 RDIMM、合计 63.36TB 的 SSD 存储。戴尔版本和 Supermicro 版本在其它规格上存在差异",
+   "published_at": 1794364259.0,
+   "published_bj": "2026-11-11 10:30"
+  },
+  {
+   "id": "eae4c8ffbdf1c645",
+   "source": "IT之家",
+   "title": "3999 元：微星推出 MAG 321UPX18 显示器，31.5 英寸 4K 180Hz QD-OLED 面板",
+   "url": "https://www.ithome.com/1/025/304.htm",
+   "summary": "IT之家 11 月 11 日消息，微星现已推出 MAG 321UPX18 显示器。新品采用 31.5 英寸三星第四代 QD-OLED 面板，支持 4K 180Hz 高刷， 到手价 3999 元 。 据介绍，这款显示器采用三星第四代 QD-OLED 面板，子像素排列可带来更清晰的图像，以及更纯净宽广的色彩表现。拥有 EL Gen 3 技术及 5 层串联结构，实现更低功耗，表面硬度从 2H 提升至 3H，抗刮擦性能提升 2.5 倍。 同时，该显示器的对比度可达 150 万:1，通过 HDR True Black 400 认证。最高刷新率可达 180Hz，GTG 响应时间 0.03ms，支持 Ada",
+   "published_at": 1794363503.0,
+   "published_bj": "2026-11-11 10:18"
+  },
+  {
+   "id": "2aefa54cd6b6f2a2",
+   "source": "IT之家",
+   "title": "微软推送 11 月 Win10 扩展更新：修复打印机 87 错误，以及远程桌面故障",
+   "url": "https://www.ithome.com/1/025/303.htm",
+   "summary": "IT之家 11 月 11 日消息，在本月补丁星期二活动日（11 月 10 日），微软面向处于扩展支持（ESU）状态的 Windows 10 设备，推送 KB5131096 累积更新，22H2 安装后版本号升至 Build 19045.7846；而 21H2 安装后版本号升至 Build 19044.7846。 IT之家翻译微软官方更新日志内容如下： 日期和时间 本次更新调整了古巴的夏令时（DST）规则，以适应其延长后的 2026—2027 年夏令时实施期。古巴将继续采用 UTC-04:00，不再进行原定于 2026 年 11 月和 2027 年 3 月的时间切换。古巴将于 2027 年 11 ",
+   "published_at": 1794363317.0,
+   "published_bj": "2026-11-11 10:15"
+  },
+  {
+   "id": "da06598eefecc04e",
+   "source": "IT之家",
+   "title": "阿里全新一代千问大模型 Qwen4 即将发布，预览版已首发上线",
+   "url": "https://www.ithome.com/1/025/301.htm",
+   "summary": "IT之家 11 月 11 日消息，阿里巴巴今日官宣， 全新一代千问大模型 Qwen4 即将发布 ：知识理解更深入，世界感知更立体，Coding 与 Agentic 能力持续进阶。 现在， Qwen4-Max 预览版已首发上线阿里 Token Plan ，限时最低 1 折即可体验 Qwen4 模型。同时，千问办公、Qoder、千问 App、QwenStudio 等也已第一时间接入新模型。 IT之家查询了解到，阿里 Token Plan 个人版 Lite / Essential 日常限时价 39 元 / 月起，活动期间新客折上再享 5 折，低至 19.5 元。",
+   "published_at": 1794363029.0,
+   "published_bj": "2026-11-11 10:10"
+  },
+  {
+   "id": "9ce156d8c6059ccb",
+   "source": "IT之家",
+   "title": "余承东换上 OSTA O1 Pro 阔直板新机，官宣全新华为子品牌 OSTA 星芒",
+   "url": "https://www.ithome.com/1/025/300.htm",
+   "summary": "IT之家 11 月 11 日消息，华为官方今日宣布，鸿蒙智行享界 V8 及星芒品牌发布会定档 2026 年 11 月 20 日 14:30。 华为常务董事、产品投资评审委员会主任、终端 BG 董事长余承东发文， 全新华为子品牌 OSTA 星芒 ，将在本次发布会首次和大家见面。 IT之家注意到，余承东的微博小尾巴已经变成了 OSTA O1 Pro，正是此前爆料的星芒阔直板手机。 博主 @数码闲聊站 本周曝光了某新机正面图，采用阔直板造型设计，评论区网友推测为华为星芒 OSTA O1 Pro。 该博主此前曾爆料华为子品牌星芒的英文名是 OSTA，手机盒上也写的 OSTA，第一款阔直板手机叫 OST",
+   "published_at": 1794362798.0,
+   "published_bj": "2026-11-11 10:06"
+  },
+  {
+   "id": "32bbe05e3fbdc8a1",
+   "source": "IT之家",
+   "title": "三星官宣图库应用支持同步谷歌云存储，此前已结束同微软 OneDrive 合作",
+   "url": "https://www.ithome.com/1/025/299.htm",
+   "summary": "IT之家 11 月 11 日消息，三星电子 (Samsung) 当地时间 10 日宣布， 其图库应用 Samsung Gallery 正式支持与 Google（谷歌）云存储的同步集成 ，用户可在更多位置随时访问保存照片和视频。 三星电子还推出了一项新功能，可将已同步至谷歌云存储的媒体内容从本机删除，释放本地存储空间，同时保留图库中的缩略图。 IT之家注意到，三星电子已在今年 9 月末结束了 Samsung Gallery 与 Microsoft（微软）旗下 OneDrive 的此类合作。",
+   "published_at": 1794362685.0,
+   "published_bj": "2026-11-11 10:04"
+  },
+  {
+   "id": "356f91d94b5862a4",
+   "source": "IT之家",
+   "title": "谷歌本月开放 3 个顶级域名注册：吃饭用 .eat、出行用 .fly、办事用 .here",
+   "url": "https://www.ithome.com/1/025/298.htm",
+   "summary": "IT之家 11 月 11 日消息，谷歌昨日（11 月 10 日）发布公告， 宣布旗下域名注册管理机构 Google Registry 推出 .eat、.fly 和 .here 三款顶级域名，为企业和个人提供新的网址后缀选择。 IT之家援引博文介绍，上述 3 款顶级域名各有应用侧重，其中 .eat 围绕餐饮和食品业务展开，鸡翅连锁品牌 Wingstop 已使用 wingstop.eat ，制作新鲜沙拉和餐食的机器人自助售餐服务 Xook 也已采用 xook.eat 。 .fly 的应用涵盖旅行、无人机及科技服务，例如 AI 旅行助手 Caddy 使用 caddy.fly ，电力线路巡检无人机企业",
+   "published_at": 1794362522.0,
+   "published_bj": "2026-11-11 10:02"
+  },
+  {
+   "id": "942dff4e1b89f054",
+   "source": "IT之家",
+   "title": "全球首款 176 吨纯电刚性矿卡在十堰下线，零部件 100% 国产化",
+   "url": "https://www.ithome.com/1/025/297.htm",
+   "summary": "IT之家 11 月 11 日消息，据新华社今日报道，全球首款 176 吨纯电刚性矿卡已于 11 月 9 日在驰田汽车股份有限公司十堰智慧工厂下线。 该车被命名为克拉通（CRATTON）CT176RE，整车高度 6.7 米，轮胎直径 3.2 米，其额定载重 176 吨，满载总重量 270 吨。 驰田汽车董事长黄玉鸿在下线现场表示，该产品填补了国际上 150 吨至 200 吨载重区间的空白。车辆采用国际通用的电动轮刚性矿卡结构（IT之家注：刚性矿卡指车架与车桥刚性连接、无悬架结构的大型矿用自卸车，专为露天矿山重载运输设计），搭载全栈自研线控底盘与整车控制技术。 补能方面，该车配备 2400 度电池",
+   "published_at": 1794362261.0,
+   "published_bj": "2026-11-11 09:57"
+  },
+  {
+   "id": "512e9ef17aecbdcf",
+   "source": "Hacker News",
+   "title": "A great old-timey game-programming hack (2013)",
+   "url": "https://blog.moertel.com/posts/2013-12-14-great-old-timey-game-programming-hack.html",
+   "summary": "Article URL: https://blog.moertel.com/posts/2013-12-14-great-old-timey-game-programming-hack.html Comments URL: https://news.ycombinator.com/item?id=50448921 Points: 18 # Comments: 1",
+   "published_at": 1794362191.0,
+   "published_bj": "2026-11-11 09:56"
+  },
+  {
+   "id": "f8ad4d658b28574b",
+   "source": "IT之家",
+   "title": "Day-0 支持：摩尔线程完成 MiniMax H3-Image 图像生成模型适配",
+   "url": "https://www.ithome.com/1/025/296.htm",
+   "summary": "IT之家 11 月 11 日消息，摩尔线程今天宣布，公司旗下 AI 训推一体智算卡 MTT S5000 及 MUSA 软件栈， 已在昨天（开源当日）适配 MiniMax 图像生成模型 H3-Image 。 ▲ MiniMax H3-Image 在单张 MTT S5000 上的生成效果 IT之家了解到，MiniMax H3-Image 是一款衍生自 H3 的图像生成模型，具备文本生成图像、图像参考和图像编辑能力。它可在 10 秒内生成一张 4096 × 4096 像素、约 16MP（4K）的高分辨率图像，速度可达市面主流水平的 5 倍，同时呈现丰富、真实的细节，并具备优秀的指令遵循和多参考图理解",
+   "published_at": 1794362183.0,
+   "published_bj": "2026-11-11 09:56"
   },
   {
    "id": "c001a07074134fd6",
