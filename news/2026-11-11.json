@@ -1,8 +1,17 @@
 {
  "date": "2026-11-11",
- "generated_at": 1794364980.0946147,
- "count": 132,
+ "generated_at": 1794368793.3172386,
+ "count": 154,
  "items": [
+  {
+   "id": "da6e3c44c4c5ebbe",
+   "source": "InfoQ中文",
+   "title": "Cloudflare 推出面向 AI 应用程序的 Web Search API",
+   "url": "https://www.infoq.cn/article/SgXuVvzbHr8lKrihTAZW?utm_source=rss&utm_medium=article",
+   "summary": "点击查看原文>",
+   "published_at": 1794395160.0,
+   "published_bj": "2026-11-11 19:06"
+  },
   {
    "id": "8f1dc42688099e32",
    "source": "InfoQ中文",
@@ -20,6 +29,186 @@
    "summary": "点击查看原文>",
    "published_at": 1794387960.0,
    "published_bj": "2026-11-11 17:06"
+  },
+  {
+   "id": "4c80c5f0a38b6170",
+   "source": "IT之家",
+   "title": "华为麒麟 9050 系列芯片官宣搭载新一代达芬奇架构 NPU，业界首个 30B MoE 大模型入端",
+   "url": "https://www.ithome.com/1/025/331.htm",
+   "summary": "IT之家 11 月 11 日消息，华为麒麟官方公众号今日发文，详细介绍了首款「逻辑折叠」技术 τ 芯片 —— 麒麟 9050 系列的新一代达芬奇架构 NPU，其支持 30B 大模型端侧运行，具备不用联网、不用等云端的特性。 新一代达芬奇架构 NPU 性能提升 140%、功耗降低 66% ，支持 Transformer 引擎、超低功耗感知引擎和 CANN 异构计算架构； 业界首个 30B MoE 大模型入端 ，支持多级存算协同优化、低比特量化。 落地到具体的功能上，新一代达芬奇架构 NPU 可提供感知屏幕-AI 屏幕朗读、感知影像-Xmage 智拍 2.0、感知人眼-AI 眼动翻页、感知位置-熄",
+   "published_at": 1794368657.0,
+   "published_bj": "2026-11-11 11:44"
+  },
+  {
+   "id": "139bb986d3cb73f8",
+   "source": "IT之家",
+   "title": "全国产化算力底座：龙芯智能机器车实现深度视觉与目标抓取，由龙芯 2K3000 统一调度",
+   "url": "https://www.ithome.com/1/025/330.htm",
+   "summary": "IT之家 11 月 11 日消息，龙芯中科昨日宣布，基于自研智能机器车完成 ROS2 Jazzy 版本的全栈移植，贯通建图定位、手柄遥控、机械臂控制与深度视觉的完整链路。整车由龙芯 2K3000 处理器统一调度，具备环境感知与目标抓取能力。 ROS2（IT之家注：机器人操作系统第二版，Robot Operating System 2，机器人领域主流的开源中间件框架）凭借跨平台与分布式通信特性，将传感器、算法与执行器连成可复用的网络。本次全栈移植验证形成了一套可复用的国产机器人开发方案。 其核心算力来自龙芯 2K3000。该芯片采用 12nm 制程，集成 8 个基于自主龙架构的 LA364E 处",
+   "published_at": 1794368286.0,
+   "published_bj": "2026-11-11 11:38"
+  },
+  {
+   "id": "4ef631f2f088e996",
+   "source": "IT之家",
+   "title": "四门“糯玉米”：长安 Lumin PLUS 上市，限时权益价 4.99 万元起",
+   "url": "https://www.ithome.com/1/025/329.htm",
+   "summary": "IT之家 11 月 11 日消息，长安启源今天宣布，长安 Lumin PLUS 现已上市，新车提供 4 种车型， 限时权益价 4.99 万元起 。现阶段下订可享受至高 3 万 24 期 0 息金融、限定外观色免费送、全车隔热膜等权益。 IT之家附该车各版本定价如下： 车型 官方指导价 限时权益价 205 米乐乐（国轩） 5.29 万元 4.99 万元 205 米乐乐（宁德） 5.49 万元 5.19 万元 205 米多多（宁德） 5.59 万元 5.29 万元 301 米多多（宁德） 5.99 万元 5.69 万元 相比原版 Lumin，Lumin PLUS 由两门设计改为了四门设计，长宽高分",
+   "published_at": 1794368148.0,
+   "published_bj": "2026-11-11 11:35"
+  },
+  {
+   "id": "4d4023220bb6f7f0",
+   "source": "IT之家",
+   "title": "苹果 MacBook 迈入触控时代：音乐人 Labrinth 现场实操，用指尖搓出高燃新歌",
+   "url": "https://www.ithome.com/1/025/328.htm",
+   "summary": "IT之家 11 月 11 日消息，科技媒体 9to5Mac 昨日（11 月 10 日）发布博文，报道称 音乐人 Labrinth 使用苹果首款触控 MacBook Pro，在公开直播情况下创作出新单曲《Surrender》，目前已上线 Apple Music 平台。 在本次公开直播中，音乐人 Labrinth 在洛杉矶市中心的 Apple Tower Theatre 内，使用新款触控屏 MacBook Pro 和 Logic Pro 13，从零开始创作并在一夜间完成录制。整个过程通过他的 YouTube 频道直播，观众不仅能观看歌曲如何成形，还能参与提问。 根据苹果发布的介绍视频，Labrin",
+   "published_at": 1794367958.0,
+   "published_bj": "2026-11-11 11:32"
+  },
+  {
+   "id": "2bcb73ff789fc0de",
+   "source": "IT之家",
+   "title": "新加坡 Major 前《CS2》最后大赛：BLAST 香港对抗赛 2026 今日开幕",
+   "url": "https://www.ithome.com/1/025/327.htm",
+   "summary": "IT之家 11 月 11 日消息，由 BLAST.tv 主办的《CS2》电子竞技赛事 BLAST Premier Rivals 香港 2026（BLAST 香港对抗赛 S2）现已开幕 ，持续到 11 月 15 日。 Legacy、FURIA、Vitality、Falcons、Spirit、FUT、MOUZ、G2 将在本周的对决中争夺 100 万美元 （IT之家注：现汇率约合 668.8 万元人民币） 的总奖金池，这也是 本月下旬开幕的 PGL Major 新加坡 2026 前的最后一场 Tier-1 级别《CS2》大赛 。",
+   "published_at": 1794367542.0,
+   "published_bj": "2026-11-11 11:25"
+  },
+  {
+   "id": "0c57723ec662845b",
+   "source": "IT之家",
+   "title": "苹果 AppleCare 支持社区本月 20 日永久关闭，即日起不再接受新帖子",
+   "url": "https://www.ithome.com/1/025/326.htm",
+   "summary": "IT之家 11 月 11 日消息，苹果今天在官网悄然宣布，AppleCare 支持社区将于 2026 年 11 月 20 日永久关闭。即日起社区将不再接受新帖子， 并转为只读模式 。 苹果表示，用户仍可前往 Apple 支持网站，获取值得信赖的指导和帮助。苹果衷心感谢各位社区成员一直以来贡献宝贵的时间和专业知识，帮助其他用户解决 Apple 产品使用中遇到的问题。 IT之家注意到， AppleCare 支持社区顶部的“登录”按钮点击后已经没有反应 ，社区中的最新帖子停留在 2 小时前。用户目前只能查看或搜索已有帖子，或者点击帖子内的“有帮助”按钮。 据了解，AppleCare 支持社区的历史至",
+   "published_at": 1794367224.0,
+   "published_bj": "2026-11-11 11:20"
+  },
+  {
+   "id": "01eea0ebc58fe35b",
+   "source": "IT之家",
+   "title": "全新深蓝 G318 四驱畅行乾崑版上市，一口价 18.98 万元，搭载华为全家桶",
+   "url": "https://www.ithome.com/1/025/324.htm",
+   "summary": "IT之家 11 月 11 日消息，全新深蓝 G318 四驱畅行乾崑版汽车今日正式上市， 官方一口价 18.98 万元 ，是 18 万级唯一搭载华为乾崑技术与鸿蒙座舱的双电机四驱方盒子。 全新深蓝 G318 于今年 8 月在成都车展上市 ， 搭载华为乾崑 ADS 5 Pro ，覆盖城区通勤、高速行驶以及智能泊车等多种场景。 该车还搭载鸿蒙座舱 Harmony Space 5 ，并配备车载大模型能力，支持 10 种方言混说，可实现自然语言交互；支持 3D 智控桌面、手机与车机无缝流转等功能。 动力方面，全新深蓝 G318 四驱畅行乾崑版搭载双电机真四驱， 最大马力 450 匹，最大功率 331KW",
+   "published_at": 1794366881.0,
+   "published_bj": "2026-11-11 11:14"
+  },
+  {
+   "id": "441c4c38d397c784",
+   "source": "IT之家",
+   "title": "酷冷至尊 GX Platinum Max 电源上市：标配定制理线梳，1000W 款 759 元",
+   "url": "https://www.ithome.com/1/025/322.htm",
+   "summary": "IT之家 11 月 11 日消息，Cooler Master（酷码 / 酷冷至尊）今日宣布推出 GX Platinum Max 电源。该系列产品采用全模组线材设计， ATX 24Pin、12V-2×6、PCIe 6+2Pin 均采用尼龙编织线材搭配定制理线梳 、其它线材则是压纹线。 GX Platinum Max 采用 ATX 外形规格，符合 ATX12V 3.1 规范，获得 80 PLUS 白金能效认证， 享受 12 年质保 。其选用全日系电容，12V-2×6 线材接口采用镀金端子，PCB 覆盖三防漆，内置的来福轴承风扇支持 40% 负载停转，拥有 6 大安全防护机制。 酷冷至尊 GX Pl",
+   "published_at": 1794366835.0,
+   "published_bj": "2026-11-11 11:13"
+  },
+  {
+   "id": "e2a8678bb5417676",
+   "source": "IT之家",
+   "title": "公安机关依法严打网络售假犯罪：10 起典型案例公布，制售假冒品牌汽车轮毂涉案金额达 2.3 亿余元",
+   "url": "https://www.ithome.com/1/025/321.htm",
+   "summary": "IT之家 11 月 11 日消息，公安部今日公布了打击网络售假犯罪 10 起典型案例。10 起案例分别涉及假冒品牌服装、品牌化妆品、品牌汽车轮毂、品牌电气产品、品牌硒鼓、品牌打火机等， 其中最高涉案金额达 2.3 亿余元 。 IT之家附典型案例如下： 1.重庆石某华等人制售假冒品牌服装案 2026 年 1 月，重庆市公安机关成功破获该案，抓获涉案人员 43 名，捣毁犯罪窝点 25 处，查获 10 余个假冒品牌的服饰、鞋袜等 32 万件（双），以及一大批假冒商标标识、服装合格证， 涉案金额 1 亿余元 。 经查，犯罪嫌疑人石某华等人未经品牌方授权许可，组织生产假冒品牌服装，经下线梁某松等人通过电",
+   "published_at": 1794366800.0,
+   "published_bj": "2026-11-11 11:13"
+  },
+  {
+   "id": "6ad4ee362d28fcb3",
+   "source": "IT之家",
+   "title": "让声音被“看见”：苹果 Apple TV 手语翻译功能本月温情上线，《成为休曼》首批支持",
+   "url": "https://www.ithome.com/1/025/319.htm",
+   "summary": "IT之家 11 月 11 日消息，苹果公司昨日（11 月 10 日）发布博文，宣布将为 Apple TV 应用新增手语翻译功能， 于 11 月 13 日随电影《成为休曼》（Being Heumann）首映同步上线。 Apple TV 用户在观看支持手语的影片时，可选择开启配套手语演绎，为聋人观众提供更多观影选择。首批支持作品包括《成为休曼》和《F1：狂飙飞车》（F1: The Movie），提供美国手语（ASL）及英国手语（BSL）翻译。 苹果公司表示今年晚些时候加入《海豹小子》（Way of the Warrior Kid）和《灰猎犬号》（Greyhound），后续还会覆盖更多苹果原创作品。",
+   "published_at": 1794366576.0,
+   "published_bj": "2026-11-11 11:09"
+  },
+  {
+   "id": "de96375ba91b5844",
+   "source": "IT之家",
+   "title": "Reddit 将推出 AI 汇总商品评价系统，引发用户担忧",
+   "url": "https://www.ithome.com/1/025/318.htm",
+   "summary": "IT之家 11 月 11 日消息，据科技媒体 CNET 昨天报道，网络论坛 Reddit 正在测试 Reviews 功能。可通过 AI 汇总用户评论，分析一件商品的优缺点。 Reddit 表示，该功能可以充分利用论坛的自然讨论内容，帮助用户真正了解某款产品实际表现，并判断商品是否适合自己。 不过这项功能公布后引发了一些用户不满。他们担心，这项功能会损害真实人际交流和建议。许多负责维护社区（即 subreddit）秩序的 Reddit 版主认为，这项功能上线后，用户将无法分清真实意见和软广。 同时还有用户认为，这项功能会让垃圾广告灌满论坛。Reddit 管理人员则对此回应称， 该功能嵌入的商品链",
+   "published_at": 1794366320.0,
+   "published_bj": "2026-11-11 11:05"
+  },
+  {
+   "id": "ac26b0ef17744e49",
+   "source": "IT之家",
+   "title": "马斯克、特斯拉因证券欺诈推文各缴 2000 万美元罚款，SEC 向 3350 名投资者分配 4153 万美元",
+   "url": "https://www.ithome.com/1/025/317.htm",
+   "summary": "IT之家 11 月 11 日消息，当地时间 11 月 10 日，美国证券交易委员会（SEC）表示已完成针对马斯克和特斯拉 2018 年和解案件设立的公平基金（Fair Fund）分配工作。 SEC 管理人共向 3350 名符合条件的投资者分配了 4,153 万美元 （IT之家注：现汇率约合 2.78 亿元人民币） ，款项包含利息，并已扣除相关管理费用。 据路透社报道，SEC 已向纽约曼哈顿联邦法院提交文件，请求法官正式关闭该公平基金。该基金最初规模为 4000 万美元，来自马斯克和特斯拉各自缴纳的 2000 万美元民事罚款，资金用于补偿因相关事件遭受损失的投资者。 这起案件源于马斯克 2018",
+   "published_at": 1794366264.0,
+   "published_bj": "2026-11-11 11:04"
+  },
+  {
+   "id": "666156554464f0db",
+   "source": "IT之家",
+   "title": "华为鸿蒙 HarmonyOS 开发者套件 26.0.1 Beta1 发布，新增车辆感知与用户识别能力、外设 VoIP 通话控制等",
+   "url": "https://www.ithome.com/1/025/316.htm",
+   "summary": "IT之家 11 月 11 日消息， 华为鸿蒙 HarmonyOS 开发套件 26.0.1 Beta1 今日正式发布 ，该版本为 26.0.0 的增量版本，仅供对新增特性有需求的开发者尝鲜使用。 26.0.1 Beta1 在 26.0.0 的基础上，开发能力进一步增强：Ability Kit 新增子进程信息查询能力；ArkTS 容器集 Map 类新增多个更新 Map 映射关系的接口；ArkUI 新增预加载 NavDestination 页面、扩展动画组件的 C API 等能力；Basic Services Kit 新增 USB 管理、板级硬件查询；Core File Kit 新增卷管理能力；MD",
+   "published_at": 1794366013.0,
+   "published_bj": "2026-11-11 11:00"
+  },
+  {
+   "id": "58e184ec42122060",
+   "source": "Hacker News",
+   "title": "To deter bioterrorism, U.S. imposes new rules on ordering synthetic DNA",
+   "url": "https://www.science.org/content/article/deter-bioterrorism-u-s-imposes-new-rules-ordering-synthetic-dna",
+   "summary": "Article URL: https://www.science.org/content/article/deter-bioterrorism-u-s-imposes-new-rules-ordering-synthetic-dna Comments URL: https://news.ycombinator.com/item?id=50449275 Points: 6 # Comments: 1",
+   "published_at": 1794365828.0,
+   "published_bj": "2026-11-11 10:57"
+  },
+  {
+   "id": "13672eb4f4dbdd8c",
+   "source": "IT之家",
+   "title": "盖世小鸡推出灵狐星闪无线手柄：对称架构 + XBOX 动作键，2kHz 回报率",
+   "url": "https://www.ithome.com/1/025/315.htm",
+   "summary": "IT之家 11 月 11 日消息，盖世小鸡 (GameSir) 今日正式推出了灵狐星闪无线手柄。这一三模控制器结合了对称式架构和 XBOX 布局的动作按键， 在 USB-C 和星闪下支持 2kHz 回报率 ，USB-C 按键延迟≤1.2ms、摇杆延迟≤3ms。 灵狐星闪 配备控银 JS13 Pro TMR 摇杆 、霍尔传感器 / 微动双模扳机、200 万次耐久导电胶 ABXY &amp; D-Pad、微动肩键，另有 2 颗背键，集成非对称急停握把马达、六轴陀螺仪。此外，其三维 163×99×60 (mm)，摇杆间距约 50mm，内置 1000mAh 电池，质量约 213g。 盖世小鸡灵狐星闪无",
+   "published_at": 1794365741.0,
+   "published_bj": "2026-11-11 10:55"
+  },
+  {
+   "id": "5407a0259beeaeca",
+   "source": "IT之家",
+   "title": "马斯克 SpaceX 备战太空 AI 算力：锁定 100GW 设备产能，约为 4.4 座三峡电站总装机容量",
+   "url": "https://www.ithome.com/1/025/314.htm",
+   "summary": "IT之家 11 月 11 日消息，全球首富埃隆 · 马斯克（Elon Musk）旗下 SpaceX 公司今天（11 月 11 日）发布公告，宣布与德国太阳能电池设备制造商 SINGULUS 签署重大供应合同， 将引进异质结（HJT）太阳能电池整套生产线，从而加速制造 Starmind 卫星。 IT之家注：HJT 全称为 Heterojunction Technology，是一种发电技术，主要结合晶体硅与超薄的非晶硅薄膜，让太阳能电池在接收阳光后，尽量少损失电能、更有效地把电流导出来。 “异质”指的是不同结构的半导体材料。在常见的 HJT 电池中，中间是一片 N 型晶体硅，两面覆盖极薄的非晶硅层",
+   "published_at": 1794365613.0,
+   "published_bj": "2026-11-11 10:53"
+  },
+  {
+   "id": "6956768833190af1",
+   "source": "IT之家",
+   "title": "华为星芒手机官方微博上线：新品牌 11 月 20 日发布，余承东已换上 OSTA O1 Pro 阔直板新机",
+   "url": "https://www.ithome.com/1/025/313.htm",
+   "summary": "IT之家 11 月 11 日消息，华为官方今日宣布，鸿蒙智行享界 V8 及星芒品牌发布会定档 2026 年 11 月 20 日 14:30。 IT之家注意到，目前 OSTA 星芒手机官方微博已上线，暂未发布相关内容， 但背景图率先展示了“OSTA”的品牌字母标识 。 此外，抖音、小红书等平台也有相关名称的账号出现，但暂未通过认证，是否为官号存疑。 参考IT之家今日早些时候报道，华为常务董事、产品投资评审委员会主任、终端 BG 董事长余承东发文，宣布全新华为子品牌 OSTA 星芒，将在本次发布会首次和大家见面。 余承东的微博小尾巴已经变成了 OSTA O1 Pro ，正是此前爆料的星芒阔直板手机",
+   "published_at": 1794365518.0,
+   "published_bj": "2026-11-11 10:51"
+  },
+  {
+   "id": "7d52ec89eb6a5a11",
+   "source": "IT之家",
+   "title": "理想汽车 OTA 8.7.0 开启推送：VLA 新增驾驶风格切换，支持眼镜指挥泊车方位控制",
+   "url": "https://www.ithome.com/1/025/308.htm",
+   "summary": "IT之家 11 月 11 日消息，理想汽车今日发布 OTA 8.7.0 版本 ，预计开启推送后一周内分批完成推送，推送车型包含： 理想 MEGA Home、理想 MEGA Ultra 智能焕新版、24 年款理想 MEGA Ultra 理想 i6、25 款理想 i8 Max、理想 i8 后驱长续航 / 四驱高性能 理想 L9 / 理想 L8 / 理想 L7 Ultra 智能焕新版 理想 L8 / 理想 L7 / 理想 L6 Max 智能焕新版 24 年款理想 L9 / 理想 L8 / 理想 L7 Ultra 24 年款理想 L8 / 理想 L7 / 理想 L6 Max 23 年款理想 L9 / ",
+   "published_at": 1794365277.0,
+   "published_bj": "2026-11-11 10:47"
+  },
+  {
+   "id": "cc3c738cf17ffc0d",
+   "source": "IT之家",
+   "title": "微软 Auto SR 正式登场：兼容华硕 ROG Xbox Ally X 掌机及部分 AMD 锐龙机型，帧率最高 120 FPS",
+   "url": "https://www.ithome.com/1/025/311.htm",
+   "summary": "IT之家 11 月 11 日消息，当地时间 11 月 10 日，微软宣布旗下 AI 超分辨率技术 Automatic Super Resolution 正式面向 Xbox Ally X、Xbox Ally X20 以及部分搭载 AMD 锐龙处理器的 Windows Copilot+ PC 推出。 微软 &amp; 华硕 Xbox Ally X 用户现在可以在掌机模式下使用 Auto SR，不再需要将设备连接底座。 与英伟达 DLSS、AMD FSR 等技术类似，Auto SR 是微软面向 Windows 游戏推出的 AI 超分技术，能够通过图像处理和 AI 算法提升游戏画面分辨率，在改善视觉效",
+   "published_at": 1794365248.0,
+   "published_bj": "2026-11-11 10:47"
+  },
+  {
+   "id": "d35bb9d807427b7c",
+   "source": "IT之家",
+   "title": "马斯克宣布特斯拉 Cybertruck 赛博皮卡即将停产后，改装厂主动请缨接手",
+   "url": "https://www.ithome.com/1/025/310.htm",
+   "summary": "IT之家 11 月 11 日消息，特斯拉汽车改装厂商 Unplugged Performance 今天在 X 平台表示，他们希望接手特斯拉 Cybertruck 赛博皮卡的生产线。 据IT之家此前报道 ，特斯拉 CEO 埃隆 · 马斯克此前宣布，公司计划在 2027 年年中左右结束 Cybertruck 的生产，以便腾出得州超级工厂（Giga Texas）的生产空间，用于扩大 Cybercab 的产能。 Unplugged Performance 表示， 他们完全支持特斯拉将 Cybercab 放在首位 ， 并愿意接手 Cybertruck 的生产工作 。他们会在不占用特斯拉场地空间、员工资源",
+   "published_at": 1794365221.0,
+   "published_bj": "2026-11-11 10:47"
   },
   {
    "id": "ecab37dba0f7c268",
@@ -47,6 +236,15 @@
    "summary": "IT之家 11 月 11 日消息，AMD 当地时间本月 9 日宣布携手 Spectro Cloud 推出企业级 AI 辅助编程平台 Instinct Coder 355。该系统支持 GLM-5.3 推理部署， 可在本地实现前沿模型 98% 的性能 。 ▲ 戴尔版本 Instinct Coder 355 的 核心是 8 张 AMD Instinct MI355X 显卡加速器 ，配套 2 颗 64 核的 EPYC 9575F \"Zen 5\" CPU，此外还包括 3TB DDR5-6400 RDIMM、合计 63.36TB 的 SSD 存储。戴尔版本和 Supermicro 版本在其它规格上存在差异",
    "published_at": 1794364259.0,
    "published_bj": "2026-11-11 10:30"
+  },
+  {
+   "id": "a6442b6765a01d4f",
+   "source": "Hacker News",
+   "title": "Hooked on Tuna",
+   "url": "https://blue-continuum.com/hooked-on-tuna",
+   "summary": "Article URL: https://blue-continuum.com/hooked-on-tuna Comments URL: https://news.ycombinator.com/item?id=50449080 Points: 8 # Comments: 0",
+   "published_at": 1794363805.0,
+   "published_bj": "2026-11-11 10:23"
   },
   {
    "id": "eae4c8ffbdf1c645",
