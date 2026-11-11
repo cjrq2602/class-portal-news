@@ -1,7 +1,7 @@
 {
  "date": "2026-11-12",
- "generated_at": 1794425969.749592,
- "count": 29,
+ "generated_at": 1794431285.2018795,
+ "count": 39,
  "items": [
   {
    "id": "4cf6fcf3d01b74a7",
@@ -20,6 +20,78 @@
    "summary": "点击查看原文>",
    "published_at": 1794430365.0,
    "published_bj": "2026-11-12 04:52"
+  },
+  {
+   "id": "41f51fcf1ea08ce5",
+   "source": "Hacker News",
+   "title": "Emacs in the Age of Magic",
+   "url": "https://commandlinesystems.com/magic.txt",
+   "summary": "Article URL: https://commandlinesystems.com/magic.txt Comments URL: https://news.ycombinator.com/item?id=50458208 Points: 12 # Comments: 1",
+   "published_at": 1794428792.0,
+   "published_bj": "2026-11-12 04:26"
+  },
+  {
+   "id": "bd78fd0d029a5802",
+   "source": "Hacker News",
+   "title": "Huawei releases MACaQ, its internal quantizer for local inference",
+   "url": "https://github.com/huawei-csl/MACaQ",
+   "summary": "Article URL: https://github.com/huawei-csl/MACaQ Comments URL: https://news.ycombinator.com/item?id=50458166 Points: 7 # Comments: 0",
+   "published_at": 1794428637.0,
+   "published_bj": "2026-11-12 04:23"
+  },
+  {
+   "id": "9247c2f35f123abe",
+   "source": "TechCrunch",
+   "title": "Why the data center you dread might never even be built",
+   "url": "https://techcrunch.com/video/why-the-data-center-you-dread-might-never-even-be-built/",
+   "summary": "The data center boom is running into serious real-world obstacles, from widespread local opposition and permitting delays to a scramble for electricity.&#160;Before those challenges even come into play, though, there&#8217;s a more basic problem: A lot of the projects being announced may never get b",
+   "published_at": 1794428115.0,
+   "published_bj": "2026-11-12 04:15"
+  },
+  {
+   "id": "72296f7f922320bf",
+   "source": "TechCrunch",
+   "title": "Meta is losing its longtime head of infrastructure",
+   "url": "https://techcrunch.com/2026/11/11/meta-is-losing-its-longtime-head-of-infrastructure/",
+   "summary": "Santosh Janardhan, who originally joined the company in 2009, will be stepping down from his role.",
+   "published_at": 1794427921.0,
+   "published_bj": "2026-11-12 04:12"
+  },
+  {
+   "id": "7c8b22f3ae76217f",
+   "source": "Hacker News",
+   "title": "Why are we still working this hard?",
+   "url": "https://wilsoniumite.com/2026/11/11/why-are-we-still-working-this-hard/",
+   "summary": "Article URL: https://wilsoniumite.com/2026/11/11/why-are-we-still-working-this-hard/ Comments URL: https://news.ycombinator.com/item?id=50457939 Points: 111 # Comments: 97",
+   "published_at": 1794427529.0,
+   "published_bj": "2026-11-12 04:05"
+  },
+  {
+   "id": "06c01b2e24ae59c9",
+   "source": "TechCrunch",
+   "title": "Olaf Sakkers is betting he can beat the emerging-manager squeeze",
+   "url": "https://techcrunch.com/2026/11/11/olaf-sakkers-is-betting-he-can-beat-the-emerging-manager-squeeze/",
+   "summary": "Entering into the world of venture capital has never been easy, especially as a first-time fund manager. But it's especially daunting right now. Olaf Sakkers has spent the past five years proving that difficult doesn't mean impossible.",
+   "published_at": 1794427468.0,
+   "published_bj": "2026-11-12 04:04"
+  },
+  {
+   "id": "a1f4461796970206",
+   "source": "TechCrunch",
+   "title": "CoreWeave turns to customer prepayments, shorter contracts to fund AI growth",
+   "url": "https://techcrunch.com/2026/11/11/coreweave-turns-to-customer-prepayments-shorter-contracts-to-fund-ai-growth/",
+   "summary": "CoreWeave is increasingly asking customers to pay upfront, borrowing against specific contracts, and even looking to short-term deals that could lead to higher prices, according to the company’s third-quarter earnings.",
+   "published_at": 1794426840.0,
+   "published_bj": "2026-11-12 03:54"
+  },
+  {
+   "id": "14ef8f4758d9150c",
+   "source": "Hacker News",
+   "title": "IBM Quantum Nighthawk Demonstrates New Levels of Speed and Quality",
+   "url": "https://newsroom.ibm.com/2026-11-11-ibm-quantum-nighthawk-demonstrates-new-levels-of-speed-and-quality,-with-plans-to-scale-beyond-1,000-qubits-in-2027",
+   "summary": "Article URL: https://newsroom.ibm.com/2026-11-11-ibm-quantum-nighthawk-demonstrates-new-levels-of-speed-and-quality,-with-plans-to-scale-beyond-1,000-qubits-in-2027 Comments URL: https://news.ycombinator.com/item?id=50457669 Points: 16 # Comments: 3",
+   "published_at": 1794426479.0,
+   "published_bj": "2026-11-12 03:47"
   },
   {
    "id": "8360d86161a1ce9f",
@@ -58,6 +130,15 @@
    "published_bj": "2026-11-12 03:12"
   },
   {
+   "id": "bbdb418a19c82156",
+   "source": "Hacker News",
+   "title": "Retirement Savings Are Fueling the AI Bubble",
+   "url": "https://lpeproject.org/blog/your-retirement-savings-are-fueling-the-ai-bubble/",
+   "summary": "Article URL: https://lpeproject.org/blog/your-retirement-savings-are-fueling-the-ai-bubble/ Comments URL: https://news.ycombinator.com/item?id=50457164 Points: 82 # Comments: 63",
+   "published_at": 1794424003.0,
+   "published_bj": "2026-11-12 03:06"
+  },
+  {
    "id": "e9f84de93ae3740c",
    "source": "InfoQ中文",
    "title": "上下文也是成本：Agent 效率优化的新思路 ｜ 技术趋势",
@@ -83,6 +164,15 @@
    "summary": "点击查看原文>",
    "published_at": 1794421980.0,
    "published_bj": "2026-11-12 02:33"
+  },
+  {
+   "id": "0cfb60aced852da6",
+   "source": "Hacker News",
+   "title": "Gemini Decisions API",
+   "url": "https://blog.google/innovation-and-ai/technology/developers-tools/gemini-decisions-api/",
+   "summary": "Article URL: https://blog.google/innovation-and-ai/technology/developers-tools/gemini-decisions-api/ Comments URL: https://news.ycombinator.com/item?id=50456791 Points: 80 # Comments: 15",
+   "published_at": 1794421962.0,
+   "published_bj": "2026-11-12 02:32"
   },
   {
    "id": "afeca8908a49ea2d",
