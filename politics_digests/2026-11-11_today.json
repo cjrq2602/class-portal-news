@@ -1,0 +1,366 @@
+{
+ "type": "today",
+ "date": "2026-11-11",
+ "window": {
+  "start_ts": 1794326400.0,
+  "end_ts": 1794358800.0
+ },
+ "generated_at": 1794362076.6854262,
+ "generator": "action",
+ "news_count": 51,
+ "keywords": [
+  "美国",
+  "举行",
+  "俄美",
+  "共和",
+  "和党",
+  "巴黎",
+  "持续",
+  "美乌",
+  "议院",
+  "论坛"
+ ],
+ "points": [
+  {
+   "text": "【美国】中新网11月11日电 综合报道，当地时间10日，新一轮俄罗斯、美国和乌克兰三方会谈在阿联酋首都阿布扎比举行，首日会谈持续近4小时",
+   "keyword": "美国",
+   "news_ids": [
+    "753042ae49b3a6b6"
+   ],
+   "refs": [
+    {
+     "id": "753042ae49b3a6b6",
+     "title": "阿布扎比首日会谈持续近4小时 俄美乌三方表态",
+     "source": "中新网即时",
+     "url": "https://www.chinanews.com.cn/gj/2026/11-11/10729881.shtml",
+     "published_at": 1794351403.0
+    }
+   ]
+  },
+  {
+   "text": "【美国】中新网11月11日电 据法新社及美国有线电视新闻网(CNN)报道，当地时间10日，美国众议院共和党人阻止了一项针对国防部长赫格塞思的弹劾提案",
+   "keyword": "美国",
+   "news_ids": [
+    "1754d073f05028ec"
+   ],
+   "refs": [
+    {
+     "id": "1754d073f05028ec",
+     "title": "外媒：美国众议院共和党人阻止了对赫格塞思的弹劾提案",
+     "source": "中新网即时",
+     "url": "https://www.chinanews.com.cn/gj/2026/11-11/10729891.shtml",
+     "published_at": 1794354458.0
+    }
+   ]
+  },
+  {
+   "text": "【美国】中新网巴黎11月11日电 (记者 李洋)当地时间11月10日，第八届中法文化论坛·温州菜品鉴活动在位于法国巴黎的联合国教科文组织总部举行",
+   "keyword": "美国",
+   "news_ids": [
+    "9c5bbcef3683dd08"
+   ],
+   "refs": [
+    {
+     "id": "9c5bbcef3683dd08",
+     "title": "第八届中法文化论坛·温州菜品鉴活动在巴黎举行",
+     "source": "中新网即时",
+     "url": "https://www.chinanews.com.cn/gj/2026/11-11/10729904.shtml",
+     "published_at": 1794358774.0
+    }
+   ]
+  },
+  {
+   "text": "【ai】2026年10月，《法治日报》记者了解到，浙江省余姚市人民法院审结一起利用生成式人工智能制作淫秽物品牟利的案件",
+   "keyword": "ai",
+   "news_ids": [
+    "b56b928edaa0900c"
+   ],
+   "refs": [
+    {
+     "id": "b56b928edaa0900c",
+     "title": "训练”AI模型输出淫秽图片牟利，开发者获刑",
+     "source": "中新网即时",
+     "url": "https://www.chinanews.com.cn/fz/2026/11-11/10729895.shtml",
+     "published_at": 1794355383.0
+    }
+   ]
+  },
+  {
+   "text": "【一批】全国铁路列车车次编排改革顺利推进，11月25日0时起始发开行的普速旅客列车、11月24日18时起始发开行的货物列车将正式使用新车次",
+   "keyword": "一批",
+   "news_ids": [
+    "f80dc0e653ef9656"
+   ],
+   "refs": [
+    {
+     "id": "f80dc0e653ef9656",
+     "title": "第一批新车次列车车票 今起陆续发售",
+     "source": "中新网即时",
+     "url": "https://www.chinanews.com.cn/sh/2026/11-11/10729887.shtml",
+     "published_at": 1794353673.0
+    }
+   ]
+  },
+  {
+   "text": "没有一支强大的军队，就不可能有个强大的祖国",
+   "keyword": "",
+   "news_ids": [
+    "8a48d938d07a006c"
+   ],
+   "refs": [
+    {
+     "id": "8a48d938d07a006c",
+     "title": "习言道｜有了先进的飞机、防空武器，更要有压倒敌人、不惧一切强敌的英勇气概",
+     "source": "中新网即时",
+     "url": "http://www.chinanews.com.cn/gn/shipin/2026/11-11/news1074501.shtml",
+     "published_at": 1794357754.0
+    }
+   ]
+  },
+  {
+   "text": "中新网11月11日电 据中央气象台网站11日消息，昨日，全国大部地区降水稀少，仅云南部分地区出现较强降雨",
+   "keyword": "",
+   "news_ids": [
+    "5edaa06c99d82b1e"
+   ],
+   "refs": [
+    {
+     "id": "5edaa06c99d82b1e",
+     "title": "中央气象台：云南华南江南等地有降水 新疆等地多雨雪 华北黄淮等地将有霾天气",
+     "source": "中新网即时",
+     "url": "https://www.chinanews.com.cn/sh/2026/11-11/10729898.shtml",
+     "published_at": 1794357220.0
+    }
+   ]
+  },
+  {
+   "text": "你在睡前吃甜食是有生物學原因的，但你可以改變這個習慣",
+   "keyword": "",
+   "news_ids": [
+    "3771ab419f9cf428"
+   ],
+   "refs": [
+    {
+     "id": "3771ab419f9cf428",
+     "title": "為何晚上睡前總是想吃零食？可以怎麼辦？",
+     "source": "BBC中文",
+     "url": "https://www.bbc.com/zhongwen/articles/cwly3ynk2rx1o/trad?at_medium=RSS&at_campaign=rss",
+     "published_at": 1794356516.0
+    }
+   ]
+  },
+  {
+   "text": "卡西姆·喬杜里（Kashim Chowdhury）在三年內將納稅人的錢挪用28.4萬英鎊後，被判犯有欺詐罪",
+   "keyword": "",
+   "news_ids": [
+    "40935483c1df8582"
+   ],
+   "refs": [
+    {
+     "id": "40935483c1df8582",
+     "title": "一名公務員如何長期瞞天過海，身兼五職？",
+     "source": "BBC中文",
+     "url": "https://www.bbc.com/zhongwen/articles/c933x388j116o/trad?at_medium=RSS&at_campaign=rss",
+     "published_at": 1794356513.0
+    }
+   ]
+  },
+  {
+   "text": "今天是人民空军成立77周年",
+   "keyword": "",
+   "news_ids": [
+    "c11af4b4a355b551"
+   ],
+   "refs": [
+    {
+     "id": "c11af4b4a355b551",
+     "title": "从“飞两遍”到“双隐身”，这片天空他们守了77年",
+     "source": "中新网即时",
+     "url": "https://www.chinanews.com.cn/gn/2026/11-11/10729896.shtml",
+     "published_at": 1794356378.0
+    }
+   ]
+  },
+  {
+   "text": "新闻1+1丨从线上到线下 求职招聘如何更好实现双向奔赴",
+   "keyword": "",
+   "news_ids": [
+    "7575148a3a630849"
+   ],
+   "refs": [
+    {
+     "id": "7575148a3a630849",
+     "title": "从线上到线下 求职招聘如何更好实现双向奔赴？",
+     "source": "中新网即时",
+     "url": "https://www.chinanews.com.cn/sh/2026/11-11/10729894.shtml",
+     "published_at": 1794355072.0
+    }
+   ]
+  },
+  {
+   "text": "真相来了丨多地车主收到“车辆召回”短信 确有其事吗",
+   "keyword": "",
+   "news_ids": [
+    "56aacf0b3f435a1d"
+   ],
+   "refs": [
+    {
+     "id": "56aacf0b3f435a1d",
+     "title": "多地车主收到“车辆召回”短信 确有其事吗？",
+     "source": "中新网即时",
+     "url": "https://www.chinanews.com.cn/sh/2026/11-11/10729893.shtml",
+     "published_at": 1794354836.0
+    }
+   ]
+  },
+  {
+   "text": "真相来了丨“只吃粗粮等于健康”盛行网络 真的如此吗",
+   "keyword": "",
+   "news_ids": [
+    "48c22b876813a154"
+   ],
+   "refs": [
+    {
+     "id": "48c22b876813a154",
+     "title": "只吃粗粮等于健康”盛行网络 真的如此吗？",
+     "source": "中新网即时",
+     "url": "https://www.chinanews.com.cn/jk/2026/11-11/10729892.shtml",
+     "published_at": 1794354512.0
+    }
+   ]
+  },
+  {
+   "text": "新华社土耳其安塔利亚11月10日电(记者傅云威)当地时间11月10日，习近平主席特别代表、国家副主席韩正在土耳其安塔利亚出席《联合国气候变化框架",
+   "keyword": "",
+   "news_ids": [
+    "0715b7e02e8f9c87"
+   ],
+   "refs": [
+    {
+     "id": "0715b7e02e8f9c87",
+     "title": "韩正会见联合国秘书长古特雷斯",
+     "source": "中新网即时",
+     "url": "https://www.chinanews.com.cn/gn/2026/11-11/10729886.shtml",
+     "published_at": 1794354160.0
+    }
+   ]
+  },
+  {
+   "text": "冬季到来，天气渐冷",
+   "keyword": "",
+   "news_ids": [
+    "4d22fc1e26910183"
+   ],
+   "refs": [
+    {
+     "id": "4d22fc1e26910183",
+     "title": "冬天洗澡 早上洗还是晚上洗？这些“坏习惯”赶紧改",
+     "source": "中新网即时",
+     "url": "https://www.chinanews.com.cn/life/2026/11-11/10729888.shtml",
+     "published_at": 1794354005.0
+    }
+   ]
+  }
+ ],
+ "article": {
+  "title": "2026-11-11 新闻总结",
+  "paragraphs": [
+   {
+    "kind": "lead",
+    "text": "今天共收录 51 条新闻，来自 4 家媒体。把标题放在一起看，讨论主要集中在 AI 这几个方向上，其余消息更像是零散补充。"
+   },
+   {
+    "kind": "section",
+    "heading": "央行",
+    "text": "先看「央行」。中新社伦敦11月10日电 (记者 欧阳开宇)英国央行负责货币政策的副行长克莱尔·隆巴代利10日在一场央行会议上表示，英国通胀持续风险正在显现，若无通胀降温的明确证据，另有 5 条消息指向同一话题。对普通用户来说，政策带来的变化通常滞后半年到一年，但方向一旦确定就很难逆转。",
+    "news_ids": [
+     "70bec55daab63967"
+    ],
+    "refs": [
+     {
+      "id": "70bec55daab63967",
+      "title": "英国央行副行长警示通胀有持续风险 释放进一步加息信号",
+      "source": "中新网即时",
+      "url": "https://www.chinanews.com.cn/gj/2026/11-11/10729870.shtml",
+      "published_at": 1794347992.0
+     }
+    ]
+   },
+   {
+    "kind": "section",
+    "heading": "外媒：美国众议院共和党人阻止了对",
+    "text": "与此同时「外媒：美国众议院共和党人阻止了对」。中新网11月11日电 据法新社及美国有线电视新闻网(CNN)报道，当地时间10日，另有 4 条消息指向同一话题。对读者来说，值得留意的不是结论本身，而是它背后哪些前提正在被改变。",
+    "news_ids": [
+     "1754d073f05028ec"
+    ],
+    "refs": [
+     {
+      "id": "1754d073f05028ec",
+      "title": "外媒：美国众议院共和党人阻止了对赫格塞思的弹劾提案",
+      "source": "中新网即时",
+      "url": "https://www.chinanews.com.cn/gj/2026/11-11/10729891.shtml",
+      "published_at": 1794354458.0
+     }
+    ]
+   },
+   {
+    "kind": "section",
+    "heading": "通胀",
+    "text": "另一个值得注意的方向是「通胀」。该月环比价格涨幅为0.4%，低于9月的0.6%，另有 8 条消息指向同一话题。单看一条新闻容易高估影响，放到最近几周的脉络里，它更像是一个渐进变化中的节点。",
+    "news_ids": [
+     "2c47c89e6fb5ca57"
+    ],
+    "refs": [
+     {
+      "id": "2c47c89e6fb5ca57",
+      "title": "美国10月环比通胀率放缓幅度不及预期",
+      "source": "FT中文网",
+      "url": "https://www.ftchinese.com/story/001111329",
+      "published_at": 1794326400.0
+     }
+    ]
+   },
+   {
+    "kind": "section",
+    "heading": "AI",
+    "text": "相比之下「AI」。2026年10月，《法治日报》记者了解到，浙江省余姚市人民法院审结一起利用生成式人工智能制作淫秽物品牟利的案件…，另有 3 条消息指向同一话题。这类进展更像是把已有能力往工程化落地推了一步，真正的分水岭在于成本和可靠性能不能同时压下来。",
+    "news_ids": [
+     "b56b928edaa0900c"
+    ],
+    "refs": [
+     {
+      "id": "b56b928edaa0900c",
+      "title": "训练”AI模型输出淫秽图片牟利，开发者获刑",
+      "source": "中新网即时",
+      "url": "https://www.chinanews.com.cn/fz/2026/11-11/10729895.shtml",
+      "published_at": 1794355383.0
+     }
+    ]
+   },
+   {
+    "kind": "glossary",
+    "items": [
+     {
+      "term": "AI",
+      "desc": "人工智能，让机器完成识别、生成、判断等原本需要人做的任务"
+     },
+     {
+      "term": "数据中心",
+      "desc": "集中放置服务器、供电与散热设施的大型机房"
+     }
+    ]
+   },
+   {
+    "kind": "outlook",
+    "text": "整体看，这个时段的新闻还处在「消息多、结论少」的阶段，与其急着下判断，不如盯住接下来一两周有没有可验证的后续动作。"
+   }
+  ],
+  "word_count": 594
+ },
+ "ai_enhanced": false,
+ "schema": 1,
+ "window_bj": {
+  "start": "2026-11-11 00:00",
+  "end": "2026-11-11 09:00"
+ }
+}

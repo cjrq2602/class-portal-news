@@ -1,0 +1,382 @@
+{
+ "type": "today",
+ "date": "2026-11-11",
+ "window": {
+  "start_ts": 1794326400.0,
+  "end_ts": 1794358800.0
+ },
+ "generated_at": 1794362076.5813875,
+ "generator": "action",
+ "news_count": 98,
+ "keywords": [
+  "ai",
+  "anthropic",
+  "to",
+  "亿美",
+  "美元",
+  "ipo",
+  "claude",
+  "苹果",
+  "is",
+  "微软"
+ ],
+ "points": [
+  {
+   "text": "【ai】IT早报”时间，大家好，现在是 2026 年 11 月 11 日星期三，今天的重要科技资讯有： 1. Anthropic 发布 IPO 路演视频",
+   "keyword": "ai",
+   "news_ids": [
+    "4f8459b9669c0bb5"
+   ],
+   "refs": [
+    {
+     "id": "4f8459b9669c0bb5",
+     "title": "IT早报 1111：Anthropic 启动最高 643.5 亿美元 IPO；全球最强模型 Claude Fable 5.2 登场；董明珠称因铜涨价致格力业绩下滑...",
+     "source": "IT之家",
+     "url": "https://www.ithome.com/1/025/224.htm",
+     "published_at": 1794356670.0
+    }
+   ]
+  },
+  {
+   "text": "【to】Article URL: https://tendrils",
+   "keyword": "to",
+   "news_ids": [
+    "f8f1fe339646a27b"
+   ],
+   "refs": [
+    {
+     "id": "f8f1fe339646a27b",
+     "title": "$30M Raised to Redo the CPU",
+     "source": "Hacker News",
+     "url": "https://tendrils.co/blog/2026-11-10/30m-raised",
+     "published_at": 1794348843.0
+    }
+   ]
+  },
+  {
+   "text": "Article URL: https://tis-100",
+   "keyword": "",
+   "news_ids": [
+    "44960077d383d855"
+   ],
+   "refs": [
+    {
+     "id": "44960077d383d855",
+     "title": "LLMs Play Zachtronics' TIS-100",
+     "source": "Hacker News",
+     "url": "https://tis-100.wincon.dev/",
+     "published_at": 1794357425.0
+    }
+   ]
+  },
+  {
+   "text": "Article URL: https://www",
+   "keyword": "",
+   "news_ids": [
+    "ba42de7a24818d65"
+   ],
+   "refs": [
+    {
+     "id": "ba42de7a24818d65",
+     "title": "After 7 Months, Glasswing Overwelms Maintainers with Underwhelming Findings",
+     "source": "Hacker News",
+     "url": "https://www.vulncheck.com/blog/anthropic-glasswing-november-update",
+     "published_at": 1794349076.0
+    }
+   ]
+  },
+  {
+   "text": "Article URL: https://rvpn",
+   "keyword": "",
+   "news_ids": [
+    "ff6619a8ae8f71bc"
+   ],
+   "refs": [
+    {
+     "id": "ff6619a8ae8f71bc",
+     "title": "rVPN – stealth VPN with end-to-end encryption",
+     "source": "Hacker News",
+     "url": "https://rvpn.org/",
+     "published_at": 1794346970.0
+    }
+   ]
+  },
+  {
+   "text": "据台湾《工商时报》援引未具名供应链消息人士的报道，英伟达可能正在放缓对台积电的芯片下单节奏",
+   "keyword": "",
+   "news_ids": [
+    "cf228ba9f4a6458e"
+   ],
+   "refs": [
+    {
+     "id": "cf228ba9f4a6458e",
+     "title": "传英伟达或削减台积电芯片订单 内外部压力持续加大",
+     "source": "cnBeta",
+     "url": "https://www.cnbeta.com.tw/articles/tech/1585852.htm",
+     "published_at": 1794346897.0
+    }
+   ]
+  },
+  {
+   "text": "Article URL: https://teorth",
+   "keyword": "",
+   "news_ids": [
+    "dafcaca7a0aa0169"
+   ],
+   "refs": [
+    {
+     "id": "dafcaca7a0aa0169",
+     "title": "Six Math Essentials by Terence Tao",
+     "source": "Hacker News",
+     "url": "https://teorth.github.io/tao-web/six-math-essentials.html",
+     "published_at": 1794344324.0
+    }
+   ]
+  },
+  {
+   "text": "Article URL: https://www",
+   "keyword": "",
+   "news_ids": [
+    "e5cf328b9d233350"
+   ],
+   "refs": [
+    {
+     "id": "e5cf328b9d233350",
+     "title": "Sherman Anti-Trust Act (1890",
+     "source": "Hacker News",
+     "url": "https://www.archives.gov/milestone-documents/sherman-anti-trust-act",
+     "published_at": 1794344176.0
+    }
+   ]
+  },
+  {
+   "text": "Article URL: https://fingerprinting",
+   "keyword": "",
+   "news_ids": [
+    "74fe9a6a9803ac12"
+   ],
+   "refs": [
+    {
+     "id": "74fe9a6a9803ac12",
+     "title": "A comprehensive study of how fingerprintable users are",
+     "source": "Hacker News",
+     "url": "https://fingerprinting.study/",
+     "published_at": 1794337434.0
+    }
+   ]
+  },
+  {
+   "text": "Article URL: https://starlink",
+   "keyword": "",
+   "news_ids": [
+    "3d9c69d02a1007e4"
+   ],
+   "refs": [
+    {
+     "id": "3d9c69d02a1007e4",
+     "title": "Starlink Mini 2",
+     "source": "Hacker News",
+     "url": "https://starlink.com/mini-2",
+     "published_at": 1794334952.0
+    }
+   ]
+  },
+  {
+   "text": "Article URL: https://lwn",
+   "keyword": "",
+   "news_ids": [
+    "8bcbf40075cebb2d"
+   ],
+   "refs": [
+    {
+     "id": "8bcbf40075cebb2d",
+     "title": "Synaptics patent claims stop work on DisplayLink drivers",
+     "source": "Hacker News",
+     "url": "https://lwn.net/SubscriberLink/1102549/acbc92e00cee3a3f/",
+     "published_at": 1794333722.0
+    }
+   ]
+  },
+  {
+   "text": "Chrome 想终结“去邮箱复制验证码”，但隐私真的更好了吗？",
+   "keyword": "",
+   "news_ids": [
+    "c0f7b32f32ed8389"
+   ],
+   "refs": [
+    {
+     "id": "c0f7b32f32ed8389",
+     "title": "Chrome 想终结“去邮箱复制验证码”，但隐私真的更好了吗？",
+     "source": "InfoQ中文",
+     "url": "https://www.infoq.cn/article/UltsRzyiYdLd4r1S3mkm?utm_source=rss&utm_medium=article",
+     "published_at": 1794330000.0
+    }
+   ]
+  },
+  {
+   "text": "Article URL: https://neil",
+   "keyword": "",
+   "news_ids": [
+    "bad01312be61a077"
+   ],
+   "refs": [
+    {
+     "id": "bad01312be61a077",
+     "title": "name Grandfathered",
+     "source": "Hacker News",
+     "url": "https://neil.fraser.name/news/2026/11/10/",
+     "published_at": 1794328664.0
+    }
+   ]
+  },
+  {
+   "text": "Article URL: https://www",
+   "keyword": "",
+   "news_ids": [
+    "ca9a01edded51c4a"
+   ],
+   "refs": [
+    {
+     "id": "ca9a01edded51c4a",
+     "title": "Tailscale's DNS IPv6 spells out \"Tailscale\"",
+     "source": "Hacker News",
+     "url": "https://www.reddit.com/r/Tailscale/comments/1xsr24r/tailscales_dns_ipv6_spells_out_tailscale_easter/",
+     "published_at": 1794328485.0
+    }
+   ]
+  },
+  {
+   "text": "根据 Global Carbon Project 发表的报告《2026 Global Carbon Budget》，因太阳能风能扩张以及冲突导致",
+   "keyword": "",
+   "news_ids": [
+    "794f6cb789f52b5f"
+   ],
+   "refs": [
+    {
+     "id": "794f6cb789f52b5f",
+     "title": "2026 年全球化石燃料碳排放量预计下降 0.4%",
+     "source": "Solidot",
+     "url": "https://www.solidot.org/story?sid=85850",
+     "published_at": 1794327800.0
+    }
+   ]
+  }
+ ],
+ "article": {
+  "title": "2026-11-11 新闻总结",
+  "paragraphs": [
+   {
+    "kind": "lead",
+    "text": "今天共收录 98 条新闻，来自 7 家媒体。把标题放在一起看，讨论主要集中在 AI、IPO、模型 这几个方向上，其余消息更像是零散补充。"
+   },
+   {
+    "kind": "section",
+    "heading": "IPO",
+    "text": "先看「IPO」。IT早报”时间，大家好，现在是 2026 年 11 月 11 日星期三，今天的重要科技资讯有，另有 79 条消息指向同一话题。这类进展更像是把已有能力往工程化落地推了一步，真正的分水岭在于成本和可靠性能不能同时压下来。",
+    "news_ids": [
+     "4f8459b9669c0bb5"
+    ],
+    "refs": [
+     {
+      "id": "4f8459b9669c0bb5",
+      "title": "IT早报 1111：Anthropic 启动最高 643.5 亿美元 IPO；全球最强模型 Claude Fable 5.2 登场；董明珠称因铜涨价致格力业绩下滑...",
+      "source": "IT之家",
+      "url": "https://www.ithome.com/1/025/224.htm",
+      "published_at": 1794356670.0
+     }
+    ]
+   },
+   {
+    "kind": "section",
+    "heading": "订单",
+    "text": "与此同时「订单」。据台湾《工商时报》援引未具名供应链消息人士的报道。这类进展更像是把已有能力往工程化落地推了一步，真正的分水岭在于成本和可靠性能不能同时压下来。",
+    "news_ids": [
+     "cf228ba9f4a6458e"
+    ],
+    "refs": [
+     {
+      "id": "cf228ba9f4a6458e",
+      "title": "传英伟达或削减台积电芯片订单 内外部压力持续加大",
+      "source": "cnBeta",
+      "url": "https://www.cnbeta.com.tw/articles/tech/1585852.htm",
+      "published_at": 1794346897.0
+     }
+    ]
+   },
+   {
+    "kind": "section",
+    "heading": "隐私",
+    "text": "另一个值得注意的方向是「隐私」。Chrome 想终结“去邮箱复制验证码”，但隐私真的更好了吗？。对读者来说，值得留意的不是结论本身，而是它背后哪些前提正在被改变。",
+    "news_ids": [
+     "c0f7b32f32ed8389"
+    ],
+    "refs": [
+     {
+      "id": "c0f7b32f32ed8389",
+      "title": "Chrome 想终结“去邮箱复制验证码”，但隐私真的更好了吗？",
+      "source": "InfoQ中文",
+      "url": "https://www.infoq.cn/article/UltsRzyiYdLd4r1S3mkm?utm_source=rss&utm_medium=article",
+      "published_at": 1794330000.0
+     }
+    ]
+   },
+   {
+    "kind": "section",
+    "heading": "全球",
+    "text": "相比之下「全球」。根据 Global Carbon Project 发表的报告《2026 Global Carbon Budget》，因太阳能风能扩张以及冲突导致的石油供应问题。这条消息短期内的实际影响可能有限，但它指向的方向值得放进观察名单。",
+    "news_ids": [
+     "794f6cb789f52b5f"
+    ],
+    "refs": [
+     {
+      "id": "794f6cb789f52b5f",
+      "title": "2026 年全球化石燃料碳排放量预计下降 0.4%",
+      "source": "Solidot",
+      "url": "https://www.solidot.org/story?sid=85850",
+      "published_at": 1794327800.0
+     }
+    ]
+   },
+   {
+    "kind": "glossary",
+    "items": [
+     {
+      "term": "AI",
+      "desc": "人工智能，让机器完成识别、生成、判断等原本需要人做的任务"
+     },
+     {
+      "term": "IPO",
+      "desc": "首次公开募股，公司第一次把股票卖给公众并上市"
+     },
+     {
+      "term": "Agent",
+      "desc": "智能体，能自己拆解任务、调用工具并连续执行的 AI 程序"
+     },
+     {
+      "term": "数据中心",
+      "desc": "集中放置服务器、供电与散热设施的大型机房"
+     },
+     {
+      "term": "供应链",
+      "desc": "从原材料、零部件到成品交付的整条协作链条"
+     },
+     {
+      "term": "多模态",
+      "desc": "同一个模型同时处理文字、图片、音频、视频等多种信息"
+     }
+    ]
+   },
+   {
+    "kind": "outlook",
+    "text": "把这几条放在一起看，最值得跟踪的是 AI 和 IPO 两条线：一条决定技术能走多远，一条决定它多快能落到普通人的日常里。至于其他消息，可以先放进观察名单，等后续有更实的进展再判断。"
+   }
+  ],
+  "word_count": 558
+ },
+ "ai_enhanced": false,
+ "schema": 1,
+ "window_bj": {
+  "start": "2026-11-11 00:00",
+  "end": "2026-11-11 09:00"
+ }
+}

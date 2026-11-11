@@ -1,8 +1,233 @@
 {
  "date": "2026-11-11",
- "generated_at": 1794357992.0437737,
- "count": 90,
+ "generated_at": 1794362074.9779792,
+ "count": 119,
  "items": [
+  {
+   "id": "618c6ee298914953",
+   "source": "InfoQ中文",
+   "title": "微软 10 月安全更新修复 1400 余个漏洞，其中一个已遭利用",
+   "url": "https://www.infoq.cn/article/mfy0RUYOqEAW8imUrGTY?utm_source=rss&utm_medium=article",
+   "summary": "点击查看原文>",
+   "published_at": 1794387960.0,
+   "published_bj": "2026-11-11 17:06"
+  },
+  {
+   "id": "c001a07074134fd6",
+   "source": "IT之家",
+   "title": "成都第五代贡嘎人形机器人发布，宣称拥有“全球最领先人形机器人大脑核心技术”",
+   "url": "https://www.ithome.com/1/025/295.htm",
+   "summary": "IT之家 11 月 11 日消息，成都人形机器人创新中心今日发布了 第五代贡嘎人形机器人 ，宣称拥有“全球最领先人形机器人大脑核心技术”。 作为成都人形机器人创新中心具身智能大脑技术的集大成之作，五代贡嘎搭载自研一体化具身智能系统，在场景感知、时空记忆、因果推理规划、动作世界模型等核心模块完成系统性迭代， 宣称“代表当前全球第一梯队的人形机器人大脑技术最高水平” 。 五代贡嘎的具身大脑打通了 “结构化感知 — 时空记忆 — 因果规划 — 动作推演 — 执行反馈” 完整技术链路，实现环境认知、记忆更新、任务规划与操作执行的端到端协同。 在环境感知维度，机器人融合 RGB 视觉、深度信息与本体位姿",
+   "published_at": 1794362054.0,
+   "published_bj": "2026-11-11 09:54"
+  },
+  {
+   "id": "a5c6f03857dd9f06",
+   "source": "IT之家",
+   "title": "Arm 发布 Cortex-M42 处理器：向量算力最高达前代 3 倍，让更多小型设备用上本地 AI",
+   "url": "https://www.ithome.com/1/025/294.htm",
+   "summary": "IT之家 11 月 11 日消息， Arm 昨日（11 月 10 日）发布公告，宣布推出 Cortex-M42 处理器 ，并将其纳入 Flexible Access 和 Total Access 两项技术授权计划。 定位方面，Cortex-M42 处理器主要面向对成本和芯片面积敏感的智能终端，目标为可穿戴设备、工业控制器等产品带来更强的机器学习与数字信号处理能力。 架构方面，Cortex-M42 处理器采用基于 Armv8.1-M 架构，结合 Helium 技术与紧凑的 AHB 总线设计，方便芯片厂商升级现有的 Cortex-M4、Cortex-M33 微控制器方案。 Helium 是一套用于",
+   "published_at": 1794361929.0,
+   "published_bj": "2026-11-11 09:52"
+  },
+  {
+   "id": "19f6e5c3975b6828",
+   "source": "IT之家",
+   "title": "Anthropic 宣布额度免费重置：Pro、Max、Ultra 和 Team 用户可领，Claude 支持更多 MCP Apps 扩展",
+   "url": "https://www.ithome.com/1/025/292.htm",
+   "summary": "IT之家 11 月 11 日消息，Anthropic 宣布修复了一项小 Bug，并为 Claude Pro、Max、Ultra 和 Team 用户提供一次免费的完整额度重置，覆盖所有模型及使用限制。 Anthropic 表示，此前有部分小问题导致 Claude 用户的词元消耗量超出预期。虽然这些问题并未影响所有用户，但此前推出的 Fable 额度重置活动，对已经用完所有模型每周使用额度的用户帮助有限，因此公司决定额外提供一次完整额度重置，以为用户提供弥补。 同时，Anthropic 宣布进一步扩大 Claude 对 MCP Apps 的支持，允许第三方开发者将完整应用界面嵌入 Claude，而",
+   "published_at": 1794361862.0,
+   "published_bj": "2026-11-11 09:51"
+  },
+  {
+   "id": "5f0ea2d54890576f",
+   "source": "IT之家",
+   "title": "NZXT 推出单片式曲面钢化玻璃机箱 H7 / H5、新款 Kraken 液冷等硬件",
+   "url": "https://www.ithome.com/1/025/287.htm",
+   "summary": "IT之家 11 月 11 日消息，NZXT（恩杰）美国当地时间 10 日宣布推出一系列硬件产品，包括拥有单片式曲面钢化玻璃侧板的 H7 与 H5 机箱、基于 Asetek 技术的 Kraken 液冷和多款其它组件。 机箱 ▲ H7 RGB+ H7 与 H5 的 前面板与左侧板是一整片成型的曲面钢化玻璃 ，没有两块平面玻璃相接的转角接缝，配置的视野不受任何打断。H7 系列标配顶部玻璃，H5 系列的 RGB+ 款也是玻璃封顶。此外，H5 拥有面板直接集成的侧进气结构。 H7 (2026) 机箱售价 159.99 美元 （现汇率约合 1,070 元人民币） ，包括 2 个 420 单框风扇、1 个 ",
+   "published_at": 1794361662.0,
+   "published_bj": "2026-11-11 09:47"
+  },
+  {
+   "id": "4da0ad151c043fab",
+   "source": "IT之家",
+   "title": "《赛博朋克 2077》游戏登陆暴雪战网平台，促销价 17.99 美元起",
+   "url": "https://www.ithome.com/1/025/273.htm",
+   "summary": "IT之家 11 月 11 日消息，CDPR 旗下游戏《赛博朋克 2077》现已登陆暴雪战网平台，目前正进行促销优惠。标准版 3 折售价 17.99 美元 （IT之家注：现汇率约合 120.3 元人民币） ， 收录《往日之影》资料片的终极版 4 折售价 31.99 美元 （现汇率约合 213.9 元人民币） 。 剧情方面，《赛博朋克 2077》的故事发生在反乌托邦都市夜之城，玩家扮演雇佣兵 V，并在故事中与基努 · 里维斯饰演的数字人格强尼 · 银手产生联系。新电影是否会沿用游戏中的角色、地点或其他设定，目前尚未确认。 类似的原创叙事方式也出现在好评如潮的衍生动画《赛博朋克：边缘行者》中。该作品",
+   "published_at": 1794361304.0,
+   "published_bj": "2026-11-11 09:41"
+  },
+  {
+   "id": "3f4088f50a34b320",
+   "source": "IT之家",
+   "title": "领克 900L 旗舰大七座 SUV 全球首秀：车长增至 5280mm，2.0T 插混配 70kWh 电池",
+   "url": "https://www.ithome.com/1/025/262.htm",
+   "summary": "IT之家 11 月 11 日消息，领克 900L 昨晚迎来全球首秀。新车定位旗舰大七座 SUV，相比现款领克 900 在尺寸、座椅布局与动力系统上做出调整，计划于 2026 年底正式上市。 领克 900L 长宽高分别为 5280/1999/1810mm，轴距 3170mm。相比领克 900 车长增加 40mm，车高与轴距各增加 10mm，车宽保持不变。 其外观延续家族分体式灯组轮廓，前脸将大灯与中央饰板整合为一体式结构，车尾贯穿式 LED 尾灯中央嵌入可发光的“LYNK&amp;CO”标识。车顶前部集成激光雷达，车身侧面采用半隐藏式门把手。 座舱内部采用浅色内饰基调，前排提供双 30 英寸屏幕",
+   "published_at": 1794361016.0,
+   "published_bj": "2026-11-11 09:36"
+  },
+  {
+   "id": "6946654161f63b8f",
+   "source": "IT之家",
+   "title": "微软 Win11 推送 11 月累积更新：更新自动播放对话框、修复部分 USB 音频“代码 10”错误",
+   "url": "https://www.ithome.com/1/025/259.htm",
+   "summary": "IT之家 11 月 11 日消息，在本月补丁星期二活动日（11 月 10 日）， 微软面向 Windows 11 26H2/25H2/24H2 系统，推送累积安全更新 KB5132061 ，安装后系统版本号分别升至 26300.9974、26200.9974 和 26100.9974。 其中，24H2 此次仅覆盖企业版和教育版。 此次更新重点解决多项影响日常使用的问题， 其中最值得关注的是修复此前部分 USB Audio 1.0 音频设备可能无法启动 ，并在设备管理器中显示“错误代码 10”的故障。 针对办公场景，本次更新还修复了通过系统设置添加 Active Directory 中发布的打印",
+   "published_at": 1794360926.0,
+   "published_bj": "2026-11-11 09:35"
+  },
+  {
+   "id": "81855a470489c455",
+   "source": "IT之家",
+   "title": "消息称黄仁勋已回英伟达上班开会，试图表现得“一切照常”",
+   "url": "https://www.ithome.com/1/025/249.htm",
+   "summary": "IT之家 11 月 11 日消息，据 CNBC 今日报道，英伟达知情人士透露，在出轨丑闻曝光后，英伟达 CEO 黄仁勋当地时间周一走进了其位于加利福尼亚州圣克拉拉的总部， 并与英伟达高管进行了例行的早会 。 知情人士称，黄仁勋在闭门会议一开始就谈及了自己的不忠，并向工作人员表达了歉意。黄仁勋没有回答任何问题， 并将话题迅速转向当天的商业和重点议程 。 黄仁勋当地时间周二也去了办公室， 知情人士表示黄仁勋试图表现得“一切照常” 。公司内部员工向 CNBC 形容，消息曝光后当时的氛围是“令人难过”的，一名员工表示，他们对黄仁勋的出轨消息感到震惊。 报道还提到，一些老员工把黄仁勋视为一个永远不会犯错",
+   "published_at": 1794360777.0,
+   "published_bj": "2026-11-11 09:32"
+  },
+  {
+   "id": "2a97d9900a6fe805",
+   "source": "IT之家",
+   "title": "央视曝光 MCN 机构暴力起号手段：演绎“取消外卖”“下架外卖”虚假剧本放大对立情绪",
+   "url": "https://www.ithome.com/1/025/248.htm",
+   "summary": "IT之家 11 月 11 日消息，据央视新闻昨天报道，近日，社交媒体上出现一批商家“取消外卖”“下架外卖”的短视频。这些视频没有口播、没有对白，画面近乎静止，略显粗糙的拍摄手法，吸引了大量网友留言。 一家四川宜宾的牛肉面馆经营的账号将画面呈现得更具冲突性 —— 两位店员“押送”着另一位经营者 ，经营者头戴黑色塑料袋作下蹲姿势，手指指向横幅上的字。 记者前往该牛肉面馆的一家分店，询问这则短视频是如何创作出来的，对方称创意由专业运营人员提供，目的是推到视频平台的“同城”页面，吸引网友到店里吃面。 IT之家从原报道获悉，另一家同在宜宾的酒楼也发过相同模板的短视频，酒楼老板透露，他只承接宴席，从未上架",
+   "published_at": 1794360355.0,
+   "published_bj": "2026-11-11 09:25"
+  },
+  {
+   "id": "85a7e68ae025b163",
+   "source": "IT之家",
+   "title": "微软正式发布 .NET 11：开发更省时，AI 工具更齐全",
+   "url": "https://www.ithome.com/1/025/246.htm",
+   "summary": "IT之家 11 月 11 日消息，昨日（11 月 10 日）召开的.NET Conf 2026 线上大会上， 微软正式发布 .NET 11，围绕运行性能、开发效率及 AI 应用构建推出一系列更新，覆盖网页、移动端和桌面应用开发。 IT之家注：.NET 是由微软支持、与开源社区共同维护的软件开发平台。它免费、开源，开发者可以用它构建网站后台、桌面软件、手机应用、云服务等多种程序。 本次 .NET 11 围绕性能、AI 应用及跨平台开发展开升级，涵盖 C# 15、网站开发框架 ASP.NET Core 和跨平台框架.NET MAUI 等，从而减少开发等待时间，简化现代应用构建流程。 性能方面，新版",
+   "published_at": 1794360182.0,
+   "published_bj": "2026-11-11 09:23"
+  },
+  {
+   "id": "d461b7c87c35a1d9",
+   "source": "IT之家",
+   "title": "10:00~10:15 速抢限时不限量红包：京东红包今日全员再加码",
+   "url": "https://www.ithome.com/1/025/245.htm",
+   "summary": "今日 10 点京东红包全员加码，10:00~10:15 可领限时不限量红包： 点此抽取 。 蚊子肉也是肉，节点开始越早抢红包金额越大，小伙伴可每天都领（多个红包支持叠加使用），积攒多天后带走个大件哦 ~ 京东 11.11 无门槛红包 面额至高 26888 元，每天抽 3 次： 点此抽红包 。 淘宝 11.11 无门槛红包 面额至高 26888 元，每天抽 1 次： 点此抽红包 。",
+   "published_at": 1794359983.0,
+   "published_bj": "2026-11-11 09:19"
+  },
+  {
+   "id": "ba80b55c7abe7ef6",
+   "source": "IT之家",
+   "title": "小米推出米家落地灯新品：智能光影技术 + 1600 万色可调，众筹价 719 元",
+   "url": "https://www.ithome.com/1/025/244.htm",
+   "summary": "IT之家 11 月 11 日消息，小米推出了一款全新的“米家落地灯”，青岛易来代工，建议零售价 999 元，11 月 11 日众筹价 719 元。 这款产品主打至简美学设计，自然融入家居环境；还支持智能光影技术，可提供多种氛围模式，支持 1600 万色可调；还有双光源独立可控，支持触控调光，接入米家 App 和澎湃智联。 据介绍，其底部圆环滑条支持单点触控开关灯、滑动调节亮度，长按可切换灯光效果。亮度可通过底部圆环滑动调节，也可在米家 App 中调节，亮度可调节范围为 1%-100%。色温可在米家 App 中调节，调节范围为 1800K-6500K。IT之家附参数详情如下：",
+   "published_at": 1794359955.0,
+   "published_bj": "2026-11-11 09:19"
+  },
+  {
+   "id": "4ec06d3907b28164",
+   "source": "IT之家",
+   "title": "尚界 Z7T 星野套装官宣 11 月 20 日上市，配有车顶行李箱",
+   "url": "https://www.ithome.com/1/025/243.htm",
+   "summary": "IT之家 11 月 11 日消息，尚界汽车今日宣布， 尚界 Z7T 星野套装即将上市 ，将在 11 月 20 日 14:30 鸿蒙智行享界 V8 及星芒品牌发布会上公布。 尚界 Z7T 是一款猎装车型 ，于今年 4 月上市，售价 22.98 万元起。从预告海报可以看到，星野套装更换了轮毂样式，车顶有配有行李箱，拓展了出行携带储物空间。 尚界 Z7T 标准容积 648L，能够同时装下 2 个 28 寸 +2 个 24 寸行李箱。放倒后排座椅后，后备箱最大纵深 1952mm。尚界 Z7T 最大拓展容积可达 1694L，83L 毯下储物暗格可容纳 20 寸行李箱。",
+   "published_at": 1794359947.0,
+   "published_bj": "2026-11-11 09:19"
+  },
+  {
+   "id": "89bcdb335cd6f51a",
+   "source": "IT之家",
+   "title": "OWC 升级 ThunderBay 4 四盘位 SATA RAID DAS，支持雷电 5",
+   "url": "https://www.ithome.com/1/025/242.htm",
+   "summary": "IT之家 11 月 11 日消息，Other World Computing (OWC) 当地时间 10 日宣布为其四盘位 RAID DAS（IT之家注：直连附加存储）解决方案 ThunderBay 4 提供支持雷电 5 规范的升级版本。 ThunderBay 4 with Thunderbolt 5 拥有 4 个 3.5\" / 2.5\" 的 SATA 盘位， 使用机械硬盘时实际速度可达 1268MB/s 、 使用固态硬盘时实际速度可达 1703MB/s ，通过 SoftRAID 支持 RAID 0 / 1 / 5 / 6 / 6+ / 10 和 JBOD 模式。 作为一款 SATA DAS，",
+   "published_at": 1794359924.0,
+   "published_bj": "2026-11-11 09:18"
+  },
+  {
+   "id": "79f5c961f4eebb95",
+   "source": "IT之家",
+   "title": "谷歌拟为 Chrome 浏览器无痕 / 访客模式加入实时安全检查，防范钓鱼网站",
+   "url": "https://www.ithome.com/1/025/241.htm",
+   "summary": "IT之家 11 月 11 日消息，科技媒体 Windows Report 昨日（11 月 10 日）发布博文，报道称谷歌计划扩展“安全浏览”（Google Safe Browsing）的实时检查机制， 覆盖 Chrome 浏览器的无痕模式和访客模式，帮助用户更及时地识别钓鱼网站、恶意软件页面等网络威胁。 根据 Chromium 代码变更日志，这项调整将覆盖“标准保护”和“增强型保护”两种设置。不过这并非是 Chrome 浏览器无痕浏览首次加入安全防护， 本次调整主要是补强现有机制。 根据谷歌现有支持文档说明：在标准保护下，Chrome 通常会先检查本机的已知安全网站列表；如果网址不在其中，就通",
+   "published_at": 1794359401.0,
+   "published_bj": "2026-11-11 09:10"
+  },
+  {
+   "id": "c06e1f0efb01a654",
+   "source": "IT之家",
+   "title": "终于低过 5000 元：iPhone 17 手机双重补贴后 4990 元近期好价",
+   "url": "https://www.ithome.com/1/025/240.htm",
+   "summary": "iPhone 17 手机 256G 版官网售价 6799 元，11.11 大促期间，今日移动京东自营旗舰店补贴价 5799 元； 下单领取 200 元优惠券； 国补立减 500 元； PLUS 会员立减 28.99 元； PLUS 会员领取 800-80 元（需 2 积分 10 点、20 点抢）： 点此查看 。 到手价为 4990.01 元： 京东 iPhone 17 手机 256GB 白色 券后 4990.01 元 领 200 元券 仅白色款此价。 京东发货 &amp; 售后服务。 京东 11.11 红包至高 26888 元无门槛可用，每天可抽一次： 点此抽取 。 京东 iPhone 17 ",
+   "published_at": 1794359327.0,
+   "published_bj": "2026-11-11 09:08"
+  },
+  {
+   "id": "1e0463ea061aea52",
+   "source": "IT之家",
+   "title": "微软确认 Win11 23H2 已正式结束支持：企业版、教育版停止接收月度安全更新",
+   "url": "https://www.ithome.com/1/025/239.htm",
+   "summary": "IT之家 11 月 11 日消息，微软已正式结束对 Windows 11 23H2 企业版和教育版的更新支持，并于当地时间 11 月 10 日发布最后一份安全更新 KB5131087，此后将不再获得每月安全更新。 微软在 KB5131087 更新说明中确认，Windows 11 23H2 Enterprise 和 Education 已达到更新支持期限，2026 年 11 月安全更新是这两个版本的最后一次更新。停止支持后，相关设备将无法继续通过每月更新获得针对最新安全威胁的防护。 IT之家提醒，不同版本的支持周期并不相同。家庭版（Home）和专业版（Pro）此前已于 2025 年 11 月 1",
+   "published_at": 1794359264.0,
+   "published_bj": "2026-11-11 09:07"
+  },
+  {
+   "id": "e995d5d63517a040",
+   "source": "IT之家",
+   "title": "使用者过少，索尼将于 12 月 10 日下线 PC 版 PlayStation Plus 云游戏应用程序",
+   "url": "https://www.ithome.com/1/025/237.htm",
+   "summary": "IT之家 11 月 11 日消息，Sony（索尼）PlayStation 官方当地时间 10 日宣布， PC 版 PlayStation Plus 云游戏应用程序将于 12 月 10 日下线 。此次变更不会影响 PS5 和 PS4 主机上的 PlayStation Plus 会员资格或权益。 PlayStation 表示，其会定期评估服务内容，确保专注于会员最重视的游戏体验。而数据显示，符合条件的 PlayStation Plus Premium 会员中 仅有不足 0.4% 在 PC 上使用 PlayStation Plus 应用程序游玩云游戏 ，这是该应用被放弃的原因。 PlayStatio",
+   "published_at": 1794359213.0,
+   "published_bj": "2026-11-11 09:06"
+  },
+  {
+   "id": "cff241128b542fcb",
+   "source": "TechCrunch",
+   "title": "X launches its own clipping feature to spur influencer engagement",
+   "url": "https://techcrunch.com/2026/11/10/x-launches-its-own-clipping-feature-to-spur-influencer-engagement/",
+   "summary": "X is jumping into clipping, the popular practice of cutting long videos into short, shareable clips that can go viral.",
+   "published_at": 1794358933.0,
+   "published_bj": "2026-11-11 09:02"
+  },
+  {
+   "id": "902c77a4c6947baf",
+   "source": "IT之家",
+   "title": "飞利浦推出 Evnia 27M2D5901A 显示器：27 英寸 5K 180Hz/2K 350Hz 双模 Fast IPS 面板",
+   "url": "https://www.ithome.com/1/025/235.htm",
+   "summary": "IT之家 11 月 11 日消息，飞利浦现已在海外市场推出 Evnia 27M2D5901A 显示器。这款产品采用 27 英寸 Fast IPS 面板， 支持 5K 180Hz/2K 350Hz 双模切换 ，建议零售价 699 英镑 （IT之家注：现汇率约合 6,251 元人民币） 。 据介绍，这款显示器在 5K 分辨率（5120 × 2880）下原生刷新率为 165Hz，支持超频至 180Hz。用户可切换至 2K（2560×1440）模式，默认刷新率 330Hz，支持超频到 350Hz。 同时，这款显示器背部配备 Ambiglow RGB 炫彩灯光，帮助玩家营造电竞氛围。 用户还可通过飞利浦",
+   "published_at": 1794358830.0,
+   "published_bj": "2026-11-11 09:00"
+  },
+  {
+   "id": "990c684fd6429918",
+   "source": "IT之家",
+   "title": "丰田再兴子品牌 Scion，面向美国市场发布 K-Car 低速皮卡 KEI-01",
+   "url": "https://www.ithome.com/1/025/234.htm",
+   "summary": "IT之家 11 月 11 日消息，丰田当地时间 9 日在美国宣布推出全新品牌 Scion by Toyota，复兴了 Scion 这一 2002 年诞生、2016 年消亡的子品牌。 丰田表示， Scion by Toyota 是其挑战传统的“自由实验室” ，主打创意和产品的独特性，为客户打造客制化出行体验。 Scion by Toyota 的 首款车型是 K-Car 低速多功能皮卡 KEI-01 。这一车型主打紧凑实用，符合美国联邦低速车辆安全标准，最高时速 25mph（约 40km/h）。 其车长略超 11 英尺 （约 3.4 米） ，车宽不足 5 英尺 （约 1.5 米） ，搭载 660c",
+   "published_at": 1794358693.0,
+   "published_bj": "2026-11-11 08:58"
+  },
+  {
+   "id": "75d8beb9c7d41141",
+   "source": "IT之家",
+   "title": "5 个上门维修师傅 2 个说了实话：家电维修乱象再曝光，啄木鸟、天鹅到家、58 到家被点名",
+   "url": "https://www.ithome.com/1/025/233.htm",
+   "summary": "IT之家 11 月 11 日消息，河南广播电视台民生频道《小莉帮忙》栏目 11 月 10 日报道，该栏目调查上门维修乱象，记者分别设置了两种简单的故障， 电池没电和自闭阀没开 ，分别下单 5 位师傅上门维修。 结果， 5 个上门师傅只有 2 个说了实话 。 第一位啄木鸟师傅趁记者离开，偷偷换了节电池，回来报“总成故障” 收 260 元 。 第二位天鹅到家师傅把“阀门没开”谎报成“总成坏了”顺手拨开阀门 收 244 元 。 第三位 58 到家师傅：“脉冲坏了”， 收 160 元 。 第四位师傅：一眼看出是自闭阀没开，随手一拨就好，直说“你这 30 块花得冤枉，灶没问题”。 第五位师傅：一看就是电",
+   "published_at": 1794358635.0,
+   "published_bj": "2026-11-11 08:57"
+  },
+  {
+   "id": "47f7b492666051c6",
+   "source": "IT之家",
+   "title": "谷歌更新安卓 AI 开发基准榜单：Kimi K3.1 Pro / DeepSeek V4.1 Flash 成绩揭晓",
+   "url": "https://www.ithome.com/1/025/232.htm",
+   "summary": "IT之家 11 月 11 日消息，谷歌官方账号 Android Developers（@AndroidDev）昨日（11 月 10 日）在 X 平台发布推文， 首次公开了 OpenAI GPT-6.1 Terra、Kimi K3.1 Pro 以及 DeepSeek V4.1 Flash 三款模型的 Android Bench 基准跑分。 IT之家注：Android Bench 是 Google 面向 Android 开发场景推出的 AI 编程基准，重点考察模型完成应用创建、功能开发、代码迁移和应用转换等真实工程任务的能力。 本次新增的 Kimi K3.1 Pro 使用 kimi-code 智能",
+   "published_at": 1794358616.0,
+   "published_bj": "2026-11-11 08:56"
+  },
+  {
+   "id": "8aaf8ac2954c47fd",
+   "source": "IT之家",
+   "title": "苹果团队赴印度工厂调查，3 名塔塔合同工在维护污水处理设施时遇难",
+   "url": "https://www.ithome.com/1/025/231.htm",
+   "summary": "IT之家 11 月 11 日消息，路透社当地时间 11 月 10 日报道称，苹果公司正就印度塔塔电子（Tata Electronics）iPhone 零部件供应商工厂发生的致命事故进行调查。 该工厂位于泰米尔纳德邦霍苏尔（Hosur），有 3 名合同工在维护污水处理设施期间吸入气体后死亡。苹果、塔塔电子及当地政府均已启动调查。 据印度克里希纳吉里地区官员 Dinesh Kumar 介绍，事故发生在工厂污水处理厂的一座外部纳米过滤罐检查过程中。该污水处理设施由美国企业 Ecolab 旗下的 Nalco Water 运营，3 名工人当时正在进行维护工作。 Nalco Water 表示，3 名遇难者",
+   "published_at": 1794358545.0,
+   "published_bj": "2026-11-11 08:55"
+  },
   {
    "id": "07f60aac68fd9c25",
    "source": "IT之家",
@@ -22,6 +247,15 @@
    "published_bj": "2026-11-11 08:41"
   },
   {
+   "id": "44960077d383d855",
+   "source": "Hacker News",
+   "title": "LLMs Play Zachtronics' TIS-100",
+   "url": "https://tis-100.wincon.dev/",
+   "summary": "Article URL: https://tis-100.wincon.dev/ Comments URL: https://news.ycombinator.com/item?id=50448340 Points: 5 # Comments: 0",
+   "published_at": 1794357425.0,
+   "published_bj": "2026-11-11 08:37"
+  },
+  {
    "id": "8d453e1f9ca58525",
    "source": "IT之家",
    "title": "苹果 iCloud 服务全球性故障，影响注册登录、照片同步和查找 iPhone 等",
@@ -38,6 +272,15 @@
    "summary": "IT之家 11 月 11 日消息，KORA Systems 昨日（11 月 10 日）发布公告， 宣布推出全新操作系统 KORA OS，宣称这是首个“自下而上”专为 AI PC 设计的操作系统。 不同于在传统系统上叠加 AI 助手，KORA OS 在系统底层直接融入智能体工作流、上下文记忆和本地 AI 推理， 目标让电脑从“打开应用完成操作”转向“表达意图、由 AI 协助完成”。 底层方面，KORA OS 基于 NixOS 构建，引入“神经工作区”和新型文件系统。用户可按任务目标组织工作空间，系统则围绕意图、上下文与记忆管理文件，系统依然会保留传统文件夹和桌面应用，但不再是系统核心。 在 AI",
    "published_at": 1794356835.0,
    "published_bj": "2026-11-11 08:27"
+  },
+  {
+   "id": "feaa0b11a0ed78e2",
+   "source": "少数派",
+   "title": "派早报：700 号段保护服务试点获批、Claude Code 设置文件泄露凭据等",
+   "url": "https://sspai.com/post/118905",
+   "summary": "卫星导航基准站网安全国标发布，影目召回 4701 副 AIR3 眼镜等。 查看全文",
+   "published_at": 1794356794.0,
+   "published_bj": "2026-11-11 08:26"
   },
   {
    "id": "891ac68a5faa40a2",
@@ -65,6 +308,15 @@
    "summary": "IT之家 11 月 11 日消息，谷歌于当地时间 11 月 10 日宣布向 Pixel 系列手机及平板电脑推送 Android 17 QPR2 正式版更新。 此次更新比原定季度发布时间提前约一个月，同时整合了 2026 年 11 月 Pixel Feature Drop 功能更新和当月安全补丁，带来界面定制、通知管理、隐私控制及系统稳定性方面的多项改进。 据 9to5Google 报道，QPR2 调整了主屏幕长按菜单的布局，并为系统主题增加了更灵活的颜色选择功能。用户进入「壁纸和风格」设置后，可以通过颜色选择滑块自定义系统强调色，还能在 Neutral、Soft、Bright 和 Bold 四",
    "published_at": 1794356213.0,
    "published_bj": "2026-11-11 08:16"
+  },
+  {
+   "id": "e64ff03f82cbe11c",
+   "source": "Hacker News",
+   "title": "AI is an information gateway. Audiences still don't want it making their news",
+   "url": "https://www.niemanlab.org/2026/11/ai-is-becoming-an-information-gateway-audiences-still-dont-want-it-making-their-news/",
+   "summary": "Article URL: https://www.niemanlab.org/2026/11/ai-is-becoming-an-information-gateway-audiences-still-dont-want-it-making-their-news/ Comments URL: https://news.ycombinator.com/item?id=50448174 Points: 5 # Comments: 1",
+   "published_at": 1794356133.0,
+   "published_bj": "2026-11-11 08:15"
   },
   {
    "id": "6ef489b22d7e5d63",
@@ -488,6 +740,15 @@
    "summary": "Article URL: https://www.theautopian.com/scion-is-back-and-its-going-to-sell-a-freaking-kei-truck-in-america/ Comments URL: https://news.ycombinator.com/item?id=50445401 Points: 67 # Comments: 41",
    "published_at": 1794340246.0,
    "published_bj": "2026-11-11 03:50"
+  },
+  {
+   "id": "2ec11dda8766d475",
+   "source": "Hacker News",
+   "title": "Research taste in history: the importance of learning Babylonian math",
+   "url": "https://resobscura.substack.com/p/research-taste-in-history-the-importance",
+   "summary": "Article URL: https://resobscura.substack.com/p/research-taste-in-history-the-importance Comments URL: https://news.ycombinator.com/item?id=50445279 Points: 11 # Comments: 0",
+   "published_at": 1794339764.0,
+   "published_bj": "2026-11-11 03:42"
   },
   {
    "id": "36d0343b18099724",
