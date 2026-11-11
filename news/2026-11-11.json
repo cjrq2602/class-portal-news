@@ -1,8 +1,98 @@
 {
  "date": "2026-11-11",
- "generated_at": 1794354864.896921,
- "count": 78,
+ "generated_at": 1794357992.0437737,
+ "count": 90,
  "items": [
+  {
+   "id": "07f60aac68fd9c25",
+   "source": "IT之家",
+   "title": "华为鸿蒙智行享界 V8 及星芒品牌发布会定档 2026 年 11 月 20 日",
+   "url": "https://www.ithome.com/1/025/230.htm",
+   "summary": "IT之家 11 月 11 日闪讯速报，华为官方今日宣布，鸿蒙智行享界 V8 及星芒品牌发布会定档 2026 年 11 月 20 日。",
+   "published_at": 1794357810.0,
+   "published_bj": "2026-11-11 08:43"
+  },
+  {
+   "id": "133d34737ff28628",
+   "source": "IT之家",
+   "title": "华擎更新 ASRVBFlash 显卡刷写工具，修复 AMD RX 7900 XT / XTX 变砖问题",
+   "url": "https://www.ithome.com/1/025/229.htm",
+   "summary": "IT之家 11 月 11 日消息，科技媒体 TechPowerUp 昨日（11 月 10 日）发布博文， 报道称华擎（ASRock）发布 1.0.6 版显卡固件刷写工具 ASRVBFlash，修复此前 1.0.5 版本给 Radeon RX 7900 XT / XTX 用户带来的问题。 IT之家注：ASRVBFlash 是华擎（ASRock）为自家 AMD Radeon 显卡提供的 VBIOS 刷写工具，用于更新显卡上的固件（Video BIOS），主要面向需要修复兼容性问题、调整显卡出厂设置或应用官方固件更新的用户。 部分 Radeon RX 7900 XT / XTX 显卡此前反馈使用 1",
+   "published_at": 1794357719.0,
+   "published_bj": "2026-11-11 08:41"
+  },
+  {
+   "id": "8d453e1f9ca58525",
+   "source": "IT之家",
+   "title": "苹果 iCloud 服务全球性故障，影响注册登录、照片同步和查找 iPhone 等",
+   "url": "https://www.ithome.com/1/025/227.htm",
+   "summary": "IT之家 11 月 11 日消息， 苹果 iCloud 服务今早突发全球性故障 。本次故障从北京时间清晨 06:49 左右开始，迄今接近两个小时。核心登录注册服务为瘫痪状态，购买 iPhone 18 Pro 或 iPhone Duo 新机的用户也将无法通过 iCloud 备份恢复来恢复数据。 IT之家查询苹果系统状态页面获悉，苹果 iCloud 账户登录 / 注册、iCloud 日历、iCloud 通讯录、iCloud 邮件、照片、Game Center 目前处于服务中断状态。而“查找”（以前称为 Find My iPhone）、iCloud 版 iWork 等服务处于问题状态。 截至目前， ",
+   "published_at": 1794357069.0,
+   "published_bj": "2026-11-11 08:31"
+  },
+  {
+   "id": "5a162c2f5424cdb4",
+   "source": "IT之家",
+   "title": "挑战微软 Win11：原生 AI 系统 KORA 登场，将率先适配高通骁龙 X2 Elite 芯片",
+   "url": "https://www.ithome.com/1/025/226.htm",
+   "summary": "IT之家 11 月 11 日消息，KORA Systems 昨日（11 月 10 日）发布公告， 宣布推出全新操作系统 KORA OS，宣称这是首个“自下而上”专为 AI PC 设计的操作系统。 不同于在传统系统上叠加 AI 助手，KORA OS 在系统底层直接融入智能体工作流、上下文记忆和本地 AI 推理， 目标让电脑从“打开应用完成操作”转向“表达意图、由 AI 协助完成”。 底层方面，KORA OS 基于 NixOS 构建，引入“神经工作区”和新型文件系统。用户可按任务目标组织工作空间，系统则围绕意图、上下文与记忆管理文件，系统依然会保留传统文件夹和桌面应用，但不再是系统核心。 在 AI",
+   "published_at": 1794356835.0,
+   "published_bj": "2026-11-11 08:27"
+  },
+  {
+   "id": "891ac68a5faa40a2",
+   "source": "IT之家",
+   "title": "苹果子公司 Claris 正测试「Harbor」应用：将 Mac 变身本地 AI 服务器",
+   "url": "https://www.ithome.com/1/025/225.htm",
+   "summary": "IT之家 11 月 11 日消息，苹果全资子公司 Claris 正在测试 Harbor 应用程序。这款 App 可以将苹果芯片的 Mac 变身本地 AI 服务器。 据介绍，Harbor 可以运行在单台苹果芯片 Mac， 也可以使用雷雳 5 接口连接多台 Mac ， 运行规模更大的 AI 模型 。苹果已在 macOS Tahoe 26.2 系统中加入雷雳 5 RDMA（IT之家注：远程直接内存访问）支持，使多台设备组成集群后的数据传输速度更快。 Harbor 能够自动检测雷雳 5 设备，并允许用户浏览、下载开放权重模型。这款应用主打易上手，用户无需进行手动配置，就能为 Mac 获得端侧 AI 运",
+   "published_at": 1794356748.0,
+   "published_bj": "2026-11-11 08:25"
+  },
+  {
+   "id": "4f8459b9669c0bb5",
+   "source": "IT之家",
+   "title": "IT早报 1111：Anthropic 启动最高 643.5 亿美元 IPO；全球最强模型 Claude Fable 5.2 登场；董明珠称因铜涨价致格力业绩下滑...",
+   "url": "https://www.ithome.com/1/025/224.htm",
+   "summary": "“IT早报”时间，大家好，现在是 2026 年 11 月 11 日星期三，今天的重要科技资讯有： 1. Anthropic 发布 IPO 路演视频正式启动最高 643.5 亿美元募资计划，估值约在 1~1.4 万亿美元 Anthropic 启动 IPO 路演，拟发行 8.25 亿股募资最高 643.5 亿美元，叠加 260 亿美元私募配售后总融资规模达 904 亿美元，估值区间 1 至 1.4 万亿美元，谷歌、英伟达等参与认购。&gt;&gt; 查看详情 2. 全球最强 AI 模型：Claude Fable 5.2 登场，编程超 GPT-6 Astra、登顶多项基准 Anthropic 11 ",
+   "published_at": 1794356670.0,
+   "published_bj": "2026-11-11 08:24"
+  },
+  {
+   "id": "d98903176d756887",
+   "source": "IT之家",
+   "title": "谷歌发布 Android 17 QPR2 正式版及 Pixel 11 月更新，新增通知管理和隐私控制功能",
+   "url": "https://www.ithome.com/1/025/223.htm",
+   "summary": "IT之家 11 月 11 日消息，谷歌于当地时间 11 月 10 日宣布向 Pixel 系列手机及平板电脑推送 Android 17 QPR2 正式版更新。 此次更新比原定季度发布时间提前约一个月，同时整合了 2026 年 11 月 Pixel Feature Drop 功能更新和当月安全补丁，带来界面定制、通知管理、隐私控制及系统稳定性方面的多项改进。 据 9to5Google 报道，QPR2 调整了主屏幕长按菜单的布局，并为系统主题增加了更灵活的颜色选择功能。用户进入「壁纸和风格」设置后，可以通过颜色选择滑块自定义系统强调色，还能在 Neutral、Soft、Bright 和 Bold 四",
+   "published_at": 1794356213.0,
+   "published_bj": "2026-11-11 08:16"
+  },
+  {
+   "id": "6ef489b22d7e5d63",
+   "source": "IT之家",
+   "title": "经典塔防游戏回归：《植物大战僵尸：重植版》12 月 3 日登陆苹果 Apple Arcade",
+   "url": "https://www.ithome.com/1/025/222.htm",
+   "summary": "IT之家 11 月 11 日消息，苹果公司昨日（11 月 10 日）发布公告，宣布其游戏服务 Apple Arcade 将于 12 月 3 日上线 4 款游戏，其中最值得关注的是经典塔防游戏《植物大战僵尸：高清重植版》（Plants vs. Zombies: Replanted）。 IT之家发稿前查询 App Store 页面，《植物大战僵尸：高清重植版》已经上线，显示 12 月 3 日发布，支持 iPhone、iPad、Mac、Apple TV 及 Apple Vision Pro 等苹果设备。 本次“重植版”基于 2009 年原作重制，由 PopCap Games 与 The Lost P",
+   "published_at": 1794355847.0,
+   "published_bj": "2026-11-11 08:10"
+  },
+  {
+   "id": "e0be5888a3dcebb1",
+   "source": "IT之家",
+   "title": "索尼、微软确认《GTA 6》成 PlayStation、Xbox 商店史上预购量最高游戏，具体数量未公布",
+   "url": "https://www.ithome.com/1/025/221.htm",
+   "summary": "IT之家 11 月 11 日消息，当地时间 11 月 10 日，索尼互动娱乐及微软发布博客，宣布《侠盗猎车手 6》（GTA 6）已成为 PlayStation 以及 Xbox 商店中历史预购量最高的游戏，但均未公布具体预购量。 索尼表示，鉴于《GTA 6》预购需求超出预期，已与 Rockstar Games 合作提前九天开放游戏预下载，以便玩家在正式发售前完成安装。IT之家注意到，Xbox 版本同样也已开放预载。 《GTA 6》数字版于 2026 年 6 月 25 日开启预购，港区标准版定价为 568 港币 （现汇率约合 484.4 元人民币） ，终极版为 708 港币 （现汇率约合 603.",
+   "published_at": 1794355485.0,
+   "published_bj": "2026-11-11 08:04"
+  },
+  {
+   "id": "cb1852836e28c948",
+   "source": "IT之家",
+   "title": "任天堂在美国设立新职位：系统性保存、整理经典游戏资料",
+   "url": "https://www.ithome.com/1/025/220.htm",
+   "summary": "IT之家 11 月 11 日消息，据游戏媒体 IGN 今天报道，任天堂美国公司近日设立新职位，负责保存、整理公司庞大的经典游戏资料。 据官方招聘信息，该职位工作地点位于华盛顿州雷德蒙德市，应聘者将负责任天堂历史硬件和软件信息的保存、整理和访问工作， 为任天堂设计 、 建立一套结构化管理体系 ，用于整理旧平台相关的技术记录、工程文档、源材料及企业知识。 对于热爱电子游戏历史的人来说，这份工作颇具吸引力。任天堂希望应聘者具备档案管理、元数据管理、信息架构专业知识。应聘者入职后需要和工程、产品开发、法律和业务团队专家密切合作，确保经典史料能够长期保存，方便后代直接使用。 该职位采用 12 个月一期的",
+   "published_at": 1794355236.0,
+   "published_bj": "2026-11-11 08:00"
+  },
   {
    "id": "cfb4b7d0ddccbc80",
    "source": "IT之家",
@@ -38,6 +128,15 @@
    "summary": "IT之家 11 月 11 日消息，据彭博社报道，索尼 PlayStation 已正式取消《Fairgame$》开发项目。这款游戏的开发工作始于 2023 年，是一款主打在线服务模式的团队劫案射击游戏。 IT之家从原报道获悉，索尼 PlayStation 已在昨天发送内部邮件，宣布该项目取消： 尽管此次测试展现游戏出色的运营执行能力、在线服务运营准备情况和社区互动表现，但玩家反馈和留存率结果参差不齐，未能达到我们设定的目标。再加上 PvP 射击游戏市场环境充满挑战， 我们最终做出了停止开发这款游戏的艰难决定 。 PlayStation 发言人对此回应称， 《Fairgame$》取消并不会导致 H",
    "published_at": 1794354161.0,
    "published_bj": "2026-11-11 07:42"
+  },
+  {
+   "id": "43afeaa76dde57e2",
+   "source": "Hacker News",
+   "title": "The DRAM interface and the PHY (why a DDR3+ interface must be tuned at boot)",
+   "url": "https://github.com/enjoy-digital/litedram/blob/master/doc/manual/03_dram_interface.md",
+   "summary": "Article URL: https://github.com/enjoy-digital/litedram/blob/master/doc/manual/03_dram_interface.md Comments URL: https://news.ycombinator.com/item?id=50447900 Points: 7 # Comments: 0",
+   "published_at": 1794354101.0,
+   "published_bj": "2026-11-11 07:41"
   },
   {
    "id": "a025c5d816a537c8",
@@ -218,6 +317,15 @@
    "summary": "Article URL: https://www.vulncheck.com/blog/anthropic-glasswing-november-update Comments URL: https://news.ycombinator.com/item?id=50447074 Points: 38 # Comments: 6",
    "published_at": 1794349076.0,
    "published_bj": "2026-11-11 06:17"
+  },
+  {
+   "id": "f8f1fe339646a27b",
+   "source": "Hacker News",
+   "title": "$30M Raised to Redo the CPU",
+   "url": "https://tendrils.co/blog/2026-11-10/30m-raised",
+   "summary": "Article URL: https://tendrils.co/blog/2026-11-10/30m-raised Comments URL: https://news.ycombinator.com/item?id=50447036 Points: 8 # Comments: 0",
+   "published_at": 1794348843.0,
+   "published_bj": "2026-11-11 06:14"
   },
   {
    "id": "ff6619a8ae8f71bc",
