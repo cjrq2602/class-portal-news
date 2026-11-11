@@ -1,8 +1,53 @@
 {
  "date": "2026-11-11",
- "generated_at": 1794410707.4442778,
+ "generated_at": 1794414924.4001307,
  "count": 400,
  "items": [
+  {
+   "id": "b8d8f021b207bae2",
+   "source": "cnBeta",
+   "title": "任天堂提交新一轮DMCA通知 GitHub下架144个Switch改机芯片仓库",
+   "url": "https://www.cnbeta.com.tw/articles/game/1585984.htm",
+   "summary": "任天堂近日向GitHub提交新的DMCA下架通知，随后共有144个与Switch改机芯片有关的代码仓库被移除。相关仓库提供Picofly、SX Core、SX Lite和HWFLY等产品的信息或固件。 阅读全文",
+   "published_at": 1794411467.0,
+   "published_bj": "2026-11-11 23:37"
+  },
+  {
+   "id": "b762cc5a853e8ffe",
+   "source": "cnBeta",
+   "title": "连续7个月下滑超20% 中汽协：乘用车年销或不足1900万辆",
+   "url": "https://www.cnbeta.com.tw/articles/tech/1585982.htm",
+   "summary": "11月11日，中国汽车工业协会（以下简称“中汽协”）发布10月汽车工业产销数据。10月，汽车市场“内冷外热”的运行态势仍在延续。国内市场需求释放不足，汽车出口保持较强韧性，新能源汽车销量占比进一步提升。 阅读全文",
+   "published_at": 1794411415.0,
+   "published_bj": "2026-11-11 23:36"
+  },
+  {
+   "id": "99f8a2e1b9efddeb",
+   "source": "cnBeta",
+   "title": "巨型系外行星质量达木星11倍 颠覆科学家对行星形成的认知",
+   "url": "https://www.cnbeta.com.tw/articles/science/1585980.htm",
+   "summary": "天文学家对一颗质量高达木星11倍的巨型系外行星展开最新研究后发现，这个庞然大物的形成过程可能与传统理论预测存在明显差异。新发现不仅挑战了长期以来关于巨型气态行星诞生机制的认知，也让科学家重新思考行星与“失败恒星”之间的界限。 阅读全文",
+   "published_at": 1794410804.0,
+   "published_bj": "2026-11-11 23:26"
+  },
+  {
+   "id": "ba050666ec3f4180",
+   "source": "cnBeta",
+   "title": "加州理工学院≈机器人首次在轨自主完成太空结构组装",
+   "url": "https://www.cnbeta.com.tw/articles/science/1585978.htm",
+   "summary": "美国加州理工学院研究团队宣布取得一项具有里程碑意义的航天突破。一台由机器人自主控制的太空组装系统成功在轨道上完成结构搭建任务，成为人类历史上首次无需宇航员参与便在太空中自主建造结构的案例。这项成果被认为有望彻底改变未来大型航天器、太空望远镜、通信设施以及空间太阳能发电系统的建造方式。 阅读全文",
+   "published_at": 1794410781.0,
+   "published_bj": "2026-11-11 23:26"
+  },
+  {
+   "id": "9ad2c079ccef08df",
+   "source": "cnBeta",
+   "title": "DeepMind发布AlphaGenome 2 深入单个细胞寻找遗传变异与疾病之间的联系",
+   "url": "https://www.cnbeta.com.tw/articles/tech/1585976.htm",
+   "summary": "Google DeepMind推出了新一代基因组人工智能模型AlphaGenome 2，旨在更精确地预测DNA遗传变异如何影响人体不同类型的细胞，以及细胞在不同生物学状态下的活动。这项技术希望帮助研究人员从海量遗传信息中识别与疾病有关的关键变化，进一步揭示疾病发生机制，并为未来药物研发寻找新的靶点。 阅读全文",
+   "published_at": 1794410682.0,
+   "published_bj": "2026-11-11 23:24"
+  },
   {
    "id": "bbf8b2cd8e8d9fa5",
    "source": "cnBeta",
@@ -11,6 +56,15 @@
    "summary": "Mozilla宣布，自11月10日起至2027年1月31日，Firefox浏览器内置的免费VPN服务将暂时取消流量限制。活动期间，所有登录Mozilla账户并使用该功能的用户都可以获得无限流量访问权限，无需额外付费或安装独立应用程序。 阅读全文",
    "published_at": 1794410616.0,
    "published_bj": "2026-11-11 23:23"
+  },
+  {
+   "id": "b1a976c184a3f232",
+   "source": "IT之家",
+   "title": "谷歌 DeepMind 发布 AlphaGenome 2 基因序列模型：识别致病变异能力提升近一倍",
+   "url": "https://www.ithome.com/1/025/822.htm",
+   "summary": "IT之家 11 月 11 日消息，谷歌 DeepMind 发布新一代 DNA 序列模型 AlphaGenome 2 ，可预测 DNA 序列及其变异对特定人体细胞类型的影响，为科研人员挖掘疾病的细胞驱动因素提供全新工具。 人体每个细胞携带相同的 DNA 蓝图，但不同细胞类型会通过开关不同基因完成特定功能。全球的人类细胞图谱项目已对数百万细胞的基因表达进行绘制，但预测细微 DNA 变异如何影响细胞基因表达，仍是尚未解决的难题。 此前谷歌已推出初代 AlphaGenome ，可预测 DNA 变异对宽泛组织的分子活性影响，并推出了覆盖人类基因组全部 90 亿种单字母变异预测的 AlphaGenome ",
+   "published_at": 1794410391.0,
+   "published_bj": "2026-11-11 23:19"
   },
   {
    "id": "66d2f2e7fbc188cc",
@@ -110,6 +164,15 @@
    "summary": "点击查看原文>",
    "published_at": 1794408288.0,
    "published_bj": "2026-11-11 22:44"
+  },
+  {
+   "id": "717a05b718896855",
+   "source": "Solidot",
+   "title": "假如地球没有诞生生命？",
+   "url": "https://www.solidot.org/story?sid=85862",
+   "summary": "假如地球没有诞生生命，它会变成什么模样？华盛顿大学团队进行了计算机模拟，他们将生命的因素彻底抽离，但完整保留了地核、地函、大气、海洋以及太阳辐射等 19 项关键物理变数，模拟这颗没有生命的地球从 45 亿年前诞生至今、乃至未来 5 亿年的演化史。在长达数十亿年的岁月里，这颗死寂的地球除了因为没有植物进行光合作用而极度缺乏氧气外，其地表温度与液态水量竟然与我们今天的真实地球相差无几。在天文学的定义中，宜居的核心标准并非空气中是否有氧气，而是地表能否维持液态水。模拟显示，即使没有生物参与，地球本身的碳酸盐-矽酸盐循环便足以扛起调节气候的重任。当太阳在数十亿年间逐渐变亮变热时，岩石风化、火山喷气与海",
+   "published_at": 1794408227.0,
+   "published_bj": "2026-11-11 22:43"
   },
   {
    "id": "ba7e4b2245959405",
@@ -361,6 +424,15 @@
    "url": "https://www.ithome.com/1/025/801.htm",
    "summary": "IT之家 11 月 11 日消息，科学家早已知道如何让细胞变得年轻，至少他们可以将成年细胞转化为与胚胎中的细胞非常相似的多能干细胞。这项技术一直是生物学研究的重要基础，但由于存在一些风险，这类方法并不适合直接用于抗衰老技术。 “你不会希望自己的身体里出现多能干细胞，因为它们可以变成各种类型的细胞。”德国波恩大学研究干细胞的教授奥利弗 · 布吕斯特勒（Oliver Brüstle）说。 此外，参与干细胞转化过程的少数几个关键基因，如果持续处于活跃状态，可能会推动癌症形成。因此，布吕斯特勒及其团队一直在寻找其他方法，希望在不让细胞进入多能状态的情况下实现细胞“逆龄”。 在近期发表于《Aging C",
    "published_at": 1794403793.0,
+   "published_bj": "2026-11-11 21:29"
+  },
+  {
+   "id": "56f44a58d0d4ff53",
+   "source": "Hacker News",
+   "title": "Attention to Mamba: A Recipe for Cross-Architecture Distillation",
+   "url": "https://machinelearning.apple.com/research/attention-mamba-distillation",
+   "summary": "Article URL: https://machinelearning.apple.com/research/attention-mamba-distillation Comments URL: https://news.ycombinator.com/item?id=50453171 Points: 9 # Comments: 1",
+   "published_at": 1794403786.0,
    "published_bj": "2026-11-11 21:29"
   },
   {
@@ -3530,78 +3602,6 @@
    "summary": "Anthropic推出一系列工具，进一步将人工智能（AI）融入日常办公，与微软和谷歌展开更直接的竞争。这些功能将于周二Anthropic的一场活动上发布，包括视频通话助手、数据仪表板工具，以及名为Claude Sheets的电子表格服务。Claude Sheets与微软Excel和谷歌Sheets非常相似，但内置Anthropic的AI功能。许多新工具将以测试版形式向付费用户开放。 阅读全文",
    "published_at": 1794345139.0,
    "published_bj": "2026-11-11 05:12"
-  },
-  {
-   "id": "6f43f45bbfa46366",
-   "source": "cnBeta",
-   "title": "英伟达独立董事聘请外部律所 对黄仁勋事件展开调查",
-   "url": "https://www.cnbeta.com.tw/articles/tech/1585842.htm",
-   "summary": "英伟达独立董事聘请了律师事务所Wachtell， Lipton， Rosen &amp; Katz来协助调查首席执行官黄仁勋。根据周二发布的简短声明，董事们已聘请Wachtell Lipton的Joon H． Kim负责“进行全面且独立的调查”。Kim曾任纽约南区代理联邦检察官。 阅读全文",
-   "published_at": 1794345066.0,
-   "published_bj": "2026-11-11 05:11"
-  },
-  {
-   "id": "f2e43249f0aee724",
-   "source": "IT之家",
-   "title": "CoreWeave 2026 财年前三季度报归母亏损 20.75 亿美元，同比亏损扩大 178.9%",
-   "url": "https://www.ithome.com/1/025/200.htm",
-   "summary": "IT之家 11 月 11 日消息，CoreWeave 今日发布 2026 财年（2026 年 1 月～2026 年 12 月）前三季度报（2026 年 1 月～2026 年 9 月）及第三财季（2026 年 7 月～2026 年 9 月）报告： 2026 财年前三季度报 营业总收入 ：83.14 亿美元 （IT之家注：现汇率约合 555.92 亿元人民币） ，同比增长 133.6% 毛利润 ：55.36 亿美元 （现汇率约合 370.17 亿元人民币） ，同比增长 111.7% 毛利率 ：66.6%，同比下降 6.9 个百分点 归母净利润 ：-20.75 亿美元 （现汇率约合 -138.75 ",
-   "published_at": 1794345063.0,
-   "published_bj": "2026-11-11 05:11"
-  },
-  {
-   "id": "885cecb0368dcb3f",
-   "source": "cnBeta",
-   "title": "Anthropic拟通过IPO和私募配售筹至多904亿美元 有望超SpaceX纪录",
-   "url": "https://www.cnbeta.com.tw/articles/tech/1585840.htm",
-   "summary": "Anthropic PBC寻求在首次公开募股（IPO）中实现约1.4万亿美元的完全摊薄估值，力争成为首家上市的前沿人工智能实验室。这家Claude聊天机器人开发商及其联合创始人寻求通过IPO和私募配售筹集至多904亿美元。 阅读全文",
-   "published_at": 1794345028.0,
-   "published_bj": "2026-11-11 05:10"
-  },
-  {
-   "id": "67b11cb34d7514a9",
-   "source": "TechCrunch",
-   "title": "OpenAI acquires Odessia, travel startup created by Sonder founder",
-   "url": "https://techcrunch.com/2026/11/10/openai-acquires-odessia-travel-startup-created-by-sonder-founder/",
-   "summary": "OpenAI has not yet said what its plans are for the future of travel. But Sonder founder Francis Davidson is a well-known figure in the travel industry.",
-   "published_at": 1794344932.0,
-   "published_bj": "2026-11-11 05:08"
-  },
-  {
-   "id": "dafcaca7a0aa0169",
-   "source": "Hacker News",
-   "title": "Six Math Essentials by Terence Tao",
-   "url": "https://teorth.github.io/tao-web/six-math-essentials.html",
-   "summary": "Article URL: https://teorth.github.io/tao-web/six-math-essentials.html Comments URL: https://news.ycombinator.com/item?id=50446246 Points: 31 # Comments: 2",
-   "published_at": 1794344324.0,
-   "published_bj": "2026-11-11 04:58"
-  },
-  {
-   "id": "e5cf328b9d233350",
-   "source": "Hacker News",
-   "title": "Sherman Anti-Trust Act (1890",
-   "url": "https://www.archives.gov/milestone-documents/sherman-anti-trust-act",
-   "summary": "Article URL: https://www.archives.gov/milestone-documents/sherman-anti-trust-act Comments URL: https://news.ycombinator.com/item?id=50446219 Points: 31 # Comments: 14",
-   "published_at": 1794344176.0,
-   "published_bj": "2026-11-11 04:56"
-  },
-  {
-   "id": "5defb2bea9833353",
-   "source": "TechCrunch",
-   "title": "OpenAI, Anthropic face new oversight as New York’s AI safety law takes effect",
-   "url": "https://techcrunch.com/2026/11/10/openai-anthropic-face-new-oversight-as-new-yorks-ai-safety-law-takes-effect/",
-   "summary": "New York is preparing to enforce its sweeping AI safety law, requiring major developers like OpenAI and Anthropic to register, disclose safety practices, and report critical incidents or face fines.",
-   "published_at": 1794343933.0,
-   "published_bj": "2026-11-11 04:52"
-  },
-  {
-   "id": "b0f34a43f0140946",
-   "source": "TechCrunch",
-   "title": "Proximal Ventures raises debut fund to back startups bringing AI to drug development",
-   "url": "https://techcrunch.com/2026/11/10/proximal-ventures-raises-debut-fund-to-back-startups-bringing-ai-to-drug-development/",
-   "summary": "Former SignalFire investor Sahir Raoof raises $27.5M for new fund targeting AI in pharma",
-   "published_at": 1794343625.0,
-   "published_bj": "2026-11-11 04:47"
   }
  ]
 }

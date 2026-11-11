@@ -1,7 +1,7 @@
 {
  "date": "2026-11-12",
- "generated_at": 1794410707.4419715,
- "count": 10,
+ "generated_at": 1794414924.396627,
+ "count": 12,
  "items": [
   {
    "id": "4cf6fcf3d01b74a7",
@@ -92,6 +92,24 @@
    "summary": "点击查看原文>",
    "published_at": 1794415772.0,
    "published_bj": "2026-11-12 00:49"
+  },
+  {
+   "id": "58683abdc4298078",
+   "source": "TechCrunch",
+   "title": "Is Jensen Huang’s bad behavior more commonplace than it seems?",
+   "url": "https://techcrunch.com/2026/11/11/is-jensen-huangs-bad-behavior-more-commonplace-than-it-seems/",
+   "summary": "“There are a lot of senior people in the industry that know this is happening, and are effectively condoning it,” an investment intel consultant said.",
+   "published_at": 1794413767.0,
+   "published_bj": "2026-11-12 00:16"
+  },
+  {
+   "id": "ff776bed96dfdf00",
+   "source": "TechCrunch",
+   "title": "OpenAI’s quarterly revenue reportedly crosses $10B for the first time",
+   "url": "https://techcrunch.com/2026/11/11/openais-quarterly-revenue-reportedly-crosses-10b-for-the-first-time/",
+   "summary": "Sales of $10B represents an almost 50% jump from revenue of $6.7 billion the company recorded in the second quarter.",
+   "published_at": 1794413684.0,
+   "published_bj": "2026-11-12 00:14"
   }
  ]
 }
