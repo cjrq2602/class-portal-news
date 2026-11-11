@@ -1,7 +1,7 @@
 {
  "date": "2026-11-11",
- "generated_at": 1794372690.51501,
- "count": 167,
+ "generated_at": 1794376293.2403955,
+ "count": 181,
  "items": [
   {
    "id": "cf6a4582041977c9",
@@ -40,6 +40,123 @@
    "published_bj": "2026-11-11 17:06"
   },
   {
+   "id": "f887f8b7badcf214",
+   "source": "cnBeta",
+   "title": "开发者使用AI写开源驱动遭到厂商威胁：Synaptics要求下架项目 甚至要索赔2.5万美元",
+   "url": "https://www.cnbeta.com.tw/articles/tech/1585868.htm",
+   "summary": "芯片公司 Synaptics 日前向开源开发者迈克洛锡安发出停止侵权函，要求这名开发者停止开发和发布 Linux 驱动程序 Vino。该驱动旨在为 DisplayLink 设备提供开源支持，在开发过程中开发者使用 Claude AI 辅助开发。 阅读全文",
+   "published_at": 1794376171.0,
+   "published_bj": "2026-11-11 13:49"
+  },
+  {
+   "id": "daa74117f2d11ec6",
+   "source": "IT之家",
+   "title": "恐影响部分游戏性能：微软 11 月 Win11 累积更新扩大自动启用“内存完整性”",
+   "url": "https://www.ithome.com/1/025/408.htm",
+   "summary": "IT之家 11 月 11 日消息，科技媒体 Windows Latest 今天（11 月 11 日）发布博文，报道称在本月补丁星期二活动日（11 月 10 日）中，微软面向更多符合条件的 Windows 11 25H2 以及 26H2 设备， 扩大 自动启用部署“内存完整性”（Memory Integrity）安全功能。 此次调整涉及 25H2 和 26H2 版本，采取分批推送方式；用户此前若已手动关闭，系统不会自动重新开启，企业管理策略也仍享有优先权。 IT之家曾于今年 9 月报道， 内存完整性保护（Memory Integrity）也称受虚拟机监控程序保护的代码完整性（Hypervisor",
+   "published_at": 1794376141.0,
+   "published_bj": "2026-11-11 13:49"
+  },
+  {
+   "id": "8891158407f76ef5",
+   "source": "IT之家",
+   "title": "上汽乘用车迈入百万阵营：截至 11 月初全年销量突破 100 万辆，国内第 5 家达成",
+   "url": "https://www.ithome.com/1/025/407.htm",
+   "summary": "IT之家 11 月 11 日消息，上汽乘用车今日发文， 截至 11 月初全年销量突破 100 万辆 。 上汽乘用车表示今年前 10 个月累计销量已超 2025 全年，1~10 月累计销量 99.1 万辆，同比增长 43.8%。 IT之家注意到，上汽乘用车成为今年第 5 家狭义乘用车销量破百万辆的自主乘用车厂商，前 4 家分别为比亚迪汽车、吉利汽车、奇瑞汽车、长安汽车。",
+   "published_at": 1794376060.0,
+   "published_bj": "2026-11-11 13:47"
+  },
+  {
+   "id": "3500222e4f3867d6",
+   "source": "IT之家",
+   "title": "999 → 679 元：小米 REDMI 17 入门级 5G 手机京东国补新低，高刷大屏长续航",
+   "url": "https://www.ithome.com/1/025/405.htm",
+   "summary": "14:00~18:00 开启活动 小米入门级 5G 智能手机 REDMI 17 5G 今年 8 月上市，配备 6.9 英寸高刷大屏、6300mAh 超大电池。 4+128GB 版上市价 999 元，6+128GB 版 1199 元。 今日京东 11.11 直降至 799 元起，叠加国补后仅需 679 元起： 京东 小米 Redmi 17 5G 4+128 蓝 折后 679 元 直达链接 京东 11.11 红包至高 26888 元无门槛可用，每天可抽一次： 点此抽取 。 屏幕方面，REDMI 17 5G 配备一块 6.9 英寸 HD LCD 显示屏，分辨率为 1600×720，支持 120Hz ",
+   "published_at": 1794375845.0,
+   "published_bj": "2026-11-11 13:44"
+  },
+  {
+   "id": "39b027699e0a51d1",
+   "source": "cnBeta",
+   "title": "中国科学家研发电刺激生发梳：结合基因疗法 28天让小鼠毛发大面积恢复",
+   "url": "https://www.cnbeta.com.tw/articles/science/1585866.htm",
+   "summary": "脱发治疗领域出现了一项颇具新意的研究成果。中国北京航空航天大学等机构的研究人员开发出一种名为Detangle的电刺激生发梳，通过微弱电脉冲将特定遗传物质输送到毛囊深处，同时刺激与毛发生长有关的生物通路。在小鼠实验中，这种装置仅需每三天使用一次，28天后便使实验区域的毛发覆盖率接近恢复正常，效果甚至优于实验中每天使用的米诺地尔。 阅读全文",
+   "published_at": 1794375645.0,
+   "published_bj": "2026-11-11 13:40"
+  },
+  {
+   "id": "1d2e747b54bd2676",
+   "source": "cnBeta",
+   "title": "Apple Intelligence将对超额使用收取额外的费用 订阅iCloud+套餐会包含更多额度",
+   "url": "https://www.cnbeta.com.tw/articles/tech/1585864.htm",
+   "summary": "据苹果发布的支持文档，部分依赖云端模型的Apple Intelligence功能设有每日使用限制，未来用户可以付费获得更多使用额度。涉及的功能包括但不限于 Siri AI、图乐园、照片智能编辑工具和快捷指令中的云端模型。 阅读全文",
+   "published_at": 1794375600.0,
+   "published_bj": "2026-11-11 13:40"
+  },
+  {
+   "id": "96fe4ffb4654f93f",
+   "source": "cnBeta",
+   "title": "AI智能体疯狂访问网站却不带来真实流量 Cloudflare首席执行官警告网站成本上涨",
+   "url": "https://www.cnbeta.com.tw/articles/tech/1585862.htm",
+   "summary": "网络服务商 Cloudflare 首席执行官马修普林斯日前表示，随着 AI 智能体越来越多地代替用户浏览器浏览网页，部分网站正在面临新的成本压力：智能体访问网站、读取内容并消耗服务器资源，但最终可能直接向用户给出答案，网站没有得到实际访客和真实流量，也没有获得收益。 阅读全文",
+   "published_at": 1794375567.0,
+   "published_bj": "2026-11-11 13:39"
+  },
+  {
+   "id": "d9a895b1d0f4563c",
+   "source": "cnBeta",
+   "title": "OpenAI进军本地商业展示市场推出ChatGPT企业信息主页功能",
+   "url": "https://www.cnbeta.com.tw/articles/tech/1585860.htm",
+   "summary": "OpenAI宣布推出名为“Businesses in ChatGPT（ChatGPT企业信息）”的测试版服务，为企业提供专属的商业信息管理平台。这一举措被视为直接挑战Google多年来在搜索和地图服务中建立的Google Business Profiles（企业商家资料）体系。随着ChatGPT周活跃用户规模达到12亿，OpenAI正试图将这一庞大流量入口打造成为企业触达潜在客户的新渠道。 阅读全文",
+   "published_at": 1794375450.0,
+   "published_bj": "2026-11-11 13:37"
+  },
+  {
+   "id": "018d7d34d362d098",
+   "source": "IT之家",
+   "title": "Adobe Photoshop 迎来 AI 进化：照片能重新打光，删物体还能清理倒影",
+   "url": "https://www.ithome.com/1/025/403.htm",
+   "summary": "IT之家 11 月 11 日消息，美国当地时间昨日（11 月 10 日）召开的 Adobe MAX 2026 大会上， Adobe 宣布为 Photoshop、Premiere、Lightroom、Illustrator、InDesign 等创意软件带来一波 AI 新功能，覆盖照片重打光、视频拆音轨、闭眼修复、自动剪辑和多人协同设计等场景。 IT之家援引博文介绍，Photoshop 新增“重新调光”（Relight）工具，可为照片添加光源，并调整位置、颜色和亮度，且修改不破坏原图；“生成式重塑”（Generative Restyle）则能根据文字描述生成多种风格变化，再用滑块调整强度。 升级后",
+   "published_at": 1794375277.0,
+   "published_bj": "2026-11-11 13:34"
+  },
+  {
+   "id": "e41ddb5661440a90",
+   "source": "IT之家",
+   "title": "部分用户反馈使用苹果首款触控 MacBook Pro 后出现不适，原因指向屏幕调光",
+   "url": "https://www.ithome.com/1/025/402.htm",
+   "summary": "IT之家 11 月 11 日消息，科技媒体 AppleInsider 昨日（11 月 10 日）发布博文， 部分用户反馈在使用搭载 PROLED XDR 显示屏的苹果首款触控 MacBook Pro 后，出现眼疲劳、头痛等不适症状。 该媒体从苹果售后渠道获悉，多家 Apple Store 零售店的天才吧（Genius Bar）已收到相关投诉，部分零售商也观察到退货率略有上升，不过该报道未提供具体投诉数量及退货统计。 该媒体深入研究后，认为导致用户使用后出现不适症状的根源，在于屏幕采用的脉冲宽度调制（PWM）技术。IT之家援引博文介绍，这种调光方式通过快速改变发光单元的亮灭时间控制亮度，即使肉眼",
+   "published_at": 1794375089.0,
+   "published_bj": "2026-11-11 13:31"
+  },
+  {
+   "id": "6c27007607aad387",
+   "source": "Hacker News",
+   "title": "Greg Kurtzer's Ginux is now a userspace kernel",
+   "url": "https://github.com/gmkurtzer/ginux",
+   "summary": "Article URL: https://github.com/gmkurtzer/ginux Comments URL: https://news.ycombinator.com/item?id=50450007 Points: 4 # Comments: 0",
+   "published_at": 1794374754.0,
+   "published_bj": "2026-11-11 13:25"
+  },
+  {
+   "id": "a75318cbf61ead0e",
+   "source": "IT之家",
+   "title": "特斯拉推出 Cybertruck 遥控模型车、2.5 代人形机器人摆件，199 元起",
+   "url": "https://www.ithome.com/1/025/401.htm",
+   "summary": "IT之家 11 月 11 日消息，特斯拉今日宣布在官网商城推出 Cybertruck 遥控模型车、全新 2.5 代特斯拉人形机器人摆件。 IT之家从商品页面了解到，Tesla Cybertruck 遥控模型车 1:10 还原标志性不锈钢棱角造型，PC 材质车壳，尺寸为 56.5 x 25.0 x 20.5 cm， 定价 1,769 元 。 Tesla Cybertruck 遥控模型车搭载 无刷电机、四轮驱动和独立悬挂 ；2.4G 遥控系统，最远 99.4 米控制距离；配合陀螺仪防甩尾功能，帮助防止甩尾。 Tesla Cybertruck 遥控模型车内置 11.1V 3400mAh 锂电池， 最",
+   "published_at": 1794374510.0,
+   "published_bj": "2026-11-11 13:21"
+  },
+  {
+   "id": "297585797adacfd8",
+   "source": "IT之家",
+   "title": "2026 世界计算大会 11 月 19 日长沙举行：首设太空计算论坛，具身智能机器人、脑机接口将亮相",
+   "url": "https://www.ithome.com/1/025/399.htm",
+   "summary": "IT之家 11 月 11 日消息，湖南省政府新闻办今日召开新闻发布会，宣布 2026 世界计算大会将于 11 月 19 日至 21 日在长沙国际会议中心举行。 本届大会以“计算万物湘约未来 —— 打造智能经济新形态”为主题，设置“1+5+N+1”共 21 场主题活动。 大会核心议程围绕“十五五”时期计算产业发展方向展开解读，将集中发布计算产业分析、算力发展趋势、计算行业标准等一批研究报告，以及算电协同、基础设施、计算软硬件等产业成果。 主题论坛覆盖计算芯片、算电协同、AI 服务器、具身智能计算等领域，其中太空计算与海洋计算声学为首次设立。开幕式暨主旨论坛拟邀请诺贝尔奖获得者、中外院士及国内外领",
+   "published_at": 1794372799.0,
+   "published_bj": "2026-11-11 12:53"
+  },
+  {
    "id": "b6b3fd3c4c7319bc",
    "source": "IT之家",
    "title": "AirPods 耳机充电盒秒变苹果 Mac 无线鼠标：体感移动 + 轻敲点击，还能“打鸭子”",
@@ -65,6 +182,15 @@
    "summary": "IT之家 11 月 11 日消息，比亚迪汽车官方今日发布了《关于大唐部分车辆轮辋装配问题的声明》，针对部分用户反馈的轮辋装配异常情况作出官方回应。 经核查，该问题确认为供应商环节失误导致。比亚迪声明指出，该问题系轮辋分装供应商湖北铂遇实业有限公司编码录入失误，造成部分车辆错装。 对此，比亚迪已第一时间开展排查和编码修正，确保后续批次不再出现同类问题。同时，该供应商新增产线视觉防错等机制，以长效规避此类差错。 在安全性方面，比亚迪表示经专项检测，涉及车辆不影响操控，行驶无安全风险。针对受影响的车辆，官方将邀请车主前往当地服务门店进行免费检测，并对轮辋进行专业调换。 为补偿车主，比亚迪承诺在车辆检",
    "published_at": 1794371743.0,
    "published_bj": "2026-11-11 12:35"
+  },
+  {
+   "id": "1f753618d0faa407",
+   "source": "Hacker News",
+   "title": "Protecting SSH Keys with macOS Secure Enclave",
+   "url": "https://gatezh.com/posts/macos-secure-enclave-ssh-keys/",
+   "summary": "Article URL: https://gatezh.com/posts/macos-secure-enclave-ssh-keys/ Comments URL: https://news.ycombinator.com/item?id=50449748 Points: 40 # Comments: 8",
+   "published_at": 1794371337.0,
+   "published_bj": "2026-11-11 12:28"
   },
   {
    "id": "5367699b461291f6",
