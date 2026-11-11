@@ -1,0 +1,25 @@
+{
+ "date": "2026-11-12",
+ "generated_at": 1794388596.7224743,
+ "count": 2,
+ "items": [
+  {
+   "id": "f0a3921e4580b5b8",
+   "source": "InfoQ中文",
+   "title": "Datadog 推出面向 SRE 故障排查的专用 AI 模型",
+   "url": "https://www.infoq.cn/article/py4PRbBWJSPm5aV10gHq?utm_source=rss&utm_medium=article",
+   "summary": "点击查看原文>",
+   "published_at": 1794416400.0,
+   "published_bj": "2026-11-12 01:00"
+  },
+  {
+   "id": "440dd5a663011ebf",
+   "source": "InfoQ中文",
+   "title": "多云 FinOps：一种用于跨云成本优化的工程框架",
+   "url": "https://www.infoq.cn/article/0qQcqvV13GtRKGgmsPqW?utm_source=rss&utm_medium=article",
+   "summary": "点击查看原文>",
+   "published_at": 1794415772.0,
+   "published_bj": "2026-11-12 00:49"
+  }
+ ]
+}
