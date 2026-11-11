@@ -1,8 +1,17 @@
 {
  "date": "2026-11-11",
- "generated_at": 1794415994.1732163,
+ "generated_at": 1794418595.0465949,
  "count": 400,
  "items": [
+  {
+   "id": "74486fb194300448",
+   "source": "Hacker News",
+   "title": "The Computer Graphics Book of Knowledge",
+   "url": "https://www.cs.cmu.edu/~ph/nyit/masson/history.htm",
+   "summary": "Article URL: https://www.cs.cmu.edu/~ph/nyit/masson/history.htm Comments URL: https://news.ycombinator.com/item?id=50454823 Points: 13 # Comments: 0",
+   "published_at": 1794412202.0,
+   "published_bj": "2026-11-11 23:50"
+  },
   {
    "id": "b8d8f021b207bae2",
    "source": "cnBeta",
@@ -20,6 +29,15 @@
    "summary": "11月11日，中国汽车工业协会（以下简称“中汽协”）发布10月汽车工业产销数据。10月，汽车市场“内冷外热”的运行态势仍在延续。国内市场需求释放不足，汽车出口保持较强韧性，新能源汽车销量占比进一步提升。 阅读全文",
    "published_at": 1794411415.0,
    "published_bj": "2026-11-11 23:36"
+  },
+  {
+   "id": "6ab126409e002b4e",
+   "source": "Hacker News",
+   "title": "Show HN: Yogurt – Free, private, open-source alternative to Granola",
+   "url": "https://github.com/FrigadeHQ/yogurt",
+   "summary": "Hey HN, I’m Eric and I want to share an OSS project that I’ve been building in my free time. Yogurt is a free, MIT licensed desktop app that uses on-device AI models to transcribe, summarize, and chat with your meetings. Similar to Granola, Yogurt runs in the background and does not join your calls.",
+   "published_at": 1794411186.0,
+   "published_bj": "2026-11-11 23:33"
   },
   {
    "id": "99f8a2e1b9efddeb",
@@ -3584,24 +3602,6 @@
    "summary": "R星已为《GTA6》启动预载，并发布“Pre-Load Now”宣传片，公开部分此前未展示的画面。本作将于11月19日登陆PS5和XSX|S，数字版预购用户可以提前下载文件，但无法提前进入游戏。 阅读全文",
    "published_at": 1794345251.0,
    "published_bj": "2026-11-11 05:14"
-  },
-  {
-   "id": "0d2dd8bdc880448f",
-   "source": "cnBeta",
-   "title": "Anthropic七名联合创始人拟在重磅IPO中套现17.5亿美元",
-   "url": "https://www.cnbeta.com.tw/articles/tech/1585846.htm",
-   "summary": "根据周二公布的最新招股书，Anthropic的七名联合创始人将在下周的首次公开募股中合计出售价值17.5亿美元的股票。按IPO发行价区间中点计算，每位联合创始人拟出售价值约2.5亿美元的股票。据亿万富翁指数，按这一估值计算，每人的净资产将达到约180亿美元。 阅读全文",
-   "published_at": 1794345234.0,
-   "published_bj": "2026-11-11 05:13"
-  },
-  {
-   "id": "51659d23a6092f35",
-   "source": "cnBeta",
-   "title": "Anthropic进军人工智能办公软件 IPO前与微软谷歌竞争升温",
-   "url": "https://www.cnbeta.com.tw/articles/tech/1585844.htm",
-   "summary": "Anthropic推出一系列工具，进一步将人工智能（AI）融入日常办公，与微软和谷歌展开更直接的竞争。这些功能将于周二Anthropic的一场活动上发布，包括视频通话助手、数据仪表板工具，以及名为Claude Sheets的电子表格服务。Claude Sheets与微软Excel和谷歌Sheets非常相似，但内置Anthropic的AI功能。许多新工具将以测试版形式向付费用户开放。 阅读全文",
-   "published_at": 1794345139.0,
-   "published_bj": "2026-11-11 05:12"
   }
  ]
 }

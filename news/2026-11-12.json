@@ -1,7 +1,7 @@
 {
  "date": "2026-11-12",
- "generated_at": 1794415994.1699107,
- "count": 12,
+ "generated_at": 1794418595.0437896,
+ "count": 19,
  "items": [
   {
    "id": "4cf6fcf3d01b74a7",
@@ -76,6 +76,15 @@
    "published_bj": "2026-11-12 01:23"
   },
   {
+   "id": "3167b9406d2b92e6",
+   "source": "Hacker News",
+   "title": "Launch HN: Pomerado (YC F26) – Turn any website into an MCP for agents",
+   "url": "https://news.ycombinator.com/item?id=50455811",
+   "summary": "Hi HN, we’re Alan and Akshay from Pomerado ( https://pomerado.ai/ ). We connect your agents to any website by turning sites into deterministic, self-healing APIs in minutes, fully self-serve. Agents are no longer limited by their intelligence, but rather by their ability to interact with systems. Ai",
+   "published_at": 1794417116.0,
+   "published_bj": "2026-11-12 01:11"
+  },
+  {
    "id": "f0a3921e4580b5b8",
    "source": "InfoQ中文",
    "title": "Datadog 推出面向 SRE 故障排查的专用 AI 模型",
@@ -85,6 +94,15 @@
    "published_bj": "2026-11-12 01:00"
   },
   {
+   "id": "f459415f0a497a11",
+   "source": "Hacker News",
+   "title": "Faster Retrieval for Better, More Efficient RAG",
+   "url": "https://machinelearning.apple.com/research/faster-retrieval",
+   "summary": "Article URL: https://machinelearning.apple.com/research/faster-retrieval Comments URL: https://news.ycombinator.com/item?id=50455633 Points: 3 # Comments: 0",
+   "published_at": 1794416265.0,
+   "published_bj": "2026-11-12 00:57"
+  },
+  {
    "id": "440dd5a663011ebf",
    "source": "InfoQ中文",
    "title": "多云 FinOps：一种用于跨云成本优化的工程框架",
@@ -92,6 +110,24 @@
    "summary": "点击查看原文>",
    "published_at": 1794415772.0,
    "published_bj": "2026-11-12 00:49"
+  },
+  {
+   "id": "37025e568ee9d5ef",
+   "source": "Hacker News",
+   "title": "A false smoke alarm almost drowned Jane Street's only NYC datacenter",
+   "url": "https://michael.bacarella.com/2026/11/10/false-smoke-alarm-jane-street-datacenter/",
+   "summary": "Article URL: https://michael.bacarella.com/2026/11/10/false-smoke-alarm-jane-street-datacenter/ Comments URL: https://news.ycombinator.com/item?id=50455394 Points: 60 # Comments: 24",
+   "published_at": 1794415124.0,
+   "published_bj": "2026-11-12 00:38"
+  },
+  {
+   "id": "cb6bea5e04269c29",
+   "source": "Hacker News",
+   "title": "Reddit Migration's Impact on Lemmy (2023)",
+   "url": "https://www.jmis.org/archive/view_article?pid=jmis-10-4-333",
+   "summary": "Article URL: https://www.jmis.org/archive/view_article?pid=jmis-10-4-333 Comments URL: https://news.ycombinator.com/item?id=50455358 Points: 8 # Comments: 4",
+   "published_at": 1794414938.0,
+   "published_bj": "2026-11-12 00:35"
   },
   {
    "id": "58683abdc4298078",
@@ -110,6 +146,33 @@
    "summary": "Sales of $10B represents an almost 50% jump from revenue of $6.7 billion the company recorded in the second quarter.",
    "published_at": 1794413684.0,
    "published_bj": "2026-11-12 00:14"
+  },
+  {
+   "id": "f8598f90cd1d73be",
+   "source": "Hacker News",
+   "title": "Multiple remote code execution vulnerabilities in danfoss sm-800A",
+   "url": "https://www.midnightblue.nl/blog/multiple-rce-danfoss-aksm800a",
+   "summary": "Article URL: https://www.midnightblue.nl/blog/multiple-rce-danfoss-aksm800a Comments URL: https://news.ycombinator.com/item?id=50455031 Points: 3 # Comments: 0",
+   "published_at": 1794413294.0,
+   "published_bj": "2026-11-12 00:08"
+  },
+  {
+   "id": "a3906798101a60a4",
+   "source": "Hacker News",
+   "title": "The hardest notes to find on the guitar fretboard",
+   "url": "https://www.gitori.com/blog/articles/hardest-notes-on-the-guitar-fretboard",
+   "summary": "Article URL: https://www.gitori.com/blog/articles/hardest-notes-on-the-guitar-fretboard Comments URL: https://news.ycombinator.com/item?id=50454995 Points: 13 # Comments: 4",
+   "published_at": 1794413118.0,
+   "published_bj": "2026-11-12 00:05"
+  },
+  {
+   "id": "6863c7256634cd97",
+   "source": "Hacker News",
+   "title": "Show HN: Klad, a paint app your coding agent can drive (source-available)",
+   "url": "https://github.com/klad-app/klad",
+   "summary": "I've been developing applications for a long time and have turned to game development as well lately. One of the things that frustrated me the most was that using AI agents for game development is very annoying in the art department. Your only options right now are to either use an image genAI model",
+   "published_at": 1794412850.0,
+   "published_bj": "2026-11-12 00:00"
   }
  ]
 }
