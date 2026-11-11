@@ -1,7 +1,7 @@
 {
  "date": "2026-11-12",
- "generated_at": 1794418595.0437896,
- "count": 19,
+ "generated_at": 1794421741.6244817,
+ "count": 22,
  "items": [
   {
    "id": "4cf6fcf3d01b74a7",
@@ -47,6 +47,33 @@
    "summary": "点击查看原文>",
    "published_at": 1794421980.0,
    "published_bj": "2026-11-12 02:33"
+  },
+  {
+   "id": "994b7177eaae0d2a",
+   "source": "cnBeta",
+   "title": "IBM公布新一代量子处理器路线图 目标实现万次量子操作并突破千量子比特",
+   "url": "https://www.cnbeta.com.tw/articles/tech/1585986.htm",
+   "summary": "IBM近日发布新一代量子处理器Nighthawk r3，并公布了未来量子计算发展计划。这款全新处理器被设计为能够执行多达10000次量子操作，在保持运算质量和速度的同时处理更加复杂的大规模计算任务，标志着IBM向容错量子计算目标迈出了重要一步。 阅读全文",
+   "published_at": 1794421457.0,
+   "published_bj": "2026-11-12 02:24"
+  },
+  {
+   "id": "7a00ce03981ada2d",
+   "source": "Hacker News",
+   "title": "AWS Finally Built Its Own AWS Emulator",
+   "url": "https://github.com/aws/aws-emulator",
+   "summary": "Article URL: https://github.com/aws/aws-emulator Comments URL: https://news.ycombinator.com/item?id=50456631 Points: 3 # Comments: 1",
+   "published_at": 1794421298.0,
+   "published_bj": "2026-11-12 02:21"
+  },
+  {
+   "id": "c31d073e277d9ecf",
+   "source": "IT之家",
+   "title": "沈阳背景叙事解谜《Hope in the City》Steam 发售：首发特惠 ¥68.4，首日加入 XGP",
+   "url": "https://www.ithome.com/1/025/824.htm",
+   "summary": "IT之家 11 月 12 日消息，Lofty Sky Entertainment Inc. 开发、Lofty Sky Entertainment Inc. 与 NAGA Games 联合发行的叙事解谜游戏《Hope in the City》已于 11 月 11 日正式登陆 Steam 平台，国区现已开放购买，商品页（ https://store.steampowered.com/app/3610790/Hope_in_the_City/ ）已可访问，未锁国区。 游戏同步登陆 Xbox Series X|S 与 Xbox PC 商店，并于首日加入 Xbox Game Pass 订阅服务（XGP）",
+   "published_at": 1794420796.0,
+   "published_bj": "2026-11-12 02:13"
   },
   {
    "id": "680d32533e929aec",
