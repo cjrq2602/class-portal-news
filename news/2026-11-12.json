@@ -1,8 +1,35 @@
 {
  "date": "2026-11-12",
- "generated_at": 1794392388.6728437,
- "count": 5,
+ "generated_at": 1794395899.2217314,
+ "count": 8,
  "items": [
+  {
+   "id": "e9f84de93ae3740c",
+   "source": "InfoQ中文",
+   "title": "上下文也是成本：Agent 效率优化的新思路 ｜ 技术趋势",
+   "url": "https://www.infoq.cn/article/iaCUbU8Fwz6G6bDlQ9BV?utm_source=rss&utm_medium=article",
+   "summary": "点击查看原文>",
+   "published_at": 1794423946.0,
+   "published_bj": "2026-11-12 03:05"
+  },
+  {
+   "id": "82d157eb592209c3",
+   "source": "InfoQ中文",
+   "title": "从 AI 工具到业务落地：兰州安宁 OPC 大会将聚焦 FDE 实践与企业 AI 转型",
+   "url": "https://www.infoq.cn/article/P2UWjVdAmPzOBaxd0v4f?utm_source=rss&utm_medium=article",
+   "summary": "点击查看原文>",
+   "published_at": 1794422177.0,
+   "published_bj": "2026-11-12 02:36"
+  },
+  {
+   "id": "9359ce282096762a",
+   "source": "InfoQ中文",
+   "title": "如何提升 AI 的环境可持续性",
+   "url": "https://www.infoq.cn/article/GUXzTTTFvwWY7yx6WMyS?utm_source=rss&utm_medium=article",
+   "summary": "点击查看原文>",
+   "published_at": 1794421980.0,
+   "published_bj": "2026-11-12 02:33"
+  },
   {
    "id": "680d32533e929aec",
    "source": "InfoQ中文",
