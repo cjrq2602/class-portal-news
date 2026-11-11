@@ -1,7 +1,7 @@
 {
  "date": "2026-11-12",
- "generated_at": 1794421741.6244817,
- "count": 22,
+ "generated_at": 1794425969.749592,
+ "count": 29,
  "items": [
   {
    "id": "4cf6fcf3d01b74a7",
@@ -20,6 +20,42 @@
    "summary": "点击查看原文>",
    "published_at": 1794430365.0,
    "published_bj": "2026-11-12 04:52"
+  },
+  {
+   "id": "8360d86161a1ce9f",
+   "source": "TechCrunch",
+   "title": "With $720M round, Britain’s Fractile gets a leg up in the race for AI chips",
+   "url": "https://techcrunch.com/2026/11/11/with-720m-round-britains-fractile-gets-a-leg-up-in-the-race-for-ai-chips/",
+   "summary": "Fractile has now become one of the top-funded players in the race for purpose-built AI chips.",
+   "published_at": 1794425695.0,
+   "published_bj": "2026-11-12 03:34"
+  },
+  {
+   "id": "db76c506de656697",
+   "source": "cnBeta",
+   "title": "英特尔256核至强Diamond Rapids处理器真身曝光",
+   "url": "https://www.cnbeta.com.tw/articles/tech/1585988.htm",
+   "summary": "英特尔下一代服务器处理器Xeon 7“Diamond Rapids”近日首次以实体形式公开亮相。网络流传的照片显示，这款面向未来数据中心和人工智能基础设施打造的旗舰级处理器已经完成封装，标志着产品研发正稳步迈向正式发布阶段。 阅读全文",
+   "published_at": 1794425408.0,
+   "published_bj": "2026-11-12 03:30"
+  },
+  {
+   "id": "7de891134c54a4ba",
+   "source": "TechCrunch",
+   "title": "Congress to call Jensen Huang in to answer for alleged Chinese spy affair",
+   "url": "https://techcrunch.com/2026/11/11/congress-to-call-jensen-huang-in-to-answer-for-alleged-chinese-spy-affair/",
+   "summary": "Nvidia CEO Jensen Huang has until the end of the day Wednesday to answer a call from House Republicans for a closed-door briefing on his affair with alleged Chinese spy.",
+   "published_at": 1794424942.0,
+   "published_bj": "2026-11-12 03:22"
+  },
+  {
+   "id": "dfe309356c2e20d6",
+   "source": "Hacker News",
+   "title": "Show HN: I recreated Papers Please but you're deciding which YC startups to fund",
+   "url": "https://termsheetplease.com/",
+   "summary": "Article URL: https://termsheetplease.com/ Comments URL: https://news.ycombinator.com/item?id=50457230 Points: 10 # Comments: 0",
+   "published_at": 1794424336.0,
+   "published_bj": "2026-11-12 03:12"
   },
   {
    "id": "e9f84de93ae3740c",
@@ -47,6 +83,15 @@
    "summary": "点击查看原文>",
    "published_at": 1794421980.0,
    "published_bj": "2026-11-12 02:33"
+  },
+  {
+   "id": "afeca8908a49ea2d",
+   "source": "Hacker News",
+   "title": "AWS Emulator and the engineer's job when agents write the code",
+   "url": "https://www.allthingsdistributed.com/2026/11/aws-emulator-and-the-engineers-job-when-agents-write-the-code.html",
+   "summary": "Article URL: https://www.allthingsdistributed.com/2026/11/aws-emulator-and-the-engineers-job-when-agents-write-the-code.html Comments URL: https://news.ycombinator.com/item?id=50456740 Points: 47 # Comments: 2",
+   "published_at": 1794421711.0,
+   "published_bj": "2026-11-12 02:28"
   },
   {
    "id": "994b7177eaae0d2a",
@@ -92,6 +137,15 @@
    "summary": "点击查看原文>",
    "published_at": 1794418857.0,
    "published_bj": "2026-11-12 01:40"
+  },
+  {
+   "id": "fb8a45595d128aa5",
+   "source": "Hacker News",
+   "title": "The Power and Legacy of Virginia Tech's Mac-Based Supercomputers",
+   "url": "https://512pixels.net/2026/11/va-tech-system-x-system-g/",
+   "summary": "Article URL: https://512pixels.net/2026/11/va-tech-system-x-system-g/ Comments URL: https://news.ycombinator.com/item?id=50456010 Points: 10 # Comments: 0",
+   "published_at": 1794418247.0,
+   "published_bj": "2026-11-12 01:30"
   },
   {
    "id": "826686bca21c954a",
@@ -155,6 +209,15 @@
    "summary": "Article URL: https://www.jmis.org/archive/view_article?pid=jmis-10-4-333 Comments URL: https://news.ycombinator.com/item?id=50455358 Points: 8 # Comments: 4",
    "published_at": 1794414938.0,
    "published_bj": "2026-11-12 00:35"
+  },
+  {
+   "id": "03899961b901eeeb",
+   "source": "Hacker News",
+   "title": "AI, activity, and outcomes in software engineering",
+   "url": "https://cabird.com/talks/shipping-faster/",
+   "summary": "https://www.youtube.com/watch?v=0wumMeZsNsI Comments URL: https://news.ycombinator.com/item?id=50455332 Points: 64 # Comments: 81",
+   "published_at": 1794414808.0,
+   "published_bj": "2026-11-12 00:33"
   },
   {
    "id": "58683abdc4298078",
