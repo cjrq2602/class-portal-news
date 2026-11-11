@@ -1,8 +1,35 @@
 {
  "date": "2026-11-12",
- "generated_at": 1794388596.7224743,
- "count": 2,
+ "generated_at": 1794392388.6728437,
+ "count": 5,
  "items": [
+  {
+   "id": "680d32533e929aec",
+   "source": "InfoQ中文",
+   "title": "工程师招聘跌至巅峰时期一半！Manus 取消传统编程面试，产品经理开始直接写代码",
+   "url": "https://www.infoq.cn/article/HKFSZ6a0DM97BV7FXP2t?utm_source=rss&utm_medium=article",
+   "summary": "点击查看原文>",
+   "published_at": 1794419224.0,
+   "published_bj": "2026-11-12 01:47"
+  },
+  {
+   "id": "54bc730a0b33b948",
+   "source": "InfoQ中文",
+   "title": "Agent 正在终结 Pull Request？连 GitHub 也开始重新审视传统开发流程",
+   "url": "https://www.infoq.cn/article/x0B056QFxzYEewT1Et34?utm_source=rss&utm_medium=article",
+   "summary": "点击查看原文>",
+   "published_at": 1794418857.0,
+   "published_bj": "2026-11-12 01:40"
+  },
+  {
+   "id": "826686bca21c954a",
+   "source": "InfoQ中文",
+   "title": "面向产业决策的升级：蚂蚁数科LingDT-Decision 首发信息抽取能力",
+   "url": "https://www.infoq.cn/article/7wd1IyRiffi1vPz6goHS?utm_source=rss&utm_medium=article",
+   "summary": "点击查看原文>",
+   "published_at": 1794417799.0,
+   "published_bj": "2026-11-12 01:23"
+  },
   {
    "id": "f0a3921e4580b5b8",
    "source": "InfoQ中文",
