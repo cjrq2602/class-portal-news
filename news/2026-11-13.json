@@ -1,8 +1,26 @@
 {
  "date": "2026-11-13",
- "generated_at": 1794505568.4655578,
- "count": 23,
+ "generated_at": 1794509122.1274343,
+ "count": 25,
  "items": [
+  {
+   "id": "af09eec475b2f52e",
+   "source": "TechCrunch",
+   "title": "Jensen Huang’s exit puts Nvidia’s support for open source in question",
+   "url": "https://techcrunch.com/2026/11/12/jensen-huangs-exit-puts-nvidias-support-for-open-source-in-question/",
+   "summary": "Jensen Huang’s resignation raises questions about Nvidia’s commitment to open-source AI, including its Hugging Face acquisition, open-weight models, and advocacy against restrictions, as the company navigates a leadership transition.",
+   "published_at": 1794508763.0,
+   "published_bj": "2026-11-13 02:39"
+  },
+  {
+   "id": "1a2305297621c7b6",
+   "source": "cnBeta",
+   "title": "三星结束近四年反向无线充电专利诉讼 Wireless PowerShare侵权争议庭外和解",
+   "url": "https://www.cnbeta.com.tw/articles/tech/1586132.htm",
+   "summary": "三星电子围绕Galaxy手机反向无线充电功能展开的一场专利诉讼，终于在持续近四年后画上句号。三星、专利持有方WiPQTUS Inc.以及日本半导体企业瑞萨电子（Renesas Electronics）已经达成庭外和解，三方同意撤销所有相关诉讼请求，并承诺今后不再就同一争议事项相互提起诉讼。 阅读全文",
+   "published_at": 1794506762.0,
+   "published_bj": "2026-11-13 02:06"
+  },
   {
    "id": "51d18ff0f6e9956a",
    "source": "TechCrunch",
