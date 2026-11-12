@@ -1,8 +1,98 @@
 {
  "date": "2026-11-13",
- "generated_at": 1794522416.1202483,
- "count": 64,
+ "generated_at": 1794525660.7996933,
+ "count": 75,
  "items": [
+  {
+   "id": "5f61e3e826d63aec",
+   "source": "IT之家",
+   "title": "微软 365 核心服务全球性大规模瘫痪：Outlook、OneDrive、Teams 均受影响，正逐步重启恢复",
+   "url": "https://www.ithome.com/1/026/460.htm",
+   "summary": "IT之家 11 月 13 日消息，当地时间 11 月 12 日，微软旗下 Microsoft 365 多项核心云服务发生大规模故障，影响 Outlook、Exchange Online、Microsoft Teams、OneDrive、SharePoint、Microsoft 365 Copilot 等产品，全球多个地区用户均反馈无法正常访问服务，部分用户无法收发邮件、加载邮箱或访问云端文件。 故障发生后，监测网站 Downdetector 收到大量用户报障，其中 Outlook 的问题报告数量一度接近 13 万条。除邮件服务外，Microsoft Teams、Copilot 以及其他 Mic",
+   "published_at": 1794524952.0,
+   "published_bj": "2026-11-13 07:09"
+  },
+  {
+   "id": "615f6e2f758a4924",
+   "source": "IT之家",
+   "title": "乘联分会：11 月 1-8 日，全国乘用车市场新能源零售渗透率 74.9%",
+   "url": "https://www.ithome.com/1/026/459.htm",
+   "summary": "IT之家 11 月 13 日消息，乘联分会数据显示， 11 月 1-8 日，全国乘用车市场零售 29.3 万辆，同比去年 11 月同期下降 21%，较上月同期增长 2% ，今年以来累计零售 1,527 万辆，同比下降 22%；11 月 1-8 日，全国乘用车厂商批发 33.3 万辆，同比去年 11 月同期下降 20%，较上月同期增长 63%，今年以来累计批发 2,270.4 万辆，同比下降 6%。 IT之家从报告获悉，11 月 1-8 日，全国乘用车市场新能源零售 21.9 万辆，同比去年 11 月同期下降 7%，较上月同期增长 27%，今年以来累计零售 908.8 万辆，同比降 13%；11",
+   "published_at": 1794524890.0,
+   "published_bj": "2026-11-13 07:08"
+  },
+  {
+   "id": "5fe6b04483acca20",
+   "source": "IT之家",
+   "title": "马斯克回应网友喊话：若能聘请到黄仁勋，将是我的荣幸",
+   "url": "https://www.ithome.com/1/026/458.htm",
+   "summary": "IT之家 11 月 13 日消息，在 黄仁勋辞去英伟达公司总裁、首席执行官及董事会成员职务 前夕， 全球首富埃隆 · 马斯克（Elon Musk）公开表示，若能聘请到黄仁勋，将是自己的“荣幸”。 美国财经博客 Zerohedge 在 X 平台发文称“埃隆，请聘请黄仁勋”，马斯克随后回复：“那将是我的荣幸。” 马斯克今天还认同网友 @naval 的观点：“我们应该从史蒂夫 · 乔布斯和特拉维斯 · 卡兰尼克（Uber 联合创始人）的经历中吸取教训，那就是创始人不能简单地被替换掉……”IT之家附上相关截图如下： 延伸阅读 黄仁勋此次辞职的直接背景，是其此前公开承认婚外情，随后英伟达董事会成立了由独",
+   "published_at": 1794524725.0,
+   "published_bj": "2026-11-13 07:05"
+  },
+  {
+   "id": "b8f97fb798c33165",
+   "source": "IT之家",
+   "title": "路透社：黄仁勋与不只一位公司员工存在亲密关系，英伟达拒绝置评",
+   "url": "https://www.ithome.com/1/026/457.htm",
+   "summary": "IT之家 11 月 13 日消息，路透社今日报道称，除了昨天曝光的金伯利 · 鲍威尔（Kimberly Powell）外，黄仁勋还与另一名英伟达公司员工存在不正当亲密关系。 不过路透社并未公开这所谓“第二名员工”的姓名，记者也未能联系到她本人。英伟达方面拒绝置评，鲍威尔、黄仁勋以及英伟达董事会的一名代表也均未回复置评请求。 根据英伟达向美国证券交易委员会（SEC）提交的 8-K 文件，董事会于 2026 年 11 月 11 日接受了黄仁勋辞去总裁、CEO 及董事会成员职务的辞呈，即刻生效。 英伟达于当地时间 11 月 12 日对外宣布了这一决定。两项动作在时间上的先后关系，使得路透社的“第三段",
+   "published_at": 1794524399.0,
+   "published_bj": "2026-11-13 06:59"
+  },
+  {
+   "id": "7135e8c8e307d526",
+   "source": "IT之家",
+   "title": "币安宣布 63.4 亿美元被盗资产已全部补足，不会将损失转嫁给用户",
+   "url": "https://www.ithome.com/1/026/456.htm",
+   "summary": "IT之家 11 月 13 日消息，币安官方今日宣布，已完成此前安全事件中全部受影响数字资产的补足工作，并公布最新储备金证明（PoR）快照。 此次事件涉及约 63.4 亿美元 （IT之家注：现汇率约合 423.88 亿元人民币） 数字资产，币安表示，相关损失将由平台承担，不会转嫁给用户。 根据币安此前发布的官方公告，2026 年 10 月 29 日至 30 日期间，平台热钱包遭到攻击，攻击者通过未经授权的操作转移了价值约 63.4 亿美元的数字资产。币安随后启动资产补足工作，并动用用户安全资产基金（SAFU）、期货保险基金及公司自有资金承担相关损失。 币安于 11 月 12 日 08:00（北京",
+   "published_at": 1794523960.0,
+   "published_bj": "2026-11-13 06:52"
+  },
+  {
+   "id": "8c3fba2ac0de4b8d",
+   "source": "IT之家",
+   "title": "超 740 亿美元砸向 AI：马斯克的 SpaceX 不光造火箭，还要建超级算力帝国",
+   "url": "https://www.ithome.com/1/026/455.htm",
+   "summary": "IT之家 11 月 13 日消息，全球首富埃隆 · 马斯克（Elon Musk）旗下 SpaceX 公司昨日（11 月 12 日）宣布，计划在得克萨斯州和亚利桑那州投入超过 740 亿美元 （IT之家注：现汇率约合 4,947.49 亿元人民币） ， 建设两座面向人工智能的超级计算数据中心园区，标志着这家火箭公司正加速向 AI 算力基础设施扩张。 根据公告内容， SpaceX 计划投资超过 240 亿美元，在得克萨斯州星际基地（Starbase）附近建设超级计算设施 ，将建在 SpaceX 自有约 444 英亩土地上，用于训练前沿人工智能模型。SpaceX 表示，该设施将自建燃气发电能力，不依",
+   "published_at": 1794523924.0,
+   "published_bj": "2026-11-13 06:52"
+  },
+  {
+   "id": "97f09b58ca81d73a",
+   "source": "IT之家",
+   "title": "微软初代 Xbox 经典游戏登陆 PC：含《星球大战》《上古卷轴 3》等，兼容库扩至 25 款并首次引入成就系统",
+   "url": "https://www.ithome.com/1/026/454.htm",
+   "summary": "IT之家 11 月 13 日消息，当地时间 11 月 12 日，为庆祝 Xbox 品牌诞生 25 周年，微软宣布将 21 款初代 Xbox 游戏引入 PC 平台，使通过 Xbox 兼容计划（XBOX Backward Compatibility）登陆 PC 的初代 Xbox 游戏总数达到 25 款。 此次新增的 21 款作品中，星球大战 IP 占据了显著比重。据 Kotaku 统计，21 款里有 11 款为《星球大战》题材，涵盖《旧共和国武士》及其续作《西斯领主》、《前线》系列、《绝地武士》系列以及《共和国突击队》等。 非星战阵容则包括《上古卷轴 3：晨风》、《武装与危险》、《迪士尼的四眼天鸡",
+   "published_at": 1794523659.0,
+   "published_bj": "2026-11-13 06:47"
+  },
+  {
+   "id": "7e0824e12444c1a3",
+   "source": "IT之家",
+   "title": "SAG 报告 2026Q3 全球折叠手机出货量：三星 69% 份额傲视群雄，预估苹果改变 2027 市场格局",
+   "url": "https://www.ithome.com/1/026/453.htm",
+   "summary": "IT之家 11 月 13 日消息，市场调查机构 Smart Analytics Global（SAG）昨日（11 月 11 日）发布博文， 报告显示，2026 年第三季度全球可折叠智能手机出货量超过 750 万部，同比下降 2%。 细分到品牌方面，三星以 69% 的出货量份额继续稳居全球第一，创下 2023 年以来最高水平；华为以约 14% 位居第二，联想摩托罗拉则巩固第三名位置。 三星本季度的表现尤为亮眼：出货量同比增长 13%，新发布的 Galaxy Z Fold8 贡献了全球折叠屏手机出货量的一半以上。该机型也被视为三星首款“宽屏折叠”产品，帮助其在韩国和欧洲市场实现两位数增长。 该机构",
+   "published_at": 1794523407.0,
+   "published_bj": "2026-11-13 06:43"
+  },
+  {
+   "id": "999400782d19cd70",
+   "source": "TechCrunch",
+   "title": "Democrats launch Nvidia investigation, write scathing letter on Huang’s ‘scheme’ with Trump",
+   "url": "https://techcrunch.com/2026/11/12/democrats-launch-nvidia-investigation-write-scathing-letter-on-huangs-scheme-with-trump/",
+   "summary": "This Congressional investigation into Nvidia's China sales and its dealings with Trump is the second one, so far, since news of the alleged spy affair broke.",
+   "published_at": 1794523371.0,
+   "published_bj": "2026-11-13 06:42"
+  },
+  {
+   "id": "0365e2fa9d412b13",
+   "source": "IT之家",
+   "title": "曝马斯克推进 SpaceX 与特斯拉合并谈判：最快 12 月公布，有望成为全球规模最大企业合并交易之一",
+   "url": "https://www.ithome.com/1/026/452.htm",
+   "summary": "IT之家 11 月 13 日消息，据彭博社当地时间 11 月 12 日报道，马斯克旗下的两家核心企业正在推进合并谈判，双方董事会及顾问团队目前正就交易条款、合并后公司的治理结构等事项进行磋商。 知情人士透露，SpaceX 与特斯拉的合并谈判正在取得进展，双方有望于 12 月宣布合并协议，最迟可能推迟至 2027 年初。如果交易最终达成，将成为全球规模最大的企业合并交易之一。 报道称，双方谈判内容还包括 SpaceX 需要向特斯拉现有股东发行多少股份，以完成交易。特斯拉和 SpaceX 的代表均未立即回应置评请求。 如果合并完成，新公司将整合电动汽车、储能电池、火箭、卫星及人工智能等业务。两家公",
+   "published_at": 1794522593.0,
+   "published_bj": "2026-11-13 06:29"
+  },
   {
    "id": "4306fe3bb14479e4",
    "source": "TechCrunch",
@@ -20,6 +110,15 @@
    "summary": "IT之家 11 月 13 日消息，据 Semafor 当地时间 11 月 12 日报道，美国司法部正在开展的多项调查可能将英伟达（NVIDIA）纳入调查范围。 两名美国政府官员透露，在英伟达前 CEO 黄仁勋辞职引发的连锁反应持续发酵之际，美国司法部目前涉及英伟达、Megaspeed 和超微电脑（Supermicro）的多项调查正在推进。 其中，一项调查直接针对英伟达，重点涉及反垄断问题。另外两项调查则分别涉及科技企业 Megaspeed 和超微电脑，调查重点包括 Alice Huang 的相关活动。 Semafor 指出，目前没有迹象表明美国司法部计划以刑事罪名起诉英伟达或黄仁勋。现阶段，针",
    "published_at": 1794521892.0,
    "published_bj": "2026-11-13 06:18"
+  },
+  {
+   "id": "7d72ae6e3250faf4",
+   "source": "Hacker News",
+   "title": "Chinese frontier AI models carry the fingerprint of export-controlled GPUs",
+   "url": "https://unemploymentlabs.com/checkpoint-forensics",
+   "summary": "Article URL: https://unemploymentlabs.com/checkpoint-forensics Comments URL: https://news.ycombinator.com/item?id=50474883 Points: 66 # Comments: 15",
+   "published_at": 1794520571.0,
+   "published_bj": "2026-11-13 05:56"
   },
   {
    "id": "48590d3cbb28ec95",

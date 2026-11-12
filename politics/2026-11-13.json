@@ -1,8 +1,35 @@
 {
  "date": "2026-11-13",
- "generated_at": 1794522417.4938686,
- "count": 14,
+ "generated_at": 1794525662.5242462,
+ "count": 17,
  "items": [
+  {
+   "id": "38a2db0e2a0b020d",
+   "source": "中新网即时",
+   "title": "11月13日新闻早报",
+   "url": "https://www.chinanews.com.cn/iframe/2026/11-13/10731247.shtml",
+   "summary": "",
+   "published_at": 1794524431.0,
+   "published_bj": "2026-11-13 07:00"
+  },
+  {
+   "id": "be11f31db1eadca4",
+   "source": "中新网即时",
+   "title": "特朗普改口：美国不需要与伊朗达成协议",
+   "url": "https://www.chinanews.com.cn/gj/2026/11-13/10731246.shtml",
+   "summary": "中新网11月13日电 据美国全国广播公司(NBC)报道，美国总统特朗普当地时间12日表示，美国不需要与伊朗达成协议。",
+   "published_at": 1794523962.0,
+   "published_bj": "2026-11-13 06:52"
+  },
+  {
+   "id": "e93c1dc73297eb44",
+   "source": "中新网即时",
+   "title": "普京：不接受外国军队在乌克兰境内驻扎",
+   "url": "https://www.chinanews.com.cn/gj/2026/11-13/10731245.shtml",
+   "summary": "中新网11月13日电 据俄罗斯媒体当地时间12日报道，俄罗斯总统普京在莫斯科会见美国总统特使威特科夫和总统特朗普的女婿库什纳。",
+   "published_at": 1794523722.0,
+   "published_bj": "2026-11-13 06:48"
+  },
   {
    "id": "e9a4c2fc5805ef22",
    "source": "中新网即时",
