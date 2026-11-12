@@ -1,8 +1,26 @@
 {
  "date": "2026-11-13",
- "generated_at": 1794498733.6043353,
- "count": 1,
+ "generated_at": 1794502469.8398802,
+ "count": 13,
  "items": [
+  {
+   "id": "11594e482a98dba3",
+   "source": "cnBeta",
+   "title": "黄仁勋将在感恩节前赴国会作证",
+   "url": "https://www.cnbeta.com.tw/articles/tech/1586126.htm",
+   "summary": "佛罗里达州共和党籍众议员、众议院外交事务委员会主席布莱恩・马斯特周四向记者透露，英伟达前首席执行官黄仁勋将在感恩节前到国会出席听证会作证。马斯特说：“他已经同意到场，我们正在协商具体日期。” 阅读全文",
+   "published_at": 1794502308.0,
+   "published_bj": "2026-11-13 00:51"
+  },
+  {
+   "id": "2af2addb5189a5ca",
+   "source": "cnBeta",
+   "title": "散户逢低抄底英伟达",
+   "url": "https://www.cnbeta.com.tw/articles/tech/1586124.htm",
+   "summary": "黄仁勋辞职消息传出后，散户投资者蜂拥入场买入英伟达（NVDA）股票。万达研究（Vanda Research）的数据显示，该股迎来该机构有统计以来个人投资者最高的开盘买盘。 阅读全文",
+   "published_at": 1794502282.0,
+   "published_bj": "2026-11-13 00:51"
+  },
   {
    "id": "dc6ce0422fb88cba",
    "source": "InfoQ中文",
@@ -11,6 +29,96 @@
    "summary": "点击查看原文>",
    "published_at": 1794501840.0,
    "published_bj": "2026-11-13 00:44"
+  },
+  {
+   "id": "8552a989b9a56a06",
+   "source": "cnBeta",
+   "title": "婚外情风波以来 黄仁勋持股市值缩水超2700亿元",
+   "url": "https://www.cnbeta.com.tw/articles/tech/1586122.htm",
+   "summary": "11月12日晚间，英伟达创始人黄仁勋因婚外情风波辞去公司CEO、总裁及董事职务。与此同时，英伟达股价持续承压。按最新公开持股数据估算，自10月29日相关事件首次曝光以来，黄仁勋及其关联实体所持英伟达股票的账面市值已缩水约407亿美元，折合人民币约2717亿元。 阅读全文",
+   "published_at": 1794501562.0,
+   "published_bj": "2026-11-13 00:39"
+  },
+  {
+   "id": "891b58179e68a31f",
+   "source": "cnBeta",
+   "title": "Hugging Face首席执行官谈黄仁勋辞职：“令人无比难过的一天”",
+   "url": "https://www.cnbeta.com.tw/articles/tech/1586120.htm",
+   "summary": "Hugging Face 首席执行官克莱芒・德朗格对黄仁勋被英伟达罢免一事深感惋惜。他在领英发文表示：“这真是令人无比难过的一天。”英伟达于 9 月达成协议，拟收购开源 AI 模型头部平台 Hugging Face，交易金额约 119 亿美元。公司向美国证券交易委员会提交文件，预计这笔交易将于 2027 年上半年完成交割。 阅读全文",
+   "published_at": 1794501523.0,
+   "published_bj": "2026-11-13 00:38"
+  },
+  {
+   "id": "bb6b6a5df557e40a",
+   "source": "cnBeta",
+   "title": "黄仁勋离开英伟达 或给数十亿美元慈善捐赠计划增添变数",
+   "url": "https://www.cnbeta.com.tw/articles/tech/1586118.htm",
+   "summary": "就在辞去英伟达首席执行官前夕，黄仁勋正逐步成长为美国最重要的慈善家之一。凭借庞大的个人财富，他与妻子洛莉共同运营着美国规模最大的私人基金会之一，基金会资产规模约 90 亿美元。这对夫妻在 2007 年共同创立并共管该基金会，如今基金会的未来走向尚不明朗。 阅读全文",
+   "published_at": 1794501515.0,
+   "published_bj": "2026-11-13 00:38"
+  },
+  {
+   "id": "7a15fc978d050a09",
+   "source": "cnBeta",
+   "title": "马斯克放出话有意聘用黄仁勋 预测市场借这起风波开展押注",
+   "url": "https://www.cnbeta.com.tw/articles/tech/1586116.htm",
+   "summary": "周三，埃隆・马斯克在社交平台发帖表示，他很乐意聘用刚刚卸任的英伟达前首席执行官黄仁勋。此前已有报道披露，英伟达又曝出黄仁勋的另一段婚外情丑闻。在周四事件落地之前，各大预测市场上，有关黄仁勋辞职或被罢免的押注概率一路飙升。如今相关赌约已经结算，交易者已经开始押注英伟达潜在继任者，以及黄仁勋的个人后续事态。 阅读全文",
+   "published_at": 1794501505.0,
+   "published_bj": "2026-11-13 00:38"
+  },
+  {
+   "id": "d978efc1c943a38c",
+   "source": "cnBeta",
+   "title": "报道：英伟达临时CEO科莱特·克雷斯一直试图遏制公司最激进的豪赌",
+   "url": "https://www.cnbeta.com.tw/articles/tech/1586114.htm",
+   "summary": "英伟达周四任命其长期担任首席财务官的科莱特·克雷斯（Colette Kress）为临时首席执行官。前任CEO黄仁勋的突然辞职引发了一场充满不确定性的巨大风暴，这一任命将迫使这位财务老将带领公司穿越这场危机。 阅读全文",
+   "published_at": 1794501479.0,
+   "published_bj": "2026-11-13 00:37"
+  },
+  {
+   "id": "cde19a184ddab4a7",
+   "source": "TechCrunch",
+   "title": "Jensen Huang agrees to testify before Congress",
+   "url": "https://techcrunch.com/2026/11/12/jensen-huang-agrees-to-testify-before-congress/",
+   "summary": "Huang, who was ousted as CEO following reports of an alleged affair with a woman suspected of spying for China, agreed to testify Wednesday after several senior lawmakers threatened to subpoena him.",
+   "published_at": 1794501397.0,
+   "published_bj": "2026-11-13 00:36"
+  },
+  {
+   "id": "1b6b22605fe1e608",
+   "source": "TechCrunch",
+   "title": "Five ways Jensen Huang’s ouster from Nvidia could damage the AI industry",
+   "url": "https://techcrunch.com/2026/11/12/five-ways-jensen-huangs-ouster-from-nvidia-could-damage-the-ai-industry/",
+   "summary": "Nvidia's ousted CEO Jensen Huang's downfall isn’t just your run-of-the-mill salacious billionaire sex scandal. He was using his influence to push the AI industry in some very specific ways.",
+   "published_at": 1794501153.0,
+   "published_bj": "2026-11-13 00:32"
+  },
+  {
+   "id": "2b95b3f0bf1715b8",
+   "source": "TechCrunch",
+   "title": "Trump floats Apple chairman Tim Cook as Jensen Huang’s successor",
+   "url": "https://techcrunch.com/2026/11/12/trump-floats-apple-chairman-tim-cook-as-jensen-huangs-successor/",
+   "summary": "In a post on Truth Social, President Trump says only one man can take Jensen Huang's place as head of Nvidia: Tim Cook.",
+   "published_at": 1794499964.0,
+   "published_bj": "2026-11-13 00:12"
+  },
+  {
+   "id": "1ea901d30f8d0b16",
+   "source": "IT之家",
+   "title": "Epic 喜加一：《斗阵骑士 Knightica》游戏免费领取",
+   "url": "https://www.ithome.com/1/026/440.htm",
+   "summary": "IT之家 11 月 13 日消息，Epic 本周送出的游戏是《斗阵骑士 Knightica》，下周送出的游戏是《Alien: Isolation》，《Mark of the Deep》。 领取链接： 《斗阵骑士 Knightica》 IT之家附《斗阵骑士 Knightica》游戏简介： 《Knightica》是一款回合制类 Roguelike 自走棋游戏，在这里，各类身负绝技的单位将为你所用，集结成团，听你号令。征招、部署部队，带领大家为解放王国而战。尽情探索它们的协同效果、收集恶魔精魂、迎战危险怪物，一步步领导你的军队走向胜利！ 组建军队，运筹帷幄 单位的队形各异，大小不同，禀赋各有千秋，每",
+   "published_at": 1794499520.0,
+   "published_bj": "2026-11-13 00:05"
+  },
+  {
+   "id": "25eba278537465f7",
+   "source": "TechCrunch",
+   "title": "Whoop just launched a social network",
+   "url": "https://techcrunch.com/2026/11/12/whoop-just-launched-a-social-network/",
+   "summary": "Whoop is launching a social network that lets members share their sleep, recovery and workout data, but the bigger bet is on becoming more of a personal health brand, with CEO Will Ahmed hinting at acquisitions to come.",
+   "published_at": 1794499200.0,
+   "published_bj": "2026-11-13 00:00"
   }
  ]
 }

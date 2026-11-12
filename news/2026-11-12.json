@@ -1,8 +1,35 @@
 {
  "date": "2026-11-12",
- "generated_at": 1794498733.6070328,
+ "generated_at": 1794502469.8420198,
  "count": 400,
  "items": [
+  {
+   "id": "2c48d06c28a3c33f",
+   "source": "IT之家",
+   "title": "黄仁勋辞职后，特朗普呼吁苹果执行董事长库克接任英伟达 CEO",
+   "url": "https://www.ithome.com/1/026/439.htm",
+   "summary": "IT之家 11 月 12 日消息，黄仁勋离任英伟达 CEO 后，美国总统特朗普随即呼吁苹果执行董事长蒂姆 · 库克接掌英伟达。 今天（12 日）晚间，特朗普在 Truth Social 发文称， 能够接替黄仁勋的人“只有一个”—— 苹果公司的蒂姆 · 库克 。“一位传奇来接替另一位传奇！” 据IT之家了解，卸任苹果 CEO 后，库克改任执行董事长。 黄仁勋辞去总裁、首席执行官及董事会成员职务后，英伟达任命执行副总裁兼首席财务官科莱特 · 克雷斯（Colette Kress）为临时 CEO。 在正式继任者确定之前，克雷斯在代行首席执行官职责的同时，将继续兼任执行副总裁兼首席财务官。 董事会目前已",
+   "published_at": 1794499056.0,
+   "published_bj": "2026-11-12 23:57"
+  },
+  {
+   "id": "8a7351b2707653f2",
+   "source": "cnBeta",
+   "title": "特朗普发文谈英伟达人事变动 建议苹果执行董事长库克接任",
+   "url": "https://www.cnbeta.com.tw/articles/tech/1586112.htm",
+   "summary": "美国总统唐纳德·特朗普通过其社交平台 Truth Social 发文，对英伟达联合创始人兼首席执行官黄仁勋的卸任发表了看法，并公开建议由苹果公司执行董事长蒂姆·库克接替其职位。 特朗普在帖文中写道：“鉴于黄仁勋——他此前干得非常出色——已经辞职，现在只有一个合适的人选能接替他的位置，那就是苹果公司的蒂姆·库克。这是一位传奇取代另一位传奇！” 阅读全文",
+   "published_at": 1794498839.0,
+   "published_bj": "2026-11-12 23:53"
+  },
+  {
+   "id": "5e18207739c3698d",
+   "source": "cnBeta",
+   "title": "黄仁勋辞职后，多位科技圈大佬发声",
+   "url": "https://www.cnbeta.com.tw/articles/tech/1586110.htm",
+   "summary": "英伟达官宣黄仁勋辞去总裁，CEO和董事职务即刻生效后，引发科技圈与投资界关注。英伟达长期合作伙伴Epic Games首席执行官蒂姆·斯威尼、Hugging Face首席执行官克莱门特·德朗格等人在社交平台X上表达遗憾，币安创始人赵长鹏则直言，英伟达让黄仁勋辞职“是个错误”。 阅读全文",
+   "published_at": 1794498780.0,
+   "published_bj": "2026-11-12 23:53"
+  },
   {
    "id": "943e59ecf514cfcc",
    "source": "cnBeta",
@@ -28,6 +55,15 @@
    "url": "https://www.cnbeta.com.tw/articles/tech/1586104.htm",
    "summary": "11月12日，黄仁勋辞去总裁、首席执行官及董事会成员职务。现任执行副总裁兼首席财务官科莱特 · 克雷斯（Colette Kress）已同意担任临时CEO。根据公开权威资料，接替黄仁勋出任英伟达临时CEO的科莱特·克雷斯（Colette Kress）实为美国籍，并非印度裔。 阅读全文",
    "published_at": 1794498538.0,
+   "published_bj": "2026-11-12 23:48"
+  },
+  {
+   "id": "c1f87ccab496aebb",
+   "source": "IT之家",
+   "title": "特别版车型？阿斯顿 · 马丁与迪士尼、卢卡斯影业达成合作，共庆《星球大战》50 周年",
+   "url": "https://www.ithome.com/1/026/438.htm",
+   "summary": "IT之家 11 月 12 日消息，2027 年是《星球大战》系列诞生 50 周年，阿斯顿 · 马丁宣布与迪士尼、卢卡斯影业合作，共同庆祝这一里程碑。阿斯顿 · 马丁计划在未来一年举办系列活动，回顾《星球大战》的发展历程，但具体内容尚未公布。 阿斯顿 · 马丁透露，双方将通过周年庆期间的一系列活动及合作项目，展现英国顶级奢华工艺与电影叙事的艺术魅力。 阿斯顿 · 马丁全球营销总监芬巴尔 · 麦克福尔表示：“过去 50 年，《星球大战》证明了设计与叙事能够产生非凡的力量，激励世界各地一代又一代人。阿斯顿 · 马丁同样致力于打造个性鲜明、能够引发长久情感共鸣的产品和体验，因此双方的合作顺理成章，也令",
+   "published_at": 1794498518.0,
    "published_bj": "2026-11-12 23:48"
   },
   {
@@ -94,6 +130,15 @@
    "published_bj": "2026-11-12 23:37"
   },
   {
+   "id": "9522a3714dc904a7",
+   "source": "Hacker News",
+   "title": "Show HN: A self-hosted PHP platform combining CMS, e-commerce and more, built-in",
+   "url": "https://getvale.org",
+   "summary": "We used WordPress ourselves but struggled with ongoing maintenance. So we built an internal alternative CMS that met our needs. After two years of development, we decided to make it open source. You can try the live demo (credentials included), explore the source code, and read the documentation her",
+   "published_at": 1794497754.0,
+   "published_bj": "2026-11-12 23:35"
+  },
+  {
    "id": "4972a3e3129c3e85",
    "source": "cnBeta",
    "title": "黄仁勋辞职 英伟达临时CEO：持续推进各项工作 巩固领先地位",
@@ -103,6 +148,24 @@
    "published_bj": "2026-11-12 23:34"
   },
   {
+   "id": "9117ef20d08e6343",
+   "source": "IT之家",
+   "title": "黄仁勋辞任英伟达 CEO 重创全球 AI 概念股，AMD、博通逆势上涨",
+   "url": "https://www.ithome.com/1/026/437.htm",
+   "summary": "IT之家 11 月 12 日消息，据路透社报道，黄仁勋因婚外情丑闻持续发酵而辞去英伟达 CEO，引发 全球 AI 概念股周四大跌 。 英伟达领导层突遭变动，也让原本就面临融资和监管压力的 AI 行业增添了新的风险。 英伟达宣布，CFO 科莱特 · 克雷斯将暂任 CEO，公司同时寻找正式接班人。 作为 AI 产业链的核心企业，英伟达不仅供应芯片，还为采用其芯片的数据中心等基础设施项目提供资金支持，这种商业模式因循环融资问题受到质疑。随着英伟达陷入更深的危机，整个 AI 行业也面临新的压力。 英伟达股价早盘下跌 8.2%，跌至 16 个多月以来的最低水平 ，市值更是 2025 年 7 月以来 首次",
+   "published_at": 1794497685.0,
+   "published_bj": "2026-11-12 23:34"
+  },
+  {
+   "id": "33d60b2655f628cc",
+   "source": "Hacker News",
+   "title": "Show HN: Fable52.games – Play and inspect Fable 5.2 single-file HTML games",
+   "url": "https://fable52.games",
+   "summary": "Article URL: https://fable52.games Comments URL: https://news.ycombinator.com/item?id=50469007 Points: 24 # Comments: 16",
+   "published_at": 1794497401.0,
+   "published_bj": "2026-11-12 23:30"
+  },
+  {
    "id": "019cf85f78516f10",
    "source": "cnBeta",
    "title": "英伟达CEO黄仁勋辞职 AMD、博通股价大涨",
@@ -110,6 +173,24 @@
    "summary": "英伟达宣布黄仁勋辞职，董事会任命首席财务官科莱特・克雷斯担任临时首席执行官。消息传出后，周四早盘 AMD 股价上涨约 3%，博通最高涨幅达 6%。两家企业均为英伟达的竞争对手，此番上涨延续了周三的涨势。 阅读全文",
    "published_at": 1794497225.0,
    "published_bj": "2026-11-12 23:27"
+  },
+  {
+   "id": "bd2e2cb56e2e390d",
+   "source": "Hacker News",
+   "title": "ExcalidrawZ: Local Native Excalidraw on macOS/iOS",
+   "url": "https://github.com/chocoford/ExcalidrawZ",
+   "summary": "Article URL: https://github.com/chocoford/ExcalidrawZ Comments URL: https://news.ycombinator.com/item?id=50468944 Points: 19 # Comments: 2",
+   "published_at": 1794497152.0,
+   "published_bj": "2026-11-12 23:25"
+  },
+  {
+   "id": "dd778b20d4b9bdcf",
+   "source": "Hacker News",
+   "title": "I'm making LLMs work on small and old devices",
+   "url": "https://github.com/hyperionaidev/smolmaxxing/",
+   "summary": "Article URL: https://github.com/hyperionaidev/smolmaxxing/ Comments URL: https://news.ycombinator.com/item?id=50468888 Points: 22 # Comments: 6",
+   "published_at": 1794496990.0,
+   "published_bj": "2026-11-12 23:23"
   },
   {
    "id": "434fea76405102d0",
@@ -166,12 +247,30 @@
    "published_bj": "2026-11-12 23:15"
   },
   {
+   "id": "1b0ac59fe66084b4",
+   "source": "Hacker News",
+   "title": "Fitting Four 32 GB Resizable Bars Behind a PCIe Switch on Linux",
+   "url": "https://doug.sh/posts/gpu-bars-behind-a-pcie-switch/",
+   "summary": "Article URL: https://doug.sh/posts/gpu-bars-behind-a-pcie-switch/ Comments URL: https://news.ycombinator.com/item?id=50468720 Points: 16 # Comments: 4",
+   "published_at": 1794496492.0,
+   "published_bj": "2026-11-12 23:14"
+  },
+  {
    "id": "5d6dd982a4d55382",
    "source": "IT之家",
    "title": "米物推出 Neoseek Pure 10 新国标 22.5W 自带线磁吸移动电源：15W 无线 + 2C 设计，169 元",
    "url": "https://www.ithome.com/1/026/432.htm",
    "summary": "IT之家 11 月 12 日消息，米物科技现已在京东上架 Neoseek Pure 10 新国标 22.5W 磁吸移动电源，该产品采用 2C 设计， 首发价 169 元 。 京东 MIIIW 米物 22.5W 磁吸充电宝 169 元 直达链接 该产品采用萝卜橙配色，表面带有防滑纹理，正面配备一块 LED 数显屏，背面为磁吸充电模块，可提供 15W 无线充电。移动电源底部配备 USB-C 22.5W 自带线和 USB-C 22.5W 接口，在有线无线同时输出时提供至高 15W 峰值。 IT之家附产品参数：",
    "published_at": 1794496388.0,
+   "published_bj": "2026-11-12 23:13"
+  },
+  {
+   "id": "7e72128411197281",
+   "source": "Hacker News",
+   "title": "Roadside investigations of psyllids, ants and eucs",
+   "url": "https://bencology.bearblog.dev/eucalypt-psyllids-meat-ants/",
+   "summary": "Article URL: https://bencology.bearblog.dev/eucalypt-psyllids-meat-ants/ Comments URL: https://news.ycombinator.com/item?id=50468687 Points: 3 # Comments: 1",
+   "published_at": 1794496386.0,
    "published_bj": "2026-11-12 23:13"
   },
   {
@@ -272,6 +371,15 @@
    "summary": "IT之家 11 月 12 日消息，本田今天（12 日）晚间宣布，第七代 CR-V 将于 2027 年上市 ，作为 2028 款车型，全系搭载全新 Honda Hybrid 双电机混动系统。 新车还将换用全新平台，大幅提升动力性能和燃油经济性，同时延续 CR-V 过去 30 年来的“高性价比和实用性”。 据悉，2028 款 CR-V 将 首次搭载第五代双电机混动系统 ，在性能和燃油经济性方面进一步升级。通过扩大发动机的高效运行区间、提高混动驱动单元的效率等改进，本田进一步优化了混动系统。 此外，新车还将配备 全新开发的电动四驱系统 ，能够更精准、更迅速地控制电机。 第七代 CR-V 也将率先采用",
    "published_at": 1794493863.0,
    "published_bj": "2026-11-12 22:31"
+  },
+  {
+   "id": "a3d3b29d25afad03",
+   "source": "Hacker News",
+   "title": "Running web sites makes me not want to",
+   "url": "https://lowkey.party/running-web-sites-makes-me-not-want-to",
+   "summary": "Article URL: https://lowkey.party/running-web-sites-makes-me-not-want-to Comments URL: https://news.ycombinator.com/item?id=50467869 Points: 18 # Comments: 7",
+   "published_at": 1794493838.0,
+   "published_bj": "2026-11-12 22:30"
   },
   {
    "id": "60f8612ce5548040",
@@ -3494,114 +3602,6 @@
    "summary": "Article URL: https://www.allthingsdistributed.com/2026/11/aws-emulator-and-the-engineers-job-when-agents-write-the-code.html Comments URL: https://news.ycombinator.com/item?id=50456740 Points: 47 # Comments: 2",
    "published_at": 1794421711.0,
    "published_bj": "2026-11-12 02:28"
-  },
-  {
-   "id": "994b7177eaae0d2a",
-   "source": "cnBeta",
-   "title": "IBM公布新一代量子处理器路线图 目标实现万次量子操作并突破千量子比特",
-   "url": "https://www.cnbeta.com.tw/articles/tech/1585986.htm",
-   "summary": "IBM近日发布新一代量子处理器Nighthawk r3，并公布了未来量子计算发展计划。这款全新处理器被设计为能够执行多达10000次量子操作，在保持运算质量和速度的同时处理更加复杂的大规模计算任务，标志着IBM向容错量子计算目标迈出了重要一步。 阅读全文",
-   "published_at": 1794421457.0,
-   "published_bj": "2026-11-12 02:24"
-  },
-  {
-   "id": "7a00ce03981ada2d",
-   "source": "Hacker News",
-   "title": "AWS Finally Built Its Own AWS Emulator",
-   "url": "https://github.com/aws/aws-emulator",
-   "summary": "Article URL: https://github.com/aws/aws-emulator Comments URL: https://news.ycombinator.com/item?id=50456631 Points: 3 # Comments: 1",
-   "published_at": 1794421298.0,
-   "published_bj": "2026-11-12 02:21"
-  },
-  {
-   "id": "c31d073e277d9ecf",
-   "source": "IT之家",
-   "title": "沈阳背景叙事解谜《Hope in the City》Steam 发售：首发特惠 ¥68.4，首日加入 XGP",
-   "url": "https://www.ithome.com/1/025/824.htm",
-   "summary": "IT之家 11 月 12 日消息，Lofty Sky Entertainment Inc. 开发、Lofty Sky Entertainment Inc. 与 NAGA Games 联合发行的叙事解谜游戏《Hope in the City》已于 11 月 11 日正式登陆 Steam 平台，国区现已开放购买，商品页（ https://store.steampowered.com/app/3610790/Hope_in_the_City/ ）已可访问，未锁国区。 游戏同步登陆 Xbox Series X|S 与 Xbox PC 商店，并于首日加入 Xbox Game Pass 订阅服务（XGP）",
-   "published_at": 1794420796.0,
-   "published_bj": "2026-11-12 02:13"
-  },
-  {
-   "id": "913fc5100de2a7e1",
-   "source": "Hacker News",
-   "title": "The Lost World of Aquaterra",
-   "url": "https://www.theatlantic.com/magazine/2026/12/aquaterra-ancient-human-migration/689029/",
-   "summary": "Article URL: https://www.theatlantic.com/magazine/2026/12/aquaterra-ancient-human-migration/689029/ Comments URL: https://news.ycombinator.com/item?id=50456279 Points: 6 # Comments: 0",
-   "published_at": 1794419609.0,
-   "published_bj": "2026-11-12 01:53"
-  },
-  {
-   "id": "680d32533e929aec",
-   "source": "InfoQ中文",
-   "title": "工程师招聘跌至巅峰时期一半！Manus 取消传统编程面试，产品经理开始直接写代码",
-   "url": "https://www.infoq.cn/article/HKFSZ6a0DM97BV7FXP2t?utm_source=rss&utm_medium=article",
-   "summary": "点击查看原文>",
-   "published_at": 1794419224.0,
-   "published_bj": "2026-11-12 01:47"
-  },
-  {
-   "id": "54bc730a0b33b948",
-   "source": "InfoQ中文",
-   "title": "Agent 正在终结 Pull Request？连 GitHub 也开始重新审视传统开发流程",
-   "url": "https://www.infoq.cn/article/x0B056QFxzYEewT1Et34?utm_source=rss&utm_medium=article",
-   "summary": "点击查看原文>",
-   "published_at": 1794418857.0,
-   "published_bj": "2026-11-12 01:40"
-  },
-  {
-   "id": "fb8a45595d128aa5",
-   "source": "Hacker News",
-   "title": "The Power and Legacy of Virginia Tech's Mac-Based Supercomputers",
-   "url": "https://512pixels.net/2026/11/va-tech-system-x-system-g/",
-   "summary": "Article URL: https://512pixels.net/2026/11/va-tech-system-x-system-g/ Comments URL: https://news.ycombinator.com/item?id=50456010 Points: 10 # Comments: 0",
-   "published_at": 1794418247.0,
-   "published_bj": "2026-11-12 01:30"
-  },
-  {
-   "id": "826686bca21c954a",
-   "source": "InfoQ中文",
-   "title": "面向产业决策的升级：蚂蚁数科LingDT-Decision 首发信息抽取能力",
-   "url": "https://www.infoq.cn/article/7wd1IyRiffi1vPz6goHS?utm_source=rss&utm_medium=article",
-   "summary": "点击查看原文>",
-   "published_at": 1794417799.0,
-   "published_bj": "2026-11-12 01:23"
-  },
-  {
-   "id": "3167b9406d2b92e6",
-   "source": "Hacker News",
-   "title": "Launch HN: Pomerado (YC F26) – Turn any website into an MCP for agents",
-   "url": "https://news.ycombinator.com/item?id=50455811",
-   "summary": "Hi HN, we’re Alan and Akshay from Pomerado ( https://pomerado.ai/ ). We connect your agents to any website by turning sites into deterministic, self-healing APIs in minutes, fully self-serve. Agents are no longer limited by their intelligence, but rather by their ability to interact with systems. Ai",
-   "published_at": 1794417116.0,
-   "published_bj": "2026-11-12 01:11"
-  },
-  {
-   "id": "f0a3921e4580b5b8",
-   "source": "InfoQ中文",
-   "title": "Datadog 推出面向 SRE 故障排查的专用 AI 模型",
-   "url": "https://www.infoq.cn/article/py4PRbBWJSPm5aV10gHq?utm_source=rss&utm_medium=article",
-   "summary": "点击查看原文>",
-   "published_at": 1794416400.0,
-   "published_bj": "2026-11-12 01:00"
-  },
-  {
-   "id": "f459415f0a497a11",
-   "source": "Hacker News",
-   "title": "Faster Retrieval for Better, More Efficient RAG",
-   "url": "https://machinelearning.apple.com/research/faster-retrieval",
-   "summary": "Article URL: https://machinelearning.apple.com/research/faster-retrieval Comments URL: https://news.ycombinator.com/item?id=50455633 Points: 3 # Comments: 0",
-   "published_at": 1794416265.0,
-   "published_bj": "2026-11-12 00:57"
-  },
-  {
-   "id": "440dd5a663011ebf",
-   "source": "InfoQ中文",
-   "title": "多云 FinOps：一种用于跨云成本优化的工程框架",
-   "url": "https://www.infoq.cn/article/0qQcqvV13GtRKGgmsPqW?utm_source=rss&utm_medium=article",
-   "summary": "点击查看原文>",
-   "published_at": 1794415772.0,
-   "published_bj": "2026-11-12 00:49"
   }
  ]
 }
