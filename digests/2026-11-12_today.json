@@ -1,0 +1,382 @@
+{
+ "type": "today",
+ "date": "2026-11-12",
+ "window": {
+  "start_ts": 1794412800.0,
+  "end_ts": 1794445200.0
+ },
+ "generated_at": 1794449347.6179028,
+ "generator": "action",
+ "news_count": 90,
+ "keywords": [
+  "ai",
+  "the",
+  "to",
+  "ceo",
+  "伟达",
+  "英伟",
+  "jensen",
+  "huang",
+  "仁勋",
+  "黄仁"
+ ],
+ "points": [
+  {
+   "text": "【ai】Fractile has now become one of the top-funded players in the race for pu",
+   "keyword": "ai",
+   "news_ids": [
+    "8360d86161a1ce9f"
+   ],
+   "refs": [
+    {
+     "id": "8360d86161a1ce9f",
+     "title": "With $720M round, Britain’s Fractile gets a leg up in the race for AI chips",
+     "source": "TechCrunch",
+     "url": "https://techcrunch.com/2026/11/11/with-720m-round-britains-fractile-gets-a-leg-up-in-the-race-for-ai-chips/",
+     "published_at": 1794425695.0
+    }
+   ]
+  },
+  {
+   "text": "【ai】IT之家 11 月 12 日消息，英伟达股价当地时间 11 月 11 日美股盘后交易（北京时间 12 日今天早上 5 点至 9 点）中大幅下挫，",
+   "keyword": "ai",
+   "news_ids": [
+    "c0b3366c328e5395"
+   ],
+   "refs": [
+    {
+     "id": "c0b3366c328e5395",
+     "title": "桃色丑闻重创 AI 芯片巨头：黄仁勋第二段婚外情曝光，英伟达盘后股价重挫逾 9%",
+     "source": "IT之家",
+     "url": "https://www.ithome.com/1/025/855.htm",
+     "published_at": 1794443794.0
+    }
+   ]
+  },
+  {
+   "text": "【ai】IT之家 11 月 12 日消息，谷歌昨日（11 月 11 日）发布博文， 宣布推进苹果车联服务 CarPlay 接入其 AI 应用 Gemin",
+   "keyword": "ai",
+   "news_ids": [
+    "8cd531a66cc1ac82"
+   ],
+   "refs": [
+    {
+     "id": "8cd531a66cc1ac82",
+     "title": "苹果 CarPlay 接入谷歌 Gemini：车里也能和 AI 自然聊天",
+     "source": "IT之家",
+     "url": "https://www.ithome.com/1/025/831.htm",
+     "published_at": 1794437351.0
+    }
+   ]
+  },
+  {
+   "text": "【the】Article URL: https://developer",
+   "keyword": "the",
+   "news_ids": [
+    "05d220fe07478e2b"
+   ],
+   "refs": [
+    {
+     "id": "05d220fe07478e2b",
+     "title": "Modern Web Guidance 1.0: The web platform expertise your coding agent is missing",
+     "source": "Hacker News",
+     "url": "https://developer.chrome.com/blog/modern-web-guidance-v1",
+     "published_at": 1794439349.0
+    }
+   ]
+  },
+  {
+   "text": "IT之家 11 月 12 日消息，日本运营商 NTT Docomo 表示，公司已于日本时间 11 月 11 日 19:17（北京时间 18:17",
+   "keyword": "",
+   "news_ids": [
+    "6f23cd12e65ff945"
+   ],
+   "refs": [
+    {
+     "id": "6f23cd12e65ff945",
+     "title": "日本运营商 NTT Docomo 完成修复 5G SA 通信故障：原因为交换机拥塞",
+     "source": "IT之家",
+     "url": "https://www.ithome.com/1/025/856.htm",
+     "published_at": 1794443975.0
+    }
+   ]
+  },
+  {
+   "text": "IT之家 11 月 12 日消息，华为官方今日宣布，华为 WATCH Ultimate 2 非凡探索手表新增滑雪登山模式，支持六种滑雪相关运动模",
+   "keyword": "",
+   "news_ids": [
+    "78cb393fc6fb26bc"
+   ],
+   "refs": [
+    {
+     "id": "78cb393fc6fb26bc",
+     "title": "华为 WATCH Ultimate 2 新增滑雪登山模式，六大模式覆盖室内外与越野场景",
+     "source": "IT之家",
+     "url": "https://www.ithome.com/1/025/854.htm",
+     "published_at": 1794443778.0
+    }
+   ]
+  },
+  {
+   "text": "IT之家 11 月 12 日消息，据央视新闻今日报道，第二艘国产大型邮轮“爱达 · 花城号”今日完成首个试运营航次，抵达广州南沙国际邮轮母港",
+   "keyword": "",
+   "news_ids": [
+    "b886627a80fd1cb2"
+   ],
+   "refs": [
+    {
+     "id": "b886627a80fd1cb2",
+     "title": "第二艘国产大型邮轮“爱达 · 花城号”完成首个试运营航次，11 月 22 日从广州开启首航季",
+     "source": "IT之家",
+     "url": "https://www.ithome.com/1/025/853.htm",
+     "published_at": 1794443399.0
+    }
+   ]
+  },
+  {
+   "text": "Arm 发布 Cortex-M42 处理器、任天堂宣布「轻松登入」功能将下线等",
+   "keyword": "",
+   "news_ids": [
+    "baf15249bd8735ee"
+   ],
+   "refs": [
+    {
+     "id": "baf15249bd8735ee",
+     "title": "派早报：Apple 公布 Swift Student Challenge 安排、微软发布 Auto SR 等",
+     "source": "少数派",
+     "url": "https://sspai.com/post/118935",
+     "published_at": 1794442929.0
+    }
+   ]
+  },
+  {
+   "text": "IT之家 11 月 12 日消息，据科技媒体 TechPower Up 昨天报道，映泰现已推出 BIPTL-IHT 主板，该产品面向工业控制场景",
+   "keyword": "",
+   "news_ids": [
+    "a28ba41235cd2799"
+   ],
+   "refs": [
+    {
+     "id": "a28ba41235cd2799",
+     "title": "映泰推出 Thin Mini-ITX 工控主板 BIPTL-IHT，英特尔 PTL-H 平台、最高可选 128GB 内存",
+     "source": "IT之家",
+     "url": "https://www.ithome.com/1/025/851.htm",
+     "published_at": 1794442628.0
+    }
+   ]
+  },
+  {
+   "text": "IT之家 11 月 12 日消息，科技媒体 TechSpot 昨日（11 月 11 日）发布博文，报道称美国通用原子公司研究团队在 DIII-D",
+   "keyword": "",
+   "news_ids": [
+    "800d4645e7b61a5e"
+   ],
+   "refs": [
+    {
+     "id": "800d4645e7b61a5e",
+     "title": "约 40 年前构想迎来关键验证：无线电波给“人造太阳”续上电流",
+     "source": "IT之家",
+     "url": "https://www.ithome.com/1/025/850.htm",
+     "published_at": 1794442388.0
+    }
+   ]
+  },
+  {
+   "text": "IT之家 11 月 12 日消息，据央视新闻今日报道，北京 2025 至 2026 年度供暖季将于 11 月 15 日正式达标供热",
+   "keyword": "",
+   "news_ids": [
+    "97f2060da9649516"
+   ],
+   "refs": [
+    {
+     "id": "97f2060da9649516",
+     "title": "北京供暖季新增“再生水热源”：每天 10 万立方米“隔空换热”，只取温差不动水质",
+     "source": "IT之家",
+     "url": "https://www.ithome.com/1/025/849.htm",
+     "published_at": 1794441811.0
+    }
+   ]
+  },
+  {
+   "text": "IT之家 11 月 12 日消息，据新华社昨日报道，中国移动联合合作伙伴基于 230GBaud（波特）关键技术，在骨干长距 G.652.D 光纤",
+   "keyword": "",
+   "news_ids": [
+    "bec035fffd2164cf"
+   ],
+   "refs": [
+    {
+     "id": "bec035fffd2164cf",
+     "title": "中国移动完成业界首个基于 230GBaud 的单波 1.6Tb/s 长距传输试验",
+     "source": "IT之家",
+     "url": "https://www.ithome.com/1/025/848.htm",
+     "published_at": 1794441400.0
+    }
+   ]
+  },
+  {
+   "text": "IT之家 11 月 12 日消息，欧洲核子研究中心（CERN）于 10 月 28 日发布博文，宣布为高亮度大型强子对撞机升级项目制造的 8 台新",
+   "keyword": "",
+   "news_ids": [
+    "bdb29ca8ddf08b15"
+   ],
+   "refs": [
+    {
+     "id": "bdb29ca8ddf08b15",
+     "title": "11.3 特斯拉：约 7.2 米新型超导磁体通过关键测试，磁场强度约为医用磁共振设备的 3.8 倍",
+     "source": "IT之家",
+     "url": "https://www.ithome.com/1/025/846.htm",
+     "published_at": 1794441271.0
+    }
+   ]
+  },
+  {
+   "text": "IT之家 11 月 12 日消息，2026 年第 44 届金摇杆奖颁奖典礼已在今日凌晨举行",
+   "keyword": "",
+   "news_ids": [
+    "0cd2195d1caf6f82"
+   ],
+   "refs": [
+    {
+     "id": "0cd2195d1caf6f82",
+     "title": "2026 年金摇杆奖获奖名单公布！《生化危机：安魂曲》斩获年度终极游戏，《影之刃零》差 1% 惜败得第二",
+     "source": "IT之家",
+     "url": "https://www.ithome.com/1/025/843.htm",
+     "published_at": 1794440887.0
+    }
+   ]
+  },
+  {
+   "text": "IT之家 11 月 12 日消息，澎湃新闻昨日报道称，上个月发生在上海内环高架的一起两车碰撞事故在经历一个多月的调查后有了新的进展",
+   "keyword": "",
+   "news_ids": [
+    "f85b8aadee5fd7bd"
+   ],
+   "refs": [
+    {
+     "id": "f85b8aadee5fd7bd",
+     "title": "特斯拉上海内环高架斗车事件后续：42 岁司机涉嫌刑事犯罪被移送审查起诉，另一 71 岁司机被罚款",
+     "source": "IT之家",
+     "url": "https://www.ithome.com/1/025/842.htm",
+     "published_at": 1794440396.0
+    }
+   ]
+  }
+ ],
+ "article": {
+  "title": "2026-11-12 新闻总结",
+  "paragraphs": [
+   {
+    "kind": "lead",
+    "text": "今天共收录 90 条新闻，来自 6 家媒体。把标题放在一起看，讨论主要集中在 AI、Agent 这几个方向上，其余消息更像是零散补充。"
+   },
+   {
+    "kind": "section",
+    "heading": "首发",
+    "text": "先看「首发」。IT之家 11 月 12 日消息，Lofty Sky Entertainment Inc. 开发，另有 30 条消息指向同一话题。对读者来说，值得留意的不是结论本身，而是它背后哪些前提正在被改变。",
+    "news_ids": [
+     "c31d073e277d9ecf"
+    ],
+    "refs": [
+     {
+      "id": "c31d073e277d9ecf",
+      "title": "沈阳背景叙事解谜《Hope in the City》Steam 发售：首发特惠 ¥68.4，首日加入 XGP",
+      "source": "IT之家",
+      "url": "https://www.ithome.com/1/025/824.htm",
+      "published_at": 1794420796.0
+     }
+    ]
+   },
+   {
+    "kind": "section",
+    "heading": "AI",
+    "text": "与此同时「AI」。IT之家 11 月 12 日消息，英伟达股价当地时间 11 月 11 日美股盘后交易（北京时间 12 日今天早上 5 点至 9 点）中大幅下挫， 跌幅一度扩大至 9%，另有 16 条消息指向同一话题。这类进展更像是把已有能力往工程化落地推了一步，真正的分水岭在于成本和可靠性能不能同时压下来。",
+    "news_ids": [
+     "c0b3366c328e5395"
+    ],
+    "refs": [
+     {
+      "id": "c0b3366c328e5395",
+      "title": "桃色丑闻重创 AI 芯片巨头：黄仁勋第二段婚外情曝光，英伟达盘后股价重挫逾 9%",
+      "source": "IT之家",
+      "url": "https://www.ithome.com/1/025/855.htm",
+      "published_at": 1794443794.0
+     }
+    ]
+   },
+   {
+    "kind": "section",
+    "heading": "企业",
+    "text": "另一个值得注意的方向是「企业」。从 AI 工具到业务落地：兰州安宁 OPC 大会将聚焦 FDE 实践与企业 AI 转型…，另有 7 条消息指向同一话题。对读者来说，值得留意的不是结论本身，而是它背后哪些前提正在被改变。",
+    "news_ids": [
+     "82d157eb592209c3"
+    ],
+    "refs": [
+     {
+      "id": "82d157eb592209c3",
+      "title": "从 AI 工具到业务落地：兰州安宁 OPC 大会将聚焦 FDE 实践与企业 AI 转型",
+      "source": "InfoQ中文",
+      "url": "https://www.infoq.cn/article/P2UWjVdAmPzOBaxd0v4f?utm_source=rss&utm_medium=article",
+      "published_at": 1794422177.0
+     }
+    ]
+   },
+   {
+    "kind": "section",
+    "heading": "Agent",
+    "text": "相比之下「Agent」。上下文也是成本：Agent 效率优化的新思路 ｜ 技术趋势…，另有 2 条消息指向同一话题。这类进展更像是把已有能力往工程化落地推了一步，真正的分水岭在于成本和可靠性能不能同时压下来。",
+    "news_ids": [
+     "e9f84de93ae3740c"
+    ],
+    "refs": [
+     {
+      "id": "e9f84de93ae3740c",
+      "title": "上下文也是成本：Agent 效率优化的新思路 ｜ 技术趋势",
+      "source": "InfoQ中文",
+      "url": "https://www.infoq.cn/article/iaCUbU8Fwz6G6bDlQ9BV?utm_source=rss&utm_medium=article",
+      "published_at": 1794423946.0
+     }
+    ]
+   },
+   {
+    "kind": "glossary",
+    "items": [
+     {
+      "term": "API",
+      "desc": "应用程序接口，让不同软件按约定好的方式互相调用"
+     },
+     {
+      "term": "AI",
+      "desc": "人工智能，让机器完成识别、生成、判断等原本需要人做的任务"
+     },
+     {
+      "term": "Agent",
+      "desc": "智能体，能自己拆解任务、调用工具并连续执行的 AI 程序"
+     },
+     {
+      "term": "RAG",
+      "desc": "检索增强生成，先查资料再让模型作答，用来减少胡编"
+     },
+     {
+      "term": "数据中心",
+      "desc": "集中放置服务器、供电与散热设施的大型机房"
+     },
+     {
+      "term": "多模态",
+      "desc": "同一个模型同时处理文字、图片、音频、视频等多种信息"
+     }
+    ]
+   },
+   {
+    "kind": "outlook",
+    "text": "把这几条放在一起看，最值得跟踪的是 AI 和 Agent 两条线：一条决定技术能走多远，一条决定它多快能落到普通人的日常里。至于其他消息，可以先放进观察名单，等后续有更实的进展再判断。"
+   }
+  ],
+  "word_count": 632
+ },
+ "ai_enhanced": false,
+ "schema": 1,
+ "window_bj": {
+  "start": "2026-11-12 00:00",
+  "end": "2026-11-12 09:00"
+ }
+}
