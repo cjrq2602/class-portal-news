@@ -1,6 +1,6 @@
 {
  "date": "2026-11-12",
- "generated_at": 1794502575.0626543,
+ "generated_at": 1794505568.4689274,
  "count": 400,
  "items": [
   {
@@ -362,6 +362,15 @@
    "summary": "IT之家 11 月 12 日消息，黄仁勋辞任 CEO 后，英伟达市值失守 4 万亿美元 （IT之家注：现汇率约合 26.74 万亿元人民币） 。 先前，英伟达股价一度大跌 14%，市值蒸发近 6,000 亿美元 （现汇率约合 4.01 万亿元人民币） 。截至IT之家发稿，跌幅收窄至 7.51%。 相关阅读： 《 黄仁勋辞任 CEO 后，英伟达称维持原定时间公布 2027 财年三季度财报 》 《 黄仁勋辞任英伟达 CEO，公司美股盘前跌幅扩大至 10% 》 《 黄仁勋辞去 CEO 后，英伟达任命执行副总裁兼首席财务官科莱特 · 克雷斯为临时首席执行官 》 《 即刻生效！黄仁勋辞去英伟达总裁、首席",
    "published_at": 1794494082.0,
    "published_bj": "2026-11-12 22:34"
+  },
+  {
+   "id": "548cfa50275c94a7",
+   "source": "Hacker News",
+   "title": "Show HN: AI Red Lines – write down what would make you act on AI",
+   "url": "https://yourairedlines.com",
+   "summary": "Article URL: https://yourairedlines.com Comments URL: https://news.ycombinator.com/item?id=50467880 Points: 16 # Comments: 10",
+   "published_at": 1794493881.0,
+   "published_bj": "2026-11-12 22:31"
   },
   {
    "id": "f98ecf4eb5c413e0",
@@ -3593,15 +3602,6 @@
    "summary": "点击查看原文>",
    "published_at": 1794421980.0,
    "published_bj": "2026-11-12 02:33"
-  },
-  {
-   "id": "0cfb60aced852da6",
-   "source": "Hacker News",
-   "title": "Gemini Decisions API",
-   "url": "https://blog.google/innovation-and-ai/technology/developers-tools/gemini-decisions-api/",
-   "summary": "Article URL: https://blog.google/innovation-and-ai/technology/developers-tools/gemini-decisions-api/ Comments URL: https://news.ycombinator.com/item?id=50456791 Points: 80 # Comments: 15",
-   "published_at": 1794421962.0,
-   "published_bj": "2026-11-12 02:32"
   }
  ]
 }
