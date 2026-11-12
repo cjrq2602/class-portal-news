@@ -1,8 +1,26 @@
 {
  "date": "2026-11-13",
- "generated_at": 1794519591.9944932,
- "count": 59,
+ "generated_at": 1794522416.1202483,
+ "count": 64,
  "items": [
+  {
+   "id": "4306fe3bb14479e4",
+   "source": "TechCrunch",
+   "title": "Muse can now place calls to U.S. businesses — if you pay",
+   "url": "https://techcrunch.com/2026/11/12/muse-can-now-place-calls-to-u-s-businesses-if-you-pay/",
+   "summary": "Muse's AI can now place outbound calls to US businesses — but it's not free.",
+   "published_at": 1794522148.0,
+   "published_bj": "2026-11-13 06:22"
+  },
+  {
+   "id": "7ab8e9b885dc570c",
+   "source": "IT之家",
+   "title": "黄仁勋辞职后续：美国司法部对英伟达启动多项调查，包括反垄断调查",
+   "url": "https://www.ithome.com/1/026/451.htm",
+   "summary": "IT之家 11 月 13 日消息，据 Semafor 当地时间 11 月 12 日报道，美国司法部正在开展的多项调查可能将英伟达（NVIDIA）纳入调查范围。 两名美国政府官员透露，在英伟达前 CEO 黄仁勋辞职引发的连锁反应持续发酵之际，美国司法部目前涉及英伟达、Megaspeed 和超微电脑（Supermicro）的多项调查正在推进。 其中，一项调查直接针对英伟达，重点涉及反垄断问题。另外两项调查则分别涉及科技企业 Megaspeed 和超微电脑，调查重点包括 Alice Huang 的相关活动。 Semafor 指出，目前没有迹象表明美国司法部计划以刑事罪名起诉英伟达或黄仁勋。现阶段，针",
+   "published_at": 1794521892.0,
+   "published_bj": "2026-11-13 06:18"
+  },
   {
    "id": "48590d3cbb28ec95",
    "source": "TechCrunch",
@@ -40,6 +58,15 @@
    "published_bj": "2026-11-13 05:15"
   },
   {
+   "id": "a00483de755a76c5",
+   "source": "Hacker News",
+   "title": "Foundation Models Framework (macOS)",
+   "url": "https://developer.apple.com/foundation-models-framework/",
+   "summary": "Article URL: https://developer.apple.com/foundation-models-framework/ Comments URL: https://news.ycombinator.com/item?id=50474361 Points: 35 # Comments: 6",
+   "published_at": 1794518006.0,
+   "published_bj": "2026-11-13 05:13"
+  },
+  {
    "id": "f97b095688cb496e",
    "source": "IT之家",
    "title": "思科 2027 财年第一财季归母净利润 45.52 亿美元，同比增长 59%",
@@ -47,6 +74,15 @@
    "summary": "IT之家 11 月 13 日消息，思科今日发布 2027 财年（2026年7月26日～2027年7月31日）第一财季（2026年7月26日～2026年10月24日）报告： 营业总收入 ：185.17 亿美元 （IT之家注：现汇率约合 1238.01 亿元人民币） ，同比增长 24% 毛利润 ：117.88 亿美元 （现汇率约合 788.12 亿元人民币） ，同比增长 20.96% 毛利率 ：63.7%，同比下降 1.8 个百分点 归母净利润 ：45.52 亿美元 （现汇率约合 304.34 亿元人民币） ，同比增长 59% 经营现金流 ：43.57 亿美元 （现汇率约合 291.3 亿元人民币",
    "published_at": 1794517896.0,
    "published_bj": "2026-11-13 05:11"
+  },
+  {
+   "id": "ccad38cff0fe5f37",
+   "source": "Hacker News",
+   "title": "AI is turning Apple's app review process into a nightmare for synth developers",
+   "url": "https://synthanatomy.com/2026/11/ai-is-turning-apples-app-review-process-into-a-nightmare-for-developers.html",
+   "summary": "Article URL: https://synthanatomy.com/2026/11/ai-is-turning-apples-app-review-process-into-a-nightmare-for-developers.html Comments URL: https://news.ycombinator.com/item?id=50474311 Points: 6 # Comments: 0",
+   "published_at": 1794517789.0,
+   "published_bj": "2026-11-13 05:09"
   },
   {
    "id": "f425679128941b9f",
@@ -252,6 +288,15 @@
    "title": "Outlook is down, and so is Microsoft's status page",
    "url": "https://gvwire.com/2026/11/12/microsoft-outlook-down-for-thousands-of-users-downdetector-shows/",
    "summary": "Article URL: https://gvwire.com/2026/11/12/microsoft-outlook-down-for-thousands-of-users-downdetector-shows/ Comments URL: https://news.ycombinator.com/item?id=50471731 Points: 166 # Comments: 40",
+   "published_at": 1794507648.0,
+   "published_bj": "2026-11-13 02:20"
+  },
+  {
+   "id": "5c2bdc906b8b6156",
+   "source": "Hacker News",
+   "title": "Service degradation on Microsoft 365",
+   "url": "https://status.cloud.microsoft/",
+   "summary": "https://www.abc.net.au/news/2026-11-13/microsoft-outage-affe... https://www.reddit.com/r/sysadmin/comments/1xuje83/microsoft... https://downdetector.com/status/microsoft-365/ Comments URL: https://news.ycombinator.com/item?id=50471731 Points: 323 # Comments: 317",
    "published_at": 1794507648.0,
    "published_bj": "2026-11-13 02:20"
   },
