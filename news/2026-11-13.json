@@ -1,7 +1,7 @@
 {
  "date": "2026-11-13",
- "generated_at": 1794502469.8398802,
- "count": 13,
+ "generated_at": 1794502575.0594983,
+ "count": 14,
  "items": [
   {
    "id": "11594e482a98dba3",
@@ -92,6 +92,15 @@
    "summary": "Nvidia's ousted CEO Jensen Huang's downfall isn’t just your run-of-the-mill salacious billionaire sex scandal. He was using his influence to push the AI industry in some very specific ways.",
    "published_at": 1794501153.0,
    "published_bj": "2026-11-13 00:32"
+  },
+  {
+   "id": "e1b5e09b762a474b",
+   "source": "Hacker News",
+   "title": "Nintendo Takes Down Emulators and Firmware in Massive GitHub DMCA Sweep",
+   "url": "https://www.ign.com/articles/nintendo-takes-down-switch-emulators-and-mod-chip-firmware-in-massive-github-dmca-sweep",
+   "summary": "Article URL: https://www.ign.com/articles/nintendo-takes-down-switch-emulators-and-mod-chip-firmware-in-massive-github-dmca-sweep Comments URL: https://news.ycombinator.com/item?id=50469994 Points: 21 # Comments: 2",
+   "published_at": 1794500953.0,
+   "published_bj": "2026-11-13 00:29"
   },
   {
    "id": "2b95b3f0bf1715b8",

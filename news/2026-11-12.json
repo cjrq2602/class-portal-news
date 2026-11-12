@@ -1,6 +1,6 @@
 {
  "date": "2026-11-12",
- "generated_at": 1794502469.8420198,
+ "generated_at": 1794502575.0626543,
  "count": 400,
  "items": [
   {
@@ -3541,6 +3541,15 @@
    "published_bj": "2026-11-12 03:22"
   },
   {
+   "id": "bf77ecb3c3499801",
+   "source": "Hacker News",
+   "title": "Pulling the Lever in a Subway Problem",
+   "url": "https://www.jefftk.com/p/pulling-the-lever-in-a-subway-problem",
+   "summary": "Article URL: https://www.jefftk.com/p/pulling-the-lever-in-a-subway-problem Comments URL: https://news.ycombinator.com/item?id=50457344 Points: 9 # Comments: 6",
+   "published_at": 1794424929.0,
+   "published_bj": "2026-11-12 03:22"
+  },
+  {
    "id": "dfe309356c2e20d6",
    "source": "Hacker News",
    "title": "Show HN: I recreated Papers Please but you're deciding which YC startups to fund",
@@ -3593,15 +3602,6 @@
    "summary": "Article URL: https://blog.google/innovation-and-ai/technology/developers-tools/gemini-decisions-api/ Comments URL: https://news.ycombinator.com/item?id=50456791 Points: 80 # Comments: 15",
    "published_at": 1794421962.0,
    "published_bj": "2026-11-12 02:32"
-  },
-  {
-   "id": "afeca8908a49ea2d",
-   "source": "Hacker News",
-   "title": "AWS Emulator and the engineer's job when agents write the code",
-   "url": "https://www.allthingsdistributed.com/2026/11/aws-emulator-and-the-engineers-job-when-agents-write-the-code.html",
-   "summary": "Article URL: https://www.allthingsdistributed.com/2026/11/aws-emulator-and-the-engineers-job-when-agents-write-the-code.html Comments URL: https://news.ycombinator.com/item?id=50456740 Points: 47 # Comments: 2",
-   "published_at": 1794421711.0,
-   "published_bj": "2026-11-12 02:28"
   }
  ]
 }
