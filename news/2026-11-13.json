@@ -1,8 +1,89 @@
 {
  "date": "2026-11-13",
- "generated_at": 1794516131.046531,
- "count": 48,
+ "generated_at": 1794519591.9944932,
+ "count": 59,
  "items": [
+  {
+   "id": "48590d3cbb28ec95",
+   "source": "TechCrunch",
+   "title": "The unfolding Jensen Huang scandal: a timeline",
+   "url": "https://techcrunch.com/2026/11/12/nvidia-ceo-jensen-huangs-affair-with-alleged-chinese-spy-a-timeline/",
+   "summary": "Jensen Huang has resigned from Nvidia following an affair, which could have ramifications for national security as the U.S. and China race to develop the most advanced AI infrastructure.",
+   "published_at": 1794519300.0,
+   "published_bj": "2026-11-13 05:35"
+  },
+  {
+   "id": "bdd4a6b6a525cb68",
+   "source": "TechCrunch",
+   "title": "Nebius tests the neocloud playbook with $40 billion in planned spending",
+   "url": "https://techcrunch.com/2026/11/12/nebius-tests-the-neocloud-playbook-with-40-billion-in-planned-spending/",
+   "summary": "Nebius plans to fund its $40 billion AI infrastructure expansion through customer prepayments and loans, even as delays at a Microsoft data center raise questions about its financing model.",
+   "published_at": 1794518830.0,
+   "published_bj": "2026-11-13 05:27"
+  },
+  {
+   "id": "8dfa756fc4738927",
+   "source": "cnBeta",
+   "title": "SpaceX与特斯拉合并谈判取得进展 最早12月宣布交易",
+   "url": "https://www.cnbeta.com.tw/articles/tech/1586148.htm",
+   "summary": "知情人士透露，马斯克旗下SpaceX与特斯拉的合并谈判正取得进展，双方最早可能于今年12月宣布交易，有望创下全球企业并购规模纪录。不过，交易宣布时间也可能推迟至2027年初。 阅读全文",
+   "published_at": 1794518225.0,
+   "published_bj": "2026-11-13 05:17"
+  },
+  {
+   "id": "75a239c26c528dc8",
+   "source": "cnBeta",
+   "title": "《GTA6/侠盗猎车6》韩国特别宣传片公开 多领域艺人共同出演",
+   "url": "https://www.cnbeta.com.tw/articles/game/1586146.htm",
+   "summary": "索尼互动娱乐韩国面向韩国玩家公开《GTA6》特别宣传片“等待结束了”。崔康禄、朴宰范及QWER成员等多领域艺人出演，通过追逐神秘光芒的情节表现等待游戏上市的兴奋感。 阅读全文",
+   "published_at": 1794518158.0,
+   "published_bj": "2026-11-13 05:15"
+  },
+  {
+   "id": "f97b095688cb496e",
+   "source": "IT之家",
+   "title": "思科 2027 财年第一财季归母净利润 45.52 亿美元，同比增长 59%",
+   "url": "https://www.ithome.com/1/026/450.htm",
+   "summary": "IT之家 11 月 13 日消息，思科今日发布 2027 财年（2026年7月26日～2027年7月31日）第一财季（2026年7月26日～2026年10月24日）报告： 营业总收入 ：185.17 亿美元 （IT之家注：现汇率约合 1238.01 亿元人民币） ，同比增长 24% 毛利润 ：117.88 亿美元 （现汇率约合 788.12 亿元人民币） ，同比增长 20.96% 毛利率 ：63.7%，同比下降 1.8 个百分点 归母净利润 ：45.52 亿美元 （现汇率约合 304.34 亿元人民币） ，同比增长 59% 经营现金流 ：43.57 亿美元 （现汇率约合 291.3 亿元人民币",
+   "published_at": 1794517896.0,
+   "published_bj": "2026-11-13 05:11"
+  },
+  {
+   "id": "f425679128941b9f",
+   "source": "IT之家",
+   "title": "应用材料 2026 财年全年归母净利润 100.88 亿美元，同比增长 44%",
+   "url": "https://www.ithome.com/1/026/449.htm",
+   "summary": "IT之家 11 月 13 日消息，应用材料今日发布 2026 财年（2025年10月27日～2026年10月25日）全年及第四财季（2026年7月27日～2026年10月25日）报告： 2026 财年全年 营业总收入 ：344.46 亿美元 （IT之家注：现汇率约合 2302.99 亿元人民币） ，同比增长 21% 毛利润 ：172.19 亿美元 （现汇率约合 1151.23 亿元人民币） 毛利率 ：50% 归母净利润 ：100.88 亿美元 （现汇率约合 674.46 亿元人民币） ，同比增长 44% 经营现金流 ：88.68 亿美元 （现汇率约合 592.9 亿元人民币） 自由现金流 ：6",
+   "published_at": 1794517540.0,
+   "published_bj": "2026-11-13 05:05"
+  },
+  {
+   "id": "a1423920073ff6e7",
+   "source": "cnBeta",
+   "title": "AI智能体声称发现玛雅文明失落遗址 但这个地点早已被记录",
+   "url": "https://www.cnbeta.com.tw/articles/science/1586144.htm",
+   "summary": "人工智能智能体正在尝试进入考古学等专业研究领域，但一项近期引发关注的所谓发现，却暴露出AI工具在科学研究中的一个问题：它们可能识别出了真实存在的目标，却未能判断这些目标是否早已为人所知。 阅读全文",
+   "published_at": 1794516927.0,
+   "published_bj": "2026-11-13 04:55"
+  },
+  {
+   "id": "3c68c1af08cdc3fe",
+   "source": "cnBeta",
+   "title": "黄仁勋被曝还与英伟达另一名员工存在婚外关系 涉及关系增至三起",
+   "url": "https://www.cnbeta.com.tw/articles/tech/1586142.htm",
+   "summary": "英伟达创始人黄仁勋被曝还曾与公司内部另一名员工保持过一段此前未被公开报道的亲密关系。这意味着，围绕黄仁勋的婚外关系争议又出现新的情况。路透社援引两名知情人士称，这段关系涉及一名英伟达员工。出于隐私考虑，路透社没有公布该员工的姓名，也没有披露双方关系持续的时间及其他具体细节。报道指出，这名员工与此前被媒体报道的两名女性并非同一人。 阅读全文",
+   "published_at": 1794516846.0,
+   "published_bj": "2026-11-13 04:54"
+  },
+  {
+   "id": "c339ec971710a992",
+   "source": "cnBeta",
+   "title": "三星Q3折叠屏手机出货份额升至69% Galaxy Z Fold8成为增长主力",
+   "url": "https://www.cnbeta.com.tw/articles/tech/1586140.htm",
+   "summary": "Smart Analytics Global（SAG）基于其Smartphone 360数据估算，2026年第三季度全球折叠屏手机出货量同比下降2%，略超750万部。三星以69%的出货份额居首，创2023年以来新高，出货量同比增长13%；Galaxy Z Fold8上市后表现强劲，也带动三星在韩国和欧洲的折叠机出货实现两位数增长。 阅读全文",
+   "published_at": 1794516792.0,
+   "published_bj": "2026-11-13 04:53"
+  },
   {
    "id": "ce08a89a8c707f34",
    "source": "TechCrunch",
@@ -11,6 +92,15 @@
    "summary": "Reuters is withholding the name of the new employee linked to Huang, but says she is an employee of Nvidia.",
    "published_at": 1794515207.0,
    "published_bj": "2026-11-13 04:26"
+  },
+  {
+   "id": "39b7db6ec632f7cc",
+   "source": "Hacker News",
+   "title": "Microsoft Status: \"We are re-routing the protocols\"",
+   "url": "https://admin.cloud.microsoft/?#/servicehealth/:/alerts/MO1550821",
+   "summary": "Article URL: https://admin.cloud.microsoft/?#/servicehealth/:/alerts/MO1550821 Comments URL: https://news.ycombinator.com/item?id=50473606 Points: 17 # Comments: 11",
+   "published_at": 1794514841.0,
+   "published_bj": "2026-11-13 04:20"
   },
   {
    "id": "f0eba9a0c5677687",
@@ -74,6 +164,15 @@
    "summary": "Nectar's new AI agent automates influencer marketing, helping brands discover creators, manage outreach and partnerships, and track campaign results.",
    "published_at": 1794510660.0,
    "published_bj": "2026-11-13 03:11"
+  },
+  {
+   "id": "d593a26ffa02105b",
+   "source": "Hacker News",
+   "title": "Distributed Ray Tracer",
+   "url": "https://ray.hatchet.run",
+   "summary": "Hey HN, I'm Julius, I'm a backend engineer at Hatchet and created this demo to show off some of Hatchet's new features, primarily durable streams and serverless endpoints. Those, however, are just background details that made this significantly easier to scale. By distributing the rendering across m",
+   "published_at": 1794510383.0,
+   "published_bj": "2026-11-13 03:06"
   },
   {
    "id": "0999bdb4dffeb989",
