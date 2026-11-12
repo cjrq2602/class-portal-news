@@ -1,8 +1,44 @@
 {
  "date": "2026-11-12",
- "generated_at": 1794494975.8779163,
- "count": 372,
+ "generated_at": 1794498735.1539848,
+ "count": 376,
  "items": [
+  {
+   "id": "5ed2fc149df3c6bc",
+   "source": "中新网即时",
+   "title": "黄仁勋辞职后英伟达股价震荡 分析称做空该公司的投资者获利丰厚",
+   "url": "https://www.chinanews.com.cn/gj/2026/11-12/10731232.shtml",
+   "summary": "中新网11月12日电 英伟达官网11月12日发布声明称，黄仁勋已辞去总裁、首席执行官及董事会成员职务，即刻生效。消息公布后，英伟达股价在开盘后暴跌。",
+   "published_at": 1794497868.0,
+   "published_bj": "2026-11-12 23:37"
+  },
+  {
+   "id": "722a3cd2ab3bb55e",
+   "source": "中新网即时",
+   "title": "中新社“新闻会客厅”在土耳其迎来首批国际客人",
+   "url": "https://www.chinanews.com.cn/gj/2026/11-12/10731184.shtml",
+   "summary": "中新网11月12日电 当地时间11月10日，“生态文明与美丽中国实践”主题边会于《联合国气候变化框架公约》第三十一次缔约方大会(COP31)期间在土耳其安塔利亚举办。边会由生态环境部指导，习近平生态文明思想研究中心、中国新闻社主办，生态环境部环境与经济政策研究中心、中国新闻网协办。这是中国新闻社“新闻会客厅”首次在土耳其举办系列活动。",
+   "published_at": 1794496717.0,
+   "published_bj": "2026-11-12 23:18"
+  },
+  {
+   "id": "d7530c5dcacbbfa2",
+   "source": "BBC中文",
+   "title": "誰會接替黃仁勳，正式出任Nvidia執行長？",
+   "url": "https://www.bbc.com/zhongwen/articles/cm894lw1925eo/trad?at_medium=RSS&at_campaign=rss",
+   "summary": "財務長科萊特·克雷斯將暫時接替黃仁勳，但另有數人被視為可能的正式接班人。",
+   "published_at": 1794495658.0,
+   "published_bj": "2026-11-12 23:00"
+  },
+  {
+   "id": "f15e805abd5b2ee5",
+   "source": "中新网即时",
+   "title": "英伟达股价开盘暴跌13% 或创2025年以来最大单日跌幅",
+   "url": "https://www.chinanews.com.cn/gj/2026/11-12/10731230.shtml",
+   "summary": "中新网11月12日电 据外媒报道，英伟达股价开盘大幅下挫，暴跌13%。",
+   "published_at": 1794495086.0,
+   "published_bj": "2026-11-12 22:51"
+  },
   {
    "id": "eca69307e90194ca",
    "source": "中新网即时",
