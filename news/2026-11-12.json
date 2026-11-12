@@ -1,7 +1,7 @@
 {
  "date": "2026-11-12",
- "generated_at": 1794462822.3691924,
- "count": 183,
+ "generated_at": 1794466837.8973575,
+ "count": 201,
  "items": [
   {
    "id": "0b68e2dfff868f9d",
@@ -67,6 +67,150 @@
    "published_bj": "2026-11-12 17:05"
   },
   {
+   "id": "70e1d930aa76a3fc",
+   "source": "cnBeta",
+   "title": "微软AI超分辨率技术Auto SR正式登陆ROG Xbox Ally掌机",
+   "url": "https://www.cnbeta.com.tw/articles/tech/1586062.htm",
+   "summary": "微软AI驱动的超分辨率技术Auto SR现已正式登陆ROG Xbox Ally掌机，为该设备提供AI超分辨率功能。根据微软DirectX开发者博客的公告，Auto SR已结束预览阶段，正式支持ROG Xbox Ally X与Ally X20两款机型，并扩展至部分搭载AMD锐龙处理器的Windows Copilot+ PC。 阅读全文",
+   "published_at": 1794464977.0,
+   "published_bj": "2026-11-12 14:29"
+  },
+  {
+   "id": "6830711cf84532a6",
+   "source": "cnBeta",
+   "title": "马斯克Grok泄露自家机密 SpaceX特斯拉工资绩效全曝光 患者隐私也没逃过",
+   "url": "https://www.cnbeta.com.tw/articles/tech/1586060.htm",
+   "summary": "Grok在让人破绷这件事上，从来不会让人失望。就在刚刚，安全公司Claroc发现， 超过3.5万个用Grok构建的应用，无需登录就能访问，其中一部分直接暴露了企业机密和个人隐私。 最扎眼的是，老马自家的SpaceXSI（SpaceX与xAI合并后的公司）和X，也在其中。 阅读全文",
+   "published_at": 1794464821.0,
+   "published_bj": "2026-11-12 14:27"
+  },
+  {
+   "id": "e99f972e3e701a28",
+   "source": "cnBeta",
+   "title": "马斯克宣布Cybertruck的生产将延长至2027年夏末",
+   "url": "https://www.cnbeta.com.tw/articles/tech/1586058.htm",
+   "summary": "据《商业内幕》报道，特斯拉CEO埃隆·马斯克(Elon Musk)在X上发帖称，Cybertruck的生产将“延长至2027年夏末”，因为特斯拉正在“处理更多Cybertruck积压订单”。 阅读全文",
+   "published_at": 1794464794.0,
+   "published_bj": "2026-11-12 14:26"
+  },
+  {
+   "id": "ba02651e4ac88bd2",
+   "source": "cnBeta",
+   "title": "保时捷CEO抨击会飞的特斯拉：我们不搞任何特效或表演",
+   "url": "https://www.cnbeta.com.tw/articles/tech/1586056.htm",
+   "summary": "彭博社近日报道， 保时捷CEO骆明楷（Michael Leiters）在柏林的一场行业会议上，公开点评特斯拉全新Roadster超跑的“空中飞车”演示，直言保时捷不会效仿这种表演式发布 。他表示：“我们不想搞任何特效或表演，保时捷希望展示真实可落地的技术创新。” 阅读全文",
+   "published_at": 1794464731.0,
+   "published_bj": "2026-11-12 14:25"
+  },
+  {
+   "id": "7e8eea9cc6d95870",
+   "source": "cnBeta",
+   "title": "消息称英伟达部分董事倾向让CFO克雷斯出任临时CEO",
+   "url": "https://www.cnbeta.com.tw/articles/tech/1586054.htm",
+   "summary": "11月12日，据美国新闻网站Semafor报道，知情人士称，英伟达董事会的部分成员倾向于任命公司CFO科莱特·克雷斯(Colette Kress)为临时CEO。 阅读全文",
+   "published_at": 1794464624.0,
+   "published_bj": "2026-11-12 14:23"
+  },
+  {
+   "id": "5aa3542dd3eb5024",
+   "source": "cnBeta",
+   "title": "260万辆新能源车质保即将到期 车主想修不易想换也难",
+   "url": "https://www.cnbeta.com.tw/articles/tech/1586052.htm",
+   "summary": "对于绝大多数新能源车主来说，整台车里成本最高的维修项目，往往就是动力电池的更换，也是养车开支里最不可控的潜在大额支出。不少在二手车市场残值只剩几万元的旧款电动汽车，单独更换一整套全新动力电池的报价，甚至能超过车辆本身的二手市价。 阅读全文",
+   "published_at": 1794464602.0,
+   "published_bj": "2026-11-12 14:23"
+  },
+  {
+   "id": "0646ea3a9602752d",
+   "source": "cnBeta",
+   "title": "马斯克回应Anthropic或不续租SpaceX算力：乐意收回，但实际情况可能相反",
+   "url": "https://www.cnbeta.com.tw/articles/tech/1586050.htm",
+   "summary": "针对Anthropic可能在2027年年中后停止租用SpaceX算力的消息，SpaceX CEO埃隆·马斯克在X平台回应称，公司乐意收回相关算力，但他认为实际情况可能恰恰相反。 阅读全文",
+   "published_at": 1794464523.0,
+   "published_bj": "2026-11-12 14:22"
+  },
+  {
+   "id": "72bddba7f35aee84",
+   "source": "cnBeta",
+   "title": "白宫不会干预英伟达董事会对黄仁勋去留的决定",
+   "url": "https://www.cnbeta.com.tw/articles/tech/1586048.htm",
+   "summary": "11月12日，据《华盛顿邮报》报道，英伟达董事会计划评估联合创始人兼CEO黄仁勋是否继续执掌公司。尽管黄仁勋与美国总统特朗普关系密切，但 知情人士称，白宫不会干预英伟达董事会的决定 。 阅读全文",
+   "published_at": 1794464422.0,
+   "published_bj": "2026-11-12 14:20"
+  },
+  {
+   "id": "fd3d99ee6de8fb5d",
+   "source": "cnBeta",
+   "title": "腾讯否认“裁员50%”传闻：系AI时代资源重新调度的比喻",
+   "url": "https://www.cnbeta.com.tw/articles/tech/1586046.htm",
+   "summary": "11月12日，针对网络流传的“腾讯将裁员50%”消息，腾讯公司公关总监张军在微博发文辟谣，称这是“纯纯的误会和谣言”。 张军还原称，在腾讯28周年Linktime线上直播中，管理层表达了加快组织变革的决心，并特别说明这与几年前“降本增效”不同——前一次相对被动、更偏“降本”，此次是面向AI时代的主动出击，更偏“增效”，鼓励一线同事积极举手向前冲，中间管理层则需变得更扁平和灵敏。 阅读全文",
+   "published_at": 1794464399.0,
+   "published_bj": "2026-11-12 14:19"
+  },
+  {
+   "id": "35631dc3a77c9a58",
+   "source": "cnBeta",
+   "title": "马斯克回应网友建议雇佣黄仁勋：那将是我的荣幸！",
+   "url": "https://www.cnbeta.com.tw/articles/tech/1586044.htm",
+   "summary": "马斯克又在社交媒体上谈到了英伟达CEO黄仁勋。当地时间11月12日，知名财经评论账号ZeroHedge在社交平台X上发文，向马斯克喊话：“Elon please hire Jensen”（埃隆，请雇佣黄仁勋）。 阅读全文",
+   "published_at": 1794463913.0,
+   "published_bj": "2026-11-12 14:11"
+  },
+  {
+   "id": "e61b297454e47db9",
+   "source": "cnBeta",
+   "title": "Polymarket 称黄仁勋之女黄敏珊为英伟达 CEO“领先候选人” 但概率仅 12%",
+   "url": "https://www.cnbeta.com.tw/articles/tech/1586042.htm",
+   "summary": "围绕英伟达下一任首席执行官人选的猜测再度升温。预测市场平台 Polymarket 今天（11 月 12 日）在 X 平台发文称，黄仁勋之女黄敏珊（Madison Huang）已成为接任英伟达 CEO 的“领先候选人”。该推文发出后迅速传播，截至发稿浏览量已超过 100 万。 阅读全文",
+   "published_at": 1794463808.0,
+   "published_bj": "2026-11-12 14:10"
+  },
+  {
+   "id": "f01ae34754f5ef50",
+   "source": "cnBeta",
+   "title": "英伟达高管鲍威尔被曝与黄仁勋有染后，取消周四行程",
+   "url": "https://www.cnbeta.com.tw/articles/tech/1586040.htm",
+   "summary": "英伟达医疗保健业务副总裁金伯利·鲍威尔（Kimberly Powell）已取消原定于周四在华盛顿特区某会议上的出席计划。 阅读全文",
+   "published_at": 1794463767.0,
+   "published_bj": "2026-11-12 14:09"
+  },
+  {
+   "id": "27c82e1df751eba0",
+   "source": "cnBeta",
+   "title": "88%的员工挺他留任 董事会却在查他 黄仁勋的\"员工民意\"有多少含金量？",
+   "url": "https://www.cnbeta.com.tw/articles/tech/1586038.htm",
+   "summary": "近日，一条推文在社交平台上流传：英伟达接受调查的员工中，88%希望黄仁勋继续担任CEO，只有1%希望他下台。推文还补了一句：要是英伟达的员工反目，把让他们一半人成为百万富翁的那个人赶下台，那可就太离谱了。 阅读全文",
+   "published_at": 1794463714.0,
+   "published_bj": "2026-11-12 14:08"
+  },
+  {
+   "id": "f597de3af0976ccb",
+   "source": "cnBeta",
+   "title": "荷兰法院驳回捷豹路虎突击取证申请 比亚迪海外知识产权抗辩取得阶段性利好",
+   "url": "https://www.cnbeta.com.tw/articles/tech/1586036.htm",
+   "summary": "捷豹路虎与比亚迪Ti7的知识产权纠纷迎来关键程序性裁定。荷兰海牙法院正式驳回捷豹路虎提出的证据保全申请，不同意其对比亚迪相关办公资料开展突击搜查、调取内部研发文件的诉求。 阅读全文",
+   "published_at": 1794463660.0,
+   "published_bj": "2026-11-12 14:07"
+  },
+  {
+   "id": "e9c05d1c1f234a82",
+   "source": "cnBeta",
+   "title": "世界最快远洋客轮“美国号”沉入海底：74年传奇落幕 成为全球最大人工鱼礁",
+   "url": "https://www.cnbeta.com.tw/articles/tech/1586034.htm",
+   "summary": "曾经创造跨大西洋航行速度纪录的美国远洋客轮“美国号”（SS United States），在服役74年后迎来了最终归宿。2026年11月11日，这艘曾经代表美国造船工业巅峰的巨型客轮在佛罗里达州西北部海域被有控制地沉入海底，正式转变为全球最大的人工鱼礁之一，也标志着一段远洋客轮黄金时代的历史彻底落幕。 阅读全文",
+   "published_at": 1794463227.0,
+   "published_bj": "2026-11-12 14:00"
+  },
+  {
+   "id": "e2a8a2727b0fca7f",
+   "source": "cnBeta",
+   "title": "新型Remus恶意软件盯上Gmail账户 修改密码后攻击者或仍能访问邮箱",
+   "url": "https://www.cnbeta.com.tw/articles/tech/1586032.htm",
+   "summary": "网络安全研究人员近期披露，一款名为Remus的恶意软件正引发广泛关注。与传统窃密程序不同的是，该恶意软件被发现能够窃取与Google账户相关的身份验证令牌，从而让攻击者在某些情况下即使在受害者修改密码后，仍可能继续保留对Gmail账户的访问权限。 阅读全文",
+   "published_at": 1794463083.0,
+   "published_bj": "2026-11-12 13:58"
+  },
+  {
    "id": "fb7ed53035add424",
    "source": "IT之家",
    "title": "消息称通芯智能已完成数亿元融资，首款 AGI 芯片计划 12 月开展原型验证",
@@ -101,6 +245,15 @@
    "summary": "Anthropic 在 IPO 路演中披露，该公司使用 Claude Mythos Preview 协助适配 AMD AI 加速器。A 社称 Claude AI 仅用 3 天就让内部模型在 AMD MI355X 上完成提示词处理，并达到可用的性能水平。 阅读全文",
    "published_at": 1794462606.0,
    "published_bj": "2026-11-12 13:50"
+  },
+  {
+   "id": "9dff9864d2faba8d",
+   "source": "Hacker News",
+   "title": "I'm Working on a FOSS Linux Pinbal Simulation Engine",
+   "url": "https://www.getlazarus.org/forums/topic/17/",
+   "summary": "Article URL: https://www.getlazarus.org/forums/topic/17/ Comments URL: https://news.ycombinator.com/item?id=50463540 Points: 11 # Comments: 1",
+   "published_at": 1794462574.0,
+   "published_bj": "2026-11-12 13:49"
   },
   {
    "id": "2c3736c84a3b68a7",
@@ -469,6 +622,15 @@
    "url": "https://www.ithome.com/1/025/912.htm",
    "summary": "IT之家 11 月 12 日消息，长城汽车董事长魏建军正式公布了长城首台超跑。魏建军表示，这款超级跑车的对标目标是法拉利，同时放出了新车与法拉利 SF90 的对比测试视频。 据魏建军介绍，新车预计于 2026 年年底正式亮相，2027 年上市。 魏建军表示，该车搭载的是国内首款自主研发的 4.0L 双涡轮增压 V8 发动机，并与 PHEV 插混系统结合。 这台 V8 发动机的技术细节在 2026 年北京车展期间已部分公开。长城为超跑与 GT3 赛车同步开发的 GF 高性能架构中，4.0T V8 采用 90 度 V 角与 HOT V 型双涡轮布局，配备了赛道级电控软件和干式润滑系统。与之匹配的是",
    "published_at": 1794453532.0,
+   "published_bj": "2026-11-12 11:18"
+  },
+  {
+   "id": "fc33efdf1e13bcef",
+   "source": "Hacker News",
+   "title": "Bad ideas that aren't bad anymore",
+   "url": "https://devonestes.com/bad-ideas-that-arent-bad-anymore",
+   "summary": "Article URL: https://devonestes.com/bad-ideas-that-arent-bad-anymore Comments URL: https://news.ycombinator.com/item?id=50462613 Points: 14 # Comments: 4",
+   "published_at": 1794453493.0,
    "published_bj": "2026-11-12 11:18"
   },
   {
