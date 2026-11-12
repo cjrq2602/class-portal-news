@@ -1,7 +1,7 @@
 {
  "date": "2026-11-12",
- "generated_at": 1794491652.3451505,
- "count": 355,
+ "generated_at": 1794494971.049133,
+ "count": 371,
  "items": [
   {
    "id": "ef00a79cbf89dadc",
@@ -11,6 +11,150 @@
    "summary": "点击查看原文>",
    "published_at": 1794495600.0,
    "published_bj": "2026-11-12 23:00"
+  },
+  {
+   "id": "0ae00dbe1396756a",
+   "source": "Hacker News",
+   "title": "Abandoned Quake 4 expansion finished by modders and now playable",
+   "url": "https://www.moddb.com/mods/openq4/downloads/openq4-0141-windows-x64",
+   "summary": "Article URL: https://www.moddb.com/mods/openq4/downloads/openq4-0141-windows-x64 Comments URL: https://news.ycombinator.com/item?id=50467618 Points: 6 # Comments: 0",
+   "published_at": 1794493129.0,
+   "published_bj": "2026-11-12 22:18"
+  },
+  {
+   "id": "5d14d4f253eea975",
+   "source": "IT之家",
+   "title": "黄仁勋辞任 CEO 后，英伟达称维持原定时间公布 2027 财年三季度财报",
+   "url": "https://www.ithome.com/1/026/421.htm",
+   "summary": "IT之家 11 月 12 日消息，英伟达今日表示，公司将于太平洋时间 11 月 17 日下午 1 时 20 分左右公布 2027 财年第三季度财务业绩，并于当日下午 2 时召开业绩电话会议，相关安排维持不变。 今天早些时候英伟达发布声明称， 黄仁勋已辞去总裁、首席执行官及董事会成员职务 ，即刻生效。 现任执行副总裁兼首席财务官科莱特 · 克雷斯（Colette Kress）已同意担任临时 CEO。在正式继任者确定之前，克雷斯将继续履行其执行副总裁兼首席财务官的职责。董事会目前已启动正式 CEO 的遴选工作，并将综合考量内部及外部候选人。 IT之家注意到，英伟达董事会还任命曾任新思科技 CEO ",
+   "published_at": 1794492861.0,
+   "published_bj": "2026-11-12 22:14"
+  },
+  {
+   "id": "219d69a40eb26253",
+   "source": "Hacker News",
+   "title": "Talking Zen 6 with Mike Clark at AMD In-Depth",
+   "url": "https://chipsandcheese.com/p/talking-zen-6-with-mike-clark-at",
+   "summary": "Article URL: https://chipsandcheese.com/p/talking-zen-6-with-mike-clark-at Comments URL: https://news.ycombinator.com/item?id=50467460 Points: 3 # Comments: 0",
+   "published_at": 1794492757.0,
+   "published_bj": "2026-11-12 22:12"
+  },
+  {
+   "id": "f6b8d6ed69986265",
+   "source": "TechCrunch",
+   "title": "Nvidia’s Jensen Huang resigns, chipmaker names CFO Colette Kress as interim CEO",
+   "url": "https://techcrunch.com/2026/11/12/nvidias-jensen-huang-resigns-chipmaker-names-cfo-colette-kress-as-interim-ceo/",
+   "summary": "Nvidia gets a new chief executive, days after former CEO Jensen Huang admitted to a romantic affair with an alleged Chinese spy.",
+   "published_at": 1794492634.0,
+   "published_bj": "2026-11-12 22:10"
+  },
+  {
+   "id": "9d4a8504cc8f48be",
+   "source": "Hacker News",
+   "title": "Electric Ship Batteries Promise Compact, Cooler Power",
+   "url": "https://spectrum.ieee.org/electric-ship-batteries",
+   "summary": "Article URL: https://spectrum.ieee.org/electric-ship-batteries Comments URL: https://news.ycombinator.com/item?id=50467305 Points: 3 # Comments: 0",
+   "published_at": 1794492363.0,
+   "published_bj": "2026-11-12 22:06"
+  },
+  {
+   "id": "e62d785613e5609f",
+   "source": "Hacker News",
+   "title": "Jane Street – Our software engineering interviews are changing (a little)",
+   "url": "https://blog.janestreet.com/software-engineering-interviews-are-changing-a-little/",
+   "summary": "Article URL: https://blog.janestreet.com/software-engineering-interviews-are-changing-a-little/ Comments URL: https://news.ycombinator.com/item?id=50467297 Points: 4 # Comments: 0",
+   "published_at": 1794492328.0,
+   "published_bj": "2026-11-12 22:05"
+  },
+  {
+   "id": "9cff9904fd4a4293",
+   "source": "Hacker News",
+   "title": "Nvidia CEO Jensen Huang resigns after reports of extramarital relationships",
+   "url": "https://www.nbcnews.com/tech/tech-news/nvidia-ceo-jensen-huang-resigns-reports-extramarital-relationships-rcna608402",
+   "summary": "Article URL: https://www.nbcnews.com/tech/tech-news/nvidia-ceo-jensen-huang-resigns-reports-extramarital-relationships-rcna608402 Comments URL: https://news.ycombinator.com/item?id=50467191 Points: 16 # Comments: 9",
+   "published_at": 1794492054.0,
+   "published_bj": "2026-11-12 22:00"
+  },
+  {
+   "id": "4829db054cdd9399",
+   "source": "IT之家",
+   "title": "黄仁勋辞任英伟达 CEO，公司美股盘前跌幅扩大至 10%",
+   "url": "https://www.ithome.com/1/026/397.htm",
+   "summary": "IT之家 11 月 12 日消息，英伟达刚刚发布声明称，黄仁勋已辞去总裁、首席执行官及董事会成员职务，即刻生效。截至IT之家发稿，英伟达美股盘前跌幅扩大至 10%。 现任执行副总裁兼首席财务官科莱特 · 克雷斯（Colette Kress）已同意担任临时 CEO。在正式继任者确定之前，克雷斯将继续履行其执行副总裁兼首席财务官的职责。董事会目前已启动正式 CEO 的遴选工作，并将综合考量内部及外部候选人。 英伟达董事会还任命曾任新思科技 CEO 的哈维 ·C· 琼斯（Harvey C. Jones）为公司史上首位董事会主席。",
+   "published_at": 1794491921.0,
+   "published_bj": "2026-11-12 21:58"
+  },
+  {
+   "id": "6b428718437dce5f",
+   "source": "IT之家",
+   "title": "黄仁勋辞职后，英伟达任命执行副总裁兼首席财务官科莱特 · 克雷斯为临时首席执行官",
+   "url": "https://www.ithome.com/1/026/396.htm",
+   "summary": "IT之家 11 月 12 日消息，黄仁勋辞职后，英伟达任命执行副总裁兼首席财务官科莱特 · 克雷斯（Colette Kress）为临时首席执行官。 英伟达董事会今日宣布，现任英伟达执行副总裁兼首席财务官科莱特 · 克雷斯已同意出任临时首席执行官。 在正式继任者确定之前，克雷斯在代行首席执行官职责的同时，将继续兼任执行副总裁兼首席财务官。 董事会目前已启动正式首席执行官的遴选工作，并将统筹考虑内部及外部候选人 。 IT之家注：克雷斯拥有亚利桑那大学金融系的理学学士学位和南卫理公会大学工商管理硕士（MBA）学位。自 2013 年 9 月加入英伟达以来，克雷斯一直担任执行副总裁兼首席财务官。 英伟达",
+   "published_at": 1794491855.0,
+   "published_bj": "2026-11-12 21:57"
+  },
+  {
+   "id": "2e712426d5d2e595",
+   "source": "Hacker News",
+   "title": "Nvidia CEO Jensen Huang resigns after reports of second affair deepened scandal",
+   "url": "https://www.bbc.co.uk/news/live/c6zjry11v8w1t",
+   "summary": "Article URL: https://www.bbc.co.uk/news/live/c6zjry11v8w1t Comments URL: https://news.ycombinator.com/item?id=50467139 Points: 61 # Comments: 28",
+   "published_at": 1794491798.0,
+   "published_bj": "2026-11-12 21:56"
+  },
+  {
+   "id": "664e898d926ac555",
+   "source": "Hacker News",
+   "title": "Jensen Huang resigns as Nvidia CEO immediately",
+   "url": "https://www.reuters.com/live/nvidia-live-board-meets-fate-ceo-jensen-huang-after-affair-reports-2026-11-12/",
+   "summary": "Article URL: https://www.reuters.com/live/nvidia-live-board-meets-fate-ceo-jensen-huang-after-affair-reports-2026-11-12/ Comments URL: https://news.ycombinator.com/item?id=50467132 Points: 139 # Comments: 50",
+   "published_at": 1794491771.0,
+   "published_bj": "2026-11-12 21:56"
+  },
+  {
+   "id": "a6bfa2af868c9038",
+   "source": "Hacker News",
+   "title": "NVIDIA Announces CEO Transition",
+   "url": "https://nvidianews.nvidia.com/news/nvidia-announces-ceo-transition",
+   "summary": "Article URL: https://nvidianews.nvidia.com/news/nvidia-announces-ceo-transition Comments URL: https://news.ycombinator.com/item?id=50467087 Points: 541 # Comments: 387",
+   "published_at": 1794491549.0,
+   "published_bj": "2026-11-12 21:52"
+  },
+  {
+   "id": "95974e4e8e058aad",
+   "source": "IT之家",
+   "title": "即刻生效！英伟达宣布黄仁勋辞去总裁、首席执行官和董事会成员职务",
+   "url": "https://www.ithome.com/1/026/394.htm",
+   "summary": "IT之家 11 月 12 日消息，英伟达董事会今日宣布，黄仁勋辞去总裁、首席执行官及董事会成员职务，即刻生效。 英伟达执行副总裁兼 CFO 科莱特 · 克雷斯同意出任临时 CEO，在董事会选出正式继任者前兼任这一职务，并继续担任执行副总裁和 CFO。 董事会将启动新任 CEO 的遴选工作，候选人包括 公司内部高管和外部人士 。克雷斯自 2013 年 9 月加入英伟达以来，一直担任执行副总裁兼 CFO，负责领导财务部门。此前，她曾在思科、微软等大型科技企业从事财务工作近 25 年。 董事会同时任命 哈维 ·C· 琼斯为英伟达首任董事长 。琼斯拥有超过 30 年的创业、科技企业管理和风险投资经验，",
+   "published_at": 1794491473.0,
+   "published_bj": "2026-11-12 21:51"
+  },
+  {
+   "id": "f0d57247e96010d2",
+   "source": "IT之家",
+   "title": "京东完成对德国消费电子零售商 Ceconomy 收购要约，13.35 亿欧元获 59.8% 股本及投票权",
+   "url": "https://www.ithome.com/1/026/393.htm",
+   "summary": "IT之家 11 月 12 日消息，京东集团今日宣布，完成对德国消费电子零售商 Ceconomy 的收购要约，以总对价 13.35 亿欧元 （IT之家注：现汇率约合 99.14 亿元人民币） 收购 Ceconomy 59.8% 的股本及投票权。随着本次收购完成， Ceconomy 成为京东集团子公司 。 连同京东集团合作伙伴 Convergenta 保留的 25.3% 股权，此项收购使双方在 Ceconomy 的合计持股比例达 85.2%。 Ceconomy 旗下拥有 MediaMarkt、Saturn、MediaWorld 品牌，经营手机、电脑及各类家电。在 11 个国家及地区运营着 1,00",
+   "published_at": 1794491411.0,
+   "published_bj": "2026-11-12 21:50"
+  },
+  {
+   "id": "50dca8e19160c893",
+   "source": "IT之家",
+   "title": "100 分贝噪音中也能揪出人声：NTT 推出可穿戴麦克风 SonoVo Stick，2.4 万日元",
+   "url": "https://www.ithome.com/1/026/392.htm",
+   "summary": "IT之家 11 月 12 日消息，据外媒 NotebookCheck 今天（12 日）晚间报道，今年 6 月首秀的 NTT Sonority 旗下专业通信设备 SonoVo Stick 近日在日本市场开售，售价 24,000 日元 （IT之家注：现汇率约合 1,007 元人民币） （不含税）。 SonoVo Stick 是一款仅重 29g 的可穿戴麦克风，可以通过磁吸夹固定在衣服上，支持蓝牙 5.3 连接。设备内置两枚 MEMS 麦克风，并采用 NTT 专利技术 Magic Focus Voice，通过 定向收音和噪声过滤 ，将说话者的声音从背景噪声中分离出来，减少周围环境对通话的干扰。 NT",
+   "published_at": 1794490737.0,
+   "published_bj": "2026-11-12 21:38"
+  },
+  {
+   "id": "a8993aab1ffcaefc",
+   "source": "Solidot",
+   "title": "《Big Walk》开发商利用 AI 修 Bug 引起争议",
+   "url": "https://www.solidot.org/story?sid=85869",
+   "summary": "热门独游《Big Walk》开发商 House House 承认在生成式 AI 帮助下修 bug，结果在独立游戏节（Independent Games Festival，IGF）上引发了激烈争议。IGF 评委团的多名成员周一发表联合声明，强烈反对使用生成式 AI 的游戏，并督促官方制定强有力的反 AI 政策。《Big Walk》是一款非常受欢迎的合作冒险游戏，使用了 Unity 引擎开发，开发商发现游戏存在一个拖慢游戏速度的 bug，联络 Unity 工程师后被告知无法解决，于是询问了生成式 AI 工具，大模型提供了一种修复思路，House House 在此基础上写出了用于最终产品的 10 行",
+   "published_at": 1794490029.0,
+   "published_bj": "2026-11-12 21:27"
   },
   {
    "id": "ebb709f43b24547b",
