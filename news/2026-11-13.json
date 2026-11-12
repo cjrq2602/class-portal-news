@@ -1,8 +1,89 @@
 {
  "date": "2026-11-13",
- "generated_at": 1794509122.1274343,
- "count": 25,
+ "generated_at": 1794512876.574168,
+ "count": 43,
  "items": [
+  {
+   "id": "f2a162e3beb8f2ee",
+   "source": "cnBeta",
+   "title": "Google正式发布Gemini 4 Hydrogen 速度与智能水平大幅提升",
+   "url": "https://www.cnbeta.com.tw/articles/tech/1586138.htm",
+   "summary": "Google于2026年11月12日正式推出新一代人工智能模型Gemini 4 Hydrogen。这款模型原本被外界预期会沿用Flash命名体系，但Google最终选择了全新的Hydrogen名称，将其定位为面向日常使用、快速编程和智能体工作流程的高效率模型。 阅读全文",
+   "published_at": 1794512742.0,
+   "published_bj": "2026-11-13 03:45"
+  },
+  {
+   "id": "3027ee9257ead47b",
+   "source": "cnBeta",
+   "title": "SpaceX计划在亚利桑那州和德克萨斯州投资740亿美元建设数据中心项目",
+   "url": "https://www.cnbeta.com.tw/articles/tech/1586136.htm",
+   "summary": "SpaceX计划建造两个超级计算设施，以推动其快速增长的人工智能业务，包括在亚利桑那州新建一个价值500亿美元的基地。埃隆·马斯克的公司在周四宣布，正在德克萨斯州和亚利桑那州建设更多基础设施项目——包括计算项目和运营燃气发电厂——总投资达740亿美元。 阅读全文",
+   "published_at": 1794512453.0,
+   "published_bj": "2026-11-13 03:40"
+  },
+  {
+   "id": "4f04697d4b7b2f50",
+   "source": "cnBeta",
+   "title": "英伟达首任主席及临时首席执行官致员工的备忘录全文",
+   "url": "https://www.cnbeta.com.tw/articles/tech/1586134.htm",
+   "summary": "英伟达与将公司打造成行业领军芯片制造商的创始人黄仁勋切割后，临时首席执行官Colette Kress和首任董事会主席Harvey Jones发表了致员工的备忘录解释这些变化： 阅读全文",
+   "published_at": 1794512399.0,
+   "published_bj": "2026-11-13 03:39"
+  },
+  {
+   "id": "c4a568881626fb98",
+   "source": "TechCrunch",
+   "title": "Google’s latest Search upgrade promises better answers to your most complicated questions",
+   "url": "https://techcrunch.com/2026/11/12/googles-latest-search-upgrade-promises-better-answers-to-your-most-complicated-questions/",
+   "summary": "Powered by Gemini 4 Hydrogen, Google's AI Mode is getting better at understanding complex queries, surfacing relevant links, and delivering richer visual responses.",
+   "published_at": 1794511665.0,
+   "published_bj": "2026-11-13 03:27"
+  },
+  {
+   "id": "5cc45249cf41e9de",
+   "source": "TechCrunch",
+   "title": "Nectar launches an AI agent to automate creator discovery and outreach for brands",
+   "url": "https://techcrunch.com/2026/11/12/nectar-launches-an-ai-agent-to-automate-creator-discovery-and-outreach-for-brands/",
+   "summary": "Nectar's new AI agent automates influencer marketing, helping brands discover creators, manage outreach and partnerships, and track campaign results.",
+   "published_at": 1794510660.0,
+   "published_bj": "2026-11-13 03:11"
+  },
+  {
+   "id": "0999bdb4dffeb989",
+   "source": "Hacker News",
+   "title": "Dwarf planet candidate appears which takes roughly 280 years to orbit our sun",
+   "url": "https://www.smithsonianmag.com/smart-news/astronomers-found-a-mysterious-object-orbiting-far-beyond-pluto-it-could-be-a-new-dwarf-planet-hidden-in-our-solar-system-180989857/",
+   "summary": "Article URL: https://www.smithsonianmag.com/smart-news/astronomers-found-a-mysterious-object-orbiting-far-beyond-pluto-it-could-be-a-new-dwarf-planet-hidden-in-our-solar-system-180989857/ Comments URL: https://news.ycombinator.com/item?id=50472490 Points: 19 # Comments: 1",
+   "published_at": 1794510333.0,
+   "published_bj": "2026-11-13 03:05"
+  },
+  {
+   "id": "0fdaaaee34e84fe6",
+   "source": "TechCrunch",
+   "title": "Microsoft’s Outlook email hit by new outage",
+   "url": "https://techcrunch.com/2026/11/12/microsofts-outlook-email-hit-by-new-outage/",
+   "summary": "Microsoft hasn't yet given a cause for the outage, which is affecting Outlook email users.",
+   "published_at": 1794510219.0,
+   "published_bj": "2026-11-13 03:03"
+  },
+  {
+   "id": "0284b7ecaf5fef3f",
+   "source": "Hacker News",
+   "title": "Apify Security Incident",
+   "url": "https://status.apify.com/incidents/sxd1dj5j6749",
+   "summary": "Article URL: https://status.apify.com/incidents/sxd1dj5j6749 Comments URL: https://news.ycombinator.com/item?id=50472323 Points: 8 # Comments: 0",
+   "published_at": 1794509771.0,
+   "published_bj": "2026-11-13 02:56"
+  },
+  {
+   "id": "56f6161430238c99",
+   "source": "Hacker News",
+   "title": "Gemini 4 Hydrogen and Orchestrator",
+   "url": "https://antigravity.google/blog/gemini-4-hydrogen-in-google-antigravity/",
+   "summary": "Article URL: https://antigravity.google/blog/gemini-4-hydrogen-in-google-antigravity/ Comments URL: https://news.ycombinator.com/item?id=50472260 Points: 33 # Comments: 3",
+   "published_at": 1794509521.0,
+   "published_bj": "2026-11-13 02:52"
+  },
   {
    "id": "af09eec475b2f52e",
    "source": "TechCrunch",
@@ -13,6 +94,69 @@
    "published_bj": "2026-11-13 02:39"
   },
   {
+   "id": "5fbe8d2215ca8cde",
+   "source": "Hacker News",
+   "title": "Rust 1.100.0",
+   "url": "https://github.com/rust-lang/rust/releases/tag/1.100.0",
+   "summary": "Article URL: https://github.com/rust-lang/rust/releases/tag/1.100.0 Comments URL: https://news.ycombinator.com/item?id=50471793 Points: 221 # Comments: 47",
+   "published_at": 1794507846.0,
+   "published_bj": "2026-11-13 02:24"
+  },
+  {
+   "id": "3cc47ea035f6024f",
+   "source": "Hacker News",
+   "title": "22-Year-Old PostgreSQL Bug Turned into Remote Code Execution",
+   "url": "https://mehmetince.net/part-3-6-how-i-ended-up-turning-a-22-year-old-postgresql-type-confusion-primitive-into-rce-cve-2026-6460/",
+   "summary": "Article URL: https://mehmetince.net/part-3-6-how-i-ended-up-turning-a-22-year-old-postgresql-type-confusion-primitive-into-rce-cve-2026-6460/ Comments URL: https://news.ycombinator.com/item?id=50471761 Points: 21 # Comments: 0",
+   "published_at": 1794507742.0,
+   "published_bj": "2026-11-13 02:22"
+  },
+  {
+   "id": "95a111b3dbdf4e20",
+   "source": "Hacker News",
+   "title": "Outlook is down, and so is Microsoft's status page",
+   "url": "https://gvwire.com/2026/11/12/microsoft-outlook-down-for-thousands-of-users-downdetector-shows/",
+   "summary": "Article URL: https://gvwire.com/2026/11/12/microsoft-outlook-down-for-thousands-of-users-downdetector-shows/ Comments URL: https://news.ycombinator.com/item?id=50471731 Points: 166 # Comments: 40",
+   "published_at": 1794507648.0,
+   "published_bj": "2026-11-13 02:20"
+  },
+  {
+   "id": "2a127cdf274138a7",
+   "source": "IT之家",
+   "title": "谷歌发布 Gemini 4 Hydrogen 模型：主打日常编程与智能体工作流，百万 Token 输入 1.5 美元",
+   "url": "https://www.ithome.com/1/026/446.htm",
+   "summary": "IT之家 11 月 13 日消息，谷歌正式推出 Gemini 4 Hydrogen 模型，主打快速执行与高效运行，面向日常编码和智能体工作流场景，将 Gemini 4 系列能力全面下放至所有层级用户。 输入：每百万 Tokens 1.50 美元 （IT之家注：现汇率约合 10.0 元人民币） 输出：每百万 Tokens 7.50 美元 （现汇率约合 50.1 元人民币） 该定价覆盖 全 100 万 Token 上下文窗口 ，无分段阶梯计价。在 Artificial Analysis 智能指数中，Hydrogen 默认高思考档位得分 51，高于 Gemini 4 Argon 的 50，最高 xh",
+   "published_at": 1794507437.0,
+   "published_bj": "2026-11-13 02:17"
+  },
+  {
+   "id": "d909a99a55ff8b99",
+   "source": "Hacker News",
+   "title": "Ask HN: Microsoft/Azure Outage?",
+   "url": "https://news.ycombinator.com/item?id=50471668",
+   "summary": "For the past 5 minutes all of our Microsoft Cloud connections are down. Anyone else? The Status page won't even load. Comments URL: https://news.ycombinator.com/item?id=50471668 Points: 220 # Comments: 95",
+   "published_at": 1794507433.0,
+   "published_bj": "2026-11-13 02:17"
+  },
+  {
+   "id": "e800f2e981332290",
+   "source": "Hacker News",
+   "title": "Show HN: AgentRun – open-source, Self-improving Managed Agents",
+   "url": "https://github.com/Parcha-ai/agentrun/blob/main/README.md",
+   "summary": "We (GREP.AI, YC F26) are open-sourcing AgentRun and turning it into a full managed agents platform. Read more about it in this post: https://agentrun.ai/blog/introducing-agentrun-run-smarter-ag... . It includes what we originally built for our own agent harness: - Self-improving agents - Web-grounde",
+   "published_at": 1794507348.0,
+   "published_bj": "2026-11-13 02:15"
+  },
+  {
+   "id": "6385b33257ff653b",
+   "source": "Hacker News",
+   "title": "Singapore Says U.S. Not Helpful on Investigation into Suspected Spy's Company",
+   "url": "https://www.nytimes.com/2026/11/12/business/nvidia-megaspeed-alice-huang.html",
+   "summary": "Article URL: https://www.nytimes.com/2026/11/12/business/nvidia-megaspeed-alice-huang.html Comments URL: https://news.ycombinator.com/item?id=50471621 Points: 52 # Comments: 6",
+   "published_at": 1794507258.0,
+   "published_bj": "2026-11-13 02:14"
+  },
+  {
    "id": "1a2305297621c7b6",
    "source": "cnBeta",
    "title": "三星结束近四年反向无线充电专利诉讼 Wireless PowerShare侵权争议庭外和解",
@@ -20,6 +164,15 @@
    "summary": "三星电子围绕Galaxy手机反向无线充电功能展开的一场专利诉讼，终于在持续近四年后画上句号。三星、专利持有方WiPQTUS Inc.以及日本半导体企业瑞萨电子（Renesas Electronics）已经达成庭外和解，三方同意撤销所有相关诉讼请求，并承诺今后不再就同一争议事项相互提起诉讼。 阅读全文",
    "published_at": 1794506762.0,
    "published_bj": "2026-11-13 02:06"
+  },
+  {
+   "id": "05d4fad3753a2b0c",
+   "source": "Hacker News",
+   "title": "Gemini 4 Hydrogen",
+   "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-hydrogen/",
+   "summary": "Article URL: https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-hydrogen/ Comments URL: https://news.ycombinator.com/item?id=50471431 Points: 278 # Comments: 177",
+   "published_at": 1794506508.0,
+   "published_bj": "2026-11-13 02:01"
   },
   {
    "id": "51d18ff0f6e9956a",
@@ -56,6 +209,15 @@
    "summary": "地球拥有约45亿年的历史，但在世界许多地区的岩层中，却存在着一段令人困惑的时间空白：一些古老岩石与其上方较年轻的沉积岩之间，竟然缺失了数亿年，甚至超过10亿年的地质记录。 科学家将这种现象称为“大不整合面”（Great Unconformity）。近日，澳大利亚伍伦贡大学研究团队提出了一种新的解释：地球深处缓慢流动的地幔物质，可能曾经推动古老大陆大规模隆起，导致岩石长期暴露并遭受侵蚀；随后大陆逐渐下沉，海洋和沉积物覆盖这些被侵蚀的地表，从而将这段地质间断保存至今。 阅读全文",
    "published_at": 1794503190.0,
    "published_bj": "2026-11-13 01:06"
+  },
+  {
+   "id": "aa1d30750868f706",
+   "source": "Hacker News",
+   "title": "Show HN: My $300 embroidery machine needed a subscription, so I built my own app",
+   "url": "https://github.com/simpsoka/zigzag",
+   "summary": "Article URL: https://github.com/simpsoka/zigzag Comments URL: https://news.ycombinator.com/item?id=50470488 Points: 75 # Comments: 23",
+   "published_at": 1794502962.0,
+   "published_bj": "2026-11-13 01:02"
   },
   {
    "id": "e61e8e91fceea831",
