@@ -1,6 +1,6 @@
 {
  "date": "2026-11-11",
- "generated_at": 1794486982.2117803,
+ "generated_at": 1794491652.3513572,
  "count": 400,
  "items": [
   {
@@ -774,6 +774,15 @@
    "title": "Google SWE points 48 AI agents at NASA Lidar, finds unmapped Maya pyramid in 72h",
    "url": "https://pietromiotti.com/latest/maya-site/?maya",
    "summary": "Article URL: https://pietromiotti.com/latest/maya-site/?maya Comments URL: https://news.ycombinator.com/item?id=50452455 Points: 110 # Comments: 38",
+   "published_at": 1794398722.0,
+   "published_bj": "2026-11-11 20:05"
+  },
+  {
+   "id": "36115cdc7aab2fb4",
+   "source": "Hacker News",
+   "title": "My AI agents found an unmapped Maya site?",
+   "url": "https://pietromiotti.com/latest/maya-site",
+   "summary": "Article URL: https://pietromiotti.com/latest/maya-site Comments URL: https://news.ycombinator.com/item?id=50452455 Points: 1012 # Comments: 372",
    "published_at": 1794398722.0,
    "published_bj": "2026-11-11 20:05"
   },
@@ -3592,15 +3601,6 @@
    "url": "https://www.cnbeta.com.tw/articles/game/1585850.htm",
    "summary": "任天堂社长古川俊太郎表示，《塞尔达：时之笛 重制版》开局良好，Switch2涨价目前也未明显拖慢销售势头。不过，任天堂尚未公布这款游戏的具体销量。 阅读全文",
    "published_at": 1794345293.0,
-   "published_bj": "2026-11-11 05:14"
-  },
-  {
-   "id": "a49dad345368da98",
-   "source": "cnBeta",
-   "title": "《GTA6》新实机宣传片 R星确认主机版只有30帧",
-   "url": "https://www.cnbeta.com.tw/articles/game/1585848.htm",
-   "summary": "R星已为《GTA6》启动预载，并发布“Pre-Load Now”宣传片，公开部分此前未展示的画面。本作将于11月19日登陆PS5和XSX|S，数字版预购用户可以提前下载文件，但无法提前进入游戏。 阅读全文",
-   "published_at": 1794345251.0,
    "published_bj": "2026-11-11 05:14"
   }
  ]
