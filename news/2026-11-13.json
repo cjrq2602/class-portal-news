@@ -1,8 +1,35 @@
 {
  "date": "2026-11-13",
- "generated_at": 1794512876.574168,
- "count": 43,
+ "generated_at": 1794516131.046531,
+ "count": 48,
  "items": [
+  {
+   "id": "ce08a89a8c707f34",
+   "source": "TechCrunch",
+   "title": "Jensen Huang was having a third affair, Reuters reports",
+   "url": "https://techcrunch.com/2026/11/12/jensen-huang-was-having-a-third-affair-reuters-reports/",
+   "summary": "Reuters is withholding the name of the new employee linked to Huang, but says she is an employee of Nvidia.",
+   "published_at": 1794515207.0,
+   "published_bj": "2026-11-13 04:26"
+  },
+  {
+   "id": "f0eba9a0c5677687",
+   "source": "Hacker News",
+   "title": "Data centers need power – lower income, rural residents pay the price",
+   "url": "https://news.cornell.edu/stories/2026/11/data-centers-need-power-lower-income-rural-residents-pay-price",
+   "summary": "Article URL: https://news.cornell.edu/stories/2026/11/data-centers-need-power-lower-income-rural-residents-pay-price Comments URL: https://news.ycombinator.com/item?id=50473231 Points: 22 # Comments: 25",
+   "published_at": 1794513234.0,
+   "published_bj": "2026-11-13 03:53"
+  },
+  {
+   "id": "44bf1aaff04e34ac",
+   "source": "Hacker News",
+   "title": "Former Nvidia CEO Huang had a relationship with a second employee, sources say",
+   "url": "https://www.reuters.com/technology/former-nvidia-ceo-huang-had-relationship-with-second-employee-sources-say-2026-11-12/",
+   "summary": "Article URL: https://www.reuters.com/technology/former-nvidia-ceo-huang-had-relationship-with-second-employee-sources-say-2026-11-12/ Comments URL: https://news.ycombinator.com/item?id=50473190 Points: 44 # Comments: 33",
+   "published_at": 1794513093.0,
+   "published_bj": "2026-11-13 03:51"
+  },
   {
    "id": "f2a162e3beb8f2ee",
    "source": "cnBeta",
@@ -94,6 +121,15 @@
    "published_bj": "2026-11-13 02:39"
   },
   {
+   "id": "d8e27854d8753657",
+   "source": "Hacker News",
+   "title": "Rust 1.100",
+   "url": "https://blog.rust-lang.org/2026/11/12/Rust-1.100.0/",
+   "summary": "Article URL: https://blog.rust-lang.org/2026/11/12/Rust-1.100.0/ Comments URL: https://news.ycombinator.com/item?id=50472038 Points: 25 # Comments: 58",
+   "published_at": 1794508745.0,
+   "published_bj": "2026-11-13 02:39"
+  },
+  {
    "id": "5fbe8d2215ca8cde",
    "source": "Hacker News",
    "title": "Rust 1.100.0",
@@ -173,6 +209,15 @@
    "summary": "Article URL: https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-hydrogen/ Comments URL: https://news.ycombinator.com/item?id=50471431 Points: 278 # Comments: 177",
    "published_at": 1794506508.0,
    "published_bj": "2026-11-13 02:01"
+  },
+  {
+   "id": "96449803279fe7c2",
+   "source": "Hacker News",
+   "title": "Show HN: Kapso – Iterative learning from enterprise data",
+   "url": "https://news.ycombinator.com/item?id=50471281",
+   "summary": "Hey HN! We're Alireza and Majid building Leeroo ( https://leeroo.com/ ). Previously we’ve built AI systems for products with millions of users, including at LinkedIn and Meta. We’re now focusing on building AI systems for enterprise data. Today, we're open-sourcing Kapso ( https://github.com/Leeroo-",
+   "published_at": 1794505883.0,
+   "published_bj": "2026-11-13 01:51"
   },
   {
    "id": "51d18ff0f6e9956a",
