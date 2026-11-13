@@ -1,7 +1,7 @@
 {
  "date": "2026-11-13",
- "generated_at": 1794577839.9279761,
- "count": 378,
+ "generated_at": 1794581266.7564247,
+ "count": 396,
  "items": [
   {
    "id": "43d47aa55555f769",
@@ -13,6 +13,24 @@
    "published_bj": "2026-11-13 23:18"
   },
   {
+   "id": "840a16b810f4a875",
+   "source": "TechCrunch",
+   "title": "ElevenLabs’ new app combines meeting note-taking and dictation for teams",
+   "url": "https://techcrunch.com/2026/11/13/elevenlabs-new-app-combines-meeting-note-taking-and-dictation-for-teams/",
+   "summary": "ElevenAI is a new meeting notetaker and dictation app aimed at teams and enterprises.",
+   "published_at": 1794581088.0,
+   "published_bj": "2026-11-13 22:44"
+  },
+  {
+   "id": "43e0b0a60d41d08c",
+   "source": "Hacker News",
+   "title": "The 42-Year Journey to Bring 'Neuromancer' to the Screen",
+   "url": "https://www.wired.com/story/exclusive-apple-tv-neuromancer-creator-interviews/",
+   "summary": "Article URL: https://www.wired.com/story/exclusive-apple-tv-neuromancer-creator-interviews/ Comments URL: https://news.ycombinator.com/item?id=50484006 Points: 6 # Comments: 1",
+   "published_at": 1794580112.0,
+   "published_bj": "2026-11-13 22:28"
+  },
+  {
    "id": "f40818337de128fb",
    "source": "InfoQ中文",
    "title": "奥运史上第一次，一朵云整体留给了举办国",
@@ -20,6 +38,123 @@
    "summary": "点击查看原文>",
    "published_at": 1794579691.0,
    "published_bj": "2026-11-13 22:21"
+  },
+  {
+   "id": "073c1499b3bc250b",
+   "source": "Hacker News",
+   "title": "Mercedes-Benz to halt 'all future investments' in Germany",
+   "url": "https://www.ft.com/content/f4a1fd87-9abc-4965-963a-a5349dbfdab7",
+   "summary": "Article URL: https://www.ft.com/content/f4a1fd87-9abc-4965-963a-a5349dbfdab7 Comments URL: https://news.ycombinator.com/item?id=50483875 Points: 25 # Comments: 3",
+   "published_at": 1794579590.0,
+   "published_bj": "2026-11-13 22:19"
+  },
+  {
+   "id": "6cb941189db7ec75",
+   "source": "cnBeta",
+   "title": "黄仁勋辞职后马斯克发声：认同创始人不能随便换掉",
+   "url": "https://www.cnbeta.com.tw/articles/tech/1586302.htm",
+   "summary": "11月13日，黄仁勋辞去英伟达首席执行官职务后， 特斯拉和SpaceX首席执行官埃隆·马斯克再次公开表态，认同创始人难以被简单替代的观点。 阅读全文",
+   "published_at": 1794579095.0,
+   "published_bj": "2026-11-13 22:11"
+  },
+  {
+   "id": "6be3c0aa1368b9d7",
+   "source": "cnBeta",
+   "title": "美国查获从币安被盗的12亿美元加密货币",
+   "url": "https://www.cnbeta.com.tw/articles/tech/1586300.htm",
+   "summary": "美国司法部周四公布，美方执法部门已扣押上月从加密货币交易所币安被盗、价值约 12 亿美元的虚拟资产；同时美方表态将打击网络诈骗活动。10 月 29 日加密巨头币安遭遇黑客攻击，被盗资产总额超 60 亿美元。 阅读全文",
+   "published_at": 1794579075.0,
+   "published_bj": "2026-11-13 22:11"
+  },
+  {
+   "id": "e533122bffdf1edc",
+   "source": "cnBeta",
+   "title": "微软最新邮件故障演变为全球性云服务危机",
+   "url": "https://www.cnbeta.com.tw/articles/tech/1586298.htm",
+   "summary": "微软正逐步从持续一整天的服务中断事件中恢复。此前，公司大量系统遭遇连锁式软件故障。故障始于周四，最初标记为仅影响美国及美洲区域的服务；但由于工程师难以恢复宕机服务器，问题很快蔓延至全球。 阅读全文",
+   "published_at": 1794579061.0,
+   "published_bj": "2026-11-13 22:11"
+  },
+  {
+   "id": "d644d3bac97f3156",
+   "source": "cnBeta",
+   "title": "被取消16年的iPhone多任务界面重现 AI帮助苹果早期设计方案“复活”",
+   "url": "https://www.cnbeta.com.tw/articles/tech/1586296.htm",
+   "summary": "一项尘封多年的苹果内部设计近日重见天日。在人工智能和模拟器技术的帮助下，一款从未正式发布过的iPhone多任务界面被成功恢复运行，让外界得以首次近距离观察苹果在iOS 4开发时期曾考虑采用的另一套交互方案。 阅读全文",
+   "published_at": 1794578983.0,
+   "published_bj": "2026-11-13 22:09"
+  },
+  {
+   "id": "451fe2008e61ed6f",
+   "source": "IT之家",
+   "title": "韩国拟采购无线电探测设备，防范国家资格考试“AI 作弊”",
+   "url": "https://www.ithome.com/1/026/958.htm",
+   "summary": "IT之家 11 月 13 日消息，据新华社报道，由于担心考生利用 AI 眼镜等高科技设备在国家资格考试中作弊，韩国正考虑采取应对措施。 韩国最大在野党国民力量党议员金渭相近日提议，在 2027 年度预算中增加约 65.7 亿韩元 （IT之家注：现汇率约合 3,286.3 万元人民币） 经费，用于 采购无线电信号探测设备 并安排专职人员，防范国家资格考试中的 AI 作弊行为。 韩国国会此前已关注到高科技作弊问题。负责组织国家资格考试的韩国产业人力公团随后估算了所需经费，提出 花费 36 亿韩元 （现汇率约合 1,800.7 万元人民币） 采购 7200 台无线电信号探测设备 ，投入 29.7 亿",
+   "published_at": 1794578919.0,
+   "published_bj": "2026-11-13 22:08"
+  },
+  {
+   "id": "1c61217dd2d60165",
+   "source": "IT之家",
+   "title": "超 19 万名车主报名参赛，第二届华为乾崑智驾公开赛今日收官",
+   "url": "https://www.ithome.com/1/026/957.htm",
+   "summary": "IT之家 11 月 13 日消息，历时 14 天的第二届华为乾崑智驾公开赛今日正式收官。本届赛事自 10 月 31 日开赛以来，吸引了超过 19 万名车主报名参与，赛事围绕真实出行场景设置八大赛道，覆盖城市通勤、乡道漫游、高速领航、停车泊车等多个环节。 与传统竞技赛事不同，本届公开赛将“赛道即日常”的理念融入比赛，让车主在真实道路中体验辅助驾驶，从复杂园区、盘山道路到极窄路段，从城市通勤到郊野出行，多样化的道路环境，也让华为乾崑智驾 ADS 5 的能力得到了更充分的展示。 对于日常驾驶来说，城市主干道只是出行的一部分，复杂环岛、没有清晰标线的乡间小路，以及老城区里的狭窄道路，同样是车主经常遇到",
+   "published_at": 1794578901.0,
+   "published_bj": "2026-11-13 22:08"
+  },
+  {
+   "id": "b748831d4409bb38",
+   "source": "Hacker News",
+   "title": "Why Zig over C for Systems Programming",
+   "url": "https://www.mtsoukalos.eu/2026/11/why-zig-over-c-for-systems-programming/",
+   "summary": "Article URL: https://www.mtsoukalos.eu/2026/11/why-zig-over-c-for-systems-programming/ Comments URL: https://news.ycombinator.com/item?id=50483611 Points: 9 # Comments: 0",
+   "published_at": 1794578473.0,
+   "published_bj": "2026-11-13 22:01"
+  },
+  {
+   "id": "c645d349e46f1b13",
+   "source": "IT之家",
+   "title": "宁德时代发布巧克力电池管家，2027 年预计建成 6000 座换电站、覆盖 297 座城市",
+   "url": "https://www.ithome.com/1/026/956.htm",
+   "summary": "IT之家 11 月 13 日消息，宁德时代今日发布巧克力电池管家 —— 电池可视化全生命周期检测系统。 用户打开巧克力换电 App，点击电池管家即可完成车上 53 项检测，换电时再完成 13 项深度检测，合计 66 项，覆盖电量 SOC、绝缘状态、热失控隐患、电压压差等关键指标。 据介绍，电池管家提供一站式服务：实时查看电池状态、调取检测报告、异常主动预警、一键维保、电池更换与迭代升级、用电报告查询及权益管理。 IT之家获悉，按照规划， 2027 年巧克力换电预计建成 6,000 座换电站 ，覆盖全国 297 座城市，除三沙市外实现地级市和直辖市全覆盖。其中 5,000 座城市站打造核心城区 ",
+   "published_at": 1794578383.0,
+   "published_bj": "2026-11-13 21:59"
+  },
+  {
+   "id": "be890cd4027647bf",
+   "source": "Hacker News",
+   "title": "US test reactor cleared for operations",
+   "url": "https://www.world-nuclear-news.org/articles/us-test-reactor-cleared-for-operations",
+   "summary": "Article URL: https://www.world-nuclear-news.org/articles/us-test-reactor-cleared-for-operations Comments URL: https://news.ycombinator.com/item?id=50483533 Points: 10 # Comments: 3",
+   "published_at": 1794578089.0,
+   "published_bj": "2026-11-13 21:54"
+  },
+  {
+   "id": "84d1930d2966f28f",
+   "source": "IT之家",
+   "title": "发售六天前，R 星推送约 1GB 的首个《GTA 6》官方更新",
+   "url": "https://www.ithome.com/1/026/955.htm",
+   "summary": "IT之家 11 月 13 日消息，Rockstar 今天（13 日）向 PS5 和 XBOX Series X 平台推送了《GTA 6》的首个官方更新， 版本号为 1.002.000 。 游戏定于 11 月 19 日发售。此次更新属于 强制更新 ，玩家必须先下载安装，才能在首发当天进入游戏。 R 星暂未公布更新说明，补丁大小只有约 1GB。博主 iGrandTheftAuto 披露的信息显示，此次改动主要集中在“story000-[GameContent]”和“Levels [Americas]-0”，分别涉及 15.75MiB 和 35.75MiB 的数据 ，音频、视频和纹理数据库的大小则没",
+   "published_at": 1794578011.0,
+   "published_bj": "2026-11-13 21:53"
+  },
+  {
+   "id": "bcc04e74bd3c6f42",
+   "source": "Hacker News",
+   "title": "Eli Lilly CEO pushes back on Dario Amodei's ludicrous medical claims",
+   "url": "https://garymarcus.substack.com/p/breaking-eli-lilly-ceo-becomes-latest",
+   "summary": "Article URL: https://garymarcus.substack.com/p/breaking-eli-lilly-ceo-becomes-latest Comments URL: https://news.ycombinator.com/item?id=50483480 Points: 147 # Comments: 141",
+   "published_at": 1794577887.0,
+   "published_bj": "2026-11-13 21:51"
+  },
+  {
+   "id": "240059b68bc1437f",
+   "source": "IT之家",
+   "title": "新紫光集团与北汽集团成立联合创新中心，围绕 SoC 芯片、智能座舱等合作",
+   "url": "https://www.ithome.com/1/026/954.htm",
+   "summary": "IT之家 11 月 13 日消息，11 月 12 日，新紫光集团与北汽集团在北京举行联合创新中心揭牌暨深化合作签约仪式。双方将围绕 SoC 芯片、舱驾控域控、智能座舱、智能底盘域控 等重点领域深化合作，推动汽车芯片研发与整车应用深度融合。 新紫光集团董事长李滨与北汽集团党委书记、董事长张建勇共同为“北汽集团 × 新紫光集团联合创新中心”揭牌。 签约仪式上，新紫光集团旗下紫光同芯与北汽集团旗下北汽研究总院签署战略合作协议， 将围绕先进车规工艺舱驾一体 SoC 芯片开展联合研发 。IT之家获悉，双方将共同打造 面向智能汽车的系统级解决方案 ，加快相关技术和产品在整车场景中的应用落地。 双方表示，将",
+   "published_at": 1794577537.0,
+   "published_bj": "2026-11-13 21:45"
   },
   {
    "id": "e5cd245342f7ffaa",
@@ -283,6 +418,15 @@
    "published_bj": "2026-11-13 20:17"
   },
   {
+   "id": "2dc2d67d0f4e8063",
+   "source": "Hacker News",
+   "title": "Show HN: Reflota – Open-source data recovery for NTFS/FAT disks with phased copy",
+   "url": "https://github.com/Christ10-8/reflota",
+   "summary": "Article URL: https://github.com/Christ10-8/reflota Comments URL: https://news.ycombinator.com/item?id=50482455 Points: 11 # Comments: 0",
+   "published_at": 1794572272.0,
+   "published_bj": "2026-11-13 20:17"
+  },
+  {
    "id": "2d4e722f10b97e47",
    "source": "Hacker News",
    "title": "\"Doomsday: Friday, 13 November, A.D. 2026 (1960)",
@@ -371,6 +515,15 @@
    "summary": "IT之家 11 月 13 日消息，据外媒 arstechnica 报道，一位爱好者 Dan Whelan 将诺基亚 N-Gage 平台 2004 年发售的《上古卷轴旅行：暗影之钥（The Elder Scrolls Travels：Shadowkey）》游戏移植到了 PC 平台。 据报道，相应项目名为《Shadowkey: Reforged》，保留了原版游戏文件和脚本，引入全新编写的 PC 图形引擎，支持最高 4K 分辨率运行。 除了重新制作角色和环境模型的高分辨率贴图外，该版本还加入了泛光照明、动态水面等视觉效果，并升级了游戏界面和文字渲染效果，使其不再受到早期手机屏幕显示能力的限制。 从画",
    "published_at": 1794569054.0,
    "published_bj": "2026-11-13 19:24"
+  },
+  {
+   "id": "69d927d361292b8d",
+   "source": "Hacker News",
+   "title": "AI Is Destroying the Trust Between Writers and Readers",
+   "url": "https://www.theatlantic.com/books/2026/11/ai-literary-scams-amazon/689391/",
+   "summary": "Article URL: https://www.theatlantic.com/books/2026/11/ai-literary-scams-amazon/689391/ Comments URL: https://news.ycombinator.com/item?id=50481870 Points: 54 # Comments: 7",
+   "published_at": 1794568426.0,
+   "published_bj": "2026-11-13 19:13"
   },
   {
    "id": "abd2b19ba8b9158c",
@@ -2810,6 +2963,15 @@
    "summary": "IT之家 11 月 13 日消息，据 Semafor 当地时间 11 月 12 日报道，美国司法部正在开展的多项调查可能将英伟达（NVIDIA）纳入调查范围。 两名美国政府官员透露，在英伟达前 CEO 黄仁勋辞职引发的连锁反应持续发酵之际，美国司法部目前涉及英伟达、Megaspeed 和超微电脑（Supermicro）的多项调查正在推进。 其中，一项调查直接针对英伟达，重点涉及反垄断问题。另外两项调查则分别涉及科技企业 Megaspeed 和超微电脑，调查重点包括 Alice Huang 的相关活动。 Semafor 指出，目前没有迹象表明美国司法部计划以刑事罪名起诉英伟达或黄仁勋。现阶段，针",
    "published_at": 1794521892.0,
    "published_bj": "2026-11-13 06:18"
+  },
+  {
+   "id": "fb0efa496d75d39f",
+   "source": "Hacker News",
+   "title": "Reverse Engineering My Coway Air Purifier to Ditch the Cloud",
+   "url": "https://scottjg.com/posts/2026-11-11-reverse-engineering-my-coway-air-purifier-to-ditch-the-cloud/",
+   "summary": "Article URL: https://scottjg.com/posts/2026-11-11-reverse-engineering-my-coway-air-purifier-to-ditch-the-cloud/ Comments URL: https://news.ycombinator.com/item?id=50474959 Points: 49 # Comments: 11",
+   "published_at": 1794520989.0,
+   "published_bj": "2026-11-13 06:03"
   },
   {
    "id": "7d72ae6e3250faf4",
