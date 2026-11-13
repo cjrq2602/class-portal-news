@@ -1,7 +1,7 @@
 {
  "date": "2026-11-14",
- "generated_at": 1794599293.921615,
- "count": 29,
+ "generated_at": 1794602800.8031,
+ "count": 40,
  "items": [
   {
    "id": "83eebebef0cda30a",
@@ -13,6 +13,60 @@
    "published_bj": "2026-11-14 04:54"
   },
   {
+   "id": "598daf0185027a62",
+   "source": "Hacker News",
+   "title": "Big tech is here to let us down",
+   "url": "https://blog.jsweeting.me/big-tech-is-here-to-let-us-down",
+   "summary": "Article URL: https://blog.jsweeting.me/big-tech-is-here-to-let-us-down Comments URL: https://news.ycombinator.com/item?id=50489083 Points: 10 # Comments: 1",
+   "published_at": 1794601230.0,
+   "published_bj": "2026-11-14 04:20"
+  },
+  {
+   "id": "a1056fed78c58128",
+   "source": "TechCrunch",
+   "title": "This young startup wants to power floating data centers with the ocean’s heat, and investors are already on board",
+   "url": "https://techcrunch.com/2026/11/13/this-young-startup-wants-to-power-floating-data-centers-with-the-oceans-heat-and-investors-are-already-on-board/",
+   "summary": "Drogue is harvesting heat from the ocean to power data centers on floating vessels. The first prototype should be bobbing around the ocean, crunching bits, in less than two years.",
+   "published_at": 1794600444.0,
+   "published_bj": "2026-11-14 04:07"
+  },
+  {
+   "id": "5b9afa07bc4b1cf2",
+   "source": "cnBeta",
+   "title": "OpenAI撤销独立机器人研究团队 人员并入核心研究与应用部门",
+   "url": "https://www.cnbeta.com.tw/articles/tech/1586318.htm",
+   "summary": "11月14日，OpenAI确认，已撤销独立机器人研究团队，并将相关人员重新分配至核心研究和应用业务部门。公司表示，此次调整并不意味着退出机器人领域，而是希望将机器人研发与通用人工智能模型研究进一步整合。 阅读全文",
+   "published_at": 1794599881.0,
+   "published_bj": "2026-11-14 03:58"
+  },
+  {
+   "id": "aeb868c2e3069a52",
+   "source": "cnBeta",
+   "title": "英伟达本周市值蒸发逾6200亿美元 势创历史最大单周市值损失纪录",
+   "url": "https://www.cnbeta.com.tw/articles/tech/1586316.htm",
+   "summary": "11月14日，英伟达股价周五盘中一度下跌4.7%，本周累计跌幅扩大至约14%，势将创下2025年4月以来最差单周表现。当时美国总统特朗普宣布大范围征税，引发全球股市剧烈震荡。按市值计算，英伟达本周已蒸发逾6200亿美元，势将创下公司历史最大单周市值损失纪录。这一损失规模超过标普500指数中约97%的成分股各自的总市值。 阅读全文",
+   "published_at": 1794599853.0,
+   "published_bj": "2026-11-14 03:57"
+  },
+  {
+   "id": "dc5e2f1814a5b977",
+   "source": "Hacker News",
+   "title": "No AI Slop: A Manifesto",
+   "url": "https://www.slopmanifesto.com/",
+   "summary": "Article URL: https://www.slopmanifesto.com/ Comments URL: https://news.ycombinator.com/item?id=50488769 Points: 35 # Comments: 9",
+   "published_at": 1794599516.0,
+   "published_bj": "2026-11-14 03:51"
+  },
+  {
+   "id": "36ae6742a1f902e2",
+   "source": "Hacker News",
+   "title": "Someone's Impersonating This Blog",
+   "url": "https://mattbee.mataroa.blog/p/someones-impersonating-this-blog/",
+   "summary": "Article URL: https://mattbee.mataroa.blog/p/someones-impersonating-this-blog/ Comments URL: https://news.ycombinator.com/item?id=50488664 Points: 34 # Comments: 0",
+   "published_at": 1794598869.0,
+   "published_bj": "2026-11-14 03:41"
+  },
+  {
    "id": "8ef47f84b2e192b6",
    "source": "TechCrunch",
    "title": "AI agent startup LangChain hits $3B valuation",
@@ -20,6 +74,33 @@
    "summary": "LangChain now claims 7,000 customers of its model and platform agnostic agent management tool LangSmith.",
    "published_at": 1794598677.0,
    "published_bj": "2026-11-14 03:37"
+  },
+  {
+   "id": "506242e2d27a3523",
+   "source": "Hacker News",
+   "title": "Technology as a Search Problem",
+   "url": "https://www.construction-physics.com/p/technology-as-a-search-problem",
+   "summary": "Article URL: https://www.construction-physics.com/p/technology-as-a-search-problem Comments URL: https://news.ycombinator.com/item?id=50488490 Points: 8 # Comments: 0",
+   "published_at": 1794598035.0,
+   "published_bj": "2026-11-14 03:27"
+  },
+  {
+   "id": "2d01a2d6476e3298",
+   "source": "Hacker News",
+   "title": "Found: A protein that drives ageing without unleashing inflammation",
+   "url": "https://www.nature.com/articles/d41586-026-03638-3",
+   "summary": "Article URL: https://www.nature.com/articles/d41586-026-03638-3 Comments URL: https://news.ycombinator.com/item?id=50488470 Points: 20 # Comments: 2",
+   "published_at": 1794597921.0,
+   "published_bj": "2026-11-14 03:25"
+  },
+  {
+   "id": "c546241404d59d18",
+   "source": "Hacker News",
+   "title": "Perplexity Decider v1.3: Training, eval, and use cases",
+   "url": "https://www.perplexity.ai/hub/blog/perplexity-decider",
+   "summary": "Article URL: https://www.perplexity.ai/hub/blog/perplexity-decider Comments URL: https://news.ycombinator.com/item?id=50488464 Points: 30 # Comments: 7",
+   "published_at": 1794597887.0,
+   "published_bj": "2026-11-14 03:24"
   },
   {
    "id": "4945c231b2f73ddd",
@@ -38,6 +119,15 @@
    "summary": "点击查看原文>",
    "published_at": 1794596400.0,
    "published_bj": "2026-11-14 03:00"
+  },
+  {
+   "id": "be1064248112c4e4",
+   "source": "Hacker News",
+   "title": "$11.4M in Nvidia hardware vanishes during shipment from CA to TX",
+   "url": "https://www.freightwaves.com/news/11-4-million-in-nvidia-hardware-vanishes-during-shipment-from-california-to-texas",
+   "summary": "Article URL: https://www.freightwaves.com/news/11-4-million-in-nvidia-hardware-vanishes-during-shipment-from-california-to-texas Comments URL: https://news.ycombinator.com/item?id=50487864 Points: 53 # Comments: 21",
+   "published_at": 1794595244.0,
+   "published_bj": "2026-11-14 02:40"
   },
   {
    "id": "9889f5b32ac37274",
@@ -65,6 +155,15 @@
    "summary": "Article URL: https://www.alphaxiv.org/abs/2611.weight-space-misfolding Comments URL: https://news.ycombinator.com/item?id=50487762 Points: 47 # Comments: 22",
    "published_at": 1794594815.0,
    "published_bj": "2026-11-14 02:33"
+  },
+  {
+   "id": "4a4036aa4133bc3c",
+   "source": "Hacker News",
+   "title": "Microsoft outage gives customers a crash course in dependence on Redmond",
+   "url": "https://www.theregister.com/saas/2026/11/13/microsoft-outage-gives-customers-a-crash-course-in-dependence-on-redmond/5309805",
+   "summary": "Article URL: https://www.theregister.com/saas/2026/11/13/microsoft-outage-gives-customers-a-crash-course-in-dependence-on-redmond/5309805 Comments URL: https://news.ycombinator.com/item?id=50487688 Points: 36 # Comments: 6",
+   "published_at": 1794594556.0,
+   "published_bj": "2026-11-14 02:29"
   },
   {
    "id": "c774e42bcf9e0aee",
