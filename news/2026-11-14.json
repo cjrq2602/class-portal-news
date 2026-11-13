@@ -1,8 +1,26 @@
 {
  "date": "2026-11-14",
- "generated_at": 1794606101.0748785,
- "count": 47,
+ "generated_at": 1794609521.8517168,
+ "count": 49,
  "items": [
+  {
+   "id": "f7cfdd915db360cb",
+   "source": "Hacker News",
+   "title": "Live airband on all frequencies from KORS. Victoria, CA also ground stopped",
+   "url": "https://orcasairband.com/",
+   "summary": "Article URL: https://orcasairband.com/ Comments URL: https://news.ycombinator.com/item?id=50490593 Points: 14 # Comments: 0",
+   "published_at": 1794607464.0,
+   "published_bj": "2026-11-14 06:04"
+  },
+  {
+   "id": "ebf3822f7553633f",
+   "source": "TechCrunch",
+   "title": "US government grounds all flights across the United States ‘due to extraordinary circumstances’",
+   "url": "https://techcrunch.com/2026/11/13/u-s-government-grounds-all-flights-across-the-united-states-due-to-extraordinary-cirumstances/",
+   "summary": "A spokesperson for the FAA told TechCrunch that it issued the ground stop \"following communication issues impacting multiple Air Route Traffic Control Centers,\" which manage the airspace across the United States.",
+   "published_at": 1794606278.0,
+   "published_bj": "2026-11-14 05:44"
+  },
   {
    "id": "1979f95ba1e5f255",
    "source": "Hacker News",
