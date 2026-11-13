@@ -1,7 +1,7 @@
 {
  "date": "2026-11-13",
- "generated_at": 1794541603.4369757,
- "count": 167,
+ "generated_at": 1794545530.240308,
+ "count": 181,
  "items": [
   {
    "id": "bc12bf66637834e9",
@@ -38,6 +38,87 @@
    "summary": "点击查看原文>",
    "published_at": 1794561420.0,
    "published_bj": "2026-11-13 17:17"
+  },
+  {
+   "id": "587d2c3ca113afe2",
+   "source": "IT之家",
+   "title": "Rust 1.100.0 稳定版发布：版本号首次迈入三位数，带来多项语言与标准库更新，永不返回类型历经 10 年终于转正",
+   "url": "https://www.ithome.com/1/026/669.htm",
+   "summary": "IT之家 11 月 13 日消息，Rust 团队于当地时间 11 月 12 日正式发布了最新的 Rust 1.100.0 稳定版，标志着 Rust 版本号首次迈入三位数阶段。 本次更新带来了多项语言和标准库功能稳定化，同时改进了 Cargo 依赖管理、构建缓存及软件供应链安全机制。 Rust 官方介绍称，Rust 1.100 最受关注的变化之一是 never type （永不返回类型）正式稳定。该功能经过约 10 年时间以及 5 次稳定化尝试，终于进入稳定版本。 永不返回类型使用 ! 表示，代表永远不会产生返回值的计算过程。例如， return 、 break 和 std::process::",
+   "published_at": 1794544210.0,
+   "published_bj": "2026-11-13 12:30"
+  },
+  {
+   "id": "2ef87972354c7b5e",
+   "source": "IT之家",
+   "title": "海康威视：海康机器人已完成股份制改制及上市辅导备案",
+   "url": "https://www.ithome.com/1/026/667.htm",
+   "summary": "IT之家 11 月 13 日消息，海康威视今日（11 月 13 日）在互动平台表示， 海康机器人已完成股份制改制及上市辅导备案 ，IPO 相关进展请以官方披露信息为准。 IT之家查询公开资料获悉，海康机器人是面向全球的机器视觉和移动机器人产品及解决方案提供商，业务聚焦工业物联网、智慧物流和智能制造，前身为海康威视机器视觉业务部，2016 年独立成立。 2026 年 7 月 6 日，随着一台叉取机器人走下产线，海康机器人正式宣布， 其移动机器人全品类累计下线突破 20 万台 。 截至 2026 年 4 月，海康机器人累计服务客户超 2 万家，落地 1000 余个细分应用场景，覆盖汽车汽配、3C ",
+   "published_at": 1794543399.0,
+   "published_bj": "2026-11-13 12:16"
+  },
+  {
+   "id": "6d33e8af90a9b999",
+   "source": "IT之家",
+   "title": "奔驰冻结德国全部新投资并考虑关停工厂：在德投资已不可行",
+   "url": "https://www.ithome.com/1/026/666.htm",
+   "summary": "IT之家 11 月 13 日消息，据新华社今日报道，梅赛德斯-奔驰于当地时间 11 月 12 日宣布，已决定冻结对德国境内所有生产设施的进一步投资，并开始评估关停部分德国工厂的可能性。 这一决定是在公司与工会围绕劳动力成本削减的谈判陷入僵局后作出的，标志着德国汽车工业危机的一次显著升级。 奔驰生产董事迈克尔 · 希贝在公司内网表示，执行董事会已共同决定暂停对德国工厂的所有进一步投资，理由是“以当前的成本结构，在德国投资已不可行”。 据德新社报道，德国工厂每工时的人力成本在某些情况下是东欧工厂的 5 倍，行政环节的成本差距也与之类似。 人力资源董事布里塔 · 西格尔的表态进一步明确了局势的严峻程",
+   "published_at": 1794543356.0,
+   "published_bj": "2026-11-13 12:15"
+  },
+  {
+   "id": "2e55dd46caf7d74a",
+   "source": "IT之家",
+   "title": "微软 365 大规模宕机超 10 小时，日本政府不得不改用电话维持工作",
+   "url": "https://www.ithome.com/1/026/662.htm",
+   "summary": "IT之家 11 月 13 日消息，今日凌晨，微软旗下 Outlook、Teams 等 Microsoft 365 核心服务发生全球性大规模中断。 监测网站 Downdetector 的数据显示，Outlook 的问题报告量一度接近 13 万条，故障持续数小时，波及多个国家和地区的政府机构与企业用户。 日本政府是受波及的公共部门之一。据央视新闻今日报道，日本内阁官房副长官尾崎正直记者会上确认，数字厅运营的政府共通信息基盘“GSS”（IT之家注：Government Solution Service，为日本各府省厅提供标准化的办公电脑与网络环境）出现故障，各部门使用的 Outlook 等邮件软件停",
+   "published_at": 1794543025.0,
+   "published_bj": "2026-11-13 12:10"
+  },
+  {
+   "id": "178893a1ca568971",
+   "source": "IT之家",
+   "title": "消息称三星电子正谈判收购数据中心散热企业 Modine",
+   "url": "https://www.ithome.com/1/026/661.htm",
+   "summary": "IT之家 11 月 13 日消息，彭博社当地时间昨日报道称， 三星电子正就收购数据中心冷却系统制造商 Modine 的潜在交易进行谈判 。 该交易最早可能在未来几周内完成，不过谈判尚未得出最终决定，交易仍可能被取消。其它潜在收购方也可能加入竞逐 Modine 的行列。 Modine 总部位于美国，主要生产大型商业建筑和工业机械的重型冷却和加热系统，截至IT之家发稿时市值约为 56.4 亿美元 （IT之家注：现汇率约合 377.04 亿元人民币） 。 三星电子去年收购了另一家暖通空调企业 FläktGroup，今年 8 月宣布了 2,400 亿韩元 （现汇率约合 12 亿元人民币） 的 相关产能",
+   "published_at": 1794542720.0,
+   "published_bj": "2026-11-13 12:05"
+  },
+  {
+   "id": "ef761c6bab7cff1f",
+   "source": "IT之家",
+   "title": "启境 GT7 迎上市以来最大规模 OTA：华为乾崑智驾 ADS 5.0.2 上线，新增手势泊出、园区领航等",
+   "url": "https://www.ithome.com/1/026/660.htm",
+   "summary": "IT之家 11 月 13 日消息，启境汽车今日宣布启境 GT7 迎上市以来最大规模 OTA，带来华为乾崑智驾 ADS 5.0.2、鸿蒙座舱 HarmonySpace6、三电性能升级等。 智驾方面，新版本新增 手势泊出、园区领航、车道级导航、主动涉水检测 ；座舱方面，鸿蒙座舱 6 率先升级紫貂奇奇、乾崑分享、工具栏自定义、调音魔方、“云瞰”远程语音提醒、竖向菜单栏、星环散射体辅助驾驶场景交互等；三电方面，86 度电池车型快充时间缩短，并带来动力电池极低温保温功能、超级冷却模式等。 IT之家注意到，启境 GT7 于今年 6 月上市，是广汽集团与华为乾崑联合打造的高端智能新能源汽车品牌“启境”旗下首",
+   "published_at": 1794542288.0,
+   "published_bj": "2026-11-13 11:58"
+  },
+  {
+   "id": "b194f3d0a028db2a",
+   "source": "IT之家",
+   "title": "5 倍提升：马斯克 X 平台单条推文现支持附 20 个图片 / 视频媒体资源",
+   "url": "https://www.ithome.com/1/026/651.htm",
+   "summary": "IT之家 11 月 13 日消息，全球首富埃隆 · 马斯克（Elon Musk）旗下社交平台 X 宣布大幅放宽单条推文的媒体上限： 每条推文最多可附带 20 个照片或视频，较此前长期执行的 4 个上限提升 5 倍。 X 平台移动端工程负责人 Jonah Katz 今天（11 月 13 日）发布推文，宣布升级 X 平台的内容发布功能，单条推文的媒体上限从最多 4 个扩展到最多 20 个，上限直接扩大 5 倍。IT之家附上相关推文如下： 用户过去若想分享一组旅行照片、活动图集、产品对比图或连续的短视频，往往不得不拆成多条推文发布，或通过系列推文方式补发内容。而现在用户可以在一条推文中承载更完整的视",
+   "published_at": 1794542008.0,
+   "published_bj": "2026-11-13 11:53"
+  },
+  {
+   "id": "f775861cf68ffa79",
+   "source": "IT之家",
+   "title": "斯泰兰蒂斯召回 3814 辆进口全新大切诺基 4xe 汽车，以及 1146 辆进口朱丽叶、斯坦维汽车",
+   "url": "https://www.ithome.com/1/026/601.htm",
+   "summary": "IT之家 11 月 13 日消息，IT之家从国家市场监督管理总局获悉，日前，斯泰兰蒂斯（上海）汽车有限公司根据《缺陷汽车产品召回管理条例》《缺陷汽车产品召回管理条例实施办法》的要求，向国家市场监督管理总局备案了召回计划。 召回编号 S2026M0142V：自即日起，召回 2023 年 2 月 3 日至 2023 年 10 月 9 日期间生产的 部分进口全新大切诺基 4xe 汽车，共计 3814 辆 。 本次召回范围内的部分车辆，由于乘员约束控制模块软件问题，可能导致车门碰撞压力传感器触发瞬时故障并被永久锁定。造成车辆在遭遇侧面碰撞时， 前排座椅侧气囊展开时机发生延迟 ，无法起到预期的保护作用，",
+   "published_at": 1794541805.0,
+   "published_bj": "2026-11-13 11:50"
+  },
+  {
+   "id": "bad1b73bc9e45d80",
+   "source": "Hacker News",
+   "title": "Show HN: I built a Rick and Morty explainer video generator",
+   "url": "https://usediorama.com/rick-and-morty",
+   "summary": "> paste any site or article or a script > we turn it into a Rick and Morty sketch with dialogues, scenes, action and Rick and Morty of course > click generate to turn the script into a storyboard you can review > click generate to get a final video (this part is paid as it uses AI video under the ho",
+   "published_at": 1794541635.0,
+   "published_bj": "2026-11-13 11:47"
   },
   {
    "id": "31b7d3d832946155",
@@ -85,6 +166,15 @@
    "published_bj": "2026-11-13 11:38"
   },
   {
+   "id": "6af51515b430dfa6",
+   "source": "IT之家",
+   "title": "丰田在华召回 3085 辆十余年前生产 TOYOTA 86 汽车，喇叭或无法正常鸣响",
+   "url": "https://www.ithome.com/1/026/596.htm",
+   "summary": "IT之家 11 月 13 日消息，IT之家从国家市场监督管理总局获悉，日前，丰田汽车（中国）投资有限公司根据《缺陷汽车产品召回管理条例》《缺陷汽车产品召回管理条例实施办法》的要求，向国家市场监督管理总局备案了召回计划。 召回编号 S2026M0144V：自 2026 年 12 月 28 日起，召回 2012 年 12 月 24 日至 2016 年 7 月 26 日期间生产的部分进口 TOYOTA 86 汽车，共计 3085 辆。 本次召回范围内的车辆，转向螺旋电缆中的导向装置可能在一定条件下导致螺旋电缆内部线路磨损并断线，造成喇叭无法正常鸣响，紧急情况下无法向周边车辆或行人发出警示信息，存在安",
+   "published_at": 1794541095.0,
+   "published_bj": "2026-11-13 11:38"
+  },
+  {
    "id": "498526e9e98d138f",
    "source": "IT之家",
    "title": "北京奔驰召回 41 辆国产 C 级和 E 级汽车：前轴车轮轴承存隐患",
@@ -101,6 +191,15 @@
    "summary": "IT之家 11 月 13 日消息，X 平台消息人士 @Gotou_kai3 昨日 曝光了 AMD \"Siren Halo\" 处理器 ，这一型号旨在接替已从规划中移除的 \"Medusa Halo\" 处理器。 另一方面，对应的 \"Siren Point\" 则会是 \"Medusa Point\" 的刷新版 。这也暗示 \"Siren Halo\" 更可能指向 2028 年的发布窗口。 @Gotou_kai3 表示， \"Siren Halo\" 将同时支持 LPDRAM 和 VRAM ，其中 VRAM 确定是 GDDR7。LPDRAM 是 LPDDR5X 还是 LPDDR6 尚不明确。 @Gotou_kai3",
    "published_at": 1794540985.0,
    "published_bj": "2026-11-13 11:36"
+  },
+  {
+   "id": "a2b102bcadcb2114",
+   "source": "少数派",
+   "title": "在快 AI 时代，我是怎么把 Mole 做成一款「慢产品」的？",
+   "url": "https://sspai.com/post/118512",
+   "summary": "距离写完上一篇在少数派发的《从开源清理工具到付费Mac应用，用户教会了我如何做产品》已经过去两个多月。这段时间里，Mole从1.13一路发到了1.19，加上了AI工具清理和系统数据清理，Windows ... 查看全文",
+   "published_at": 1794540948.0,
+   "published_bj": "2026-11-13 11:35"
   },
   {
    "id": "651ff2277572c016",
@@ -139,6 +238,15 @@
    "published_bj": "2026-11-13 11:17"
   },
   {
+   "id": "d9fdbf419f99a7b5",
+   "source": "Hacker News",
+   "title": "Switcher (2004)",
+   "url": "https://folklore.org/Switcher.html",
+   "summary": "Article URL: https://folklore.org/Switcher.html Comments URL: https://news.ycombinator.com/item?id=50477714 Points: 43 # Comments: 4",
+   "published_at": 1794539699.0,
+   "published_bj": "2026-11-13 11:14"
+  },
+  {
    "id": "81a75240d0fcc5c5",
    "source": "IT之家",
    "title": "英伟达官网更新黄仁勋简介并放入“创始人”一栏，临时 CEO 克雷斯现排第一位",
@@ -164,6 +272,15 @@
    "summary": "IT之家 11 月 13 日消息，华为首个动态血糖仪正式官宣，定名为 —— 华为维感 G1 持续葡萄糖监测系统（CGM），承诺将以专业能力为用户提供智能血糖管理体验。 从官方海报中可以看到，华为维感 G1 需要贴在皮肤表面，并可通过连接到华为智能手机和智能手表查看详情，还支持血糖异常提醒等功能。 IT之家此前报道，国家药监局今年 10 月 30 日公示的医疗器械批准文件送达信息中出现了华为终端有限公司的持续葡萄糖监测系统，注册证编号为国械注准 20263072228。 三类医疗器械是中国监管体系中的最高等级，与心脏支架、人工关节同级。此前华为在健康监测领域的合规路径主要集中在二类证，包括腕部动",
    "published_at": 1794539415.0,
    "published_bj": "2026-11-13 11:10"
+  },
+  {
+   "id": "5afabd76451d2533",
+   "source": "Hacker News",
+   "title": "Brave Search API now accepts agentic payments via the x402 protocol",
+   "url": "https://brave.com/blog/search-api-agentic-payments/",
+   "summary": "Article URL: https://brave.com/blog/search-api-agentic-payments/ Comments URL: https://news.ycombinator.com/item?id=50477649 Points: 4 # Comments: 1",
+   "published_at": 1794539288.0,
+   "published_bj": "2026-11-13 11:08"
   },
   {
    "id": "db2769e91c99ffef",
@@ -938,6 +1055,15 @@
    "summary": "Jensen Huang has resigned from Nvidia following an affair, which could have ramifications for national security as the U.S. and China race to develop the most advanced AI infrastructure.",
    "published_at": 1794519300.0,
    "published_bj": "2026-11-13 05:35"
+  },
+  {
+   "id": "91a6b7e9e6e6fe8d",
+   "source": "Hacker News",
+   "title": "Show HN: RealtimeVAD – trading false positives for 110ms earlier end-of-speech",
+   "url": "https://github.com/KoljaB/RealtimeVAD",
+   "summary": "Hey guys. I recently watched the latency reports for my local voice assistant, which show a waveform plus silero probability for voice activity. I noticed silero lags visibly on the speech off signal. There had to be a method to get this signal closer to what I felt is optimal. My idea was to use a ",
+   "published_at": 1794519057.0,
+   "published_bj": "2026-11-13 05:30"
   },
   {
    "id": "bdd4a6b6a525cb68",
