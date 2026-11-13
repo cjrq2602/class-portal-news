@@ -1,8 +1,17 @@
 {
  "date": "2026-11-13",
- "generated_at": 1794581266.7564247,
- "count": 396,
+ "generated_at": 1794584513.752159,
+ "count": 400,
  "items": [
+  {
+   "id": "e3276fb2555df0f3",
+   "source": "IT之家",
+   "title": "联合国开发计划署：现在就该采取行动应对厄尔尼诺，否则成本会翻倍",
+   "url": "https://www.ithome.com/1/026/990.htm",
+   "summary": "IT之家 11 月 13 日消息，当地时间 13 日，联合国气候大会期间，联合国开发计划署署长亚历山大 · 德克罗接受法新社采访时指出，立即采取行动应对厄尔尼诺现象造成的严重影响， 所需费用仅为推迟行动的一半 。 如何筹措资金应对厄尔尼诺现象带来的挑战，是本届大会争论最激烈的议题之一。 德克罗说：“如果现在采取行动，应对厄尔尼诺现象 需要 360 亿美元 （IT之家注：现汇率约合 2,406.63 亿元人民币） 。如果什么都不做，代价就会 达到 730 亿美元 （现汇率约合 4,880.1 亿元人民币） ，差不多翻一番。所以问题就在于，我们是要未雨绸缪、帮助民众，还是等到后果出现再来承担？” ",
+   "published_at": 1794583316.0,
+   "published_bj": "2026-11-13 23:21"
+  },
   {
    "id": "43d47aa55555f769",
    "source": "InfoQ中文",
@@ -11,6 +20,69 @@
    "summary": "点击查看原文>",
    "published_at": 1794583080.0,
    "published_bj": "2026-11-13 23:18"
+  },
+  {
+   "id": "9fdd4899d7e112c2",
+   "source": "IT之家",
+   "title": "捷豹路虎确认：纯电版“小卫士”新车明年见",
+   "url": "https://www.ithome.com/1/026/989.htm",
+   "summary": "IT之家 11 月 13 日消息，据英媒 Autocar 今天（13 日）晚间报道，捷豹路虎首席执行官 PB· 巴拉吉确认， 定位低于现款卫士的全新入门级 SUV 将于 2027 年投产 ，率先推出纯电版本。外界普遍将新车称为“卫士 Sport”，此次也是捷豹路虎首次正式公布其投产时间。 全新“小卫士”将与揽胜 GT 共用 EMA 平台，提供纯电和混动两种动力选择。巴拉吉透露，混动版本的研发工作正全面推进，但只有纯电版计划在 2027 年底前具备上市条件。 为给揽胜 GT 明年初投产腾出产能， 发现运动版将在未来几周内停产 。巴拉吉还确认，揽胜极光将在明年晚些时候逐步退出生产线，由全新小卫士接",
+   "published_at": 1794582780.0,
+   "published_bj": "2026-11-13 23:13"
+  },
+  {
+   "id": "41789b7e32efddc3",
+   "source": "IT之家",
+   "title": "索尼：PS5 超分技术 QSSR 即将登陆《漫威蜘蛛侠 2》《ARC Raiders》等作品",
+   "url": "https://www.ithome.com/1/026/967.htm",
+   "summary": "IT之家 11 月 13 日消息，索尼 PlayStation 今天（13 日）晚间宣布，PS5 超分技术 QSSR 即将登陆 《漫威蜘蛛侠 2》《控制：共振》《THE FINALS》《ARC Raiders》 等作品，相关游戏更新将在未来几周内陆续推出。 今年 10 月，索尼正式推出了 Quick Spectral Super Resolution（QSSR）技术，为 PS5 带来了 AI 驱动的画面超分辨率升级。 据IT之家了解，该技术和索尼 PlayStation 5 Pro 上使用的 PSSR 类似，可以提升输出画面的清晰度。 QSSR 基于 PS5 Pro 所采用的 PSSR 光谱超",
+   "published_at": 1794581942.0,
+   "published_bj": "2026-11-13 22:59"
+  },
+  {
+   "id": "ee501e89c8cd8b94",
+   "source": "TechCrunch",
+   "title": "Uber confirms hackers stole thousands of drivers’ license information in data breach",
+   "url": "https://techcrunch.com/2026/11/13/uber-confirms-hackers-stole-thousands-of-drivers-license-information-in-data-breach/",
+   "summary": "The ride-sharing giant said driver's license information stored by AI cloud company Fireworks AI was stolen during a security incident.",
+   "published_at": 1794581875.0,
+   "published_bj": "2026-11-13 22:57"
+  },
+  {
+   "id": "d0c849833dfb07d3",
+   "source": "Hacker News",
+   "title": "U.S. October PPI Rises 6.5% YoY, Highest in Nearly Four Years",
+   "url": "https://news.ycombinator.com/item?id=50484421",
+   "summary": "U.S. producer prices rose 6.5% YoY in October, the highest since November 2022, below expectations of 6.6% and up from 6.3% previously. PPI increased 0.3% MoM, below the expected 0.4%, while September’s reading was revised up from 1.3% to 1.4%. Comments URL: https://news.ycombinator.com/item?id=5048",
+   "published_at": 1794581612.0,
+   "published_bj": "2026-11-13 22:53"
+  },
+  {
+   "id": "47faf21d63e50faf",
+   "source": "IT之家",
+   "title": "鸿蒙智行问界新 M8 旗舰 SUV 上市 2 小时大定破 4600 台，37.98 万元起",
+   "url": "https://www.ithome.com/1/026/966.htm",
+   "summary": "IT之家 11 月 13 日消息，今天下午，鸿蒙智行问界新 M8 旗舰 SUV 正式上市，采用面向 L3 级自动驾驶架构设计，搭载华为乾崑智驾 ADS 5、新一代全向立体融合感知系统，定价 37.98 万-46.98 万元。 博主 @我鸿 刚刚分享了问界新 M8 的首销情况： 上市 2 小时大定突破 4600 台 。 IT之家附鸿蒙智行问界新 M8 亮点一图知如下：",
+   "published_at": 1794581410.0,
+   "published_bj": "2026-11-13 22:50"
+  },
+  {
+   "id": "6cd02ca755fd123d",
+   "source": "IT之家",
+   "title": "黄仁勋辞任英伟达 CEO，或给 Anthropic 下周“史上最大 IPO”添变数",
+   "url": "https://www.ithome.com/1/026/965.htm",
+   "summary": "IT之家 11 月 13 日消息，当地时间 12 日，据《财富》杂志报道，AI 初创企业 Anthropic 即将迎来史上最受瞩目的 IPO 之一。然而，就在上市前夕，英伟达联合创始人兼 CEO 黄仁勋突然辞职。 等到 Anthropic 正式登陆资本市场时，距离 AI 行业失去最有影响力、最擅长推销行业前景的人物之一， 仅过去一周 。 黄仁勋突然离职，给 Anthropic 的上市计划增添了新的压力。 此次 IPO 原本就被视为检验投资者对 AI 投资热情的重要考验。Anthropic 预计于 11 月 18 或 19 日上市 ，届时英伟达刚公布黄仁勋卸任 CEO 后的首份季度财报。 英伟达",
+   "published_at": 1794581408.0,
+   "published_bj": "2026-11-13 22:50"
+  },
+  {
+   "id": "7c10f3c1ac0b0e6e",
+   "source": "IT之家",
+   "title": "苹果股价升至 360 美元 / 股、再创新高，总市值超英伟达 1.3 万亿美元",
+   "url": "https://www.ithome.com/1/026/964.htm",
+   "summary": "IT之家 11 月 13 日消息，今晚美股开盘后，苹果股价上涨 1.49%，报 360.18 美元 （IT之家注：现汇率约合 2,407 元人民币） / 股，再创新高，总市值报 5.24 万亿美元 （现汇率约合 35.03 万亿元人民币） 。 约翰 · 特努斯（John Ternus）于 2026 年 9 月 1 日正式就任苹果 CEO，当天苹果的收盘价为 325.13 美元 （现汇率约合 2,174 元人民币） / 股，按当前苹果公司股价计算，特努斯接手后苹果公司股价已上涨 10.78%。 与此同时，英伟达股价目前下跌 1.93%，总市值报 3.93 万亿美元 （现汇率约合 26.27 万亿",
+   "published_at": 1794581371.0,
+   "published_bj": "2026-11-13 22:49"
   },
   {
    "id": "840a16b810f4a875",
@@ -22,6 +94,60 @@
    "published_bj": "2026-11-13 22:44"
   },
   {
+   "id": "70f9ac5fd12a471d",
+   "source": "Hacker News",
+   "title": "A technical vision for the Haskell ecosystem",
+   "url": "https://discourse.haskell.org/t/a-technical-vision-for-the-haskell-ecosystem/15078",
+   "summary": "Article URL: https://discourse.haskell.org/t/a-technical-vision-for-the-haskell-ecosystem/15078 Comments URL: https://news.ycombinator.com/item?id=50484235 Points: 15 # Comments: 1",
+   "published_at": 1794580992.0,
+   "published_bj": "2026-11-13 22:43"
+  },
+  {
+   "id": "53ce3cf09eda5484",
+   "source": "IT之家",
+   "title": "再次延期：华为 HarmonyOS 7 小艺 AI 快捷栏 11 月中旬开推，首批含 Pura X View 等",
+   "url": "https://www.ithome.com/1/026/962.htm",
+   "summary": "IT之家 11 月 13 日消息，在今年 9 月 7 日的 HarmonyOS 7 | HUAWEI Mate XT 2 及全场景新品发布会上，鸿蒙 7 操作系统正式发布。在发布会现场， 华为还剧透了全新功能 —— 小艺 AI 快捷栏 。官方 PPT 页面显示，该功能开启后，小艺将在手机桌面底部的 Dock 栏常驻。 今年 10 月，华为客户服务曾透露该功能预计在 10 月底或 11 月初逐步和大家见面。IT之家今日再次就该功能的上线时间进行了询问，对方给出了更详细的计划表： 推送时间 手机型号 平板型号 2026 年 11 月中旬 HUAWEI Mate 90 ，Mate 90 Pro，Ma",
+   "published_at": 1794580919.0,
+   "published_bj": "2026-11-13 22:41"
+  },
+  {
+   "id": "15dbbdf9a3e469df",
+   "source": "Hacker News",
+   "title": "Amodei Says AI Will Cure Cancer in a Decade. Doctors Are Skeptical",
+   "url": "https://www.businessinsider.com/dario-amodei-anthropic-cancer-cure-ipo-roadshow-backlash-doctors-2026-11",
+   "summary": "Article URL: https://www.businessinsider.com/dario-amodei-anthropic-cancer-cure-ipo-roadshow-backlash-doctors-2026-11 Comments URL: https://news.ycombinator.com/item?id=50484110 Points: 23 # Comments: 34",
+   "published_at": 1794580453.0,
+   "published_bj": "2026-11-13 22:34"
+  },
+  {
+   "id": "6be4a82dc8f93db0",
+   "source": "IT之家",
+   "title": "SpaceXAI 资源向 AI 编程工具与 Grok Bot 倾斜，消息称裁减约 60 名 Grok Imagine 员工",
+   "url": "https://www.ithome.com/1/026/961.htm",
+   "summary": "IT之家 11 月 13 日消息，据 The Information 引述知情人士消息，SpaceXAI 已对旗下视频与图像生成 AI 工具 Grok Imagine 的大部分研发人员进行了裁撤。 本次裁员涉及约 60 名 Grok Imagine 团队成员 ，目前仅保留少数人员以维持产品的基础运营。尽管该工具现阶段仍可正常访问与使用，但在失去专职研发团队支撑后，其后续发展前景已变得不明朗。 自 2026 年 2 月 xAI 与 SpaceX 完成合并以来，该公司内部便持续推进架构重组，此次人员缩减正是这一调整进程的延续。 知情人士透露，在今年 2 月以价值 2,500 亿美元 （IT之家注：",
+   "published_at": 1794580248.0,
+   "published_bj": "2026-11-13 22:30"
+  },
+  {
+   "id": "cbb6f9cb290e11af",
+   "source": "IT之家",
+   "title": "DeepSeek 发布全家桶应用 API：开发者将能 1:1 复刻完整 DeepSeek App",
+   "url": "https://www.ithome.com/1/026/960.htm",
+   "summary": "IT之家 11 月 13 日消息，今天（13 日）晚间，DeepSeek 宣布正式开放全家桶应用 API：在原有 API 中开启对应参数， 即可获得深度思考搜索、文件输入等对话功能 ；语音及相关底层能力也已开放独立接口（含 OCR、ASR、TTS 等），支持单独或组合调用。 开发者可以在自己的应用中轻松实现复杂的对话功能， 甚至 1:1 复刻出完整的 DeepSeek App 。 本次更新将 DeepSeek App 的各项交互功能直接整合进原有 API。开启对应参数后，相关工具调用与上下文拼接均由服务端自动完成。 目前，V4.1-Flash 模型（deepseek-flash）已在 Mess",
+   "published_at": 1794580146.0,
+   "published_bj": "2026-11-13 22:29"
+  },
+  {
+   "id": "e5b4d36c7138c213",
+   "source": "Hacker News",
+   "title": "Lonewolf 0.3 – A standalone XMPP server written in Rust",
+   "url": "https://github.com/lonewolf-im/lonewolf/releases/tag/v0.3.0",
+   "summary": "Article URL: https://github.com/lonewolf-im/lonewolf/releases/tag/v0.3.0 Comments URL: https://news.ycombinator.com/item?id=50484007 Points: 7 # Comments: 0",
+   "published_at": 1794580120.0,
+   "published_bj": "2026-11-13 22:28"
+  },
+  {
    "id": "43e0b0a60d41d08c",
    "source": "Hacker News",
    "title": "The 42-Year Journey to Bring 'Neuromancer' to the Screen",
@@ -29,6 +155,15 @@
    "summary": "Article URL: https://www.wired.com/story/exclusive-apple-tv-neuromancer-creator-interviews/ Comments URL: https://news.ycombinator.com/item?id=50484006 Points: 6 # Comments: 1",
    "published_at": 1794580112.0,
    "published_bj": "2026-11-13 22:28"
+  },
+  {
+   "id": "c45b51a3dfd70ab1",
+   "source": "IT之家",
+   "title": "AI 助力复活尘封 15 年废案，iOS 4 时代苹果卡片后台界面曝光",
+   "url": "https://www.ithome.com/1/026/959.htm",
+   "summary": "IT之家 11 月 13 日消息，据外媒 AppleInsider 今天（13 日）晚间报道，借助 AI 和模拟器技术，一套 尘封超过 15 年、从未正式发布的 iPhone 多任务切换界面 重新跑了起来。 2010 年初，该媒体曾报道苹果测试一套类似 Exposé 窗口总览功能的界面的消息。2011 年，有人在一台 iPhone 4 原型机上发现了搭载这套界面的特殊版本 iOS 4。 此后十多年，这套卡片式多任务界面始终无人公开演示，直到一名模拟器开发者借助 AI，让被苹果放弃的设计重见天日。 开发者史蒂夫 · 特劳顿-史密斯在 Mastodon 上分享了一段视频，展示这套从未发布的界面。视",
+   "published_at": 1794579821.0,
+   "published_bj": "2026-11-13 22:23"
   },
   {
    "id": "f40818337de128fb",
@@ -47,6 +182,15 @@
    "summary": "Article URL: https://www.ft.com/content/f4a1fd87-9abc-4965-963a-a5349dbfdab7 Comments URL: https://news.ycombinator.com/item?id=50483875 Points: 25 # Comments: 3",
    "published_at": 1794579590.0,
    "published_bj": "2026-11-13 22:19"
+  },
+  {
+   "id": "9f5cc87d3480376a",
+   "source": "Hacker News",
+   "title": "US university students tell surveillance cameras to Flock off",
+   "url": "https://www.theguardian.com/technology/ng-interactive/2026/nov/13/universities-drop-flock-camera-contracts",
+   "summary": "Article URL: https://www.theguardian.com/technology/ng-interactive/2026/nov/13/universities-drop-flock-camera-contracts Comments URL: https://news.ycombinator.com/item?id=50483759 Points: 15 # Comments: 0",
+   "published_at": 1794579116.0,
+   "published_bj": "2026-11-13 22:11"
   },
   {
    "id": "6cb941189db7ec75",
@@ -3458,114 +3602,6 @@
    "summary": "点击查看原文>",
    "published_at": 1794501840.0,
    "published_bj": "2026-11-13 00:44"
-  },
-  {
-   "id": "8552a989b9a56a06",
-   "source": "cnBeta",
-   "title": "婚外情风波以来 黄仁勋持股市值缩水超2700亿元",
-   "url": "https://www.cnbeta.com.tw/articles/tech/1586122.htm",
-   "summary": "11月12日晚间，英伟达创始人黄仁勋因婚外情风波辞去公司CEO、总裁及董事职务。与此同时，英伟达股价持续承压。按最新公开持股数据估算，自10月29日相关事件首次曝光以来，黄仁勋及其关联实体所持英伟达股票的账面市值已缩水约407亿美元，折合人民币约2717亿元。 阅读全文",
-   "published_at": 1794501562.0,
-   "published_bj": "2026-11-13 00:39"
-  },
-  {
-   "id": "891b58179e68a31f",
-   "source": "cnBeta",
-   "title": "Hugging Face首席执行官谈黄仁勋辞职：“令人无比难过的一天”",
-   "url": "https://www.cnbeta.com.tw/articles/tech/1586120.htm",
-   "summary": "Hugging Face 首席执行官克莱芒・德朗格对黄仁勋被英伟达罢免一事深感惋惜。他在领英发文表示：“这真是令人无比难过的一天。”英伟达于 9 月达成协议，拟收购开源 AI 模型头部平台 Hugging Face，交易金额约 119 亿美元。公司向美国证券交易委员会提交文件，预计这笔交易将于 2027 年上半年完成交割。 阅读全文",
-   "published_at": 1794501523.0,
-   "published_bj": "2026-11-13 00:38"
-  },
-  {
-   "id": "bb6b6a5df557e40a",
-   "source": "cnBeta",
-   "title": "黄仁勋离开英伟达 或给数十亿美元慈善捐赠计划增添变数",
-   "url": "https://www.cnbeta.com.tw/articles/tech/1586118.htm",
-   "summary": "就在辞去英伟达首席执行官前夕，黄仁勋正逐步成长为美国最重要的慈善家之一。凭借庞大的个人财富，他与妻子洛莉共同运营着美国规模最大的私人基金会之一，基金会资产规模约 90 亿美元。这对夫妻在 2007 年共同创立并共管该基金会，如今基金会的未来走向尚不明朗。 阅读全文",
-   "published_at": 1794501515.0,
-   "published_bj": "2026-11-13 00:38"
-  },
-  {
-   "id": "7a15fc978d050a09",
-   "source": "cnBeta",
-   "title": "马斯克放出话有意聘用黄仁勋 预测市场借这起风波开展押注",
-   "url": "https://www.cnbeta.com.tw/articles/tech/1586116.htm",
-   "summary": "周三，埃隆・马斯克在社交平台发帖表示，他很乐意聘用刚刚卸任的英伟达前首席执行官黄仁勋。此前已有报道披露，英伟达又曝出黄仁勋的另一段婚外情丑闻。在周四事件落地之前，各大预测市场上，有关黄仁勋辞职或被罢免的押注概率一路飙升。如今相关赌约已经结算，交易者已经开始押注英伟达潜在继任者，以及黄仁勋的个人后续事态。 阅读全文",
-   "published_at": 1794501505.0,
-   "published_bj": "2026-11-13 00:38"
-  },
-  {
-   "id": "d978efc1c943a38c",
-   "source": "cnBeta",
-   "title": "报道：英伟达临时CEO科莱特·克雷斯一直试图遏制公司最激进的豪赌",
-   "url": "https://www.cnbeta.com.tw/articles/tech/1586114.htm",
-   "summary": "英伟达周四任命其长期担任首席财务官的科莱特·克雷斯（Colette Kress）为临时首席执行官。前任CEO黄仁勋的突然辞职引发了一场充满不确定性的巨大风暴，这一任命将迫使这位财务老将带领公司穿越这场危机。 阅读全文",
-   "published_at": 1794501479.0,
-   "published_bj": "2026-11-13 00:37"
-  },
-  {
-   "id": "cde19a184ddab4a7",
-   "source": "TechCrunch",
-   "title": "Jensen Huang agrees to testify before Congress",
-   "url": "https://techcrunch.com/2026/11/12/jensen-huang-agrees-to-testify-before-congress/",
-   "summary": "Huang, who was ousted as CEO following reports of an alleged affair with a woman suspected of spying for China, agreed to testify Wednesday after several senior lawmakers threatened to subpoena him.",
-   "published_at": 1794501397.0,
-   "published_bj": "2026-11-13 00:36"
-  },
-  {
-   "id": "1b6b22605fe1e608",
-   "source": "TechCrunch",
-   "title": "Five ways Jensen Huang’s ouster from Nvidia could damage the AI industry",
-   "url": "https://techcrunch.com/2026/11/12/five-ways-jensen-huangs-ouster-from-nvidia-could-damage-the-ai-industry/",
-   "summary": "Nvidia's ousted CEO Jensen Huang's downfall isn’t just your run-of-the-mill salacious billionaire sex scandal. He was using his influence to push the AI industry in some very specific ways.",
-   "published_at": 1794501153.0,
-   "published_bj": "2026-11-13 00:32"
-  },
-  {
-   "id": "c64ad036618bc53e",
-   "source": "IT之家",
-   "title": "AMD 发布肾上腺素 26.11.1 可选驱动：修复 SSD 异常写入问题，公布多项已知游戏兼容问题",
-   "url": "https://www.ithome.com/1/026/442.htm",
-   "summary": "IT之家 11 月 13 日消息，AMD Software: Adrenalin Edition 26.11.1 可选版（Optional）显卡驱动现已发布，本次更新重点修复了此前广受关注的系统盘异常写入问题，同时公布了多项游戏与平台兼容方面的已知问题及临时解决方案。 问题修复 修复 Radeon RX 7000 系列及以上显卡在系统空闲时， 持续对系统盘进行异常写入 的问题；该问题此前被报道写入速率可达 0.3MB/s 至 5MB/s，单日累计写入量最高超 400GB，可能影响 SSD 寿命。 修复移动或调整应用窗口大小时，触发系统盘异常写入的问题。 已知问题与临时方案 在 Radeon R",
-   "published_at": 1794501042.0,
-   "published_bj": "2026-11-13 00:30"
-  },
-  {
-   "id": "e1b5e09b762a474b",
-   "source": "Hacker News",
-   "title": "Nintendo Takes Down Emulators and Firmware in Massive GitHub DMCA Sweep",
-   "url": "https://www.ign.com/articles/nintendo-takes-down-switch-emulators-and-mod-chip-firmware-in-massive-github-dmca-sweep",
-   "summary": "Article URL: https://www.ign.com/articles/nintendo-takes-down-switch-emulators-and-mod-chip-firmware-in-massive-github-dmca-sweep Comments URL: https://news.ycombinator.com/item?id=50469994 Points: 21 # Comments: 2",
-   "published_at": 1794500953.0,
-   "published_bj": "2026-11-13 00:29"
-  },
-  {
-   "id": "2b95b3f0bf1715b8",
-   "source": "TechCrunch",
-   "title": "Trump floats Apple chairman Tim Cook as Jensen Huang’s successor",
-   "url": "https://techcrunch.com/2026/11/12/trump-floats-apple-chairman-tim-cook-as-jensen-huangs-successor/",
-   "summary": "In a post on Truth Social, President Trump says only one man can take Jensen Huang's place as head of Nvidia: Tim Cook.",
-   "published_at": 1794499964.0,
-   "published_bj": "2026-11-13 00:12"
-  },
-  {
-   "id": "1ea901d30f8d0b16",
-   "source": "IT之家",
-   "title": "Epic 喜加一：《斗阵骑士 Knightica》游戏免费领取",
-   "url": "https://www.ithome.com/1/026/440.htm",
-   "summary": "IT之家 11 月 13 日消息，Epic 本周送出的游戏是《斗阵骑士 Knightica》，下周送出的游戏是《Alien: Isolation》，《Mark of the Deep》。 领取链接： 《斗阵骑士 Knightica》 IT之家附《斗阵骑士 Knightica》游戏简介： 《Knightica》是一款回合制类 Roguelike 自走棋游戏，在这里，各类身负绝技的单位将为你所用，集结成团，听你号令。征招、部署部队，带领大家为解放王国而战。尽情探索它们的协同效果、收集恶魔精魂、迎战危险怪物，一步步领导你的军队走向胜利！ 组建军队，运筹帷幄 单位的队形各异，大小不同，禀赋各有千秋，每",
-   "published_at": 1794499520.0,
-   "published_bj": "2026-11-13 00:05"
-  },
-  {
-   "id": "25eba278537465f7",
-   "source": "TechCrunch",
-   "title": "Whoop just launched a social network",
-   "url": "https://techcrunch.com/2026/11/12/whoop-just-launched-a-social-network/",
-   "summary": "Whoop is launching a social network that lets members share their sleep, recovery and workout data, but the bigger bet is on becoming more of a personal health brand, with CEO Will Ahmed hinting at acquisitions to come.",
-   "published_at": 1794499200.0,
-   "published_bj": "2026-11-13 00:00"
   }
  ]
 }
