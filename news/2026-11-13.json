@@ -1,8 +1,17 @@
 {
  "date": "2026-11-13",
- "generated_at": 1794545530.240308,
- "count": 181,
+ "generated_at": 1794549219.9875517,
+ "count": 207,
  "items": [
+  {
+   "id": "16692e1690a0f422",
+   "source": "InfoQ中文",
+   "title": "应用只是冰山一角：构建大规模移动应用基础设施需要什么",
+   "url": "https://www.infoq.cn/article/oKGTGPNZuleM61QqQOVf?utm_source=rss&utm_medium=article",
+   "summary": "点击查看原文>",
+   "published_at": 1794574800.0,
+   "published_bj": "2026-11-13 21:00"
+  },
   {
    "id": "bc12bf66637834e9",
    "source": "InfoQ中文",
@@ -38,6 +47,231 @@
    "summary": "点击查看原文>",
    "published_at": 1794561420.0,
    "published_bj": "2026-11-13 17:17"
+  },
+  {
+   "id": "87b90bdaf04b6c2d",
+   "source": "cnBeta",
+   "title": "金色圣诞甲虫当选2026年ABC澳大利亚年度昆虫 获近四成选票",
+   "url": "https://www.cnbeta.com.tw/articles/science/1586196.htm",
+   "summary": "金色圣诞甲虫（Anoplognathus aureus）在ABC发起的2026年“澳大利亚年度昆虫”公众投票中胜出，获得17454票，占总票数的39.3%。这项活动今年举办第三届，共有44472人投票，比2025年增加86%；该甲虫来自昆士兰州北部，常在南半球夏季、尤其是12月出现。 阅读全文",
+   "published_at": 1794548879.0,
+   "published_bj": "2026-11-13 13:47"
+  },
+  {
+   "id": "724afffc3dfc8ad5",
+   "source": "cnBeta",
+   "title": "俄罗斯Yandex承认部分客户数据永久丢失 数据中心被无人机袭击后正在恢复",
+   "url": "https://www.cnbeta.com.tw/articles/tech/1586194.htm",
+   "summary": "俄罗斯科技公司 Yandex 的多座数据中心在 10 月份遭到乌克兰无人机袭击，对数据中心而言通常被物理攻击后都会造成破坏，所以事后 Yandex 调集工程团队修复硬件并尝试恢复数据中心。 阅读全文",
+   "published_at": 1794548614.0,
+   "published_bj": "2026-11-13 13:43"
+  },
+  {
+   "id": "d55c4c57c325d6c3",
+   "source": "cnBeta",
+   "title": "消息称AMD显卡中国区供应减少20%到50% 紧缺可能会持续到明年1月",
+   "url": "https://www.cnbeta.com.tw/articles/tech/1586192.htm",
+   "summary": "据博板堂旗下公众号 ChannelGate 视博合聚发布的消息，从 26Q4 开始 AMD 面向中国市场的游戏显卡供应量减少约 20%~50%，这种供应紧张情况可能会持续到明年 1 月。 阅读全文",
+   "published_at": 1794548585.0,
+   "published_bj": "2026-11-13 13:43"
+  },
+  {
+   "id": "f39a4eb94b8ab3d6",
+   "source": "cnBeta",
+   "title": "带回老板呼声出现在英伟达内部建议箱 员工要求董事会先公布调查结果并听取员工意见",
+   "url": "https://www.cnbeta.com.tw/articles/tech/1586190.htm",
+   "summary": "昨天英伟达董事会宣布英伟达创始人兼首席执行官辞任，不再担任英伟达首席执行官、英伟达总裁和英伟达董事会董事职务。这个消息在行业内引起诸多关注，而在英伟达内部，也有很多员工希望黄仁勋回归。 阅读全文",
+   "published_at": 1794548503.0,
+   "published_bj": "2026-11-13 13:41"
+  },
+  {
+   "id": "ed18c7af9b50700a",
+   "source": "cnBeta",
+   "title": "Anthropic的IPO据悉吸引约六倍超额认购",
+   "url": "https://www.cnbeta.com.tw/articles/tech/1586188.htm",
+   "summary": "据知情人士透露，Anthropic PBC的首次公开招股（IPO）已经吸引到可供购买股票约六倍的认购，投资者对这宗有望成为有史以来规模最大股票发行交易的兴趣愈发浓厚。 公司提交的文件显示，这家Claude AI模型开发商及其联合创始人计划通过IPO筹集至多644亿美元，并通过非公开配售筹集260亿美元。 阅读全文",
+   "published_at": 1794548324.0,
+   "published_bj": "2026-11-13 13:38"
+  },
+  {
+   "id": "8e909f2e35714b67",
+   "source": "cnBeta",
+   "title": "黄仁勋离任后 英伟达那些投资怎么办？",
+   "url": "https://www.cnbeta.com.tw/articles/tech/1586186.htm",
+   "summary": "过去三年，英伟达一跃成为人工智能初创企业、小型云服务商以及前沿AI实验室最活跃的投资方之一，背后核心原因在于CEO黄仁勋持续发力，保证自家专用AI芯片维持旺盛需求。而在他突然卸任之后，这一大笔资金供给源头如今蒙上阴影。 阅读全文",
+   "published_at": 1794548283.0,
+   "published_bj": "2026-11-13 13:38"
+  },
+  {
+   "id": "7c5ad12de5cf5de1",
+   "source": "cnBeta",
+   "title": "特朗普曾提前与黄仁勋通话：保住职位",
+   "url": "https://www.cnbeta.com.tw/articles/tech/1586184.htm",
+   "summary": "据两名了解通话内情的人士透露，在私人丑闻快速发酵、黄仁勋卸任英伟达首席执行官之前，特朗普于美东时间周二致电黄仁勋，劝他坚持争取保住自己的职位。这通电话，是特朗普持续维护、力挺黄仁勋的最新例证。黄仁勋如今已是特朗普阵营里知名度很高的盟友，也是人工智能领域极具影响力的顾问，特朗普直到“最后一刻”仍然支持他。 阅读全文",
+   "published_at": 1794548265.0,
+   "published_bj": "2026-11-13 13:37"
+  },
+  {
+   "id": "eef2dc7242a668de",
+   "source": "cnBeta",
+   "title": "黄仁勋的陨落 是硅谷权力流失的信号",
+   "url": "https://www.cnbeta.com.tw/articles/tech/1586182.htm",
+   "summary": "黄仁勋被自己一手创办、并打造成AI浪潮根基的公司罢免，周四这天，科技巨头那种势不可挡、近乎无敌的感觉，轰然褪色。 随着黄仁勋在英伟达失去权力，科技精英圈层不得不面对一个残酷现实：巨头的地位不再牢不可破，或许，他们也再也无法超然于各方约束之外。 阅读全文",
+   "published_at": 1794548234.0,
+   "published_bj": "2026-11-13 13:37"
+  },
+  {
+   "id": "aa8e6c877292e6e2",
+   "source": "cnBeta",
+   "title": "黄仁勋辞职后 英伟达总部外出现鲜花和蜡烛",
+   "url": "https://www.cnbeta.com.tw/articles/tech/1586180.htm",
+   "summary": "在美国加州圣克拉拉的英伟达总部外，有人于公司标志前摆放多束鲜花，并放置了一支装在玻璃罐中的白色蜡烛，被外界视为致敬黄仁勋这位AI时代标志性人物。现场画面显示，一名路人将玻璃罐装蜡烛放在“NVIDIA”标志前；鲜花则整齐靠在标志下方。这些物品没有附带留言，但被外界视为告别与致敬刚刚辞去首席执行官职务的联合创始人黄仁勋。 阅读全文",
+   "published_at": 1794548190.0,
+   "published_bj": "2026-11-13 13:36"
+  },
+  {
+   "id": "7d4b3983c35b93cd",
+   "source": "cnBeta",
+   "title": "多名投资者：没了黄仁勋 AI热潮仍将支撑英伟达",
+   "url": "https://www.cnbeta.com.tw/articles/tech/1586178.htm",
+   "summary": "多名核心投资者表示，尽管联合创始人黄仁勋突然辞职引发这家芯片巨头股价大跌，但英伟达作为AI浪潮最大受益者之一的基本面前景并未受损。黄仁勋因婚外情相关丑闻卸任，周四英伟达市值蒸发1820亿美元，不过主要投资者依然看好公司潜力。 阅读全文",
+   "published_at": 1794548180.0,
+   "published_bj": "2026-11-13 13:36"
+  },
+  {
+   "id": "d6b046a29a945ad1",
+   "source": "cnBeta",
+   "title": "黄仁勋离职后马斯克、段永平等多位商业大佬发声表态：有人惋惜，有人震惊，有人想招揽",
+   "url": "https://www.cnbeta.com.tw/articles/tech/1586176.htm",
+   "summary": "11月12日晚间，英伟达发布声明称，黄仁勋已辞去总裁、首席执行官及董事会成员职务，即刻生效。公司现任执行副总裁兼首席财务官科莱特·克雷斯（Colette Kress）已同意担任临时CEO。在正式继任者确定之前，克雷斯将继续履行其执行副总裁兼首席财务官的职责。 阅读全文",
+   "published_at": 1794548118.0,
+   "published_bj": "2026-11-13 13:35"
+  },
+  {
+   "id": "f52d983d72462ca3",
+   "source": "cnBeta",
+   "title": "硅谷科技领袖批评英伟达急让CEO去职：不排除延揽黄仁勋、期望王者归来",
+   "url": "https://www.cnbeta.com.tw/articles/tech/1586174.htm",
+   "summary": "英伟达首席执行官去职在硅谷引起轩然大波，众多创投家和企业创始人纷纷批评这家芯片制造商的决定，并担忧该决定对整个产业的深远影响。“黑暗、黑暗的一天，”Andreessen Horowitz普通合伙人Martin Casado在X发文说。“对美国和西方世界来说，这是个烂决定。” 阅读全文",
+   "published_at": 1794548065.0,
+   "published_bj": "2026-11-13 13:34"
+  },
+  {
+   "id": "09e4517021a860ce",
+   "source": "cnBeta",
+   "title": "颓然自责与愧对家人 黄仁勋辞任英伟达CEO前的最后时光",
+   "url": "https://www.cnbeta.com.tw/articles/tech/1586172.htm",
+   "summary": "到最后的时候，黄仁勋看起来心力交瘁，昔日的传奇性高能量已被清空。此前数周，他一直否认婚外情指控，努力想要保住自己的英伟达CEO职务，但还是在周三晚上无条件屈服了。据一位知情人士透露，黄仁勋往常那种一切尽在掌控之中的风范荡然无存，他开始说出诸如“随便”和“我不在乎”这样的话。 阅读全文",
+   "published_at": 1794548044.0,
+   "published_bj": "2026-11-13 13:34"
+  },
+  {
+   "id": "5e4dbc1f53e5fc2f",
+   "source": "cnBeta",
+   "title": "美民主党议员夫妇在英伟达高位减持",
+   "url": "https://www.cnbeta.com.tw/articles/tech/1586170.htm",
+   "summary": "一名民主党议员在这场英伟达风波中，交易时机恰好站在了有利一侧。 追踪国会议员股票交易的平台数据显示，加州民主党众议员罗·坎纳及其配偶，在英伟达股价接近高点时减持了英伟达股票。 阅读全文",
+   "published_at": 1794547982.0,
+   "published_bj": "2026-11-13 13:33"
+  },
+  {
+   "id": "e2aec16fea4190cb",
+   "source": "cnBeta",
+   "title": "tvOS 27.2.1将为旧款Apple TV 4K加入Siri AI",
+   "url": "https://www.cnbeta.com.tw/articles/tech/1586168.htm",
+   "summary": "苹果支持文件显示，Apple TV 4K第二代和第三代将通过即将推出的tvOS 27.2.1获得Siri AI功能。更新目前尚未发布，苹果也没有公布具体推送日期；更新最快可能于周五推出。 阅读全文",
+   "published_at": 1794547932.0,
+   "published_bj": "2026-11-13 13:32"
+  },
+  {
+   "id": "130f575a7346aa87",
+   "source": "IT之家",
+   "title": "微软高管回应 Outlook 等服务中断：深感遗憾，正全力修复",
+   "url": "https://www.ithome.com/1/026/678.htm",
+   "summary": "IT之家 11 月 13 日消息，微软执行副总裁查尔斯 · 拉曼纳（Charles Lamanna）今天（11 月 13 日）在 X 平台发布推文， 就本次 Outlook、Exchange Online 等办公服务出现故障公开致歉，团队正在努力解决问题，并持续通报最新修复状态。 此次故障最初涉及 Teams，随后微软确认 Exchange Online 和 Outlook 也受到影响。故障还波及邮件之外的办公功能。Teams、SharePoint Online、Microsoft 365 Copilot 等服务中，部分依赖 Exchange 的功能受到牵连。 截至IT之家发稿前，相关服务故障",
+   "published_at": 1794547269.0,
+   "published_bj": "2026-11-13 13:21"
+  },
+  {
+   "id": "7b2c9954f665d557",
+   "source": "IT之家",
+   "title": "国星宇航“星算”计划 03 组卫星下线、近期择机发射，目标 2800 颗算力卫星组网",
+   "url": "https://www.ithome.com/1/026/676.htm",
+   "summary": "IT之家 11 月 13 日消息，国星宇航“星算”计划 03 组太空计算星座卫星今日（11 月 13 日）在浙江台州基地顺利下线。 “星算”计划 03 组算力卫星，均由国星宇航自主研制， 此次下线的 5 颗卫星，将于近期择机发射 。卫星入轨后，将与 01 组、02 组在轨卫星协同组网。 综合IT之家此前报道，在 2024 年世界互联网大会乌镇峰会期间，国星宇航创始人陆川博士与合作伙伴在乌镇“三体计算星座”首发星座启动暨“星算计划 star-compute”全球发布会上 共同发布了“星算计划” 。 “星算计划”将由 2800 颗算力卫星组网 ，构建未来算力网络。 “星算”计划 01 组星座在 2",
+   "published_at": 1794546479.0,
+   "published_bj": "2026-11-13 13:07"
+  },
+  {
+   "id": "1b68096207b9c88b",
+   "source": "IT之家",
+   "title": "最高省 80% 流量：iOS 版 Opera One 浏览器引入 Data Saver 功能",
+   "url": "https://www.ithome.com/1/026/675.htm",
+   "summary": "IT之家 11 月 13 日消息，Opera 昨日（11 月 12 日）发布公告，宣布升级 iOS 版 Opera One 应用程序， 重点引入“省流量”（Data Saver）功能，用户开启后流量消耗最高可减少 80%。 在技术实现方面，Opera 服务器会先压缩网页中的图片和文本，然后传输至用户设备，以减少加载页面所需的数据量。IT之家援引 Opera 官方博文介绍，该功能适用于出境漫游、预付费套餐、月度流量不足等场景，也能帮助用户在较弱的网络连接下浏览网页。 此次更新伴随着用户规模增长。据 Opera 披露，2026 年 10 月，其 iOS 浏览器全球月活跃用户数同比增长 20%。其中",
+   "published_at": 1794546317.0,
+   "published_bj": "2026-11-13 13:05"
+  },
+  {
+   "id": "9a7e83d1954215db",
+   "source": "IT之家",
+   "title": "荣耀李健官宣荣耀 700 系列发布会定档 11 月 23 日，鞠婧祎代言",
+   "url": "https://www.ithome.com/1/026/674.htm",
+   "summary": "11 月 13 日，荣耀终端股份有限公司 CEO 李健在微博发文预热即将推出的荣耀 700 系列新机，公布新机的代言人为鞠婧祎，并官宣新品的发布时间定档 11 月 23 日。 在微博中，李健首先宣布“欢迎#荣耀700#系列代言人 @鞠婧祎 与我们一起踏上追光之旅。”这也印证了之前大家对荣耀 700 系列代言人的猜测。 而在微博最后，李健表示：11 月 23 日，发布会见！在配图的定档海报中，明确显示荣耀 700 系列追光之旅暨全场景新品发布会定档 11 月 23 日 14:30。 与此同时，荣耀品牌营销部总裁、全球首席营销官（CMO）关海涛也在微博发文表示“11 月 23 日，武汉见”，可见荣",
+   "published_at": 1794546249.0,
+   "published_bj": "2026-11-13 13:04"
+  },
+  {
+   "id": "737e244201625e24",
+   "source": "IT之家",
+   "title": "微软故意降低 Win11 开机应用加载速度：旨在避免多个应用抢占系统资源，修改两个注册表即可从 150 秒降至 30 秒",
+   "url": "https://www.ithome.com/1/026/673.htm",
+   "summary": "IT之家 11 月 13 日消息，据科技媒体 Windows Latest 今日报道，微软在设计 Windows 11 时主动延迟了部分开机启动应用程序的加载时间，以避免多个程序同时启动时占用过多系统资源。不过，有用户通过修改注册表，成功将启动应用全部加载完成的等待时间从 2 分 30 秒缩短至约 30 秒。 Reddit 用户 u/PersianMG 发现，尽管系统本身启动速度较快，但 Discord、Teams 等其他开机启动程序仍会缓慢加载，导致整个过程需要等待较长时间。 他通过 Windows Performance Toolkit 检查启动过程发现系统存在较长的空闲等待时间，并没有某",
+   "published_at": 1794546138.0,
+   "published_bj": "2026-11-13 13:02"
+  },
+  {
+   "id": "05f3901e50f195d3",
+   "source": "Hacker News",
+   "title": "Show HN: PharmA2A, an open protocol for pharmacy-to-supplier orders on A2A",
+   "url": "https://github.com/pharma2a/pharma2a",
+   "summary": "I'm a pharmacist in France and a nerd. I built an open source protocol based on A2A, Called PharmA2A. Why, because normally I order directly from more than hundred of suppliers, by phone mails or on the web forms. The idea is to automatise orders of selling and buying between pharmacies and their su",
+   "published_at": 1794545933.0,
+   "published_bj": "2026-11-13 12:58"
+  },
+  {
+   "id": "e6310ebe3a7fb477",
+   "source": "IT之家",
+   "title": "苹果票房最高电影《F1: 狂飙飞车》后皮特再接 Apple TV 新片：把故事搬到纽约高空",
+   "url": "https://www.ithome.com/1/026/672.htm",
+   "summary": "IT之家 11 月 13 日消息，科技媒体 9to5Mac 昨日（11 月 12 日）发布博文，报道称继苹果史上最卖座的电影《F1: 狂飙飞车》之后，Apple TV 再度携手布拉德 · 皮特（Brad Pitt），推进名为《Connector》（直译为连接者）的电影项目。 阵容方面，消息称《Connector》电影由布拉德 · 皮特主演，由达里尔斯 · 马德尔（Darius Marder）执导。马德尔的长片导演处女作《金属之声》(Sound of Metal) 于 2021 年获得第 73 届美国导演工会奖最佳新人电影导演奖以及第 93 届奥斯卡金像奖最佳音响与最佳剪辑奖。该影片同时获得第 ",
+   "published_at": 1794545731.0,
+   "published_bj": "2026-11-13 12:55"
+  },
+  {
+   "id": "e4d8f650c3b8470b",
+   "source": "Hacker News",
+   "title": "IceWM",
+   "url": "https://ice-wm.org/",
+   "summary": "Article URL: https://ice-wm.org/ Comments URL: https://news.ycombinator.com/item?id=50478515 Points: 25 # Comments: 4",
+   "published_at": 1794545693.0,
+   "published_bj": "2026-11-13 12:54"
+  },
+  {
+   "id": "11f5453e3a5a0f76",
+   "source": "IT之家",
+   "title": "Anthropic IPO 认购需求约为 6 倍：拟募资最高 644 亿美元，目标估值约 1.4 万亿美元",
+   "url": "https://www.ithome.com/1/026/671.htm",
+   "summary": "IT之家 11 月 13 日消息，据彭博社今日报道，Anthropic 计划进行的首次公开募股（IPO）认购需求持续增长，目前投资者提交的认购订单数量已达到可供认购股份数量的约 6 倍。 根据 Anthropic 提交的文件，公司及其联合创始人计划通过 IPO 募资最高 644 亿美元 （现汇率约合 4,305.19 亿元人民币） ，同时通过同步进行的私募配售募资 260 亿美元，两项融资合计最高达 904 亿美元。 Anthropic 目前的目标完全稀释后估值约为 1.4 万亿美元 （IT之家注：现汇率约合 9.36 万亿元人民币） 。这一估值低于此前部分投资者预期的水平。 随着认购需求超过",
+   "published_at": 1794545398.0,
+   "published_bj": "2026-11-13 12:49"
+  },
+  {
+   "id": "a795757cabe87e37",
+   "source": "IT之家",
+   "title": "大疆官宣 11 月 18 日起调整部分产品的建议零售价",
+   "url": "https://www.ithome.com/1/026/670.htm",
+   "summary": "IT之家 11 月 13 日消息，大疆官网今日发布关于 DJI 大疆部分产品建议零售价调整的说明，受全球半导体及存储等多项关键零部件成本持续大幅上涨的影响，经审慎评估， 大疆将于 2026 年 11 月 18 日 00:00 起，对部分产品的建议零售价进行调整 。 调整涉及的具体产品型号及价格，请以 DJI 官方商城商品详情页展示为准。 IT之家附说明全文如下： 国际数据公司（IDC）发布的报告显示，2026 年 Q2 全球手持智能相机市场，大疆以 73% 出货量市场份额保持第一，同比增长 87%。 细分品类来看，大疆云台相机自身出货量占比超过 60%，同比增长超过 77%。不可拆卸运动相机出",
+   "published_at": 1794544844.0,
+   "published_bj": "2026-11-13 12:40"
   },
   {
    "id": "587d2c3ca113afe2",
