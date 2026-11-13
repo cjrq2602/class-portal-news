@@ -1,0 +1,382 @@
+{
+ "type": "yesterday",
+ "date": "2026-11-13",
+ "window": {
+  "start_ts": 1794499200.0,
+  "end_ts": 1794585600.0
+ },
+ "generated_at": 1794588515.7144358,
+ "generator": "action",
+ "news_count": 400,
+ "keywords": [
+  "仁勋",
+  "黄仁",
+  "伟达",
+  "英伟",
+  "ai",
+  "美元",
+  "亿美",
+  "微软",
+  "ceo",
+  "华为"
+ ],
+ "points": [
+  {
+   "text": "【黄仁】IT之家 11 月 13 日消息，科技媒体 The Information 昨日（11 月 12 日）发布博文，援引知情人士消息，英伟达临时 C",
+   "keyword": "黄仁",
+   "news_ids": [
+    "1923b21eaa1fb1e4"
+   ],
+   "refs": [
+    {
+     "id": "1923b21eaa1fb1e4",
+     "title": "黄仁勋最激进 AI 赌局的“刹车手”：英伟达临时 CEO 克雷斯曾力主削减 2500 亿美元 OpenAI 豪赌",
+     "source": "IT之家",
+     "url": "https://www.ithome.com/1/026/478.htm",
+     "published_at": 1794531130.0
+    }
+   ]
+  },
+  {
+   "text": "【ai】据路透社报道， 埃隆·马斯克旗下SpaceX计划在美国得克萨斯州和亚利桑那州建设两座超级计算园区，预计总投资超过740亿美元 ",
+   "keyword": "ai",
+   "news_ids": [
+    "6f2334ac7841923a"
+   ],
+   "refs": [
+    {
+     "id": "6f2334ac7841923a",
+     "title": "SpaceX豪掷超740亿美元建两座超级计算园区 AI业务收入已超公司总收入一半",
+     "source": "cnBeta",
+     "url": "https://www.cnbeta.com.tw/articles/tech/1586166.htm",
+     "published_at": 1794526317.0
+    }
+   ]
+  },
+  {
+   "text": "【ai】Hugging Face's CEO pledged to keep fighting for open-source AI after Hua",
+   "keyword": "ai",
+   "news_ids": [
+    "51d18ff0f6e9956a"
+   ],
+   "refs": [
+    {
+     "id": "51d18ff0f6e9956a",
+     "title": "Hugging Face CEO vows to keep fighting for open-source AI after Jensen Huang’s exit",
+     "source": "TechCrunch",
+     "url": "https://techcrunch.com/2026/11/12/hugging-face-ceo-vows-to-keep-fighting-for-open-source-ai-after-jensen-huangs-exit/",
+     "published_at": 1794505000.0
+    }
+   ]
+  },
+  {
+   "text": "【美元】IT之家 11 月 13 日消息，微软宣布旗下 25 周年纪念版 XBOX Series X 主机现已正式上市，定价为 899.99 美元 （I",
+   "keyword": "美元",
+   "news_ids": [
+    "abd2b19ba8b9158c"
+   ],
+   "refs": [
+    {
+     "id": "abd2b19ba8b9158c",
+     "title": "899 美元微软 25 周年纪念版 XBOX Series X 上市，玩家亦可单独购买 X25 特别版手柄无线控制器",
+     "source": "IT之家",
+     "url": "https://www.ithome.com/1/026/932.htm",
+     "published_at": 1794568174.0
+    }
+   ]
+  },
+  {
+   "text": "【ai】Article URL: https://discourse",
+   "keyword": "ai",
+   "news_ids": [
+    "70f9ac5fd12a471d"
+   ],
+   "refs": [
+    {
+     "id": "70f9ac5fd12a471d",
+     "title": "A technical vision for the Haskell ecosystem",
+     "source": "Hacker News",
+     "url": "https://discourse.haskell.org/t/a-technical-vision-for-the-haskell-ecosystem/15078",
+     "published_at": 1794580992.0
+    }
+   ]
+  },
+  {
+   "text": "【华为】IT之家 11 月 13 日消息，今天下午，鸿蒙智行问界新 M8 旗舰 SUV 正式上市，采用面向 L3 级自动驾驶架构设计，搭载华为乾崑智驾 ",
+   "keyword": "华为",
+   "news_ids": [
+    "47faf21d63e50faf"
+   ],
+   "refs": [
+    {
+     "id": "47faf21d63e50faf",
+     "title": "鸿蒙智行问界新 M8 旗舰 SUV 上市 2 小时大定破 4600 台，37.98 万元起",
+     "source": "IT之家",
+     "url": "https://www.ithome.com/1/026/966.htm",
+     "published_at": 1794581410.0
+    }
+   ]
+  },
+  {
+   "text": "Article URL: https://filemanager-cdn",
+   "keyword": "",
+   "news_ids": [
+    "eb54ef8464830f95"
+   ],
+   "refs": [
+    {
+     "id": "eb54ef8464830f95",
+     "title": "Brazil's Caixa insurer breach exposes names and tax IDs of all 7.6M customers",
+     "source": "Hacker News",
+     "url": "https://filemanager-cdn.mziq.com/published/3972906b-e50b-4f74-ab74-4d0d32125d11/9567a559-d20a-486e-a7ae-5c6bbc030c5e",
+     "published_at": 1794585124.0
+    }
+   ]
+  },
+  {
+   "text": "Article URL: https://text",
+   "keyword": "",
+   "news_ids": [
+    "2fffe24240dafa74"
+   ],
+   "refs": [
+    {
+     "id": "2fffe24240dafa74",
+     "title": "Why is Google cutting off Search from AI-free schools? Here are some theories",
+     "source": "Hacker News",
+     "url": "https://text.npr.org/nx-s1-6029408",
+     "published_at": 1794583750.0
+    }
+   ]
+  },
+  {
+   "text": "IT之家 11 月 13 日消息，当地时间 13 日，联合国气候大会期间，联合国开发计划署署长亚历山大 · 德克罗接受法新社采访时指出，立即采取",
+   "keyword": "",
+   "news_ids": [
+    "e3276fb2555df0f3"
+   ],
+   "refs": [
+    {
+     "id": "e3276fb2555df0f3",
+     "title": "联合国开发计划署：现在就该采取行动应对厄尔尼诺，否则成本会翻倍",
+     "source": "IT之家",
+     "url": "https://www.ithome.com/1/026/990.htm",
+     "published_at": 1794583316.0
+    }
+   ]
+  },
+  {
+   "text": "在银行业为基于 Kubernetes 的平台打造云原生文化",
+   "keyword": "",
+   "news_ids": [
+    "43d47aa55555f769"
+   ],
+   "refs": [
+    {
+     "id": "43d47aa55555f769",
+     "title": "在银行业为基于 Kubernetes 的平台打造云原生文化",
+     "source": "InfoQ中文",
+     "url": "https://www.infoq.cn/article/AVoPIHgU8BvWY12j1sQ5?utm_source=rss&utm_medium=article",
+     "published_at": 1794583080.0
+    }
+   ]
+  },
+  {
+   "text": "IT之家 11 月 13 日消息，据英媒 Autocar 今天（13 日）晚间报道，捷豹路虎首席执行官 PB· 巴拉吉确认， 定位低于现款卫士的",
+   "keyword": "",
+   "news_ids": [
+    "9fdd4899d7e112c2"
+   ],
+   "refs": [
+    {
+     "id": "9fdd4899d7e112c2",
+     "title": "捷豹路虎确认：纯电版“小卫士”新车明年见",
+     "source": "IT之家",
+     "url": "https://www.ithome.com/1/026/989.htm",
+     "published_at": 1794582780.0
+    }
+   ]
+  },
+  {
+   "text": "Article URL: https://www",
+   "keyword": "",
+   "news_ids": [
+    "d207db58485c33d2"
+   ],
+   "refs": [
+    {
+     "id": "d207db58485c33d2",
+     "title": "Palmfrets, Minnesota guitarist's invention, strikes a new chord",
+     "source": "Hacker News",
+     "url": "https://www.echopress.com/business/minnesota-guitarists-invention-strikes-a-new-chord",
+     "published_at": 1794582487.0
+    }
+   ]
+  },
+  {
+   "text": "IT之家 11 月 13 日消息，索尼 PlayStation 今天（13 日）晚间宣布，PS5 超分技术 QSSR 即将登陆 《漫威蜘蛛侠 2",
+   "keyword": "",
+   "news_ids": [
+    "41789b7e32efddc3"
+   ],
+   "refs": [
+    {
+     "id": "41789b7e32efddc3",
+     "title": "索尼：PS5 超分技术 QSSR 即将登陆《漫威蜘蛛侠 2》《ARC Raiders》等作品",
+     "source": "IT之家",
+     "url": "https://www.ithome.com/1/026/967.htm",
+     "published_at": 1794581942.0
+    }
+   ]
+  },
+  {
+   "text": "Article URL: https://myid",
+   "keyword": "",
+   "news_ids": [
+    "8577de261672fc89"
+   ],
+   "refs": [
+    {
+     "id": "8577de261672fc89",
+     "title": "EU Digital Identity Wallet rollout: every EU state on one board",
+     "source": "Hacker News",
+     "url": "https://myid.ie/business/eu-digital-wallet-tracker/",
+     "published_at": 1794581887.0
+    }
+   ]
+  },
+  {
+   "text": "Article URL: https://github",
+   "keyword": "",
+   "news_ids": [
+    "e5b4d36c7138c213"
+   ],
+   "refs": [
+    {
+     "id": "e5b4d36c7138c213",
+     "title": "Lonewolf 0.3 – A standalone XMPP server written in Rust",
+     "source": "Hacker News",
+     "url": "https://github.com/lonewolf-im/lonewolf/releases/tag/v0.3.0",
+     "published_at": 1794580120.0
+    }
+   ]
+  }
+ ],
+ "article": {
+  "title": "2026-11-13 新闻总结",
+  "paragraphs": [
+   {
+    "kind": "lead",
+    "text": "过去 24 小时共收录 400 条新闻，来自 7 家媒体。把标题放在一起看，讨论主要集中在 AI、上市 这几个方向上，其余消息更像是零散补充。"
+   },
+   {
+    "kind": "section",
+    "heading": "AI",
+    "text": "先看「AI」。IT之家 11 月 13 日消息，科技媒体 The Information 昨日（11 月 12 日）发布博文，援引知情人士消息，另有 63 条消息指向同一话题。这类进展更像是把已有能力往工程化落地推了一步，真正的分水岭在于成本和可靠性能不能同时压下来。",
+    "news_ids": [
+     "1923b21eaa1fb1e4"
+    ],
+    "refs": [
+     {
+      "id": "1923b21eaa1fb1e4",
+      "title": "黄仁勋最激进 AI 赌局的“刹车手”：英伟达临时 CEO 克雷斯曾力主削减 2500 亿美元 OpenAI 豪赌",
+      "source": "IT之家",
+      "url": "https://www.ithome.com/1/026/478.htm",
+      "published_at": 1794531130.0
+     }
+    ]
+   },
+   {
+    "kind": "section",
+    "heading": "公司",
+    "text": "与此同时「公司」。据路透社报道， 埃隆·马斯克旗下SpaceX计划在美国得克萨斯州和亚利桑那州建设两座超级计算园区，另有 169 条消息指向同一话题。这条消息短期内的实际影响可能有限，但它指向的方向值得放进观察名单。",
+    "news_ids": [
+     "6f2334ac7841923a"
+    ],
+    "refs": [
+     {
+      "id": "6f2334ac7841923a",
+      "title": "SpaceX豪掷超740亿美元建两座超级计算园区 AI业务收入已超公司总收入一半",
+      "source": "cnBeta",
+      "url": "https://www.cnbeta.com.tw/articles/tech/1586166.htm",
+      "published_at": 1794526317.0
+     }
+    ]
+   },
+   {
+    "kind": "section",
+    "heading": "编程",
+    "text": "另一个值得注意的方向是「编程」。IT之家 11 月 13 日消息，据 The Information 引述知情人士消息，另有 40 条消息指向同一话题。这条消息短期内的实际影响可能有限，但它指向的方向值得放进观察名单。",
+    "news_ids": [
+     "6be4a82dc8f93db0"
+    ],
+    "refs": [
+     {
+      "id": "6be4a82dc8f93db0",
+      "title": "SpaceXAI 资源向 AI 编程工具与 Grok Bot 倾斜，消息称裁减约 60 名 Grok Imagine 员工",
+      "source": "IT之家",
+      "url": "https://www.ithome.com/1/026/961.htm",
+      "published_at": 1794580248.0
+     }
+    ]
+   },
+   {
+    "kind": "section",
+    "heading": "上市",
+    "text": "相比之下「上市」。IT之家 11 月 13 日消息，微软宣布旗下 25 周年纪念版 XBOX Series X 主机现已正式上市，定价为 899.99 美元 （IT之家注：现汇率约合 6，另有 4 条消息指向同一话题。资本动作往往领先产品一年，值得盯的不是金额，而是钱最后花向了算力、场景还是补贴。",
+    "news_ids": [
+     "abd2b19ba8b9158c"
+    ],
+    "refs": [
+     {
+      "id": "abd2b19ba8b9158c",
+      "title": "899 美元微软 25 周年纪念版 XBOX Series X 上市，玩家亦可单独购买 X25 特别版手柄无线控制器",
+      "source": "IT之家",
+      "url": "https://www.ithome.com/1/026/932.htm",
+      "published_at": 1794568174.0
+     }
+    ]
+   },
+   {
+    "kind": "glossary",
+    "items": [
+     {
+      "term": "AI",
+      "desc": "人工智能，让机器完成识别、生成、判断等原本需要人做的任务"
+     },
+     {
+      "term": "IPO",
+      "desc": "首次公开募股，公司第一次把股票卖给公众并上市"
+     },
+     {
+      "term": "API",
+      "desc": "应用程序接口，让不同软件按约定好的方式互相调用"
+     },
+     {
+      "term": "XR",
+      "desc": "扩展现实，VR、AR、MR 的统称"
+     },
+     {
+      "term": "AR",
+      "desc": "增强现实，把虚拟图像叠加到真实世界画面上"
+     },
+     {
+      "term": "GPU",
+      "desc": "图形处理器，因为擅长大规模并行计算，成了 AI 训练的主力硬件"
+     }
+    ]
+   },
+   {
+    "kind": "outlook",
+    "text": "把这几条放在一起看，最值得跟踪的是 AI 和 上市 两条线：一条决定技术能走多远，一条决定它多快能落到普通人的日常里。至于其他消息，可以先放进观察名单，等后续有更实的进展再判断。"
+   }
+  ],
+  "word_count": 660
+ },
+ "ai_enhanced": false,
+ "schema": 1,
+ "window_bj": {
+  "start": "2026-11-13 00:00",
+  "end": "2026-11-14 00:00"
+ }
+}
