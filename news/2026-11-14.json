@@ -1,8 +1,152 @@
 {
  "date": "2026-11-14",
- "generated_at": 1794609521.8517168,
- "count": 49,
+ "generated_at": 1794612148.0908582,
+ "count": 66,
  "items": [
+  {
+   "id": "629bd581b8f3ab1a",
+   "source": "IT之家",
+   "title": "微软就全球服务中断致歉：网络容量升级引发，与网络攻击无关",
+   "url": "https://www.ithome.com/1/027/005.htm",
+   "summary": "IT之家 11 月 14 日消息，微软北京时间今日凌晨在 X 上发布声明，就此次全球性服务中断向客户和合作伙伴致歉，称故障由一次网络容量升级引发，与网络攻击及人工智能 / 智能体无关。 官方称，对本次事件给客户和合作伙伴造成的服务中断“深表歉意”。微软表示，公司清楚客户对其服务寄予的信任，并高度重视这一责任；目前各项服务已出现大范围恢复，并趋于稳定。 官方介绍称，此次事件由一次更早的网络容量升级中的问题引入，在近期一次网络变更后暴露。微软强调，这属于技术故障， 与网络攻击或人工智能 / 智能体无关 。 微软表示，底层问题已经解决，公司仍在为剩余受影响的客户和地区恢复服务。官方称，鉴于需求规模，",
+   "published_at": 1794612099.0,
+   "published_bj": "2026-11-14 07:21"
+  },
+  {
+   "id": "21d989c321fb4e6e",
+   "source": "IT之家",
+   "title": "要让 GPT-6 Astra 等通用 AI 当机器人“大脑”：OpenAI 宣布重组具身智能团队",
+   "url": "https://www.ithome.com/1/027/004.htm",
+   "summary": "IT之家 11 月 14 日消息，《财富》昨日（11 月 13 日）发布博文，爆料称 OpenAI 已解散独立机器人团队，并将相关人员调至公司其他部门。OpenAI 向该媒体确认了此次组织调整， 只是强调本次调整并非退出机器人领域，机器人仍是其长期愿景的核心，重组旨在加快研发。 在架构调整方面，机器人研究人员并入核心研究团队，向首席研究官马克 · 陈（Mark Chen）汇报；应用机器人与硬件团队则转入规模更大的应用部门，该部门由公司总裁格雷格 · 布罗克曼（Greg Brockman）负责。IT之家附上相关截图如下;d 对于本次架构调整的根源，OpenAI 官方回应称包括 GPT-6 Ast",
+   "published_at": 1794611858.0,
+   "published_bj": "2026-11-14 07:17"
+  },
+  {
+   "id": "f792b18fac6aa242",
+   "source": "IT之家",
+   "title": "微软：没有迹象表明全美国航班停飞与 M365 服务宕机有关",
+   "url": "https://www.ithome.com/1/027/003.htm",
+   "summary": "IT之家 11 月 14 日消息，针对美国联邦航空管理局（FAA）突发全国性航班地面停飞事件带来的猜测，微软刚刚在 X 上回应称，目前没有迹象表明 FAA 的全国性地面停飞与微软的任何服务有关。 此次回应受到关注，与微软此前发生的大规模服务故障时间接近有关。当地时间 11 月 12 日，微软旗下 Outlook、Microsoft Teams、OneDrive 等多项服务出现大范围异常，影响多个国家和地区的用户。微软随后启动故障排查及服务恢复工作。 而在当地时间 11 月 13 日，美国 FAA 因空中交通管制通信问题下令全美机场暂停航班起飞。美国交通部长肖恩 · 达菲表示，通信故障影响全美 ",
+   "published_at": 1794611591.0,
+   "published_bj": "2026-11-14 07:13"
+  },
+  {
+   "id": "375607cf9675967d",
+   "source": "IT之家",
+   "title": "路透社：Arm 掌门人哈斯进入接棒黄仁勋候选视野，曾在英伟达工作 7 年",
+   "url": "https://www.ithome.com/1/027/002.htm",
+   "summary": "IT之家 11 月 14 日消息，金融时报昨日（11 月 13 日）发布博文，报道称英伟达董事会已聘请外部机构物色新 CEO 候选人， 除了苹果芯片负责人约翰尼 · 斯鲁吉（Johny Srouji）外 ，Arm 首席执行官雷内 · 哈斯（Rene Haas）也被列为潜在考虑对象。 路透社表示英伟达董事会有意向接触哈斯，但目前哈斯只是英伟达董事会考虑的多名人选之一，是否会获得邀约、是否愿意接受，均未确定。 图源：Arm 官网 IT之家援引博文介绍，哈斯曾在该公司工作七年，担任计算产品业务副总裁兼总经理，2013 年加入 Arm，2022 年出任首席执行官，并带领 Arm 于 2023 年登陆纳",
+   "published_at": 1794611254.0,
+   "published_bj": "2026-11-14 07:07"
+  },
+  {
+   "id": "4da50fa3ba563b98",
+   "source": "Hacker News",
+   "title": "Terminal borders that don't cost a cell",
+   "url": "https://www.joshka.net/cell-borders/",
+   "summary": "Article URL: https://www.joshka.net/cell-borders/ Comments URL: https://news.ycombinator.com/item?id=50491423 Points: 4 # Comments: 0",
+   "published_at": 1794611200.0,
+   "published_bj": "2026-11-14 07:06"
+  },
+  {
+   "id": "349c52ceec1eb906",
+   "source": "TechCrunch",
+   "title": "Amazon’s new Kindle Colorsoft is a premium e-reader with a premium price",
+   "url": "https://techcrunch.com/2026/11/13/amazons-new-kindle-colorsoft-is-a-premium-e-reader-with-a-premium-price/",
+   "summary": "The latest model is lighter and thinner than its predecessor and features an edge-to-edge display. But if you already own the first-generation Colorsoft, there’s little reason to upgrade.",
+   "published_at": 1794610800.0,
+   "published_bj": "2026-11-14 07:00"
+  },
+  {
+   "id": "f510648352903356",
+   "source": "IT之家",
+   "title": "微软称 Outlook 等服务陆续恢复并趋稳，部分用户仍待恢复",
+   "url": "https://www.ithome.com/1/027/001.htm",
+   "summary": "IT之家 11 月 14 日消息，微软官方账号 @MSFT365Status 于北京时间 11 月 14 日发布的推文， 微软宣布其 Outlook 等各项服务均呈现全面恢复和稳定态势。不过，微软公开声明同时表示，仍在为剩余受影响客户和地区恢复服务。 根据微软官方 MO1550821 公告内容，本次 Microsoft 365 服务故障从美国东部时间 2026 年 11 月 12 日 13:25 左右（IT之家注：北京时间 11 月 13 日凌晨 2:25 左右）开始，影响 Outlook、Teams、Copilot、OneDrive 等多项微软服务。 此次故障最初涉及 Teams，随后微软确",
+   "published_at": 1794610633.0,
+   "published_bj": "2026-11-14 06:57"
+  },
+  {
+   "id": "36dc0a5c1a7df377",
+   "source": "IT之家",
+   "title": "SpaceX 星舰第 15 次试飞升空：超重型助推器中途改道墨西哥湾溅落放弃回收，飞船继续飞行中",
+   "url": "https://www.ithome.com/1/027/000.htm",
+   "summary": "IT之家 11 月 14 日消息，美国太空探索技术公司（SpaceX）重型运载火箭“星舰”于美国中部时间 13 日下午从得克萨斯州发射升空，实施第 15 次试飞。 发射窗口于美国中部时间当天下午 4 时 45 分开启，星舰从轨道发射台 2 号升空。 此次任务使用超重型助推器 B22 号和飞船 S42 号，原计划首次实现助推器与飞船双双返回发射场并由发射塔机械臂实施空中捕获回收，同时部署 26 颗第三代星链卫星。 发射升空后不久，星舰及超重助推器完成热分离，飞船猛禽发动机成功点火，超重型助推器按计划执行返回机动。 不过 SpaceX 官方随即确认，超重型助推器已改道至墨西哥湾近海溅落着陆，发射塔",
+   "published_at": 1794610482.0,
+   "published_bj": "2026-11-14 06:54"
+  },
+  {
+   "id": "fde6dc029e3b1453",
+   "source": "cnBeta",
+   "title": "黄仁勋风波持续发酵 英伟达创逾18个月来最差单周表现",
+   "url": "https://www.cnbeta.com.tw/articles/tech/1586328.htm",
+   "summary": "英伟达股价录得逾18个月来最差单周表现，这家芯片巨头在黄仁勋离职后持续承压。英伟达周五下跌2%，收于162.85美元，过去五个交易日累计下跌13%，创2025年4月以来最大单周跌幅，当时美国总统唐纳德·特朗普宣布大范围征收关税的计划，引发全球市场震荡。这也是英伟达连续第六周下跌，为2012年以来最长连跌。 阅读全文",
+   "published_at": 1794610367.0,
+   "published_bj": "2026-11-14 06:52"
+  },
+  {
+   "id": "46c1ef783469d55d",
+   "source": "cnBeta",
+   "title": "美联储警告：部分由AI推动的资产价格高企存在潜在风险",
+   "url": "https://www.cnbeta.com.tw/articles/tech/1586326.htm",
+   "summary": "美联储在周五发布的金融稳定半年度报告中指出，人工智能和高企的资产估值可能带来潜在脆弱性。“资产估值压力持续高企。股权估值指标仍处于高位，部分源于市场对超级智能的狂热，”美联储表示，并采用了总统唐纳德·特朗普偏爱的“AI”这一术语。该行补充道，这种狂热已因对企业资本支出和债务发行计划的担忧而有所缓和。 阅读全文",
+   "published_at": 1794610234.0,
+   "published_bj": "2026-11-14 06:50"
+  },
+  {
+   "id": "cca02e9a8fe451fd",
+   "source": "cnBeta",
+   "title": "FAA因空管通信故障叫停美国所有机场的起飞航班",
+   "url": "https://www.cnbeta.com.tw/articles/tech/1586324.htm",
+   "summary": "当地时间11月13日下午，美国联邦航空管理局（FAA）宣布对全美所有机场实施全国范围的“地面停飞令”（Ground Stop），原因是一项影响所有航空航路交通管制中心（Air Route Traffic Control Centers）的通信故障。该措施导致全美范围内所有计划起飞的航班暂停离港，美国航空运输网络受到大规模冲击。 阅读全文",
+   "published_at": 1794610133.0,
+   "published_bj": "2026-11-14 06:48"
+  },
+  {
+   "id": "d64bfaf0f1c8843b",
+   "source": "IT之家",
+   "title": "美国突发全国性航班停飞：8000 架次延误 + 3100 架飞机在空中，FBI 初步排除网络攻击",
+   "url": "https://www.ithome.com/1/026/999.htm",
+   "summary": "IT之家 11 月 14 日消息，北京时间 11 月 14 日凌晨，美国航空交通管制系统发生大规模通信故障，美国联邦航空管理局（FAA）在约半小时内将局部停飞升级为全国性地面停飞，要求所有待起飞航班留在地面，直至另行通知。 此次事件最早于北京时间 4 时 46 分发生在芝加哥奥黑尔国际机场，11 分钟后扩大至全美，飞往美国的国际航班按个案处理，已在空中的航班则可正常降落。 据美联社 11 月 13 日报道，美国交通部长肖恩 · 达菲证实，通信故障影响了全美 22 个区域航路交通管制中心。FAA 以安全为由实施全国性地面停飞，要求所有待起飞航班留在地面，飞往美国的国际航班则根据具体情况分别处理。",
+   "published_at": 1794609812.0,
+   "published_bj": "2026-11-14 06:43"
+  },
+  {
+   "id": "d9badb4f94a17b0d",
+   "source": "TechCrunch",
+   "title": "Jensen Huang’s departure blasts big hole in AI startup funding, VCs and founders say",
+   "url": "https://techcrunch.com/2026/11/13/jensen-huangs-departure-blasts-big-hole-in-ai-startup-funding-vcs-and-founders-say/",
+   "summary": "Nvidia poured tens of billions into AI startups under Huang. Without him at the helm, founders and VCs are bracing for smaller checks and lower valuations.",
+   "published_at": 1794609780.0,
+   "published_bj": "2026-11-14 06:43"
+  },
+  {
+   "id": "d995bffd7adf42db",
+   "source": "IT之家",
+   "title": "英伟达董事会澄清：尚未选定 CEO 招聘猎头，也未正式接触候选人",
+   "url": "https://www.ithome.com/1/026/998.htm",
+   "summary": "IT之家 11 月 14 日消息，英国《金融时报》报道称，英伟达董事会曾接触芯片设计公司 Arm 首席执行官雷内・哈斯（Rene Haas），将其作为潜在继任人选。 当地时间 11 月 13 日，英伟达董事会针对外界对新任 CEO 人选的猜测回应 CNBC 称，公司尚未选定负责首席执行官招聘工作的猎头机构，也尚未正式联系任何潜在候选人。 IT之家此前报道，英伟达于当地时间 11 月 12 日宣布，黄仁勋辞去公司总裁、CEO 及董事会成员职务，即刻生效。公司 CFO 科莱特・克雷斯（Colette Kress）出任临时 CEO，同时继续担任 CFO。 根据英伟达公布的安排，董事会将在内部和外部候",
+   "published_at": 1794609572.0,
+   "published_bj": "2026-11-14 06:39"
+  },
+  {
+   "id": "605ac041dae22975",
+   "source": "Hacker News",
+   "title": "Claude Meetings",
+   "url": "https://claude.com/resources/articles/claude-meetings",
+   "summary": "Article URL: https://claude.com/resources/articles/claude-meetings Comments URL: https://news.ycombinator.com/item?id=50491097 Points: 32 # Comments: 16",
+   "published_at": 1794609555.0,
+   "published_bj": "2026-11-14 06:39"
+  },
+  {
+   "id": "ea6a5732fe5f65de",
+   "source": "Hacker News",
+   "title": "National Weather Service reports nationwide radar website outage amid FAA stop",
+   "url": "https://www.news9.com/oklahoma-city-news/national-weather-service-reports-nationwide-radar-website-outage",
+   "summary": "Article URL: https://www.news9.com/oklahoma-city-news/national-weather-service-reports-nationwide-radar-website-outage Comments URL: https://news.ycombinator.com/item?id=50490778 Points: 58 # Comments: 13",
+   "published_at": 1794608171.0,
+   "published_bj": "2026-11-14 06:16"
+  },
   {
    "id": "f7cfdd915db360cb",
    "source": "Hacker News",
@@ -263,6 +407,15 @@
    "summary": "Article URL: https://www.reddit.com/r/Teachers/comments/1xuup7a/technology_sucks_it_literally_takes_16_clicks_for/ Comments URL: https://news.ycombinator.com/item?id=50487522 Points: 75 # Comments: 35",
    "published_at": 1794593917.0,
    "published_bj": "2026-11-14 02:18"
+  },
+  {
+   "id": "f63c5aaaea486f11",
+   "source": "IT之家",
+   "title": "微软发布 Win11 Beta / Experimental / RP 多版本预览版：含 28020.3532 等多版本推送",
+   "url": "https://www.ithome.com/1/026/997.htm",
+   "summary": "IT之家 11 月 14 日消息，微软昨天（11 月 13 日）发布博文，邀请 Beta、Experimental、Release Preview 频道的 Windows Insider 项目成员，测试适用于 Windows 11 的预览版更新。 其中常规 Beta、Experimental 主通道本周暂不推送更新，相关常规更新将在下周正式发布，本次推送的版本分别为： Beta（26H1）通道：Build 28020.3532 Experimental（26H1）通道：Build 28120.3542 Experimental（Future Platforms）通道：Build 29708.1",
+   "published_at": 1794593239.0,
+   "published_bj": "2026-11-14 02:07"
   },
   {
    "id": "8b78edd82bab4c5e",
