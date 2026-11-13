@@ -1,7 +1,7 @@
 {
  "date": "2026-11-14",
- "generated_at": 1794588513.833801,
- "count": 4,
+ "generated_at": 1794591848.518101,
+ "count": 14,
  "items": [
   {
    "id": "83eebebef0cda30a",
@@ -22,6 +22,60 @@
    "published_bj": "2026-11-14 03:00"
   },
   {
+   "id": "ff39f5c8bbeca8fb",
+   "source": "cnBeta",
+   "title": "微软全球服务故障持续第二天 Outlook等服务逐步恢复但仍未完全修复",
+   "url": "https://www.cnbeta.com.tw/articles/tech/1586314.htm",
+   "summary": "11月13日，微软表示，持续近两天的大规模服务故障正在逐步得到修复，Outlook邮箱及其他Microsoft 365服务的可用性和邮件投递表现已有改善，但部分用户仍可能遇到间歇性连接问题。此次故障始于周四下午，波及全球多地企业、政府机构及其他组织。 阅读全文",
+   "published_at": 1794590948.0,
+   "published_bj": "2026-11-14 01:29"
+  },
+  {
+   "id": "9b01faa593ab3267",
+   "source": "cnBeta",
+   "title": "传与黄仁勋关系密切人士涉足中国AI产业链 报告称其关联企业曾接触受限英伟达芯片",
+   "url": "https://www.cnbeta.com.tw/articles/tech/1586312.htm",
+   "summary": "围绕英伟达前首席执行官黄仁勋近期所引发的争议事件，再度出现新的调查进展。根据最新报道，一份调查报告声称，被指与黄仁勋关系密切的中国商界人士Alice Huang不仅曾与此前备受关注的企业存在关联，还被发现与另一家能够获得受美国出口管制英伟达先进AI芯片的企业存在深层联系。 阅读全文",
+   "published_at": 1794590561.0,
+   "published_bj": "2026-11-14 01:22"
+  },
+  {
+   "id": "f6060dc43921e56d",
+   "source": "cnBeta",
+   "title": "中国AI模型被发现英伟达Blackwell芯片“指纹” 研究推算部分训练集群规模达3000至4500颗",
+   "url": "https://www.cnbeta.com.tw/articles/tech/1586310.htm",
+   "summary": "中国AI企业DeepSeek、月之暗面（Moonshot AI）、MiniMax和蚂蚁集团的最新模型，可能已经使用英伟达最新一代Blackwell GPU进行初始化，甚至可能利用这些芯片完成大规模训练。一个名为Unemployment Labs的独立研究团队通过分析公开发布的AI模型权重，发现其中保留了与特定英伟达GPU架构相匹配的数字特征。这项研究为此前有关中国AI企业获得受美国出口管制限制的Blackwell芯片的猜测，提供了新的技术证据。 阅读全文",
+   "published_at": 1794590531.0,
+   "published_bj": "2026-11-14 01:22"
+  },
+  {
+   "id": "9f67ed9e95befcd6",
+   "source": "cnBeta",
+   "title": "欧洲网络安全厂商加速崛起 美企主导地位面临“数字主权”挑战",
+   "url": "https://www.cnbeta.com.tw/articles/tech/1586308.htm",
+   "summary": "随着欧洲国家和企业重新评估对美国科技供应商的依赖程度，欧洲本土网络安全厂商正在获得越来越多市场份额。最新数据显示，在关税争端、跨大西洋关系趋紧以及数据主权担忧加剧的背景下，欧洲网络安全企业的增长速度已经超过美国竞争对手。 阅读全文",
+   "published_at": 1794590448.0,
+   "published_bj": "2026-11-14 01:20"
+  },
+  {
+   "id": "464fa054a74f4eeb",
+   "source": "Hacker News",
+   "title": "Arm boss Rene Haas approached in Nvidia CEO search",
+   "url": "https://www.ft.com/content/2a64f698-46dd-4178-a3f4-4c5f4c0a0926",
+   "summary": "Article URL: https://www.ft.com/content/2a64f698-46dd-4178-a3f4-4c5f4c0a0926 Comments URL: https://news.ycombinator.com/item?id=50486489 Points: 13 # Comments: 5",
+   "published_at": 1794589833.0,
+   "published_bj": "2026-11-14 01:10"
+  },
+  {
+   "id": "2d77d0524a284fb8",
+   "source": "Hacker News",
+   "title": "\"LibreOffice works 365 days a year. Just saying.\"",
+   "url": "https://twitter.com/LibreOffice/status/2121205272479998268",
+   "summary": "Article URL: https://twitter.com/LibreOffice/status/2121205272479998268 Comments URL: https://news.ycombinator.com/item?id=50486482 Points: 112 # Comments: 30",
+   "published_at": 1794589798.0,
+   "published_bj": "2026-11-14 01:09"
+  },
+  {
    "id": "86359f073807d587",
    "source": "InfoQ中文",
    "title": "容器隔离还不够：Edera 从虚拟机监控器层限制 AI 智能体",
@@ -29,6 +83,42 @@
    "summary": "点击查看原文>",
    "published_at": 1794589560.0,
    "published_bj": "2026-11-14 01:06"
+  },
+  {
+   "id": "5d64e09cf161a6cd",
+   "source": "cnBeta",
+   "title": "欧洲开源办公软件Euro-Office推出Windows、macOS和Linux桌面版",
+   "url": "https://www.cnbeta.com.tw/articles/tech/1586306.htm",
+   "summary": "欧洲开源办公软件项目Euro-Office正式将业务扩展至桌面平台，推出面向Windows、macOS和Linux的独立应用程序。此前，这套办公软件主要通过浏览器运行，此次桌面版的推出意味着用户可以像使用传统Microsoft Office或LibreOffice一样，在本地计算机上编辑文档、电子表格和演示文稿。 阅读全文",
+   "published_at": 1794589538.0,
+   "published_bj": "2026-11-14 01:05"
+  },
+  {
+   "id": "c16ed86f9719f365",
+   "source": "cnBeta",
+   "title": "OpenAI推出ChatGPT Wallet：AI代理可代替用户完成在线支付",
+   "url": "https://www.cnbeta.com.tw/articles/tech/1586304.htm",
+   "summary": "OpenAI宣布推出全新的支付功能ChatGPT Wallet，允许AI代理在获得授权后代表用户完成在线购物和付款流程。为实现这一功能，OpenAI与美国运通（American Express）、万事达卡（Mastercard）和Visa等主流支付网络展开合作，希望进一步推动AI代理从信息助手向实际执行任务工具转变。 阅读全文",
+   "published_at": 1794589394.0,
+   "published_bj": "2026-11-14 01:03"
+  },
+  {
+   "id": "0284b7ecaf5fef3f",
+   "source": "Hacker News",
+   "title": "Apify Was Hacked",
+   "url": "https://status.apify.com/incidents/sxd1dj5j6749",
+   "summary": "Article URL: https://status.apify.com/incidents/sxd1dj5j6749 Comments URL: https://news.ycombinator.com/item?id=50486258 Points: 7 # Comments: 0",
+   "published_at": 1794588959.0,
+   "published_bj": "2026-11-14 00:55"
+  },
+  {
+   "id": "55d7124816f64c51",
+   "source": "Hacker News",
+   "title": "North Korean hackers used fake video calls in $400M crypto hack, says FBI",
+   "url": "https://www.bbc.com/news/articles/cqdj1ellpd70o",
+   "summary": "Article URL: https://www.bbc.com/news/articles/cqdj1ellpd70o Comments URL: https://news.ycombinator.com/item?id=50486178 Points: 14 # Comments: 0",
+   "published_at": 1794588622.0,
+   "published_bj": "2026-11-14 00:50"
   },
   {
    "id": "ce05fd126939b58f",

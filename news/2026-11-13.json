@@ -1,6 +1,6 @@
 {
  "date": "2026-11-13",
- "generated_at": 1794588513.8359468,
+ "generated_at": 1794591848.5206277,
  "count": 400,
  "items": [
   {
@@ -245,6 +245,15 @@
    "summary": "Article URL: https://www.wired.com/story/exclusive-apple-tv-neuromancer-creator-interviews/ Comments URL: https://news.ycombinator.com/item?id=50484006 Points: 6 # Comments: 1",
    "published_at": 1794580112.0,
    "published_bj": "2026-11-13 22:28"
+  },
+  {
+   "id": "8e0ee3c0fdaad179",
+   "source": "Hacker News",
+   "title": "CERN Built the Large Hadron Collider's Next-Gen Magnets",
+   "url": "https://spectrum.ieee.org/large-hadron-collider-superconducting-magnets",
+   "summary": "Article URL: https://spectrum.ieee.org/large-hadron-collider-superconducting-magnets Comments URL: https://news.ycombinator.com/item?id=50483959 Points: 7 # Comments: 0",
+   "published_at": 1794579946.0,
+   "published_bj": "2026-11-13 22:25"
   },
   {
    "id": "c45b51a3dfd70ab1",
@@ -3593,15 +3602,6 @@
    "summary": "Hugging Face's CEO pledged to keep fighting for open-source AI after Huang's exit, raising questions about Nvidia's $12.9B acquisition.",
    "published_at": 1794505000.0,
    "published_bj": "2026-11-13 01:36"
-  },
-  {
-   "id": "94d9bcb03e046ae0",
-   "source": "Hacker News",
-   "title": "Paths in Pieces",
-   "url": "https://stoppels.ch/2026/11/12/paths-in-pieces.html",
-   "summary": "Article URL: https://stoppels.ch/2026/11/12/paths-in-pieces.html Comments URL: https://news.ycombinator.com/item?id=50470762 Points: 4 # Comments: 0",
-   "published_at": 1794503979.0,
-   "published_bj": "2026-11-13 01:19"
   }
  ]
 }
