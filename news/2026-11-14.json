@@ -1,7 +1,7 @@
 {
  "date": "2026-11-14",
- "generated_at": 1794591848.518101,
- "count": 14,
+ "generated_at": 1794595441.436208,
+ "count": 22,
  "items": [
   {
    "id": "83eebebef0cda30a",
@@ -20,6 +20,42 @@
    "summary": "点击查看原文>",
    "published_at": 1794596400.0,
    "published_bj": "2026-11-14 03:00"
+  },
+  {
+   "id": "9889f5b32ac37274",
+   "source": "TechCrunch",
+   "title": "Export-banned Nvidia chips are behind China’s most powerful AI models—uh oh, Jensen!",
+   "url": "https://techcrunch.com/2026/11/13/export-banned-nvidia-chips-are-behind-chinas-most-powerful-ai-models-uh-oh-jensen/",
+   "summary": "New research shows the most advanced AI models from China were trained on banned Nvidia chips.",
+   "published_at": 1794595230.0,
+   "published_bj": "2026-11-14 02:40"
+  },
+  {
+   "id": "8b78edd82bab4c5e",
+   "source": "Hacker News",
+   "title": "Show HN: Isometric SF – A pixel-art map of the SF Bay Area",
+   "url": "https://isometricsf.com/",
+   "summary": "Technical Write-up: https://www.justinchavez.com/blog/isometric-sf-how/ Hi HN! Showcasing this fun project. I took 1300 square miles of the SF Bay Area from Google Photorealistic 3D Tiles and transformed them into a cohesive pixel map. It's really fun to explore and stumble upon various famous landm",
+   "published_at": 1794592717.0,
+   "published_bj": "2026-11-14 01:58"
+  },
+  {
+   "id": "832dccf37c59f29c",
+   "source": "Hacker News",
+   "title": "After 600 experiments, here's what I discovered about JEPA world models",
+   "url": "https://haddyalchaer.com/jepa",
+   "summary": "Article URL: https://haddyalchaer.com/jepa Comments URL: https://news.ycombinator.com/item?id=50487185 Points: 19 # Comments: 1",
+   "published_at": 1794592528.0,
+   "published_bj": "2026-11-14 01:55"
+  },
+  {
+   "id": "40e46807db395f9a",
+   "source": "Hacker News",
+   "title": "AI unlocks Gödel's notebooks, said to contain hundreds of proved theorems",
+   "url": "https://www.theguardian.com/science/2026/nov/13/kurt-godel-notebooks-ai-helps-unlock-hidden-discoveries-man-who-transformed-maths",
+   "summary": "Article URL: https://www.theguardian.com/science/2026/nov/13/kurt-godel-notebooks-ai-helps-unlock-hidden-discoveries-man-who-transformed-maths Comments URL: https://news.ycombinator.com/item?id=50486748 Points: 110 # Comments: 9",
+   "published_at": 1794591010.0,
+   "published_bj": "2026-11-14 01:30"
   },
   {
    "id": "ff39f5c8bbeca8fb",
@@ -58,6 +94,24 @@
    "published_bj": "2026-11-14 01:20"
   },
   {
+   "id": "97e0b363b4b4588a",
+   "source": "Solidot",
+   "title": "旅行者 1 号距离地球的距离达到一光日",
+   "url": "https://www.solidot.org/story?sid=85883",
+   "summary": "北京时间 11 月 18 日 18 时 16 分 07 秒，旅行者 1 号与地球的距离将达到约 259 亿公里，相当于光在真空中传播 24 小时的距离，也就是“一光日”。如果将一光年划分为 365 个刻度，每格代表一个光日，那么 1977 年 9 月 5 日启程的旅行者 1 号，经过近半个世纪的飞行，终于抵达了第一格。今年 10 月，旅行者 1 号曾经历一场短暂的通信中断。NASA JPL 称，18 日和 19 日，NASA 深空网络连续两次未能收到探测器预期发出的信号。直到 20 日，信号才重新出现，异常原因仍在调查中。对于一艘运行近半个世纪的探测器而言，设备老化始终是地面团队面临的挑战。旅",
+   "published_at": 1794590087.0,
+   "published_bj": "2026-11-14 01:14"
+  },
+  {
+   "id": "b8dd8d29ed44b987",
+   "source": "Hacker News",
+   "title": "Concurrent Shell Command Queues",
+   "url": "https://emmer.dev/blog/concurrent-shell-command-queues/",
+   "summary": "Article URL: https://emmer.dev/blog/concurrent-shell-command-queues/ Comments URL: https://news.ycombinator.com/item?id=50486521 Points: 4 # Comments: 1",
+   "published_at": 1794589981.0,
+   "published_bj": "2026-11-14 01:13"
+  },
+  {
    "id": "464fa054a74f4eeb",
    "source": "Hacker News",
    "title": "Arm boss Rene Haas approached in Nvidia CEO search",
@@ -74,6 +128,24 @@
    "summary": "Article URL: https://twitter.com/LibreOffice/status/2121205272479998268 Comments URL: https://news.ycombinator.com/item?id=50486482 Points: 112 # Comments: 30",
    "published_at": 1794589798.0,
    "published_bj": "2026-11-14 01:09"
+  },
+  {
+   "id": "9953a96ecaacb748",
+   "source": "Hacker News",
+   "title": "Gnomon. Git for Postgres data, built for agents",
+   "url": "https://github.com/bitsinfra/gnomon",
+   "summary": "Article URL: https://github.com/bitsinfra/gnomon Comments URL: https://news.ycombinator.com/item?id=50486480 Points: 7 # Comments: 0",
+   "published_at": 1794589792.0,
+   "published_bj": "2026-11-14 01:09"
+  },
+  {
+   "id": "17b1b20033085220",
+   "source": "Solidot",
+   "title": "非洲加速发展太阳能",
+   "url": "https://www.solidot.org/story?sid=85882",
+   "summary": "在津巴布韦首都哈拉雷（Harare）的一个工业区，如果想要寻找一个新的发电项目，你需要抬起头。Limpopo Way Power 太阳能发电站没有传统的独立厂区，而是将一排排太阳能电池板铺在两座仓库的屋顶上，它通过协议向工厂供电。在非洲和亚洲的很多地区，太阳能革命随处可见。能源智库 Ember 的报告预测，2026 年非洲太阳能新增装机量有望达到 17 GW，同比增长 45%。报告作者之一的 African Tech Futures Lab 研究总监 Joel Nana 表示，我们正见证一场自下而上的革命。多种因素共同推动了非洲太阳能的普及：光伏电池板成本的下降、市电供应的不稳定性、日益加剧的",
+   "published_at": 1794589642.0,
+   "published_bj": "2026-11-14 01:07"
   },
   {
    "id": "86359f073807d587",
