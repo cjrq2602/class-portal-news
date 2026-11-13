@@ -1,8 +1,17 @@
 {
  "date": "2026-11-13",
- "generated_at": 1794549219.9875517,
- "count": 207,
+ "generated_at": 1794553175.9551353,
+ "count": 244,
  "items": [
+  {
+   "id": "f40818337de128fb",
+   "source": "InfoQ中文",
+   "title": "奥运史上第一次，一朵云整体留给了举办国",
+   "url": "https://www.infoq.cn/article/7Wih8vL541W3vkq1WAHi?utm_source=rss&utm_medium=article",
+   "summary": "点击查看原文>",
+   "published_at": 1794579691.0,
+   "published_bj": "2026-11-13 22:21"
+  },
   {
    "id": "16692e1690a0f422",
    "source": "InfoQ中文",
@@ -47,6 +56,276 @@
    "summary": "点击查看原文>",
    "published_at": 1794561420.0,
    "published_bj": "2026-11-13 17:17"
+  },
+  {
+   "id": "3941e81e22276c11",
+   "source": "cnBeta",
+   "title": "特朗普谈黄仁勋被罢免：太可怕了，刚给他颁完奖",
+   "url": "https://www.cnbeta.com.tw/articles/tech/1586238.htm",
+   "summary": "11月13日，据CNBC报道，就在黄仁勋(Jensen Huang)辞去英伟达CEO几个小时后，美国总统特朗普接受了采访，对黄仁勋遭遇的“可怕事情”表示惋惜。黄仁勋是特朗普在美国企业界的亲密盟友。 阅读全文",
+   "published_at": 1794551426.0,
+   "published_bj": "2026-11-13 14:30"
+  },
+  {
+   "id": "4d8b8032176d699b",
+   "source": "cnBeta",
+   "title": "英伟达官网更新管理层页面：克雷斯居首 黄仁勋归入创始人一栏",
+   "url": "https://www.cnbeta.com.tw/articles/tech/1586236.htm",
+   "summary": "11月13日， 英伟达官网已更新管理团队页面，临时CEO科莱特·克雷斯被列在“公司高管”栏目首位，黄仁勋则转入“创始人”栏目，头衔由此前的“创始人、总裁兼CEO”调整为“创始人”。 阅读全文",
+   "published_at": 1794551380.0,
+   "published_bj": "2026-11-13 14:29"
+  },
+  {
+   "id": "30adb221f328074e",
+   "source": "cnBeta",
+   "title": "黄仁勋下台，14家华尔街投行火速解读：共识是“无人可替”",
+   "url": "https://www.cnbeta.com.tw/articles/tech/1586234.htm",
+   "summary": "英伟达已经宣布，公司联合创始人、执掌公司33年的唯一一任CEO黄仁勋即时辞职，同时卸任董事会职务。CFO Colette Kress兼任临时CEO，Synopsys资深人士Harvey Jones出任公司首位董事会主席，正式CEO人选将同时考虑内外部候选人。 阅读全文",
+   "published_at": 1794551365.0,
+   "published_bj": "2026-11-13 14:29"
+  },
+  {
+   "id": "e4dd53596c0af580",
+   "source": "cnBeta",
+   "title": "微软高管回应Microsoft 365大规模故障：深表歉意，正努力解决",
+   "url": "https://www.cnbeta.com.tw/articles/tech/1586232.htm",
+   "summary": "11月13日，微软执行副总裁查尔斯·拉曼纳（Charles Lamanna）在社交平台X发文，就Microsoft 365大范围服务故障造成的影响致歉。他表示，微软正在处理相关问题，目前没有迹象表明此次故障由恶意活动或网络攻击引发。 阅读全文",
+   "published_at": 1794551317.0,
+   "published_bj": "2026-11-13 14:28"
+  },
+  {
+   "id": "5fed0b680f4fd323",
+   "source": "cnBeta",
+   "title": "被罢免前，黄仁勋曾痛斥新任临时CEO",
+   "url": "https://www.cnbeta.com.tw/articles/tech/1586230.htm",
+   "summary": "11月13日，据《华尔街日报》报道，今年夏天，黄仁勋(Jensen Huang)把英伟达的几位高级财务主管叫到办公室。由于靠英伟达疯狂投资支撑起来的AI经济正摇摇欲坠，黄仁勋希望确保公司没有走错方向。在开会期间，他开始严厉斥责如今接替他出任英伟达临时CEO的科莱特·克雷斯(Colette Kress)。克雷斯当时担任CFO。 阅读全文",
+   "published_at": 1794551286.0,
+   "published_bj": "2026-11-13 14:28"
+  },
+  {
+   "id": "def897fb6f7d2c0d",
+   "source": "IT之家",
+   "title": "微软承认 Win11/Win10 安装 11 月更新后，部分 Word 文档无法打印",
+   "url": "https://www.ithome.com/1/026/737.htm",
+   "summary": "IT之家 11 月 13 日消息，科技媒体 BornCity 今天（11 月 13 日）发布博文， 报道称微软承认适用于 Windows 11 系统的 11 月更新存在 Bug，可能导致部分 Word 文档无法打印。 在故障表现方面，该 Bug 触发条件较为特殊，文档中的图像在所选打印分辨率下，渲染宽度或高度为零。这类图像未必肉眼可见，可能用于水印、版面定位，也可能由文档生成工具插入。 IT之家援引博文介绍，用户在通过 Windows 图形设备接口（GDI）打印上述条件的 Word 文档时，可能出现无法打印的情况，且可能影响其它应用程序的打印体验。 在影响范围上，报道列出的受影响系统包括 Wi",
+   "published_at": 1794551168.0,
+   "published_bj": "2026-11-13 14:26"
+  },
+  {
+   "id": "e2fb34c52748e665",
+   "source": "IT之家",
+   "title": "追风者预告同暴力熊、海韵三方联动：围绕 EX6 ULTRA 机箱，12 月 10 日揭晓",
+   "url": "https://www.ithome.com/1/026/736.htm",
+   "summary": "IT之家 11 月 13 日消息，Phanteks（追风者）今日宣布将与 PC 散热企业 Thermal Grizzly（暴力熊）、电源制造商 Seasonic（海韵）展开三方联动，具体情况将于 12 月 10 日揭晓。 IT之家注意到，此次联名合作将围绕 EX6 ULTRA 机箱展开， 这一产品与此前已上市的 EX5 系列一样采用了硬件分舱的设计理念 ，但拥有更高的定位。",
+   "published_at": 1794550878.0,
+   "published_bj": "2026-11-13 14:21"
+  },
+  {
+   "id": "d3ba597ae80b357c",
+   "source": "cnBeta",
+   "title": "微软将在11月16日封锁印度eMudhra剩余10张根证书 相关中间证书和页证书都将无法信任",
+   "url": "https://www.cnbeta.com.tw/articles/tech/1586228.htm",
+   "summary": "微软日前发布支持文档更新针对 eMudhra 证书事件的后续处理计划：从 2026 年 11 月 16 日起，Windows 系统将通过自动证书信任更新机制，从受信任列表中移除剩余的 10 张 eMudhra 根证书。 阅读全文",
+   "published_at": 1794550819.0,
+   "published_bj": "2026-11-13 14:20"
+  },
+  {
+   "id": "dd759d19f510af14",
+   "source": "IT之家",
+   "title": "英伟达员工发起挽留行动：内部投票超 97% 希望黄仁勋回归",
+   "url": "https://www.ithome.com/1/026/735.htm",
+   "summary": "IT之家 11 月 13 日消息，据 WIRED 今日报道，英伟达员工正通过公司内网发起挽留黄仁勋的行动。 一项由员工自发组织的内部投票显示，超过 97% 的参与者希望黄仁勋继续担任 CEO。多名员工表示，难以接受这一人事变动，希望董事会重新考虑黄仁勋的去留。 报道称，黄仁勋辞职前，一名在英伟达工作多年的工程师在公司内部“意见箱”提交了一份帖子，敦促董事会在采取任何行动之前考虑员工情绪。该帖此后获得超过 1600 条评论，其中多条要求董事会设法让黄仁勋回归。一条匿名评论写道：“如果你相信这个使命，就把老板带回来。”另一条写道：“我们都是人，都会犯错。黄仁勋做了那么多好事，他需要第二次机会。” ",
+   "published_at": 1794550816.0,
+   "published_bj": "2026-11-13 14:20"
+  },
+  {
+   "id": "58a72182a54d1f62",
+   "source": "IT之家",
+   "title": "迎接《GTA 6》发售：《幻兽帕鲁》开发商 Pocketpair 为全体员工安排 5 天“特别假期”",
+   "url": "https://www.ithome.com/1/026/734.htm",
+   "summary": "IT之家 11 月 13 日消息，《幻兽帕鲁（Palworld）》开发商 Pocketpair 在 X 平台发文，称为迎接《侠盗猎车手 6》（GTA 6）发售，公司将安排为期 5 天的特别假期，让对这款游戏期待已久的员工能够放心游玩。 Pocketpair 表示，《GTA 6》是全球玩家高度关注的游戏作品，发售当天势必会有不少人坐在学校或办公室里，望着窗外期待新一代游戏体验的到来。如此重要的时刻值得大家全心投入，因此公司决定让员工暂时放下日常工作，前往游戏中的罪恶城（Vice City）“出差”。 具体来看，此次特别假期从 11 月 19 日持续至 23 日，适用于所有有意游玩《GTA 6》的",
+   "published_at": 1794550813.0,
+   "published_bj": "2026-11-13 14:20"
+  },
+  {
+   "id": "68c8994026f6c9bf",
+   "source": "cnBeta",
+   "title": "英伟达风波持续发酵 美参议院要求黄仁勋与商务部长出席听证会",
+   "url": "https://www.cnbeta.com.tw/articles/tech/1586226.htm",
+   "summary": "随着围绕英伟达的争议不断升级，美国国会正加大调查力度。美国参议院银行委员会主席蒂姆·斯科特近日致函英伟达前首席执行官黄仁勋以及美国商务部长霍华德·卢特尼克，要求两人分别出席委员会听证会，就近期引发广泛关注的英伟达相关事件作出说明。&nbsp; 阅读全文",
+   "published_at": 1794550768.0,
+   "published_bj": "2026-11-13 14:19"
+  },
+  {
+   "id": "33c51134b376066b",
+   "source": "cnBeta",
+   "title": "美国情报部门尚不确定女商人黄乐是否参与间谍活动 但也不认为她不构成风险",
+   "url": "https://www.cnbeta.com.tw/articles/tech/1586224.htm",
+   "summary": "美国情报部门仍在调查中国商界人士Alice Huang（黄乐）与中国政府的关系，但多名知情人士告诉CNN，目前掌握的情报不足以证明她曾受中国国家安全部招募、为北京从事间谍活动。美国官员对此看法不一：国家情报总监办公室和中情局部分官员认为，把她直接称为中国间谍可能言过其实；另一些特朗普政府官员则认为，她与英伟达首席执行官黄仁勋关系密切，又在中国商业环境中拥有影响力，很难相信她与政府毫无联系。 阅读全文",
+   "published_at": 1794550665.0,
+   "published_bj": "2026-11-13 14:17"
+  },
+  {
+   "id": "b2c08e01435b2792",
+   "source": "IT之家",
+   "title": "小米米家智能腰部按摩仪 2 开售：支持双面热敷、升级 4 个按摩头，429 元",
+   "url": "https://www.ithome.com/1/026/733.htm",
+   "summary": "IT之家 11 月 13 日消息，此前在小米有品众筹的米家智能腰部按摩仪 2 今日在各大电商平台开售，新品首销价 429 元。 IT之家注意到，相较于上一代产品（2 个按摩头、仅按腰部），米家智能腰部按摩仪 2 升级为 4 个按摩头 ，实现了腰部与臀部的同步按摩，按摩面积高达 46500mm²。新品采用“揉捏 + 指压”双重按摩手法，揉捏按摩头高低错落排布，指压按摩头 8mm 纵深探出，贴合腰臀自然起伏，直达深层肌群，有效缓解酸胀。 在智能化与舒适度方面，该产品支持米家 App 智控。用户可通过手机切换 7 种预设模式并自编 3 种模式（共 10 套按摩模式），还能调节热敷挡位并设定 2~30",
+   "published_at": 1794550664.0,
+   "published_bj": "2026-11-13 14:17"
+  },
+  {
+   "id": "a4e586423fc95650",
+   "source": "cnBeta",
+   "title": "朝鲜黑客利用视频会议骗局盗取逾4亿美元加密货币 FBI查获900多段受害者摄像头录像",
+   "url": "https://www.cnbeta.com.tw/articles/tech/1586222.htm",
+   "summary": "美国联邦调查局（FBI）表示，朝鲜国家支持的黑客组织在过去18个月内，通过一套名为“FaceStealer”的复杂社会工程攻击手段，窃取了价值超过4亿美元的加密货币。这些攻击者利用受害者熟悉的人物形象伪造视频会议，诱骗目标安装恶意软件，再通过被入侵的设备和社交关系网络扩大攻击范围。 阅读全文",
+   "published_at": 1794550578.0,
+   "published_bj": "2026-11-13 14:16"
+  },
+  {
+   "id": "b205ef3d9bf388bc",
+   "source": "IT之家",
+   "title": "OPPO Reno17 系列智能手机联动洛天依，主题曲《点亮奇遇时刻》上线",
+   "url": "https://www.ithome.com/1/026/728.htm",
+   "summary": "IT之家 11 月 13 日消息， OPPO 与虚拟歌手洛天依今日宣布围绕 Reno17 系列智能手机展开联动 ，主题曲《点亮奇遇时刻》现已上线。 IT之家获悉，OPPO 与洛天依的本次联动包含 5 个部分： 500 台 Reno17 洛天依限定镌刻款限量出售； 官方渠道购买 Reno17 可选洛天依联名限定礼盒赠品； 2027 年 2 月 10 日前提供免费个性化镌刻服务； 2026 年 11 月 21 日 ~ 12 月 6 日 门店线下联动； 2026 年 11 月 13 日 ~ 12 月 13 日 线上平台抽奖赠送洛天依周边。 相关阅读： 《 OPPO Reno17 系列手机配色公布：奇",
+   "published_at": 1794550500.0,
+   "published_bj": "2026-11-13 14:15"
+  },
+  {
+   "id": "eed303f7d6b3dbc4",
+   "source": "cnBeta",
+   "title": "微软365全球故障持续数小时：企业用户或可申请服务补偿 个人账户通常不适用",
+   "url": "https://www.cnbeta.com.tw/articles/tech/1586220.htm",
+   "summary": "微软365在11月12日发生大规模服务中断，Outlook、Teams、Exchange Online等多项核心服务受到影响，部分用户连续数小时无法正常收发邮件、访问文件或使用协作工具。微软表示，故障仍在处理中，虽然部分地区已经出现恢复迹象，但整体服务尚未完全恢复。 阅读全文",
+   "published_at": 1794550456.0,
+   "published_bj": "2026-11-13 14:14"
+  },
+  {
+   "id": "236ab8a4675c63b3",
+   "source": "cnBeta",
+   "title": "Windows 11会刻意延后启动应用 用户修改注册表后等待时间大幅缩短",
+   "url": "https://www.cnbeta.com.tw/articles/tech/1586218.htm",
+   "summary": "Windows 11有时会刻意推迟登录后自动启动的程序，以免多个应用同时争抢处理器和磁盘资源，导致桌面刚加载完成时系统卡顿。微软文档说明，系统不保证“Run”注册表项中的程序会立即启动，并可把“Run”项和启动文件夹中的程序延后执行；微软工程师此前也解释过，集中启动大量应用可能拖慢电脑，甚至让用户一时无法打开开始菜单。 阅读全文",
+   "published_at": 1794550376.0,
+   "published_bj": "2026-11-13 14:12"
+  },
+  {
+   "id": "89378da142289c48",
+   "source": "cnBeta",
+   "title": "Windows 11 Beta开始测试任务栏搜索内联操作 可直接切换深色模式和蓝牙",
+   "url": "https://www.cnbeta.com.tw/articles/tech/1586216.htm",
+   "summary": "微软开始向Windows 11 Beta频道用户逐步推出新版Windows搜索体验。用户可在任务栏搜索框输入“开启深色模式”“打开蓝牙”“调暗屏幕”或“静音”等指令，直接完成常用系统操作；搜索也能帮助将窗口并排排列，减少打开“设置”应用或跳转其他页面的步骤。 阅读全文",
+   "published_at": 1794550107.0,
+   "published_bj": "2026-11-13 14:08"
+  },
+  {
+   "id": "4caedeabdff761d2",
+   "source": "IT之家",
+   "title": "警惕“扫码领现金”，抖音配合警方打击仿冒礼品卡涉诈链条",
+   "url": "https://www.ithome.com/1/026/707.htm",
+   "summary": "IT之家 11 月 13 日消息，据抖音黑板报，今年以来，针对不法分子冒用抖音名义寄送“礼品卡”“现金卡”、以“扫码领现金”为诱饵为境外诈骗团伙引流的行为，抖音持续配合多地警方开展线下打击，捣毁多个涉诈团伙。抖音提醒： 抖音官方不会以邮寄卡片、附赠小礼品等方式 ，引导用户扫码进入第三方页面领取福利，切勿轻信“扫码领奖”“添加客服兑现”等诈骗话术。 针对此类仿冒抖音的诈骗，抖音反诈中心搭建“涉诈小卡片”线索挖掘模型，精准识别出一批设计制作、印刷、快递分发小卡片的黑灰产人员，并将线索上报当地公安。2026 年 9 月，汕尾警方抓获嫌疑人钟某。 经查，钟某通过境外社交软件“接单”，累计使用 5 个抖",
+   "published_at": 1794550091.0,
+   "published_bj": "2026-11-13 14:08"
+  },
+  {
+   "id": "61a46fea737cc544",
+   "source": "cnBeta",
+   "title": "Kioxia与戴尔合作将640块SSD装入单机架 原始容量达157 PB",
+   "url": "https://www.cnbeta.com.tw/articles/tech/1586214.htm",
+   "summary": "Kioxia与戴尔合作打造一套单机架对象存储系统，在标准42U机架中配置640块Kioxia LC9系列245.76 TB固态硬盘，原始闪存容量达到约157 PB。系统运行戴尔软件定义存储平台ObjectScale，由16台PowerEdge R7725xd服务器承载，面向人工智能训练、大数据分析和云原生应用等非结构化数据工作负载。 阅读全文",
+   "published_at": 1794550062.0,
+   "published_bj": "2026-11-13 14:07"
+  },
+  {
+   "id": "69dbe8f1ed2dd6fb",
+   "source": "cnBeta",
+   "title": "AI生成代码大量涌入Linux内核 资深维护者Lorenzo Stoakes宣布退出多个代码审查岗位",
+   "url": "https://www.cnbeta.com.tw/articles/tech/1586212.htm",
+   "summary": "人工智能编程工具的普及正在改变开源软件的开发方式，但随之而来的低质量代码提交，也给项目维护者带来了越来越沉重的负担。Linux内核长期贡献者、内存管理领域专家Lorenzo Stoakes近日宣布，将退出多个内核子系统的代码审查工作，原因正是AI生成的代码补丁数量激增，已经超出他能够承担的审查能力。 阅读全文",
+   "published_at": 1794550021.0,
+   "published_bj": "2026-11-13 14:07"
+  },
+  {
+   "id": "e8f2ac8cc4556155",
+   "source": "cnBeta",
+   "title": "美国科学家成功将单个反物质粒子稳定囚禁数月 助力破解宇宙存在之谜",
+   "url": "https://www.cnbeta.com.tw/articles/science/1586210.htm",
+   "summary": "美国西北大学物理学家团队近日在粒子物理实验领域取得重大突破，首次将电子的反物质对应粒子——正电子，成功引导并稳定控制在精确的量子态下，且在近乎绝对零度的极端真空环境中悬浮囚禁长达数月。这项发表于《物理评论快报》（Physical Review Letters）的研究成果构建了全球首个“单正电子量子回旋加速器”，为人类探索宇宙物质留存之谜开辟了全新实验路径。 阅读全文",
+   "published_at": 1794549816.0,
+   "published_bj": "2026-11-13 14:03"
+  },
+  {
+   "id": "700c515b762788e1",
+   "source": "IT之家",
+   "title": "雷克萨斯 TZ 将于 11 月 27 日广州车展亮相，全新纯电三排 SUV",
+   "url": "https://www.ithome.com/1/026/686.htm",
+   "summary": "IT之家 11 月 13 日消息，LEXUS 雷克萨斯中国今日官宣，全新纯电三排 SUV 雷克萨斯 TZ，将于 11 月 27 日在广州车展亮相。 IT之家注意到，该车基于专属纯电平台打造，拥有 5100mm×1990mm×1705mm 的车身尺寸以及 3050mm 超长轴距 。系统最大功率 300 千瓦，电池容量 95.82 千瓦时；前后动力均为 167 千瓦，轮毂尺寸 20/22 英寸。 据此前官方介绍，全新 TZ 延续雷克萨斯标志性设计语言，采用一体化纺锤形车身设计，搭配富有建筑设计感的几何图形语言；内饰表面广泛应用竹韵饰板、再生铝、生物基材质等环保材料。 全新 TZ 搭载 DIRECT",
+   "published_at": 1794549678.0,
+   "published_bj": "2026-11-13 14:01"
+  },
+  {
+   "id": "079dec2d8cd58cd1",
+   "source": "IT之家",
+   "title": "微软 Outlook 等服务今日大范围故障，受影响企业可申请费用抵扣",
+   "url": "https://www.ithome.com/1/026/683.htm",
+   "summary": "IT之家 11 月 13 日消息，科技媒体 Windows Latest 今天（11 月 13 日）发布博文，报道称针对 Microsoft 365 办公服务大范围、长时间故障， 将为受影响、且提交申请的企业客户提供费用抵扣，但个人用户恐难以获得赔偿。 根据微软官方 MO1550821 公告内容，本次 Microsoft 365 服务故障从美国东部时间 2026 年 11 月 12 日 13:25 左右（IT之家注：北京时间 11 月 13 日凌晨 2:25 左右）开始，影响 Outlook、Teams、Copilot、OneDrive 等多项微软服务。 在问题根源方面，微软执行副总裁查尔斯 ",
+   "published_at": 1794549606.0,
+   "published_bj": "2026-11-13 14:00"
+  },
+  {
+   "id": "e838bf914b6a0716",
+   "source": "cnBeta",
+   "title": "FDA批准首款FXIa抑制剂Sunharbo 用于降低部分患者再次中风风险",
+   "url": "https://www.cnbeta.com.tw/articles/tech/1586208.htm",
+   "summary": "美国食品药品监督管理局11月9日批准拜耳研发的asundexian片剂，商品名Sunharbo，作为抗血小板治疗的辅助药物，用于降低近期发生轻至中度非心源性缺血性卒中或高风险短暂性脑缺血发作（TIA）成人患者再次卒中的风险。TIA常被称为“小中风”；这项批准属于卒中后的二级预防，不适用于所有人群，也不包括房颤患者的卒中预防。 阅读全文",
+   "published_at": 1794549500.0,
+   "published_bj": "2026-11-13 13:58"
+  },
+  {
+   "id": "63ff65e0d5c1dde7",
+   "source": "cnBeta",
+   "title": "Gemini 4 Hydrogen来了 所有人都能用",
+   "url": "https://www.cnbeta.com.tw/articles/tech/1586206.htm",
+   "summary": "刚刚，Google推出了Gemini 4 Hydrogen（氢），主打速度和执行效率 。 和前两次“高端模型”的更新不同， Hydrogen直接向所有人开放 。免费用户可以通过Gemini App的自动模型选择使用它，付费用户则可以手动选择。开发者也可以通过Google AI Studio和Gemini API使用。 阅读全文",
+   "published_at": 1794549387.0,
+   "published_bj": "2026-11-13 13:56"
+  },
+  {
+   "id": "709d47e180885f88",
+   "source": "cnBeta",
+   "title": "苏姿丰获雅虎财经“年度CEO”：她如何带领AMD逆袭？",
+   "url": "https://www.cnbeta.com.tw/articles/tech/1586204.htm",
+   "summary": "AMD首席执行官苏姿丰（Lisa Su）在2026年交出了一份亮眼的成绩单。她过去近15年的职业选择与努力，也在这一年得到了充分体现。苏姿丰在雅虎财经投资峰会（Yahoo Finance Invest）上表示：“我当初加入AMD，是因为我希望成为一家真正站在技术前沿的公司的成员。我坚信，技术能够为经济和世界带来巨大的积极影响，我希望成为其中的一部分。” 阅读全文",
+   "published_at": 1794549319.0,
+   "published_bj": "2026-11-13 13:55"
+  },
+  {
+   "id": "6d15c668d7e62edd",
+   "source": "cnBeta",
+   "title": "黄仁勋辞职后散户投资者仍看好英伟达：“打算买入更多股票”",
+   "url": "https://www.cnbeta.com.tw/articles/tech/1586202.htm",
+   "summary": "在英伟达创始人黄仁勋的婚外情丑闻导致该公司股价大跌，他本人于周四被迫辞职后，华尔街部分人士对该股变得愈发看空。但散户群体中依然弥漫着一股乐观情绪，他们紧盯着这只股票，伺机逢低买入，尽管这家公司正处在动荡之中。 阅读全文",
+   "published_at": 1794549291.0,
+   "published_bj": "2026-11-13 13:54"
+  },
+  {
+   "id": "2aecfa4fe34e6470",
+   "source": "cnBeta",
+   "title": "梅赛德斯奔驰暂停德国投资并考虑关闭部分工厂",
+   "url": "https://www.cnbeta.com.tw/articles/tech/1586200.htm",
+   "summary": "一份发给员工的备忘录显示，德国豪华汽车制造商梅赛德斯-奔驰正暂停其在德国工厂的所有投资，并考虑关闭部分工厂，以应对在德国境内高昂的汽车制造成本。 阅读全文",
+   "published_at": 1794549268.0,
+   "published_bj": "2026-11-13 13:54"
+  },
+  {
+   "id": "77a43795e5b154ba",
+   "source": "cnBeta",
+   "title": "微软仍在修复Outlook和Copilot系统 技术故障已出现数小时",
+   "url": "https://www.cnbeta.com.tw/articles/tech/1586198.htm",
+   "summary": "在系统出现故障数小时后，微软公司仍在努力恢复部分办公软件的访问，称用户可能仍然无法连接到电子邮件和聊天服务等产品。周四，部分用户在美国工作日的大部分时间里都无法使用Outlook、Teams和Copilot人工智能服务。微软的产品是企业、政府和教育机构中最广泛使用的软件之一。 阅读全文",
+   "published_at": 1794549217.0,
+   "published_bj": "2026-11-13 13:53"
   },
   {
    "id": "87b90bdaf04b6c2d",
@@ -101,6 +380,15 @@
    "summary": "过去三年，英伟达一跃成为人工智能初创企业、小型云服务商以及前沿AI实验室最活跃的投资方之一，背后核心原因在于CEO黄仁勋持续发力，保证自家专用AI芯片维持旺盛需求。而在他突然卸任之后，这一大笔资金供给源头如今蒙上阴影。 阅读全文",
    "published_at": 1794548283.0,
    "published_bj": "2026-11-13 13:38"
+  },
+  {
+   "id": "a82d7c79963fb260",
+   "source": "IT之家",
+   "title": "古尔曼嘲讽“苹果库克接掌英伟达”传闻：简直荒谬",
+   "url": "https://www.ithome.com/1/026/681.htm",
+   "summary": "IT之家 11 月 13 日消息，彭博社的马克 · 古尔曼（Mark Gurman）今天（11 月 13 日）在 X 平台， 转发苹果董事会执行主席蒂姆 · 库克（Tim Cook）的推文，认为“ 库克接掌英伟达 ”的传闻非常荒谬。 库克今天通过其个人账号发布推文，配文称：“有时候，最好的礼物不一定是新东西，而是帮助一个人重新想起自己热爱做的事。”在随附的 30 秒视频中，重点宣传了苹果的 MacBook Neo 笔记本。IT之家附上相关视频如下： 古尔曼随后转发该推文表示：“这条推文也可以兼作蒂姆对那些传言的回应，那些关于他接掌英伟达的猜测简直荒谬至极。”古尔曼还将英文“荒谬”（RIDICU",
+   "published_at": 1794548271.0,
+   "published_bj": "2026-11-13 13:37"
   },
   {
    "id": "7c5ad12de5cf5de1",
@@ -184,6 +472,33 @@
    "published_bj": "2026-11-13 13:32"
   },
   {
+   "id": "29b10b8fafabd0cf",
+   "source": "IT之家",
+   "title": "漫威《蜘蛛侠：崭新之日》今日网播，登陆爱优腾、B站、华为视频等各大平台",
+   "url": "https://www.ithome.com/1/026/680.htm",
+   "summary": "IT之家 11 月 13 日消息，在院线下映约一个半月后，《蜘蛛侠：崭新之日》今日 10 点全网上线，登陆爱奇艺、腾讯视频、优酷、B站、芒果 TV、华为视频等各大平台，支持英文、中文版，鸿蒙智行车机端同步更新。 这部影片此前已于 10 月 6 日 在 Apple TV 等数字平台上游（PVOD）正式上线，用户可 单片付费租赁或购买 （Digital Rent / Buy），而 实体光盘（4K/Blu-ray/ DVD）计划 于 11 月 17 日发售。 这是汤姆 · 赫兰德主演的第四部蜘蛛侠独立电影，故事发生在《英雄无归》遗忘咒四年后，彼得 · 帕克以全职蜘蛛侠身份独自守护纽约，位列全球票房位",
+   "published_at": 1794547891.0,
+   "published_bj": "2026-11-13 13:31"
+  },
+  {
+   "id": "3ac265ec5d2387c4",
+   "source": "IT之家",
+   "title": "华为 Mate X8 真机曝光：搭载 8 英寸京东方新屏 + 超平整折痕技术",
+   "url": "https://www.ithome.com/1/026/679.htm",
+   "summary": "IT之家 11 月 13 日消息，今日，余承东手持紫色新机的画面在网上流传开来，被认为是华为 Mate X8 真机， 圆形镜头模组回归 。 据博主 @数码闲聊站 今日爆料，华为 Mate X8 为常规比例的大折叠产品，搭载 8 英寸广色域京东方新屏 + 超平整折痕技术，后置 50Mp 18EV 超大底旗舰影像，搭载 N 代麒麟芯，大圆 Deco 搭配宝石环设计。该博主提到，新机可能支持外挂 10X 光变巨炮镜头，这个有待确定。 IT之家注意到，华为 Mate X7 折叠屏手机于去年 12 月开售，官方定价 12999 元起，整机重量 235g，展开厚度 4.5mm，折叠厚度 9.5mm。 作为",
+   "published_at": 1794547848.0,
+   "published_bj": "2026-11-13 13:30"
+  },
+  {
+   "id": "a4b840f22348a3ab",
+   "source": "Solidot",
+   "title": "微软云服务全球宕机",
+   "url": "https://www.solidot.org/story?sid=85875",
+   "summary": "微软云服务全球宕机，受影响服务包括了 Outlook、Teams 和 OneDrive 等办公工具以及 AI 工具 Copilot。微软通过其社交媒体账号表示正全力解决该问题。根据 Downdetector 的报告，截至周四 18:00 GMT，全球报告的 Outlook 故障数量接近 14 万。目前无迹象表明此次大范围宕机是由网络攻击引起的。微软表示，受影响的用户可能无法查看部分文件，或无法在日历应用中查看详细信息。Copilot 也可能无法正常运行。即时通讯和在线会议功能基本保持正常。微软称此次事故是由部分服务器意外不可用导致的，这给其余系统造成了沉重负担。与微软有合作的 AI 巨头 An",
+   "published_at": 1794547836.0,
+   "published_bj": "2026-11-13 13:30"
+  },
+  {
    "id": "130f575a7346aa87",
    "source": "IT之家",
    "title": "微软高管回应 Outlook 等服务中断：深感遗憾，正全力修复",
@@ -191,6 +506,24 @@
    "summary": "IT之家 11 月 13 日消息，微软执行副总裁查尔斯 · 拉曼纳（Charles Lamanna）今天（11 月 13 日）在 X 平台发布推文， 就本次 Outlook、Exchange Online 等办公服务出现故障公开致歉，团队正在努力解决问题，并持续通报最新修复状态。 此次故障最初涉及 Teams，随后微软确认 Exchange Online 和 Outlook 也受到影响。故障还波及邮件之外的办公功能。Teams、SharePoint Online、Microsoft 365 Copilot 等服务中，部分依赖 Exchange 的功能受到牵连。 截至IT之家发稿前，相关服务故障",
    "published_at": 1794547269.0,
    "published_bj": "2026-11-13 13:21"
+  },
+  {
+   "id": "b8453fe4c8546d6d",
+   "source": "Hacker News",
+   "title": "Scientists claim the universe is twice as old as believed",
+   "url": "https://geekspin.co/scientists-claim-the-universe-is-twice-as-old-as-believed/",
+   "summary": "Article URL: https://geekspin.co/scientists-claim-the-universe-is-twice-as-old-as-believed/ Comments URL: https://news.ycombinator.com/item?id=50478635 Points: 21 # Comments: 6",
+   "published_at": 1794546810.0,
+   "published_bj": "2026-11-13 13:13"
+  },
+  {
+   "id": "365e855720cd5f77",
+   "source": "Hacker News",
+   "title": "The average cost for a new vehicle in the U.S. hits a record high: over $51,000",
+   "url": "https://www.npr.org/2026/11/10/nx-s1-6026659/average-vehicle-price-record-high",
+   "summary": "Article URL: https://www.npr.org/2026/11/10/nx-s1-6026659/average-vehicle-price-record-high Comments URL: https://news.ycombinator.com/item?id=50478622 Points: 29 # Comments: 11",
+   "published_at": 1794546627.0,
+   "published_bj": "2026-11-13 13:10"
   },
   {
    "id": "7b2c9954f665d557",
