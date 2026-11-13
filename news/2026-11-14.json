@@ -1,7 +1,7 @@
 {
  "date": "2026-11-14",
- "generated_at": 1794584513.7487833,
- "count": 3,
+ "generated_at": 1794588413.7722065,
+ "count": 4,
  "items": [
   {
    "id": "83eebebef0cda30a",
@@ -29,6 +29,15 @@
    "summary": "点击查看原文>",
    "published_at": 1794589560.0,
    "published_bj": "2026-11-14 01:06"
+  },
+  {
+   "id": "ce05fd126939b58f",
+   "source": "TechCrunch",
+   "title": "ChatGPT’s new Wallet lets AI agents shop and check out for you",
+   "url": "https://techcrunch.com/2026/11/13/chatgpts-new-wallet-lets-ai-agents-shop-and-check-out-for-you/",
+   "summary": "ChatGPT Wallet lets AI agents shop and check out on users' behalf, starting with a limited rollout to U.S. Pro subscribers.",
+   "published_at": 1794585612.0,
+   "published_bj": "2026-11-14 00:00"
   }
  ]
 }

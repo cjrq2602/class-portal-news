@@ -1,8 +1,71 @@
 {
  "date": "2026-11-13",
- "generated_at": 1794584513.752159,
+ "generated_at": 1794588413.7747872,
  "count": 400,
  "items": [
+  {
+   "id": "f07993839f65566b",
+   "source": "IT之家",
+   "title": "NearLink E1.0 也有新特性！华为 MatePad Pro 13.2 2023 等平板获推支持星闪电竞专链功能",
+   "url": "https://www.ithome.com/1/026/995.htm",
+   "summary": "IT之家 11 月 13 日消息，在 6 月初的华为 nova 16 系列及全场景新品发布会上，华为终端 BG CEO 何刚带来了一款路由新品 —— 华为凌霄子母路由 Q7 电线版 。其搭载星闪技术，提供星闪电竞专链功能，支持华为手机 / 平板直连， 对比传统 WiFi，可降低游戏网络卡顿率 。 IT之家注意到，华为 MatePad Pro 13.2 2023 等机型推送了鸿蒙 HarmonyOS 7.0.0.111 SP16 版本升级，带来了星闪电竞专链功能 —— 支持与具备星闪电竞专链特性的华为路由， 基于星闪连接技术建立专属连接 ，提升游戏运行的流畅度与稳定性。 作为参考，华为官网显示，",
+   "published_at": 1794585447.0,
+   "published_bj": "2026-11-13 23:57"
+  },
+  {
+   "id": "eb54ef8464830f95",
+   "source": "Hacker News",
+   "title": "Brazil's Caixa insurer breach exposes names and tax IDs of all 7.6M customers",
+   "url": "https://filemanager-cdn.mziq.com/published/3972906b-e50b-4f74-ab74-4d0d32125d11/9567a559-d20a-486e-a7ae-5c6bbc030c5e",
+   "summary": "Article URL: https://filemanager-cdn.mziq.com/published/3972906b-e50b-4f74-ab74-4d0d32125d11/9567a559-d20a-486e-a7ae-5c6bbc030c5e Comments URL: https://news.ycombinator.com/item?id=50485295 Points: 50 # Comments: 5",
+   "published_at": 1794585124.0,
+   "published_bj": "2026-11-13 23:52"
+  },
+  {
+   "id": "2a8c43cf85490bc2",
+   "source": "IT之家",
+   "title": "让智能体帮你购物，OpenAI 推出支付功能 ChatGPT Wallet",
+   "url": "https://www.ithome.com/1/026/994.htm",
+   "summary": "IT之家 11 月 13 日消息，OpenAI 今天（13 日）宣布推出支付功能 ChatGPT Wallet，让旗下 dot AI 智能体代替用户购物。 ChatGPT Wallet 由 OpenAI 与美国运通、万事达卡和 Visa 合作开发，用户使用现有信用卡付款时，仍可享受原有的积分奖励和权益保障。符合条件的用户只需录入一次银行卡信息， 随后便可让 dot 智能体帮忙寻找商品，每笔交易都需要通过安全验证才能完成 。 OpenAI 强调，dot 智能体 不会接触用户的真实银行卡信息 。支付网络会为每笔交易生成专用的支付令牌，其中包含 限定用途的卡号、安全码和有效期 ，供智能体完成付款。 ",
+   "published_at": 1794584948.0,
+   "published_bj": "2026-11-13 23:49"
+  },
+  {
+   "id": "a5e2340c0c1e5f7b",
+   "source": "IT之家",
+   "title": "华为麒麟 9050 系列芯片新一代灵犀 CPU 详细信息公开：9 核 16 线程并行调度，支持内存压缩加速",
+   "url": "https://www.ithome.com/1/026/993.htm",
+   "summary": "IT之家 11 月 13 日消息，华为麒麟官方公众号继续揭秘首款「逻辑折叠」技术 τ 芯片 —— 麒麟 9050 系列更多配置信息， 新一代灵犀 CPU 详情已公开 。 据介绍，麒麟 9050 系列搭载新一代灵犀 CPU， 支持 9 核 16 线程超线程技术 ，多核性能提升 23%、GPU 渲染性能提升 40%、NPU 性能提升 140%，配合鸿蒙应用并行化与智能调度，多任务更流畅。 重载场景（应用启动、大文件加载、游戏运行）由 1 超大核 + 2 性能大核负责；多任务场景（UX 交互、悬浮窗、视频通话、分屏）由 4 能效大核负责；日常场景（浏览资讯、短视频）由 2 小核负责。 此外，麒麟 9",
+   "published_at": 1794584854.0,
+   "published_bj": "2026-11-13 23:47"
+  },
+  {
+   "id": "7f74c5c98d0489f3",
+   "source": "IT之家",
+   "title": "大规模故障殃及全球多地多行业，微软确认主要软件服务恢复工作已取得进展",
+   "url": "https://www.ithome.com/1/026/992.htm",
+   "summary": "IT之家 11 月 13 日消息，据彭博社今天（13 日）深夜报道，微软旗下主要软件服务的恢复工作取得进展。这场大规模故障导致 全球多地政府机构、金融交易员和企业业务 陷入瘫痪。 微软在纽约时间 13 日上午 9 时许（IT之家注：对应北京时间 22 时）发布的通报确认，服务运行情况有所改善，积压邮件数量大幅减少，接近正常水平。但 20 多款产品和服务仍可能出现错误。 时间来到当地时间今天上午，用户连续第二天遭遇会议邀请无法送达、网页无响应等问题。微软以往的服务故障 很少持续数小时以上 。 自当地时间 12 日下午故障发生以来，微软 几乎每小时都会公布修复进展 ，包括排查系统故障、将用户流量转",
+   "published_at": 1794584300.0,
+   "published_bj": "2026-11-13 23:38"
+  },
+  {
+   "id": "2fffe24240dafa74",
+   "source": "Hacker News",
+   "title": "Why is Google cutting off Search from AI-free schools? Here are some theories",
+   "url": "https://text.npr.org/nx-s1-6029408",
+   "summary": "Article URL: https://text.npr.org/nx-s1-6029408 Comments URL: https://news.ycombinator.com/item?id=50484960 Points: 22 # Comments: 14",
+   "published_at": 1794583750.0,
+   "published_bj": "2026-11-13 23:29"
+  },
+  {
+   "id": "2049453f8c05bd8b",
+   "source": "IT之家",
+   "title": "麒麟 8000 系也有份：华为更多机型更新 HarmonyOS 7 系统后补齐沉浸光感粒子动效",
+   "url": "https://www.ithome.com/1/026/991.htm",
+   "summary": "IT之家 11 月 13 日消息，据多位用户反馈，华为 nova 12 系列、nova Flip、畅享 90 系列、畅享 70X 等机型已开启鸿蒙 HarmonyOS 7.0.0.111 新版本（SP 后缀随机型不同有所区别）升级， 新增粒子动效 。 值得一提的是， 此次补齐沉浸光感粒子动效的机型部分搭载的是麒麟 8000 系处理器 ，这意味着该特性不再是旗舰专属。 参考IT之家此前报道，在 9 月 7 日的 HarmonyOS 7 | HUAWEI Mate XT 2 及全场景新品发布会上，华为终端 BG CEO 何刚正式发布了鸿蒙 HarmonyOS 7 操作系统。 华为在鸿蒙 Harmo",
+   "published_at": 1794583631.0,
+   "published_bj": "2026-11-13 23:27"
+  },
   {
    "id": "e3276fb2555df0f3",
    "source": "IT之家",
@@ -31,6 +94,24 @@
    "published_bj": "2026-11-13 23:13"
   },
   {
+   "id": "1794d537fd0e9b3f",
+   "source": "Hacker News",
+   "title": "Jonathan Blow – If AI Solved Coding, Why Is My Software Still the Same? [video]",
+   "url": "https://www.youtube.com/watch?v=IRK8h67ol7Q",
+   "summary": "Article URL: https://www.youtube.com/watch?v=IRK8h67ol7Q Comments URL: https://news.ycombinator.com/item?id=50484658 Points: 45 # Comments: 18",
+   "published_at": 1794582524.0,
+   "published_bj": "2026-11-13 23:08"
+  },
+  {
+   "id": "d207db58485c33d2",
+   "source": "Hacker News",
+   "title": "Palmfrets, Minnesota guitarist's invention, strikes a new chord",
+   "url": "https://www.echopress.com/business/minnesota-guitarists-invention-strikes-a-new-chord",
+   "summary": "Article URL: https://www.echopress.com/business/minnesota-guitarists-invention-strikes-a-new-chord Comments URL: https://news.ycombinator.com/item?id=50484650 Points: 16 # Comments: 14",
+   "published_at": 1794582487.0,
+   "published_bj": "2026-11-13 23:08"
+  },
+  {
    "id": "41789b7e32efddc3",
    "source": "IT之家",
    "title": "索尼：PS5 超分技术 QSSR 即将登陆《漫威蜘蛛侠 2》《ARC Raiders》等作品",
@@ -38,6 +119,15 @@
    "summary": "IT之家 11 月 13 日消息，索尼 PlayStation 今天（13 日）晚间宣布，PS5 超分技术 QSSR 即将登陆 《漫威蜘蛛侠 2》《控制：共振》《THE FINALS》《ARC Raiders》 等作品，相关游戏更新将在未来几周内陆续推出。 今年 10 月，索尼正式推出了 Quick Spectral Super Resolution（QSSR）技术，为 PS5 带来了 AI 驱动的画面超分辨率升级。 据IT之家了解，该技术和索尼 PlayStation 5 Pro 上使用的 PSSR 类似，可以提升输出画面的清晰度。 QSSR 基于 PS5 Pro 所采用的 PSSR 光谱超",
    "published_at": 1794581942.0,
    "published_bj": "2026-11-13 22:59"
+  },
+  {
+   "id": "8577de261672fc89",
+   "source": "Hacker News",
+   "title": "EU Digital Identity Wallet rollout: every EU state on one board",
+   "url": "https://myid.ie/business/eu-digital-wallet-tracker/",
+   "summary": "Article URL: https://myid.ie/business/eu-digital-wallet-tracker/ Comments URL: https://news.ycombinator.com/item?id=50484496 Points: 42 # Comments: 5",
+   "published_at": 1794581887.0,
+   "published_bj": "2026-11-13 22:58"
   },
   {
    "id": "ee501e89c8cd8b94",
@@ -3512,96 +3602,6 @@
    "summary": "Article URL: https://stoppels.ch/2026/11/12/paths-in-pieces.html Comments URL: https://news.ycombinator.com/item?id=50470762 Points: 4 # Comments: 0",
    "published_at": 1794503979.0,
    "published_bj": "2026-11-13 01:19"
-  },
-  {
-   "id": "b8c9fb350086e475",
-   "source": "TechCrunch",
-   "title": "United Airlines blocks AI agents from booking flights, citing cybersecurity risks",
-   "url": "https://techcrunch.com/2026/11/12/united-airlines-blocks-ai-agents-from-booking-flights-citing-cybersecurity-risks/",
-   "summary": "The airline said it will not allow customers to use AI agents to book flights and manage reservations.",
-   "published_at": 1794503878.0,
-   "published_bj": "2026-11-13 01:17"
-  },
-  {
-   "id": "3567de867d0550cb",
-   "source": "cnBeta",
-   "title": "科学家发现地幔运动可能是“大不整合面”存在的原因",
-   "url": "https://www.cnbeta.com.tw/articles/science/1586130.htm",
-   "summary": "地球拥有约45亿年的历史，但在世界许多地区的岩层中，却存在着一段令人困惑的时间空白：一些古老岩石与其上方较年轻的沉积岩之间，竟然缺失了数亿年，甚至超过10亿年的地质记录。 科学家将这种现象称为“大不整合面”（Great Unconformity）。近日，澳大利亚伍伦贡大学研究团队提出了一种新的解释：地球深处缓慢流动的地幔物质，可能曾经推动古老大陆大规模隆起，导致岩石长期暴露并遭受侵蚀；随后大陆逐渐下沉，海洋和沉积物覆盖这些被侵蚀的地表，从而将这段地质间断保存至今。 阅读全文",
-   "published_at": 1794503190.0,
-   "published_bj": "2026-11-13 01:06"
-  },
-  {
-   "id": "aa1d30750868f706",
-   "source": "Hacker News",
-   "title": "Show HN: My $300 embroidery machine needed a subscription, so I built my own app",
-   "url": "https://github.com/simpsoka/zigzag",
-   "summary": "Article URL: https://github.com/simpsoka/zigzag Comments URL: https://news.ycombinator.com/item?id=50470488 Points: 75 # Comments: 23",
-   "published_at": 1794502962.0,
-   "published_bj": "2026-11-13 01:02"
-  },
-  {
-   "id": "e61e8e91fceea831",
-   "source": "cnBeta",
-   "title": "天文学家发现罕见双星系统 一颗白矮星每隔8分钟发射一次无线电脉冲",
-   "url": "https://www.cnbeta.com.tw/articles/science/1586128.htm",
-   "summary": "澳大利亚科廷大学的天文学家发现了一个极其罕见的双星系统，其中一颗已经死亡的恒星——白矮星，每隔约8分钟便会发射一次规律的无线电脉冲。它的伴星则是一颗与太阳相似的恒星。这是科学家首次在白矮星与类太阳恒星组成的双星系统中探测到这种周期性无线电信号，为理解银河系中一类神秘天体提供了新的线索。 阅读全文",
-   "published_at": 1794502858.0,
-   "published_bj": "2026-11-13 01:00"
-  },
-  {
-   "id": "7ae24f0544d79b48",
-   "source": "TechCrunch",
-   "title": "SoftBank’s billion-dollar loss may have put a cap on AI’s natural gas ambitions",
-   "url": "https://techcrunch.com/2026/11/12/softbanks-billion-dollar-loss-may-have-put-a-cap-on-ais-natural-gas-ambitions/",
-   "summary": "SoftBank lost over $3 billion pre-ordering natural gas turbines to power AI data centers. Here's what the loss means to power markets.",
-   "published_at": 1794502852.0,
-   "published_bj": "2026-11-13 01:00"
-  },
-  {
-   "id": "11412dffc0e007a4",
-   "source": "TechCrunch",
-   "title": "Phota Labs uses AI to turn everyday photos into professional-looking shots",
-   "url": "https://techcrunch.com/2026/11/12/phota-labs-uses-ai-to-turn-everyday-photos-into-professional-looking-shots/",
-   "summary": "Rather than giving consumers yet another photo-editing tool, Phota Labs aims to use advances in AI to automate the editing process so it’s easier for anyone to turn everyday moments into better photos.",
-   "published_at": 1794502800.0,
-   "published_bj": "2026-11-13 01:00"
-  },
-  {
-   "id": "b61b6b1ac52900c1",
-   "source": "Hacker News",
-   "title": "AWS Lambda Web Functions keep billing memory ~7 minutes after the last request",
-   "url": "https://www.easel.sh/blog/lambda-web-functions-idle-memory",
-   "summary": "Article URL: https://www.easel.sh/blog/lambda-web-functions-idle-memory Comments URL: https://news.ycombinator.com/item?id=50470445 Points: 16 # Comments: 8",
-   "published_at": 1794502766.0,
-   "published_bj": "2026-11-13 00:59"
-  },
-  {
-   "id": "11594e482a98dba3",
-   "source": "cnBeta",
-   "title": "黄仁勋将在感恩节前赴国会作证",
-   "url": "https://www.cnbeta.com.tw/articles/tech/1586126.htm",
-   "summary": "佛罗里达州共和党籍众议员、众议院外交事务委员会主席布莱恩・马斯特周四向记者透露，英伟达前首席执行官黄仁勋将在感恩节前到国会出席听证会作证。马斯特说：“他已经同意到场，我们正在协商具体日期。” 阅读全文",
-   "published_at": 1794502308.0,
-   "published_bj": "2026-11-13 00:51"
-  },
-  {
-   "id": "2af2addb5189a5ca",
-   "source": "cnBeta",
-   "title": "散户逢低抄底英伟达",
-   "url": "https://www.cnbeta.com.tw/articles/tech/1586124.htm",
-   "summary": "黄仁勋辞职消息传出后，散户投资者蜂拥入场买入英伟达（NVDA）股票。万达研究（Vanda Research）的数据显示，该股迎来该机构有统计以来个人投资者最高的开盘买盘。 阅读全文",
-   "published_at": 1794502282.0,
-   "published_bj": "2026-11-13 00:51"
-  },
-  {
-   "id": "dc6ce0422fb88cba",
-   "source": "InfoQ中文",
-   "title": "LinkedIn 基于 OpenTelemetry 追踪用户动作全链路：从前端点击到后端服务",
-   "url": "https://www.infoq.cn/article/3u1PmO0HqQXBFNibKZoe?utm_source=rss&utm_medium=article",
-   "summary": "点击查看原文>",
-   "published_at": 1794501840.0,
-   "published_bj": "2026-11-13 00:44"
   }
  ]
 }
