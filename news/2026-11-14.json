@@ -1,7 +1,7 @@
 {
  "date": "2026-11-14",
- "generated_at": 1794595441.436208,
- "count": 22,
+ "generated_at": 1794599293.921615,
+ "count": 29,
  "items": [
   {
    "id": "83eebebef0cda30a",
@@ -11,6 +11,24 @@
    "summary": "点击查看原文>",
    "published_at": 1794603252.0,
    "published_bj": "2026-11-14 04:54"
+  },
+  {
+   "id": "8ef47f84b2e192b6",
+   "source": "TechCrunch",
+   "title": "AI agent startup LangChain hits $3B valuation",
+   "url": "https://techcrunch.com/2026/11/13/ai-agent-startup-langchain-hits-3b-valuation/",
+   "summary": "LangChain now claims 7,000 customers of its model and platform agnostic agent management tool LangSmith.",
+   "published_at": 1794598677.0,
+   "published_bj": "2026-11-14 03:37"
+  },
+  {
+   "id": "4945c231b2f73ddd",
+   "source": "Hacker News",
+   "title": "FM-1 Workbench",
+   "url": "https://open.m-vave.com/fm1-workbench",
+   "summary": "Article URL: https://open.m-vave.com/fm1-workbench Comments URL: https://news.ycombinator.com/item?id=50488325 Points: 11 # Comments: 1",
+   "published_at": 1794597242.0,
+   "published_bj": "2026-11-14 03:14"
   },
   {
    "id": "b17cf84350e74299",
@@ -31,6 +49,42 @@
    "published_bj": "2026-11-14 02:40"
   },
   {
+   "id": "47012c1afbb3b3d1",
+   "source": "Hacker News",
+   "title": "The avalanche that hit math is coming for AI development",
+   "url": "https://www.dwarkesh.com/p/rsi",
+   "summary": "Article URL: https://www.dwarkesh.com/p/rsi Comments URL: https://news.ycombinator.com/item?id=50487854 Points: 35 # Comments: 24",
+   "published_at": 1794595182.0,
+   "published_bj": "2026-11-14 02:39"
+  },
+  {
+   "id": "42a873e5e3ec9a80",
+   "source": "Hacker News",
+   "title": "Models can now transmit viruses in weight-space",
+   "url": "https://www.alphaxiv.org/abs/2611.weight-space-misfolding",
+   "summary": "Article URL: https://www.alphaxiv.org/abs/2611.weight-space-misfolding Comments URL: https://news.ycombinator.com/item?id=50487762 Points: 47 # Comments: 22",
+   "published_at": 1794594815.0,
+   "published_bj": "2026-11-14 02:33"
+  },
+  {
+   "id": "c774e42bcf9e0aee",
+   "source": "Hacker News",
+   "title": "Ctrl+C, Ctrl+v, Ctrl+cve: Bypassing Android's Clipboard Read Security Measures",
+   "url": "https://toninoble.com/post/ctrlc-ctrlv-ctrlcve",
+   "summary": "Article URL: https://toninoble.com/post/ctrlc-ctrlv-ctrlcve Comments URL: https://news.ycombinator.com/item?id=50487605 Points: 17 # Comments: 3",
+   "published_at": 1794594229.0,
+   "published_bj": "2026-11-14 02:23"
+  },
+  {
+   "id": "64fac083e2346dbf",
+   "source": "Hacker News",
+   "title": "It Takes 16 Clicks for a Student to Open a PowerPoint on an iPad",
+   "url": "https://www.reddit.com/r/Teachers/comments/1xuup7a/technology_sucks_it_literally_takes_16_clicks_for/",
+   "summary": "Article URL: https://www.reddit.com/r/Teachers/comments/1xuup7a/technology_sucks_it_literally_takes_16_clicks_for/ Comments URL: https://news.ycombinator.com/item?id=50487522 Points: 75 # Comments: 35",
+   "published_at": 1794593917.0,
+   "published_bj": "2026-11-14 02:18"
+  },
+  {
    "id": "8b78edd82bab4c5e",
    "source": "Hacker News",
    "title": "Show HN: Isometric SF – A pixel-art map of the SF Bay Area",
@@ -46,6 +100,15 @@
    "url": "https://haddyalchaer.com/jepa",
    "summary": "Article URL: https://haddyalchaer.com/jepa Comments URL: https://news.ycombinator.com/item?id=50487185 Points: 19 # Comments: 1",
    "published_at": 1794592528.0,
+   "published_bj": "2026-11-14 01:55"
+  },
+  {
+   "id": "510b5a3af3b59570",
+   "source": "Hacker News",
+   "title": "OpenAI disbands its robotics team as its general models start running robots",
+   "url": "https://fortune.com/2026/11/13/openai-disbands-robotics-team-as-its-general-models-start-running-robots/",
+   "summary": "Article URL: https://fortune.com/2026/11/13/openai-disbands-robotics-team-as-its-general-models-start-running-robots/ Comments URL: https://news.ycombinator.com/item?id=50487184 Points: 46 # Comments: 13",
+   "published_at": 1794592523.0,
    "published_bj": "2026-11-14 01:55"
   },
   {
