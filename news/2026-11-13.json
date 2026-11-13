@@ -1,7 +1,7 @@
 {
  "date": "2026-11-13",
- "generated_at": 1794566250.033619,
- "count": 328,
+ "generated_at": 1794569661.2546585,
+ "count": 340,
  "items": [
   {
    "id": "43d47aa55555f769",
@@ -40,6 +40,24 @@
    "published_bj": "2026-11-13 19:28"
   },
   {
+   "id": "abd2b19ba8b9158c",
+   "source": "IT之家",
+   "title": "899 美元微软 25 周年纪念版 XBOX Series X 上市，玩家亦可单独购买 X25 特别版手柄无线控制器",
+   "url": "https://www.ithome.com/1/026/932.htm",
+   "summary": "IT之家 11 月 13 日消息，微软宣布旗下 25 周年纪念版 XBOX Series X 主机现已正式上市，定价为 899.99 美元 （IT之家注：现汇率约合 6,016 元人民币） 。 这款纪念主机搭载 1TB 存储，外观采用致敬初代 XBOX 的经典半透明绿色（“OG Green”）设计。每台主机附带一份《光环：战役进化》完整游戏下载码。 另外，XBOX 无线控制器 X25 特别版也可单独购买，京东显示 558 元。除此之外，微软之前还推出了限定款键盘、鼠标、耳机等产品。 京东 微软（Microsoft）XBOX 无线游戏手柄 X25 无线控制器 25 周年定制手柄 蓝牙适配 XBO",
+   "published_at": 1794568174.0,
+   "published_bj": "2026-11-13 19:09"
+  },
+  {
+   "id": "35f4b1159ea7b20f",
+   "source": "IT之家",
+   "title": "Gentle Monster / Warby Parker 将于下月推出 Android XR 智能眼镜：均搭载高通 AR1 芯片，接入谷歌 Gemini",
+   "url": "https://www.ithome.com/1/026/931.htm",
+   "summary": "IT之家 11 月 13 日消息，知名眼镜品牌 Gentle Monster 和 Warby Parker 各自宣布将于下月推出首款基于 Android XR 平台打造的智能眼镜，产品由三星与谷歌联合参与开发。目前，两大品牌的相关产品均已开启预订，预计将于 12 月 10 日正式在线上及指定线下门店发售。 据介绍，Gentle Monster 和 Warby Parker 的新品均搭载高通 Snapdragon AR1 Gen 1 芯片，均配备一颗 1,200 万像素摄像头，除了能够拍摄照片 / 视频外，还能借助 AI 实现实时翻译、逐向导航、接打电话和播放音乐等功能。不过，两款产品并未采用 ",
+   "published_at": 1794568021.0,
+   "published_bj": "2026-11-13 19:07"
+  },
+  {
    "id": "c28db837e8bf7b37",
    "source": "InfoQ中文",
    "title": "Docker 呼吁通过隔离与治理保障智能体安全",
@@ -47,6 +65,69 @@
    "summary": "点击查看原文>",
    "published_at": 1794567600.0,
    "published_bj": "2026-11-13 19:00"
+  },
+  {
+   "id": "bcfd2603aad14a34",
+   "source": "IT之家",
+   "title": "Blackmagic Ambisonic Microphone 专业麦克风发布：内置 108 个 MEMS 单元，主打空间音频采集，1695 美元",
+   "url": "https://www.ithome.com/1/026/929.htm",
+   "summary": "IT之家 11 月 13 日消息，Blackmagic Design 今日发布了一款面向专业影视制作领域的全新麦克风 &nbsp;Blackmagic Ambisonic Microphone，主打空间音频采集，支持为沉浸式视频内容录制音频，并原生兼容苹果 Vision Pro 头显，售价为 1,695 美元 （IT之家注：现汇率约合 11,331 元人民币） ，将于 12 月上市。 据介绍，Blackmagic Ambisonic Microphone 定位专业市场。采用 Ambisonics 全景声麦克风阵列设计，内置多达 108 个数字 MEMS 麦克风，可用于采集完整的声场信息。 该设",
+   "published_at": 1794567156.0,
+   "published_bj": "2026-11-13 18:52"
+  },
+  {
+   "id": "2bc1b0260157008f",
+   "source": "IT之家",
+   "title": "韩国有关部门：黄仁勋离任 CEO 不影响英伟达 26 万块 GPU 供应计划",
+   "url": "https://www.ithome.com/1/026/927.htm",
+   "summary": "IT之家 11 月 13 日消息，据路透社报道，韩国科学技术信息通信部部长裴庆勋表示，英伟达确认将按计划向韩国供应 26 万块先进 GPU，履行此前作出的承诺。 裴庆勋在 X 上发文称，英伟达 CEO 黄仁勋的辞职不会影响上述供应计划。 ▲ IT之家注：第二段首句应为“自从黄仁勋宣布辞职以来” 去年，黄仁勋访韩出席亚太经合组织（APEC）会议期间， 英伟达与韩国达成了 26 万块 GPU 的供应协议 。双方还将继续推进多项合作，包括将韩国生产的 AI 芯片与英伟达平台对接、建设 AI 算力基础设施，以及联合开展物理 AI 研究和人才培养。 相关阅读： 《 韩国政府牵头成立 GPU 工作组，联合",
+   "published_at": 1794567113.0,
+   "published_bj": "2026-11-13 18:51"
+  },
+  {
+   "id": "493e6f97e624942c",
+   "source": "IT之家",
+   "title": "开源欧拉 openEuler 发布面向 Agentic Infra 的操作系统，国内累计装机量预计超 2200 万套",
+   "url": "https://www.ithome.com/1/026/911.htm",
+   "summary": "IT之家 11 月 13 日消息，在今日举行的 Agentic Infra 操作系统大会 &amp; openEuler Summit 2026 上，开源欧拉 openEuler 正式发布面向 Agentic Infra（IT之家注：Agentic Infrastructure， 智能体基础设施 ）的操作系统。 据介绍，openEuler 升级为面向 Agentic Infra 的操作系统，提供沙箱、KV Cache、记忆系统与 Agent 安全等关键能力，支持 AI 推理、Agent 应用等场景，已经在互联网，金融等行业头部用户商用落地。 开放原子开源基金会理事长谢少锋现场披露， openE",
+   "published_at": 1794566838.0,
+   "published_bj": "2026-11-13 18:47"
+  },
+  {
+   "id": "d82f96622fd6ab37",
+   "source": "IT之家",
+   "title": "Meta 悄悄为 Quest 头显 TV 应用上架一批 3D 电影，后续相应影片有望加入 Horizon+ 订阅服务",
+   "url": "https://www.ithome.com/1/026/908.htm",
+   "summary": "IT之家 11 月 13 日消息，据外媒 UploadVR 报道，Meta Quest 3/3S 头显的 TV 应用中近期开始出现少量 3D 电影内容，用户可以直接通过 Meta Horizon Store 租赁或购买相关影片。 外媒表示，目前出现的影片主要来自迪士尼旗下版权库。值得注意的是，用户无需订阅 Disney+，即可直接通过 Meta Horizon Store 购买这些电影。 除此之外，数据挖掘者 Nikita 和 Nori 还在 Quest 的 TV 应用中发现了一个 3D 电影专题页面，这暗示 Meta 后续可能会将 3D 电影作为 Horizon+ 订阅服务的权益之一，同时还",
+   "published_at": 1794566813.0,
+   "published_bj": "2026-11-13 18:46"
+  },
+  {
+   "id": "26d8efea814c66e5",
+   "source": "Solidot",
+   "title": "台积电内部员工数据泄露",
+   "url": "https://www.solidot.org/story?sid=85881",
+   "summary": "台积电在递交到 SEC 的一份声明中称，部分现任及前任员工的个人数据在未经授权的情况下出现在了一个外网上。相关信息与存储在某云服务提供商系统服务中的数据相吻合。台积电表示，目前尚未发现其自身系统遭到入侵的证据，且这些数据与其业务运营或客户信息无关。公司正通知受影响的员工，与该云服务商、相关调查机构以及一家外部网络安全公司合作，以查明事件真相。据报道，黑客在 DarkForums、BreachForums 等地下论坛上拍卖 6.9GB 容量的台积电员工数据，起标价为 3 BTC。黑客提供的样本显示数据涵盖员工姓名、生日、职称、住址、身分证字号、手机号码、银行帐户等资讯，甚至还有紧急连络人电话。黑",
+   "published_at": 1794566237.0,
+   "published_bj": "2026-11-13 18:37"
+  },
+  {
+   "id": "b815d8434b290d43",
+   "source": "IT之家",
+   "title": "Claude 出现大量报错，Anthropic 官方公告称正在调查",
+   "url": "https://www.ithome.com/1/026/905.htm",
+   "summary": "IT之家 11 月 13 日消息，根据 Claude Status 网站，网友反馈 claude.ai 、Claude Code 和 platform.claude.com 上出现大量错误。 Anthropic 官方公告称：“我们正在调查用户在 Claude.ai 和 Claude Code 上 进行身份验证时遇到的问题 。我们将尽快提供最新进展。” IT之家获悉，此次事件波及 claude.ai 、Claude Console ( platform.claude.com )、Claude Code 和 Claude Cowork 。",
+   "published_at": 1794565878.0,
+   "published_bj": "2026-11-13 18:31"
+  },
+  {
+   "id": "df46d898bdbcb77c",
+   "source": "IT之家",
+   "title": "BBC 曝光英国“房源照骗”现象：有中介、卖家开始用 AI 伪造或美化房屋",
+   "url": "https://www.ithome.com/1/026/904.htm",
+   "summary": "IT之家 11 月 13 日消息，房源照片是网上售房信息中最重要的内容之一。买家通常会先看照片，再判断房屋是否符合自己的需求和购房预期。 但随着 AI 技术的发展， 一种新型网络骗局让看房买房变得更加麻烦 。 据英国广播公司（BBC）今天上午报道，利用 AI 伪造或美化房源照片的“房源照骗（IT之家注：housefishing，直译作‘房屋钓鱼’）”现象越来越普遍。一些房产中介和卖家 通过 AI 大幅修改照片，甚至直接生成虚假图片 ，让房屋显得更加漂亮、宽敞或现代化。 BBC 报道了一名女子的遭遇。奥利维娅 · 妮可在网上寻找伦敦西南部的五居室房源时，看中了房地产平台 Rightmove 上的",
+   "published_at": 1794565361.0,
+   "published_bj": "2026-11-13 18:22"
   },
   {
    "id": "512b9d3ebb2cf211",
@@ -58,6 +139,15 @@
    "published_bj": "2026-11-13 18:20"
   },
   {
+   "id": "312fdcd85076fd07",
+   "source": "IT之家",
+   "title": "小米澎湃 OS 4 第三批正式版开启推送，覆盖小米 15 系列手机、Pad 7 系列平板等",
+   "url": "https://www.ithome.com/1/026/898.htm",
+   "summary": "IT之家 11 月 13 日消息，小米澎湃 OS 官方今日宣布，小米澎湃 OS 4 正式版覆盖更多机型，本次升级覆盖机型已开始陆续推送。 手机 Xiaomi 15 Ultra / Xiaomi 15 Ultra 双卫星版 Xiaomi 15S Pro Xiaomi 15 Pro Xiaomi 15 Xiaomi MIX Flip 2 Xiaomi Civi 5 Pro REDMI K80 Pro / REDMI K80 Pro 冠军版 REDMI K80 至尊版 REDMI K80 REDMI Turbo 4 Pro / REDMI Turbo 4 Pro 哈利 · 波特版 REDMI Tur",
+   "published_at": 1794565159.0,
+   "published_bj": "2026-11-13 18:19"
+  },
+  {
    "id": "a167968428cb2d54",
    "source": "Hacker News",
    "title": "Elevated errors on claude.ai, Claude Code, and platform.claude.com",
@@ -65,6 +155,15 @@
    "summary": "Article URL: https://status.claude.com/incidents/nn11wk485zfn Comments URL: https://news.ycombinator.com/item?id=50481187 Points: 40 # Comments: 24",
    "published_at": 1794565093.0,
    "published_bj": "2026-11-13 18:18"
+  },
+  {
+   "id": "92112507e39026f6",
+   "source": "IT之家",
+   "title": "米哈游法务部称全链条打击盗版周边：采取刑事、行政、民事全方位维权，累计涉案金额超 4000 万元",
+   "url": "https://www.ithome.com/1/026/890.htm",
+   "summary": "IT之家 11 月 13 日消息，米哈游法务部今日发文，近期，米哈游“打击游戏盗版周边专项行动”再度取得阶段性成果。截至目前，涉案产品品类覆盖十余种， 累计涉案金额超 4000 万元 。 通过刑事、行政、民事等多种手段 ，持续采取维权“组合拳”对盗版周边行为予以严厉打击，全力遏制盗版周边在多个渠道的蔓延。 IT之家附官方公布的案例如下： 相关阅读： 《 米哈游法务部：线下连锁店“多摩万事屋”终审被判赔 298 万元，打着“二创”旗号进行大规模商业化侵权 》 《 米哈游法务部：制售〈原神〉“可莉”盗版手办 3 被告获刑，生产方被判全额赔偿损失 》 《 米哈游法务部：盗用〈原神〉等 IP 素材办漫",
+   "published_at": 1794564671.0,
+   "published_bj": "2026-11-13 18:11"
   },
   {
    "id": "4b38fc5ce52495a5",
@@ -173,6 +272,15 @@
    "summary": "IT之家 11 月 13 日消息，据彭博社当地时间 11 日报道，英国财政大臣 John Healey 在同日进行的财政部特别委员会上表示， 该国在数据中心监管上不会采用美国式的自由放任策略 ，“不想看到美国的数据中心辩论在英国重演”。 整体上来看，美国对数据中心项目的监管相对粗放，这与容量不足的水电基础设施一道造成了一系列问题，引发公众和政界的强烈反对，已开始反过来阻碍对 AI 的投资。 图源：Pexels John Healey“准备对那些不能带来社区利益的数据中心说不”。他同时强调了主权 AI 基础设施对该国韧性与独立性的重要性。英国计划到 2030 年实现 6GW 的算力容量，这一水平",
    "published_at": 1794562874.0,
    "published_bj": "2026-11-13 17:41"
+  },
+  {
+   "id": "a0bbce01d23a15a1",
+   "source": "少数派",
+   "title": "本周看什么 | 最近值得一看的 10 部作品",
+   "url": "https://sspai.com/post/118999",
+   "summary": "📅本周新预告《银翼杀手2099》终极预告11月10日，剧集《银翼杀手2099》发布了终极预告，将于11月25日上线PrimeVideo。亨特·莎弗、杨紫琼主演，2099年的洛杉矶，为了彻底结束逃亡生活 ... 查看全文",
+   "published_at": 1794562762.0,
+   "published_bj": "2026-11-13 17:39"
   },
   {
    "id": "9fa65906f0a4cf08",
