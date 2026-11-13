@@ -1,8 +1,17 @@
 {
  "date": "2026-11-14",
- "generated_at": 1794573313.008887,
- "count": 2,
+ "generated_at": 1794577839.9246192,
+ "count": 3,
  "items": [
+  {
+   "id": "83eebebef0cda30a",
+   "source": "InfoQ中文",
+   "title": "从快速部署到记忆共享，数据库如何支撑 Agent 应用？",
+   "url": "https://www.infoq.cn/video/FwbOyyfoAmkQPMTItMDN?utm_source=rss&utm_medium=article",
+   "summary": "点击查看原文>",
+   "published_at": 1794603252.0,
+   "published_bj": "2026-11-14 04:54"
+  },
   {
    "id": "b17cf84350e74299",
    "source": "InfoQ中文",

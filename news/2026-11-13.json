@@ -1,7 +1,7 @@
 {
  "date": "2026-11-13",
- "generated_at": 1794573313.0118222,
- "count": 351,
+ "generated_at": 1794577839.9279761,
+ "count": 378,
  "items": [
   {
    "id": "43d47aa55555f769",
@@ -22,6 +22,132 @@
    "published_bj": "2026-11-13 22:21"
   },
   {
+   "id": "e5cd245342f7ffaa",
+   "source": "IT之家",
+   "title": "寻找“下一个英伟达”：台积电拟设立 5 亿美元创投基金",
+   "url": "https://www.ithome.com/1/026/953.htm",
+   "summary": "IT之家 11 月 13 日消息，据日经亚洲今天（13 日）上午报道，台积电计划设立一只规模 5 亿美元 （IT之家注：现汇率约合 33.43 亿元人民币） 的创投基金，扶持有望成长为下一个英伟达或博通的芯片初创企业。 台积电业务开发及全球销售资深副总经理、副联席首席运营官张晓强透露，随着 AI 产业蓬勃发展，公司希望通过新基金扩大产业生态，并建立更加规范的投资机制。本周公布的新基金还可能投资供应商及其他上游合作伙伴，不再将投资对象局限于直接客户。 张晓强首次透露设立专门投资部门的原因：“我们认为， 是时候建立正式的投资机制了 。我们也希望扩大投资范围，不再只面向直接客户，而是借此发展更广泛的",
+   "published_at": 1794577150.0,
+   "published_bj": "2026-11-13 21:39"
+  },
+  {
+   "id": "f6d6f7fb4e3c67fe",
+   "source": "IT之家",
+   "title": "铁路 12306 开始卖国际机票，后续规划国际空铁联运等产品",
+   "url": "https://www.ithome.com/1/026/952.htm",
+   "summary": "IT之家 11 月 13 日消息，铁路 12306 官方今日宣布，联合厦门航空共同打造 国际机票产品及服务 ，国际及地区航线覆盖悉尼、墨尔本、阿姆斯特丹、巴黎、东京等 30+ 核心城市，并通达中国香港、中国澳门、中国台湾。 官方表示，此次上线国际机票产品，标志着 12306 平台从“国内通达”向“国际连接”迈出实质性的第一步。 后续规划上线的国际空铁联运等产品，让火车票、机票在同一张订单里完成 。未来，12306 将持续丰富国际航线网络，深化与航空公司协同合作，持续改善旅客出行体验。 IT之家获悉，12306 机票板块为旅客提供全程出行服务，包含航班动态查询、在线选座、机票电子发票申请。",
+   "published_at": 1794576801.0,
+   "published_bj": "2026-11-13 21:33"
+  },
+  {
+   "id": "a62e465c4503fd9d",
+   "source": "IT之家",
+   "title": "韩企雄心勃勃规划吉瓦级数据中心，但目前仅有兆瓦级规模设施落地",
+   "url": "https://www.ithome.com/1/026/951.htm",
+   "summary": "IT之家 11 月 13 日消息，据韩媒 The Elec 今天（13 日）晚间报道，为满足日益增长的 AI 需求，KT、SK 电讯、Naver 和 NHN Cloud 等韩国企业纷纷提出建设吉瓦级数据中心的计划，但现有设施的容量仍 只有数十至数百兆瓦 。 相比之下，海外运营商的规模则早已突破 1GW，韩国企业可能因此陷入争夺客户不利、扩建计划延误的恶性循环。 截至 11 月 13 日，韩国企业公布的财报及季度报告显示，KT 和 SK 电讯运营的数据中心容量分别为 152MW 和 137MW，仅相当于各自 1GW 规划目标的 13% 至 15%。 KT 在第三季度财报电话会议上提出，到 203",
+   "published_at": 1794576611.0,
+   "published_bj": "2026-11-13 21:30"
+  },
+  {
+   "id": "7ad581b0ba8a2400",
+   "source": "cnBeta",
+   "title": "微软服务大面积故障时发帖征集AI建议 网友高赞回复：先确保产品别再宕机",
+   "url": "https://www.cnbeta.com.tw/articles/tech/1586294.htm",
+   "summary": "Microsoft Learn于11月12日在社交平台X发文询问“AI初学者应该尽早养成什么习惯”，但发帖时微软的Exchange Online已经出现故障，Outlook、Teams、SharePoint、Copilot等多项Microsoft 365服务也受到影响。帖子迅速成为用户的吐槽区，获得超过120万次浏览和1100多条回复；点赞最高的一条建议是：“确保你的产品不会宕机。” 阅读全文",
+   "published_at": 1794575954.0,
+   "published_bj": "2026-11-13 21:19"
+  },
+  {
+   "id": "db7279694a8d2003",
+   "source": "cnBeta",
+   "title": "Anduril首颗卫星搭载红外“夜视”系统 可在地球阴影中追踪竞争对手卫星",
+   "url": "https://www.cnbeta.com.tw/articles/science/1586292.htm",
+   "summary": "美国国防科技企业Anduril Industries宣布，其首颗自主参与开发的卫星已经成功完成一项重要技术演示。卫星搭载的长波红外传感器能够在没有阳光照射的情况下探测其他航天器，通过捕捉目标释放的热辐射，填补传统卫星监测系统在地球阴影区域存在的观测盲区。 阅读全文",
+   "published_at": 1794575899.0,
+   "published_bj": "2026-11-13 21:18"
+  },
+  {
+   "id": "ed07b05ad248ed7a",
+   "source": "TechCrunch",
+   "title": "Microsoft’s latest email outage turned into a full blown global cloud crisis",
+   "url": "https://techcrunch.com/2026/11/13/microsoft-latest-email-outage-turned-into-a-full-blown-global-cloud-crisis/",
+   "summary": "Microsoft's day-long outage began with Outlook and Teams, and ended up taking much of the company's cloud services offline. Microsoft says it's gradually restoring service.",
+   "published_at": 1794575720.0,
+   "published_bj": "2026-11-13 21:15"
+  },
+  {
+   "id": "7680cc9fdf902ad7",
+   "source": "cnBeta",
+   "title": "《塞尔达传说：时之笛》重制版四天销量突破520万份 经典IP仍可推动新主机销售",
+   "url": "https://www.cnbeta.com.tw/articles/game/1586290.htm",
+   "summary": "任天堂经典游戏《塞尔达传说：时之笛》重制版在Nintendo Switch 2平台取得了惊人的开局。游戏全球发售仅四天，销量便突破520万份，成为目前Switch 2平台首发销售速度最快的任天堂自家发行游戏。这一成绩不仅刷新了系列多款作品的销售纪录，也让任天堂在年末假日销售季获得了一款重要的市场主力作品。 阅读全文",
+   "published_at": 1794575582.0,
+   "published_bj": "2026-11-13 21:13"
+  },
+  {
+   "id": "0be7f9b1a614d4fe",
+   "source": "IT之家",
+   "title": "大连理工大学成功研制国内首款 20 公斤级氢能动力无人直升机，完成海上 6 级大风巡航任务",
+   "url": "https://www.ithome.com/1/026/949.htm",
+   "summary": "IT之家 11 月 13 日消息，大连理工大学今日宣布，近日，该校化工学院毛庆副教授研发团队成功研制 国内首款 20 公斤级氢能动力无人直升机 ，布局纯氢燃料电池、氢-锂混动双技术路线。 IT之家获悉，本次研发推出两款作业机型，分别搭载 5L 与 12L 氢气瓶：5L-35MPa 氢-锂混动机型 续航 1.5 小时 ，12L-35MPa 氢燃料电池机型 续航可达 3 小时 ，较传统锂电无人机 30 分钟左右的续航实现数倍提升。 核心技术层面，该校研发团队自主研制空冷燃料电池动力系统，针对核心电堆开展温度、湿度、盐雾等多工况严苛测试， 证实系统性能优异、运行稳定、环境耐受性强 。其中，自研膜电极",
+   "published_at": 1794575516.0,
+   "published_bj": "2026-11-13 21:11"
+  },
+  {
+   "id": "a2afb990e709a5bb",
+   "source": "IT之家",
+   "title": "Anthropic 连发多条故障通报：微软服务中断波及 Claude",
+   "url": "https://www.ithome.com/1/026/948.htm",
+   "summary": "IT之家 11 月 13 日消息，微软 Microsoft 365 遭遇了近年来最严重的服务故障之一，Exchange Online、Outlook、SharePoint 及部分 Teams 服务中断近一天半。今天早些时候，微软一名高管为此次故障致歉，并对事态表示遗憾，基本承认短时间内无法解决问题。 Anthropic 将自身部分服务的故障归咎于 Microsoft 365 连接，并通过 Claude Status 页面陆续发布了以下通报： 调查中： 我们正在调查 Microsoft 365 连接器错误率升高、响应缓慢的问题。用户通过连接器访问邮件、SharePoint、Teams 聊天和日历",
+   "published_at": 1794575418.0,
+   "published_bj": "2026-11-13 21:10"
+  },
+  {
+   "id": "0481e2353543d453",
+   "source": "Hacker News",
+   "title": "Jensen Huang Admitted He Was Facing an \"Avalanche\" of Excess Wafers and Memory",
+   "url": "https://respawnfirst.com/before-resigning-jensen-huang-admitted-he-was-facing-an-avalanche-of-excess-wafers-and-memory-new-report-sheds-more-light-on-the-gpu-ram-crisis/",
+   "summary": "Article URL: https://respawnfirst.com/before-resigning-jensen-huang-admitted-he-was-facing-an-avalanche-of-excess-wafers-and-memory-new-report-sheds-more-light-on-the-gpu-ram-crisis/ Comments URL: https://news.ycombinator.com/item?id=50482992 Points: 37 # Comments: 18",
+   "published_at": 1794575328.0,
+   "published_bj": "2026-11-13 21:08"
+  },
+  {
+   "id": "cc06c3bb8dc6c795",
+   "source": "cnBeta",
+   "title": "改装者用约650字节固件补丁让45美元USB-C扩展坞变身Switch 2底座",
+   "url": "https://www.cnbeta.com.tw/articles/game/1586288.htm",
+   "summary": "一名改装爱好者mkopec通过修改固件，让一款约40欧元、折合约45美元的Cable Matters 7合1 USB-C扩展坞支持Nintendo Switch 2电视输出。普通USB-C扩展坞原本可以为主机充电，却无法输出画面，因为Switch 2会先检查底座是否能回应任天堂专有的通信握手。 阅读全文",
+   "published_at": 1794575170.0,
+   "published_bj": "2026-11-13 21:06"
+  },
+  {
+   "id": "8fe5e02395cf4a85",
+   "source": "cnBeta",
+   "title": "黄仁勋离职与美国出口管制审查冲击中国AI项目 涉及金额超过230亿元人民币",
+   "url": "https://www.cnbeta.com.tw/articles/tech/1586286.htm",
+   "summary": "据路透社2026年11月13日报道，尽管英伟达此前表示，美国出口管制实际上已经使其退出中国AI数据中心市场，但路透社对中国各地政府采购公告、投资计划、建设合同及企业披露文件进行调查后发现，中国仍有大量围绕英伟达受限制芯片建设的AI算力项目，涉及金额超过230亿元人民币，约合32亿美元。 阅读全文",
+   "published_at": 1794575136.0,
+   "published_bj": "2026-11-13 21:05"
+  },
+  {
+   "id": "5247051afd758dc1",
+   "source": "cnBeta",
+   "title": "Anthropic将Claude服务异常归因于微软365故障 用户认证功能一度失效",
+   "url": "https://www.cnbeta.com.tw/articles/tech/1586284.htm",
+   "summary": "当地时间11月13日，人工智能公司Anthropic确认，其旗下AI助手Claude再次出现服务中断问题。公司表示，目前正在对故障展开调查，并已披露部分初步信息。 阅读全文",
+   "published_at": 1794575008.0,
+   "published_bj": "2026-11-13 21:03"
+  },
+  {
+   "id": "a0cb51921e0b8928",
+   "source": "IT之家",
+   "title": "2027 款全新领克 03 上市：车宽 1901mm，限时专享价 10.38 万元起",
+   "url": "https://www.ithome.com/1/026/947.htm",
+   "summary": "IT之家 11 月 13 日消息，2027 款全新领克 03 今晚正式上市，新车共推出 4 款车型， 限时专享价 10.38-13.38 万元 。 1.5T Pro：官方指导价 11.38 万元，限时专享价 10.38 万元 1.5T Halo：官方指导价 12.38 万元，限时专享价 11.38 万元 1.5T Halo+：官方指导价 12.98 万元，限时专享价 11.98 万元 2.0T Ultra+：官方指导价 14.38 万元，限时专享价 13.38 万元 此外，2027 款全新领克 03+ 同步上市，官方指导价 24.98 万元，限时专享价 23.98 万元。 2027 款全新领克",
+   "published_at": 1794574834.0,
+   "published_bj": "2026-11-13 21:00"
+  },
+  {
    "id": "16692e1690a0f422",
    "source": "InfoQ中文",
    "title": "应用只是冰山一角：构建大规模移动应用基础设施需要什么",
@@ -31,6 +157,105 @@
    "published_bj": "2026-11-13 21:00"
   },
   {
+   "id": "ee94691d41e8e78a",
+   "source": "cnBeta",
+   "title": "Windows 1.0制作名单出现Gabe Newell姓名 佐证其参与早期开发",
+   "url": "https://www.cnbeta.com.tw/articles/tech/1586282.htm",
+   "summary": "玩家近日在Windows 1.0一份长期不显眼的制作名单中发现Gabe Newell的姓名，为他参与微软早期Windows开发提供了直接佐证。这段微软任职经历早已为人所知，新发现仅限于这份名单证据。 阅读全文",
+   "published_at": 1794574695.0,
+   "published_bj": "2026-11-13 20:58"
+  },
+  {
+   "id": "7ef8bd8bdc0a7592",
+   "source": "cnBeta",
+   "title": "铁路12306正式上线国际机票：支持在线选座与电子发票",
+   "url": "https://www.cnbeta.com.tw/articles/tech/1586280.htm",
+   "summary": "11月13日，铁路12306宣布正式上线国际机票业务。该服务由铁路12306携手厦门航空共同打造，标志着12306平台从“国内通达”向“国际连接”迈出实质性一步。 阅读全文",
+   "published_at": 1794574679.0,
+   "published_bj": "2026-11-13 20:57"
+  },
+  {
+   "id": "e1f986d84c0d9d47",
+   "source": "cnBeta",
+   "title": "苹果多款iPhone机型降价",
+   "url": "https://www.cnbeta.com.tw/articles/tech/1586278.htm",
+   "summary": "11月13日，近日，苹果官网再次更新，调整了以旧换新价格。其中，iPhone Air和iPhone 17是本次调价幅度最大的产品，均从原本的585美元上调至615美元，涨幅超过5%。 阅读全文",
+   "published_at": 1794574551.0,
+   "published_bj": "2026-11-13 20:55"
+  },
+  {
+   "id": "aff473321a298fae",
+   "source": "cnBeta",
+   "title": "调查显示多数美国人认为预测市场属于赌博",
+   "url": "https://www.cnbeta.com.tw/articles/tech/1586276.htm",
+   "summary": "美国博彩协会委托Qualtrics开展的一项民意调查显示，82%的美国受访者跨越党派分歧，认为预测市场应当被作为博彩产品而非金融产品进行监管。调查还发现，75%的受访者认为，通过预测市场买卖与体育赛事相关的事件合约，与通过体育博彩平台下注没有区别。 阅读全文",
+   "published_at": 1794574505.0,
+   "published_bj": "2026-11-13 20:55"
+  },
+  {
+   "id": "93399d1bafa9c5e5",
+   "source": "cnBeta",
+   "title": "神秘交易者在黄仁勋辞职前做空英伟达，赚了2亿美元",
+   "url": "https://www.cnbeta.com.tw/articles/tech/1586274.htm",
+   "summary": "Macro Risk Advisors（MRA）的专业人士发现了一起异常操作：10月12日，有人在英伟达股票上建立了一系列大幅虚值、将于明年1月到期的看跌期权头寸。具体而言，MRA的约瑟夫·奈尔斯（Joseph Niles）表示，这名神秘交易者买入了18万份行权价为150美元的看跌期权，同时卖出了28万份行权价为100美元的看跌期权。这笔交易的初始成本约为800万美元。 阅读全文",
+   "published_at": 1794574468.0,
+   "published_bj": "2026-11-13 20:54"
+  },
+  {
+   "id": "855ca484fad0d727",
+   "source": "cnBeta",
+   "title": "黄仁勋一手打造4万亿美元AI巨头英伟达 但持股不足4%",
+   "url": "https://www.cnbeta.com.tw/articles/tech/1586272.htm",
+   "summary": "黄仁勋这位亿万富豪、前英伟达 CEO，把一家游戏显卡小厂商带到 AI 革命的核心芯片巨头位置。他此前曾说过一句耐人寻味的话：他随时都可能被解雇。今年 1 月，黄仁勋在和乔迪・谢尔顿的播客访谈中提到：“治理完善的公司里，CEO 本来就向董事会汇报，董事会向股东负责。如果 CEO 没能做好本职工作，不管董事会一共是 12、13 还是 15 名成员，都可以将他解聘。” 阅读全文",
+   "published_at": 1794574415.0,
+   "published_bj": "2026-11-13 20:53"
+  },
+  {
+   "id": "0ca1d31b067d7464",
+   "source": "cnBeta",
+   "title": "商标临时禁令申请遭驳回 安世中国欧盟业务保持稳定",
+   "url": "https://www.cnbeta.com.tw/articles/tech/1586270.htm",
+   "summary": "11月13日晚间消息，闻泰科技发布公告，披露安世中国收到荷兰海牙地方法院商事庭临时程序裁决，法院驳回Nexperia B.V．（安世荷兰）商标侵权相关请求，不予批准在欧盟、比荷卢境内针对安世中国的商标临时禁令。 阅读全文",
+   "published_at": 1794574345.0,
+   "published_bj": "2026-11-13 20:52"
+  },
+  {
+   "id": "2e45a4670caadb13",
+   "source": "TechCrunch",
+   "title": "Israel’s VCs see opportunity for challengers in Nvidia’s turmoil",
+   "url": "https://techcrunch.com/2026/11/13/israels-vcs-see-opportunity-for-challengers-in-nvidias-turmoil/",
+   "summary": "Given Nvidia’s stronghold on AI and its importance in Israel, many in the country's startup ecosystem are worried about the impact of his departure.",
+   "published_at": 1794574339.0,
+   "published_bj": "2026-11-13 20:52"
+  },
+  {
+   "id": "f14932901724c060",
+   "source": "cnBeta",
+   "title": "英伟达“星光寥寥”的董事会 如今肩负科技界最受瞩目的CEO遴选重任",
+   "url": "https://www.cnbeta.com.tw/articles/tech/1586268.htm",
+   "summary": "英伟达公司用了数十年时间成长为全球最具影响力的科技公司之一，但其董事会却未能跟上步伐。如今，公司治理和高管招聘专家表示，这个由10名董事组成的董事会此前疏于规划首席执行官黄仁勋的继任安排，如今也缺乏妥善处理这一问题的准备。 阅读全文",
+   "published_at": 1794574303.0,
+   "published_bj": "2026-11-13 20:51"
+  },
+  {
+   "id": "29fb29fa2b3d75f8",
+   "source": "IT之家",
+   "title": "亚马逊秘密构想曝光：欲打造“世界商品图谱”，包揽全网商品数据",
+   "url": "https://www.ithome.com/1/026/945.htm",
+   "summary": "IT之家 11 月 13 日消息，据路透社报道，亚马逊有一项秘密计划，旨在让消费者从此无需离开其平台，拥有世界上的商品信息。 据该媒体审阅的一份内部文件及知情人士透露，这项名为“世界商品图谱”（World Product Graph）的计划， 试图将全球几乎所有在售商品的数据悉数收入囊中 —— 无论亚马逊是否备有这些商品的库存。 借此，亚马逊可以真正成为“万货商店”，不仅能提供海量商品的深度数据、切入谷歌在在线搜索领域的腹地，还能有效抵御竞争对手沃尔玛不断扩张的电商业务。 这一举措也是为了应对 AI 购物智能体的持续崛起。该内部文件指出，亚马逊自家的 AI 搜索智能体目前经常提供不准确的信息。",
+   "published_at": 1794573436.0,
+   "published_bj": "2026-11-13 20:37"
+  },
+  {
+   "id": "fe101278a51f85d3",
+   "source": "IT之家",
+   "title": "马斯克转发《气垫传奇》电影片段致敬黄仁勋：有些事物是永恒的",
+   "url": "https://www.ithome.com/1/026/944.htm",
+   "summary": "IT之家 11 月 13 日消息，黄仁勋离任英伟达 CEO 后，全球首富埃隆 · 马斯克在社交媒体上发文向他致敬。 今天下午，马斯克在 X 上转发了一段两分钟的电影片段，出自 2023 年上映的《气垫传奇》。影片讲述了耐克与迈克尔 · 乔丹合作，以及 Air Jordan 品牌诞生的故事。 片段中，马特 · 达蒙饰演的耐克高管桑尼 · 瓦卡罗试图说服年轻的乔丹签下球鞋代言合同，并发表了一段仿佛预见未来的独白。“当他们把你捧到最高处，接下来就会把你拉下来。 你能不能鼓起勇气，忍受所有痛苦，继续奋战，再次站起来？ ” 这段视频最早由风险投资公司 Andreessen Horowitz 于周四晚间发",
+   "published_at": 1794573073.0,
+   "published_bj": "2026-11-13 20:31"
+  },
+  {
    "id": "a114674a45e58529",
    "source": "TechCrunch",
    "title": "Jensen Huang didn’t show confidence in his successor, report says",
@@ -38,6 +263,24 @@
    "summary": "Huang described Kress as a \"deer in the headlights\" during a meeting in summer.",
    "published_at": 1794572903.0,
    "published_bj": "2026-11-13 20:28"
+  },
+  {
+   "id": "d7ba0b4483f0beb8",
+   "source": "IT之家",
+   "title": "上汽奥迪 AUDI E5 Sportback 热猎限定版、E7X 先锋 quattro 必福版上市，26.59 万 / 33.8888 万元",
+   "url": "https://www.ithome.com/1/026/943.htm",
+   "summary": "IT之家 11 月 13 日消息，在今天晚间的 AUDI Day 2026 特别活动中，上汽奥迪 AUDI E5 Sportback 热猎限定版和 AUDI E7X 先锋 quattro 必福版正式上市，上市权益价分别为 26.59 万元和 338888 元。 AUDI E5 Sportback 热猎限定版 新车采用“撞色美学”设计，提供挚热红、流光银（IT之家注：均为黑色车顶）的撞色车漆，配有 20 英寸 8 辐铝合金曜黑轮毂、Brembo 高性能制动卡钳。 该车尺寸与现款一致，仍为长 4881mm、宽 1960mm、高 1479mm，轴距 2950mm。 该车座舱两侧屏幕配有磁吸功能，车内",
+   "published_at": 1794572587.0,
+   "published_bj": "2026-11-13 20:23"
+  },
+  {
+   "id": "b910c4bbda675009",
+   "source": "IT之家",
+   "title": "AOC 推出“Q25G5ZE8”24.5 英寸显示器：2K 275Hz，1099 元",
+   "url": "https://www.ithome.com/1/026/942.htm",
+   "summary": "IT之家 11 月 13 日消息，AOC 现已在京东上架“Q25G5ZE8”24.5 英寸显示器，该机主打 2K 275Hz，定价为 1099 元。 京东 AOC Q25G5ZE8 显示器 1099 元 直达链接 该机配备一块 2560x1440 分辨率 275Hz Fast IPS 面板，显示器亮度 450 尼特，GtG 响应速度 1ms，覆盖 95% DCI-P3 色域，显示器采用固定支架，本体支持 VESA 壁挂，提供 HDMI 2.0 和 DP 1.4 接口。 IT之家附显示器参数：",
+   "published_at": 1794572273.0,
+   "published_bj": "2026-11-13 20:17"
   },
   {
    "id": "2d4e722f10b97e47",
