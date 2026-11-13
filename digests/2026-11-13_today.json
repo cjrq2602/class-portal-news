@@ -1,0 +1,382 @@
+{
+ "type": "today",
+ "date": "2026-11-13",
+ "window": {
+  "start_ts": 1794499200.0,
+  "end_ts": 1794531600.0
+ },
+ "generated_at": 1794535146.903184,
+ "generator": "action",
+ "news_count": 108,
+ "keywords": [
+  "仁勋",
+  "黄仁",
+  "ai",
+  "美元",
+  "伟达",
+  "英伟",
+  "亿美",
+  "huang",
+  "to",
+  "jensen"
+ ],
+ "points": [
+  {
+   "text": "【黄仁】IT之家 11 月 13 日消息，科技媒体 The Information 昨日（11 月 12 日）发布博文，援引知情人士消息，英伟达临时 C",
+   "keyword": "黄仁",
+   "news_ids": [
+    "1923b21eaa1fb1e4"
+   ],
+   "refs": [
+    {
+     "id": "1923b21eaa1fb1e4",
+     "title": "黄仁勋最激进 AI 赌局的“刹车手”：英伟达临时 CEO 克雷斯曾力主削减 2500 亿美元 OpenAI 豪赌",
+     "source": "IT之家",
+     "url": "https://www.ithome.com/1/026/478.htm",
+     "published_at": 1794531130.0
+    }
+   ]
+  },
+  {
+   "text": "【ai】据路透社报道， 埃隆·马斯克旗下SpaceX计划在美国得克萨斯州和亚利桑那州建设两座超级计算园区，预计总投资超过740亿美元 ",
+   "keyword": "ai",
+   "news_ids": [
+    "6f2334ac7841923a"
+   ],
+   "refs": [
+    {
+     "id": "6f2334ac7841923a",
+     "title": "SpaceX豪掷超740亿美元建两座超级计算园区 AI业务收入已超公司总收入一半",
+     "source": "cnBeta",
+     "url": "https://www.cnbeta.com.tw/articles/tech/1586166.htm",
+     "published_at": 1794526317.0
+    }
+   ]
+  },
+  {
+   "text": "【美元】IT之家 11 月 13 日消息，法拉第未来（Faraday Future，简称 FF）旗下具身智能与机器人业务实体 FF EAI Roboti",
+   "keyword": "美元",
+   "news_ids": [
+    "687eed6336f9dee0"
+   ],
+   "refs": [
+    {
+     "id": "687eed6336f9dee0",
+     "title": "贾跃亭法拉第未来 FFR 机器人业务 2026 年前九个月收入约 230 万美元，计划 2027 年一季度进入芝加哥和达拉斯",
+     "source": "IT之家",
+     "url": "https://www.ithome.com/1/026/471.htm",
+     "published_at": 1794528279.0
+    }
+   ]
+  },
+  {
+   "text": "【the】Article URL: https://admin",
+   "keyword": "the",
+   "news_ids": [
+    "39b7db6ec632f7cc"
+   ],
+   "refs": [
+    {
+     "id": "39b7db6ec632f7cc",
+     "title": "Microsoft Status: \"We are re-routing the protocols\"",
+     "source": "Hacker News",
+     "url": "https://admin.cloud.microsoft/?#/servicehealth/:/alerts/MO1550821",
+     "published_at": 1794514841.0
+    }
+   ]
+  },
+  {
+   "text": "【to】Hey HN! I'm Lakshay",
+   "keyword": "to",
+   "news_ids": [
+    "f64fe06d5d68fb76"
+   ],
+   "refs": [
+    {
+     "id": "f64fe06d5d68fb76",
+     "title": "Show HN: Cerulion – ROS 2-compatible robotics runtime with multi-process replay",
+     "source": "Hacker News",
+     "url": "https://github.com/cerulion-inc/cerulion",
+     "published_at": 1794516784.0
+    }
+   ]
+  },
+  {
+   "text": "IT之家 11 月 13 日消息，11 月 12 日，上海海思推出全新 800 万像素图像传感器 CS6286，目前已进入量产阶段",
+   "keyword": "",
+   "news_ids": [
+    "cfd17f08a4ce2090"
+   ],
+   "refs": [
+    {
+     "id": "cfd17f08a4ce2090",
+     "title": "上海海思推出 CS6286 图像传感器，将车载哨兵系统续航延长至 7 天以上",
+     "source": "IT之家",
+     "url": "https://www.ithome.com/1/026/479.htm",
+     "published_at": 1794531543.0
+    }
+   ]
+  },
+  {
+   "text": "IT之家 11 月 13 日消息，《饥饿游戏》前传电影《饥饿游戏：收获日出》将于 11 月 20 日在中国内地上映（同步北美），官方现已公布定档",
+   "keyword": "",
+   "news_ids": [
+    "c9b3c23e71aecd19"
+   ],
+   "refs": [
+    {
+     "id": "c9b3c23e71aecd19",
+     "title": "电影《饥饿游戏：收获日出》定档 11 月 20 日内地上映，全新中字预告发布",
+     "source": "IT之家",
+     "url": "https://www.ithome.com/1/026/475.htm",
+     "published_at": 1794530044.0
+    }
+   ]
+  },
+  {
+   "text": "IT之家 11 月 13 日消息，微软确认，2026 年 11 月 10 日发布的 Windows 安全更新引发了一项新的激活与许可证管理问题，",
+   "keyword": "",
+   "news_ids": [
+    "d89732d68f9ff844"
+   ],
+   "refs": [
+    {
+     "id": "d89732d68f9ff844",
+     "title": "微软承认 Windows 11 月更新后激活命令失效，企业 KMS 配置可能报错 0x80041008",
+     "source": "IT之家",
+     "url": "https://www.ithome.com/1/026/474.htm",
+     "published_at": 1794529893.0
+    }
+   ]
+  },
+  {
+   "text": "IT之家 11 月 13 日消息，微软 Xbox 首席执行官阿莎・夏尔马（Asha Sharma）正式公布了《德军总部 3》（Wolfenste",
+   "keyword": "",
+   "news_ids": [
+    "b2ecdcaa168ca97b"
+   ],
+   "refs": [
+    {
+     "id": "b2ecdcaa168ca97b",
+     "title": "时隔近九年《德军总部 3》官宣，由微软 Xbox 贝塞斯达旗下 MachineGames 工作室开发",
+     "source": "IT之家",
+     "url": "https://www.ithome.com/1/026/473.htm",
+     "published_at": 1794529313.0
+    }
+   ]
+  },
+  {
+   "text": "IT之家 11 月 13 日消息，11 月 11 日，比亚迪方程豹汽车总经理熊甜波在社交平台向大家汇报了钛 9 相关信息，该车 11 月 15 ",
+   "keyword": "",
+   "news_ids": [
+    "8f110dcb1f7dd2e0"
+   ],
+   "refs": [
+    {
+     "id": "8f110dcb1f7dd2e0",
+     "title": "消息称方程豹钛 9 车型 11 月 19 日上市，比亚迪闪充技术 + 二代刀片电池",
+     "source": "IT之家",
+     "url": "https://www.ithome.com/1/026/465.htm",
+     "published_at": 1794526689.0
+    }
+   ]
+  },
+  {
+   "text": "京东集团11月12日发布公告，宣布完成对欧洲消费电子零售集团CECONOMY的自愿公开要约收购",
+   "keyword": "",
+   "news_ids": [
+    "8cf7330b60ee2f08"
+   ],
+   "refs": [
+    {
+     "id": "8cf7330b60ee2f08",
+     "title": "历时15个月 京东完成欧洲消费电子零售集团CECONOMY的收购",
+     "source": "cnBeta",
+     "url": "https://www.cnbeta.com.tw/articles/tech/1586160.htm",
+     "published_at": 1794526191.0
+    }
+   ]
+  },
+  {
+   "text": "IT之家 11 月 13 日消息，根据 11 月 11 日发表于《自然》（Nature）最新研究报告， 澳大利亚科研团队通过新算法，确认 201",
+   "keyword": "",
+   "news_ids": [
+    "f23a4c0eb2f219c7"
+   ],
+   "refs": [
+    {
+     "id": "f23a4c0eb2f219c7",
+     "title": "甜甜圈”实锤：人类首张黑洞照片通过新算法复核",
+     "source": "IT之家",
+     "url": "https://www.ithome.com/1/026/461.htm",
+     "published_at": 1794525663.0
+    }
+   ]
+  },
+  {
+   "text": "Article URL: https://www",
+   "keyword": "",
+   "news_ids": [
+    "07e3b356ee316e67"
+   ],
+   "refs": [
+    {
+     "id": "07e3b356ee316e67",
+     "title": "Richard A. Posner has died",
+     "source": "Hacker News",
+     "url": "https://www.law.uchicago.edu/news/senior-lecturer-richard-posner-law-and-economics-pioneer-and-former-federal-appellate-judge",
+     "published_at": 1794525593.0
+    }
+   ]
+  },
+  {
+   "text": "IT之家 11 月 13 日消息，乘联分会数据显示， 11 月 1-8 日，全国乘用车市场零售 29.3 万辆，同比去年 11 月同期下降 21",
+   "keyword": "",
+   "news_ids": [
+    "615f6e2f758a4924"
+   ],
+   "refs": [
+    {
+     "id": "615f6e2f758a4924",
+     "title": "乘联分会：11 月 1-8 日，全国乘用车市场新能源零售渗透率 74.9%",
+     "source": "IT之家",
+     "url": "https://www.ithome.com/1/026/459.htm",
+     "published_at": 1794524890.0
+    }
+   ]
+  },
+  {
+   "text": "IT之家 11 月 13 日消息，当地时间 11 月 12 日，为庆祝 Xbox 品牌诞生 25 周年，微软宣布将 21 款初代 Xbox 游戏",
+   "keyword": "",
+   "news_ids": [
+    "97f09b58ca81d73a"
+   ],
+   "refs": [
+    {
+     "id": "97f09b58ca81d73a",
+     "title": "微软初代 Xbox 经典游戏登陆 PC：含《星球大战》《上古卷轴 3》等，兼容库扩至 25 款并首次引入成就系统",
+     "source": "IT之家",
+     "url": "https://www.ithome.com/1/026/454.htm",
+     "published_at": 1794523659.0
+    }
+   ]
+  }
+ ],
+ "article": {
+  "title": "2026-11-13 新闻总结",
+  "paragraphs": [
+   {
+    "kind": "lead",
+    "text": "今天共收录 108 条新闻，来自 6 家媒体。把标题放在一起看，讨论主要集中在 AI 这几个方向上，其余消息更像是零散补充。"
+   },
+   {
+    "kind": "section",
+    "heading": "AI",
+    "text": "先看「AI」。IT之家 11 月 13 日消息，科技媒体 The Information 昨日（11 月 12 日）发布博文，援引知情人士消息，另有 65 条消息指向同一话题。这类进展更像是把已有能力往工程化落地推了一步，真正的分水岭在于成本和可靠性能不能同时压下来。",
+    "news_ids": [
+     "1923b21eaa1fb1e4"
+    ],
+    "refs": [
+     {
+      "id": "1923b21eaa1fb1e4",
+      "title": "黄仁勋最激进 AI 赌局的“刹车手”：英伟达临时 CEO 克雷斯曾力主削减 2500 亿美元 OpenAI 豪赌",
+      "source": "IT之家",
+      "url": "https://www.ithome.com/1/026/478.htm",
+      "published_at": 1794531130.0
+     }
+    ]
+   },
+   {
+    "kind": "section",
+    "heading": "公司",
+    "text": "与此同时「公司」。据路透社报道， 埃隆·马斯克旗下SpaceX计划在美国得克萨斯州和亚利桑那州建设两座超级计算园区，另有 2 条消息指向同一话题。这条消息短期内的实际影响可能有限，但它指向的方向值得放进观察名单。",
+    "news_ids": [
+     "6f2334ac7841923a"
+    ],
+    "refs": [
+     {
+      "id": "6f2334ac7841923a",
+      "title": "SpaceX豪掷超740亿美元建两座超级计算园区 AI业务收入已超公司总收入一半",
+      "source": "cnBeta",
+      "url": "https://www.cnbeta.com.tw/articles/tech/1586166.htm",
+      "published_at": 1794526317.0
+     }
+    ]
+   },
+   {
+    "kind": "section",
+    "heading": "订单",
+    "text": "另一个值得注意的方向是「订单」。IT之家 11 月 13 日消息，苹果 HomeView 于当地时间 11 月 13 日正式开售…，另有 3 条消息指向同一话题。资本动作往往领先产品一年，值得盯的不是金额，而是钱最后花向了算力、场景还是补贴。",
+    "news_ids": [
+     "908abd6a8c94fa36"
+    ],
+    "refs": [
+     {
+      "id": "908abd6a8c94fa36",
+      "title": "苹果首款智能家庭中枢 HomeView 及新款 Apple TV 4K 上市，首批订单已送至澳新客户手中",
+      "source": "IT之家",
+      "url": "https://www.ithome.com/1/026/476.htm",
+      "published_at": 1794530792.0
+     }
+    ]
+   },
+   {
+    "kind": "section",
+    "heading": "全球",
+    "text": "相比之下「全球」。IT之家 11 月 13 日消息，当地时间 11 月 12 日，微软旗下 Microsoft 365 多项核心云服务发生大规模故障，影响 Outlook，另有 4 条消息指向同一话题。这条消息短期内的实际影响可能有限，但它指向的方向值得放进观察名单。",
+    "news_ids": [
+     "5f61e3e826d63aec"
+    ],
+    "refs": [
+     {
+      "id": "5f61e3e826d63aec",
+      "title": "微软 365 核心服务全球性大规模瘫痪：Outlook、OneDrive、Teams 均受影响，正逐步重启恢复",
+      "source": "IT之家",
+      "url": "https://www.ithome.com/1/026/460.htm",
+      "published_at": 1794524952.0
+     }
+    ]
+   },
+   {
+    "kind": "glossary",
+    "items": [
+     {
+      "term": "AI",
+      "desc": "人工智能，让机器完成识别、生成、判断等原本需要人做的任务"
+     },
+     {
+      "term": "数据中心",
+      "desc": "集中放置服务器、供电与散热设施的大型机房"
+     },
+     {
+      "term": "新能源",
+      "desc": "相对煤炭石油而言的清洁能源，常见的是光伏、风电和储能"
+     },
+     {
+      "term": "反垄断",
+      "desc": "防止企业滥用市场支配地位、限制竞争"
+     },
+     {
+      "term": "开源",
+      "desc": "源代码公开，允许他人查看、修改并再分发"
+     },
+     {
+      "term": "算力",
+      "desc": "计算能力，通常用 GPU 数量和浮点性能衡量，是训练大模型的门槛"
+     }
+    ]
+   },
+   {
+    "kind": "outlook",
+    "text": "整体看，这个时段的新闻还处在「消息多、结论少」的阶段，与其急着下判断，不如盯住接下来一两周有没有可验证的后续动作。"
+   }
+  ],
+  "word_count": 614
+ },
+ "ai_enhanced": false,
+ "schema": 1,
+ "window_bj": {
+  "start": "2026-11-13 00:00",
+  "end": "2026-11-13 09:00"
+ }
+}
