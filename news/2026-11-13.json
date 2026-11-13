@@ -1,7 +1,7 @@
 {
  "date": "2026-11-13",
- "generated_at": 1794569661.2546585,
- "count": 340,
+ "generated_at": 1794573313.0118222,
+ "count": 351,
  "items": [
   {
    "id": "43d47aa55555f769",
@@ -31,6 +31,87 @@
    "published_bj": "2026-11-13 21:00"
   },
   {
+   "id": "a114674a45e58529",
+   "source": "TechCrunch",
+   "title": "Jensen Huang didn’t show confidence in his successor, report says",
+   "url": "https://techcrunch.com/2026/11/13/jensen-huang-didnt-show-confidence-in-his-successor-report-says/",
+   "summary": "Huang described Kress as a \"deer in the headlights\" during a meeting in summer.",
+   "published_at": 1794572903.0,
+   "published_bj": "2026-11-13 20:28"
+  },
+  {
+   "id": "2d4e722f10b97e47",
+   "source": "Hacker News",
+   "title": "\"Doomsday: Friday, 13 November, A.D. 2026 (1960)",
+   "url": "https://www.science.org/doi/10.1126/science.132.3436.1291",
+   "summary": "Article URL: https://www.science.org/doi/10.1126/science.132.3436.1291 Comments URL: https://news.ycombinator.com/item?id=50482379 Points: 6 # Comments: 0",
+   "published_at": 1794571824.0,
+   "published_bj": "2026-11-13 20:10"
+  },
+  {
+   "id": "b48920c4aac8a74a",
+   "source": "IT之家",
+   "title": "微信鸿蒙版 App 获 8.0.23.37 正式版更新",
+   "url": "https://www.ithome.com/1/026/940.htm",
+   "summary": "IT之家 11 月 13 日消息，微信鸿蒙版 App 今晚在华为应用市场（App Gallery）发布了 8.0.23.37 正式版更新。 与往常不同，本次更新日志没有任何内容。据博主 @伤心萨摩耶Ciuciu 反馈，8.0.23 版本的微信新增了如下特性： 部分 Flutter 跨端页面（如朋友圈、听一听等页面）响应系统字体粗细； 更换铃声选择界面右上角新增铃声设置入口，支持启用或停用个性化内容推荐； 发表视频号内容时新增添加标注，视频号已发布的内容点击分享同步新增添加标注； 发现 &gt; 直播 &gt; 更多直播新增搜索按钮； 听一听主页面右下角新增小微分支入口悬浮按钮，并根据当前页面内",
+   "published_at": 1794571734.0,
+   "published_bj": "2026-11-13 20:08"
+  },
+  {
+   "id": "7e728717cb71fc3b",
+   "source": "IT之家",
+   "title": "谷歌开源 WeatherNext 3 气象模型所用数据集：含 SatWeave 卫星影像拼接数据集与 PARDIG 全球降水信息",
+   "url": "https://www.ithome.com/1/026/939.htm",
+   "summary": "IT之家 11 月 13 日消息，谷歌 DeepMind 今天正式开放 WeatherNext 3 气象模型所依托的两大基础数据集 SatWeave 与 PARDIG，相应数据集面向全球研究者与开发者提供实时数据流及历史归档，可用于天气、水文、气候及相关下游应用建模。 据介绍，SatWeave 是一套整合多颗静止气象卫星的全球影像拼接产品，聚合了 GOES-East、GOES-West、Meteosat 0、Meteosat 印度洋星以及 Himawari 共 5 颗卫星的观测数据，解决了不同卫星在地图投影、文件格式、传感器与扫描节奏上的差异难题。该数据集每小时更新一次，并提供跨越十年以上的历",
+   "published_at": 1794571489.0,
+   "published_bj": "2026-11-13 20:04"
+  },
+  {
+   "id": "a37a5e08e37bb7d8",
+   "source": "IT之家",
+   "title": "消息称抖音向主播发送发布《GTA6》游戏直播规范：大尺度内容要遮挡",
+   "url": "https://www.ithome.com/1/026/938.htm",
+   "summary": "IT之家 11 月 13 日消息，据游民星空报道，随着《GTA6》发售临近，抖音平台向主播发布了一份《GTA6 抖音开播合规引导》，相应文档内容从抖音官方主播群流出，并未公开发布，主要是帮助为主播划定开播规则。 具体来看，相应文档要求主播应当遮挡大尺度内容，建议主播通过直播伴侣 LUT 滤镜、OBS 滤镜或显卡自带滤镜进行处理，或者直接使用游戏的“色盲模式”，将血液从红色变为绿色、灰色等其他颜色。 参考IT之家先前报道，Rockstar Games 于 11 月 12 日正式开通了经认证的抖音官方账号 ，认证主体为“ROCKSTAR INTERNATIONAL LIMITED”，IP 属地显示",
+   "published_at": 1794571361.0,
+   "published_bj": "2026-11-13 20:02"
+  },
+  {
+   "id": "0c0f8161f0c5fc24",
+   "source": "IT之家",
+   "title": "R 星放出《GTA6》新实机画面，展示了多辆豪华跑车在街道上行驶",
+   "url": "https://www.ithome.com/1/026/937.htm",
+   "summary": "IT之家 11 月 13 日消息，据 IGN 报道，Rockstar 今天再次于 Instagram 平台“Only in Dade”小号中更新《GTA 6》实机视频，主要展示了多辆豪华跑车在街道上行驶的视频，其画面表现力再次体现了《GTA 6》出色的图形保真度。 昨天首段视频曝光时，许多玩家一度认为画面由 AI 生成。直到 Rockstar 官方在 Instagram 上转发了相关内容后，玩家才发现这是真正的《GTA 6》游戏实机画面。 按照官方预热节奏，预计后续我们还能看到更多《GTA 6》实机视频，目前本作已经开放预载，玩家可以提前下载游戏以便届时快速开玩。",
+   "published_at": 1794570929.0,
+   "published_bj": "2026-11-13 19:55"
+  },
+  {
+   "id": "59ab5db63c6af566",
+   "source": "IT之家",
+   "title": "成品晶圆从下线至包装 100% 全自动化，京东推出半导体行业首个智能物流解决方案",
+   "url": "https://www.ithome.com/1/026/936.htm",
+   "summary": "IT之家 11 月 13 日消息，第二十三届中国国际半导体博览会 IC China 2026 昨日（12 日）在北京国家会议中心开幕。 京东物流参展并提出半导体行业首个智能物流解决方案，可实现半导体材料从仓储、分拣、出库、包装环节 100% 无人化 ，标志着高价值精密物料物流从单点自动化迈向系统级无人化。 官方表示，半导体正处在 AI 算力、汽车电子需求带动的扩产周期，物流效率直接影响产能释放。 行业里对稳定和安全性的要求极其苛刻 ：成品晶圆单件价值可达 50 万美元 （IT之家注：现汇率约合 334.3 万元人民币） ，一个仓库可存放数万件货品，金额高达数十亿美元；存储环境苛刻，需高度无尘、",
+   "published_at": 1794570641.0,
+   "published_bj": "2026-11-13 19:50"
+  },
+  {
+   "id": "60641b915dd942ac",
+   "source": "IT之家",
+   "title": "太空模拟游戏《星际公民》开启“IAE 2956”活动，玩家可免费试玩游戏半个月",
+   "url": "https://www.ithome.com/1/026/934.htm",
+   "summary": "IT之家 11 月 13 日消息，Cloud Imperium Games（CIG）宣布，旗下太空模拟游戏《星际公民》（Star Citizen）将于 11 月 13 日至 11 月 27 日开启“2956 年星际航空博览会（IAE 2956）”，玩家可以免费试玩游戏半个月，还能够在博览会展区的自助终端自由租赁超过 200 款飞船和地面载具。 本次活动还将选出今年「Ship Showdown」飞船对决比赛的最终获奖者。这项年度赛事由《星际公民》社区投票选出玩家最喜爱的飞船，最终四强将获得专属「Best in Show」载具涂装以及纪念挑战币。今年入围的四款飞船分别为 RSI Perseus、D",
+   "published_at": 1794570010.0,
+   "published_bj": "2026-11-13 19:40"
+  },
+  {
+   "id": "b1ceac93b6a9b4fb",
+   "source": "Hacker News",
+   "title": "Europe's electric car sales jump 49% as global EV sales grow",
+   "url": "https://electrek.co/2026/11/11/europes-electric-car-sales-jump-49-as-global-ev-sales-grow/",
+   "summary": "Article URL: https://electrek.co/2026/11/11/europes-electric-car-sales-jump-49-as-global-ev-sales-grow/ Comments URL: https://news.ycombinator.com/item?id=50482045 Points: 53 # Comments: 40",
+   "published_at": 1794569665.0,
+   "published_bj": "2026-11-13 19:34"
+  },
+  {
    "id": "bc12bf66637834e9",
    "source": "InfoQ中文",
    "title": "黄仁勋辞职：把扁平化推到极致的创始人，体面退场的代价",
@@ -38,6 +119,15 @@
    "summary": "点击查看原文>",
    "published_at": 1794569294.0,
    "published_bj": "2026-11-13 19:28"
+  },
+  {
+   "id": "2136b39f28d395f6",
+   "source": "IT之家",
+   "title": "爱好者将诺基亚 N-Gage 平台 2004 年游戏《上古卷轴旅行：暗影之钥》移植到 PC 平台，支持 4K 分辨率运行",
+   "url": "https://www.ithome.com/1/026/933.htm",
+   "summary": "IT之家 11 月 13 日消息，据外媒 arstechnica 报道，一位爱好者 Dan Whelan 将诺基亚 N-Gage 平台 2004 年发售的《上古卷轴旅行：暗影之钥（The Elder Scrolls Travels：Shadowkey）》游戏移植到了 PC 平台。 据报道，相应项目名为《Shadowkey: Reforged》，保留了原版游戏文件和脚本，引入全新编写的 PC 图形引擎，支持最高 4K 分辨率运行。 除了重新制作角色和环境模型的高分辨率贴图外，该版本还加入了泛光照明、动态水面等视觉效果，并升级了游戏界面和文字渲染效果，使其不再受到早期手机屏幕显示能力的限制。 从画",
+   "published_at": 1794569054.0,
+   "published_bj": "2026-11-13 19:24"
   },
   {
    "id": "abd2b19ba8b9158c",
@@ -299,6 +389,15 @@
    "summary": "IT之家 11 月 13 日消息，东风日产 NX7 今日开启预售，共推出 3 款车型， 预售价 12.99-14.99 万元 。 320 Pro：预售价 12.99 万元 320 Max：预售价 13.99 万元 320 Ultra 激光雷达版：预售价 14.99 万元 东风日产 NX7 拥有紫藤花、四叶草、曜石黑、珠玉白、岩山灰五款外观车色，新车长宽高分别为 4785/1932/1665mm，轴距 2815mm；延续 N 系列简约科技化设计语言，前脸采用分体式灯组布局，中央搭载可发光日产 LOGO，两侧设置空气导流槽，配备半隐藏式门把手。 新车搭载高通骁龙 8295P 座舱芯片，搭配全新 N",
    "published_at": 1794562150.0,
    "published_bj": "2026-11-13 17:29"
+  },
+  {
+   "id": "bb430a894bd603e0",
+   "source": "Hacker News",
+   "title": "Is there a 'right amount' of AI?",
+   "url": "https://coyotetracks.org/blog/right-amount-of-ai/",
+   "summary": "Article URL: https://coyotetracks.org/blog/right-amount-of-ai/ Comments URL: https://news.ycombinator.com/item?id=50480659 Points: 6 # Comments: 2",
+   "published_at": 1794562025.0,
+   "published_bj": "2026-11-13 17:27"
   },
   {
    "id": "620bd66bf6a61d4f",
