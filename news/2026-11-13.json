@@ -1,8 +1,152 @@
 {
  "date": "2026-11-13",
- "generated_at": 1794529290.1414113,
- "count": 99,
+ "generated_at": 1794534569.0863185,
+ "count": 116,
  "items": [
+  {
+   "id": "bbe0df10f0f8724a",
+   "source": "InfoQ中文",
+   "title": "谷歌推出 LiteRT Tensor API，用于构建、定制与优化端侧机器学习模型",
+   "url": "https://www.infoq.cn/article/joYjCTbwWFSkbACK5lje?utm_source=rss&utm_medium=article",
+   "summary": "点击查看原文>",
+   "published_at": 1794561420.0,
+   "published_bj": "2026-11-13 17:17"
+  },
+  {
+   "id": "a6eb4abafaaf9692",
+   "source": "IT之家",
+   "title": "中芯国际赵海军：第三季度平均晶圆单价环比提升 1.8%",
+   "url": "https://www.ithome.com/1/026/487.htm",
+   "summary": "IT之家 11 月 13 日消息，中芯国际联合 CEO 赵海军在第三季度业绩会上表示，第三季度，公司整体销售收入再创新高，达到 31.9 亿美元 （IT之家注：现汇率约合 213.25 亿元人民币） ， 环比增长 6.1% 。比起三个月前，客户对诸如 BCD、专用存储、Controller 等人工智能配套芯片提拉需求的增量速度比原先预期更快，使得第三季度收入超出指引上限。 赵海军表示，从价格的角度看，公司与客户协商的价格分批落地，产品组合持续优化， 平均晶圆单价环比提升 1.8% 。 中芯国际联合 CEO 赵海军表示，今年全年收入预计超过 120 亿美元 （现汇率约合 802.21 亿元人民币",
+   "published_at": 1794532662.0,
+   "published_bj": "2026-11-13 09:17"
+  },
+  {
+   "id": "b43b9d90ced1b6b5",
+   "source": "IT之家",
+   "title": "22999 元：华为 Mate XT 2 非凡大师三折叠手机新增 16GB+512GB 灵盾防窥屏，今日 10:08 开售",
+   "url": "https://www.ithome.com/1/026/486.htm",
+   "summary": "IT之家 11 月 13 日消息，华为发布预告，华为 Mate XT 2 非凡大师折叠屏手机新增 16GB+512GB 灵盾防窥屏，将于今日 10:08 开售。官方海报显示，该机售价 22999 元，提供锦紫、玄黑、皓白三款配色。 IT之家注意到，华为 Mate XT 2 非凡大师三折叠手机于今年 9 月发布，售价 19999 元起。该机采用全新的 G 型折叠设计，折叠厚度仅为 12.3mm，展开厚度仅为 3.5mm。 该手机的折叠内屏搭载 10.2 英寸大屏 ，支持 3K 超清显示、12.8:9 屏幕比例；外屏为 6.5 英寸 2442 x 1140 分辨率，支持 6,500 尼特峰值亮度。",
+   "published_at": 1794532355.0,
+   "published_bj": "2026-11-13 09:12"
+  },
+  {
+   "id": "7b061e55a6d4b8fa",
+   "source": "IT之家",
+   "title": "罕见双星系统被发现：每隔约 8 分钟向地球方向发出规律无线电脉冲",
+   "url": "https://www.ithome.com/1/026/484.htm",
+   "summary": "IT之家 11 月 13 日消息，澳大利亚科廷大学及国际射电天文学研究中心（ICRAR）的研究团队宣布， 发现一个距地球超过 5,000 光年的罕见双星系统，编号为 GPM J071507−114,153。 该系统由一颗白矮星和一颗类似太阳的 G 型恒星组成， 白矮星每约 7.9 分钟自转一周，并向地球方向发出规律的无线电脉冲。 相关研究已发表于《自然 · 天文学》。 白矮星是恒星耗尽燃料后留下的致密核心，体积小、密度极高。研究团队首先利用澳大利亚的默奇森宽视场阵列（MWA）在银河系巡天中发现该信号，随后借助南非 MeerKAT 射电望远镜定位，并通过夏威夷凯克天文台的光学观测确认其伴星是一颗",
+   "published_at": 1794532319.0,
+   "published_bj": "2026-11-13 09:11"
+  },
+  {
+   "id": "3dcc8e846338cad4",
+   "source": "IT之家",
+   "title": "徕卡 M-A/M11-P 锤纹版相机发布，5.6 万元起",
+   "url": "https://www.ithome.com/1/026/483.htm",
+   "summary": "IT之家 11 月 13 日消息，徕卡 11 月 12 日晚发布了 M-A 与 M11-P 相机的锤纹版， 定价分别为 5.6 万元和 7.8 万元 。 两款特别版相机的顶盖与底板部分均采用实心黄铜打造，覆以锤纹漆面，搭配白色填漆刻字。其中，M11-P 锤纹版采用全新圆润边角设计。 两款相机的技术规格与原版一致，徕卡 M-A 是一款胶片相机，采用全机械结构设计，无需电力驱动即可操作。 徕卡 M11-P 搭载 6000 万像素背照式感光元件，搭配防刮擦蓝宝石水晶显示屏，原版定价 7.38 万元起。",
+   "published_at": 1794532252.0,
+   "published_bj": "2026-11-13 09:10"
+  },
+  {
+   "id": "03af13d4869fe5fa",
+   "source": "IT之家",
+   "title": "中芯国际联合 CEO 赵海军：预计 2026 年收入超过 120 亿美元，全球设备交付周期拉长",
+   "url": "https://www.ithome.com/1/026/482.htm",
+   "summary": "IT之家 11 月 13 日消息，据科创板日报今日报道，中芯国际联合 CEO 赵海军表示，第四季度是行业传统淡季，但公司业绩淡季不淡。 虽然手机部分消费类订单有所走弱 ，但公司充分发挥多平台的协调性调配能力，将释放出来的产能向专用存储、BCD 等高要求高附加值产品倾斜。 报道提到，四季度该公司预计出货量保持稳健，产品组合变化及价格随行就市，推动平均销价上涨，预计收入环比增长 4%-6%。同时折旧、原材料等成本压力持续增加，以及四季度公司增加工程和研发投片量，使得产能利用率在扩产能持续释放的基础上会略有下降，所以给出的毛利率指引与上季度指引持平，为 26%-28%。 中芯国际联合 CEO 赵海军",
+   "published_at": 1794531909.0,
+   "published_bj": "2026-11-13 09:05"
+  },
+  {
+   "id": "f078a610698110ce",
+   "source": "IT之家",
+   "title": "30 分钟净买入 1.11 亿美元，散户逢低抢筹英伟达刷新 Vanda 统计纪录",
+   "url": "https://www.ithome.com/1/026/481.htm",
+   "summary": "IT之家 11 月 13 日消息，路透社今天（11 月 13 日）发布博文，报道称黄仁勋辞职消息传出后， 英伟达股价剧烈波动，散户投资者却加速入场。 IT之家援引博文介绍，Vanda Research 数据显示，本周一至周三， 英伟达连续成为 Vanda 统计样本中散户净买入最多的证券，本周散户购买英伟达股票的金额占散户净买入总金额的 61%。 资金需求还蔓延至杠杆类产品。Vanda 表示，周一至周三，散户向 6 只英伟达两倍做多 ETF 合计投入 4,250 万美元 （IT之家注：现汇率约合 2.84 亿元人民币） ，这也是有记录以来规模排名前三的三日资金流入。 周四美股开盘前 30 分钟，",
+   "published_at": 1794531859.0,
+   "published_bj": "2026-11-13 09:04"
+  },
+  {
+   "id": "26d5ef4182ca5e46",
+   "source": "IT之家",
+   "title": "中国科学家最新研究：诊断肥胖不能单凭 BMI，5.2~8.6% 的人被低估以及 1.2~3.1% 被高估",
+   "url": "https://www.ithome.com/1/026/480.htm",
+   "summary": "IT之家 11 月 13 日消息，据新华社昨日报道，华中科技大学公共卫生学院院长潘安教授团队联合多国专家完成了一项研究，已于 11 月 12 日发表在《自然》上。 该研究基于中国、英国、美国、西班牙四国四大队列、共计 84.4 万余名成年人的数据，系统验证了《柳叶刀-糖尿病与内分泌学》委员会 2025 年提出的精细化肥胖诊断框架。结论明确：仅凭 BMI 诊断肥胖，会造成相当比例的漏诊与误诊。 BMI 长期被用作肥胖筛查的核心指标，但它只能反映体重与身高的比例关系，无法区分增加的体重来自脂肪还是肌肉，也无法判断脂肪是否已对器官功能造成损害。 潘安在研究中指出，这一“天然缺陷”在临床中直接表现为两",
+   "published_at": 1794531803.0,
+   "published_bj": "2026-11-13 09:03"
+  },
+  {
+   "id": "cfd17f08a4ce2090",
+   "source": "IT之家",
+   "title": "上海海思推出 CS6286 图像传感器，将车载哨兵系统续航延长至 7 天以上",
+   "url": "https://www.ithome.com/1/026/479.htm",
+   "summary": "IT之家 11 月 13 日消息，11 月 12 日，上海海思推出全新 800 万像素图像传感器 CS6286，目前已进入量产阶段。 官方介绍称，它创新性地采用了“感算存一体”的架构，具备感侧（CIS 芯片）高精度智能分析、低功耗预录与全场景高动态成像等核心技术，为行车记录仪提供全新的“ 全天候智能哨兵 ”解决方案，满足智慧出行、车载安全等领域对长续航、高画质、高可靠性的严苛需求。 ▲ CS6286 成像效果 CS6286 采用 1/1.8\" 靶面与 2.0μm 像素尺寸设计，提供 800 万（3840×2160）物理分辨率，支持原生 4K@30fps HDR 视频录制。 传统后装行车记录仪方",
+   "published_at": 1794531543.0,
+   "published_bj": "2026-11-13 08:59"
+  },
+  {
+   "id": "1923b21eaa1fb1e4",
+   "source": "IT之家",
+   "title": "黄仁勋最激进 AI 赌局的“刹车手”：英伟达临时 CEO 克雷斯曾力主削减 2500 亿美元 OpenAI 豪赌",
+   "url": "https://www.ithome.com/1/026/478.htm",
+   "summary": "IT之家 11 月 13 日消息，科技媒体 The Information 昨日（11 月 12 日）发布博文，援引知情人士消息，英伟达临时 CEO 科莱特 · 克雷斯（Colette Kress）在担任公司财务负责人期间， 扮演财务“刹车手”的角色，曾多次对黄仁勋力推的高风险交易提出保留意见。 消息称克雷斯曾经多次抵制黄仁勋力推的交易，而且在过去几个月时间里，她还着力寻找方法，避免英伟达的财务风险过度集中于少数几家公司。 而其中最具代表性的一项，涉及针对 OpenAI 公司的拟议方案，该方案将为 OpenAI 提供 2,500 亿美元 （IT之家注：现汇率约合 1.67 万亿元人民币） 的信",
+   "published_at": 1794531130.0,
+   "published_bj": "2026-11-13 08:52"
+  },
+  {
+   "id": "8cd3cb8625aa6829",
+   "source": "少数派",
+   "title": "派早报：英伟达 CEO 黄仁勋宣布辞职等",
+   "url": "https://sspai.com/post/118966",
+   "summary": "2026 年金摇杆奖获奖名单公布，Apex Compute 推出跨平台 AI 帧生成技术 ANR 等。 查看全文",
+   "published_at": 1794530897.0,
+   "published_bj": "2026-11-13 08:48"
+  },
+  {
+   "id": "908abd6a8c94fa36",
+   "source": "IT之家",
+   "title": "苹果首款智能家庭中枢 HomeView 及新款 Apple TV 4K 上市，首批订单已送至澳新客户手中",
+   "url": "https://www.ithome.com/1/026/476.htm",
+   "summary": "IT之家 11 月 13 日消息，苹果 HomeView 于当地时间 11 月 13 日正式开售。由于时区的原因，澳大利亚和新西兰首批预购用户的订单已率先送达。 另外，由于新西兰没有 Apple 零售店，澳大利亚消费者成为首批能在 Apple Store 内直接购买该设备的用户。 HomeView 定位苹果首款智能家庭中枢，功能介于小型 iPad 与 HomePod 之间。桌面版配备 7 英寸方形屏幕，屏幕通过不锈钢铰链连接半球形扬声器底座，支持倾斜调节；另有不附带底座的壁挂版本。设备搭载 1200 万像素摄像头，可通过面部识别区分最多六位家庭成员，并在信息、FaceTime、日历等应用中切换",
+   "published_at": 1794530792.0,
+   "published_bj": "2026-11-13 08:46"
+  },
+  {
+   "id": "4b8aa29a4926e710",
+   "source": "Hacker News",
+   "title": "Chicago schools to Google – we'd rather lose Search than be forced to accept AI",
+   "url": "https://www.techspot.com/news/114532-chicago-schools-tell-google-they-can-live-without.html",
+   "summary": "Article URL: https://www.techspot.com/news/114532-chicago-schools-tell-google-they-can-live-without.html Comments URL: https://news.ycombinator.com/item?id=50476586 Points: 15 # Comments: 2",
+   "published_at": 1794530321.0,
+   "published_bj": "2026-11-13 08:38"
+  },
+  {
+   "id": "c9b3c23e71aecd19",
+   "source": "IT之家",
+   "title": "电影《饥饿游戏：收获日出》定档 11 月 20 日内地上映，全新中字预告发布",
+   "url": "https://www.ithome.com/1/026/475.htm",
+   "summary": "IT之家 11 月 13 日消息，《饥饿游戏》前传电影《饥饿游戏：收获日出》将于 11 月 20 日在中国内地上映（同步北美），官方现已公布定档海报及中字预告。 IT之家查询获悉，新片《饥饿游戏：收获日出》由弗朗西斯・劳伦斯回归执导，编剧为系列电影联合编剧比利・雷，詹妮弗 · 劳伦斯、乔什 · 哈切森将客串出演。电影设定在第一部前传《饥饿游戏：鸣鸟与蛇之歌》的 40 年后， 将围绕着 16 岁的黑密斯展开 。 影片改编自苏珊・柯林斯同名小说，是继《饥饿游戏：鸣鸟与蛇之歌》后的又一前传作品，聚焦第 50 届饥饿游戏（即第二届“世纪极限赛”），讲述年轻时期的黑密斯・阿伯纳西（Haymitch Ab",
+   "published_at": 1794530044.0,
+   "published_bj": "2026-11-13 08:34"
+  },
+  {
+   "id": "d89732d68f9ff844",
+   "source": "IT之家",
+   "title": "微软承认 Windows 11 月更新后激活命令失效，企业 KMS 配置可能报错 0x80041008",
+   "url": "https://www.ithome.com/1/026/474.htm",
+   "summary": "IT之家 11 月 13 日消息，微软确认，2026 年 11 月 10 日发布的 Windows 安全更新引发了一项新的激活与许可证管理问题，部分设备在执行 Windows 激活、密钥管理服务（KMS）配置及产品密钥管理操作时，可能出现错误代码 0x80041008。 根据微软官方发布的更新说明，受影响的设备可能显示“Invalid parameter（SWbemObjectEx）”错误，导致相关命令执行失败。 目前已确认的问题涉及 Windows Server 2025 的 KB5131080 更新，以及其他 Windows 版本的 2026 年 11 月安全更新。具体来看，微软发现以下两",
+   "published_at": 1794529893.0,
+   "published_bj": "2026-11-13 08:31"
+  },
+  {
+   "id": "b2ecdcaa168ca97b",
+   "source": "IT之家",
+   "title": "时隔近九年《德军总部 3》官宣，由微软 Xbox 贝塞斯达旗下 MachineGames 工作室开发",
+   "url": "https://www.ithome.com/1/026/473.htm",
+   "summary": "IT之家 11 月 13 日消息，微软 Xbox 首席执行官阿莎・夏尔马（Asha Sharma）正式公布了《德军总部 3》（Wolfenstein 3），由 Bethesda 旗下 MachineGames 工作室负责开发。她表示，期待未来分享更多消息。 这款作品将延续《德军总部》重启系列的故事，目前已经进入制作阶段，但官方尚未公布具体发售日期、登陆平台及售价。 在阿莎・夏尔马发文后，MachineGames 随后也发布消息，确认《德军总部 3》正在制作中，并公开了一张动作捕捉拍摄现场的照片。 据 IGN 报道，系列主角威廉・约瑟夫・布拉斯科维奇（William Joseph “BJ” Bl",
+   "published_at": 1794529313.0,
+   "published_bj": "2026-11-13 08:21"
+  },
   {
    "id": "f13de8b2267548fd",
    "source": "IT之家",
@@ -434,6 +578,15 @@
    "summary": "Hey HN! I'm Lakshay. Raveen and I have built Cerulion, a ROS2-compatible robotics runtime written in Rust. We've worked hard on lowering IPC transport latencies without making the single process tradeoff or forcing POD message types. These fast multi-process graphs can then be resimmed deterministic",
    "published_at": 1794516784.0,
    "published_bj": "2026-11-13 04:53"
+  },
+  {
+   "id": "1645e8cd9b89e711",
+   "source": "Hacker News",
+   "title": "Announcement: Conductor Is Back",
+   "url": "https://twitter.com/charlieholtz/status/2120973052024598620",
+   "summary": "Article URL: https://twitter.com/charlieholtz/status/2120973052024598620 Comments URL: https://news.ycombinator.com/item?id=50473888 Points: 6 # Comments: 1",
+   "published_at": 1794515875.0,
+   "published_bj": "2026-11-13 04:37"
   },
   {
    "id": "ce08a89a8c707f34",
