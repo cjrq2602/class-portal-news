@@ -1,8 +1,71 @@
 {
  "date": "2026-11-15",
- "generated_at": 1794678898.8828013,
- "count": 5,
+ "generated_at": 1794681216.7206657,
+ "count": 16,
  "items": [
+  {
+   "id": "c3126058bb63741c",
+   "source": "cnBeta",
+   "title": "Google为Gemini推出个人财务分析功能 接入银行账户和信用卡 帮用户分析收支",
+   "url": "https://www.cnbeta.com.tw/articles/tech/1586428.htm",
+   "summary": "Google正在进一步扩大Gemini人工智能助手的个人信息整合能力。当地时间11月13日，Google宣布为Gemini推出全新的个人财务分析功能，通过整合Google Wallet（Google钱包）以及第三方金融数据服务Plaid，允许用户将银行账户、信用卡等金融账户连接到Gemini，让AI直接读取个人交易记录，分析消费习惯、追踪资金流向，并根据实际财务状况制定预算和储蓄计划。 阅读全文",
+   "published_at": 1794679446.0,
+   "published_bj": "2026-11-15 02:04"
+  },
+  {
+   "id": "b192d80a1fb26204",
+   "source": "cnBeta",
+   "title": "微软365大规模故障冲击日企 传真机与固定电话“被迫营业”",
+   "url": "https://www.cnbeta.com.tw/articles/tech/1586426.htm",
+   "summary": "微软本周发生的大规模Microsoft 365服务中断事件，给日本企业和政府机构带来了广泛影响。由于多项云服务无法正常使用，大量组织不得不重新启用传真机和固定电话等传统通信工具，以维持日常业务运转。一些缺乏备用方案的机构则被迫暂停工作。 阅读全文",
+   "published_at": 1794679414.0,
+   "published_bj": "2026-11-15 02:03"
+  },
+  {
+   "id": "07f02409330382d6",
+   "source": "cnBeta",
+   "title": "​新加坡澄清未调查黄乐涉间谍案 但曾调查她在Megaspeed相关案件中的角色",
+   "url": "https://www.cnbeta.com.tw/articles/tech/1586424.htm",
+   "summary": "新加坡内政部否认《华尔街日报》报道所称政府官员曾因黄乐与英伟达前首席执行官黄仁勋的关系，或怀疑她是中国情报人员而对她展开调查。内政部表示，政府此前回复报社的内容并未提到黄仁勋、情报活动或相关担忧。不过，内政部11月12日公布的后续说明显示，新加坡警方和海关确实曾调查黄乐在Megaspeed服务器采购案中的角色，调查对象是涉嫌违反新加坡法律的行为，并非间谍活动。 阅读全文",
+   "published_at": 1794679350.0,
+   "published_bj": "2026-11-15 02:02"
+  },
+  {
+   "id": "7cc19a18ff9772f6",
+   "source": "cnBeta",
+   "title": "混合动力水上货机M1 Hybrid亮相 电力助推起飞六分钟 续航可达1850公里",
+   "url": "https://www.cnbeta.com.tw/articles/tech/1586422.htm",
+   "summary": "美国佛罗里达州航空企业Maxwell Aircraft近日公布了一款名为M1 Hybrid的两栖混合动力货运飞机。该机型采用独特的柴油与电动混合推进方案，利用电动机在起飞阶段提供强劲动力，随后由柴油发动机接管巡航飞行，从而兼顾高功率起降能力和长距离运输效率。 阅读全文",
+   "published_at": 1794679311.0,
+   "published_bj": "2026-11-15 02:01"
+  },
+  {
+   "id": "c66d8082f9feeb32",
+   "source": "TechCrunch",
+   "title": "Got an iPhone Duo? These 9 settings make it easier to use",
+   "url": "https://techcrunch.com/2026/11/14/got-an-iphone-duo-these-9-settings-make-it-easier-to-use/",
+   "summary": "From Touch ID shortcuts to smarter volume buttons and camera tricks, these tweaks make Apple's foldable iPhone easier to use every day.",
+   "published_at": 1794679200.0,
+   "published_bj": "2026-11-15 02:00"
+  },
+  {
+   "id": "2f7e34cd33c697f1",
+   "source": "Hacker News",
+   "title": "The VHDL standard's float package gets sqrt(2) wrong",
+   "url": "https://github.com/lmtlssss/speedrunpapi/tree/main/hardware/audit/ieee-float-pkg",
+   "summary": "Article URL: https://github.com/lmtlssss/speedrunpapi/tree/main/hardware/audit/ieee-float-pkg Comments URL: https://news.ycombinator.com/item?id=50499188 Points: 4 # Comments: 0",
+   "published_at": 1794679138.0,
+   "published_bj": "2026-11-15 01:58"
+  },
+  {
+   "id": "8b3a9cb0183d6254",
+   "source": "Hacker News",
+   "title": "A Family Tree of Software Job Titles",
+   "url": "https://zwischenzugs.com/2026/11/03/a-family-tree-of-software-job-titles/",
+   "summary": "Article URL: https://zwischenzugs.com/2026/11/03/a-family-tree-of-software-job-titles/ Comments URL: https://news.ycombinator.com/item?id=50499038 Points: 14 # Comments: 3",
+   "published_at": 1794678319.0,
+   "published_bj": "2026-11-15 01:45"
+  },
   {
    "id": "a3cd725bf661e51c",
    "source": "TechCrunch",
@@ -13,6 +76,24 @@
    "published_bj": "2026-11-15 01:45"
   },
   {
+   "id": "75a5885c6eeaab1e",
+   "source": "Hacker News",
+   "title": "Lovable apps expose passport details and more than 200K private messages",
+   "url": "https://www.crissyfield.de/research/lovable-en/",
+   "summary": "Article URL: https://www.crissyfield.de/research/lovable-en/ Comments URL: https://news.ycombinator.com/item?id=50499017 Points: 66 # Comments: 15",
+   "published_at": 1794678190.0,
+   "published_bj": "2026-11-15 01:43"
+  },
+  {
+   "id": "0a75c54f5f449700",
+   "source": "Hacker News",
+   "title": "Will We Put Data Centers in Space?",
+   "url": "https://www.forethought.org/research/will-we-really-put-data-centers-in-space",
+   "summary": "Article URL: https://www.forethought.org/research/will-we-really-put-data-centers-in-space Comments URL: https://news.ycombinator.com/item?id=50498945 Points: 4 # Comments: 5",
+   "published_at": 1794677733.0,
+   "published_bj": "2026-11-15 01:35"
+  },
+  {
    "id": "ace741c7d5d2543f",
    "source": "TechCrunch",
    "title": "The AI graveyard: a running list of projects and startups that didn’t make it",
@@ -20,6 +101,15 @@
    "summary": "From Apple's repeatedly delayed Siri AI to OpenAI's messy \"super app\" launch, here's a look at the AI projects that shut down or missed expectations.",
    "published_at": 1794677400.0,
    "published_bj": "2026-11-15 01:30"
+  },
+  {
+   "id": "9cc2f46acb16c27c",
+   "source": "Solidot",
+   "title": "美国失去麻疹消除地位",
+   "url": "https://www.solidot.org/story?sid=85889",
+   "summary": "受益于疫苗接种，美国自 2000 年起被认定“消灭”了麻疹。但最近几年疫苗接种率持续下降，麻疹卷土重来在美国多地再次流行。如果由同一毒株引起的感染在同一国家内持续发生人际传播，且时间至少达到一年，那么该感染即被视为“地方性流行”，即失去消除地位。犹他州的研究人员今年 8 月报告，麻疹同一毒株引起的感染在该州持续传播超过一年。今年美国已报告逾 5400 例麻疹病例，创下自 1991 年以来的最高纪录。今年报告的病例几乎所有患者此前都未接种过麻疹、腮腺炎和风疹（MMR）疫苗，或者其疫苗接种状况不明。根据美国各州的报告，至少 10 人在感染麻疹后死亡。",
+   "published_at": 1794675175.0,
+   "published_bj": "2026-11-15 00:52"
   },
   {
    "id": "4d8a437d7f983a76",
@@ -38,6 +128,15 @@
    "summary": "Article URL: https://soargram.io/content/369523282 Comments URL: https://news.ycombinator.com/item?id=50498151 Points: 21 # Comments: 12",
    "published_at": 1794672657.0,
    "published_bj": "2026-11-15 00:10"
+  },
+  {
+   "id": "9f5b923977ebfbcb",
+   "source": "Hacker News",
+   "title": "How to Create Your Own Decentralized Messenger Protocol",
+   "url": "https://karboosx.net/post/5j7jdDM3/how-to-create-your-own-decentralized-messenger-protocol",
+   "summary": "Article URL: https://karboosx.net/post/5j7jdDM3/how-to-create-your-own-decentralized-messenger-protocol Comments URL: https://news.ycombinator.com/item?id=50498073 Points: 14 # Comments: 3",
+   "published_at": 1794672064.0,
+   "published_bj": "2026-11-15 00:01"
   },
   {
    "id": "4f0517dd0407ea18",
