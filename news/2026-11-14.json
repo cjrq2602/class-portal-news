@@ -1,7 +1,7 @@
 {
  "date": "2026-11-14",
- "generated_at": 1794660180.1885097,
- "count": 257,
+ "generated_at": 1794663919.902401,
+ "count": 267,
  "items": [
   {
    "id": "2d9231dd6f4bf41f",
@@ -11,6 +11,96 @@
    "summary": "点击查看原文>",
    "published_at": 1794668400.0,
    "published_bj": "2026-11-14 23:00"
+  },
+  {
+   "id": "fa8e0664a807b41c",
+   "source": "cnBeta",
+   "title": "Meta被意大利数据保护机构罚款8.07亿欧元",
+   "url": "https://www.cnbeta.com.tw/articles/tech/1586416.htm",
+   "summary": "意大利数据保护机构周六表示，已对美国科技巨头Meta Platforms处以 8.05 亿欧元（约合 8.87 亿美元）罚款，原因是调查发现该公司在未经用户同意且未告知用户的情况下，访问了安卓（Android）用户的照片和视频。这笔罚款相当于Meta全球营收的约0.47%。 阅读全文",
+   "published_at": 1794661924.0,
+   "published_bj": "2026-11-14 21:12"
+  },
+  {
+   "id": "aa70a7e7e9b83bfe",
+   "source": "cnBeta",
+   "title": "日本RTX 5090与RTX 5080价格意外大跳水 最高降幅超22%",
+   "url": "https://www.cnbeta.com.tw/articles/tech/1586414.htm",
+   "summary": "就在英伟达创始人兼长期掌舵者黄仁勋宣布辞去首席执行官职务后，日本显卡市场出现了一项引人关注的变化。多家日本媒体报道称，高端GeForce RTX 50系列显卡价格在短时间内突然大幅下调，其中RTX 5090和RTX 5080的降价幅度最高超过22%。 阅读全文",
+   "published_at": 1794661789.0,
+   "published_bj": "2026-11-14 21:09"
+  },
+  {
+   "id": "51c89475ef2693e6",
+   "source": "IT之家",
+   "title": "华大九天联合大湾区基金完成国产数字前端 EDA 专业化整合，新公司“新禹思”成立",
+   "url": "https://www.ithome.com/1/027/230.htm",
+   "summary": "IT之家 11 月 14 日消息，在第二十三届中国国际半导体博览会（IC China）期间，北京华大九天科技股份有限公司与粤港澳大湾区科技创新产业投资基金，在北京 · 国家会议中心联合举行“ 国产数字前端 EDA 新平台发布会 ”，宣布亚科鸿禹与思尔芯合并重组，新平台公司“新禹思”（HyperS2C）正式成立。 官方表示，此次思尔芯与亚科鸿禹的整合并非简单的企业合并，而是国内两大头部数字 EDA 企业的优势互补、能力重构与生态完善。 整合后的新禹思，拥有专利 205 项、软件著作权 200 项， 具备覆盖从架构设计到系统级验证的数字前端全流程供给能力 ，服务全球客户超过 800 家，实现了技术",
+   "published_at": 1794661624.0,
+   "published_bj": "2026-11-14 21:07"
+  },
+  {
+   "id": "be677de198735064",
+   "source": "IT之家",
+   "title": "白宫“超级智能工作组”呼吁放宽问责政策，鼓励 AI 企业报告网络安全事件",
+   "url": "https://www.ithome.com/1/027/229.htm",
+   "summary": "IT之家 11 月 14 日消息，据彭博社报道，当地时间 13 日，美国政府新设的“超级智能工作组”在白宫开会， 建议联邦机构放宽网络安全事件的问责政策，鼓励 AI 企业主动报告重大安全事件 。 一名不愿具名的政府官员透露，工作组认为，过去处理网络安全事件时采用的监管处罚标准可能不再适用，甚至会 让企业不敢分享重要的安全信息 。 工作组因此敦促各机构，未来 12 个月内应限制企业因安全事件承担的监管责任，并考虑进一步延长期限。 此次政策建议意味着工作组的立场发生转变，从此前倾向于 依法处罚开发不安全产品的企业 ，改为通过 减轻责任鼓励 AI 开发商报告安全事件 。就在上个月，工作组还警告开发商",
+   "published_at": 1794661402.0,
+   "published_bj": "2026-11-14 21:03"
+  },
+  {
+   "id": "37a4ab4b5344cb13",
+   "source": "IT之家",
+   "title": "英伟达副总裁卡坦扎罗否认签署要求前 CEO 黄仁勋复职的公开信，表态支持董事会和临时 CEO 克雷斯",
+   "url": "https://www.ithome.com/1/027/228.htm",
+   "summary": "IT之家 11 月 14 日消息，英伟达应用深度学习研究副总裁布莱恩 · 卡坦扎罗（Bryan Catanzaro）在社交平台 X 上公开发文辟谣，否认自己参与签署网传要求前 CEO 黄仁勋复职的公开信，称该信件系伪造，并明确表态支持英伟达董事会及临时 CEO 科莱特 · 克雷斯（Colette Kress）。 布莱恩 · 卡坦扎罗声称，即便（公开信）是真的，他也不会签字。 IT之家注意到，黄仁勋离任后，网络上流传出一封公开信，以布莱恩 · 卡坦扎罗在内的多名英伟达高管与员工名义要求董事会让黄仁勋复职。 据悉，该公开信之所以很快被识破，除了布莱恩 · 卡坦扎罗下场辟谣外，还因为信件文本直接照搬",
+   "published_at": 1794660355.0,
+   "published_bj": "2026-11-14 20:45"
+  },
+  {
+   "id": "cb94a77d5170f2a4",
+   "source": "Hacker News",
+   "title": "Tech Companies Are Trying to Shift the Concept of Privacy (Again)",
+   "url": "https://www.eff.org/deeplinks/2026/11/tech-companies-are-trying-shift-entire-concept-privacy-again",
+   "summary": "Article URL: https://www.eff.org/deeplinks/2026/11/tech-companies-are-trying-shift-entire-concept-privacy-again Comments URL: https://news.ycombinator.com/item?id=50496602 Points: 16 # Comments: 0",
+   "published_at": 1794660345.0,
+   "published_bj": "2026-11-14 20:45"
+  },
+  {
+   "id": "3da46f6a3f49917e",
+   "source": "IT之家",
+   "title": "Facebook 擅自读取意大利用户相册，Meta 被处以 8.05 亿欧元重罚",
+   "url": "https://www.ithome.com/1/027/227.htm",
+   "summary": "IT之家 11 月 14 日消息，因在 未经意大利用户单独授权、也未充分告知用户 的情况下，通过 Android 版 Facebook 应用读取手机中保存的照片、视频及附带的元数据，意大利数据保护局今天（14 日）对 Meta 开出 8.05 亿欧元 （IT之家注：现汇率约合 59.36 亿元人民币） 罚单。 意大利数据保护局声明指出，此次处罚针对的是 Facebook 于 2023 年开始提供的“ 浏览 Facebook 时获取相册推荐 ”功能。用户浏览 Facebook 期间，该功能会 自动推荐手机相册中的照片和视频，作为发帖素材 。 2025 年 7 月，意大利数据保护局接到博尔扎诺消费",
+   "published_at": 1794660171.0,
+   "published_bj": "2026-11-14 20:42"
+  },
+  {
+   "id": "050b18021e1323a2",
+   "source": "IT之家",
+   "title": "借助 Claude 和 Arduino 开发板，达人让 1994 款切诺基通过加州排放检测",
+   "url": "https://www.ithome.com/1/027/226.htm",
+   "summary": "IT之家 11 月 14 日消息，当地时间 13 日，据外媒 Tom's Hardware 报道，美国的一名 AI 爱好者穆罕默德 · 祖拉利靠着 AI 和简单的电子接线操作，成功让一辆有 32 年车龄的 1994 款 Jeep 切诺基通过了美国加州的尾气检测。 这辆老车的发动机电脑功能十分有限，但祖拉利借助 Arduino Nano 开发板将其连接到笔记本电脑后， 不仅能够读取车辆数据，还逐步实现了对部分参数的控制 。 其发布的视频记录了祖拉利解决尾气排放问题的全过程：从连续检测不合格，到成功连接发动机电脑并读取数据，再到 调整发动机、解决排放超标问题 。整个过程中，Claude 负责指导，",
+   "published_at": 1794659789.0,
+   "published_bj": "2026-11-14 20:36"
+  },
+  {
+   "id": "14525ebd2ed5124d",
+   "source": "IT之家",
+   "title": "微软大规模宕机后，开源办公套件 LibreOffice 单日收到超 1000 笔捐款创历史新高",
+   "url": "https://www.ithome.com/1/027/225.htm",
+   "summary": "IT之家 11 月 14 日消息，当地时间 11 月 14 日，开源办公套件 LibreOffice 背后的非营利组织文档基金会（The Document Foundation）发文宣布，昨天（13 日）文档基金会 单日收到超过 1,000 笔捐款，创造历史纪录 。 官方表示，虽然并不对其他组织所面临的运营问题感到幸灾乐祸，但这一时间节点表明，许多人正在重新审视自己在文档方面对单一云服务提供商的依赖。 使用 LibreOffice，您的文档均存储在本地，开放文档格式（ODF）文件也完全归作者本人所有，而非属于任何服务提供商。 向每一位捐款人致以衷心感谢。正是你们的支持，让这款软件以及这些开放标",
+   "published_at": 1794659057.0,
+   "published_bj": "2026-11-14 20:24"
+  },
+  {
+   "id": "c6cd609767b73b3b",
+   "source": "IT之家",
+   "title": "Meta Quest App 商业模式生变：应用内购吸金能力已超越付费 App，成 Horizon 商店核心收入来源",
+   "url": "https://www.ithome.com/1/027/224.htm",
+   "summary": "IT之家 11 月 14 日消息，Meta 发文，透露 2026 年 1 月至 9 月期间，Quest 平台应用内购已经超过付费应用销售，成为 Meta Horizon 商店最大的收入来源。 对于一直关注 Quest 平台发展趋势的用户而言，这一变化并不令人意外。早在 2022 年，免费游戏《Gorilla Tag》就已经在用户评价数量上超过了当时被认为是最成功 VR 游戏的《Beat Saber》。如今，《Gorilla Tag》已经成为 Quest 平台少数用户评价数量突破 10 万条的应用之一，不过目前又被另外两款免费游戏《Animal Company》和《UG》超越。 对此，外媒 Up",
+   "published_at": 1794659001.0,
+   "published_bj": "2026-11-14 20:23"
   },
   {
    "id": "7fb45944678a9365",
