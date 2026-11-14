@@ -1,7 +1,7 @@
 {
  "date": "2026-11-14",
- "generated_at": 1794649137.347042,
- "count": 232,
+ "generated_at": 1794651823.047315,
+ "count": 242,
  "items": [
   {
    "id": "2d9231dd6f4bf41f",
@@ -11,6 +11,51 @@
    "summary": "点击查看原文>",
    "published_at": 1794668400.0,
    "published_bj": "2026-11-14 23:00"
+  },
+  {
+   "id": "34146930eb470f41",
+   "source": "IT之家",
+   "title": "美国举行首届 AI 音乐奖颁奖典礼，入围者坦言背后同样凝聚真人心血",
+   "url": "https://www.ithome.com/1/027/210.htm",
+   "summary": "IT之家 11 月 14 日消息，据路透社报道，当地时间 13 日，美国首届 AI 音乐奖颁奖典礼正式举行，表彰利用 AI 参与歌曲创作的音乐人。 AI 音乐虽然饱受争议，甚至引发诉讼，但仍在流媒体平台获得数百万次播放，并成功登上音乐排行榜。 在洛杉矶市中心举行的颁奖典礼上，负责颁奖和领奖的真人音乐人认为，AI 音乐应该被视为 一种新的音乐类型 。创作者 不仅需要具备艺术才能，还要花上数小时反复调整提示词 ，才能得到满意的音乐效果。 音乐制作人德雷克 · 墨菲在颁发最佳 AI 嘻哈歌曲奖时说：“在人人都说 AI 是假的时代，AI 背后的创作者却是真实存在的。” 当晚的年度 AI 艺人、年度歌曲",
+   "published_at": 1794651778.0,
+   "published_bj": "2026-11-14 18:22"
+  },
+  {
+   "id": "7553c4cae450874c",
+   "source": "cnBeta",
+   "title": "没有车机导航怎么办 这家车企直接卖纸质地图当GPS",
+   "url": "https://www.cnbeta.com.tw/articles/tech/1586404.htm",
+   "summary": "美国电动车初创企业Slate Auto本周四在其在线商店上架了一款令人意想不到的产品，一本Rand McNally 2027版道路地图册，售价30美元（快科技注：折合人民币约200元），限量发售。官方将其称为“原始导航系统”，也叫“无屏GPS”。 阅读全文",
+   "published_at": 1794651765.0,
+   "published_bj": "2026-11-14 18:22"
+  },
+  {
+   "id": "5498bfe9bd3ed556",
+   "source": "IT之家",
+   "title": "星闪智能家电 OpenLab 实验室正式投运：九方共建，覆盖芯片到整机全链条",
+   "url": "https://www.ithome.com/1/027/209.htm",
+   "summary": "IT之家 11 月 14 日消息，国际星闪联盟今日发文宣布，星闪智能家电（上海）创新实验室（简称星闪智能家电 OpenLab）此前以高分通过验收并获正式授牌，成为国际星闪联盟第四家官方授权 OpenLab，也是首个面向智能家电领域的开放创新平台。目前， 实验室已正式投入运营 。 星闪（NearLink）作为新一代无线短距通信技术，具备低时延、高可靠、精定位、抗干扰、多并发等特性。官方表示，在智能家电领域，星闪数传、感知、定位以及灵活组网能力已经催生出一批新场景： 在电视周边，星闪指向遥控为全区影音娱乐带来全新沉浸式体验； 在白电周边，星闪通感一体让全屋家电变得更智能； 在路由器周边，宽窄一张网",
+   "published_at": 1794651710.0,
+   "published_bj": "2026-11-14 18:21"
+  },
+  {
+   "id": "851311e23a215691",
+   "source": "IT之家",
+   "title": "遭遇全球规模最大加密货币盗窃后，币安目标下周全面恢复提现服务",
+   "url": "https://www.ithome.com/1/027/198.htm",
+   "summary": "IT之家 11 月 14 日消息，全球最大加密货币交易所币安在上个月遭黑客攻击，价值 63 亿美元 （IT之家注：现汇率约合 421.15 亿元人民币） 的资产被盗走后，业务运营正逐步恢复。 币安今天宣布，计划在下周结束前 全面恢复尚未开放的提现服务 。“本周，我们恢复了 87 条网络的提现服务。我们的 目标是在下周结束前 恢复其余所有网络和资产的提现服务。” 本月早些时候，币安在补足 95% 的被盗资产损失后， 开始分阶段恢复提现 。此次被盗资产总价值 63 亿美元 （现汇率约合 421.15 亿元人民币） ，被专家认为是史上规模最大的加密货币盗窃案。 币安在初步调查报告中披露，黑客从 6 ",
+   "published_at": 1794651009.0,
+   "published_bj": "2026-11-14 18:10"
+  },
+  {
+   "id": "fecad7a8ea7157fe",
+   "source": "IT之家",
+   "title": "Cloudflare 开源为 AI 智能体打造的浏览器 Kitesurf，消耗资源低于 Chromium",
+   "url": "https://www.ithome.com/1/027/197.htm",
+   "summary": "IT之家 11 月 14 日消息，今年 8 月，Cloudflare 推出专为 AI 智能体打造的浏览器 Kitesurf。当地时间 11 月 13 日，Cloudflare 宣布开源 Kitesurf。 据介绍，Kitesurf 运行在 Cloudflare Workers 之上，无需依赖传统的浏览器容器，即可完成 HTML 解析、CSS 应用、执行页面中的 JavaScript 以及网页截图渲染。 同时，它支持 Chrome 开发者工具协议（Chrome DevTools Protocol），用户可以直接使用现有工具对其进行驱动，底层完全无需依赖任何 Chromium 进程或容器。 官方表",
+   "published_at": 1794650761.0,
+   "published_bj": "2026-11-14 18:06"
   },
   {
    "id": "189685d91dda2145",
@@ -29,6 +74,42 @@
    "summary": "点击查看原文>",
    "published_at": 1794650400.0,
    "published_bj": "2026-11-14 18:00"
+  },
+  {
+   "id": "66d18fb07bce291d",
+   "source": "IT之家",
+   "title": "212 T10 将于广州车展上市：三门越野车、可拆卸车顶",
+   "url": "https://www.ithome.com/1/027/188.htm",
+   "summary": "IT之家 11 月 14 日消息，据汽车之家消息，212 T10 将于广州车展上市，新车是一款三门车型，搭载与 212 T01 同款 2.0T 汽油发动机。 IT之家从申报信息获悉，该车长宽高分别为 4416/1955/1925mm，轴距为 2570mm。 这款车主打复古风，轮廓硬朗方正，配有圆形车灯和粗壮的前格栅，以及大尺寸前保险杠。此外，该车最大的特征是采用三门四座设计，并配有可拆卸车顶；尾门也是经典的侧开方式，搭配外挂式备胎，配备分体式车灯。 动力方面，新车搭载东安汽车发动机，与 T01 同款的 2.0T 汽油发动机，最大功率 185kW，最高车速 170km/h。 参考 212 T01",
+   "published_at": 1794649474.0,
+   "published_bj": "2026-11-14 17:44"
+  },
+  {
+   "id": "24548349ac26f9bb",
+   "source": "IT之家",
+   "title": "《GTA 6》发售将为英国网络带来大考，宽带运营商表态“严阵以待”",
+   "url": "https://www.ithome.com/1/027/187.htm",
+   "summary": "IT之家 11 月 14 日消息，当地时间 13 日，据外媒 Eurogamer 报道，《GTA 6》下周发售后，有望刷新各种各样的销售纪录。玩家们还有一个担忧：这款游戏会不会把互联网都挤爆？《GTA 6》发售前后的网络流量势必暴涨，各地的宽带网络能否顶住压力？ 在英国，Ofcom（英国通信管理局）甚至会提前与游戏公司协调，尽量避免大型游戏发售撞上重要体育赛事等宽带使用高峰，以免网络拥堵。 英国最大的宽带网络运营商 Openreach 因此一直密切关注《GTA 6》。Openreach 网络技术总监特雷弗 · 林尼表示：“我们很早就在关注《GTA 6》了。从《堡垒之夜》和《使命召唤》等游戏的经",
+   "published_at": 1794649214.0,
+   "published_bj": "2026-11-14 17:40"
+  },
+  {
+   "id": "7231d13bbe503abd",
+   "source": "IT之家",
+   "title": "2020-2025 年，我国颠覆性技术产业化指数累计增幅超五成",
+   "url": "https://www.ithome.com/1/027/186.htm",
+   "summary": "IT之家 11 月 14 日消息，据新华社报道，在 13 日至 14 日天津举办的 2026 企业科技创新发展论坛上，《颠覆性技术产业化指数报告》发布。 报告显示，2020-2025 年，我国颠覆性技术产业化指数 从基准值 100 稳步攀升至 158.63 ，累计增幅 58.63%，年均复合增长率约 9.67%。指数报告由科技部四司指导，科技日报社与中国工程科技创新战略研究院联合牵头编制，研究对象覆盖 高温超导材料、可控核聚变、氢能、具身智能 等 10 个技术领域。 据IT之家了解， 颠覆性技术作为一种另辟蹊径的革新，具有重塑人类生活、工业生产、商业消费模式的革命性意义 ，是科技创新的重要突破",
+   "published_at": 1794648451.0,
+   "published_bj": "2026-11-14 17:27"
+  },
+  {
+   "id": "b8ffc48f9961276c",
+   "source": "IT之家",
+   "title": "Mercury Research：AMD 第三季度桌面 CPU 市占率跌破 30%，英特尔夺回市场份额",
+   "url": "https://www.ithome.com/1/027/185.htm",
+   "summary": "IT之家 11 月 14 日消息，据 PC Gamer 披露的 Mercury Research 最新数据，2026 年第三季度 AMD 桌面端 CPU 的出货量份额降至 29.9%，较第二季度的 34.9% 下滑了 5 个百分点；与此同时，Intel 的份额则回升至 70.1%。 这也是 AMD 自 2025 年初（当时约为 28%）以来的最低桌面端占比。不过在服务器市场，局势截然相反 —— AMD 的份额从上一季度的 34.5% 进一步攀升至 35.5%。 IT之家获悉，Mercury Research 称目前尚无法确切判定英特尔此次份额大幅波动的原因。该机构最倾向的推测是： 由于笔记本电",
+   "published_at": 1794648177.0,
+   "published_bj": "2026-11-14 17:22"
   },
   {
    "id": "352427aefe311d16",
@@ -479,6 +560,15 @@
    "summary": "IT之家 11 月 14 日消息，谷歌宣布 Gemini 的 Personal Intelligence（个人智能）功能已正式支持 Google Wallet 钱包，用户在完成授权后，Gemini 便能根据谷歌 Gemini 个人智能功能接入 Google Wallet：可为用户消费习惯提供个性化分析建议。 谷歌表示，用户只需在 Gemini 对话中输入 @Google Wallet，即可询问个人财务状况、消费情况以及预算规划等问题。用户还可通过 Plaid 将信用卡和银行账户关联至 Google Wallet，以获取更加全面的财务信息。 在具体功能方面，例如 Gemini 可以分析用户上一季",
    "published_at": 1794639437.0,
    "published_bj": "2026-11-14 14:57"
+  },
+  {
+   "id": "565ba60ce060535d",
+   "source": "Hacker News",
+   "title": "Ask HN: What are the most useful, concrete AI skills to independently learn?",
+   "url": "https://news.ycombinator.com/item?id=50494696",
+   "summary": "Specifically, what are the most useful, concrete skills to learn as an individual to take economic advantage of the advances in LLMs, agents and associated new technological capabilities? What is accessible to learn just from the internet and experimentation, without a degree program, assuming a pre",
+   "published_at": 1794639402.0,
+   "published_bj": "2026-11-14 14:56"
   },
   {
    "id": "66fd1f23c5e8d987",
