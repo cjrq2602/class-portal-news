@@ -1,8 +1,17 @@
 {
  "date": "2026-11-15",
- "generated_at": 1794691920.5734305,
- "count": 29,
+ "generated_at": 1794694493.100459,
+ "count": 31,
  "items": [
+  {
+   "id": "7c13781d146a135f",
+   "source": "TechCrunch",
+   "title": "Elon Musk, other tech execs sign petition calling on Nvidia to reinstate Jensen Huang",
+   "url": "https://techcrunch.com/2026/11/14/elon-musk-other-tech-execs-sign-petition-calling-on-nvidia-to-reinstate-jensen-huang/",
+   "summary": "The petition had attracted more than 115,000 signatures as of Saturday afternoon.",
+   "published_at": 1794692482.0,
+   "published_bj": "2026-11-15 05:41"
+  },
   {
    "id": "88e90567fea19ab0",
    "source": "cnBeta",
@@ -11,6 +20,15 @@
    "summary": "在全国航班停飞引发航空出行混乱后，贝德福德14日向美国公众道歉，并称“最糟糕的时期已经过去”，全国航空运输预计15日晚能恢复正常。 阅读全文",
    "published_at": 1794691519.0,
    "published_bj": "2026-11-15 05:25"
+  },
+  {
+   "id": "31d276e6eb688b0b",
+   "source": "Hacker News",
+   "title": "SpaceX Catches the Starship to end Flight 15",
+   "url": "https://x.com/i/broadcasts/2brajgZlOKRMka",
+   "summary": "Article URL: https://x.com/i/broadcasts/2brajgZlOKRMka Comments URL: https://news.ycombinator.com/item?id=50500963 Points: 221 # Comments: 120",
+   "published_at": 1794691344.0,
+   "published_bj": "2026-11-15 05:22"
   },
   {
    "id": "dd162f1a938831b0",
