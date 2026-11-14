@@ -1,8 +1,26 @@
 {
  "date": "2026-11-14",
- "generated_at": 1794671943.9678016,
- "count": 295,
+ "generated_at": 1794674034.420991,
+ "count": 297,
  "items": [
+  {
+   "id": "dfe8eeaaa85aa0d3",
+   "source": "Hacker News",
+   "title": "Formalizing US Tax Code (Using Lean)",
+   "url": "https://lexifina.com/blog/formalizing-the-us-tax-code",
+   "summary": "Article URL: https://lexifina.com/blog/formalizing-the-us-tax-code Comments URL: https://news.ycombinator.com/item?id=50497900 Points: 6 # Comments: 0",
+   "published_at": 1794670880.0,
+   "published_bj": "2026-11-14 23:41"
+  },
+  {
+   "id": "f4c966ec1c1c1f78",
+   "source": "Hacker News",
+   "title": "PyPI's redesigned project pages with clearer security signals are now live",
+   "url": "https://blog.pypi.org/posts/2026-11-06-ui-updates-complete/",
+   "summary": "Article URL: https://blog.pypi.org/posts/2026-11-06-ui-updates-complete/ Comments URL: https://news.ycombinator.com/item?id=50497892 Points: 31 # Comments: 2",
+   "published_at": 1794670852.0,
+   "published_bj": "2026-11-14 23:40"
+  },
   {
    "id": "07a91a96cbca62ba",
    "source": "IT之家",

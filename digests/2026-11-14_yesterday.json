@@ -1,0 +1,382 @@
+{
+ "type": "yesterday",
+ "date": "2026-11-14",
+ "window": {
+  "start_ts": 1794585600.0,
+  "end_ts": 1794672000.0
+ },
+ "generated_at": 1794674036.2272205,
+ "generator": "action",
+ "news_count": 297,
+ "keywords": [
+  "ai",
+  "微软",
+  "伟达",
+  "英伟",
+  "to",
+  "仁勋",
+  "黄仁",
+  "服务",
+  "ceo",
+  "美国"
+ ],
+ "points": [
+  {
+   "text": "【ai】IT之家 11 月 14 日消息，据彭博社 13 日报道，对于黄仁勋离任英伟达 CEO 会对 AI 投资热潮造成多大冲击，华尔街 并不太担心 ",
+   "keyword": "ai",
+   "news_ids": [
+    "352427aefe311d16"
+   ],
+   "refs": [
+    {
+     "id": "352427aefe311d16",
+     "title": "黄仁勋离任英伟达 CEO，华尔街对 AI 投资热潮“并不太担心”",
+     "source": "IT之家",
+     "url": "https://www.ithome.com/1/027/184.htm",
+     "published_at": 1794647942.0
+    }
+   ]
+  },
+  {
+   "text": "【ai】IT之家 11 月 14 日消息，科技媒体 Windows Latest 昨日（11 月 13 日）发布博文，报道称在 Outlook 等服务大",
+   "keyword": "ai",
+   "news_ids": [
+    "780acad8b4118a8a"
+   ],
+   "refs": [
+    {
+     "id": "780acad8b4118a8a",
+     "title": "Outlook 等服务故障期间征集 AI 技巧，微软推文变成网友吐槽现场",
+     "source": "IT之家",
+     "url": "https://www.ithome.com/1/027/072.htm",
+     "published_at": 1794627013.0
+    }
+   ]
+  },
+  {
+   "text": "【ai】IT之家 11 月 14 日消息，谷歌 AI Studio 产品与设计负责人阿马尔 · 雷希（Ammaar Reshi）于 11 月 12 日在",
+   "keyword": "ai",
+   "news_ids": [
+    "d3efb919dba22710"
+   ],
+   "refs": [
+    {
+     "id": "d3efb919dba22710",
+     "title": "谷歌高管借 Gemini AI 成功让苹果 iPhone Duo 运行微软 Win11",
+     "source": "IT之家",
+     "url": "https://www.ithome.com/1/027/118.htm",
+     "published_at": 1794634288.0
+    }
+   ]
+  },
+  {
+   "text": "【ai】IT之家 11 月 14 日消息，据路透社报道，当地时间 13 日，美国首届 AI 音乐奖颁奖典礼正式举行，表彰利用 AI 参与歌曲创作的音乐人",
+   "keyword": "ai",
+   "news_ids": [
+    "34146930eb470f41"
+   ],
+   "refs": [
+    {
+     "id": "34146930eb470f41",
+     "title": "美国举行首届 AI 音乐奖颁奖典礼，入围者坦言背后同样凝聚真人心血",
+     "source": "IT之家",
+     "url": "https://www.ithome.com/1/027/210.htm",
+     "published_at": 1794651778.0
+    }
+   ]
+  },
+  {
+   "text": "【微软】IT早报”时间，大家好，现在是 2026 年 11 月 14 日星期六，今天的重要科技资讯有： 1. “我算个什么东西”：黄仁勋离任英伟达 CE",
+   "keyword": "微软",
+   "news_ids": [
+    "f6be2c6c2ad849e1"
+   ],
+   "refs": [
+    {
+     "id": "f6be2c6c2ad849e1",
+     "title": "IT早报 1114：曝黄仁勋离任前夕心力交瘁；微软 365 核心服务全球宕机超 10 个小时；华为首个动态血糖仪官宣；37.98 万元起鸿蒙智行问界新 M8 上市...",
+     "source": "IT之家",
+     "url": "https://www.ithome.com/1/027/020.htm",
+     "published_at": 1794615360.0
+    }
+   ]
+  },
+  {
+   "text": "【ai】Specifically, what are the most useful, concrete skills to learn as an i",
+   "keyword": "ai",
+   "news_ids": [
+    "565ba60ce060535d"
+   ],
+   "refs": [
+    {
+     "id": "565ba60ce060535d",
+     "title": "Ask HN: What are the most useful, concrete AI skills to independently learn?",
+     "source": "Hacker News",
+     "url": "https://news.ycombinator.com/item?id=50494696",
+     "published_at": 1794639402.0
+    }
+   ]
+  },
+  {
+   "text": "【ai】Nvidia poured tens of billions into AI startups under Huang",
+   "keyword": "ai",
+   "news_ids": [
+    "d9badb4f94a17b0d"
+   ],
+   "refs": [
+    {
+     "id": "d9badb4f94a17b0d",
+     "title": "Jensen Huang’s departure blasts big hole in AI startup funding, VCs and founders say",
+     "source": "TechCrunch",
+     "url": "https://techcrunch.com/2026/11/13/jensen-huangs-departure-blasts-big-hole-in-ai-startup-funding-vcs-and-founders-say/",
+     "published_at": 1794609780.0
+    }
+   ]
+  },
+  {
+   "text": "【苹果】IT之家 11 月 14 日消息，苹果昨日宣布推出宝可梦 30 周年限定版 Apple Gift Card，将于 11 月 16 日至 11 月",
+   "keyword": "苹果",
+   "news_ids": [
+    "9dfa5db2c2886ab8"
+   ],
+   "refs": [
+    {
+     "id": "9dfa5db2c2886ab8",
+     "title": "苹果推出宝可梦 30 周年限定礼品卡：可领 3 款专属壁纸，日本 11 月 16 日开售",
+     "source": "IT之家",
+     "url": "https://www.ithome.com/1/027/077.htm",
+     "published_at": 1794631817.0
+    }
+   ]
+  },
+  {
+   "text": "Article URL: https://lexifina",
+   "keyword": "",
+   "news_ids": [
+    "dfe8eeaaa85aa0d3"
+   ],
+   "refs": [
+    {
+     "id": "dfe8eeaaa85aa0d3",
+     "title": "Formalizing US Tax Code (Using Lean)",
+     "source": "Hacker News",
+     "url": "https://lexifina.com/blog/formalizing-the-us-tax-code",
+     "published_at": 1794670880.0
+    }
+   ]
+  },
+  {
+   "text": "Article URL: https://blog",
+   "keyword": "",
+   "news_ids": [
+    "f4c966ec1c1c1f78"
+   ],
+   "refs": [
+    {
+     "id": "f4c966ec1c1c1f78",
+     "title": "PyPI's redesigned project pages with clearer security signals are now live",
+     "source": "Hacker News",
+     "url": "https://blog.pypi.org/posts/2026-11-06-ui-updates-complete/",
+     "published_at": 1794670852.0
+    }
+   ]
+  },
+  {
+   "text": "GitHub Actions 锁文件功能正式可用，保障工作流依赖安全",
+   "keyword": "",
+   "news_ids": [
+    "2d9231dd6f4bf41f"
+   ],
+   "refs": [
+    {
+     "id": "2d9231dd6f4bf41f",
+     "title": "GitHub Actions 锁文件功能正式可用，保障工作流依赖安全",
+     "source": "InfoQ中文",
+     "url": "https://www.infoq.cn/article/XrW1cdg9NFRkemvqLiZc?utm_source=rss&utm_medium=article",
+     "published_at": 1794668400.0
+    }
+   ]
+  },
+  {
+   "text": "乌克兰总统泽连斯基周六加大了对SpaceX的批评，称该公司对其军用级“星盾”（Starshield）卫星终端实施的速度限制，会带来危险的政治后果",
+   "keyword": "",
+   "news_ids": [
+    "3b274c39d28a9cd6"
+   ],
+   "refs": [
+    {
+     "id": "3b274c39d28a9cd6",
+     "title": "乌克兰“星盾”又被限速 泽连斯基痛批SpaceX",
+     "source": "cnBeta",
+     "url": "https://www.cnbeta.com.tw/articles/tech/1586420.htm",
+     "published_at": 1794668141.0
+    }
+   ]
+  },
+  {
+   "text": "IT之家 11 月 14 日消息，OPPO 官方微博发文，宣布 OPPO Reno17 系列手机将提供洛天依定制主题，相应主题仅限 Reno17",
+   "keyword": "",
+   "news_ids": [
+    "d7685747ba81166e"
+   ],
+   "refs": [
+    {
+     "id": "d7685747ba81166e",
+     "title": "OPPO Reno17 系列手机将提供洛天依联动定制主题，11 月 16 日发布",
+     "source": "IT之家",
+     "url": "https://www.ithome.com/1/027/243.htm",
+     "published_at": 1794667401.0
+    }
+   ]
+  },
+  {
+   "text": "IT之家 11 月 14 日消息，华硕 (ASUS) 今日公布了鼠标新品 ROG 龙鳞 (Harpe) 2 Ace Mini",
+   "keyword": "",
+   "news_ids": [
+    "6d6c0b434b242aa4"
+   ],
+   "refs": [
+    {
+     "id": "6d6c0b434b242aa4",
+     "title": "华硕 ROG 带来龙鳞 2 Ace Mini 鼠标，Demon1 联名款同步亮相",
+     "source": "IT之家",
+     "url": "https://www.ithome.com/1/027/242.htm",
+     "published_at": 1794667204.0
+    }
+   ]
+  },
+  {
+   "text": "IT之家 11 月 14 日消息，当地时间 11 月 5 日，意媒 Quattroruote 援引不具名知情人士消息称，小米与 HWA 或在秘密",
+   "keyword": "",
+   "news_ids": [
+    "c2302b2d0958ecc6"
+   ],
+   "refs": [
+    {
+     "id": "c2302b2d0958ecc6",
+     "title": "曝小米与“AMG 之父”创办的 HWA 秘密合作，希望打造“载入史册”新车",
+     "source": "IT之家",
+     "url": "https://www.ithome.com/1/027/240.htm",
+     "published_at": 1794666053.0
+    }
+   ]
+  }
+ ],
+ "article": {
+  "title": "2026-11-14 新闻总结",
+  "paragraphs": [
+   {
+    "kind": "lead",
+    "text": "过去 24 小时共收录 297 条新闻，来自 7 家媒体。把标题放在一起看，讨论主要集中在 AI、上市 这几个方向上，其余消息更像是零散补充。"
+   },
+   {
+    "kind": "section",
+    "heading": "AI",
+    "text": "先看「AI」。IT之家 11 月 14 日消息，据彭博社 13 日报道，对于黄仁勋离任英伟达 CEO 会对 AI 投资热潮造成多大冲击，另有 47 条消息指向同一话题。资本动作往往领先产品一年，值得盯的不是金额，而是钱最后花向了算力、场景还是补贴。",
+    "news_ids": [
+     "352427aefe311d16"
+    ],
+    "refs": [
+     {
+      "id": "352427aefe311d16",
+      "title": "黄仁勋离任英伟达 CEO，华尔街对 AI 投资热潮“并不太担心”",
+      "source": "IT之家",
+      "url": "https://www.ithome.com/1/027/184.htm",
+      "published_at": 1794647942.0
+     }
+    ]
+   },
+   {
+    "kind": "section",
+    "heading": "更新",
+    "text": "与此同时「更新」。IT之家 11 月 14 日消息，科技媒体 MacRumors 今天（11 月 14 日）发布博文，另有 66 条消息指向同一话题。从节奏上看，行业已经从「能不能做」转向「做得便不便宜」，这通常意味着竞争会更务实。",
+    "news_ids": [
+     "c1e36943fb054631"
+    ],
+    "refs": [
+     {
+      "id": "c1e36943fb054631",
+      "title": "苹果推送 tvOS 27.2.1 更新，第二 / 第三代 Apple TV 4K 新增 Siri AI 支持",
+      "source": "IT之家",
+      "url": "https://www.ithome.com/1/027/052.htm",
+      "published_at": 1794622303.0
+     }
+    ]
+   },
+   {
+    "kind": "section",
+    "heading": "研究",
+    "text": "另一个值得注意的方向是「研究」。IT之家 11 月 14 日消息，科技媒体 Windows Latest 今天（11 月 14 日）发布博文， 报道称在微软任职逾 14 年的 AI 科学家，另有 18 条消息指向同一话题。从节奏上看，行业已经从「能不能做」转向「做得便不便宜」，这通常意味着竞争会更务实。",
+    "news_ids": [
+     "6dbb7b39ee24fafe"
+    ],
+    "refs": [
+     {
+      "id": "6dbb7b39ee24fafe",
+      "title": "微软 14 年 AI 老将离职：称创新难落地，降本研究未获认真考虑",
+      "source": "IT之家",
+      "url": "https://www.ithome.com/1/027/078.htm",
+      "published_at": 1794632718.0
+     }
+    ]
+   },
+   {
+    "kind": "section",
+    "heading": "音乐",
+    "text": "相比之下「音乐」。IT之家 11 月 14 日消息，据路透社报道，当地时间 13 日，美国首届 AI 音乐奖颁奖典礼正式举行，另有 22 条消息指向同一话题。对读者来说，值得留意的不是结论本身，而是它背后哪些前提正在被改变。",
+    "news_ids": [
+     "34146930eb470f41"
+    ],
+    "refs": [
+     {
+      "id": "34146930eb470f41",
+      "title": "美国举行首届 AI 音乐奖颁奖典礼，入围者坦言背后同样凝聚真人心血",
+      "source": "IT之家",
+      "url": "https://www.ithome.com/1/027/210.htm",
+      "published_at": 1794651778.0
+     }
+    ]
+   },
+   {
+    "kind": "glossary",
+    "items": [
+     {
+      "term": "AI",
+      "desc": "人工智能，让机器完成识别、生成、判断等原本需要人做的任务"
+     },
+     {
+      "term": "GPU",
+      "desc": "图形处理器，因为擅长大规模并行计算，成了 AI 训练的主力硬件"
+     },
+     {
+      "term": "Agent",
+      "desc": "智能体，能自己拆解任务、调用工具并连续执行的 AI 程序"
+     },
+     {
+      "term": "无人机",
+      "desc": "不需要机上飞行员、靠远程或自主控制的飞行器"
+     },
+     {
+      "term": "新能源",
+      "desc": "相对煤炭石油而言的清洁能源，常见的是光伏、风电和储能"
+     },
+     {
+      "term": "大模型",
+      "desc": "参数量巨大的神经网络，靠海量文本训练出语言理解与生成能力"
+     }
+    ]
+   },
+   {
+    "kind": "outlook",
+    "text": "把这几条放在一起看，最值得跟踪的是 AI 和 上市 两条线：一条决定技术能走多远，一条决定它多快能落到普通人的日常里。至于其他消息，可以先放进观察名单，等后续有更实的进展再判断。"
+   }
+  ],
+  "word_count": 664
+ },
+ "ai_enhanced": false,
+ "schema": 1,
+ "window_bj": {
+  "start": "2026-11-14 00:00",
+  "end": "2026-11-15 00:00"
+ }
+}
