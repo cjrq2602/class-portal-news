@@ -1,7 +1,7 @@
 {
  "date": "2026-11-14",
- "generated_at": 1794666994.746212,
- "count": 279,
+ "generated_at": 1794669487.1733892,
+ "count": 292,
  "items": [
   {
    "id": "2d9231dd6f4bf41f",
@@ -11,6 +11,69 @@
    "summary": "点击查看原文>",
    "published_at": 1794668400.0,
    "published_bj": "2026-11-14 23:00"
+  },
+  {
+   "id": "3b274c39d28a9cd6",
+   "source": "cnBeta",
+   "title": "乌克兰“星盾”又被限速 泽连斯基痛批SpaceX",
+   "url": "https://www.cnbeta.com.tw/articles/tech/1586420.htm",
+   "summary": "乌克兰总统泽连斯基周六加大了对SpaceX的批评，称该公司对其军用级“星盾”（Starshield）卫星终端实施的速度限制，会带来危险的政治后果，并削弱了乌克兰关键的防空能力。 阅读全文",
+   "published_at": 1794668141.0,
+   "published_bj": "2026-11-14 22:55"
+  },
+  {
+   "id": "1a8db32cda6c723c",
+   "source": "cnBeta",
+   "title": "美国航班大乱持续 数千架次取消或延误",
+   "url": "https://www.cnbeta.com.tw/articles/tech/1586418.htm",
+   "summary": "美国航空出行周六仍在艰难恢复。此前发生的系统故障导致美国经历自2001年9月恐怖袭击以来持续时间最长的全国性航班停飞，数千架次航班被取消，暴露出美国航空基础设施的脆弱性。 阅读全文",
+   "published_at": 1794668118.0,
+   "published_bj": "2026-11-14 22:55"
+  },
+  {
+   "id": "0af12b72de32c43a",
+   "source": "IT之家",
+   "title": "英特尔官网确认酷睿 Ultra 7 处理器 260K 规格，最大睿频频率 5.4GHz",
+   "url": "https://www.ithome.com/1/027/245.htm",
+   "summary": "IT之家 11 月 14 日消息，根据 Intel（英特尔）官网页面，此前悄然上市的 酷睿 Ultra 7 处理器 260K 实际上早在 2026 年第 3 季度就已发行 。而从规格上来看，其大致相当于 Ultra 7 265K 的降频版。 英特尔酷睿 Ultra 7 处理器 260K 的最大睿频频率为 5.4GHz、性能核最大睿频频率为 5.3GHz、能效核最大睿频频率为 4.5GHz， 这三项数据均比 Ultra 7 265K 低 0.1GHz ，但性能核与能效核的基本频率保持不变。 同时，该处理器的内存支持为 DDR5 6400MT/s， 暗示其并非 \"Arrow Lake Refres",
+   "published_at": 1794667882.0,
+   "published_bj": "2026-11-14 22:51"
+  },
+  {
+   "id": "56fa3fdc6bf47152",
+   "source": "IT之家",
+   "title": "“黑苹果”有望卷土重来，新项目探索将 macOS 搬上骁龙和 x86 架构电脑",
+   "url": "https://www.ithome.com/1/027/244.htm",
+   "summary": "IT之家 11 月 14 日消息，过去几十年里，不想花钱买 Mac、却又希望使用 macOS 的用户，可以通过组装“黑苹果”电脑实现。不过，自从苹果改用自研 Arm 芯片后，黑苹果的安装难度大幅提高。 据外媒 TechSpot 今天（14 日）晚间报道，近期出现的至少两个新项目，则试图让 macOS 登陆骁龙和 x86 平台 。 其中一个项目 开发了 Arm 转 x86 指令翻译层 ，计划让大多数较新的英特尔和 AMD 处理器能够运行 macOS，早期版本现已开放试用。另一个项目则在 搭载骁龙处理器的华硕 Zenbook 笔记本上成功启动 macOS ，部分基本功能也能正常使用。 黑苹果的历史",
+   "published_at": 1794667784.0,
+   "published_bj": "2026-11-14 22:49"
+  },
+  {
+   "id": "d7685747ba81166e",
+   "source": "IT之家",
+   "title": "OPPO Reno17 系列手机将提供洛天依联动定制主题，11 月 16 日发布",
+   "url": "https://www.ithome.com/1/027/243.htm",
+   "summary": "IT之家 11 月 14 日消息，OPPO 官方微博发文，宣布 OPPO Reno17 系列手机将提供洛天依定制主题，相应主题仅限 Reno17 系列机型使用，包含 4 款专属锁屏 + 壁纸，提供洛天依三色全新造型及 Q 版形象锁屏。 除此之外，相应主题包括时间、待办、步数等多种趣味组件及跟手粒子、下雪动效、充电动画等专属交互动效。 IT之家注意到，先前相应手机规格已曝光，具体参数如下： OPPO Reno17 6.56 英寸 1.5K LTPS 直屏 骁龙 7 Gen4 处理器 前置 50Mp 镜头，后置 50Mp 主摄 +50Mp 超广角 +50Mp 3.5X 潜望长焦 8000mAh 电",
+   "published_at": 1794667401.0,
+   "published_bj": "2026-11-14 22:43"
+  },
+  {
+   "id": "6d6c0b434b242aa4",
+   "source": "IT之家",
+   "title": "华硕 ROG 带来龙鳞 2 Ace Mini 鼠标，Demon1 联名款同步亮相",
+   "url": "https://www.ithome.com/1/027/242.htm",
+   "summary": "IT之家 11 月 14 日消息，华硕 (ASUS) 今日公布了鼠标新品 ROG 龙鳞 (Harpe) 2 Ace Mini。这一型号由华硕与《无畏契约》世界冠军选手 Max \"Demon1\" Mazanov 共同打造， 结合最新硬件和面向抓握与指握用户的紧凑型半对称模具 。 龙鳞 2 Ace Mini 三维 118.2 × 61.3 × 40.2 (mm)，质量 47g；配备 ROG AimPoint Pro 65K 传感器、ROG 100M 光学微动开关；支持三模连接，搭载第二代 ROG SpeedNova 8K 无线技术；可选暗夜黑、月耀白、晴空蓝、熔岩红 4 种常规配色。 除常规版本外",
+   "published_at": 1794667204.0,
+   "published_bj": "2026-11-14 22:40"
+  },
+  {
+   "id": "c7b22f8f295a29f8",
+   "source": "IT之家",
+   "title": "受空管系统故障影响，11 月 14 日美国仍有超 3300 架次航班被取消",
+   "url": "https://www.ithome.com/1/027/241.htm",
+   "summary": "IT之家 11 月 14 日消息，据央视新闻报道，当地时间 11 月 14 日，航班追踪网站 FlightAware 的数据显示，在 13 日空管系统出现通信故障、导致全美所有飞机停飞后，14 日， 美国境内及往返美国的航班已有超过 3300 架次被取消 。 截至美国东部时间 14 日 6 时 15 分 （IT之家注：北京时间 14 日 19 时 15 分） ，达美航空已取消当日计划航班的 19%，联合航空取消了 16%，美国航空则取消了 14%。 美国联邦航空管理局 13 日发布全美地面停飞令，暂停国内机场航班起飞超过 4 个小时，导致上万架次航班延误或取消。美官方表示，航班大规模停飞的原因",
+   "published_at": 1794666329.0,
+   "published_bj": "2026-11-14 22:25"
   },
   {
    "id": "c2302b2d0958ecc6",
@@ -49,6 +112,33 @@
    "published_bj": "2026-11-14 22:09"
   },
   {
+   "id": "703289c426047438",
+   "source": "Hacker News",
+   "title": "Show HN: Agweb – a browser for agents that stays out of your way",
+   "url": "https://github.com/paul-nameless/agweb",
+   "summary": "Article URL: https://github.com/paul-nameless/agweb Comments URL: https://news.ycombinator.com/item?id=50497147 Points: 12 # Comments: 2",
+   "published_at": 1794665292.0,
+   "published_bj": "2026-11-14 22:08"
+  },
+  {
+   "id": "89c7443a9e863c20",
+   "source": "Hacker News",
+   "title": "Show HN: Fursoy – Out-of-order RV64IMAFDV core in SystemVerilog (Linux 6.6)",
+   "url": "https://github.com/FURSOY/fursoy-cpu",
+   "summary": "Article URL: https://github.com/FURSOY/fursoy-cpu Comments URL: https://news.ycombinator.com/item?id=50497137 Points: 7 # Comments: 0",
+   "published_at": 1794665194.0,
+   "published_bj": "2026-11-14 22:06"
+  },
+  {
+   "id": "c83c0e4dee83fe88",
+   "source": "Hacker News",
+   "title": "Show HN: A terminal-native idle factory game, written in Rust with ratatui",
+   "url": "https://gitlab.com/snipedbywifi/terminactory",
+   "summary": "Hey HN readers! I'm snipedbywifi ( https://gitlab.com/snipedbywifi ), and i've been working on terminactory. Please try it out if you'd like to play a cozy factory game while waiting for long agent tasks to finish! The game is a factory game (overused niche, i know xD), but runs in your terminal. Re",
+   "published_at": 1794665154.0,
+   "published_bj": "2026-11-14 22:05"
+  },
+  {
    "id": "2964cb6def89e6f6",
    "source": "Solidot",
    "title": "微软云服务宕机持续逾 24 小时",
@@ -56,6 +146,15 @@
    "summary": "微软周六表示，影响各国企业和政府所用 Microsoft 365 应用的全球服务中断已经结束，这次中断持续了超过 24 小时。微软在 X 上发文说：“我们已完成解决这一事件根本问题的工作，并为其余受影响的客户和地区恢复了服务。”Teams、Outlook 和 Copilot 等微软应用都受到了这次服务中断的影响，导致数十个国家出现通信问题。微软表示，“没有发现”任何可能导致这次服务中断的外部干扰，并将问题归咎于服务器故障。这次中断是微软历史上持续时间最长的中断之一，也是今年的第二次。英国国家网络安全中心前负责人 Ciaran Martin 认为这次宕机事故在规模上类似亚马逊 AWS 和 Cro",
    "published_at": 1794664550.0,
    "published_bj": "2026-11-14 21:55"
+  },
+  {
+   "id": "1956503f6d9f2699",
+   "source": "Hacker News",
+   "title": "The Myth of Neutral Code",
+   "url": "https://foss.life/notes/2026/the-myth-of-neutral-code/",
+   "summary": "Article URL: https://foss.life/notes/2026/the-myth-of-neutral-code/ Comments URL: https://news.ycombinator.com/item?id=50497041 Points: 9 # Comments: 0",
+   "published_at": 1794664331.0,
+   "published_bj": "2026-11-14 21:52"
   },
   {
    "id": "2b516388a8e81d90",
@@ -74,6 +173,24 @@
    "summary": "IT之家 11 月 14 日消息，Meta 旗下 AI 智能体 Muse 推出代打电话功能，开通高级付费订阅后，用户就能让 Muse 代自己联系美国商家。Meta 称，Muse 可以帮助用户处理各种烦琐事务，完成待办事项。 13 日凌晨，Meta 首席 AI 官汪滔在 X 上发文宣布：“Muse 能帮你打完所有不想亲自打的电话。” 据悉，用户可以借助 Muse 联 系保险公司或有线电视服务商、预约美国车管部门的业务办理时间，或是打电话向餐厅订位 。 Muse 会使用 AI 合成语音 与商家工作人员交谈，但这类功能并非总能顺利完成任务。部分商家的工作人员听出对方是 AI 后便直接挂断电话，有人是",
    "published_at": 1794664016.0,
    "published_bj": "2026-11-14 21:46"
+  },
+  {
+   "id": "c9fb14a67b7f9714",
+   "source": "Hacker News",
+   "title": "KDE: The Documentary on Free Software [video]",
+   "url": "https://tube.kockatoo.org/w/fFinNHfanLT7aBEb2B8y4c",
+   "summary": "Article URL: https://tube.kockatoo.org/w/fFinNHfanLT7aBEb2B8y4c Comments URL: https://news.ycombinator.com/item?id=50496976 Points: 8 # Comments: 0",
+   "published_at": 1794663808.0,
+   "published_bj": "2026-11-14 21:43"
+  },
+  {
+   "id": "d9b6d27b17f3a617",
+   "source": "Hacker News",
+   "title": "Does the Crichton Estate Have a Case?",
+   "url": "https://yapern.com/blog/does-the-crichton-estate-have-a-case/",
+   "summary": "Article URL: https://yapern.com/blog/does-the-crichton-estate-have-a-case/ Comments URL: https://news.ycombinator.com/item?id=50496938 Points: 4 # Comments: 0",
+   "published_at": 1794663548.0,
+   "published_bj": "2026-11-14 21:39"
   },
   {
    "id": "e9875550cfae250a",
