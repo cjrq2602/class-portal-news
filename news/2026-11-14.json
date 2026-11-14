@@ -1,8 +1,26 @@
 {
  "date": "2026-11-14",
- "generated_at": 1794669487.1733892,
- "count": 292,
+ "generated_at": 1794671943.9678016,
+ "count": 295,
  "items": [
+  {
+   "id": "07a91a96cbca62ba",
+   "source": "IT之家",
+   "title": "马斯克再度力挺黄仁勋：没有他，英伟达将失去部分关键合作",
+   "url": "https://www.ithome.com/1/027/247.htm",
+   "summary": "IT之家 11 月 14 日消息，今天（14 日）晚间，马斯克在 X 平台发文称，随着黄仁勋离任 CEO，英伟达将 失去一些至关重要的商业合作 。 马斯克称赞黄仁勋在供应链管理方面表现出色，指出英伟达许多交易都是靠黄仁勋 与合作方握手达成的 ， 并没有签署书面合同 。 紧接着，马斯克又补充说：“如果黄仁勋答应向我交付算力，或者我要求加快零部件供应， 他每次都能说到做到 。当然，我们之后还是会补上采购订单，但我从来没有怀疑过他会兑现承诺。” 据IT之家了解，就在昨天，马斯克发文回应网友关于“ 约 1600 名英伟达员工呼吁黄仁勋回归 ”的推文： 一项要求让黄仁勋复职的请愿正在进行，我也会签署 。",
+   "published_at": 1794670094.0,
+   "published_bj": "2026-11-14 23:28"
+  },
+  {
+   "id": "3e68cfb301c74eaf",
+   "source": "IT之家",
+   "title": "导致全美航班停飞的“罪魁祸首”找到了？FAA 调查指向 20 年历史路由器",
+   "url": "https://www.ithome.com/1/027/246.htm",
+   "summary": "IT之家 11 月 14 日消息，美国 CBS 电视台交通记者克里斯 · 范 · 克利夫在 X 平台发文称，收到一位美国政府高级官员的消息：导致全美航班地面停飞的故障设备 已被查明并隔离 。 克利夫援引官员的话说，美国联邦航空管理局（FAA）认为，故障仅涉及一种“特定型号”的 20 年历史老路由器。“（系统）基本上是被负载压垮了，不过具体原因尚不清楚。” 初步信息显示， 路由器过载后开始传输不同步的数据 ，造成空管人员的语音通信线路出现杂音，还可能导致显示屏闪烁或黑屏，与 2025 年纽瓦克自由国际机场发生的故障类似。 据IT之家此前报道，当地时间 14 日，航班追踪网站 FlightAwar",
+   "published_at": 1794668792.0,
+   "published_bj": "2026-11-14 23:06"
+  },
   {
    "id": "2d9231dd6f4bf41f",
    "source": "InfoQ中文",
@@ -200,6 +218,15 @@
    "summary": "Article URL: https://www.netmeister.org/blog/claude-delusion.html Comments URL: https://news.ycombinator.com/item?id=50496921 Points: 6 # Comments: 0",
    "published_at": 1794663377.0,
    "published_bj": "2026-11-14 21:36"
+  },
+  {
+   "id": "d224c8ce9002489b",
+   "source": "Hacker News",
+   "title": "A visual explanation of reinforcement learning",
+   "url": "https://aatishb.com/myriad/how-brains-learn/",
+   "summary": "Article URL: https://aatishb.com/myriad/how-brains-learn/ Comments URL: https://news.ycombinator.com/item?id=50496885 Points: 16 # Comments: 0",
+   "published_at": 1794663066.0,
+   "published_bj": "2026-11-14 21:31"
   },
   {
    "id": "e820306c4701b737",
