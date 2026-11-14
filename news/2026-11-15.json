@@ -1,8 +1,17 @@
 {
  "date": "2026-11-15",
- "generated_at": 1794681216.7206657,
- "count": 16,
+ "generated_at": 1794684256.3210568,
+ "count": 21,
  "items": [
+  {
+   "id": "fb561fcae6d91848",
+   "source": "Hacker News",
+   "title": "LinkedIn, Monster take down over 1000 fake job postings after CBC investigation",
+   "url": "https://www.cbc.ca/news/canada/linkedin-monster-take-down-over-1-000-fake-job-postings-after-cbc-investigation-9.7415379",
+   "summary": "Article URL: https://www.cbc.ca/news/canada/linkedin-monster-take-down-over-1-000-fake-job-postings-after-cbc-investigation-9.7415379 Comments URL: https://news.ycombinator.com/item?id=50499723 Points: 7 # Comments: 0",
+   "published_at": 1794682607.0,
+   "published_bj": "2026-11-15 02:56"
+  },
   {
    "id": "c3126058bb63741c",
    "source": "cnBeta",
@@ -56,6 +65,24 @@
    "summary": "Article URL: https://github.com/lmtlssss/speedrunpapi/tree/main/hardware/audit/ieee-float-pkg Comments URL: https://news.ycombinator.com/item?id=50499188 Points: 4 # Comments: 0",
    "published_at": 1794679138.0,
    "published_bj": "2026-11-15 01:58"
+  },
+  {
+   "id": "16562a50cad881aa",
+   "source": "Hacker News",
+   "title": "Claude asked to renumber pages deletes professor's syllabus, year of notes",
+   "url": "https://www.tomshardware.com/tech-industry/artificial-intelligence/rogue-claude-ai-tasked-with-renumbering-pages-accidentally-deletes-law-professors-entire-syllabus-one-year-of-lecture-notes-youre-right-to-be-angry-i-deleted-your-files-through-my-own-carelessness-humbled-agent-admits",
+   "summary": "Article URL: https://www.tomshardware.com/tech-industry/artificial-intelligence/rogue-claude-ai-tasked-with-renumbering-pages-accidentally-deletes-law-professors-entire-syllabus-one-year-of-lecture-notes-youre-right-to-be-angry-i-deleted-your-files-through-my-own-carelessness-humbled-agent-admits Co",
+   "published_at": 1794678673.0,
+   "published_bj": "2026-11-15 01:51"
+  },
+  {
+   "id": "83b5db869317cad2",
+   "source": "Hacker News",
+   "title": "US IRS free online tax filing open source repo",
+   "url": "https://github.com/IRS-Public/direct-file",
+   "summary": "Article URL: https://github.com/IRS-Public/direct-file Comments URL: https://news.ycombinator.com/item?id=50499083 Points: 5 # Comments: 1",
+   "published_at": 1794678500.0,
+   "published_bj": "2026-11-15 01:48"
   },
   {
    "id": "8b3a9cb0183d6254",
@@ -112,6 +139,15 @@
    "published_bj": "2026-11-15 00:52"
   },
   {
+   "id": "6ee838f39ad4469d",
+   "source": "Hacker News",
+   "title": "A short history of the honey trap",
+   "url": "https://engelsbergideas.com/notebook/a-short-history-of-the-honey-trap/",
+   "summary": "Article URL: https://engelsbergideas.com/notebook/a-short-history-of-the-honey-trap/ Comments URL: https://news.ycombinator.com/item?id=50498437 Points: 5 # Comments: 3",
+   "published_at": 1794674791.0,
+   "published_bj": "2026-11-15 00:46"
+  },
+  {
    "id": "4d8a437d7f983a76",
    "source": "TechCrunch",
    "title": "Asian governments react to Nvidia CEO Jensen Huang’s exit",
@@ -119,6 +155,15 @@
    "summary": "Some governments moved to confirm chip supply commitments, while others are monitoring the impact on local projects or addressing ongoing investigations.",
    "published_at": 1794674055.0,
    "published_bj": "2026-11-15 00:34"
+  },
+  {
+   "id": "4e3834ea37a45e15",
+   "source": "Hacker News",
+   "title": "Creating a self booting ZIP archive",
+   "url": "https://goliath32.com/blog/ziphead.html",
+   "summary": "Article URL: https://goliath32.com/blog/ziphead.html Comments URL: https://news.ycombinator.com/item?id=50498295 Points: 7 # Comments: 0",
+   "published_at": 1794673745.0,
+   "published_bj": "2026-11-15 00:29"
   },
   {
    "id": "279fcd0b5dbad52f",
