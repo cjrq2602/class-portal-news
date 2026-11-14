@@ -1,8 +1,80 @@
 {
  "date": "2026-11-14",
- "generated_at": 1794621282.7590723,
- "count": 105,
+ "generated_at": 1794623245.237128,
+ "count": 114,
  "items": [
+  {
+   "id": "189685d91dda2145",
+   "source": "InfoQ中文",
+   "title": "AI 自动写 PR，模型反而最简单：Inkitt 如何应对 Webhook 重复、CI 失败与合并冲突",
+   "url": "https://www.infoq.cn/article/YRXscVHsTh0g6CVCJJ0D?utm_source=rss&utm_medium=article",
+   "summary": "点击查看原文>",
+   "published_at": 1794650400.0,
+   "published_bj": "2026-11-14 18:00"
+  },
+  {
+   "id": "943c3acc0d96ebf8",
+   "source": "InfoQ中文",
+   "title": "从提效到扩能：AI 驱动小团队的能力突破与组织演进｜AICon北京",
+   "url": "https://www.infoq.cn/article/eTz8pt2LoALMvzvxj4aa?utm_source=rss&utm_medium=article",
+   "summary": "点击查看原文>",
+   "published_at": 1794650400.0,
+   "published_bj": "2026-11-14 18:00"
+  },
+  {
+   "id": "c7aade1cf73201e4",
+   "source": "IT之家",
+   "title": "华为首款鸿蒙小折叠电脑 MateBook Fold S 开启预订",
+   "url": "https://www.ithome.com/1/027/053.htm",
+   "summary": "IT之家 11 月 14 日消息，华为首款鸿蒙小折叠电脑 MateBook Fold S 今日 10:08 正式开启预订，提供幻夜黑、天际白、云海蓝三种配色，以及三种存储版本，IT之家汇总如下（价格暂未公布）： 16GB/512GB（含键盘 + 内胆包） 24GB/512GB（含键盘 + 内胆包） 32GB/1TB（含键盘 + 手写笔 + 内胆包） 该产品采用纵向小尺寸折叠形态，将折叠 PC 的机身尺寸压缩至接近书本大小，面向通勤、差旅与移动办公场景。展开后，MateBook Fold S 是一块 14.7 英寸完整屏幕，可容纳文档处理、分屏多窗口等办公场景。 机身外侧配备一块名为“Live ",
+   "published_at": 1794622345.0,
+   "published_bj": "2026-11-14 10:12"
+  },
+  {
+   "id": "c1e36943fb054631",
+   "source": "IT之家",
+   "title": "苹果推送 tvOS 27.2.1 更新，第二 / 第三代 Apple TV 4K 新增 Siri AI 支持",
+   "url": "https://www.ithome.com/1/027/052.htm",
+   "summary": "IT之家 11 月 14 日消息，科技媒体 MacRumors 今天（11 月 14 日）发布博文，报道称苹果已推送 tvOS 27.2.1 以及 HomePod Software 27.2.1，内部开发代号均为 24K157。 本次 tvOS 27.2.1 更新最大的亮点， 是苹果面向第二代和第三代 Apple TV 4K 推送 Siri AI 支持 。对这些设备的用户而言，无须更换新款硬件，即可获得此次语音助手升级。 IT之家附上更新日志内容如下： 此次更新为 Apple TV 4K 带来了更强大且更具对话性的 Siri AI。它还增加了最多四个 HomePod 扬声器连接到 Apple ",
+   "published_at": 1794622303.0,
+   "published_bj": "2026-11-14 10:11"
+  },
+  {
+   "id": "1de76ee7c82cb7dd",
+   "source": "IT之家",
+   "title": "实现“躺平式办公”：Mac 版 Perplexity 上线“AI 队友”，组建你的全天候数字员工",
+   "url": "https://www.ithome.com/1/027/050.htm",
+   "summary": "IT之家 11 月 14 日消息，Perplexity 今天（11 月 14 日）发布公告，邀请付费 Max 订阅用户，在 Mac 平台版 Perplexity 应用上体验 AI 智能体功能“队友”（Teammates）。 该功能此前仅支持 iOS 和网页端，如今进一步覆盖桌面办公场景。 Teammates 可以理解为一组各有分工的“AI 队友”。与需要用户反复提问、逐步下达指令的聊天方式不同，它主打围绕一项职责持续推进工作。用户交代任务后，AI 会规划执行步骤，并跟进至结果可供用户审阅。IT之家附上相关介绍视频如下： 根据 Perplexity 的介绍，用户可以让这些“队友”管理增长营销活动",
+   "published_at": 1794621511.0,
+   "published_bj": "2026-11-14 09:58"
+  },
+  {
+   "id": "cff2b35b31e8694e",
+   "source": "IT之家",
+   "title": "消息称某厂 6.3 英寸 1.5K 小屏机立项，预计小米 REDMI 旗下",
+   "url": "https://www.ithome.com/1/027/048.htm",
+   "summary": "IT之家 11 月 14 日消息，博主 @数码闲聊站 今日发布超前瞻爆料，某厂子系有 6.3 英寸小屏机立项， 采用 1.5K LTPO+LIPO 四等边设计 。结合该博主的爆料习惯，预计新机为小米 REDMI 旗下。 目前尚不清楚这款新机的具体型号，仅从屏幕尺寸上看，新机大小预计与小米 17 标准版接近。 作为参考，小米 17 标准版手机便搭载了 6.3 英寸 1.5K 低功耗超级阳光屏 ，分辨率为 2656x1220，支持最高 120Hz 刷新率及 3500nits 多场景峰值亮度。 IT之家注意到，该博主此前还爆料某厂子系测试了 4 台 7 英寸大屏 + 万级大电池，包含有 2nm 旗舰",
+   "published_at": 1794621174.0,
+   "published_bj": "2026-11-14 09:52"
+  },
+  {
+   "id": "8ef32c19ec03d43a",
+   "source": "IT之家",
+   "title": "部长回应全美航班停飞：事件与微软无关、没有发生网络攻击，只是路由器太旧扛不住流量数据过载",
+   "url": "https://www.ithome.com/1/027/047.htm",
+   "summary": "IT之家 11 月 14 日消息，美国联邦航空管理局（FAA）宣布解除全美航班地面停飞令后，美国国土安全部部长马克韦恩・穆林（Markwayne Mullin）和交通部长肖恩・达菲先后就此次事件作出回应。 穆林表示，目前没有发现网络攻击或人工智能攻击的证据，此次事件与微软无关，但调查仍在进行，不排除网络攻击的可能性。 穆林表示，公众从未处于危险之中，此次实施全美地面停飞是出于高度谨慎。他称，目前情况似乎正朝着正确方向发展，相关部门仍在调查故障原因。对于是否存在网络攻击，他表示目前没有发现相关证据，但不能完全排除这种可能性。 美国交通部长达菲则介绍了此次故障涉及的基础设施问题。他表示，当地时间 ",
+   "published_at": 1794620955.0,
+   "published_bj": "2026-11-14 09:49"
+  },
+  {
+   "id": "e5374daf6006925b",
+   "source": "IT之家",
+   "title": "CNET 耐久测试：苹果首款折叠 iPhone Duo 撑过 45.7 万次开合，铰链磨损变松 / 屏幕未见裂纹",
+   "url": "https://www.ithome.com/1/027/046.htm",
+   "summary": "IT之家 11 月 14 日消息，科技媒体 CNET 昨日（11 月 13 日）结束第 15 天直播后， 苹果首款折叠 iPhone Duo 手机已经历 457,053 次折叠，目前仍能运行，屏幕未见裂纹，但铰链已出现明显磨损迹象。 IT之家附上相关截图如下： 测试人员表示变化最早出现在约 39 万次折叠时，可以感觉到铰链变松。次数增至约 44.03 万次后，手机在机器下一次合拢前已来不及完全展开，距离完全展开还差 5 至 10 度，原先明显的开合到位感也不再出现。 本次折叠测试仍在继续，团队设定的终止条件包括设备断电、传感器无法正确识别屏幕状态，以及屏幕黑屏等。按每天折叠 100 次计算，4",
+   "published_at": 1794620735.0,
+   "published_bj": "2026-11-14 09:45"
+  },
   {
    "id": "066991ae51758745",
    "source": "IT之家",
@@ -218,6 +290,15 @@
    "summary": "IT之家 11 月 14 日消息，开发者 Georgi Gerganov（X 账号为 @ggerganov）昨日（11 月 13 日）在 X 平台发布推文， 宣布开源 AI 推理项目 llama.cpp 与底层机器学习引擎 ggml 的库版本迈入 1.0.0。 IT之家查询公开资料，Gerganov 是开源项目 llama.cpp 的创建者，也是 ggml、 whisper.cpp 等本地 AI 基础软件的重要开发者。他在个人 X 简介中将自己标注为 Hugging Face 工程师，GitHub 资料所在地为保加利亚索非亚。 llama.cpp 是一个主要用 C/C++ 编写的开源 AI 推",
    "published_at": 1794615246.0,
    "published_bj": "2026-11-14 08:14"
+  },
+  {
+   "id": "992096dac0af7535",
+   "source": "Hacker News",
+   "title": "Unsloth Qwen3.8-27B Quantizations – Dynamic v3.1 Update",
+   "url": "https://unsloth.ai/docs/models/qwen3.8",
+   "summary": "Article URL: https://unsloth.ai/docs/models/qwen3.8 Comments URL: https://news.ycombinator.com/item?id=50491980 Points: 9 # Comments: 0",
+   "published_at": 1794614764.0,
+   "published_bj": "2026-11-14 08:06"
   },
   {
    "id": "38cb0290bc3bdef9",
