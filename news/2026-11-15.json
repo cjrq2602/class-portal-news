@@ -1,8 +1,26 @@
 {
  "date": "2026-11-15",
- "generated_at": 1794676640.7588289,
- "count": 3,
+ "generated_at": 1794678898.8828013,
+ "count": 5,
  "items": [
+  {
+   "id": "a3cd725bf661e51c",
+   "source": "TechCrunch",
+   "title": "Transportation secretary blames ‘routine’ equipment upgrade for grounding flights nationwide",
+   "url": "https://techcrunch.com/2026/11/14/transportation-secretary-blames-routine-equipment-upgrade-for-grounding-flights-nationwide/",
+   "summary": "FAA administrator Bryan Bedford also said there's \"zero evidence of anything AI-related.\"",
+   "published_at": 1794678304.0,
+   "published_bj": "2026-11-15 01:45"
+  },
+  {
+   "id": "ace741c7d5d2543f",
+   "source": "TechCrunch",
+   "title": "The AI graveyard: a running list of projects and startups that didn’t make it",
+   "url": "https://techcrunch.com/2026/11/14/the-ai-graveyard-a-running-list-of-projects-and-startups-that-didnt-make-it/",
+   "summary": "From Apple's repeatedly delayed Siri AI to OpenAI's messy \"super app\" launch, here's a look at the AI projects that shut down or missed expectations.",
+   "published_at": 1794677400.0,
+   "published_bj": "2026-11-15 01:30"
+  },
   {
    "id": "4d8a437d7f983a76",
    "source": "TechCrunch",

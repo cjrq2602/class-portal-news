@@ -1,7 +1,7 @@
 {
  "date": "2026-11-14",
- "generated_at": 1794676640.7610161,
- "count": 297,
+ "generated_at": 1794678898.8851256,
+ "count": 298,
  "items": [
   {
    "id": "dfe8eeaaa85aa0d3",
@@ -38,6 +38,15 @@
    "summary": "IT之家 11 月 14 日消息，美国 CBS 电视台交通记者克里斯 · 范 · 克利夫在 X 平台发文称，收到一位美国政府高级官员的消息：导致全美航班地面停飞的故障设备 已被查明并隔离 。 克利夫援引官员的话说，美国联邦航空管理局（FAA）认为，故障仅涉及一种“特定型号”的 20 年历史老路由器。“（系统）基本上是被负载压垮了，不过具体原因尚不清楚。” 初步信息显示， 路由器过载后开始传输不同步的数据 ，造成空管人员的语音通信线路出现杂音，还可能导致显示屏闪烁或黑屏，与 2025 年纽瓦克自由国际机场发生的故障类似。 据IT之家此前报道，当地时间 14 日，航班追踪网站 FlightAwar",
    "published_at": 1794668792.0,
    "published_bj": "2026-11-14 23:06"
+  },
+  {
+   "id": "1c1ec31bacf138cf",
+   "source": "Hacker News",
+   "title": "Show HN: DeepSeek V3 in ~200 lines of pure Jax",
+   "url": "https://github.com/Vaibhaav-Tiwari/deepseek-v3-jax",
+   "summary": "Article URL: https://github.com/Vaibhaav-Tiwari/deepseek-v3-jax Comments URL: https://news.ycombinator.com/item?id=50497589 Points: 17 # Comments: 0",
+   "published_at": 1794668655.0,
+   "published_bj": "2026-11-14 23:04"
   },
   {
    "id": "2d9231dd6f4bf41f",
