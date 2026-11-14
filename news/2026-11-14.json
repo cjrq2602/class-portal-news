@@ -1,7 +1,7 @@
 {
  "date": "2026-11-14",
- "generated_at": 1794623245.237128,
- "count": 114,
+ "generated_at": 1794626836.608254,
+ "count": 132,
  "items": [
   {
    "id": "189685d91dda2145",
@@ -22,6 +22,159 @@
    "published_bj": "2026-11-14 18:00"
   },
   {
+   "id": "eab75536e7a2e6fd",
+   "source": "IT之家",
+   "title": "Take-Two CEO：实体游戏不会消失，但未来会像黑胶唱片一样小众",
+   "url": "https://www.ithome.com/1/027/070.htm",
+   "summary": "IT之家 11 月 14 日消息，Take-Two 首席执行官施特劳斯 · 泽尔尼克（Strauss Zelnick）近日表示，实体游戏不会彻底消失，但未来可能像音乐行业的黑胶唱片一样，逐渐成为规模较小的细分市场。 泽尔尼克在接受 The Game Business 采访时表示，数字发行占据游戏市场绝大部分份额的趋势已经持续多年。他称，自己在 10 多年前就预测数字发行将占据游戏业务 90% 以上的份额，虽然并非每次预测都准确，但这一次判断得到了验证。 谈及实体游戏，泽尔尼克认为，实体游戏业务仍会长期存在，但规模将非常有限。他将其类比为音乐行业仍然存在的黑胶唱片，他认为实体游戏会保留一部分受众",
+   "published_at": 1794626387.0,
+   "published_bj": "2026-11-14 11:19"
+  },
+  {
+   "id": "b83651b449ba1d5f",
+   "source": "IT之家",
+   "title": "打开耗时缩短约 8.7%：微软 Win11 下月将迎新“运行”窗口，支持深色模式",
+   "url": "https://www.ithome.com/1/027/069.htm",
+   "summary": "IT之家 11 月 14 日消息，科技媒体 Windows Latest 今天（11 月 14 日）发布博文， 报道称微软已面向 Windows 11 25H2 和 26H2 预览版，推送重新设计的“运行”窗口，预估将于 12 月面向所有用户开放。 在推送方面，该媒体推测新版“运行”窗口随 11 月下旬可选更新向普通用户开放，并于 12 月 8 日补丁星期二活动日进一步推送。IT之家援引博文介绍，由于采用分阶段发布，用户安装更新后未必立即获得新界面。 调用方式上，新版仍通过 Win+R 快捷键唤出，采用 WinUI 3 构建，新增深色模式，并支持输入 ~\\ 快速进入用户文件夹。性能方面，微软公",
+   "published_at": 1794625883.0,
+   "published_bj": "2026-11-14 11:11"
+  },
+  {
+   "id": "5f2ead877d1cc4ba",
+   "source": "IT之家",
+   "title": "全球最大业载无人货运飞机：白鲸航线 W5000 成功完成技术验证试飞",
+   "url": "https://www.ithome.com/1/027/068.htm",
+   "summary": "IT之家 11 月 14 日消息，白鲸航线今日宣布，W5000 大型无人货运飞机在内蒙古鄂尔多斯鄂托克前旗成功完成技术验证试飞。据悉，该机型为 全球最大业载无人货运飞机 。 爬升、平飞、转弯、下降、进近着陆……W5000 按照既定计划，一气呵成完成全部飞行科目。动力、飞控、航电、地面测控保障系统协同运转，飞机的操控稳定性得到充分验证。在真正飞上蓝天之前，W5000 经历了一场近乎苛刻的“大考”： 铁鸟试验 、静力试验、地面振动试验、全机电源试验、落震摆震试验等等。 IT之家注意到，全球最大的无人货运飞机 W5000 去年 10 月在白鲸航线的常州生产基地成功总装下线。该机型具备 10.8 吨的",
+   "published_at": 1794625789.0,
+   "published_bj": "2026-11-14 11:09"
+  },
+  {
+   "id": "cad79baa9ccc7a53",
+   "source": "IT之家",
+   "title": "荣耀被曝测试多款豪威影像传感器，“最顶”主摄为 2 亿像素 OVB0D",
+   "url": "https://www.ithome.com/1/027/067.htm",
+   "summary": "IT之家 11 月 14 日消息，据博主 @数码闲聊站 今日爆料，荣耀手机正在测试多款豪威旗下的影像传感器。 据其透露，目前测试“最顶”的主摄为 200Mp 1/1.12\" OVB0D LOFIC 1X-2X ，中高端主摄为 200Mp 1/1.55\" OV52F，中高端潜望长焦为 64Mp 1/2\" OV64D，原生方形前摄为 68Mp OV68F。 IT之家注意到，豪威于去年 12 月发布 OVB0D 手机 CMOS 传感器 ，旨在对标索尼 LYTIA 901。OVB0D 传感器拥有 40 万 full-well（满阱容量，每个像素能容纳的最大电荷量）、108dB 动态范围、二代 DCG（",
+   "published_at": 1794625427.0,
+   "published_bj": "2026-11-14 11:03"
+  },
+  {
+   "id": "2d196e6b4b6eb491",
+   "source": "IT之家",
+   "title": "“苹果最暗产品”：苹果首款智能家居中枢 HomeView 屏幕最低仅 0.3 尼特",
+   "url": "https://www.ithome.com/1/027/066.htm",
+   "summary": "IT之家 11 月 14 日消息，昨日（11 月 13 日）在接受 TechRadar 采访时，苹果硬件工程副总裁 Matthew Costello 表示， 苹果首款智能家居中枢 HomeView 屏幕最低仅 0.3 尼特，高管笑称是“最暗的苹果产品”。 IT之家翻译 Costello 采访时回应内容如下： 我非常喜欢 HomeView，这是我们迄今为止设计的产品中最暗的产品，最低亮度降至 0.3 尼特。 所以官方来说，我打造的是苹果公司有史以来最暗的产品。我不知道这是好事还是坏事，但我对此非常自豪。 尼特（nit）是描述屏幕亮度的单位，1 尼特等于 1 坎德拉／平方米。数值越小，意味着在相同",
+   "published_at": 1794625046.0,
+   "published_bj": "2026-11-14 10:57"
+  },
+  {
+   "id": "0d523bab8a80eda4",
+   "source": "Hacker News",
+   "title": "Nvidia Allegedly Engineered Scarcity by Funding AI Startups to Buy Its GPUs",
+   "url": "https://www.techpowerup.com/354814/nvidia-allegedly-engineered-scarcity-by-funding-ai-startups-to-buy-its-gpus",
+   "summary": "Article URL: https://www.techpowerup.com/354814/nvidia-allegedly-engineered-scarcity-by-funding-ai-startups-to-buy-its-gpus Comments URL: https://news.ycombinator.com/item?id=50493251 Points: 13 # Comments: 1",
+   "published_at": 1794624779.0,
+   "published_bj": "2026-11-14 10:52"
+  },
+  {
+   "id": "9f07a1f5fb50c4f3",
+   "source": "IT之家",
+   "title": "上汽大通 27 款大拿 M1 上市：83 度宁德时代天行电池，19.28 万元起",
+   "url": "https://www.ithome.com/1/027/065.htm",
+   "summary": "IT之家 11 月 14 日消息，11 月 13 日，上汽大通 27 款大拿 M1 在国内正式上市，售价 19.28 万元起，搭载 83 度宁德时代天行电池。 IT之家从数据获悉，该车提供 9 座布局 （2+2+2+3 独立、2+2+2+3 联排两种形式），最大座椅间距 750mm，内部空间高度 1675mm。高顶车型车高 2180mm，可畅行 2.2 米以下地库或城市限高路段。 空间方面，该车后厢可容纳 8 个 20 寸登机箱，提供高顶对开尾门与低顶举升尾门两种开启形式；二排为滑动独立座椅，配备前后冷暖空调，侧窗透光面积近 2m²，并标配 USB 接口。 三电方面，该车搭载 83kWh 宁德",
+   "published_at": 1794624722.0,
+   "published_bj": "2026-11-14 10:52"
+  },
+  {
+   "id": "02143bf22c85e538",
+   "source": "IT之家",
+   "title": "全家共用一块屏幕，私人消息怎么办？苹果解释 HomeView 如何守护隐私",
+   "url": "https://www.ithome.com/1/027/064.htm",
+   "summary": "IT之家 11 月 14 日消息，昨日（11 月 13 日）接受科技媒体 TechRader 采访时，苹果硬件工程副总裁 Matthew Costello 与家居产品营销负责人 Cecilia Dantas 介绍了苹果首款智能家居中枢 HomeView 如何守住聊天隐私的。 IT之家援引博文介绍，在采访中，Costello 表示苹果 HomeView 无需手动登录、退出或切换个人资料，可以识别最多 6 名家庭成员。而且用户离开后，设备会撤下其个人信息。显示私人内容前，系统还会检查配对 iPhone 是否在网络中，以及近期是否解锁。 隐私方面，该媒体记者 Jacob Krol 实测他正在 Hom",
+   "published_at": 1794624242.0,
+   "published_bj": "2026-11-14 10:44"
+  },
+  {
+   "id": "19fdce62faff7d27",
+   "source": "IT之家",
+   "title": "微信鸿蒙版 App 获 8.0.23.38 邀测升级",
+   "url": "https://www.ithome.com/1/027/063.htm",
+   "summary": "IT之家 11 月 14 日消息，微信鸿蒙版 App 在华为应用市场（App Gallery）发布了 8.0.23.38 (8394534) 版本邀测升级（需收到短信通知后点击链接跳转安装），测试时间为 2026/11/13-2026/12/13。 和往常一样，本次更新的说明依旧为“修复了一些已知问题”。据博主 @伤心萨摩耶Ciuciu 以及 MeoW 反馈，8.0.23 版微信中发现的新特性包括但不限于（IT之家注：不局限于 8.0.23.38）： 0.部分 Flutter 跨端页面（如朋友圈、听一听等页面）响应系统字体粗细； 1.更换铃声选择界面右上角新增铃声设置入口，支持启用或停用个性化",
+   "published_at": 1794624174.0,
+   "published_bj": "2026-11-14 10:42"
+  },
+  {
+   "id": "c4188c638ee3a580",
+   "source": "IT之家",
+   "title": "格罗方德美国新晶圆厂动工：日本提供资金支持，首座 2029 年投产",
+   "url": "https://www.ithome.com/1/027/062.htm",
+   "summary": "IT之家 11 月 14 日消息，GlobalFoundries（格罗方德）当地时间昨日宣布， 其计划根据美日合作协议建设的两座晶圆厂中的首座于其美国纽约州马耳他市厂区动工 ，预计 2029 年投产。 根据此前宣布的协议， 这两座晶圆厂将采取日本提供资金、格罗方德提供技术的模式 ，投资总额可达 210 亿美元。此次建设的首座晶圆厂获得了约 100 亿美元的初期投资以及纽约州的 5.7 亿美元财政激励，第二座晶圆厂的投资也在 100 亿美元上下。 该美日合作晶圆厂项目预计将为当地带来 2.7 万个建筑及生态系统相关岗位、超 1 千个高技能制造业岗位。 每座晶圆厂的月产能约为 7.5 万片 300",
+   "published_at": 1794624159.0,
+   "published_bj": "2026-11-14 10:42"
+  },
+  {
+   "id": "019e11ce46894a5b",
+   "source": "IT之家",
+   "title": "2026 商保创新药目录扩容至 28 种，百万元 CAR-T 抗癌药与中国首个血友病基因治疗药入选，患者自付价格大幅下降",
+   "url": "https://www.ithome.com/1/027/061.htm",
+   "summary": "IT之家 11 月 14 日消息，据央视新闻今日报道，国家医保局在 2026 年创新药高质量发展大会上披露了商业健康保险创新药品目录的最新调整结果。经过本轮调整，商保创新药目录新增 12 种药品，目录内药品总数由此达到 28 种。 此次新增的品种集中在高值创新疗法领域。其中，全球首个获批用于实体瘤的 CAR-T 产品舒瑞基奥仑赛注射液（商品名：恺力美）进入目录。该药靶向 CLDN18.2，适用于既往至少接受过二线治疗失败的晚期胃 / 食管胃结合部腺癌，单次制备定价 99 万元。 CAR-T（嵌合抗原受体 T 细胞免疫疗法，通过改造患者自身 T 细胞来识别并攻击肿瘤细胞）此前获批的适应证均限于血",
+   "published_at": 1794624004.0,
+   "published_bj": "2026-11-14 10:40"
+  },
+  {
+   "id": "339048ced54dfe92",
+   "source": "IT之家",
+   "title": "11.68 天，我国 6000 米深层页岩油钻井速度刷新纪录",
+   "url": "https://www.ithome.com/1/027/060.htm",
+   "summary": "IT之家 11 月 14 日消息，据央视新闻报道，今天（14 日），记者从中国石化获悉，胜利油田丰页 B13HF 井以 11.68 天的钻井周期， 刷新国内 6000 米井深陆相页岩油井最短钻井周期纪录 ，为深层页岩油规模化、效益化开发提供了提速降本的新路径。 报道称，刚刚创出 11.68 天钻井纪录的丰页 B13HF 井，位于山东东营的胜利济阳页岩油国家级示范区民丰 8 号台井场。目前，井场里的首批 12 口油井全部完钻，平均钻井周期 13.83 天，日进尺突破 2000 米，实现钻井能力集体跃升。 中国石化集团公司资深专家万绪新介绍称，我们首创“新型井工厂”模式，就是把多部钻机共用一套系统",
+   "published_at": 1794623862.0,
+   "published_bj": "2026-11-14 10:37"
+  },
+  {
+   "id": "6fea9716696b0d84",
+   "source": "IT之家",
+   "title": "索尼宣布《战神：斯巴达之子》推出 PS4 版，新增两种游戏模式",
+   "url": "https://www.ithome.com/1/027/058.htm",
+   "summary": "IT之家 11 月 14 日消息，索尼圣莫尼卡工作室宣布 2D 动作平台游戏《战神：斯巴达之子》将于 11 月 16 日登陆 PS4，发售时间为当地时间午夜。 《战神：斯巴达之子》此前已于 2026 年 2 月 12 日率先登陆 PS5，由 Mega Cat Studios 与 Santa Monica Studio 合作开发，是一款采用复古像素美术风格的 2D 动作平台游戏。故事以年轻时期的奎托斯为主角，讲述他与弟弟戴莫斯在斯巴达接受严酷训练期间的经历。 价格方面，游戏标准版售价为 29.99 美元 / 29.99 欧元 / 24.99 英镑 / 3,480 日元 （IT之家注：现汇率约合 ",
+   "published_at": 1794623586.0,
+   "published_bj": "2026-11-14 10:33"
+  },
+  {
+   "id": "b010acc313f80d84",
+   "source": "Hacker News",
+   "title": "Ggml v1.0.0",
+   "url": "https://github.com/ggml-org/ggml/releases/tag/v1.0.0",
+   "summary": "Article URL: https://github.com/ggml-org/ggml/releases/tag/v1.0.0 Comments URL: https://news.ycombinator.com/item?id=50493062 Points: 12 # Comments: 0",
+   "published_at": 1794623309.0,
+   "published_bj": "2026-11-14 10:28"
+  },
+  {
+   "id": "15f9510c59c69809",
+   "source": "IT之家",
+   "title": "配 A20 芯片：古尔曼重申苹果 iPhone 18/18e 明年春季将登场",
+   "url": "https://www.ithome.com/1/027/057.htm",
+   "summary": "IT之家 11 月 14 日消息，在最新一期 Power On 访谈节目中，彭博社的马克 · 古尔曼（Mark Gurman）再次透露， 苹果将会在 2027 年春季发布 iPhone 18 和 iPhone 18e 两款手机，将会搭载 A20 芯片。 在上述视频的约 36:43~37:00 分，古尔曼表示：“iPhone 18 和 iPhone 18e 将于明年春季搭载普通版 A20 芯片”。 IT之家此前报道， 消息称 iPhone 18 将配备 6.3 英寸 1.5K 120Hz OLED 常规灵动岛屏幕 ，搭载 2nm 制程工艺的 A20 芯片，拥有 Face ID、48MP 双摄，同",
+   "published_at": 1794623205.0,
+   "published_bj": "2026-11-14 10:26"
+  },
+  {
+   "id": "82f18067ef62efcc",
+   "source": "Hacker News",
+   "title": "Nvidia director sold nearly $1B in stock weeks before the Jensen Huang scandal",
+   "url": "https://finance.yahoo.com/markets/stocks/articles/nvidia-director-sold-nearly-1b-160000846.html",
+   "summary": "Article URL: https://finance.yahoo.com/markets/stocks/articles/nvidia-director-sold-nearly-1b-160000846.html Comments URL: https://news.ycombinator.com/item?id=50492993 Points: 33 # Comments: 9",
+   "published_at": 1794622896.0,
+   "published_bj": "2026-11-14 10:21"
+  },
+  {
+   "id": "0782b27ffc7c47a1",
+   "source": "IT之家",
+   "title": "上汽大通 27 款大拿 V1 上市：标配宁德时代天行电池，8.88 万元起",
+   "url": "https://www.ithome.com/1/027/054.htm",
+   "summary": "IT之家 11 月 14 日消息，11 月 13 日，上汽大通 27 款大拿 V1 在国内正式上市，售价 8.88 万元起。 IT之家从官方数据获悉，该车长宽高分别为 4800mm、1870mm、1960mm，内部空间 7m³。多功能版提供 2+3、3+3、3+2 三种座椅布局，营运版提供 7/8/9 座（2+2+3、3+2+3、3+3+3）。 装载一侧，该车配备 270° 最大开合角后尾门，地板高度 520mm，行李区最大纵深 1.42m。官方称其最小转弯半径为 5.75m，顶高 1.96m 可畅行 2 米限高地库，离地间隙 185mm，涉水深度 300mm。 三电方面，该车 CLTC 续航",
+   "published_at": 1794622847.0,
+   "published_bj": "2026-11-14 10:20"
+  },
+  {
    "id": "c7aade1cf73201e4",
    "source": "IT之家",
    "title": "华为首款鸿蒙小折叠电脑 MateBook Fold S 开启预订",
@@ -38,6 +191,15 @@
    "summary": "IT之家 11 月 14 日消息，科技媒体 MacRumors 今天（11 月 14 日）发布博文，报道称苹果已推送 tvOS 27.2.1 以及 HomePod Software 27.2.1，内部开发代号均为 24K157。 本次 tvOS 27.2.1 更新最大的亮点， 是苹果面向第二代和第三代 Apple TV 4K 推送 Siri AI 支持 。对这些设备的用户而言，无须更换新款硬件，即可获得此次语音助手升级。 IT之家附上更新日志内容如下： 此次更新为 Apple TV 4K 带来了更强大且更具对话性的 Siri AI。它还增加了最多四个 HomePod 扬声器连接到 Apple ",
    "published_at": 1794622303.0,
    "published_bj": "2026-11-14 10:11"
+  },
+  {
+   "id": "76df70ae590a1de9",
+   "source": "Hacker News",
+   "title": "Elephants Found to Be Increasingly Isolated Leading to Fractured Social Networks",
+   "url": "https://today.ucsd.edu/story/elephants-found-to-be-increasingly-isolated-leading-to-fractured-social-networks",
+   "summary": "Article URL: https://today.ucsd.edu/story/elephants-found-to-be-increasingly-isolated-leading-to-fractured-social-networks Comments URL: https://news.ycombinator.com/item?id=50492860 Points: 33 # Comments: 4",
+   "published_at": 1794621762.0,
+   "published_bj": "2026-11-14 10:02"
   },
   {
    "id": "1de76ee7c82cb7dd",
