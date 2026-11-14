@@ -1,8 +1,17 @@
 {
  "date": "2026-11-15",
- "generated_at": 1794687281.6744032,
- "count": 23,
+ "generated_at": 1794689818.9670603,
+ "count": 25,
  "items": [
+  {
+   "id": "112e090548b32d01",
+   "source": "cnBeta",
+   "title": "微软大规模全球宕机引发索赔行动 部分客户寻求获得服务补偿",
+   "url": "https://www.cnbeta.com.tw/articles/tech/1586430.htm",
+   "summary": "微软日前遭遇持续近一整天的大规模全球服务中断事件，多项在线服务受到不同程度影响。随着事故影响逐渐显现，一些客户开始采取行动，希望推动微软为此次故障造成的损失承担相应责任，并向受影响用户提供服务补偿。 阅读全文",
+   "published_at": 1794689724.0,
+   "published_bj": "2026-11-15 04:55"
+  },
   {
    "id": "4bb7e3f730a36376",
    "source": "TechCrunch",
@@ -11,6 +20,15 @@
    "summary": "Even Elon Musk said the monthly fee is \"too high.\"",
    "published_at": 1794686684.0,
    "published_bj": "2026-11-15 04:04"
+  },
+  {
+   "id": "9cbe69be1b9fe7ec",
+   "source": "Hacker News",
+   "title": "Dartmouth (Guarini) will not admit math PhD cohort this year",
+   "url": "https://www.thedartmouth.com/article/2026/11/gandhi-fagell-guarini-will-not-admit-math-ph-d-cohort-this-year",
+   "summary": "Article URL: https://www.thedartmouth.com/article/2026/11/gandhi-fagell-guarini-will-not-admit-math-ph-d-cohort-this-year Comments URL: https://news.ycombinator.com/item?id=50499945 Points: 12 # Comments: 0",
+   "published_at": 1794684220.0,
+   "published_bj": "2026-11-15 03:23"
   },
   {
    "id": "fb561fcae6d91848",
