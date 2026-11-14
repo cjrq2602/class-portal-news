@@ -1,0 +1,378 @@
+{
+ "type": "today",
+ "date": "2026-11-14",
+ "window": {
+  "start_ts": 1794585600.0,
+  "end_ts": 1794618000.0
+ },
+ "generated_at": 1794621284.2289739,
+ "generator": "action",
+ "news_count": 95,
+ "keywords": [
+  "ai",
+  "to",
+  "in",
+  "伟达",
+  "微软",
+  "英伟",
+  "ground",
+  "faa",
+  "stop",
+  "for"
+ ],
+ "points": [
+  {
+   "text": "【to】Article URL: https://www",
+   "keyword": "to",
+   "news_ids": [
+    "1979f95ba1e5f255"
+   ],
+   "refs": [
+    {
+     "id": "1979f95ba1e5f255",
+     "title": "FAA issues nationwide ground stop due to \"extraordinary circumstances\"",
+     "source": "Hacker News",
+     "url": "https://www.axios.com/2026/11/13/faa-nationwide-ground-stop",
+     "published_at": 1794604129.0
+    }
+   ]
+  },
+  {
+   "text": "【ai】围绕英伟达前首席执行官黄仁勋近期所引发的争议事件，再度出现新的调查进展",
+   "keyword": "ai",
+   "news_ids": [
+    "9b01faa593ab3267"
+   ],
+   "refs": [
+    {
+     "id": "9b01faa593ab3267",
+     "title": "传与黄仁勋关系密切人士涉足中国AI产业链 报告称其关联企业曾接触受限英伟达芯片",
+     "source": "cnBeta",
+     "url": "https://www.cnbeta.com.tw/articles/tech/1586312.htm",
+     "published_at": 1794590561.0
+    }
+   ]
+  },
+  {
+   "text": "【ai】Article URL: https://alphasignal",
+   "keyword": "ai",
+   "news_ids": [
+    "32bfe763ecd215f0"
+   ],
+   "refs": [
+    {
+     "id": "32bfe763ecd215f0",
+     "title": "Anthropic Upgrades Claude Code Projects to Run Parallel AI Workers Hands-Free",
+     "source": "Hacker News",
+     "url": "https://alphasignal.ai/news/anthropic-upgrades-claude-code-projects-to-run-parallel-ai-workers-hands-free",
+     "published_at": 1794616091.0
+    }
+   ]
+  },
+  {
+   "text": "【微软】IT之家 11 月 14 日消息，针对美国联邦航空管理局（FAA）突发全国性航班地面停飞事件带来的猜测，微软刚刚在 X 上回应称，目前没有迹象表",
+   "keyword": "微软",
+   "news_ids": [
+    "f792b18fac6aa242"
+   ],
+   "refs": [
+    {
+     "id": "f792b18fac6aa242",
+     "title": "微软：没有迹象表明全美国航班停飞与 M365 服务宕机有关",
+     "source": "IT之家",
+     "url": "https://www.ithome.com/1/027/003.htm",
+     "published_at": 1794611591.0
+    }
+   ]
+  },
+  {
+   "text": "【ai】Nvidia poured tens of billions into AI startups under Huang",
+   "keyword": "ai",
+   "news_ids": [
+    "d9badb4f94a17b0d"
+   ],
+   "refs": [
+    {
+     "id": "d9badb4f94a17b0d",
+     "title": "Jensen Huang’s departure blasts big hole in AI startup funding, VCs and founders say",
+     "source": "TechCrunch",
+     "url": "https://techcrunch.com/2026/11/13/jensen-huangs-departure-blasts-big-hole-in-ai-startup-funding-vcs-and-founders-say/",
+     "published_at": 1794609780.0
+    }
+   ]
+  },
+  {
+   "text": "【to】Drogue is harvesting heat from the ocean to power data centers on floati",
+   "keyword": "to",
+   "news_ids": [
+    "a1056fed78c58128"
+   ],
+   "refs": [
+    {
+     "id": "a1056fed78c58128",
+     "title": "This young startup wants to power floating data centers with the ocean’s heat, and investors are alr",
+     "source": "TechCrunch",
+     "url": "https://techcrunch.com/2026/11/13/this-young-startup-wants-to-power-floating-data-centers-with-the-oceans-heat-and-investors-are-already-on-board/",
+     "published_at": 1794600444.0
+    }
+   ]
+  },
+  {
+   "text": "IT之家 11 月 14 日消息，特斯拉宣布开始向部分个人用户开放 Cybercab 无人驾驶汽车购买渠道，起售价为 29,990 美元 （IT",
+   "keyword": "",
+   "news_ids": [
+    "b13efb792ea397a2"
+   ],
+   "refs": [
+    {
+     "id": "b13efb792ea397a2",
+     "title": "特斯拉 Cybercab 面向个人用户开放销售：售 29990 美元，每月还需支付 299 美元自动驾驶订阅费用",
+     "source": "IT之家",
+     "url": "https://www.ithome.com/1/027/034.htm",
+     "published_at": 1794617951.0
+    }
+   ]
+  },
+  {
+   "text": "IT之家 11 月 14 日消息，拜雅（beyerdynamic）昨日（11 月 13 日）发布公告，宣布扩充 PRO X 系列， 推出 DT ",
+   "keyword": "",
+   "news_ids": [
+    "efe5f384e53662a7"
+   ],
+   "refs": [
+    {
+     "id": "efe5f384e53662a7",
+     "title": "拜雅推出 4 款新 Pro X 限量黑色特别版耳机，售价 1499 元起",
+     "source": "IT之家",
+     "url": "https://www.ithome.com/1/027/031.htm",
+     "published_at": 1794617092.0
+    }
+   ]
+  },
+  {
+   "text": "IT之家 11 月 14 日消息，据游戏媒体 Insider Gaming 当地时间 11 月 13 日报道，育碧正在早期开发一款《彩虹六号：维",
+   "keyword": "",
+   "news_ids": [
+    "de35376b3e0850dd"
+   ],
+   "refs": [
+    {
+     "id": "de35376b3e0850dd",
+     "title": "育碧被曝开发《彩虹六号：维加斯》新作，项目代号“Spades”",
+     "source": "IT之家",
+     "url": "https://www.ithome.com/1/027/029.htm",
+     "published_at": 1794617068.0
+    }
+   ]
+  },
+  {
+   "text": "IT之家 11 月 14 日消息，日本光学厂商确善能（Cosina）宣布推出福伦达（Voigtländer）NOKTON 35mm F1.2 A",
+   "keyword": "",
+   "news_ids": [
+    "98bb65dca6e5683b"
+   ],
+   "refs": [
+    {
+     "id": "98bb65dca6e5683b",
+     "title": "福伦达 NOKTON 35mm F1.2 全画幅镜头发布，提供索尼 E 、尼康 Z 卡口",
+     "source": "IT之家",
+     "url": "https://www.ithome.com/1/027/026.htm",
+     "published_at": 1794616160.0
+    }
+   ]
+  },
+  {
+   "text": "IT之家 11 月 14 日消息，科技媒体 TechPowerUp 昨日（11 月 13 日）发布博文，报道称英特尔本月（2026 年 11 月",
+   "keyword": "",
+   "news_ids": [
+    "7c216f753bfd9644"
+   ],
+   "refs": [
+    {
+     "id": "7c216f753bfd9644",
+     "title": "英特尔新一代酷睿露面：Razor Lake 台式机、笔记本型号标识获确认",
+     "source": "IT之家",
+     "url": "https://www.ithome.com/1/027/025.htm",
+     "published_at": 1794615980.0
+    }
+   ]
+  },
+  {
+   "text": "IT之家 11 月 14 日消息，11 月 13 日，在 NISSAN DAY 现场，日产 Z NISMO 硬顶跑车国内首发，建议售价 66 万",
+   "keyword": "",
+   "news_ids": [
+    "67f88c1e1b37eede"
+   ],
+   "refs": [
+    {
+     "id": "67f88c1e1b37eede",
+     "title": "日产 Z NISMO 硬顶跑车国内首发：售价 66 万元，半年内全国仅 9 台配额",
+     "source": "IT之家",
+     "url": "https://www.ithome.com/1/027/024.htm",
+     "published_at": 1794615682.0
+    }
+   ]
+  },
+  {
+   "text": "IT之家 11 月 14 日消息，雷蛇今日发布了辉月神专业版电竞椅，中国区定价 7999 元",
+   "keyword": "",
+   "news_ids": [
+    "4bda515f262e3541"
+   ],
+   "refs": [
+    {
+     "id": "4bda515f262e3541",
+     "title": "雷蛇辉月神专业版电竞椅发布：六马达多区域触觉反馈、THX 扬声器、RGB 灯效，7999 元",
+     "source": "IT之家",
+     "url": "https://www.ithome.com/1/027/022.htm",
+     "published_at": 1794615521.0
+    }
+   ]
+  },
+  {
+   "text": "IT之家 11 月 14 日消息，开发者 Georgi Gerganov（X 账号为 @ggerganov）昨日（11 月 13 日）在 X 平",
+   "keyword": "",
+   "news_ids": [
+    "eeadecee522c4471"
+   ],
+   "refs": [
+    {
+     "id": "eeadecee522c4471",
+     "title": "本地推理引擎 llama.cpp 1.0.0 史诗级更新：支持超 150 种模型架构，断网也能满血跑大模型",
+     "source": "IT之家",
+     "url": "https://www.ithome.com/1/027/019.htm",
+     "published_at": 1794615246.0
+    }
+   ]
+  },
+  {
+   "text": "IT之家 11 月 14 日消息，Tom's Hardware 发现英特尔近日悄悄推出了一款酷睿 Ultra 7 260K 处理器，搭载该 CP",
+   "keyword": "",
+   "news_ids": [
+    "c8251f3a21d1088c"
+   ],
+   "refs": [
+    {
+     "id": "c8251f3a21d1088c",
+     "title": "英特尔酷睿 Ultra 7 260K 低调上市：20 核处理器性能比肩 265K，但仅随整机销售",
+     "source": "IT之家",
+     "url": "https://www.ithome.com/1/027/014.htm",
+     "published_at": 1794614106.0
+    }
+   ]
+  }
+ ],
+ "article": {
+  "title": "2026-11-14 新闻总结",
+  "paragraphs": [
+   {
+    "kind": "lead",
+    "text": "今天共收录 95 条新闻，来自 6 家媒体。把标题放在一起看，讨论主要集中在 AI 这几个方向上，其余消息更像是零散补充。"
+   },
+   {
+    "kind": "section",
+    "heading": "通信",
+    "text": "先看「通信」。当地时间11月13日下午，美国联邦航空管理局（FAA）宣布对全美所有机场实施全国范围的“地面停飞令”（Ground Stop），另有 19 条消息指向同一话题。对读者来说，值得留意的不是结论本身，而是它背后哪些前提正在被改变。",
+    "news_ids": [
+     "cca02e9a8fe451fd"
+    ],
+    "refs": [
+     {
+      "id": "cca02e9a8fe451fd",
+      "title": "FAA因空管通信故障叫停美国所有机场的起飞航班",
+      "source": "cnBeta",
+      "url": "https://www.cnbeta.com.tw/articles/tech/1586324.htm",
+      "published_at": 1794610133.0
+     }
+    ]
+   },
+   {
+    "kind": "section",
+    "heading": "AI",
+    "text": "与此同时「AI」。围绕英伟达前首席执行官黄仁勋近期所引发的争议事件，另有 19 条消息指向同一话题。这类进展更像是把已有能力往工程化落地推了一步，真正的分水岭在于成本和可靠性能不能同时压下来。",
+    "news_ids": [
+     "9b01faa593ab3267"
+    ],
+    "refs": [
+     {
+      "id": "9b01faa593ab3267",
+      "title": "传与黄仁勋关系密切人士涉足中国AI产业链 报告称其关联企业曾接触受限英伟达芯片",
+      "source": "cnBeta",
+      "url": "https://www.cnbeta.com.tw/articles/tech/1586312.htm",
+      "published_at": 1794590561.0
+     }
+    ]
+   },
+   {
+    "kind": "section",
+    "heading": "重组",
+    "text": "另一个值得注意的方向是「重组」。IT之家 11 月 14 日消息，《财富》昨日（11 月 13 日）发布博文，爆料称 OpenAI 已解散独立机器人团队，另有 12 条消息指向同一话题。这类进展更像是把已有能力往工程化落地推了一步，真正的分水岭在于成本和可靠性能不能同时压下来。",
+    "news_ids": [
+     "21d989c321fb4e6e"
+    ],
+    "refs": [
+     {
+      "id": "21d989c321fb4e6e",
+      "title": "要让 GPT-6 Astra 等通用 AI 当机器人“大脑”：OpenAI 宣布重组具身智能团队",
+      "source": "IT之家",
+      "url": "https://www.ithome.com/1/027/004.htm",
+      "published_at": 1794611858.0
+     }
+    ]
+   },
+   {
+    "kind": "section",
+    "heading": "安全",
+    "text": "相比之下「安全」。IT之家 11 月 14 日消息，欧洲航空安全组织 13 日晚发布通告称，应美国联邦航空局要求，因技术问题，另有 3 条消息指向同一话题。技术路线的胜负很少由一次发布会决定，接下来要看的是它能不能被更多团队低成本复用。",
+    "news_ids": [
+     "ff6652043525d5c2"
+    ],
+    "refs": [
+     {
+      "id": "ff6652043525d5c2",
+      "title": "美国突发全国性航班停飞，欧洲航空安全组织暂停成员国赴美航班起飞",
+      "source": "IT之家",
+      "url": "https://www.ithome.com/1/027/028.htm",
+      "published_at": 1794616739.0
+     }
+    ]
+   },
+   {
+    "kind": "glossary",
+    "items": [
+     {
+      "term": "AI",
+      "desc": "人工智能，让机器完成识别、生成、判断等原本需要人做的任务"
+     },
+     {
+      "term": "Agent",
+      "desc": "智能体，能自己拆解任务、调用工具并连续执行的 AI 程序"
+     },
+     {
+      "term": "大模型",
+      "desc": "参数量巨大的神经网络，靠海量文本训练出语言理解与生成能力"
+     },
+     {
+      "term": "开源",
+      "desc": "源代码公开，允许他人查看、修改并再分发"
+     },
+     {
+      "term": "推理",
+      "desc": "模型根据输入算出输出的过程；日常语境里也指模型的逻辑思考能力"
+     }
+    ]
+   },
+   {
+    "kind": "outlook",
+    "text": "整体看，这个时段的新闻还处在「消息多、结论少」的阶段，与其急着下判断，不如盯住接下来一两周有没有可验证的后续动作。"
+   }
+  ],
+  "word_count": 591
+ },
+ "ai_enhanced": false,
+ "schema": 1,
+ "window_bj": {
+  "start": "2026-11-14 00:00",
+  "end": "2026-11-14 09:00"
+ }
+}
