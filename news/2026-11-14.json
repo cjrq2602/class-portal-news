@@ -1,7 +1,7 @@
 {
  "date": "2026-11-14",
- "generated_at": 1794663919.902401,
- "count": 267,
+ "generated_at": 1794666994.746212,
+ "count": 279,
  "items": [
   {
    "id": "2d9231dd6f4bf41f",
@@ -11,6 +11,114 @@
    "summary": "点击查看原文>",
    "published_at": 1794668400.0,
    "published_bj": "2026-11-14 23:00"
+  },
+  {
+   "id": "c2302b2d0958ecc6",
+   "source": "IT之家",
+   "title": "曝小米与“AMG 之父”创办的 HWA 秘密合作，希望打造“载入史册”新车",
+   "url": "https://www.ithome.com/1/027/240.htm",
+   "summary": "IT之家 11 月 14 日消息，当地时间 11 月 5 日，意媒 Quattroruote 援引不具名知情人士消息称，小米与 HWA 或在秘密合作开发一款 超高性能汽车 ，部分知名零部件供应商也有望参与其中。 IT之家注：HWA 由 AMG 创始人汉斯 · 维尔纳 · 奥夫雷希特创办， 脱胎于 AMG，长期负责奔驰的赛车项目 ，这其中就包括德国房车大师赛（DTM）。 双方据称希望打造一款 性能前所未有、足以载入汽车史册 的车型。新车的具体形式仍未确定，既有可能是全新的旗舰车型，也有可能是小米现有两款车型（SU7/YU7）的极致性能版。 ▲ 现款小米 SU7 Ultra 过去几周，多辆采用更激",
+   "published_at": 1794666053.0,
+   "published_bj": "2026-11-14 22:20"
+  },
+  {
+   "id": "55722c07ba4499f0",
+   "source": "Solidot",
+   "title": "天问四号将尝试登陆木卫四",
+   "url": "https://www.solidot.org/story?sid=85887",
+   "summary": "11 月 13 日，探月与航天工程中心发布通知，天问四号有效载荷研制方案开展征集。天问四号任务将执行环绕木星、环绕木卫四、着陆木卫四三大任务。木卫四或 Callisto 是太阳系第三大卫星，也是木星第二大卫星，仅次于木卫三。木卫四的直径为水星直径的 99%，但是质量只有它的三分之一。木卫四由近乎等量的岩石和水所构成，其表面下 100 公里处可能有一个液态水构成的地下海洋，可能具有孕育生命的基本条件。",
+   "published_at": 1794665552.0,
+   "published_bj": "2026-11-14 22:12"
+  },
+  {
+   "id": "f298c66d38cffe06",
+   "source": "IT之家",
+   "title": "“像一大群蜜蜂”：亚马逊 Prime Air 送货无人机噪音过大，遭当地居民投诉",
+   "url": "https://www.ithome.com/1/027/239.htm",
+   "summary": "IT之家 11 月 14 日消息，据休斯顿纪事报报道，亚马逊旗下的超快无人机配送服务 Prime Air 曾承诺，无论是午间零食、日用百货还是紧急医疗用品，只要重量在 5 磅 （IT之家注：约 2.3 千克） 以内，最快都能在 30 分钟内通过空中直送消费者家门口，然而当地居民对该服务并不买账。 在亚马逊开展该项服务的得克萨斯州各社区中，噪音污染已成为居民频繁投诉的焦点。 “刚推出时，这确实挺酷、挺新奇的，但现在简直快把我逼疯了。”当地居民表示，“ 这听起来就像一大群蜜蜂在耳边盘旋，音量比普通的蜂群大得多，而且从早到晚响个不停 。”自 Prime Air 无人机进驻该地区以来，当地居民针对噪音",
+   "published_at": 1794665372.0,
+   "published_bj": "2026-11-14 22:09"
+  },
+  {
+   "id": "dd14f2a49e2c5c78",
+   "source": "Hacker News",
+   "title": "Serving GLM-5.3 at 607.8 tok/s across two Nvidia DGX stations with vLLM",
+   "url": "https://developer.nvidia.com/blog/when-one-gpu-isnt-enough-serving-glm-5-3-across-two-nvidia-dgx-stations-with-vllm/",
+   "summary": "Article URL: https://developer.nvidia.com/blog/when-one-gpu-isnt-enough-serving-glm-5-3-across-two-nvidia-dgx-stations-with-vllm/ Comments URL: https://news.ycombinator.com/item?id=50497155 Points: 6 # Comments: 0",
+   "published_at": 1794665365.0,
+   "published_bj": "2026-11-14 22:09"
+  },
+  {
+   "id": "2964cb6def89e6f6",
+   "source": "Solidot",
+   "title": "微软云服务宕机持续逾 24 小时",
+   "url": "https://www.solidot.org/story?sid=85886",
+   "summary": "微软周六表示，影响各国企业和政府所用 Microsoft 365 应用的全球服务中断已经结束，这次中断持续了超过 24 小时。微软在 X 上发文说：“我们已完成解决这一事件根本问题的工作，并为其余受影响的客户和地区恢复了服务。”Teams、Outlook 和 Copilot 等微软应用都受到了这次服务中断的影响，导致数十个国家出现通信问题。微软表示，“没有发现”任何可能导致这次服务中断的外部干扰，并将问题归咎于服务器故障。这次中断是微软历史上持续时间最长的中断之一，也是今年的第二次。英国国家网络安全中心前负责人 Ciaran Martin 认为这次宕机事故在规模上类似亚马逊 AWS 和 Cro",
+   "published_at": 1794664550.0,
+   "published_bj": "2026-11-14 21:55"
+  },
+  {
+   "id": "2b516388a8e81d90",
+   "source": "Hacker News",
+   "title": "Italy fines Meta $887M over Android users' data access",
+   "url": "https://www.reuters.com/world/italy-fines-meta-887-million-over-android-users-data-access-2026-11-14/",
+   "summary": "Article URL: https://www.reuters.com/world/italy-fines-meta-887-million-over-android-users-data-access-2026-11-14/ Comments URL: https://news.ycombinator.com/item?id=50497009 Points: 6 # Comments: 0",
+   "published_at": 1794664086.0,
+   "published_bj": "2026-11-14 21:48"
+  },
+  {
+   "id": "4026ebb1efba1780",
+   "source": "IT之家",
+   "title": "智能体帮你联络商家或保险公司，Meta 旗下 Muse 上线代打电话功能",
+   "url": "https://www.ithome.com/1/027/238.htm",
+   "summary": "IT之家 11 月 14 日消息，Meta 旗下 AI 智能体 Muse 推出代打电话功能，开通高级付费订阅后，用户就能让 Muse 代自己联系美国商家。Meta 称，Muse 可以帮助用户处理各种烦琐事务，完成待办事项。 13 日凌晨，Meta 首席 AI 官汪滔在 X 上发文宣布：“Muse 能帮你打完所有不想亲自打的电话。” 据悉，用户可以借助 Muse 联 系保险公司或有线电视服务商、预约美国车管部门的业务办理时间，或是打电话向餐厅订位 。 Muse 会使用 AI 合成语音 与商家工作人员交谈，但这类功能并非总能顺利完成任务。部分商家的工作人员听出对方是 AI 后便直接挂断电话，有人是",
+   "published_at": 1794664016.0,
+   "published_bj": "2026-11-14 21:46"
+  },
+  {
+   "id": "e9875550cfae250a",
+   "source": "Hacker News",
+   "title": "The Claude Delusion",
+   "url": "https://www.netmeister.org/blog/claude-delusion.html",
+   "summary": "Article URL: https://www.netmeister.org/blog/claude-delusion.html Comments URL: https://news.ycombinator.com/item?id=50496921 Points: 6 # Comments: 0",
+   "published_at": 1794663377.0,
+   "published_bj": "2026-11-14 21:36"
+  },
+  {
+   "id": "e820306c4701b737",
+   "source": "IT之家",
+   "title": "黄仁勋辞任 CEO 后，英伟达诞生地丹尼餐厅移除纪念铭牌、又宣布将重新挂回",
+   "url": "https://www.ithome.com/1/027/233.htm",
+   "summary": "IT之家 11 月 14 日消息，据 NBC News 报道，在一家丹尼餐厅（Denny’s）路边店内，硅谷历史的一角仿佛凭空消失了。 30 多年前，黄仁勋与两位好友正是在这里构想出了英伟达，而如今纪念这一确切位置的牌匾已不翼而飞。牌匾上的铭文曾写道：“开启一家万亿美元公司的卡座”，如今只剩下一片空荡荡的砖墙和剥落的墙漆。两名店员证实，牌匾已被撤下。 ▲ 2023 年，丹尼餐厅 CEO Kelli Valade 与英伟达创始人黄仁勋在加利福尼亚州圣何塞的丹尼餐厅同框 IT之家注意到，在该媒体发文后，丹尼餐厅的一位发言人表示，该连锁餐厅正在“重新安装这块牌匾，以纪念在丹尼餐厅促成英伟达诞生的那些",
+   "published_at": 1794663065.0,
+   "published_bj": "2026-11-14 21:31"
+  },
+  {
+   "id": "367048838479e98b",
+   "source": "IT之家",
+   "title": "荷兰皇家航空前 CEO 被曝机上违规使用充电宝引发火情，公司提请指控",
+   "url": "https://www.ithome.com/1/027/231.htm",
+   "summary": "IT之家 11 月 14 日消息，据央视新闻今天（14 日）晚间报道，荷兰皇家航空公司前首席执行官（CEO）卡米尔 · 厄尔林斯 9 月在该公司一架客机上违规使用充电宝引发火情，荷航日前已就此事 向检方提请指控厄尔林斯 。 荷航 13 日在一份声明中说：“如果乘客严重违反安全规定，危及航班、乘客或机组人员安全，公司方面会提出指控， 这是标准做法 。” 荷航没有公布当事人身份。消息人士称，受指控的是厄尔林斯。 多方消息称，9 月 17 日，一架荷航客机从荷兰首都阿姆斯特丹飞往加勒比海的荷兰海外属地库拉索，途中客舱出现火情。当时， 厄尔林斯违规使用充电宝，充电宝过热自燃，浓烟笼罩客舱，火焰把窗户遮",
+   "published_at": 1794662906.0,
+   "published_bj": "2026-11-14 21:28"
+  },
+  {
+   "id": "19c1363bf9df836d",
+   "source": "Solidot",
+   "title": "美国历史上第三次航班大停飞",
+   "url": "https://www.solidot.org/story?sid=85884",
+   "summary": "美国 FAA 本周五宣布了其历史上第三次全国航班停飞，持续 4.5 小时后解除。此举导致近 1 万架次航班被取消。FAA 历史上第一次全国航班停飞是 2001 年的 911 事件，第二次是 2023 年 1 月 11 日，持续不到 2 小时。对于最新的事件，美国交通部长 Sean Duffy 给出的理由是空管系统依赖的仍是几十年前的模拟设备，已完全无法满足 21 世纪的需求。但也有报道称此次事件与软件升级失败有关：由 L3Harris Technologies 管理的通信网络更新时导致系统重启，进而导致系统崩溃及通信中断。L3Harris 未回应这一说法。",
+   "published_at": 1794662663.0,
+   "published_bj": "2026-11-14 21:24"
+  },
+  {
+   "id": "c72c1b7fc598d4d0",
+   "source": "Hacker News",
+   "title": "Advancing science and engineering with Antigravity's /teamwork",
+   "url": "https://research.google/blog/advancing-science-engineering-with-antigravitys-teamwork-feature/",
+   "summary": "Article URL: https://research.google/blog/advancing-science-engineering-with-antigravitys-teamwork-feature/ Comments URL: https://news.ycombinator.com/item?id=50496811 Points: 5 # Comments: 0",
+   "published_at": 1794662443.0,
+   "published_bj": "2026-11-14 21:20"
   },
   {
    "id": "fa8e0664a807b41c",
