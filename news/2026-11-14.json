@@ -1,7 +1,7 @@
 {
  "date": "2026-11-14",
- "generated_at": 1794634108.4663491,
- "count": 139,
+ "generated_at": 1794637729.014252,
+ "count": 149,
  "items": [
   {
    "id": "189685d91dda2145",
@@ -20,6 +20,78 @@
    "summary": "点击查看原文>",
    "published_at": 1794650400.0,
    "published_bj": "2026-11-14 18:00"
+  },
+  {
+   "id": "095e51b4ffa1b62d",
+   "source": "cnBeta",
+   "title": "Gemini接入Google Wallet 可基于消费记录提供个性化预算建议",
+   "url": "https://www.cnbeta.com.tw/articles/tech/1586332.htm",
+   "summary": "Google宣布，Google Wallet现已加入Gemini“Personal Intelligence（个人智能）”可连接应用名单，与Gmail、Google Photos、YouTube和Google Search等服务并列。用户完成连接后，Gemini将能够基于其消费记录和支出习惯提供更加个性化的财务分析与预算建议。 阅读全文",
+   "published_at": 1794637608.0,
+   "published_bj": "2026-11-14 14:26"
+  },
+  {
+   "id": "10a9f86727d417f3",
+   "source": "cnBeta",
+   "title": "使用KMS激活系统时反复报错？微软确认是11月更新导致",
+   "url": "https://www.cnbeta.com.tw/articles/tech/1586330.htm",
+   "summary": "据微软发布的支持文档，安装 11 月安全更新后，部分 SLMGR 操作可能会失败并返回 0x80041008 错误代码。该问题主要影响通过命令行或自动化脚本管理激活的组织，已经激活的设备将继续保持激活状态，不会因安装更新而掉激活。 阅读全文",
+   "published_at": 1794637449.0,
+   "published_bj": "2026-11-14 14:24"
+  },
+  {
+   "id": "8cccddab76f62db7",
+   "source": "IT之家",
+   "title": "Nothing 手机阵容明年翻倍至少 6 款，A036 等 3 款机型已现踪迹",
+   "url": "https://www.ithome.com/1/027/122.htm",
+   "summary": "IT之家 11 月 14 日消息，科技媒体 Smartprix 昨日（11 月 13 日）发布博文， 报道称 Nothing 的手机阵容在 2027 年将扩至 6 款，目前已出现 A006、A010 以及 A036 三款机型。 IT之家援引博文介绍，Nothing 联合创始人、印度区总裁 Akis Evangelidis 于 10 月 30 日表示，公司 2027 年智能手机新品数量将超过 2026 年的两倍。以今年已推出的 Phone (4a)、Phone (4a) Pro 和 Phone (4b) 三款产品计算，明年新品至少为 6 款。 该媒体指出 2027 年阵容中，A006 和 A01",
+   "published_at": 1794636550.0,
+   "published_bj": "2026-11-14 14:09"
+  },
+  {
+   "id": "a3af60e9995e1d74",
+   "source": "IT之家",
+   "title": "比亚迪：网传“某数字能源出售给比亚迪”不实",
+   "url": "https://www.ithome.com/1/027/121.htm",
+   "summary": "IT之家 11 月 14 日消息，比亚迪网络举报中心公众号今日发文称，针对网络流传“某数字能源出售给比亚迪”相关信息，经核实： 该消息无任何事实依据，属于虚假信息 。 公告称：“网络不是法外之地，对于编造、传播虚假信息扰乱网络秩序的行为，我们将保留追究相关主体法律责任的权利。” IT之家附比亚迪公告截图如下：",
+   "published_at": 1794636245.0,
+   "published_bj": "2026-11-14 14:04"
+  },
+  {
+   "id": "8c8a84d42a1f343e",
+   "source": "IT之家",
+   "title": "极狐贝塔 S3 激光换电版上市：宁德时代电池，限时补贴价 7.88 万元起",
+   "url": "https://www.ithome.com/1/027/120.htm",
+   "summary": "IT之家 11 月 14 日消息，11 月 13 日，极狐贝塔 S3 535Ultra+ 激光换电版在国内上市，限时补贴价 7.88 万元起（电池租用）。 据官方公布信息，此次电池租用提供两档方案：家庭尊享礼月租金 399 元、月里程额度 5000 公里；畅行尊享礼月租金 599 元、不限月里程额度。 产品层面，该车搭载宁德时代巧克力换电电池，支持 99 秒极速换电 ；采用前置前驱布局与永磁同步电机，最大功率 159kW，峰值扭矩 250N・m，0-100km/h 加速 7.1 秒，最高车速 165km/h， CLTC 续航 535km 。 座舱配备 15.6 英寸悬浮式中控屏与 8.8 英寸",
+   "published_at": 1794635343.0,
+   "published_bj": "2026-11-14 13:49"
+  },
+  {
+   "id": "8da20117e85c77cc",
+   "source": "IT之家",
+   "title": "微软下月移除 Win10/Win11 版 Word 部分“兼容模式”遗留设置，恐影响旧文档排版",
+   "url": "https://www.ithome.com/1/027/119.htm",
+   "summary": "IT之家 11 月 14 日消息，根据管理中心官方公告 MC1551147， 微软计划于 2026 年 12 月开始调整 Windows 10/Windows 11 桌面版 Word，移除“兼容模式”中的部分遗留设置。 而 macOS 桌面版 Word 将于 2027 年 5 月启动。 官方公告中并未明确移除哪些遗留设置，不过 Word 的兼容模式主要便于用户查询使用旧版 Word 创建的文档。IT之家援引博文介绍，在移除相关设置后，可能出现文字重新排列、间距和页数变化，以及图片、形状位置偏移等问题。 微软表示，此次精简旨在简化文档布局处理，并提供更一致的跨平台体验。对于仍需查阅旧文档、且要求",
+   "published_at": 1794635336.0,
+   "published_bj": "2026-11-14 13:48"
+  },
+  {
+   "id": "d3efb919dba22710",
+   "source": "IT之家",
+   "title": "谷歌高管借 Gemini AI 成功让苹果 iPhone Duo 运行微软 Win11",
+   "url": "https://www.ithome.com/1/027/118.htm",
+   "summary": "IT之家 11 月 14 日消息，谷歌 AI Studio 产品与设计负责人阿马尔 · 雷希（Ammaar Reshi）于 11 月 12 日在 X 平台发布推文，分享了一段视频， 演示在苹果首款折叠手机 iPhone Duo 上运行 Windows 11 系统，并在 GitHub 上开源 WindowsiOS 项目。 雷希表示借助谷歌 Gemini 4 Carbon 模型，成功开发 WindowsiOS 项目，通过虚拟机方式，在 iPhone Duo 上运行 Windows 11 on Arm 24H2 系统镜像，并支持触控操作。 根据演示效果，在 iPhone Duo 半折叠状态下，上半屏",
+   "published_at": 1794634288.0,
+   "published_bj": "2026-11-14 13:31"
+  },
+  {
+   "id": "81cfe8caf5f1207b",
+   "source": "IT之家",
+   "title": "微软承认 10 月 Win10/Win11 更新导致数据库连接异常，部分服务器可能越跑越慢",
+   "url": "https://www.ithome.com/1/027/097.htm",
+   "summary": "IT之家 11 月 14 日消息，科技媒体 BornCity 今天（11 月 14 日）发布博文，报道称微软已承认部分 Windows 11、Windows 10 系统安装 10 月 13 日发布的累积更新后， 部分使用 SQL Server 的环境可能出现数据库连接无法正常关闭的问题，且 11 月更新尚未修复该问题。 在影响范围方面，IT之家援引博文介绍，微软承认该问题影响以下版本： Windows 11, version 26H1 Windows 11, version 25H2 Windows 11, version 24H2 Windows 11, version 23H2 Windo",
+   "published_at": 1794633299.0,
+   "published_bj": "2026-11-14 13:14"
   },
   {
    "id": "6dbb7b39ee24fafe",
@@ -236,6 +308,15 @@
    "summary": "IT之家 11 月 14 日消息，11 月 13 日，上汽大通 27 款大拿 V1 在国内正式上市，售价 8.88 万元起。 IT之家从官方数据获悉，该车长宽高分别为 4800mm、1870mm、1960mm，内部空间 7m³。多功能版提供 2+3、3+3、3+2 三种座椅布局，营运版提供 7/8/9 座（2+2+3、3+2+3、3+3+3）。 装载一侧，该车配备 270° 最大开合角后尾门，地板高度 520mm，行李区最大纵深 1.42m。官方称其最小转弯半径为 5.75m，顶高 1.96m 可畅行 2 米限高地库，离地间隙 185mm，涉水深度 300mm。 三电方面，该车 CLTC 续航",
    "published_at": 1794622847.0,
    "published_bj": "2026-11-14 10:20"
+  },
+  {
+   "id": "ca6886e463840790",
+   "source": "Hacker News",
+   "title": "Security Agencies Worldwide Found to Use Ad-Based Surveillance System",
+   "url": "https://citizenlab.ca/security-agencies-worldwide-found-to-use-ad-based-surveillance-system/",
+   "summary": "Article URL: https://citizenlab.ca/security-agencies-worldwide-found-to-use-ad-based-surveillance-system/ Comments URL: https://news.ycombinator.com/item?id=50492950 Points: 57 # Comments: 2",
+   "published_at": 1794622541.0,
+   "published_bj": "2026-11-14 10:15"
   },
   {
    "id": "c7aade1cf73201e4",
@@ -479,6 +560,15 @@
    "summary": "IT之家 11 月 14 日消息，科技媒体 TechPowerUp 昨日（11 月 13 日）发布博文，报道称英特尔本月（2026 年 11 月）更新的《架构指令集扩展编程参考》（第 063 版）中，新增了 Razor Lake 消费级处理器与 Coral Rapids 至强服务器处理器的型号标识。 第 063 版文档显示，Razor Lake 与 Nova Lake 同属编号为 18（十六进制 12H）的处理器家族。其中，12_06H、12_0AH 对应台式机，12_07H、12_09H 对应笔记本。这些是供软件识别处理器的底层标识，并非消费者购买时看到的商品型号。 新功能方面，Razor ",
    "published_at": 1794615980.0,
    "published_bj": "2026-11-14 08:26"
+  },
+  {
+   "id": "29ae09292512d316",
+   "source": "Hacker News",
+   "title": "Philip Roth and David Remnick getting personal (2001)",
+   "url": "https://salmagundi.skidmore.edu/articles/2001-philip-roth-david-remnick",
+   "summary": "Article URL: https://salmagundi.skidmore.edu/articles/2001-philip-roth-david-remnick Comments URL: https://news.ycombinator.com/item?id=50492098 Points: 14 # Comments: 0",
+   "published_at": 1794615686.0,
+   "published_bj": "2026-11-14 08:21"
   },
   {
    "id": "67f88c1e1b37eede",
