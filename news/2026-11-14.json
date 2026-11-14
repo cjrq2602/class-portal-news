@@ -1,7 +1,7 @@
 {
  "date": "2026-11-14",
- "generated_at": 1794684256.322618,
- "count": 298,
+ "generated_at": 1794687281.67638,
+ "count": 299,
  "items": [
   {
    "id": "dfe8eeaaa85aa0d3",
@@ -92,6 +92,15 @@
    "summary": "IT之家 11 月 14 日消息，过去几十年里，不想花钱买 Mac、却又希望使用 macOS 的用户，可以通过组装“黑苹果”电脑实现。不过，自从苹果改用自研 Arm 芯片后，黑苹果的安装难度大幅提高。 据外媒 TechSpot 今天（14 日）晚间报道，近期出现的至少两个新项目，则试图让 macOS 登陆骁龙和 x86 平台 。 其中一个项目 开发了 Arm 转 x86 指令翻译层 ，计划让大多数较新的英特尔和 AMD 处理器能够运行 macOS，早期版本现已开放试用。另一个项目则在 搭载骁龙处理器的华硕 Zenbook 笔记本上成功启动 macOS ，部分基本功能也能正常使用。 黑苹果的历史",
    "published_at": 1794667784.0,
    "published_bj": "2026-11-14 22:49"
+  },
+  {
+   "id": "a71e61e962f002a0",
+   "source": "Hacker News",
+   "title": "Demystifying phone unlocking tools: A technical overview",
+   "url": "https://osservatorionessuno.org/blog/2026/05/demystifying-phone-unlocking-tools-a-technical-overview/",
+   "summary": "Article URL: https://osservatorionessuno.org/blog/2026/05/demystifying-phone-unlocking-tools-a-technical-overview/ Comments URL: https://news.ycombinator.com/item?id=50497416 Points: 20 # Comments: 0",
+   "published_at": 1794667468.0,
+   "published_bj": "2026-11-14 22:44"
   },
   {
    "id": "d7685747ba81166e",

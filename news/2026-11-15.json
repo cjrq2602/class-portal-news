@@ -1,8 +1,17 @@
 {
  "date": "2026-11-15",
- "generated_at": 1794684256.3210568,
- "count": 21,
+ "generated_at": 1794687281.6744032,
+ "count": 23,
  "items": [
+  {
+   "id": "4bb7e3f730a36376",
+   "source": "TechCrunch",
+   "title": "Tesla opens Cybercab pre-orders ‘for personal use,’ with geo restrictions and a $299 monthly fee",
+   "url": "https://techcrunch.com/2026/11/14/tesla-opens-cybercab-pre-orders-for-personal-use-with-geo-restrictions-and-a-299-monthly-fee/",
+   "summary": "Even Elon Musk said the monthly fee is \"too high.\"",
+   "published_at": 1794686684.0,
+   "published_bj": "2026-11-15 04:04"
+  },
   {
    "id": "fb561fcae6d91848",
    "source": "Hacker News",
@@ -11,6 +20,15 @@
    "summary": "Article URL: https://www.cbc.ca/news/canada/linkedin-monster-take-down-over-1-000-fake-job-postings-after-cbc-investigation-9.7415379 Comments URL: https://news.ycombinator.com/item?id=50499723 Points: 7 # Comments: 0",
    "published_at": 1794682607.0,
    "published_bj": "2026-11-15 02:56"
+  },
+  {
+   "id": "222cd135ca9f6bb0",
+   "source": "Hacker News",
+   "title": "A reimagined OS with no folders and no apps",
+   "url": "https://www.mercuryos.com/",
+   "summary": "Article URL: https://www.mercuryos.com/ Comments URL: https://news.ycombinator.com/item?id=50499712 Points: 6 # Comments: 5",
+   "published_at": 1794682512.0,
+   "published_bj": "2026-11-15 02:55"
   },
   {
    "id": "c3126058bb63741c",
