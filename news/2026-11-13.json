@@ -1,6 +1,6 @@
 {
  "date": "2026-11-13",
- "generated_at": 1794747009.1909807,
+ "generated_at": 1794750378.5926774,
  "count": 400,
  "items": [
   {
@@ -722,6 +722,15 @@
    "summary": "IT之家 11 月 13 日消息，据游民星空报道，随着《GTA6》发售临近，抖音平台向主播发布了一份《GTA6 抖音开播合规引导》，相应文档内容从抖音官方主播群流出，并未公开发布，主要是帮助为主播划定开播规则。 具体来看，相应文档要求主播应当遮挡大尺度内容，建议主播通过直播伴侣 LUT 滤镜、OBS 滤镜或显卡自带滤镜进行处理，或者直接使用游戏的“色盲模式”，将血液从红色变为绿色、灰色等其他颜色。 参考IT之家先前报道，Rockstar Games 于 11 月 12 日正式开通了经认证的抖音官方账号 ，认证主体为“ROCKSTAR INTERNATIONAL LIMITED”，IP 属地显示",
    "published_at": 1794571361.0,
    "published_bj": "2026-11-13 20:02"
+  },
+  {
+   "id": "283c741a0699dda2",
+   "source": "Hacker News",
+   "title": "Show HN: Carton Clock – A working pendulum clock made from empty drink cartons",
+   "url": "https://www.niklasroy.com/carton-clock/",
+   "summary": "After my last trash clock ( https://news.ycombinator.com/item?id=49930439 ), I wanted to see how low I could go. My latest clock is built mainly from empty drink cartons, plus a few skewers, some paper straws, a piece of string, some nuts as weights, and lots of hot glue. It has a pendulum, an escap",
+   "published_at": 1794571218.0,
+   "published_bj": "2026-11-13 20:00"
   },
   {
    "id": "0c0f8161f0c5fc24",
@@ -3593,15 +3602,6 @@
    "summary": "Article URL: https://www.nytimes.com/2026/11/12/business/nvidia-megaspeed-alice-huang.html Comments URL: https://news.ycombinator.com/item?id=50471621 Points: 52 # Comments: 6",
    "published_at": 1794507258.0,
    "published_bj": "2026-11-13 02:14"
-  },
-  {
-   "id": "1a2305297621c7b6",
-   "source": "cnBeta",
-   "title": "三星结束近四年反向无线充电专利诉讼 Wireless PowerShare侵权争议庭外和解",
-   "url": "https://www.cnbeta.com.tw/articles/tech/1586132.htm",
-   "summary": "三星电子围绕Galaxy手机反向无线充电功能展开的一场专利诉讼，终于在持续近四年后画上句号。三星、专利持有方WiPQTUS Inc.以及日本半导体企业瑞萨电子（Renesas Electronics）已经达成庭外和解，三方同意撤销所有相关诉讼请求，并承诺今后不再就同一争议事项相互提起诉讼。 阅读全文",
-   "published_at": 1794506762.0,
-   "published_bj": "2026-11-13 02:06"
   }
  ]
 }
