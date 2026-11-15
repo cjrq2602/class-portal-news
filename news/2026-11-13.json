@@ -1,6 +1,6 @@
 {
  "date": "2026-11-13",
- "generated_at": 1794724272.8947523,
+ "generated_at": 1794728703.031434,
  "count": 400,
  "items": [
   {
@@ -721,6 +721,15 @@
    "url": "https://www.ithome.com/1/026/937.htm",
    "summary": "IT之家 11 月 13 日消息，据 IGN 报道，Rockstar 今天再次于 Instagram 平台“Only in Dade”小号中更新《GTA 6》实机视频，主要展示了多辆豪华跑车在街道上行驶的视频，其画面表现力再次体现了《GTA 6》出色的图形保真度。 昨天首段视频曝光时，许多玩家一度认为画面由 AI 生成。直到 Rockstar 官方在 Instagram 上转发了相关内容后，玩家才发现这是真正的《GTA 6》游戏实机画面。 按照官方预热节奏，预计后续我们还能看到更多《GTA 6》实机视频，目前本作已经开放预载，玩家可以提前下载游戏以便届时快速开玩。",
    "published_at": 1794570929.0,
+   "published_bj": "2026-11-13 19:55"
+  },
+  {
+   "id": "5e6807e40a850b32",
+   "source": "Hacker News",
+   "title": "The Evolving Story of How Chemistry Became Biology",
+   "url": "https://www.quantamagazine.org/the-evolving-story-of-how-chemistry-became-biology-20261112/",
+   "summary": "Article URL: https://www.quantamagazine.org/the-evolving-story-of-how-chemistry-became-biology-20261112/ Comments URL: https://news.ycombinator.com/item?id=50482222 Points: 34 # Comments: 6",
+   "published_at": 1794570919.0,
    "published_bj": "2026-11-13 19:55"
   },
   {
@@ -3593,15 +3602,6 @@
    "summary": "Article URL: https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-hydrogen/ Comments URL: https://news.ycombinator.com/item?id=50471431 Points: 278 # Comments: 177",
    "published_at": 1794506508.0,
    "published_bj": "2026-11-13 02:01"
-  },
-  {
-   "id": "96449803279fe7c2",
-   "source": "Hacker News",
-   "title": "Show HN: Kapso – Iterative learning from enterprise data",
-   "url": "https://news.ycombinator.com/item?id=50471281",
-   "summary": "Hey HN! We're Alireza and Majid building Leeroo ( https://leeroo.com/ ). Previously we’ve built AI systems for products with millions of users, including at LinkedIn and Meta. We’re now focusing on building AI systems for enterprise data. Today, we're open-sourcing Kapso ( https://github.com/Leeroo-",
-   "published_at": 1794505883.0,
-   "published_bj": "2026-11-13 01:51"
   }
  ]
 }
