@@ -1,8 +1,44 @@
 {
  "date": "2026-11-16",
- "generated_at": 1794766454.6927798,
- "count": 6,
+ "generated_at": 1794769663.972966,
+ "count": 10,
  "items": [
+  {
+   "id": "e613af7fcaf35b10",
+   "source": "Hacker News",
+   "title": "Eclipse Mosquitto – An open source MQTT broker",
+   "url": "https://github.com/eclipse-mosquitto/mosquitto",
+   "summary": "Article URL: https://github.com/eclipse-mosquitto/mosquitto Comments URL: https://news.ycombinator.com/item?id=50509416 Points: 3 # Comments: 0",
+   "published_at": 1794767800.0,
+   "published_bj": "2026-11-16 02:36"
+  },
+  {
+   "id": "5c967e106b114e43",
+   "source": "TechCrunch",
+   "title": "Flaming Hydra’s new Kickstarter campaign rethinks e-book ownership and digital lending",
+   "url": "https://techcrunch.com/2026/11/15/flaming-hydras-new-kickstarter-campaign-rethinks-e-book-ownership-and-digital-lending/",
+   "summary": "A new Kickstarter campaign aims to usher in the “return of the human internet.”",
+   "published_at": 1794767354.0,
+   "published_bj": "2026-11-16 02:29"
+  },
+  {
+   "id": "b1df853ecd63b3e6",
+   "source": "Hacker News",
+   "title": "A short explainer on how El Niño works [video]",
+   "url": "https://www.youtube.com/watch?v=7_JF3etiAv8",
+   "summary": "Article URL: https://www.youtube.com/watch?v=7_JF3etiAv8 Comments URL: https://news.ycombinator.com/item?id=50509308 Points: 27 # Comments: 1",
+   "published_at": 1794767001.0,
+   "published_bj": "2026-11-16 02:23"
+  },
+  {
+   "id": "792a4f4cf61ebd4e",
+   "source": "Hacker News",
+   "title": "'Birdbrain' Is a Misnomer. Crows Make Decisions Faster Than We Can",
+   "url": "https://www.nytimes.com/2026/11/15/science/birdbrain-crows-birds-research-decision.html",
+   "summary": "Article URL: https://www.nytimes.com/2026/11/15/science/birdbrain-crows-birds-research-decision.html Comments URL: https://news.ycombinator.com/item?id=50509023 Points: 21 # Comments: 12",
+   "published_at": 1794765211.0,
+   "published_bj": "2026-11-16 01:53"
+  },
   {
    "id": "74fdf0dd41c94ed1",
    "source": "TechCrunch",
