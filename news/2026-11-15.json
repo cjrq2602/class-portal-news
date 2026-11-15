@@ -1,7 +1,7 @@
 {
  "date": "2026-11-15",
- "generated_at": 1794764219.2862332,
- "count": 256,
+ "generated_at": 1794766454.6946707,
+ "count": 257,
  "items": [
   {
    "id": "8bbfd66bbe233dd4",
@@ -119,6 +119,15 @@
    "summary": "因 Meta 的 Android 版 Facebook 应用未经用户明确同意或充分披露的情况下访问用户的手机相册和视频，意大利监管机构对其处以 8.05 亿欧元罚款。调查人员发现，该功能默认开启，而 Facebook 在申请访问用户相册权限时，将该权限与多种不同用途的应用功能捆绑在一起，通过单一授权请求获取访问权。意大利要求 Meta 在 60 天内禁用该功能，对该功能的启用额外征求用户同意。意大利约有 2000 万 Android 用户，此次罚款是意大利对科技巨头开出的金额最高的罚单之一。意大利监管机构表示，在做出处罚决定时，考虑了受影响人数巨大以及 Meta 不配合等因素。对这一处罚，Me",
    "published_at": 1794750716.0,
    "published_bj": "2026-11-15 21:51"
+  },
+  {
+   "id": "545de45d3497132b",
+   "source": "Hacker News",
+   "title": "Show HN: db-branch – database branches in seconds for AI agents and CI, via ZFS",
+   "url": "https://github.com/db-branch/db-branch",
+   "summary": "Article URL: https://github.com/db-branch/db-branch Comments URL: https://news.ycombinator.com/item?id=50506940 Points: 6 # Comments: 2",
+   "published_at": 1794750651.0,
+   "published_bj": "2026-11-15 21:50"
   },
   {
    "id": "1ede93cba4e9793a",
