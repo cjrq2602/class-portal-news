@@ -1,7 +1,7 @@
 {
  "date": "2026-11-16",
- "generated_at": 1794769663.972966,
- "count": 10,
+ "generated_at": 1794772666.8302417,
+ "count": 12,
  "items": [
   {
    "id": "e613af7fcaf35b10",
@@ -10,6 +10,15 @@
    "url": "https://github.com/eclipse-mosquitto/mosquitto",
    "summary": "Article URL: https://github.com/eclipse-mosquitto/mosquitto Comments URL: https://news.ycombinator.com/item?id=50509416 Points: 3 # Comments: 0",
    "published_at": 1794767800.0,
+   "published_bj": "2026-11-16 02:36"
+  },
+  {
+   "id": "b58f40a439088b85",
+   "source": "Hacker News",
+   "title": "Microsoft 365 outage leads to chlorine gas poisoning of 15 hotel guests",
+   "url": "https://www1.wdr.de/nrw/rheinland/rhein-erft-kreis/technischer-defekt-chlor-phantasialand-100.html",
+   "summary": "Article URL: https://www1.wdr.de/nrw/rheinland/rhein-erft-kreis/technischer-defekt-chlor-phantasialand-100.html Comments URL: https://news.ycombinator.com/item?id=50509411 Points: 67 # Comments: 22",
+   "published_at": 1794767770.0,
    "published_bj": "2026-11-16 02:36"
   },
   {
@@ -38,6 +47,15 @@
    "summary": "Article URL: https://www.nytimes.com/2026/11/15/science/birdbrain-crows-birds-research-decision.html Comments URL: https://news.ycombinator.com/item?id=50509023 Points: 21 # Comments: 12",
    "published_at": 1794765211.0,
    "published_bj": "2026-11-16 01:53"
+  },
+  {
+   "id": "12a2e8280967cec0",
+   "source": "Hacker News",
+   "title": "Clice v1.0 Released: Welcome to Modern C++",
+   "url": "https://ykiko.me/en/articles/2105384023094834022/",
+   "summary": "Article URL: https://ykiko.me/en/articles/2105384023094834022/ Comments URL: https://news.ycombinator.com/item?id=50508715 Points: 12 # Comments: 1",
+   "published_at": 1794763352.0,
+   "published_bj": "2026-11-16 01:22"
   },
   {
    "id": "74fdf0dd41c94ed1",
