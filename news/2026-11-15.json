@@ -1,7 +1,7 @@
 {
  "date": "2026-11-15",
- "generated_at": 1794735625.7912405,
- "count": 195,
+ "generated_at": 1794738318.455083,
+ "count": 203,
  "items": [
   {
    "id": "36a95652176fc03a",
@@ -13,6 +13,33 @@
    "published_bj": "2026-11-15 23:00"
   },
   {
+   "id": "00f9d0684a2d77bf",
+   "source": "cnBeta",
+   "title": "Stellantis获AI电动拖车专利 普通小车也能拖房车",
+   "url": "https://www.cnbeta.com.tw/articles/tech/1586500.htm",
+   "summary": "近日，汽车巨头Stellantis获得一项颇具创新性的电动拖车装置专利。 该设计通过为拖车配备独立电机、电池以及AI辅助控制系统，让原本动力有限的小型汽车也有望具备拖挂房车的能力，甚至可能改变传统房车出行对大马力皮卡的依赖。 阅读全文",
+   "published_at": 1794737028.0,
+   "published_bj": "2026-11-15 18:03"
+  },
+  {
+   "id": "004f00a3c1c4f809",
+   "source": "cnBeta",
+   "title": "英伟达陷入CEO继承难题",
+   "url": "https://www.cnbeta.com.tw/articles/tech/1586498.htm",
+   "summary": "多年来，黄仁勋一直开玩笑说，作为英伟达的联合创始人兼首席执行官，他执掌这家公司已逾三十年，想要取代他几乎是不可能的。“再也不会有第二个我，”他在今年1月的一次采访中说道。“原因就在于，我是在这家公司里成长起来的。” 阅读全文",
+   "published_at": 1794736980.0,
+   "published_bj": "2026-11-15 18:03"
+  },
+  {
+   "id": "4ac7c546e077a678",
+   "source": "cnBeta",
+   "title": "R星称GTA6开发预算略低于迪拜哈利法塔15亿美元造价",
+   "url": "https://www.cnbeta.com.tw/articles/game/1586496.htm",
+   "summary": "《GTA6》的开发预算一直是官方严守的机密，但Rockstar Games近日给出了一个颇为特别的参照，向彭博社表示这款待发新作的制作成本，略低于迪拜哈利法塔15亿美元的建造费用。 阅读全文",
+   "published_at": 1794736957.0,
+   "published_bj": "2026-11-15 18:02"
+  },
+  {
    "id": "0edace1bb97bd5ec",
    "source": "InfoQ中文",
    "title": "闭环 AI 自我进化：从 Skill、Harness 到模型训练与评估｜AICon北京",
@@ -20,6 +47,42 @@
    "summary": "点击查看原文>",
    "published_at": 1794736800.0,
    "published_bj": "2026-11-15 18:00"
+  },
+  {
+   "id": "6213426af7868a24",
+   "source": "IT之家",
+   "title": "消息称黄仁勋离职后参与遴选接班人，已与至少一位英伟达新 CEO 候选人通话",
+   "url": "https://www.ithome.com/1/027/418.htm",
+   "summary": "IT之家 11 月 15 日消息，据华盛顿邮报报道，多年来，黄仁勋常开玩笑地说，作为英伟达的联合创始人兼首席执行官，他执掌这家公司已超三十年，几乎没有人能接替他。 “永远不会再有第二个我，”他在今年 1 月的一次采访中说道，“原因就在于我是在这家公司里一步步成长起来的。” 然而，黄仁勋本周的突然辞职，让英伟达不得不面对一项棘手的难题：为这位长期将自己塑造成“不可替代”的首席执行官寻找继任者。 一位消息人士透露， 尽管保持低调，但黄仁勋目前正在参与到继任进程中 ，并且已经与至少一位潜在候选人进行了通话 。 IT之家注意到，哈佛商学院教授安迪 · 吴（Andy Wu）将其称为“过去 10 到 20",
+   "published_at": 1794735952.0,
+   "published_bj": "2026-11-15 17:45"
+  },
+  {
+   "id": "1b92183d89cad4ab",
+   "source": "IT之家",
+   "title": "999 → 699 元起：酷派 COOL X Wide 阔直板手机再降价，搭载联发科曦力 G99 芯片",
+   "url": "https://www.ithome.com/1/027/417.htm",
+   "summary": "酷派阔直板手机 Cool X Wide 8GB+128GB 官方定价 999 元，8GB+256GB 版本 1199 元，12GB+256GB 版本 1399 元。 今日京东国补后 849 元起，晒单返 100E 卡（详询客服），折合低至 749 元起。 银发用户 / 学生用户再补贴 50 元，折合仅需 699 元起： 京东 酷派 COOL X Wide 阔直板智能手机 国补 849 元起 直达链接 这款新机搭载 6.38 英寸 16:10 屏幕，仅 720x1158 分辨率，还支持 90Hz 刷新率；有鎏白、岩黑、嫣红三种配色可选，机身尺寸为 150.3×94.5×8.95mm，后置 500",
+   "published_at": 1794735696.0,
+   "published_bj": "2026-11-15 17:41"
+  },
+  {
+   "id": "4cf5ace86d58cb71",
+   "source": "IT之家",
+   "title": "宝马称若消费者有需求，将考虑在新世代车型上带回更多实体按键",
+   "url": "https://www.ithome.com/1/027/415.htm",
+   "summary": "IT之家 11 月 15 日消息，宝马近年来对新世代（Neue Klasse）车型的内饰设计进行了大幅调整，大量取消传统实体按键，转而采用触控面板和触摸屏操作，以取代上一代车型上的各种开关和旋钮。 不过，宝马并不打算永远坚持这种极简设计。如果有足够多的消费者希望重新使用实体按键，宝马愿意听取意见。 据澳大利亚汽车媒体 Carsales 报道，宝马新世代车型数字技术负责人克劳迪娅 · 迈尔（Claudia Maier）在新款 3 系和 i3 的全球发布活动期间接受采访时，谈到了这一问题。 IT之家注意到，从 i3、iX3、iX4，到 X5/iX5 以及 7 系 / i7 等新车型，都能看出宝马座",
+   "published_at": 1794734907.0,
+   "published_bj": "2026-11-15 17:28"
+  },
+  {
+   "id": "00daf6ef3f850ed4",
+   "source": "IT之家",
+   "title": "利用 Claude 辅助编程：爱好者将 Seeed Studio“电子墨水屏便利贴”改造为苹果 Apple TV 遥控器",
+   "url": "https://www.ithome.com/1/027/414.htm",
+   "summary": "IT之家 11 月 15 日消息，据 XDA 报道，一位 Reddit 用户 Frankynov 将自己的 Seeed Studio reTerminal Sticky“电子墨水屏便利贴”改造为了苹果 Apple TV 遥控器。 Frankynov 透露，整个项目基于 Home Assistant 构建，利用了 Claude 进行辅助编程，不仅能够控制 Apple TV 播放内容，还可以通过触摸屏调节家中的灯光等智能家居设备。 目前，相应项目仍处于初期阶段，开发者表示后续还需要进一步调整设计，并修复测试过程中发现的问题。不过，从目前展示的效果来看，该设备已经具备相当不错的实用性，兼具了触控操作",
+   "published_at": 1794734801.0,
+   "published_bj": "2026-11-15 17:26"
   },
   {
    "id": "80f6320afbe2f156",
@@ -38,6 +101,15 @@
    "summary": "IT之家 11 月 15 日消息，乘联分会秘书长崔东树今日发文指出，中国乘用车市场正经历一场由新能源技术与消费升级驱动的“形态革命”。 崔东树表示，十年间， 新车平均车长增至 4.72 米 ，大盘格局被彻底颠覆： SUV 以 56% 份额 （IT之家注：2016 年份额为 38%） 强势称王 ；MPV 告别低端，全面走向 5.2 米以上的极致豪华；传统三厢轿车退守，两厢跨界车逆势上扬。 整体结构上，4.5-4.8 米的传统“黄金尺寸”遭遇严重挤压， 市场呈现出向 4.8 米以上越级大车与 4.5 米以下纯电代步车两极分化的“哑铃型”特征 。 崔东树认为，尺寸膨胀的本质， 是纯电平台空间释放与车",
    "published_at": 1794733920.0,
    "published_bj": "2026-11-15 17:12"
+  },
+  {
+   "id": "86e3ad600bb5888b",
+   "source": "Hacker News",
+   "title": "Why did some Apollo missions carry a grenade launcher?",
+   "url": "https://space.stackexchange.com/questions/37775",
+   "summary": "Article URL: https://space.stackexchange.com/questions/37775 Comments URL: https://news.ycombinator.com/item?id=50505271 Points: 17 # Comments: 6",
+   "published_at": 1794733603.0,
+   "published_bj": "2026-11-15 17:06"
   },
   {
    "id": "633ff28b2be0b56d",
