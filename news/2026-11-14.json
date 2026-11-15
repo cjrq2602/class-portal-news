@@ -1,7 +1,7 @@
 {
  "date": "2026-11-14",
- "generated_at": 1794717226.9525616,
- "count": 300,
+ "generated_at": 1794720643.8909054,
+ "count": 301,
  "items": [
   {
    "id": "dfe8eeaaa85aa0d3",
@@ -2549,6 +2549,15 @@
    "summary": "Article URL: https://fortune.com/2026/11/13/openai-disbands-robotics-team-as-its-general-models-start-running-robots/ Comments URL: https://news.ycombinator.com/item?id=50487184 Points: 46 # Comments: 13",
    "published_at": 1794592523.0,
    "published_bj": "2026-11-14 01:55"
+  },
+  {
+   "id": "efb88b2caaaab843",
+   "source": "Hacker News",
+   "title": "One Man's Quest to Create the Perfect Whiskey Glass",
+   "url": "https://www.nytimes.com/2026/11/13/dining/drinks/kurt-josef-zalto-whiskey-glass.html",
+   "summary": "Article URL: https://www.nytimes.com/2026/11/13/dining/drinks/kurt-josef-zalto-whiskey-glass.html Comments URL: https://news.ycombinator.com/item?id=50486880 Points: 11 # Comments: 1",
+   "published_at": 1794591452.0,
+   "published_bj": "2026-11-14 01:37"
   },
   {
    "id": "40e46807db395f9a",
