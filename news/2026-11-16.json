@@ -1,8 +1,44 @@
 {
  "date": "2026-11-16",
- "generated_at": 1794772666.8302417,
- "count": 12,
+ "generated_at": 1794775053.6577988,
+ "count": 16,
  "items": [
+  {
+   "id": "917d7b4eebeffe0d",
+   "source": "TechCrunch",
+   "title": "SNL gathers all the tech tycoons for a lesson in dating and spycraft",
+   "url": "https://techcrunch.com/2026/11/15/snl-gathers-all-the-tech-tycoons-for-a-lesson-in-dating-and-spycraft/",
+   "summary": "While awkward, creepy tech executives have become a recurring theme on Saturday Night Live, this week’s episode gave the cast a chance to show off all their impressions at once.",
+   "published_at": 1794774057.0,
+   "published_bj": "2026-11-16 04:20"
+  },
+  {
+   "id": "a8bf0afaffb87747",
+   "source": "cnBeta",
+   "title": "英伟达风波引发两党施压 美国国会酝酿收紧AI芯片对华出口限制",
+   "url": "https://www.cnbeta.com.tw/articles/tech/1586514.htm",
+   "summary": "美国国会正在酝酿进一步收紧先进人工智能芯片对华出口的限制。随着围绕英伟达前首席执行官黄仁勋及其与新加坡商界人士艾丽丝·黄（Alice Huang）关系的争议持续发酵，美国两党议员开始重新审视现有芯片出口管制政策，并推动将更多限制措施写入法律。 阅读全文",
+   "published_at": 1794773109.0,
+   "published_bj": "2026-11-16 04:05"
+  },
+  {
+   "id": "01a2121a8b4a6a6e",
+   "source": "Hacker News",
+   "title": "Do House members' stock trades beat the market? A test of 8,900 trades",
+   "url": "https://arkanumdata.com/research/house-trades",
+   "summary": "Article URL: https://arkanumdata.com/research/house-trades Comments URL: https://news.ycombinator.com/item?id=50510005 Points: 3 # Comments: 0",
+   "published_at": 1794771962.0,
+   "published_bj": "2026-11-16 03:46"
+  },
+  {
+   "id": "576d61c1e8121f9e",
+   "source": "Hacker News",
+   "title": "Parents pay $75k for Alpha's AI school. Half of its students missed math target",
+   "url": "https://fortune.com/2026/11/14/alpha-school-ai-students-tuition-learning-goals/",
+   "summary": "Article URL: https://fortune.com/2026/11/14/alpha-school-ai-students-tuition-learning-goals/ Comments URL: https://news.ycombinator.com/item?id=50509953 Points: 22 # Comments: 10",
+   "published_at": 1794771586.0,
+   "published_bj": "2026-11-16 03:39"
+  },
   {
    "id": "e613af7fcaf35b10",
    "source": "Hacker News",
