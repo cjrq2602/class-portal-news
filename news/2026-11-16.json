@@ -1,8 +1,134 @@
 {
  "date": "2026-11-16",
- "generated_at": 1794782232.982528,
- "count": 28,
+ "generated_at": 1794784754.8013422,
+ "count": 43,
  "items": [
+  {
+   "id": "d7948f59401592fb",
+   "source": "cnBeta",
+   "title": "Xbox明确Project Helix定位：首先是能运行PC游戏的主机",
+   "url": "https://www.cnbeta.com.tw/articles/game/1586534.htm",
+   "summary": "Xbox明确了代号Project Helix的下一代硬件定位：它首先是一台能够运行用户PC游戏的主机，而不是一台附带主机游戏能力的PC。设备将以简单、直观且即时的游戏访问体验为设计起点，同时为核心玩家和进阶用户保留深入调整设置与性能选项的空间。 阅读全文",
+   "published_at": 1794784577.0,
+   "published_bj": "2026-11-16 07:16"
+  },
+  {
+   "id": "0bcaebf326394918",
+   "source": "cnBeta",
+   "title": "1250万美国人计划在《GTA6》发售日请假或缺课",
+   "url": "https://www.cnbeta.com.tw/articles/game/1586532.htm",
+   "summary": "PCMag的一项大规模调查显示，约有1250万美国人计划在《GTA6》11月19日发售当天请假或缺课，留在家中第一时间体验游戏。这一人数约占美国成年玩家的8%。 阅读全文",
+   "published_at": 1794784536.0,
+   "published_bj": "2026-11-16 07:15"
+  },
+  {
+   "id": "5876e84689ee8eea",
+   "source": "cnBeta",
+   "title": "Xbox计划用神经渲染降低Project Helix算力与内存压力",
+   "url": "https://www.cnbeta.com.tw/articles/game/1586530.htm",
+   "summary": "Xbox正为下一代主机Project Helix探索神经渲染技术，希望通过新的画面帧生成方式缓解算力和额外内存需求，同时兼顾技术进步与产品的可负担性。 阅读全文",
+   "published_at": 1794784515.0,
+   "published_bj": "2026-11-16 07:15"
+  },
+  {
+   "id": "6c340435b808838f",
+   "source": "cnBeta",
+   "title": "《GTA6》盒装版不含光盘 部分买家称下载码缺失",
+   "url": "https://www.cnbeta.com.tw/articles/game/1586528.htm",
+   "summary": "《GTA6》盒装版不附带游戏光盘，购买者需要使用盒内的数字下载码获取游戏。不过，Reddit和X上已有部分买家表示，拆封后本应印有兑换码的位置一片空白，包装内只剩游戏盒和海报。 阅读全文",
+   "published_at": 1794784501.0,
+   "published_bj": "2026-11-16 07:15"
+  },
+  {
+   "id": "0d3f5a883d3d6bfb",
+   "source": "cnBeta",
+   "title": "税务师考试第一名用AI作弊 韩国启动全面调查",
+   "url": "https://www.cnbeta.com.tw/articles/tech/1586526.htm",
+   "summary": "据韩国雇佣劳动部消息，在第63届税务师考试头名承认使用生成式AI作弊后，韩国政府决定立即排查2026年举行的全部国家资格考试，并计划在年内出台综合防范措施。 阅读全文",
+   "published_at": 1794784451.0,
+   "published_bj": "2026-11-16 07:14"
+  },
+  {
+   "id": "b1e80fe258affec1",
+   "source": "cnBeta",
+   "title": "黄仁勋同意赴美国国会闭门作证 作证日期尚未确定",
+   "url": "https://www.cnbeta.com.tw/articles/tech/1586524.htm",
+   "summary": "11月16日，据彭博社报道，美国共和党众议员约翰·穆勒纳尔(John Moolenaar)透露，黄仁勋(Jensen Huang)已同意在闭门听证会上向议员作证，说明他与一位女商人之间的关系。几天前，黄仁勋因婚外情风波辞去了英伟达CEO。 阅读全文",
+   "published_at": 1794784425.0,
+   "published_bj": "2026-11-16 07:13"
+  },
+  {
+   "id": "6e980285bf092f7c",
+   "source": "cnBeta",
+   "title": "挪威团队突破百年工艺限制 新技术有望实现铝生产“零排放”",
+   "url": "https://www.cnbeta.com.tw/articles/science/1586522.htm",
+   "summary": "铝曾在19世纪被视为比黄金还珍贵的金属，如今已成为全球仅次于铁的第二大常用金属。然而，在过去140年间，铝的基础生产工艺几乎没有发生根本性变化，而这一传统工艺的最大问题在于会释放大量二氧化碳。按照现有方法，每生产1公斤铝，化学反应本身就会直接产生约1.5公斤二氧化碳。 阅读全文",
+   "published_at": 1794784375.0,
+   "published_bj": "2026-11-16 07:12"
+  },
+  {
+   "id": "13d56561e0ba88ee",
+   "source": "cnBeta",
+   "title": "美国联合发射联盟火神火箭发射失败：40颗亚马逊卫星全部损毁",
+   "url": "https://www.cnbeta.com.tw/articles/science/1586520.htm",
+   "summary": "美国当地时间11月15日，由波音和洛克希德·马丁合资成立的联合发射联盟（ULA）遭遇重大挫折。该公司新一代重型运载火箭“火神”（Vulcan）在佛罗里达州卡纳维拉尔角太空军基地发射升空约10分钟后发生异常，最终未能将搭载的40颗亚马逊Leo卫星送入预定轨道，整批卫星全部损失。 阅读全文",
+   "published_at": 1794784337.0,
+   "published_bj": "2026-11-16 07:12"
+  },
+  {
+   "id": "00e89f2cc809804d",
+   "source": "IT之家",
+   "title": "成渝中线高铁成都站主体结构完工，至重庆 50 分钟可达",
+   "url": "https://www.ithome.com/1/027/467.htm",
+   "summary": "IT之家 11 月 16 日消息，据国铁集团官方消息，11 月 15 日 10 时许，随着最后一块屋面钢结构网架精准吊装至指定位置完成安装， 成渝中线高铁成都站主体结构完工 ，正式转入装饰装修与设备安装阶段。 成都站是在建成渝中线高铁的始发终到站。该站始建于 1950 年 6 月，于 1952 年 7 月 1 日正式开通运营，是新中国第一条自主建设的铁路 —— 成渝铁路的始发终到站。为服务成渝中线高铁建设、完善市域铁路公交化网络布局， 车站在老站原址启动系统性扩能改造 。 车站站场规模将由 6 台 12 线扩容至 10 台 18 线 ，采用高架式候车结构，分为高架候车层、站台层和地下出站换乘层",
+   "published_at": 1794784065.0,
+   "published_bj": "2026-11-16 07:07"
+  },
+  {
+   "id": "720de11c15cfa06f",
+   "source": "IT之家",
+   "title": "古尔曼曝光苹果智能眼镜原型机：主打 Siri 语音交互，预计 WWDC2027 发布",
+   "url": "https://www.ithome.com/1/027/466.htm",
+   "summary": "IT之家 11 月 16 日消息，据彭博社记者马克 · 古尔曼昨日透露， 苹果计划在 2027 年 6 月的 WWDC 发布公司首款智能眼镜 ，并在当年年底开始出货。 IT之家从原报道获悉，这款智能眼镜原型机的内部代号为“N50”，其镜框据称略小于 Meta 第二代 Ray-Ban。部分测试机采用椭圆形摄像头开孔，直接集成在镜框中，没有向外凸起。眼镜正面设有一颗指示灯，用于显示设备正在使用或充电，苹果还在尝试加入更多隐私保护功能。 同时，苹果将重点打磨这款眼镜的材质、传感器和音质，该产品支持音乐播放、通话及 FaceTime Audio。 苹果员工将其音质形容为“行业领先” 。目前测试机型的充",
+   "published_at": 1794783870.0,
+   "published_bj": "2026-11-16 07:04"
+  },
+  {
+   "id": "0598d7a41c3d0392",
+   "source": "IT之家",
+   "title": "投资 19 亿美元：三星被曝将在美国为马斯克 SpaceX 生产卫星芯片，目标 2030 年投产",
+   "url": "https://www.ithome.com/1/027/465.htm",
+   "summary": "IT之家 11 月 16 日消息，三星电子正将其位于得克萨斯州奥斯汀的芯片工厂拓展至航天供应链。 据韩国《首尔经济日报》11 月 15 日报道，三星计划在奥斯汀工厂为 SpaceX 的星链卫星生产 STM32V8 微控制器（MCU），为此将投资 19 亿美元 （IT之家注：现汇率约合 127.1 亿元人民币） 扩产，目标在 2030 年投入运行。 STM32V8 是意法半导体于 2025 年 11 月发布的微控制器，采用 18 纳米 FD-SOI（全耗尽型绝缘体上硅）工艺，集成 Arm Cortex-M85 内核，主频最高 800MHz。 FD-SOI 由三星与意法半导体自 2014 年起合作",
+   "published_at": 1794783675.0,
+   "published_bj": "2026-11-16 07:01"
+  },
+  {
+   "id": "da791e6eee02c334",
+   "source": "IT之家",
+   "title": "美国全国航班停飞影响持续多日，预计当地时间 11 月 16 日全面恢复",
+   "url": "https://www.ithome.com/1/027/464.htm",
+   "summary": "IT之家 11 月 16 日消息，据央视新闻今日报道，美国航空运输业在经历联邦航空管理局（FAA）全国航班停飞事件后，预计将于当地时间 11 月 16 日全面恢复正常。 美国交通部长肖恩 · 达菲（Sean Duffy）11 月 15 日表示，虽然航空运输已逐步恢复，但由于停飞期间大量飞机和机组人员偏离原定执勤位置，航空公司仍需要时间重新调配资源，航班取消和延误预计还将持续一段时间。 当地时间 11 月 13 日，美国联邦航空管理局因空中交通管制通信系统出现故障，发布全国航班停飞令，持续近 5 小时。FAA 于当天 20 时 15 分解除停飞令，但故障造成的影响延续至周末。FAA 11 月 1",
+   "published_at": 1794783108.0,
+   "published_bj": "2026-11-16 06:51"
+  },
+  {
+   "id": "7ad2caef8a084a58",
+   "source": "IT之家",
+   "title": "微软 XBOX 明确 Project Helix 定位：首先是能运行 PC 游戏的主机",
+   "url": "https://www.ithome.com/1/027/463.htm",
+   "summary": "IT之家 11 月 16 日消息，微软 XBOX 下一代业务副总裁杰森 · 罗纳德昨日表示，他们的次世代主机 Project Helix 不仅能运行 XBOX 游戏，也可以运行 PC 游戏。该主机将利用神经渲染技术，以更高效、更创新的方式实现全新画面保真度。 罗纳德表示：“在我们看来，Project Helix 的设计目标是打造终极游戏设备，消除过去游戏体验的各种限制。我可以访问自己的整个游戏库，随时畅玩四代 Xbox 主机上的所有游戏，并且能够立即继承此前的游戏进度。我们也希望打破主机游戏和 PC 游戏的界限。” 他们的设计目标非常明确： Project Helix 首先是一台能运行 PC ",
+   "published_at": 1794782829.0,
+   "published_bj": "2026-11-16 06:47"
+  },
+  {
+   "id": "0667fd0771a7e0e1",
+   "source": "IT之家",
+   "title": "ULA 成立 20 年来首次发射任务完全失败：火神火箭升空 10 分钟后出现异常，亚马逊 40 颗卫星损失",
+   "url": "https://www.ithome.com/1/027/462.htm",
+   "summary": "IT之家 11 月 16 日消息，美国联合发射联盟公司（ULA）的火神（Vulcan）运载火箭于当地时间 11 月 15 日从佛州卡纳维拉尔角太空军基地升空，执行亚马逊低轨卫星星座 Amazon Leo 的首次发射任务。 不过，火箭升空约 10 分钟后出现异常，未能将搭载的 40 颗卫星送入预定轨道。这是 ULA 自 2006 年成立以来首次发射任务完全失败，终结了该公司近 20 年的全胜纪录。 北京时间 11 月 16 日凌晨，火神火箭从卡纳维拉尔角太空军基地 SLC-41 发射升空，执行代号为 LV-01 的任务。美国联合发射联盟随后发表声明称，根据发射主管收到的数据，火箭在飞行约 10 ",
+   "published_at": 1794782625.0,
+   "published_bj": "2026-11-16 06:43"
+  },
   {
    "id": "bcaf0ef9b410274d",
    "source": "Hacker News",
@@ -101,6 +227,15 @@
    "summary": "美国国会正在酝酿进一步收紧先进人工智能芯片对华出口的限制。随着围绕英伟达前首席执行官黄仁勋及其与新加坡商界人士艾丽丝·黄（Alice Huang）关系的争议持续发酵，美国两党议员开始重新审视现有芯片出口管制政策，并推动将更多限制措施写入法律。 阅读全文",
    "published_at": 1794773109.0,
    "published_bj": "2026-11-16 04:05"
+  },
+  {
+   "id": "95e6b9a220a6b7a4",
+   "source": "Hacker News",
+   "title": "Ask HN: Stripe closed us after one $1,500 invoice and never asked for evidence",
+   "url": "https://news.ycombinator.com/item?id=50510042",
+   "summary": "We're a small business that sells pre-booked appointments with homeowners to local contractors, billed per appointment that actually happens. Our first client agreed to this on a recorded call and saved his card through a $1 Stripe payment link, which we planned to use for billing later. That $1 pay",
+   "published_at": 1794772168.0,
+   "published_bj": "2026-11-16 03:49"
   },
   {
    "id": "01a2121a8b4a6a6e",

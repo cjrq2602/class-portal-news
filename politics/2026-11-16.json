@@ -1,8 +1,26 @@
 {
  "date": "2026-11-16",
- "generated_at": 1794782234.9635956,
- "count": 6,
+ "generated_at": 1794784755.828532,
+ "count": 8,
  "items": [
+  {
+   "id": "f7f36cb65aeb87f3",
+   "source": "中新网即时",
+   "title": "胡塞武装宣布：沙特联军24小时内75次袭击也门多地",
+   "url": "https://www.chinanews.com.cn/gj/2026/11-16/10732534.shtml",
+   "summary": "中新网11月16日电 据也门通讯社报道，也门胡塞武装当地时间15日发表声明称，过去24小时内，沙特主导的联军对也门萨达省、塔伊兹省、拉赫季省、焦夫省和马里卜省发动了75次空袭和导弹袭击。",
+   "published_at": 1794783826.0,
+   "published_bj": "2026-11-16 07:03"
+  },
+  {
+   "id": "df12ea18a9a9b988",
+   "source": "中新网即时",
+   "title": "11月16日早报",
+   "url": "https://www.chinanews.com.cn/iframe/2026/11-16/10732533.shtml",
+   "summary": "",
+   "published_at": 1794782605.0,
+   "published_bj": "2026-11-16 06:43"
+  },
   {
    "id": "425bbdfe6415efa3",
    "source": "中新网即时",
