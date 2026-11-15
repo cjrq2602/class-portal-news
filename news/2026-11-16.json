@@ -1,8 +1,26 @@
 {
  "date": "2026-11-16",
- "generated_at": 1794759443.5452282,
- "count": 1,
+ "generated_at": 1794760618.053102,
+ "count": 3,
  "items": [
+  {
+   "id": "381763d9d70247cc",
+   "source": "cnBeta",
+   "title": "美财长施压英伟达：要求外部换帅 限期10天回应合规问题",
+   "url": "https://www.cnbeta.com.tw/articles/tech/1586512.htm",
+   "summary": "针对英伟达近期的出口限制争议，美国财政部长贝森特发表系列强硬表态，要求英伟达必须从外部寻找新领导人，并对公司现有领导层进行“大幅调整”。 阅读全文",
+   "published_at": 1794759635.0,
+   "published_bj": "2026-11-16 00:20"
+  },
+  {
+   "id": "be39ef6e53756d36",
+   "source": "IT之家",
+   "title": "零刻 ME Pro 358H 四盘位 NAS 开售，32GB + 1TB 起价 11499 元",
+   "url": "https://www.ithome.com/1/027/461.htm",
+   "summary": "IT之家 11 月 16 日消息，零刻 (Beelink) 现已启动 ME Pro 358H 四盘位 NAS 的销售。其 基于英特尔酷睿 Ultra X7 处理器 358H ，包含 32GB LPDDR5X-9600 内存、1TB PCIe Gen4 TLC M.2 SSD。 ME Pro 358H 四盘位 分为日常款和联名款 ：前者含 Windows 11 操作系统，售价 11,499 元；联名款含飞牛 fnOS 操作系统（商业版）、腾讯 Marvis，售价 11,699 元。 零刻 ME Pro 358H 四盘位 提供 4 个 3.5\" / 2.5\" SATA 盘位、2 个 M.2 228",
+   "published_at": 1794759284.0,
+   "published_bj": "2026-11-16 00:14"
+  },
   {
    "id": "3eb6c0b61bfbd7c8",
    "source": "TechCrunch",

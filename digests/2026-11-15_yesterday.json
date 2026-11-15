@@ -1,0 +1,382 @@
+{
+ "type": "yesterday",
+ "date": "2026-11-15",
+ "window": {
+  "start_ts": 1794672000.0,
+  "end_ts": 1794758400.0
+ },
+ "generated_at": 1794760620.141968,
+ "generator": "action",
+ "news_count": 255,
+ "keywords": [
+  "ai",
+  "游戏",
+  "the",
+  "华为",
+  "to",
+  "仁勋",
+  "黄仁",
+  "spacex",
+  "首次",
+  "伟达"
+ ],
+ "points": [
+  {
+   "text": "【游戏】IT之家 11 月 15 日消息，华为在 10 月底面向 Mate 80 / 70 / 60、Pura 80 / 70 等系列机型推送了最新的鸿",
+   "keyword": "游戏",
+   "news_ids": [
+    "423c8057ac71877c"
+   ],
+   "refs": [
+    {
+     "id": "423c8057ac71877c",
+     "title": "华为鸿蒙 HarmonyOS 7 游戏秒级启动开关上线，支持提前加载本机热度最高两款游戏",
+     "source": "IT之家",
+     "url": "https://www.ithome.com/1/027/310.htm",
+     "published_at": 1794720842.0
+    }
+   ]
+  },
+  {
+   "text": "【ai】From Apple's repeatedly delayed Siri AI to OpenAI's messy \"super app\" la",
+   "keyword": "ai",
+   "news_ids": [
+    "ace741c7d5d2543f"
+   ],
+   "refs": [
+    {
+     "id": "ace741c7d5d2543f",
+     "title": "The AI graveyard: a running list of projects and startups that didn’t make it",
+     "source": "TechCrunch",
+     "url": "https://techcrunch.com/2026/11/14/the-ai-graveyard-a-running-list-of-projects-and-startups-that-didnt-make-it/",
+     "published_at": 1794677400.0
+    }
+   ]
+  },
+  {
+   "text": "【ai】英伟达据称正在缩减面向云服务商和AI企业的“循环式融资”支持，但这并不意味着GeForce游戏显卡会迅速增加供应或降低价格",
+   "keyword": "ai",
+   "news_ids": [
+    "c7f15a3dc260f728"
+   ],
+   "refs": [
+    {
+     "id": "c7f15a3dc260f728",
+     "title": "英伟达缩减AI融资支持 并不会让价格亲民的GeForce显卡在2027年重回市场",
+     "source": "cnBeta",
+     "url": "https://www.cnbeta.com.tw/articles/tech/1586492.htm",
+     "published_at": 1794728366.0
+    }
+   ]
+  },
+  {
+   "text": "【ai】IT之家 11 月 15 日消息，这是一场震动全球科技行业的人事变动",
+   "keyword": "ai",
+   "news_ids": [
+    "a559aa07db281bea"
+   ],
+   "refs": [
+    {
+     "id": "a559aa07db281bea",
+     "title": "黄仁勋辞任英伟达 CEO，AI 初创企业融资面临变局",
+     "source": "IT之家",
+     "url": "https://www.ithome.com/1/027/339.htm",
+     "published_at": 1794726641.0
+    }
+   ]
+  },
+  {
+   "text": "【ai】IT之家 11 月 15 日消息，当地时间 11 月 14 日，SpaceX 在星舰第 15 次试飞中首次用发射塔机械臂接住从轨道返回的第二级飞",
+   "keyword": "ai",
+   "news_ids": [
+    "eab7c5b85f417d75"
+   ],
+   "refs": [
+    {
+     "id": "eab7c5b85f417d75",
+     "title": "SpaceX 星舰飞船首次被发射塔机械臂捕获回收，马斯克将建 AI 数据中心星座",
+     "source": "IT之家",
+     "url": "https://www.ithome.com/1/027/253.htm",
+     "published_at": 1794698818.0
+    }
+   ]
+  },
+  {
+   "text": "【游戏】IT之家 11 月 15 日消息，据 Tom’s Hardware 报道，微软初代 XBOX 于 2001 年 11 月 15 日在北美市场正式",
+   "keyword": "游戏",
+   "news_ids": [
+    "1709f36411fe26e4"
+   ],
+   "refs": [
+    {
+     "id": "1709f36411fe26e4",
+     "title": "初代 XBOX 游戏机迎上市 25 周年：奠定微软主机业务根基，未来平台发展方向仍不明朗",
+     "source": "IT之家",
+     "url": "https://www.ithome.com/1/027/435.htm",
+     "published_at": 1794742684.0
+    }
+   ]
+  },
+  {
+   "text": "【ai】IT之家 11 月 15 日消息，华为云今日宣布，华为云 MaaS 模型即服务平台正式上线开源盘古模型 openPangu-2.1-Pro",
+   "keyword": "ai",
+   "news_ids": [
+    "eacaa5ee45a78d4c"
+   ],
+   "refs": [
+    {
+     "id": "eacaa5ee45a78d4c",
+     "title": "开源盘古模型 openPangu-2.1-Pro 上线华为云，围绕 Agent 开发、AI 编码、推理优化方向能力升级",
+     "source": "IT之家",
+     "url": "https://www.ithome.com/1/027/450.htm",
+     "published_at": 1794748614.0
+    }
+   ]
+  },
+  {
+   "text": "【ai】IT之家 11 月 15 日消息，据科技媒体 Sammobile 昨天报道，三星 One UI 9.5 系统将为高端 Galaxy 手机和平板电",
+   "keyword": "ai",
+   "news_ids": [
+    "4f83bb6ed2d3514a"
+   ],
+   "refs": [
+    {
+     "id": "4f83bb6ed2d3514a",
+     "title": "消息称三星 One UI 9.5 系统将为多数自带应用带来智能体 AI 功能",
+     "source": "IT之家",
+     "url": "https://www.ithome.com/1/027/349.htm",
+     "published_at": 1794728142.0
+    }
+   ]
+  },
+  {
+   "text": "【首次】IT之家 11 月 15 日消息，《英雄联盟》2026 全球总决赛（S16）冠亚军决赛刚刚结束，来自中国 LPL 赛区的 BLG 战队以 3:1",
+   "keyword": "首次",
+   "news_ids": [
+    "a9190dbf3b199a93"
+   ],
+   "refs": [
+    {
+     "id": "a9190dbf3b199a93",
+     "title": "队史首次！BLG 战队 3:1 力克 GEN 夺《英雄联盟》S16 冠军，中国战队连斩 4 支韩国队时隔 5 年再登顶",
+     "source": "IT之家",
+     "url": "https://www.ithome.com/1/027/258.htm",
+     "published_at": 1794700969.0
+    }
+   ]
+  },
+  {
+   "text": "【推出】IT之家 11 月 15 日消息，彭博社于 11 月 13 日在 YouTube 上发布了一段视频，主要探讨了《GTA6》开发过程，然而视频在结",
+   "keyword": "推出",
+   "news_ids": [
+    "d761bddbadd1ac57"
+   ],
+   "refs": [
+    {
+     "id": "d761bddbadd1ac57",
+     "title": "彭博社澄清“《GTA6》在线模式明年末推出”传闻：视频脚本有误，消息不实",
+     "source": "IT之家",
+     "url": "https://www.ithome.com/1/027/319.htm",
+     "published_at": 1794723254.0
+    }
+   ]
+  },
+  {
+   "text": "【全球】IT之家 11 月 15 日消息，微软近期发生的大规模全球服务中断持续近一天，不仅影响 Outlook、Exchange、SharePoint ",
+   "keyword": "全球",
+   "news_ids": [
+    "2e16ed78b42a0ee5"
+   ],
+   "refs": [
+    {
+     "id": "2e16ed78b42a0ee5",
+     "title": "微软 2026 最严重宕机重创全球行业，部分客户寻求费用补偿",
+     "source": "IT之家",
+     "url": "https://www.ithome.com/1/027/325.htm",
+     "published_at": 1794724727.0
+    }
+   ]
+  },
+  {
+   "text": "Article URL: https://joshblais",
+   "keyword": "",
+   "news_ids": [
+    "5c06e884e4985a59"
+   ],
+   "refs": [
+    {
+     "id": "5c06e884e4985a59",
+     "title": "Emacs Is My Browser",
+     "source": "Hacker News",
+     "url": "https://joshblais.com/blog/emacs-as-my-browser/",
+     "published_at": 1794756081.0
+    }
+   ]
+  },
+  {
+   "text": "Article URL: https://jakub",
+   "keyword": "",
+   "news_ids": [
+    "47a309bf3ec33487"
+   ],
+   "refs": [
+    {
+     "id": "47a309bf3ec33487",
+     "title": "All AI-generated code should be Open Source",
+     "source": "Hacker News",
+     "url": "https://jakub.jankiewicz.org/blog/ai-code-open-source/",
+     "published_at": 1794754018.0
+    }
+   ]
+  },
+  {
+   "text": "IT之家 11 月 15 日消息，利用詹姆斯 · 韦布空间望远镜（JWST），天文学家发现了迄今观测到的最古老的一对由超大质量黑洞驱动的类星体",
+   "keyword": "",
+   "news_ids": [
+    "5eec04abc54d8777"
+   ],
+   "refs": [
+    {
+     "id": "5eec04abc54d8777",
+     "title": "韦布望远镜发现迄今最古老类星体双星，现有黑洞成长理论难以解释",
+     "source": "IT之家",
+     "url": "https://www.ithome.com/1/027/457.htm",
+     "published_at": 1794753433.0
+    }
+   ]
+  },
+  {
+   "text": "IT之家 11 月 15 日消息， 磷光发光拥有显著高于荧光发光的内量子效率 ，可改进 OLED 显示的能量利用效率，进而降低功耗、提升峰值亮度",
+   "keyword": "",
+   "news_ids": [
+    "89bcb4626edc9734"
+   ],
+   "refs": [
+    {
+     "id": "89bcb4626edc9734",
+     "title": "TCL 华星展示蓝色磷光敏化荧光 OLED 成果，覆盖三大产品形态",
+     "source": "IT之家",
+     "url": "https://www.ithome.com/1/027/456.htm",
+     "published_at": 1794752211.0
+    }
+   ]
+  }
+ ],
+ "article": {
+  "title": "2026-11-15 新闻总结",
+  "paragraphs": [
+   {
+    "kind": "lead",
+    "text": "过去 24 小时共收录 255 条新闻，来自 7 家媒体。把标题放在一起看，讨论主要集中在 AI、游戏、手机 这几个方向上，其余消息更像是零散补充。"
+   },
+   {
+    "kind": "section",
+    "heading": "游戏",
+    "text": "先看「游戏」。IT之家 11 月 15 日消息，华为在 10 月底面向 Mate 80 / 70 / 60，另有 51 条消息指向同一话题。技术路线的胜负很少由一次发布会决定，接下来要看的是它能不能被更多团队低成本复用。",
+    "news_ids": [
+     "423c8057ac71877c"
+    ],
+    "refs": [
+     {
+      "id": "423c8057ac71877c",
+      "title": "华为鸿蒙 HarmonyOS 7 游戏秒级启动开关上线，支持提前加载本机热度最高两款游戏",
+      "source": "IT之家",
+      "url": "https://www.ithome.com/1/027/310.htm",
+      "published_at": 1794720842.0
+     }
+    ]
+   },
+   {
+    "kind": "section",
+    "heading": "AI",
+    "text": "与此同时「AI」。IT之家 11 月 15 日消息，据韩媒 Etnews 今天报道，韩国电信运营商 LG U+ 将于明年进军 AI Token 业务，利用自主研发的 Token 优化技术，另有 27 条消息指向同一话题。这类进展更像是把已有能力往工程化落地推了一步，真正的分水岭在于成本和可靠性能不能同时压下来。",
+    "news_ids": [
+     "8cca34ce9a9b78af"
+    ],
+    "refs": [
+     {
+      "id": "8cca34ce9a9b78af",
+      "title": "韩国电信运营商 LG U+ 明年进军 AI Token 业务，帮助企业降低 AI 转型成本",
+      "source": "IT之家",
+      "url": "https://www.ithome.com/1/027/262.htm",
+      "published_at": 1794703353.0
+     }
+    ]
+   },
+   {
+    "kind": "section",
+    "heading": "市场",
+    "text": "另一个值得注意的方向是「市场」。英伟达据称正在缩减面向云服务商和AI企业的“循环式融资”支持，另有 12 条消息指向同一话题。融资和估值只能说明市场情绪，能不能兑现，还要看下一两个季度的收入和留存。",
+    "news_ids": [
+     "c7f15a3dc260f728"
+    ],
+    "refs": [
+     {
+      "id": "c7f15a3dc260f728",
+      "title": "英伟达缩减AI融资支持 并不会让价格亲民的GeForce显卡在2027年重回市场",
+      "source": "cnBeta",
+      "url": "https://www.cnbeta.com.tw/articles/tech/1586492.htm",
+      "published_at": 1794728366.0
+     }
+    ]
+   },
+   {
+    "kind": "section",
+    "heading": "融资",
+    "text": "相比之下「融资」。IT之家 11 月 15 日消息，另有 11 条消息指向同一话题。融资和估值只能说明市场情绪，能不能兑现，还要看下一两个季度的收入和留存。",
+    "news_ids": [
+     "a559aa07db281bea"
+    ],
+    "refs": [
+     {
+      "id": "a559aa07db281bea",
+      "title": "黄仁勋辞任英伟达 CEO，AI 初创企业融资面临变局",
+      "source": "IT之家",
+      "url": "https://www.ithome.com/1/027/339.htm",
+      "published_at": 1794726641.0
+     }
+    ]
+   },
+   {
+    "kind": "glossary",
+    "items": [
+     {
+      "term": "AI",
+      "desc": "人工智能，让机器完成识别、生成、判断等原本需要人做的任务"
+     },
+     {
+      "term": "Agent",
+      "desc": "智能体，能自己拆解任务、调用工具并连续执行的 AI 程序"
+     },
+     {
+      "term": "VR",
+      "desc": "虚拟现实，戴上头显进入一个全虚拟的画面"
+     },
+     {
+      "term": "HBM",
+      "desc": "高带宽内存，把多层内存堆叠起来给 AI 芯片喂数据，缓解带宽瓶颈"
+     },
+     {
+      "term": "ETF",
+      "desc": "交易型开放式指数基金，像股票一样在交易所买卖的一篮子资产"
+     },
+     {
+      "term": "IPO",
+      "desc": "首次公开募股，公司第一次把股票卖给公众并上市"
+     }
+    ]
+   },
+   {
+    "kind": "outlook",
+    "text": "把这几条放在一起看，最值得跟踪的是 AI 和 游戏 两条线：一条决定技术能走多远，一条决定它多快能落到普通人的日常里。至于其他消息，可以先放进观察名单，等后续有更实的进展再判断。"
+   }
+  ],
+  "word_count": 606
+ },
+ "ai_enhanced": false,
+ "schema": 1,
+ "window_bj": {
+  "start": "2026-11-15 00:00",
+  "end": "2026-11-16 00:00"
+ }
+}

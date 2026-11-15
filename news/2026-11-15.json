@@ -1,7 +1,7 @@
 {
  "date": "2026-11-15",
- "generated_at": 1794759443.5470648,
- "count": 254,
+ "generated_at": 1794760618.0544698,
+ "count": 255,
  "items": [
   {
    "id": "8bbfd66bbe233dd4",
@@ -11,6 +11,15 @@
    "summary": "IT之家 11 月 15 日消息，微星 (MSI) 近期推出了处理器 AIO 液冷散热器 PRO CORELIQUID R13 360。这一型号兼容英特尔 FCLGA 1851 / 1700、AMD Socket AM5 / AM4 处理器， 享受 3 年质保 。 PRO CORELIQUID R13 360 基于预期寿命 50000hr 的微星定制 M6 水泵方案，配备可旋转的简洁 ARGB 顶盖，搭配尼龙编织 EPDM 水冷、27mm 20fpi 铝制冷排，吹排为 3 颗 12025 规格的串联风扇，配套 AMD 偏移式安装支架。 IT之家了解到，微星 PRO CORELIQUID R13",
    "published_at": 1794758203.0,
    "published_bj": "2026-11-15 23:56"
+  },
+  {
+   "id": "c5b4751a04d02079",
+   "source": "Hacker News",
+   "title": "Show HN: A tiny macOS app that turns off the MacBook display [free license]",
+   "url": "https://blackoutapp.io/",
+   "summary": "Hi, I made a tiny app that lets you turn off the MacBook screen when you work on external monitors. It does NOT just dim the brightness to zero, the screen is actually turned off via the Apple hardware API, the according desktop is removed, so you have a clean \"one big monitor\" setup. - Safe fallbac",
+   "published_at": 1794757072.0,
+   "published_bj": "2026-11-15 23:37"
   },
   {
    "id": "5c06e884e4985a59",
