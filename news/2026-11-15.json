@@ -1,8 +1,26 @@
 {
  "date": "2026-11-15",
- "generated_at": 1794756064.483501,
- "count": 251,
+ "generated_at": 1794759443.5470648,
+ "count": 254,
  "items": [
+  {
+   "id": "8bbfd66bbe233dd4",
+   "source": "IT之家",
+   "title": "微星推出 PRO CORELIQUID R13 360 液冷，399 / 419 元",
+   "url": "https://www.ithome.com/1/027/460.htm",
+   "summary": "IT之家 11 月 15 日消息，微星 (MSI) 近期推出了处理器 AIO 液冷散热器 PRO CORELIQUID R13 360。这一型号兼容英特尔 FCLGA 1851 / 1700、AMD Socket AM5 / AM4 处理器， 享受 3 年质保 。 PRO CORELIQUID R13 360 基于预期寿命 50000hr 的微星定制 M6 水泵方案，配备可旋转的简洁 ARGB 顶盖，搭配尼龙编织 EPDM 水冷、27mm 20fpi 铝制冷排，吹排为 3 颗 12025 规格的串联风扇，配套 AMD 偏移式安装支架。 IT之家了解到，微星 PRO CORELIQUID R13",
+   "published_at": 1794758203.0,
+   "published_bj": "2026-11-15 23:56"
+  },
+  {
+   "id": "5c06e884e4985a59",
+   "source": "Hacker News",
+   "title": "Emacs Is My Browser",
+   "url": "https://joshblais.com/blog/emacs-as-my-browser/",
+   "summary": "Article URL: https://joshblais.com/blog/emacs-as-my-browser/ Comments URL: https://news.ycombinator.com/item?id=50507553 Points: 10 # Comments: 1",
+   "published_at": 1794756081.0,
+   "published_bj": "2026-11-15 23:21"
+  },
   {
    "id": "15a09dca25269241",
    "source": "IT之家",
@@ -29,6 +47,15 @@
    "summary": "Article URL: https://jakub.jankiewicz.org/blog/ai-code-open-source/ Comments URL: https://news.ycombinator.com/item?id=50507303 Points: 4 # Comments: 0",
    "published_at": 1794754018.0,
    "published_bj": "2026-11-15 22:46"
+  },
+  {
+   "id": "e871e67ad8a3c663",
+   "source": "Solidot",
+   "title": "SpaceX 成功回收火箭上面级",
+   "url": "https://www.solidot.org/story?sid=85893",
+   "summary": "SpaceX 再次创造了历史，首次成功回收 Starship 火箭的上面级，此前它已经成功回收了 Starship 的推进器。此次代号为 Flight 15/Starlink Group 31-2 的任务原计划同时回收火箭上面级和推进器，但推进器 Booster 22 在发射后不久启动了终止程序，在海面上受控爆炸。上面级 Ship 42 则绕地球飞行 14 圈历经 22.5 小时后于周六在 Starbase 被 2 号发射台的筷子臂成功捕获。此次任务发射了 22 颗 Starlink V3 卫星。",
+   "published_at": 1794753510.0,
+   "published_bj": "2026-11-15 22:38"
   },
   {
    "id": "5eec04abc54d8777",
