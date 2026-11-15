@@ -1,7 +1,7 @@
 {
  "date": "2026-11-15",
- "generated_at": 1794709778.7802982,
- "count": 64,
+ "generated_at": 1794713349.8725,
+ "count": 72,
  "items": [
   {
    "id": "0edace1bb97bd5ec",
@@ -20,6 +20,60 @@
    "summary": "点击查看原文>",
    "published_at": 1794733200.0,
    "published_bj": "2026-11-15 17:00"
+  },
+  {
+   "id": "4106fabb6530c018",
+   "source": "Hacker News",
+   "title": "The Single Router in Southern Arkansas That Ground Air Travel to a Halt",
+   "url": "https://www.wsj.com/business/airlines/the-single-router-in-southern-arkansas-that-ground-air-travel-to-a-halt-eedc326c",
+   "summary": "Article URL: https://www.wsj.com/business/airlines/the-single-router-in-southern-arkansas-that-ground-air-travel-to-a-halt-eedc326c Comments URL: https://news.ycombinator.com/item?id=50503588 Points: 6 # Comments: 0",
+   "published_at": 1794711954.0,
+   "published_bj": "2026-11-15 11:05"
+  },
+  {
+   "id": "ed92812e8c6bda75",
+   "source": "IT之家",
+   "title": "起亚成为韩国首家电动化汽车年销量突破 30 万辆的车企，同比增长 41.9%",
+   "url": "https://www.ithome.com/1/027/284.htm",
+   "summary": "IT之家 11 月 15 日消息，起亚（KIA）今日公布数据显示，截至 2026 年 11 月 9 日，该公司在韩国本土的电动化汽车累计销量达到 30.48 万辆，同比增长 41.9%， 是首家在韩国市场实现电动化汽车突破 30 万辆的整车品牌 。 IT之家注意到，起亚的电动化汽车在韩国市场的年销量于 2021 年达到 10 万 9741 辆，首次突破 10 万辆；2024 年则达到 22 万 2085 辆，突破 20 万辆。 同时，起亚电动化车型中的纯电汽车在韩国市场累计销量达到 12.36 万辆，较去年同期增长一倍以上。包括韩国本土和海外整车品牌在内，起亚是首家实现纯电动汽车年销量突破 1",
+   "published_at": 1794711218.0,
+   "published_bj": "2026-11-15 10:53"
+  },
+  {
+   "id": "05856e306678fcd6",
+   "source": "IT之家",
+   "title": "漫威 《复仇者联盟 4：终局之战（加码臻享版）》片尾彩蛋公开：绿巨人被抓、洛基登门探访前美队",
+   "url": "https://www.ithome.com/1/027/283.htm",
+   "summary": "IT之家 11 月 15 日消息，漫威《复仇者联盟 4：终局之战》（加码臻享版）已于 9 月 25 日起登陆全国影院。目前，本片已上线 Disney+ 开启网播。 此次重映版本总片长 185 分钟，较 2019 年原版的 181 分钟多出约 4 分钟全新内容。IT之家注意到，本片的四个新增彩蛋目前已正式公开。 四个片段均在为今年内上映的《复仇者联盟 5：毁灭之日》做铺垫，分别讲述了洛基与美国队长重逢、毁灭博士收集浩克、时间管理局发现三千宇宙碰撞消亡以及毁灭博士的起源。 IT之家注：《复仇者联盟：毁灭之日》是漫威电影宇宙第六阶段的重磅作品，定于 2026 年 12 月 18 日上映。该片由罗素兄",
+   "published_at": 1794711155.0,
+   "published_bj": "2026-11-15 10:52"
+  },
+  {
+   "id": "21c24b39a40bcca6",
+   "source": "IT之家",
+   "title": "Purism 公布 RISC-V 智能手机项目 Librem 5 v2，基于进迭时空 K1",
+   "url": "https://www.ithome.com/1/027/282.htm",
+   "summary": "IT之家 11 月 15 日消息，自由软硬件制造商 Purism 近日公布了其全新智能手机 Librem 5 v2。这一型号 基于进迭时空 (SpacemiT) K1 八核 RISC-V 处理 器，运行基于 Linux 的 PureOS 发行版。 Librem 5 v2 蜂窝网络和无线网络均为独立模块 ，电池采用可用户拆卸设计，提供 SD 卡槽并支持从 SD 存储卡启动，配备蜂窝、无线、麦克风 / 摄像头硬件开关。 其搭载 5.7\" 720×1440 屏幕，存储器组合为 8GB + 128GB，拥有 13MP 后摄、8MP 前摄，电池电量 4500mAh，SD 卡槽支持 SDR104 规范，提",
+   "published_at": 1794709960.0,
+   "published_bj": "2026-11-15 10:32"
+  },
+  {
+   "id": "b018d94a0cea5648",
+   "source": "IT之家",
+   "title": "山西首条设计时速 350 公里高铁进入联调联试，雄忻高铁预计明年 3 月底具备开通条件",
+   "url": "https://www.ithome.com/1/027/281.htm",
+   "summary": "IT之家 11 月 15 日消息，据央视新闻今日报道，记者从国铁太原局获悉，11 月 15 日早晨，随着 55052 次检测列车从山西省忻州西站驶出，标志着雄忻高铁山西段正式进入联调联试阶段。 联调联试 ，是指在铁路开通运营前，对线路、列车、供电、信号、通信等各系统进行综合测试和调试，确保各系统之间匹配协调，满足设计要求和安全标准，是高速铁路在运行试验和正式开通前的关键节点。 IT之家从报道获悉，此次雄忻高铁山西段联调联试， 计划用时 66 天完成 ，铁路部门将采用专业检测列车、综合检测列车、测试动车组及相关检测设备，在不同规定测试速度下，对雄忻高铁山西段各系统的功能、性能、状态和系统间匹配关",
+   "published_at": 1794709649.0,
+   "published_bj": "2026-11-15 10:27"
+  },
+  {
+   "id": "095bfb9be25d66b9",
+   "source": "IT之家",
+   "title": "NINJUTSO 推出 TEN AIR PRO 鼠标：搭载 50K 传感器，599 元",
+   "url": "https://www.ithome.com/1/027/280.htm",
+   "summary": "IT之家 11 月 15 日消息，电竞外设制造商 NINJUTSO 昨日推出了鼠标新品 TEN AIR PRO。这一型号搭载 AIMNINJA PRO 50 光学传感器，拥有 50000 cpi / DPI 的分辨率。 TEN AIR PRO 延续了上代的无孔模具设计，三维 124.5 × 63.9 ×39 (mm)，横卧宽度 59.7mm，前端高度 26.5mm， 起始质量 45±1g ，适配全部握姿。 该型号基于原相 PAR2863 主控，搭载经预压的机械式单刀双掷微动开关（硬件扫描率 32kHz、触发力度 0.57N）， 中键手感更为轻柔 ，覆盖 HyperFinish 涂层，搭配 10",
+   "published_at": 1794708948.0,
+   "published_bj": "2026-11-15 10:15"
   },
   {
    "id": "1ff0efaf476b07f4",
@@ -47,6 +101,15 @@
    "summary": "IT之家 11 月 15 日消息，据公安部交通管理局分享，近日，山东青岛。群众举报一司机在高速上驾车时双目闭合， 疑借助车辆智能辅助驾驶功能行车 。 民警随即迅速锁定该车辆。经查，驾驶人当日载着一家四口出行， 认为高速上路况平稳、车流不大，开了“智驾”便放倒座椅闭目休息 ，认为不影响安全。 此外， 交警发现副驾人员未满 12 周岁 ，而且驾驶人此前曾存在多次开着“智驾”玩手机、闭眼休息等危险操作。交警对其盲目依赖“智能辅助驾驶”功能的行为进行了严肃批评教育， 并对其多项违法行为依法予以处罚 。 IT之家提醒： 辅助驾驶≠自动驾驶 ，即使开启相关功能，驾驶员也绝不能放松警惕，驾驶人才是最终的责任",
    "published_at": 1794708438.0,
    "published_bj": "2026-11-15 10:07"
+  },
+  {
+   "id": "501f50d267f2745f",
+   "source": "Hacker News",
+   "title": "We're Asking an Appeals Court to Require a Warrant for ALPR Searches",
+   "url": "https://www.eff.org/deeplinks/2026/11/were-asking-appeals-court-require-warrant-alpr-searches",
+   "summary": "Article URL: https://www.eff.org/deeplinks/2026/11/were-asking-appeals-court-require-warrant-alpr-searches Comments URL: https://news.ycombinator.com/item?id=50503255 Points: 52 # Comments: 7",
+   "published_at": 1794708054.0,
+   "published_bj": "2026-11-15 10:00"
   },
   {
    "id": "03069cb6017f4138",
@@ -119,6 +182,15 @@
    "summary": "IT之家 11 月 15 日消息，华为智能汽车解决方案 BU 官方微博昨晚发布了乾崑答网友问（第 18 期），针对 华为智能车载光 相关的四个热门问题进行了集中解答。 ▲ 图源：华为乾崑智能汽车解决方案官网 IT之家附重点内容及全文截图如下： 在夜间行驶遇到对向来车时，怎么在保证远光灯不晃对向来车驾驶员眼睛的情况下，确保我的驾驶安全？ HUAWEI XPIXEL 智能车灯模组的高精 ADB (智能远光照明)，依托百万像素精准控制车灯。在整个远光灯照射范围， 高精 ADB 功能会识别到对方前挡风玻璃的位置，然后将这个区域的灯光做调整 ，避免远光照射对向来车驾驶员。同时，保持其他远光灯照射区域的基",
    "published_at": 1794704516.0,
    "published_bj": "2026-11-15 09:01"
+  },
+  {
+   "id": "8212dd7ad291fbaa",
+   "source": "Hacker News",
+   "title": "Show HN: A custom font based on the Jamaican flag alphabet",
+   "url": "https://bobbiec.github.io/jamaican-font.html",
+   "summary": "Article URL: https://bobbiec.github.io/jamaican-font.html Comments URL: https://news.ycombinator.com/item?id=50502839 Points: 8 # Comments: 2",
+   "published_at": 1794704205.0,
+   "published_bj": "2026-11-15 08:56"
   },
   {
    "id": "88cf17c6f9ab93a0",
