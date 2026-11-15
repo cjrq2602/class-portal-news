@@ -1,7 +1,7 @@
 {
  "date": "2026-11-15",
- "generated_at": 1794738318.455083,
- "count": 203,
+ "generated_at": 1794741503.4483235,
+ "count": 207,
  "items": [
   {
    "id": "36a95652176fc03a",
@@ -11,6 +11,33 @@
    "summary": "点击查看原文>",
    "published_at": 1794754800.0,
    "published_bj": "2026-11-15 23:00"
+  },
+  {
+   "id": "ad43462f217e0d53",
+   "source": "IT之家",
+   "title": "Gartner 预测：到 2030 年全球将因 AI 净增加约 170 万个工作岗位",
+   "url": "https://www.ithome.com/1/027/427.htm",
+   "summary": "IT之家 11 月 15 日消息，人工智能可能引发的就业危机，或许并不像人们想象的那样。 商业与科技研究机构 Gartner 预测，2025 年至 2030 年间，AI 将在全球创造 1060 万个新工作岗位，同时导致 890 万个岗位消失。两者相抵，到 2030 年前，全球就业市场预计将因 AI 净增加约 170 万个岗位。 Gartner 杰出副总裁分析师兼研究主管约翰 · 洛夫洛克（John Lovelock）在接受 Business Insider 采访时表示，人们目前真正感受到的，是企业正处于观望阶段，等待 AI 对工作方式和就业市场的影响逐渐明朗。 洛夫洛克解释称：“在 AI 应用",
+   "published_at": 1794738479.0,
+   "published_bj": "2026-11-15 18:27"
+  },
+  {
+   "id": "abc3aeaf9da113b2",
+   "source": "IT之家",
+   "title": "应对 AI 漏洞挖掘挑战：谷歌 Project Zero 计划将逐步缩短漏洞公开披露期限至 30 天",
+   "url": "https://www.ithome.com/1/027/423.htm",
+   "summary": "IT之家 11 月 15 日消息，自 2021 年以来，谷歌漏洞挖掘计划 Project Zero 一直奉行“90 + 30”漏洞披露政策，即允许厂商在最多 90 天内修复漏洞，并额外提供 30 天的“缓冲期”用于补丁推送。 当地时间 11 月 13 日，谷歌宣布，随着人工智能辅助漏洞挖掘与利用技术的兴起，当前形势已发生根本性变化，现有披露政策所设定的修复周期已难以适应需求。 IT之家获悉，为推动厂商更快速地修复漏洞、促使厂商缩短“补丁空窗期”，谷歌发布了全新的漏洞披露政策，新政策规定，无论厂商是否完成修复，漏洞均在报告给厂商后的 X 天 直接公开披露，并分阶段逐步收紧时间限制。 2026 年",
+   "published_at": 1794737527.0,
+   "published_bj": "2026-11-15 18:12"
+  },
+  {
+   "id": "b5bb210570568dec",
+   "source": "IT之家",
+   "title": "前 OpenAI 研究员：当前活着的人最有可能死于 AI 失控",
+   "url": "https://www.ithome.com/1/027/419.htm",
+   "summary": "IT之家 11 月 15 日消息，人工智能失控导致人类灭绝，听起来或许像科幻电影中的情节，但前 OpenAI 研究员保罗 · 克里斯蒂亚诺（Paul Christiano）认为，这可能成为当今在世人群最有可能面临的死亡原因。 当地时间周一，克里斯蒂亚诺在希尔顿讲座（The Hinton Lectures）上表示：“我认为，在座的大多数人，最有可能的死亡原因将是一次 AI 意外事故。” 克里斯蒂亚诺目前担任人工智能对齐研究中心（Alignment Research Center）负责人。他警告称，随着 AI 智能体的能力不断增强，它们可能学会欺骗负责监督它们的人类、破坏用于评估自身表现的系统，最",
+   "published_at": 1794737355.0,
+   "published_bj": "2026-11-15 18:09"
   },
   {
    "id": "00f9d0684a2d77bf",
@@ -731,6 +758,15 @@
    "summary": "近日，有用户发现，微软Windows 11在系统初始设置阶段可能存在一项未被明确说明的网络限制。尽管设备已经成功接入互联网，但如果所连接的是仅支持IPv6而完全不提供IPv4的网络环境，Windows 11的开箱设置流程（OOBE）仍可能无法正常完成。 阅读全文",
    "published_at": 1794726571.0,
    "published_bj": "2026-11-15 15:09"
+  },
+  {
+   "id": "a2f78cb425403389",
+   "source": "Hacker News",
+   "title": "Book list for streetfighting computer scientists",
+   "url": "https://nick-black.com/dankwiki/index.php?title=Book_list_for_streetfighting_computer_scientists",
+   "summary": "Article URL: https://nick-black.com/dankwiki/index.php?title=Book_list_for_streetfighting_computer_scientists Comments URL: https://news.ycombinator.com/item?id=50504718 Points: 11 # Comments: 1",
+   "published_at": 1794726530.0,
+   "published_bj": "2026-11-15 15:08"
   },
   {
    "id": "e587eec32facca1e",
