@@ -1,6 +1,6 @@
 {
  "date": "2026-11-13",
- "generated_at": 1794706231.1827292,
+ "generated_at": 1794707824.2620828,
  "count": 400,
  "items": [
   {
@@ -389,6 +389,15 @@
    "summary": "Article URL: https://garymarcus.substack.com/p/breaking-eli-lilly-ceo-becomes-latest Comments URL: https://news.ycombinator.com/item?id=50483480 Points: 147 # Comments: 141",
    "published_at": 1794577887.0,
    "published_bj": "2026-11-13 21:51"
+  },
+  {
+   "id": "a2916b15a621a1f3",
+   "source": "Hacker News",
+   "title": "500 Lines or Less A 3D Modeller",
+   "url": "https://aosabook.org/en/500L/a-3d-modeller.html",
+   "summary": "Article URL: https://aosabook.org/en/500L/a-3d-modeller.html Comments URL: https://news.ycombinator.com/item?id=50483431 Points: 5 # Comments: 0",
+   "published_at": 1794577662.0,
+   "published_bj": "2026-11-13 21:47"
   },
   {
    "id": "240059b68bc1437f",
@@ -3593,15 +3602,6 @@
    "summary": "Hey HN! We're Alireza and Majid building Leeroo ( https://leeroo.com/ ). Previously we’ve built AI systems for products with millions of users, including at LinkedIn and Meta. We’re now focusing on building AI systems for enterprise data. Today, we're open-sourcing Kapso ( https://github.com/Leeroo-",
    "published_at": 1794505883.0,
    "published_bj": "2026-11-13 01:51"
-  },
-  {
-   "id": "51d18ff0f6e9956a",
-   "source": "TechCrunch",
-   "title": "Hugging Face CEO vows to keep fighting for open-source AI after Jensen Huang’s exit",
-   "url": "https://techcrunch.com/2026/11/12/hugging-face-ceo-vows-to-keep-fighting-for-open-source-ai-after-jensen-huangs-exit/",
-   "summary": "Hugging Face's CEO pledged to keep fighting for open-source AI after Huang's exit, raising questions about Nvidia's $12.9B acquisition.",
-   "published_at": 1794505000.0,
-   "published_bj": "2026-11-13 01:36"
   }
  ]
 }

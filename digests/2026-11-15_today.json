@@ -1,0 +1,378 @@
+{
+ "type": "today",
+ "date": "2026-11-15",
+ "window": {
+  "start_ts": 1794672000.0,
+  "end_ts": 1794704400.0
+ },
+ "generated_at": 1794707825.6677566,
+ "generator": "action",
+ "news_count": 51,
+ "keywords": [
+  "the",
+  "to",
+  "spacex",
+  "首次",
+  "nvidia",
+  "and",
+  "ai",
+  "it",
+  "of",
+  "微软"
+ ],
+ "points": [
+  {
+   "text": "【the】From Apple's repeatedly delayed Siri AI to OpenAI's messy \"super app\" la",
+   "keyword": "the",
+   "news_ids": [
+    "ace741c7d5d2543f"
+   ],
+   "refs": [
+    {
+     "id": "ace741c7d5d2543f",
+     "title": "The AI graveyard: a running list of projects and startups that didn’t make it",
+     "source": "TechCrunch",
+     "url": "https://techcrunch.com/2026/11/14/the-ai-graveyard-a-running-list-of-projects-and-startups-that-didnt-make-it/",
+     "published_at": 1794677400.0
+    }
+   ]
+  },
+  {
+   "text": "【the】IT之家 11 月 15 日消息，《英雄联盟》2026 全球总决赛（S16）冠亚军决赛刚刚结束，来自中国 LPL 赛区的 BLG 战队以 3:1",
+   "keyword": "the",
+   "news_ids": [
+    "a9190dbf3b199a93"
+   ],
+   "refs": [
+    {
+     "id": "a9190dbf3b199a93",
+     "title": "队史首次！BLG 战队 3:1 力克 GEN 夺《英雄联盟》S16 冠军，中国战队连斩 4 支韩国队时隔 5 年再登顶",
+     "source": "IT之家",
+     "url": "https://www.ithome.com/1/027/258.htm",
+     "published_at": 1794700969.0
+    }
+   ]
+  },
+  {
+   "text": "【首次】IT早报”时间，大家好，现在是 2026 年 11 月 15 日星期日，今天的重要科技资讯有： 1. 创造历史：美国 SpaceX 首次实现筷子",
+   "keyword": "首次",
+   "news_ids": [
+    "a24d4d2101de53b4"
+   ],
+   "refs": [
+    {
+     "id": "a24d4d2101de53b4",
+     "title": "IT早报 1115：SpaceX 首次完成“筷子夹星舰飞船”；百万级 CAR-T 抗癌药首次进医保；古尔曼重申苹果 iPhone 18 明年春发布；比亚迪辟谣收购某数字能源...",
+     "source": "IT之家",
+     "url": "https://www.ithome.com/1/027/257.htm",
+     "published_at": 1794700512.0
+    }
+   ]
+  },
+  {
+   "text": "【微软】微软日前遭遇持续近一整天的大规模全球服务中断事件，多项在线服务受到不同程度影响",
+   "keyword": "微软",
+   "news_ids": [
+    "112e090548b32d01"
+   ],
+   "refs": [
+    {
+     "id": "112e090548b32d01",
+     "title": "微软大规模全球宕机引发索赔行动 部分客户寻求获得服务补偿",
+     "source": "cnBeta",
+     "url": "https://www.cnbeta.com.tw/articles/tech/1586430.htm",
+     "published_at": 1794689724.0
+    }
+   ]
+  },
+  {
+   "text": "在全国航班停飞引发航空出行混乱后，贝德福德14日向美国公众道歉，并称“最糟糕的时期已经过去”，全国航空运输预计15日晚能恢复正常",
+   "keyword": "",
+   "news_ids": [
+    "88e90567fea19ab0"
+   ],
+   "refs": [
+    {
+     "id": "88e90567fea19ab0",
+     "title": "美联邦航空局局长：全美航空运输预计15日晚恢复正常",
+     "source": "cnBeta",
+     "url": "https://www.cnbeta.com.tw/articles/tech/1586438.htm",
+     "published_at": 1794691519.0
+    }
+   ]
+  },
+  {
+   "text": "在黄仁勋突然辞去英伟达首席执行官职务后，围绕这家全球最大人工智能芯片公司的领导层变动，外界的关注正在迅速升温",
+   "keyword": "",
+   "news_ids": [
+    "a6de47484287edc4"
+   ],
+   "refs": [
+    {
+     "id": "a6de47484287edc4",
+     "title": "英伟达两大机构投资者致信董事会：要求谨慎选择继任者 为黄仁勋回归保留可能",
+     "source": "cnBeta",
+     "url": "https://www.cnbeta.com.tw/articles/tech/1586432.htm",
+     "published_at": 1794689751.0
+    }
+   ]
+  },
+  {
+   "text": "Article URL: https://www",
+   "keyword": "",
+   "news_ids": [
+    "9cbe69be1b9fe7ec"
+   ],
+   "refs": [
+    {
+     "id": "9cbe69be1b9fe7ec",
+     "title": "Dartmouth (Guarini) will not admit math PhD cohort this year",
+     "source": "Hacker News",
+     "url": "https://www.thedartmouth.com/article/2026/11/gandhi-fagell-guarini-will-not-admit-math-ph-d-cohort-this-year",
+     "published_at": 1794684220.0
+    }
+   ]
+  },
+  {
+   "text": "Article URL: https://www",
+   "keyword": "",
+   "news_ids": [
+    "fb561fcae6d91848"
+   ],
+   "refs": [
+    {
+     "id": "fb561fcae6d91848",
+     "title": "LinkedIn, Monster take down over 1000 fake job postings after CBC investigation",
+     "source": "Hacker News",
+     "url": "https://www.cbc.ca/news/canada/linkedin-monster-take-down-over-1-000-fake-job-postings-after-cbc-investigation-9.7415379",
+     "published_at": 1794682607.0
+    }
+   ]
+  },
+  {
+   "text": "Google正在进一步扩大Gemini人工智能助手的个人信息整合能力",
+   "keyword": "",
+   "news_ids": [
+    "c3126058bb63741c"
+   ],
+   "refs": [
+    {
+     "id": "c3126058bb63741c",
+     "title": "Google为Gemini推出个人财务分析功能 接入银行账户和信用卡 帮用户分析收支",
+     "source": "cnBeta",
+     "url": "https://www.cnbeta.com.tw/articles/tech/1586428.htm",
+     "published_at": 1794679446.0
+    }
+   ]
+  },
+  {
+   "text": "美国佛罗里达州航空企业Maxwell Aircraft近日公布了一款名为M1 Hybrid的两栖混合动力货运飞机",
+   "keyword": "",
+   "news_ids": [
+    "7cc19a18ff9772f6"
+   ],
+   "refs": [
+    {
+     "id": "7cc19a18ff9772f6",
+     "title": "混合动力水上货机M1 Hybrid亮相 电力助推起飞六分钟 续航可达1850公里",
+     "source": "cnBeta",
+     "url": "https://www.cnbeta.com.tw/articles/tech/1586422.htm",
+     "published_at": 1794679311.0
+    }
+   ]
+  },
+  {
+   "text": "Article URL: https://github",
+   "keyword": "",
+   "news_ids": [
+    "83b5db869317cad2"
+   ],
+   "refs": [
+    {
+     "id": "83b5db869317cad2",
+     "title": "US IRS free online tax filing open source repo",
+     "source": "Hacker News",
+     "url": "https://github.com/IRS-Public/direct-file",
+     "published_at": 1794678500.0
+    }
+   ]
+  },
+  {
+   "text": "Article URL: https://www",
+   "keyword": "",
+   "news_ids": [
+    "0a75c54f5f449700"
+   ],
+   "refs": [
+    {
+     "id": "0a75c54f5f449700",
+     "title": "Will We Put Data Centers in Space?",
+     "source": "Hacker News",
+     "url": "https://www.forethought.org/research/will-we-really-put-data-centers-in-space",
+     "published_at": 1794677733.0
+    }
+   ]
+  },
+  {
+   "text": "受益于疫苗接种，美国自 2000 年起被认定“消灭”了麻疹",
+   "keyword": "",
+   "news_ids": [
+    "9cc2f46acb16c27c"
+   ],
+   "refs": [
+    {
+     "id": "9cc2f46acb16c27c",
+     "title": "美国失去麻疹消除地位",
+     "source": "Solidot",
+     "url": "https://www.solidot.org/story?sid=85889",
+     "published_at": 1794675175.0
+    }
+   ]
+  },
+  {
+   "text": "Article URL: https://goliath32",
+   "keyword": "",
+   "news_ids": [
+    "4e3834ea37a45e15"
+   ],
+   "refs": [
+    {
+     "id": "4e3834ea37a45e15",
+     "title": "Creating a self booting ZIP archive",
+     "source": "Hacker News",
+     "url": "https://goliath32.com/blog/ziphead.html",
+     "published_at": 1794673745.0
+    }
+   ]
+  },
+  {
+   "text": "Article URL: https://www",
+   "keyword": "",
+   "news_ids": [
+    "4f0517dd0407ea18"
+   ],
+   "refs": [
+    {
+     "id": "4f0517dd0407ea18",
+     "title": "Italy fines Meta €805M over photo privacy",
+     "source": "Hacker News",
+     "url": "https://www.rapporteur.com/news/italy-fines-meta-880mn-over-photo-privacy-authority/",
+     "published_at": 1794672014.0
+    }
+   ]
+  }
+ ],
+ "article": {
+  "title": "2026-11-15 新闻总结",
+  "paragraphs": [
+   {
+    "kind": "lead",
+    "text": "今天共收录 51 条新闻，来自 5 家媒体。把标题放在一起看，讨论主要集中在 AI 这几个方向上，其余消息更像是零散补充。"
+   },
+   {
+    "kind": "section",
+    "heading": "全球",
+    "text": "先看「全球」。IT之家 11 月 15 日消息，《英雄联盟》2026 全球总决赛（S16）冠亚军决赛刚刚结束，另有 8 条消息指向同一话题。这条消息短期内的实际影响可能有限，但它指向的方向值得放进观察名单。",
+    "news_ids": [
+     "3b275806f64a65e8"
+    ],
+    "refs": [
+     {
+      "id": "3b275806f64a65e8",
+      "title": "B站宣布免费送所有人大会员，英雄联盟 S16 全球总决赛中国战队 BLG 夺冠",
+      "source": "IT之家",
+      "url": "https://www.ithome.com/1/027/260.htm",
+      "published_at": 1794702849.0
+     }
+    ]
+   },
+   {
+    "kind": "section",
+    "heading": "收购",
+    "text": "与此同时「收购」。IT早报”时间，大家好，现在是 2026 年 11 月 15 日星期日，今天的重要科技资讯有： 1. 创造历史，另有 9 条消息指向同一话题。技术路线的胜负很少由一次发布会决定，接下来要看的是它能不能被更多团队低成本复用。",
+    "news_ids": [
+     "a24d4d2101de53b4"
+    ],
+    "refs": [
+     {
+      "id": "a24d4d2101de53b4",
+      "title": "IT早报 1115：SpaceX 首次完成“筷子夹星舰飞船”；百万级 CAR-T 抗癌药首次进医保；古尔曼重申苹果 iPhone 18 明年春发布；比亚迪辟谣收购某数字能源...",
+      "source": "IT之家",
+      "url": "https://www.ithome.com/1/027/257.htm",
+      "published_at": 1794700512.0
+     }
+    ]
+   },
+   {
+    "kind": "section",
+    "heading": "升级",
+    "text": "另一个值得注意的方向是「升级」。IT之家 11 月 15 日消息，据科技媒体 Windows Latest 今天报道，微软 Win11 系统大规模界面改版的一阶段已开始推送，另有 4 条消息指向同一话题。从节奏上看，行业已经从「能不能做」转向「做得便不便宜」，这通常意味着竞争会更务实。",
+    "news_ids": [
+     "3b8ee0b801e460cc"
+    ],
+    "refs": [
+     {
+      "id": "3b8ee0b801e460cc",
+      "title": "微软 Win11 大规模界面改版已开始推送，首先升级 Win8 时代的自动播放弹窗",
+      "source": "IT之家",
+      "url": "https://www.ithome.com/1/027/256.htm",
+      "published_at": 1794700175.0
+     }
+    ]
+   },
+   {
+    "kind": "section",
+    "heading": "美联邦航空局局长",
+    "text": "相比之下「美联邦航空局局长」。在全国航班停飞引发航空出行混乱后，贝德福德14日向美国公众道歉，并称“最糟糕的时期已经过去”。这条消息短期内的实际影响可能有限，但它指向的方向值得放进观察名单。",
+    "news_ids": [
+     "88e90567fea19ab0"
+    ],
+    "refs": [
+     {
+      "id": "88e90567fea19ab0",
+      "title": "美联邦航空局局长：全美航空运输预计15日晚恢复正常",
+      "source": "cnBeta",
+      "url": "https://www.cnbeta.com.tw/articles/tech/1586438.htm",
+      "published_at": 1794691519.0
+     }
+    ]
+   },
+   {
+    "kind": "glossary",
+    "items": [
+     {
+      "term": "AI",
+      "desc": "人工智能，让机器完成识别、生成、判断等原本需要人做的任务"
+     },
+     {
+      "term": "IPO",
+      "desc": "首次公开募股，公司第一次把股票卖给公众并上市"
+     },
+     {
+      "term": "GPU",
+      "desc": "图形处理器，因为擅长大规模并行计算，成了 AI 训练的主力硬件"
+     },
+     {
+      "term": "数据中心",
+      "desc": "集中放置服务器、供电与散热设施的大型机房"
+     },
+     {
+      "term": "算力",
+      "desc": "计算能力，通常用 GPU 数量和浮点性能衡量，是训练大模型的门槛"
+     }
+    ]
+   },
+   {
+    "kind": "outlook",
+    "text": "整体看，这个时段的新闻还处在「消息多、结论少」的阶段，与其急着下判断，不如盯住接下来一两周有没有可验证的后续动作。"
+   }
+  ],
+  "word_count": 579
+ },
+ "ai_enhanced": false,
+ "schema": 1,
+ "window_bj": {
+  "start": "2026-11-15 00:00",
+  "end": "2026-11-15 09:00"
+ }
+}
