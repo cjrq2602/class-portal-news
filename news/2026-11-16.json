@@ -1,8 +1,26 @@
 {
  "date": "2026-11-16",
- "generated_at": 1794775053.6577988,
- "count": 16,
+ "generated_at": 1794777471.2551165,
+ "count": 20,
  "items": [
+  {
+   "id": "61db14c4716eff48",
+   "source": "cnBeta",
+   "title": "《GTA6》11月19日发售 专家称其为罕见文化时刻",
+   "url": "https://www.cnbeta.com.tw/articles/game/1586518.htm",
+   "summary": "R星计划于11月19日推出《GTA6》。在经历多年开发和多次延期后，这次发售已受到游戏业及其他行业关注，普华永道专家Bart Spiegel将其形容为类似奥运会的“罕见文化时刻”。 阅读全文",
+   "published_at": 1794776595.0,
+   "published_bj": "2026-11-16 05:03"
+  },
+  {
+   "id": "dfeffb20e7321738",
+   "source": "cnBeta",
+   "title": "黄仁勋辞职仅数日便传出考虑复出：英伟达内部酝酿“迎回创始人”行动",
+   "url": "https://www.cnbeta.com.tw/articles/tech/1586516.htm",
+   "summary": "英伟达创始人黄仁勋辞去首席执行官职务后，围绕其未来去向的争议并未平息。硅谷内部已经出现推动黄仁勋重新执掌英伟达的声音，甚至有消息称，他本人正在考虑重返公司最高管理职位。与此同时，卷入整场风波的新加坡企业Megaspeed International也发布了最新声明，试图澄清有关其前高管艾丽丝·黄（Alice Huang）的任职情况，但声明反而引出了更多疑问。 阅读全文",
+   "published_at": 1794776567.0,
+   "published_bj": "2026-11-16 05:02"
+  },
   {
    "id": "917d7b4eebeffe0d",
    "source": "TechCrunch",
@@ -38,6 +56,24 @@
    "summary": "Article URL: https://fortune.com/2026/11/14/alpha-school-ai-students-tuition-learning-goals/ Comments URL: https://news.ycombinator.com/item?id=50509953 Points: 22 # Comments: 10",
    "published_at": 1794771586.0,
    "published_bj": "2026-11-16 03:39"
+  },
+  {
+   "id": "2b93a14197e366e3",
+   "source": "Hacker News",
+   "title": "Jensen Huang discusses comeback as Nvidia CEO with allies",
+   "url": "https://www.ft.com/content/45383d86-33c4-4d99-86e5-5e058d3567c1",
+   "summary": "Article URL: https://www.ft.com/content/45383d86-33c4-4d99-86e5-5e058d3567c1 Comments URL: https://news.ycombinator.com/item?id=50509883 Points: 64 # Comments: 40",
+   "published_at": 1794771071.0,
+   "published_bj": "2026-11-16 03:31"
+  },
+  {
+   "id": "941d8c89b4812787",
+   "source": "Hacker News",
+   "title": "Protomaps: Self-hosting map tiles has gotten cheap and easy",
+   "url": "https://bruceroettgers.eu/blog/protomaps/",
+   "summary": "Article URL: https://bruceroettgers.eu/blog/protomaps/ Comments URL: https://news.ycombinator.com/item?id=50509837 Points: 4 # Comments: 0",
+   "published_at": 1794770782.0,
+   "published_bj": "2026-11-16 03:26"
   },
   {
    "id": "e613af7fcaf35b10",
