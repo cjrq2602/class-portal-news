@@ -1,6 +1,6 @@
 {
  "date": "2026-11-13",
- "generated_at": 1794728703.031434,
+ "generated_at": 1794732346.0395784,
  "count": 400,
  "items": [
   {
@@ -191,6 +191,15 @@
    "summary": "Article URL: https://discourse.haskell.org/t/a-technical-vision-for-the-haskell-ecosystem/15078 Comments URL: https://news.ycombinator.com/item?id=50484235 Points: 15 # Comments: 1",
    "published_at": 1794580992.0,
    "published_bj": "2026-11-13 22:43"
+  },
+  {
+   "id": "a317c55b78d811a2",
+   "source": "Hacker News",
+   "title": "Semicircle Packing",
+   "url": "https://rorz.io/writing/semicircle-packing",
+   "summary": "Article URL: https://rorz.io/writing/semicircle-packing Comments URL: https://news.ycombinator.com/item?id=50484234 Points: 3 # Comments: 0",
+   "published_at": 1794580977.0,
+   "published_bj": "2026-11-13 22:42"
   },
   {
    "id": "53ce3cf09eda5484",
@@ -3593,15 +3602,6 @@
    "summary": "三星电子围绕Galaxy手机反向无线充电功能展开的一场专利诉讼，终于在持续近四年后画上句号。三星、专利持有方WiPQTUS Inc.以及日本半导体企业瑞萨电子（Renesas Electronics）已经达成庭外和解，三方同意撤销所有相关诉讼请求，并承诺今后不再就同一争议事项相互提起诉讼。 阅读全文",
    "published_at": 1794506762.0,
    "published_bj": "2026-11-13 02:06"
-  },
-  {
-   "id": "05d4fad3753a2b0c",
-   "source": "Hacker News",
-   "title": "Gemini 4 Hydrogen",
-   "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-hydrogen/",
-   "summary": "Article URL: https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-hydrogen/ Comments URL: https://news.ycombinator.com/item?id=50471431 Points: 278 # Comments: 177",
-   "published_at": 1794506508.0,
-   "published_bj": "2026-11-13 02:01"
   }
  ]
 }
