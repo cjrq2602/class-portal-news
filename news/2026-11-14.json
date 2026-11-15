@@ -1,7 +1,7 @@
 {
  "date": "2026-11-14",
- "generated_at": 1794698908.4535549,
- "count": 299,
+ "generated_at": 1794701512.6585407,
+ "count": 300,
  "items": [
   {
    "id": "dfe8eeaaa85aa0d3",
@@ -461,6 +461,15 @@
    "summary": "IT之家 11 月 14 日消息，AOC 旗下“CU34G4ZD”34 英寸显示器现已在京东上架。这一型号基于 1800R 曲面 34\" QD-OLED Penta Tandem 面板，采用 RGB V-Stripe 子像素排列，覆盖 Black AGLR 镀膜， 定价为 4999 元 。 京东 AOC“CU34G4ZD”显示器 4999 元 直达链接 CU34G4ZD 分辨率 WQHD (3440×1440)，刷新率 280Hz；获得 VESA DisplayHDR True Black 500 认证，SDR 亮度 300nits、HDR 峰值亮度 1300nits；色域 100% sRGB",
    "published_at": 1794654863.0,
    "published_bj": "2026-11-14 19:14"
+  },
+  {
+   "id": "0745f8d1d058674e",
+   "source": "Hacker News",
+   "title": "Project Zero will disclose vulnerabilities 90 days after reporting",
+   "url": "https://projectzero.google/2026/11/disclosure-policy.html",
+   "summary": "Article URL: https://projectzero.google/2026/11/disclosure-policy.html Comments URL: https://news.ycombinator.com/item?id=50496051 Points: 131 # Comments: 29",
+   "published_at": 1794654797.0,
+   "published_bj": "2026-11-14 19:13"
   },
   {
    "id": "9e801f57a6d6092e",

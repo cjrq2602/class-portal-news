@@ -1,8 +1,71 @@
 {
  "date": "2026-11-15",
- "generated_at": 1794698908.4515827,
- "count": 38,
+ "generated_at": 1794701512.6559107,
+ "count": 46,
  "items": [
+  {
+   "id": "c41d1ad6acb137eb",
+   "source": "TechCrunch",
+   "title": "Where was Nvidia’s security team?",
+   "url": "https://techcrunch.com/2026/11/14/where-was-nvidias-security-team/",
+   "summary": "Nvidia’s security chief quietly left in August, and now that CEO Jensen Huang has stepped down over his relationships, including one with an executive at a company suspected of funneling chips to China, a former intelligence officer says it’s the kind of leak that runs everyday conversations, which ",
+   "published_at": 1794701287.0,
+   "published_bj": "2026-11-15 08:08"
+  },
+  {
+   "id": "a24d4d2101de53b4",
+   "source": "IT之家",
+   "title": "IT早报 1115：SpaceX 首次完成“筷子夹星舰飞船”；百万级 CAR-T 抗癌药首次进医保；古尔曼重申苹果 iPhone 18 明年春发布；比亚迪辟谣收购某数字能源...",
+   "url": "https://www.ithome.com/1/027/257.htm",
+   "summary": "“IT早报”时间，大家好，现在是 2026 年 11 月 15 日星期日，今天的重要科技资讯有： 1. 创造历史：美国 SpaceX 首次实现筷子夹星舰飞船 SpaceX 在星舰第 15 次试飞中首次用发射塔“筷子”机械臂捕获轨道返回的星舰上面级，虽未完全回收整枚火箭，但仍是星舰项目重要里程碑，目前正调查助推器中止着陆的原因。&gt;&gt; 查看详情 2. 配 A20 芯片：古尔曼重申苹果 iPhone 18/18e 明年春季将登场 在最新一期 Power On 访谈节目中，彭博社的马克 · 古尔曼（Mark Gurman）再次透露，苹果将会在 2027 年春季发布 iPhone 18 和 ",
+   "published_at": 1794700512.0,
+   "published_bj": "2026-11-15 07:55"
+  },
+  {
+   "id": "3b8ee0b801e460cc",
+   "source": "IT之家",
+   "title": "微软 Win11 大规模界面改版已开始推送，首先升级 Win8 时代的自动播放弹窗",
+   "url": "https://www.ithome.com/1/027/256.htm",
+   "summary": "IT之家 11 月 15 日消息，据科技媒体 Windows Latest 今天报道，微软 Win11 系统大规模界面改版的一阶段已开始推送，首个改造的功能是自动播放（AutoPlay）。原本 Win8 时代的直角边框弹窗，现在变成了更加现代的样式。 IT之家从原报道获悉，本月发布的强制安全更新 KB5132061 已包含新版自动播放。此次更新将 Windows 11 26H2 升级至 Build 26300.9974，将 25H2 升级至 Build 26200.9974，该功能正在分阶段推送，因此安装更新后，用户可能无法立刻看到新界面。 如果您经常将 U 盘、SD 卡或手机连接到电脑，应该",
+   "published_at": 1794700175.0,
+   "published_bj": "2026-11-15 07:49"
+  },
+  {
+   "id": "c7578a04459ccc36",
+   "source": "IT之家",
+   "title": "国产算力巨头超聚变创业板 IPO 过会，前身是华为 X86 服务器业务",
+   "url": "https://www.ithome.com/1/027/255.htm",
+   "summary": "IT之家 11 月 15 日消息，深交所上市审核委员会本月 12 日召开 2026 年第 61 次审议会议，会议结果为超聚变数字技术股份有限公司（以下简称超聚变）（首发） 符合发行条件、上市条件和信息披露要求 。 在深圳证券交易所上市审核委员会的会议现场，问询超聚变的主要问题包括：结合算力需求变化、下游客户资本开支、技术先进性、经营性现金流量净额状况、客户和供应商集中度等情况，说明超聚变毛利率变动趋势，以及经营业绩增长是否具有可持续性，相关风险揭示是否充分。 这意味着超聚变申报深交所创业板 IPO 过会 ，且公开信息显示从申报受理到过会仅用时 174 天。 IT之家注：超聚变成立于 2021 ",
+   "published_at": 1794699536.0,
+   "published_bj": "2026-11-15 07:38"
+  },
+  {
+   "id": "0cb654cdfbd3e7a5",
+   "source": "IT之家",
+   "title": "微软 XBOX 商店出现标价 1999 美元的《GTA6》游戏，疑为盒装兑换码占位商品",
+   "url": "https://www.ithome.com/1/027/254.htm",
+   "summary": "IT之家 11 月 15 日消息，近日部分海外玩家发现，微软 XBOX 商店上架了《GTA6》游戏全新版本，标价高达 1,999.99 美元 （IT之家注：现汇率约合 13,370 元人民币） 。目前该商品已经下架， 其离谱的价格可能与实体盒装兑换码的购买流程有关 。 从玩家分享的商店截图可以看到，普通消费者在 XBOX 商店选购《GTA6》时，看到的仍然是 79.99 美元 （现汇率约合 534.7 元人民币） 普通版和 99.99 美元 （现汇率约合 668.4 元人民币） 终极版选项。1,999 美元 （现汇率约合 13,363 元人民币） 的版本并没有标注具体名称，描述仅为“盒装兑换码",
+   "published_at": 1794699059.0,
+   "published_bj": "2026-11-15 07:30"
+  },
+  {
+   "id": "eab7c5b85f417d75",
+   "source": "IT之家",
+   "title": "SpaceX 星舰飞船首次被发射塔机械臂捕获回收，马斯克将建 AI 数据中心星座",
+   "url": "https://www.ithome.com/1/027/253.htm",
+   "summary": "IT之家 11 月 15 日消息，当地时间 11 月 14 日，SpaceX 在星舰第 15 次试飞中首次用发射塔机械臂接住从轨道返回的第二级飞船， 这是星舰飞船首次完成发射塔捕获 。 据介绍，SpaceX 计划使用该飞船在 LEO 轨道上构建一个庞大的网络 —— 根据埃隆 · 马斯克的说法，这个网络将包含一个由百万艘航天器组成的 AI 数据中心星座 。 组装这些巨型结构需要极高的组装频率。SpaceX 表示，采用双筷子式抓取方式是实现这一目标的关键，因为它能更快地进行星际飞船的检查、修复和重新发射。因此， 该公司很可能会在不久之后再次尝试这种手段 —— 很可能是在下一次飞船的飞行任务中。 I",
+   "published_at": 1794698818.0,
+   "published_bj": "2026-11-15 07:26"
+  },
+  {
+   "id": "0ebf429952caaf3d",
+   "source": "IT之家",
+   "title": "一天暴涨 6 万：请愿恢复黄仁勋英伟达 CEO 职务人数突破 12 万人，马斯克也参与签名",
+   "url": "https://www.ithome.com/1/027/252.htm",
+   "summary": "IT之家 11 月 15 日消息，今年 11 月 12 日，英伟达董事会今日宣布，黄仁勋辞去总裁、首席执行官及董事会成员职务，即刻生效。英伟达执行副总裁兼 CFO 科莱特 · 克雷斯同意出任临时 CEO，在董事会选出正式继任者前兼任这一职务，并继续担任执行副总裁和 CFO。 随后，一个名为“Stand with Jensen”的请愿活动在网上流传开来，要求英伟达董事会恢复黄仁勋的 CEO 职务。截至IT之家发文， 该活动已收集超过 12 万个签名 ， 较昨天增长约 6.3 万人次 。 该网站显示，本次活动的组织者和签名者担心，黄仁勋可能在未经正当程序、甚至没有几天时间为自己申辩的情况下被迫离职",
+   "published_at": 1794698280.0,
+   "published_bj": "2026-11-15 07:18"
+  },
   {
    "id": "50682136810f4339",
    "source": "IT之家",
@@ -90,6 +153,15 @@
    "title": "SpaceX Catches the Starship to end Flight 15",
    "url": "https://x.com/i/broadcasts/2brajgZlOKRMka",
    "summary": "Article URL: https://x.com/i/broadcasts/2brajgZlOKRMka Comments URL: https://news.ycombinator.com/item?id=50500963 Points: 221 # Comments: 120",
+   "published_at": 1794691344.0,
+   "published_bj": "2026-11-15 05:22"
+  },
+  {
+   "id": "122542fbc14932b7",
+   "source": "Hacker News",
+   "title": "SpaceX catches the Starship to end Flight 15",
+   "url": "https://www.spacex.com/launches/starship-flight-15",
+   "summary": "https://x.com/SpaceX/status/2121316300702056595 Comments URL: https://news.ycombinator.com/item?id=50500963 Points: 525 # Comments: 325",
    "published_at": 1794691344.0,
    "published_bj": "2026-11-15 05:22"
   },
