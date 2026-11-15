@@ -1,7 +1,7 @@
 {
  "date": "2026-11-15",
- "generated_at": 1794713349.8725,
- "count": 72,
+ "generated_at": 1794717226.9495964,
+ "count": 83,
  "items": [
   {
    "id": "0edace1bb97bd5ec",
@@ -22,6 +22,78 @@
    "published_bj": "2026-11-15 17:00"
   },
   {
+   "id": "dc64a1bcaa7556b2",
+   "source": "IT之家",
+   "title": "第 10 万辆岚图知音纯电 SUV 交付，2027 款本月上市限时权益价 19.79 万元",
+   "url": "https://www.ithome.com/1/027/298.htm",
+   "summary": "IT之家 11 月 15 日消息，岚图汽车官方宣布， 第 10 万辆岚图知音纯电 SUV 已正式交付 。 据IT之家此前报道， 2027 款岚图知音已于 11 月 13 日上市，限时权益价 19.79 万元 。 新车搭载新一代华为 896 线双光路激光雷达 + 华为乾崑智驾 ADS 5，支持全向防碰撞系统 CAS5.0、全场景智慧泊车辅助、辅助驾驶车位到车位 3.0、高速 NCA、城市 NCA、漫游巡航辅助 RCA 等。",
+   "published_at": 1794714964.0,
+   "published_bj": "2026-11-15 11:56"
+  },
+  {
+   "id": "c3d6d71f8c7e3800",
+   "source": "IT之家",
+   "title": "纽约州长就停飞要求美交通部长辞职：美国航空系统的严重失误已成为一种常态",
+   "url": "https://www.ithome.com/1/027/296.htm",
+   "summary": "IT之家 11 月 15 日消息，据 CCTV 国际时讯报道，当地时间 11 月 14 日，美国仍有大批航班延误或取消。当天，美国纽约州民主党籍州长霍楚尔发表声明，要求美国交通部长达菲辞职。 她表示，在达菲任内， 美国航空系统的严重失误已经成为一种常态 。霍楚尔批评达菲更热衷于在媒体面前露脸，而不是解决其主管部门面临的危机。 IT之家注意到，美国联邦航空管理局局长贝德福德在当天的记者会上向美国公众道歉，并称“最糟糕的时期已经过去”， 全国航空运输预计 15 日晚能恢复正常 。 美国交通部长达菲在 14 日召开的记者会上表示，联邦航空管理局的承包商 L3 哈里斯科技公司 在某偏远设施升级系统、安",
+   "published_at": 1794714515.0,
+   "published_bj": "2026-11-15 11:48"
+  },
+  {
+   "id": "8bdeaad44032e1b4",
+   "source": "IT之家",
+   "title": "小米海外公布 18 Pro 系列手机背屏适配：支持谷歌地图、Spotify、Gemini 等应用",
+   "url": "https://www.ithome.com/1/027/295.htm",
+   "summary": "IT之家 11 月 15 日消息，小米现已在海外公布 18 Pro 系列手机的背屏适配进展：支持谷歌地图、Gemini、Spotify、YouTube Music 和 Trip.com 等应用。 据介绍，小米 18 Pro 系列手机还将支持生成式 AI 功能。从小米集团副总裁、集团 CMO 许斐发布的演示视频来看，该机可以将用户的单词学习、喝水提醒等需求生成背屏应用。 据IT之家此前报道， 小米 18 Pro 系列手机已于 9 月 23 日晚在国内正式发布 ，搭载第六代骁龙 8 至尊版系列移动平台，后置徕卡 2 亿大底主摄 + 2 亿大底长焦，配备 AI 百变背屏，售价 5,999 元起。 卢",
+   "published_at": 1794714313.0,
+   "published_bj": "2026-11-15 11:45"
+  },
+  {
+   "id": "e2a971015a3f2f9a",
+   "source": "IT之家",
+   "title": "苹果智能家庭中枢 HomeView 首批评测出炉：Siri AI 问题频出，隐私问题引担忧",
+   "url": "https://www.ithome.com/1/027/294.htm",
+   "summary": "IT之家 11 月 15 日消息，苹果首款智能家庭中枢 HomeView 已经于 11 月 13 日在海外上市，配备 7 英寸 Liquid Retina 显示屏、A18 芯片、人脸识别功能，但外界期待已久的 Siri AI 仍处于测试阶段，如今出炉的首批媒体评测、用户体验说明，苹果还有大量工作没有完成。 NBC 首席科技分析师 Joanna Stern 表示，这款设备的 Siri AI 体验并不算优秀，例如当你说嘿 Siri 时，房间的其他设备会被叫醒，而不是 HomeView。而且 Siri AI 经常会答非所问，有时候甚至是直接卡住几分钟。 The Verge 智能家居编辑 Jennif",
+   "published_at": 1794713494.0,
+   "published_bj": "2026-11-15 11:31"
+  },
+  {
+   "id": "e3ae0a5f65aea18a",
+   "source": "IT之家",
+   "title": "华为麒麟 9050 系列芯片新一代巴龙 AI Modem 情报公开：首创融合通信架构、业界首发四卡三待",
+   "url": "https://www.ithome.com/1/027/292.htm",
+   "summary": "IT之家 11 月 15 日消息，华为官方今日继续揭秘首款「逻辑折叠」技术 τ 芯片 —— 麒麟 9050 系列更多配置信息， 今日最新公开了新一代巴龙 AI Modem 的情报 。 据介绍，新一代巴龙 AI Modem 首创融合通信架构， 含 Modem AI 通信架构、多系统协同架构和星地一体融合架构 ，支持智能选网、地铁模式和极速回网功能，宣称对比 A 手机 18 Pro Max 火车游戏卡顿降低 48%、演唱会传图耗时降低 46%、地铁刷短视频卡顿降低 32%、户外回网等待降低 83%。 新一代巴龙 AI Modem 支持蜂窝极速大上行，宣称对比 A 手机 18 Pro Max 峰值场",
+   "published_at": 1794713116.0,
+   "published_bj": "2026-11-15 11:25"
+  },
+  {
+   "id": "f9cfa432cfa9d0e1",
+   "source": "IT之家",
+   "title": "JPR 数据：全球 PC 客户端 CPU 出货量 2026Q3 同比 -6.5%、环比 -3.4%",
+   "url": "https://www.ithome.com/1/027/291.htm",
+   "summary": "IT之家 11 月 15 日消息，根据 Jon Peddie Research (JPR) 当地时间本月 13 日消息， 全球 PC 客户端 CPU 的出货量在 2026 年第 3 季度降至 6,080 万颗 ，同比 -6.5%、环比 -3.4%；桌面 CPU 出货量同比 -13%、笔电端则 -4%。 与此同时， 集成显卡的季度出货量为 5,490 万颗， 同比 -3.85%、环比 -3.0%；AMD 占据集显出货量的 23%，另外的 77% 由英特尔贡献。 存储器等关键零组件价格的飙升严重抑制了消费者的需求， 机构预计 PC 市场的衰弱态势会持续到 2027 年上半年 。 服务器 / 数据中",
+   "published_at": 1794712722.0,
+   "published_bj": "2026-11-15 11:18"
+  },
+  {
+   "id": "7b690eb556717f2f",
+   "source": "IT之家",
+   "title": "我国新能源重卡单月渗透率超 50%，10 月新车销量中已占多数",
+   "url": "https://www.ithome.com/1/027/290.htm",
+   "summary": "IT之家 11 月 15 日消息，据中央广播电视总台中国之声报道，近日，中国汽车工业协会发布数据显示，10 月我国新能源重卡单月渗透率超过 50%，新能源车型在当月重卡新车销量中已占多数。 今年印发的《推动新能源重卡规模化应用实施方案》明确，到 2030 年，围绕国家高速公路网“5 射 4 纵 5 横”重点路段建设零碳公路运输通道 3 万公里，加大新能源重卡全场景应用支持力度。眼下，政策蓝图加速落地，近日，多地印发文件，部署零碳运输通道建设，引导新能源重卡由短途运输向中长途干线拓展。 IT之家查询获悉，《方案》提出， 到 2030 年，新能源重卡渗透率达到 40%，保有量突破 160 万辆、占",
+   "published_at": 1794712350.0,
+   "published_bj": "2026-11-15 11:12"
+  },
+  {
+   "id": "a20e6f99a9d6f9a6",
+   "source": "IT之家",
+   "title": "B站“BLG 夺冠时刻”赠送大会员活动细则公布：可领 7 天、每位用户限领一次",
+   "url": "https://www.ithome.com/1/027/289.htm",
+   "summary": "IT之家 11 月 15 日消息，《英雄联盟》2026 全球总决赛（S16）冠亚军决赛刚刚结束， 来自 LPL 赛区的 BLG 战队以 3:1 的比分力克韩国 LCK 赛区的 GEN 战队 ，“一穿四”LCK 赛区，勇夺《英雄联盟》S16 冠军。 B站官方今日宣布，为了和大家一起分享这份喜悦，哔哩哔哩为所有人送大会员。今日中午 12 点起登录B站，搜索“大会员”即可免费领取，站内直接到账。 IT之家刚刚查询获悉，目前活动页面已上线， 用户登录B站账号后即可领取 7 天大会员 ，每位用户限领一次（活动暂未开启，中午 12 点开启）。 IT之家附领取时间及方式如下： 领取时间：11 月 15 日 ",
+   "published_at": 1794712076.0,
+   "published_bj": "2026-11-15 11:07"
+  },
+  {
    "id": "4106fabb6530c018",
    "source": "Hacker News",
    "title": "The Single Router in Southern Arkansas That Ground Air Travel to a Halt",
@@ -29,6 +101,24 @@
    "summary": "Article URL: https://www.wsj.com/business/airlines/the-single-router-in-southern-arkansas-that-ground-air-travel-to-a-halt-eedc326c Comments URL: https://news.ycombinator.com/item?id=50503588 Points: 6 # Comments: 0",
    "published_at": 1794711954.0,
    "published_bj": "2026-11-15 11:05"
+  },
+  {
+   "id": "7f81a377a7779bde",
+   "source": "IT之家",
+   "title": "雷鸟：GT Max bilibili 限定版销售额投入 BLG 电竞基金，买家加赠冠军签名纪念版B站大会员年卡",
+   "url": "https://www.ithome.com/1/027/288.htm",
+   "summary": "IT之家 11 月 15 日消息，雷鸟 (RayNeo) 此前对 GT Max bilibili 智能眼镜限定版承诺“BLG 不夺冠，雷鸟全退款”。而在 BLG 夺冠后，雷鸟表示 这部分销售额将投入 BLG 电竞基金 ，助力战队发展。 雷鸟同时宣布， 将向 GT Max bilibili 限定版买家额外赠送 BLG 冠军签名纪念版B站大会员年卡 。",
+   "published_at": 1794711877.0,
+   "published_bj": "2026-11-15 11:04"
+  },
+  {
+   "id": "e32ce5ed9b59f818",
+   "source": "IT之家",
+   "title": "神舟二十三乘组“太空出差之旅”进入第六个月，样品舱外暴露 5 个月后回舱",
+   "url": "https://www.ithome.com/1/027/287.htm",
+   "summary": "IT之家 11 月 15 日消息，据中国载人航天工程网官方微博今日发布的《天宫 TV》第十一季内容，中国空间站空间辐射生物学装置第四次暴露实验进展顺利，纳米酶、放线菌、植物种子等实验样品完成为期 5 个月的舱外暴露后，随装置回舱。 在空间生命科学与人体研究领域，中国空间站空间辐射生物学装置 第四次暴露实验进展顺利 。纳米酶、放线菌、植物种子等实验样品完成了 为期五个月 的舱外暴露后随装置回舱。神舟二十三乘组完成了样品拆取、存储及装置处置等工作。这些实验样品下行后将用于进一步研究太空辐射对生物的深层影响。 上周，乘组开展了运动骨肌受力研究，利用足底压力采集设备进行典型工作日足底压力测量，采集相关",
+   "published_at": 1794711819.0,
+   "published_bj": "2026-11-15 11:03"
   },
   {
    "id": "ed92812e8c6bda75",
@@ -191,6 +281,15 @@
    "summary": "Article URL: https://bobbiec.github.io/jamaican-font.html Comments URL: https://news.ycombinator.com/item?id=50502839 Points: 8 # Comments: 2",
    "published_at": 1794704205.0,
    "published_bj": "2026-11-15 08:56"
+  },
+  {
+   "id": "5b4aef7a69456ddd",
+   "source": "Hacker News",
+   "title": "US loses measles-free status: Pan American Health Organization",
+   "url": "https://www.paho.org/en/news/10-11-2025-paho-calls-regional-action-americas-lose-measles-elimination-status",
+   "summary": "Article URL: https://www.paho.org/en/news/10-11-2025-paho-calls-regional-action-americas-lose-measles-elimination-status Comments URL: https://news.ycombinator.com/item?id=50502768 Points: 21 # Comments: 0",
+   "published_at": 1794703691.0,
+   "published_bj": "2026-11-15 08:48"
   },
   {
    "id": "88cf17c6f9ab93a0",
