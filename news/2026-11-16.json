@@ -1,8 +1,17 @@
 {
  "date": "2026-11-16",
- "generated_at": 1794761997.2112586,
- "count": 3,
+ "generated_at": 1794764219.28467,
+ "count": 6,
  "items": [
+  {
+   "id": "74fdf0dd41c94ed1",
+   "source": "TechCrunch",
+   "title": "TechCrunch Mobility: The Nvidia backup plan for China’s self-driving industry",
+   "url": "https://techcrunch.com/2026/11/15/techcrunch-mobility-the-nvidia-backup-plan-for-chinas-self-driving-industry/",
+   "summary": "Welcome back to TechCrunch Mobility, your hub for the future of transportation and now, more than ever, the role AI is playing in it.",
+   "published_at": 1794762300.0,
+   "published_bj": "2026-11-16 01:05"
+  },
   {
    "id": "381763d9d70247cc",
    "source": "cnBeta",
@@ -13,6 +22,15 @@
    "published_bj": "2026-11-16 00:20"
   },
   {
+   "id": "121968c07fb9a348",
+   "source": "Hacker News",
+   "title": "What Picasso taught me about building AI Agents",
+   "url": "https://claramap.com/blog/what-picasso-taught-me-about-building-ai-agents/",
+   "summary": "Article URL: https://claramap.com/blog/what-picasso-taught-me-about-building-ai-agents/ Comments URL: https://news.ycombinator.com/item?id=50508076 Points: 5 # Comments: 1",
+   "published_at": 1794759386.0,
+   "published_bj": "2026-11-16 00:16"
+  },
+  {
    "id": "be39ef6e53756d36",
    "source": "IT之家",
    "title": "零刻 ME Pro 358H 四盘位 NAS 开售，32GB + 1TB 起价 11499 元",
@@ -20,6 +38,15 @@
    "summary": "IT之家 11 月 16 日消息，零刻 (Beelink) 现已启动 ME Pro 358H 四盘位 NAS 的销售。其 基于英特尔酷睿 Ultra X7 处理器 358H ，包含 32GB LPDDR5X-9600 内存、1TB PCIe Gen4 TLC M.2 SSD。 ME Pro 358H 四盘位 分为日常款和联名款 ：前者含 Windows 11 操作系统，售价 11,499 元；联名款含飞牛 fnOS 操作系统（商业版）、腾讯 Marvis，售价 11,699 元。 零刻 ME Pro 358H 四盘位 提供 4 个 3.5\" / 2.5\" SATA 盘位、2 个 M.2 228",
    "published_at": 1794759284.0,
    "published_bj": "2026-11-16 00:14"
+  },
+  {
+   "id": "ea2514b6347a1656",
+   "source": "Hacker News",
+   "title": "The Atheist Bible",
+   "url": "https://suchanek.name/texts/atheism/",
+   "summary": "Article URL: https://suchanek.name/texts/atheism/ Comments URL: https://news.ycombinator.com/item?id=50507989 Points: 7 # Comments: 5",
+   "published_at": 1794758753.0,
+   "published_bj": "2026-11-16 00:05"
   },
   {
    "id": "3eb6c0b61bfbd7c8",
