@@ -1,8 +1,17 @@
 {
  "date": "2026-11-16",
- "generated_at": 1794779860.6133018,
- "count": 26,
+ "generated_at": 1794782232.982528,
+ "count": 28,
  "items": [
+  {
+   "id": "bcaf0ef9b410274d",
+   "source": "Hacker News",
+   "title": "Old Bitly Links Are Being Hijacked",
+   "url": "https://ransomnews.com/burger-king-tweet-bitly-link-hijack-2026/",
+   "summary": "Article URL: https://ransomnews.com/burger-king-tweet-bitly-link-hijack-2026/ Comments URL: https://news.ycombinator.com/item?id=50511395 Points: 3 # Comments: 1",
+   "published_at": 1794780703.0,
+   "published_bj": "2026-11-16 06:11"
+  },
   {
    "id": "02a82b2fb2ed31c2",
    "source": "TechCrunch",
@@ -11,6 +20,15 @@
    "summary": "\"Jensen is Nvidia, right? And so much of this economy is riding on Nvidia.\"",
    "published_at": 1794779795.0,
    "published_bj": "2026-11-16 05:56"
+  },
+  {
+   "id": "1bf56772c51f7304",
+   "source": "Hacker News",
+   "title": "Boeing-Lockheed rocket fails mid-flight, destroys payload of Amazon satellites",
+   "url": "https://www.reuters.com/business/aerospace-defense/us-rocket-fails-after-launch-payload-amazon-internet-satellites-destroyed-2026-11-15/",
+   "summary": "Article URL: https://www.reuters.com/business/aerospace-defense/us-rocket-fails-after-launch-payload-amazon-internet-satellites-destroyed-2026-11-15/ Comments URL: https://news.ycombinator.com/item?id=50511072 Points: 10 # Comments: 4",
+   "published_at": 1794778691.0,
+   "published_bj": "2026-11-16 05:38"
   },
   {
    "id": "04f5f14bc0d56531",
