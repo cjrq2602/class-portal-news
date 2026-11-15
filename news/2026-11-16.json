@@ -1,8 +1,26 @@
 {
  "date": "2026-11-16",
- "generated_at": 1794777471.2551165,
- "count": 20,
+ "generated_at": 1794779860.6133018,
+ "count": 26,
  "items": [
+  {
+   "id": "02a82b2fb2ed31c2",
+   "source": "TechCrunch",
+   "title": "Is bad news for Jensen Huang also bad news for the AI industry?",
+   "url": "https://techcrunch.com/2026/11/15/is-bad-news-for-jensen-huang-also-bad-news-for-the-ai-industry/",
+   "summary": "\"Jensen is Nvidia, right? And so much of this economy is riding on Nvidia.\"",
+   "published_at": 1794779795.0,
+   "published_bj": "2026-11-16 05:56"
+  },
+  {
+   "id": "04f5f14bc0d56531",
+   "source": "Hacker News",
+   "title": "Your Agent Will Pick the Hackable One",
+   "url": "https://geoffstearns.com/blog/your-agent-will-pick-the-hackable-one/",
+   "summary": "Article URL: https://geoffstearns.com/blog/your-agent-will-pick-the-hackable-one/ Comments URL: https://news.ycombinator.com/item?id=50510799 Points: 17 # Comments: 0",
+   "published_at": 1794777039.0,
+   "published_bj": "2026-11-16 05:10"
+  },
   {
    "id": "61db14c4716eff48",
    "source": "cnBeta",
@@ -22,6 +40,15 @@
    "published_bj": "2026-11-16 05:02"
   },
   {
+   "id": "24ba6c3d77e7fd26",
+   "source": "Hacker News",
+   "title": "Vulcan rocket fails during return-to-flight launch, 40 Amazon satellites lost",
+   "url": "https://www.space.com/space-exploration/launches-spacecraft/ula-vulcan-centaur-return-to-flight-amazon-leo-internet-satellite-launch",
+   "summary": "Article URL: https://www.space.com/space-exploration/launches-spacecraft/ula-vulcan-centaur-return-to-flight-amazon-leo-internet-satellite-launch Comments URL: https://news.ycombinator.com/item?id=50510442 Points: 37 # Comments: 4",
+   "published_at": 1794775048.0,
+   "published_bj": "2026-11-16 04:37"
+  },
+  {
    "id": "917d7b4eebeffe0d",
    "source": "TechCrunch",
    "title": "SNL gathers all the tech tycoons for a lesson in dating and spycraft",
@@ -29,6 +56,24 @@
    "summary": "While awkward, creepy tech executives have become a recurring theme on Saturday Night Live, this week’s episode gave the cast a chance to show off all their impressions at once.",
    "published_at": 1794774057.0,
    "published_bj": "2026-11-16 04:20"
+  },
+  {
+   "id": "1d7d22dcdc875cda",
+   "source": "Hacker News",
+   "title": "WebGL Flight Simulator with seed generated terrain",
+   "url": "https://baron.by.dai.studio/",
+   "summary": "Article URL: https://baron.by.dai.studio/ Comments URL: https://news.ycombinator.com/item?id=50510296 Points: 7 # Comments: 1",
+   "published_at": 1794774005.0,
+   "published_bj": "2026-11-16 04:20"
+  },
+  {
+   "id": "47be0082cec1b8ab",
+   "source": "Hacker News",
+   "title": "Sell Your Game Outside Steam: Keys, Downloads and Direct Sales",
+   "url": "https://permitcore.dev/blog/sell-game-outside-steam",
+   "summary": "Article URL: https://permitcore.dev/blog/sell-game-outside-steam Comments URL: https://news.ycombinator.com/item?id=50510198 Points: 3 # Comments: 0",
+   "published_at": 1794773296.0,
+   "published_bj": "2026-11-16 04:08"
   },
   {
    "id": "a8bf0afaffb87747",
@@ -47,6 +92,15 @@
    "summary": "Article URL: https://arkanumdata.com/research/house-trades Comments URL: https://news.ycombinator.com/item?id=50510005 Points: 3 # Comments: 0",
    "published_at": 1794771962.0,
    "published_bj": "2026-11-16 03:46"
+  },
+  {
+   "id": "fc88ae4051022d00",
+   "source": "Hacker News",
+   "title": "Handwriting, as a Font",
+   "url": "https://ductus.sorenblank.com",
+   "summary": "Article URL: https://ductus.sorenblank.com Comments URL: https://news.ycombinator.com/item?id=50509972 Points: 13 # Comments: 1",
+   "published_at": 1794771733.0,
+   "published_bj": "2026-11-16 03:42"
   },
   {
    "id": "576d61c1e8121f9e",
