@@ -1,8 +1,17 @@
 {
  "date": "2026-11-15",
- "generated_at": 1794753471.1235461,
- "count": 247,
+ "generated_at": 1794756064.483501,
+ "count": 251,
  "items": [
+  {
+   "id": "15a09dca25269241",
+   "source": "IT之家",
+   "title": "《GTA 6》通关时长爆料：主线约 50 小时，白金全成就预计 200 小时",
+   "url": "https://www.ithome.com/1/027/459.htm",
+   "summary": "IT之家 11 月 15 日消息，《GTA 6》定于 2026 年 11 月 19 日正式发售，不少玩家已经开始关注游戏的奖杯和成就系统：想要拿到白金奖杯或完成全部成就，究竟需要投入多少时间？ 从目前披露的信息来看，《GTA 6》的主线剧情相当漫长，而想要完成全部成就，所需时间可能更加惊人。 要想准确预测《GTA 6》的通关时间并不容易，因为不同玩家的游戏水平和游玩方式各不相同。不过，根据 Insider Gaming 目前从实际体验过游戏的玩家那里收集到的信息，完整通关主线剧情预计需要约 50 小时。 游戏总共包含 5 个独立章节，主线任务接近 100 个。每项任务的长度有所不同，玩家的操作",
+   "published_at": 1794755177.0,
+   "published_bj": "2026-11-15 23:06"
+  },
   {
    "id": "36a95652176fc03a",
    "source": "InfoQ中文",
@@ -11,6 +20,33 @@
    "summary": "点击查看原文>",
    "published_at": 1794754800.0,
    "published_bj": "2026-11-15 23:00"
+  },
+  {
+   "id": "47a309bf3ec33487",
+   "source": "Hacker News",
+   "title": "All AI-generated code should be Open Source",
+   "url": "https://jakub.jankiewicz.org/blog/ai-code-open-source/",
+   "summary": "Article URL: https://jakub.jankiewicz.org/blog/ai-code-open-source/ Comments URL: https://news.ycombinator.com/item?id=50507303 Points: 4 # Comments: 0",
+   "published_at": 1794754018.0,
+   "published_bj": "2026-11-15 22:46"
+  },
+  {
+   "id": "5eec04abc54d8777",
+   "source": "IT之家",
+   "title": "韦布望远镜发现迄今最古老类星体双星，现有黑洞成长理论难以解释",
+   "url": "https://www.ithome.com/1/027/457.htm",
+   "summary": "IT之家 11 月 15 日消息，利用詹姆斯 · 韦布空间望远镜（JWST），天文学家发现了迄今观测到的最古老的一对由超大质量黑洞驱动的类星体。不过，这项发现也带来了一个难题：按照现有理论，它们本不应该如此早就存在。 这对紧密相邻的类星体借助双子座北望远镜（Gemini North）得到确认，编号为 J1602+4228AB，昵称为 Nāpōwawāʻenakaulua。这个名称意为“在热量中重生、将能量注入宇宙的无尽强大黑暗中的两个天体”。 天文学家观测到的，是这对类星体在宇宙大爆炸后约 9 亿年时的模样。当时宇宙还处于极其早期的阶段，按照现有理论，超大质量黑洞本应没有足够时间增长到如此惊人",
+   "published_at": 1794753433.0,
+   "published_bj": "2026-11-15 22:37"
+  },
+  {
+   "id": "22e9427a2239534b",
+   "source": "Hacker News",
+   "title": "The Hypertext Transfer Protocol Status Code 483 (I'm Not a Freezer)",
+   "url": "https://datatracker.ietf.org/doc/draft-banffy-httpbis-not-a-freezer/",
+   "summary": "Article URL: https://datatracker.ietf.org/doc/draft-banffy-httpbis-not-a-freezer/ Comments URL: https://news.ycombinator.com/item?id=50507206 Points: 17 # Comments: 7",
+   "published_at": 1794753112.0,
+   "published_bj": "2026-11-15 22:31"
   },
   {
    "id": "89bcb4626edc9734",
