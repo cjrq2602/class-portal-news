@@ -1,8 +1,17 @@
 {
  "date": "2026-11-16",
- "generated_at": 1794795631.1839366,
- "count": 92,
+ "generated_at": 1794797303.3238156,
+ "count": 104,
  "items": [
+  {
+   "id": "ff465ec8daf360b9",
+   "source": "InfoQ中文",
+   "title": "AI 硬件能玩出多少新花样？这场黑客松正在寻找 20 支开发者团队",
+   "url": "https://www.infoq.cn/article/ExwZoqvAjY423YKaXcpw?utm_source=rss&utm_medium=article",
+   "summary": "点击查看原文>",
+   "published_at": 1794824938.0,
+   "published_bj": "2026-11-16 18:28"
+  },
   {
    "id": "aed79b4a0104859d",
    "source": "InfoQ中文",
@@ -11,6 +20,96 @@
    "summary": "点击查看原文>",
    "published_at": 1794816000.0,
    "published_bj": "2026-11-16 16:00"
+  },
+  {
+   "id": "1c9a60f79a1e9432",
+   "source": "IT之家",
+   "title": "松下官宣 LUMIX 新机发布会，预计为电影摄影机产品",
+   "url": "https://www.ithome.com/1/027/514.htm",
+   "summary": "IT之家 11 月 16 日消息，松下官方今天在 YouTube 宣布， 北京时间明晚 22:00 将会有 LUMIX 新机发布 。 结合消息源 L-Rumors 爆料，这款新品预计是一款 L 卡口全画幅电影摄影机。该机将没有内置 ND 滤镜、电子取景器，配备两个 USB Type-C 接口，并具备 HDMI 2.1 全尺寸接口，使用 V 口电池，不支持拍摄静态照片，售价与索尼 FX5 接近，预计明年 1 月上市。 截至目前，松下官方暂未公布这款相机的参数详情，IT之家将持续关注，第一时间带来最新消息。",
+   "published_at": 1794794917.0,
+   "published_bj": "2026-11-16 10:08"
+  },
+  {
+   "id": "8889fa622b06887a",
+   "source": "IT之家",
+   "title": "台积电向精材外包 CoWoS 先进封装 oS 产能，后者将在台积电厂房建设产线",
+   "url": "https://www.ithome.com/1/027/513.htm",
+   "summary": "IT之家 11 月 16 日消息，据中国台湾地区晶圆级封装企业精材科技 (Xintec) 官方公告，该企业董事会本月 13 日决议通过与客户台积电签订产能外包协议。 根据这份协议， 精材将在台积电中科厂区的厂房中建设一条先进封装产线 ，负责 CoWoS 异构集成中的 \"oS\" 工序。精材将为该产线采购生产设备和自动物料搬运系统，并负责生产运营，预计 2029 年一期投运。",
+   "published_at": 1794794899.0,
+   "published_bj": "2026-11-16 10:08"
+  },
+  {
+   "id": "80988a0279cfa582",
+   "source": "IT之家",
+   "title": "2.4 万亿参数阿里通义千问 Qwen4-Max 正式上线：任务成本降低超 60%，后续将开源小尺寸模型",
+   "url": "https://www.ithome.com/1/027/512.htm",
+   "summary": "IT之家 11 月 16 日消息，阿里通义千问团队今日宣布推出新一代旗舰模型 Qwen4-Max，采用全新的 MoE（混合专家）架构，主干参数规模达到 2.4 万亿，原生支持视觉理解，并提供 100 万 Token 上下文窗口。 与此前 11 月 11 日先行开放的限时预览版不同，此次发布标志着 Qwen4-Max 作为正式版本接入千问 AI 平台，开发者可通过 Token Plan 或 API 调用。 Qwen4-Max 采用稀疏 MoE 架构，围绕 Attention、Residual 和 Embedding 三个层面做了系统性调整。每四层中三层使用 Gated DeltaNet 将历史信",
+   "published_at": 1794794856.0,
+   "published_bj": "2026-11-16 10:07"
+  },
+  {
+   "id": "af8e08b99fa26993",
+   "source": "Hacker News",
+   "title": "Universal XSS in uBlock Origin from website-driven element picker",
+   "url": "https://iter.ca/post/ubo-uxss/",
+   "summary": "Article URL: https://iter.ca/post/ubo-uxss/ Comments URL: https://news.ycombinator.com/item?id=50513160 Points: 25 # Comments: 2",
+   "published_at": 1794794688.0,
+   "published_bj": "2026-11-16 10:04"
+  },
+  {
+   "id": "1a1edc4138387d12",
+   "source": "IT之家",
+   "title": "华为余承东：新一代大折叠手机 Mate X8 我已经用上了，更大、更薄、更强",
+   "url": "https://www.ithome.com/1/027/511.htm",
+   "summary": "IT之家 11 月 16 日消息，华为今日官宣，Mate X8 及全场景新品发布会定档 11 月 24 日 14:30。 华为常务董事、产品投资评审委员会主任、终端 BG 董事长余承东今日发文透露， 自己已经用上了新一代大折叠手机华为 Mate X8 ，新机“更大、更薄、更强，上手确实惊喜”。 从余承东微博小尾巴来看， 他用的并不是普通版，而是更高阶的典藏版 ，预计部分配置还会更优。 参考IT之家昨日报道，余承东已经公开了 Mate X8 的外观，他表示，新机在屏幕、拍照、性能等方面又有新的突破。而博主 @RuryRen 透露，华为 Mate X8 大折叠手机将分普通版和典藏版，其中典藏版会支",
+   "published_at": 1794794591.0,
+   "published_bj": "2026-11-16 10:03"
+  },
+  {
+   "id": "42e1ee79d97f7e2c",
+   "source": "IT之家",
+   "title": "腾讯总办号召 AI 时代再创业，官方公布原文",
+   "url": "https://www.ithome.com/1/027/509.htm",
+   "summary": "IT之家 11 月 16 日消息，11 月 16 日，腾讯文化发布《总办号召 AI 时代再创业，“心态归零”》一文，谈到了引发舆论热议的腾讯司庆讲话内容。 腾讯文化表示，公司 28 岁生日这天，把一年一度的总办 LinkTime 做成了一档特别的播客 —— 和总办们坐在一起，聊了聊 AI 时代的机会、挑战与选择。“ 结束之后，陆续收到各种反馈，包括传到离谱的一些外部猜测 ”。 腾讯文化在文中提到：“但面对技术变革的巨浪，没有人是旁观者。所有人都要做出选择。如果不想被颠覆，真正重要的事只有一件：一起动起来。正如 Pony 和 Martin 在 LinkTime 里谈到的，能够参与这场巨大的科技变",
+   "published_at": 1794794589.0,
+   "published_bj": "2026-11-16 10:03"
+  },
+  {
+   "id": "9dba16889b7de6eb",
+   "source": "IT之家",
+   "title": "微软 Win11 被曝 SignDrop 零日漏洞：普通用户可提权至 SYSTEM，目前尚无专用修复补丁",
+   "url": "https://www.ithome.com/1/027/508.htm",
+   "summary": "IT之家 11 月 16 日消息，据 Wccftech 今日报道，Windows 11 出现了一个名为 SignDrop 的零日漏洞，攻击者可能利用微软此前专门引入的一项安全防护机制，将普通用户权限提升至系统最高权限 SYSTEM。 该漏洞涉及 Windows 通用日志文件系统（CLFS）驱动程序，安全研究人员已公开概念验证（PoC）代码，微软目前正在调查此事，尚未发布专门修复补丁。 安全研究人员 Abdelhamid Naceri（网名 Nightmare Eclipse、MSNightmare）于 11 月 10 日在 GitHub 发布 SignDrop 漏洞利用代码。该漏洞利用的关键在",
+   "published_at": 1794794318.0,
+   "published_bj": "2026-11-16 09:58"
+  },
+  {
+   "id": "a7b7fef451e55b11",
+   "source": "IT之家",
+   "title": "吉利银河 M8 官宣即将登场，旗下首款旗舰大五座 SUV",
+   "url": "https://www.ithome.com/1/027/507.htm",
+   "summary": "IT之家 11 月 16 日消息，吉利银河今日官宣旗下首款旗舰大五座 SUV—— 银河 M8 官宣即将登场。 吉利银河 M8 此前已出现在工信部第 411 批新车申报目录中，新车采用插混动力，5 座布局，车顶配备激光雷达，这也是银河品牌在 M9 之后推出的又一款大尺寸 SUV。 该车尺寸为 5205/1999/1800mm， 轴距 3030mm 。银河 M9 是 2+2+2 三排 6 座，M8 则改为大 5 座布局。 动力方面，银河 M8 搭载 1.5T 发动机与电机组成的插电混动系统，发动机最大额定功率 120kW，提供两驱、四驱两种版本，电池采用宁德时代磷酸铁锂，纯电续航最高 251 公里",
+   "published_at": 1794794044.0,
+   "published_bj": "2026-11-16 09:54"
+  },
+  {
+   "id": "90fa73104965c441",
+   "source": "IT之家",
+   "title": "华为小艺 AI 会员正式上线：体验版赠送 200 积分、49 元起含 1000 积分，Work 订阅用户可 0 元升级",
+   "url": "https://www.ithome.com/1/027/506.htm",
+   "summary": "IT之家 11 月 16 日消息，华为官方刚刚宣布小艺 AI 订阅服务正式上线，支持多场景高阶 AI 能力，开通即享 50GB 起云空间。 此前分散在“小艺 Work”等产品线中的付费能力，被整合进一套三级会员权益体系，用户可在小艺设置页面直接查看 AI 积分余额、消耗明细并完成订购。 体验版会员每月限时免费赠送 200 AI 积分，供用户直接试用小艺的高阶 AI 能力，无需先完成付费订阅。另外，华为小艺 Work 订阅用户可 0 元升级至任一 AI 会员套餐。 付费订阅提供两档套餐：体验包连续包月 49 元，含 1000 AI 积分；标准包 Pro 连续包月 199 元，含 6000 AI ",
+   "published_at": 1794794008.0,
+   "published_bj": "2026-11-16 09:53"
+  },
+  {
+   "id": "6d7c2cc559d89f4c",
+   "source": "IT之家",
+   "title": "Anthropic CEO 阿莫迪：算力是最深层的商业难题",
+   "url": "https://www.ithome.com/1/027/505.htm",
+   "summary": "IT之家 11 月 16 日消息，Anthropic 联合创始人兼 CEO 达里奥 · 阿莫迪上周五到访纽约，与“华尔街一哥”、摩根大通掌门杰米 · 戴蒙进行公开对谈。 在谈话中， 阿莫迪将算力称为公司面临的“最深层商业难题” 。他解释，公司选择上市的重要原因，就是增加现金储备，为高度不确定的算力需求提供更大缓冲。 戴蒙在提问中指出，Anthropic 披露了涉及算力、租赁和数据中心等项目的 9,000 亿美元 （IT之家注：现汇率约合 6.01 万亿元人民币） 未来承诺，并追问公司如何确保获得所需资源，同时控制长期成本。 阿莫迪没有逐项拆解这一数字，而是解释了算力投入的两难：技术进步很快，但",
+   "published_at": 1794793971.0,
+   "published_bj": "2026-11-16 09:52"
   },
   {
    "id": "5094bcde12c24bb3",
@@ -254,6 +353,15 @@
    "summary": "IT之家 11 月 16 日消息，游戏媒体 DSOGaming 上周报道称，《EA SPORTS FC 27 Lite》在最近一次更新后似乎已经移除了 Denuvo 反篡改技术，导致该版本可离线运行。 IT之家注：《EA SPORTS FC 27 Lite》是《EA SPORTS FC 27》的免费下载试玩版，于 2026 年 9 月 25 日随完整版同步推出。 值得注意的是，EA 官方游戏说明仍列出了第三方 DRM，Steam 商店页面也仍标注《EA SPORTS FC 27 Lite》仍采用 Denuvo Anti-tamper。 最初有玩家发现，Lite 版的主程序文件 FC27_Sho",
    "published_at": 1794787793.0,
    "published_bj": "2026-11-16 08:09"
+  },
+  {
+   "id": "5b587eb92904bbf8",
+   "source": "Hacker News",
+   "title": "Skydio's asymmetrical F10 Lightrunner solves a problem with fixed-wing drones",
+   "url": "https://spectrum.ieee.org/skydio-f10-lightrunner-asymmetrical-drone",
+   "summary": "Article URL: https://spectrum.ieee.org/skydio-f10-lightrunner-asymmetrical-drone Comments URL: https://news.ycombinator.com/item?id=50512296 Points: 4 # Comments: 0",
+   "published_at": 1794787392.0,
+   "published_bj": "2026-11-16 08:03"
   },
   {
    "id": "444d90284992184a",
