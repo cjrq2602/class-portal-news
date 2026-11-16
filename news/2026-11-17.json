@@ -1,8 +1,107 @@
 {
  "date": "2026-11-17",
- "generated_at": 1794852895.534369,
- "count": 29,
+ "generated_at": 1794856861.3713682,
+ "count": 44,
  "items": [
+  {
+   "id": "64646aee58859374",
+   "source": "IT之家",
+   "title": "苹果 watchOS 27.3 开发者预览版 Beta 2 发布",
+   "url": "https://www.ithome.com/1/028/016.htm",
+   "summary": "【 点此直达升级教程 】 IT之家 11 月 17 日消息，苹果今日向 Apple Watch 用户推送了 watchOS 27.3 开发者预览版 Beta 2 更新（内部版本号：24S5296d），本次更新距离上次发布 Beta/RC 间隔 13 天。 如何升级 iOS / iPadOS / watchOS / macOS 开发版和公测版？ • 公开测试版 ：需注册&nbsp; Apple Beta 版软件计划 ，之后通过【设置】【通用】【软件更新】【Beta 版更新】来升级； • 开发预览版 ：需登录注册 苹果开发者计划 ，之后通过【设置】【通用】【软件更新】来升级。 附苹果 iOS 历史",
+   "published_at": 1794856762.0,
+   "published_bj": "2026-11-17 03:19"
+  },
+  {
+   "id": "8a911db441c15522",
+   "source": "IT之家",
+   "title": "苹果 visionOS 27.3 开发者预览版 Beta 2 发布",
+   "url": "https://www.ithome.com/1/028/015.htm",
+   "summary": "IT之家 11 月 17 日消息，苹果今日向 Vision Pro 用户推送了 visionOS 27.3 开发者预览版 Beta 2 更新（内部版本号：24N5298d），本次更新距离上次发布 Beta/RC 间隔 13 天。 需要注意的是，因苹果各区域节点服务器配置缓存问题，可能有些地方探测到升级更新的时间略有延迟，一般半小时内，不会太久。 本文由机器人发布，IT之家稍后将为大家带来具体更新内容。 附 visionOS 27 发布历史： 2026-11-10：visionOS 27.2.1 (24N124) 2026-10-27：visionOS 27.2 (24N120) 2026-10",
+   "published_at": 1794856761.0,
+   "published_bj": "2026-11-17 03:19"
+  },
+  {
+   "id": "73e736ac98aa8059",
+   "source": "IT之家",
+   "title": "苹果 macOS 27.3 开发者预览版 Beta 2 发布",
+   "url": "https://www.ithome.com/1/028/014.htm",
+   "summary": "IT之家 11 月 17 日消息，苹果今日向 Mac 电脑用户推送了 macOS 27.3 开发者预览版 Beta 2 更新（内部版本号：26C5047e），本次更新距离上次发布 Beta/RC 间隔 13 天。 如何升级 iOS / iPadOS / watchOS / macOS 开发版和公测版？ • 公开测试版 ：需注册&nbsp; Apple Beta 版软件计划 ，之后通过【设置】【通用】【软件更新】【Beta 版更新】来升级； • 开发预览版 ：需登录注册 苹果开发者计划 ，之后通过【设置】【通用】【软件更新】来升级。 附苹果 iOS 历史固件下载大全： 《 苹果 iOS / iP",
+   "published_at": 1794856761.0,
+   "published_bj": "2026-11-17 03:19"
+  },
+  {
+   "id": "05731dee32be575a",
+   "source": "IT之家",
+   "title": "苹果 iOS/iPadOS 27.3 开发者预览版 Beta 2 发布",
+   "url": "https://www.ithome.com/1/028/013.htm",
+   "summary": "【 点此直达升级教程 】 IT之家 11 月 17 日消息，苹果今日向 iPhone 和 iPad 用户推送了 iOS/iPadOS 27.3 开发者预览版 Beta 2 更新（内部版本号：24C5049d），本次更新距离上次发布 Beta/RC 间隔 13 天。 如何升级 iOS / iPadOS / watchOS / macOS 开发版和公测版？ • 公开测试版 ：需注册&nbsp; Apple Beta 版软件计划 ，之后通过【设置】【通用】【软件更新】【Beta 版更新】来升级； • 开发预览版 ：需登录注册 苹果开发者计划 ，之后通过【设置】【通用】【软件更新】来升级。 附苹果 i",
+   "published_at": 1794856760.0,
+   "published_bj": "2026-11-17 03:19"
+  },
+  {
+   "id": "5fde6cc38079e51b",
+   "source": "TechCrunch",
+   "title": "Trump says ex-Nvidia CEO Jensen Huang’s affair with an alleged Chinese spy did not threaten national security",
+   "url": "https://techcrunch.com/2026/11/16/trump-says-ex-nvidia-ceo-jensen-huangs-affair-with-an-alleged-chinese-spy-did-not-threaten-national-security/",
+   "summary": "Trump contradicted his own government's intelligence officials, who reportedly concluded that Alice Huang is a Chinese spy.",
+   "published_at": 1794856322.0,
+   "published_bj": "2026-11-17 03:12"
+  },
+  {
+   "id": "e2eac8542babd521",
+   "source": "TechCrunch",
+   "title": "Island is a new screen-time app that turns staying off your phone into a game",
+   "url": "https://techcrunch.com/2026/11/16/island-is-a-new-screen-time-app-that-turns-staying-off-your-phone-into-a-game/",
+   "summary": "YC-backed Island turns screen time goals into a farming game, rewarding users with new crops, animals, and more when they stick to their limits.",
+   "published_at": 1794855258.0,
+   "published_bj": "2026-11-17 02:54"
+  },
+  {
+   "id": "14d59d09ccbb6114",
+   "source": "Hacker News",
+   "title": "US Banks report outages in latest tech hiccup",
+   "url": "https://nypost.com/2026/11/16/business/outages-hit-chase-bank-of-america-and-wells-fargo-customers/",
+   "summary": "Article URL: https://nypost.com/2026/11/16/business/outages-hit-chase-bank-of-america-and-wells-fargo-customers/ Comments URL: https://news.ycombinator.com/item?id=50521357 Points: 16 # Comments: 0",
+   "published_at": 1794855180.0,
+   "published_bj": "2026-11-17 02:53"
+  },
+  {
+   "id": "cded20c91dff8edb",
+   "source": "Hacker News",
+   "title": "Chase Bank is now also having a meltdown",
+   "url": "https://twitter.com/downdetector/status/2122345174290374924",
+   "summary": "Article URL: https://twitter.com/downdetector/status/2122345174290374924 Comments URL: https://news.ycombinator.com/item?id=50521045 Points: 25 # Comments: 8",
+   "published_at": 1794853890.0,
+   "published_bj": "2026-11-17 02:31"
+  },
+  {
+   "id": "13b8639859134728",
+   "source": "TechCrunch",
+   "title": "Tesla goes all-in on the Cybercab with upcoming €3B Berlin Gigafactory expansion",
+   "url": "https://techcrunch.com/2026/11/16/tesla-goes-all-in-on-the-cybercab-with-upcoming-e3b-berlin-gigafactory-expansion/",
+   "summary": "Tesla is putting Europe on its Cybercab roadmap with a €3 billion expansion of its Berlin Gigafactory.",
+   "published_at": 1794853274.0,
+   "published_bj": "2026-11-17 02:21"
+  },
+  {
+   "id": "567c5e9354bfac43",
+   "source": "Hacker News",
+   "title": "Software is breaking down at a systemic level",
+   "url": "https://www.breck-mckye.com/blog/2026/11/software-is-breaking-down-at-a-systemic-level/",
+   "summary": "Article URL: https://www.breck-mckye.com/blog/2026/11/software-is-breaking-down-at-a-systemic-level/ Comments URL: https://news.ycombinator.com/item?id=50520866 Points: 85 # Comments: 71",
+   "published_at": 1794853037.0,
+   "published_bj": "2026-11-17 02:17"
+  },
+  {
+   "id": "dcebe9dfa29ab2b7",
+   "source": "Hacker News",
+   "title": "OpenAI: Strengthening the fight against online child sexual abuse",
+   "url": "https://openai.com/index/strengthening-online-child-safety/",
+   "summary": "Article URL: https://openai.com/index/strengthening-online-child-safety/ Comments URL: https://news.ycombinator.com/item?id=50520804 Points: 31 # Comments: 35",
+   "published_at": 1794852768.0,
+   "published_bj": "2026-11-17 02:12"
+  },
   {
    "id": "709c7a346dea965e",
    "source": "TechCrunch",
@@ -11,6 +110,24 @@
    "summary": "OpenAI CEO Sam Altman acknowledged the special role Nvidia CEO Jensen Huang has played in the AI boom, but ultimately thinks the industry will be “fine” without him at the helm.",
    "published_at": 1794852670.0,
    "published_bj": "2026-11-17 02:11"
+  },
+  {
+   "id": "4908032597962018",
+   "source": "Hacker News",
+   "title": "Show HN: Fakemetrics.com – \"build in public\" like a superstar",
+   "url": "https://fakemetrics.com/",
+   "summary": "Hi HN, I am Tigran (github.com/tigranbs) I made Fakemetrics.com as a fun experiment while testing how well Claude Opus can build pixel-identical UIs. It turned out it wasn't as easy as just prompting it, but I spent time building the system so it works almost every time. And I am pretty sure you are",
+   "published_at": 1794852484.0,
+   "published_bj": "2026-11-17 02:08"
+  },
+  {
+   "id": "e848259478b8cb1c",
+   "source": "Hacker News",
+   "title": "Just 400 US Data Centers Use More Electricity Than Michigan",
+   "url": "https://www.wired.com/story/data-centers-use-more-electricity-than-michigan/",
+   "summary": "Article URL: https://www.wired.com/story/data-centers-use-more-electricity-than-michigan/ Comments URL: https://news.ycombinator.com/item?id=50520697 Points: 29 # Comments: 22",
+   "published_at": 1794852295.0,
+   "published_bj": "2026-11-17 02:04"
   },
   {
    "id": "18723a6500b2fc6a",
@@ -65,6 +182,15 @@
    "summary": "点击查看原文>",
    "published_at": 1794850599.0,
    "published_bj": "2026-11-17 01:36"
+  },
+  {
+   "id": "f854d6ce4b054c95",
+   "source": "Hacker News",
+   "title": "Aristotle Expands into Rust",
+   "url": "https://www.harmonic.fun/news/aristotle-rust-verification/",
+   "summary": "Article URL: https://www.harmonic.fun/news/aristotle-rust-verification/ Comments URL: https://news.ycombinator.com/item?id=50520270 Points: 35 # Comments: 11",
+   "published_at": 1794850481.0,
+   "published_bj": "2026-11-17 01:34"
   },
   {
    "id": "a46970c292289629",
@@ -217,6 +343,15 @@
    "url": "https://www.ithome.com/1/028/004.htm",
    "summary": "IT之家 11 月 17 日消息，华为官方 X 账号分享了副董事长、轮值董事长徐直军发表在美国《时代》杂志的文章《亲历华为创新之路：看见、亲历、引领》（《Inside Huawei's innovation journey:Seeing it,living it,leading it》）。徐直军在文中以第一人称视角回顾了华为三十多年来的创新历程。 据徐直军回忆，余承东（现任华为常务董事、产品投资评审委员会主任、终端 BG 董事长）除了发现欧洲的站点获取成本高得惊人， 并提出分布式基站这一方案外 ，还在与西班牙电信德国公司的一次讨论中提出， 把 2G 和 3G 集成到一个基站里 。 后来，华为与",
    "published_at": 1794846209.0,
+   "published_bj": "2026-11-17 00:23"
+  },
+  {
+   "id": "d33b5d612c9719eb",
+   "source": "Hacker News",
+   "title": "Frame – 31.5\" color ePaper display",
+   "url": "https://trmnl.com/blog/introducing-frame",
+   "summary": "Article URL: https://trmnl.com/blog/introducing-frame Comments URL: https://news.ycombinator.com/item?id=50519354 Points: 55 # Comments: 25",
+   "published_at": 1794846202.0,
    "published_bj": "2026-11-17 00:23"
   },
   {
