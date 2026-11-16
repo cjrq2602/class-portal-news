@@ -1,8 +1,242 @@
 {
  "date": "2026-11-16",
- "generated_at": 1794787326.4229326,
- "count": 59,
+ "generated_at": 1794793704.9812703,
+ "count": 87,
  "items": [
+  {
+   "id": "aed79b4a0104859d",
+   "source": "InfoQ中文",
+   "title": "Super Agent 进群：今年11.11，多了个会主动干活的“数字人队长”",
+   "url": "https://www.infoq.cn/article/myl5Mcw3iyCYv3ZJ3hwQ?utm_source=rss&utm_medium=article",
+   "summary": "点击查看原文>",
+   "published_at": 1794816000.0,
+   "published_bj": "2026-11-16 16:00"
+  },
+  {
+   "id": "54f97bd919765c6a",
+   "source": "TechCrunch",
+   "title": "Apple launches new app to study how people use AI for health",
+   "url": "https://techcrunch.com/2026/11/15/apple-launches-new-app-to-study-how-people-use-ai-for-health/",
+   "summary": "Apple's new app for a study will answer everyday medical questions",
+   "published_at": 1794792600.0,
+   "published_bj": "2026-11-16 09:30"
+  },
+  {
+   "id": "cceee7752990d0e4",
+   "source": "IT之家",
+   "title": "Cubot 推出 MegaPad 平板：内置 RGB 律动灯光、14700mAh 大电池",
+   "url": "https://www.ithome.com/1/027/500.htm",
+   "summary": "IT之家 11 月 16 日消息，Cubot 现已在海外市场推出 MegaPad 平板电脑。新品采用 13.36 英寸屏幕、六扬声器系统， 具备 14700mAh 大容量电池 。 据介绍， 这款平板搭载联发科 Helio G81 处理器 ，具备 6GB 内存和 128GB 存储空间，支持通过虚拟内存技术扩展至 10GB 内存。机身内置 microSD / nano-SIM 卡槽，运行 Android 16 操作系统。 同时，这款平板配备六扬声器系统，包含四个高音扬声器和两个低音扬声器，支持 DTS 音效。 机身正面下方带有一条 RGB 灯带 ， 可随音乐节奏律动 。并具备 14700mAh 大",
+   "published_at": 1794792455.0,
+   "published_bj": "2026-11-16 09:27"
+  },
+  {
+   "id": "b5bf160c68b4e554",
+   "source": "IT之家",
+   "title": "联想 Googlebook Duet 13 分体式二合一更多图片曝光，料 CES 2027 发布",
+   "url": "https://www.ithome.com/1/027/499.htm",
+   "summary": "IT之家 11 月 16 日消息，消息人士 Evan Blass ( @_evanblass_) 北京时间今日凌晨曝光了联想 (Lenovo) Googlebook Duet 13 的更多图片。 其预计将成为首批键盘可拆卸的 Googlebook 二合一设备 。 Evan Blass 表示该设备将于（2027 年）1 月发布 ，想必会在 CES 消费电子展上官宣。 此前有消息称联想 Googlebook Duet 13 将基于联发科技的 Kompanio Ultra 910 平台。不过从最新情况来看，其更可能搭载与 Kompanio Ultra 910 底层相同但调整产品线隶属的 天玑 CX ",
+   "published_at": 1794792431.0,
+   "published_bj": "2026-11-16 09:27"
+  },
+  {
+   "id": "7e649b063344ae5e",
+   "source": "IT之家",
+   "title": "里程碑时刻！曝华为鸿蒙 HarmonyOS 装机量突破 1 亿台",
+   "url": "https://www.ithome.com/1/027/498.htm",
+   "summary": "IT之家 11 月 16 日消息，奇妙工具箱今日数据显示， 华为鸿蒙 HarmonyOS 操作系统装机量突破 1 亿台 ，又一里程碑时刻达成。 根据奇妙工具箱说明：鸿蒙系统（HarmonyOS 5 及以上）装机量数据来源于华为 App Gallery 应用市场。每日人工收集并更新数据，确保信息的时效性。 参考IT之家此前报道，在今年 3 月的直播中，华为常务董事、产品投资评审委员会主任、终端 BG 董事长余承东透露，鸿蒙系统用户规模正经历急剧增长， 预计将在今年冬季前突破 1 亿大关 。 华为官网披露，截至 2026 年 6 月，全球鸿蒙开发者规模已超 1100 万，华为应用市场可获取的鸿蒙应",
+   "published_at": 1794792327.0,
+   "published_bj": "2026-11-16 09:25"
+  },
+  {
+   "id": "d3b08d4efebcab1b",
+   "source": "IT之家",
+   "title": "三星启动 144 万亿韩元大投资，扩建半导体、显示器、基板和电池的生产设施",
+   "url": "https://www.ithome.com/1/027/497.htm",
+   "summary": "IT之家 11 月 16 日消息，据 The Elec 报道，三星将在韩国忠清地区投资总计 144 万亿韩元 （IT之家注：现汇率约合 7,202.88 亿元人民币） ，用于扩建半导体、显示器、基板和电池的生产设施。11 月 12 日，三星电子在其温阳园区举行了忠清大型项目的奠基仪式，并公布了旗下主要子公司在该项目上的投资计划和进展情况。 据报道， 各关联公司中长期投资计划为： 三星电子 60 万亿韩元 （现汇率约合 3,001.2 亿元人民币） 、三星显示 67 万亿韩元 （现汇率约合 3,351.34 亿元人民币） 、三星电机 8 万亿韩元 （现汇率约合 400.16 亿元人民币） 、三星",
+   "published_at": 1794792146.0,
+   "published_bj": "2026-11-16 09:22"
+  },
+  {
+   "id": "e76a7f90d4d99d22",
+   "source": "Hacker News",
+   "title": "Coles hit by a cybersecurity incident",
+   "url": "https://www.colesgroup.com.au/updates/",
+   "summary": "Article URL: https://www.colesgroup.com.au/updates/ Comments URL: https://news.ycombinator.com/item?id=50512824 Points: 5 # Comments: 0",
+   "published_at": 1794791675.0,
+   "published_bj": "2026-11-16 09:14"
+  },
+  {
+   "id": "066108d0a1d0ff4a",
+   "source": "IT之家",
+   "title": "三星 SDI 签署数万亿韩元合同，向 Jupiter Power 供应 16GWh LFP 储能电池",
+   "url": "https://www.ithome.com/1/027/496.htm",
+   "summary": "IT之家 11 月 16 日消息，三星 SDI 当地时间今日宣布，将在 2029~2031 年向美国公用事业电池储能系统企业 Jupiter Power 供应总计 16GWh 的磷酸铁锂棱柱电池 。这笔交易预计价值数万亿韩元 （IT之家注：1 万亿韩元当前约合 50.02 亿元人民币） 。 这些电池将由三星 SDI 的美国印第安纳州工厂生产 。两家企业此前已达成 11GWh 的合作。Jupiter Power 在美国拥有 19.7GWh 的运营、在建、承诺容量，另有 110GWh 的项目正在开发中。 为支撑自身磷酸铁锂业务的开展，三星 SDI 通过与浦项未来 M、L&amp;F 等韩国公司签署",
+   "published_at": 1794791649.0,
+   "published_bj": "2026-11-16 09:14"
+  },
+  {
+   "id": "407b332df97dc89b",
+   "source": "IT之家",
+   "title": "消息称某厂明年的阔直板手机已开屏，预计为小米旗下",
+   "url": "https://www.ithome.com/1/027/495.htm",
+   "summary": "IT之家 11 月 16 日消息，博主 @数码闲聊站 今日爆料，某厂明年的阔直板手机已开屏，目前早期方案是 6.3-6.4 英寸 ±，屏幕比例 16:9，采用 1mm± 极窄四等边设计，支持 BT.2020 色域并配备高规格阔屏。 结合该博主此前的爆料习惯，预计这款新机为小米旗下。 IT之家注意到，该博主上月曾爆料，某厂子系阔直板确定评估中，2027 年见。据评论区网友推测，该机预计为小米 REDMI 旗下。 此前爆料显示，安卓阵营的阔直板手机中，OPPO 有望率先登场，荣耀紧随其后，剩下几家进度较缓慢。目前立项阶段有影像阔直板手机、中端阔直板手机、性能阔直板手机等。此外，该博主还爆料， 20",
+   "published_at": 1794791326.0,
+   "published_bj": "2026-11-16 09:08"
+  },
+  {
+   "id": "1018b7242134e33c",
+   "source": "IT之家",
+   "title": "华为 Mate X8 及全场景新品发布会定档 11 月 24 日，大折叠旗舰全方位焕新",
+   "url": "https://www.ithome.com/1/027/493.htm",
+   "summary": "IT之家 11 月 16 日消息，华为今日官宣，Mate X8 及全场景新品发布会定档 11 月 24 日 14:30 。 华为董事、终端 BG CEO 何刚表示，作为华为大折叠旗舰，Mate X 系列 8 年 8 代一路走来， 已经成为 2,000 万用户手里的主力大屏 。Mate X8 在外观、屏幕、性能、影像… 会给大家带来全方位的焕新感。 华为常务董事、产品投资评审委员会主任、终端 BG 董事长余承东已经公开了 Mate X8 折叠屏手机的外观，他表示，新机在屏幕、拍照、性能等方面又有新的突破。 据博主 @RuryRen 透露，华为 Mate X8 大折叠手机将分普通版和典藏版，其中典",
+   "published_at": 1794791033.0,
+   "published_bj": "2026-11-16 09:03"
+  },
+  {
+   "id": "9d6644a609119c50",
+   "source": "IT之家",
+   "title": "KTC 预告 6K Mini LED 显示器 M32P2，CES 2027 展出样品",
+   "url": "https://www.ithome.com/1/027/492.htm",
+   "summary": "IT之家 11 月 16 日消息，据外媒 TechRadar 数小时前报道，KTC 计划在 CES 2027 上展示多款显示新品，其中 M32P2 是一款基于 31.5\" 6016×3384 IPS 面板的 2304 分区 Mini LED 背光显示器 。 ▲ 图源：KTC 该型号刷新率 60Hz；拥有 1000nit 的 HDR 峰值亮度，静态对比度 1000:1；色深 8bit + FRC，色域 99% DCI-P3 / 98% sRGB；提供 2 个 HDMI 2.1、1 个 DisplayPort 1.4、1 个全功能 USB-C，同时通过 USB Hub 拓展出 2 个 USB 5G",
+   "published_at": 1794791003.0,
+   "published_bj": "2026-11-16 09:03"
+  },
+  {
+   "id": "4782edc75125be7e",
+   "source": "IT之家",
+   "title": "影院成 BLG《英雄联盟》S16 夺冠隐藏赢家，凌晨三点难挡玩家热情",
+   "url": "https://www.ithome.com/1/027/491.htm",
+   "summary": "IT之家 11 月 16 日消息，在昨日早间结束的《英雄联盟》2026 全球总决赛（S16）冠亚军决赛中，来自中国 LPL 赛区的 BLG 战队以 3:1 的比分力克韩国 LCK 赛区的 GEN 战队，连斩四支韩国战队，勇夺《英雄联盟》S16 冠军。这也是中国战队时隔五年再度夺得英雄联盟全球总决赛冠军。 据澎湃新闻今日报道，如果说B站和赞助商分享的是线上流量与品牌溢价，那么全国上百家影院在 11 月 15 日凌晨也共享到电竞产业的线下场景红利。 决赛开始时间是美国东部时间的下午，换算到国内是凌晨三点。 全国 300 多家影院开启赛事直播专场 ，票价 69 元起步，上海部分高规格影厅 79 元。",
+   "published_at": 1794790878.0,
+   "published_bj": "2026-11-16 09:01"
+  },
+  {
+   "id": "e4d8bba8320ec9b8",
+   "source": "IT之家",
+   "title": "不调用图像模型，Anthropic Claude Fable 5.2 用 Python 代码模拟真实画笔作画",
+   "url": "https://www.ithome.com/1/027/490.htm",
+   "summary": "IT之家 11 月 16 日消息，Anthropic 于当地时间 11 月 9 日发布了最新的 Claude Fable 5.2 和 Claude Mythos 5.2 模型。 其中，Fable 5.2 不仅面向复杂编程、科学研究和工程任务，还展示了一种异类的“AI 生图”功能（IT之家注：Anthropic 目前仍无传统意义上的文生图模型，大家常见的 DeepSeek 和 Claude 表情包均由其他模型生成）。 不同于传统图像生成模型的绘画方式：Fable 5.2 可通过编写代码模拟画笔、颜料和画布，逐笔完成绘画，而不是直接调用图像生成模型输出成品。 Fable 5.2 不直接生成图像，而",
+   "published_at": 1794790865.0,
+   "published_bj": "2026-11-16 09:01"
+  },
+  {
+   "id": "afe2f9e77870c4d4",
+   "source": "IT之家",
+   "title": "苹果新款 Apple TV 4K 提供 8GB 内存，但应用程序和游戏最多只能使用 2GB",
+   "url": "https://www.ithome.com/1/027/489.htm",
+   "summary": "IT之家 11 月 16 日消息，据科技媒体 9To5Mac 昨天报道，苹果新款 Apple TV 4K 搭载 A19 芯片，配备 128GB 存储空间和 8GB 内存。其中内存相比上一代产品翻倍，但应用程序和游戏却无法使用更多内存。 IT之家从原报道获悉，Apple TV 上的应用受到 tvOS 操作系统限制，单个应用最多只能使用 2GB 内存，新品并没有改变这些限制。虽然流媒体应用的内存需求较低，但许多游戏很容易触及 2GB 内存上限。 同时， 当 Apple TV 应用为自身进程分配的内存超过 2GB 时 ， 系统会将其强制关闭 。开发者 API 中的 os_proc_available",
+   "published_at": 1794790843.0,
+   "published_bj": "2026-11-16 09:00"
+  },
+  {
+   "id": "cd69aa4b73cd41b7",
+   "source": "IT之家",
+   "title": "董明珠：格力对文凭的考虑已逐步取消，本事才是硬通行证",
+   "url": "https://www.ithome.com/1/027/488.htm",
+   "summary": "IT之家 11 月 16 日消息，据央视财经 11 月 14 日报道，董明珠和格力技校学生面对面，她在《对话》现场表示，三年后想留下的学生，基本都能留在格力。她鼓励孩子们在这所学校学真技术、培养工匠精神； 格力对文凭的考虑也已经逐步取消，本事才是硬通行证 。 董明珠还说，想让技校学生和普通高中生 PK 一下，说这话时信心十足。 IT之家注意到，从董事长到技校校长，董明珠有了新身份。今年，珠海市格力技工学校首届招生引爆热度，吸引全国超 8000 人报名，大量学生跨省报考，最终录取超 600 人。 《对话》现场，董明珠表示，格力对文凭的考虑也已逐步取消， 她认为教育的目标，不是一张文凭，而是让孩子",
+   "published_at": 1794790353.0,
+   "published_bj": "2026-11-16 08:52"
+  },
+  {
+   "id": "c4106bc84110a08e",
+   "source": "IT之家",
+   "title": "腾讯 WorkBuddy 国际版上线 Gemini 4 Carbon 大模型：支持百万 Token 上下文，暂仅限 Pro 用户使用",
+   "url": "https://www.ithome.com/1/027/487.htm",
+   "summary": "IT之家 11 月 16 日消息，腾讯 WorkBuddy 国际版昨日宣布，已正式上线谷歌 Gemini 4 Carbon 模型，主要面向需要更深入推理和处理更长任务的使用场景。 官方将其定位为适合处理复杂问题的模型，目前仅面向 Pro 计划用户开放。 IT之家此前报道，谷歌称 Gemini 4 Carbon 模型主要面向长周期智能体工作流，适用于复杂知识工作、软件工程、网络安全和科学推理等任务。模型支持文本、图像、音频和视频输入，输入与输出合计上下文窗口最高可达 100 万 Token。 此次接入意味着 WorkBuddy Pro 用户可以在该平台内调用 Gemini 4 Carbon，无需",
+   "published_at": 1794789877.0,
+   "published_bj": "2026-11-16 08:44"
+  },
+  {
+   "id": "91f6d845c108ec06",
+   "source": "IT之家",
+   "title": "PC Mag 调查：约 1250 万美国人计划在《GTA6》发售日请假或缺课",
+   "url": "https://www.ithome.com/1/027/486.htm",
+   "summary": "IT之家 11 月 16 日消息，科技媒体 PC Mag 近日发布调查报告，显示上千万美国人计划在《GTA6》11 月 19 日发售当日请假或调整上班、上学时间，只为第一时间体验这款开放世界大作。 据报道，8% 美国成年玩家计划在 11 月 19 日当天请带薪假，或者调整工作、上学时间，以便第一时间玩上《GTA6》。经过计算， 这意味着大约有 1250 万美国玩家打算专门腾出时间游玩新作 。 同时，美国 Z 世代玩家最愿意为《GTA 6》调整日程安排，占比达到 13%。由于《GTA 6》仅登陆当前世代游戏主机，7% 的玩家计划专门为了这款游戏，或其他类似的重磅新作升级设备。在接受调查的玩家中，",
+   "published_at": 1794789862.0,
+   "published_bj": "2026-11-16 08:44"
+  },
+  {
+   "id": "cbca6d385e081ace",
+   "source": "IT之家",
+   "title": "微软全新 WinUI3“中文输入法”悄悄上架：可导入个人词库，主打无广告并支持必应搜索",
+   "url": "https://www.ithome.com/1/027/484.htm",
+   "summary": "IT之家 11 月 16 日消息，昨日有用户发现，微软通过 Microsoft Store 悄悄上架了一款全新的中文拼音输入法，面向 Windows 用户提供中文输入服务。 目前，该输入法需要通过 Microsoft Store 单独下载安装，安装后不会直接替换 Windows 系统原有的微软中文输入法，用户可以根据需要选择体验。 IT之家附官方商店下载地址： https://apps.microsoft.com/detail/xpfpt96q7b9s4n ?hl=zh-Hans-CN 这款输入法与 Win11 内置微软拼音功能一致但升级为 WinUI3，更贴合 Win11 系统风格，支持 x",
+   "published_at": 1794789625.0,
+   "published_bj": "2026-11-16 08:40"
+  },
+  {
+   "id": "ad756ac38ffd7104",
+   "source": "IT之家",
+   "title": "原著小说迟迟未更新，Apple TV+ 热门剧《流人》第八季或成最终季",
+   "url": "https://www.ithome.com/1/027/483.htm",
+   "summary": "IT之家 11 月 16 日消息，苹果流媒体平台 Apple TV+ 超热门剧集《流人》（Slow Horses）可能将在第八季结束。 本片主演奥利维娅 · 库克（Olivia Cooke）今日接受《泰晤士报》采访时透露“她目前正在拍摄该剧的最后一季”，不过她随后又补充称“未来的事不能说死”。 奥利维娅 · 库克在剧中饰演西德妮 · 贝克（Sid Baker）。谈及剧集未来时，她表示：“我正在拍摄最后一季。” 当被问及是否确定剧集将结束时，她补充说：“永远不要说死，但我想这就是我们得到的消息，而且确实感觉剧集正在走向终点。” 她形容称剧组目前的气氛有些伤感，演员和工作人员都显得“忧郁、心不在焉",
+   "published_at": 1794789061.0,
+   "published_bj": "2026-11-16 08:31"
+  },
+  {
+   "id": "d0d09e5465baaf47",
+   "source": "Hacker News",
+   "title": "Tor Project Issues Rapid-Response DoS-Defense Fix Amid Sustained DDoS Attack",
+   "url": "https://forum.torproject.org/t/security-release-0-4-9-17/22454",
+   "summary": "Article URL: https://forum.torproject.org/t/security-release-0-4-9-17/22454 Comments URL: https://news.ycombinator.com/item?id=50512441 Points: 14 # Comments: 0",
+   "published_at": 1794788514.0,
+   "published_bj": "2026-11-16 08:21"
+  },
+  {
+   "id": "9488b5e47fe578c1",
+   "source": "IT之家",
+   "title": "古尔曼：苹果工程师正积极为 iPhone Duo 2 外屏开发面容 ID",
+   "url": "https://www.ithome.com/1/027/482.htm",
+   "summary": "IT之家 11 月 16 日消息，彭博社记者马克 · 古尔曼昨日于新一期《Power On》通讯透露，苹果计划于明年秋季推出 iPhone Duo 2 折叠屏手机。苹果工程师正尝试将面容 ID 集成到这款设备中，但最终可能存在变数。 古尔曼透露，苹果为 iPhone Duo 2 制定了两项优先开发目标：面容 ID 和操作按钮。后者最终可能只是软件更新，为相机控制按钮新增一些功能，允许用户将长按操作改为启动自定义 App。 同时古尔曼表示，未来几代 iPhone Duo 的其他目标有增加长焦镜头、让机身变薄减重等。面容 ID 是当前的首要任务。据他了解，苹果已开发出搭载面容 ID 的 iPhon",
+   "published_at": 1794787970.0,
+   "published_bj": "2026-11-16 08:12"
+  },
+  {
+   "id": "874b5cdf7b7dbd4c",
+   "source": "IT之家",
+   "title": "尚界 Z7T 星野套装展车陆续到店，11 月 20 日华为星芒品牌发布会上市",
+   "url": "https://www.ithome.com/1/027/481.htm",
+   "summary": "IT之家 11 月 16 日消息，尚界汽车今日宣布，尚界 Z7T 星野套装全国首批展车已陆续到店（文末附门店信息），将于 11 月 20 日 14:30 鸿蒙智行享界 V8 及星芒品牌发布会正式上市。 参考IT之家此前报道， 尚界 Z7T 是一款猎装车型 ，于今年 4 月上市，售价 22.98 万元起。尚界 Z7 全系标配华为乾崑智驾 ADS 4.1、华为巨鲸 800V 高压电池平台、华为乾崑 896 线双光路图像级激光雷达、华为鸿蒙座舱、华为途灵平台；全系标配鸿蒙 ALPS 健康座舱 2.0、随动屏、副驾零重力座椅、HUD 抬头显示、流媒体内后视镜、静音电吸门、连续可变阻尼减振器、Knock",
+   "published_at": 1794787834.0,
+   "published_bj": "2026-11-16 08:10"
+  },
+  {
+   "id": "fa241ee6c3091bb5",
+   "source": "IT之家",
+   "title": "玩家发现 EA 不小心移除《FC 27 Lite》D 加密，完整版仍保留 Denuvo",
+   "url": "https://www.ithome.com/1/027/480.htm",
+   "summary": "IT之家 11 月 16 日消息，游戏媒体 DSOGaming 上周报道称，《EA SPORTS FC 27 Lite》在最近一次更新后似乎已经移除了 Denuvo 反篡改技术，导致该版本可离线运行。 IT之家注：《EA SPORTS FC 27 Lite》是《EA SPORTS FC 27》的免费下载试玩版，于 2026 年 9 月 25 日随完整版同步推出。 值得注意的是，EA 官方游戏说明仍列出了第三方 DRM，Steam 商店页面也仍标注《EA SPORTS FC 27 Lite》仍采用 Denuvo Anti-tamper。 最初有玩家发现，Lite 版的主程序文件 FC27_Sho",
+   "published_at": 1794787793.0,
+   "published_bj": "2026-11-16 08:09"
+  },
+  {
+   "id": "444d90284992184a",
+   "source": "IT之家",
+   "title": "2027 款 LG OLED B7 电视曝光：48、55、77 英寸型号已通过韩国认证，预计还有 65 和 83 英寸版本",
+   "url": "https://www.ithome.com/1/027/478.htm",
+   "summary": "IT之家 11 月 16 日消息，据韩国 Safety Korea 认证数据库相关记录，LG 正在为 OLED B7 系列准备新机型，目前已有多款产品出现在认证信息中。 相关认证信息涉及 48 英寸、55 英寸和 77 英寸机型，48 英寸版本还出现了两种不同的底座设计。该设计与 LG 现有 G6 系列提供不同支架选项的做法类似。 德国媒体 PRAD 进一步核查后指出，韩国 Safety Korea 数据库中目前能够确认的是 48 英寸、55 英寸和 77 英寸三个尺寸，另外根据现有 B6 系列推测至少还会有 65 英寸和 83 英寸机型。 目前，LG 尚未公布 OLED B7 系列的具体面板",
+   "published_at": 1794787233.0,
+   "published_bj": "2026-11-16 08:00"
+  },
+  {
+   "id": "254c8a1b57a641a6",
+   "source": "Hacker News",
+   "title": "What's Next for Nvidia?",
+   "url": "https://steveblank.com/2026/11/15/whats-next-for-nvidia/",
+   "summary": "Article URL: https://steveblank.com/2026/11/15/whats-next-for-nvidia/ Comments URL: https://news.ycombinator.com/item?id=50512235 Points: 47 # Comments: 38",
+   "published_at": 1794786955.0,
+   "published_bj": "2026-11-16 07:55"
+  },
+  {
+   "id": "e43d03b82323fff6",
+   "source": "Hacker News",
+   "title": "Mini.nvim Is Now on Tangled",
+   "url": "https://tangled.org/nvim-mini.org/mini.nvim",
+   "summary": "Article URL: https://tangled.org/nvim-mini.org/mini.nvim Comments URL: https://news.ycombinator.com/item?id=50512231 Points: 30 # Comments: 7",
+   "published_at": 1794786941.0,
+   "published_bj": "2026-11-16 07:55"
+  },
   {
    "id": "98bbab71f905ecbc",
    "source": "IT之家",
@@ -91,6 +325,15 @@
    "url": "https://www.reuters.com/world/china/jensen-huang-discusses-comeback-nvidia-ceo-with-allies-ft-reports-2026-11-15/",
    "summary": "Article URL: https://www.reuters.com/world/china/jensen-huang-discusses-comeback-nvidia-ceo-with-allies-ft-reports-2026-11-15/ Comments URL: https://news.ycombinator.com/item?id=50511982 Points: 35 # Comments: 15",
    "published_at": 1794785093.0,
+   "published_bj": "2026-11-16 07:24"
+  },
+  {
+   "id": "eb07d85101bebe83",
+   "source": "少数派",
+   "title": "派早报：Microsoft 365 服务在 19 小时全球宕机后恢复",
+   "url": "https://sspai.com/post/119119",
+   "summary": "Microsoft 365 服务在 19 小时全球宕机后恢复 国产前沿模型携带 Blackwell GPU 特征 线缆更换导致全美飞机停飞 逾十万人次联署要求黄仁勋复职 流媒体用户抱怨更难找到想看作品 特斯拉 Cybercab 订阅协议包含苛刻条款 看看就行的简讯 少数派的近期动态 你可能错过的好文章 查看全文",
+   "published_at": 1794785074.0,
    "published_bj": "2026-11-16 07:24"
   },
   {
@@ -281,6 +524,15 @@
    "summary": "Article URL: https://ransomnews.com/burger-king-tweet-bitly-link-hijack-2026/ Comments URL: https://news.ycombinator.com/item?id=50511395 Points: 3 # Comments: 1",
    "published_at": 1794780703.0,
    "published_bj": "2026-11-16 06:11"
+  },
+  {
+   "id": "dd4171dc6ec454e6",
+   "source": "Hacker News",
+   "title": "DefCon: Breaking into Amazon Lockers by Any Means Necessary",
+   "url": "https://www.youtube.com/watch?v=ZVmRe8OVZtE",
+   "summary": "Article URL: https://www.youtube.com/watch?v=ZVmRe8OVZtE Comments URL: https://news.ycombinator.com/item?id=50511362 Points: 5 # Comments: 0",
+   "published_at": 1794780428.0,
+   "published_bj": "2026-11-16 06:07"
   },
   {
    "id": "02a82b2fb2ed31c2",
