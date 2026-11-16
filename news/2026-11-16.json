@@ -1,7 +1,7 @@
 {
  "date": "2026-11-16",
- "generated_at": 1794848675.442433,
- "count": 384,
+ "generated_at": 1794848774.776236,
+ "count": 386,
  "items": [
   {
    "id": "8248b2f76811be8f",
@@ -137,6 +137,15 @@
    "summary": "Article URL: https://variety.com/2026/film/global/robert-pattinson-new-james-bond-007-1236946655/ Comments URL: https://news.ycombinator.com/item?id=50518615 Points: 12 # Comments: 3",
    "published_at": 1794842839.0,
    "published_bj": "2026-11-16 23:27"
+  },
+  {
+   "id": "ed9851ef35449735",
+   "source": "Hacker News",
+   "title": "Nvidia Was in Trouble Before the Jensen Huang Mess",
+   "url": "https://www.wired.com/story/nvidia-was-already-in-trouble-before-the-jensen-huang-mess/",
+   "summary": "Article URL: https://www.wired.com/story/nvidia-was-already-in-trouble-before-the-jensen-huang-mess/ Comments URL: https://news.ycombinator.com/item?id=50518567 Points: 55 # Comments: 30",
+   "published_at": 1794842649.0,
+   "published_bj": "2026-11-16 23:24"
   },
   {
    "id": "eeb1dc6a29958b4a",
@@ -280,6 +289,15 @@
    "url": "https://www.ithome.com/1/027/969.htm",
    "summary": "IT之家 11 月 16 日消息，AMD 今日宣布，已完成对 World Labs 的收购。AMD 称，此次收购将引入一支世界级 AI 模型研发团队，进一步增强 AMD 在 AI 全技术栈领域的实力。双方将整合顶尖 AI 模型研究人员与 AMD 工程师的技术优势，共同打造面向开放 AI 生态的新一代硬件、软件和系统。 AMD 董事长兼首席执行官苏姿丰（Lisa Su）表示：“要打造支撑下一代超级智能的基础设施，就必须将计算平台与模型结合起来进行协同优化。我们非常高兴欢迎李飞飞（Fei-Fei Li）及 World Labs 的优秀团队加入 AMD。他们在模型研究领域的开创性成果，将帮助我们塑造",
    "published_at": 1794838541.0,
+   "published_bj": "2026-11-16 22:15"
+  },
+  {
+   "id": "fd4ba8050184dcd7",
+   "source": "Hacker News",
+   "title": "The Active Directory Era Is Finally Over",
+   "url": "https://infisical.com/blog/active-directory-machine-identity",
+   "summary": "Article URL: https://infisical.com/blog/active-directory-machine-identity Comments URL: https://news.ycombinator.com/item?id=50517815 Points: 12 # Comments: 0",
+   "published_at": 1794838531.0,
    "published_bj": "2026-11-16 22:15"
   },
   {

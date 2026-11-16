@@ -1,0 +1,382 @@
+{
+ "type": "yesterday",
+ "date": "2026-11-16",
+ "window": {
+  "start_ts": 1794758400.0,
+  "end_ts": 1794844800.0
+ },
+ "generated_at": 1794848777.6436095,
+ "generator": "action",
+ "news_count": 386,
+ "keywords": [
+  "ai",
+  "发布",
+  "华为",
+  "the",
+  "推出",
+  "游戏",
+  "智能",
+  "元",
+  "月",
+  "仁勋"
+ ],
+ "points": [
+  {
+   "text": "【ai】IT之家 11 月 16 日消息，华为官方今日继续揭秘首款「逻辑折叠」技术 τ 芯片 —— 麒麟 9050 系列更多配置信息， 今日最新公开了智",
+   "keyword": "ai",
+   "news_ids": [
+    "3829ab230d055554"
+   ],
+   "refs": [
+    {
+     "id": "3829ab230d055554",
+     "title": "华为麒麟 9050 系列芯片智能音视频处理情报公开：低延迟 AI 异构协同计算、率先支持 H.266 解码",
+     "source": "IT之家",
+     "url": "https://www.ithome.com/1/027/574.htm",
+     "published_at": 1794798993.0
+    }
+   ]
+  },
+  {
+   "text": "【发布】IT之家 11 月 16 日消息，华为首款鸿蒙小折叠电脑 MateBook Fold S 已于 11 月 14 日开启预订",
+   "keyword": "发布",
+   "news_ids": [
+    "cd9a9855afaa553f"
+   ],
+   "refs": [
+    {
+     "id": "cd9a9855afaa553f",
+     "title": "华为 MateBook Fold S 鸿蒙小折叠电脑官宣 11 月 24 日发布，至高 32GB/1TB 规格",
+     "source": "IT之家",
+     "url": "https://www.ithome.com/1/027/816.htm",
+     "published_at": 1794819309.0
+    }
+   ]
+  },
+  {
+   "text": "【ai】IT之家 11 月 16 日消息，被誉为“AI 教父”的杰弗里・辛顿在最新采访中，对英伟达前 CEO 黄仁勋给出了与众不同的评价",
+   "keyword": "ai",
+   "news_ids": [
+    "9bc86afbf6fe63b6"
+   ],
+   "refs": [
+    {
+     "id": "9bc86afbf6fe63b6",
+     "title": "AI 教父”辛顿：相比奥尔特曼、扎克伯格、马斯克，我更信任黄仁勋",
+     "source": "IT之家",
+     "url": "https://www.ithome.com/1/027/730.htm",
+     "published_at": 1794813088.0
+    }
+   ]
+  },
+  {
+   "text": "【ai】IT之家 11 月 16 日消息，漫步者现已在京东上架花再 Halo PixelBar AI 智能桌面音箱，该产品屏幕能够显示歌词及自定义内容，",
+   "keyword": "ai",
+   "news_ids": [
+    "16d847fef6f46a63"
+   ],
+   "refs": [
+    {
+     "id": "16d847fef6f46a63",
+     "title": "漫步者推出花再 Halo PixelBar AI 桌面音箱：屏幕支持显示歌词、搭载智能体人设，699 元",
+     "source": "IT之家",
+     "url": "https://www.ithome.com/1/027/928.htm",
+     "published_at": 1794829397.0
+    }
+   ]
+  },
+  {
+   "text": "【发布】IT之家 11 月 16 日现场消息，在今天进行的 OPPO Reno17 系列手机发布会中，系列手机正式发布，IT之家整理价格如下： Reno",
+   "keyword": "发布",
+   "news_ids": [
+    "7bc5197a59cd36a8"
+   ],
+   "refs": [
+    {
+     "id": "7bc5197a59cd36a8",
+     "title": "OPPO Reno17 系列手机发布：全焦段 4K 超清长实况，3599 元起（国补后 3099 元起）",
+     "source": "IT之家",
+     "url": "https://www.ithome.com/1/027/948.htm",
+     "published_at": 1794830930.0
+    }
+   ]
+  },
+  {
+   "text": "【ai】Under the interim rule, US will require firms to get licenses to export ",
+   "keyword": "ai",
+   "news_ids": [
+    "d08e84fcef9c532f"
+   ],
+   "refs": [
+    {
+     "id": "d08e84fcef9c532f",
+     "title": "US tightens AI chip export controls to deter Chinese companies from accessing compute remotely",
+     "source": "TechCrunch",
+     "url": "https://techcrunch.com/2026/11/16/us-tightens-ai-chip-export-controls-to-deter-chinese-companies-from-accessing-compute-remotely/",
+     "published_at": 1794841354.0
+    }
+   ]
+  },
+  {
+   "text": "【游戏】微软证实，代号为 Project Helix 的下一代 Xbox 游戏机既能玩主机游戏也能玩 PC 游戏",
+   "keyword": "游戏",
+   "news_ids": [
+    "500a166f4fcb8e08"
+   ],
+   "refs": [
+    {
+     "id": "500a166f4fcb8e08",
+     "title": "微软称下一代 Xbox 游戏机能玩 PC 游戏",
+     "source": "Solidot",
+     "url": "https://www.solidot.org/story?sid=85902",
+     "published_at": 1794838439.0
+    }
+   ]
+  },
+  {
+   "text": "【发布】一块据称是英伟达未发布的GeForce RTX 4090 Ti工程样卡，近日出现在中国二手交易平台",
+   "keyword": "发布",
+   "news_ids": [
+    "941e6e56750bc393"
+   ],
+   "refs": [
+    {
+     "id": "941e6e56750bc393",
+     "title": "RTX 4090 Ti工程样卡现身中国二手平台 传搭载18176个CUDA核心",
+     "source": "cnBeta",
+     "url": "https://www.cnbeta.com.tw/articles/tech/1586636.htm",
+     "published_at": 1794829948.0
+    }
+   ]
+  },
+  {
+   "text": "植物性食物中的纤维和蛋白对我们有益，但它们是如何在人体内发挥有益作用的？普林斯顿大学研究团队在 PNAS 和 Nature Metabolism",
+   "keyword": "",
+   "news_ids": [
+    "52f7dd070bc60178"
+   ],
+   "refs": [
+    {
+     "id": "52f7dd070bc60178",
+     "title": "没有足够的植物纤维肠道细菌可能会吃你的肠道内壁",
+     "source": "Solidot",
+     "url": "https://www.solidot.org/story?sid=85904",
+     "published_at": 1794844287.0
+    }
+   ]
+  },
+  {
+   "text": "HBO《哈利·波特》剧集的首集内容及后续规划近日遭到爆料",
+   "keyword": "",
+   "news_ids": [
+    "a1532cc5bfc8e90e"
+   ],
+   "refs": [
+    {
+     "id": "a1532cc5bfc8e90e",
+     "title": "爆料称HBO《哈利·波特》首集约70分钟并规划至少两部衍生剧",
+     "source": "cnBeta",
+     "url": "https://www.cnbeta.com.tw/articles/movie/1586662.htm",
+     "published_at": 1794844043.0
+    }
+   ]
+  },
+  {
+   "text": "据报道，360副总裁，市场部负责人卜思南因涉嫌职务侵占等案件已在上周一被警方带走",
+   "keyword": "",
+   "news_ids": [
+    "dec058bd26fb45a7"
+   ],
+   "refs": [
+    {
+     "id": "dec058bd26fb45a7",
+     "title": "网传360市场部负责人卜思被警方带走 涉嫌职务侵占等案件",
+     "source": "cnBeta",
+     "url": "https://www.cnbeta.com.tw/articles/tech/1586656.htm",
+     "published_at": 1794843827.0
+    }
+   ]
+  },
+  {
+   "text": "美国联邦航空局（FAA）近日披露，上周导致全美范围航班暂停起飞的大规模航空运输中断事件，其源头并非繁忙机场或大型空管中心，而是一处位于阿肯色州埃",
+   "keyword": "",
+   "news_ids": [
+    "4ac444340ef6343d"
+   ],
+   "refs": [
+    {
+     "id": "4ac444340ef6343d",
+     "title": "一台故障路由器引发全美航班停飞 美国航空系统暴露基础设施隐患",
+     "source": "cnBeta",
+     "url": "https://www.cnbeta.com.tw/articles/tech/1586646.htm",
+     "published_at": 1794843044.0
+    }
+   ]
+  },
+  {
+   "text": "Article URL: https://variety",
+   "keyword": "",
+   "news_ids": [
+    "3869bc3f4068e4e8"
+   ],
+   "refs": [
+    {
+     "id": "3869bc3f4068e4e8",
+     "title": "Robert Pattinson Is Officially James Bond",
+     "source": "Hacker News",
+     "url": "https://variety.com/2026/film/global/robert-pattinson-new-james-bond-007-1236946655/",
+     "published_at": 1794842839.0
+    }
+   ]
+  },
+  {
+   "text": "一项持续12年的研究发现，斯里兰卡野生亚洲象种群正在经历一种容易被忽视、却可能产生长期影响的危机：随着雌性大象数量减少，原本紧密联系的社群逐渐分",
+   "keyword": "",
+   "news_ids": [
+    "eeb1dc6a29958b4a"
+   ],
+   "refs": [
+    {
+     "id": "eeb1dc6a29958b4a",
+     "title": "12年追踪研究发现斯里兰卡野生亚洲象种群出现社会结构崩塌",
+     "source": "cnBeta",
+     "url": "https://www.cnbeta.com.tw/articles/science/1586644.htm",
+     "published_at": 1794842386.0
+    }
+   ]
+  },
+  {
+   "text": "Codex、Claude Code 都卷完了，居然还能跑出黑马？整个产品，现在都可以是一个提示词",
+   "keyword": "",
+   "news_ids": [
+    "b2a83e0b8c286f78"
+   ],
+   "refs": [
+    {
+     "id": "b2a83e0b8c286f78",
+     "title": "Codex、Claude Code 都卷完了，居然还能跑出黑马？整个产品，现在都可以是一个提示词",
+     "source": "InfoQ中文",
+     "url": "https://www.infoq.cn/article/8TySw9wzqf0l90keJUNf?utm_source=rss&utm_medium=article",
+     "published_at": 1794840268.0
+    }
+   ]
+  }
+ ],
+ "article": {
+  "title": "2026-11-16 新闻总结",
+  "paragraphs": [
+   {
+    "kind": "lead",
+    "text": "过去 24 小时共收录 386 条新闻，来自 7 家媒体。把标题放在一起看，讨论主要集中在 AI、游戏、手机 这几个方向上，其余消息更像是零散补充。"
+   },
+   {
+    "kind": "section",
+    "heading": "AI",
+    "text": "先看「AI」。IT之家 11 月 16 日消息，华为官方今日继续揭秘首款「逻辑折叠」技术 τ 芯片 —— 麒麟 9050 系列更多配置信息，另有 242 条消息指向同一话题。这类进展更像是把已有能力往工程化落地推了一步，真正的分水岭在于成本和可靠性能不能同时压下来。",
+    "news_ids": [
+     "3829ab230d055554"
+    ],
+    "refs": [
+     {
+      "id": "3829ab230d055554",
+      "title": "华为麒麟 9050 系列芯片智能音视频处理情报公开：低延迟 AI 异构协同计算、率先支持 H.266 解码",
+      "source": "IT之家",
+      "url": "https://www.ithome.com/1/027/574.htm",
+      "published_at": 1794798993.0
+     }
+    ]
+   },
+   {
+    "kind": "section",
+    "heading": "电脑",
+    "text": "与此同时「电脑」。IT之家 11 月 16 日消息，华为首款鸿蒙小折叠电脑 MateBook Fold S 已于 11 月 14 日开启预订…，另有 31 条消息指向同一话题。这类进展更像是把已有能力往工程化落地推了一步，真正的分水岭在于成本和可靠性能不能同时压下来。",
+    "news_ids": [
+     "cd9a9855afaa553f"
+    ],
+    "refs": [
+     {
+      "id": "cd9a9855afaa553f",
+      "title": "华为 MateBook Fold S 鸿蒙小折叠电脑官宣 11 月 24 日发布，至高 32GB/1TB 规格",
+      "source": "IT之家",
+      "url": "https://www.ithome.com/1/027/816.htm",
+      "published_at": 1794819309.0
+     }
+    ]
+   },
+   {
+    "kind": "section",
+    "heading": "芯片",
+    "text": "另一个值得注意的方向是「芯片」。随着英伟达前首席执行官黄仁勋相关争议持续发酵，美国国会内部围绕先进人工智能芯片出口管制的问题再度升温…，另有 14 条消息指向同一话题。技术路线的胜负很少由一次发布会决定，接下来要看的是它能不能被更多团队低成本复用。",
+    "news_ids": [
+     "0be5f08a37bc0293"
+    ],
+    "refs": [
+     {
+      "id": "0be5f08a37bc0293",
+      "title": "美参议员炮轰商务部监管失职：英伟达AI芯片流向中国引发国家安全争议",
+      "source": "cnBeta",
+      "url": "https://www.cnbeta.com.tw/articles/tech/1586634.htm",
+      "published_at": 1794829770.0
+     }
+    ]
+   },
+   {
+    "kind": "section",
+    "heading": "推出",
+    "text": "相比之下「推出」。IT之家 11 月 16 日消息，漫步者现已在京东上架花再 Halo PixelBar AI 智能桌面音箱，该产品屏幕能够显示歌词及自定义内容，支持语音点歌，同时具有动态灯效，另有 12 条消息指向同一话题。这类进展更像是把已有能力往工程化落地推了一步，真正的分水岭在于成本和可靠性能不能同时压下来。",
+    "news_ids": [
+     "16d847fef6f46a63"
+    ],
+    "refs": [
+     {
+      "id": "16d847fef6f46a63",
+      "title": "漫步者推出花再 Halo PixelBar AI 桌面音箱：屏幕支持显示歌词、搭载智能体人设，699 元",
+      "source": "IT之家",
+      "url": "https://www.ithome.com/1/027/928.htm",
+      "published_at": 1794829397.0
+     }
+    ]
+   },
+   {
+    "kind": "glossary",
+    "items": [
+     {
+      "term": "AI",
+      "desc": "人工智能，让机器完成识别、生成、判断等原本需要人做的任务"
+     },
+     {
+      "term": "API",
+      "desc": "应用程序接口，让不同软件按约定好的方式互相调用"
+     },
+     {
+      "term": "AR",
+      "desc": "增强现实，把虚拟图像叠加到真实世界画面上"
+     },
+     {
+      "term": "Agent",
+      "desc": "智能体，能自己拆解任务、调用工具并连续执行的 AI 程序"
+     },
+     {
+      "term": "Robotaxi",
+      "desc": "无人驾驶出租车，车里没有司机，靠自动驾驶系统接单运营"
+     },
+     {
+      "term": "数据中心",
+      "desc": "集中放置服务器、供电与散热设施的大型机房"
+     }
+    ]
+   },
+   {
+    "kind": "outlook",
+    "text": "把这几条放在一起看，最值得跟踪的是 AI 和 游戏 两条线：一条决定技术能走多远，一条决定它多快能落到普通人的日常里。至于其他消息，可以先放进观察名单，等后续有更实的进展再判断。"
+   }
+  ],
+  "word_count": 713
+ },
+ "ai_enhanced": false,
+ "schema": 1,
+ "window_bj": {
+  "start": "2026-11-16 00:00",
+  "end": "2026-11-17 00:00"
+ }
+}
