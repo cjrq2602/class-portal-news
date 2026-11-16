@@ -1,8 +1,107 @@
 {
  "date": "2026-11-17",
- "generated_at": 1794868063.1131434,
- "count": 65,
+ "generated_at": 1794871427.3783138,
+ "count": 77,
  "items": [
+  {
+   "id": "8b3e02dd31bb27eb",
+   "source": "IT之家",
+   "title": "美国推动全栈 AI / SI 技术出海：首批 33 个联盟获批，覆盖芯片、模型及行业应用",
+   "url": "https://www.ithome.com/1/028/022.htm",
+   "summary": "IT之家 11 月 17 日消息，美国商务部当地时间 11 月 16 日宣布，美国 SI 出口计划（American SI Exports Program）进入新阶段，首批指定 33 个预先组建的产业联盟，提供面向海外市场的全栈超级智能（SI）技术出口方案。同时，项目将于 11 月 30 日开放按需组建联盟的申请。 根据美国商务部国际贸易管理局当天发布的公告，此次计划依据美国总统特朗普签署的第 14320 号行政令《促进美国超级智能技术栈出口》（Promoting the Export of the American SI Technology Stack）实施，旨在推动美国企业向国际市场出口",
+   "published_at": 1794870092.0,
+   "published_bj": "2026-11-17 07:01"
+  },
+  {
+   "id": "3f694afe9f7d795a",
+   "source": "Hacker News",
+   "title": "US will say \"no\" to global ban on killer robots",
+   "url": "https://www.newsweek.com/us-expected-to-block-killer-robot-treaty-talks-12722369",
+   "summary": "Article URL: https://www.newsweek.com/us-expected-to-block-killer-robot-treaty-talks-12722369 Comments URL: https://news.ycombinator.com/item?id=50524728 Points: 7 # Comments: 0",
+   "published_at": 1794869869.0,
+   "published_bj": "2026-11-17 06:57"
+  },
+  {
+   "id": "d9e201d8c5160a59",
+   "source": "IT之家",
+   "title": "苹果宣布 iPhone Duo 适配优化 App 突破 20 万款，十天左右数量翻倍",
+   "url": "https://www.ithome.com/1/028/021.htm",
+   "summary": "IT之家 11 月 17 日消息，苹果全球营销高级副总裁格雷格 · 乔斯维亚克（Greg Joswiak）宣布，目前已有超过 20 万款应用针对 iPhone Duo 完成优化，较本月早些时候公布的 10 万款增长一倍。 他表示，开发者对 iPhone Duo 的支持速度超出预期，优化应用数量在一周多时间内实现翻倍，他期待开发者围绕这款设备推出更多应用体验。 据 MacRumors 报道，这一统计有明确的技术标准：应用需要使用 iOS 27.1 SDK 或更新版本构建，才能被计入针对 iPhone Duo 优化的应用。这类应用可以充分利用设备内外两块屏幕的宽度，并适配状态栏下方的纵向控制栏。 ",
+   "published_at": 1794869516.0,
+   "published_bj": "2026-11-17 06:51"
+  },
+  {
+   "id": "3fd12ddcfb0fbb33",
+   "source": "IT之家",
+   "title": "苹果 Apple Pay 和钱包业务换帅，26 年资深员工科里 · 富格曼接棒",
+   "url": "https://www.ithome.com/1/028/020.htm",
+   "summary": "IT之家 11 月 17 日消息，据彭博社昨天报道，苹果正持续调整管理层，资深员工科里 · 富格曼（Corey Fugman）将接替詹妮弗 · 贝利（Jennifer Bailey），出任 Apple Pay 和钱包业务部门负责人。 此前彭博社报道称，詹妮弗 · 贝利将于今年 10 月退休。自 Apple Pay 2014 年上线以来，她一直在此部门担任负责人。苹果服务业务负责人埃迪 · 库伊（Eddy Cue）当时表示，公司将在贝利离职前公布继任计划，她卸任后仍将以顾问身份协助交接工作。 10 月已经过去，苹果始终没有公开宣布相关人事安排。据悉，苹果已安排科里 · 富格曼接任 Apple P",
+   "published_at": 1794869049.0,
+   "published_bj": "2026-11-17 06:44"
+  },
+  {
+   "id": "ecbe3021c3800169",
+   "source": "cnBeta",
+   "title": "加州起诉OpenAI：指控AI智能体多次失控攻击网络平台 构成公共妨害",
+   "url": "https://www.cnbeta.com.tw/articles/tech/1586680.htm",
+   "summary": "加利福尼亚州总检察长罗布·邦塔当地时间11月16日宣布，已在旧金山高等法院起诉OpenAI，指控其在缺乏必要安全防护与监控的情况下开发、测试先进人工智能模型，误导并危害公众。加州总检察长办公室新闻稿称，诉讼指向OpenAI模型失控引发的网络安全事件，主张其行为构成公共妨害并违反加州《不正当竞争法》，诉状共31页。 阅读全文",
+   "published_at": 1794868867.0,
+   "published_bj": "2026-11-17 06:41"
+  },
+  {
+   "id": "ef514454f31e0b8a",
+   "source": "IT之家",
+   "title": "特朗普：支持苹果库克执掌英伟达，但不介意黄仁勋回归",
+   "url": "https://www.ithome.com/1/028/019.htm",
+   "summary": "IT之家 11 月 17 日消息，当地时间 11 月 16 日在美国白宫接受 NBC News 等记者采访时， 美国总统特朗普表示不介意黄仁勋重新担任英伟达首席执行官，并称有不少人希望这位公司联合创始人回归。 被问及是否支持黄仁勋复职时，特朗普说：“我确实不介意看到这种情况。”他还表示，黄仁勋“吸取了一个很大的教训”。特朗普此前曾表示， 支持由苹果前首席执行官蒂姆 · 库克接替黄仁勋执掌英伟达 ，他在周一面对白宫记者时，再次提到了这一人选。 围绕黄仁勋可能回归的讨论正在持续。《金融时报》此前报道称，他已与亲信讨论重新出任首席执行官的可能性，部分商界人士也公开呼吁其复职。不过，据 CNBC 报道",
+   "published_at": 1794868735.0,
+   "published_bj": "2026-11-17 06:38"
+  },
+  {
+   "id": "f252d2f348866525",
+   "source": "cnBeta",
+   "title": "预测市场：特斯拉‑SpaceX在2027年4月前完成合并的概率升至60%以上",
+   "url": "https://www.cnbeta.com.tw/articles/tech/1586678.htm",
+   "summary": "Kalshi 平台数据显示，SpaceX 与特斯拉在 2027 年 3 月之前完成合并的概率，自周四的 27% 攀升至 62%。上周末之后，Kalshi 多个交易市场上，市场对马斯克旗下两家企业 —— 卫星火箭制造商 SpaceX 与电动车厂商特斯拉即将整合的预期快速升温。 阅读全文",
+   "published_at": 1794868733.0,
+   "published_bj": "2026-11-17 06:38"
+  },
+  {
+   "id": "dfc9183eea6ec538",
+   "source": "cnBeta",
+   "title": "消息称英伟达董事会并未考虑恢复黄仁勋CEO职位",
+   "url": "https://www.cnbeta.com.tw/articles/tech/1586676.htm",
+   "summary": "据《金融时报》报道，知情人士称，尽管美国总统特朗普对于让黄仁勋(Jensen Huang)复职持开放态度，但英伟达董事会并未考虑重新任命黄仁勋为CEO。这一消息标志着这场戏剧性事件再度出现新的转折。此前，黄仁勋因婚外情风波辞职。不过，一些科技界知名人士发起的要求黄仁勋回归的行动声势渐涨。《金融时报》报道称，黄仁勋已与亲信讨论了回归英伟达的可能性。 阅读全文",
+   "published_at": 1794868644.0,
+   "published_bj": "2026-11-17 06:37"
+  },
+  {
+   "id": "86bf57194a17577d",
+   "source": "cnBeta",
+   "title": "特朗普：不介意黄仁勋重返英伟达",
+   "url": "https://www.cnbeta.com.tw/articles/tech/1586674.htm",
+   "summary": "11月17日，据路透社报道，美国总统特朗普当地时间周一表示，他不反对黄仁勋重返英伟达担任首席执行官，并称不少人希望黄仁勋回归，这一想法“并不坏”。 阅读全文",
+   "published_at": 1794868626.0,
+   "published_bj": "2026-11-17 06:37"
+  },
+  {
+   "id": "16232ca791c51b2f",
+   "source": "Hacker News",
+   "title": "How to Break into Security, Ptacek Edition (2012)",
+   "url": "https://krebsonsecurity.com/2012/06/how-to-break-into-security-ptacek-edition/",
+   "summary": "Article URL: https://krebsonsecurity.com/2012/06/how-to-break-into-security-ptacek-edition/ Comments URL: https://news.ycombinator.com/item?id=50524225 Points: 44 # Comments: 9",
+   "published_at": 1794867563.0,
+   "published_bj": "2026-11-17 06:19"
+  },
+  {
+   "id": "cf2b3181003dccaa",
+   "source": "Hacker News",
+   "title": "United Airlines experiencing a widespread system outage, airline says",
+   "url": "https://www.cnn.com/2026/11/16/us/united-airlines-outage",
+   "summary": "https://news.ycombinator.com/item?id=50524260 Comments URL: https://news.ycombinator.com/item?id=50524165 Points: 95 # Comments: 25",
+   "published_at": 1794867278.0,
+   "published_bj": "2026-11-17 06:14"
+  },
   {
    "id": "0d55ead42dd40e1f",
    "source": "TechCrunch",
@@ -11,6 +110,15 @@
    "summary": "The cybersecurity and automation giant said it's working with outside investigators to understand the scale of the breach.",
    "published_at": 1794867151.0,
    "published_bj": "2026-11-17 06:12"
+  },
+  {
+   "id": "95e14e840cd3a812",
+   "source": "IT之家",
+   "title": "法拉第未来 2026 财年前三季度归母亏损 8343.1 万美元，同比亏损收窄 76.64%",
+   "url": "https://www.ithome.com/1/028/018.htm",
+   "summary": "IT之家 11 月 17 日消息，法拉第未来今日发布 2026 财年（2026 年 1 月～2026 年 12 月）前三季度（2026 年 1 月～2026 年 9 月）及第三财季（2026 年 7 月～2026 年 9 月）报告： 2026 财年前三季度 营业总收入 ：249.8 万美元，同比增长 513.76% 毛利润 ：-3065.4 万美元，同比亏损收窄 62.68% 毛利率 ：-1227.1%，同比亏损收窄 18955.2 个百分点 归母净利润 ：-8343.1 万美元，同比亏损收窄 76.64% 经营现金流 ：-7563.8 万美元，同比亏损收窄 4.46% 基本每股收益 ：-31",
+   "published_at": 1794866741.0,
+   "published_bj": "2026-11-17 06:05"
   },
   {
    "id": "edd52dda314e05a4",
