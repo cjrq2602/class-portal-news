@@ -1,8 +1,62 @@
 {
  "date": "2026-11-17",
- "generated_at": 1794860799.5620868,
- "count": 52,
+ "generated_at": 1794864493.8745298,
+ "count": 58,
  "items": [
+  {
+   "id": "f5902368f27d2180",
+   "source": "Hacker News",
+   "title": "My Quest to push native Three.js quality match AAA Game Engines",
+   "url": "https://ben3d.ca/blog/building-the-aaa-lighting-pipeline-in-threejs",
+   "summary": "Article URL: https://ben3d.ca/blog/building-the-aaa-lighting-pipeline-in-threejs Comments URL: https://news.ycombinator.com/item?id=50523291 Points: 7 # Comments: 0",
+   "published_at": 1794863263.0,
+   "published_bj": "2026-11-17 05:07"
+  },
+  {
+   "id": "9f2b878176167a53",
+   "source": "TechCrunch",
+   "title": "Apple reveals new Mac security controls as AI agents raise privacy risks",
+   "url": "https://techcrunch.com/2026/11/16/apple-reveals-new-mac-security-controls-as-ai-agents-raise-privacy-risks/",
+   "summary": "Following an October announcement, Apple has detailed new permission controls, warnings, and transparency features coming to macOS 27.3 to address risks posed by AI agents and other apps.",
+   "published_at": 1794862862.0,
+   "published_bj": "2026-11-17 05:01"
+  },
+  {
+   "id": "aae1cd0c7388b068",
+   "source": "Hacker News",
+   "title": "Comcast's \"fiber-powered Wi-Fi\" is cable, AT&T says in false advertising case",
+   "url": "https://arstechnica.com/tech-policy/2026/11/comcast-falsely-advertises-cable-internet-as-fiber-powered-att-lawsuit-says/",
+   "summary": "Article URL: https://arstechnica.com/tech-policy/2026/11/comcast-falsely-advertises-cable-internet-as-fiber-powered-att-lawsuit-says/ Comments URL: https://news.ycombinator.com/item?id=50523025 Points: 19 # Comments: 4",
+   "published_at": 1794862088.0,
+   "published_bj": "2026-11-17 04:48"
+  },
+  {
+   "id": "631670eac3f16951",
+   "source": "Hacker News",
+   "title": "Launch HN: Axonnic (YC F26) – Sleeves that track fingers and estimate force",
+   "url": "https://news.ycombinator.com/item?id=50522776",
+   "summary": "Hi HN! We’re Arsh and Max, founders of Axonnic ( https://axonnic.com ). We’ve developed a forearm sleeve that reads muscle activity to decode finger movements and estimate fingertip force, while leaving the hands bare. It’s used to record human movement and generate training data for dextrous robots",
+   "published_at": 1794860988.0,
+   "published_bj": "2026-11-17 04:29"
+  },
+  {
+   "id": "0896e6bd71dba595",
+   "source": "Hacker News",
+   "title": "Chemistry Is Geometry",
+   "url": "https://chillphysicsenjoyer.substack.com/p/chemistry-is-actually-geometry",
+   "summary": "Article URL: https://chillphysicsenjoyer.substack.com/p/chemistry-is-actually-geometry Comments URL: https://news.ycombinator.com/item?id=50522643 Points: 3 # Comments: 0",
+   "published_at": 1794860538.0,
+   "published_bj": "2026-11-17 04:22"
+  },
+  {
+   "id": "b526414714c43ede",
+   "source": "Hacker News",
+   "title": "Rust changed me as a developer",
+   "url": "https://blog.startifact.com/posts/how-rust-changed-me/",
+   "summary": "Article URL: https://blog.startifact.com/posts/how-rust-changed-me/ Comments URL: https://news.ycombinator.com/item?id=50522563 Points: 29 # Comments: 2",
+   "published_at": 1794860210.0,
+   "published_bj": "2026-11-17 04:16"
+  },
   {
    "id": "f0716d61f6ec76a2",
    "source": "TechCrunch",
