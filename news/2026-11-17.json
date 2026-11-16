@@ -1,0 +1,52 @@
+{
+ "date": "2026-11-17",
+ "generated_at": 1794823010.6277483,
+ "count": 5,
+ "items": [
+  {
+   "id": "8c86e551993e04fb",
+   "source": "InfoQ中文",
+   "title": "亚马逊云科技为EventBridge推出增强型自定义事件总线",
+   "url": "https://www.infoq.cn/article/J4MJLMWsGagkT3eRVSJQ?utm_source=rss&utm_medium=article",
+   "summary": "点击查看原文>",
+   "published_at": 1794850599.0,
+   "published_bj": "2026-11-17 01:36"
+  },
+  {
+   "id": "710e72c08a66c71b",
+   "source": "InfoQ中文",
+   "title": "Uber Eats重建搜索流水线，端到端延迟降低50%",
+   "url": "https://www.infoq.cn/article/ah2izwCUPxX2y1herN7b?utm_source=rss&utm_medium=article",
+   "summary": "点击查看原文>",
+   "published_at": 1794849841.0,
+   "published_bj": "2026-11-17 01:24"
+  },
+  {
+   "id": "921576ddd228c72d",
+   "source": "InfoQ中文",
+   "title": "Envoy Gateway 1.9.1强化安全性并解决棘手的升级问题",
+   "url": "https://www.infoq.cn/article/3HFLOphp4vIUZl2s3Xsr?utm_source=rss&utm_medium=article",
+   "summary": "点击查看原文>",
+   "published_at": 1794848784.0,
+   "published_bj": "2026-11-17 01:06"
+  },
+  {
+   "id": "bdc80793f63f1ff0",
+   "source": "InfoQ中文",
+   "title": "DigitalOcean Managed Agents为AI智能体提供托管云基础设施",
+   "url": "https://www.infoq.cn/article/LjVeWVAsBWwaiifdMRiu?utm_source=rss&utm_medium=article",
+   "summary": "点击查看原文>",
+   "published_at": 1794847361.0,
+   "published_bj": "2026-11-17 00:42"
+  },
+  {
+   "id": "eb54c0282525c4a1",
+   "source": "InfoQ中文",
+   "title": "Docker Sandbox Kit规范：将AI智能体权限打包为OCI镜像",
+   "url": "https://www.infoq.cn/article/yV89L6iMCqSLDHeSoLxo?utm_source=rss&utm_medium=article",
+   "summary": "点击查看原文>",
+   "published_at": 1794846131.0,
+   "published_bj": "2026-11-17 00:22"
+  }
+ ]
+}
