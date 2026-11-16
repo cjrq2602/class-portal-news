@@ -1,8 +1,44 @@
 {
  "date": "2026-11-17",
- "generated_at": 1794856861.3713682,
- "count": 44,
+ "generated_at": 1794860799.5620868,
+ "count": 52,
  "items": [
+  {
+   "id": "f0716d61f6ec76a2",
+   "source": "TechCrunch",
+   "title": "California state AG sues OpenAI over rogue agent incidents",
+   "url": "https://techcrunch.com/2026/11/16/california-state-ag-sues-openai-over-rogue-agent-incidents/",
+   "summary": "The California lawsuit represents one of the first attempts to hold an AI lab legally accountable for a rogue agent incident",
+   "published_at": 1794859633.0,
+   "published_bj": "2026-11-17 04:07"
+  },
+  {
+   "id": "a183b7796ea20de6",
+   "source": "TechCrunch",
+   "title": "Uber says hackers stole information on close to 150,000 driver’s licenses during data breach",
+   "url": "https://techcrunch.com/2026/11/16/uber-confirms-hackers-stole-thousands-of-drivers-license-information-in-data-breach/",
+   "summary": "The ridesharing giant said drivers' license information stored by AI cloud company Fireworks AI was stolen during a security incident.",
+   "published_at": 1794858780.0,
+   "published_bj": "2026-11-17 03:53"
+  },
+  {
+   "id": "903e66586d643454",
+   "source": "Hacker News",
+   "title": "How to Intercept HTTP/3 Traffic: QUIC and Qpack",
+   "url": "https://interceptsuite.com/blog/intercept-http3-traffic-quic-qpack-explained/",
+   "summary": "Article URL: https://interceptsuite.com/blog/intercept-http3-traffic-quic-qpack-explained/ Comments URL: https://news.ycombinator.com/item?id=50521870 Points: 11 # Comments: 0",
+   "published_at": 1794857357.0,
+   "published_bj": "2026-11-17 03:29"
+  },
+  {
+   "id": "c4ba547ea057dfc4",
+   "source": "TechCrunch",
+   "title": "Apple adds ‘face unlock’ to the iPhone Duo, but it’s not Face ID",
+   "url": "https://techcrunch.com/2026/11/16/apple-adds-face-unlock-to-the-iphone-duo-but-its-not-face-id/",
+   "summary": "Apple's latest iOS 27.3 developer beta introduces a limited face unlock feature for the iPhone Duo, alongside other improvements.",
+   "published_at": 1794857215.0,
+   "published_bj": "2026-11-17 03:26"
+  },
   {
    "id": "64646aee58859374",
    "source": "IT之家",
@@ -76,6 +112,15 @@
    "published_bj": "2026-11-17 02:31"
   },
   {
+   "id": "eb3887b0fd43f0e3",
+   "source": "Hacker News",
+   "title": "Outages reported at Bank of America, Chase, U.S. Bank, Wells Fargo and Zelle",
+   "url": "https://apnews.com/article/bank-outage-chase-wells-fargo-truist-50fee2693c22f597fa6ca51a97ef2cda",
+   "summary": "Article URL: https://apnews.com/article/bank-outage-chase-wells-fargo-truist-50fee2693c22f597fa6ca51a97ef2cda Comments URL: https://news.ycombinator.com/item?id=50521045 Points: 336 # Comments: 225",
+   "published_at": 1794853890.0,
+   "published_bj": "2026-11-17 02:31"
+  },
+  {
    "id": "13b8639859134728",
    "source": "TechCrunch",
    "title": "Tesla goes all-in on the Cybercab with upcoming €3B Berlin Gigafactory expansion",
@@ -100,6 +145,15 @@
    "url": "https://openai.com/index/strengthening-online-child-safety/",
    "summary": "Article URL: https://openai.com/index/strengthening-online-child-safety/ Comments URL: https://news.ycombinator.com/item?id=50520804 Points: 31 # Comments: 35",
    "published_at": 1794852768.0,
+   "published_bj": "2026-11-17 02:12"
+  },
+  {
+   "id": "a25b5321ad5d3da4",
+   "source": "Hacker News",
+   "title": "FBI says Artex AI open-source hacking tool used to breach networks",
+   "url": "https://techcrunch.com/2026/11/16/fbi-says-artex-ai-open-source-hacking-tool-used-to-breach-networks-in-under-three-hours/",
+   "summary": "Article URL: https://techcrunch.com/2026/11/16/fbi-says-artex-ai-open-source-hacking-tool-used-to-breach-networks-in-under-three-hours/ Comments URL: https://news.ycombinator.com/item?id=50520796 Points: 21 # Comments: 0",
+   "published_at": 1794852741.0,
    "published_bj": "2026-11-17 02:12"
   },
   {
@@ -200,6 +254,15 @@
    "summary": "Article URL: https://news.cornell.edu/stories/2026/10/sheep-grazing-solar-fields-offers-farmers-economic-ecological-gains Comments URL: https://news.ycombinator.com/item?id=50520182 Points: 50 # Comments: 16",
    "published_at": 1794850066.0,
    "published_bj": "2026-11-17 01:27"
+  },
+  {
+   "id": "240c7f3130462646",
+   "source": "Hacker News",
+   "title": "How Billions in Safe Insurance Money Is Being Bet on A.I. Debt",
+   "url": "https://www.nytimes.com/2026/11/16/business/insurance-ai-debt.html",
+   "summary": "Article URL: https://www.nytimes.com/2026/11/16/business/insurance-ai-debt.html Comments URL: https://news.ycombinator.com/item?id=50520148 Points: 34 # Comments: 4",
+   "published_at": 1794849935.0,
+   "published_bj": "2026-11-17 01:25"
   },
   {
    "id": "710e72c08a66c71b",
@@ -389,6 +452,15 @@
    "summary": "亿万富翁沃伦・巴菲特向四家慈善基金会捐赠价值约 55 亿美元的伯克希尔哈撒韦股票，本年度慈善捐赠规模较上一年有所加大。96 岁的巴菲特把 6150 股伯克希尔 A 类股转换为 922.5 万股 B 类股。其中 369 万股捐给苏珊・汤普森‑巴菲特基金会；另外分别向由他三名子女苏茜、霍华德、彼得・巴菲特运营的舍伍德基金会、霍华德・G・巴菲特基金会、诺沃基金会各捐赠 184.5 万股。 阅读全文",
    "published_at": 1794845675.0,
    "published_bj": "2026-11-17 00:14"
+  },
+  {
+   "id": "6453499430ee7a46",
+   "source": "Hacker News",
+   "title": "First phase of embedded assessments at OpenAI",
+   "url": "https://openai.com/index/our-first-phase-of-embedded-assessments/",
+   "summary": "Article URL: https://openai.com/index/our-first-phase-of-embedded-assessments/ Comments URL: https://news.ycombinator.com/item?id=50519153 Points: 18 # Comments: 4",
+   "published_at": 1794845240.0,
+   "published_bj": "2026-11-17 00:07"
   },
   {
    "id": "b3c19549d17f084f",

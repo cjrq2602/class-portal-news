@@ -1,7 +1,7 @@
 {
  "date": "2026-11-16",
- "generated_at": 1794856861.373691,
- "count": 387,
+ "generated_at": 1794860799.5652566,
+ "count": 388,
  "items": [
   {
    "id": "8248b2f76811be8f",
@@ -110,6 +110,15 @@
    "summary": "美国政府正在进一步收紧先进人工智能芯片出口管制，试图阻止中国等受限制国家的企业绕过直接出口禁令，通过位于第三国的数据中心远程使用美国先进AI芯片。 阅读全文",
    "published_at": 1794843364.0,
    "published_bj": "2026-11-16 23:36"
+  },
+  {
+   "id": "60777fca266ab1b3",
+   "source": "Hacker News",
+   "title": "Psychic: Like fzf but learns from your actions",
+   "url": "https://klauria.tech/psychic/",
+   "summary": "Article URL: https://klauria.tech/psychic/ Comments URL: https://news.ycombinator.com/item?id=50518690 Points: 23 # Comments: 7",
+   "published_at": 1794843214.0,
+   "published_bj": "2026-11-16 23:33"
   },
   {
    "id": "af48fae2c27b5061",
