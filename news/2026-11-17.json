@@ -1,8 +1,62 @@
 {
  "date": "2026-11-17",
- "generated_at": 1794864493.8745298,
- "count": 58,
+ "generated_at": 1794868063.1131434,
+ "count": 65,
  "items": [
+  {
+   "id": "0d55ead42dd40e1f",
+   "source": "TechCrunch",
+   "title": "Cyber giant Infoblox confirms security incident after hackers access ‘company information’",
+   "url": "https://techcrunch.com/2026/11/16/cyber-giant-infoblox-confirms-security-incident-after-hackers-access-company-information/",
+   "summary": "The cybersecurity and automation giant said it's working with outside investigators to understand the scale of the breach.",
+   "published_at": 1794867151.0,
+   "published_bj": "2026-11-17 06:12"
+  },
+  {
+   "id": "edd52dda314e05a4",
+   "source": "TechCrunch",
+   "title": "All the questions Nvidia should answer on Tuesday — but probably won’t",
+   "url": "https://techcrunch.com/2026/11/16/all-the-questions-nvidia-should-answer-on-tuesday-but-probably-wont/",
+   "summary": "Nvidia interim CEO and long-time CFO Colette Kress is about to have one of the biggest days of her career on Tuesday when the company reports its third quarter results. Given the turmoil Nvidia is in, there are a number of questions that Nvidia should answer.",
+   "published_at": 1794866582.0,
+   "published_bj": "2026-11-17 06:03"
+  },
+  {
+   "id": "bbca82d36c17ef94",
+   "source": "Hacker News",
+   "title": "Spamhaus new email sender requirements in November",
+   "url": "https://www.spamhaus.org/sender-guidelines/",
+   "summary": "Article URL: https://www.spamhaus.org/sender-guidelines/ Comments URL: https://news.ycombinator.com/item?id=50523784 Points: 22 # Comments: 13",
+   "published_at": 1794865639.0,
+   "published_bj": "2026-11-17 05:47"
+  },
+  {
+   "id": "78e89e434825b62d",
+   "source": "Hacker News",
+   "title": "BugMeNot Has Closed",
+   "url": "https://www.bugmenot.com/",
+   "summary": "Article URL: https://www.bugmenot.com/ Comments URL: https://news.ycombinator.com/item?id=50523601 Points: 96 # Comments: 56",
+   "published_at": 1794864737.0,
+   "published_bj": "2026-11-17 05:32"
+  },
+  {
+   "id": "d30e96b088337a6f",
+   "source": "Hacker News",
+   "title": "OpenCode Browse",
+   "url": "https://opencode.ai/product/browse",
+   "summary": "Article URL: https://opencode.ai/product/browse Comments URL: https://news.ycombinator.com/item?id=50523459 Points: 16 # Comments: 7",
+   "published_at": 1794864037.0,
+   "published_bj": "2026-11-17 05:20"
+  },
+  {
+   "id": "b619dbfb48fe2c9f",
+   "source": "Hacker News",
+   "title": "Optimizely Compromised",
+   "url": "https://amirulcyber.com/2026/11/16/optimjack-optimizely-skimmer/",
+   "summary": "Article URL: https://amirulcyber.com/2026/11/16/optimjack-optimizely-skimmer/ Comments URL: https://news.ycombinator.com/item?id=50523300 Points: 41 # Comments: 5",
+   "published_at": 1794863318.0,
+   "published_bj": "2026-11-17 05:08"
+  },
   {
    "id": "f5902368f27d2180",
    "source": "Hacker News",
@@ -29,6 +83,15 @@
    "summary": "Article URL: https://arstechnica.com/tech-policy/2026/11/comcast-falsely-advertises-cable-internet-as-fiber-powered-att-lawsuit-says/ Comments URL: https://news.ycombinator.com/item?id=50523025 Points: 19 # Comments: 4",
    "published_at": 1794862088.0,
    "published_bj": "2026-11-17 04:48"
+  },
+  {
+   "id": "738370b0999ea891",
+   "source": "Hacker News",
+   "title": "Carnegie Mellon is putting computer science courses on YouTube for free",
+   "url": "https://www.cs.cmu.edu/learn/",
+   "summary": "Article URL: https://www.cs.cmu.edu/learn/ Comments URL: https://news.ycombinator.com/item?id=50522980 Points: 95 # Comments: 19",
+   "published_at": 1794861816.0,
+   "published_bj": "2026-11-17 04:43"
   },
   {
    "id": "631670eac3f16951",
