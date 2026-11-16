@@ -1,7 +1,7 @@
 {
  "date": "2026-11-16",
- "generated_at": 1794793704.9812703,
- "count": 87,
+ "generated_at": 1794795631.1839366,
+ "count": 92,
  "items": [
   {
    "id": "aed79b4a0104859d",
@@ -11,6 +11,51 @@
    "summary": "点击查看原文>",
    "published_at": 1794816000.0,
    "published_bj": "2026-11-16 16:00"
+  },
+  {
+   "id": "5094bcde12c24bb3",
+   "source": "Hacker News",
+   "title": "Dffy: A fast terminal-native Git diff viewer, written in Rust",
+   "url": "https://github.com/amalucelli/dffy",
+   "summary": "Article URL: https://github.com/amalucelli/dffy Comments URL: https://news.ycombinator.com/item?id=50513077 Points: 8 # Comments: 1",
+   "published_at": 1794793939.0,
+   "published_bj": "2026-11-16 09:52"
+  },
+  {
+   "id": "469587f9c0b1d00e",
+   "source": "IT之家",
+   "title": "开发者推出 WinPopBit 计划，让 AMD K8、英特尔奔腾 4 等老处理器也能运行微软 Win11",
+   "url": "https://www.ithome.com/1/027/504.htm",
+   "summary": "IT之家 11 月 16 日消息，虽然微软官方不支持老旧处理器，但第三方开发者正在通过 WinPopBit（IT之家注：原名 POP4.2）项目尝试让更多早期 AMD 和英特尔 CPU 运行 Windows 11。 据 Neowin 今日报道，WinPopBit 下一版本计划增加对 AMD K8 系列处理器以及英特尔奔腾 4、奔腾 D 部分型号的支持，支持 64 位版本的 Windows 10 和 Windows 11 23H2。 AMD K8 是 AMD 早期 64 位处理器架构，相关产品包括速龙 64 X2 等，涉及 Socket 754、Socket 940、Socket 939 和 A",
+   "published_at": 1794793632.0,
+   "published_bj": "2026-11-16 09:47"
+  },
+  {
+   "id": "ad38b47cf9226f67",
+   "source": "IT之家",
+   "title": "消息称英特尔规划 12 性能核 + bLLC 桌面处理器，计算芯粒采用 Intel 18A-P 工艺",
+   "url": "https://www.ithome.com/1/027/503.htm",
+   "summary": "IT之家 11 月 16 日消息，据消息人士 @jaykihn0 北京时间今日爆料， 英特尔正计划推出一颗拥有 12 个性能核心并配备 bLLC 缓存的解锁桌面处理器 （另有 4 个 LP-E 核心）。 结合 @jaykihn0 的后续发言和另一消息人士 @OneRaichu 的补充，这一面向游戏玩家的性价比型号虽然名义上属于 \"Razor Lake\" 序列，但 本质上是 \"Nova Lake\" 的 \"Refresh\" 版本 。其性能核基于 \"Coyote Cove\" 微架构，计算芯粒采用 Intel 18A-P 制程工艺节点。 @jaykihn0 还提到， 部分其它 \"Razor Lake\"",
+   "published_at": 1794793467.0,
+   "published_bj": "2026-11-16 09:44"
+  },
+  {
+   "id": "5c04f354acfbeb0c",
+   "source": "Hacker News",
+   "title": "\"Who is Hiring?\" postings stuck near 12-year lows as AI reaches half of all jobs",
+   "url": "https://www.hntrends.com/2026/november.html",
+   "summary": "Article URL: https://www.hntrends.com/2026/november.html Comments URL: https://news.ycombinator.com/item?id=50512950 Points: 35 # Comments: 5",
+   "published_at": 1794792690.0,
+   "published_bj": "2026-11-16 09:31"
+  },
+  {
+   "id": "6ddaf36c12eb5081",
+   "source": "IT之家",
+   "title": "怕玩家卸载游戏给《GTA 6》腾空间？EA《麦登橄榄球 27》新增“请勿删除”弹窗",
+   "url": "https://www.ithome.com/1/027/501.htm",
+   "summary": "IT之家 11 月 16 日消息，据 IGN 今日报道，EA 在《GTA 6》发售前向《Madden NFL 27》玩家推送了一条特殊的游戏内弹窗，提醒玩家不要删除游戏，并预告将于 11 月 17 日推出新更新。 由于消息采用了类似《GTA 6》预告宣传的粉紫色调和棕榈树元素，不少玩家认为，EA 此举是在提醒用户不要为了给《GTA 6》腾出存储空间而卸载《Madden NFL 27》。 这条游戏内弹窗以“Don't Delete”（不要删除）开头，随后写道：“[加密信号] 目标已锁定。团队正在集结，准备执行一项高风险行动。等待我们的线人于 11 月 17 日发出信号…… 请勿泄露此消息！” E",
+   "published_at": 1794792620.0,
+   "published_bj": "2026-11-16 09:30"
   },
   {
    "id": "54f97bd919765c6a",

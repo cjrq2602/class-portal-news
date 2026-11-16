@@ -1,0 +1,374 @@
+{
+ "type": "today",
+ "date": "2026-11-16",
+ "window": {
+  "start_ts": 1794758400.0,
+  "end_ts": 1794790800.0
+ },
+ "generated_at": 1794795633.79185,
+ "generator": "action",
+ "news_count": 73,
+ "keywords": [
+  "the",
+  "xbox",
+  "for",
+  "美国",
+  "and",
+  "ai",
+  "of",
+  "project",
+  "nvidia",
+  "gta6"
+ ],
+ "points": [
+  {
+   "text": "【the】Jensen is Nvidia, right? And so much of this economy is riding on Nvidia",
+   "keyword": "the",
+   "news_ids": [
+    "02a82b2fb2ed31c2"
+   ],
+   "refs": [
+    {
+     "id": "02a82b2fb2ed31c2",
+     "title": "Is bad news for Jensen Huang also bad news for the AI industry?",
+     "source": "TechCrunch",
+     "url": "https://techcrunch.com/2026/11/15/is-bad-news-for-jensen-huang-also-bad-news-for-the-ai-industry/",
+     "published_at": 1794779795.0
+    }
+   ]
+  },
+  {
+   "text": "【美国】11月16日，据彭博社报道，美国共和党众议员约翰·穆勒纳尔(John Moolenaar)透露，黄仁勋(Jensen Huang)已同意在闭门听",
+   "keyword": "美国",
+   "news_ids": [
+    "b1e80fe258affec1"
+   ],
+   "refs": [
+    {
+     "id": "b1e80fe258affec1",
+     "title": "黄仁勋同意赴美国国会闭门作证 作证日期尚未确定",
+     "source": "cnBeta",
+     "url": "https://www.cnbeta.com.tw/articles/tech/1586524.htm",
+     "published_at": 1794784425.0
+    }
+   ]
+  },
+  {
+   "text": "【美国】美国国会正在酝酿进一步收紧先进人工智能芯片对华出口的限制",
+   "keyword": "美国",
+   "news_ids": [
+    "a8bf0afaffb87747"
+   ],
+   "refs": [
+    {
+     "id": "a8bf0afaffb87747",
+     "title": "英伟达风波引发两党施压 美国国会酝酿收紧AI芯片对华出口限制",
+     "source": "cnBeta",
+     "url": "https://www.cnbeta.com.tw/articles/tech/1586514.htm",
+     "published_at": 1794773109.0
+    }
+   ]
+  },
+  {
+   "text": "【for】Article URL: https://www",
+   "keyword": "for",
+   "news_ids": [
+    "dba0f92c71691393"
+   ],
+   "refs": [
+    {
+     "id": "dba0f92c71691393",
+     "title": "Jensen Huang might return to Nvidia as CEO",
+     "source": "Hacker News",
+     "url": "https://www.reuters.com/world/china/jensen-huang-discusses-comeback-nvidia-ceo-with-allies-ft-reports-2026-11-15/",
+     "published_at": 1794785093.0
+    }
+   ]
+  },
+  {
+   "text": "【xbox】IT之家 11 月 16 日消息，微软 XBOX 下一代业务副总裁杰森 · 罗纳德昨日表示，他们的次世代主机 Project Helix 不仅能",
+   "keyword": "xbox",
+   "news_ids": [
+    "7ad2caef8a084a58"
+   ],
+   "refs": [
+    {
+     "id": "7ad2caef8a084a58",
+     "title": "微软 XBOX 明确 Project Helix 定位：首先是能运行 PC 游戏的主机",
+     "source": "IT之家",
+     "url": "https://www.ithome.com/1/027/463.htm",
+     "published_at": 1794782829.0
+    }
+   ]
+  },
+  {
+   "text": "【xbox】Xbox明确了代号Project Helix的下一代硬件定位：它首先是一台能够运行用户PC游戏的主机，而不是一台附带主机游戏能力的PC",
+   "keyword": "xbox",
+   "news_ids": [
+    "d7948f59401592fb"
+   ],
+   "refs": [
+    {
+     "id": "d7948f59401592fb",
+     "title": "Xbox明确Project Helix定位：首先是能运行PC游戏的主机",
+     "source": "cnBeta",
+     "url": "https://www.cnbeta.com.tw/articles/game/1586534.htm",
+     "published_at": 1794784577.0
+    }
+   ]
+  },
+  {
+   "text": "【of】Article URL: https://www",
+   "keyword": "of",
+   "news_ids": [
+    "1bf56772c51f7304"
+   ],
+   "refs": [
+    {
+     "id": "1bf56772c51f7304",
+     "title": "Boeing-Lockheed rocket fails mid-flight, destroys payload of Amazon satellites",
+     "source": "Hacker News",
+     "url": "https://www.reuters.com/business/aerospace-defense/us-rocket-fails-after-launch-payload-amazon-internet-satellites-destroyed-2026-11-15/",
+     "published_at": 1794778691.0
+    }
+   ]
+  },
+  {
+   "text": "【the】Article URL: https://lastcomplication",
+   "keyword": "the",
+   "news_ids": [
+    "52554f51b9961d57"
+   ],
+   "refs": [
+    {
+     "id": "52554f51b9961d57",
+     "title": "Show HN: The Last Complication, a Zachtronics-style watchmaking puzzle game",
+     "source": "Hacker News",
+     "url": "https://lastcomplication.com/",
+     "published_at": 1794782932.0
+    }
+   ]
+  },
+  {
+   "text": "IT之家 11 月 16 日消息，据央视财经 11 月 14 日报道，董明珠和格力技校学生面对面，她在《对话》现场表示，三年后想留下的学生，基本",
+   "keyword": "",
+   "news_ids": [
+    "cd69aa4b73cd41b7"
+   ],
+   "refs": [
+    {
+     "id": "cd69aa4b73cd41b7",
+     "title": "董明珠：格力对文凭的考虑已逐步取消，本事才是硬通行证",
+     "source": "IT之家",
+     "url": "https://www.ithome.com/1/027/488.htm",
+     "published_at": 1794790353.0
+    }
+   ]
+  },
+  {
+   "text": "IT之家 11 月 16 日消息，腾讯 WorkBuddy 国际版昨日宣布，已正式上线谷歌 Gemini 4 Carbon 模型，主要面向需要更",
+   "keyword": "",
+   "news_ids": [
+    "c4106bc84110a08e"
+   ],
+   "refs": [
+    {
+     "id": "c4106bc84110a08e",
+     "title": "腾讯 WorkBuddy 国际版上线 Gemini 4 Carbon 大模型：支持百万 Token 上下文，暂仅限 Pro 用户使用",
+     "source": "IT之家",
+     "url": "https://www.ithome.com/1/027/487.htm",
+     "published_at": 1794789877.0
+    }
+   ]
+  },
+  {
+   "text": "IT之家 11 月 16 日消息，苹果流媒体平台 Apple TV+ 超热门剧集《流人》（Slow Horses）可能将在第八季结束",
+   "keyword": "",
+   "news_ids": [
+    "ad756ac38ffd7104"
+   ],
+   "refs": [
+    {
+     "id": "ad756ac38ffd7104",
+     "title": "原著小说迟迟未更新，Apple TV+ 热门剧《流人》第八季或成最终季",
+     "source": "IT之家",
+     "url": "https://www.ithome.com/1/027/483.htm",
+     "published_at": 1794789061.0
+    }
+   ]
+  },
+  {
+   "text": "IT之家 11 月 16 日消息，彭博社记者马克 · 古尔曼昨日于新一期《Power On》通讯透露，苹果计划于明年秋季推出 iPhone Du",
+   "keyword": "",
+   "news_ids": [
+    "9488b5e47fe578c1"
+   ],
+   "refs": [
+    {
+     "id": "9488b5e47fe578c1",
+     "title": "古尔曼：苹果工程师正积极为 iPhone Duo 2 外屏开发面容 ID",
+     "source": "IT之家",
+     "url": "https://www.ithome.com/1/027/482.htm",
+     "published_at": 1794787970.0
+    }
+   ]
+  },
+  {
+   "text": "IT之家 11 月 16 日消息，尚界汽车今日宣布，尚界 Z7T 星野套装全国首批展车已陆续到店（文末附门店信息），将于 11 月 20 日 1",
+   "keyword": "",
+   "news_ids": [
+    "874b5cdf7b7dbd4c"
+   ],
+   "refs": [
+    {
+     "id": "874b5cdf7b7dbd4c",
+     "title": "尚界 Z7T 星野套装展车陆续到店，11 月 20 日华为星芒品牌发布会上市",
+     "source": "IT之家",
+     "url": "https://www.ithome.com/1/027/481.htm",
+     "published_at": 1794787834.0
+    }
+   ]
+  },
+  {
+   "text": "IT之家 11 月 16 日消息，游戏媒体 DSOGaming 上周报道称，《EA SPORTS FC 27 Lite》在最近一次更新后似乎已经",
+   "keyword": "",
+   "news_ids": [
+    "fa241ee6c3091bb5"
+   ],
+   "refs": [
+    {
+     "id": "fa241ee6c3091bb5",
+     "title": "玩家发现 EA 不小心移除《FC 27 Lite》D 加密，完整版仍保留 Denuvo",
+     "source": "IT之家",
+     "url": "https://www.ithome.com/1/027/480.htm",
+     "published_at": 1794787793.0
+    }
+   ]
+  },
+  {
+   "text": "IT之家 11 月 16 日消息，据韩国 Safety Korea 认证数据库相关记录，LG 正在为 OLED B7 系列准备新机型，目前已有多",
+   "keyword": "",
+   "news_ids": [
+    "444d90284992184a"
+   ],
+   "refs": [
+    {
+     "id": "444d90284992184a",
+     "title": "2027 款 LG OLED B7 电视曝光：48、55、77 英寸型号已通过韩国认证，预计还有 65 和 83 英寸版本",
+     "source": "IT之家",
+     "url": "https://www.ithome.com/1/027/478.htm",
+     "published_at": 1794787233.0
+    }
+   ]
+  }
+ ],
+ "article": {
+  "title": "2026-11-16 新闻总结",
+  "paragraphs": [
+   {
+    "kind": "lead",
+    "text": "今天共收录 73 条新闻，来自 5 家媒体。把标题放在一起看，讨论主要集中在 AI 这几个方向上，其余消息更像是零散补充。"
+   },
+   {
+    "kind": "section",
+    "heading": "卫星",
+    "text": "先看「卫星」。美国当地时间11月15日，由波音和洛克希德·马丁合资成立的联合发射联盟（ULA）遭遇重大挫折…，另有 9 条消息指向同一话题。对读者来说，值得留意的不是结论本身，而是它背后哪些前提正在被改变。",
+    "news_ids": [
+     "13d56561e0ba88ee"
+    ],
+    "refs": [
+     {
+      "id": "13d56561e0ba88ee",
+      "title": "美国联合发射联盟火神火箭发射失败：40颗亚马逊卫星全部损毁",
+      "source": "cnBeta",
+      "url": "https://www.cnbeta.com.tw/articles/science/1586520.htm",
+      "published_at": 1794784337.0
+     }
+    ]
+   },
+   {
+    "kind": "section",
+    "heading": "AI",
+    "text": "与此同时「AI」。美国国会正在酝酿进一步收紧先进人工智能芯片对华出口的限制…，另有 4 条消息指向同一话题。这类进展更像是把已有能力往工程化落地推了一步，真正的分水岭在于成本和可靠性能不能同时压下来。",
+    "news_ids": [
+     "a8bf0afaffb87747"
+    ],
+    "refs": [
+     {
+      "id": "a8bf0afaffb87747",
+      "title": "英伟达风波引发两党施压 美国国会酝酿收紧AI芯片对华出口限制",
+      "source": "cnBeta",
+      "url": "https://www.cnbeta.com.tw/articles/tech/1586514.htm",
+      "published_at": 1794773109.0
+     }
+    ]
+   },
+   {
+    "kind": "section",
+    "heading": "考试",
+    "text": "另一个值得注意的方向是「考试」。据韩国雇佣劳动部消息，在第63届税务师考试头名承认使用生成式AI作弊后，韩国政府决定立即排查2026年举行的全部国家资格考试，另有 6 条消息指向同一话题。这条消息短期内的实际影响可能有限，但它指向的方向值得放进观察名单。",
+    "news_ids": [
+     "0d3f5a883d3d6bfb"
+    ],
+    "refs": [
+     {
+      "id": "0d3f5a883d3d6bfb",
+      "title": "税务师考试第一名用AI作弊 韩国启动全面调查",
+      "source": "cnBeta",
+      "url": "https://www.cnbeta.com.tw/articles/tech/1586526.htm",
+      "published_at": 1794784451.0
+     }
+    ]
+   },
+   {
+    "kind": "section",
+    "heading": "主机",
+    "text": "相比之下「主机」。IT之家 11 月 16 日消息，微软 XBOX 下一代业务副总裁杰森 · 罗纳德昨日表示，他们的次世代主机 Project Helix 不仅能运行 XBOX 游戏，另有 3 条消息指向同一话题。对读者来说，值得留意的不是结论本身，而是它背后哪些前提正在被改变。",
+    "news_ids": [
+     "7ad2caef8a084a58"
+    ],
+    "refs": [
+     {
+      "id": "7ad2caef8a084a58",
+      "title": "微软 XBOX 明确 Project Helix 定位：首先是能运行 PC 游戏的主机",
+      "source": "IT之家",
+      "url": "https://www.ithome.com/1/027/463.htm",
+      "published_at": 1794782829.0
+     }
+    ]
+   },
+   {
+    "kind": "glossary",
+    "items": [
+     {
+      "term": "AI",
+      "desc": "人工智能，让机器完成识别、生成、判断等原本需要人做的任务"
+     },
+     {
+      "term": "Agent",
+      "desc": "智能体，能自己拆解任务、调用工具并连续执行的 AI 程序"
+     },
+     {
+      "term": "大模型",
+      "desc": "参数量巨大的神经网络，靠海量文本训练出语言理解与生成能力"
+     },
+     {
+      "term": "算力",
+      "desc": "计算能力，通常用 GPU 数量和浮点性能衡量，是训练大模型的门槛"
+     }
+    ]
+   },
+   {
+    "kind": "outlook",
+    "text": "整体看，这个时段的新闻还处在「消息多、结论少」的阶段，与其急着下判断，不如盯住接下来一两周有没有可验证的后续动作。"
+   }
+  ],
+  "word_count": 588
+ },
+ "ai_enhanced": false,
+ "schema": 1,
+ "window_bj": {
+  "start": "2026-11-16 00:00",
+  "end": "2026-11-16 09:00"
+ }
+}
