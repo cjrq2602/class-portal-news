@@ -1,7 +1,7 @@
 {
  "date": "2026-11-16",
- "generated_at": 1794832670.4826403,
- "count": 334,
+ "generated_at": 1794843665.015547,
+ "count": 375,
  "items": [
   {
    "id": "8248b2f76811be8f",
@@ -13,12 +13,138 @@
    "published_bj": "2026-11-16 23:56"
   },
   {
+   "id": "c4b1863cb8f8236c",
+   "source": "cnBeta",
+   "title": "​微软披露Microsoft 365大规模故障根因：三项因素叠加 逾八成网关服务器失去响应",
+   "url": "https://www.cnbeta.com.tw/articles/tech/1586652.htm",
+   "summary": "微软公布11月12日至13日Microsoft 365大范围中断的初步调查结果，称故障由一项潜伏数月的Windows服务器缺陷、Teams流量切换以及网关可用容量减少共同引发。事故从协调世界时11月12日16时20分持续至次日16时10分，接近24小时。 阅读全文",
+   "published_at": 1794843520.0,
+   "published_bj": "2026-11-16 23:38"
+  },
+  {
+   "id": "dfa716782de68360",
+   "source": "cnBeta",
+   "title": "美国政府拟封堵中国企业通过海外数据中心远程获取算力的渠道",
+   "url": "https://www.cnbeta.com.tw/articles/tech/1586650.htm",
+   "summary": "美国政府正在进一步收紧先进人工智能芯片出口管制，试图阻止中国等受限制国家的企业绕过直接出口禁令，通过位于第三国的数据中心远程使用美国先进AI芯片。 阅读全文",
+   "published_at": 1794843364.0,
+   "published_bj": "2026-11-16 23:36"
+  },
+  {
+   "id": "af48fae2c27b5061",
+   "source": "cnBeta",
+   "title": "Bitly短链接漏洞引发旧帖劫持 特朗普、麦当劳等知名账号受影响",
+   "url": "https://www.cnbeta.com.tw/articles/tech/1586648.htm",
+   "summary": "一场涉及短链接服务Bitly的安全事件近日引发广泛关注。研究人员发现，大量发布于十多年前的X平台旧帖文中的Bitly短链接遭到恶意篡改，其中包括美国前总统特朗普、麦当劳、汉堡王以及多位知名公众人物和机构账号发布的历史内容。 阅读全文",
+   "published_at": 1794843208.0,
+   "published_bj": "2026-11-16 23:33"
+  },
+  {
+   "id": "4ac444340ef6343d",
+   "source": "cnBeta",
+   "title": "一台故障路由器引发全美航班停飞 美国航空系统暴露基础设施隐患",
+   "url": "https://www.cnbeta.com.tw/articles/tech/1586646.htm",
+   "summary": "美国联邦航空局（FAA）近日披露，上周导致全美范围航班暂停起飞的大规模航空运输中断事件，其源头并非繁忙机场或大型空管中心，而是一处位于阿肯色州埃尔多拉多的小型无线电站。在例行网络升级过程中，一台新安装的路由器出现异常，向航空局专用网络发送了海量连接请求，最终触发全美航空系统连锁故障。 阅读全文",
+   "published_at": 1794843044.0,
+   "published_bj": "2026-11-16 23:30"
+  },
+  {
+   "id": "3869bc3f4068e4e8",
+   "source": "Hacker News",
+   "title": "Robert Pattinson Is Officially James Bond",
+   "url": "https://variety.com/2026/film/global/robert-pattinson-new-james-bond-007-1236946655/",
+   "summary": "Article URL: https://variety.com/2026/film/global/robert-pattinson-new-james-bond-007-1236946655/ Comments URL: https://news.ycombinator.com/item?id=50518615 Points: 12 # Comments: 3",
+   "published_at": 1794842839.0,
+   "published_bj": "2026-11-16 23:27"
+  },
+  {
+   "id": "eeb1dc6a29958b4a",
+   "source": "cnBeta",
+   "title": "12年追踪研究发现斯里兰卡野生亚洲象种群出现社会结构崩塌",
+   "url": "https://www.cnbeta.com.tw/articles/science/1586644.htm",
+   "summary": "一项持续12年的研究发现，斯里兰卡野生亚洲象种群正在经历一种容易被忽视、却可能产生长期影响的危机：随着雌性大象数量减少，原本紧密联系的社群逐渐分裂成规模更小、彼此孤立的群体。研究人员认为，这种变化可能意味着象群的社会结构已经越过某个临界点，一旦发生，想要恢复原有的社会关系网络将变得十分困难。 阅读全文",
+   "published_at": 1794842386.0,
+   "published_bj": "2026-11-16 23:19"
+  },
+  {
+   "id": "e7977acd67274de8",
+   "source": "cnBeta",
+   "title": "传苹果20周年纪念版iPhone Pro将采用全新圆润设计 延续iPhone Air风格",
+   "url": "https://www.cnbeta.com.tw/articles/tech/1586642.htm",
+   "summary": "有关苹果20周年纪念版iPhone的外观设计近日再度传出新消息。最新爆料显示，苹果或将在未来推出的iPhone 20 Pro上采用与iPhone Air相似的设计理念，以更具未来感的全玻璃机身和更圆润的曲面造型作为主要特色。 阅读全文",
+   "published_at": 1794842332.0,
+   "published_bj": "2026-11-16 23:18"
+  },
+  {
+   "id": "fc62dd6220342954",
+   "source": "Hacker News",
+   "title": "New James Bond Announced and the Name's Pattinson, Robert Pattinson",
+   "url": "https://www.theguardian.com/film/2026/nov/16/new-james-bond-announced-and-the-names-pattinson-robert-pattinson",
+   "summary": "Article URL: https://www.theguardian.com/film/2026/nov/16/new-james-bond-announced-and-the-names-pattinson-robert-pattinson Comments URL: https://news.ycombinator.com/item?id=50518453 Points: 6 # Comments: 0",
+   "published_at": 1794842027.0,
+   "published_bj": "2026-11-16 23:13"
+  },
+  {
+   "id": "3a565c52bf66f93d",
+   "source": "IT之家",
+   "title": "特斯拉将投资 30 亿欧元扩建德国工厂，目标年产 100 万辆 Cybercab",
+   "url": "https://www.ithome.com/1/027/993.htm",
+   "summary": "IT之家 11 月 16 日消息，特斯拉周一宣布，将向位于德国柏林郊外的工厂投资 30 亿欧元 （IT之家注：现汇率约合 220.83 亿元人民币） ，扩大当地生产能力。与此同时，德国本土汽车制造商正面临成本高企、市场需求疲软等压力。 特斯拉首席执行官埃隆 · 马斯克（Elon Musk）旗下的电动汽车制造商计划在德国格林海德（Gruenheide）的超级工厂新建一座生产设施。这也是特斯拉目前在欧洲唯一的整车工厂。根据该公司向路透社发送的电子邮件声明，新设施的目标是实现每年最多生产 100 万辆 Cybercab。 特斯拉表示，计划在今年年底前为整个项目提交建筑许可申请。新设施预计于 2027",
+   "published_at": 1794841484.0,
+   "published_bj": "2026-11-16 23:04"
+  },
+  {
+   "id": "d08e84fcef9c532f",
+   "source": "TechCrunch",
+   "title": "US tightens AI chip export controls to deter Chinese companies from accessing compute remotely",
+   "url": "https://techcrunch.com/2026/11/16/us-tightens-ai-chip-export-controls-to-deter-chinese-companies-from-accessing-compute-remotely/",
+   "summary": "Under the interim rule, US will require firms to get licenses to export AI chips if they may provide compute to China or other restricted countries.",
+   "published_at": 1794841354.0,
+   "published_bj": "2026-11-16 23:02"
+  },
+  {
+   "id": "16418157c0e8b302",
+   "source": "Solidot",
+   "title": "微软称一个隐藏的 Windows Bug 触发了持续逾一天的宕机事故",
+   "url": "https://www.solidot.org/story?sid=85903",
+   "summary": "微软公布了初步事件报告，称一个隐藏的 Windows Bug 触发了持续逾一天的宕机事故。它将于 11 月 20 日公布更详细的信息。微软称，它于今年 7 月部署了针对 Microsoft 365 网络网关服务器的一项修正，运行三个多月未出现问题。但这次修正引入了一个锁争用的 bug：一个 Windows 内部进程中多个任务争夺对共享资源的访问权，特定流量条件下会耗尽处理器和内存资源。微软此前的测试未能发现这一问题，原因是测试是在硬件性能较弱的机器上进行的，在拥有更多核心的新硬件上，该问题会非常显著。两个条件触发了该 bug：Teams 流量从一个备用网关迁移到了与 Exchange Onli",
+   "published_at": 1794841234.0,
+   "published_bj": "2026-11-16 23:00"
+  },
+  {
+   "id": "d04ec382dab43b10",
+   "source": "IT之家",
+   "title": "华为 WATCH Air 新款智能手表外观曝光：圆润机身 + 超轻薄设计，预装鸿蒙 HarmonyOS 系统",
+   "url": "https://www.ithome.com/1/027/992.htm",
+   "summary": "IT之家 11 月 16 日消息，博主 @鹏鹏君驾到 今日曝光了一款华为穿戴新品 —— HUAWEI WATCH Air 智能手表。 从画面可以看到，华为 WATCH Air 采用超轻薄设计，拥有圆润的弧面机身，侧边配有一枚旋转表冠按钮和一枚多功能按键。此外， 这款手表还预装了鸿蒙 HarmonyOS 系统 。 目前，华为官方暂未公布这款手表的具体配置信息，但爆料提到，这款手表将采用高亮钛一体化设计，提供黑、银、金三种配色。IT之家也将持续关注这款智能手表新品，并在第一时间带来最新情报。 延伸阅读 综合多位数码博主的爆料，WATCH Air 是华为一个全新的智能手表系列，定位介于现有产品线之间",
+   "published_at": 1794841044.0,
+   "published_bj": "2026-11-16 22:57"
+  },
+  {
+   "id": "bfb44959d3715816",
+   "source": "TechCrunch",
+   "title": "Google Maps can now build trip itineraries with real-time details about each stop",
+   "url": "https://techcrunch.com/2026/11/16/google-maps-can-now-build-trip-itineraries-with-real-time-details-about-each-stop/",
+   "summary": "You could use Ask Maps to plan a holiday shopping day trip or something more complex, like a three-day road trip featuring coastal hikes and oceanfront dining.",
+   "published_at": 1794840493.0,
+   "published_bj": "2026-11-16 22:48"
+  },
+  {
    "id": "b2a83e0b8c286f78",
    "source": "InfoQ中文",
    "title": "Codex、Claude Code 都卷完了，居然还能跑出黑马？整个产品，现在都可以是一个提示词",
    "url": "https://www.infoq.cn/article/8TySw9wzqf0l90keJUNf?utm_source=rss&utm_medium=article",
    "summary": "点击查看原文>",
    "published_at": 1794840268.0,
+   "published_bj": "2026-11-16 22:44"
+  },
+  {
+   "id": "ff626887deb3b816",
+   "source": "IT之家",
+   "title": "奇瑞捷途全新旅行者 7 C-DM 华为乾崑智驾版上市：搭载舱内激光 Limera，焕新价 18.49 万元起",
+   "url": "https://www.ithome.com/1/027/974.htm",
+   "summary": "IT之家 11 月 16 日消息，奇瑞捷途全新旅行者 7 C-DM 华为乾崑智驾版方盒新车今晚正式上市， 超级焕新价 18.49 万元起 。该车基于全新旅行者 7 C-DM 打造，如命名所示，其搭载了华为乾崑智驾系统。 两驱 Max：上市指导价 18.99 万元、超级焕新价 18.49 万元； 四驱 Max+：上市指导价 19.99 万元、超级焕新价 19.49 万元； 四驱 Ultra：上市指导价 21.49 万元、超级焕新价 20.99 万元。 据介绍，该车选用华为乾崑智驾 ADS 5 Pro 方案， 搭载的是舱内激光 Limera ，同时拥有 11V 高清摄像头（前视 / 环视 / 侧视",
+   "published_at": 1794840262.0,
    "published_bj": "2026-11-16 22:44"
   },
   {
@@ -29,6 +155,15 @@
    "summary": "点击查看原文>",
    "published_at": 1794839904.0,
    "published_bj": "2026-11-16 22:38"
+  },
+  {
+   "id": "24d64f000c1363eb",
+   "source": "IT之家",
+   "title": "中国成功连任国际电信联盟理事国",
+   "url": "https://www.ithome.com/1/027/973.htm",
+   "summary": "IT之家 11 月 16 日消息，据工信微报消息，11 月 16 日，国际电信联盟 2026 年全权代表大会完成国际电联理事国和无线电规则委员会委员选举工作， 中国成功连任国际电联理事国（2027—2030 年） ，中国候选人、国家数据集团有限公司董事程建军成功连任无线电规则委员会委员（2027—2030 年）。 据介绍，国际电联是联合国信息通信领域专门机构， 负责统筹协调全球无线电频谱与卫星轨道资源分配 ，制定全球通信技术标准，推动通信基础设施建设。 国际电联理事会由 48 个理事国组成，负责在两次全权代表大会之间履行管理机构职责 。无线电规则委员会由 12 名专家组成，负责解释无线电规则、",
+   "published_at": 1794839379.0,
+   "published_bj": "2026-11-16 22:29"
   },
   {
    "id": "a6b64372ad03883e",
@@ -49,6 +184,60 @@
    "published_bj": "2026-11-16 22:23"
   },
   {
+   "id": "cef628cb5d9741ea",
+   "source": "Hacker News",
+   "title": "Soldier files whistleblower complaint over Iran strike that killed 6 U.S. troops",
+   "url": "https://www.cnn.com/2026/11/15/politics/army-soldier-whistleblower-complaint",
+   "summary": "Article URL: https://www.cnn.com/2026/11/15/politics/army-soldier-whistleblower-complaint Comments URL: https://news.ycombinator.com/item?id=50517838 Points: 115 # Comments: 16",
+   "published_at": 1794838673.0,
+   "published_bj": "2026-11-16 22:17"
+  },
+  {
+   "id": "7b6725e62d1782c4",
+   "source": "IT之家",
+   "title": "AMD 宣布完成对 World Labs 的收购，李飞飞出任公司首席科学家",
+   "url": "https://www.ithome.com/1/027/969.htm",
+   "summary": "IT之家 11 月 16 日消息，AMD 今日宣布，已完成对 World Labs 的收购。AMD 称，此次收购将引入一支世界级 AI 模型研发团队，进一步增强 AMD 在 AI 全技术栈领域的实力。双方将整合顶尖 AI 模型研究人员与 AMD 工程师的技术优势，共同打造面向开放 AI 生态的新一代硬件、软件和系统。 AMD 董事长兼首席执行官苏姿丰（Lisa Su）表示：“要打造支撑下一代超级智能的基础设施，就必须将计算平台与模型结合起来进行协同优化。我们非常高兴欢迎李飞飞（Fei-Fei Li）及 World Labs 的优秀团队加入 AMD。他们在模型研究领域的开创性成果，将帮助我们塑造",
+   "published_at": 1794838541.0,
+   "published_bj": "2026-11-16 22:15"
+  },
+  {
+   "id": "cb529554fa13df5b",
+   "source": "IT之家",
+   "title": "徐直军回顾华为“发家史”，透露在与西方老牌通信厂商的正面竞争中快速做大了业务",
+   "url": "https://www.ithome.com/1/027/968.htm",
+   "summary": "IT之家 11 月 16 日消息，华为官方 X 账号分享了副董事长、轮值董事长徐直军发表在美国《时代》杂志的文章《亲历华为创新之路：看见、亲历、引领》（《Inside Huawei's innovation journey:Seeing it,living it,leading it》）。徐直军在文中以第一人称视角回顾了华为三十多年来的创新历程。 据徐直军回忆，在他 1993 年入职时期，华为研发团队正攻关数字程控交换机。伴随中国经济高速发展，家庭与办公固话的需求远大于供给。 很多年里，装一部电话既难又贵 。西方厂商的交换机虽已进入中国，但各家标准互不兼容， 每条线路成本约 3,000 元人民",
+   "published_at": 1794838522.0,
+   "published_bj": "2026-11-16 22:15"
+  },
+  {
+   "id": "bfeb64bb96b48ad6",
+   "source": "Hacker News",
+   "title": "Show HN: Coral – Open-source gateway where agents write their own tools",
+   "url": "https://github.com/withcoral/coral",
+   "summary": "Hi HN, I'm James, one of the co-founders of Coral. Coral is an open-source, self-hosted gateway that sits between your agents and the systems they work on. Agents call tools by writing short TypeScript programs that they can save as custom tools to reuse. You can publish custom tools for groups of a",
+   "published_at": 1794838491.0,
+   "published_bj": "2026-11-16 22:14"
+  },
+  {
+   "id": "500a166f4fcb8e08",
+   "source": "Solidot",
+   "title": "微软称下一代 Xbox 游戏机能玩 PC 游戏",
+   "url": "https://www.solidot.org/story?sid=85902",
+   "summary": "微软证实，代号为 Project Helix 的下一代 Xbox 游戏机既能玩主机游戏也能玩 PC 游戏。但暂时还不清楚游戏机是否能运行 Steam、Epic 等竞争对手的 PC 游戏启动器。目前所知的信息是 Project Helix 使用了基于 AMD Zen6 CPU + RDNA5 GPU 的定制 APU，与 PC 使用的 APU 区别并不大（游戏机配备的 RDNA5 CU 数量更多），因此玩 PC 游戏没多少问题，问题在于它如何控制玩家玩任意 PC 游戏。负责 Project Helix 业务的副总裁 Jason Ronald 表示， “我们的设计目标非常明确：Helix 是一款游戏",
+   "published_at": 1794838439.0,
+   "published_bj": "2026-11-16 22:13"
+  },
+  {
+   "id": "9f0363c1942338a5",
+   "source": "IT之家",
+   "title": "无方向盘的特斯拉 Cybercab 支持触屏手动驾驶，仅限低速应急场景",
+   "url": "https://www.ithome.com/1/027/967.htm",
+   "summary": "IT之家 11 月 16 日消息，特斯拉已将 Cybercab 无人驾驶出租车的私人使用版售价定为 2.999 万美元 （IT之家注：现汇率约合 20 万元人民币） ，并计划很快向用户发出购车邀请。这将使其成为特斯拉有史以来最便宜的车型。不过，与入门版 Model 3 后轮驱动版相比，Cybercab 看似低廉的售价背后，却隐藏着一笔不小的长期开销。 想要提车，用户必须同意每月向特斯拉支付 299 美元 （现汇率约合 1,997 元人民币） ，用于订阅无监督版 FSD 软件。没有这项服务，Cybercab 就无法正常发挥其主要功能。 不过，如果有需要，车主仍然可以手动操控车辆。 在 Cyber",
+   "published_at": 1794838239.0,
+   "published_bj": "2026-11-16 22:10"
+  },
+  {
    "id": "061500524c901788",
    "source": "InfoQ中文",
    "title": "AI 写得快，谁来接住生产责任",
@@ -58,6 +247,177 @@
    "published_bj": "2026-11-16 22:10"
   },
   {
+   "id": "281df639ce613a42",
+   "source": "IT之家",
+   "title": "5499 → 4499 元：苹果 iPad mini（A20 Pro）国补后立减 1000 元",
+   "url": "https://www.ithome.com/1/027/966.htm",
+   "summary": "苹果 iPad mini（A20 Pro）搭载 8.5 英寸 OLED 屏幕，比上一代薄了 14%，采用 A20 Pro 芯片，今年 11 月 6 日发售，定价 5499 元起。 京东即日起发放 500 元叠加券，国补后低至 4499 元起： 点此领券 （每日限量） 京东 iPad mini A20 Pro 128G 起 标准版 券后 4499 元起 直达链接 部分地区教育优惠版也参与活动，128G 券后 4099 元，256G 券后 4899 元更划算： 京东 iPad mini A20 Pro 256G 教育优惠版 券后 4899 元 直达链接 据介绍，iPad mini（A20 Pro）",
+   "published_at": 1794838042.0,
+   "published_bj": "2026-11-16 22:07"
+  },
+  {
+   "id": "26a9280094b8ad45",
+   "source": "TechCrunch",
+   "title": "Mazama Energy has a solution for geothermal’s biggest drilling problem",
+   "url": "https://techcrunch.com/2026/11/16/mazama-energy-has-a-solution-for-geothermals-biggest-drilling-problem/",
+   "summary": "Khosla-backed Mazama Energy has developed a new way to supercool its geothermal drill bits, letting it drill faster and deeper in a quest to bring down the cost of electricity.",
+   "published_at": 1794837600.0,
+   "published_bj": "2026-11-16 22:00"
+  },
+  {
+   "id": "d7d1906f1edc88e3",
+   "source": "Hacker News",
+   "title": "Show HN: CheeseDB – agent memory where deleting a source deletes what it taught",
+   "url": "https://github.com/govinargo-labs/cheesedb",
+   "summary": "Article URL: https://github.com/govinargo-labs/cheesedb Comments URL: https://news.ycombinator.com/item?id=50517630 Points: 3 # Comments: 0",
+   "published_at": 1794837290.0,
+   "published_bj": "2026-11-16 21:54"
+  },
+  {
+   "id": "3e23ed4582ea9448",
+   "source": "IT之家",
+   "title": "华为徐直军回忆分布式基站诞生：2003 年余承东发现痛点，最终成为今天 3G、4G、5G 基站标准形态",
+   "url": "https://www.ithome.com/1/027/965.htm",
+   "summary": "IT之家 11 月 16 日消息，华为官方 X 账号 11 月 11 日分享了轮值董事长徐直军发表在美国《时代》杂志的文章《亲历华为创新之路：看见、亲历、引领》（《Inside Huawei's innovation journey: Seeing it,living it,leading it》）。 徐直军在文中回忆，2003 年，自己被任命为无线产品线总裁。当时这个部门只有 2000 多人，正在做 3G 产品。自己的使命，是让华为从固定网络设备供应商，转变为同时提供固定和移动网络设备的供应商。 他透露，当时余承东负责 WCDMA 产品 —— 这是支撑 3G 网络的主要技术之一。与荷兰运营商",
+   "published_at": 1794837118.0,
+   "published_bj": "2026-11-16 21:51"
+  },
+  {
+   "id": "bdd2ed8f8dfa2649",
+   "source": "Hacker News",
+   "title": "What the fuck is w2rt6byl5nf1opmc-a.com?",
+   "url": "https://jack.cab/blog/siterate",
+   "summary": "Article URL: https://jack.cab/blog/siterate Comments URL: https://news.ycombinator.com/item?id=50517602 Points: 214 # Comments: 68",
+   "published_at": 1794837098.0,
+   "published_bj": "2026-11-16 21:51"
+  },
+  {
+   "id": "ccd68b7ecacc5350",
+   "source": "Hacker News",
+   "title": "Amazon's Discount Illusion: 1 in 3 \"Deals\" Offered No Savings– 1 in 10 Cost More",
+   "url": "http://groundworkcollaborative.org/news/amazons-decoy-deals-groundwork-investigation-reveals-nearly-1-in-3-black-friday-and-cyber-monday-deals-advertised-by-amazon-offered-no-savings-to-shoppers-nearly-1-in-10-w/",
+   "summary": "Article URL: http://groundworkcollaborative.org/news/amazons-decoy-deals-groundwork-investigation-reveals-nearly-1-in-3-black-friday-and-cyber-monday-deals-advertised-by-amazon-offered-no-savings-to-shoppers-nearly-1-in-10-w/ Comments URL: https://news.ycombinator.com/item?id=50517488 Points: 153 # ",
+   "published_at": 1794836347.0,
+   "published_bj": "2026-11-16 21:39"
+  },
+  {
+   "id": "e880aa4e2de7b950",
+   "source": "IT之家",
+   "title": "何小鹏：明年二季度将面向外部商业客户发布小鹏 IRON 人形机器人",
+   "url": "https://www.ithome.com/1/027/964.htm",
+   "summary": "IT之家 11 月 16 日消息，据蓝鲸新闻报道，今日晚间在小鹏集团 2026 年 Q3 财报电话会上，其董事长、CEO 何小鹏预告，在接下来的小鹏科技日和广州车展，最新版本的小鹏 IRON 将会公开亮相，将展示一系列与众不同的能力。 何小鹏透露，明年一季度，量产的首批机器人将进入小鹏的部分门店开启试用；明年二季度，小鹏将面向外部的商业客户正式发布小鹏 IRON。被问及小鹏在此领域的护城河，何小鹏指出，最重要的是做好包括硬件本体能力，规模的商业化、生产制造和销售能力，以及高质量、多样性的数据能力等。 何小鹏表示，高阶智能是小鹏机器人最大的优势，IRON 支持多人识别与身份记忆，在与人交互时会实",
+   "published_at": 1794835662.0,
+   "published_bj": "2026-11-16 21:27"
+  },
+  {
+   "id": "e26f9ca220a390eb",
+   "source": "IT之家",
+   "title": "华为徐直军透露 2012 实验室名字取自电影《2012》，自动驾驶、5G、昇腾芯片都在此完成孵化",
+   "url": "https://www.ithome.com/1/027/963.htm",
+   "summary": "IT之家 11 月 16 日消息，华为官方 X 账号 11 月 11 日分享了轮值董事长徐直军发表在美国《时代》杂志的文章《亲历华为创新之路：看见、亲历、引领》（《Inside Huawei's innovation journey: Seeing it, living it, leading it》）。 他在文中以第一人称讲述了华为从攻关数字程控交换机，到确立在移动通信领域的全球领先地位，再到成立 2012 实验室，孵化 5G、自动驾驶与昇腾芯片项目，并在人工智能赛道抢占先机的历程。 据徐直军透露，2011 年，华为把公司的研究团队整合为一个新组织 —— 2012 实验室， 名字取自电影《2",
+   "published_at": 1794835610.0,
+   "published_bj": "2026-11-16 21:26"
+  },
+  {
+   "id": "8c60182120b0725a",
+   "source": "Hacker News",
+   "title": "Microsoft blames monster email outage on software defect introduced in July fix",
+   "url": "https://www.theregister.com/saas/2026/11/16/microsoft-blames-monster-email-outage-on-software-defect-introduced-in-july-fix/5310026",
+   "summary": "Article URL: https://www.theregister.com/saas/2026/11/16/microsoft-blames-monster-email-outage-on-software-defect-introduced-in-july-fix/5310026 Comments URL: https://news.ycombinator.com/item?id=50517321 Points: 34 # Comments: 36",
+   "published_at": 1794835102.0,
+   "published_bj": "2026-11-16 21:18"
+  },
+  {
+   "id": "9c4d289148f46272",
+   "source": "IT之家",
+   "title": "奇瑞捷途环游者 EV 预售发布：猎鹰 500 辅助驾驶、67.2kWh 犀牛电池，9.99 万元起",
+   "url": "https://www.ithome.com/1/027/962.htm",
+   "summary": "IT之家 11 月 16 日消息，奇瑞捷途环游者 EV 新车今晚开启预售，定位紧凑型纯电 SUV，并搭载猎鹰 500 辅助驾驶，预售价 9.99-14.59 万元。 车型 预售价 550km 后驱畅行版 9.99 万元 550km 后驱智行版 10.99 万元 550km 后驱智臻版 12.49 万元 550km 后驱智臻版+ 12.69 万元 510km XWD 四驱智臻版 14.59 万元 据介绍，环游者 EV 是捷途首款纯电车型，承袭方盒基因，采用东西方美学融合的全新设计语言，宣称优中韩美法意多国设计师联合研发，拥有 1:1 宽高比、0.61 轴长比黄金比例车身，并配备了星环之眼大灯。 ",
+   "published_at": 1794835053.0,
+   "published_bj": "2026-11-16 21:17"
+  },
+  {
+   "id": "57256bfe9ab97423",
+   "source": "IT之家",
+   "title": "布加迪车主平均年龄降至 42 岁，有藏家坐拥 14 台",
+   "url": "https://www.ithome.com/1/027/960.htm",
+   "summary": "IT之家 11 月 16 日消息，布加迪（Bugatti）通常与老钱家族、奢华生活方式以及收藏多年豪车的富豪联系在一起。不过，这家法国超豪华汽车品牌的客户群体正在变得年轻化。数据显示，布加迪客户的平均年龄已经从 52 岁降至约 42 岁。 这一数据来自布加迪美洲公司首席执行官萨沙 · 多林（Sascha Doering）。他在接受 ABC News 采访时表示，布加迪正受到越来越多年轻买家的关注。虽然他没有公布具体的客户年龄分布，但平均年龄下降了 10 岁，说明布加迪正在成功吸引新一代超级富豪汽车爱好者。 年轻客户增多，并不意味着布加迪的老客户正在失去兴趣。多林透露，北美有一位客户竟然拥有 1",
+   "published_at": 1794834112.0,
+   "published_bj": "2026-11-16 21:01"
+  },
+  {
+   "id": "2dd173c695fae0fb",
+   "source": "IT之家",
+   "title": "一汽-大众纯电轿车 ID. AURA L5 开启盲订：全系 CLTC 纯电续航 580KM、激光雷达上车",
+   "url": "https://www.ithome.com/1/027/959.htm",
+   "summary": "IT之家 11 月 16 日消息，一汽-大众旗下全新纯电轿车 ID. AURA L5 今日正式开启预订，新车是 ID. AURA 序列首款纯电家轿，全系 CLTC 纯电续航 580KM， 支付 99 元意向金可抵 2,000 元购车款 。 新车定位“智能大掀背、超级家轿”，与 ID. AURA T6 共同组成一汽-大众“新能源双子星”。共提供花雾紫、云雀灰、浅湾青、潮汐银、沐光金、初雪白六款外饰颜色。 其中，入门的 580 Plus 配备 17 英寸轮毂、电动尾门、主驾 6 向电动调节座椅、50W 风冷无线充电、10.25 英寸液晶仪表与 15.6 英寸 2.5K 中控屏，支持 L2 级辅助驾",
+   "published_at": 1794834061.0,
+   "published_bj": "2026-11-16 21:01"
+  },
+  {
+   "id": "e498e62e92227c2b",
+   "source": "TechCrunch",
+   "title": "After dodging death, battery startup Our Next Energy is now going public",
+   "url": "https://techcrunch.com/2026/11/16/after-dodging-death-battery-startup-our-next-energy-is-now-going-public/",
+   "summary": "Our Next Energy is the latest battery startup to go public via SPAC. Does it now have what it needs to survive in a the cutthroat battery industry?",
+   "published_at": 1794834000.0,
+   "published_bj": "2026-11-16 21:00"
+  },
+  {
+   "id": "c77d569d12daa697",
+   "source": "TechCrunch",
+   "title": "Bedrock Energy raises $24M to build more AI-enabled geothermal drill rigs for enterprise buildings",
+   "url": "https://techcrunch.com/2026/11/16/bedrock-energy-raises-24m-to-build-more-ai-enabled-geothermal-drill-rigs-for-enterprise-buildings/",
+   "summary": "Geothermal heat pumps could free up significant space on the grid. Bedrock Energy raised $24 million to bring its AI-guided drill rigs to more markets.",
+   "published_at": 1794834000.0,
+   "published_bj": "2026-11-16 21:00"
+  },
+  {
+   "id": "99ecf679a2e1a260",
+   "source": "IT之家",
+   "title": "华为星芒 OSTA O1 Pro 新机更多配置信息曝光：新增无充电器版本，黑白紫三色可选",
+   "url": "https://www.ithome.com/1/027/958.htm",
+   "summary": "IT之家 11 月 16 日消息，本月早些时候，华为官宣，鸿蒙智行享界 V8 及星芒品牌发布会定档 2026 年 11 月 20 日 14:30。 随着发布会临近，华为全新子品牌 —— 星芒首款机型越来越多的配置信息曝光。今日早些时候，OSTA O1 Pro 真机谍照已在各大平台流出。画面显示，该机外观与 Pura X View 相近，但摄像头少了一枚，同时背板部分改用纯色设计。 据博主 @熊猫很禿然 透露，华为星芒 OSTA O1 Pro 搭载的是 Pura X View 同款麒麟 9030S 处理器 ，取消了超广角镜头、无线充电、北斗卫星消息等外围配置， 但新增 16GB 运存规格 ，并提",
+   "published_at": 1794833492.0,
+   "published_bj": "2026-11-16 20:51"
+  },
+  {
+   "id": "cd83829af1b0f10f",
+   "source": "IT之家",
+   "title": "华为轮值董事长徐直军罕见在《时代》撰文，从 1993 年出发第一视角讲述华为 33 年创新之路",
+   "url": "https://www.ithome.com/1/027/957.htm",
+   "summary": "IT之家 11 月 16 日消息，华为官方 X 账号 11 月 11 日分享了轮值董事长徐直军发表在美国《时代》杂志的文章《亲历华为创新之路：看见、亲历、引领》（《Inside Huawei's innovation journey: Seeing it, living it, leading it》）。 徐直军 1993 年加入华为，经历了华为依靠人才与持续研发投入实现从跟跑、并跑到领跑的全过程。他在文中以第一人称讲述了华为从攻关数字程控交换机，到确立在移动通信领域的全球领先地位，再到成立 2012 实验室，孵化 5G、自动驾驶与昇腾芯片项目，并在人工智能赛道抢占先机的历程。 文中提到，徐直",
+   "published_at": 1794832777.0,
+   "published_bj": "2026-11-16 20:39"
+  },
+  {
+   "id": "17ffc9d72be470c2",
+   "source": "IT之家",
+   "title": "华硕“VY249HG3”23.8 英寸显示器发售：1080P 180Hz，599 元",
+   "url": "https://www.ithome.com/1/027/956.htm",
+   "summary": "IT之家 11 月 16 日消息，华硕旗下“VY249HG3”23.8 英寸显示器现已在京东发售，该机主打 1080P 180Hz，定价为 599 元。 京东 华硕“VY249HG3”显示器 599 元 直达链接 该机配备一块 1920x1080 分辨率 180Hz 超频 IPS 面板，亮度 300 尼特，对比度 1500:1，MPRT 响应速度 1ms，覆盖 99% sRGB 色域。 该机支架支持升降 / 倾斜 / 旋转，显示器本体支持 VESA 100x100mm 壁挂，提供 HDMI 2.1、VGA、3.5mm 音频接口。 京东 11.11 无门槛红包 面额至高 26888 元，每天抽 ",
+   "published_at": 1794832660.0,
+   "published_bj": "2026-11-16 20:37"
+  },
+  {
+   "id": "61623b403eeab156",
+   "source": "IT之家",
+   "title": "OPPO Enco Clip2 耳夹式耳机新增“粉黛海”配色，首销优惠价 719.1 元",
+   "url": "https://www.ithome.com/1/027/954.htm",
+   "summary": "IT之家 11 月 16 日消息，在今天进行的 OPPO Reno17 系列手机发布会中，OPPO 为旗下 Enco Clip2 耳夹式耳机新增“粉黛海”全新配色，定价为 799 元，首销优惠价 719.1 元。 京东 OPPO Enco Clip2“粉黛海”配色 券后 719.1 元 领 60 元券 OPPO Enco Clip2 单耳重 5.2g，配备超薄自适应钛片；支持 40 小时超长续航，单次续航可达 9.5 小时。产品行业首发 6nm 芯片，号称可实现 100 倍降噪算力提升，带来超旗舰 AI 通话降噪。 同时，OPPO Enco Clip2 耳夹耳机携手北欧丹拿还原自然原声，支持殿",
+   "published_at": 1794832461.0,
+   "published_bj": "2026-11-16 20:34"
+  },
+  {
+   "id": "35cc964d4b4968c6",
+   "source": "IT之家",
+   "title": "巴菲特捐赠 55 亿美元伯克希尔股票，三个子女掌管的基金会均获赠",
+   "url": "https://www.ithome.com/1/027/953.htm",
+   "summary": "IT之家 11 月 16 日消息，亿万富翁沃伦 · 巴菲特（Warren Buffett）向四家慈善基金会捐赠了价值约 55 亿美元 （IT之家注：现汇率约合 367.31 亿元人民币） 的伯克希尔 · 哈撒韦（Berkshire Hathaway）股票，捐赠规模较去年进一步增加。 现年 96 岁的巴菲特将 6150 股伯克希尔 A 类股票转换为 922.5 万股 B 类股票，并将其中 369 万股捐赠给苏珊 · 汤普森 · 巴菲特基金会（The Susan Thompson Buffett Foundation），另外三家基金会各获得 184.5 万股，分别是舍伍德基金会（The Sherw",
+   "published_at": 1794832307.0,
+   "published_bj": "2026-11-16 20:31"
+  },
+  {
    "id": "5692a6eb9655c92e",
    "source": "TechCrunch",
    "title": "Freshworks alums raise $53M to take on Salesforce, HubSpot with AI-native CRM",
@@ -65,6 +425,15 @@
    "summary": "Dreamteam has signed up more than 100 customers across 13 countries, with some businesses switching from established CRMs.",
    "published_at": 1794832200.0,
    "published_bj": "2026-11-16 20:30"
+  },
+  {
+   "id": "4644c3622eb76b5d",
+   "source": "IT之家",
+   "title": "R 星再次向《GTA6》推送游戏更新补丁：版本号 1.002.001，体积 602.5MB",
+   "url": "https://www.ithome.com/1/027/952.htm",
+   "summary": "IT之家 11 月 16 日消息，Rockstar 今天（16 日）再次向 PS5 和 XBOX Series X 平台推送了《GTA 6》更新补丁， 版本号为 1.002.001 。 目前，R 星暂未公布更新说明，外界仅知悉相应补丁体积为 602.5MB，暂无法判断补丁具体修改了什么，也不清楚为什么必须强制安装。 此外，R 星没有一次性向所有玩家推送补丁，而是 先向 33% 的游戏持有者开放下载 。剩下的玩家需要再等 11-23 小时才能收到更新。 据IT之家了解，《GTA 6》定于 11 月 19 日登陆 PS5、XBOX Series X｜S，首发售价 80 美元（IT之家注：现汇率约合",
+   "published_at": 1794832084.0,
+   "published_bj": "2026-11-16 20:28"
   },
   {
    "id": "c1925913b7e30114",
