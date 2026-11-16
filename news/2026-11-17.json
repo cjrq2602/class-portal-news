@@ -1,7 +1,7 @@
 {
  "date": "2026-11-17",
- "generated_at": 1794843665.0123436,
- "count": 6,
+ "generated_at": 1794848675.438919,
+ "count": 17,
  "items": [
   {
    "id": "18723a6500b2fc6a",
@@ -40,6 +40,60 @@
    "published_bj": "2026-11-17 01:06"
   },
   {
+   "id": "1ecd0fed808a62fb",
+   "source": "TechCrunch",
+   "title": "OpenAI will embed Apollo researchers to investigate AI subversion",
+   "url": "https://techcrunch.com/2026/11/16/openai-will-embed-apollo-researchers-to-investigate-ai-subversion/",
+   "summary": "OpenAI will embed six Apollo Research evaluators to investigate whether its AI models engage in subversive behavior, but restrictions on access and disclosure raise questions about their independence.",
+   "published_at": 1794848563.0,
+   "published_bj": "2026-11-17 01:02"
+  },
+  {
+   "id": "35363c56abd4b030",
+   "source": "cnBeta",
+   "title": "三星将在德克萨斯州为SpaceX生产芯片",
+   "url": "https://www.cnbeta.com.tw/articles/tech/1586672.htm",
+   "summary": "马斯克与三星的合作关系进一步深化。据韩国媒体报道，三星将在美国得克萨斯州奥斯汀的既有晶圆厂，为意法半导体生产STM32V8微控制器；该芯片已被SpaceX选定为星链（Starlink）卫星硬件所用，未来将进入全球规模最大的低轨卫星互联网星座。 阅读全文",
+   "published_at": 1794848458.0,
+   "published_bj": "2026-11-17 01:00"
+  },
+  {
+   "id": "9cd31075f7583d2f",
+   "source": "TechCrunch",
+   "title": "OpenAI releases a new image classifier and ChatGPT warnings to combat CSAM",
+   "url": "https://techcrunch.com/2026/11/16/openai-releases-a-new-image-classifier-and-chatgpt-warnings-to-combat-csam/",
+   "summary": "ChatGPT will ban an account trying to access CSAM content for 24 hours as a warning",
+   "published_at": 1794848400.0,
+   "published_bj": "2026-11-17 01:00"
+  },
+  {
+   "id": "383f761c4ea4d791",
+   "source": "TechCrunch",
+   "title": "Instagram now lets creators add Amazon affiliate links in reels and feed posts",
+   "url": "https://techcrunch.com/2026/11/16/instagram-now-lets-creators-add-amazon-affiliate-links-in-reels-and-feed-posts/",
+   "summary": "While creators have long shared Amazon affiliate links through stories, DMs, and their bios, the new integration brings them to new parts of the app.",
+   "published_at": 1794848400.0,
+   "published_bj": "2026-11-17 01:00"
+  },
+  {
+   "id": "6cd6de301201e7ba",
+   "source": "cnBeta",
+   "title": "NVIDIA发布Rubin HPC GPU 加速科学、工程及分析领域的智能体应用",
+   "url": "https://www.cnbeta.com.tw/articles/tech/1586670.htm",
+   "summary": "英伟达在SC26大会上发布面向高性能计算的Rubin HPC GPU，旨在加速科学、工程和数据分析领域的模拟与数据处理，帮助AI智能体更快完成从假设到验证的科研与设计流程。该产品属于英伟达Vera Rubin平台，预计将于2028年上市。 阅读全文",
+   "published_at": 1794848364.0,
+   "published_bj": "2026-11-17 00:59"
+  },
+  {
+   "id": "cfb081c211c4835b",
+   "source": "IT之家",
+   "title": "华为全新子品牌星芒 OSTA O1 Pro 真机紫色款外观曝光：后置双摄，预计搭载麒麟 9030S 处理器",
+   "url": "https://www.ithome.com/1/028/006.htm",
+   "summary": "IT之家 11 月 17 日消息，本月早些时候，华为官宣，鸿蒙智行享界 V8 及星芒品牌发布会定档 2026 年 11 月 20 日 14:30。随着发布会临近，华为全新子品牌 —— 星芒首款机型越来越多的配置信息曝光。目前，OSTA O1 Pro 真机谍照已流出。 IT之家注意到，除了此次曝光了黑色款外， 另外一款紫色的 OSTA O1 Pro 的外观也已曝光 。 爆料还提到，这款新机会有白色款，不过目前尚无谍照曝出。作为参考，与其有着相同设计思路的华为 Pura X View 的白色款外观如下（结合星芒手机谍照来看，二者主要区别在于背板是否为纯色设计，以及摄像头数量差异）： IT之家整理华",
+   "published_at": 1794847822.0,
+   "published_bj": "2026-11-17 00:50"
+  },
+  {
    "id": "bdc80793f63f1ff0",
    "source": "InfoQ中文",
    "title": "DigitalOcean Managed Agents为AI智能体提供托管云基础设施",
@@ -49,6 +103,24 @@
    "published_bj": "2026-11-17 00:42"
   },
   {
+   "id": "ecfee152b10c84b7",
+   "source": "IT之家",
+   "title": "徐直军：华为早在 2009 年就启动 5G 研究，最终成为标准主要贡献者和全球最大专利持有者之一",
+   "url": "https://www.ithome.com/1/028/005.htm",
+   "summary": "IT之家 11 月 17 日消息，华为官方 X 账号分享了副董事长、轮值董事长徐直军发表在美国《时代》杂志的文章《亲历华为创新之路：看见、亲历、引领》（《Inside Huawei's innovation journey:Seeing it,living it,leading it》）。徐直军在文中以第一人称视角回顾了华为三十多年来的创新历程。 据徐直军回忆，2011 年， 华为把公司的研究团队整合为一个新组织 —— 2012 实验室 ，名字取自电影《2012》。2012 实验室作为持续创新投入的平台，涵盖基础研究、核心技术和工程能力。 自动驾驶、5G、昇腾芯片，都在这里完成孵化 。 徐直军",
+   "published_at": 1794847071.0,
+   "published_bj": "2026-11-17 00:37"
+  },
+  {
+   "id": "ca140579eab5147f",
+   "source": "IT之家",
+   "title": "徐直军：分布式基站和 SingleRAN 两个开创性方案，确立了华为在移动通信领域全球领先地位",
+   "url": "https://www.ithome.com/1/028/004.htm",
+   "summary": "IT之家 11 月 17 日消息，华为官方 X 账号分享了副董事长、轮值董事长徐直军发表在美国《时代》杂志的文章《亲历华为创新之路：看见、亲历、引领》（《Inside Huawei's innovation journey:Seeing it,living it,leading it》）。徐直军在文中以第一人称视角回顾了华为三十多年来的创新历程。 据徐直军回忆，余承东（现任华为常务董事、产品投资评审委员会主任、终端 BG 董事长）除了发现欧洲的站点获取成本高得惊人， 并提出分布式基站这一方案外 ，还在与西班牙电信德国公司的一次讨论中提出， 把 2G 和 3G 集成到一个基站里 。 后来，华为与",
+   "published_at": 1794846209.0,
+   "published_bj": "2026-11-17 00:23"
+  },
+  {
    "id": "eb54c0282525c4a1",
    "source": "InfoQ中文",
    "title": "Docker Sandbox Kit规范：将AI智能体权限打包为OCI镜像",
@@ -56,6 +128,33 @@
    "summary": "点击查看原文>",
    "published_at": 1794846131.0,
    "published_bj": "2026-11-17 00:22"
+  },
+  {
+   "id": "698808f12e36ae39",
+   "source": "Solidot",
+   "title": "Robert Pattinson 成为第七任 007",
+   "url": "https://www.solidot.org/story?sid=85905",
+   "summary": "英国演员 Robert Pattinson 成为继 Daniel Craig 之后的第七任 007，将出演首部由亚马逊制作的 007 电影。Robert Pattinson 也成为第一位出演过蝙蝠侠的 007 演员。在 Daniel Craig 获选饰演 007 时，他当时还不是一线明星；相比其他竞争第七任 007 的演员，Robert Pattinson 已经是一位知名度极高的明星，大多数人都听说过他的名字。亚马逊显然是希望由一名有强大票房号召力的明星领衔主演其首部 007 电影。",
+   "published_at": 1794845920.0,
+   "published_bj": "2026-11-17 00:18"
+  },
+  {
+   "id": "9c436fab1f55bf17",
+   "source": "cnBeta",
+   "title": "巴菲特捐赠55亿美元 感恩节信函称善意也会“复利增长”",
+   "url": "https://www.cnbeta.com.tw/articles/tech/1586668.htm",
+   "summary": "亿万富翁沃伦・巴菲特向四家慈善基金会捐赠价值约 55 亿美元的伯克希尔哈撒韦股票，本年度慈善捐赠规模较上一年有所加大。96 岁的巴菲特把 6150 股伯克希尔 A 类股转换为 922.5 万股 B 类股。其中 369 万股捐给苏珊・汤普森‑巴菲特基金会；另外分别向由他三名子女苏茜、霍华德、彼得・巴菲特运营的舍伍德基金会、霍华德・G・巴菲特基金会、诺沃基金会各捐赠 184.5 万股。 阅读全文",
+   "published_at": 1794845675.0,
+   "published_bj": "2026-11-17 00:14"
+  },
+  {
+   "id": "b3c19549d17f084f",
+   "source": "TechCrunch",
+   "title": "Serena Williams winds down her VC firm, launches new fund, targets $200M",
+   "url": "https://techcrunch.com/2026/11/16/serena-williams-winds-down-her-vc-firm-launches-new-fund-targets-200m/",
+   "summary": "Serena Williams and longtime business partner Beth Ferreira announced Monday the launch of an early-stage firm called Starfire Ventures.",
+   "published_at": 1794845190.0,
+   "published_bj": "2026-11-17 00:06"
   }
  ]
 }

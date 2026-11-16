@@ -1,7 +1,7 @@
 {
  "date": "2026-11-16",
- "generated_at": 1794843665.015547,
- "count": 375,
+ "generated_at": 1794848675.442433,
+ "count": 384,
  "items": [
   {
    "id": "8248b2f76811be8f",
@@ -11,6 +11,87 @@
    "summary": "点击查看原文>",
    "published_at": 1794844595.0,
    "published_bj": "2026-11-16 23:56"
+  },
+  {
+   "id": "908f1269849409ec",
+   "source": "TechCrunch",
+   "title": "Audible turns to AI to help users discover audiobooks",
+   "url": "https://techcrunch.com/2026/11/16/audible-turns-to-ai-to-help-users-discover-audiobooks/",
+   "summary": "Audible's new AI-generated audio previews summarize a book's themes and what readers liked about it, in addition to playing the narrated sample.",
+   "published_at": 1794844339.0,
+   "published_bj": "2026-11-16 23:52"
+  },
+  {
+   "id": "52f7dd070bc60178",
+   "source": "Solidot",
+   "title": "没有足够的植物纤维肠道细菌可能会吃你的肠道内壁",
+   "url": "https://www.solidot.org/story?sid=85904",
+   "summary": "植物性食物中的纤维和蛋白对我们有益，但它们是如何在人体内发挥有益作用的？普林斯顿大学研究团队在 PNAS 和 Nature Metabolism 期刊上发表了两篇论文，揭示了植物蛋白和纤维在体内转化为有益代谢产物的过程。研究人员针对了名为酚代谢物的化学物质：当肠道细菌消化特定氨基酸时会产生酚代谢物。酚代谢物源自两种氨基酸酪氨酸（tyrosine）和苯丙氨酸（phenylalanine）。研究人员发现，植物纤维和特定蛋白能影响这些氨基酸最终转化为何种化学物质。研究发现，植物纤维和无法被消化的蛋白 Prif 能改变酚代谢物的平衡，将原本由酪氨酸转化而成的有害代谢产物，转变为由苯丙氨酸衍生而来的有益",
+   "published_at": 1794844287.0,
+   "published_bj": "2026-11-16 23:51"
+  },
+  {
+   "id": "5fc1e2b1bf5ebdb7",
+   "source": "cnBeta",
+   "title": "DeepSeek“限额”？多名网友反馈收到提示：使用额度已达上限",
+   "url": "https://www.cnbeta.com.tw/articles/tech/1586666.htm",
+   "summary": "国产大模型DeepSeek的免费使用额度疑似遭到限制。11月16日，“DeepSeek使用额度已达上限”登上微博热搜。不少用户在社交媒体上反映，DeepSeek对App及网页版的使用额度进行了调整，包括限制长对话、每日使用额度以及单次文字输入长度。 阅读全文",
+   "published_at": 1794844078.0,
+   "published_bj": "2026-11-16 23:47"
+  },
+  {
+   "id": "216bf349a010c7c2",
+   "source": "cnBeta",
+   "title": "分析称《GTA6》的游戏内植入广告规模堪比奥运会",
+   "url": "https://www.cnbeta.com.tw/articles/game/1586664.htm",
+   "summary": "普华永道负责人Bart Spiegel认为，《GTA6》的影响力或将推动游戏内广告及相关技术投资。不过，这一判断针对的是行业投资趋势，并不意味着游戏本身已经确定加入广告。 阅读全文",
+   "published_at": 1794844066.0,
+   "published_bj": "2026-11-16 23:47"
+  },
+  {
+   "id": "a1532cc5bfc8e90e",
+   "source": "cnBeta",
+   "title": "爆料称HBO《哈利·波特》首集约70分钟并规划至少两部衍生剧",
+   "url": "https://www.cnbeta.com.tw/articles/movie/1586662.htm",
+   "summary": "HBO《哈利·波特》剧集的首集内容及后续规划近日遭到爆料。未经官方确认的消息称，首集时长约为1小时10分钟，主要描写哈利在德思礼家的成长经历，HBO内部还规划了至少两部衍生剧。 阅读全文",
+   "published_at": 1794844043.0,
+   "published_bj": "2026-11-16 23:47"
+  },
+  {
+   "id": "043f5d052e7da755",
+   "source": "cnBeta",
+   "title": "OpenAI曾洽谈以超50亿美元收购一家解析AI“思考”机制的初创公司",
+   "url": "https://www.cnbeta.com.tw/articles/tech/1586660.htm",
+   "summary": "今年夏天，OpenAI 内部团队急于搞清楚自家 AI 为何会在公司内外引发安全漏洞。在此期间，包括 CEO 山姆・奥特曼在内的多位高层，与初创企业 Goodfire 进行过多次会谈。Goodfire 得到 Anthropic 投资，其技术旨在弄清 AI 模型产生特定行为的底层原因，以及如何防止 AI 失控。 阅读全文",
+   "published_at": 1794843882.0,
+   "published_bj": "2026-11-16 23:44"
+  },
+  {
+   "id": "7c22d74eadfb078f",
+   "source": "cnBeta",
+   "title": "“没有危害国家安全” 特朗普支持黄仁勋重掌英伟达",
+   "url": "https://www.cnbeta.com.tw/articles/tech/1586658.htm",
+   "summary": "美国总统特朗普支持让黄仁勋重新担任英伟达首席执行官的呼声。周一启程前往亚洲之前，特朗普在白宫被记者问及黄仁勋是否可能重掌英伟达。“我不会介意，” 他说，“很多人都在问Jensen，他们认为Jensen应该回去。这当然不是个坏主意。” 阅读全文",
+   "published_at": 1794843842.0,
+   "published_bj": "2026-11-16 23:44"
+  },
+  {
+   "id": "dec058bd26fb45a7",
+   "source": "cnBeta",
+   "title": "网传360市场部负责人卜思被警方带走 涉嫌职务侵占等案件",
+   "url": "https://www.cnbeta.com.tw/articles/tech/1586656.htm",
+   "summary": "据报道，360副总裁，市场部负责人卜思南因涉嫌职务侵占等案件已在上周一被警方带走。公开信息显示，卜思南，360数字安全集团副总裁、360集团市场部负责人，兼任教育事业部总经理，拥有十余年网络安全行业经验。早期负责集团市场战略、品牌生态建设，后主管产教融合业务，对接数百所院校共建安全产业学院，牵头国家级产教融合共同体。 阅读全文",
+   "published_at": 1794843827.0,
+   "published_bj": "2026-11-16 23:43"
+  },
+  {
+   "id": "ba6c0af7d42f8956",
+   "source": "cnBeta",
+   "title": "GTA6黑客认罪：曾窃取未公开游戏片段并试图勒索Rockstar",
+   "url": "https://www.cnbeta.com.tw/articles/tech/1586654.htm",
+   "summary": "英国21岁黑客阿瑞恩·库尔塔伊（Arion Kurtaj）在伍尔维奇刑事法院承认多项网络犯罪指控，其中包括2022年入侵《侠盗猎车手6》（GTA 6）开发商Rockstar Games、窃取大量未公开游戏片段，并试图以此勒索公司。他此前因严重自闭症被裁定不适合接受传统刑事审判，曾在安全医院接受无限期羁押，但后来被认定具备受审能力，并于今年1月被移送至普通监狱。 阅读全文",
+   "published_at": 1794843686.0,
+   "published_bj": "2026-11-16 23:41"
   },
   {
    "id": "c4b1863cb8f8236c",
