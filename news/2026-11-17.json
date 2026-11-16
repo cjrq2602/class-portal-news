@@ -1,8 +1,17 @@
 {
  "date": "2026-11-17",
- "generated_at": 1794823010.6277483,
- "count": 5,
+ "generated_at": 1794828020.4027355,
+ "count": 6,
  "items": [
+  {
+   "id": "18723a6500b2fc6a",
+   "source": "InfoQ中文",
+   "title": "从自动扩缩容到跨池调度：作业帮如何让 Flink 计算资源节省 30%？",
+   "url": "https://www.infoq.cn/article/UTrbuCiAG5H9TiqcwgxI?utm_source=rss&utm_medium=article",
+   "summary": "点击查看原文>",
+   "published_at": 1794852066.0,
+   "published_bj": "2026-11-17 02:01"
+  },
   {
    "id": "8c86e551993e04fb",
    "source": "InfoQ中文",
