@@ -1,8 +1,17 @@
 {
  "date": "2026-11-17",
- "generated_at": 1794848774.7733662,
- "count": 17,
+ "generated_at": 1794852895.534369,
+ "count": 29,
  "items": [
+  {
+   "id": "709c7a346dea965e",
+   "source": "TechCrunch",
+   "title": "Sam Altman on Nvidia without Jensen Huang: the industry will be ‘fine’",
+   "url": "https://techcrunch.com/2026/11/16/sam-altman-on-nvidia-without-jensen-huang-the-industry-will-be-fine/",
+   "summary": "OpenAI CEO Sam Altman acknowledged the special role Nvidia CEO Jensen Huang has played in the AI boom, but ultimately thinks the industry will be “fine” without him at the helm.",
+   "published_at": 1794852670.0,
+   "published_bj": "2026-11-17 02:11"
+  },
   {
    "id": "18723a6500b2fc6a",
    "source": "InfoQ中文",
@@ -11,6 +20,42 @@
    "summary": "点击查看原文>",
    "published_at": 1794852066.0,
    "published_bj": "2026-11-17 02:01"
+  },
+  {
+   "id": "56818c3a07f80b4f",
+   "source": "Hacker News",
+   "title": "Michael Mann's 'Heat' Copyright Fight Turns on a Deal with Himself",
+   "url": "https://copyrightlately.com/michael-mann-heat-copyright-termination/",
+   "summary": "Article URL: https://copyrightlately.com/michael-mann-heat-copyright-termination/ Comments URL: https://news.ycombinator.com/item?id=50520518 Points: 3 # Comments: 0",
+   "published_at": 1794851543.0,
+   "published_bj": "2026-11-17 01:52"
+  },
+  {
+   "id": "36a680c02cc36096",
+   "source": "Hacker News",
+   "title": "Show HN: Claimseed, synthetic Medicare docs with planted errors and answer keys",
+   "url": "https://github.com/claimseed/claimseed",
+   "summary": "Article URL: https://github.com/claimseed/claimseed Comments URL: https://news.ycombinator.com/item?id=50520506 Points: 3 # Comments: 0",
+   "published_at": 1794851478.0,
+   "published_bj": "2026-11-17 01:51"
+  },
+  {
+   "id": "8b46bab9b0a34b35",
+   "source": "IT之家",
+   "title": "新任 007 演员官宣：“蝙蝠侠”罗伯特 · 帕丁森接棒，网友玩梗戏称新片为《007：黑暗骑士崛起》",
+   "url": "https://www.ithome.com/1/028/010.htm",
+   "summary": "IT之家 11 月 17 日消息，Prime Video 昨晚官宣， 新任 007 将由 40 岁的罗伯特 · 帕丁森饰演 。 目前，新片首曝预告片已播出。值得一提的是， 罗伯特 · 帕丁森还是史上首位同时出演蝙蝠侠和 007 詹姆斯 · 邦德的演员 。 有网友顺势玩梗，称新片可以命名为《007：黑暗骑士崛起》或《布鲁斯 · 韦恩在英国》 （梗解读：原著中，蝙蝠侠真实名字为布鲁斯 · 韦恩，该角色也被称为“黑暗骑士”。2012 年，由诺兰执导的剧情动作电影《蝙蝠侠：黑暗骑士崛起》上映） 。 IT之家查询获悉，《007》是英国系列谍战电影，改编自伊恩 · 弗莱明 1952 年创作的同名谍战小说。",
+   "published_at": 1794850998.0,
+   "published_bj": "2026-11-17 01:43"
+  },
+  {
+   "id": "67890cd923eb28c3",
+   "source": "TechCrunch",
+   "title": "FBI says Artex AI open-source hacking tool used to breach networks in ‘under three hours’",
+   "url": "https://techcrunch.com/2026/11/16/fbi-says-artex-ai-open-source-hacking-tool-used-to-breach-networks-in-under-three-hours/",
+   "summary": "The FBI says that the open-source hacking tool was used in cyberattacks targeting a U.S. IT giant and the South Korean financial industry.",
+   "published_at": 1794850603.0,
+   "published_bj": "2026-11-17 01:36"
   },
   {
    "id": "8c86e551993e04fb",
@@ -22,6 +67,15 @@
    "published_bj": "2026-11-17 01:36"
   },
   {
+   "id": "a46970c292289629",
+   "source": "Hacker News",
+   "title": "Grazing sheep in fields with solar arrays",
+   "url": "https://news.cornell.edu/stories/2026/10/sheep-grazing-solar-fields-offers-farmers-economic-ecological-gains",
+   "summary": "Article URL: https://news.cornell.edu/stories/2026/10/sheep-grazing-solar-fields-offers-farmers-economic-ecological-gains Comments URL: https://news.ycombinator.com/item?id=50520182 Points: 50 # Comments: 16",
+   "published_at": 1794850066.0,
+   "published_bj": "2026-11-17 01:27"
+  },
+  {
    "id": "710e72c08a66c71b",
    "source": "InfoQ中文",
    "title": "Uber Eats重建搜索流水线，端到端延迟降低50%",
@@ -31,6 +85,33 @@
    "published_bj": "2026-11-17 01:24"
   },
   {
+   "id": "da0040388ff7637d",
+   "source": "Hacker News",
+   "title": "Ask HN: If AI tools are so good, why isn't your bug backlog empty?",
+   "url": "https://news.ycombinator.com/item?id=50520076",
+   "summary": "A lot of people outside tech ask me if AI is going to replace programmers and I just think: if that were the case we should be running out of things to do The bug backlog should be empty and we've caught up to every feature request from PMs to the point that we are bottlenecked on the business side ",
+   "published_at": 1794849628.0,
+   "published_bj": "2026-11-17 01:20"
+  },
+  {
+   "id": "98c31bc45d6eb69b",
+   "source": "IT之家",
+   "title": "消息人士称 360 市场负责人卜思南涉嫌职务侵占已被警方带走调查",
+   "url": "https://www.ithome.com/1/028/009.htm",
+   "summary": "IT之家 11 月 17 日消息，综合第一财经、鞭牛士报道，多位消息人士透露， 360 副总裁、市场部负责人卜思南因涉嫌职务侵占等案件已在上周一被警方带走调查 。截至发稿，360 方面暂未回应。 今年 8 月，360 集团宣布，为推进“安全 +AI”战略，对集团市场与传播中心进行组织调整，设立公关部和市场部，任命卜思南为市场部负责人，向周鸿祎汇报。 消息人士还透露，除了卜思南涉案外， 内部或许还有相关人员被带走调查 。 IT之家查询获悉，卜思南是 360 集团副总裁、360 集团市场部负责人、360 数字安全集团教育事业部总经理、ISC 品牌主理人。卜思南早期负责集团市场战略、品牌生态建设，后",
+   "published_at": 1794849403.0,
+   "published_bj": "2026-11-17 01:16"
+  },
+  {
+   "id": "72948622407b2820",
+   "source": "TechCrunch",
+   "title": "Jordan Belfort’s new AI voice startup, Tone, wants to sell like the ‘Wolf of Wall Street’",
+   "url": "https://techcrunch.com/2026/11/16/jordan-belforts-new-ai-voice-startup-tone-wants-to-sell-like-the-wolf-of-wall-street/",
+   "summary": "Belfort claims his AI sales voice can already close deals almost as well as the best human salespeople, and he thinks it will catch up in a year.",
+   "published_at": 1794849000.0,
+   "published_bj": "2026-11-17 01:10"
+  },
+  {
    "id": "921576ddd228c72d",
    "source": "InfoQ中文",
    "title": "Envoy Gateway 1.9.1强化安全性并解决棘手的升级问题",
@@ -38,6 +119,15 @@
    "summary": "点击查看原文>",
    "published_at": 1794848784.0,
    "published_bj": "2026-11-17 01:06"
+  },
+  {
+   "id": "0e1991ef5bf23a5e",
+   "source": "IT之家",
+   "title": "华为 Mate 90 系列手机 HarmonyOS 7 小艺 AI 快捷栏适配效果公开",
+   "url": "https://www.ithome.com/1/028/007.htm",
+   "summary": "IT之家 11 月 17 日消息，在今年 9 月 7 日的 HarmonyOS 7 | HUAWEI Mate XT 2 及全场景新品发布会上，鸿蒙 7 操作系统正式发布。在发布会现场，华为还剧透了全新功能 —— 小艺 AI 快捷栏。官方 PPT 页面显示，该功能开启后，小艺将在手机桌面底部的 Dock 栏常驻。 根据最新规划， 华为 Mate 90、Mate 90 Pro、Mate 90 RS、Pura X View 会首批支持 HarmonyOS 7 系统的小艺 AI 快捷栏功能 。IT之家注意到，华为开发者官网实际上已公开 Mate 90 系列手机小艺 AI 快捷栏适配效果。 从画面可以",
+   "published_at": 1794848715.0,
+   "published_bj": "2026-11-17 01:05"
   },
   {
    "id": "1ecd0fed808a62fb",
@@ -85,6 +175,15 @@
    "published_bj": "2026-11-17 00:59"
   },
   {
+   "id": "192ead452571b192",
+   "source": "Hacker News",
+   "title": "Jiff 1.0: A datetime library for Rust",
+   "url": "https://burntsushi.net/jiff/",
+   "summary": "Article URL: https://burntsushi.net/jiff/ Comments URL: https://news.ycombinator.com/item?id=50519744 Points: 65 # Comments: 16",
+   "published_at": 1794848019.0,
+   "published_bj": "2026-11-17 00:53"
+  },
+  {
    "id": "cfb081c211c4835b",
    "source": "IT之家",
    "title": "华为全新子品牌星芒 OSTA O1 Pro 真机紫色款外观曝光：后置双摄，预计搭载麒麟 9030S 处理器",
@@ -118,6 +217,15 @@
    "url": "https://www.ithome.com/1/028/004.htm",
    "summary": "IT之家 11 月 17 日消息，华为官方 X 账号分享了副董事长、轮值董事长徐直军发表在美国《时代》杂志的文章《亲历华为创新之路：看见、亲历、引领》（《Inside Huawei's innovation journey:Seeing it,living it,leading it》）。徐直军在文中以第一人称视角回顾了华为三十多年来的创新历程。 据徐直军回忆，余承东（现任华为常务董事、产品投资评审委员会主任、终端 BG 董事长）除了发现欧洲的站点获取成本高得惊人， 并提出分布式基站这一方案外 ，还在与西班牙电信德国公司的一次讨论中提出， 把 2G 和 3G 集成到一个基站里 。 后来，华为与",
    "published_at": 1794846209.0,
+   "published_bj": "2026-11-17 00:23"
+  },
+  {
+   "id": "252a9c7271f3af69",
+   "source": "Hacker News",
+   "title": "Jolt – Clojure that speaks C",
+   "url": "https://jolt-lang.net/",
+   "summary": "Article URL: https://jolt-lang.net/ Comments URL: https://news.ycombinator.com/item?id=50519345 Points: 3 # Comments: 0",
+   "published_at": 1794846181.0,
    "published_bj": "2026-11-17 00:23"
   },
   {
