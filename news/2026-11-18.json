@@ -1,8 +1,386 @@
 {
  "date": "2026-11-18",
- "generated_at": 1794934656.186056,
- "count": 22,
+ "generated_at": 1794956994.1074932,
+ "count": 84,
  "items": [
+  {
+   "id": "5a3c5ccc739a343d",
+   "source": "IT之家",
+   "title": "微软最具性价比网安 AI 模型 MAI Cyber 2 Flash 登场：性能比肩 GPT-6 Astra，每任务成本不到 2%",
+   "url": "https://www.ithome.com/1/028/585.htm",
+   "summary": "IT之家 11 月 18 日消息，微软 AI 部门于 11 月 17 日发布全新专用安全模型 C， 定位为面向企业安全团队的“高性价比”网络安全 AI。 该模型旨在帮助安全人员全天候发现软件漏洞、推荐修复方案并调查网络威胁，同时显著降低大规模使用 AI 的算力与成本。 微软称，MAI Cyber 2 Flash 基于其多年积累的专有安全数据与安全研究经验构建。在衡量真实漏洞发现能力的 CyberGym-E2E 基准中，该模型取得 92.3% 的任务成功率，略高于 GPT-6 Astra 的 91.5%；而微软披露的每任务成本不足后者的 2%。该结果是在剔除 92 个与训练数据来源重叠的任务后、",
+   "published_at": 1794956815.0,
+   "published_bj": "2026-11-18 07:06"
+  },
+  {
+   "id": "85e95023949f0ce1",
+   "source": "cnBeta",
+   "title": "苹果内部更新引发大范围服务中断 公司正着手恢复",
+   "url": "https://www.cnbeta.com.tw/articles/tech/1586858.htm",
+   "summary": "苹果公司一次内部更新在周二引发大范围服务中断，App Store、员工内部工具、零售业务和消费者服务均受到影响，公司正在陆续恢复相关系统。这是近期美国企业和政府机构接连发生系统故障中的最新一起。上周，微软的数据中心出现程序错误，导致Outlook、Teams和Copilot助手等多项热门服务瘫痪。上周五，美国联邦航空管理局（FAA）空中交通管制设施发生设备故障，造成全美航班停飞逾四小时。 阅读全文",
+   "published_at": 1794956799.0,
+   "published_bj": "2026-11-18 07:06"
+  },
+  {
+   "id": "c10fb738a68b7b6e",
+   "source": "TechCrunch",
+   "title": "Nvidia says its open-source AI strategy remains intact after Jensen Huang’s exit",
+   "url": "https://techcrunch.com/2026/11/17/nvidia-says-its-open-source-ai-strategy-remains-intact-after-jensen-huangs-exit/",
+   "summary": "Nvidia's interim CEO reaffirmed its open-source AI strategy and plans to acquire Hugging Face, despite Jensen Huang's sudden departure.",
+   "published_at": 1794956675.0,
+   "published_bj": "2026-11-18 07:04"
+  },
+  {
+   "id": "dd1425d30a34255c",
+   "source": "cnBeta",
+   "title": "外媒估算《GTA6》主机预购量约1588万份",
+   "url": "https://www.cnbeta.com.tw/articles/game/1586856.htm",
+   "summary": "市场数据机构Sensor Tower最新追踪估算显示，《GTA6》在PlayStation和Xbox平台的预购量已达约1588万份，对应收入约15.4亿美元。其中约75%的预购来自PS5。 阅读全文",
+   "published_at": 1794956548.0,
+   "published_bj": "2026-11-18 07:02"
+  },
+  {
+   "id": "151dec7e17e9604c",
+   "source": "cnBeta",
+   "title": "神舟二十四号船箭组合体转运至发射区 首次搭载外籍航天员",
+   "url": "https://www.cnbeta.com.tw/articles/science/1586854.htm",
+   "summary": "昨晚，神舟二十四号载人飞船与长征二号F遥二十四运载火箭组合体已转运至发射区，发射场设施设备状态良好。后续将按计划开展发射前的各项功能检查、联合测试等工作，计划近日择机实施发射。 本次任务由长征二号F遥二十四运载火箭托举神舟二十四号载人飞船升空，长征二号F是中国载人航天工程的专用载人运载火箭，主要承担神舟系列飞船的发射任务，火箭具备故障检测与逃逸救生系统，用于保障航天员发射阶段的飞行安全。 阅读全文",
+   "published_at": 1794956492.0,
+   "published_bj": "2026-11-18 07:01"
+  },
+  {
+   "id": "501956f7c000c118",
+   "source": "IT之家",
+   "title": "TGA 2026 年度游戏入围名单公布：含《GTA6》《影之刃零》《塞尔达传说：时之笛》重制版等",
+   "url": "https://www.ithome.com/1/028/584.htm",
+   "summary": "IT之家 11 月 18 日消息，TGA（游戏大奖）今日公布 2026 年度游戏入围名单。 IT之家注意到，本次入围的游戏有《007：初露锋芒》《控制：共振》《侠盗猎车手 VI》《影之刃零》《生化危机：安魂曲》和《塞尔达传说：时之笛》重制版。究竟哪款游戏能夺得 2026 年度游戏呢？ 答案将在北京时间 12 月 11 日开始揭晓 。",
+   "published_at": 1794956484.0,
+   "published_bj": "2026-11-18 07:01"
+  },
+  {
+   "id": "7ee6dc24e93e4647",
+   "source": "cnBeta",
+   "title": "英伟达董事长：无意让黄仁勋回归重新担任CEO",
+   "url": "https://www.cnbeta.com.tw/articles/tech/1586852.htm",
+   "summary": "11月18日，据CNBC报道，英伟达新任董事长哈维·琼斯(Harvey Jones)周二表示，无意让黄仁勋(Jensen Huang)回归重新担任CEO。 阅读全文",
+   "published_at": 1794956464.0,
+   "published_bj": "2026-11-18 07:01"
+  },
+  {
+   "id": "d6155492994af4c9",
+   "source": "cnBeta",
+   "title": "研究称先进AI模型在模拟场景中经常将平民等误判为军事目标",
+   "url": "https://www.cnbeta.com.tw/articles/tech/1586850.htm",
+   "summary": "一项新的独立研究报告显示，在模拟场景中，先进人工智能模型经常将平民、救护车、投降士兵以及伊朗的一所学校误判为军事目标。Anthropic PBC的模型表现最差，OpenAI的模型则属于表现最好的一类，但仍然会出现错误。 阅读全文",
+   "published_at": 1794956372.0,
+   "published_bj": "2026-11-18 06:59"
+  },
+  {
+   "id": "94553875496c9438",
+   "source": "cnBeta",
+   "title": "英伟达公布黄仁勋离职后的首份财报 利润和营收均超预期",
+   "url": "https://www.cnbeta.com.tw/articles/tech/1586848.htm",
+   "summary": "英伟达周二盘后公布的利润和营收均超出预期，并发布了强劲指引。这是这家芯片制造商自联合创始人黄仁勋上周突然辞去首席执行官职务以来的首份财报。 阅读全文",
+   "published_at": 1794956287.0,
+   "published_bj": "2026-11-18 06:58"
+  },
+  {
+   "id": "c15c527a1cd85d64",
+   "source": "cnBeta",
+   "title": "英伟达终迎利好 黄仁勋事件后的首份财报给出了稳健财测",
+   "url": "https://www.cnbeta.com.tw/articles/tech/1586846.htm",
+   "summary": "英伟达给出的营收展望超过了华尔街的预期，表明需求在首席执行官黄仁勋被迫下台后依然强劲。该公司在周二公布的财报中预计，第四财季营收将在1300亿美元上下浮动3%。分析师此前给出的平均预估为1253亿美元。当季毛利率将约为71.5%。 阅读全文",
+   "published_at": 1794956225.0,
+   "published_bj": "2026-11-18 06:57"
+  },
+  {
+   "id": "31dc8f7ea0c8d8dc",
+   "source": "IT之家",
+   "title": "微软宣布 PowerShell 7 将随 Windows 默认提供，Win11 26H2 为最后一个预启用 5.1 的版本",
+   "url": "https://www.ithome.com/1/028/583.htm",
+   "summary": "IT之家 11 月 18 日消息，微软今日宣布，未来的 Windows 版本将默认提供 PowerShell 7，逐步推动这款现代化命令行工具取代 Windows PowerShell 5.1。 微软 PowerShell 团队高级产品经理杰森 · 赫尔米克（Jason Helmick）介绍称，从下一个 Windows 版本开始，PowerShell 7 将作为 Windows PowerShell 5.1 的升级版本纳入系统。这也是 PowerShell 团队长期以来希望实现的目标之一。此前，Windows 内置的是 Windows PowerShell 5.1，而持续开发、支持跨平台运行并",
+   "published_at": 1794956162.0,
+   "published_bj": "2026-11-18 06:56"
+  },
+  {
+   "id": "9b978c0c85a27490",
+   "source": "IT之家",
+   "title": "“全球第一修图 AI 模型”：微软 MAI Image 2.7 登场，用 1/5 价格击败 GPT Image 2.6 登顶",
+   "url": "https://www.ithome.com/1/028/582.htm",
+   "summary": "IT之家 11 月 18 日消息，微软昨日（11 月 17 日）发布推出 MAI Image 2.7 和 MAI Image 2.7 Flash 图像生成与编辑模型，并上线由 Flash 驱动的交互式创作空间 Canvas。 费用方面，两款模型已在 Microsoft Foundry 开启公开预览，官方公布的每千张图片成本分别约为 35 美元 （IT之家注：现汇率约合 233.8 元人民币） 和 10 美元 （现汇率约合 66.8 元人民币） 。 此次更新重点强调“只改需要改的地方”。据微软介绍，MAI Image 2.7 可调整画面中物体的颜色、材质或位置，同时保持其余部分稳定，并在连续修改",
+   "published_at": 1794956112.0,
+   "published_bj": "2026-11-18 06:55"
+  },
+  {
+   "id": "ada518c0c341ab39",
+   "source": "IT之家",
+   "title": "谷歌更新 Gemini 隐私控制，可保留聊天记录且不参与 AI 训练",
+   "url": "https://www.ithome.com/1/028/581.htm",
+   "summary": "IT之家 11 月 18 日消息，谷歌昨日发布公告，宣布更新 Gemini 应用程序的控制选项， 允许用户自行决定是否将 Gemini 聊天记录用于 AI 模型训练 。 谷歌表示，新增的设置选项允许用户在保留 Gemini 聊天记录的同时，选择不将聊天记录用于生成式 AI 模型训练。用户仍然可以调整聊天记录的保存期限，并手动查看或删除聊天记录。 IT之家注意到，谷歌还将提升 Gemini 的安全性。如果用户关闭新的“历史记录”设置，之后产生的聊天内容仍会保存约两个月，用于向用户提供回复、处理用户反馈，以及保护谷歌、用户和公众的安全。",
+   "published_at": 1794955865.0,
+   "published_bj": "2026-11-18 06:51"
+  },
+  {
+   "id": "de253479ac7bb32d",
+   "source": "IT之家",
+   "title": "英伟达董事长明确表态：无意让黄仁勋回归重新担任 CEO",
+   "url": "https://www.ithome.com/1/028/580.htm",
+   "summary": "IT之家 11 月 18 日消息，据 CNBC 报道，英伟达新任董事长哈维 · 琼斯（Harvey C. Jones）在今日的财报电话会议上表示，董事会无意让黄仁勋（Jensen Huang）回归、重新担任公司 CEO。 琼斯在电话会议上谈及黄仁勋离职一事时表示，黄仁勋是在披露个人行为后辞去 CEO 职务的，相关行为“与公司的行为准则、标准和文化规范不符”。“英伟达董事会一致接受了他的辞呈，并且无意让黄仁勋重新出任 CEO。” 对于黄仁勋离职的具体情况，琼斯拒绝进一步透露细节，表示目前仍有独立调查正在进行，董事会将在适当时候公布更多信息。 在接任安排方面，英伟达首席财务官科莱特 · 克雷斯（C",
+   "published_at": 1794955630.0,
+   "published_bj": "2026-11-18 06:47"
+  },
+  {
+   "id": "49d0310f03706a9d",
+   "source": "IT之家",
+   "title": "微软性价比最高编程 AI 模型：MAI Code 2 用 5% 成本达 Claude Opus 5.5 约 96% 性能",
+   "url": "https://www.ithome.com/1/028/579.htm",
+   "summary": "IT之家 11 月 18 日消息，在今天召开的 Ignite 2026 活动中， 微软发布自研编程模型 MAI Code 2 和 MAI Code 2 Flash，并在 GitHub Copilot 上线。 IT之家附上相关视频如下： 定位方面，两款产品分别面向复杂软件开发与高频日常编程，主打在代码质量与使用成本之间取得更好平衡。 其中，Code 2 定位通用编程模型，可用于深度排查程序错误、跨多个文件修改代码、理解整个代码仓库及开发用户界面。微软称，该模型强调直接给出实用的代码修改方案，减少开发者与 AI 之间不必要的反复沟通，帮助代码走向实际部署。 Code 2 Flash 则更侧重轻量、",
+   "published_at": 1794955373.0,
+   "published_bj": "2026-11-18 06:42"
+  },
+  {
+   "id": "8da3d615acdcecf4",
+   "source": "TechCrunch",
+   "title": "Nvidia says it doesn’t plan to reappoint Jensen Huang as CEO",
+   "url": "https://techcrunch.com/2026/11/17/nvidia-says-it-doesnt-plan-to-reappoint-jensen-huang-as-ceo/",
+   "summary": "The former CEO offered to return to his top role at the company after his resignation last week.",
+   "published_at": 1794955347.0,
+   "published_bj": "2026-11-18 06:42"
+  },
+  {
+   "id": "9090e01dfbde9f94",
+   "source": "TechCrunch",
+   "title": "Amazon and Google will together own nearly 30% of Anthropic after its IPO",
+   "url": "https://techcrunch.com/2026/11/17/amazon-and-google-will-together-own-nearly-30-of-anthropic-after-its-ipo/",
+   "summary": "Amazon will own just under 15% of Anthropic after the IPO, with the option to go much higher. Google is a close second with holdings of nearly 14%.",
+   "published_at": 1794954545.0,
+   "published_bj": "2026-11-18 06:29"
+  },
+  {
+   "id": "c6091b01b6230c8a",
+   "source": "IT之家",
+   "title": "Anthropic 上市前夕 OpenAI 空降双模型 GPT-6.2 Astra 和 Sol：部分领域超越 Fable 5.2 且成本大降，金融、科研刷新纪录",
+   "url": "https://www.ithome.com/1/028/577.htm",
+   "summary": "IT之家 11 月 18 日消息，就在 Anthropic IPO 定价前一天，OpenAI 突然毫无预兆地送上了一份“惊喜”。 OpenAI 今日正式发布了最新的 GPT-6.2 Astra 和 GPT-6.2 Sol 模型，重点提升专业工作、编程、计算机操作及多步骤智能体任务的表现，同时降低完成任务所需的输出 Token 数量，在大部分测试中不输 Anthropic 旗舰模型。 OpenAI 介绍，GPT-6.2 Astra 是面向复杂专业项目的旗舰模型，在专业工作、科学研究、软件开发和视觉设计等领域进一步提升。该模型能够更准确地遵循用户提供的演示文稿模板，改善幻灯片、电子表格和文档的输出",
+   "published_at": 1794954222.0,
+   "published_bj": "2026-11-18 06:23"
+  },
+  {
+   "id": "82a100281f6eab11",
+   "source": "Hacker News",
+   "title": "Latent Lattice Language Models",
+   "url": "https://shivamduggal4.github.io/latent-lattice-language-models/",
+   "summary": "Article URL: https://shivamduggal4.github.io/latent-lattice-language-models/ Comments URL: https://news.ycombinator.com/item?id=50539039 Points: 3 # Comments: 0",
+   "published_at": 1794953838.0,
+   "published_bj": "2026-11-18 06:17"
+  },
+  {
+   "id": "f41df89082ad4617",
+   "source": "Hacker News",
+   "title": "Quad9's withdrawal from France: A canary in the coal mine",
+   "url": "https://blog.cloudflare.com/quad9-withdrawal-from-france/",
+   "summary": "Article URL: https://blog.cloudflare.com/quad9-withdrawal-from-france/ Comments URL: https://news.ycombinator.com/item?id=50538994 Points: 76 # Comments: 3",
+   "published_at": 1794953614.0,
+   "published_bj": "2026-11-18 06:13"
+  },
+  {
+   "id": "d4140160b96b2097",
+   "source": "TechCrunch",
+   "title": "SEC reportedly investigating Nvidia amid Huang exit",
+   "url": "https://techcrunch.com/2026/11/17/sec-reportedly-investigating-nvidia-amid-huang-exit/",
+   "summary": "The SEC is opening a probe into Nvidia following the departure of CEO Jensen Huang, who admitted to an affair with an alleged Chinese spy, reports The Wall Street Journal.",
+   "published_at": 1794952087.0,
+   "published_bj": "2026-11-18 05:48"
+  },
+  {
+   "id": "0e1ac2acae7db54a",
+   "source": "TechCrunch",
+   "title": "Google joins the tech outage trend by announcing it’s not having one",
+   "url": "https://techcrunch.com/2026/11/17/google-joins-the-tech-outage-trend-by-announcing-its-not-having-one/",
+   "summary": "With tech outages seemingly everywhere, Google took the unusual step of announcing that Gmail is working just fine, actually.",
+   "published_at": 1794951290.0,
+   "published_bj": "2026-11-18 05:34"
+  },
+  {
+   "id": "5157e55c852cde17",
+   "source": "IT之家",
+   "title": "英伟达公布黄仁勋离职后的首份财报：2027 财年前三季度归母净利润 1832.97 亿美元同比增长 137.72%，Q3 营收 1158.44 亿美元同比增长 103%",
+   "url": "https://www.ithome.com/1/028/575.htm",
+   "summary": "IT之家 11 月 18 日消息，英伟达今日发布 2027 财年（2026 年 1 月 26 日～2027 年 1 月 31 日）前三季度（2026 年 1 月 26 日～2026 年 10 月 25 日）及第三财季（2026 年 7 月 27 日～2026 年 10 月 25 日）报告： 2027 财年前三季度 营业总收入 ：2936.81 亿美元 （IT之家注：现汇率约合 1.96 万亿元人民币） ，同比增长 98.69% 毛利润 ：2199.76 亿美元 （现汇率约合 1.47 万亿元人民币） ，同比增长 114.88% 毛利率 ：74.9%，同比增长 5.6 个百分点 归母净利润 ：1",
+   "published_at": 1794950738.0,
+   "published_bj": "2026-11-18 05:25"
+  },
+  {
+   "id": "9660510089e05a3c",
+   "source": "Hacker News",
+   "title": "Java4Shell: RCE in OpenJDK when processing Base64",
+   "url": "https://calif.io/java4shell/",
+   "summary": "Article URL: https://calif.io/java4shell/ Comments URL: https://news.ycombinator.com/item?id=50538240 Points: 272 # Comments: 75",
+   "published_at": 1794949888.0,
+   "published_bj": "2026-11-18 05:11"
+  },
+  {
+   "id": "b47b44aa450598b5",
+   "source": "Hacker News",
+   "title": "Tencent Hy4 Flash",
+   "url": "https://hy.tencent.ai/research/hy4-flash",
+   "summary": "Article URL: https://hy.tencent.ai/research/hy4-flash Comments URL: https://news.ycombinator.com/item?id=50538184 Points: 9 # Comments: 1",
+   "published_at": 1794949568.0,
+   "published_bj": "2026-11-18 05:06"
+  },
+  {
+   "id": "02c9ad91ed0fa666",
+   "source": "cnBeta",
+   "title": "英国学校推出《GTA6》发售日出勤抽奖活动",
+   "url": "https://www.cnbeta.com.tw/articles/game/1586844.htm",
+   "summary": "英国英格兰奥克兰主教镇的圣约翰天主教学校暨六年级学院，针对学生可能因《GTA6》发售而缺课的情况，推出仅限发售日当天的出勤挑战。正常到校并完成全天课程的学生，可以参加一张65英镑亚马逊礼品卡的抽奖。 阅读全文",
+   "published_at": 1794949034.0,
+   "published_bj": "2026-11-18 04:57"
+  },
+  {
+   "id": "98bc236aa074246e",
+   "source": "cnBeta",
+   "title": "英伟达前首席执行官黄仁勋发布辞职后首份声明 称愿意回归公司",
+   "url": "https://www.cnbeta.com.tw/articles/tech/1586842.htm",
+   "summary": "上周辞去英伟达首席执行官一职后，黄仁勋发布首次公开声明。黄仁勋写道：“我给董事会造成麻烦，对此我深感懊悔。我完全承担自己犯下的错误，并承诺全力配合董事会的独立调查。”黄仁勋称，自己收到不少投资者与员工的支持，愿意回归首席执行官岗位，带领公司应对 “复杂的技术、市场、竞争以及地缘政治局势”。 阅读全文",
+   "published_at": 1794949004.0,
+   "published_bj": "2026-11-18 04:56"
+  },
+  {
+   "id": "5d0bf35e48359b4b",
+   "source": "cnBeta",
+   "title": "美国全国停飞事件后 FAA暂停安装新路由器",
+   "url": "https://www.cnbeta.com.tw/articles/tech/1586840.htm",
+   "summary": "美国联邦航空管理局（FAA）周二表示，将暂停安装新路由器，此前该技术问题导致该机构周五发布了罕见的全国地面停飞令。 阅读全文",
+   "published_at": 1794948967.0,
+   "published_bj": "2026-11-18 04:56"
+  },
+  {
+   "id": "b3187d08dbc3a3ff",
+   "source": "cnBeta",
+   "title": "Framework无线触控键盘开放预订：集成120Hz触控板 售价99美元",
+   "url": "https://www.cnbeta.com.tw/articles/tech/1586838.htm",
+   "summary": "模块化电脑制造商Framework推出的Wireless Touchpad Keyboard无线触控键盘现已正式开放预订。这款产品主打客厅和沙发场景，希望为用户提供比罗技经典K400更好的无线键盘体验，同时兼顾桌面电脑、电视、游戏主机及其他设备的操控需求。 阅读全文",
+   "published_at": 1794947844.0,
+   "published_bj": "2026-11-18 04:37"
+  },
+  {
+   "id": "a7c02efba39bc0b8",
+   "source": "cnBeta",
+   "title": "加州全面叫停Waymo高速公路运营 自动驾驶出租车再遭安全性质疑",
+   "url": "https://www.cnbeta.com.tw/articles/tech/1586836.htm",
+   "summary": "美国加利福尼亚州机动车辆管理局（DMV）已正式禁止Waymo的无人驾驶出租车在全州范围内使用高速公路开展运营。监管机构表示，该公司的自动驾驶系统在施工区域内多次出现危险行为，已经构成“对公共安全的紧迫威胁”。 阅读全文",
+   "published_at": 1794947810.0,
+   "published_bj": "2026-11-18 04:36"
+  },
+  {
+   "id": "b07a3940a642fc91",
+   "source": "cnBeta",
+   "title": "Google调整Gemini隐私策略 关闭历史记录后聊天保存期从72小时延长至两个月",
+   "url": "https://www.cnbeta.com.tw/articles/tech/1586834.htm",
+   "summary": "Google宣布，将延长Gemini临时聊天以及关闭聊天历史记录情况下对话数据的保存时间。从原先最长72小时提升至约两个月。该调整将在未来数周内逐步向全球Gemini应用用户推出。Google表示，此举旨在随着人工智能系统能力不断增强，进一步提升平台的安全性和可靠性。 阅读全文",
+   "published_at": 1794947787.0,
+   "published_bj": "2026-11-18 04:36"
+  },
+  {
+   "id": "35428babd3f1ef13",
+   "source": "cnBeta",
+   "title": "OpenAI发布GPT-6.2 Astra与GPT-6.2 Sol：性能大幅提升 成本显著下降",
+   "url": "https://www.cnbeta.com.tw/articles/tech/1586832.htm",
+   "summary": "OpenAI正式发布两款全新人工智能模型GPT-6.2 Astra和GPT-6.2 Sol，并宣称新模型在编程、科研、专业办公以及计算机操作等多个领域实现显著进步。与此同时，新模型能够以更少的Token消耗完成更多任务，让用户在现有使用额度下获得更高的工作效率。 阅读全文",
+   "published_at": 1794947578.0,
+   "published_bj": "2026-11-18 04:32"
+  },
+  {
+   "id": "b8b5857045b8882a",
+   "source": "Hacker News",
+   "title": "Web Browser Engineering (2021)",
+   "url": "https://browser.engineering/",
+   "summary": "Article URL: https://browser.engineering/ Comments URL: https://news.ycombinator.com/item?id=50537290 Points: 101 # Comments: 17",
+   "published_at": 1794945695.0,
+   "published_bj": "2026-11-18 04:01"
+  },
+  {
+   "id": "0969c0cd44274c9b",
+   "source": "Hacker News",
+   "title": "jQuery 4.1.0",
+   "url": "https://github.com/jquery/jquery/releases/tag/4.1.0",
+   "summary": "Article URL: https://github.com/jquery/jquery/releases/tag/4.1.0 Comments URL: https://news.ycombinator.com/item?id=50537156 Points: 204 # Comments: 105",
+   "published_at": 1794945040.0,
+   "published_bj": "2026-11-18 03:50"
+  },
+  {
+   "id": "b879e8a488f70c7e",
+   "source": "TechCrunch",
+   "title": "Waymo suspends freeway rides nationwide after California DMV order",
+   "url": "https://techcrunch.com/2026/11/17/waymo-suspends-freeway-rides-nationwide-after-california-dmv-order/",
+   "summary": "The DMV said Waymo's freeway operations pose an imminent hazard to public safety. Restrictions will remain in place until Waymo can demonstrate that it has taken \"effective corrective actions\" to address the deficiencies.",
+   "published_at": 1794944981.0,
+   "published_bj": "2026-11-18 03:49"
+  },
+  {
+   "id": "8710f7af4b70acb3",
+   "source": "Hacker News",
+   "title": "Effects of a Nuclear Detonation in Low Earth Orbit",
+   "url": "https://arxiv.org/abs/2611.09827",
+   "summary": "Article URL: https://arxiv.org/abs/2611.09827 Comments URL: https://news.ycombinator.com/item?id=50537120 Points: 57 # Comments: 25",
+   "published_at": 1794944817.0,
+   "published_bj": "2026-11-18 03:46"
+  },
+  {
+   "id": "944ae2cf11d5d15a",
+   "source": "TechCrunch",
+   "title": "Model ML raises $250M to automate investment banking grunt work",
+   "url": "https://techcrunch.com/2026/11/17/model-ml-raises-250m-to-automate-investment-banking-grunt-work/",
+   "summary": "The startup says its agents understand the full context of deals that bankers and consultants are working on and can automatically update financial models and presentations when new developments affect their analysis.",
+   "published_at": 1794943931.0,
+   "published_bj": "2026-11-18 03:32"
+  },
+  {
+   "id": "a3aaf4ec26a013ec",
+   "source": "Hacker News",
+   "title": "350 years ago, Ole Rømer discovered that light has a finite speed",
+   "url": "https://www.sciencenorway.no/culture-history-history-of-science/350-years-ago-this-man-discovered-that-light-has-a-finite-speed/2737969",
+   "summary": "Article URL: https://www.sciencenorway.no/culture-history-history-of-science/350-years-ago-this-man-discovered-that-light-has-a-finite-speed/2737969 Comments URL: https://news.ycombinator.com/item?id=50536813 Points: 197 # Comments: 63",
+   "published_at": 1794943527.0,
+   "published_bj": "2026-11-18 03:25"
+  },
+  {
+   "id": "69dca350f2afc0bf",
+   "source": "TechCrunch",
+   "title": "Google expands access to Gemini Tasks, which can help with calls, purchases",
+   "url": "https://techcrunch.com/2026/11/17/google-expands-access-to-gemini-tasks-which-can-help-with-calls-purchases/",
+   "summary": "Gemini's Task mode can help users coordinate calls, log into websites, and even make purchases on the user's behalf.",
+   "published_at": 1794942140.0,
+   "published_bj": "2026-11-18 03:02"
+  },
+  {
+   "id": "c6a97261cf159ffb",
+   "source": "Hacker News",
+   "title": "Launch HN: StarSling (YC P25) – Self-improving CI for agent-volume repos",
+   "url": "https://starsling.dev",
+   "summary": "We’re Yonas and Daniel and we’re building StarSling ( https://starsling.dev ), fast GitHub Actions runners with AI agents that ship PRs to continuously improve your tests and workflows. Every CI job gets its own ephemeral sandbox on the fastest Zen 5 machines and NVMe Disk with unlimited concurrency",
+   "published_at": 1794942103.0,
+   "published_bj": "2026-11-18 03:01"
+  },
+  {
+   "id": "163084627fae1c50",
+   "source": "Hacker News",
+   "title": "Solid 2.0",
+   "url": "https://www.solidjs.com/blog/solid-2-0-the-long-hold/",
+   "summary": "Article URL: https://www.solidjs.com/blog/solid-2-0-the-long-hold/ Comments URL: https://news.ycombinator.com/item?id=50536387 Points: 176 # Comments: 47",
+   "published_at": 1794941777.0,
+   "published_bj": "2026-11-18 02:56"
+  },
+  {
+   "id": "26560923d876ec5d",
+   "source": "TechCrunch",
+   "title": "Apple services, including iCloud, App Store, Apple Music, and more, hit by outage",
+   "url": "https://techcrunch.com/2026/11/17/apple-services-including-icloud-app-store-and-apple-music-hit-by-outage/",
+   "summary": "Apple's status page confirms its services are facing outages, but has not confirmed the cause.",
+   "published_at": 1794941740.0,
+   "published_bj": "2026-11-18 02:55"
+  },
   {
    "id": "f54fbcab07bc1ff7",
    "source": "InfoQ中文",
@@ -11,6 +389,177 @@
    "summary": "点击查看原文>",
    "published_at": 1794941587.0,
    "published_bj": "2026-11-18 02:53"
+  },
+  {
+   "id": "71f39ba8238380df",
+   "source": "TechCrunch",
+   "title": "Google to keep Gemini chats for 2 months, up from 72 hours, even with history off",
+   "url": "https://techcrunch.com/2026/11/17/google-to-keep-gemini-chats-for-two-months-up-from-72-hours-even-with-history-off/",
+   "summary": "Google's Gemini update extending chat retention will roll out globally over the coming weeks.",
+   "published_at": 1794941303.0,
+   "published_bj": "2026-11-18 02:48"
+  },
+  {
+   "id": "faa858d3e1569d4b",
+   "source": "Hacker News",
+   "title": "Phrack 73 Released",
+   "url": "https://phrack.org/issues/73/introduction_md",
+   "summary": "Article URL: https://phrack.org/issues/73/introduction_md Comments URL: https://news.ycombinator.com/item?id=50535992 Points: 213 # Comments: 20",
+   "published_at": 1794940285.0,
+   "published_bj": "2026-11-18 02:31"
+  },
+  {
+   "id": "7e0178afa1ba0992",
+   "source": "Hacker News",
+   "title": "Advancing computer-use agents for healthcare teams",
+   "url": "https://openai.com/index/advancing-computer-use-for-healthcare-teams/",
+   "summary": "Article URL: https://openai.com/index/advancing-computer-use-for-healthcare-teams/ Comments URL: https://news.ycombinator.com/item?id=50535898 Points: 32 # Comments: 23",
+   "published_at": 1794939965.0,
+   "published_bj": "2026-11-18 02:26"
+  },
+  {
+   "id": "a05e1b13ed0b44be",
+   "source": "Hacker News",
+   "title": "MAI Code 2 and Code 2 Flash",
+   "url": "https://microsoft.ai/news/introducing-mai-code-2-and-mai-code-2-flash/",
+   "summary": "Article URL: https://microsoft.ai/news/introducing-mai-code-2-and-mai-code-2-flash/ Comments URL: https://news.ycombinator.com/item?id=50535885 Points: 239 # Comments: 111",
+   "published_at": 1794939913.0,
+   "published_bj": "2026-11-18 02:25"
+  },
+  {
+   "id": "404f54d0d530e10d",
+   "source": "Hacker News",
+   "title": "Not Everything Needs an LLM",
+   "url": "https://newsletter.posthog.com/p/decision-models",
+   "summary": "Article URL: https://newsletter.posthog.com/p/decision-models Comments URL: https://news.ycombinator.com/item?id=50535740 Points: 54 # Comments: 15",
+   "published_at": 1794939378.0,
+   "published_bj": "2026-11-18 02:16"
+  },
+  {
+   "id": "fd02561aa299f0db",
+   "source": "TechCrunch",
+   "title": "As decision model use skyrockets, is customization the next frontier?",
+   "url": "https://techcrunch.com/2026/11/17/as-decision-model-use-skyrockets-is-customization-is-the-next-frontier/",
+   "summary": "Sqwish Labs has a new wrinkle on the decision model: Train it with your own data to max its capabilities.",
+   "published_at": 1794939000.0,
+   "published_bj": "2026-11-18 02:10"
+  },
+  {
+   "id": "c33245c28d396dad",
+   "source": "TechCrunch",
+   "title": "Pedestal AI raises $4.7 million to agentify the supply chain",
+   "url": "https://techcrunch.com/2026/11/17/pedestal-ai-raises-4-7-million-to-agentify-the-supply-chain/",
+   "summary": "The company uses agentic AI to make supply chains faster and more reliable.",
+   "published_at": 1794938656.0,
+   "published_bj": "2026-11-18 02:04"
+  },
+  {
+   "id": "ffb8ca373f052c4b",
+   "source": "IT之家",
+   "title": "iPhone Duo 开售三周后，苹果 Apple Store 完成适配",
+   "url": "https://www.ithome.com/1/028/573.htm",
+   "summary": "IT之家 11 月 18 日消息，苹果 Apple Store 在线商店昨晚发布了 6.10 版本升级，更新日志显示为“多种改进和性能增强”。 据用户反馈， 该版本的 Apple Store 终于完成了对 iPhone Duo 的适配 。值得一提的是，如今距离 iPhone Duo 开售已过去约三周时间。 据IT之家昨日报道，苹果全球营销高级副总裁格雷格 · 乔斯维亚克（Greg Joswiak）宣布， 目前已有超过 20 万款应用针对 iPhone Duo 完成优化 ，较本月早些时候公布的 10 万款增长一倍。 他表示，开发者对 iPhone Duo 的支持速度超出预期，优化应用数量在一周多",
+   "published_at": 1794938430.0,
+   "published_bj": "2026-11-18 02:00"
+  },
+  {
+   "id": "e7849e2f93cfd463",
+   "source": "Hacker News",
+   "title": "Apple Services Down",
+   "url": "https://developer.apple.com/system-status/",
+   "summary": "Article URL: https://developer.apple.com/system-status/ Comments URL: https://news.ycombinator.com/item?id=50535238 Points: 577 # Comments: 315",
+   "published_at": 1794937634.0,
+   "published_bj": "2026-11-18 01:47"
+  },
+  {
+   "id": "589a65809f05f8d9",
+   "source": "Hacker News",
+   "title": "GPT‑6.2 Astra and Sol",
+   "url": "https://openai.com/index/introducing-gpt-6-2-astra-sol/",
+   "summary": "Article URL: https://openai.com/index/introducing-gpt-6-2-astra-sol/ Comments URL: https://news.ycombinator.com/item?id=50535230 Points: 982 # Comments: 608",
+   "published_at": 1794937603.0,
+   "published_bj": "2026-11-18 01:46"
+  },
+  {
+   "id": "ae9e64cd0b06d17a",
+   "source": "Hacker News",
+   "title": "Who Builds the Machines That Build the Machines?",
+   "url": "https://read.corematter.com/p/section-232-us-machine-tools",
+   "summary": "Article URL: https://read.corematter.com/p/section-232-us-machine-tools Comments URL: https://news.ycombinator.com/item?id=50535208 Points: 72 # Comments: 23",
+   "published_at": 1794937539.0,
+   "published_bj": "2026-11-18 01:45"
+  },
+  {
+   "id": "4e99be4c08f7ffe5",
+   "source": "IT之家",
+   "title": "华为智选车产品总监详解尚界 Z7T 星野套装：“不动骨相”，只在风格层面做外放",
+   "url": "https://www.ithome.com/1/028/572.htm",
+   "summary": "IT之家 11 月 18 日消息，鸿蒙智行尚界汽车官方在 11 月 11 日宣布，尚界 Z7T 星野套装即将上市，将在 11 月 20 日 14:30 鸿蒙智行享界 V8 及星芒品牌发布会上亮相。 从画面可以看到，尚界 Z7T 星野套装新增了银色行李架、银色后视镜外壳、全车跨界套件以及黑色尾翼。IT之家注意到，华为智选车产品总监（尚界系列）@尚界Jeff 昨日发文介绍了尚界 Z7T 星野套装。 他表示，尚界 Z7T 本身原生猎装的比例与姿态是绝不可动摇的底子。 星野套装在这之上“不动骨相”，只在风格层面做外放 ，为其量身定制了外观升级，配合专属车色、轮毂与内饰。 另外，该车的“五大满配”也得到",
+   "published_at": 1794937132.0,
+   "published_bj": "2026-11-18 01:38"
+  },
+  {
+   "id": "901674466c22104a",
+   "source": "TechCrunch",
+   "title": "Proton’s Lumo, a privacy-focused alternative to ChatGPT and Claude, arrives on desktop",
+   "url": "https://techcrunch.com/2026/11/17/protons-lumo-a-privacy-focused-alternative-to-chatgpt-and-claude-arrives-on-desktop/",
+   "summary": "Proton's new Lumo Desktop app for Windows, Mac, and Linux lets users automate tasks across files and connected apps, with granular controls over what its AI can access.",
+   "published_at": 1794936745.0,
+   "published_bj": "2026-11-18 01:32"
+  },
+  {
+   "id": "2902ba119cb6c10b",
+   "source": "IT之家",
+   "title": "华为 Mate 90 系列手机 AI 快捷栏全新交互体验曝光，与星芒 OSTA O1 Pro 风格完全不同",
+   "url": "https://www.ithome.com/1/028/571.htm",
+   "summary": "IT之家 11 月 18 日消息，华为 Mate 90 系列手机昨晚率先开启鸿蒙 HarmonyOS 7.0.0.115 SP11 版本升级，系统包大小约 10.31GB，带来了 AI 快捷栏等功能。 据IT之家用户 @秋叶寒 反馈，Mate 90 系列手机的 AI 快捷栏拥有全新交互体验 —— 它会维持 5 个应用图标的宽度，不会缩小。另外， 长按 AI 圆环可进入 AI 屏 ，获取更多服务，例如行业趋势解读、AI 分析、智能记忆助手等。 值得一提的是，这一页面与华为全新子品牌星芒 OSTA O1 Pro 的小艺 AI 屏设计风格完全不同。OSTA 新机的 AI 屏采用全新设计元素，且新机激",
+   "published_at": 1794936128.0,
+   "published_bj": "2026-11-18 01:22"
+  },
+  {
+   "id": "13284789cbfa0c8e",
+   "source": "TechCrunch",
+   "title": "AI models can be tricked into identifying civilians as military targets by telling them it’s a game",
+   "url": "https://techcrunch.com/2026/11/17/ai-models-can-be-tricked-into-identifying-civilians-as-military-targets-by-telling-them-its-a-game/",
+   "summary": "Vals, a San Francisco-based AI evaluation startup, tested whether leading AI models could be manipulated into participating in autonomous warfare. They usually compiled.",
+   "published_at": 1794936041.0,
+   "published_bj": "2026-11-18 01:20"
+  },
+  {
+   "id": "3d595e3116b012e2",
+   "source": "Hacker News",
+   "title": "Nvidia stopped disclosing Singapore sales as revenues hit $104B",
+   "url": "https://www.ft.com/content/dbde7a30-548c-4f9d-a4be-7898a0c24dcf",
+   "summary": "Article URL: https://www.ft.com/content/dbde7a30-548c-4f9d-a4be-7898a0c24dcf Comments URL: https://news.ycombinator.com/item?id=50534631 Points: 286 # Comments: 154",
+   "published_at": 1794935526.0,
+   "published_bj": "2026-11-18 01:12"
+  },
+  {
+   "id": "d1f7eead27472f6e",
+   "source": "IT之家",
+   "title": "绿联 NAS 私有云系统官宣对外名称统一调整为“UGOS”：版本、功能与服务保持不变",
+   "url": "https://www.ithome.com/1/028/569.htm",
+   "summary": "IT之家 11 月 18 日消息，深圳市绿联科技股份有限公司绿联云官方微博昨日发布公告，宣布为构建更统一、清晰的品牌认知体系，推动全球化品牌战略布局及长期发展，自 2026 年 11 月 17 日起， “UGOS Pro”系统与“UGOS”系统的对外名称将统一调整为“UGOS” 。 绿联 NAS 私有云表示， 原“UGOS”系统在绿联官网等渠道将以“UGOS 经典版”作区分 。本次调整仅涉及系统名称变更，系统版本、功能与服务均保持不变，您的设备、数据与账号不受影响，无需进行任何操作，可继续正常使用。 此外，更名过渡期间，部分系统界面、帮助文档、历史内容及产品包装中仍可能出现“UGOS Pro”",
+   "published_at": 1794935033.0,
+   "published_bj": "2026-11-18 01:03"
+  },
+  {
+   "id": "2559e73c900e3394",
+   "source": "Hacker News",
+   "title": "YC wrote software to run our internship expo – and an 8-bit SIM to show it off",
+   "url": "https://news.ycombinator.com/item?id=50534429",
+   "summary": "Comments URL: https://news.ycombinator.com/item?id=50534429 Points: 0 # Comments: 0",
+   "published_at": 1794934824.0,
+   "published_bj": "2026-11-18 01:00"
+  },
+  {
+   "id": "8c3e44be67d3772e",
+   "source": "IT之家",
+   "title": "寒武纪 Day 0 完成商汤 SenseNova Loop-9B 适配，打通新型循环计算架构推理链路",
+   "url": "https://www.ithome.com/1/028/568.htm",
+   "summary": "IT之家 11 月 18 日消息， 商汤科技昨日晚间正式发布 SenseNova Loop-9B 模型 。 寒武纪官方宣布， 已完成对商汤新发布模型日日新 SenseNova Loop-9B 的 Day 0 适配 。 据介绍，该模型通过 Loop 结构复用模型层的参数，并结合流形约束超连接（mHC），在有限的参数规模下扩展计算深度，面向复杂推理、代码、工具调用和多模态任务，进一步优化模型在 Agent、代码与数据分析任务中的表现，持续探索循环计算的能力边界。 寒武纪表示，针对 SenseNova Loop-9B 的架构特点， 寒武纪基于 vllm_mlu 完成 Day 0 适配，打通模型在 M",
+   "published_at": 1794934682.0,
+   "published_bj": "2026-11-18 00:58"
   },
   {
    "id": "fb456b7429fdaf0e",
@@ -191,6 +740,15 @@
    "summary": "美国晨间节目FOX &amp; Friends介绍《GTA6》时引发争议。主持人Rachel Campos-Duffy无依据询问女主角露西亚是否为“妓女”，IGN随后批评节目传播错误信息并制造道德恐慌。 阅读全文",
    "published_at": 1794931831.0,
    "published_bj": "2026-11-18 00:10"
+  },
+  {
+   "id": "86e2d566e2801afa",
+   "source": "Hacker News",
+   "title": "Show HN: TrnRT – An open-source LLM inference engine for AWS Trainium",
+   "url": "https://github.com/RunanywhereAI/trnrt",
+   "summary": "Hi HN, Sanchit here from RunAnywhere (YC W26). We just open-sourced TrnRT: Trainium RunTime, our inference engine for AWS Trainium. We started 3 weeks back, and currently we’re able to serve and run GLM 5.3 flash (FP8) on AWS trn2.48xlarge, and will bring more models support soon. It’s open to contr",
+   "published_at": 1794931264.0,
+   "published_bj": "2026-11-18 00:01"
   },
   {
    "id": "9abb360c06b2eff1",
