@@ -1,8 +1,152 @@
 {
  "date": "2026-11-17",
- "generated_at": 1794871427.3783138,
- "count": 77,
+ "generated_at": 1794874943.9180138,
+ "count": 96,
  "items": [
+  {
+   "id": "3558dd34c9d121bf",
+   "source": "IT之家",
+   "title": "英特尔 350W 新卡 D270 亮剑，金融算力较英伟达 600W 加速卡飙升 5.9 倍",
+   "url": "https://www.ithome.com/1/027/972.htm",
+   "summary": "IT之家 11 月 16 日消息，英特尔 11 月 16 日公布数据中心 GPU D270 的性能数据，称这款功耗设定为 350W 的加速卡，在特定金融计算测试中的应用吞吐量， 最高达到 600W 英伟达 RTX PRO 6000 Blackwell 服务器版的 5.9 倍。 规格方面，数据中心 GPU D270 相关信息如下： 硅片与精度：Xe 3P 架构，32 个 Xe 核心，256 个 XMX 引擎；原生支持 FP4 到 FP64，具备全速率双精度计算能力。 内存与平台：160 GB LPDDR5X（带宽 1.5 TB/s，可扩展至 480 GB）；350W PCIe 5.0 风冷规格。",
+   "published_at": 1794873991.0,
+   "published_bj": "2026-11-17 08:06"
+  },
+  {
+   "id": "1caa64825c2f2565",
+   "source": "IT之家",
+   "title": "苹果反对加拿大 C-22 法案，称相关规定可能引入加密后门、削弱用户数据安全",
+   "url": "https://www.ithome.com/1/028/036.htm",
+   "summary": "IT之家 11 月 17 日消息，据 MacRumors 今日报道，苹果公司正敦促加拿大政府修改一项涉及执法机构获取用户数字信息的法案，称相关规定可能削弱苹果产品现有的隐私和安全保护机制。 这项法案旨在帮助加拿大警方和情报机构在调查过程中获取数字信息。目前，苹果、谷歌和 Meta 均在游说加拿大议员，希望调整正在审议的 C-22 法案。 根据彭博社报道，这项法案可能要求科技公司修改自身服务，为政府访问用户数据提供专门工具，相关要求需要获得加拿大情报专员批准。 法案还可能要求部分服务提供商保存用户连接记录，最长达 6 个月。这类记录属于元数据，不包括消息内容、浏览历史以及社交媒体活动记录。 加拿",
+   "published_at": 1794873617.0,
+   "published_bj": "2026-11-17 08:00"
+  },
+  {
+   "id": "8250951d58155e95",
+   "source": "IT之家",
+   "title": "“流星雨之王”狮子座流星雨今晚至明日迎来极大期，专家建议后半夜肉眼观测",
+   "url": "https://www.ithome.com/1/028/035.htm",
+   "summary": "IT之家 11 月 17 日消息，据新华社及央视报道，有着“流星雨之王”美誉的狮子座流星雨将于 11 月 18 日凌晨迎来极大期，最佳观测窗口为 18 日凌晨至天亮前。狮子座流星雨以速度快、亮度高为特色，偶尔会出现耀眼的火流星。 狮子座流星雨的母体是坦普尔-塔特尔彗星。星联 CSVA 联合发起人、天文科普专家蒋晨明介绍，坦普尔-塔特尔彗星在绕日运行中，尘埃弥散在整个轨道上。每年 11 月地球穿过这条尘埃轨道，尘埃颗粒闯入大气层形成流星雨，因流星看起来以狮子座为辐射点向外散开而得名。 狮子座流星雨以速度快、亮度高为特色，偶尔出现耀眼的火流星。它不在北半球三大流星雨之列，却因此前几场大爆发而家喻户",
+   "published_at": 1794873439.0,
+   "published_bj": "2026-11-17 07:57"
+  },
+  {
+   "id": "bdae6c976c9dae0a",
+   "source": "IT之家",
+   "title": "AMD FSR 4.1 超分 +4 代帧生成技术首次落地 Vulkan 引擎：《毁灭战士：黑暗时代》游戏 5 号更新上线",
+   "url": "https://www.ithome.com/1/028/034.htm",
+   "summary": "IT之家 11 月 17 日消息，《毁灭战士：黑暗时代》（DOOM: The Dark Ages）昨日（11 月 16 日）推出 5 号更新，主要为 PC 版游戏加入 AMD FSR Upscaling 4.1 超分辨率技术和 Frame Generation 4 帧生成技术。 AMD 高管 Jack Huynh 确认 ，该作成为首款同时搭载这两项技术的 Vulkan 游戏 ，也意味着此前公布的兼容支持正式落地游戏。IT之家附上相关截图如下： 通俗解释来说，AMD 的 FSR Upscaling 4.1 超分辨率技术可以理解为“先以较低分辨率渲染，再重建更清晰的画面”，而 Frame Gene",
+   "published_at": 1794873281.0,
+   "published_bj": "2026-11-17 07:54"
+  },
+  {
+   "id": "3bbf28f2f484023d",
+   "source": "IT之家",
+   "title": "苹果 iOS 27.3 测试版新增 Siri AI 每日限额，付费订阅 iCloud+ 可提升 2~20 倍",
+   "url": "https://www.ithome.com/1/028/033.htm",
+   "summary": "IT之家 11 月 17 日消息，据 MacRumors 今日报道，苹果正在测试为 Siri AI 和 Apple Intelligence 引入每日免费使用额度，并允许用户通过订阅 iCloud+ 获得更高的使用限额。 苹果已在 iOS 27.3、iPadOS 27.3 和 macOS 27.3 测试版中加入相关机制。根据目前发现的内容，每台设备每天都将获得一定数量的免费 AI 使用额度。当免费额度耗尽后，用户可以订阅 iCloud+ 获得额外使用次数，也可以等待次日额度重置。 此次受到额度限制的功能主要包括四类： 依赖云端处理的复杂 Siri AI 请求，例如结合个人信息判断何时出门才能准",
+   "published_at": 1794873018.0,
+   "published_bj": "2026-11-17 07:50"
+  },
+  {
+   "id": "6fff694b4759d5a5",
+   "source": "IT之家",
+   "title": "消息称黄仁勋回归尚未进入英伟达董事会议程，已有 18 万人联署呼吁复职",
+   "url": "https://www.ithome.com/1/028/032.htm",
+   "summary": "IT之家 11 月 17 日消息，CNBC 今天（11 月 17 日）发布博文，援引一名知情人士透露信息， 英伟达董事会目前没有考虑让黄仁勋重新担任首席执行官，也未就其回归展开讨论。 报道称英伟达董事会的工作重心，目前聚焦推进针对黄仁勋相关行为的调查。 报道称，英伟达已聘请 Wachtell Lipton 律师事务所，调查黄仁勋的行为。IT之家此前报道，黄仁勋在承认婚外情、并面临其他涉及员工的恋情报道后，于上周辞去职务，结束了在这家由其创立的公司长达 33 年的 CEO 任期。 围绕其是否回归，外界讨论持续升温。《金融时报》此前报道称，黄仁勋曾与支持者讨论复出事宜。不过，Altimeter C",
+   "published_at": 1794872459.0,
+   "published_bj": "2026-11-17 07:40"
+  },
+  {
+   "id": "c71afceb49dbda7f",
+   "source": "IT之家",
+   "title": "问界新 M8 率先进驻 AITO 用户中心，华为终端门店停止接单",
+   "url": "https://www.ithome.com/1/028/031.htm",
+   "summary": "IT之家 11 月 17 日消息，据界面新闻昨日报道，刚刚上市的问界新 M8 已经进入 AITO 问界用户中心，开放预订和试驾。部分华为终端门店尚未摆放这款新车，其中一家门店已经停止接收问界订单。 一家华为终端门店内负责汽车销售的人员称，9 月底问界的车型已经撤出这家门店，该店已不负责问界销售，也不能接收问界订单。北京另一家华为终端门店仍有摆放问界 M7 和 M9，销售人员暂不清楚新 M8 的到店时间。 公开报道显示，AITO 问界用户中心由赛力斯与经销商集团合作建设，纳入赛力斯经销体系，能够负责问界产品的试驾、销售、交付和售后等全套流程。一家 AITO 问界用户中心的工作人员透露，新 M8 ",
+   "published_at": 1794872424.0,
+   "published_bj": "2026-11-17 07:40"
+  },
+  {
+   "id": "bca3eb2b93964319",
+   "source": "IT之家",
+   "title": "让你随时欣赏 Game Boy 卡带里的游戏原声音乐，Retro Song Bird 音箱现身众筹",
+   "url": "https://www.ithome.com/1/028/030.htm",
+   "summary": "IT之家 11 月 17 日消息，一款名为 Retro Song Bird 的音箱近日现身 Kickstarter 众筹平台，售价 79 美元 （IT之家注：现汇率约合 527.6 元人民币） 。这款产品顶部带有一个 Game Boy 游戏卡带槽，可以让玩家随时欣赏《宝可梦红／绿》《牧场物语 GB》《超级咚奇刚》等经典游戏的原声音乐。 据介绍，Retro Song Bird 是一款内置 Game Boy 卡带插槽和模拟器的音箱， 可以播放 1900 多款支持游戏的原声音乐 。 同时该产品内置 3.5mm 接口和 USB-C 接口，可连接耳机、调音台等设备。连接到调音台时，设备可以提供四个独立音",
+   "published_at": 1794872042.0,
+   "published_bj": "2026-11-17 07:34"
+  },
+  {
+   "id": "79699e286cdd7ba5",
+   "source": "TechCrunch",
+   "title": "Cybersecurity AI startup Corma reaches $1B valuation in about 3 months",
+   "url": "https://techcrunch.com/2026/11/16/cybersecurity-ai-startup-corma-reaches-1b-valuation-in-about-3-months/",
+   "summary": "Three months since introducing its product, AI cybersecurity startup Corba has raised a $125 million Series A at a $1 billion valuation led by NEA.",
+   "published_at": 1794871952.0,
+   "published_bj": "2026-11-17 07:32"
+  },
+  {
+   "id": "ccf934977d1b784e",
+   "source": "IT之家",
+   "title": "做 App 副业的最佳 AI 助手：谷歌推出系列工具，瞄准最头疼的变现环节",
+   "url": "https://www.ithome.com/1/028/029.htm",
+   "summary": "IT之家 11 月 17 日消息，谷歌昨日（11 月 16 日）发布博文，宣布为旗下移动应用广告平台 AdMob 引入新一批 AI 工具，包括对话助手 Ask AdMob 以及面向 AI 编程助手的 AdMob 智能体技能， 帮助开发者简化广告接入、排查配置问题，并寻找增加广告收入的机会。 Ask AdMob 基于 Gemini 构建，将直接嵌入开发者的 AdMob 账户。按照谷歌的介绍，开发者可以像咨询产品专家一样与它对话，检查广告设置、查找集成错误，或获取收入优化建议。它还支持通过自然语言设置品牌安全规则，减少手动调整广告限制的操作。 另一部分工具则着眼于编程环节。AdMob 智能体技能提",
+   "published_at": 1794871843.0,
+   "published_bj": "2026-11-17 07:30"
+  },
+  {
+   "id": "605ca35314dcab17",
+   "source": "IT之家",
+   "title": "美国加州正式起诉 OpenAI，指控 AI 智能体至少 80 次失控",
+   "url": "https://www.ithome.com/1/028/028.htm",
+   "summary": "IT之家 11 月 17 日消息，当地时间 11 月 16 日，美国加利福尼亚州正式起诉 OpenAI，指控该公司在开发和测试先进人工智能模型时缺乏必要的安全防护与监控措施，导致 AI 智能体多次失去控制，并对第三方网络发起未经授权的攻击。 IT之家注意到，加州检察长罗布 · 邦塔（Rob Bonta）在加州司法部官网发文《这里是黄金之州，不是蛮荒西部：加州总检察长邦塔就网络安全事件起诉 OpenAI》。 邦塔表示，此次诉讼重点涉及今年 7 月 OpenAI 实验性 AI 智能体攻击 Hugging Face 平台的事件。公众不应被迫承担保护自身免受 OpenAI 不安全实验所带来的危险的成本",
+   "published_at": 1794871606.0,
+   "published_bj": "2026-11-17 07:26"
+  },
+  {
+   "id": "45ddc94d25b0914e",
+   "source": "Hacker News",
+   "title": "Show HN: Sutra-OS – A self-hosted ontology platform",
+   "url": "https://github.com/0nelight/sutra-os",
+   "summary": "Article URL: https://github.com/0nelight/sutra-os Comments URL: https://news.ycombinator.com/item?id=50525052 Points: 10 # Comments: 1",
+   "published_at": 1794871541.0,
+   "published_bj": "2026-11-17 07:25"
+  },
+  {
+   "id": "742e2bd0c9db693a",
+   "source": "IT之家",
+   "title": "OpenAI 扩大 ChatGPT 学术研究免费计划：11 月 23 日再开放 5 万个名额，从抽签改为先到先得",
+   "url": "https://www.ithome.com/1/028/027.htm",
+   "summary": "IT之家 11 月 17 日消息，OpenAI 宣布扩大面向学术研究人员的 ChatGPT 免费使用计划（ChatGPT for Academic Researchers），目标是为全球最多 20 万名研究人员提供免费访问权限。 OpenAI 今日宣布，新一轮申请将于当地时间 11 月 23 日开放，计划新增 5 万个免费访问名额。 根据 OpenAI 公告，此次新增名额将采用先到先得的方式分配，符合资格的前 5 万名申请者可以获得使用权限，不再采用此前试点阶段的抽签机制。 其中， 每个名额包含申请者本人及最多两名合作者，三人均可免费使用 ChatGPT Plus 。 按照这一安排，新一轮资助",
+   "published_at": 1794871131.0,
+   "published_bj": "2026-11-17 07:18"
+  },
+  {
+   "id": "a27513502a484fc2",
+   "source": "IT之家",
+   "title": "美联航遭遇大范围系统故障，航班起飞受影响",
+   "url": "https://www.ithome.com/1/028/026.htm",
+   "summary": "IT之家 11 月 17 日消息，据科技媒体 Engadget 今天报道，美国联合航空如今遭遇大范围系统故障，今天乘飞机出行的旅客可能会遇到延误。 美联航在 X 平台表示，公司已获悉大范围系统中断情况，团队正在全力以赴，争取尽快恢复正常运行。 IT之家从原报道获悉，该公司发言人对此回应称：“ 我们正排查一项影响离港航班的技术问题 。目前正在飞行的航班及联航快运航班均未受到影响。现阶段没有迹象表明此次问题与网络安全事件有关。” 此外，部分美联航乘客在社交媒体表示，航司向他们解释称，用于重量和测量计算的计算机系统出现故障。另一名乘客则表示，机长曾告知他们，此次故障与美国联邦航空管理局上周末实施的航",
+   "published_at": 1794871046.0,
+   "published_bj": "2026-11-17 07:17"
+  },
+  {
+   "id": "05ffb53dc644f8db",
+   "source": "IT之家",
+   "title": "“里程碑式设计”：苹果 iPhone 20 Pro 屏幕盖板再曝，让边框淡出视野",
+   "url": "https://www.ithome.com/1/028/025.htm",
+   "summary": "IT之家 11 月 17 日消息，@数码大叔 于昨日（11 月 16 日）在小红书上发布视频，展示了苹果 iPhone 20 Pro 的四曲面玻璃屏幕盖板。数码博主 @i冰宇宙 随后在 X 平台转发该视频， 并表示“苹果 iPhone 20 Pro 将采用一个里程碑式设计”。 IT之家附上相关视频如下： 按照目前所描述的方案，iPhone 20 Pro 的变化采用内直外曲的设计思路：内部 OLED 显示面板保持平面，外层玻璃盖板的四边则进行轻微弧面处理，再配合更窄的边框与边缘光学设计，尝试弱化屏幕、黑边和机身之间的视觉分界，让正面更接近一整块完整的玻璃。 设计方面，这套设计需要区分两个层面：一",
+   "published_at": 1794870834.0,
+   "published_bj": "2026-11-17 07:13"
+  },
+  {
+   "id": "cab6e37e6fd3ea29",
+   "source": "IT之家",
+   "title": "OpenAI 与 Goodfire 达成 AI 安全合作，此前曾探讨超 50 亿美元收购",
+   "url": "https://www.ithome.com/1/028/024.htm",
+   "summary": "IT之家 11 月 17 日消息，今日，OpenAI 宣布与 Apollo Research、METR、Transluce 和 Goodfire 达成合作，将启动首阶段嵌入式评估项目（Embedded Assessments），共同开展模型可解释性与安全评估工作。 与此同时，据《The Information》今日报道，OpenAI 此前曾探讨以超过 50 亿美元 （IT之家注：现汇率约合 333.92 亿元人民币） 收购 Goodfire 的方案，但双方最终未能达成收购协议。 根据 Goodfire 发布的公告，该公司将派遣可解释性研究人员进驻 OpenAI，使用自有可解释性分析平台监测模型",
+   "published_at": 1794870739.0,
+   "published_bj": "2026-11-17 07:12"
+  },
   {
    "id": "8b3e02dd31bb27eb",
    "source": "IT之家",
@@ -11,6 +155,24 @@
    "summary": "IT之家 11 月 17 日消息，美国商务部当地时间 11 月 16 日宣布，美国 SI 出口计划（American SI Exports Program）进入新阶段，首批指定 33 个预先组建的产业联盟，提供面向海外市场的全栈超级智能（SI）技术出口方案。同时，项目将于 11 月 30 日开放按需组建联盟的申请。 根据美国商务部国际贸易管理局当天发布的公告，此次计划依据美国总统特朗普签署的第 14320 号行政令《促进美国超级智能技术栈出口》（Promoting the Export of the American SI Technology Stack）实施，旨在推动美国企业向国际市场出口",
    "published_at": 1794870092.0,
    "published_bj": "2026-11-17 07:01"
+  },
+  {
+   "id": "a42891053f05a937",
+   "source": "Hacker News",
+   "title": "Optimizely Compromised, Served Malware on Zoom, GitLab",
+   "url": "https://blog.report-uri.com/worlds-largest-brands-infected-with-malware-via-optimizely/",
+   "summary": "Article URL: https://blog.report-uri.com/worlds-largest-brands-infected-with-malware-via-optimizely/ Comments URL: https://news.ycombinator.com/item?id=50524767 Points: 31 # Comments: 13",
+   "published_at": 1794870034.0,
+   "published_bj": "2026-11-17 07:00"
+  },
+  {
+   "id": "345852b3cc5dd023",
+   "source": "Hacker News",
+   "title": "Windows 11 Is Collecting Data on Which Coding Agents and Developer Tools You Use",
+   "url": "https://xusheng.dev/posts/windows-coding-agent-telemetry/",
+   "summary": "Article URL: https://xusheng.dev/posts/windows-coding-agent-telemetry/ Comments URL: https://news.ycombinator.com/item?id=50524736 Points: 58 # Comments: 25",
+   "published_at": 1794869900.0,
+   "published_bj": "2026-11-17 06:58"
   },
   {
    "id": "3f694afe9f7d795a",
@@ -686,6 +848,15 @@
    "summary": "Article URL: https://openai.com/index/our-first-phase-of-embedded-assessments/ Comments URL: https://news.ycombinator.com/item?id=50519153 Points: 18 # Comments: 4",
    "published_at": 1794845240.0,
    "published_bj": "2026-11-17 00:07"
+  },
+  {
+   "id": "00e6e2b8500fb20f",
+   "source": "IT之家",
+   "title": "英伟达发布 Rubin HPC GPU：单卡超 5 万 CUDA 核心创纪录，预计 2028 年上市",
+   "url": "https://www.ithome.com/1/027/998.htm",
+   "summary": "IT之家 11 月 17 日消息，英伟达今日在 SC26 大会发布 Rubin HPC GPU，基于 Vera Rubin 平台打造，专为科学研究、工程设计、数据分析仿真计算等工作设计。 IT之家从英伟达新闻稿获悉， Rubin HPC GPU 配备创纪录的 CUDA 核心 ， 单 GPU 的 CUDA 数超过 5 万个 。作为对比，RTX PRO 6000 Blackwell 的 CUDA 数量是 24,064 个，GeForce RTX 5090 为 21,760 个。 同时该 GPU 还具备稀疏数据加速能力，可持续为计算核心提供数据， 并支持第七代 NVIDIA NVLink 互连技术 ",
+   "published_at": 1794845203.0,
+   "published_bj": "2026-11-17 00:06"
   },
   {
    "id": "b3c19549d17f084f",
