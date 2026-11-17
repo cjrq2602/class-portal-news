@@ -1,8 +1,17 @@
 {
  "date": "2026-11-17",
- "generated_at": 1794891154.2658458,
- "count": 196,
+ "generated_at": 1794894825.4904466,
+ "count": 216,
  "items": [
+  {
+   "id": "cef4de7229951545",
+   "source": "InfoQ中文",
+   "title": "Azure 版 LocalStack 进入公开预览阶段，安全设置会存储但不生效",
+   "url": "https://www.infoq.cn/article/wPiiddayboPKUEH6m4Ss?utm_source=rss&utm_medium=article",
+   "summary": "点击查看原文>",
+   "published_at": 1794920400.0,
+   "published_bj": "2026-11-17 21:00"
+  },
   {
    "id": "5378e35ce84eefb0",
    "source": "InfoQ中文",
@@ -65,6 +74,159 @@
    "summary": "点击查看原文>",
    "published_at": 1794909723.0,
    "published_bj": "2026-11-17 18:02"
+  },
+  {
+   "id": "23288bfbe1aba0d1",
+   "source": "cnBeta",
+   "title": "苹果macOS 27.3收紧AI应用对操作系统的访问权限",
+   "url": "https://www.cnbeta.com.tw/articles/tech/1586698.htm",
+   "summary": "苹果正在进一步加强Mac平台的隐私与安全保护。随着macOS 27.3最新测试版发布，苹果宣布对“完全磁盘访问权限”（Full Disk Access）以及相关设备控制接口进行重要调整，旨在让用户更加清楚地了解应用程序，特别是AI代理类应用，究竟能够访问哪些数据以及拥有多大控制权限。 阅读全文",
+   "published_at": 1794894782.0,
+   "published_bj": "2026-11-17 13:53"
+  },
+  {
+   "id": "9451b5bd8da75655",
+   "source": "cnBeta",
+   "title": "Meta测试Instagram独立聊天应用Direct 无需主站账号即可使用",
+   "url": "https://www.cnbeta.com.tw/articles/tech/1586696.htm",
+   "summary": "Meta日前宣布，已启动一款名为“Direct”的全新独立即时通讯应用的测试工作。该应用旨在将Instagram的私信收件箱功能剥离为独立客户端，并进一步扩大其私信服务的用户覆盖范围。目前，Direct仅在泰国和土耳其两个国家开放测试。 阅读全文",
+   "published_at": 1794894707.0,
+   "published_bj": "2026-11-17 13:51"
+  },
+  {
+   "id": "cad6bd35a2ca9064",
+   "source": "cnBeta",
+   "title": "Linux内核迎来关键更新 为AMD Zen 6异构处理器加入“容量感知调度”支持",
+   "url": "https://www.cnbeta.com.tw/articles/tech/1586694.htm",
+   "summary": "随着AMD下一代Zen 6处理器架构逐渐浮出水面，Linux内核也开始提前为相关产品进行适配。日前，Linux内核开发社区已合并一项重要补丁，引入“容量感知调度”（Capacity-Aware Scheduling，简称CAS）机制，以支持AMD未来采用异构核心设计的Zen 6处理器。 阅读全文",
+   "published_at": 1794894635.0,
+   "published_bj": "2026-11-17 13:50"
+  },
+  {
+   "id": "ab67fd667676ef2f",
+   "source": "cnBeta",
+   "title": "北极细菌展现神秘生存策略：或能借助阳光与丙酮吸收二氧化碳",
+   "url": "https://www.cnbeta.com.tw/articles/science/1586692.htm",
+   "summary": "科学家近日发现，一种生活在北冰洋极端环境中的微生物可能掌握了一种此前从未在海洋细菌中观察到的特殊生存方式。研究表明，这种细菌不仅能够利用阳光获取能量，还可能通过丙酮和二氧化碳的联合代谢来制造自身生长所需的物质，为人们理解海洋碳循环和微生物适应机制提供了新的线索。 阅读全文",
+   "published_at": 1794894251.0,
+   "published_bj": "2026-11-17 13:44"
+  },
+  {
+   "id": "2748e5bd070aeaf0",
+   "source": "IT之家",
+   "title": "百度李彦宏：无人驾驶出租车安全记录大约是人类司机的 10 倍",
+   "url": "https://www.ithome.com/1/028/231.htm",
+   "summary": "IT之家 11 月 17 日消息，2026 年 APEC 工商领导人峰会于今日在深圳举办。据凤凰网科技报道，百度创始人、董事长兼首席执行官李彦宏在峰会上表示，无人驾驶出租车是 AI 落地的典型应用之一， 其投入运营后的安全记录大约是人类司机的 10 倍 。 李彦宏指出，全球每年有超过 100 万人死于道路交通事故， 自动驾驶技术有望通过降低人为失误改善道路安全 。他表示，近年来中国和美国逐步向无人驾驶出租车开放道路，希望未来有更多国家推动相关应用落地。 目前百度旗下萝卜快跑已落地全球 28 座城市，自动驾驶总里程突破 3.5 亿公里， 其中全无人里程超 2.4 亿公里，累计服务订单超 2300",
+   "published_at": 1794894224.0,
+   "published_bj": "2026-11-17 13:43"
+  },
+  {
+   "id": "63e3d1de060a8381",
+   "source": "cnBeta",
+   "title": "中国学者研究重塑地球氧化时间线 远古海洋化学记录曾掩盖大气增氧真实进程",
+   "url": "https://www.cnbeta.com.tw/articles/science/1586690.htm",
+   "summary": "发表于国际综合学术期刊《创新》（The Innovation）的一项最新地球化学研究对地球氧气演化的经典时间线提出了重要修正。成都理工大学的两位地球化学家王海洋与李超指出，科学界长期以来依赖古代海洋化学指标来推算大气氧气含量的做法可能存在偏差，地球大气层发生重大增氧的时间实际上远早于传统认知，而深海完全实现氧化则经历了长达数亿年的滞后。 阅读全文",
+   "published_at": 1794894171.0,
+   "published_bj": "2026-11-17 13:42"
+  },
+  {
+   "id": "1a32b50d26ee62ab",
+   "source": "cnBeta",
+   "title": "汇丰/BBC/CNN等178家知名网站被投毒 iOS 13-18.x旧版本访问恶意页面即中毒",
+   "url": "https://www.cnbeta.com.tw/articles/tech/1586688.htm",
+   "summary": "昨天夜里有安全研究机构 Report URI 日常巡查时发现重大安全事件，此次安全事件涉及 BBC、CNN、HSBC、Salesforce、GitLab、宜家 等 178 家全球知名公司或网站，黑客篡改网站内容加载恶意脚本。这个恶意脚本利用 DarkSword 渗透框架瞄准运行 iOS 13-18.x 旧版本的用户。 阅读全文",
+   "published_at": 1794893820.0,
+   "published_bj": "2026-11-17 13:37"
+  },
+  {
+   "id": "f2f8b2822b8328c0",
+   "source": "cnBeta",
+   "title": "Windows Server 2016即将结束生命周期 微软开启ESU付费扩展更新",
+   "url": "https://www.cnbeta.com.tw/articles/tech/1586686.htm",
+   "summary": "微软的服务器操作系统 Windows Server 2016 扩展支持即将到期，对于仍然准备继续使用该系统的客户，微软也已经准备好 3 年的付费 ESU 支持方案。不过按照微软说法，只有标准版和数据中心版可以购买付费扩展支持方案，其他版本即便付费也无法获得安全更新。 阅读全文",
+   "published_at": 1794893752.0,
+   "published_bj": "2026-11-17 13:35"
+  },
+  {
+   "id": "c19645289d37b294",
+   "source": "IT之家",
+   "title": "历时 6 年制作：微软 Metro UI 纪录片本月上线，重现 Windows Phone 最激进设计遗产",
+   "url": "https://www.ithome.com/1/028/230.htm",
+   "summary": "IT之家 11 月 17 日消息，大卫 ·V· 金博尔（David V. Kimball）昨日（11 月 16 日）在 X 平台发布推文， 宣布历时约 6 年制作、片长约 90 分钟的 Metro UI 纪录片将于美国东部时间 11 月 20 日下午 4 点（北京时间 11 月 21 日凌晨 5 点）在 YouTube 频道首播。 该纪录片聚焦微软的 Metro（后来称为 Modern UI），试图还原 Metro 从早期概念到影响微软多款产品的完整历程，重现 Windows Phone 时代最激进的设计遗产。 IT之家注：Metro，后来也被称为 Modern UI，是微软曾大力推行的一套界",
+   "published_at": 1794893669.0,
+   "published_bj": "2026-11-17 13:34"
+  },
+  {
+   "id": "28215e0628e6cfc7",
+   "source": "cnBeta",
+   "title": "Google预警：“全自动AI网络攻击”威胁进入新阶段",
+   "url": "https://www.cnbeta.com.tw/articles/tech/1586684.htm",
+   "summary": "随着人工智能技术在日常生活和商业领域的快速普及，网络犯罪分子也正在将这一技术转化为新的攻击工具。Google威胁情报团队（GTIG）近日发布报告指出，黑客组织已经从简单地利用AI生成指令，发展到部署自主化、多智能体攻击框架来自动发现和利用安全漏洞，网络攻击自动化程度正在显著提升。 阅读全文",
+   "published_at": 1794893499.0,
+   "published_bj": "2026-11-17 13:31"
+  },
+  {
+   "id": "0afda91221da039a",
+   "source": "cnBeta",
+   "title": "iOS 27.3 Beta 2发布：苹果带来Siri AI升级、iPhone Duo新解锁方式及多项功能改进",
+   "url": "https://www.cnbeta.com.tw/articles/tech/1586682.htm",
+   "summary": "苹果于11月16日向开发者推送了iOS 27.3第二个测试版。继首个测试版之后，此次更新继续加入多项重要新功能和界面调整，涵盖iPhone Duo、Siri AI、Apple Intelligence、日历、Apple TV、天气、家庭以及Apple Music等多个系统组件。 阅读全文",
+   "published_at": 1794893436.0,
+   "published_bj": "2026-11-17 13:30"
+  },
+  {
+   "id": "00ce4d136678b7ac",
+   "source": "IT之家",
+   "title": "蔚来汽车：网传抹黑财务经营信息不实，已向公安机关报案",
+   "url": "https://www.ithome.com/1/028/228.htm",
+   "summary": "IT之家 11 月 17 日消息，蔚来汽车今日发布《关于针对蔚来公司恶意造谣信息的严正声明》，回应网络上有关公司财务经营情况的传言。 蔚来表示，相关传言纯属恶意捏造的虚假信息，与事实严重不符。蔚来披露称，2026 年 1~10 月，公司累计交付新车 334547 台，同比增长 38.5%，创历史新高。 在现金储备方面，蔚来称，截至 2026 年第二季度末，公司现金储备达到 567 亿元，较 2025 年底增加 108 亿元，为公司经营发展提供支撑。 根据蔚来此前公布的 2026 年第二季度财报，截至 6 月 30 日，公司现金及现金等价物、受限制现金、短期投资和长期定期存款合计为 567 亿元",
+   "published_at": 1794892606.0,
+   "published_bj": "2026-11-17 13:16"
+  },
+  {
+   "id": "a366e400b0e36441",
+   "source": "IT之家",
+   "title": "蔚来黔川山水人文线贯通：全长 1067 公里沿途布局 22 座充换电站，全国已建成 9860 座充换电站",
+   "url": "https://www.ithome.com/1/028/227.htm",
+   "summary": "IT之家 11 月 17 日消息，蔚来汽车今日宣布，第 94 条蔚来加电风景线 —— 黔川山水人文线正式贯通。 该线路从贵州贵阳出发，途经遵义、仁怀、古蔺、赤水、泸州、雅安、天全，最终抵达四川泸定，全程 1067 公里，沿途布局 22 座充换电站，建议行程为 5 天 4 晚。 据蔚来介绍，黔川山水人文线串联贵州、四川两地的自然景观与历史人文资源。沿线可游览遵义老城、茅台渡口、古蔺太平古镇、赤水丹霞景区等地，并从泸州一路向西，经雅安、天全抵达泸定，探访泸定桥及大渡河沿岸景观。 蔚来表示，「蔚来加电风景线」是面向用户长途出行需求推出的能源布局项目，旨在通过沿途充换电设施建设，提升新能源汽车自驾游的",
+   "published_at": 1794892374.0,
+   "published_bj": "2026-11-17 13:12"
+  },
+  {
+   "id": "70d5d0e3eeb38dc0",
+   "source": "IT之家",
+   "title": "Take-Two 两大招牌：《NBA 2K27》官宣联动《GTA 6》，新增罪恶都市球场及主题活动",
+   "url": "https://www.ithome.com/1/028/226.htm",
+   "summary": "IT之家 11 月 17 日消息，作为 Take-Two 旗下两大工作室的招牌游戏，2K 旗下《NBA 2K27》与 Rockstar Games 旗下《侠盗猎车手 VI》（GTA 6）展开联动。 本次联动将于 2026 年 11 月 27 日正式上线，《NBA 2K27》第三赛季以“Vice City Takeover”为主题，持续七周，至 2027 年 1 月 15 日结束。 根据 2K 官方公告，本次合作将推出限时特别版本《NBA 2K27 罪恶都市版》（Vice City Edition），封面人物为迈阿密热火队中锋巴姆・阿德巴约（Bam Adebayo）。 阿德巴约曾三次入选 NBA",
+   "published_at": 1794891978.0,
+   "published_bj": "2026-11-17 13:06"
+  },
+  {
+   "id": "cda1267c431207ea",
+   "source": "IT之家",
+   "title": "百度李彦宏警告 AI 泡沫风险：当前 AI 行业上层应用落地成效不及预期",
+   "url": "https://www.ithome.com/1/028/225.htm",
+   "summary": "IT之家 11 月 17 日消息，2026 年 APEC 工商领导人峰会于今日在深圳举办。 在“共建开放普惠的人工智能创新生态”研讨环节，百度集团董事长兼首席执行官李彦宏表示，当前行业在算力、基础设施投入巨大， 但 AI 上层应用落地成效不及预期 ，若应用层迟迟无法突破，AI 泡沫风险或将显现。 尽管如此， 李彦宏对 AI 长期发展趋势保持乐观 ，百度 AI 业务收入占比未来将持续提升。 李彦宏提出，AI 技术栈除芯片、云、模型、应用外， 应用之上还需要配套的组织能力 。类比电力革命，仅有先进技术，缺少适配的组织变革就难以释放经济价值。 据IT之家此前报道，在 11 月 12 日的百度世界大会",
+   "published_at": 1794891688.0,
+   "published_bj": "2026-11-17 13:01"
+  },
+  {
+   "id": "c7dd3ce4c015cb85",
+   "source": "IT之家",
+   "title": "商务部等 9 部门发文要求解决“扔比买难”等问题：引导居民线上提交回收需求，推进市场化上门清运",
+   "url": "https://www.ithome.com/1/028/223.htm",
+   "summary": "IT之家 11 月 17 日消息，商务部等 9 部门今日发布《 关于深入推进再生资源回收体系建设 促进回收行业高质量发展的意见 》（下称《意见》），要求 加快再生资源回收体系建设，持续提升再生资源回收便利性、规范性， 切实解决 “扔比买难”等问题 。 目标到 2030 年， 初步建立起回收网络健全完善、居民交投便捷顺畅、分拣环节高效先进、末端处理绿色规范的再生资源回收 体系。 《意见》提到，推行多品类综合性再生资源回收模式： 倡导 “两网融合”。 加强生活垃圾分类与再生资源回收网点衔接融合 ，推动设施场地共享、作业队伍共建，促进生活垃圾中的可回收物回收后进入再生资源回收体系，实现生活垃圾减量和",
+   "published_at": 1794891295.0,
+   "published_bj": "2026-11-17 12:54"
+  },
+  {
+   "id": "286df495973ce261",
+   "source": "IT之家",
+   "title": "索尼 WH-1000XM4C 无线降噪耳机国行预售，到手价 1799 元",
+   "url": "https://www.ithome.com/1/028/222.htm",
+   "summary": "IT之家 11 月 17 日消息，Sony（索尼）现已启动 WH-1000XM4C 头戴式降噪耳机的预售。其基于 2020 年推出的原版 WH-1000XM4， 包含多项现代化改进 ，可选黑色 / 铂金银 / 香芋紫 3 种配色，国行到手价为 1799 元。 这款耳机搭载 40mm 驱动单元，支持 10 段均衡器调节，频率响应范围可达 4~40000Hz；每侧配备 2 颗降噪麦克风；支持蓝牙 6.0 规范，具备 LDPC 编解码器；连续音乐播放续航可达 34hr（关闭降噪）或 27hr（开启降噪）。 京东 索尼 WH-1000XM4C 耳机 1799 元 直达链接",
+   "published_at": 1794891169.0,
+   "published_bj": "2026-11-17 12:52"
   },
   {
    "id": "f16035d5877b7871",
@@ -182,6 +344,15 @@
    "summary": "IT之家 11 月 17 日消息，科技媒体 BornCity 今天（11 月 17 日）发布博文，报道称用户反馈称经典版 Outlook 通过 Exchange Online 自动映射（AutoMapping）添加的共享邮箱， 在启动 Outlook 后会短暂显示，随后几秒内便从界面中消失。 IT之家注：AutoMapping（自动映射）是 Microsoft Exchange / Exchange Online 中的一项便利功能：当管理员把某个共享邮箱或他人邮箱的 Full Access（完全访问）权限直接授予某位用户后，Outlook 会通过 Autodiscover 自动把该邮箱加入该用",
    "published_at": 1794888786.0,
    "published_bj": "2026-11-17 12:13"
+  },
+  {
+   "id": "44bbf999d3f2b6aa",
+   "source": "Hacker News",
+   "title": "Unkernel: Linux kernel in WASM",
+   "url": "https://unkernel.dev",
+   "summary": "Article URL: https://unkernel.dev Comments URL: https://news.ycombinator.com/item?id=50527311 Points: 10 # Comments: 5",
+   "published_at": 1794888527.0,
+   "published_bj": "2026-11-17 12:08"
   },
   {
    "id": "930dbc3a51c04461",
@@ -479,6 +650,15 @@
    "summary": "IT之家 11 月 17 日消息，KIOXIA（铠侠）旗下 SSSTC（建兴储存科技）今日宣布推出 其首款基于 QLC NAND 的工业级固态硬盘 产品 PQ2 系列。 PQ2 系列 采用 BiCS 8 闪存和 DRAM-less HMB 方案 ，符合 NVMe 2.0d 规范配备 PCIe Gen4 ×4 接口，外形规格为 M.2 2280 / 2242，可选 512GB / 1024GB / 2048GB 三种容量，享受 3 年 1DWPD （每日全盘写入 1 次）的质保。 PQ2 系列顺序读取速率可达 7000MB/s、顺序写入速率可达 6200MB/s，4K 随机读写速率均可达 100",
    "published_at": 1794882155.0,
    "published_bj": "2026-11-17 10:22"
+  },
+  {
+   "id": "bafdf44e92fa757e",
+   "source": "Hacker News",
+   "title": "Tokendoctor – the same Claude Code for up to 38% less",
+   "url": "https://github.com/localixai/tokendoctor",
+   "summary": "Article URL: https://github.com/localixai/tokendoctor Comments URL: https://news.ycombinator.com/item?id=50526584 Points: 8 # Comments: 0",
+   "published_at": 1794881990.0,
+   "published_bj": "2026-11-17 10:19"
   },
   {
    "id": "5d7f80f1a0094d2a",
