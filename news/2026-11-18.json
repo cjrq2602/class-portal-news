@@ -1,0 +1,25 @@
+{
+ "date": "2026-11-18",
+ "generated_at": 1794929876.0673401,
+ "count": 2,
+ "items": [
+  {
+   "id": "f54fbcab07bc1ff7",
+   "source": "InfoQ中文",
+   "title": "面向多智能体应用的大模型推理调度与缓存优化｜AICon北京",
+   "url": "https://www.infoq.cn/article/X8xujm6xovp7z2YzWbpM?utm_source=rss&utm_medium=article",
+   "summary": "点击查看原文>",
+   "published_at": 1794941587.0,
+   "published_bj": "2026-11-18 02:53"
+  },
+  {
+   "id": "9abb360c06b2eff1",
+   "source": "InfoQ中文",
+   "title": "Varlock 发布了 Bumpy：一种基于文件、可替代 Changesets 的版本控制方案",
+   "url": "https://www.infoq.cn/article/SR3rNIg8NsPC3tWq48EM?utm_source=rss&utm_medium=article",
+   "summary": "点击查看原文>",
+   "published_at": 1794931200.0,
+   "published_bj": "2026-11-18 00:00"
+  }
+ ]
+}
