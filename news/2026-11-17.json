@@ -1,8 +1,125 @@
 {
  "date": "2026-11-17",
- "generated_at": 1794881076.6817307,
- "count": 128,
+ "generated_at": 1794883624.2951424,
+ "count": 144,
  "items": [
+  {
+   "id": "fa2e34666a221057",
+   "source": "InfoQ中文",
+   "title": "openEuler 进军 Agentic Infra！主席熊伟：不讲大故事，先解决真问题",
+   "url": "https://www.infoq.cn/article/JhBUwv1pHR3S986Ih0iJ?utm_source=rss&utm_medium=article",
+   "summary": "点击查看原文>",
+   "published_at": 1794912080.0,
+   "published_bj": "2026-11-17 18:41"
+  },
+  {
+   "id": "9702ee2465968036",
+   "source": "InfoQ中文",
+   "title": "从 SDLC 到 ADLC：宝洁的 AI 原生组织实验",
+   "url": "https://www.infoq.cn/article/prRYMYmhOvSY9EaMz8Oc?utm_source=rss&utm_medium=article",
+   "summary": "点击查看原文>",
+   "published_at": 1794910513.0,
+   "published_bj": "2026-11-17 18:15"
+  },
+  {
+   "id": "71757fffab3f0bbd",
+   "source": "InfoQ中文",
+   "title": "阿里 Qwen4-Max 正式登场：单任务成本暴降 58%，前端编程全球第六",
+   "url": "https://www.infoq.cn/article/bZrW40XdHeMSkfOBxL2C?utm_source=rss&utm_medium=article",
+   "summary": "点击查看原文>",
+   "published_at": 1794910030.0,
+   "published_bj": "2026-11-17 18:07"
+  },
+  {
+   "id": "ee88f749f60c29d7",
+   "source": "InfoQ中文",
+   "title": "Cloudflare 的后量子 GeoKey Manager 进入封闭测试阶段，暂不支持基于属性加密",
+   "url": "https://www.infoq.cn/article/L4oHv9VcLJNRwhOXgOAi?utm_source=rss&utm_medium=article",
+   "summary": "点击查看原文>",
+   "published_at": 1794909723.0,
+   "published_bj": "2026-11-17 18:02"
+  },
+  {
+   "id": "5d7f80f1a0094d2a",
+   "source": "IT之家",
+   "title": "苹果 tvOS 27.3 Beta 2 新增 Siri AI 引导界面，用户可选新旧版本",
+   "url": "https://www.ithome.com/1/028/094.htm",
+   "summary": "IT之家 11 月 17 日消息，消息源 @itspdfu 今天（11 月 17 日）在 X 平台发布推文，报道称在 tvOS 27.3 Beta 2 更新中， 苹果为 Siri AI 带来全新引导设置界面，用户可以选择尝试新版助手，也可以继续使用经典版 Siri（Siri Classic）。 IT之家此前报道，苹果此前已通过 tvOS 27.2.1，为第二代和第三代 Apple TV 4K 扩展带来 Siri AI 支持，而第四代 Apple TV 4K 则在上市时便已支持 Siri AI。而本次 iOS 27.3 Beta 2 更新中，苹果公司进一步补全用户体验，方便用户根据自身需求，切换",
+   "published_at": 1794881933.0,
+   "published_bj": "2026-11-17 10:18"
+  },
+  {
+   "id": "ac2c31e762b58742",
+   "source": "IT之家",
+   "title": "比亚迪 RACCO 纯电轻型车荣获第 36 届日本 RJC“年度进口车”奖项，系中国品牌连续第二年夺冠",
+   "url": "https://www.ithome.com/1/028/092.htm",
+   "summary": "IT之家 11 月 17 日消息，比亚迪昨日宣布， 公司专为日本市场开发的纯电轻型车 BYD RACCO 荣获第 36 届日本 RJC 年度车评选（2027 年度）“年度进口车”奖项 。该车搭载的新一代电动系统 X-PACK 同时入选“RJC 年度技术六佳”。 值得注意的是，比亚迪旗下车型 BYD SEALION 7 已经在去年成为首款获得“RJC 年度进口车”的中国品牌车型，此次 RACCO 获奖标志着比亚迪连续第二年获此殊荣。 IT之家注：RJC 年度车评选由日本汽车研究者与记者会议发起，首届举行于 1991 年。该评选通常以当年新发布或上市的车型为对象，由 RJC 评选委员投票决定。评审",
+   "published_at": 1794881735.0,
+   "published_bj": "2026-11-17 10:15"
+  },
+  {
+   "id": "ca5a841c0abfdcfa",
+   "source": "IT之家",
+   "title": "小米米家床头灯 3 发售：低饱和百变淡彩光效、顶部全区域触控感应，国补价 269.28 元",
+   "url": "https://www.ithome.com/1/028/091.htm",
+   "summary": "IT之家 11 月 17 日消息，米家床头灯 3 今日正式在电商平台开售，京东首发到手价为 299 元起，叠加国补后 269.28 元。 京东 米家小米床头灯 3 夜灯全光谱百变光影卧室睡眠喂奶柔光智能氛围台灯 券后 269.28 元 领 0.9 折券 米家床头灯 3 搭载升级全光谱灯珠，太阳光谱拟合度 GFC&gt;0.98，光线接近自然光，最高光通量可达 570lm 满足日常照明，最低光通量可低于 1lm，柔光伴睡不刺眼，同时拥有 Ra90 高显色指数，可真实还原自然肤色、书本色彩、家具质感等物体本真色彩。 产品内置 18 种低饱和自然淡彩光效，包含 11 款动态灯效与 7 款静态灯效，支",
+   "published_at": 1794881709.0,
+   "published_bj": "2026-11-17 10:15"
+  },
+  {
+   "id": "c3351903bebff3c8",
+   "source": "IT之家",
+   "title": "华为星芒 OSTA O1 Pro 阔直板手机主要配置曝光：麒麟 9030S，保留无线充电，不带充电头",
+   "url": "https://www.ithome.com/1/028/090.htm",
+   "summary": "IT之家 11 月 17 日消息，华为全新子品牌星芒的首款产品 —— OSTA O1 Pro 阔直板手机现已上架华为商城，将于 11 月 20 日正式发布。 据博主 @数码闲聊站 今日爆料，OSTA O1 Pro 搭载 6.39 英寸 1.5K LTPS 直屏 ，16:9.5 比例，1.05mm 极窄四等边，机身厚度 6.68mm、重量 200g。 新机配备麒麟 9030S 处理器 ，顶配 16GB+1TB 存储，还有 7000mAh 电池 +66W 有线充 + 无线充，侧边指纹。 影像方面，OSTA O1 Pro 有望搭载 200Mp 1/1.28\" RYYB 主摄 + 50Mp 3.7X ",
+   "published_at": 1794881648.0,
+   "published_bj": "2026-11-17 10:14"
+  },
+  {
+   "id": "6e7dc11842cf2933",
+   "source": "Hacker News",
+   "title": "Mem Is Shutting Down",
+   "url": "https://get.mem.ai/blog/mem-is-shutting-down",
+   "summary": "Article URL: https://get.mem.ai/blog/mem-is-shutting-down Comments URL: https://news.ycombinator.com/item?id=50526537 Points: 8 # Comments: 1",
+   "published_at": 1794881621.0,
+   "published_bj": "2026-11-17 10:13"
+  },
+  {
+   "id": "68fc7d8e254263b6",
+   "source": "Hacker News",
+   "title": "Show HN: A free interactive course on AI agent governance",
+   "url": "https://studio.sinapsdata.com.br",
+   "summary": "Article URL: https://studio.sinapsdata.com.br Comments URL: https://news.ycombinator.com/item?id=50526527 Points: 5 # Comments: 1",
+   "published_at": 1794881533.0,
+   "published_bj": "2026-11-17 10:12"
+  },
+  {
+   "id": "aa46c66d8edfa83e",
+   "source": "IT之家",
+   "title": "极摩客推出 M10 迷你主机：AMD 锐龙 5 6600H，板载 24GB LPDDR5",
+   "url": "https://www.ithome.com/1/028/089.htm",
+   "summary": "IT之家 11 月 17 日消息，极摩客 (GMKtec) 近日推出了迷你主机新品 M10。这一型号 基于已有多年历史的 AMD 锐龙 5 6600H 处理器 ， 板载 24GB LPDDR5-4800 内存 。 M10 三维 114×106×42.5 (mm)，质量约 430g；配备热管 + 涡轮风扇散热系统，支持 45W 峰值功率、40W 持续功率；兼容 VESA 壁挂规范。 该迷你主机内置 3 个 M.2 SSD 盘位，分别为 2280 (PCIe Gen4 ×4)、2280 (PCIe Gen4 ×4 / SATA)、2242 (SATA)；配备联发科技 MT7922 无线网卡，支持 ",
+   "published_at": 1794881228.0,
+   "published_bj": "2026-11-17 10:07"
+  },
+  {
+   "id": "6201e50d84628d8e",
+   "source": "IT之家",
+   "title": "苹果 2027 新品前瞻：iPhone Duo 2 等 18 款在列，首款 AI 眼镜有望亮相",
+   "url": "https://www.ithome.com/1/028/088.htm",
+   "summary": "IT之家 11 月 17 日消息，科技媒体 MacRumors 今天（11 月 17 日）报道，综合彭博社记者马克 · 古尔曼（Mark Gurman）及其他消息来源，苹果 2027 年可能推出至少 18 款新品，覆盖手机、平板、电脑、手表及智能家居设备。 iPhone 方面：共计约 6 款 iPhone 18e：A20 芯片，9GB 内存，电池续航更长。 iPhone 18：A20 芯片，9GB 内存，更长的电池续航。 iPhone Air 2：搭载 A20 Pro 芯片、超广角摄像头、更小的动态岛、更长的电池续航，以及苹果 C2 调制解调器，美国版本支持毫米波，相较于当前型号的 C1X 调",
+   "published_at": 1794881126.0,
+   "published_bj": "2026-11-17 10:05"
+  },
+  {
+   "id": "c9cb03efe6b5b3aa",
+   "source": "IT之家",
+   "title": "酷态科 11 月 20 日推出苹果 iPhone 磁吸充电宝新品",
+   "url": "https://www.ithome.com/1/028/087.htm",
+   "summary": "IT之家 11 月 17 日消息，酷态科官方今日宣布，将于 11 月 20 日推出一款适用于苹果 iPhone 的磁吸充电宝新品。 根据官方公布的海报及预热视频，该产品采用了与 iPhone 同款的白色外观。 其海报展示了一只手握持该充电宝的画面，产品上半部分预留了硕大的多摄开孔区域，整体呈现类似手机壳的包裹形态。 目前，酷态科官方尚未公布该产品的具体电池容量、充电功率以及官方售价等详细参数，IT之家将跟进后续报道。",
+   "published_at": 1794881106.0,
+   "published_bj": "2026-11-17 10:05"
+  },
   {
    "id": "1db20797968c0ca7",
    "source": "IT之家",
@@ -29,6 +146,15 @@
    "summary": "IT之家 11 月 17 日消息，今日，在北京举办的北斗时空产业发展论坛上，中国卫星导航定位协会发布《2026 中国北斗产业发展指数报告》。 报告显示，截至 2026 年上半年，我国各种类型的北斗终端设备（不含消费类电子）应用数量接近 4200 万台 / 套，较去年同期增加近 900 万台 / 套，同比增长约 27%。 报告同时显示，北斗综合应用渗透率超过 90%（IT之家注：指北斗在相关行业终端设备中的普及比例）。在大众消费领域，2026 年上半年国内智能手机出货量达 1.24 亿部，超过 98% 支持北斗定位。 同期，国内搭载北斗终端的乘用车出货量约 1000 万辆；具有北斗定位功能的电动",
    "published_at": 1794880411.0,
    "published_bj": "2026-11-17 09:53"
+  },
+  {
+   "id": "6061234c769eca53",
+   "source": "Hacker News",
+   "title": "Show HN: Win98 PE Interpreter in WebAssembly – StarCraft and Diablo on Phones",
+   "url": "https://wine-assembly.berrry.app/",
+   "summary": "Article URL: https://wine-assembly.berrry.app/ Comments URL: https://news.ycombinator.com/item?id=50526380 Points: 8 # Comments: 1",
+   "published_at": 1794880254.0,
+   "published_bj": "2026-11-17 09:50"
   },
   {
    "id": "600b207b8c93f8ea",
@@ -76,6 +202,15 @@
    "published_bj": "2026-11-17 09:38"
   },
   {
+   "id": "a8aec884191202ed",
+   "source": "Hacker News",
+   "title": "Show HN: 1.499x speedup and 28.5% dynamic energy drop on A40 via BF16 tiling",
+   "url": "https://cwtractors.com",
+   "summary": "Article URL: https://cwtractors.com Comments URL: https://news.ycombinator.com/item?id=50526244 Points: 9 # Comments: 0",
+   "published_at": 1794879095.0,
+   "published_bj": "2026-11-17 09:31"
+  },
+  {
    "id": "eed4fbfef24e3462",
    "source": "IT之家",
    "title": "消息称前美团千亿业务负责人刘燕翔离职创业，联手原飞书高管推出 AI 戒指",
@@ -100,6 +235,15 @@
    "url": "https://www.ithome.com/1/028/059.htm",
    "summary": "IT之家 11 月 17 日消息，华为星芒 OSTA O1 Pro 阔直板手机将于 11 月 20 日发布，官方今日预热，OSTA O1 Pro 定位“ 鸿蒙 AI 手机 ”。 从预热视频可以看到，华为星芒手机在软件层面进行了特殊设计， 采用全新图标设计、壁纸全域共色 ，还有全新来电铃声。 IT之家注意到，作为一款“鸿蒙 AI 手机”，OSTA O1 Pro 搭载了“ 个性小星芒 ”专属 AI 伙伴，还有一个专属对话界面。 相关阅读： 《 华为星芒 OSTA O1 Pro 阔直板手机外观公布，主打紫色渐变 》",
    "published_at": 1794878673.0,
+   "published_bj": "2026-11-17 09:24"
+  },
+  {
+   "id": "f1a91b8e0c9d321c",
+   "source": "Hacker News",
+   "title": "The Weather at Home",
+   "url": "https://alexhowells.com/writing/the-weather-at-home/",
+   "summary": "Article URL: https://alexhowells.com/writing/the-weather-at-home/ Comments URL: https://news.ycombinator.com/item?id=50526199 Points: 8 # Comments: 6",
+   "published_at": 1794878671.0,
    "published_bj": "2026-11-17 09:24"
   },
   {
