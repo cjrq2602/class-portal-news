@@ -1,0 +1,370 @@
+{
+ "type": "today",
+ "date": "2026-11-17",
+ "window": {
+  "start_ts": 1794844800.0,
+  "end_ts": 1794877200.0
+ },
+ "generated_at": 1794881080.987501,
+ "generator": "action",
+ "news_count": 52,
+ "keywords": [
+  "ai",
+  "医保",
+  "安全",
+  "秋假",
+  "apec",
+  "中国",
+  "举行",
+  "地区",
+  "峰会",
+  "治理"
+ ],
+ "points": [
+  {
+   "text": "【ai】中新网11月17日电 据国家医保局微信公众号消息，国家医保局会同财政部、国家税务总局全面推进职工医保个人账户跨省共济工作，2026年10月16日",
+   "keyword": "ai",
+   "news_ids": [
+    "1c470a464f7e74ca"
+   ],
+   "refs": [
+    {
+     "id": "1c470a464f7e74ca",
+     "title": "医保钱包代缴居民医保费统筹地区范围不断扩大",
+     "source": "中新网即时",
+     "url": "https://www.chinanews.com.cn/gn/2026/11-17/10733186.shtml",
+     "published_at": 1794873870.0
+    }
+   ]
+  },
+  {
+   "text": "【中国】11月16日，国家统计局发布10月份国民经济运行数据",
+   "keyword": "中国",
+   "news_ids": [
+    "a4a6547bc0dee7f7"
+   ],
+   "refs": [
+    {
+     "id": "a4a6547bc0dee7f7",
+     "title": "生产消费就业三大底盘稳稳托住！10月中国经济答卷“韧性十足”",
+     "source": "中新网即时",
+     "url": "https://www.chinanews.com.cn/cj/2026/11-17/10733176.shtml",
+     "published_at": 1794872019.0
+    }
+   ]
+  },
+  {
+   "text": "【安全】电话手表如今已经成了不少孩子手腕上的“标配”",
+   "keyword": "安全",
+   "news_ids": [
+    "65213ea92aae90a6"
+   ],
+   "refs": [
+    {
+     "id": "65213ea92aae90a6",
+     "title": "几十元就能破解电话手表 刷机服务暗藏哪些安全风险？",
+     "source": "中新网即时",
+     "url": "https://www.chinanews.com.cn/sh/2026/11-17/10733190.shtml",
+     "published_at": 1794875518.0
+    }
+   ]
+  },
+  {
+   "text": "【举行】深圳APEC）加拿大总理卡尼抵达深圳",
+   "keyword": "举行",
+   "news_ids": [
+    "3aee8429d4c21534"
+   ],
+   "refs": [
+    {
+     "id": "3aee8429d4c21534",
+     "title": "深圳APEC）加拿大总理卡尼抵达深圳",
+     "source": "中新网即时",
+     "url": "http://www.chinanews.com.cn/tp/hd2011/2026/11-17/1210953.shtml",
+     "published_at": 1794876380.0
+    }
+   ]
+  },
+  {
+   "text": "【峰会】第49届东盟峰会及系列会议在菲律宾举行",
+   "keyword": "峰会",
+   "news_ids": [
+    "b3e067ab369b35af"
+   ],
+   "refs": [
+    {
+     "id": "b3e067ab369b35af",
+     "title": "第49届东盟峰会及系列会议在菲律宾举行",
+     "source": "中新网即时",
+     "url": "http://www.chinanews.com.cn/tp/hd2011/2026/11-17/1210950.shtml",
+     "published_at": 1794873859.0
+    }
+   ]
+  },
+  {
+   "text": "【治理】读懂“静音舱”背后的治理智慧(微观)",
+   "keyword": "治理",
+   "news_ids": [
+    "5464d0d0f8a283e5"
+   ],
+   "refs": [
+    {
+     "id": "5464d0d0f8a283e5",
+     "title": "公共场合不同需求怎相容？“静音舱”背后的治理智慧",
+     "source": "中新网即时",
+     "url": "https://www.chinanews.com.cn/sh/2026/11-17/10733188.shtml",
+     "published_at": 1794875282.0
+    }
+   ]
+  },
+  {
+   "text": "【秋假】研学游、亲子游、赏秋游多点开花",
+   "keyword": "秋假",
+   "news_ids": [
+    "ad5742545f721820"
+   ],
+   "refs": [
+    {
+     "id": "ad5742545f721820",
+     "title": "秋假2.0升级为“小黄金周”，文旅市场持续火热",
+     "source": "中新网即时",
+     "url": "https://www.chinanews.com.cn/cj/2026/11-17/10733181.shtml",
+     "published_at": 1794872631.0
+    }
+   ]
+  },
+  {
+   "text": "【举行】新华社北京11月16日电 11月16日，国家主席习近平致电热莉卡·茨维亚诺维奇、戴尼斯·贝契罗维奇、达丽娅娜·菲利波维奇，祝贺他们就任波黑主席团",
+   "keyword": "举行",
+   "news_ids": [
+    "f6cdc8c178ef3ca3"
+   ],
+   "refs": [
+    {
+     "id": "f6cdc8c178ef3ca3",
+     "title": "习近平致电祝贺波黑新一届主席团成员就职",
+     "source": "中新网即时",
+     "url": "https://www.chinanews.com.cn/gn/2026/11-17/10733177.shtml",
+     "published_at": 1794873232.0
+    }
+   ]
+  },
+  {
+   "text": "【下单】近日，有外卖骑手按订单备注将餐品放进电梯，拍照确认送达后，却收到了退款申请",
+   "keyword": "下单",
+   "news_ids": [
+    "9289d5fa6f33c83b"
+   ],
+   "refs": [
+    {
+     "id": "9289d5fa6f33c83b",
+     "title": "餐品送达却仍遭退款 揭秘外卖代下单诈骗套路",
+     "source": "中新网即时",
+     "url": "https://www.chinanews.com.cn/sh/2026/11-17/10733184.shtml",
+     "published_at": 1794873506.0
+    }
+   ]
+  },
+  {
+   "text": "中新社北京11月17日电 题：白纸坊太狮：狮头七铃响 坊间京韵长",
+   "keyword": "",
+   "news_ids": [
+    "b7e9796e2a2869ed"
+   ],
+   "refs": [
+    {
+     "id": "b7e9796e2a2869ed",
+     "title": "寻味中华丨艺林）白纸坊太狮：狮头七铃响 坊间京韵长",
+     "source": "中新网即时",
+     "url": "https://www.chinanews.com.cn/cul/2026/11-17/10733189.shtml",
+     "published_at": 1794876789.0
+    }
+   ]
+  },
+  {
+   "text": "一些俄羅斯富豪渴望回到90年代的寡頭政治體制，當時商人掌握著權力",
+   "keyword": "",
+   "news_ids": [
+    "715498645179b134"
+   ],
+   "refs": [
+    {
+     "id": "715498645179b134",
+     "title": "俄羅斯超級富豪們已經在設想一個「後普京時代」",
+     "source": "BBC中文",
+     "url": "https://www.bbc.com/zhongwen/articles/cmx27v835864o/trad?at_medium=RSS&at_campaign=rss",
+     "published_at": 1794875690.0
+    }
+   ]
+  },
+  {
+   "text": "中共中央总书记、国家主席、中央军委主席习近平16日在广东省中山市考察，他强调——",
+   "keyword": "",
+   "news_ids": [
+    "946aa444e3f9d951"
+   ],
+   "refs": [
+    {
+     "id": "946aa444e3f9d951",
+     "title": "习言道｜奋力开创粤港澳大湾区高质量发展新局面",
+     "source": "中新网即时",
+     "url": "https://www.chinanews.com.cn/gn/2026/11-17/10733178.shtml",
+     "published_at": 1794873412.0
+    }
+   ]
+  },
+  {
+   "text": "保持惩治腐败高压态势（学习贯彻党的二十届五中全会精神）",
+   "keyword": "",
+   "news_ids": [
+    "a0ebd9c48831ead8"
+   ],
+   "refs": [
+    {
+     "id": "a0ebd9c48831ead8",
+     "title": "保持惩治腐败高压态势（学习贯彻党的二十届五中全会精神）",
+     "source": "中新网即时",
+     "url": "https://www.chinanews.com.cn/gn/2026/11-17/10733180.shtml",
+     "published_at": 1794873386.0
+    }
+   ]
+  },
+  {
+   "text": "商务部等7部门印发意见，支持各地开发城市礼物——",
+   "keyword": "",
+   "news_ids": [
+    "892a4166455bb814"
+   ],
+   "refs": [
+    {
+     "id": "892a4166455bb814",
+     "title": "从“随手买”走向“必购必带” 游客喜欢怎样的城市礼物",
+     "source": "中新网即时",
+     "url": "https://www.chinanews.com.cn/cj/2026/11-17/10733183.shtml",
+     "published_at": 1794873194.0
+    }
+   ]
+  },
+  {
+   "text": "中新网11月17日电 据《以色列时报》援引伊朗国家电视台当地时间16日晚报道，伊朗海军宣布，在过去24小时内，第四艘油轮在霍尔木兹海峡以东的限制",
+   "keyword": "",
+   "news_ids": [
+    "5854b40bdb5f2ef8"
+   ],
+   "refs": [
+    {
+     "id": "5854b40bdb5f2ef8",
+     "title": "伊朗：24小时内第四艘油轮在霍尔木兹海峡以东触雷起火",
+     "source": "中新网即时",
+     "url": "https://www.chinanews.com.cn/gj/2026/11-17/10733179.shtml",
+     "published_at": 1794872353.0
+    }
+   ]
+  }
+ ],
+ "article": {
+  "title": "2026-11-17 新闻总结",
+  "paragraphs": [
+   {
+    "kind": "lead",
+    "text": "今天共收录 52 条新闻，来自 4 家媒体。把标题放在一起看，讨论主要集中在 AI、安全 这几个方向上，其余消息更像是零散补充。"
+   },
+   {
+    "kind": "section",
+    "heading": "AI",
+    "text": "先看「AI」。欧盟迄今未能说服特朗普加入一项关于AI治理的国际协议…，另有 14 条消息指向同一话题。这条消息短期内的实际影响可能有限，但它指向的方向值得放进观察名单。",
+    "news_ids": [
+     "e993362f51beae63"
+    ],
+    "refs": [
+     {
+      "id": "e993362f51beae63",
+      "title": "欧盟再度推动AI治理全球协议",
+      "source": "FT中文网",
+      "url": "https://www.ftchinese.com/story/001111386",
+      "published_at": 1794844800.0
+     }
+    ]
+   },
+   {
+    "kind": "section",
+    "heading": "就业",
+    "text": "与此同时「就业」。11月16日，国家统计局发布10月份国民经济运行数据…，另有 2 条消息指向同一话题。这类进展更像是把已有能力往工程化落地推了一步，真正的分水岭在于成本和可靠性能不能同时压下来。",
+    "news_ids": [
+     "a4a6547bc0dee7f7"
+    ],
+    "refs": [
+     {
+      "id": "a4a6547bc0dee7f7",
+      "title": "生产消费就业三大底盘稳稳托住！10月中国经济答卷“韧性十足”",
+      "source": "中新网即时",
+      "url": "https://www.chinanews.com.cn/cj/2026/11-17/10733176.shtml",
+      "published_at": 1794872019.0
+     }
+    ]
+   },
+   {
+    "kind": "section",
+    "heading": "安全",
+    "text": "另一个值得注意的方向是「安全」。电话手表如今已经成了不少孩子手腕上的“标配”…，另有 4 条消息指向同一话题。这类问题很少是单点失误，更常见的是权限设计和应急流程一起出了漏洞。",
+    "news_ids": [
+     "65213ea92aae90a6"
+    ],
+    "refs": [
+     {
+      "id": "65213ea92aae90a6",
+      "title": "几十元就能破解电话手表 刷机服务暗藏哪些安全风险？",
+      "source": "中新网即时",
+      "url": "https://www.chinanews.com.cn/sh/2026/11-17/10733190.shtml",
+      "published_at": 1794875518.0
+     }
+    ]
+   },
+   {
+    "kind": "section",
+    "heading": "直播",
+    "text": "相比之下「直播」。直播丨APEC进行时：漫游深圳，另有 2 条消息指向同一话题。对读者来说，值得留意的不是结论本身，而是它背后哪些前提正在被改变。",
+    "news_ids": [
+     "137ef64cab905f01"
+    ],
+    "refs": [
+     {
+      "id": "137ef64cab905f01",
+      "title": "直播丨APEC进行时：漫游深圳，打卡城市地标",
+      "source": "中新网即时",
+      "url": "https://www.chinanews.com.cn/iframe/2026/11-17/10733192.shtml",
+      "published_at": 1794876273.0
+     }
+    ]
+   },
+   {
+    "kind": "glossary",
+    "items": [
+     {
+      "term": "AI",
+      "desc": "人工智能，让机器完成识别、生成、判断等原本需要人做的任务"
+     },
+     {
+      "term": "粤港澳大湾区",
+      "desc": "香港、澳门与珠三角九市共建的世界级城市群战略"
+     },
+     {
+      "term": "高质量发展",
+      "desc": "从“有没有”转向“好不好”的发展要求，强调创新驱动与可持续性"
+     }
+    ]
+   },
+   {
+    "kind": "outlook",
+    "text": "把这几条放在一起看，最值得跟踪的是 AI 和 安全 两条线：一条决定技术能走多远，一条决定它多快能落到普通人的日常里。至于其他消息，可以先放进观察名单，等后续有更实的进展再判断。"
+   }
+  ],
+  "word_count": 496
+ },
+ "ai_enhanced": false,
+ "schema": 1,
+ "window_bj": {
+  "start": "2026-11-17 00:00",
+  "end": "2026-11-17 09:00"
+ }
+}

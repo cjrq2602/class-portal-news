@@ -1,0 +1,370 @@
+{
+ "type": "today",
+ "date": "2026-11-17",
+ "window": {
+  "start_ts": 1794844800.0,
+  "end_ts": 1794877200.0
+ },
+ "generated_at": 1794881080.908702,
+ "generator": "action",
+ "news_count": 108,
+ "keywords": [
+  "ai",
+  "苹果",
+  "to",
+  "in",
+  "on",
+  "发布",
+  "openai",
+  "is",
+  "and",
+  "伟达"
+ ],
+ "points": [
+  {
+   "text": "【ai】IT早报”时间，大家好，现在是 2026 年 11 月 17 日星期二，今天的重要科技资讯有： 1. 特朗普：支持苹果库克执掌英伟达，但不介意黄",
+   "keyword": "ai",
+   "news_ids": [
+    "80cf701ca188efcb"
+   ],
+   "refs": [
+    {
+     "id": "80cf701ca188efcb",
+     "title": "IT早报 1117：特朗普支持苹果库克执掌英伟达但不介意黄仁勋回归；阿里千问 4Max 上线；华为 Mate X8 折叠屏 11 月 24 日发布；OPPO Reno17 手机发布...",
+     "source": "IT之家",
+     "url": "https://www.ithome.com/1/028/038.htm",
+     "published_at": 1794874448.0
+    }
+   ]
+  },
+  {
+   "text": "【ai】Following an October announcement, Apple has detailed new permission con",
+   "keyword": "ai",
+   "news_ids": [
+    "9f2b878176167a53"
+   ],
+   "refs": [
+    {
+     "id": "9f2b878176167a53",
+     "title": "Apple reveals new Mac security controls as AI agents raise privacy risks",
+     "source": "TechCrunch",
+     "url": "https://techcrunch.com/2026/11/16/apple-reveals-new-mac-security-controls-as-ai-agents-raise-privacy-risks/",
+     "published_at": 1794862862.0
+    }
+   ]
+  },
+  {
+   "text": "【to】Article URL: https://xusheng",
+   "keyword": "to",
+   "news_ids": [
+    "345852b3cc5dd023"
+   ],
+   "refs": [
+    {
+     "id": "345852b3cc5dd023",
+     "title": "Windows 11 Is Collecting Data on Which Coding Agents and Developer Tools You Use",
+     "source": "Hacker News",
+     "url": "https://xusheng.dev/posts/windows-coding-agent-telemetry/",
+     "published_at": 1794869900.0
+    }
+   ]
+  },
+  {
+   "text": "【ai】A lot of people outside tech ask me if AI is going to replace programmer",
+   "keyword": "ai",
+   "news_ids": [
+    "da0040388ff7637d"
+   ],
+   "refs": [
+    {
+     "id": "da0040388ff7637d",
+     "title": "Ask HN: If AI tools are so good, why isn't your bug backlog empty?",
+     "source": "Hacker News",
+     "url": "https://news.ycombinator.com/item?id=50520076",
+     "published_at": 1794849628.0
+    }
+   ]
+  },
+  {
+   "text": "【ai】IT之家 11 月 17 日消息，苹果今日向 iPad 和 Mac 用户推送 iPadOS 27.3 DP Beta 2（24C5049d）和 ",
+   "keyword": "ai",
+   "news_ids": [
+    "27997d1bdbe0d91f"
+   ],
+   "refs": [
+    {
+     "id": "27997d1bdbe0d91f",
+     "title": "苹果 iPadOS / macOS 27.3 DP Beta 2 系统更新后，国行 iPad 和 Mac 新增 Apple 智能",
+     "source": "IT之家",
+     "url": "https://www.ithome.com/1/028/039.htm",
+     "published_at": 1794874662.0
+    }
+   ]
+  },
+  {
+   "text": "【and】Article URL: https://apnews",
+   "keyword": "and",
+   "news_ids": [
+    "eb3887b0fd43f0e3"
+   ],
+   "refs": [
+    {
+     "id": "eb3887b0fd43f0e3",
+     "title": "Outages reported at Bank of America, Chase, U.S. Bank, Wells Fargo and Zelle",
+     "source": "Hacker News",
+     "url": "https://apnews.com/article/bank-outage-chase-wells-fargo-truist-50fee2693c22f597fa6ca51a97ef2cda",
+     "published_at": 1794853890.0
+    }
+   ]
+  },
+  {
+   "text": "【in】Article URL: https://arstechnica",
+   "keyword": "in",
+   "news_ids": [
+    "aae1cd0c7388b068"
+   ],
+   "refs": [
+    {
+     "id": "aae1cd0c7388b068",
+     "title": "Comcast's \"fiber-powered Wi-Fi\" is cable, AT&T says in false advertising case",
+     "source": "Hacker News",
+     "url": "https://arstechnica.com/tech-policy/2026/11/comcast-falsely-advertises-cable-internet-as-fiber-powered-att-lawsuit-says/",
+     "published_at": 1794862088.0
+    }
+   ]
+  },
+  {
+   "text": "IT之家 11 月 17 日消息，据央视新闻今日报道，我国“梦想”号大洋钻探船近日圆满完成开路泥浆循环系统的海试任务， 刷新了同类系统国际最大作",
+   "keyword": "",
+   "news_ids": [
+    "c45b638e8bd2013f"
+   ],
+   "refs": [
+    {
+     "id": "c45b638e8bd2013f",
+     "title": "刷新水深纪录，我国“梦想”号大洋钻探船完成重大装备海试任务",
+     "source": "IT之家",
+     "url": "https://www.ithome.com/1/028/048.htm",
+     "published_at": 1794876468.0
+    }
+   ]
+  },
+  {
+   "text": "IT之家 11 月 17 日消息，微软威胁情报团队发现，一场针对多个组织的大规模钓鱼攻击活动正在利用近期 Microsoft 365 服务中断事",
+   "keyword": "",
+   "news_ids": [
+    "1b8e6ece1d040238"
+   ],
+   "refs": [
+    {
+     "id": "1b8e6ece1d040238",
+     "title": "不法分子借微软 365 宕机实施大规模钓鱼攻击，伪造邮件通知窃取用户账号",
+     "source": "IT之家",
+     "url": "https://www.ithome.com/1/028/043.htm",
+     "published_at": 1794875268.0
+    }
+   ]
+  },
+  {
+   "text": "IT之家 11 月 17 日消息，在电商平台和视频网站上，远程刷机、破解电话手表家长监管功能的教程和服务并不难找，报价大多在 30 元至 60 ",
+   "keyword": "",
+   "news_ids": [
+    "c21507df75dc789a"
+   ],
+   "refs": [
+    {
+     "id": "c21507df75dc789a",
+     "title": "几十元即可破解儿童电话手表，刷机多重安全风险不容忽视",
+     "source": "IT之家",
+     "url": "https://www.ithome.com/1/028/037.htm",
+     "published_at": 1794874147.0
+    }
+   ]
+  },
+  {
+   "text": "IT之家 11 月 17 日消息，据新华社及央视报道，有着“流星雨之王”美誉的狮子座流星雨将于 11 月 18 日凌晨迎来极大期，最佳观测窗口为",
+   "keyword": "",
+   "news_ids": [
+    "8250951d58155e95"
+   ],
+   "refs": [
+    {
+     "id": "8250951d58155e95",
+     "title": "流星雨之王”狮子座流星雨今晚至明日迎来极大期，专家建议后半夜肉眼观测",
+     "source": "IT之家",
+     "url": "https://www.ithome.com/1/028/035.htm",
+     "published_at": 1794873439.0
+    }
+   ]
+  },
+  {
+   "text": "IT之家 11 月 17 日消息，一款名为 Retro Song Bird 的音箱近日现身 Kickstarter 众筹平台，售价 79 美元 ",
+   "keyword": "",
+   "news_ids": [
+    "bca3eb2b93964319"
+   ],
+   "refs": [
+    {
+     "id": "bca3eb2b93964319",
+     "title": "让你随时欣赏 Game Boy 卡带里的游戏原声音乐，Retro Song Bird 音箱现身众筹",
+     "source": "IT之家",
+     "url": "https://www.ithome.com/1/028/030.htm",
+     "published_at": 1794872042.0
+    }
+   ]
+  },
+  {
+   "text": "IT之家 11 月 17 日消息，据科技媒体 Engadget 今天报道，美国联合航空如今遭遇大范围系统故障，今天乘飞机出行的旅客可能会遇到延误",
+   "keyword": "",
+   "news_ids": [
+    "a27513502a484fc2"
+   ],
+   "refs": [
+    {
+     "id": "a27513502a484fc2",
+     "title": "美联航遭遇大范围系统故障，航班起飞受影响",
+     "source": "IT之家",
+     "url": "https://www.ithome.com/1/028/026.htm",
+     "published_at": 1794871046.0
+    }
+   ]
+  },
+  {
+   "text": "Kalshi 平台数据显示，SpaceX 与特斯拉在 2027 年 3 月之前完成合并的概率，自周四的 27% 攀升至 62%",
+   "keyword": "",
+   "news_ids": [
+    "f252d2f348866525"
+   ],
+   "refs": [
+    {
+     "id": "f252d2f348866525",
+     "title": "预测市场：特斯拉‑SpaceX在2027年4月前完成合并的概率升至60%以上",
+     "source": "cnBeta",
+     "url": "https://www.cnbeta.com.tw/articles/tech/1586678.htm",
+     "published_at": 1794868733.0
+    }
+   ]
+  },
+  {
+   "text": "Article URL: https://www",
+   "keyword": "",
+   "news_ids": [
+    "78e89e434825b62d"
+   ],
+   "refs": [
+    {
+     "id": "78e89e434825b62d",
+     "title": "BugMeNot Has Closed",
+     "source": "Hacker News",
+     "url": "https://www.bugmenot.com/",
+     "published_at": 1794864737.0
+    }
+   ]
+  }
+ ],
+ "article": {
+  "title": "2026-11-17 新闻总结",
+  "paragraphs": [
+   {
+    "kind": "lead",
+    "text": "今天共收录 108 条新闻，来自 7 家媒体。把标题放在一起看，讨论主要集中在 AI、发布 这几个方向上，其余消息更像是零散补充。"
+   },
+   {
+    "kind": "section",
+    "heading": "手机",
+    "text": "先看「手机」。IT早报”时间，大家好，现在是 2026 年 11 月 17 日星期二，今天的重要科技资讯有： 1. 特朗普：支持苹果库克执掌英伟达，另有 52 条消息指向同一话题。技术路线的胜负很少由一次发布会决定，接下来要看的是它能不能被更多团队低成本复用。",
+    "news_ids": [
+     "80cf701ca188efcb"
+    ],
+    "refs": [
+     {
+      "id": "80cf701ca188efcb",
+      "title": "IT早报 1117：特朗普支持苹果库克执掌英伟达但不介意黄仁勋回归；阿里千问 4Max 上线；华为 Mate X8 折叠屏 11 月 24 日发布；OPPO Reno17 手机发布...",
+      "source": "IT之家",
+      "url": "https://www.ithome.com/1/028/038.htm",
+      "published_at": 1794874448.0
+     }
+    ]
+   },
+   {
+    "kind": "section",
+    "heading": "更新",
+    "text": "与此同时「更新」。IT之家 11 月 17 日消息，苹果今日向 iPad 和 Mac 用户推送 iPadOS 27.3 DP Beta 2（24C5049d）和 macOS 27.3 DP Beta…，另有 3 条消息指向同一话题。从节奏上看，行业已经从「能不能做」转向「做得便不便宜」，这通常意味着竞争会更务实。",
+    "news_ids": [
+     "27997d1bdbe0d91f"
+    ],
+    "refs": [
+     {
+      "id": "27997d1bdbe0d91f",
+      "title": "苹果 iPadOS / macOS 27.3 DP Beta 2 系统更新后，国行 iPad 和 Mac 新增 Apple 智能",
+      "source": "IT之家",
+      "url": "https://www.ithome.com/1/028/039.htm",
+      "published_at": 1794874662.0
+     }
+    ]
+   },
+   {
+    "kind": "section",
+    "heading": "游戏",
+    "text": "另一个值得注意的方向是「游戏」。IT之家 11 月 17 日消息，《毁灭战士：黑暗时代》（DOOM: The Dark Ages）昨日（11 月 16 日）推出 5 号更新，另有 3 条消息指向同一话题。技术路线的胜负很少由一次发布会决定，接下来要看的是它能不能被更多团队低成本复用。",
+    "news_ids": [
+     "bdae6c976c9dae0a"
+    ],
+    "refs": [
+     {
+      "id": "bdae6c976c9dae0a",
+      "title": "AMD FSR 4.1 超分 +4 代帧生成技术首次落地 Vulkan 引擎：《毁灭战士：黑暗时代》游戏 5 号更新上线",
+      "source": "IT之家",
+      "url": "https://www.ithome.com/1/028/034.htm",
+      "published_at": 1794873281.0
+     }
+    ]
+   },
+   {
+    "kind": "section",
+    "heading": "刷新水深纪录",
+    "text": "相比之下「刷新水深纪录」。IT之家 11 月 17 日消息，据央视新闻今日报道，我国“梦想”号大洋钻探船近日圆满完成开路泥浆循环系统的海试任务。技术路线的胜负很少由一次发布会决定，接下来要看的是它能不能被更多团队低成本复用。",
+    "news_ids": [
+     "c45b638e8bd2013f"
+    ],
+    "refs": [
+     {
+      "id": "c45b638e8bd2013f",
+      "title": "刷新水深纪录，我国“梦想”号大洋钻探船完成重大装备海试任务",
+      "source": "IT之家",
+      "url": "https://www.ithome.com/1/028/048.htm",
+      "published_at": 1794876468.0
+     }
+    ]
+   },
+   {
+    "kind": "glossary",
+    "items": [
+     {
+      "term": "AI",
+      "desc": "人工智能，让机器完成识别、生成、判断等原本需要人做的任务"
+     },
+     {
+      "term": "GPU",
+      "desc": "图形处理器，因为擅长大规模并行计算，成了 AI 训练的主力硬件"
+     },
+     {
+      "term": "算力",
+      "desc": "计算能力，通常用 GPU 数量和浮点性能衡量，是训练大模型的门槛"
+     }
+    ]
+   },
+   {
+    "kind": "outlook",
+    "text": "把这几条放在一起看，最值得跟踪的是 AI 和 发布 两条线：一条决定技术能走多远，一条决定它多快能落到普通人的日常里。至于其他消息，可以先放进观察名单，等后续有更实的进展再判断。"
+   }
+  ],
+  "word_count": 695
+ },
+ "ai_enhanced": false,
+ "schema": 1,
+ "window_bj": {
+  "start": "2026-11-17 00:00",
+  "end": "2026-11-17 09:00"
+ }
+}
