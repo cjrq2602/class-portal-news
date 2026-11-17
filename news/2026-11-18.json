@@ -1,7 +1,7 @@
 {
  "date": "2026-11-18",
- "generated_at": 1794929876.0673401,
- "count": 2,
+ "generated_at": 1794934656.186056,
+ "count": 22,
  "items": [
   {
    "id": "f54fbcab07bc1ff7",
@@ -11,6 +11,186 @@
    "summary": "点击查看原文>",
    "published_at": 1794941587.0,
    "published_bj": "2026-11-18 02:53"
+  },
+  {
+   "id": "fb456b7429fdaf0e",
+   "source": "IT之家",
+   "title": "大疆多款产品“如期”涨价：涉 Osmo Pocket 4/4P/Nano，最高涨 560 元",
+   "url": "https://www.ithome.com/1/028/567.htm",
+   "summary": "IT之家 11 月 18 日消息，不久前，大疆通过官网发布《关于 DJI 大疆部分产品建议零售价调整的说明》，受全球半导体、存储等多项关键零部件成本持续大幅上涨影响，经审慎评估，大疆决定自 2026 年 11 月 18 日 00:00 起， 对部分产品的建议零售价进行调整 。 时间来到今天（18 日）零时过后，大疆 Osmo Pocket 4P 标准套装、Osmo Pocket 4 标准套装及多个套装版本等产品的价格“如期”上涨，部分产品涨幅达到 560 元。 IT之家汇总目前已知的价格变动如下： Osmo Pocket 4P 标准套装 3799 元 → 4099 元，上涨 300 元； Vl",
+   "published_at": 1794934009.0,
+   "published_bj": "2026-11-18 00:46"
+  },
+  {
+   "id": "46b9b2adbb4bb45e",
+   "source": "TechCrunch",
+   "title": "Jensen Huang says he would be ‘honored’ if allowed to return as Nvidia CEO",
+   "url": "https://techcrunch.com/2026/11/17/jensen-huang-says-he-would-be-honored-if-allowed-to-return-as-nvidia-ceo/",
+   "summary": "In the first public statement since his resignation, Nvidia founder Jensen Huang signalled his willingness to return as CEO.",
+   "published_at": 1794933855.0,
+   "published_bj": "2026-11-18 00:44"
+  },
+  {
+   "id": "f1e19474a9689747",
+   "source": "IT之家",
+   "title": "黄仁勋打破沉默：若董事会允许，愿重返英伟达担任 CEO",
+   "url": "https://www.ithome.com/1/028/566.htm",
+   "summary": "IT之家 11 月 18 日消息，英伟达联合创始人及前首席执行官黄仁勋在风波后首次打破沉默，他在最新发表的声明中表示， 若董事会允许，他愿意在卸任后重返公司担任 CEO 。这也是他自 11 月 12 日辞职以来，首次公开谈论重返岗位这一话题。 黄仁勋提到，过去一周，自己深受朋友、行业同仁以及素未谋面之人的爱与支持的感动。感谢所有对自己的家人和自己伸出援手的人，这份情谊意义非凡。他称， 如果董事会认为自己的回归最符合股东、员工、公司及美国的利益，将荣幸地回应这些呼声，重返 CEO 的岗位 。 黄仁勋还就其不忠行为向家人和员工道歉，承认在私生活中犯了“严重错误”。 “我没有达到英伟达对每个人的期望",
+   "published_at": 1794933658.0,
+   "published_bj": "2026-11-18 00:40"
+  },
+  {
+   "id": "49b46326d9d6a64d",
+   "source": "Hacker News",
+   "title": "Jensen Huang says he’s open to returning in first statement since resignation",
+   "url": "https://www.cnbc.com/2026/11/17/nvidia-jensen-huang-statement.html",
+   "summary": "Article URL: https://www.cnbc.com/2026/11/17/nvidia-jensen-huang-statement.html Comments URL: https://news.ycombinator.com/item?id=50534044 Points: 19 # Comments: 9",
+   "published_at": 1794933638.0,
+   "published_bj": "2026-11-18 00:40"
+  },
+  {
+   "id": "4018c8d4deab5f05",
+   "source": "cnBeta",
+   "title": "英特尔规划三大“Razor Lake”产品线 覆盖台式机、轻薄本与超低功耗设备",
+   "url": "https://www.cnbeta.com.tw/articles/tech/1586830.htm",
+   "summary": "来自最新曝光的信息显示，英特尔正在为下一代处理器平台“Razor Lake”制定更完整的产品布局，该系列预计将同时覆盖台式机、高性能笔记本以及超低功耗移动设备市场，并划分为S、U和L三大产品线。 阅读全文",
+   "published_at": 1794933487.0,
+   "published_bj": "2026-11-18 00:38"
+  },
+  {
+   "id": "ee49b0cdf8886477",
+   "source": "cnBeta",
+   "title": "iPhone Duo屏幕开裂事件再起波澜 苹果被指施压折叠屏供应商撤回声明",
+   "url": "https://www.cnbeta.com.tw/articles/tech/1586828.htm",
+   "summary": "苹果公司被指曾向其首款折叠屏手机iPhone Duo的零部件供应商Fine M-Tec施加压力，要求对方撤回一份否认自身零部件存在质量问题的公开声明。随着屏幕开裂事件持续发酵，这家韩国供应商与苹果之间的关系也受到关注。 阅读全文",
+   "published_at": 1794933417.0,
+   "published_bj": "2026-11-18 00:36"
+  },
+  {
+   "id": "7ddb4b4f9c5aa9ae",
+   "source": "cnBeta",
+   "title": "黄仁勋首次回应辞职风波：若董事会需要 愿重返英伟达担任CEO",
+   "url": "https://www.cnbeta.com.tw/articles/tech/1586826.htm",
+   "summary": "在因个人丑闻辞去英伟达首席执行官职务数天后，英伟达创始人黄仁勋首次公开回应外界对于其回归公司的呼声。他表示，如果公司董事会认为他的回归符合股东、员工、公司及美国的最佳利益，他将愿意重新出任首席执行官。 阅读全文",
+   "published_at": 1794933383.0,
+   "published_bj": "2026-11-18 00:36"
+  },
+  {
+   "id": "67084343268f40f2",
+   "source": "cnBeta",
+   "title": "马斯克称SpaceX的业务预测完全不依赖OpenAI订单",
+   "url": "https://www.cnbeta.com.tw/articles/tech/1586824.htm",
+   "summary": "SpaceX首席执行官埃隆·马斯克近日表示，公司在业务规划中假设不会向OpenAI出售任何算力。这番表态针对OpenAI首席执行官萨姆·奥特曼此前有关AI数据中心需求可能被高估的言论。马斯克认为，如果OpenAI的产品无法带动算力需求快速增长，那么问题可能出在产品本身，而不是数据中心建设规模过大。 阅读全文",
+   "published_at": 1794933280.0,
+   "published_bj": "2026-11-18 00:34"
+  },
+  {
+   "id": "dfb549602dcad93c",
+   "source": "cnBeta",
+   "title": "哈佛研究发出警告：美国数据中心耗电量或远超预估 已超过智利全国用电水平",
+   "url": "https://www.cnbeta.com.tw/articles/tech/1586822.htm",
+   "summary": "美国人工智能产业的迅猛扩张正在推高能源需求，而一项来自哈佛大学的新研究指出，美国数据中心的实际用电量可能已经远高于官方统计数字，其能源消耗规模甚至超过了整个智利全国的用电水平。 阅读全文",
+   "published_at": 1794933248.0,
+   "published_bj": "2026-11-18 00:34"
+  },
+  {
+   "id": "eeceedf51078d49f",
+   "source": "cnBeta",
+   "title": "开发者把《毁灭战士》塞进U盘 复制文件即可操控游戏",
+   "url": "https://www.cnbeta.com.tw/articles/game/1586820.htm",
+   "summary": "经典射击游戏《毁灭战士》（DOOM）再次迎来令人意想不到的新运行平台。德国嵌入式软件开发者兼硬件黑客亚伦·克里斯托费尔（Aaron Christophel）成功让这款诞生于1993年的游戏运行在一枚128GB USB闪存盘上，而玩家控制游戏角色的方式同样充满创意：通过向U盘复制或读取文件来完成移动、开火等操作。 阅读全文",
+   "published_at": 1794933179.0,
+   "published_bj": "2026-11-18 00:32"
+  },
+  {
+   "id": "f595bebfc4120211",
+   "source": "TechCrunch",
+   "title": "Daydream’s new AI agent acts as your personal stylist — and can shop for you, too",
+   "url": "https://techcrunch.com/2026/11/17/daydreams-new-ai-agent-acts-as-your-personal-stylist-and-can-shop-for-you-too/",
+   "summary": "Daydream's new AI shopping agent can remember your style, virtually try on clothes, plan outfits around your wardrobe, track sales, and complete purchases.",
+   "published_at": 1794933175.0,
+   "published_bj": "2026-11-18 00:32"
+  },
+  {
+   "id": "9af8eddf839b94a0",
+   "source": "cnBeta",
+   "title": "宇宙黎明时期惊现双超级黑洞：挑战现有宇宙演化理论",
+   "url": "https://www.cnbeta.com.tw/articles/science/1586818.htm",
+   "summary": "国际天文学研究团队近日宣布，在距离大爆炸仅约9亿年的宇宙早期阶段，发现了一对异常巨大的超级黑洞。由于它们形成和成长的速度远超现有理论预测，这一发现正在挑战科学界对于早期宇宙中超级黑洞起源的认知。 阅读全文",
+   "published_at": 1794933137.0,
+   "published_bj": "2026-11-18 00:32"
+  },
+  {
+   "id": "78211b3260c3b28f",
+   "source": "Solidot",
+   "title": "学校禁止手机有助于提高学生成绩",
+   "url": "https://www.solidot.org/story?sid=85915",
+   "summary": "美国学生的成绩从十多年前开始下滑，这一时间趋势与智能手机的流行基本一致，引发了对智能手机在学生成绩下滑中所扮演角色的疑问。很多美国州和学校开始执行手机禁令。最新研究显示，手机禁令略微提升了学生成绩。研究调查了 2021-2026 年间就读于 4600 所学校的 330 万名三至十年级的美国学生，使用 MAP 测试成绩，比较了实施严格手机禁令的学校与未实施禁令学校的学生的学业表现。研究发现，手机禁令学校学生至少部分考试成绩略有提高——少许提升幅度更大——且有证据表明，这种提高会随着时间的推移而增加。研究人员解释说，正如成绩的下降会逐年累积一样，进步也可能是渐进的。美国已有 46 个州对学校使用手",
+   "published_at": 1794932695.0,
+   "published_bj": "2026-11-18 00:24"
+  },
+  {
+   "id": "80497ea8ab19b9cb",
+   "source": "cnBeta",
+   "title": "美国政府施压下架“ICE追踪”的尝试遭到挫败",
+   "url": "https://www.cnbeta.com.tw/articles/tech/1586816.htm",
+   "summary": "美国政府日前就一宗涉及应用下架的诉讼达成和解协议，此前联邦法官认为，政府要求苹果将“Eyes Up”应用从App Store移除的做法，很可能侵犯了开发者所享有的美国宪法第一修正案权利。 阅读全文",
+   "published_at": 1794932583.0,
+   "published_bj": "2026-11-18 00:23"
+  },
+  {
+   "id": "b6fc030450742cdb",
+   "source": "cnBeta",
+   "title": "全球智能手机市场预计连续收缩 苹果iPhone明显抗跌",
+   "url": "https://www.cnbeta.com.tw/articles/tech/1586814.htm",
+   "summary": "全球智能手机市场正受到宏观经济环境恶化以及内存和闪存价格上涨的双重冲击，行业出货量预计将连续两年下滑。不过，苹果iPhone的表现相对稳健。摩根士丹利在最新研究报告中预计，苹果2027年iPhone出货量将达到约2.7亿部，同比增长7%，而全球智能手机市场整体出货量仍将下降5%。 阅读全文",
+   "published_at": 1794932512.0,
+   "published_bj": "2026-11-18 00:21"
+  },
+  {
+   "id": "6c3b01e2827e978a",
+   "source": "cnBeta",
+   "title": "法国就“计划报废”指控起诉苹果公司 案件将于2027年开庭审理",
+   "url": "https://www.cnbeta.com.tw/articles/tech/1586812.htm",
+   "summary": "法国消费者权益组织“停止计划报废计划”（Halte à l’Obsolescence Programmée，简称HOP）针对苹果公司的投诉取得新进展。经过数年的调查后，法国检方决定将苹果公司诉至巴黎刑事法院，案件围绕所谓“计划报废”以及限制设备维修的问题展开。 阅读全文",
+   "published_at": 1794932445.0,
+   "published_bj": "2026-11-18 00:20"
+  },
+  {
+   "id": "b7ab75921a84f017",
+   "source": "IT之家",
+   "title": "小米 18 Pro 系列手机国际版正式发布：把背屏带向海外，1399 欧元起",
+   "url": "https://www.ithome.com/1/028/564.htm",
+   "summary": "IT之家 11 月 18 日消息，在昨晚的巴黎发布会上，小米 18 Pro 系列手机国际版正式发布，把背屏设计带向海外， 售价 1,399 欧元 （IT之家注：现汇率约合 10,278 元人民币） 起 。 小米 18 Pro（电池 6000mAh | 骁龙 8E6） 12GB+256GB 规格：1,399 欧元 （现汇率约合 10,278 元人民币） ； 12GB+512GB 规格：1,599 欧元 （现汇率约合 11,748 元人民币） 。 小米 18 Pro Max（电池 7050mAh | 骁龙 8EE6） 12GB+256GB 规格：1,599 欧元 （现汇率约合 11,748 元人民",
+   "published_at": 1794932423.0,
+   "published_bj": "2026-11-18 00:20"
+  },
+  {
+   "id": "18798d96838f28af",
+   "source": "cnBeta",
+   "title": "AI购物代理擅自下单四盒鸡蛋 用户最终收到整整72枚",
+   "url": "https://www.cnbeta.com.tw/articles/funny/1586810.htm",
+   "summary": "使用AI代理的用户马特·史密斯注意到，AI并没有像往常一样完成购物订单，而是为他订购了数量奇怪的鸡蛋。马特·史密斯并没有在购物清单上列出鸡蛋;然而，AI助手却在他的购物车里添加了四包当地知名品牌“Vital Farms”的大号鸡蛋。每包鸡蛋有18枚，总共72枚鸡蛋送到了他家。 阅读全文",
+   "published_at": 1794931942.0,
+   "published_bj": "2026-11-18 00:12"
+  },
+  {
+   "id": "547b85a741d4006c",
+   "source": "cnBeta",
+   "title": "RTX 5090返修后电源接口脱落 零售商再次拒保",
+   "url": "https://www.cnbeta.com.tw/articles/tech/1586808.htm",
+   "summary": "一名同德GeForce RTX 5090 GameRock OC用户称，返修显卡更换的12VHPWR接口在首次开机后从PCB上脱离。显卡再次送检后，英国零售商Overclockers UK据称仍以物理损坏为由判定保修失效，用户已要求管理层介入。 阅读全文",
+   "published_at": 1794931927.0,
+   "published_bj": "2026-11-18 00:12"
+  },
+  {
+   "id": "fe1599baf8436cee",
+   "source": "cnBeta",
+   "title": "福克斯主持人称《GTA6》女主是“妓女” 引发IGN批评",
+   "url": "https://www.cnbeta.com.tw/articles/game/1586806.htm",
+   "summary": "美国晨间节目FOX &amp; Friends介绍《GTA6》时引发争议。主持人Rachel Campos-Duffy无依据询问女主角露西亚是否为“妓女”，IGN随后批评节目传播错误信息并制造道德恐慌。 阅读全文",
+   "published_at": 1794931831.0,
+   "published_bj": "2026-11-18 00:10"
   },
   {
    "id": "9abb360c06b2eff1",

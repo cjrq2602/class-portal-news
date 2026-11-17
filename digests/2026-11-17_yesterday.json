@@ -1,0 +1,382 @@
+{
+ "type": "yesterday",
+ "date": "2026-11-17",
+ "window": {
+  "start_ts": 1794844800.0,
+  "end_ts": 1794931200.0
+ },
+ "generated_at": 1794934667.8542738,
+ "generator": "action",
+ "news_count": 368,
+ "keywords": [
+  "ai",
+  "苹果",
+  "伟达",
+  "英伟",
+  "发布",
+  "to",
+  "手机",
+  "美元",
+  "in",
+  "仁勋"
+ ],
+ "points": [
+  {
+   "text": "【ai】IT之家 11 月 17 日消息，今日，OpenAI 宣布与 Apollo Research、METR、Transluce 和 Goodfire",
+   "keyword": "ai",
+   "news_ids": [
+    "cab6e37e6fd3ea29"
+   ],
+   "refs": [
+    {
+     "id": "cab6e37e6fd3ea29",
+     "title": "OpenAI 与 Goodfire 达成 AI 安全合作，此前曾探讨超 50 亿美元收购",
+     "source": "IT之家",
+     "url": "https://www.ithome.com/1/028/024.htm",
+     "published_at": 1794870739.0
+    }
+   ]
+  },
+  {
+   "text": "【ai】IT早报”时间，大家好，现在是 2026 年 11 月 17 日星期二，今天的重要科技资讯有： 1. 特朗普：支持苹果库克执掌英伟达，但不介意黄",
+   "keyword": "ai",
+   "news_ids": [
+    "80cf701ca188efcb"
+   ],
+   "refs": [
+    {
+     "id": "80cf701ca188efcb",
+     "title": "IT早报 1117：特朗普支持苹果库克执掌英伟达但不介意黄仁勋回归；阿里千问 4Max 上线；华为 Mate X8 折叠屏 11 月 24 日发布；OPPO Reno17 手机发布...",
+     "source": "IT之家",
+     "url": "https://www.ithome.com/1/028/038.htm",
+     "published_at": 1794874448.0
+    }
+   ]
+  },
+  {
+   "text": "【ai】IT之家 11 月 17 日消息，华为星芒 OSTA O1 Pro 阔直板手机将于 11 月 20 日发布，官方今日预热，OSTA O1 Pro",
+   "keyword": "ai",
+   "news_ids": [
+    "1a36a96f1424ea36"
+   ],
+   "refs": [
+    {
+     "id": "1a36a96f1424ea36",
+     "title": "华为星芒 OSTA O1 Pro 定位“鸿蒙 AI 手机”：全新图标、铃声，搭载专属 AI 伙伴",
+     "source": "IT之家",
+     "url": "https://www.ithome.com/1/028/059.htm",
+     "published_at": 1794878673.0
+    }
+   ]
+  },
+  {
+   "text": "【ai】IT之家 11 月 17 日消息，据彭博社今天报道，OpenAI 首席执行官萨姆 · 奥尔特曼表示，即使英伟达前 CEO 黄仁勋不再掌舵，AI ",
+   "keyword": "ai",
+   "news_ids": [
+    "a2a64fbc1e244976"
+   ],
+   "refs": [
+    {
+     "id": "a2a64fbc1e244976",
+     "title": "OpenAI 奥尔特曼谈黄仁勋离职：我也被解雇过，相信 AI 行业能平稳度过",
+     "source": "IT之家",
+     "url": "https://www.ithome.com/1/028/052.htm",
+     "published_at": 1794877381.0
+    }
+   ]
+  },
+  {
+   "text": "【ai】苹果于11月16日向开发者推送了iOS 27.3第二个测试版",
+   "keyword": "ai",
+   "news_ids": [
+    "0afda91221da039a"
+   ],
+   "refs": [
+    {
+     "id": "0afda91221da039a",
+     "title": "iOS 27.3 Beta 2发布：苹果带来Siri AI升级、iPhone Duo新解锁方式及多项功能改进",
+     "source": "cnBeta",
+     "url": "https://www.cnbeta.com.tw/articles/tech/1586682.htm",
+     "published_at": 1794893436.0
+    }
+   ]
+  },
+  {
+   "text": "地热初创企业 Quaise Energy 希望借助技术汽化岩石，钻进地下超高温地层，全天候产出清洁能源",
+   "keyword": "",
+   "news_ids": [
+    "ad5c08c8f916ae25"
+   ],
+   "refs": [
+    {
+     "id": "ad5c08c8f916ae25",
+     "title": "谷歌采用地热技术 通过汽化岩石获取清洁能源",
+     "source": "cnBeta",
+     "url": "https://www.cnbeta.com.tw/articles/tech/1586804.htm",
+     "published_at": 1794931191.0
+    }
+   ]
+  },
+  {
+   "text": "Article URL: https://www",
+   "keyword": "",
+   "news_ids": [
+    "4e62b55b6afeebce"
+   ],
+   "refs": [
+    {
+     "id": "4e62b55b6afeebce",
+     "title": "NSA Internal Network Down",
+     "source": "Hacker News",
+     "url": "https://www.reuters.com/technology/highly-classified-us-national-security-communications-network-is-down-cnn-2026-11-17/",
+     "published_at": 1794930648.0
+    }
+   ]
+  },
+  {
+   "text": "11月16日，俄媒传出消息，称Steam可能在俄罗斯遭到封禁",
+   "keyword": "",
+   "news_ids": [
+    "f5d67b0c852d52d2"
+   ],
+   "refs": [
+    {
+     "id": "f5d67b0c852d52d2",
+     "title": "Steam在俄罗斯可能被封禁？当局出面辟谣",
+     "source": "cnBeta",
+     "url": "https://www.cnbeta.com.tw/articles/game/1586802.htm",
+     "published_at": 1794930122.0
+    }
+   ]
+  },
+  {
+   "text": "IT之家 11 月 17 日消息，据路透社今天（17 日）援引两名知情人士消息称，面对劳动力成本上涨及制造业回流美国带来的成本压力，通用汽车计划",
+   "keyword": "",
+   "news_ids": [
+    "4a26ec658ce37e9b"
+   ],
+   "refs": [
+    {
+     "id": "4a26ec658ce37e9b",
+     "title": "靠机器人缓解成本压力，通用汽车计划到 2028 年将北美工厂自动化规模提升 20%",
+     "source": "IT之家",
+     "url": "https://www.ithome.com/1/028/561.htm",
+     "published_at": 1794928331.0
+    }
+   ]
+  },
+  {
+   "text": "IT之家 11 月 17 日消息，据路透社报道，索尼在英国赢得了一场索赔近 20 亿英镑 （IT之家注：现汇率约合 176.11 亿元人民币） ",
+   "keyword": "",
+   "news_ids": [
+    "e7c63d011487731c"
+   ],
+   "refs": [
+    {
+     "id": "e7c63d011487731c",
+     "title": "索尼赢得英国近 20 亿英镑诉讼：PlayStation 数字游戏定价未被认定违法",
+     "source": "IT之家",
+     "url": "https://www.ithome.com/1/028/544.htm",
+     "published_at": 1794926785.0
+    }
+   ]
+  },
+  {
+   "text": "Article URL: https://jordankrueger",
+   "keyword": "",
+   "news_ids": [
+    "c46027b4562f5f10"
+   ],
+   "refs": [
+    {
+     "id": "c46027b4562f5f10",
+     "title": "We don't need more apps. We need better open source",
+     "source": "Hacker News",
+     "url": "https://jordankrueger.com/blog/better-open-source-not-more-apps/",
+     "published_at": 1794926736.0
+    }
+   ]
+  },
+  {
+   "text": "IT之家 11 月 17 日消息，Steam 平台现已公布了最新一周游戏销量排行榜（2026 年 11 月 10 日 - 2026 年 11 月",
+   "keyword": "",
+   "news_ids": [
+    "558df328ef500ba4"
+   ],
+   "refs": [
+    {
+     "id": "558df328ef500ba4",
+     "title": "Steam 新一周游戏销量榜公布：《欧卡 2》75% 折扣登顶，国区《影之刃零》连续霸榜",
+     "source": "IT之家",
+     "url": "https://www.ithome.com/1/028/540.htm",
+     "published_at": 1794925867.0
+    }
+   ]
+  },
+  {
+   "text": "Article URL: https://actsofvolition",
+   "keyword": "",
+   "news_ids": [
+    "3b89169dc43decc9"
+   ],
+   "refs": [
+    {
+     "id": "3b89169dc43decc9",
+     "title": "Loopholes Are for Assholes",
+     "source": "Hacker News",
+     "url": "https://actsofvolition.com/2026/11/loopholes-are-for-assholes/",
+     "published_at": 1794925232.0
+    }
+   ]
+  },
+  {
+   "text": "IT之家 11 月 17 日消息，上汽通用五菱汽车股份有限公司官方账号“五菱银标”今日宣布， 星光 730 MPV 第 10 万台整车正式下线 ",
+   "keyword": "",
+   "news_ids": [
+    "6855a89edb347d26"
+   ],
+   "refs": [
+    {
+     "id": "6855a89edb347d26",
+     "title": "五菱星光 730 MPV 第 10 万台整车正式下线，售价 7.30 万元起",
+     "source": "IT之家",
+     "url": "https://www.ithome.com/1/028/537.htm",
+     "published_at": 1794924893.0
+    }
+   ]
+  },
+  {
+   "text": "The new standing committee will give board-level oversight of national s",
+   "keyword": "",
+   "news_ids": [
+    "8c0875d60c6b9e35"
+   ],
+   "refs": [
+    {
+     "id": "8c0875d60c6b9e35",
+     "title": "Nvidia’s first big move after Jensen Huang’s exit targets national security",
+     "source": "TechCrunch",
+     "url": "https://techcrunch.com/2026/11/17/nvidias-first-big-move-after-jensen-huangs-exit-targets-national-security/",
+     "published_at": 1794924330.0
+    }
+   ]
+  }
+ ],
+ "article": {
+  "title": "2026-11-17 新闻总结",
+  "paragraphs": [
+   {
+    "kind": "lead",
+    "text": "过去 24 小时共收录 368 条新闻，来自 7 家媒体。把标题放在一起看，讨论主要集中在 AI、手机、安全 这几个方向上，其余消息更像是零散补充。"
+   },
+   {
+    "kind": "section",
+    "heading": "AI",
+    "text": "先看「AI」。IT之家 11 月 17 日消息，今日，OpenAI 宣布与 Apollo Research、METR、Transluce 和 Goodfire 达成合作，另有 157 条消息指向同一话题。资本动作往往领先产品一年，值得盯的不是金额，而是钱最后花向了算力、场景还是补贴。",
+    "news_ids": [
+     "cab6e37e6fd3ea29"
+    ],
+    "refs": [
+     {
+      "id": "cab6e37e6fd3ea29",
+      "title": "OpenAI 与 Goodfire 达成 AI 安全合作，此前曾探讨超 50 亿美元收购",
+      "source": "IT之家",
+      "url": "https://www.ithome.com/1/028/024.htm",
+      "published_at": 1794870739.0
+     }
+    ]
+   },
+   {
+    "kind": "section",
+    "heading": "手机",
+    "text": "与此同时「手机」。IT早报”时间，大家好，现在是 2026 年 11 月 17 日星期二，今天的重要科技资讯有： 1. 特朗普：支持苹果库克执掌英伟达，另有 48 条消息指向同一话题。技术路线的胜负很少由一次发布会决定，接下来要看的是它能不能被更多团队低成本复用。",
+    "news_ids": [
+     "80cf701ca188efcb"
+    ],
+    "refs": [
+     {
+      "id": "80cf701ca188efcb",
+      "title": "IT早报 1117：特朗普支持苹果库克执掌英伟达但不介意黄仁勋回归；阿里千问 4Max 上线；华为 Mate X8 折叠屏 11 月 24 日发布；OPPO Reno17 手机发布...",
+      "source": "IT之家",
+      "url": "https://www.ithome.com/1/028/038.htm",
+      "published_at": 1794874448.0
+     }
+    ]
+   },
+   {
+    "kind": "section",
+    "heading": "发布",
+    "text": "另一个值得注意的方向是「发布」。IT之家 11 月 17 日消息，华为 Mate X8 及全场景新品发布会今日官宣定档 11 月 24 日 14:30 举行…，另有 24 条消息指向同一话题。价格和生态往往比硬件规格更能决定一款产品能不能留下来。",
+    "news_ids": [
+     "71640879cf5ef75c"
+    ],
+    "refs": [
+     {
+      "id": "71640879cf5ef75c",
+      "title": "华为 Mate X8 大折叠手机上手效果图发布，何刚揭秘新机外观设计细节",
+      "source": "IT之家",
+      "url": "https://www.ithome.com/1/028/542.htm",
+      "published_at": 1794926287.0
+     }
+    ]
+   },
+   {
+    "kind": "section",
+    "heading": "行业",
+    "text": "相比之下「行业」。IT之家 11 月 17 日消息，据彭博社今天报道，OpenAI 首席执行官萨姆 · 奥尔特曼表示，即使英伟达前 CEO 黄仁勋不再掌舵，另有 13 条消息指向同一话题。这条消息短期内的实际影响可能有限，但它指向的方向值得放进观察名单。",
+    "news_ids": [
+     "a2a64fbc1e244976"
+    ],
+    "refs": [
+     {
+      "id": "a2a64fbc1e244976",
+      "title": "OpenAI 奥尔特曼谈黄仁勋离职：我也被解雇过，相信 AI 行业能平稳度过",
+      "source": "IT之家",
+      "url": "https://www.ithome.com/1/028/052.htm",
+      "published_at": 1794877381.0
+     }
+    ]
+   },
+   {
+    "kind": "glossary",
+    "items": [
+     {
+      "term": "AI",
+      "desc": "人工智能，让机器完成识别、生成、判断等原本需要人做的任务"
+     },
+     {
+      "term": "Agent",
+      "desc": "智能体，能自己拆解任务、调用工具并连续执行的 AI 程序"
+     },
+     {
+      "term": "API",
+      "desc": "应用程序接口，让不同软件按约定好的方式互相调用"
+     },
+     {
+      "term": "VR",
+      "desc": "虚拟现实，戴上头显进入一个全虚拟的画面"
+     },
+     {
+      "term": "IPO",
+      "desc": "首次公开募股，公司第一次把股票卖给公众并上市"
+     },
+     {
+      "term": "GPU",
+      "desc": "图形处理器，因为擅长大规模并行计算，成了 AI 训练的主力硬件"
+     }
+    ]
+   },
+   {
+    "kind": "outlook",
+    "text": "把这几条放在一起看，最值得跟踪的是 AI 和 手机 两条线：一条决定技术能走多远，一条决定它多快能落到普通人的日常里。至于其他消息，可以先放进观察名单，等后续有更实的进展再判断。"
+   }
+  ],
+  "word_count": 687
+ },
+ "ai_enhanced": false,
+ "schema": 1,
+ "window_bj": {
+  "start": "2026-11-17 00:00",
+  "end": "2026-11-18 00:00"
+ }
+}
