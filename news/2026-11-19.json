@@ -1,0 +1,52 @@
+{
+ "date": "2026-11-19",
+ "generated_at": 1795008325.3649936,
+ "count": 5,
+ "items": [
+  {
+   "id": "ec2eb3036ba263e1",
+   "source": "InfoQ中文",
+   "title": "从“能写代码”到“能交付”：腾讯轻量云 LoopForge 云端 Loop实践",
+   "url": "https://www.infoq.cn/article/Ae5uw6m9wC2gj5QUCC36?utm_source=rss&utm_medium=article",
+   "summary": "点击查看原文>",
+   "published_at": 1795028347.0,
+   "published_bj": "2026-11-19 02:59"
+  },
+  {
+   "id": "b4c7ab54881f20c4",
+   "source": "InfoQ中文",
+   "title": "Agent 驱动 MaaS 新范式，如何让模型能力随需而用？",
+   "url": "https://www.infoq.cn/video/xsEfht2OwBZQBvWVHSIb?utm_source=rss&utm_medium=article",
+   "summary": "点击查看原文>",
+   "published_at": 1795027807.0,
+   "published_bj": "2026-11-19 02:50"
+  },
+  {
+   "id": "bed4199204a3caea",
+   "source": "InfoQ中文",
+   "title": "从 AI 试点到规模化生产：Snowflake 驻场前沿工程师如何助力企业实现 AI 落地 ｜ 技术趋势",
+   "url": "https://www.infoq.cn/article/ZukzUBeu7k74T9UGCkfh?utm_source=rss&utm_medium=article",
+   "summary": "点击查看原文>",
+   "published_at": 1795027460.0,
+   "published_bj": "2026-11-19 02:44"
+  },
+  {
+   "id": "c10f069c9f5a3627",
+   "source": "InfoQ中文",
+   "title": "如何让 Agent 从“能跑起来”到“可规模化、可信赖地持续生产”？",
+   "url": "https://www.infoq.cn/video/uzyzSB9HkO1wwi5w4w9F?utm_source=rss&utm_medium=article",
+   "summary": "点击查看原文>",
+   "published_at": 1795026256.0,
+   "published_bj": "2026-11-19 02:24"
+  },
+  {
+   "id": "a854b5f9b9f8bd89",
+   "source": "InfoQ中文",
+   "title": "业务本体：面向 AI 与数据分析，统一规范业务概念与指标口径 ｜ 技术趋势",
+   "url": "https://www.infoq.cn/article/GSGpEUU4dCdppTCmaOSy?utm_source=rss&utm_medium=article",
+   "summary": "点击查看原文>",
+   "published_at": 1795026202.0,
+   "published_bj": "2026-11-19 02:23"
+  }
+ ]
+}

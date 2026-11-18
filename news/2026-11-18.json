@@ -1,8 +1,251 @@
 {
  "date": "2026-11-18",
- "generated_at": 1794976320.175305,
- "count": 176,
+ "generated_at": 1795008325.3661861,
+ "count": 313,
  "items": [
+  {
+   "id": "fb9222955067174d",
+   "source": "InfoQ中文",
+   "title": "从快速部署到统一运营，Agent 的 AH Moment 来了！",
+   "url": "https://www.infoq.cn/video/AWswNIWpvlNvaWY8MTDd?utm_source=rss&utm_medium=article",
+   "summary": "点击查看原文>",
+   "published_at": 1795016410.0,
+   "published_bj": "2026-11-18 23:40"
+  },
+  {
+   "id": "6bc579f4e5533030",
+   "source": "InfoQ中文",
+   "title": "800 个 MCP Server、5000 个工具，AI 智能体的“微服务危机”来了",
+   "url": "https://www.infoq.cn/article/FrDlAvNIwkr8ttdvWMCC?utm_source=rss&utm_medium=article",
+   "summary": "点击查看原文>",
+   "published_at": 1795010400.0,
+   "published_bj": "2026-11-18 22:00"
+  },
+  {
+   "id": "a14669c2e68082e7",
+   "source": "InfoQ中文",
+   "title": "基于昇腾算力的大模型推理加速研究与实践｜AICon北京",
+   "url": "https://www.infoq.cn/article/NbShAFtZqRSsFrsVu6aj?utm_source=rss&utm_medium=article",
+   "summary": "点击查看原文>",
+   "published_at": 1795010400.0,
+   "published_bj": "2026-11-18 22:00"
+  },
+  {
+   "id": "afb68fc60cb44df3",
+   "source": "InfoQ中文",
+   "title": "纳德拉回应微软首次给工程师发“离场费”：Claude Code 让微软措手不及，二十年 IDE 优势半年动摇",
+   "url": "https://www.infoq.cn/article/zUC0vHq9xm3BFHSqQlw3?utm_source=rss&utm_medium=article",
+   "summary": "点击查看原文>",
+   "published_at": 1795010135.0,
+   "published_bj": "2026-11-18 21:55"
+  },
+  {
+   "id": "4d5186ffed031fbf",
+   "source": "InfoQ中文",
+   "title": "“绝不愿再创办一次英伟达！”黄仁勋亲述创业33年背后的代价",
+   "url": "https://www.infoq.cn/article/e7Gtfwy4TI26o5elxRwT?utm_source=rss&utm_medium=article",
+   "summary": "点击查看原文>",
+   "published_at": 1795009815.0,
+   "published_bj": "2026-11-18 21:50"
+  },
+  {
+   "id": "ac3c18642c3ac640",
+   "source": "InfoQ中文",
+   "title": "谷歌 SRE 圣经被迫重写：AI 时代，硬技能在塌陷，第一性原理在升值",
+   "url": "https://www.infoq.cn/article/draE95cYeLAqhcR3CwIF?utm_source=rss&utm_medium=article",
+   "summary": "点击查看原文>",
+   "published_at": 1795009189.0,
+   "published_bj": "2026-11-18 21:39"
+  },
+  {
+   "id": "ab830839e2766a0e",
+   "source": "cnBeta",
+   "title": "NASA旅行者1号抵达历史性里程碑：距离地球一个光日 发送信号往返需要两天",
+   "url": "https://www.cnbeta.com.tw/articles/science/1586960.htm",
+   "summary": "美国国家航空航天局（NASA）的旅行者1号（Voyager 1）探测器于2026年11月18日抵达一个前所未有的里程碑：它与地球之间的距离达到一个光日（Light-Day），即光在24小时内能够传播的距离。这也是人类制造的航天器首次抵达这一距离。 阅读全文",
+   "published_at": 1795007807.0,
+   "published_bj": "2026-11-18 21:16"
+  },
+  {
+   "id": "a7f274f28709041f",
+   "source": "cnBeta",
+   "title": "iPhone 18与第二代iPhone Air屏幕量产推迟至明年1月",
+   "url": "https://www.cnbeta.com.tw/articles/tech/1586958.htm",
+   "summary": "苹果下一代iPhone产品线的关键零部件生产计划出现新的时间调整。根据供应链最新消息，原定为苹果2027年新款智能手机准备的显示面板尚未进入大规模生产阶段，包括iPhone 18系列与第二代iPhone Air在内的多款机型，其屏幕面板量产工作预计将于2027年1月正式启动。 阅读全文",
+   "published_at": 1795007725.0,
+   "published_bj": "2026-11-18 21:15"
+  },
+  {
+   "id": "0779c933fe423afe",
+   "source": "cnBeta",
+   "title": "美国宾夕法尼亚州一所高中停用AI武器探测系统 训练数月仍频繁将水瓶和文件夹误判为枪支",
+   "url": "https://www.cnbeta.com.tw/articles/tech/1586956.htm",
+   "summary": "美国宾夕法尼亚州一所高中近日决定停用一套采用人工智能技术的武器探测系统。尽管该系统已经在学校进行了数月的数据收集和训练，却始终无法可靠地区分枪支与学生日常携带的普通物品，频繁发出错误警报。校方最终认为，这套设备尚未达到实际投入使用的标准。 阅读全文",
+   "published_at": 1795007380.0,
+   "published_bj": "2026-11-18 21:09"
+  },
+  {
+   "id": "a4e2dcab39c33c60",
+   "source": "cnBeta",
+   "title": "欧空局“赫拉”探测器首次近距离拍摄双小行星系统 揭示前所未见的奇异地貌",
+   "url": "https://www.cnbeta.com.tw/articles/science/1586954.htm",
+   "summary": "欧洲航天局（ESA）“赫拉”（Hera）探测器近日传回了其抵达双小行星系统后的首张近距离照片，首次以高分辨率视角展示了“迪迪莫斯”（Didymos）小行星此前从未被详细观测过的一侧地貌。科学家表示，这片区域呈现出的景观与人们此前认知存在明显差异，令人感到仿佛发现了一个全新的世界。 阅读全文",
+   "published_at": 1795007007.0,
+   "published_bj": "2026-11-18 21:03"
+  },
+  {
+   "id": "b22d45d50a5fc924",
+   "source": "IT之家",
+   "title": "2025 年全球专利申请量创新高，中国 190 万件居首且大幅领先第二名",
+   "url": "https://www.ithome.com/1/029/067.htm",
+   "summary": "IT之家 11 月 18 日消息，据央视新闻报道，11 月 18 日，世界知识产权组织发布《世界知识产权指标》报告。报告显示，2025 年全球专利申请量达到 390 万件，同比增长 6%，创近十年来最快增速。其中，来自中国的专利申请量全球第一，且大幅领先第二名。 报告显示，2025 年，居住在 中国、美国、日本和韩国 的创新者领跑全球专利申请，分别为 190 万件、489766 件、466301 件和 319210 件 。 IT之家从数据中获悉，亚洲在全球专利申请总量中的占比从 2015 年的 61.9% 上升至 2025 年的 71.2%。这一增长主要得益于中国强劲的申请增长势头，2025 ",
+   "published_at": 1795006822.0,
+   "published_bj": "2026-11-18 21:00"
+  },
+  {
+   "id": "9a9c37b7997efa3d",
+   "source": "InfoQ中文",
+   "title": "Java 近期资讯：TornadoVM 8.0、JNoSQL、Endive、JReleaser、JBang、LangChain4j 与 Quarkus Almanac",
+   "url": "https://www.infoq.cn/article/oSiN27BaersaKQcQGdaa?utm_source=rss&utm_medium=article",
+   "summary": "点击查看原文>",
+   "published_at": 1795006800.0,
+   "published_bj": "2026-11-18 21:00"
+  },
+  {
+   "id": "ea7000f16f45a0bc",
+   "source": "TechCrunch",
+   "title": "Nvidia clarifies when it will — and won’t —keep financing neoclouds",
+   "url": "https://techcrunch.com/2026/11/18/nvidia-clarifies-when-it-will-and-wont-keep-financing-neoclouds/",
+   "summary": "If Nvidia is backstopping a data center loan, it won't be on the hook unless the neocould has independent financing and gets the facility built, with Nvidia gear installed, interim CEO Colette Kress explained.",
+   "published_at": 1795006800.0,
+   "published_bj": "2026-11-18 21:00"
+  },
+  {
+   "id": "dd4f5024c53e6b7d",
+   "source": "IT之家",
+   "title": "腾讯：受芯片限制影响，训练下一代模型将需要更长时间",
+   "url": "https://www.ithome.com/1/029/066.htm",
+   "summary": "IT之家 11 月 18 日消息，据金融界报道，腾讯控股在 2026 年第三季度财报沟通中披露，受芯片限制影响，训练下一代模型将需要更长时间。 今日腾讯发布 2026 年三季报，本季度， 腾讯实现营收 2073 亿元 ，同比增长 8%。 腾讯表示，通过加大投入，向上探索大模型智能上限，向下构建覆盖个人生活、办公协作和企业生产的 AI 应用体系，腾讯正加速推进 AI 化变革，向 AI 引领的科技公司迈进。 IT之家注意到，今年以来，腾讯混元 Hy 平均每两个月发布一个大版本，最新一代混元大模型 Hy4 发布时位列 Agent Arena 中国模型第一，本周推出的 Hy4 flash 成为混元“性",
+   "published_at": 1795006591.0,
+   "published_bj": "2026-11-18 20:56"
+  },
+  {
+   "id": "6e9180c86107d5df",
+   "source": "IT之家",
+   "title": "豆包工作上线三个月，日活跃用户（DAU）突破 800 万",
+   "url": "https://www.ithome.com/1/029/064.htm",
+   "summary": "IT之家 11 月 18 日消息，豆包工作官方今日宣布，产品上线 3 个月， 日活跃用户（DAU）突破 800 万 ，企业客户年度经常性收入（ARR）突破 20 亿元。 IT之家注：豆包工作是豆包面向生产力场景打造的 AI 产品及品牌。用户可以使用自然语言描述任务，并提供相关资料或工作上下文；豆包工作会根据任务目标自主拆解任务、调用工具，完成调研分析、内容创作、数据处理、应用搭建等复杂工作，并在执行过程中根据补充要求调整任务，生成可继续修改和分享的结果。 今年 11 月 12 日，豆包官方宣布，豆包工作完成了一次产品更新，拓展更多可调用的模型，并同步引入了一套按实际消耗计价的额度调节机制。此次",
+   "published_at": 1795006527.0,
+   "published_bj": "2026-11-18 20:55"
+  },
+  {
+   "id": "4eebfc429aa9f5e7",
+   "source": "cnBeta",
+   "title": "苹果测试进一步优化“液态玻璃”设计 iOS 27.3 测试版引入更柔和视觉效果",
+   "url": "https://www.cnbeta.com.tw/articles/tech/1586952.htm",
+   "summary": "随着苹果持续推进“液态玻璃”（Liquid Glass）界面设计，这一自推出以来备受争议的视觉风格正在迎来新的调整。根据开发者在最新版 iOS 27.3 开发者测试版代码中发现的信息，苹果正在测试一种更加柔和的滚动边缘显示效果，希望在保留现有设计理念的同时改善用户体验。 阅读全文",
+   "published_at": 1795006193.0,
+   "published_bj": "2026-11-18 20:49"
+  },
+  {
+   "id": "7ffe4d42e2f3278c",
+   "source": "IT之家",
+   "title": "腾讯刘炽平：微信“小微”全面上线后季度成本将低于今年早些时候的元宝",
+   "url": "https://www.ithome.com/1/029/063.htm",
+   "summary": "IT之家 11 月 18 日消息，据科创板日报报道，腾讯总裁刘炽平在业绩会上表示，腾讯正持续扩大微信“小微”的用户测试池，目前日活用户已达 3000 万。 同时， 小微全面上线后的季度成本，将低于今年早些时候元宝的季度成本 。 IT之家注意到，今年春节，腾讯元宝曾推出“分 10 亿现金红包”活动，2 月 18 日活动结束后， 腾讯宣布元宝 日活跃用户超 5000 万 ，月活跃用户达 1.14 亿 。 微信官方今日表示，小微采用 WeLM 模型，这是一款针对成本效率及小微易用性进行优化的定制模型， 因此推理成本极低且持续下降 。未来， 官方预计部分推理任务将在用户设备端运行 。 根据官方此前披露",
+   "published_at": 1795006134.0,
+   "published_bj": "2026-11-18 20:48"
+  },
+  {
+   "id": "91f3e0c7e7ca3753",
+   "source": "IT之家",
+   "title": "旅行者 1 号抵达距地球一光日位置，NASA 金唱片尘封细节被揭开",
+   "url": "https://www.ithome.com/1/029/062.htm",
+   "summary": "IT之家 11 月 18 日消息，从人类发射的最远航天器旅行者 1 号（Voyager 1）到达距地球一光日的位置来看，它已经在太空中飞行了漫长岁月。与此同时，关于这艘探测器如何诞生，以及它携带的物品背后的故事，也有了新的发现。 据IT之家了解，旅行者 1 号于 1977 年离开地球，最初的任务是飞越木星、土星及其卫星土卫六。2012 年，它进入星际空间。与姊妹探测器旅行者 2 号（Voyager 2）一样，旅行者 1 号携带了一张具有纪念意义的留声机唱片，也就是后来广为人知的“旅行者金唱片”。 这张唱片一方面是为了纪念留声机唱片诞生 100 周年，另一方面也承载着人类向外星文明传递信息的愿望",
+   "published_at": 1795006004.0,
+   "published_bj": "2026-11-18 20:46"
+  },
+  {
+   "id": "88e4920ef72399b3",
+   "source": "IT之家",
+   "title": "Face ID 存疑：消息称苹果 iPhone Duo 2 工程机沿用侧边指纹设计",
+   "url": "https://www.ithome.com/1/029/061.htm",
+   "summary": "IT之家 11 月 18 日消息，博主 @数码闲聊站 今日超前曝光了 iPhone Duo 2 的部分配置信息。据称新机 7.6 英寸内屏 +5.4 英寸外屏不变， 工程机有侧边指纹 。 博主提到，Face ID 这一配置存疑，因为影响机身堆叠，而且交互逻辑很奇怪。 值得一提的是，苹果 iOS / iPadOS 27.3 开发者预览版 Beta 2 已于昨日发布。在新系统中， 苹果为 iPhone Duo 折叠屏手机新增「使用前置摄像头解锁」选项 。开启后用户可以在使用外屏的情况下，仅依靠 2D 面部识别、不依赖触控 ID 解锁设备。 参考IT之家昨日报道，苹果 2027 年可能推出至少 18",
+   "published_at": 1795005911.0,
+   "published_bj": "2026-11-18 20:45"
+  },
+  {
+   "id": "0cf5e3f729ec8037",
+   "source": "IT之家",
+   "title": "苹果地图在印度全面升级：针对当地道路特点专门优化，新增超 300 处 3D 地标",
+   "url": "https://www.ithome.com/1/029/059.htm",
+   "summary": "IT之家 11 月 18 日消息，当地时间 18 日，苹果宣布在印度推出全面升级的苹果地图，首次将重新设计的地图服务带入印度市场。 新版地图不仅导航速度更快、准确性更高，还能展示更加详细的道路、建筑、公园和购物中心信息，并新增超过 300 处 3D 地标。 新版地图还针对印度的道路特点进行了专门优化。例如，自然语言引导功能可以用“在下一个红绿灯左转”等更口语化的方式提供导航。针对印度部分道路没有名称的情况，苹果还 加入了柱子等实际地标作为参照 ，让导航能够提示用户“经过加油站后右转”。 双语地名标注也是一项专门针对印度推出的功能。与当地路牌一样，苹果地图可以 同时显示英语和当地语言的地名 。除",
+   "published_at": 1795005616.0,
+   "published_bj": "2026-11-18 20:40"
+  },
+  {
+   "id": "8746cea247624fba",
+   "source": "IT之家",
+   "title": "DeepSeek API 定价调整：调用模型时触发服务端搜索、网页抓取不再计费，仅按模型 Token 用量计费",
+   "url": "https://www.ithome.com/1/029/058.htm",
+   "summary": "IT之家 11 月 18 日消息，DeepSeek 官网显示，自北京时间 2026 年 11 月 18 日 12:00 起， 调用模型时触发的服务端搜索、网页抓取不再计费，仅按模型 Token 用量计费 。 使用以下接口时会触发服务端搜索：联网工具、Anthropic API 的 web_search 工具、Responses API 的 web_search 工具。 据IT之家此前报道，10 月 17 日，DeepSeek 官方宣布 Search / Fetch API 正式上线，两项接口均使用 DeepSeek 自研搜索引擎，为 Agent 与 RAG 应用提供实时网页内容，按请求次数计费",
+   "published_at": 1795005233.0,
+   "published_bj": "2026-11-18 20:33"
+  },
+  {
+   "id": "19dca63fa676fc60",
+   "source": "IT之家",
+   "title": "张雪有了新目标，立志培养中国冠军车手",
+   "url": "https://www.ithome.com/1/029/056.htm",
+   "summary": "IT之家 11 月 18 日消息，据央视财经今日报道，今天，张雪接受总台记者专访时，又立下一个新目标， 立志培养中国冠军车手 。 张雪表示，如果有中国车手拿下赛车项目世界冠军， 家长和社会对赛车这个运动的看法 ，就会得到优化和改善，这对行业是一个好事。 据IT之家此前报道，在第 83 届米兰国际摩托车博览会（EICMA）现场，张雪机车创始人张雪在接受采访时表示，与欧洲及国际老牌厂商相比，中国摩托车企业最核心的竞争力在于效率和成本，欠缺的是品牌沉淀和市场认同。 张雪认为，从现在这个状态去超越对手，甚至超越全球顶级的对手和品牌，需要时间。 我们要耐得住寂寞，这个过程一定是痛并快乐着的 。 公开信息",
+   "published_at": 1795004742.0,
+   "published_bj": "2026-11-18 20:25"
+  },
+  {
+   "id": "416a94932de4f516",
+   "source": "IT之家",
+   "title": "数毛社实测《GTA 6》：PS5 爆炸场景跌至 23 帧，PS5 Pro 近乎稳定 30 帧",
+   "url": "https://www.ithome.com/1/029/055.htm",
+   "summary": "IT之家 11 月 18 日消息，Digital Foundry（数毛社）对《GTA 6》进行的技术分析显示，标准版 PS5 比 PS5 Pro 更难稳定维持游戏设定的 30 FPS 帧率。在大规模爆炸等高负载场景中，标准版 PS5 的帧率甚至会跌至 23 FPS。 IT之家注意到，《GTA 6》将帧率目标锁定在 30 FPS，此前就引发了不少争议。如今，游戏在两款主机上的实际性能表现也已经揭晓。根据数毛社发布的技术分析，标准版 PS5 的表现比许多玩家预想的更加吃力。 数毛社发现，标准版 PS5 比 PS5 Pro 更难维持 30 FPS 的目标帧率，即使在正常游戏过程中，也会出现一些小幅帧",
+   "published_at": 1795004658.0,
+   "published_bj": "2026-11-18 20:24"
+  },
+  {
+   "id": "4f2ddfad33438111",
+   "source": "IT之家",
+   "title": "IGN 长文揭秘：R 星是如何打造出《GTA 6》的",
+   "url": "https://www.ithome.com/1/029/054.htm",
+   "summary": "IT之家 11 月 18 日消息，今天（18 日）晚间，IGN 发表题为《Rockstar North 是如何打造出 GTA 6 的》的长文。文中提到，就连 R 星北方工作室联合负责人兼开发主管罗布 · 纳尔逊自己也说不清楚，《GTA 6》这样规模庞大、令人惊叹的游戏，究竟是如何一步步完成的。 历经 13 年的漫长开发，纳尔逊即将带领团队完成一款“很可能是史上最受期待”的娱乐产品，面对如此重要的时刻，纳尔逊却显得相当放松。 这款作品究竟是如何一步步完成的？资金和人才只能解释一部分原因，其他因素则没有那么容易说清。纳尔逊解释道： 我觉得 最重要的就是坚持，甚至可以说是固执 。大家长年累月地朝着同",
+   "published_at": 1795004409.0,
+   "published_bj": "2026-11-18 20:20"
+  },
+  {
+   "id": "24d2075d89e49ac6",
+   "source": "IT之家",
+   "title": "《GTA 6》车辆续航实测：皮卡 29 分钟，跑车 18 分钟",
+   "url": "https://www.ithome.com/1/029/052.htm",
+   "summary": "IT之家 11 月 18 日消息，《GTA 6》的游戏世界相当庞大，玩家全程冲刺横穿地图大约需要一个半小时。不过，大多数玩家在罪恶城（Vice City）及莱奥尼达州（Leonida）的街道和高速公路上，主要还是以驾车出行为主。而这一次，《GTA 6》加入了更加真实的燃油管理机制：玩家开车时必须留意油箱余量。 那么，在《GTA 6》中，车辆开多久就需要加油？这套机制会不会让人觉得烦琐？ IT之家注意到，为了测试这一点，Kotaku 编辑 Zack Zwiezen 先后驾驶了三种不同的车辆进行测试。 首先，Zack 选择了一辆比较普通、车龄也比较大的皮卡。在罪恶城南部附近找到一段环形高速公路后，",
+   "published_at": 1795003986.0,
+   "published_bj": "2026-11-18 20:13"
+  },
+  {
+   "id": "b0feec289b041fad",
+   "source": "IT之家",
+   "title": "三星推出 One UI 9.5 测试版：升级相机控制、无障碍、隐私保护等",
+   "url": "https://www.ithome.com/1/029/051.htm",
+   "summary": "IT之家 11 月 18 日消息，三星推出 One UI 9.5 测试版 ，用户可在正式版发布前提前体验新功能。 One UI 9.5 测试版主要升级了相机控制、个性化健康管理、无障碍功能和隐私保护。 专业拍照和专业视频模式 新增更精细的参数调整功能，方便用户自由创作。三星健康则加入 正念笔记 和 用药管理 功能，支持记录心情、设置服药提醒及追踪用药情况，提供更个性化的健康管理体验。 悬浮快捷按钮 方便用户快速调用常用功能，通知面板中的 助听器控制功能 也得到改进，进一步提升 Galaxy 设备的无障碍体验。此外，新增的 应用锁 支持单独锁定应用，加强日常隐私保护。 One UI 9.5 测试",
+   "published_at": 1795003299.0,
+   "published_bj": "2026-11-18 20:01"
+  },
+  {
+   "id": "d74c265be07ef43a",
+   "source": "Hacker News",
+   "title": "Evidence (YC S21) Is Hiring",
+   "url": "https://www.ycombinator.com/companies/evidence/jobs/1xb9PpP-founding-gtm-lead",
+   "summary": "Article URL: https://www.ycombinator.com/companies/evidence/jobs/1xb9PpP-founding-gtm-lead Comments URL: https://news.ycombinator.com/item?id=50545238 Points: 0 # Comments: 0",
+   "published_at": 1795003216.0,
+   "published_bj": "2026-11-18 20:00"
+  },
   {
    "id": "ec5802041381dc6c",
    "source": "InfoQ中文",
@@ -11,6 +254,159 @@
    "summary": "点击查看原文>",
    "published_at": 1795003200.0,
    "published_bj": "2026-11-18 20:00"
+  },
+  {
+   "id": "83d17c284a5ccbd5",
+   "source": "TechCrunch",
+   "title": "Felicis leads $7.5M bet on Unsiloed AI to make enterprise documents usable by AI agents",
+   "url": "https://techcrunch.com/2026/11/18/felicis-leads-7-5m-bet-on-unsiloed-ai-to-make-enterprise-documents-usable-by-ai-agents/",
+   "summary": "With a team of just seven, Unsiloed AI plans to compete with tech giants and specialized startups in the crowded AI document-processing market.",
+   "published_at": 1795003200.0,
+   "published_bj": "2026-11-18 20:00"
+  },
+  {
+   "id": "85128c1285ec1e83",
+   "source": "IT之家",
+   "title": "广汽传祺越 7 两驱激光雷达版官宣 11 月 20 日上市",
+   "url": "https://www.ithome.com/1/029/050.htm",
+   "summary": "IT之家 11 月 18 日消息，广汽传祺今日宣布，传祺越 7 两驱激光雷达版下线仪式暨上市发布会将于 11 月 20 日 举行。 目前越 7 仅为高配车型四驱 Ultra 版和四驱卫星通信版提供了城区 + 高速辅助驾驶，包含 1 颗 192 线激光雷达，其它车型均未配备辅助驾驶系统。 据IT之家此前报道，9 月 22 日， 传祺越 7 正式上市 ，其中两驱版提供两个版本，上市指导价 16.98-18.58 万元，不含辅助驾驶系统。10 月 16 日， 越 7 四驱卫星通信版上市 ，官方指导价 22.58 万元，限时权益价 21.78 万元。 两驱 Pro 版：上市指导价 16.98 万元，上",
+   "published_at": 1795003130.0,
+   "published_bj": "2026-11-18 19:58"
+  },
+  {
+   "id": "b7c461abe7a865b8",
+   "source": "IT之家",
+   "title": "《GTA 6》地图究竟有多大？实测步行横穿要 3 小时 21 分钟，开车近 11 分钟",
+   "url": "https://www.ithome.com/1/029/049.htm",
+   "summary": "IT之家 11 月 18 日消息，《GTA 6》已经在全球部分地区登陆 Xbox 和 PlayStation 平台。许多玩家最关心的问题之一，就是这款游戏的地图究竟有多大？IT之家注意到，Kotaku 编辑 Zack Zwiezen 在 Rockstar 这款开放世界新作中进行了步行、驾车和驾驶飞机横穿地图的测试，看看在这片庞大的游戏世界中，从南到北究竟需要多长时间。 《GTA 6》是什么游戏，以及为什么有这么多人期待它发售，相信已经不需要过多介绍。下面直接来看实测数据。 首先，Zack 尝试徒步横穿整个地图。为此，他选择了地图最南端能够抵达的陆地区域，然后尽可能沿着直线向北行走，尽量避免绕路",
+   "published_at": 1795002888.0,
+   "published_bj": "2026-11-18 19:54"
+  },
+  {
+   "id": "454abe6fed1b92c5",
+   "source": "IT之家",
+   "title": "蓝箭航天：朱雀三号遥二运载火箭回收的一子级 9 台液氧甲烷发动机，已全部完成地面验收和试车",
+   "url": "https://www.ithome.com/1/029/048.htm",
+   "summary": "IT之家 11 月 18 日消息，据央视财经报道，在 APEC 财经之夜现场，蓝箭航天空间科技股份有限公司副总裁张静茹披露朱雀三号回收发动机试车新进展： 朱雀三号遥二运载火箭回收的一子级 9 台液氧甲烷发动机，经过分解、检查、维修和重新装配，已全部完成地面验收和试车。 张静茹表示，火箭回收的意义在于运力价格。价格便宜一分，太空经济的边界就拓宽一步，卫星可以铺得更密，遥感数据更新得更快。当前天上已有计算卫星在轨工作，每一次扩容都要靠火箭送上去。 面向亚太，卫星通信、遥感和空间基础设施合作正在打开 。 据IT之家此前报道，今年 8 月 19 日，朱雀三号遥二运载火箭在东风商业航天创新试验区发射升空",
+   "published_at": 1795002834.0,
+   "published_bj": "2026-11-18 19:53"
+  },
+  {
+   "id": "c39481e86d857b3d",
+   "source": "IT之家",
+   "title": "Java 语言曝出安全漏洞，美国、韩国紧急呼吁用户安装安全更新",
+   "url": "https://www.ithome.com/1/029/046.htm",
+   "summary": "IT之家 11 月 18 日消息，据路透社今天（18 日）晚间报道，Java 编程语言曝出安全漏洞，黑客可能利用漏洞远程执行恶意代码，甚至导致系统崩溃。为此，美国和韩国当局紧急呼吁 Java 用户安装安全更新。 Java 在韩国应用广泛，漏洞引发政府高度警惕。当地时间 17 日，韩国总统办公室紧急召集有关部门开会，商讨提前防范和应对措施。 IT之家注：Java 由甲骨文及开源开发工具包提供， 政府、企业、金融机构和军方的许多关键信息系统 都使用这种编程语言。 美国网络安全和基础设施安全局发布安全公告， 要求立即修复漏洞 ，不过没有确认近期发生的系统故障与 Java 漏洞存在联系。 甲骨文暂未回",
+   "published_at": 1795002722.0,
+   "published_bj": "2026-11-18 19:52"
+  },
+  {
+   "id": "0962f21d1196ccc6",
+   "source": "IT之家",
+   "title": "华境 S 五座版 SUV 新车官宣将至：现款累计交付破 4 万台，标配华为乾崑智驾",
+   "url": "https://www.ithome.com/1/029/045.htm",
+   "summary": "IT之家 11 月 18 日消息，五菱品牌与市场总监 @思行Si-Hang 今日发文， 确认华境 S 五座版新车“很快就来” 。 参考IT之家此前报道，现款的华境 S 六座版本月官宣拿下插电式混动大型 SUV 销量四连冠， 累计交付达成 40,000 台 。该车全系标配华为乾崑智驾 ADS Pro 增强版与鸿蒙座舱， 已于 5 月 8 日正式上市 。9 月 12 日，华境 S 宣布新增 4 款配置，全系超级置换价 14.98 万元-19.68 万元。 相关阅读： 《 华境 S 汽车新增 4 款配置：标配华为乾崑智驾 ADS Pro 增强版，支持外接拓展屏 》 《 五菱、华为合作打造的大六座 S",
+   "published_at": 1795002508.0,
+   "published_bj": "2026-11-18 19:48"
+  },
+  {
+   "id": "5a99d76ea51e908b",
+   "source": "IT之家",
+   "title": "奔驰 2026 广州车展阵容：VLE MPV、智混 CLA 等领衔，全新 G 400 首发上市",
+   "url": "https://www.ithome.com/1/029/044.htm",
+   "summary": "IT之家 11 月 18 日消息，据梅赛德斯-奔驰“奔驰星闻”公众号，2026 广州车展期间，奔驰将带来 26 款“星徽座驾” 和前沿智能科技。具体来看， 全新奔驰 VLE MPV 将迎来中国首秀， 全新纯电 GLC SUV 晖银版和星铂版、全新智混 CLA、全新 G 400 共 4 款新车上市，全新升级的辅助驾驶和智能座舱也将一并亮相。 IT之家从官方介绍获悉，VLE 是奔驰全新 MPV 架构的“首款力作”，兼具豪华轿车级舒适和 MPV 的多功能实用性；GLC 新增的晖银版和星铂版，前者兼顾强劲动力和操控乐趣，后者则拥有 4+2 座椅布局和舒适配置。 全新奔驰智混 CLA 将采用全新的电气化",
+   "published_at": 1795001769.0,
+   "published_bj": "2026-11-18 19:36"
+  },
+  {
+   "id": "56ee076bf8af607c",
+   "source": "IT之家",
+   "title": "R 星确认《GTA 6》在 PS5 Pro 上不会推出 60 帧模式，原因是硬件性能不足",
+   "url": "https://www.ithome.com/1/029/043.htm",
+   "summary": "IT之家 11 月 18 日消息，本月早些时候 Rockstar Games 确认，《GTA 6》在所有主机平台上的目标帧率均为 30 FPS，即使是性能更强的 PlayStation 5 Pro 也不例外。 在这一消息公布之前，Kotaku 曾向 Rockstar 询问未来《GTA 6》是否有可能加入 60 FPS 模式，甚至是 40 FPS 模式。从目前得到的答复来看，至少在现有世代的主机上，这件事基本没有可能。 当 Rockstar 确认《GTA 6》将在 PS5、PS5 Pro、Xbox Series X 和 Xbox Series S 上以 30 FPS 为目标运行时，不少玩家对此并",
+   "published_at": 1795001544.0,
+   "published_bj": "2026-11-18 19:32"
+  },
+  {
+   "id": "e7ce05f388339ae6",
+   "source": "TechCrunch",
+   "title": "India’s Humyn Labs raises $47M to feed U.S. robotics companies the data they need",
+   "url": "https://techcrunch.com/2026/11/18/accel-backs-indias-humyn-labs-to-supply-training-data-needed-by-u-s-robotics-ai-developers/",
+   "summary": "Founded in February, Humyn Labs competes with startups including Mecka AI and XDOF, with about 90% of its revenue coming from the U.S.",
+   "published_at": 1795001400.0,
+   "published_bj": "2026-11-18 19:30"
+  },
+  {
+   "id": "e8c0dc1ddf42c550",
+   "source": "IT之家",
+   "title": "智界成鸿蒙智行首个独立整车生产资质品牌，郭锐回应称将聚焦智能驾驶与整车驾乘体验",
+   "url": "https://www.ithome.com/1/029/042.htm",
+   "summary": "IT之家 11 月 18 日消息，工信部最新公告正式确认，安徽智界新能源汽车有限公司获得道路机动车辆生产企业准入资质，智界成鸿蒙智行首个独立整车生产资质品牌。 智界汽车董事长兼首席执行官郭锐今日发文，回应了“智界汽车获独立整车生产资质”一事： 奇瑞在整车制造、工程研发、供应链协同和质量管理方面的深厚积累，是智界重要的产业支撑。 智界将在此基础上持续深耕智能科技，强化自研能力，聚焦智能驾驶与整车驾乘体验 ，为用户带来更成熟可靠的智能汽车产品。 IT之家注：智界汽车（LUXEED）是由华为与奇瑞汽车合作推出的高端智能汽车品牌，属鸿蒙智行体系，产品搭载 HarmonyOS 鸿蒙座舱及华为 ADS 智",
+   "published_at": 1795000941.0,
+   "published_bj": "2026-11-18 19:22"
+  },
+  {
+   "id": "4631ea45d28f6a18",
+   "source": "IT之家",
+   "title": "《GTA 6》M 站均分 99 分，追平《塞尔达传说：时之笛》并列史上第一",
+   "url": "https://www.ithome.com/1/029/038.htm",
+   "summary": "IT之家 11 月 18 日消息，《GTA 6》的 Metacritic 评分现已出炉，这款游戏不仅成为 2026 年评分最高的游戏，还追平了电子游戏史上的最高评分纪录。 如果查看 Metacritic 公布的“史上最佳游戏”榜单，就会发现几个熟悉的名字：任天堂和 Rockstar Games，具体来说就是《超级马力欧》《塞尔达传说》和《GTA》系列。 如今，《GTA 6》也加入了这一顶级阵营，与《GTA 4》和《GTA 5》一同跻身史上评分最高的游戏行列。 截至目前，《GTA 6》已经收获 114 家媒体的评测，Metacritic 综合评分高达 99 分。这不仅让它成为 2026 年评分最",
+   "published_at": 1795000865.0,
+   "published_bj": "2026-11-18 19:21"
+  },
+  {
+   "id": "3dacd12dfb351f0d",
+   "source": "IT之家",
+   "title": "索尼 PlayStation 遭土耳其反垄断调查：数字商店抽成与渠道限制成焦点",
+   "url": "https://www.ithome.com/1/029/025.htm",
+   "summary": "IT之家 11 月 18 日消息，据彭博土耳其频道今日消息，土耳其竞争管理局已对索尼 PlayStation 展开反垄断调查。 此次调查将重点审查 索尼在其数字商店收取的抽成比例是否过高 ，以及这一做法是否导致数字版游戏的售价高于实体盒装版。 此外，调查还将评估索尼是否通过阻止数字版游戏和内容在官方商店以外的替代渠道销售，从而将竞争对手排挤出市场。 IT之家获悉，该机构还将进一步审查索尼是否通过限制游戏开发商，导致玩家无法获知其他销售渠道或更实惠的购买选项。",
+   "published_at": 1795000647.0,
+   "published_bj": "2026-11-18 19:17"
+  },
+  {
+   "id": "276a6c4c278b41b8",
+   "source": "IT之家",
+   "title": "四位外媒编辑《GTA 6》主线通关时长一览：最快 42 小时，最慢 115 小时",
+   "url": "https://www.ithome.com/1/029/023.htm",
+   "summary": "IT之家 11 月 18 日消息，《GTA 6》媒体评测已经解禁，从各个方面来看，《GTA 6》都是一款体量惊人的游戏。但玩家究竟需要投入多少时间，才能体验到游戏的全部内容？IGN 称，考虑到地图规模之大，以及其中令人惊叹的细节丰富程度，想要彻底探索这款游戏，可能需要花上好几年。即使通关主线剧情数小时后，玩家仍可探索地图，寻找各种隐藏秘密。 不过，可以先给大家一个参考：通关《GTA 6》主线剧情究竟需要多长时间。 IT之家注意到，IGN 收集了 IGN 及其姊妹网站 Eurogamer 和 Pure Xbox 四位编辑的实际游戏时长，以展示不同玩家的通关时间可能存在多大差异。下面就来看看，他们",
+   "published_at": 1795000439.0,
+   "published_bj": "2026-11-18 19:13"
+  },
+  {
+   "id": "6eb7184a0a8fa537",
+   "source": "Hacker News",
+   "title": "Show HN: Type Fighter 2",
+   "url": "https://typefighter2.com/",
+   "summary": "Type Fighter II is an arcade inspired game for people learning to touch type. Free, no account, and progress stays local. You can try on mobile, best with a physical keyboard. Comments URL: https://news.ycombinator.com/item?id=50544821 Points: 8 # Comments: 4",
+   "published_at": 1795000313.0,
+   "published_bj": "2026-11-18 19:11"
+  },
+  {
+   "id": "d966272db65aabfd",
+   "source": "IT之家",
+   "title": "IGN 给《GTA 6》打出 10 分满分：史无前例，难以置信，不容错过",
+   "url": "https://www.ithome.com/1/029/022.htm",
+   "summary": "IT之家 11 月 18 日消息，今天（18 日）19 时，IGN 公布了对《侠盗猎车手 6》的评测结果：10 分满分，“史无前例，难以置信，不容错过（Unprecedented. Unbelievable. Unmissable.）。” IT之家获悉，IGN 编辑卢克 · 雷利在总评环节中如是说： 尽管我原本就对 Rockstar 在《荒野大镖客：救赎 2》中积累经验后打造的《侠盗猎车手》新作抱有很高期待，但《GTA 6》还是彻底超出了我的想象。 它的内容更加丰富，世界更加立体，游玩体验也远比我预想的出色。三个星期、120 多个小时过去，我依然沉迷其中，甚至愿意放慢脚步，像初到一座陌生城市的",
+   "published_at": 1795000215.0,
+   "published_bj": "2026-11-18 19:10"
+  },
+  {
+   "id": "886543cf02b737fc",
+   "source": "IT之家",
+   "title": "填补国内空白：“吉祥鸟”AC311A 国产轻型直升机完成应急漂浮装置验证试飞",
+   "url": "https://www.ithome.com/1/029/021.htm",
+   "summary": "IT之家 11 月 18 日消息，中国航空工业集团今日宣布，11 月 17 日，中国航空工业集团自主研制的 AC311A“吉祥鸟”轻型直升机在江西景德镇 完成应急漂浮装置验证试飞 。 此次试飞属一类风险科目， 为国产轻型直升机首次 ，填补了国产轻型直升机应急漂浮系统研制空白，标志该机型新增大面积水域应急作业能力， 可在我国全疆域执行任务 。 AC311A 为 2 吨级 6 座多用途直升机，最大起飞重量 2250 千克，2016 年取得民航型号合格证，结束同级别民用直升机长期依赖进口局面。 IT之家获悉，本次空中应急漂浮装置验证试飞设定为：直升机以 130 千米 / 时速度前飞时，飞行员启动应急",
+   "published_at": 1795000187.0,
+   "published_bj": "2026-11-18 19:09"
+  },
+  {
+   "id": "628f17cb6f4f6580",
+   "source": "IT之家",
+   "title": "AI 引发人类身份焦虑，剑桥词典将“Human”评为 2026 年度词汇",
+   "url": "https://www.ithome.com/1/029/020.htm",
+   "summary": "IT之家 11 月 18 日消息，人工智能带来的担忧，让剑桥词典将目光重新投向了 15 世纪，选择一个古老词汇来概括 2026 年的时代文化特征。 剑桥词典公布的年度词汇是“Human”。这一选择不仅是对过去的回望，也在一定程度上反映了人们对 AI 发展的反思。随着人工智能逐渐模糊机器与人类之间的界限，关于人类独特性的讨论也日益升温。 剑桥词典词典编纂者科林 · 麦金托什（Colin McIntosh）表示：“AI 正在改变我们对人性的理解。当我们把自己的思考外包给 AI 时，人类可能因此失去什么？这种担忧促使我们重新审视对 AI 的依赖程度。从顶尖数学家到幼儿教师，不同领域的人都在思考这个问",
+   "published_at": 1794999619.0,
+   "published_bj": "2026-11-18 19:00"
   },
   {
    "id": "b905381f0e54fb47",
@@ -22,6 +418,159 @@
    "published_bj": "2026-11-18 19:00"
   },
   {
+   "id": "4ec1a0a22e1cfa5a",
+   "source": "TechCrunch",
+   "title": "China dominates battery graphite, but this startup could break the monopoly",
+   "url": "https://techcrunch.com/2026/11/18/china-dominates-battery-graphite-but-this-startup-could-break-the-monopoly/",
+   "summary": "Chinese companies maintain near total dominance of the graphite industry, but Molten Industries says its new factory in Oakland could spell the end of the monopoly.",
+   "published_at": 1794999600.0,
+   "published_bj": "2026-11-18 19:00"
+  },
+  {
+   "id": "bcb758e8cd6e371f",
+   "source": "IT之家",
+   "title": "13 年等待结束：《侠盗猎车手 6》今明日正式发售，登陆 PS5、Xbox Series X|S 平台",
+   "url": "https://www.ithome.com/1/029/019.htm",
+   "summary": "IT之家 11 月 18 日消息，Rockstar Games 十三年磨一剑的开放世界动作冒险游戏《侠盗猎车手 Ⅵ》（GTA 6）在中国大陆及港澳台地区将于 11 月 19 日 0 点正式解锁，登陆 PlayStation 5 与 Xbox Series X|S 平台。 由于时区原因，新西兰玩家于 11 月 18 日 19:00（北京时间）即可抢先进入游戏。除此之外，澳大利亚玩家将于 11 月 18 日 21:00 开启游玩，日韩地区也将于 11 月 18 日 23:00（北京时间）解锁。 由于汇率差价原因，相信有很大一批 PlayStation 5 与 Xbox Series X|S 玩家购",
+   "published_at": 1794999550.0,
+   "published_bj": "2026-11-18 18:59"
+  },
+  {
+   "id": "343566e759230c2f",
+   "source": "IT之家",
+   "title": "微信：私人 AI 助理“小微”日活跃用户数已达 3000 万，预计未来部分推理任务在设备端运行",
+   "url": "https://www.ithome.com/1/029/018.htm",
+   "summary": "IT之家 11 月 18 日消息，腾讯今日发布 2026 年第三季度财报，称正加速推进 AI 化变革，向 AI 引领的科技公司迈进。 微信官方今日宣布，小微用户测试范围扩大， 日活跃用户数 （DAU） 已达 3000 万 ，逐步融入微信聊天、朋友圈、公众号、视频号等高频场景。 据介绍，小微是 每个人的私人 AI 助理 （ personal assistant for everyone ），在微信生态内即可即时使用，从设计之初便注重隐私保护， 使用及运营成本低 。 IT之家获悉，小微采用 WeLM 模型，一款针对成本效率及小微易用性进行优化的定制模型，因此推理成本极低且持续下降。未来， 官方预计",
+   "published_at": 1794999298.0,
+   "published_bj": "2026-11-18 18:54"
+  },
+  {
+   "id": "556309d28a85fd66",
+   "source": "IT之家",
+   "title": "腾讯公布 2026 年 Q3 财报：微信及 WeChat 合并月活跃账户数 14.49 亿，同比增长 2%",
+   "url": "https://www.ithome.com/1/029/017.htm",
+   "summary": "IT之家 11 月 18 日消息，腾讯今日公布了 2026 年 Q3 财报。据“微信派”公众号介绍，腾讯正加速推进 AI 化变革，向 AI 引领的科技公司迈进。 “微信派”还提到， 微信及 WeChat 的合并月活跃账户 14.49 亿，同比增长 2% 。 据IT之家今日早些时候报道，腾讯控股发布 2026 财年（2026 年 1 月～2026 年 12 月）前三季度（2026 年 1 月～2026 年 9 月）及第三财季（2026 年 7 月～2026 年 9 月）报告。数据显示， 2026 年前三季度营业总收入 6085.79 亿元，同比增长 9% ；归母净利润 1777.27 亿元，同比",
+   "published_at": 1794998880.0,
+   "published_bj": "2026-11-18 18:48"
+  },
+  {
+   "id": "36fb84067c758b3a",
+   "source": "cnBeta",
+   "title": "双环残骸环绕死亡恒星 天文学家窥见太阳系数十亿年后的命运",
+   "url": "https://www.cnbeta.com.tw/articles/science/1586950.htm",
+   "summary": "国际天文学界近日公布一项引人关注的新发现。研究人员利用欧洲南方天文台（ESO）位于智利阿塔卡马沙漠的甚大望远镜（VLT），在一颗已经死亡的恒星周围发现了罕见的双层行星残骸环结构。这一系统不仅展现了行星系统毁灭后的复杂景象，也可能为人类提前揭示太阳系未来的演化结局。 阅读全文",
+   "published_at": 1794998796.0,
+   "published_bj": "2026-11-18 18:46"
+  },
+  {
+   "id": "436c2f53af7a6169",
+   "source": "IT之家",
+   "title": "华尔街为 Anthropic“史上最大 IPO”造势，散户争抢热情或超 SpaceX",
+   "url": "https://www.ithome.com/1/029/015.htm",
+   "summary": "IT之家 11 月 18 日消息，据路透社今天（18 日）晚间报道，华尔街正为 Anthropic 可能创下纪录的 IPO 提前造势。金融机构不仅推出了挂钩 Anthropic 股票的投资产品，还举办客户活动、派发周边商品。 市场预计，高净值投资者和散户届时将展开激烈的股票争夺。 尽管过去几周超大规模云服务商和其他 AI 概念股遭遇大幅抛售，投资者对 Anthropic 上市的热情仍在升温。按照预期，Anthropic 将于当地时间 19 日登陆公开市场。 Anthropic 此次 IPO 估值最高可能达到 1.4 万亿美元 （IT之家注：现汇率约合 9.35 万亿元人民币） 。不过，今年早些",
+   "published_at": 1794998707.0,
+   "published_bj": "2026-11-18 18:45"
+  },
+  {
+   "id": "7cd105f3b5217bae",
+   "source": "IT之家",
+   "title": "美团“无人机外卖”加速出海，索降版航线落地迪拜",
+   "url": "https://www.ithome.com/1/029/014.htm",
+   "summary": "IT之家 11 月 18 日消息，美团官方今日宣布，迪拜时间 11 月 18 日，美团无人机第四代索降机型 M-Drone 4L 完成海外首次亮相。 IT之家获悉， 迪拜的美团无人机索降航线将于近期正式投入使用 ，该机型将落地 Sobha Hartland 等社区及户外空间。 据介绍，为了让包裹平稳送达，索降机型通过自主选点和摆动抑制技术控制投放过程；包裹到达投放点后，六轴力传感器和电控脱钩装置配合完成释放。 该机型已在零下 20 摄氏度至 50 摄氏度、大雨和迪拜沙尘等条件下接受实测 。 官方表示，截至目前，美团无人机已在深圳、上海、广州、香港等多个城市落地， 全球累计完成超 110 万笔订",
+   "published_at": 1794998691.0,
+   "published_bj": "2026-11-18 18:44"
+  },
+  {
+   "id": "626b19f0e81c138c",
+   "source": "IT之家",
+   "title": "天马推出 17.3 英寸窄边框车载座舱显示屏，集成环境光传感器",
+   "url": "https://www.ithome.com/1/029/013.htm",
+   "summary": "IT之家 11 月 18 日消息，天马微电子宣布推出 17.3 英寸窄边框集成 ALS（环境光传感器）显示屏，依托成熟 LTPS 工艺， 把环境光感知传感器集成至面板内部 。 据介绍，传统方案中，窄边框与外置环境光传感器往往相互冲突：外置传感器要占用模组边框空间，想要智能调光，就要牺牲屏占比；想要追求极致窄边，就得舍弃高精度环境感知能力。 IT之家获悉，这款 17.3 英寸显示产品，通过面板线路单元压缩、极限封胶与切割工艺优化， 将面板左 / 右 / 上三边边框压缩至 1.5mm；整机模组边框做到三边 4.0mm ，相较行业常规规格实现显著收窄。 官方表示，依托 LTPS-TFT 电路创新，将",
+   "published_at": 1794998254.0,
+   "published_bj": "2026-11-18 18:37"
+  },
+  {
+   "id": "c319080fbbbe4d50",
+   "source": "IT之家",
+   "title": "华为星芒 OSTA O1 Pro 手机设置页截屏流出，“实锤”搭载麒麟 9030S 处理器",
+   "url": "https://www.ithome.com/1/029/012.htm",
+   "summary": "IT之家 11 月 18 日消息，华为全新子品牌星芒的首款产品 —— OSTA O1 Pro 阔直板手机已正式官宣并公布外观，新机将于 11 月 20 日发布。 ▲ IT之家开箱：华为全新子品牌星芒 OSTA O1 Pro 手机实拍 此前爆料显示，这款新机会搭载麒麟 9030S 处理器。博主 @RuryRen 今日晒出新机“设置-关于本机”的截图， “实锤”会搭载麒麟 9030S 处理器 。 另外，博主还透露， 华为星芒 OSTA O1 标准版会搭载 Pura 90 Plus 同款处理器 —— 麒麟 9025 。 参考IT之家此前报道，博主 @数码闲聊站 透露， OSTA O1 Pro 搭载一",
+   "published_at": 1794998110.0,
+   "published_bj": "2026-11-18 18:35"
+  },
+  {
+   "id": "5dda1a81348cc6ba",
+   "source": "IT之家",
+   "title": "零刻推出 192GB 内存版 GTR9 Pro 495 迷你主机，48999 元起",
+   "url": "https://www.ithome.com/1/029/011.htm",
+   "summary": "IT之家 11 月 18 日消息，零刻今日宣布推出 192GB 内存版 GTR9 Pro 495 迷你主机，搭载 AMD Ryzen AI Max+ PRO 495 处理器，内存从原有的 128GB 提升至 192GB LPDDR5x， 售价 48999 元起 。 192GB+2TB：48999 元 192GB+4TB：49999 元 GTR9 Pro 495 搭载 AMD Ryzen AI Max+ PRO 495 处理器，采用 Zen 5 架构，拥有 16 核 32 线程；集成 Radeon 8065S 核显，拥有 40 个 RDNA 3.5 计算单元，最高频率 3000MHz。 GTR9",
+   "published_at": 1794997777.0,
+   "published_bj": "2026-11-18 18:29"
+  },
+  {
+   "id": "4086e7cc56391816",
+   "source": "IT之家",
+   "title": "新西兰旅游局喊话“切区”玩家：我们能率先玩上《GTA 6》，非常欢迎你们",
+   "url": "https://www.ithome.com/1/029/010.htm",
+   "summary": "IT之家 11 月 18 日消息，据 IGN 报道，《GTA 6》发售之际，新西兰旅游局也来凑热闹了，专门向那些利用“新西兰大法”提前解锁游戏的玩家表示欢迎。 预计会有大量玩家利用 Xbox 的地区设置漏洞，提前玩上《GTA 6》。操作其实很简单，只需 将主机的地区切换到新西兰 ，就能赶在其他地区之前进入游戏。毕竟，《GTA 6》虽然要等到各地当地时间午夜才正式解锁，但新西兰的午夜来得更早（北京时间 18 日 19 时）。 这项被玩家戏称为“新西兰大法”的技巧已经 火到连新西兰官方都注意到了 。新西兰旅游局不仅公开回应，还向那些暂时把游戏地区切换到新西兰、借此提前体验《GTA 6》的玩家发出了",
+   "published_at": 1794997227.0,
+   "published_bj": "2026-11-18 18:20"
+  },
+  {
+   "id": "9fa64b171599da02",
+   "source": "IT之家",
+   "title": "当贝推出 H5 Pro 第二代电视盒子：全志 H626 处理器、4GB+32GB 售价 499 元",
+   "url": "https://www.ithome.com/1/029/009.htm",
+   "summary": "IT之家 11 月 18 日消息，当贝现已推出 H5 Pro 第二代电视盒子， 到手价 499 元 。 当贝 H5 Pro 第二代搭载 全志 H626 处理器 ，相较上一代 H618 平台 CPU 性能提升 30%，GPU 性能提升 20%，支持 AV1 硬件解码，开机时间比上一代缩短 20%。 当贝 H5 Pro 第二代配备 4GB 运行内存与 32GB 存储空间 ，相比基础版 H5 第二代翻倍；搭载基于 Android 14 深度优化的当贝 OS，彻底去除开机广告，开机即可直接进入主界面。 当贝 H5 Pro 第二代采用纯白色机身，接口配备 AV、HDMI 2.1、USB、DC 电源接口，",
+   "published_at": 1794997096.0,
+   "published_bj": "2026-11-18 18:18"
+  },
+  {
+   "id": "24dd68e336618f40",
+   "source": "cnBeta",
+   "title": "派拉蒙发布《愤怒的小鸟3大电影》海报 视觉模仿《GTA6》",
+   "url": "https://www.cnbeta.com.tw/articles/comic/1586948.htm",
+   "summary": "派拉蒙影业为《愤怒的小鸟3大电影》公布了一张新宣传海报。海报采用拼贴网格构图，视觉设计明显借鉴了Rockstar Games游戏封面的语言，并以《GTA6》的风格作为宣传噱头。 阅读全文",
+   "published_at": 1794996470.0,
+   "published_bj": "2026-11-18 18:07"
+  },
+  {
+   "id": "c895820333bb693b",
+   "source": "IT之家",
+   "title": "智元王闯：会干活才是人形机器人的真本事，长隆具身智能乐园已部署近 500 台机器人",
+   "url": "https://www.ithome.com/1/028/996.htm",
+   "summary": "IT之家 11 月 18 日消息，11 月 17 日，智元合伙人、高级副总裁、远征业务部总裁王闯在深圳举行的 APEC 财经之夜上，围绕人形机器人规模化部署表示， 对于人形机器人而言，会说话、会走路只是及格线，会干活才是真本事 。 据界面新闻报道，王闯透露，智元与长隆共建的具身智能主题乐园今年 9 月开园，目前已有近 500 台机器人覆盖 100 余个岗位， 预计年底达到 1000 台规模 。 据IT之家此前报道，智元与长隆合作建设的具身智能主题乐园于 9 月 24 日在珠海横琴长隆飞船乐园开园，号称是“全球规模最大、场景最丰富、技术最先进的智能文旅新地标”。 相关阅读： 《 智元与长隆集团合",
+   "published_at": 1794996431.0,
+   "published_bj": "2026-11-18 18:07"
+  },
+  {
+   "id": "8453a5ddc8145524",
+   "source": "cnBeta",
+   "title": "发售日别进拘留所 多地警方借《GTA6》提醒玩家守法",
+   "url": "https://www.cnbeta.com.tw/articles/game/1586946.htm",
+   "summary": "美国佐治亚州亚特兰大警方11月18日在官方X账号提及即将发售的《GTA6/侠盗猎车6》，提醒公众不要混淆虚拟娱乐与现实行为。警方强调，游戏舞台是虚构的，但亚特兰大真实存在，玩家不应把游戏中的犯罪行为带进城市生活。 阅读全文",
+   "published_at": 1794996427.0,
+   "published_bj": "2026-11-18 18:07"
+  },
+  {
+   "id": "df6aeb411c5d01e6",
+   "source": "IT之家",
+   "title": "小米春节前待发新机曝光，含 Xiaomi 18 标准版、REDMI Note18 / Turbo6 系列等",
+   "url": "https://www.ithome.com/1/028/992.htm",
+   "summary": "IT之家 11 月 18 日消息，博主 @数码闲聊站 今日发文，曝光了小米春节前待发新机， 含 Xiaomi 18 标准版、REDMI Note18 / Turbo6 系列等机型 。 从入网备案信息看，粮厂这边春节前的新机是小米 18、REDMI Note18 系列、REDMI Turbo6 系列， 最强标准版小屏旗舰、万级长续航中端机、超大屏中端旗舰性能机 ，同样选择多多…… 有网友询问 REDMI K100 系列的游戏旗舰是否会在 2 月上市，博主表示：“ 更晚。 ”还有网友询问其他厂商的超大屏手机何时发布，博主回复称：“ 春节前预计有 3 家上 7 英寸大屏机。 ” 据IT之家昨日报道，",
+   "published_at": 1794996385.0,
+   "published_bj": "2026-11-18 18:06"
+  },
+  {
+   "id": "5cb863cb61e0ea89",
+   "source": "Hacker News",
+   "title": "Codeberg.org Not Reachable",
+   "url": "https://social.anoxinon.de/@codebergstatus/117636437840688845",
+   "summary": "Article URL: https://social.anoxinon.de/@codebergstatus/117636437840688845 Comments URL: https://news.ycombinator.com/item?id=50544261 Points: 243 # Comments: 232",
+   "published_at": 1794996137.0,
+   "published_bj": "2026-11-18 18:02"
+  },
+  {
    "id": "d8cd5732deda0011",
    "source": "InfoQ中文",
    "title": "代码里明明配置了鉴权，服务却仍暴露公网：Shopify 不再相信代码仓库",
@@ -31,6 +580,249 @@
    "published_bj": "2026-11-18 18:00"
   },
   {
+   "id": "b18f1e6165886d8f",
+   "source": "IT之家",
+   "title": "微软商业业务 CEO：黄仁勋辞任英伟达 CEO，或促使客户寻求 AI 芯片替代方案",
+   "url": "https://www.ithome.com/1/028/968.htm",
+   "summary": "IT之家 11 月 18 日消息，据彭博社今天（18 日）早间报道，微软商业业务 CEO 贾德森 · 阿尔托夫认为，黄仁勋辞职引发的英伟达人事风波，可能促使客户寻找英伟达 AI 芯片之外的选择。 阿尔托夫透露，早在黄仁勋辞职之前，客户就已经表达了希望拥有更多选择的意愿，而最近的消息确实让人们更加确信，多一些选择是件好事。 微软、亚马逊和谷歌都在开发自研 AI 芯片，希望借此 降低对英伟达的依赖 。微软上个月还透露，计划让旗下 AI 软件主要依靠自研硬件运行。至于 Anthropic 和 OpenAI，也在寻找英伟达芯片的替代方案。 阿尔托夫过去一年一直在强调，未来将由多样化的 AI 模型和芯片",
+   "published_at": 1794995877.0,
+   "published_bj": "2026-11-18 17:57"
+  },
+  {
+   "id": "e95d1a4c4769a2d3",
+   "source": "IT之家",
+   "title": "暴力熊推出 PC DIY 小工具 TG PadMate，用于量测导热垫厚度",
+   "url": "https://www.ithome.com/1/028/964.htm",
+   "summary": "IT之家 11 月 18 日消息，电脑 PCB 上的各种电路元件拥有不同的高度，而散热器底部通常是一个平面。这意味着 介于两者之间的导热材料厚度必须合适 ：过薄可能会留下空气间隙，严重影响散热效果；过厚则可能形成应力，导致物理损坏。 面对这一问题，Thermal Grizzly（暴力熊）当地时间本月 15 日推出了 TG PadMate。该工具可用于测量硬件原厂导热垫的厚度，方便用户选择最为合适的替换耗材。 IT之家了解到，TG PadMate 由柔性塑料制成，测量时几乎不会对导热垫施加任何压力， 避免形变导致的结果偏差 。其量程为 0.5~5.0mm，覆盖显卡常用导热垫厚度范围；结果步进 0",
+   "published_at": 1794995794.0,
+   "published_bj": "2026-11-18 17:56"
+  },
+  {
+   "id": "9aa7b5d331ec7425",
+   "source": "cnBeta",
+   "title": "谷歌发现可自主运行的俄语注释AI黑客工具",
+   "url": "https://www.cnbeta.com.tw/articles/tech/1586944.htm",
+   "summary": "谷歌周一表示，该公司发现一款能够在无人类协助的情况下自主识别并利用软件漏洞的黑客工具，凸显了人工智能（AI）智能体带来的风险。谷歌威胁情报小组（Google Threat Intelligence Group，GTIG）在第三季度报告中详细披露了这一发现。报告称，该工具位于一台暴露在互联网上的预发布服务器上。攻击者通常使用此类服务器存储和准备攻击工具。谷歌将这款工具命名为“exploit_agent”。 阅读全文",
+   "published_at": 1794995461.0,
+   "published_bj": "2026-11-18 17:51"
+  },
+  {
+   "id": "22373d3672a20dc6",
+   "source": "cnBeta",
+   "title": "CoreWeave首席执行官：没有黄仁勋英伟达不会受影响",
+   "url": "https://www.cnbeta.com.tw/articles/tech/1586942.htm",
+   "summary": "周二，“硅谷与世界”大会上，CoreWeave首席执行官迈克尔·因特拉托（Michael Intrator）暗示，他并不特别担心黄仁勋离职会对CoreWeave的业务造成影响。因特拉托表示，英伟达是一家“非凡的公司”，该公司还拥有“成千上万名优秀的工程师和员工”，双方的合作关系将继续维持。 阅读全文",
+   "published_at": 1794995021.0,
+   "published_bj": "2026-11-18 17:43"
+  },
+  {
+   "id": "a548258a29c59589",
+   "source": "cnBeta",
+   "title": "软银孙正义承认未投资Anthropic是“错误” 对此感到遗憾",
+   "url": "https://www.cnbeta.com.tw/articles/tech/1586940.htm",
+   "summary": "软银集团创始人孙正义表示，他对未能在Anthropic进行备受瞩目的首次公开募股（IPO）之前投资该公司感到遗憾，并将错失这一人工智能实验室投资机会称为一个错误。他解释称，放弃投资Anthropic是因为当时软银已经开始向其竞争对手OpenAI投入资金。 阅读全文",
+   "published_at": 1794995007.0,
+   "published_bj": "2026-11-18 17:43"
+  },
+  {
+   "id": "f17616224ed927ff",
+   "source": "IT之家",
+   "title": "2026 小米精英驾驶 · 赛照培训正式收官，162 位小米车主成为国家 B 级赛车手",
+   "url": "https://www.ithome.com/1/028/950.htm",
+   "summary": "IT之家 11 月 18 日消息，小米汽车官方今日宣布，2026 小米精英驾驶 · 赛照培训正式收官。据介绍， 今年有 162 位小米车主成为国家 B 级赛车手 。 据IT之家此前报道， 2026 小米精英驾驶包含高阶驾驶培训、赛照培训、赛道体验三项活动 ： 高阶驾驶培训： 面向所有用户开放。小米精英教练团队教学，针对日常场景进行安全驾驶培训。课程含理论课和 4 项（加速 / 制动 / 紧急变线练习、绕桩练习、低附着路面驾驶练习、金卡纳练习）实车操作。 赛照培训： 仅面向已提车和锁单车主。中汽摩联场地类国家 B 级赛照培训，包含专业系统赛道课程，单人实操课时 5 小时以上，中汽摩联认证教练授课",
+   "published_at": 1794994982.0,
+   "published_bj": "2026-11-18 17:43"
+  },
+  {
+   "id": "f20979c77bddf708",
+   "source": "IT之家",
+   "title": "苹果前董事长莱文森拟出售 9 万股苹果股票，价值约 3180 万美元",
+   "url": "https://www.ithome.com/1/028/949.htm",
+   "summary": "IT之家 11 月 18 日消息，苹果前董事长亚瑟 · 莱文森（Arthur Levinson）已提交出售 9 万股苹果股票的申请，按当前市值计算，这批股票价值约 3,180 万美元 （IT之家注：现汇率约合 2.12 亿元人民币） 。此次拟出售计划恰逢苹果股价创下历史新高之后，不过从交易规模来看，其对公司股价的直接影响可能相当有限。 据莱文森于 2026 年 11 月 16 日向美国证券交易委员会（SEC）提交了 144 号表格文件，他计划出售 9 万股苹果普通股，交易总市值为 3,176.5885 万美元 （现汇率约合 2.12 亿元人民币） 。 这些股票归属于 Homeplace 信托基",
+   "published_at": 1794994546.0,
+   "published_bj": "2026-11-18 17:35"
+  },
+  {
+   "id": "4e46d003492836ea",
+   "source": "IT之家",
+   "title": "日产确认 R36 将回归圆形头灯，致敬早期 GT-R 经典设计",
+   "url": "https://www.ithome.com/1/028/946.htm",
+   "summary": "IT之家 11 月 18 日消息，下一代日产 GT-R 距离上市恐怕还要等上数年，不过有关新车外观的线索已经浮出水面。 日产新任全球设计主管马修 · 韦弗透露， R36 将重新采用圆形头灯，向早期几代 GT-R 的经典造型致敬 。 日本汽车杂志《Best Car》近日采访了韦弗，并询问了这一车系的未来。 自 2025 年 8 月最后一辆 R35 下线后，GT-R 系列便进入停产空档期。面对提问，韦弗给出了一个颇有意味的回答：“如果我们要造 R36，它就要 用上圆形头灯 。目前我只能透露这些。” 圆形头灯将是 GT-R 经典造型的一次回归。1969 年诞生的初代 Skyline GT-R（C10",
+   "published_at": 1794994458.0,
+   "published_bj": "2026-11-18 17:34"
+  },
+  {
+   "id": "26eaf95a6d75b030",
+   "source": "Hacker News",
+   "title": "Energy-Based Reasoners: 385x more efficient inference",
+   "url": "https://energy-based-reasoners.github.io/",
+   "summary": "Article URL: https://energy-based-reasoners.github.io/ Comments URL: https://news.ycombinator.com/item?id=50543989 Points: 129 # Comments: 17",
+   "published_at": 1794994172.0,
+   "published_bj": "2026-11-18 17:29"
+  },
+  {
+   "id": "71744322aca67181",
+   "source": "IT之家",
+   "title": "亚马逊不排除放行外部 AI 购物智能体，前提是带来优质用户体验",
+   "url": "https://www.ithome.com/1/028/933.htm",
+   "summary": "IT之家 11 月 18 日消息，亚马逊此前关闭了外部 AI 购物智能体在其平台上直接下单的权限，但 CEO 安迪 · 贾西（Andy Jassy）表示，公司并没有彻底关上这扇门，未来仍有可能重新开放。 贾西当地时间周二在 Semafor 举办的“硅谷与世界”大会上表示：“我认为，我们从来没有说过绝对不会开放。 这件事的前提是必须为消费者提供良好的体验，而目前还没有做到这一点，同时双方也必须实现公平的价值交换 。” 以 Meta 的 Muse、Instinct AI 和 OpenAI 的 Dots 为代表的 AI 智能体，正在给美国零售商的 IT 和安全部门带来新的挑战。这些 AI 工具宣称能",
+   "published_at": 1794993781.0,
+   "published_bj": "2026-11-18 17:23"
+  },
+  {
+   "id": "4b423c4eefaec7c2",
+   "source": "IT之家",
+   "title": "李云飞：比亚迪今年已打二代刀片电池闪充 + 智驾兜底两张技术牌，年内第三个黑科技方程豹钛 9 首搭",
+   "url": "https://www.ithome.com/1/028/932.htm",
+   "summary": "IT之家 11 月 18 日消息，比亚迪集团-品牌及公关处总经理李云飞和比亚迪集团-方程豹事业部总经理熊甜波今日合拍视频，预热方程豹钛 9 新车。 李云飞表示，今年，比亚迪已经打了两张技术牌（ 二代刀片电池闪充技术 + 智驾兜底 ）。他透露， 年内第三个黑科技即将重磅发布 ，首搭车型为方程豹钛 9。 据IT之家此前报道， 比亚迪方程豹钛 9 车型将于 11 月 19 日上市 ，车辆已抵达全国 12 城 21 门店，新增 20 城已发运在途即将抵达。钛 9 也是方程豹品牌当前唯一一款 9 系旗舰车型，全系标配四项技术： 首发首搭 DMS 全新混动平台：DMS 专为钛系列打造，从底盘结构到动力调校",
+   "published_at": 1794993751.0,
+   "published_bj": "2026-11-18 17:22"
+  },
+  {
+   "id": "94b6efe16ae6fa2d",
+   "source": "IT之家",
+   "title": "11 年纪录就此中断，索尼发行游戏无缘今年 TGA 年度游戏奖提名",
+   "url": "https://www.ithome.com/1/028/930.htm",
+   "summary": "IT之家 11 月 18 日消息，据外媒 VGC 报道，索尼发行的游戏自 2015 年以来首次无缘 TGA 年度游戏奖提名，持续 11 年的提名纪录就此中断。 原本最有希望角逐年度游戏奖的作品之一《漫威金刚狼》虽然获得了总体正面的评价，但口碑仍不及失眠组此前的作品。该作最终获得两项提名，分别是利亚姆 · 麦金泰尔凭借“金刚狼”一角入围 最佳表演奖 ，以及游戏本身入围 无障碍创新奖 。 索尼旗下另外两款作品《沙罗周期》和《失落星船：马拉松》也各获一项提名，分别入围 最佳动作游戏奖 和 最佳多人游戏奖 。 尽管失去了年度游戏奖提名，PlayStation 在本届 TGA 仍获得 9 项提名 ，是提",
+   "published_at": 1794993383.0,
+   "published_bj": "2026-11-18 17:16"
+  },
+  {
+   "id": "7845daaea8ed9cd9",
+   "source": "Solidot",
+   "title": "Optimizely 遭入侵 BBC CNN 等知名网站传播恶意程序",
+   "url": "https://www.solidot.org/story?sid=85920",
+   "summary": "被知名网站用于网页 A/B 测试的软件 Optimizely 遭到入侵，黑客纂改了这些网站加载的 JavaScript 代码，向访客的计算机植入恶意程序。有至少 178 个网站受到影响，其中包括 BBC、CNN、Zoom、宜家、Salesforce、汇丰银行和 TalkTalk 等知名网站。这些网站使用了 Optimizely 的 Web Experimentation，允许在不更改网站底层代码的情况下调整网页的内容和布局。黑客利用了被称为 OPTIMJACK 的漏洞向 Optimizely 客户的项目中植入恶意的 JavaScript 代码。Optimizely 表示它已经修复了漏洞，通知了",
+   "published_at": 1794993125.0,
+   "published_bj": "2026-11-18 17:12"
+  },
+  {
+   "id": "82618e9d8bf2dbc9",
+   "source": "IT之家",
+   "title": "曝英特尔启动新一轮裁员，波及全球 IT 部门",
+   "url": "https://www.ithome.com/1/028/927.htm",
+   "summary": "IT之家 11 月 18 日消息，据《商业内幕》今天（18 日）上午报道，过去两年接连经历多轮裁员后，英特尔又开始新一轮人员削减，此次裁员波及公司的全球 IT 部门。 CEO 陈立武推动英特尔精简组织、压缩规模的工作仍在继续，年底前也没有停下来的迹象。 本周，英特尔全球 IT 部门有员工在社交媒体上发文，透露自己被裁的消息。 英特尔发言人在一份声明中解释说，公司将持续审视人员配置，确保员工和资源 能够集中到最重要的业务上 ，以配合提高运营效率、聚焦核心业务的整体战略。 IT之家从报道中获悉，英特尔没有透露此次裁员的具体人数，也未说明涉及哪些团队。 此次裁员是英特尔持续推进重组的又一步。过去几年",
+   "published_at": 1794992674.0,
+   "published_bj": "2026-11-18 17:04"
+  },
+  {
+   "id": "8b88f313a221f795",
+   "source": "IT之家",
+   "title": "消息称荣耀明年没有常规大折叠手机，取而代之的是阔折叠",
+   "url": "https://www.ithome.com/1/028/926.htm",
+   "summary": "IT之家 11 月 18 日消息，博主 @旺仔百事通 今日发文透露， 荣耀明年没有常规大折叠手机，取而代之的是阔折叠手机 。 有网友称看不懂荣耀的战略，因为国内大折叠手机市场，荣耀排名第二（华为排名第一）。他认为荣耀应该保持优势，再发一小部分阔折叠探探路。博主表示：“ 在没有卖到绝对的数量之前，折叠屏都是不赚钱的。 ” 据IT之家此前报道，博主 @数码闲聊站 今年 9 月曾爆料，荣耀也有阔折叠手机， 搭载 2nm 骁龙新芯片，排期 2027Q1 ，希望能赶到春节前发布。根据该博主此前爆料，荣耀阔折叠搭载骁龙 8 Elite Gen6 系列处理器，主屏测试 7.6 英寸 ±、副屏 5.5 英寸 ",
+   "published_at": 1794992636.0,
+   "published_bj": "2026-11-18 17:03"
+  },
+  {
+   "id": "cbdba34d00b1e7ba",
+   "source": "IT之家",
+   "title": "海韵预告：PRIME ENTERPRISE PX-3200 电源即将上市",
+   "url": "https://www.ithome.com/1/028/925.htm",
+   "summary": "IT之家 11 月 18 日消息，海韵 (Seasonic) 近日发布预告，宣布其面向工作站等高性能本地计算系统打造的 PRIME ENTERPRISE PX-3200 电源即将上市。 根据该企业在今年度的 COMPUTEX 2026 台北国际电脑展上的展示，PRIME ENTERPRISE PX 系列的三款高功率产品均符合 ATX12V 3.1、PCIe CEM 5.1 规范，获得 80 PLUS 与 Cybenetics 铂金能效认证。 其导入服务器级验证，符合服务器 EDPP 高动态负载测试标准，采用高精度电压调节技术； 可提供至多 6 组 12V-2×6 输出 ；内置 120mm 台达",
+   "published_at": 1794992534.0,
+   "published_bj": "2026-11-18 17:02"
+  },
+  {
+   "id": "2fc9b1194282c73c",
+   "source": "IT之家",
+   "title": "理想汽车 CTO 谢炎台积电 OIP 论坛开讲，解读马赫 M100 从技术到应用全流程",
+   "url": "https://www.ithome.com/1/028/924.htm",
+   "summary": "2026 年 11 月 17 日，台积电 OIP（Open Innovation Platform，开放创新平台）生态系统论坛在北京举行。作为全球半导体设计、EDA、IP 及封装测试领域最具影响力的年度技术盛会之一，本届论坛汇聚了芯片架构、AI 计算与系统创新方向的顶尖企业与专家。理想汽车首席技术官谢炎受邀发表主题演讲，成为本次论坛唯一的特邀演讲嘉宾，理想汽车也成为台积电 OIP 生态系统论坛举办以来首家进行特邀演讲的大陆企业。 谢炎演讲的题目为《高效 AI 推理系统的设计思考与实践》，核心内容围绕理想汽车自研的马赫 M100 芯片展开。从架构设计到量产装车，这颗芯片完整走过了从原创技术到规模",
+   "published_at": 1794992480.0,
+   "published_bj": "2026-11-18 17:01"
+  },
+  {
+   "id": "d306520f65ce3426",
+   "source": "少数派",
+   "title": "10 月音乐精选：音乐丰收季，必听这 7 张新专辑",
+   "url": "https://sspai.com/post/118985",
+   "summary": "编者注：2026年我们将重启少数派音乐推荐栏目FM3.14，特邀资深音乐从业者及爱好者为大家推荐优质的华语独立、流行音乐，今年我们也很荣幸邀请到老朋友飞傲，为本栏目冠名。飞傲目前拥有品牌以音乐发烧友为 ... 查看全文",
+   "published_at": 1794992398.0,
+   "published_bj": "2026-11-18 16:59"
+  },
+  {
+   "id": "86939d499b639de7",
+   "source": "IT之家",
+   "title": "贝索斯：把科技巨头当替罪羊，并不能解决美国经济问题",
+   "url": "https://www.ithome.com/1/028/915.htm",
+   "summary": "IT之家 11 月 18 日消息，亚马逊创始人杰夫 · 贝索斯认为，大型科技公司已经成了美国新的众矢之的。他批评政客习惯于寻找替罪羊，而不是着手解决经济问题的根源。 当地时间 17 日，贝索斯在 Semafor 举办的“Silicon Valley &amp; The World”大会上接受采访时表示，寻找替罪羊是由来已久的政治手法， 虽然有利于政治操作，却根本解决不了问题 。 在贝索斯看来，公众对不同行业的态度一直在变化： 律师、华尔街、房东都曾成为批评对象，现在轮到了科技巨头们 。他认为，外界将整个科技行业描绘成反派并不符合事实。“房东有时会被塑造成反派，现在轮到大型的科技公司了， 整个科",
+   "published_at": 1794992165.0,
+   "published_bj": "2026-11-18 16:56"
+  },
+  {
+   "id": "6473804f007c86b8",
+   "source": "IT之家",
+   "title": "腾讯 WorkBuddy 日活跃用户数超 1000 万，成为中国大语言模型日均 Token 用量最高 AI 产品",
+   "url": "https://www.ithome.com/1/028/914.htm",
+   "summary": "IT之家 11 月 18 日消息，腾讯今日发布 2026 年第三季度财报，截至 11 月初， WorkBuddy 日活跃用户数超过 1000 万，日均 Token 调用量超过 100 万亿 ，成为中国大语言模型日均 Token 用量最高的 AI 产品。 官方表示，自今年 3 月发布以来， WorkBuddy 已完成 100 多个大版本更新 。开放平台上线两个月以来，Buddy 应用已覆盖 55 个专业场景、超 30 个垂直领域，包括金融、法律、医疗、教育、公益、设计、SaaS 等。 IT之家获悉，目前 WorkBuddy 企业版已落地 50 多个行业， 覆盖中国企业 500 强中的 50% 。",
+   "published_at": 1794991965.0,
+   "published_bj": "2026-11-18 16:52"
+  },
+  {
+   "id": "692adb72ca27b6c1",
+   "source": "IT之家",
+   "title": "华为麒麟 9050 系列新一代芯片级安全架构公开：双芯协同，首批获权威检测的抗量子攻击移动 SoC",
+   "url": "https://www.ithome.com/1/028/913.htm",
+   "summary": "IT之家 11 月 18 日消息，华为官方今日继续揭秘首款「逻辑折叠」技术 τ 芯片 —— 麒麟 9050 系列更多配置信息， 今日最新公开了新一代芯片级安全架构的情报 。 据介绍，麒麟 9050 系列芯片是首批获权威检测的抗量子攻击移动 SoC， 也是首个芯片级隐私安全平台 ，支持 MSP 安全处理器与 eSE 安全芯片双芯协同，并获 CCRC EAL5+ 安全认证。 IT之家了解到，麒麟 9050 系列进一步增强了芯片级安全能力，支持后量子密码相关安全功能；此外，它还是首个芯片级隐私安全 SoC 平台，通过移动安全处理器与独立安全芯片协同， 可为启动安全、数据安全、隐私保护和通信安全提供底",
+   "published_at": 1794991610.0,
+   "published_bj": "2026-11-18 16:46"
+  },
+  {
+   "id": "cd55bd10e9be8ba7",
+   "source": "IT之家",
+   "title": "黄仁勋离职风波引发诉讼风险：英伟达高管有保险，公司自身却未投保",
+   "url": "https://www.ithome.com/1/028/912.htm",
+   "summary": "IT之家 11 月 18 日消息，据路透社报道，英伟达（Nvidia）为公司高管和董事购买了保险，以应对证券诉讼可能带来的个人责任风险，但公司自身却没有购买相应保险。这意味着，如果围绕黄仁勋突然辞去 CEO 职务而引发的诉讼最终胜诉，英伟达可能不得不动用现金储备承担相关赔偿。 The Insurer 上周六报道称，英伟达为公司高管和董事购买的保险，最高赔付额度达到 9.5 亿美元 （IT之家注：现汇率约合 63.46 亿元人民币） 。不过，英伟达并未购买通常用于承担公司在证券诉讼中辩护费用、和解金及法院判决赔偿金的企业责任保险。 这意味着，如果英伟达董事或高管因未能妥善履行公司监督职责而承担个",
+   "published_at": 1794991404.0,
+   "published_bj": "2026-11-18 16:43"
+  },
+  {
+   "id": "f9d0cd4d90a46388",
+   "source": "IT之家",
+   "title": "腾讯控股 2026 年前三季度归母净利润 1777.27 亿元，同比增长 7%",
+   "url": "https://www.ithome.com/1/028/910.htm",
+   "summary": "IT之家 11 月 18 日消息，腾讯控股今日发布 2026 财年（2026 年 1 月～2026 年 12 月）前三季度（2026 年 1 月～2026 年 9 月）及第三财季（2026 年 7 月～2026 年 9 月）报告： 2026 财年前三季度 营业总收入 ：6085.79 亿元，同比增长 9% 毛利润 ：3456.09 亿元，同比增长 10% 毛利率 ：56.79%，同比增长 0.4 个百分点 归母净利润 ：1777.27 亿元，同比增长 7% 经营现金流 ：1567.13 亿元，同比下降 33.76% 基本每股收益 ：19.697 元，同比增长 8% 稀释每股收益 ：19.354",
+   "published_at": 1794990997.0,
+   "published_bj": "2026-11-18 16:36"
+  },
+  {
+   "id": "589011670d8b9f7c",
+   "source": "IT之家",
+   "title": "CoreWeave CEO 因特拉托尔：黄仁勋离开英伟达，我不担心会影响业务",
+   "url": "https://www.ithome.com/1/028/909.htm",
+   "summary": "IT之家 11 月 18 日消息，据《商业内幕》报道，对于黄仁勋离开英伟达会给公司业务带来多大影响，新兴云服务商（或称“新云服务商”） CoreWeave 的 CEO 迈克尔 · 因特拉托尔似乎并不担心。 当地时间 17 日，在 Semafor 举办的“硅谷与世界”活动上，因特拉托尔谈及双方的合作关系时显得相当淡定。他认为，英伟达是一家了不起的公司，拥有成千上万名优秀的工程师和员工，这些人仍会与 CoreWeave 保持合作，“每天都有数千名英伟达员工与 CoreWeave 团队协作，处理设备部署、数据中心建设、基础设施网络搭建等工作。 这些合作都会继续下去 。” 主持人接着问，黄仁勋离开英伟",
+   "published_at": 1794990534.0,
+   "published_bj": "2026-11-18 16:28"
+  },
+  {
+   "id": "d7d63d4ef02d0290",
+   "source": "IT之家",
+   "title": "消息称黄仁勋曾力推 RTX 5080 24GB 显卡安抚游戏玩家，如今英伟达或将其取消",
+   "url": "https://www.ithome.com/1/028/908.htm",
+   "summary": "IT之家 11 月 18 日消息，黄仁勋突然离职后，许多玩家担心，失去黄仁勋掌舵的英伟达可能会进一步向 AI 业务倾斜，而牺牲游戏显卡业务。 爆料人士 Moore's Law Is Dead（以下简称 MLID）最新披露的一则消息，似乎印证了玩家的担忧：黄仁勋此前曾希望推出一款高端 RTX 5080 显卡，作为给游戏玩家的“安慰”，以弥补 RTX 5090 价格过高、普通玩家难以负担的问题。 MLID 在 YouTube 最新一期《Broken Silicon》播客节目中透露了这一消息，他讨论了近期有关 RTX 5080 24GB 显卡可能取消的传闻。据称，由于 GDDR7 显存芯片价格高昂，",
+   "published_at": 1794990436.0,
+   "published_bj": "2026-11-18 16:27"
+  },
+  {
+   "id": "d8bd7bd978fff5b6",
+   "source": "IT之家",
+   "title": "华为鸿蒙系统装机量被曝破亿后，HarmonyOS 7 设备占比突破 82%",
+   "url": "https://www.ithome.com/1/028/906.htm",
+   "summary": "IT之家 11 月 18 日消息，奇妙工具箱 11 月 16 日数据显示，华为鸿蒙 HarmonyOS 操作系统装机量在当日 9:22 突破 1 亿台，达成又一里程碑时刻。 IT之家注意到，华为开发者官网昨晚更新了存量设备 API 版本使用数量参考，截至 2026 年 11 月 15 日， HarmonyOS 7（API 26.0.0）的设备量占比已达 82.21% ，较上一统计周期又出现大幅增长。 最新 HarmonyOS 设备各 API 版本使用量占比如下（数据约 15 天进行一次更新，开发者可根据占比来为应用合理定义需要兼容的 API 版本）： HarmonyOS 版本 API 版本 设",
+   "published_at": 1794990382.0,
+   "published_bj": "2026-11-18 16:26"
+  },
+  {
+   "id": "82c58939979cf388",
+   "source": "IT之家",
+   "title": "孙正义坦言未投资 Anthropic 是个“错误”，软银对此深感遗憾",
+   "url": "https://www.ithome.com/1/028/905.htm",
+   "summary": "IT之家 11 月 18 日消息，据日经亚洲报道，软银集团创始人孙正义周三表示， 早年错过投资 Anthropic 的机会是他所犯的“错误”之一 ，并对自己在追逐人工智能雄心时选择押注竞争对手 OpenAI 的决定表示遗憾。 “当我亲自见到（Anthropic 创始人）达里奥 · 阿莫迪时，我觉得他非常了不起，”孙正义在东京举行的活动上说道，“我真希望当时投了资。” 孙正义透露， 软银曾探讨过投资 Anthropic 的可能性 ，但当时已决定支持 OpenAI，并已开始向该公司投入资金。“当时的想法是， 不应该‘同时追两只兔子’ ，”他说。 尽管承认从投资策略的角度来看，支持多家公司通常是明智",
+   "published_at": 1794990303.0,
+   "published_bj": "2026-11-18 16:25"
+  },
+  {
    "id": "c34008d1959cddab",
    "source": "InfoQ中文",
    "title": "GitHub 让 AI 接管工作流，单次默认预算 10 美元：是不是太大方了？",
@@ -38,6 +830,429 @@
    "summary": "点击查看原文>",
    "published_at": 1794988800.0,
    "published_bj": "2026-11-18 16:00"
+  },
+  {
+   "id": "8f9658a1043ff95e",
+   "source": "Solidot",
+   "title": "文明系列游戏开发商裁员三分之一",
+   "url": "https://www.solidot.org/story?sid=85919",
+   "summary": "《文明》系列和《XCOM》系列策略游戏开发商 Firaxis Games 工作室裁员三分之一约 60 名员工，其中包括工作室负责人 Heather Hazen。据彭博社报道，原因是《XCOM》系列最新作开发不顺。这意味着 Firaxis Games 与最近被 EA 关闭的 BioWare 工作室一样连续三款作品出现问题。Firaxis Games 最近发布的两款作品《文明 VII》销量尚可但评价褒贬不一，《Marvel’s Midnight Suns》评价不错但销量欠佳，如今《XCOM》系列新作也出现问题。",
+   "published_at": 1794987931.0,
+   "published_bj": "2026-11-18 15:45"
+  },
+  {
+   "id": "7ad5922c30e6705a",
+   "source": "Solidot",
+   "title": "美国最近接连发生的技术故障源自为修复 AI 发现的漏洞",
+   "url": "https://www.solidot.org/story?sid=85918",
+   "summary": "过去几天美国经历了一系列技术故障，全国航班停飞、银行在线服务中断，甚至 NSA 的一个机密通信网络瘫痪。华尔街高管和 NSA 告诉美国国会议员，一系列技术故障的起因是试图修复 AI 发现的系统漏洞。AI 模型在系统中识别了大量漏洞，为尽快修复漏洞而一次性推送了大量补丁，超出了系统的设计承载能力。摩根大通周一将其银行服务中断归咎于软件相关 bug，NSA 周二将其部分网络短暂性能下降归咎于例行维护。",
+   "published_at": 1794986375.0,
+   "published_bj": "2026-11-18 15:19"
+  },
+  {
+   "id": "9415bd7d34036393",
+   "source": "cnBeta",
+   "title": "OpenAI董事：一年内发生AI灾难具备合理可能性",
+   "url": "https://www.cnbeta.com.tw/articles/tech/1586938.htm",
+   "summary": "知名AI安全研究者、OpenAI控股实体董事会成员保罗・克里斯蒂亚诺，在一档热门科技播客采访中，对人工智能的发展前景发出警示。他表示，未来人类完全失去对AI控制权的可能性正快速上升。 阅读全文",
+   "published_at": 1794986310.0,
+   "published_bj": "2026-11-18 15:18"
+  },
+  {
+   "id": "b10b20a747d2da47",
+   "source": "cnBeta",
+   "title": "英伟达技术总监致信董事会：不可替代人才正考虑离职",
+   "url": "https://www.cnbeta.com.tw/articles/tech/1586936.htm",
+   "summary": "据《华尔街日报》当地时间11月17日报道，英伟达开发者技术总监纳德尔·哈利勒近日向公司董事会及管理层发送内部信， 警告称，如果黄仁勋无法重新担任CEO，公司可能面临关键人才流失风险。 阅读全文",
+   "published_at": 1794986292.0,
+   "published_bj": "2026-11-18 15:18"
+  },
+  {
+   "id": "5f9a1f3be254e7ae",
+   "source": "cnBeta",
+   "title": "丰太郎重绘老年孙悟空 与鸟山明37年前版本形成对照",
+   "url": "https://www.cnbeta.com.tw/articles/comic/1586934.htm",
+   "summary": "丰太郎在每月插画栏目中重新采用老年孙悟空的构想，绘制出这一角色的新版形象。鸟山明约37年前也曾画过老年孙悟空，两幅作品并列后在社交平台广泛传播。 阅读全文",
+   "published_at": 1794986127.0,
+   "published_bj": "2026-11-18 15:15"
+  },
+  {
+   "id": "82b852993e9cd44e",
+   "source": "cnBeta",
+   "title": "AMD确认2027年1月5日举办CES活动 将展示部分未来技术",
+   "url": "https://www.cnbeta.com.tw/articles/tech/1586932.htm",
+   "summary": "AMD将于2027年1月5日太平洋时间10时在拉斯维加斯Mandalay Bay举行CES活动，届时将展示部分未来技术。公司尚未公布具体产品、规格或所属设备类别。 阅读全文",
+   "published_at": 1794986120.0,
+   "published_bj": "2026-11-18 15:15"
+  },
+  {
+   "id": "5cc8bd613f834022",
+   "source": "cnBeta",
+   "title": "钥匙卡消费增长631%之后 Switch 2传统卡带面临更大成本压力",
+   "url": "https://www.cnbeta.com.tw/articles/game/1586930.htm",
+   "summary": "美国2026年新实体游戏消费同比增长5%，达到7.38亿美元。Nintendo Switch 2游戏钥匙卡消费增长631%，成为推动市场增长的重要因素，并抵消了其他实体格式3%的下滑。 阅读全文",
+   "published_at": 1794986072.0,
+   "published_bj": "2026-11-18 15:14"
+  },
+  {
+   "id": "455ef94018d14527",
+   "source": "cnBeta",
+   "title": "微软CEO纳德拉警告单一AI模型垄断将冲击劳动与民主",
+   "url": "https://www.cnbeta.com.tw/articles/tech/1586928.htm",
+   "summary": "微软CEO萨提亚·纳德拉开始从政治经济层面认真看待AGI。他关注的并非当前前沿模型是否拥有意识，而是通用人工智能广泛进入经济活动后，企业、劳动、资本和民主制度将如何重新组织。 阅读全文",
+   "published_at": 1794986011.0,
+   "published_bj": "2026-11-18 15:13"
+  },
+  {
+   "id": "8a8ce948b76dd810",
+   "source": "cnBeta",
+   "title": "世界首个鼠标专利获批56周年：当年只是个带滚轮的木头盒子",
+   "url": "https://www.cnbeta.com.tw/articles/tech/1586926.htm",
+   "summary": "在56年前，也就是1970年11月17日，美国专利局向道格拉斯·恩格尔巴特颁发了编号3541541的专利，名称为“显示系统的X-Y位置指示器”。这串拗口的描述，其实就是今天人人熟悉的计算机鼠标。 阅读全文",
+   "published_at": 1794985897.0,
+   "published_bj": "2026-11-18 15:11"
+  },
+  {
+   "id": "44b80cb941934bd5",
+   "source": "cnBeta",
+   "title": "微软CEO就全球服务宕机致歉：吸取教训改进可靠性，还有很多工作要做",
+   "url": "https://www.cnbeta.com.tw/articles/tech/1586924.htm",
+   "summary": "微软CEO公开回应全球服务中断事故。当地时间11月17日，微软CEO萨提亚·纳德拉（Satya Nadella）在Ignite年度技术大会上回应了上周发生的全球性服务中断事件，承认微软在提升服务韧性方面仍有工作要做，并承诺持续吸取教训、改进系统可靠性。 阅读全文",
+   "published_at": 1794985631.0,
+   "published_bj": "2026-11-18 15:07"
+  },
+  {
+   "id": "a40d8ffa5721dd27",
+   "source": "cnBeta",
+   "title": "英伟达财报电话会透露CEO接班人线索：伊恩·巴克亮相问答环节",
+   "url": "https://www.cnbeta.com.tw/articles/tech/1586922.htm",
+   "summary": "据《商业内幕》报道，一场关键的英伟达财报电话会议，为谁可能接替黄仁勋(Jensen Huang)提供了重要线索。在周二召开的英伟达第三财季财报电话会议上，英伟达临时CEO科莱特·克雷斯(Colette Kress)和董事长哈维·琼斯(Harvey Jones)发表完事先准备好的讲话后，一位引人注目的参与者被介绍出场：英伟达超大规模和高性能计算业务副总裁伊恩·巴克(Ian Buck)。他随后与克雷斯一同参加了问答环节。 阅读全文",
+   "published_at": 1794985590.0,
+   "published_bj": "2026-11-18 15:06"
+  },
+  {
+   "id": "7304721841bc8ddc",
+   "source": "cnBeta",
+   "title": "贝佐斯：如果黄仁勋无法回归 英伟达应从内部寻找新CEO",
+   "url": "https://www.cnbeta.com.tw/articles/tech/1586920.htm",
+   "summary": "据CNBC报道，亚马逊创始人杰夫·贝佐斯(Jeff Bezos)表示，英伟达董事会应该选择一名公司内部人士接替黄仁勋(Jensen Huang)，出任新CEO。他还表示，如果由他决定，他“不会聘用外部人士”。 阅读全文",
+   "published_at": 1794985505.0,
+   "published_bj": "2026-11-18 15:05"
+  },
+  {
+   "id": "386b3a92e55256cd",
+   "source": "cnBeta",
+   "title": "消息称Anthropic将上调发行价 定价超每股80美元",
+   "url": "https://www.cnbeta.com.tw/articles/tech/1586918.htm",
+   "summary": "，据《华尔街日报》报道，知情人士称，由于投资者需求强劲，Anthropic的首次公开招股(IPO)定价预计将高于此前公布的发行价区间。这表明，市场动荡以及英伟达内部的人事风波，并未削弱投资者对AI热潮的热情。 阅读全文",
+   "published_at": 1794985476.0,
+   "published_bj": "2026-11-18 15:04"
+  },
+  {
+   "id": "48e75c1e77959e16",
+   "source": "少数派",
+   "title": "App+1｜NodLink：AirPods 变鼠标，动动脑就能操作电脑",
+   "url": "https://sspai.com/post/118732",
+   "summary": "转头移动光标，歪头点击，开口说指令。不用摄像头，也不用另外戴什么设备。 查看全文",
+   "published_at": 1794984870.0,
+   "published_bj": "2026-11-18 14:54"
+  },
+  {
+   "id": "6f694d96f2dcc7e0",
+   "source": "Hacker News",
+   "title": "AI is killing All About Berlin",
+   "url": "https://nicolasbouliane.com/blog/death-by-ai",
+   "summary": "Article URL: https://nicolasbouliane.com/blog/death-by-ai Comments URL: https://news.ycombinator.com/item?id=50542705 Points: 502 # Comments: 460",
+   "published_at": 1794984446.0,
+   "published_bj": "2026-11-18 14:47"
+  },
+  {
+   "id": "a7d17f897250e9ac",
+   "source": "Solidot",
+   "title": "英伟达董事会拒绝黄仁勋复职",
+   "url": "https://www.solidot.org/story?sid=85917",
+   "summary": "尽管有美国总统和多位硅谷名人的支持，黄仁勋本人也发表声明准备重返岗位，但公司董事长 Harvey Jones 在财报电话会议上明确表示，董事会不打算让他复任首席执行官，“英伟达董事会已一致接受了他的辞呈，并不打算让黄仁勋恢复首席执行官的职务。”周二早些时候，黄仁勋在社交媒体上发文称，如果董事会认为他回归符合股东、员工、公司以及国家的最佳利益，他将很荣幸响应这一呼吁。他同时也承认自己在个人生活中犯下了严重错误。",
+   "published_at": 1794984273.0,
+   "published_bj": "2026-11-18 14:44"
+  },
+  {
+   "id": "41b443f4c2e35477",
+   "source": "cnBeta",
+   "title": "浑水做空英伟达 质疑公司前高管与超微前高管有关联",
+   "url": "https://www.cnbeta.com.tw/articles/tech/1586916.htm",
+   "summary": "美东时间周二，知名做空机构浑水（Muddy Waters）对外披露，已经建立英伟达空头头寸。浑水在做空报告并未直接抛出财务造假结论，而是围绕一桩GPU违规转卖案件，对英伟达、超微电脑两家企业前高管之间是否存在人际关联提出疑问，进一步放大市场对于英伟达出口合规链条的担忧。 阅读全文",
+   "published_at": 1794984265.0,
+   "published_bj": "2026-11-18 14:44"
+  },
+  {
+   "id": "ad9e6411bd1483d2",
+   "source": "cnBeta",
+   "title": "长鑫已和多家一线客户推进长期供货协议 4F2量产节奏取决于客户端验证",
+   "url": "https://www.cnbeta.com.tw/articles/tech/1586914.htm",
+   "summary": "在11月17日举办的长鑫科技2026第三季度业绩说明会上，总裁曹堪宇对外披露客户长协与下一代4F² DRAM架构的最新进展。 面对AI带来的存储结构性增长，公司正通过长期供货协议锁定中长期订单，新一代技术的大规模量产时间并不预设固定节点，将跟随客户验证进度推进。 阅读全文",
+   "published_at": 1794983988.0,
+   "published_bj": "2026-11-18 14:39"
+  },
+  {
+   "id": "7c00069cb2fda40a",
+   "source": "Solidot",
+   "title": "Google AI Overviews 导致搜索流量下降四成",
+   "url": "https://www.solidot.org/story?sid=85916",
+   "summary": "Google 的 AI Overviews 服务导致流向网站的搜索流量下降大约四成。在一项随机实验中，研究人员对部分美国桌面端用户隐藏了 AI Overviews。通过对比正常看到 AI Overviews 的美国用户的搜索行为，研究发现 AI Overviews 使流向外部网站的点击量减少 40%。在 DataForSEO 跟踪美国搜索关键词中，逾五成会显示 AI Overviews，而一年前仅为 6%。用户在看到 AI 答案之后通常不再继续点击相关链接，结果就是 AI 答案给网站带去的流量仅仅占其总流量的 0.3%。",
+   "published_at": 1794983766.0,
+   "published_bj": "2026-11-18 14:36"
+  },
+  {
+   "id": "f584b3d707cdf70f",
+   "source": "cnBeta",
+   "title": "日本顶级超算“富岳”遭入侵 4597人信息或遭泄露",
+   "url": "https://www.cnbeta.com.tw/articles/tech/1586912.htm",
+   "summary": "据日经亚洲报道，日本政府支持的研究机构理化学研究所（RIKEN）运营的超级计算机“富岳”（Fugaku）近日遭遇网络安全入侵，攻击者未经授权访问了其操作系统，最多可能有 4597人的个人信息及相关敏感数据遭到泄露 。此次事件也暴露出日本科研机构在网络安全投入方面存在的不足。 阅读全文",
+   "published_at": 1794983747.0,
+   "published_bj": "2026-11-18 14:35"
+  },
+  {
+   "id": "42d758a4dcdf3213",
+   "source": "cnBeta",
+   "title": "英伟达临时CEO克雷斯首次采访：客户没有流失，需求仍在增长",
+   "url": "https://www.cnbeta.com.tw/articles/tech/1586910.htm",
+   "summary": "据CNBC报道，英伟达临时CEO科莱特·克雷斯(Colette Kress)在黄仁勋突然离职后，首次接受了采访。她表示，公司的客户并未流失，而且市场需求正在增长。英伟达已表示，预计2028财年营收将增长75%，高于此前70%的增长预期。 阅读全文",
+   "published_at": 1794983723.0,
+   "published_bj": "2026-11-18 14:35"
+  },
+  {
+   "id": "bf8a5d2d0a2ee773",
+   "source": "cnBeta",
+   "title": "微软CEO盛赞黄仁勋，回应大规模服务中断和员工买断计划",
+   "url": "https://www.cnbeta.com.tw/articles/tech/1586908.htm",
+   "summary": "微软CEO萨蒂亚·纳德拉（Satya Nadella）称赞已遭罢免的英伟达创始人黄仁勋是一位“独一无二的人”，并指出他对科技行业做出了巨大贡献。不过，纳德拉并未明确呼吁让黄仁勋重返这家芯片制造商的最高领导岗位。 阅读全文",
+   "published_at": 1794983385.0,
+   "published_bj": "2026-11-18 14:29"
+  },
+  {
+   "id": "b3ae0c6cd7eef91d",
+   "source": "cnBeta",
+   "title": "从航班停飞到银行交易延误 技术故障接连瘫痪美国关键系统",
+   "url": "https://www.cnbeta.com.tw/articles/tech/1586906.htm",
+   "summary": "从航空出行和银行交易，到美国国家安全局的机密工作，一连串技术故障正在扰乱美国社会的日常运转，令公众对老化技术基础设施愈发不信任。尽管没有迹象表明这些事件彼此相关或出自恶意行为方之手，猜疑和不安仍在蔓延。 阅读全文",
+   "published_at": 1794983373.0,
+   "published_bj": "2026-11-18 14:29"
+  },
+  {
+   "id": "00deff15d72e71a9",
+   "source": "cnBeta",
+   "title": "黄仁勋辞职后英伟达首场财报会：管理层强调业务“一切照常” 审慎评估AI投资",
+   "url": "https://www.cnbeta.com.tw/articles/tech/1586904.htm",
+   "summary": "在创始人黄仁勋离开后，英伟达管理层试图向市场证明，公司业务不会因此受到影响，但未来对外投资的策略可能更加审慎。当地时间11月17日，英伟达（NVDA）发布2027财年第三季度财报并举办电话会。这是黄仁勋辞去公司CEO职务后，英伟达首次与投资者进行直接的正式沟通。 阅读全文",
+   "published_at": 1794983335.0,
+   "published_bj": "2026-11-18 14:28"
+  },
+  {
+   "id": "08f483c06b27d217",
+   "source": "cnBeta",
+   "title": "黄仁勋辞职后仍可提名两名英伟达董事候选人",
+   "url": "https://www.cnbeta.com.tw/articles/tech/1586902.htm",
+   "summary": "根据英伟达的代理权公告及公司申报文件，该公司前首席执行官黄仁勋有权在年度股东大会及投票前，提名两名候选人进入英伟达董事会；这为这位联合创始人提供了在未来继续对公司施加影响的途径。 阅读全文",
+   "published_at": 1794983248.0,
+   "published_bj": "2026-11-18 14:27"
+  },
+  {
+   "id": "75ceeb17074f96e8",
+   "source": "cnBeta",
+   "title": "贝索斯称英伟达情况“过于复杂”：不宜聘请外部人士接任CEO",
+   "url": "https://www.cnbeta.com.tw/articles/tech/1586900.htm",
+   "summary": "亚马逊创始人杰夫·贝索斯敦促英伟达董事会在为黄仁勋物色长期继任者时，应优先考虑内部人选。当地时间周二，在“硅谷与世界”（Silicon Valley &amp; The World）大会上，贝索斯在一次访谈中表示，如果董事会不让黄仁勋回归，那么英伟达就应该在公司内部寻找继任者。 阅读全文",
+   "published_at": 1794983151.0,
+   "published_bj": "2026-11-18 14:25"
+  },
+  {
+   "id": "47af22f87d55d5d6",
+   "source": "cnBeta",
+   "title": "韩国拟悬赏1亿韩元 严抓利用AI作弊的考生",
+   "url": "https://www.cnbeta.com.tw/articles/tech/1586898.htm",
+   "summary": "韩国总统悬赏至少1亿韩元，任何人只要检举并协助查获学生考试作弊就可获得赏金；政府展开全面行动，防止考生在本周攸关升学的大学入学考试中使用AI装置作弊。 阅读全文",
+   "published_at": 1794983131.0,
+   "published_bj": "2026-11-18 14:25"
+  },
+  {
+   "id": "dcf6ffc40a6bf96c",
+   "source": "cnBeta",
+   "title": "华为未能在庭审中证明指控 称美国检方给正常商业活动蒙上“阴暗色彩”",
+   "url": "https://www.cnbeta.com.tw/articles/tech/1586896.htm",
+   "summary": "华为公司当地时间11月17日在美国纽约布鲁克林联邦法院迎来刑事案件庭审的最后阶段。华为辩护律师在结案陈词中表示，美国检方将公司的正常商业活动描绘成一系列蓄意犯罪行为，但经过近两个月的证据展示，检方仍未能证明相关指控成立。 阅读全文",
+   "published_at": 1794982952.0,
+   "published_bj": "2026-11-18 14:22"
+  },
+  {
+   "id": "b69c719be43a70c0",
+   "source": "cnBeta",
+   "title": "鲁比奥称美国近期多起科技系统故障互不相关 没有证据表明遭到网络攻击",
+   "url": "https://www.cnbeta.com.tw/articles/tech/1586894.htm",
+   "summary": "美国国务卿马尔科·鲁比奥当地时间11月17日表示，近期美国接连发生的多起科技系统故障之间没有关联，也没有任何证据表明这些事件是由黑客、犯罪组织、外国政府或其他恶意行为者发动的网络攻击。他强调，美国并未遭受系统性攻击，各起事件的原因各不相同。 阅读全文",
+   "published_at": 1794982903.0,
+   "published_bj": "2026-11-18 14:21"
+  },
+  {
+   "id": "8dc88a191ec537b8",
+   "source": "cnBeta",
+   "title": "《GTA 6》尚未正式发售便入围TGA年度游戏 斩获八项提名成为最大热门",
+   "url": "https://www.cnbeta.com.tw/articles/game/1586892.htm",
+   "summary": "2026年游戏大奖（The Game Awards，简称TGA）正式公布年度奖项提名名单，Rockstar Games旗下备受期待的《侠盗猎车手6》（Grand Theft Auto VI，简称GTA 6）成功入围年度游戏（Game of the Year），并且一举获得八项提名，成为本届提名数量最多的游戏。特别之处在于，该作直到11月19日才正式发售，提名名单公布时，普通玩家甚至还没有机会购买和体验这款游戏。 阅读全文",
+   "published_at": 1794982775.0,
+   "published_bj": "2026-11-18 14:19"
+  },
+  {
+   "id": "e397d5ca21333d81",
+   "source": "cnBeta",
+   "title": "Windows 11将推出统一安全基线机制 未达标设备未来或无法运行部分应用",
+   "url": "https://www.cnbeta.com.tw/articles/tech/1586890.htm",
+   "summary": "微软正在为Windows 11开发一项全新的安全验证机制，未来应用程序在启动前能够统一检查电脑是否符合微软设定的安全标准。如果设备未达到要求，软件开发商可以自行决定是否允许程序运行、限制部分功能，甚至直接拒绝启动应用。 阅读全文",
+   "published_at": 1794982716.0,
+   "published_bj": "2026-11-18 14:18"
+  },
+  {
+   "id": "fdd0a39993f8cc35",
+   "source": "cnBeta",
+   "title": "巴西商人涉嫌将炸弹藏入Xbox 360企图炸毁竞争对手店铺 被警方逮捕",
+   "url": "https://www.cnbeta.com.tw/articles/game/1586888.htm",
+   "summary": "在电子产品行业相关犯罪中，人们通常听到的是显卡盗窃、服务器设备失窃、硬件诈骗或网络攻击案件。然而，巴西近日曝光的一起案件却因手法离奇而引发广泛关注。一名商人被指控为打击商业竞争对手，竟将爆炸装置藏入一台Xbox 360游戏机中，并将其送往对方店铺。&nbsp; 阅读全文",
+   "published_at": 1794982562.0,
+   "published_bj": "2026-11-18 14:16"
+  },
+  {
+   "id": "66a1f5443b22af6d",
+   "source": "cnBeta",
+   "title": "黄仁勋离任后战略转向 英伟达宣布停止向中国销售H200芯片",
+   "url": "https://www.cnbeta.com.tw/articles/tech/1586886.htm",
+   "summary": "英伟达在管理层发生重大变动后，正式调整其中国市场策略。当地时间11月17日，英伟达代理首席执行官科莱特·克雷斯在公司财报电话会议上宣布，英伟达将不再向中国销售H200人工智能加速芯片，这意味着公司将结束此前利用特殊安排继续向中国市场供应先进AI芯片的做法。 阅读全文",
+   "published_at": 1794982252.0,
+   "published_bj": "2026-11-18 14:10"
+  },
+  {
+   "id": "d40cbd743af3a90d",
+   "source": "cnBeta",
+   "title": "遗传数据揭示墨西哥湾深海物种潜在灭绝风险 部分栖息地或缩减七成",
+   "url": "https://www.cnbeta.com.tw/articles/science/1586884.htm",
+   "summary": "一项由佛罗里达国际大学研究人员主导、发表于《自然通讯》的研究发现，墨西哥湾五种生活在海面下数百米的深海生物出现与灭绝风险升高相关的遗传信号。研究团队分析了2011年至2023年间采集的三种灯笼鱼和两种深海虾，共486个样本的遗传数据，并结合生态位模型评估其种群变化与未来栖息地状况。 阅读全文",
+   "published_at": 1794981818.0,
+   "published_bj": "2026-11-18 14:03"
+  },
+  {
+   "id": "91c2c8dbdca98cb8",
+   "source": "cnBeta",
+   "title": "科学家利用光纤电缆发现冰川内部隐蔽裂缝 有望提升海平面上升预测精度",
+   "url": "https://www.cnbeta.com.tw/articles/science/1586882.htm",
+   "summary": "国际科研团队近日开发出一种监测冰川内部变化的新方法。研究人员发现，一根普通光纤电缆即可充当高灵敏度传感器，帮助科学家探测冰川深处肉眼无法观察到的裂缝和结构变化，为理解冰川稳定性和预测未来海平面变化提供了重要工具。 阅读全文",
+   "published_at": 1794981713.0,
+   "published_bj": "2026-11-18 14:01"
+  },
+  {
+   "id": "ba5259ec72f3ba6d",
+   "source": "cnBeta",
+   "title": "Google押注“汽化岩石”地热发电技术 为数据中心提供全天候清洁能源",
+   "url": "https://www.cnbeta.com.tw/articles/tech/1586880.htm",
+   "summary": "随着人工智能产业快速发展，全球数据中心对电力的需求正以前所未有的速度攀升。为满足未来算力基础设施的能源需求，Google宣布与美国地热能源企业 Quaise Energy 达成一项具有里程碑意义的合作协议，将采购来自超高温岩石地热发电项目的50兆瓦连续电力，为其数据中心运营提供稳定能源。 阅读全文",
+   "published_at": 1794981525.0,
+   "published_bj": "2026-11-18 13:58"
+  },
+  {
+   "id": "28b1b0dac54cf0fa",
+   "source": "cnBeta",
+   "title": "全球用户仍偏爱弱密码 “123456”连续多年霸榜",
+   "url": "https://www.cnbeta.com.tw/articles/tech/1586878.htm",
+   "summary": "尽管网络安全公司和专家多年来不断警告弱密码带来的风险，但大量用户依然倾向于使用简单、容易预测的登录凭证。最新研究显示，便利性和易记性仍然是人们设置密码时最重要的考虑因素，而安全性往往被放在次要位置。 阅读全文",
+   "published_at": 1794981415.0,
+   "published_bj": "2026-11-18 13:56"
+  },
+  {
+   "id": "1b3983713e98079d",
+   "source": "cnBeta",
+   "title": "苹果开始提供iPhone Duo官方维修零件：内屏总成999美元 单屏幕499美元",
+   "url": "https://www.cnbeta.com.tw/articles/tech/1586876.htm",
+   "summary": "苹果已经正式将首款折叠屏手机iPhone Duo加入自助维修计划，用户和第三方维修人员现在可以通过苹果官方自助维修商店购买原装零部件及维修工具。此次开放的零件涵盖内外屏幕、电池、摄像头、机身外壳和主板等主要组件，也意味着iPhone Duo用户获得了官方提供的自行维修渠道。 阅读全文",
+   "published_at": 1794981333.0,
+   "published_bj": "2026-11-18 13:55"
+  },
+  {
+   "id": "c6800fa01c28d819",
+   "source": "cnBeta",
+   "title": "华为Osta O1 Pro外观与配色正式公布 新品牌首款机型开启预订",
+   "url": "https://www.cnbeta.com.tw/articles/tech/1586874.htm",
+   "summary": "华为日前进一步披露了旗下全新子品牌 Osta 的首款产品信息。继上周确认将于 11 月 20 日正式发布 Osta 品牌，并推出首批产品后，华为现已正式公布 Osta O1 Pro 的外观设计与配色方案，同时在中国市场开启新机预订。 阅读全文",
+   "published_at": 1794980930.0,
+   "published_bj": "2026-11-18 13:48"
+  },
+  {
+   "id": "9c4f1ef6dd5188ce",
+   "source": "cnBeta",
+   "title": "Windows Server 2028开放下载测试 默认启用原生NVMe且系统盘支持ReFS分区",
+   "url": "https://www.cnbeta.com.tw/articles/tech/1586872.htm",
+   "summary": "微软日前宣布服务器系统的新版本：Windows Server 2028，该版本现已开放测试，感兴趣的开发者和 IT 管理员都可以通过 Windows Insider 项目获取最新构建镜像文件。 阅读全文",
+   "published_at": 1794980755.0,
+   "published_bj": "2026-11-18 13:45"
+  },
+  {
+   "id": "86ee45b9f47c854f",
+   "source": "cnBeta",
+   "title": "X/Twitter开源的算法显示 平台会检测用户内容是否是AI生成并考虑限流",
+   "url": "https://www.cnbeta.com.tw/articles/tech/1586870.htm",
+   "summary": "社交网站 X/Twitter 这段时间都提到过治理数量极多的 AI 生成内容，不过从目前情况来看治理效果似乎不怎么好，很多热门帖子下存在大量 AI 生成的垃圾评论，有时候甚至真人内容要远低于 AI 生成的垃圾内容。 阅读全文",
+   "published_at": 1794980577.0,
+   "published_bj": "2026-11-18 13:42"
+  },
+  {
+   "id": "b511384a220b8e73",
+   "source": "cnBeta",
+   "title": "知名公共DNS服务器Quad9宣布在法国停服",
+   "url": "https://www.cnbeta.com.tw/articles/tech/1586868.htm",
+   "summary": "全球顶级公共 DNS 服务商 Quad9 日前发布博客宣布，将从 2026 年 11 月 24 日开始停止向位于法国的用户提供递归 DNS 解析及恶意域名拦截服务。此次变更仅影响法国用户，世界其他地区的用户可以继续使用 Quad9 提供的公共 DNS 解析服务。 阅读全文",
+   "published_at": 1794980263.0,
+   "published_bj": "2026-11-18 13:37"
+  },
+  {
+   "id": "98deeee3c06fe290",
+   "source": "cnBeta",
+   "title": "Telegram开始清查机器人和迷你应用支付 数字商品绕过星星支付会被直接封",
+   "url": "https://www.cnbeta.com.tw/articles/tech/1586866.htm",
+   "summary": "日前 Telegram 团队向开发者发送新通知，Telegram 本周将继续主动分析全部机器人和迷你应用的支付活动。任何在 Telegram 内部使用星星 (Stars) 以外方式销售数字商品或服务的应用，都可能随时被封号，平台不再提前发布警告。 阅读全文",
+   "published_at": 1794980224.0,
+   "published_bj": "2026-11-18 13:37"
+  },
+  {
+   "id": "6ae8100edfed6c52",
+   "source": "cnBeta",
+   "title": "微软工程师解释：为什么将任务管理器设置高优先级也救不了卡死的Windows",
+   "url": "https://www.cnbeta.com.tw/articles/tech/1586864.htm",
+   "summary": "系统被某个程序占满处理器资源导致任务管理器都点不动，这是 Windows 用户非常熟悉的情况。10 月 27 日微软资深工程师雷蒙德陈在开发者博客上回答了被大家反复提出的问题，然后否定把任务栏和任务管理器设置高优先级的思路。 阅读全文",
+   "published_at": 1794980122.0,
+   "published_bj": "2026-11-18 13:35"
+  },
+  {
+   "id": "ddddf460e42f0072",
+   "source": "Hacker News",
+   "title": "Why Fibonacci?",
+   "url": "https://www.evilgeniuslabs.org/why-fibonacci",
+   "summary": "Article URL: https://www.evilgeniuslabs.org/why-fibonacci Comments URL: https://news.ycombinator.com/item?id=50542264 Points: 55 # Comments: 8",
+   "published_at": 1794980102.0,
+   "published_bj": "2026-11-18 13:35"
+  },
+  {
+   "id": "9353c54ded3513e7",
+   "source": "cnBeta",
+   "title": "微软推出新中文输入法 需单独下载安装 不会替换系统内置拼音输入法",
+   "url": "https://www.cnbeta.com.tw/articles/tech/1586862.htm",
+   "summary": "微软日前在 Microsoft Store 上架独立的中文输入法，该输入法由微软开发且作为独立输入法提供。用户下载安装后会作为新输入法选项提供，不会直接覆盖系统内置的微软拼音输入法。另外这款输入法的名称就叫“中文输入法”，该输入法基于 WinUI3 架构开发，因此整体界面与 Windows 11 设计风格更加契合。微软也强调该输入法无广告，不会干扰用户输入体验。 阅读全文",
+   "published_at": 1794979961.0,
+   "published_bj": "2026-11-18 13:32"
+  },
+  {
+   "id": "993318e25c1c092b",
+   "source": "cnBeta",
+   "title": "当AI开始“造药”：谷歌系公司拿下AI制药最大单轮融资",
+   "url": "https://www.cnbeta.com.tw/articles/tech/1586860.htm",
+   "summary": "当地时间11月17日，Google系AI制药公司Isomorphic Labs宣布完成50亿美元（约合人民币355亿元）C轮融资，由Greenoaks和红杉资本联合领投，a16z等新投资者参与，Google母公司Alphabet继续大规模投资。淡马锡、Thrive Capital、MGX等原有投资者也参与其中。 阅读全文",
+   "published_at": 1794979747.0,
+   "published_bj": "2026-11-18 13:29"
   },
   {
    "id": "db0cf8e9fb4756d1",
@@ -67,6 +1282,15 @@
    "published_bj": "2026-11-18 12:15"
   },
   {
+   "id": "a54dfb77efd22590",
+   "source": "Hacker News",
+   "title": "Why is Gemini 4 Carbon taking so long?",
+   "url": "https://kernel.dev/blog/why-is-gemini-4-carbon-taking-so-long/",
+   "summary": "Article URL: https://kernel.dev/blog/why-is-gemini-4-carbon-taking-so-long/ Comments URL: https://news.ycombinator.com/item?id=50541790 Points: 164 # Comments: 83",
+   "published_at": 1794975244.0,
+   "published_bj": "2026-11-18 12:14"
+  },
+  {
    "id": "25f823351df88ac5",
    "source": "IT之家",
    "title": "《古墓丽影》开发商晶体动力再度裁员 8 人",
@@ -83,6 +1307,15 @@
    "summary": "IT之家 11 月 18 日消息，根据开源硬件制造商 Radxa（瑞莎）分享的文档，瑞芯微计划于 2027 年第 1 季度交付下代通用处理器 RK3668 的样品。 RK3668 将采用 6nm 制程工艺，CPU 集成 6 个 Arm Cortex-A725 、 2 个 Arm Cortex-A520 ，搭配 Arm Mali G2 Pro MC4 GPU (1.23TFLOPS)，自研 NPU 具备 44 TOPS (INT8) 稀疏算力，配备 2×24M + 1×16M 的 ISP，支持 8K60 的 H.264 / H.265 解码，允许 2 路 8K60 或 6 路 4K60 输出。 ",
    "published_at": 1794974153.0,
    "published_bj": "2026-11-18 11:55"
+  },
+  {
+   "id": "afcf3ab046a4cb77",
+   "source": "Hacker News",
+   "title": "Claude was trained on protein sequences at scale",
+   "url": "http://xinmingtu.cn/blog/2026/claude-opus-5-5-protein-sequences/",
+   "summary": "Article URL: http://xinmingtu.cn/blog/2026/claude-opus-5-5-protein-sequences/ Comments URL: https://news.ycombinator.com/item?id=50541619 Points: 92 # Comments: 41",
+   "published_at": 1794973663.0,
+   "published_bj": "2026-11-18 11:47"
   },
   {
    "id": "24ab4a28c2d2889d",
