@@ -1,8 +1,26 @@
 {
  "date": "2026-11-18",
- "generated_at": 1794967967.0344021,
- "count": 137,
+ "generated_at": 1794976320.175305,
+ "count": 176,
  "items": [
+  {
+   "id": "ec5802041381dc6c",
+   "source": "InfoQ中文",
+   "title": "Kubernetes Confidential Containers 获 Fortanix 认证与密钥管理支持",
+   "url": "https://www.infoq.cn/article/4PEbu8cLHkgz0oUF3etE?utm_source=rss&utm_medium=article",
+   "summary": "点击查看原文>",
+   "published_at": 1795003200.0,
+   "published_bj": "2026-11-18 20:00"
+  },
+  {
+   "id": "b905381f0e54fb47",
+   "source": "InfoQ中文",
+   "title": "谷歌公布已发现 500 多个 XSS 漏洞的 AI 安全代理 PageBreak",
+   "url": "https://www.infoq.cn/article/uGTol3TSzOV72NSrcBrB?utm_source=rss&utm_medium=article",
+   "summary": "点击查看原文>",
+   "published_at": 1794999600.0,
+   "published_bj": "2026-11-18 19:00"
+  },
   {
    "id": "d8cd5732deda0011",
    "source": "InfoQ中文",
@@ -20,6 +38,339 @@
    "summary": "点击查看原文>",
    "published_at": 1794988800.0,
    "published_bj": "2026-11-18 16:00"
+  },
+  {
+   "id": "db0cf8e9fb4756d1",
+   "source": "IT之家",
+   "title": "229 元小米智能 4G 摄像机 3 开售：中国电信联通双不限 4G 免费流量，500 万像素 3K 看护 + 双向实时语音",
+   "url": "https://www.ithome.com/1/028/698.htm",
+   "summary": "IT之家 11 月 18 日消息，小米智能 4G 摄像机 3 今日正式开启抢购，京东显示为 229 元。 京东 小米智能 4G 摄像机 3 AI 灵敏检测 双向实时语音 229 元 直达链接 这款摄像机主打无网室内智能看护能力，内置电信、联通双 SIM 卡，搭载免费 4G 流量且不限量不限速，无需额外充值、不依赖家中 Wi-Fi 网络即可直接联网使用，即使是乡村老家、偏远商铺、临时装修等没有有线宽带的场景也能稳定工作，同时支持智能切换运营商信号，避免单一运营商信号盲区导致设备离线。 影像配置方面，该机搭载 500 万像素高清镜头，支持 2880 × 1620 分辨率的 3K 级影像录制，搭配大",
+   "published_at": 1794975902.0,
+   "published_bj": "2026-11-18 12:25"
+  },
+  {
+   "id": "686ad9c1887908ed",
+   "source": "IT之家",
+   "title": "顶刊论文中的实验图片被质疑用 AI 生成，湖南省科技厅同步核查学术不端",
+   "url": "https://www.ithome.com/1/028/697.htm",
+   "summary": "IT之家 11 月 18 日消息，一篇发表于《Journal of Translational Medicine》的鼻咽癌研究论文昨日引发网友质疑，相关话题一度登上微博热搜。 该论文的实验图片、数据及作者单位信息存在多处不符合常规的错误，例如标尺上的 1 厘米之中竟有 12 个刻度格。因此，有网友怀疑相关图片可能由 AI 生成。 11 月 17 日，湖南省科学技术厅监督与诚信处回应称，已责成作者单位中南大学湘雅二医院展开调查，科技厅也将同步核实是否存在学术不端及科研程序问题。 争议论文题为《Ferroptosis inhibition via the ROS-GPX4 axis drives ",
+   "published_at": 1794975411.0,
+   "published_bj": "2026-11-18 12:16"
+  },
+  {
+   "id": "2b8c44344f7b8c95",
+   "source": "IT之家",
+   "title": "别克全新至境世家 MPV 11 月 27 日亮相，新增 2.0T 版本",
+   "url": "https://www.ithome.com/1/028/696.htm",
+   "summary": "IT之家 11 月 18 日消息，别克官方今天宣布，全新至境世家 MPV 将于 11 月 27 日亮相。新车在外观、内饰和续航方面进行升级，采用 Avenir 金标以及双拼色内饰， 并升级 2.0T+ 大电池组合 。 结合易车报道，该车拥有 Avenir 金标，相比现款车型提升豪华质感。车门把手更换为半隐藏式，搭配镀铬饰条与下部矩阵星光氛围灯，和车门钣金面接近齐平，兼顾美学质感与实用性能。 同时，该车内饰采用双拼色设计，饰板、座椅全面升级；座椅升级三线绗缝工艺，菱形图案更立体，高接触区域简化线条，触感更加柔软，乘坐舒适性提升。 动力方面，该车将新增 2.0T 版本，最大功率 160kW。工信部",
+   "published_at": 1794975338.0,
+   "published_bj": "2026-11-18 12:15"
+  },
+  {
+   "id": "25f823351df88ac5",
+   "source": "IT之家",
+   "title": "《古墓丽影》开发商晶体动力再度裁员 8 人",
+   "url": "https://www.ithome.com/1/028/694.htm",
+   "summary": "IT之家 11 月 18 日消息，继今年 3 月裁员 20 人后，晶体动力（Crystal Dynamics）最近宣布再度启动裁员。 IT之家注意到，外媒 Vertical Slice 最先披露了这则消息，并援引多名前晶体动力员工表述。随后晶体动力表示，他们工作室将裁员 8 人。 晶体动力同时表示，工作室将为受影响员工提供完整离职补偿方案，以及就业安置协助，帮助他们顺利度过这段裁员时期。 此外， 晶体动力目前正在开发《古墓丽影：亚特兰蒂斯遗产》和《古墓丽影：催化剂》游戏 。此次裁员将对两款游戏的开发造成多大影响，目前尚不清楚。",
+   "published_at": 1794974410.0,
+   "published_bj": "2026-11-18 12:00"
+  },
+  {
+   "id": "d1e1cd9a7317e680",
+   "source": "IT之家",
+   "title": "Radxa 分享瑞芯微文档：RK3668 通用处理器预计 2027Q1 提供工程样品",
+   "url": "https://www.ithome.com/1/028/693.htm",
+   "summary": "IT之家 11 月 18 日消息，根据开源硬件制造商 Radxa（瑞莎）分享的文档，瑞芯微计划于 2027 年第 1 季度交付下代通用处理器 RK3668 的样品。 RK3668 将采用 6nm 制程工艺，CPU 集成 6 个 Arm Cortex-A725 、 2 个 Arm Cortex-A520 ，搭配 Arm Mali G2 Pro MC4 GPU (1.23TFLOPS)，自研 NPU 具备 44 TOPS (INT8) 稀疏算力，配备 2×24M + 1×16M 的 ISP，支持 8K60 的 H.264 / H.265 解码，允许 2 路 8K60 或 6 路 4K60 输出。 ",
+   "published_at": 1794974153.0,
+   "published_bj": "2026-11-18 11:55"
+  },
+  {
+   "id": "24ab4a28c2d2889d",
+   "source": "Hacker News",
+   "title": "Climate change is making some African deserts greener",
+   "url": "https://www.economist.com/middle-east-and-africa/2026/11/17/climate-change-is-making-some-african-deserts-greener",
+   "summary": "Article URL: https://www.economist.com/middle-east-and-africa/2026/11/17/climate-change-is-making-some-african-deserts-greener Comments URL: https://news.ycombinator.com/item?id=50541613 Points: 8 # Comments: 1",
+   "published_at": 1794973624.0,
+   "published_bj": "2026-11-18 11:47"
+  },
+  {
+   "id": "0df5e744f30de9ab",
+   "source": "IT之家",
+   "title": "苹果首款折叠 iPhone Duo 铰链风波升级，韩媒称供应商受压撤回声明",
+   "url": "https://www.ithome.com/1/028/692.htm",
+   "summary": "IT之家 11 月 18 日消息，韩国媒体 The Elec 昨日（11 月 17 日）发布博文，报道称苹果向零部件供应商 Fine M-Tec 施压，要求其撤回 10 月 26 日发表在官网的相关声明， 让苹果首款折叠 iPhone Duo 铰链故障风波再起波澜。 IT之家曾于 10 月 24 日报道，苹果首款折叠 iPhone Duo 开售首日（10 月 23 日）， 在社交媒体上就开始流传多张内屏出现裂纹的照片 。 ▲ Fine M-Tec 铰链产品示例 零部件供应商 Fine M-Tec 于 10 月 26 日在其官网发布《关于客户新产品质量问题的官方立场》的声明 ，表示客户近期部分产",
+   "published_at": 1794973146.0,
+   "published_bj": "2026-11-18 11:39"
+  },
+  {
+   "id": "14c965478f41c453",
+   "source": "Hacker News",
+   "title": "H-1B Executive Actions in 2026 [pdf]",
+   "url": "https://www.everycrsreport.com/files/2026-10-14_IN12747_fcb1389788aa7b9102b795882af042e85d20532c.pdf",
+   "summary": "Article URL: https://www.everycrsreport.com/files/2026-10-14_IN12747_fcb1389788aa7b9102b795882af042e85d20532c.pdf Comments URL: https://news.ycombinator.com/item?id=50541550 Points: 3 # Comments: 0",
+   "published_at": 1794973055.0,
+   "published_bj": "2026-11-18 11:37"
+  },
+  {
+   "id": "e0cbc03ddd60d663",
+   "source": "Hacker News",
+   "title": "Engineering Vitals in the Age of AI",
+   "url": "https://octopus.com/blog/engineering-vitals-in-the-age-of-ai",
+   "summary": "Article URL: https://octopus.com/blog/engineering-vitals-in-the-age-of-ai Comments URL: https://news.ycombinator.com/item?id=50541542 Points: 7 # Comments: 0",
+   "published_at": 1794972972.0,
+   "published_bj": "2026-11-18 11:36"
+  },
+  {
+   "id": "bf30610b16f26b06",
+   "source": "Hacker News",
+   "title": "GoGoGrandparent (YC S16) Is a Front End JavaScript / TypeScript Engineer",
+   "url": "https://www.ycombinator.com/companies/gogograndparent/jobs/05woouL-front-end-javascript-typescript-engineer",
+   "summary": "Article URL: https://www.ycombinator.com/companies/gogograndparent/jobs/05woouL-front-end-javascript-typescript-engineer Comments URL: https://news.ycombinator.com/item?id=50541538 Points: 0 # Comments: 0",
+   "published_at": 1794972947.0,
+   "published_bj": "2026-11-18 11:35"
+  },
+  {
+   "id": "d623a092e42c5755",
+   "source": "IT之家",
+   "title": "分形工艺预热神秘新品，传闻为 Torrent 2 机箱",
+   "url": "https://www.ithome.com/1/028/691.htm",
+   "summary": "IT之家 11 月 18 日消息，PC 硬件制造商 Fractal Design（分形工艺）现已在其京东、淘宝旗舰店首页放出同一张图片， 对一款神秘新品进行预热 。从该品牌经营范围来看，这似乎是一款机箱。 参考 Chiphell 站长 @nApoleon 在该平台的发帖， 该新品应为 Torrent 2 机箱 ，有望配备 20040 大尺寸加厚 FDB 轴承风扇，预计 2026 年 12 月正式面世。 IT之家了解到， 原版 Torrent 机箱发布于 2021 年 ，主打“大风量，不妥协”，原装 18038 规格前置风扇，支持 2 组 420 规格冷排。新一代产品预计将延续其设计理念。",
+   "published_at": 1794972598.0,
+   "published_bj": "2026-11-18 11:29"
+  },
+  {
+   "id": "777c829e93fe3321",
+   "source": "IT之家",
+   "title": "99 元起，九州风神 FT12 V2 SE 钢铁之“芯”机箱风扇开售",
+   "url": "https://www.ithome.com/1/028/690.htm",
+   "summary": "IT之家 11 月 18 日消息，九州风神 FT12 V2 SE 钢铁之“芯”机箱风扇现已在京东开售， 单个装售价 99 元 ， 三联包 279 元 。 据介绍，这款风扇搭载 FOC 闭环电机，采用三相设计，相比单相电机功率密度更高、更平稳。支持 ISST 智能启停风扇技术，具备动态 PWM 调速（500-2700 RPM±10%），满足低负载到高负荷的全场景需求。 同时，该风扇采用钢铁之“芯”设计，风扇中心为透明视窗，可呈现镜面质感。通电后内置的灯珠可点亮风扇内部机构，呈现独特透视效果。该风扇的扇叶采用玻璃纤维 +PBT 增强结构，能够更好地抵抗振动。 此外，该风扇边框四角增加软硅胶脚垫，随",
+   "published_at": 1794972565.0,
+   "published_bj": "2026-11-18 11:29"
+  },
+  {
+   "id": "022d2bf1fd02dc8d",
+   "source": "IT之家",
+   "title": "“童话大王”郑渊洁停更 2 年后发声：用 AI 手搓动画短片开放免费观看，祝贺 00 后赶上知识平权好时代",
+   "url": "https://www.ithome.com/1/028/689.htm",
+   "summary": "IT之家 11 月 18 日消息，中国当代知名童话作家、“童话大王”郑渊洁 11 月 17 日发声，恢复停更两年的自媒体，表示最近自己遇到了一件特别振奋和不可思议的事： 对动画制作绝对是门外汉可以说一窍不通的我， 居然斗胆使用 AI 将我自己的童话作品制作成了动画短片 ！我授权抖音账号“郑渊洁童话世界”（抖音号 83425404836）发布我根据我自己的童话作品使用 AI 技术手搓的动画短片，供读者朋友 免费观看 。 郑渊洁表示：随着 AI 科技浪潮的光临， 我认为免费欣赏精神和文化作品是势不可挡的历史潮流 ，既然不懂动画制作的作家能依靠 AI 制作动画片取代职业动画师，不懂文学创作的人也能依",
+   "published_at": 1794971985.0,
+   "published_bj": "2026-11-18 11:19"
+  },
+  {
+   "id": "cdea36e35f76b3d1",
+   "source": "IT之家",
+   "title": "如何在苹果 macOS 27.3 Beta 2 关闭菜单栏“蓝色药丸”提示",
+   "url": "https://www.ithome.com/1/028/687.htm",
+   "summary": "IT之家 11 月 18 日消息，科技媒体 9to5Mac 主编扎克 · 霍尔（Zac Hall）昨日（11 月 17 日）在 X 平台发布推文，分享了一个终端命令， 可以在 macOS 27.3 Beta 2 更新中，关闭菜单栏“蓝色药丸”提示。 IT之家援引博文介绍，在 macOS 27.3 Beta 2 更新中，苹果在菜单中引入“透明度指示器”，当某个应用正在控制另一个应用时，屏幕顶部会出现蓝色提示。 苹果称，该功能旨在让用户更清楚地了解系统与应用保护覆盖（System &amp; App Protection Override）的使用情况，从而提升自动化操作的透明度。 该媒体指出对于经",
+   "published_at": 1794971795.0,
+   "published_bj": "2026-11-18 11:16"
+  },
+  {
+   "id": "45aa446a3dcad8f0",
+   "source": "IT之家",
+   "title": "Grado 推出开放式头戴耳机 GW200，支持 aptX Lossless",
+   "url": "https://www.ithome.com/1/028/686.htm",
+   "summary": "IT之家 11 月 18 日消息，美国音频设备制造商 Grado Labs 昨日宣布推出 GW200 开放式头戴耳机 GW200。其支持蓝牙 5.4 无线和 3.5mm 有线连接，定价 329 美元 （IT之家注：现汇率约合 2,198 元人民币） 。 Grado GW200 搭载全新 44mm S 驱动单元 ，针对无线连接场景优化，阻抗 38Ω、频率响应范围 16~34000Hz、总谐波失真＜0.3%、1mW 声压级 104dB；此外还 拥有可更换的 F 型耳垫 ， 搭配可调节的白色缝线皮革软垫头带 ，总重 235g。 该耳机采用高通 QCC3095 蓝牙音频 SoC， 具备 aptX Lo",
+   "published_at": 1794971781.0,
+   "published_bj": "2026-11-18 11:16"
+  },
+  {
+   "id": "d6d3e7db8de6b25e",
+   "source": "IT之家",
+   "title": "潜伏 11 年的 Linux 内核漏洞 NoisyTCP 曝光，发送特制 TCP 数据包可致服务器崩溃",
+   "url": "https://www.ithome.com/1/028/685.htm",
+   "summary": "IT之家 11 月 18 日消息，韩国安全研究员金贤宇（Hyunwoo Kim）在 Linux 内核中发现了一个高危漏洞，将其命名为 NoisyTCP（编号为 CVE-2026-99288）。 该漏洞已经潜伏约 11 年，攻击者无需通过身份验证，只需向目标服务器发送特制 TCP 数据包，就有可能触发 Linux 内核崩溃，导致服务器拒绝服务（DoS）。 金贤宇于 11 月 16 日公开了漏洞技术报告。根据其在 Openwall 安全邮件列表发布的信息，漏洞相关代码最早于 2015 年 10 月 3 日引入 Linux 内核，直到 2026 年 11 月 3 日才有修复提交进入内核上游。 Noi",
+   "published_at": 1794971662.0,
+   "published_bj": "2026-11-18 11:14"
+  },
+  {
+   "id": "056b5c4b16438672",
+   "source": "IT之家",
+   "title": "换电脑不用重来：腾讯 WorkBuddy 现已支持跨设备数据迁移",
+   "url": "https://www.ithome.com/1/028/684.htm",
+   "summary": "IT之家 11 月 18 日消息，腾讯昨天宣布，WorkBuddy 已经支持跨设备数据迁移。 用户现在可以在新电脑的 WorkBuddy 里一键导入原电脑任务数据 。 IT之家了解到，跨设备数据迁移支持导入任务、对话记录、产物记录、WorkBuddy 托管目录下的产物文件，以及任务分组、分组内的记忆和本地 Skill 和定时任务等。MCP 配置、日志，以及全局下发的内容（如 Skill、专家、全局记忆）不在迁移范围内。 同时，该功能要求两台电脑更新到最新版本 WorkBuddy，并登录同一账号。文件将保存在“~/WorkBuddy/{设备名}/”下，不同设备的文件各自独立，文件名与原设备保持一",
+   "published_at": 1794971478.0,
+   "published_bj": "2026-11-18 11:11"
+  },
+  {
+   "id": "14f950866cdf7fcb",
+   "source": "IT之家",
+   "title": "苹果首款折叠 iPhone Duo 开放自助维修：原厂零件、工具与手册上线",
+   "url": "https://www.ithome.com/1/028/683.htm",
+   "summary": "IT之家 11 月 18 日消息，科技媒体 9to5Mac 昨日（11 月 17 日）发布博文， 报道称苹果扩展“自助维修计划”（Self Service Repair），现已面向 iPhone Duo 提供原厂替换零件、专用工具和官方维修手册。 对于有动手能力、且“自助维修计划”覆盖地区（主要为美国、加拿大和欧洲）的用户而言，如果使用 iPhone Duo 过程中出现故障，不需要前往苹果 Genius Bar，可以直接从苹果官方自助维修商店购买原厂替换零件，并租用或购买维修工具，按照官方手册自行完成设备维修。 IT之家援引博文介绍，用户可选购的零件涵盖内外显示屏、双电池、后盖玻璃、摄像头、F",
+   "published_at": 1794971078.0,
+   "published_bj": "2026-11-18 11:04"
+  },
+  {
+   "id": "8096ff683db534d6",
+   "source": "IT之家",
+   "title": "蔚来 ES9 灯光秀把“爸爸我爱你”判违规？副总裁马麟回应称“爱字被误判”，已修复",
+   "url": "https://www.ithome.com/1/028/682.htm",
+   "summary": "IT之家 11 月 18 日消息，蔚来 ES9 灯光秀功能近日引发争议。一位车主在女儿十岁生日当天，计划通过车载投影灯光秀投射手写文字“爸爸我爱你”，提交后系统判定内容违规，无法完成投影；而输入“妈妈我爱你”则可正常生成。该车主随后在社交平台公布了这一对比情况，引发热议。 蔚来公司副总裁马麟今日回应称，由于系统把“爱”字错识别为其他字，由此触发了内容限制。他表示该限制策略不合理，已经完成修复，并感谢外界关注。 IT之家注：蔚来 ES9 灯光秀支持用户手写自定义文字，通过车辆大灯向外投影展示。 出于内容安全考量，该功能启用了 OCR 识别与敏感词校验机制。由于手写字体变化较大，视觉识别模型容易认",
+   "published_at": 1794970954.0,
+   "published_bj": "2026-11-18 11:02"
+  },
+  {
+   "id": "749597a0330e0f7a",
+   "source": "少数派",
+   "title": "跟着老板自驾去海南是种什么体验？明日公园 vlog 回顾",
+   "url": "https://sspai.com/post/119193",
+   "summary": "从深圳一路开车到广东最南端的徐闻，再和车分别乘坐渡轮，穿过地理课本里的琼州海峡。终于抵达海南后，老板却告诉我们这趟旅程真正的目的地，竟然是…… 查看全文",
+   "published_at": 1794970800.0,
+   "published_bj": "2026-11-18 11:00"
+  },
+  {
+   "id": "6e644c9af5c38675",
+   "source": "IT之家",
+   "title": "难修：iFixit 拆解苹果首款智能家居中枢 HomeView，壁挂 / 桌面版内部差异曝光",
+   "url": "https://www.ithome.com/1/028/678.htm",
+   "summary": "IT之家 11 月 18 日消息，维修团队 iFixit 今天（11 月 18 日）发布博文，拆解了苹果首款智能家居中枢 HomeView，并指出桌面版和壁挂版在扬声器配置与内部结构方面存在差异， 但两款产品同样“难修”，如果出现故障恐怕只能弃用。 在可维修方面，iFixit 团队表示苹果 HomeView 被大量胶水、热黏合剂和极短连接线“锁死”，维修难度极高。在视频中该机构并未给出直接得分，Shahram Mokhtari 开玩笑说他会给 HomeView 一个“BEEP this thing / 10”（言外之意是没法修）。IT之家附上相关图片如下： 拆解显示，HomeView 的显示屏",
+   "published_at": 1794970574.0,
+   "published_bj": "2026-11-18 10:56"
+  },
+  {
+   "id": "e7d4b480c1fc357b",
+   "source": "IT之家",
+   "title": "受电池法规影响，Keychron Orca Echo 键盘停止向欧盟发货",
+   "url": "https://www.ithome.com/1/028/674.htm",
+   "summary": "IT之家 11 月 18 日消息，Keychron Orca Echo 分体式人体工学键盘最近开放预订。然而这家制造商表示， 该产品可能不符合欧盟新电池法规 ， 因此无法向欧盟用户发货 。 Keychron 已经向欧盟预订用户发送邮件，确认预售订单将取消并退款。邮件部分内容如下：“Orca Echo 的内置电池，并非为用户自行拆卸设计。我们审查欧盟电池法规后确认，这款键盘在众筹期间无法向欧盟地区和北爱尔兰地区发货。” Keychron 还表示：“如果未来您所在地区的供货情况发生变化，我们将在官方网站发布相关消息。”这意味着，未来该产品仍有可能重新面向欧洲消费者推出。 据IT之家此前报道 ，欧盟",
+   "published_at": 1794970246.0,
+   "published_bj": "2026-11-18 10:50"
+  },
+  {
+   "id": "f644569c3298b883",
+   "source": "IT之家",
+   "title": "诺兰电影《奥德赛》登陆 Apple TV、Prime Video 等点播平台，支持数字租赁和购买",
+   "url": "https://www.ithome.com/1/028/672.htm",
+   "summary": "IT之家 11 月 18 日消息，克里斯托弗 · 诺兰执导的电影《奥德赛》于当地时间 11 月 17 日登陆数字点播平台，观众可以通过 Apple TV、亚马逊 Prime Video、Fandango、YouTube 等平台观看。 需要区分的是，此次上线属于数字租赁和购买发行，并非 Netflix 等订阅制流媒体平台正式上线。 除了数字发行外，环球影业同时推出《奥德赛》4K Ultra HD 和蓝光实体版，具体价格和供应情况因地区而异。 以美国区为例，Prime Video 数字购买价格为 19.99 美元 （IT之家注：现汇率约合 133.5 元人民币） ，用户无需订阅 Amazon Pr",
+   "published_at": 1794970099.0,
+   "published_bj": "2026-11-18 10:48"
+  },
+  {
+   "id": "700b3399e16912e6",
+   "source": "IT之家",
+   "title": "Unity 推出 Fellowship 计划，向 10 支独立游戏团队各提供 5 万美元资金等支持",
+   "url": "https://www.ithome.com/1/028/671.htm",
+   "summary": "IT之家 11 月 18 日消息，游戏引擎开发商 Unity 当地时间本月 16 日宣布推出 Unity Fellowship 计划， 为独立游戏的顺利发布提供支持。 Unity 将向 10 支使用其引擎开发并计划在未来 12 个月内发布作品的独立游戏工作室提供一系列资助，包括 5 万美元 （IT之家注：现汇率约合 33.4 万元人民币） 资金、对接联系人、专家支持、行业人脉、Unity 活动出席机会、公关营销支持。 具体入选名单将于明年 3 月的 GDC 2027 公布 。 Unity 产品高级副总裁 Adam Smith 表示： 自 Unity 诞生之初，其使命就是让游戏创作民主化，而 U",
+   "published_at": 1794969964.0,
+   "published_bj": "2026-11-18 10:46"
+  },
+  {
+   "id": "5ec5d388fe55090c",
+   "source": "IT之家",
+   "title": "小米雷军：“AI+ 手机”“AI+ 具身智能机器人”等有很大想象空间，未来三四年会诞生颠覆性时刻",
+   "url": "https://www.ithome.com/1/028/669.htm",
+   "summary": "IT之家 11 月 18 日消息，小米创办人、董事长兼 CEO 雷军 11 月 17 日出席 APEC 工商领导人峰会。今日（11 月 18 日），雷军接受了人民日报采访。 谈及人工智能，雷军坦言，人工智能浪潮席卷各行各业， 作为 AI 从业者能感受到一些焦虑 。 雷军认为，“AI+ 手机”“AI+ 具身智能机器人”等领域有很大的想象空间， 未来三四年会有颠覆性时刻的诞生 。 综合IT之家此前报道， 雷军在 17 日的峰会上表示 ，过去四年，AI 大模型技术突飞猛进，给我们的生活和工作带来了巨大的变化。但 AI 能够落地的场景非常有限，能够真正实现商业闭环、能够挣到钱的公司，相对比较少。 他认",
+   "published_at": 1794969922.0,
+   "published_bj": "2026-11-18 10:45"
+  },
+  {
+   "id": "d90c21988781ad54",
+   "source": "IT之家",
+   "title": "中科宇航力箭一号遥十六运载火箭完成总装测试，近期将海上发射“一箭 2 星”",
+   "url": "https://www.ithome.com/1/028/667.htm",
+   "summary": "IT之家 11 月 18 日消息，中科宇航今日宣布，力箭一号遥十六运载火箭在位于广州南沙的中科宇航火箭生产基地如期完成总装测试工作，顺利通过出厂评审， 拟于近期在山东附近海域执行“一箭 2 星”发射任务 。 IT之家注：力箭一号是中国科学院力学研究所抓总、中科宇航研制的四级固体运载火箭，2022 年 7 月 27 日首飞。 火箭全长 30 米、芯级直径 2.65 米、起飞重量 135 吨、起飞推力 200 吨，500 公里太阳同步轨道运载能力 1.5 吨，近地轨道运载能力 2 吨。 据央视新闻今年 9 月报道 ，中科宇航力箭一号运载火箭总装周期已从首飞阶段的约 3 个月缩短至约 15 天。随着",
+   "published_at": 1794969229.0,
+   "published_bj": "2026-11-18 10:33"
+  },
+  {
+   "id": "25ecbf92a2fadd95",
+   "source": "IT之家",
+   "title": "日本运营商 KDDI 时隔 8 年发布 INFOBAR ZERO 手机：刻意砍掉网页浏览和社交媒体",
+   "url": "https://www.ithome.com/1/028/666.htm",
+   "summary": "IT之家 11 月 18 日消息，日本电信运营商 KDDI 今日宣布推出 INFOBAR ZERO 手机， 新机售价 3.278 万日元 （IT之家注：现汇率约合 1,373 元人民币） ，12 月 25 日发售。作为参考，KDDI 上一次发布 INFOBAR 系列手机还是 2018 年的 INFOBAR xv。 据介绍，INFOBAR ZERO 手机由 au Design project 负责策划。该机主打减法设计， 产品定位集中在电话 、 短信等基本通信需求 ， 刻意不支持网页浏览和社交媒体应用程序等 。手机配备 200 万像素摄像头，可拍摄复古风格照片。 外观方面，这款手机由深泽直人设计",
+   "published_at": 1794969117.0,
+   "published_bj": "2026-11-18 10:31"
+  },
+  {
+   "id": "357960d75c4fff4c",
+   "source": "IT之家",
+   "title": "9.2 分高危 Java 漏洞披露：黑客发串“乱码”可远程接管服务器，甲骨文紧急修复",
+   "url": "https://www.ithome.com/1/028/665.htm",
+   "summary": "IT之家 11 月 18 日消息，安全研究机构 Calif 昨日（11 月 17 日）披露名为 Java4Shell 的高危漏洞， 存在于 OpenJDK Base64 解码路径中，被攻击者利用可以远程执行恶意代码，甲骨文目前已紧急发布补丁修复。 Java4Shell 漏洞追踪编号为 CVE-2026-114938，在 CVSS 4.0 评分为 9.2 分，属于“关键”级别漏洞，影响 OpenJDK 的 Base64 解码器。 在 x86-64 平台上启用 &nbsp;AVX-512 VBMI 硬件加速 Base64 解码路径中，攻击者发送特定畸形 Base64 数据后，可触发越界堆内存写入，",
+   "published_at": 1794969035.0,
+   "published_bj": "2026-11-18 10:30"
+  },
+  {
+   "id": "6f5ee37018c86f94",
+   "source": "少数派",
+   "title": "兼顾随身阅读与自主开发的 4.7 英寸墨水屏设备：小纸 Pico 现货上架少数派",
+   "url": "https://sspai.com/post/118975",
+   "summary": "想找一台可以随身带着读书的墨水屏设备，也想自己改改界面、不被系统「绑架」？近期思维重置团队上架的小纸 Pico 墨水屏开发板是一个值得留意的选择。 查看全文",
+   "published_at": 1794969000.0,
+   "published_bj": "2026-11-18 10:30"
+  },
+  {
+   "id": "a626e11c572c7f0c",
+   "source": "IT之家",
+   "title": "AMD 更新虚幻引擎 FSR 插件，扩展 FSR 超分辨率 4 支持范围",
+   "url": "https://www.ithome.com/1/028/664.htm",
+   "summary": "IT之家 11 月 18 日消息，AMD 当地时间 16 日为 FSR 虚幻引擎插件推送 4.1.2 版本更新， 将 FSR \"Redstone\" SDK 2.4 的最新更新集成到虚幻引擎 5.3~5.8 中 。 此次更新包含新增 Radeon RX 6000 系列独立显卡、多款锐龙 APU 支持的 FSR 超分辨率 4.1.2，虚幻引擎上的开发者 只需一个插件即可实现 FSR 超分辨率 4 的广泛集成 。需要注意的是，该虚幻引擎插件目前仅支持 DirectX 12 API，Vulkan API 的支持尚未提供。 FSR 虚幻引擎插件 4.1.2 还包括全新的 FSR 帧生成交换链 4.0.0",
+   "published_at": 1794968863.0,
+   "published_bj": "2026-11-18 10:27"
+  },
+  {
+   "id": "3c4c162f12b1b0e6",
+   "source": "IT之家",
+   "title": "戴森 Airsmooth 气流丰盈梳发布：吹干蓬松一步到位、断发减少 39%，1899 元",
+   "url": "https://www.ithome.com/1/028/661.htm",
+   "summary": "IT之家 11 月 18 日消息，戴森官方今日宣布推出全新的 Airsmooth 气流丰盈梳（HB01），定价为 1899 元。 京东 戴森（DYSON）Airsmooth 气流丰盈梳 1899 元 直达链接 作为戴森推出的首款专属热风造型梳，Airsmooth 气流丰盈梳核心实现吹干、蓬松、顺亮一步到位效果。 根据美国 TRI 实验室的加速断发测试数据，该产品在最高温度和气流档位反复梳理发束 2000 次后，相比带圆头齿梳设计的戴森 Airwrap 顺滑梳，累计断发量减少 39%。 该产品采用可控气流设计，气流从 816 根梳齿底部均匀扩散，在干发的同时完成造型，避免高温直吹造成的秀发热损伤",
+   "published_at": 1794968380.0,
+   "published_bj": "2026-11-18 10:19"
+  },
+  {
+   "id": "6346013954da406f",
+   "source": "IT之家",
+   "title": "消息称英伟达安抚机器人生态伙伴，“物理 AI”投资不会急刹车",
+   "url": "https://www.ithome.com/1/028/660.htm",
+   "summary": "IT之家 11 月 18 日消息，科技媒体 Business Insider 今天（11 月 18 日）发布博文，报道称在黄仁勋突发离职后，英伟达及其风险投资部门 NVentures 已联系至少 3 家其投资的机器人初创公司， 明确表示业务将“照常进行”，以稳定市场对其机器人投资战略的担忧。 这一动作发生在临时 CEO 科莱特 · 克雷斯（Colette Kress）接掌公司之际。市场担忧，在黄仁勋离任后，英伟达对 AI、机器人和“物理 AI”初创企业的投资节奏可能放缓，相关公司对融资、算力资源及合作前景产生疑虑。 黄仁勋长期将机器人与“物理 AI”（physical AI）视为英伟达的重要增",
+   "published_at": 1794968088.0,
+   "published_bj": "2026-11-18 10:14"
+  },
+  {
+   "id": "2437bc9042483d24",
+   "source": "IT之家",
+   "title": "299 元小米对讲机 2S 新增橙色版：4W 发射功率、120 小时超长待机",
+   "url": "https://www.ithome.com/1/028/642.htm",
+   "summary": "IT之家 11 月 18 日消息，小米官方今日宣布，小米对讲机 2S 全新橙色版本正式开售，到手价 299 元。 据小米官方介绍，这款对讲机主要有以下四大卖点： 轻薄高颜值，兼顾手感与质感； 4W 发射功率，小巧机身澎湃性能； 120 小时超长待机，充沛动力时刻就绪； 1.77 英寸彩色大屏，清晰直观又好看。 小米对讲机 2S 采用了 1.77 英寸的彩色大屏以及 36mm 大尺寸扬声器单元，机身厚度仅为 15mm，整机重量也只有 130 克，而且还提供了 Type-C 和 3.5mm 接口。 IT之家提醒，小米为其提供了多种自定义功能，你可以根据自己的需求设置蓝牙（连接蓝牙耳机）、方位以及 ",
+   "published_at": 1794967612.0,
+   "published_bj": "2026-11-18 10:06"
+  },
+  {
+   "id": "adea7d6cddf6ec4e",
+   "source": "IT之家",
+   "title": "AMD 完成对 Taalas 收购，计划将后者芯片整合进加速器路线图",
+   "url": "https://www.ithome.com/1/028/640.htm",
+   "summary": "IT之家 11 月 18 日消息，AMD 当地时间昨日宣布 完成对专用 AI 推理芯片开发商 Taalas 的收购 。这家初创企业带来了差异化的技术和世界一流的工程专业知识。 AMD 表示此举将进一步加强其全栈 AI 产品组合和长期推理路线图。 AMD 计划将 Taalas 的技术整合到其加速器路线图中 ，结合 Instinct GPU 共同开发系统级解决方案。 IT之家了解到， Taalas 采用了将 AI 模型“固化”到 ASIC 上的技术路线 ，加速器芯片针对特定模型的工作负载进行优化。这一设计虽然大幅削弱了芯片的通用性，但也能显著提升推理效率。 相关阅读： 《 AMD 宣布计划收购 T",
+   "published_at": 1794967589.0,
+   "published_bj": "2026-11-18 10:06"
+  },
+  {
+   "id": "f9d4b05486dc0533",
+   "source": "IT之家",
+   "title": "Claude 关联计费测试上线，第三方应用 AI 消费能“按需结算”",
+   "url": "https://www.ithome.com/1/028/637.htm",
+   "summary": "IT之家 11 月 18 日消息，Anthropic 昨日（11 月 17 日）更新 Claude 平台文档，宣布引入名为“关联计费”（Linked Billing）的 OAuth 测试版功能。 用户未来使用某个第三方 AI 应用时，可以直接使用自己的 Claude 账户支付背后真实的 AI 调用费用。 以往企业或开发者若在编码助手、工作流自动化等第三方工具中调用 Claude，往往需要共享 API 密钥。密钥一旦泄露，可能被他人用于调用并产生费用。 而“关联计费”不再由开发者统一承担模型使用成本，开发者可将自家应用与客户的 Claude Platform 组织关联，让客户直接为其在应用中产生",
+   "published_at": 1794967541.0,
+   "published_bj": "2026-11-18 10:05"
+  },
+  {
+   "id": "47ed7fb5a6483849",
+   "source": "IT之家",
+   "title": "大摩将小米目标价调整至 35 港元，看好非手机业务支撑盈利韧性",
+   "url": "https://www.ithome.com/1/028/633.htm",
+   "summary": "IT之家 11 月 18 日消息，据《科创板日报》今日报道，摩根士丹利（大摩）将小米目标价上调 6% 至 35 港元 （IT之家注：现汇率约合 29.8 元人民币） ， 并维持“增持”评级 。 摩根士丹利指出，小米集团多元化产品组合将有助于抵御智能手机行业的低迷。该机构分析师认为，在安卓手机制造商中，小米的表现有望优于同行。这得益于其庞大的非智能手机业务敞口，这将有助于其实现具有韧性的盈利表现。",
+   "published_at": 1794967426.0,
+   "published_bj": "2026-11-18 10:03"
+  },
+  {
+   "id": "8cf3d128c22c4958",
+   "source": "IT之家",
+   "title": "兰合铁路全线铺轨正式启动：预计 2027 年底通车，结束甘肃两个自治州不通铁路历史",
+   "url": "https://www.ithome.com/1/028/632.htm",
+   "summary": "IT之家 11 月 18 日消息，据央视新闻报道， 新建兰州至合作铁路 11 月 17 日在甘肃省临夏州永靖县刘家峡站启动全线铺轨。 作为国家“八纵八横”高铁网兰（西）广通道重要组成部分，这条铁路建成后， 将结束甘肃省临夏回族自治州、甘南藏族自治州不通铁路的历史 ，补齐甘肃南部铁路交通短板。 兰合铁路线路自甘肃省兰州西站引出，全长 183.33 公里，新建正线长 147.4 公里，设计时速 200 公里，设置刘家峡、临夏、双城、合作四座车站， 通车后兰州到合作一小时可达 。线路未来还将和西宁至成都铁路衔接，进一步织密西北铁路路网。 兰合铁路由兰新铁路甘青有限公司负责建设，此次全线铺轨的主要工程",
+   "published_at": 1794967215.0,
+   "published_bj": "2026-11-18 10:00"
   },
   {
    "id": "3246febd886e688c",
