@@ -1,0 +1,382 @@
+{
+ "type": "yesterday",
+ "date": "2026-11-18",
+ "window": {
+  "start_ts": 1794931200.0,
+  "end_ts": 1795017600.0
+ },
+ "generated_at": 1795042420.2394767,
+ "generator": "action",
+ "news_count": 370,
+ "keywords": [
+  "ai",
+  "伟达",
+  "英伟",
+  "仁勋",
+  "黄仁",
+  "苹果",
+  "ceo",
+  "微软",
+  "美元",
+  "gta"
+ ],
+ "points": [
+  {
+   "text": "【ai】IT早报”时间，大家好，现在是 2026 年 11 月 18 日星期三，今天的重要科技资讯有： 1. 英伟达董事会主席明确表态：无意让黄仁勋回归",
+   "keyword": "ai",
+   "news_ids": [
+    "712dcde2632faf03"
+   ],
+   "refs": [
+    {
+     "id": "712dcde2632faf03",
+     "title": "IT早报 1118：黄仁勋称愿重返英伟达任 CEO 董事会主席明确反对复职；中国“灵晟”蝉联全球超算榜首；GPT-6.2Astra 和 Sol 发布；苹果回应服务大规模中断...",
+     "source": "IT之家",
+     "url": "https://www.ithome.com/1/028/595.htm",
+     "published_at": 1794959031.0
+    }
+   ]
+  },
+  {
+   "text": "【苹果】据知名爆料人士透露，苹果目前正在为iPhone诞生20周年开发四款机型，采用两种不同的设计方案",
+   "keyword": "苹果",
+   "news_ids": [
+    "ed83bcbfadf191b9"
+   ],
+   "refs": [
+    {
+     "id": "ed83bcbfadf191b9",
+     "title": "苹果据称正在为iPhone发布20周年纪念机型开发两种设计方案",
+     "source": "cnBeta",
+     "url": "https://www.cnbeta.com.tw/articles/tech/1586978.htm",
+     "published_at": 1795011710.0
+    }
+   ]
+  },
+  {
+   "text": "【ai】IT之家 11 月 18 日消息，据彭博社今天（18 日）早间报道，微软商业业务 CEO 贾德森 · 阿尔托夫认为，黄仁勋辞职引发的英伟达人事风",
+   "keyword": "ai",
+   "news_ids": [
+    "b18f1e6165886d8f"
+   ],
+   "refs": [
+    {
+     "id": "b18f1e6165886d8f",
+     "title": "微软商业业务 CEO：黄仁勋辞任英伟达 CEO，或促使客户寻求 AI 芯片替代方案",
+     "source": "IT之家",
+     "url": "https://www.ithome.com/1/028/968.htm",
+     "published_at": 1794995877.0
+    }
+   ]
+  },
+  {
+   "text": "【苹果】IT之家 11 月 18 日消息，苹果前董事长亚瑟 · 莱文森（Arthur Levinson）已提交出售 9 万股苹果股票的申请，按当前市值计",
+   "keyword": "苹果",
+   "news_ids": [
+    "f20979c77bddf708"
+   ],
+   "refs": [
+    {
+     "id": "f20979c77bddf708",
+     "title": "苹果前董事长莱文森拟出售 9 万股苹果股票，价值约 3180 万美元",
+     "source": "IT之家",
+     "url": "https://www.ithome.com/1/028/949.htm",
+     "published_at": 1794994546.0
+    }
+   ]
+  },
+  {
+   "text": "【游戏】据评分聚合网站Metacritic统计，《侠盗猎车6》目前是史上评分最高的电子游戏",
+   "keyword": "游戏",
+   "news_ids": [
+    "f09e0fd65794f148"
+   ],
+   "refs": [
+    {
+     "id": "f09e0fd65794f148",
+     "title": "GTA6双平台斩获99分 登顶Metacritic史上最佳游戏榜单",
+     "source": "cnBeta",
+     "url": "https://www.cnbeta.com.tw/articles/game/1586976.htm",
+     "published_at": 1795011534.0
+    }
+   ]
+  },
+  {
+   "text": "【ceo】IT之家 11 月 18 日消息，据蓝鲸汽车从哈啰方面确认，哈啰 Robotaxi 近期完成了一轮内部组织架构调整",
+   "keyword": "ceo",
+   "news_ids": [
+    "c8b66f92422fbe19"
+   ],
+   "refs": [
+    {
+     "id": "c8b66f92422fbe19",
+     "title": "哈啰调整 Robotaxi 组织架构：整合成立“模型开发与数据闭环部”，由 CEO 杨磊直接负责",
+     "source": "IT之家",
+     "url": "https://www.ithome.com/1/029/117.htm",
+     "published_at": 1795014935.0
+    }
+   ]
+  },
+  {
+   "text": "【ai】800 个 MCP Server、5000 个工具，AI 智能体的“微服务危机”来了",
+   "keyword": "ai",
+   "news_ids": [
+    "6bc579f4e5533030"
+   ],
+   "refs": [
+    {
+     "id": "6bc579f4e5533030",
+     "title": "800 个 MCP Server、5000 个工具，AI 智能体的“微服务危机”来了",
+     "source": "InfoQ中文",
+     "url": "https://www.infoq.cn/article/FrDlAvNIwkr8ttdvWMCC?utm_source=rss&utm_medium=article",
+     "published_at": 1795010400.0
+    }
+   ]
+  },
+  {
+   "text": "从快速部署到统一运营，Agent 的 AH Moment 来了！",
+   "keyword": "",
+   "news_ids": [
+    "fb9222955067174d"
+   ],
+   "refs": [
+    {
+     "id": "fb9222955067174d",
+     "title": "从快速部署到统一运营，Agent 的 AH Moment 来了！",
+     "source": "InfoQ中文",
+     "url": "https://www.infoq.cn/video/AWswNIWpvlNvaWY8MTDd?utm_source=rss&utm_medium=article",
+     "published_at": 1795016410.0
+    }
+   ]
+  },
+  {
+   "text": "Article URL: https://www",
+   "keyword": "",
+   "news_ids": [
+    "cf7c6750f3030707"
+   ],
+   "refs": [
+    {
+     "id": "cf7c6750f3030707",
+     "title": "Inside Deutsche Bank",
+     "source": "Hacker News",
+     "url": "https://www.inside-db.com/",
+     "published_at": 1795016313.0
+    }
+   ]
+  },
+  {
+   "text": "Article URL: https://sam",
+   "keyword": "",
+   "news_ids": [
+    "c0c023b5c1830c01"
+   ],
+   "refs": [
+    {
+     "id": "c0c023b5c1830c01",
+     "title": "F-22 Next-Generation micro–Data Transfer Cartridge (mDTC)",
+     "source": "Hacker News",
+     "url": "https://sam.gov/workspace/contract/opp/8948e8601e964c6aba9c801eee16b1be/view",
+     "published_at": 1795016144.0
+    }
+   ]
+  },
+  {
+   "text": "https://www",
+   "keyword": "",
+   "news_ids": [
+    "273d801ba81a37ec"
+   ],
+   "refs": [
+    {
+     "id": "273d801ba81a37ec",
+     "title": "Unauthenticated remote code execution in Nginx",
+     "source": "Hacker News",
+     "url": "https://www.wiz.io/blog/nginx-http2-rce-vulnerabilities",
+     "published_at": 1795015195.0
+    }
+   ]
+  },
+  {
+   "text": "如果你阅读本文，那么你的社媒信息流肯定充斥着猫咪",
+   "keyword": "",
+   "news_ids": [
+    "b3373b6c176419c5"
+   ],
+   "refs": [
+    {
+     "id": "b3373b6c176419c5",
+     "title": "陆游：最早探索猫内心世界的诗人",
+     "source": "Solidot",
+     "url": "https://www.solidot.org/story?sid=85925",
+     "published_at": 1795013902.0
+    }
+   ]
+  },
+  {
+   "text": "AMD已经开始为CES 2027预热了，只不过预热得相当含蓄",
+   "keyword": "",
+   "news_ids": [
+    "44133688cbf50e39"
+   ],
+   "refs": [
+    {
+     "id": "44133688cbf50e39",
+     "title": "AMD邀请函山峰图案 暗示指向桌面版Zen 6处理器",
+     "source": "cnBeta",
+     "url": "https://www.cnbeta.com.tw/articles/tech/1586972.htm",
+     "published_at": 1795011496.0
+    }
+   ]
+  },
+  {
+   "text": "IT之家 11 月 18 日消息，MINISFORUM（铭凡）现已通过国行电商渠道销售 5L 紧凑台式整机 T5 Max-388",
+   "keyword": "",
+   "news_ids": [
+    "e918f501e6c2e041"
+   ],
+   "refs": [
+    {
+     "id": "e918f501e6c2e041",
+     "title": "铭凡 5L 台式机 T5 Max-388 上市：48GB + 1TB，到手价 9699 元",
+     "source": "IT之家",
+     "url": "https://www.ithome.com/1/029/093.htm",
+     "published_at": 1795010653.0
+    }
+   ]
+  },
+  {
+   "text": "迅雷 超级会员 年卡日常售价 360 元，连续包年为 264 元（22 元 / 月）",
+   "keyword": "",
+   "news_ids": [
+    "5cfaacf4547cc0fb"
+   ],
+   "refs": [
+    {
+     "id": "5cfaacf4547cc0fb",
+     "title": "低过 10 元 / 月：迅雷超级会员 11.11 直降，12T 网盘 + 每天 1000 次云添加",
+     "source": "IT之家",
+     "url": "https://www.ithome.com/1/029/090.htm",
+     "published_at": 1795010172.0
+    }
+   ]
+  }
+ ],
+ "article": {
+  "title": "2026-11-18 新闻总结",
+  "paragraphs": [
+   {
+    "kind": "lead",
+    "text": "过去 24 小时共收录 370 条新闻，来自 7 家媒体。把标题放在一起看，讨论主要集中在 AI、模型、游戏 这几个方向上，其余消息更像是零散补充。"
+   },
+   {
+    "kind": "section",
+    "heading": "发布",
+    "text": "先看「发布」。IT早报”时间，大家好，现在是 2026 年 11 月 18 日星期三，今天的重要科技资讯有： 1. 英伟达董事会主席明确表态，另有 204 条消息指向同一话题。技术路线的胜负很少由一次发布会决定，接下来要看的是它能不能被更多团队低成本复用。",
+    "news_ids": [
+     "712dcde2632faf03"
+    ],
+    "refs": [
+     {
+      "id": "712dcde2632faf03",
+      "title": "IT早报 1118：黄仁勋称愿重返英伟达任 CEO 董事会主席明确反对复职；中国“灵晟”蝉联全球超算榜首；GPT-6.2Astra 和 Sol 发布；苹果回应服务大规模中断...",
+      "source": "IT之家",
+      "url": "https://www.ithome.com/1/028/595.htm",
+      "published_at": 1794959031.0
+     }
+    ]
+   },
+   {
+    "kind": "section",
+    "heading": "开发",
+    "text": "与此同时「开发」。据知名爆料人士透露，苹果目前正在为iPhone诞生20周年开发四款机型，另有 42 条消息指向同一话题。从节奏上看，行业已经从「能不能做」转向「做得便不便宜」，这通常意味着竞争会更务实。",
+    "news_ids": [
+     "ed83bcbfadf191b9"
+    ],
+    "refs": [
+     {
+      "id": "ed83bcbfadf191b9",
+      "title": "苹果据称正在为iPhone发布20周年纪念机型开发两种设计方案",
+      "source": "cnBeta",
+      "url": "https://www.cnbeta.com.tw/articles/tech/1586978.htm",
+      "published_at": 1795011710.0
+     }
+    ]
+   },
+   {
+    "kind": "section",
+    "heading": "AI",
+    "text": "另一个值得注意的方向是「AI」。IT之家 11 月 18 日消息，据彭博社今天（18 日）早间报道，微软商业业务 CEO 贾德森 · 阿尔托夫认为，黄仁勋辞职引发的英伟达人事风波，另有 1 条消息指向同一话题。这类进展更像是把已有能力往工程化落地推了一步，真正的分水岭在于成本和可靠性能不能同时压下来。",
+    "news_ids": [
+     "b18f1e6165886d8f"
+    ],
+    "refs": [
+     {
+      "id": "b18f1e6165886d8f",
+      "title": "微软商业业务 CEO：黄仁勋辞任英伟达 CEO，或促使客户寻求 AI 芯片替代方案",
+      "source": "IT之家",
+      "url": "https://www.ithome.com/1/028/968.htm",
+      "published_at": 1794995877.0
+     }
+    ]
+   },
+   {
+    "kind": "section",
+    "heading": "屏幕",
+    "text": "相比之下「屏幕」。苹果已经正式将首款折叠屏手机iPhone Duo加入自助维修计划，另有 5 条消息指向同一话题。价格和生态往往比硬件规格更能决定一款产品能不能留下来。",
+    "news_ids": [
+     "1b3983713e98079d"
+    ],
+    "refs": [
+     {
+      "id": "1b3983713e98079d",
+      "title": "苹果开始提供iPhone Duo官方维修零件：内屏总成999美元 单屏幕499美元",
+      "source": "cnBeta",
+      "url": "https://www.cnbeta.com.tw/articles/tech/1586876.htm",
+      "published_at": 1794981333.0
+     }
+    ]
+   },
+   {
+    "kind": "glossary",
+    "items": [
+     {
+      "term": "AI",
+      "desc": "人工智能，让机器完成识别、生成、判断等原本需要人做的任务"
+     },
+     {
+      "term": "Agent",
+      "desc": "智能体，能自己拆解任务、调用工具并连续执行的 AI 程序"
+     },
+     {
+      "term": "IPO",
+      "desc": "首次公开募股，公司第一次把股票卖给公众并上市"
+     },
+     {
+      "term": "Robotaxi",
+      "desc": "无人驾驶出租车，车里没有司机，靠自动驾驶系统接单运营"
+     },
+     {
+      "term": "HBM",
+      "desc": "高带宽内存，把多层内存堆叠起来给 AI 芯片喂数据，缓解带宽瓶颈"
+     },
+     {
+      "term": "API",
+      "desc": "应用程序接口，让不同软件按约定好的方式互相调用"
+     }
+    ]
+   },
+   {
+    "kind": "outlook",
+    "text": "把这几条放在一起看，最值得跟踪的是 AI 和 模型 两条线：一条决定技术能走多远，一条决定它多快能落到普通人的日常里。至于其他消息，可以先放进观察名单，等后续有更实的进展再判断。"
+   }
+  ],
+  "word_count": 628
+ },
+ "ai_enhanced": false,
+ "schema": 1,
+ "window_bj": {
+  "start": "2026-11-18 00:00",
+  "end": "2026-11-19 00:00"
+ }
+}

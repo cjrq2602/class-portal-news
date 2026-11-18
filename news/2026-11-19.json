@@ -1,8 +1,35 @@
 {
  "date": "2026-11-19",
- "generated_at": 1795037709.2845647,
- "count": 50,
+ "generated_at": 1795042419.2989674,
+ "count": 55,
  "items": [
+  {
+   "id": "02d53f8f575d5d41",
+   "source": "TechCrunch",
+   "title": "Anthropic reportedly prices IPO at $83 a share, above projected range",
+   "url": "https://techcrunch.com/2026/11/18/anthropic-reportedly-prices-ipo-at-83-a-share-above-projected-range/",
+   "summary": "The long-awaited IPO reportedly values the company at $1.5 trillion on fully diluted basis.",
+   "published_at": 1795039875.0,
+   "published_bj": "2026-11-19 06:11"
+  },
+  {
+   "id": "30af806b1de4a843",
+   "source": "TechCrunch",
+   "title": "Palmer Luckey doesn’t deny that he’s a prepper",
+   "url": "https://techcrunch.com/2026/11/18/palmer-luckey-doesnt-deny-that-hes-a-prepper/",
+   "summary": "The Anduril founder said Wednesday that Americans should always have three days of food, water, and medicine — just in case.",
+   "published_at": 1795039443.0,
+   "published_bj": "2026-11-19 06:04"
+  },
+  {
+   "id": "faf8e05915558c8e",
+   "source": "TechCrunch",
+   "title": "Nvidia created a weird bit of intrigue by not filing a routine SEC report",
+   "url": "https://techcrunch.com/2026/11/18/nvidia-created-a-weird-bit-of-intrigue-by-not-filing-a-routine-sec-report/",
+   "summary": "One Wall Street analyst got to the bottom of Nvidia's surprise announcement that it wouldn't be filing its formal quarterly results document, the 10-Q, for weeks.",
+   "published_at": 1795039060.0,
+   "published_bj": "2026-11-19 05:57"
+  },
   {
    "id": "423879dc0f525b82",
    "source": "TechCrunch",
@@ -10,6 +37,15 @@
    "url": "https://techcrunch.com/2026/11/18/palmer-luckey-warns-ai-powered-cyberattacks-are-outpacing-defenses-its-time-to-start-running/",
    "summary": "The Anduril co-founder says outdated technology is leaving systems vulnerable to a new wave of AI-enabled attacks.",
    "published_at": 1795037653.0,
+   "published_bj": "2026-11-19 05:34"
+  },
+  {
+   "id": "6ef2ae7d8b7357c3",
+   "source": "Hacker News",
+   "title": "Gemini 4 Neon",
+   "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-neon/",
+   "summary": "Article URL: https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-neon/ Comments URL: https://news.ycombinator.com/item?id=50552424 Points: 236 # Comments: 229",
+   "published_at": 1795037647.0,
    "published_bj": "2026-11-19 05:34"
   },
   {
@@ -74,6 +110,15 @@
    "summary": "一款专门用于安全研究的人工智能模型近日发现了Java编程语言中存在的一系列安全漏洞，引发业界广泛关注。Java作为甲骨文公司开发并维护的编程语言，被广泛应用于航空公司、银行、医院以及政府机构等关键基础设施系统中，因此此次发现被认为具有重要影响。 阅读全文",
    "published_at": 1795033195.0,
    "published_bj": "2026-11-19 04:19"
+  },
+  {
+   "id": "810658b7abef8b54",
+   "source": "Hacker News",
+   "title": "Horizon Labs Report",
+   "url": "https://horizon-labs.ai/",
+   "summary": "Article URL: https://horizon-labs.ai/ Comments URL: https://news.ycombinator.com/item?id=50551509 Points: 13 # Comments: 3",
+   "published_at": 1795032754.0,
+   "published_bj": "2026-11-19 04:12"
   },
   {
    "id": "ac1d6b3c4d2680d8",

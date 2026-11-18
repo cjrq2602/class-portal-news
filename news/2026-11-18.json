@@ -1,7 +1,7 @@
 {
  "date": "2026-11-18",
- "generated_at": 1795037709.2866857,
- "count": 369,
+ "generated_at": 1795042419.3011773,
+ "count": 370,
  "items": [
   {
    "id": "867c038f9fd3f025",
@@ -74,6 +74,15 @@
    "summary": "IT之家 11 月 18 日消息，当地时间 17 日，据《纽约时报》报道，美国联邦航空管理局（FAA）宣布，将暂停安装慧与旗下瞻博网络生产的一款路由器。 据了解，该设备原本用于美国航空设施的现代化改造，当前被 FAA 认为是 11 月 13 日全美航班暂停起飞 的主要原因之一。FAA 不仅叫停了后续安装， 还停用了此前部署的 60 多台路由器 。 美国交通部长肖恩 · 达菲最初将此次大规模停飞 归咎于硬件老化 ，但第二天又透露，故障实际上与 美国航空设施的升级改造 有关。 达菲介绍，事发时，科技公司 L3Harris 的一名承包商工作人员在阿肯色州埃尔多拉多的一处 FAA 设施内， 准备将老旧",
    "published_at": 1795015480.0,
    "published_bj": "2026-11-18 23:24"
+  },
+  {
+   "id": "273d801ba81a37ec",
+   "source": "Hacker News",
+   "title": "Unauthenticated remote code execution in Nginx",
+   "url": "https://www.wiz.io/blog/nginx-http2-rce-vulnerabilities",
+   "summary": "https://www.cve.org/CVERecord?id=CVE-2026-123633 https://www.cve.org/CVERecord?id=CVE-2026-123007 Comments URL: https://news.ycombinator.com/item?id=50547374 Points: 958 # Comments: 440",
+   "published_at": 1795015195.0,
+   "published_bj": "2026-11-18 23:19"
   },
   {
    "id": "3f5cf24d21332009",
