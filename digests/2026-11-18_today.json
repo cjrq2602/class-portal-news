@@ -1,0 +1,382 @@
+{
+ "type": "today",
+ "date": "2026-11-18",
+ "window": {
+  "start_ts": 1794931200.0,
+  "end_ts": 1794963600.0
+ },
+ "generated_at": 1794967968.7212014,
+ "generator": "action",
+ "news_count": 117,
+ "keywords": [
+  "ai",
+  "伟达",
+  "英伟",
+  "to",
+  "仁勋",
+  "微软",
+  "黄仁",
+  "ceo",
+  "模型",
+  "美元"
+ ],
+ "points": [
+  {
+   "text": "【ai】IT之家 11 月 18 日消息，微软 AI 部门于 11 月 17 日发布全新专用安全模型 C， 定位为面向企业安全团队的“高性价比”网络安全",
+   "keyword": "ai",
+   "news_ids": [
+    "5a3c5ccc739a343d"
+   ],
+   "refs": [
+    {
+     "id": "5a3c5ccc739a343d",
+     "title": "微软最具性价比网安 AI 模型 MAI Cyber 2 Flash 登场：性能比肩 GPT-6 Astra，每任务成本不到 2%",
+     "source": "IT之家",
+     "url": "https://www.ithome.com/1/028/585.htm",
+     "published_at": 1794956815.0
+    }
+   ]
+  },
+  {
+   "text": "【ai】IT之家 11 月 18 日消息，亚马逊创始人杰夫・贝索斯于当地时间 11 月 17 日在 Semafor「硅谷与世界」（Silicon Val",
+   "keyword": "ai",
+   "news_ids": [
+    "035ea247102dca2f"
+   ],
+   "refs": [
+    {
+     "id": "035ea247102dca2f",
+     "title": "贝索斯谈英伟达 CEO 人选：公司业务太复杂，若黄仁勋不回归应优先内部选拔",
+     "source": "IT之家",
+     "url": "https://www.ithome.com/1/028/606.htm",
+     "published_at": 1794962731.0
+    }
+   ]
+  },
+  {
+   "text": "【伟达】IT早报”时间，大家好，现在是 2026 年 11 月 18 日星期三，今天的重要科技资讯有： 1. 英伟达董事会主席明确表态：无意让黄仁勋回归",
+   "keyword": "伟达",
+   "news_ids": [
+    "712dcde2632faf03"
+   ],
+   "refs": [
+    {
+     "id": "712dcde2632faf03",
+     "title": "IT早报 1118：黄仁勋称愿重返英伟达任 CEO 董事会主席明确反对复职；中国“灵晟”蝉联全球超算榜首；GPT-6.2Astra 和 Sol 发布；苹果回应服务大规模中断...",
+     "source": "IT之家",
+     "url": "https://www.ithome.com/1/028/595.htm",
+     "published_at": 1794959031.0
+    }
+   ]
+  },
+  {
+   "text": "【to】The former CEO offered to return to his top role at the company after hi",
+   "keyword": "to",
+   "news_ids": [
+    "8da3d615acdcecf4"
+   ],
+   "refs": [
+    {
+     "id": "8da3d615acdcecf4",
+     "title": "Nvidia says it doesn’t plan to reappoint Jensen Huang as CEO",
+     "source": "TechCrunch",
+     "url": "https://techcrunch.com/2026/11/17/nvidia-says-it-doesnt-plan-to-reappoint-jensen-huang-as-ceo/",
+     "published_at": 1794955347.0
+    }
+   ]
+  },
+  {
+   "text": "【微软】IT之家 11 月 18 日消息，美国多家科技企业近日接连遭遇技术故障，受影响范围从苹果消费者服务延伸至美国国家安全局（NSA）的机密通信网络",
+   "keyword": "微软",
+   "news_ids": [
+    "e59a416fbd60b13b"
+   ],
+   "refs": [
+    {
+     "id": "e59a416fbd60b13b",
+     "title": "美国科技服务接连出现故障：微软、苹果、AWS、银行、空管系统之后，国家安全局机密通信网络也受影响",
+     "source": "IT之家",
+     "url": "https://www.ithome.com/1/028/601.htm",
+     "published_at": 1794961294.0
+    }
+   ]
+  },
+  {
+   "text": "IT之家 11 月 18 日消息，SpaceX 首次用发射塔“筷子”机械臂接住从太空返回的“星舰”后，马斯克表示，未来将把与机械臂接触时被刮掉的",
+   "keyword": "",
+   "news_ids": [
+    "1d00534f05c659ef"
+   ],
+   "refs": [
+    {
+     "id": "1d00534f05c659ef",
+     "title": "加速星舰复用：马斯克回应“筷子”夹火箭太磨，未来改用不锈钢棉",
+     "source": "IT之家",
+     "url": "https://www.ithome.com/1/028/610.htm",
+     "published_at": 1794963419.0
+    }
+   ]
+  },
+  {
+   "text": "IT之家 11 月 18 日消息，徕卡（Leica）昨日（11 月 17 日）推出 ZM 11 系列新款腕表 ——ZM 11 Green Spi",
+   "keyword": "",
+   "news_ids": [
+    "eace5178c623810e"
+   ],
+   "refs": [
+    {
+     "id": "eace5178c623810e",
+     "title": "35 颗宝石、60 小时动储：徕卡推出 ZM 11 Green Spirit 腕表，双层表盘玩转绿色光影",
+     "source": "IT之家",
+     "url": "https://www.ithome.com/1/028/604.htm",
+     "published_at": 1794962541.0
+    }
+   ]
+  },
+  {
+   "text": "IT之家 11 月 18 日消息，据科技媒体 Engadget 今天报道，美国加利福尼亚州 DMV（车辆管理局）已禁止 Waymo 无人驾驶出租",
+   "keyword": "",
+   "news_ids": [
+    "31c7cdd21dfdef9a"
+   ],
+   "refs": [
+    {
+     "id": "31c7cdd21dfdef9a",
+     "title": "美国加州叫停 Waymo 高速公路运营：无人驾驶出租车曾试图超越公路巡警",
+     "source": "IT之家",
+     "url": "https://www.ithome.com/1/028/600.htm",
+     "published_at": 1794960922.0
+    }
+   ]
+  },
+  {
+   "text": "IT之家 11 月 18 日消息，Digital Foundry（数毛社）在最新一期 DF Direct Weekly 节目中表示，《GTA6》",
+   "keyword": "",
+   "news_ids": [
+    "9b3cd357d3fa7140"
+   ],
+   "refs": [
+    {
+     "id": "9b3cd357d3fa7140",
+     "title": "数毛社称《GTA6》游戏 CPU 需求过高，PS5 Pro 难以实现 40 帧",
+     "source": "IT之家",
+     "url": "https://www.ithome.com/1/028/598.htm",
+     "published_at": 1794960247.0
+    }
+   ]
+  },
+  {
+   "text": "IT之家 11 月 18 日消息，TGA（游戏大奖）现已公布 2026 年度游戏入围名单，以及各奖项入围游戏，最终的颁奖典礼将在 12 月 11",
+   "keyword": "",
+   "news_ids": [
+    "e418f202ab78609b"
+   ],
+   "refs": [
+    {
+     "id": "e418f202ab78609b",
+     "title": "TGA 2026 各奖项入围游戏完整名单公布，《GTA 6》8 项提名领跑",
+     "source": "IT之家",
+     "url": "https://www.ithome.com/1/028/596.htm",
+     "published_at": 1794959364.0
+    }
+   ]
+  },
+  {
+   "text": "Article URL: https://github",
+   "keyword": "",
+   "news_ids": [
+    "5025bbfb765562e5"
+   ],
+   "refs": [
+    {
+     "id": "5025bbfb765562e5",
+     "title": "Microsoft's ONNX Runtime has disappeared from GitHub",
+     "source": "Hacker News",
+     "url": "https://github.com/microsoft/onnxruntime",
+     "published_at": 1794957529.0
+    }
+   ]
+  },
+  {
+   "text": "昨晚，神舟二十四号载人飞船与长征二号F遥二十四运载火箭组合体已转运至发射区，发射场设施设备状态良好",
+   "keyword": "",
+   "news_ids": [
+    "151dec7e17e9604c"
+   ],
+   "refs": [
+    {
+     "id": "151dec7e17e9604c",
+     "title": "神舟二十四号船箭组合体转运至发射区 首次搭载外籍航天员",
+     "source": "cnBeta",
+     "url": "https://www.cnbeta.com.tw/articles/science/1586854.htm",
+     "published_at": 1794956492.0
+    }
+   ]
+  },
+  {
+   "text": "IT之家 11 月 18 日消息，TGA（游戏大奖）今日公布 2026 年度游戏入围名单",
+   "keyword": "",
+   "news_ids": [
+    "501956f7c000c118"
+   ],
+   "refs": [
+    {
+     "id": "501956f7c000c118",
+     "title": "TGA 2026 年度游戏入围名单公布：含《GTA6》《影之刃零》《塞尔达传说：时之笛》重制版等",
+     "source": "IT之家",
+     "url": "https://www.ithome.com/1/028/584.htm",
+     "published_at": 1794956484.0
+    }
+   ]
+  },
+  {
+   "text": "Article URL: https://shivamduggal4",
+   "keyword": "",
+   "news_ids": [
+    "82a100281f6eab11"
+   ],
+   "refs": [
+    {
+     "id": "82a100281f6eab11",
+     "title": "Latent Lattice Language Models",
+     "source": "Hacker News",
+     "url": "https://shivamduggal4.github.io/latent-lattice-language-models/",
+     "published_at": 1794953838.0
+    }
+   ]
+  },
+  {
+   "text": "Article URL: https://calif",
+   "keyword": "",
+   "news_ids": [
+    "9660510089e05a3c"
+   ],
+   "refs": [
+    {
+     "id": "9660510089e05a3c",
+     "title": "Java4Shell: RCE in OpenJDK when processing Base64",
+     "source": "Hacker News",
+     "url": "https://calif.io/java4shell/",
+     "published_at": 1794949888.0
+    }
+   ]
+  }
+ ],
+ "article": {
+  "title": "2026-11-18 新闻总结",
+  "paragraphs": [
+   {
+    "kind": "lead",
+    "text": "今天共收录 117 条新闻，来自 7 家媒体。把标题放在一起看，讨论主要集中在 AI、模型 这几个方向上，其余消息更像是零散补充。"
+   },
+   {
+    "kind": "section",
+    "heading": "AI",
+    "text": "先看「AI」。IT之家 11 月 18 日消息，微软 AI 部门于 11 月 17 日发布全新专用安全模型 C，另有 51 条消息指向同一话题。这类进展更像是把已有能力往工程化落地推了一步，真正的分水岭在于成本和可靠性能不能同时压下来。",
+    "news_ids": [
+     "5a3c5ccc739a343d"
+    ],
+    "refs": [
+     {
+      "id": "5a3c5ccc739a343d",
+      "title": "微软最具性价比网安 AI 模型 MAI Cyber 2 Flash 登场：性能比肩 GPT-6 Astra，每任务成本不到 2%",
+      "source": "IT之家",
+      "url": "https://www.ithome.com/1/028/585.htm",
+      "published_at": 1794956815.0
+     }
+    ]
+   },
+   {
+    "kind": "section",
+    "heading": "公司",
+    "text": "与此同时「公司」。IT之家 11 月 18 日消息，亚马逊创始人杰夫・贝索斯于当地时间 11 月 17 日在 Semafor「硅谷与世界」（Silicon Valley &amp，另有 13 条消息指向同一话题。这条消息短期内的实际影响可能有限，但它指向的方向值得放进观察名单。",
+    "news_ids": [
+     "035ea247102dca2f"
+    ],
+    "refs": [
+     {
+      "id": "035ea247102dca2f",
+      "title": "贝索斯谈英伟达 CEO 人选：公司业务太复杂，若黄仁勋不回归应优先内部选拔",
+      "source": "IT之家",
+      "url": "https://www.ithome.com/1/028/606.htm",
+      "published_at": 1794962731.0
+     }
+    ]
+   },
+   {
+    "kind": "section",
+    "heading": "发布",
+    "text": "另一个值得注意的方向是「发布」。IT早报”时间，大家好，现在是 2026 年 11 月 18 日星期三，今天的重要科技资讯有： 1. 英伟达董事会主席明确表态，另有 10 条消息指向同一话题。技术路线的胜负很少由一次发布会决定，接下来要看的是它能不能被更多团队低成本复用。",
+    "news_ids": [
+     "712dcde2632faf03"
+    ],
+    "refs": [
+     {
+      "id": "712dcde2632faf03",
+      "title": "IT早报 1118：黄仁勋称愿重返英伟达任 CEO 董事会主席明确反对复职；中国“灵晟”蝉联全球超算榜首；GPT-6.2Astra 和 Sol 发布；苹果回应服务大规模中断...",
+      "source": "IT之家",
+      "url": "https://www.ithome.com/1/028/595.htm",
+      "published_at": 1794959031.0
+     }
+    ]
+   },
+   {
+    "kind": "section",
+    "heading": "安全",
+    "text": "相比之下「安全」。IT之家 11 月 18 日消息，美国多家科技企业近日接连遭遇技术故障，另有 1 条消息指向同一话题。技术路线的胜负很少由一次发布会决定，接下来要看的是它能不能被更多团队低成本复用。",
+    "news_ids": [
+     "e59a416fbd60b13b"
+    ],
+    "refs": [
+     {
+      "id": "e59a416fbd60b13b",
+      "title": "美国科技服务接连出现故障：微软、苹果、AWS、银行、空管系统之后，国家安全局机密通信网络也受影响",
+      "source": "IT之家",
+      "url": "https://www.ithome.com/1/028/601.htm",
+      "published_at": 1794961294.0
+     }
+    ]
+   },
+   {
+    "kind": "glossary",
+    "items": [
+     {
+      "term": "AGI",
+      "desc": "通用人工智能，指能在各类任务上都接近人类水平、而不是只擅长单一任务的 AI"
+     },
+     {
+      "term": "AI",
+      "desc": "人工智能，让机器完成识别、生成、判断等原本需要人做的任务"
+     },
+     {
+      "term": "AIGC",
+      "desc": "由 AI 生成内容，包括文字、图片、音频和视频"
+     },
+     {
+      "term": "IPO",
+      "desc": "首次公开募股，公司第一次把股票卖给公众并上市"
+     },
+     {
+      "term": "LLM",
+      "desc": "大语言模型，主打文字理解与生成，是「大模型」的同义词"
+     },
+     {
+      "term": "数据中心",
+      "desc": "集中放置服务器、供电与散热设施的大型机房"
+     }
+    ]
+   },
+   {
+    "kind": "outlook",
+    "text": "把这几条放在一起看，最值得跟踪的是 AI 和 模型 两条线：一条决定技术能走多远，一条决定它多快能落到普通人的日常里。至于其他消息，可以先放进观察名单，等后续有更实的进展再判断。"
+   }
+  ],
+  "word_count": 647
+ },
+ "ai_enhanced": false,
+ "schema": 1,
+ "window_bj": {
+  "start": "2026-11-18 00:00",
+  "end": "2026-11-18 09:00"
+ }
+}

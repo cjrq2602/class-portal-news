@@ -1,8 +1,476 @@
 {
  "date": "2026-11-18",
- "generated_at": 1794956994.1074932,
- "count": 84,
+ "generated_at": 1794967967.0344021,
+ "count": 137,
  "items": [
+  {
+   "id": "d8cd5732deda0011",
+   "source": "InfoQ中文",
+   "title": "代码里明明配置了鉴权，服务却仍暴露公网：Shopify 不再相信代码仓库",
+   "url": "https://www.infoq.cn/article/eqUZMBIWrmaH7XxbfGro?utm_source=rss&utm_medium=article",
+   "summary": "点击查看原文>",
+   "published_at": 1794996000.0,
+   "published_bj": "2026-11-18 18:00"
+  },
+  {
+   "id": "c34008d1959cddab",
+   "source": "InfoQ中文",
+   "title": "GitHub 让 AI 接管工作流，单次默认预算 10 美元：是不是太大方了？",
+   "url": "https://www.infoq.cn/article/lMs1bM1muspglUjMr1l3?utm_source=rss&utm_medium=article",
+   "summary": "点击查看原文>",
+   "published_at": 1794988800.0,
+   "published_bj": "2026-11-18 16:00"
+  },
+  {
+   "id": "3246febd886e688c",
+   "source": "IT之家",
+   "title": "消息称《席德 · 梅尔的文明》系列游戏开发方 Firaxis 裁员 60 人，约占员工总数 1/3",
+   "url": "https://www.ithome.com/1/028/630.htm",
+   "summary": "IT之家 11 月 18 日消息，彭博社当地时间昨日报道称，Take-Two 旗下游戏开发工作室 Firaxis Games 同日进行 60 人裁员 ， 约占其员工总数的 1/3 。2K Games 发言人证实，Firaxis 负责人 Heather Hazen 也将离职 。 Firaxis 负责两大经典 IP《席德 · 梅尔的文明》《XCOM（幽浮）》的开发，其最近作品《席德 · 梅尔的文明 VII》在 Steam 平台整体评测“褒贬不一”。 知情人士透露， Firaxis 正在开发一款《XCOM》系列新作 ，尽管遭遇了一系列困难（包括在今年夏季错过了一个重要里程碑），但该项目仍在推进。 2",
+   "published_at": 1794966786.0,
+   "published_bj": "2026-11-18 09:53"
+  },
+  {
+   "id": "57a19bc7ebae24f1",
+   "source": "IT之家",
+   "title": "韩国总统李在明公布防 AI 作弊新招：考试期间发送最高级别灾难警报，让藏匿的手机无处遁形",
+   "url": "https://www.ithome.com/1/028/629.htm",
+   "summary": "IT之家 11 月 18 日消息，韩国总统李在明昨日在 X 平台发文，公布韩国政府正在进行和计划的防止考试作弊政策，其中包括考试期间发送最高级别灾难警报、奖励举报者等。 李在明表示，他在现有应对方案的基础上追加了以下指示： 1、研究在考试开始前和考试期间，不定时发送最高级别的灾难警报。即使考生将手机声音调低或静音，这类警报仍会发出响声。（胆子再肥的考生，总不至于在考试期间让藏着的通信设备响起来，把自己送进去吧？） 2、我们已经和 AI 公司达成协议，将获取考试期间所有用户拍摄试题、向 AI 提问的记录。我还指示制定相关法律，只要政府提出要求，AI 公司就必须提交用户非法索要考试答案的记录。（在",
+   "published_at": 1794966540.0,
+   "published_bj": "2026-11-18 09:49"
+  },
+  {
+   "id": "d3a96b2d5f7902a9",
+   "source": "IT之家",
+   "title": "SELLAS 癌症疫苗 Ⅲ 期试验成功：AML 死亡风险降低 41%，股价飙升 156.36%",
+   "url": "https://www.ithome.com/1/028/628.htm",
+   "summary": "IT之家 11 月 18 日消息，美国生物制药公司 SELLAS Life Sciences Group 昨日宣布其研发的一款实验性癌症疫苗在针对急性髓系白血病（AML）的关键性 3 期临床试验中取得积极结果。 试验数据显示，该疫苗可使患者死亡风险降低 41%，中位总生存期达到 24 个月，显著高于现有最佳治疗方案。 据 SELLAS 发布的公告，这款名为 galinpepimut-S（GPS）的实验性癌症疫苗在 3 期 REGAL 临床试验中达到了主要研究终点 —— 总生存期（OS）。接受疫苗治疗的患者中位总生存期为 24 个月，而对照组患者为 14.7 个月，死亡风险降低 41%，风险比（",
+   "published_at": 1794966384.0,
+   "published_bj": "2026-11-18 09:46"
+  },
+  {
+   "id": "f18535f687191674",
+   "source": "TechCrunch",
+   "title": "Nvidia’s startup stakes ballooned to $65B, but Huang’s exit puts future deals in doubt",
+   "url": "https://techcrunch.com/2026/11/17/nvidias-startup-stakes-ballooned-to-65b-but-huangs-exit-puts-future-deals-in-doubt/",
+   "summary": "The value of Nvidia’s private investments has nearly tripled over the past nine months, fueled by Jensen Huang’s aggressive dealmaking and rising valuations of its existing portfolio companies.",
+   "published_at": 1794966261.0,
+   "published_bj": "2026-11-18 09:44"
+  },
+  {
+   "id": "e465725cc1dad6e4",
+   "source": "IT之家",
+   "title": "英特尔已布局 Razor Lake 系列处理器，S、U、L 三版本现身 Linux 内核",
+   "url": "https://www.ithome.com/1/028/627.htm",
+   "summary": "IT之家 11 月 18 日消息，科技媒体 Phoronix 发布博文， 报道称英特尔已于 11 月 14 日向 Linux 内核邮件列表提交内核补丁，这是面向下一代处理器 Coral Rapids 和 Razor Lake 的首批内核补丁。 这批补丁目前主要是为两款新处理器建立 CPU 家族与型号识别信息，属于硬件正式上市前的“早期适配”步骤，两款产品预计要到 2028 年才会正式出货。 其中 Coral Rapids 是英特尔明年推出的 Xeon Diamond Rapids 服务器处理器的后续产品，被识别为 Family 19 Model 8，主要面向数据中心、云计算和 AI 等高负载场",
+   "published_at": 1794966245.0,
+   "published_bj": "2026-11-18 09:44"
+  },
+  {
+   "id": "3178cb18d5e95c7f",
+   "source": "IT之家",
+   "title": "英伟达临时 CEO 克雷斯：黄仁勋离职后，客户和员工都不会流失",
+   "url": "https://www.ithome.com/1/028/626.htm",
+   "summary": "IT之家 11 月 18 日消息，据 CNBC 今日报道，英伟达临时 CEO 科莱特・克雷斯（Colette Kress）表示，尽管黄仁勋已经辞职， 但公司主要客户依然高度支持英伟达 。 克雷斯强调，主要客户持续对英伟达的产品表达了兴趣。“有很多这些客户联系我，说‘看到一切都完好无损，真好。很高兴看到供应更多了。我需要更多产能’”。 然而，客户需求并不是英伟达面临的唯一问题。黄仁勋的离职也引发了外界质疑，即英伟达是否能留住那些帮助其在 AI 领域建立主导地位的工程师和其他员工。 克雷斯否认了对潜在员工流失的担忧 ，并向 CNBC 强调：“公司是在员工视英伟达为毕生事业的理念下建立的，许多人在这",
+   "published_at": 1794965993.0,
+   "published_bj": "2026-11-18 09:39"
+  },
+  {
+   "id": "61adb063898fbc11",
+   "source": "IT之家",
+   "title": "谷歌签署超 5 亿美元清洁能源购电协议：2030 年起向 Quaise 采购 50MW 深层地热能",
+   "url": "https://www.ithome.com/1/028/624.htm",
+   "summary": "IT之家 11 月 18 日消息，深层超高温地热发电企业 Quaise Energy 当地时间 17 日宣布，该企业已同 Google（谷歌）签署一项购电协议， 计划从 2030 年开始向谷歌位于美国俄勒冈州的数据中心站点交付 50MW 的清洁电力 。 根据《华尔街日报》的报道，这笔交易 总价值超 5 亿美元 （IT之家注：现汇率约合 33.4 亿元人民币） 。 IT之家了解到，Quaise Energy 拥有一套基于毫米波技术的深层钻孔系统，深度达到 3~20km，温度达到 300~500℃， 每口深层钻井可提供 10 倍于传统地热系统的能量产出 。 该企业的旗舰站点 Project Obs",
+   "published_at": 1794965911.0,
+   "published_bj": "2026-11-18 09:38"
+  },
+  {
+   "id": "f17639677b071b63",
+   "source": "IT之家",
+   "title": "让微软 Xbox 360 变身炸弹：巴西电子商店开业当天遭袭，嫌疑人为竞争对手",
+   "url": "https://www.ithome.com/1/028/622.htm",
+   "summary": "IT之家 11 月 18 日消息，据 Dexerto 当地时间 11 月 17 日报道，巴西警方逮捕了一名当地电子产品商人，怀疑其将炸弹藏入一台 Xbox 360 并故意在竞争对手新店开业当天引爆，以杀害对方。 此次事件发生在巴西圣安德烈市（Santo André），该市位于圣保罗附近。此次爆炸造成店铺严重损毁，但店主和另一名在场人员及时逃离，均未死亡。 警方怀疑，39 岁的商人埃弗顿・吉田津・利马（Everton Yoshizumi Lima）策划了这起袭击，安排他人将经过改装的 Xbox 360 送到竞争对手的店铺，谎称游戏机需要进行改装才能运行游戏。 监控录像显示，一名送货人员将游戏机送",
+   "published_at": 1794965350.0,
+   "published_bj": "2026-11-18 09:29"
+  },
+  {
+   "id": "0205e99f0845f9e0",
+   "source": "IT之家",
+   "title": "谷歌公布美国 2026 年度最佳榜单：《明日方舟：终末地》摘得年度最佳游戏",
+   "url": "https://www.ithome.com/1/028/621.htm",
+   "summary": "IT之家 11 月 18 日消息，谷歌昨日（11 月 17 日）发布博文，公布 2026 年度最佳榜单（Best of Play 2026），覆盖应用、游戏和图书等。其中美国区年度最佳应用为 AI 笔记工具 Notability， 年度最佳游戏为《明日方舟：终末地》（Arknights: Endfield）。 在应用类别中，AI 笔记与 PDF 工具 Notability: AI &amp; PDF Notes 获评年度最佳应用。该应用原生适配安卓，可将设备变为 AI 工作台，支持与资料对话、整理学习内容、生成个性化测验及优化工作流程。 游戏方面，热门 IP 衍生作《明日方舟：终末地》摘得年度",
+   "published_at": 1794965347.0,
+   "published_bj": "2026-11-18 09:29"
+  },
+  {
+   "id": "b54cebf83e392580",
+   "source": "IT之家",
+   "title": "消息称三星电子计划在 CES 2027 公布支持自动起身暂停的电视",
+   "url": "https://www.ithome.com/1/028/620.htm",
+   "summary": "IT之家 11 月 18 日消息，韩国《中央日报》当地时间 17 日报道称，三星电子计划在 CES 2027 上公布一款名称暂定为 \"TV-1\" 的创新智能电视设备，可通过人工智能技术捕获观众的动作和兴趣，并据此调整观看环境。 \"TV-1\" 将支持一项实用功能： 当用户起身休息 / 喝水时 ， 其能自动停止视频内容的播 放 ；而当用户重新落座时，播放也会自动恢复。 该产品的设计理念是让电视化身客厅中的 AI 伴侣。其 还允许用户直接在电视端查找电视剧中演员所穿的衣服或屏幕上出现的餐厅的信息 。 三星电子正努力提升电视售出后的附加增值收入，以抵御电视更换周期延长、对手竞争力提升对其 VD（视觉显",
+   "published_at": 1794965303.0,
+   "published_bj": "2026-11-18 09:28"
+  },
+  {
+   "id": "5c2b5b31c2d7746f",
+   "source": "IT之家",
+   "title": "VAIO 更新 F16、Pro BM 笔记本：英特尔 Wildcat Lake 平台，最高 32GB 内存",
+   "url": "https://www.ithome.com/1/028/619.htm",
+   "summary": "IT之家 11 月 18 日消息，VAIO 现已更新旗下笔记本电脑产品 F16 和 Pro BM。新品采用英特尔 Wildcat Lake 平台，最高可选 32GB 内存。 ▲ VAIO F16 据介绍，VAIO F16 和 Pro BM 均配备 16 英寸防眩光屏幕，前者提供 WUXGA（IT之家注：1920*1200）和 WQXGA（2560*1600）面板，后者仅提供 WUXGA。 ▲ VAIO Pro BM 配置方面，F16 可选英特尔酷睿 7 350、酷睿 5 320 和酷睿 3 304 处理器；Pro BM 可选酷睿 7 360、酷睿 7 350、酷睿 5 330 和酷睿 5 32",
+   "published_at": 1794965104.0,
+   "published_bj": "2026-11-18 09:25"
+  },
+  {
+   "id": "8488d7bb76c77e48",
+   "source": "IT之家",
+   "title": "日本乐天证券遭黑客攻击，1125 万用户信息面临泄露风险",
+   "url": "https://www.ithome.com/1/028/618.htm",
+   "summary": "IT之家 11 月 18 日消息，日本乐天证券昨日（11 月 17 日）发布公告称，有第三方未经授权情况下访问其部分系统， 导致约 1,125 万个账户的客户信息存在泄露风险，目前公司已采取紧急措施。 IT之家援引博文介绍，在本次存在泄露风险 1,125 万个账号中，主要包括账户的分行代码（用于识别分行等的编号）、客户代码和登录 ID 等。 而其中还有 447 万个账户存在更高级别安全风险，除上述信息外，泄露的信息还包括姓名、出生日期、地址、电话号码、电子邮件地址、就业和提款账户信息、申报的年收入和金融资产、按产品分类的资产信息以及上次登录日期。 乐天证券称，11 月 16 日检测到部分系统可",
+   "published_at": 1794964896.0,
+   "published_bj": "2026-11-18 09:21"
+  },
+  {
+   "id": "6158db7047bf3e2d",
+   "source": "IT之家",
+   "title": "小米雷军 APEC 现场挨个发名片，参会时给台下朋友拍合影",
+   "url": "https://www.ithome.com/1/028/617.htm",
+   "summary": "IT之家 11 月 18 日消息，据广东广播电视台报道，小米创办人、董事长兼 CEO 雷军 11 月 17 日出席 APEC 工商领导人峰会， 现场社交发名片 。网友调侃“不管身价多少亿，该发名片还得发！” 雷军还在峰会上发言 ，表示具身智能机器人肯定是一个巨大的产业机会， 它的想象力会超过汽车产业 。小米特别看好 AI 走向物理世界以后带来的空间和想象力，这给整个亚太经济会带来巨大的机会。 IT之家注意到，雷军个人微博还晒出了一张照片，是他在台上参加峰会时， 给台下朋友们拍的一张合影 。 IT之家注：2026 年 APEC 工商领导人峰会 11 月 17 日至 18 日在深圳举办，主题为“共",
+   "published_at": 1794964559.0,
+   "published_bj": "2026-11-18 09:15"
+  },
+  {
+   "id": "0d1764575fd468c4",
+   "source": "IT之家",
+   "title": "智能汽车当“考卷”：全国职工职业技能大赛首次增设汽车装调运维赛项，32 支队伍 570 名选手比拼新兴工种",
+   "url": "https://www.ithome.com/1/028/616.htm",
+   "summary": "IT之家 11 月 18 日消息，据央视新闻今日报道，第九届全国职工职业技能大赛决赛于 11 月 17 日至 19 日在湖南株洲举行，本届大赛首次增设智能网联汽车装调运维竞赛工种，全国 32 支队伍、570 名选手参与各工种比拼。 其中，智能网联汽车装调运维员赛项的考核载体是一辆存在真实故障的智能汽车。选手需在 120 分钟内判断故障数量并逐一排除，随后在模拟路段完成识别障碍、避障、指定轨迹行驶及红绿灯识别等指令任务。 该赛项聚焦智能网联汽车感知、决策、控制核心模块，综合考察设备安装、调试标定、集成测评、故障排查与日常运维能力，检验选手对“车、路、云”全链路知识的掌握与应用水平（IT之家注：“",
+   "published_at": 1794964551.0,
+   "published_bj": "2026-11-18 09:15"
+  },
+  {
+   "id": "01292ea6907c642a",
+   "source": "IT之家",
+   "title": "已狂揽 15.4 亿美元，Sensor 统计《GTA 6》游戏预购已破 1588 万份创纪录",
+   "url": "https://www.ithome.com/1/028/614.htm",
+   "summary": "IT之家 11 月 18 日消息，根据市场调查机构 Sensor Tower 昨日（11 月 17 日）公布最新预估统计数据， 全球《侠盗猎车手 VI》（GTA 6）游戏累计预购量已达 1,588 万份，累计预估营收 15.4 亿美元 （现汇率约合 102.87 亿元人民币） 。 从平台分布看，索尼 PlayStation 平台贡献约 1,183 万份预购、占比 75%；Xbox 平台为约 404 万份，占比 25%。两大平台的预购收入差距同样明显，PS 端预购收入 11.5 亿美元 （现汇率约合 76.82 亿元人民币） ，Xbox 端为 3.9 亿美元 （现汇率约合 26.05 亿元人民币",
+   "published_at": 1794964121.0,
+   "published_bj": "2026-11-18 09:08"
+  },
+  {
+   "id": "1040830e24428853",
+   "source": "IT之家",
+   "title": "谷歌钱包登陆苹果 iOS 系统，暂不支持非接触支付",
+   "url": "https://www.ithome.com/1/028/613.htm",
+   "summary": "IT之家 11 月 18 日消息，谷歌公司今天宣布，Google 钱包应用程序已在美国登陆苹果 iOS 系统， 用户可在此一站式管理购物记录 、 门票和登机牌等 。 IT之家了解到，iOS 版 Google 钱包支持与 Gmail 等谷歌应用自动同步，获取物流信息、电子登机牌、演唱会门票等数据。用户还可用手机摄像头扫描实体会员卡、健身房会员卡等，将其电子化。 同时，该应用还支持线上结账等功能，用户可在一个安全的平台上轻松查看和管理订单确认信息、收据及配送更新。 不过需要注意的是， iOS 版 Google 钱包暂时不支持非接触支付功能 。",
+   "published_at": 1794964120.0,
+   "published_bj": "2026-11-18 09:08"
+  },
+  {
+   "id": "2573a6860c7a27e1",
+   "source": "IT之家",
+   "title": "AMD CES 2027 发布活动定档当地时间 1 月 5 日 10:00",
+   "url": "https://www.ithome.com/1/028/612.htm",
+   "summary": "IT之家 11 月 18 日消息，AMD 计算与图形事业部总经理 Jack Huynh 北京时间今日发布预告：该企业将于当地时间明年 1 月 5 日 10:00 在美国内华达州拉斯维加斯举行 CES 2027 发布活动。 Jack Huynh 表示： 下一代计算时代将非同寻常。 我们正在重新构想可能性的边界，突破当今的限制，创造一个充满无限可能的未来 —— 这些可能性曾是我们梦寐以求的。 我迫不及待想在 CES 上向大家展示未来的一瞥。 从时间点上来看， AMD 预计将在 CES 上发布其基于 \"Zen 6\" CPU 微架构的客户端处理器 ，如移动端的 \"Medusa Point\"、桌面端的 ",
+   "published_at": 1794963724.0,
+   "published_bj": "2026-11-18 09:02"
+  },
+  {
+   "id": "3f50776ee92b0ffe",
+   "source": "IT之家",
+   "title": "博世考虑出售印度技术业务，塔塔 TCS 有望接手其近 3000 名员工",
+   "url": "https://www.ithome.com/1/028/611.htm",
+   "summary": "IT之家 11 月 18 日消息，德国汽车零部件制造商博世（Robert Bosch GmbH）正在初步讨论出售其部分印度技术业务，印度最大 IT 服务提供商塔塔咨询服务公司（TCS）已成为潜在买家之一。 据印度媒体《Mint》今日报道，博世正在评估剥离部分技术和产品开发业务的方案，以控制成本。目前相关谈判仍处于早期阶段，交易尚未敲定，预计下个月将进一步提交董事会层面讨论，之后才会作出决定。 博世于 1997 年在印度班加罗尔设立技术部门，最初名为博世全球软件技术公司（Bosch Global Software Technologies，BGSW），此后又在海得拉巴、浦那和哥印拜陀设立业务部门",
+   "published_at": 1794963646.0,
+   "published_bj": "2026-11-18 09:00"
+  },
+  {
+   "id": "1d00534f05c659ef",
+   "source": "IT之家",
+   "title": "加速星舰复用：马斯克回应“筷子”夹火箭太磨，未来改用不锈钢棉",
+   "url": "https://www.ithome.com/1/028/610.htm",
+   "summary": "IT之家 11 月 18 日消息，SpaceX 首次用发射塔“筷子”机械臂接住从太空返回的“星舰”后，马斯克表示，未来将把与机械臂接触时被刮掉的烧蚀隔热材料， 换成更耐摩擦、可重复使用的不锈钢棉，从而减少返修时间，推进星舰快速复用。 根据此前 SpaceX 公布的回收画面，在“筷子夹火箭”过程中，飞船侧面的黑色烧蚀隔热层在与机械臂接触时出现明显刮擦、脱落。IT之家附上相关图片如下： 马斯克随后在社交平台回应称，未来飞行中，这部分材料将被“不锈钢棉”取代。这里的“不锈钢棉”是一种经过工程设计的金属纤维隔热材料，它既能像纤维层一样将空气困在纤维间隙中，从而降低热传导。 与会在再入大气层时逐渐烧蚀、",
+   "published_at": 1794963419.0,
+   "published_bj": "2026-11-18 08:56"
+  },
+  {
+   "id": "471847ab259e8cb8",
+   "source": "Hacker News",
+   "title": "Cerebras Disaggregated Inference",
+   "url": "https://www.cerebras.ai/blog/cerebras-launches-disaggregated-inference",
+   "summary": "Article URL: https://www.cerebras.ai/blog/cerebras-launches-disaggregated-inference Comments URL: https://news.ycombinator.com/item?id=50540472 Points: 19 # Comments: 3",
+   "published_at": 1794963383.0,
+   "published_bj": "2026-11-18 08:56"
+  },
+  {
+   "id": "3da1661401bae5fd",
+   "source": "IT之家",
+   "title": "微软 CEO 纳德拉称自己是“AGI 信徒”，但否认 AI 具有意识",
+   "url": "https://www.ithome.com/1/028/609.htm",
+   "summary": "IT之家 11 月 18 日消息，据科技媒体 The Verge 今天报道，微软 CEO 萨提亚 · 纳德拉在一场圆桌讨论中表示， 自己如今已成为“AGI 信徒”（AGI-pilled） 。 IT之家从原报道获悉，纳德拉表示：“我之所以相信 AGI，是因为我们需要在经济层面思考，围绕 AGI，政治经济体系将会形成怎样的组织结构？” 不过这名 CEO 认为，Claude 这类前沿 AI 模型并没有意识。他认同微软 AI 负责人苏莱曼的观点，即企业不应为 AI 模型赋予权利，也不应该将它们视为可能具有道德地位的存在。 苏莱曼此前曾表示，Anthropic 团队已经陷入“自我催眠”状态，并警告称这种",
+   "published_at": 1794963177.0,
+   "published_bj": "2026-11-18 08:52"
+  },
+  {
+   "id": "03fa1be916627547",
+   "source": "IT之家",
+   "title": "英伟达加码供应链，向 ABF 基板制造商景硕投资超 10 亿美元",
+   "url": "https://www.ithome.com/1/028/608.htm",
+   "summary": "IT之家 11 月 18 日消息，NVIDIA（英伟达）当地时间昨日宣布在 今年 10 月宣布的合作 基础上进一步深化同供应链伙伴的关系，支持人工智能基础设施建设。 根据最新公告， 英伟达将向中国台湾地区半导体封装基板制造商景硕 (Kinsus) 投资超 10 亿美元 （IT之家注：现汇率约合 66.8 亿元人民币） 现金 ，购买设备支持景硕桃园幼狮厂的扩产计划，目标将该厂的先进 ABF 封装基板扩大 3.5 倍以上。 景硕幼狮厂新产能预计 2027 年下半年开出，2028Q3 达产。如果仍然不足，英伟达计划继续参与景硕后续的产能扩充计划，目标至少在 2030 年前掌握稳定产能。 英伟达还 修",
+   "published_at": 1794963114.0,
+   "published_bj": "2026-11-18 08:51"
+  },
+  {
+   "id": "b8e3b405e155f099",
+   "source": "Hacker News",
+   "title": "ID.me terms required for IRS sign-in",
+   "url": "https://consumerrights.wiki/w/ID.me_terms_required_for_IRS_sign-in",
+   "summary": "Article URL: https://consumerrights.wiki/w/ID.me_terms_required_for_IRS_sign-in Comments URL: https://news.ycombinator.com/item?id=50540437 Points: 84 # Comments: 12",
+   "published_at": 1794963105.0,
+   "published_bj": "2026-11-18 08:51"
+  },
+  {
+   "id": "3c624522ef39a7df",
+   "source": "少数派",
+   "title": "派早报：国区 App Store 将 AIGC 合规设为上架必填、OpenAI 发布 GPT-6.2 Astra 等",
+   "url": "https://sspai.com/post/119210",
+   "summary": "iPhone Duo 测试 2D 人脸解锁功能，松下发布紧凑型电影摄影机 SHX1 等。 查看全文",
+   "published_at": 1794962763.0,
+   "published_bj": "2026-11-18 08:46"
+  },
+  {
+   "id": "035ea247102dca2f",
+   "source": "IT之家",
+   "title": "贝索斯谈英伟达 CEO 人选：公司业务太复杂，若黄仁勋不回归应优先内部选拔",
+   "url": "https://www.ithome.com/1/028/606.htm",
+   "summary": "IT之家 11 月 18 日消息，亚马逊创始人杰夫・贝索斯于当地时间 11 月 17 日在 Semafor「硅谷与世界」（Silicon Valley &amp; The World）大会上接受采访时谈到了英伟达的情况。 贝索斯建议英伟达董事会，在寻找黄仁勋的正式继任者时，优先考虑公司内部人选。他表示，如果英伟达不让黄仁勋回归，就不应该从外部聘请新 CEO，因为英伟达的业务过于复杂，外部高管接手后成功的机会非常小。 贝索斯表示，如果英伟达不重新聘请黄仁勋，他不会建议董事会从外部寻找继任者。他认为，复杂企业的外部 CEO 成功概率微乎其微，因此从外部引进高管应该是最后的选择。 在此之前，贝索斯曾",
+   "published_at": 1794962731.0,
+   "published_bj": "2026-11-18 08:45"
+  },
+  {
+   "id": "cebc5ba858372c80",
+   "source": "IT之家",
+   "title": "欧洲机器人行业规模最大融资之一：Genesis AI 完成 5 亿美元 A 轮融资，估值 35 亿美元",
+   "url": "https://www.ithome.com/1/028/605.htm",
+   "summary": "IT之家 11 月 18 日消息，据路透社报道，法国通用机器人公司 Genesis AI 现已完成 5 亿美元 （IT之家注：现汇率约合 33.4 亿元人民币） A 轮融资， 估值达 35 亿美元 （现汇率约合 233.8 亿元人民币） 。这是欧洲机器人行业规模最大的融资项目之一。 据报道，参与融资的机构和个人有谷歌前 CEO 施密特、硅谷风投公司 Khosla Ventures、法国科技企业家泽维尔 · 尼尔，以及英伟达和法国政府支持的投资机构 Bpifrance。Khosla Ventures、Premji Invest 和 Eclipse。 Genesis 首席执行官 Zhou Xian",
+   "published_at": 1794962651.0,
+   "published_bj": "2026-11-18 08:44"
+  },
+  {
+   "id": "eace5178c623810e",
+   "source": "IT之家",
+   "title": "35 颗宝石、60 小时动储：徕卡推出 ZM 11 Green Spirit 腕表，双层表盘玩转绿色光影",
+   "url": "https://www.ithome.com/1/028/604.htm",
+   "summary": "IT之家 11 月 18 日消息，徕卡（Leica）昨日（11 月 17 日）推出 ZM 11 系列新款腕表 ——ZM 11 Green Spirit。 这款腕表以“绿色”为视觉核心，通过双层表盘结构，让颜色随光线和观察角度在绿色与灰色之间变化。 新款采用 41 毫米不锈钢表壳，厚度 13 毫米，防水深度达 100 米。表盘上的时标采用拉丝与抛光结合的工艺，指针则经过钻石切割处理，在不同角度下呈现更丰富的反光层次；3 点位设有日期显示窗，指针与时标均填充瑞士 Grade A Super-LumiNova 夜光材料，便于弱光环境读取时间。 动力方面，ZM 11 Green Spirit 搭载徕卡",
+   "published_at": 1794962541.0,
+   "published_bj": "2026-11-18 08:42"
+  },
+  {
+   "id": "a2d13fd7407b0c5f",
+   "source": "IT之家",
+   "title": "微软联合埃森哲、Adobe、万事达卡、沃尔沃等 40 多家组织推进 AI 标准：强调观察、验证和控制，覆盖闭源和开放权重模型",
+   "url": "https://www.ithome.com/1/028/603.htm",
+   "summary": "IT之家 11 月 18 日消息，微软今日在 Ignite 大会上宣布启动 AI 透明度计划（AI Transparency Initiative），与埃森哲、Adobe、毕马威、万事达卡、沃尔沃汽车等 40 多家组织合作，共同推动制定适用于不同 AI 模型和服务提供商的开放标准，以加强 AI 系统的透明度、安全性和治理能力。 微软董事长兼 CEO 萨提亚・纳德拉宣布，公司将与客户及合作伙伴展开合作，推动建立一套开放、通用的 AI 安全与治理框架。 微软表示，随着企业将 AI 模型接入内部数据、工具、凭据和基础设施，AI 智能体（Agent）已经能够在不需要人类逐步审批的情况下自主执行任务。但",
+   "published_at": 1794962256.0,
+   "published_bj": "2026-11-18 08:37"
+  },
+  {
+   "id": "e59a416fbd60b13b",
+   "source": "IT之家",
+   "title": "美国科技服务接连出现故障：微软、苹果、AWS、银行、空管系统之后，国家安全局机密通信网络也受影响",
+   "url": "https://www.ithome.com/1/028/601.htm",
+   "summary": "IT之家 11 月 18 日消息，美国多家科技企业近日接连遭遇技术故障，受影响范围从苹果消费者服务延伸至美国国家安全局（NSA）的机密通信网络。 从航空出行和银行交易，到美国国家安全局的机密工作，一连串技术故障正在扰乱美国社会的日常运转，令公众对老化技术基础设施愈发不信任。 今日凌晨，苹果因内部软件更新引发大范围服务中断，导致部分用户无法正常使用 iCloud、App Store、Apple Pay 等服务。与此同时，美国国家安全局内部用于传输机密信息的网络 NSANet 也出现故障。 据美国有线电视新闻网（CNN）和 CBS 新闻报道，美国国家安全局用于内部传输和共享机密信息的网络 NSAN",
+   "published_at": 1794961294.0,
+   "published_bj": "2026-11-18 08:21"
+  },
+  {
+   "id": "6e3a6229fefd6c3b",
+   "source": "Hacker News",
+   "title": "Google's AI answers reducing search traffic by 40%",
+   "url": "https://revscope.co/blog/search-seo-geo-2026/",
+   "summary": "Article URL: https://revscope.co/blog/search-seo-geo-2026/ Comments URL: https://news.ycombinator.com/item?id=50540178 Points: 74 # Comments: 44",
+   "published_at": 1794961078.0,
+   "published_bj": "2026-11-18 08:17"
+  },
+  {
+   "id": "4aa85cd84fb8ab72",
+   "source": "TechCrunch",
+   "title": "Nvidia promises that revenue will keep soaring — for now",
+   "url": "https://techcrunch.com/2026/11/17/nvidia-promises-that-revenue-will-keep-soaring-for-now/",
+   "summary": "Despite the turmoil Nvidia is in after the departure of its disgraced founder and CEO Jensen Huang, the company projected that its streak of record-breaking revenue isn't about to stop.",
+   "published_at": 1794961010.0,
+   "published_bj": "2026-11-18 08:16"
+  },
+  {
+   "id": "31c7cdd21dfdef9a",
+   "source": "IT之家",
+   "title": "美国加州叫停 Waymo 高速公路运营：无人驾驶出租车曾试图超越公路巡警",
+   "url": "https://www.ithome.com/1/028/600.htm",
+   "summary": "IT之家 11 月 18 日消息，据科技媒体 Engadget 今天报道，美国加利福尼亚州 DMV（车辆管理局）已禁止 Waymo 无人驾驶出租车在加州高速公路运营。该机构认为， Waymo 的无人驾驶运营对公共安全构成迫在眉睫的威胁 。 IT之家从原报道获悉，加州 DMV 列出了 Waymo 近期的违规事件：在伯灵格姆附近，三辆 Waymo 驶入受限制施工区域； 还有一辆 Waymo 曾试图超越一辆疏导交通的公路巡警车辆 。 同时，Waymo 旗下无人驾驶出租车曾多次试图穿过高速施工区域。该公司自今年 5 月起主动暂停高速公路服务，并于 6 月召回 3800 辆汽车。今年 7 月，Waymo",
+   "published_at": 1794960922.0,
+   "published_bj": "2026-11-18 08:15"
+  },
+  {
+   "id": "394a020546b60d78",
+   "source": "IT之家",
+   "title": "冲击人类史上最大 IPO、发行价每股 70~78 美元：Anthropic 已获准上市，代码为“ANT”",
+   "url": "https://www.ithome.com/1/028/599.htm",
+   "summary": "IT之家 11 月 18 日消息，根据美国证券交易委员会（SEC）昨日（11 月 17 日）公示的上市注册文件，Anthropic 的 A 类普通股已获准在纳斯达克全球精选市场上市， 股票代码为“ANT”，IPO 发行价区间维持每股 70 至 78 美元 （现汇率约合 467.5 至 521 元人民币） 不变。 Form 8-A12B：公司申请证券在纳斯达克等交易所挂牌的登记表，通常会写明交易所、证券类别和拟用股票代码。Form S-1 / S-1/A：IPO 招股说明书及修订稿，包含发行股数、价格区间、募资用途、风险因素和财务资料。 IT之家注：纳斯达克全球精选市场（Nasdaq Globa",
+   "published_at": 1794960730.0,
+   "published_bj": "2026-11-18 08:12"
+  },
+  {
+   "id": "9b3cd357d3fa7140",
+   "source": "IT之家",
+   "title": "数毛社称《GTA6》游戏 CPU 需求过高，PS5 Pro 难以实现 40 帧",
+   "url": "https://www.ithome.com/1/028/598.htm",
+   "summary": "IT之家 11 月 18 日消息，Digital Foundry（数毛社）在最新一期 DF Direct Weekly 节目中表示，《GTA6》这款开放世界大作对 CPU 要求十分高，导致 PS5 Pro 在内的本世代主机只能以最高 30 帧运行。 IT之家注意到，Rockstar 直到游戏发售前不到一周才确认《GTA6》在所有主机最高 30 帧，此前该问题备受玩家关注。 数毛社表示，当游戏处于 30 帧模式时，主机在每帧拥有 33.3 毫秒运算时间算出整个世界、NPC 和物理效果。如果将帧率提升至 60 帧，每帧可用运算时间将缩短至 16.7 毫秒，因此 60 FPS 实在是不太现实。 至于",
+   "published_at": 1794960247.0,
+   "published_bj": "2026-11-18 08:04"
+  },
+  {
+   "id": "eee459cbc31d227d",
+   "source": "TechCrunch",
+   "title": "Stripe backer Atomico calls for Europe to own its success stories",
+   "url": "https://techcrunch.com/2026/11/17/stripe-backer-atomico-calls-for-europe-to-own-its-success-stories/",
+   "summary": "Europe is home to many of the world's fastest growing companies of all time, veteran VC firm Atomico highlighted in its latest annual State of European Tech report.",
+   "published_at": 1794960060.0,
+   "published_bj": "2026-11-18 08:01"
+  },
+  {
+   "id": "70ac709e2bee5f71",
+   "source": "IT之家",
+   "title": "微软自研芯片 Maia 200 投入生产：每瓦 token 性能提升 1.7 倍",
+   "url": "https://www.ithome.com/1/028/597.htm",
+   "summary": "IT之家 11 月 18 日消息，昨日（11 月 17 日）召开的 Ignite 2026 活动中，微软宣布旗下第二代自研人工智能加速器 Maia 200 现已正式投入规模化生产， 并开始在数据中心运行微软最大规模的前沿 AI 大模型。 与“领先 GPU 基础设施”相比，该加速器在 Microsoft Teams、Copilot 和 Cowork 等内置 AI 功能中，每瓦 token 处理量最高提升 1.7 倍。 IT之家注：Maia 200 是微软面向 AI 推理设计的定制芯片，采用台积电 3 纳米工艺，具备 FP4 与 FP8 张量核心、216GB HBM3e 内存及 272MB 片上 ",
+   "published_at": 1794959476.0,
+   "published_bj": "2026-11-18 07:51"
+  },
+  {
+   "id": "e418f202ab78609b",
+   "source": "IT之家",
+   "title": "TGA 2026 各奖项入围游戏完整名单公布，《GTA 6》8 项提名领跑",
+   "url": "https://www.ithome.com/1/028/596.htm",
+   "summary": "IT之家 11 月 18 日消息，TGA（游戏大奖）现已公布 2026 年度游戏入围名单，以及各奖项入围游戏，最终的颁奖典礼将在 12 月 11 日举行。 在本次年度游戏提名中， 《GTA 6》以 8 项提名领跑 ，《控制：共振》和《生化危机：安魂曲》分别获得 6 项提名，《影之刃零》获 5 项提名，《Big Walk》《007：初露锋芒》以及《塞尔达传说：时之笛》重制版则均获得 4 项提名。 IT之家附 TGA 2026 完整提名名单如下： 年度游戏 《007：初露锋芒》 《控制：共振》 《侠盗猎车手 VI》 《影之刃零》 《生化危机：安魂曲》 《塞尔达传说：时之笛》重制版 最佳游戏指导 《",
+   "published_at": 1794959364.0,
+   "published_bj": "2026-11-18 07:49"
+  },
+  {
+   "id": "712dcde2632faf03",
+   "source": "IT之家",
+   "title": "IT早报 1118：黄仁勋称愿重返英伟达任 CEO 董事会主席明确反对复职；中国“灵晟”蝉联全球超算榜首；GPT-6.2Astra 和 Sol 发布；苹果回应服务大规模中断...",
+   "url": "https://www.ithome.com/1/028/595.htm",
+   "summary": "“IT早报”时间，大家好，现在是 2026 年 11 月 18 日星期三，今天的重要科技资讯有： 1. 英伟达董事会主席明确表态：无意让黄仁勋回归重新担任 CEO 英伟达新任董事长哈维・琼斯在财报电话会议上表示，黄仁勋因个人行为违反公司准则辞任，董事会一致接受辞呈且无意让其回归。此前黄仁勋曾表态愿意重返公司出任 CEO。&gt;&gt; 查看详情 2. 2026 年 11 月期 TOP500 超算出炉：中国“灵晟”蝉联第一，新系统数量创历史新低 2026 年 11 月期的 TOP500 榜单前十名没有发生任何变化。排名最高的新系统是韩国的“汉江”(HANGANG)，以 342.6 Petafl",
+   "published_at": 1794959031.0,
+   "published_bj": "2026-11-18 07:43"
+  },
+  {
+   "id": "874f6ad0015a7087",
+   "source": "IT之家",
+   "title": "英伟达 Q3 电话会议：公司业务一切照常，不会急于寻找黄仁勋继任者",
+   "url": "https://www.ithome.com/1/028/594.htm",
+   "summary": "北京时间 11 月 18 日，AI 芯片巨头英伟达公司今天发布了 2027 财年第三季度财报。财报发布后，英伟达临时 CEO 科莱特 · 克雷斯 (Colette Kress)、新任董事会主席哈维 · 琼斯 (Harvey Jones) 出席了电话会议，回答分析师提问。 这是黄仁勋辞去 CEO 后，英伟达首次举行财报电话会议，许多问题正等待解答。 以下是第三财季财报和电话会议要点： —— 英伟达第三财季营收为 1158.44 亿美元，较上年同期的 570.06 亿美元增长 103%；净利润为 652.87 亿美元，较上年同期的 319.10 亿美元增长 105%。 —— 琼斯发表了开场讲话。他",
+   "published_at": 1794958966.0,
+   "published_bj": "2026-11-18 07:42"
+  },
+  {
+   "id": "86450e654be0260c",
+   "source": "IT之家",
+   "title": "微软决策模型 Microsoft-Decision-1.1 登场，跑赢 GPT-6 Luna 与 Gemini",
+   "url": "https://www.ithome.com/1/028/593.htm",
+   "summary": "IT之家 11 月 18 日消息， 微软昨日（11 月 17 日）宣布正式推出 Microsoft-Decision-1.1 决策 AI 模型， 目前已在 Microsoft Foundry、OpenRouter 和 Vercel 平台上线。 该模型面向企业级软件中的高频决策场景，可帮助应用在路由、分类、优先级排序、内容核验和工作流控制等任务中快速做出结构化判断。 价格方面，Microsoft Foundry 的全球标准版输入 token 定价为每百万 token 0.042 美元 （IT之家注：现汇率约合 0.28 元人民币） ，输出 token 免费；美国数据区、欧盟及亚太数据区价格分别为",
+   "published_at": 1794958807.0,
+   "published_bj": "2026-11-18 07:40"
+  },
+  {
+   "id": "d6322e2f8149bc2d",
+   "source": "TechCrunch",
+   "title": "Nvidia is abandoning China after Jensen Huang’s ouster",
+   "url": "https://techcrunch.com/2026/11/17/nvidia-is-abandoning-china-after-jensen-huangs-ouster/",
+   "summary": "Nvidia's interim CEO says the company is done selling chips to China. How much will that cost?",
+   "published_at": 1794958668.0,
+   "published_bj": "2026-11-18 07:37"
+  },
+  {
+   "id": "7457e2272c0279c4",
+   "source": "IT之家",
+   "title": "Steam 突发大规模服务故障：游戏下载、好友列表、云存档均受影响",
+   "url": "https://www.ithome.com/1/028/592.htm",
+   "summary": "IT之家 11 月 18 日消息，Valve 旗下游戏平台 Steam 当地时间 11 月 17 日突发服务故障，商店、游戏下载、好友列表及云存档等多项在线功能受到影响，部分用户即使网络连接正常，也会遇到“No Connection”（无连接）错误。 据多个外媒报道，此次故障导致 Steam 多项依赖网络的功能无法正常使用。用户反馈称，Steam 客户端无法下载游戏，好友列表无法加载，Steam Cloud 云存档无法获取，商店页面也只能显示部分内容。 同时，故障监测平台 Downdetector 的报障数量迅速飙升，刚刚一度收到接近 4.8 万条 Steam 故障报告。 IT之家注：该平台主",
+   "published_at": 1794958380.0,
+   "published_bj": "2026-11-18 07:33"
+  },
+  {
+   "id": "91e1f6fd1cbddd7e",
+   "source": "Hacker News",
+   "title": "Archive Team is archiving the Apple Support Community (closes November 20, 2026)",
+   "url": "https://wiki.archiveteam.org/index.php/Apple_Discussions",
+   "summary": "Article URL: https://wiki.archiveteam.org/index.php/Apple_Discussions Comments URL: https://news.ycombinator.com/item?id=50539747 Points: 80 # Comments: 27",
+   "published_at": 1794958378.0,
+   "published_bj": "2026-11-18 07:32"
+  },
+  {
+   "id": "3b49bb6186901fed",
+   "source": "IT之家",
+   "title": "微软苹果接连宕机，谷歌紧急回应 Gmail 故障传闻“服务运行正常”",
+   "url": "https://www.ithome.com/1/028/591.htm",
+   "summary": "IT之家 11 月 18 日消息，在接连经历了微软 365 和苹果服务大规模故障之后，网上突然又传出“谷歌 Gmail 故障”的传闻。 北京时间今日凌晨，谷歌紧急回应称目前没有发现 Gmail 出现大范围服务中断的迹象，并提醒用户可以通过 Google Workspace 服务状态仪表板查看实时运行情况。 据 TechCrunch 报道，此次回应发生在苹果多项服务出现故障期间。当天，社交媒体 X 上开始流传 Gmail 发生服务中断的消息，部分用户称遇到了邮件收发问题，也有用户表示服务运行正常。谷歌随后主动发布声明，澄清目前没有发现大范围故障。 故障传言可能与监测平台 Downdetector",
+   "published_at": 1794958129.0,
+   "published_bj": "2026-11-18 07:28"
+  },
+  {
+   "id": "f147cbb36c8e97e2",
+   "source": "IT之家",
+   "title": "多语言错误率直降 50%：微软升级医患对话 AI 转录引擎，已覆盖全美 1/3 医师",
+   "url": "https://www.ithome.com/1/028/590.htm",
+   "summary": "IT之家 11 月 18 日消息，昨日（11 月 17 日）召开的 Ignite 2026 活动中， 微软宣布其医疗 AI 产品 Dragon Copilot Transcribe 已正式采用自研语音识别模型 MAI-Transcribe-2。 微软称，该模型是目前速度最快、准确率最高的多语言语音转写模型，现已承担 Dragon Copilot 中 100% 的医患对话转写任务。 在规模化应用方面，Dragon Copilot Transcribe 每月处理约 1000 万次患者就诊场景，并在多语言工作流中实现约 50% 的错误率下降，全美国约三分之一的医师已在使用。微软表示，该模型可识别多种",
+   "published_at": 1794958045.0,
+   "published_bj": "2026-11-18 07:27"
+  },
+  {
+   "id": "7769d7d4a24689b1",
+   "source": "IT之家",
+   "title": "苹果回应服务大规模中断：内部系统更新引发故障，Apple Pay、iCloud、App Store 均受影响",
+   "url": "https://www.ithome.com/1/028/589.htm",
+   "summary": "IT之家 11 月 18 日消息，苹果公司当地时间 11 月 17 日针对宕机事故回应称，由于一次内部系统更新引发技术故障，公司正在努力恢复多项服务。 此次故障影响了 Apple Pay、iCloud、Apple Support 等服务，部分用户无法正常登录账户或使用相关功能。苹果官网监测页面显示，截至目前已全部恢复。 苹果发言人表示，此次服务中断并非网络攻击所致，目前已有许多系统恢复正常运行，公司正在努力让剩余系统尽快恢复上线。 故障监测平台 Downdetector 数据显示，美国东部时间 11 月 17 日 12 时 20 分左右，Apple Pay 相关故障报告一度达到约 2300 条",
+   "published_at": 1794957725.0,
+   "published_bj": "2026-11-18 07:22"
+  },
+  {
+   "id": "5025bbfb765562e5",
+   "source": "Hacker News",
+   "title": "Microsoft's ONNX Runtime has disappeared from GitHub",
+   "url": "https://github.com/microsoft/onnxruntime",
+   "summary": "Article URL: https://github.com/microsoft/onnxruntime Comments URL: https://news.ycombinator.com/item?id=50539610 Points: 132 # Comments: 33",
+   "published_at": 1794957529.0,
+   "published_bj": "2026-11-18 07:18"
+  },
+  {
+   "id": "980728d41f6a61d7",
+   "source": "IT之家",
+   "title": "微软首款语音对语音模型：MAI Realtime 1 登场，起价每分钟 0.01 美元",
+   "url": "https://www.ithome.com/1/028/588.htm",
+   "summary": "IT之家 11 月 18 日消息，在昨日（11 月 17 日）召开的 Ignite 2026 大会上， 微软宣布其首款语音对语音模型 MAI Realtime 1，定位为面向真实企业场景的实时语音 AI 。该模型可处理打断、快速确认和等待对方说完等自然对话细节，并能在嘈杂环境或多人同时说话时理解用户请求。 价格方面，微软称该模型基础语音对语音使用费为每音频分钟 0.01 美元 （IT之家注：现汇率约合 0.067 元人民币） ；若涉及推理，则按每百万输入 token 1 美元 （现汇率约合 6.7 元人民币） 、每百万输出 token 5 美元 （现汇率约合 33.4 元人民币） 另行计费。 ",
+   "published_at": 1794957342.0,
+   "published_bj": "2026-11-18 07:15"
+  },
+  {
+   "id": "be146a19f2378566",
+   "source": "IT之家",
+   "title": "黄仁勋仍可影响英伟达：辞职后仍可提名最多两名董事候选人",
+   "url": "https://www.ithome.com/1/028/587.htm",
+   "summary": "IT之家 11 月 18 日消息，据路透社今日报道，英伟达创始人黄仁勋虽然已经辞去公司 CEO 和董事职务，但仍有机会通过股东提名机制影响公司董事会。 据介绍，黄仁勋符合公司「代理权准入」（Proxy Access）规则，可以在年度股东大会前提名最多两名独立董事候选人。 英伟达规定，连续至少三年持有公司 3% 以上投票权的股东，或由不超过 20 名股东组成的团体，可以提名董事候选人，并要求公司将相关人选列入代理投票材料。 根据伦敦证券交易所集团（LSEG）的数据，黄仁勋及其关联实体持有英伟达股份已超过三年，目前持股比例约为 3.5%，达到相关门槛。 不过，获得提名资格并不意味着黄仁勋可以直接安",
+   "published_at": 1794957287.0,
+   "published_bj": "2026-11-18 07:14"
+  },
+  {
+   "id": "5d3c1d61d3cc1cfb",
+   "source": "IT之家",
+   "title": "Framework 无线触控板键盘开放预订：99 美元，集成 120Hz 精密触控板",
+   "url": "https://www.ithome.com/1/028/586.htm",
+   "summary": "IT之家 11 月 18 日消息，Framework 旗下新品 Wireless Touchpad Keyboard（无线触控板键盘）现已在海外开启预订， 新品定价 99 美元 （IT之家注：现汇率约合 661.2 元人民币） ，预计将在 2027 年第一季度发货。 据介绍，这款键盘采用 Laptop 12 相同的键盘模块， 搭配一块支持 120Hz 刷新率的精密触控板 ，支持蓝牙、2.4G 和 USB-C 连接，兼容 Windows、Linux 和 macOS 等系统。 同时，这款键盘最多支持连接 4 台设备，支持随时切换。内置 1200mAh 可更换电池，充满电后续航时间可超过 1 个月。",
+   "published_at": 1794957102.0,
+   "published_bj": "2026-11-18 07:11"
+  },
   {
    "id": "5a3c5ccc739a343d",
    "source": "IT之家",
@@ -209,6 +677,15 @@
    "summary": "IT之家 11 月 18 日消息，英伟达今日发布 2027 财年（2026 年 1 月 26 日～2027 年 1 月 31 日）前三季度（2026 年 1 月 26 日～2026 年 10 月 25 日）及第三财季（2026 年 7 月 27 日～2026 年 10 月 25 日）报告： 2027 财年前三季度 营业总收入 ：2936.81 亿美元 （IT之家注：现汇率约合 1.96 万亿元人民币） ，同比增长 98.69% 毛利润 ：2199.76 亿美元 （现汇率约合 1.47 万亿元人民币） ，同比增长 114.88% 毛利率 ：74.9%，同比增长 5.6 个百分点 归母净利润 ：1",
    "published_at": 1794950738.0,
    "published_bj": "2026-11-18 05:25"
+  },
+  {
+   "id": "3ea1bcb2a386a655",
+   "source": "Hacker News",
+   "title": "Harvard researchers find AI coding agents shifted the bottleneck to code review",
+   "url": "https://complexdiscovery.com/harvard-researchers-find-ai-coding-agents-shifted-the-bottleneck-to-code-review/",
+   "summary": "Article URL: https://complexdiscovery.com/harvard-researchers-find-ai-coding-agents-shifted-the-bottleneck-to-code-review/ Comments URL: https://news.ycombinator.com/item?id=50538303 Points: 52 # Comments: 80",
+   "published_at": 1794950172.0,
+   "published_bj": "2026-11-18 05:16"
   },
   {
    "id": "9660510089e05a3c",
