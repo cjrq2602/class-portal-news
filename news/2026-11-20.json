@@ -1,7 +1,7 @@
 {
  "date": "2026-11-20",
- "generated_at": 1795116668.2577386,
- "count": 25,
+ "generated_at": 1795129070.2138648,
+ "count": 45,
  "items": [
   {
    "id": "e909b12545ff7adb",
@@ -13,6 +13,114 @@
    "published_bj": "2026-11-20 06:57"
   },
   {
+   "id": "6660652e5d66fb30",
+   "source": "TechCrunch",
+   "title": "Want to see your live AI usage on your Mac’s icons? This clever new app lets you.",
+   "url": "https://techcrunch.com/2026/11/19/want-to-see-your-live-ai-usage-on-your-macs-icons-this-clever-new-app-lets-you/",
+   "summary": "IconSwapper brings your Mac's app icons to life with real-time data, animations, and playful customizations that make your desktop more fun.",
+   "published_at": 1795127606.0,
+   "published_bj": "2026-11-20 06:33"
+  },
+  {
+   "id": "c30815e5694b37bc",
+   "source": "Hacker News",
+   "title": "RegExr: Temporarily Offline",
+   "url": "https://regexr.com/",
+   "summary": "Article URL: https://regexr.com/ Comments URL: https://news.ycombinator.com/item?id=50567374 Points: 4 # Comments: 1",
+   "published_at": 1795127227.0,
+   "published_bj": "2026-11-20 06:27"
+  },
+  {
+   "id": "708b983ac4cf4cac",
+   "source": "Hacker News",
+   "title": "Synology Security Advisory",
+   "url": "https://www.synology.com/en-uk/security/advisory/Synology_SA_26_21",
+   "summary": "Article URL: https://www.synology.com/en-uk/security/advisory/Synology_SA_26_21 Comments URL: https://news.ycombinator.com/item?id=50567209 Points: 28 # Comments: 8",
+   "published_at": 1795126420.0,
+   "published_bj": "2026-11-20 06:13"
+  },
+  {
+   "id": "70fd244ed6c8ee5b",
+   "source": "TechCrunch",
+   "title": "Meta’s new Muse Charm device may cost $300",
+   "url": "https://techcrunch.com/2026/11/19/metas-new-muse-charm-device-may-cost-300/",
+   "summary": "Meta hasn't denied the reporting from The Information, saying only that it will \"have more to share soon\" about its upcoming AI wearable.",
+   "published_at": 1795125486.0,
+   "published_bj": "2026-11-20 05:58"
+  },
+  {
+   "id": "7eddbd91595d1918",
+   "source": "TechCrunch",
+   "title": "These tech outages are giving Y2K, AI agent style",
+   "url": "https://techcrunch.com/2026/11/19/these-tech-outages-are-giving-y2k-ai-agent-style/",
+   "summary": "Are the recent outages in the airline booking systems, banking platforms, and productivity platforms really a coincidence? There's actually likely something deeper going on, cybersecurity experts say.",
+   "published_at": 1795124551.0,
+   "published_bj": "2026-11-20 05:42"
+  },
+  {
+   "id": "4f91f925a3603144",
+   "source": "TechCrunch",
+   "title": "Uber tests rides for kids as young as 10, with extra pay for drivers",
+   "url": "https://techcrunch.com/2026/11/19/uber-tests-rides-for-kids-as-young-as-10-with-extra-pay-for-drivers/",
+   "summary": "Uber is testing the new program in three U.S. cities.",
+   "published_at": 1795124004.0,
+   "published_bj": "2026-11-20 05:33"
+  },
+  {
+   "id": "a885aaae21a1fb63",
+   "source": "Hacker News",
+   "title": "Rebuilding my local voice assistant pipeline",
+   "url": "https://blog.platypush.tech/article/Rewriting-my-voice-assistant-pipeline",
+   "summary": "Article URL: https://blog.platypush.tech/article/Rewriting-my-voice-assistant-pipeline Comments URL: https://news.ycombinator.com/item?id=50566261 Points: 23 # Comments: 2",
+   "published_at": 1795121834.0,
+   "published_bj": "2026-11-20 04:57"
+  },
+  {
+   "id": "f48dab4fde8ef298",
+   "source": "cnBeta",
+   "title": "NAND闪存现货价格两周内下滑约20% 消费需求疲软成为主因",
+   "url": "https://www.cnbeta.com.tw/articles/tech/1587158.htm",
+   "summary": "据行业研究机构TrendForce及《首尔经济日报》报道，NAND闪存的现货价格自10月下旬以来已累计下跌约20%，且这一跌幅仅用了两周时间。市场分析认为，中国贸易商集中抛售库存，叠加消费电子终端需求走弱，是本轮价格快速回落的主要原因。 阅读全文",
+   "published_at": 1795119626.0,
+   "published_bj": "2026-11-20 04:20"
+  },
+  {
+   "id": "54e78aef889ed6ec",
+   "source": "cnBeta",
+   "title": "FCC批准监狱使用手机信号干扰设备 以打击违禁手机和狱内犯罪活动",
+   "url": "https://www.cnbeta.com.tw/articles/tech/1587156.htm",
+   "summary": "美国联邦通信委员会于周四一致投票通过一项新规，允许州立和地方监狱使用手机信号干扰技术。该机构表示，此举旨在遏制违禁手机流入监狱，并防止在押人员利用手机从事犯罪活动。 阅读全文",
+   "published_at": 1795119597.0,
+   "published_bj": "2026-11-20 04:19"
+  },
+  {
+   "id": "c8a221d25cac7297",
+   "source": "cnBeta",
+   "title": "Google为Mac版Gemini推出“电脑操作”功能 AI可代用户完成多步骤任务",
+   "url": "https://www.cnbeta.com.tw/articles/tech/1587154.htm",
+   "summary": "Google周四宣布，其macOS版Gemini桌面应用正式引入“电脑操作”能力，让人工智能能够代表用户执行任务，包括操作原生Mac应用，以及在后台浏览网页。用户只需下达指令，Gemini便可在聊天界面中以实时预览的方式展示操作过程，同时不会占用用户的屏幕和鼠标，用户仍可继续处理其他工作。 阅读全文",
+   "published_at": 1795119551.0,
+   "published_bj": "2026-11-20 04:19"
+  },
+  {
+   "id": "127a4ef936bdff67",
+   "source": "TechCrunch",
+   "title": "The unfolding Jensen Huang scandal: a timeline",
+   "url": "https://techcrunch.com/2026/11/19/nvidia-ceo-jensen-huangs-affair-with-alleged-chinese-spy-a-timeline/",
+   "summary": "Jensen Huang has resigned from Nvidia following an affair, which could have ramifications for national security as the U.S. and China race to develop the most advanced AI infrastructure.",
+   "published_at": 1795119529.0,
+   "published_bj": "2026-11-20 04:18"
+  },
+  {
+   "id": "001a30b85b322523",
+   "source": "cnBeta",
+   "title": "​Google搜索首页迎来重大改版 AI对话入口直接出现在页面上",
+   "url": "https://www.cnbeta.com.tw/articles/tech/1587152.htm",
+   "summary": "Google搜索首页迎来重大改版：AI对话入口将直接出现在页面上，用户无需进入单独界面即可发起、查看和继续与AI的搜索对话。 阅读全文",
+   "published_at": 1795119464.0,
+   "published_bj": "2026-11-20 04:17"
+  },
+  {
    "id": "6bbef3c59051fd66",
    "source": "TechCrunch",
    "title": "Anthropic’s IPO could deliver $156 billion to charity",
@@ -22,6 +130,15 @@
    "published_bj": "2026-11-20 03:10"
   },
   {
+   "id": "256c45bd5cd9944b",
+   "source": "Hacker News",
+   "title": "Should governments slow frontier AI? Jacob Coxon and Robin Hanson debate [video]",
+   "url": "https://www.youtube.com/watch?v=lwfewYL7X0o",
+   "summary": "Article URL: https://www.youtube.com/watch?v=lwfewYL7X0o Comments URL: https://news.ycombinator.com/item?id=50564366 Points: 51 # Comments: 86",
+   "published_at": 1795114036.0,
+   "published_bj": "2026-11-20 02:47"
+  },
+  {
    "id": "8ee830f14935a311",
    "source": "cnBeta",
    "title": "摩托罗拉Razr Flex折叠屏手机新谍照曝光",
@@ -29,6 +146,15 @@
    "summary": "一组据称是摩托罗拉下一代折叠屏手机Razr Flex的实拍图在网上流传。继此前Reddit平台出现一张泄露照片后，新一批图片从多个角度展示了这款设备，包括其完全展开和部分折叠时的状态。这些照片进一步支持了外界的一种判断：宽屏设计可能正在成为折叠屏手机的主流形态。 阅读全文",
    "published_at": 1795113368.0,
    "published_bj": "2026-11-20 02:36"
+  },
+  {
+   "id": "57aa9ecd5c67aeb8",
+   "source": "Hacker News",
+   "title": "The 98% Slot Machine: How Paid Advertising Became an Extraction Tax",
+   "url": "https://globalcommercegraph.com/writing/the-ninety-eight-percent-slot-machine",
+   "summary": "Article URL: https://globalcommercegraph.com/writing/the-ninety-eight-percent-slot-machine Comments URL: https://news.ycombinator.com/item?id=50564159 Points: 138 # Comments: 69",
+   "published_at": 1795113317.0,
+   "published_bj": "2026-11-20 02:35"
   },
   {
    "id": "a9eb8030f63f6f14",
@@ -49,6 +175,15 @@
    "published_bj": "2026-11-20 02:05"
   },
   {
+   "id": "c7f5b16498e7c79f",
+   "source": "Hacker News",
+   "title": "AI Came for the Coders. Understanding Why Tells Us Who's Next",
+   "url": "https://www.robertpeake.com/archives/104254-ai-came-for-the-coders-understanding-why-tells-us-whos-next.html",
+   "summary": "Article URL: https://www.robertpeake.com/archives/104254-ai-came-for-the-coders-understanding-why-tells-us-whos-next.html Comments URL: https://news.ycombinator.com/item?id=50563328 Points: 24 # Comments: 15",
+   "published_at": 1795110218.0,
+   "published_bj": "2026-11-20 01:43"
+  },
+  {
    "id": "0fb3dd891ced8df7",
    "source": "IT之家",
    "title": "Counterpoint：今年 Q3 欧洲智能手机出货同比下滑 18%，创 13 年来多季度新低",
@@ -65,6 +200,33 @@
    "summary": "In some of these instances, employees said Muse surfaced messages about childcare requests they never made, career advice they never asked for, product orders they never placed, and bank account balances that didn't belong to them.",
    "published_at": 1795109920.0,
    "published_bj": "2026-11-20 01:38"
+  },
+  {
+   "id": "48c915b100ddafad",
+   "source": "Hacker News",
+   "title": "Claude solves two open problems in the physics of black holes",
+   "url": "https://www.anthropic.com/research/claude-black-hole-physics",
+   "summary": "Article URL: https://www.anthropic.com/research/claude-black-hole-physics Comments URL: https://news.ycombinator.com/item?id=50563148 Points: 314 # Comments: 140",
+   "published_at": 1795109444.0,
+   "published_bj": "2026-11-20 01:30"
+  },
+  {
+   "id": "c401bc19df9ad437",
+   "source": "Hacker News",
+   "title": "Pancreatic cancer halted by virus injection in three patients",
+   "url": "https://www.newscientist.com/article/2528235-pancreatic-cancer-halted-by-virus-injection-in-three-patients/",
+   "summary": "https://archive.ph/2Et0x Comments URL: https://news.ycombinator.com/item?id=50563066 Points: 367 # Comments: 50",
+   "published_at": 1795109133.0,
+   "published_bj": "2026-11-20 01:25"
+  },
+  {
+   "id": "ef22ece347a06816",
+   "source": "Hacker News",
+   "title": "Anthropic hits $2T in Nasdaq debut",
+   "url": "https://www.reuters.com/business/finance/anthropics-historic-debut-put-ais-promise-peril-wall-st-test-2026-11-19/",
+   "summary": "Article URL: https://www.reuters.com/business/finance/anthropics-historic-debut-put-ais-promise-peril-wall-st-test-2026-11-19/ Comments URL: https://news.ycombinator.com/item?id=50562754 Points: 746 # Comments: 1373",
+   "published_at": 1795107760.0,
+   "published_bj": "2026-11-20 01:02"
   },
   {
    "id": "2574994e90a47c21",
@@ -91,6 +253,15 @@
    "url": "https://www.solidot.org/story?sid=85937",
    "summary": "国际能源署（IEA）发表报告警告，到 2030 年数据中心碳排放量将增加七成。报告称，到 2030 年数据中心的用电量将达到目前的水平的两倍，未来四年 AI 数据中心每年将额外消耗 350 TWh 的电力，这一数字超过了英国全年的总耗电量。IEA 预计到这个十年末，中国 AI 数据中心所需电力中约半数将来自燃煤电厂。其余电力将来自可再生能源，核能发电占比相对较小，天然气发电占比极低。相比下美国数据中心约 60% 的电力将依赖天然气供应。截至今年 8 月，美国已有约 180 GW 的新建天然气发电项目规划为数据中心供电。这一新增天然气发电装机容量，几乎相当于目前整个欧盟已安装的天然气发电总装机量",
    "published_at": 1795106050.0,
+   "published_bj": "2026-11-20 00:34"
+  },
+  {
+   "id": "09f536889693b7ac",
+   "source": "Hacker News",
+   "title": "Launch HN: Onlook (YC W25) – An open-source developer tool for designers",
+   "url": "https://github.com/onlook-dev/onlook/",
+   "summary": "Hey HN, I'm Daniel, founder of Onlook ( https://github.com/onlook-dev/onlook and onlook.com). Onlook is a desktop app that puts a canvas on top of your real codebase, letting you design directly in code with the agent you already use. Over 25,000 designers and developers have supported the project, ",
+   "published_at": 1795106044.0,
    "published_bj": "2026-11-20 00:34"
   },
   {
@@ -164,6 +335,15 @@
    "summary": "开源数据库PostgreSQL 19.0现已正式发布。开发团队表示，此次版本在简化工作负载管理、改进分布式数据处理以及提升性能和开发者体验方面带来了多项更新。此前由于AI和大语言模型生成的大量缺陷报告以及安全问题，PostgreSQL 19的发布进度曾推迟数周。 阅读全文",
    "published_at": 1795105388.0,
    "published_bj": "2026-11-20 00:23"
+  },
+  {
+   "id": "cf534153c9c9efeb",
+   "source": "Hacker News",
+   "title": "UK government forced to admit it issued Apple a secret encryption order",
+   "url": "https://macanorak.com/uk-government-forced-to-admit-it-issued-apple-a-secret-encryption-order/",
+   "summary": "Article URL: https://macanorak.com/uk-government-forced-to-admit-it-issued-apple-a-secret-encryption-order/ Comments URL: https://news.ycombinator.com/item?id=50562113 Points: 420 # Comments: 185",
+   "published_at": 1795105263.0,
+   "published_bj": "2026-11-20 00:21"
   },
   {
    "id": "6dedcc07d8f6c6df",

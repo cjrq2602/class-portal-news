@@ -1,7 +1,7 @@
 {
  "date": "2026-11-19",
- "generated_at": 1795116668.260279,
- "count": 379,
+ "generated_at": 1795129070.2170198,
+ "count": 388,
  "items": [
   {
    "id": "33d39c671654dfb5",
@@ -20,6 +20,24 @@
    "summary": "点击查看原文>",
    "published_at": 1795102888.0,
    "published_bj": "2026-11-19 23:41"
+  },
+  {
+   "id": "c8612020f0fc6a92",
+   "source": "Hacker News",
+   "title": "Show HN: Cornhole News – A Hacker News inspired site for news across the Midwest",
+   "url": "https://cornholenews.news",
+   "summary": "Article URL: https://cornholenews.news Comments URL: https://news.ycombinator.com/item?id=50561515 Points: 163 # Comments: 84",
+   "published_at": 1795102712.0,
+   "published_bj": "2026-11-19 23:38"
+  },
+  {
+   "id": "1d55d3991391ee32",
+   "source": "Hacker News",
+   "title": "Pete warden on local AI, open models, voice interfaces, the future of hardware",
+   "url": "https://thedataexchange.media/pete-warden-moonshine/",
+   "summary": "Article URL: https://thedataexchange.media/pete-warden-moonshine/ Comments URL: https://news.ycombinator.com/item?id=50561508 Points: 195 # Comments: 174",
+   "published_at": 1795102692.0,
+   "published_bj": "2026-11-19 23:38"
   },
   {
    "id": "b8221bad978d5074",
@@ -67,6 +85,15 @@
    "published_bj": "2026-11-19 23:17"
   },
   {
+   "id": "0a40f1b3f65daa76",
+   "source": "Hacker News",
+   "title": "How to Make the Ink Used to Write Hamlet and the Declaration of Independence",
+   "url": "https://lithub.com/how-to-make-the-ink-used-to-write-hamlet-the-declaration-of-independence-and-beethovens-fifth/",
+   "summary": "Article URL: https://lithub.com/how-to-make-the-ink-used-to-write-hamlet-the-declaration-of-independence-and-beethovens-fifth/ Comments URL: https://news.ycombinator.com/item?id=50561170 Points: 60 # Comments: 28",
+   "published_at": 1795101203.0,
+   "published_bj": "2026-11-19 23:13"
+  },
+  {
    "id": "b5fda1521dc7fe06",
    "source": "IT之家",
    "title": "《GTA 6》藏有两个“简单模式”开关：降低敌人血量、减少车辆受损",
@@ -94,6 +121,15 @@
    "published_bj": "2026-11-19 23:03"
   },
   {
+   "id": "884d359143ac9f89",
+   "source": "Hacker News",
+   "title": "Cooling buildings is overtaking heating them as an energy need, IEA says",
+   "url": "https://maccus.fr/en/cooling-overtaking-heating/",
+   "summary": "Article URL: https://maccus.fr/en/cooling-overtaking-heating/ Comments URL: https://news.ycombinator.com/item?id=50560955 Points: 142 # Comments: 96",
+   "published_at": 1795100234.0,
+   "published_bj": "2026-11-19 22:57"
+  },
+  {
    "id": "e7c2504050fff2d1",
    "source": "IT之家",
    "title": "R 星联合创始人谈《GTA》系列为何不用真实车型：授权成本、创作自由等因素",
@@ -118,6 +154,15 @@
    "url": "https://www.ithome.com/1/029/700.htm",
    "summary": "IT之家 11 月 19 日消息，据科技媒体 TechRadar 今天报道，微软官方在 PyPI 发布的 Agent Framework 软件包遭黑客劫持，攻击者将其植入窃取登录凭据和云平台令牌的恶意软件。但幸运的是， 被植入恶意软件的版本仅存在 31 分钟就被删除 。 IT之家了解到，微软 Agent Framework Python 是一款开源工具包，每月下载量已接近 20 万次，可帮助开发者构建 AI 智能体，使其能够调用工具、遵循指令、与其他智能体交互，并执行更加复杂的任务。 11 月 17 日，黑客将 Agent Framework 劫持并发布 1.26.1 版本，其中的恶意软件会在",
    "published_at": 1795099661.0,
+   "published_bj": "2026-11-19 22:47"
+  },
+  {
+   "id": "6bc427c544afe7d4",
+   "source": "Hacker News",
+   "title": "Everything you need to survive and rebuild society",
+   "url": "https://lastbook.org/",
+   "summary": "Article URL: https://lastbook.org/ Comments URL: https://news.ycombinator.com/item?id=50560822 Points: 328 # Comments: 178",
+   "published_at": 1795099638.0,
    "published_bj": "2026-11-19 22:47"
   },
   {
@@ -445,6 +490,15 @@
    "published_bj": "2026-11-19 21:19"
   },
   {
+   "id": "a927d5c6e41f53e5",
+   "source": "Hacker News",
+   "title": "Making 8-page foldable zines from a single A4 sheet in the browser",
+   "url": "https://krthr.co/paper-folds-and-whats-new-in-fanzines-app/",
+   "summary": "Article URL: https://krthr.co/paper-folds-and-whats-new-in-fanzines-app/ Comments URL: https://news.ycombinator.com/item?id=50559719 Points: 213 # Comments: 48",
+   "published_at": 1795094291.0,
+   "published_bj": "2026-11-19 21:18"
+  },
+  {
    "id": "94329df547fcf38a",
    "source": "IT之家",
    "title": "方向盘也能折！方程豹钛 9 搭载比亚迪折叠智舱上市，全栈自研、全球首搭量产",
@@ -571,6 +625,15 @@
    "published_bj": "2026-11-19 20:28"
   },
   {
+   "id": "88d4a30a557e0645",
+   "source": "Hacker News",
+   "title": "Unblockable communication with gravity",
+   "url": "https://www.science.org/doi/10.1126/sciadv.aee0802",
+   "summary": "Article URL: https://www.science.org/doi/10.1126/sciadv.aee0802 Comments URL: https://news.ycombinator.com/item?id=50559179 Points: 129 # Comments: 41",
+   "published_at": 1795090920.0,
+   "published_bj": "2026-11-19 20:22"
+  },
+  {
    "id": "21987148c5a86034",
    "source": "IT之家",
    "title": "网传格力电器因 150 元成被执行人？朱磊回应称系诉讼费缴款，属正常司法公示",
@@ -623,6 +686,15 @@
    "summary": "IT之家 11 月 19 日消息，JAPANNEXT 今日宣布推出 6K 显示器 JN-X6K2。这一型号 采用 31.5\" 6016×3384 IPS LCD 面板 ，支持 60Hz 刷新率，拥有 300nits 亮度，表面为哑光效果。 JN-X6K2 灰阶 (GtG) 响应时间低至 7ms；静态对比度 2000:1；色深 10-bit， 色域 100% sRGB / 98% DCI-P3 / 95% Adobe RGB 。 其提供 2 个 HDMI 2.1、1 个 DisplayPort 1.4、1 个 USB-C（支持 90W USB PD 输出）、1 个 3.5mm 音频输出插孔；另有",
    "published_at": 1795088926.0,
    "published_bj": "2026-11-19 19:48"
+  },
+  {
+   "id": "6e15837c9efa2be2",
+   "source": "Hacker News",
+   "title": "Someone reported java4shell bug in September 2026",
+   "url": "https://github.com/openjdk/jdk/pull/32781",
+   "summary": "Article URL: https://github.com/openjdk/jdk/pull/32781 Comments URL: https://news.ycombinator.com/item?id=50558906 Points: 323 # Comments: 85",
+   "published_at": 1795088823.0,
+   "published_bj": "2026-11-19 19:47"
   },
   {
    "id": "37dee13d2684ae0c",
@@ -686,6 +758,15 @@
    "summary": "IT之家 11 月 19 日消息，如果你的 AI 智能体做出了一笔糟糕的财务决策，最终可能只能由你自己承担损失。 这是近期多家大型银行向客户发出的警告。根据 Business Insider 查看的银行邮件和应用通知，银行实际上是在提醒用户：如果 AI 智能体获得了访问金融账户的权限，其执行的操作可能被视为用户本人的行为，而不是外部入侵者实施的操作。 Ally Bank 本月早些时候向客户发送邮件称：“使用 AI 服务时，AI 采取的任何行动都由你负责。AI 可能犯错、产生幻觉、误解你的指令，或者以你意料之外的方式执行指令，从而造成重大损失。” 摩根大通（JPMorgan Chase）也在 1",
    "published_at": 1795085964.0,
    "published_bj": "2026-11-19 18:59"
+  },
+  {
+   "id": "c1e82b85f8f77187",
+   "source": "Hacker News",
+   "title": "How the European Commission rolled out Matrix to more than 40k staff",
+   "url": "https://element.io/blog/how-the-european-commission-rolled-out-matrix-to-more-than-40-000-staff/",
+   "summary": "Article URL: https://element.io/blog/how-the-european-commission-rolled-out-matrix-to-more-than-40-000-staff/ Comments URL: https://news.ycombinator.com/item?id=50558533 Points: 630 # Comments: 303",
+   "published_at": 1795085909.0,
+   "published_bj": "2026-11-19 18:58"
   },
   {
    "id": "757448bf2dac8236",
