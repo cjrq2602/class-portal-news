@@ -1,8 +1,44 @@
 {
  "date": "2026-11-20",
- "generated_at": 1795086866.1401315,
- "count": 5,
+ "generated_at": 1795116668.2577386,
+ "count": 25,
  "items": [
+  {
+   "id": "e909b12545ff7adb",
+   "source": "InfoQ中文",
+   "title": "Sam Altman罕见发声：我不担心Anthropic先上市，市场上不缺投资者",
+   "url": "https://www.infoq.cn/article/Mf3Zbm9JF3RWbkvjMKYZ?utm_source=rss&utm_medium=article",
+   "summary": "点击查看原文>",
+   "published_at": 1795129075.0,
+   "published_bj": "2026-11-20 06:57"
+  },
+  {
+   "id": "6bbef3c59051fd66",
+   "source": "TechCrunch",
+   "title": "Anthropic’s IPO could deliver $156 billion to charity",
+   "url": "https://techcrunch.com/2026/11/19/anthropics-ipo-could-deliver-156-billion-to-charity/",
+   "summary": "At a stock price of $95, the frontier lab's Public Benefit Foundation, its employee donations, and the company's match tot up to $156 billion.",
+   "published_at": 1795115445.0,
+   "published_bj": "2026-11-20 03:10"
+  },
+  {
+   "id": "8ee830f14935a311",
+   "source": "cnBeta",
+   "title": "摩托罗拉Razr Flex折叠屏手机新谍照曝光",
+   "url": "https://www.cnbeta.com.tw/articles/tech/1587150.htm",
+   "summary": "一组据称是摩托罗拉下一代折叠屏手机Razr Flex的实拍图在网上流传。继此前Reddit平台出现一张泄露照片后，新一批图片从多个角度展示了这款设备，包括其完全展开和部分折叠时的状态。这些照片进一步支持了外界的一种判断：宽屏设计可能正在成为折叠屏手机的主流形态。 阅读全文",
+   "published_at": 1795113368.0,
+   "published_bj": "2026-11-20 02:36"
+  },
+  {
+   "id": "a9eb8030f63f6f14",
+   "source": "TechCrunch",
+   "title": "Google gives Gemini the ability to use your Mac for you",
+   "url": "https://techcrunch.com/2026/11/19/google-gives-gemini-the-ability-to-use-your-mac-for-you/",
+   "summary": "Google's latest update to Gemini brings an AI agent to the Mac that can organize files, fill out forms, and tackle multistep workflows.",
+   "published_at": 1795111751.0,
+   "published_bj": "2026-11-20 02:09"
+  },
   {
    "id": "b63c0b1e1757b657",
    "source": "InfoQ中文",
@@ -13,6 +49,69 @@
    "published_bj": "2026-11-20 02:05"
   },
   {
+   "id": "0fb3dd891ced8df7",
+   "source": "IT之家",
+   "title": "Counterpoint：今年 Q3 欧洲智能手机出货同比下滑 18%，创 13 年来多季度新低",
+   "url": "https://www.ithome.com/1/029/744.htm",
+   "summary": "IT之家 11 月 20 日消息，Counterpoint Research 2026 年第三季度智能手机市场监测报告显示，欧洲智能手机市场出货量同比下滑 18%，创下超过 13 年以来的最低季度总量。 报告指出，上游零部件成本大幅攀升推动终端设备售价上涨，各厂商同步缩减促销力度，叠加宏观经济环境疲软持续压制消费者需求，是本季度欧洲市场大幅下滑的核心原因。 IT之家从报告获悉，Counterpoint 副总监 Jan Stryjak 表示，尽管本季度欧洲市场有多款重磅新品发布，但整体经营环境依然严峻。 三星推出的“护照级尺寸”Galaxy Z Fold8 是西欧有史以来销量最快的折叠屏机型，但",
+   "published_at": 1795110214.0,
+   "published_bj": "2026-11-20 01:43"
+  },
+  {
+   "id": "ed0d870272632b13",
+   "source": "TechCrunch",
+   "title": "Meta’s AI agent Muse is mixing up conversations and exposing private data, report says",
+   "url": "https://techcrunch.com/2026/11/19/metas-ai-agent-muse-is-mixing-up-conversations-and-exposing-private-data-report-says/",
+   "summary": "In some of these instances, employees said Muse surfaced messages about childcare requests they never made, career advice they never asked for, product orders they never placed, and bank account balances that didn't belong to them.",
+   "published_at": 1795109920.0,
+   "published_bj": "2026-11-20 01:38"
+  },
+  {
+   "id": "2574994e90a47c21",
+   "source": "TechCrunch",
+   "title": "Former Alibaba exec’s Everful raises $48.5M to connect retailers with Chinese factories",
+   "url": "https://techcrunch.com/2026/11/19/former-alibaba-execs-everful-raises-48-5m-to-connect-retailers-with-chinese-factories/",
+   "summary": "Everful has raised $48.5 million to expand its factory-direct sourcing platform, helping retailers source products from overseas manufacturers.",
+   "published_at": 1795107600.0,
+   "published_bj": "2026-11-20 01:00"
+  },
+  {
+   "id": "e3623ac66e15f0ec",
+   "source": "TechCrunch",
+   "title": "Anthropic hits Nasdaq exchanges at $111, 33% above IPO price",
+   "url": "https://techcrunch.com/2026/11/19/anthropic-hits-nasdaq-exchanges-at-110-27-above-ipo-price/",
+   "summary": "Anthropic's IPO price was set at $83, representing more than $80 billion in new capital raised.",
+   "published_at": 1795107563.0,
+   "published_bj": "2026-11-20 00:59"
+  },
+  {
+   "id": "2c6e9eb2118db9f0",
+   "source": "Solidot",
+   "title": "IEA 警告称到 2030 年数据中心碳排放量将增加七成",
+   "url": "https://www.solidot.org/story?sid=85937",
+   "summary": "国际能源署（IEA）发表报告警告，到 2030 年数据中心碳排放量将增加七成。报告称，到 2030 年数据中心的用电量将达到目前的水平的两倍，未来四年 AI 数据中心每年将额外消耗 350 TWh 的电力，这一数字超过了英国全年的总耗电量。IEA 预计到这个十年末，中国 AI 数据中心所需电力中约半数将来自燃煤电厂。其余电力将来自可再生能源，核能发电占比相对较小，天然气发电占比极低。相比下美国数据中心约 60% 的电力将依赖天然气供应。截至今年 8 月，美国已有约 180 GW 的新建天然气发电项目规划为数据中心供电。这一新增天然气发电装机容量，几乎相当于目前整个欧盟已安装的天然气发电总装机量",
+   "published_at": 1795106050.0,
+   "published_bj": "2026-11-20 00:34"
+  },
+  {
+   "id": "d40f68bd741d6704",
+   "source": "cnBeta",
+   "title": "英特尔公布D270加速器成绩单 部分专业计算性能最高领先英伟达近六倍",
+   "url": "https://www.cnbeta.com.tw/articles/tech/1587148.htm",
+   "summary": "英特尔近日在美国芝加哥举行的SC26超级计算大会上首次公开展示其GPU D270加速器的详细性能数据。这款产品此前代号为“Crescent Island”，与传统显卡不同，它并不具备图形渲染能力，也没有面向游戏的3D图形和光线追踪硬件，而是将更多资源专门用于人工智能、高性能计算和科学研究任务。 阅读全文",
+   "published_at": 1795106014.0,
+   "published_bj": "2026-11-20 00:33"
+  },
+  {
+   "id": "fd3064b9b830d6ff",
+   "source": "cnBeta",
+   "title": "DDR6内存条长度或将比DDR5短44% 带宽提升超50%",
+   "url": "https://www.cnbeta.com.tw/articles/tech/1587146.htm",
+   "summary": "JEDEC近日提前披露了下一代内存标准DDR6的部分设计方向。除了性能提升外，最引人关注的改变是：DDR6内存条的长度可能比现有DDR5产品缩短约44%，从而在相同的主板空间内容纳更多内存。 阅读全文",
+   "published_at": 1795105989.0,
+   "published_bj": "2026-11-20 00:33"
+  },
+  {
    "id": "d1359ed782f43331",
    "source": "InfoQ中文",
    "title": "杀入Agent主场之后：两年内部分替代自回归，扩散智能的底气从何而来？| 专访",
@@ -20,6 +119,69 @@
    "summary": "点击查看原文>",
    "published_at": 1795105953.0,
    "published_bj": "2026-11-20 00:32"
+  },
+  {
+   "id": "d6d2ea3cf89126aa",
+   "source": "cnBeta",
+   "title": "英国法院要求政府公开苹果“后门令”存在情况 公司的保密主张遭驳回",
+   "url": "https://www.cnbeta.com.tw/articles/tech/1587144.htm",
+   "summary": "英国政府围绕苹果公司加密数据访问权限的争议近日迎来重要进展。英国调查权法庭（Investigatory Powers Tribunal）裁定，政府必须确认其是否曾向苹果发出一项秘密命令，要求该公司向执法和安全部门提供访问加密用户数据的能力。这项裁决被视为英国政府在监控权力问题上罕见遭遇的司法挫折。 阅读全文",
+   "published_at": 1795105869.0,
+   "published_bj": "2026-11-20 00:31"
+  },
+  {
+   "id": "1caef983aab76eee",
+   "source": "cnBeta",
+   "title": "Google DeepMind工程师在办公室打印机上成功运行Gemma 3 270M模型",
+   "url": "https://www.cnbeta.com.tw/articles/tech/1587142.htm",
+   "summary": "一名Google DeepMind工程师近日展示了一项颇具创意的实验：他成功在一台普通办公室激光打印机内直接运行了Google的Gemma 3 270M小型语言模型。该模型参数量约为2.7亿，而实验所用的打印机仅有14.1MB可用内存，却仍实现了每秒超过60个词元的生成速度。 阅读全文",
+   "published_at": 1795105838.0,
+   "published_bj": "2026-11-20 00:30"
+  },
+  {
+   "id": "d12b0c8b251adfaf",
+   "source": "cnBeta",
+   "title": "夜空中的人造卫星数量正超过许多城镇上空肉眼可见的星星",
+   "url": "https://www.cnbeta.com.tw/articles/science/1587140.htm",
+   "summary": "一项最新分析显示，在任何一个夜晚，平均每时每刻都有超过700颗卫星飞过一座中纬度城镇的上空。在许多地区，这一数量已经超过人们用肉眼能够看到的星星，标志着人造卫星正在深刻改变人类仰望夜空的方式。 阅读全文",
+   "published_at": 1795105758.0,
+   "published_bj": "2026-11-20 00:29"
+  },
+  {
+   "id": "d2e9dc03cededf88",
+   "source": "cnBeta",
+   "title": "PHP 8.6 正式发布 新增部分函数应用与流监测 API",
+   "url": "https://www.cnbeta.com.tw/articles/tech/1587138.htm",
+   "summary": "PHP 8.6.0 于 11 月 19 日正式发布，成为 PHP 编程语言的年度功能更新版本。同日发布的 PHP 8.2.36、8.3.37、8.4.28 和 8.5.13 则属于安全更新，用于修复多项安全问题。 阅读全文",
+   "published_at": 1795105480.0,
+   "published_bj": "2026-11-20 00:24"
+  },
+  {
+   "id": "b8fa6409804d33d8",
+   "source": "cnBeta",
+   "title": "PostgreSQL 19正式发布 性能优化与分布式数据处理能力进一步增强",
+   "url": "https://www.cnbeta.com.tw/articles/tech/1587136.htm",
+   "summary": "开源数据库PostgreSQL 19.0现已正式发布。开发团队表示，此次版本在简化工作负载管理、改进分布式数据处理以及提升性能和开发者体验方面带来了多项更新。此前由于AI和大语言模型生成的大量缺陷报告以及安全问题，PostgreSQL 19的发布进度曾推迟数周。 阅读全文",
+   "published_at": 1795105388.0,
+   "published_bj": "2026-11-20 00:23"
+  },
+  {
+   "id": "6dedcc07d8f6c6df",
+   "source": "TechCrunch",
+   "title": "At Nasdaq opening bell, Anthropic CEO recommits to pacing AI development",
+   "url": "https://techcrunch.com/2026/11/19/at-nasdaq-opening-bell-anthropic-ceo-recommits-to-pacing-ai-development/",
+   "summary": "In his Nasdaq opening bell speech, Dario Amodei reiterated Anthropic's commitment to pacing AI development, regardless of business or political pressure.",
+   "published_at": 1795105181.0,
+   "published_bj": "2026-11-20 00:19"
+  },
+  {
+   "id": "3d312eb6d7dd5022",
+   "source": "cnBeta",
+   "title": "RTX 5090加持《GTA6》画面曝光：DLSS 5让帧数从30飙升至280FPS",
+   "url": "https://www.cnbeta.com.tw/articles/game/1587134.htm",
+   "summary": "虽然《GTA6》目前尚未推出PC版，但借助采集卡、PC硬件以及英伟达DLSS技术，玩家已经开始尝试模拟游戏在PC上的运行效果。近日，GameGPU通过采集PS5 Pro版《GTA6》的画面，再利用PC端的DLSS技术进行处理和帧生成，展示了这款游戏未来登陆PC平台后可能呈现的画面表现。 阅读全文",
+   "published_at": 1795105041.0,
+   "published_bj": "2026-11-20 00:17"
   },
   {
    "id": "67b724e52fde53e0",
@@ -40,6 +202,15 @@
    "published_bj": "2026-11-20 00:11"
   },
   {
+   "id": "471e612df03a0d81",
+   "source": "cnBeta",
+   "title": "Anthropic登陆纳斯达克 现场出现抗议者",
+   "url": "https://www.cnbeta.com.tw/articles/tech/1587132.htm",
+   "summary": "纽约当地时间周四（11月19日）上午，美国人工智能公司Anthropic在纽约纳斯达克交易所举行首次公开募股（IPO）敲钟仪式，股票代码为“ANT”。纳斯达克位于纽约时代广场的巨型电子屏幕直播了Anthropic的敲钟仪式，公司代表及嘉宾共同出席，现场响起掌声。 阅读全文",
+   "published_at": 1795104548.0,
+   "published_bj": "2026-11-20 00:09"
+  },
+  {
    "id": "058ffb6f5384703a",
    "source": "InfoQ中文",
    "title": "快与真：范式首批国产算力训练的Phai系列模型，究竟有什么不同",
@@ -47,6 +218,15 @@
    "summary": "点击查看原文>",
    "published_at": 1795104510.0,
    "published_bj": "2026-11-20 00:08"
+  },
+  {
+   "id": "fda3f44c24514d1b",
+   "source": "IT之家",
+   "title": "Epic 喜加一：《深渊之印》免费领取",
+   "url": "https://www.ithome.com/1/029/710.htm",
+   "summary": "IT之家 11 月 20 日消息，Epic 本周送出的游戏是《深渊之印》，下周送出的游戏是《火之石 – 放置点击英雄 RPG》，《Bread and Fred》。 领取链接： 《Mark of the Deep》 IT之家附游戏简介： 深渊之印是一款史诗般的海盗冒险游戏，拥有强烈的叙事性，并融合了广受好评的银河恶魔城游戏与魂系游戏的惊险元素。 深渊之印是一款史诗般的海盗冒险游戏，拥有强烈的叙事性，并融合了广受好评的银河恶魔城游戏与魂系游戏的惊险元素。以海盗刘琦的身份踏上旅程，探索受诅咒岛屿的奥秘，寻找失踪的海盗船员！ 踏上这场史诗般的海盗冒险！ 一艘海盗船在一个神秘岛屿失事，直到那时只有神话故",
+   "published_at": 1795104321.0,
+   "published_bj": "2026-11-20 00:05"
   }
  ]
 }
