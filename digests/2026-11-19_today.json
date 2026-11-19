@@ -1,0 +1,382 @@
+{
+ "type": "today",
+ "date": "2026-11-19",
+ "window": {
+  "start_ts": 1795017600.0,
+  "end_ts": 1795050000.0
+ },
+ "generated_at": 1795076889.8312259,
+ "generator": "action",
+ "news_count": 98,
+ "keywords": [
+  "ai",
+  "the",
+  "to",
+  "ceo",
+  "is",
+  "of",
+  "华为",
+  "openai",
+  "says",
+  "发布"
+ ],
+ "points": [
+  {
+   "text": "【ai】Nvidia founder and former CEO Jensen Huang stepped down last week amid s",
+   "keyword": "ai",
+   "news_ids": [
+    "dc5accbb4d78dcd3"
+   ],
+   "refs": [
+    {
+     "id": "dc5accbb4d78dcd3",
+     "title": "OpenAI CEO Sam Altman says it’s ‘hard to imagine the AI industry without Jensen’",
+     "source": "TechCrunch",
+     "url": "https://techcrunch.com/2026/11/18/openai-ceo-sam-altman-says-its-hard-to-imagine-the-ai-industry-without-jensen/",
+     "published_at": 1795018449.0
+    }
+   ]
+  },
+  {
+   "text": "【ai】The Microsoft CEO downplayed the recent Outlook outage while noting that",
+   "keyword": "ai",
+   "news_ids": [
+    "1347f6107dae1c54"
+   ],
+   "refs": [
+    {
+     "id": "1347f6107dae1c54",
+     "title": "Amidst fears of AI cyberattacks, Satya Nadella says lots of critical infrastructure is ‘unpatchable’",
+     "source": "TechCrunch",
+     "url": "https://techcrunch.com/2026/11/18/amidst-fears-of-ai-cyberattacks-satya-nadella-says-lots-of-critical-infrastructure-is-unpatchable/",
+     "published_at": 1795045500.0
+    }
+   ]
+  },
+  {
+   "text": "【华为】IT之家 11 月 19 日消息，华为今日官宣旗下最薄 Mate 直板机 —— 华为 Mate90 Air 轻薄旗舰，新机将于 11 月 24 ",
+   "keyword": "华为",
+   "news_ids": [
+    "e0d074210ee124fd"
+   ],
+   "refs": [
+    {
+     "id": "e0d074210ee124fd",
+     "title": "华为最薄 Mate 直板机来了，Mate90 Air 轻薄旗舰定档 11 月 24 日发布",
+     "source": "IT之家",
+     "url": "https://www.ithome.com/1/029/151.htm",
+     "published_at": 1795048552.0
+    }
+   ]
+  },
+  {
+   "text": "【ai】Article URL: https://tin",
+   "keyword": "ai",
+   "news_ids": [
+    "5113f33abbaee597"
+   ],
+   "refs": [
+    {
+     "id": "5113f33abbaee597",
+     "title": "Octopus, Gecko and Tortoise: the 3 scanners hunting your AI keys",
+     "source": "Hacker News",
+     "url": "https://tin.computer/blog/fake-ai-crawler-secrets-scanners",
+     "published_at": 1795027997.0
+    }
+   ]
+  },
+  {
+   "text": "【ai】IT之家 11 月 19 日消息，谷歌今天（11 月 18 日）宣布推出 AI 模型 Gemini 4 Neon， 主攻复杂编程、科学研究和企业",
+   "keyword": "ai",
+   "news_ids": [
+    "10d9482afbd97b28"
+   ],
+   "refs": [
+    {
+     "id": "10d9482afbd97b28",
+     "title": "谷歌推出 Gemini 4 Neon 模型，编程 AI 智能体指数超 Claude Opus 5.5 排第一",
+     "source": "IT之家",
+     "url": "https://www.ithome.com/1/029/144.htm",
+     "published_at": 1795046031.0
+    }
+   ]
+  },
+  {
+   "text": "【the】Article URL: https://www",
+   "keyword": "the",
+   "news_ids": [
+    "1c9494b35b73d033"
+   ],
+   "refs": [
+    {
+     "id": "1c9494b35b73d033",
+     "title": "Anthropic prices initial public offering",
+     "source": "Hacker News",
+     "url": "https://www.anthropic.com/news/anthropic-prices-initial-public-offering",
+     "published_at": 1795044609.0
+    }
+   ]
+  },
+  {
+   "text": "【gta6】GTA6》尚未在全球所有地区正式解锁，直播热度已经刷新多项纪录",
+   "keyword": "gta6",
+   "news_ids": [
+    "6194983bc36e9e99"
+   ],
+   "refs": [
+    {
+     "id": "6194983bc36e9e99",
+     "title": "GTA6》全面发售前直播观众峰值已突破638万",
+     "source": "cnBeta",
+     "url": "https://www.cnbeta.com.tw/articles/game/1587002.htm",
+     "published_at": 1795033620.0
+    }
+   ]
+  },
+  {
+   "text": "IT之家 11 月 19 日消息，特斯拉第二代 Roadster 将于当地时间 11 月 20 日起在美国洛杉矶车展展出",
+   "keyword": "",
+   "news_ids": [
+    "3203db63d857129c"
+   ],
+   "refs": [
+    {
+     "id": "3203db63d857129c",
+     "title": "特斯拉第二代 Roadster 将亮相洛杉矶车展：计划 2028 年量产，顶配 Rocket 版能飞",
+     "source": "IT之家",
+     "url": "https://www.ithome.com/1/029/157.htm",
+     "published_at": 1795049678.0
+    }
+   ]
+  },
+  {
+   "text": "AMD 更新虚幻引擎 FSR 插件、Google Wallet 登陆 iOS 等",
+   "keyword": "",
+   "news_ids": [
+    "43972946f4439b49"
+   ],
+   "refs": [
+    {
+     "id": "43972946f4439b49",
+     "title": "派早报：Apple 年度应用、TGA 2026 分别公布入围名单等",
+     "source": "少数派",
+     "url": "https://sspai.com/post/119239",
+     "published_at": 1795048170.0
+    }
+   ]
+  },
+  {
+   "text": "IT之家 11 月 19 日消息，《侠盗猎车手 Ⅵ》（GTA 6）解禁后，有玩家发现 R 星取消了该系列延续多年的一项玩法：玩家无法再在街头招揽",
+   "keyword": "",
+   "news_ids": [
+    "c197331a6ac12a92"
+   ],
+   "refs": [
+    {
+     "id": "c197331a6ac12a92",
+     "title": "Rockstar 解释《GTA 6》为何删减经典玩法：主线围绕 Jason 和 Lucia 情侣展开，仅保留符合人物情感与动机的设计",
+     "source": "IT之家",
+     "url": "https://www.ithome.com/1/029/149.htm",
+     "published_at": 1795048036.0
+    }
+   ]
+  },
+  {
+   "text": "IT之家 11 月 19 日消息，据 SammyGuru 今日报道，该媒体在三星最新 One UI 9.5 测试版固件中发现了 Galaxy B",
+   "keyword": "",
+   "news_ids": [
+    "0080692a4a6f77ee"
+   ],
+   "refs": [
+    {
+     "id": "0080692a4a6f77ee",
+     "title": "三星 Galaxy Buds Active 耳挂式耳机曝光，支持 IP68 防水和主动降噪",
+     "source": "IT之家",
+     "url": "https://www.ithome.com/1/029/148.htm",
+     "published_at": 1795047777.0
+    }
+   ]
+  },
+  {
+   "text": "IT之家 11 月 19 日消息，吉利银河近日公布旗下首款旗舰大五座 SUV—— 银河 M8 更多车型信息，新车将提供五款全新车色，将于 202",
+   "keyword": "",
+   "news_ids": [
+    "f01b0707deaefeec"
+   ],
+   "refs": [
+    {
+     "id": "f01b0707deaefeec",
+     "title": "吉利银河首款旗舰大五座 SUV，银河 M8 五款车色首发亮相",
+     "source": "IT之家",
+     "url": "https://www.ithome.com/1/029/146.htm",
+     "published_at": 1795047328.0
+    }
+   ]
+  },
+  {
+   "text": "Article URL: https://violetpixel",
+   "keyword": "",
+   "news_ids": [
+    "e0e38a33476bcb0d"
+   ],
+   "refs": [
+    {
+     "id": "e0e38a33476bcb0d",
+     "title": "We need smart people who give a shit",
+     "source": "Hacker News",
+     "url": "https://violetpixel.com/blog/2026-11-17-we-need-smart-people-who-give-a-shit/",
+     "published_at": 1795046029.0
+    }
+   ]
+  },
+  {
+   "text": "IT之家 11 月 19 日消息，当地时间 11 月 18 日，2026 年度 DealBook 峰会在美国纽约举行",
+   "keyword": "",
+   "news_ids": [
+    "aeb9a3af88bb8c0b"
+   ],
+   "refs": [
+    {
+     "id": "aeb9a3af88bb8c0b",
+     "title": "马斯克、奥尔特曼、纳德拉等人出席 DealBook 峰会，回应热点问题",
+     "source": "IT之家",
+     "url": "https://www.ithome.com/1/029/143.htm",
+     "published_at": 1795045194.0
+    }
+   ]
+  },
+  {
+   "text": "IT之家 11 月 19 日消息，安全研究团队 Xint Security Research 于当地时间 11 月 18 日公开披露了一串名为 ",
+   "keyword": "",
+   "news_ids": [
+    "550f7089831b6e4d"
+   ],
+   "refs": [
+    {
+     "id": "550f7089831b6e4d",
+     "title": "Nginx 被曝出 NGINX2Root 漏洞链：攻击者无需认证即可远程执行命令，结合 Linux 内核漏洞可获取宿主机 root 权限",
+     "source": "IT之家",
+     "url": "https://www.ithome.com/1/029/139.htm",
+     "published_at": 1795044056.0
+    }
+   ]
+  }
+ ],
+ "article": {
+  "title": "2026-11-19 新闻总结",
+  "paragraphs": [
+   {
+    "kind": "lead",
+    "text": "今天共收录 98 条新闻，来自 7 家媒体。把标题放在一起看，讨论主要集中在 AI、模型 这几个方向上，其余消息更像是零散补充。"
+   },
+   {
+    "kind": "section",
+    "heading": "AI",
+    "text": "先看「AI」。IT之家 11 月 19 日消息，OpenAI 今天（11 月 18 日）发布题为《管理前沿 AI 风险：从训练到部署》的安全政策说明， 首次系统披露研发、内部使用到公开发布阶段，另有 43 条消息指向同一话题。这类进展更像是把已有能力往工程化落地推了一步，真正的分水岭在于成本和可靠性能不能同时压下来。",
+    "news_ids": [
+     "21b1c268299e69b2"
+    ],
+    "refs": [
+     {
+      "id": "21b1c268299e69b2",
+      "title": "OpenAI 自曝模型失控险情：最强 AI 曾突破网络封锁，紧急停训 11 天",
+      "source": "IT之家",
+      "url": "https://www.ithome.com/1/029/145.htm",
+      "published_at": 1795046956.0
+     }
+    ]
+   },
+   {
+    "kind": "section",
+    "heading": "发布",
+    "text": "与此同时「发布」。IT之家 11 月 19 日消息，华为今日官宣旗下最薄 Mate 直板机 —— 华为 Mate90 Air 轻薄旗舰，另有 11 条消息指向同一话题。技术路线的胜负很少由一次发布会决定，接下来要看的是它能不能被更多团队低成本复用。",
+    "news_ids": [
+     "e0d074210ee124fd"
+    ],
+    "refs": [
+     {
+      "id": "e0d074210ee124fd",
+      "title": "华为最薄 Mate 直板机来了，Mate90 Air 轻薄旗舰定档 11 月 24 日发布",
+      "source": "IT之家",
+      "url": "https://www.ithome.com/1/029/151.htm",
+      "published_at": 1795048552.0
+     }
+    ]
+   },
+   {
+    "kind": "section",
+    "heading": "模型",
+    "text": "另一个值得注意的方向是「模型」。IT之家 11 月 19 日消息，谷歌今天（11 月 18 日）宣布推出 AI 模型 Gemini 4 Neon， 主攻复杂编程、科学研究和企业工作流程，更好平衡推理能力，另有 1 条消息指向同一话题。这类进展更像是把已有能力往工程化落地推了一步，真正的分水岭在于成本和可靠性能不能同时压下来。",
+    "news_ids": [
+     "10d9482afbd97b28"
+    ],
+    "refs": [
+     {
+      "id": "10d9482afbd97b28",
+      "title": "谷歌推出 Gemini 4 Neon 模型，编程 AI 智能体指数超 Claude Opus 5.5 排第一",
+      "source": "IT之家",
+      "url": "https://www.ithome.com/1/029/144.htm",
+      "published_at": 1795046031.0
+     }
+    ]
+   },
+   {
+    "kind": "section",
+    "heading": "IPO",
+    "text": "相比之下「IPO」。IT之家 11 月 19 日消息，据彭博社今日报道，Anthropic PBC 已将首次公开募股（IPO）发行价定为每股 83 美元，另有 3 条消息指向同一话题。资本动作往往领先产品一年，值得盯的不是金额，而是钱最后花向了算力、场景还是补贴。",
+    "news_ids": [
+     "7679d50a9174bca3"
+    ],
+    "refs": [
+     {
+      "id": "7679d50a9174bca3",
+      "title": "史上最大 IPO：Anthropic 每股定价 83 美元，预计募资 944 亿美元超 SpaceX",
+      "source": "IT之家",
+      "url": "https://www.ithome.com/1/029/132.htm",
+      "published_at": 1795041361.0
+     }
+    ]
+   },
+   {
+    "kind": "glossary",
+    "items": [
+     {
+      "term": "AI",
+      "desc": "人工智能，让机器完成识别、生成、判断等原本需要人做的任务"
+     },
+     {
+      "term": "GPU",
+      "desc": "图形处理器，因为擅长大规模并行计算，成了 AI 训练的主力硬件"
+     },
+     {
+      "term": "IPO",
+      "desc": "首次公开募股，公司第一次把股票卖给公众并上市"
+     },
+     {
+      "term": "LLM",
+      "desc": "大语言模型，主打文字理解与生成，是「大模型」的同义词"
+     },
+     {
+      "term": "AR",
+      "desc": "增强现实，把虚拟图像叠加到真实世界画面上"
+     },
+     {
+      "term": "Agent",
+      "desc": "智能体，能自己拆解任务、调用工具并连续执行的 AI 程序"
+     }
+    ]
+   },
+   {
+    "kind": "outlook",
+    "text": "把这几条放在一起看，最值得跟踪的是 AI 和 模型 两条线：一条决定技术能走多远，一条决定它多快能落到普通人的日常里。至于其他消息，可以先放进观察名单，等后续有更实的进展再判断。"
+   }
+  ],
+  "word_count": 731
+ },
+ "ai_enhanced": false,
+ "schema": 1,
+ "window_bj": {
+  "start": "2026-11-19 00:00",
+  "end": "2026-11-19 09:00"
+ }
+}
