@@ -1,0 +1,382 @@
+{
+ "type": "yesterday",
+ "date": "2026-11-20",
+ "window": {
+  "start_ts": 1795104000.0,
+  "end_ts": 1795190400.0
+ },
+ "generated_at": 1795214003.8185368,
+ "generator": "action",
+ "news_count": 345,
+ "keywords": [
+  "ai",
+  "anthropic",
+  "推出",
+  "华为",
+  "游戏",
+  "智能",
+  "美元",
+  "苹果",
+  "上市",
+  "手机"
+ ],
+ "points": [
+  {
+   "text": "【ai】IT之家 11 月 20 日现场消息，在目前正在进行的华为鸿蒙智行享界 V8 及星芒品牌发布会中，华为星芒 OSTA O1 Pro 正式亮相，该",
+   "keyword": "ai",
+   "news_ids": [
+    "4f301beab269a5ed"
+   ],
+   "refs": [
+    {
+     "id": "4f301beab269a5ed",
+     "title": "5499 元起，“首款为 AI 而生的鸿蒙手机”华为星芒 OSTA O1 Pro 阔直板正式发布",
+     "source": "IT之家",
+     "url": "https://www.ithome.com/1/030/120.htm",
+     "published_at": 1795164207.0
+    }
+   ]
+  },
+  {
+   "text": "【推出】Cloudflare 推出面向后量子时代 Web 安全的公共证书颁发机构",
+   "keyword": "推出",
+   "news_ids": [
+    "ce716aa7939a2c77"
+   ],
+   "refs": [
+    {
+     "id": "ce716aa7939a2c77",
+     "title": "Cloudflare 推出面向后量子时代 Web 安全的公共证书颁发机构",
+     "source": "InfoQ中文",
+     "url": "https://www.infoq.cn/article/WGpi7vxi1pCiJeJBKbm7?utm_source=rss&utm_medium=article",
+     "published_at": 1795176000.0
+    }
+   ]
+  },
+  {
+   "text": "【游戏】根据 Sensor Tower 的数据，本周四上市的开放世界游戏 GTA 6 预购量和首日销量合计超过 2450 万份，收入约 23.6 亿美元",
+   "keyword": "游戏",
+   "news_ids": [
+    "a0830a4c569a56bd"
+   ],
+   "refs": [
+    {
+     "id": "a0830a4c569a56bd",
+     "title": "GTA 6 创游戏史上最高首日销售额",
+     "source": "Solidot",
+     "url": "https://www.solidot.org/story?sid=85948",
+     "published_at": 1795185501.0
+    }
+   ]
+  },
+  {
+   "text": "【anthropic】Article URL: https://alpo",
+   "keyword": "anthropic",
+   "news_ids": [
+    "ab742fe9b20780a7"
+   ],
+   "refs": [
+    {
+     "id": "ab742fe9b20780a7",
+     "title": "Anthropic employee claims general proof of the Riemann Hypothesis [pdf]",
+     "source": "Hacker News",
+     "url": "https://alpo.ge/remark.pdf",
+     "published_at": 1795184181.0
+    }
+   ]
+  },
+  {
+   "text": "【智能】IT之家 11 月 20 日消息，博主 @向北不断电 今日发文，称腾势 N8 的优势依然明显，也是市面上为数不多闭眼买的车型，并提到易三方 Ev",
+   "keyword": "智能",
+   "news_ids": [
+    "4f80f93d64d445eb"
+   ],
+   "refs": [
+    {
+     "id": "4f80f93d64d445eb",
+     "title": "比亚迪腾势汽车李慧：易三方 Evo 是全球独一无二的硬核技术平台，友商追赶了易三方超过三年也没追上",
+     "source": "IT之家",
+     "url": "https://www.ithome.com/1/030/244.htm",
+     "published_at": 1795182536.0
+    }
+   ]
+  },
+  {
+   "text": "【pro】IT之家 11 月 20 日消息，小米 MiMo 官方文档显示，11 月 19 日起， Token Plan 限时支持 UltraSpeed 超",
+   "keyword": "pro",
+   "news_ids": [
+    "11d70041db24c892"
+   ],
+   "refs": [
+    {
+     "id": "11d70041db24c892",
+     "title": "小米 MiMo：Token Plan 的 Pro / Max 套餐限时支持 UltraSpeed 超高速推理模型",
+     "source": "IT之家",
+     "url": "https://www.ithome.com/1/030/193.htm",
+     "published_at": 1795169465.0
+    }
+   ]
+  },
+  {
+   "text": "【美元】IT之家 11 月 20 日消息，据外媒 The Record 报道，美国纽约联邦破产法官当地时间 17 日批准 Google（谷歌）收购破产廉",
+   "keyword": "美元",
+   "news_ids": [
+    "ef148ce519750f74"
+   ],
+   "refs": [
+    {
+     "id": "ef148ce519750f74",
+     "title": "法院批准交易，谷歌 1000 万美元收购精神航空数据过关",
+     "source": "IT之家",
+     "url": "https://www.ithome.com/1/030/137.htm",
+     "published_at": 1795167655.0
+    }
+   ]
+  },
+  {
+   "text": "Exclusive: A simple security lapse exposed transcriptions of police inte",
+   "keyword": "",
+   "news_ids": [
+    "bdc540e794edbddd"
+   ],
+   "refs": [
+    {
+     "id": "bdc540e794edbddd",
+     "title": "A transcription firm used by police, prosecutors, and tech giants exposed customer data online",
+     "source": "TechCrunch",
+     "url": "https://techcrunch.com/2026/11/20/a-transcription-firm-used-by-police-prosecutors-and-tech-giants-exposed-customer-data-online/",
+     "published_at": 1795189567.0
+    }
+   ]
+  },
+  {
+   "text": "特斯拉辅助驾驶系统（TAD）获得意大利运行许可，成为继此前 11 个欧盟国家之后，又一个获准使用该系统的市场",
+   "keyword": "",
+   "news_ids": [
+    "9323a64d326a820f"
+   ],
+   "refs": [
+    {
+     "id": "9323a64d326a820f",
+     "title": "在欧洲已拿下 12 国，特斯拉辅助驾驶系统获意大利运行许可",
+     "source": "IT之家",
+     "url": "https://www.ithome.com/1/030/276.htm",
+     "published_at": 1795188583.0
+    }
+   ]
+  },
+  {
+   "text": "IT之家 11 月 20 日消息，据外媒 Neowin 今天（20 日）晚间报道，伦敦交通局（TfL）证实，黑客入侵导致 26.5 万名 Oys",
+   "keyword": "",
+   "news_ids": [
+    "cdd6f9f25b5b5e60"
+   ],
+   "refs": [
+    {
+     "id": "cdd6f9f25b5b5e60",
+     "title": "伦敦交通局遭网络攻击，26.5 万名“牡蛎”交通卡用户数据泄露",
+     "source": "IT之家",
+     "url": "https://www.ithome.com/1/030/274.htm",
+     "published_at": 1795187202.0
+    }
+   ]
+  },
+  {
+   "text": "Article URL: https://blog",
+   "keyword": "",
+   "news_ids": [
+    "2585305c7b0fb101"
+   ],
+   "refs": [
+    {
+     "id": "2585305c7b0fb101",
+     "title": "Why there are still no non-WebKit browsers on iOS",
+     "source": "Hacker News",
+     "url": "https://blog.mozilla.org/en/mozilla/internet-policy/apple-ios-browser-engine-rules/",
+     "published_at": 1795187011.0
+    }
+   ]
+  },
+  {
+   "text": "IT之家 11 月 20 日消息，梅赛德斯-奔驰今天（20 日）宣布，成为德国首家获得 点到点辅助驾驶 监管许可的车企，为高级自动驾驶技术在公共",
+   "keyword": "",
+   "news_ids": [
+    "fdb91276323ad22c"
+   ],
+   "refs": [
+    {
+     "id": "fdb91276323ad22c",
+     "title": "德国首家，奔驰获批在“老家”开展点到点辅助驾驶",
+     "source": "IT之家",
+     "url": "https://www.ithome.com/1/030/249.htm",
+     "published_at": 1795185037.0
+    }
+   ]
+  },
+  {
+   "text": "From notetakers to webcams, here are six AI-powered gadgets to upgrade y",
+   "keyword": "",
+   "news_ids": [
+    "33a44873a841072c"
+   ],
+   "refs": [
+    {
+     "id": "33a44873a841072c",
+     "title": "Six AI-powered gadgets that could make your home office smarter",
+     "source": "TechCrunch",
+     "url": "https://techcrunch.com/2026/11/20/6-ai-powered-gadgets-that-could-make-your-home-office-smarter/",
+     "published_at": 1795183200.0
+    }
+   ]
+  },
+  {
+   "text": "IT之家 11 月 20 日消息，今天（20 日）19 时 59 分，我国在海南商业航天发射场使用长征八号甲运载火箭，成功将卫星互联网低轨 30",
+   "keyword": "",
+   "news_ids": [
+    "2ea554b1420aba2a"
+   ],
+   "refs": [
+    {
+     "id": "2ea554b1420aba2a",
+     "title": "我国成功发射卫星互联网低轨 30 组卫星",
+     "source": "IT之家",
+     "url": "https://www.ithome.com/1/030/242.htm",
+     "published_at": 1795182405.0
+    }
+   ]
+  },
+  {
+   "text": "IT之家 11 月 20 日消息，当地时间 18 日，据英国《卫报》报道，Alphabet 旗下的 Waymo 在美国全面暂停了无人驾驶出租车的",
+   "keyword": "",
+   "news_ids": [
+    "37f860620e08cc2b"
+   ],
+   "refs": [
+    {
+     "id": "37f860620e08cc2b",
+     "title": "加州禁令引发连锁反应，Waymo 暂停全美 Robotaxi 高速公路服务",
+     "source": "IT之家",
+     "url": "https://www.ithome.com/1/030/241.htm",
+     "published_at": 1795181663.0
+    }
+   ]
+  }
+ ],
+ "article": {
+  "title": "2026-11-20 新闻总结",
+  "paragraphs": [
+   {
+    "kind": "lead",
+    "text": "过去 24 小时共收录 345 条新闻，来自 7 家媒体。把标题放在一起看，讨论主要集中在 AI、游戏、上市 这几个方向上，其余消息更像是零散补充。"
+   },
+   {
+    "kind": "section",
+    "heading": "AI",
+    "text": "先看「AI」。IT之家 11 月 20 日现场消息，在目前正在进行的华为鸿蒙智行享界 V8 及星芒品牌发布会中，华为星芒 OSTA O1 Pro 正式亮相，该机采用了具有辨识度的阔直板设计，另有 224 条消息指向同一话题。这类进展更像是把已有能力往工程化落地推了一步，真正的分水岭在于成本和可靠性能不能同时压下来。",
+    "news_ids": [
+     "4f301beab269a5ed"
+    ],
+    "refs": [
+     {
+      "id": "4f301beab269a5ed",
+      "title": "5499 元起，“首款为 AI 而生的鸿蒙手机”华为星芒 OSTA O1 Pro 阔直板正式发布",
+      "source": "IT之家",
+      "url": "https://www.ithome.com/1/030/120.htm",
+      "published_at": 1795164207.0
+     }
+    ]
+   },
+   {
+    "kind": "section",
+    "heading": "安全",
+    "text": "与此同时「安全」。Cloudflare 推出面向后量子时代 Web 安全的公共证书颁发机构…，另有 7 条消息指向同一话题。技术路线的胜负很少由一次发布会决定，接下来要看的是它能不能被更多团队低成本复用。",
+    "news_ids": [
+     "ce716aa7939a2c77"
+    ],
+    "refs": [
+     {
+      "id": "ce716aa7939a2c77",
+      "title": "Cloudflare 推出面向后量子时代 Web 安全的公共证书颁发机构",
+      "source": "InfoQ中文",
+      "url": "https://www.infoq.cn/article/WGpi7vxi1pCiJeJBKbm7?utm_source=rss&utm_medium=article",
+      "published_at": 1795176000.0
+     }
+    ]
+   },
+   {
+    "kind": "section",
+    "heading": "游戏",
+    "text": "另一个值得注意的方向是「游戏」。根据 Sensor Tower 的数据，本周四上市的开放世界游戏 GTA 6 预购量和首日销量合计超过 2450 万份，另有 4 条消息指向同一话题。融资和估值只能说明市场情绪，能不能兑现，还要看下一两个季度的收入和留存。",
+    "news_ids": [
+     "a0830a4c569a56bd"
+    ],
+    "refs": [
+     {
+      "id": "a0830a4c569a56bd",
+      "title": "GTA 6 创游戏史上最高首日销售额",
+      "source": "Solidot",
+      "url": "https://www.solidot.org/story?sid=85948",
+      "published_at": 1795185501.0
+     }
+    ]
+   },
+   {
+    "kind": "section",
+    "heading": "无限滚动自动播放有害社会",
+    "text": "相比之下「无限滚动自动播放有害社会」。根据发表在《The Lancet Psychiatry》期刊上的一篇报告，全球逾十分之一人口可能受到问题性互联网使用的影响，另有 5 条消息指向同一话题。对读者来说，值得留意的不是结论本身，而是它背后哪些前提正在被改变。",
+    "news_ids": [
+     "e19878cc5f7059e3"
+    ],
+    "refs": [
+     {
+      "id": "e19878cc5f7059e3",
+      "title": "无限滚动自动播放有害社会",
+      "source": "Solidot",
+      "url": "https://www.solidot.org/story?sid=85946",
+      "published_at": 1795171851.0
+     }
+    ]
+   },
+   {
+    "kind": "glossary",
+    "items": [
+     {
+      "term": "AI",
+      "desc": "人工智能，让机器完成识别、生成、判断等原本需要人做的任务"
+     },
+     {
+      "term": "Robotaxi",
+      "desc": "无人驾驶出租车，车里没有司机，靠自动驾驶系统接单运营"
+     },
+     {
+      "term": "IPO",
+      "desc": "首次公开募股，公司第一次把股票卖给公众并上市"
+     },
+     {
+      "term": "Agent",
+      "desc": "智能体，能自己拆解任务、调用工具并连续执行的 AI 程序"
+     },
+     {
+      "term": "HBM",
+      "desc": "高带宽内存，把多层内存堆叠起来给 AI 芯片喂数据，缓解带宽瓶颈"
+     },
+     {
+      "term": "LLM",
+      "desc": "大语言模型，主打文字理解与生成，是「大模型」的同义词"
+     }
+    ]
+   },
+   {
+    "kind": "outlook",
+    "text": "把这几条放在一起看，最值得跟踪的是 AI 和 游戏 两条线：一条决定技术能走多远，一条决定它多快能落到普通人的日常里。至于其他消息，可以先放进观察名单，等后续有更实的进展再判断。"
+   }
+  ],
+  "word_count": 679
+ },
+ "ai_enhanced": false,
+ "schema": 1,
+ "window_bj": {
+  "start": "2026-11-20 00:00",
+  "end": "2026-11-21 00:00"
+ }
+}
