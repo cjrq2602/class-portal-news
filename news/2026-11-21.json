@@ -1,0 +1,277 @@
+{
+ "date": "2026-11-21",
+ "generated_at": 1795197257.9638054,
+ "count": 30,
+ "items": [
+  {
+   "id": "b39b093ea4db93bd",
+   "source": "InfoQ中文",
+   "title": "财报再亮眼也没用！黄仁勋想回去，英伟达董事会偏不让",
+   "url": "https://www.infoq.cn/article/3xzCDJBbDREm4EJFJWrH?utm_source=rss&utm_medium=article",
+   "summary": "点击查看原文>",
+   "published_at": 1795200494.0,
+   "published_bj": "2026-11-21 02:48"
+  },
+  {
+   "id": "8248b2f76811be8f",
+   "source": "InfoQ中文",
+   "title": "AI 来了，团队究竟怎么变？",
+   "url": "https://www.infoq.cn/video/ODJ7iuw7swP8TlU4SiAB?utm_source=rss&utm_medium=article",
+   "summary": "点击查看原文>",
+   "published_at": 1795200234.0,
+   "published_bj": "2026-11-21 02:43"
+  },
+  {
+   "id": "3458c5f6b42b7b12",
+   "source": "InfoQ中文",
+   "title": "“美国大豆包”又发新模型，Neon 接入 Antigravity 后编程解题率升至三倍多",
+   "url": "https://www.infoq.cn/article/tDxNggErsJNeb53ZkYeF?utm_source=rss&utm_medium=article",
+   "summary": "点击查看原文>",
+   "published_at": 1795200094.0,
+   "published_bj": "2026-11-21 02:41"
+  },
+  {
+   "id": "2c1ae9962c549581",
+   "source": "InfoQ中文",
+   "title": "Agent 上岗，你敢放手吗？",
+   "url": "https://www.infoq.cn/video/qafOtORWUX0eD0WfSlYi?utm_source=rss&utm_medium=article",
+   "summary": "点击查看原文>",
+   "published_at": 1795199142.0,
+   "published_bj": "2026-11-21 02:25"
+  },
+  {
+   "id": "33e11ca91af22ea0",
+   "source": "InfoQ中文",
+   "title": "华为云开源昇腾原生具身世界模型CloudRobo-WM1.2，两项评测均列第一",
+   "url": "https://www.infoq.cn/article/LCqRiGDSeMBfXo4iktdA?utm_source=rss&utm_medium=article",
+   "summary": "点击查看原文>",
+   "published_at": 1795198751.0,
+   "published_bj": "2026-11-21 02:19"
+  },
+  {
+   "id": "dbdc15c7734f153f",
+   "source": "TechCrunch",
+   "title": "Chips can survive the space environment. Can their financing?",
+   "url": "https://techcrunch.com/2026/11/20/chips-can-survive-the-space-environment-can-their-financing/",
+   "summary": "Lenders don't want SpaceX shooting their collateral into orbit. What does that mean for space data centers writ large?",
+   "published_at": 1795196401.0,
+   "published_bj": "2026-11-21 01:40"
+  },
+  {
+   "id": "518b4cbd433e05e6",
+   "source": "InfoQ中文",
+   "title": "AI 漫剧不缺作品，缺什么？｜QLab直播",
+   "url": "https://www.infoq.cn/article/27xI2tBkStO5qz52VBPw?utm_source=rss&utm_medium=article",
+   "summary": "点击查看原文>",
+   "published_at": 1795194869.0,
+   "published_bj": "2026-11-21 01:14"
+  },
+  {
+   "id": "28d32bc85dfb0000",
+   "source": "Hacker News",
+   "title": "Running two PSP emulators on one Switch 2 and sharing one via GameShare",
+   "url": "https://github.com/XITRIX/ppsspp-nx2/blob/master/SWITCH2-GAMESHARE.md",
+   "summary": "Article URL: https://github.com/XITRIX/ppsspp-nx2/blob/master/SWITCH2-GAMESHARE.md Comments URL: https://news.ycombinator.com/item?id=50578233 Points: 4 # Comments: 0",
+   "published_at": 1795194843.0,
+   "published_bj": "2026-11-21 01:14"
+  },
+  {
+   "id": "0d9f63b86dd38af5",
+   "source": "cnBeta",
+   "title": "科学家发现城市污水隐藏着居民健康数据",
+   "url": "https://www.cnbeta.com.tw/articles/science/1587324.htm",
+   "summary": "新冠疫情期间，污水监测成为公共卫生领域的一项重要工具。通过检测城市污水中的病毒遗传物质，卫生部门能够在不逐一检测居民的情况下，掌握整个社区的感染情况。如今，美国俄亥俄州立大学的研究人员发现，这种方法可能还有更广泛的用途：城市下水道中的细菌，或许能够反映整个社区居民的肠道健康状况，甚至揭示肥胖、高血压、中风等慢性疾病与社会经济条件之间的联系。 阅读全文",
+   "published_at": 1795194662.0,
+   "published_bj": "2026-11-21 01:11"
+  },
+  {
+   "id": "99640f02edb60cff",
+   "source": "cnBeta",
+   "title": "iPhone Air 2与iPhone 18模型机曝光 超薄机型迎来双摄升级",
+   "url": "https://www.cnbeta.com.tw/articles/tech/1587322.htm",
+   "summary": "距离苹果预计在2027年春季发布新一批iPhone产品还有数月时间，但首批iPhone Air 2与iPhone 18模型机照片已经提前流出。从曝光内容来看，新机整体设计基本符合此前传闻，没有出现太多意外变化，不过iPhone Air系列最受关注的一项短板似乎终于得到改善。 阅读全文",
+   "published_at": 1795194614.0,
+   "published_bj": "2026-11-21 01:10"
+  },
+  {
+   "id": "4b8e8ba424c1a0ae",
+   "source": "cnBeta",
+   "title": "德国和奥地利推动TikTok欧洲业务易主：希望由欧洲资本接管 复制美国方案",
+   "url": "https://www.cnbeta.com.tw/articles/tech/1587320.htm",
+   "summary": "继美国推动TikTok美国业务脱离中国母公司字节跳动（ByteDance）的控制之后，欧洲也开始出现类似的政治主张。德国和奥地利近日联合提出倡议，希望将TikTok在欧洲的业务转移至欧洲资本控制之下，并要求其他欧盟成员国加入这一行动。 阅读全文",
+   "published_at": 1795194586.0,
+   "published_bj": "2026-11-21 01:09"
+  },
+  {
+   "id": "990b2ce935737cbf",
+   "source": "cnBeta",
+   "title": "亚马逊警告纽约用户：新法案若获通过 每笔订单成本或增加5美元",
+   "url": "https://www.cnbeta.com.tw/articles/tech/1587318.htm",
+   "summary": "美国电商巨头亚马逊近日公开反对纽约市一项新的劳工法案，并向当地消费者发出警告称，如果相关法案最终成为法律，纽约居民未来每笔订单的配送成本可能增加最高5美元，同时包裹配送速度也可能受到影响。 阅读全文",
+   "published_at": 1795194554.0,
+   "published_bj": "2026-11-21 01:09"
+  },
+  {
+   "id": "4ac87a1a3f6d5d8c",
+   "source": "Hacker News",
+   "title": "PostgreSQL 19: A hands-on tour with runnable browser examples",
+   "url": "https://certuvia.com/blog/postgres-19",
+   "summary": "Article URL: https://certuvia.com/blog/postgres-19 Comments URL: https://news.ycombinator.com/item?id=50578117 Points: 5 # Comments: 0",
+   "published_at": 1795194536.0,
+   "published_bj": "2026-11-21 01:08"
+  },
+  {
+   "id": "4f9df3c6f0ea5ca7",
+   "source": "cnBeta",
+   "title": "Google 3D表情将登陆Android系统 需6GB内存和10GB可用空间引发关注",
+   "url": "https://www.cnbeta.com.tw/articles/tech/1587316.htm",
+   "summary": "Google近日公布了全新Noto 3D表情符号的详细硬件要求。这套旨在提升表情细节和表现力的新系统虽然带来了更加立体、生动的视觉效果，但其硬件门槛之高也引发了不少用户关注。 阅读全文",
+   "published_at": 1795194028.0,
+   "published_bj": "2026-11-21 01:00"
+  },
+  {
+   "id": "dbded14114a89578",
+   "source": "Hacker News",
+   "title": "Google Workers Tell Their Employer Not to Punish Schools That Don't Want AI",
+   "url": "https://www.motherjones.com/politics/2026/11/google-alphabet-union-school-ai-protest-gemini-workers-petition/",
+   "summary": "Article URL: https://www.motherjones.com/politics/2026/11/google-alphabet-union-school-ai-protest-gemini-workers-petition/ Comments URL: https://news.ycombinator.com/item?id=50577901 Points: 7 # Comments: 2",
+   "published_at": 1795193967.0,
+   "published_bj": "2026-11-21 00:59"
+  },
+  {
+   "id": "d4e90468746864c3",
+   "source": "cnBeta",
+   "title": "联合国法院认定缅甸实施种族灭绝 Facebook被指助长针对罗兴亚人的仇恨宣传",
+   "url": "https://www.cnbeta.com.tw/articles/tech/1587314.htm",
+   "summary": "联合国最高司法机构国际法院近日裁定，缅甸政府在2016年至2017年期间针对罗兴亚穆斯林少数族群实施了国家支持的种族灭绝行为。法院在判决中指出，Facebook在缅甸军方传播针对罗兴亚人的仇恨言论过程中发挥了重要作用。 阅读全文",
+   "published_at": 1795193845.0,
+   "published_bj": "2026-11-21 00:57"
+  },
+  {
+   "id": "936746af015cddd5",
+   "source": "cnBeta",
+   "title": "濒危巨型海龟在厄瓜多尔海岸出现罕见筑巢热潮 或为种群带来新希望",
+   "url": "https://www.cnbeta.com.tw/articles/science/1587312.htm",
+   "summary": "一群濒临灭绝的巨型海龟正在厄瓜多尔海岸展现出令人意外的生存迹象。研究人员发现，东太平洋棱皮龟在2025至2026年的繁殖季中，于厄瓜多尔多处海滩创下筑巢数量纪录。这一现象出现在距离它们传统筑巢地墨西哥和哥斯达黎加超过一千英里的地方，为这个已减少逾九成的极危种群带来了潜在转机。 阅读全文",
+   "published_at": 1795193753.0,
+   "published_bj": "2026-11-21 00:55"
+  },
+  {
+   "id": "d62cea24e27aee37",
+   "source": "Hacker News",
+   "title": "I'm Peter Roberts, immigration attorney who does work for YC and startups. AMA",
+   "url": "https://news.ycombinator.com/item?id=50577613",
+   "summary": "I'll be here for the rest of the day. As usual, there are countless possible topics and I'll be guided by whatever you're concerned with. Please remember that I can't provide legal advice on specific cases for obvious liability reasons because I won't have access to all the facts. Please stick to a ",
+   "published_at": 1795193125.0,
+   "published_bj": "2026-11-21 00:45"
+  },
+  {
+   "id": "a820dc45f146a47a",
+   "source": "cnBeta",
+   "title": "Anthropic研究人员警告：超级AI可能在2027年底出现 未来人类或将永久失去就业竞争力",
+   "url": "https://www.cnbeta.com.tw/articles/tech/1587310.htm",
+   "summary": "人工智能究竟会在多大程度上改变人类社会？Anthropic内部一名负责AI安全防护的研究人员给出了一个相当激进的预测：到2027年底，人工智能可能在几乎所有专业领域超越人类顶尖专家，而随着这种能力逐渐扩展到整个经济体系，人类甚至可能最终失去通过劳动获得收入的能力，成为永久无法就业的群体。 阅读全文",
+   "published_at": 1795192742.0,
+   "published_bj": "2026-11-21 00:39"
+  },
+  {
+   "id": "c6c0ff99c7ca4b85",
+   "source": "cnBeta",
+   "title": "古墓揭示财富不平等起源 欧洲社会或在5000年前已出现阶层分化",
+   "url": "https://www.cnbeta.com.tw/articles/science/1587308.htm",
+   "summary": "一项最新考古研究显示，人类社会中财富与地位不平等的形成时间可能比此前认为的更早。研究人员通过分析中欧地区近300座史前墓葬发现，约5000年前的欧洲社会已经出现财富和社会地位逐渐分化的迹象，而这一过程可能最终催生了后来的家族特权和阶层传承制度。 阅读全文",
+   "published_at": 1795192684.0,
+   "published_bj": "2026-11-21 00:38"
+  },
+  {
+   "id": "2babd0e57e23301a",
+   "source": "Hacker News",
+   "title": "Language Models Can Rewrite Their Own Weights",
+   "url": "https://arxiv.org/abs/2611.21885",
+   "summary": "Article URL: https://arxiv.org/abs/2611.21885 Comments URL: https://news.ycombinator.com/item?id=50577265 Points: 95 # Comments: 31",
+   "published_at": 1795192146.0,
+   "published_bj": "2026-11-21 00:29"
+  },
+  {
+   "id": "f4afc7fa405a7b68",
+   "source": "TechCrunch",
+   "title": "Bending Spoons buys Mailchimp for $3.68B",
+   "url": "https://techcrunch.com/2026/11/20/bending-spoons-buys-mailchimp-for-3-68-billion/",
+   "summary": "Intuit acquired the company in 2021 for roughly $12 billion, so it looks like Bending Spoons is getting quite a bargain.",
+   "published_at": 1795191366.0,
+   "published_bj": "2026-11-21 00:16"
+  },
+  {
+   "id": "0f91fd56b7b2ffb9",
+   "source": "cnBeta",
+   "title": "Anthropic数学家声称与Claude合作证明黎曼猜想 还提出广义黎曼猜想的证明",
+   "url": "https://www.cnbeta.com.tw/articles/science/1587306.htm",
+   "summary": "一项可能引起数学界巨大震动的消息近日出现：Anthropic数学家Levent Alpöge声称，他在人工智能模型Claude的协助下，找到了黎曼猜想的证明，并进一步声称解决了范围更广的广义黎曼猜想（Generalized Riemann Hypothesis，GRH）。 阅读全文",
+   "published_at": 1795191162.0,
+   "published_bj": "2026-11-21 00:12"
+  },
+  {
+   "id": "1939ef1e21eed4d2",
+   "source": "cnBeta",
+   "title": "传AMD Zen 6桌面处理器延期 从2027Q1推迟到COMPUTEX 2027之后",
+   "url": "https://www.cnbeta.com.tw/articles/tech/1587304.htm",
+   "summary": "2024年7月，AMD在美国洛杉矶举行的“AMD Tech Day 2024”上，更新了CPU的技术路线图，首次公开确定了Zen 5系列之后将是Zen 6系列架构。其中针对桌面平台，AMD准备了Olympic Ridge，将继续沿用现有的AM5平台。 阅读全文",
+   "published_at": 1795191074.0,
+   "published_bj": "2026-11-21 00:11"
+  },
+  {
+   "id": "7bb1e4f6e148ee42",
+   "source": "cnBeta",
+   "title": "Architect Labs称其由AI设计的全新CPU性能提升近5倍",
+   "url": "https://www.cnbeta.com.tw/articles/tech/1587302.htm",
+   "summary": "人工智能初创公司Architect Labs声称，其实验性Frostbite（寒霜） CPU架构的每瓦性能比传统处理器核心高4.59倍，单位面积性能高8.77倍。Frostbite从零开始利用人工智能设计，采用了一种截然不同的计算方法，但其令人瞩目的成果尚未在实际芯片上得到验证。 阅读全文",
+   "published_at": 1795191060.0,
+   "published_bj": "2026-11-21 00:11"
+  },
+  {
+   "id": "13b0f6f8aef9a4eb",
+   "source": "cnBeta",
+   "title": "德国百年车企用中国技术造车 零跑欧宝正式签约",
+   "url": "https://www.cnbeta.com.tw/articles/tech/1587300.htm",
+   "summary": "今日， 零跑科技创始人、董事长兼CEO朱江明与欧宝CEO Florian Huettl正式签署合作协议，双方将共同开发一款全新的C级SUV车型，新车预计2028年正式开启销售，并在西班牙萨拉戈萨工厂生产。 阅读全文",
+   "published_at": 1795190856.0,
+   "published_bj": "2026-11-21 00:07"
+  },
+  {
+   "id": "06f48b568d9f781c",
+   "source": "cnBeta",
+   "title": "特斯拉Cybercab最新航拍图曝光：车顶方形面板疑为集成星链",
+   "url": "https://www.cnbeta.com.tw/articles/tech/1587298.htm",
+   "summary": "特斯拉无人驾驶车辆Cybercab首批交付临近。最新航拍图显示，待发运的量产车车顶均装有方形面板，面板位置与官方公布的星链集成位置吻合。特斯拉自7月起已多次公开表示Cybercab将集成星链服务。 阅读全文",
+   "published_at": 1795190801.0,
+   "published_bj": "2026-11-21 00:06"
+  },
+  {
+   "id": "7e89f06540609c16",
+   "source": "Hacker News",
+   "title": "I'll never buy Framework hardware again",
+   "url": "https://poolp.org/posts/2026-11-20/ill-never-buy-framework-hardware-again/",
+   "summary": "Article URL: https://poolp.org/posts/2026-11-20/ill-never-buy-framework-hardware-again/ Comments URL: https://news.ycombinator.com/item?id=50576855 Points: 395 # Comments: 252",
+   "published_at": 1795190790.0,
+   "published_bj": "2026-11-21 00:06"
+  },
+  {
+   "id": "c1fd5103c0614799",
+   "source": "cnBeta",
+   "title": "Anthropic股价下跌 回吐IPO首日大部分涨幅",
+   "url": "https://www.cnbeta.com.tw/articles/tech/1587296.htm",
+   "summary": "Anthropic PBC股价周五回吐上市首日的大部分涨幅。这家AI实验室刚刚完成史上规模最大的首次公开募股，其股价表现正在考验投资者的信心。 阅读全文",
+   "published_at": 1795190555.0,
+   "published_bj": "2026-11-21 00:02"
+  },
+  {
+   "id": "c4f3f92bd0f8eeeb",
+   "source": "IT之家",
+   "title": "QQ 鸿蒙版 App 获 9.2.90 邀测升级：新增支持互动标识、表情搜索等功能",
+   "url": "https://www.ithome.com/1/030/279.htm",
+   "summary": "IT之家 11 月 21 日消息，QQ 鸿蒙版 App 昨日在华为应用市场（App Gallery）开启 9.2.90 (3680) 版本邀测升级（需收到短信通知后点击链接跳转安装），测试时间为 2026/11/20-2026/12/11。 IT之家附 QQ 鸿蒙版 App 本次升级内容如下： 新增支持查看历史头像 好友设置页新增“他的线索” 新增支持互动标识 新增支持表情搜索 修复一些已知体验问题 目前 QQ 鸿蒙版已获 5.2 万个评分（评分 2.5），已支持单聊、群聊、多人语音或视频通话、抢红包，刷空间好友动态、短视频、频道、扫一扫、手机 / 平板双端登录等功能。",
+   "published_at": 1795190413.0,
+   "published_bj": "2026-11-21 00:00"
+  }
+ ]
+}
