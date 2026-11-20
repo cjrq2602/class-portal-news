@@ -1,0 +1,374 @@
+{
+ "type": "today",
+ "date": "2026-11-20",
+ "window": {
+  "start_ts": 1795104000.0,
+  "end_ts": 1795136400.0
+ },
+ "generated_at": 1795162146.5179694,
+ "generator": "action",
+ "news_count": 43,
+ "keywords": [
+  "能源",
+  "不会",
+  "仓促",
+  "决定",
+  "周年",
+  "在新",
+  "大学",
+  "定对",
+  "对伊",
+  "年前"
+ ],
+ "points": [
+  {
+   "text": "【普京】中新网11月20日电 据美国阿克西奥斯新闻网站报道，美国总统特朗普19日表示，在新年到来之前，他不会就伊朗问题的下一步行动“仓促”作出决定",
+   "keyword": "普京",
+   "news_ids": [
+    "9ba396cbae07ad8c"
+   ],
+   "refs": [
+    {
+     "id": "9ba396cbae07ad8c",
+     "title": "美媒：特朗普称不会在新年前“仓促”决定对伊行动",
+     "source": "中新网即时",
+     "url": "https://www.chinanews.com.cn/gj/2026/11-20/10734989.shtml",
+     "published_at": 1795128316.0
+    }
+   ]
+  },
+  {
+   "text": "【能源】中新社巴黎11月19日电 （记者 李洋）国际能源署当地时间19日发布《2026年世界能源展望》报告，警告中东冲突很可能对能源市场构成持久影响",
+   "keyword": "能源",
+   "news_ids": [
+    "0c2b9fe3e55355b8"
+   ],
+   "refs": [
+    {
+     "id": "0c2b9fe3e55355b8",
+     "title": "国际能源署：中东冲突很可能对能源市场构成持久影响",
+     "source": "中新网即时",
+     "url": "https://www.chinanews.com.cn/gj/2026/11-20/10734995.shtml",
+     "published_at": 1795131557.0
+    }
+   ]
+  },
+  {
+   "text": "【大学】在湖南一所高校的《网页设计与制作》课堂上，老师站在讲台上实时输入提示词，让AI生成一个餐馆介绍页面，台下同学跟着操作",
+   "keyword": "大学",
+   "news_ids": [
+    "e2c9219825e060c0"
+   ],
+   "refs": [
+    {
+     "id": "e2c9219825e060c0",
+     "title": "AI走进大学课堂：教什么，怎么教",
+     "source": "中新网即时",
+     "url": "https://www.chinanews.com.cn/sh/2026/11-20/10735011.shtml",
+     "published_at": 1795134089.0
+    }
+   ]
+  },
+  {
+   "text": "【ipo】中新社纽约11月19日电 (记者 王帆)美国人工智能公司Anthropic当地时间19日在纽约纳斯达克证券交易所上市，其首次公开募股(IPO)融",
+   "keyword": "ipo",
+   "news_ids": [
+    "5d763d90ffdffce9"
+   ],
+   "refs": [
+    {
+     "id": "5d763d90ffdffce9",
+     "title": "Anthropic上市 创史上最大IPO融资纪录",
+     "source": "中新网即时",
+     "url": "https://www.chinanews.com.cn/gj/2026/11-20/10734997.shtml",
+     "published_at": 1795131377.0
+    }
+   ]
+  },
+  {
+   "text": "【周年】香港TVB迎59周年台庆 汪明荃等亮相红毯",
+   "keyword": "周年",
+   "news_ids": [
+    "7a0298a3b75d5185"
+   ],
+   "refs": [
+    {
+     "id": "7a0298a3b75d5185",
+     "title": "香港TVB迎59周年台庆 汪明荃等亮相红毯",
+     "source": "中新网即时",
+     "url": "http://www.chinanews.com.cn/tp/hd2011/2026/11-20/1211262.shtml",
+     "published_at": 1795134638.0
+    }
+   ]
+  },
+  {
+   "text": "【法院】中新社加德满都11月19日电 (记者 崔楠)尼泊尔警方中央调查局发言人19日证实，加德满都地方法院当天批准警方继续羁押两名前劳工部长等六人4天",
+   "keyword": "法院",
+   "news_ids": [
+    "98c29b06c434c528"
+   ],
+   "refs": [
+    {
+     "id": "98c29b06c434c528",
+     "title": "尼泊尔法院批准羁押两名前劳工部长",
+     "source": "中新网即时",
+     "url": "https://www.chinanews.com.cn/gj/2026/11-20/10734994.shtml",
+     "published_at": 1795131639.0
+    }
+   ]
+  },
+  {
+   "text": "【一移】中新网11月20日电 据路透社报道，当地官员19日表示，一艘载有移民的船只在西非国家塞内加尔沿海倾覆，已造成数十人下落不明",
+   "keyword": "一移",
+   "news_ids": [
+    "fb99dd5217b7cc80"
+   ],
+   "refs": [
+    {
+     "id": "fb99dd5217b7cc80",
+     "title": "外媒：一移民船在塞内加尔沿海倾覆 已致数十人失踪",
+     "source": "中新网即时",
+     "url": "https://www.chinanews.com.cn/gj/2026/11-20/10734992.shtml",
+     "published_at": 1795130322.0
+    }
+   ]
+  },
+  {
+   "text": "昔日宿敌签下军事协议，美防长称委内瑞拉已变“顺从伙伴”，马杜罗狱中荐书 | 国际早察",
+   "keyword": "",
+   "news_ids": [
+    "898c8fbf1872bd67"
+   ],
+   "refs": [
+    {
+     "id": "898c8fbf1872bd67",
+     "title": "昔日宿敌签下军事协议，美防长称委内瑞拉已变“顺从伙伴”，马杜罗狱中荐书",
+     "source": "中新网即时",
+     "url": "https://www.chinanews.com.cn/gj/2026/11-20/10735023.shtml",
+     "published_at": 1795136019.0
+    }
+   ]
+  },
+  {
+   "text": "香港教育局提出小學二年級學生應該初步掌握以「漢語拼音輸入法」在電腦上輸入中文",
+   "keyword": "",
+   "news_ids": [
+    "14957ee78b751455"
+   ],
+   "refs": [
+    {
+     "id": "14957ee78b751455",
+     "title": "從倉頡換成漢語拼音：電腦輸入法會影響下一代學習中文嗎？",
+     "source": "BBC中文",
+     "url": "https://www.bbc.com/zhongwen/articles/cxq6e216p7ylo/trad?at_medium=RSS&at_campaign=rss",
+     "published_at": 1795134812.0
+    }
+   ]
+  },
+  {
+   "text": "从观摩一台手术、完成一次进修，到来中国寻找新药、新方法——",
+   "keyword": "",
+   "news_ids": [
+    "6bb6247f7eab8aca"
+   ],
+   "refs": [
+    {
+     "id": "6bb6247f7eab8aca",
+     "title": "一带一路”上的医疗合作",
+     "source": "中新网即时",
+     "url": "https://www.chinanews.com.cn/ydyl/2026/11-20/10735015.shtml",
+     "published_at": 1795134638.0
+    }
+   ]
+  },
+  {
+   "text": "本报记者 王美华",
+   "keyword": "",
+   "news_ids": [
+    "fb15267ece8c4c4e"
+   ],
+   "refs": [
+    {
+     "id": "fb15267ece8c4c4e",
+     "title": "零添加”“0蔗糖”未必更健康",
+     "source": "中新网即时",
+     "url": "https://www.chinanews.com.cn/jk/2026/11-20/10735009.shtml",
+     "published_at": 1795133321.0
+    }
+   ]
+  },
+  {
+   "text": "中新网11月20日电 据中央气象台网站消息，昨日，全国大部降水稀少，山东半岛出现雨雪天气",
+   "keyword": "",
+   "news_ids": [
+    "d23fe421f94cb769"
+   ],
+   "refs": [
+    {
+     "id": "d23fe421f94cb769",
+     "title": "中央气象台：未来两天，全国大部降水稀少",
+     "source": "中新网即时",
+     "url": "https://www.chinanews.com.cn/sh/2026/11-20/10735007.shtml",
+     "published_at": 1795133263.0
+    }
+   ]
+  },
+  {
+   "text": "本报记者 路艳霞",
+   "keyword": "",
+   "news_ids": [
+    "234f9af44d7f3119"
+   ],
+   "refs": [
+    {
+     "id": "234f9af44d7f3119",
+     "title": "抄袭、洗稿事件频发 文学刊物如何守住“原创防线”",
+     "source": "中新网即时",
+     "url": "https://www.chinanews.com.cn/cul/2026/11-20/10735008.shtml",
+     "published_at": 1795133114.0
+    }
+   ]
+  },
+  {
+   "text": "研究发现：大脑的“青春期”能持续到32岁左右",
+   "keyword": "",
+   "news_ids": [
+    "edd789dcefbe6ca1"
+   ],
+   "refs": [
+    {
+     "id": "edd789dcefbe6ca1",
+     "title": "研究发现：大脑的“青春期”能持续到32岁左右",
+     "source": "中新网即时",
+     "url": "https://www.chinanews.com.cn/sh/2026/11-20/10735006.shtml",
+     "published_at": 1795132312.0
+    }
+   ]
+  },
+  {
+   "text": "强化对党忠诚教育（学习贯彻党的二十届五中全会精神）",
+   "keyword": "",
+   "news_ids": [
+    "416e60a2d5b4e38f"
+   ],
+   "refs": [
+    {
+     "id": "416e60a2d5b4e38f",
+     "title": "强化对党忠诚教育（学习贯彻党的二十届五中全会精神）",
+     "source": "中新网即时",
+     "url": "https://www.chinanews.com.cn/gn/2026/11-20/10735003.shtml",
+     "published_at": 1795132200.0
+    }
+   ]
+  }
+ ],
+ "article": {
+  "title": "2026-11-20 新闻总结",
+  "paragraphs": [
+   {
+    "kind": "lead",
+    "text": "今天共收录 43 条新闻，来自 3 家媒体。把标题放在一起看，讨论主要集中在 能源、IPO、AI 这几个方向上，其余消息更像是零散补充。"
+   },
+   {
+    "kind": "section",
+    "heading": "美媒：特朗普称不会在新年前“仓促",
+    "text": "先看「美媒：特朗普称不会在新年前“仓促」。中新网11月20日电 据美国阿克西奥斯新闻网站报道，美国总统特朗普19日表示，在新年到来之前，另有 4 条消息指向同一话题。单看一条新闻容易高估影响，放到最近几周的脉络里，它更像是一个渐进变化中的节点。",
+    "news_ids": [
+     "9ba396cbae07ad8c"
+    ],
+    "refs": [
+     {
+      "id": "9ba396cbae07ad8c",
+      "title": "美媒：特朗普称不会在新年前“仓促”决定对伊行动",
+      "source": "中新网即时",
+      "url": "https://www.chinanews.com.cn/gj/2026/11-20/10734989.shtml",
+      "published_at": 1795128316.0
+     }
+    ]
+   },
+   {
+    "kind": "section",
+    "heading": "能源",
+    "text": "与此同时「能源」。中新社巴黎11月19日电 （记者 李洋）国际能源署当地时间19日发布《2026年世界能源展望》报告，另有 3 条消息指向同一话题。从节奏上看，行业已经从「能不能做」转向「做得便不便宜」，这通常意味着竞争会更务实。",
+    "news_ids": [
+     "0c2b9fe3e55355b8"
+    ],
+    "refs": [
+     {
+      "id": "0c2b9fe3e55355b8",
+      "title": "国际能源署：中东冲突很可能对能源市场构成持久影响",
+      "source": "中新网即时",
+      "url": "https://www.chinanews.com.cn/gj/2026/11-20/10734995.shtml",
+      "published_at": 1795131557.0
+     }
+    ]
+   },
+   {
+    "kind": "section",
+    "heading": "AI",
+    "text": "另一个值得注意的方向是「AI」。在湖南一所高校的《网页设计与制作》课堂上，老师站在讲台上实时输入提示词，让AI生成一个餐馆介绍页面，另有 5 条消息指向同一话题。这条消息短期内的实际影响可能有限，但它指向的方向值得放进观察名单。",
+    "news_ids": [
+     "e2c9219825e060c0"
+    ],
+    "refs": [
+     {
+      "id": "e2c9219825e060c0",
+      "title": "AI走进大学课堂：教什么，怎么教",
+      "source": "中新网即时",
+      "url": "https://www.chinanews.com.cn/sh/2026/11-20/10735011.shtml",
+      "published_at": 1795134089.0
+     }
+    ]
+   },
+   {
+    "kind": "section",
+    "heading": "IPO",
+    "text": "相比之下「IPO」。中新社纽约11月19日电 (记者 王帆)美国人工智能公司Anthropic当地时间19日在纽约纳斯达克证券交易所上市，其首次公开募股(IPO)融资总额超过813亿美元，另有 1 条消息指向同一话题。资本动作往往领先产品一年，值得盯的不是金额，而是钱最后花向了算力、场景还是补贴。",
+    "news_ids": [
+     "5d763d90ffdffce9"
+    ],
+    "refs": [
+     {
+      "id": "5d763d90ffdffce9",
+      "title": "Anthropic上市 创史上最大IPO融资纪录",
+      "source": "中新网即时",
+      "url": "https://www.chinanews.com.cn/gj/2026/11-20/10734997.shtml",
+      "published_at": 1795131377.0
+     }
+    ]
+   },
+   {
+    "kind": "glossary",
+    "items": [
+     {
+      "term": "AI",
+      "desc": "人工智能，让机器完成识别、生成、判断等原本需要人做的任务"
+     },
+     {
+      "term": "IPO",
+      "desc": "首次公开募股，公司第一次把股票卖给公众并上市"
+     },
+     {
+      "term": "一带一路",
+      "desc": "“丝绸之路经济带”和“21 世纪海上丝绸之路”国际合作倡议"
+     },
+     {
+      "term": "算力",
+      "desc": "计算能力，通常用 GPU 数量和浮点性能衡量，是训练大模型的门槛"
+     }
+    ]
+   },
+   {
+    "kind": "outlook",
+    "text": "把这几条放在一起看，最值得跟踪的是 能源 和 IPO 两条线：一条决定技术能走多远，一条决定它多快能落到普通人的日常里。至于其他消息，可以先放进观察名单，等后续有更实的进展再判断。"
+   }
+  ],
+  "word_count": 658
+ },
+ "ai_enhanced": false,
+ "schema": 1,
+ "window_bj": {
+  "start": "2026-11-20 00:00",
+  "end": "2026-11-20 09:00"
+ }
+}

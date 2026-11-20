@@ -1,0 +1,382 @@
+{
+ "type": "today",
+ "date": "2026-11-20",
+ "window": {
+  "start_ts": 1795104000.0,
+  "end_ts": 1795136400.0
+ },
+ "generated_at": 1795162146.4109464,
+ "generator": "action",
+ "news_count": 86,
+ "keywords": [
+  "ai",
+  "苹果",
+  "anthropic",
+  "智能",
+  "the",
+  "to",
+  "google",
+  "for",
+  "gemini",
+  "iphone"
+ ],
+ "points": [
+  {
+   "text": "【ai】IT之家 11 月 20 日消息，彭博社马克 · 古尔曼（Mark Gurman）今日报道称，苹果正在开发自主 AI 智能体，计划让 AI 代替",
+   "keyword": "ai",
+   "news_ids": [
+    "f4b652820e14049c"
+   ],
+   "refs": [
+    {
+     "id": "f4b652820e14049c",
+     "title": "苹果正自研 AI 智能体：可操控设备、浏览网页、编写代码，以期与 OpenAI、Anthropic 竞争",
+     "source": "IT之家",
+     "url": "https://www.ithome.com/1/029/750.htm",
+     "published_at": 1795128960.0
+    }
+   ]
+  },
+  {
+   "text": "【ai】Google's latest update to Gemini brings an AI agent to the Mac that can ",
+   "keyword": "ai",
+   "news_ids": [
+    "a9eb8030f63f6f14"
+   ],
+   "refs": [
+    {
+     "id": "a9eb8030f63f6f14",
+     "title": "Google gives Gemini the ability to use your Mac for you",
+     "source": "TechCrunch",
+     "url": "https://techcrunch.com/2026/11/19/google-gives-gemini-the-ability-to-use-your-mac-for-you/",
+     "published_at": 1795111751.0
+    }
+   ]
+  },
+  {
+   "text": "【ai】Google周四宣布，其macOS版Gemini桌面应用正式引入“电脑操作”能力，让人工智能能够代表用户执行任务，包括操作原生Mac应用，以及在",
+   "keyword": "ai",
+   "news_ids": [
+    "c8a221d25cac7297"
+   ],
+   "refs": [
+    {
+     "id": "c8a221d25cac7297",
+     "title": "Google为Mac版Gemini推出“电脑操作”功能 AI可代用户完成多步骤任务",
+     "source": "cnBeta",
+     "url": "https://www.cnbeta.com.tw/articles/tech/1587154.htm",
+     "published_at": 1795119551.0
+    }
+   ]
+  },
+  {
+   "text": "【ai】In some of these instances, employees said Muse surfaced messages about ",
+   "keyword": "ai",
+   "news_ids": [
+    "ed0d870272632b13"
+   ],
+   "refs": [
+    {
+     "id": "ed0d870272632b13",
+     "title": "Meta’s AI agent Muse is mixing up conversations and exposing private data, report says",
+     "source": "TechCrunch",
+     "url": "https://techcrunch.com/2026/11/19/metas-ai-agent-muse-is-mixing-up-conversations-and-exposing-private-data-report-says/",
+     "published_at": 1795109920.0
+    }
+   ]
+  },
+  {
+   "text": "【anthropic】At the upgraded $83/share IPO price, Anthropic's seven founders each poc",
+   "keyword": "anthropic",
+   "news_ids": [
+    "d50737e29aba2c60"
+   ],
+   "refs": [
+    {
+     "id": "d50737e29aba2c60",
+     "title": "Anthropic’s 7 founders cashed out nearly $2B in record-breaking IPO",
+     "source": "TechCrunch",
+     "url": "https://techcrunch.com/2026/11/19/anthropics-7-founders-cashed-out-nearly-2b-in-record-breaking-ipo/",
+     "published_at": 1795135430.0
+    }
+   ]
+  },
+  {
+   "text": "【手机】IT之家 11 月 20 日消息， OPPO Reno17 系列手机今日开售，搭载全焦段 4K 超清长实况，售价 3599 元起（国补后 309",
+   "keyword": "手机",
+   "news_ids": [
+    "d6137f40ad7a405e"
+   ],
+   "refs": [
+    {
+     "id": "d6137f40ad7a405e",
+     "title": "OPPO Reno17 系列手机开售：全焦段 4K 超清长实况，3599 元起（国补后 3099 元起）",
+     "source": "IT之家",
+     "url": "https://www.ithome.com/1/029/752.htm",
+     "published_at": 1795130200.0
+    }
+   ]
+  },
+  {
+   "text": "IT之家 11 月 20 日消息，昨晚，特斯拉公司副总裁陶琳分享了马斯克中国行最新消息",
+   "keyword": "",
+   "news_ids": [
+    "89ef24ad0a4600b9"
+   ],
+   "refs": [
+    {
+     "id": "89ef24ad0a4600b9",
+     "title": "特斯拉副总裁陶琳：马斯克 24 小时中国行专门从深圳飞到上海，对上海超级工厂赞赏有加",
+     "source": "IT之家",
+     "url": "https://www.ithome.com/1/029/778.htm",
+     "published_at": 1795136213.0
+    }
+   ]
+  },
+  {
+   "text": "IT之家 11 月 20 日消息，据央视新闻报道，11 月 19 日， 全国首个独立运行的兆瓦级海岛微电网 在福建福鼎台山岛投运，台山岛彻底告别",
+   "keyword": "",
+   "news_ids": [
+    "b39efbb070d82614"
+   ],
+   "refs": [
+    {
+     "id": "b39efbb070d82614",
+     "title": "全国首个独立运行的兆瓦级海岛微电网投运",
+     "source": "IT之家",
+     "url": "https://www.ithome.com/1/029/777.htm",
+     "published_at": 1795136010.0
+    }
+   ]
+  },
+  {
+   "text": "IT之家 11 月 20 日消息，博主 @SugarDesign 今日分享了一张疑似蔚来乐道 L70 伪装车高清谍照，车灯采用假贴纸伪装",
+   "keyword": "",
+   "news_ids": [
+    "d390410ad7364fb8"
+   ],
+   "refs": [
+    {
+     "id": "d390410ad7364fb8",
+     "title": "蔚来乐道 L70 伪装车高清谍照疑曝光，乐道 SUV 家族再上新",
+     "source": "IT之家",
+     "url": "https://www.ithome.com/1/029/775.htm",
+     "published_at": 1795135612.0
+    }
+   ]
+  },
+  {
+   "text": "IT之家 11 月 20 日消息，据央视新闻今日报道，蓝箭航天此前 首次陆地成功回收的朱雀三号遥二火箭的 9 台发动机已全部完成点火试车， 具备",
+   "keyword": "",
+   "news_ids": [
+    "c9f4714f0e506762"
+   ],
+   "refs": [
+    {
+     "id": "c9f4714f0e506762",
+     "title": "蓝箭航天朱雀三号“二手回收”火箭发动机完成试车，具备再次使用条件",
+     "source": "IT之家",
+     "url": "https://www.ithome.com/1/029/774.htm",
+     "published_at": 1795135608.0
+    }
+   ]
+  },
+  {
+   "text": "IT之家 11 月 20 日消息，今日，《饥饿游戏》前传电影《饥饿游戏：收获日出》在中国内地正式上映（同步北美）",
+   "keyword": "",
+   "news_ids": [
+    "2b171f96bbf23764"
+   ],
+   "refs": [
+    {
+     "id": "2b171f96bbf23764",
+     "title": "大逃杀电影《饥饿游戏：收获日出》今日内地上映：48 人仅 1 人存活",
+     "source": "IT之家",
+     "url": "https://www.ithome.com/1/029/767.htm",
+     "published_at": 1795134051.0
+    }
+   ]
+  },
+  {
+   "text": "IT之家 11 月 20 日消息，据国铁集团官方，11 月 20 日起，铁路部门将在 12306App 系统通知中 新增候补兑现情况和列车运行调",
+   "keyword": "",
+   "news_ids": [
+    "af132b2c21a5c8ab"
+   ],
+   "refs": [
+    {
+     "id": "af132b2c21a5c8ab",
+     "title": "铁路 12306 App 信息通知服务今日起优化：新增候补兑现情况和列车运行调整等",
+     "source": "IT之家",
+     "url": "https://www.ithome.com/1/029/763.htm",
+     "published_at": 1795133345.0
+    }
+   ]
+  },
+  {
+   "text": "IT之家 11 月 20 日消息，继 Visa 之后，美国最大银行摩根大通与万事达卡于当地时间 11 月 19 日先后披露旗下第三方服务商遭遇网",
+   "keyword": "",
+   "news_ids": [
+    "afb5daed34b30d18"
+   ],
+   "refs": [
+    {
+     "id": "afb5daed34b30d18",
+     "title": "Visa、万事达卡接连通报网络攻击事件：部分用户数据泄露，支付网络未受影响",
+     "source": "IT之家",
+     "url": "https://www.ithome.com/1/029/758.htm",
+     "published_at": 1795131466.0
+    }
+   ]
+  },
+  {
+   "text": "Article URL: https://regexr",
+   "keyword": "",
+   "news_ids": [
+    "c30815e5694b37bc"
+   ],
+   "refs": [
+    {
+     "id": "c30815e5694b37bc",
+     "title": "RegExr: Temporarily Offline",
+     "source": "Hacker News",
+     "url": "https://regexr.com/",
+     "published_at": 1795127227.0
+    }
+   ]
+  },
+  {
+   "text": "Article URL: https://www",
+   "keyword": "",
+   "news_ids": [
+    "708b983ac4cf4cac"
+   ],
+   "refs": [
+    {
+     "id": "708b983ac4cf4cac",
+     "title": "Synology Security Advisory",
+     "source": "Hacker News",
+     "url": "https://www.synology.com/en-uk/security/advisory/Synology_SA_26_21",
+     "published_at": 1795126420.0
+    }
+   ]
+  }
+ ],
+ "article": {
+  "title": "2026-11-20 新闻总结",
+  "paragraphs": [
+   {
+    "kind": "lead",
+    "text": "今天共收录 86 条新闻，来自 7 家媒体。把标题放在一起看，讨论主要集中在 AI、Agent、IPO 这几个方向上，其余消息更像是零散补充。"
+   },
+   {
+    "kind": "section",
+    "heading": "AI",
+    "text": "先看「AI」。IT之家 11 月 20 日消息，彭博社马克 · 古尔曼（Mark Gurman）今日报道称，苹果正在开发自主 AI 智能体，计划让 AI 代替用户执行设备操控、应用操作，另有 49 条消息指向同一话题。消费电子的看点不在参数堆叠，而在这些参数能不能变成日常可感知的体验差异。",
+    "news_ids": [
+     "f4b652820e14049c"
+    ],
+    "refs": [
+     {
+      "id": "f4b652820e14049c",
+      "title": "苹果正自研 AI 智能体：可操控设备、浏览网页、编写代码，以期与 OpenAI、Anthropic 竞争",
+      "source": "IT之家",
+      "url": "https://www.ithome.com/1/029/750.htm",
+      "published_at": 1795128960.0
+     }
+    ]
+   },
+   {
+    "kind": "section",
+    "heading": "模型",
+    "text": "与此同时「模型」。Google Play 将强制要求应用适配折叠屏，微软宣布 Microsoft To Do 将于明年 6 月全面停用等…，另有 2 条消息指向同一话题。这类进展更像是把已有能力往工程化落地推了一步，真正的分水岭在于成本和可靠性能不能同时压下来。",
+    "news_ids": [
+     "616d9c9f524fbe99"
+    ],
+    "refs": [
+     {
+      "id": "616d9c9f524fbe99",
+      "title": "派早报：Google 推出 Gemini 4 Neon 模型，网易 UU 远程将于 12 月推出付费会员等",
+      "source": "少数派",
+      "url": "https://sspai.com/post/119311",
+      "published_at": 1795134871.0
+     }
+    ]
+   },
+   {
+    "kind": "section",
+    "heading": "电脑",
+    "text": "另一个值得注意的方向是「电脑」。Google周四宣布，其macOS版Gemini桌面应用正式引入“电脑操作”能力，让人工智能能够代表用户执行任务，包括操作原生Mac应用，另有 5 条消息指向同一话题。这类进展更像是把已有能力往工程化落地推了一步，真正的分水岭在于成本和可靠性能不能同时压下来。",
+    "news_ids": [
+     "c8a221d25cac7297"
+    ],
+    "refs": [
+     {
+      "id": "c8a221d25cac7297",
+      "title": "Google为Mac版Gemini推出“电脑操作”功能 AI可代用户完成多步骤任务",
+      "source": "cnBeta",
+      "url": "https://www.cnbeta.com.tw/articles/tech/1587154.htm",
+      "published_at": 1795119551.0
+     }
+    ]
+   },
+   {
+    "kind": "section",
+    "heading": "手机",
+    "text": "相比之下「手机」。IT之家 11 月 20 日消息， OPPO Reno17 系列手机今日开售，搭载全焦段 4K 超清长实况，另有 4 条消息指向同一话题。价格和生态往往比硬件规格更能决定一款产品能不能留下来。",
+    "news_ids": [
+     "d6137f40ad7a405e"
+    ],
+    "refs": [
+     {
+      "id": "d6137f40ad7a405e",
+      "title": "OPPO Reno17 系列手机开售：全焦段 4K 超清长实况，3599 元起（国补后 3099 元起）",
+      "source": "IT之家",
+      "url": "https://www.ithome.com/1/029/752.htm",
+      "published_at": 1795130200.0
+     }
+    ]
+   },
+   {
+    "kind": "glossary",
+    "items": [
+     {
+      "term": "AI",
+      "desc": "人工智能，让机器完成识别、生成、判断等原本需要人做的任务"
+     },
+     {
+      "term": "API",
+      "desc": "应用程序接口，让不同软件按约定好的方式互相调用"
+     },
+     {
+      "term": "IPO",
+      "desc": "首次公开募股，公司第一次把股票卖给公众并上市"
+     },
+     {
+      "term": "Agent",
+      "desc": "智能体，能自己拆解任务、调用工具并连续执行的 AI 程序"
+     },
+     {
+      "term": "数据中心",
+      "desc": "集中放置服务器、供电与散热设施的大型机房"
+     },
+     {
+      "term": "算力",
+      "desc": "计算能力，通常用 GPU 数量和浮点性能衡量，是训练大模型的门槛"
+     }
+    ]
+   },
+   {
+    "kind": "outlook",
+    "text": "把这几条放在一起看，最值得跟踪的是 AI 和 Agent 两条线：一条决定技术能走多远，一条决定它多快能落到普通人的日常里。至于其他消息，可以先放进观察名单，等后续有更实的进展再判断。"
+   }
+  ],
+  "word_count": 690
+ },
+ "ai_enhanced": false,
+ "schema": 1,
+ "window_bj": {
+  "start": "2026-11-20 00:00",
+  "end": "2026-11-20 09:00"
+ }
+}
