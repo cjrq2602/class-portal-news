@@ -1,8 +1,557 @@
 {
  "date": "2026-11-21",
- "generated_at": 1795218336.6448112,
- "count": 63,
+ "generated_at": 1795240701.5266628,
+ "count": 128,
  "items": [
+  {
+   "id": "b89dc975aceb844b",
+   "source": "InfoQ中文",
+   "title": "智能体 AI 架构：当前挑战与未来机遇",
+   "url": "https://www.infoq.cn/article/TrWuo2vEZRl2xB2XXZNX?utm_source=rss&utm_medium=article",
+   "summary": "点击查看原文>",
+   "published_at": 1795258800.0,
+   "published_bj": "2026-11-21 19:00"
+  },
+  {
+   "id": "4fc1bd1f3d923c1a",
+   "source": "InfoQ中文",
+   "title": "TaoDesign 的知识工程实践：从设计资产到 Agent 持续进化｜AICon北京",
+   "url": "https://www.infoq.cn/article/vhoobUFbLs2hUlTBA4HZ?utm_source=rss&utm_medium=article",
+   "summary": "点击查看原文>",
+   "published_at": 1795255200.0,
+   "published_bj": "2026-11-21 18:00"
+  },
+  {
+   "id": "19389cbf205af108",
+   "source": "InfoQ中文",
+   "title": "Entire Git Forge：面向编码智能体重构 Git 协作方式",
+   "url": "https://www.infoq.cn/article/6swrOq5xUXwVqrREwJwc?utm_source=rss&utm_medium=article",
+   "summary": "点击查看原文>",
+   "published_at": 1795255200.0,
+   "published_bj": "2026-11-21 18:00"
+  },
+  {
+   "id": "5365db40a4524205",
+   "source": "IT之家",
+   "title": "消息称华为星芒品牌已在内部酝酿约三年，将承担更多前沿技术的率先应用任务",
+   "url": "https://www.ithome.com/1/030/353.htm",
+   "summary": "IT之家 11 月 21 日消息，据《每日经济新闻》报道，近日，华为星芒相关负责人在接受媒体采访时透露，星芒品牌已在内部酝酿约三年， 未来一两年，公司不会对其提出过高的销量及经营目标要求 。现阶段，星芒更重要的任务是建立品牌认知、培育目标用户，并验证新的 AI 技术与产品体验。 一个酝酿了约三年的新品牌，为何直到现在才正式推出？华为相关负责人解释称，荣耀独立之后，华为曾经历一段较长时间的供应链和技术体系重建，随后又投入大量资源建设鸿蒙操作系统及应用生态。直到相关基础能力逐步成熟，才具备推出新品牌的条件。 谈及新品牌的销量预期时，华为相关负责人表示：“这一两年新品牌首先是要建立心智，把品牌真正树",
+   "published_at": 1795240088.0,
+   "published_bj": "2026-11-21 13:48"
+  },
+  {
+   "id": "7139e12919cb0a5c",
+   "source": "IT之家",
+   "title": "约 320 亿美元债券落地：马斯克 SpaceX 为英伟达芯片“加杠杆”，收益率超 8%",
+   "url": "https://www.ithome.com/1/030/351.htm",
+   "summary": "IT之家 11 月 21 日消息，科技媒体 The Information 最新博文报道称， 全球首富埃隆 · 马斯克（Elon Musk）旗下 SpaceX 昨日（11 月 20 日）完成约 320 亿美元 （IT之家注：现汇率约合 2,141.43 亿元人民币） 的债券融资，用于采购英伟达等 AI 芯片。 报道称本次 AI 芯片债券融资由高盛、以及 Apollo 管理的 Saturn Funding Trust 发行，主要用于购置英伟达芯片。 这笔债券本身是总额超过 400 亿美元 （现汇率约合 2,676.79 亿元人民币） 融资方案的一部分 ，剩余方案还包括银行贷款等。 IT之家援引博",
+   "published_at": 1795239739.0,
+   "published_bj": "2026-11-21 13:42"
+  },
+  {
+   "id": "b9b43944aac28f6e",
+   "source": "IT之家",
+   "title": "达里奥 2010 年曾拒绝马斯克招揽，2016 年加入 OpenAI 后又出走创立 Anthropic",
+   "url": "https://www.ithome.com/1/030/350.htm",
+   "summary": "IT之家 11 月 21 日消息，据《华尔街日报》今日报道，Anthropic CEO 达里奥 · 阿莫代伊（Dario Amodei）早在 2010 年就曾通过熟人结识埃隆 · 马斯克并受邀参观 SpaceX 办公室。 据称，马斯克当时还向他发出了工作邀请，但达里奥最终选择拒绝。他认为自己的专业能力更适合计算生物学，而不是火箭工程。 达里奥当时正处于职业方向选择阶段。他曾就读于加州理工学院，随后转入斯坦福大学，并在普林斯顿大学攻读物理学博士学位，之后将研究方向转向生物学。与直接进入科技行业相比，他最初更倾向于利用科学研究推动医疗和生物技术进步。 这次与马斯克的接触，是他从学术研究转向科技行业",
+   "published_at": 1795239199.0,
+   "published_bj": "2026-11-21 13:33"
+  },
+  {
+   "id": "12a4028851b0960c",
+   "source": "IT之家",
+   "title": "冲刺 2027 年出海，消息称前小鹏汽车西欧及南欧董事总经理强顺强加入小米汽车",
+   "url": "https://www.ithome.com/1/030/349.htm",
+   "summary": "IT之家 11 月 21 日消息，据界面新闻今日报道，知情人士透露，前小鹏汽车西欧及南欧董事总经理强顺强已于今年 9 月加入小米汽车，出任国际业务部欧洲区董事总经理（Managing Director of Europe）， 常驻德国 。截至目前，小米方面尚未对外官宣这一任命。小米公司暂未回应置评请求。 公开履历显示，强顺强是小鹏海外营销服务体系的早期负责人之一。他毕业于清华大学汽车工程专业，职业生涯起步于丰田、奔驰中国等传统企业的品牌营销体系；加入小鹏汽车之前，他担任兰博基尼大中华区销售与网络负责人。 2019 年，强顺强加入小鹏汽车，先参与国内网络渠道建设，2020 年起转向海外业务。小鹏",
+   "published_at": 1795239050.0,
+   "published_bj": "2026-11-21 13:30"
+  },
+  {
+   "id": "1409a857891d5554",
+   "source": "IT之家",
+   "title": "黄仁勋没有的“护身符”：Anthropic 创始人手握 50.1% 投票权建立“反夺权”机制",
+   "url": "https://www.ithome.com/1/030/348.htm",
+   "summary": "IT之家 11 月 21 日消息，科技媒体 Business Insider 昨日（11 月 20 日）报道，AI 公司 Anthropic 在上市后通过特殊股权设计， 让包括 CEO 达里奥 · 阿莫代伊（Dario Amodei）在内的 7 位联合创始人共同掌握 50.1% 的股东投票权。 报道指出该安排的核心是特殊的 F 类股，即使 Anthropic 公司未来继续发行普通股，创始团队的投票权比例也不会被稀释。普通投资者持有的是常规股份，而创始团队则通过 F 类股保留对公司重大决策的最终控制权。该媒体解读认为， 即便外部资本大量进入，创始人仍能决定董事会构成、战略方向和关键人事安排。 A",
+   "published_at": 1795238059.0,
+   "published_bj": "2026-11-21 13:14"
+  },
+  {
+   "id": "6035aba604b4790a",
+   "source": "IT之家",
+   "title": "GrapheneOS 公开指责谷歌施压，阻挠与摩托罗拉建立第三方系统合作",
+   "url": "https://www.ithome.com/1/030/347.htm",
+   "summary": "IT之家 11 月 21 日消息，GrapheneOS 官方账号在 Mastodon 平台发文，公开指责谷歌试图阻止 OEM 手机厂商与其合作，甚至施压手机制造商不要支持解锁 Bootloader（引导加载程序）。 GrapheneOS 称谷歌曾多次主动联系 Android 设备制造商，询问对方是否正在与 GrapheneOS 合作，并声称谷歌随后会利用 Google Mobile Services（GMS）授权条款向手机厂商施压。 GrapheneOS 指出，相关 GMS 授权条款此前已受到多个司法机构的反垄断审查，并认为谷歌正试图阻止其获得 Pixel 手机以外的硬件支持。 Graphen",
+   "published_at": 1795237502.0,
+   "published_bj": "2026-11-21 13:05"
+  },
+  {
+   "id": "760a35af2b3fd875",
+   "source": "IT之家",
+   "title": "12 张二手英伟达 V100：律师自建 AI 集群跑 DeepSeek，最高每秒 184 个词元",
+   "url": "https://www.ithome.com/1/030/346.htm",
+   "summary": "IT之家 11 月 21 日消息，律师 u/TumbleweedNew6515 昨日（11 月 20 日）在 Reddit 社区发帖，斥资 9,450 美元 （IT之家注：现汇率约合 63,239 元人民币） 使用 12 张二手英伟达 V100 显卡搭建私人 AI 服务器，本地运行 DeepSeek-V4.1-Flash，集群最高吞吐量达到每秒 184 个词元。 在硬件部分，该律师使用 12 张英伟达 NVIDIA Tesla V100 SXM2 32GB 搭建，通过 NVLink 与 PCIe 组成可协同推理的本地 AI 集群，整套硬件采购价约 9,450 美元 （现汇率约合 63,239 ",
+   "published_at": 1795237214.0,
+   "published_bj": "2026-11-21 13:00"
+  },
+  {
+   "id": "763f895cde60b263",
+   "source": "IT之家",
+   "title": "Steam 黑五多款游戏新史低：《战地 6》65.34 元、《对马岛之魂：导剪版》199 元、《最终幻想 7：重制版》35.64 元",
+   "url": "https://www.ithome.com/1/030/344.htm",
+   "summary": "IT之家 11 月 21 日消息，Steam 黑五促销期间，多款游戏价格创下新低。例如，Electronic Arts 与 Battlefield Studios 已为《战地风云 6》开启限时优惠，标准版由 198 元降至 65.34 元，优惠 67%，创该作发售以来最低价。 《战地风云 6：年度游戏版》优惠 45%，购买者除剧情战役和传统多人模式外，还可游玩第五赛季内容，其中包括以“赌场劫案”为主题的阶段。所有玩家均可免费体验《战地风云 REDSEC》模式。《战地风云 REDSEC》整合了大逃杀、“挑战”及 Portal 编辑器，玩家可借助编辑器创建自定义场景。 《对马岛之魂：导演剪辑版》在",
+   "published_at": 1795235725.0,
+   "published_bj": "2026-11-21 12:35"
+  },
+  {
+   "id": "e40814f2c524bbaf",
+   "source": "IT之家",
+   "title": "男子专盯老年住户安装虚拟拨号设备，涉帮信罪被刑拘",
+   "url": "https://www.ithome.com/1/030/343.htm",
+   "summary": "IT之家 11 月 21 日消息，据央视新闻今日报道，北京通州警方 11 月 13 日抓获一名帮信罪嫌疑人，其 5 天内为老年住户安装 4 台 VOIP 虚拟语音转接设备。 11 月 13 日，北京市公安局通州公安分局刑侦支队接到线索，在张家湾辖区太玉园东区一居民家中发现有人疑似为境外诈骗分子提供语音转接设备。 民警在该居民张女士家中座机附近发现 两个可疑小盒子 ，经核实为境外犯罪团伙常用的 VOIP 虚拟语音转接设备。张女士夫妇年事已高，为方便与家人联系，家中仍保留着传统座机。 张女士称，11 月 12 日上午，家中座机接到一通电话，对方自称通信公司工作人员，表示近期通信设备升级，将安排人员",
+   "published_at": 1795233734.0,
+   "published_bj": "2026-11-21 12:02"
+  },
+  {
+   "id": "4b81ba9cb6d0a0d3",
+   "source": "少数派",
+   "title": "这群在鸿蒙写应用的年轻人，只想做点「用得上」的",
+   "url": "https://sspai.com/post/119291",
+   "summary": "上周末，今年正式被列入「全国普通高校学科竞赛排行榜」的2026鸿蒙高校创新赛在南京大学迎来全国总决赛颁奖典礼。华为董事、终端BGCEO何刚出席现场致辞并为获奖选手颁奖。他在现场表示，HarmonyOS ... 查看全文",
+   "published_at": 1795233600.0,
+   "published_bj": "2026-11-21 12:00"
+  },
+  {
+   "id": "91a997d6e948767d",
+   "source": "TechCrunch",
+   "title": "Startup sues Apple in India over tap-to-share contacts feature",
+   "url": "https://techcrunch.com/2026/11/20/startup-sues-apple-in-india-over-tap-to-share-contacts-feature/",
+   "summary": "A U.S. startup is seeking $162 million in damages and an injunction to impact iPhone and Apple Watch imports to India.",
+   "published_at": 1795233600.0,
+   "published_bj": "2026-11-21 12:00"
+  },
+  {
+   "id": "af88bbfa63fdf72c",
+   "source": "IT之家",
+   "title": "商务部：重点监测平台 1-10 月即时零售交易额增速超过两位数",
+   "url": "https://www.ithome.com/1/030/341.htm",
+   "summary": "IT之家 11 月 21 日消息，11 月 20 日， 商务部电子商务司负责人介绍 2026 年 1-10 月我国电子商务发展情况。 2026 年 1-10 月，我国电子商务平稳发展，线上线下融合持续增强消费市场韧性，数字技术赋能产业转型升级，“丝路电商”拓展国际经贸合作，商务领域新质生产力不断培育壮大，助力我国经济向新向优。 据国家统计局数据， 1-10 月全国网上商品和服务零售额增长 3.7% ，其中网上商品零售额增长 2.9%、网上服务零售额增长 5%。 数字产品增长加速，据商务大数据监测，10 月份智能穿戴和笔记本电脑网上零售额分别增长 42.5% 和 32.4%。即时零售激发线下商品",
+   "published_at": 1795232773.0,
+   "published_bj": "2026-11-21 11:46"
+  },
+  {
+   "id": "249c11689d71a43d",
+   "source": "IT之家",
+   "title": "15 亿美元要价太高，曝苹果 / 迪士尼放弃竞购 2030 及 2034 年男足世界杯美国转播权",
+   "url": "https://www.ithome.com/1/030/340.htm",
+   "summary": "IT之家 11 月 21 日消息，CNBC 记者亚历克斯 · 谢尔曼（Alex Sherman）于 11 月 19 日爆料称， 苹果和迪士尼将不参与 2030 年及 2034 年男足世界杯美国市场转播权竞标。 报道指出价格是迪士尼止步的重要原因，这批版权预期价格超过 15 亿美元 （IT之家注：现汇率约合 100.38 亿元人民币） ，而迪士尼还需为现有体育内容续约预留资金。迪士尼持有的美国职业橄榄球大联盟（NFL）、国家冰球联盟（NHL）和美国职业棒球大联盟（MLB）版权，都将在 2030 年前面临续约。 IT之家援引博文介绍，苹果经常被视为热门体育版权的潜在买家，但实际出手一直较为谨慎。苹",
+   "published_at": 1795232068.0,
+   "published_bj": "2026-11-21 11:34"
+  },
+  {
+   "id": "277673d5008eaae7",
+   "source": "IT之家",
+   "title": "孙正义曾考虑万亿美元收购 SK 海力士？软银回应：已不再积极考虑",
+   "url": "https://www.ithome.com/1/030/339.htm",
+   "summary": "IT之家 11 月 21 日消息，据《The Information》今日报道，软银集团董事长兼 CEO 孙正义近期曾接洽华尔街金融机构，探讨为收购韩国 SK 海力士筹集资金，潜在交易规模高达 1 万亿美元 （IT之家注：现汇率约合 6.69 万亿元人民币） 。 不过，软银发言人随后表示，该交易目前已不再处于积极考虑阶段。“软银会探索许多机会，而这笔交易目前已不再纳入积极考虑范围。” 知情人士称，孙正义此前曾考虑通过收购 SK 海力士，进一步扩大软银在人工智能产业链中的布局。SK 海力士是全球主要存储芯片制造商之一，其生产的 HBM 是英伟达等厂商先进 AI 芯片的重要配套产品。 报道指出，S",
+   "published_at": 1795231903.0,
+   "published_bj": "2026-11-21 11:31"
+  },
+  {
+   "id": "08ba89ed0d831fc9",
+   "source": "IT之家",
+   "title": "腾讯混元姚顺雨团队：Hy4 仍有很大改进空间，计划训练更大规模模型",
+   "url": "https://www.ithome.com/1/030/338.htm",
+   "summary": "IT之家 11 月 21 日消息，11 月 21 日凌晨，腾讯首席 AI 科学家、混元大模型负责人姚顺雨和团队成员，在 Reddit 进行了一场持续 120 分钟的 AMA，回答全球开发者关于混元的“任何问题”。 问答环节，有人询问：字节跳动、Kimi 等似乎都在往 3 万亿、甚至 5 万亿参数的超大模型推进，而你们还在 7000 亿。为什么？你们怎么看参数量对模型能力的实际影响？这方面有什么计划？ 混元团队回应：“Hy3 和 Hy4 已经表明， 做得扎实的小模型也能超过更大的模型。 它们的成本也更低，而且在这个过程中，你能学到更多、收获更多。” 不过，混元团队也表示，Hy4 仍有很大的改进空",
+   "published_at": 1795231475.0,
+   "published_bj": "2026-11-21 11:24"
+  },
+  {
+   "id": "255c907c3db11a1c",
+   "source": "IT之家",
+   "title": "Win11 学院：如何在 Windows 11 26x00.10075 开启 WinUI 原生重构版搜索体验",
+   "url": "https://www.ithome.com/1/030/337.htm",
+   "summary": "IT之家 11 月 21 日消息，科技媒体 Windows Latest 今天（11 月 21 日）发布博文，报道称 在 11 月可选更新 KB5132057 中 ， 微软邀请部分 Windows 11 用户体验原生重构的 Windows Search 搜索体验。 Windows 11 26H2 中基于 WinUI 的全新搜索功能。 底层架构方面，新版 Windows Search 搜索摆脱旧版对 WebView2 网页组件的依赖，采用 WinUI 3 原生 UI 框架打造。WinUI 3 属于 Windows App SDK，使用基于 XAML 的界面模型，支持 C++ 和 C# 开发。该框",
+   "published_at": 1795231429.0,
+   "published_bj": "2026-11-21 11:23"
+  },
+  {
+   "id": "d12054f1fb722d65",
+   "source": "Hacker News",
+   "title": "BlackBlaze now explicitly states selling your data for advertisement",
+   "url": "https://www.backblaze.com/company/policy/privacy",
+   "summary": "Article URL: https://www.backblaze.com/company/policy/privacy Comments URL: https://news.ycombinator.com/item?id=50585593 Points: 98 # Comments: 24",
+   "published_at": 1795231396.0,
+   "published_bj": "2026-11-21 11:23"
+  },
+  {
+   "id": "4ceaf0bf85984fb5",
+   "source": "IT之家",
+   "title": "美国 SpaceX 龙飞船脱离空间站启程返回地球，携大量科研样本和设备",
+   "url": "https://www.ithome.com/1/030/335.htm",
+   "summary": "IT之家 11 月 21 日消息，美国太空探索技术公司（SpaceX）货运“龙”飞船 20 日脱离国际空间站，携大量科研样本和设备等启程返回地球。 据美国航空航天局介绍，“龙”飞船于美国东部时间 20 日 12 时 05 分许（北京时间 21 日 1 时 05 分许）脱离国际空间站，预计于美国西部时间 21 日 13 时 55 分许（北京时间 22 日 5 时 55 分许）在加利福尼亚州附近海域溅落。其重返大气层和溅落时将不会有直播。 IT之家查询获悉，该飞船于 10 月 13 日发射，10 月 15 日抵达国际空间站，为航天员送去超过 6300 磅（2860 公斤）的 食品、科研设备与补给 ",
+   "published_at": 1795230121.0,
+   "published_bj": "2026-11-21 11:02"
+  },
+  {
+   "id": "b9049c7414ea185c",
+   "source": "IT之家",
+   "title": "全球仅此一件：马斯克到访上海工厂收到员工特制“边角料手办”，陶琳晒图",
+   "url": "https://www.ithome.com/1/030/334.htm",
+   "summary": "IT之家 11 月 21 日消息，特斯拉公司副总裁陶琳昨晚在微博发文称，CEO 埃隆 · 马斯克当天到访特斯拉上海超级工厂期间，收到一份由工厂员工自行设计、手工制作的“限量手办”，全球仅此一件。 据介绍，这款作品使用特斯拉生产过程中的边角材料制成，将特斯拉车型与上海城市特色元素组合在一起。 陶琳介绍称，这件手办最初只是工厂员工利用业余时间推进的创意项目，随后被作为纪念品赠送给马斯克，马斯克对其设计表示喜欢。 IT之家注：所谓“边角料”，指车身冲压、内饰裁切等工序中产生的余料，并非可独立流通的原材料。 此次上海之行是马斯克 24 小时中国行的一部分。他此前在深圳参加 2026 年 APEC 相关",
+   "published_at": 1795230096.0,
+   "published_bj": "2026-11-21 11:01"
+  },
+  {
+   "id": "7cba01d4a92f5117",
+   "source": "IT之家",
+   "title": "拯救爆满的“下载”文件夹：微软 Win11 将推 AI 整理神器，授权后可查找 / 分类 / 移动 / 重命名文件",
+   "url": "https://www.ithome.com/1/030/333.htm",
+   "summary": "IT之家 11 月 21 日消息，科技媒体 Windows Latest 昨日（11 月 20 日）发布博文，报道称在 Ignite 2026 活动中，微软展示 Copilot“本地文件操作”功能， 在征得用户授权后可以查找、分类、移动或重命名本地文件。 IT之家附上相关视频如下： 微软表示该功能可以减少手动翻找和归类的麻烦，用户主动启用并授权后，即可用日常语言要求 AI 查找、移动文件、创建文件和文件夹，还能根据文件内容批量重命名。 在本次演示中，微软为了便于和团队成员分享内容，要求将“下载”文件夹里的分析师报告整理到 OneDrive。微软 Copilot 请求权限后，扫描相关目录，在 O",
+   "published_at": 1795229960.0,
+   "published_bj": "2026-11-21 10:59"
+  },
+  {
+   "id": "59f8922508e73f69",
+   "source": "IT之家",
+   "title": "英伟达发布 GeForce 621.35 热修复驱动，修复 SSD 后台异常写入问题",
+   "url": "https://www.ithome.com/1/030/332.htm",
+   "summary": "IT之家 11 月 21 日消息，英伟达于当地时间 11 月 20 日发布了 GeForce Hotfix 621.35 显卡驱动，修复此前部分 Game Ready 驱动可能在后台向固态硬盘（SSD）过度写入数据的问题。 这一热修复驱动基于最新的 GeForce Game Ready Driver 621.24 版本，仅包含一项修复： 解决后台可能向 nvlog.nvlgstg 文件过度写入数据的问题，对应 Bug 编号为 7116722。 此前，有用户反馈，安装 GeForce 621.14 和 621.24 驱动后，即使电脑处于空闲状态，系统仍会持续产生大量 SSD 写入操作。相关问题涉",
+   "published_at": 1795229752.0,
+   "published_bj": "2026-11-21 10:55"
+  },
+  {
+   "id": "e45082b928dcf15c",
+   "source": "IT之家",
+   "title": "荣耀 700/700 Pro 核心配置汇总：骁龙 8s Gen4 / 骁龙 8 Gen5，11 月 23 日发布",
+   "url": "https://www.ithome.com/1/030/331.htm",
+   "summary": "IT之家 11 月 21 日消息，荣耀 700/700 Pro 手机将于 11 月 23 日 14:30 发布，博主 @数码闲聊站 今日对新机的核心配置进行了曝光汇总。 IT之家整理如下： 6.57\"1.5K+120Hz LTPS 直屏，0.98mm 四等边，1.59\" 原生背屏 骁龙 8s Gen4 / 骁龙 8 Gen5 处理器 9000mAh 电池 +80W 有线充，Pro 支持 50W 无线充 200Mp 1/1.56\" 主摄 +12Mp 超广角 +50Mp 3.5X 潜望长焦，200mm 迷你增距镜 IP68/IP69/IP69K，光学指纹，机身厚 7.96mm / 重 211g I",
+   "published_at": 1795229597.0,
+   "published_bj": "2026-11-21 10:53"
+  },
+  {
+   "id": "08a92ba424fe9959",
+   "source": "Hacker News",
+   "title": "Clojure will affect the way you think about programming (2017)",
+   "url": "https://eli.thegreenplace.net/2017/clojure-the-perfect-language-to-expand-your-brain/",
+   "summary": "Article URL: https://eli.thegreenplace.net/2017/clojure-the-perfect-language-to-expand-your-brain/ Comments URL: https://news.ycombinator.com/item?id=50585376 Points: 33 # Comments: 6",
+   "published_at": 1795228839.0,
+   "published_bj": "2026-11-21 10:40"
+  },
+  {
+   "id": "b807668812ffa1ac",
+   "source": "IT之家",
+   "title": "安卓手机有望变身 Win11 PC 副屏，微软“连接至 Windows”新功能曝光",
+   "url": "https://www.ithome.com/1/030/330.htm",
+   "summary": "IT之家 11 月 21 日消息，科技媒体 Windows Latest 昨日（11 月 20 日）发布博文，报道称微软正酝酿升级安卓版“连接至 Windows”（Link to Windows）应用，开发“扩展显示”（Extend display）功能， 有望让安卓手机变身电脑副屏。 该媒体指出和当前将手机投屏到电脑显示器上相反，“扩展显示”将部分电脑桌面传送到手机上，为用户额外增加一块显示区域。例如手机可用于放置聊天窗口；如果平板获得支持，更大的屏幕则适合显示参考文档，让闲置设备有机会重新派上用场。 该媒体通过挖掘最新安卓版“连接至 Windows”应用程序，在界面文字、图标及代码中发现相",
+   "published_at": 1795228662.0,
+   "published_bj": "2026-11-21 10:37"
+  },
+  {
+   "id": "c0d1c2fd9b8990d5",
+   "source": "IT之家",
+   "title": "蔚来 ES9 地平线鎏金特别版上市：24K 鎏金车标，售 63.8 万元起",
+   "url": "https://www.ithome.com/1/030/329.htm",
+   "summary": "IT之家 11 月 21 日消息，在蔚来品牌及品牌标识发布十周年之际，蔚来 ES9 地平线鎏金特别版正式上市，售价 63.8 万元起；采用 BaaS 电池租用方式购买，售价 53 万元起。 据官方介绍，该车提供 鎏金拂晓、鎏金晨曦、鎏金朗照 配色，搭载鎏金双叠地平线腰线。历经 8 次喷涂、5 次烘烤，多重色漆与清漆层层叠加，再经 12 道工序、109 小时精细打磨。此外，该车还提供 24K 鎏金银色车标、24K 鎏金玄金车标，搭配 24K 鎏金悬浮轮标及 22 英寸锻造揽月轮圈。 座舱方面，该车带来全新双色内饰主题「苏木红」搭配「云贝米」，以及「可可棕」搭配「帕米尔棕」，行业首次引入「金属绣线",
+   "published_at": 1795228344.0,
+   "published_bj": "2026-11-21 10:32"
+  },
+  {
+   "id": "dc026eea85855563",
+   "source": "IT之家",
+   "title": "微软发布 Win11 26340.10032 等预览版：新增 People 小组件、优化蓝牙 LE Audio 立体声输出",
+   "url": "https://www.ithome.com/1/030/281.htm",
+   "summary": "IT之家 11 月 21 日消息，微软昨天（11 月 20 日）发布博文，邀请 Beta、Experimental 频道的 Windows Insider 项目成员，测试适用于 Windows 11 的多个预览版更新。 本次推送的版本分别为： Beta 通道（26H2）：最新预览版 Build 26320.10022 Beta 通道（26H1）：最新预览版 Build 28020.3562 Experimental 通道（26H2）：最新预览版 Build 26340.10032 Experimental 通道（26H1）：最新预览版 Build 28120.3571 Experimental",
+   "published_at": 1795228095.0,
+   "published_bj": "2026-11-21 10:28"
+  },
+  {
+   "id": "e22111392fa1724d",
+   "source": "IT之家",
+   "title": "小米米家扫振电动牙刷 2 开售：4 区漏刷识别 + 180 天续航，国补后 149 元",
+   "url": "https://www.ithome.com/1/030/327.htm",
+   "summary": "IT之家 11 月 21 日消息，小米新推出的米家扫振电动牙刷 2（Pro 版此前已开售）已于昨日正式开售，建议零售价 199 元，首发 175 元，叠加国补后 149 元，下单享 2 年质保、评价晒单返 10 元京豆。 京东 米家声波扫振电动牙刷 2 白色 148.75 元 直达链接 这款产品搭载升级 声波扫振马达 2.0 ，驱动刷头做大摆角扫振运动，模拟巴氏刷牙法的清洁轨迹，振动频率约 24000 次 / 分钟，可边扫边振清除牙菌斑，相比上代产品马达性能有所提升。 其机身内置三轴高精度传感器，支持 4 区漏刷识别 功能，配合机身 LED 分区灯环实时追踪刷牙轨迹：白灯提示已清洁区域，橙灯提",
+   "published_at": 1795228006.0,
+   "published_bj": "2026-11-21 10:26"
+  },
+  {
+   "id": "ec04d4c6706972f4",
+   "source": "IT之家",
+   "title": "《饥饿游戏：收获日出》电影 4K 铁盒版开启预售，有亚马逊 / 沃尔玛 2 款封面设计",
+   "url": "https://www.ithome.com/1/030/326.htm",
+   "summary": "IT之家 11 月 21 日消息，《饥饿游戏》前传电影《饥饿游戏：收获日出》昨日（11 月 20 日）在中国内地上映（同步北美）之际，该电影在海外同步开启实体光盘预售，提供 4K 铁盒版、标准 4K 版及蓝光版。 IT之家援引 IGN 报道，附上相关售价信息如下： 4K 铁盒版 亚马逊售价：34.99 美元 （现汇率约合 234.2 元人民币） 沃尔玛售价：42.99 美元 （现汇率约合 287.7 元人民币） 4K 版本： 亚马逊售价：49.99 美元 （现汇率约合 334.5 元人民币） 沃尔玛售价：42.99 美元 （现汇率约合 287.7 元人民币） 蓝光版本： 亚马逊售价：39.99",
+   "published_at": 1795227376.0,
+   "published_bj": "2026-11-21 10:16"
+  },
+  {
+   "id": "70f0e90acaa7a688",
+   "source": "IT之家",
+   "title": "英伟达董事会为何对黄仁勋态度转变？婚外情无关紧要，核心问题在于诚信",
+   "url": "https://www.ithome.com/1/030/325.htm",
+   "summary": "IT之家 11 月 21 日消息，据《连线》（WIRED）今日报道，英伟达董事会最终决定接受黄仁勋的辞职，主要原因并不在于婚外情，而是董事会认为他在相关事件中多次存在撒谎行为，导致董事会对其诚信和信任产生严重质疑。 两名知情人士向《连线》透露，黄仁勋于 11 月 8 日承认存在婚外情，但当时董事会仍无法确定相关事件涉及的其他问题。同一天，英伟达董事会宣布启动独立调查。然而，接下来几天，随着更多婚外情指控浮出水面，其中包括一段据称涉及黄仁勋直接下属的关系，董事会的态度发生了变化。 一名接近董事会的知情人士表示，能够确定的是，黄仁勋存在撒谎行为，而且这一情况持续约一年，从 2025 年 10 月一",
+   "published_at": 1795227048.0,
+   "published_bj": "2026-11-21 10:10"
+  },
+  {
+   "id": "9ecb488ab2779136",
+   "source": "IT之家",
+   "title": "华为 Mate X8 大折叠手机黑白双色亮相，11 月 24 日发布",
+   "url": "https://www.ithome.com/1/030/324.htm",
+   "summary": "IT之家 11 月 21 日消息，华为今日公布 Mate X8 大折叠手机黑白双色官图，新机将于 11 月 24 日 14:30 发布。 IT之家注意到，华为 Mate X8 及全场景新品发布会将于 11 月 24 日 14:30 举行，目前这款折叠屏新机已现身华为官网，并公开了部分配置信息及所有配色的外观图。 颜色 紫金锦 苍穹黑 雪域白 青云锦 丹霞锦 配置 12GB+256GB 12GB+512GB 16GB+512GB 典藏版 16GB+1TB 典藏版 除了常规功能外，预告显示华为 Mate X8 在屏幕右下方添加一块虚拟光标操控区，在这块区域滑动、轻点，就能控制屏幕上的光标，点屏幕任",
+   "published_at": 1795226978.0,
+   "published_bj": "2026-11-21 10:09"
+  },
+  {
+   "id": "1999e0de6aaefa02",
+   "source": "IT之家",
+   "title": "比亚迪闪充枪突破 3.1 万个：覆盖全国 345 城，用户超 357 万人",
+   "url": "https://www.ithome.com/1/030/323.htm",
+   "summary": "IT之家 11 月 21 日消息，比亚迪今日公布闪充网络最新运营数据：截至 11 月 20 日，全国累计上线闪充枪 31014 个，覆盖 345 座城市，闪充总用户数超过 357 万人。 截至 9 月 30 日，比亚迪闪充网络累计上线 9009 座闪充站、21214 把枪，覆盖 342 座城市，用户数约 183 万。不到两个月，枪数增加近万把，用户规模接近翻倍。截至 10 月 7 日，闪充站数量为 12165 座，其中高速站 2111 座。 比亚迪闪充技术于 2026 年 3 月 5 日发布，配套单枪峰值功率 1500kW 的闪充桩，配合第二代刀片电池，常温下电量从 10% 充至 97% 用时",
+   "published_at": 1795226619.0,
+   "published_bj": "2026-11-21 10:03"
+  },
+  {
+   "id": "9861cbdfb92cc79d",
+   "source": "IT之家",
+   "title": "近 200 万条请求揭开 AI 隐私漏洞：“零数据保留”也会泄密",
+   "url": "https://www.ithome.com/1/030/322.htm",
+   "summary": "IT之家 11 月 21 日消息，科技媒体 Ars Technica 今天（11 月 21 日）发布博文，报道称安全公司 Dragos 首席研究官 HD Moore 向多家 AI 服务商发送近 200 万条带有可追踪“诱饵”的请求， 发现 AI 服务链存在黑客窃取提示词、转售商泄露数据及未遵守隐私设置等问题。 研究人员故意把一批可追踪的“测试秘密”（并非从真实用户渠道收集）发给 AI，观察之后有没有其他程序或人拿它们去访问系统，从而判断数据是否流出、可能从哪条服务链流出。 调查发现，至少三家服务商出现遭入侵迹象，攻击者利用窃取的诱饵密钥发起数万次云服务接口调用，尝试寻找更多凭证、开通服务并维持",
+   "published_at": 1795226604.0,
+   "published_bj": "2026-11-21 10:03"
+  },
+  {
+   "id": "76cd974bffa5aad5",
+   "source": "IT之家",
+   "title": "摩托罗拉追踪器 Moto Tag 3 曝光：白色 / 靛蓝色亮相，规格未见升级",
+   "url": "https://www.ithome.com/1/030/320.htm",
+   "summary": "IT之家 11 月 21 日消息，科技媒体 Android Authority 昨日（11 月 20 日）发布博文，报道称亚马逊英国、意大利站点上架摩托罗拉 Moto Tag 3 物品追踪器， 共有亮白色（Lucent White）和靛蓝色（Indigo Blue）两款新配色。 IT之家注：摩托罗拉于 2026 年 1 月 6 日在 CES 2026 期间发布 Moto Tag 2，于 6 月 30 日在美国开售，共有 PANTONE Arabesque（偏橙棕色）和 PANTONE Laurel Oak（偏灰绿色）两种颜色。 该产品是摩托罗拉旗下用于寻找随身物品的智能追踪器，支持谷歌 Fin",
+   "published_at": 1795226009.0,
+   "published_bj": "2026-11-21 09:53"
+  },
+  {
+   "id": "dc917ff17c1e8414",
+   "source": "IT之家",
+   "title": "OpenAI 公布反蒸馏防护进展：GPT-6.2 Astra 思考链提取成功率从 54% 降至 0.2%",
+   "url": "https://www.ithome.com/1/030/319.htm",
+   "summary": "IT之家 11 月 21 日消息，当地时间 11 月 20 日，OpenAI 发布公告介绍了针对「对抗性蒸馏」（Adversarial Distillation）的防御措施。 OpenAI 称其已加强 GPT-6.2 Astra 和 GPT-6.2 Sol 对内部推理思考链（Chain-of-Thought）的保护，以降低其他模型通过提取推理过程获取其能力的风险。 OpenAI 表示，对抗性蒸馏是指未经授权地利用前沿 AI 模型的输出训练其他模型，使后者获得相似能力，却不具备原模型相应的安全防护。该行为可能导致网络安全、生物学等领域的高风险能力被转移到安全限制较弱的模型中。 在内部自适应黑盒红",
+   "published_at": 1795225522.0,
+   "published_bj": "2026-11-21 09:45"
+  },
+  {
+   "id": "50dc92d037993fd5",
+   "source": "IT之家",
+   "title": "高驰 VERTIX 4 运动手表曝光：1.47 英寸 AMOLED 屏幕、内置 LED 手电筒",
+   "url": "https://www.ithome.com/1/030/318.htm",
+   "summary": "IT之家 11 月 21 日消息，科技媒体 Notebookcheck 昨日（11 月 20 日）发布博文， 报道称高驰（COROS）新一代旗舰运动手表 VERTIX 4 的外观、配置及欧洲售价提前曝光。 消息源于 Backline Magazin 一篇新闻稿（IT之家发稿前访问已被删除），显示高驰 VERTIX 4 将于欧洲中部时间 11 月 24 日 14 点（北京时间 11 月 24 日 21 点）发布，欧洲建议零售价为 799 欧元 （IT之家注：现汇率约合 5,866 元人民币） 。 外观方面，根据曝光的信息，VERTIX 4 据称采用钛金属表圈与蓝宝石玻璃，提供黑色、银色两种配色，",
+   "published_at": 1795225275.0,
+   "published_bj": "2026-11-21 09:41"
+  },
+  {
+   "id": "da49d99c111ba1a9",
+   "source": "IT之家",
+   "title": "紫光展锐推出多维智存引擎技术：灵活扩展 UFS 闪存空间，支持多档位扩容",
+   "url": "https://www.ithome.com/1/030/317.htm",
+   "summary": "IT之家 11 月 21 日消息，紫光展锐昨晚宣布推出 UNISOC UniSwap Ultra Engine 多维智存引擎，通过芯片级深度优化与软硬件深度协同设计，在有限的物理内存基础上，灵活扩展 UFS 闪存空间，支持多档位灵活扩容，显著提升多应用体验流畅度。 据官方介绍，依托紫光展锐 UNISOC UniSwap Ultra Engine 多维智存引擎，打破物理内存容量束缚， 智能调用部分存储空间拓展可用内存 ，搭配精细调度算法，带来接近原生物理内存的流畅表现。官方称，搭载该技术的 4GB 内存手机在日常使用中，流畅度可媲美传统 6GB 内存机型。（IT之家注：文中数据来源于紫光展锐实验",
+   "published_at": 1795225239.0,
+   "published_bj": "2026-11-21 09:40"
+  },
+  {
+   "id": "33f00869ba6c5a84",
+   "source": "IT之家",
+   "title": "黄仁勋下台后有人挖出英伟达 20 年前员工投诉记录，指控其威胁下属、发表色情言论",
+   "url": "https://www.ithome.com/1/030/316.htm",
+   "summary": "IT之家 11 月 21 日消息，彭博社今日报道称，一份 2007 年提交的加州诉讼文件显示，英伟达两名前员工曾对时任 CEO 黄仁勋的管理方式提出投诉，指控其存在辱骂、威胁员工以及发表色情言论等行为。 这些指控涉及大约二十年前的职场事件，近期随着黄仁勋寻求重返英伟达管理层而重新受到关注。 根据这份加州高等法院的诉讼文件，英伟达首任内部法律顾问斯蒂芬・佩蒂格鲁（Stephen Pettigrew）称，他曾亲眼目睹黄仁勋经常辱骂和恐吓员工。佩蒂格鲁还指控，自己因对公司高管的不当行为提出异议而遭到解雇。英伟达则表示，解雇他的原因是工作表现不达标。 佩蒂格鲁代理律师在一份涉及年龄歧视和不当解雇的诉讼",
+   "published_at": 1795224833.0,
+   "published_bj": "2026-11-21 09:33"
+  },
+  {
+   "id": "d01d4f2dd1fe6ea8",
+   "source": "IT之家",
+   "title": "摩托罗拉首款宽折叠 Razr Flex 手机爆料，配高通未发布的 SM8845 Pro 芯片",
+   "url": "https://www.ithome.com/1/030/315.htm",
+   "summary": "IT之家 11 月 21 日消息，科技媒体 GSMArena 昨日（11 月 20 日）发布博文， 报道称摩托罗拉首款宽折叠手机 Razr Flex 有望配备高通尚未发布的 SM8845 Pro 芯片 ，而此前有消息称该芯片由一加 Turbo 7 系列首发搭载。 根据 TrustCB 安全认证文件显示信息，摩托罗拉首款宽折叠手机 Razr Flex 内部代号为 Parker，型号为 XT2761，其芯片型号为 SM8845 Pro，并非高通第五代骁龙 8 芯片（SM8845）。 SM8845 是高通公司开发的移动处理器，正式命名为骁龙 8 Gen5（第五代骁龙 8）。与第五代骁龙 8 至尊版（",
+   "published_at": 1795224620.0,
+   "published_bj": "2026-11-21 09:30"
+  },
+  {
+   "id": "ba84abc34e348d43",
+   "source": "IT之家",
+   "title": "消息称某厂骁龙 8E6 大屏旗舰机“打磨中”，预计为小米 18 Max",
+   "url": "https://www.ithome.com/1/030/313.htm",
+   "summary": "IT之家 11 月 21 日消息，据博主 @数码闲聊站 今日爆料，某厂骁龙 8E6 大屏旗舰机“打磨中”，搭载超大底影像、超 8000mAh 大电池，采用简约 ID 设计。结合该博主的爆料习惯，评论区网友推测为小米 18 Max。 IT之家注意到，小米 18 Pro 系列手机于今年 9 月发布，首发第六代骁龙 8 至尊版、一体式纯平背屏，5999 元起。小米 18 标准版目前已经入网但暂未上市，此前爆料显示该机将于 12 月发布，同样搭载第六代骁龙 8 至尊版处理器，搭配 200MP 传感器、7200mAh 电池等。 从目前曝光的消息看，小米 18 系列有望延续上代的产品架构，继续推出 Max",
+   "published_at": 1795224287.0,
+   "published_bj": "2026-11-21 09:24"
+  },
+  {
+   "id": "77137788b3bc1488",
+   "source": "IT之家",
+   "title": "华为星芒 O1 Pro 定价 5499 元起引争议，总经理刘赫回应称“我们选择创新优先”",
+   "url": "https://www.ithome.com/1/030/311.htm",
+   "summary": "IT之家 11 月 21 日消息，华为全新子品牌星芒于 11 月 20 日发布首款机型 OSTA O1 Pro ，12GB+256GB 版本首发价 5499 元，顶配 16GB+1TB 首发 8799 元。 这一定价与外界此前对子品牌“主打性价比”的预期形成落差。对此，星芒品牌总经理刘赫在微博评论区密集回应了网友质疑。 首先，争议的焦点之一，是 O1 Pro 与华为 Pura X View 的价差。两者同为麒麟 9030S 平台、6.39 英寸 1.5K 阔直屏，O1 Pro 砍掉了超广角镜头，起售价仅比 Pura X View 低 500 元。 有网友直言“再便宜 500 销量翻三倍”，刘赫",
+   "published_at": 1795223326.0,
+   "published_bj": "2026-11-21 09:08"
+  },
+  {
+   "id": "0df5b0643274df58",
+   "source": "IT之家",
+   "title": "Pixel 11 Pro XL 原型手机曝光，谷歌曾规划测温和通知灯“两全其美”",
+   "url": "https://www.ithome.com/1/030/310.htm",
+   "summary": "IT之家 11 月 21 日消息，Telegram 频道 Google Internal 于 11 月 16 日发布动态，分享了一组图片， 展示了一款机身有明显划痕的 Pixel 11 Pro XL 原型机，亮点是同时配备了温度传感器和 HiLight LED 通知灯。 根据消息源披露的细节，该原型机为 Kodiak（对应 Pixel 11 Pro XL 的内部研发代码），机身可见磨损，后盖底部还有独特图案。谷歌原型机通常带有不同图案，用于追踪泄露来源。 IT之家援引博文介绍，在 Pixel Pro 系列旗舰手机上，谷歌此前为其配备了温度传感器。而在 2026 年推出的 Pixel 11 系列",
+   "published_at": 1795223296.0,
+   "published_bj": "2026-11-21 09:08"
+  },
+  {
+   "id": "88fbcf41c3f7f6cb",
+   "source": "IT之家",
+   "title": "长城猛龙混动版 11 月 27 日广州车展上市，搭载 1.5T 油电混动系统",
+   "url": "https://www.ithome.com/1/030/309.htm",
+   "summary": "IT之家 11 月 21 日消息，据易车 11 月 20 日报道，长城猛龙混动版将于 11 月 27 日开幕的 2026 广州车展上市，搭载 1.5T 油电混动系统 。 外观方面，新车延续哈弗猛龙的 方盒子造型 ，采用方正平直的车身线条与横向格栅；车侧配有黑色防刮轮拱包围与车顶行李架，车尾采用外挂式备胎罩、竖向尾灯与后护板。 截至发稿，官方尚未公布该车的车身尺寸与轴距。作为参照，现款哈弗猛龙 Hi4 长宽高分别为 4800/1950/1843mm，轴距为 2738mm。 动力方面，新车搭载 1.5T 油电混动系统。官方尚未公布该系统的发动机功率、电机数量与变速箱形式。 2026 广州车展于 1",
+   "published_at": 1795222420.0,
+   "published_bj": "2026-11-21 08:53"
+  },
+  {
+   "id": "d18e3e5905cc6a2f",
+   "source": "IT之家",
+   "title": "“几乎所有人将永久失业”：Anthropic 研究员预测 2027 年底 AI 在几乎所有领域超越顶尖专家",
+   "url": "https://www.ithome.com/1/030/308.htm",
+   "summary": "IT之家 11 月 21 日消息，11 月 15 日在接受 Palisade Research 采访时，Anthropic 公司技术团队成员 Tao Lin 预测到 2027 年年底，在编程、电影制作等几乎所有领域， 人工智能（AI）在发展大约还有 1.3 年后，可以媲美或超过世界顶尖人类专家的水平。 IT之家查询公开资料，Tao Lin 在 Anthropic 担任技术团队成员（MTS）岗位，目前已在该公司工作了约一年半，涉及自动化对齐研究（Automated Alignment Research）、AI 控制（AI Control）以及安全防护（Safeguards）三个方面，主要保障 C",
+   "published_at": 1795222409.0,
+   "published_bj": "2026-11-21 08:53"
+  },
+  {
+   "id": "7afd39800c91a218",
+   "source": "IT之家",
+   "title": "现价近 7000 欧元的英伟达 RTX 5090 FE 显卡送修后被销毁，平台只愿退原价 2369 欧元",
+   "url": "https://www.ithome.com/1/030/307.htm",
+   "summary": "IT之家 11 月 21 日消息，Reddit 用户 @xw1y 昨日发帖称，自己送修的一张 NVIDIA GeForce RTX 5090 Founders Edition 显卡，疑似在欧洲零售商 Proshop 的维修合作方手中被销毁或丢弃。 据该用户披露，这张 RTX 5090 Founders Edition 32GB 于 2025 年 2 月以为 2,369 欧元 （IT之家注：现汇率约合 17,394 元人民币） 的价格购入。 2026 年 9 月，这张显卡开始出现频率下降、功耗读数异常等问题，但送修前仍然能够正常使用。当月，他将这张 RTX 5090 FE 送到了 Proshop",
+   "published_at": 1795221896.0,
+   "published_bj": "2026-11-21 08:44"
+  },
+  {
+   "id": "2ab043d3652717fa",
+   "source": "Hacker News",
+   "title": "I Don't Trust Visual Recordings Anymore. But One Day I Will Again",
+   "url": "https://spectrum.ieee.org/fighting-back-against-deep-fakes",
+   "summary": "Article URL: https://spectrum.ieee.org/fighting-back-against-deep-fakes Comments URL: https://news.ycombinator.com/item?id=50584429 Points: 25 # Comments: 4",
+   "published_at": 1795221220.0,
+   "published_bj": "2026-11-21 08:33"
+  },
+  {
+   "id": "3603a5aca7ad5d75",
+   "source": "IT之家",
+   "title": "英国 BAE 研发“幽灵雷达”：不主动“出声”也能追踪无人机，可装进 SUV、成本低至同类 1/10",
+   "url": "https://www.ithome.com/1/030/305.htm",
+   "summary": "IT之家 11 月 21 日消息，科技媒体 TechRadar 今天（11 月 21 日）发布博文， 报道称英国防务公司 BAE Systems 研发了一款被称为“幽灵雷达”（ghost radar）的便携式被动雷达，可以安装在常规 SUV 车型上，不主动发射信号也能追踪无人机。 IT之家援引博文介绍，传统雷达如同在黑暗中打开探照灯，照见目标的同时，也可能暴露自身位置。而 BAE Systems 主要接收数字电视、无线电广播和移动通信网络等现有信号经目标反射后的回波，再将其转化为三维空间信息，判断目标的距离、高度、速度及航向。 在部署方面，该“幽灵雷达”可以部署在普通 SUV 上，面向电站、空",
+   "published_at": 1795221175.0,
+   "published_bj": "2026-11-21 08:32"
+  },
+  {
+   "id": "d1e971f438db34e8",
+   "source": "IT之家",
+   "title": "“沪杭二线”进度更新，新建上海至杭州高速铁路初步设计获批",
+   "url": "https://www.ithome.com/1/030/304.htm",
+   "summary": "IT之家 11 月 21 日消息，据“浙江发改”公众号，近日，国铁集团、上海市人民政府、浙江省人民政府批复新建上海至杭州高速铁路全线初步设计，为项目加快建设奠定了重要基础。 据介绍，新建上海至杭州高速铁路（简称沪杭高铁）上海东站（不含）至杭州西站（含）段，线路全长 223.70 公里， 设计时速 350 公里 。全线设上海东、四团、上海金山、平湖市、嘉兴南、桐乡、临平北、 杭州西 等 8 座车站。 沪杭高铁是我国“八纵八横”高速铁路网沿海通道的重要组成部分，对提升沪杭运输通道能力、支持推动长三角一体化发展战略实施、促进区域经济和社会发展等具有重要意义。 ▲ 项目早期公布示意图 IT之家注意到，",
+   "published_at": 1795220209.0,
+   "published_bj": "2026-11-21 08:16"
+  },
+  {
+   "id": "17b93b37281f0399",
+   "source": "IT之家",
+   "title": "火星古老岩层身世新解：约 40 亿年前熔岩曾奔流约 200 公里",
+   "url": "https://www.ithome.com/1/030/303.htm",
+   "summary": "IT之家 11 月 21 日消息，科技媒体 phys 昨日（11 月 19 日）发布博文，报道称最新研究提出火星杰泽罗陨石坑底部一处近 40 亿年前形成的岩层，可能源自低黏度熔岩汇聚而成的熔岩湖。这为理解火星早期火山活动及内部热演化提供了新线索。 火星如今寒冷荒凉， 但近 40 亿年前，流动性极强的熔岩可能曾奔流约 200 公里，汇聚成熔岩湖。 11 月 5 日发表于《通讯 · 地球与环境》的新研究中，科学家利用“毅力号”火星车数据，为杰泽罗陨石坑底部古老岩层的形成提出了新解释。 研究聚焦于名为 Séítah 的富含橄榄石地层。此前研究认为，它与地球早期的科马提岩类似，后者由低黏度、流动起来“",
+   "published_at": 1795219879.0,
+   "published_bj": "2026-11-21 08:11"
+  },
+  {
+   "id": "d1f0c807d6b95823",
+   "source": "IT之家",
+   "title": "跌掉一个亚马逊：英伟达市值较 10 月高点蒸发 2.73 万亿美元，纳斯达克创 2020 年 3 月疫情后最差单周表现",
+   "url": "https://www.ithome.com/1/030/302.htm",
+   "summary": "IT之家 11 月 21 日消息，英伟达股价持续遭遇抛售。当地时间 11 月 20 日周五收盘，英伟达股价下跌 14%，创下 2025 年 5 月以来最低水平。这也是英伟达连续第七周收跌，为 2008 年金融危机以来最长的周线连跌纪录。 据《华尔街日报》今日报道，英伟达当前市值约为 3.03 万亿美元 （IT之家注：现汇率约合 20.28 万亿元人民币） 。相比 10 月 6 日创下的约 5.76 万亿美元 （现汇率约合 38.55 万亿元人民币） 历史纪录高点累计下跌约 47%，其市值已经蒸发超过 2.73 万亿美元 （现汇率约合 18.27 万亿元人民币） ，规模超过整个亚马逊（约 2.6",
+   "published_at": 1795219692.0,
+   "published_bj": "2026-11-21 08:08"
+  },
+  {
+   "id": "d6ede6cf427a346b",
+   "source": "IT之家",
+   "title": "OpenAI 推出 MedChemBench 基准，评估 AI 辅助药物研发能力",
+   "url": "https://www.ithome.com/1/030/301.htm",
+   "summary": "IT之家 11 月 21 日消息，当地时间 11 月 20 日，OpenAI 发布 MedChemBench 基准，用于评估 AI 模型在药物化学研究中的推理能力，包括识别分子结构、解读实验结果、比较化合物及预测其性质等。OpenAI 表示，模型在重建分子结构和解释实验依据方面表现较强，但在化合物筛选和数值性质预测方面仍有明显提升空间。 IT之家从官方介绍获悉，该基准包含 99 道题目 ，取自 117 篇论文与专利，涉及 761 个不同分子结构。多数题目向模型提供研究进行到某一节点时的上下文，包括生物靶点、研究人员的目标、此前研究过的化合物与部分实验结果。 官方将评测分为四个部分，IT之家附具",
+   "published_at": 1795219572.0,
+   "published_bj": "2026-11-21 08:06"
+  },
+  {
+   "id": "8ec7911cff9b3bf6",
+   "source": "IT之家",
+   "title": "木卫二巨大钠云身世揭秘：线索指向冰下咸水海洋",
+   "url": "https://www.ithome.com/1/030/300.htm",
+   "summary": "IT之家 11 月 21 日消息，科技媒体 Phys.org 昨日（11 月 20 日）发布博文，报道称由美国波士顿大学牵头的研究团队分析了跨越 20 多年的观测资料， 发现木卫二周围一片延伸至其自身半径约 30 倍远的稀薄钠原子云，为探索冰下海洋提供了新线索。 木卫二比月球略小，表面覆盖着冰层。有充分证据表明，冰层下方可能存在咸水海洋，因此它是科学家研究地外宜居环境的重要目标。 这片稀薄钠云沿东西方向拉长，最远延伸至木卫二半径约 30 倍处。该研究发表于《地球物理研究杂志：空间物理》，团队观测发现这片钠云长期保持相对稳定，有充足的证据支持其中的钠来自木卫二自身的咸水环境，而非邻近木卫一的火山",
+   "published_at": 1795219339.0,
+   "published_bj": "2026-11-21 08:02"
+  },
+  {
+   "id": "a68615b863aae81f",
+   "source": "IT之家",
+   "title": "英特尔自曝 DDR5 早期研发内幕：内存条插上就死机，失败才是常态",
+   "url": "https://www.ithome.com/1/030/299.htm",
+   "summary": "IT之家 11 月 21 日消息，英特尔官方 YouTube 频道在 11 月 17 日发布了最新一期《Inside the Memory Stack》，披露了其 DDR5 内存研发和验证过程中的诸多幕后细节。 英特尔高级内存技术项目经理加布 · 格尔芬德（Gabe Gelfand）透露，早期 DRAM 原型样片经常在首次插入测试平台时无法正常工作，甚至出现无法启动的情况，而这在内存研发过程中属于正常现象。 格尔芬德介绍称，英特尔与三星、SK 海力士、美光以及 JEDEC（固态技术协会）保持密切合作，共同推进 DDR 和 LPDDR 内存技术在新一代客户端平台上的开发与验证。 研发过程中，内存",
+   "published_at": 1795218909.0,
+   "published_bj": "2026-11-21 07:55"
+  },
+  {
+   "id": "55ac69fe213a333e",
+   "source": "IT之家",
+   "title": "700 多台 POS 机滞后约 2 年未打微软 Win10/Win11 补丁酿苦果，超 100 万张银行卡集体沦陷",
+   "url": "https://www.ithome.com/1/030/298.htm",
+   "summary": "IT之家 11 月 21 日消息，科技媒体 TechSpot 昨日（11 月 20 日）报道， 攻击者利用微软约两年前已修复的 Windows 漏洞，入侵 20 多个国家的 700 余台 POS 支付终端，窃取涉及至少 100 万张信用卡和借记卡的资料。 IT之家援引博文介绍，本次攻击主要涉及追踪编号为 CVE-2024-49138 的漏洞，微软早在 2024 年便已发布补丁，但未及时修复的设备仍给犯罪团伙留下了可乘之机。 CVE-2024-49138 属于本地提权漏洞，存在于 Windows 通用日志文件系统（CLFS）驱动程序中。攻击者在已经能够以低权限运行程序的 Windows 设备上，",
+   "published_at": 1795218548.0,
+   "published_bj": "2026-11-21 07:49"
+  },
+  {
+   "id": "b3c06c7a7a7e7b41",
+   "source": "IT之家",
+   "title": "黎曼猜想真被 Claude 证明了？Anthropic 数学家仅发布 Lean 代码，陶哲轩称验证仍需时间",
+   "url": "https://www.ithome.com/1/030/297.htm",
+   "summary": "IT之家 11 月 21 日消息，当地时间 11 月 20 日，Anthropic 数学家莱文特 · 阿尔珀格（Levent Alpöge）宣称他与 Claude 合作，发现了黎曼猜想及其推广形式广义黎曼猜想（GRH）的证明。 阿尔珀格拥有哈佛大学本科学位和普林斯顿大学数学博士学位，目前在 Anthropic 从事研究工作。他在声明中称，Claude 在证明接近完成时“远远超过了我”，“在终点附近飞翔、跳舞、闪耀”。他还表示，自己为 Claude 指明了关键研究方向，随后 Claude 提出了一系列令他意外的数学思路。 据阿尔珀格透露，他与 Claude 生成的文字证明超过 25 万页，因篇幅",
+   "published_at": 1795218002.0,
+   "published_bj": "2026-11-21 07:40"
+  },
+  {
+   "id": "7a132016fec50180",
+   "source": "IT之家",
+   "title": "440 亿美元！阿波罗与高盛完成迄今规模最大 GPU 融资定价，SpaceX 要买英伟达芯片",
+   "url": "https://www.ithome.com/1/030/296.htm",
+   "summary": "IT之家 11 月 21 日消息，当地时间 11 月 20 日，阿波罗全球管理公司与高盛宣布，已完成约 440 亿美元 （IT之家注：现汇率约合 2,944.47 亿元人民币） 优先及次级票据融资定价， 资金将用于为 SpaceX 购买 GPU 及相关设备 。该交易因投资者需求强劲而获得超额认购并扩大规模，成为迄今规模最大的 GPU 融资交易。 阿波罗与高盛共同牵头此次融资，参与方还包括贝莱德、高盛资产管理及 KKR。融资将用于采购下一代英伟达 Vera Rubin 芯片，以支持 SpaceX 在地面建设计算基础设施。 相关 GPU 及设备预计于 2027 年上半年交付 ，届时租赁安排将开始生",
+   "published_at": 1795217653.0,
+   "published_bj": "2026-11-21 07:34"
+  },
+  {
+   "id": "695bca898af6efcc",
+   "source": "IT之家",
+   "title": "国际版三星 Galaxy S27 Pro 手机跑分曝光：Exynos 2700 芯片、12GB 内存",
+   "url": "https://www.ithome.com/1/030/295.htm",
+   "summary": "IT之家 11 月 21 日消息，型号“SM-S957B”的三星手机昨日（11 月 20 日）现身 GeekBench 跑分库， 7.1.0 版本单核成绩为 3,061 分，多核成绩为 10,967 分，相关线索表明该机上市后为三星 Galaxy S27 Pro。 IT之家注：根据 GSMA IMEI 数据库此前公示的信息，SM-S957B 对应三星 Galaxy S27 Pro，且后缀“B”代表国际市场版本，覆盖欧洲、印度等市场。 根据跑分页面显示，国际版 Galaxy S27 Pro 手机芯片代号为 S5E9975，对应三星自家的 Exynos 2700 芯片。目前掌握的信息来看，Exyn",
+   "published_at": 1795217573.0,
+   "published_bj": "2026-11-21 07:32"
+  },
+  {
+   "id": "d499a8f8b7bb4570",
+   "source": "Hacker News",
+   "title": "Serious cyberattack thought backed by wealthy operators",
+   "url": "https://www.ruv.is/english/2026-11-20-serious-cyberattack-thought-backed-by-wealthy-operators-493411",
+   "summary": "Article URL: https://www.ruv.is/english/2026-11-20-serious-cyberattack-thought-backed-by-wealthy-operators-493411 Comments URL: https://news.ycombinator.com/item?id=50583856 Points: 52 # Comments: 29",
+   "published_at": 1795217370.0,
+   "published_bj": "2026-11-21 07:29"
+  },
+  {
+   "id": "b41c3124bbd18c0c",
+   "source": "IT之家",
+   "title": "IT早报 1121：5499 元起华为 OSTA O1 Pro 发布；腾讯因仙逆盗版起诉百度索赔 1 亿元；官方回应零跑 A10 被几箱啤酒压塌后备箱...",
+   "url": "https://www.ithome.com/1/030/294.htm",
+   "summary": "“IT早报”时间，大家好，现在是 2026 年 11 月 21 日星期六，今天的重要科技资讯有： 1. 5499 元起，“首款为 AI 而生的鸿蒙手机”华为星芒 OSTA O1 Pro 阔直板正式发布 新机采用 6.39 英寸 1.5K 阔直板屏，搭载麒麟 9030S 处理器与 7000mAh 电池，首发 HarmonyOS 7 AI 先锋版，起售价 5499 元。&gt;&gt; 查看详情 2. 腾讯向百度索赔 1 亿元，后者未拦截《仙逆》盗版视频网站链接 福建省福州市中级人民法院 11 月 10 日在人民法院公告网刊登了一份起诉状副本及开庭传票，显示因《仙逆》动画盗版纠纷，腾讯向百度索赔 ",
+   "published_at": 1795217334.0,
+   "published_bj": "2026-11-21 07:28"
+  },
   {
    "id": "7dedbb6a3e867811",
    "source": "IT之家",
@@ -20,6 +569,24 @@
    "summary": "IT之家 11 月 21 日消息，九派新闻于 11 月 18 日报道，针对“江南大学将大学英语改为选修”关注话题，江南大学教务处工作人员回应，学生可凭大学英语四六级、雅思、托福等成绩申请免修， 但不符合免修条件的，仍需上课，并非所有学生都能自由选择不上英语课。 免修条件及绩点对照表。图 / 江南大学外国语学院公众号 IT之家援引博文介绍，相关讨论源于 11 月 14 日举行的高校未来学习中心建设创新与实践研讨会。会上，江南大学教务处处长黄锋林介绍，学校进行了制度性改革，将学分从 170 压缩至 140 多，并提到大学英语全部改为选修，四六级、雅思、托福及竞赛成果均可认定学分。 江南大学外国语学",
    "published_at": 1795216817.0,
    "published_bj": "2026-11-21 07:20"
+  },
+  {
+   "id": "16bc497e7d0e58c9",
+   "source": "Hacker News",
+   "title": "Sir Brian May adds new dimension to Hera asteroid",
+   "url": "https://www.esa.int/articles/about-us/directorates/operations/space-safety/hera/sir-brian-may-adds-new-dimension-to-hera-asteroid",
+   "summary": "Article URL: https://www.esa.int/articles/about-us/directorates/operations/space-safety/hera/sir-brian-may-adds-new-dimension-to-hera-asteroid Comments URL: https://news.ycombinator.com/item?id=50583768 Points: 73 # Comments: 15",
+   "published_at": 1795216784.0,
+   "published_bj": "2026-11-21 07:19"
+  },
+  {
+   "id": "d190d8507eae068b",
+   "source": "Hacker News",
+   "title": "Ask HN: I have been unemployed for 2y. 15 years of experience, US. What to do?",
+   "url": "https://news.ycombinator.com/item?id=50583761",
+   "summary": "I'm Senior software engineer in the US (DMV area), with 15y of experience. Worked for Fortune 50+ company and bunch of mid-size companies. Been unemployed for 2y and can't find a job, within those 2 years, I pretty much spent my savings that I've saved through years, maybe have 4-5 months left to su",
+   "published_at": 1795216712.0,
+   "published_bj": "2026-11-21 07:18"
   },
   {
    "id": "6c70891de7b8216d",
@@ -83,6 +650,24 @@
    "summary": "IT之家 11 月 21 日消息，当地时间 11 月 19 日，开源关系型数据库 PostgreSQL 19 正式发布。这一最新主版本带来在线表维护、查询计划稳定性、逻辑复制、异步 I/O 和 SQL 功能等多方面更新。官方同时提供适用于 Windows、Linux、macOS 等平台的安装程序、工具和源代码。 PostgreSQL 19 新增 REPACK 命令，可回收数据表中的无效空间，并根据索引重新组织表数据。其中， REPACK (CONCURRENTLY) 支持在不阻塞表读取和写入操作的情况下完成整理，减少传统 VACUUM FULL 和 CLUSTER 命令执行期间对业务的影响。上",
    "published_at": 1795214641.0,
    "published_bj": "2026-11-21 06:44"
+  },
+  {
+   "id": "6c348fa15a270013",
+   "source": "Hacker News",
+   "title": "NINLIVE: The Nine Inch Nails live archive",
+   "url": "https://ninlive.com/",
+   "summary": "Article URL: https://ninlive.com/ Comments URL: https://news.ycombinator.com/item?id=50583274 Points: 194 # Comments: 49",
+   "published_at": 1795213847.0,
+   "published_bj": "2026-11-21 06:30"
+  },
+  {
+   "id": "a53a17e666704cf6",
+   "source": "Hacker News",
+   "title": "The Hungry Butler Effect: Concealed Commercial Incentives in LLMs",
+   "url": "https://www.researchgate.net/publication/418143113_The_Hungry_Butler_Effect_Concealed_Commercial_Incentives_and_the_Erosion_of_Epistemic_Rigour_in_Large_Language_Models",
+   "summary": "Article URL: https://www.researchgate.net/publication/418143113_The_Hungry_Butler_Effect_Concealed_Commercial_Incentives_and_the_Erosion_of_Epistemic_Rigour_in_Large_Language_Models Comments URL: https://news.ycombinator.com/item?id=50583117 Points: 30 # Comments: 8",
+   "published_at": 1795213100.0,
+   "published_bj": "2026-11-21 06:18"
   },
   {
    "id": "af13772c399d1f92",
