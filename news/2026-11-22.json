@@ -1,0 +1,196 @@
+{
+ "date": "2026-11-22",
+ "generated_at": 1795293594.2995126,
+ "count": 21,
+ "items": [
+  {
+   "id": "4bbecc41a6f5b588",
+   "source": "cnBeta",
+   "title": "加密货币正在淡出时代潮流 投资者开始厌倦",
+   "url": "https://www.cnbeta.com.tw/articles/tech/1587424.htm",
+   "summary": "随着价格下跌、交易日趋清淡以及黑客攻击造成损失，加密货币每周都在给其死忠拥趸一个新的退出理由。比特币周五跌破57742美元，为2024年9月以来首次，并势将创下2022年以来最长连跌周数。ETF投资者正在撤资。加密货币市场目前价值约2万亿美元，约为去年峰值的一半。 阅读全文",
+   "published_at": 1795293503.0,
+   "published_bj": "2026-11-22 04:38"
+  },
+  {
+   "id": "efcc42478896a5b0",
+   "source": "cnBeta",
+   "title": "联合国“杀手机器人”监管谈判未达预期",
+   "url": "https://www.cnbeta.com.tw/articles/tech/1587422.htm",
+   "summary": "在联合国日内瓦总部举行的一场关键谈判中，各国代表围绕致命自主武器系统，也被称为“杀手机器人”的监管问题展开激烈讨论。经过持续一周、直至周六凌晨才结束的磋商后，与会国家最终同意启动关于未来监管框架的进一步讨论，但未能就外界期待的具有法律约束力的国际规则达成一致。 阅读全文",
+   "published_at": 1795292577.0,
+   "published_bj": "2026-11-22 04:22"
+  },
+  {
+   "id": "fbbe3211e8db8e15",
+   "source": "cnBeta",
+   "title": "群联展示内置NPU与64GB内存的智能SSD方案 可直接运行AI模型",
+   "url": "https://www.cnbeta.com.tw/articles/tech/1587420.htm",
+   "summary": "在芝加哥举行的2026年国际超级计算大会（SC26）上，存储控制器厂商群联电子（Phison）展示了一项面向人工智能服务器的新型SSD设计方案。该方案在固态硬盘内部集成神经网络处理器（NPU）以及64GB内存，能够直接在硬盘上运行PyTorch和llama.cpp等AI框架和模型，从而让部分数据处理工作在数据离开存储设备之前完成。 阅读全文",
+   "published_at": 1795289687.0,
+   "published_bj": "2026-11-22 03:34"
+  },
+  {
+   "id": "7c2a137634249ff2",
+   "source": "TechCrunch",
+   "title": "Trump says reported FBI database hack is ‘not good’",
+   "url": "https://techcrunch.com/2026/11/21/trump-says-reported-fbi-database-hack-is-not-good/",
+   "summary": "The FBI is reportedly investigating a hack of the National Crime Information Center.",
+   "published_at": 1795286693.0,
+   "published_bj": "2026-11-22 02:44"
+  },
+  {
+   "id": "ac2e954be76ab55c",
+   "source": "Hacker News",
+   "title": "Upload2Shell · CVE-2026-125396",
+   "url": "https://pwn.ai/upload2shell",
+   "summary": "Article URL: https://pwn.ai/upload2shell Comments URL: https://news.ycombinator.com/item?id=50592097 Points: 23 # Comments: 7",
+   "published_at": 1795285769.0,
+   "published_bj": "2026-11-22 02:29"
+  },
+  {
+   "id": "1bdf0a60ebaaa5da",
+   "source": "Hacker News",
+   "title": "Inkling-2-Mini in 5.4 GB Memory",
+   "url": "https://github.com/ShinMegamiBoson/lookatmyquant",
+   "summary": "Article URL: https://github.com/ShinMegamiBoson/lookatmyquant Comments URL: https://news.ycombinator.com/item?id=50591853 Points: 199 # Comments: 35",
+   "published_at": 1795284139.0,
+   "published_bj": "2026-11-22 02:02"
+  },
+  {
+   "id": "1d8cf43a241b467c",
+   "source": "Hacker News",
+   "title": "Jensen Huang's fall is bad news for Silicon Valley's accelerationists",
+   "url": "https://www.economist.com/business/2026/11/19/jensen-huangs-fall-is-bad-news-for-silicon-valleys-accelerationists",
+   "summary": "Article URL: https://www.economist.com/business/2026/11/19/jensen-huangs-fall-is-bad-news-for-silicon-valleys-accelerationists Comments URL: https://news.ycombinator.com/item?id=50591835 Points: 131 # Comments: 228",
+   "published_at": 1795283999.0,
+   "published_bj": "2026-11-22 01:59"
+  },
+  {
+   "id": "b685ee6cb516563f",
+   "source": "Hacker News",
+   "title": "PostgreSQL Extensions in Go",
+   "url": "https://jespino.github.io/gopgext/",
+   "summary": "Article URL: https://jespino.github.io/gopgext/ Comments URL: https://news.ycombinator.com/item?id=50591260 Points: 72 # Comments: 5",
+   "published_at": 1795280884.0,
+   "published_bj": "2026-11-22 01:08"
+  },
+  {
+   "id": "568441e06c2693ba",
+   "source": "TechCrunch",
+   "title": "Here are the top AI agents that can live in your text messages",
+   "url": "https://techcrunch.com/2026/11/21/all-the-ai-agents-that-can-live-in-your-text-messages/",
+   "summary": "We created a list of the most notable AI agents that can live in your text messages, from general assistants to agents designed for families, travel, and work.",
+   "published_at": 1795280400.0,
+   "published_bj": "2026-11-22 01:00"
+  },
+  {
+   "id": "ea35328831aface6",
+   "source": "cnBeta",
+   "title": "台积电收紧对大陆代工业务 16nm以下先进芯片订单被叫停",
+   "url": "https://www.cnbeta.com.tw/articles/tech/1587418.htm",
+   "summary": "伴随美国商务部11月19日生效的出口管制新规，台积电正式收紧对中国大陆芯片设计公司的代工限制，部分此前已经获批的先进制程订单被暂停，国产高性能AI芯片的海外代工通道进一步收窄。 阅读全文",
+   "published_at": 1795280334.0,
+   "published_bj": "2026-11-22 00:58"
+  },
+  {
+   "id": "8af9e9a1adc30838",
+   "source": "cnBeta",
+   "title": "LG与三星拟将液态二氧化碳洗衣技术带入家庭：不用水、免烘干",
+   "url": "https://www.cnbeta.com.tw/articles/tech/1587416.htm",
+   "summary": "LG和三星正在探索一种全新的洗衣方式：用液态二氧化碳代替水来清洗衣物，并让衣物在洗涤结束后几乎立即干燥。两家公司已分别提交相关专利，希望把目前主要应用于工业洗衣场景的二氧化碳清洗技术，推向普通家庭。 阅读全文",
+   "published_at": 1795280238.0,
+   "published_bj": "2026-11-22 00:57"
+  },
+  {
+   "id": "ec18e6758fbd823c",
+   "source": "cnBeta",
+   "title": "三星的内存产能至2029年已几乎全部预订一空 客户正寻求直至2031年的供货协议",
+   "url": "https://www.cnbeta.com.tw/articles/tech/1587414.htm",
+   "summary": "三星存储芯片产能据报道已几乎被预订至2029年，部分客户甚至希望签署延伸至2031年的长期供货协议，以在人工智能基础设施需求持续高涨的背景下锁定未来五年的存储供应。 阅读全文",
+   "published_at": 1795280204.0,
+   "published_bj": "2026-11-22 00:56"
+  },
+  {
+   "id": "1c8d26197cf8d886",
+   "source": "cnBeta",
+   "title": "28核英特尔Nova Lake-S处理器现身测试平台 最高运行频率达5.2GHz",
+   "url": "https://www.cnbeta.com.tw/articles/tech/1587412.htm",
+   "summary": "英特尔一款单计算芯片设计的Nova Lake-S处理器近日在OpenBenchmark测试数据库中现身。该处理器以“Intel 0000”的临时名称出现，并带有“NVL”标识，显示其采用28个CPU核心，运行频率达到5.20 GHz。这一发现进一步表明，英特尔下一代桌面处理器Nova Lake-S正在内部或合作厂商平台进行测试。 阅读全文",
+   "published_at": 1795280124.0,
+   "published_bj": "2026-11-22 00:55"
+  },
+  {
+   "id": "a2f3db4b8af1b695",
+   "source": "cnBeta",
+   "title": "Google Gemini推出AI生成GIF功能 部分国家免费用户也可使用",
+   "url": "https://www.cnbeta.com.tw/articles/tech/1587410.htm",
+   "summary": "Google宣布，其人工智能助手Gemini现已支持用户生成自定义动画GIF。用户只需输入简单的文字提示，或上传照片、视频作为参考，即可创建专属动态图像，无需再在Giphy或Tenor等既有GIF库中反复搜索合适的表情或反应图。 阅读全文",
+   "published_at": 1795279650.0,
+   "published_bj": "2026-11-22 00:47"
+  },
+  {
+   "id": "6e5eaa86a8de7970",
+   "source": "cnBeta",
+   "title": "这张夜空照片展示了划过夜空的14000条卫星轨迹",
+   "url": "https://www.cnbeta.com.tw/articles/science/1587408.htm",
+   "summary": "一张新西兰摄影师拍摄的夜空照片近日在网络上引发热议。照片中密布的卫星轨迹令许多人误以为是人工智能生成的作品，但作者表示，这幅画面完全由真实拍摄和人工后期合成完成。 阅读全文",
+   "published_at": 1795279557.0,
+   "published_bj": "2026-11-22 00:45"
+  },
+  {
+   "id": "a75405ed320c7d3a",
+   "source": "cnBeta",
+   "title": "《GTA6》《塞尔达：时之笛 重制版》用户评分双双下滑",
+   "url": "https://www.cnbeta.com.tw/articles/game/1587406.htm",
+   "summary": "2026年11月，《GTA6》与11月5日发售的《塞尔达：时之笛 重制版》卷入玩家评分冲突。大量零分评价令两款游戏的Metacritic用户评分相继下滑。 阅读全文",
+   "published_at": 1795278706.0,
+   "published_bj": "2026-11-22 00:31"
+  },
+  {
+   "id": "ef72224645b6de39",
+   "source": "cnBeta",
+   "title": "《GTA6》Xbox代码泄露 PC移植版或一周内完成",
+   "url": "https://www.cnbeta.com.tw/articles/game/1587404.htm",
+   "summary": "在《GTA6》发售当天，黑客Cyberleek泄露了Xbox版本的大量代码，这可能为非官方PC移植铺平道路。这一过程被称为“重新编译”，即调整游戏代码使其能够在其他平台上运行。Cyberleek认为，玩家可以在一周内让游戏在PC上运行。尽管这种泄露行为可能会对游戏开发商造成利益损害，但这位颇具争议的黑客在Reddit上却获得了大量支持。 阅读全文",
+   "published_at": 1795277014.0,
+   "published_bj": "2026-11-22 00:03"
+  },
+  {
+   "id": "2fbf02b4a934b3e5",
+   "source": "cnBeta",
+   "title": "《GTA6》PC版移植已悄然推进：40款显卡参与测试 连Steam Deck都能跑?",
+   "url": "https://www.cnbeta.com.tw/articles/game/1587402.htm",
+   "summary": "《GTA6》PC版可能比玩家想象中来得更快。尽管R星目前尚未公布PC版的正式消息，但一群民间开发者已经开始尝试将PS5版游戏移植到Windows平台。据相关项目的测试记录显示，目前已有40款不同的显卡参与兼容性测试，甚至包括Steam Deck使用的硬件。 阅读全文",
+   "published_at": 1795276963.0,
+   "published_bj": "2026-11-22 00:02"
+  },
+  {
+   "id": "1e1fd97a43f1bfaf",
+   "source": "cnBeta",
+   "title": "Anthropic创纪录IPO撞上华尔街科技股自2020年以来最糟糕的一周",
+   "url": "https://www.cnbeta.com.tw/articles/tech/1587400.htm",
+   "summary": "初创企业投资人本·纳拉辛对Anthropic的重磅IPO兴奋不已，他计划本月晚些时候在硅谷的家中举办派对。届时将供应清酒、伏特加和库克香槟。每位出席者将获得两罐鱼子酱。“这是对风险投资史上发生过的最实质性、最重要、最令人难以置信的精彩事件的庆祝，”Tenacity Venture Capital创始合伙人纳拉辛在接受采访时说，并补充说他甚至没有投资这家公司。 阅读全文",
+   "published_at": 1795276830.0,
+   "published_bj": "2026-11-22 00:00"
+  },
+  {
+   "id": "5e7ca00b0d3f305f",
+   "source": "IT之家",
+   "title": "今日小雪：雨凝为雪，地气冻结",
+   "url": "https://www.ithome.com/1/030/511.htm",
+   "summary": "IT之家 11 月 22 日消息，今天是 11 月 22 日，同时也是节气中的小雪，真正的寒冬即将到来。小雪为二十四节气中的第 20 个。具体的时间为 11 月 22 或 23 日，此时太阳到达黄经 240°。 小雪时节① 天气寒冷，降水状态由雨变雪，但“地寒未甚”，雪量不大，故称小雪 ；②北方供暖季，长期在暖气房会出现口干舌燥、咳嗽、头晕等，需预防“暖气病”；③小雪节气过后气温将更低，要注意防寒保暖，谨防感冒。小雪到，冬始俏。 进入该节气，中国广大地区西北风开始成为常客，气温下降，虽开始降雪，但雪量不大，故称小雪。据说，在北方，小雪时节要吃涮羊肉，在南方有吃糍粑的习俗。 小雪节气的降临就意味",
+   "published_at": 1795276808.0,
+   "published_bj": "2026-11-22 00:00"
+  },
+  {
+   "id": "2b397125853e3c86",
+   "source": "TechCrunch",
+   "title": "Is selling an AI version of your face to this microdrama startup the future of Hollywood?",
+   "url": "https://techcrunch.com/2026/11/21/is-selling-an-ai-version-of-your-face-to-this-microdrama-startup-the-future-of-hollywood/",
+   "summary": "An actor has licensed his face to a microdrama startup — in a trend that's already popular in China. Experts question the long-term consequences if this becomes a trend in Hollywood, too.",
+   "published_at": 1795276800.0,
+   "published_bj": "2026-11-22 00:00"
+  }
+ ]
+}
