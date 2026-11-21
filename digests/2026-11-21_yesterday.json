@@ -1,0 +1,382 @@
+{
+ "type": "yesterday",
+ "date": "2026-11-21",
+ "window": {
+  "start_ts": 1795190400.0,
+  "end_ts": 1795276800.0
+ },
+ "generated_at": 1795296654.9792774,
+ "generator": "action",
+ "news_count": 263,
+ "keywords": [
+  "ai",
+  "the",
+  "美元",
+  "伟达",
+  "英伟",
+  "发布",
+  "亿美",
+  "曝光",
+  "元",
+  "手机"
+ ],
+ "points": [
+  {
+   "text": "【ai】美股惨遭“黑色星期五”，对AI泡沫加剧的担忧引发华尔街抛售潮，恐慌情绪集中爆发，美国科技股一片哀嚎，英伟达股价暴跌14%，戴尔暴跌11%，Ant",
+   "keyword": "ai",
+   "news_ids": [
+    "edeb6383c7ebb14e"
+   ],
+   "refs": [
+    {
+     "id": "edeb6383c7ebb14e",
+     "title": "美股AI血崩 英伟达市值已跌去2.7万亿美元",
+     "source": "cnBeta",
+     "url": "https://www.cnbeta.com.tw/articles/tech/1587368.htm",
+     "published_at": 1795252187.0
+    }
+   ]
+  },
+  {
+   "text": "【ai】美国总统唐纳德·特朗普11月20日公开表示，美国政府将阻止美国科技企业在海外建设数据中心，或者对这些企业征收“巨额税款”（Tremendous ",
+   "keyword": "ai",
+   "news_ids": [
+    "d5044b06256e20be"
+   ],
+   "refs": [
+    {
+     "id": "d5044b06256e20be",
+     "title": "特朗普威胁对海外建设AI数据中心的美企征收“巨额税款” 要求算力基础设施留在美国",
+     "source": "cnBeta",
+     "url": "https://www.cnbeta.com.tw/articles/tech/1587330.htm",
+     "published_at": 1795202945.0
+    }
+   ]
+  },
+  {
+   "text": "【ai】美国总统特朗普当地时间20日在白宫公开举办的记者会上，专门针对此前辞去英伟达首席执行官一职的黄仁勋公开发声，明确表示非常期待他能够回归英伟达执掌",
+   "keyword": "ai",
+   "news_ids": [
+    "58709d93a68e04df"
+   ],
+   "refs": [
+    {
+     "id": "58709d93a68e04df",
+     "title": "美国总统特朗普公开支持黄仁勋：期待回归英伟达 他让美国AI领先全球10年",
+     "source": "cnBeta",
+     "url": "https://www.cnbeta.com.tw/articles/tech/1587378.htm",
+     "published_at": 1795252433.0
+    }
+   ]
+  },
+  {
+   "text": "【ai】Mathematicians are having their minds blown by the latest AI-driven resu",
+   "keyword": "ai",
+   "news_ids": [
+    "45560ec39d63fe9b"
+   ],
+   "refs": [
+    {
+     "id": "45560ec39d63fe9b",
+     "title": "AI claimed a solution to the 167-year-old Riemann Hypothesis — and a human did, too",
+     "source": "TechCrunch",
+     "url": "https://techcrunch.com/2026/11/20/ai-claimed-a-solution-to-the-167-year-old-riemann-hypothesis-and-a-human-did-too/",
+     "published_at": 1795203128.0
+    }
+   ]
+  },
+  {
+   "text": "【发布】IT之家 11 月 21 日消息，华为今日公布 Mate X8 大折叠手机黑白双色官图，新机将于 11 月 24 日 14:30 发布",
+   "keyword": "发布",
+   "news_ids": [
+    "9ecb488ab2779136"
+   ],
+   "refs": [
+    {
+     "id": "9ecb488ab2779136",
+     "title": "华为 Mate X8 大折叠手机黑白双色亮相，11 月 24 日发布",
+     "source": "IT之家",
+     "url": "https://www.ithome.com/1/030/324.htm",
+     "published_at": 1795226978.0
+    }
+   ]
+  },
+  {
+   "text": "【手机】IT之家 11 月 21 日消息，华为本周已官宣旗下最薄 Mate 直板机 —— 华为 Mate 90 Air，新机将于 11 月 24 日 1",
+   "keyword": "手机",
+   "news_ids": [
+    "63679d43f4b7f713"
+   ],
+   "refs": [
+    {
+     "id": "63679d43f4b7f713",
+     "title": "消息称华为 Mate 90 Air 手机搭载麒麟 9020 芯片，厚 6.58mm",
+     "source": "IT之家",
+     "url": "https://www.ithome.com/1/030/439.htm",
+     "published_at": 1795255800.0
+    }
+   ]
+  },
+  {
+   "text": "【元】IT之家 11 月 21 日消息，乔思伯旗下 BO400 VP 铝制海景房机箱现已在京东发售，该产品采用真空镀工艺，支持 360 水冷，拥有 1",
+   "keyword": "元",
+   "news_ids": [
+    "b77a65d098fe4f55"
+   ],
+   "refs": [
+    {
+     "id": "b77a65d098fe4f55",
+     "title": "乔思伯 BO400 VP 铝制海景房机箱发售：可实现三面侧透自由切换，支持 360 水冷，1999 元",
+     "source": "IT之家",
+     "url": "https://www.ithome.com/1/030/408.htm",
+     "published_at": 1795249637.0
+    }
+   ]
+  },
+  {
+   "text": "【美国】IT之家 11 月 21 日消息，据《商业内幕》今天（21 日）晚间报道，特斯拉从未涉足 MPV 市场，杰弗里 · 霍夫曼看中了这一市场空白，希",
+   "keyword": "美国",
+   "news_ids": [
+    "7ba3d06fd441da23"
+   ],
+   "refs": [
+    {
+     "id": "7ba3d06fd441da23",
+     "title": "美国公司将特斯拉 Model 3 爆改成 MPV，超充、OTA、辅助驾驶都能用",
+     "source": "IT之家",
+     "url": "https://www.ithome.com/1/030/458.htm",
+     "published_at": 1795258242.0
+    }
+   ]
+  },
+  {
+   "text": "【发布】针对网络流传的零跑A10后备箱储物盒被压塌一事，零跑汽车发布《关于零跑A10后备厢储物盒的情况说明》，称公司高度重视，第一时间联系用户并对车辆进",
+   "keyword": "发布",
+   "news_ids": [
+    "2345eba4a5e18b97"
+   ],
+   "refs": [
+    {
+     "id": "2345eba4a5e18b97",
+     "title": "零跑回应A10后备箱储物盒被压塌：系装载物品超过设计承重上限所致",
+     "source": "cnBeta",
+     "url": "https://www.cnbeta.com.tw/articles/tech/1587360.htm",
+     "published_at": 1795251638.0
+    }
+   ]
+  },
+  {
+   "text": "IT之家 11 月 21 日消息，现如今在海外，让经典车通过电动化改造获得新生的项目不断涌现",
+   "keyword": "",
+   "news_ids": [
+    "37ed7b428333acbb"
+   ],
+   "refs": [
+    {
+     "id": "37ed7b428333acbb",
+     "title": "1967 款保时捷 912 借电动化喜获新生：输出 304 马力，续航 400 公里",
+     "source": "IT之家",
+     "url": "https://www.ithome.com/1/030/510.htm",
+     "published_at": 1795275811.0
+    }
+   ]
+  },
+  {
+   "text": "Article URL: https://onurgumus",
+   "keyword": "",
+   "news_ids": [
+    "711a4df5e0150a11"
+   ],
+   "refs": [
+    {
+     "id": "711a4df5e0150a11",
+     "title": "Show HN: Zero C# – C# without a runtime or GC",
+     "source": "Hacker News",
+     "url": "https://onurgumus.github.io/zero-csharp/index.html",
+     "published_at": 1795275549.0
+    }
+   ]
+  },
+  {
+   "text": "IT之家 11 月 21 日消息，比亚迪腾势汽车在海外重现了大众 20 年前的一则经典广告：一辆柴油 SUV 拖着一架大型喷气式客机",
+   "keyword": "",
+   "news_ids": [
+    "141ff4c8afd4c3cb"
+   ],
+   "refs": [
+    {
+     "id": "141ff4c8afd4c3cb",
+     "title": "比亚迪腾势 B5 海外“秀肌肉”，两轮成功拉动 180 吨客机",
+     "source": "IT之家",
+     "url": "https://www.ithome.com/1/030/509.htm",
+     "published_at": 1795274736.0
+    }
+   ]
+  },
+  {
+   "text": "Jonathan Kreiss-Tomkins, Alaska's governor-elect, has made more than 13,",
+   "keyword": "",
+   "news_ids": [
+    "07dac5f4db151a1d"
+   ],
+   "refs": [
+    {
+     "id": "07dac5f4db151a1d",
+     "title": "Alaska, your next governor is a Wikipedia nerd",
+     "source": "TechCrunch",
+     "url": "https://techcrunch.com/2026/11/21/alaska-your-next-governor-is-a-wikipedia-nerd/",
+     "published_at": 1795274309.0
+    }
+   ]
+  },
+  {
+   "text": "IT之家 11 月 21 日消息，育碧确认，《刺客信条》系列中国背景手游《刺客信条：代号 JADE》仍在开发中，不过现阶段 仍将主机和 PC 作",
+   "keyword": "",
+   "news_ids": [
+    "2665560bdf7de333"
+   ],
+   "refs": [
+    {
+     "id": "2665560bdf7de333",
+     "title": "育碧确认：《刺客信条》中国背景手游“代号 JADE”仍在开发",
+     "source": "IT之家",
+     "url": "https://www.ithome.com/1/030/507.htm",
+     "published_at": 1795272454.0
+    }
+   ]
+  },
+  {
+   "text": "新西兰天文摄影师 Brendan Larsen 在今年 9 月的一个晚上，历时逾两个小时拍摄了 578 张夜空照片",
+   "keyword": "",
+   "news_ids": [
+    "a487aa39225680ef"
+   ],
+   "refs": [
+    {
+     "id": "a487aa39225680ef",
+     "title": "夜空中的人造卫星轨迹",
+     "source": "Solidot",
+     "url": "https://www.solidot.org/story?sid=85953",
+     "published_at": 1795269943.0
+    }
+   ]
+  }
+ ],
+ "article": {
+  "title": "2026-11-21 新闻总结",
+  "paragraphs": [
+   {
+    "kind": "lead",
+    "text": "过去 24 小时共收录 263 条新闻，来自 7 家媒体。把标题放在一起看，讨论主要集中在 AI、手机、芯片 这几个方向上，其余消息更像是零散补充。"
+   },
+   {
+    "kind": "section",
+    "heading": "AI",
+    "text": "先看「AI」。美股惨遭“黑色星期五”，对AI泡沫加剧的担忧引发华尔街抛售潮，恐慌情绪集中爆发，美国科技股一片哀嚎，英伟达股价暴跌14%，戴尔暴跌11%，Anthropic暴跌9%，甲骨文，另有 32 条消息指向同一话题。资本动作往往领先产品一年，值得盯的不是金额，而是钱最后花向了算力、场景还是补贴。",
+    "news_ids": [
+     "edeb6383c7ebb14e"
+    ],
+    "refs": [
+     {
+      "id": "edeb6383c7ebb14e",
+      "title": "美股AI血崩 英伟达市值已跌去2.7万亿美元",
+      "source": "cnBeta",
+      "url": "https://www.cnbeta.com.tw/articles/tech/1587368.htm",
+      "published_at": 1795252187.0
+     }
+    ]
+   },
+   {
+    "kind": "section",
+    "heading": "数据中心",
+    "text": "与此同时「数据中心」。美国总统唐纳德·特朗普11月20日公开表示，美国政府将阻止美国科技企业在海外建设数据中心，另有 51 条消息指向同一话题。这类进展更像是把已有能力往工程化落地推了一步，真正的分水岭在于成本和可靠性能不能同时压下来。",
+    "news_ids": [
+     "d5044b06256e20be"
+    ],
+    "refs": [
+     {
+      "id": "d5044b06256e20be",
+      "title": "特朗普威胁对海外建设AI数据中心的美企征收“巨额税款” 要求算力基础设施留在美国",
+      "source": "cnBeta",
+      "url": "https://www.cnbeta.com.tw/articles/tech/1587330.htm",
+      "published_at": 1795202945.0
+     }
+    ]
+   },
+   {
+    "kind": "section",
+    "heading": "全球",
+    "text": "另一个值得注意的方向是「全球」。美国总统特朗普当地时间20日在白宫公开举办的记者会上，专门针对此前辞去英伟达首席执行官一职的黄仁勋公开发声，另有 17 条消息指向同一话题。这条消息短期内的实际影响可能有限，但它指向的方向值得放进观察名单。",
+    "news_ids": [
+     "58709d93a68e04df"
+    ],
+    "refs": [
+     {
+      "id": "58709d93a68e04df",
+      "title": "美国总统特朗普公开支持黄仁勋：期待回归英伟达 他让美国AI领先全球10年",
+      "source": "cnBeta",
+      "url": "https://www.cnbeta.com.tw/articles/tech/1587378.htm",
+      "published_at": 1795252433.0
+     }
+    ]
+   },
+   {
+    "kind": "section",
+    "heading": "直播",
+    "text": "相比之下「直播」。AI 漫剧不缺作品，缺什么？｜QLab直播…，另有 42 条消息指向同一话题。对读者来说，值得留意的不是结论本身，而是它背后哪些前提正在被改变。",
+    "news_ids": [
+     "518b4cbd433e05e6"
+    ],
+    "refs": [
+     {
+      "id": "518b4cbd433e05e6",
+      "title": "AI 漫剧不缺作品，缺什么？｜QLab直播",
+      "source": "InfoQ中文",
+      "url": "https://www.infoq.cn/article/27xI2tBkStO5qz52VBPw?utm_source=rss&utm_medium=article",
+      "published_at": 1795194869.0
+     }
+    ]
+   },
+   {
+    "kind": "glossary",
+    "items": [
+     {
+      "term": "AI",
+      "desc": "人工智能，让机器完成识别、生成、判断等原本需要人做的任务"
+     },
+     {
+      "term": "IPO",
+      "desc": "首次公开募股，公司第一次把股票卖给公众并上市"
+     },
+     {
+      "term": "Agent",
+      "desc": "智能体，能自己拆解任务、调用工具并连续执行的 AI 程序"
+     },
+     {
+      "term": "GPU",
+      "desc": "图形处理器，因为擅长大规模并行计算，成了 AI 训练的主力硬件"
+     },
+     {
+      "term": "数据中心",
+      "desc": "集中放置服务器、供电与散热设施的大型机房"
+     },
+     {
+      "term": "零日漏洞",
+      "desc": "厂商还不知道、因而暂时没有补丁的安全缺陷"
+     }
+    ]
+   },
+   {
+    "kind": "outlook",
+    "text": "把这几条放在一起看，最值得跟踪的是 AI 和 手机 两条线：一条决定技术能走多远，一条决定它多快能落到普通人的日常里。至于其他消息，可以先放进观察名单，等后续有更实的进展再判断。"
+   }
+  ],
+  "word_count": 631
+ },
+ "ai_enhanced": false,
+ "schema": 1,
+ "window_bj": {
+  "start": "2026-11-21 00:00",
+  "end": "2026-11-22 00:00"
+ }
+}

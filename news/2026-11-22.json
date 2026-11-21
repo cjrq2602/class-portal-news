@@ -1,8 +1,26 @@
 {
  "date": "2026-11-22",
- "generated_at": 1795293594.2995126,
- "count": 21,
+ "generated_at": 1795296652.927906,
+ "count": 23,
  "items": [
+  {
+   "id": "14e636654fe7cf80",
+   "source": "Hacker News",
+   "title": "Tasklet (YC P26) Is Hiring Product and Agent Infra Engineers",
+   "url": "https://tasklet.ai/careers",
+   "summary": "Article URL: https://tasklet.ai/careers Comments URL: https://news.ycombinator.com/item?id=50593679 Points: 0 # Comments: 0",
+   "published_at": 1795295468.0,
+   "published_bj": "2026-11-22 05:11"
+  },
+  {
+   "id": "8c218a7634dc4d01",
+   "source": "TechCrunch",
+   "title": "A tale of two Nvidias",
+   "url": "https://techcrunch.com/2026/11/21/a-tale-of-two-nvidias/",
+   "summary": "We got two very different pictures of Nvidia — the company’s latest earnings report vs. the tech executives loudly calling for Jensen Huang’s return.",
+   "published_at": 1795295262.0,
+   "published_bj": "2026-11-22 05:07"
+  },
   {
    "id": "4bbecc41a6f5b588",
    "source": "cnBeta",
