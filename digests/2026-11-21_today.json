@@ -1,0 +1,382 @@
+{
+ "type": "today",
+ "date": "2026-11-21",
+ "window": {
+  "start_ts": 1795190400.0,
+  "end_ts": 1795222800.0
+ },
+ "generated_at": 1795248171.2307673,
+ "generator": "action",
+ "news_count": 84,
+ "keywords": [
+  "ai",
+  "the",
+  "and",
+  "to",
+  "anthropic",
+  "google",
+  "伟达",
+  "华为",
+  "支持",
+  "模型"
+ ],
+ "points": [
+  {
+   "text": "【ai】Mathematicians are having their minds blown by the latest AI-driven resu",
+   "keyword": "ai",
+   "news_ids": [
+    "45560ec39d63fe9b"
+   ],
+   "refs": [
+    {
+     "id": "45560ec39d63fe9b",
+     "title": "AI claimed a solution to the 167-year-old Riemann Hypothesis — and a human did, too",
+     "source": "TechCrunch",
+     "url": "https://techcrunch.com/2026/11/20/ai-claimed-a-solution-to-the-167-year-old-riemann-hypothesis-and-a-human-did-too/",
+     "published_at": 1795203128.0
+    }
+   ]
+  },
+  {
+   "text": "【ai】IT之家 11 月 21 日消息，11 月 15 日在接受 Palisade Research 采访时，Anthropic 公司技术团队成员 T",
+   "keyword": "ai",
+   "news_ids": [
+    "d18e3e5905cc6a2f"
+   ],
+   "refs": [
+    {
+     "id": "d18e3e5905cc6a2f",
+     "title": "几乎所有人将永久失业”：Anthropic 研究员预测 2027 年底 AI 在几乎所有领域超越顶尖专家",
+     "source": "IT之家",
+     "url": "https://www.ithome.com/1/030/308.htm",
+     "published_at": 1795222409.0
+    }
+   ]
+  },
+  {
+   "text": "【ai】IT之家 11 月 21 日消息，Contra Labs 于当地时间 11 月 18 日发布 AI 设计能力评测榜单 Frontier Desi",
+   "keyword": "ai",
+   "news_ids": [
+    "6c70891de7b8216d"
+   ],
+   "refs": [
+    {
+     "id": "6c70891de7b8216d",
+     "title": "匿名 AI 模型 Gestalt 登顶 Contra 前沿设计榜单：性能远超 Claude Fable 5.2、GPT-6.1 Sol，Elo 评分超越人类参考作品",
+     "source": "IT之家",
+     "url": "https://www.ithome.com/1/030/291.htm",
+     "published_at": 1795216671.0
+    }
+   ]
+  },
+  {
+   "text": "【ai】Article URL: https://www",
+   "keyword": "ai",
+   "news_ids": [
+    "dbded14114a89578"
+   ],
+   "refs": [
+    {
+     "id": "dbded14114a89578",
+     "title": "Google Workers Tell Their Employer Not to Punish Schools That Don't Want AI",
+     "source": "Hacker News",
+     "url": "https://www.motherjones.com/politics/2026/11/google-alphabet-union-school-ai-protest-gemini-workers-petition/",
+     "published_at": 1795193967.0
+    }
+   ]
+  },
+  {
+   "text": "【ai】IT之家 11 月 21 日消息，首款为 AI 而生的鸿蒙手机 —— 华为星芒 OSTA O1 Pro 已于昨日下午正式发布 ，叠加国补后 49",
+   "keyword": "ai",
+   "news_ids": [
+    "6853ec4ad07acf92"
+   ],
+   "refs": [
+    {
+     "id": "6853ec4ad07acf92",
+     "title": "独占特性确认：华为 Mate 系列旗舰机“无缘”OSTA 小星芒、AI 屏等功能",
+     "source": "IT之家",
+     "url": "https://www.ithome.com/1/030/284.htm",
+     "published_at": 1795202443.0
+    }
+   ]
+  },
+  {
+   "text": "【the】Article URL: https://www",
+   "keyword": "the",
+   "news_ids": [
+    "240278ce067e7a06"
+   ],
+   "refs": [
+    {
+     "id": "240278ce067e7a06",
+     "title": "DreamCoder: Coding harness and IDE from the author of Mastering Emacs",
+     "source": "Hacker News",
+     "url": "https://www.masteringemacs.org/article/announcing-dreamcoder",
+     "published_at": 1795205039.0
+    }
+   ]
+  },
+  {
+   "text": "【美元】IT之家 11 月 21 日消息，英伟达股价持续遭遇抛售",
+   "keyword": "美元",
+   "news_ids": [
+    "d1f0c807d6b95823"
+   ],
+   "refs": [
+    {
+     "id": "d1f0c807d6b95823",
+     "title": "跌掉一个亚马逊：英伟达市值较 10 月高点蒸发 2.73 万亿美元，纳斯达克创 2020 年 3 月疫情后最差单周表现",
+     "source": "IT之家",
+     "url": "https://www.ithome.com/1/030/302.htm",
+     "published_at": 1795219692.0
+    }
+   ]
+  },
+  {
+   "text": "【支持】IT之家 11 月 21 日消息，比亚迪方程豹钛 9 车型于 11 月 19 日上市，售价 27.99 万元起",
+   "keyword": "支持",
+   "news_ids": [
+    "7dedbb6a3e867811"
+   ],
+   "refs": [
+    {
+     "id": "7dedbb6a3e867811",
+     "title": "比亚迪方程豹钛 9 将于 11 月底交付：顶配支持折叠方向盘，27.99 万元起",
+     "source": "IT之家",
+     "url": "https://www.ithome.com/1/030/293.htm",
+     "published_at": 1795216832.0
+    }
+   ]
+  },
+  {
+   "text": "【google】Google近日公布了全新Noto 3D表情符号的详细硬件要求",
+   "keyword": "google",
+   "news_ids": [
+    "4f9df3c6f0ea5ca7"
+   ],
+   "refs": [
+    {
+     "id": "4f9df3c6f0ea5ca7",
+     "title": "Google 3D表情将登陆Android系统 需6GB内存和10GB可用空间引发关注",
+     "source": "cnBeta",
+     "url": "https://www.cnbeta.com.tw/articles/tech/1587316.htm",
+     "published_at": 1795194028.0
+    }
+   ]
+  },
+  {
+   "text": "IT之家 11 月 21 日消息，据易车 11 月 20 日报道，长城猛龙混动版将于 11 月 27 日开幕的 2026 广州车展上市，搭载 1",
+   "keyword": "",
+   "news_ids": [
+    "88fbcf41c3f7f6cb"
+   ],
+   "refs": [
+    {
+     "id": "88fbcf41c3f7f6cb",
+     "title": "长城猛龙混动版 11 月 27 日广州车展上市，搭载 1.5T 油电混动系统",
+     "source": "IT之家",
+     "url": "https://www.ithome.com/1/030/309.htm",
+     "published_at": 1795222420.0
+    }
+   ]
+  },
+  {
+   "text": "Article URL: https://spectrum",
+   "keyword": "",
+   "news_ids": [
+    "2ab043d3652717fa"
+   ],
+   "refs": [
+    {
+     "id": "2ab043d3652717fa",
+     "title": "I Don't Trust Visual Recordings Anymore. But One Day I Will Again",
+     "source": "Hacker News",
+     "url": "https://spectrum.ieee.org/fighting-back-against-deep-fakes",
+     "published_at": 1795221220.0
+    }
+   ]
+  },
+  {
+   "text": "IT之家 11 月 21 日消息，科技媒体 TechRadar 今天（11 月 21 日）发布博文， 报道称英国防务公司 BAE Systems",
+   "keyword": "",
+   "news_ids": [
+    "3603a5aca7ad5d75"
+   ],
+   "refs": [
+    {
+     "id": "3603a5aca7ad5d75",
+     "title": "英国 BAE 研发“幽灵雷达”：不主动“出声”也能追踪无人机，可装进 SUV、成本低至同类 1/10",
+     "source": "IT之家",
+     "url": "https://www.ithome.com/1/030/305.htm",
+     "published_at": 1795221175.0
+    }
+   ]
+  },
+  {
+   "text": "IT之家 11 月 21 日消息，科技媒体 phys 昨日（11 月 19 日）发布博文，报道称最新研究提出火星杰泽罗陨石坑底部一处近 40 亿",
+   "keyword": "",
+   "news_ids": [
+    "17b93b37281f0399"
+   ],
+   "refs": [
+    {
+     "id": "17b93b37281f0399",
+     "title": "火星古老岩层身世新解：约 40 亿年前熔岩曾奔流约 200 公里",
+     "source": "IT之家",
+     "url": "https://www.ithome.com/1/030/303.htm",
+     "published_at": 1795219879.0
+    }
+   ]
+  },
+  {
+   "text": "IT之家 11 月 21 日消息，科技媒体 Phys.org 昨日（11 月 20 日）发布博文，报道称由美国波士顿大学牵头的研究团队分析了跨越",
+   "keyword": "",
+   "news_ids": [
+    "8ec7911cff9b3bf6"
+   ],
+   "refs": [
+    {
+     "id": "8ec7911cff9b3bf6",
+     "title": "木卫二巨大钠云身世揭秘：线索指向冰下咸水海洋",
+     "source": "IT之家",
+     "url": "https://www.ithome.com/1/030/300.htm",
+     "published_at": 1795219339.0
+    }
+   ]
+  },
+  {
+   "text": "IT之家 11 月 21 日消息，科技媒体 TechSpot 昨日（11 月 20 日）报道， 攻击者利用微软约两年前已修复的 Windows ",
+   "keyword": "",
+   "news_ids": [
+    "55ac69fe213a333e"
+   ],
+   "refs": [
+    {
+     "id": "55ac69fe213a333e",
+     "title": "700 多台 POS 机滞后约 2 年未打微软 Win10/Win11 补丁酿苦果，超 100 万张银行卡集体沦陷",
+     "source": "IT之家",
+     "url": "https://www.ithome.com/1/030/298.htm",
+     "published_at": 1795218548.0
+    }
+   ]
+  }
+ ],
+ "article": {
+  "title": "2026-11-21 新闻总结",
+  "paragraphs": [
+   {
+    "kind": "lead",
+    "text": "今天共收录 84 条新闻，来自 5 家媒体。把标题放在一起看，讨论主要集中在 AI、模型 这几个方向上，其余消息更像是零散补充。"
+   },
+   {
+    "kind": "section",
+    "heading": "研发",
+    "text": "先看「研发」。IT之家 11 月 21 日消息，英特尔官方 YouTube 频道在 11 月 17 日发布了最新一期《Inside the Memory Stack》，另有 13 条消息指向同一话题。从节奏上看，行业已经从「能不能做」转向「做得便不便宜」，这通常意味着竞争会更务实。",
+    "news_ids": [
+     "a68615b863aae81f"
+    ],
+    "refs": [
+     {
+      "id": "a68615b863aae81f",
+      "title": "英特尔自曝 DDR5 早期研发内幕：内存条插上就死机，失败才是常态",
+      "source": "IT之家",
+      "url": "https://www.ithome.com/1/030/299.htm",
+      "published_at": 1795218909.0
+     }
+    ]
+   },
+   {
+    "kind": "section",
+    "heading": "AI",
+    "text": "与此同时「AI」。IT之家 11 月 21 日消息，11 月 15 日在接受 Palisade Research 采访时，另有 15 条消息指向同一话题。这条消息短期内的实际影响可能有限，但它指向的方向值得放进观察名单。",
+    "news_ids": [
+     "d18e3e5905cc6a2f"
+    ],
+    "refs": [
+     {
+      "id": "d18e3e5905cc6a2f",
+      "title": "几乎所有人将永久失业”：Anthropic 研究员预测 2027 年底 AI 在几乎所有领域超越顶尖专家",
+      "source": "IT之家",
+      "url": "https://www.ithome.com/1/030/308.htm",
+      "published_at": 1795222409.0
+     }
+    ]
+   },
+   {
+    "kind": "section",
+    "heading": "模型",
+    "text": "另一个值得注意的方向是「模型」。IT之家 11 月 21 日消息，Contra Labs 于当地时间 11 月 18 日发布 AI 设计能力评测榜单 Frontier Design Benchmark…，另有 4 条消息指向同一话题。这类进展更像是把已有能力往工程化落地推了一步，真正的分水岭在于成本和可靠性能不能同时压下来。",
+    "news_ids": [
+     "6c70891de7b8216d"
+    ],
+    "refs": [
+     {
+      "id": "6c70891de7b8216d",
+      "title": "匿名 AI 模型 Gestalt 登顶 Contra 前沿设计榜单：性能远超 Claude Fable 5.2、GPT-6.1 Sol，Elo 评分超越人类参考作品",
+      "source": "IT之家",
+      "url": "https://www.ithome.com/1/030/291.htm",
+      "published_at": 1795216671.0
+     }
+    ]
+   },
+   {
+    "kind": "section",
+    "heading": "功能",
+    "text": "相比之下「功能」。IT之家 11 月 21 日消息，首款为 AI 而生的鸿蒙手机 —— 华为星芒 OSTA O1 Pro 已于昨日下午正式发布，另有 2 条消息指向同一话题。技术路线的胜负很少由一次发布会决定，接下来要看的是它能不能被更多团队低成本复用。",
+    "news_ids": [
+     "6853ec4ad07acf92"
+    ],
+    "refs": [
+     {
+      "id": "6853ec4ad07acf92",
+      "title": "独占特性确认：华为 Mate 系列旗舰机“无缘”OSTA 小星芒、AI 屏等功能",
+      "source": "IT之家",
+      "url": "https://www.ithome.com/1/030/284.htm",
+      "published_at": 1795202443.0
+     }
+    ]
+   },
+   {
+    "kind": "glossary",
+    "items": [
+     {
+      "term": "AI",
+      "desc": "人工智能，让机器完成识别、生成、判断等原本需要人做的任务"
+     },
+     {
+      "term": "GPU",
+      "desc": "图形处理器，因为擅长大规模并行计算，成了 AI 训练的主力硬件"
+     },
+     {
+      "term": "Agent",
+      "desc": "智能体，能自己拆解任务、调用工具并连续执行的 AI 程序"
+     },
+     {
+      "term": "IPO",
+      "desc": "首次公开募股，公司第一次把股票卖给公众并上市"
+     },
+     {
+      "term": "数据中心",
+      "desc": "集中放置服务器、供电与散热设施的大型机房"
+     },
+     {
+      "term": "无人机",
+      "desc": "不需要机上飞行员、靠远程或自主控制的飞行器"
+     }
+    ]
+   },
+   {
+    "kind": "outlook",
+    "text": "把这几条放在一起看，最值得跟踪的是 AI 和 模型 两条线：一条决定技术能走多远，一条决定它多快能落到普通人的日常里。至于其他消息，可以先放进观察名单，等后续有更实的进展再判断。"
+   }
+  ],
+  "word_count": 694
+ },
+ "ai_enhanced": false,
+ "schema": 1,
+ "window_bj": {
+  "start": "2026-11-21 00:00",
+  "end": "2026-11-21 09:00"
+ }
+}

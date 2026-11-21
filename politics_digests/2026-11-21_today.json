@@ -1,0 +1,241 @@
+{
+ "type": "today",
+ "date": "2026-11-21",
+ "window": {
+  "start_ts": 1795190400.0,
+  "end_ts": 1795222800.0
+ },
+ "generated_at": 1795248171.351979,
+ "generator": "action",
+ "news_count": 8,
+ "keywords": [
+  "中俄",
+  "举行",
+  "义重",
+  "九轮",
+  "书长",
+  "会举",
+  "会晤",
+  "俄美",
+  "元首",
+  "前例"
+ ],
+ "points": [
+  {
+   "text": "【国秘】新华社联合国11月20日电(记者尚绪谦)联合国安理会20日就下一任联合国秘书长遴选举行第九轮意向性投票",
+   "keyword": "国秘",
+   "news_ids": [
+    "89af760b06c1bc56"
+   ],
+   "refs": [
+    {
+     "id": "89af760b06c1bc56",
+     "title": "安理会举行联合国秘书长遴选第九轮意向性投票",
+     "source": "中新网即时",
+     "url": "https://www.chinanews.com.cn/gj/2026/11-21/10735607.shtml",
+     "published_at": 1795212478.0
+    }
+   ]
+  },
+  {
+   "text": "【举行】新华社华盛顿11月20日电(记者黄强 徐剑梅)美国总统特朗普20日在白宫举行的新闻发布会上表示，日前在中国深圳举行的亚太经合组织领导人非正式会议",
+   "keyword": "举行",
+   "news_ids": [
+    "e5b061beaea0c765"
+   ],
+   "refs": [
+    {
+     "id": "e5b061beaea0c765",
+     "title": "特朗普：中俄美元首会晤“史无前例”“意义重大”",
+     "source": "中新网即时",
+     "url": "https://www.chinanews.com.cn/gj/2026/11-21/10735606.shtml",
+     "published_at": 1795212388.0
+    }
+   ]
+  },
+  {
+   "text": "11月21日早报",
+   "keyword": "",
+   "news_ids": [
+    "4aa63d9cccb3c538"
+   ],
+   "refs": [
+    {
+     "id": "4aa63d9cccb3c538",
+     "title": "11月21日早报",
+     "source": "中新网即时",
+     "url": "https://www.chinanews.com.cn/iframe/2026/11-21/10735609.shtml",
+     "published_at": 1795214500.0
+    }
+   ]
+  },
+  {
+   "text": "北京时间11月20日，2026U17世界杯H组首轮，中国U17男足0-5不敌西班牙U17男足",
+   "keyword": "",
+   "news_ids": [
+    "5d88cba0c823a08c"
+   ],
+   "refs": [
+    {
+     "id": "5d88cba0c823a08c",
+     "title": "U17世界杯 中国队首战不敌西班牙队",
+     "source": "中新网即时",
+     "url": "https://www.chinanews.com.cn/ty/2026/11-21/10735608.shtml",
+     "published_at": 1795213067.0
+    }
+   ]
+  },
+  {
+   "text": "本周，国际贵金属出现连续下跌",
+   "keyword": "",
+   "news_ids": [
+    "8160ef9c522b62cd"
+   ],
+   "refs": [
+    {
+     "id": "8160ef9c522b62cd",
+     "title": "国际金价创一年多新低 黄金消费热潮背后这几点要知道",
+     "source": "中新网即时",
+     "url": "https://www.chinanews.com.cn/cj/2026/11-21/10735605.shtml",
+     "published_at": 1795212382.0
+    }
+   ]
+  },
+  {
+   "text": "BBC記者從深圳帶你回顧這場中美俄「三巨頭」峰會的台前幕後",
+   "keyword": "",
+   "news_ids": [
+    "bfe1e7ad7e67631f"
+   ],
+   "refs": [
+    {
+     "id": "bfe1e7ad7e67631f",
+     "title": "中美俄「三巨頭」會晤的台前幕後",
+     "source": "BBC中文",
+     "url": "https://www.bbc.com/zhongwen/articles/cmn0d4pnrj31o/trad?at_medium=RSS&at_campaign=rss",
+     "published_at": 1795191406.0
+    }
+   ]
+  },
+  {
+   "text": "【安理】新华社联合国11月20日电(记者尚绪谦)联合国安理会20日就下一任联合国秘书长遴选举行第九轮意向性投票",
+   "keyword": "安理",
+   "news_ids": [
+    "d2f46d731f62e3bb"
+   ],
+   "refs": [
+    {
+     "id": "d2f46d731f62e3bb",
+     "title": "安理会举行联合国秘书长遴选第九轮意向性投票",
+     "source": "中新网要闻",
+     "url": "https://www.chinanews.com.cn/gj/2026/11-21/10735607.shtml",
+     "published_at": 1795212478.0
+    }
+   ]
+  },
+  {
+   "text": "【中俄】新华社华盛顿11月20日电(记者黄强 徐剑梅)美国总统特朗普20日在白宫举行的新闻发布会上表示，日前在中国深圳举行的亚太经合组织领导人非正式会议",
+   "keyword": "中俄",
+   "news_ids": [
+    "27431a4c1bc1f98c"
+   ],
+   "refs": [
+    {
+     "id": "27431a4c1bc1f98c",
+     "title": "特朗普：中俄美元首会晤“史无前例”“意义重大”",
+     "source": "中新网要闻",
+     "url": "https://www.chinanews.com.cn/gj/2026/11-21/10735606.shtml",
+     "published_at": 1795212388.0
+    }
+   ]
+  }
+ ],
+ "article": {
+  "title": "2026-11-21 新闻总结",
+  "paragraphs": [
+   {
+    "kind": "lead",
+    "text": "今天共收录 8 条新闻，来自 3 家媒体。整体没有压倒性的单一主线，更像是几条线索并行推进。"
+   },
+   {
+    "kind": "section",
+    "heading": "安理会举行联合国秘书长遴选第九轮",
+    "text": "先看「安理会举行联合国秘书长遴选第九轮」。新华社联合国11月20日电(记者尚绪谦)联合国安理会20日就下一任联合国秘书长遴选举行第九轮意向性投票…，另有 1 条消息指向同一话题。这条消息短期内的实际影响可能有限，但它指向的方向值得放进观察名单。",
+    "news_ids": [
+     "89af760b06c1bc56"
+    ],
+    "refs": [
+     {
+      "id": "89af760b06c1bc56",
+      "title": "安理会举行联合国秘书长遴选第九轮意向性投票",
+      "source": "中新网即时",
+      "url": "https://www.chinanews.com.cn/gj/2026/11-21/10735607.shtml",
+      "published_at": 1795212478.0
+     }
+    ]
+   },
+   {
+    "kind": "section",
+    "heading": "特朗普：中俄美元首会晤“史无前例",
+    "text": "与此同时「特朗普：中俄美元首会晤“史无前例」。新华社华盛顿11月20日电(记者黄强 徐剑梅)美国总统特朗普20日在白宫举行的新闻发布会上表示，日前在中国深圳举行的亚太经合组织领导人非正式会议是一场非常成功的经济会议，美国，另有 1 条消息指向同一话题。这类进展更像是把已有能力往工程化落地推了一步，真正的分水岭在于成本和可靠性能不能同时压下来。",
+    "news_ids": [
+     "e5b061beaea0c765"
+    ],
+    "refs": [
+     {
+      "id": "e5b061beaea0c765",
+      "title": "特朗普：中俄美元首会晤“史无前例”“意义重大”",
+      "source": "中新网即时",
+      "url": "https://www.chinanews.com.cn/gj/2026/11-21/10735606.shtml",
+      "published_at": 1795212388.0
+     }
+    ]
+   },
+   {
+    "kind": "section",
+    "heading": "11月21日早报",
+    "text": "另一个值得注意的方向是「11月21日早报」。11月21日早报…。对读者来说，值得留意的不是结论本身，而是它背后哪些前提正在被改变。",
+    "news_ids": [
+     "4aa63d9cccb3c538"
+    ],
+    "refs": [
+     {
+      "id": "4aa63d9cccb3c538",
+      "title": "11月21日早报",
+      "source": "中新网即时",
+      "url": "https://www.chinanews.com.cn/iframe/2026/11-21/10735609.shtml",
+      "published_at": 1795214500.0
+     }
+    ]
+   },
+   {
+    "kind": "section",
+    "heading": "U17世界杯 中国队首战不敌西班",
+    "text": "相比之下「U17世界杯 中国队首战不敌西班」。北京时间11月20日，2026U17世界杯H组首轮。这条消息短期内的实际影响可能有限，但它指向的方向值得放进观察名单。",
+    "news_ids": [
+     "5d88cba0c823a08c"
+    ],
+    "refs": [
+     {
+      "id": "5d88cba0c823a08c",
+      "title": "U17世界杯 中国队首战不敌西班牙队",
+      "source": "中新网即时",
+      "url": "https://www.chinanews.com.cn/ty/2026/11-21/10735608.shtml",
+      "published_at": 1795213067.0
+     }
+    ]
+   },
+   {
+    "kind": "outlook",
+    "text": "整体看，这个时段的新闻还处在「消息多、结论少」的阶段，与其急着下判断，不如盯住接下来一两周有没有可验证的后续动作。"
+   }
+  ],
+  "word_count": 544
+ },
+ "ai_enhanced": false,
+ "schema": 1,
+ "window_bj": {
+  "start": "2026-11-21 00:00",
+  "end": "2026-11-21 09:00"
+ }
+}
