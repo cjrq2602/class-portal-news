@@ -1,8 +1,179 @@
 {
  "date": "2026-11-22",
- "generated_at": 1795296652.927906,
- "count": 23,
+ "generated_at": 1795308107.3463037,
+ "count": 44,
  "items": [
+  {
+   "id": "aa667a7d4c5c311a",
+   "source": "IT之家",
+   "title": "腾讯《怪物猎人：旅人》PC 版本首次亮相，游戏移动端预计年内上线",
+   "url": "https://www.ithome.com/1/030/526.htm",
+   "summary": "IT之家 11 月 22 日消息，腾讯《怪物猎人：旅人》官方微博昨日发布视频， 首次公开了本作的 PC 版本 。 这支视频展示的是《怪物猎人：旅人》开发中画面，呈现了主角冒险家狩猎融光种火龙的实机片段与村庄场景。游戏官方表示， PC 版本正在紧锣密鼓开发中，更多进展将陆续公布 。 IT之家注：《怪物猎人：旅人》是由卡普空正版授权、腾讯天美工作室群开发的《怪物猎人》系列新作， 将于 2026 年内登陆 iOS 与 Android 平台 。 本作保留了系列经典的 14 种武器类型，并加入独特的“特殊技”系统。在多人玩法方面，游戏支持最多 4 名玩家共斗，同时首次引入最多 16 名玩家参与的“突袭模",
+   "published_at": 1795307007.0,
+   "published_bj": "2026-11-22 08:23"
+  },
+  {
+   "id": "77c0c02ce53133b2",
+   "source": "IT之家",
+   "title": "全球首款星闪音箱因科美 SL10 通过 OpenHarmony 兼容性测评，搭载开源鸿蒙 5.1 系统",
+   "url": "https://www.ithome.com/1/030/525.htm",
+   "summary": "IT之家 11 月 22 日消息，开源鸿蒙官网显示，来自深圳市因科美通信有限公司的 SL10 已通过 OpenHarmony 测评，搭载了 Hi3372GBCV100 芯片， 预装基于 OpenHarmony 5.1.0 Release 版本的轻量系统 。 参考IT之家此前报道，星闪联盟官网认证信息显示，这款设备为一款音箱设备，测试集显示，EACOME SL10 音箱通过了 SLE 射频一致性测试、基础服务层协议一致性测试、高清音频协议一致性测试。这意味着，这款音箱将支持 NearLink E2.0（即星闪音频）。 这也将是全球首款星闪音箱 。 根据华为官网描述，星闪音频物理层传输速率可达 1",
+   "published_at": 1795306021.0,
+   "published_bj": "2026-11-22 08:07"
+  },
+  {
+   "id": "b95f35db7d6ab683",
+   "source": "IT之家",
+   "title": "群联展示内置 NPU 与 64GB 内存的智能固态硬盘，可直接运行 AI 模型",
+   "url": "https://www.ithome.com/1/030/524.htm",
+   "summary": "IT之家 11 月 22 日消息，据科技媒体 Tom's Hardware 昨天报道，群联在 SC26 大会中展示两款企业级固态硬盘，专为 AI 场景设计。其中一款甚至带有 NPU 和 64GB 内存，可以直接运行 AI 模型。 IT之家从原报道获悉， 其中一款产品 SSD 内置 NPU（神经网络引擎） 、 64GB 内存 ，带宽达到 130GB/s，支持直接在硬盘上运行 PyTorch、vLLM、OpenVINO 和 llama.cpp 等 AI 框架及推理工具。 该产品的设计思路是将部分计算任务从服务器转移至 SSD，让设备直接处理存储的数据，仅向主机返回结果，无需完整传输数据集。 群联表",
+   "published_at": 1795305887.0,
+   "published_bj": "2026-11-22 08:04"
+  },
+  {
+   "id": "41f41ebf22bd560a",
+   "source": "IT之家",
+   "title": "韩国教育部认定今年高考共 111 起涉电子设备作弊：利用智能手机拍考卷等",
+   "url": "https://www.ithome.com/1/030/523.htm",
+   "summary": "IT之家 11 月 22 日消息，据韩联社报道，韩国教育部 20 日表示，在 2027 学年度大学修学能力考试（IT之家注：韩国高考）中，发现 111 起利用智能设备的作弊行为。这较前一日公布的数据增加 13 起。 据韩国教育部介绍，通过发送应急公益短信查出 54 起未上交手机的案例；通过探测 WiFi 等方式查出 52 起携带智能设备案例。 在考试过程中被发现利用智能终端的作弊案例 5 起 ，包括使用智能眼镜（1 起）、使用微型摄像头和无线耳机（1 起）、利用智能手机拍摄考卷（1 起），以及在洗手间使用智能手机（2 起）。 韩国教育部此前通报，截至 19 日 4 时 37 分第四个科目考试结",
+   "published_at": 1795305350.0,
+   "published_bj": "2026-11-22 07:55"
+  },
+  {
+   "id": "0b5195c41a2f956a",
+   "source": "IT之家",
+   "title": "28 核英特尔 Nova Lake-S 处理器现身测试平台，最高运行频率达 5.2GHz",
+   "url": "https://www.ithome.com/1/030/522.htm",
+   "summary": "IT之家 11 月 22 日消息，据 TechPowerUp 11 月 22 日报道，OpenBenchmark 测试数据库中出现一颗 28 核英特尔 Nova Lake-S 处理器样品，报告频率为 5.2GHz。 测试记录中的处理器名称为“Intel 0000”，标识包含“NVL”，表明采用该配置的 Nova Lake-S 型号确实存在。该处理器被识别为 Intel 0000，意味着传闻中的四位数命名方案已得到测试记录印证。 IT之家注意到，系统信息列出 28 个 CPU 核心，推测配置为 8 个 P 核、16 个 E 核和 4 个 LPE 核。主板识别为英特尔 Nova Lake-S 参考",
+   "published_at": 1795304899.0,
+   "published_bj": "2026-11-22 07:48"
+  },
+  {
+   "id": "e7babe3b7e861fd9",
+   "source": "IT之家",
+   "title": "三星 One UI 9.5 系统测试“灵动岛”风格实时通知",
+   "url": "https://www.ithome.com/1/030/521.htm",
+   "summary": "IT之家 11 月 22 日消息，据科技媒体 GSMArena 昨天报道，三星正在 One UI 9.5 系统中测试新版实时通知， 其外观类似苹果 iOS 的“灵动岛” ，可显示手电筒、计时器等应用的实时状态。 据介绍，三星于 One UI 7.0 推出了实时通知功能，目前显示形态是屏幕左上角的一个小型胶囊状窗口，用于展示计时器、录音机等 App 的状态信息。如果多个应用需要展示信息，用户可以在胶囊窗口上下滑动，在不同通知之间切换。 IT之家从原报道获悉，三星正在开发的新版本实时通知将改为在屏幕中央显示，并将原本的上下滑动改为左右滑动。用户无需展开胶囊窗口，就能左右滑动切换不同应用。",
+   "published_at": 1795304626.0,
+   "published_bj": "2026-11-22 07:43"
+  },
+  {
+   "id": "ed995e384452df75",
+   "source": "IT之家",
+   "title": "华为星芒首款手机 OSTA O1 Pro 维修备件价格出炉：屏幕 899 元起，主板 3449 元起",
+   "url": "https://www.ithome.com/1/030/520.htm",
+   "summary": "IT之家 11 月 22 日消息，华为全新子品牌星芒于 11 月 20 日发布首款机型 OSTA O1 Pro ，12GB+256GB 版本首发价 5499 元，顶配 16GB+1TB 首发 8799 元。随着新机上市，华为官网也公布了该机维修备件价格。 ▲ IT之家开箱：华为星芒首款手机 OSTA O1 Pro ▲ IT之家开箱：华为星芒首款手机 OSTA O1 Pro 先来看屏幕方面，OSTA O1 Pro 全新屏幕主体（不含中框和电池）的价格为 899 元，更换下来的原装旧件，官方将无偿回收。 屏幕组件（含屏幕单体、中框、电池）的正常价为 1499 元，使用全新屏幕并现场更换； 优惠价 ",
+   "published_at": 1795304236.0,
+   "published_bj": "2026-11-22 07:37"
+  },
+  {
+   "id": "37dccaa0ef2e64b6",
+   "source": "IT之家",
+   "title": "OSTA 新特性放开：华为鸿蒙 HarmonyOS 7 系统更多机型小艺助理上线“小艺星芒”音色",
+   "url": "https://www.ithome.com/1/030/519.htm",
+   "summary": "IT之家 11 月 22 日消息，首款为 AI 而生的鸿蒙手机 —— 华为星芒 OSTA O1 Pro 已于 11 月 20 日下午正式发布 ，叠加国补后 4999 元起。华为星芒品牌总经理刘赫开通微博， 透露最受欢迎的 16G 版本已经在全平台售罄 。 ▲ IT之家开箱：华为全新子品牌星芒 OSTA O1 Pro 手机实拍 据介绍，华为星芒 OSTA O1 Pro 首搭 HarmonyOS 7 AI 先锋版系统，支持全新 AI 交互、系统主动智能和长期陪伴成长；该机还拥有业界首个系统级 AI 屏， 内含个性化 AI 形象（专属小星芒） 、场景化 AI 推荐和 AI 快捷对话栏等。 刘赫曾透露",
+   "published_at": 1795304128.0,
+   "published_bj": "2026-11-22 07:35"
+  },
+  {
+   "id": "60b5c3b6a3bacd0a",
+   "source": "IT之家",
+   "title": "IT早报 1122：曝其他厂商也考虑推出阔直板形态手机；Anthropic 研究员预测 2027 年底 AI 比肩顶尖专家；华为星芒 O1 Pro 定价 5499 元起引争议...",
+   "url": "https://www.ithome.com/1/030/518.htm",
+   "summary": "“IT早报”时间，大家好，现在是 2026 年 11 月 22 日星期日，今天的重要科技资讯有： 1. 不只是华为，消息称其他厂商也考虑为旗舰产品线引入阔直板形态 博主 @数码闲聊站 21 日下午爆料称，当下手机市场“阔形态”升级势不可挡：除了华为，其他家也考虑在正代旗舰线加入阔形态，与常规直板机双线并行。&gt;&gt; 查看详情 2. “几乎所有人将永久失业”：Anthropic 研究员预测 2027 年底 AI 在几乎所有领域超越顶尖专家 11 月 15 日在接受 Palisade Research 采访时，Anthropic 公司技术团队成员 Tao Lin 预测到 2027 年年底，",
+   "published_at": 1795303906.0,
+   "published_bj": "2026-11-22 07:31"
+  },
+  {
+   "id": "0c9dfdd6898610f3",
+   "source": "IT之家",
+   "title": "加密聊天应用 Signal 默认屏蔽截图，防止 AI 智能体读取用户消息",
+   "url": "https://www.ithome.com/1/030/517.htm",
+   "summary": "IT之家 11 月 22 日消息，开源端到端加密聊天应用 Signal 近日推出 iOS / Android 版更新，默认关闭应用程序内截图功能，以阻止 Siri AI 和 Gemini 等 AI 智能体读取用户私人消息。 Signal 总裁 Meredith Whittaker 表示，系统级 AI 智能体的影响力正不断扩大，这对 Signal 长期建立的隐私机制构成威胁，因为这些智能体可能在用户毫不知情的情况下访问私人对话。 在 Signal 8.37（IT之家注：iOS 27 系统）中， 应用默认启用了“阻止 Siri AI”设置 ，用户无法在 Signal 内截图或录屏。用户可选择关闭该",
+   "published_at": 1795303690.0,
+   "published_bj": "2026-11-22 07:28"
+  },
+  {
+   "id": "cf97125d38547ce3",
+   "source": "IT之家",
+   "title": "6 天 5 晚，第二艘国产大型邮轮爱达 · 花城号今日商业首航",
+   "url": "https://www.ithome.com/1/030/516.htm",
+   "summary": "IT之家 11 月 22 日消息，据央视新闻报道，今天（22 日），第二艘国产大型邮轮“爱达 · 花城号”将开启 6 天 5 晚的商业首航，从广州南沙国际邮轮母港驶向中国香港与越南顺化。 “爱达 · 花城号”进度： 2024 年 10 月 25 日，第二艘国产大型邮轮在广州举行命名仪式，正式命名为“爱达 · 花城号”。 2026 年 3 月 20 日，“爱达 · 花城号”完成出坞，转入码头调试。 2026 年 11 月 6 日，在上海正式交付。 其建造周期比首制船缩短了 8 个月，国产化配套率也提高了 5 个百分点。 2026 年 11 月 12 日，顺利完成首个试运营航次，抵达广州南沙国际邮",
+   "published_at": 1795303376.0,
+   "published_bj": "2026-11-22 07:22"
+  },
+  {
+   "id": "7b5995a3b0e31414",
+   "source": "Hacker News",
+   "title": "International UN talks on controlling use of autonomous weapons collapse",
+   "url": "https://www.theguardian.com/technology/2026/nov/21/international-talks-control-ai-autonomous-weapons-collapse",
+   "summary": "Article URL: https://www.theguardian.com/technology/2026/nov/21/international-talks-control-ai-autonomous-weapons-collapse Comments URL: https://news.ycombinator.com/item?id=50594564 Points: 27 # Comments: 3",
+   "published_at": 1795302621.0,
+   "published_bj": "2026-11-22 07:10"
+  },
+  {
+   "id": "c03ec6edabb16782",
+   "source": "IT之家",
+   "title": "谷歌智能家居应用 Nest 明年停服，功能全面整合进 Google Home",
+   "url": "https://www.ithome.com/1/030/515.htm",
+   "summary": "IT之家 11 月 22 日消息，谷歌近日在官网支持页面公布了智能家居应用程序 Nest 的最新动态。官方宣称， 独立版 Nest（App、网页端）将于 2027 年 1 月 15 日停止服务 ，相关功能将整合进 Google Home 应用。 IT之家注意到，谷歌还将在 2027 年 8 月 2 日停止智能音箱等设备的 Google 助理服务，届时 Google Home 和 Google Gemini 将全面接管智能音箱等设备。 谷歌表示，用户此前于 Nest 设置的恒温器、摄像头、门铃、智能门锁和烟雾报警器等智能家居，都将自动迁移至 Google Home，原有的日程设置不会消失。第一代",
+   "published_at": 1795302517.0,
+   "published_bj": "2026-11-22 07:08"
+  },
+  {
+   "id": "ea5ae8531f92f8ed",
+   "source": "IT之家",
+   "title": "消息称美国证券交易委员会对英伟达潜在会计问题展开调查，股价较 10 月高点腰斩",
+   "url": "https://www.ithome.com/1/030/514.htm",
+   "summary": "IT之家 11 月 22 日消息，据路透社 11 月 20 日报道，两位知情人士透露，美国证券交易委员会（SEC）正在对英伟达潜在会计问题展开调查，这家芯片巨头面临的法律困境进一步加剧。 在此之前，《华尔街日报》周二报道称，SEC 正在对英伟达展开调查，但表示无法确定调查的具体重点。上述人士以匿名方式向路透社谈及这些机密问题，他们表示， SEC 执法部门的工作人员正在审查英伟达可能存在的会计问题 。 IT之家注意到，美国证券交易委员会与英伟达方面均拒绝置评。 这一消息进一步加剧英伟达投资者的担忧情绪，英伟达股价当天跌超 14%，报 125.5 美元， 较 10 月高点 243.4 美元跌超 4",
+   "published_at": 1795302433.0,
+   "published_bj": "2026-11-22 07:07"
+  },
+  {
+   "id": "bdba13f5aa7e002c",
+   "source": "IT之家",
+   "title": "消息称 OPPO Reno 17 系列新机销量超预期，开售后超同期安卓手机拿下单品第一",
+   "url": "https://www.ithome.com/1/030/513.htm",
+   "summary": "IT之家 11 月 22 日消息，博主 @数码闲聊站 昨晚发文分享第三方渠道消息，OPPO Reno 17 销量超预期，发布当日预订量达前代产品 2.7 倍， 开售后销量超过同期所有安卓手机，拿下安卓单品第一 。 博主还补充数据： Reno 系列全球激活量已超 1.4 亿台 ，长期稳居同档位销量前列。 据IT之家此前报道， OPPO Reno 17 系列手机已于 11 月 20 日正式开售 ，Pro 版机型搭载天玑 8550 处理器，标准版搭载骁龙 7 Gen4 处理器，主打“全焦段 4K 超清长实况”拍摄，售价 3599 元起、国补价 3099 元起。 京东 OPPO Reno 17 国补 ",
+   "published_at": 1795302112.0,
+   "published_bj": "2026-11-22 07:01"
+  },
+  {
+   "id": "8e8eeb5c52f91387",
+   "source": "IT之家",
+   "title": "特斯拉海外推出 FSD v15：安全关键场景处理能力提升 25 倍，全新可视化 UI",
+   "url": "https://www.ithome.com/1/030/512.htm",
+   "summary": "IT之家 11 月 22 日消息，特斯拉今日宣布在美国市场推出 FSD v15，目前已向早期体验计划（EAP）成员推送首批版本。官方宣称， 本次更新对安全关键场景的处理能力提升了 25 倍 。 IT之家了解到，本次更新还带来了“Tesla Reality View”全新可视化界面，车机屏幕上可显示摄像头画面叠加 FSD 行驶规划，支持全屏显示、地图或分屏视图，也可以选择使用安静模式。导航可以将转弯等信息叠加在可视化界面中，转向灯提示音将变得更轻柔，并在闪烁数次后逐渐减弱直至消失。 此外，本次更新还提升了坑洼、碎片、坑洞等恶劣路况的行驶体验，车辆在学校和恶劣天气下的速度控制也将更加自然。特斯拉还",
+   "published_at": 1795301623.0,
+   "published_bj": "2026-11-22 06:53"
+  },
+  {
+   "id": "cdc90ce723fd77e4",
+   "source": "Hacker News",
+   "title": "PcapAnalyzer – self-hosted pcap analyzer with 27 problem detectors",
+   "url": "https://github.com/sebaandrada-cell/PcapAnalyzer",
+   "summary": "Article URL: https://github.com/sebaandrada-cell/PcapAnalyzer Comments URL: https://news.ycombinator.com/item?id=50594132 Points: 41 # Comments: 3",
+   "published_at": 1795298998.0,
+   "published_bj": "2026-11-22 06:09"
+  },
+  {
+   "id": "ec5c763d3b027ebb",
+   "source": "TechCrunch",
+   "title": "Signal restricts mobile screenshots as it confronts ‘existential threat’ of AI surveillance",
+   "url": "https://techcrunch.com/2026/11/21/signal-restricts-mobile-screenshots-as-it-confronts-existential-threat-of-ai-surveillance/",
+   "summary": "Signal is limiting users' ability to take screenshots in both its Android and iOS apps.",
+   "published_at": 1795297030.0,
+   "published_bj": "2026-11-22 05:37"
+  },
+  {
+   "id": "27e2f9de5d8665f3",
+   "source": "Hacker News",
+   "title": "Advice for the next 100 Rust GUIs",
+   "url": "https://linebender.org/blog/next-100-guis/",
+   "summary": "Article URL: https://linebender.org/blog/next-100-guis/ Comments URL: https://news.ycombinator.com/item?id=50593737 Points: 62 # Comments: 5",
+   "published_at": 1795295873.0,
+   "published_bj": "2026-11-22 05:17"
+  },
   {
    "id": "14e636654fe7cf80",
    "source": "Hacker News",
@@ -20,6 +191,24 @@
    "summary": "We got two very different pictures of Nvidia — the company’s latest earnings report vs. the tech executives loudly calling for Jensen Huang’s return.",
    "published_at": 1795295262.0,
    "published_bj": "2026-11-22 05:07"
+  },
+  {
+   "id": "d295cdb080f01274",
+   "source": "Hacker News",
+   "title": "The Emergence of Inequality in the Czech Corded Ware Culture",
+   "url": "https://www.jna.uni-kiel.de/index.php/jna/article/view/1560/1746",
+   "summary": "Article URL: https://www.jna.uni-kiel.de/index.php/jna/article/view/1560/1746 Comments URL: https://news.ycombinator.com/item?id=50593637 Points: 20 # Comments: 11",
+   "published_at": 1795295174.0,
+   "published_bj": "2026-11-22 05:06"
+  },
+  {
+   "id": "6436477a53cb19c1",
+   "source": "Hacker News",
+   "title": "Pandex – Official European Law for AI Agents, over MCP",
+   "url": "https://www.pandex.io",
+   "summary": "Article URL: https://www.pandex.io Comments URL: https://news.ycombinator.com/item?id=50593481 Points: 20 # Comments: 4",
+   "published_at": 1795294061.0,
+   "published_bj": "2026-11-22 04:47"
   },
   {
    "id": "4bbecc41a6f5b588",
