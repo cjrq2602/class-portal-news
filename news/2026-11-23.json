@@ -1,8 +1,170 @@
 {
  "date": "2026-11-23",
- "generated_at": 1795363172.746162,
- "count": 3,
+ "generated_at": 1795383482.4613569,
+ "count": 27,
  "items": [
+  {
+   "id": "f9bb4766c7be453e",
+   "source": "cnBeta",
+   "title": "OpenAI首席科学家呼吁业界限制模型开发 奥特曼表示赞同",
+   "url": "https://www.cnbeta.com.tw/articles/science/1587518.htm",
+   "summary": "OpenAI首席科学家Jakub Pachocki提议，人工智能公司应同意对开发能力日益强大的模型设限，直到研究人员有更好的方法来理解和监控这些模型的行为。Pachocki呼吁制定全行业标准，为AI开发设定界限，各家公司应同意在满足特定安全要求之前不突破这些界限。 阅读全文",
+   "published_at": 1795382260.0,
+   "published_bj": "2026-11-23 05:17"
+  },
+  {
+   "id": "0976e25485d824fe",
+   "source": "TechCrunch",
+   "title": "OpenAI’s chief scientist has thoughts on how to limit AI development",
+   "url": "https://techcrunch.com/2026/11/22/openais-chief-scientist-has-thoughts-on-how-to-limit-ai-development/",
+   "summary": "To establish a speed limit on AI development, you need to agree on how to measure speed.",
+   "published_at": 1795382047.0,
+   "published_bj": "2026-11-23 05:14"
+  },
+  {
+   "id": "5dbfa5366d86c2c9",
+   "source": "Hacker News",
+   "title": "GLP-1 drugs could have a surprisingly large environmental payoff",
+   "url": "https://theconversation.com/weight-loss-drugs-could-free-up-an-area-of-farmland-larger-than-italy-new-study-291114",
+   "summary": "Article URL: https://theconversation.com/weight-loss-drugs-could-free-up-an-area-of-farmland-larger-than-italy-new-study-291114 Comments URL: https://news.ycombinator.com/item?id=50603906 Points: 4 # Comments: 0",
+   "published_at": 1795381631.0,
+   "published_bj": "2026-11-23 05:07"
+  },
+  {
+   "id": "e36d47c0026466bd",
+   "source": "cnBeta",
+   "title": "复古游戏杂志《黄金时代》众筹超2.5万英镑 2027年发行六期",
+   "url": "https://www.cnbeta.com.tw/articles/game/1587516.htm",
+   "summary": "朱利安·“贾兹”·里格纳尔创办的复古游戏杂志《黄金时代》已突破初始Kickstarter众筹目标，筹款超过2.5万英镑。项目计划于2027年发行六期实体杂志，集中回顾20世纪游戏文化。 阅读全文",
+   "published_at": 1795381542.0,
+   "published_bj": "2026-11-23 05:05"
+  },
+  {
+   "id": "5c7c81a6e933de9f",
+   "source": "cnBeta",
+   "title": "六个民间项目尝试让《GTA6》Xbox版在PC运行 均未完整启动",
+   "url": "https://www.cnbeta.com.tw/articles/game/1587514.htm",
+   "summary": "在R星尚未公布《GTA6》官方PC版的情况下，六个民间项目正尝试让其Xbox Series版本在Windows上运行。不过，目前没有任何项目展示游戏完整运行，相关工具也尚未经过独立测试。 阅读全文",
+   "published_at": 1795381532.0,
+   "published_bj": "2026-11-23 05:05"
+  },
+  {
+   "id": "31cfd9513a7c6638",
+   "source": "cnBeta",
+   "title": "美国国家情报总监：民众应为系统升级过程中的“颠簸”做好准备",
+   "url": "https://www.cnbeta.com.tw/articles/tech/1587512.htm",
+   "summary": "美国国家情报总监杰伊·克莱顿警告说，在联邦航空管理局、微软和摩根大通等机构接连发生技术故障后，美国民众应为系统升级过程中的“颠簸”做好准备。他表示，随着政府和企业为适应人工智能时代而升级计算能力和应用系统，短期内可能仍会出现服务中断。 阅读全文",
+   "published_at": 1795381412.0,
+   "published_bj": "2026-11-23 05:03"
+  },
+  {
+   "id": "3ee1f374be332445",
+   "source": "cnBeta",
+   "title": "免费64位Windows 11替代系统LiberNT性能测试结果即将公布 硬件兼容性已取得进展",
+   "url": "https://www.cnbeta.com.tw/articles/tech/1587510.htm",
+   "summary": "一款名为LiberNT的Windows替代操作系统正在受到关注。开发团队近日表示，将很快公布该系统与Windows 11的性能对比测试结果，这有望让外界更清楚地了解项目的实际进展，以及其自研图形实现与微软官方系统之间的差距。 阅读全文",
+   "published_at": 1795381382.0,
+   "published_bj": "2026-11-23 05:03"
+  },
+  {
+   "id": "c494eae3ba20b597",
+   "source": "cnBeta",
+   "title": "苹果Siri裁员未波及新一代AI系统 但产品节奏与竞争压力仍待破解",
+   "url": "https://www.cnbeta.com.tw/articles/tech/1587508.htm",
+   "summary": "据彭博社记者马克·古尔曼报道，苹果近期针对Siri团队的裁员，主要影响的是负责该语音助手旧有基础设施的员工，而并未触及苹果正在开发的新一代人工智能系统。这一消息显示，苹果在调整Siri团队的同时，仍在为更先进的AI能力保留研发资源。 阅读全文",
+   "published_at": 1795381217.0,
+   "published_bj": "2026-11-23 05:00"
+  },
+  {
+   "id": "be576ffaac0285f3",
+   "source": "TechCrunch",
+   "title": "The best apps to make new friends right now",
+   "url": "https://techcrunch.com/2026/11/22/as-people-look-for-ways-to-make-new-friends-here-are-the-apps-promising-to-help/",
+   "summary": "We've compiled a list of friendship apps, from friend discovery platforms like BFF to event-focused ones like Timeleft.",
+   "published_at": 1795381200.0,
+   "published_bj": "2026-11-23 05:00"
+  },
+  {
+   "id": "fa7e8086f5466418",
+   "source": "cnBeta",
+   "title": "高通汽车芯片业务加速扩张 预计2027年有望登顶全球汽车半导体市场",
+   "url": "https://www.cnbeta.com.tw/articles/tech/1587506.htm",
+   "summary": "多年来，高通一直试图摆脱外界对其过度依赖智能手机业务的印象。最新行业分析显示，这家公司最重要的多元化布局正在提前兑现，其汽车芯片业务已达到约80亿美元的年营收规模，为其在2027年超越英飞凌和恩智浦、成为全球最大汽车半导体供应商创造了有利条件。这一进展恰逢其时，因为受DRAM供应短缺及市场放缓影响，高通的手机业务正面临压力。 阅读全文",
+   "published_at": 1795381196.0,
+   "published_bj": "2026-11-23 04:59"
+  },
+  {
+   "id": "276a1ecf1efbf9a7",
+   "source": "Hacker News",
+   "title": "A miniature San Francisco with live buses, planes and boats",
+   "url": "https://smallsf.com/",
+   "summary": "Article URL: https://smallsf.com/ Comments URL: https://news.ycombinator.com/item?id=50603589 Points: 18 # Comments: 3",
+   "published_at": 1795379603.0,
+   "published_bj": "2026-11-23 04:33"
+  },
+  {
+   "id": "da30dbcc339e61a5",
+   "source": "Hacker News",
+   "title": "Nyx, the Oldest Internet Service Provider",
+   "url": "https://nyx.net/",
+   "summary": "Article URL: https://nyx.net/ Comments URL: https://news.ycombinator.com/item?id=50603465 Points: 19 # Comments: 4",
+   "published_at": 1795378559.0,
+   "published_bj": "2026-11-23 04:15"
+  },
+  {
+   "id": "da0891ce1f0950d8",
+   "source": "Hacker News",
+   "title": "All Delta Flights Through Atlanta Delayed as Automated System Falters",
+   "url": "https://www.nytimes.com/2026/11/22/us/delta-flight-delays-system-outage.html",
+   "summary": "Article URL: https://www.nytimes.com/2026/11/22/us/delta-flight-delays-system-outage.html Comments URL: https://news.ycombinator.com/item?id=50603232 Points: 43 # Comments: 14",
+   "published_at": 1795377106.0,
+   "published_bj": "2026-11-23 03:51"
+  },
+  {
+   "id": "a3bf5cd637c04631",
+   "source": "Hacker News",
+   "title": "What Happened to Silicon Valley?",
+   "url": "https://www.oreilly.com/radar/what-happened-to-silicon-valley/",
+   "summary": "Article URL: https://www.oreilly.com/radar/what-happened-to-silicon-valley/ Comments URL: https://news.ycombinator.com/item?id=50602947 Points: 168 # Comments: 59",
+   "published_at": 1795375215.0,
+   "published_bj": "2026-11-23 03:20"
+  },
+  {
+   "id": "0d49e14681b0343a",
+   "source": "Hacker News",
+   "title": "The Birds of GTA 6: A Field Guide to Vice City and Leonida's Wildlife",
+   "url": "https://www.audubon.org/magazine/birds-of-gta-6-field-guide-vice-city-wildlife",
+   "summary": "Article URL: https://www.audubon.org/magazine/birds-of-gta-6-field-guide-vice-city-wildlife Comments URL: https://news.ycombinator.com/item?id=50602843 Points: 148 # Comments: 38",
+   "published_at": 1795374634.0,
+   "published_bj": "2026-11-23 03:10"
+  },
+  {
+   "id": "9f73d2b893a6c830",
+   "source": "cnBeta",
+   "title": "英特尔最入门级Arc G3掌机芯片或命名为“Arc G3 Play”",
+   "url": "https://www.cnbeta.com.tw/articles/tech/1587504.htm",
+   "summary": "英特尔正在研发一款面向平价游戏掌机的全新Arc G3系列芯片，其名称可能为“Arc G3 Play”。这款芯片预计将定位在现有Arc G3和Arc G3 Extreme之下，仅配备4个Xe3 GPU核心，目标是为成本更低的掌机产品提供支持。 阅读全文",
+   "published_at": 1795372355.0,
+   "published_bj": "2026-11-23 02:32"
+  },
+  {
+   "id": "39dd042db26b7fb0",
+   "source": "cnBeta",
+   "title": "马斯克称存储芯片涨价使特斯拉AI4车载电脑成本翻倍",
+   "url": "https://www.cnbeta.com.tw/articles/tech/1587502.htm",
+   "summary": "特斯拉首席执行官埃隆·马斯克近日表示，受全球DRAM内存和NAND闪存价格上涨影响，特斯拉AI4车载计算机的物料成本已经翻倍。他在X平台上回应有关特斯拉最新版完全自动驾驶（FSD）监督版v15.0.1计算需求的讨论时称，“由于内存和存储价格上涨，AI4现在的成本是原来的两倍。”不过，马斯克并未披露AI4当前的具体成本，也没有说明一年前的制造成本是多少。 阅读全文",
+   "published_at": 1795372288.0,
+   "published_bj": "2026-11-23 02:31"
+  },
+  {
+   "id": "379a842ff43cbc33",
+   "source": "TechCrunch",
+   "title": "Why data centers are at the center of the Big Tech backlash",
+   "url": "https://techcrunch.com/2026/11/22/why-data-centers-are-at-the-center-of-the-big-tech-backlash/",
+   "summary": "Journalist Paris Marx unpacks his new book \"Hyperscale.\"",
+   "published_at": 1795370923.0,
+   "published_bj": "2026-11-23 02:08"
+  },
   {
    "id": "f6b1bde7bdfa5bd8",
    "source": "InfoQ中文",
@@ -29,6 +191,60 @@
    "summary": "点击查看原文>",
    "published_at": 1795369108.0,
    "published_bj": "2026-11-23 01:38"
+  },
+  {
+   "id": "b471f645a9bed0a6",
+   "source": "Hacker News",
+   "title": "Was software just always too complex for humans?",
+   "url": "https://anil.recoil.org/notes/software-too-complex-for-humans",
+   "summary": "Article URL: https://anil.recoil.org/notes/software-too-complex-for-humans Comments URL: https://news.ycombinator.com/item?id=50601823 Points: 24 # Comments: 16",
+   "published_at": 1795368761.0,
+   "published_bj": "2026-11-23 01:32"
+  },
+  {
+   "id": "5144959dc4526bfd",
+   "source": "cnBeta",
+   "title": "Google AI搜索变现受阻 苹果服务业务收入增长也随之放缓",
+   "url": "https://www.cnbeta.com.tw/articles/tech/1587500.htm",
+   "summary": "苹果与Google之间长期存在的Safari默认搜索引擎合作协议，正因人工智能搜索的兴起而面临新的压力。 据《The Information》报道，随着用户越来越多地使用AI方式搜索，而Google尚未找到有效将AI搜索流量转化为广告收入的方法，苹果服务业务的增长也随之降温。 阅读全文",
+   "published_at": 1795368285.0,
+   "published_bj": "2026-11-23 01:24"
+  },
+  {
+   "id": "a4c4a3f8f7a5920e",
+   "source": "cnBeta",
+   "title": "微软实现多台Windows PC通过USB4或Thunderbolt连接协同工作",
+   "url": "https://www.cnbeta.com.tw/articles/tech/1587498.htm",
+   "summary": "微软推出面向 Windows 11 的 RDMA over USB4 技术，让多台普通 PC 通过 USB4 或 Thunderbolt 连接协同工作，共享内存与 GPU 算力，从而运行原本超出单机内存容量的超大规模 AI 模型。该技术有望降低本地 AI 推理的硬件门槛，让开发者利用现有电脑组建分布式计算系统。 阅读全文",
+   "published_at": 1795367231.0,
+   "published_bj": "2026-11-23 01:07"
+  },
+  {
+   "id": "3c887fc41ede1dd4",
+   "source": "Hacker News",
+   "title": "Perplexity and Intelligence",
+   "url": "https://openai.com/index/perplexity-and-intelligence/",
+   "summary": "Article URL: https://openai.com/index/perplexity-and-intelligence/ Comments URL: https://news.ycombinator.com/item?id=50601525 Points: 371 # Comments: 240",
+   "published_at": 1795367187.0,
+   "published_bj": "2026-11-23 01:06"
+  },
+  {
+   "id": "c35b6aab982ffd27",
+   "source": "TechCrunch",
+   "title": "TechCrunch Mobility: A/B testing robots vs. humans",
+   "url": "https://techcrunch.com/2026/11/22/techcrunch-mobility-a-b-testing-robots-vs-humans/",
+   "summary": "Welcome back to TechCrunch Mobility, your hub for the future of transportation and, now more than ever, the role AI is playing in it.",
+   "published_at": 1795367160.0,
+   "published_bj": "2026-11-23 01:06"
+  },
+  {
+   "id": "869abb7f08210818",
+   "source": "cnBeta",
+   "title": "微软新专利曝光 游戏手柄摇杆或将实现免焊快速更换",
+   "url": "https://www.cnbeta.com.tw/articles/game/1587496.htm",
+   "summary": "微软近日公开的一项专利申请显示，该公司可能正在研发一种可更换的游戏手柄摇杆模块。若该设计最终投入量产，玩家在遇到摇杆漂移或部件损坏时，或许只需一把螺丝刀和几分钟时间，就能完成维修，而无需更换整只手柄。 阅读全文",
+   "published_at": 1795364317.0,
+   "published_bj": "2026-11-23 00:18"
   }
  ]
 }

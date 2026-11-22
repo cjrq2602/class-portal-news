@@ -1,8 +1,17 @@
 {
  "date": "2026-11-22",
- "generated_at": 1795363172.7471945,
- "count": 220,
+ "generated_at": 1795383482.4632936,
+ "count": 226,
  "items": [
+  {
+   "id": "8f4027a704e1f3e6",
+   "source": "Hacker News",
+   "title": "C++26 is done (again): November 2026 ISO C++ meeting trip report",
+   "url": "https://herbsutter.com/2026/11/21/c26-is-done-again-trip-report-november-2026-iso-c-standards-meeting-buzios-brazil/",
+   "summary": "Article URL: https://herbsutter.com/2026/11/21/c26-is-done-again-trip-report-november-2026-iso-c-standards-meeting-buzios-brazil/ Comments URL: https://news.ycombinator.com/item?id=50600838 Points: 32 # Comments: 0",
+   "published_at": 1795363199.0,
+   "published_bj": "2026-11-22 23:59"
+  },
   {
    "id": "6afb3838a463c622",
    "source": "Hacker News",
@@ -11,6 +20,42 @@
    "summary": "Article URL: https://www.lemonde.fr/en/opinion/article/2026/11/22/as-science-increasingly-shows-the-role-chemical-substances-play-in-lifestyle-diseases-europe-weakens-its-regulations_6786595_23.html Comments URL: https://news.ycombinator.com/item?id=50600677 Points: 3 # Comments: 0",
    "published_at": 1795362160.0,
    "published_bj": "2026-11-22 23:42"
+  },
+  {
+   "id": "13906d33b8757cd9",
+   "source": "Hacker News",
+   "title": "I joined the NTP Pool, but not with my Stratum 1 Pi",
+   "url": "https://www.jeffgeerling.com/blog/2026/i-joined-the-ntp-pool/",
+   "summary": "Article URL: https://www.jeffgeerling.com/blog/2026/i-joined-the-ntp-pool/ Comments URL: https://news.ycombinator.com/item?id=50600622 Points: 96 # Comments: 25",
+   "published_at": 1795361724.0,
+   "published_bj": "2026-11-22 23:35"
+  },
+  {
+   "id": "976d03415267c986",
+   "source": "Solidot",
+   "title": "Anthropic 到 2028 年使用的电力 98% 来自化石燃料",
+   "url": "https://www.solidot.org/story?sid=85959",
+   "summary": "美国的 AI 数据中心越来越依赖自己的发电设施供电，而这些发电设施基本上绝大多数使用化石燃料。目前规划中的数据中心发电设施装机容量高达 177 GW——足以满足美国 65% 家庭的用电需求。研究人员调查了刚刚上市的 AI 公司 Anthropic 的用电需求。他们发现 Anthropic 未在美国承诺使用任何可再生能源，它近期斥资 34 亿美元承诺采购 1.7 GW 的燃气发电设备。与 Anthropic 签署算力合同的美国数据中心提供商绝大部分将使用化石燃料提供电力。研究人员估计，到 2028 年 Anthropic 约 87% 的电力将来自天然气，11% 来自煤炭。Anthropic 数据",
+   "published_at": 1795361523.0,
+   "published_bj": "2026-11-22 23:32"
+  },
+  {
+   "id": "1cbf3fe4ad3b813d",
+   "source": "Hacker News",
+   "title": "Open Social Web Alliance",
+   "url": "https://osw-alliance.net/en/",
+   "summary": "Article URL: https://osw-alliance.net/en/ Comments URL: https://news.ycombinator.com/item?id=50600511 Points: 183 # Comments: 184",
+   "published_at": 1795361072.0,
+   "published_bj": "2026-11-22 23:24"
+  },
+  {
+   "id": "15f3d51bd5dbbe3f",
+   "source": "Hacker News",
+   "title": "Backblaze customers worried of personal data sale/sharing after policy update",
+   "url": "https://www.neowin.net/news/backblaze-customers-worried-of-personal-data-salesharing-after-policy-update/",
+   "summary": "Article URL: https://www.neowin.net/news/backblaze-customers-worried-of-personal-data-salesharing-after-policy-update/ Comments URL: https://news.ycombinator.com/item?id=50600435 Points: 115 # Comments: 50",
+   "published_at": 1795360562.0,
+   "published_bj": "2026-11-22 23:16"
   },
   {
    "id": "143b1d192ae0ecc0",
@@ -164,6 +209,15 @@
    "summary": "瘦肉馅猪肉或可触发一种与肌肉合成相关的独特肽类变化，但研究尚不能证明它比其他蛋白来源更能促进增肌。据发表在《分子营养与食品研究》上的一项新研究，运动后摄入瘦猪肉馅，会在血液中引起一种名为“二亮氨酸”的天然肽类显著升高。这种由两个亮氨酸分子连接而成的肽，被认为与肌肉蛋白合成有关，而肌肉蛋白合成正是人体构建和修复肌肉组织的核心过程。 阅读全文",
    "published_at": 1795353366.0,
    "published_bj": "2026-11-22 21:16"
+  },
+  {
+   "id": "65e949118ea32748",
+   "source": "Hacker News",
+   "title": "Testing Terraform with AWS Emulator",
+   "url": "https://notes.hatedabamboo.me/terraform-tests-with-aws-emulator/",
+   "summary": "Article URL: https://notes.hatedabamboo.me/terraform-tests-with-aws-emulator/ Comments URL: https://news.ycombinator.com/item?id=50599309 Points: 54 # Comments: 7",
+   "published_at": 1795352436.0,
+   "published_bj": "2026-11-22 21:00"
   },
   {
    "id": "0a60604a7cb1f5c3",

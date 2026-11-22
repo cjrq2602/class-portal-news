@@ -1,0 +1,382 @@
+{
+ "type": "yesterday",
+ "date": "2026-11-22",
+ "window": {
+  "start_ts": 1795276800.0,
+  "end_ts": 1795363200.0
+ },
+ "generated_at": 1795383483.883949,
+ "generator": "action",
+ "news_count": 226,
+ "keywords": [
+  "ai",
+  "推出",
+  "the",
+  "手机",
+  "gta6",
+  "of",
+  "智能",
+  "游戏",
+  "元",
+  "斯拉"
+ ],
+ "points": [
+  {
+   "text": "【ai】IT早报”时间，大家好，现在是 2026 年 11 月 22 日星期日，今天的重要科技资讯有： 1. 不只是华为，消息称其他厂商也考虑为旗舰产品",
+   "keyword": "ai",
+   "news_ids": [
+    "60b5c3b6a3bacd0a"
+   ],
+   "refs": [
+    {
+     "id": "60b5c3b6a3bacd0a",
+     "title": "IT早报 1122：曝其他厂商也考虑推出阔直板形态手机；Anthropic 研究员预测 2027 年底 AI 比肩顶尖专家；华为星芒 O1 Pro 定价 5499 元起引争议...",
+     "source": "IT之家",
+     "url": "https://www.ithome.com/1/030/518.htm",
+     "published_at": 1795303906.0
+    }
+   ]
+  },
+  {
+   "text": "【ai】Article URL: https://www",
+   "keyword": "ai",
+   "news_ids": [
+    "8eb83ea962ea8886"
+   ],
+   "refs": [
+    {
+     "id": "8eb83ea962ea8886",
+     "title": "The Mythology of Conscious AI",
+     "source": "Hacker News",
+     "url": "https://www.noemamag.com/the-mythology-of-conscious-ai/",
+     "published_at": 1795313402.0
+    }
+   ]
+  },
+  {
+   "text": "【ai】11月22日，特斯拉CEO埃隆·马斯克（Elon Musk）在社交平台X发文，谈及人工智能证明数学界著名难题“黎曼猜想”的意义，并将这一成果称为",
+   "keyword": "ai",
+   "news_ids": [
+    "4a3ca058eae5ae71"
+   ],
+   "refs": [
+    {
+     "id": "4a3ca058eae5ae71",
+     "title": "数学界百年难题被AI攻克？马斯克称成果令人震撼",
+     "source": "cnBeta",
+     "url": "https://www.cnbeta.com.tw/articles/science/1587446.htm",
+     "published_at": 1795332968.0
+    }
+   ]
+  },
+  {
+   "text": "【推出】IT之家 11 月 22 日消息，据外媒 GameSpot 报道，《GTA6》实体版包装盒内不再附赠游戏光盘，引发部分玩家不满",
+   "keyword": "推出",
+   "news_ids": [
+    "030f56aa60d58327"
+   ],
+   "refs": [
+    {
+     "id": "030f56aa60d58327",
+     "title": "肯德基西班牙推出营销活动，玩家带《GTA6》实体包装盒可免费领光盘形状炸鸡",
+     "source": "IT之家",
+     "url": "https://www.ithome.com/1/030/642.htm",
+     "published_at": 1795337692.0
+    }
+   ]
+  },
+  {
+   "text": "【推出】IT之家 11 月 22 日消息，贝尔金现已在京东上架新款 40W 单 USB-C 充电头，定价为 77 元",
+   "keyword": "推出",
+   "news_ids": [
+    "8e9d42b841bdb146"
+   ],
+   "refs": [
+    {
+     "id": "8e9d42b841bdb146",
+     "title": "贝尔金推出新款 40W 单 USB-C 充电头：支持 PD 3.2/PPS 协议，77 元",
+     "source": "IT之家",
+     "url": "https://www.ithome.com/1/030/700.htm",
+     "published_at": 1795346854.0
+    }
+   ]
+  },
+  {
+   "text": "【推出】IT之家 11 月 22 日消息，微星现已在京东上架“PRO MP272L”27 英寸显示器，该机为 1080P 100Hz 规格，定价为 59",
+   "keyword": "推出",
+   "news_ids": [
+    "b061a218d04f8e1e"
+   ],
+   "refs": [
+    {
+     "id": "b061a218d04f8e1e",
+     "title": "微星推出“PRO MP272L”27 英寸显示器：1080P 100Hz，599 元",
+     "source": "IT之家",
+     "url": "https://www.ithome.com/1/030/703.htm",
+     "published_at": 1795348569.0
+    }
+   ]
+  },
+  {
+   "text": "【游戏】IT之家 11 月 22 日消息，开发商 Untitled Studio 宣布旗下模拟游戏《铁匠大师（Blacksmith Master）》正式",
+   "keyword": "游戏",
+   "news_ids": [
+    "1dc4d0e59554eacc"
+   ],
+   "refs": [
+    {
+     "id": "1dc4d0e59554eacc",
+     "title": "中世纪模拟经营游戏《铁匠大师》发售，Steam 国区首发 5 折 29.5 元",
+     "source": "IT之家",
+     "url": "https://www.ithome.com/1/030/690.htm",
+     "published_at": 1795344636.0
+    }
+   ]
+  },
+  {
+   "text": "【游戏】IT之家 11 月 22 日消息，《GTA 6》已经成为迄今为止全球规模最大的游戏首发作品，以前所未有的声势席卷整个游戏行业，过去没有任何一款游",
+   "keyword": "游戏",
+   "news_ids": [
+    "9125753e5f50ae2b"
+   ],
+   "refs": [
+    {
+     "id": "9125753e5f50ae2b",
+     "title": "GTA 6》首发统治力惊人：美国超六成 PS5 玩家首日涌入游戏",
+     "source": "IT之家",
+     "url": "https://www.ithome.com/1/030/620.htm",
+     "published_at": 1795336550.0
+    }
+   ]
+  },
+  {
+   "text": "【of】IT之家 11 月 22 日消息，一款名为《满是猫咪的废土》（A Wasteland Full of Cats）的全新《辐射》（Fallout）",
+   "keyword": "of",
+   "news_ids": [
+    "b72d12096457d952"
+   ],
+   "refs": [
+    {
+     "id": "b72d12096457d952",
+     "title": "辐射》官宣猫咪主题衍生游戏，玩家将化身避难所猫咪拯救同伴",
+     "source": "IT之家",
+     "url": "https://www.ithome.com/1/030/607.htm",
+     "published_at": 1795334140.0
+    }
+   ]
+  },
+  {
+   "text": "【in】Article URL: https://www",
+   "keyword": "in",
+   "news_ids": [
+    "9647f46c28401d32"
+   ],
+   "refs": [
+    {
+     "id": "9647f46c28401d32",
+     "title": "U.N. Climate Talks Collapse in a Bitter Clash over Fossil Fuels",
+     "source": "Hacker News",
+     "url": "https://www.nytimes.com/2026/11/22/climate/cop31-climate-summit-ends-climate.html",
+     "published_at": 1795354630.0
+    }
+   ]
+  },
+  {
+   "text": "Article URL: https://herbsutter",
+   "keyword": "",
+   "news_ids": [
+    "8f4027a704e1f3e6"
+   ],
+   "refs": [
+    {
+     "id": "8f4027a704e1f3e6",
+     "title": "C++26 is done (again): November 2026 ISO C++ meeting trip report",
+     "source": "Hacker News",
+     "url": "https://herbsutter.com/2026/11/21/c26-is-done-again-trip-report-november-2026-iso-c-standards-meeting-buzios-brazil/",
+     "published_at": 1795363199.0
+    }
+   ]
+  },
+  {
+   "text": "Article URL: https://www",
+   "keyword": "",
+   "news_ids": [
+    "6afb3838a463c622"
+   ],
+   "refs": [
+    {
+     "id": "6afb3838a463c622",
+     "title": "Europe weakens chemical rules as science links them to 'lifestyle diseases'",
+     "source": "Hacker News",
+     "url": "https://www.lemonde.fr/en/opinion/article/2026/11/22/as-science-increasingly-shows-the-role-chemical-substances-play-in-lifestyle-diseases-europe-weakens-its-regulations_6786595_23.html",
+     "published_at": 1795362160.0
+    }
+   ]
+  },
+  {
+   "text": "Article URL: https://osw-alliance",
+   "keyword": "",
+   "news_ids": [
+    "1cbf3fe4ad3b813d"
+   ],
+   "refs": [
+    {
+     "id": "1cbf3fe4ad3b813d",
+     "title": "Open Social Web Alliance",
+     "source": "Hacker News",
+     "url": "https://osw-alliance.net/en/",
+     "published_at": 1795361072.0
+    }
+   ]
+  },
+  {
+   "text": "Can a TV be too large? This writer's recent upgrade to a 65-inch OLED ca",
+   "keyword": "",
+   "news_ids": [
+    "f313dba25a1262f9"
+   ],
+   "refs": [
+    {
+     "id": "f313dba25a1262f9",
+     "title": "Can a TV be too large? An investigation",
+     "source": "TechCrunch",
+     "url": "https://techcrunch.com/2026/11/22/can-a-tv-be-too-large-an-investigation/",
+     "published_at": 1795359600.0
+    }
+   ]
+  },
+  {
+   "text": "一艘SpaceX“龙”飞船于近日成功返回地球，为科学家带回了包括癌症研究样本、3D打印血管结构和太空培养细菌在内的珍贵实验材料",
+   "keyword": "",
+   "news_ids": [
+    "2b341897e5faf3ec"
+   ],
+   "refs": [
+    {
+     "id": "2b341897e5faf3ec",
+     "title": "​SpaceX“龙”飞船完成NASA第35次商业补给任务 带回癌症与血管研究样本",
+     "source": "cnBeta",
+     "url": "https://www.cnbeta.com.tw/articles/science/1587486.htm",
+     "published_at": 1795358996.0
+    }
+   ]
+  }
+ ],
+ "article": {
+  "title": "2026-11-22 新闻总结",
+  "paragraphs": [
+   {
+    "kind": "lead",
+    "text": "过去 24 小时共收录 226 条新闻，来自 7 家媒体。把标题放在一起看，讨论主要集中在 AI、手机、游戏 这几个方向上，其余消息更像是零散补充。"
+   },
+   {
+    "kind": "section",
+    "heading": "AI",
+    "text": "先看「AI」。IT早报”时间，大家好，现在是 2026 年 11 月 22 日星期日，今天的重要科技资讯有： 1. 不只是华为，另有 66 条消息指向同一话题。这类进展更像是把已有能力往工程化落地推了一步，真正的分水岭在于成本和可靠性能不能同时压下来。",
+    "news_ids": [
+     "60b5c3b6a3bacd0a"
+    ],
+    "refs": [
+     {
+      "id": "60b5c3b6a3bacd0a",
+      "title": "IT早报 1122：曝其他厂商也考虑推出阔直板形态手机；Anthropic 研究员预测 2027 年底 AI 比肩顶尖专家；华为星芒 O1 Pro 定价 5499 元起引争议...",
+      "source": "IT之家",
+      "url": "https://www.ithome.com/1/030/518.htm",
+      "published_at": 1795303906.0
+     }
+    ]
+   },
+   {
+    "kind": "section",
+    "heading": "硬盘",
+    "text": "与此同时「硬盘」。IT之家 11 月 22 日消息，据科技媒体 Tom's Hardware 昨天报道，群联在 SC26 大会中展示两款企业级固态硬盘，另有 26 条消息指向同一话题。这类进展更像是把已有能力往工程化落地推了一步，真正的分水岭在于成本和可靠性能不能同时压下来。",
+    "news_ids": [
+     "b95f35db7d6ab683"
+    ],
+    "refs": [
+     {
+      "id": "b95f35db7d6ab683",
+      "title": "群联展示内置 NPU 与 64GB 内存的智能固态硬盘，可直接运行 AI 模型",
+      "source": "IT之家",
+      "url": "https://www.ithome.com/1/030/524.htm",
+      "published_at": 1795305887.0
+     }
+    ]
+   },
+   {
+    "kind": "section",
+    "heading": "成果",
+    "text": "另一个值得注意的方向是「成果」。11月22日，特斯拉CEO埃隆·马斯克（Elon Musk）在社交平台X发文，谈及人工智能证明数学界著名难题“黎曼猜想”的意义，另有 11 条消息指向同一话题。技术路线的胜负很少由一次发布会决定，接下来要看的是它能不能被更多团队低成本复用。",
+    "news_ids": [
+     "4a3ca058eae5ae71"
+    ],
+    "refs": [
+     {
+      "id": "4a3ca058eae5ae71",
+      "title": "数学界百年难题被AI攻克？马斯克称成果令人震撼",
+      "source": "cnBeta",
+      "url": "https://www.cnbeta.com.tw/articles/science/1587446.htm",
+      "published_at": 1795332968.0
+     }
+    ]
+   },
+   {
+    "kind": "section",
+    "heading": "营销",
+    "text": "相比之下「营销」。IT之家 11 月 22 日消息，据外媒 GameSpot 报道，《GTA6》实体版包装盒内不再附赠游戏光盘，另有 16 条消息指向同一话题。技术路线的胜负很少由一次发布会决定，接下来要看的是它能不能被更多团队低成本复用。",
+    "news_ids": [
+     "030f56aa60d58327"
+    ],
+    "refs": [
+     {
+      "id": "030f56aa60d58327",
+      "title": "肯德基西班牙推出营销活动，玩家带《GTA6》实体包装盒可免费领光盘形状炸鸡",
+      "source": "IT之家",
+      "url": "https://www.ithome.com/1/030/642.htm",
+      "published_at": 1795337692.0
+     }
+    ]
+   },
+   {
+    "kind": "glossary",
+    "items": [
+     {
+      "term": "AI",
+      "desc": "人工智能，让机器完成识别、生成、判断等原本需要人做的任务"
+     },
+     {
+      "term": "LLM",
+      "desc": "大语言模型，主打文字理解与生成，是「大模型」的同义词"
+     },
+     {
+      "term": "Transformer",
+      "desc": "2017 年提出的神经网络结构，是当今绝大多数大模型的基础"
+     },
+     {
+      "term": "Robotaxi",
+      "desc": "无人驾驶出租车，车里没有司机，靠自动驾驶系统接单运营"
+     },
+     {
+      "term": "Agent",
+      "desc": "智能体，能自己拆解任务、调用工具并连续执行的 AI 程序"
+     },
+     {
+      "term": "IPO",
+      "desc": "首次公开募股，公司第一次把股票卖给公众并上市"
+     }
+    ]
+   },
+   {
+    "kind": "outlook",
+    "text": "把这几条放在一起看，最值得跟踪的是 AI 和 手机 两条线：一条决定技术能走多远，一条决定它多快能落到普通人的日常里。至于其他消息，可以先放进观察名单，等后续有更实的进展再判断。"
+   }
+  ],
+  "word_count": 683
+ },
+ "ai_enhanced": false,
+ "schema": 1,
+ "window_bj": {
+  "start": "2026-11-22 00:00",
+  "end": "2026-11-23 00:00"
+ }
+}
