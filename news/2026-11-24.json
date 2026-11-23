@@ -1,8 +1,206 @@
 {
  "date": "2026-11-24",
- "generated_at": 1795432532.889509,
- "count": 3,
+ "generated_at": 1795473841.2001116,
+ "count": 48,
  "items": [
+  {
+   "id": "84c090142d683112",
+   "source": "Hacker News",
+   "title": "VP != VNP over Every Field [pdf]",
+   "url": "https://github.com/anthropics/formal-math/blob/11b6c7e3c927df2658f513b6b68ea7f8929c62c5/vp-vnp/paper.pdf",
+   "summary": "Article URL: https://github.com/anthropics/formal-math/blob/11b6c7e3c927df2658f513b6b68ea7f8929c62c5/vp-vnp/paper.pdf Comments URL: https://news.ycombinator.com/item?id=50620252 Points: 5 # Comments: 2",
+   "published_at": 1795472584.0,
+   "published_bj": "2026-11-24 06:23"
+  },
+  {
+   "id": "701296ccad9731b7",
+   "source": "Hacker News",
+   "title": "VP ≠ VNP over Every Field",
+   "url": "https://github.com/anthropics/formal-math/tree/main/vp-vnp",
+   "summary": "Article URL: https://github.com/anthropics/formal-math/tree/main/vp-vnp Comments URL: https://news.ycombinator.com/item?id=50620102 Points: 15 # Comments: 0",
+   "published_at": 1795471750.0,
+   "published_bj": "2026-11-24 06:09"
+  },
+  {
+   "id": "0854a4358fbd0cec",
+   "source": "TechCrunch",
+   "title": "Anthropic launches Claude Ship, letting AI agents review, fix, and approve code changes",
+   "url": "https://techcrunch.com/2026/11/23/anthropic-launches-claude-ship-letting-ai-agents-review-fix-and-approve-code-changes/",
+   "summary": "As AI-generated code piles up, Anthropic's new developer tools aim to eliminate another bottleneck by letting agents handle routine approvals.",
+   "published_at": 1795471550.0,
+   "published_bj": "2026-11-24 06:05"
+  },
+  {
+   "id": "0425c54a0eabd322",
+   "source": "TechCrunch",
+   "title": "Supertake raises $20M to let AI agents turn your market predictions into stock portfolios",
+   "url": "https://techcrunch.com/2026/11/23/supertake-raises-20m-to-let-ai-agents-turn-your-market-predictions-into-stock-portfolios/",
+   "summary": "Think you know where the market is headed? A startup called Supertake lets you put money behind your ideas without having to pick the stocks yourself.",
+   "published_at": 1795471325.0,
+   "published_bj": "2026-11-24 06:02"
+  },
+  {
+   "id": "7226277e3aec7286",
+   "source": "TechCrunch",
+   "title": "Elon Musk and others rejoice as Jensen Huang is reinstated at Nvidia amid scandal",
+   "url": "https://techcrunch.com/2026/11/23/elon-musk-and-others-rejoice-as-jensen-huang-is-reinstated-at-nvidia-amid-scandal/",
+   "summary": "\"The mistake has been corrected,\" Elon Musk chimed in.",
+   "published_at": 1795470461.0,
+   "published_bj": "2026-11-24 05:47"
+  },
+  {
+   "id": "a2b0327e26649f0e",
+   "source": "TechCrunch",
+   "title": "Megaspeed, the company at the center of the Jensen Huang scandal, appears headed for a US blacklist",
+   "url": "https://techcrunch.com/2026/11/23/megaspeed-the-company-at-the-center-of-the-jensen-huang-scandal-appears-headed-for-a-u-s-blacklist/",
+   "summary": "Megaspeed, which was previously led by Alice Huang, would be barred from doing business with U.S. companies unless those companies attained a special license from the federal government.",
+   "published_at": 1795469142.0,
+   "published_bj": "2026-11-24 05:25"
+  },
+  {
+   "id": "c5a5d906e35a47fd",
+   "source": "Hacker News",
+   "title": "Bored.com: Fun, interesting and cool websites to explore when bored",
+   "url": "https://www.bored.com/",
+   "summary": "Article URL: https://www.bored.com/ Comments URL: https://news.ycombinator.com/item?id=50619207 Points: 30 # Comments: 8",
+   "published_at": 1795467676.0,
+   "published_bj": "2026-11-24 05:01"
+  },
+  {
+   "id": "22dee7c4a17518c9",
+   "source": "Hacker News",
+   "title": "The horse made the state",
+   "url": "https://aeon.co/essays/the-origins-of-the-state-are-not-agrarian-but-pastoralist",
+   "summary": "Article URL: https://aeon.co/essays/the-origins-of-the-state-are-not-agrarian-but-pastoralist Comments URL: https://news.ycombinator.com/item?id=50619186 Points: 38 # Comments: 31",
+   "published_at": 1795467552.0,
+   "published_bj": "2026-11-24 04:59"
+  },
+  {
+   "id": "d6576e3765f30ccd",
+   "source": "Hacker News",
+   "title": "GPUI is getting its own repository",
+   "url": "https://github.com/zed-industries/gpui",
+   "summary": "Article URL: https://github.com/zed-industries/gpui Comments URL: https://news.ycombinator.com/item?id=50619103 Points: 22 # Comments: 1",
+   "published_at": 1795467174.0,
+   "published_bj": "2026-11-24 04:52"
+  },
+  {
+   "id": "e93a5f848d2b36bd",
+   "source": "TechCrunch",
+   "title": "Nvidia employees greet Jensen Huang like a hero as he returns to company’s HQ",
+   "url": "https://techcrunch.com/2026/11/23/nvidia-employees-greet-jensen-huang-like-a-hero-as-he-returns-to-companys-hq/",
+   "summary": "\"I'm going to be a better CEO the second time around,\" Huang told employees.",
+   "published_at": 1795466333.0,
+   "published_bj": "2026-11-24 04:38"
+  },
+  {
+   "id": "b548809af4f9d18e",
+   "source": "InfoQ中文",
+   "title": "企业 AI 发展新趋势：推动 AI Agent 迈向规模化应用的新阶段",
+   "url": "https://www.infoq.cn/video/its3v5OfmRuikL5SeWUu?utm_source=rss&utm_medium=article",
+   "summary": "点击查看原文>",
+   "published_at": 1795463527.0,
+   "published_bj": "2026-11-24 03:52"
+  },
+  {
+   "id": "a246a2b6cb000bb6",
+   "source": "cnBeta",
+   "title": "AI服务器价格争议升级 戴尔、慧与、联想及超微被指在签约后大幅加价",
+   "url": "https://www.cnbeta.com.tw/articles/tech/1587722.htm",
+   "summary": "据英国《金融时报》报道，戴尔、慧与、联想和超微等主要服务器厂商，被指在与客户就AI服务器采购价格达成初步协议后，仍在数月内大幅上调最终售价。部分订单的加价幅度据称可达25%、30%，甚至45%，而客户往往只能接受，因为数据中心建设对算力硬件的需求极为迫切。 阅读全文",
+   "published_at": 1795462870.0,
+   "published_bj": "2026-11-24 03:41"
+  },
+  {
+   "id": "46000e301121e74a",
+   "source": "cnBeta",
+   "title": "幼年黑猩猩或许会像人类一样形成“口音”",
+   "url": "https://www.cnbeta.com.tw/articles/science/1587720.htm",
+   "summary": "一项新研究发现，幼年黑猩猩的叫声可能会随着成长而逐渐呈现出不同群体的特征，类似人类在成长过程中形成的地区口音。这一发现表明，黑猩猩的发声并非完全由基因决定，社会互动和所处环境也可能在其沟通方式的塑造中发挥重要作用。 阅读全文",
+   "published_at": 1795462846.0,
+   "published_bj": "2026-11-24 03:40"
+  },
+  {
+   "id": "4acfcb279f36f28b",
+   "source": "InfoQ中文",
+   "title": "AI 时代的数据工程：如何打造 AI 原生团队",
+   "url": "https://www.infoq.cn/video/qWRo8T0IdKoI7RBuQwNd?utm_source=rss&utm_medium=article",
+   "summary": "点击查看原文>",
+   "published_at": 1795462831.0,
+   "published_bj": "2026-11-24 03:40"
+  },
+  {
+   "id": "607f5fae59359bb6",
+   "source": "cnBeta",
+   "title": "苹果将重新推出(PRODUCT)RED产品 HomePod mini 2和AirPods Max 2可能性较大",
+   "url": "https://www.cnbeta.com.tw/articles/tech/1587718.htm",
+   "summary": "苹果或将重新推出红色特别版产品，据彭博社报道，苹果计划为HomePod mini 2和AirPods Max 2推出(PRODUCT)RED版本。这两款新品预计将成为苹果支持全球基金抗击艾滋病、结核病和疟疾年度筹款活动的一部分。 阅读全文",
+   "published_at": 1795462826.0,
+   "published_bj": "2026-11-24 03:40"
+  },
+  {
+   "id": "e5fbc1a2df44dd9c",
+   "source": "cnBeta",
+   "title": "英伟达董事会恢复黄仁勋职务据悉未事先征询公司高级管理层意见",
+   "url": "https://www.cnbeta.com.tw/articles/tech/1587716.htm",
+   "summary": "据知情人士透露，英伟达董事会出人意料地将黄仁勋复职的举动并未事先征询公司高级管理层的意见，后者直到最后一刻才获知该消息。知情人士表示，在美国总统特朗普向董事会成员施加政治压力后，相关决定于周日下午作出。由于讨论属于非公开信息，知情人士要求匿名。他们还表示，一些原本被考虑接替黄仁勋的人选也退出了遴选程序。 阅读全文",
+   "published_at": 1795462716.0,
+   "published_bj": "2026-11-24 03:38"
+  },
+  {
+   "id": "15ee825d655f5d3c",
+   "source": "cnBeta",
+   "title": "黄仁勋重返英伟达总部",
+   "url": "https://www.cnbeta.com.tw/articles/tech/1587714.htm",
+   "summary": "援引其获得的一段来自员工的视频报道称，黄仁勋已返回英伟达总部，员工欢呼迎接。黄仁勋对员工表示，第二次担任CEO，他会做得更好。 阅读全文",
+   "published_at": 1795462690.0,
+   "published_bj": "2026-11-24 03:38"
+  },
+  {
+   "id": "55634377f7233def",
+   "source": "InfoQ中文",
+   "title": "重塑财务职能：引领 AI 时代的转型",
+   "url": "https://www.infoq.cn/video/zDX7VX1ZLsWM2BNMJLc1?utm_source=rss&utm_medium=article",
+   "summary": "点击查看原文>",
+   "published_at": 1795462430.0,
+   "published_bj": "2026-11-24 03:33"
+  },
+  {
+   "id": "74bb32cc948ac400",
+   "source": "TechCrunch",
+   "title": "‘Outrageous,’ ‘reckless,’ ‘wow’: Here’s what politicians are saying about Jensen Huang’s return to Nvidia",
+   "url": "https://techcrunch.com/2026/11/23/outrageous-reckless-wow-heres-what-politicians-are-saying-about-jensen-huangs-return-to-nvidia/",
+   "summary": "Politicians on both sides of the aisle seem angry, agitated, and nonplussed by the return of Jensen Huang to Nvidia leadership less than two weeks after his ousting.",
+   "published_at": 1795462301.0,
+   "published_bj": "2026-11-24 03:31"
+  },
+  {
+   "id": "f9e2da60518079a6",
+   "source": "Hacker News",
+   "title": "Per Arm's request, this site will be discontinued on 4 December 2026 :(",
+   "url": "https://arm.jonpalmisc.com/",
+   "summary": "Article URL: https://arm.jonpalmisc.com/ Comments URL: https://news.ycombinator.com/item?id=50617499 Points: 675 # Comments: 133",
+   "published_at": 1795461475.0,
+   "published_bj": "2026-11-24 03:17"
+  },
+  {
+   "id": "70714c8b9ae4e0ee",
+   "source": "InfoQ中文",
+   "title": "当你的下一位客户是 AI Agent：企业营销与销售的 AI 发展前景",
+   "url": "https://www.infoq.cn/video/cw3OFxCPlVBE625COukc?utm_source=rss&utm_medium=article",
+   "summary": "点击查看原文>",
+   "published_at": 1795461390.0,
+   "published_bj": "2026-11-24 03:16"
+  },
+  {
+   "id": "d7a942fa641a9e66",
+   "source": "TechCrunch",
+   "title": "Google Search’s AI Mode can now tap into Drive and Wallet for more personalized responses",
+   "url": "https://techcrunch.com/2026/11/23/google-searchs-ai-mode-can-now-tap-into-drive-and-wallet-for-more-personalized-responses/",
+   "summary": "By bringing Personal Intelligence in AI Mode to Drive, Wallet, and the Gemini app, Google is leveraging the wealth of user data that's already within its ecosystem",
+   "published_at": 1795461286.0,
+   "published_bj": "2026-11-24 03:14"
+  },
   {
    "id": "2461d721788e1534",
    "source": "InfoQ中文",
@@ -13,6 +211,114 @@
    "published_bj": "2026-11-24 03:08"
   },
   {
+   "id": "ec94d40dac639288",
+   "source": "Hacker News",
+   "title": "Apple removed my open-source app from EU App Stores after 9 years",
+   "url": "https://github.com/glushchenko/fsnotes/discussions/2056",
+   "summary": "Article URL: https://github.com/glushchenko/fsnotes/discussions/2056 Comments URL: https://news.ycombinator.com/item?id=50616933 Points: 408 # Comments: 81",
+   "published_at": 1795459690.0,
+   "published_bj": "2026-11-24 02:48"
+  },
+  {
+   "id": "77f01f9ffa24146b",
+   "source": "cnBeta",
+   "title": "黄仁勋复任英伟达CEO后将出席美国参议院听证会 12月3日接受质询",
+   "url": "https://www.cnbeta.com.tw/articles/tech/1587712.htm",
+   "summary": "英伟达首席执行官黄仁勋将在12月3日出席美国参议院银行委员会举行的公开听证会。根据该委员会官方网站公布的通知，这场听证会将围绕美国出口管制政策及相关国家安全问题展开。值得注意的是，听证会安排公布之际，黄仁勋刚刚在英伟达董事会决定下重新出任公司首席执行官。 阅读全文",
+   "published_at": 1795458476.0,
+   "published_bj": "2026-11-24 02:27"
+  },
+  {
+   "id": "6fd1a070683bca29",
+   "source": "IT之家",
+   "title": "2026 年 Steam 大奖提名开启：十周年新增「名人堂」特别奖项，11 月 30 日截止",
+   "url": "https://www.ithome.com/1/031/235.htm",
+   "summary": "IT之家 11 月 24 日消息，Valve 正式开启 2026 年 Steam 大奖（Steam Awards）提名通道。本届大奖恰逢活动诞生十周年，官方在常规评选基础上增设了多项特别奖项，提名阶段将持续至太平洋时间 11 月 30 日上午 10 点（北京时间 12 月 1 日凌晨 2 点）。 IT之家附 Steam 官方提名页面链接（ https://store.steampowered.com/steamawards/nominations/2026 ）。 为庆祝十周年，Valve 从往届经典奖项中回顾并带回了三项具有玩家情怀的评选类别： 「再玩五分钟」（Just 5 More Minu",
+   "published_at": 1795458030.0,
+   "published_bj": "2026-11-24 02:20"
+  },
+  {
+   "id": "47120117274b938a",
+   "source": "TechCrunch",
+   "title": "Jensen Huang scheduled to testify next week in Senate following reinstatement as Nvidia CEO",
+   "url": "https://techcrunch.com/2026/11/23/jensen-huang-scheduled-to-testify-next-week-in-senate-following-reinstatement-as-nvidia-ceo/",
+   "summary": "The public hearing follows bipartisan calls for Huang to testify about the affair with the suspected Chinese spy.",
+   "published_at": 1795457542.0,
+   "published_bj": "2026-11-24 02:12"
+  },
+  {
+   "id": "978a49dd287db960",
+   "source": "Hacker News",
+   "title": "How should an LLM see a computer?",
+   "url": "https://www.greptile.com/blog/trex-computer-use",
+   "summary": "Article URL: https://www.greptile.com/blog/trex-computer-use Comments URL: https://news.ycombinator.com/item?id=50615520 Points: 35 # Comments: 19",
+   "published_at": 1795454365.0,
+   "published_bj": "2026-11-24 01:19"
+  },
+  {
+   "id": "69b93967cd8c5b64",
+   "source": "Hacker News",
+   "title": "Kagi Mail (public beta)",
+   "url": "https://blog.kagi.com/kagi-mail-public-beta",
+   "summary": "Article URL: https://blog.kagi.com/kagi-mail-public-beta Comments URL: https://news.ycombinator.com/item?id=50615481 Points: 293 # Comments: 222",
+   "published_at": 1795454221.0,
+   "published_bj": "2026-11-24 01:17"
+  },
+  {
+   "id": "3c94fb6641a52447",
+   "source": "TechCrunch",
+   "title": "Amazon snaps up Decart’s AI optimization tech for $7.5B as it prepares to sell Trainium chips",
+   "url": "https://techcrunch.com/2026/11/23/amazon-snaps-up-decarts-ai-optimization-tech-for-7-5b-as-it-prepares-to-sell-trainium-chips/",
+   "summary": "Amazon is acquiring Decart’s AI optimization technology and research team in a reported $7.5 billion deal.",
+   "published_at": 1795454063.0,
+   "published_bj": "2026-11-24 01:14"
+  },
+  {
+   "id": "fd777a369470e665",
+   "source": "TechCrunch",
+   "title": "Meta throws out its net-zero goal — its competitors should be furious",
+   "url": "https://techcrunch.com/2026/11/23/meta-throws-out-its-net-zero-goal-its-competitors-should-be-furious/",
+   "summary": "Meta walked back its 2030 net-zero goal in its 2026 sustainability report, a decision that could send ripples throughout the tech industry.",
+   "published_at": 1795454025.0,
+   "published_bj": "2026-11-24 01:13"
+  },
+  {
+   "id": "428da47082a4ed8a",
+   "source": "cnBeta",
+   "title": "英国湖区救援人员警告：越来越多年轻人因依赖Google地图在山地迷路",
+   "url": "https://www.cnbeta.com.tw/articles/tech/1587710.htm",
+   "summary": "英国湖区（Lake District）山地救援人员表示，越来越多年轻人因在山区徒步时依赖手机上的Google地图导航而迷路或陷入险境。瓦兹代尔山地救援队（Wasdale Mountain Rescue Team）在周日完成一次全员出动救援后发出警告，称遇险者中年轻人比例明显上升，其中大多数年龄在18岁至24岁之间。 阅读全文",
+   "published_at": 1795453978.0,
+   "published_bj": "2026-11-24 01:12"
+  },
+  {
+   "id": "309fc6a484a5ae81",
+   "source": "cnBeta",
+   "title": "荷兰隐私监管机构呼吁消费者不要购买“偷拍眼镜”",
+   "url": "https://www.cnbeta.com.tw/articles/tech/1587708.htm",
+   "summary": "荷兰数据保护局近日发出建议，呼吁消费者不要购买具备人工智能功能的摄像眼镜。该机构警告称，这类可联网、可长时间开启的设备不仅会侵犯周围路人的隐私，还可能给佩戴者自身带来安全风险。 阅读全文",
+   "published_at": 1795453948.0,
+   "published_bj": "2026-11-24 01:12"
+  },
+  {
+   "id": "04fedd8ed5cab77a",
+   "source": "Hacker News",
+   "title": "Dario is hyping the dangers so OSS models are illegal and he stays in control",
+   "url": "https://twitter.com/ylecun/status/2124550037912920090",
+   "summary": "Article URL: https://twitter.com/ylecun/status/2124550037912920090 Comments URL: https://news.ycombinator.com/item?id=50615308 Points: 809 # Comments: 472",
+   "published_at": 1795453646.0,
+   "published_bj": "2026-11-24 01:07"
+  },
+  {
+   "id": "37dbc2dbb648c21c",
+   "source": "Hacker News",
+   "title": "EasyPost (YC S13) Is Hiring",
+   "url": "https://www.easypost.com/careers/",
+   "summary": "Article URL: https://www.easypost.com/careers/ Comments URL: https://news.ycombinator.com/item?id=50615161 Points: 0 # Comments: 0",
+   "published_at": 1795453205.0,
+   "published_bj": "2026-11-24 01:00"
+  },
+  {
    "id": "86274dfbba1c78a3",
    "source": "InfoQ中文",
    "title": "Java 近期新闻：TornadoVM、A2A Java、Open Liberty、Open J Proxy、Gradle、EclipseStore",
@@ -20,6 +326,105 @@
    "summary": "点击查看原文>",
    "published_at": 1795453200.0,
    "published_bj": "2026-11-24 01:00"
+  },
+  {
+   "id": "67717daabb1ac54b",
+   "source": "TechCrunch",
+   "title": "Jensen Huang isn’t out of the woods yet",
+   "url": "https://techcrunch.com/2026/11/23/jensen-huang-isnt-out-of-the-woods-yet/",
+   "summary": "Tech leaders should be clear-eyed about all the problems likely to come with Huang's reinstatement.",
+   "published_at": 1795453060.0,
+   "published_bj": "2026-11-24 00:57"
+  },
+  {
+   "id": "c3d3fe3494ef1c1e",
+   "source": "TechCrunch",
+   "title": "Trump reportedly called into Nvidia board meeting to advocate for Huang’s return",
+   "url": "https://techcrunch.com/2026/11/23/trump-reportedly-called-into-nvidia-board-meeting-to-advocate-for-huangs-return/",
+   "summary": "\"I spoke to them, let me put it that way … And I convinced them,\" the president told CNBC.",
+   "published_at": 1795451950.0,
+   "published_bj": "2026-11-24 00:39"
+  },
+  {
+   "id": "aef7a6a725eaba53",
+   "source": "cnBeta",
+   "title": "罢免AI巨头CEO不容易：黄仁勋、奥特曼不到两周都回归了",
+   "url": "https://www.cnbeta.com.tw/articles/tech/1587706.htm",
+   "summary": "英伟达周一宣布，黄仁勋(Jensen Huang)回归公司担任CEO。《华尔街日报》对此表示，这件事再次证明，想罢免一位AI巨头的CEO并不是一件容易事。在这轮AI热潮中，已有两位最受瞩目的业界CEO被各自的董事会解雇。但是，这两次决定都没能撑过两周。 阅读全文",
+   "published_at": 1795451703.0,
+   "published_bj": "2026-11-24 00:35"
+  },
+  {
+   "id": "7a59ea05fe9eb865",
+   "source": "cnBeta",
+   "title": "特朗普：祝贺黄仁勋恢复职位 英伟达董事会决定正确且恰当",
+   "url": "https://www.cnbeta.com.tw/articles/tech/1587704.htm",
+   "summary": "11月23日，美国总统特朗普发文：英伟达董事会作出了让黄仁勋重回首席执行官一职的正确、恰当的决定。国家需要黄仁勋掌舵英伟达，以保障这家公司取得成功、蓬勃发展，同时助力美国经济走向繁荣。美国政府没有理由认为黄仁勋回归英伟达会带来任何国家安全风险。 阅读全文",
+   "published_at": 1795451250.0,
+   "published_bj": "2026-11-24 00:27"
+  },
+  {
+   "id": "c348b61bb7f44c7d",
+   "source": "cnBeta",
+   "title": "黄仁勋时隔12天重回英伟达CEO宝座 苹果乔布斯等了12年",
+   "url": "https://www.cnbeta.com.tw/articles/tech/1587702.htm",
+   "summary": "英伟达董事会只用了12天，就做出撤销罢免黄仁勋的决定。三年前的同一周，OpenAI撤换山姆・奥特曼，完成同样的复位只用了不到五天。几乎没人预料到黄仁勋复职的消息。周一早晨，就在英伟达发布官方复职公告的几分钟之前，预测市场Polymarket上，押注黄仁勋本月复职的概率仅约3%。公告发布五分钟后，该概率飙升至99%。 阅读全文",
+   "published_at": 1795450976.0,
+   "published_bj": "2026-11-24 00:22"
+  },
+  {
+   "id": "f0c84458b6fae214",
+   "source": "cnBeta",
+   "title": "特朗普对黄仁勋重返英伟达表示祝贺",
+   "url": "https://www.cnbeta.com.tw/articles/tech/1587700.htm",
+   "summary": "英伟达周一宣布恢复黄仁勋首席执行官职务。过去数日，美国政府公开表态持续力挺这位 CEO，特朗普对此表示祝贺。英伟达官宣消息发布数分钟后，特朗普在真实社交平台发帖称：“英伟达董事会做出了正确且恰当的决定。美国政府没有理由认为黄仁勋重返英伟达会带来任何国家安全风险。” 阅读全文",
+   "published_at": 1795450957.0,
+   "published_bj": "2026-11-24 00:22"
+  },
+  {
+   "id": "62be92163de21f6c",
+   "source": "cnBeta",
+   "title": "黄仁勋复职带动AI相关股票普涨 英伟达市值数小时增逾1万亿美元",
+   "url": "https://www.cnbeta.com.tw/articles/tech/1587698.htm",
+   "summary": "英伟达恢复黄仁勋总裁兼首席执行官职务、并立即生效后，人工智能相关公司的股价大涨。英伟达股价一度上涨35%，创2000年以来最大盘中涨幅，短短数小时内市值增加逾1万亿美元，并带动标普500指数和纳斯达克100指数走高。涨势还蔓延至芯片股，费城证券交易所半导体指数飙升13%；其他与人工智能基础设施交易相关的股票也上涨，包括能源供应商和工业企业。 阅读全文",
+   "published_at": 1795450871.0,
+   "published_bj": "2026-11-24 00:21"
+  },
+  {
+   "id": "5837a9625d8831b2",
+   "source": "TechCrunch",
+   "title": "CrowdStrike to acquire Zscaler for $44 billion",
+   "url": "https://techcrunch.com/2026/11/23/crowdstrike-to-acquire-zscaler-for-44-billion/",
+   "summary": "The cybersecurity giant said that the deal to buy Zscaler, which provides zero-trust products to large enterprises, will better equip their customers to use AI agents.",
+   "published_at": 1795450811.0,
+   "published_bj": "2026-11-24 00:20"
+  },
+  {
+   "id": "25ee82528b286701",
+   "source": "cnBeta",
+   "title": "英伟达恢复黄仁勋CEO背后：特朗普强势施压相助",
+   "url": "https://www.cnbeta.com.tw/articles/tech/1587696.htm",
+   "summary": "英伟达周一宣布，董事会一致投票决定，立即恢复黄仁勋的总裁、首席执行官及董事职务，距他 11 月 12 日辞职仅 11 天。公司称，经过与黄仁勋的一系列讨论和会面，董事会对他的坦诚和领导能力感到满意。董事长哈维·琼斯表示，董事会认为黄仁勋是领导英伟达的合适人选，复职符合股东、员工、合作伙伴和客户的最佳利益。临时 CEO 科莱特·克雷斯留任首席财务官，琼斯继续担任董事长。 阅读全文",
+   "published_at": 1795450746.0,
+   "published_bj": "2026-11-24 00:19"
+  },
+  {
+   "id": "b714a984d1323824",
+   "source": "cnBeta",
+   "title": "英伟达官宣黄仁勋回归 马斯克发文“It is done”庆祝",
+   "url": "https://www.cnbeta.com.tw/articles/tech/1587694.htm",
+   "summary": "今日晚间，英伟达官方宣布即日起恢复黄仁勋公司总裁、首席执行官及董事会成员职务。董事会表示，经多轮沟通，认可其坦诚态度与领导能力，并在听取美国政府高层意见后，确信其复职不存在国家安全风险。 阅读全文",
+   "published_at": 1795450724.0,
+   "published_bj": "2026-11-24 00:18"
+  },
+  {
+   "id": "04b4a6fb984fcc20",
+   "source": "Hacker News",
+   "title": "Ladybird is now in alpha",
+   "url": "https://ladybird.org/posts/alpha/",
+   "summary": "Article URL: https://ladybird.org/posts/alpha/ Comments URL: https://news.ycombinator.com/item?id=50614249 Points: 1153 # Comments: 287",
+   "published_at": 1795450392.0,
+   "published_bj": "2026-11-24 00:13"
   },
   {
    "id": "3192bb60abf612c3",
