@@ -1,8 +1,575 @@
 {
  "date": "2026-11-23",
- "generated_at": 1795383707.0213983,
- "count": 27,
+ "generated_at": 1795400441.6764004,
+ "count": 94,
  "items": [
+  {
+   "id": "1e4c605fd381f0f4",
+   "source": "InfoQ中文",
+   "title": "Anthropic 创纪录 IPO 未能扭转 AI 市场悲观情绪，Claude 上市当天突发性能降级！靠失业焦虑撑起的万亿估值，该踩刹车了",
+   "url": "https://www.infoq.cn/article/OPbZhT0OHL4IbZz8exvA?utm_source=rss&utm_medium=article",
+   "summary": "点击查看原文>",
+   "published_at": 1795425656.0,
+   "published_bj": "2026-11-23 17:20"
+  },
+  {
+   "id": "778868c2c9079af9",
+   "source": "IT之家",
+   "title": "从北影毕设到院线电影：B站《龙心少女》最新 PV 公布，摔跤社与火药方糖联合制作",
+   "url": "https://www.ithome.com/1/030/765.htm",
+   "summary": "IT之家 11 月 23 日消息，在昨晚的哔哩哔哩 2026—2027 年国创动画作品发布会上，动画电影《龙心少女》正式官宣，并发布了 2026 全新 PV。 这部影片由摔跤社与火药方糖联合制作，哔哩哔哩、摔跤社、火药方糖共同出品。 这部电影的起点可以追溯到一部北影毕业作品。2016 年，张逸兴与蹇单从北京电影学院动画学院毕业，毕业联合作业短片《阿莉塔的试炼》构成了这个 IP 最初的世界观雏形。两人随后创立了二维动画工作室摔跤社（StudioTumble），继续围绕“阿莉塔”这一角色搭建故事框架。 2019 年，番外短片《阿莉塔的睡前故事》在B站首届“小宇宙新星计划”中获得金奖。该计划面向国产",
+   "published_at": 1795398577.0,
+   "published_bj": "2026-11-23 09:49"
+  },
+  {
+   "id": "52a550b38d5cb43c",
+   "source": "IT之家",
+   "title": "蚂蚁电竞 24.5\" QHD 540Hz HMO 显示器 ANT255TQ 在售，6299 元",
+   "url": "https://www.ithome.com/1/030/764.htm",
+   "summary": "IT之家 11 月 23 日消息，蚂蚁电竞 (ANTGAMER) 现已在销售 ANT255TQ 显示器，实际价格为 6299 元。 这一型号采用 24.5\" IPS 面板， 结合新一代 HMO（高迁移率氧化物）背板技术 ，支持 QHD (2560×1440) 分辨率、540Hz 刷新率。 ANT255TQ 搭载第二代高色域玄墨显示技术、第二代超快 HFL 快速液晶材料无闪显示方案，配备 FPGA &nbsp;AVS 画质引擎，支持硬件级低蓝光，覆盖 AGLR 涂层。 该显示器响应时间达 1.31ms GtG、1.87ms MPRT，支持 DIC 3.0 动态模糊消除技术；符合 VESA Dis",
+   "published_at": 1795398576.0,
+   "published_bj": "2026-11-23 09:49"
+  },
+  {
+   "id": "6c509663ee70c135",
+   "source": "IT之家",
+   "title": "《黑神话：悟空》美术总监杨奇谈《GTA 6》：“工业化”一词是对其贬损，昂贵且低效的艺术品",
+   "url": "https://www.ithome.com/1/030/763.htm",
+   "summary": "IT之家 11 月 23 日消息，昨晚，游戏科学联合创始人、《黑神话：悟空》美术总监杨奇在微博回复网友提问时表示，“工业化”一词儿是对《GTA 6》的贬损，该作“明明是无数的日夜和灵感的整合，昂贵且低效的艺术品”。 据他描述，自己刚结束《GTA 6》第二章，“进度缓慢”（还提到“当然也得怪无限服，被迫追赶几个同事的进度”），“细节实在给得太多，快把自己玩成半个 qa 了，各种无足轻重的小事件小设计， 制作精度令人发指 ”。 IT 之家注意到，杨奇 11 月 18 日曾在微博写道“无心劳作，度秒如年”，并带上“GTA6”超话、配以游戏画面。 据 IT 之家此前报道，《GTA 6》于 11 月 1",
+   "published_at": 1795398571.0,
+   "published_bj": "2026-11-23 09:49"
+  },
+  {
+   "id": "5bdd8878f2e8775f",
+   "source": "IT之家",
+   "title": "DC 超级英雄电影《泥面人》定档 11 月 27 日上映",
+   "url": "https://www.ithome.com/1/030/762.htm",
+   "summary": "IT之家 11 月 23 日消息，DC 电影官方今日宣布，超级英雄电影《泥面人》定档 11 月 27 日 于全国影院上映。 《泥面人》豆瓣评分 8.0、烂番茄观众好评度 94%、CinemaScore 获评 A-，是一部动作奇幻惊悚电影，今日开启影票预售。 IT之家附《泥面人》剧情简介： 马特 · 哈根（汤姆 · 里斯 · 哈里斯饰）曾是哥谭街头一个出身平凡的少年，一路飞升为好莱坞当红巨星，却因当地黑帮头目的残暴行径惨遭毁容，星途戛然而止。马特被团队抛弃，一无所有之时，一种前沿疗法竟奇迹般帮他恢复了容貌…… 但也出乎意料地影响了他的心智，令他一步步走上了一条摧毁一切的复仇之路。 IT之家小伙伴",
+   "published_at": 1795398345.0,
+   "published_bj": "2026-11-23 09:45"
+  },
+  {
+   "id": "e90bd153d088a6ee",
+   "source": "IT之家",
+   "title": "微软申请新专利：手柄换摇杆仅需一把螺丝刀",
+   "url": "https://www.ithome.com/1/030/761.htm",
+   "summary": "IT之家 11 月 23 日消息，相信每位玩家在游戏生涯中都遇到过手柄摇杆漂移问题，最终只能花大价钱买新手柄，或是自己动手拆开换摇杆。如今，微软似乎正在悄悄开发解决方案。 据科技媒体 TechPower Up 今天报道，微软已提交“可更换输入模块”（Replaceable Input Module）专利。文件里的手柄采用独立摇杆模块，只需要一颗螺丝就能装入手柄。 如果这种方案真能落地 ， 那么修复摇杆漂移的手柄只需要一把螺丝刀 。 从专利文件来看，这颗螺丝似乎会固定在模块上，因此用户也不必担心拆卸时将其弄丢。模块还配备了定位销和倾斜边缘，用于帮助用户对准安装位置。模块底部还设有触点，取代传统的",
+   "published_at": 1795397725.0,
+   "published_bj": "2026-11-23 09:35"
+  },
+  {
+   "id": "02e404a5ff81c8f4",
+   "source": "IT之家",
+   "title": "玄机接手《夜的命名术》动画制作：B站追加预算，定档 2027 下半年",
+   "url": "https://www.ithome.com/1/030/760.htm",
+   "summary": "IT之家 11 月 23 日消息，在昨晚的哔哩哔哩 2026—2027 年国创动画作品发布会上，《夜的命名术》动画正式官宣，由哔哩哔哩与玄机科技联合出品，玄机科技负责制作。 这是该动画项目经历推倒重制后，制作阵容的首次正式确认。按玄机科技已公开的制作排期，该片预计最早于 2027 年下半年与观众见面。 《夜的命名术》动画最初由初色动画制作，原定 2025 年 8 月 14 日在B站独播，已过审 6 集。但在临播前夕，因成品质量与预告差距过大，B站决定追加预算、更换制作公司，对全片进行全面重制。 原著作者会说话的肘子当时说明，问题并非某一角色的建模，而是“全片级别的质量不达标”。此后玄机科技（I",
+   "published_at": 1795397561.0,
+   "published_bj": "2026-11-23 09:32"
+  },
+  {
+   "id": "ce60b6ab3ac0f6e2",
+   "source": "IT之家",
+   "title": "捷波带来 MTX-RYZ1 主板：板载锐龙 7 PRO 8845HS，提供 PCIe 插槽",
+   "url": "https://www.ithome.com/1/030/758.htm",
+   "summary": "IT之家 11 月 23 日消息，捷波 (Jetway) 近日在其官网上线了面向工业嵌入式领域的 Mini-ITX 主板 MTX-RYZ1。这一型号 板载 AMD 锐龙 7 PRO 8845HS 处理器 。 MTX-RYZ1 拥有 2 条 DDR5-5600 SO-DIMM 内存插槽，支持 EEC； 提供 1 条 PCIe ×8 插槽 、1 个 M.2 M-Key 2242 / 2280 (PCIe ×4) 插槽，另有 2 个 SATA III (6Gbps) 数据接口；设有 M.2 E-Key 2230 无线网卡位。 此外，该主板 支持四路 DisplayPort 2.1 视频信号输出 （其",
+   "published_at": 1795397520.0,
+   "published_bj": "2026-11-23 09:32"
+  },
+  {
+   "id": "c89549d77b48913c",
+   "source": "IT之家",
+   "title": "有望配备消费级显卡史上最大显存容量，摩尔线程下一代“庐山”GPU 预告“性能足够惊艳”",
+   "url": "https://www.ithome.com/1/030/757.htm",
+   "summary": "IT之家 11 月 23 日消息，摩尔线程官方日前公布了 MDC 2026（MUSA 开发者大会）的首张预热海报， 其中暗藏下一代消费级显卡“庐山”的身影 。 据 VideoCardz 报道，摩尔线程 MTT S80 显卡相关的产品经理 AIR_FORCE 上周发帖预告“ 应该是消费级显卡历史上最大显存容量了 ”，并称“性能足够惊艳”。 不过，AIR_FORCE 没有给出具体的显存容量。作为对比， 英伟达旗舰 RTX 5090 显卡配备了 32GB GDDR7 内存 。 IT之家注意到，本次 MUSA 开发者大会的主题演讲定档 12 月 29 日上午，官方将在此带来全新重磅产品、技术及解决方案",
+   "published_at": 1795397426.0,
+   "published_bj": "2026-11-23 09:30"
+  },
+  {
+   "id": "ecf7705494f13475",
+   "source": "TechCrunch",
+   "title": "How Notable Capital, GIC, and Baillie Gifford bet big on Anthropic before its IPO",
+   "url": "https://techcrunch.com/2026/11/22/how-notable-capital-gic-and-baillie-gifford-bet-big-on-anthropic-before-its-ipo/",
+   "summary": "Three significant backers share what gave them conviction to bet billions on Anthropic.",
+   "published_at": 1795397153.0,
+   "published_bj": "2026-11-23 09:25"
+  },
+  {
+   "id": "621c2721141f3d4f",
+   "source": "IT之家",
+   "title": "B站《绍宋》动画首支正式 PV 宣传片公布，档期待定",
+   "url": "https://www.ithome.com/1/030/756.htm",
+   "summary": "IT之家 11 月 23 日消息，在昨晚的哔哩哔哩 2026—2027 年国创动画作品发布会上，改编自榴弹怕水同名小说的《绍宋》发布了首支正式 PV，宣传语只有一句“群臣向南，君独向北”，具体信息未公布，档期待定。 《绍宋》原著于 2021 年在起点读书完结，讲述九百年后的灵魂穿越为宋高宗赵构，在北宋灭亡、南渡避金的主流路线之外，转向“抗金”的故事。 动画版在备案信息中被描述为围绕军事改革与制度调整展开叙事。PV 并未披露具体情节段落，但从“君独向北”的指向来看，故事起点仍落在赵构登基后与满朝南下共识的正面冲突上。 该动画的备案主体为杭州幻电科技有限公司，2026 年 9 月已完成《绍宋第一季",
+   "published_at": 1795396975.0,
+   "published_bj": "2026-11-23 09:22"
+  },
+  {
+   "id": "5cf09444b230d065",
+   "source": "IT之家",
+   "title": "中国车企首次：小鹏图灵 AI 智驾率先开放欧洲公众体验，首站法国巴黎",
+   "url": "https://www.ithome.com/1/030/755.htm",
+   "summary": "IT之家 11 月 23 日消息，小鹏汽车今天宣布，小鹏图灵 AI 智驾率先开放欧洲公众体验，首站法国巴黎。 小鹏宣称，他们是全球唯二、中国首家在海外门店开放城区高阶智驾公众体验的车企。 据IT之家此前援引彭博社消息 ，在巴黎车展前夕，小鹏汽车通用智能中心负责人刘先明透露，小鹏成功在约两周时间内，将智驾系统从一个欧洲国家微调适配到另一个欧洲国家。这一适配过程所需的数据量，仅为训练底层人工智能基础模型所需数据的万分之一。",
+   "published_at": 1795396836.0,
+   "published_bj": "2026-11-23 09:20"
+  },
+  {
+   "id": "9c025a025595c24e",
+   "source": "IT之家",
+   "title": "Shuttle 推出 0.4L \"Wildcat Lake\" 迷你主机 NW10U",
+   "url": "https://www.ithome.com/1/030/754.htm",
+   "summary": "IT之家 11 月 23 日消息，Shuttle（辅信，原名浩鑫）当地时间本月 18 日面向北美市场推出了 NW10U 迷你主机。这一型号基于第 3 代英特尔酷睿处理器 \"Wildcat Lake\"，体积仅 0.4L。 NW10U 三维 103×97×36.5 (mm)，兼容 75×75 / 100×100 (mm) VESA 壁挂规范，集成热管 + 风扇散热系统。 其设有 1 个 DDR5-6400 SO-DIMM 内存插槽， 提供 2 个 M.2 M-Key 2280 (PCIe Gen4 ×2) 插槽 ，另有 1 个 M.2 E-Key 插槽用于安装无线网卡。 而在外部，其正面提供 2 ",
+   "published_at": 1795396801.0,
+   "published_bj": "2026-11-23 09:20"
+  },
+  {
+   "id": "bf36d2173320cd33",
+   "source": "IT之家",
+   "title": "一加 16《凡人》动画联名礼盒 11 月 27 日限量开售，购机（16GB+512GB 版）+269 元可得",
+   "url": "https://www.ithome.com/1/030/753.htm",
+   "summary": "IT之家 11 月 23 日消息，一加今日宣布， 一加 16 《凡人》动画联名礼盒将于 11 月 27 日 10:00 限量开售。该礼盒不单独售卖，需要购买一加 16 指定存储版本（16GB+512GB 版），加价 269 元获取。 IT之家附礼盒内容： 可旋转金属剑阵磁吸手机支架 「青竹蜂云剑」金属卡针 「青竹蜂云剑」磁吸保护壳 透光明信片 可滑动冰箱贴 专属深度定制主题 —— 小绿瓶充电动画、「念头通达」解锁动画、剑阵动态息屏、定制图标和小组件。 一加 16 手机于 10 月 12 日正式发布。新品采用 第六代骁龙 8 超级至尊版芯片 ，全球首发 185Hz 极速高刷，拥有全自研「电竞三芯",
+   "published_at": 1795396657.0,
+   "published_bj": "2026-11-23 09:17"
+  },
+  {
+   "id": "fb568572aaa75eac",
+   "source": "IT之家",
+   "title": "《灵笼：落子无悔》前瞻 PV 首曝，2027 年下半年上线",
+   "url": "https://www.ithome.com/1/030/752.htm",
+   "summary": "IT之家 11 月 23 日消息，在昨晚的哔哩哔哩 2026—2027 年国创动画作品发布会上，《灵笼：落子无悔》新篇章前瞻 PV 内容首次公开。 发布会上，制片人杜杨阳确认该篇章将于 2027 年下半年上线。这是《灵笼》第二季收官后，系列主线故事的首次正式续接。 此次前瞻内容选自《灵笼：落子无悔》正片，剧情直接承接第二季。龙骨村在锁定雨燕号坠落地点并发现马克踪迹后，车队即将驶入一片陌生区域，该区域的玛娜生态呈现出此前未见的形态。PV 的叙事重心并未落在马克本人身上，而是跟随车队中的普通成员，呈现他们在绝境中的选择。 官方对这段内容的描述是“镜头将移近一些”，关注那些在人群中一闪而过、却拥有“",
+   "published_at": 1795396509.0,
+   "published_bj": "2026-11-23 09:15"
+  },
+  {
+   "id": "87f06a9c4e6981e6",
+   "source": "Hacker News",
+   "title": "Free alternative TV network built from the Internet Archive's forgotten videos",
+   "url": "https://spelunkr.tv",
+   "summary": "Article URL: https://spelunkr.tv Comments URL: https://news.ycombinator.com/item?id=50606192 Points: 32 # Comments: 5",
+   "published_at": 1795396431.0,
+   "published_bj": "2026-11-23 09:13"
+  },
+  {
+   "id": "a157cca68f40011a",
+   "source": "IT之家",
+   "title": "小米汽车广州车展发布会官宣，李肖爽和大家聊聊澎程 N70",
+   "url": "https://www.ithome.com/1/030/751.htm",
+   "summary": "IT之家 11 月 23 日消息，小米汽车今日官宣，小米汽车广州车展发布会定档 11 月 27 日早 9 点 ，小米汽车副总裁李肖爽和大家好好聊聊澎程 N70。 小米汽车表示，刚刚过去的 10 月，N70 荣获中大型 SUV、增程车型销量双冠军（数据来源于懂车帝）。 本次发布会，小米汽车将详细介绍 N70 的核心优势：大电池增程、二排大空间、满配智能体验、全席位安全防护。 此外也汇报一下辅助驾驶的最新进展 。 据IT之家了解，小米澎程是小米汽车继 SU7、YU7 之后的第二个产品系列，于 2026 年 7 月 30 日的小米汽车技术发布会上正式亮相，小米昆仑技术架构同场发布。 车型定位上， N",
+   "published_at": 1795396413.0,
+   "published_bj": "2026-11-23 09:13"
+  },
+  {
+   "id": "720a9d27273473ed",
+   "source": "IT之家",
+   "title": "华为 Mate 90 Air 手机影像配置曝光：50Mp 主摄 +8Mp 超广角 +12Mp 长焦 + 红枫镜头",
+   "url": "https://www.ithome.com/1/030/750.htm",
+   "summary": "IT之家 11 月 23 日消息，微博博主 @数码闲聊站 今日曝光华为 Mate 90 Air 手机的参数详情。该机预计将搭载麒麟 9020 芯片，采用 7 英寸 1.5K+120Hz 等深四曲屏。 影像方面，这款手机或采用 5000 万像素后置主摄 +800 万像素超广角 +1200 万像素长焦以及红枫镜头，前摄为 1070 万像素。并具备 6500mAh 电池，支持 66W 快充，机身厚度约 6.58mm，重量约 208g。 据IT之家此前报道 ，华为 Mate 90 Air 已上架官网商城，11 月 24 日发布，提供玫瑰金、皓月银、曜石黑三款配色，以及 12GB+256GB、12GB+",
+   "published_at": 1795396286.0,
+   "published_bj": "2026-11-23 09:11"
+  },
+  {
+   "id": "16a4201dadbe3f03",
+   "source": "IT之家",
+   "title": "人界篇最大战役：《凡人修仙传》“边界之战”PV 公开，慕兰之战年番进入最高潮章节",
+   "url": "https://www.ithome.com/1/030/749.htm",
+   "summary": "IT之家 11 月 23 日消息，在昨晚的哔哩哔哩 2026—2027 年国创动画作品发布会上，《凡人修仙传》全新 PV“边界之战”正式公开。 该 PV 对应的并非一部新开的季番，而是正在B站独播的“慕兰之战”年番中的高潮章节 —— 天南与慕兰草原的最终边界决战。 “慕兰之战”年番已于 2026 年 6 月 13 日开播，共 52 集，覆盖第 177 至 228 集，每周六 11:00 在B站更新。 IT之家注：该篇章在原著中分为黄龙山之战与边界之战两个阶段，边界之战被视作整部小说中出场修士数量最多、规模最大的一场战役。 此次 PV 展示的正是边界之战全面爆发的节点。慕兰法师大军压境，神师的铜",
+   "published_at": 1795396189.0,
+   "published_bj": "2026-11-23 09:09"
+  },
+  {
+   "id": "95d8e5f0cd57e2f2",
+   "source": "IT之家",
+   "title": "海盗船推出 CX ATX 3.1 电源：125mm 短长度设计，至高 750W",
+   "url": "https://www.ithome.com/1/030/748.htm",
+   "summary": "IT之家 11 月 23 日消息，CORSAIR（海盗船）本月推出了 CX ATX 3.1 系列 PC 电源。其采用 ATX 外形规格和直出线材设计，内置 120mm 风扇， 长度仅有 125mm ，覆盖 550W / 650W / 750W 三档功率。 CX ATX 3.1 全系选用 105℃ 电容。其 550W 版本获得 Cybenetics 银牌转换效率、Standard ++ 噪声认证；650W 和 750W 版本获得 Cybenetics 金牌转换效率、Standard + 噪声认证，随附双色原生 12V-2×6 线缆。 该电源 享受 5 年保修 ，各功率版本的定价分别为 64.99",
+   "published_at": 1795396116.0,
+   "published_bj": "2026-11-23 09:08"
+  },
+  {
+   "id": "f980d12d021f6269",
+   "source": "IT之家",
+   "title": "第 95 条蔚来加电风景线“桂湘喀斯特山水线”贯通，今年计划增至 100 条",
+   "url": "https://www.ithome.com/1/030/747.htm",
+   "summary": "IT之家 11 月 23 日消息，蔚来今日宣布，第 95 条蔚来加电风景线｜桂湘喀斯特山水线正式贯通，从南宁出发，途经河池、柳州、桂林、邵阳、永州，最终抵达衡阳， 全程 1,925 公里 ，沿途布局 24 座充换电站，串联桂湘两地的山水人文。 路线总览 南宁 → 河池 → 柳州 → 桂林 → 邵阳 → 永州 → 衡阳 建议用时：7 天 6 晚 沿途补能：24 座充换电站 沿途风景：洞天探奇、山水漫游、人文寻访 据官方介绍，「蔚来加电风景线」是为了让用户愉悦畅行诗与远方而发起的能源布局项目。截至目前，蔚来已累计贯通包括 318 川藏线、丝绸之路、川西大环线、呼伦贝尔草原线在内 95 条极具向往感",
+   "published_at": 1795396113.0,
+   "published_bj": "2026-11-23 09:08"
+  },
+  {
+   "id": "3134b7962dc716d0",
+   "source": "IT之家",
+   "title": "《仙剑奇侠传四》动画最新宣传片公开：2027 年上半年开播，玄机科技承制",
+   "url": "https://www.ithome.com/1/030/746.htm",
+   "summary": "IT之家 11 月 23 日消息，哔哩哔哩在昨晚举行的 2026—2027 年国创动画作品发布会上公布了《仙剑奇侠传四》全新 PV，云天河与韩菱纱的双人海报同步释出。 该片由哔哩哔哩出品、玄机科技制作（IT之家注：玄机科技为《秦时明月》《吞噬星空》等国产 3D 动画的制作方），改编自软星科技同名游戏，播出档期从此前概念 PV 公布的“2027 年”进一步明确为 2027 年上半年，届时将在B站独家上线。 与 2025 年 11 月B站国创发布会上公开的概念 PV 相比，此次 PV 展示了更多正片画面与角色形象。海报中云天河与韩菱纱以全新造型登场，官方同步发起了“最期待剧情”的互动话题。PV 本",
+   "published_at": 1795395760.0,
+   "published_bj": "2026-11-23 09:02"
+  },
+  {
+   "id": "e4cece845312982b",
+   "source": "Hacker News",
+   "title": "What we learned operating auth for 1k APIs",
+   "url": "https://nango.dev/blog/lessons-from-operating-api-auth-for-900-apis/",
+   "summary": "Article URL: https://nango.dev/blog/lessons-from-operating-api-auth-for-900-apis/ Comments URL: https://news.ycombinator.com/item?id=50606072 Points: 5 # Comments: 2",
+   "published_at": 1795395671.0,
+   "published_bj": "2026-11-23 09:01"
+  },
+  {
+   "id": "efe88528f50fb368",
+   "source": "IT之家",
+   "title": "微软 AI 负责人苏莱曼：支持 OpenAI 提高透明度的倡议",
+   "url": "https://www.ithome.com/1/030/745.htm",
+   "summary": "IT之家 11 月 23 日消息，微软 AI 负责人穆斯塔法 · 苏莱曼（Mustafa Suleyman）今天在 X 平台表示，他完全支持 OpenAI 提高透明度的倡议。 苏莱曼表示， AI 业界所有人都是为了打造安全 、 真正有益于人类的 AGI（通用人工智能） 。AI 安全领域最棘手的问题之一就是协调合作，这项举措朝着正确的方向迈出了一步。未来几年，如果要实现安全、可控且与人类价值观保持一致的 AGI，人们还需要采取更多类似措施。 苏莱曼承诺在一套双方共同保留的评测集上分享预训练进展。经 OpenAI 许可，微软使用其评测集公布了 MAI-2 Base 的评测结果：其对数困惑度（log",
+   "published_at": 1795395623.0,
+   "published_bj": "2026-11-23 09:00"
+  },
+  {
+   "id": "499d541c609b342a",
+   "source": "IT之家",
+   "title": "传英特尔将以锐炫 G3 Play 的名称推出 4Xe3 掌机处理器",
+   "url": "https://www.ithome.com/1/030/744.htm",
+   "summary": "IT之家 11 月 23 日消息，外媒 VideoCardz 当地时间昨日报道称，Intel（英特尔）将以 Arc（锐炫）G3 Play 的名称推出配备 4 个 \"Xe3\" Xe-core 核显的入门级 \"Panther Lake\" 掌机处理器。 此前有关该处理器的 CPU 规格有两种说法，即 4P + 0E + 4LPE 和 0P + 8E + 0LPE，均为 8 核心 8 线程。报道指出，0P + 8E + 0LPE 目前看来有着更高的可能性。 锐炫 G3 Play 的 GPU 规模仅有系列旗舰型号锐炫 G3 Extreme 的 1/3 ，图形性能显著更低。该处理器瞄准的也是更为下沉的细分",
+   "published_at": 1795395476.0,
+   "published_bj": "2026-11-23 08:57"
+  },
+  {
+   "id": "7149918474def871",
+   "source": "IT之家",
+   "title": "B站《三体短篇集：平行之境》动画定档 12 月 23 日：六个独立短片组成，聚焦危机下的普通人",
+   "url": "https://www.ithome.com/1/030/743.htm",
+   "summary": "IT之家 11 月 23 日消息，哔哩哔哩在昨晚举行的 2026—2027 年国创动画作品发布会上宣布，《三体短篇集：平行之境》将于 2026 年 12 月 23 日 11:00 开播。 这是B站时隔四年再次启动《三体》IP 的动画化改编，由哔哩哔哩国创、三体宇宙 TBU 联合出品，万维猫动画、三体宇宙、超速心率、煤球影视、原力数字科技共同制作。 该短篇集由六个独立成章的动画短片组成，并非对原著主线的直接复述，而是围绕冬眠、思想钢印、黑暗森林等《三体》经典设定展开衍生叙事，将镜头对准三体危机下的普通个体。 六个短片在主题和视觉风格上各不相同，涵盖三维写实、风格化卡通等多种方向。据豆瓣页面，各集",
+   "published_at": 1795395428.0,
+   "published_bj": "2026-11-23 08:57"
+  },
+  {
+   "id": "26b07d5b884fe540",
+   "source": "IT之家",
+   "title": "中科宇航力箭二号运载火箭进入多发并行总装阶段，批量化生产体系迈上新台阶",
+   "url": "https://www.ithome.com/1/030/742.htm",
+   "summary": "IT之家 11 月 23 日消息，中科宇航宣布，近日，该公司力箭二号遥三、遥四运载火箭按计划并行开展总装工作，各工序流转顺畅、推进有序。 型号从单发研制攻关转向多箭并行组织阶段 ，标志着力箭二号运载火箭批量化生产体系迈上新台阶，生产组织模式、履约交付能力持续提升。 官方介绍称，力箭二号在设计阶段即面向量产优化，采用 “通用助推器核心”构型 ，大部分零组件支持采用工业化思路组批生产，以“搭积木”式思路实现火箭快速集成。火箭各子级直径均为 3.35 米 ，贮箱、箱间段等各部段设计相似，可实现产品互换互用、滚动备份，为我国后续高密度发射任务提供支撑。 据官方公布信息，目前力箭二号舱段、贮箱、导管等产",
+   "published_at": 1795395309.0,
+   "published_bj": "2026-11-23 08:55"
+  },
+  {
+   "id": "4c246f48f499c8e4",
+   "source": "IT之家",
+   "title": "让 Switch 2 游戏机接入 4G 网络，日本厂商 Kausmedia 推出 Switch Direct Link 适配器",
+   "url": "https://www.ithome.com/1/030/741.htm",
+   "summary": "IT之家 11 月 23 日消息，日本厂商 Kausmedia 近日推出 Switch Direct Link，这是一款为 Switch 2 游戏机打造的移动数据网络适配器， 该产品集成 4G LTE、Wi-Fi 6 和预付费流量服务 。 IT之家了解到，这款设备通过 USB-C 接口连接主机，可直接从主机获取电力，尺寸为 51 × 54 × 18mm，重量约 50g。适配 Switch 2、Switch 1、Switch Lite，并兼容多种智能手机、平板电脑、Windows PC 和 Mac。 该产品可通过 4G LTE 提供网络连接，理论下载速度最高可达 150Mbps，上传速度最高 5",
+   "published_at": 1795395162.0,
+   "published_bj": "2026-11-23 08:52"
+  },
+  {
+   "id": "bde5259e56d19558",
+   "source": "IT之家",
+   "title": "我国第二艘国产大型邮轮“爱达 · 花城号”首航抵达香港",
+   "url": "https://www.ithome.com/1/030/740.htm",
+   "summary": "IT之家 11 月 23 日消息，据央视新闻报道，今早 7 时 30 分左右，正式开启商业首航的第二艘国产大型邮轮“爱达 · 花城号”顺利抵达香港启德邮轮码头。该邮轮本次航程共计 6 天 5 晚，搭载超 3800 名旅客前往中国香港和越南顺化。 IT之家注意到，“爱达 · 花城号”于 11 月 6 日在上海外高桥造船有限公司正式交付。作为首艘国产大型邮轮“爱达 · 魔都号”的姊妹船，“爱达 · 花城号”全长 341 米，总吨位达 14.19 万，拥有 2130 间豪华客房和套房， 可容纳约 5232 名旅客 。邮轮在空间设计、餐饮娱乐与智能科技上进行了全面升级。 据此前官方公布信息，“爱达 ·",
+   "published_at": 1795394916.0,
+   "published_bj": "2026-11-23 08:48"
+  },
+  {
+   "id": "6feac3f9181126d4",
+   "source": "IT之家",
+   "title": "小米米家智能嵌入式洗碗机灶下 13 套开售：支持 75℃ 高温煮洗、可洗红酒杯，2599 元",
+   "url": "https://www.ithome.com/1/030/739.htm",
+   "summary": "IT之家 11 月 23 日消息，小米米家智能嵌入式洗碗机灶下 13 套今日开售，支持 75℃ 高温煮洗、可洗红酒杯，新品首发价 2599 元。 IT之家从商品页面获悉，该产品是号称专为三口之家打造，整机内部拥有 104L 的内腔容积，清洁指数达到 1.19， 设备支持 75℃ 高温煮洗 ，在深度清洁的同时除菌率达到 99.99%。产品符合新国标一级水效认证，在保证洗净度的前提下，可更低耗、更节能。 该产品内部碗篮经过空间再升级，支持双锅同洗， 能够将一餐产生的所有餐具和锅具一次洗完 。其中新增的红酒杯洗涤架为精细杯具提供了专属洗涤位，防止洗涤水流造成磕碰损坏。设备支持小米澎湃智联，用户可利用",
+   "published_at": 1795394703.0,
+   "published_bj": "2026-11-23 08:45"
+  },
+  {
+   "id": "875e7d3163ae87a8",
+   "source": "IT之家",
+   "title": "《GTA6》发售后，《GTA5》PC Steam 在线人数翻倍至 23.9 万",
+   "url": "https://www.ithome.com/1/030/737.htm",
+   "summary": "IT之家 11 月 23 日消息，GTATracker 汇总的数据显示，11 月 22 日，《GTA 5》增强版、传承版和在线模式在 Steam 的同时在线总人数超过 23.9 万， 约为当月部分繁忙日期的两倍 。 《GTA 5》正在迎来第二春，Steam 玩家数量反映了其获得的新支持。增强版和经典版的人气甚至超过了《GTA 6》发布前。虽然同时在线玩家峰值并未达到 36 万 761 人的历史最高纪录，但正呈上升趋势。 尽管《GTA 6》销量创下历史新高，但许多 PC 玩家并没有转投 Xbox 或 PS5 主机平台，而是重新回到《GTA 5》。需要注意的是，该追踪器并未将使用 Epic 或 R",
+   "published_at": 1795394184.0,
+   "published_bj": "2026-11-23 08:36"
+  },
+  {
+   "id": "053a02ca5a7d7da5",
+   "source": "IT之家",
+   "title": "《雾山五行 · 封界大战》院线电影公开：坚持手绘，档期待定",
+   "url": "https://www.ithome.com/1/030/736.htm",
+   "summary": "IT之家 11 月 23 日消息，哔哩哔哩在 2026~2027 年国创动画作品发布会上宣布，将与六道无鱼动画工作室再次合作，把《雾山五行》第三季最终季改编为院线电影《雾山五行 · 封界大战》，并首次公布预告片。 《雾山五行》剧集第一季豆瓣评分 8.7，第二季升至 9.2。此次电影承接第二季后续剧情，封界危机降临，群妖破山而出，闻人翊悬为守护雾山与苍生迎战群妖。六道无鱼同时担任出品与制作方，林魂继续执导。 林魂在预告发布后通过社交账号逐条回应了观众关切。他确认影版故事承接第二篇后续，第三篇的架构“花了不少时间做了些调整”，为了大银幕的观影体验“必然会有一些取舍”。首支预告中未展示其他五行使者的",
+   "published_at": 1795394055.0,
+   "published_bj": "2026-11-23 08:34"
+  },
+  {
+   "id": "c5387632e24c1f9e",
+   "source": "IT之家",
+   "title": "消息称苹果为 iPhone Duo 开发锁屏右侧纵向小组件栏，可显示更多信息",
+   "url": "https://www.ithome.com/1/030/735.htm",
+   "summary": "IT之家 11 月 23 日消息，据 X 平台消息人士 pdfu 昨日爆料，苹果曾测试过一套 iPhone Duo 实验性界面，允许锁屏状态下，在屏幕右侧显示两个不同的小组件。 据介绍，该功能可在屏幕右侧增加纵向排列的圆形小组件。 pdfu 称右侧的小组件可以和现有的底部栏同时使用 ，让用户在锁屏上查看更多信息。 同时，这一额外的小组件区域被称为“Complication Column”（IT之家注：复杂功能栏），位于放置手电筒和相机快捷方式的自定义按钮上方。不过目前该组件仍处于禁用状态，因此我们不清楚苹果是否仍在开发该功能。",
+   "published_at": 1795393622.0,
+   "published_bj": "2026-11-23 08:27"
+  },
+  {
+   "id": "b1571f40cffb3b3a",
+   "source": "IT之家",
+   "title": "陈立武：英特尔 18A 制程良率达 70%，下一代 14A 计划 2028 年量产",
+   "url": "https://www.ithome.com/1/030/734.htm",
+   "summary": "IT之家 11 月 23 日消息，据 Tom's Hardware 报道，英特尔 CEO 陈立武在 11 月 19 日举行的 TomorrowX 会议上称，Intel 18A 制程的芯片良品率已达到 70%。 陈立武表示，自己于 2025 年 3 月接任英特尔 CEO 时，18A 制程的良品率“非常糟糕”，目前已经提升至 70%。 Intel 18A 是英特尔当前的先进制程节点之一，已用于客户端和数据中心产品。英特尔于 2025 年下半年开始量产采用 18A 制程计算模块的 Panther Lake 处理器，也就是酷睿 Ultra 300 系列。面向数据中心的 Clearwater Fores",
+   "published_at": 1795393101.0,
+   "published_bj": "2026-11-23 08:18"
+  },
+  {
+   "id": "ebaa27e22bb6d40b",
+   "source": "IT之家",
+   "title": "微软 CEO 纳德拉感叹：Claude Code 仅半年动摇 VS Code 地位",
+   "url": "https://www.ithome.com/1/030/733.htm",
+   "summary": "IT之家 11 月 23 日消息，据科技媒体 Windows Latest 今天报道，这几天，不少开发者炫耀自己已经好几个月没打开过 VS Code。如今微软 CEO 萨提亚 · 纳德拉表示，他完全了解这一现象。Anthropic 推出 Claude Code 后， VS Code 等传统代码编辑器、IDE 大概六个月就失去了存在感 。 IT之家注：VS Code 是微软推出的免费开源跨平台代码编辑器，不是 IDE。该软件内置对语法高亮、智能代码补全、代码重构、代码调试以及 Git 版本控制的支持，并可通过庞大的扩展生态拓展软件功能。 纳德拉认为，过去十多年，微软一直努力将 VS Code 打",
+   "published_at": 1795392621.0,
+   "published_bj": "2026-11-23 08:10"
+  },
+  {
+   "id": "aa879bf8cbd898e6",
+   "source": "IT之家",
+   "title": "不满 Instagram 账号被封，印度反对党在 Meta 多地办事处示威并与警方冲突",
+   "url": "https://www.ithome.com/1/030/732.htm",
+   "summary": "IT之家 11 月 23 日消息，据路透社 11 月 21 日报道，印度主要反对党国大党的青年团近日因不满旗下成员的 Instagram 账号遭到限制，前往 Meta 印度办事处抗议，还与警方及安保人员发生冲突。 印度青年国大党（Indian Youth Congress，简称 IYC）还向 Meta 发出最后通牒，要求在七天内恢复相关账号，否则将在印度各地继续举行抗议活动。 印度青年国大党 11 月 20 日当天发布的视频显示，示威者手持标语牌、高喊口号，进入 Meta 位于海得拉巴的办公楼，将花盆砸向地面，并与警方及安保人员发生冲突。 另一段视频显示，国大党工作人员在 Meta 孟买办事处",
+   "published_at": 1795392319.0,
+   "published_bj": "2026-11-23 08:05"
+  },
+  {
+   "id": "9ec757750653696e",
+   "source": "Hacker News",
+   "title": "Nespresso's project to reduce grams of coffee per capsule",
+   "url": "https://alvinbunk.wordpress.com/2026/11/01/nespresso-project-olympus/",
+   "summary": "Article URL: https://alvinbunk.wordpress.com/2026/11/01/nespresso-project-olympus/ Comments URL: https://news.ycombinator.com/item?id=50605479 Points: 97 # Comments: 84",
+   "published_at": 1795391865.0,
+   "published_bj": "2026-11-23 07:57"
+  },
+  {
+   "id": "1263f5d2a935ee2e",
+   "source": "IT之家",
+   "title": "BLG 连斩 4 支韩国队夺冠，《英雄联盟》S16 中国 LPL 纪录片《风起今朝》12 月播出",
+   "url": "https://www.ithome.com/1/030/731.htm",
+   "summary": "IT之家 11 月 23 日消息，《英雄联盟》赛事今日官宣，2026 全球总决赛 LPL 纪录片《风起今朝》将于 12 月在B站播出，首支预告短片公布。 IT之家注意到，《英雄联盟》2026 全球总决赛（S16）冠亚军决赛于 11 月 15 日落幕，来自中国 LPL 赛区的 BLG 战队以 3:1 的比分力克韩国 LCK 赛区的 GEN 战队， 连斩 4 支韩国队 ，勇夺《英雄联盟》S16 冠军。 BLG 战队今年再进 S 赛气势如虹，连斩 HLE、DK、T1、GEN 四支 LCK 赛区战队。先是在半决赛战胜 Faker 领衔的 T1 战队，为 LPL 赛区打破 13 年 BO5 不胜魔咒，再",
+   "published_at": 1795391764.0,
+   "published_bj": "2026-11-23 07:56"
+  },
+  {
+   "id": "c44f29d2b9e2e342",
+   "source": "Hacker News",
+   "title": "0rwx – A simple model of AI usage, inspired by Unix permissions",
+   "url": "https://0rwx.com/",
+   "summary": "Article URL: https://0rwx.com/ Comments URL: https://news.ycombinator.com/item?id=50605445 Points: 18 # Comments: 6",
+   "published_at": 1795391580.0,
+   "published_bj": "2026-11-23 07:53"
+  },
+  {
+   "id": "623f476125ab6eff",
+   "source": "Hacker News",
+   "title": "What should AAA game devs do",
+   "url": "https://gamethoughts.bearblog.dev/what-should-aaa-game-devs-do/",
+   "summary": "Article URL: https://gamethoughts.bearblog.dev/what-should-aaa-game-devs-do/ Comments URL: https://news.ycombinator.com/item?id=50605426 Points: 22 # Comments: 38",
+   "published_at": 1795391460.0,
+   "published_bj": "2026-11-23 07:51"
+  },
+  {
+   "id": "01d3d1d052c92b35",
+   "source": "IT之家",
+   "title": "古尔曼：苹果若想在 AI 时代生存下去，需进行结构和文化层面的全面改革",
+   "url": "https://www.ithome.com/1/030/730.htm",
+   "summary": "IT之家 11 月 23 日消息，彭博社记者马克 · 古尔曼昨日在新一期《Power On》通讯中认为，苹果传统的软件开发方式可能阻碍其进入 AI 时代。僵化的发布周期、集中化的决策和缓慢的开发流程，让苹果很难和 AI 领域竞争对手抗衡。 ▲ 苹果首席执行官约翰 · 特努斯（John Ternus） 古尔曼警告称，虽然苹果在软硬件和生态领域仍然优势明显， 但现有的组织架构拖累了公司在 AI 领域的发展 。他说道：“简单来说，苹果作为一家企业，其组织架构和运作方式很难在 AI 时代取得成功。这家公司需要在组织结构和企业文化层面进行全面改革。” 例如，苹果通常会在新系统正式发布前一年就确认主要功能",
+   "published_at": 1795391261.0,
+   "published_bj": "2026-11-23 07:47"
+  },
+  {
+   "id": "e101026379139cb8",
+   "source": "IT之家",
+   "title": "苹果 Siri AI 集体诉讼案和解：符合条件的 iPhone 预计每台可获赔至少 61 美元",
+   "url": "https://www.ithome.com/1/030/729.htm",
+   "summary": "IT之家 11 月 23 日消息，苹果今年 5 月同意支付 2.5 亿美元 （IT之家注：现汇率约合 16.73 亿元人民币） ，以和解一起涉及 Siri AI 功能延迟上线的美国集体诉讼。 根据 MacRumors 当地时间 11 月 21 日的报道，代表消费者的律师于 11 月 16 日提交法庭文件，预计符合条件的用户每台 iPhone 可获赔至少 61 美元 （现汇率约合 408.3 元人民币） ，最高赔偿金额为 95 美元 （现汇率约合 635.9 元人民币） 。 根据和解条款，每台符合条件的设备基础赔偿金额为 25 美元，最终金额将根据有效申报总量按比例调整，最高不超过 95 美元，",
+   "published_at": 1795390674.0,
+   "published_bj": "2026-11-23 07:37"
+  },
+  {
+   "id": "6c50cf1b7fa88638",
+   "source": "IT之家",
+   "title": "美国达美航空系统故障，致亚特兰大机场数百航班延误",
+   "url": "https://www.ithome.com/1/030/728.htm",
+   "summary": "IT之家 11 月 23 日消息，据新华社今日报道，美国达美航空公司技术系统出现故障，导致 22 日进出亚特兰大国际机场的数百个航班出现延误。 美国联邦航空管理局发布的信息显示，达美航空飞往亚特兰大国际机场的航班 平均延误近一个小时 ，涉及约 20 个航线控制中心。 达美航空公司表示， 航班延误是由于其重量与平衡自动化系统出现故障 。公司正与空管部门协调，采取措施防止在亚特兰大国际机场登机口和停机坪区域出现拥堵。当天上午，达美航空通过人工方式安排航班起飞，同时继续努力恢复自动化系统。 根据航班追踪网站发布的数据，截至美东时间 22 日 11 时，有 681 个进出亚特兰大国际机场的航班出现延误",
+   "published_at": 1795390521.0,
+   "published_bj": "2026-11-23 07:35"
+  },
+  {
+   "id": "e90bac88e7d098fe",
+   "source": "少数派",
+   "title": "派早报：Anthropic 研究员宣称用 Claude 证明黎曼猜想",
+   "url": "https://sspai.com/post/119418",
+   "summary": "Anthropic 研究员宣称用 Claude 证明黎曼猜想 OpenAI 公布反蒸馏举措 黄仁勋据称将攻击下属作为管理方式 GTA 6 首日销售额近 40 亿美元 特斯拉升级 FSD，推出实景渲染功能 AMD 股票被做空 看看就行的简讯 少数派的近期动态 你可能错过的好文章 查看全文",
+   "published_at": 1795390467.0,
+   "published_bj": "2026-11-23 07:34"
+  },
+  {
+   "id": "08fed15f676aa915",
+   "source": "IT之家",
+   "title": "Mozilla 指责苹果阻止真正的 Firefox 浏览器登陆 iPhone，称现有 App 无法直接抛弃 WebKit",
+   "url": "https://www.ithome.com/1/030/727.htm",
+   "summary": "IT之家 11 月 23 日消息，Mozilla 前天（11 月 20 日）发布声明，指责苹果长期阻碍真正的 Firefox 火狐浏览器登陆 iPhone。 据IT之家了解，Firefox 的 iOS 版使用 WebKit 引擎，而非 Mozilla 自主开发的 Gecko 引擎。 Mozilla 表示，即使欧盟《数字市场法案》和日本《智能手机软件竞争促进法》已要求苹果调整政策，但 iOS 的现行限制仍让人难以接受。 例如公司无法通过更新现有 Firefox 的方式 ， 直接将 WebKit 内核替换为 Gecko 。因为按照苹果的要求， 公司必须单独开发新浏览器并分发一个全新 App 。 这",
+   "published_at": 1795390220.0,
+   "published_bj": "2026-11-23 07:30"
+  },
+  {
+   "id": "0060dd52d3f13829",
+   "source": "IT之家",
+   "title": "2027 款福特烈马将于广州车展上市，新增大海道版本",
+   "url": "https://www.ithome.com/1/030/726.htm",
+   "summary": "IT之家 11 月 23 日消息，据易车 11 月 22 日报道，2027 款福特烈马将在广州车展正式上市。新车新增烈马大海道版本，与荒地版形成两条差异化的外观与越野套件路线。 大海道版以红色车身搭配撞色白顶 ，车身侧面印有大号 BRONCO 拉花，配银黑双色防脱越野轮毂与全地形 AT 胎，面向户外穿越、打卡出行；荒地版采用纯黑车身与黑银配色防脱轮毂，整体风格低调硬核，可城可野。 两款车型保留圆形复古大灯、贯穿式 BRONCO 字母格栅、方盒子车身、可拆卸车顶、外挂式后备胎与宽大黑色轮眉。座舱延续烈马粗犷实用的布局，中控台保留大量实体按键与顶部控制开关，便于越野时盲操作，可拆卸门板与防水易清洁",
+   "published_at": 1795390063.0,
+   "published_bj": "2026-11-23 07:27"
+  },
+  {
+   "id": "72fb49804bab26fd",
+   "source": "IT之家",
+   "title": "IT早报 1123：菲尔兹奖得主谈“AI 攻克黎曼猜想”仍需解决关键思路；特斯拉新功能堪比 GTA6；张雪机车计划明年推外卖电摩；国漫斗破苍穹九年长篇完结...",
+   "url": "https://www.ithome.com/1/030/725.htm",
+   "summary": "“IT早报”时间，大家好，现在是 2026 年 11 月 23 日星期一，今天的重要科技资讯有： 1. 菲尔兹奖得主梅纳德谈“AI 攻克黎曼猜想”：相信证明正确，但成果被人理解、才可能得到认可 Lean 与 Mathlib 社区发布联合声明，以 Lean 库形式给出的黎曼猜想证明已经通过核验，该证明的代码约 1700 万行。&gt;&gt; 查看详情 2. 特斯拉 FSD v15 全新实景视图引热议，消息称是在硬件劣势的情况做了 3D 高斯全场景重建 特斯拉 11 月 22 日宣布在美国市场推出 FSD v15，带来了全新可视化界面 ——“Tesla Reality View”。据博主 @旌旗",
+   "published_at": 1795389871.0,
+   "published_bj": "2026-11-23 07:24"
+  },
+  {
+   "id": "35e3870279d32e4a",
+   "source": "cnBeta",
+   "title": "《GTA6》Metacritic用户分降至5.6分 部分人没玩过游戏",
+   "url": "https://www.cnbeta.com.tw/articles/game/1587526.htm",
+   "summary": "《GTA6/侠盗猎车6》开放Metacritic用户评价后，用户评分迅速下滑。截至相关信息整理时，该作用户分为5.6分，约44%的评价属于负面。 阅读全文",
+   "published_at": 1795389732.0,
+   "published_bj": "2026-11-23 07:22"
+  },
+  {
+   "id": "eb527601409046e8",
+   "source": "cnBeta",
+   "title": "OpenAI首席科学家警告：AI最快2027年实现自我进化",
+   "url": "https://www.cnbeta.com.tw/articles/tech/1587524.htm",
+   "summary": "11月23日，据彭博社报道，OpenAI首席科学家雅库布·帕霍茨基(Jakub Pachocki)提议，AI公司应同意限制开发越来越强大的模型，直到研究人员找到更好的方法来理解和监控这些模型的行为。 阅读全文",
+   "published_at": 1795389692.0,
+   "published_bj": "2026-11-23 07:21"
+  },
+  {
+   "id": "ff0088b029f37ef8",
+   "source": "IT之家",
+   "title": "马斯克被曝悄悄开发菲律宾岛屿，具体位置未披露",
+   "url": "https://www.ithome.com/1/030/724.htm",
+   "summary": "IT之家 11 月 23 日消息，菲律宾驻美大使何塞 · 曼努埃尔 · 罗穆亚尔德斯透露，埃隆 · 马斯克可能正在菲律宾开发“一两座”岛屿。他表示，马斯克近期常低调访问菲律宾，对当地表现出浓厚兴趣。截至IT之家发稿，相关话题已登上微博热搜。 罗穆亚尔德斯于 11 月 19 日接受菲律宾 ANC 新闻频道采访时透露，马斯克于当地时间 11 月 18 日上午 11 时 30 分左右乘坐私人飞机抵达马尼拉。 罗穆亚尔德斯称，马斯克没有参加美国总统特朗普在菲律宾的正式活动，而是在机场等待特朗普，随后陪同其前往深圳参加亚太经合组织（APEC）相关活动。 谈及马斯克与菲律宾的关系，罗穆亚尔德斯表示：“据我",
+   "published_at": 1795389676.0,
+   "published_bj": "2026-11-23 07:21"
+  },
+  {
+   "id": "c7b6f64af37a1c87",
+   "source": "cnBeta",
+   "title": "从拒绝马斯克到掌管Anthropic 这对兄妹的故事比AI更离奇",
+   "url": "https://www.cnbeta.com.tw/articles/tech/1587522.htm",
+   "summary": "11月23日，据《华尔街日报》报道，在Anthropic完成创纪录的首次公开募股（IPO）后，创始人达里奥·阿莫迪（Dario Amodei）与妹妹丹妮拉·阿莫迪（Daniela Amodei）成为硅谷最受关注的兄妹组合之一。 阅读全文",
+   "published_at": 1795389672.0,
+   "published_bj": "2026-11-23 07:21"
+  },
+  {
+   "id": "bdf93d38ad32fe1a",
+   "source": "cnBeta",
+   "title": "英伟达应从“外部”寻找CEO？美财长态度反转 不排除黄仁勋回归",
+   "url": "https://www.cnbeta.com.tw/articles/tech/1587520.htm",
+   "summary": "11月23日，据《金融时报》报道，美国财政部长斯科特·贝森特(Scott Bessent)暗示，他不反对黄仁勋重返英伟达。就在一周前，他还曾呼吁英伟达董事会进行“大幅改组”，并从公司“外部”寻找新的CEO。 阅读全文",
+   "published_at": 1795389647.0,
+   "published_bj": "2026-11-23 07:20"
+  },
+  {
+   "id": "926b25b4c554f3f5",
+   "source": "IT之家",
+   "title": "涉案金额超 3 亿元，北京查处首例区块链虚拟货币新型协助传销案",
+   "url": "https://www.ithome.com/1/030/723.htm",
+   "summary": "IT之家 11 月 23 日消息，据央视新闻今日报道，日前，北京首例利用区块链、虚拟货币技术为传销活动提供协助的违法案件被查处， 涉案金额超 3 亿元人民币 。 据报道，涉案科技公司是某公链的外包服务商，提供运营、市场推广、交易所对接和维护等服务。该公链推出多款理财项目，兜售相关虚拟货币，以高额收益回报为诱饵，售出价值人民币超 3 亿元的虚拟货币。 北京市海淀区市场监管综合执法大队执法人员胡日露表示，该公司光是质押母币的收益就已高达 年化 20 个点以上 ，子币的收益可能更高，远远超过 20%。相关推荐会更多宣扬技术，“在技术水平的掩饰之下，会让大家觉得自己是在参与一个高科技企业的投资”。 经",
+   "published_at": 1795389387.0,
+   "published_bj": "2026-11-23 07:16"
+  },
+  {
+   "id": "7083ab63dd2f0af4",
+   "source": "IT之家",
+   "title": "微软计划 2027 年将 Wi-Fi 驱动移出 Win11 内核，降低蓝屏风险",
+   "url": "https://www.ithome.com/1/030/722.htm",
+   "summary": "IT之家 11 月 23 日消息，据科技媒体 Windows Latest 今天报道，微软计划于 2027 年将 Wi-Fi 驱动从 Win11 内核迁移至用户模式，降低驱动程序故障导致整个系统崩溃的风险。这项调整是微软「驱动质量计划」（DQI）的一部分， 旨在减少内核模式驱动的使用 ， 提升 Win11 稳定性和安全性 。 微软 Windows 产品经理 Mehmet Kucukgoz 在 Ignite 2026 大会确认开发上述方案，预计 2027 年推出。作为参考，Windows 目前会将 Wi-Fi 驱动运行在内核模式下，一旦驱动出现兼容性问题或在系统更新后故障，就可能引发蓝屏。例如，",
+   "published_at": 1795389253.0,
+   "published_bj": "2026-11-23 07:14"
+  },
+  {
+   "id": "42a49fe03efe0cd4",
+   "source": "IT之家",
+   "title": "郑州“7·6”火灾调查报告公布：非法改装电摩入户充电，锂电池爆燃引发事故致 5 人死亡",
+   "url": "https://www.ithome.com/1/030/721.htm",
+   "summary": "IT之家 11 月 23 日消息，郑州市消防救援支队于 11 月 20 日晚发布了《郑州市惠济区和昌珑悦小区“7·6”较大火灾事故调查报告》。 郑州市人民政府事故调查组认定，这起造成 5 人死亡、1 人受伤的火灾，是一起由电动摩托车非法改装、违规进楼入户充电、锂电池热失控后爆燃直接引发的责任事故。事故过火面积约 15 平方米，直接经济损失 530.75 万元。 调查显示，该电动摩托车（小牛 N Play）最初由商丘的刘某鸣（不满 14 岁）要求线下门店进行改装，此后经过四次私下转卖，于 2026 年 6 月 14 日转入代某辉（15 岁）手中。改装内容涉及电池与车辆电气系统，为后续的电池热失控",
+   "published_at": 1795389191.0,
+   "published_bj": "2026-11-23 07:13"
+  },
+  {
+   "id": "5b2ac834ee580af9",
+   "source": "Hacker News",
+   "title": "Progress map for the Lean formalization of Alessandro Masullo's manuscript",
+   "url": "https://claude.ai/artifact/CtQyX8qfYAF822bgHJHHE3",
+   "summary": "Article URL: https://claude.ai/artifact/CtQyX8qfYAF822bgHJHHE3 Comments URL: https://news.ycombinator.com/item?id=50605045 Points: 156 # Comments: 131",
+   "published_at": 1795389130.0,
+   "published_bj": "2026-11-23 07:12"
+  },
+  {
+   "id": "210005aee5840bd1",
+   "source": "Hacker News",
+   "title": "GL.iNet Security Notice 2026-11-20",
+   "url": "https://www.gl-inet.com/en-us/blogs/blog/glinet-security-notice-2026-11-20",
+   "summary": "Article URL: https://www.gl-inet.com/en-us/blogs/blog/glinet-security-notice-2026-11-20 Comments URL: https://news.ycombinator.com/item?id=50604988 Points: 90 # Comments: 40",
+   "published_at": 1795388797.0,
+   "published_bj": "2026-11-23 07:06"
+  },
+  {
+   "id": "74c3c926b995dcd0",
+   "source": "IT之家",
+   "title": "OpenAI 首席科学家警告：AI 最早可能在 2027 年加速自身发展，奥尔特曼赞同为 AI 开发设限",
+   "url": "https://www.ithome.com/1/030/720.htm",
+   "summary": "IT之家 11 月 23 日消息，当地时间于 11 月 22 日，OpenAI 首席科学家雅库布 · 帕霍茨基（Jakub Pachocki）发文，提议 AI 企业应建立行业统一标准，对先进 AI 模型的开发设置共同限制，在研究人员具备更可靠的模型行为理解和监控能力之前，不应突破约定的发展门槛。 他认为，传统 AI 能力评测基准会随着技术进步迅速过时，而困惑度（Perplexity）可以作为衡量模型预训练进展的参考指标（困惑度用于衡量 AI 模型预测下一个文本 Token 的能力，数值越低，代表模型的预测能力越强）。 帕霍茨基还公布了 OpenAI 内部使用的部分模型评测数据：GPT-3.5 ",
+   "published_at": 1795387846.0,
+   "published_bj": "2026-11-23 06:50"
+  },
+  {
+   "id": "87829a42e6b112d3",
+   "source": "IT之家",
+   "title": "古尔曼：苹果准备在明年 2 月至 3 月 iOS 27.4 周期中推出入门级 iPad、iPhone 18e 和全新 MacBook Neo",
+   "url": "https://www.ithome.com/1/030/719.htm",
+   "summary": "IT之家 11 月 23 日消息，彭博社记者马克 · 古尔曼昨晚发布了最新一期 Power On 新闻通讯，分析了苹果在 AI Agent 竞争中的处境，并披露了苹果 2027 年上半年的部分新品计划。 IT之家此前报道，苹果正在招聘负责 Agentic AI 项目的高级工程管理人员，招聘描述涉及跨应用操作、网页浏览、命令执行及代码编写和调试等能力。 古尔曼认为，苹果在 AI Agent 竞争中面临的主要问题并非缺乏资金或技术资源，而是传统软硬件开发模式已经难以适应 AI 行业快速迭代的节奏。 他指出，苹果过去依靠生态系统建立了竞争优势。用户在 iCloud 中存储邮件、联系人、照片和视频，同",
+   "published_at": 1795387346.0,
+   "published_bj": "2026-11-23 06:42"
+  },
+  {
+   "id": "51644ec6ad8f7141",
+   "source": "Hacker News",
+   "title": "Localcode, open source agentic coding on your Mac with one command",
+   "url": "https://github.com/mjwsolo/localcode",
+   "summary": "Article URL: https://github.com/mjwsolo/localcode Comments URL: https://news.ycombinator.com/item?id=50604540 Points: 23 # Comments: 5",
+   "published_at": 1795385928.0,
+   "published_bj": "2026-11-23 06:18"
+  },
+  {
+   "id": "5fe2b343cb7c452b",
+   "source": "Hacker News",
+   "title": "The Usefulness of Useless Knowledge [pdf] (1939)",
+   "url": "https://www.ias.edu/sites/default/files/library/UsefulnessHarpers.pdf",
+   "summary": "Article URL: https://www.ias.edu/sites/default/files/library/UsefulnessHarpers.pdf Comments URL: https://news.ycombinator.com/item?id=50604472 Points: 66 # Comments: 12",
+   "published_at": 1795385458.0,
+   "published_bj": "2026-11-23 06:10"
+  },
+  {
+   "id": "18bd91e6d8253805",
+   "source": "TechCrunch",
+   "title": "‘You Can See Everything’ has made more than $100M worldwide",
+   "url": "https://techcrunch.com/2026/11/22/you-can-see-everything-has-made-more-than-100m-worldwide/",
+   "summary": "The new Elizabeth Holmes documentary is just beginning to roll out internationally.",
+   "published_at": 1795383768.0,
+   "published_bj": "2026-11-23 05:42"
+  },
+  {
+   "id": "74a8dc94252bb00b",
+   "source": "Hacker News",
+   "title": "The struggle for freedom: How BSD escaped AT&T licensing",
+   "url": "https://fosscomics.com/posts/16.%20BSD%20Unix%20Part%206%20-%20The%20Struggle%20for%20Freedom/",
+   "summary": "Article URL: https://fosscomics.com/posts/16.%20BSD%20Unix%20Part%206%20-%20The%20Struggle%20for%20Freedom/ Comments URL: https://news.ycombinator.com/item?id=50604123 Points: 47 # Comments: 14",
+   "published_at": 1795383192.0,
+   "published_bj": "2026-11-23 05:33"
+  },
   {
    "id": "f9bb4766c7be453e",
    "source": "cnBeta",
@@ -20,6 +587,15 @@
    "summary": "To establish a speed limit on AI development, you need to agree on how to measure speed.",
    "published_at": 1795382047.0,
    "published_bj": "2026-11-23 05:14"
+  },
+  {
+   "id": "48a5d9ecda5982fa",
+   "source": "Hacker News",
+   "title": "Will the first approved psychedelic become a blockbuster?",
+   "url": "https://www.pharmavoice.com/news/race-first-psilocybin-blockbuster-compass-usona/875270/",
+   "summary": "Article URL: https://www.pharmavoice.com/news/race-first-psilocybin-blockbuster-compass-usona/875270/ Comments URL: https://news.ycombinator.com/item?id=50603962 Points: 28 # Comments: 24",
+   "published_at": 1795381990.0,
+   "published_bj": "2026-11-23 05:13"
   },
   {
    "id": "5dbfa5366d86c2c9",
@@ -65,6 +641,15 @@
    "summary": "一款名为LiberNT的Windows替代操作系统正在受到关注。开发团队近日表示，将很快公布该系统与Windows 11的性能对比测试结果，这有望让外界更清楚地了解项目的实际进展，以及其自研图形实现与微软官方系统之间的差距。 阅读全文",
    "published_at": 1795381382.0,
    "published_bj": "2026-11-23 05:03"
+  },
+  {
+   "id": "ee69aa9204302f75",
+   "source": "Hacker News",
+   "title": "A Beginner's Guide to Local AI with Inkling, Qwen, and Unsloth",
+   "url": "https://www.gpupartner.com/blog/beginners-guide-local-ai-inkling-qwen-unsloth",
+   "summary": "Article URL: https://www.gpupartner.com/blog/beginners-guide-local-ai-inkling-qwen-unsloth Comments URL: https://news.ycombinator.com/item?id=50603845 Points: 246 # Comments: 94",
+   "published_at": 1795381276.0,
+   "published_bj": "2026-11-23 05:01"
   },
   {
    "id": "c494eae3ba20b597",
@@ -121,6 +706,15 @@
    "published_bj": "2026-11-23 03:51"
   },
   {
+   "id": "87e12d78c2f38462",
+   "source": "Hacker News",
+   "title": "Assume People Are Not Interested in Your Blog Post",
+   "url": "https://danielsada.tech/blog/assume-people-are-not-interested-in-your-blog-post/",
+   "summary": "Article URL: https://danielsada.tech/blog/assume-people-are-not-interested-in-your-blog-post/ Comments URL: https://news.ycombinator.com/item?id=50603143 Points: 63 # Comments: 33",
+   "published_at": 1795376490.0,
+   "published_bj": "2026-11-23 03:41"
+  },
+  {
    "id": "a3bf5cd637c04631",
    "source": "Hacker News",
    "title": "What Happened to Silicon Valley?",
@@ -164,6 +758,15 @@
    "summary": "Journalist Paris Marx unpacks his new book \"Hyperscale.\"",
    "published_at": 1795370923.0,
    "published_bj": "2026-11-23 02:08"
+  },
+  {
+   "id": "2425f6c93edcb9bb",
+   "source": "Hacker News",
+   "title": "Harvard CS 2881R AI Safety",
+   "url": "https://boazbk.github.io/mltheoryseminar/",
+   "summary": "Article URL: https://boazbk.github.io/mltheoryseminar/ Comments URL: https://news.ycombinator.com/item?id=50602153 Points: 44 # Comments: 5",
+   "published_at": 1795370514.0,
+   "published_bj": "2026-11-23 02:01"
   },
   {
    "id": "f6b1bde7bdfa5bd8",
