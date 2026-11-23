@@ -1,8 +1,26 @@
 {
  "date": "2026-11-24",
- "generated_at": 1795423142.102576,
- "count": 1,
+ "generated_at": 1795432532.889509,
+ "count": 3,
  "items": [
+  {
+   "id": "2461d721788e1534",
+   "source": "InfoQ中文",
+   "title": "构建主权 AI 技术栈：开放权重、前沿模型与企业控制平面",
+   "url": "https://www.infoq.cn/video/pZRYMTB7olLHTR3BuxaB?utm_source=rss&utm_medium=article",
+   "summary": "点击查看原文>",
+   "published_at": 1795460920.0,
+   "published_bj": "2026-11-24 03:08"
+  },
+  {
+   "id": "86274dfbba1c78a3",
+   "source": "InfoQ中文",
+   "title": "Java 近期新闻：TornadoVM、A2A Java、Open Liberty、Open J Proxy、Gradle、EclipseStore",
+   "url": "https://www.infoq.cn/article/7912LtESaQAFaci2lFor?utm_source=rss&utm_medium=article",
+   "summary": "点击查看原文>",
+   "published_at": 1795453200.0,
+   "published_bj": "2026-11-24 01:00"
+  },
   {
    "id": "3192bb60abf612c3",
    "source": "InfoQ中文",
