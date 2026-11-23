@@ -1,0 +1,246 @@
+{
+ "type": "today",
+ "date": "2026-11-23",
+ "window": {
+  "start_ts": 1795363200.0,
+  "end_ts": 1795395600.0
+ },
+ "generated_at": 1795423144.333036,
+ "generator": "action",
+ "news_count": 13,
+ "keywords": [
+  "全部",
+  "公司",
+  "安全",
+  "或許",
+  "日本",
+  "航空"
+ ],
+ "points": [
+  {
+   "text": "【航空】Anthropic公司或許已解決重大數學難題：黎曼猜想",
+   "keyword": "航空",
+   "news_ids": [
+    "d085cfc3ac7969e1"
+   ],
+   "refs": [
+    {
+     "id": "d085cfc3ac7969e1",
+     "title": "Anthropic公司或許已解決重大數學難題：黎曼猜想",
+     "source": "BBC中文",
+     "url": "https://www.bbc.com/zhongwen/articles/cwe85gr487dno/trad?at_medium=RSS&at_campaign=rss",
+     "published_at": 1795392659.0
+    }
+   ]
+  },
+  {
+   "text": "【安全】中新网11月23日电 据伊拉克沙法克通讯社报道，当地时间22日，伊拉克国家安全局在一份声明中表示，在伊东部迪亚拉省的一次行动中，打死了极端组织“",
+   "keyword": "安全",
+   "news_ids": [
+    "ee9e529cd80f2268"
+   ],
+   "refs": [
+    {
+     "id": "ee9e529cd80f2268",
+     "title": "外媒：伊拉克安全部队打死极端组织“伊斯兰国”一头目",
+     "source": "中新网要闻",
+     "url": "https://www.chinanews.com.cn/gj/2026/11-23/10736231.shtml",
+     "published_at": 1795390640.0
+    }
+   ]
+  },
+  {
+   "text": "【日本】中新网11月23日电 综合日媒报道，近期，日本文部科学大臣关芳弘因邀请政府部门工作人员出席政治筹款活动等问题持续受到质疑，朝野要求其辞职的声音不",
+   "keyword": "日本",
+   "news_ids": [
+    "c966220a4f333541"
+   ],
+   "refs": [
+    {
+     "id": "c966220a4f333541",
+     "title": "日本文部科学大臣丑闻不断发酵 朝野要求其辞职声音扩大",
+     "source": "中新网要闻",
+     "url": "https://www.chinanews.com.cn/gj/2026/11-23/10736238.shtml",
+     "published_at": 1795392536.0
+    }
+   ]
+  },
+  {
+   "text": "今天，国家数据局、教育部宣布成立全国数据职业教育教学指导委员会，实施数据领域高技能人才集群培养计划等系列行动计划",
+   "keyword": "",
+   "news_ids": [
+    "4a64a131ee824425"
+   ],
+   "refs": [
+    {
+     "id": "4a64a131ee824425",
+     "title": "两部门：实施数据领域高技能人才集群培养计划",
+     "source": "中新网要闻",
+     "url": "https://www.chinanews.com.cn/edu/2026/11-23/10736240.shtml",
+     "published_at": 1795392892.0
+    }
+   ]
+  },
+  {
+   "text": "說唱歌手出身的尼泊爾新總理沙哈首訪印度，盼重啟關係並爭取山洪重建援助，但邊界爭議與經驗不足成考驗",
+   "keyword": "",
+   "news_ids": [
+    "2882bcdfb658b229"
+   ],
+   "refs": [
+    {
+     "id": "2882bcdfb658b229",
+     "title": "說唱歌手出身尼泊爾新總理首訪印度：如何平衡對華關係",
+     "source": "BBC中文",
+     "url": "https://www.bbc.com/zhongwen/articles/c64gn9jl5lveo/trad?at_medium=RSS&at_campaign=rss",
+     "published_at": 1795392594.0
+    }
+   ]
+  },
+  {
+   "text": "又到候鸟南迁时节，近10万只候鸟迁飞到深圳湾滩涂越冬，好不热闹",
+   "keyword": "",
+   "news_ids": [
+    "9882d22a8f2890de"
+   ],
+   "refs": [
+    {
+     "id": "9882d22a8f2890de",
+     "title": "城市也要容得下野生动物",
+     "source": "中新网要闻",
+     "url": "https://www.chinanews.com.cn/sh/2026/11-23/10736234.shtml",
+     "published_at": 1795391435.0
+    }
+   ]
+  },
+  {
+   "text": "报考国考的考生注意了，今起可打印准考证，打印时间为11月23日0:00至11月29日15:00",
+   "keyword": "",
+   "news_ids": [
+    "08809c50aaf55289"
+   ],
+   "refs": [
+    {
+     "id": "08809c50aaf55289",
+     "title": "今起可打印准考证！2027国考考生注意了→",
+     "source": "中新网要闻",
+     "url": "https://www.chinanews.com.cn/sh/2026/11-23/10736229.shtml",
+     "published_at": 1795390070.0
+    }
+   ]
+  },
+  {
+   "text": "随着气温持续走低，您家里的暖气热起来了吗？作为我国南方首个核能供热示范工程所在地，浙江嘉兴海盐县本周正式开启供暖",
+   "keyword": "",
+   "news_ids": [
+    "5b354286f02b8b0b"
+   ],
+   "refs": [
+    {
+     "id": "5b354286f02b8b0b",
+     "title": "零碳暖流”、AI控温 核能供暖是一种什么样的体验",
+     "source": "中新网要闻",
+     "url": "https://www.chinanews.com.cn/cj/2026/11-23/10736219.shtml",
+     "published_at": 1795386351.0
+    }
+   ]
+  }
+ ],
+ "article": {
+  "title": "2026-11-23 新闻总结",
+  "paragraphs": [
+   {
+    "kind": "lead",
+    "text": "今天共收录 13 条新闻，来自 2 家媒体。把标题放在一起看，讨论主要集中在 安全、公司 这几个方向上，其余消息更像是零散补充。"
+   },
+   {
+    "kind": "section",
+    "heading": "公司",
+    "text": "先看「公司」。Anthropic公司或許已解決重大數學難題，另有 2 条消息指向同一话题。这条消息短期内的实际影响可能有限，但它指向的方向值得放进观察名单。",
+    "news_ids": [
+     "d085cfc3ac7969e1"
+    ],
+    "refs": [
+     {
+      "id": "d085cfc3ac7969e1",
+      "title": "Anthropic公司或許已解決重大數學難題：黎曼猜想",
+      "source": "BBC中文",
+      "url": "https://www.bbc.com/zhongwen/articles/cwe85gr487dno/trad?at_medium=RSS&at_campaign=rss",
+      "published_at": 1795392659.0
+     }
+    ]
+   },
+   {
+    "kind": "section",
+    "heading": "安全",
+    "text": "与此同时「安全」。中新网11月23日电 据伊拉克沙法克通讯社报道，当地时间22日，伊拉克国家安全局在一份声明中表示，在伊东部迪亚拉省的一次行动中，另有 2 条消息指向同一话题。这类问题很少是单点失误，更常见的是权限设计和应急流程一起出了漏洞。",
+    "news_ids": [
+     "ee9e529cd80f2268"
+    ],
+    "refs": [
+     {
+      "id": "ee9e529cd80f2268",
+      "title": "外媒：伊拉克安全部队打死极端组织“伊斯兰国”一头目",
+      "source": "中新网要闻",
+      "url": "https://www.chinanews.com.cn/gj/2026/11-23/10736231.shtml",
+      "published_at": 1795390640.0
+     }
+    ]
+   },
+   {
+    "kind": "section",
+    "heading": "日本文部科学大臣丑闻不断发酵 朝",
+    "text": "另一个值得注意的方向是「日本文部科学大臣丑闻不断发酵 朝」。中新网11月23日电 综合日媒报道，近期，日本文部科学大臣关芳弘因邀请政府部门工作人员出席政治筹款活动等问题持续受到质疑，另有 1 条消息指向同一话题。单看一条新闻容易高估影响，放到最近几周的脉络里，它更像是一个渐进变化中的节点。",
+    "news_ids": [
+     "c966220a4f333541"
+    ],
+    "refs": [
+     {
+      "id": "c966220a4f333541",
+      "title": "日本文部科学大臣丑闻不断发酵 朝野要求其辞职声音扩大",
+      "source": "中新网要闻",
+      "url": "https://www.chinanews.com.cn/gj/2026/11-23/10736238.shtml",
+      "published_at": 1795392536.0
+     }
+    ]
+   },
+   {
+    "kind": "section",
+    "heading": "数据",
+    "text": "相比之下「数据」。今天，国家数据局、教育部宣布成立全国数据职业教育教学指导委员会。这条消息短期内的实际影响可能有限，但它指向的方向值得放进观察名单。",
+    "news_ids": [
+     "4a64a131ee824425"
+    ],
+    "refs": [
+     {
+      "id": "4a64a131ee824425",
+      "title": "两部门：实施数据领域高技能人才集群培养计划",
+      "source": "中新网要闻",
+      "url": "https://www.chinanews.com.cn/edu/2026/11-23/10736240.shtml",
+      "published_at": 1795392892.0
+     }
+    ]
+   },
+   {
+    "kind": "glossary",
+    "items": [
+     {
+      "term": "AI",
+      "desc": "人工智能，让机器完成识别、生成、判断等原本需要人做的任务"
+     }
+    ]
+   },
+   {
+    "kind": "outlook",
+    "text": "把这几条放在一起看，最值得跟踪的是 安全 和 公司 两条线：一条决定技术能走多远，一条决定它多快能落到普通人的日常里。至于其他消息，可以先放进观察名单，等后续有更实的进展再判断。"
+   }
+  ],
+  "word_count": 571
+ },
+ "ai_enhanced": false,
+ "schema": 1,
+ "window_bj": {
+  "start": "2026-11-23 00:00",
+  "end": "2026-11-23 09:00"
+ }
+}

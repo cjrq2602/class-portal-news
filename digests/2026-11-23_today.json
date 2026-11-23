@@ -1,0 +1,370 @@
+{
+ "type": "today",
+ "date": "2026-11-23",
+ "window": {
+  "start_ts": 1795363200.0,
+  "end_ts": 1795395600.0
+ },
+ "generated_at": 1795423144.2204843,
+ "generator": "action",
+ "news_count": 70,
+ "keywords": [
+  "ai",
+  "the",
+  "苹果",
+  "of",
+  "to",
+  "iphone",
+  "openai",
+  "gta6",
+  "and",
+  "开发"
+ ],
+ "points": [
+  {
+   "text": "【ai】To establish a speed limit on AI development, you need to agree on how t",
+   "keyword": "ai",
+   "news_ids": [
+    "0976e25485d824fe"
+   ],
+   "refs": [
+    {
+     "id": "0976e25485d824fe",
+     "title": "OpenAI’s chief scientist has thoughts on how to limit AI development",
+     "source": "TechCrunch",
+     "url": "https://techcrunch.com/2026/11/22/openais-chief-scientist-has-thoughts-on-how-to-limit-ai-development/",
+     "published_at": 1795382047.0
+    }
+   ]
+  },
+  {
+   "text": "【ai】IT之家 11 月 23 日消息，苹果今年 5 月同意支付 2.5 亿美元 （IT之家注：现汇率约合 16.73 亿元人民币） ，以和解一起涉及",
+   "keyword": "ai",
+   "news_ids": [
+    "e101026379139cb8"
+   ],
+   "refs": [
+    {
+     "id": "e101026379139cb8",
+     "title": "苹果 Siri AI 集体诉讼案和解：符合条件的 iPhone 预计每台可获赔至少 61 美元",
+     "source": "IT之家",
+     "url": "https://www.ithome.com/1/030/729.htm",
+     "published_at": 1795390674.0
+    }
+   ]
+  },
+  {
+   "text": "【ai】IT之家 11 月 23 日消息，当地时间于 11 月 22 日，OpenAI 首席科学家雅库布 · 帕霍茨基（Jakub Pachocki）发",
+   "keyword": "ai",
+   "news_ids": [
+    "74c3c926b995dcd0"
+   ],
+   "refs": [
+    {
+     "id": "74c3c926b995dcd0",
+     "title": "OpenAI 首席科学家警告：AI 最早可能在 2027 年加速自身发展，奥尔特曼赞同为 AI 开发设限",
+     "source": "IT之家",
+     "url": "https://www.ithome.com/1/030/720.htm",
+     "published_at": 1795387846.0
+    }
+   ]
+  },
+  {
+   "text": "【游戏】GTA6/侠盗猎车6》开放Metacritic用户评价后，用户评分迅速下滑",
+   "keyword": "游戏",
+   "news_ids": [
+    "35e3870279d32e4a"
+   ],
+   "refs": [
+    {
+     "id": "35e3870279d32e4a",
+     "title": "GTA6》Metacritic用户分降至5.6分 部分人没玩过游戏",
+     "source": "cnBeta",
+     "url": "https://www.cnbeta.com.tw/articles/game/1587526.htm",
+     "published_at": 1795389732.0
+    }
+   ]
+  },
+  {
+   "text": "【ai】IT早报”时间，大家好，现在是 2026 年 11 月 23 日星期一，今天的重要科技资讯有： 1. 菲尔兹奖得主梅纳德谈“AI 攻克黎曼猜想”",
+   "keyword": "ai",
+   "news_ids": [
+    "72fb49804bab26fd"
+   ],
+   "refs": [
+    {
+     "id": "72fb49804bab26fd",
+     "title": "IT早报 1123：菲尔兹奖得主谈“AI 攻克黎曼猜想”仍需解决关键思路；特斯拉新功能堪比 GTA6；张雪机车计划明年推外卖电摩；国漫斗破苍穹九年长篇完结...",
+     "source": "IT之家",
+     "url": "https://www.ithome.com/1/030/725.htm",
+     "published_at": 1795389871.0
+    }
+   ]
+  },
+  {
+   "text": "【ai】Article URL: https://www",
+   "keyword": "ai",
+   "news_ids": [
+    "ee69aa9204302f75"
+   ],
+   "refs": [
+    {
+     "id": "ee69aa9204302f75",
+     "title": "A Beginner's Guide to Local AI with Inkling, Qwen, and Unsloth",
+     "source": "Hacker News",
+     "url": "https://www.gpupartner.com/blog/beginners-guide-local-ai-inkling-qwen-unsloth",
+     "published_at": 1795381276.0
+    }
+   ]
+  },
+  {
+   "text": "【微软】IT之家 11 月 23 日消息，据新华社今日报道，美国达美航空公司技术系统出现故障，导致 22 日进出亚特兰大国际机场的数百个航班出现延误",
+   "keyword": "微软",
+   "news_ids": [
+    "6c50cf1b7fa88638"
+   ],
+   "refs": [
+    {
+     "id": "6c50cf1b7fa88638",
+     "title": "美国达美航空系统故障，致亚特兰大机场数百航班延误",
+     "source": "IT之家",
+     "url": "https://www.ithome.com/1/030/728.htm",
+     "published_at": 1795390521.0
+    }
+   ]
+  },
+  {
+   "text": "IT之家 11 月 23 日消息，哔哩哔哩在昨晚举行的 2026—2027 年国创动画作品发布会上宣布，《三体短篇集：平行之境》将于 2026 ",
+   "keyword": "",
+   "news_ids": [
+    "7149918474def871"
+   ],
+   "refs": [
+    {
+     "id": "7149918474def871",
+     "title": "B站《三体短篇集：平行之境》动画定档 12 月 23 日：六个独立短片组成，聚焦危机下的普通人",
+     "source": "IT之家",
+     "url": "https://www.ithome.com/1/030/743.htm",
+     "published_at": 1795395428.0
+    }
+   ]
+  },
+  {
+   "text": "IT之家 11 月 23 日消息，中科宇航宣布，近日，该公司力箭二号遥三、遥四运载火箭按计划并行开展总装工作，各工序流转顺畅、推进有序",
+   "keyword": "",
+   "news_ids": [
+    "26b07d5b884fe540"
+   ],
+   "refs": [
+    {
+     "id": "26b07d5b884fe540",
+     "title": "中科宇航力箭二号运载火箭进入多发并行总装阶段，批量化生产体系迈上新台阶",
+     "source": "IT之家",
+     "url": "https://www.ithome.com/1/030/742.htm",
+     "published_at": 1795395309.0
+    }
+   ]
+  },
+  {
+   "text": "IT之家 11 月 23 日消息，据央视新闻报道，今早 7 时 30 分左右，正式开启商业首航的第二艘国产大型邮轮“爱达 · 花城号”顺利抵达香",
+   "keyword": "",
+   "news_ids": [
+    "bde5259e56d19558"
+   ],
+   "refs": [
+    {
+     "id": "bde5259e56d19558",
+     "title": "我国第二艘国产大型邮轮“爱达 · 花城号”首航抵达香港",
+     "source": "IT之家",
+     "url": "https://www.ithome.com/1/030/740.htm",
+     "published_at": 1795394916.0
+    }
+   ]
+  },
+  {
+   "text": "IT之家 11 月 23 日消息，小米米家智能嵌入式洗碗机灶下 13 套今日开售，支持 75℃ 高温煮洗、可洗红酒杯，新品首发价 2599 元",
+   "keyword": "",
+   "news_ids": [
+    "6feac3f9181126d4"
+   ],
+   "refs": [
+    {
+     "id": "6feac3f9181126d4",
+     "title": "小米米家智能嵌入式洗碗机灶下 13 套开售：支持 75℃ 高温煮洗、可洗红酒杯，2599 元",
+     "source": "IT之家",
+     "url": "https://www.ithome.com/1/030/739.htm",
+     "published_at": 1795394703.0
+    }
+   ]
+  },
+  {
+   "text": "IT之家 11 月 23 日消息，哔哩哔哩在 2026~2027 年国创动画作品发布会上宣布，将与六道无鱼动画工作室再次合作，把《雾山五行》第三",
+   "keyword": "",
+   "news_ids": [
+    "053a02ca5a7d7da5"
+   ],
+   "refs": [
+    {
+     "id": "053a02ca5a7d7da5",
+     "title": "雾山五行 · 封界大战》院线电影公开：坚持手绘，档期待定",
+     "source": "IT之家",
+     "url": "https://www.ithome.com/1/030/736.htm",
+     "published_at": 1795394055.0
+    }
+   ]
+  },
+  {
+   "text": "IT之家 11 月 23 日消息，据 Tom's Hardware 报道，英特尔 CEO 陈立武在 11 月 19 日举行的 TomorrowX",
+   "keyword": "",
+   "news_ids": [
+    "b1571f40cffb3b3a"
+   ],
+   "refs": [
+    {
+     "id": "b1571f40cffb3b3a",
+     "title": "陈立武：英特尔 18A 制程良率达 70%，下一代 14A 计划 2028 年量产",
+     "source": "IT之家",
+     "url": "https://www.ithome.com/1/030/734.htm",
+     "published_at": 1795393101.0
+    }
+   ]
+  },
+  {
+   "text": "IT之家 11 月 23 日消息，据路透社 11 月 21 日报道，印度主要反对党国大党的青年团近日因不满旗下成员的 Instagram 账号遭",
+   "keyword": "",
+   "news_ids": [
+    "aa879bf8cbd898e6"
+   ],
+   "refs": [
+    {
+     "id": "aa879bf8cbd898e6",
+     "title": "不满 Instagram 账号被封，印度反对党在 Meta 多地办事处示威并与警方冲突",
+     "source": "IT之家",
+     "url": "https://www.ithome.com/1/030/732.htm",
+     "published_at": 1795392319.0
+    }
+   ]
+  },
+  {
+   "text": "IT之家 11 月 23 日消息，《英雄联盟》赛事今日官宣，2026 全球总决赛 LPL 纪录片《风起今朝》将于 12 月在B站播出，首支预告短",
+   "keyword": "",
+   "news_ids": [
+    "1263f5d2a935ee2e"
+   ],
+   "refs": [
+    {
+     "id": "1263f5d2a935ee2e",
+     "title": "BLG 连斩 4 支韩国队夺冠，《英雄联盟》S16 中国 LPL 纪录片《风起今朝》12 月播出",
+     "source": "IT之家",
+     "url": "https://www.ithome.com/1/030/731.htm",
+     "published_at": 1795391764.0
+    }
+   ]
+  }
+ ],
+ "article": {
+  "title": "2026-11-23 新闻总结",
+  "paragraphs": [
+   {
+    "kind": "lead",
+    "text": "今天共收录 70 条新闻，来自 6 家媒体。把标题放在一起看，讨论主要集中在 AI、开发、游戏 这几个方向上，其余消息更像是零散补充。"
+   },
+   {
+    "kind": "section",
+    "heading": "AI",
+    "text": "先看「AI」。IT之家 11 月 23 日消息，苹果今年 5 月同意支付 2.5 亿美元 （IT之家注：现汇率约合 16.73 亿元人民币），另有 10 条消息指向同一话题。这条消息短期内的实际影响可能有限，但它指向的方向值得放进观察名单。",
+    "news_ids": [
+     "e101026379139cb8"
+    ],
+    "refs": [
+     {
+      "id": "e101026379139cb8",
+      "title": "苹果 Siri AI 集体诉讼案和解：符合条件的 iPhone 预计每台可获赔至少 61 美元",
+      "source": "IT之家",
+      "url": "https://www.ithome.com/1/030/729.htm",
+      "published_at": 1795390674.0
+     }
+    ]
+   },
+   {
+    "kind": "section",
+    "heading": "开发",
+    "text": "与此同时「开发」。IT之家 11 月 23 日消息，当地时间于 11 月 22 日，OpenAI 首席科学家雅库布 · 帕霍茨基（Jakub Pachocki）发文，另有 3 条消息指向同一话题。对读者来说，值得留意的不是结论本身，而是它背后哪些前提正在被改变。",
+    "news_ids": [
+     "74c3c926b995dcd0"
+    ],
+    "refs": [
+     {
+      "id": "74c3c926b995dcd0",
+      "title": "OpenAI 首席科学家警告：AI 最早可能在 2027 年加速自身发展，奥尔特曼赞同为 AI 开发设限",
+      "source": "IT之家",
+      "url": "https://www.ithome.com/1/030/720.htm",
+      "published_at": 1795387846.0
+     }
+    ]
+   },
+   {
+    "kind": "section",
+    "heading": "游戏",
+    "text": "另一个值得注意的方向是「游戏」。GTA6/侠盗猎车6》开放Metacritic用户评价后，另有 7 条消息指向同一话题。价格和生态往往比硬件规格更能决定一款产品能不能留下来。",
+    "news_ids": [
+     "35e3870279d32e4a"
+    ],
+    "refs": [
+     {
+      "id": "35e3870279d32e4a",
+      "title": "GTA6》Metacritic用户分降至5.6分 部分人没玩过游戏",
+      "source": "cnBeta",
+      "url": "https://www.cnbeta.com.tw/articles/game/1587526.htm",
+      "published_at": 1795389732.0
+     }
+    ]
+   },
+   {
+    "kind": "section",
+    "heading": "外卖",
+    "text": "相比之下「外卖」。IT早报”时间，大家好，现在是 2026 年 11 月 23 日星期一，今天的重要科技资讯有： 1. 菲尔兹奖得主梅纳德谈“AI 攻克黎曼猜想”：相信证明正确，但成果被人理解，另有 5 条消息指向同一话题。对读者来说，值得留意的不是结论本身，而是它背后哪些前提正在被改变。",
+    "news_ids": [
+     "72fb49804bab26fd"
+    ],
+    "refs": [
+     {
+      "id": "72fb49804bab26fd",
+      "title": "IT早报 1123：菲尔兹奖得主谈“AI 攻克黎曼猜想”仍需解决关键思路；特斯拉新功能堪比 GTA6；张雪机车计划明年推外卖电摩；国漫斗破苍穹九年长篇完结...",
+      "source": "IT之家",
+      "url": "https://www.ithome.com/1/030/725.htm",
+      "published_at": 1795389871.0
+     }
+    ]
+   },
+   {
+    "kind": "glossary",
+    "items": [
+     {
+      "term": "AI",
+      "desc": "人工智能，让机器完成识别、生成、判断等原本需要人做的任务"
+     },
+     {
+      "term": "半导体",
+      "desc": "制造芯片的材料产业，处在整个电子工业的上游"
+     },
+     {
+      "term": "区块链",
+      "desc": "把数据按块链接、由多方共同维护的账本技术"
+     }
+    ]
+   },
+   {
+    "kind": "outlook",
+    "text": "把这几条放在一起看，最值得跟踪的是 AI 和 开发 两条线：一条决定技术能走多远，一条决定它多快能落到普通人的日常里。至于其他消息，可以先放进观察名单，等后续有更实的进展再判断。"
+   }
+  ],
+  "word_count": 639
+ },
+ "ai_enhanced": false,
+ "schema": 1,
+ "window_bj": {
+  "start": "2026-11-23 00:00",
+  "end": "2026-11-23 09:00"
+ }
+}
