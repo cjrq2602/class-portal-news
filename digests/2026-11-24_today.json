@@ -1,0 +1,382 @@
+{
+ "type": "today",
+ "date": "2026-11-24",
+ "window": {
+  "start_ts": 1795449600.0,
+  "end_ts": 1795482000.0
+ },
+ "generated_at": 1795516993.209343,
+ "generator": "action",
+ "news_count": 88,
+ "keywords": [
+  "ai",
+  "仁勋",
+  "黄仁",
+  "伟达",
+  "英伟",
+  "the",
+  "to",
+  "huang",
+  "for",
+  "is"
+ ],
+ "points": [
+  {
+   "text": "【ai】英伟达恢复黄仁勋总裁兼首席执行官职务、并立即生效后，人工智能相关公司的股价大涨",
+   "keyword": "ai",
+   "news_ids": [
+    "62be92163de21f6c"
+   ],
+   "refs": [
+    {
+     "id": "62be92163de21f6c",
+     "title": "黄仁勋复职带动AI相关股票普涨 英伟达市值数小时增逾1万亿美元",
+     "source": "cnBeta",
+     "url": "https://www.cnbeta.com.tw/articles/tech/1587698.htm",
+     "published_at": 1795450871.0
+    }
+   ]
+  },
+  {
+   "text": "【ai】Amazon is acquiring Decart’s AI optimization technology and research tea",
+   "keyword": "ai",
+   "news_ids": [
+    "3c94fb6641a52447"
+   ],
+   "refs": [
+    {
+     "id": "3c94fb6641a52447",
+     "title": "Amazon snaps up Decart’s AI optimization tech for $7.5B as it prepares to sell Trainium chips",
+     "source": "TechCrunch",
+     "url": "https://techcrunch.com/2026/11/23/amazon-snaps-up-decarts-ai-optimization-tech-for-7-5b-as-it-prepares-to-sell-trainium-chips/",
+     "published_at": 1795454063.0
+    }
+   ]
+  },
+  {
+   "text": "【the】The public hearing follows bipartisan calls for Huang to testify about t",
+   "keyword": "the",
+   "news_ids": [
+    "47120117274b938a"
+   ],
+   "refs": [
+    {
+     "id": "47120117274b938a",
+     "title": "Jensen Huang scheduled to testify next week in Senate following reinstatement as Nvidia CEO",
+     "source": "TechCrunch",
+     "url": "https://techcrunch.com/2026/11/23/jensen-huang-scheduled-to-testify-next-week-in-senate-following-reinstatement-as-nvidia-ceo/",
+     "published_at": 1795457542.0
+    }
+   ]
+  },
+  {
+   "text": "【ai】As AI-generated code piles up, Anthropic's new developer tools aim to el",
+   "keyword": "ai",
+   "news_ids": [
+    "0854a4358fbd0cec"
+   ],
+   "refs": [
+    {
+     "id": "0854a4358fbd0cec",
+     "title": "Anthropic launches Claude Ship, letting AI agents review, fix, and approve code changes",
+     "source": "TechCrunch",
+     "url": "https://techcrunch.com/2026/11/23/anthropic-launches-claude-ship-letting-ai-agents-review-fix-and-approve-code-changes/",
+     "published_at": 1795471550.0
+    }
+   ]
+  },
+  {
+   "text": "【ai】IT之家 11 月 24 日消息，据《首尔经济日报》今日报道，三星电子计划将位于中国陕西西安的半导体工厂打造成面向人工智能（AI）数据中心企业级",
+   "keyword": "ai",
+   "news_ids": [
+    "7ebdf4c8432b4cbe"
+   ],
+   "refs": [
+    {
+     "id": "7ebdf4c8432b4cbe",
+     "title": "三星拟扩大西安工厂先进 NAND 产能、升级 V9 闪存产线，扩大面向 AI 数据中心的 eSSD 供应",
+     "source": "IT之家",
+     "url": "https://www.ithome.com/1/031/258.htm",
+     "published_at": 1795477956.0
+    }
+   ]
+  },
+  {
+   "text": "【苹果】IT之家 11 月 24 日消息，据科技媒体 Appleinsider 昨天报道，Mozilla、Shopify 等多家企业和民间组织向欧盟委员",
+   "keyword": "苹果",
+   "news_ids": [
+    "d49914f1d0ecedf4"
+   ],
+   "refs": [
+    {
+     "id": "d49914f1d0ecedf4",
+     "title": "Mozilla、Shopify 等企业要求欧盟委员会施压苹果，彻底开放 iOS 系统第三方浏览器引擎",
+     "source": "IT之家",
+     "url": "https://www.ithome.com/1/031/265.htm",
+     "published_at": 1795480323.0
+    }
+   ]
+  },
+  {
+   "text": "【三星】IT之家 11 月 24 日消息，法国媒体 Dealabs Magazine 今天（11 月 24 日）发布博文，爆料称三星健身手环 Galax",
+   "keyword": "三星",
+   "news_ids": [
+    "ba3383dc82323330"
+   ],
+   "refs": [
+    {
+     "id": "ba3383dc82323330",
+     "title": "涨价约 14%：三星健身手环 Galaxy Fit4 在法国售价曝光，预估无缘非接触式支付",
+     "source": "IT之家",
+     "url": "https://www.ithome.com/1/031/263.htm",
+     "published_at": 1795479732.0
+    }
+   ]
+  },
+  {
+   "text": "IT之家 11 月 24 日消息，OpenAI 今日宣布 GPT-6.2 Sol 正式登陆 ChatGPT 聊天页面，在此前于 ChatGPT ",
+   "keyword": "",
+   "news_ids": [
+    "9d5b2a38b3ad3633"
+   ],
+   "refs": [
+    {
+     "id": "9d5b2a38b3ad3633",
+     "title": "OpenAI 宣布 GPT-6.2 Sol 登陆 ChatGPT，而 GPT-5.6 Sol、Terra 将于 12 月 23 日退役",
+     "source": "IT之家",
+     "url": "https://www.ithome.com/1/031/271.htm",
+     "published_at": 1795481341.0
+    }
+   ]
+  },
+  {
+   "text": "IT之家 11 月 24 日消息，国家能源局 11 月 23 日发布 1 至 10 月全社会用电量数据",
+   "keyword": "",
+   "news_ids": [
+    "fd1ec4c8b3b36a20"
+   ],
+   "refs": [
+    {
+     "id": "fd1ec4c8b3b36a20",
+     "title": "我国前 10 月全社会用电量同比增长 3.7%，全国互联网等数据服务业用电增速超 40%",
+     "source": "IT之家",
+     "url": "https://www.ithome.com/1/031/269.htm",
+     "published_at": 1795481184.0
+    }
+   ]
+  },
+  {
+   "text": "IT之家 11 月 24 日消息，据英国广播公司（BBC）报道，曾参与《侠盗猎车手 6》（GTA 6）早期泄露事件的黑客阿里昂 · 库尔塔伊（A",
+   "keyword": "",
+   "news_ids": [
+    "3418d77e5a1c2261"
+   ],
+   "refs": [
+    {
+     "id": "3418d77e5a1c2261",
+     "title": "GTA 6》泄露案黑客被判 7 年监禁：曾入侵 Rockstar 并泄露 90 段视频，获准附条件离开监狱",
+     "source": "IT之家",
+     "url": "https://www.ithome.com/1/031/267.htm",
+     "published_at": 1795480515.0
+    }
+   ]
+  },
+  {
+   "text": "IT之家 11 月 24 日消息，科技媒体 NeoWin 昨日（11 月 23 日）发布博文， 分享了一组在 Windows 11 系统上测试的",
+   "keyword": "",
+   "news_ids": [
+    "f4faf4281849da81"
+   ],
+   "refs": [
+    {
+     "id": "f4faf4281849da81",
+     "title": "微软酝酿改版 Edge 浏览器首次启动引导体验：大页面变小窗口，可导入谷歌账户数据",
+     "source": "IT之家",
+     "url": "https://www.ithome.com/1/031/266.htm",
+     "published_at": 1795480457.0
+    }
+   ]
+  },
+  {
+   "text": "IT之家 11 月 24 日消息，爆料者 Cyberleek 已于当地时间 11 月 23 日按照承诺放出了其此前声称泄露的《侠盗猎车手 6》（",
+   "keyword": "",
+   "news_ids": [
+    "addd042ef9d87ded"
+   ],
+   "refs": [
+    {
+     "id": "addd042ef9d87ded",
+     "title": "Cyberleek 补齐《GTA 6》Xbox 泄露版最后一块拼图：主程序 .exe 文件释出，开源 PC 移植项目接手",
+     "source": "IT之家",
+     "url": "https://www.ithome.com/1/031/264.htm",
+     "published_at": 1795479984.0
+    }
+   ]
+  },
+  {
+   "text": "IT之家 11 月 24 日消息，科技媒体 GSMArena 昨日（11 月 23 日）发布博文， 报道称摩托罗拉首款宽折叠手机 Razr Fl",
+   "keyword": "",
+   "news_ids": [
+    "46fbb9853cdfe3fd"
+   ],
+   "refs": [
+    {
+     "id": "46fbb9853cdfe3fd",
+     "title": "摩托罗拉首款宽折叠手机 Razr Flex 通过认证，15W 无线充电",
+     "source": "IT之家",
+     "url": "https://www.ithome.com/1/031/256.htm",
+     "published_at": 1795477466.0
+    }
+   ]
+  },
+  {
+   "text": "IT之家 11 月 24 日消息，瑞典厂商 Teenage Engineering 现已推出复古 CD 播放器 EP / BC-1",
+   "keyword": "",
+   "news_ids": [
+    "3ab6de3e32e917bd"
+   ],
+   "refs": [
+    {
+     "id": "3ab6de3e32e917bd",
+     "title": "Teenage Engineering 推出复古 CD 播放器 EP / BC-1，可选配模块化扬声器",
+     "source": "IT之家",
+     "url": "https://www.ithome.com/1/031/255.htm",
+     "published_at": 1795477063.0
+    }
+   ]
+  },
+  {
+   "text": "IT之家 11 月 24 日消息，红魔 12 Pro+ 全新「氘锋透明冰蓝」配色将于 11 月 24 日 10:00 正式开售，16GB+512",
+   "keyword": "",
+   "news_ids": [
+    "3f1b45e72e1c5a3a"
+   ],
+   "refs": [
+    {
+     "id": "3f1b45e72e1c5a3a",
+     "title": "红魔 12 Pro+ 氘锋透明冰蓝今日开售：16GB+512GB 版 7499 元",
+     "source": "IT之家",
+     "url": "https://www.ithome.com/1/031/254.htm",
+     "published_at": 1795476873.0
+    }
+   ]
+  }
+ ],
+ "article": {
+  "title": "2026-11-24 新闻总结",
+  "paragraphs": [
+   {
+    "kind": "lead",
+    "text": "今天共收录 88 条新闻，来自 6 家媒体。把标题放在一起看，讨论主要集中在 AI、企业 这几个方向上，其余消息更像是零散补充。"
+   },
+   {
+    "kind": "section",
+    "heading": "AI",
+    "text": "先看「AI」。英伟达恢复黄仁勋总裁兼首席执行官职务、并立即生效后，另有 13 条消息指向同一话题。资本动作往往领先产品一年，值得盯的不是金额，而是钱最后花向了算力、场景还是补贴。",
+    "news_ids": [
+     "62be92163de21f6c"
+    ],
+    "refs": [
+     {
+      "id": "62be92163de21f6c",
+      "title": "黄仁勋复职带动AI相关股票普涨 英伟达市值数小时增逾1万亿美元",
+      "source": "cnBeta",
+      "url": "https://www.cnbeta.com.tw/articles/tech/1587698.htm",
+      "published_at": 1795450871.0
+     }
+    ]
+   },
+   {
+    "kind": "section",
+    "heading": "升级",
+    "text": "与此同时「升级」。据英国《金融时报》报道，戴尔、慧与、联想和超微等主要服务器厂商，被指在与客户就AI服务器采购价格达成初步协议后，另有 19 条消息指向同一话题。从节奏上看，行业已经从「能不能做」转向「做得便不便宜」，这通常意味着竞争会更务实。",
+    "news_ids": [
+     "a246a2b6cb000bb6"
+    ],
+    "refs": [
+     {
+      "id": "a246a2b6cb000bb6",
+      "title": "AI服务器价格争议升级 戴尔、慧与、联想及超微被指在签约后大幅加价",
+      "source": "cnBeta",
+      "url": "https://www.cnbeta.com.tw/articles/tech/1587722.htm",
+      "published_at": 1795462870.0
+     }
+    ]
+   },
+   {
+    "kind": "section",
+    "heading": "IPO",
+    "text": "另一个值得注意的方向是「IPO」。IT之家 11 月 24 日消息，当地时间 11 月 23 日，美国证券交易委员会（SEC）披露的 Form 4 文件显示，另有 4 条消息指向同一话题。资本动作往往领先产品一年，值得盯的不是金额，而是钱最后花向了算力、场景还是补贴。",
+    "news_ids": [
+     "a1798814da0e00fd"
+    ],
+    "refs": [
+     {
+      "id": "a1798814da0e00fd",
+      "title": "Anthropic CEO 达里奥 · 阿莫代伊出售 337.8 万股股票，IPO 当天套现约 2.8 亿美元",
+      "source": "IT之家",
+      "url": "https://www.ithome.com/1/031/253.htm",
+      "published_at": 1795476576.0
+     }
+    ]
+   },
+   {
+    "kind": "section",
+    "heading": "数据中心",
+    "text": "相比之下「数据中心」。IT之家 11 月 24 日消息，据《首尔经济日报》今日报道，三星电子计划将位于中国陕西西安的半导体工厂打造成面向人工智能（AI）数据中心企业级固态硬盘（eSSD）的核心生产基地，另有 10 条消息指向同一话题。这类进展更像是把已有能力往工程化落地推了一步，真正的分水岭在于成本和可靠性能不能同时压下来。",
+    "news_ids": [
+     "7ebdf4c8432b4cbe"
+    ],
+    "refs": [
+     {
+      "id": "7ebdf4c8432b4cbe",
+      "title": "三星拟扩大西安工厂先进 NAND 产能、升级 V9 闪存产线，扩大面向 AI 数据中心的 eSSD 供应",
+      "source": "IT之家",
+      "url": "https://www.ithome.com/1/031/258.htm",
+      "published_at": 1795477956.0
+     }
+    ]
+   },
+   {
+    "kind": "glossary",
+    "items": [
+     {
+      "term": "AI",
+      "desc": "人工智能，让机器完成识别、生成、判断等原本需要人做的任务"
+     },
+     {
+      "term": "IPO",
+      "desc": "首次公开募股，公司第一次把股票卖给公众并上市"
+     },
+     {
+      "term": "Agent",
+      "desc": "智能体，能自己拆解任务、调用工具并连续执行的 AI 程序"
+     },
+     {
+      "term": "LLM",
+      "desc": "大语言模型，主打文字理解与生成，是「大模型」的同义词"
+     },
+     {
+      "term": "数据中心",
+      "desc": "集中放置服务器、供电与散热设施的大型机房"
+     },
+     {
+      "term": "半导体",
+      "desc": "制造芯片的材料产业，处在整个电子工业的上游"
+     }
+    ]
+   },
+   {
+    "kind": "outlook",
+    "text": "把这几条放在一起看，最值得跟踪的是 AI 和 企业 两条线：一条决定技术能走多远，一条决定它多快能落到普通人的日常里。至于其他消息，可以先放进观察名单，等后续有更实的进展再判断。"
+   }
+  ],
+  "word_count": 661
+ },
+ "ai_enhanced": false,
+ "schema": 1,
+ "window_bj": {
+  "start": "2026-11-24 00:00",
+  "end": "2026-11-24 09:00"
+ }
+}

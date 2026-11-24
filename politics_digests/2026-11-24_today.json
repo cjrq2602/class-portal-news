@@ -1,0 +1,282 @@
+{
+ "type": "today",
+ "date": "2026-11-24",
+ "window": {
+  "start_ts": 1795449600.0,
+  "end_ts": 1795482000.0
+ },
+ "generated_at": 1795516993.3394392,
+ "generator": "action",
+ "news_count": 18,
+ "keywords": [
+  "仁勳",
+  "黃仁",
+  "ai",
+  "不划",
+  "伟达",
+  "先分",
+  "分清",
+  "划不",
+  "划算",
+  "安全"
+ ],
+ "points": [
+  {
+   "text": "【不划】酒店包月当租房，正在成为一种新的生活方式",
+   "keyword": "不划",
+   "news_ids": [
+    "80696d1a41884dc6"
+   ],
+   "refs": [
+    {
+     "id": "80696d1a41884dc6",
+     "title": "月租”酒店划不划算？先分清“安居”与“旅居”",
+     "source": "中新网即时",
+     "url": "https://www.chinanews.com.cn/cj/2026/11-24/10736725.shtml",
+     "published_at": 1795450264.0
+    }
+   ]
+  },
+  {
+   "text": "【黃仁】黃仁勳離職僅11天便重掌英偉達，凸顯他對人工智能產業及美國經濟的重要性",
+   "keyword": "黃仁",
+   "news_ids": [
+    "8f4d1ed59428238f"
+   ],
+   "refs": [
+    {
+     "id": "8f4d1ed59428238f",
+     "title": "Nvidia和黃仁勳對美國經濟有多重要？",
+     "source": "BBC中文",
+     "url": "https://www.bbc.com/zhongwen/articles/cvwy0jx7nj84o/trad?at_medium=RSS&at_campaign=rss",
+     "published_at": 1795479842.0
+    }
+   ]
+  },
+  {
+   "text": "【ai】很多人都知道误食了毒蘑菇会中毒，于是就有不少人选择借助AI工具来识别",
+   "keyword": "ai",
+   "news_ids": [
+    "e79eff751d3db026"
+   ],
+   "refs": [
+    {
+     "id": "e79eff751d3db026",
+     "title": "真相来了丨极其不靠谱！用AI技术识别蘑菇是否有毒风险很高",
+     "source": "中新网要闻",
+     "url": "https://www.chinanews.com.cn/life/2026/11-24/10736731.shtml",
+     "published_at": 1795476226.0
+    }
+   ]
+  },
+  {
+   "text": "【伟达】中新网11月24日电 据美国有线电视新闻网(CNN)等美媒报道，当地时间23日，美国纽约股市三大股指大幅上涨",
+   "keyword": "伟达",
+   "news_ids": [
+    "2b3e670f48423cae"
+   ],
+   "refs": [
+    {
+     "id": "2b3e670f48423cae",
+     "title": "美媒：英伟达股价暴涨超31% 单日市值增加近1万亿美元",
+     "source": "中新网要闻",
+     "url": "https://www.chinanews.com.cn/gj/2026/11-24/10736728.shtml",
+     "published_at": 1795474398.0
+    }
+   ]
+  },
+  {
+   "text": "【安全】從實驗室試驗到終身的安全監測，疫苗在提供給民眾前後，都會經過多重檢驗",
+   "keyword": "安全",
+   "news_ids": [
+    "21929c63af7d0fbb"
+   ],
+   "refs": [
+    {
+     "id": "21929c63af7d0fbb",
+     "title": "我們如何知道疫苗安全？它們是如何經過測試？",
+     "source": "BBC中文",
+     "url": "https://www.bbc.com/zhongwen/articles/c6qj5772kl0go/trad?at_medium=RSS&at_campaign=rss",
+     "published_at": 1795480040.0
+    }
+   ]
+  },
+  {
+   "text": "【美國】身處人工智慧產業中心，舊金山的AI從業人員擔心該產業已經過熱",
+   "keyword": "美國",
+   "news_ids": [
+    "5e99a2b4ec75170f"
+   ],
+   "refs": [
+    {
+     "id": "5e99a2b4ec75170f",
+     "title": "美國六成AI風投資金湧入舊金山，但崩盤憂慮日益加深",
+     "source": "BBC中文",
+     "url": "https://www.bbc.com/zhongwen/articles/cmlyj36xxek1o/trad?at_medium=RSS&at_campaign=rss",
+     "published_at": 1795479879.0
+    }
+   ]
+  },
+  {
+   "text": "中新社华盛顿11月23日电 美国俄亥俄州首府哥伦布市当地时间23日早高峰时段发生一起巴士相撞的交通事故，导致2人遇难、9人受伤",
+   "keyword": "",
+   "news_ids": [
+    "b96f4127e0d82221"
+   ],
+   "refs": [
+    {
+     "id": "b96f4127e0d82221",
+     "title": "美国俄亥俄州巴士相撞致2亡9伤",
+     "source": "中新网要闻",
+     "url": "https://www.chinanews.com.cn/gj/2026/11-24/10736735.shtml",
+     "published_at": 1795479851.0
+    }
+   ]
+  },
+  {
+   "text": "中新社伦敦11月23日电 (记者 欧阳开宇)国际足联当地时间23日召开线上特别代表大会，正式确认英格兰、苏格兰、威尔士、北爱尔兰联合承办2035",
+   "keyword": "",
+   "news_ids": [
+    "41df799c89319b5f"
+   ],
+   "refs": [
+    {
+     "id": "41df799c89319b5f",
+     "title": "英国将承办2035年女足世界杯",
+     "source": "中新网要闻",
+     "url": "https://www.chinanews.com.cn/gj/2026/11-24/10736734.shtml",
+     "published_at": 1795479839.0
+    }
+   ]
+  },
+  {
+   "text": "中新网11月24日电 据路透社报道，当地时间23日，以色列对加沙发动多轮空袭，造成3人死亡，其中包括一名联合国近东巴勒斯坦难民救济和工程处(近东",
+   "keyword": "",
+   "news_ids": [
+    "fdd3ab70085bf3c6"
+   ],
+   "refs": [
+    {
+     "id": "fdd3ab70085bf3c6",
+     "title": "外媒：以军空袭加沙致3死 其中含1名联合国工作人员",
+     "source": "中新网要闻",
+     "url": "https://www.chinanews.com.cn/gj/2026/11-24/10736730.shtml",
+     "published_at": 1795475503.0
+    }
+   ]
+  },
+  {
+   "text": "每个人的生活都离不开电，你还记得上次停电是什么时候吗？中电联最新报告显示，2025年我国用户平均停电时间6.04小时，摊到365天，一天不到一分",
+   "keyword": "",
+   "news_ids": [
+    "d08dfe13b81687e1"
+   ],
+   "refs": [
+    {
+     "id": "d08dfe13b81687e1",
+     "title": "10毫秒决断，电网如何守护万家灯火？",
+     "source": "中新网要闻",
+     "url": "https://www.chinanews.com.cn/cj/2026/11-24/10736727.shtml",
+     "published_at": 1795474010.0
+    }
+   ]
+  }
+ ],
+ "article": {
+  "title": "2026-11-24 新闻总结",
+  "paragraphs": [
+   {
+    "kind": "lead",
+    "text": "今天共收录 18 条新闻，来自 3 家媒体。把标题放在一起看，讨论主要集中在 AI、安全、酒店 这几个方向上，其余消息更像是零散补充。"
+   },
+   {
+    "kind": "section",
+    "heading": "酒店",
+    "text": "先看「酒店」。酒店包月当租房，正在成为一种新的生活方式…，另有 1 条消息指向同一话题。这条消息短期内的实际影响可能有限，但它指向的方向值得放进观察名单。",
+    "news_ids": [
+     "80696d1a41884dc6"
+    ],
+    "refs": [
+     {
+      "id": "80696d1a41884dc6",
+      "title": "月租”酒店划不划算？先分清“安居”与“旅居”",
+      "source": "中新网即时",
+      "url": "https://www.chinanews.com.cn/cj/2026/11-24/10736725.shtml",
+      "published_at": 1795450264.0
+     }
+    ]
+   },
+   {
+    "kind": "section",
+    "heading": "Nvidia和黃仁勳對美國經濟有",
+    "text": "与此同时「Nvidia和黃仁勳對美國經濟有」。黃仁勳離職僅11天便重掌英偉達，凸顯他對人工智能產業及美國經濟的重要性…，另有 3 条消息指向同一话题。单看一条新闻容易高估影响，放到最近几周的脉络里，它更像是一个渐进变化中的节点。",
+    "news_ids": [
+     "8f4d1ed59428238f"
+    ],
+    "refs": [
+     {
+      "id": "8f4d1ed59428238f",
+      "title": "Nvidia和黃仁勳對美國經濟有多重要？",
+      "source": "BBC中文",
+      "url": "https://www.bbc.com/zhongwen/articles/cvwy0jx7nj84o/trad?at_medium=RSS&at_campaign=rss",
+      "published_at": 1795479842.0
+     }
+    ]
+   },
+   {
+    "kind": "section",
+    "heading": "AI",
+    "text": "另一个值得注意的方向是「AI」。很多人都知道误食了毒蘑菇会中毒，于是就有不少人选择借助AI工具来识别…，另有 1 条消息指向同一话题。这类进展更像是把已有能力往工程化落地推了一步，真正的分水岭在于成本和可靠性能不能同时压下来。",
+    "news_ids": [
+     "e79eff751d3db026"
+    ],
+    "refs": [
+     {
+      "id": "e79eff751d3db026",
+      "title": "真相来了丨极其不靠谱！用AI技术识别蘑菇是否有毒风险很高",
+      "source": "中新网要闻",
+      "url": "https://www.chinanews.com.cn/life/2026/11-24/10736731.shtml",
+      "published_at": 1795476226.0
+     }
+    ]
+   },
+   {
+    "kind": "section",
+    "heading": "股价",
+    "text": "相比之下「股价」。中新网11月24日电 据美国有线电视新闻网(CNN)等美媒报道，当地时间23日，另有 1 条消息指向同一话题。融资和估值只能说明市场情绪，能不能兑现，还要看下一两个季度的收入和留存。",
+    "news_ids": [
+     "2b3e670f48423cae"
+    ],
+    "refs": [
+     {
+      "id": "2b3e670f48423cae",
+      "title": "美媒：英伟达股价暴涨超31% 单日市值增加近1万亿美元",
+      "source": "中新网要闻",
+      "url": "https://www.chinanews.com.cn/gj/2026/11-24/10736728.shtml",
+      "published_at": 1795474398.0
+     }
+    ]
+   },
+   {
+    "kind": "glossary",
+    "items": [
+     {
+      "term": "AI",
+      "desc": "人工智能，让机器完成识别、生成、判断等原本需要人做的任务"
+     }
+    ]
+   },
+   {
+    "kind": "outlook",
+    "text": "把这几条放在一起看，最值得跟踪的是 AI 和 安全 两条线：一条决定技术能走多远，一条决定它多快能落到普通人的日常里。至于其他消息，可以先放进观察名单，等后续有更实的进展再判断。"
+   }
+  ],
+  "word_count": 560
+ },
+ "ai_enhanced": false,
+ "schema": 1,
+ "window_bj": {
+  "start": "2026-11-24 00:00",
+  "end": "2026-11-24 09:00"
+ }
+}
