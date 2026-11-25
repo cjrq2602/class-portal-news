@@ -1,0 +1,378 @@
+{
+ "type": "today",
+ "date": "2026-11-25",
+ "window": {
+  "start_ts": 1795536000.0,
+  "end_ts": 1795568400.0
+ },
+ "generated_at": 1795599482.4006915,
+ "generator": "action",
+ "news_count": 85,
+ "keywords": [
+  "ai",
+  "and",
+  "to",
+  "of",
+  "in",
+  "is",
+  "仁勋",
+  "黄仁",
+  "anthropic",
+  "from"
+ ],
+ "points": [
+  {
+   "text": "【ai】Next-generation data centers will need tens of gigawatts of power every ",
+   "keyword": "ai",
+   "news_ids": [
+    "76b7a7733114b77e"
+   ],
+   "refs": [
+    {
+     "id": "76b7a7733114b77e",
+     "title": "Why a Crusoe investor is betting on solar and batteries to power future AI data centers",
+     "source": "TechCrunch",
+     "url": "https://techcrunch.com/2026/11/24/why-a-crusoe-investor-is-betting-on-solar-and-batteries-to-power-future-ai-data-centers/",
+     "published_at": 1795536600.0
+    }
+   ]
+  },
+  {
+   "text": "【ai】IT之家 11 月 25 日消息，众所周知，部分 AI 智能体为了完成用户设定的任务近乎“不择手段”，堪比向克苏鲁许愿后发现对方是以某种扭曲的形",
+   "keyword": "ai",
+   "news_ids": [
+    "02c15d5e70b8709a"
+   ],
+   "refs": [
+    {
+     "id": "02c15d5e70b8709a",
+     "title": "Anthropic 推出 Siren 蜜罐系统：诱测 AI 智能体触发越界行为，发现新 Claude 仍有 21~32% 沙盒场景尝试越狱逃逸",
+     "source": "IT之家",
+     "url": "https://www.ithome.com/1/031/919.htm",
+     "published_at": 1795564969.0
+    }
+   ]
+  },
+  {
+   "text": "【ai】IT早报”时间，大家好，现在是 2026 年 11 月 25 日星期三，今天的重要科技资讯有： 1. 华为“发钱”了：鸿蒙一亿感恩有礼活动细则公",
+   "keyword": "ai",
+   "news_ids": [
+    "f11ef9544fdcebdc"
+   ],
+   "refs": [
+    {
+     "id": "f11ef9544fdcebdc",
+     "title": "IT早报 1125：最高 883 元用一天鸿蒙奖 1 元；黄仁勋承认多段婚外情并向英伟达董事会致歉；12999 元起华为 Mate X8 折叠屏发布；曝豆包灰测购物一级入口...",
+     "source": "IT之家",
+     "url": "https://www.ithome.com/1/031/912.htm",
+     "published_at": 1795562431.0
+    }
+   ]
+  },
+  {
+   "text": "【and】Iran is the chief suspect behind the dozens of cyberattacks targeting oi",
+   "keyword": "and",
+   "news_ids": [
+    "13d8a23c5317fa3e"
+   ],
+   "refs": [
+    {
+     "id": "13d8a23c5317fa3e",
+     "title": "Dozens of oil and shipping tankers hacked in recent weeks, per report",
+     "source": "TechCrunch",
+     "url": "https://techcrunch.com/2026/11/24/dozens-of-oil-and-shipping-tankers-hacked-in-recent-weeks-per-report/",
+     "published_at": 1795554544.0
+    }
+   ]
+  },
+  {
+   "text": "【ai】The company said it will still accept songs that were made with AI assis",
+   "keyword": "ai",
+   "news_ids": [
+    "354b7ba7c3f49a2a"
+   ],
+   "refs": [
+    {
+     "id": "354b7ba7c3f49a2a",
+     "title": "Tidal to ban and remove millions of AI-generated tracks as AI slop inundates music streaming",
+     "source": "TechCrunch",
+     "url": "https://techcrunch.com/2026/11/24/tidal-to-ban-and-remove-millions-of-ai-generated-tracks-as-ai-slop-inundates-music-streaming/",
+     "published_at": 1795538760.0
+    }
+   ]
+  },
+  {
+   "text": "【ai】The startup's encrypted AI architecture is designed to prevent even the ",
+   "keyword": "ai",
+   "news_ids": [
+    "0332cf87ac72a974"
+   ],
+   "refs": [
+    {
+     "id": "0332cf87ac72a974",
+     "title": "Maple raises $5.3M to build AI products that protect your data, even from itself",
+     "source": "TechCrunch",
+     "url": "https://techcrunch.com/2026/11/24/maple-raises-5-3m-to-build-ai-products-that-protect-your-data-even-from-itself/",
+     "published_at": 1795555192.0
+    }
+   ]
+  },
+  {
+   "text": "【ai】IT之家 11 月 25 日消息，谷歌 Chrome 开发者团队今日在 X 平台发文，公开支持 Firefox 浏览器开发商 Mozilla 此",
+   "keyword": "ai",
+   "news_ids": [
+    "094ebe39f5aa36e2"
+   ],
+   "refs": [
+    {
+     "id": "094ebe39f5aa36e2",
+     "title": "谷歌 Chrome 开发者力挺 Firefox、炮轰苹果：iOS 浏览器引擎选择形同虚设",
+     "source": "IT之家",
+     "url": "https://www.ithome.com/1/031/921.htm",
+     "published_at": 1795565900.0
+    }
+   ]
+  },
+  {
+   "text": "【发布】IT之家 11 月 25 日消息，美国前 OpenAI 工程师阿卜杜勒拉赫曼 · 阿尔福赞（Abdulrahman Alfozan）因涉嫌在 O",
+   "keyword": "发布",
+   "news_ids": [
+    "f71c0e680cd3cb71"
+   ],
+   "refs": [
+    {
+     "id": "f71c0e680cd3cb71",
+     "title": "交 100 万美元保释金 + 戴电子脚镣，OpenAI 窃听案嫌犯获准保释",
+     "source": "IT之家",
+     "url": "https://www.ithome.com/1/031/909.htm",
+     "published_at": 1795561572.0
+    }
+   ]
+  },
+  {
+   "text": "IT之家 11 月 25 日消息，索泰现已在官网公布 Zbox QU27N4000 迷你主机的参数信息",
+   "keyword": "",
+   "news_ids": [
+    "2b9ae4220280d942"
+   ],
+   "refs": [
+    {
+     "id": "2b9ae4220280d942",
+     "title": "索泰公布 Zbox QU27N4000 迷你主机：酷睿 Ultra 7 255HX 处理器 +RTX Pro 4000 Laptop 显卡",
+     "source": "IT之家",
+     "url": "https://www.ithome.com/1/031/930.htm",
+     "published_at": 1795567251.0
+    }
+   ]
+  },
+  {
+   "text": "IT之家 11 月 25 日消息，今天，神舟二十四号载人飞船与火箭成功分离，进入预定轨道，航天员乘组状态良好，发射取得圆满成功",
+   "keyword": "",
+   "news_ids": [
+    "1b78d44542ed1690"
+   ],
+   "refs": [
+    {
+     "id": "1b78d44542ed1690",
+     "title": "日出神箭耀东方：神舟二十四号载人飞船与火箭成功分离进入预定轨道，发射取得圆满成功",
+     "source": "IT之家",
+     "url": "https://www.ithome.com/1/031/929.htm",
+     "published_at": 1795567203.0
+    }
+   ]
+  },
+  {
+   "text": "IT之家 11 月 25 日消息，据《央视社会与法》报道，今年 5 月发生的一起交通事故现已宣判",
+   "keyword": "",
+   "news_ids": [
+    "1bde9cc6eeffc6f6"
+   ],
+   "refs": [
+    {
+     "id": "1bde9cc6eeffc6f6",
+     "title": "男子开辅助驾驶巡航后低头玩手机撞死见义勇为救人者：获刑一年九个月，赔偿 200 余万元",
+     "source": "IT之家",
+     "url": "https://www.ithome.com/1/031/928.htm",
+     "published_at": 1795567143.0
+    }
+   ]
+  },
+  {
+   "text": "IT之家 11 月 25 日消息，晨曦微露，朝霞漫天，北京时间 11 月 25 日 08 时 18 分 49 秒，神舟二十四号载人飞船搭乘长征二",
+   "keyword": "",
+   "news_ids": [
+    "50936b155a0b0d90"
+   ],
+   "refs": [
+    {
+     "id": "50936b155a0b0d90",
+     "title": "首次中外联合飞行“神舟二十四号”发射升空：汤洪波三赴“天宫”，巴基斯坦载荷专家短期驻留",
+     "source": "IT之家",
+     "url": "https://www.ithome.com/1/031/923.htm",
+     "published_at": 1795565954.0
+    }
+   ]
+  },
+  {
+   "text": "IT之家 11 月 25 日消息，虽然索尼此前曾宣传《GTA 6》“在 PS5 上体验最佳”，但实测结果并不支持这一说法",
+   "keyword": "",
+   "news_ids": [
+    "a0222fa1b944d318"
+   ],
+   "refs": [
+    {
+     "id": "a0222fa1b944d318",
+     "title": "数毛社实测《GTA 6》称索尼 PS5 Pro > 微软 Xbox Series X > PS5",
+     "source": "IT之家",
+     "url": "https://www.ithome.com/1/031/922.htm",
+     "published_at": 1795565924.0
+    }
+   ]
+  },
+  {
+   "text": "IT之家 11 月 25 日消息，据科技媒体 Windows Latest 今天报道，微软近期低调公布了 Win11 系统的内存优化成果",
+   "keyword": "",
+   "news_ids": [
+    "c81c353525e64a49"
+   ],
+   "refs": [
+    {
+     "id": "c81c353525e64a49",
+     "title": "微软承认 Win11 系统自带应用曾悄悄占用近 900MB 内存，如今已优化",
+     "source": "IT之家",
+     "url": "https://www.ithome.com/1/031/918.htm",
+     "published_at": 1795564638.0
+    }
+   ]
+  },
+  {
+   "text": "IT之家 11 月 25 日消息，NASA 确认，其两项火星探测任务在近几周相继出现技术故障，已暂停科学探测工作",
+   "keyword": "",
+   "news_ids": [
+    "db8f359792cad3ee"
+   ],
+   "refs": [
+    {
+     "id": "db8f359792cad3ee",
+     "title": "NASA 两项火星探测任务因故障暂停：毅力号通信异常、奥德赛号剩余肼燃料仅够维持一两个月",
+     "source": "IT之家",
+     "url": "https://www.ithome.com/1/031/908.htm",
+     "published_at": 1795561258.0
+    }
+   ]
+  }
+ ],
+ "article": {
+  "title": "2026-11-25 新闻总结",
+  "paragraphs": [
+   {
+    "kind": "lead",
+    "text": "今天共收录 85 条新闻，来自 6 家媒体。把标题放在一起看，讨论主要集中在 AI、发布、推出 这几个方向上，其余消息更像是零散补充。"
+   },
+   {
+    "kind": "section",
+    "heading": "AI",
+    "text": "先看「AI」。IT之家 11 月 25 日消息，众所周知，部分 AI 智能体为了完成用户设定的任务近乎“不择手段”，另有 22 条消息指向同一话题。这类进展更像是把已有能力往工程化落地推了一步，真正的分水岭在于成本和可靠性能不能同时压下来。",
+    "news_ids": [
+     "02c15d5e70b8709a"
+    ],
+    "refs": [
+     {
+      "id": "02c15d5e70b8709a",
+      "title": "Anthropic 推出 Siren 蜜罐系统：诱测 AI 智能体触发越界行为，发现新 Claude 仍有 21~32% 沙盒场景尝试越狱逃逸",
+      "source": "IT之家",
+      "url": "https://www.ithome.com/1/031/919.htm",
+      "published_at": 1795564969.0
+     }
+    ]
+   },
+   {
+    "kind": "section",
+    "heading": "发布",
+    "text": "与此同时「发布」。IT早报”时间，大家好，现在是 2026 年 11 月 25 日星期三，今天的重要科技资讯有： 1. 华为“发钱”了：鸿蒙一亿感恩有礼活动细则公开，设备使用一天 = 100 积分，另有 7 条消息指向同一话题。技术路线的胜负很少由一次发布会决定，接下来要看的是它能不能被更多团队低成本复用。",
+    "news_ids": [
+     "f11ef9544fdcebdc"
+    ],
+    "refs": [
+     {
+      "id": "f11ef9544fdcebdc",
+      "title": "IT早报 1125：最高 883 元用一天鸿蒙奖 1 元；黄仁勋承认多段婚外情并向英伟达董事会致歉；12999 元起华为 Mate X8 折叠屏发布；曝豆包灰测购物一级入口...",
+      "source": "IT之家",
+      "url": "https://www.ithome.com/1/031/912.htm",
+      "published_at": 1795562431.0
+     }
+    ]
+   },
+   {
+    "kind": "section",
+    "heading": "开发",
+    "text": "另一个值得注意的方向是「开发」。IT之家 11 月 25 日消息，谷歌 Chrome 开发者团队今日在 X 平台发文，另有 1 条消息指向同一话题。从节奏上看，行业已经从「能不能做」转向「做得便不便宜」，这通常意味着竞争会更务实。",
+    "news_ids": [
+     "094ebe39f5aa36e2"
+    ],
+    "refs": [
+     {
+      "id": "094ebe39f5aa36e2",
+      "title": "谷歌 Chrome 开发者力挺 Firefox、炮轰苹果：iOS 浏览器引擎选择形同虚设",
+      "source": "IT之家",
+      "url": "https://www.ithome.com/1/031/921.htm",
+      "published_at": 1795565900.0
+     }
+    ]
+   },
+   {
+    "kind": "section",
+    "heading": "利润",
+    "text": "相比之下「利润」。IT之家 11 月 25 日消息，惠普今日发布 2026 财年（2025 年 11 月 1 日～2026 年 10 月 31 日）全年及第四财季（2026 年 8 月 1 日～20…，另有 2 条消息指向同一话题。这类进展更像是把已有能力往工程化落地推了一步，真正的分水岭在于成本和可靠性能不能同时压下来。",
+    "news_ids": [
+     "a66d3adfc8012883"
+    ],
+    "refs": [
+     {
+      "id": "a66d3adfc8012883",
+      "title": "惠普 2026 财年全年归母净利润 24.25 亿美元，同比下降 4.1%",
+      "source": "IT之家",
+      "url": "https://www.ithome.com/1/031/901.htm",
+      "published_at": 1795555391.0
+     }
+    ]
+   },
+   {
+    "kind": "glossary",
+    "items": [
+     {
+      "term": "Transformer",
+      "desc": "2017 年提出的神经网络结构，是当今绝大多数大模型的基础"
+     },
+     {
+      "term": "AI",
+      "desc": "人工智能，让机器完成识别、生成、判断等原本需要人做的任务"
+     },
+     {
+      "term": "IPO",
+      "desc": "首次公开募股，公司第一次把股票卖给公众并上市"
+     },
+     {
+      "term": "数据中心",
+      "desc": "集中放置服务器、供电与散热设施的大型机房"
+     },
+     {
+      "term": "多模态",
+      "desc": "同一个模型同时处理文字、图片、音频、视频等多种信息"
+     }
+    ]
+   },
+   {
+    "kind": "outlook",
+    "text": "把这几条放在一起看，最值得跟踪的是 AI 和 发布 两条线：一条决定技术能走多远，一条决定它多快能落到普通人的日常里。至于其他消息，可以先放进观察名单，等后续有更实的进展再判断。"
+   }
+  ],
+  "word_count": 707
+ },
+ "ai_enhanced": false,
+ "schema": 1,
+ "window_bj": {
+  "start": "2026-11-25 00:00",
+  "end": "2026-11-25 09:00"
+ }
+}

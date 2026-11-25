@@ -1,0 +1,362 @@
+{
+ "type": "today",
+ "date": "2026-11-25",
+ "window": {
+  "start_ts": 1795536000.0,
+  "end_ts": 1795568400.0
+ },
+ "generated_at": 1795599482.514246,
+ "generator": "action",
+ "news_count": 36,
+ "keywords": [
+  "二十",
+  "十四",
+  "发射",
+  "四号",
+  "神舟",
+  "舟二",
+  "ai",
+  "出征",
+  "天员",
+  "美媒"
+ ],
+ "points": [
+  {
+   "text": "【二十】神舟二十四号载人飞行任务航天员乘组出征仪式在酒泉卫星发射中心举行",
+   "keyword": "二十",
+   "news_ids": [
+    "534220211b7395bd"
+   ],
+   "refs": [
+    {
+     "id": "534220211b7395bd",
+     "title": "神舟二十四号载人飞行任务航天员乘组出征仪式在酒泉卫星发射中心举行",
+     "source": "中新网即时",
+     "url": "http://www.chinanews.com.cn/tp/hd2011/2026/11-25/1211569.shtml",
+     "published_at": 1795563069.0
+    }
+   ]
+  },
+  {
+   "text": "【ai】AI的能力越来越强，魏哲巍上课却愈发信任板书",
+   "keyword": "ai",
+   "news_ids": [
+    "94afe80652378778"
+   ],
+   "refs": [
+    {
+     "id": "94afe80652378778",
+     "title": "顶尖AI学院，用“古法教学”",
+     "source": "中新网即时",
+     "url": "https://www.chinanews.com.cn/sh/2026/11-25/10737290.shtml",
+     "published_at": 1795563798.0
+    }
+   ]
+  },
+  {
+   "text": "【美媒】中新网11月25日电 据美国有线电视新闻网(CNN)援引知情人士报道，当地时间24日，黄仁勋在长达1小时的英伟达全体员工会议上，向员工致歉",
+   "keyword": "美媒",
+   "news_ids": [
+    "cd99dff1439964be"
+   ],
+   "refs": [
+    {
+     "id": "cd99dff1439964be",
+     "title": "美媒：黄仁勋向英伟达全体员工致歉 称正接受心理治疗",
+     "source": "中新网即时",
+     "url": "https://www.chinanews.com.cn/gj/2026/11-25/10737284.shtml",
+     "published_at": 1795561297.0
+    }
+   ]
+  },
+  {
+   "text": "【生活】大西洋兩岸忙碌的母親們正付費請公司代為處理她們的待辦事項清單",
+   "keyword": "生活",
+   "news_ids": [
+    "f3c56f6bb62d0f62"
+   ],
+   "refs": [
+    {
+     "id": "f3c56f6bb62d0f62",
+     "title": "我每月花250英鎊請人幫我處理生活雜務，而這很值得",
+     "source": "BBC中文",
+     "url": "https://www.bbc.com/zhongwen/articles/cqdr15vp81jno/trad?at_medium=RSS&at_campaign=rss",
+     "published_at": 1795567184.0
+    }
+   ]
+  },
+  {
+   "text": "中新社华盛顿11月24日电 (记者 陈孟统)“这是火鸡‘自由’，‘羽翼’跑哪儿去了",
+   "keyword": "",
+   "news_ids": [
+    "4370b6ff80e4a9a4"
+   ],
+   "refs": [
+    {
+     "id": "4370b6ff80e4a9a4",
+     "title": "特朗普“赦免”2026年感恩节火鸡“自由”“羽翼”",
+     "source": "中新网要闻",
+     "url": "https://www.chinanews.com.cn/gj/2026/11-25/10737299.shtml",
+     "published_at": 1795566688.0
+    }
+   ]
+  },
+  {
+   "text": "中新社华盛顿11月24日电 (记者 沙晗汀)世界大型企业联合会当地时间24日公布数据显示，美国11月消费者信心指数升至103.3，是自2025年",
+   "keyword": "",
+   "news_ids": [
+    "5f2acced83cc702a"
+   ],
+   "refs": [
+    {
+     "id": "5f2acced83cc702a",
+     "title": "美国11月消费者信心指数升至近两年来最高值",
+     "source": "中新网要闻",
+     "url": "https://www.chinanews.com.cn/gj/2026/11-25/10737297.shtml",
+     "published_at": 1795566616.0
+    }
+   ]
+  },
+  {
+   "text": "中新社伦敦11月24日电 (记者 欧阳开宇)英国诺福克警方24日通报，两名男子涉嫌非法侵入威廉王子与凯特王妃位于桑德林汉姆庄园的乡间宅邸安默厅图",
+   "keyword": "",
+   "news_ids": [
+    "b94cc7d186215648"
+   ],
+   "refs": [
+    {
+     "id": "b94cc7d186215648",
+     "title": "两名男子涉嫌侵入英国威廉王子夫妇乡间别墅行窃被捕",
+     "source": "中新网要闻",
+     "url": "https://www.chinanews.com.cn/gj/2026/11-25/10737296.shtml",
+     "published_at": 1795566518.0
+    }
+   ]
+  },
+  {
+   "text": "超级月亮”现身天宇",
+   "keyword": "",
+   "news_ids": [
+    "407e9eaa459fe499"
+   ],
+   "refs": [
+    {
+     "id": "407e9eaa459fe499",
+     "title": "超级月亮”现身天宇",
+     "source": "中新网即时",
+     "url": "http://www.chinanews.com.cn/tp/hd2011/2026/11-25/1211571.shtml",
+     "published_at": 1795566256.0
+    }
+   ]
+  },
+  {
+   "text": "中新网11月25日电 据中央气象台网站消息，昨日，云南南部出现大到暴雨、局地大暴雨，西藏、四川、云南、新疆等地出现小到中雪或雨夹雪、局地大雪",
+   "keyword": "",
+   "news_ids": [
+    "b97fbf868d7b2123"
+   ],
+   "refs": [
+    {
+     "id": "b97fbf868d7b2123",
+     "title": "全国大部天气晴好",
+     "source": "中新网即时",
+     "url": "https://www.chinanews.com.cn/sh/2026/11-25/10737293.shtml",
+     "published_at": 1795566110.0
+    }
+   ]
+  },
+  {
+   "text": "公安机关深入开展“护网—2026”专项工作，全力强化网络空间安全保护和综合治理",
+   "keyword": "",
+   "news_ids": [
+    "444ca30ae4501c54"
+   ],
+   "refs": [
+    {
+     "id": "444ca30ae4501c54",
+     "title": "网警查处两起不履行网络安全、数据安全保护义务案",
+     "source": "中新网即时",
+     "url": "https://www.chinanews.com.cn/gn/2026/11-25/10737294.shtml",
+     "published_at": 1795565105.0
+    }
+   ]
+  },
+  {
+   "text": "经济日报：买盲盒先办会员，此风不可长",
+   "keyword": "",
+   "news_ids": [
+    "b5697fc3e666b7b9"
+   ],
+   "refs": [
+    {
+     "id": "b5697fc3e666b7b9",
+     "title": "买盲盒先办会员，此风不可长",
+     "source": "中新网即时",
+     "url": "https://www.chinanews.com.cn/sh/2026/11-25/10737292.shtml",
+     "published_at": 1795564612.0
+    }
+   ]
+  },
+  {
+   "text": "问：近期，黄金价格走势持续引人关注",
+   "keyword": "",
+   "news_ids": [
+    "0b326608bd17ff2f"
+   ],
+   "refs": [
+    {
+     "id": "0b326608bd17ff2f",
+     "title": "投资金条为何受热捧",
+     "source": "中新网即时",
+     "url": "https://www.chinanews.com.cn/cj/2026/11-25/10737289.shtml",
+     "published_at": 1795563423.0
+    }
+   ]
+  },
+  {
+   "text": "香港宏福苑大火一週年：災後餘生，家在何方",
+   "keyword": "",
+   "news_ids": [
+    "1ea698cc0761dd89"
+   ],
+   "refs": [
+    {
+     "id": "1ea698cc0761dd89",
+     "title": "香港宏福苑大火一週年：災後餘生，家在何方？",
+     "source": "BBC中文",
+     "url": "https://www.bbc.co.uk/programmes/p0ppqf9q?at_medium=RSS&at_campaign=rss",
+     "published_at": 1795563178.0
+    }
+   ]
+  },
+  {
+   "text": "随着数字技术加快发展、应用场景不断拓展，一批数字新职业为求职者提供了更多就业选择",
+   "keyword": "",
+   "news_ids": [
+    "b9c72f832015ba22"
+   ],
+   "refs": [
+    {
+     "id": "b9c72f832015ba22",
+     "title": "人才缺口超百万！新职业来了",
+     "source": "中新网即时",
+     "url": "https://www.chinanews.com.cn/cj/2026/11-25/10737286.shtml",
+     "published_at": 1795562454.0
+    }
+   ]
+  },
+  {
+   "text": "中新网11月25日电 据美联社报道，土耳其国防部表示，当地时间24日晚，土耳其空军一架军用直升机进行训练任务时坠毁，造成5名士兵死亡",
+   "keyword": "",
+   "news_ids": [
+    "f7b1c073d82622c7"
+   ],
+   "refs": [
+    {
+     "id": "f7b1c073d82622c7",
+     "title": "土耳其一军用直升机坠毁 造成5名士兵死亡",
+     "source": "中新网即时",
+     "url": "https://www.chinanews.com.cn/gj/2026/11-25/10737285.shtml",
+     "published_at": 1795562184.0
+    }
+   ]
+  }
+ ],
+ "article": {
+  "title": "2026-11-25 新闻总结",
+  "paragraphs": [
+   {
+    "kind": "lead",
+    "text": "今天共收录 36 条新闻，来自 3 家媒体。把标题放在一起看，讨论主要集中在 AI、航天、卫星 这几个方向上，其余消息更像是零散补充。"
+   },
+   {
+    "kind": "section",
+    "heading": "航天",
+    "text": "先看「航天」。神舟二十四号载人飞行任务航天员乘组出征仪式在酒泉卫星发射中心举行…，另有 7 条消息指向同一话题。单看一条新闻容易高估影响，放到最近几周的脉络里，它更像是一个渐进变化中的节点。",
+    "news_ids": [
+     "534220211b7395bd"
+    ],
+    "refs": [
+     {
+      "id": "534220211b7395bd",
+      "title": "神舟二十四号载人飞行任务航天员乘组出征仪式在酒泉卫星发射中心举行",
+      "source": "中新网即时",
+      "url": "http://www.chinanews.com.cn/tp/hd2011/2026/11-25/1211569.shtml",
+      "published_at": 1795563069.0
+     }
+    ]
+   },
+   {
+    "kind": "section",
+    "heading": "AI",
+    "text": "与此同时「AI」。AI的能力越来越强，魏哲巍上课却愈发信任板书…，另有 3 条消息指向同一话题。这条消息短期内的实际影响可能有限，但它指向的方向值得放进观察名单。",
+    "news_ids": [
+     "94afe80652378778"
+    ],
+    "refs": [
+     {
+      "id": "94afe80652378778",
+      "title": "顶尖AI学院，用“古法教学”",
+      "source": "中新网即时",
+      "url": "https://www.chinanews.com.cn/sh/2026/11-25/10737290.shtml",
+      "published_at": 1795563798.0
+     }
+    ]
+   },
+   {
+    "kind": "section",
+    "heading": "入侵",
+    "text": "另一个值得注意的方向是「入侵」。中新网11月25日电 据美国有线电视新闻网(CNN)援引4位消息人士的话报道，美国中央情报局(CIA)以及国家情报总监办公室疑似遭到网络入侵，另有 3 条消息指向同一话题。这类问题很少是单点失误，更常见的是权限设计和应急流程一起出了漏洞。",
+    "news_ids": [
+     "4dffbd1cad065ecb"
+    ],
+    "refs": [
+     {
+      "id": "4dffbd1cad065ecb",
+      "title": "美媒：美国中情局及国家情报总监办公室疑遭网络入侵",
+      "source": "中新网即时",
+      "url": "https://www.chinanews.com.cn/gj/2026/11-25/10737281.shtml",
+      "published_at": 1795559744.0
+     }
+    ]
+   },
+   {
+    "kind": "section",
+    "heading": "我每月花250英鎊請人幫我處理生",
+    "text": "相比之下「我每月花250英鎊請人幫我處理生」。大西洋兩岸忙碌的母親們正付費請公司代為處理她們的待辦事項清單…，另有 2 条消息指向同一话题。这条消息短期内的实际影响可能有限，但它指向的方向值得放进观察名单。",
+    "news_ids": [
+     "f3c56f6bb62d0f62"
+    ],
+    "refs": [
+     {
+      "id": "f3c56f6bb62d0f62",
+      "title": "我每月花250英鎊請人幫我處理生活雜務，而這很值得",
+      "source": "BBC中文",
+      "url": "https://www.bbc.com/zhongwen/articles/cqdr15vp81jno/trad?at_medium=RSS&at_campaign=rss",
+      "published_at": 1795567184.0
+     }
+    ]
+   },
+   {
+    "kind": "glossary",
+    "items": [
+     {
+      "term": "AI",
+      "desc": "人工智能，让机器完成识别、生成、判断等原本需要人做的任务"
+     }
+    ]
+   },
+   {
+    "kind": "outlook",
+    "text": "把这几条放在一起看，最值得跟踪的是 AI 和 航天 两条线：一条决定技术能走多远，一条决定它多快能落到普通人的日常里。至于其他消息，可以先放进观察名单，等后续有更实的进展再判断。"
+   }
+  ],
+  "word_count": 570
+ },
+ "ai_enhanced": false,
+ "schema": 1,
+ "window_bj": {
+  "start": "2026-11-25 00:00",
+  "end": "2026-11-25 09:00"
+ }
+}
