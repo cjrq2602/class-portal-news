@@ -1,6 +1,6 @@
 {
  "date": "2026-11-24",
- "generated_at": 1795566492.0683413,
+ "generated_at": 1795575420.4336548,
  "count": 400,
  "items": [
   {
@@ -704,6 +704,15 @@
    "summary": "就在今天（11 月 24 日）14:30，华为 Mate X8 及全场景新品发布会准时启幕。 前段时间刚先后看完问界新 M8、享界 V8、星芒 O1 Pro 轮番登场，这回华为又甩出新一轮全家桶。 重头戏不用多说，主角就是 Mate X8，八年八代的大折叠旗舰，这次直接全面焕新；除此之外，还有小折叠电脑、超薄手表一众狠货同步登场。 废话不多说，华为这波全场景新品都藏了哪些硬活，IT之家小编这就挨个扒一遍。 一、Mate X8 在大折叠手机全球发货量突破 1200 万台后，华为 Mate X8 如期而至。 这一代在设计上玩起了焕新新花样，把织金云锦、钇晶宝石和鎏光腰线埋进机身细节里。 背板以金丝",
    "published_at": 1795519235.0,
    "published_bj": "2026-11-24 19:20"
+  },
+  {
+   "id": "0da4e63aa4680919",
+   "source": "Hacker News",
+   "title": "The Artificial Monkey Mind",
+   "url": "https://eamonnsullivan.co.uk/posts/the-artificial-monkey-mind/",
+   "summary": "Article URL: https://eamonnsullivan.co.uk/posts/the-artificial-monkey-mind/ Comments URL: https://news.ycombinator.com/item?id=50626620 Points: 7 # Comments: 1",
+   "published_at": 1795519140.0,
+   "published_bj": "2026-11-24 19:19"
   },
   {
    "id": "c2ce8269f44c9952",
@@ -3593,15 +3602,6 @@
    "summary": "今日晚间，英伟达官方宣布即日起恢复黄仁勋公司总裁、首席执行官及董事会成员职务。董事会表示，经多轮沟通，认可其坦诚态度与领导能力，并在听取美国政府高层意见后，确信其复职不存在国家安全风险。 阅读全文",
    "published_at": 1795450724.0,
    "published_bj": "2026-11-24 00:18"
-  },
-  {
-   "id": "04b4a6fb984fcc20",
-   "source": "Hacker News",
-   "title": "Ladybird is now in alpha",
-   "url": "https://ladybird.org/posts/alpha/",
-   "summary": "Article URL: https://ladybird.org/posts/alpha/ Comments URL: https://news.ycombinator.com/item?id=50614249 Points: 1153 # Comments: 287",
-   "published_at": 1795450392.0,
-   "published_bj": "2026-11-24 00:13"
   }
  ]
 }
