@@ -1,8 +1,80 @@
 {
  "date": "2026-11-26",
- "generated_at": 1795609580.9302096,
- "count": 7,
+ "generated_at": 1795643899.310969,
+ "count": 32,
  "items": [
+  {
+   "id": "c2b568904646b673",
+   "source": "Hacker News",
+   "title": "Defang Security Incident",
+   "url": "https://defang.io/blog/post/security-incident-november-2026/",
+   "summary": "Article URL: https://defang.io/blog/post/security-incident-november-2026/ Comments URL: https://news.ycombinator.com/item?id=50648035 Points: 5 # Comments: 0",
+   "published_at": 1795643236.0,
+   "published_bj": "2026-11-26 05:47"
+  },
+  {
+   "id": "05998e192c33f79a",
+   "source": "TechCrunch",
+   "title": "FCC approves SpaceX plan to put AI data centers in space",
+   "url": "https://techcrunch.com/2026/11/25/fcc-approves-spacex-plan-to-put-ai-data-centers-in-space/",
+   "summary": "The FCC dismissed some of the key concerns raised by opponents, including potential threats to scientific research, because the agency determined they fell outside its regulatory authority.",
+   "published_at": 1795640204.0,
+   "published_bj": "2026-11-26 04:56"
+  },
+  {
+   "id": "bd9f2bce43840a95",
+   "source": "Hacker News",
+   "title": "Nfs2root: A 12-year-old pre-auth remote root in the Linux kernel's NFS server",
+   "url": "https://opensec.in/blog/nfs2root-cve-2026-99362",
+   "summary": "Article URL: https://opensec.in/blog/nfs2root-cve-2026-99362 Comments URL: https://news.ycombinator.com/item?id=50647161 Points: 6 # Comments: 0",
+   "published_at": 1795638950.0,
+   "published_bj": "2026-11-26 04:35"
+  },
+  {
+   "id": "8972e246dd7fc73a",
+   "source": "TechCrunch",
+   "title": "OpenAI says heavy ChatGPT users may hit limits sooner as it merges Chat and Work",
+   "url": "https://techcrunch.com/2026/11/25/openai-says-heavy-chatgpt-users-may-hit-limits-sooner-as-it-merges-chat-and-work/",
+   "summary": "OpenAI will introduce a single usage meter across ChatGPT as it combines the Chat and Work experiences.",
+   "published_at": 1795637007.0,
+   "published_bj": "2026-11-26 04:03"
+  },
+  {
+   "id": "5c36eab97fa531e2",
+   "source": "TechCrunch",
+   "title": "Jensen Huang broke Nvidia’s code of conduct, and his employees may not forget it",
+   "url": "https://techcrunch.com/2026/11/25/jensen-huang-broke-nvidias-code-of-conduct-and-his-employees-may-not-forget-it/",
+   "summary": "Most codes of conduct serve as a reflection of corporate culture. In Nvidia's case, that could have consequences.",
+   "published_at": 1795636497.0,
+   "published_bj": "2026-11-26 03:54"
+  },
+  {
+   "id": "c65abfb7298406f8",
+   "source": "TechCrunch",
+   "title": "The canceled Tesla Cybertruck is the fastest-selling used truck in America",
+   "url": "https://techcrunch.com/2026/11/25/the-canceled-tesla-cybertruck-is-the-fastest-selling-used-truck-in-america/",
+   "summary": "The Tesla Cybertruck was the fastest-selling used truck last month, averaging just 39.1 days on the market compared to 65.5 days for trucks overall.",
+   "published_at": 1795636472.0,
+   "published_bj": "2026-11-26 03:54"
+  },
+  {
+   "id": "d7ea92b9d9680749",
+   "source": "TechCrunch",
+   "title": "Anthropic’s Dario Amodei calls accusations of surrendering human control to AI ‘absurd’",
+   "url": "https://techcrunch.com/2026/11/25/anthropics-dario-amodei-calls-accusations-of-surrendering-human-control-to-ai-absurd/",
+   "summary": "Anthropic CEO Dario Amodei pushes back against rivals’ accusations that he favors surrendering human agency to AI, even as leading AI companies increasingly automate their own research and model development.",
+   "published_at": 1795635864.0,
+   "published_bj": "2026-11-26 03:44"
+  },
+  {
+   "id": "1a08736bdc86a7f3",
+   "source": "Hacker News",
+   "title": "Holy shit holy shit holy shit holy shit: The magnitude of what’s now happening",
+   "url": "https://scottaaronson.blog/?p=10379",
+   "summary": "See also The matrix multiplication exponent is nine fourths [pdf] - https://news.ycombinator.com/item?id=50637220 Comments URL: https://news.ycombinator.com/item?id=50646108 Points: 568 # Comments: 412",
+   "published_at": 1795633887.0,
+   "published_bj": "2026-11-26 03:11"
+  },
   {
    "id": "f5ac070263fd9a7f",
    "source": "InfoQ中文",
@@ -11,6 +83,15 @@
    "summary": "点击查看原文>",
    "published_at": 1795633868.0,
    "published_bj": "2026-11-26 03:11"
+  },
+  {
+   "id": "ca9990578be7022d",
+   "source": "cnBeta",
+   "title": "英伟达据报将进一步削减RTX 50系列显卡供应 RTX 60系列或推迟至2028年",
+   "url": "https://www.cnbeta.com.tw/articles/tech/1587948.htm",
+   "summary": "尽管英伟达本周庆祝黄仁勋重返首席执行官职位，但游戏显卡供应紧张的局面并未随之缓解。据中国分销论坛博板堂的消息，英伟达计划进一步削减RTX 50系列显卡的供应量。报道称，在2026年11月至2027年1月的第四季度期间，英伟达将向其板卡合作伙伴减少20%至30%的游戏显卡供应。 阅读全文",
+   "published_at": 1795633667.0,
+   "published_bj": "2026-11-26 03:07"
   },
   {
    "id": "2496f1e241bcf403",
@@ -31,6 +112,15 @@
    "published_bj": "2026-11-26 02:52"
   },
   {
+   "id": "e09cb209e36914c9",
+   "source": "TechCrunch",
+   "title": "1Password said hackers broke into its internal systems, but customer passwords are safe",
+   "url": "https://techcrunch.com/2026/11/25/1password-said-hackers-broke-into-its-internal-systems-but-customer-passwords-are-safe/",
+   "summary": "The password manager maker said an attacker gained access to an employee's corporate account and took some information about customers.",
+   "published_at": 1795632592.0,
+   "published_bj": "2026-11-26 02:49"
+  },
+  {
    "id": "03f59aa65e0eb6bd",
    "source": "InfoQ中文",
    "title": "“我比黄仁勋更早看到英伟达的未来”！AI 教父回击黄仁勋，直言大规模失业是 AI 巨头赚钱的副作用",
@@ -38,6 +128,51 @@
    "summary": "点击查看原文>",
    "published_at": 1795632329.0,
    "published_bj": "2026-11-26 02:45"
+  },
+  {
+   "id": "955a97443b04644d",
+   "source": "cnBeta",
+   "title": "台积电拟在得州布拉索斯县投建226亿美元2纳米晶圆厂 2027年动工",
+   "url": "https://www.cnbeta.com.tw/articles/tech/1587946.htm",
+   "summary": "台积电正评估在美国得克萨斯州布拉索斯县建设一座投资规模约226亿美元、采用2纳米或更先进制程的半导体晶圆厂。根据该公司子公司向得州主计长办公室提交的税收优惠申请，项目若最终落地，预计将于2027年开始建设，并在2031年投入商业运营。 阅读全文",
+   "published_at": 1795631398.0,
+   "published_bj": "2026-11-26 02:29"
+  },
+  {
+   "id": "c562cd56dfd5bcc6",
+   "source": "cnBeta",
+   "title": "NVIDIA芯片分销商正急于为大批高端GPU寻找新买家",
+   "url": "https://www.cnbeta.com.tw/articles/tech/1587944.htm",
+   "summary": "美国收紧针对中国企业的先进人工智能芯片远程访问规则后，英伟达芯片卖家正急于为大批高端GPU寻找新买家。据知情人士透露，新规公布以来，市场上出现了异常规模的英伟达图形处理器出售信息，部分芯片原本计划用于向中国相关客户出租算力的海外数据中心。 阅读全文",
+   "published_at": 1795631374.0,
+   "published_bj": "2026-11-26 02:29"
+  },
+  {
+   "id": "99c0f3a887007bba",
+   "source": "cnBeta",
+   "title": "纽约州州长签署五年禁令 暂停售卖面向儿童的AI聊天玩具",
+   "url": "https://www.cnbeta.com.tw/articles/tech/1587942.htm",
+   "summary": "纽约州州长凯茜·霍楚尔于11月24日签署一项具有里程碑意义的法案，对具备对话功能、拟人化的人工智能玩具实施为期五年的禁令。该禁令将禁止此类玩具的制造、分销和销售，理由是监管机构需要时间评估这些产品对儿童的安全和心理健康是否构成风险。 阅读全文",
+   "published_at": 1795631294.0,
+   "published_bj": "2026-11-26 02:28"
+  },
+  {
+   "id": "ac1ce09abddb4c83",
+   "source": "cnBeta",
+   "title": "新可穿戴设备将前臂皮肤变成触控板 有望突破智能手表屏幕过小的操作瓶颈",
+   "url": "https://www.cnbeta.com.tw/articles/science/1587940.htm",
+   "summary": "美国北卡罗来纳州立大学的研究团队开发出一款名为EpiPad的可穿戴技术，能够把佩戴者的前臂皮肤变成一块可用的触控板，用来操控智能手表。该系统借助微型毫米波雷达和轻量级机器学习模型，识别手指在前臂上的点击、滑动、双指滚动、捏合缩放以及不同力度的按压，让用户在手表之外获得类似笔记本电脑触控板的操作体验。 阅读全文",
+   "published_at": 1795631141.0,
+   "published_bj": "2026-11-26 02:25"
+  },
+  {
+   "id": "c227744b241f8acc",
+   "source": "cnBeta",
+   "title": "苹果传闻中的巨型折叠屏iPad或将定价高达5000美元 能否最终上市存在不确定性",
+   "url": "https://www.cnbeta.com.tw/articles/tech/1587938.htm",
+   "summary": "苹果传闻中的巨型折叠屏iPad或将定价高达5000美元，但其操作系统仍未确定，能否最终上市也存在不确定性。据最新传闻，苹果正在研发一款19至20英寸的折叠屏设备，内部代号为J312。这款产品此前被认为将运行iPadOS，但截至目前，苹果尚未决定其最终搭载的软件系统。iPadOS、macOS，甚至一个全新的平台，都被视为可能选项。 阅读全文",
+   "published_at": 1795630960.0,
+   "published_bj": "2026-11-26 02:22"
   },
   {
    "id": "aefa02c8c1b41f61",
@@ -58,6 +193,69 @@
    "published_bj": "2026-11-26 02:22"
   },
   {
+   "id": "d6bd195cf2565907",
+   "source": "cnBeta",
+   "title": "美国拟对14个贸易伙伴加征新关税 苹果主要iPhone制造地受冲击",
+   "url": "https://www.cnbeta.com.tw/articles/tech/1587936.htm",
+   "summary": "美国政府正推进新一轮关税措施，涉及中国、印度、台湾、墨西哥等多个贸易伙伴，而苹果公司的主要iPhone生产地也在其中。分析认为，这将对苹果本已承压的供应链和产品成本构成新的挑战。 阅读全文",
+   "published_at": 1795630925.0,
+   "published_bj": "2026-11-26 02:22"
+  },
+  {
+   "id": "a8eb972e3901b7a3",
+   "source": "TechCrunch",
+   "title": "Want to buy your kid an AI toy this Christmas? Not in New York",
+   "url": "https://techcrunch.com/2026/11/25/want-to-buy-your-kid-an-ai-toy-this-christmas-not-in-new-york/",
+   "summary": "New York has banned AI chatbot toys for five years as new research from Common Sense Media reveals troubling safety failures, including exposure to inappropriate content and risks to emotional development.",
+   "published_at": 1795630306.0,
+   "published_bj": "2026-11-26 02:11"
+  },
+  {
+   "id": "f1eba2cd131620c6",
+   "source": "Hacker News",
+   "title": "Britain's ghost stations",
+   "url": "https://spectator.com/article/britains-ghost-stations-are-fascinating/",
+   "summary": "https://archive.ph/pfVdX Comments URL: https://news.ycombinator.com/item?id=50645074 Points: 63 # Comments: 13",
+   "published_at": 1795628626.0,
+   "published_bj": "2026-11-26 01:43"
+  },
+  {
+   "id": "84a2864bbaa66518",
+   "source": "TechCrunch",
+   "title": "DOJ accuses former cyber executive of defrauding ransomware victims by secretly paying hackers",
+   "url": "https://techcrunch.com/2026/11/25/doj-accuses-former-cyber-executive-of-defrauding-ransomware-victims-by-secretly-paying-hackers/",
+   "summary": "U.S. prosecutors accused the former executive of defrauding victims of ransomware by paying the hackers, charging victims more, and pocketing the difference.",
+   "published_at": 1795628211.0,
+   "published_bj": "2026-11-26 01:36"
+  },
+  {
+   "id": "d76b8357b9f5070a",
+   "source": "TechCrunch",
+   "title": "Character.AI’s plan to auction off users’ private chats challenged by state AGs",
+   "url": "https://techcrunch.com/2026/11/25/state-ags-fight-character-ais-plan-to-auction-off-users-private-chats/",
+   "summary": "The proposed Character.ai bankruptcy sale includes sensitive personal data from more than 21 million U.S. accounts, including 2.1 million registered to minors, the state AGs said.",
+   "published_at": 1795628158.0,
+   "published_bj": "2026-11-26 01:35"
+  },
+  {
+   "id": "1c2ca3238571a10b",
+   "source": "Hacker News",
+   "title": "The polynomial Hirsch conjecture is false [pdf]",
+   "url": "https://github.com/openai/math/blob/main/preprints/Superpolynomial-graph-diameter-of-simple-polytopes-November-24-2026/paper.pdf",
+   "summary": "Article URL: https://github.com/openai/math/blob/main/preprints/Superpolynomial-graph-diameter-of-simple-polytopes-November-24-2026/paper.pdf Comments URL: https://news.ycombinator.com/item?id=50644980 Points: 83 # Comments: 15",
+   "published_at": 1795628074.0,
+   "published_bj": "2026-11-26 01:34"
+  },
+  {
+   "id": "335cb30e56e8d81d",
+   "source": "TechCrunch",
+   "title": "X’s latest update for creators focuses on vertical video",
+   "url": "https://techcrunch.com/2026/11/25/xs-latest-update-for-creators-focuses-on-vertical-video/",
+   "summary": "As short-form video ramps up in popularity, X's new creation tools are part of its effort to compete with YouTube and Instagram.",
+   "published_at": 1795627709.0,
+   "published_bj": "2026-11-26 01:28"
+  },
+  {
    "id": "8d949a39d9182963",
    "source": "InfoQ中文",
    "title": "做了 16 年数据库，蚂蚁 OceanBase 为什么要再造一个 AI 数据平台？",
@@ -65,6 +263,33 @@
    "summary": "点击查看原文>",
    "published_at": 1795627291.0,
    "published_bj": "2026-11-26 01:21"
+  },
+  {
+   "id": "2be4016bfa575ef8",
+   "source": "Hacker News",
+   "title": "1Password Security Incident",
+   "url": "https://1password.com/blog/update-on-nov-2026-security-incident",
+   "summary": "Article URL: https://1password.com/blog/update-on-nov-2026-security-incident Comments URL: https://news.ycombinator.com/item?id=50644817 Points: 840 # Comments: 350",
+   "published_at": 1795627106.0,
+   "published_bj": "2026-11-26 01:18"
+  },
+  {
+   "id": "777cd16cdadbbac4",
+   "source": "TechCrunch",
+   "title": "WhatsApp now lets you schedule messages in group and individual chats",
+   "url": "https://techcrunch.com/2026/11/25/whatsapp-now-lets-you-schedule-messages-in-group-and-individual-chats/",
+   "summary": "Users can schedule messages from 10 minutes later to after 14 days.",
+   "published_at": 1795625871.0,
+   "published_bj": "2026-11-26 00:57"
+  },
+  {
+   "id": "809362d4085c916c",
+   "source": "IT之家",
+   "title": "蛮啾《蓝色星原：旅谣》今日公测：两百余种奇波可捕捉骑乘，登陆 PC、iOS、安卓、鸿蒙与 PS5",
+   "url": "https://www.ithome.com/1/032/534.htm",
+   "summary": "IT之家 11 月 26 日消息，由《碧蓝航线》开发商蛮啾网络打造的幻想大世界 RPG《蓝色星原：旅谣》将于 11 月 26 日 10:00 正式开启公测，登陆 PC、iOS、安卓、鸿蒙与 PS5 平台。 该作由上海蛮啾网络科技有限公司研发并运营，采用 Unity 引擎开发，背景音乐有川井宪次、西木康智等作曲家参与。海外发行方面，日服由蛮啾网络与悠星联合发行，韩服由 NEXON 代理，东南亚地区由 PlayPark 负责。 故事舞台为幻想大陆普罗米利亚。玩家扮演“星临者”重返这片土地，在灾变后秩序失衡的世界中游历，追寻散落于天地间的星光传说。 与常见的开放世界产品不同，本作不设强制线性流程，探",
+   "published_at": 1795622407.0,
+   "published_bj": "2026-11-26 00:00"
   }
  ]
 }

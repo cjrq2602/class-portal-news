@@ -1,8 +1,35 @@
 {
  "date": "2026-11-25",
- "generated_at": 1795609580.9315577,
- "count": 287,
+ "generated_at": 1795643899.3133945,
+ "count": 336,
  "items": [
+  {
+   "id": "fbed7ccbdfe7cb5e",
+   "source": "Hacker News",
+   "title": "Investigating degraded experiences across GitHub products",
+   "url": "https://www.githubstatus.com/incidents/qn8mfv6q5hlx",
+   "summary": "Article URL: https://www.githubstatus.com/incidents/qn8mfv6q5hlx Comments URL: https://news.ycombinator.com/item?id=50643720 Points: 174 # Comments: 93",
+   "published_at": 1795622363.0,
+   "published_bj": "2026-11-25 23:59"
+  },
+  {
+   "id": "7a9a55b5c1b549e8",
+   "source": "IT之家",
+   "title": "奕境曾清林：新能源汽车来到智能化下半场，四激光正是面向 L3、一步到位的智驾硬件方案",
+   "url": "https://www.ithome.com/1/032/533.htm",
+   "summary": "IT之家 11 月 25 日消息，奕境汽车品牌总经理曾清林刚刚发文，分享了 70% 和 90% 两组数据： 70% 来自工信部。2026 年以来， 搭载辅助驾驶功能的乘用车新车，市场渗透率已经达到 70% 。这再次印证，新能源上半场是电动化，现在来到了下半场的智能化。随着充电网络的普及和续航的提升，充电和续航对很多朋友来说已经不再是主要焦虑， 真正的考题在智驾 。 90% 这个数据来自华为智能辅助驾驶后台： 买了华为智驾车型的车主，90% 以上每天都在用 。这个数据在我身上也可以得到验证。我目前开奕境 X9，每天 90% 的路程都是智驾开的。 曾清林表示，有的智能辅助驾驶，让用户雨天不敢用、晚",
+   "published_at": 1795622361.0,
+   "published_bj": "2026-11-25 23:59"
+  },
+  {
+   "id": "912d6f421762789e",
+   "source": "Solidot",
+   "title": "EA Sports FC 利用 AI 数字重现已故解说员 John Motson 的声音",
+   "url": "https://www.solidot.org/story?sid=85993",
+   "summary": "EA 透露其足球游戏《EA Sports FC 27》利用 AI 数字重现了已故解说员 John Motson 的声音。Motson 于 2023 年去世，他曾长期担任 BBC Sport 首席解说员，也曾为 EA 足球游戏解说。在其遗孀和儿子的许可下，EA 利用其过去的录音资料与生成式 AI 技术合成了他的声音。该内容将于 11 月 26 日上线《EA Sports FC 27》。EA 向 Motson 的家人支付了费用以获得使用其形象及重现其声音的权利，但未透露具体财务条款。",
+   "published_at": 1795622073.0,
+   "published_bj": "2026-11-25 23:54"
+  },
   {
    "id": "a7460dbf7684d0bf",
    "source": "InfoQ中文",
@@ -11,6 +38,15 @@
    "summary": "点击查看原文>",
    "published_at": 1795622058.0,
    "published_bj": "2026-11-25 23:54"
+  },
+  {
+   "id": "a960db0ad6b664f0",
+   "source": "IT之家",
+   "title": "北京汽车 T700 新车申报：1.5T 增程动力、单 / 双电机两种版本",
+   "url": "https://www.ithome.com/1/032/531.htm",
+   "summary": "IT之家 11 月 25 日消息，工信部发布第 414 批《道路机动车辆生产企业及产品公告》新产品公示，北汽 T700 完成申报。 本次申报的车型由北京汽车集团越野车有限公司生产，隶属于北京牌，定位为插电式增程混合动力运动型乘用车，车尾分别标注“T700”与“北汽集团”字样。根据外观及动力差异，公示中包含两种版本，整体造型延续方正硬派的方盒子设计语言，配备贯穿式尾灯与银色下护板装饰。 IT之家注意到，两种版本的三围尺寸均为长 4973mm、宽 2019mm，轴距同为 3050mm ，额定载客 5 人。基础版本高度为 1930mm，整备质量 2410kg，最高车速 180km/h；高配版本高度略",
+   "published_at": 1795621993.0,
+   "published_bj": "2026-11-25 23:53"
   },
   {
    "id": "94282675d2032a4e",
@@ -22,6 +58,267 @@
    "published_bj": "2026-11-25 23:44"
   },
   {
+   "id": "72ce183db4a0285f",
+   "source": "IT之家",
+   "title": "“独立”微信音乐悄悄上线：内置在听一听中，曲库来源于 QQ 音乐",
+   "url": "https://www.ithome.com/1/032/530.htm",
+   "summary": "IT之家 11 月 25 日消息，据公众号“大厂产品”分享，微信也有了自己的音乐产品。打开微信发现页中的听一听， 进入「我的-个人歌单」会看到个人歌单下显示有微信音乐 。 虽然是微信音乐，但歌曲还是来源于 QQ 音乐 。 除了微信音乐外，用户还可绑定 QQ 音乐、酷狗音乐。QQ 音乐是使用微信账号，绑定 QQ 音乐账号后，同步 QQ 音乐收藏、最近播放歌曲。酷狗音乐也和 QQ 音乐类似，是和微信账号绑定和同步的操作。 从目前的分享来看，微信音乐内置在听一听中，是听一听的一部分，其曲库来源于 QQ 音乐， 不过有微信音乐自己的推荐、评论、分享、共享等玩法 。 大家在 IT之家微信号 回复“ 微信",
+   "published_at": 1795621347.0,
+   "published_bj": "2026-11-25 23:42"
+  },
+  {
+   "id": "2efdcb5a469d6612",
+   "source": "IT之家",
+   "title": "零跑 C19 新车申报：增程 / 纯电双动力，5.1 米长 5/6/7 座中大型 SUV",
+   "url": "https://www.ithome.com/1/032/529.htm",
+   "summary": "IT之家 11 月 25 日消息，工信部发布第 414 批《道路机动车辆生产企业及产品公告》新产品公示， 零跑 C19 增程版与纯电版完成申报 。 本次申报的零跑 C19 车身尺寸为长 5128mm、宽 1972mm、高 1770mm（选装配置时为 1765mm），轴距 3000mm， 定位中大型 SUV 。车尾右侧标注有「C19」字样，左侧为「零跑」中文标识，中部为「LEAPMOTOR」英文标识，采用贯穿式尾灯设计。 ▲ 零跑 C19 增程版 IT之家注意到，零跑 C19 增程版搭载重庆小康动力型号为 L15T 的 1.5T 四缸增程器，排量 1496ml，发动机额定功率 97kW，最大净功",
+   "published_at": 1795620907.0,
+   "published_bj": "2026-11-25 23:35"
+  },
+  {
+   "id": "5741a1257e5a9f7c",
+   "source": "IT之家",
+   "title": "岚图梦想家 8 申报：纯电 / 插混可选，7 座中大型 MPV",
+   "url": "https://www.ithome.com/1/032/528.htm",
+   "summary": "IT之家 11 月 25 日消息，工信部发布第 414 批《道路机动车辆生产企业及产品公告》新产品公示，岚图汽车全新中大型 MPV 岚图梦想家 8 完成申报，涵盖纯电动、插电式混合动力共三款车型。 IT之家注意到，本次申报的岚图梦想家 8 车尾带有“梦想家 8”标识，整体采用简约方正的 MPV 车身造型，配备贯穿式尾灯组，后包围下方设有红色反光饰条，整体风格偏向家用与商务兼顾的定位。 车身尺寸方面，新车长宽高分别为 5260/2008/1780-1805mm ，轴距为 3150mm ，采用 7 座布局，轮胎规格提供 255/55R19、255/50R20 两种选择。配置上，新车可 选装双色车身",
+   "published_at": 1795620649.0,
+   "published_bj": "2026-11-25 23:30"
+  },
+  {
+   "id": "23ab03114fe7fe05",
+   "source": "IT之家",
+   "title": "零跑 DX 大五座 SUV 申报：纯电 / 增程可选，轴距 3110mm",
+   "url": "https://www.ithome.com/1/032/527.htm",
+   "summary": "IT之家 11 月 25 日消息，工信部发布第 414 批《道路机动车辆生产企业及产品公告》新产品公示，零跑全新大五座旗舰 SUV DX 完成申报。 IT之家注意到，本次申报的零跑 DX 车尾带有 LEAPMOTOR 品牌英文标识与「DX」字样，整体为大五座中大型 SUV 造型，车尾配备贯穿式尾灯组，后包围带有银色防擦护板与红色反光条，整体风格偏稳重旗舰取向。 车身尺寸方面，零跑 DX 的长宽高分别为 5151/1999/1775mm（1795mm）， 轴距为 3110mm ，前悬 / 后悬为 950/1091mm，前轮距 1710mm、后轮距 1715mm，接近角 / 离去角均为 18 度，",
+   "published_at": 1795620510.0,
+   "published_bj": "2026-11-25 23:28"
+  },
+  {
+   "id": "73401219a5113896",
+   "source": "IT之家",
+   "title": "极狐阿尔法 T7 换电版申报，搭载 227kW 电机与宁德时代磷酸铁锂电池",
+   "url": "https://www.ithome.com/1/032/526.htm",
+   "summary": "IT之家 11 月 25 日消息，工信部发布第 414 批《道路机动车辆生产企业及产品公告》新产品公示，极狐阿尔法 T7 换电版完成申报。 本次申报的车型为 极狐 (ARCFOX) 阿尔法 T7 换电式纯电动多用途乘用车 ，由北汽蓝谷麦格纳汽车有限公司生产制造，车辆长宽高分别为 5020mm / 1996mm / 1685mm ，轴距为 3040mm ，额定载客人数为 5 人，最高车速可达 180km/h。 IT之家注意到，动力方面，该车搭载湖南中车时代电驱科技有限公司生产的驱动电机，电机额定功率 73kW，峰值功率 227kW ；储能装置为 宁德时代供应的磷酸铁锂蓄电池 ，由宁德时代新能源科",
+   "published_at": 1795620472.0,
+   "published_bj": "2026-11-25 23:27"
+  },
+  {
+   "id": "580f976bdcbd82e1",
+   "source": "Solidot",
+   "title": "Claude 和 ChatGPT 在蛋白质结构预测和设计上挑战 AlphaFold",
+   "url": "https://www.solidot.org/story?sid=85992",
+   "summary": "AI 生物科技公司 Phylo 研究员 Xinming Tu 本月初使用 OpenAI、Anthropic 和 Google 的大模型测试了它们预测鲜为人知细菌蛋白质序列的能力。他让分析程序运行了整晚，第二天对结果非常吃惊。Anthropic 最新版本的Claude 表现不仅优于其它大模型，而且超过了针对蛋白质序列训练过的专门工具。他与哈佛医学院的 Leo Chen 分享的这一发现在计算生物学界引发了热议。本周二 OpenAI 宣布其最新大模型成功设计出新蛋白质，在实验室合成和测试时部分新蛋白质的行为和预期一样。该研究引发了 生物 AI 未来的讨论，部分科学家预测 Claude 和 ChatG",
+   "published_at": 1795620391.0,
+   "published_bj": "2026-11-25 23:26"
+  },
+  {
+   "id": "868bb58543475dd6",
+   "source": "IT之家",
+   "title": "上汽 MG 07T 旅行车申报：纯电 / 插混双动力，选装车顶激光雷达",
+   "url": "https://www.ithome.com/1/032/525.htm",
+   "summary": "IT之家 11 月 25 日消息，工信部发布第 414 批《道路机动车辆生产企业及产品公告》新产品公示， MG 07T （名爵 07 旅行版）完成申报。 IT之家注意到，本次申报的 MG 07T 与在售的 MG 07 轿车版保持同一平台与同源设计语言，但车尾改为旅行 / 猎装造型，增加了车顶行李架，整体更偏向“瓦罐”姿态。 新车长宽高分别为 4889 / 1900 / 1487mm （部分版本为 1485mm / 1478mm），轴距 2825mm ，定位中型纯电 / 插混旅行车，整备质量介于 1780-1915kg 之间，核定载客 5 人。 动力方面，本次申报共出现 3 个版本： 1. 磷酸",
+   "published_at": 1795620225.0,
+   "published_bj": "2026-11-25 23:23"
+  },
+  {
+   "id": "50694b5b18c21ec3",
+   "source": "IT之家",
+   "title": "极狐阿尔法 T5 换电版申报，搭载宁德时代磷酸铁锂电池",
+   "url": "https://www.ithome.com/1/032/524.htm",
+   "summary": "IT之家 11 月 25 日消息，工信部发布第 414 批《道路机动车辆生产企业及产品公告》新产品公示，极狐阿尔法 T5 换电式纯电动多用途乘用车完成申报。 IT之家注意到，本次申报的极狐阿尔法 T5 为定位纯电多用途乘用车的 SUV 产品，由北汽蓝谷麦格纳汽车有限公司生产制造，注册及生产地址均位于镇江市丹徒区上党镇北汽大道 1 号。外观尺寸方面，车辆长宽高分别为 4760mm、1936mm、1650mm，轴距为 2845mm，前轮距与后轮距均为 1640mm，采用 2 轴设计，前悬 / 后悬分别为 991mm、924mm，接近角与离去角为 17/21 度，整备质量 2005kg，总质量 24",
+   "published_at": 1795620176.0,
+   "published_bj": "2026-11-25 23:22"
+  },
+  {
+   "id": "fa17f0f47d376389",
+   "source": "IT之家",
+   "title": "踩刹车！李想宣布理想汽车更新节奏从一年一次调整为两年一次",
+   "url": "https://www.ithome.com/1/032/523.htm",
+   "summary": "IT之家 11 月 25 日消息，据理想车友群分享，在理想汽车 2026 年第三季度财报电话会上，理想汽车董事长兼 CEO 李想透露，理想车型的更新节奏会从过去的一年一次调整为两年左右一次。理想汽车认为这个调整对于用户、行业、供应商和自己都是更有利的。 首先， 它符合工信部两冬一夏的测试验证要求 。这样的验证要求对于车的质量、车的验证以及行业的健康度，我认为是非常有利的。所以我们要坚定地执行。 第二， 这个节奏对用户会更友好 。更长的产品周期意味着更好的保值率，更稳定的产品服务，还有更好的体验，包括软件的迭代也都会变得更好，能够给用户带来更高的满意度。 第三，我们今年完成了自研的三电和芯片的搭",
+   "published_at": 1795620062.0,
+   "published_bj": "2026-11-25 23:21"
+  },
+  {
+   "id": "49afd5a1ad49d813",
+   "source": "Hacker News",
+   "title": "In C++, = default and {} are not the same constructor",
+   "url": "https://lemire.me/blog/2026/11/02/default-and-braces-are-not-the-same-constructor/",
+   "summary": "Article URL: https://lemire.me/blog/2026/11/02/default-and-braces-are-not-the-same-constructor/ Comments URL: https://news.ycombinator.com/item?id=50643199 Points: 89 # Comments: 149",
+   "published_at": 1795620015.0,
+   "published_bj": "2026-11-25 23:20"
+  },
+  {
+   "id": "50c0f79ee9c93b6f",
+   "source": "Hacker News",
+   "title": "A few questions for the guy who went snorkeling in a Home Depot retention pond",
+   "url": "https://www.vox.com/down-to-earth/511999/home-depot-retention-pond-snorkel-joseph-ricketts",
+   "summary": "Article URL: https://www.vox.com/down-to-earth/511999/home-depot-retention-pond-snorkel-joseph-ricketts Comments URL: https://news.ycombinator.com/item?id=50643129 Points: 388 # Comments: 97",
+   "published_at": 1795619672.0,
+   "published_bj": "2026-11-25 23:14"
+  },
+  {
+   "id": "be1c32f9780e348f",
+   "source": "IT之家",
+   "title": "零跑 C11L 申报：纯电 / 增程可选，轴距 3000mm",
+   "url": "https://www.ithome.com/1/032/522.htm",
+   "summary": "IT之家 11 月 25 日消息，工信部发布第 414 批《道路机动车辆生产企业及产品公告》新产品公示，零跑 C11L 纯电版、增程版完成申报。 IT之家注意到，本次申报的零跑 C11L 提供纯电动、插电式增程混合动力两种动力版本。车尾标识明确显示销售型号为 C11L，整体车身尺寸完全一致， 长 5010mm、宽 1976mm，高度有 1680mm、1690mm 两种规格，轴距为 3000mm ，额定载客 5 人，轮胎规格涵盖 235/55R20、255/50R20、235/50R21、265/45R21 四种可选，最高车速均为 190km/h，两款车型均配备 ABS 防抱死制动系统与汽车事件",
+   "published_at": 1795619652.0,
+   "published_bj": "2026-11-25 23:14"
+  },
+  {
+   "id": "3709f57b95603856",
+   "source": "IT之家",
+   "title": "鸿蒙智行尚界 Z9 增程版 SUV 申报：1.5T 增程系统，宁德时代双电池方案",
+   "url": "https://www.ithome.com/1/032/521.htm",
+   "summary": "IT之家 11 月 25 日消息，工信部发布第 414 批《道路机动车辆生产企业及产品公告》新产品公示，尚界 Z9 增程版完成申报。 IT之家注意到，本次申报的两款车型均为插电式增程混合动力运动型乘用车，由上汽集团生产制造，车尾标注有「尚界 Z9」标识。 新车尺寸为 5139×2005×1776mm、轴距 3086mm ，前后悬分别为 971mm、1082mm，接近角与离去角为 17 度、20 度，整备质量介于 2810kg 至 2955kg 区间，额定载客人数提供 5 座、6 座 两种布局，最高车速可达 210km/h。 动力部分， 新车搭载上汽集团自产的 1.5T 涡轮增压发动机 ，具体型",
+   "published_at": 1795619517.0,
+   "published_bj": "2026-11-25 23:11"
+  },
+  {
+   "id": "44943335b71f710a",
+   "source": "IT之家",
+   "title": "新款广汽本田雅阁车型申报：全新眯眯眼前脸，2.0L 油混动力",
+   "url": "https://www.ithome.com/1/032/520.htm",
+   "summary": "IT之家 11 月 25 日消息，工信部发布第 414 批《道路机动车辆生产企业及产品公告》新产品公示，广汽本田雅阁 2.0L 混动版完成申报。 IT之家注意到，本次申报车型为 广汽本田雅阁混动版 ，产品型号为 GHA7202AAC6AHEV，车辆类型为混合动力轿车。新车的前脸设计有较大改变，采用大尺寸进气格栅与锐利的前大灯组，车身侧面线条流畅，配备黑色外后视镜与 19 英寸轮圈。 ▲ 现款本田雅阁前脸设计 车身尺寸方面，新车长宽高分别为 4986 / 1862 / 1449mm ，轴距为 2830mm ，前轮距 1591mm，后轮距 1613mm，接近角 / 离去角为 14/18 度，前后悬",
+   "published_at": 1795619341.0,
+   "published_bj": "2026-11-25 23:09"
+  },
+  {
+   "id": "5effcf0636df6e53",
+   "source": "Hacker News",
+   "title": "Rumors swirling that labs might have cracked Factoring in P",
+   "url": "https://www.reddit.com/r/singularity/comments/1y59ef1/rumor_that_openai_or_anthropic_found_a_way_to/",
+   "summary": "Article URL: https://www.reddit.com/r/singularity/comments/1y59ef1/rumor_that_openai_or_anthropic_found_a_way_to/ Comments URL: https://news.ycombinator.com/item?id=50643065 Points: 416 # Comments: 289",
+   "published_at": 1795619324.0,
+   "published_bj": "2026-11-25 23:08"
+  },
+  {
+   "id": "9a0bce05c51710bb",
+   "source": "TechCrunch",
+   "title": "Allstate suffers multi-day tech outage ahead of Thanksgiving",
+   "url": "https://techcrunch.com/2026/11/25/allstate-suffers-multi-day-tech-outage-ahead-of-thanksgiving/",
+   "summary": "The disruption comes at a particularly bad time for the insurance giant, as millions of Americans prepare to travel for the Thanksgiving holiday weekend.",
+   "published_at": 1795619317.0,
+   "published_bj": "2026-11-25 23:08"
+  },
+  {
+   "id": "8ee5a15b2068673b",
+   "source": "IT之家",
+   "title": "鸿蒙智行享界 V8 新版型申报：原生升降顶，支持驻车休憩 / 户外娱乐 / 移动办公",
+   "url": "https://www.ithome.com/1/032/519.htm",
+   "summary": "IT之家 11 月 25 日消息，工信部发布第 414 批《道路机动车辆生产企业及产品公告》新产品公示，享界 V8 增程露营版完成申报。 IT之家注意到，本次申报车型为专用乘用车形态，车尾带有 「享界 V8」 标识，整体车身尺寸为 5335×2005×1905mm ， 轴距 3250mm ，整备质量 3060kg、总质量 3620kg，额定载客 6 人，采用 255/55 R19 轮胎，配备博世 ESP10 防抱死制动系统，最高车速 215km/h。 该车核心特色为 升降顶露营配置 ，官方公示标注该车型具备升降顶功能，配备升降车顶、车顶床板等装置，用于满足人员休息、户外娱乐、移动办公等文化生活",
+   "published_at": 1795619182.0,
+   "published_bj": "2026-11-25 23:06"
+  },
+  {
+   "id": "2df1cc9d6d7467ce",
+   "source": "IT之家",
+   "title": "双电机综合功率达 680kW，极氪 8X 纯电版申报",
+   "url": "https://www.ithome.com/1/032/518.htm",
+   "summary": "IT之家 11 月 25 日消息，工信部发布第 414 批《道路机动车辆生产企业及产品公告》新产品公示，极氪 8X 纯电版完成申报。 IT之家注意到，本次申报的极氪 8X 是极氪 8X 序列下的纯电动版本，车辆定位纯电动多用途乘用车，车身长宽高分别为 5100mm、2000mm、1780mm，轴距为 3069mm，前轮距 1732mm、后轮距 1745mm，前悬 / 后悬尺寸为 943mm/1088mm，接近角 / 离去角为 20°/22°，整备质量在 2760kg 至 2915kg 区间，总质量为 3365kg/3465kg，搭载 5 座或 6 座两种座椅布局。 动力层面，该车搭载型号为 Y",
+   "published_at": 1795618929.0,
+   "published_bj": "2026-11-25 23:02"
+  },
+  {
+   "id": "7bad70d510b21f1c",
+   "source": "IT之家",
+   "title": "小米新一代 SU7 Ultra 申报：三电机驱动最大功率超 1100kW 、极速 318km/h",
+   "url": "https://www.ithome.com/1/032/517.htm",
+   "summary": "IT之家 11 月 25 日消息，工信部发布第 414 批《道路机动车辆生产企业及产品公告》新产品公示，新一代小米 SU7 Ultra 完成申报。 本次申报的小米 SU7 Ultra 属于高性能纯电动轿车，车身提供多种尺寸规格， 车长区间为 5086mm - 5315mm，车宽为 1970mm 或 2014mm，车高为 1465mm 或 1509mm ，轴距固定为 3000mm，额定载客人数为 5 人或 2 人。 IT之家注意到，该车采用 三电机四驱布局，前电机峰值功率 288kW，左右后电机峰值功率均为 425kW，系统综合最大功率达 1138kW ，对应的最高车速为 318km/h 。电池",
+   "published_at": 1795618762.0,
+   "published_bj": "2026-11-25 22:59"
+  },
+  {
+   "id": "353dd7a29ac3d235",
+   "source": "Hacker News",
+   "title": "I checked Clojure's core with Lean and found unreported bugs",
+   "url": "https://s.conao3.com/blog/2026/e4f733",
+   "summary": "Article URL: https://s.conao3.com/blog/2026/e4f733 Comments URL: https://news.ycombinator.com/item?id=50642939 Points: 149 # Comments: 52",
+   "published_at": 1795618612.0,
+   "published_bj": "2026-11-25 22:56"
+  },
+  {
+   "id": "0e6aa9b791f92c5b",
+   "source": "IT之家",
+   "title": "华为 HarmonyOS 系统分布式软总线升级，鸿蒙星河互联支持跨 OS 互通能力",
+   "url": "https://www.ithome.com/1/032/516.htm",
+   "summary": "IT之家 11 月 25 日现场消息，在今天下午的 HarmonyOS 创新技术沟通会上，华为 Fellow、HarmonyOS 首席架构师李世军分享了鸿蒙在互联方面的探索。 据李世军介绍，个人的手机、平板、电脑、穿戴设备越来越多，设备间的自然、无缝、稳定连接变得越来越重要，而连接环境复杂， 有蓝牙、Wi-Fi、NFC 等 。 华为通过鸿蒙分布式软总线，让复杂的、分散的无线技术收拢成了有序的横向网络，设备连接更简单方便。李世军表示，过去分布式主要聚焦鸿蒙 HarmonyOS 设备，而现在进一步升级为鸿蒙星河互联。 IT之家在沟通会现场了解到，鸿蒙星河互联现在不仅可以连 HarmonyOS 设备",
+   "published_at": 1795618444.0,
+   "published_bj": "2026-11-25 22:54"
+  },
+  {
+   "id": "53599381477cadbb",
+   "source": "Solidot",
+   "title": "NASA 计划 2028 年发射验证核电推进技术的探测器",
+   "url": "https://www.solidot.org/story?sid=85991",
+   "summary": "NASA 计划 2028 年发射验证深空核电推进技术的探测器 Space Reactor‑1 Freedom（SR-1）。SR-1 将利用核能和太阳能将 SkyFall 舱送往火星，SkyFall 内有三架新一代直升机，这些直升机将研究火星的地质和气候历史，探索新地形，搜寻地下冰层的迹象。SR-1 将配备一台布雷顿闭式循环裂变反应堆，使用高纯度但低浓缩的铀作为燃料，能产生 20 千瓦以上的电力。",
+   "published_at": 1795618297.0,
+   "published_bj": "2026-11-25 22:51"
+  },
+  {
+   "id": "695bf6e312a52dff",
+   "source": "IT之家",
+   "title": "态度反转：消息称亚马逊与 Meta 洽谈合作，或将开放商城给 Muse AI 购物助手",
+   "url": "https://www.ithome.com/1/032/515.htm",
+   "summary": "IT之家 11 月 25 日消息，有消息显示，亚马逊对 Meta 旗下 AI 智能体 Muse 的态度或许正在转变。两大巨头正在洽谈一项合作，希望让 Muse 直接接入亚马逊电商平台。 IT之家注意到，这次谈判和两个月前的局面形成鲜明反差：当时用户尝试通过 Muse 在亚马逊下单结账时，会直接收到报错，亚马逊对 Muse 实施了屏蔽。 《财富》当地时间周三援引知情人士报道，双方已经开展多轮磋商。目前谈判卡在两个核心议题：合作模式下商品搜索结果如何展示、广告业务怎么安排。 亚马逊最大的顾虑，是 Muse 这类第三方购物智能体会冲击自身广告收入。今年 10 月，亚马逊 CEO 安迪 · 贾西还表态",
+   "published_at": 1795617947.0,
+   "published_bj": "2026-11-25 22:45"
+  },
+  {
+   "id": "7195d89eadd0b234",
+   "source": "Solidot",
+   "title": "研究显示不是所有地区的男性精子数量都大幅下降",
+   "url": "https://www.solidot.org/story?sid=85990",
+   "summary": "丹麦的一项研究显示，该国男性精子的数量并非大幅下降，过去 26 年一直维持稳定，甚至少数人还表现出改善的迹象。这项研究表明男性精子数量的变化趋势可能存在地域差异。对男性精子数量的担忧始于 1992 年，《British Medical Journal》期刊当时发表的一项研究发现自 1940 年以来男性精子浓度下降了 42%。2022 年的一项荟萃​​分析显示 1973-2018 年间男性精子浓度下降了逾 50%，精子总数下降逾 60%。北美、欧洲、澳大利亚、南美、中美洲、亚洲和非洲都出现精子数量下降的现象——尽管下降幅度各不相同。丹麦的研究表明精子数量是否正在下降并没有盖棺定论。",
+   "published_at": 1795616847.0,
+   "published_bj": "2026-11-25 22:27"
+  },
+  {
+   "id": "d6e669302ae57119",
+   "source": "TechCrunch",
+   "title": "Todoist confirms 6% of customers’ details were stolen in data breach",
+   "url": "https://techcrunch.com/2026/11/25/todoist-confirms-6-of-customers-details-were-stolen-in-data-breach/",
+   "summary": "Todoist said a hacker gained access to its production systems and stole customer data, including email IDs, password hashes, and account creation dates.",
+   "published_at": 1795616428.0,
+   "published_bj": "2026-11-25 22:20"
+  },
+  {
+   "id": "d4d2fff646c8c599",
+   "source": "Solidot",
+   "title": "如何维护超算",
+   "url": "https://www.solidot.org/story?sid=85989",
+   "summary": "美国橡树岭国家实验室的超算 Frontier 有数以千计的计算节点，维护其正常工作是一大挑战。无法纠正的内存错误，维护失误都会引发问题。技术人员在狭窄紧密的机架之间工作时可能会重启错误的节点，或意外触碰相邻节点的电源。硬件故障可能会影响单个节点，但对于运行在数千个处理器上的模拟任务而言，这可能导致整个进程逐渐停止工作。随之而来的问题是：计算进度最近储存的时间？多少计算工作需要重做？调度程序多久才能让该任务重新运行？Frontie 超算上 HBM 内存发生无法纠正双位错误的概率是每天 1.5 次，相比下该实验室的上一代超算 Summit 每两周才会出现一次此类错误，原因是 Frontie 的内存",
+   "published_at": 1795616283.0,
+   "published_bj": "2026-11-25 22:18"
+  },
+  {
+   "id": "a81b96b2cfe78de1",
+   "source": "IT之家",
+   "title": "古尔曼：苹果内部已测试 iPad 运行 macOS，但暂无面向消费者落地计划",
+   "url": "https://www.ithome.com/1/032/503.htm",
+   "summary": "IT之家 11 月 25 日消息，iPad 早已用上和 Mac 同源的 Apple Silicon 芯片，很多用户都希望苹果能允许直接在平板上运行 macOS，摆脱目前 iPadOS 不够顺手的窗口管理。而触屏版 MacBook Pro 的推出，也让苹果过去“不做设备融合”的说辞说服力下降。 彭博社马克 · 古尔曼在播客问答中透露，苹果内部确实已经实现 iPad 运行 macOS，但大家不必期待它很快对外发布。 IT之家注意到，随着 iPad 硬件性能持续变强，配套系统功能追赶得比较吃力：iPadOS 26 才正式加入完整窗口功能，但这套界面相比 macOS 依旧生硬，这也是很多用户期盼 ma",
+   "published_at": 1795615848.0,
+   "published_bj": "2026-11-25 22:10"
+  },
+  {
+   "id": "fd8ba0f4a06357eb",
+   "source": "TechCrunch",
+   "title": "Amazon and Meta reportedly in talks to lift blockade on AI agent Muse",
+   "url": "https://techcrunch.com/2026/11/25/amazon-and-meta-reportedly-in-talks-to-lift-blockade-on-ai-agent-muse/",
+   "summary": "Amazon and Meta are discussing a potential deal that would end a two-month-long blockade of Muse.",
+   "published_at": 1795615818.0,
+   "published_bj": "2026-11-25 22:10"
+  },
+  {
+   "id": "e258e9f21ae56049",
+   "source": "IT之家",
+   "title": "蔚来总裁秦力洪：当价格战打不动时，长期价值会重新回到舞台中心",
+   "url": "https://www.ithome.com/1/032/502.htm",
+   "summary": "IT之家 11 月 25 日消息，今天是蔚来公司十二周年，第三届 NIO IN 蔚来创新科技日于广州举办。 据新浪科技报道，谈及未来公司规划，蔚来联合创始人、总裁秦力洪表示：“今年汽车行业的状况大家都能够感受到。对于我们公司来说， 第一得实事求是 ，我们所有年度经营规划战略以及期望目标，要符合对行业发展趋势和背景的判断， 不能脱离实际 。” 他还表示：“第二，我觉得像这两年比较激进的价格战， 感觉大家都打不动 了 。当总量到了一定的数字，价格战又打不动的时候， 我觉得长期价值会重新回到舞台的中心 。” 据IT之家此前报道，2026 年 1-10 月， 蔚来公司共交付新车 334,547 台 ，",
+   "published_at": 1795615552.0,
+   "published_bj": "2026-11-25 22:05"
+  },
+  {
    "id": "ad25fab10b7fb6fd",
    "source": "InfoQ中文",
    "title": "Netflix 基于运维数据打造知识图谱，实现 AI 可观测性",
@@ -29,6 +326,60 @@
    "summary": "点击查看原文>",
    "published_at": 1795615200.0,
    "published_bj": "2026-11-25 22:00"
+  },
+  {
+   "id": "16ad795d573f98a6",
+   "source": "IT之家",
+   "title": "小米“米家洗衣机健康洗 Pro 双筒洗烘 2kg”开售：双筒独立洗烘，国补到手价 2199 元",
+   "url": "https://www.ithome.com/1/032/500.htm",
+   "summary": "IT之家 11 月 25 日消息，小米“米家洗衣机健康洗 Pro 双筒洗烘 2kg”今晚正式开售，建议零售价 2999 元，电商平台标价 2587 元， 国补到手价 2199 元 。 据介绍，该产品拥有 2kg 容量（洗：1+1kg；烘：0.5+0.5kg）， 双筒独立洗烘 ，拒绝交叉感染；1.87 蛋白洗净比，1.92 血渍洗净比；搭载 DD 直驱电机，拥有 228mm 筒径；支持 34 种特渍专属程序，涵盖奶渍、果蔬果酱渍、血渍、咖啡渍等；支持 双路智能投放 ，配备双筒 200ml 投放盒，加满一次使用 1 个月。 IT之家附产品参数： 京东 小米米家洗衣机迷你双筒洗烘一体 2kg 258",
+   "published_at": 1795614823.0,
+   "published_bj": "2026-11-25 21:53"
+  },
+  {
+   "id": "19d7589831dc8ca4",
+   "source": "IT之家",
+   "title": "华为陈海波称设计鸿蒙一大重要考虑是性能：HarmonyOS“全栈熵减”，实现终端性能持续提升",
+   "url": "https://www.ithome.com/1/032/499.htm",
+   "summary": "IT之家 11 月 25 日现场消息，在今天的 HarmonyOS 创新技术沟通会上，华为 Fellow、鸿蒙首席科学家陈海波登台，介绍了鸿蒙 HarmonyOS 系统的设计。 陈海波称，当初设计鸿蒙的第二个重要考虑是性能。因为应用的创新是日新月异的，而每一个创新都需要有相应的应用支撑。 所以每年应用对资源的需求增长约 20%~30% 。而华为需要鸿蒙能够支撑终端的性能可以长期、可持续的提升。 但是，传统的移动操作系统发展至今，各种各样的系统组件已经十分臃肿，而且各系统层之间的协同比较差，从而导致越用越卡。陈海波提到这一情况学术的叫法是熵增 —— 即无序的程度在增加。 IT之家在沟通会现场了解",
+   "published_at": 1795614579.0,
+   "published_bj": "2026-11-25 21:49"
+  },
+  {
+   "id": "cf9685d2a22bcdab",
+   "source": "IT之家",
+   "title": "设计时速 350 公里：济滨高铁试运行，山东最大地下高铁站同步测试",
+   "url": "https://www.ithome.com/1/032/498.htm",
+   "summary": "IT之家 11 月 25 日消息，据央视新闻报道，11 月 25 日 8:30，55301 次试验动车组列车从济南东站平稳驶出，标志着新建天津至潍坊高速铁路济南联络线 —— 济滨高铁的联调联试圆满结束， 正式进入试运行阶段 ，全线开通运营进入倒计时。 济滨高铁自济南东站引出，终到滨州站，正线全长约 145.3 公里，设计时速 350 公里。 全线设济南东、遥墙机场、济阳、商河、惠民、滨州 6 座车站， 其中济南东站、滨州站为既有站，其余为新建站。 济滨高铁遥墙机场站建筑面积约 5.7 万平方米，站场规模 2 台 6 线， 是山东省台线规模最大的地下高铁站 。该站与沿途各站同步开展客运服务的全流",
+   "published_at": 1795614255.0,
+   "published_bj": "2026-11-25 21:44"
+  },
+  {
+   "id": "d30ef6f999fce4f3",
+   "source": "IT之家",
+   "title": "30 种零件成整车质保“例外”：长安启源被指修改质保权益，相关负责人称三包未变、App 展示错误",
+   "url": "https://www.ithome.com/1/032/497.htm",
+   "summary": "IT之家 11 月 25 日消息，据红星资本局今日报道，近期多位长安启源 Q05、Q07、A06 车主称，车主 App 内车辆质保权益中新增了“特殊零部件”一栏，包含减震器、全车灯具、摄像头、传感器、油漆、车门锁、后视镜等 30 多种零部件， 三包年限为 3 年 / 12 万公里，而购车时厂家承诺整车质保 6 年 / 15 万公里质保 。 11 月 23 日，博主 @启源小 K 发文表示，当前长安启源系列车型（A06/Q06/Q05/Q07）均提供三电终身质保和整车 6 年 / 15 万公里质保。他强调：目前的权益和政策没有变化，可以三包凭证为准， 不存在“6 年变 3 年”“质保缩短”“更改",
+   "published_at": 1795613739.0,
+   "published_bj": "2026-11-25 21:35"
+  },
+  {
+   "id": "ec662c6b858f1b64",
+   "source": "Hacker News",
+   "title": "Google releases Cogentic papers on integer factorization, discrete logs and more",
+   "url": "https://github.com/google-research/google-research/tree/master/cogentic_research_papers",
+   "summary": "Article URL: https://github.com/google-research/google-research/tree/master/cogentic_research_papers Comments URL: https://news.ycombinator.com/item?id=50642086 Points: 401 # Comments: 312",
+   "published_at": 1795613587.0,
+   "published_bj": "2026-11-25 21:33"
+  },
+  {
+   "id": "1be236be790d7ae6",
+   "source": "IT之家",
+   "title": "SK 海力士计划 4 至 5 年内量产 3D DRAM，首款产品采用 100 层堆叠",
+   "url": "https://www.ithome.com/1/032/496.htm",
+   "summary": "IT之家 11 月 25 日消息，据 The Elec 报道，SK 海力士资深工程师崔康植（Choi Kang-sik）在首尔大学 AI 半导体论坛上透露，公司目标在 4 至 5 年内实现 3D DRAM 量产，首款商用产品将采用 100 层垂直堆叠存储单元。 他介绍，想要达到当前 10nm 级 DRAM 同等密度，大约需要 75 层存储单元；综合其他设计考量，第一款量产产品直接定为 100 层。现有设备可以支撑 100 层方案的制造，但如果后续要做到 200 层、300 层甚至更高堆叠，就需要专用新设备。长期规划上，SK 海力士计划借鉴 3D NAND 的多层堆叠与混合键合技术，冲击 100",
+   "published_at": 1795613584.0,
+   "published_bj": "2026-11-25 21:33"
   },
   {
    "id": "4ea4c1a4d10d1047",
@@ -58,6 +409,33 @@
    "published_bj": "2026-11-25 21:19"
   },
   {
+   "id": "97e382bd58ddcb57",
+   "source": "IT之家",
+   "title": "“一生万物，万物归一”：华为鸿蒙元 OS 架构 + 分布式互联，实现设备“车同轨，书同文”",
+   "url": "https://www.ithome.com/1/032/495.htm",
+   "summary": "IT之家 11 月 25 日现场消息，在今天下午的 HarmonyOS 创新技术沟通会上，华为 Fellow、鸿蒙首席科学家陈海波登台发表了演讲。会上， 陈海波重提了鸿蒙系统“一生万物，万物归一”的设计理念 。 据陈海波回忆，2016 年，华为公司支持他创立了操作系统内核实验室，并开始着手研发面向万物智联的操作系统底座。当时他和团队在思考如何取名时， 借鉴了《道德经》的思想，给新的内核取名为“鸿蒙” 。 华为希望鸿蒙能够成为万物智联“一生二，二生三，三生万物”中的“一”，即万物智联的基座。但是光有“一生万物”是不够的，还需要生态能够做到互联互通和统一，即设计理念中的“万物归一”。 陈海波称， ",
+   "published_at": 1795612566.0,
+   "published_bj": "2026-11-25 21:16"
+  },
+  {
+   "id": "fbeb105b0806ff8a",
+   "source": "TechCrunch",
+   "title": "Flipkart CEO Kalyan Krishnamurthy to step down next week amid IPO uncertainty",
+   "url": "https://techcrunch.com/2026/11/25/flipkart-ceo-kalyan-krishnamurthy-to-step-down-next-week-amid-ipo-uncertainty/",
+   "summary": "Flipkart's product and technology chief Balaji Thiagarajan will lead the company alongside its board until a successor is found.",
+   "published_at": 1795612099.0,
+   "published_bj": "2026-11-25 21:08"
+  },
+  {
+   "id": "fc0d93f84ac364bd",
+   "source": "IT之家",
+   "title": "苹果 macOS 27 巧妙解决窗口缩放 Bug：圆角动态过渡匹配新款 MacBook Pro 屏幕物理圆角",
+   "url": "https://www.ithome.com/1/032/494.htm",
+   "summary": "IT之家 11 月 25 日消息，不少人应该还有印象：macOS 26（Tahoe）界面出过一个体验 Bug，拖拽窗口边角调整大小经常失灵。现在这个问题背后的原因终于清楚了，苹果在 macOS 27（Golden Gate）里用了一套巧妙有趣的方案解决了它。 IT之家注意到，之前很多用户都发现，在 macOS Tahoe 里抓窗口边角缩放很容易失败。开发者诺伯特 · 赫格（Norbert Heger）找到了根源：苹果修改了窗口圆角半径，却没有同步调整可拖拽点击区域。 窗口边角的可抓取区域是固定 19×19 像素范围。如果窗口没有圆角，这块区域 62% 都落在窗口内部，可以正常识别点击；但 Ta",
+   "published_at": 1795611672.0,
+   "published_bj": "2026-11-25 21:01"
+  },
+  {
    "id": "272e502499c83071",
    "source": "InfoQ中文",
    "title": "谷歌开源环境质量智能体 AQuA，用于诊断生产环境 AI 智能体故障",
@@ -65,6 +443,51 @@
    "summary": "点击查看原文>",
    "published_at": 1795611600.0,
    "published_bj": "2026-11-25 21:00"
+  },
+  {
+   "id": "41c15c03d3fb659c",
+   "source": "TechCrunch",
+   "title": "The questions Jensen Huang and Nvidia will still have to answer about Megaspeed",
+   "url": "https://techcrunch.com/2026/11/25/the-questions-jensen-huang-and-nvidia-will-still-have-to-answer-about-megaspeed/",
+   "summary": "The central question for investigators is what Nvidia knew about where those chips ended up and whether Huang's affair with a Megaspeed executive gave the company reason to doubt Megaspeed's assurances.",
+   "published_at": 1795611600.0,
+   "published_bj": "2026-11-25 21:00"
+  },
+  {
+   "id": "a3e62d9b4fdcaba3",
+   "source": "IT之家",
+   "title": "消息称支付技术企业 Stripe 估值有望在新一轮股票回购中突破 2000 亿美元",
+   "url": "https://www.ithome.com/1/032/488.htm",
+   "summary": "IT之家 11 月 25 日消息，《华尔街日报》当地时间昨日报道称，支付技术企业 Stripe 正在讨论新一轮的年度例行股票回购计划。 该企业的估值有望在本轮回购中突破 2,000 亿美元 （IT之家注：现汇率约合 1.34 万亿元人民币） 。 按照惯例， Stripe 将在新年初正式宣布回购计划 ，便于员工套现持股。知情人士透露，此次回购的出资方除 Stripe 自身外很可能还包括现有投资者。 Stripe 正积极涉足人工智能领域 ：该企业今年 8 月以超 70 亿美元收购 OpenRouter，并将自身技术栈与智能体消费市场整合。Stripe 还并购了软件按用量计费初创企业 Metrono",
+   "published_at": 1795610250.0,
+   "published_bj": "2026-11-25 20:37"
+  },
+  {
+   "id": "a4cf8b72ea5170ab",
+   "source": "IT之家",
+   "title": "华为陈海波：鸿蒙的初衷是万物智联，而非平替现有操作系统",
+   "url": "https://www.ithome.com/1/032/487.htm",
+   "summary": "IT之家 11 月 25 日现场消息，在今天的 HarmonyOS 创新技术沟通会上，华为 Fellow、鸿蒙首席科学家陈海波登台发表了演讲。他也在现场宣布，鸿蒙终端设备数破亿， 跨越“梅特卡夫拐点”进入发展新阶段 。 IT之家注意到，在介绍完鸿蒙的发展情况后， 陈海波提及了鸿蒙的初衷是万物智联，而非平替现有操作系统 。他称，华为团队思考的是，如何为万物感知、万物互联和万物智能的未来设计全新操作系统。 陈海波表示，十多年前，华为围绕未来世界需要什么样的操作系统进行了洞察、分析。华为发现， 操作系统在发展过程中，实际上和信息产业是共生演进的，不同时期需要不同特质的操作系统 。而面向万物智联时代，",
+   "published_at": 1795610196.0,
+   "published_bj": "2026-11-25 20:36"
+  },
+  {
+   "id": "7921790d6a764bc6",
+   "source": "IT之家",
+   "title": "数毛社分析《GTA 6》移植 Switch 2 可能性：技术可行，但要大砍特效",
+   "url": "https://www.ithome.com/1/032/486.htm",
+   "summary": "IT之家 11 月 25 日消息，《侠盗猎车手 6》（GTA 6）发售将近一周，PS5 与 Xbox Series X|S 玩家已经跟着杰森、露西亚探索罪城和莱昂尼达，PC 以及 Switch 2 玩家暂时还玩不到。PC 版只是时间问题；受硬件规格限制，Switch 2 移植版未必会立项（去年曾有消息说 R 星评估过可行性）。不过 Digital Foundry 的技术团队在长时间分析现有主机版本后认为，移植在技术层面存在可能性，但想要稳住 30 帧，必须做出大量关键取舍。 IT之家注意到，Digital Foundry 的约翰 · 林内曼（John Linneman）在每周播客里说：“我一开",
+   "published_at": 1795609875.0,
+   "published_bj": "2026-11-25 20:31"
+  },
+  {
+   "id": "0edc5b20abc30582",
+   "source": "IT之家",
+   "title": "奥迪中国回应“网传长春工厂产能利用率跌破 10%”：工厂根据各车型的市场需求灵活安排生产",
+   "url": "https://www.ithome.com/1/032/485.htm",
+   "summary": "IT之家 11 月 25 日消息，德国《商报》本周报道称，奥迪预计其位于中国长春的一家工厂今年将产生约 5 亿欧元 （IT之家注：现汇率约合 36.54 亿元人民币） 亏损。奥迪内部人士称，该工厂目前的产能利用率已降至 10% 以下。 就此传闻，奥迪中国方面 11 月 25 日向蓝鲸汽车回应称，中国新能源汽车市场，尤其是豪华细分市场，竞争激烈且发展迅速。 该细分市场的增长速度低于数年前的预期 ，这也一定程度上影响了长春工厂生产的 PPE 平台车型的产量。 其进一步指出， 工厂根据各车型的市场需求灵活安排生产，近期我们也相应调整了生产计划。 目前暂无更多细节可以分享。按照惯例，奥迪股份公司将于 ",
+   "published_at": 1795609826.0,
+   "published_bj": "2026-11-25 20:30"
   },
   {
    "id": "414c9d907b7fc763",
@@ -776,6 +1199,15 @@
    "summary": "IT之家 11 月 25 日消息，太阳并非永恒存在，在数十亿年之后，它终将迎来终结。大质量恒星的落幕是剧烈的超新星爆发，而太阳以及质量相近的恒星，死亡过程要温和得多。不过这并不代表它们会悄无声息地消散。 依托阿塔卡马大型毫米波 / 亚毫米波阵列（ALMA）获得的最新观测数据，科学家发现，太阳走向消亡时的演化过程，可能和以往理论模型的推测并不相同。这座全球最大的射电望远镜阵列坐落于智利北部，由 66 座天线组成。 本次研究的负责人、美国国家航空航天局喷气推进实验室（JPL）研究员拉格温德拉 · 萨海（Raghvendra Sahai）这样解读 ALMA 的观测成果：“这相当于为一个事件拍下了真实",
    "published_at": 1795595041.0,
    "published_bj": "2026-11-25 16:24"
+  },
+  {
+   "id": "6ed3c9c7a3e9486f",
+   "source": "Hacker News",
+   "title": "The industrialization of noise: Automated proof-solving is the same old dead end [pdf]",
+   "url": "https://arxiv.org/abs/2611.31286",
+   "summary": "Article URL: https://arxiv.org/abs/2611.31286 Comments URL: https://news.ycombinator.com/item?id=50639929 Points: 61 # Comments: 88",
+   "published_at": 1795595014.0,
+   "published_bj": "2026-11-25 16:23"
   },
   {
    "id": "2fa677a2897c4645",
@@ -1640,6 +2072,15 @@
    "summary": "IT之家 11 月 25 日消息，2026 年 11 月 25 日 0 时起始发开行的国铁普速旅客列车、11 月 24 日 18 时起始发开行的货物列车正式启用新车次。普速旅客列车如今使用 Z、N、V 字头，普速旅游列车使用 Y 字头，货运班列使用 B 字头字母，采用无字头字母编排方式的其他货列、路用列车车次相应进行优化调整， 共涉及客货列车 4700 余列 。 据“中国铁路”公众号今日更新，中国铁路集团 2026 版《列车车次编排规定》将动车组旅客列车车次的字头字母由原来的 4 个增加至 7 个，可编排的列车车次数量增长近 40%，货物列车新增“DH”字头字母。 普速旅客列车方面，将原有 T",
    "published_at": 1795572070.0,
    "published_bj": "2026-11-25 10:01"
+  },
+  {
+   "id": "6e872408affdc9b7",
+   "source": "Hacker News",
+   "title": "How did pinwheel calculators work?",
+   "url": "https://blog.coredump.cx/p/how-did-pinwheel-calculators-work",
+   "summary": "Article URL: https://blog.coredump.cx/p/how-did-pinwheel-calculators-work Comments URL: https://news.ycombinator.com/item?id=50637448 Points: 24 # Comments: 2",
+   "published_at": 1795572008.0,
+   "published_bj": "2026-11-25 10:00"
   },
   {
    "id": "e9f9da6eef45c597",
