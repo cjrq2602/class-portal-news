@@ -1,8 +1,62 @@
 {
  "date": "2026-11-26",
- "generated_at": 1795599478.6355906,
- "count": 1,
+ "generated_at": 1795609580.9302096,
+ "count": 7,
  "items": [
+  {
+   "id": "f5ac070263fd9a7f",
+   "source": "InfoQ中文",
+   "title": "AMD 联合中科慧灵完成人形机器人端侧 AI 验证，探索“大小脑”双处理器架构",
+   "url": "https://www.infoq.cn/article/stLpgV1kNHuvr21qRH9x?utm_source=rss&utm_medium=article",
+   "summary": "点击查看原文>",
+   "published_at": 1795633868.0,
+   "published_bj": "2026-11-26 03:11"
+  },
+  {
+   "id": "2496f1e241bcf403",
+   "source": "InfoQ中文",
+   "title": "京东基于 Apache Doris 构建统一湖仓分析引擎，支撑日均百万级查询与 PB 级数据扫描",
+   "url": "https://www.infoq.cn/article/dcXaJcXchxExJfaxtveD?utm_source=rss&utm_medium=article",
+   "summary": "点击查看原文>",
+   "published_at": 1795633113.0,
+   "published_bj": "2026-11-26 02:58"
+  },
+  {
+   "id": "45d9816100dc5db2",
+   "source": "InfoQ中文",
+   "title": "比黑客入侵更难防的，是 AI 正在执行的“合法操作”：企业安全防线，可能守错了地方",
+   "url": "https://www.infoq.cn/article/LwwdlrNGE3tbxPO1wIcT?utm_source=rss&utm_medium=article",
+   "summary": "点击查看原文>",
+   "published_at": 1795632767.0,
+   "published_bj": "2026-11-26 02:52"
+  },
+  {
+   "id": "03f59aa65e0eb6bd",
+   "source": "InfoQ中文",
+   "title": "“我比黄仁勋更早看到英伟达的未来”！AI 教父回击黄仁勋，直言大规模失业是 AI 巨头赚钱的副作用",
+   "url": "https://www.infoq.cn/article/6i2DoIJiaTcKyR0UyurQ?utm_source=rss&utm_medium=article",
+   "summary": "点击查看原文>",
+   "published_at": 1795632329.0,
+   "published_bj": "2026-11-26 02:45"
+  },
+  {
+   "id": "aefa02c8c1b41f61",
+   "source": "InfoQ中文",
+   "title": "阿福学会“望闻问切”背后，真实医疗需求正在重塑百灵大模型",
+   "url": "https://www.infoq.cn/article/V7VOeFvEPLrHAN2EFmUa?utm_source=rss&utm_medium=article",
+   "summary": "点击查看原文>",
+   "published_at": 1795630950.0,
+   "published_bj": "2026-11-26 02:22"
+  },
+  {
+   "id": "2932e209adf32fc6",
+   "source": "InfoQ中文",
+   "title": "Pi创始人曝现代开发奇观：系统崩了，一屋子工程师都在问Claude怎么修",
+   "url": "https://www.infoq.cn/article/ExbJjrItIlc9KLfQ2UeT?utm_source=rss&utm_medium=article",
+   "summary": "点击查看原文>",
+   "published_at": 1795630927.0,
+   "published_bj": "2026-11-26 02:22"
+  },
   {
    "id": "8d949a39d9182963",
    "source": "InfoQ中文",
