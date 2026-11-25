@@ -1,0 +1,382 @@
+{
+ "type": "yesterday",
+ "date": "2026-11-24",
+ "window": {
+  "start_ts": 1795449600.0,
+  "end_ts": 1795536000.0
+ },
+ "generated_at": 1795566494.0370336,
+ "generator": "action",
+ "news_count": 400,
+ "keywords": [
+  "ai",
+  "仁勋",
+  "黄仁",
+  "伟达",
+  "英伟",
+  "发布",
+  "华为",
+  "元",
+  "推出",
+  "回归"
+ ],
+ "points": [
+  {
+   "text": "【ai】IT之家 11 月 24 日消息，东擎 (ASRock Industrial) 今日宣布携手 Intel（英特尔），推出基于酷睿 Ultra X",
+   "keyword": "ai",
+   "news_ids": [
+    "6cca26c4026416e2"
+   ],
+   "refs": [
+    {
+     "id": "6cca26c4026416e2",
+     "title": "东擎发布基于英特尔酷睿 Ultra X7 处理器 358H 的整合式物理 AI 开发平台",
+     "source": "IT之家",
+     "url": "https://www.ithome.com/1/031/880.htm",
+     "published_at": 1795529700.0
+    }
+   ]
+  },
+  {
+   "text": "【ai】IT早报”时间，大家好，现在是 2026 年 11 月 24 日星期二，今天的重要科技资讯有： 1. 英伟达董事会恢复黄仁勋总裁兼首席执行官职务",
+   "keyword": "ai",
+   "news_ids": [
+    "e7e33d304878df1f"
+   ],
+   "refs": [
+    {
+     "id": "e7e33d304878df1f",
+     "title": "IT早报 1124：英伟达恢复黄仁勋 CEO 职务；中国汽车在 39 国的份额超过日本汽车；3399 元起荣耀 700 系列手机发布；智谱 GLM-5.4 模型发布...",
+     "source": "IT之家",
+     "url": "https://www.ithome.com/1/031/252.htm",
+     "published_at": 1795476134.0
+    }
+   ]
+  },
+  {
+   "text": "【ai】IT之家 11 月 24 日消息，当地时间 11 月 23 日，Qt 团队发布了最新的集成开发环境（IDE）Qt Creator 21",
+   "keyword": "ai",
+   "news_ids": [
+    "b3c73ba0324e10ff"
+   ],
+   "refs": [
+    {
+     "id": "b3c73ba0324e10ff",
+     "title": "Qt Creator 21 正式发布：强化 AI Agent 集成，新增华为 HarmonyOS 设备支持",
+     "source": "IT之家",
+     "url": "https://www.ithome.com/1/031/463.htm",
+     "published_at": 1795494919.0
+    }
+   ]
+  },
+  {
+   "text": "【华为】IT之家 11 月 24 日消息，华为常务董事、产品投资评审委员会主任、终端 BG 董事长余承东今日发文， 宣布鸿蒙终端设备数突破一个亿 ",
+   "keyword": "华为",
+   "news_ids": [
+    "0ebf3ff0b991c860"
+   ],
+   "refs": [
+    {
+     "id": "0ebf3ff0b991c860",
+     "title": "华为鸿蒙 HarmonyOS 终端设备数突破一个亿，实体纪念章外观曝光",
+     "source": "IT之家",
+     "url": "https://www.ithome.com/1/031/808.htm",
+     "published_at": 1795518370.0
+    }
+   ]
+  },
+  {
+   "text": "根据两项研究，未来东北地积雪覆盖天数将普遍减少",
+   "keyword": "",
+   "news_ids": [
+    "dfe7f05e579ed865"
+   ],
+   "refs": [
+    {
+     "id": "dfe7f05e579ed865",
+     "title": "东北积雪天数预计将会显著减少",
+     "source": "Solidot",
+     "url": "https://www.solidot.org/story?sid=85982",
+     "published_at": 1795535858.0
+    }
+   ]
+  },
+  {
+   "text": "近日，有用户发现Google Chrome浏览器中一项与Gemini相关的隐蔽设置，可能导致浏览器在用户点击关闭按钮后仍继续运行，并占用数百兆字",
+   "keyword": "",
+   "news_ids": [
+    "f98c6d6a93264352"
+   ],
+   "refs": [
+    {
+     "id": "f98c6d6a93264352",
+     "title": "Google Chrome浏览器关闭后仍占用内存 Gemini系统托盘设置或为问题所在",
+     "source": "cnBeta",
+     "url": "https://www.cnbeta.com.tw/articles/tech/1587860.htm",
+     "published_at": 1795534091.0
+    }
+   ]
+  },
+  {
+   "text": "据最新曝光的设计资料，苹果正在为iPhone 18e重新设计后置相机模组，新设计将使这款入门级机型的背部外观与现款iPhone 17e产生明显区",
+   "keyword": "",
+   "news_ids": [
+    "c0904367efc76f31"
+   ],
+   "refs": [
+    {
+     "id": "c0904367efc76f31",
+     "title": "苹果iPhone 18e或将采用全新后置相机设计 外观向iPad Pro看齐",
+     "source": "cnBeta",
+     "url": "https://www.cnbeta.com.tw/articles/tech/1587856.htm",
+     "published_at": 1795533952.0
+    }
+   ]
+  },
+  {
+   "text": "苹果下一代iPhone Air 2和标准版iPhone 18的相机凸起部分可能明显加厚",
+   "keyword": "",
+   "news_ids": [
+    "ffa710f5e2ecfd19"
+   ],
+   "refs": [
+    {
+     "id": "ffa710f5e2ecfd19",
+     "title": "iPhone Air 2和iPhone 18或采用更厚相机模组",
+     "source": "cnBeta",
+     "url": "https://www.cnbeta.com.tw/articles/tech/1587854.htm",
+     "published_at": 1795533897.0
+    }
+   ]
+  },
+  {
+   "text": "马斯克旗下的SpaceX正在将数据中心算力出租给包括Anthropic在内的竞争对手",
+   "keyword": "",
+   "news_ids": [
+    "1753e96d4c0e59f2"
+   ],
+   "refs": [
+    {
+     "id": "1753e96d4c0e59f2",
+     "title": "马斯克：模型竞争不过，不如卖算力",
+     "source": "cnBeta",
+     "url": "https://www.cnbeta.com.tw/articles/tech/1587846.htm",
+     "published_at": 1795532966.0
+    }
+   ]
+  },
+  {
+   "text": "Article URL: https://www",
+   "keyword": "",
+   "news_ids": [
+    "18203d4a64e0999a"
+   ],
+   "refs": [
+    {
+     "id": "18203d4a64e0999a",
+     "title": "Splitting USB-C: USB 3 and USB 2 on One Port",
+     "source": "Hacker News",
+     "url": "https://www.frankchiarulli.com/blog/splitting-usb-c/",
+     "published_at": 1795532050.0
+    }
+   ]
+  },
+  {
+   "text": "紫杉醇（paclitaxel）是临床上应用最广泛的化疗药物之一，被大量用于治疗乳腺癌、卵巢癌和肺癌等多种恶性肿瘤",
+   "keyword": "",
+   "news_ids": [
+    "57175f32348c94f9"
+   ],
+   "refs": [
+    {
+     "id": "57175f32348c94f9",
+     "title": "基因工程烟草能用于高效合成抗癌药",
+     "source": "Solidot",
+     "url": "https://www.solidot.org/story?sid=85981",
+     "published_at": 1795532036.0
+    }
+   ]
+  },
+  {
+   "text": "Anthropic PBC股价跌破每股83美元的首次公开募股（IPO）发行价，抹去了在这家人工智能实验室创纪录上市交易中踊跃买入的投资者此前获得",
+   "keyword": "",
+   "news_ids": [
+    "dfd0c2f0f0ccb490"
+   ],
+   "refs": [
+    {
+     "id": "dfd0c2f0f0ccb490",
+     "title": "Anthropic上市后第四个交易日跌破83美元发行价",
+     "source": "cnBeta",
+     "url": "https://www.cnbeta.com.tw/articles/tech/1587844.htm",
+     "published_at": 1795531716.0
+    }
+   ]
+  },
+  {
+   "text": "根据发表在《Journal of Neuroinflammation》期刊上的一项研究，微小的空气污染颗粒可能会通过改变大脑免疫细胞的行为对大脑",
+   "keyword": "",
+   "news_ids": [
+    "67954970939b0ac2"
+   ],
+   "refs": [
+    {
+     "id": "67954970939b0ac2",
+     "title": "空气污染是痴呆症的一个诱因",
+     "source": "Solidot",
+     "url": "https://www.solidot.org/story?sid=85980",
+     "published_at": 1795531237.0
+    }
+   ]
+  },
+  {
+   "text": "Mozilla 释出了 Firefox 161",
+   "keyword": "",
+   "news_ids": [
+    "033dd3ab7bd68674"
+   ],
+   "refs": [
+    {
+     "id": "033dd3ab7bd68674",
+     "title": "Firefox 161 释出",
+     "source": "Solidot",
+     "url": "https://www.solidot.org/story?sid=85979",
+     "published_at": 1795530141.0
+    }
+   ]
+  },
+  {
+   "text": "微软宣布下个版本的 Windows Server—— Windows Server 2028——将移除允许 32 位 Windows 应用运行在",
+   "keyword": "",
+   "news_ids": [
+    "7b67f4c44d621ce6"
+   ],
+   "refs": [
+    {
+     "id": "7b67f4c44d621ce6",
+     "title": "Windows Server 移除对 32 位应用的支持",
+     "source": "Solidot",
+     "url": "https://www.solidot.org/story?sid=85978",
+     "published_at": 1795529088.0
+    }
+   ]
+  }
+ ],
+ "article": {
+  "title": "2026-11-24 新闻总结",
+  "paragraphs": [
+   {
+    "kind": "lead",
+    "text": "过去 24 小时共收录 400 条新闻，来自 7 家媒体。把标题放在一起看，讨论主要集中在 AI、手机 这几个方向上，其余消息更像是零散补充。"
+   },
+   {
+    "kind": "section",
+    "heading": "AI",
+    "text": "先看「AI」。IT之家 11 月 24 日消息，东擎 (ASRock Industrial) 今日宣布携手 Intel（英特尔），另有 249 条消息指向同一话题。这类进展更像是把已有能力往工程化落地推了一步，真正的分水岭在于成本和可靠性能不能同时压下来。",
+    "news_ids": [
+     "6cca26c4026416e2"
+    ],
+    "refs": [
+     {
+      "id": "6cca26c4026416e2",
+      "title": "东擎发布基于英特尔酷睿 Ultra X7 处理器 358H 的整合式物理 AI 开发平台",
+      "source": "IT之家",
+      "url": "https://www.ithome.com/1/031/880.htm",
+      "published_at": 1795529700.0
+     }
+    ]
+   },
+   {
+    "kind": "section",
+    "heading": "手机",
+    "text": "与此同时「手机」。IT早报”时间，大家好，现在是 2026 年 11 月 24 日星期二，今天的重要科技资讯有： 1. 英伟达董事会恢复黄仁勋总裁兼首席执行官职务，另有 55 条消息指向同一话题。技术路线的胜负很少由一次发布会决定，接下来要看的是它能不能被更多团队低成本复用。",
+    "news_ids": [
+     "e7e33d304878df1f"
+    ],
+    "refs": [
+     {
+      "id": "e7e33d304878df1f",
+      "title": "IT早报 1124：英伟达恢复黄仁勋 CEO 职务；中国汽车在 39 国的份额超过日本汽车；3399 元起荣耀 700 系列手机发布；智谱 GLM-5.4 模型发布...",
+      "source": "IT之家",
+      "url": "https://www.ithome.com/1/031/252.htm",
+      "published_at": 1795476134.0
+     }
+    ]
+   },
+   {
+    "kind": "section",
+    "heading": "Agent",
+    "text": "另一个值得注意的方向是「Agent」。IT之家 11 月 24 日消息，当地时间 11 月 23 日，另有 17 条消息指向同一话题。这类进展更像是把已有能力往工程化落地推了一步，真正的分水岭在于成本和可靠性能不能同时压下来。",
+    "news_ids": [
+     "b3c73ba0324e10ff"
+    ],
+    "refs": [
+     {
+      "id": "b3c73ba0324e10ff",
+      "title": "Qt Creator 21 正式发布：强化 AI Agent 集成，新增华为 HarmonyOS 设备支持",
+      "source": "IT之家",
+      "url": "https://www.ithome.com/1/031/463.htm",
+      "published_at": 1795494919.0
+     }
+    ]
+   },
+   {
+    "kind": "section",
+    "heading": "突破",
+    "text": "相比之下「突破」。IT之家 11 月 24 日消息，华为常务董事、产品投资评审委员会主任、终端 BG 董事长余承东今日发文，另有 13 条消息指向同一话题。技术路线的胜负很少由一次发布会决定，接下来要看的是它能不能被更多团队低成本复用。",
+    "news_ids": [
+     "0ebf3ff0b991c860"
+    ],
+    "refs": [
+     {
+      "id": "0ebf3ff0b991c860",
+      "title": "华为鸿蒙 HarmonyOS 终端设备数突破一个亿，实体纪念章外观曝光",
+      "source": "IT之家",
+      "url": "https://www.ithome.com/1/031/808.htm",
+      "published_at": 1795518370.0
+     }
+    ]
+   },
+   {
+    "kind": "glossary",
+    "items": [
+     {
+      "term": "AI",
+      "desc": "人工智能，让机器完成识别、生成、判断等原本需要人做的任务"
+     },
+     {
+      "term": "IPO",
+      "desc": "首次公开募股，公司第一次把股票卖给公众并上市"
+     },
+     {
+      "term": "LLM",
+      "desc": "大语言模型，主打文字理解与生成，是「大模型」的同义词"
+     },
+     {
+      "term": "Agent",
+      "desc": "智能体，能自己拆解任务、调用工具并连续执行的 AI 程序"
+     },
+     {
+      "term": "API",
+      "desc": "应用程序接口，让不同软件按约定好的方式互相调用"
+     },
+     {
+      "term": "数据中心",
+      "desc": "集中放置服务器、供电与散热设施的大型机房"
+     }
+    ]
+   },
+   {
+    "kind": "outlook",
+    "text": "把这几条放在一起看，最值得跟踪的是 AI 和 手机 两条线：一条决定技术能走多远，一条决定它多快能落到普通人的日常里。至于其他消息，可以先放进观察名单，等后续有更实的进展再判断。"
+   }
+  ],
+  "word_count": 657
+ },
+ "ai_enhanced": false,
+ "schema": 1,
+ "window_bj": {
+  "start": "2026-11-24 00:00",
+  "end": "2026-11-25 00:00"
+ }
+}

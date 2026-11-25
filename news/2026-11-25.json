@@ -1,8 +1,395 @@
 {
  "date": "2026-11-25",
- "generated_at": 1795545687.0671194,
- "count": 23,
+ "generated_at": 1795566492.0646067,
+ "count": 77,
  "items": [
+  {
+   "id": "04a587ca5e9ef444",
+   "source": "InfoQ中文",
+   "title": "性能提升 6.4 倍、依赖归零，Effect 4.0 值得立即升级吗？",
+   "url": "https://www.infoq.cn/article/f1gd1zOMyb76FoYtYEsG?utm_source=rss&utm_medium=article",
+   "summary": "点击查看原文>",
+   "published_at": 1795593600.0,
+   "published_bj": "2026-11-25 16:00"
+  },
+  {
+   "id": "3ee98a77c9d2b68b",
+   "source": "IT之家",
+   "title": "黄仁勋回应复职争议：否认特朗普“救场”，公开向员工道歉",
+   "url": "https://www.ithome.com/1/031/924.htm",
+   "summary": "IT之家 11 月 25 日消息，彭博社等多家媒体报道，美国东部时间 11 月 24 日周二 12:30（北京时间 11 月 25 日凌晨 1:30）在加州圣克拉拉召开的全员大会上，重掌英伟达公司帅印的黄仁勋向员工道歉， 并否认美国总统特朗普直接介入其复职的说法。 黄仁勋因婚外情等原因，于 11 月 12 日辞去英伟达 CEO 职务 。不过仅隔 11 天， 英伟达董事会于 11 月 23 日宣布恢复其 CEO、总裁及董事会成员职务 。白宫曾表示特朗普“全程参与”了这一决定， 特朗普本人也称曾与副总统万斯等官员推动此事 。 不过在黄仁勋重掌公司后的首次全员大会上，黄仁勋试图与上述政治叙事划清界限",
+   "published_at": 1795566168.0,
+   "published_bj": "2026-11-25 08:22"
+  },
+  {
+   "id": "50936b155a0b0d90",
+   "source": "IT之家",
+   "title": "首次中外联合飞行“神舟二十四号”发射升空：汤洪波三赴“天宫”，巴基斯坦载荷专家短期驻留",
+   "url": "https://www.ithome.com/1/031/923.htm",
+   "summary": "IT之家 11 月 25 日消息，晨曦微露，朝霞漫天，北京时间 11 月 25 日 08 时 18 分 49 秒，神舟二十四号载人飞船搭乘长征二号 F 遥二十四运载火箭在酒泉卫星发射中心点火发射升空。 神舟二十四号飞行乘组由航天驾驶员汤洪波、航天飞行工程师武毅和载荷专家穆罕默德 · 齐尚 · 阿里三人组成，汤洪波担任指令长。 其中，汤洪波此前已执行过神舟十二号与神舟十七号载人飞行任务，此次飞行将使他成为首位三次到访“天宫”的航天员；武毅来自中国第三批航天员队伍，本次为首次执行飞行任务；巴基斯坦航天员穆罕默德 · 齐尚 · 阿里则将成为首位进入中国空间站的外籍航天员。 此次任务是空间站应用与发展",
+   "published_at": 1795565954.0,
+   "published_bj": "2026-11-25 08:19"
+  },
+  {
+   "id": "a0222fa1b944d318",
+   "source": "IT之家",
+   "title": "数毛社实测《GTA 6》称索尼 PS5 Pro > 微软 Xbox Series X > PS5",
+   "url": "https://www.ithome.com/1/031/922.htm",
+   "summary": "IT之家 11 月 25 日消息，虽然索尼此前曾宣传《GTA 6》“在 PS5 上体验最佳”，但实测结果并不支持这一说法。 今日，Digital Foundry（数毛社）放出了一段 18 分钟的关于《GTA 6》在 Xbox Series X 与标准版 PS5 上性能表现的对比视频，并给出了自己的看法。 分析显示，两款主机的画面设置和整体表现接近，但 Xbox Series X 在部分场景中掉帧较少，并可借助 120Hz VRR 输出让画面观感更平滑。不过，这两款主机均不及更贵的 PS5 Pro。 Digital Foundry 指出，两款主机的核心画面设置基本一致，内部渲染分辨率也相同，整体",
+   "published_at": 1795565924.0,
+   "published_bj": "2026-11-25 08:18"
+  },
+  {
+   "id": "094ebe39f5aa36e2",
+   "source": "IT之家",
+   "title": "谷歌 Chrome 开发者力挺 Firefox、炮轰苹果：iOS 浏览器引擎选择形同虚设",
+   "url": "https://www.ithome.com/1/031/921.htm",
+   "summary": "IT之家 11 月 25 日消息，谷歌 Chrome 开发者团队今日在 X 平台发文，公开支持 Firefox 浏览器开发商 Mozilla 此前针对苹果 iOS 浏览器引擎限制的投诉。 IT之家了解到， Mozilla、Shopify 等 5.5 万家企业和民间组织近日向欧盟委员会发出联名信 ，要求欧盟向苹果施压， 彻底开放 iOS 系统第三方浏览器引擎 。 苹果从 2024 年初开始允许欧盟地区的 iOS 设备使用第三方浏览器引擎，但该联盟表示，由于苹果设置的种种限制，目前没有任何一家浏览器厂商能从 WebKit 迁移至其他引擎。 Mozilla 曾在此前表示，公司无法通过更新现有 Fir",
+   "published_at": 1795565900.0,
+   "published_bj": "2026-11-25 08:18"
+  },
+  {
+   "id": "c5ef57111cae39f4",
+   "source": "TechCrunch",
+   "title": "Yale’s Sonnenfeld: Nvidia is a ‘detriment’ to U.S. industrial might — not a champion",
+   "url": "https://techcrunch.com/2026/11/24/yales-sonnenfeld-nvidia-is-a-detriment-to-u-s-industrial-might-not-a-champion/",
+   "summary": "Yale's Jeffrey Sonnenfeld warns that what the market cheered Monday, Jensen Huang's White House–backed return as Nvidia's CEO and board member, could prove a giant mistake, exposing the directors to \"historic\" personal liability from a growing pile of lawsuits and raising the question of whether the",
+   "published_at": 1795565522.0,
+   "published_bj": "2026-11-25 08:12"
+  },
+  {
+   "id": "f1c518764dcaca2e",
+   "source": "TechCrunch",
+   "title": "Trump reportedly says pardoning Jensen Huang is ‘an option’",
+   "url": "https://techcrunch.com/2026/11/24/trump-reportedly-says-pardoning-jensen-huang-is-an-option-but-that-he-doesnt-think-it-will-be-necessary/",
+   "summary": "The New York Post says that, in an exclusive interview, the President said that pardoning the Nvidia co-founder is \"an option,\" but not one that he thought he would need to use.",
+   "published_at": 1795565427.0,
+   "published_bj": "2026-11-25 08:10"
+  },
+  {
+   "id": "1897711865f43eba",
+   "source": "IT之家",
+   "title": "时隔约 3 年苹果 Product (RED) 系列重出江湖，红色 AirPods 腕带、AirTag 等有望下月登场",
+   "url": "https://www.ithome.com/1/031/920.htm",
+   "summary": "IT之家 11 月 25 日消息，彭博社的马克 · 古尔曼（Mark Gurman）昨日（11 月 24 日）在 X 平台发布推文，爆料称苹果已开发红色版 AirPods 腕带和 Apple Watch 运动表带， 预计与红色 HomePod mini 2、红色 AirPods Max 2 一同在 12 月初发布。 IT之家昨日报道，苹果公司有望重启与 Product (RED) 的长期合作关系，并将在圣诞节假期推出红色特别版 HomePod mini 2 和 AirPods Max 2。 Product (RED) 是以“消费即公益”为模式的公益品牌，由 Bono 与 Bobby Shriv",
+   "published_at": 1795565030.0,
+   "published_bj": "2026-11-25 08:03"
+  },
+  {
+   "id": "02c15d5e70b8709a",
+   "source": "IT之家",
+   "title": "Anthropic 推出 Siren 蜜罐系统：诱测 AI 智能体触发越界行为，发现新 Claude 仍有 21~32% 沙盒场景尝试越狱逃逸",
+   "url": "https://www.ithome.com/1/031/919.htm",
+   "summary": "IT之家 11 月 25 日消息，众所周知，部分 AI 智能体为了完成用户设定的任务近乎“不择手段”，堪比向克苏鲁许愿后发现对方是以某种扭曲的形式达成你的愿望。 为了验证 AI 智能体的越界行为，Anthropic 今日公布了一项名为 Siren 的 AI 安全评估系统，用于测试 AI 智能体发现存在沙盒安全漏洞及外部诱饵时，是否会尝试“越狱”。 该系统通过人为设置薄弱环节，观察模型能否遵守既定权限边界，以及是否会为了完成任务而访问未经授权的外部资源。 据 Anthropic 介绍，Siren 共设置了 26 种存在缺陷的沙盒环境，涵盖 Linux 命名空间、Docker 容器、gVisor ",
+   "published_at": 1795564969.0,
+   "published_bj": "2026-11-25 08:02"
+  },
+  {
+   "id": "c81c353525e64a49",
+   "source": "IT之家",
+   "title": "微软承认 Win11 系统自带应用曾悄悄占用近 900MB 内存，如今已优化",
+   "url": "https://www.ithome.com/1/031/918.htm",
+   "summary": "IT之家 11 月 25 日消息，据科技媒体 Windows Latest 今天报道，微软近期低调公布了 Win11 系统的内存优化成果。此前，Defender、OneDrive 和 Purview 三项后台服务曾占据 500MB 以上内存，Microsoft 365 的占用也接近 360MB。 IT之家从原报道获悉，微软 Windows 工程团队负责人 Ian LeGrow 近日透露，他们从去年 1 月开始投入大量精力，针对不同配置的电脑改进内存使用效率， 尤其是 16GB 和 8GB 内存的设备 。 LeGrow 对此解释称：“我们认真研究了 Windows 的运行机制，尽可能避免像过去那",
+   "published_at": 1795564638.0,
+   "published_bj": "2026-11-25 07:57"
+  },
+  {
+   "id": "c540c2a1a431cc5c",
+   "source": "IT之家",
+   "title": "《昭和米国物语》延期至 2027 年 10 月 28 日发售：内容已全部完成正在打磨中",
+   "url": "https://www.ithome.com/1/031/917.htm",
+   "summary": "IT之家 11 月 25 日消息，铃空游戏发布公告，宣布旗下角色扮演游戏《昭和米国物语》的发售日期由原定的 2026 年内调整为 2027 年 10 月 28 日。 公告显示，该作经过五年开发，游戏内容已全部制作完成，目前团队正集中精力对游戏进行全面打磨与优化，以呈现更加完整、出色的游戏体验。 此次延期距离原发售窗口将近一年，官方在公告中对玩家长期以来的关注与支持表示感谢，并明确新的发售日期为 2027 年 10 月 28 日。 《昭和米国物语》由铃空游戏开发，2P Games 负责除日本外的亚洲地区发行，4Divinity 负责全球发行，游戏为铃空游戏成立十周年的纪念作品，开发中期将引擎更换",
+   "published_at": 1795564069.0,
+   "published_bj": "2026-11-25 07:47"
+  },
+  {
+   "id": "4f6efeb4b85a537f",
+   "source": "IT之家",
+   "title": "Meta 将 Muse 智能体引入 Instagram 私信，省去来回切换 App 麻烦",
+   "url": "https://www.ithome.com/1/031/916.htm",
+   "summary": "IT之家 11 月 25 日消息，Meta 现已将 Muse 引入 Instagram 私信，让用户可以直接在 IG 与这款 AI 智能体对话。该功能即日起登陆美国、加拿大、墨西哥、日本和新加坡市场。 如今，Muse 可以将用户在 Instagram 上收藏的内容整理成不同的合集或旅行行程，还能根据用户找到的食谱生成购物清单。当然用户也可以直接用私信和 Muse 对话， 了解某篇帖子的更多信息 ， 或回顾自己错过的内容 。 IT之家注意到，Instagram 私信版 Muse 允许用户直接与 AI 智能体交流，省去以往在两个 App 间来回切换的麻烦。用户在 Instagram 上与 Muse",
+   "published_at": 1795563862.0,
+   "published_bj": "2026-11-25 07:44"
+  },
+  {
+   "id": "7bd368dbf262a68b",
+   "source": "IT之家",
+   "title": "马斯克：特斯拉 AI4 足以实现“超人驾驶”，AI5 优先留给 Optimus 机器人",
+   "url": "https://www.ithome.com/1/031/915.htm",
+   "summary": "IT之家 11 月 25 日消息，全球首富埃隆 · 马斯克（Elon Musk）于 11 月 22 日在 X 平台发布推文，表示下一代 AI5 芯片将优先部署到 Optimus 人形机器人及相关 AI 训练系统。 网友 @JBrunner8484 于 22 日在 X 平台提问：“特斯拉 AI5 芯片什么时候可以应用到新车方面？我目前使用的是 AI3，我看看升级是否需要再等等”。 马斯克回帖该网友，表示：“特斯拉 AI5 芯片将优先部署到 Optimus 人形机器人方面，汽车将维持在 AI4 芯片上，AI4 足以解决超人（superhuman）驾驶的问题。”IT之家附上相关截图如下： 在特斯拉第",
+   "published_at": 1795563501.0,
+   "published_bj": "2026-11-25 07:38"
+  },
+  {
+   "id": "34888704ad2aa294",
+   "source": "IT之家",
+   "title": "黄仁勋复职后首次主持全员大会：感谢 CFO 克雷斯代管公司，称英伟达不需要接班人计划、承诺调整往日的强硬管理风格",
+   "url": "https://www.ithome.com/1/031/914.htm",
+   "summary": "IT之家 11 月 25 日消息，当地时间 11 月 24 日，英伟达 CEO 黄仁勋在复职后首次召开的公司全员大会上向员工道歉，承认自己违反了公司行为准则，并表示已经开始接受每日一个半小时的心理治疗。 他称自己犯下了“非常严重的个人错误”，伤害了家人，也辜负了员工，并感谢公司董事会给予自己第二次机会。 据《连线》（WIRED）报道，黄仁勋在会上表示，自己每天接受一个半小时治疗，且这一过程对自己有很大帮助。 他称，此次全员大会是自己主持过的“最艰难的公司会议”，而最艰难的一次谈话则是与妻子进行的谈话。黄仁勋还承认，自己的行为曾对员工造成负面影响，需要调整以往“极度强势”的管理风格。 黄仁勋强调",
+   "published_at": 1795562809.0,
+   "published_bj": "2026-11-25 07:26"
+  },
+  {
+   "id": "77ed8540aacb5fd8",
+   "source": "IT之家",
+   "title": "OpenAI：业余天文学家加 AI，让系外行星搜寻进入“全民时代”",
+   "url": "https://www.ithome.com/1/031/899.htm",
+   "summary": "IT之家 11 月 25 日消息，OpenAI 昨日（11 月 24 日）发布博文，报道称两位业余天文学家借助 Codex 与 Astra， 在公开的望远镜数据中找到了多个潜在系外行星信号，并已提交给专业天文学家作独立验证。 这些发现尚未被正式确认为行星，但为后续观测提供了值得追踪的线索。 OpenAI 工程师凯文 · 邦德（Kevin Bond）借助 Codex，系统筛查开普勒望远镜观测的约 10 万颗恒星数据。程序在 200 多个候选信号中，成功重新识别出 10 个此前已被确认的系外行星信号，初步验证了这一方法的有效性与可靠性。 两名美国宇航局凌日系外行星巡天卫星（TESS）任务研究所天文",
+   "published_at": 1795562703.0,
+   "published_bj": "2026-11-25 07:25"
+  },
+  {
+   "id": "2583162859dc54e8",
+   "source": "Hacker News",
+   "title": "Get in, friends, the Atmosphere is happening",
+   "url": "https://tropopause.pckt.blog/get-in-friends-the-atmosphere-is-happening-q8sf9a9",
+   "summary": "Article URL: https://tropopause.pckt.blog/get-in-friends-the-atmosphere-is-happening-q8sf9a9 Comments URL: https://news.ycombinator.com/item?id=50636286 Points: 16 # Comments: 12",
+   "published_at": 1795562615.0,
+   "published_bj": "2026-11-25 07:23"
+  },
+  {
+   "id": "3b7eb25ee9aa38a7",
+   "source": "IT之家",
+   "title": "英伟达 CEO 黄仁勋向员工道歉，称自己正在接受心理治疗",
+   "url": "https://www.ithome.com/1/031/913.htm",
+   "summary": "IT之家 11 月 25 日消息，据美媒 CNN 报道，知情人士透露，英伟达 CEO 黄仁勋昨日在一场全员会议上向员工道歉。 IT之家从原报道获悉，黄仁勋在会议中否认美国总统在其复职过程中发挥了主导作用， 称董事会作出了独立决定 。 黄仁勋表示，他此前辞职是因为违反了公司行为准则。他同时强调，即使重新回到公司，也不意味着自己可以凌驾在准则之上。 违反行为准则并不意味着一定会被炒鱿鱼 ，具体如何处理应由管理层决定，董事会对他本人的处理也是如此。 消息人士称，黄仁勋在现场称自己犯了非常严重的错误，他已经向妻子和孩子道歉。 黄仁勋还向员工表示， 如今自己每天都要接受超过 1 小时的心理治疗 。他在现",
+   "published_at": 1795562504.0,
+   "published_bj": "2026-11-25 07:21"
+  },
+  {
+   "id": "f11ef9544fdcebdc",
+   "source": "IT之家",
+   "title": "IT早报 1125：最高 883 元用一天鸿蒙奖 1 元；黄仁勋承认多段婚外情并向英伟达董事会致歉；12999 元起华为 Mate X8 折叠屏发布；曝豆包灰测购物一级入口...",
+   "url": "https://www.ithome.com/1/031/912.htm",
+   "summary": "“IT早报”时间，大家好，现在是 2026 年 11 月 25 日星期三，今天的重要科技资讯有： 1. 华为“发钱”了：鸿蒙一亿感恩有礼活动细则公开，设备使用一天 = 100 积分，最高价值 883 元 在 11 月 24 日的 HUAWEI Mate X8 及全场景新品发布会上，华为常务董事、产品投资评审委员会主任、终端 BG 董事长余承东宣布推出“鸿蒙一亿感恩有礼”。目前活动已在我的华为 App 上线，并公布了具体细则。积分领取时间为 2026 年 11 月 24 日 16:00-2026 年 12 月 20 日 20:00，积分最高价值可达 883 元。&gt;&gt; 查看详情 2. ",
+   "published_at": 1795562431.0,
+   "published_bj": "2026-11-25 07:20"
+  },
+  {
+   "id": "6616c5209a726050",
+   "source": "IT之家",
+   "title": "Anthropic 推出桌面新功能：让 Claude 生成内容一键变身独立软件，支持苹果 macOS 和 Windows PC",
+   "url": "https://www.ithome.com/1/031/911.htm",
+   "summary": "IT之家 11 月 25 日消息，Anthropic 宣布为 Claude 的交互式 Artifacts 功能推出“安装为应用”（Install as app）选项，允许用户将生成的应用作为独立软件安装到 macOS 和 Windows 桌面。 据 Anthropic 官方介绍，安装后的 Artifacts 应用将拥有独立的桌面工具栏图标，使用体验类似于将网页应用安装到电脑。用户无需每次通过浏览器标签页访问，即可直接启动相应应用。 在权限设置方面，用户可以选择默认权限模式，让应用以类似浏览器标签页的方式运行，也可以授予额外的应用权限，允许其发送通知、拦截键盘快捷键以及显示在其他程序窗口之上。 ",
+   "published_at": 1795562226.0,
+   "published_bj": "2026-11-25 07:17"
+  },
+  {
+   "id": "a37e201febde8298",
+   "source": "IT之家",
+   "title": "摩托罗拉小折叠 Razr 2027 手机曝光：4 英寸 120Hz 外屏、5000mAh 电池、天玑 7550X 芯片",
+   "url": "https://www.ithome.com/1/031/910.htm",
+   "summary": "IT之家 11 月 25 日消息，科技媒体 Android Headline 昨日（11 月 24 日）发布博文，分享了一组渲染图，展示了摩托罗拉小折叠手机 Razr 2027 标准版， 最大的亮点就是外屏从 3.6 英寸提高到 4 英寸，并支持 120Hz 刷新率。 发布日期方面，摩托罗拉可能会在 2027 年 1 月召开的 CES 2027 活动中发布 Razr 2027 折叠手机，比上一代 Razr 2026 的发布节奏明显提前。 屏幕方面，外屏从 3.6 英寸提高到 4 英寸，并支持 120Hz 刷新率；而内屏则可能升级为 6.9 英寸、144Hz LTPO 显示屏。对于实际体验而言，",
+   "published_at": 1795561780.0,
+   "published_bj": "2026-11-25 07:09"
+  },
+  {
+   "id": "f71c0e680cd3cb71",
+   "source": "IT之家",
+   "title": "交 100 万美元保释金 + 戴电子脚镣，OpenAI 窃听案嫌犯获准保释",
+   "url": "https://www.ithome.com/1/031/909.htm",
+   "summary": "IT之家 11 月 25 日消息，美国前 OpenAI 工程师阿卜杜勒拉赫曼 · 阿尔福赞（Abdulrahman Alfozan）因涉嫌在 OpenAI 高管会议室安装窃听装置被捕一案出现新进展。 当地时间 11 月 24 日，美国旧金山联邦法院裁定，阿尔福赞可在提供 100 万美元 （IT之家注：现汇率约合 667.9 万元人民币） 保释担保后获释，但必须佩戴电子脚镣，并接受严格的居家监控。 据 CNBC 报道，主持听证会的美国联邦治安法官亚历克斯 · 谢（Alex G. Tse）认为，检方目前提供的证据不足以继续将阿尔福赞关押候审，现阶段没有充分理由认定其存在严重潜逃风险。 根据法院裁定",
+   "published_at": 1795561572.0,
+   "published_bj": "2026-11-25 07:06"
+  },
+  {
+   "id": "db8f359792cad3ee",
+   "source": "IT之家",
+   "title": "NASA 两项火星探测任务因故障暂停：毅力号通信异常、奥德赛号剩余肼燃料仅够维持一两个月",
+   "url": "https://www.ithome.com/1/031/908.htm",
+   "summary": "IT之家 11 月 25 日消息，NASA 确认，其两项火星探测任务在近几周相继出现技术故障，已暂停科学探测工作。受影响的是“毅力号”火星车与“奥德赛号”轨道探测器，两者均超出原设计寿命运行。 “毅力号”的问题始于 10 月 30 日。当日，火星车主通信系统中的一台超高频（UHF）无线电设备启动后，未能向车载计算机发送正常的心跳信号。连续 25 次未收到信号、持续约 100 秒后，火星车自动关闭故障设备，切换至备用无线电，并进入安全模式。 随后，工程师在检查诊断数据时发现，备用 UHF 无线电的发射功率也只有预期水平的一半左右。NASA 因此决定暂时停用两台 UHF 无线电系统，等待评估故障原",
+   "published_at": 1795561258.0,
+   "published_bj": "2026-11-25 07:00"
+  },
+  {
+   "id": "a2e877277e94572c",
+   "source": "IT之家",
+   "title": "CDPR：已经和索尼 PlayStation 达成《巫师 4》游戏营销合作",
+   "url": "https://www.ithome.com/1/031/907.htm",
+   "summary": "IT之家 11 月 25 日消息，据游戏媒体 IGN 今天报道，开发商 CD Projekt Red 在 2026 财年第三季度报告中确认，公司已经与索尼 PlayStation 达成《巫师 4》营销合作，未来这款游戏的宣传活动可能即将升温。 CD Projekt Red 首席财务官 Piotr Nielubowicz 表示：“就在今天，我们与索尼 SIE 签署新合作协议，涉及旗下游戏在 PlayStation 平台及 PlayStation Plus 订阅服务的上线安排，以及双方即将开展《巫师 4》营销活动合作。本次合作有助于改善我们未来几年的财务前景。” 此次合作意味着， 《巫师 3》未来",
+   "published_at": 1795561083.0,
+   "published_bj": "2026-11-25 06:58"
+  },
+  {
+   "id": "745c4c9c87470ad3",
+   "source": "IT之家",
+   "title": "联想 Legion Go Beam 掌机再曝：7 英寸 120Hz 屏幕、安卓系统，主打串流游戏",
+   "url": "https://www.ithome.com/1/031/906.htm",
+   "summary": "IT之家 11 月 25 日消息，科技媒体 Windows Latest 昨日（11 月 24 日）发布博文， 分享了联想 Legion Go Beam 的更多细节 。这款游戏掌机配备 7 英寸 120Hz 屏幕， 在系统方面并非运行 Windows 11 或者 SteamOS，据称运行安卓系统。 游戏体验方面，联想 Legion Go Beam 可以原生运行安卓游戏，并支持串流 PC 或主机游戏，以及支持云游戏和复古游戏。在串流时，游戏在电脑上运行，掌机只充当屏幕和手柄。 处理器方面，目前的信息指向高通骁龙 G2 Gen 1。IT之家查询公开资料，该芯片是高通在 2023 年 8 月发布的中",
+   "published_at": 1795560916.0,
+   "published_bj": "2026-11-25 06:55"
+  },
+  {
+   "id": "77163e798b05f84b",
+   "source": "IT之家",
+   "title": "比亚迪瞄准收购英力士法国工厂，马克龙发文祝贺并确认将在明年 1 月公布更多详情",
+   "url": "https://www.ithome.com/1/031/905.htm",
+   "summary": "IT之家 11 月 25 日消息，法国总统埃马纽埃尔 · 马克龙昨晚在 X 上发文称，比亚迪正在与法国方面合作，计划在法国摩泽尔省（Moselle）进行工业布局。 同日，比亚迪与英国英力士（Ineos Automotive）分别发布公告，确认双方已进入独家谈判阶段，涉及英力士位于摩泽尔省汉巴赫（Hambach）的汽车工厂。 马克龙表示，这一进展是法国经济政策以及欧洲汽车产业相关行动的直接成果，相关政策旨在加快汽车制造商在欧洲本土落地。 他还提到，这一方向此前已于 10 月巴黎车展期间公布，并宣布将于 2027 年 1 月 18 日的 Choose France 投资峰会上公布更多具体信息。 比",
+   "published_at": 1795560511.0,
+   "published_bj": "2026-11-25 06:48"
+  },
+  {
+   "id": "1d9f5c6110d269c0",
+   "source": "IT之家",
+   "title": "OpenAI 称 GPT-6 无需“外援”即可设计蛋白质，实验室初步验证有效",
+   "url": "https://www.ithome.com/1/031/902.htm",
+   "summary": "IT之家 11 月 25 日消息，OpenAI 昨日（11 月 24 日）发布预印本论文，称 GPT-6 系列模型无需依赖专用生物模型， 仅靠推理和通用编程工具，就能设计新的蛋白质三维结构和氨基酸序列，且已在多轮实验室测试中验证结合效果。 在实验室测试环境下，OpenAI 携手合作机构 Onava，研究团队以 GPT-6.2 设计的结构为蓝本，制作了 322 个微型结合蛋白，覆盖 5 个不同靶点。 其中 35 个（占比约为 10.9%）显示出结合迹象，涉及 PD-L1、IL-7Rα、TrkA、VEGF-A 和 IL-17A。另一项实验里，GPT-6.2 为 6 个抗体的结合环设计了新序列。测试",
+   "published_at": 1795560323.0,
+   "published_bj": "2026-11-25 06:45"
+  },
+  {
+   "id": "b9590a9fdc5c6029",
+   "source": "IT之家",
+   "title": "音乐流媒体平台 Tidal 新规：下月起全面“封杀” AI 生成音乐",
+   "url": "https://www.ithome.com/1/031/904.htm",
+   "summary": "IT之家 11 月 25 日消息，音乐流媒体平台 Tidal 昨日宣布，为遏制平台内投稿音乐数量激增现象， 未来将开始封禁 、 下架纯 AI 生成歌曲 。该平台表示，过去 90 天内，上传至平台的歌曲中有 43% 以上是由 AI 生成。 IT之家了解到，Tidal 将从 12 月 9 日起下架完全由 AI 生成的音乐。到今年年底，预计将有超 2900 万首歌曲从平台删除。新规实施后，Tidal 每天预计将拒收 8-8.5 万首歌曲。 同时，Tidal 还将禁止发行商向平台分发纯 AI 生成的曲目。如果歌曲的元数据注明其完全由 AI 制作，平台也将拒绝接收。Tidal 仍将接受制作过程中使用 A",
+   "published_at": 1795560094.0,
+   "published_bj": "2026-11-25 06:41"
+  },
+  {
+   "id": "e815fbc5d8dd1a8a",
+   "source": "IT之家",
+   "title": "AMD 发布 AGESA 1.3.0.1f 固件：部分锐龙 8000 处理器 vCore 限制为 1.4V",
+   "url": "https://www.ithome.com/1/031/903.htm",
+   "summary": "IT之家 11 月 25 日消息，AMD 已发布最新 AGESA ComboAM5 PI 1.3.0.1f Patch A 固件更新，包括华硕、微星等主板厂商已陆续推出包含该版本 AGESA 的 AM5 主板 BIOS 更新。 此次更新的主要变化在于为部分锐龙 8000 系列处理器增加最高 1.4V 的核心电压（vCore）限制。微星已在相关 BIOS 更新说明中确认这一调整，但目前尚未公布具体受影响的处理器型号，AMD 也没有公开解释设置这一限制的原因。 微星 MEG X870E GODLIKE X EDITION 主板于 11 月 18 日获得 2A36 版 BIOS，更新内容包括升级至 ",
+   "published_at": 1795560074.0,
+   "published_bj": "2026-11-25 06:41"
+  },
+  {
+   "id": "7af34b8229d3e901",
+   "source": "TechCrunch",
+   "title": "Jensen Huang still thinks a succession plan creates unnecessary hierarchy",
+   "url": "https://techcrunch.com/2026/11/24/jensen-huang-still-thinks-a-succession-plan-creates-unnecessary-hierarchy/",
+   "summary": "It's a remarkable stance for a company that spent the last two weeks finding out what happens without its founder.",
+   "published_at": 1795559272.0,
+   "published_bj": "2026-11-25 06:27"
+  },
+  {
+   "id": "bb3ceed432d73d72",
+   "source": "Hacker News",
+   "title": "Fable 5.2 Tries Less on Some Hard Tasks When a Shortcut Is Available",
+   "url": "https://goodhartlabs.com/blog/fable-5-2-tries-less-on-some-hard-tasks-when-a-shortcut-is-available",
+   "summary": "Article URL: https://goodhartlabs.com/blog/fable-5-2-tries-less-on-some-hard-tasks-when-a-shortcut-is-available Comments URL: https://news.ycombinator.com/item?id=50635698 Points: 28 # Comments: 26",
+   "published_at": 1795559201.0,
+   "published_bj": "2026-11-25 06:26"
+  },
+  {
+   "id": "1a00acf7e6c9377f",
+   "source": "Hacker News",
+   "title": "Heart attack and stroke risk detectable decades in advance",
+   "url": "https://www.ed.ac.uk/news/heart-attack-and-stroke-risk-detectable-decades-in-advance",
+   "summary": "Article URL: https://www.ed.ac.uk/news/heart-attack-and-stroke-risk-detectable-decades-in-advance Comments URL: https://news.ycombinator.com/item?id=50635271 Points: 111 # Comments: 42",
+   "published_at": 1795557081.0,
+   "published_bj": "2026-11-25 05:51"
+  },
+  {
+   "id": "8ae102eb52bbf06d",
+   "source": "TechCrunch",
+   "title": "In all-hands meeting, Jensen Huang thanks White House and says he’s in therapy",
+   "url": "https://techcrunch.com/2026/11/24/in-all-hands-meeting-jensen-huang-thanks-white-house-and-says-hes-in-therapy/",
+   "summary": "The Nvidia founder apologized to his staff on Tuesday and said he was grateful for a second chance to lead the company.",
+   "published_at": 1795556907.0,
+   "published_bj": "2026-11-25 05:48"
+  },
+  {
+   "id": "73c6e08f0a069746",
+   "source": "TechCrunch",
+   "title": "Even the best AI agents struggle with everyday life",
+   "url": "https://techcrunch.com/2026/11/24/even-the-best-ai-agents-struggle-with-everyday-life/",
+   "summary": "As millions embrace personal AI assistants, a new benchmark reveals that even the most advanced AI models struggle to complete everyday tasks reliably and safely without introducing potential new problems.",
+   "published_at": 1795556009.0,
+   "published_bj": "2026-11-25 05:33"
+  },
+  {
+   "id": "fda4706f74fc92e7",
+   "source": "TechCrunch",
+   "title": "Walmart teams up with Meta to bring Black Friday deals to AI agent Muse",
+   "url": "https://techcrunch.com/2026/11/24/walmart-teams-up-with-meta-to-bring-black-friday-deals-to-ai-agent-muse/",
+   "summary": "Walmart now lets customers shop Black Friday deals through Muse, Meta’s AI agent.",
+   "published_at": 1795555958.0,
+   "published_bj": "2026-11-25 05:32"
+  },
+  {
+   "id": "a29415118ea8fd8c",
+   "source": "Hacker News",
+   "title": "An unclassified CIA system was breached in a cyberattack",
+   "url": "https://apnews.com/article/cia-cyberattack-unclassified-system-bfa6d3b02e3b0e2779dfb613c900bd77",
+   "summary": "Article URL: https://apnews.com/article/cia-cyberattack-unclassified-system-bfa6d3b02e3b0e2779dfb613c900bd77 Comments URL: https://news.ycombinator.com/item?id=50634933 Points: 87 # Comments: 27",
+   "published_at": 1795555467.0,
+   "published_bj": "2026-11-25 05:24"
+  },
+  {
+   "id": "a66d3adfc8012883",
+   "source": "IT之家",
+   "title": "惠普 2026 财年全年归母净利润 24.25 亿美元，同比下降 4.1%",
+   "url": "https://www.ithome.com/1/031/901.htm",
+   "summary": "IT之家 11 月 25 日消息，惠普今日发布 2026 财年（2025 年 11 月 1 日～2026 年 10 月 31 日）全年及第四财季（2026 年 8 月 1 日～2026 年 10 月 31 日）报告： 2026 财年全年 营业总收入 ：605.27 亿美元 （IT之家注：现汇率约合 4042.78 亿元人民币） ，同比增长 9.5% 毛利润 ：115.96 亿美元 （现汇率约合 774.53 亿元人民币） 毛利率 ：19.16% 归母净利润 ：24.25 亿美元 （现汇率约合 161.97 亿元人民币） ，同比下降 4.1% 经营现金流 ：39.76 亿美元 （现汇率约合 26",
+   "published_at": 1795555391.0,
+   "published_bj": "2026-11-25 05:23"
+  },
+  {
+   "id": "0332cf87ac72a974",
+   "source": "TechCrunch",
+   "title": "Maple raises $5.3M to build AI products that protect your data, even from itself",
+   "url": "https://techcrunch.com/2026/11/24/maple-raises-5-3m-to-build-ai-products-that-protect-your-data-even-from-itself/",
+   "summary": "The startup's encrypted AI architecture is designed to prevent even the company itself from accessing users' private data.",
+   "published_at": 1795555192.0,
+   "published_bj": "2026-11-25 05:19"
+  },
+  {
+   "id": "da81d61cc87af9c8",
+   "source": "IT之家",
+   "title": "戴尔 2027 财年前三季度归母净利润 132.44 亿美元，同比增长 260%",
+   "url": "https://www.ithome.com/1/031/900.htm",
+   "summary": "IT之家 11 月 25 日消息，戴尔今日发布 2027 财年（2026 年 1 月 31 日～2027 年 1 月 29 日）前三季度（2026 年 2 月 1 日～2026 年 10 月 30 日）及第三财季（2026 年 8 月 1 日～2026 年 10 月 30 日）报告： 2027 财年前三季度 营业总收入 ：1457.5 亿美元，同比增长 82% 毛利润 ：291.71 亿美元，同比增长 83% 毛利率 ：20%，同比增长 0.1 个百分点 归母净利润 ：132.44 亿美元，同比增长 260% 经营现金流 ：107.65 亿美元，同比增长 65% 自由现金流 ：75.78 亿美",
+   "published_at": 1795554792.0,
+   "published_bj": "2026-11-25 05:13"
+  },
+  {
+   "id": "13d8a23c5317fa3e",
+   "source": "TechCrunch",
+   "title": "Dozens of oil and shipping tankers hacked in recent weeks, per report",
+   "url": "https://techcrunch.com/2026/11/24/dozens-of-oil-and-shipping-tankers-hacked-in-recent-weeks-per-report/",
+   "summary": "Iran is the chief suspect behind the dozens of cyberattacks targeting oil and chemical shipping vessels.",
+   "published_at": 1795554544.0,
+   "published_bj": "2026-11-25 05:09"
+  },
+  {
+   "id": "f214ab45f0ec06c9",
+   "source": "Hacker News",
+   "title": "GPT-6 models demonstrate intrinsic protein-design capabilities",
+   "url": "https://openai.com/index/gpt-6-models-demonstrate-intrinsic-protein-design-capabilities/",
+   "summary": "Article URL: https://openai.com/index/gpt-6-models-demonstrate-intrinsic-protein-design-capabilities/ Comments URL: https://news.ycombinator.com/item?id=50634658 Points: 133 # Comments: 28",
+   "published_at": 1795554142.0,
+   "published_bj": "2026-11-25 05:02"
+  },
+  {
+   "id": "d795622d6efa3256",
+   "source": "cnBeta",
+   "title": "美国陪审团裁定华为窃取商业秘密及银行欺诈罪名成立 但未认定刑事敲诈勒索共谋",
+   "url": "https://www.cnbeta.com.tw/articles/tech/1587880.htm",
+   "summary": "美国一个联邦陪审团于周二裁定，中国科技巨头华为技术有限公司在窃取商业秘密共谋及银行欺诈方面罪名成立。该案涉及华为成长为全球最大无线电信设备供应商之一过程中的多项商业行为。 阅读全文",
+   "published_at": 1795553944.0,
+   "published_bj": "2026-11-25 04:59"
+  },
+  {
+   "id": "2adb26218e51f70c",
+   "source": "Hacker News",
+   "title": "Launch HN: Versine (YC F26) – MCP to send and receive money",
+   "url": "https://news.ycombinator.com/item?id=50634426",
+   "summary": "Hey HN, we’re Harshith, Param, and Vishnu and we're building Versine ( https://versine.com ). Versine lets you send and request money just by talking or texting with your AI (think Venmo with an MCP). We’re software engineers who have worked on distributed systems at Stripe, Databricks, and Amazon. ",
+   "published_at": 1795553055.0,
+   "published_bj": "2026-11-25 04:44"
+  },
+  {
+   "id": "9de009f7618d0e85",
+   "source": "cnBeta",
+   "title": "黄仁勋向英伟达员工道歉 否认特朗普促成其复职",
+   "url": "https://www.cnbeta.com.tw/articles/tech/1587878.htm",
+   "summary": "英伟达首席执行官黄仁勋在重返公司后的首次全员大会上向员工道歉，并试图澄清外界关于白宫和科技界领袖帮助他重新获得职位的说法。 他在会上称，美国总统特朗普直接参与其复职的说法“完全不属实”，并表示“不要以为政治在公司中发挥了任何作用。我们是最不涉政治的公司”。 阅读全文",
+   "published_at": 1795552253.0,
+   "published_bj": "2026-11-25 04:30"
+  },
   {
    "id": "9a1b6c94b09dd267",
    "source": "InfoQ中文",
@@ -11,6 +398,105 @@
    "summary": "点击查看原文>",
    "published_at": 1795551669.0,
    "published_bj": "2026-11-25 04:21"
+  },
+  {
+   "id": "3b45f56e5a870706",
+   "source": "Hacker News",
+   "title": "Ternary Bonsai 2.5 27B",
+   "url": "https://prismml.com/news/bonsai-2-5-27b",
+   "summary": "Article URL: https://prismml.com/news/bonsai-2-5-27b Comments URL: https://news.ycombinator.com/item?id=50633922 Points: 293 # Comments: 101",
+   "published_at": 1795550883.0,
+   "published_bj": "2026-11-25 04:08"
+  },
+  {
+   "id": "b6c4e8f337c59129",
+   "source": "Hacker News",
+   "title": "From CUDA and Jax to TorchTPU: Lessons from a Cayley Graph Solver",
+   "url": "https://andlukyane.com/blog/cayley-graphs-and-torchtpu",
+   "summary": "Article URL: https://andlukyane.com/blog/cayley-graphs-and-torchtpu Comments URL: https://news.ycombinator.com/item?id=50633424 Points: 62 # Comments: 1",
+   "published_at": 1795549243.0,
+   "published_bj": "2026-11-25 03:40"
+  },
+  {
+   "id": "e8146512b61500ca",
+   "source": "cnBeta",
+   "title": "NVIDIA机器人工程师表示自己“可能行动得太快了” 并愿意考虑重返公司",
+   "url": "https://www.cnbeta.com.tw/articles/tech/1587876.htm",
+   "summary": "英伟达机器人工程师达雷尔·戴（Darrell Dai）在首席执行官黄仁勋离职后辞职，如今黄仁勋重返CEO职位，戴表示自己“可能行动得太快了”，并愿意考虑重返英伟达，前提是公司愿意重新接纳他。 阅读全文",
+   "published_at": 1795548514.0,
+   "published_bj": "2026-11-25 03:28"
+  },
+  {
+   "id": "b0b56989a17316bd",
+   "source": "cnBeta",
+   "title": "Google研究人员展示量子芯片在逻辑游戏中胜过经典计算机的案例",
+   "url": "https://www.cnbeta.com.tw/articles/tech/1587874.htm",
+   "summary": "Google研究人员日前宣布，该公司的实验性量子计算机在一种名为“魔方游戏”的逻辑谜题中，超越了经典计算机所能达到的最佳策略。这项研究已发表于《科学》杂志，为物理学家提供了一次在真实硬件上验证量子“情境性”现象的机会。研究人员认为，这一现象可能是量子计算机未来能力的关键来源。 阅读全文",
+   "published_at": 1795548439.0,
+   "published_bj": "2026-11-25 03:27"
+  },
+  {
+   "id": "c6fb81eab95e4b14",
+   "source": "cnBeta",
+   "title": "开发者利用触觉马达让MacBook笔记本“开口说话”",
+   "url": "https://www.cnbeta.com.tw/articles/tech/1587872.htm",
+   "summary": "苹果MacBook的静音键本应让设备安静下来，但一位开发者却找到了一种让静音的MacBook重新“发声”的方法。这个声音并非来自传统扬声器，而是直接由触控板发出：通过高速驱动触控板内用于模拟按压反馈的触觉马达，把细微的震动转化为带有机械感的语音。 阅读全文",
+   "published_at": 1795548395.0,
+   "published_bj": "2026-11-25 03:26"
+  },
+  {
+   "id": "14b60c45654b276e",
+   "source": "Hacker News",
+   "title": "Grafana 12.4.16, 13.0.14, 13.1.11, 13.2.7 and 13.3.2 (multiple CVEs)",
+   "url": "https://grafana.com/grafana/download",
+   "summary": "Article URL: https://grafana.com/grafana/download Comments URL: https://news.ycombinator.com/item?id=50633159 Points: 121 # Comments: 20",
+   "published_at": 1795548224.0,
+   "published_bj": "2026-11-25 03:23"
+  },
+  {
+   "id": "bbc5ab795677a882",
+   "source": "cnBeta",
+   "title": "Mozilla Firefox 161发布 可按网站自动启用VPN并新增一键清除浏览数据功能",
+   "url": "https://www.cnbeta.com.tw/articles/tech/1587870.htm",
+   "summary": "Mozilla 于周二发布 Firefox 161，为浏览器带来更精细的 VPN 管理能力。用户现在可以在 Firefox 的 VPN 面板中使用“管理 VPN 规则”选项，为特定网站设置 VPN 自动开启或自动关闭，从而无需在每次访问相关页面时手动切换 VPN 状态。 阅读全文",
+   "published_at": 1795548224.0,
+   "published_bj": "2026-11-25 03:23"
+  },
+  {
+   "id": "12b7ff009884760a",
+   "source": "cnBeta",
+   "title": "美国商务部将新加坡AI公司Megaspeed列入贸易黑名单",
+   "url": "https://www.cnbeta.com.tw/articles/tech/1587868.htm",
+   "summary": "美国商务部将新加坡人工智能公司Megaspeed列入贸易黑名单，同时英伟达首席执行官黄仁勋在特朗普政府支持下重新执掌公司。这一举措旨在限制Megaspeed及其在马来西亚和泰国的关联实体与美国企业进行贸易，理由是这些实体可能将先进计算产品转用于未经授权的最终用途或最终用户。 阅读全文",
+   "published_at": 1795548156.0,
+   "published_bj": "2026-11-25 03:22"
+  },
+  {
+   "id": "3aa2c58d0d30f802",
+   "source": "cnBeta",
+   "title": "科学家发现一种前所未见的高化学活性银晶体结构",
+   "url": "https://www.cnbeta.com.tw/articles/science/1587866.htm",
+   "summary": "科学家发现一种前所未见的银晶体结构，其化学活性远高于常见的银。日本北海道大学研究团队在电子束作用下分解碘化银时，观察到银原子以极罕见的简单立方方式排列，并迅速与氧反应生成氧化银。相关成果已发表于《纳米快报》。 阅读全文",
+   "published_at": 1795547770.0,
+   "published_bj": "2026-11-25 03:16"
+  },
+  {
+   "id": "d2769ff599a3caf0",
+   "source": "cnBeta",
+   "title": "Tidal宣布全面封禁纯AI生成音乐",
+   "url": "https://www.cnbeta.com.tw/articles/music/1587864.htm",
+   "summary": "流媒体音乐平台Tidal宣布，自12月9日起，将拒绝并移除完全由人工智能生成的音乐作品，同时禁止发行商向平台提交此类曲目。不过，仅部分使用AI工具创作的音乐仍可继续上传。这一决定标志着Tidal对AI生成内容的限制从“取消收益”升级为“全面下架”。 阅读全文",
+   "published_at": 1795546481.0,
+   "published_bj": "2026-11-25 02:54"
+  },
+  {
+   "id": "9e5300e43af7b471",
+   "source": "cnBeta",
+   "title": "苹果Product(Red)系列将回归 还可能包括AirPods腕带及Apple Watch运动表带",
+   "url": "https://www.cnbeta.com.tw/articles/tech/1587862.htm",
+   "summary": "苹果Product(Red)系列或将回归，除红色HomePod mini 2和AirPods Max 2外，苹果还可能推出红色AirPods腕带及Apple Watch运动表带，并计划于12月初发布。 阅读全文",
+   "published_at": 1795546099.0,
+   "published_bj": "2026-11-25 02:48"
   },
   {
    "id": "b7359fe37b047ed9",

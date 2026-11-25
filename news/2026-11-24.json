@@ -1,7 +1,7 @@
 {
  "date": "2026-11-24",
- "generated_at": 1795545687.0696123,
- "count": 399,
+ "generated_at": 1795566492.0683413,
+ "count": 400,
  "items": [
   {
    "id": "dfe7f05e579ed865",
@@ -409,6 +409,15 @@
    "published_bj": "2026-11-24 21:29"
   },
   {
+   "id": "dbd5820b5e63de56",
+   "source": "Hacker News",
+   "title": "Anthropic breaks below $83 IPO price",
+   "url": "https://www.bloomberg.com/news/articles/2026-11-24/anthropic-breaks-below-83-ipo-price-in-premarket-trading",
+   "summary": "Article URL: https://www.bloomberg.com/news/articles/2026-11-24/anthropic-breaks-below-83-ipo-price-in-premarket-trading Comments URL: https://news.ycombinator.com/item?id=50627836 Points: 321 # Comments: 639",
+   "published_at": 1795526627.0,
+   "published_bj": "2026-11-24 21:23"
+  },
+  {
    "id": "c2b0fcc4a0c8955a",
    "source": "IT之家",
    "title": "西甲联赛遭遇网络攻击，球迷个人数据泄露",
@@ -416,6 +425,15 @@
    "summary": "IT之家 11 月 24 日消息，西班牙足球甲级联赛 (LALIGA) 官方当地时间昨日表示，其球迷服务技术平台于 11 月 14~16 日遭遇网络犯罪分子未经授权访问， 致使部分用户的个人数据遭遇泄露 。 西甲联赛的安全团队已查明攻击来源，并采取必要措施遏制攻击， 阻止了进一步的数据窃取 ，封锁攻击者。此后，该联赛分析受影响平台活动，以确定本次事件的范围；加强系统监控，以检测任何进一步的攻击企图。 西甲联赛已将本次网络安全事件上报该国数据保护局，并向西班牙国家警察局网络犯罪中央调查组报案。该调查组正在就此事进行调查。",
    "published_at": 1795526557.0,
    "published_bj": "2026-11-24 21:22"
+  },
+  {
+   "id": "19c16739f08b9755",
+   "source": "Hacker News",
+   "title": "GTA 6 Running on Windows",
+   "url": "https://twitter.com/raul_bs3/status/2125213756238291075",
+   "summary": "Article URL: https://twitter.com/raul_bs3/status/2125213756238291075 Comments URL: https://news.ycombinator.com/item?id=50627783 Points: 260 # Comments: 314",
+   "published_at": 1795526371.0,
+   "published_bj": "2026-11-24 21:19"
   },
   {
    "id": "e9958f450df94372",
@@ -3584,15 +3602,6 @@
    "summary": "Article URL: https://ladybird.org/posts/alpha/ Comments URL: https://news.ycombinator.com/item?id=50614249 Points: 1153 # Comments: 287",
    "published_at": 1795450392.0,
    "published_bj": "2026-11-24 00:13"
-  },
-  {
-   "id": "3192bb60abf612c3",
-   "source": "InfoQ中文",
-   "title": "Amazon ECS Gateway 正式上线，可以自动生成主机名，但不支持自定义域名",
-   "url": "https://www.infoq.cn/article/6mOVcKUGjpD1VmxZOGqt?utm_source=rss&utm_medium=article",
-   "summary": "点击查看原文>",
-   "published_at": 1795449600.0,
-   "published_bj": "2026-11-24 00:00"
   }
  ]
 }
