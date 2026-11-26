@@ -1,0 +1,382 @@
+{
+ "type": "yesterday",
+ "date": "2026-11-25",
+ "window": {
+  "start_ts": 1795536000.0,
+  "end_ts": 1795622400.0
+ },
+ "generated_at": 1795651466.8292992,
+ "generator": "action",
+ "news_count": 337,
+ "keywords": [
+  "ai",
+  "华为",
+  "and",
+  "发布",
+  "to",
+  "in",
+  "推出",
+  "手机",
+  "of",
+  "the"
+ ],
+ "points": [
+  {
+   "text": "【ai】The company said it will still accept songs that were made with AI assis",
+   "keyword": "ai",
+   "news_ids": [
+    "354b7ba7c3f49a2a"
+   ],
+   "refs": [
+    {
+     "id": "354b7ba7c3f49a2a",
+     "title": "Tidal to ban and remove millions of AI-generated tracks as AI slop inundates music streaming",
+     "source": "TechCrunch",
+     "url": "https://techcrunch.com/2026/11/24/tidal-to-ban-and-remove-millions-of-ai-generated-tracks-as-ai-slop-inundates-music-streaming/",
+     "published_at": 1795538760.0
+    }
+   ]
+  },
+  {
+   "text": "【ai】Amazon and Meta are discussing a potential deal that would end a two-mon",
+   "keyword": "ai",
+   "news_ids": [
+    "fd8ba0f4a06357eb"
+   ],
+   "refs": [
+    {
+     "id": "fd8ba0f4a06357eb",
+     "title": "Amazon and Meta reportedly in talks to lift blockade on AI agent Muse",
+     "source": "TechCrunch",
+     "url": "https://techcrunch.com/2026/11/25/amazon-and-meta-reportedly-in-talks-to-lift-blockade-on-ai-agent-muse/",
+     "published_at": 1795615818.0
+    }
+   ]
+  },
+  {
+   "text": "【华为】IT之家 11 月 25 日消息，在网络传播高速化的当下，一条未经核实的言论、一段刻意编造的虚假视频，无需成本，却能在短时间内快速发酵传播，摧毁",
+   "keyword": "华为",
+   "news_ids": [
+    "69bce7720caaae62"
+   ],
+   "refs": [
+    {
+     "id": "69bce7720caaae62",
+     "title": "网警公开典型案例：一网民针对华为手机 / 鸿蒙 / 问界持续发布数百条不实评论、捏造“千亿营销”等虚假信息，已被行政处罚",
+     "source": "IT之家",
+     "url": "https://www.ithome.com/1/032/371.htm",
+     "published_at": 1795598954.0
+    }
+   ]
+  },
+  {
+   "text": "【and】The central question for investigators is what Nvidia knew about where t",
+   "keyword": "and",
+   "news_ids": [
+    "41c15c03d3fb659c"
+   ],
+   "refs": [
+    {
+     "id": "41c15c03d3fb659c",
+     "title": "The questions Jensen Huang and Nvidia will still have to answer about Megaspeed",
+     "source": "TechCrunch",
+     "url": "https://techcrunch.com/2026/11/25/the-questions-jensen-huang-and-nvidia-will-still-have-to-answer-about-megaspeed/",
+     "published_at": 1795611600.0
+    }
+   ]
+  },
+  {
+   "text": "【ai】IT之家 11 月 25 日消息，今天是蔚来公司十二周年，2026 NIO IN 蔚来创新科技日正在进行中",
+   "keyword": "ai",
+   "news_ids": [
+    "98110efb8af28e4a"
+   ],
+   "refs": [
+    {
+     "id": "98110efb8af28e4a",
+     "title": "蔚来李斌：汽车产业，将会是体量最大的 AI 应用产业",
+     "source": "IT之家",
+     "url": "https://www.ithome.com/1/032/225.htm",
+     "published_at": 1795595198.0
+    }
+   ]
+  },
+  {
+   "text": "【发布】IT之家 11 月 25 日消息，在今日的「Origin 原点」2026 小鹏科技日活动中，小鹏正式发布「小鹏图灵具身智能架构（VLA 3.0）",
+   "keyword": "发布",
+   "news_ids": [
+    "54fec78f66b0de08"
+   ],
+   "refs": [
+    {
+     "id": "54fec78f66b0de08",
+     "title": "小鹏发布图灵具身智能架构（VLA 3.0），贯通具身硬件、本能、小脑和大脑",
+     "source": "IT之家",
+     "url": "https://www.ithome.com/1/032/159.htm",
+     "published_at": 1795592485.0
+    }
+   ]
+  },
+  {
+   "text": "【ai】Windows该淘汰了！”Rails之父DHH开炮：微软上万工程师干不过一个人带着AI干活",
+   "keyword": "ai",
+   "news_ids": [
+    "4ea4c1a4d10d1047"
+   ],
+   "refs": [
+    {
+     "id": "4ea4c1a4d10d1047",
+     "title": "Windows该淘汰了！”Rails之父DHH开炮：微软上万工程师干不过一个人带着AI干活",
+     "source": "InfoQ中文",
+     "url": "https://www.infoq.cn/article/ApVrOK0hv1rmmoz2mfGM?utm_source=rss&utm_medium=article",
+     "published_at": 1795613416.0
+    }
+   ]
+  },
+  {
+   "text": "【推出】Cloudflare 正式推出 Basin 无服务器分析服务",
+   "keyword": "推出",
+   "news_ids": [
+    "a127b671be82d2e1"
+   ],
+   "refs": [
+    {
+     "id": "a127b671be82d2e1",
+     "title": "Cloudflare 正式推出 Basin 无服务器分析服务",
+     "source": "InfoQ中文",
+     "url": "https://www.infoq.cn/article/235X0EQdwejPvQYvlali?utm_source=rss&utm_medium=article",
+     "published_at": 1795600800.0
+    }
+   ]
+  },
+  {
+   "text": "【推出】IT之家 11 月 25 日消息，据外媒 neowin 报道，开发者 mikuta0407 公布了一款名为 win4wine 的开源项目",
+   "keyword": "推出",
+   "news_ids": [
+    "70a89e6b634a09e3"
+   ],
+   "refs": [
+    {
+     "id": "70a89e6b634a09e3",
+     "title": "开发者推出 win4wine 项目，可在 Debian Linux 下直接运行 Windows XP 桌面外壳",
+     "source": "IT之家",
+     "url": "https://www.ithome.com/1/032/346.htm",
+     "published_at": 1795597149.0
+    }
+   ]
+  },
+  {
+   "text": "Article URL: https://www",
+   "keyword": "",
+   "news_ids": [
+    "fbed7ccbdfe7cb5e"
+   ],
+   "refs": [
+    {
+     "id": "fbed7ccbdfe7cb5e",
+     "title": "Investigating degraded experiences across GitHub products",
+     "source": "Hacker News",
+     "url": "https://www.githubstatus.com/incidents/qn8mfv6q5hlx",
+     "published_at": 1795622363.0
+    }
+   ]
+  },
+  {
+   "text": "IT之家 11 月 25 日消息，据公众号“大厂产品”分享，微信也有了自己的音乐产品",
+   "keyword": "",
+   "news_ids": [
+    "72ce183db4a0285f"
+   ],
+   "refs": [
+    {
+     "id": "72ce183db4a0285f",
+     "title": "独立”微信音乐悄悄上线：内置在听一听中，曲库来源于 QQ 音乐",
+     "source": "IT之家",
+     "url": "https://www.ithome.com/1/032/530.htm",
+     "published_at": 1795621347.0
+    }
+   ]
+  },
+  {
+   "text": "IT之家 11 月 25 日消息，据理想车友群分享，在理想汽车 2026 年第三季度财报电话会上，理想汽车董事长兼 CEO 李想透露，理想车型的",
+   "keyword": "",
+   "news_ids": [
+    "fa17f0f47d376389"
+   ],
+   "refs": [
+    {
+     "id": "fa17f0f47d376389",
+     "title": "踩刹车！李想宣布理想汽车更新节奏从一年一次调整为两年一次",
+     "source": "IT之家",
+     "url": "https://www.ithome.com/1/032/523.htm",
+     "published_at": 1795620062.0
+    }
+   ]
+  },
+  {
+   "text": "NASA 计划 2028 年发射验证深空核电推进技术的探测器 Space Reactor‑1 Freedom（SR-1）",
+   "keyword": "",
+   "news_ids": [
+    "53599381477cadbb"
+   ],
+   "refs": [
+    {
+     "id": "53599381477cadbb",
+     "title": "NASA 计划 2028 年发射验证核电推进技术的探测器",
+     "source": "Solidot",
+     "url": "https://www.solidot.org/story?sid=85991",
+     "published_at": 1795618297.0
+    }
+   ]
+  },
+  {
+   "text": "丹麦的一项研究显示，该国男性精子的数量并非大幅下降，过去 26 年一直维持稳定，甚至少数人还表现出改善的迹象",
+   "keyword": "",
+   "news_ids": [
+    "7195d89eadd0b234"
+   ],
+   "refs": [
+    {
+     "id": "7195d89eadd0b234",
+     "title": "研究显示不是所有地区的男性精子数量都大幅下降",
+     "source": "Solidot",
+     "url": "https://www.solidot.org/story?sid=85990",
+     "published_at": 1795616847.0
+    }
+   ]
+  },
+  {
+   "text": "美国橡树岭国家实验室的超算 Frontier 有数以千计的计算节点，维护其正常工作是一大挑战",
+   "keyword": "",
+   "news_ids": [
+    "d4d2fff646c8c599"
+   ],
+   "refs": [
+    {
+     "id": "d4d2fff646c8c599",
+     "title": "如何维护超算",
+     "source": "Solidot",
+     "url": "https://www.solidot.org/story?sid=85989",
+     "published_at": 1795616283.0
+    }
+   ]
+  }
+ ],
+ "article": {
+  "title": "2026-11-25 新闻总结",
+  "paragraphs": [
+   {
+    "kind": "lead",
+    "text": "过去 24 小时共收录 337 条新闻，来自 7 家媒体。把标题放在一起看，讨论主要集中在 AI、手机、开发 这几个方向上，其余消息更像是零散补充。"
+   },
+   {
+    "kind": "section",
+    "heading": "发布",
+    "text": "先看「发布」。IT早报”时间，大家好，现在是 2026 年 11 月 25 日星期三，今天的重要科技资讯有： 1. 华为“发钱”了：鸿蒙一亿感恩有礼活动细则公开，设备使用一天 = 100 积分，另有 141 条消息指向同一话题。技术路线的胜负很少由一次发布会决定，接下来要看的是它能不能被更多团队低成本复用。",
+    "news_ids": [
+     "f11ef9544fdcebdc"
+    ],
+    "refs": [
+     {
+      "id": "f11ef9544fdcebdc",
+      "title": "IT早报 1125：最高 883 元用一天鸿蒙奖 1 元；黄仁勋承认多段婚外情并向英伟达董事会致歉；12999 元起华为 Mate X8 折叠屏发布；曝豆包灰测购物一级入口...",
+      "source": "IT之家",
+      "url": "https://www.ithome.com/1/031/912.htm",
+      "published_at": 1795562431.0
+     }
+    ]
+   },
+   {
+    "kind": "section",
+    "heading": "AI",
+    "text": "与此同时「AI」。EA 透露其足球游戏《EA Sports FC 27》利用 AI 数字重现了已故解说员 John Motson 的声音…，另有 14 条消息指向同一话题。这条消息短期内的实际影响可能有限，但它指向的方向值得放进观察名单。",
+    "news_ids": [
+     "912d6f421762789e"
+    ],
+    "refs": [
+     {
+      "id": "912d6f421762789e",
+      "title": "EA Sports FC 利用 AI 数字重现已故解说员 John Motson 的声音",
+      "source": "Solidot",
+      "url": "https://www.solidot.org/story?sid=85993",
+      "published_at": 1795622073.0
+     }
+    ]
+   },
+   {
+    "kind": "section",
+    "heading": "手机",
+    "text": "另一个值得注意的方向是「手机」。IT之家 11 月 25 日消息，在网络传播高速化的当下，一条未经核实的言论、一段刻意编造的虚假视频，无需成本，却能在短时间内快速发酵传播，另有 28 条消息指向同一话题。技术路线的胜负很少由一次发布会决定，接下来要看的是它能不能被更多团队低成本复用。",
+    "news_ids": [
+     "69bce7720caaae62"
+    ],
+    "refs": [
+     {
+      "id": "69bce7720caaae62",
+      "title": "网警公开典型案例：一网民针对华为手机 / 鸿蒙 / 问界持续发布数百条不实评论、捏造“千亿营销”等虚假信息，已被行政处罚",
+      "source": "IT之家",
+      "url": "https://www.ithome.com/1/032/371.htm",
+      "published_at": 1795598954.0
+     }
+    ]
+   },
+   {
+    "kind": "section",
+    "heading": "产业",
+    "text": "相比之下「产业」。IT之家 11 月 25 日消息，今天是蔚来公司十二周年，另有 3 条消息指向同一话题。价格和生态往往比硬件规格更能决定一款产品能不能留下来。",
+    "news_ids": [
+     "98110efb8af28e4a"
+    ],
+    "refs": [
+     {
+      "id": "98110efb8af28e4a",
+      "title": "蔚来李斌：汽车产业，将会是体量最大的 AI 应用产业",
+      "source": "IT之家",
+      "url": "https://www.ithome.com/1/032/225.htm",
+      "published_at": 1795595198.0
+     }
+    ]
+   },
+   {
+    "kind": "glossary",
+    "items": [
+     {
+      "term": "AI",
+      "desc": "人工智能，让机器完成识别、生成、判断等原本需要人做的任务"
+     },
+     {
+      "term": "IPO",
+      "desc": "首次公开募股，公司第一次把股票卖给公众并上市"
+     },
+     {
+      "term": "GPU",
+      "desc": "图形处理器，因为擅长大规模并行计算，成了 AI 训练的主力硬件"
+     },
+     {
+      "term": "Agent",
+      "desc": "智能体，能自己拆解任务、调用工具并连续执行的 AI 程序"
+     },
+     {
+      "term": "LLM",
+      "desc": "大语言模型，主打文字理解与生成，是「大模型」的同义词"
+     },
+     {
+      "term": "Robotaxi",
+      "desc": "无人驾驶出租车，车里没有司机，靠自动驾驶系统接单运营"
+     }
+    ]
+   },
+   {
+    "kind": "outlook",
+    "text": "把这几条放在一起看，最值得跟踪的是 AI 和 手机 两条线：一条决定技术能走多远，一条决定它多快能落到普通人的日常里。至于其他消息，可以先放进观察名单，等后续有更实的进展再判断。"
+   }
+  ],
+  "word_count": 658
+ },
+ "ai_enhanced": false,
+ "schema": 1,
+ "window_bj": {
+  "start": "2026-11-25 00:00",
+  "end": "2026-11-26 00:00"
+ }
+}

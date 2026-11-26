@@ -1,8 +1,125 @@
 {
  "date": "2026-11-26",
- "generated_at": 1795643899.310969,
- "count": 32,
+ "generated_at": 1795651464.8933637,
+ "count": 48,
  "items": [
+  {
+   "id": "a44e83a179d6a35a",
+   "source": "IT之家",
+   "title": "韩国推出考场反作弊系统 Detect AI：靠无线电波识别 AI 智能眼镜，12 月 9 日首秀",
+   "url": "https://www.ithome.com/1/032/542.htm",
+   "summary": "IT之家 11 月 26 日消息，据韩联社 11 月 25 日报道，韩国东西发电于 11 月 25 日宣布，其内部创业项目孵化的无人机探测企业 SKIP（스킵）已完成 AI 考场作弊探测与阻断系统“Detect AI”的开发。 据官方介绍，Detect AI 原本用于捕捉未授权无人机与遥控器之间的无线信号，现在将这种频谱分析技术搬到了考场。系统接收周边无线通信信号后，交叉分析厂商识别信息与设备唯一信息，筛出可能被用于作弊的电子设备。 IT之家从报道获悉，该系统主要探测对象包括 AI 智能眼镜、针孔与纽扣式微型无线摄像头、无线耳机 等。 在安全性与现场效率上，该系统只接收周边信号来工作，不会干扰",
+   "published_at": 1795649311.0,
+   "published_bj": "2026-11-26 07:28"
+  },
+  {
+   "id": "90f0f74be2bfba04",
+   "source": "IT之家",
+   "title": "IT早报 1126：理想汽车宣布从一年一更调整为两年；特朗普称美政府入股英伟达犹未为晚；奥迪回应长春工厂利用率跌破 10%；首款自动驾驶摩托车广州亮相...",
+   "url": "https://www.ithome.com/1/032/541.htm",
+   "summary": "“IT早报”时间，大家好，现在是 2026 年 11 月 26 日星期四，今天的重要科技资讯有： 1. 踩刹车！李想宣布理想汽车更新节奏从一年一次调整为两年一次 据理想车友群分享，在理想汽车 2026 年第三季度财报电话会上，理想汽车董事长兼 CEO 李想透露，理想车型的更新节奏会从过去的一年一次调整为两年左右一次。理想汽车认为这个调整对于用户、行业、供应商和自己都是更有利的。李想称，2027 年，会补充一到两个单独的车型，不会做大面的改款。这个是理想汽车的一个核心的规划。&gt;&gt; 查看详情 2. 特朗普称美国政府入股英伟达犹未为晚，自称早就想过但一直没说 美国总统特朗普接受采访时称，",
+   "published_at": 1795649280.0,
+   "published_bj": "2026-11-26 07:28"
+  },
+  {
+   "id": "c7b534059ef3f878",
+   "source": "IT之家",
+   "title": "Valve 发布 SteamOS 0.5.11 正式候选版：升级 SteamVR 2.19.5，优化透视与串流",
+   "url": "https://www.ithome.com/1/032/536.htm",
+   "summary": "IT之家 11 月 26 日消息，Valve 已面向 Steam Frame 无线 VR 头显的 Beta 通道推送 SteamOS 0.5.11 ，该版本为官方候选构建版本（release candidate），并将 SteamVR 同步升级至 2.19.5。 据IT之家此前报道，Valve 于 2026 年 9 月 14 日正式发售 Steam Frame 头显，起售价 1,059 美元 （IT之家注：现汇率约合 7,072 元人民币） ，主打 PC 串流与骁龙 8 Gen 3 独立运行的双线体验（ Valve 工程师解读 Steam Frame VR 头显：兼顾串流与独立运行，存储涨价推",
+   "published_at": 1795649255.0,
+   "published_bj": "2026-11-26 07:27"
+  },
+  {
+   "id": "c3e3b6b7e3c3af59",
+   "source": "IT之家",
+   "title": "Counterpoint：华为 OSCAR 方案让无线频谱效率提升约 30%、能效提升 40%",
+   "url": "https://www.ithome.com/1/032/532.htm",
+   "summary": "IT之家 11 月 25 日消息，华为推出 OSCAR（Optimal Solution with Cross-Domain Autoregression for Radio）新一代智能无线解决方案，该方案在无线物理层运行定制化高阶自回归模型，搭载于通用基带处理（UBBP）板卡上的异构计算加速器，并通过华为 SpiritPath 高速互联架构连接。 该方案针对移动网络长期存在的三大容量损失来源进行优化：多变量小区干扰、信道估计不精确以及传统单小区独立调度器。Counterpoint 指出， 在现场测试中，OSCAR 可实现约 30% 的频谱效率提升和 40% 的能效提升。 传统运营商通常通过购",
+   "published_at": 1795648317.0,
+   "published_bj": "2026-11-26 07:11"
+  },
+  {
+   "id": "c1e436263876240c",
+   "source": "IT之家",
+   "title": "准确率从 4% 暴涨至 97%！谷歌 DeepMind 给 AI 装上“化学外挂”，解锁质谱分析技能",
+   "url": "https://www.ithome.com/1/032/535.htm",
+   "summary": "IT之家 11 月 26 日消息， 谷歌联合分析化学家、基于社区开源工具打造了 Mass Spec Skills ，面向 Google Antigravity 平台开放，可辅助科研人员解析串联质谱，梳理化学证据，即使采用轻量模型也能达到前沿级别的检索识别准确率。 一滴血液、土壤或植物组织样本提取液中，包含海量小分子，涵盖营养物质、激素、药物及其代谢产物、污染物、具备药用潜力的生物活性化合物。现代质谱仪可在单份样本中检测到数万种分子信号，测定带电分子的质量，并在串联质谱（MS / MS）模式下测量其碎裂产生的碎片。 这些测量值无法直接对应分子结构，研究人员无法立刻判断信号对应的化合物，也难以关联",
+   "published_at": 1795648065.0,
+   "published_bj": "2026-11-26 07:07"
+  },
+  {
+   "id": "12ed238fc69d4447",
+   "source": "IT之家",
+   "title": "美国纽约州暂停 AI 聊天玩具销售 5 年，违规厂商每日最高罚 15000 美元",
+   "url": "https://www.ithome.com/1/032/540.htm",
+   "summary": "IT之家 11 月 26 日消息，据 ABC7 New York 网站 11 月 25 日报道，当地时间 11 月 24 日，美国纽约州州长凯西・霍楚尔（Kathy Hochul）签署法案，暂停具备联网与 AI 对话能力的玩具在该州的制造、分销和销售， 期限为 5 年 。 据官方公布信息，该法案针对内置互联网接入、集成 AI 能力的毛绒玩偶与玩具。霍楚尔称，这类玩具可以让任何年龄段的儿童与软件对话，而运行时的安全管控“极少”。 IT之家从报道获悉，这一消息在哈莱姆区一家名为 Grandma's Place 的玩具店宣布。霍楚尔表示：“家长们，当你们在外给孩子挑选节日礼物时，我希望你们把这句话听",
+   "published_at": 1795648063.0,
+   "published_bj": "2026-11-26 07:07"
+  },
+  {
+   "id": "8d8b5af5d870fce0",
+   "source": "IT之家",
+   "title": "CounterPoint 报告 2026Q3 拉丁美洲手机出货：三星稳坐第一、苹果最抗跌",
+   "url": "https://www.ithome.com/1/032/539.htm",
+   "summary": "IT之家 11 月 26 日消息，市场研究机构 Counterpoint Research 于 11 月 24 日发布博文，报道称 2026 年第三季度拉丁美洲智能手机出货量同比下降 24%。 这是该地区自 2015 年以来第二低的季度出货量，仅次于 2020 年第二季度疫情封锁期间。 报告认为，下滑的主要原因有三个。一是内存供应短缺，二是由此引发的手机涨价，三是中国品牌把更多供应优先分配给国内和亚洲市场。 Counterpoint 首席分析师 Tina Lu 表示，消费者支出趋于谨慎。许多人在涨价后推迟换机，或者转向维修。她说，本季度相对的赢家是在内存危机爆发前就锁定供应的品牌。 从厂商看，",
+   "published_at": 1795647635.0,
+   "published_bj": "2026-11-26 07:00"
+  },
+  {
+   "id": "5683d80fa69097cd",
+   "source": "Hacker News",
+   "title": "Jev is (probably) Qwen3.5-35B-A3B",
+   "url": "https://modaic.dev/blog/latency-doesnt-lie",
+   "summary": "Article URL: https://modaic.dev/blog/latency-doesnt-lie Comments URL: https://news.ycombinator.com/item?id=50648823 Points: 98 # Comments: 6",
+   "published_at": 1795647424.0,
+   "published_bj": "2026-11-26 06:57"
+  },
+  {
+   "id": "ebed69b415409872",
+   "source": "IT之家",
+   "title": "密码管理工具 1Password 披露安全事件，部分客户数据外泄",
+   "url": "https://www.ithome.com/1/032/538.htm",
+   "summary": "IT之家 11 月 26 日消息，密码管理服务商 1Password 昨日（11 月 25 日）披露安全事件， 公司于 11 月 19 日发现有攻击者利用一名员工的公司 GitHub 账户，进入了公司后端系统，并获取了部分客户数据。 公司调查时发现，该员工账户存在未经授权访问的迹象。攻击者不仅复制了机密源代码，还利用这个账户部署恶意代码，用来提取客户记录。 IT之家查询公开资料，攻击者访问了以下内容： 客户用于登录 1Password 的姓名和电子邮件地址 账户和用户标识符，以及账户创建时间和上次登录时间 公钥 安全远程密码协议参数（1Password 表示此参数不能用于账户访问） 用于邀请、",
+   "published_at": 1795646883.0,
+   "published_bj": "2026-11-26 06:48"
+  },
+  {
+   "id": "a200905d4cd92673",
+   "source": "TechCrunch",
+   "title": "S&P considers Nvidia credit downgrade over governance and ‘key man’ risks",
+   "url": "https://techcrunch.com/2026/11/25/sp-considers-nvidia-credit-downgrade-over-governance-and-key-man-risks/",
+   "summary": "The credit rating agency may lower Nvidia's credit rating to AA-, the fourth-highest rating.",
+   "published_at": 1795646672.0,
+   "published_bj": "2026-11-26 06:44"
+  },
+  {
+   "id": "50cc5c61a26fa004",
+   "source": "Hacker News",
+   "title": "Bare Metal Qwen",
+   "url": "https://github.com/alesha-pro/llm.asm/tree/main/02-baremetal-os",
+   "summary": "Article URL: https://github.com/alesha-pro/llm.asm/tree/main/02-baremetal-os Comments URL: https://news.ycombinator.com/item?id=50648365 Points: 16 # Comments: 0",
+   "published_at": 1795644934.0,
+   "published_bj": "2026-11-26 06:15"
+  },
+  {
+   "id": "3223a02d35717268",
+   "source": "Hacker News",
+   "title": "Deploying a payphone on a tiny Pacific Island for fun and zero profit",
+   "url": "https://nickvsnetworking.com/deploying-a-payphone-on-a-tiny-pacific-island-for-fun-and-zero-profit/",
+   "summary": "Article URL: https://nickvsnetworking.com/deploying-a-payphone-on-a-tiny-pacific-island-for-fun-and-zero-profit/ Comments URL: https://news.ycombinator.com/item?id=50648323 Points: 10 # Comments: 0",
+   "published_at": 1795644745.0,
+   "published_bj": "2026-11-26 06:12"
+  },
+  {
+   "id": "f3b2ad19781af56a",
+   "source": "Hacker News",
+   "title": "Much shorter version of GRH Lean verification from Anthropic",
+   "url": "https://github.com/lsernau/grh-lean",
+   "summary": "Article URL: https://github.com/lsernau/grh-lean Comments URL: https://news.ycombinator.com/item?id=50648050 Points: 191 # Comments: 87",
+   "published_at": 1795643290.0,
+   "published_bj": "2026-11-26 05:48"
+  },
   {
    "id": "c2b568904646b673",
    "source": "Hacker News",
@@ -11,6 +128,15 @@
    "summary": "Article URL: https://defang.io/blog/post/security-incident-november-2026/ Comments URL: https://news.ycombinator.com/item?id=50648035 Points: 5 # Comments: 0",
    "published_at": 1795643236.0,
    "published_bj": "2026-11-26 05:47"
+  },
+  {
+   "id": "76e5f260a105928d",
+   "source": "Hacker News",
+   "title": "The New York Times tells photographers not to use the latest Photoshop",
+   "url": "https://www.dpreview.com/news/new-york-times-adobe-photoshop-2027-restriction-ai/",
+   "summary": "Article URL: https://www.dpreview.com/news/new-york-times-adobe-photoshop-2027-restriction-ai/ Comments URL: https://news.ycombinator.com/item?id=50647673 Points: 126 # Comments: 65",
+   "published_at": 1795641482.0,
+   "published_bj": "2026-11-26 05:18"
   },
   {
    "id": "05998e192c33f79a",
@@ -22,12 +148,30 @@
    "published_bj": "2026-11-26 04:56"
   },
   {
+   "id": "d935579cc0c6f5f8",
+   "source": "Hacker News",
+   "title": "Slow Ubuntu security response times",
+   "url": "https://www.openwall.com/lists/oss-security/2026/11/25/9",
+   "summary": "Article URL: https://www.openwall.com/lists/oss-security/2026/11/25/9 Comments URL: https://news.ycombinator.com/item?id=50647181 Points: 94 # Comments: 32",
+   "published_at": 1795639080.0,
+   "published_bj": "2026-11-26 04:38"
+  },
+  {
    "id": "bd9f2bce43840a95",
    "source": "Hacker News",
    "title": "Nfs2root: A 12-year-old pre-auth remote root in the Linux kernel's NFS server",
    "url": "https://opensec.in/blog/nfs2root-cve-2026-99362",
    "summary": "Article URL: https://opensec.in/blog/nfs2root-cve-2026-99362 Comments URL: https://news.ycombinator.com/item?id=50647161 Points: 6 # Comments: 0",
    "published_at": 1795638950.0,
+   "published_bj": "2026-11-26 04:35"
+  },
+  {
+   "id": "772a8356203d365c",
+   "source": "Hacker News",
+   "title": "72-Hour Fasting Can Reset Your Immune System, USC Study Shows",
+   "url": "https://scienceinhand.com/72-hour-fasting-can-reset-your-entire-immune-system-usc-study-shows/",
+   "summary": "Article URL: https://scienceinhand.com/72-hour-fasting-can-reset-your-entire-immune-system-usc-study-shows/ Comments URL: https://news.ycombinator.com/item?id=50647158 Points: 98 # Comments: 46",
+   "published_at": 1795638939.0,
    "published_bj": "2026-11-26 04:35"
   },
   {
