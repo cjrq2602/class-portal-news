@@ -1,0 +1,374 @@
+{
+ "type": "today",
+ "date": "2026-11-26",
+ "window": {
+  "start_ts": 1795622400.0,
+  "end_ts": 1795654800.0
+ },
+ "generated_at": 1795684376.5838916,
+ "generator": "action",
+ "news_count": 54,
+ "keywords": [
+  "ai",
+  "the",
+  "of",
+  "to",
+  "and",
+  "in",
+  "holy",
+  "shit",
+  "not",
+  "伟达"
+ ],
+ "points": [
+  {
+   "text": "【ai】Anthropic CEO Dario Amodei pushes back against rivals’ accusations that ",
+   "keyword": "ai",
+   "news_ids": [
+    "d7ea92b9d9680749"
+   ],
+   "refs": [
+    {
+     "id": "d7ea92b9d9680749",
+     "title": "Anthropic’s Dario Amodei calls accusations of surrendering human control to AI ‘absurd’",
+     "source": "TechCrunch",
+     "url": "https://techcrunch.com/2026/11/25/anthropics-dario-amodei-calls-accusations-of-surrendering-human-control-to-ai-absurd/",
+     "published_at": 1795635864.0
+    }
+   ]
+  },
+  {
+   "text": "【ai】https://archive",
+   "keyword": "ai",
+   "news_ids": [
+    "94b0321f12c27136"
+   ],
+   "refs": [
+    {
+     "id": "94b0321f12c27136",
+     "title": "The New York Times warns photographers not to update Photoshop over AI features",
+     "source": "Hacker News",
+     "url": "https://www.theverge.com/ai-artificial-intelligence/1041227/the-new-york-times-warns-photographers-not-to-update-photoshop-over-ai-features",
+     "published_at": 1795641482.0
+    }
+   ]
+  },
+  {
+   "text": "【ai】我比黄仁勋更早看到英伟达的未来”！AI 教父回击黄仁勋，直言大规模失业是 AI 巨头赚钱的副作用",
+   "keyword": "ai",
+   "news_ids": [
+    "03f59aa65e0eb6bd"
+   ],
+   "refs": [
+    {
+     "id": "03f59aa65e0eb6bd",
+     "title": "我比黄仁勋更早看到英伟达的未来”！AI 教父回击黄仁勋，直言大规模失业是 AI 巨头赚钱的副作用",
+     "source": "InfoQ中文",
+     "url": "https://www.infoq.cn/article/6i2DoIJiaTcKyR0UyurQ?utm_source=rss&utm_medium=article",
+     "published_at": 1795632329.0
+    }
+   ]
+  },
+  {
+   "text": "【the】See also The matrix multiplication exponent is nine fourths [pdf] - http",
+   "keyword": "the",
+   "news_ids": [
+    "1a08736bdc86a7f3"
+   ],
+   "refs": [
+    {
+     "id": "1a08736bdc86a7f3",
+     "title": "Holy shit holy shit holy shit holy shit: The magnitude of what’s now happening",
+     "source": "Hacker News",
+     "url": "https://scottaaronson.blog/?p=10379",
+     "published_at": 1795633887.0
+    }
+   ]
+  },
+  {
+   "text": "【数据】IT之家 11 月 26 日消息，密码管理服务商 1Password 昨日（11 月 25 日）披露安全事件， 公司于 11 月 19 日发现有",
+   "keyword": "数据",
+   "news_ids": [
+    "ebed69b415409872"
+   ],
+   "refs": [
+    {
+     "id": "ebed69b415409872",
+     "title": "密码管理工具 1Password 披露安全事件，部分客户数据外泄",
+     "source": "IT之家",
+     "url": "https://www.ithome.com/1/032/538.htm",
+     "published_at": 1795646883.0
+    }
+   ]
+  },
+  {
+   "text": "【security】Article URL: https://www",
+   "keyword": "security",
+   "news_ids": [
+    "d935579cc0c6f5f8"
+   ],
+   "refs": [
+    {
+     "id": "d935579cc0c6f5f8",
+     "title": "Slow Ubuntu security response times",
+     "source": "Hacker News",
+     "url": "https://www.openwall.com/lists/oss-security/2026/11/25/9",
+     "published_at": 1795639080.0
+    }
+   ]
+  },
+  {
+   "text": "Article URL: https://github",
+   "keyword": "",
+   "news_ids": [
+    "50cc5c61a26fa004"
+   ],
+   "refs": [
+    {
+     "id": "50cc5c61a26fa004",
+     "title": "Bare Metal Qwen",
+     "source": "Hacker News",
+     "url": "https://github.com/alesha-pro/llm.asm/tree/main/02-baremetal-os",
+     "published_at": 1795644934.0
+    }
+   ]
+  },
+  {
+   "text": "Article URL: https://scienceinhand",
+   "keyword": "",
+   "news_ids": [
+    "772a8356203d365c"
+   ],
+   "refs": [
+    {
+     "id": "772a8356203d365c",
+     "title": "72-Hour Fasting Can Reset Your Immune System, USC Study Shows",
+     "source": "Hacker News",
+     "url": "https://scienceinhand.com/72-hour-fasting-can-reset-your-entire-immune-system-usc-study-shows/",
+     "published_at": 1795638939.0
+    }
+   ]
+  },
+  {
+   "text": "台积电正评估在美国得克萨斯州布拉索斯县建设一座投资规模约226亿美元、采用2纳米或更先进制程的半导体晶圆厂",
+   "keyword": "",
+   "news_ids": [
+    "955a97443b04644d"
+   ],
+   "refs": [
+    {
+     "id": "955a97443b04644d",
+     "title": "台积电拟在得州布拉索斯县投建226亿美元2纳米晶圆厂 2027年动工",
+     "source": "cnBeta",
+     "url": "https://www.cnbeta.com.tw/articles/tech/1587946.htm",
+     "published_at": 1795631398.0
+    }
+   ]
+  },
+  {
+   "text": "美国北卡罗来纳州立大学的研究团队开发出一款名为EpiPad的可穿戴技术，能够把佩戴者的前臂皮肤变成一块可用的触控板，用来操控智能手表",
+   "keyword": "",
+   "news_ids": [
+    "ac1ce09abddb4c83"
+   ],
+   "refs": [
+    {
+     "id": "ac1ce09abddb4c83",
+     "title": "新可穿戴设备将前臂皮肤变成触控板 有望突破智能手表屏幕过小的操作瓶颈",
+     "source": "cnBeta",
+     "url": "https://www.cnbeta.com.tw/articles/science/1587940.htm",
+     "published_at": 1795631141.0
+    }
+   ]
+  },
+  {
+   "text": "苹果传闻中的巨型折叠屏iPad或将定价高达5000美元，但其操作系统仍未确定，能否最终上市也存在不确定性",
+   "keyword": "",
+   "news_ids": [
+    "c227744b241f8acc"
+   ],
+   "refs": [
+    {
+     "id": "c227744b241f8acc",
+     "title": "苹果传闻中的巨型折叠屏iPad或将定价高达5000美元 能否最终上市存在不确定性",
+     "source": "cnBeta",
+     "url": "https://www.cnbeta.com.tw/articles/tech/1587938.htm",
+     "published_at": 1795630960.0
+    }
+   ]
+  },
+  {
+   "text": "阿福学会“望闻问切”背后，真实医疗需求正在重塑百灵大模型",
+   "keyword": "",
+   "news_ids": [
+    "aefa02c8c1b41f61"
+   ],
+   "refs": [
+    {
+     "id": "aefa02c8c1b41f61",
+     "title": "阿福学会“望闻问切”背后，真实医疗需求正在重塑百灵大模型",
+     "source": "InfoQ中文",
+     "url": "https://www.infoq.cn/article/V7VOeFvEPLrHAN2EFmUa?utm_source=rss&utm_medium=article",
+     "published_at": 1795630950.0
+    }
+   ]
+  },
+  {
+   "text": "Pi创始人曝现代开发奇观：系统崩了，一屋子工程师都在问Claude怎么修",
+   "keyword": "",
+   "news_ids": [
+    "2932e209adf32fc6"
+   ],
+   "refs": [
+    {
+     "id": "2932e209adf32fc6",
+     "title": "Pi创始人曝现代开发奇观：系统崩了，一屋子工程师都在问Claude怎么修",
+     "source": "InfoQ中文",
+     "url": "https://www.infoq.cn/article/ExbJjrItIlc9KLfQ2UeT?utm_source=rss&utm_medium=article",
+     "published_at": 1795630927.0
+    }
+   ]
+  },
+  {
+   "text": "美国政府正推进新一轮关税措施，涉及中国、印度、台湾、墨西哥等多个贸易伙伴，而苹果公司的主要iPhone生产地也在其中",
+   "keyword": "",
+   "news_ids": [
+    "d6bd195cf2565907"
+   ],
+   "refs": [
+    {
+     "id": "d6bd195cf2565907",
+     "title": "美国拟对14个贸易伙伴加征新关税 苹果主要iPhone制造地受冲击",
+     "source": "cnBeta",
+     "url": "https://www.cnbeta.com.tw/articles/tech/1587936.htm",
+     "published_at": 1795630925.0
+    }
+   ]
+  },
+  {
+   "text": "https://archive",
+   "keyword": "",
+   "news_ids": [
+    "f1eba2cd131620c6"
+   ],
+   "refs": [
+    {
+     "id": "f1eba2cd131620c6",
+     "title": "Britain's ghost stations",
+     "source": "Hacker News",
+     "url": "https://spectator.com/article/britains-ghost-stations-are-fascinating/",
+     "published_at": 1795628626.0
+    }
+   ]
+  }
+ ],
+ "article": {
+  "title": "2026-11-26 新闻总结",
+  "paragraphs": [
+   {
+    "kind": "lead",
+    "text": "今天共收录 54 条新闻，来自 6 家媒体。把标题放在一起看，讨论主要集中在 AI、数据 这几个方向上，其余消息更像是零散补充。"
+   },
+   {
+    "kind": "section",
+    "heading": "AI",
+    "text": "先看「AI」。AMD 联合中科慧灵完成人形机器人端侧 AI 验证，另有 17 条消息指向同一话题。这类进展更像是把已有能力往工程化落地推了一步，真正的分水岭在于成本和可靠性能不能同时压下来。",
+    "news_ids": [
+     "f5ac070263fd9a7f"
+    ],
+    "refs": [
+     {
+      "id": "f5ac070263fd9a7f",
+      "title": "AMD 联合中科慧灵完成人形机器人端侧 AI 验证，探索“大小脑”双处理器架构",
+      "source": "InfoQ中文",
+      "url": "https://www.infoq.cn/article/stLpgV1kNHuvr21qRH9x?utm_source=rss&utm_medium=article",
+      "published_at": 1795633868.0
+     }
+    ]
+   },
+   {
+    "kind": "section",
+    "heading": "创新",
+    "text": "与此同时「创新」。阿里千问 Go 开放免费代打电话服务、Sand.ai 发布视频生成模型 MAGI-2 等…，另有 6 条消息指向同一话题。这类进展更像是把已有能力往工程化落地推了一步，真正的分水岭在于成本和可靠性能不能同时压下来。",
+    "news_ids": [
+     "52ffb3dbb13b5f39"
+    ],
+    "refs": [
+     {
+      "id": "52ffb3dbb13b5f39",
+      "title": "派早报：蔚来举办 2026 创新科技日、Tidal 将拒绝 AI 音乐等",
+      "source": "少数派",
+      "url": "https://sspai.com/post/119560",
+      "published_at": 1795651687.0
+     }
+    ]
+   },
+   {
+    "kind": "section",
+    "heading": "数据",
+    "text": "另一个值得注意的方向是「数据」。做了 16 年数据库，蚂蚁 OceanBase 为什么要再造一个 AI 数据平台？，另有 10 条消息指向同一话题。这类进展更像是把已有能力往工程化落地推了一步，真正的分水岭在于成本和可靠性能不能同时压下来。",
+    "news_ids": [
+     "8d949a39d9182963"
+    ],
+    "refs": [
+     {
+      "id": "8d949a39d9182963",
+      "title": "做了 16 年数据库，蚂蚁 OceanBase 为什么要再造一个 AI 数据平台？",
+      "source": "InfoQ中文",
+      "url": "https://www.infoq.cn/article/2YvROKs0CHz1yR4Wi02o?utm_source=rss&utm_medium=article",
+      "published_at": 1795627291.0
+     }
+    ]
+   },
+   {
+    "kind": "section",
+    "heading": "安全",
+    "text": "相比之下「安全」。IT之家 11 月 26 日消息，密码管理服务商 1Password 昨日（11 月 25 日）披露安全事件，另有 1 条消息指向同一话题。这类问题很少是单点失误，更常见的是权限设计和应急流程一起出了漏洞。",
+    "news_ids": [
+     "ebed69b415409872"
+    ],
+    "refs": [
+     {
+      "id": "ebed69b415409872",
+      "title": "密码管理工具 1Password 披露安全事件，部分客户数据外泄",
+      "source": "IT之家",
+      "url": "https://www.ithome.com/1/032/538.htm",
+      "published_at": 1795646883.0
+     }
+    ]
+   },
+   {
+    "kind": "glossary",
+    "items": [
+     {
+      "term": "AI",
+      "desc": "人工智能，让机器完成识别、生成、判断等原本需要人做的任务"
+     },
+     {
+      "term": "GPU",
+      "desc": "图形处理器，因为擅长大规模并行计算，成了 AI 训练的主力硬件"
+     },
+     {
+      "term": "大模型",
+      "desc": "参数量巨大的神经网络，靠海量文本训练出语言理解与生成能力"
+     },
+     {
+      "term": "晶圆",
+      "desc": "制造芯片用的硅片，一块晶圆上会切出大量芯片"
+     }
+    ]
+   },
+   {
+    "kind": "outlook",
+    "text": "把这几条放在一起看，最值得跟踪的是 AI 和 数据 两条线：一条决定技术能走多远，一条决定它多快能落到普通人的日常里。至于其他消息，可以先放进观察名单，等后续有更实的进展再判断。"
+   }
+  ],
+  "word_count": 596
+ },
+ "ai_enhanced": false,
+ "schema": 1,
+ "window_bj": {
+  "start": "2026-11-26 00:00",
+  "end": "2026-11-26 09:00"
+ }
+}
