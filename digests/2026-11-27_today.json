@@ -1,0 +1,366 @@
+{
+ "type": "today",
+ "date": "2026-11-27",
+ "window": {
+  "start_ts": 1795708800.0,
+  "end_ts": 1795741200.0
+ },
+ "generated_at": 1795771772.6949596,
+ "generator": "action",
+ "news_count": 49,
+ "keywords": [
+  "ai",
+  "of",
+  "the",
+  "in",
+  "三星",
+  "galaxy",
+  "pro",
+  "at",
+  "to",
+  "上线"
+ ],
+ "points": [
+  {
+   "text": "【ai】IT之家 11 月 27 日消息，科技媒体 sammyguru 昨日（11 月 26 日）发布博文， 报道称距离三星发布 Galaxy S27 ",
+   "keyword": "ai",
+   "news_ids": [
+    "cad91ade95ebd1ee"
+   ],
+   "refs": [
+    {
+     "id": "cad91ade95ebd1ee",
+     "title": "三星 Galaxy S27 Pro / Ultra 手机发布倒计时，内部零件已先“露脸”",
+     "source": "IT之家",
+     "url": "https://www.ithome.com/1/033/150.htm",
+     "published_at": 1795737148.0
+    }
+   ]
+  },
+  {
+   "text": "【the】From reading more books to breaking mindless scrolling habits, Apple's f",
+   "keyword": "the",
+   "news_ids": [
+    "a1f0b3798eb37fb2"
+   ],
+   "refs": [
+    {
+     "id": "a1f0b3798eb37fb2",
+     "title": "A month with the iPhone Duo has changed how I use my phone",
+     "source": "TechCrunch",
+     "url": "https://techcrunch.com/2026/11/26/a-month-with-the-iphone-duo-has-changed-how-i-use-my-phone/",
+     "published_at": 1795712400.0
+    }
+   ]
+  },
+  {
+   "text": "【发布】IT之家 11 月 27 日消息，据 Wccftech 今日报道，NVIDIA Profile Inspector 开发者 Orbmu2k 发布",
+   "keyword": "发布",
+   "news_ids": [
+    "09f861bab92cb112"
+   ],
+   "refs": [
+    {
+     "id": "09f861bab92cb112",
+     "title": "英伟达 G-SYNC 新工具上线：解决约 60 FPS 时 OLED 屏幕亮度闪烁问题",
+     "source": "IT之家",
+     "url": "https://www.ithome.com/1/033/140.htm",
+     "published_at": 1795734803.0
+    }
+   ]
+  },
+  {
+   "text": "【in】Hi HN, I made a small macOS utility for my own iOS simulator workflow",
+   "keyword": "in",
+   "news_ids": [
+    "f05874e24da48d18"
+   ],
+   "refs": [
+    {
+     "id": "f05874e24da48d18",
+     "title": "Show HN: SimDrop – Running iOS simulators in the macOS Finder sidebar",
+     "source": "Hacker News",
+     "url": "https://github.com/rxliuli/sim-drop",
+     "published_at": 1795711898.0
+    }
+   ]
+  },
+  {
+   "text": "【ai】Article URL: https://topcitedscientists",
+   "keyword": "ai",
+   "news_ids": [
+    "56c43f00f91f9c44"
+   ],
+   "refs": [
+    {
+     "id": "56c43f00f91f9c44",
+     "title": "Top-cited AI scientists at four US companies compared",
+     "source": "Hacker News",
+     "url": "https://topcitedscientists.com/figures/ai-at-four-us-companies/",
+     "published_at": 1795722271.0
+    }
+   ]
+  },
+  {
+   "text": "【of】Article URL: https://www",
+   "keyword": "of",
+   "news_ids": [
+    "a4625abdacd1ecbd"
+   ],
+   "refs": [
+    {
+     "id": "a4625abdacd1ecbd",
+     "title": "ESO statement on approval of launch of one million space data centres",
+     "source": "Hacker News",
+     "url": "https://www.eso.org/public/news/eso2614/",
+     "published_at": 1795737824.0
+    }
+   ]
+  },
+  {
+   "text": "【in】Article URL: https://chrhenning",
+   "keyword": "in",
+   "news_ids": [
+    "fd5441df7d83b3fc"
+   ],
+   "refs": [
+    {
+     "id": "fd5441df7d83b3fc",
+     "title": "An introduction to uncertainty in machine learning",
+     "source": "Hacker News",
+     "url": "https://chrhenning.com/blog/2026/introduction-to-uncertainty/",
+     "published_at": 1795719890.0
+    }
+   ]
+  },
+  {
+   "text": "【to】Article URL: https://economictimes",
+   "keyword": "to",
+   "news_ids": [
+    "4c60c07468979731"
+   ],
+   "refs": [
+    {
+     "id": "4c60c07468979731",
+     "title": "IBM gives H-1B, green card holders 3 weeks to relocate from US or leave company",
+     "source": "Hacker News",
+     "url": "https://economictimes.indiatimes.com/nri/work/ibm-gives-h-1b-green-card-holders-3-weeks-to-relocate-from-us-or-leave-company-december-31-deadline-set/articleshow/136180168.cms?from=mdr",
+     "published_at": 1795718137.0
+    }
+   ]
+  },
+  {
+   "text": "索尼 WH-1000XM4C 无线降噪耳机国行正式发售，微软公布 Windows Server 2028 功能清理计划等",
+   "keyword": "",
+   "news_ids": [
+    "d7717eed3931506d"
+   ],
+   "refs": [
+    {
+     "id": "d7717eed3931506d",
+     "title": "派早报：1Password 确认内部系统遭入侵等",
+     "source": "少数派",
+     "url": "https://sspai.com/post/119632",
+     "published_at": 1795739258.0
+    }
+   ]
+  },
+  {
+   "text": "IT之家 11 月 27 日消息，昨日起，有部分 DeepSeek 移动端用户反馈，App 内正在灰度测试“显示本轮消耗额度”功能",
+   "keyword": "",
+   "news_ids": [
+    "006c49b83874cc17"
+   ],
+   "refs": [
+    {
+     "id": "006c49b83874cc17",
+     "title": "DeepSeek 灰度测试“消耗额度”：直观展示对话成本，此前已实施限额",
+     "source": "IT之家",
+     "url": "https://www.ithome.com/1/033/157.htm",
+     "published_at": 1795738863.0
+    }
+   ]
+  },
+  {
+   "text": "IT之家 11 月 27 日消息，广发证券分析师蒲得宇（Jeff Pu）下调了对 2027 年全球 DRAM 合约价格的增长预期，并首次给出 2",
+   "keyword": "",
+   "news_ids": [
+    "1d2933c691909c13"
+   ],
+   "refs": [
+    {
+     "id": "1d2933c691909c13",
+     "title": "分析师蒲得宇预测 DRAM 内存价格 2028 年或腰斩，但明年仍上涨",
+     "source": "IT之家",
+     "url": "https://www.ithome.com/1/033/154.htm",
+     "published_at": 1795738211.0
+    }
+   ]
+  },
+  {
+   "text": "IT之家 11 月 27 日消息，国家广播电视总局第 17 号令《有线广播电视运营服务管理规定》与第 18 号令《交互式网络电视运营服务管理暂行",
+   "keyword": "",
+   "news_ids": [
+    "43cf4e320d1d3a0c"
+   ],
+   "refs": [
+    {
+     "id": "43cf4e320d1d3a0c",
+     "title": "有线电视与 IPTV 广告禁令今日生效：开机看全屏直播，违者最高罚 10 万元",
+     "source": "IT之家",
+     "url": "https://www.ithome.com/1/033/152.htm",
+     "published_at": 1795737804.0
+    }
+   ]
+  },
+  {
+   "text": "IT之家 11 月 27 日消息，当地时间 26 日，福特全新 GT41 赛车正式亮相，明年还将重返勒芒 24 小时耐力赛最高组别",
+   "keyword": "",
+   "news_ids": [
+    "2636898e24586cae"
+   ],
+   "refs": [
+    {
+     "id": "2636898e24586cae",
+     "title": "5.4 升自吸混动大 V8 加持，福特全新 GT41 赛车亮相",
+     "source": "IT之家",
+     "url": "https://www.ithome.com/1/033/149.htm",
+     "published_at": 1795737061.0
+    }
+   ]
+  },
+  {
+   "text": "IT之家 11 月 27 日消息，谷歌宣布，自 2027 年 3 月 1 日起，被认定为“交易者”（Trader）的 Google Play 开",
+   "keyword": "",
+   "news_ids": [
+    "273c3444f93e36b2"
+   ],
+   "refs": [
+    {
+     "id": "273c3444f93e36b2",
+     "title": "谷歌 Play 新规：2027 年 3 月起，部分开发者须全球公开住址和电话",
+     "source": "IT之家",
+     "url": "https://www.ithome.com/1/033/148.htm",
+     "published_at": 1795736656.0
+    }
+   ]
+  },
+  {
+   "text": "Article URL: https://kendell",
+   "keyword": "",
+   "news_ids": [
+    "738fd503383c0dc2"
+   ],
+   "refs": [
+    {
+     "id": "738fd503383c0dc2",
+     "title": "Novita, StreamLake, etc. are ByteDance Ark wrappers",
+     "source": "Hacker News",
+     "url": "https://kendell.dev/blog/arkwrapper/",
+     "published_at": 1795730359.0
+    }
+   ]
+  }
+ ],
+ "article": {
+  "title": "2026-11-27 新闻总结",
+  "paragraphs": [
+   {
+    "kind": "lead",
+    "text": "今天共收录 49 条新闻，来自 5 家媒体。把标题放在一起看，讨论主要集中在 AI、手机 这几个方向上，其余消息更像是零散补充。"
+   },
+   {
+    "kind": "section",
+    "heading": "手机",
+    "text": "先看「手机」。IT之家 11 月 27 日消息，科技媒体 sammyguru 昨日（11 月 26 日）发布博文， 报道称距离三星发布 Galaxy S27 Pro，另有 18 条消息指向同一话题。技术路线的胜负很少由一次发布会决定，接下来要看的是它能不能被更多团队低成本复用。",
+    "news_ids": [
+     "cad91ade95ebd1ee"
+    ],
+    "refs": [
+     {
+      "id": "cad91ade95ebd1ee",
+      "title": "三星 Galaxy S27 Pro / Ultra 手机发布倒计时，内部零件已先“露脸”",
+      "source": "IT之家",
+      "url": "https://www.ithome.com/1/033/150.htm",
+      "published_at": 1795737148.0
+     }
+    ]
+   },
+   {
+    "kind": "section",
+    "heading": "上线",
+    "text": "与此同时「上线」。IT之家 11 月 27 日消息，苹果 2026 年黑色星期五购物活动已率先在澳大利亚、新西兰和泰国上线，随后将陆续覆盖欧洲，另有 2 条消息指向同一话题。从节奏上看，行业已经从「能不能做」转向「做得便不便宜」，这通常意味着竞争会更务实。",
+    "news_ids": [
+     "250a311c202eed32"
+    ],
+    "refs": [
+     {
+      "id": "250a311c202eed32",
+      "title": "苹果在部分地区上线 2026 黑五促销：购买指定产品可获 25~300 美元礼品卡，支持 iPhone、Mac、iPad 等",
+      "source": "IT之家",
+      "url": "https://www.ithome.com/1/033/151.htm",
+      "published_at": 1795737282.0
+     }
+    ]
+   },
+   {
+    "kind": "section",
+    "heading": "屏幕",
+    "text": "另一个值得注意的方向是「屏幕」。IT之家 11 月 27 日消息，据 Wccftech 今日报道，NVIDIA Profile Inspector 开发者 Orbmu2k 发布了一款名为 NVIDIA G-SYN…，另有 2 条消息指向同一话题。技术路线的胜负很少由一次发布会决定，接下来要看的是它能不能被更多团队低成本复用。",
+    "news_ids": [
+     "09f861bab92cb112"
+    ],
+    "refs": [
+     {
+      "id": "09f861bab92cb112",
+      "title": "英伟达 G-SYNC 新工具上线：解决约 60 FPS 时 OLED 屏幕亮度闪烁问题",
+      "source": "IT之家",
+      "url": "https://www.ithome.com/1/033/140.htm",
+      "published_at": 1795734803.0
+     }
+    ]
+   },
+   {
+    "kind": "section",
+    "heading": "入侵",
+    "text": "相比之下「入侵」。索尼 WH-1000XM4C 无线降噪耳机国行正式发售，微软公布 Windows Server 2028 功能清理计划等…。技术路线的胜负很少由一次发布会决定，接下来要看的是它能不能被更多团队低成本复用。",
+    "news_ids": [
+     "d7717eed3931506d"
+    ],
+    "refs": [
+     {
+      "id": "d7717eed3931506d",
+      "title": "派早报：1Password 确认内部系统遭入侵等",
+      "source": "少数派",
+      "url": "https://sspai.com/post/119632",
+      "published_at": 1795739258.0
+     }
+    ]
+   },
+   {
+    "kind": "glossary",
+    "items": [
+     {
+      "term": "AI",
+      "desc": "人工智能，让机器完成识别、生成、判断等原本需要人做的任务"
+     },
+     {
+      "term": "GPU",
+      "desc": "图形处理器，因为擅长大规模并行计算，成了 AI 训练的主力硬件"
+     }
+    ]
+   },
+   {
+    "kind": "outlook",
+    "text": "把这几条放在一起看，最值得跟踪的是 AI 和 手机 两条线：一条决定技术能走多远，一条决定它多快能落到普通人的日常里。至于其他消息，可以先放进观察名单，等后续有更实的进展再判断。"
+   }
+  ],
+  "word_count": 694
+ },
+ "ai_enhanced": false,
+ "schema": 1,
+ "window_bj": {
+  "start": "2026-11-27 00:00",
+  "end": "2026-11-27 09:00"
+ }
+}
