@@ -1,8 +1,188 @@
 {
  "date": "2026-11-27",
- "generated_at": 1795734270.6233106,
- "count": 21,
+ "generated_at": 1795739159.3760986,
+ "count": 45,
  "items": [
+  {
+   "id": "006c49b83874cc17",
+   "source": "IT之家",
+   "title": "DeepSeek 灰度测试“消耗额度”：直观展示对话成本，此前已实施限额",
+   "url": "https://www.ithome.com/1/033/157.htm",
+   "summary": "IT之家 11 月 27 日消息，昨日起，有部分 DeepSeek 移动端用户反馈，App 内正在灰度测试“显示本轮消耗额度”功能。 用户在完成一轮对话后，界面会弹出详情页，展示本次交互消耗的 Token 数量及其对应的估算金额（价格和 API 持平）。尽管当前面向个人用户的对话服务依然免费，但该功能让单次对话背后的计算成本变得可见。 根据用户提供的截图，额度按“空闲时段”价格估算。计费拆分为三个维度： 输入缓存命中部分，单价为 0.02 元 / 百万 tokens，本轮用量约 18.5 万，折合 0.0037 元； 输入缓存未命中部分，单价为 1 元 / 百万 tokens，用量约 1.2 ",
+   "published_at": 1795738863.0,
+   "published_bj": "2026-11-27 08:21"
+  },
+  {
+   "id": "87acbbe5c9c11740",
+   "source": "IT之家",
+   "title": "民间移植 PC 版《GTA 6》游戏多人模式演示曝光，帧率约 25~30 FPS",
+   "url": "https://www.ithome.com/1/033/156.htm",
+   "summary": "IT之家 11 月 27 日消息，根据 Portwatch 网站认证，民间移植的 PC 版《侠盗猎车手 VI》（GTA6）已实现多人模式。视频发布者 TeK 表示， 其团队已在同一游戏世界中，实现同步显示多名玩家角色与载具，并加入“近距离语音聊天”功能，游戏帧率，视频所显示的运行帧率约为每秒 25 至 30 帧。 IT之家附上相关视频如下： 追踪非官方《GTA 6》PC 移植进展的社区项目 PortWatch VI 随后表示，已核实该视频为真实内容。PortWatch VI 是一个由社区维护的追踪网站，专门记录将泄露的主机版《GTA 6》构建移植、重编译或模拟到 PC 上的各类尝试，并追踪民间",
+   "published_at": 1795738844.0,
+   "published_bj": "2026-11-27 08:20"
+  },
+  {
+   "id": "b2f8b5fbe9a2cc2e",
+   "source": "IT之家",
+   "title": "微软发布 Visual Studio Code 1.148：电脑可在智能体运行时保持唤醒",
+   "url": "https://www.ithome.com/1/033/155.htm",
+   "summary": "IT之家 11 月 27 日消息，当地时间 25 日，微软推出 Visual Studio Code 1.148，进一步完善了应用的 AI 功能，重点优化智能体的使用体验。本次更新最受关注的新功能，是允许 AI 智能体工作时阻止电脑自动进入睡眠状态。 这项功能目前处于预览阶段，提供三种设置模式： 智能体工作时始终保持电脑唤醒、仅在笔记本电脑接通电源时保持唤醒、完全关闭 。 另一项重要更新是支持直接在隔离的开发容器（Dev Container）中运行智能体。此前，用户需要准备一个通常名为 devcontainer.json 的配置文件，才能将智能体放入独立的开发容器中运行。现在，VS Code ",
+   "published_at": 1795738255.0,
+   "published_bj": "2026-11-27 08:10"
+  },
+  {
+   "id": "1d2933c691909c13",
+   "source": "IT之家",
+   "title": "分析师蒲得宇预测 DRAM 内存价格 2028 年或腰斩，但明年仍上涨",
+   "url": "https://www.ithome.com/1/033/154.htm",
+   "summary": "IT之家 11 月 27 日消息，广发证券分析师蒲得宇（Jeff Pu）下调了对 2027 年全球 DRAM 合约价格的增长预期，并首次给出 2028 年价格走势的三种情景预测。 其中，基准情景预计传统 DRAM 价格可能在 2028 年降至每 GB 约 8 美元，较 2027 年预估的 16 美元下跌 50%。不过，这并不意味着明年内存就会降价，他预计 2027 年 DRAM 价格仍将继续上涨，只是涨幅收窄。 他表示，广发证券已将 2027 年四个季度 DRAM 合约价格环比涨幅预测，从此前的 10%、7%、5% 和 3%，分别下调至 6%、3%、0% 和 0%。这意味着 DRAM 合约价格",
+   "published_at": 1795738211.0,
+   "published_bj": "2026-11-27 08:10"
+  },
+  {
+   "id": "87d07226f75faf72",
+   "source": "IT之家",
+   "title": "三星酝酿 SPAC 框架，为 Galaxy S26 等手机引入苹果式“私有云”",
+   "url": "https://www.ithome.com/1/033/153.htm",
+   "summary": "IT之家 11 月 27 日消息，科技媒体 Android Authority 昨日（11 月 26 日）发布博文， 通过挖掘 One UI 9.5 首个 Beta 测试版更新代码，发现名为 SPAC 的全新框架，其设计思路与苹果的“私有云计算”（Private Cloud Compute，PCC）高度相似。 IT之家注：苹果的“私有云计算”是为 Apple Intelligence 打造的云端 AI 隐私架构，当任务复杂到 iPhone 无法本地完成后，苹果会在专用服务器上处理请求，在技术上尽量减少获取和留存个人数据的机会，并让用户使用更强大的云端 AI。 图源：苹果 而在 Galaxy A",
+   "published_at": 1795738082.0,
+   "published_bj": "2026-11-27 08:08"
+  },
+  {
+   "id": "43cf4e320d1d3a0c",
+   "source": "IT之家",
+   "title": "有线电视与 IPTV 广告禁令今日生效：开机看全屏直播，违者最高罚 10 万元",
+   "url": "https://www.ithome.com/1/033/152.htm",
+   "summary": "IT之家 11 月 27 日消息，国家广播电视总局第 17 号令《有线广播电视运营服务管理规定》与第 18 号令《交互式网络电视运营服务管理暂行规定》11 月 27 日起正式施行。 这两项规章均明确，有线电视与 IPTV 运营服务提供者应坚持直播优先原则，实现开机看全屏直播功能，设置频道回看入口，不得播放开机广告。违规者由县级以上广播电视主管部门责令改正，给予警告、通报批评；情节严重的，并处 1 万元以上 10 万元以下罚款。 图源：Pexels 这项禁令直接约束的是有线电视与 IPTV 的运营方，即用户通过运营商机顶盒接收电视信号的场景。两类服务中，有线电视实际用户截至 2026 年 6 月",
+   "published_at": 1795737804.0,
+   "published_bj": "2026-11-27 08:03"
+  },
+  {
+   "id": "250a311c202eed32",
+   "source": "IT之家",
+   "title": "苹果在部分地区上线 2026 黑五促销：购买指定产品可获 25~300 美元礼品卡，支持 iPhone、Mac、iPad 等",
+   "url": "https://www.ithome.com/1/033/151.htm",
+   "summary": "IT之家 11 月 27 日消息，苹果 2026 年黑色星期五购物活动已率先在澳大利亚、新西兰和泰国上线，随后将陆续覆盖欧洲、美国和加拿大等市场。 本次活动将持续至 11 月 30 日（网络星期一），用户购买符合条件的苹果产品，可获得最高 300 美元（IT之家注：当前汇率约合人民币 1999 元）的 Apple Gift Card 礼品卡。用户可通过 Apple Store 零售店、Apple Store 应用和苹果官网参与活动。 需要注意的是，礼品卡只能用于后续购买，不能直接抵扣本次购买产品的价格。礼品卡可用于购买苹果产品及配件，也可支付 Apple Music、Apple TV、App ",
+   "published_at": 1795737282.0,
+   "published_bj": "2026-11-27 07:54"
+  },
+  {
+   "id": "cad91ade95ebd1ee",
+   "source": "IT之家",
+   "title": "三星 Galaxy S27 Pro / Ultra 手机发布倒计时，内部零件已先“露脸”",
+   "url": "https://www.ithome.com/1/033/150.htm",
+   "summary": "IT之家 11 月 27 日消息，科技媒体 sammyguru 昨日（11 月 26 日）发布博文， 报道称距离三星发布 Galaxy S27 Pro、Galaxy S27 Ultra 还有约 2 个月时间（预估 2027 年 1 月发布），相关零部件已提前现身网络，涵盖充电接口小板、主板排线等。 目前曝光的两款充电接口板上分别印有 SM-S957B 和 SM-S958B 的型号标识，前者据称对应 Galaxy S27 Pro，后者对应 Galaxy S27 Ultra。此外，S27 Ultra 的主板排线上还出现了面向美国运营商的型号，以及“MAIN”“SUB”“USB”等接口标注。IT之家",
+   "published_at": 1795737148.0,
+   "published_bj": "2026-11-27 07:52"
+  },
+  {
+   "id": "2636898e24586cae",
+   "source": "IT之家",
+   "title": "5.4 升自吸混动大 V8 加持，福特全新 GT41 赛车亮相",
+   "url": "https://www.ithome.com/1/033/149.htm",
+   "summary": "IT之家 11 月 27 日消息，当地时间 26 日，福特全新 GT41 赛车正式亮相，明年还将重返勒芒 24 小时耐力赛最高组别。车名沿用了 GT40 的命名思路，取自车身高度：车顶进气口离地高度为 41 英寸 （IT之家注：约 1,041 毫米） 。 GT41 的动力核心是一台 5.4 升自然吸气混合动力 V8 发动机 。整套发动机项目完全由福特自主研发，这也是福特引以为傲的地方。 这台发动机专供 GT41 项目使用，从设计、制造到测试均由福特自行完成。福特赛车部门还负责零部件开发、发动机标定和软件开发，甚至连车灯、雨刷等辅助设备所需的低压系统也由其负责。 据IT之家了解，接下来，福特将集",
+   "published_at": 1795737061.0,
+   "published_bj": "2026-11-27 07:51"
+  },
+  {
+   "id": "273c3444f93e36b2",
+   "source": "IT之家",
+   "title": "谷歌 Play 新规：2027 年 3 月起，部分开发者须全球公开住址和电话",
+   "url": "https://www.ithome.com/1/033/148.htm",
+   "summary": "IT之家 11 月 27 日消息，谷歌宣布，自 2027 年 3 月 1 日起，被认定为“交易者”（Trader）的 Google Play 开发者，需要在应用商店公开展示电话号码和实体地址。 该政策旨在配合欧盟《数字服务法》（DSA）及英国相关法规实施，但 Google 选择将信息公开范围扩大至全球，而非仅限于欧洲地区。 谷歌表示，所有活跃的 Google Play 开发者在 2027 年 2 月 1 日之前，通过 Play Console 声明自己是否属于交易者，无论其应用面向哪个国家或地区分发。 谷歌对“交易者”的定义主要涉及商业活动，包括通过付费应用、应用内购买或广告获得收入的开发者。",
+   "published_at": 1795736656.0,
+   "published_bj": "2026-11-27 07:44"
+  },
+  {
+   "id": "74897ed0dafeb5dc",
+   "source": "IT之家",
+   "title": "新研究表明 5G 能干扰卫星“看天气”，影响天气预报精度",
+   "url": "https://www.ithome.com/1/033/147.htm",
+   "summary": "IT之家 11 月 27 日消息，科技媒体 Phys 昨日（11 月 26 日）发布博文，报道称最新研究警告，随着 5G 网络在人口密集城市大规模部署， 其信号泄漏可能干扰气象卫星对大气水汽的观测，进而影响暴雨、飓风等高影响天气的预报。 这项研究由美国罗格斯大学的研究团队推进，第一作者为 Behzad Golparvar，相关研究于 10 月 16 日发表在《地球物理研究快报》，题目名为《预计的 5G 干扰可能削弱被动微波辐射资料同化并改变高影响天气预报》。 在现有的设计框架下，气象卫星主要通过测量约 23.8 吉赫兹频段的自然微波，判断低层大气中的水汽含量。这些数据是天气模式初始化的重要输入",
+   "published_at": 1795736532.0,
+   "published_bj": "2026-11-27 07:42"
+  },
+  {
+   "id": "f06f66fb33e63902",
+   "source": "IT之家",
+   "title": "小米 12S、MIX Fold 2、Redmi Note 12 Pro 等多款机型终止软件支持",
+   "url": "https://www.ithome.com/1/033/146.htm",
+   "summary": "IT之家 11 月 27 日消息，小米官网安全中心于 11 月 26 日更新智能硬件产品终止软件支持（EOS）列表，新增 7 款手机，分别为： Xiaomi 12S (cn) Xiaomi MIX Fold 2 (cn) Xiaomi Civi 2 (cn) Xiaomi 12 Lite (tr) Redmi Note 12 Pro+ (cn) Redmi Note 12 Pro (cn) Redmi Note 12 探索版 (cn) 此次新增机型涵盖小米数字系列、MIX 折叠屏系列、Civi 系列以及 Redmi Note 系列。其中，后三款 Redmi Note 12 系列机型对应的软件版",
+   "published_at": 1795735978.0,
+   "published_bj": "2026-11-27 07:32"
+  },
+  {
+   "id": "98e27cb4e4712f07",
+   "source": "IT之家",
+   "title": "IT早报 1127：全球首个乙肝功能性治愈新药在中国获批上市；华为星驰辅助驾驶发布；马斯克向全美孩子每人赠送 2 股 SpaceX 股票；微信上线 NFC 交通卡...",
+   "url": "https://www.ithome.com/1/033/145.htm",
+   "summary": "“IT早报”时间，大家好，现在是 2026 年 11 月 27 日星期五，今天的重要科技资讯有： 1. 全球首个乙肝功能性治愈新药在中国获批上市 国家药品监督管理局批准贝普若韦生（英文名：Bepirovirsen；商品名：贺舒可）上市，该药品联合核苷（酸）类似物（NAs）用于慢性乙型肝炎病毒感染的功能性治愈。贝普若韦生今年相继在日本、美国、加拿大获批，成为全球首个且唯一获得多国监管共同认定、以“功能性治愈”为治疗目标的乙肝新药。&gt;&gt; 查看详情 2. 华为星驰辅助驾驶发布：与乾崑智驾技术同源、资源共享，明年超 10 款车型量产上市 在 26 日晚的 2026 华为乾崑生态大会上，华为",
+   "published_at": 1795735794.0,
+   "published_bj": "2026-11-27 07:29"
+  },
+  {
+   "id": "3ac3879b33b31c2e",
+   "source": "IT之家",
+   "title": "育碧：我们并没有在全公司范围强制推行 AI",
+   "url": "https://www.ithome.com/1/033/144.htm",
+   "summary": "IT之家 11 月 27 日消息，此前有育碧内部人士爆料称，开发者在提出新游戏项目时，必须解释为什么不打算使用 AI。 针对 Vertical Slice 此前的报道，育碧在回应中没有直接否认这一说法，只是强调公司 并未在全公司范围内强制推行 AI 。声明提到：“我们鼓励各团队探索 AI 能够在哪些方面发挥作用，为工作创造价值。” 声明同时强调，上述举措并不意味着所有项目都必须使用生成式 AI。各团队需要自行判断，这些技术是否适合自己准备开发的游戏，以及希望为玩家带来的游戏体验。 此前接受 Vertical Slice 采访的内部人士称，自己在 AI 问题上感到“被逼到了墙角”，管理层则认为，",
+   "published_at": 1795735683.0,
+   "published_bj": "2026-11-27 07:28"
+  },
+  {
+   "id": "3fe4fd69470111e5",
+   "source": "IT之家",
+   "title": "用户反馈英伟达 621.40 驱动“按下葫芦浮起瓢”：修复 SSD 写入后又出现黑屏",
+   "url": "https://www.ithome.com/1/033/143.htm",
+   "summary": "IT之家 11 月 27 日消息，科技媒体 TechPowerUp 昨日（11 月 26 日）发布博文，报道称英伟达 GeForce 621.40 WHQL 驱动（11 月 24 日推送）在修复固态硬盘异常写入问题后，却又引入新的 Bug， 部分用户又发现，安装该版本后出现了黑屏、显示器无信号以及屏幕闪烁等新故障。 根据英伟达官方反馈论坛的用户回帖，一名 RTX 5060 显卡用户表示，安装 621.40 驱动后，显示器立即失去信号，且此后每次开机都会出现同样情况。该用户最终不得不将驱动回滚至 621.24 版本，才恢复正常显示。 另一名使用 RTX 5080 显卡、并连接多台显示器的用户则称",
+   "published_at": 1795735664.0,
+   "published_bj": "2026-11-27 07:27"
+  },
+  {
+   "id": "705c9d7bc2259eef",
+   "source": "IT之家",
+   "title": "Anthropic 平台工程负责人莱斯：AI 改变工程师晋升标准，不再只看项目耗时",
+   "url": "https://www.ithome.com/1/033/141.htm",
+   "summary": "IT之家 11 月 27 日消息，在 Anthropic，AI 正在改变软件工程师的晋升标准。据《商业内幕》今天（27 日）报道，Anthropic 平台工程负责人凯特琳 · 莱斯近期谈到了 AI 对工程师职业发展的影响。她指出，AI 普及后，单纯以 项目完成时间 来判断工程师是否具备晋升条件，已经没有过去那么大的参考价值。 过去需要数年才能完成的工作，现在几个月就能完成。相比项目耗时，她的团队更看重 降低系统延迟、避免事故等 实际成果。“归根结底，还是看实际影响。” 随着 AI 智能体加速软件开发，工程师创造价值的方式也在发生变化。莱斯认为，工作的重点正从编写代码转向“协调”：既要让团队成员",
+   "published_at": 1795735039.0,
+   "published_bj": "2026-11-27 07:17"
+  },
+  {
+   "id": "09f861bab92cb112",
+   "source": "IT之家",
+   "title": "英伟达 G-SYNC 新工具上线：解决约 60 FPS 时 OLED 屏幕亮度闪烁问题",
+   "url": "https://www.ithome.com/1/033/140.htm",
+   "summary": "IT之家 11 月 27 日消息，据 Wccftech 今日报道，NVIDIA Profile Inspector 开发者 Orbmu2k 发布了一款名为 NVIDIA G-SYNC Tweaks 的免费开源工具。 这款工具可用于调整英伟达显卡驱动中未公开的 G-SYNC、可变刷新率（VRR）相关参数，重点解决部分高刷显示器在 60 FPS 时提前触发低帧率补偿（LFC），导致 OLED 屏幕亮度闪烁以及其他显示器出现卡顿的问题。 可变刷新率技术能够让显示器刷新率与 GPU 实际输出帧率动态同步，从而减少画面撕裂和卡顿。当游戏帧率低于显示器支持的 VRR 范围时，低帧率补偿（LFC）会通过重复",
+   "published_at": 1795734803.0,
+   "published_bj": "2026-11-27 07:13"
+  },
+  {
+   "id": "046a7462cfad6094",
+   "source": "IT之家",
+   "title": "主播在视频里放火狐 Firefox 浏览器官方链接，竟被谷歌标记“垃圾信息”",
+   "url": "https://www.ithome.com/1/033/139.htm",
+   "summary": "IT之家 11 月 27 日消息，科技媒体 NeoWin 昨日（11 月 26 日）发布博文，报道称谷歌旗下视频平台 YouTube 近日将一条指向 Mozilla Firefox 官方网站的链接， 判定为违反“垃圾信息、欺骗性行为和诈骗政策”的内容并予以移除 ，引发外界对平台自动审核机制和内容治理透明度争议。 该事件的起因是 All Things Secured 频道上传制作的《谷歌替代方案？减少对谷歌产品依赖的 6 种方法》视频，内容本身主要介绍减少对谷歌服务依赖的方法。该频道主要关注隐私与安全类相关内容，IT之家发稿前查询，该频道订阅者数量为 43.7 万。 根据该频道创作者在社交平台 ",
+   "published_at": 1795734631.0,
+   "published_bj": "2026-11-27 07:10"
+  },
+  {
+   "id": "e556a63164755f61",
+   "source": "IT之家",
+   "title": "GPT-6.2 额度突然不耐用了？OpenAI 承认计费出错，修复后 Astra 消耗速度加快 40%、Sol 加快 25%",
+   "url": "https://www.ithome.com/1/033/138.htm",
+   "summary": "IT之家 11 月 27 日消息，OpenAI 已紧急修复 GPT-6.2 上线初期的一项计费错误 —— 此前该问题导致大多数用户使用 GPT-6.2 Astra 和 Sol 时，消耗的套餐额度按折扣价进行了计算。 OpenAI Codex 与 ChatGPT 负责人 Thibault Sottiaux（Tibo）表示，修复后，用户完成相同工作量时将消耗更多额度：与上周相比，Astra 用户触及使用上限的速度将加快 40%，Sol 用户则将加快 25%。 Sottiaux 同时表示，尽管修复后两款模型的额度消耗速度有所增加，但与上一代 GPT-6 Astra 和 GPT-6.1 Sol 相比，",
+   "published_at": 1795733946.0,
+   "published_bj": "2026-11-27 06:59"
+  },
+  {
+   "id": "87572328fa02d6d2",
+   "source": "IT之家",
+   "title": "彭博社：欧洲市值最高的软件公司 SAP 计划裁员超 1 万人，约占总员工 9%",
+   "url": "https://www.ithome.com/1/033/137.htm",
+   "summary": "IT之家 11 月 27 日消息， 彭博社昨日（11 月 26 日）发布博文，报道称德国软件巨头思爱普（SAP）正考虑在一轮以人工智能为核心的重组中，裁减至少 1 万个工作岗位。 该规模约相当于 SAP 全球员工总数的 9%，最终裁员人数尚未确定，后续或因公司与劳工代表的协商结果而有所调整。 IT之家查询公开资料，思爱普成立于 1972 年，总部位于德国沃尔多夫，是全球企业应用软件的重要供应商，是“欧洲市值最高的软件公司”。其核心产品帮助企业完成财务、供应链、采购、人力资源、销售和运营等流程的数字化管理。 知情人士称，SAP 管理层正推动软件业务向 AI 时代转型，要求各部门梳理可以精简的岗位",
+   "published_at": 1795733777.0,
+   "published_bj": "2026-11-27 06:56"
+  },
   {
    "id": "8d11f8c12092066d",
    "source": "IT之家",
@@ -11,6 +191,15 @@
    "summary": "IT之家 11 月 27 日消息，YouTube 博主 Jam Ancheta 于 11 月 25 日分享了一段视频， 展示了三星 Galaxy S27 Pro 和 Galaxy S27 Ultra 两款手机的机模，为三星新款旗舰手机带来更直观的参考。 从视频来看，黑色款 Galaxy S27 Pro 与白色款 Galaxy S27 Ultra 均采用了重新设计的后置摄像头模组。两款机型的摄像头布局基本一致，整体视觉风格与此前曝光的模型机图片相符。 模型机背面似乎出现了四个“摄像头”，但此前消息称实际产品很可能并非四摄，三星会砍掉 3x 长焦镜头和激光对焦模块。由于摄像头模组中未见 LED 闪",
    "published_at": 1795732982.0,
    "published_bj": "2026-11-27 06:43"
+  },
+  {
+   "id": "738fd503383c0dc2",
+   "source": "Hacker News",
+   "title": "Novita, StreamLake, etc. are ByteDance Ark wrappers",
+   "url": "https://kendell.dev/blog/arkwrapper/",
+   "summary": "Article URL: https://kendell.dev/blog/arkwrapper/ Comments URL: https://news.ycombinator.com/item?id=50660273 Points: 20 # Comments: 3",
+   "published_at": 1795730359.0,
+   "published_bj": "2026-11-27 05:59"
   },
   {
    "id": "f481c5ef52deae7e",
@@ -22,6 +211,15 @@
    "published_bj": "2026-11-27 05:47"
   },
   {
+   "id": "78ffea3fb1fc61ce",
+   "source": "Hacker News",
+   "title": "Denver man traps Waymo robotaxis with cones, eggs them at least 30 times",
+   "url": "https://electrek.co/2026/11/26/denver-man-cones-eggs-waymo-robotaxis/",
+   "summary": "Article URL: https://electrek.co/2026/11/26/denver-man-cones-eggs-waymo-robotaxis/ Comments URL: https://news.ycombinator.com/item?id=50659918 Points: 35 # Comments: 19",
+   "published_at": 1795727801.0,
+   "published_bj": "2026-11-27 05:16"
+  },
+  {
    "id": "3f0d356118a29b12",
    "source": "Hacker News",
    "title": "Kamil Khan Mumtaz: Pakistani architect, admired at home, almost invisible abroad",
@@ -29,6 +227,15 @@
    "summary": "Article URL: https://worksinprogress.co/issue/the-greatest-architect-youve-never-heard-of-is-in-pakistan/ Comments URL: https://news.ycombinator.com/item?id=50659841 Points: 133 # Comments: 20",
    "published_at": 1795727285.0,
    "published_bj": "2026-11-27 05:08"
+  },
+  {
+   "id": "a1cd17c82f487300",
+   "source": "Hacker News",
+   "title": "Company Culture = Slack Emoji ÷ √Headcount",
+   "url": "https://lia.mg/posts/measuring-company-culture-with-slack-emoji/",
+   "summary": "Article URL: https://lia.mg/posts/measuring-company-culture-with-slack-emoji/ Comments URL: https://news.ycombinator.com/item?id=50659640 Points: 70 # Comments: 12",
+   "published_at": 1795726189.0,
+   "published_bj": "2026-11-27 04:49"
   },
   {
    "id": "19f48cc2b8ba95fb",
@@ -119,6 +326,15 @@
    "summary": "Article URL: https://economictimes.indiatimes.com/nri/work/ibm-gives-h-1b-green-card-holders-3-weeks-to-relocate-from-us-or-leave-company-december-31-deadline-set/articleshow/136180168.cms?from=mdr Comments URL: https://news.ycombinator.com/item?id=50658170 Points: 79 # Comments: 49",
    "published_at": 1795718137.0,
    "published_bj": "2026-11-27 02:35"
+  },
+  {
+   "id": "9077143dbd29411e",
+   "source": "IT之家",
+   "title": "Steam 黑色星期五促销持续至 11 月 30 日，特惠页面同步改版",
+   "url": "https://www.ithome.com/1/033/135.htm",
+   "summary": "IT之家 11 月 27 日消息，Valve 官方宣布，为迎接黑色星期五购物季，Steam 对“折扣与活动”页面进行了改版升级。 虽然 Steam 平台本身并未举办官方的黑色星期五特卖活动，但开发者与发行商正自发地在即日起至 11 月 30 日期间为各类游戏推出折扣优惠，Steam 同步为该页面换上了黑五主题装饰。 此次更新不仅涉及页面外观，还调整了内容展示方式。用户打开页面后，可以看到系统根据个人兴趣提供的个性化游戏推荐，同时结合当前热门游戏以及人气正在上升的内容，展示相关游戏和类别。 Steam 确认，黑色星期五主题装饰将于 11 月 30 日（太平洋时间）撤下，但此次页面体验改进不会随之",
+   "published_at": 1795717851.0,
+   "published_bj": "2026-11-27 02:30"
   },
   {
    "id": "7489b2f851dcd223",

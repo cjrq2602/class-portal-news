@@ -1,7 +1,7 @@
 {
  "date": "2026-11-26",
- "generated_at": 1795734270.6254628,
- "count": 377,
+ "generated_at": 1795739159.378241,
+ "count": 378,
  "items": [
   {
    "id": "b29725dadf439216",
@@ -199,6 +199,15 @@
    "url": "https://www.ithome.com/1/033/123.htm",
    "summary": "IT之家 11 月 26 日消息，社交平台 X 北京时间今日正式宣布推出面向 13~17 岁青少年的家长控制功能。 该平台此前已对这类账号默认启用受保护模式 。 在 X 平台的家长控制模式下， 青少年本人依旧是账户的所有者 ，家长或监护人无法阅读私人消息、查看搜索或浏览记录、以青少年身份发帖或访问该账户。 不过，家长或监护人可了解青少年对 X 平台的使用情况并设置每日时长限制、要求新粉丝关注需获得批准、限制青少年已经关注的账号推荐和视频、控制私信发送方、过滤敏感词汇与内容、查看一对一聊天对象。 一名家长或监护人最多可以管理五个青少年账户，且每位青少年一次只能与一位家长或监护人关联。监督开始前，",
    "published_at": 1795704263.0,
+   "published_bj": "2026-11-26 22:44"
+  },
+  {
+   "id": "ceee8759e8f661da",
+   "source": "Hacker News",
+   "title": "Show HN: I wrote an entire Vim manual over 4 years",
+   "url": "http://themouseless.dev/vim/",
+   "summary": "I'm glad to announce that I'm releasing my new book, Learning to Play Vim. When I started using Vim more than a decade ago, I wished there was a manual out there teaching how to use this fantastic editor step by step, beginning with the foundations up to more advanced features. Of course at the time",
+   "published_at": 1795704262.0,
    "published_bj": "2026-11-26 22:44"
   },
   {

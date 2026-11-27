@@ -1,0 +1,382 @@
+{
+ "type": "yesterday",
+ "date": "2026-11-26",
+ "window": {
+  "start_ts": 1795622400.0,
+  "end_ts": 1795708800.0
+ },
+ "generated_at": 1795739160.7367098,
+ "generator": "action",
+ "news_count": 378,
+ "keywords": [
+  "ai",
+  "华为",
+  "推出",
+  "游戏",
+  "元",
+  "发布",
+  "数据",
+  "汽车",
+  "智能",
+  "功能"
+ ],
+ "points": [
+  {
+   "text": "【ai】Uber 推出安全 AI 框架：对 AI 智能体进行全生命周期治理",
+   "keyword": "ai",
+   "news_ids": [
+    "d2d266bb626554ce"
+   ],
+   "refs": [
+    {
+     "id": "d2d266bb626554ce",
+     "title": "Uber 推出安全 AI 框架：对 AI 智能体进行全生命周期治理",
+     "source": "InfoQ中文",
+     "url": "https://www.infoq.cn/article/xA3g2i0VtTZIOVePMedY?utm_source=rss&utm_medium=article",
+     "published_at": 1795701600.0
+    }
+   ]
+  },
+  {
+   "text": "【ai】据英国金融时报发布的消息，英伟达已经告知其 AI 服务器合作伙伴，停止向新加坡、马来西亚、泰国、印度尼西亚以及巴西的买家交付相关服务器",
+   "keyword": "ai",
+   "news_ids": [
+    "0df401d5bef6c093"
+   ],
+   "refs": [
+    {
+     "id": "0df401d5bef6c093",
+     "title": "英伟达暂停向新加坡/泰国/马来西亚/印尼/巴西交付AI服务器 需等待美国政府审批",
+     "source": "cnBeta",
+     "url": "https://www.cnbeta.com.tw/articles/tech/1588046.htm",
+     "published_at": 1795684076.0
+    }
+   ]
+  },
+  {
+   "text": "【ai】据《商业内幕》报道，路透社母公司汤森路透将于今年年底推出一款名为“汤森1.1”(Thomson 1.1)的新AI模型",
+   "keyword": "ai",
+   "news_ids": [
+    "a116ae79e718dff8"
+   ],
+   "refs": [
+    {
+     "id": "a116ae79e718dff8",
+     "title": "路透社母公司使用中国AI开发新模型 计算机操作功能出色",
+     "source": "cnBeta",
+     "url": "https://www.cnbeta.com.tw/articles/tech/1588080.htm",
+     "published_at": 1795696136.0
+    }
+   ]
+  },
+  {
+   "text": "【推出】IT之家 11 月 26 日消息，联想现已在官网上架 thinkplus USB4 全功能伸缩数据线， 售价 149 元 ",
+   "keyword": "推出",
+   "news_ids": [
+    "b414808a89c046e2"
+   ],
+   "refs": [
+    {
+     "id": "b414808a89c046e2",
+     "title": "149 元：联想推出 thinkplus USB4 全功能伸缩数据线",
+     "source": "IT之家",
+     "url": "https://www.ithome.com/1/032/912.htm",
+     "published_at": 1795680488.0
+    }
+   ]
+  },
+  {
+   "text": "【ai】前苹果空间智能首席科学家权龙再创业，成立 Envision AI 研发空间物理基础模型",
+   "keyword": "ai",
+   "news_ids": [
+    "693b3d2d3a311304"
+   ],
+   "refs": [
+    {
+     "id": "693b3d2d3a311304",
+     "title": "前苹果空间智能首席科学家权龙再创业，成立 Envision AI 研发空间物理基础模型",
+     "source": "InfoQ中文",
+     "url": "https://www.infoq.cn/article/3rQ4aRqts2zywSBmeJvb?utm_source=rss&utm_medium=article",
+     "published_at": 1795690808.0
+    }
+   ]
+  },
+  {
+   "text": "【华为】华为在芯片领域的雄心并未止步于LogicFolding设计",
+   "keyword": "华为",
+   "news_ids": [
+    "93e86e0f78809b68"
+   ],
+   "refs": [
+    {
+     "id": "93e86e0f78809b68",
+     "title": "华为发布新一代HBM设计 数据引脚密度翻倍 力图突破带宽瓶颈",
+     "source": "cnBeta",
+     "url": "https://www.cnbeta.com.tw/articles/tech/1588108.htm",
+     "published_at": 1795706061.0
+    }
+   ]
+  },
+  {
+   "text": "【发布】IT之家 11 月 26 日消息，根据 Counterpoint Research 最新发布的美国市场监测报告，2026 年第三季度（7 — 9",
+   "keyword": "发布",
+   "news_ids": [
+    "e25f86f820e03239"
+   ],
+   "refs": [
+    {
+     "id": "e25f86f820e03239",
+     "title": "Counterpoint：2026 年第三季度美国智能手机出货量同比下降 9%，苹果份额升至 57%",
+     "source": "IT之家",
+     "url": "https://www.ithome.com/1/033/093.htm",
+     "published_at": 1795699936.0
+    }
+   ]
+  },
+  {
+   "text": "今天的老年人相比上一代人认知衰退更慢记忆更好",
+   "keyword": "",
+   "news_ids": [
+    "b29725dadf439216"
+   ],
+   "refs": [
+    {
+     "id": "b29725dadf439216",
+     "title": "今天的老年人相比上一代人记忆力衰退放缓",
+     "source": "Solidot",
+     "url": "https://www.solidot.org/story?sid=86006",
+     "published_at": 1795708739.0
+    }
+   ]
+  },
+  {
+   "text": "根据发表在《柳叶刀》期刊上的一项研究，英国人性生活频率大幅下降，从 1990 年每月四次降至如今的每月两次；三分之一的 16–24 岁年轻人表示",
+   "keyword": "",
+   "news_ids": [
+    "e5c5c0d13b79389a"
+   ],
+   "refs": [
+    {
+     "id": "e5c5c0d13b79389a",
+     "title": "英国人性生活频率大幅下降",
+     "source": "Solidot",
+     "url": "https://www.solidot.org/story?sid=86005",
+     "published_at": 1795707700.0
+    }
+   ]
+  },
+  {
+   "text": "破发不算最疼，Claude Code核心班底被OpenAI疯狂收割才是：Anthropic的编程王座悬了？",
+   "keyword": "",
+   "news_ids": [
+    "e7c18c511e3b095f"
+   ],
+   "refs": [
+    {
+     "id": "e7c18c511e3b095f",
+     "title": "破发不算最疼，Claude Code核心班底被OpenAI疯狂收割才是：Anthropic的编程王座悬了？",
+     "source": "InfoQ中文",
+     "url": "https://www.infoq.cn/article/z9IwzAY8hP15oDa2VKi6?utm_source=rss&utm_medium=article",
+     "published_at": 1795707351.0
+    }
+   ]
+  },
+  {
+   "text": "2025 年 4 月 1 日去世的网络工程师 Dave Täht 获得了互联网协会颁发的 Jonathan B. Postel 服务奖",
+   "keyword": "",
+   "news_ids": [
+    "a248d0b0c5cc832e"
+   ],
+   "refs": [
+    {
+     "id": "a248d0b0c5cc832e",
+     "title": "已故网络工程师 Dave Täht 获得 Jonathan B. Postel 服务奖",
+     "source": "Solidot",
+     "url": "https://www.solidot.org/story?sid=86004",
+     "published_at": 1795706653.0
+    }
+   ]
+  },
+  {
+   "text": "科学家近日厘清了三场巨大撞击重塑月球的时间线，让人类离解开一个长期谜团更近一步：为什么月球朝向地球的一面，与背对地球的一面如此不同",
+   "keyword": "",
+   "news_ids": [
+    "efe946e72f72cdc3"
+   ],
+   "refs": [
+    {
+     "id": "efe946e72f72cdc3",
+     "title": "三亿年三次远古撞击的时间线被厘清 或揭开月球“两张脸”之谜",
+     "source": "cnBeta",
+     "url": "https://www.cnbeta.com.tw/articles/science/1588106.htm",
+     "published_at": 1795705704.0
+    }
+   ]
+  },
+  {
+   "text": "一名乘客在旧金山乘坐Waymo自动驾驶出租车时，在座位上发现一把上膛手枪，随后与客服沟通的经历引发争议",
+   "keyword": "",
+   "news_ids": [
+    "39b02fd6abe397bb"
+   ],
+   "refs": [
+    {
+     "id": "39b02fd6abe397bb",
+     "title": "Waymo乘客车内发现上膛手枪 客服回应被指暗示枪支属于乘客",
+     "source": "cnBeta",
+     "url": "https://www.cnbeta.com.tw/articles/tech/1588102.htm",
+     "published_at": 1795705612.0
+    }
+   ]
+  },
+  {
+   "text": "一项最新研究显示，人类未来或许能在月球上吃上自己种植的土豆",
+   "keyword": "",
+   "news_ids": [
+    "b1ea82dceefb12f3"
+   ],
+   "refs": [
+    {
+     "id": "b1ea82dceefb12f3",
+     "title": "科学家在模拟月壤中成功种植土豆 为月球长期驻留提供食物新思路",
+     "source": "cnBeta",
+     "url": "https://www.cnbeta.com.tw/articles/science/1588100.htm",
+     "published_at": 1795705382.0
+    }
+   ]
+  },
+  {
+   "text": "Article URL: https://michidk",
+   "keyword": "",
+   "news_ids": [
+    "805d68abb4720d07"
+   ],
+   "refs": [
+    {
+     "id": "805d68abb4720d07",
+     "title": "Show HN: Three Linux VMs in a browser tab, each running a different browser",
+     "source": "Hacker News",
+     "url": "https://michidk.github.io/sidebyside/",
+     "published_at": 1795705206.0
+    }
+   ]
+  }
+ ],
+ "article": {
+  "title": "2026-11-26 新闻总结",
+  "paragraphs": [
+   {
+    "kind": "lead",
+    "text": "过去 24 小时共收录 378 条新闻，来自 7 家媒体。把标题放在一起看，讨论主要集中在 AI、游戏、手机 这几个方向上，其余消息更像是零散补充。"
+   },
+   {
+    "kind": "section",
+    "heading": "AI",
+    "text": "先看「AI」。Uber 推出安全 AI 框架，另有 210 条消息指向同一话题。这类进展更像是把已有能力往工程化落地推了一步，真正的分水岭在于成本和可靠性能不能同时压下来。",
+    "news_ids": [
+     "d2d266bb626554ce"
+    ],
+    "refs": [
+     {
+      "id": "d2d266bb626554ce",
+      "title": "Uber 推出安全 AI 框架：对 AI 智能体进行全生命周期治理",
+      "source": "InfoQ中文",
+      "url": "https://www.infoq.cn/article/xA3g2i0VtTZIOVePMedY?utm_source=rss&utm_medium=article",
+      "published_at": 1795701600.0
+     }
+    ]
+   },
+   {
+    "kind": "section",
+    "heading": "交付",
+    "text": "与此同时「交付」。据英国金融时报发布的消息，英伟达已经告知其 AI 服务器合作伙伴，停止向新加坡、马来西亚、泰国，另有 30 条消息指向同一话题。从节奏上看，行业已经从「能不能做」转向「做得便不便宜」，这通常意味着竞争会更务实。",
+    "news_ids": [
+     "0df401d5bef6c093"
+    ],
+    "refs": [
+     {
+      "id": "0df401d5bef6c093",
+      "title": "英伟达暂停向新加坡/泰国/马来西亚/印尼/巴西交付AI服务器 需等待美国政府审批",
+      "source": "cnBeta",
+      "url": "https://www.cnbeta.com.tw/articles/tech/1588046.htm",
+      "published_at": 1795684076.0
+     }
+    ]
+   },
+   {
+    "kind": "section",
+    "heading": "功能",
+    "text": "另一个值得注意的方向是「功能」。据《商业内幕》报道，路透社母公司汤森路透将于今年年底推出一款名为“汤森1.1”(Thomson 1.1)的新AI模型…，另有 5 条消息指向同一话题。技术路线的胜负很少由一次发布会决定，接下来要看的是它能不能被更多团队低成本复用。",
+    "news_ids": [
+     "a116ae79e718dff8"
+    ],
+    "refs": [
+     {
+      "id": "a116ae79e718dff8",
+      "title": "路透社母公司使用中国AI开发新模型 计算机操作功能出色",
+      "source": "cnBeta",
+      "url": "https://www.cnbeta.com.tw/articles/tech/1588080.htm",
+      "published_at": 1795696136.0
+     }
+    ]
+   },
+   {
+    "kind": "section",
+    "heading": "推出",
+    "text": "相比之下「推出」。IT之家 11 月 26 日消息，联想现已在官网上架 thinkplus USB4 全功能伸缩数据线，另有 14 条消息指向同一话题。这类进展更像是把已有能力往工程化落地推了一步，真正的分水岭在于成本和可靠性能不能同时压下来。",
+    "news_ids": [
+     "b414808a89c046e2"
+    ],
+    "refs": [
+     {
+      "id": "b414808a89c046e2",
+      "title": "149 元：联想推出 thinkplus USB4 全功能伸缩数据线",
+      "source": "IT之家",
+      "url": "https://www.ithome.com/1/032/912.htm",
+      "published_at": 1795680488.0
+     }
+    ]
+   },
+   {
+    "kind": "glossary",
+    "items": [
+     {
+      "term": "AI",
+      "desc": "人工智能，让机器完成识别、生成、判断等原本需要人做的任务"
+     },
+     {
+      "term": "HBM",
+      "desc": "高带宽内存，把多层内存堆叠起来给 AI 芯片喂数据，缓解带宽瓶颈"
+     },
+     {
+      "term": "Agent",
+      "desc": "智能体，能自己拆解任务、调用工具并连续执行的 AI 程序"
+     },
+     {
+      "term": "GPU",
+      "desc": "图形处理器，因为擅长大规模并行计算，成了 AI 训练的主力硬件"
+     },
+     {
+      "term": "API",
+      "desc": "应用程序接口，让不同软件按约定好的方式互相调用"
+     },
+     {
+      "term": "LLM",
+      "desc": "大语言模型，主打文字理解与生成，是「大模型」的同义词"
+     }
+    ]
+   },
+   {
+    "kind": "outlook",
+    "text": "把这几条放在一起看，最值得跟踪的是 AI 和 游戏 两条线：一条决定技术能走多远，一条决定它多快能落到普通人的日常里。至于其他消息，可以先放进观察名单，等后续有更实的进展再判断。"
+   }
+  ],
+  "word_count": 616
+ },
+ "ai_enhanced": false,
+ "schema": 1,
+ "window_bj": {
+  "start": "2026-11-26 00:00",
+  "end": "2026-11-27 00:00"
+ }
+}
