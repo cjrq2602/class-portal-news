@@ -1,8 +1,35 @@
 {
  "date": "2026-11-28",
- "generated_at": 1795771768.743428,
- "count": 1,
+ "generated_at": 1795792611.0293076,
+ "count": 4,
  "items": [
+  {
+   "id": "d384227c1e73fdea",
+   "source": "InfoQ中文",
+   "title": "股价破发、用户抱怨、创始人套现，Anthropic CEO 深夜回应：我从没想过让 AI 统治人类",
+   "url": "https://www.infoq.cn/article/FDR8k5bNu9eWklHh9NmI?utm_source=rss&utm_medium=article",
+   "summary": "点击查看原文>",
+   "published_at": 1795809386.0,
+   "published_bj": "2026-11-28 03:56"
+  },
+  {
+   "id": "6a26a9c67b2e6aa1",
+   "source": "InfoQ中文",
+   "title": "“观测未来大会”前瞻 | AI 时代，可观测性将迎来怎样的进化？",
+   "url": "https://www.infoq.cn/article/deKZOTSuqBy0T3VYMpTE?utm_source=rss&utm_medium=article",
+   "summary": "点击查看原文>",
+   "published_at": 1795805598.0,
+   "published_bj": "2026-11-28 02:53"
+  },
+  {
+   "id": "58d1649fef0c9ee8",
+   "source": "InfoQ中文",
+   "title": "如何让Agent 记得住、查得准、改得对？",
+   "url": "https://www.infoq.cn/article/DUG6LEgK9Vi4sGy6QYTW?utm_source=rss&utm_medium=article",
+   "summary": "点击查看原文>",
+   "published_at": 1795800302.0,
+   "published_bj": "2026-11-28 01:25"
+  },
   {
    "id": "661146a5edbe067d",
    "source": "InfoQ中文",
