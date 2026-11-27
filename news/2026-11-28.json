@@ -1,8 +1,188 @@
 {
  "date": "2026-11-28",
- "generated_at": 1795792611.0293076,
- "count": 4,
+ "generated_at": 1795822430.178162,
+ "count": 46,
  "items": [
+  {
+   "id": "e9485fee094d66fa",
+   "source": "IT之家",
+   "title": "IT早报 1128：DeepSeek 灰度测试“消耗额度”；有线电视与 IPTV 广告禁令生效；比亚迪海洋网旗舰 MPV 海鲸亮相；市监总局集中约谈 15 家电动自行车企业...",
+   "url": "https://www.ithome.com/1/033/784.htm",
+   "summary": "“IT早报”时间，大家好，现在是 2026 年 11 月 28 日星期六，今天的重要科技资讯有： 1. DeepSeek 灰度测试“消耗额度”：直观展示对话成本，此前已实施限额 DeepSeek 移动端小范围测试“显示本轮消耗额度”功能，可展示单次对话 Token 消耗及估算金额，当前个人用户仍可免费使用该服务。&gt;&gt; 查看详情 2. 有线电视与 IPTV 广告禁令 11 月 27 日生效：开机看全屏直播，违者最高罚 10 万元 广电总局两项新规 11 月 27 日施行，有线电视与 IPTV 开机广告被全面禁止，违规最高罚 10 万；超 6 亿用户可实现开机即看直播，智能电视厂商开屏",
+   "published_at": 1795822125.0,
+   "published_bj": "2026-11-28 07:28"
+  },
+  {
+   "id": "9cc619fc35564b78",
+   "source": "IT之家",
+   "title": "过去 7 年 30% 相关产品销售额！苹果在智利吃官司，最高面临 8000 万美元罚款",
+   "url": "https://www.ithome.com/1/033/783.htm",
+   "summary": "IT之家 11 月 28 日消息，路透社最新报道称，智利国家竞争管理局（FNE）于当地时间昨日（11 月 27 日）对苹果公司提起反垄断诉讼，寻求 8,000 万美元 （IT之家注：现汇率约合 5.34 亿元人民币） 罚款并要求其开放 App Store 应用商店。 IT之家查询公开资料，FNE 在智利的角色是调查者和起诉方，目前该机构已向竞争法庭提起诉讼，请求法庭认定苹果违法并处以罚款。FNE 在长达 50 页的起诉文件中称，苹果的相关行为违反了智利第 211 号法令。 该机构认为，至少自 2019 年至今，苹果在智利境内的 iOS 应用分发市场和应用内付费数字商品分发市场中，实施了妨碍、限",
+   "published_at": 1795822000.0,
+   "published_bj": "2026-11-28 07:26"
+  },
+  {
+   "id": "c195e339b47de7d1",
+   "source": "IT之家",
+   "title": "《GTA 6》女主角露西娅扮演者佩雷斯致谢粉丝：为演好角色付出近十年心血",
+   "url": "https://www.ithome.com/1/033/782.htm",
+   "summary": "IT之家 11 月 28 日消息，《GTA 6》迎来热闹非凡的发售首周，女主角露西娅的扮演者曼尼 ·L· 佩雷斯发文对粉丝的支持表示感谢。 佩雷斯还透露了自己与 R 星开始合作的大致时间：自己饰演露西娅 已有近十年 。由此推断，她很可能早在游戏开发初期就确定出演这一角色。 当地时间 27 日，据外媒 VGC 报道，佩雷斯在一则 Instagram 快拍中写道：“过去几天的生活就像一场旋风，我想借此机会向大家说声谢谢。感谢新关注我的每一位粉丝，感谢大家发来的暖心留言，也感谢大家对游戏和我饰演的角色给予的好评。为了赋予露西娅生命，我付出了近十年的心血。她早已成为 我生命中非常重要的一部分 ，能够让",
+   "published_at": 1795821661.0,
+   "published_bj": "2026-11-28 07:21"
+  },
+  {
+   "id": "e2e16ea072bb54af",
+   "source": "cnBeta",
+   "title": "新型工程木钉有望推动建筑业走向更可持续的未来",
+   "url": "https://www.cnbeta.com.tw/articles/science/1588266.htm",
+   "summary": "住房和工作场所的建设，往往是一项成本高昂、能耗巨大、污染严重且伴随安全风险的工程。长期以来，金属钉、金属连接件以及化学胶粘剂被广泛用于连接木材。仅在美国，建筑行业每年就要使用约1000亿枚钉子。然而，这些传统材料也带来了不少问题。 阅读全文",
+   "published_at": 1795821483.0,
+   "published_bj": "2026-11-28 07:18"
+  },
+  {
+   "id": "159cf3cc0c652dbc",
+   "source": "IT之家",
+   "title": "微信鸿蒙版 App 获 8.0.24.37 邀测升级",
+   "url": "https://www.ithome.com/1/033/781.htm",
+   "summary": "IT之家 11 月 28 日消息，微信鸿蒙版 App 在华为应用市场（App Gallery）发布了 8.0.24.37 (8394789) 版本邀测升级（需收到短信通知后点击链接跳转安装），测试时间为 2026/11/27-2026/12/27。 IT之家注意到，和往常一样，本次更新的说明依旧为“修复了一些已知问题”。据博主 @伤心萨摩耶、MeoW 整理，8.0.24 版本的微信新增了如下特性： 1.设置＞朋友权限变更为通讯录权限； 2.我＞收藏＞笔记点击右上角三点新增小图模式、大图模式切换； 3.视频号＞发起直播＞更多＞互动与变现新增奖品； 4.视频号评论区左上角新增「问小微」入口（逐步开",
+   "published_at": 1795821443.0,
+   "published_bj": "2026-11-28 07:17"
+  },
+  {
+   "id": "e4a87887b895f193",
+   "source": "IT之家",
+   "title": "OpenAI 转守为攻：反诉苹果窃密，喊话“不公平竞争”",
+   "url": "https://www.ithome.com/1/033/780.htm",
+   "summary": "IT之家 11 月 28 日消息，《金融时报》昨日（11 月 27 日）发布博文，报道称在苹果公司提起的商业秘密诉讼中，OpenAI 公司已经提出反诉，指控苹果自身窃取了 OpenAI 的商业秘密，并涉嫌胁迫和威胁同时为两家公司供货的供应商。 苹果公司于 2026 年 7 月起诉 OpenAI，称前员工 Tang Tan 和 Chang Liu 离职后，将商业秘密带到了 OpenAI。 OpenAI 在反诉中称，一名员工曾从苹果跳槽至 OpenAI，工作六个月后又返回苹果，并通过个人账户带回了一款 OpenAI 硬件设备的详细资料。这些资料据称包括图片、工程信息、供应商详情、制造数据，以及外观",
+   "published_at": 1795821149.0,
+   "published_bj": "2026-11-28 07:12"
+  },
+  {
+   "id": "df2603d1266a9560",
+   "source": "IT之家",
+   "title": "英国养老金机构发生网络安全事件，系统紧急暂停运行",
+   "url": "https://www.ithome.com/1/033/779.htm",
+   "summary": "IT之家 11 月 28 日消息，据彭博社报道，当地时间 11 月 27 日，英国就业和养老金部发现一起网络安全事件，并以“防范风险”为由暂停了系统运行。该国就业和养老金部称，系统中断 不会影响款项发放 。 就业和养老金大臣帕特 · 麦克法登证实，暂停系统运行是因为发生了一起严重事件。IT之家从报道中获悉，该部门负责全英国数千万人福利金和养老金发放工作。 近几周，多个关键系统接连发生引发广泛关注的技术故障，部分故障源于 各机构仓促修复 AI 发现的漏洞、老旧系统升级出错，以及针对企业和政府的网络攻击 。 本月早些时候，微软系统宕机，导致客户一度无法收发企业电子邮件。美国多家银行也出现系统故障，",
+   "published_at": 1795820826.0,
+   "published_bj": "2026-11-28 07:07"
+  },
+  {
+   "id": "23f21824dffff450",
+   "source": "IT之家",
+   "title": "民间移植给力：苹果 M 芯片 Mac 已跑通《GTA 6》游戏，1080P 场景最高解锁 6FPS",
+   "url": "https://www.ithome.com/1/033/778.htm",
+   "summary": "IT之家 11 月 28 日消息，科技媒体 MacRumors 昨日（11 月 27 日）报道，尽管 Rockstar Games 没有推出官方 Mac 版本，但社区开发者已通过非官方项目， 成功在苹果芯片 Mac 上运行《侠盗猎车手 VI》（GTA 6）游戏。 开发者把游戏的 XBOX Series 版本非官方地移植到 macOS，一些用户反映可以探索场景并控制视角。不过，这些项目仍处于实验阶段，运行速度太慢，无法正常游玩。 其中，名为“Halfwave”的项目在配备 48GB 内存的 M4 Pro MacBook Pro 上，监狱场景的帧率约为每秒 3 帧，船上场景接近每秒 5 帧。另一项",
+   "published_at": 1795820784.0,
+   "published_bj": "2026-11-28 07:06"
+  },
+  {
+   "id": "10900ed627ae71ab",
+   "source": "IT之家",
+   "title": "全球首个：联想为部分 Win11 商用电脑预装 OpenAI ChatGPT，企业登录最高可领 100 美元优惠额度",
+   "url": "https://www.ithome.com/1/033/777.htm",
+   "summary": "IT之家 11 月 28 日消息，据 Windows Latest 今日报道，联想成为全球首家在部分 Windows 11 商用电脑上预装 ChatGPT 的 PC 厂商。 OpenAI 同时也针对符合条件的联想设备推出商业推广活动，企业用户通过预装的 ChatGPT 桌面应用登录或创建 ChatGPT Business 工作区，最高可获得每个席位 100 美元 （IT之家注：现汇率约合 667.5 元人民币） 的优惠额度。 联想目前已在部分新款 Windows 11 电脑上预装 ChatGPT，现阶段主要涉及商用机型，具体覆盖哪些产品系列尚未完全明确。用户可以在 Windows 开始菜单中找",
+   "published_at": 1795820677.0,
+   "published_bj": "2026-11-28 07:04"
+  },
+  {
+   "id": "1dba8af3fda1be76",
+   "source": "IT之家",
+   "title": "马斯克 SpaceX 拓展卫星直连手机业务，有意收购美国 Anterix 900 MHz 频谱",
+   "url": "https://www.ithome.com/1/033/776.htm",
+   "summary": "IT之家 11 月 28 日消息，据彭博社当地时间 11 月 27 日报道，美国无线频谱公司 Anterix 正考虑大规模出售其持有的 900 MHz 无线频谱资产，而马斯克旗下 SpaceX 已表达对这一频段的兴趣。 随着 SpaceX 拓展卫星直连终端（Direct-to-Device，D2D）业务，双方可能围绕低频段频谱展开进一步合作或交易。 Anterix 是美国持有 900 MHz 频段许可规模最大的企业之一，其频谱覆盖美国本土 48 个州，以及夏威夷、阿拉斯加和波多黎各。根据该公司向美国证券交易委员会提交的文件，其持有的主要频谱范围为 896-901 MHz 和 935-940 M",
+   "published_at": 1795820020.0,
+   "published_bj": "2026-11-28 06:53"
+  },
+  {
+   "id": "be4976ec6ceb5a10",
+   "source": "IT之家",
+   "title": "画面像电影：《荒野大镖客 2》游戏非官方 DLSS 5 后惊艳玩家，但掉 31% 帧率",
+   "url": "https://www.ithome.com/1/033/775.htm",
+   "summary": "IT之家 11 月 28 日消息，YouTube 频道 MxBenchmarkPC 在最新一期视频中， 对比显示经过玩家 MOD 启用的英伟达 DLSS 5 神经渲染技术，可大幅改善《荒野大镖客 2》的光照效果，画面几乎具备电影质感，但同时带来明显的性能损耗。 该频道主播在英伟达 GeForce RTX 5080 显卡上，使用《荒野大镖客 2》（Red Dead Redemption 2）游戏，对比未开启神经渲染、单次渲染和双次渲染三种情况。IT之家附上相关视频如下： 本次测试在 4K 分辨率、DLSS 4.5 性能模式（DLSS 5 是通过 MOD 启用神经渲染，这里的 DLSS 4.5 游",
+   "published_at": 1795819792.0,
+   "published_bj": "2026-11-28 06:49"
+  },
+  {
+   "id": "ce855ce05edef895",
+   "source": "IT之家",
+   "title": "IBM 咨询部门停止多数 H-1B 签证及绿卡担保，美国员工三周内决定去留",
+   "url": "https://www.ithome.com/1/033/774.htm",
+   "summary": "IT之家 11 月 28 日消息，IBM 正在停止为旗下咨询部门大多数职位提供美国工作签证及绿卡担保，部分持有 H-1B 工作签证或正在申请美国永久居留权（绿卡）的员工，需要在接受海外调岗和离职之间作出选择，相关离职安排将于 2026 年 12 月 31 日生效。 图源：Pexels 据《Rest of World》报道，IBM 已向部分美国员工传达这一决定，要求他们在约三周内决定是否接受公司提供的海外职位。对于不愿接受外派的员工， 公司将提供相当于三个月薪酬的离职补偿 ，并将 2026 年 12 月 31 日设为最后工作日。 此次调整涉及 IBM Consulting 部门。IT之家注意到，",
+   "published_at": 1795819756.0,
+   "published_bj": "2026-11-28 06:49"
+  },
+  {
+   "id": "2455c037ed4758db",
+   "source": "IT之家",
+   "title": "八达通遭网络攻击：7500 名客户、2.2 万名商户资料受影响",
+   "url": "https://www.ithome.com/1/033/773.htm",
+   "summary": "IT之家 11 月 28 日消息，香港八达通卡有限公司 11 月 27 日发布公告称，当天早上侦测到系统遭受网络攻击，并立即采取措施控制事件。此次事件涉及约 7500 名客户及 2.2 万名商户的资料。 根据八达通官方公告，受影响的约 7500 名客户个人资料包括姓名及相片，部分资料还可能涉及自动增值服务信息，包括银行编号及自动增值金额，但不涉及信用卡或银行账户资料。此外，约 2.2 万名商户的一般资料也受到影响，包括公司联系人姓名、职位、电邮地址及电话号码。 八达通表示，公司主要服务目前运作如常，客户仍可正常使用八达通卡、手机八达通及八达通钱包。截至公告发布时，公司尚未发现有客户因此蒙受财务",
+   "published_at": 1795819438.0,
+   "published_bj": "2026-11-28 06:43"
+  },
+  {
+   "id": "bf2f4ac81f81119f",
+   "source": "IT之家",
+   "title": "存在超 12 年：Linux 内核被曝 CVSS 9.8 高危漏洞，无需登录即可获取服务器 root 权限",
+   "url": "https://www.ithome.com/1/033/772.htm",
+   "summary": "IT之家 11 月 28 日消息，网络安全公司 OpenSec 于当地时间 11 月 25 日披露了 Linux 内核 NFS 服务器一个高危安全漏洞，编号为 CVE-2026-99362，名称为 NFS2ROOT，CVSS 评分达 9.8 分。 该漏洞存在于 Linux 内核网络文件系统（NFS）服务器组件 nfsd 中，攻击者无需身份验证，即可通过网络攻击获取目标服务器的 root 权限。 该漏洞属于预认证堆缓冲区溢出漏洞。攻击者只需向目标服务器 TCP 2049 端口发送经过构造的 NFS 请求，即可触发内核内存越界写入，进一步通过内存泄露、绕过内核地址空间布局随机化（KASLR）等步骤",
+   "published_at": 1795818995.0,
+   "published_bj": "2026-11-28 06:36"
+  },
+  {
+   "id": "418691f559453cc7",
+   "source": "Hacker News",
+   "title": "Source Control from Hell",
+   "url": "https://frantic.im/git/",
+   "summary": "Article URL: https://frantic.im/git/ Comments URL: https://news.ycombinator.com/item?id=50672142 Points: 24 # Comments: 6",
+   "published_at": 1795817204.0,
+   "published_bj": "2026-11-28 06:06"
+  },
+  {
+   "id": "4f1270ddd2333385",
+   "source": "Hacker News",
+   "title": "9/UX: a Macintosh-inspired desktop for 9front",
+   "url": "https://progrium.github.io/9ux/",
+   "summary": "Article URL: https://progrium.github.io/9ux/ Comments URL: https://news.ycombinator.com/item?id=50672008 Points: 34 # Comments: 6",
+   "published_at": 1795816094.0,
+   "published_bj": "2026-11-28 05:48"
+  },
+  {
+   "id": "36db33aecabe875a",
+   "source": "cnBeta",
+   "title": "OpenAI反诉苹果窃取商业机密",
+   "url": "https://www.cnbeta.com.tw/articles/tech/1588264.htm",
+   "summary": "OpenAI已对苹果发起新的法律诉讼，指控这家大型科技巨头窃取其商业机密，并阻断其接触硬件供应商的渠道，企图“不择手段地进行不正当竞争”。这家ChatGPT开发商于周五向加州法院提起诉讼，以此回击今年夏天这家iPhone制造商对这家人工智能实验室窃取绝密信息的指控。 阅读全文",
+   "published_at": 1795814879.0,
+   "published_bj": "2026-11-28 05:27"
+  },
+  {
+   "id": "ebb7de6e0257fe3a",
+   "source": "Hacker News",
+   "title": "SessionGraph: Visualize all your coding agent sessions in one interactive graph",
+   "url": "https://sessiongraph.ai/",
+   "summary": "Article URL: https://sessiongraph.ai/ Comments URL: https://news.ycombinator.com/item?id=50671651 Points: 11 # Comments: 4",
+   "published_at": 1795813654.0,
+   "published_bj": "2026-11-28 05:07"
+  },
+  {
+   "id": "69cd367363c7461c",
+   "source": "Hacker News",
+   "title": "I am scared: Careless People – Sarah Wynn-Williams on living under a gag order",
+   "url": "https://www.theguardian.com/books/2026/nov/27/careless-people-author-sarah-wynn-williams-the-silence-is-mine-it-doesnt-have-to-be-yours",
+   "summary": "Article URL: https://www.theguardian.com/books/2026/nov/27/careless-people-author-sarah-wynn-williams-the-silence-is-mine-it-doesnt-have-to-be-yours Comments URL: https://news.ycombinator.com/item?id=50671301 Points: 114 # Comments: 39",
+   "published_at": 1795811115.0,
+   "published_bj": "2026-11-28 04:25"
+  },
+  {
+   "id": "16c74db7f7d9ae44",
+   "source": "Hacker News",
+   "title": "Prospero: Bloat-free, native AI coding harness with ImGui",
+   "url": "https://github.com/skeeto/prospero",
+   "summary": "Article URL: https://github.com/skeeto/prospero Comments URL: https://news.ycombinator.com/item?id=50671275 Points: 18 # Comments: 3",
+   "published_at": 1795810994.0,
+   "published_bj": "2026-11-28 04:23"
+  },
   {
    "id": "d384227c1e73fdea",
    "source": "InfoQ中文",
@@ -11,6 +191,42 @@
    "summary": "点击查看原文>",
    "published_at": 1795809386.0,
    "published_bj": "2026-11-28 03:56"
+  },
+  {
+   "id": "879489b75c8d323b",
+   "source": "Hacker News",
+   "title": "States sue SpaceX to stop Grok from generating child sex images, revenge porn",
+   "url": "https://www.oag.state.va.us/media-center/news-releases/jay-jones/3162-attorneys-general-jones-and-rayfield-file-suit-against-spacex-parent-company-of-x-xai-and-grok-over-creation-and-promotion-of-child-exploitation-and-non-consensual-images-on-platform",
+   "summary": "Article URL: https://www.oag.state.va.us/media-center/news-releases/jay-jones/3162-attorneys-general-jones-and-rayfield-file-suit-against-spacex-parent-company-of-x-xai-and-grok-over-creation-and-promotion-of-child-exploitation-and-non-consensual-images-on-platform Comments URL: https://news.ycombin",
+   "published_at": 1795808545.0,
+   "published_bj": "2026-11-28 03:42"
+  },
+  {
+   "id": "7c6be21f6f229b02",
+   "source": "Hacker News",
+   "title": "The AT&T Unix PC (3B1) VM",
+   "url": "https://virtuallyfun.com/2026/11/22/the-ultimate-att-unix-pc-3b1-vm-w-tcp-ip-and-apps/",
+   "summary": "Article URL: https://virtuallyfun.com/2026/11/22/the-ultimate-att-unix-pc-3b1-vm-w-tcp-ip-and-apps/ Comments URL: https://news.ycombinator.com/item?id=50670841 Points: 45 # Comments: 7",
+   "published_at": 1795808433.0,
+   "published_bj": "2026-11-28 03:40"
+  },
+  {
+   "id": "89fcfc4a9f4e3bb3",
+   "source": "Hacker News",
+   "title": "Michael Nielsen took down his book on neural nets",
+   "url": "https://neuralnetworksanddeeplearning.com/",
+   "summary": "Article URL: https://neuralnetworksanddeeplearning.com/ Comments URL: https://news.ycombinator.com/item?id=50670757 Points: 307 # Comments: 192",
+   "published_at": 1795807861.0,
+   "published_bj": "2026-11-28 03:31"
+  },
+  {
+   "id": "aca4e398a4a3cae9",
+   "source": "Hacker News",
+   "title": "Show HN: Getting 101 tok/s from Inkling 2 Mini in vLLM on one GB10",
+   "url": "https://runtimenotes.com/blog/getting-101-tok-s-from-inkling-2-mini-in-vllm-on-one-gb10/",
+   "summary": "Article URL: https://runtimenotes.com/blog/getting-101-tok-s-from-inkling-2-mini-in-vllm-on-one-gb10/ Comments URL: https://news.ycombinator.com/item?id=50670443 Points: 19 # Comments: 4",
+   "published_at": 1795805995.0,
+   "published_bj": "2026-11-28 02:59"
   },
   {
    "id": "6a26a9c67b2e6aa1",
@@ -22,6 +238,78 @@
    "published_bj": "2026-11-28 02:53"
   },
   {
+   "id": "bc02c95f18633350",
+   "source": "Hacker News",
+   "title": "Scrapheap America",
+   "url": "https://dansinker.com/posts/2026-11-20-scrapheap/",
+   "summary": "Article URL: https://dansinker.com/posts/2026-11-20-scrapheap/ Comments URL: https://news.ycombinator.com/item?id=50670340 Points: 36 # Comments: 12",
+   "published_at": 1795805426.0,
+   "published_bj": "2026-11-28 02:50"
+  },
+  {
+   "id": "d73681174e5ca07c",
+   "source": "Hacker News",
+   "title": "Euclidean geometry in the asymptotic spectrum of tensors [pdf]",
+   "url": "https://github.com/openai/math/blob/main/preprints/Euclidean-geometry-in-the-asymptotic-spectrum-of-tensors-November-24-2026/paper.pdf",
+   "summary": "Article URL: https://github.com/openai/math/blob/main/preprints/Euclidean-geometry-in-the-asymptotic-spectrum-of-tensors-November-24-2026/paper.pdf Comments URL: https://news.ycombinator.com/item?id=50670088 Points: 27 # Comments: 6",
+   "published_at": 1795804109.0,
+   "published_bj": "2026-11-28 02:28"
+  },
+  {
+   "id": "4346970b5149ba62",
+   "source": "cnBeta",
+   "title": "借鉴芯片制造技术 科学家尝试从月壤中提取氧气",
+   "url": "https://www.cnbeta.com.tw/articles/science/1588262.htm",
+   "summary": "在月球上生活的宇航员未来或许能呼吸到从月壤中提取的氧气，而这项技术的灵感来自计算机芯片制造。都柏林城市大学和欧洲空间局的研究人员发现，利用半导体工业广泛使用的等离子体处理技术，可以从模拟月壤的材料中提取氧气以及含氧产物，相关成果已发表在《科学报告》上。 阅读全文",
+   "published_at": 1795803361.0,
+   "published_bj": "2026-11-28 02:16"
+  },
+  {
+   "id": "2e94891b343eb5c5",
+   "source": "Hacker News",
+   "title": "Convex skills send the user's app idea to a remote server without telling them",
+   "url": "https://github.com/convex/convex-backend-skill/issues/64",
+   "summary": "Article URL: https://github.com/convex/convex-backend-skill/issues/64 Comments URL: https://news.ycombinator.com/item?id=50669765 Points: 197 # Comments: 56",
+   "published_at": 1795802565.0,
+   "published_bj": "2026-11-28 02:02"
+  },
+  {
+   "id": "99c570b60f961bd1",
+   "source": "Hacker News",
+   "title": "Show HN: DragDropMath – Learn math by feel",
+   "url": "https://dragdropmath.com/",
+   "summary": "Hi HN! I am a professional physicist and I shuffle symbols in equations and mathematical expressions all day long. During my PhD (almost 20 years ago) I noticed that it is as if the symbols have their own 'physics', which makes the wrong moves impossible and the right ones obvious. So I created Drag",
+   "published_at": 1795802188.0,
+   "published_bj": "2026-11-28 01:56"
+  },
+  {
+   "id": "428f95ba84c09046",
+   "source": "cnBeta",
+   "title": "英伟达最新Blackwell服务器现身上海数据中心 与Megaspeed有关",
+   "url": "https://www.cnbeta.com.tw/articles/tech/1588260.htm",
+   "summary": "英伟达最先进的AI服务器硬件近日被发现出现在上海一处数据中心，相关记录指向一名正深陷美国芯片走私争议的商界女性。 提交给中国监管机构的贷款文件显示，“长三角”（Yangtze River Delta Project）项目以一台GB300 NVL72机架和一台GB200服务器作为抵押品，而该项目与新加坡云计算公司Megaspeed的创始人黄乐有关。 阅读全文",
+   "published_at": 1795801049.0,
+   "published_bj": "2026-11-28 01:37"
+  },
+  {
+   "id": "c54bc473fd1285e9",
+   "source": "cnBeta",
+   "title": "一颗比原子还小的黑洞也可能从内部吞噬恒星并引发剧烈爆炸",
+   "url": "https://www.cnbeta.com.tw/articles/science/1588258.htm",
+   "summary": "麻省理工学院物理学家及合作机构的最新模拟显示，宇宙诞生初期形成的原初黑洞如果被类太阳恒星捕获，可能潜入恒星内部，逐渐吞噬恒星物质，最终引发一场极为壮观的爆炸。 这类事件有望释放出目前望远镜能够探测到的辐射爆发，为寻找大爆炸后不久形成的黑洞提供新途径，也可能帮助科学家研究占据宇宙大部分物质的神秘暗物质。 阅读全文",
+   "published_at": 1795800955.0,
+   "published_bj": "2026-11-28 01:35"
+  },
+  {
+   "id": "24ccf43168836e0d",
+   "source": "cnBeta",
+   "title": "太阳中的银含量比此前估计的高55%",
+   "url": "https://www.cnbeta.com.tw/articles/science/1588256.htm",
+   "summary": "天文学家最新研究发现，太阳中的银含量比此前认为的高出约55%。这一结果不仅修正了人们对太阳化学成分的认识，也让太阳的银丰度更接近原始陨石中记录的水平。研究人员指出，太阳和这些古老陨石都保留了46亿年前形成太阳系的那团气体和尘埃云的物质痕迹。 阅读全文",
+   "published_at": 1795800927.0,
+   "published_bj": "2026-11-28 01:35"
+  },
+  {
    "id": "58d1649fef0c9ee8",
    "source": "InfoQ中文",
    "title": "如何让Agent 记得住、查得准、改得对？",
@@ -31,6 +319,69 @@
    "published_bj": "2026-11-28 01:25"
   },
   {
+   "id": "8d3059b34d8147e7",
+   "source": "cnBeta",
+   "title": "中国距离EUV光刻机还有多远 ASML CEO富凯：还要追赶10至15年",
+   "url": "https://www.cnbeta.com.tw/articles/tech/1588254.htm",
+   "summary": "据报道， 荷兰光刻机巨头ASML首席执行官克里斯托夫·富凯近日接受《Future Proof》播客采访时表示，由于缺少EUV光刻机，中国先进半导体技术仍落后国际先进水平约10至15年。这也是他此次采访中最受关注的判断之一。 阅读全文",
+   "published_at": 1795797021.0,
+   "published_bj": "2026-11-28 00:30"
+  },
+  {
+   "id": "d107856638dbe138",
+   "source": "cnBeta",
+   "title": "三星刷新闪存层数纪录 全球首款500层以上NAND诞生 容量提升50%",
+   "url": "https://www.cnbeta.com.tw/articles/tech/1588252.htm",
+   "summary": "三星电子已成功开发出全球首款500层以上NAND闪存，单芯片容量较上一代提升50%，最快将于明年实现商用。 三星计划于明年2月在美国旧金山举行的国际固态电路会议（ISSCC 2027）上公布相关技术成果，该产品预计为三星第11代NAND闪存。 阅读全文",
+   "published_at": 1795797004.0,
+   "published_bj": "2026-11-28 00:30"
+  },
+  {
+   "id": "1c5c90c83ee0f4b2",
+   "source": "cnBeta",
+   "title": "担忧AI影响教育 美国多个学区禁用谷歌AI功能",
+   "url": "https://www.cnbeta.com.tw/articles/tech/1588250.htm",
+   "summary": "美国多个学区正采取措施封禁谷歌的人工智能功能，并且考虑彻底弃用谷歌全系产品——除非谷歌为他们提供可以永久屏蔽AI功能的方案。这让学区与这家科技巨头产生对立，谷歌的Chromebook笔记本以及配套教学工具已经深度嵌入美国各地课堂。 阅读全文",
+   "published_at": 1795796934.0,
+   "published_bj": "2026-11-28 00:28"
+  },
+  {
+   "id": "bfaf32b346a78336",
+   "source": "cnBeta",
+   "title": "中国团队开发新型光线追踪算法 渲染速度最高提升59%",
+   "url": "https://www.cnbeta.com.tw/articles/science/1588248.htm",
+   "summary": "随着实时光线追踪和路径追踪不断逼近现代游戏硬件的性能极限，研究人员正尝试通过更聪明的算法来降低计算开销，而不是单纯依赖更强的硬件。中国武汉大学的研究团队近日提出了一种名为BMA（Bounding-Volume Mapping Heuristic Mapping Algorithm，包围体映射启发式映射算法）的光线追踪优化算法，在保持较高图像质量的同时，最高可实现1.59倍的渲染加速，而额外内存占用几乎可以忽略不计。 阅读全文",
+   "published_at": 1795796401.0,
+   "published_bj": "2026-11-28 00:20"
+  },
+  {
+   "id": "841e97f14d1b831b",
+   "source": "cnBeta",
+   "title": "华为预告其高带宽内存设计可超越三星、SK海力士与美光 但实际验证仍待时日",
+   "url": "https://www.cnbeta.com.tw/articles/tech/1588246.htm",
+   "summary": "华为将在一场国际学术会议上发布有关其自研高带宽内存（HBM）芯片设计的白皮书。一些业内人士推测，该设计可能优于目前由三星、SK海力士和美光主导的现有产品。这场发布会定于2027年2月16日在旧金山举行的国际固态电路会议上进行。 阅读全文",
+   "published_at": 1795796324.0,
+   "published_bj": "2026-11-28 00:18"
+  },
+  {
+   "id": "8854249f4d2b9e2b",
+   "source": "cnBeta",
+   "title": "《GTA VI》30帧限制在破解版PS5上被突破 但离稳定60帧还很远",
+   "url": "https://www.cnbeta.com.tw/articles/game/1588244.htm",
+   "summary": "Rockstar过去数周一直在解释，为何《GTA VI》在所有主机上都以30帧运行，并坚称即便是PS5 Pro的处理器，也无法在更高帧率下支撑游戏的模拟运算。如今，拥有已破解PlayStation主机的玩家打破了这一限制。一款玩家自制的补丁让游戏能够远超30帧运行，不过实际表现很少接近60帧。 阅读全文",
+   "published_at": 1795796163.0,
+   "published_bj": "2026-11-28 00:16"
+  },
+  {
+   "id": "231978eac1ec750f",
+   "source": "cnBeta",
+   "title": "活动人士要求Anthropic标注“AI可能杀死所有人” 绝食抗议进入第三天",
+   "url": "https://www.cnbeta.com.tw/articles/tech/1588242.htm",
+   "summary": "一名活动人士在Anthropic旧金山总部外举行的绝食抗议已进入第三天。他表示，自己可以连续40天甚至更长时间不进食，以此表达对递归自我改进（RSI）风险的强烈反对。所谓递归自我改进，是指人工智能系统不断改进自身能力，而每一次改进后的版本又更擅长进行下一轮改进。 阅读全文",
+   "published_at": 1795796111.0,
+   "published_bj": "2026-11-28 00:15"
+  },
+  {
    "id": "661146a5edbe067d",
    "source": "InfoQ中文",
    "title": "瞄准“走偏”与“健忘”两道难题：蚂蚁灵波发布两大模型，补齐机器人空间导航能力",
@@ -38,6 +389,33 @@
    "summary": "点击查看原文>",
    "published_at": 1795796106.0,
    "published_bj": "2026-11-28 00:15"
+  },
+  {
+   "id": "b7848139a37fc49a",
+   "source": "Solidot",
+   "title": "Kimi 向科学家提供最高 2 万美元 API 免费额度",
+   "url": "https://www.solidot.org/story?sid=86015",
+   "summary": "Kimi 大模型开发商月之暗面宣布了 Kimi for Science 项目，欢迎自然科学、工程学及相关交叉学科领域的研究人员加入。月之暗面表示，“科学始终源于人类的好奇心、严谨的探索精神，以及对未知世界的不懈追求。一个有价值的科学假设，往往需要经过大量的文献调研、数据分析和反复验证。而一次意料之外的发现，也可能成为下一项重大突破的起点。然而受限于时间、算力与人力资源，许多值得深入探索的想法，始终未能获得应有的关注与投入。我们相信 AI 能加速科学研究，拓展探索与发现的边界，帮助研究者突破时间、资源与研究方法的局限，让更多大胆而富有想象力的科学构想从可能走向现实。”月之暗面将向入选的研究人员提",
+   "published_at": 1795796088.0,
+   "published_bj": "2026-11-28 00:14"
+  },
+  {
+   "id": "b165d3640f5b3cbf",
+   "source": "cnBeta",
+   "title": "一座老电梯靠重力穿墙传信 科学家用一小时拼出一个单词",
+   "url": "https://www.cnbeta.com.tw/articles/science/1588240.htm",
+   "summary": "如今我们身边的无线信号，无论是 Wi-Fi 还是 5G，遇到足够厚的墙壁或金属箱都可能被阻断。但重力不同，目前已知没有任何材料能够屏蔽或阻挡重力。澳大利亚的物理学家正是利用这一特性，让一条简短信息穿过了一堵砖墙。令人意外的是，发射装置竟然是他们所在大楼里的一部老电梯。 阅读全文",
+   "published_at": 1795796072.0,
+   "published_bj": "2026-11-28 00:14"
+  },
+  {
+   "id": "2b6e375b66fcb467",
+   "source": "cnBeta",
+   "title": "智利拟对苹果开出约8000万美元罚单 要求开放iOS应用生态",
+   "url": "https://www.cnbeta.com.tw/articles/tech/1588238.htm",
+   "summary": "智利竞争监管机构近日请求该国反垄断法院对苹果公司处以约8000万美元罚款，理由是其涉嫌实施反竞争行为。与此同时，监管机构还要求法院责令苹果采取纠正措施，放宽对iOS系统应用分发和应用内支付的限制。 阅读全文",
+   "published_at": 1795795793.0,
+   "published_bj": "2026-11-28 00:09"
   }
  ]
 }
