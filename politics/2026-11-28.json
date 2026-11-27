@@ -1,8 +1,17 @@
 {
  "date": "2026-11-28",
- "generated_at": 1795822431.5054257,
- "count": 7,
+ "generated_at": 1795823851.7672436,
+ "count": 8,
  "items": [
+  {
+   "id": "b7ce8be4b52e3eb8",
+   "source": "中新网即时",
+   "title": "11月28日新闻早报",
+   "url": "https://www.chinanews.com.cn/iframe/2026/11-28/10739099.shtml",
+   "summary": "",
+   "published_at": 1795822390.0,
+   "published_bj": "2026-11-28 07:33"
+  },
   {
    "id": "bf0f6a35bb22c44f",
    "source": "中新网即时",

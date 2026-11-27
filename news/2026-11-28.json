@@ -1,7 +1,7 @@
 {
  "date": "2026-11-28",
- "generated_at": 1795822430.178162,
- "count": 46,
+ "generated_at": 1795823849.9050155,
+ "count": 47,
  "items": [
   {
    "id": "e9485fee094d66fa",
@@ -83,6 +83,15 @@
    "summary": "IT之家 11 月 28 日消息，据 Windows Latest 今日报道，联想成为全球首家在部分 Windows 11 商用电脑上预装 ChatGPT 的 PC 厂商。 OpenAI 同时也针对符合条件的联想设备推出商业推广活动，企业用户通过预装的 ChatGPT 桌面应用登录或创建 ChatGPT Business 工作区，最高可获得每个席位 100 美元 （IT之家注：现汇率约合 667.5 元人民币） 的优惠额度。 联想目前已在部分新款 Windows 11 电脑上预装 ChatGPT，现阶段主要涉及商用机型，具体覆盖哪些产品系列尚未完全明确。用户可以在 Windows 开始菜单中找",
    "published_at": 1795820677.0,
    "published_bj": "2026-11-28 07:04"
+  },
+  {
+   "id": "f121e90b20a4b5f1",
+   "source": "Hacker News",
+   "title": "Tabernetes: A Kubernetes cluster whose nodes are browser tabs",
+   "url": "https://tabernet.es/",
+   "summary": "Article URL: https://tabernet.es/ Comments URL: https://news.ycombinator.com/item?id=50672521 Points: 6 # Comments: 0",
+   "published_at": 1795820430.0,
+   "published_bj": "2026-11-28 07:00"
   },
   {
    "id": "1dba8af3fda1be76",

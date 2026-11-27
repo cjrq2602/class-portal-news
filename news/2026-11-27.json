@@ -1,7 +1,7 @@
 {
  "date": "2026-11-27",
- "generated_at": 1795822430.1809382,
- "count": 322,
+ "generated_at": 1795823849.9078531,
+ "count": 323,
  "items": [
   {
    "id": "413ebb4c5215ad90",
@@ -479,6 +479,15 @@
    "summary": "近日，据多位用户在社交媒体上反馈，在更新DeepSeek移动端应用或使用网页版时，对话界面出现了一项此前未曾有过的变化：每轮问答结束后，系统会生成一张详情卡片，清晰列出本次交互所消耗的Token数量及对应金额估算。由于卡片上明确标注了具体资费，部分用户将其解读为DeepSeek即将启动收费的信号。 阅读全文",
    "published_at": 1795780980.0,
    "published_bj": "2026-11-27 20:03"
+  },
+  {
+   "id": "ab074ac1256f4964",
+   "source": "Hacker News",
+   "title": "Doing It the Hard Way",
+   "url": "https://terraformindustries.wordpress.com/2026/11/04/doing-it-the-hard-way/",
+   "summary": "Article URL: https://terraformindustries.wordpress.com/2026/11/04/doing-it-the-hard-way/ Comments URL: https://news.ycombinator.com/item?id=50665888 Points: 15 # Comments: 0",
+   "published_at": 1795780806.0,
+   "published_bj": "2026-11-27 20:00"
   },
   {
    "id": "47b50aff236f6c40",

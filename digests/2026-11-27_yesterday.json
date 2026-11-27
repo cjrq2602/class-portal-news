@@ -1,0 +1,382 @@
+{
+ "type": "yesterday",
+ "date": "2026-11-27",
+ "window": {
+  "start_ts": 1795708800.0,
+  "end_ts": 1795795200.0
+ },
+ "generated_at": 1795823851.9589496,
+ "generator": "action",
+ "news_count": 323,
+ "keywords": [
+  "ai",
+  "上市",
+  "万元",
+  "全球",
+  "汽车",
+  "元起",
+  "元",
+  "发布",
+  "中国",
+  "内存"
+ ],
+ "points": [
+  {
+   "text": "【ai】IT之家 11 月 27 日消息，全新深蓝 L07 AI 激光版车型今日在 2026 广州车展上市， 限时权益价 14.99 万元起 ",
+   "keyword": "ai",
+   "news_ids": [
+    "f5b427e90d3464d9"
+   ],
+   "refs": [
+    {
+     "id": "f5b427e90d3464d9",
+     "title": "全新深蓝 L07 AI 激光版车型上市：首批搭载华为星驰辅助驾驶，限时权益价 14.99 万元起",
+     "source": "IT之家",
+     "url": "https://www.ithome.com/1/033/319.htm",
+     "published_at": 1795752328.0
+    }
+   ]
+  },
+  {
+   "text": "【上市】IT之家 11 月 27 日消息，新一代林肯航海家在 2026 广州车展正式上市，共推出 5 款车型，官方售价区间为 31.59 万至 41.5",
+   "keyword": "上市",
+   "news_ids": [
+    "05d2af4c3931ef4f"
+   ],
+   "refs": [
+    {
+     "id": "05d2af4c3931ef4f",
+     "title": "新一代林肯航海家广州车展上市：燃油 / 混动可选，限时权益价 24.99 万元起",
+     "source": "IT之家",
+     "url": "https://www.ithome.com/1/033/521.htm",
+     "published_at": 1795765332.0
+    }
+   ]
+  },
+  {
+   "text": "【ai】Article URL: https://construct22",
+   "keyword": "ai",
+   "news_ids": [
+    "24178265ed0d5894"
+   ],
+   "refs": [
+    {
+     "id": "24178265ed0d5894",
+     "title": "The group chat where your AI talks behind your back",
+     "source": "Hacker News",
+     "url": "https://construct22.com/",
+     "published_at": 1795761874.0
+    }
+   ]
+  },
+  {
+   "text": "【ai】IT之家 11 月 27 日消息，华尔街日报于 11 月 25 日发布博文，报道称伴随着全球 AI 数据中心快速扩张，大幅挤占各类电子产品所需的",
+   "keyword": "ai",
+   "news_ids": [
+    "bb8f0f48ce9c835d"
+   ],
+   "refs": [
+    {
+     "id": "bb8f0f48ce9c835d",
+     "title": "史上最严重内存短缺：全球买家开启疯狂扫货，部分厂商连 5 颗芯片小批量也抢着买",
+     "source": "IT之家",
+     "url": "https://www.ithome.com/1/033/503.htm",
+     "published_at": 1795764344.0
+    }
+   ]
+  },
+  {
+   "text": "【上市】IT之家 11 月 27 日消息，2026 广州车展今日开幕，上汽大通 27 款大家 7 上市，权益价 16.98 万元起，定位“品质出行豪华 ",
+   "keyword": "上市",
+   "news_ids": [
+    "8e3dd1f81f905658"
+   ],
+   "refs": [
+    {
+     "id": "8e3dd1f81f905658",
+     "title": "上汽大通 2027 款大家 7 MPV 上市：CLTC 续航至高 570km，售价 16.98 万元起",
+     "source": "IT之家",
+     "url": "https://www.ithome.com/1/033/742.htm",
+     "published_at": 1795783020.0
+    }
+   ]
+  },
+  {
+   "text": "【全球】IT之家 11 月 27 日消息，长城汽车今日在广州车展发布 Hi-HEV 混动架构，官方称其为“全球首个量产大电量真智能 HEV 架构”，首搭",
+   "keyword": "全球",
+   "news_ids": [
+    "61a6d7ae51c994dc"
+   ],
+   "refs": [
+    {
+     "id": "61a6d7ae51c994dc",
+     "title": "长城发布全球首个量产大电量真智能 HEV 架构“Hi-HEV”：电池容量翻 2-3 倍，首搭魏牌高山 8",
+     "source": "IT之家",
+     "url": "https://www.ithome.com/1/033/623.htm",
+     "published_at": 1795772945.0
+    }
+   ]
+  },
+  {
+   "text": "【上市】IT之家 11 月 27 日消息，恒大汽车今日在港交所发布公告称，公司于 2026 年 11 月 27 日接获联交所函件，联交所上市委员会已决定",
+   "keyword": "上市",
+   "news_ids": [
+    "5b2f7f987014bb78"
+   ],
+   "refs": [
+    {
+     "id": "5b2f7f987014bb78",
+     "title": "恒大汽车：香港联交所上市委员会决定取消公司的上市地位，最快 12 月 14 日摘牌",
+     "source": "IT之家",
+     "url": "https://www.ithome.com/1/033/767.htm",
+     "published_at": 1795790290.0
+    }
+   ]
+  },
+  {
+   "text": "【汽车】IT之家 11 月 27 日消息，乘联分会秘书长崔东树今日发文，2026 年 10 月进口车进口 2.3 万辆，同比下降 48%，环比增长 8%",
+   "keyword": "汽车",
+   "news_ids": [
+    "5edf08693f8cce91"
+   ],
+   "refs": [
+    {
+     "id": "5edf08693f8cce91",
+     "title": "乘联分会崔东树：2026 年 10 月中国汽车进口 2.3 万辆，同比下降 48%",
+     "source": "IT之家",
+     "url": "https://www.ithome.com/1/033/626.htm",
+     "published_at": 1795773418.0
+    }
+   ]
+  },
+  {
+   "text": "【推出】IT之家 11 月 27 日消息，韩国运营商 KT 宣布基于三星 Galaxy A18 LTE 打造了一款“三丽鸥角色主题儿童手机”，相应产品将",
+   "keyword": "推出",
+   "news_ids": [
+    "e6d38b974ee6a43a"
+   ],
+   "refs": [
+    {
+     "id": "e6d38b974ee6a43a",
+     "title": "韩国运营商 KT 推出“三丽鸥角色主题儿童手机”：基于三星 Galaxy A18 LTE 打造，提供多款联名配件",
+     "source": "IT之家",
+     "url": "https://www.ithome.com/1/033/613.htm",
+     "published_at": 1795770789.0
+    }
+   ]
+  },
+  {
+   "text": "【元】IT之家 11 月 27 日消息，小米智能生态今日宣布，小米智能门锁 5 系列两款新品开启预售",
+   "keyword": "元",
+   "news_ids": [
+    "93651d514b92c2e7"
+   ],
+   "refs": [
+    {
+     "id": "93651d514b92c2e7",
+     "title": "小米智能门锁 5 单摄版 / 大屏猫眼版预售，到手价 1199 / 1399 元",
+     "source": "IT之家",
+     "url": "https://www.ithome.com/1/033/740.htm",
+     "published_at": 1795782351.0
+    }
+   ]
+  },
+  {
+   "text": "Article URL: https://www",
+   "keyword": "",
+   "news_ids": [
+    "cc727ee3164b2802"
+   ],
+   "refs": [
+    {
+     "id": "cc727ee3164b2802",
+     "title": "Credit card skimming scripts using WebRTC found on popular shopping sites",
+     "source": "Hacker News",
+     "url": "https://www.infohawk.com/news/2026-11-27-black-friday-webrtc-skimmer",
+     "published_at": 1795794031.0
+    }
+   ]
+  },
+  {
+   "text": "根据苏美尔神话，世界之初即无耕种也无畜牧和纺织，原神们生活窘迫，为此他们创造了谷之女神 Ashnan 和羊之神 Lahar，将他们派去帮助人类",
+   "keyword": "",
+   "news_ids": [
+    "24a5d820ab82835d"
+   ],
+   "refs": [
+    {
+     "id": "24a5d820ab82835d",
+     "title": "文明的历史是小麦的历史",
+     "source": "Solidot",
+     "url": "https://www.solidot.org/story?sid=86013",
+     "published_at": 1795793843.0
+    }
+   ]
+  },
+  {
+   "text": "Article URL: https://cr",
+   "keyword": "",
+   "news_ids": [
+    "89e053662c21634f"
+   ],
+   "refs": [
+    {
+     "id": "89e053662c21634f",
+     "title": "False computer-checked proofs",
+     "source": "Hacker News",
+     "url": "https://cr.yp.to/proofs/falseccp.html",
+     "published_at": 1795793169.0
+    }
+   ]
+  },
+  {
+   "text": "a ball will fall",
+   "keyword": "",
+   "news_ids": [
+    "2750432352b586ef"
+   ],
+   "refs": [
+    {
+     "id": "2750432352b586ef",
+     "title": "Show HN: bouncemarket – a live prediction market game for a bouncing ball",
+     "source": "Hacker News",
+     "url": "https://bouncemarket.minhanhday.com/",
+     "published_at": 1795791710.0
+    }
+   ]
+  },
+  {
+   "text": "IT之家 11 月 27 日消息，广汽集团旗下广汽能源在今日举行的 2026 广州车展上介绍了补能体系建设进展",
+   "keyword": "",
+   "news_ids": [
+    "e8f61e986d060377"
+   ],
+   "refs": [
+    {
+     "id": "e8f61e986d060377",
+     "title": "广汽能源：目前自营充电站达 2563 座，目标明年底旗下补能网络覆盖 300 个城市",
+     "source": "IT之家",
+     "url": "https://www.ithome.com/1/033/768.htm",
+     "published_at": 1795790445.0
+    }
+   ]
+  }
+ ],
+ "article": {
+  "title": "2026-11-27 新闻总结",
+  "paragraphs": [
+   {
+    "kind": "lead",
+    "text": "过去 24 小时共收录 323 条新闻，来自 7 家媒体。把标题放在一起看，讨论主要集中在 AI、上市、内存 这几个方向上，其余消息更像是零散补充。"
+   },
+   {
+    "kind": "section",
+    "heading": "AI",
+    "text": "先看「AI」。IT之家 11 月 27 日消息，全新深蓝 L07 AI 激光版车型今日在 2026 广州车展上市，另有 174 条消息指向同一话题。资本动作往往领先产品一年，值得盯的不是金额，而是钱最后花向了算力、场景还是补贴。",
+    "news_ids": [
+     "f5b427e90d3464d9"
+    ],
+    "refs": [
+     {
+      "id": "f5b427e90d3464d9",
+      "title": "全新深蓝 L07 AI 激光版车型上市：首批搭载华为星驰辅助驾驶，限时权益价 14.99 万元起",
+      "source": "IT之家",
+      "url": "https://www.ithome.com/1/033/319.htm",
+      "published_at": 1795752328.0
+     }
+    ]
+   },
+   {
+    "kind": "section",
+    "heading": "上市",
+    "text": "与此同时「上市」。IT之家 11 月 27 日消息，新一代林肯航海家在 2026 广州车展正式上市，共推出 5 款车型，官方售价区间为 31.59 万至 41.59 万元，另有 11 条消息指向同一话题。消费电子的看点不在参数堆叠，而在这些参数能不能变成日常可感知的体验差异。",
+    "news_ids": [
+     "05d2af4c3931ef4f"
+    ],
+    "refs": [
+     {
+      "id": "05d2af4c3931ef4f",
+      "title": "新一代林肯航海家广州车展上市：燃油 / 混动可选，限时权益价 24.99 万元起",
+      "source": "IT之家",
+      "url": "https://www.ithome.com/1/033/521.htm",
+      "published_at": 1795765332.0
+     }
+    ]
+   },
+   {
+    "kind": "section",
+    "heading": "招聘",
+    "text": "另一个值得注意的方向是「招聘」。IT之家 11 月 27 日消息，科技媒体 Windows Latest 今天（11 月 27 日）发布博文，另有 14 条消息指向同一话题。技术路线的胜负很少由一次发布会决定，接下来要看的是它能不能被更多团队低成本复用。",
+    "news_ids": [
+     "366a2e729f5d917c"
+    ],
+    "refs": [
+     {
+      "id": "366a2e729f5d917c",
+      "title": "纳德拉承认微软放缓应届生招聘，AI 时代年轻人的第一份工作更难拿",
+      "source": "IT之家",
+      "url": "https://www.ithome.com/1/033/309.htm",
+      "published_at": 1795751669.0
+     }
+    ]
+   },
+   {
+    "kind": "section",
+    "heading": "内存",
+    "text": "相比之下「内存」。IT之家 11 月 27 日消息，华尔街日报于 11 月 25 日发布博文，报道称伴随着全球 AI 数据中心快速扩张，大幅挤占各类电子产品所需的内存供应，另有 4 条消息指向同一话题。这类进展更像是把已有能力往工程化落地推了一步，真正的分水岭在于成本和可靠性能不能同时压下来。",
+    "news_ids": [
+     "bb8f0f48ce9c835d"
+    ],
+    "refs": [
+     {
+      "id": "bb8f0f48ce9c835d",
+      "title": "史上最严重内存短缺：全球买家开启疯狂扫货，部分厂商连 5 颗芯片小批量也抢着买",
+      "source": "IT之家",
+      "url": "https://www.ithome.com/1/033/503.htm",
+      "published_at": 1795764344.0
+     }
+    ]
+   },
+   {
+    "kind": "glossary",
+    "items": [
+     {
+      "term": "AI",
+      "desc": "人工智能，让机器完成识别、生成、判断等原本需要人做的任务"
+     },
+     {
+      "term": "HBM",
+      "desc": "高带宽内存，把多层内存堆叠起来给 AI 芯片喂数据，缓解带宽瓶颈"
+     },
+     {
+      "term": "GPU",
+      "desc": "图形处理器，因为擅长大规模并行计算，成了 AI 训练的主力硬件"
+     },
+     {
+      "term": "Robotaxi",
+      "desc": "无人驾驶出租车，车里没有司机，靠自动驾驶系统接单运营"
+     },
+     {
+      "term": "数据中心",
+      "desc": "集中放置服务器、供电与散热设施的大型机房"
+     },
+     {
+      "term": "云计算",
+      "desc": "把服务器、存储和软件放到远端按需租用，不用自己买机器"
+     }
+    ]
+   },
+   {
+    "kind": "outlook",
+    "text": "把这几条放在一起看，最值得跟踪的是 AI 和 上市 两条线：一条决定技术能走多远，一条决定它多快能落到普通人的日常里。至于其他消息，可以先放进观察名单，等后续有更实的进展再判断。"
+   }
+  ],
+  "word_count": 689
+ },
+ "ai_enhanced": false,
+ "schema": 1,
+ "window_bj": {
+  "start": "2026-11-27 00:00",
+  "end": "2026-11-28 00:00"
+ }
+}
