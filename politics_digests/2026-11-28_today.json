@@ -1,0 +1,250 @@
+{
+ "type": "today",
+ "date": "2026-11-28",
+ "window": {
+  "start_ts": 1795795200.0,
+  "end_ts": 1795827600.0
+ },
+ "generated_at": 1795855354.6603727,
+ "generator": "action",
+ "news_count": 12,
+ "keywords": [
+  "一查",
+  "上新",
+  "九合",
+  "京出",
+  "仪式",
+  "使用",
+  "便宜",
+  "便知",
+  "保上",
+  "全医"
+ ],
+ "points": [
+  {
+   "text": "【便知】近日 医保便民服务又升级了",
+   "keyword": "便知",
+   "news_ids": [
+    "bf0f6a35bb22c44f"
+   ],
+   "refs": [
+    {
+     "id": "bf0f6a35bb22c44f",
+     "title": "吃过啥药、谁家药便宜一查便知！最全医保上新功能使用手册来了",
+     "source": "中新网即时",
+     "url": "https://www.chinanews.com.cn/gn/2026/11-28/10739098.shtml",
+     "published_at": 1795820227.0
+    }
+   ]
+  },
+  {
+   "text": "【升旗】中新网11月28日电 据俄罗斯卫星通讯社及塔斯社报道，当地时间27日，俄罗斯总统普京在北德文斯克市出席新型核动力潜艇“彼尔姆”号入列升旗仪式",
+   "keyword": "升旗",
+   "news_ids": [
+    "d1b2ce247f3e04ab"
+   ],
+   "refs": [
+    {
+     "id": "d1b2ce247f3e04ab",
+     "title": "普京出席新型核潜艇升旗仪式：将继续发展完善海军力量",
+     "source": "中新网要闻",
+     "url": "https://www.chinanews.com.cn/gj/2026/11-28/10739105.shtml",
+     "published_at": 1795826708.0
+    }
+   ]
+  },
+  {
+   "text": "【九合】台灣1965萬選民將票選縣市長、地方議員、鄉鎮村里長等將近1.11萬名公職人員，同時公投決定日後能源政策",
+   "keyword": "九合",
+   "news_ids": [
+    "e9e1ef9d0b1c5025"
+   ],
+   "refs": [
+    {
+     "id": "e9e1ef9d0b1c5025",
+     "title": "台灣「九合一」選舉開始投票 核電政策公投同步舉行",
+     "source": "BBC中文",
+     "url": "https://www.bbc.com/zhongwen/live/c60evlqlpx32t/trad?at_medium=RSS&at_campaign=rss",
+     "published_at": 1795824000.0
+    }
+   ]
+  },
+  {
+   "text": "2025年冬，北京城南，永定河故道深处，三艘沉睡了近2000年的古船在城市建设的前沿破土而出",
+   "keyword": "",
+   "news_ids": [
+    "74ffd8cdcdd1a95a"
+   ],
+   "refs": [
+    {
+     "id": "74ffd8cdcdd1a95a",
+     "title": "北京永定河故道沉船发掘始末：当时发生了什么？",
+     "source": "中新网要闻",
+     "url": "https://www.chinanews.com.cn/sh/2026/11-28/10739110.shtml",
+     "published_at": 1795827201.0
+    }
+   ]
+  },
+  {
+   "text": "11月28日新闻早报",
+   "keyword": "",
+   "news_ids": [
+    "b7ce8be4b52e3eb8"
+   ],
+   "refs": [
+    {
+     "id": "b7ce8be4b52e3eb8",
+     "title": "11月28日新闻早报",
+     "source": "中新网即时",
+     "url": "https://www.chinanews.com.cn/iframe/2026/11-28/10739099.shtml",
+     "published_at": 1795822390.0
+    }
+   ]
+  },
+  {
+   "text": "科威特外交部27日召见伊朗驻科大使，就前一天导致两名意大利公民死亡的无人机袭击事件提出抗议",
+   "keyword": "",
+   "news_ids": [
+    "2f00a587ab4c5e4a"
+   ],
+   "refs": [
+    {
+     "id": "2f00a587ab4c5e4a",
+     "title": "科威特召见伊朗大使 抗议伊“持续袭击”",
+     "source": "中新网即时",
+     "url": "https://www.chinanews.com.cn/gj/2026/11-28/10739097.shtml",
+     "published_at": 1795819598.0
+    }
+   ]
+  },
+  {
+   "text": "当地时间11月27日，央视记者获悉，一名美国官员证实，美国空军的云计算平台遭黑客入侵，此次网络安全事件可能导致敏感军事信息泄露",
+   "keyword": "",
+   "news_ids": [
+    "9a509680ef7995f5"
+   ],
+   "refs": [
+    {
+     "id": "9a509680ef7995f5",
+     "title": "美官员称美国空军云计算平台遭黑客入侵",
+     "source": "中新网即时",
+     "url": "https://www.chinanews.com.cn/gj/2026/11-28/10739096.shtml",
+     "published_at": 1795819474.0
+    }
+   ]
+  },
+  {
+   "text": "中新社雅加达11月27日电 (记者 李志全)首只在印度尼西亚出生的大熊猫“里奥”27日迎来一周岁生日",
+   "keyword": "",
+   "news_ids": [
+    "51f832fda5f37f40"
+   ],
+   "refs": [
+    {
+     "id": "51f832fda5f37f40",
+     "title": "首只在印尼出生的大熊猫“里奥”迎来周岁",
+     "source": "中新网即时",
+     "url": "https://www.chinanews.com.cn/sh/2026/11-28/10739093.shtml",
+     "published_at": 1795819206.0
+    }
+   ]
+  }
+ ],
+ "article": {
+  "title": "2026-11-28 新闻总结",
+  "paragraphs": [
+   {
+    "kind": "lead",
+    "text": "今天共收录 12 条新闻，来自 3 家媒体。把标题放在一起看，讨论主要集中在 功能 这几个方向上，其余消息更像是零散补充。"
+   },
+   {
+    "kind": "section",
+    "heading": "功能",
+    "text": "先看「功能」。近日 医保便民服务又升级了…，另有 1 条消息指向同一话题。技术路线的胜负很少由一次发布会决定，接下来要看的是它能不能被更多团队低成本复用。",
+    "news_ids": [
+     "bf0f6a35bb22c44f"
+    ],
+    "refs": [
+     {
+      "id": "bf0f6a35bb22c44f",
+      "title": "吃过啥药、谁家药便宜一查便知！最全医保上新功能使用手册来了",
+      "source": "中新网即时",
+      "url": "https://www.chinanews.com.cn/gn/2026/11-28/10739098.shtml",
+      "published_at": 1795820227.0
+     }
+    ]
+   },
+   {
+    "kind": "section",
+    "heading": "投资",
+    "text": "与此同时「投资」。中新社金边11月27日电 (记者 杨强)2026年柬埔寨国际商务与投资论坛当地时间27日在金边举行，另有 2 条消息指向同一话题。融资和估值只能说明市场情绪，能不能兑现，还要看下一两个季度的收入和留存。",
+    "news_ids": [
+     "562adfd4f0170aee"
+    ],
+    "refs": [
+     {
+      "id": "562adfd4f0170aee",
+      "title": "多国商界人士和投资者汇聚金边探索柬埔寨合作发展机遇",
+      "source": "中新网即时",
+      "url": "https://www.chinanews.com.cn/gj/2026/11-28/10739095.shtml",
+      "published_at": 1795819306.0
+     }
+    ]
+   },
+   {
+    "kind": "section",
+    "heading": "政策",
+    "text": "另一个值得注意的方向是「政策」。台灣1965萬選民將票選縣市長、地方議員、鄉鎮村里長等將近1.11萬名公職人員，另有 1 条消息指向同一话题。监管的看点在于执行尺度：条款写得严不严是一回事，真正查不查是另一回事。",
+    "news_ids": [
+     "e9e1ef9d0b1c5025"
+    ],
+    "refs": [
+     {
+      "id": "e9e1ef9d0b1c5025",
+      "title": "台灣「九合一」選舉開始投票 核電政策公投同步舉行",
+      "source": "BBC中文",
+      "url": "https://www.bbc.com/zhongwen/live/c60evlqlpx32t/trad?at_medium=RSS&at_campaign=rss",
+      "published_at": 1795824000.0
+     }
+    ]
+   },
+   {
+    "kind": "section",
+    "heading": "北京永定河故道沉船发掘始末",
+    "text": "相比之下「北京永定河故道沉船发掘始末」。2025年冬，北京城南，永定河故道深处，三艘沉睡了近2000年的古船在城市建设的前沿破土而出…。对读者来说，值得留意的不是结论本身，而是它背后哪些前提正在被改变。",
+    "news_ids": [
+     "74ffd8cdcdd1a95a"
+    ],
+    "refs": [
+     {
+      "id": "74ffd8cdcdd1a95a",
+      "title": "北京永定河故道沉船发掘始末：当时发生了什么？",
+      "source": "中新网要闻",
+      "url": "https://www.chinanews.com.cn/sh/2026/11-28/10739110.shtml",
+      "published_at": 1795827201.0
+     }
+    ]
+   },
+   {
+    "kind": "glossary",
+    "items": [
+     {
+      "term": "云计算",
+      "desc": "把服务器、存储和软件放到远端按需租用，不用自己买机器"
+     }
+    ]
+   },
+   {
+    "kind": "outlook",
+    "text": "整体看，这个时段的新闻还处在「消息多、结论少」的阶段，与其急着下判断，不如盯住接下来一两周有没有可验证的后续动作。"
+   }
+  ],
+  "word_count": 512
+ },
+ "ai_enhanced": false,
+ "schema": 1,
+ "window_bj": {
+  "start": "2026-11-28 00:00",
+  "end": "2026-11-28 09:00"
+ }
+}

@@ -1,7 +1,7 @@
 {
  "date": "2026-11-27",
- "generated_at": 1795841805.0413573,
- "count": 324,
+ "generated_at": 1795855352.9928675,
+ "count": 327,
  "items": [
   {
    "id": "413ebb4c5215ad90",
@@ -227,6 +227,15 @@
    "summary": "IT之家 11 月 27 日消息，闪极现已在天猫上架闪盘 PRO 2 主动散热固态硬盘盒，该产品集硬盘盒与 6 合 1 拓展坞功能于一体，分 Lite 与 Ultra 两个版本，区别主要在于主控及 I/O 规格，前者定价为 399 元，后者定价为 499 元。 外观方面，系列硬盘盒采用半透明设计，整体尺寸为 92.6×59.2×13.5mm（不含线材），机身支持磁吸贴合，内置 2504 涡轮风扇与三档开关，同时匹配可拆卸 240W/10Gbps USB-C 挂绳线。 系列硬盘盒采用单螺丝快拆结构，约 30s 可换盘，兼容 2230、2242、2280 规格 M.2 NVMe 固态硬盘，最高支持",
    "published_at": 1795786507.0,
    "published_bj": "2026-11-27 21:35"
+  },
+  {
+   "id": "2d86b065606e90b5",
+   "source": "Hacker News",
+   "title": "Paolo Soleri built a utopian eco-city in the Arizona desert",
+   "url": "https://www.worldofinteriors.com/story/paolo-soleri-arconsati-arizona",
+   "summary": "Article URL: https://www.worldofinteriors.com/story/paolo-soleri-arconsati-arizona Comments URL: https://news.ycombinator.com/item?id=50666724 Points: 44 # Comments: 6",
+   "published_at": 1795786220.0,
+   "published_bj": "2026-11-27 21:30"
   },
   {
    "id": "07d3b85b52b39c75",
@@ -2873,6 +2882,24 @@
    "summary": "Article URL: https://github.com/antonpictures/youtube-punisher Comments URL: https://news.ycombinator.com/item?id=50657530 Points: 193 # Comments: 274",
    "published_at": 1795714607.0,
    "published_bj": "2026-11-27 01:36"
+  },
+  {
+   "id": "0557a21a341bf805",
+   "source": "Hacker News",
+   "title": "First images of the impact of DART asteroid deflection experiment",
+   "url": "https://arstechnica.com/space/2026/11/europes-hera-mission-returns-to-the-chaotic-scene-of-a-cosmic-smashup/",
+   "summary": "Article URL: https://arstechnica.com/space/2026/11/europes-hera-mission-returns-to-the-chaotic-scene-of-a-cosmic-smashup/ Comments URL: https://news.ycombinator.com/item?id=50657392 Points: 211 # Comments: 63",
+   "published_at": 1795713877.0,
+   "published_bj": "2026-11-27 01:24"
+  },
+  {
+   "id": "ee82c0022a912522",
+   "source": "Hacker News",
+   "title": "The Balatro Timeline",
+   "url": "https://localthunk.com/blog/balatro-timeline-3aarh",
+   "summary": "Article URL: https://localthunk.com/blog/balatro-timeline-3aarh Comments URL: https://news.ycombinator.com/item?id=50657346 Points: 309 # Comments: 67",
+   "published_at": 1795713627.0,
+   "published_bj": "2026-11-27 01:20"
   },
   {
    "id": "75f403304769d608",

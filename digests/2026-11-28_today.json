@@ -1,0 +1,382 @@
+{
+ "type": "today",
+ "date": "2026-11-28",
+ "window": {
+  "start_ts": 1795795200.0,
+  "end_ts": 1795827600.0
+ },
+ "generated_at": 1795855354.5515106,
+ "generator": "action",
+ "news_count": 59,
+ "keywords": [
+  "ai",
+  "苹果",
+  "最高",
+  "gta",
+  "美元",
+  "openai",
+  "from",
+  "the",
+  "in",
+  "on"
+ ],
+ "points": [
+  {
+   "text": "【ai】IT之家 11 月 28 日消息，技术博主 @itspdfu 于 11 月 26 日在 X 平台发布长推文， 通过挖掘 iOS 27.3 Bet",
+   "keyword": "ai",
+   "news_ids": [
+    "439a0ae81788d084"
+   ],
+   "refs": [
+    {
+     "id": "439a0ae81788d084",
+     "title": "iOS 27.3 前瞻苹果 AI 限额：Siri AI 标准每日 20 次云端请求",
+     "source": "IT之家",
+     "url": "https://www.ithome.com/1/033/795.htm",
+     "published_at": 1795827037.0
+    }
+   ]
+  },
+  {
+   "text": "【最高】Kimi 大模型开发商月之暗面宣布了 Kimi for Science 项目，欢迎自然科学、工程学及相关交叉学科领域的研究人员加入",
+   "keyword": "最高",
+   "news_ids": [
+    "b7848139a37fc49a"
+   ],
+   "refs": [
+    {
+     "id": "b7848139a37fc49a",
+     "title": "Kimi 向科学家提供最高 2 万美元 API 免费额度",
+     "source": "Solidot",
+     "url": "https://www.solidot.org/story?sid=86015",
+     "published_at": 1795796088.0
+    }
+   ]
+  },
+  {
+   "text": "【ai】美国多个学区正采取措施封禁谷歌的人工智能功能，并且考虑彻底弃用谷歌全系产品——除非谷歌为他们提供可以永久屏蔽AI功能的方案",
+   "keyword": "ai",
+   "news_ids": [
+    "1c5c90c83ee0f4b2"
+   ],
+   "refs": [
+    {
+     "id": "1c5c90c83ee0f4b2",
+     "title": "担忧AI影响教育 美国多个学区禁用谷歌AI功能",
+     "source": "cnBeta",
+     "url": "https://www.cnbeta.com.tw/articles/tech/1588250.htm",
+     "published_at": 1795796934.0
+    }
+   ]
+  },
+  {
+   "text": "【最高】IT之家 11 月 28 日消息，据 Windows Latest 今日报道，联想成为全球首家在部分 Windows 11 商用电脑上预装 Ch",
+   "keyword": "最高",
+   "news_ids": [
+    "10900ed627ae71ab"
+   ],
+   "refs": [
+    {
+     "id": "10900ed627ae71ab",
+     "title": "全球首个：联想为部分 Win11 商用电脑预装 OpenAI ChatGPT，企业登录最高可领 100 美元优惠额度",
+     "source": "IT之家",
+     "url": "https://www.ithome.com/1/033/777.htm",
+     "published_at": 1795820677.0
+    }
+   ]
+  },
+  {
+   "text": "【苹果】IT之家 11 月 28 日消息，科技媒体 MacRumors 昨日（11 月 27 日）报道，尽管 Rockstar Games 没有推出官方",
+   "keyword": "苹果",
+   "news_ids": [
+    "23f21824dffff450"
+   ],
+   "refs": [
+    {
+     "id": "23f21824dffff450",
+     "title": "民间移植给力：苹果 M 芯片 Mac 已跑通《GTA 6》游戏，1080P 场景最高解锁 6FPS",
+     "source": "IT之家",
+     "url": "https://www.ithome.com/1/033/778.htm",
+     "published_at": 1795820784.0
+    }
+   ]
+  },
+  {
+   "text": "【苹果】IT之家 11 月 28 日消息，路透社最新报道称，智利国家竞争管理局（FNE）于当地时间昨日（11 月 27 日）对苹果公司提起反垄断诉讼，寻",
+   "keyword": "苹果",
+   "news_ids": [
+    "9cc619fc35564b78"
+   ],
+   "refs": [
+    {
+     "id": "9cc619fc35564b78",
+     "title": "过去 7 年 30% 相关产品销售额！苹果在智利吃官司，最高面临 8000 万美元罚款",
+     "source": "IT之家",
+     "url": "https://www.ithome.com/1/033/783.htm",
+     "published_at": 1795822000.0
+    }
+   ]
+  },
+  {
+   "text": "【全球】三星电子已成功开发出全球首款500层以上NAND闪存，单芯片容量较上一代提升50%，最快将于明年实现商用",
+   "keyword": "全球",
+   "news_ids": [
+    "d107856638dbe138"
+   ],
+   "refs": [
+    {
+     "id": "d107856638dbe138",
+     "title": "三星刷新闪存层数纪录 全球首款500层以上NAND诞生 容量提升50%",
+     "source": "cnBeta",
+     "url": "https://www.cnbeta.com.tw/articles/tech/1588252.htm",
+     "published_at": 1795797004.0
+    }
+   ]
+  },
+  {
+   "text": "【to】Article URL: https://www",
+   "keyword": "to",
+   "news_ids": [
+    "879489b75c8d323b"
+   ],
+   "refs": [
+    {
+     "id": "879489b75c8d323b",
+     "title": "States sue SpaceX to stop Grok from generating child sex images, revenge porn",
+     "source": "Hacker News",
+     "url": "https://www.oag.state.va.us/media-center/news-releases/jay-jones/3162-attorneys-general-jones-and-rayfield-file-suit-against-spacex-parent-company-of-x-xai-and-grok-over-creation-and-promotion-of-child-exploitation-and-non-consensual-images-on-platform",
+     "published_at": 1795808545.0
+    }
+   ]
+  },
+  {
+   "text": "【on】Article URL: https://runtimenotes",
+   "keyword": "on",
+   "news_ids": [
+    "aca4e398a4a3cae9"
+   ],
+   "refs": [
+    {
+     "id": "aca4e398a4a3cae9",
+     "title": "Show HN: Getting 101 tok/s from Inkling 2 Mini in vLLM on one GB10",
+     "source": "Hacker News",
+     "url": "https://runtimenotes.com/blog/getting-101-tok-s-from-inkling-2-mini-in-vllm-on-one-gb10/",
+     "published_at": 1795805995.0
+    }
+   ]
+  },
+  {
+   "text": "【openai】Article URL: https://github",
+   "keyword": "openai",
+   "news_ids": [
+    "d73681174e5ca07c"
+   ],
+   "refs": [
+    {
+     "id": "d73681174e5ca07c",
+     "title": "Euclidean geometry in the asymptotic spectrum of tensors [pdf]",
+     "source": "Hacker News",
+     "url": "https://github.com/openai/math/blob/main/preprints/Euclidean-geometry-in-the-asymptotic-spectrum-of-tensors-November-24-2026/paper.pdf",
+     "published_at": 1795804109.0
+    }
+   ]
+  },
+  {
+   "text": "【on】Article URL: https://www",
+   "keyword": "on",
+   "news_ids": [
+    "69cd367363c7461c"
+   ],
+   "refs": [
+    {
+     "id": "69cd367363c7461c",
+     "title": "I am scared: Careless People – Sarah Wynn-Williams on living under a gag order",
+     "source": "Hacker News",
+     "url": "https://www.theguardian.com/books/2026/nov/27/careless-people-author-sarah-wynn-williams-the-silence-is-mine-it-doesnt-have-to-be-yours",
+     "published_at": 1795811115.0
+    }
+   ]
+  },
+  {
+   "text": "IT之家 11 月 28 日消息，《空洞骑士：丝之歌》（Hollow Knight：Silksong）全新 DLC“悲恸之海”（Sea of S",
+   "keyword": "",
+   "news_ids": [
+    "3459470465d42f5c"
+   ],
+   "refs": [
+    {
+     "id": "3459470465d42f5c",
+     "title": "空洞骑士：丝之歌》首个大型扩展「悲恸之海」12 月 11 日免费发布",
+     "source": "IT之家",
+     "url": "https://www.ithome.com/1/033/792.htm",
+     "published_at": 1795825518.0
+    }
+   ]
+  },
+  {
+   "text": "IT之家 11 月 28 日消息，科技媒体 Linuxiac 今天（11 月 28 日）报道，免费、开源、跨平台的 3D 引擎 Open 3D ",
+   "keyword": "",
+   "news_ids": [
+    "c555318392eed926"
+   ],
+   "refs": [
+    {
+     "id": "c555318392eed926",
+     "title": "开源 3D 引擎 O3DE 升级 26.10：编辑器换上 Qt 6 新界面，启动器首次原生支持 Wayland",
+     "source": "IT之家",
+     "url": "https://www.ithome.com/1/033/789.htm",
+     "published_at": 1795824464.0
+    }
+   ]
+  },
+  {
+   "text": "IT之家 11 月 28 日消息，科技媒体 phoronix 报道称，AMD 工程师于 11 月 26 日向 DRM-Next 提交了新一轮内核",
+   "keyword": "",
+   "news_ids": [
+    "18daa71d52e6f17a"
+   ],
+   "refs": [
+    {
+     "id": "18daa71d52e6f17a",
+     "title": "Linux 7.5 将合并支持 AMD RDNA5，新显卡驱动提前就位",
+     "source": "IT之家",
+     "url": "https://www.ithome.com/1/033/787.htm",
+     "published_at": 1795823598.0
+    }
+   ]
+  },
+  {
+   "text": "IT之家 11 月 28 日消息，科技媒体 Wccftech 昨日（11 月 27 日）发布博文，报道称 在海关舱单记录后 ，英特尔 Rapto",
+   "keyword": "",
+   "news_ids": [
+    "5e7445210a172ff9"
+   ],
+   "refs": [
+    {
+     "id": "5e7445210a172ff9",
+     "title": "LGA 1700 老平台将迎新处理器，英特尔 Raptor Lake-S NEXT 已坐实",
+     "source": "IT之家",
+     "url": "https://www.ithome.com/1/033/786.htm",
+     "published_at": 1795822797.0
+    }
+   ]
+  }
+ ],
+ "article": {
+  "title": "2026-11-28 新闻总结",
+  "paragraphs": [
+   {
+    "kind": "lead",
+    "text": "今天共收录 59 条新闻，来自 6 家媒体。把标题放在一起看，讨论主要集中在 AI、企业、全球 这几个方向上，其余消息更像是零散补充。"
+   },
+   {
+    "kind": "section",
+    "heading": "AI",
+    "text": "先看「AI」。IT之家 11 月 28 日消息，技术博主 @itspdfu 于 11 月 26 日在 X 平台发布长推文， 通过挖掘 iOS 27.3 Beta 2 开发者预览版，另有 8 条消息指向同一话题。这类进展更像是把已有能力往工程化落地推了一步，真正的分水岭在于成本和可靠性能不能同时压下来。",
+    "news_ids": [
+     "439a0ae81788d084"
+    ],
+    "refs": [
+     {
+      "id": "439a0ae81788d084",
+      "title": "iOS 27.3 前瞻苹果 AI 限额：Siri AI 标准每日 20 次云端请求",
+      "source": "IT之家",
+      "url": "https://www.ithome.com/1/033/795.htm",
+      "published_at": 1795827037.0
+     }
+    ]
+   },
+   {
+    "kind": "section",
+    "heading": "API",
+    "text": "与此同时「API」。Kimi 大模型开发商月之暗面宣布了 Kimi for Science 项目，欢迎自然科学，另有 4 条消息指向同一话题。从节奏上看，行业已经从「能不能做」转向「做得便不便宜」，这通常意味着竞争会更务实。",
+    "news_ids": [
+     "b7848139a37fc49a"
+    ],
+    "refs": [
+     {
+      "id": "b7848139a37fc49a",
+      "title": "Kimi 向科学家提供最高 2 万美元 API 免费额度",
+      "source": "Solidot",
+      "url": "https://www.solidot.org/story?sid=86015",
+      "published_at": 1795796088.0
+     }
+    ]
+   },
+   {
+    "kind": "section",
+    "heading": "教育",
+    "text": "另一个值得注意的方向是「教育」。美国多个学区正采取措施封禁谷歌的人工智能功能，并且考虑彻底弃用谷歌全系产品——除非谷歌为他们提供可以永久屏蔽AI功能的方案…，另有 6 条消息指向同一话题。单看一条新闻容易高估影响，放到最近几周的脉络里，它更像是一个渐进变化中的节点。",
+    "news_ids": [
+     "1c5c90c83ee0f4b2"
+    ],
+    "refs": [
+     {
+      "id": "1c5c90c83ee0f4b2",
+      "title": "担忧AI影响教育 美国多个学区禁用谷歌AI功能",
+      "source": "cnBeta",
+      "url": "https://www.cnbeta.com.tw/articles/tech/1588250.htm",
+      "published_at": 1795796934.0
+     }
+    ]
+   },
+   {
+    "kind": "section",
+    "heading": "电脑",
+    "text": "相比之下「电脑」。IT之家 11 月 28 日消息，据 Windows Latest 今日报道，联想成为全球首家在部分 Windows 11 商用电脑上预装 ChatGPT 的 PC 厂商…，另有 2 条消息指向同一话题。这条消息短期内的实际影响可能有限，但它指向的方向值得放进观察名单。",
+    "news_ids": [
+     "10900ed627ae71ab"
+    ],
+    "refs": [
+     {
+      "id": "10900ed627ae71ab",
+      "title": "全球首个：联想为部分 Win11 商用电脑预装 OpenAI ChatGPT，企业登录最高可领 100 美元优惠额度",
+      "source": "IT之家",
+      "url": "https://www.ithome.com/1/033/777.htm",
+      "published_at": 1795820677.0
+     }
+    ]
+   },
+   {
+    "kind": "glossary",
+    "items": [
+     {
+      "term": "AI",
+      "desc": "人工智能，让机器完成识别、生成、判断等原本需要人做的任务"
+     },
+     {
+      "term": "Agent",
+      "desc": "智能体，能自己拆解任务、调用工具并连续执行的 AI 程序"
+     },
+     {
+      "term": "API",
+      "desc": "应用程序接口，让不同软件按约定好的方式互相调用"
+     },
+     {
+      "term": "数据中心",
+      "desc": "集中放置服务器、供电与散热设施的大型机房"
+     },
+     {
+      "term": "光刻机",
+      "desc": "把电路图案刻到硅片上的核心设备，制程越先进要求越高"
+     },
+     {
+      "term": "大模型",
+      "desc": "参数量巨大的神经网络，靠海量文本训练出语言理解与生成能力"
+     }
+    ]
+   },
+   {
+    "kind": "outlook",
+    "text": "把这几条放在一起看，最值得跟踪的是 AI 和 企业 两条线：一条决定技术能走多远，一条决定它多快能落到普通人的日常里。至于其他消息，可以先放进观察名单，等后续有更实的进展再判断。"
+   }
+  ],
+  "word_count": 696
+ },
+ "ai_enhanced": false,
+ "schema": 1,
+ "window_bj": {
+  "start": "2026-11-28 00:00",
+  "end": "2026-11-28 09:00"
+ }
+}
