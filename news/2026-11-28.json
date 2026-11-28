@@ -1,8 +1,431 @@
 {
  "date": "2026-11-28",
- "generated_at": 1795823849.9050155,
- "count": 47,
+ "generated_at": 1795841805.0390759,
+ "count": 95,
  "items": [
+  {
+   "id": "75b485f7dc57508d",
+   "source": "InfoQ中文",
+   "title": "技术没有按时改变世界，但有些事正在发生｜与 Werner 聊 2027 技术趋势的一小时",
+   "url": "https://www.infoq.cn/article/FBXHYmfe2kQm7gTAu4yK?utm_source=rss&utm_medium=article",
+   "summary": "点击查看原文>",
+   "published_at": 1795867663.0,
+   "published_bj": "2026-11-28 20:07"
+  },
+  {
+   "id": "0e6d629b950475c0",
+   "source": "InfoQ中文",
+   "title": "十年：谷歌更新 SRE 著作，拥抱 AI 时代",
+   "url": "https://www.infoq.cn/article/vD2gdB9ER7QgjD0W5wds?utm_source=rss&utm_medium=article",
+   "summary": "点击查看原文>",
+   "published_at": 1795863600.0,
+   "published_bj": "2026-11-28 19:00"
+  },
+  {
+   "id": "b8d01aa0e1868b80",
+   "source": "InfoQ中文",
+   "title": "华映资本董事总经理李岩已确认出席 AICon北京，分享AI 落地中值得持续积累的能力",
+   "url": "https://www.infoq.cn/article/SfAOlgtjHYikEQUKrRVT?utm_source=rss&utm_medium=article",
+   "summary": "点击查看原文>",
+   "published_at": 1795860000.0,
+   "published_bj": "2026-11-28 18:00"
+  },
+  {
+   "id": "2d96fa0760a5fc8c",
+   "source": "InfoQ中文",
+   "title": "Netflix将GPU可靠性视为分布式系统的问题",
+   "url": "https://www.infoq.cn/article/PdhfyXFhNVWNK5055l2H?utm_source=rss&utm_medium=article",
+   "summary": "点击查看原文>",
+   "published_at": 1795860000.0,
+   "published_bj": "2026-11-28 18:00"
+  },
+  {
+   "id": "8dab35c8f56c7b33",
+   "source": "InfoQ中文",
+   "title": "谷歌发布新一代 TPU，开发者：真正重要的不是芯片",
+   "url": "https://www.infoq.cn/article/MrxlyksI1KxvEKLuCg5P?utm_source=rss&utm_medium=article",
+   "summary": "点击查看原文>",
+   "published_at": 1795852800.0,
+   "published_bj": "2026-11-28 16:00"
+  },
+  {
+   "id": "432a5960fd2fcba6",
+   "source": "IT之家",
+   "title": "马斯克：Grok Bot 的目标是让你可以构建整个公司",
+   "url": "https://www.ithome.com/1/033/827.htm",
+   "summary": "IT之家 11 月 28 日消息，今天（28 日）凌晨，埃隆 · 马斯克在 X 平台发文称：就像现实中的企业一样，使用 Grok Bot 时，打造具备专属职能的 Bot 非常重要。你可以设置一个管理 Bot 来监督、协调其余 Bot 的工作。和人类员工同理，如果让单个 Bot 承担过多繁杂任务，它就会顾此失彼。 随后，马斯克补充说：Grok Bot 的目标， 是让你能够构建完整的公司 。 Grok Bot 于 2026 年 8 月 11 日以测试版形式上线，定位为可执行任务的 AI 智能体，而非单纯的聊天机器人。其功能包括交互式购物卡片、订阅模板，以及可长期保存项目上下文的工作空间，试图覆盖个",
+   "published_at": 1795839673.0,
+   "published_bj": "2026-11-28 12:21"
+  },
+  {
+   "id": "2d63e1c70ef7cf68",
+   "source": "Hacker News",
+   "title": "Claude silently added rules to ignore users skintone preferences in our app",
+   "url": "https://twitter.com/jakozloski/status/2126281598517576049",
+   "summary": "Article URL: https://twitter.com/jakozloski/status/2126281598517576049 Comments URL: https://news.ycombinator.com/item?id=50674489 Points: 20 # Comments: 0",
+   "published_at": 1795838115.0,
+   "published_bj": "2026-11-28 11:55"
+  },
+  {
+   "id": "25dc2ede581c69d8",
+   "source": "少数派",
+   "title": "「黑五」值得买：不容错过的数码硬件优惠",
+   "url": "https://sspai.com/post/119651",
+   "summary": "除了软件服务，这个黑五还有这些硬件值得一看。 查看全文",
+   "published_at": 1795836600.0,
+   "published_bj": "2026-11-28 11:30"
+  },
+  {
+   "id": "f7764961bbe71196",
+   "source": "IT之家",
+   "title": "“iPod 之父”法德尔：OpenAI 曾邀乔纳森 · 艾维打造实体 AI 设备，因为苹果永远不会提供数据",
+   "url": "https://www.ithome.com/1/033/824.htm",
+   "summary": "IT之家 11 月 28 日消息，当地时间 26 日，据《财富》杂志报道，托尼 · 法德尔透露，萨姆 · 奥尔特曼曾邀请苹果前设计主管乔纳森 · 艾夫为 OpenAI 打造一款实体设备，原因是 OpenAI 无法从运行其 AI 服务的 iPhone 中取得所需数据 。 法德尔曾与艾夫在苹果共事，因被誉为“iPod 之父”以及参与创造 iPhone 而广为人知。他创办了 Build Collective，此前还创立过 Nest Labs。 法德尔认为，OpenAI 之所以执意开发独立硬件，是因为它需要 获取现实物理世界的信息 ，而苹果出于隐私保护考虑，不愿向其开放 iPhone 中的这些数据。 ",
+   "published_at": 1795836142.0,
+   "published_bj": "2026-11-28 11:22"
+  },
+  {
+   "id": "44bbf999d3f2b6aa",
+   "source": "Hacker News",
+   "title": "Unkernel: Real Linux kernel, compiled to WebAssembly",
+   "url": "https://unkernel.dev",
+   "summary": "Article URL: https://unkernel.dev Comments URL: https://news.ycombinator.com/item?id=50674218 Points: 39 # Comments: 4",
+   "published_at": 1795835960.0,
+   "published_bj": "2026-11-28 11:19"
+  },
+  {
+   "id": "2a6ee53fe8bd3ff8",
+   "source": "IT之家",
+   "title": "Galaxy S27 系列手机专享，三星 One UI 9.5 Beta 曝光 36 项 AI 新功能",
+   "url": "https://www.ithome.com/1/033/822.htm",
+   "summary": "IT之家 11 月 28 日消息，科技媒体 Android Authority 昨日（11 月 27 日）发布博文， 通过挖掘 One UI 9.5 首个 Beta 测试版代码，发现了关联“20271”的 36 项 Galaxy AI 功能，预估将成为 Galaxy S27 系列手机独占 AI 功能。 根据三星内部代码细节，三星 Galaxy S26 Ultra 的 Galaxy AI 内部版本号为“20263”，暂不满足运行上述 AI 功能的要求，但不排除在 Galaxy S27 系列发布后，将这些功能下放到 S26 系列的可能。 IT之家援引博文介绍，附上文中相关主要功能介绍如下： 图库与",
+   "published_at": 1795835903.0,
+   "published_bj": "2026-11-28 11:18"
+  },
+  {
+   "id": "ea268c9abdff7d20",
+   "source": "IT之家",
+   "title": "影石 Ace Pro 3 被曝采用 1/1.1 英寸方形传感器、双 OLED 屏、2250mAh 电池，12 月 1 日发布",
+   "url": "https://www.ithome.com/1/033/821.htm",
+   "summary": "IT之家 11 月 28 日消息，影石 Insta360 的新一代旗舰运动相机 Ace Pro 3 已定档 12 月 1 日晚 8 点在中国发布，官方预热主题为“定局已破”。 在发布会前，官方预热视频重点展示了对焦控制、背景虚化、可变光圈以及镜头或光学组件更换等功能，暗示该系列产品可能在影像系统方面迎来较大调整。 爆料者 Igor Bogdanov 分享的宣传资料显示，影石 Ace Pro 3 可能配备徕卡 Summicron 主摄（等效焦距 22mm）+ 超广角镜头（等效焦距 14mm）。新机还可能采用 1/1.1 英寸方形传感器，尺寸较 Ace Pro 2 的 1/1.3 英寸传感器有所增",
+   "published_at": 1795835690.0,
+   "published_bj": "2026-11-28 11:14"
+  },
+  {
+   "id": "08105c0d2bdfe574",
+   "source": "IT之家",
+   "title": "三星 One UI 9.5 酝酿贴心功能：手机忘记充电，系统会提醒你",
+   "url": "https://www.ithome.com/1/033/820.htm",
+   "summary": "IT之家 11 月 28 日消息，科技媒体 Android Authority 昨日（11 月 27 日）报道，在 One UI 9.5 首个 Beta 测试版中，通过挖掘 13.9.00.12 版设备维护（Device Care）应用， 发现三星正酝酿“错过常用充电时间”提醒功能。 据报道，当手机电量降至 20% 至 30% 之间，且既未在充电、也未开启省电模式时，系统便会弹出充电提醒。提醒还可能结合用户默认日历中的安排，如锻炼、观影、会议或演出，提示届时电量或许不足；若日历中没有相关事件，则显示通用提醒。IT之家附上相关截图如下： 该功能需用户开启三星个性化建议选项，且设备需要升级到 On",
+   "published_at": 1795835058.0,
+   "published_bj": "2026-11-28 11:04"
+  },
+  {
+   "id": "a7af16fc98e2af7d",
+   "source": "IT之家",
+   "title": "迈从 Ace 68 GT 绯刃银版开售：全铝 16K 磁轴，到手价 881.18 元",
+   "url": "https://www.ithome.com/1/033/819.htm",
+   "summary": "IT之家 11 月 28 日消息，迈从 Ace 68 GT 绯刃银新色今日发售，首发价 669 元。 京东 迈从（MCHOSE）Ace 68 GT 绯刃银 粉泰山磁轴【新品开售】 键盘 16K/8K 有线 FPS 无畏契约打瓦双驱动 &nbsp;Ace 68 GT 券后 669 元 领 80 元券 这款键盘采用 68 配列紧凑布局，机身整体由全铝精工锻造，外壳提供阳极氧化与高分子喷涂两种工艺，配合机甲战舰美学设计与镂空机械风设计，银色机身搭配波尔多红撞色。 该产品定位赛事级全铝电竞磁轴键盘，同时也是《三角洲行动》烽火职业联赛指定键盘。 该键盘搭载迈从全自研天问方案，配备双核芯片，主频达 512",
+   "published_at": 1795835021.0,
+   "published_bj": "2026-11-28 11:03"
+  },
+  {
+   "id": "ddb37b16f9551256",
+   "source": "IT之家",
+   "title": "“GTA 6 终于来了”：微软 GitHub 力挺 PS5 转 PC 工具惹争议，官方火速删除推文",
+   "url": "https://www.ithome.com/1/033/818.htm",
+   "summary": "IT之家 11 月 28 日消息，科技媒体 Windows Latest 昨日（11 月 27 日）发布博文，报道称微软旗下代码托管平台 GitHub 陷入舆论漩涡 ，在应 Take-Two 要求关闭 3,007 个民间移植 PC 版《侠盗猎车手 VI》（GTA 6）仓库后 2 天，官方宣传开源工具 AnyPS5。 AnyPS5 是 GitHub 上的开源项目，目标是把 PS5 游戏的可执行文件重写成能在 Windows 和 Linux 上运行的程序。该项目于今年 8 月发布，IT之家发稿前访问已 Fork 超 6,100 个，Star 数量达到 6.28 万个。 根据项目动态，AnyPS5 ",
+   "published_at": 1795834575.0,
+   "published_bj": "2026-11-28 10:56"
+  },
+  {
+   "id": "6e0af2d27e892ad0",
+   "source": "IT之家",
+   "title": "歼-35A 飞抵珠海将首次以真机形式进馆展出，12 月 7 日航展开幕",
+   "url": "https://www.ithome.com/1/033/817.htm",
+   "summary": "IT之家 11 月 28 日消息，据央视报道，今天上午，歼-35A 飞抵珠海金湾机场，将在第十六届中国国际航空航天博览会上首次以真机形式进入 1 号馆，面向观众进行近距离静态展示。 此前两届航展中，该机仅以飞行表演形式亮相，未开放地面近距离参观。 第十六届中国航展定于 12 月 7 日至 13 日在珠海举办，恰逢中国航展创办 30 周年。本届航展空军采取“飞行展示 + 地面静态展示”相结合的方式，歼-35A 同时出现在飞行展示名单与静态展区中，形成“空中飞、地面看”的双重展示安排。 歼-35A 由航空工业集团自主研制，为单座、双发、翼身融合布局的中型隐身多用途战斗机，配备双后掠外倾垂尾与全动平",
+   "published_at": 1795834313.0,
+   "published_bj": "2026-11-28 10:51"
+  },
+  {
+   "id": "8444bba877f4ad6f",
+   "source": "IT之家",
+   "title": "广汽弹匣电池 3.0 亮相广州车展：底部防护 2000J、手榴弹爆破不起火",
+   "url": "https://www.ithome.com/1/033/815.htm",
+   "summary": "IT之家 11 月 28 日消息，在 2026 广州车展上，广汽集团正式展出弹匣电池 3.0 技术，围绕底部撞击与侧面碰撞两类用车高频风险，提出“两硬三防”的电池安全方案。 广汽集团电池系统研发负责人王清泉在车展现场介绍称，新技术的重点是强化结构防护，同时把风险识别环节前移。 “两硬三防”中的“两硬”指两道结构防护。第一道针对底部撞击。新版动力电池安全国标首次将底部撞击纳入强制测试，能量要求为 150 焦耳（IT之家注：焦耳是能量单位，1 焦耳相当于 1 牛顿的力作用 1 米距离所做的功）。 王清泉称，弹匣电池在 5 年前已满足这一要求，3.0 技术通过七层防护架构把底部防护能力提升至 200",
+   "published_at": 1795834006.0,
+   "published_bj": "2026-11-28 10:46"
+  },
+  {
+   "id": "830a35f524da3d3d",
+   "source": "IT之家",
+   "title": "212 首款三门车型 T10 上市：三片式快拆硬顶，17.99 万-18.99 万元",
+   "url": "https://www.ithome.com/1/033/814.htm",
+   "summary": "IT之家 11 月 28 日消息，2026 广州车展期间，212 品牌旗下首款三门车型 T10 正式上市，推出 2.0T 汽油版和 2.0T 柴油版，官方售价分别为 17.99 万元和 18.99 万元。T10 基于经典硬派越野底盘架构打造，采用三门短轴和三片式快拆硬顶设计，并预留 30 余处原厂拓展接口，主打专业越野与个性化体验。 据IT之家了解，该车提供前后整体硬桥 + 大梁结构，长宽高分别为 4416/1955/1925mm，轴距为 2570mm。其设计主打复古风，轮廓硬朗方正，配有圆形车灯和粗壮的前格栅，以及大尺寸前保险杠。此外，该车最大的特征是采用三门四座设计，并配有可拆卸车顶；尾门",
+   "published_at": 1795833349.0,
+   "published_bj": "2026-11-28 10:35"
+  },
+  {
+   "id": "6bda79397775b47a",
+   "source": "IT之家",
+   "title": "魏建军回应“长城汽车销量从第一掉到第九”：内卷、资本裹挟、财务造假是主因",
+   "url": "https://www.ithome.com/1/033/813.htm",
+   "summary": "IT之家 11 月 28 日消息，此前，长城汽车董事长魏建军在与胖东来创始人于东来交流时，透露长城汽车销量排名从中国自主品牌第一下滑至第九，引发广泛关注。 在 2026 广州车展现场，魏建军就此事作出公开回应。他将排名变化的主要原因归结为三点：“内卷”“资本裹挟”和“财务造假”。 魏建军表示，如果不能排除恶意竞争，汽车产业就无法得到健康发展。“我排到第九，但是我心里边很坦然，他们都睡不着觉。” 在之前跟于东来进行交流的时候，于东来也回应称“你管他压力呢，你做自己嘛”，并建议魏建军不必被排名绑架。 魏建军此前已多次公开批评部分车企依靠关联交易虚构销量、以“零公里二手车”粉饰业绩等行为，并主张车企",
+   "published_at": 1795832997.0,
+   "published_bj": "2026-11-28 10:29"
+  },
+  {
+   "id": "41b3877629f0295e",
+   "source": "IT之家",
+   "title": "微软高管：暂无 Win12 发布时间表，当前首要任务是打磨 Win11",
+   "url": "https://www.ithome.com/1/033/812.htm",
+   "summary": "IT之家 11 月 28 日消息，在 Ignite 2026 活动后接受 Axios 采访时，微软 Windows 事业部执行副总裁帕万 · 达武卢里（Pavan Davuluri）表示， 微软目前专注于打磨 Windows 11 的品质、体验、基础能力、性能和可靠性。 IT之家援引博文介绍，被问及 Windows 12 时，达武卢里既未否认，也未给出任何时间表。他强调，微软必须先构建未来 AI 应用所需的技术，并证明用户确实认可这些能力的价值，才能“赢得许可”，进而推进下一代系统。 达武卢里表示 Windows 11 用户规模已超过 10 亿，成为全球规模最大的桌面操作系统之一。用户基数庞大",
+   "published_at": 1795832851.0,
+   "published_bj": "2026-11-28 10:27"
+  },
+  {
+   "id": "cf27fea0a76d99b2",
+   "source": "IT之家",
+   "title": "CounterPoint：京东方若合并维信诺，AMOLED 面板份额将位列第二仅次三星显示",
+   "url": "https://www.ithome.com/1/033/811.htm",
+   "summary": "IT之家 11 月 28 日消息，据 CounterPoint 分析，若京东方（BOE）推进对维信诺（Visionox）的收购并完成合并，两家公司在 AMOLED 面板出货市场的合计份额将达到约 32% ，一举跃居全球第二，仅次于当前行业龙头三星显示（Samsung Display），远超现有单独排名第二的厂商。 此前有韩媒报道称，京东方高层已与合肥市政府方面展开高级别会谈，原本聚焦收购维信诺单条 OLED 产线的谈判范围，已扩大至探讨公司整体收购，相关交易规模预计将在今年 12 月敲定。 不过针对市场收购传闻，维信诺已于 11 月 25 日公开回应，公司目前 尚未与任何投资方签署具有法律约束",
+   "published_at": 1795832567.0,
+   "published_bj": "2026-11-28 10:22"
+  },
+  {
+   "id": "8b62eaadc0e99adc",
+   "source": "IT之家",
+   "title": "Edge 浏览器右键菜单不加新 AI 了，微软对搁置可能造成的不便深表歉意",
+   "url": "https://www.ithome.com/1/033/810.htm",
+   "summary": "IT之家 11 月 28 日消息，科技媒体 NeoWin 昨日（11 月 27 日）发布博文，报道称微软已搁置为 Edge 浏览器扩展 AI 功能计划， 不再为该浏览器右键菜单加入摘要、引用和翻译功能。 IT之家援引博文介绍，微软于 2025 年 6 月更新 AI at Work 路线图条目 RM497135，规划在 Microsoft Edge 浏览器中，为右键菜单添加 3 项 AI 选项，用户选中文本后右键，可以调用 Copilot 完成摘要、引用和翻译功能。 不过微软近期更新该条目，表示“ 我们已决定取消这项计划发布。由此可能造成的不便，我们深表歉意。 ”微软没有说明取消的具体原因。 该",
+   "published_at": 1795832173.0,
+   "published_bj": "2026-11-28 10:16"
+  },
+  {
+   "id": "e04119f7c6841a95",
+   "source": "IT之家",
+   "title": "“微软 2026 最大宕机”事件后，Outlook 和 GitHub 再次反馈出现服务故障",
+   "url": "https://www.ithome.com/1/033/808.htm",
+   "summary": "IT之家 11 月 28 日消息，根据故障监测平台 DownDetector 今天（11 月 28 日）发布的最新追踪数据， 微软在经历“2026 最大宕机”事件 后， 旗下的 Outlook 和 GitHub 再次出现服务故障。 Outlook 方面，根据该平台监测的反馈数据，在过去 24 小时持续有用户反馈登录、收发信息出现故障，从美国东部时间凌晨 1:01（北京时间 11 月 27 日 14:01）开始，峰值时间出现在北京时间 11 月 27 日 14 点 36 分。 而 GitHub 方面，根据反馈数据，用户访问时普遍遇到 504 网关超时错误，从美国东部时间 11 月 27 日 13",
+   "published_at": 1795831622.0,
+   "published_bj": "2026-11-28 10:07"
+  },
+  {
+   "id": "6d3251a00c3a65a9",
+   "source": "Hacker News",
+   "title": "Atari Homebrew Awards Cancelled",
+   "url": "https://forums.atariage.com/topic/394894-atari-homebrew-awards-cancelled/",
+   "summary": "Article URL: https://forums.atariage.com/topic/394894-atari-homebrew-awards-cancelled/ Comments URL: https://news.ycombinator.com/item?id=50673688 Points: 133 # Comments: 118",
+   "published_at": 1795831405.0,
+   "published_bj": "2026-11-28 10:03"
+  },
+  {
+   "id": "63aa128fa3fc42b8",
+   "source": "IT之家",
+   "title": "一汽丰田 2027 款普拉多上市：限时焕新价 40.98~55.98 万元",
+   "url": "https://www.ithome.com/1/033/807.htm",
+   "summary": "IT之家 11 月 28 日消息，在 2026 广州车展上，一汽丰田 2027 款普拉多正式上市，共推出 5 款车型，官方指导价 44.98 万至 55.98 万元，限时焕新价 40.98 万元起，活动持续至 2026 年 12 月 31 日。 具体来看，穿越 BX 版限时焕新价为 40.98 万元，全能 TX 版为 44.98 万元，WALD 沃德版为 45.98 万元，悍野 WX 版为 51.98 万元，旗舰 VX 版为 55.98 万元。IT之家注意到，本次升级主要涉及内饰质感、外观设计、越野配置及拖挂拓展能力。 外观方面，全能 TX 版重新采用经典圆形大灯设计，延续 LC40、LC70",
+   "published_at": 1795830905.0,
+   "published_bj": "2026-11-28 09:55"
+  },
+  {
+   "id": "f73dc830a684b5b9",
+   "source": "IT之家",
+   "title": "告别旧界面：火狐 Firefox 浏览器下月将移除回退选项，Nova 界面成唯一选择",
+   "url": "https://www.ithome.com/1/033/806.htm",
+   "summary": "IT之家 11 月 28 日消息，Mozilla 昨日（11 月 27 日）在官方 Connect 论坛发文， 宣布将于 12 月移除火狐 Firefox 浏览器中用于恢复旧版界面的实验 Flag，此后 Nova 新设计将成为所有用户的唯一选择。 IT之家援引博文介绍，Nova 是 Mozilla 今年推出的界面改版，采用更常见的现代圆角设计，用户此前可在 about:config 中调整 browser.nova.enabled 首选项，从而切换恢复到旧版界面。而最新公告显示 Mozilla 将在 12 月移除相关选项，用户只能使用 Nova。 针对用户反馈，Mozilla 已作出部分调整。",
+   "published_at": 1795830647.0,
+   "published_bj": "2026-11-28 09:50"
+  },
+  {
+   "id": "5c36a7ff5d729fab",
+   "source": "IT之家",
+   "title": "仅今年第三季度，SK 海力士员工人均绩效奖金预估可达 2.3 亿韩元",
+   "url": "https://www.ithome.com/1/033/805.htm",
+   "summary": "IT之家 11 月 28 日消息，据韩媒 ChosunBiz 昨天（27 日）报道，SK 海力士员工的绩效奖金规模正迅速攀升。据估算，仅今年第三季度，公司计提的员工绩效奖金就折合人均 2.3 亿韩元 （IT之家注：现汇率约合 114.2 万元人民币） 。 截至 9 月底，人均累计计提金额达到 5.02 亿韩元 （现汇率约合 249.2 万元人民币） 。如果全年营业利润符合证券机构的预测， 人均奖金有望达到 7.85 亿韩元 （现汇率约合 389.8 万元人民币） 。 为了支付明年年初开始发放的奖金及其他款项，SK 海力士计提的应付薪酬也在 9 月底突破 15 万亿韩元 （现汇率约合 744.7",
+   "published_at": 1795830376.0,
+   "published_bj": "2026-11-28 09:46"
+  },
+  {
+   "id": "47a0390c7d30cad7",
+   "source": "IT之家",
+   "title": "Wine 11.23 新增 ARM64 macOS 支持：VKD3D 升级至 2.2，修复《明日方舟：终末地》等游戏兼容性问题",
+   "url": "https://www.ithome.com/1/033/804.htm",
+   "summary": "IT之家 11 月 28 日消息，开源兼容层 Wine 11.23 今日正式发布，支持在 Linux、macOS 等类 Unix 系统上运行 Windows 应用和游戏。 本次更新的主要变化是新增对 ARM64 macOS 的支持，同时改进了 ARM64 环境下的 32 位模拟能力。 Wine 11.23 在 ARM64 的 32 位模拟环境中加入 AVX 指令支持，有助于提升依赖相关指令的 Windows 软件兼容性。 图形方面，此次更新将内置 VKD3D 升级至 2.2（IT之家注：VKD3D 是用于将 Direct3D 12 调用转换为 Vulkan 的组件）。此外，Wine 接口定义语",
+   "published_at": 1795830167.0,
+   "published_bj": "2026-11-28 09:42"
+  },
+  {
+   "id": "eb45d5a6251fe638",
+   "source": "IT之家",
+   "title": "开发者推出《寂静岭 PC 版》引擎，安卓手机也能玩初代经典",
+   "url": "https://www.ithome.com/1/033/803.htm",
+   "summary": "IT之家 11 月 28 日消息，独立开发者 keklick1337 最新推出 Silent Hill PC 项目， 在 Windows、Linux、macOS 和安卓平台原生运行 1999 年发行的 PlayStation 恐怖经典《寂静岭》游戏。 根据 GitHub 项目描述，该项目是一个从零编写的全新引擎 ，不含原版游戏的任何代码，也不含 PlayStation 模拟成分。该项目参考社区反编译项目 silent-hill-decomp，通过读懂原作的运行逻辑，再用新代码重新写出。 引擎提供 OpenGL 3.3、Vulkan 和 SDL3 GPU 三种渲染器。HDR、体积雾、光线追踪和实",
+   "published_at": 1795830071.0,
+   "published_bj": "2026-11-28 09:41"
+  },
+  {
+   "id": "b00ebdeb81561a2f",
+   "source": "Hacker News",
+   "title": "Woman evicted after landlord's AI assistant told her she could delay rent",
+   "url": "https://drmahfouz.substack.com/p/woman-evicted-after-landlords-ai",
+   "summary": "Article URL: https://drmahfouz.substack.com/p/woman-evicted-after-landlords-ai Comments URL: https://news.ycombinator.com/item?id=50673521 Points: 112 # Comments: 85",
+   "published_at": 1795829576.0,
+   "published_bj": "2026-11-28 09:32"
+  },
+  {
+   "id": "04704fcb7fdae7aa",
+   "source": "IT之家",
+   "title": "R 星联合负责人尼尔森表态：《侠盗猎车手》系列不太可能走出美国",
+   "url": "https://www.ithome.com/1/033/801.htm",
+   "summary": "IT之家 11 月 28 日消息，《GTA 6》发售前，曾有消息称，R 星考虑过将一款《侠盗猎车手》系列新作的故事舞台搬到东京，但最终放弃了这一计划。R 星前高管奥贝 · 维尔梅伊（Obbe Vermeij）当时解释，开发一款以海外为背景的 GTA 游戏 存在不小的风险 。 当地时间 27 日，外媒 Eurogamer 发布了采访 R 星联合负责人罗布 · 尼尔森（Rob Nelson）的内容。 尼尔森谈到了未来将 GTA 系列带出美国的可能性。他认为，这种情况不太可能发生，不过理由与此前维尔梅伊给出的解释并不相同。“我不知道…… 因为总会有更有意思的地方值得我们考虑，把游戏设定在那里。 美国",
+   "published_at": 1795829204.0,
+   "published_bj": "2026-11-28 09:26"
+  },
+  {
+   "id": "e4e3fe238cbcf97d",
+   "source": "IT之家",
+   "title": "民间移植 PC 版 LineageOS 24 登场：4GB 内存电脑也能运行，让你体验安卓 17",
+   "url": "https://www.ithome.com/1/033/800.htm",
+   "summary": "IT之家 11 月 28 日消息，开发者 Mateus Seiboth 于 11 月 26 日在 Reddit 社区发帖， 分享了开源 CapivaOS 项目，把 LineageOS 24 移植到 x86 架构的个人电脑上。 该项目基于安卓 17 系统，在 GitHub 平台上项目名称为 LineageOS 24.0 for x86_64 PCs，让为手头有闲置笔记本电脑的用户，提供了低成本体验“安卓笔记本”方式。 安装方式上，该项目提供 2 种方式，一种是直接使用预编译 ISO，通过 U 盘启动，可以进入 live 系统试用；另一种是自己编译后用 PcInstaller 安装到硬盘。 在操作",
+   "published_at": 1795829203.0,
+   "published_bj": "2026-11-28 09:26"
+  },
+  {
+   "id": "dfbc62deb846f10a",
+   "source": "IT之家",
+   "title": "小米 REDMI Turbo 6 系列新机通过 3C 认证，支持 100W 有线快充",
+   "url": "https://www.ithome.com/1/033/799.htm",
+   "summary": "IT之家 11 月 28 日消息，昨日有一款型号为 M407CF 的小米新机通过国家 3C 质量认证。数码博主 @数码闲聊站 称该机属于 REDMI Turbo 6 系列。 如IT之家下图所示，3C 认证显示该机搭配的电源适配器型号为 MDY-18-EW，支持最高 20V 5A 的 100W 功率输出。 作为参考，上一代 REDMI Turbo 5 于 2026 年 1 月 29 日发布，搭载 7560mAh 电池并支持 100W 快充。 相关阅读： 《 小米新机通过 3C 认证：有望为 REDMI Note 18，配备 45W 充电 + 8888mAh 电池 》",
+   "published_at": 1795828402.0,
+   "published_bj": "2026-11-28 09:13"
+  },
+  {
+   "id": "ca83114447d288e6",
+   "source": "IT之家",
+   "title": "脑癌治疗新希望：加州理工学院研发纳米机器人 BrainBot，可随血液循环突破血脑屏障向脑内递药",
+   "url": "https://www.ithome.com/1/033/798.htm",
+   "summary": "IT之家 11 月 28 日消息，当地时间 27 日，据外媒 TechSpot 报道，加州理工学院研究人员开发出一种能够 随血液循环、将药物送入大脑的纳米机器人 BrainBot。 据悉，该机器人能够穿过血脑屏障。这道保护大脑的细胞屏障本来负责阻挡病菌、毒素等有害物质，却也让许多治疗脑部疾病的药物难以抵达病灶。在一种脑癌小鼠模型中，经过光激活的 BrainBot 向脑内输送的药物量约为未激活同类机器人的 5 倍。 血脑屏障的防护能力太强，有时反而成了治疗障碍。它能将病原体、毒素及其他威胁挡在大脑之外，却也会把药物拦在外面。结果就是，医生即使拥有能够对抗某种疾病的药物，也未必能让药物真正抵达患病",
+   "published_at": 1795827872.0,
+   "published_bj": "2026-11-28 09:04"
+  },
+  {
+   "id": "30c433d9e9039f13",
+   "source": "IT之家",
+   "title": "系列首款可拍 8K 视频机型：富士 X-T6 曝光，电池容量提高 16%、引入新胶片模拟模式",
+   "url": "https://www.ithome.com/1/033/797.htm",
+   "summary": "IT之家 11 月 28 日消息，科技媒体 fujirumors 昨日（11 月 27 日）发布博文，报道称在 12 月 2 日举办的 Fujifilm X Summit 峰会上，富士（Fujifilm）将推出 X-T6 无反相机，在欧洲的建议零售价为 2,099 欧元，比前代产品高出 100 欧元。 消息称富士 X-T6 的核心升级富士 X-Trans CMOS 6 HR 传感器。该传感器据称采用 RGBW 子像素技术，从而降低低光照条件下拍摄照片和视频时的噪点。 视频方面，X-T6 将支持 8K/30p 4:2:2 10 位拍摄， 有望成为富士 X-T 系列首款可拍摄 8K 视频的机型。 ",
+   "published_at": 1795827748.0,
+   "published_bj": "2026-11-28 09:02"
+  },
+  {
+   "id": "2a7cbc996ce1fc6f",
+   "source": "IT之家",
+   "title": "Denuvo 追查破解者 voices38 身份未果：Discord 无数据、Reddit 拒绝提供资料，Valve 提交 7 个 Steam 账号但未能确认归属",
+   "url": "https://www.ithome.com/1/033/796.htm",
+   "summary": "IT之家 11 月 28 日消息，Denuvo 母公司 Irdeto 今年 9 月在加州北区联邦地区法院起诉 voices38，指控其绕过 26 款游戏的 D 加密保护。但截至目前，此次调查仍未取得明显进展。 尽管美国法院批准其向 Valve、Discord 和 Reddit 调取用户资料，且 Valve 已提交涉及 7 个 Steam 账号的信息，但这家公司仍未能确认相关账号背后的真实身份，不得不向法院申请额外 90 天调查时间。 Denuvo 母公司 Irdeto 于 2026 年 9 月 14 日在美国加利福尼亚州北区联邦地区法院起诉匿名破解者 voices38，指控其绕过 Denuvo",
+   "published_at": 1795827714.0,
+   "published_bj": "2026-11-28 09:01"
+  },
+  {
+   "id": "439a0ae81788d084",
+   "source": "IT之家",
+   "title": "iOS 27.3 前瞻苹果 AI 限额：Siri AI 标准每日 20 次云端请求",
+   "url": "https://www.ithome.com/1/033/795.htm",
+   "summary": "IT之家 11 月 28 日消息，技术博主 @itspdfu 于 11 月 26 日在 X 平台发布长推文， 通过挖掘 iOS 27.3 Beta 2 开发者预览版，发现了苹果 Siri AI 和多项 Apple Intelligence 功能的每日使用限额。 消息源指出根据苹果设定， 设备每向苹果的私密云计算（PCC）发起一次请求，就消耗一个 Token。 而这些 Token 只用来证明用户还有可用额度，不会暴露用户身份。 在请求流程中，用户在 iPhone 端发起的云端 PCC 请求，会先联系 Token 授予服务（Token Granting Service，简称 TGS）。TGS 知道",
+   "published_at": 1795827037.0,
+   "published_bj": "2026-11-28 08:50"
+  },
+  {
+   "id": "e986e21b590644c6",
+   "source": "少数派",
+   "title": "本月玩什么｜GTA VI、塞尔达传说 时之笛、魔兽世界：无限",
+   "url": "https://sspai.com/post/119686",
+   "summary": "以上便是部分近期值得探讨的新游信息汇总，个人角度仅供参考。本期不设特定有奖互动话题，欢迎你在评论区分享11月新作游玩体验，可以是本文出现的，也可以是本文未提及、但你特别想推荐给派友的。我们下期再见！> ... 查看全文",
+   "published_at": 1795826867.0,
+   "published_bj": "2026-11-28 08:47"
+  },
+  {
+   "id": "49e494f6a6c4cb58",
+   "source": "IT之家",
+   "title": "大众被印度追税后将奔驰、宝马、起亚拖下水：其他车企也干了，凭什么针对我？",
+   "url": "https://www.ithome.com/1/033/794.htm",
+   "summary": "IT之家 11 月 28 日消息，路透社当地时间 11 月 27 日报道，大众汽车在印度面临的 12 亿美元 （IT之家注：现汇率约合 80.05 亿元人民币） 关税追缴纠纷进入新的交锋阶段。 大众向孟买法院主张，印度税务部门在零部件进口关税问题上对其进行了不公正的针对，并将梅赛德斯-奔驰、宝马、起亚等竞争对手的进口数据一并提交给了法庭。 此次事件争议的核心在于印度对汽车进口的两套税率：单独进口零部件适用约 10% 的关税，而以全散件形式进口、用于当地组装的车辆则适用约 30% 至 35% 的税率。 印度税务部门指控大众“故意”将接近完整的汽车拆分为零部件、分批运往印度，在当地组装成整车，从而",
+   "published_at": 1795826692.0,
+   "published_bj": "2026-11-28 08:44"
+  },
+  {
+   "id": "3459470465d42f5c",
+   "source": "IT之家",
+   "title": "《空洞骑士：丝之歌》首个大型扩展「悲恸之海」12 月 11 日免费发布",
+   "url": "https://www.ithome.com/1/033/792.htm",
+   "summary": "IT之家 11 月 28 日消息，《空洞骑士：丝之歌》（Hollow Knight：Silksong）全新 DLC“悲恸之海”（Sea of Sorrow）正式公布，将于 12 月 11 日推出。 这是《空洞骑士：丝之歌》推出后的首个大型扩展内容，所有玩家均可免费获得。开发商 Team Cherry 表示，此次扩展将为玩家带来全新的海洋主题冒险内容。 根据 Team Cherry 公布的信息，玩家将在“悲恸之海”中探索法洛姆（Pharloom）被遗忘的海洋，前往海面及海底区域，穿越群岛、堡垒，以及深藏于海浪之下的洞穴。 Team Cherry 表示，开发团队过去一年一直在为这次扩展内容进行开发",
+   "published_at": 1795825518.0,
+   "published_bj": "2026-11-28 08:25"
+  },
+  {
+   "id": "a0d3d0fdccb105b4",
+   "source": "IT之家",
+   "title": "IT 管理员称微软 Copilot 可擅自修改企业 OneDrive / SharePoint 文件，恐引合规风险",
+   "url": "https://www.ithome.com/1/033/790.htm",
+   "summary": "IT之家 11 月 28 日消息，微软一直积极推动 Copilot 融入旗下各类应用，Office 自然也不例外。然而据外媒 Neowin 当地时间 27 日报道，一名 IT 管理员指出，部分新功能可能给使用 Microsoft 365 的企业和组织带来棘手的合规风险。 据这名管理员透露，拥有 Business Premium 订阅及 Copilot 许可证的用户， 只需向 Copilot 输入文字指令，就能直接编辑保存在 OneDrive 和 SharePoint 中的文件 。Copilot 还可以自行识别目标文件并进行修改，用户既不必指定文件名，也无需明确确认修改操作。 即使没有启用按使用",
+   "published_at": 1795825440.0,
+   "published_bj": "2026-11-28 08:24"
+  },
+  {
+   "id": "87972aae9638319b",
+   "source": "IT之家",
+   "title": "约 37.5GB：全球最大域名注册商 GoDaddy 被爆数据泄露，含薪酬等员工信息",
+   "url": "https://www.ithome.com/1/033/791.htm",
+   "summary": "IT之家 11 月 28 日消息，科技媒体 Neowin 昨日（11 月 27 日）发布博文， 报道称勒索软件组织 Inception 声称入侵了域名注册商和网站托管服务商 GoDaddy，并在其泄密网站上公开了约 37.5GB 的数据。 GoDaddy 成立于 1997 年，总部位于美国亚利桑那州坦佩，是全球最大的域名注册商，根据该公司年报，截至 2025 年 12 月 31 日该机构管理约 8,100 万个域名。按 .com 域名数（2026 年 5 月）统计，GoDaddy 管理约 5,270 万个域名，远超第二名 Namecheap（约 1,370 万）。 根据 Inception 披",
+   "published_at": 1795825348.0,
+   "published_bj": "2026-11-28 08:22"
+  },
+  {
+   "id": "c555318392eed926",
+   "source": "IT之家",
+   "title": "开源 3D 引擎 O3DE 升级 26.10：编辑器换上 Qt 6 新界面，启动器首次原生支持 Wayland",
+   "url": "https://www.ithome.com/1/033/789.htm",
+   "summary": "IT之家 11 月 28 日消息，科技媒体 Linuxiac 今天（11 月 28 日）报道，免费、开源、跨平台的 3D 引擎 Open 3D Engine（简称 O3DE）发布 26.10 版本， 带来包含 200 多项修复和改进，增强开发 3D 游戏、模拟和交互式应用程序。 在界面与工具方面，引擎将 Qt 版本从 5.15.2 升级至 6.10.2，实现了编辑器和开发工具的现代化。新版本还重新设计了实体检查器，统一了编辑器快捷键，并在资源编辑器中加入撤销功能。 在 Linux 平台方面，游戏启动器首次原生支持 Wayland，用户可在运行时或编译时选择 Wayland 或 X11。IT之家",
+   "published_at": 1795824464.0,
+   "published_bj": "2026-11-28 08:07"
+  },
+  {
+   "id": "d11fc9b1b6379ceb",
+   "source": "IT之家",
+   "title": "亚马逊再现“临时工”：三星 Galaxy S26 Ultra 以 0.84 折成交，部分用户已收到货",
+   "url": "https://www.ithome.com/1/033/788.htm",
+   "summary": "IT之家 11 月 28 日消息，当地时间 11 月 26 日，亚马逊日本站出现商品价格异常，三星最新旗舰手机 Galaxy S26 Ultra 一度以 20,185 日元 （IT之家注：现汇率约合 845.6 元人民币） 的价格出售，相比原价立减 92%。 亚马逊随后紧急修正商品价格，但部分消费者已经成功下单。 据 SamMobile 报道，尽管此次价格异常疑似源于商品定价少打了一位数，但亚马逊仍履行了部分订单。截至发稿，已经有十多位买家反馈收到货并晒出手机照片。另外，日本当地科技社区也出现了相关订单发货及收货讨论。 据 Android Authority 报道，此次价格异常仅涉及 256G",
+   "published_at": 1795823884.0,
+   "published_bj": "2026-11-28 07:58"
+  },
+  {
+   "id": "18daa71d52e6f17a",
+   "source": "IT之家",
+   "title": "Linux 7.5 将合并支持 AMD RDNA5，新显卡驱动提前就位",
+   "url": "https://www.ithome.com/1/033/787.htm",
+   "summary": "IT之家 11 月 28 日消息，科技媒体 phoronix 报道称，AMD 工程师于 11 月 26 日向 DRM-Next 提交了新一轮内核图形与计算驱动变更， 推动 Linux 7.5 内核合并支持 GFX13（即 RDNA 5）图形架构。 报道称 AMD 已于本月初发布一系列补丁，为开源 AMDGPU 驱动程序添加 GFX13 实验性支持。而在最新提交的变更中，AMD 团队已开始为 Linux 7.5 合并窗口做准备，进一步推动 RDNA 5 发布落地。 此前已有消息提及两个特定目标，即 GFX 13.0.1 和 GFX 13.0.4，表明 AMD 正在准备至少两种图形 IP 配置。不",
+   "published_at": 1795823598.0,
+   "published_bj": "2026-11-28 07:53"
+  },
+  {
+   "id": "5e7445210a172ff9",
+   "source": "IT之家",
+   "title": "LGA 1700 老平台将迎新处理器，英特尔 Raptor Lake-S NEXT 已坐实",
+   "url": "https://www.ithome.com/1/033/786.htm",
+   "summary": "IT之家 11 月 28 日消息，科技媒体 Wccftech 昨日（11 月 27 日）发布博文，报道称 在海关舱单记录后 ，英特尔 Raptor Lake-S NEXT 处理器已在官方驱动文档中确认，该系列面向 LGA 1700 平台，属于桌面处理器产品。 英特尔近日在其官方网站发布的 Windows Zero Copy 显示虚拟化驱动程序文档中，首次明确列出了“Raptor Lake-S NEXT PV”，从而在产品发布之前，悄然确认了 Raptor Lake-S NEXT 这一处理器系列的存在。 文档显示，最新版 Windows Zero Copy 驱动支持 Bartlett Lake-",
+   "published_at": 1795822797.0,
+   "published_bj": "2026-11-28 07:39"
+  },
+  {
+   "id": "e12e011a755408af",
+   "source": "IT之家",
+   "title": "美空军云系统遭黑客入侵，大量战术、人事及后勤相关敏感数据或面临安全威胁",
+   "url": "https://www.ithome.com/1/033/785.htm",
+   "summary": "IT之家 11 月 28 日消息，三名知情人士告诉路透社，美国空军旗舰云计算平台 Cloud One 遭黑客入侵，大量涉及 战术、人事和后勤 的敏感数据恐面临安全威胁。 其中两名知情人士称，入侵事件是在近一个月内 对 Cloud One 进行系统升级时发现的 ，整个平台的运行因此受到影响。 至于黑客身份、入侵究竟波及多大范围，以及是否有数据被盗，目前均无法确定。美国空军回应称：“我们不对特定网络和系统的安全状况、漏洞或运行状态发表评论。我们持续采取审慎措施，保护美国空军部的信息、系统和任务执行能力。” IT之家从报道中获悉，美国空军于 2017 年启动 Cloud One 项目，旨在提供一站式",
+   "published_at": 1795822702.0,
+   "published_bj": "2026-11-28 07:38"
+  },
   {
    "id": "e9485fee094d66fa",
    "source": "IT之家",
@@ -65,6 +488,15 @@
    "summary": "IT之家 11 月 28 日消息，据彭博社报道，当地时间 11 月 27 日，英国就业和养老金部发现一起网络安全事件，并以“防范风险”为由暂停了系统运行。该国就业和养老金部称，系统中断 不会影响款项发放 。 就业和养老金大臣帕特 · 麦克法登证实，暂停系统运行是因为发生了一起严重事件。IT之家从报道中获悉，该部门负责全英国数千万人福利金和养老金发放工作。 近几周，多个关键系统接连发生引发广泛关注的技术故障，部分故障源于 各机构仓促修复 AI 发现的漏洞、老旧系统升级出错，以及针对企业和政府的网络攻击 。 本月早些时候，微软系统宕机，导致客户一度无法收发企业电子邮件。美国多家银行也出现系统故障，",
    "published_at": 1795820826.0,
    "published_bj": "2026-11-28 07:07"
+  },
+  {
+   "id": "04632dc7d9657c8a",
+   "source": "Hacker News",
+   "title": "Google's DeepCrossAttention achieves comparable model quality up to 3x faster",
+   "url": "https://research.google/blog/supercharging-transformer-residual-connections/",
+   "summary": "Article URL: https://research.google/blog/supercharging-transformer-residual-connections/ Comments URL: https://news.ycombinator.com/item?id=50672565 Points: 222 # Comments: 75",
+   "published_at": 1795820789.0,
+   "published_bj": "2026-11-28 07:06"
   },
   {
    "id": "23f21824dffff450",
